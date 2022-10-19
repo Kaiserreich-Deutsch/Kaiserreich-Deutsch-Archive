@@ -1,0 +1,88 @@
+﻿l_german:
+### Übersetzt von DerEherneRächer ###
+ ASM: "Assam"
+ ASM_ADJ: "Assamesisch"
+ ASM_DEF: "Assam"
+
+ BNG: "Bengal"
+ BNG_ADJ: "Bengalisch"
+ BNG_DEF: "Bengal"
+
+ BOM: "Maharashtra"
+ BOM_ADJ: "Maharashtrisch"
+ BOM_DEF: "Maharashtra"
+
+ GUJ: "Gujarat"
+ GUJ_ADJ: "Gujaratisch"
+ GUJ_DEF: "Gujarat"
+
+ HYD: "Hyderabad"
+ HYD_ADJ: "Hyderabadisch"
+ HYD_DEF: "Hyderabad"
+
+ INR: "Bharatiya-Rebellen"
+ INR_ADJ: "Bharatiya"
+ INR_DEF: "die Bharatiya-Rebellen"
+
+ KAS: "Kaschmir"
+ KAS_ADJ: "Kaschmirisch"
+ KAS_DEF: "Kaschmir"
+
+ MYS: "Mysore"
+ MYS_ADJ: "Mysorisch"
+ MYS_DEF: "Mysore"
+
+ ORI: "Orissa"
+ ORI_ADJ: "Orissisch"
+ ORI_DEF: "Orissa"
+
+ PAK: "Pakistan"
+ PAK_ADJ: "Pakistanisch"
+ PAK_DEF: "Pakistan"
+
+ PAK_punjab: "Punjab"
+ PAK_punjab_ADJ: "Punjabisch"
+ PAK_punjab_DEF: "Punjab"
+
+ PJB: "Khalistan"
+ PJB_ADJ: "Khalistanisch"
+ PJB_DEF: "Khalistan"
+
+ RJS: "Rajasthan"
+ RJS_ADJ: "Rajasthanisch"
+ RJS_DEF: "Rajasthan"
+
+ TRV: "Travancore"
+ TRV_ADJ: "Travancorisch"
+ TRV_DEF: "Travancore"
+ 
+### World Tension ###
+ indian_wars_threat: "Indische Einigungskriege"
+
+### Characters ###
+ BNG_muzaffar_ahmed: "Muzaffar Ahmed"
+
+ GUJ_bahman_pestonji_wadia: "Bahman Pestonji Wadia"
+ GUJ_sayajirao_gaekwad_iii: "Sayajirao Gaekwad III"
+
+ HYD_osman_ali_khan: "Osman Ali Khan"
+ HYD_madapati_hanumantha_rao: "Madapati Hanumantha Rao"
+ HYD_syed_ahmed_el_edroos: "Syed Ahmed El-Edroos"
+ HYD_azam_jah: "Azam Jah"
+ HYD_kasim_razvi: "Kasim Razvi"
+
+ PAK_aga_khan_iii: "Aga Khan III"
+ PAK_liaquat_ali_khan: "Liaquat Ali Khan"
+ PAK_allama_mashriqi: "Allama Mashriqi"
+ PAK_abul_ala_maududi: "Abul A'la Maududi"
+
+ PAK_ali_haidar: "Ali Haidar"
+ PAK_mahmood_khan_durrani: "Mahmood Khan Durrani"
+ PAK_shah_nawaz_khan: "Shah Nawaz Khan"
+
+ PJB_tara_singh: "Tara Singh"
+
+ RJS_sawai_man_singh_ii: "Sawai Man Singh II"
+
+ TRV_chithira_thirunal_balarama_varma: "Chithira Thirunal Balarama Varma"
+ TRV_chandrasekharan_nair: "Chandrasekharan Nair"

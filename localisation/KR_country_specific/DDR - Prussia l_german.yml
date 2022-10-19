@@ -1,0 +1,47 @@
+﻿l_german:
+
+##Übersetzt von Thylon##
+
+### Moving the Capital ###
+
+ddr.1.t: "Eine neue Hauptstadt finden"
+ddr.1.d: "Durch die feindliche Besetzung unserer normalen Hauptstadt Berlin sind wir gezwungen, eine Alternative zu wählen."
+ddr.1.a: "Königsberg war schon immer unsere Hauptstadt"
+ddr.1.b: "Breslau ist eine gute vorübergehende Wahl"
+
+### Country Names ###
+DDR: "Preußen"
+DDR_ADJ: "Preußisch"
+DDR_DEF: "Preußen"
+
+DDR_totalist: "Preußische Republik"
+DDR_totalist_ADJ: "Preußisch"
+DDR_totalist_DEF: "die Preußische Republik"
+DDR_syndicalist: "Preußische Republik"
+DDR_syndicalist_ADJ: "Preußisch"
+DDR_syndicalist_DEF: "die Preußische Republik"
+DDR_radical_socialist: "Preußische Republik"
+DDR_radical_socialist_ADJ: "Preußisch"
+DDR_radical_socialist_DEF: "die Preußische Republik"
+
+### Parties ###
+DDR_totalist_party: "SE"
+DDR_totalist_party_long: "Sozialistische Einheitsplattform"
+DDR_radical_socialist_party: "PBA"
+DDR_radical_socialist_party_long: "Preußische Bauern- und Arbeitervereinigung"
+DDR_syndicalist_party: "POI"
+DDR_syndicalist_party_long: "Preußische Organisation der Internationale"
+DDR_social_democrat_party: "SPD"
+DDR_social_democrat_party_long: "Sozialdemokratische Partei Deutschlands"
+DDR_social_liberal_party: "FVP"
+DDR_social_liberal_party_long: "Fortschrittliche Volkspartei"
+DDR_market_liberal_party: "NLP"
+DDR_market_liberal_party_long: "Nationalliberale Partei"
+DDR_social_conservative_party: "CDV"
+DDR_social_conservative_party_long: "Christlich-Demokratische Volkspartei"
+DDR_authoritarian_democrat_party: "DKP"
+DDR_authoritarian_democrat_party_long: "Deutschkonservative Partei"
+DDR_paternal_autocrat_party: "FP"
+DDR_paternal_autocrat_party_long: "Freikonservative Partei"
+DDR_national_populist_party: "AV"
+DDR_national_populist_party_long: "Alldeutscher Verband"

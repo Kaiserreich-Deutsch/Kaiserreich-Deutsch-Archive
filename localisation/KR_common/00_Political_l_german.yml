@@ -1,0 +1,270 @@
+﻿l_german:
+### Übersetzt von Proho ###
+### Opening Event ###
+kr.political.1.t: "Kaiserreich Beta 0.22.2"
+kr.political.1.d: "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.22.2 für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\n\nDer Mod basiert auf der Annahme, dass der Spieler immer alle möglichen Staaten in Friedensverträgen annektiert, also stellen Sie sicher, dass Sie dies tun\n\nSie können die Häufigkeit von Nachrichtenereignissen ändern, indem Sie das Symbol oben auf der Registerkarte 'Entscheidungen' umschalten\n\nSie können auswählen, welche Namenssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Menü 'Erfolge' oben rechts ersetzt.\n\nSie können auswählen, welche Benennungssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Errungenschaftsmenü oben rechts ersetzt\n\nDenken Sie daran, dass sich dieser Mod noch in der Betaphase befindet, daher sind leider Fehler und Abstürze möglich Probleme, diese auf unserem GitHub Issue Tracker zu melden, ist eine große Hilfe und wird sie früher beheben\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
+kr.political.1.a: "Da bin ich sicher!"
+
+### Generic Faction Joining ###
+ kr.political.10.t: "Eine Allianz mit [FROM.GetNonIdeologyNameDef]?"
+ kr.political.10.d: "Nachdem ihre internen Angelegenheiten geklärt sind, scheint es, dass [FROM.GetNameDefCap] nun nach außen schaut - und als solche der Allianz [ROOT.GetFactionName] beitreten möchte. Sollten wir sie akzeptieren?"
+ kr.political.10.a: "Gemeinsam sind wir stärker!"
+ kr.political.10.b: "Wenn ich es mir recht überlege, nein..."
+
+ kr.political.11.t: "[From.GetNonIdeologyNameDefCap] Hat akzeptiert!"
+ kr.political.11.d: "Zeit zu jubeln! [From.GetNameDefCap] hat unseren Antrag auf Beitritt zur [FROM.GetFactionName] angenommen, wie wir es uns erhofft hatten!"
+ kr.political.11.a: "Exzellent!"
+
+ kr.political.12.t: "[From.GetNonIdeologyNameDefCap] hat abgelehnt!"
+ kr.political.12.d: "Zu unserem Leidwesen hat [From.GetNameDef] unsere Anfrage, der [FROM.GetFactionName] beizutreten, abgelehnt."
+ kr.political.12.a: "Ihr Verlust."
+
+ kr.political.13.t: "Eine Allianz mit [FROM.GetNonIdeologyNameDef]?"
+ kr.political.13.d: "Eine überraschende Wendung der Ereignisse - es scheint, dass [FROM.GetNameDef] nach Verbündeten sucht, und uns deshalb eingeladen hat, der [FROM.GetFactionName] beizutreten. Sollten wir annehmen?"
+ kr.political.13.a: "Gemeinsam sind wir stärker!"
+ kr.political.13.b: "Wenn ich es mir recht überlege, nein..."
+
+ kr.political.14.t: "[From.GetNonIdeologyNameDefCap] Hat akzeptiert!"
+ kr.political.14.d: "Es ist Zeit, sich zu freuen! [From.GetNameDefCap] hat unsere Einladung angenommen, der [ROOT.GetFactionName] beizutreten, wie wir es uns erhofft hatten!"
+ kr.political.14.a: "Exzellent!"
+
+ kr.political.15.t: "[From.GetNonIdeologyNameDefCap] hat abgelehnt!"
+ kr.political.15.d: "Zu unserem Leidwesen hat [From.GetNameDef] unsere Einladung, der [ROOT.GetFactionName] beizutreten, abgelehnt."
+ kr.political.15.a: "Ihr Verlust."
+
+### Incoming War-ning ###
+kr.political.30.t: "Bereite dich auf den Krieg vor!"
+kr.political.30.d: "Wir haben zahlreiche Berichte erhalten, dass sich derzeit [From.GetAdjective] -Truppen versammeln und dass über die [Root.GetAdjective] -Grenze hinweg viel Aufklärung stattfindet. Militärbeamte sagen, es sei klar, dass [From.GetNameDef] eine Invasion von [Root.GetNameDef] plant, die jederzeit innerhalb der nächsten Wochen beginnen könnte."
+kr.political.30.a: "Wir müssen uns vorbereiten!"
+kr.political.31.d: "Wir haben alarmierende Nachricht von [From.GetNameDef] erhalten, dass sich [From.From.GetAdjective] -Truppen derzeit versammeln und dass über die [From.GetAdjective]-Grenze hinweg viel Aufklärung stattfindet. Militärbeamte sagen, es sei klar, dass [From.From.GetNameDef] eine Invasion von [From.GetNameDef] plant, die jederzeit innerhalb der nächsten Wochen beginnen könnte."
+kr.political.32.d: "Wir haben von unseren Verbündeten in [From.GetNameDef] die Nachricht erhalten, dass sich ihre Truppen derzeit sammeln und dass ein großer Teil der Aufklärung über die [attack_target.GetAdjective] Grenze hinweg stattfindet. From.GetNameDef] plant eine Invasion von [attack_target.GetNameDef], die jederzeit innerhalb der nächsten Wochen beginnen könnte."
+
+### Returning Cores ###x
+return_cores_to_ally: "Geben Sie [From.GetAdjective] Land zurück"
+return_cores_to_ally_desc: "Die Regierung [Root.GetAdjective] hat diskutiert, was mit den derzeit besetzten [From.GetAdjective] -Ländern zu tun ist - Land, auf das wir keinen berechtigten Anspruch haben. Sollten wir das Land unseren Verbündeten [From.GetAdjective] zurückgeben?"
+return_cores_to_subject: "Geben Sie [From.GetAdjective] Land zurück"
+return_cores_to_subject_desc: "Die Regierung [Root.GetAdjective] hat diskutiert, was mit den derzeit besetzten [From.GetAdjective] -Ländern zu tun ist - Land, auf das wir keinen berechtigten Anspruch haben. Sollten wir das Land in [From.GetNameDef] an unsere Untertanen zurückgeben?"
+
+kr.political.75.t: "Das [From.From.GetAdjective] Land"
+kr.political.75.d: "Die Regierung [Root.GetAdjective] hat diskutiert, was mit den derzeit besetzten [return_to.GetAdjective] -Ländern zu tun ist - Land, auf das wir keinen berechtigten Anspruch haben. Sollen wir ihnen dieses Land zurückgeben?"
+kr.political.75.a: "Ja, geben Sie ihnen alles Land zurück"
+KR_will_return_all: "Alle Küsten- oder angrenzenden Staaten, die [return_to.GetAdjective] Kerne oder Ansprüche werden an §Y[return_to.GetNameDef]§!zurück gegeben.\n\nBeachten Sie dies wird §Rnot§! Zustände einschließen, die sind [Root.GetAdjective] §Yclaimed§! oder §Ycore§! Staaten."
+kr.political.75.b: "Ja, gib ihnen Land zurück, aber behalte die wichtigsten Staaten"
+KR_will_return_rest: "Alle Küsten- oder angrenzenden Staaten, bei denen es sich um [return_to.GetAdjective]-Kerne oder -Ansprüche handelt, werden zurückgegeben an §Y[return_to.GetNameDef]§!.\n\nBeachten Sie dies wird §Rnot§! Staaten einschließen, die sind [Root.GetAdjective] §Yclaimed§! oder §Ycore§! Staaten, noch wird es enthalten §Yvital§! Staaten wie Kanäle."
+kr.political.75.c: "Gib nur ihre Kernländer zurück"
+KR_will_return_cores: "Alle Küsten- oder angrenzenden Staaten, bei denen es sich um [return_to.GetAdjective] -Kerne handelt, werden zurückgegeben an §Y[return_to.GetNameDef]§!.\n\nBeachten Sie dies wird §Rnot§! einschließen [Root.GetAdjective] §Yclaimed§! oder §Ycore§! Staaten, noch §Yvital§! Staaten wie Kanäle. Andere [return_to.GetAdjective] §Yclaims§! werden ebenfalls behalten."
+kr.political.75.e: "Wir werden alles behalten!"
+KR_will_not_return: "Wir werden §Rnot§! geben keines ihrer Länder zurück, auch nicht wenn wir dazu aufgefordert werden."
+
+kr.political.76.t: "[From.GetNameDefCap] gibt Land [Root.GetAdjective] zurück"
+kr.political.76.d: "Unsere Verbündeten in [From.GetNameDefCap] haben uns einige unserer richtigen Länder zurückgegeben!"
+kr.political.76.a: "Großartig!"
+
+### Ideology ###
+KR_different_ideology_close: "Unterschiedliche Ideologie"
+KR_different_ideology: "Unterschiedliche Ideologie"
+KR_similar_ideology_close: "Ähnliche Ideologie"
+KR_similar_ideology: "Ähnliche Ideologie"
+KR_similar_ideology_distant: "Ähnliche Ideologie"
+KR_same_ideology: "Gleiche Ideologie"
+KR_ideology_allowed: "Minister für die Ideologie des Landes erlaubt"
+KR_factional_rivalry: "Fraktionsrivalität"
+head_of_gov_available: "§RRegierungschefs können nicht manuell hinzugefügt oder entfernt werden.§! Sie können nur über Ereignisse, Schwerpunkte, Entscheidungen usw. geändert werden.\n\nDiese Liste enthält alle möglichen Regierungschefs einer Nation, sodass die Menschen hier möglicherweise im Widerspruch zum derzeitigen Chef stehen, in einem anderen Land oder sogar tot sind."
+minister_available: "§RMinister können nicht manuell hinzugefügt oder entfernt werden.§! Sie können nur über Ereignisse, Schwerpunkte, Entscheidungen usw. geändert werden.\n\nDiese Liste enthält alle möglichen Minister für eine Nation, so dass die Menschen hier möglicherweise im Widerspruch zur gegenwärtigen Regierung stehen, in einem anderen Land oder sogar tot sind."
+military_staff_available: "Dieser Angehörige des Militärstabs ist am Leben und bereit, der Regierung zu dienen."
+
+ government_is_loc: "Die derzeitige Regierungspartei ist "
+ government_is_not_loc: "Die derzeitige Regierungspartei ist nicht "
+
+ KR_is_socialist: "$government_is_loc$§Y$totalist$§!, §Y$syndicalist$§! oder §Y$radical_socialist$§!"
+ KR_is_socialist_NOT: "$government_is_not_loc$§Y$totalist$§!, §Y$syndicalist$§! oder §Y$radical_socialist$§!"
+
+ KR_is_elected: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§! oder §Y$social_conservative$§!"
+ KR_is_elected_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§! oder §Y$social_conservative$§!"
+
+ KR_is_democratic: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§!, §Y$social_conservative$§! oder §Y$authoritarian_democrat$§!"
+ KR_is_democratic_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§!, §Y$market_liberal$§!, §Y$social_conservative$§! oder §Y$authoritarian_democrat$§!"
+
+ KR_is_authoritarian: "$government_is_loc$§Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! oder §Y$national_populist$§!"
+ KR_is_authoritarian_NOT: "$government_is_not_loc$§Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! oder §Y$national_populist$§!"
+
+ KR_is_dictatorship: "$government_is_loc$§Y$paternal_autocrat$§! oder §Y$national_populist$§!"
+ KR_is_dictatorship_NOT: "$government_is_not_loc$§Y$paternal_autocrat$§! oder §Y$national_populist$§!"
+
+ KR_right_wing_democracy: "$government_is_loc$§Y$market_liberal$§! oder §Y$social_conservative$§!"
+ KR_right_wing_democracy_NOT: "$government_is_not_loc$§Y$market_liberal$§! oder §Y$social_conservative$§!"
+
+ KR_left_wing_democracy: "$government_is_loc$§Y$social_democrat$§! oder §Y$social_liberal$§!"
+ KR_left_wing_democracy_NOT: "$government_is_not_loc$§Y$social_democrat$§! oder §Y$social_liberal$§!"
+
+ KR_is_any_authoritarian: "$government_is_loc$§Y$totalist$§!, §Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! oder §Y$national_populist$§!"
+ KR_is_any_authoritarian_NOT: "$government_is_not_loc$§Y$totalist$§!, §Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! oder §Y$national_populist$§!"
+
+ KR_is_liberal: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§! oder §Y$market_liberal$§!"
+ KR_is_liberal_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§! oder §Y$market_liberal$§!"
+
+ KR_is_conservative: "$government_is_loc$§Y$social_conservative$§! oder §Y$authoritarian_democrat$§!"
+ KR_is_conservative_NOT: "$government_is_not_loc$§Y$social_conservative$§! oder §Y$authoritarian_democrat$§!"
+
+### At War Notice ###
+has_scripted_peace: "Wir führen Krieg"
+has_scripted_peace_desc: "Das Land befindet sich im Krieg und ist entschlossen, den Sieg zu erringen - obwohl unser Widerstand wahrscheinlich etwas brüchiger ist, als es scheint. (Note: Dies gilt für Kriege, in denen ein geskriptetes Friedensereignis existiert, und es besteht die Möglichkeit, dass das Ereignis ausgelöst wird, lange bevor diese erhöhte Übergabegrenze erreicht wird, nur damit Sie sich dessen bewusst sind.)"
+
+### Demobilisation ###
+mobilisation_penalty_modifier: "Über Divisions Limit"
+
+unit_limit_count: "[unit_limit_count_loc]/[?max_divisions|H0]"
+
+unit_limit_count_red: "[?num_actual_divisions|R0]"
+unit_limit_count_yellow: "[?num_actual_divisions|H0]"
+unit_limit_count_green: "[?num_actual_divisions|G0]"
+
+unit_limit_factory_bonus: "Industriebonus auf Divisionslimit"
+unit_limit_bonus: "Divisions Limit"
+ unit_limit_subject_bonus: "Division Limit"
+
+unit_limit_label: "§HMaximal unterstützte Divisionen§!"
+unit_limit_desc: "Jedes Land hat nur die Fähigkeit, eine bestimmte Anzahl einzelner militärischer Divisionen zu unterstützen, bevor seine Wirtschaft und Infrastruktur damit zu kämpfen hat, diese zu unterhalten.\n\nDie maximale Anzahl der geförderten Einheiten basiert auf der Gesamtbevölkerung und den Besitzständen des Landes und wird dann mit dem allgemeinen Industrialisierungsgrad des Landes multipliziert.[unit_limit_civil_war]\n\n§L   - Basis aus Gesamtbevölkerung: [?base_population|G1][unit_limit_noncore_population][unit_limit_subject_population_bonus]\n   - Basis aus eigenen Staaten: [?base_states|G0][unit_limit_subject_state_bonus]\n   - Gesamtbasis: [?base_units|G1]\n\n   - Industrialisierung Verändern: [?industry_factor_uncapped|H%][unit_limit_modifier_was_capped][unit_limit_extra_modifier_line_break][unit_limit_faction_leader][unit_limit_economy_law][unit_limit_was_capped][unit_limit_lower_limit_used][unit_limit_bonus_used]\n\n   ENDSUMME: [?max_divisions|H1]\n\nBitte beachten Sie, dass Änderungen an den obigen Angaben bis zu einer Woche im Spiel dauern, bevor sie in der Berechnung berücksichtigt werden.§![above_unit_limit_desc]"
+
+unit_limit_desc_fake_intel: "(§HGefälschte Intel-Divisionen§! nicht auf die Divisionsgrenze angerechnet)"
+
+unit_limit_desc_above_limit: "\n\n--------------\n\n§RWir haben derzeit unsere Kapazitäten überschritten, und die einzige Möglichkeit, den Stress für unser Land zu verringern, besteht darin, einige unserer Divisionen aufzulösen.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]"
+
+ unit_limit_civil_war_desc: "\n\nIn einem §Bürgerkrieg§! werden auch die feindlichen Staaten zu unseren Grenzen gezählt und unsere zu ihren."
+unit_limit_noncore_population_desc: "\n      (§H2%§! von Nicht-Kernstaaten: [?non_core_base|H1])"
+ unit_limit_subject_population_bonus_desc: "\n      ([?subject_base_units|H1] von §HSubjects§!)"
+ unit_limit_subject_state_bonus_desc: "\n      ([?subject_states|H1] von §HSubjects§!)"
+unit_limit_modifier_was_capped_desc: "\n      (Begrenzt auf ein Minimum von [?0.5|H%])"
+unit_limit_faction_leader_desc: "\n   - Fraktionsführer: §G+15%§!"
+unit_limit_was_capped_desc: "\n\n   - Unbegrenzt Gesamt: [?net_max_divisions|H0]"
+unit_limit_num_states_used_desc: "\n\n   Da die angegebene Gesamtzahl niedriger war als die Anzahl der besessenen Werte ([?num_owned_states|H0]), wurde diese stattdessen verwendet."
+unit_limit_default_used_desc: "\n\n   Da die bereitgestellte Summe kleiner war als der Standardwert (§H5§!)war, wurde stattdessen dieser verwendet."
+unit_limit_bonus_used_desc: "\n\n   - Zusätzliche Modifikatoren: [?modifier@unit_limit_bonus|=+0] to cap"
+
+unit_limit_low_economic_mobilisation: "\n   - §H$low_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+unit_limit_partial_economic_mobilisation: "\n   - §H$partial_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+unit_limit_war_economy: "\n   - §H$war_economy$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+unit_limit_tot_economic_mobilisation: "\n   - §H$tot_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
+
+### Tooltips ###
+ KR_party_pop_less_than_100: "Weniger als §Y100%§! Unterstützung für [Root.GetRulingParty]"
+is_ally_of_ROOT: "Ist ein Verbündeter von [ROOT.GetNameDef]"
+has_coalition_with: "Ist in einer Koalition mit §H[?coalition_partner_to_check.GetTokenLocalizedKey]§!"
+
+### Decisions ###
+ generic_raise_stability: "[generic_raise_stability_text]"
+ generic_raise_stability_desc: "[generic_raise_stability_desc_text]"
+
+ generic_raise_stability_socialist: "Verbesserte Arbeitsbedingungen"
+ generic_raise_stability_socialist_desc: "Fabrikarbeit ist hart und birgt viele Gefahren. Die Verbesserung der Bedingungen für unsere Fabrikarbeiter wird kurzfristig zu einer Verringerung der Produktion führen, aber die langfristigen Vorteile sind es wert."
+
+ generic_raise_stability_liberal: "Freiheiten gesetzlich regeln"
+ generic_raise_stability_liberal_desc: "Der vielleicht einfachste Weg, die Stabilität unseres Landes zu verbessern, ist, den Menschen zu geben, was sie wollen. Das wird einige unbequeme Kompromisse mit sich bringen, aber im Idealfall handelt es sich um Maßnahmen, die nur vorübergehend sind und dazu dienen, das Volk zu besänftigen, bis die Ordnung wiederhergestellt werden kann."
+
+ generic_raise_stability_conservative: "Razzia der Polizei"
+ generic_raise_stability_conservative_desc: "Die Unordnung hat überhand genommen. Wir müssen die Beschränkungen für unsere Polizeikräfte lockern und ihnen die Freiheit geben, ihre Arbeit zu tun und die schlimmsten Täter zu verhaften."
+
+ generic_raise_stability_authoritarian: "Schickt die Armee"
+ generic_raise_stability_authoritarian_desc: "Der Weg, mit Unruhen in unserem Land umzugehen, besteht darin, die Armee zu schicken und sie vollständig zu unterdrücken. Nicht jeder wird darüber glücklich sein, das stimmt, aber manchmal ist das Kriegsrecht die einzige Alternative."
+
+ generic_raise_support: "[generic_raise_support_text]"
+ generic_raise_support_desc: "[generic_raise_support_desc_text]"
+
+rally_public_support: "Sammeln Sie Öffentliche Unterstützung"
+rally_public_support_desc: "Mit etwas politischer Macht und industrieller Unterstützung werden wir unsere Unterstützer für unsere Sache gewinnen. Dies wird zwar Zeit und Ressourcen erfordern, aber auf lange Sicht wird dies unser politisches Ansehen verbessern."
+
+solidify_control: "Kontrolle festigen"
+solidify_control_desc: "Einige taktvolle Nutzung der politischen Macht hier und einige Ressourcen dort, und wir werden unsere politischen Hindernisse zu beseitigen; wir werden vielleicht nicht alle loswerden können, aber selbst wenn wir einige loswerden, werden wir unseren Weg frei machen und unsere politische Macht auf lange Sicht verbessern."
+
+ restructure_supply_system: "Umstrukturierung des Eisenbahnsystems"
+ restructure_supply_system_desc: "Durch die Umleitung von Baumaterialien und Bahnarbeitern können wir schnell eine kleine Anzahl von behelfsmäßigen Versorgungsdeponien entlang einiger unserer Bahnstrecken schaffen. Dies ist jedoch nicht nachhaltig.\n\n§RDiese Entscheidung kann nur einmal getroffen werden. Der Bonus verschwindet, wenn Sie mehr als 3 zusätzliche Versorgungszentren errichten.§!"
+ 
+ seize_some_trains_woo: "Zivile Züge beschlagnahmen"
+ seize_some_trains_woo_desc: "Angesichts des drohenden Krieges ist es unser gutes Recht, Lokomotiven und rollendes Material für den Staat zu beschlagnahmen."
+
+debug_decisions: "Debug-Entscheidungen"
+ turn_off_plpc_debug: "Spielergeführte Konferenzen ausschalten"
+ turn_off_plpc_debug_desc: "Dadurch werden spielergeführte Friedenskonferenzen vorübergehend ausgeschaltet - das bedeutet, dass Friedenskonferenzen wie gewohnt ablaufen und KI-Länder nicht aussteigen, wenn ein Spieler beteiligt ist."
+ turn_on_plpc_debug: "Spielergeführte Konferenzen einschalten"
+ turn_on_plpc_debug_desc: "Damit wird die normale Funktionalität von spielergeführten Friedenskonferenzen wiederhergestellt. KI-Länder werden immer aus Friedenskonferenzen aussteigen, wenn ein Spieler auf der Gewinnerseite beteiligt ist."
+ KR_player_leads_conferences: "§YSpieler Vorrang§! Spielregel für Friedenskonferenzen ist aktiv und §Gaktiviert§!\n"
+ KR_plpc_disable_tt: "§YSpieler Vorrang§! Spielregel wird vorübergehend §Rdeaktiviert§!\n"
+ KR_plpc_enable_tt: "§YSpieler Vorrang§! Spielregel wird noch einmal §Gaktiviert§!\n"
+ KR_plpc_turned_off: "§YSpieler Vorrang§! Spielregel für Friedenskonferenzen ist aktiv, wird aber derzeit §Rdeaktiviert§!\n"
+ stt_highlight_states: "Markierte Staaten"
+ 
+##################
+### Ideologies ###
+##################
+
+### Names ###
+totalist: "Totalisten"
+syndicalist: "Syndikalisten"
+radical_socialist: "Radikale Sozialisten"
+social_democrat: "Sozialdemokraten"
+social_liberal: "Sozialliberale"
+market_liberal: "Marktliberale"
+social_conservative: "Sozialkonservative"
+authoritarian_democrat: "Autoritäre Demokraten"
+paternal_autocrat: "Paternale Autokraten"
+national_populist: "Nationalpopulisten"
+
+### Nouns ###
+totalist_noun: "Totalismus"
+syndicalist_noun: "Syndikalismus"
+radical_socialist_noun: "Radikaler Sozialismus"
+social_democrat_noun: "Sozialdemokratie"
+social_liberal_noun: "Sozialliberalismus"
+market_liberal_noun: "Markt Liberalismus"
+social_conservative_noun: "Sozialer Konservatismus"
+authoritarian_democrat_noun: "Autoritäre Demokratie"
+paternal_autocrat_noun: "Paternale Autokratie"
+national_populist_noun: "Nationaler Populismus"
+
+### Ideology Grouping ###
+kr_government_grouping: "Ideologische Gruppe"
+totalist_desc: "Sozialistisch"
+syndicalist_desc: "Sozialistisch"
+radical_socialist_desc: "Sozialistisch"
+social_democrat_desc: "Liberal"
+social_liberal_desc: "Liberal"
+market_liberal_desc: "Liberal"
+social_conservative_desc: "Konservativ"
+authoritarian_democrat_desc: "Konservativ"
+paternal_autocrat_desc: "Reaktionär"
+national_populist_desc: "Reaktionär"
+
+### Subtype Descriptions ###
+totalist_subtype_desc: "Der Begriff 'Totalismus' stammt aus der Totalistischen Charta, einer Kooperationsvereinbarung zwischen Oswald Mosley, Georges Valois und Benito Mussolini, in der die wichtigsten Grundsätze der Ideologie dargelegt wurden. Totalisten geben das föderative Element der syndikalistischen Staatsorganisation auf und erklären, dass revolutionäre Staaten bis zur Erreichung der Weltrevolution zentralisiert und militarisiert werden müssen, um die verbleibenden kapitalistischen Staaten zu bekämpfen. Das Ausmaß, in dem die Gesellschaft durch totalistische Regime verändert wird, ist ebenfalls bedeutend größer und führt häufig zu einer totalitären Kontrolle der Gesellschaft und zur Konstruktion von Personenkulten. 'Totalismus' wird auch häufig verwendet, um linke Staaten zu beschreiben, die nicht mit dem Charter-Totalismus verbunden sind, aber dennoch Merkmale wie Militarisierung, Zentralisierung und totalitäre Transformation der Gesellschaft aufweisen."
+syndicalist_subtype_desc: "Der Syndikalismus ist die führende linksrevolutionäre Ideologie, deren Aufstieg zur weltweiten Bekanntheit mit der französischen Revolution von 1919 begann. Obwohl der Syndikalismus zwischen verschiedenen Strömungen aufgeteilt ist, von denen einige von anderen Ideologien wie Marxismus und Anarchismus beeinflusst sind, basiert der orthodoxe Syndikalismus auf den Werken der Führer der Confédération Générale du Travail (CGT), die in der Charta von Amiens von 1906  kodifiziert sind und betrachtet Mikhail Bakunin und Pierre-Joseph Proudhon als seine Vorläufer. Der Syndikalismus wird durch die Konzepte der revolutionären Spontaneität und des direkten Handelns definiert - der Überzeugung, dass die in Gewerkschaften organisierten Arbeiter selbst den Kapitalismus bekämpfen müssen, anstatt sich auf einen externen Agenten wie eine politische Partei zu verlassen. Die Umwandlung einer kapitalistischen Gesellschaft in eine syndikalistische Gesellschaft muss durch einen Generalstreik erfolgen - eine landesweite Ablehnung des Kapitalismus und eine Übertragung aller Produktionsmittel auf die Gewerkschaften. Die syndikalistischen Staaten sind dezentralisiert und föderalistisch, alle Branchen sind in Syndikaten organisiert, die aus diesen Gewerkschaften gewählten Arbeitsräte verwalten die lokale Regierungsführung, und die Zentralregierung ist an einem nationalen Kongress von Gewerkschaftsvertretern beteiligt. Inwieweit diese Grundsätze umgesetzt werden, ist jedoch von Land zu Land unterschiedlich."
+radical_socialist_subtype_desc: "Der radikale Sozialismus ist ein Schlagwort für die verschiedenen sozialistischen, kommunistischen und anarchistischen Ideologien, die nicht direkt mit dem Syndikalismus verbunden sind. Länder mit dieser Ideologie arbeiten mit einer sozialistischen Wirtschaft, die normalerweise von einer gewählten Regierungsform begleitet wird; Ihr letztendliches Ziel ist es, ein Paradies für die Arbeiterklasse zu schaffen, dessen Details von Bewegung zu Bewegung variieren."
+social_democrat_subtype_desc: "Die Sozialdemokratie ist eine Ideologie, deren Ziel es ist, den Kapitalismus zu reformieren und zu humanisieren, indem sie an den ethischen Idealen der sozialen Wohlfahrt ausgerichtet wird, während die kapitalistische Produktionsweise beibehalten wird, anstatt ein alternatives sozialistisches Wirtschaftssystem zu schaffen. Während normalerweise eine plutokratische Regierungsform und eine stark regulierte Marktwirtschaft gefördert werden, gibt es einige radikalere Strömungen."
+social_liberal_subtype_desc: "Der Sozialliberalismus ist eine Variation des Mainstream-Marktliberalismus, wobei der Hauptunterschied darin besteht, verschiedene bürgerliche Freiheiten als grundlegende Menschenrechte einzubeziehen. Mit Bekenntnis zu fortschrittlicher Sozial- und Wirtschaftspolitik wollen die Sozialliberalen eine Gesellschaft schaffen, in der jeder Einzelne unabhängig von seinem Status sein eigenes Leben mit vollen Möglichkeiten führen kann."
+market_liberal_subtype_desc: "Marktliberale verstehen sich als die liberale Mainstream-Ideologie. Die Hauptmieter des Marktliberalismus sind ein unregulierter freier Markt und ein demokratisches plutokratisches politisches System. Marktliberale glauben, je freier der Markt, desto freier die Menschen, und sie werden die politischen und wirtschaftlichen Rechte des Einzelnen entschieden verteidigen."
+social_conservative_subtype_desc: "Der Konservatismus ist eine politische Ideologie, die sich darauf konzentriert, traditionelle Überzeugungen, Einstellungen und Philosophien sowie die traditionelle Machtdynamik der Gesellschaft unter Nutzung des demokratischen Systems zu bewahren. Im Gegensatz zu radikalen und moderaten Änderungen des Status quo wollen Konservative die Gesellschaft in Ordnung und stabil halten. Normalerweise fördern sie eine regulierte Marktwirtschaft, aber eine liberalere Wirtschaftspolitik ist keine Seltenheit."
+authoritarian_democrat_subtype_desc: "Die autoritäre Demokratie ist eine Ideologie, die eine starke Exekutivgewalt mit einem repräsentativen Parlament und einem teilweise demokratischen politischen System verbindet. Autoritäre demokratische Regime nehmen in sozialen Fragen häufig eine konservative Haltung ein und fördern liberal-kapitalistische Volkswirtschaften mit begrenzten staatlichen Eingriffen. Diese Regime zielen darauf ab, die nationale Stabilität aufrechtzuerhalten und dem Volk eine populäre und verantwortungsvolle Regierung zu bieten."
+paternal_autocrat_subtype_desc: "Die paternale Autokratie ist keine politische Ideologie im normalen Sinne des Wortes, sondern ein allgemeiner Begriff für die Haltung, die diese Regierungen gegenüber ihren Bürgern einnehmen: Das Volk ist alle Untertanen des Führers, entweder ein Monarch oder ein Diktator, und das ist es auch die Aufgabe und Pflicht des Führers, Staat und Gesellschaft auf den rechtschaffenen und besten Weg zu führen und gleichzeitig die Menschen unter seinem wohlwollenden Schutz zu vereinen. Diese Länder haben normalerweise eine sehr autoritäre Regierung, konservative soziale Ansichten und eine staatlich kontrollierte Wirtschaft."
+national_populist_subtype_desc: "Der Nationalpopulismus umfasst eine Vielzahl ultra-nationalistischer und militaristischer Bewegungen und verehrt in der Regel die Hingabe an den Staat, indem er die Menschen unter einem starken Führer und einer Unternehmenswirtschaft vereint. Der nationale Populismus tritt oft für Rassenpolitik und gewalttätige Rhetorik ein und wird von den meisten anderen politischen Parteien vehement abgelehnt."
+
+### Drift ###
+totalist_drift: "Tägliche totalistische Unterstützung"
+syndicalist_drift: "Tägliche syndicaliste Unterstützung"
+radical_socialist_drift: "Tägliche radikale sozialistische Unterstützung"
+social_democrat_drift: "Tägliche sozialdemokratische Unterstützung"
+social_liberal_drift: "Tägliche sozialliberale Unterstützung"
+market_liberal_drift: "Tägliche marktliberale Unterstützung"
+social_conservative_drift: "Tägliche sozialkonservative Unterstützung"
+authoritarian_democrat_drift: "Tägliche Unterstützung der autoritären Demokraten"
+paternal_autocrat_drift: "Tägliche Unterstützung der Paternal Autokraten"
+national_populist_drift: "Tägliche nationalpopulistische Unterstützung"
+
+ totalist_acceptance: "Akzeptanz der totalistischen Diplomatie"
+ syndicalist_acceptance: "Akzeptanz der syndikalistischen Diplomatie"
+ radical_socialist_acceptance: "Akzeptanz der radikalen sozialistischen Diplomatie"
+ social_democrat_acceptance: "Akzeptanz der sozialdemokratischen Diplomatie"
+ social_liberal_acceptance: "Akzeptanz der sozialliberalen Diplomatie"
+ market_liberal_acceptance: "Akzeptanz der marktliberalen Diplomatie"
+ social_conservative_acceptance: "Akzeptanz der sozialkonservativen Diplomatie"
+ authoritarian_democrat_acceptance: "Akzeptanz der autoritär-demokratischen Diplomatie"
+ paternal_autocrat_acceptance: "Akzeptanz der Diplomatie des paternalen Autokraten"
+ national_populist_acceptance: "Akzeptanz der national-populistischen Diplomatie"

@@ -1,0 +1,9 @@
+version="0.22.2"
+tags={
+	"Translation"
+}
+dependencies={
+	"Kaiserreich"
+}
+name="KaiserreichDeutsch"
+supported_version="1.12.*"
