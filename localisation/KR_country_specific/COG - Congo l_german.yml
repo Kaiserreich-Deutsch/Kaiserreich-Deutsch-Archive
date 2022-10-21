@@ -1,0 +1,26 @@
+﻿l_german:
+
+##Übersetzt von Thylon##
+
+### Parties ###
+COG_paternal_autocrat_party: "Manikong-Clique"
+COG_paternal_autocrat_party_long: "Manikongs-Clique"
+
+### Country Names ###
+COG: "Kongo"
+COG_ADJ: "Kongolesisch"
+COG_DEF: "Kongo"
+
+### Events ###
+cog.1.t: "Portugiesen fordern die Manikong, das Knie zu beugen"
+cog.1.d: "Portugal, unser ehemaliger Kolonialherr, der uns entthront und aus unserer angestammten Heimat Mbanza Kongo vertrieben hat, verlangt nun von uns, dass wir das Knie beugen. Im Gegenzug sollen wir neben der Region Cabinda auch unsere Hauptstadt zurückerhalten. Wenn wir uns weigern, ist es fast sicher, dass sie eine Kriegserklärung aussprechen werden."
+cog.1.a: "Unser Überleben in diesen schwierigen Zeiten ist wichtiger als unser Stolz."
+cog.1.b: "Wir werden ihnen im Kampf begegnen!"
+
+cog.2.t: "Kongo akzeptiert"
+cog.2.d: "Der Manikong hat unser Angebot angenommen und sich unterworfen, was seinem Land Frieden bringt. Im Gegenzug erlauben wir ihm, seine deutsche Ausrüstung und sein Personal zu behalten, mit einem großen Maß an Autonomie. Nun aber kann Portugal endlich den Kongo für sich beanspruchen."
+cog.2.a: "Willkommen zurück!"
+
+cog.3.t: "Kongo weigert sich"
+cog.3.d: "Der Manikong hat unsere Forderung nach Unterwerfung abgelehnt, so dass uns keine andere Wahl bleibt, als die Angelegenheit mit militärischer Gewalt durchzusetzen."
+cog.3.a: "Eine unkluge Entscheidung."
