@@ -1,0 +1,36 @@
+l_german:
+
+### Parties ###
+ARM_totalist_party:0 "Komunistakan"
+ARM_totalist_party_long:0 "Komunistakan Kusaktsutyun"
+
+ARM_syndicalist_party:0 "Syndicalistakan"
+ARM_syndicalist_party_desc:0 "Syndicalistakan Kusaktsutvun"
+
+ARM_radical_socialist_party:0 "Hunchaks"
+ARM_radical_socialist_party_long:0 "Social Demokrat Hunchakian Kusaktsutyun (Social Democrat Hunchakian Party)"
+
+ARM_social_democrat_party:0 "Dashnaks"
+ARM_social_democrat_party_long:0 "Dashnaktsutyun (Armenian Revolutionary Federation)"
+
+ARM_social_liberal_party:0 "Veragazmial"
+ARM_social_liberal_party_long:0 "Veragazmial Hunchakianner"
+
+ARM_market_liberal_party:0 "Ramgavar"
+ARM_market_liberal_party_long:0 "Ramgavar Azatakan Kusaktsutyun (Armenische Demokratisch-Liberale Partei)"
+
+ARM_social_conservative_party:0 "Pahpanoghakan"
+ARM_social_conservative_party_long:0 "Pahpanoghakan Kusaktsutyun"
+
+ARM_authoritarian_democrat_party:0 "OHF"
+ARM_authoritarian_democrat_party_long:0 "OsmanlÄ± Halk FÄ±rkasÄ± (Osmanische Volkspartei)"
+
+ARM_paternal_autocrat_party:0 "ANLM"
+ARM_paternal_autocrat_party_long:0 "Armenian National Liberation Movement (Armenische Nationale Befreiungsbewegung)"
+
+ARM_national_populist_party:0 "Tseghakronutyun"
+ARM_national_populist_party_long:0 "Tseghakronutyun"
+
+### Ideas ###
+arm_ottoman_occupation:0 "Osmanische Militärregierung"
+arm_ottoman_occupation_desc:0 "Seit seiner Besetzung am Ende des Weltkrieges ist Armenien unter dem Druck der osmanischen Armee zusammengebrochen, die, obwohl die schwere Repression des Weltkrieges aufgehört hat, weiterhin täglich im Leben der armenischen Bürger präsent ist. Neben der Besetzung wurden auch strenge Restriktionen für seine gesetzgebenden Versammlungen und die Rüstungsproduktion verhängt, so dass das 'Vilayet von Armenien' niemals eine Bedrohung für den türkischen Staat darstellen kann."

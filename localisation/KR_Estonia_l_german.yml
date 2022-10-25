@@ -1,0 +1,30 @@
+l_german:
+
+### Parties ###
+EST_totalist_party:0 "ETRL"
+EST_totalist_party_long:0 "Eesti Töötava Rahva Liit (Estnische Liga der arbeitenden Bevölkerung)"
+EST_syndicalist_party:0 "ETRL"
+EST_syndicalist_party_long:0 "Eesti Töötava Rahva Liit (Estnische Liga der arbeitenden Bevölkerung)"
+EST_radical_socialist_party:0 "ETRL"
+EST_radical_socialist_party_long:0 "Eesti Töötava Rahva Liit (Estnische Liga der arbeitenden Bevölkerung)"
+EST_social_democrat_party:0 "ESTP"
+EST_social_democrat_party_long:0 "Eesti Sotsialistlik Tööliste Partei (Estnische Sozialistische Arbeiterpartei)"
+EST_social_liberal_party:0 "Tööerakond"
+EST_social_liberal_party_long:0 "Eesti Tööerakond (Estnische Arbeiterpartei)"
+EST_market_liberal_party:0 "Rahvaerakond"
+EST_market_liberal_party_long:0 "Eesti Rahvaerakond (Estnische Volkspartei)"
+EST_social_conservative_party:0 "Maarahva Liit"
+EST_social_conservative_party_long:0 "Maarahva Liit (Liga des ländlichen Raums)"
+EST_authoritarian_democrat_party:0 "Isamaaliit"
+EST_authoritarian_democrat_party_long:0 "Isamaaliit (Patriotische Liga)"
+EST_paternal_autocrat_party:0 "EVRK"
+EST_paternal_autocrat_party_long:0 "Eesti Vabariigi Rahvuskomitee (Nationalkomitee der Republik Estland)"
+EST_national_populist_party:0 "Taarausk"
+EST_national_populist_party_long:0 "Taarausk (Taara Glaube)"
+
+### Ideas ###'
+
+EST_era_of_silence:0 "Eine stille Ära"
+EST_era_of_silence_desc:0 "Artur Sirk wurde 1930 vom Estnischen Nationalkongress gewählt und ist der Vorsitzende des Nationalkomitees der Republik Estland im Exil. Seine Führung hat es der estnischen Exilgemeinde ermöglicht, sich zu erholen, Kräfte zur Rückeroberung des Heimatlandes zu organisieren und schließlich in Reval zu landen, um ihr Schicksal in die Hand zu nehmen. \n\nSirk ist jedoch ein autoritärer Führer, der jeden Dissens unter seinen Exilkameraden mittels Einschüchterung und der Loyalität der Omakaitse, die er in einen persönlichen Paramilitär verwandelt hat, ablehnt. Sollte er nach dem Krieg an der Macht bleiben, gibt es vielleicht keine Hoffnung auf Demokratie in Estland..."
+LAT_EST_roads_to_riga:0 "Alle Straßen führen nach Riga"
+LAT_EST_roads_to_riga_desc:0 "Die baltischen Gouvernorate wurden mit Blick auf Riga entwickelt. Es ist das wichtigste Industriezentrum und Infrastrukturzentrum der Region und die größte Stadt der baltischen Staaten, und die Industrie in Livland, Kurland und Estland ist auf eine stabile Verbindung mit ihren Dienstleistungen angewiesen. Nun gibt es eine Grenze zwischen Riga und dem Rest der baltischen Staaten, die seiner Regierung großen Einfluss darauf gibt, die beiden anderen Staaten auf Linie zu halten."

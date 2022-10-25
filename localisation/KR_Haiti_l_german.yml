@@ -1,0 +1,49 @@
+l_german:
+
+### Parties ###
+HAI_totalist_party:0 "PRH"
+HAI_totalist_party_long:0 "Parti Révolutionnaire Haïtien(Haitianische Revolutionäre Partei)"
+HAI_syndicalist_party:0 "PS"
+HAI_syndicalist_party_long:0 "Parti Syndicaliste(Syndikalistische Partei)"
+HAI_radical_socialist_party:0 "RD"
+HAI_radical_socialist_party_long:0 "La Réaction Démocratique(Die demokratische Antwort)"
+HAI_social_democrat_party:0 "ML"
+HAI_social_democrat_party_long:0 "Mouvement pour la Liberté(Bewegung für Freiheit)"
+HAI_social_liberal_party:0 "PdS"
+HAI_social_liberal_party_long:0 "Parti du Salut(Heilungs-Partei)"
+HAI_market_liberal_party:0 "PH"
+HAI_market_liberal_party_long:0 "Parti Haïtien(Haitianische Partei)"
+HAI_social_conservative_party:0 "PN"
+HAI_social_conservative_party_long:0 "Parti National(Partei National)"
+HAI_authoritarian_democrat_party:0 "Borno's Faction"
+HAI_authoritarian_democrat_party_long:0 "Bornos Fraktion"
+HAI_paternal_autocrat_party:0 "Junte"
+HAI_paternal_autocrat_party_long:0 "Junte(Treten Sie  bei)"
+HAI_national_populist_party:0 "PUN"
+HAI_national_populist_party_long:0 "Parti de l'Unité Nationale(Partei der Nationalen Einheit)"
+
+### Leaders ###
+POLITICS_JACQUES_ROMAIN_DESC:0 "Der produktive Dichter Jacques Roumain, einst ein enger Verbündeter sowohl liberaler als auch noiristischer (Vorherrschaft der Schwarzen) Schriftsteller, gründete zusammen mit einer engen Gruppe gleichgesinnter Ideologen die Haitianische Syndikalistische Partei und begann mit der Formalisierung der fragmentierten haitianischen Linken. Während er dabei seine liberalen und noiristischen Verbündeten entfremdete, trieb ihn die von ihm ins Leben gerufene Bewegung an die Spitze der Opposition gegen das autoritäre Regime von Louis Borno."
+POLITICS_GEORGES_RIGAUD_DESC:0 "Als Anführer der Proteste gegen die diskriminierende Politik, die die Vereinigten Staaten dem haitianischen Bildungssystem auferlegten, wurde Rigaud als junger Student in Port-Au-Prince von den amerikanischen Marines bis auf den letzten Zentimeter seines Lebens geschlagen. Bald darauf versuchte Rigaud als Führer der aufkeimenden Arbeiterbewegung, während andere Mitglieder der haitianischen Linken die europäischen Ideen des Sozialismus voll und ganz annehmen würden, stattdessen, syndikalistische Ideen so zu formen, dass sie zur einzigartigen Geschichte und Kultur Haitis passten."
+POLITICS_LOUIS_BORNO_DESC:0 "1922 wurde Louis Borno in einem scheinbaren Akt der Missachtung der amerikanischen Besatzer durch den Staatsrat gewählt. Borno erwies sich jedoch als durchaus gewillt, nicht nur mit den Vereinigten Staaten zu kooperieren, sondern Hand in Hand für deren gemeinsamen Erfolg zu arbeiten. Während der Besatzungszeit gelang es Borno mit Zustimmung des Marinegenerals John Russell und der Vereinigten Staaten, die lähmenden Schulden Haitis zu tilgen, beispiellose Infrastrukturprojekte zu vollenden und die politischen Unruhen des Landes zu stabilisieren. Mit dem Ende der Besetzung inmitten erneuter Unruhen konnte Borno die Präsidentschaft behalten.\nTief katholisch und trotz seiner Bereitschaft, mit den Vereinigten Staaten zusammenzuarbeiten, hat die autoritäre Herrschaft von Borno auch eine Menge sozialer Veränderungen mit sich gebracht, insbesondere was den Status der Kreyolen betrifft. Wenn er in die Zukunft blickt, sieht sich der alternde Präsident Borno sowohl von innen als auch von außen Bedrohungen seiner Herrschaft ausgesetzt, und seine Erfolge und Misserfolge werden zweifellos die künftige politische Landschaft Haitis für die kommenden Jahre prägen."
+POLITICS_JOHN_RUSSELL_DESC:0 "General John Russells lange Amtszeit als amerikanischer Marinekommissar für Haiti litt nur unter einem kleinen Schluckauf mit dem Rückzug der amerikanischen Marines aus dem Land, wobei er die Angelegenheiten der Zivilregierung Haitis immer noch aufmerksam verfolgte. Obwohl er dem haitianischen Volk sympathisch gegenübersteht und überraschend tolerante rassistische Ansichten vertritt, ist Russell nur den Vereinigten Staaten gegenüber loyal."
+POLITICS_FRANCK_LAVAUD_DESC:0 ""
+
+### Opinion Modifiers ###
+HAI_border_dispute:0 "Grenzstreitigkeiten"
+HAI_foreign_council:0 "Unsere Bürger in ihrem Rat"
+HAI_sanctions:0 "Haitianische Sanktionen"
+
+### Events ###
+haiti.52.t:0 "Noiristische Empörung"
+haiti.52.d:0 "Unsere Entscheidung, angesichts der dominikanischen Brutalität einen Rückzieher zu machen, hat viele verärgert. Infolgedessen haben die Stimmen innerhalb der identitären "noiristischen" Bewegung an Stärke gewonnen, und viele normale Bürger haben ihre zerstörerische Ideologie angenommen."
+haiti.52.a:0 "Beunruhigend."
+
+haiti.53.t:0 "Noiristische Bewegung"
+haiti.53.d:0 "Die Unterstützung der Bevölkerung für die noiristische Bewegung nimmt weiter zu, und unsere Bemühungen, die Führer der Bewegung auszuschalten, sind bisher gescheitert. Etwas muss geschehen."
+haiti.53.a:0 "Dies muss gestoppt werden."
+
+haiti.54.t:0 "Noiristischer Putsch"
+haiti.54.d:0 "Während die Garde so lange versucht hat, die Noiristen auszurotten, scheint es, als hätten sie sich jetzt offenbart - und zwar mit Waffen in der Hand. In Port-Au-Prince ist es zu Straßenschlachten zwischen den Noiristen und der Garde gekommen, wobei sich die Noiristen langsam auf das Stadtzentrum und unsere Regierung zubewegen."
+haiti.54.a:0 "Der Staatsstreich ist erfolgreich."
+haiti.54.b:0 "Der Staatsstreich scheitert."

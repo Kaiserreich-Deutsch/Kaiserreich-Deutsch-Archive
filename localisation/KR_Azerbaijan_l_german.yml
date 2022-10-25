@@ -1,0 +1,34 @@
+l_german:
+
+## Opinion Modifiers ##
+GER_war_aze:0 "Krieg um Baku-Öl"
+GER_guarantee_AZR:0 "Baku Ölgarantie"
+GER_back_down_AZR:0 "Konferenz von Baku gescheitert"
+GER_forced_AZR:0 "Erzwungene Ölkonzessionen"
+RUS_helped_AZR:0 "Unterstützte unser Anliegen"
+RUS_didnt_help_AZR:0 "Hat unsere Anliegen nicht unterstützt"
+
+### Parties ###
+AZE_totalist_party:0 "Bolschewisten"
+AZE_totalist_party_long:0 "Die Bolschewistische Partei"
+AZE_syndicalist_party:0 "Syndikalisten"
+AZE_syndicalist_party_long:0 "Die syndikalistische Partei"
+AZE_radical_socialist_party:0 "MSB"
+AZE_radical_socialist_party_long:0 "Der Muslimisch-Sozialistische Block"
+AZE_social_democrat_party:0 "Himmat"
+AZE_social_democrat_party_long:0 "Die Himmat Partei"
+AZE_social_liberal_party:0 "Ahrar"
+AZE_social_liberal_party_long:0 "Die Ahrar-Partei"
+AZE_market_liberal_party:0 "Kesbkarliq"
+AZE_market_liberal_party_long:0 "Die Kesbkarliq-Partei"
+AZE_social_conservative_party:0 "Musavat"
+AZE_social_conservative_party_long:0 "Die Musavat-Partei"
+AZE_authoritarian_democrat_party:0 "Ittihad"
+AZE_authoritarian_democrat_party_long:0 "Die Ittihad-Partei"
+AZE_paternal_autocrat_party:0 "Militär"
+AZE_paternal_autocrat_party_long:0 "Die Streitkräfte von Azerbaijan"
+AZE_national_populist_party:0 "Turkculuk"
+AZE_national_populist_party_long:0 "Die Turkuluk-Partei"
+
+AZR_democratic_coalition:0 "Demokratische Koalition"
+AZR_democratic_coalition_long:0 "Die Demokratische Koalition"

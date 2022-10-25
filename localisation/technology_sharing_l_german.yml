@@ -1,0 +1,17 @@
+﻿l_english:
+ TECH_SHARNG_FACTOR_PER_COUNTRY:0 "\n\nJedes Mitglied welches eine Technologie erforscht, reduziert die Forschungszeit um $VALUE|+%0$:\n"
+ TECH_SHARNG_FACTOR_BASE:0 "Basis: $VALUE|0%Y$\n"
+ TECH_SHARNG_COUNTRY_BONUS:0 "Bonus: $VALUE|0%Y$\n"
+ TECH_SHARNG_FACTOR_EXTRA_DESC:0 "\nEffektive Technologie Teilung wurde modifiziert auf $VALUE|-%0$ aufgrund:\n"
+ TECH_SHARNG_RESEARCH_OPPORTUNITIES:0 "\nForschungsmöglichkeiten:"
+ TECH_SHARNG_COUNTRY_RESEARCH_OPPORTUNITY:0 "\n@$TAG$$COUNTRY|H$: §Y$VALUE$§! Technologien"
+ TECH_SHARNG_GROUP_CATEGORIE_LIMIT:0 "\n\nBeschränkt auf: $LIST|Y$."
+ TECH_SHARNG_DESCRIPTION_DELAYED:0 "Eine Forschungsgruppe wird um so effizienter, desto mehr Nationen ihr angehören. Für jedes Mitglied, welches eine Technologie bereits erforscht hat, wird die Forschung für diese Technologie beschleunigt."
+ TECH_SHARNG_RESEARCH_BONUS_VALUE_DESC:0 "Teilung von Technologien: $VALUE|+%0$\n"
+ LICENSED_PRODUCTION_RESEARCH_BONUS_VALUE_DESC:0 "Lizenz Produktion: $VALUE|+%0$\n"
+ TECH_SHARNG_RESEARCH_BONUS_VALUE_DETAILED_DESC:0 "\n$NAME|H$ Eine Mitgliedschaft bietet einen $VALUE|G%0$ Bonus (max $MAX|H%0$) von anderen Ländern:"
+ TECH_SHARNG_RESEARCH_BONUS_VALUE_DETAILED_COUNTRY:0 "\n@$TAG$$COUNTRY|H$"
+ continuous_tech_share_group_name:0 "Forschung von der Fraktion"
+ continuous_tech_share_group_desc:0 "Verkürzte Forschungszeit von Nationen in deiner Fraktion aufgrund von einem aktiven kontinuierlichen Fokus."
+ NO_OTHER_SHARING_GROUPS:0 "Ist derzeit in keiner Forschungsgruppe."
+ 
