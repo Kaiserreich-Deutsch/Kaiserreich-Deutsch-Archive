@@ -148,7 +148,7 @@ GRE_neighbor_part_of_intl: "Ein beliebiger Nachbar ist in der Internationalen"
 GRE_bul_part_of_faction: "§Y[BUL.GetNameDefCap]§! gehört zu einer anderen Fraktion und besitzt alle unsere Ansprüche"
 GRE_lands_to_claim: "Es gibt Staaten, die §Y[GRE.GetNameDef]§! beanspruchen kann"
 GRE_allies_capitulated: "Alle verbündeten Länder, die Griechische Ansprüche besitzen, haben kapituliert"
-GRE_balkan_war_loss: "Griechenland hat am Balkankrieg teilgenommen und verloren\n"
+GRE_balkan_war_loss: "Griechenland hat am Balkankrieg teilgenommen und verloren"
 GRE_unlock_megali_war: "Schaltet die Entscheidung frei: £decision_icon_small §HGriechisches Land zurückfordern§!"
 
 ### Focuses ###
@@ -915,7 +915,7 @@ gre.261.b: "Wir werden Megali in vollem Umfang wieder auferstehen lassen!"
  gre.508.a: "Interessant."
 
  gre.509.t: "Republikaner gewinnen griechisches Referendum"
- gre.509.d: "Das kürzlich durchgeführte Referendum über die Zukunft der griechischen Monarchie ist mit dem Sieg der Republikaner endgültig beendet. Der griechische Premierminister [GRE.GetLeader] verkündete, dass König Alexander nicht aus dem Exil zurückkehren wird und dass das Land gemäß dem Wunsch der Bevölkerung eine Republik bleiben wird. Das Referendum hat in Griechenland tiefe Gräben aufgerissen, und auch wenn die Frage der Monarchie geklärt sein mag, wird es für die Regierung in den kommenden Jahren ein harter Kampf sein, diese Gräben zu überwinden."
+ gre.509.d: "Das kürzlich durchgeführte Referendum über die Zukunft der griechischen Monarchie ist mit dem Sieg der Republikaner endgültig beendet. Der griechische Premierminister [GRE.GetLeader] verkündete, dass König Alexander nicht aus dem Exil zurückkehren wird und dass das Land gemäß dem Wunsch der Bevölkerung eine Republik bleiben wird.\n\nDas Referendum hat in Griechenland tiefe Gräben aufgerissen, und auch wenn die Frage der Monarchie geklärt sein mag, wird es für die Regierung in den kommenden Jahren ein harter Kampf sein, diese Gräben zu überwinden."
  gre.509.a: "Interessant."
 
  gre.510.t: "Wiederherstellung der Monarchie in Griechenland"

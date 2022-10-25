@@ -126,6 +126,8 @@ ship_hull_carrier_desc: "Ein großes Schiff, das in der Lage ist, Geschwader von
  ship_hull_super_heavy_1: "Dreadnought Rumpf"
  ship_hull_cruiser_submarine: "Kreuzer U-Boot"
  ship_hull_cruiser_submarine_desc: "Sie sind deutlich größer als die vorherigen U-Boote und gehören zum Typ "Kreuzer", der für unabhängige Langstreckeneinsätze in der Handelsschifffahrt konzipiert wurde und besser für den Kampf mit gegnerischen leichten Kriegsschiffen an der Oberfläche gerüstet sein soll. Als solche sind sie mit schwereren Geschützen bewaffnet und haben eine höhere Geschwindigkeit an der Oberfläche. Ihre Unterwasserfähigkeiten bleiben jedoch begrenzt."
+ ship_hull_midget_submarine: "Kleinst-U-Boot"
+ ship_hull_midget_submarine_desc: "Ein kleines U-Boot, das von einer kleinen Mannschaft bedient wird. Seine geringe Reichweite und Waffenkapazität wird durch eine hohe Produktionsrate ausgeglichen."
 
  screen_ship: "Abschirmungen"
  capital_ship: "Große Schiffe"

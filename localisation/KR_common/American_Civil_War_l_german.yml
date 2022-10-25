@@ -279,7 +279,7 @@ amcivwar.41.d: "Krieg ist die Hölle. Bürgerkrieg noch mehr. Die psychische Bel
 amcivwar.41.a: "Nach allem wird dies der letzte Konflikt gewesen sein"
 
 amcivwar.42.t: "Der Endkampf"
-amcivwar.42.d: ""Es überrascht niemanden, dass die Erzreaktionäre in Kanada schließlich beschlossen haben, einzugreifen und zu versuchen, die Revolution in Amerika zu unterdrücken, in einem verzweifelten Versuch, uns daran zu hindern, ihre zerfallende Monarchie zu zerstören. Der letzte Kampf hat also begonnen, und in Nordamerika kann es nur einen Sieger geben: Revolution oder Reaktion?"
+amcivwar.42.d: "Es überrascht niemanden, dass die Erzreaktionäre in Kanada schließlich beschlossen haben, einzugreifen und zu versuchen, die Revolution in Amerika zu unterdrücken, in einem verzweifelten Versuch, uns daran zu hindern, ihre zerfallende Monarchie zu zerstören. Der letzte Kampf hat also begonnen, und in Nordamerika kann es nur einen Sieger geben: Revolution oder Reaktion?"
 amcivwar.42.a: "Wir dürfen nicht wanken!"
 
 ### AUS Flavour Events ###
@@ -454,7 +454,7 @@ amcivwar.164.a: "Ja, lasst es uns beenden"
 amcivwar.164.b: "Nein, wir können noch siegen!"
 
 amcivwar.165.t: "[From.GetNameDefCap] bittet um Frieden"
-amcivwar.165.d: "Die kanadische Regierung, die von [From.From.GetNameDef] geschlagen wurde, möchte sich vollständig von ihrer Beteiligung am Bürgerkrieg zurückziehen und hat daher um Frieden mit [Root.GetNameDef] gebeten.."
+amcivwar.165.d: "Die kanadische Regierung, die von [From.From.GetNameDef] geschlagen wurde, möchte sich vollständig von ihrer Beteiligung am Bürgerkrieg zurückziehen und hat daher um Frieden mit [Root.GetNameDef] gebeten."
 amcivwar.165.a: "Ja, lasst es uns beenden"
 amcivwar.165.b: "Wir wollen ihnen eine Lektion erteilen"
 
@@ -691,7 +691,7 @@ amcivwar.523.a: "Lasst uns weitere 90 Tage warten..."
 amcivwar.523.b: "Der Waffenstillstand ist vorbei"
 
 amcivwar.524.t: "Pakt mit dem Teufel"
-amcivwar.524.d: "Mit ihren Kräften hart durchgedrückt [enemy_country.GetNameDef], haben Vertreter von [From.GetNameDef] und [From.From.GetNameDef] einen temporären Frieden beschlossen. damit [enemy_country.GetAdjective] nicht beide überrollt und den Bürgerkrieg für sich entscheidet. Es bleibt abzuwarten, ob ihre Einigung zu spät kommt oder ob sie sogar länger als ein paar Monate dauern kann, bevor sich beide Seiten gegen die andere wenden. Die meisten Zuschauer scheinen zuzustimmen, dass diese beispiellose Vereinbarung darauf hindeutet, dass vorerst [enemy_country.GetNameDef] die Oberhand behält."
+amcivwar.524.d: "Mit ihren Kräften hart durchgedrückt [enemy_country.GetNameDef], haben Vertreter von [From.GetNameDef] und [From.From.GetNameDef] einen temporären Frieden beschlossen. damit [enemy_country.GetAdjective] nicht beide überrollt und den Bürgerkrieg für sich entscheidet.\n\nEs bleibt abzuwarten, ob ihre Einigung zu spät kommt oder ob sie sogar länger als ein paar Monate dauern kann, bevor sich beide Seiten gegen die andere wenden. Die meisten Zuschauer scheinen zuzustimmen, dass diese beispiellose Vereinbarung darauf hindeutet, dass vorerst [enemy_country.GetNameDef] die Oberhand behält."
 amcivwar.524.a: "Interessant"
 amcivwar.524.b: "Es macht keinen Unterschied - Sie werden beide verlieren"
 
@@ -728,28 +728,28 @@ amcivwar.527.g: "Vereint - jetzt und für immer..\n§L(Kartenfarbe wechseln)§!"
 ### Sanity Checks ###
 
 amcivwar.607.t: "Der föderale Kollaps"
-amcivwar.607.d: "Es scheint, dass die Bundesregierung im amerikanischen Bürgerkrieg auf den letzten Beinen ist. Der größte Teil seines Landes wurde bereits von den anderen amerikanischen Fraktionen verschlungen, und es bleiben nur noch die letzten Überreste seiner Armee übrig - jetzt demoralisiert und unter Massenwüsten leiden, aber gegen alle Hoffnung, dass ein Wunder sie retten könnte. Einige Bundesführer haben sich bereits mit den Generälen der feindlichen Fraktionen getroffen, um die Bedingungen für ihre unvermeidliche vollständige Kapitulation auszuhandeln. "
+amcivwar.607.d: "Es scheint, dass die Bundesregierung im amerikanischen Bürgerkrieg auf den letzten Beinen ist.\n\nDer größte Teil seines Landes wurde bereits von den anderen amerikanischen Fraktionen verschlungen, und es bleiben nur noch die letzten Überreste seiner Armee übrig - jetzt demoralisiert und unter Massenwüsten leiden, aber gegen alle Hoffnung, dass ein Wunder sie retten könnte.\n\nEinige Bundesführer haben sich bereits mit den Generälen der feindlichen Fraktionen getroffen, um die Bedingungen für ihre unvermeidliche vollständige Kapitulation auszuhandeln. "
 amcivwar.607.a: "Ein wichtiger Schritt in Richtung revolution"
 amcivwar.607.b: "Sic Semper Tyrannis!"
 amcivwar.607.c: "Sie haben bekommen, was sie verdient haben"
 amcivwar.607.e: "Schockierend!"
 
 amcivwar.608.t: "Kollaps der amerikanischen Syndikalisten"
-amcivwar.608.d: "Es scheint, dass die Regierung der Syndikate im amerikanischen Bürgerkrieg auf den letzten Beinen ist. Der größte Teil seines Landes wurde bereits von den anderen amerikanischen Fraktionen verschlungen, und es bleiben nur noch die letzten Überreste seiner Armee übrig - jetzt demoralisiert und unter Massenwüsten leiden, aber gegen alle Hoffnung, dass ein Wunder sie retten könnte. Einige Syndikatsführer haben sich bereits mit den Generälen der feindlichen Fraktionen getroffen, um die Bedingungen für ihre unvermeidliche vollständige Kapitulation auszuhandeln. "
+amcivwar.608.d: "Es scheint, dass die Regierung der Syndikate im amerikanischen Bürgerkrieg auf den letzten Beinen ist.\n\nDer größte Teil seines Landes wurde bereits von den anderen amerikanischen Fraktionen verschlungen, und es bleiben nur noch die letzten Überreste seiner Armee übrig - jetzt demoralisiert und unter Massenwüsten leiden, aber gegen alle Hoffnung, dass ein Wunder sie retten könnte.\n\nEinige Syndikatsführer haben sich bereits mit den Generälen der feindlichen Fraktionen getroffen, um die Bedingungen für ihre unvermeidliche vollständige Kapitulation auszuhandeln. "
 amcivwar.608.a: "Es war an der Zeit"
 amcivwar.608.b: "Gute Neuigkeiten"
 amcivwar.608.c: "Soll ihre Revolution in der Hölle brennen"
 amcivwar.608.e: "Interessant."
 
 amcivwar.609.t: "Kollaps der Union"
-amcivwar.609.d: "Es scheint, dass die Regierung des Unionsstaats im amerikanischen Bürgerkrieg auf den letzten Beinen ist. Der größte Teil seines Landes wurde bereits von den anderen amerikanischen Fraktionen verschlungen, und es bleiben nur noch die letzten Überreste seiner Armee übrig - jetzt demoralisiert und unter Massenwüsten leiden, aber gegen alle Hoffnung, dass ein Wunder sie retten könnte. Einige Gewerkschaftsführer haben sich bereits mit den Generälen der feindlichen Fraktionen getroffen, um die Bedingungen für ihre unvermeidliche vollständige Kapitulation auszuhandeln. "
+amcivwar.609.d: "Es scheint, dass die Regierung des Unionsstaats im amerikanischen Bürgerkrieg auf den letzten Beinen ist.\n\nDer größte Teil seines Landes wurde bereits von den anderen amerikanischen Fraktionen verschlungen, und es bleiben nur noch die letzten Überreste seiner Armee übrig - jetzt demoralisiert und unter Massenwüsten leiden, aber gegen alle Hoffnung, dass ein Wunder sie retten könnte.\n\nEinige Gewerkschaftsführer haben sich bereits mit den Generälen der feindlichen Fraktionen getroffen, um die Bedingungen für ihre unvermeidliche vollständige Kapitulation auszuhandeln. "
 amcivwar.609.a: "Wie es sein sollte"
 amcivwar.609.b: "Gute Neuigkeiten"
 amcivwar.609.c: "Sie haben bekommen, was sie verdient haben"
 amcivwar.609.e: "Interessant"
 
 amcivwar.610.t: "Kollaps der Pacifik States"
-amcivwar.610.d: "Es scheint, dass die Regierung der pazifischen Staaten im amerikanischen Bürgerkrieg auf den letzten Beinen ist. Der größte Teil seines Landes wurde bereits von den anderen amerikanischen Fraktionen verschlungen, und es bleiben nur noch die letzten Überreste seiner Armee übrig - jetzt demoralisiert und unter Massenwüsten leiden, aber gegen alle Hoffnung, dass ein Wunder sie retten könnte. Einige Führer haben sich bereits mit den Generälen der feindlichen Fraktionen getroffen, um die Bedingungen für ihre unvermeidliche vollständige Kapitulation auszuhandeln. "
+amcivwar.610.d: "Es scheint, dass die Regierung der pazifischen Staaten im amerikanischen Bürgerkrieg auf den letzten Beinen ist.\n\nDer größte Teil seines Landes wurde bereits von den anderen amerikanischen Fraktionen verschlungen, und es bleiben nur noch die letzten Überreste seiner Armee übrig - jetzt demoralisiert und unter Massenwüsten leiden, aber gegen alle Hoffnung, dass ein Wunder sie retten könnte.\n\nEinige Führer haben sich bereits mit den Generälen der feindlichen Fraktionen getroffen, um die Bedingungen für ihre unvermeidliche vollständige Kapitulation auszuhandeln. "
 amcivwar.610.a: "Wie es sein sollte"
 amcivwar.610.b: "Gute Neuigkeiten"
 amcivwar.610.c: "Sie haben bekommen, was sie verdient haben"
@@ -830,9 +830,9 @@ amcivwar.711.t.TEX: "Die Denver Resolution entscheidet sich für Long"
 amcivwar.711.d.PSA: "Nach dem Abzug der Bundestruppen aus den unteren Ebenen forderte der republikanische Gouverneur Carr von Colorado ein Treffen der Gouverneure von Kansas, Colorado und Nebraska in Denver. Während die Gouverneure von Colorado und Nebraska aus Establishment-Parteien stammten, war Gouverneur Ketchum von Kansas AFP-Mitglied. Dies ermöglichte eine größere Flexibilität bei der Wahl ihrer Seite in dem nationalen Konflikt, der rasch in den Krieg versinkt. Nach einigen angespannten Tagen entschieden die Gouverneure schließlich, dass die einzige Seite, die wirklich an der Wahrung der Verfassung interessiert war, die provisorische Regierung des Pazifiks war, und ihre drei Staaten haben pazifische Truppen eingeladen, um den Frieden zu wahren. "
 amcivwar.711.d.TEX: "Nach dem Abzug der Bundestruppen aus den unteren Ebenen forderte der republikanische Gouverneur Carr von Colorado ein Treffen der Gouverneure von Kansas, Colorado und Nebraska in Denver. Während die Gouverneure von Colorado und Nebraska aus Establishment-Parteien stammten, war Gouverneur Ketchum von Kansas AFP-Mitglied. Dies ermöglichte eine größere Flexibilität bei der Wahl ihrer Seite in dem nationalen Konflikt, der rasch in den Krieg versinkt. Nach einigen angespannten Tagen entschieden die Gouverneure schließlich, dass die einzige Seite, die wirklich daran interessiert war, dem amerikanischen Volk zu helfen, die Regierung von Huey Long in Louisiana war, und die drei Staaten haben die Minutemen sowie die sich entwickelnde Armee, die Präsident Long treu ergeben hat, eingeladen. den Frieden in den Staaten zu halten."
 amcivwar.711.a: "Ihr seid alle wahre Patrioten!"
-amcivwar.711.b: "Erbärmliche Entscheidung.."
+amcivwar.711.b: "Erbärmliche Entscheidung."
 amcivwar.711.c: "Es geht zum Atlantik!"
-amcivwar.711.d: "Wir müssen unsere Front sowieso verstärken.."
+amcivwar.711.d: "Wir müssen unsere Front sowieso verstärken."
 amcivwar.711.e: "Erbärmliche Entscheidung"
 
 amcivwar.712.t: "Die Schlucht um die Eads Bridge"

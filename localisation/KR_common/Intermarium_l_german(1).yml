@@ -3,7 +3,7 @@
 ### EE Cooperation Mechanics ###
 
  mie.0.t: "Die Russische Bedrohung"
- mie.0.d: "Russlands jahrzehntelanger Niedergang ist vorüber und die Russen beginnen mit dem Wiederaufbau. Schon jetzt beanspruchen sie die ehemaligen Territorien des Zarenreichs und die osteuropäischen Staaten werden sicher eines ihrer Ziele sein.\n\nUm die Eindämmung der russischen Bedrohung und die Souveränität der Staaten Osteuropas zu garantieren, haben sich Politiker und Generäle in [MIE_leader.Capital.GetCapitalVictoryPointName] versammelt, um ein Konzept der gegenseitigen Kooperation zu erarbeiten. Eine gemeinsame militärische Verteidigung wurde etabliert und [MIE_leader.GetNameDef] wurde damit anvertraut, die gemeinsamen Verteidigungsunternehmen der Region zu finanzieren."
+ mie.0.d: "Russlands jahrzehntelanger Niedergang ist vorüber und die Russen beginnen mit dem Wiederaufbau. Schon jetzt beanspruchen sie die ehemaligen Territorien des Zarenreichs und die osteuropäischen Staaten werden sicher eines ihrer Ziele sein. Um die Eindämmung der russischen Bedrohung und die Souveränität der Staaten Osteuropas zu garantieren, haben sich Politiker und Generäle in [MIE_leader.Capital.GetCapitalVictoryPointName] versammelt, um ein Konzept der gegenseitigen Kooperation zu erarbeiten. Eine gemeinsame militärische Verteidigung wurde etabliert und [MIE_leader.GetNameDef] wurde damit anvertraut, die gemeinsamen Verteidigungsunternehmen der Region zu finanzieren."
  mie.0.a: "Großartig!"
 
  MIE_decisions: "Osteuropäische Verteidigungskooperation"
@@ -15,16 +15,12 @@
  MIE_allow_equipment_shipments_desc: "Wir haben unseren Verbündeten zwar mitgeteilt, dass wir derzeit keine Ausrüstung benötigen, können diese Entscheidung allerdings auch jederzeit rückgängig machen."
 
  MIE_spend_guns: "Sendet 1000 £rifle_texticon  Infanterieausrüstung"
- MIE_spend_support: "Sendet 250 £support_texticon  Zusatzausrüstung"
+ MIE_spend_support_eq: "Sendet 250 £support_texticon  Zusatzausrüstung"
  MIE_spend_artillery: "Sendet 250 £unit_artillery_icon_small  Artillerie"
- 
- MIE_spend_guns_self: "Nehmt 500 £rifle_texticon  Infanterieausrüstung"
- MIE_spend_support_self: "Nehmt 150 £support_texticon  Zusatzausrüstung"
- MIE_spend_artillery_self: "Nehmt 250 £unit_artillery_icon_small  Artillerie"
 
  MIE_invest_guns: "Investiert 500 £rifle_texticon  Infanterieausrüstung"
- MIE_invest_support: "Investiert 150 £support_texticon  Zusatzausrüstung"
- MIE_invest_artillery: "Investiert 250 £unit_artillery_icon_small  Artillerie"
+ MIE_invest_support_eq: "Investiert 150 £support_texticon  Zusatzausrüstung"
+ MIE_invest_artillery_eq: "Investiert 250 £unit_artillery_icon_small  Artillerie"
 
  MIE_500_guns: "£rifle_texticon  §H500§!"
  MIE_500_guns_blocked: "£rifle_texticon  §R500§!"
@@ -36,7 +32,7 @@
 
  MIE_5000_guns: "£rifle_texticon §H5000§!"
  MIE_5000_guns_blocked: "£rifle_texticon §R5000§!"
- MIE_5000_guns_tooltip: "Es kostet $MIE_5000_guns_blocked$, diese Entscheidung zu treffen."
+ MIE_5000_guns_tooltip: "Es kostet $MIE_1000_guns_blocked$, diese Entscheidung zu treffen."
 
  MIE_150_supporteq: "£support_texticon  §H150§!"
  MIE_150_supporteq_blocked: "£support_texticon  §R150§!"

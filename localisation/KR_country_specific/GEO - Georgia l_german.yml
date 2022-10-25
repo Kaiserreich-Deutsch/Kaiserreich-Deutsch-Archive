@@ -277,7 +277,7 @@
  GEO_attack_ottos_decision: "Batumi besetzen"
  GEO_attack_ottos_decision_desc: "Obwohl das Osmanische Reich den Weltkrieg gewonnen hat, haben die Ereignisse der letzten Jahrzehnte das Reich von seinen Nachbarn entfremdet und zu einer starken Zunahme der Spannungen im gesamten Nahen Osten geführt. Da eine Koalition im Südwesten die Pforte angreift, ist es vielleicht an der Zeit, die Stadt Batumi einzunehmen, während die osmanischen Streitkräfte an vielen Fronten verstreut sind. Wenn wir auf Widerstand stoßen, dann ist Krieg angesagt!"
  GEO_join_reichspakt_decision: "Beitrittsantrag zum Reichspakt"
- GEO_join_reichspakt_decision_desc: "Nachdem die Osmanen endlich besiegt sind und in Georgien Frieden herrscht, ist es an der Zeit, sich auf der Weltbühne umzusehen. Deutschland ist seit Jahrzehnten ein Freund, also ist es vielleicht an der Zeit, sich seinem Bündnis anzuschließen."
+ GEO_join_reichspakt_decision_desc: "Nachdem die inneren Angelegenheiten in Georgien weitgehend befriedet sind, ist es an der Zeit, sich auf der Weltbühne umzusehen. Deutschland ist seit Jahrzehnten ein Freund, und vielleicht ist es an der Zeit, seinem Bündnis beizutreten."
 
  GEO_economic_decisions: "Wirtschaftsprogramme"
  GEO_krupp_kutais: "Krupp Kutais Stahlwerk"
@@ -334,12 +334,12 @@
 
  geo.6.t: "Der Schwarze Montag trifft unser Land!"
  geo.6.d: "Nachdem die Berliner Börse vor einigen Tagen zusammengebrochen ist, haben die Auswirkungen auch unser Land erreicht. Innerhalb weniger Stunden wurde unsere Wirtschaft ruiniert, die Inflation steigt ins Unermessliche, viele Unternehmen gehen in Konkurs und täglich werden Tausende von Arbeitnehmern entlassen. Die Situation wird von Stunde zu Stunde schlimmer, und es gibt bereits eine Flut von Berichten über Nahrungsmittel-Unruhen. Obwohl Evgeni Gegechkori erst seit ein paar Wochen Vorsitzender ist, ist seine Popularität bereits stark gesunken, und in der Verfassunggebenden Versammlung herrscht Chaos, da andere Parteien bereits behaupten, die Regierung tue nicht genug."
- geo.6.a: "Wir müssen so schnell wie möglich handeln"
+ geo.6.a: "Wir müssen so schnell wie möglich handeln."
 
  geo.7.t: "Lebensmittelpreise explodieren"
  geo.7.d: "Da viele Landwirte das Land verlassen haben und sich andere Landwirte weigern, Lebensmittel billig zu verkaufen, sind in den städtischen Gebieten weniger Lebensmittel verfügbar, so dass die Preise stündlich steigen. Viele Männer, Frauen und Kinder können sich keine Lebensmittel mehr kaufen, weil sie zu wenig verdienen, und so haben einige zu gewaltsamen Lösungen gegriffen. Geschäfte, die Lebensmittel verkaufen, werden fast jeden Tag überfallen, und die Präsenz der Polizei reicht nicht aus, um sie aufzuhalten. Viele Verkäufer sind gestorben, andere haben zu viel Angst, ihre Geschäfte weiterzuführen, und haben ihre Türen geschlossen, was die Situation noch verschlimmert."
- geo.7.a: "Man kann den Markt nicht ändern"
- geo.7.b: "Versuchen Sie, eine Kommission für Lebensmittelpreise einzurichten"
+ geo.7.a: "Man kann den Markt nicht ändern."
+ geo.7.b: "Versuchen Sie, eine Kommission für Lebensmittelpreise einzurichten."
 
  geo.8.t: "Massive Nahrungsmittel-Unruhen"
  geo.8.d: "Nach der Entscheidung unserer Regierung, nichts gegen die gestiegenen Lebensmittelpreise und die Lebensmittelknappheit zu unternehmen, sind die Nahrungsmittel-Unruhen überall in Georgien eskaliert, mit Berichten von Menschen, die aufs Land gehen, um Bauernhöfe für ihre Lebensmittel zu plündern. Diese Situation ist fast unkontrollierbar geworden."
@@ -347,24 +347,24 @@
 
  geo.9.t: "Einsetzung der Kommission für landwirtschaftliche Erzeugnisse"
  geo.9.d: "Das Parlament hat heute den Vorschlag angenommen, eine Kommission für Lebensmittelpreise einzurichten, um die Preise unter Kontrolle zu halten und Lebensmittel für alle bereitzustellen. Auch wenn die Landwirte darüber nicht glücklich sein werden, wird dadurch eine kleine Hungersnot verhindert."
- geo.9.a: "Sie werden gute Arbeit leisten"
+ geo.9.a: "Sie werden gute Arbeit leisten."
 
  geo.10.t: "Lebensmittel importieren?"
  geo.10.d: "In Anbetracht der derzeitigen instabilen Lage unseres landwirtschaftlichen Wirtschaftssektors und vor allem wegen der gewalttätigen Nahrungsmittel-Unruhen in den Städten haben viele prominente Parteimitglieder vorgeschlagen, vorübergehend wichtige Lebensmittel einzuführen, um eine Verschlimmerung der Lage zu verhindern. Natürlich würde dies die Nahrungsmittel-Unruhen höchstwahrscheinlich stoppen, aber wir müssen bedenken, dass unsere Staatsverschuldung in diesem Fall erheblich steigen wird."
- geo.10.a: "Dem Plan zustimmen"
- geo.10.b: "Das ist zu riskant"
+ geo.10.a: "Dem Plan zustimmen."
+ geo.10.b: "Das ist zu riskant."
 
  geo.11.t: "Ernährungslage stabilisiert sich"
  geo.11.d: "Nachdem die Regierung beschlossen hatte, Lebensmittel aus dem Ausland zu importieren, begannen sich die Läden langsam wieder zu füllen, und die überwiegende Mehrheit der Menschen kann sich wieder legal ernähren..."
- geo.11.a: "Das hatte seinen Preis, aber das ist es wert"
+ geo.11.a: "Das hatte seinen Preis, aber das ist es wert."
 
  geo.12.t: "Die Situation wird schlimmer!"
  geo.12.d: "Nachdem die Regierung beschlossen hat, keine Lebensmittel aus dem Ausland zu importieren, sind noch weniger Lebensmittel verfügbar und die Menschen werden immer gewalttätiger. Wir werden von fast allen anderen Parteien wegen unseres schlechten Urteilsvermögens kritisiert."
- geo.12.a: "Das ist wirklich schlecht"
+ geo.12.a: "Das ist wirklich schlecht."
 
  geo.13.t: "Bauern senken ihre Preise"
  geo.13.d: "Nach der Verschärfung der Nahrungsmittel-Unruhen hat unsere Regierung erneut Gespräche mit der Bauernschaft aufgenommen, diesmal mit mehr Bereitschaft zu Kompromissen. Nach stundenlangen Debatten zwischen Vertretern der SSDP und mehreren Bauernverbänden haben die beiden Gruppen eine Einigung erzielt. Im Gegenzug zu verschiedenen agrarfreundlichen Maßnahmen haben die Bauern eine Senkung der Preise akzeptiert, was zu einer Stabilisierung der Lage in den städtischen Gebieten führt."
- geo.13.a: "Sehr gut"
+ geo.13.a: "Sehr gut."
 
  geo.14.t: "Proteste in Tiflis"
  geo.14.d: "Tausende von Menschen haben sich heute Morgen in Tiflis versammelt, um gegen die Führung von Evgeni Gegechkori und die schwierige wirtschaftliche Lage zu protestieren, in der sie sich befinden. Während einige ihn als Marionette der Deutschen bezeichnen, sagen andere, er arbeite absichtlich gegen sie, um sich persönlich zu bereichern. Die Proteste wurden von mehreren Parteien in Georgien angeführt, von Ekvtime Takaishvilis EDP bis zu Leo Shengelaia's SRs. Obwohl sie sehr unterschiedlich sind, fordern sie alle das Gleiche: Neuwahlen. Bei den Protesten sprach Ekvtime Takaishvili vor einer großen Menschenmenge darüber, wie sich die Lage in Georgien seit dem letzten Jahr verändert hat und dass die derzeitige Regierung nicht in der Lage ist, sie zu verbessern. Evgeni hat sich noch nicht geäußert."

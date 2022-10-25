@@ -97,8 +97,8 @@ SOM_militia_3: "Die lokalen Milizen"
 SOM_militia_3_desc: "Unter Beibehaltung ihrer nominellen Hierarchien planen und operieren die CSMs nun als zusammenhängende Einheiten."
 SOM_militia_4: "Die lokalen Milizen"
 SOM_militia_4_desc: "Unsere irregulären Kräfte sind seit langem das Rückgrat unserer Streitkräfte, und wir werden in die Fußstapfen von Hassan treten, den die vereitelten Imperialisten inzwischen den verrückten Mullah nennen, und wir werden in den Gebieten, die wir kennen, schnell vorgehen, während wir in den Gebieten, die wir nicht kennen, hart zuschlagen, um die Zukunft Somalias zu sichern."
-SOM_cavriders: "Edle Reiter"
-SOM_cavriders_desc: "Die oberen Ränge unserer Gliedstaaten entscheiden sich für den Kampf zu Pferd, passen ihre Techniken jedoch an die moderne Kriegsführung an, aktualisieren ihre Ausbildungsmethoden und kaufen modernste Ausrüstung."
+SOM_cavriders: "Somalische Reiter"
+SOM_cavriders_desc: "Viele Soldaten unserer Mitgliedsstaaten entscheiden sich für den Kampf zu Pferd, passen ihre Techniken jedoch an die moderne Kriegsführung an, aktualisieren ihre Ausbildungsmethoden und kaufen modernste Ausrüstung."
 SOM_moredoods: "Massenrekrutierung"
 SOM_moredoods_desc: "Immer mehr Männer schließen sich den örtlichen Milizen an, um Somalia zu verteidigen. Tragen auch Sie Ihren Teil dazu bei?"
 
@@ -239,7 +239,7 @@ SOM_jointplanningteams: "Gemeinsame Planungsteams"
 SOM_jointplanningteams_desc: "Wir werden die besten Männer Somalias zusammentrommeln und durch den Einsatz zentralisierter gemeinsamer Planungsteams dafür sorgen, dass die Staaten als eine geschlossene Einheit zusammenarbeiten. Wir müssen das Mutterland verteidigen!"
 
 SOM_mobilization_effort: "Massenrekrutierung"
-SOM_mobilization_effort_desc: "Somalische Männer, hört den Ruf, denn euer Clan, eure Familie und euer Land brauchen euch! Kommt zur nächsten Rekrutierungsstelle, um euch zum Kampf zu melden, und arbeitet gemeinsam mit euren Brüdern hart dafür, dass Somalia nie wieder unter das Joch des Imperialismus fällt!"
+SOM_mobilization_effort_desc: "Somalische Männer, hört auf den Ruf, denn euer Clan, eure Familie und euer Land brauchen euch! Kommt zur nächsten Rekrutierungsstelle, um euch zum Kampf zu melden, und arbeitet gemeinsam mit euren Brüdern hart dafür, dass Somalia nie wieder unter das Joch des Imperialismus fällt!"
 
 SOM_magarteenartillery: "Magarteen Waffenschmiede"
 SOM_magarteenartillery_desc: "Der Sultan von Majarteen wusste in seiner unendlichen Weisheit, dass unsere Sicherheit vergänglich ist, und hat daher viel in den Aufbau einer Waffenfabrik investiert, die in der Lage ist, die feinsten modernen Geschütze herzustellen. Auf der Grundlage osmanischer Entwürfe und finanziert aus der eigenen Tasche des Sultans dürfen wir diese Gelegenheit nicht ungenutzt verstreichen lassen. Lasst uns alle unsere Kräfte bündeln, um Somalia zu verteidigen!"
@@ -326,10 +326,10 @@ SOM_bombers: "Den Boden aus der Luft gewinnen"
 SOM_bombers_desc: "Eine Schlüsselkomponente des Luftkampfes ist die vollständige Kontrolle über den Boden, denn dort unten werden alle Kriege wirklich gewonnen."
 
 SOM_bombers2: "Expertise für ausländische Bombenleger"
-SOM_bombers2_desc: "Unsere Bomberbesatzungen sind noch sehr unerfahren, insbesondere im Vergleich zu ihren europäischen und osmanischen Kollegen. Wir werden ihre Fähigkeiten und ihr Know-how brauchen, um sicherzustellen, dass unsere Flugzeuge modern konstruiert und unsere Piloten gut ausgebildet sind."
+SOM_bombers2_desc: "Unsere Bomberbesatzungen sind im Vergleich zu ihren europäischen und osmanischen Kollegen noch sehr unerfahren. Deshalb brauchen wir ihre Fähigkeiten und ihr Know-how, um sicherzustellen, dass unsere Flugzeuge modern konstruiert und unsere Piloten gut ausgebildet sind."
 
 SOM_airdoc: "Krieg führen am Himmel"
-SOM_airdoc_desc: "Die Planung ist vielleicht der wichtigste Aspekt jeder Luftlandemission und der Schlüssel zum Erfolg in der Luft. Wir müssen sicherstellen, dass unsere Offiziere gut vorbereitet und qualifiziert sind, um den Gefahren der Luftkriegsführung zu begegnen."
+SOM_airdoc_desc: "Der Schlüssel zum Erfolg in der Luft liegt in der Planung, dem vielleicht wichtigsten Aspekt jeder Luftmission. Wir müssen sicherstellen, dass unsere Offiziere gut vorbereitet und qualifiziert sind, um den Gefahren der Luftkriegsführung zu begegnen."
 
 ### Events ###
 
@@ -352,7 +352,7 @@ som.4.d: "Es wäre unklug, weitere Einzelheiten zu nennen, mein Herr, aber es ge
 som.4.a: "Ausgezeichnet."
 
 som.5.t: "Das Referendum"
-som.5.d: "Das Volk ist bereit, unsere Reformen zu billigen und unseren Status als oberste Instanz in Somalia zu bestätigen. Die Nein-Kampagne ist schockierenderweise auf viele "Schwierigkeiten" gestoßen, so dass ein Sieg so gut wie sicher ist. Jetzt müssen wir nur noch mit den Feierlichkeiten beginnen!"
+som.5.d: "Das Volk ist bereit, unsere Reformen zu billigen und unseren Status als oberste Instanz in Somalia zu bestätigen. Die Nein Kampagne ist schockierenderweise auf viele 'Schwierigkeiten' gestoßen; daher ist ein Sieg so gut wie unvermeidlich. Jetzt müssen wir nur noch mit den Feierlichkeiten beginnen!"
 som.5.a: "Alles läuft wie geplant."
 
 som.6.t: "Clan-Streit!"

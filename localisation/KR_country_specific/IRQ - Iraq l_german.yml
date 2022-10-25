@@ -3,7 +3,7 @@
 ### Tooltips ###
  irq_extra_oob_tt: "£nato_unit_infantry_icon_small Erschaffe 2 §YInfanterie-Divisionen§! mit regulärer Erfahrung und Infanterieausrüstung aus dem Jahre 1936 in §YBaghdad§!\n£army_experience Erhalte einen §GStufe 2 General§! namens §YTaha al-Hashimi§!.\n"
 
- irq_conscription_law: "Modifiziert §YKonfessionelle Spaltungen§! durch \n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G+50%§!\n\n"
+ irq_conscription_law_tooltip: "Modifiziert §YKonfessionelle Spaltungen§! durch \n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G+50%§!\n\n"
  irq_resadiye_reorganisation: "\nModifiziert §YKonfessionelle Spaltungen§! durch \nRekrutierbare Bevölkerung: §G+5%§!\n\nModifiziert §YSchwere Armut§! durch \n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+5%§!"
  irq_national_education: "\nModifiziert §YSchwere Armut§! durch \n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+5%§!\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+5%§!"
  irq_muthanna_curriculum: "\nModifiziert §YSchwere Armut§! durch \n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+10%§!\n"

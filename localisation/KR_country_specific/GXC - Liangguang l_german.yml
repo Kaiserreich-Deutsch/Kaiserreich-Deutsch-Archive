@@ -194,8 +194,8 @@ GXC_bailing_out_merchants_desc: "Die Provinzregierung hat Maßnahmen ergriffen, 
 GXC_guangxi_militarism: "Guangxi Militarismus"
 GXC_guangxi_militarism_desc: "Der Militarismus ist in Guangxi seit Jahrhunderten bekannt und die militärischen Fähigkeiten seiner Bevölkerung sind in ganz China bekannt. Es ist nur natürlich, dass wir uns diese mächtige Situation zunutze machen, um unsere Ambitionen voranzutreiben."
 
-GXC_militia_corps: "Lokale Milizen"
-GXC_militia_corps_desc: "Der Begriff Milizkorps bezieht sich auf Milizeinheiten, die aus kleinen Städten und Dörfern ausgehoben werden, um als Antibanditenkräfte oder manchmal als Reservetruppen zu dienen. Diese werden in der Regel vom lokalen Adel geführt und ausgestattet. Dies bedeutet, dass viele Menschen in ländlichen Gebieten eine Art militärische Erfahrung haben und unseren Pool an potenziellen Rekruten erweitern."
+GXC_militia_corps_idea: "Lokale Milizen"
+GXC_militia_corps_idea_desc: "Der Begriff Milizkorps bezieht sich auf Milizeinheiten, die aus kleinen Städten und Dörfern ausgehoben werden, um als Antibanditenkräfte oder manchmal als Reservetruppen zu dienen. Diese werden in der Regel vom lokalen Adel geführt und ausgestattet. Dies bedeutet, dass viele Menschen in ländlichen Gebieten eine Art militärische Erfahrung haben und unseren Pool an potenziellen Rekruten erweitern."
 
 GXC_militarised_guangxi: "Militarisiertes Guangxi"
 GXC_militarised_guangxi_desc: "Die Provinz Guangxi wurde gründlich militarisiert, um den Ambitionen der herrschenden Clique zu dienen. Die Provinz existiert nur, um die Provinzkräfte zu unterstützen, als ob die Armee der Staat selbst wäre."
@@ -729,8 +729,8 @@ GXC_A_New_China3_desc: "Mit Peking in unseren Händen haben wir endlich unseren 
 
 ###Chen Minshu & Li Zongren
 
-GXC_Li_Zongren: "Neue Guangxi-Übernahme"
-GXC_Li_Zongren_desc: "Li Zongren und seine Neue Guangxi Clique haben die Kontrolle über die beiden Provinzen gesichert. Zum ersten Mal seit 1925 verfügt der rechte Flügel der Kuomintang über eine bedeutende Operationsbasis. Die wahre Nationale Revolution kann jetzt unter der Führung des Generalissimus beginnen."
+GXC_Li_Zongren_focus: "Neue Guangxi-Übernahme"
+GXC_Li_Zongren_focus_desc: "Li Zongren und seine Neue Guangxi Clique haben die Kontrolle über die beiden Provinzen gesichert. Zum ersten Mal seit 1925 verfügt der rechte Flügel der Kuomintang über eine bedeutende Operationsbasis. Die wahre Nationale Revolution kann jetzt unter der Führung des Generalissimus beginnen."
 
 GXC_three-stage_revolution: "Dreistufige Revolution"
 GXC_three-stage_revolution_desc: "Sun Yat-sen, der Gründer unserer Partei, stellte sich vor, dass die Nationale Revolution nach dem Scheitern der ersten Republik in drei Etappen stattfinden würde. Wir befinden uns immer noch in der ersten Phase, in der die Nationale Revolutionsarmee die Überreste der Tyrannei und Korruption der Mandschu zerstören muss. Zu diesem Zweck muss das Kriegsrecht durchgesetzt werden, während die Partei die Institutionen streng kontrolliert."
@@ -747,8 +747,8 @@ GXC_kmt_militarism_desc: "Die Nationale Revolutionsarmee ist eine der Säulen de
 GXC_minzu_focus: "Schwerpunkt auf Minzu"
 GXC_minzu_focus_desc: "Minzu, oder Nationalismus, ist eines der drei Prinzipien des Volkes von Sun Yat-sen. Die nationale Einheit ist für unseren Erfolg von größter Bedeutung und wird das Prinzip sein, auf das wir uns konzentrieren werden, bis wir China wiedervereint haben. Die anderen beiden müssen warten, bis China von Monarchisten und Kriegsherren befreit ist."
 
-GXC_Chen_Mingshu: "Chen Mingshus Volksregierung"
-GXC_Chen_Mingshu_desc: "Chen Mingshu und seine produktive Volkspartei, ein Ableger der Kuomintang, haben die Kontrolle über Liangguang gesichert und die Volksregierung ausgerufen. Sie ist zwar nicht gegen die Regierung der Kuomintang in Fujian, distanziert sich aber von Wang Jingweis eher autoritäre Führung der Partei, und zielt eher auf die Entwicklung der Demokratie in China."
+GXC_Chen_Mingshu_focus: "Chen Mingshus Volksregierung"
+GXC_Chen_Mingshu_focus_desc: "Chen Mingshu und seine produktive Volkspartei, ein Ableger der Kuomintang, haben die Kontrolle über Liangguang gesichert und die Volksregierung ausgerufen. Sie ist zwar nicht gegen die Regierung der Kuomintang in Fujian, distanziert sich aber von Wang Jingweis eher autoritäre Führung der Partei, und zielt eher auf die Entwicklung der Demokratie in China."
 
 GXC_People_Production_Party_Plan: "Die Agenda der Produktiven Volkspartei"
 GXC_People_Production_Party_Plan_desc: "Die Agenda der Produktiven Volkspartei unterscheidet sich nicht wesentlich von der der Kuomintang und steht auch nicht im Widerspruch zu Sun Yat-sens Vision. Chen Mingshu glaubt lediglich, dass sich die Partei auf die Entwicklung demokratischer Institutionen in China konzentrieren sollte und gleichzeitig stärker auf die Landreform drängen sollte, um eine wirklich freie Nation zu schaffen."

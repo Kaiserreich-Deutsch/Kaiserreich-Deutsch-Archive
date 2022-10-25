@@ -1269,8 +1269,6 @@
 
 ### Tooltips ###
  SWE_new_generals_tooltip: "Ein §Y2 Fähigkeit General§! mit dem Namen §YFrode Lund Hvalkof§! wird erscheinen.\n1 Fähigkeit General§! namens §YOswald Nordlie§! wird erscheinen.\n"
- basic_light_tank: "Leichter Basis-Panzer"
- battlecruiser: "Schlachtkreuzer"
  SWE_tank_divs_unit_tooltip: "Erhalten Sie zwei §YLeichte Panzerdivisionen§!\n"
  SWE_jager_div_unit_tooltip: "Erhalten Sie die Vorlage §YGebirgsjäger§! mit der folgenden Zusammensetzung:\n - 7 £GFX_unit_mountaineers_icon_small Bataillone;\n - 2 £GFX_unit_artillery_brigade_icon_small Bataillone;\n - £GFX_unit_artillery_icon_small Unterstützungs Kompanien;\n - £GFX_unit_engineer_icon_small Unterstützungs Kompanien.§G\n\nErzeugen Sie §Y3§! Divisionen mit neu erhaltenen Vorlagen§!\n"
  SWE_naval_construct_tt: "Hinzufügen der Produktion von §Y2 Zerstörern§! und §Y1 Leichten Kreuzern§!\n"
@@ -1333,12 +1331,6 @@
  SWE_inf_manpower_tooltip: "Ändern Sie §YInfanterie Armee§! um\n$MODIFIER_CONSCRIPTION_FACTOR$: §Y+1.00%§!\n"
  SWE_armor_research_tooltip: "§GErhalten Sie einen Technologie- oder Technologiebonus für eine der folgenden Rüstungskategorien:§!\n §Y- £GFX_unit_light_armor_icon_small Leichte Panzerung\n - £GFX_unit_medium_armor_icon_small Mittlere Panzerung\n - £GFX_unit_heavy_armor_icon_small Schwere Panzerung§!\n"
 
- SWE_bugfixed_swap_tooltip_three: "Ersetzen Sie §YKonservative Armeeführung§! durch §YHolmquists Armee§!\nEffektive Veränderung:\n$MODIFIER_XP_GAIN_FACTOR$: §G+10%§!\n$MODIFIER_CONSCRIPTION_FACTOR$: §Y+1.00%§!\n"
- SWE_bugfixed_swap_tooltip_four: "Ändern Sie §YHolmquists Armee§! um\n$MODIFIER_ARMY_INFANTRY_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_SPECIAL_FORCES_ATTACK_FACTOR$: §G+5%§!\n"
- SWE_bugfixed_swap_tooltip_five: "Ändern Sie §YHolmquists Armee§! um\n$MODIFIER_CONSCRIPTION_FACTOR$: §Y+1.00%§!\n$MODIFIERS_ARMY_CORE_ATTACK_FACTOR$: §G+10%§!\n$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+10.0%§!\n"
- SWE_bugfixed_swap_tooltip_six: "Ändern Sie §YHolmquists Armee§! um\n$MODIFIER_CONSCRIPTION_FACTOR$: §Y+0.50%§!\nAngriff: §G+10.00%§!\n"
- SWE_bugfixed_swap_tooltip_seven: "Modify §YDouglas's Army§! by\n$MODIFIER_CONSCRIPTION_FACTOR$: §Y+1.00%§!\n$MODIFIERS_ARMY_CORE_ATTACK_FACTOR$: §G+10%§!\n$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+10.0%§!\n"
- SWE_bugfixed_swap_tooltip_eight: "Modify §YDouglas's Army§! by\n$MODIFIER_CONSCRIPTION_FACTOR$: §Y+0.50%§!\nAngriff: §G+10.00%§!\n"
  SWE_tt_inflation_back_to_two: "Mit der neuen Währung wird die Inflation auf §Y2%§! zurückgesetzt."
  SWE_tt_will_be_removed_redistribute_wealth: "§RDieser Modifikator wird entfernt, wenn wir Den Reichtum umverteilen.§!"
  SWE_douglasfocutext_alive: "Unser leitender Stabsoffizier Archibald Douglas schlägt vor, die schwedische Armee in eine mobile Truppe umzuwandeln, die in der Lage ist, die feindlichen Streitkräfte zu überlisten und unsere Feinde schnell zu neutralisieren."

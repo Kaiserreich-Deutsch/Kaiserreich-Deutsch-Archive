@@ -70,6 +70,9 @@ PHI_revolution_threat: "Revolution auf den Philippinen"
 ### Tooltips ###
 PHI_germil_tt: "Drei Divisionen mit Artillerie und Pionierunterstützung werden erstellt."
 
+### Decisions ###
+PHI_join_faction: "Tritt [From.GetFactionName] bei"
+
 ### Events ###
 phil.0.t: "Ein Weg in die Unabhängigkeit"
 phil.0.d: "Die Philippinen waren bis Ende 1898 eine spanische Kolonie, als die Vereinigten Staaten sie als Kriegsbeute von Spanien beanspruchten. Es folgten Jahre des gewaltsamen Kampfes für die Unabhängigkeit, und als sich die wirtschaftliche und politische Krise in Amerika zu verschärfen begann, trugen sie schließlich Früchte. Im Jahr 1934 wurde das Tydings-McDuffie-Gesetz verabschiedet, mit dem der Commonwealth der Philippinen mit einer gewählten Regierung unter Manuel Quezon und einer Verfassung, die sich an die der Vereinigten Staaten anlehnte, gegründet wurde, während Washington die Kontrolle über die Außenpolitik und das Militär des Landes behielt. Vor allem aber wurde festgelegt, dass der Archipel nach einer zehnjährigen Übergangsphase eine völlig unabhängige Republik werden sollte. Doch über Amerika ziehen Gewitterwolken auf. Werden die Philippinen früher als erwartet ihre Unabhängigkeit erlangen, und wird dies dazu führen, dass sie zur Beute eines weiteren großen Imperiums werden? Nur die Zeit wird es zeigen..."

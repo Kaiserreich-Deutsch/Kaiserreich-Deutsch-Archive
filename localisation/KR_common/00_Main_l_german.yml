@@ -12,7 +12,7 @@
 
 ### Splash Screen Credits ###
 KR_SPLASH_TITLE: "Willkommen bei Kaiserreich"
-KR_SPLASH_CREDITS: "§YPräsentiert vom KR4-Team:§!\nAdrianator2  ·  Alpinia  ·  Arvidus  ·  Asratius  ·  Augenis  ·  Blackfalcon501  ·  Carmain\nChazem  ·  Chiron29  ·  Conchobhar  ·  DSFDarker  ·  DuoDex  ·  El Daddy  ·  Fedex\nFlamefang  ·  Gaboemi  ·  Gideones  ·  Hamfast  ·  Ido  ·  Igor050301  ·  JazzyHugh\nJeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  KFateweaver  ·  Kennedy  ·  kergely\nKlyntar King  ·  Krčo  ·  Luwofe  ·  Matoro  ·  McOmghall  ·  ~mw~ // miwaco.  ·  NukeGaming\nOperationsManagementDecisions  ·  Owenomaly  ·  PPsyrius  ·  Pelmen  ·  RagnoStrangeros\nRei!  ·  Retrocognition  ·  Rnk  ·  Shiroe  ·  Sonny O'Cad  ·  Story  ·  suzuha  ·  The Alpha Dog\nThe Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko  ·  Hydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc, Wolf  ·  Silent_Wolf  ·  Alex S  ·  DerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier"
+KR_SPLASH_CREDITS: "§YPräsentiert vom KR4-Team:§!\nAdrianator2  ·  Alpinia  ·  Arvidus  ·  Asratius  ·  Augenis  ·  Blackfalcon501  ·  Carmain\nChazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Conchobhar  ·  DSFDarker  ·  DuoDex  ·  El Daddy\nFedex  ·  Flamefang  ·  Gaboemi  ·  Gideones  ·  Hamfast  ·  Ido  ·  Igor050301  ·  JazzyHugh\nJeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  KFateweaver  ·  Kennedy\nkergely  ·  Klyntar King  ·  Krčo  ·  Luwofe  ·  Matoro  ·  McOmghall  ·  ~mw~ // miwaco.\nNukeGaming  ·  OperationsManagementDecisions  ·  Owenomaly  ·  PPsyrius  ·  Pelmen\nRagnoStrangeros  ·  Retrocognition  ·  Rnk  ·  Shiroe  ·  Sonny O'Cad  ·  Story  ·  suzuha\nThe Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko  ·  Hydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc, Wolf  ·  Silent_Wolf  ·  Alex S  ·  DerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier"
 
 ### Diplomacy Tooltips ###
 REQUEST_EXP_FORCE_BLOCKED_TT: "§RDieses Land erlaubt Ihnen nicht, ihre Streitkräfte anzufordern.§!"
@@ -58,6 +58,45 @@ is_in_americas: "Ist ein §HAmerikanisches§! Land"
 is_in_middle_east: "Ist ein §HMittelöstliches§! Land"
 is_in_oceania: "Ist ein §HOzeanisches§! Land"
 
+is_american_tag: "Ist ein amerikanisches Land"
+is_arab_tag: "Ist ein arabischsprachiges Land"
+is_arabian_tag: "Ist ein arabisches Land"
+is_libya_tag: "Ist ein libysches Land"
+is_portuguese_tag: "Ist ein portugiesischsprachiges Land"
+is_brazilian_tag: "Ist ein brasilianisches Land"
+is_han_chinese_tag: "Ist ein mehrheitlich chinesisches Land"
+is_chinese_tag: "Ist in China"
+is_dutch_tag: "Ist ein niederländischsprachiges Land"
+is_english_tag: "Ist ein englischsprachiges Land"
+is_commonwealth_tag: "Ist ein Land des Commonwealth"
+is_british_tag: "Ist ein britisches Land"
+is_catholic_tag: "Ist ein katholisches Land"
+is_french_tag: "Ist ein französisches Land"
+is_french_africa_tag: "Ist ein französisches afrikanisches Land"
+is_french_speaking_tag: "Ist ein französischsprachiges Land"
+is_german_tag: "Ist ein deutschsprachiges Land"
+is_germany_or_splinter_tag: "Ist ein deutsches Land"
+is_italian_tag: "Ist ein italienisches Land"
+is_polish_tag: "Ist ein polnisches Land"
+is_russian_tag: "Ist ein russisches Land"
+is_south_slav_tag: "Ist ein südslawisches Land"
+is_central_asian_tag: "Ist ein zentralasiatisches Land"
+is_spanish_speaking_tag: "Ist ein spanischsprachiges Land"
+is_central_american_tag: "ist ein mittelamerikanisches Land"
+is_spanish_south_american_tag: "Ist ein hispanoamerikanisches Land"
+is_quechua_speaking_tag: "Ist ein Quechua-sprachiges Land"
+is_indian_tag: "Ist ein indisches Land"
+is_farsi_speaking_tag: "Ist ein Farsi-sprachiges Land"
+is_danubian_tag: "Ist ein danubisches Land"
+is_balkan_tag: "Ist ein Balkanland"
+is_belgian_tag: "Ist in Belgien"
+is_uighur_tag: "Ist ein uigurisches Land"
+is_scandinavian_tag: "Ist ein skandinavisches Land"
+is_czechoslovak_tag: "Ist ein tschechoslowakisches Land"
+is_turkish_tag: "Ist ein türkisches Land"
+is_romanian_tag: "Ist ein rumänisches Land"
+is_greek_tag: "Ist ein griechisches Land"
+
 ### Actual Major Power Tooltip ###
 is_actual_major_tooltip_base:0" Ist eine wichtige Weltmacht:"
 is_actual_major_tooltip_major: "\n     [THIS.MajorWorldPower_MajorCheck] $TRIGGER_IS_MAJOR$"
@@ -70,14 +109,19 @@ is_actual_major_tooltip_ENT: "\n          [THIS.MajorWorldPower_IsENT] Ist der A
 is_actual_major: "$is_actual_major_without_exceptions$$is_actual_major_tooltip_ENT$"
 is_actual_major_without_exceptions: "$is_actual_major_tooltip_base$$is_actual_major_tooltip_major$$is_actual_major_tooltip_OR$$is_actual_major_tooltip_seven_largest$$is_actual_major_tooltip_average$"
 
-### Renaming System ###
-toggle_renaming_button_tooltip: "[toggle_renaming_button_tooltip_loc]"
-toggle_renaming_button_tooltip_desc: "[toggle_renaming_button_tooltip_desc_loc]"
-toggle_renaming_button_tooltip_mp: "§RIm Mehrspieler-Modus deaktiviert§!"
-toggle_renaming_button_tooltip_enable: "§HDerzeit im Modus - Deutsche Namen§!"
-toggle_renaming_button_tooltip_enable_desc: "Das Spiel verwendet derzeit deutsche Namen für Staaten und Siegpunkte (Exonyme), wobei deren dynamische Umbenennung deaktiviert ist.\n\nKlicken Sie hier, um zur Verwendung nativer Namen für Staaten und Siegpunkte (Endonyme) zu wechseln, wobei deren dynamische Umbenennung aktiviert ist."
-toggle_renaming_button_tooltip_disable: "§HDerzeit im Modus - Native Namen§!"
-toggle_renaming_button_tooltip_disable_desc: "Das Spiel verwendet derzeit native Namen für Staaten und Siegpunkte (Endonyme), wobei deren dynamische Umbenennung aktiviert ist.\n\nKlicken Sie hier, um zu deutsche Namen für Staaten und Siegpunkte (Exonyme) zu wechseln, wobei deren dynamische Umbenennung deaktiviert ist."
+### Options GUI ###
+kr_options_title: "§YKaiserreich Optionen§!"
+kr_options_tooltip: "Kaiserreich-spezifische Spieloptionen ein- und ausschalten"
+kr_options_explanation: "§RWICHTIGER HINWEIS§!:\n\nMit Patch 0.22.2 wurden einige KR-Einstellungen wie Endonyme und Nachrichtenereignisse in ein eigenes Menü verschoben, das Sie in der oberen Leiste in der Nähe der Schaltfläche für die Weltspannung finden können."
+
+rename_text: "Staat/SP Umbenennung"
+rename_tooltip: "§GKlicken§! Sie hier, um die dynamische Umbenennung von Staaten und Siegpunkten auf Basis ihres aktuellen Landes zu aktivieren."
+
+regional_news_text: "Regionale Nachrichten"
+regional_news_tooltip: "§GKlicken§! Sie hier, um die Event-Popups für globale Events zu aktivieren, die sich direkt auf die Länder auswirken, die das Popup empfangen."
+
+world_news_text: "Weltweite Nachrichten"
+world_news_tooltip: "§GKlicken§! Sie hier, um die Event-Popups für alle globalen Ereignisse einzuschalten, unabhängig von der Relevanz für das Land, das sie empfängt."
 
 ### Continents ###
 is_actually_an_island: "ist ein Inselstaat"
@@ -191,8 +235,8 @@ second_in_command_slot: "Stellvertretender Befehlshaber"
 second_in_command: "Stellvertretender Befehlshaber"
 
 ### Character Tooltips ###
-character_is_dead: "Ist verstorben"
-character_is_dead_NOT: "Ist nicht verstorben"
+is_dead: "Ist verstorben"
+is_dead_NOT: "Ist nicht verstorben"
 
 is_second_in_command: "Ist der stellvertretende Befehlshaber"
 is_second_in_command_NOT: "Ist nicht der stellvertretende Befehlshaber"
@@ -345,25 +389,8 @@ modifier_army_sub_unit_category_mobile_infantry_attack_factor: "Kav/Mot/Mech Ang
 modifier_army_sub_unit_category_mobile_infantry_defence_factor: "Kav/Mot/Mech Verteidigung" 
 modifier_army_sub_unit_category_mobile_infantry_speed_factor: "Kav/Mot/Mech Geschwindigkeit" 
 
-### Tech ###
-military_police_tech: "Militärpolizei"
-
 ### Research Bonus Names ###
 refinery_bonus: "Raffinerie-Bonus"
-
-### News Events ###
-toggle_news_button_tooltip: "[toggle_news_button_tooltip_loc]"
-toggle_news_button_tooltip_desc: "[toggle_news_button_tooltip_desc_loc]"
-toggle_news_button_tooltip_mp: "§RIm Mehrspieler-Modus deaktiviert§!"
-toggle_news_button_tooltip_all: "Wechsel zu §HNur Regional-Nachrichten§!"
-toggle_news_button_tooltip_all_desc: "Sie erhalten die wichtigsten Nachrichten aus der ganzen Welt, sowie auch die unwichtigen Nachrichten für Ihre Region der Welt."
-toggle_news_button_tooltip_some: "Wechsel zu §HKeine Nachrichten§!"
-toggle_news_button_tooltip_some_desc: "Es werden nur die wichtigsten Hauptnachrichten empfangen, keine unwichtigen Nachrichten irgendeiner Art."
-toggle_news_button_tooltip_none: "Wechsel zu §HAlle Nachrichten§!"
-toggle_news_button_tooltip_none_desc: "Alle wichtigen sowie unbedeutenden Nachrichten werden unabhängig von ihrem Herkunftsort empfangen."
-toggle_news_text_all: "Alle Nachrichten anzeigen"
-toggle_news_text_regional: "Regionale Nachrichten anzeigen"
-toggle_news_text_none: "Keine Nachrichten anzeigen"
 
 ### Custom Triggers ###
 had_war: "Hat in einem Krieg gekämpft"
@@ -378,7 +405,6 @@ generic_research_advances: "Forschungsfortschritte"
 fighter_techs: "Kampfflugzeug-Technologie"
 cat_strategic_destruction: "Strategische Zerstörungstechnik"
 early_fighter: "Zwischenkriegs-Jäger"
-signal_company_tech: "Fernmelde Kompanie"
 maintenance_company_tech: "Wartungs Kompanie"
 cat_line_artillery: "Linien-Artillerie"
 cat_light_spg: "Leichte Selbstfahrlafetten"
@@ -400,53 +426,6 @@ marine_tech_research: "Marine Technologie Forschungszeit"
 cat_light_armor_research: "Leichte Panzerung Forschung Geschwindigkeit"
 excavation_tech_research: "Bergbautechnische Forschungsgeschwindigkeit"
 construction_tech_research: "Geschwindigkeit der Bauforschung"
-
-early_ship_hull_light: "$ship_hull_light_1$"
-basic_ship_hull_light: "$ship_hull_light_2$"
-improved_ship_hull_light: "$ship_hull_light_3$"
-advanced_ship_hull_light: "$ship_hull_light_4$"
-early_ship_hull_cruiser: "$ship_hull_cruiser_1$"
-#basic_ship_hull_cruiser: "$ship_hull_cruiser_2$" #in overide file
-improved_ship_hull_cruiser: "$ship_hull_cruiser_3$"
-advanced_ship_hull_cruiser: "$ship_hull_cruiser_4$"
-early_ship_hull_heavy: "$ship_hull_heavy_1$"
-#basic_ship_hull_heavy: "$ship_hull_heavy_2$" #in overide file
-improved_ship_hull_heavy: "$ship_hull_heavy_3$"
-advanced_ship_hull_heavy: "$ship_hull_heavy_4$"
-basic_ship_hull_carrier: "$ship_hull_carrier_1$"
-improved_ship_hull_carrier: "$ship_hull_carrier_2$"
-advanced_ship_hull_carrier: "$ship_hull_carrier_3$"
-early_ship_hull_submarine: "$ship_hull_submarine_1$"
-basic_ship_hull_submarine: "$ship_hull_submarine_2$"
-improved_ship_hull_submarine: "$ship_hull_submarine_3$"
-advanced_ship_hull_submarine: "$ship_hull_submarine_4$"
-
-early_destroyer: "$destroyer_1$"
-basic_destroyer: "$destroyer_2$"
-improved_destroyer: "$destroyer_3$"
-advanced_destroyer: "$destroyer_4$"
-early_light_cruiser: "$light_cruiser_1$"
-basic_light_cruiser: "$light_cruiser_2$"
-improved_light_cruiser: "$light_cruiser_3$"
-advanced_light_cruiser: "$light_cruiser_4$"
-early_heavy_cruiser: "$heavy_cruiser_1$"
-#basic_heavy_cruiser: "$heavy_cruiser_2$" #in overide file
-improved_heavy_cruiser: "$heavy_cruiser_3$"
-advanced_heavy_cruiser: "$heavy_cruiser_4$"
-early_battleship: "$battleship_1$"
-basic_battleship: "$battleship_2$"
-improved_battleship: "$battleship_3$"
-advanced_battleship: "$battleship_4$"
-early_battlecruiser: "$battle_cruiser_1$"
-basic_battlecruiser: "$battle_cruiser_2$"
-#early_carrier: "$carrier_1$" #in overide file
-basic_carrier: "$carrier_2$"
-improved_carrier: "$carrier_3$"
-advanced_carrier: "$carrier_4$"
-early_submarine: "$submarine_1$"
-basic_submarine: "$submarine_2$"
-improved_submarine: "$submarine_3$"
-advanced_submarine: "$submarine_4$"
 
 ### Hidden Techs ###
 camel_corps_tech: "Kamel-Korps"

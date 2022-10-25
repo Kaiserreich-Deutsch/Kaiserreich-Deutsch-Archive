@@ -44,12 +44,9 @@
  ADD_AUTONOMY_SCORE_DETAILED_DESC: "Hinzufügen £autonomy_texticon $VALUE|H2$ zu $COUNTRY|H$"
  COLONIAL_FORCES_GENERAL_DESCRIPTION: "§GKlicken Sie hier, um Vorlagen von Untertanen und Exilregierungen anzuzeigen§!\n\nMit kolonialen Vorlagen erstellte Divisionen können mehr Personal aus der Kolonie enthalten, wenn die Autonomie der Kolonie verringert wird."
  COLONIAL_FORCES_NO_SUBJECTS: "§RWir haben keine Untertanen oder Exilregierungen, aus denen wir Vorlagen rekrutieren könnten.§!"
- FOREIGN_TEMPLATE_DESC: "Diese Vorlage ist $COUNTRY_ADJ|H$, und sie ist unser Untertan. Wir können diese Vorlage kopieren und auf ihrer Basis Kolonialtruppen erstellen. Koloniale Streitkräfte ziehen Personal aus dem Untertan mit einer Rate, die durch ihren Autonomiegrad bestimmt wird."
- COLONIAL_TEMPLATE_DESC: "Dies ist eine koloniale Vorlage von $COUNTRY_DEF|H$. Koloniale Streitkräfte ziehen Personal aus dem Untertan mit einer Rate, die durch ihren Autonomiegrad bestimmt wird."
  FOREIGN_EXILE_TEMPLATE_DESC: "Diese Vorlage ist $COUNTRY_ADJ|H$, und wir beherbergen ihre Regierung im Exil. Wir können diese Vorlage kopieren und auf ihrer Basis Exilstreitkräfte schaffen. Exiltruppen beziehen Personal von der Regierung im Exil."
  EXILE_TEMPLATE_DESC: "Dies ist eine Exilvorlage von $COUNTRY_DEF|H$. Exiltruppen beziehen Personal von der Regierung im Exil."
  CONSTRUCTION_MASTER_BUILDING_LEVELS: "$MASTER|UH$ baut derzeit $LVL|H$ Stufen von $BUILDING|H$ für uns."
- CONSTRUCTION_MASTER_BUILDING_REDUCE_LEVELS: "Wir dürfen diese Konstruktionsebene nur um $LVL|R$ reduzieren.
  CONSTRUCTION_MASTER_BUILDING_CANT_REDUCE: "§REs ist uns nicht gestattet, das Niveau zu senken oder diese Konstruktion abzubrechen."
  CONSTRUCTION_INFO_MASTER: "Diese Konstruktion ist auf dem $WHO|H$-Gebiet aufgebaut. Wenn wir nicht alle Fabriken nutzen, können sie mit ihren beitragen."
  CONSTRUCTION_INFO_SUBJECT: "Diese Konstruktion wird für uns von der $WHO|H$ gebaut. Wenn sie nicht alle Fabriken nutzen, können wir mit unseren beitragen."

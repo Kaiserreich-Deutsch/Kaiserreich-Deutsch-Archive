@@ -207,6 +207,8 @@ MAF_Lost_Bushwar_Light_Debuff_desc: "Nach dem Verlust der mittelafrikanischen Tr
 MAF_post_collapse_army: "'Unkonventionelle' Armee"
 MAF_post_collapse_army_desc: "Armeen, die nach dem Zusammenbruch von Mittelafrika aufgestellt wurden, sind nicht konventionell. Sie haben nicht die gleiche Fähigkeit, die Linie zu verteidigen und zu halten wie Standard-Divisionen, sind aber besser in der Lage, sich unter den rauen Bedingungen Afrikas zu bewegen und zu kämpfen. Hinzu kommt, dass es zwar nur wenige konventionelle Fabriken gibt, doch gibt es reichlich Möglichkeiten, Ausrüstung zu plündern, so dass eine stetige, wenn auch begrenzte Versorgung mit Waffen gewährleistet ist."
 
+ MAF_modern_african_army: "Moderne afrikanische Armee"
+
  MAF_on_borrowed_time: "Mit geliehener Zeit"
  MAF_on_borrowed_time_desc: "Seit unserer Niederlage in Europa haben wir uns unrühmlich nach Afrika zurückgezogen, genau wie die Franzosen vor uns. Die Situation ist alles andere als ideal - uns fehlen die Industrie, die Männer und die Waffen, um an unseren alten Ruhm anzuknüpfen. Aber schlimmer sind die Einheimischen... sie sehen unsere Schwäche und ihre Loyalitäten verschieben sich. Ausländische Mächte, ehrgeizige Kriegsherren und interne Kämpfe nagen an der fragilen, verrottenden Infrastruktur, die unsere Vorgänger vernachlässigt haben. Wir müssen schnell handeln, sonst ist Deutschland verloren!"
  
@@ -304,6 +306,8 @@ MAF_Bush_War_NO_advantage_tt: "§LNiemand§! hat einen Vorteil."
  MAF_budget_decisions: "Haushaltsplanung zum Anfang"
  MAF_budget_decisions_desc: "Durch ausländische Investitionen und Handel erhalten wir derzeit:\n\n   £GFX_civ_factory  [?MAF_offmap_civs] Zivile Fabriken\n   £GFX_mil_factory  [?MAF_offmap_mils] Militärische Fabriken"
 
+ MAF_colonial_stability: "Innere Angelegenheiten"
+
  MAF_increase_military_spending: "£GFX_increase_texticon  Militärhaushalt erhöhen"
  MAF_decrease_military_spending: "£GFX_decrease_texticon  Militärhaushalt kürzen"
 
@@ -317,6 +321,17 @@ MAF_Bush_War_NO_advantage_tt: "§LNiemand§! hat einen Vorteil."
 
  MAF_modify_colonial_budget: "Änderung unseres §YKolonialen Haushalts§! dadurch"
 
+ ### CtC Decisions ###
+ MAF_CtC_Daressalam-Kampala: "Von Daressalam nach Kampala"
+ MAF_CtC_Daressalam-Kampala_desc: "Für die nächste Etappe der Eisenbahnlinie vom Kap nach Kairo müssen wir Daressalam und Kampala miteinander verbinden."
+
+ MAF_CtC_Kampala-Khartoum: "Von Kampala nach Khartum"
+ MAF_CtC_Kampala-Khartoum_desc: "Die letzte Etappe der Kap-Kairo-Eisenbahn liegt im Sudan; wir müssen Kampala mit Khartum verbinden. Ein Teil der Arbeit liegt zwar außerhalb unserer Grenzen, aber solange wir bereit sind, die Arbeitskräfte zu stellen, wäre das kein Problem."
+
+ MAF_CtC_Khartoum-Addis: "Von Khartum nach Addis Abeba"
+ MAF_CtC_Khartoum-Addis_desc: "Es ist an der Zeit, die Eisenbahnlinie von Kapstadt nach Kairo auszubauen und sie mit Äthiopien zu verbinden, um eine neue Handelsroute in Afrika zu eröffnen. Einmal mehr müssen wir die Arbeitskräfte stellen, aber die wirtschaftlichen Vorteile werden sicherlich alle Nachteile überwiegen."
+
+ ###
 MAF_take_mittelafrikan_navy: "Übernehmen Sie die Kontrolle über die Mittelafrikanische Marine"
 MAF_take_mittelafrikan_navy_desc: "Die kleine deutsche Mittelafrikanische Marine ist eine wertvolle Bereicherung für unsere Marinestrategie im Indischen Ozean. Sie wäre besser dran, wenn sie enger in die Berliner Kommandostruktur eingebunden wäre, als sie einfach der Laune von Dar es-Salaam zu überlassen."
 
@@ -578,15 +593,6 @@ MAF_Post_War_Budget_desc: "Das schlimmst ist hinter uns und nun können wir in e
 
 MAF_Cape_Cairo: "Kap-Kairo Eisenbahn"
 MAF_Cape_Cairo_desc: "Es ist Zeit zu beenden, was die Briten begonnen haben. Die Kap-Kairo Eisenbahn wird zu einem massiven Wirtschaftswachstum auf dem gesamten Kontinent führen. Zuerst müssen wir die Infrastruktur um Daressalam herum aufbauen."
-
-MAF_Tanzania_Uganda: "Von Daressalam nach Kampala"
-MAF_Tanzania_Uganda_desc: "Für die nächste Etappe der Kap-Kairo-Eisenbahn müssen wir Daressalam und Kampala verbinden."
-
-MAF_Kampala_Khartoum: "Von Kampala nach Khartoum"
-MAF_Kampala_Khartoum_desc: "Der letzte Schritt der Kap-Kairo-Eisenbahn liegt im Sudan; wir müssen Kampala mit Khartoum verbinden. Ein Teil der Arbeit liegt zwar außerhalb unserer Grenzen, aber solange wir bereit sind, die Arbeitskräfte zu liefern, wäre das kein Problem."
-
-MAF_Connect_Addis: "Von Khartoum nach Addis Abeba"
-MAF_Connect_Addis_desc: "Es ist an der Zeit, die Eisenbahn vom Kap nach Kairo zu erweitern, indem sie mit Äthiopien verbunden wird, um eine neue Route für den Handel in Afrika zu eröffnen. Einmal mehr müssen wir die Arbeitskräfte bereitstellen, aber die wirtschaftlichen Vorteile werden sicherlich alle Nachteile überwiegen."
 
 MAF_Industrial_Development: "Industrielle Entwicklung"
 MAF_Industrial_Development_desc: "Mit unserem neuen Budget können wir die Industrien Mittelafrikas entwickeln."
@@ -1101,7 +1107,7 @@ mittel.96.d: "Sultan Khalifa II. bin Harub Al-Said ist von einer Besichtigung de
 mittel.96.a: "Und fast keine Kosten für uns selbst!"
 
 mittel.97.t: "König Pedro VII. besucht den Kölner Dom"
-mittel.97.d: "König Pedro VII. Alfons von Kongo ist von einer Deutschland- und Europatournee zurückgekehrt, wo er an der Messe im Kölner Dom sowie der Messe am Petersdom in Rom teilnahm. Das Ergebnis war ein erneutes Interesse an den katholischen Missionsbemühungen im Kongo, insbesondere von den deutschen und italienischen Missionaren. Es gab bereits Massenkonvertierungen ganzer Dörfer. Um die Sache noch schlimmer zu machen, haben die Portugiesen eine diplomatische Beschwerde über unsere Behandlung des verbannten Königs eingereicht."
+mittel.97.d: "König Pedro VII. Alfonso von Kongo ist von einer Deutschland- und Europatournee zurückgekehrt, wo er an der Messe im Kölner Dom sowie der Messe am Petersdom in Rom teilnahm. Das Ergebnis war ein erneutes Interesse an den katholischen Missionsbemühungen im Kongo, insbesondere von den deutschen und italienischen Missionaren. Es gab bereits Massenkonvertierungen ganzer Dörfer. Um die Sache noch schlimmer zu machen, haben die Portugiesen eine diplomatische Beschwerde über unsere Behandlung des verbannten Königs eingereicht."
 mittel.97.a: "Ich dachte, sie mögen es, wenn Afrikaner gute Katholiken werden?"
 
 mittel.98.t: "Der Schädel von Häuptling Mkwawa"

@@ -149,14 +149,6 @@ TEX_unlock_strat_bomber: "Dieser Fokus wird den §HB-24 Liberator Strategic Bomb
 TEX_unlock_heavy_fighter_1: "Dieser Fokus wird den §HP-38 Lightning Schwerer Jäger§ freischalten!"
 TEX_unlock_heavy_fighter_2: "Dieser Fokus wird den §HP-47 Thunderbolt Schweren Jäger§ freischalten!"
 
-TEX_Assembly_line_modifications_tooltip: "Modifiziert §H$TEX_Devers_plan2$§! durch\n§H$artillery_equipment$§!: $STAT_COMMON_BUILD_COST_IC$[?-0.1|-=%]"
-TEX_focus_on_concentration_tooltip: "Modifiziert §H$TEX_Devers_plan2$§! durch\n$MODIFIER_ARMY_ORG_FACTOR$: [?0.05|+=%1]\n$MODIFIERS_ARMY_ATTACK_FACTOR$: [?0.05|+=%1]\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: [?0.05|+=%1]\n$MODIFIERS_ARMY_CORE_ATTACK_FACTOR$: [?-0.05|+=%1]\n$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: [?-0.05|+=%1]\n$MODIFIERS_ARMY_ARTILLERY_ATTACK_FACTOR$: [?0.05|+=%1]\n$MODIFIERS_ARMY_ARTILLERY_DEFENCE_FACTOR$: [?0.05|+=%1]"
-
-TEX_the_cavalry_of_tomorrow_tooltip: "Modifiziert §H$TEX_Patton_plan1$§! durch\n$MODIFIER_ARMY_ARMOR_ATTACK_FACTOR$: [?0.1|+=%1]\n$MODIFIER_ARMY_ARMOR_DEFENCE_FACTOR$: [?0.1|+=%1]"
-
-TEX_arsenal_of_democracy_effect_1_tooltip: "Modifiziert §HArsenal von Amerika§! durch\n§H$MODIFIER_MISSION_CONVOY_ESCORT_EFFICIENCY$§!: §G+10%§!\n§HZerstörer U-Boot Erkennung§!: §G+5%§!"
-TEX_arsenal_of_democracy_effect_2_tooltip: "Modifiziert §HArsenal von Amerika§! durch\n§H$MODIFIER_TRANSPORT_CAPACITY$§!: §G-10%§!\n§H$MODIFIER_NAVAL_INVASION_CAPACITY$§!: §G+10§!"
- 
  TEX_if_national_recovery_completed: "Wenn §H$TEX_national_recovery$§! abgeschlossen wurde:"
  TEX_if_military_industrial_complex_completed: "Wenn §H$TEX_militärisch_industrieller_Komplex$§! abgeschlossen wurde:"
 

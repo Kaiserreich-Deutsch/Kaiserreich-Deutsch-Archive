@@ -79,11 +79,11 @@ russian_research_desc: ""
 
 ### Parties ###
 RUS_totalist_party: "KNOF"
-RUS_totalist_party_long: "Kommunisticheskiy Narodno-Osvoboditelniy Front"
+RUS_totalist_party_long: "Kommunisticheskiy Narodno-Osvoboditelniy Front (Kommunistische Volksbefreiungsfront)\n§gDie KNOF ist eine von dem revolutionären Extremisten Karl Radek in den späten 1920er Jahren gegründete Untergrundorganisation, die Propaganda für eine zweite russische Revolution veröffentlicht. In der Überzeugung, dass Russland die kapitalistische Nation ist, die am anfälligsten für eine sozialistische Revolte ist, wartet Radek auf eine nationale Katastrophe, die es ihm ermöglichen wird, die Arbeiter in Milizen gegen das korrupte weiße Establishment zu organisieren. Die KNOF, die sich selbst als Vorhut des russischen Sozialismus sieht, befürwortet eine rasche Industrialisierung unter der Schirmherrschaft von Fünfjahresplänen, um Russland rasch in einen echten sozialistischen Staat zu verwandeln. Zu diesem Zweck will Radek die Gewerkschaften kontrollieren und ihre Arbeiter zu Arbeiterarmeen militarisieren, die den Willen des Staates gewissenhaft befolgen sollen.§!"
 RUS_syndicalist_party: "PSP"
-RUS_syndicalist_party_long: "Profsoyuznaya Sotsialisticheskaya Partiya"
+RUS_radical_socialist_party_long: "Profsoyuznaya Sotsialisticheskaya Partiya (Sozialistische Gewerkschaftspartei)\n§gDie PSP ist eine stadtzentrierte sozialistische Partei, die vom ehemaligen Mitglied des Zentralkomitees der RSFSR, Aleksandra Kollontai, und ihrem Geliebten, dem Revolutionär Aleksandr Shlyapnikov, gegründet wurde. Obwohl die PSP eine legale Partei ist, werden die Rechte ihrer Anhänger seit langem von der Aristokratie beschnitten, und sie glauben, dass das System gestürzt werden muss. Sie hoffen, dass die Regierung eines Tages durch eine nationale Katastrophe geschwächt wird, so dass sie Großstädte wie Moskau einnehmen können, um eine Revolution anzuführen. Getreu ihrer Anhängerschaft ist die PSP der Ansicht, dass Russland von den Gewerkschaften verwaltet werden muss, da sie die Bedürfnisse der städtischen Arbeiter am besten vertreten und selbst als der Wille des Proletariats angesehen werden. Aufgrund dieser Haltung ist die PSP die russische politische Partei, die dem orthodoxen französischen Syndikalismus am nächsten steht, eine Tatsache, die von ihren Gegnern gerne genutzt wird, um Kollontai, Schljapnikow und die Gewerkschaften, die sie vertreten, als von den Kommunarden unterstützte Agitatoren darzustellen.§!"
 RUS_radical_socialist_party: "NSP"
-RUS_radical_socialist_party_long: "Narodnaya Sotsialisticheskaya Partiya"
+RUS_radical_socialist_party_long: "Narodnaya Sotsialisticheskaya Partiya (Sozialistische Volkspartei)\n§gDie NSP ist eine sozialistische Partei, die von den Altbolschewiken Nikolai Bucharin und Aleksej Rykow gegründet wurde, um die Überreste der Bolschewiki in einer neuen politischen Partei zu reorganisieren und die Macht in Russland wiederzuerlangen. Da sie wissen, dass sie aufgrund des Militärs kaum Chancen haben, auf friedlichem Wege an die Macht zu kommen, hoffen Bucharin und Rykow, dass die anhaltende politische Krise dazu führen wird, dass die Generäle ihre Scheindemokratie demontieren und eine Welle der Unterdrückung auslösen, die es der NSP ermöglicht, eine weitere Revolution im Namen der Volksfreiheit zu starten. Als Gegnerin der Bürokratisierung vertritt die NSP die Auffassung, dass Russland langsam industrialisiert werden muss, um die Entstehung einer massiven Staatsbürokratie zu verhindern, die die Macht des Proletariats beschneiden könnte. Die Partei setzt sich auch für die Überwindung der Kluft zwischen städtischen Arbeitern und ländlichen Bauern ein, damit sie sich gegen die reaktionäre Aristokratie und das Militär vereinigen können.§!"
 RUS_social_democrat_party: "RSDRP"
 RUS_social_democrat_party_long: "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya"
 RUS_social_liberal_party: "PSR"
@@ -653,6 +653,7 @@ RUS_A_Constitutional_Monarchy_wrangel_tooltip: "§CWrangel wird zum Zaren Pjotr 
 RUS_A_Constitutional_Monarchy_tooltip: "§CDamit wird der rechtmäßige Zar Kirill zum Oberhaupt einer neuen konstitutionellen Monarchie ernannt.§!\n"
 RUS_Imperial_Glory_wrangel_tooltip: "§CWrangel wird zum Zaren Pjotr IV. gekrönt, dem Oberhaupt einer neuen Autokratie.§!\n"
 RUS_Imperial_Glory_kirill_tooltip: "§CDies wird den rechtmäßigen Zaren Kirill dazu einladen, an der Spitze einer neuen Autokratie zu stehen.§!\n"
+RUS_Imperial_Glory_vladimir_tooltip: "§CDies wird den rechtmäßigen Zaren Vladimir dazu einladen, an der Spitze einer neuen Autokratie zu stehen.§!\n"
 RUS_Imperial_Glory_dmitry_tooltip: "§CDamit wird der Großherzog Dmitri Romanow zum Oberhaupt einer neuen Autokratie.§!\n"
 RUS_Empower_The_Senate_tooltip: "§CDamit bleibt Dmitry der Präsident einer aristokratischen Republik, die hauptsächlich vom Senat verwaltet wird.§!\n"
 RUS_Empower_The_Duma_tooltip: "§CDamit wird die Republik in ihrer jetzigen Form erhalten und politisch liberalisiert.§!\n"
@@ -660,15 +661,6 @@ RUS_The_Second_Revolution_tooltip: "§CDies wird zu einer proletarischen Diktatu
 RUS_A_Firm_Hand_savinkov_tooltip: "§CSawinkow wird offiziell zum neuen Vozhd der Republik ernannt.§!\n"
 RUS_A_Firm_Hand_military_tooltip: "§CRussland soll eine Militärdiktatur sein!§!\n"
 RUS_Expansion_Of_The_Rumyantsev_Library_tooltip: "Modifiziert §HEine konstitutionelle Monarchie§! oder §HImperialer Ruhm§! um\n$MODIFIER_RESEARCH_SPEED_FACTOR$: [?0.03|+=%]"
-
-RUS_Ural_Tractor_Plants_tooltip: "Modifiziert §H$RUS_supreme_economic_council$§! um\n§HArmour§!: $STAT_COMMON_BUILD_COST_IC$[?-0.15|%-]\n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: [?-0.05|%+0]\n"
-RUS_Machine_And_Tractor_Stations_tooltip: "Modifiziert §H$RUS_supreme_economic_council$§! um\n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: [?-0.05|%+0]\n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: [?0.15|%+=]\n"
-RUS_Railway_Nationalisation_tooltip: "Modifiziert §H$RUS_supreme_economic_council$§! um\n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: [?-0.05|%+0]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?0.1|%+=]\n"
-RUS_Industrial_Draft_Scheme_tooltip: "Modifiziert §H$RUS_supreme_economic_council$§! um\n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: [?-0.05|%+0]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?-0.05|%H1]\n"
-
-RUS_Mass_Mobilisation_tooltip: "Modifiziert §HMass Mobilisation§! um\n$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: [?0.2|+=1%]\n$MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS_ON_OUR_OCCUPIED_STATES$: [?0.2|+=%]"
-RUS_A_Well_Equipped_Force_tooltip: "Modifiziert §HMass Mobilisation§! um\n$infantry_weapons_research$: [?0.1|+=0%]"
-RUS_Local_Training_Barracks_tooltip: "Modifiziert §HMass Mobilisation§! um\n$MODIFIER_TRAINING_TIME_ARMY$: [?-0.2|=H1%]\n$MODIFIER_CONSCRIPTION_FACTOR$: [?0.01|=H%]"
 
 RUS_paratrooper_tooltip: "Eine £nato_unit_paratrooper_icon_small  §HFallschirmjäger§! Division wird eingesetzt werden."
 
@@ -1699,11 +1691,11 @@ russianews.1.d: "Vor einigen Tagen ist Lawr Kornilow, Oberbefehlshaber und Präs
 russianews.1.a: "Beunruhigende Nachrichten."
 
 russianews.2.t: "Kornilow stürmt Moskau"
-russianews.2.d: "Lawr Kornilow und seine Offiziere nutzten das Chaos in Moskau nach der Ermordung Kerenskis und gingen mit Hilfe von Kampfgruppen der NRPR von Boris Sawinkow auf die Straßen Moskaus, um gegen linke Organisationen und Gewerkschafter vorzugehen. Nach stundenlangen blutigen Straßenkämpfen übernahm Kornilow die volle Kontrolle über Moskau und wurde als Oberbefehlshaber und Präsident Russlands vereidigt."
+russianews.2.d: "Lawr Kornilow und seine Offiziere nutzten das Chaos in Moskau nach der Ermordung Kerenskis und gingen mit Hilfe von Kampfgruppen der NRPR von Boris Sawinkow auf die Straßen Moskaus, um gegen linke Organisationen und Gewerkschafter vorzugehen.\n\nNach stundenlangen blutigen Straßenkämpfen übernahm Kornilow die volle Kontrolle über Moskau und wurde als Oberbefehlshaber und Präsident Russlands vereidigt."
 russianews.2.a: "Wird Russland jemals zur Ruhe kommen?"
 
 russianews.3.t: "Pjotr Wrangel übernimmt die Kontrolle über Russland"
-russianews.3.d: "Aus Angst vor einem allgemeinen Zusammenbruch Russlands marschierte Feldmarschall Pjotr Wrangel mit seinem Regiment in Moskau ein. In einem unblutigen Staatsstreich überzeugte Wrangel die Duma und den Senat, ihm die Macht zu übertragen, und berief sich dann auf Artikel 48 der Verfassung, um die bürgerlichen Freiheiten aufzuheben und das Kriegsrecht zu verhängen. Mit der Kontrolle von Duma und Senat durch Wrangel ist in Russland de facto eine Militärdiktatur errichtet worden."
+russianews.3.d: "Aus Angst vor einem allgemeinen Zusammenbruch Russlands marschierte Feldmarschall Pjotr Wrangel mit seinem Regiment in Moskau ein. In einem unblutigen Staatsstreich überzeugte Wrangel die Duma und den Senat, ihm die Macht zu übertragen, und berief sich dann auf Artikel 48 der Verfassung, um die bürgerlichen Freiheiten aufzuheben und das Kriegsrecht zu verhängen.\n\nMit der Kontrolle von Duma und Senat durch Wrangel ist in Russland de facto eine Militärdiktatur errichtet worden."
 russianews.3.a: "Der Schwarze Baron hat die Oberhand."
 
 russianews.4.t: "Der Schwarze Zar"
@@ -1730,9 +1722,9 @@ russianews.9.t: "Gründung des Moskauer Abkommens"
 russianews.9.d.expansionism: "Zwei Jahrzehnte lang wurde [RUS.GetNameDef] als zweitrangige Macht auf der Weltbühne betrachtet. Nach dem Weltkrieg demontiert, konnte es weder eine Bedrohung für die deutsche politische Hegemonie in Osteuropa noch für die japanischen Ambitionen im Pazifik darstellen. Seitdem hat sich Russland jedoch wieder erholt und legt seine Ambitionen erneut offen. Russische Diplomaten haben ein Militär- und Wirtschaftsbündnis offiziell gemacht, das angeblich alle Nationen in Eurasien vereinen soll, die weder mit Deutschland noch mit der Internationalen Gemeinschaft verbündet sind - obwohl jeder weiß, dass dieses "Moskauer Abkommen" lediglich eine Ausweitung von Russlands Einflussbereich darstellt. Auch Russland scheint diese Illusion nicht zu glauben, und seine expansionistische Rhetorik lässt erkennen, dass es die Grenzen des ehemaligen Kaiserreichs mit Gewalt wiederherstellen will."
 russianews.9.d.realpolitik: "Zwei Jahrzehnte lang wurde [RUS.GetNameDef] als zweitrangige Macht auf der Weltbühne betrachtet. Nach dem Weltkrieg demontiert, konnte es weder eine Bedrohung für die deutsche politische Hegemonie in Osteuropa noch für die japanischen Ambitionen im Pazifik darstellen. Seitdem hat sich Russland jedoch wieder erholt und legt seine Ambitionen erneut offen. Russische Diplomaten haben ein Militär- und Wirtschaftsbündnis offiziell gemacht, das angeblich alle Nationen in Eurasien vereinen soll, die weder mit Deutschland noch mit der Internationale verbündet sind - obwohl jeder weiß, dass dieses "Moskauer Abkommen" lediglich eine Ausweitung von Russlands Einflussbereich darstellt. Russland verfolgt unterdessen offiziell eine Politik der Realpolitik, die pragmatisch vorgeht und versucht, das Abkommen zu einem Bündnis zu erweitern, das der Internationalen und dem Reichspakt entspricht."
 #German response:
-russianews.9.a: "Wir haben sie einmal besiegt, wir werden es wieder tun."
+russianews.9.a: "Wir haben sie einmal besiegt,\n\nwir werden es wieder tun."
 #Internationale response:
-russianews.9.b: "Ein neuer Verbündeter gegen Deutschland... aber auch eine neue Bedrohung."
+russianews.9.b: "Ein neuer Verbündeter gegen Deutschland...\n\naber auch eine neue Bedrohung."
 #Entente response:
 russianews.9.c: "Vielleicht können wir die alten Bande wiederherstellen?"
 #Japanese response:
@@ -1891,7 +1883,9 @@ RUS_mikhail_kedrov: "Mikhail Kedrov"
 RUS_nestor_monastyrev: "Nestor Monastyrev"
 
 RUS_aleksandr_nemits: "Aleksandr Nemits"
-RUS_sergei_rudenko: "Sergei Rudenko"
+RUS_sergey_rudenko: "Sergey Rudenko"
+RUS_sergey_korolyov: "Sergey Korolyov"
+RUS_igor_kurchatov: "Igor Kurchatov"
 
 RUS_vyacheslav_tkachov: "Vyacheslav Tkachov"
 RUS_aleksandr_kazakov: "Aleksandr Kazakov"

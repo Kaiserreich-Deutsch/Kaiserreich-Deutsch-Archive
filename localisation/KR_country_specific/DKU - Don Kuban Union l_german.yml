@@ -1,7 +1,13 @@
 ﻿l_german:
 ### Übersetzt von Proho ###
-DKB_authoritarian_democrat_party: "Der Kosakenkreis"
-DKB_authoritarian_democrat_party_long: "Kasachischer Krug"
+### Parties ###
+ DKB_social_democrat_party: "Kosakenkreis"
+ DKB_social_liberal_party: "Kosakenkreis"
+ DKB_market_liberal_party: "Kosakenkreis"
+ DKB_social_conservative_party: "Kosakenkreis"
+DKB_authoritarian_democrat_party: "Kosakenkreis"
+ DKB_paternal_autocrat_party: "Kosakenkreis"
+ DKB_national_populist_party: "Kosakenkreis"
 
 ### Ideas ###
 DKB_black_monday_1: "Berliner Börsenkrise"
@@ -14,7 +20,7 @@ dkb.1.t: "Die Don-Kuban Union"
 dkb.1.d: "Die Don-Kuban-Union wurde von Pyotr Krasnow am 18. Mai 1918 proklamiert, als er zum "Ataman" ("Führer") der Donkosaken gewählt wurde. Seitdem begann Krasnow, der ein Bindeglied zwischen der Führung der Weißen Armee und den Deutschen war, sein Regime in Südrussland zu stärken, indem er seine Beziehungen zu den separatistischen Führern der Kuban- und Terek-Kosaken verbesserte. Mit der deutschen Hilfe konnte sich schließlich die Don-Kuban-Union von Russland lösen, die Krasnow als Ataman der Union unter Ausnutzung der konservativen und pro-monarchistischen Gefühle der südrussischen Bevölkerung für ihr neues republikanisches System verurteilte.\n\nAllerdings hat die neu gegründete Nation noch mit vielen Problemen zu kämpfen. Das Fehlen einer modernen Industrie schwächt die Armee, das Volk will eine Landumverteilung und die Wiedervereinigung mit Russland, während die separatistischen Spannungen in verschiedenen Teilen des Kaukasus wachsen. Wenn Pyotr Krasnow als Ataman der Don-Kuban-Union bleiben will, muss er sich mit all diesen Problemen in seinem Land auseinandersetzen."
 dkb.1.a: "Krasnov sollte eine Ordnung in die Union bringen."
 
-dkb.2.t: "Der Kosakenkreis"
+dkb.2.t: "Kosakenkreis"
 dkb.2.d: "Der "Kasachische Krug" ("Kosakenkreis") ist das wichtigste legislative und exekutive Staatsorgan in der Don-Kuban-Union. Die Mitglieder dieses "Kruges" vertreten die Russen, Don-, Kuban- und Terek-Kosaken, die Kalmücken, die Tschetschenen und andere Minderheiten in unserem Land. Diese Behörde hat das Recht, fast jede wichtige Frage, die mit dem Leben im Lande zusammenhängt, zu besprechen. Obwohl Krasnow seine Befehle auch ohne die Zustimmung des "Kruges" verkünden kann, muss er dennoch dessen Meinung berücksichtigen, wenn er die Kontrolle über die Union behalten will."
 dkb.2.a: "Dieser 'Krug' ist sicherlich sehr wichtig."
 

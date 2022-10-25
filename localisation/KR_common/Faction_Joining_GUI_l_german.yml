@@ -39,7 +39,7 @@
  faction_joining_BEL_ENT: "Als Verbündete auf der Yzer während des Weltkrieges und durch Blut mit der britischen Krone verbunden, haben die Van Belgiës ihr Schicksal in die Hände ihrer alten Verbündeten gelegt, um ihr Überleben zu sichern."
  faction_joining_BEL_INT: "Die alte Ordnung zerbröckelt, die [GER.GetName] zerfällt, erhebt euch Opfer der Unterdrückung und stürzt den Riesen als Vergeltung für 1914!"
  
- faction_joining_POR_ENT: "Aufgrund [POR.GetName]'s langjähriger Beziehungen zur königlichen Familie in Ottawa haben sie sich offiziell der Entente angeschlossen und damit Kanada ein Sprungbrett in Europa für die geplante Rückeroberung der Britischen Inseln gegeben."
+ faction_joining_POR_ENT: "Aufgrund [POR.GetName]'s langjähriger Beziehungen zur königlichen Familie in Ottawa haben sie sich offiziell der Entente angeschlossen und damit Kanada ein Sprungbrett in Europa für die geplante Rückeroberung ihrer Heimatinsel gegeben."
  
  faction_joining_IRE_GER: "Aufgrund der britischen Provokation hat sich [IRE.GetName] der [GER.GetFactionName] angeschlossen, in der Hoffnung, der Kaiser könne sie vor syndikalistischen Machenschaften schützen."
  

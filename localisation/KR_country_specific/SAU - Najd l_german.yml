@@ -117,6 +117,8 @@
  SAU_arabian_war_of_unification: "Vereinigungskrieg"
  SAU_allah_triumphant: "Allahs Wille hat triumphiert!"
 
+ SAU_Saudi_revolt: "Krieg um die Halbinsel"
+
 ### Focuses ###
  saudi_focus: "Saudischer Fokusbaum"
 
@@ -335,7 +337,7 @@
  saud.150.a: "Wir werden sie vernichten! Für Arabien!"
 
  saud.151.t: "Die Emire schwören den Saudis die Treue"
- saud.151.d: "Die Stadt Riad sah auf Ibn Sauds Befehl hin eine Prozession vieler Soldaten unter einem Dach aus Säbeln. Ein Teil der Prozession bestand auch aus den gefangenen Emiren. Die ersten, darunter die Rashiden, die Haschimiten, die Al Thani und die Howeitat wurden als zu rebellisch eingestuft, als dass sie Nadschd als loyale Vasallen dienen könnten. Die letzten, darunter die Al Nahyan und die Gadban der Bani Lam, könnten sich noch als nützlich erweisen. Ibn Saud hat entschieden, die Familien der Emire zu verschonen, wenn sie Saudi-Arabien die Treue schwören. Diese neue Form der Vasallierung unterscheidet sich von den rücksichtslosen Strategien, welche Ibn Sauds Vorgänger zur Sicherung der Loyalität ihrer Vasallen nutzten. Außerdem können die Ikhwan sich bei dieser Form der Vasallierung in keinerlei Weise einmischen."
+ saud.151.d: "Die Stadt Riad sah auf Ibn Sauds Befehl hin eine Prozession vieler Soldaten unter einem Dach aus Säbeln. Ein Teil der Prozession bestand auch aus den gefangenen Emiren. Ibn Saud hat entschieden, die Familien der Emire zu verschonen, wenn sie Saudi-Arabien die Treue schwören. Diese neue Form der Vasallierung unterscheidet sich von den rücksichtslosen Strategien, welche Ibn Sauds Vorgänger zur Sicherung der Loyalität ihrer Vasallen nutzten. Außerdem können die Ikhwan sich bei dieser Form der Vasallierung in keinerlei Weise einmischen."
  saud.151.a: "Allah ist unser wahrer Verbündeter!"
 
  saud.152.t: "Ein Angebot aus [From.GetNameDef]"
@@ -394,7 +396,6 @@
  SAU_abdallah_bin_abdul_rahman_al_saud: "Abdullah bin Abdul Rahman al-Saud"
  SAU_saad_bin_abdulaziz_al_saud: "Sa'ad bin Abdulaziz al-Saud"
  SAU_khalid_bin_abdulaziz_al_Saud: "Khalid bin Abdulaziz al-Saud"
- SAU_sheikh_ghadban: "Sheikh Ghadban"
 
  SAU_sultain_otaibi_leader_desc: "Als analphabetisches Mitglied des Otaiba-Stammes wurde der Sultan zum Anführer der sogenannten Ikhwan, welche einen großen Teil der saudischen Streitkräfte ausmachen. Aufgrund seines Glaubens daran, dass er die gottgegebene Aufgabe hat, den sunnitischen Fundamentalismus zu verbreiten, war er nicht gerade erfreut, als das Haus Saud versuchte, seine Überfälle der Nachbarländer zu limitieren. Der Sultan greift nun zu den Waffen, sowohl gegen seine alten Verbündeten, die Saudis, als auch gegen die gesamte ungläubige Welt."
 

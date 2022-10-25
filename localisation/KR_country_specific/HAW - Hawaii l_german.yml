@@ -574,7 +574,7 @@ JAP_hold_hawaii_desc: "Nun, da die hawaiianischen Verteidigungen zerschmettert w
  hawaii.114.d: "Niemals!"
 
  hawaii.115.t: "Hawaii möchte [america.GetNameDef] beitreten"
- hawaii.115.d: "Nach der kürzlichen Radioübertragung, in der [america.GetLeader] die Wiedervereinigung von [FROM.GetNameDef] und [america.GetNameDef] verlangte, hat [FROM.GetLeader] [ROOT.GetLeader] informiert, dass Hawaii bereit wäre, sich wieder unter den Schutz des Kontinents zu stellen. Allerdings bitten sie noch um unsere Zustimmung, bevor sie die Gesandten informieren, welche vor Kurzem in Honolulu eintrafen. \n\nIhnen die Wiedervereinigung zu gestatten könnte zu freundlicheren Beziehungen mit [america.GetNameDef], allerdings auch zum Verlust eines wichtigen Verbündeten im Kampf gegen die Amerikaner führen."
+ hawaii.115.d: "Nach der kürzlichen Radioübertragung, in der [america.GetLeader] die Wiedervereinigung von [FROM.GetNameDef] und [america.GetNameDef] verlangte, hat [FROM.GetLeader] [ROOT.GetLeader] informiert, dass Hawaii bereit wäre, sich wieder unter den Schutz des Kontinents zu stellen. Allerdings bitten sie noch um unsere Zustimmung, bevor sie die Gesandten informieren, welche vor Kurzem in Honolulu eintrafen.\n\nIhnen die Wiedervereinigung zu gestatten könnte zu freundlicheren Beziehungen mit [america.GetNameDef], allerdings auch zum Verlust eines wichtigen Verbündeten im Kampf gegen die Amerikaner führen."
  hawaii.115.a: "Auf jeden Fall!"
  hawaii.115.b: "Niemals!"
 

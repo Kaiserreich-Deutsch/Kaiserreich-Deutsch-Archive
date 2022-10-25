@@ -17,6 +17,7 @@ carrier: "Flugzeugträger"
 carrier_desc: "Ein großes Schiff, das mächtige trägergestützte Flugzeuge in die Schlacht tragen kann. Nützlich auch als schwimmender Flugplatz, den Sie vor der Küste Ihres Gegners positionieren können."
 battleship: "Schlachtschiff"
 battleship_desc: "Schlachtschiffe sind mittelgroße Großkampfschiffe mit Allround-Leistung. Sie bieten ein ausgewogenes Verhältnis von Geschwindigkeit, Panzerung und Feuerkraft, sind aber in keinem Bereich überragend."
+armor_desc: "Die größte und stärkste Panzerung, die man für Geld kaufen kann."
 battle_cruiser: "Schlachtkreuzer"
 battle_cruiser_desc: "Ein Großkampfschiff, dessen Offensivfähigkeiten denen eines Schlachtschiffs ähneln, dessen schwächere Panzerung jedoch gegen eine höhere Geschwindigkeit eingetauscht wird."
 convoy: "Konvoi"
@@ -45,6 +46,7 @@ motorized_equipment_1_desc: "Die Motorisierung der Infanterie ist der erste Schr
 support_equipment_short: "Zusatzausr."
 support_equipment: "Zusatzausrüstung"
 support_equipment_desc: "Funkgeräte, Jeeps, Pontons und andere Ausrüstungsteile zur Truppenunterstützung."
+tech_support: "Zusatzausrüstung"
 support_equipment_1: "Zusatzausrüstung"
 support_equipment_1_desc: "Funkgeräte, Jeeps, Pontons und andere Ausrüstungsteile zur Truppenunterstützung."
 
@@ -515,7 +517,7 @@ amphibious_tank_equipment_desc: "Während Standardpanzer für begrenzte amphibis
 amphibious_tank_equipment_1_desc: "Dieses Fahrzeug, das im Wesentlichen ein schwimmfähiger leichter Panzer ist, dient der Feuerunterstützung von Einheiten, die einen Brückenkopf errichten."
 amphibious_tank_equipment_2_desc: "Ein mittelgroßer Panzer, der so umgebaut wurde, dass er sich durch Wasser bewegen kann. Die zusätzliche Vielseitigkeit und Mobilität geht auf Kosten einer geringeren Treibstoffeffizienz."
 
-EQUIPMENT_MODULE_NOT_ALLOWED: "§RNicht verfügbar§!"
+EQUIPMENT_MODULE_NOT_ALLOWED: "§RBlockiert§!"
 
 tank_nsb_engine_upgrade: "$tank_engine_upgrade$"
 tank_nsb_armor_upgrade: "$tank_armor_upgrade$"

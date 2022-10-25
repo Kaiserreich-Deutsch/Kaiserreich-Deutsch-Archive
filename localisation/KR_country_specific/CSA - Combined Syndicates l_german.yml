@@ -177,26 +177,9 @@ CSA_new_industries: "Kapitalistische Unternehmen wurden von den Arbeitern übern
  CSA_corruption_in_dockyards_tooltip: "Änderung §H$CSA_revolutionary_naval_industry$§! durch\n$MODIFIER_POLITICAL_POWER_GAIN$: [?-0.1|+=]\n$MODIFIER_STABILITY_FACTOR$: [?-0.05|+=%]"
  CSA_revolutionary_naval_industry_effect_tooltip: "Die Veranstaltung bietet die Möglichkeit, zwischen drei Varianten des §H$CSA_revolutionäre_Schiffsindustrie$§! zu wählen:\n1. §HU-Boot§!: $STAT_COMMON_BUILD_COST_IC$[?-0.25|-=%]\n2. §HZerstörer§!: $STAT_COMMON_BUILD_COST_IC$[?-0.25|-=%]\n3. §HZerstörer§!: $STAT_COMMON_BUILD_COST_IC$[?-0.10|-=%], §HU-Boot§!: $STAT_COMMON_BUILD_COST_IC$[?-0.10|-=%]"
 
- CSA_continental_air_command_tooltip: "Änderung §H$CSA_continental_air_force$§! durch\nStrategische Bombardierung: [?0.1|+ = %1]\n"
- CSA_state_air_force_tooltip: "Änderung §H$CSA_continental_air_force$§! durch\nLuftaufklärung: [?0.05|+ = %1]\nLuftüberlegenheit: [?0.05|+ = %2]\n"
- CSA_wings_of_revolution_tooltip: "Änderung §H$CSA_continental_air_force$§! durch\nLuftüberlegenheits Angriff: [?0.1|+ = %2]\nLuftüberlegenheits Verteidigung: [?0.1|+ = %2]\n"
-
- CSA_armoured_thrust_tooltip: "Änderung §H$CSA_motor_production_idea_2$§! durch\n§HMechanisierung§!: $STAT_COMMON_BUILD_COST_IC$[?-0.05|- = %]\n§HPanzer§!: $STAT_COMMON_BUILD_COST_IC$[?-0.1|- = %]\n"
- CSA_anti_tank_production_tooltip: "Änderung §H$CSA_motor_production_idea_2$§! durch\n§HMechanisierung§!: $STAT_COMMON_BUILD_COST_IC$[?-0.05|- = %]\n§HLeichte PAK§!:\n $STAT_COMMON_BUILD_COST_IC$[?-0.1|- = %]\n    Durchbruch: [?0.1|+ = %0]\n    Harter Angriff: [?0.25|+ = %0]\n§HMittlere PAK§!:\n $STAT_COMMON_BUILD_COST_IC$[?-0.1|- = %]\n    Durchbruch: [?0.1|+ = %0]\n    Harter Angriff: [?0.25|+ = %0]\n§HSchwere PAK§!:\n $STAT_COMMON_BUILD_COST_IC$[?-0.1|- = %]\n    Durchbruch: [?0.1|+ = %0]\n    Harter Angriff: [?0.25|+ = %0]\n§HModerner Panzerknacker§!:\n $STAT_COMMON_BUILD_COST_IC$[?-0.1|- = %]\n    Durchbruch: [?0.1|+ = %0]\n    Harter Angriff: [?0.25|+ = %0]\n"
  CSA_states_red_guards_tooltip: "\n§RDieser Plan ist im Oberkommando äußerst unpopulär, und viele werden zurücktreten, wenn wir diesen Weg einschlagen!§!"
  CSA_always_ready_always_there_tooltip: "Änderung §H$CSA_continental_red_army$§! oder §H$CSA_continental_red_guards$§! durch\n$MODIFIER_ARMY_ORG_FACTOR$: [?0.05|+=%1]\n$MODIFIER_EXPERIENCE_LOSS_FACTOR$: [?-0.05|-=%1]"
  CSA_demobilization: "§RBis die Demobilisierung abgeschlossen ist, werden die Arbeiter und die Banditen Unruhe stiften!§!"
-
- CSA_new_american_dockyards_tooltip: "Ersetzen §H$CSA_revolutionary_naval_industry$§! mit §H$CSA_martime_industry$§!\nEffektive Veränderung:\n$MODIFIER_POLITICAL_POWER_GAIN$[?0.1|+ = ]\n$MODIFIER_STABILITY_FACTOR$: [?0.05|+ = %]\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: [?0.1|+=%]\n$modifier_production_speed_naval_base_factor$: [?0.2|+=%]\n$modifier_production_speed_dockyard_factor$: [?0.1|+=%]\n§HBegleit Kreuzer§!: $STAT_COMMON_BUILD_COST_IC$[?-0.1|-=%]\n§HKreuzer§!: $STAT_COMMON_BUILD_COST_IC$[?-0.1|-=%]"
-
- CSA_new_naval_plan_tooltip: "Änderung §H$CSA_second_continental_navy$§! durch\n$MODIFIER_NAVY_ORG_FACTOR$: [?0.05|+=%1]\n$MODIFIER_NAVY_MAX_RANGE_FACTOR$: [?0.1|+=%]"
- CSA_american_peoples_navy_tooltip: "Ändern §H$CSA_american_peoples_navy$§! durch\n$MODIFIER_NAVY_MAX_RANGE_FACTOR$: [?-0.05|+=%]\n$MODIFIER_NAVY_FUEL_CONSUMPTION_FACTOR$: [?-0.2|-=%]"
-
- CSA_refit_old_ships_tooltip_continental_navy: "Änderung §H$CSA_second_continental_navy$§! durch\n$MODIFIER_INDUSTRIAL_REFIT_SPEED_FACTOR$: [?0.1|+=%0]\n$MODIFIER_INDUSTRIAL_REFIT_IC_COST_FACTOR$: [?-0.1|-=%0]\n$MODIFIER_REPAIR_SPEED_FACTOR$: [?0.05|+=%0]"
- CSA_refit_old_ships_tooltip_peoples_navy: "Änderung §H$CSA_american_peoples_navy$§! durch\n$MODIFIER_INDUSTRIAL_REFIT_SPEED_FACTOR$: [?0.1|+=%0]\n$MODIFIER_INDUSTRIAL_REFIT_IC_COST_FACTOR$: [?-0.1|-=%0]\n$MODIFIER_REPAIR_SPEED_FACTOR$: [?0.05|+=%0]"
-
- CSA_navy_of_new_age_tooltip_continental_navy: "Änderung §H$CSA_second_continental_navy$§! durch\n$MODIFIER_NAVAL_COORDINATION$: [?0.05|+=%0]\n$MODIFIER_NAVAL_DOCTRINE_COST_FACTOR$: [?0.15|-=%0]"
- CSA_navy_of_new_age_tooltip_peoples_navy: "Änderung §H$CSA_american_peoples_navy$§! durch\n$MODIFIER_NAVAL_COORDINATION$: [?0.05|+=%0]\n$MODIFIER_NAVAL_DOCTRINE_COST_FACTOR$: [?0.15|-=%0]"
 
 ### Decisions ###
  CSA_demobilise_mission: "Die Notwendigkeit der Demobilisierung"

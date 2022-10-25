@@ -132,13 +132,6 @@ PSA_airborne_experiments: "Experimente in der Luft"
 ### Tooltips ###
 PSA_civil_war_victor: "Gewann den Bürgerkrieg, ohne einen Waffenstillstand"
 
-PSA_defense_contracts_tooltip: "Modifiziert §H$PSA_military_industrial_production_1$§! um\n§H$infantry_equipment$§!: $STAT_COMMON_BUILD_COST_IC$[?-0.1|-=%]"
-PSA_increase_military_spending_tooltip: "Modifiziert §H$PSA_military_industrial_production_1$§! um\n$MODIFIER_POLITICAL_POWER_GAIN$: [?-0.25|+=]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?0.2|+=%]"
-PSA_bring_the_complex_west_tooltip: "Modifiziert §H$PSA_military_industrial_production_1$§! um\n$modifier_production_speed_arms_factory_factor$: [?0.15|+=%]"
-
-PSA_officer_instruction_idea_swap: "Modifiziert §H$PSA_Marshall_plan_idea$§! um\n$MODIFIER_ARMY_ORG_FACTOR$: [?0.1|+=%1]"
-PSA_start_operation_glacier_idea_swap: "Modifiziert §H$PSA_Marshall_plan_idea$§! um\n$MODIFIER_ARMY_SPEED_FACTOR$: [?0.1|+=%]\n$MODIFIERS_ARMY_ATTACK_FACTOR$: [?0.05|+=%1]\n$MODIFIERS_ARMY_CORE_ATTACK_FACTOR$: [?-0.05|+=%1]\n\n"
-
 ##Mission##
 PSA_Operation_Liberty_mission: "Operation Glacier"
 PSA_Operation_Liberty_mission_desc: "Während auf der anderen Seite der Rocky Mountains der Bürgerkrieg tobt, hat der Hohe Stab des Westlichen Verteidigungskommandos beschlossen, dass, um den Krieg zu gewinnen, ein entscheidender Schlag zum Erreichen der Great Plains erzielt werden muss. Oberbefehlshaber Marshall hat uns versichert, dass der Sieg in Reichweite ist, wenn es uns gelingt, unsere Ziele zu erreichen. Ein Scheitern beim Erreichen dieser Ziele würde jedoch die Moral untergraben und uns vielleicht auf den Weg der totalen Niederlage bringen..."

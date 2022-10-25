@@ -1,8 +1,8 @@
 ﻿l_german:
 ### Übersetzt von Proho ###
 ### Opening Event ###
-kr.political.1.t: "Kaiserreich Beta 0.22"
-kr.political.1.d: "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.22 für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\n\nDer Mod basiert auf der Annahme, dass der Spieler immer alle möglichen Staaten in Friedensverträgen annektiert, also stellen Sie sicher, dass Sie dies tun\n\nSie können die Häufigkeit von Nachrichtenereignissen ändern, indem Sie das Symbol oben auf der Registerkarte 'Entscheidungen' umschalten\n\nSie können auswählen, welche Namenssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Menü 'Erfolge' oben rechts ersetzt.\n\nSie können auswählen, welche Benennungssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Errungenschaftsmenü oben rechts ersetzt\n\nDenken Sie daran, dass sich dieser Mod noch in der Betaphase befindet, daher sind leider Fehler und Abstürze möglich Probleme, diese auf unserem GitHub Issue Tracker zu melden, ist eine große Hilfe und wird sie früher beheben\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
+kr.political.1.t: "Kaiserreich Beta 0.22.2"
+kr.political.1.d: "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.22.2 für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\n\nDer Mod basiert auf der Annahme, dass der Spieler immer alle möglichen Staaten in Friedensverträgen annektiert, also stellen Sie sicher, dass Sie dies tun\n\nSie können die Häufigkeit von Nachrichtenereignissen ändern, indem Sie das Symbol oben auf der Registerkarte 'Entscheidungen' umschalten\n\nSie können auswählen, welche Namenssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Menü 'Erfolge' oben rechts ersetzt.\n\nSie können auswählen, welche Benennungssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Errungenschaftsmenü oben rechts ersetzt\n\nDenken Sie daran, dass sich dieser Mod noch in der Betaphase befindet, daher sind leider Fehler und Abstürze möglich Probleme, diese auf unserem GitHub Issue Tracker zu melden, ist eine große Hilfe und wird sie früher beheben\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
 kr.political.1.a: "Da bin ich sicher!"
 
 ### Generic Faction Joining ###
@@ -12,11 +12,11 @@ kr.political.1.a: "Da bin ich sicher!"
  kr.political.10.b: "Wenn ich es mir recht überlege, nein..."
 
  kr.political.11.t: "[From.GetNonIdeologyNameDefCap] Hat akzeptiert!"
- kr.political.11.d: "Zeit zu jubeln! [From.GetNameDefCap] hat unseren Antrag auf Beitritt zur [ROOT.GetFactionName] angenommen, wie wir es uns erhofft hatten!"
+ kr.political.11.d: "Zeit zu jubeln! [From.GetNameDefCap] hat unseren Antrag auf Beitritt zur [FROM.GetFactionName] angenommen, wie wir es uns erhofft hatten!"
  kr.political.11.a: "Exzellent!"
 
  kr.political.12.t: "[From.GetNonIdeologyNameDefCap] hat abgelehnt!"
- kr.political.12.d: "Zu unserem Leidwesen hat [From.GetNameDef] unsere Anfrage, der [ROOT.GetFactionName] beizutreten, abgelehnt."
+ kr.political.12.d: "Zu unserem Leidwesen hat [From.GetNameDef] unsere Anfrage, der [FROM.GetFactionName] beizutreten, abgelehnt."
  kr.political.12.a: "Ihr Verlust."
 
  kr.political.13.t: "Eine Allianz mit [FROM.GetNonIdeologyNameDef]?"
@@ -100,6 +100,12 @@ military_staff_available: "Dieser Angehörige des Militärstabs ist am Leben und
  KR_is_any_authoritarian: "$government_is_loc$§Y$totalist$§!, §Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! oder §Y$national_populist$§!"
  KR_is_any_authoritarian_NOT: "$government_is_not_loc$§Y$totalist$§!, §Y$authoritarian_democrat$§!, §Y$paternal_autocrat$§! oder §Y$national_populist$§!"
 
+ KR_is_liberal: "$government_is_loc$§Y$social_democrat$§!, §Y$social_liberal$§! oder §Y$market_liberal$§!"
+ KR_is_liberal_NOT: "$government_is_not_loc$§Y$social_democrat$§!, §Y$social_liberal$§! oder §Y$market_liberal$§!"
+
+ KR_is_conservative: "$government_is_loc$§Y$social_conservative$§! oder §Y$authoritarian_democrat$§!"
+ KR_is_conservative_NOT: "$government_is_not_loc$§Y$social_conservative$§! oder §Y$authoritarian_democrat$§!"
+
 ### At War Notice ###
 has_scripted_peace: "Wir führen Krieg"
 has_scripted_peace_desc: "Das Land befindet sich im Krieg und ist entschlossen, den Sieg zu erringen - obwohl unser Widerstand wahrscheinlich etwas brüchiger ist, als es scheint. (Note: Dies gilt für Kriege, in denen ein geskriptetes Friedensereignis existiert, und es besteht die Möglichkeit, dass das Ereignis ausgelöst wird, lange bevor diese erhöhte Übergabegrenze erreicht wird, nur damit Sie sich dessen bewusst sind.)"
@@ -169,17 +175,6 @@ rally_public_support_desc: "Mit etwas politischer Macht und industrieller Unters
 
 solidify_control: "Kontrolle festigen"
 solidify_control_desc: "Einige taktvolle Nutzung der politischen Macht hier und einige Ressourcen dort, und wir werden unsere politischen Hindernisse zu beseitigen; wir werden vielleicht nicht alle loswerden können, aber selbst wenn wir einige loswerden, werden wir unseren Weg frei machen und unsere politische Macht auf lange Sicht verbessern."
-
- hidden_raise_support_totalist: "£decision_icon_small Kontrolle festigen"
- hidden_raise_support_syndicalist: "£decision_icon_small Öffentliche Unterstützung mobilisieren"
- hidden_raise_support_radical_socialist: "£decision_icon_small Öffentliche Unterstützung mobilisieren"
- hidden_raise_support_social_democrat: "£decision_icon_small Öffentliche Unterstützung mobilisieren"
- hidden_raise_support_social_liberal: "£decision_icon_small Öffentliche Unterstützung mobilisieren"
- hidden_raise_support_market_liberal: "£decision_icon_small Öffentliche Unterstützung mobilisieren"
- hidden_raise_support_social_conservative: "£decision_icon_small Öffentliche Unterstützung mobilisieren"
- hidden_raise_support_authoritarian_democrat: "£decision_icon_small Kontrolle festigen"
- hidden_raise_support_paternal_autocrat: "£decision_icon_small Kontrolle festigen"
- hidden_raise_support_national_populist: "£decision_icon_small Kontrolle festigen"
 
  restructure_supply_system: "Umstrukturierung des Eisenbahnsystems"
  restructure_supply_system_desc: "Durch die Umleitung von Baumaterialien und Bahnarbeitern können wir schnell eine kleine Anzahl von behelfsmäßigen Versorgungsdeponien entlang einiger unserer Bahnstrecken schaffen. Dies ist jedoch nicht nachhaltig.\n\n§RDiese Entscheidung kann nur einmal getroffen werden. Der Bonus verschwindet, wenn Sie mehr als 3 zusätzliche Versorgungszentren errichten.§!"

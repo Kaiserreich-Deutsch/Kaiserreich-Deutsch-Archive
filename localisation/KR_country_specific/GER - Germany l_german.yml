@@ -295,8 +295,8 @@ financial_help_granted:0 "Volle finanzielle Hilfe gewährt"
 financial_help_denied:0 "Finanzielle Hilfe verweigert"
 financial_help_satisfactionary:0 "Zufrieden mit der geleisteten Hilfe"
 GER_raised_tarrifs:0 "Erhöhte Zölle"
-ott_ger_statusquo:0 "Aufrechterhaltung des Status quo im Nahen Osten"
-egy_ger_statusquo:0 "Aufrechterhaltung des Status quo im Nahen Osten"
+ott_ger_statusquo:0 "Aufrechterhaltung des Status quo im Mittleren Osten"
+egy_ger_statusquo:0 "$ott_ger_statusquo$"
 
 ### Parties ###
 GER_totalist_party:0 "BK"
@@ -1169,7 +1169,7 @@ gerfor.3.a:0 "Danke Berlin!"
 gerfor.3.b:0 "Den Deutschen kann man nicht trauen."
 
 gerfor.4.t:0 "Britische Union gibt nach"
-gerfor.4.d:0 "Nachdem das Ultimatum in London eingegangen war, schickten sie schnell Befehle an alle ihre Kommandeure vor Ort, das Feuer einzustellen und auf die Britischen Inseln zurückzukehren. Wir haben heute einen diplomatischen Sieg errungen. Wir haben der Welt gezeigt, dass wir der sozialistischen und syndikalistischen Aggression die Stirn bieten werden. Wir werden jede Nation schützen, die von Großbritannien oder der Commune bedroht wird."
+gerfor.4.d:0 "Nachdem das Ultimatum in London eingegangen war, erteilten sie allen ihren Befehlshabern vor Ort rasch den Befehl, das Feuer einzustellen und nach Großbritannien zurückzukehren. Wir haben heute einen diplomatischen Sieg errungen. Wir haben der Welt gezeigt, dass wir der sozialistischen und syndikalistischen Aggression die Stirn bieten werden. Wir werden jede Nation schützen, die von Großbritannien oder der Kommune bedroht wird."
 gerfor.4.a:0 "Erneut setzt sich die deutsche Diplomatie durch."
 
 gerfor.5.t:0 "Großbritannien ignoriert unser Dänemark-Ultimatum"
@@ -1239,7 +1239,7 @@ gerfor.31.d:0 "Da ein Ende der steigenden Arbeitslosigkeit auf Madagaskar nicht 
 gerfor.31.a:0 "Wir brauchen das jetzt wirklich nicht..."
 
 gerfor.32.t:0 "Ein zweiter Frieden mit Ehre"
-gerfor.32.d:0 "Mit dem Fall Frankreichs haben unsere Streitkräfte erfolglos versucht, die Kontrolle über die Britischen Inseln zu erlangen und den Krieg zu unseren Gunsten entschieden zu beenden. Leider hat sich der Widerstand der Republikaner als stärker erwiesen, als wir zuvor erwartet hatten, und die Versuche, eine umfassende Invasion der Marine zu starten, sind gescheitert. Wir können nun entweder den bewaffneten Kampf fortsetzen oder versuchen, diesen vergeblichen Konflikt durch einen Friedensvertrag zu beenden."
+gerfor.32.d:0 "Mit dem Fall Frankreichs haben unsere Streitkräfte erfolglos versucht, die Kontrolle über Großbritannien zu erlangen und den Krieg zu unseren Gunsten entschieden zu beenden. Leider hat sich der Widerstand der Republikaner als stärker erwiesen, als wir zuvor erwartet hatten, und die Versuche, eine umfassende Invasion der Marine zu starten, sind gescheitert. Wir können nun entweder den bewaffneten Kampf fortsetzen oder versuchen, diesen vergeblichen Konflikt durch einen Friedensvertrag zu beenden."
 gerfor.32.a:0 "Es ist Zeit für einen Waffenstillstand."
 gerfor.32.b:0 "Dies wird erst dann enden, wenn deutsche Stiefel durch London marschieren."
 
