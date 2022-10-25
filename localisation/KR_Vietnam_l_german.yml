@@ -1,0 +1,31 @@
+﻿l_german:
+
+### Parties ###
+VIN_totalist_party:0 "Tan Viet"
+VIN_totalist_party_long:0 "New Viet Revolutionary Party(Tan Viet Cach mang Dang)"
+VIN_radical_socialist_party:0 "Aspiration Society"
+VIN_radical_socialist_party_long:0 "Aspiration Society(Hoi Kin Cao vong)"
+VIN_syndicalist_party:0 "Indochinese Revolutionary League"
+VIN_syndicalist_party_long:0 "Indochinese Revolutionary League(Hoi Dong Duong Cach mang)"
+VIN_social_democrat_party:0 "VNQDD"
+VIN_social_democrat_party_long:0 "Vietnamese Nationalist Party(Viet Nam Quoc dan Dang)"
+VIN_social_liberal_party:0 "People's rule Party"
+VIN_social_liberal_party_long:0 "People's rule Party of Dai Viet(Dai Viet Dan chinh Dang)"
+VIN_market_liberal_party:0 "Indochinese Constitutionalist Party"
+VIN_market_liberal_party_long:0 "Indochinese Constitutionalist Party(Dang Lap hien Dong Duong)"
+VIN_social_conservative_party:0 "Progressive Party"
+VIN_social_conservative_party_long:0 "Progressive Party(Dang Tien Bo)"
+VIN_authoritarian_democrat_party:0 "National Union Bloc"
+VIN_authoritarian_democrat_party_long:0 "National Union Bloc(Khoi Quoc Gia Lian Hiep)"
+VIN_paternal_autocrat_party:0 "Royalist Party"
+VIN_paternal_autocrat_party_long:0 "Royalist Party(Dang Bao Hoang)"
+VIN_national_populist_party:0 "Cao Dai"
+VIN_national_populist_party_long:0 "The Great Faith for the Third Universal Redemption(Dai Dao Tam Ky Pho Do)"
+
+### Events ###
+vietnam.0.t:0 "Feuer im See"
+vietnam.0.d:0 "Mit dem Aufstand der Viet Minh im Süden hat sich die Flamme des Aufstands in allen drei Regionen Vietnams ausgebreitet. Dies ist die dunkelste Stunde Vietnams, aber unser Land wird und muss mit dem eisernen Willen und der eisernen Faust des Kaisers gerettet werden."
+vietnam.0.a:0 "Lang lebe die Nguyen-Dynastie! Lang lebe der Kaiser!"
+
+VIN_nationalize_tonkin_mines:0 "Verstaatlichen Sie die Minen von Thach Khe!"
+VIN_nationalize_tonkin_mines_desc:0 "Wir sind nicht länger unter den Fersen der Deutschen - es ist Zeit, dass sich der vietnamesische Drache wieder erhebt!"

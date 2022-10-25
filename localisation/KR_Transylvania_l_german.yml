@@ -1,0 +1,33 @@
+﻿l_german:
+### Übersetzt von Proho ###
+### Parties ###
+TRS_totalist_party:0 "PST"
+TRS_totalist_party_long:0 "Partidul Socialist-Totalist(Sozialistisch-totalistische Partei)"
+TRS_syndicalist_party:0 "PSS"
+TRS_syndicalist_party_long:0 "Partidul Socialist-Sindicalist (Sozialistisch-Sindikalistische Partei)"
+TRS_radical_socialist_party:0 "PST"
+TRS_radical_socialist_party_long:0 "Partidul Socialist din Transilvania(Sozialistische Partei Siebenbürgens)"
+TRS_social_democrat_party:0 "PSD"
+TRS_social_democrat_party_long:0 "Partidul Social Democrat(Sozialdemokratische Partei)"
+TRS_social_liberal_party:0 "PL"
+TRS_social_liberal_party_long:0 "Partidul Liberal(Liberale Partei)"
+TRS_market_liberal_party:0 "PT"
+TRS_market_liberal_party_long:0 "Partidul Taranesc(Bauernpartei)"
+TRS_social_conservative_party:0 "PNR"
+TRS_social_conservative_party_long:0 "Partidul Național Român(Rumänische Nationalpartei)"
+TRS_authoritarian_democrat_party:0 "PNR"
+TRS_authoritarian_democrat_party_long:0 "Partidul Național Român(Rumänische Nationalpartei)"
+TRS_paternal_autocrat_party:0 "PNR"
+TRS_paternal_autocrat_party_long:0 "Partidul Național Român(Rumänische Nationalpartei)"
+TRS_national_populist_party:0 "PNR"
+TRS_national_populist_party_long:0 "Partidul Național Român(Rumänische Nationalpartei)"
+
+### Events ###
+transylvania.1.t:0 "Union mit Rumänien?"
+transylvania.1.d:0 "Endlich ist Siebenbürgen von Ungarn unabhängig. Wir sind ein rumänischer Staat und die Bevölkerung wünscht sich seit langem, sich unseren Brüdern in Rumänien anzuschließen, um gemeinsam einen Staat zu bilden. Endlich kann der Traum von einem Großrumänien verwirklicht werden."
+transylvania.1.a:0 "Proklamieren Sie die Union mit Rumänien."
+transylvania.1.b:0 "Nein, wir sollten unsere Unabhängigkeit behalten!"
+
+transylvania.2.t:0 "Siebenbürgen proklamiert eine Union mit Rumänien"
+transylvania.2.d:0 "Siebenbürgen hat es geschafft, von Ungarn unabhängig zu werden. Ihre Regierung hat einstimmig eine Union zwischen Rumänien und Siebenbürgen erklärt. Endlich können wir unsere lange verlorenen Geschwister in einem Großrumänien willkommen heißen."
+transylvania.2.a:0 "Willkommen, rumänische Brüder!"

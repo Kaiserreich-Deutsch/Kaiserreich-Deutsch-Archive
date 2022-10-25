@@ -1,0 +1,36 @@
+﻿l_german:
+
+popularity_ideology_tooltip:0 "[GetPopularityTooltip]"
+popularity_ideology_desc:0 "[GetPopularityTooltipDesc]"
+
+totalist_topbar_tooltip:0 "Die aktuelle Regierungspartei ist §HTotalist§!"
+syndicalist_topbar_tooltip:0 "Die aktuelle Regierungspartei ist §HSyndicalist§!"
+radical_socialist_topbar_tooltip:0 "Die aktuelle Regierungspartei ist §HRadical Socialist§!"
+social_democrat_topbar_tooltip:0 "Die aktuelle Regierungspartei ist §HSocial Democrat§!"
+social_liberal_topbar_tooltip:0 "Die aktuelle Regierungspartei ist §HSocial Liberal§!"
+market_liberal_topbar_tooltip:0 "Die aktuelle Regierungspartei ist §HMarket Liberal§!"
+social_conservative_topbar_tooltip:0 "Die aktuelle Regierungspartei ist §HSocial Conservative§!"
+authoritarian_democrat_topbar_tooltip:0 "Die aktuelle Regierungspartei ist §HAuthoritarian Democrat§!"
+paternal_autocrat_topbar_tooltip:0 "Die aktuelle Regierungspartei ist §HPaternal Autocrat§!"
+national_populist_topbar_tooltip:0 "Die aktuelle Regierungspartei ist §HNational Populist§!"
+
+party_popularity_delayed_tooltip:0 "Die Parteipopularität repräsentiert die Kontrolle Ihrer aktuellen Regierung über die Nation und ihre Unterstützung durch das Volk. Politische Parteien mit hoher Popularität sind eher in der Lage, ihre politische Agenda durchzusetzen und die Nation zu stabilisieren."
+
+party_popularity_tooltip:0 "§HParteipopularität §![GetPopularityPPGain]"
+party_popularity_tooltip_long:0 "§H\n\nEffekte von unserer aktuellen Parteipopularität:§!\nTäglicher politischer Machtzuwachs: [GetPopularityPPGainValue][GetHasCoalition][GetCoalitionTotalist][GetCoalitionSyndicalist][GetCoalitionRadicalSocialist][GetCoalitionSocialDemocrat][GetCoalitionSocialLiberal][GetCoalitionMarketLiberal][GetCoalitionSocialConservative][GetCoalitionAuthoritarianDemocrat][GetCoalitionPaternalAutocrat][GetCoalitionNationalPopulist]"
+
+party_popularity_dynamic_modifier:0 "HParteipopularität"
+party_popularity_dynamic_modifier_ideology_mapped:0 "HParteipopularität"
+party_popularity_dynamic_modifier_coalition:0 "Koalitionen"
+
+party_pop_coalition:0 "\n\n§HKoalitionspartners:§!\n"
+party_pop_coalition_totalist:0 "- [?token:totalist.GetTokenLocalizedKey]\n"
+party_pop_coalition_syndicalist:0 "- [?token:syndicalist.GetTokenLocalizedKey]\n"
+party_pop_coalition_radical_socialist:0 "- [?token:radical_socialist.GetTokenLocalizedKey]\n"
+party_pop_coalition_social_democrat:0 "- [?token:social_democrat.GetTokenLocalizedKey]\n"
+party_pop_coalition_social_liberal:0 "- [?token:social_liberal.GetTokenLocalizedKey]\n"
+party_pop_coalition_market_liberal:0 "- [?token:market_liberal.GetTokenLocalizedKey]\n"
+party_pop_coalition_social_conservative:0 "- [?token:social_conservative.GetTokenLocalizedKey]\n"
+party_pop_coalition_authoritarian_democrat:0 "- [?token:authoritarian_democrat.GetTokenLocalizedKey]\n"
+party_pop_coalition_paternal_autocrat:0 "- [?token:paternal_autocrat.GetTokenLocalizedKey]\n"
+party_pop_coalition_national_populist:0 "- [?token:national_populist.GetTokenLocalizedKey]\n"

@@ -1,0 +1,1206 @@
+﻿l_german:
+
+### Opinion Modifiers ###
+CAFRP:0 "Kanada hat uns Puerto Rico gegeben"
+USAPRNO:0 "Die USA haben uns Puerto Rico nicht gegeben"
+CANGIVPR:0 "Kanada gibt uns Puerto Rico zurück"
+CANNOPR:0 "Kanada hat uns Puerto Rico nicht zurückgegeben"
+USAVSCAN:0 "Kanada hat Puerto Rico"
+LIB_goes:0 "Liberia hat seine Unabhängigkeit von uns erklärt."
+LIB_stand:0 "Liberia steht an unserer Seite"
+LIB_go_NFA:0 "Liberia geht mit uns"
+LIB_no_NFA:0 "Liberia geht mit Deutschland"
+LIB_no_GER:0 "Liberia geht mit Frankreich"
+LIB_go_GER:0 "Liberia geht mit uns"
+LIB_ENT_FRA:0 "Wir werden in die Entente akzeptiert"
+LIB_ENT:0 "Liberia tritt der Entente bei"
+LIB_WAR:0 "Liberia wurde der Krieg erklärt"
+LIB_WAR_FRA:0 "Sie haben uns den Krieg erklärt"
+FRA_NO_LIB:0 "Frankreich schützt uns nicht"
+LIB_GER:0 "Deutschland schützt uns"
+LIB_GER_MAF:0 "Deutschland gibt unseren Schutz an Mittelafrika weiter"
+LIB_GER_ENE:0 "Deutschland beschützt Liberia"
+GER_MAF_LIB:0 "Deutschland übertragt Liberia an uns"
+GER_LIB_WAR:0 "Deutschland erklärt uns den Krieg"
+GER_LIB_USA_WAR:0 "Deutschland erklärt Liberia den Krieg"
+FRA_LIB_POSTGER:0 "Liberia fordert unseren Schutz nachdem Deutschland abgelehnt hat"
+LIB_WAR_MFA:0 "Sie haben uns den Krieg erklärt"
+PHI_SIZE_EQUIP:0 "Die Philippinen beschlagnahmen unser Equipment"
+PHI_NO_EQUIP:0 "Die Philippines beschlagnahmen unser Equipment nicht"
+GER_NO_LIB:0 "Deutschland möchte uns nicht beschützen"
+CAN_usa_gov_exile:0 "Die Vereinigten Staaten gehen ins Exil"
+CAN_RET_ALASKA:0 "Kanada hat uns Alaska zurückgegeben"
+MACARTHUR_NO_ALASKA:0 "MacArthur hat uns Alaska gegeben"
+USA_CAN_alliance:0 "Unser Verbündeter"
+CAN_NO_RET_ALASKA:0 "Kanada hat uns Alaska nicht zurückgegeben"
+CAN_NO_RET_NE:0 "Kanada hat uns New England nicht zurückgegeben"
+GER_help_TEX:0 "Deutschland schickt Freiwillige"
+RUS_help_USA:0 "Russland schickt Freiwillige"
+RUS_help_TEX:0 "Russel schickt Freiwillige"
+JAP_help_PSA:0 "Japan schickt Freiwillige"
+supplies_arrived:0 "Ihre Vorräte sind angekommen"
+victory_ACW:0 "Wir haben den amerikanischen Bürgerkrieg gewonnen"
+CUB_not_seize_guan:0 "Cuba beschlät Guantanamo nicht"
+asked_return_guantanamo:0 "Guantanamo fordern   "
+refuse_return_guantanamo:0 "Ablehnen, Guantanamo zurückzugeben"
+accept_return_guantanamo:0 "Akzeptieren, Guantanamo hinzuzufügen"
+maintained_claim_guantanamo:0 "Den Anspruch auf Guantanamo erhalten"
+occupaied_guam_USA:0 "Japan beschlagnahmt Guam"
+no_occupaied_guam_USA:0 "Japan beschlagnahmt Guam nicht"
+ACW_help_from_entente:0 "Unterstützt uns im Bürgerkrieg"
+ACW_entente_helping:0 "Sie im Bürgerkrieg unterstützen"
+USA_new_england_units:0 "Vier Militia-Einheiten werden in New England erhoben"
+ACW_units_recalled:0 "Soldaten aus dem Bürgerkrieg werden im Notfall wieder mobilisiert"
+
+ACW_federal_front_idea:0 "Gegen die Föderalen ankämpfen"
+ACW_syndicalist_front_idea:0 "Gegen die Syndikalisten ankämpfen"
+ACW_longist_front_idea:0 "Gegen die Longisten ankämpfen"
+ACW_pacific_front_idea:0 "Gegen die Pazifikstaaten ankämpfen"
+ACW_wavering_momentum_idea:0 ""
+ACW_wavering_momentum:0 "Wavering Momentum"
+
+### Tooltips ###
+ACW_liberia_rally:0 "Wir sollten unsere Leute versammeln um Liberia zu schützen"
+ACW_panama_garrison_tooltip:0 "Die Panama Garrison kehren nach Amerika zurück"
+ACW_chinese_marines_tooltip:0 "Die Marines aus China kehren nach Amerika zurück"
+PSA_rockies_ceasefire:0 "In den Rocky Mountains wurde ein Waffenstillstand vereinbart"
+ACW_reinforcment_tooltip:0 "Verstärkungen müssen eintreffen"
+ACW_convert_destroyers_tooltip:0 "Wir sollten die Schiffe zu Zerstörern umwandeln"
+ACW_convert_cruisers_tooltip:0 "Wir sollten die Schiffe zu Kreuzern umwandeln"
+ACW_entente_support:0 "Entente Berater"
+ACW_support_usa:0 "Die Föderale Regierung unterstützen"
+ACW_support_psa:0 "Die Pazifik-Regierung unterstützen"
+ACW_support_aus:0 "Die Longisten-Regierung unterstützen"
+ACW_miss_ceasefire:0 "Mississippi Waffenstillstand"
+ACW_plains_ceasefire:0 "Great Plains Waffenstillstand"
+ACW_rocky_ceasefire:0 "Rocky Mountain Waffenstillstand"
+ACW_is_recruiting:0 "Derzeit darauf konzentriert, die Unterstützung zu erhöhen
+ACW_recruit_units:0 "[?total_units_to_spawn|G0] Militia-Einheiten werden ausgehoben."
+ACW_recruit_5_rebels:0 "§G5§! Rebelleneinheiten werden rekrutiert."
+ACW_three_units_capital:0 "In der Hauptstadt werden drei Notreserveeinheiten aufgestellt"
+ACW_six_units_raised:0 "§G6§! Zusätzliche Militia- und Infanterieeinheiten werden rekrutiert"
+USA_capital_moved:0 "Die Hauptstadt wurde gewechselt"
+ACW_fired_up:0 "Angefeuert!"
+ACW_fired_up_desc:0 "Unsere Streitkräfte sind angefeuert und bereit, den Feind anzugreifen!"
+ACW_times_up:0 "Es dauert zu lange!"
+ACW_times_up_desc:0 "Der Bürgerkrieg hat zu lange gedauert, mit zu wenig Hoffnung auf Fortschritt. Es hat begonnen, unsere Streitkräfte zu belasten"
+CP_25_PP_25:0 "£pol_power §Y25§! £command_power §Y25§!"
+CP_25_PP_25_blocked:0 "£pol_power §R25§! £command_power §R25§!"
+ACW_once_the_war_begins:0 "Wenn der Bürgerkrieg beginnt:"
+ACW_gain_core_on_state:0 "Wenn ein Nachbarstaat Kern ist: §H[Root.GetNameDef]§!:"
+
+2000_infantry_equipment_1:0 "£rifle_texticon §H2000§!"
+2000_infantry_equipment_1_blocked:0 "£rifle_texticon §R2000§!"
+2000_infantry_equipment_1_tooltip:0 "Wir brauchen genug Waffen, bevor wir sie schicken können
+
+### State Modifiers ###
+AFP_state_support_low:0 "AFP Control: §GLow§!"
+SPA_state_support_low:0 "SPA Control: §GLow§!"
+AFP_state_support_even:0 "AFP Control: §LMedium§!"
+SPA_state_support_even:0 "SPA Control: §LMedium§!"
+AFP_state_support_high:0 "AFP Control: §OHigh§!"
+SPA_state_support_high:0 "SPA Control: §OHigh§!"
+AFP_state_support_guaranteed:0 "AFP Control: §RTotal§!"
+SPA_state_support_guaranteed:0 "SPA Control: §RTotal§!"
+
+AFP_state_support_tooltip:0 "Dieser Staat beherbergt Unterstützung für die §LAmerica First Party§!. Ihre Treue im Falle eines Bürgerkriegs ist nicht sicher."
+AFP_guaranteed_state_tooltip:0 "Dieser Staat wird von der §LAmerica First Party§! kontrolliert. Ihre Treue zur Föderalen Regierung existiert nicht."
+SPA_state_support_tooltip:0 "Dieser Staat beherbergt Unterstützung für die §RSocialist Party of America§!. Ihre Treue im Falle eines Bürgerkriegs ist nicht sicher."
+SPA_guaranteed_state_tooltip:0 "Dieser Staat wird von der §RSocialist Party of America§! kontrolliert. Ihre Treue zur Föderalen Regierung existiert nicht."
+
+### Decisions ####
+ACW_foreign_volunteer_decisions:0 "Ausländische Freiwillige"
+ACW_foreign_volunteer_decisions_desc:0 "Während der US-Bürgerkrieg in Amerika tobt, könnte es gut sein, Vorräte und Waffen an die Fraktion zu schicken, die wir zum Sieg in diesem blutigen Konflikt beitragen wollen."
+
+ACW_support_csa_dec:0 "Die CSA unterstützen"
+ACW_support_csa_dec_desc:0 "Wir sollten unsere Brüder und Schwestern in Amerika unterstützen, die kämpfen, um ihre Ketten zu brechen."
+
+ACW_support_usa_dec:0 "Die USA unterstützen"
+ACW_support_usa_dec_desc:0 "Wir sollten die Föderale Regierung im Kampf gegen die Syndikalisten und Verräter unterstützen."
+
+ACW_support_aus_dec:0 "Die AUS unterstützen"
+ACW_support_aus_dec_desc:0 "Wir sollten Huey Long und den Staat der amerikanischen Union dabei unterstützen, gegen die korrupte Bundesregierung und den Syndikalisten gleichermaßen zu kämpfen."
+
+ACW_support_psa_dec:0 "Die PSA unterstützen"
+ACW_support_psa_dec_desc:0 "Wir sollten das legitime Amerika an der Westküste unterstützen, das von allen Seiten in Amerika gegen die Tyrannei kämpft."
+
+ACW_civil_war_decisions:0 "Der Bürgerkrieg"
+ACW_civil_war_decisions_desc:0 "Der zweite amerikanische Bürgerkrieg ist da und wir müssen unseren Sieg darin für Amerika herbeiführen."
+
+ACW_move_quickly:0 "Wir müssen uns schnell bewegen"
+ACW_move_quickly_desc:0 "Die Föderale Regierung kontrolliert viel mehr Territorium als wir, und unsere Mission scheint - für einige - von Anfang an untergegangen zu sein. Und doch kämpfen wir weiter. Wir müssen bald Fortschritte machen und in das Herz des Bundesgebiets eindringen, sobald wir uns trauen, damit wir nicht in einem Krieg gefangen sind, auf den wir nicht hoffen können, ihn zu gewinnen."
+
+ACW_rocky_mountain_ceasefire_decisions:0 "Der [ACW_ceasefire_name] Waffenstillstand"
+ACW_break_ceasefire:0 "Brecht den Waffenstillstand"
+ACW_break_ceasefire_desc:0 "Wir haben lange genug gewartet. Die Zeit ist gekommen um [From.GetNameDef] anzugreifen und den Bürgerkrieg ein für alle Mal beenden."
+ACW_ceasefire_six_months:0 "Der Waffenstillstand wurde vor mindestens sechs Monaten vereinbart"
+ACW_ceasefire_one_month:0 "Der Waffenstillstand wurde vor mindestens einem Monat vereinbart"
+
+PSA_deal_with_devil:0 "Deal mit Teufel"
+PSA_deal_with_devil_desc:0 "Wir verlieren den Bürgerkrieg ... schlimm. Unsere einzige Hoffnung ist es, einen vorübergehenden Waffenstillstand mit zu schließen [From.GetNameDef] mit zu schließen, damit wir Kräfte gegen unseren wahren Feind bündeln können. Unser Vorschlag wird sein, dass der Waffenstillstand 90 Tage dauert, aber hoffentlich länger, wenn beide Seiten bereit sind."
+
+TEX_deal_with_devil:0 "Deal mit Teufel"
+TEX_deal_with_devil_desc:0 "Wir verlieren den Bürgerkrieg ... schlimm. Unsere einzige Hoffnung ist es, einen vorübergehenden Waffenstillstand mit zu schließen [From.GetNameDef] mit zu schließen, damit wir Kräfte gegen unseren wahren Feind bündeln können. Unser Vorschlag wird sein, dass der Waffenstillstand 90 Tage dauert, aber hoffentlich länger, wenn beide Seiten bereit sind."
+
+ACW_break_deal_with_devil:0 "Den Deal brechen"
+ACW_break_deal_with_devil_desc:0 "Es ist Zeit für unseren vorübergehenden Waffenstillstand mit [From.GetNameDef] zu einem Ende kommen."
+
+USA_relocate_capital_civil_war:0 "Die Hauptstadt relokalisieren"
+
+USA_emergency_reserve:0 "Notreserven aufrufen"
+PSA_emergency_reserve:0 "Notreserven aufrufen"
+CSA_emergency_reserve:0 "Notreserven aufrufen"
+TEX_emergency_reserve:0 "Notreserven aufrufen"
+
+ACW_federal_front:0 "An der föderalen Front kämpfen"
+ACW_syndicalist_front:0 "An der syndikalistischen Front kämpfen"
+ACW_longist_front:0 "An der longistischen Front kämpfen"
+ACW_pacific_front:0 "An der pazifischen Front kämpfen"
+
+ACW_recruitment_tooltip:0 "Verfügbare Staaten zum rekrutieren"
+ACW_recruit_in_state:0 "Rekrutiere [From.GetACWDivisionCount] Militia in [From.GetName]"
+
+ACW_restore_order_decisions:0 "Amerika wiederherstellen"
+ACW_restore_order_tooltip:0 "Nicht konsolidierte Staaten"
+ACW_suppress_resistance:0 "Widerstand unterdrücken in [From.GetName]"
+ACW_suppress_resistance_tooltip:0 "Unterdrückter Widerstand"
+ACW_restore_order:0 "Ordnung in [From.GetName] wiederherstellen"
+
+ACW_gets_event_uprising:0 "Erhält Event '§HResistance Uprising in [?revolt_state_var.GetName]§!'."
+
+### Set Up Events ###
+amcivwar.1.t.president:0 "Präsident Reed flieht nach Chicago"
+amcivwar.1.t.not_president:0 "Jack Reed fordert zum Handeln auf"
+
+amcivwar.1.d.president:0 "Präsident Reed ist nach Chicago geflohen und erklärt MacArthur zum Verräter des gesamten amerikanischen Volkes. Seine Forderungen haben im Stahlgürtel große Unterstützung gefunden, und eine Reihe von Gouverneuren haben bereits angekündigt, dass sie die „illegitime“ Autorität der gegenwärtigen Regierung nicht anerkennen. Sie haben ihre Grenzen für amerikanische Soldaten geschlossen und ein erschreckendes Gespenst des Bürgerkriegs ausgelöst, den das Land vor weniger als einem Jahrhundert erlebt hat."
+amcivwar.1.d.macarthur:0 "Jack Reed hat eine mitreißende Radiosendung aus Chicago gegeben und alle seine Anhänger aufgefordert, sich gegen die Zwillingstyrannen General MacArthur und Huey Long zu erheben. Innerhalb einer Stunde, haben sich eine Reihe von Gouverneuren im gesamten Stahlgürtel ihre Unterstützung angekündigt und sowohl Huey Long als auch General MacArthur als nicht legitim erklärt. Die Gouverneure wurden von Reeds Anhängern unterstützt, die innerhalb weniger Tage Armeeposten überholt und Straßensperren in den nördlichen Bundesstaaten errichtet haben."
+
+amcivwar.1.d.nothing_is_done:0 "Die Gewalt in Pittsburgh war nur der Funke, den Jack Reed brauchte, um im Radio zu erklären, dass Präsident Olson eine Marionette der Unternehmen und ein unehrlicher Betrüger ist, der den amerikanischen Arbeiter an den Meistbietenden verkaufen will. Er sagte, es sei Zeit für den Arbeiter, Stellung zu beziehen. Eine Reihe von Gouverneuren des Nordens erklärte sofort ihre Unterstützung für Reed, unterstützt von syndikalistischen Milizen, die sich in den Staaten ausgebreitet haben, um Straßen zu blockieren und Militärstützpunkte zu übernehmen."
+amcivwar.1.d.revolt_against_compromise:0 "Der Kompromissversuch ist gescheitert und mit seinem Scheitern ist Amerika gebrochen worden. Jack Reed gab heute bekannt, dass die Arbeiter Amerikas sich gegen die Regierungen stellen müssen, und fast sofort erklärten einige Gouverneure des Nordens ihre Unterstützung für ihn. Sie sagen, Präsident Olson und seine Regierung hätten keine Autorität und fordern, dass sie sich einem von Reed geleiteten Ausschuss ergeben, um die Umstrukturierung der Regierung "wie von den Gründervätern beabsichtigt" zu überwachen."
+amcivwar.1.d.assassination_long:0 "Mit dem Chaos, das das Land nach der gescheiterten Ermordung von Huey Long verschlingt, hat Reed den Moment genutzt und die Bundesregierung als Marionetten ihrer kapitalistischen Herren denunziert. Eine Reihe von Gouverneuren des Nordens erklärte sofort ihre Unterstützung für Reed und erklärte, die "moralisch bankrotte" Regierung habe keine echte Autorität. Diese Landesregierungen werden von syndikalistischen Milizen unterstützt, die sich in den Bundesstaaten ausgebreitet haben, um Straßen zu blockieren und Militärstützpunkte zu übernehmen."
+amcivwar.1.d.assassination_reed:0 "Das Attentat gegen Jack Reed wurde vereitelt, und schlimmer noch, die Beteiligung der Bundesregierung wurde veröffentlicht. Dies ist die Rechtfertigung, die das SPA benötigt. Jack Reed hat heute Präsident [USA.GetLeader] und Huey Long als Verräter und Tyrannen denunziert und seine Anhänger zusammengebracht, um ihre Lebensweise gegen Tyrannei zu verteidigen. Eine Reihe von Gouverneuren des Nordens erklärte sofort ihre Unterstützung für Reed, unterstützt von syndikalistischen Milizen, die sich in den Staaten ausgebreitet haben, um Straßen zu blockieren und Militärstützpunkte zu übernehmen."
+
+amcivwar.1.d.long_assassinated:0 "Mit dem Chaos, das das Land nach der Ermordung von Huey Long erfasst, hat Jack Reed den Moment genutzt und die Bundesregierung als Tyrannen und die amerikanische Demokratie als wirklich tot denunziert. Eine Reihe von Gouverneuren des Nordens erklärte sofort ihre Unterstützung für Reed und erklärte, die "moralisch bankrotte" Regierung habe keine echte Autorität. Diese Landesregierungen werden von syndikalistischen Milizen unterstützt, die sich in den Bundesstaaten ausgebreitet haben, um Straßen zu blockieren und Militärstützpunkte zu übernehmen."
+amcivwar.1.d.austerity:0 "Mit seinen Anhängern, die durch die Absprache der Bundesregierung mit Huey Long und der AFP angeheizt wurden, hat Jack Reed den Moment genutzt und die amerikanischen Arbeiter aufgefordert, sich gegen ein tyrannisches System zu erheben, das sie verraten hat. Eine Reihe von Gouverneuren des Nordens erklärte sofort ihre Unterstützung für Reed und erklärte, die "moralisch bankrotte" Regierung habe keine echte Autorität. Diese Landesregierungen werden von syndikalistischen Milizen unterstützt, die sich in den Bundesstaaten ausgebreitet haben, um Straßen zu blockieren und Militärstützpunkte zu übernehmen."
+
+amcivwar.1.d.default:0 "Das Vorgehen gegen die Sozialistische Partei hätte nur ein Ergebnis haben können: Um die Rechte der Arbeiter im ganzen Land zu schützen, hat Jack Reed die Arbeiter Amerikas aufgefordert, sich gegen ihre kapitalistischen Oberherren zu stellen und zu sagen, dass anständige Amerikaner eine moralische Verpflichtung haben, dies zu tun Aktion gegen Präsident Garner und die Korruption, die er vertritt. Eine Reihe von Gouverneuren des Nordens erklärte sofort ihre Unterstützung für Reed, unterstützt von syndikalistischen Milizen, die sich in den Staaten ausgebreitet haben, um Straßen zu blockieren und Militärstützpunkte zu übernehmen."
+
+amcivwar.1.a:0 "Das Desaster hat begonnen. Steh der Republik bei"
+amcivwar.1.b:0 "Die Revolution hat begonnen. Stehe den Arbeitern bei (Spiele als CSA)"
+
+amcivwar.2.t.president:0 "Präsident Long deklariert den American Union State"
+amcivwar.2.t.first_revolter:0 "Huey Long erklärt den American Union State"
+amcivwar.2.t.second_revolter:0 "Huey Long verdammt die föderale Regierung"
+
+amcivwar.2.d.president_reed:0 "In einer feurigen Rede in New Orleans hat Huey Long über die Notwendigkeit gesprochen, sowohl gegen den Verräter MacArthur als auch gegen den Prätendenten Reed zu kämpfen. Beide sind Tyrannen, die gestürzt werden müssen, und nur die AFP kann unter seiner Führung Amerika reinigen. Er hat unter einer Reihe von Gouverneuren des Südens Zuhörer gewonnen, die alle erkannt haben, dass sie die Autorität weder von MacArthur noch von Präsident Reed anerkennen."
+amcivwar.2.d.president_long:0 "Präsident Huey Long ist nach New Orleans geflohen und hat erklärt, dass General MacArthur ein Verräter des amerikanischen Volkes ist. Er hat unter einer Reihe von Gouverneuren des Südens, die alle erkannt haben, dass sie MacArthurs Autorität nicht mehr anerkennen, Zuhörer gewonnen und seinen Rücktritt gefordert. Long hat im Radio gesprochen und alle Amerikaner aufgefordert, den legitimen Präsidenten zu unterstützen und gegen die Tyrannei zu kämpfen, die MacArthur vertritt."
+amcivwar.2.d.macarthur:0 "In einer feurigen Rede in New Orleans hat Huey Long über die Notwendigkeit gesprochen, sowohl gegen den Verräter General MacArthur als auch gegen den Prätendenten Jack Reed zu kämpfen. Beide sind Tyrannen, die gestürzt werden müssen, und nur die AFP kann unter seiner Führung Amerika reinigen. Er hat unter einer Reihe von Gouverneuren des Südens Zuhörer gewonnen, die alle erkannt haben, dass sie die Autorität weder von MacArthur noch von Reed anerkennen."
+
+amcivwar.2.d.nothing_is_done:0 "Die Gewalt in Pittsburgh war nur der Funke, den Huey Long brauchte, um im Radio zu erklären, dass Präsident Olson sowohl ein Verräter als auch ein Betrüger ist, der beabsichtigt, das amerikanische Volk an Banker und Syndikalisten zu verkaufen, und dass er und Reed muss gekämpft werden, um die amerikanische Lebensweise zu bewahren. Eine Reihe von Gouverneuren des Südens haben ihre Unterstützung hinter sich gelassen und angekündigt, dass sie die Olson-Regierung nicht als legitim ansehen und sich daher weigern, ihre Autorität anzuerkennen. "
+amcivwar.2.d.revolt_against_compromise:0 "Der Kompromissversuch ist gescheitert, und mit seinem Scheitern ist Amerika gebrochen worden. Huey Long erklärte heute im Radio, dass der korrupte Präsident Olson und das tyrannische Reed beide zum Wohl Amerikas gestoppt werden müssen, und forderte alle anständigen Amerikaner auf, sich gegen sie zu erheben. Eine Reihe von Gouverneuren des Südens haben ihre Unterstützung hinter sich gelassen und angekündigt, dass sie die Olson-Regierung nicht als legitim ansehen, und obwohl sie noch nicht so weit gegangen sind, die Abspaltung von der Union anzukündigen, haben sie deutlich gemacht, dass sie dies nicht anerkennen die Autorität der Regierung innerhalb ihrer Grenzen. "
+amcivwar.2.d.assassination_long:0 "Das Attentat gegen Huey Long wurde vereitelt, und schlimmer noch, die Beteiligung der Bundesregierung wurde veröffentlicht. Dies ist die Rechtfertigung, die die AFP benötigt. Huey Long hat heute Präsident [USA.GetLeader] und Jack Reed als Verräter denunziert und Tyrannen und hat seine Anhänger zusammengebracht, um ihre Lebensweise gegen die Tyrannei zu verteidigen. Eine Reihe von Gouverneuren des Südens haben ihre Unterstützung hinter sich gelassen und angekündigt, dass sie die Regierung [USA.GetName] nicht als legitim ansehen, obwohl sie dies noch nicht getan haben Sie sind so weit gegangen, die Abspaltung von der Union anzukündigen, dass sie die Autorität der Regierung innerhalb ihrer Grenzen nicht anerkennen. "
+amcivwar.2.d.assassination_reed:0 "Mit dem Chaos, das das Land nach der gescheiterten Ermordung von Jack Reed verschlingt, hat Huey Long den Moment genutzt und die Bundesregierung als korrupt und unlösbar denunziert. Eine Reihe südlicher Gouverneure haben ihre Unterstützung hinter sich gelassen und angekündigt, dass sie das nicht sehen." [USA.GetName] Regierung als legitim. Obwohl sie noch nicht so weit gegangen sind, die Abspaltung von der Union anzukündigen, haben sie deutlich gemacht, dass sie die Autorität der Regierung innerhalb ihrer Grenzen nicht anerkennen. "
+
+amcivwar.2.d.reed_assassinated:0 "Mit dem Chaos, das das Land nach der Ermordung von Jack Reed erfasst, hat Huey Long den Moment genutzt und die Bundesregierung als Tyrannen und die amerikanische Demokratie als wirklich tot denunziert. Eine Reihe südlicher Gouverneure erklärte sofort ihre Unterstützung für Long und erklärte die 'moralisch bankrott' "Die Regierung hat keine wirkliche Autorität. Diese Landesregierungen werden von Minutemen-Milizen unterstützt, die sich in den Staaten ausgebreitet haben, um Straßen zu blockieren und Militärstützpunkte zu übernehmen."
+amcivwar.2.d.compromise:0 "Mit seinen Anhängern, die von der offensichtlichen Akzeptanz einer syndikalistischen Agenda durch die Bundesregierung angeheizt wurden, hat Huey Long den Moment genutzt und die Amerikaner aufgefordert, sich gegen ein System zu erheben, das sie der Tyrannei verraten sollte. Eine Reihe südlicher Gouverneure erklärte dies sofort Unterstützung für Long, die die 'moralisch bankrotte' Regierung für keine echte Autorität erklärt. Diese Landesregierungen werden von Minutemen-Milizen unterstützt, die sich in den Staaten ausgebreitet haben, um Straßen zu blockieren und Militärstützpunkte zu übernehmen. "
+
+amcivwar.2.d.default:0 "Huey Long hat erklärt, dass Präsident [USA.GetLeader] ein Tyrann ist und abgelehnt werden muss. In einer Rundfunkrede verurteilte er den Präsidenten, weil er mit den Syndikalisten des SPA verbündet war, und beschuldigte ihn, nichts getan zu haben, um das Chaos zu stoppen. Long hat sich geschworen, die Ordnung wiederherzustellen und die korrupte Regierung in Washington zu zerstören, und eine Reihe südlicher Gouverneure erklärte sofort ihre Unterstützung für ihn und forderte [USA.GetLeader] auf, sofort zurückzutreten und die Kontrolle an Long und ein "Versöhnungskomitee" zu übergeben würde eine Umstrukturierung der amerikanischen Regierung sehen."
+
+amcivwar.2.a:0 "Stehe der Republik bei"
+amcivwar.2.b:0 "Stehe dem Land bei (Spiele als AUS)"
+
+amcivwar.3.t:0 "Die Gouverneure des Pazifiks erklären den Notfall"
+amcivwar.3.d:0 "Die Gouverneure der pazifischen Staaten haben erklärt, dass MacArthur, Huey Long und Jack Reed Verräter, Tyrannen und Feinde Amerikas sind. Sie sind derzeit nicht aus der Union ausgetreten, sondern lehnen es ab, die Autorität einer der konkurrierenden Regierungen anzuerkennen. Gouverneur Frank Merriam kündigte bei der Legislative in Sacramento an, dass im Falle eines Drucks die "richtige Demokratie" gewaltsam im Land wiederhergestellt werden würde. "
+amcivwar.3.a:0 "Stehe der Regierung bei"
+amcivwar.3.b:0 "Stehe der Republik bei (Spiele als PSA)"
+
+amcivwar.4.t:0 "Standoff in Amerika"
+amcivwar.4.d.reed:0 "In den Vereinigten Staaten ist eine angespannte Pattsituation ausgebrochen, als der gewählte Präsident Reed in die Stadt Chicago floh, nachdem er von General Douglas MacArthur gewaltsam aus seiner Position entfernt worden war. Von Chicago aus haben Reeds Anhänger die Regierung von MacArthur für illegitim erklärt - ebenso wie die südlichen Anhänger von Huey Long mit Sitz in New Orleans und den pazifischen Gouverneuren unter der Führung von Gouverneur Frank Merriam. General MacArthur hat allen eine Frist von dreißig Tagen eingeräumt, um entweder zurückzutreten oder sich einer Verhaftung und Hinrichtung zu stellen Die Idee, dass Amerika in einen zweiten Bürgerkrieg geraten zu sein scheint, scheint fast sicher."
+amcivwar.4.d.long:0 "In den Vereinigten Staaten ist eine angespannte Pattsituation ausgebrochen, als der gewählte Präsident Huey Long in die Stadt New Orleans floh, nachdem er von General Douglas MacArthur gewaltsam aus seiner Position entfernt worden war. Von New Orleans aus haben Longs Anhänger die Regierung von MacArthur für rechtswidrig erklärt - ebenso wie Die nördlichen Anhänger des in Chicago ansässigen Syndikalisten Jack Reed und die Gouverneure des Pazifiks unter der Führung von Gouverneur Frank Merriam. General MacArthur hat allen eine Frist von dreißig Tagen eingeräumt, um entweder zurückzutreten oder sich einer Verhaftung und Hinrichtung zu stellen Die Idee, dass Amerika in einen zweiten Bürgerkrieg geraten zu sein scheint, scheint fast sicher."
+amcivwar.4.d.olson:0 "Präsident Floyd Olson erlitt heute einen schweren Schlag, als eine große Anzahl von Gouverneuren seine Regierung für rechtswidrig erklärte und ihre Unterstützung entweder hinter den Populisten Huey Long oder den syndikalistischen Führer Jack Reed warf. Sie haben aufgehört, aus der Union auszutreten, aber erklärt, dass die Bundesregierung innerhalb ihrer Staatsgrenzen keine Autorität besitzt, bis Olson zurücktritt und ein „Versöhnungsrat“ eingerichtet wird, um die Ordnung wiederherzustellen. Als Reaktion darauf hat Präsident Olson den Gouverneuren 30 Tage Zeit gegeben, sich zurückzuziehen - was alles andere als sicher macht, dass die Vereinigten Staaten zum zweiten Mal in weniger als einem Jahrhundert in einen Bürgerkrieg verfallen werden. "
+amcivwar.4.d.garner:0 "Präsident John Nance Garner erlitt heute einen schweren Schlag, als eine große Anzahl von Gouverneuren seine Regierung für rechtswidrig erklärte und ihre Unterstützung entweder hinter den Populisten Huey Long oder den syndikalistischen Führer Jack Reed warf. Sie traten kurz vor dem Austritt aus der Union auf, erklärten jedoch, dass die Bundesregierung innerhalb ihrer Landesgrenzen keine Autorität besitzt, bis Garner zurücktritt und ein „Versöhnungsrat“ eingerichtet wird, um die Ordnung wiederherzustellen. Als Reaktion darauf hat Präsident Garner den Gouverneuren 30 Tage Zeit gegeben, sich zurückzuziehen - was alles andere als sicher macht, dass die Vereinigten Staaten zum zweiten Mal in weniger als einem Jahrhundert in einen Bürgerkrieg verfallen werden."
+amcivwar.4.d.landon:0 "Präsident Alf Landon erlitt heute einen schweren Schlag, als eine große Anzahl von Gouverneuren seine Regierung für rechtswidrig erklärte und ihre Unterstützung entweder hinter den Populisten Huey Long oder den syndikalistischen Führer Jack Reed warf. Sie traten kurz vor dem Austritt aus der Union auf, erklärten jedoch, dass die Bundesregierung innerhalb ihrer Staatsgrenzen keine Autorität besitzt, bis Landon zurücktritt und ein „Versöhnungsrat“ eingerichtet wird, um die Ordnung wiederherzustellen. Als Reaktion darauf hat Präsident Landon den Gouverneuren 30 Tage Zeit gegeben, sich zurückzuziehen - was alles andere als sicher macht, dass die Vereinigten Staaten zum zweiten Mal in weniger als einem Jahrhundert in einen Bürgerkrieg verfallen werden."
+amcivwar.4.d.long_assassinated:0 "Präsident [USA.GetLeader] erlitt heute einen schweren Schlag, als eine große Anzahl von Gouverneuren seine Regierung unter Berufung auf eine direkte Verbindung zwischen der Bundesregierung und der jüngsten Ermordung von Huey Long für rechtswidrig erklärte und ihre Unterstützung hinter den syndikalistischen Führer Jack Reed warf. Sie haben aufgehört, aus der Union auszutreten, aber erklärt, dass die Bundesregierung innerhalb ihrer Staatsgrenzen keine Autorität besitzt, bis [USA.GetLeader] zurücktritt. Als Reaktion darauf hat Präsident [USA.GetLeader] den Gouverneuren 30 Tage Zeit gegeben, um zu stehen down - ein Befehl, an dem keiner von ihnen interessiert zu sein scheint, was alles andere als sicher macht, dass die Vereinigten Staaten zum zweiten Mal in weniger als einem Jahrhundert in einen Bürgerkrieg verfallen werden. "
+amcivwar.4.d.austerity:0 "Während Präsident [USA.GetLeader] kürzlich einen Sieg feierte, indem er mit Unterstützung der America First Party ein massives Spargesetz zur Rettung der amerikanischen Wirtschaft verabschiedete, hatte das Gesetz den gegenteiligen Effekt auf die Socialist Party of America. Heute haben mehrere Gouverneure die Regierung für rechtswidrig erklärt und ihre Unterstützung hinter den SPA-Führer Jack Reed geworfen. Als Reaktion darauf hat Präsident [USA.GetLeader] den Gouverneuren 30 Tage Zeit gegeben, sich zurückzuziehen - ein Befehl, an dem keiner von ihnen interessiert zu sein scheint, was alles andere als sicher macht, dass die Vereinigten Staaten in weniger als zum zweiten Mal in einen Bürgerkrieg verfallen werden ein Jahrhundert."
+amcivwar.4.d.reed_assassinated:0 "Präsident [USA.GetLeader] erlitt heute einen schweren Schlag, als eine große Anzahl von Gouverneuren seine Regierung für rechtswidrig erklärte, unter Berufung auf eine direkte Verbindung zwischen der Bundesregierung und der jüngsten Ermordung des Syndikalistenführers Jack Reed, und ihre Unterstützung hinter Huey Long geworfen haben. Sie haben aufgehört, aus der Union auszutreten, aber erklärt, dass die Bundesregierung innerhalb ihrer Landesgrenzen keine Autorität besitzt. Als Reaktion darauf hat Präsident [USA.GetLeader] den Gouverneuren 30 Tage Zeit gegeben, sich zurückzuziehen - ein Befehl, an dem keiner von ihnen interessiert zu sein scheint, was alles andere als sicher macht, dass die Vereinigten Staaten in weniger als zum zweiten Mal in einen Bürgerkrieg verfallen werden ein Jahrhundert."
+amcivwar.4.d.compromise:0 "Präsident [USA.GetLeader] erlitt heute einen schweren Schlag, als eine große Anzahl von Gouverneuren seine Regierung für rechtswidrig erklärte und die jüngste Verabschiedung eines Kompromissgesetzes zur Beendigung eines verheerenden nationalen Streiks als Beweis für eine Absprache mit dem syndikalistischen Führer Jack Reed anführte ihre Unterstützung hinter dem Führer der America First Party, Huey Long. Sie haben aufgehört, aus der Union auszutreten, aber erklärt, dass die Bundesregierung innerhalb ihrer Landesgrenzen keine Autorität besitzt. Als Reaktion darauf hat Präsident [USA.GetLeader] den Gouverneuren 30 Tage Zeit gegeben, sich zurückzuziehen - ein Befehl, an dem keiner von ihnen interessiert zu sein scheint, was alles andere als sicher macht, dass die Vereinigten Staaten in weniger als zum zweiten Mal in einen Bürgerkrieg verfallen werden ein Jahrhundert."
+amcivwar.4.d.macarthur_coup:0 "In den Vereinigten Staaten ist eine angespannte Pattsituation ausgebrochen, als General Douglas MacArthur und das amerikanische Militär die Kontrolle über die Regierung vom gewählten Präsidenten übernommen haben - um, wie er in einer nationalen Sendung feststellte, zu verhindern, dass Untätigkeit die Vereinigten Staaten in die USA führt Hände von Radikalen. Von Chicago aus haben Jack Reeds Anhänger MacArthurs Regierung für rechtswidrig erklärt - ebenso wie die südlichen Anhänger von Huey Long mit Sitz in New Orleans und die pazifischen Gouverneure unter der Führung von Gouverneur Frank Merriam. Alle haben eine Frist von erhalten General MacArthur, der dreißig Tage Zeit hat, um entweder zurückzutreten oder sich einer Verhaftung und Hinrichtung zu stellen. Angesichts der Tatsache, dass alle Seiten rasch Kräfte aufbauen, scheint die Vorstellung, dass Amerika in einen zweiten Bürgerkrieg geraten zu sein, fast sicher. "
+amcivwar.4.a:0 "Ich sehe es"
+
+amcivwar.5.t:0 "Der zweite Bürgerkrieg"
+amcivwar.5.d.macarthur:0 "MacArthurs Frist ist gekommen und gegangen, und da auf allen Seiten große Milizkräfte aufgestellt wurden, ist klar, wie ihre Antwort wirklich lautet. Der zweite amerikanische Bürgerkrieg hat begonnen."
+amcivwar.5.d.president:0 "Die Frist des Präsidenten ist gekommen und gegangen, und da auf allen Seiten große Milizkräfte aufgestellt wurden, ist klar, wie ihre Antwort wirklich lautet. Der zweite amerikanische Bürgerkrieg hat begonnen."
+amcivwar.5.a:0 "Nicht schon wieder..."
+
+### End of Civil War ###
+amcivwar.24.t:0 "Das Ende des zweiten Bürgerkriegs"
+amcivwar.24.d.CSA:0 "Was der größte kapitalistische Unterdrücker des 20. Jahrhunderts gewesen sein könnte, steht nun fest unter der Kontrolle der Arbeiterklasse. Im ganzen Land feiert die Arbeiterklasse ihre Befreiung von den Verwüstungen ihrer bürgerlichen Herren. Während es noch viel zu tun gibt, können wir heute diesen Sieg feiern und die Luft eines Amerikas genießen, in dem zum ersten Mal jeder Mann wirklich gleich ist."
+amcivwar.24.d.CSA_ceasefire:0 "Was der größte kapitalistische Unterdrücker des 20. Jahrhunderts gewesen sein könnte, steht nun fest unter der Kontrolle der Arbeiterklasse. Im ganzen Land feiert die Arbeiterklasse ihre Befreiung von den Verwüstungen ihrer bürgerlichen Herren. Während es noch viel zu tun gibt und die sogenannten Pazifischen Staaten von Amerika immer noch auf der anderen Seite des Waffenstillstands lauern, können wir heute diesen Sieg feiern und die Luft eines Amerikas genießen, in dem zum ersten Mal jeder Mann wirklich ist gleich."
+amcivwar.24.d.TEX:0 "Huey Long und seine Verbündeten haben alle ihre Feinde besiegt. Mit diesem Sieg können wir jetzt eine neue Ära des Friedens feiern. Obwohl es viel zu tun gibt, werden wir uns diese Zeit nehmen, um unseren Sieg zu feiern."
+amcivwar.24.d.TEX_ceasefire:0 "Huey Long und seine Verbündeten haben fast alle ihre Feinde besiegt - alle außer den sogenannten pazifischen Staaten von Amerika, die bis zu einer zukünftigen endgültigen Abrechnung über der Waffenstillstandslinie liegen. Im Moment können wir eine neue Ära des Friedens feiern. Obwohl es viel zu tun gibt, werden wir uns diese Zeit nehmen, um unseren Sieg zu feiern."
+amcivwar.24.d.USA:0 "Die Feinde Amerikas wurden zerstört. Wieder einmal wurde der Süden befriedet und die syndikalistische Bedrohung unterdrückt. Die Bedrohungen für die amerikanische Lebensweise wurden zerstört, und das große System, das von den Gründervätern so klug entworfen wurde, hat eine weitere Bedrohung überlebt. Jetzt im ganzen Land können sich die Menschen freuen und eine neue Ära des Friedens feiern."
+amcivwar.24.d.USA_ceasefire:0 "Der Süden wurde befriedet und die syndikalistische Bedrohung unterdrückt. Diese Bedrohungen für die amerikanische Lebensweise wurden zerstört, obwohl die Vereinigten Staaten mit den sogenannten pazifischen Staaten von Amerika, die über der Waffenstillstandslinie liegen, noch nicht vollständig sind. Trotzdem hat das große System, das von den Gründervätern so klug entworfen wurde, eine weitere Bedrohung überstanden, und die Menschen können sich vorerst freuen und eine neue Ära des Friedens feiern."
+amcivwar.24.d.PSA:0 "Die Feinde Amerikas wurden zerstört. Wieder einmal wurde der Süden befriedet, die syndikalistische Bedrohung unterdrückt und der amerikanische Cäsar besiegt. Die Bedrohungen für die amerikanische Demokratie wurden zerstört, und das von den Gründervätern so klug entworfene große System hat eine weitere Bedrohung überlebt. Jetzt im ganzen Land können sich die Menschen freuen und eine neue Ära des Friedens feiern."
+amcivwar.24.d.PSA_ceasefire:0 "Obwohl [ACW_survivor.GetNameDef] noch über die Waffenstillstandslinie existiert, sind die anderen Fraktionen im Bürgerkrieg gefallen und die Kämpfe sind beendet ... zumindest für den Moment. Wir haben eine Verschnaufpause, einen Moment der Ruhe und Besinnung, bevor wir die Waffen ergreifen und das Land wieder unter einem Banner vereinen müssen. Im Moment können sich die Menschen über einen hart verdienten Sieg freuen."
+amcivwar.24.d.NEE:0 "Der Staub hat sich endlich gelegt und es scheint, dass die einzige Fraktion, die im Bürgerkrieg noch übrig ist, [NEE.GetNameDef] ist. Wir müssen die Flagge Amerikas übernehmen und das, was noch übrig ist, wieder aufbauen. Mögen Leute wie MacArthur, Long, Reed und alle anderen in der Hölle verrotten wegen des Chaos, das sie über Amerikas Vermächtnis der Freiheit verwüstet haben."
+amcivwar.24.d.other:0 "Der Staub hat sich endlich gelegt und es scheint, dass der amerikanische Bürgerkrieg mit ... endete, dass niemand mehr stehen blieb. Amerika ist zumindest vorerst nicht mehr."
+amcivwar.24.a:0 "Für immer Solidatirät!" #CSA
+amcivwar.24.b:0 "Das echte Amerika steht immer noch!" #TEX
+amcivwar.24.c:0 "Nieder mit den Verrätern, hoch mit den Sternen!" #USA
+amcivwar.24.d:0 "Dieses Licht der Freiheit wurde nicht gelöscht!" #PSA
+amcivwar.24.e:0 "Es ist endlich vorbei." #other
+
+### CSA Flavor Events ###
+amcivwar.30.t:0 "Richtlinie 10: Umverteilung von Sachanlagen"
+amcivwar.30.d:0 "Jetzt, da die Revolution begonnen hat, müssen wir entscheiden, was mit der Bourgeoisie geschehen soll. Die IWW proklamieren, dass wir ihren gesamten Reichtum beschlagnahmen und ihn sofort an die Menschen weitergeben. Die aufstrebende Avantgarde hat ebenfalls ihre sofortige Verhaftung und Hinrichtung gefordert und das Schicksal von Wladimir Lenin als Beispiel für eine von Nachsicht besiegte Revolution angeführt. SPA-Mitglieder der abgewerteten AFL haben zusammen mit mehreren loyalen Progressiven das Leben über den Tod gesucht. Bitten Sie das Zentralkomitee, nur das zu enteignen, was für den Krieg notwendig ist, und ihre materialistischen Wähler bei Laune zu halten. ""
+amcivwar.30.a:0 "Ihr Reichtum und ihr Leben gehören uns!"
+amcivwar.30.b:0 "Möglicherweise brauchen wir diese Moderaten in Zukunft"
+
+amcivwar.31.t:0 "Die Bourgeoisie flieht nach Kanada"
+amcivwar.31.d:0 "Die Bourgeoisie hat beschlossen, aus der CSA zu fliehen. Tausende haben Zuflucht auf feindlichem Gebiet gesucht, insbesondere innerhalb der illegitimen kanadischen Regierung. Der diebische Abschaum hat alles von ihrem gestohlenen Reichtum mitgenommen, was sie mitnehmen konnten, als sie der Revolution entkommen sind. "
+amcivwar.31.a:0 "Die Revolution wird mit der Zeit für sie kommen"
+
+amcivwar.32.t:0 ""Das Leben von William Crawley" in den Kinos veröffentlicht"
+amcivwar.32.d:0 "Die revolutionäre Agitprop hat gerade die Geschichte des Lebens von Willaim Crawley, einem bescheidenen Sohn Floridas, veröffentlicht. Gefilmt auf einer modernen Klangbühne, wird die gewagte Rettung von Ex-Hollywood-Star Paul Robeson porträtiert. Obwohl William Crowley im wirklichen Leben den Kirchenchor bevorzugte, waren Paul Robesons Musiknummern unbeschwerte populäre Melodien. Der Film hat sich an der Abendkasse als voller Erfolg erwiesen und am Eröffnungswochenende eine Adaption von Jack Londons The Iron Heel geschlagen. Die Presse holte William Crawley ein, wo er kommentierte, dass der Film "das Spektakel unserer großen Befreiung" sei."
+amcivwar.32.a:0 "Herrlich"
+
+amcivwar.33.t:0 "Richtlinie 213: Kriegssyndikalismus"
+amcivwar.33.d:0 "Während der Krieg ins Stocken gerät und sich vielleicht sogar gegen uns wendet, debattiert das Zentralkomitee über einen umfassenden Vorschlag für eine Wirtschaftsreform, der als "Kriegssyndikalismus" bekannt ist. Einige seiner Vorschläge, wie die staatliche Kontrolle des gesamten Außenhandels, die Verstaatlichung aller Fabriken und die strenge Arbeitsdisziplin, sind nicht besonders umstritten. Dazu gehören auch potenziell problematische Maßnahmen wie das Verbot wilder Streiks, die obligatorische Arbeitspflicht für Nichtbeschäftigte oder Militärangehörige, die strikte Lebensmittelrationierung und die militärische Kontrolle über Eisenbahnen. Dies wird innerhalb des SPA als tyrannisch angesehen, wobei eine Reihe besagt, dass einige der letzteren Maßnahmen, insbesondere das Verbot wilder Streiks, die Werte der Revolution verraten und die derzeitige Regierung nicht besser machen würden als ihre kapitalistischen Feinde. Diejenigen, die den Vorschlag in der Avantgarde unterstützen, kontern, dass es notwendig ist, um den Sieg in der Revolution zu erreichen, und dass die ersten Gesetze, die nach Kriegsende verabschiedet wurden, den Kriegssyndikalismus rückgängig machen werden. "
+amcivwar.33.a:0 "Erlasst Kriegssyndikalismus"
+amcivwar.33.b:0 "Das ist kein Sozialismus!"
+
+amcivwar.34.t:0 "Die roten Hexen"
+amcivwar.34.d:0 "Die Gleichstellung der Geschlechter ist seit langem ein wichtiger ideologischer Bestandteil des sozialistischen Denkens, und wir haben noch mehr Beweise dafür, dass es funktioniert! Ein Geschwader weiblicher Piloten hat sich in der gesamten CSA einen Namen gemacht für ihre gewagten Überfälle auf feindliches Gebiet, ihre koordinierten und synchronisierten Angriffsformationen, die es ihnen ermöglichen, größere feindliche Luftstreitkräfte mühelos zu besiegen. Das Geschwader, angeführt von Florence 'Pancho' Barnes, wurde von den reaktionären Kräften unter Huey Long spöttisch als 'Rote Hexen' bezeichnet und hat ihren neuen Spitznamen mit großem Stolz aufgenommen. "
+amcivwar.34.a:0 "Der Tod ist in der Luft"
+
+amcivwar.35.t:0 "Weibliche Soldaten"
+amcivwar.35.d:0 "Während der revolutionäre Kampf weitergeht, haben sich eine Reihe von Frauen dem bewaffneten Kampf gemäß den sozialistischen Idealen der Gleichstellung der Geschlechter angeschlossen. Obwohl nicht alle von ihren männlichen Kameraden akzeptiert werden, hat es viele nicht davon abgehalten, für die Revolution zu kämpfen und zu sterben. An Personalvermittler wurden Handbücher darüber verteilt, wie Frauenabteilungen effektiv organisiert werden können, von denen die Milizen dem Militär ein oder zwei Dinge beibringen können. "
+amcivwar.35.a:0 "Rebel Girl, you are the queen of my world!"
+
+amcivwar.36.t:0 "Interne Konflikte"
+amcivwar.36.d:0 "Am Ende der Revolution stellte John Reed die IWW als Vorbild und zukünftigen Nachfolger des Kongresses auf. Die AFL, deren Mitgliederzahl vor 1935 zurückgegangen war, wurde durch Reeds Billigung wiederbelebt. Jetzt hat die AFL als Teil der Koalition, die gegen die sozialistische Revolution kämpft, begonnen, ihre ideologische Autonomie auszuüben. Sie haben beschlossen, die gesamte linke Seite der IWW zu besetzen, und haben begonnen, Verbündete anzuziehen. Ihre Debatten mit der IWW können manchmal zu Straßenschlägereien und in zwei Fällen zu freundlichem Feuer führen. Die Vanguards haben nur aufgrund ihrer Treue zur Revolution versucht, die Zusammenarbeit zu fördern. Jetzt muss Reed entscheiden, ob es gefährlicher ist, seine Unterstützung für die IWW fortzusetzen, wenn ein Kompromiss in Sicht ist. ""
+amcivwar.36.a:0 "Der IWW anschließen"
+amcivwar.36.b:0 "Lassen Sie die Avantgarde Kompromisse eingehen"
+amcivwar.36.c:0 "Der AFL anschließen"
+
+amcivwar.37.t:0 "Richtlinie 656: Programm zur Zuweisung von Winterressourcen([GetYear])"
+amcivwar.37.d:0 "Die Revolution muss erfolgreich sein, aber die Revolution ist auch für das Volk. Wenn die Unterstützung der Revolution und die Unterstützung des Volkes gleich sind, ist die Wahl trivial, aber wenn eine vor der anderen priorisiert werden muss, müssen harte Entscheidungen getroffen werden. Dem Zentralkomitee wurde bewusst gemacht, dass die Versorgungssituation kritisch ist und entweder das Volk oder die Armee während des Winters unterversorgt sein müssen. "
+amcivwar.37.a:0 "Wir kämpfen für das Volk"
+amcivwar.37.b:0 "Wir kämpfen für die Revolution"
+
+amcivwar.38.t:0 "Richtlinie 764: Revolutionäres Bildungsgesetz"
+amcivwar.38.d:0 "Für diejenigen, die entweder formal oder durch bittere Erfahrung gut ausgebildet sind, ist revolutionäres Denken so einfach wie Atmen. Viele unserer Kameraden, ob im Stahlgürtel oder anderswo in Amerika, wurden jedoch von den Kapitalisten ihr ganzes Leben lang belogen und verstehen nicht, wie die Revolution sie befreit. Viele geben nicht ihr Herz und ihre Seele für die Revolution und einige versuchen sogar, unsere Bemühungen zu sabotieren, ohne zu wissen, dass wir die einzige Kraft sind, die sich wirklich um sie kümmert. Dies muss behoben werden, und unsere Kameraden müssen deprogrammiert werden. Sollten wir uns darauf konzentrieren, die Menschen in unserem Gebiet zu erreichen, unsere eigene Moral aufrechtzuerhalten, oder sollten wir unsere Botschaft im gesamten feindlichen Gebiet verbreiten und ihren Willen zum Kampf gegen ihre Befreier zerstören? "
+amcivwar.38.a:0 "Auf die sozialistische Familie fokussieren"
+amcivwar.38.b:0 "Konzentriere dich auf den reaktionären Feind"
+
+amcivwar.39.t:0 "Richtlinie 984: Verurteilung kapitalistischer Politiker aus der Vorkriegszeit"
+amcivwar.39.d:0 "Wenn sich die Revolution dem Erfolg nähert, fordern die Menschen, dass wir uns mit den korrupten kapitalistischen Politikern befassen, die vor der Revolution im Amt sind und jetzt in unseren Zellen verrotten. Einige glauben, dass diese Politiker, wenn sie einige Jahre lang hart arbeiten, sich in den Arbeiter einfühlen und zu unserer Sache konvertieren. Andere glauben, dass kein Bildungsniveau sie reformieren kann, und sie müssen für den Rest ihres Lebens hinter Gittern bleiben. Eine kleine, aber lautstarke Minderheit besteht darauf, dass sie für ihre Verbrechen hingerichtet werden müssen, wie die alten Romanows oder die Bourbonen-Dynastien. "
+amcivwar.39.a:0 "Sie werden durch den Schweiß auf ihren Brauen und den Schmerz ihres Rückens erlöst"
+amcivwar.39.b:0 "Sie sollen zusehen, wie die Welt sie zurücklässt und sie irrelevant macht"
+amcivwar.39.c:0 "Jetzt sind wir an der Reihe, und wir werden keine Ausreden für den Terror machen!"
+
+amcivwar.40.t:0 "Richtlinie 1231: Die CIA Gründen"
+amcivwar.40.d:0 "Es ist eine bedauerliche Tatsache, dass es in unserem Gebiet Spione und Saboteure gibt, die daran arbeiten, unsere glorreiche Befreiung der proletarischen Massen zu verhindern. Von den vielen Vorschlägen, die dem Zentralkomitee vorgelegt wurden, fällt einer auf. Earl Browders Vorschlag ist die Schaffung eines Komitees zur Durchsetzung der revolutionären Ordnung und zur Beendigung der konterrevolutionären Sabotage. Andere Mitglieder des Zentralkomitees, einschließlich des Vorsitzenden Reed, fragen sich jedoch, ob dies ein notwendiger Schritt ist und ob wir unsere Ideale verraten würden. Unabhängig davon wurde abgestimmt. Was wurde entschieden? "
+amcivwar.40.a:0 "Die CIA wird gegründet!"
+amcivwar.40.b:0 "Es gibt aktuell wichtigeres für uns"
+
+amcivwar.41.t:0 "Roter Terror"
+amcivwar.41.d:0 "Krieg ist die Hölle. Bürgerkrieg noch mehr. Die psychische Belastung, die durch wiederholtes Töten verursacht wurde, selbst wenn der Feind Kapitalisten sind, hat dazu geführt, dass einige unserer Soldaten und Kommandeure sadistisch wurden, über das hinaus, was manche für akzeptabel halten. Obwohl nicht alltäglich, werden Berichte über systematische Massenexekutionen und Folterungen sowohl von der Front als auch von den Kerngebieten gemeldet, um Bevölkerungsgruppen zu unterdrücken, die verdächtigt werden, den kapitalistischen Fraktionen zu helfen. Reed hat eine Entscheidung der Exekutive getroffen, diese Berichte aus den freien Medien zu unterdrücken. "Wenn die Revolution an ein paar schlechten Äpfeln scheitern würde", sagt Reed, "würde die Menschheit noch Jahrhunderte zusammen leiden".
+amcivwar.41.a:0 "Nach allem wird dies der letzte Konflikt gewesen sein"
+
+amcivwar.42.t:0 "Richtlinie 1398: Mindestalter für die Wehrpflicht"
+amcivwar.42.d:0 "Der Krieg geht nicht in unsere Richtung. Die verabscheuungswürdigen Kapitalisten haben unsere Streitkräfte an allen Fronten zurückgedrängt, und wir laufen Gefahr, keine Truppen mehr zu haben, um die Waffen zu bemannen, die wir haben. Verzweifelte Zeiten erfordern verzweifelte Maßnahmen und einen Vorschlag von William Z. Foster, der Kontroversen ausgelöst hat, ist der Vorschlag, das Wehrpflichtalter auf 11 Jahre zu senken. Dies würde uns zwar die Arbeitskräfte zur Verfügung stellen, die zur Bekämpfung der Revolution erforderlich sind, aber eine ganze Reihe von Mitgliedern des Zentralkomitees haben sich über diese drastische Maßnahme entsetzt gezeigt. "
+amcivwar.42.a:0 "Jeder Mann würde seinen Sohn geben"
+amcivwar.42.b:0 "Jeder Mann würde seinen Sohn beschützen"
+
+amcivwar.43.t:0 "Richtlinie 25: Führung des revolutionären Militärs"
+amcivwar.43.d:0 "Das Zentralkomitee hat eine Richtlinie veröffentlicht, mit der ein Mitglied zum Stabschef ernannt und das gesamte Revolutionsmilitär zum Sieg gegen alle reaktionären, kapitalistischen und konterrevolutionären Kräfte geführt werden soll. Der Mann, den sie für diese Position ausgewählt haben, war ..."
+amcivwar.43.a:0 "Smedley Butler"
+amcivwar.43.b:0 "Maurice Rose"
+amcivwar.43.c:0 "Oliver Law"
+
+amcivwar.44.t:0 "Richtlinie 53: Führung der revolutionären Armee"
+amcivwar.44.d:0 "Das Zentralkomitee hat eine Anweisung veröffentlicht, ein Mitglied zum Chef der Revolutionsarmee zu ernennen und die Armee zum Sieg zu führen. Das Zentralkomitee hat beschlossen, ... zu ernennen. "
+amcivwar.44.a:0 "Benjamin Katine"
+amcivwar.44.b:0 "Hans Amlie"
+amcivwar.44.c:0 "Louis Secundy"
+
+amcivwar.45.t:0 "Richtlinie 103: Führung der revolutionären Air Force"
+amcivwar.45.d:0 "Das Zentralkomitee hat eine Richtlinie veröffentlicht, mit der ein Mitglied zum Chef der Revolutionären Luftwaffe ernannt und die Luftwaffe zum Sieg geführt werden soll. Das Zentralkomitee hat beschlossen, ..."
+amcivwar.45.a:0 "Bert Acosta"
+amcivwar.45.b:0 "Eddie August Schneider"
+amcivwar.45.c:0 "Pancho Barnes"
+
+### AUS Flavor Events ###
+amcivwar.46.t:0 "Lindbergh appelliert an Long"
+amcivwar.46.d:0 "Charles Lindbergh hat ein Treffen zwischen Huey Long und einer Reihe führender Industrieller arrangiert, darunter Henry Ford, Fred Koch und H. L. Hunt. Diese Männer neigen dazu, ihre Fabriken und Raffinerien im Süden zu schließen, um den Anweisungen der Bundesregierung nachzukommen. Stattdessen werden sie von Lindbergh überredet, sich für Huey Long einzusetzen und ihre Geschäftsimperien unter bestimmten Bedingungen in den Staat der amerikanischen Union zu verlegen. Sie fordern Huey Long auf, ihnen in diesen wirtschaftlich schwierigen Zeiten eine politische Ausnahme sowie das Versprechen eines politischen Amtes zu garantieren, sobald der Krieg gewonnen ist. Wenn Long ihrer Forderung zustimmt, wird dies ihnen größeren Einfluss geben und viele seiner Anhänger werden sich fragen, ob er vorhat, seine Ideale zu verraten. Eine Ablehnung in einer solchen Zeit kann sich jedoch als kostspielig erweisen. "
+amcivwar.46.a:0 "Stimmen Sie ihrer Argumentation zu"
+amcivwar.46.b:0 "Ich werde meine Ideale nicht verraten!"
+
+amcivwar.47.t:0 "War Powers Committee"
+amcivwar.47.d:0 "Wirtschaftsführer in unserem Gebiet haben ein Komitee gebildet, das angeblich Huey Long unterstützt, um die Kriegsanstrengungen in seinem Namen zu koordinieren, das so genannte War Powers Committee. So wie Huey Long selbst Büros geschaffen hatte, um die monumentale Aufgabe des Kampfes für Amerika zu bewältigen, so übernahmen es die Industriellen, eine industrielle Institution zu schaffen. Obwohl sie nicht die Macht haben, die ihnen versprochen wurde, haben sie sich zum Arsenal der AUS erklärt und werden von dem kontrovers antisemitischen, aber angesehenen General George Van Horn Moseley angeführt. "
+amcivwar.47.a:0 "Ein beeindruckender Verbündeter ... für jetzt"
+
+amcivwar.48.t:0 "Pelley verspricht Long die Treue"
+amcivwar.48.d:0 "Einer der ungewöhnlicheren Gratulanten, die Huey Long besuchen, ist ein exzentrischer, aber leidenschaftlicher Mann namens William Dudley Pelley. Pelley ist der Anführer eines rein weißen politischen und religiösen Vereins der Legionäre namens Silver Legion. Seine Mitgliederzahl ist moderat, aber seine Begeisterung für die Ideale von Huey Long ist beunruhigend enthusiastisch. Pelley hat um Geld gebeten, um eine evangelistische und patriotische Reise durch Amerika zu unternehmen, um Unterstützer für den Staat der amerikanischen Union zu sammeln. Dieser Vorschlag würde für Hueys Anhänger bedeuten, dass er die junge Bewegung für christliche Identität unterstützt, die mit seiner persönlichen Abneigung gegen die politische Ideologie von Klansmen und Prohibitionisten kollidiert. Wie sollen wir antworten? "
+amcivwar.48.a:0 "Mehr Loyalisten sind immer gut"
+amcivwar.48.b:0 "Pelley macht mir Angst"
+
+amcivwar.49.t:0 "Die Silver Legion"
+amcivwar.49.d:0 "Während der National Tour kam William Pelley auf dem Weg mit dem Funkprediger Herbert W. Armstrong in Kontakt. Um eine Armee für den Staat der amerikanischen Union zugunsten eines aus ihrer Sicht moralischen Krieges aufzustellen, haben sie ihre Überzeugungen offiziell zur Pelley-Armstrong-Linie zusammengefasst. Dies hat die Silberlegion zu Zehntausenden von Mitgliedern aus dem ganzen Land gemacht, und Berichte über ihre Reden sind eingegangen. Inklusive der stark antikatholischen und pro-segregationistischen Rhetorik bei diesen Reden sind Versprechen, die gesagt werden sollen kommen aus Huey Long zugunsten fast außergewöhnlicher Löhne für Weiße und Leistungen für Veteranen nach dem Bürgerkrieg. Da diese in die Gerüchteküche eingedrungen sind, können wir nichts tun, um die Verbreitung dieser Versprechen zu verhindern. " 
+amcivwar.49.a:0 "Was für ein Glücksfall!"
+
+amcivwar.50.t:0 "Stabschef"
+amcivwar.50.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, dass wir keinen Stabschef haben, bei verschiedenen politischen und militärischen Führern Besorgnis ausgelöst. So trafen sie sich mit Huey Long, um einen Stabschef zu ernennen, der diesen Krieg gewinnen sollte."
+amcivwar.50.b:0 "George Van Horn Moseley"
+amcivwar.50.c:0 "James Guthrie Harbord"
+amcivwar.50.e:0 "Virgil H 'Bert' Effinger"
+
+amcivwar.51.t:0 "Stabschef der Armee"
+amcivwar.51.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, dass wir keinen Armeechef haben, bei verschiedenen politischen und militärischen Führern Besorgnis ausgelöst. So trafen sie sich mit Huey Long, um einen Armeechef zu ernennen, der diesen Krieg gewinnen sollte."
+amcivwar.51.a:0 "Edwin A Emerson Jr."
+amcivwar.51.b:0 "Frank Maxwell Andrews."
+amcivwar.51.c:0 "George Smith Patton Jr."
+
+amcivwar.52.t:0 "Stabschef der Marine"
+amcivwar.52.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, dass wir keinen Chef der Marine haben, bei verschiedenen politischen und militärischen Führern Besorgnis ausgelöst. So trafen sie sich mit Huey Long, um einen Chef der Marine zu ernennen, der diesen Krieg gewinnen sollte."
+amcivwar.52.a:0 "Samuel Murray Robinson"
+amcivwar.52.b:0 "James Otto Richardson"
+amcivwar.52.c:0 "David Worth Bagley"
+
+amcivwar.53.t:0 "Stabschef der Air Force"
+amcivwar.53.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, dass wir keinen Chef der Luftwaffe haben, bei verschiedenen politischen und militärischen Führern Besorgnis ausgelöst. So trafen sie sich mit Huey Long, um einen Chef der Luftwaffe zu ernennen, der diesen Krieg gewinnen sollte."
+amcivwar.53.a:0 "Charles Augustus Lindbergh"
+amcivwar.53.b:0 "Curtis LeMay"
+amcivwar.53.c:0 "John Geraerdt Crommelin Jr."
+amcivwar.53.e:0 "Martin James Monti"
+
+### USA Flavour Events ###
+amcivwar.61.t:0 "Wehrpflicht"
+amcivwar.61.d:0 "Während der Krieg weitergeht, stellt sich die Frage, ob wir die Wehrpflicht einführen sollen oder nicht. Dies würde uns die Männer liefern, die wir brauchen, um die Ordnung im Land wiederherzustellen. Es ist jedoch kein beliebter Schritt. Einige schlagen vor, sich stattdessen auf Propaganda zu konzentrieren."
+amcivwar.61.a:0 "Wehrpflicht einführen"
+amcivwar.61.b:0 "Stattdessen auf Propaganda konzentrieren"
+
+amcivwar.62.t:0 "Die China Marines zurückrufen?"
+amcivwar.62.d:0 "Mit dem Ausbruch des Bürgerkriegs wurde unsere Garnison in den Gesandtschaftsstädten in China auf ihren Händen sitzen gelassen. Obwohl der Rückruf der Teilung unsere chinesischen Zugeständnisse relativ unbewacht und unseren Einfluss in den Städten geringer machen würde, raten uns viele, dass dies getan werden muss, um den Krieg zu gewinnen. Sollen wir unsere Divisonen zurückrufen?"
+amcivwar.62.a:0 "Holen wir unsere Männer nach Hause!"
+amcivwar.62.b:0 "Wir sollten es nicht riskieren."
+
+amcivwar.63.t:0 "Panama Garrison"
+amcivwar.63.d:0 "Mit dem Ausbruch des Bürgerkriegs hat die Garnison in Panama beschlossen, nach Amerika zurückzukehren, um für die Regierung zu kämpfen. Dies hat den Kanal wehrlos gemacht, aber andererseits brauchen wir jeden, den wir können, um zu kämpfen."
+amcivwar.63.a:0 "Heißen wir unsere Männer willkommen"
+
+amcivwar.64.t:0 "Not des Bürgerkriegs"
+amcivwar.64.d:0 "Der Bürgerkrieg bringt die Not nach Hause. Menschen in einer Reihe loyaler Städte hungern. Wir könnten uns darauf konzentrieren, ihr Leiden zu lindern, aber dies wird bedeuten, die Vorräte umzuleiten, die die Front benötigt, um den Bürgerkrieg zu führen. Kongress und Militär sind sich in dieser Hinsicht uneins. Was sollen wir machen?"
+amcivwar.64.a:0 "Das zivilie Leiden lindern."
+amcivwar.64.b:0 "Unsere Truppen unterstützen."
+
+amcivwar.65.t:0 "Kriegsrecht?"
+amcivwar.65.d:0 "Während des Bürgerkriegs stellte sich die Frage, ob Habeas Corpus ausgesetzt und das Kriegsrecht in besetzten Gebieten durchgesetzt werden soll. Die Mitglieder unseres Generalstabs sind sogar gespalten, da dies mehr Rebellen hervorbringen könnte, als es präventiv besiegt. Es könnte uns erlauben, die Dinge während des Bürgerkriegs unter Kontrolle zu halten, aber ein solcher Schritt ist natürlich umstritten. Was soll getan werden? "
+amcivwar.65.a:0 "Kriegsrecht durchsetzen"
+amcivwar.65.b:0 "Zivilordnung ist besser"
+
+amcivwar.66.t:0 "Loyalistischer Terror"
+amcivwar.66.d:0 "Während des andauernden Bürgerkriegs begannen einige unserer Kommandeure, eher zweifelhafte Methoden anzuwenden, um die Zivilbevölkerung dauerhaft zu unterdrücken, die verdächtigt wird, unseren Todfeinden zu helfen. Auf Druck hat der Präsident seine Aktionen verteidigt und erklärt: "Es wurde nur diskretionäre Gewalt angewendet, und jeder Befehlshaber, der zu wahrer Brutalität fähig ist, ist bereits ein Rebell geworden."
+amcivwar.66.a:0 "Wir können nur hoffen."
+
+amcivwar.67.t:0 "Native American Codetalkers"
+amcivwar.67.d:0 "Eine Reihe von Indianerstämmen haben beschlossen, uns zu unterstützen und ihre Dienste anzubieten. Dies sollte insbesondere dazu beitragen, unsere Kommunikation zu verbergen, da es nur wenige Menschen gibt, die die verschiedenen Sprachen der amerikanischen Ureinwohner sprechen."
+amcivwar.67.a:0 "Das sollte Helfen"
+
+amcivwar.68.t:0 "Kriegsdienstverweigerer"
+amcivwar.68.d:0 "Eine Reihe von Männern und Frauen, insbesondere unter Ordensleuten wie den Zeugen Jehovas und den Mormonen, die keinen Krieg führen wollen, haben Einwände gegen den Kampf im Konflikt erhoben. Wir können versuchen, sie zum Schweigen zu bringen, oder wir können ihnen anbieten, in nichtmilitärischen Berufen zu arbeiten, um die Kriegsanstrengungen zu unterstützen. Die öffentliche Meinung scheint gespalten zu sein, da Superpatrioten während ihrer Demonstrationen begonnen haben, Verweigerer anzugreifen. "
+amcivwar.68.a:0 "Die Öffentlichkeit wird damit umgehen"
+amcivwar.68.b:0 "Lasst sie arbeiten"
+
+amcivwar.69.t:0 "Double V Kampagne"
+amcivwar.69.d:0 "Während wir gegen die verschiedenen Verräter kämpfen, haben die Führer der NAACP begonnen, auf die sogenannte Doppel-V-Kampagne, den Sieg für Amerika und den Sieg gegen Rassismus zu drängen. Nicht alle Afroamerikaner wollen für die radikalen Fraktionen kämpfen, und daher hat eine Kampagne begonnen, um für Amerika zu kämpfen und den Bürgerkrieg zu gewinnen sowie gegen Rassismus in Amerika zu kämpfen."
+amcivwar.69.a:0 "Sieg für Amerika und Sieg gegen Rassismus!"
+
+amcivwar.70.t:0 "Die WASPs militarisieren?"
+amcivwar.70.d:0 "Der Kongress debattiert über einen Gesetzentwurf zur Militarisierung der Piloten des weiblichen Luftwaffendienstes (WASPs) auf ähnliche Weise wie die WACs und WAVES. Dies würde erfordern, dass die Regierung die Kosten für die WASPs ähnlich wie bei den beiden anderen Organisationen übernimmt, anstatt dass die Pilotinnen die Kosten selbst tragen. Es würde sie nicht in Kampfsituationen fliegen lassen, da dies immer noch die Aufgabe der männlichen Piloten ist. Trotzdem steht es vor dem Rückschlag des Kongresses, da viele die WASPs als nicht so erfahren wie männliche Piloten und nicht für den Job geeignet betrachten. Die Frage ist dann, wofür der Kongress abstimmen soll. "
+amcivwar.70.a:0 "Der Kongress stimmt für die Militarisierung der WASPs"
+amcivwar.70.b:0 "Der Kongress stimmt gegen die Militarisierung der WASPs"
+
+amcivwar.71.t:0 "Stabschef"
+amcivwar.71.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, dass wir keinen Stabschef haben, bei verschiedenen politischen und militärischen Führern Besorgnis ausgelöst. So trafen sie sich mit [USA.GETLeader], um einen Stabschef zu ernennen, der diesen Krieg gewinnt."
+amcivwar.71.a:0 "Omar Bradley"
+amcivwar.71.b:0 "Malin Craig"
+amcivwar.71.c:0 "Walter Smith"
+amcivwar.71.e:0 "George Marshall"
+
+amcivwar.72.t:0 "Stabschef der Armee"
+amcivwar.72.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, dass wir keinen Armeechef haben, bei verschiedenen politischen und militärischen Führern Besorgnis ausgelöst. So trafen sie sich mit [USA.GETLeader], um einen Chef der Armee zu ernennen, der diesen Krieg gewinnen sollte."
+amcivwar.72.a:0 "Dwight Eisenhower"
+amcivwar.72.b:0 "Kenneth George Althaus"
+amcivwar.72.c:0 "Samuel D. Sturgis Jr."
+
+amcivwar.73.t:0 "Stabschef der Marine"
+amcivwar.73.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, dass wir keinen Chef der Marine haben, bei verschiedenen politischen und militärischen Führern Besorgnis ausgelöst. So trafen sie sich mit [USA.GetLeader], um einen Chef der Marine zu ernennen, der diesen Krieg gewinnen sollte."
+amcivwar.73.a:0 "William Daniel Leahy"
+amcivwar.73.b:0 "Ernest Joseph King"
+amcivwar.73.c:0 "Samuel Murray Robinson"
+amcivwar.73.e:0 "William Halsey Jr."
+amcivwar.73.f:0 "Thomas Charles Hart"
+amcivwar.73.g:0 "Thomas Cassin Kinkaid"
+
+amcivwar.74.t:0 "Stabschef der Air Force"
+amcivwar.74.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, dass wir keinen Chef der Luftwaffe haben, bei verschiedenen politischen und militärischen Führern Besorgnis ausgelöst. So trafen sie sich mit [USA.GETLeader], um einen Chef der Luftwaffe zu ernennen, der diesen Krieg gewinnen sollte."
+amcivwar.74.a:0 "Carl Andrew Spaatz"
+amcivwar.74.b:0 "Edward Vernon Rickenbacker"
+amcivwar.74.c:0 "Nathan Bedford Forrest III"
+
+amcivwar.76.t:0 "Washington ist gefährdet"
+amcivwar.76.d:0 "Washington ist in Gefahr, Verrätern und Rebellen zum Opfer zu fallen, und als solche müssen wir die Stadt verlassen. Militärführer haben mehrere mögliche Städte entworfen, in die wir umziehen könnten - die Frage ist, in welche sollen wir umziehen?"
+amcivwar.76.a:0 "Denver"
+amcivwar.76.b:0 "San Francisco"
+amcivwar.76.c:0 "Helena"
+amcivwar.76.e:0 "Phoenix"
+
+### PSA Flavour Events ###
+amcivwar.77.t:0 "Stabschef"
+amcivwar.77.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, dass wir keinen Stabschef haben, bei verschiedenen politischen und militärischen Führern Besorgnis ausgelöst. So trafen sie sich mit [PSA.GETLeader], um einen Stabschef zu ernennen, der diesen Krieg gewinnt. "
+amcivwar.77.a:0 "Henry Arnold."
+amcivwar.77.b:0 "Samuel D. Sturgis, Jr."
+amcivwar.77.c:0 "Alexander Vandegrift"
+
+amcivwar.78.t:0 "Stabschef der Armee"
+amcivwar.78.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, dass wir keinen Armeechef haben, bei verschiedenen politischen und militärischen Führern Besorgnis ausgelöst. So trafen sie sich mit [PSA.GETLeader], um einen Chef der Armee zu ernennen, der diesen Krieg gewinnen sollte."
+amcivwar.78.a:0 "Alexander McCarrell 'Sandy' Patch"
+amcivwar.78.b:0 "Frank Dow Merrill"
+amcivwar.78.c:0 "Isaac D White"
+
+amcivwar.79.t:0 "Stabschef der Marine"
+amcivwar.79.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, dass wir keinen Chef der Marine haben, bei verschiedenen politischen und militärischen Führern Besorgnis ausgelöst. So trafen sie sich mit [PSA.GETLeader], um einen Chef der Marine zu ernennen, der diesen Krieg gewinnen sollte."
+amcivwar.79.a:0 "Joseph Mason Reeves"
+amcivwar.79.b:0 "Ernest Joseph King"
+amcivwar.79.c:0 "William Daniel Leahy"
+
+amcivwar.80.t:0 "Stabschef der  Air Force"
+amcivwar.80.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, dass wir keinen Chef der Luftwaffe haben, bei verschiedenen politischen und militärischen Führern Besorgnis ausgelöst. So trafen sie sich mit [PSA.GETLeader], um einen Chef der Luftwaffe zu ernennen, der diesen Krieg gewinnen sollte."
+amcivwar.80.a:0 "Howard Hughes"
+amcivwar.80.b:0 "Henry Arnold"
+amcivwar.80.c:0 "Oscar Westover"
+
+amcivwar.90.t.CSA:0 "Unterstützung von den Syndikalisten"
+amcivwar.90.t.USA:0 "Unterstützung von den Loyalisten"
+amcivwar.90.t.TEX:0 "Unterstützung von den Longisten"
+amcivwar.90.t.PSA:0 "Unterstützung des Widerstands"
+amcivwar.90.d:0 "Rebellen, die anderswo in den USA für die Sache [Root.GetAdjective] kämpfen, haben Kontakt mit unserer Regierung aufgenommen und bieten eine Reihe von Vorräten an."
+amcivwar.90.a:0 "Es wird eine große Hilfe sein!"
+
+amcivwar.94.t:0 "Syndikalistischer Aufstand im Westen"
+amcivwar.94.d:0 "Die Kämpfe entlang der Westküste zwischen syndikalistischen Sympathisanten und Sicherheitskräften waren in den letzten Wochen heftig, wurden jedoch in den letzten Wochen abgebrochen - was zu der Hoffnung führte, dass die Gewerkschaften im Westen die Hoffnung auf Erfolg endgültig aufgegeben hatten. Diese Hoffnungen wurden zunichte gemacht, als ein neuer Aufstand aufgedeckt wurde, bei dem eine Reihe von Milizen von mächtigen Teamster- und Longshoremen-Gewerkschaften in den Bundesstaaten Washington und Oregon organisiert und durch Untergrundbemühungen bewaffnet wurden. Dies eröffnet eine neue Front im Bürgerkrieg, falls die Rebellen einen Weg finden sollten, aus den Bergen auszubrechen. "
+amcivwar.94.a:0 "Hurrah!"
+amcivwar.94.b:0 "Mehr Syndikalistenabschaum?!"
+
+amcivwar.95.t:0 "Longisten-Rebellen erheben sich in Kentucky"
+amcivwar.95.d:0 "Huey Long hatte im Kernland immer starke Unterstützung, und Staaten wie Kentucky und Indiana schwangen bei den Wahlen von 1936 kaum anderswo. Jetzt sind Longist-Anhänger in Kentucky und der umliegenden Region aufgestiegen und haben Waffen, die durch den Untergrund gewonnen wurden, aufgegriffen, um sich zusammenzuschließen und eine neue Front im Bürgerkrieg zu eröffnen. "
+amcivwar.95.a:0 "Hurrah!"
+amcivwar.95.b:0 "Dies wird ihnen auf lange Sicht nicht helfen"
+
+amcivwar.96.t:0 "Loyalisten erheben sich in Pennsylvania"
+amcivwar.96.d:0 "Die Unterstützung für die Bundesregierung bleibt auch im syndikalistischen Kernland von Pennsylvania stark, und dies wurde schließlich bewiesen, als sich in den Hügeln im zentralen Teil des Bundesstaates Banden loyalistischer Milizen - Berichten zufolge in der Stadt Philadelphia organisiert - erhoben. die Region erneut für die Bundeskontrolle beanspruchen. Ob sie dieses Ziel erreichen und im Bürgerkrieg eine neue Front eröffnen, bleibt abzuwarten. "
+amcivwar.96.a:0 "Hurrah!"
+amcivwar.96.b:0 "Eine vergebliche Anstrengung "
+
+amcivwar.97.t:0 "Die [From.GetAdjective] Rebellen"
+amcivwar.97.d:0 "Wir sehen eine verstärkte Aktivität von [From.GetAdjective] -Anhängern in [Root.GetNameDef], die zweifellos von der [From.GetAdjective] -Regierung unterstützt und finanziert werden. Ihr Trichter von Waffen durch den Untergrund hat dazu geführt, dass sich Rebellen hinter den Linien erhoben, ohne Zweifel, um unsere Streitkräfte zu belästigen. Ob sie eine ernsthafte Bedrohung darstellen, bleibt abzuwarten. " 
+amcivwar.97.a:0 "Wir werden es aushalten
+
+amcivwar.98.t:0 "Steigender Widerstand im mittleren Westen"
+amcivwar.98.d:0 "Die Unterstützung für die demokratischen Befürworter der pazifischen Regierung war im Mittleren Westen der USA stark, und es kam häufig zu mehreren Protesten auf den Straßen, von denen viele General MacArthur die Schuld für den Bürgerkrieg zuzuschreiben scheinen. Diese Proteste haben sich in letzter Zeit besser organisiert und gipfelten in einem weit verbreiteten Aufstand in ganz Colorado, der leise finanziert und mit unterirdischen Mitteln ausgerüstet wurde. Ob es diesen Rebellen gelingen wird, eine neue Front für den Bürgerkrieg zu eröffnen, bleibt abzuwarten. "
+amcivwar.98.a:0 "Hurrah!"
+amcivwar.98.b:0 "Bestenfalls ein Ärgernis"
+
+amcivwar.100.t:0 "Syndikalistischeralist Aufstand in Georgia"
+amcivwar.100.d:0 "Es scheint, dass es mehr als ein paar unzufriedene Anhänger von Huey Long gibt, die wütend genug sind, dass sie sich der Kontrolle des CSA entzogen haben. In den letzten Wochen haben sie sich in den Hügeln Südgeorgiens organisiert, und jetzt haben sie endlich ihren Schritt gemacht. Dies eröffnet eine neue Front im Bürgerkrieg. "
+amcivwar.100.a:0 "Hurrah!"
+amcivwar.100.b:0 "Sie sollten sich entscheiden"
+
+amcivwar.102.t:0 "Longistischer Aufstand in Kalifornien"
+amcivwar.102.d:0 "Es scheint, dass es mehr als ein paar unzufriedene SPA-Milizionäre gibt, die wütend genug sind, dass sie sich der Kontrolle des AUS entzogen haben. In den letzten Wochen haben sie sich in den Hügeln Südkaliforniens organisiert, und jetzt sind sie ' Wir haben endlich ihren Schritt gemacht. Dies eröffnet eine neue Front im Bürgerkrieg. "
+amcivwar.102.a:0 "Hurrah!"
+amcivwar.102.b:0 "Es macht keinen Unterschied"
+
+### Foreign Interventions ###
+amcivwar.150.t:0 "Amerika in Chaos"
+amcivwar.150.d:0 "Das Chaos hat unsere Nachbarn im Süden überholt, und - noch schlimmer - die Sozialistische Partei Amerikas hat eine Festung direkt vor unserer südlichen Grenze ausgerufen. Eine Reihe der nordöstlichen Gouverneure in Neuengland, deren Staaten von Gewalt durch syndikalistische Milizen heimgesucht werden, haben die kanadische Regierung offiziell gebeten, einzugreifen. Sie sind eindeutig der Ansicht, dass die Bundesregierung zu dieser Aufgabe nicht in der Lage ist, obwohl einige unserer Minister der Ansicht sind, dass dies von einigen Fraktionen weniger als Intervention als vielmehr als Aggression angesehen werden könnte. Sie sagen, dass die Angelegenheit im Parlament diskutiert werden sollte, bevor Maßnahmen ergriffen werden. Zumindest für Neuengland ist das möglicherweise nicht schnell genug, um sie zu retten. "
+amcivwar.150.d.nocsa:0 "Das Chaos hat unsere Nachbarn im Süden überholt, obwohl es so aussieht, als ob uns die Möglichkeit eines Aufstands der amerikanischen Syndikalisten erspart bleibt. Trotzdem war die Gewalt extrem und mehrere Gouverneure amerikanischer Staaten aus dem Nordosten Neuenglands haben uns darum gebeten eingreifen und Ordnung wiederherstellen. Sie sind eindeutig der Meinung, dass die Bundesregierung nicht in der Lage ist, diese Aufgabe zu erfüllen, obwohl einige unserer Minister der Ansicht sind, dass dies von der Bundesregierung weniger als Intervention als vielmehr als Aggression angesehen werden könnte. Sie sagen, dass die Angelegenheit vor jeder Debatte im Parlament erörtert werden sollte Maßnahmen werden ergriffen. "
+amcivwar.150.a:0 "Halten Sie jede Intervention ab"
+amcivwar.150.b:0 "Bewegen wir uns wie gewünscht nach Neuengland"
+
+amcivwar.151.t:0 "Alaska fordert Intervention an"
+amcivwar.151.d:0 "Das amerikanische Territorium Alaska hat nach Ausbruch des Bürgerkriegs einen schweren Mangel an benötigten Vorräten erlebt. Nach einem Bombenanschlag in der Stadt Juneau befürchtet der Gouverneur von Alaska einen Zusammenbruch der Ordnung - einer, auf den die ferne Bundesregierung zu beschäftigt sein wird, um darauf zu reagieren. So hat er, wie die Gouverneure von New England, die kanadische Regierung gebeten, in der Zwischenzeit einzugreifen, um den Frieden zu wahren. "
+amcivwar.151.a:0 "Alaska ist auf sich allein gestellt"
+amcivwar.151.b:0 "Wir sollten dort hingehen"
+
+amcivwar.152.t:0 "[CAN.GetNameDefCap] besetzt Alaska"
+amcivwar.152.d:0 "Das Gebiet von Alaska hat nach Ausbruch des Bürgerkriegs einen schweren Mangel an benötigten Vorräten erlebt. Nach einem Bombenanschlag in der Stadt Juneau befürchtete der Gouverneur von Alaska einen Zusammenbruch der Ordnung - auf den die ferne Bundesregierung zu beschäftigt sein wird, um darauf zu reagieren - und forderte daher [CAN.GetNameDef] förmlich auf, einzugreifen . Kanadische Truppen und Versorgungslastwagen sind bereits in die Region eingezogen. "
+amcivwar.152.a:0 "Wir werden uns später darum kümmern"
+
+amcivwar.156.t:0 "Amerikas Schicksal"
+amcivwar.156.d:0 "Nach dem Ende des Bürgerkriegs müssen wir herausfinden, was wir mit dem amerikanischen Territorium tun sollen, das jetzt unter unserer Kontrolle steht. "
+amcivwar.156.a:0 "An [USA.GetNameDef] zurückgeben"
+amcivwar.156.b:0 "An [PSA.GetNameDef] zurückgeben"
+amcivwar.156.c:0 "An [TEX.GetNameDef] zurückgeben"
+amcivwar.156.e:0 "An [NEE.GetNameDef] zurückgeben"
+amcivwar.156.f:0 "Eine neue amerikanische Regierung einsetzen"
+amcivwar.156.g:0 "Die militärische Besatzung fortsetzen"
+
+amcivwar.157.t:0 "Amerikanisches Land zurückgegeben"
+amcivwar.157.d.supported:0 "[From.GetNameDefCap], Getreu ihrem Versprechen, uns während des Bürgerkriegs zu unterstützen, hat sie uns einen Großteil ihres besetzten amerikanischen Territoriums zurückgegeben."
+amcivwar.157.d.notsupported:0 "[From.GetNameDefCap]besetzte während des Bürgerkriegs eine ganze Menge amerikanisches Territorium. Jetzt hat sich ihre Regierung an uns gewandt und einen Großteil davon ohne Fragen an ihren „rechtmäßigen Eigentümer“ zurückgegeben."
+amcivwar.157.a:0 "Wir schätzen es"
+
+amcivwar.158.t:0 "Amerikanisches Land zurückgegeben"
+amcivwar.158.d:0 "Unsere kanadischen Verbündeten haben uns wortgetreu fast ihr gesamtes besetztes amerikanisches Territorium übergeben."
+amcivwar.158.a:0 "Wir schätzen es"
+
+amcivwar.159.t:0 "Eine neue amerikanische Regierung"
+amcivwar.159.d:0 "Wenn die ehemaligen Regierungen in Trümmern liegen, müssen wir etwas aus dem Alten herausholen. Wie soll die neue Regierung aussehen?"
+amcivwar.159.a:0 "Die United States of America, so wie es sich gehört"
+amcivwar.159.b:0 "Die Pacific States of America"
+amcivwar.159.c:0 "Der American Union State"
+amcivwar.159.e:0 "New England"
+
+amcivwar.160.t:0 "Das Schicksal von New England"
+amcivwar.160.d:0 "Wir besetzen derzeit New England. Sollten wir es an [america_country.GetNameDef] zurückgeben oder unsere Besetzung fortsetzen?"
+amcivwar.160.a:0 "Gebt es ihen zurück"
+amcivwar.160.b:0 "Nach allem was wir getan haben, haben wir es uns verdient"
+
+amcivwar.161.t:0 "Das Schicksal von Alaska"
+amcivwar.161.d:0 "Wir besetzen derzeit Alaska. Sollten wir es an [america_country.GetNameDef] zurückgeben oder unsere Besetzung fortsetzen?"
+
+amcivwar.162.t:0 "Wahlen für [america_country.GetNameDef]?"
+amcivwar.162.d:0 "Es ist über ein Jahr her, seit die neue Regierung in [america_country.GetNameDef] gegründet wurde, und unsere Verbündeten dort sagen, dass sie bereit sind, wieder auf eigenen Beinen zu stehen. Sollen wir ihnen erlauben, Wahlen abzuhalten und als freie Verbündete weiterzumachen?"
+amcivwar.162.a:0 "Natürlich"
+amcivwar.162.b:0 "Sie sind noch nicht bereit"
+
+amcivwar.163.t:0 "Friede mit Kanada?"
+amcivwar.163.d:0 "Wir haben Ottawa besetzt und haben derzeit die Kanadier auf der Flucht. Vielleicht ist es an der Zeit, Frieden zu schließen, damit wir nicht in ihr weitläufiges Gebiet hineingezogen werden."
+amcivwar.163.a:0 "Sehr gut, lasst es uns beenden"
+amcivwar.163.b:0 "Nur wenn sie uns Landkonzessionen geben"
+amcivwar.163.c:0 "Wir wollen ihnen eine Lektion erteilen"
+
+amcivwar.164.t:0 "[From.GetNameDefCap] bittet um Frieden"
+amcivwar.164.d:0 "Wir haben einen Gesandten von der Regierung [From.GetAdjective] erhalten, der sagt, sie hätten genug von Kanada besetzt und hoffen, dass wir eine böse Lektion gelernt haben. Sie sind bereit, über Frieden nachzudenken, warnen uns jedoch ernsthaft, dass sie das nächste Mal nicht so nachsichtig sein werden. "
+amcivwar.164.a:0 "Ja, lasst es uns beenden"
+amcivwar.164.b:0 "Nein, wir können noch siegen!"
+
+amcivwar.165.t:0 "[From.GetNameDefCap] bittet um Frieden"
+amcivwar.165.d:0 "Die kanadische Regierung, die von [From.From.GetNameDef] geschlagen wurde, möchte sich vollständig von ihrer Beteiligung am Bürgerkrieg zurückziehen und hat daher um Frieden mit [Root.GetNameDef] gebeten.."
+amcivwar.165.a:0 "Ja, lasst es uns beenden"
+amcivwar.165.b:0 "Wir wollen ihnen eine Lektion erteilen"
+
+amcivwar.166.t:0 "[From.GetNameDefCap]'s Vorschlag"
+amcivwar.166.d:0 "Wir befinden uns derzeit im Waffenstillstand mit [CSA.GetNameDef], aber keiner von uns hat die Illusion, dass dies mehr als eine Pause ist, bevor die Kämpfe wieder aufgenommen werden. Die Regierung [From.GetAdjective] hat sich mit einem Vorschlag an uns gewandt: Wenn wir uns der Entente anschließen, werden sie auf unserer Seite kämpfen, wenn der Kampf wieder aufgenommen wird. Es ist sinnvoll, wenn man bedenkt, dass die Kanadier [CSA.GetNameDef] genauso fürchten wie wir, aber einige in unserer Regierung lehnen die Idee ab, uns der Entente-Sache zu widmen. Wir werden schließlich in ihre Kriege in Europa verwickelt sein, selbst wenn wir jetzt den Bürgerkrieg gewinnen. "
+amcivwar.166.a:0 "Wir benötigen ihre Hilfe um den Krieg zu gewinnen"
+amcivwar.166.b:0 "Nein, wir schaffen das ohne ihre Hilfe"
+
+amcivwar.167.t:0 "[From.GetNameDefCap] Tritt der Entente bei"
+amcivwar.167.d:0 "Dankbar für unsere Unterstützung hat die Regierung [From.GetAdjective] beschlossen, unser Angebot anzunehmen, und ist der Entente offiziell beigetreten."
+amcivwar.167.a:0 "Hip Hip, horrah!!"
+
+amcivwar.168.t:0 "[From.GetNameDefCap] lehnt unser Angebot ab"
+amcivwar.168.d:0 "Die Regierung [From.GetAdjective] hat unser Bündnisangebot abgelehnt und glaubt vielleicht, dass sie den Bürgerkrieg alleine gewinnen können."
+amcivwar.168.a:0 "Wie enttäuschend."
+
+amcivwar.169.t:0 "[PSA.GetNameDefCap] Tritt der Entente bei"
+amcivwar.169.d:0 "Offensichtlich aus Angst vor unserem endgültigen Sieg hat sich die Regierung [PSA.GetAdjective] an die Kanadier und Briten gewöhnt. Wir müssen sie alle bekämpfen, sobald der Waffenstillstand abgeschlossen ist. "
+amcivwar.169.a:0 "So ist es!"
+
+### Rocky Mountain Ceasefire ###
+amcivwar.200.t:0 "Ein möglicher Waffenstillstand"
+amcivwar.200.d:0 "Der Bürgerkrieg hat Amerika verwüstet, und es gibt eine wachsende Diskussion innerhalb der Regierung über die Annäherung an [PSA.GetNameDef] für einen möglichen Waffenstillstand. Ob die pazifischen Rebellen so etwas überhaupt in Betracht ziehen würden, ist unbekannt, aber wenn es passieren würde, würden wir Zeit haben, unseren Einfluss auf den Osten zu festigen und unsere Männer sich zu erholen. Irgendwann wäre natürlich eine Abrechnung notwendig, aber wenn wir dies jetzt nicht versuchen, kann sich der Krieg infolgedessen noch länger hinziehen. "
+amcivwar.200.a:0 "Wir treffen uns in Denver"
+amcivwar.200.b:0 "Wir sehen keinen Sinn darin"
+
+amcivwar.201.t:0 "Waffenstillstands-Verhandlungen in Denver"
+amcivwar.201.d:0 "Während sich der Krieg zwischen [Survivor.GetNameDef] und [PSA.GetNameDef] hinzog, wurden Gespräche zwischen hochrangigen Beamten auf beiden Seiten über einen möglichen Waffenstillstand geführt. Dies geschieht auf Drängen der Regierung [Survivor.GetAdjective], obwohl nicht bekannt ist, wie viel Traktion derzeit vorhanden ist. Wir werden in ein paar Tagen sehen, ob etwas daraus wird. "
+amcivwar.201.a:0 "Interessant."
+
+amcivwar.202.t:0 "Der Vorschlag"
+amcivwar.202.d:0 "Nach zweitägigen Gesprächen haben Armeebeamte einen Vorschlag zusammengestellt: Alle Staaten westlich des Mississippi, die derzeit von [PSA.GetAdjective] -Truppen besetzt sind, werden an [PSA.GetNameDef] abgetreten, wobei einige Lücken auf der Karte ausgefüllt werden - obwohl nichts, was sie nicht richtig liefern können. Der Rest würde an [Survivor.GetNameDef] abgetreten. Abgesehen davon gibt es keine Garantien und keine Rede von tatsächlichem Frieden ... irgendwann wird es eine Abrechnung geben. Beide Seiten fordern einfach, dass die Feindseligkeiten vorerst aufhören, dass der Schaden beurteilt wird und dass die Lebenden den dringend benötigten Atemzug nehmen. "
+amcivwar.202.a:0 "Das wird reichen."
+amcivwar.202.b:0 "Sie wollen zu viel!"
+ACW_agree_proposal:0 "Den Vorschlag akzeptieren"
+ACW_we_will_try_again:0 "Zurück zu den Verhandlungen..."
+
+amcivwar.203.t:0 "Es wird keinen Waffenstillstand geben"
+amcivwar.203.d:0 "Vielleicht war es zu viel zu hoffen. Die Gespräche zwischen beiden Seiten in Denver fielen ohne wirkliche Einigung auseinander, und alle Hoffnungen auf einen Waffenstillstand sind verschwunden. Der Krieg wird fortgesetzt."
+amcivwar.203.a:0 "So viel dafür"
+
+amcivwar.204.t:0 "Der [ACW_ceasefire_name]"
+amcivwar.204.d:0 "Die Gespräche mit [PSA.GetNameDef] sind abgeschlossen, und der Waffenstillstand geht weiter. Schon ziehen sich unsere Truppen auf die Ostseite der neuen Grenze zurück. Wie lange dies dauern wird, bleibt abzuwarten."
+amcivwar.204.a:0 "Vorerst Frieden"
+
+amcivwar.205.t:0 "Der [ACW_ceasefire_name]"
+amcivwar.205.d:0 "Die Gespräche mit [PSA.GetNameDef] sind abgeschlossen, und der Waffenstillstand geht weiter. Schon ziehen sich unsere Truppen auf die Ostseite der neuen Grenze zurück. Wie lange dies dauern wird, bleibt abzuwarten."
+amcivwar.205.a:0 "Vorerst Frieden"
+
+amcivwar.206.t:0 "Der [ACW_ceasefire_name]"
+amcivwar.206.d:0 "Der Bürgerkrieg hat Amerika viele Monate lang verwüstet, aber heute wurde ein Waffenstillstand im Konflikt ausgerufen, nachdem in Denver ein Treffen zwischen Beamten von [PSA.GetNameDef] und [Survivor.GetNameDef] Bedingungen ausgearbeitet hatte. Die pazifischen Streitkräfte würden sich an neue Grenzen westlich der vereinbarten Grenze zurückziehen, während sich die [Survivor.GetAdjective] -Truppen nach Osten zurückziehen würden. Dies ist jedoch kein offizieller Frieden, und viele glauben, dass eine zukünftige Abrechnung zwischen den beiden Ländern - sozusagen ein endgültiger Showdown für das zukünftige Schicksal Amerikas - so gut wie unvermeidlich ist. Trotzdem ist dies ein Moment der Ruhe für jede Seite, um ihre Kräfte zu sammeln und ihre Toten zu zählen, und die Amerikaner auf beiden Seiten feiern ein bisschen Frieden, der aus den Kiefern des Chaos gerissen wird. "
+amcivwar.206.a:0 "Wir werden sehen, wie lange er anhält"
+
+### Liberia and Philippines in Chaos ###
+amcivwar.212.t:0 "Amerika in Chaos"
+amcivwar.212.d:0 "Liberia steht seit seiner Gründung als Kolonie für befreite Sklaven im Jahr 1822 unter der wirtschaftlichen und wirksamen politischen Dominanz der USA. Diese Dominanz hat auch dazu beigetragen, sie vor europäischen Kolonialmächten zu schützen. Jetzt sind die USA jedoch im Chaos, da rivalisierende politische Fraktionen ein Angebot für die Präsidentschaft abgeben. Der Konflikt hat sich jetzt bis zum Krieg vertieft. Sie können nicht länger als Schutz herangezogen werden. Jetzt müssen wir entscheiden, wie wir überleben sollen. "
+amcivwar.212.a:0 "Wir sind nicht länger Schoßhunde - wir beschützen uns selbst!"
+amcivwar.212.b:0 "Wir sind keine Verräter - Loyalität den Amerikanern"
+
+amcivwar.222.t:0 "Liberia steht alleine"
+amcivwar.222.d:0 "Die winzige Nation Liberia hat sich vom US-Schutz gelöst und ist jetzt allein. Wir könnten versuchen, das Land für uns selbst zu erobern, obwohl dies sowohl bei Verbündeten als auch bei Feinden kein beliebter Schritt wäre."
+amcivwar.222.a:0 "Wir haben keine Ambitionen für Liberia"
+amcivwar.222.b:0 "Sie sind ungeschützt - besetzt ihr Land!"
+
+amcivwar.225.t:0 "Die Deutsch-Afrikanas greifen an"
+amcivwar.225.d:0 "Ausgehend von unserer diplomatischen Isolation hat die deutsche Regierung in Mittelafrika beschlossen, uns anzugreifen. Wir haben keine andere Wahl, als um unser Überleben zu kämpfen."
+amcivwar.225.a:0 "Mobilisiert so viele Männer wie möglich."
+
+amcivwar.226.t:0 "Unabhängigkeit auf den Philippinen"
+amcivwar.226.d:0 "Der Bürgerkrieg in Amerika hat den amerikanischen Einfluss auf die Philippinen geschwächt. Die Menschen auf den Philippinen fordern volle Unabhängigkeit, aber einige Regierungsmitglieder befürchten, dass unabhängige Philippinen von den größeren Mächten in der Region absorbiert werden. "
+amcivwar.226.a:0 "Freiheit. Schreckliche, schreckliche Freiheit"
+
+amcivwar.227.t:0 "Amerikanisches Equipment beschlagnahmen"
+amcivwar.227.d:0 "Als die Amerikaner die Insel verlassen, haben sie große Mengen an Ausrüstung auf den Philippinen zurückgelassen. Die philippinische Armee befürwortet die Beschlagnahme der Ressourcen, während sie unbewacht sind, aber die Regierung befürchtet, was dies für die Beziehungen zwischen den beiden Ländern bedeuten könnte. "
+amcivwar.227.a:0 "Beschlagnahmt das Equipment"
+amcivwar.227.b:0 "Wir sollten freundlich bleiben"
+
+amcivwar.228.t:0 "Die amerikanische Mission auf die Philippinen"
+amcivwar.228.d:0 "Der Krieg hat die US-Regierung gezwungen, alle verfügbaren Einheiten zurückzurufen. Die amerikanischen Streitkräfte auf den Philippinen sind der US-Regierung und Douglas MacArthur immer noch treu. Einige befürchten, dass das Verlassen der Philippinen kostspielig sein wird, aber die Streitkräfte in Amerika werden benötigt. "
+amcivwar.228.a:0 "Ruft die Einheiten zurück"
+amcivwar.228.b:0 "Wir müssen Stellung halten"
+
+amcivwar.229.t:0 "Das philippinische Commonwealth"
+amcivwar.229.d:0 "Die Amerikaner hatten dem philippinischen Volk niemals Unabhängigkeit versprochen, und die Streitkräfte im Land wollten den amerikanischen Bürgerkrieg als Gelegenheit nutzen, die Unabhängigkeit zu erklären und eine legitime Regierung zu bilden. Das Commonwealth der Philippinen wurde gegründet, um die Nation zu verwalten und in einen vollständigen Zustand der Unabhängigkeit überzugehen. "
+amcivwar.229.a:0 "Unser glorreiches neues Commonwealth"
+
+### Pre-War Events ###
+amcivwar.300.t:0 "Aufstände in New England und New York"
+amcivwar.300.d:0 "In den letzten Tagen hatten syndikalistische Milizen Probleme (und versäumten es), die Kontrolle in nordöstlichen Staaten von New York und New Jersey bis zu den Küsten von Maine zu übernehmen. Bisher haben die Gouverneure in der Region die Gewalt hart bekämpft, obwohl das Ergebnis eine Reihe von gewalttätigen Unruhen in Boston und Buffalo war - ganz zu schweigen von einer Welle von Aufständen, die in New York selbst noch andauern. Die Bürger sind nervös, und die Gouverneure haben der Bundesregierung die Erlaubnis verweigert, lokale Milizen in der Region zu erheben, aus Angst vor weiteren Spannungen. Es wird berichtet, dass einige Gouverneure von New England die kanadische Regierung stillschweigend auffordern, einzugreifen, falls es noch schlimmer werden sollte. "
+amcivwar.300.d.assass:0 "Die Auswirkungen von Jack Reeds Ermordung waren im gesamten Norden zu spüren, aber die Gewalt ist in den nordöstlichen Bundesstaaten von New Jersey bis zu den Küsten von Maine besonders intensiv. Mehrere Gruppen von SPA-Milizen schlagen vor, dass sie sich zusammen mit der USA erheben AUS, vereint oder nicht, und versuchen, die Kontrolle über das Gebiet zu übernehmen. Bisher haben die Gouverneure in der Region die Gewalt hart bekämpft, obwohl das Ergebnis eine Reihe von Unruhen in Boston und Buffalo war - ganz zu schweigen von einer Welle Die Bürger sind nervös, und die Gouverneure haben der Bundesregierung die Erlaubnis verweigert, lokale Milizen in der Region zu erheben, aus Angst vor weiteren Spannungen. Einige Gouverneure in New England sollen den Kanadier stillschweigend fragen Regierung einzugreifen, sollte schlimmer noch schlimmer werden. "
+amcivwar.300.d.peace:0 "Während Jack Reed und das SPA versucht haben, ihre Milizen im Norden einzudämmen, sind sich nicht alle einig, dass das Kompromissgesetz weit genug gegangen ist. In der Tat fordern immer noch mehrere radikalere Gewerkschaften Streiks, und die nordöstlichen Staaten - von New Jersey bis zur Küste von Maine - sind besonders stark von Milizgewalt betroffen. Bisher haben die Gouverneure in der Region hart gegen sie vorgegangen, obwohl das Ergebnis eine Reihe von gewalttätigen Unruhen in Boston und Buffalo war - ganz zu schweigen von einer Welle von Aufständen, die in New York selbst immer noch andauern. Die Bürger sind nervös, und die Gouverneure haben der Bundesregierung die Erlaubnis verweigert, lokale Milizen in der Region zu erheben, aus Angst vor weiteren Spannungen. Es wird berichtet, dass einige Gouverneure von New England die kanadische Regierung stillschweigend auffordern, einzugreifen, falls es noch schlimmer werden sollte. "
+amcivwar.300.a:0 "Was für ein Chaos"
+amcivwar.300.b:0 "Interessant"
+
+amcivwar.310.t:0 "Nevada schließt sich den Pacific States an"
+amcivwar.310.d:0 "Maurice J. Sullivan erklärte heute Nevadas Treue zu den pazifischen Staaten, die sich weigern, die Legitimität der Regierung von General MacArthur anzuerkennen. Der Gouverneur war seit seiner Gründung in Absprache mit der pazifischen Regierung und sagte in einer Funkadresse, er könne nicht bereitstehen und die Demokratie in Amerika scheitern lassen, ohne Stellung zu beziehen. Bisher haben sich die Bundeskräfte ohne Androhung weiterer Gewalt von den Militärstützpunkten in der Region zurückgezogen. "
+amcivwar.310.a:0 "Eine willkommene Entscheidung"
+amcivwar.310.b:0 "Eine närrische Entscheidung"
+
+amcivwar.311.t:0 "Die 30-Tage Deadline"
+amcivwar.311.d:0 "Die 30-tägige Deadline der Bundesregierung für die rebellischen Staaten ist bisher abgelaufen, ohne dass einer der Gouverneure seine Meinung geändert hat. Die Bundesregierung festigt ihre Position, warnt MacArthur jedoch davor, vor Ablauf der Frist mit weiterer Gewalt und staatlichen Überläufen zu rechnen. Die meisten in Washington scheinen pessimistisch, dass ein umfassender Krieg vermieden werden kann.
+amcivwar.311.a:0 "Wir werden sehen"
+
+amcivwar.312.t:0 "Deadline geht ans Ende"
+amcivwar.312.d:0 "Die von der Bundesregierung festgelegte Deadline von 30 Tagen ist fast abgelaufen, da keine der Seiten zurückgetreten ist. In der Tat ist es klar, dass die rebellischen Staaten die dazwischenliegende Zeit genutzt haben, um Milizen in ihren kontrollierten Gebieten zu erheben, was bedeutet, dass ein Bürgerkrieg in der Tat ein schwieriger Kampf sein wird. "
+amcivwar.312.a:0 "Wir sehen was passieren wird"
+
+amcivwar.313.t:0 "Kontakt mit dem New Yorker Widerstand"
+amcivwar.313.d:0 "Obwohl sowohl New York als auch New Jersey für völlig verloren gehalten wurden, stellt sich heraus, dass es mehreren großen Gruppen von Kämpfern gelungen ist, aus den städtischen Gebieten herauszukommen, und sich in den Hügeln im Osten von Pennsylvania neu gruppiert haben. Obwohl sie zerfetzt sind, sind sie bestrebt, den Kampf mit unserer Unterstützung fortzusetzen. "
+amcivwar.313.a:0 "Es ist gut euch zu haben"
+CSA_four_units_newyork:0 "Vier Miliz-Einheiten erreichen Philadelphia"
+
+#Naval battle, 1 is USA (PSA doesn't exist), 2 is USA (PSA exists), 3 is PSA, 4 is TEX (CSA doesn't exist), 5 is TEX (CSA exists), 6 is CSA (TEX doesn't exist), 7 is CSA (TEX exists)
+amcivwar.315.t:0 "Zerfall der U.S Navy" 
+amcivwar.315.d1:0 "Der Zerfall der Ordnung in den Vereinigten Staaten hat die US-Marine wie jede andere Facette der amerikanischen Gesellschaft beeinflusst. Viele Seeleute und sogar einige Offiziere sind mit dem einverstanden, was das Marineoberkommando als 'Kräfte gegen die Republik und die öffentliche Ordnung' bezeichnet hat Trotzdem wurden Defekte zur Norm.\n\nDer Krisenflammpunkt in der Marine fand jedoch vor einigen Tagen statt, als an der Westküste und an mehreren eine Meuterei ausbrach Schiffe, die defekt waren, um in Richtung Ostküste zu segeln, um ihre Kameraden dort zu unterstützen. Infolgedessen kam es zu Scharmützeln und manchmal sogar zu regelrechten Schlachten, die alle ungeordnet und chaotisch waren, ohne Unterschied zwischen Freund oder Feind. Dies hat zur Effektivität der Marine geführt Auflösung - Dutzende von Schiffen sind verlassen oder übergelaufen, zahlreiche Seeleute, Marineoffiziere und sogar Admirale haben die Seite gewechselt. Reserveflotten und Schiffe, die in Gebieten stationiert sind, die nicht mehr unter Bundesverwaltung stehen auch verloren gegangen sind. "
+amcivwar.315.d2:0 "Der Zerfall der Ordnung in den Vereinigten Staaten hat die US-Marine wie jede andere Facette der amerikanischen Gesellschaft beeinflusst. Viele Seeleute und sogar einige Offiziere sind mit dem einverstanden, was das Marineoberkommando als 'Kräfte gegen die Republik und die öffentliche Ordnung' bezeichnet hat Trotzdem sind Defekte zur Norm geworden. MacArthurs Marsch in Washington war jedoch nach der Entscheidung der Pazifikflotte spaltender als die der Syndikalisten oder der Longisten Die Gouverneure ihrer Stützpunkte haben sich geweigert, die Regierung in Washington anzuerkennen. \n\nDer Krisenherd in der Marine fand jedoch vor einigen Tagen statt, als die Schiffe und Marineoffiziere der Pazifikflotte, die MacArthur treu ergeben waren, sich für eine kollektive Meuterei entschieden und auf dem Weg zur Ostküste - die den Rest der Pazifikflotte dazu brachte, sich zu rächen und ihnen nachzugehen. Infolgedessen kam es zu Scharmützeln und manchmal sogar zu regelrechten Schlachten Ich bin ungeordnet und chaotisch, ohne Unterschied zwischen Freund oder Feind. Dies hat zur effektiven Auflösung der Marine geführt - Dutzende von Schiffen sind verlassen oder übergelaufen, zahlreiche Seeleute, Marineoffiziere und sogar Admirale haben die Seite gewechselt. Reserveflotten und Schiffe, die in Gebieten stationiert sind, die nicht mehr unter Bundesverwaltung stehen, sind ebenfalls verloren gegangen. "
+
+amcivwar.315.d3:0 "Der Zerfall der Ordnung in den Vereinigten Staaten hat die US-Marine wie jede andere Facette der amerikanischen Gesellschaft beeinflusst. Viele Seeleute und sogar einige Offiziere sind mit dem einverstanden, was das Marineoberkommando als 'Kräfte gegen die Republik und die öffentliche Ordnung' bezeichnet hat Trotzdem wurden Defekte zur Norm.\n\nWenn Douglas MacArthur nach Washington marschierte und die demokratisch gewählte Regierung stürzte, um eine Militärjunta, die Pazifikflotte, nach den Gouverneuren zu installieren Nicht alle stimmten der Entscheidung zu. Eine Clique von Seeleuten und Marineoffizieren, die MacArthur treu ergeben waren, beschloss, gemeinsam Meuterei zu betreiben und ihre Schiffe an die Ostküste zu bringen, was eine Kampf zwischen ihren Streitkräften und dem Rest der pazifischen Flotte. Die Gefechte waren chaotisch und ungeordnet, ohne Unterschied zwischen Freund und Feind, aber leider das Merkmal Ors entkam mit den Schiffen und der Ausrüstung. Dies hat jedoch zum Zerfall der US-Flotte geführt, und wir haben die notwendigen Vorkehrungen getroffen, um weitere Defekte zu verhindern. "
+
+amcivwar.315.d4:0 "Der Zerfall der Ordnung in den Vereinigten Staaten hat die US-Marine wie jede andere Facette der amerikanischen Gesellschaft beeinflusst. Viele Seeleute und sogar einige Offiziere sind mit dem einverstanden, was das Marineoberkommando als 'Kräfte gegen die Republik und die öffentliche Ordnung' bezeichnet hat Trotzdem sind Defekte zur Norm geworden.\n\nZuerst gelang es dem Marineoberkommando, den Zusammenbruch der Flotte zu verhindern und Seeleute und Offiziere festzuhalten, die der Sache der Long treu ergeben waren Die Ereignisse an der Westküste führten zum Zerfall der US-Marine - Kämpfe zwischen föderalen Loyalisten und meuternden Schiffen haben die Pazifikflotte gebrochen und den Seeleuten in der gesamten Union die Möglichkeit gegeben, Huey ihre Loyalität zu erklären Lange. Sogar einige Admirale entschieden sich dafür, die Seite zu wechseln und sich uns anzuschließen. Wir haben auch im Süden stationierte Reserveflotten und Schiffe beschlagnahmt - von ihnen und von ankommenden Loyalisten konnten wir uns versammeln ble eine bescheidene Seestreitmacht. "
+amcivwar.315.d5:0 "Der Zerfall der Ordnung in den Vereinigten Staaten hat die US-Marine wie jede andere Facette der amerikanischen Gesellschaft beeinflusst. Viele Seeleute und sogar einige Offiziere sind mit dem einverstanden, was das Marineoberkommando als 'Kräfte gegen die Republik und die öffentliche Ordnung' bezeichnet hat Trotzdem sind Defekte zur Norm geworden.\n\nAnst gelang es dem Marineoberkommando, den Zusammenbruch der Flotte zu verhindern und Seeleute und Offiziere festzuhalten, die der Sache der Long treu ergeben waren Aber die Ereignisse an der Westküste führten zum Zerfall der US-Marine - Kämpfe zwischen föderalen Loyalisten und meuternden Schiffen haben die Pazifikflotte gebrochen und den Seeleuten in der gesamten Union die Chance gegeben, mit dem Regime zu brechen Washington. Obwohl einige für die Syndikalisten erklärt wurden, kündigten andere ihre Unterstützung für den Aufstand von Huey Long in Louisiana an. Sogar einige Admirale entschieden sich dafür, die Seite zu wechseln und sich uns anzuschließen. Wir haben auch res ergriffen Wir haben Flotten und Schiffe im Süden stationiert - von ihnen und von ankommenden Loyalisten konnten wir eine bescheidene Seestreitmacht zusammenstellen. "
+
+amcivwar.315.d6:0 "Der Zerfall der Ordnung in den Vereinigten Staaten hat die US-Marine wie jede andere Facette der amerikanischen Gesellschaft beeinflusst. Viele Seeleute und sogar einige Offiziere sind mit dem einverstanden, was das Marineoberkommando als 'Kräfte gegen die Republik und die öffentliche Ordnung' bezeichnet hat Trotzdem sind Defekte zur Norm geworden.\n\nAnst gelang es dem Marineoberkommando, den Zusammenbruch der Flotte zu verhindern und Seeleute und Offiziere festzuhalten, die der Sache der Syndikalisten treu ergeben waren Aber die Ereignisse an der Westküste führten zum Zerfall der US-Marine - Kämpfe zwischen föderalen Loyalisten und meuterischen Schiffen haben die Pazifikflotte gebrochen und Seeleuten in der gesamten Union die Möglichkeit gegeben, Jack ihre Loyalität zu erklären Reed. Sogar einige hochrangige Kapitäne haben sich entschieden, die Seite zu wechseln und sich uns anzuschließen. Wir haben auch Reserveflotten und Schiffe beschlagnahmt, die im Nordosten stationiert sind - von ihnen und von ankommenden Revolutionären ailors, wir konnten eine bescheidene Seestreitmacht zusammenstellen. "
+amcivwar.315.d7:0 "Der Zerfall der Ordnung in den Vereinigten Staaten hat die US-Marine wie jede andere Facette der amerikanischen Gesellschaft beeinflusst. Viele Seeleute und sogar einige Offiziere sind mit dem einverstanden, was das Marineoberkommando als 'Kräfte gegen die Republik und die öffentliche Ordnung' bezeichnet hat Trotzdem sind Defekte zur Norm geworden.\n\nAnst gelang es dem Marineoberkommando, den Zusammenbruch der Flotte zu verhindern und Seeleute und Offiziere festzuhalten, die der Sache der Syndikalisten treu ergeben waren Aber die Ereignisse an der Westküste führten zum Zerfall der US-Marine - Kämpfe zwischen föderalen Loyalisten und meuternden Schiffen haben die Pazifikflotte gebrochen und den Seeleuten in der gesamten Union die Chance gegeben, mit dem Regime zu brechen Washington. Obwohl einige für die Longisten erklärt wurden, kündigten andere ihre Unterstützung für die Revolution in Chicago an. Sogar einige hochrangige Kapitäne entschieden sich dafür, die Seite zu wechseln und sich uns anzuschließen. Wir haben auch Beschlagnahme Im Nordosten stationierte Reserveflotten und Schiffe - von ihnen und von ankommenden revolutionären Seeleuten konnten wir eine bescheidene Seestreitmacht zusammenstellen. "
+
+amcivwar.315.a1:0 "Verräter in der Navy!"
+amcivwar.315.a2:0 "Ich habe nicht erwartet, dass die Pacifik Fleet voller Verräter ist"
+amcivwar.315.a3:0 "Wir begrüßen die Pazifikflotte, Verfechter der Demokratie!"
+amcivwar.315.a4:0 "Wir begrüßen treue Seeleute!"
+amcivwar.315.a5:0 "Die Marine ist das Rückgrat jeder Revolution!"
+
+USA_naval_desertion:0 "Massive Desertion in der Marine beginnt\n§Schiffe von der Westküste werden in der Marinebasis des Panamakanals ankommen "
+PSA_naval_desertion:0 "Massive Desertion in der Marine beginnt"
+TEX_naval_desertion:0 "Loyal zu den Menschen, die Seeleute und Admirale unserer Marine beitreten\n§YShips von der Westküste werden in der Karibik ankommen"
+CSA_naval_desertion:0 "Revolutionäre Seeleute und Kapitäne schließen sich unserer Marine an.\N§YShips von der Westküste werden in der Karibik ankommen."
+
+amcivwar.314.t:0 "Ordnung wiederhergestellt [restored_core.GetName]"
+amcivwar.314.d:0 "In den letzten Wochen waren die Regierungstruppen von [Root.GetAdjective] mit [restore_core.GetName] beschäftigt. Die Festnahme derjenigen, von denen wir glauben, dass sie unsere Kontrolle behindern würden, und die Unterstützung unserer lokalen Unterstützer bei der Verbreitung des guten Wortes unter den Menschen. Wir wollen versichern Sie ihnen, dass sie als amerikanische Bürger keinen Grund haben, unsere Anwesenheit zu fürchten. Unsere Bemühungen haben langsam begonnen, Früchte zu tragen, selbst inmitten all dieses Chaos. "
+amcivwar.314.a:0 "Großartige Neuigkeiten!"
+
+amcivwar.320.t:0 "Syndikalisten erobern Minnesota"
+amcivwar.320.d:0 "Die Gewalt durch syndikalistische Milizgruppen breitete sich auf die Stadt Minneapolis und die umliegende Region aus. Auf den Straßen und auf dem Flughafen von Minneapolis wurden Berichten zufolge mehrere bewaffnete Gruppen angegriffen. Bevor sich die Gewalt ausweiten konnte, erklärte der Gouverneur von Minnesota die Treue des Staates zu Jack Reeds Sache und befahl den Nationalgarde-Divisionen des Staates, zurückzutreten. Nachdem viele Mitglieder und Führer der Farmer-Labour-Partei die Bastion der alten Farmer-Labour-Partei in Minnesota gesichert haben, haben sie nun die Treue zur sozialistischen Sache geschworen. Die wenigen, die sich zusammen mit anderen föderalistischen Sympathisanten widersetzten, fliehen jetzt mit CSA-Milizen nach Iowa, wo die nächste Schlacht im Mittleren Westen voraussichtlich beginnen wird. "
+amcivwar.320.a:0 "Wir heißen sie willkommen"
+amcivwar.320.b:0 "Verräter!"
+
+amcivwar.321.t:0 "Bundeskontrolle in Minnesota aufrechterhalten"
+amcivwar.321.d:0 "Die Gewalt durch syndikalistische Milizgruppen breitete sich auf die Stadt Minneapolis und die umliegende Region aus. Auf den Straßen und auf dem Flughafen von Minneapolis wurden Berichten zufolge mehrere bewaffnete Gruppen angegriffen. Bevor sich die Gewalt jedoch weiter ausbreiten konnte, erklärte der Gouverneur von Minnesota die Treue des Staates zum eigentlichen Land und widmete die loyale Nationalgarde des Staates erneut der Bekämpfung der Aufständischen. Während der Kampf weitergeht, bleibt der Staat vorerst in Bundeshand. Ein ähnlicher Aufstand in Iowa ist ebenfalls gescheitert - mit der von den Föderalisten gezähmten Brutstätte der ehemaligen Bauernarbeit-Partei ist es unwahrscheinlich, dass Iowas Sozialisten große Fortschritte machen. "
+amcivwar.321.a:0 "Gut"
+amcivwar.321.b:0 "Ich sehe es"
+
+amcivwar.322.t:0 "North Carolina erklärt Unterstützung für Huey Long"
+amcivwar.322.d:0 "Als Reaktion auf den zunehmenden Druck von Milizgruppen in Charlotte erklärte der Gouverneur von North Carolina heute, dass der Staat sich denjenigen anschließen werde, die mit Huey Long in Verbindung stehen. Zwar gibt es Berichte über Unruhen in mehreren Städten, doch der größte Teil des Staates scheint die Entscheidung des Gouverneurs zu unterstützen, und bereits ziehen sich die Bundeskräfte aus der Region zurück, bevor sie überwältigt werden. "
+amcivwar.322.a:0 "Wir heißen sie willkommen"
+amcivwar.322.b:0 "Verräter!"
+
+amcivwar.323.t:0 "North Carolina deklariert Loyalität zur USA"
+amcivwar.323.d:0 "Als Reaktion auf den zunehmenden Druck von Milizgruppen in Charlotte erklärte der Gouverneur von North Carolina heute, dass der Staat Amerika und der legitimen Bundesregierung treu bleiben werde. Zwar gibt es Berichte über Unruhen in mehreren Städten, doch der größte Teil des Staates scheint die Entscheidung des Gouverneurs zu unterstützen, und bereits ziehen sich die Minutemen-Streitkräfte aus der Region zurück, bevor sie überwältigt werden. "
+amcivwar.323.a:0 "Wunderbar"
+amcivwar.323.b:0 "Verräter!"
+
+amcivwar.324.t:0 "Longistische Milizen erobern Tennessee"
+amcivwar.324.d:0 "Widersprüchliche Berichte über Kämpfe zwischen syndikalistischen und longistischen Milizen im gesamten Bundesstaat Tennessee wurden heute gelöst, als longistische Milizen den Gesetzgeber in Nashville stürmten. Gouverneur Gordon Browning wurde gefangen genommen, und während die Bundeskräfte um die Kontrolle über die Stadt kämpften, wurde schnell klar, dass die Milizen einen klaren Vorteil haben. Bereits jetzt ziehen sich die Bundeskräfte aus dem Staat zurück und geben den Anhängern von Huey Long die Kontrolle. "
+amcivwar.324.a:0 "Wir heißen sie willkommen"
+amcivwar.324.b:0 "Verräter!"
+
+amcivwar.325.t:0 "Longistische Milizen verlieren die Schlacht um Tennessee"
+amcivwar.325.d:0 "Widersprüchliche Berichte über Kämpfe zwischen syndikalistischen und longistischen Milizen im gesamten Bundesstaat Tennessee wurden heute gelöst, als longistische Milizen von Bundeskräften außerhalb des Gesetzgebers in Nashville besiegt wurden. Während die Bundeskräfte immer noch um die Kontrolle über die Stadt kämpfen, wird schnell klar, dass Sie haben den klaren Vorteil, und Gouverneur Gordon Browning hielt in einer Fernsehansprache fest, dass Tennessee nicht radikalen Kräften zum Opfer fallen würde. Bereits Minutemen ziehen sich aus dem Staat zurück und geben der Regierung die Kontrolle zu. "
+amcivwar.325.a:0 "Eine deutliche Erleichterung"
+amcivwar.325.b:0 "Verräter!"
+
+amcivwar.326.t:0 "Syndikalisten sind siegreich in New York"
+amcivwar.326.d:0 "Der Kampf zwischen syndikalistischen Milizkräften in New York City bis nach New Jersey ist zu Ende gegangen, als die syndikalistischen Kräfte den Sieg erklärten. Obwohl sie ihre Kontrolle nicht auf den Rest des Staates New York ausgedehnt haben, nachdem der Gouverneur einen Notfall erklärt und Brücken blockiert hat, die in die Stadt selbst führen, sind die bevölkerungsreichsten Gebiete beider Staaten nun fest unter syndikalistischer Kontrolle, da bereits Barrikaden entlang des Staates errichtet wurden südliche Grenzen des Staates New Jersey. "
+amcivwar.326.a:0 "Ein willkommener Sieg"
+amcivwar.326.b:0 "Ein unglücklicher Verlust"
+
+amcivwar.327.t:0 "Föderalisten siegreich in New York"
+amcivwar.327.d:0 "Der Kampf zwischen syndikalistischen Milizkräften in New York City bis nach New Jersey ist zu Ende gegangen, als die Bundeskräfte den Sieg verkündeten. Bereits jetzt werden die Führer der syndikalistischen Milizen zusammengetrieben und inhaftiert, obwohl viele in städtischen Gebieten verschwunden sind und immer noch Berichte über Gewalt vorliegen. In der Tat wird es wahrscheinlich Monate dauern, bis die Bundesregierung die Kontrolle über das Stadtgebiet wieder hergestellt hat. Derzeit konzentrieren sich regierungstreue Kräfte auf die Sicherung der Ostküste und die Stärkung der Grenze zum benachbarten Pennsylvania. "
+amcivwar.327.a:0 "Ein willkommener Sieg"
+amcivwar.327.b:0 "Ein unglücklicher Verlust"
+amcivwar.327.c:0 "Interessant"
+
+amcivwar.328.t:0 "Föderalisten erobern das südliche Texas"
+amcivwar.328.d:0 "Während der Bundesstaat Texas Huey Long seine Treue erklärt hat, waren die der Bundesregierung gegenüber loyalen Kräfte in heißem Kampf um die Kontrolle und haben es bisher geschafft, in den südlichen Regionen des Bundesstaates den Sieg zu erringen. Gouverneur James Allred wurde von südlichen Bürgermeistern zum Verräter erklärt, die entschlossen zu sein scheinen, sich im Rest des Staates gegen ihre Brüder zu stellen, sollte der Bürgerkrieg ernsthaft beginnen. "
+amcivwar.328.a:0 "Ein willkommener Sieg"
+amcivwar.328.b:0 "Ein unglücklicher Verlust"
+amcivwar.328.c:0 "Interessant"
+
+amcivwar.329.t:0 "Föderaler Aufstand in Texas scheitert"
+amcivwar.329.d:0 "Während der Bundesstaat Texas Huey Long seine Treue erklärt hat, haben sich die der Bundesregierung gegenüber loyalen Kräfte in heißem Kampf um die Kontrolle befunden, und im südlichen Teil des Bundesstaates tobten Kämpfe mit Minutemen. Gouverneur James Allred hielt kürzlich eine Konferenz mit mehreren Bürgermeistern des Südens ab und erklärte heute, dass eine Einigung mit ihnen erzielt worden sei. Sie würden sich zusammenschließen, um Long und die richtige amerikanische Regierung zu unterstützen. "
+amcivwar.329.a:0 "Ein willkommener Sieg"
+amcivwar.329.b:0 "Ein unglücklicher Verlust"
+amcivwar.329.c:0 "Interessant"
+
+amcivwar.330.t:0 "Iowa erklärt Unterstützung für Reed"
+amcivwar.330.d:0 "Nachdem sowohl Cedar Rapids als auch Iowa City von syndikalistischen Milizkräften überholt worden waren, erklärte der Gouverneur von Iowa heute seine Unterstützung für Jack Reed und forderte den Rückzug der Bundeskräfte aus dem Staat. Während die meisten Zweifel daran haben, dass Gouverneur Kraschel irgendwelche syndikalistischen Sympathien hat, ist es klar, dass er einen schnellen Zusammenbruch des Staates vorausgesehen hat, als der Krieg begann, und beschlossen hat, die Seite zu wechseln, bevor die Dinge zu weit gingen. Mehrere Berichte über Unruhen in Des Moines sind dem Abzug loyalistischer Kräfte aus der Region vorausgegangen. "
+amcivwar.330.a:0 "Ein willkommener Sieg"
+amcivwar.330.b:0 "Ein unglücklicher Verlust"
+
+amcivwar.331.t:0 "Iowa erklärt Unterstützung für die Föderalen"
+amcivwar.331.d:0 "Nachdem sowohl Cedar Rapids als auch Iowa City von den syndikalistischen Kontrollen durch die Bundeskräfte befreit worden waren, bekräftigte der Gouverneur von Iowa heute seine Unterstützung für die Bundesregierung und forderte Jack Reed auf, syndikalistische Milizen aus dem Staat zurückzuziehen. Offensichtlich sah Gouverneur Kraschel voraus, in welche Richtung sich die Schlacht in seinem Staat entwickelte, und beschloss, Bundestruppen einzuladen, bevor die Dinge außer Kontrolle gerieten. Mehrere Berichte über Unruhen in Des Moines sind dem Abzug der SPA-Milizen aus der Region vorausgegangen. "
+amcivwar.331.a:0 "Ein willkommener Sieg"
+amcivwar.331.b:0 "Ein unglücklicher Verlust"
+
+amcivwar.332.t:0 "Missouri von Milizen erobert"
+amcivwar.332.d:0 "Nach ihrem Sieg in Iowa sind SPA-Milizen nach Missouri geflutet und haben bei den Streikenden in St. Louis Unterstützung gefunden. Die Stadt wurde fast sofort überholt und Gouverneur Lloyd C. Stark als Geisel genommen. Während der Gouverneur mehrere Tage durchhielt, in der Hoffnung, dass die Bundeskräfte ihn in der Legislatur befreien würden, wurde schnell klar, dass die Milizkräfte in Missouri zu gut verankert waren. Um weiteres Blutvergießen zu vermeiden, befahl Gouverneur Stark der Nationalgarde des Staates, zurückzutreten. Es heißt, dass die Kämpfe noch andauern und die SPA-Kontrolle noch nicht abgeschlossen ist. "
+amcivwar.332.a:0 "Eine willkommene Entwicklung"
+amcivwar.332.b:0 "Höchst alarmierend"
+
+amcivwar.333.t:0 "SPA Verfestigt die Kontrolle über Buffalo"
+amcivwar.333.d:0 "Während der Gouverneur von New York den Staat nördlich von New York City als Sperrzone sowohl für die SPA-Miliz als auch für die Bundeskräfte erklärt hatte, haben sich die anhaltenden Streiks und Proteste gegen das Spargesetz der Regierung als zu viel erwiesen. Auf massive Unruhen in Buffalo folgte eine Milizübernahme, und der Gouverneur musste zurücktreten, bevor er eine Notfallanfrage an nahegelegene kanadische Stützpunkte zur Unterstützung senden konnte. Es heißt, dass in den Hügeln des Bundesstaates immer noch Kämpfe zwischen Bundestreuen und SPA-Milizen stattfinden, aber es scheint, dass die westliche Hälfte des Bundesstaates jetzt vollständig unter der Kontrolle des SPA steht. "
+amcivwar.333.a:0 "Eine willkommene Entwicklung"
+amcivwar.333.b:0 "Höchst alarmierend"
+
+amcivwar.334.t:0 "Kentucky erklärt Unterstützung für Long"
+amcivwar.334.d:0 "Nach einer langen und hitzigen Reihe von Debatten in der Frankfurter Legislative hat Gouverneur Happy Chandler erklärt, dass der Staat Huey Long und die AFP unterstützen werde. Die Unterstützung des Gouverneurs spiegelt sich jedoch nicht vollständig in den Gefühlen der Bürger von Kentucky wider, und während die Minutemen in den geltenden Staat eingezogen sind, wird gemunkelt, dass in den Hügeln im gesamten nördlichen Teil des Staates Kämpfe stattfinden und die Kontrolle der AFP weit entfernt ist von vollständig. "
+amcivwar.334.a:0 "Eine willkommene Entwicklung"
+amcivwar.334.b:0 "Höchst alarmierend"
+
+amcivwar.335.t:0 "Virginia von den Minutemen erobert "
+amcivwar.335.d:0 "Nach ihrem Sieg in North Carolina sind AFP-Minutemen nach Virginia geflutet und haben unter antisyndikalistischen Demonstranten in den westlichen Regionen des Bundesstaates Unterstützung gefunden. Bald darauf wurde Richmond überholt und Gouverneur George C. Peery als Geisel genommen. Während der Gouverneur mehrere Tage durchhielt, in der Hoffnung, dass die Bundeskräfte ihn in der Legislatur befreien würden, wurde schnell klar, dass die Minutemen-Streitkräfte in Virginia zu gut verankert waren. Um weiteres Blutvergießen zu vermeiden, befahl Gouverneur Peery der Nationalgarde des Staates, sich zurückzuziehen und die Seestreitkräfte von der Basis in Norfolk zurückzuziehen. Es heißt, dass die Kämpfe noch andauern und dass die Kontrolle der AFP über den Staat bei weitem nicht vollständig ist. "
+amcivwar.335.a:0 "Eine willkommene Entwicklung"
+amcivwar.335.b:0 "Das ist viel zu nahe an Washington"
+
+### Deal with the Devil ###
+ACW_deal_with_devil_effect:0 "Alle besetzten Staaten ihres Territoriums werden an uns und unsere an sie übertragen. Der Waffenstillstand läuft 90 Tage, danach hat jeder von uns die Möglichkeit, ihn um weitere 90 Tage zu verlängern.\n"
+amcivwar.520.t:0 "Ein Pakt mit dem Teufel?"
+amcivwar.520.d:0 "Die [From.GetAdjective] Regierung hat sich mit einem Vorschlag an uns gewandt: einem Waffenstillstand von mindestens 90 Tagen zwischen [Root.GetNameDef] und [From.GetNameDef], damit wir beide unsere Bemühungen gegen die [enemy_country.GetAdjective] -Kräfte richten können, die uns derzeit besiegen beide. In 90 Tagen können wir neu bewerten ... und wenn [enemy_country.GetNameDef] besiegt wird, ist der Waffenstillstand geschlossen. "
+amcivwar.520.a:0 "Wir stimmen dieser Vereinbarung zu ... vorerst"
+amcivwar.520.b:0 "Nein, wir weigern uns, unsere Prinzipien zu kompromittieren"
+
+amcivwar.521.t:0 "Der Deal wurde abgelehnt"
+amcivwar.521.d:0 "Leider scheint die Regierung [From.GetAdjective] hartnäckiger zu sein als erwartet. Sie werden nicht mit uns zusammenarbeiten, auch wenn dies ihre Niederlage bedeutet. "
+amcivwar.521.a:0 "Unterstützung für"
+
+amcivwar.522.t:0 "Der Deal wurde akzeptiert"
+amcivwar.522.d:0 "Wie erwartet, haben die [From.GetAdjective] -Kräfte unseren Deal akzeptiert.Wir werden vorerst aufhören zu kämpfen und unsere Aufmerksamkeit gegen [enemy_country.GetNameDef] richten. In 90 Tagen können wir ihn neu bewerten, und ob die [enemy_country.GetAdjective] besiegt sind, wenn der Waffenstillstand aufgehoben wird."
+amcivwar.522.a:0 "Wunderbar"
+
+amcivwar.523.t:0 "Den Waffenstillstand fortsetzen??"
+amcivwar.523.d:0 "Die 90 Tage sind vorbei, und jetzt müssen wir überlegen, ob wir unseren Kampf gegen [truce_country.GetNameDef] wieder aufnehmen."
+amcivwar.523.a:0 "Lasst uns weitere 90 Tage warten..."
+amcivwar.523.b:0 "Der Waffenstillstand ist vorbei"
+
+amcivwar.524.t:0 "Pakt mit dem Teufel"
+amcivwar.524.d:0 "Mit ihren Kräften hart durchgedrückt [enemy_country.GetNameDef], haben Vertreter von [From.GetNameDef] und [From.From.GetNameDef] einen temporären Frieden beschlossen. damit [enemy_country.GetAdjective] nicht beide überrollt und den Bürgerkrieg für sich entscheidet. Es bleibt abzuwarten, ob ihre Einigung zu spät kommt oder ob sie sogar länger als ein paar Monate dauern kann, bevor sich beide Seiten gegen die andere wenden. Die meisten Zuschauer scheinen zuzustimmen, dass diese beispiellose Vereinbarung darauf hindeutet, dass vorerst [enemy_country.GetNameDef] die Oberhand behält."
+amcivwar.524.a:0 "Interessant"
+amcivwar.524.b:0 "Es macht keinen Unterschied - Sie werden beide verlieren"
+
+amcivwar.525.t:0 "Pakt mit dem Teufel"
+amcivwar.525.d:0 "Mit ihren Kräften hart durchgedrückt [enemy_country.GetNameDef], haben Vertreter von [truce_support.GetNameDef] und [truce_enemy.GetNameDef] einen temporären Frieden beschlossen. Da wir unsere Unterstützung für die erklärt haben [truce_support.GetAdjective], liegt es an uns, ihrem Deal zu folgen ... zumindest für den Moment. "
+amcivwar.525.a:0 "So soll es sein"
+
+amcivwar.526.t:0 "Der Waffenstillstand ist vorbei"
+amcivwar.526.d:0 "Der temporäre Waffenstillstand zwischen [can_ally.GetNameDef] und [can_enemy.GetNameDef] ist vorbei. [can_ally.GetAdjective] ruft die Entente dazu auf, dem Krieg wieder beizutreten."
+amcivwar.526.a:0 "Wir sind auf dem Weg!"
+amcivwar.526.b:0 "Sie müssen selber damit klarkommen"
+amcivwar526_tt:0 "§Y[Root.GetNameDefCap]§! wird dem Krieg auf Seiten §Y[can_ally.GetNameDef]§! wieder beitreten §Y[can_enemy.GetNameDef]§!\n"
+
+amcivwar.527.t:0 "Amerika ist wiedervereint"
+amcivwar.527.d.USA:0 "Endlich ist Amerika wieder vereint. Wir strecken uns noch einmal vom Meer zum leuchtenden Meer. Die Verräter des Landes wurden zerstört und das Sternenbanner fliegt jetzt stolz von Küste zu Küste und weiß, dass die Freiheit für alle gesichert ist. "
+amcivwar.527.d.CSA:0 "Endlich ist ganz Amerika Teil des [Root.GetNameDef]. Die Revolution hat einen großen Sieg errungen und das Volk wurde von den Ketten des Kapitalismus befreit. Alle schwenken die rote Fahne des Sozialismus von Kalifornien nach New York Island. Während die Narben der Revolution überall sind, können wir uns darauf freuen, die Revolution allen zugänglich zu machen. "
+amcivwar.527.d.TEX:0 "Endlich wurde Amerika unter dem Banner von [Root.GetNameDef] vereint. Verräter und angehende Tyrannen haben versucht, diese große Nation zu zerstören und zu korrumpieren, aber wir haben festgehalten und die Kontrolle übernommen. Eine Frage ist jedoch in aufgetaucht jene Gebiete, die ursprünglich nicht mit Huey Long im Bürgerkrieg entstanden sind: Ist dieses Land die Vereinigten Staaten von Amerika oder ist es wirklich [Root.GetNameDef]? Es gibt unter vielen die Sehnsucht, zur Stabilität der Sterne zurückzukehren und Streifen, auch wenn sich die Dinge unwiderruflich geändert haben. Sollten wir sie beschwichtigen und zeigen, dass das ursprünglich geplante America Huey noch existiert? "
+amcivwar.527.d.PSA:0 "Endlich sind die Vereinigten Staaten von Amerika wieder vereint. Der Tyrann MacArthur wurde niedergeschlagen, alle anderen Verräter des Landes, die versuchen, Amerika in etwas zu verwandeln, das nicht besiegt wurde. Das Sternenbanner fliegt jetzt stolz von der Küste zu wissen, dass die Freiheit für alle Amerikaner gesichert ist. "
+amcivwar.527.a:0 "Eine perfektere Vereinigung." #USA/PSA
+amcivwar.527.b:0 "Dieses Land ist dein Land." #CSA
+amcivwar.527.c:0 "Ja! Wir sind die Vereinten Staaten - jetzt und für immer.  §L(Keep map colour)§!" #TEX
+amcivwar.527.d:0 "Ja! Wir sind die Vereinten Staaten - jetzt und für immer.  §L(Switch map colour)§!" #TEX
+amcivwar.527.e:0 "[Root.GetNameDefCap] IST Amerika!" #TEX
+amcivwar.527.f:0 "Vereint - jetzt und für immer.\n§L(Keep map colour)§!" #NEE
+amcivwar.527.g:0 "Vereint - jetzt und für immer..\n§L(Switch map colour)§!" #NEE
+
+### Sanity Checks ###
+
+amcivwar.600.t:0 "Der [Root.GetAdjective] Kollaps"
+amcivwar.600.d:0 "Unsere Streitkräfte können sich nicht länger gegen den Feind behaupten - bereits beginnen unsere Truppen massenhaft zu desertieren, und die Welle der Desorganisation arbeitet sich nach oben. [Root.GetNameDefCap] steht kurz vor der Niederlage, und wir müssen zugeben, dass dies der Fall ist. "
+amcivwar.600.a:0 "So endet es hier..."
+
+amcivwar.607.t:0 "Der föderale Kollaps"
+amcivwar.607.d:0 "Es scheint, dass die Bundesregierung im amerikanischen Bürgerkrieg auf den letzten Beinen ist. Der größte Teil seines Landes wurde bereits von den anderen amerikanischen Fraktionen verschlungen, und es bleiben nur noch die letzten Überreste seiner Armee übrig - jetzt demoralisiert und unter Massenwüsten leiden, aber gegen alle Hoffnung, dass ein Wunder sie retten könnte. Einige Bundesführer haben sich bereits mit den Generälen der feindlichen Fraktionen getroffen, um die Bedingungen für ihre unvermeidliche vollständige Kapitulation auszuhandeln. "
+amcivwar.607.a:0 "Ein wichtiger Schritt in Richtung revolution"
+amcivwar.607.b:0 "Sic Semper Tyrannis!"
+amcivwar.607.c:0 "Sie haben bekommen, was sie verdient haben"
+amcivwar.607.e:0 "Schockierend!"
+
+amcivwar.608.t:0 "Kollaps der amerikanischen Syndikalisten"
+amcivwar.608.d:0 "Es scheint, dass die Regierung der Syndikate im amerikanischen Bürgerkrieg auf den letzten Beinen ist. Der größte Teil seines Landes wurde bereits von den anderen amerikanischen Fraktionen verschlungen, und es bleiben nur noch die letzten Überreste seiner Armee übrig - jetzt demoralisiert und unter Massenwüsten leiden, aber gegen alle Hoffnung, dass ein Wunder sie retten könnte. Einige Syndikatsführer haben sich bereits mit den Generälen der feindlichen Fraktionen getroffen, um die Bedingungen für ihre unvermeidliche vollständige Kapitulation auszuhandeln. "
+amcivwar.608.a:0 "Es war an der Zeit"
+amcivwar.608.b:0 "Gute Neuigkeiten"
+amcivwar.608.c:0 "Soll ihre Revolution in der Hölle brennen"
+amcivwar.608.e:0 "Interessant."
+
+amcivwar.609.t:0 "Kollaps der Union"
+amcivwar.609.d:0 "Es scheint, dass die Regierung des Unionsstaats im amerikanischen Bürgerkrieg auf den letzten Beinen ist. Der größte Teil seines Landes wurde bereits von den anderen amerikanischen Fraktionen verschlungen, und es bleiben nur noch die letzten Überreste seiner Armee übrig - jetzt demoralisiert und unter Massenwüsten leiden, aber gegen alle Hoffnung, dass ein Wunder sie retten könnte. Einige Gewerkschaftsführer haben sich bereits mit den Generälen der feindlichen Fraktionen getroffen, um die Bedingungen für ihre unvermeidliche vollständige Kapitulation auszuhandeln. "
+amcivwar.609.a:0 "Wie es sein sollte"
+amcivwar.609.b:0 "Gute Neuigkeiten"
+amcivwar.609.c:0 "Sie haben bekommen, was sie verdient haben"
+amcivwar.609.e:0 "Interessant"
+
+amcivwar.610.t:0 "Kollaps der Pacifik States"
+amcivwar.610.d:0 "Es scheint, dass die Regierung der pazifischen Staaten im amerikanischen Bürgerkrieg auf den letzten Beinen ist. Der größte Teil seines Landes wurde bereits von den anderen amerikanischen Fraktionen verschlungen, und es bleiben nur noch die letzten Überreste seiner Armee übrig - jetzt demoralisiert und unter Massenwüsten leiden, aber gegen alle Hoffnung, dass ein Wunder sie retten könnte. Einige Führer haben sich bereits mit den Generälen der feindlichen Fraktionen getroffen, um die Bedingungen für ihre unvermeidliche vollständige Kapitulation auszuhandeln. "
+amcivwar.610.a:0 "Wie es sein sollte"
+amcivwar.610.b:0 "Gute Neuigkeiten"
+amcivwar.610.c:0 "Sie haben bekommen, was sie verdient haben"
+amcivwar.610.e:0 "Interessant"
+
+amcivwar.611.t:0 "[From.GetAdjective] Equipment kommt an"
+amcivwar.611.d:0 "Unsere Freunde von [From.GetNameDef] haben uns eine Ladung Infanterie-Equipment geschickt, um uns in unserer Sache zu unterstützen"
+amcivwar.611.a:0 "Definitiv benötigt!"
+
+amcivwar.615.t:0 "Notreserven abgerufen"
+amcivwar.615.d:0 "Mit der Kriegserklärung an [Root.GetNameDef] durch [From.GetNameDef] bemühten sich Veteranen des Bürgerkriegs, in die nationalen Reserven einzutreten - gezwungen durch das Gefühl, dass die Regierung [From.GetAdjective] uns am schwächsten nachjagte Moment. Während das neue Korps im ganzen Land verteilt ist, sind sie bereit und eifrig, gegen den Feind zu kämpfen! "
+amcivwar.615.a:0 "Sie werden dafür bezahlen!"
+
+amcivwar.616.t:0 "Reserven demobilisiert"
+amcivwar.616.d:0 "Während die Notreserven für den Krieg einberufen wurden, wurden sie nach dem Ende des Krieges demobilisiert und in ihre Häuser zurückgeschickt - erschöpft nach so vielen Kämpfen. "
+amcivwar.616.a:0 "Zeit euch auszuruhen, Veteranen"
+
+### MacArthur's War ###
+amcivwar.700.t:0 "MacArthurs Kriegsplan"
+amcivwar.700.d:0 "General MacArthur hat lange seine Pläne zur Bekämpfung von Unruhen vorbereitet. Der ursprüngliche Kriegsplan White aus den frühen 20er Jahren bestand darauf, die Bestimmungen der Verfassung über die Rechte der Staaten zu respektieren. Es hieß, nur der Gouverneur könne die Bundestruppen auffordern, einen Aufstand zu unterdrücken. Die Situation in der Nation erfordert jetzt leider stärkere Maßnahmen. Da die 30-tägige Amnestiefrist von Präsident MacArthur nur wenige Ergebnisse bringt, scheinen sich die Vereinigten Staaten auf den Krieg vorzubereiten. \n\nEs gibt drei Pläne, die dem Kabinett und den Chefs des Militärs vorgeschlagen wurden:\n\n1. Kriegsplan Weiß: Yorktown empfiehlt, die vielen Militärbasen an der Westküste, in den Rocky Mountains, in den Great Plains und im Mittleren Westen aufzugeben. Mit dem Abzug der Bundestruppen östlich des Missisippi hofft der Plan, dass die Konzentration der Bundestruppen an der Ostküste die Aufstände in Pennslyvania, den Carolinas, Neuengland und Georgia niederschlagen kann.\N\n2. Kriegsplan Weiß: San Jacinto fordert, die Regierung zusammen mit einem Großteil des Militärs in die Great Plains zu verlegen, um den Widerstand in den pazifischen Staaten niederzuschlagen. Bei ordnungsgemäßer Ausführung könnten wir die meuterisierende pazifische Flotte zurückerobern. \n\n3. Schließlich fordert MacArthurs ursprünglicher Kriegsplan White, der Ende letzten Jahres ausgearbeitet wurde, einen Korridor von Virginia zu den Staaten, die im Mittleren Westen loyal bleiben. Wir hoffen, dass unsere überlegene Organisation und Mobilität die Aufstände schnell niederschlagen kann, bevor sie sich verbinden oder mit der Kriegsproduktion beginnen können. Was sollen wir wählen? "
+amcivwar.700.a:0 "Verlasst das Flachland."
+amcivwar.700.b:0 "Washington ist zu verwundbar, ziehen Sie sich nach Denver zurück."
+amcivwar.700.c:0 "Wir werden diesen Verrätern keinen Zentimeter mehr überlassen!"
+
+amcivwar.701.t:0 "Evakuierung der Rocky Mountains"
+amcivwar.701.d:0 "Die Bundesstaaten Arizona, New Mexico, Idaho und Utah gelten seit langem als das wahre Kernland Amerikas, ein Ort, den Invasoren selten erreichen würden. Daher gab es in der Gegend nur wenige Militärstützpunkte oder Kommandos und nur wenige Depots oder Stützpunkte, die evakuiert werden mussten. In Nevada hat das Hawthorne Army Depot leider den Befehl abgelehnt, Material nach Osten zu bewegen. Die Bundesstaaten New Mexico und Arizona waren jedoch unterschiedlich. Hier blieben die Forts Yuma und Huachaca, die im letzten Jahrhundert zum Schutz vor indischen Überfällen und mexikanischen Banditen erbaut wurden, stark. Glücklicherweise blieben sie auch loyal, und die Soldaten und Männer dort transportieren so schnell wie möglich nach Norden und Osten. Die Bürger dieser Staaten befolgen vorsichtig die Anweisungen der Gouverneure, dort zu bleiben, wo sie sind, bis eine regionale Entscheidung getroffen wird. "
+amcivwar.701.a:0 "Vielleicht zeigen sich jetzt, wo die Föderalen weg sind, die Navajo wieder."
+
+amcivwar.702.t:0 "Evakuierung der Northern Great Plains"
+amcivwar.702.d:0 "Wie der Rest des alten Westens wurden während der letzten Indianerkriege die einzigen Militärbasen im Norden der Great Plains errichtet, um die Region endgültig zu befrieden. Fort Russel in Wyoming, Fort Missoula in Montana und Camp Grafton in North Dakota sind heute ziemlich schlecht ausgerüstete Stützpunkte, da sie seit den 1880er Jahren weder eine Schlacht noch ein Gefecht geführt haben. Der Mangel an feindlichen zivilen Aktivitäten hat die Evakuierung relativ reibungslos gemacht, und die Truppen haben sich nach Süden nach Colorado und Missouri zurückgezogen. "
+amcivwar.702.a:0 "Lasst die Kanadier auf die Grenzen aufpassen, wir gehen in den Osten"
+
+amcivwar.703.t:0 "Der Rückzug aus Denver"
+amcivwar.703.d:0 "Die Central Plains, insbesondere Denver, sind zu einem Sammelpunkt für Truppen und Milizsoldaten in den Plains und im Westen geworden, die zusammenkommen, um die Aufstände zu organisieren, auszubilden und zu bekämpfen. Da der Präsident beschlossen hat, die Plains aufzugeben, bis er Chicago einnehmen kann und Baton Rouge, diese Truppen wurden aus Denver nach Osten nach Missouri geschickt, um die loyalistischen Milizen zu treffen, die bereits auf St. Louis zusammenkommen. Der Gouverneur von Colorado hat unsere Truppen gebeten, zu bleiben und seinen Staat vor den radikalen Rebellen zu schützen, aber sie hatten ihre Befehle. "
+amcivwar.703.a:0 "Erklärt den Rückzug."
+
+amcivwar.704.t:0 "Überquerung des Mississippi"
+amcivwar.704.d:0 "Als unsere Truppen in Missouri ankamen, begannen endlich Probleme unsere Soldaten zu treffen. Gouverneur Stark von Missouri, ein Maschinenpolitiker aus Pendergast, ist ein Bewunderer von Gouverneur Long und ein Verbündeter der AFP. Er weigerte sich, unseren Männern zu erlauben, den Missisippi zu überqueren, ohne die Papiere jeder Einheit von Washington per Telegramm zu überprüfen. Unsere Männer scheinen es etwas satt zu haben und stürmten über die Brücke in Kairo nach Kentucky. Leider konnte die Brücke nur so viele Menschen aufnehmen, und die Brücke stürzte bald ein, so dass Tausende von Männern auf der anderen Seite gestrandet waren. Fähren wurden bald organisiert, um sie herüberzubringen, aber die ersten Schüsse der Opposition gegen die Armee wurden als die letzten unserer Männer angesehen, die St. Louis verließen, als AFP-Milizsoldaten auf unsere sich zurückziehenden Truppen schossen. "
+amcivwar.704.a:0 "Flieht um euer Leben!"
+
+amcivwar.705.t:0 "Westliche Gouverneure setzen sich in die PSA ab"
+amcivwar.705.d:0 "Als sich Bundestruppen aus dem Gebiet der Rocky Mountains zurückzogen, gab es zunächst gespaltene Reaktionen. Der Gouverneur von Nevada, Richard Kirman, Sr., lehnte es ab, Bundestruppen die Evakuierung oder Aufgabe ihrer Ausrüstung zu gestatten, aber die Gouverneure von Arizona, Idaho und Utah waren eher bereit, den Präsidenten aufzunehmen. Eine kürzlich abgehaltene Regionalkonferenz der vier Gouverneure in Salt Lake City hat jedoch dazu geführt, dass sie beschlossen haben, sich beim Schutz und der Unterstützung gemeinsam auf die provisorische Regierung in Kalifornien zu verlassen. Anscheinend wurden die meisten von ihnen durch ihre klare Aufgabe durch die Regierung von Washington dazu geführt. Sie haben MacArthurs Übernahme pro forma angeprangert und die Regierung von Sacramento hat bereits eigene Soldaten und Flieger entsandt, um die verlassenen Stützpunkte im Westen zu besetzen. "
+amcivwar.705.a:0 "Das wahre Amerika wird stärker!"
+amcivwar.705.b:0 "Pragmatische Verräter bleiben Verräter."
+
+amcivwar.706.t:0 "New Mexico fällt an die Regierung von Huey Long"
+amcivwar.706.d:0 "Als Bundessoldaten und Marines Arizona und New Mexico verließen, nahmen sie die meisten Milizsoldaten und Nationalgardisten mit und versprachen, sie bis Ende des Jahres über New Orleans in ihre Häuser zurückzubringen. Unglücklicherweise für die Regierung von MacArthur ließ das Entfernen von New Mexico von Verteidigern es offen für Übernahmen aus der Nähe. Huey Longs treue Minutemen und Nationalgarde dampften den Pecos und rasten die Straßen nach Albuquerque und Santa Fe entlang. Sie eroberten den größten Teil von New Mexico, bevor die Polizei wusste, was los war. Bald gab der progressive Gouverneur Tingley den Staat per Funk auf, bevor er nach Westen zur PSA floh und den größten Teil der Staatsverwaltung mitnahm. "
+amcivwar.706.a:0 "Vielen Dank, Texaner!"
+amcivwar.706.b:0 "Die Nation gerät weiter ins Chaos."
+
+amcivwar.707.t:0 "Sozialistische Streitkräfte erobern Minnesota"
+amcivwar.707.d:0 "Als die Bundeskräfte Minnesota verließen, erkannte Floyd Olsons alter Freund, Gouverneur Peterson, dass sein Staat auseinandergerissen werden würde, wenn er sich nicht Jack Reeds Chicagoer Regime ergab. Während es einige Proteste gab, half die Tatsache, dass der Staat kurz davor war, Reed bei den 36er-Wahlen zu wählen, die Bevölkerung von Minnesota dazu zu bewegen, ihrem Gouverneur in die Arme der Sozialisten zu folgen. "
+amcivwar.707.a:0 "Es war unvermeidlich."
+amcivwar.707.b:0 "Sie sollen verdammt sein!"
+
+amcivwar.708.t:0 "Iowa kapituliert"
+amcivwar.708.d:0 "Zu den streikenden Arbeitern in Des Moines und Ceder Rapids gesellte sich heute die neu angekommene Miliz von Reeds jetzt offen erklärter CSA. Polizeibeamte, die versuchten, das Iowa State Capitol zu verteidigen, wurden von der Menge massakriert, als die Arbeiter in den Sitz der Legislative eindrangen. Gouverneur Kraschel, der wahrscheinlich sieht, in welche Richtung die Flut fließt, hat beschlossen, seinen Staat als neuen Staat der CSA der Regierung von Chicago zu übergeben. "
+amcivwar.708.a:0 "Die Revolution muss manchmal mit Gewalt gebracht werden."
+amcivwar.708.b:0 "Schrecklich!"
+
+amcivwar.709.t:0 "Die Besetzung der nördlichen Rocky Mountains"
+amcivwar.709.d:0 "Soldaten und Milizsoldaten der westlichen Provisorischen Regierung haben es endlich durch eine kleine Opposition über die Rocky Mountains geschafft, und heute fielen Cheyenne und Helena beide der Regierung von Sacramento zu. Die Ansichten über die Besatzung in Wyoming und Montana sind gemischt, und viele Menschen aus den Städten sind zu ihren Freunden oder Verwandten auf dem Land geflohen. Trotzdem gibt es genug neue Rekruten aus den nördlichen Rocky Mountains, um die kalifornischen Divisionen wieder aufzufüllen, die jetzt in Richtung Dakota rennen, um Bismarck zu erobern, bevor der CSA dies kann. "
+amcivwar.709.a:0 "Bald sind wir in Bismarck!"
+amcivwar.709.b:0 "Sollen sie die Berge behalten, wenn sie wollen."
+
+amcivwar.710.t.CSA:0 "Die Eroberung von North und South Dakota"
+amcivwar.710.t.PSA:0 "Die Schlacht um Bismarck"
+amcivwar.710.d.CSA:0 "Während westliche Milizen gehofft hatten, ihr Rennen in Richtung Mittlerer Westen und die Großen Seen fortzusetzen, scheinen sich die Milizen und Soldaten der Kombinierten Syndikate endlich genug organisiert zu haben, um sowohl Pierre als auch Bismarck methodisch zu umkreisen und beide Städte zur Kapitulation zu zwingen. Die kalifornischen Streitkräfte wurden vom Highway 5 an der Grenze zwischen South Dakota und Wyoming zurückgeschlagen, und es scheint, dass das Rennen um die Eroberung des Westens vorbei ist. Jetzt wird es härtere Kämpfe zwischen den Sozialisten und der provisorischen Regierung geben. "
+amcivwar.710.d.PSA:0 "Während General Butler nun genug Kontrolle innerhalb der CSA übernommen hat, um eine echte Kampagne in Nord- und Süddakota zu organisieren, kamen westliche Truppen schnell genug in Bismarck an, um eine vollständige Einkreisung zu verhindern. Der unabhängige Gouverneur von North Dakota, William Langer, der früher mit Gouverneur Long in Verbindung stand, unterstützte die westlichen Truppen in ihrem Kampf um die Vertreibung sozialistischer Soldaten aus dem Staat. Diese Koalition war mächtig genug, um die westliche Offensive von General Butler vorerst zu stoppen. "
+amcivwar.710.a:0 "Gut gemacht, Jungs!"
+amcivwar.710.b:0 "Wir kehren bald zurück!"
+amcivwar.710.c:0 "Die Schlacht war es wert."
+amcivwar.710.d:0 "Wir kommen wieder!"
+amcivwar.710.e:0 "Verstörende Neuigkeiten."
+
+amcivwar.711.t.PSA:0 "Die Denver Resolution für Demokratie"
+amcivwar.711.t.TEX:0 "Die Denver Resolution entscheidet sich für Long"
+amcivwar.711.d.PSA:0 "Nach dem Abzug der Bundestruppen aus den unteren Ebenen forderte der republikanische Gouverneur Carr von Colorado ein Treffen der Gouverneure von Kansas, Colorado und Nebraska in Denver. Während die Gouverneure von Colorado und Nebraska aus Establishment-Parteien stammten, war Gouverneur Ketchum von Kansas AFP-Mitglied. Dies ermöglichte eine größere Flexibilität bei der Wahl ihrer Seite in dem nationalen Konflikt, der rasch in den Krieg versinkt. Nach einigen angespannten Tagen entschieden die Gouverneure schließlich, dass die einzige Seite, die wirklich an der Wahrung der Verfassung interessiert war, die provisorische Regierung des Pazifiks war, und ihre drei Staaten haben pazifische Truppen eingeladen, um den Frieden zu wahren. "
+amcivwar.711.d.TEX:0 "Nach dem Abzug der Bundestruppen aus den unteren Ebenen forderte der republikanische Gouverneur Carr von Colorado ein Treffen der Gouverneure von Kansas, Colorado und Nebraska in Denver. Während die Gouverneure von Colorado und Nebraska aus Establishment-Parteien stammten, war Gouverneur Ketchum von Kansas AFP-Mitglied. Dies ermöglichte eine größere Flexibilität bei der Wahl ihrer Seite in dem nationalen Konflikt, der rasch in den Krieg versinkt. Nach einigen angespannten Tagen entschieden die Gouverneure schließlich, dass die einzige Seite, die wirklich daran interessiert war, dem amerikanischen Volk zu helfen, die Regierung von Huey Long in Louisiana war, und die drei Staaten haben die Minutemen sowie die sich entwickelnde Armee, die Präsident Long treu ergeben hat, eingeladen. den Frieden in den Staaten zu halten."
+amcivwar.711.a:0 "Ihr seid alle wahre Patrioten!"
+amcivwar.711.b:0 "Erbärmliche Entscheidung.."
+amcivwar.711.c:0 "Es geht zum Atlantik!"
+amcivwar.711.d:0 "Wir müssen unsere Front sowieso verstärken.."
+amcivwar.711.e:0 "Erbärmliche Entscheidung"
+
+amcivwar.712.t:0 "Die Schlucht um die Eads Bridge"
+amcivwar.712.d.CSA:0 "Obwohl die Bundestruppen Missouri vor einigen Tagen verlassen hatten, hatte Gouverneur Stark noch keine rivalisierende Regierung erklärt. Um die bestmögliche Position im Mittleren Westen zu erreichen, hat General Butler Milizen entsandt, um St. Louis von Illinois aus über den Missouri zu belagern. Sie begegneten der Nationalgarde von Gouverneur Stark an der Eads Bridge an der Grenze und es kam zu Scharmützeln, als Milizen auf beiden Seiten erfolglos versuchten, den Fluss um die Brücken herum zu überqueren. Schließlich gelang es der sozialistischen Miliz, die Verteidigungsanlagen um die Brücken zu durchbrechen und in das streikende St. Louis einzudringen, wo eine „Volksregierung“ eingesetzt wurde. Gouverneur Stark ist nach Süden nach New Orleans geflohen, aber Missouri ist in den Händen des SPA. "
+amcivwar.712.d.TEX:0 "Obwohl die Bundestruppen Missouri vor einigen Tagen verlassen haben, hatte Gouverneur Stark noch keine rivalisierende Regierung angekündigt. Um eine möglichst günstige Position im Mittleren Westen zu erreichen, hat General Butler Milizen entsandt, um St. Louis von Illinois über Missouri zu belagern." Sie begegneten der Nationalgarde von Gouverneur Stark an der Eads Bridge an der Grenze und es kam zu Scharmützeln, als Milizen auf beiden Seiten erfolglos versuchten, den Fluss um die Brücken herum zu überqueren. Schließlich kam eine Schurkengruppe von Illinois Minutemen aus dem Norden und begann, die anzugreifen CSA-Streitkräfte von hinten, die es der Nationalgarde von Gouverneur Stark ermöglichten, vorwärts zu drängen und die CSA-Miliz zur Kapitulation zu zwingen. Gouverneur Stark hat jetzt Huey Long zum legitimen Präsidenten erklärt, und die Streitkräfte der Union sind in den Staat eingetreten, um die Grenzen zu schützen. "
+amcivwar.712.a:0 "Die Revolution wird stärker!!"
+amcivwar.712.b:0 "Verdammt seien Verräter!"
+amcivwar.712.c:0 "Der Fluss hat sie Abgewehrt."
+amcivwar.712.d:0 "Diebe, Kriminelle, Verräter!"
+amcivwar.712.e:0 "Sollen sie verdammt sein!"
+
+amcivwar.713.t:0 "Verstärkungen erreichen den Osten"
+amcivwar.713.d:0 "Obwohl der Westen möglicherweise noch schneller von Rebellen aufgegriffen wurde, als MacArthur dachte, ist der Osten jetzt sicherer, da Zehntausende von Bundestruppen in Virginia eingetroffen sind und noch mehr Freiwillige aus dem Westen zur Armee eilen aus dem Osten. Unsere Armee wird stärker. "
+amcivwar.713.a:0 "Patrioten, an die Waffen!"
+
+amcivwar.714.t.USA:0 "Föderalistischer Sieg in Tennessee"
+amcivwar.714.t.TEX:0 "Longistischer Sieg in Tennessee"
+amcivwar.714.d.USA:0 "Heute, um 8:45 Uhr, griffen longistische Milizen die Bundesverteidigung in Nashville an, aber sie waren einer professionellen, organisierten Armee nicht gewachsen. Die Bundeskräfte konnten sie mit Leichtigkeit abwehren und lokale Partisanen im Staat jagen. Mit diesem Sieg ist MacArthurs Kontrolle über Tennessee vorerst unbestritten. "
+amcivwar.714.d.TEX:0 "Heute, um 8:45 Uhr, griffen longistische Milizen die Bundesverteidigung in Nashville an, während sie sich noch von ihrem Rückzug nach Osten reorganisierten. Desorganisierte Nationalgardisten und die wenigen anwesenden Armeeeinheiten wurden schnell umzingelt und zur Kapitulation gezwungen, und bald hatte die Stadt Nashville dies getan." Übergab sich den Streitkräften von Präsident Long. Im ganzen Staat sicherten lokale Minutemen und Longist-Sympathisanten das Land und die meisten Städte, und die meisten waren sich einig, dass Huey Longs Kontrolle über Tennessee unbestritten ist. "
+amcivwar.714.a:0 "Leichter als erwartet."
+amcivwar.714.b:0 "Wie konnte das passieren?"
+amcivwar.714.c:0 "Ein Beispiel für die Inkompetenz der korrupten Föderalen"
+amcivwar.714.d:0 "Wir nehmen es an uns - früher oder später."
+amcivwar.714.e:0 "Keine unserer Angelegenheiten"
+
+amcivwar.715.t.CSA:0 "Föderalisten in Kentucky"
+amcivwar.715.t.TEX:0 "Föderalisten in Kentucky"
+amcivwar.715.d.CSA:0 "Nach dem Verlust von Tennessee wurde Kentucky für die Bundeskräfte nicht mehr zu rechtfertigen. Daher hat General MacArthur beschlossen, sich nach Osten zurückzuziehen und den Staat zu verlassen, in der Hoffnung, ihn so bald wie möglich zurückzuerobern. Derzeit kann der Kongress nur zusehen, wie die Milizen der Longisten und Syndikalisten über die Streitkräfte berichteten Straßen von Louisville und Frankfurt im Blut, ein Blutbad, das sich bald den Syndikalisten zuwandte. Ihre Miliz schaffte es, Frankfurt nach dem Fall von Louisville zu umzingeln und eroberte bald den Rest des Staates. "
+amcivwar.715.d.TEX:0 "Nach dem Verlust von Tennessee wurde Kentucky für die Bundeskräfte nicht mehr zu rechtfertigen. Daher hat General MacArthur beschlossen, sich nach Osten zurückzuziehen und den Staat zu verlassen, in der Hoffnung, ihn so bald wie möglich zurückzuerobern. Im Moment scheinen Longs Streitkräfte die Milizen der Syndikalisten vertrieben zu haben und Soldaten aus Kentucky endeten nach einigen kurzen Kämpfen in Louisville mit der Zerstörung der Brücken über Ohio und der Flucht von Reeds Miliz. "
+amcivwar.715.a:0 "Wir haben den Mann aus Louisiana aus Louisville geworfen!"
+amcivwar.715.b:0 "Wir sind bald wieder auf der anderen Seite des Flusses."
+amcivwar.715.c:0 "Ein großartiger Sieg"
+amcivwar.715.d:0 "Wie konnten wir das vermasseln?"
+amcivwar.715.e:0 "Jetzt bleibt nurnoch abwarten übrig..."
+amcivwar.715.f:0 "Bedauerlich."
+
+amcivwar.716.t.USA:0 "Longistische Streitkräfte aus North Carolina verwehrt"
+amcivwar.716.d.USA:0 "Da die meisten longistischen Streitkräfte im Westen vorrückten, war es überhaupt nicht schwierig, North Carolina zu halten. Die föderalistischen Kräfte haben die wenigen longistischen Milizen, die Charlotte angegriffen haben, leicht abgewehrt, und es kann angenommen werden, dass es auch in South Carolina wahrscheinlich nur wenige longistische Verteidigungen gibt. "
+amcivwar.716.t.TEX:0 "North Carolina fällt an die New Orleans'sche Regierung"
+amcivwar.716.d.TEX:0 "Obwohl viele longistische Ressourcen nach Westen umgeleitet worden waren, verfügte die Regierung von New Orleans eindeutig über genügend Milizen, um die Stadt Charlotte in North Carolina zu umzingeln und nach beif Straßenkämpfen zu erobern. Im gesamten Bundesstaat gehorchte die nordkarolinische Miliz dem Befehl ihres neuen Marionettengouverneurs, sich den Streitkräften von Huey Long zu ergeben. "
+amcivwar.716.a:0 "Nicht unerwartet."
+amcivwar.716.b:0 "Verdammt!"
+amcivwar.716.c:0 "Wir sind in eine Falle getappt!"
+amcivwar.716.d:0 "Die Front um Virginia bereitmachen!"
+amcivwar.716.e:0 "Die Longisten wurden abgewehrt."
+amcivwar.716.f:0 "Die föderalistische Regierung bröckelt."
+
+amcivwar.717.t.USA:0 "Die Eroberung von Charleston"
+amcivwar.717.t.TEX:0 "Föderalistische Infiltration in South Carolina abgeschlagen"
+amcivwar.717.d.USA:0 "Unter der Annahme, dass die Longist-Truppen immer noch unorganisiert waren und einen entschlossenen Angriff nicht abwehren konnten, haben USMC-Truppen, die aus Arizona entsandt wurden, in Zusammenarbeit mit der örtlichen Miliz einen erfolgreichen Seeangriff auf Charleston durchgeführt. Die Nationalgarde von Präsident Long in der Stadt war durch widersprüchliche Berichte verwirrt und bald überwältigt und ergab sich schließlich nach einem kurzen Kampf. Präsident MacArthurs Umzug wird in Washington als militärischer Genie begrüßt, während Berichte aus Sacramento und New Orleans den Umzug als offenen Angriff auf die Menschen in den Vereinigten Staaten erklärt haben. "
+amcivwar.717.d.TEX:0 "General MacArthur ging fälschlicherweise davon aus, dass die longistischen Truppen noch zu unorganisiert waren, um Charleston zu verteidigen, und startete einen kombinierten Angriff der Marine und der Partisanen auf Charleston. Leider wurden USMC-Landungsboote in ihren provisorischen Booten vom Kurs abgekommen, bevor sie von Longist-Kreuzern im Hafen von Charleston beschossen wurden, während Partisanen in der Stadt unterdrückt und gezwungen wurden, sich ohne neue Vorräte wieder zu verstecken. South Carolina ist jetzt noch fester in den Händen der Regierung von Huey Long. "
+amcivwar.717.a:0 "General MacArthur hat es geschafft!"
+amcivwar.717.b:0 "Es war sowieso ein langer Schuss."
+amcivwar.717.c:0 "Ein natürlicher Sieg."
+amcivwar.717.d:0 "Wir kommen wieder!"
+amcivwar.717.e:0 "Krieg ist für alle schlimm."
+
+amcivwar.718.t:0 "Die Belagerung von New York City"
+amcivwar.718.d:0 "Es scheint, dass ausländische Agitatoren in Amerika bereits aktiv waren, da französische und britische Provokateure und Agenten die ärmeren Bezirke von New York City zur Revolution angeregt haben. Viele Geschäftsleute, die nicht entkommen konnten, wurden gelyncht, aber die Mob-Gewalt wurde durch die Ankunft ausgebildeter ziviler und militärischer Organisatoren aus Großbritannien und Frankreich gelindert. Die Nationalgarde hat die Stadt in einer losen Belagerung von Newark bis Yonkers umzingelt, um zu verhindern, dass sozialistische Milizen die Stadt betreten oder verlassen, aber noch keinen Angriff auf Manhattan versuchen. "
+amcivwar.718.a:0 "Haltet die Häfen offen!"
+amcivwar.718.b:0 "Wir können warten"
+amcivwar.718.c:0 "Ein tragisches Schicksal für so eine großartige Stadt."
+
+amcivwar.719.t:0 "Schlag bei Philadelphia"
+amcivwar.719.d:0 "General MacArthur wusste wie Lee und Howe vor ihm, dass Philadelphia der Schlüssel zum Mittelatlantik war. Komponenten der 3. Infanterie marschierten Anfang dieser Woche über West Chester nach Pennsylvania ein. In Abstimmung mit anderen in Camden versammelten Regimentern und in Havertown versammelten Nationalgardisten begannen sie einen Angriff auf die Innenstadt von Philadelphia und gelangten erfolgreich über die Flüsse Schuylkill und Delaware Ein Versuch, das Bundesgericht und das Frankford Arsenal zu erobern, bevor sich der lokale Straßenwiderstand versammeln könnte, um sie aufzuhalten. Die Operation war bemerkenswert erfolgreich, aber bald war ein sozialistischer Gegenangriff zu spüren, als es den Bundestruppen gelang, die Stadt zu erobern und auf der Ship-to-Shore-Autobahn nach Nordwesten voranzukommen. Es begann ein heftiger Kampf zwischen den Streitkräften von General Butler aus Allentown und General Bowley aus Philadelphia in der Nähe von Lansdale. Es wurde versucht, das Gebiet der Zivilbevölkerung zu räumen, aber bald waren Tausende tot, nachdem Artillerie-Streiks begonnen hatten, und es wurde klar, dass die Rückeroberung von Pennsylvania nicht einfach sein würde.\n\nAlle Splitterfraktionen in der zersplitterten und zerbrochenen Nation haben es getan Angesichts ihrer Chance, offensive Operationen gegen alle konkurrierenden Regierungen zu starten, und von Minnesota bis North Carolina, von New York City bis New Mexico, haben Scharmützel und Unruhen endlich zu Schlachten eskaliert. Allen ist klar, dass der zweite amerikanische Bürgerkrieg begonnen hat. "
+amcivwar.719.a:0 "Wir müssen New York so bald wie möglich erreichen! Auf zur Schlacht!"
+amcivwar.719.b:0 "Jetzt oder nie! Krieg - für Amerika!"
+amcivwar.719.c:0 "Wir müssen zuschlagen! Zu den Waffen!"
+
+amcivwar.720.t:0 "General MacArthur macht gegen New England mobil"
+amcivwar.720.d:0 "Obwohl die britische Krone zuvor die Intervention in Amerika abgelehnt hatte, haben die Gouverneure von Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, New York und Connecticut ihren Antrag auf Schutz nach einem Ultimatum von Präsident MacArthur an die Gouverneure von New Englander, Federalist zuzulassen, erneuert Truppen in ihre Staaten einmarschieren, um die syndikalistischen Rebellen im Norden zu bekämpfen. Obwohl die Unterstützung der Bundesregierung unser ursprünglicher Plan war, ist es möglich, dass die Regierung von MacArthur nicht so stabil ist, wie wir dachten. Sollten wir ein Gegen-Ultimatum stellen? "
+amcivwar.720.a:0 "MacArthur kann tun was er will."
+amcivwar.720.b:0 "Wir müssen New England schützen!"
+
+amcivwar.721.t:0 "Kanada besetzt New England"
+amcivwar.721.d:0 "In Bezug auf Neuigkeiten von der Nordfront! Kanada eroberte und besetzte Neuengland, während sich die föderalistischen Kräfte nach ihrem Rückzug nach Osten noch neu organisierten. Dies ist kein überraschender Schritt, wenn man bedenkt, dass die Gouverneure von New England Kanada darum gebeten haben, aber ohne New England ist die föderalistische Position stark geschwächt. "
+amcivwar.721.a:0 "Für den Moment müssen wir uns auf die Verräter konzentrieren."
+amcivwar.721.b:0 "Sobald der Krieg rum ist, holen wir uns unser Land zurück!"
+
+amcivwar.722.t:0 "Die Newark Route"
+amcivwar.722.d:0 "Nach dem Verlust von New England wurden auch föderalistische Kräfte aus New Jersey zurückgeschlagen. Syndikalistische Rebellen aus New York brachen die Belagerung und überrannten die Streitkräfte von General MacArthur in Newark und erhielten die Verstärkung von General Smedley Butler aus Pennsylvania, das dann die östliche Hälfte dieses Staates besetzte. General MacArthur hatte jedoch auch Verstärkung nach New Jersey geschickt, und als sie versuchten, den Delaware zu überqueren, stießen sie in Camden auf heftigen sozialistischen Widerstand. Die beiden Seiten nahmen schnell Positionen unter dem Kommando eines Leutnants Daniel Daly ein und begannen ein großangelegtes Feuergefecht. Als weitere Verstärkungen in das Gebiet eindrangen, hat sich ein kleiner Grenzkonflikt schließlich zu einer ausgewachsenen Schlacht entwickelt.\N\nAll Die zersplitterte und zerbrochene Nation, die Splitterfraktionen, haben ihre Chance gesehen, offensive Operationen gegen alle konkurrierenden Regierungen zu starten, und von Minnesota bis North Carolina, von New York City bis New Mexico haben Scharmützel und Unruhen endlich zu Schlachten eskaliert. Allen ist klar, dass der zweite amerikanische Bürgerkrieg begonnen hat. "
+amcivwar.722.a:0 "Wir können unseren Vorteil nicht verlieren! In den Krieg!"
+amcivwar.722.b:0 "'Wollt ihr Hurensöhne auf ewig leben?!'"
+amcivwar.722.c:0 "Wir müssen zuschlagen! Zu den Waffen!"
+
+amcivwar.723.t:0 "New England unterwirft sich MacArthur"
+amcivwar.723.d:0 "Wir haben die Nachricht erhalten, dass die Gouverneure von New England Kanada um Schutz gebeten haben, aber die Regierung in Ottawa lehnte ab. Ohne kanadischen Schutz baten die Gouverneure General MacArthur um Schutz vor den syndikalistischen Kräften. Obwohl die Staaten möglicherweise nicht ganz hinter MacArthur stehen, sind sie zumindest entschlossen, ihn als ihre beste Chance zur Vermeidung eines Krieges zu sehen. "
+amcivwar.723.a:0 "Nachdem New England gesichert ist, können wir uns jetzt darauf konzentrieren, New York zu belagern."
+amcivwar.723.b:0 "Das ist nicht gut"
+amcivwar.723.c:0 "Verdammt."
+
+amcivwar.724.t:0 "CSA Partisanen in Buffalo"
+amcivwar.724.d.macarthur:0 "Obwohl die Truppen von Präsident MacArthur den Gehorsam und die Loyalität von Gouverneur Lehman von New York in Albany erzwungen haben, scheint es, dass noch mehr Teile des Staates als New York City seiner Kontrolle entgangen sind. Zu den verbliebenen Streikenden des meist veralteten Neujahrsstreiks in Rochester und Buffalo gesellten sich Partisanen der Reed-Regierung in Chicago, die sich zusammengeschlossen haben, um die Stadtregierung zu stürzen und CSA-Soldaten zum Schutz des Staates einzuladen. General Butler erkannte die Gelegenheit, New York näher zu kommen, und befahl einen Vormarsch bis zur Quelle der Susquehanna und zu den Niagarafällen. "
+amcivwar.724.d.canada:0 "Obwohl die britisch-kanadische Regierung die Bitte des Gouverneurs von New York akzeptiert hat, die Neutralität seines Staates zu gewährleisten, sind im westlichen Teil des Staates britisch-kanadische Truppen zu langsam eingetroffen, um die Soldaten von CSA General Butler daran zu hindern, in die Städte Buffalo und Rochester vorzudringen Dort treffen sie sich mit Partisanen von Präsident Reed und ziehen von der Mündung der Susquehanna zu den Niagarafällen zu einer verteidigungsfähigen Linie. Die CSA hat eine eigene Landesregierung in Buffalo eingerichtet, und es scheint, dass der Staat bis zur CSA oder gespalten bleiben wird Kanada siebt den Rest im Krieg. "
+amcivwar.724.a:0 "Super!"
+amcivwar.724.b:0 "Immerhin umgeben wir immernoch New York City."
+amcivwar.724.c:0 "Schrecklich."
+
+amcivwar.725.t:0 "Longistischer Aufstand in New Jersey unterdrückt"
+amcivwar.725.d:0 "Selbst mit der Flucht von Charles Lindbergh nach New Orleans war ein Versuch der Longisten, Newark und die nördliche Küste von Jersey als Stützpunkt zu nutzen, bis Verstärkungen aus dem Süden eintrafen, immer noch stark genug, um Bundestruppen von der Belagerung New Yorks abzulenken Nieder. Trotzdem war es so, und obwohl der Widerstand in den Straßen von Newark heftig war, haben MacArthurs Männer die Kontrolle wiedererlangt. Diese Truppen sind jetzt nach Yonkers und Philadelphia zurückgekehrt, und organisierte Offensiven in rebellischen Staaten sind geplant. "
+amcivwar.725.a:0 "Wir haben getan, was getan werden musste."
+amcivwar.725.b:0 "Wir werden uns bald rächen"
+amcivwar.725.c:0 "Wir werden die Tyrannen zerquetschen!"
+
+amcivwar.750.t:0 "Kongress bewegt sich nach Denver"
+amcivwar.750.d:0 "Die Evakuierung der Ostküste begann gestern, als General MacArthur, das Kabinett, der vorübergehende Sprecher des Hauses, und viele Kongressabgeordnete Flugzeuge nach Denver, der vorübergehenden Hauptstadt der Vereinigten Staaten, bestiegen. Viele junge Regierungsmitglieder, die vorerst zurückgelassen wurden, sind sich nicht sicher, wie sie auf die Situation reagieren sollen. Einige brennen vertrauliche Dokumente von Regierungsministerien und sogar der Library of Congress, aus der die ursprüngliche Verfassung nach Denver ausgeflogen wurde. Demonstranten auf der Straße werden immer noch von der örtlichen Polizei unterdrückt, aber die meisten Nationalgarden und Armeen sind in Züge in Richtung Westen eingestiegen. Heute Morgen sprach General MacArthur in einer geheimen gemeinsamen Sitzung vor dem Rumpfkongress und skizzierte seinen Plan zur Unterdrückung ziviler Unruhen im Westen, bevor er Reed und Long im Osten besiegte. "
+amcivwar.750.a:0 "Ich werde zurückkehren!"
+
+amcivwar.751.t:0 "Der lange Weg in den Westen"
+amcivwar.751.d:0 "General MacArthur hat seine Entscheidung getroffen, den alten Machtsitz an der Ostküste aufzugeben, und das bedeutet, alles nach Denver zu verlegen - alle Streitkräfte, alle Munition, alles, was über Land bewegt werden kann. Wir können nur hoffen, dass alles nach dem geheimen Plan von General MacArthur verläuft und dass die Verräter im Norden und Süden unsere Truppen nicht angreifen, wenn wir uns nach Westen zurückziehen. "
+amcivwar.751.a:0 "Jetzt gibt es kein zurück mehr."
+
+amcivwar.752.t:0 "Erhöhte Zusammenstöße der Nationalgarde"
+amcivwar.752.d.USA:0 "Amerikas Einheit bricht schnell zusammen, als Präsident MacArthur sich im Westen wieder festigt. Einerseits breiten sich die Unruhen in den Regionen Mittelatlantik und Appalachen ohne föderale Opposition aus, und es scheint, dass der Osten den Rebellen zum Opfer fallen könnte, bevor wir den Dissens im Westen niederschlagen können. Auf der anderen Seite scheint es jedoch so zu sein, dass die zunehmenden Unruhen an der Ostküste unsere Umschichtung nach Westen verschleiern, und regierungsfeindliche Zeitungen haben es nicht aufgegriffen. Noch besser, die rebellischen Fraktionen im Westen und in den Ebenen stehen vor ihren eigenen interne Störungen, da Streikende in Oregon und Washington mit Nationalgardisten kollidieren, von denen einige Denver treu bleiben, während andere ihren Gouverneuren folgen, um Sacramentos Rebellion anzuerkennen, und texanische loyalistische Milizen in San Antonio versammeln. "
+amcivwar.752.d.TEX:0 "Amerikas Einheit bricht schnell zusammen, da die Diktatur von General MacArthur immer mehr Bürger entfremdet. Wir haben im Osten eine großartige Gelegenheit, Tennessee, Kentucky und Virginia von der schwindelerregenden Bundesregierung zu nehmen, und General Patton empfiehlt dort einen aggressiven Vorstoß. Leider scheint sich der föderalistische Widerstand in Texas und Oklahoma zu verstärken, so dass ein Vormarsch nach Osten uns dort einem Angriff im Westen aussetzen könnte. "
+amcivwar.752.d.PSA:0 "Amerikas Einheit bricht schnell zusammen, da die Diktatur von General MacArthur immer mehr Bürger entfremdet. Wir scheinen das erste Ziel von General MacArthurs Armeen zu sein, die sich jetzt in den Great Plains versammeln, und es gibt bereits Widerstand der Bevölkerung gegen die Entscheidung unserer Gouverneure, sich Sacramento anzuschließen in Oregon und Washington. Einige Staatsvertreter der pazifischen Staaten bedauern Berichten zufolge unsere Entscheidung, auch eine rivalisierende Regierung zu erklären. Unsere Gewerkschaft ist einer großen Bedrohung ausgesetzt. "
+amcivwar.752.d.CSA:0 "Amerikas Einheit bricht schnell zusammen, da die Volksbewegungen versuchen, ihre Unterdrücker in Washington, Denver, Sacramento und New Orleans zu stürzen. Die Bundesarmee scheint im Osten keine offensiven Schritte gegen die Streikenden zu unternehmen, aber es ist schwer zu bestimmen Der genaue Überfall General Smedley Butler empfiehlt einen Streik, um die alte Hauptstadt und Virginia zu sichern, bevor er New England und Kentucky einnimmt. Diese Preise gelten als wertvollere Preise als der Mittlere Westen und als die bedrohlichsten, sollte der Diktator Long ergreifen Sie."
+amcivwar.752.a:0 "Vielleicht mal gute Neuigkeiten?"
+amcivwar.752.b:0 "Wir müssen zuerst in den Nord-Osten ausrücken."
+amcivwar.752.c:0 "Verräter der Demokratie in unseren Reihen!"
+amcivwar.752.d:0 "Wir müssen nach D.C.!"
+
+amcivwar.753.t:0 "Durch Chattanooga"
+amcivwar.753.d:0 "Die Bundesdivisionen mussten mit dem Zug durch die Stadt Chattanooga, Tennessee, fahren, um Denver zu erreichen. Obwohl die Stadt direkt an der Grenze zu Mississippi liegt, die derzeit vom südlichen Verräter kontrolliert wird, erreichten unsere Truppen Missouri, ohne einen einzigen Schuss abfeuern zu müssen. Dies war möglich, weil der Generalstab der Longisten einen Angriff auf North Carolina vorbereitete und ihn als schwächeren Bereich ansah, dessen Sicherung wertvoller wäre. Auf diese Weise reisten unsere Streitkräfte nach Westen, ohne einen einzigen Verlust zu erleiden. "
+amcivwar.753.a:0 "Alles läuft nach Plan."
+
+amcivwar.754.t:0 "Föderalistische Milizen erobern Südtexas"
+amcivwar.754.d:0 "Während der Bundesstaat Texas Huey Long seine Treue erklärt hat, waren die der Bundesregierung gegenüber loyalen Kräfte in heißem Kampf um die Kontrolle und haben es bisher geschafft, in den südlichen Regionen des Bundesstaates den Sieg zu erringen. Gouverneur James Allred wurde von südlichen Bürgermeistern zum Verräter erklärt, die entschlossen zu sein scheinen, sich im Rest des Staates gegen ihre Brüder zu stellen, sollte der Bürgerkrieg ernsthaft beginnen. "
+amcivwar.754.a:0 "Sicherlich eine Überraschung."
+amcivwar.754.b:0 "Verräter überall!"
+amcivwar.754.c:0 "Long verliert an Unterstützung."
+
+amcivwar.755.t:0 "Die Arkansas River Kampagne"
+amcivwar.755.d:0 "Nachdem auch Südtexas, Arkansas und Oklahoma von Bundesmilizen überrannt worden waren, erklärten ihre Gouverneure ihre Unterstützung für Huey Long. Mit diesen beiden Staaten und San Antonio fest in Bundeshand, werden Houston und Austin wahrscheinlich bald fallen und MacArthur wird Zugang zu den texanischen Ölfeldern für seine Armee haben. "
+amcivwar.755.a:0 "Wir müssen dort sein, bevor Patton seine Linien aufrüsten kann."
+amcivwar.755.b:0 "Was erhoffen sie sich davon?"
+
+amcivwar.756.t:0 "Bundestruppen überqueren den Mississippi"
+amcivwar.756.d:0 "Während Gouverneur Stark von Missouri in den letzten beiden Wahlen mit Huey Long in Verbindung gebracht wurde, hat er angesichts der Armee der Bundesmiliz und der Soldaten, die in seinen Staat strömen, um sich nach Westen auszubreiten, die Regierung von New Orleans wegen versuchter Diktatur verurteilt und seine bekräftigt Loyalität zu Präsident MacArthur. Da fast das gesamte Land westlich des Mississippi nördlich von Texas gesichert ist, bereiten sich die Bundestruppen nun auf eine Umhüllung von Texas und einen Streik über die Rocky Mountains gegen Sacramento vor. Unsere Position im Westen scheint sicher. "
+amcivwar.756.a:0 "Der Vormarsch beginnt hier!"
+
+amcivwar.757.t:0 "Der Fall von Houston"
+amcivwar.757.d:0 "Wie erwartet haben loyalistische Milizen aus San Antonio und Oklahoma die unorganisierten longistischen Milizen in Houston und Austin überrannt, bevor General Devers seine Positionen stärken konnte. Dallas fiel schnell danach, und mit dem Fall dieser drei Schlüsselstädte ist ganz Texas fest unter der Kontrolle des Bundes, und Gouverneur James Allred wurde gefangen genommen, bevor er fliehen konnte. "
+amcivwar.757.a:0 "New Orleans ist jetzt nicht mehr weit entfernt."
+amcivwar.757.b:0 "Sie werden die Ölfelder nicht lange kontrollieren."
+
+amcivwar.758.t:0 "Chaos im Osten"
+amcivwar.758.d:0 "Als unsere Truppen abreisten, brach alles östlich von Saint Louis in völlige Anarchie zusammen, und wir erwarten, dass die Milizen der Longisten und Syndikalisten die Beute im Osten teilen. Das bedeutet jedoch, dass sie dort damit beschäftigt sind, gegeneinander zu kämpfen, und wir können uns jetzt voll und ganz auf den Umgang mit den pazifischen Rebellen konzentrieren. "
+amcivwar.758.a:0 "Wir werden Kalifornien bald erobern."
+
+amcivwar.759.t:0 "North Carolina erklärt Unterstützung für Huey Long"
+amcivwar.759.d:0 "Der neu gewählte Gouverneur von North Carolina, Clyde Hoey, hat, seit er gesehen hat, wie Bundestruppen die Ostküste verlassen, seine Unterstützung für die Regierung von Huey Long zugesagt, um sowohl Schutz vor den syndikalistischen Kräften im Norden als auch Schutz vor den Unruhen zu suchen, die seinen Staat seit den Truppen von General MacArthur plagten links. Auf diese Weise sind die Streitkräfte von General Patton der strategischen Stadt Norfolk unglaublich nahe, und jetzt hat ein Rennen um denjenigen begonnen, der Virginia zuerst erobert. "
+amcivwar.759.a:0 "Nächster Halt, Virginia!"
+amcivwar.759.b:0 "Das Rennen um Virginia hat begonnen."
+
+amcivwar.760.t:0 "Das Rennen um Virginia"
+amcivwar.760.d.CSA:0 "Nach der Überquerung von North Carolina trafen die Streitkräfte von General Patton auf etwas, das sie nicht erwartet hatten - die Streitkräfte von General Butler in Richmond. Anscheinend kamen sie aus West Virginia zusammen und nahmen Virginia ohne Widerstand ein, bevor General Patton handeln konnte. Patton hat sich über die Grenze zurückgezogen und eine kleine Wache in Norfolk zurückgelassen. "
+amcivwar.760.d.TEX:0 "Am frühen Morgen wurden die Streitkräfte von General Butler von den Streitkräften von General Patton aus Richmond zurückgeschlagen, nachdem sie im Vergleich zu den syndikalistischen Streitkräften überraschenderweise in kurzer Zeit eine große Strecke zurückgelegt hatten. Mit diesem Sieg steht Virginia vorerst fest unter der Kontrolle von Huey Long. "
+amcivwar.760.a:0 "Gute Arbeit, General Butler."
+amcivwar.760.b:0 "Wir müssen das nächste Mal schneller sein."
+amcivwar.760.c:0 "Gute Arbeit, General Patton."
+amcivwar.760.d:0 "Wie auch immer. Wir kommen wieder."
+amcivwar.760.e:0 "Keine unserer Angelegenheiten."
+
+amcivwar.761.t:0 "Gerangel um den Korridor"
+amcivwar.761.d.CSA:0 "Nach heftigen Kämpfen übernahmen die syndikalistischen Streitkräfte die Kontrolle über Tennessee und Kentucky und erzielten wichtige Gewinne gegen die longistischen Streitkräfte. Mit dieser neuen Entwicklung kontrollieren Kräfte, die General MacArthur feindlich gesinnt sind, alles östlich des Mississippi. "
+amcivwar.761.d.TEX:0 "Nach heftigen Kämpfen übernahmen die longistischen Streitkräfte die Kontrolle über Tennessee und Kentucky und erzielten wichtige Gewinne gegen die syndikalistischen Streitkräfte. Mit dieser neuen Entwicklung kontrollieren Kräfte, die General MacArthur feindlich gegenüberstehen, alles östlich des Mississippi."
+amcivwar.761.a:0 "Ein Schritt näher dran, das amerikanische Proletariat zu befreien!"
+amcivwar.761.b:0 "Wir müssen diesen korrupten Diktator abwehren, und zwar bald!"
+amcivwar.761.c:0 "Ein Schritt näher, um das alte korrupte Regime zu zerstören!"
+amcivwar.761.d:0 "Wir müssen diese gottlosen Syndikalisten abwehren, und zwar bald!"
+amcivwar.761.e:0 "Der Mississippi wird wieder voller Blut sein."
+
+amcivwar.762.t:0 "Rote Flaggen über Washington"
+amcivwar.762.d:0 "Als die Streitkräfte der beiden selbsternannten Präsidenten Reed und Long an den Grenzen von Virginia kämpften, erreichten die SPA-Milizen schließlich das verlassene Washington. Die Stadt, die völlig frei von jeglicher militärischer Präsenz war, war leicht zu erobern, wobei die historischen Wahrzeichen und die Flüsse über den Patomac nach Alexandria zuerst von der Miliz gesichert wurden. Da es keine Anzeichen für einen Gegenangriff zu geben schien, begann die Miliz bald, die National Mall und andere Standorte umzugestalten, wobei dem Kapitol die größte Aufmerksamkeit geschenkt wurde. Soldaten zogen die alte Flagge aus dem Haus des geflohenen Kongresses herunter und machten eine Pause, um Fotos und Interviews mit sozialistischen und lokalen Zeitungen zu machen, bevor sie sich versammelten, um über die Flagge der CSA zu jubeln, die endlich über DC gehisst wurde. "
+amcivwar.762.a:0 "Der Kongress wird die Arbeiter nicht mehr unterdrücken!"
+amcivwar.762.b:0 "Die Hauptstadt muss bald befreit werden!"
+
+amcivwar.763.t:0 "MacArthur wehrt einen Angriff der CSA in Minnesota ab"
+amcivwar.763.d:0 "Obwohl das SPA bei den Wahlen 1936 den Landtag von Minnesota eroberte, konnten sie das Versprechen eines sozialistischen Minnesota nicht einhalten, da Gouverneur Peterson von der Farmer-Labour Party die Nationalgarde des Staates nutzte, um lange genug in Minneapolis zu bleiben MacArthurs Soldaten sollen den Staat erreichen und die Miliz von Wisconsin abwehren und die Streikenden in Minnesota selbst vernichten. Präsident Reed wurde bei seinem Angriff nach Westen behindert, und sein neu gebildeter Kommandostab erwägt Berichten zufolge stattdessen Streiks im Süden und Osten, um ihren Vorteil gegen Huey Long auszubauen. "
+amcivwar.763.a:0 "Nächster Halt, Chicago!"
+amcivwar.763.b:0 "Schlechte Neuigkeiten."
+
+amcivwar.764.t:0 "New England in verzweifelter Lage"
+amcivwar.764.d:0 "Obwohl die Krone zuvor den Antrag der Gouverneure Neuenglands abgelehnt hatte, ihre Neutralität zu gewährleisten, hat die Wiederholung des Antrags in der vergangenen Nacht eine andere Reaktion ausgelöst, da das Kabinett eine weitere Gefährdung der militärischen Position der Bundesregierung für unklug gehalten hatte. Mit der einzigen Alternative zur britisch-kanadischen Intervention in der Region, die von den Streitkräften der Kombinierten Syndikate besetzt wird, haben sich sogar Kabinetts- und Geheimrats-Americophile auf die Idee einer Intervention erwärmt. Sollte die britisch-kanadische Regierung handeln? "
+amcivwar.764.a:0 "Wir müssen Neutral bleiben."
+amcivwar.764.b:0 "Das Volk von New England braucht uns."
+
+amcivwar.765.t:0 "Canada besetzt New England"
+amcivwar.765.d.CSA:0 "Der Druck auf DC scheint dem britischen Empire in unserem Norden die Idee gegeben zu haben, dass wir eine Bedrohung waren. Sie haben den Antrag der verräterischen Gouverneure von Neuengland auf Schutz angenommen. Unsere Streitkräfte konnten im Nordosten keine Fortschritte erzielen, bevor sie auf kanadische Truppen stießen. New Jersey fiel jedoch an unsere Miliz und die Verbündeten der Internationalen in New York City, bevor die Entente-Streitkräfte es verstärken konnten. "
+amcivwar.765.d.others:0 "Der sozialistische Druck auf DC scheint dem britischen Empire in unserem Norden die Idee gegeben zu haben, dass sie eine echte Bedrohung darstellen. Sie haben die Bitte der Gouverneure von Neuengland um Schutz angenommen und beobachten nun die Sozialisten über die Grenze hinweg. Die CSA-Streitkräfte konnten vor der Begegnung mit kanadischen Truppen keine Fortschritte erzielen. Der Bundesstaat New Jersey ist jedoch seinen Milizen und internationalen Verbündeten in New York City zum Opfer gefallen, bevor wir ihn verstärken konnten. "
+amcivwar.765.a:0 "Die Briten sind wieder in Boston!"
+amcivwar.765.b:0 "Immerhin sind nicht die Sozialisten in Boston."
+
+amcivwar.766.t:0 "Sozialisten in New England"
+amcivwar.766.d:0 "Sozialistische Milizen und Soldaten haben Neuengland nach ihrem Angriff auf Washington DC schnell besetzt. Obwohl es wenig Widerstand gab, ist klar, dass es in der alten Heimat des Republikanismus nur wenige Freunde von Präsident Reed gibt, und viele hoffen immer noch, dass Kanada retten wird Sie. Im Moment hat der CSA jedoch die volle Kontrolle über New England. "
+amcivwar.766.a:0 "Großartig!"
+amcivwar.766.b:0 "Wir kümmen uns bald um sie!"
+amcivwar.766.c:0 "Die Sozialisten werden stärker."
+
+amcivwar.767.t:0 "Der Krieg erreicht Oregon"
+amcivwar.767.d.USA:0 "Mit dem Rückzug der Bundesregierung nach Westen war klar, dass General MacArthur beabsichtigte, zuerst die pazifischen Staaten anzugreifen und sie als die isolierteste Bedrohung anzusehen. Die 2. und 14. Armeedivision kamen mit dem letzten Schnee des Winters über die Rocky Mountains und starteten einen organisierten Angriff auf Oregon und den südlichen Teil von Washington. Die Nationalgardisten in diesen Staaten standen entweder auf der Seite von Präsident MacArthur oder mussten sich ergeben. Die Streitkräfte der Regierung von Denver nahmen bald Portland und Yakima ein, und die Gouverneure von Washington und Oregon ergaben sich, um sich vor syndikalistischer Agitation und Krieg zu retten. Die 3., 2. und 14. Division bereiten sich jetzt auf die Einnahme Kaliforniens vor, aber die Kalifornier haben bereits einen Gegenangriff begonnen, als die Union erneut in Richtung Arkansas zuschlägt und die CSA nach North Carolina zieht. \n\nAlle Splitterfraktionen in der zersplitterten und zerbrochenen Nation haben die Chance gesehen, offensive Operationen gegen alle konkurrierenden Regierungen zu starten, und von Minnesota bis North Carolina, von New York City bis New Mexico haben Scharmützel und Unruhen endlich eskaliert zu Schlachten. Allen ist klar, dass der zweite amerikanische Bürgerkrieg begonnen hat.
+amcivwar.767.d.PSA:0 "Mit dem Rückzug der Bundesregierung nach Westen war klar, dass General MacArthur beabsichtigte, zuerst die pazifischen Staaten anzugreifen und sie als die isolierteste Bedrohung anzusehen. Die 2. Armeedivision kam mit dem letzten Schnee des Winters über die Rocky Mountains und startete einen organisierten Angriff auf Oregon und den südlichen Teil von Washington. Zum Glück für die Verteidiger gelang es einem Miliz-Frühwarnsystem in Oregon, die kalifornische Wache zur Verteidigung von La Grande herauszuholen und die Armee aus dem Staat zu vertreiben. Die 3., 2. und 14. Division bereiten jetzt eine Verteidigung in Idaho und Nevada vor, aber die Kalifornier haben bereits einen Gegenangriff begonnen, gerade als die Union erneut in Richtung Arkansas zuschlägt und die CSA nach North Carolina zieht.\N\nAlle über Die zersplitterte und zerbrochene Nation, die Splitterfraktionen haben ihre Chance gesehen, offensive Operationen gegen alle konkurrierenden Regierungen zu starten, und von Minnesota bis North Carolina, von New York City bis New Mexico haben Scharmützel und Unruhen endlich zu Schlachten eskaliert. Allen ist klar, dass der zweite amerikanische Bürgerkrieg begonnen hat. "
+amcivwar.767.a:0 "Kalifornien kann uns nicht alleine widerstehen."
+amcivwar.767.b:0 "Wir müssen sie bei Portland angreifen!"
+amcivwar.767.c:0 "Wir haben es ihnen gezeigt!"
+amcivwar.767.d:0 "Verräter überall!"
+amcivwar.767.e:0 "Zum Krieg!"
+
+### State Capture Events ###
+
+amcivwar.800.t:0 "Die Eroberung von [capture_state.GetName]"
+amcivwar.800.d_none:0 "Heute haben [From.GetAdjective] -Truppen den strategischen Heimatstaat von [capture_state.GetName] erfasst. Unsere Soldaten und Generäle sind besorgt über die Neuigkeiten, aber wir sind zuversichtlich, dass wir am Ende immer noch als Sieger hervorgehen werden. "
+amcivwar.800.d_level_1:0 "Heute haben [From.GetAdjective] -Truppen den strategischen Heimatstaat von [capture_state.GetName] erfasst. Unsere Soldaten und Generäle sind besorgt über die Neuigkeiten, aber wir sind zuversichtlich, dass wir am Ende immer noch als Sieger hervorgehen werden. "
+amcivwar.800.d_level_2:0 "Eine weitere besorgniserregende Nachricht ist in [ROOT.Capital.GetName] eingegangen: Heute haben [From.GetAdjective] -Kräfte [capture_state.GetName] erobert, den zweiten Zustand, den wir verloren haben. Unsere Truppen machen sich noch mehr Sorgen als zuvor, aber wir sind sicher, dass wir es zurückerobern können, wir brauchen nur mehr Zeit. "
+amcivwar.800.d_level_3:0 "Wir haben heute die Nachricht vom Verlust eines dritten strategischen Staates erhalten, als [From.GetAdjective] -Truppen [capture_state.GetName] besetzten. Die Moral unserer Armee ist jetzt niedrig, da sie anfangen zu glauben, der Krieg sei verloren, und wir müssen uns bewegen, um den Staat zurückzuerobern, bevor es zu spät ist. "
+amcivwar.800.d_level_4:0 "[From.GetAdjective] -Truppen haben heute [capture_state.GetName] übernommen, und es scheint, dass die Nachricht Auswirkungen auf unser Militär hat. Nach diesem vierten Schlag beginnt unsere Armee Desertionen zu erleben, aber unsere eigenen Generäle sind immer noch zuversichtlich, dass dieser Krieg kann gewonnen werden. Die zivile Moral bleibt hinter den Linien stabil, aber an der Front ist es schwierig, Vorräte zu finden. "
+amcivwar.800.d_level_5:0 "Nach dem weiteren Verlust von [capture_state.GetName] heute rutscht die zivile Moral schnell in Richtung Defätismus. Unsere davon betroffenen Truppen weigern sich, in den Kampf für das vorzudringen, was manche als verlorene Sache ansehen, obwohl einige Generäle a sehen noch weit nach vorne. "
+amcivwar.800.d_level_6:0 "Wir erleben Tag für Tag mehr Desertionen, insbesondere nach dem Verlust von [capture_state.GetName]. Es gibt Gerüchte über Unzufriedenheit in unserem eigenen Generalstab, Ausweichmanöver sind die Norm und Defätismus in der Zivilbevölkerung ist weit verbreitet. Nur wenige glauben, wir könnten diesen Krieg noch gewinnen, und selbst der Präsident zweifelt jetzt an der Stärke seiner Sache. "
+amcivwar.800.d_level_7:0 "Unsere zerlumpten Divisionen sind jetzt völlig unwillig oder nicht in der Lage, ihre Positionen zu verlassen. Viele ergeben sich, sobald die Kämpfe sie erreichen, obwohl die Flut der Desertionen durch Versprechen zusätzlicher Rationen für Soldaten aufgestaut wurde. Die Bürger sind jedoch immer noch in unserem Gebiet, viele Jetzt hungern sie, weigern sich jetzt größtenteils, für unsere Kriegsanstrengungen zu arbeiten, und unsere Kugeln und kaputten Waffen werden nicht ersetzt. "
+amcivwar.800.d_level_8:0 "Unsere Streitkräfte brechen zusammen, wir erleben massive Desertionen, unsere Generäle ergeben sich, die Bevölkerung hasst uns und wir können diesen Krieg nicht mehr gewinnen. Ohne echte göttliche Intervention sind wir zum Scheitern verurteilt und unsere Sache mit uns. Wir hoffen unsere Der Eroberer kann sich besser um das amerikanische Volk kümmern als wir. "
+amcivwar.800.a:0 "Wir werden zurückkehren!"
+amcivwar.800.b:0 "Ein großartiger Sieg!"
+
+amcivwar.801.t:0 "Die Befreiung von [capture_state.GetName]"
+amcivwar.801.d:0 "Heute haben unsere Streitkräfte [capture_state.GetName] von der brutalen Besetzung durch feindliche Streitkräfte befreit. Die Menschen freuten sich, als unsere Streitkräfte sie befreiten und unsere Soldaten mit ihnen feierten. Bald wird dieser Krieg enden und damit das Leid, das das amerikanische Volk erlebt. "
+amcivwar.801.a:0 "Wir sind zurückgekehrt!."
+
+amcivwar.900.t:0 "Aufstand in [revolt_state.GetName]"
+Amcivwar.900.d:0 "Unsere Regierung ist bei der Wiederherstellung der Ordnung in [revolt_state.GetName] eindeutig gescheitert. Partisanen, die sich mit den Verräter um uns herum verbündet haben, haben einen Angriff auf dem Land gestartet, in der Hoffnung, den Krieg wieder zu Gunsten ihrer gewählten Seite zu führen. "
+amcivwar.900.a:0 "Verdammt."

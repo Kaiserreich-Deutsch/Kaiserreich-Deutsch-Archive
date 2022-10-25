@@ -1,13 +1,13 @@
-l_german:
-
+﻿l_german:
+### Übersetzt von Proho ###
 # Dies ist die Überschreibungsdatei für die Vanille-Lokalisierung. Alles, was hier steht, ersetzt die Vanille-Lokalisierung des gleichen Strings
 # Sie ist in zwei Teile gegliedert
-# Der erste Teil hat sich gegenüber Vanille erheblich verändert (wie z.B. hat er eine völlig neue Bedeutung) und muss übersetzt werden
-# Teil zwei enthält nur Korrekturen in Rechtschreibung und Grammatik, muss also nicht übersetzt werden.
+# Teil eins ist gegenüber Vanille deutlich verändert (hat z. B. eine völlig neue Bedeutung) und sollte daher übersetzt werden
+# Teil 2 enthält nur Korrekturen der Rechtschreibung und Grammatik und muss daher nicht übersetzt werden
 
-################
-### Part One ###
-################
+########################################################
+### Part One - Erheblich verändert gegenüber Vanille ###
+########################################################
 
 ### core_l_english
 MENU_HOMEPAGE:0 "Kaiserreich Discord"
@@ -87,14 +87,14 @@ topple_government:0 "Regierung stürzen"
 topple_government_desc:0 "Sturz der herrschenden Regierung."
 topple_government_short_desc:0 "Dieses Kriegsziel wird es billiger machen, die Regierung auf der Friedenskonferenz zu stürzen."
 
-### frontend_l_english.yml ###
+### frontend_l_english
+CUSTOM_DIFFICULTY_GROUP_NAME:0 "Benutzerdefinierte Stärkeeinstellungen"
 custom_diff_strong_ger:0 "£KR_game_rule_flag_GER   Stärkung des Deutschen Reiches"
-custom_diff_strong_fra:0 "£KR_game_rule_flag_FRA   Die französische Kommune stärken"
+custom_diff_strong_fra:0 "£KR_game_rule_flag_FRA   Stärkung der Kommune Frankreichs"
 custom_diff_strong_eng:0 "£KR_game_rule_flag_ENG   Stärkung der Britischen Union"
-custom_diff_strong_jap:0 "£KR_game_rule_flag_JAP   Das Kaiserreich Japan stärken"
-custom_diff_strong_usa:0 "£KR_game_rule_flag_USA   Die Vereinigten Staaten von Amerika stärken"
-custom_diff_strong_ott:0 "£KR_game_rule_flag_OTT   Das Osmanische Reich stärken"
-
+custom_diff_strong_ita:0 "£KR_game_rule_flag_ITA   Stärkung der Republik Italien"
+custom_diff_strong_jap:0 "£KR_game_rule_flag_JAP   Stärkung des Kaiserreichs Japan"
+custom_diff_strong_usa:0 "£KR_game_rule_flag_USA   Stärkung der Vereinigten Staaten von Amerika"
 
 ### ideas_l_english
 government:0 "Gesetze"
@@ -102,13 +102,6 @@ minister:0 "Regierung"
 military_staff:0 "Militärischer Stab"
 mobilization_laws:0 "Wehrpflichtgesetz"
 person_of_influence:0 "Person mit Einfluss"
-KR_mobilization_laws:0 "Wehrpflichtgesetz"
-idea_group_KR_mobilization_laws:0 "Wehrpflichtgesetze"
-KR_trade_laws:0 "Handelsrecht"
-KR_economy:0 "Wirtschaftsrecht"
-EFFECT_CHANGE_LAW_KR_mobilization_laws:0 "Änderung des Wehrpflichtgesetzes in '$NAME|Y$', das ($DESC$) gewährt."
-EFFECT_CHANGE_LAW_KR_economy:0 "Änderung des Wirtschaftsgesetzes in '$NAME|Y$', das ($DESC$) gewährt."
-EFFECT_CHANGE_LAW_KR_trade_laws:0 "Änderung des Handelsgesetzes in '$NAME|Y$', das ($DESC$) gewährt."
 aircraft_manufacturer:0 "Flugzeug-Konstrukteur"
 materiel_manufacturer:0 "Material Designer"
 industry_concern:0 "Industry Concern"
@@ -117,22 +110,33 @@ chief_of_army:0 "Oberbefehlshaber der Armee"
 chief_of_navy:0 "Oberbefehlshaber der Marine"
 chief_of_air_force:0 "Oberbefehlshaber der Luftwaffe"
 
+### operatives_l_english
+upgrade_passive_defense:0 "Passive Abwehr"
+upgrade_anti_partisan:0 "Anti-Partisanen"
+upgrade_blueprint_stealing:0 "Blaupausen stehlen"
+upgrade_portable_radios:0 "Tragbare Funkgeräte"
+upgrade_plastic_explosives:0 "Plastik-Sprengstoff"
+upgrade_suicide_pills:0 "Selbstmord Pillen"
+upgrade_training_centers:0 "Lokale Trainingszentren"
+upgrade_commando_training:0 "Kommandotraining"
+
 ### politics_l_english
-POLITICS_LEADER:0 "§Staatsoberhaupt: $LEADER|H$§!"
+POLITICS_LEADER:0 "§TStaatsoberhaupt: $LEADER|H$§!"
 POLITICS_NEXT_ELECTION:0 "Wahlen: $DATE|H$"
 RELEASE_NATION_TITLE:0 "WARNUNG"
 RELEASE_NATION_DESC:0 "Wollen Sie $COUNTRY|H$ in $LIST|H$ freilassen?\n\n§RDies wird in Kaiserreich nicht unterstützt und wird Fehler verursachen, tun Sie dies auf eigenes Risiko!§!"
 REMOVE_IDEA:0 ""
 
 ### peace_l_english
-PEACE_CONFERENCE_WHITE_PEACE:0 "Ein §YFriedensvertrag§! wurde zwischen\n@$ACTOR_TAG$$$ACTOR_COUNTRY|Y$ und $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\n zur Beendigung ihrer Feindseligkeiten unterzeichnet."
+PEACE_CONFERENCE_WHITE_PEACE:0 "Ein §YFriedensvertrag§! wurde zwischen\n@$ACTOR_TAG$$ACTOR_COUNTRY|Y$ und $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\n zur Beendigung ihrer Feindseligkeiten unterzeichnet."
 
 ### rules_l_english
 CAN_JOIN_FACTIONS:0 "Kann nicht in Fraktionen eintreten"
 
 ### state_l_english
-twelve:0 "Megastädte-Region"
-eleven:0 "Großstadtregion"
+twelve:0 "Megastadt"
+eleven:0 "Ausgedehnte Großstadt"
+ten:0 "Großstadt"
 nine:0 "Sehr dichte städtische Region"
 eight:0 "Dichte städtische Region"
 seven:0 "Zersiedelte städtische Region"
@@ -153,9 +157,9 @@ improved_worker_conditions_desc:0 "Fabrikarbeit ist hart und mit vielen Gefahren
 foreign_politics:0 "Außenpolitik"
 foreign_politics_desc:0 "Eine gute Außenpolitik ist für das Überleben einer Nation, unabhängig von ihrer Größe, von entscheidender Bedeutung. Während einige Nationen es vorziehen, sich auf den Aufbau von Bündnissen zu konzentrieren, entscheiden sich andere, aggressivere Mächte dafür, ihre Gegner in offenen Konflikten frontal herauszufordern. Wofür auch immer wir uns entscheiden, wir dürfen nicht töricht sein, denn nur durch eine taktvolle Außenpolitik können wir Freundschaften aufbauen und unsere Feinde vernichten."
 
-################
-### Part Two ###
-################
+######################################################################
+### Part Two - Nur geringfügige Änderungen im Vergleich zu Vanilla ###
+######################################################################
 
 ### abilities_l_english
 #ABILITY_SIEGE_ARTILLERY_DESC:0 "Specialised siege artillery will cause heavy damage to forts and provide a fort attack bonus."

@@ -1,0 +1,18 @@
+﻿l_german:
+
+naval_decisions:0 "Marine-Entscheidungen"
+naval_decisions_desc:0 "Da unserer Nation in der Vergangenheit die Kapazität fehlte, weiter in die Marine zu investieren, oder weil uns die Infrastruktur fehlte, um mit den Seemächten zu konkurrieren, ist ein Großteil unserer Technologie zu diesem Thema veraltet und unsere Entwürfe werden weltweit belächelt. Das Aufholen auf diesem Gebiet ist jetzt jedoch in greifbarer Nähe und Pläne für den Ausbau sowohl unserer £mapicon_port_strike_result_text §YInfrastruktur§! als auch £navy_experience §YMarineforschung§! sind in vollem Gange."
+
+gen_naval_hire_designer:0 "Ausländische Marine-Designer anheuern"
+gen_naval_hire_designer_desc:0 "Unser Land hat die Kapazität, Schiffe zu bauen, aber es fehlt uns an Design-Know-how. Wir sollten einige Ausländer anheuern, die uns helfen, dieses Problem zu überwinden, zumindest für den Moment."
+
+gen_naval_navy_buildup:0 "Ressourcen zur Marine umleiten"
+gen_naval_navy_buildup_desc:0 "Während wir genügend Ressourcen haben, um Schiffe zu bauen, ist unsere Marine nicht existent. Vielleicht könnten wir Ressourcen und Material aus anderen Bereichen der Marine zuweisen, um den Bau anzukurbeln. \n§YDiese Entscheidung kann automatisch abgebrochen werden, wenn wir mehr als 8 Schiffe haben, oder sie kann manuell abgebrochen werden und erscheint in 30 Tagen wieder (wenn die Bedingungen erfüllt sind).§!"
+
+gen_naval_cancel_navy_buildup:0 "Ressourcenumleitung abbrechen"
+gen_naval_cancel_navy_buildup_desc:0 "In der aktuellen Situation sind unsere zusätzlichen Ausgaben für die Marine fragwürdig und wir sollten in Betracht ziehen, sie zu streichen. \n§YEs wird 30 Tage dauern, bis wir unsere Mittel zurückverlagern können§!"
+
+cancel_resources_diversion:0 "Wir haben die Ressourcenumleitung §HStorniert§!"
+
+gen_naval_hire_advisor:0 "Ausländischen Marineberater anheuern"
+gen_naval_hire_advisor_desc:0 "Wir haben wenig bis keine Kenntnisse über moderne Seetaktiken, aber vielleicht können wir einen Ausländer anheuern, der uns unterrichtet."

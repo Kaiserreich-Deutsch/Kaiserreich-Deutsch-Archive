@@ -1,9 +1,9 @@
-l_german:
-
+﻿l_german:
+### Übersetzt von Proho ###
 ### Opening Event ###
-kr.political.1.t:0 "Kaiserreich Beta 0.15.2 'Leaving for Syria'('Aufbruch nach Syrien')"
-kr.political.1.d:0 "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.15.2 'Leaving for Syria' für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\nDer Mod basiert auf der Annahme, dass der Spieler immer alle möglichen Staaten in Friedensverträgen annektiert, also stellen Sie sicher, dass Sie dies tun\nSie können die Häufigkeit von Nachrichtenereignissen ändern, indem Sie das Symbol oben auf der Registerkarte 'Entscheidungen' umschalten\nSie können auswählen, welche Namenssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Menü 'Erfolge' oben rechts ersetzt.\nDenken Sie daran, dass sich dieser Mod noch in der Beta befindet. Erwarten Sie also Fehler, Abstürze und verschiedene Kopfschmerzen\nWenn Sie auf eines dieser Probleme stoßen, ist es eine große Hilfe, es in unserem GitHub-Issue-Tracker zu melden, damit es schneller behoben kann.\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
-kr.political.1.a:0 "Ich bin sicher, dass ich das tun werde!"
+kr.political.1.t:0 "Kaiserreich Beta 0.16.1 - 'Hindsight is 2020'(Hinterher ist man immer klüger)"
+kr.political.1.d:0 "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.16.1 - 'Hindsight is 2020' für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\nDer Mod basiert auf der Annahme, dass der Spieler immer alle möglichen Staaten in Friedensverträgen annektiert, also stellen Sie sicher, dass Sie dies tun\nSie können die Häufigkeit von Nachrichtenereignissen ändern, indem Sie das Symbol oben auf der Registerkarte 'Entscheidungen' umschalten\nSie können auswählen, welche Namenssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Menü 'Erfolge' oben rechts ersetzt.\nDenken Sie daran, dass sich dieser Mod noch in der Beta befindet. Erwarten Sie also Fehler, Abstürze und verschiedene Kopfschmerzen\nWenn Sie auf eines dieser Probleme stoßen, ist es eine große Hilfe, es in unserem GitHub-Issue-Tracker zu melden, damit es schneller behoben kann.\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
+kr.political.1.a:0 "Da bin ich sicher!"
 
 ### Generic Triggered Events ####
 kr.political.30.t:0 "Bereite dich auf den Krieg vor!"
@@ -109,13 +109,13 @@ unit_limit_war_economy:0 "§YKriegswirtschaft§!"
 unit_limit_tot_economic_mobilisation:0 "§YTotale Mobilisierung§!"
 
 ### Tooltips ###
-KR_improving_stability:0 "Stabilit bereits verbesserty"
-KR_improving_popularity:0 "Partei-Popularität bereits verbessern"
-KR_party_pop_less_than_50:0 "Weniger als §Y50% §! Party Popularität"
-KR_party_pop_more_than_75:0 "Mehr als §Y75% §! Party Popularität"
+KR_improving_stability:0 "Stabilität bereits verbessert"
+KR_improving_popularity:0 "Partei-Popularität bereits verbessert"
+KR_party_pop_less_than_50:0 "Weniger als §Y50% §! Partei Popularität"
+KR_party_pop_more_than_75:0 "Mehr als §Y75% §! Partei Popularität"
 DIPLOMACY_DOCKING_RIGHTS:0 "Anlege-Rechte"
 is_ally_of_ROOT:0 "Ist ein Verbündeter von [ROOT.GetNameDef]"
-has_coalition_with:0 "Is in coalition with the §H[?coalition_partner_to_check.GetTokenLocalizedKey]§!"
+has_coalition_with:0 "Ist in einer Koalition mit §H[?coalition_partner_to_check.GetTokenLocalizedKey]§!"
 
 ### Decisions ###
 #political_actions:0 "Politische Aktionen" duplicate
@@ -136,16 +136,16 @@ war_propaganda_against_warmonger_desc:0 "Die Nation ruft jeden Mann, jede Frau u
 ##################
 
 ### Names ###
-totalist:0 "Totalists"
-syndicalist:0 "Syndicalists"
-radical_socialist:0 "Radical Socialists"
-social_democrat:0 "Social Democrats"
-social_liberal:0 "Social Liberals"
-market_liberal:0 "Market Liberals"
-social_conservative:0 "Social Conservatives"
-authoritarian_democrat:0 "Authoritarian Dem."
-paternal_autocrat:0 "Paternal Autocrats"
-national_populist:0 "National Populists"
+totalist:0 "Totalisten"
+syndicalist:0 "Syndikalisten"
+radical_socialist:0 "Radikale Sozialisten"
+social_democrat:0 "Sozialdemokraten"
+social_liberal:0 "Sozialliberale"
+market_liberal:0 "Marktliberale"
+social_conservative:0 "Sozialkonservative"
+authoritarian_democrat:0 "Autoritäre Demokratie"
+paternal_autocrat:0 "Paternale Autokraten"
+national_populist:0 "Nationalpopulisten"
 
 ### Nouns ###
 totalist_noun:0 "Totalismus"
@@ -174,36 +174,36 @@ national_populist_desc:0 "Reaktionär"
 
 ### Subtype Descriptions ###
 totalist_subtype_desc:0 "Der Begriff 'Totalismus' stammt aus der Totalistischen Charta, einer Kooperationsvereinbarung zwischen Oswald Mosley, Georges Valois und Benito Mussolini, in der die wichtigsten Grundsätze der Ideologie dargelegt wurden. Totalisten geben das föderative Element der syndikalistischen Staatsorganisation auf und erklären, dass revolutionäre Staaten bis zur Erreichung der Weltrevolution zentralisiert und militarisiert werden müssen, um die verbleibenden kapitalistischen Staaten zu bekämpfen. Das Ausmaß, in dem die Gesellschaft durch totalistische Regime verändert wird, ist ebenfalls bedeutend größer und führt häufig zu einer totalitären Kontrolle der Gesellschaft und zur Konstruktion von Personenkulten. 'Totalismus' wird auch häufig verwendet, um linke Staaten zu beschreiben, die nicht mit dem Charter-Totalismus verbunden sind, aber dennoch Merkmale wie Militarisierung, Zentralisierung und totalitäre Transformation der Gesellschaft aufweisen."
-syndicalist_subtype_desc:0 Der Syndikalismus ist die führende linksrevolutionäre Ideologie, deren Aufstieg zur weltweiten Bekanntheit mit der französischen Revolution von 1919 begann. Obwohl der Syndikalismus zwischen verschiedenen Strömungen aufgeteilt ist, von denen einige von anderen Ideologien wie Marxismus und Anarchismus beeinflusst sind, basiert der orthodoxe Syndikalismus auf den Werken der Führer der Confédération Générale du Travail (CGT), die in der Charta von Amiens von 1906  kodifiziert sind und betrachtet Mikhail Bakunin und Pierre-Joseph Proudhon als seine Vorläufer. Der Syndikalismus wird durch die Konzepte der revolutionären Spontaneität und des direkten Handelns definiert - der Überzeugung, dass die in Gewerkschaften organisierten Arbeiter selbst den Kapitalismus bekämpfen müssen, anstatt sich auf einen externen Agenten wie eine politische Partei zu verlassen. Die Umwandlung einer kapitalistischen Gesellschaft in eine syndikalistische Gesellschaft muss durch einen Generalstreik erfolgen - eine landesweite Ablehnung des Kapitalismus und eine Übertragung aller Produktionsmittel auf die Gewerkschaften. Die syndikalistischen Staaten sind dezentralisiert und föderalistisch, alle Branchen sind in Syndikaten organisiert, die aus diesen Gewerkschaften gewählten Arbeitsräte verwalten die lokale Regierungsführung, und die Zentralregierung ist an einem nationalen Kongress von Gewerkschaftsvertretern beteiligt. Inwieweit diese Grundsätze umgesetzt werden, ist jedoch von Land zu Land unterschiedlich."
+syndicalist_subtype_desc:0 "Der Syndikalismus ist die führende linksrevolutionäre Ideologie, deren Aufstieg zur weltweiten Bekanntheit mit der französischen Revolution von 1919 begann. Obwohl der Syndikalismus zwischen verschiedenen Strömungen aufgeteilt ist, von denen einige von anderen Ideologien wie Marxismus und Anarchismus beeinflusst sind, basiert der orthodoxe Syndikalismus auf den Werken der Führer der Confédération Générale du Travail (CGT), die in der Charta von Amiens von 1906  kodifiziert sind und betrachtet Mikhail Bakunin und Pierre-Joseph Proudhon als seine Vorläufer. Der Syndikalismus wird durch die Konzepte der revolutionären Spontaneität und des direkten Handelns definiert - der Überzeugung, dass die in Gewerkschaften organisierten Arbeiter selbst den Kapitalismus bekämpfen müssen, anstatt sich auf einen externen Agenten wie eine politische Partei zu verlassen. Die Umwandlung einer kapitalistischen Gesellschaft in eine syndikalistische Gesellschaft muss durch einen Generalstreik erfolgen - eine landesweite Ablehnung des Kapitalismus und eine Übertragung aller Produktionsmittel auf die Gewerkschaften. Die syndikalistischen Staaten sind dezentralisiert und föderalistisch, alle Branchen sind in Syndikaten organisiert, die aus diesen Gewerkschaften gewählten Arbeitsräte verwalten die lokale Regierungsführung, und die Zentralregierung ist an einem nationalen Kongress von Gewerkschaftsvertretern beteiligt. Inwieweit diese Grundsätze umgesetzt werden, ist jedoch von Land zu Land unterschiedlich."
 radical_socialist_subtype_desc:0 "Der radikale Sozialismus ist ein Schlagwort für die verschiedenen sozialistischen, kommunistischen und anarchistischen Ideologien, die nicht direkt mit dem Syndikalismus verbunden sind. Länder mit dieser Ideologie arbeiten mit einer sozialistischen Wirtschaft, die normalerweise von einer gewählten Regierungsform begleitet wird; Ihr letztendliches Ziel ist es, ein Paradies für die Arbeiterklasse zu schaffen, dessen Details von Bewegung zu Bewegung variieren."
 social_democrat_subtype_desc:0 "Die Sozialdemokratie ist eine Ideologie, deren Ziel es ist, den Kapitalismus zu reformieren und zu humanisieren, indem sie an den ethischen Idealen der sozialen Wohlfahrt ausgerichtet wird, während die kapitalistische Produktionsweise beibehalten wird, anstatt ein alternatives sozialistisches Wirtschaftssystem zu schaffen. Während normalerweise eine plutokratische Regierungsform und eine stark regulierte Marktwirtschaft gefördert werden, gibt es einige radikalere Strömungen."
 social_liberal_subtype_desc:0 "Der Sozialliberalismus ist eine Variation des Mainstream-Marktliberalismus, wobei der Hauptunterschied darin besteht, verschiedene bürgerliche Freiheiten als grundlegende Menschenrechte einzubeziehen. Mit Bekenntnis zu fortschrittlicher Sozial- und Wirtschaftspolitik wollen die Sozialliberalen eine Gesellschaft schaffen, in der jeder Einzelne unabhängig von seinem Status sein eigenes Leben mit vollen Möglichkeiten führen kann."
 market_liberal_subtype_desc:0 "Marktliberale verstehen sich als die liberale Mainstream-Ideologie. Die Hauptmieter des Marktliberalismus sind ein unregulierter freier Markt und ein demokratisches plutokratisches politisches System. Marktliberale glauben, je freier der Markt, desto freier die Menschen, und sie werden die politischen und wirtschaftlichen Rechte des Einzelnen entschieden verteidigen."
 social_conservative_subtype_desc:0 "Der Konservatismus ist eine politische Ideologie, die sich darauf konzentriert, traditionelle Überzeugungen, Einstellungen und Philosophien sowie die traditionelle Machtdynamik der Gesellschaft unter Nutzung des demokratischen Systems zu bewahren. Im Gegensatz zu radikalen und moderaten Änderungen des Status quo wollen Konservative die Gesellschaft in Ordnung und stabil halten. Normalerweise fördern sie eine regulierte Marktwirtschaft, aber eine liberalere Wirtschaftspolitik ist keine Seltenheit."
 authoritarian_democrat_subtype_desc:0 "Die autoritäre Demokratie ist eine Ideologie, die eine starke Exekutivgewalt mit einem repräsentativen Parlament und einem teilweise demokratischen politischen System verbindet. Autoritäre demokratische Regime nehmen in sozialen Fragen häufig eine konservative Haltung ein und fördern liberal-kapitalistische Volkswirtschaften mit begrenzten staatlichen Eingriffen. Ziel dieser Regime ist es, die nationale Stabilität aufrechtzuerhalten und den Menschen eine populäre und verantwortungsvolle Regierung zu bieten."
-paternal_autocrat_subtype_desc:0 "Die Paternal Autokratie ist keine politische Ideologie im normalen Sinne des Wortes, sondern ein allgemeiner Begriff für die Haltung, die diese Regierungen gegenüber ihren Bürgern einnehmen: Das Volk ist alle Untertanen des Führers, entweder ein Monarch oder ein Diktator, und das ist es auch die Aufgabe und Pflicht des Führers, Staat und Gesellschaft auf den rechtschaffenen und besten Weg zu führen und gleichzeitig die Menschen unter seinem wohlwollenden Schutz zu vereinen. Diese Länder haben normalerweise eine sehr autoritäre Regierung, konservative soziale Ansichten und eine staatlich kontrollierte Wirtschaft."
+paternal_autocrat_subtype_desc:0 "Die paternale Autokratie ist keine politische Ideologie im normalen Sinne des Wortes, sondern ein allgemeiner Begriff für die Haltung, die diese Regierungen gegenüber ihren Bürgern einnehmen: Das Volk ist alle Untertanen des Führers, entweder ein Monarch oder ein Diktator, und das ist es auch die Aufgabe und Pflicht des Führers, Staat und Gesellschaft auf den rechtschaffenen und besten Weg zu führen und gleichzeitig die Menschen unter seinem wohlwollenden Schutz zu vereinen. Diese Länder haben normalerweise eine sehr autoritäre Regierung, konservative soziale Ansichten und eine staatlich kontrollierte Wirtschaft."
 national_populist_subtype_desc:0 "Der Nationalpopulismus umfasst eine Vielzahl ultra-nationalistischer und militaristischer Bewegungen und verehrt in der Regel die Hingabe an den Staat, indem er die Menschen unter einem starken Führer und einer Unternehmenswirtschaft vereint. Der nationale Populismus tritt oft für Rassenpolitik und gewalttätige Rhetorik ein und wird von den meisten anderen politischen Parteien vehement abgelehnt."
 
 ### Drift ###
 totalist_drift:0 "Tägliche totalistische Unterstützung"
 syndicalist_drift:0 "Tägliche syndicaliste Unterstützung"
 radical_socialist_drift:0 "Tägliche radikale sozialistische Unterstützung"
-social_democrat_drift:0 "Tägliche Unterstützung der Sozialdemokraten"
+social_democrat_drift:0 "Tägliche sozialdemokratische Unterstützung"
 social_liberal_drift:0 "Tägliche sozialliberale Unterstützung"
 market_liberal_drift:0 "Tägliche marktliberale Unterstützung"
 social_conservative_drift:0 "Tägliche sozialkonservative Unterstützung"
 authoritarian_democrat_drift:0 "Tägliche Unterstützung der autoritären Demokraten"
 paternal_autocrat_drift:0 "Tägliche Unterstützung der Paternal Autokraten"
-national_populist_drift:0 "Tägliche nationale populistische Unterstützung"
+national_populist_drift:0 "Tägliche nationalpopulistische Unterstützung"
 
 ### Banned ###
 totalist_banned:0 "Verbietet Totalisten"
-syndicalist_banned:0 "Verbietet Syndicalists"
+syndicalist_banned:0 "Verbietet Syndikalisten"
 radical_socialist_banned:0 "Verbietet radikale Sozialisten"
 social_democrat_banned:0 "Verbietet Sozialdemokraten"
 social_liberal_banned:0 "Verbietet Sozialliberale"
 market_liberal_banned:0 "Verbietet Marktliberale"
 social_conservative_banned:0 "Verbietet Sozialkonservative"
 authoritarian_democrat_banned:0 "Verbietet autoritäre Demokraten"
-paternal_autocrat_banned:0 "Verbietet Paternal Autokraten"
-national_populist_banned:0 "Verbietet nationale Populisten"
+paternal_autocrat_banned:0 "Verbietet paternale Autokraten"
+national_populist_banned:0 "Verbietet Nationalpopulisten"

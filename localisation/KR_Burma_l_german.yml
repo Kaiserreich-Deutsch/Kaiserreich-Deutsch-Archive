@@ -1,5 +1,5 @@
-l_german:
-
+﻿l_german:
+### Übersetzt von Proho ###
 ### Parties ###
 BRM_totalist_party:0 "Nagani-Buchclub"
 BRM_totalist_party_long:0 "Nagani-Buchclub"
@@ -43,7 +43,7 @@ BRM_rangoon_protest:0 "Sie könnten hinter diesen Protesten stecken!"
 
 ### Events ###
 burma.0.t:0 "Burma: Eine vom Krieg zerrissene Nation"
-burma.0.d:0 "Im Jahre 1921, als die indische Revolution in vollem Gange war, folgte Burma schnell. Bis 1925 war die Unabhängigkeit de facto gewonnen und der indische Bürgerkrieg kam zum Stillstand. Die Unabhängigkeit war gewonnen, aber der Frieden war noch in weiter Ferne, da sich das Land in einem Quasi-Bürgerkrieg zwischen den verschiedenen Minderheiten und der Zentralregierung in Rangoon befand. 1928, nach einem Scharmützel an der Grenze zu Siam, fiel das Königreich ein, und es folgte ein einjähriger blutiger Krieg. Der Vertrag von Moulmein, der von Deutschland und Japan ausgehandelt wurde, beendete den Konflikt, trat aber Lower Shan an Siam ab und liess die Besetzung von Moulmein und Niederburma unentschieden. Gedemütigt brach Chit Hlaings GCBA-Regierung bei den Wahlen von 1930 zusammen und die Nationalistische Partei der U Ba Pe gewann mit einem knappen Sieg. Bei den Wahlen von 1935 errangen U Ba Pe und seine reformierte Volkspartei vor dem Hintergrund von Korruptions- und Betrugsvorwürfen einen weiteren Sieg. Seitdem hat U Ba Pe darum gekämpft, seine Herrschaft gegen eine zunehmend radikale und politisch fordernde Bevölkerung zu festigen. Die ganze Zeit wartet Indien auf eine Gelegenheit, die Revolution nach Osten zu verbreiten. Wenn der Tag kommt, wird Burma bereit sein?"
+burma.0.d:0 "1921, als die indische Revolution in vollem Gange war, folgte Burma schnell nach. Bis 1925 war die Unabhängigkeit de facto gewonnen und der indische Bürgerkrieg kam zum Stillstand. Die Unabhängigkeit war errungen - aber der Frieden war in weiter Ferne, da sich das Land in einem Quasi-Bürgerkrieg zwischen den verschiedenen Minderheiten und der Zentralregierung in Rangun befand. Im Jahr 1928, nach einem Scharmützel an der südöstlichen Grenze, marschierte das Königreich Siam ein und es folgte ein einjähriger blutiger Krieg. Der Vertrag von Moulmein, der von Deutschland und Japan ausgehandelt wurde, beendete den Konflikt, trat aber Lower Shan an Siam ab und ließ die Besetzung von Moulmein und Niederbirma unentschieden. Gedemütigt brach Chit Hlaings GCBA-Regierung bei den Wahlen 1930 zusammen und U Ba Pe's Nationalistische Partei gewann in einem knappen Sieg. Bei den Wahlen 1935 errangen U Ba Pe und seine reformierte Volkspartei einen weiteren Sieg, vor dem Hintergrund von Korruptions- und Betrugsvorwürfen. Seitdem hat U Ba Pe damit zu kämpfen, seine Herrschaft gegen eine zunehmend radikale und politisch anspruchsvolle Bevölkerung zu zementieren. Die ganze Zeit über wartet Indien auf eine Gelegenheit, die Revolution nach Osten zu tragen. Wenn der Tag kommt, wird Burma bereit sein?"
 burma.0.a:0 "Wir werden diese Not gemeinsam durchstehen!"
 
 burma.1.t:0 "Unruhen und Proteste an der Universität von Rangun"
@@ -51,7 +51,7 @@ burma.1.d:0 "Die Unzufriedenheit mit der Korruption in der Regierung, mit dem im
 burma.1.a:0 "Senden Sie die Schlagstöcke und Säbel!"
 
 burma.2.t:0 "Unruhen und Proteste an der Universität von Rangun"
-burma.2.d:0 "Im benachbarten Burma breiten sich Unruhen unter einer politisch opferbereiten Jugend aus. Sie protestieren gegen die grassierende Korruption an der Universität von Rangun, den Mangel an Reformen und die unrechtmässige Herrschaft von Präsident U Ba Pe. Vorerst sind die Demonstrationen auf Rangun beschränkt, aber die Untätigkeit des gegenwärtigen Regimes könnte in den kommenden Monaten zu einem weiteren Ausbruch führen, besonders wenn die Arbeiter auf den Ölfeldern in Yenangyaung, Chauk und Minbu über lausige Löhne und schlechte Lebensbedingungen murren. Sollten sich die beiden Fraktionen vereinigen, könnten wir auf der anderen Seite des Golfs von Bengalen eine befreundete Regierung vorfinden."
+burma.2.d:0 "Im benachbarten Burma breiten sich Unruhen unter einer politisch ohnmächtigen Jugend aus, die gegen die grassierende Korruption an der Universität von Rangoon, gegen das Ausbleiben von Reformen und gegen die illegitime Herrschaft des Präsidenten U Ba Pe protestiert. Bis jetzt beschränken sich die Demonstrationen auf Rangoon, aber die Untätigkeit des gegenwärtigen Regimes könnte in den kommenden Monaten zu einem weiteren Ausbruch führen, besonders wenn die Arbeiter auf den Ölfeldern in Yenangyaung, Chauk und Minbu über lausige Bezahlung und schlechte Lebensbedingungen klagen. Sollten sich die beiden Fraktionen vereinigen, könnten wir auf der anderen Seite des Golfs von Bengalen eine freundliche Regierung vorfinden."
 burma.2.a:0 "Lassen Sie uns die Burmesen fest im Auge behalten!"
 
 burma.3.t:0 "Streiks auf den Ölfeldern von Yenangyaung"
@@ -60,12 +60,12 @@ burma.3.a:0 "Startet! Die Arbeiterbewegung muss zerschlagen werden!"
 burma.3.b:0 "Versuchen Sie, sie zu besänftigen..."
 
 burma.4.t:0 "Ranguner Studenten erheben sich in Solidarität!"
-burma.4.d:0 "Eine Katastrophe! Wie schon im Jahr zuvor haben sich Studenten der Universität Rangun in kritischen Demonstrationen und Protesten gegen die Präsidentschaft erhoben. In diesem Jahr haben sich jedoch die radikalisierten Studentenführer, die nach wie vor über zügellose Korruption und Autoritarismus klagen, mit den ebenso verärgerten Ölarbeitern in Yenangyaung, Chauk und Minbu zusammengetan, was der Bewegung eine wahrhaft nationale Reichweite verleiht. Wenn wir nicht zurückweichen und die Ehre der Nation beschmutzen wollen, kann nur eine entschlossene militärische Reaktion diese hoffnungslose Situation lösen!"
+burma.4.d:0 "Eine Katastrophe! Wie schon 1936 haben sich die Studenten der Universität Rangun in kritischen Demonstrationen und Protesten gegen die Präsidentschaft erhoben. Doch dieses Jahr haben sich die radikalisierten Studentenführer mit den ebenfalls verärgerten Ölarbeitern zusammengetan und der Bewegung eine wahrhaft nationale Dimension verliehen. Während die Aufständischen auf Rangun marschieren, wird nur eine entschlossene militärische Reaktion diese hoffnungslose Situation lösen!"
 burma.4.a:0 "Das ist ungeheuerlich, setzen Sie die Armee gegen diese Jugendlichen ein!"
 burma.4.b:0 "Der Präsident wurde getötet und eine provisorische Regierung gebildet!"
 
 burma.5.t:0 "Die Armee hat den Befehl, auf Demonstranten zu schießen"
-burma.5.d:0 "Nach einer scheinbaren Ewigkeit ist es schließlich zu einer Konfrontation zwischen den an der Universität von Rangun protestierenden Studenten und der burmesischen Armee gekommen. Der örtliche Kommandant wurde darüber informiert, dass sich ein Marsch streikender Ölarbeiter auf dem Weg in die Hauptstadt befindet und Unterstützung aus den ländlichen Dörfern auf dem Weg dorthin erhält. Hinzu kommt, dass vom Generalstab der Befehl kommt, dass die Armee die Demonstranten zerstreuen soll, während der Tag zu Ende geht, scheint Burmas Schicksal in greifbare Nähe gerückt zu sein."
+burma.5.d:0 "Nach einer gefühlten Ewigkeit ist es endlich zu einer Konfrontation zwischen den protestierenden Studenten der Universität Rangoon und der burmesischen Armee gekommen. Nachrichten haben den lokalen Kommandanten erreicht, dass ein Marsch streikender Ölarbeiter sich auf den Weg in die Hauptstadt macht und auf dem Weg Unterstützung aus den ländlichen Dörfern sammelt. Obendrein tickt der Befehl des Generalstabs, die Armee solle die Demonstranten auseinander treiben. Als der Tag sich dem Ende zuneigt, scheint es, als ob Burmas Schicksal in greifbare Nähe rückt."
 burma.5.a:0 "... aber schließt sich den Revolutionären an und stürzt die Regierung!"
 burma.5.b:0 "...und das richtig!"
 
@@ -101,6 +101,6 @@ burma.11.a:0 "Die Royalisten gewinnen!"
 burma.11.b:0 "Burma möchte eine Republik bleiben!"
 
 burma.12.t:0 "Die 1300er Revolution zerschlagen"
-burma.12.d:0 "Eine Katastrophe! Wie schon 1936 haben sich Studenten der Universität Rangun in kritischen Demonstrationen und Protesten gegen die Präsidentschaft erhoben. In diesem Jahr jedoch wurden die radikalisierten Studentenführer, die sich gegen die immer noch grassierende Korruption und den Autoritarismus wandten, aufgrund der mangelnden Unterstützung der zuvor streikenden Arbeiter niedergeschlagen. Als loyalistische Paramilitärs die Studentenaufstände niederschlugen, gab es innerhalb der Regierung Gespräche darüber, einen Selbstputsch zu begehen und U Ba Pe so zu stärken, wie er es sich seit Jahren gewünscht hatte... Natürlich könnten wir stattdessen den Deckmantel der Demokratie und die Fünf-Blumen-Koalition beibehalten."
+burma.12.d:0 "Eine Katastrophe! Wie schon 1936 haben sich die Studenten der Universität Rangun in kritischen Demonstrationen und Protesten gegen die Präsidentschaft erhoben. Dieses Jahr wurden die radikalisierten Studentenführer jedoch mangels Unterstützung durch die zuvor streikenden Arbeiter niedergeschlagen. Während loyalistische Paramilitärs die Studentenaufstände niederschlugen, gab es innerhalb der Regierung Gespräche darüber, einen Selbstputsch zu begehen und U Ba Pe zu ermächtigen, wie er es sich seit Jahren wünscht... Natürlich könnte man stattdessen den Anschein von Demokratie und der Fünf-Blumen-Koalition aufrechterhalten."
 burma.12.a:0 "Aufrechterhaltung der Koalition für innere Stabilität!"
 burma.12.b:0 "Verhaften Sie unsere Koalitionspartner und etablieren Sie die Nationalistische Partei wieder!"

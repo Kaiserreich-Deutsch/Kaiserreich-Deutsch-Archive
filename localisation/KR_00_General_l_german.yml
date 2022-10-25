@@ -1,5 +1,5 @@
-l_german:
-
+﻿l_german:
+### Übersetzt von Proho  ###
 ### Main Menu Tooltips ###
 COOP_MAIN_MENU_LINK:0 "Klicken Sie hier, um zum Coop-Diskord zu gelangen"
 KR_MAIN_MENU_LINK:0 "Klicken Sie hier, um zum Kaiserreich-Wiki zu gelangen"
@@ -14,9 +14,13 @@ RECALL_VOLUNTEERS_ACTION_SEND_DESC:0 "Rufen Sie alle Freiwilligen zurück, die n
 ### Regular Tooltips ###
 is_actual_major_tt:0 "Gilt als große Weltmacht"
 if_FROM_agrees:0 "Wenn §H[From.GetFlag] [From.GetNameDef]§! zustimmt:"
+needs_approval:0 "Wenn §H[This.GetNameDef]§! zustimmt:"
 upon_selecting_focus:0 "Bei Auswahl des Fokus:"
 tooltip_white_line:0 "   \n"
 integration_tooltip:0 "Nicht-integrierte Bereiche anzeigen"
+cannot_enact_conscription:0 "§RKann die Wehrpflicht nicht erhöhen.§!"
+cannot_train_units_tt:0 "§RSie können keine Einheiten ausbilden, Einheiten auflösen oder Einheitenvorlagen bearbeiten.§!\n"
+cannot_mobilise_tt:0 "§RKann die Wehrpflicht und die Mobilisierungsgesetze nicht erhöhen.§!\n"
 
 ### Renaming System ###
 toggle_renaming_button_tooltip:0 "[toggle_renaming_button_tooltip_loc]"
@@ -37,7 +41,7 @@ INTELLIGENCE_AGENCY_BLOCK_TOOLTIP:0 "[!intelligence_agency_blocker_button_click_
 
 ### Splash Screen ###
 KR_SPLASH_TITLE:0 "Willkommen bei Kaiserreich"
-KR_SPLASH_CREDITS:0 "§YZusammengestellt vom KR4-Team:§!\nAlpinia, Arvidus, Augenis, Blackfalcon501, DSFDarker, Carmain, Dr. Njitram, Drozdovite, Eragaxshim, Flamefang, Fort, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, Krco, Liegnitz, Maltesefalcon, Matoro, Nijato, NukeGaming, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Rylock, SPQR, Starguard, Telcontar101, The Alpha Dog, The Irredentista, Thomahawk2k, Vidyaország, WordZero, Yard1, Zankoas and Zimbabwe Salt Co."
+KR_SPLASH_CREDITS:0 "§YZusammengestellt vom KR4-Team:§!\nAdrianator2, Alpinia, Arvidus, Augenis, Blackfalcon501, DSFDarker, Carmain, Chazem, Conor, Dr. Njitram, Drozdovite, Eragaxshim, Flamefang, Fort, Gideones, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, Krco, Liegnitz, Maltesefalcon, Matoro, Nijato, NukeGaming, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Rylock, SPQR, Starguard, Telcontar101, The Alpha Dog, The Irredentista, Thomahawk2k, Vidyaország, WordZero, Yard1, Zankoas and Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho, XYungeloest, Schmiddlon, _R4ze_, Thylon, Davideko, Hydrus, MartenDE, Chromsh, DickSharpe, Semarc, Wolf, Silent_Wolf, Alex S, DerEherneRächer, naskamo"
 
 ### Autonomy Levels ###
 kr_integrated_puppet:0 "Integrierte Marionette"
@@ -66,15 +70,11 @@ clamour_for_independence:0 "Forderung nach Unabhängigkeit\n"
 clamour_for_autonomy:0 "Forderung nach Autonomie\n"
 
 ### Modifiers ###
-KR_trade_laws_cost_factor:0 "Handelsgesetze Kosten"
-KR_economy_cost_factor:0 "Wirtschaft Gesetze Kosten"
 chief_of_staff_cost_factor:0 "Stabschef Kosten"
 chief_of_army_cost_factor:0 "Heerführer Kosten"
 chief_of_navy_cost_factor:0 "Chef der Marine Kosten"
 chief_of_air_force_cost_factor:0 "Chef der Luftwaffe Kosten"
 weapons_manufacturer_cost_factor:0 "Waffenhersteller Kosten"
-cannot_train_units_tt:0 "§REs ist nicht möglich, Einheiten zu trainieren, Einheiten aufzulösen oder Einheitenvorlagen zu bearbeiten.§!\n"
-cannot_mobilise_tt:0 "§RKann weder die Wehrpflicht einführen noch die Wirtschaft mobilisieren.§!\n"
 
 ### Opinion Modifiers ###
 KR_friendly:0 "Freundlich"
@@ -174,7 +174,7 @@ mtg_exile_leader_added.1.t:0 "[exile_nation.GetAdjective] Exil-Führer bietet Di
 mtg_exile_leader_added.1.desc:0 "Nach einer langen und gefährlichen Reise durch feindliches Gebiet und mehrere neutrale Staaten ist ein hochrangiger Militäroffizier eines unserer kapitulierten Verbündeten endlich in der Hauptstadt eingetroffen. Nach einer kurzen Zeit der Erholung hat er seine Dienste in unserem gemeinsamen Kampf angeboten."
 mtg_exile_leader_added.1.a:0 "Ihr Kampf ist noch nicht vorbei."
 mtg_exile_government.2.title:0 "Die [From.GetAdjective] Regierung im Exil"
-mtg_exile_government.2.desc:0 "[From.GetLeader] hat bei der [Root.GetAdjective]-Regierung formell die Erlaubnis beantragt, zu [From.GetNameDef] zurückzukehren und ein provisorisches [From.GetRulingPartyLong]-Kabinett zur Vorbereitung des Nachkriegsfriedens wiederherzustellen."
+mtg_exile_government.2.desc:0 "[From.GetLeader] hat bei der [Root.GetAdjective]-Regierung formell die Erlaubnis beantragt, zu [From.GetNameDef] zurückzukehren und ein provisorisches [From.GetRulingParty]-Kabinett zur Vorbereitung des Nachkriegsfriedens wiederherzustellen."
 mtg_exile_government.2.a:0 "Es ist Zeit für sie, in ihr eigenes Territorium zurückzukehren."
 mtg_exile_government.2.b:0 "Die Zeit ist noch nicht reif."
 mtg_exile_government.3.title:0 "[From.GetName] ersuchen um Integration der Marine"
@@ -190,13 +190,19 @@ mtg_exile_government.5.a:0 "Sie stellen ihren Stolz über die Interessen des Bü
 mtg_generic.1.title:0 "[From.GetName] erzwingt Regierungswechsel"
 mtg_generic.1.desc:0 "Unter Hinweis auf den deutlichen Mangel an Wahlunterstützung für unsere gegenwärtige Regierung hat [From.GetNameDef] einen Politikwechsel gefordert."
 mtg_generic.1.a:0 "Wir haben keine andere Wahl als zu akzeptieren."
-mtg_exile_leader_added.1.t:1 "[exile_nation.GetAdjective] Exilführer bietet Dienst an"
-mtg_exile_leader_added.1.desc:1 "Nach einer langen und gefährlichen Reise durch feindliches Gebiet und mehrere neutrale Staaten ist [From.GetName] endlich in der Hauptstadt angekommen. Nach einer kurzen Zeit der Genesung hat [From.GetSheHe] [From.GetHerHis] Dienste in unserem gemeinsamen Kampf angeboten.\n\n Berichten zufolge ist [From.GetSheHe] ziemlich begierig darauf, "wieder in das Geschäft des Tötens von Menschen und des Zerstören von Dingen einzusteigen"."
-mtg_exile_leader_added.1.a:1 "Ihr Kampf ist noch nicht vorbei."
 
 ### Land Units ###
 militia:0 "Miliz"
 category_mounted_inf:0 "Berittene Infanterie"
+
+### Sub-unit Modifiers ###
+modifier_army_sub_unit_category_bicycle_battalion_attack_factor:0 "Fahrrad-Angriff" 
+modifier_army_sub_unit_category_bicycle_battalion_defence_factor:0 "Fahrrad-Verteidigung"
+modifier_army_sub_unit_category_bicycle_battalion_speed_factor:0 "Fahrrad Geschwindigkeit"
+
+modifier_army_sub_unit_category_militia_attack_factor:0 "Miliz-Angriff" 
+modifier_army_sub_unit_category_militia_defence_factor:0 "Miliz-Verteidigung"
+modifier_army_sub_unit_category_militia_speed_factor:0 "Miliz Geschwindigkeit"
 
 ### Tech ###
 military_police_tech:0 "Militärpolizei"
@@ -207,8 +213,8 @@ cl_tech_research:0 "Geschwindigkeit der Kreuzerforschung"
 refinery_bonus:0 "Raffinerie-Bonus"
 
 ### Interface ###
-weapons_manufacturer:0 "Waffen-Hersteller"
-air_naval_manufacturer:0 "Luft- und Marine-Hersteller"
+weapons_manufacturer:0 "Waffen-Konstrukteur"
+air_naval_manufacturer:0 "Luft- und Marine-Konstrukteur"
 can_replace_hog:0 "Kann Regierungschef ersetzen"
 for_cannot_be_replaced:0 "Außenminister kann nicht ersetzt werden"
 eco_cannot_be_replaced:0 "Wirtschaftsminister kann nicht ersetzt werden"
@@ -234,9 +240,9 @@ all_zhili_faction:0 "Zhili Clique"
 austrian_sphere:0 "Donau-Adriabund"
 Belgrade_Pact:0 "Belgrader Pakt"
 Belgian-Dutch_Treaty_Organisation:0 "BeNeSam"
-brotherhood_of_slavs:0 "Bruderschaft der Slawen"
+brotherhood_of_slavs:0 "Slawische Bruderschaft"
 buenos_aires_lima_faction:0 "Buenos Aires-Lima Achse"
-cairo_pact:0 "Cairo Pakt"
+cairo_pact:0 "Kairo-Pakt"
 CEN_anti_revolutionary_alliance:0 "Vorhut des Volkes"
 CEN_liberal_pact:0 "Liberaler Pakt"
 CEN_revolutionary_front:0 "Revolutionäre Front"
@@ -253,14 +259,14 @@ litrut_faction:0 "Litauisch-Ruthenische Allianz"
 maliphinsul_faction:0 "Maliphinsul"
 Mittelmacht:0 "Reichspakt"
 moscow_accord:0 "Moskauer Abkommen"
-north_zhili_faction:0 "Northern Zhili Clique"
+north_zhili_faction:0 "Nord-Zhili-Clique"
 npa_faction:0 "Nationale Schutzallianz"
 NRF_faction:0 "Nationale Revolutionäre Front"
-pacification_faction:0 "National Pacification Army"
-polukr_faction:0 "Syndicalist Intermarium"
-Qing_faction:0 "Qing-Reich."
+pacification_faction:0 "Nationale-Befriedungs-Armee"
+polukr_faction:0 "Syndikalistisches Intermarium"
+Qing_faction:0 "Qing-Reich"
 qing_sphere_faction:0 "Qing-Sphäre"
-SA_socialist_states:0 "Sozialistische Staaten Südamerikas"
+SA_socialist_states:0 "Sozialistische Staaten von Südamerika"
 SA_dismantle_patagonia:0 "Koalition zur Zerschlagung Andesiens"
 Scandinavian_Pact:0 "Skandinavischer Pakt"
 SCA_faction_scandinavian_defense_union:0 "Skandinavische Verteidigungsunion"
@@ -269,7 +275,7 @@ syndicalist_asia:0 "Östliche Syndikalistische Union"
 syndicalist_asia_per:0 "Asiatische Sozialistische Union"
 Syndicalist_Internationale:0 "Syndikalistische Internationale"
 Third_International:0 "Dritte Internationale"
-united_front_faction:0 "Chinesische Vereinigte Front"
+united_front_faction:0 "Vereinte Chinesische Front"
 yunnan_R_KMT_faction:0 "Nationalistische Gruppe Süd"
 
 ### Custom Triggers ###
@@ -279,7 +285,7 @@ is_valid_war_target_tooltip:0 "Ist ein gültiges Kriegsziel"
 not_during_ceasefire:0 "Nicht solange der Waffenstillstand eingehalten wird"
 
 ### World Tension ###
-second_american_civil_war_threat:0 "Zweiter Amerikanischer Bürgerkrieg"
+second_american_civil_war_threat:0 "Zweiter amerikanischer Bürgerkrieg"
 second_russian_civil_war_threat:0 "Zweiter russischer Bürgerkrieg"
 spanish_civil_war_threat:0 "Spanischer Bürgerkrieg"
 second_weltkrieg_threat:0 "Der Zweite Weltkrieg"
@@ -292,8 +298,8 @@ japanese_expansionism_threat:0 "Japanischer Expansionismus"
 mittelafrika_collapse_threat:0 "Der Zusammenbruch von Mittelafrika"
 democratic_win_acw_threat:0 "Föderaler Sieg"
 macarthur_wins_threat:0 "MacArthurs Sieg"
-aus_wins_acw_threat:0 "AUS Victory"
-csa_wins_acw_threat:0 "Sieg der CSA"
+aus_wins_acw_threat:0 "Sieg der amerikanischen Unionsstaaten"
+csa_wins_acw_threat:0 "Sieg der Kombinierten Syndikate von Amerika"
 belgrade_pact_threat:0 "Der Belgrader Pakt"
 fading_sun_threat:0 "Zusammenbruch des japanischen Reiches"
 GRE_took_diplomatic_path:0 "Griechenland verzichtet auf Megali"
@@ -341,6 +347,7 @@ marshal_of_the_palace:0 "Marschall des Palastes"         # ROM
 minister_of_native_affairs:0 "Min. für Eingeborenenfragen"   # SAF, SFR
 national_philosopher:0 "National Philosoph"           # NFA
 faction_minister:0 "Interne Fraktion"                       # JBS
+kings_trusted_councillor:0 "Königlicher Vertrauensmann"      # POL
 
 ### Company Traits ###
 
@@ -496,6 +503,8 @@ cat_line_artillery:0 "Linien-Artillerie"
 cat_light_armor_research:0 "Leichte Panzerung Forschung Geschwindigkeit"
 cat_light_spg:0 "Leichte Selbstfahrlafetten"
 cat_medium_spg:0 "Mittlere Selbstfahrlafetten"
+cat_heavy_spg:0 "Schwere Selbstfahrlafetten"
+tank_destroyer_tech:0 "Pak"
 efficiency_tech:0 "Produktionseffizienz-Technik"
 excavation_tech_research:0 "Bergbautechnische Forschungsgeschwindigkeit"
 construction_tech_research:0 "Geschwindigkeit der Bauforschung"
@@ -506,10 +515,14 @@ cr_tech:0 "Kreuzer Modelle"
 acr_tech:0 "Modelle von Panzerkreuzern"
 cat_targeting:0 "Feuerleit-Computer"
 cat_torpedo:0 "Torpedo Technologie"
+carrier_ship_tree:0 "Trägeroperationen"
+capital_ship_tree:0 "Hauptschiffs Operationen"
+cat_armored_car:0 "Panzerwagen"
+cat_special_units:0 "Spezialeinheiten"
 
 ### Hidden Techs ###
 camel_corps_tech:0 "Kamel-Korps"
-camel_corps_tech_effect:0 "Ermöglicht §HKamel-Korps§!\n§Kavallerie\n    Wüste§!\n      Attack: §G+15%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+3%§!\n\n"
+camel_corps_tech_effect:0 "Ermöglicht §HKamel-Korps§!\n§Kamelerie\n    Wüste§!\n      Attack: §G+15%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+3%§!\n\n"
 
 tech_ski_infantry:0 "Ski-Infanterie"
 tech_ski_infantry_effect:0 "Aktiviert §HSki-Infanterie§!\n§HInfantry\n    Hügel§!\n      Attack: §G+5%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+5%§!\n    §HMountain§!\n      Attack: §G+5%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+10%§!\n"
@@ -562,9 +575,9 @@ mobile_warfare_1:0 "Mobile Kriegsführung"
 mobile_warfare_2:0 "Mobile Kriegsführung"
 mobile_warfare_3:0 "Mobile Kriegsführung"
 
-Erweitertes Ingenieur-Korps_1:0 "Weltkriegs-Doktrin"
-Erweitertes Ingenieur-Korps_2:0 "Weltkriegs-Doktrin"
-Erweitertes Ingenieur-Korps_3:0 "Weltkriegs-Doktrin"
+entrenchment_1:0 "Weltkriegs-Doktrin"
+entrenchment_2:0 "Weltkriegs-Doktrin"
+entrenchment_3:0 "Weltkriegs-Doktrin"
 
 morale_1:0 "Inspirierender Führer"
 morale_2:0 "Inspirierender Führer"
@@ -746,15 +759,29 @@ black_monday:0 "Schwarzer Montag"
 
 jet_aircraft_manufacturer:0 "Düsenflugzeug-Hersteller"
 
-independent_war:0 "Unabhängigkeitskrieg"
-independent_war_desc:0 "Dieses Land befindet sich derzeit in einem Unabhängigkeitskrieg. Sie will nicht, dass andere Länder direkt in den Krieg verwickelt werden."
+### Generic Tech Sharing ###
+TECH_SHARNG_FACTOR_PER_COUNTRY:0 "\n\nJedes Mitglied mit einem Techniker reduziert die Zeit um $WERT|+%0$:\n"
+TECH_SHARNG_FACTOR_BASE:0 "Base: $WERT|0%Y$\n"
+TECH_SHARNG_COUNTRY_BONUS:0 "Bonus: $WERT|0%Y$\n"
+TECH_SHARNG_FACTOR_EXTRA_DESC:0 "\nEffektive Technologiefreigabe geändert auf $WERT|-%0$ aufgrund von:\n"
+TECH_SHARNG_RESEARCH_OPPORTUNITIES:0 "\nForschungsmöglichkeiten:"
+TECH_SHARNG_COUNTRY_RESEARCH_OPPORTUNITY:0 "\n@$TAG$$COUNTRY|H$: §Y$WERT$§! Technologien"
+TECH_SHARNG_GROUP_CATEGORIE_LIMIT:0 "\n\nBegrenzt auf: $LIST|Y$."
+TECH_SHARNG_DESCRIPTION_DELAYED:0 "Eine Technologie-Sharing-Gruppe wird umso stärker, je mehr Nationen in ihr sind. Für jedes Mitglied, das eine bestimmte Technologie erforscht hat, wird die Erforschung dieser Technologie für jemanden in der Gruppe, dem sie fehlt, beschleunigt."
+TECH_SHARNG_RESEARCH_BONUS_VALUE_DESC:0 "Technologiefreigabe: $WERT|+%0$\n"
+LICENSED_PRODUCTION_RESEARCH_BONUS_VALUE_DESC:0 "Lizenzierte Fertigung: $WERT|+%0$\n"
+TECH_SHARNG_RESEARCH_BONUS_VALUE_DETAILED_DESC:0 "\n$NAME|H$ Mitgliedschaft bietet $WERT|G%0$ Bonus (max $MAX|H%0$) aus Ländern:"
+TECH_SHARNG_RESEARCH_BONUS_VALUE_DETAILED_COUNTRY:0 "\n@$TAG$$COUNTRY|H$"
+continuous_tech_share_group_name:0 "Fraktion Forschung"
+continuous_tech_share_group_desc:0 "Reduzierte Forschungszeit durch Nationen in Ihrer Fraktion aufgrund Ihres aktiven kontinuierlichen Fokus."
+NO_OTHER_SHARING_GROUPS:0 "Ist nicht Teil einer Technologie-Sharing-Gruppe"
 
 ### Generic Focus Localisation ###
 WHILE_FOCUSING:0 "Während man sich darauf konzentriert, wird es folgende Auswirkungen geben:\n$EFF$"
 generic_focus:0 "Nationaler Fokus"
 NATIONAL_FOCUS_MUTUALLY_EXCLUSIVE_TREE:0 "Die Zweige schließen sich gegenseitig aus."
 NATIONAL_FOCUS_EXCLUSIVE_INFO_DESC:0 "Wechselseitig exklusiv mit"
-NATIONAL_FOCUS_EXCLUSIVE_INFO_ENTRY:0 "$Fokus|Y$"
+NATIONAL_FOCUS_EXCLUSIVE_INFO_ENTRY:0 "$FOCUS|Y$"
 NATIONAL_FOCUS_NO_CURRENT_EFFECT:0 "Dieser Fokus hat derzeit keine Wirkung. Veränderungen in der Weltlage können dies beeinflussen."
 continuous_naval_production:0 "Marine-Produktion"
 continuous_naval_production_desc:0 "Indem wir die Ressourcen auf unsere Werften konzentrieren und qualifizierte Schiffbauer vom Militärdienst freistellen, können wir die Produktionszeit für Schiffe drastisch reduzieren."
@@ -776,6 +803,20 @@ continuous_restrict_freedom:0 "Subjekte unterdrücken"
 continuous_restrict_freedom_desc:0 "Unsere kolonialen Untertanen haben ziemlich alberne Vorstellungen über Dinge wie "Selbstbestimmung" oder "nationale Unabhängigkeit" bekommen. Es ist an der Zeit, sie von diesen Vorstellungen zu enttäuschen."
 subject_autonomy_mod_tt:0 "Autonomie in den Unterbereichen: §G-0.5§!"
 unlocks_decision:0 "Entscheidung freischaltet: £decision_icon_small"
+
+### Generic Ideas ###
+generic_liberty_idea:0 "Geist der Freiheit"
+generic_liberty_idea_desc:0 "Die Freiheit ist etwas, das wir uns auf die Fahnen geschrieben haben, und dies inspiriert unsere Bevölkerung, uns zu unterstützen, auch wenn sie nicht immer mit unserer Politik oder dem Zustand des Landes im Moment einverstanden ist."
+generic_militarism_focus:0 "Militarismus"
+generic_militarism_focus_desc:0 "Unser Volk hat gelernt, die Armee als integralen Bestandteil unserer Nation zu sehen, und jeder Wehrpflichtige spielt seine Rolle. Das erlaubt uns, im Notfall Reserven, Milizen und andere paramilitärische Kräfte zu mobilisieren."
+generic_military_youth_focus:0 "Militär Jugend"
+generic_military_youth_focus_desc:0 "Vom jüngsten Alter an lernen unsere Bürger militärische Werte und integrieren sie als Teil ihres Lebens. Dies erhöht natürlich die Anzahl der Berufungen für die Armee, wenn sie das Erwachsenenalter erreichen."
+generic_ideological_fanaticism_focus:0 "Ideologischer Fanatismus"
+generic_ideological_fanaticism_focus_desc:0 "Unser Land ist das Zentrum unserer Ideologie, und unsere Ideologie ist das Gewebe des Landes. Viele sind bereit, für sein Überleben zu sterben, während andere sich leicht auf neue Positionen zurückziehen würden."
+generic_liberty_research_idea:0 "Universitätsstipendien"
+generic_liberty_research_idea_desc:0 "Wir zahlen bescheidene, aber immer noch relativ anständige Universitätsstipendien, um sicherzustellen, dass jeder angehende Student eine Chance auf eine höhere Ausbildung hat. Dies wird zwangsläufig die Größe unserer Intelligenzia erhöhen"
+generic_welfare_idea:0 "Wohlfahrts-Programme"
+generic_welfare_idea_desc:0 "Wir sorgen dafür, dass die Ärmsten in unserer Gesellschaft die Hilfe erhalten, die sie zum Überleben brauchen, damit sie nicht auf sich allein gestellt sind und vielleicht eines Tages für unsere Wirtschaft arbeiten."
 
 ### Generic Focuses ###
 generic_army_effort:0 "Moderne Kriegsführung"
@@ -883,17 +924,3 @@ generic_welfare:0 "Wohlfahrtsprogramme"
 generic_welfare_desc:0 "Die Gleichheit der Rechte und die Gleichheit in der Bildung sind zwei wichtige Meilensteine, aber die wirtschaftliche Gleichheit ist vielleicht der schwierigste. Auch wenn wir vielleicht nie eine vollkommene Gleichheit in diesem Bereich erreichen werden, so können wir doch zumindest die Ärmsten in unserem Land mit fairen Wohlfahrtsprogrammen unterstützen. Das sollte auch unserer Konsumwirtschaft zu einer Beschleunigung verhelfen."
 generic_national_identity:0 "Nationale Identität"
 generic_national_identity_desc:0 "Während die ideologische Debatte eine Debatte ist, in der wir uns für lange Zeit verlieren könnten, dürfen wir nicht vergessen, wer wir in unserem Kern sind. Wir sind einzigartig, wir kennen unsere Geschichte, unsere Kultur, und wir hoffen, dass unser Schicksal noch brillanter ist. Wenn wir heute eine bessere Gesellschaft geformt haben, werden wir morgen ein noch besseres Land formen."
-
-### Generic Ideas ###
-generic_liberty_idea:0 "Geist der Freiheit"
-generic_liberty_idea_desc:0 "Freiheit ist etwas, zu dessen Erhalt wir uns verpflichtet haben, und das inspiriert unsere Bevölkerung dazu, uns zu unterstützen, auch wenn sie vielleicht nicht immer mit unserer Politik oder dem Zustand des Landes im gegenwärtigen Augenblick einverstanden ist."
-generic_militarism_focus:0 "Militarismus"
-generic_militarism_focus_desc:0 "Unser Volk hat die Armee als integralen Bestandteil unserer Nation begriffen, und jeder Wehrpflichtige spielt seine Rolle. Dies ermöglicht es uns, im Notfall Reserven, Milizen und andere paramilitärische Kräfte zu mobilisieren."
-generic_military_youth_focus:0 "Militärische Jugend"
-generic_military_youth_focus_desc:0 "Vom jüngsten Alter an lernen unsere Bürger militärische Werte und integrieren sie als Teil ihres Lebens. Dies erhöht natürlich die Zahl der Berufungen für die Armee, wenn sie das Erwachsenenalter erreichen."
-generic_ideological_fanaticism_focus:0 "Ideologischer Fanatismus"
-generic_ideological_fanaticism_focus_desc:0 "Unser Land ist das Zentrum unserer Ideologie, und unsere Ideologie ist das Gewebe des Landes. Viele sind bereit, für sein Überleben zu sterben, während andere sich leicht auf neue Positionen zurückziehen würden."
-generic_liberty_research_idea:0 "Universitäts-Stipendien"
-generic_liberty_research_idea_desc:0 "Wir zahlen bescheidene, aber immer noch relativ anständige Hochschulstipendien, um sicherzustellen, dass jeder angehende Student eine Chance auf höhere Bildung hat. Dies wird zwangsläufig die Größe unserer Intelligenz erhöhen."
-generic_welfare_idea:0 "Wohlfahrtsprogramme"
-generic_welfare_idea_desc:0 "Wir sorgen dafür, dass die Ärmsten in unserer Gesellschaft die Hilfe erhalten, die sie zum Überleben brauchen, damit sie nicht für sich selbst sorgen müssen und eines Tages für unsere Wirtschaft arbeiten können."

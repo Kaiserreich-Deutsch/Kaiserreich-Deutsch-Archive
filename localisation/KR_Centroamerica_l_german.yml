@@ -1,0 +1,307 @@
+﻿l_german:
+
+### Parties ###
+CEN_totalist_party_long:0 "Partido Maximista"
+CEN_totalist_party:0 "PM"
+CEN_syndicalist_party_long:0 "Partido Sindicalista"
+CEN_syndicalist_party:0 "PS"
+CEN_radical_socialist_party_long:0 "Partido Nacional Revolucionario"
+CEN_radical_socialist_party:0 "PNR"
+CEN_social_democrat_party_long:0 "Partido Popular"
+CEN_social_democrat_liberal:0 "PT"
+CEN_social_democrat_liberal_long:0 "Partido del Trabajo"
+CEN_social_democrat_party:0 "PP"
+CEN_social_liberal_party_long:0 "Partido Liberal"
+CEN_social_liberal_party:0 "PL"
+CEN_market_liberal_party_long:0 "Partido de Unificación Democratica"
+CEN_market_liberal_party:0 "PUD"
+CEN_social_conservative_party_long:0 "Partido Unionista"
+CEN_social_conservative_party:0 "PU"
+CEN_authoritarian_democrat_party_long:0 "Administración Militar"
+CEN_authoritarian_democrat_party:0 "AM"
+CEN_paternal_autocrat_party_long:0 "Partido de Unificación"
+CEN_paternal_autocrat_party:0 "PU"
+CEN_national_populist_party_long:0 "Partido Nacional"
+CEN_national_populist_party:0 "PN"
+
+### Leaders ###
+POLITICS_MILITARY_COUNCIL_DESC:0 "Zentralamerika ist endlich wiedervereinigt, aber die politische Struktur des Landes ist noch nicht endgültig festgelegt. Vorerst wurde eine provisorische Übergangsregierung eingesetzt, in der die meisten auf den Streitkräften basierenden Machtblöcke aus der gesamten Region zumindest nominell vertreten sind."
+POLITICS_CENTRAL_AMERICAN_COUNCIL_DESC:0 "Zentralamerika ist endlich wiedervereinigt, aber die politische Struktur des Landes ist noch nicht endgültig festgelegt. Vorerst wurde eine provisorische Übergangsregierung eingesetzt, in der die meisten demokratischen Machtblöcke aus der gesamten Region zumindest nominell vertreten sind."
+POLITICS_REVOLUTIONARY_COUNCIL_DESC:0 "Zentralamerika ist endlich wiedervereinigt, aber die politische Struktur des Landes ist noch nicht endgültig festgelegt. Vorerst wurde eine provisorische Übergangsregierung eingesetzt, in der die meisten sozialistischen Machtblöcke aus der gesamten Region zumindest nominell vertreten sind."
+
+### Decisions ###
+Forming_Central_America:0 "Zentralamerikanische Politik"
+Forming_Central_America_desc:0 "Die zentralamerikanische Politik kann manchmal sehr komplex sein. Es geht vor allem darum, sich gegenseitig auszuspielen und gleichzeitig auf der Seite derer zu stehen, die ein Auge auf die Region geworfen haben, weshalb man sorgfältig navigieren muss."
+
+CEN_unite_central_america:0 "[CEN_unite_central_america_title]"
+CEN_unite_central_america_desc:0 "[CEN_unite_central_america_description]"
+
+CEN_unite_central_america_socialist:0 "Gründet Zentralamerika"
+CEN_unite_central_america_socialist_desc:0 "Die Revolution hat Erfolg! Die Fesseln der Militärregierung und diejenigen, die sich dem Sozialismus widersetzen, wurden aus unseren rechtmäßigen Ländern hinausgeworfen und haben nur befreite Länder hinterlassen. Dies wäre der perfekte Zeitpunkt, um ein vereintes Zentralamerika zu schaffen, um den fremden Einfluss für immer abzuwehren."
+
+CEN_unite_central_america_liberal:0 "Gründung der Zentralamerikanischen Konföderation"
+CEN_unite_central_america_liberal_desc:0 "With the wiping out of the corrupt military governments and the radical socialists, all that's left in Central America is the idea of Liberalism. Together, we shall free the people of Central America from both ourselves and outside threats."
+
+CEN_unite_central_america_military:0 "Gründet die Zentralamerikanische Republik"
+CEN_unite_central_america_military_desc:0 "Wir stehen jetzt fest über allen anderen als amerikanisch ausgerichtete Militärregierungen, mit den Ideen des Liberalismus und Sozialismus gründlich unterdrückt. Wir können nun eine zentralamerikanische Nation bilden, um sowohl der Nation zu helfen als auch den Amerikanern in ihrer Notlage."
+
+CEN_form_ties:0 "Verbindungen mit [FROM.GetNameDef] herstellen"
+CEN_form_ties_desc:0 "[CEN_form_ties_desc_text]"
+
+CEN_form_ties_GUA_socialist:0 "Die Guatemalteken haben es endlich geschafft, die letzten drei Jahrzehnte der Militärherrschaft zu stürzen und den Staat für sich zu sichern. Obwohl sie immer noch in einer Koalition mit der Einheitspartei feststecken, ist heute ein großer Tag für Guatemala, zu dem wir ihnen gratulieren müssen."
+CEN_form_ties_ELS_socialist:0 "El Salvador hat es geschafft, das Massaker von 1932 zu rächen, indem es die dekadente Pro-Patria-Partei aus dem Amt stürzte. Ihr Volk soll nicht länger wie Schweine abgeschlachtet werden, stattdessen sehen wir in der Zukunft ein helles neues Leben, in das wir gemeinsam eintreten können."
+CEN_form_ties_HON_socialist:0 "Während die "Revolution" in Honduras vor Jahren im Vergleich zum alten Diktator etwas aufhellte, erwies sich der Bauernrat nur als eine weitere Diktatur in Verkleidung. Aber nicht mehr lange, denn das honduranische Volk hat sich befreit und marschiert in ein neues Licht für Zentralamerika, in das wir mit ihnen gehen werden."
+CEN_form_ties_NIC_socialist:0 "Nicaragua ist seit 1932 die Heimat der Ideale des zentralamerikanischen Sozialismus, und sie sind nicht an uns gescheitert. Der Revolution immer treu bleibend, werden wir nun an ihrer Seite ins Licht treten, um den Rest Mittelamerikas zu befreien."
+
+CEN_form_ties_GUA_liberal:0 "Guatemala hat es geschafft, aus der Koalition mit den Sozialisten herauszukommen, wobei die Partei der Einheit als Sieger hervorging. Guatemala soll nun als Leuchtturm der demokratischen mittelamerikanischen Einheit dienen, mit der wir uns verbünden müssen."
+CEN_form_ties_ELS_liberal:0 "El Salvador hat es geschafft, nach der Herrschaft der Pro-Patria-Partei wieder das Präsidentenamt zu schaffen. Wir müssen sicherstellen, dass wir bei zukünftigen Konflikten auf ihrer guten Seite bleiben."
+CEN_form_ties_HON_liberal:0 "Honduras hat es geschafft, die ersten wirklich freien Wahlen nach dem Zusammenbruch Amerikas abzuhalten und damit die Möglichkeit einer neuen demokratischen Bastion in Mittelamerika zu eröffnen. Wir müssen dafür sorgen, dass das so bleibt."
+CEN_form_ties_NIC_liberal:0 "Nicaragua hat es in einer unerwarteten Wendung der Ereignisse geschafft, Sandino aus Nicaragua zu entsorgen und eine "wahre revolutionäre Republik" zu errichten, die auf den Idealen des Liberalismus basiert. Wir sollten uns ihnen anschließen und diese Transformation feiern."
+
+CEN_form_ties_GUA_military:0 "Durch allgemeine Beharrlichkeit und Hartnäckigkeit hat Guatemalas Partido Liberal die Macht gegen die revolutionäre Bedrohung behalten. Wir müssen sicherstellen, dass sie nie wieder bedroht werden."
+CEN_form_ties_ELS_military:0 "Die Diktatur in El Salvador hat es geschafft, ihre zweite Revolution im letzten Jahrzehnt zu überleben, was ihre Widerstandsfähigkeit beweist. Wir müssen sicherstellen, dass wir auch in Zukunft mit ihnen zusammenarbeiten."
+CEN_form_ties_HON_military:0 "Die neue Herrschaft von Honduras in den 30er Jahren hat es geschafft, sich zu bewahren und den schweren Sturm, den der amerikanische Bürgerkrieg mit sich brachte, zu überstehen. Um eine weitere ähnliche Krise zu verhindern, müssen wir für eine engere Zusammenarbeit zwischen unseren Nationen sorgen."
+CEN_form_ties_NIC_military:0 "Nicaragua hatte es geschafft, im Krieg gegen Honduras den Kürzeren zu ziehen und die exilierte Guardia an die Macht zu bringen. Als eine Art Gratulation sollten wir vielleicht einen Gesandten schicken?"
+
+CEN_support_guatemala_war_revolutionary:0 "Unterstützt die Revolution in Guatemala"
+CEN_support_guatemala_war_revolutionary_desc:0 "Die Militärdiktatur in El Salvador ist in Guatemala eingedrungen, nachdem die Revolution dort erfolgreich war. Wer hier den Sieg davonträgt, entscheidet über das Schicksal des gesamten nördlichen Mittelamerikas, das für den Erfolg der Revolution gegen autokratische Machthaber essentiell ist."
+
+CEN_support_el_salvador_war_revolutionary:0 "Unterstützt die Revolution in El Salvador"
+CEN_support_el_salvador_war_revolutionary_desc:0 "El Salvador hat es geschafft, sich aus den Fängen der Pro-Patria-Partei zu befreien, aber ihre Probleme sind noch nicht vorbei. Guatemala, das immer noch seine Diktatur beibehält, ist in El Salvador einmarschiert und versucht, die revolutionäre Sympathie ein für alle Mal zu unterdrücken."
+
+CEN_support_honduras_war_revolutionary:0 "Unterstützt die Revolution in Guatemala"
+CEN_support_honduras_war_revolutionary_desc:0 "Nicaragua, unter dem Vorwand, ihren "Liberalismus" im kürzlich befreiten Honduras zu verbreiten, ist in diese einmarschiert. Wir müssen sicherstellen, dass diese Verräter in ihrem Bestreben scheitern, sowohl um Sandinos als auch um des Volkes willen."
+
+CEN_support_nicaragua_war_revolutionary:0 "Unterstützt die Revolution in Nicaragua"
+CEN_support_nicaragua_war_revolutionary_desc:0 "Nicaragua hat endlich damit begonnen, sowohl Honduras zu befreien als auch die Überreste seiner Militärregierung zu zerstören. Ihr Erfolg ist hier von größter Bedeutung!"
+
+CEN_found_revolutionary_pact:0 "Gründung der Revolutionären Front"
+CEN_found_revolutionary_pact_desc:0 "Vielen unserer Politiker haben darüber diskutiert und sind zu dem Schluss gekommen, dass wir einen Pakt zwischen den jetzigen und zukünftigen sozialistischen Nationen innerhalb Mittelamerikas gründen müssen, um den Liberalen und Diktatoren entgegenzutreten."
+
+CEN_found_liberal_pact:0 "Gründung des Liberalen Paktes"
+CEN_found_liberal_pact_desc:0 "Die Idee eines Paktes zwischen liberal ausgerichteten Ländern innerhalb Zentralamerikas ist etwas, das wir in Betracht ziehen sollten, um in Zukunft Militärregierungen und sozialistische Revolutionäre mit anderen abzuwehren."
+
+CEN_found_military_pact:0 "Gründung der Vorhut des Volkes"
+CEN_found_military_pact_desc:0 "Die Vorhut des Volkes, die die Mittelamerikaner vor äußeren Bedrohungen schützen soll, soll hier gegründet werden und versucht, der Revolution um jeden Preis zu widerstehen."
+
+CEN_join_faction:0 "Tretet der [FROM.GetFactionName] bei"
+CEN_join_faction_desc:0 "[CEN_join_faction_desc_text]"
+CEN_join_faction_desc_socialist:0 "Die Revolutionäre Front wurde von Gleichgesinnten gegründet, die sich zusammenschließen wollen, um den Sozialismus nach Mittelamerika zu bringen. Es ist unsere Aufgabe, uns ihr anzuschließen, um unserer Brüder im Ausland willen."
+CEN_join_faction_desc_liberal:0 "Der liberale Pakt wurde von einem befreundeten demokratischen Land gegründet, das bereit ist, sowohl die Sozialisten als auch die Autokratien im Namen des Volkes zu stürzen."
+CEN_join_faction_desc_military:0 "Die Vorhut des Volkes wurde gegründet, um das Volk vor sich selbst zu schützen, und ist definitiv etwas, dem man sich anschließen sollte."
+
+CEN_leave_faction:0 "Verlasst die [FROM.GetFactionName]"
+
+CEN_invite_country_to_faction:0 "Ladet [FROM.GetNameDef] in die [ROOT.GetFactionName] ein"
+CEN_invite_country_to_faction_desc:0 "[CEN_invite_country_to_faction_desc_text]"
+
+CEN_invite_country_to_faction_GUA_socialist:0 "Guatemala hat es geschafft, drei Jahrzehnte militärischer Stagnation zu beenden und ist bereit, sich in die Zukunft zu stürzen. Gemeinsam werden wir Mittelamerika befreien."
+CEN_invite_country_to_faction_ELS_socialist:0 "Honduras, obwohl einige ihre Regierungsmethoden in Frage stellen, hat sich der Revolution angeschlossen und ist ein notwendiges Mitglied der Front."
+CEN_invite_country_to_faction_HON_socialist:0 "El Salvador, das einen der grausamsten Diktatoren von ganz Mittelamerika hatte, hat es geschafft, sich von den Ketten zu befreien, die sie fesselten. Ihre Teilnahme an der Front ist notwendig."
+CEN_invite_country_to_faction_NIC_socialist:0 "Nicaragua ist seit 1933 die Bastion der mittelamerikanischen Revolution und wird ein wesentliches Mitglied der Front sein."
+
+CEN_invite_country_to_faction_GUA_liberal:0 "Guatemala hat es geschafft, seinen Kampf für die Freiheit und die Ideale der mittelamerikanischen Vereinigung zu beenden, bereit, sich uns in unserem Kampf für die Freiheit anzuschließen."
+CEN_invite_country_to_faction_ELS_liberal:0 "El Salvador steht nun als rechtmäßige Präsidialrepublik da und sieht das Licht der Demokratie und die Ideale des Liberalismus."
+CEN_invite_country_to_faction_HON_liberal:0 "Honduras hat es geschafft, friedlich in eine Periode der Demokratie überzugehen, und scheint bereit zu sein, sich uns im Kampf gegen unsere Gegner anzuschließen."
+CEN_invite_country_to_faction_NIC_liberal:0 "Nicaragua hat es geschafft, sich von den persönlichen Fesseln sowohl des Sozialismus als auch der Vereinigten Staaten zu befreien und ist bereit, mit uns für ein besseres Mittelamerika zu kämpfen."
+
+CEN_invite_country_to_faction_GUA_military:0 "Guatemalas jahrzehntelange Status-quo-Präsidentschaft hat sich durch Blut, Schweiß und Tränen erhalten, bereit, den Status quo ein für alle Mal zu sichern."
+CEN_invite_country_to_faction_ELS_military:0 "El Salvador sieht sich, nachdem es die zweite Revolution überlebt hat, bereit, den Sozialismus und den Liberalismus auszurotten, um noch mehr Tote unter ihrem Volk zu verhindern."
+CEN_invite_country_to_faction_HON_military:0 "Honduras hat es geschafft, den Status quo während des gesamten vergangenen Jahres beizubehalten und bewies, dass es bereit ist, sein Volk vor sich selbst in der Vorhut des Volkes zu schützen."
+CEN_invite_country_to_faction_NIC_military:0 "Nicaragua hat es nach der Besetzung durch Honduras geschafft, unabhängig zu werden, und sieht sich bereit, uns in unserer Sache zu helfen."
+
+CEN_attack_country:0 "[CEN_attack_country_title]"
+CEN_attack_country_desc:0 "[CEN_attack_country_description]"
+
+CEN_attack_country_socialist_vs_liberal:0 "Beendet den kleinlichen Liberalismus"
+CEN_attack_country_socialist_vs_liberal_desc:0 "Der Liberalismus ist zwar nicht so sehr eine direkte Bedrohung wie die Diktatoren um uns herum, aber er ist eine sehr gefährliche Sache, da er als unser direkter Gegenspieler dient. Auch er muss ausgemerzt werden."
+
+CEN_attack_country_socialist_vs_military:0 "Stürzt die Diktatoren"
+CEN_attack_country_socialist_vs_military_desc:0 "Diese Diktatoren haben den Aufstieg des Sozialismus viel zu lange verhindert, damit ist jetzt Schluss."
+
+CEN_attack_country_liberal_vs_socialist:0 "Beseitigt die Radikalen"
+CEN_attack_country_liberal_vs_socialist_desc:0 "Der Sozialismus ist eine direkte Bedrohung für die Freiheit und Selbstbestimmung des Volkes und stellt eine ebenso große Bedrohung dar wie die unterdrückerischen Diktatoren."
+
+CEN_attack_country_liberal_vs_military:0 "Beansprucht unser Schicksal zurück"
+CEN_attack_country_liberal_vs_military_desc:0 "Unsere langjährigen Rivalen, die Militärs und Diktatoren Mittelamerikas, werden endlich ein für alle Mal durch unsere eigenen Hände zur Rechenschaft gezogen werden."
+
+CEN_attack_country_military_vs_socialist:0 "Rottet den Sozialismus aus"
+CEN_attack_country_military_vs_socialist_desc:0 "Angesichts der Spannungen, die jede Minute innerhalb Mittelamerikas explodieren können, ist es vielleicht an der Zeit, den Konflikt mit den Sozialisten zu entfachen?"
+
+CEN_attack_country_military_vs_liberal:0 "End the Threat of Liberalism"
+CEN_attack_country_military_vs_liberal_desc:0 "Der Liberalismus hat unsere Art lange genug bedroht und die Dinge sind bereits am Siedepunkt, warum sollte das Ganze nicht mit den Liberalen beginnen?"
+
+### Opinion Modifiers ###
+CEN_established_ties:0 "Wir haben die Beziehungen zwischen unseren Nationen formell hergestellt."
+CEN_accepted_friendship:0 "Akzeptierte den Freundschaftsvertrag"
+CEN_refused_friendship:0 "Lehnt den Freundschaftsvertrag ab"
+
+### Tooltips ###
+
+soc_dem_revolutionary:0 "Sie sind ein sozialdemokratischer Revolutionär."
+soc_dem_democratic:0 "Sie sind ein liberal ausgerichteter Sozialdemokrat."
+CEN_prepare_your_ass:0 "§RDer Konflikt wird bald auf dem Subkontinent ausbrechen, wir müssen bereit sein§!"
+CEN_sparks_flying:0 "§RDamit beginnt sich das Rad des Konflikts, der über das Schicksal Zentralamerikas entscheidet, zu drehen.§!"
+CEN_demgeneraltransfer_tt:0 "Erhält neue Minister und alle demokratisch orientierten Generäle Zentralamerikas.\n\n"
+CEN_milgeneraltransfer_tt:0 "Erhält neue Minister und alle autoritär ausgerichteten mittelamerikanischen Generäle.\n\n"
+CEN_socgeneraltransfer_tt:0 "Erhält neue Minister und alle sozialistisch orientierten Generäle Zentralamerikas.\n\n"
+
+## Trigger Tooltips ##
+CEN_state_aligned:0 "Der Besitzer muss entweder ein Untertan von §Y[Root.GetNameDef]§! oder eine neutrale, [ROOT.CEN_formation_adjective_desc] zentralamerikanische Nation sein, die sich nicht im Krieg befindet\n"
+
+### Country Names ###
+CEN_totalist:0 "Zentralamerika"
+CEN_totalist_ADJ:0 "zentralamerikanische"
+CEN_totalist_DEF:0 "Zentralamerika"
+CEN_syndicalist:0 "Zentralamerika"
+CEN_syndicalist_ADJ:0 "zentralamerikanische"
+CEN_syndicalist_DEF:0 "Zentralamerika"
+CEN_radical_socialist:0 "Zentralamerika"
+CEN_radical_socialist_ADJ:0 "zentralamerikanische"
+CEN_radical_socialist_DEF:0 "Zentralamerika"
+CEN_social_democrat:0 "Zentralamerika"
+CEN_social_democrat_ADJ:0 "zentralamerikanische"
+CEN_social_democrat_DEF:0 "Zentralamerika"
+CEN_social_liberal:0 "Zentralamerikanische Konföderation"
+CEN_social_liberal_ADJ:0 "zentralamerikanische"
+CEN_social_liberal_DEF:0 "die Zentralamerikanische Konföderation"
+CEN_market_liberal:0 "Zentralamerikanische Konföderation"
+CEN_market_liberal_ADJ:0 "zentralamerikanische"
+CEN_market_liberal_DEF:0 "die Zentralamerikanische Konföderation"
+CEN_social_conservative:0 "Zentralamerikanische Konföderation"
+CEN_social_conservative_ADJ:0 "zentralamerikanische"
+CEN_social_conservative_DEF:0 "die Zentralamerikanische Konföderation"
+CEN_authoritarian_democrat:0 "Zentralamerikanische Republik"
+CEN_authoritarian_democrat_ADJ:0 "zentralamerikanische"
+CEN_authoritarian_democrat_DEF:0 "die Zentralamerikanische Republik"
+CEN_paternal_autocrat:0 "Zentralamerikanische Republik"
+CEN_paternal_autocrat_ADJ:0 "zentralamerikanische"
+CEN_paternal_autocrat_DEF:0 "die Zentralamerikanische Republik"
+CEN_national_populist:0 "Zentralamerikanische Republik"
+CEN_national_populist_ADJ:0 "zentralamerikanische"
+CEN_national_populist_DEF:0 "die Zentralamerikanische Republik"
+
+CEN_CON_totalist:0 "Zentroamérika"
+CEN_CON_totalist_ADJ:0 "zentroamérikanische"
+CEN_CON_totalist_DEF:0 "die Zentroamérika"
+CEN_CON_syndicalist:0 "Zentroamérika"
+CEN_CON_syndicalist_ADJ:0 "zentroamérikanische"
+CEN_CON_syndicalist_DEF:0 "die Zentroamérika"
+CEN_CON_radical_socialist:0 "Zentralamerikanische Konföderation"
+CEN_CON_radical_socialist_ADJ:0 "zentralamerikanische"
+CEN_CON_radical_socialist_DEF:0 "die Zentralamerikanische Konföderation"
+CEN_CON_social_democrat:0 "Zentralamerikanische Konföderation"
+CEN_CON_social_democrat_ADJ:0 "zentralamerikanische"
+CEN_CON_social_democrat_DEF:0 "die Zentralamerikanische Konföderation"
+CEN_CON_social_liberal:0 "Zentralamerikanische Konföderation"
+CEN_CON_social_liberal_ADJ:0 "zentralamerikanische"
+CEN_CON_social_liberal_DEF:0 "die Zentralamerikanische Konföderation"
+CEN_CON_market_liberal:0 "Zentralamerikanische Konföderation"
+CEN_CON_market_liberal_ADJ:0 "zentralamerikanische"
+CEN_CON_market_liberal_DEF:0 "die Zentralamerikanische Konföderation"
+CEN_CON_social_conservative:0 "Zentralamerikanische Konföderation"
+CEN_CON_social_conservative_ADJ:0 "zentralamerikanische"
+CEN_CON_social_conservative_DEF:0 "die Zentralamerikanische Konföderation"
+CEN_CON_authoritarian_democrat:0 "Zentralamerikanische Republik"
+CEN_CON_authoritarian_democrat_ADJ:0 "zentralamerikanische"
+CEN_CON_authoritarian_democrat_DEF:0 "die Zentralamerikanische Republik"
+CEN_CON_paternal_autocrat:0 "Zentralamerikanische Republik"
+CEN_CON_paternal_autocrat_ADJ:0 "zentralamerikanische"
+CEN_CON_paternal_autocrat_DEF:0 "die Zentralamerikanische Republik"
+CEN_CON_national_populist:0 "Zentralamerikanische Republik"
+CEN_CON_national_populist_ADJ:0 "zentralamerikanische"
+CEN_CON_national_populist_DEF:0 "die Zentralamerikanische Republik"
+
+### Events ###
+cend.1.t:0 "[From.GetNameDefCap] sendet eine Botschaft"
+
+cend.1.d.GUA_socialist:0 "Mit dem Erfolg der sozialistischen Einheitskoalition haben wir es geschafft, uns gegen alle Widerstände aus den Fängen sowohl von Ubico als auch von Orellana zu befreien. Dies hat es geschafft, die Diplomatie mit anderen gleichgesinnten revolutionären Nationen zu eröffnen, das jüngste Beispiel ist [From.GetNameDefCap]. Sie hoffen, Verbindungen mit uns und anderen aufzubauen, um den Rest Mittelamerikas von dem zu befreien, worunter auch wir gelitten haben. Hoffentlich kann dies eine engere Zusammenarbeit zwischen unseren Nationen in der Zukunft bedeuten."
+cend.1.d.GUA_liberal:0 "Seit wir mehr Demokratie erreicht haben, sind unsere liberalen Freunde aus [From.GetNameDefCap] an uns herangetreten, um engere Beziehungen zu knüpfen. Dies ist eine große Geste, die wir nicht ignorieren können. Wir müssen mit unseren Freunden zusammenarbeiten, um die Demokratie im Rest Mittelamerikas zu fördern."
+cend.1.d.GUA_military:0 "Wir sind von [From.GetNameDefCap] angesprochen worden. Sie kennen unseren Kampf und nachdem wir erfolgreich an der Macht geblieben sind, sind sie nun mit einem Freundschaftsangebot an uns herangetreten. Das können wir nicht ablehnen, da wir immer von einer Revolution bedroht sind."
+
+cend.1.d.ELS_socialist:0 "Mit dem Erfolg von Martí in der Revolution gegen die korrupte Militärdiktatur hat er es geschafft, die volle Kontrolle über El Salvador zu gewinnen und das Volk wirklich zu befreien. Dies wurde von dem befreundeten revolutionären Land [From.GetNameDefCap] bemerkt, in der Hoffnung, Verbindungen mit uns aufzubauen, um den Rest Mittelamerikas von dem zu befreien, worunter wir auch gelitten haben. Hoffentlich kann dies eine engere Zusammenarbeit zwischen unseren Nationen in der Zukunft bedeuten."
+cend.1.d.ELS_liberal:0 "[From.GetNameDefCap] haben eine Delegation geschickt, um engere Beziehungen zu knüpfen, nachdem wir die Präsidentschaft wiederhergestellt haben. Dies zeigt ernsthaften guten Willen, etwas, das wir an unserer Stelle zurückgeben müssen. Wir werden gemeinsam eine dauerhafte Freundschaft aufbauen, um hoffentlich in der Lage zu sein, die Demokratie in ganz Mittelamerika zu stärken."
+cend.1.d.ELS_military:0 "Nun, da wir eine zweite Revolution überlebt haben, ist  [From.GetNameDefCap] als Freunde zu uns gekommen. Wir müssen diese Gelegenheit nutzen, um engere Bande zu knüpfen, damit wir vereint dastehen, wenn wir erneut von der allgegenwärtigen Geißel der Revolution bedroht werden."
+
+cend.1.d.HON_socialist:0 "Obwohl viele die Legitimität unseres Sozialismus in Mittelamerika in Frage stellen, sind sich alle einig, dass wir an der Seite der Revolution mit unseren mittelamerikanischen Partnern stehen. Infolgedessen hat [From.GetNameDefCap] eine Botschaft geschickt, die unserer neuen Regierung zu ihrem Erfolg in ihrer Revolution gratuliert und auf weitere Zusammenarbeit in der Zukunft hofft."
+cend.1.d.HON_liberal:0 "Nachdem wir erfolgreich unsere ersten wirklich freien Wahlen abgehalten haben, sind unsere demokratischen Freunde aus [From.GetNameDefCap] zu uns gekommen, um engere Beziehungen zu knüpfen. Das ist ein großartiger Vorschlag, und wir werden gemeinsam an der Stärkung der Demokratie in unseren beiden Ländern und im Rest Mittelamerikas arbeiten."
+cend.1.d.HON_military:0 "Jetzt, da wir fest an der Macht sind, haben [From.GetNameDefCap] angeboten, engere Beziehungen zu knüpfen. Wir müssen das annehmen, damit wir zusammenarbeiten können, um zu verhindern, dass sich die Revolution in ganz Mittelamerika ausbreitet. Wir wollen nicht, dass andere fallen, denn wenn einer gefallen ist, werden sie zweifelsohne versuchen, den nächsten zu stürzen."
+
+cend.1.d.NIC_socialist:0 "Da wir es geschafft haben, den Sturm der amerikanischen Besatzung und die zentralamerikanische Krise zu überstehen, sind wir ein sehr begehrter Verbündeter unter den Revolutionären innerhalb Mittelamerikas. [From.GetNameDefCap] hat dies erkannt und uns eine Botschaft geschickt, um die weitere Zusammenarbeit zwischen unseren Nationen zu gewährleisten."
+cend.1.d.NIC_liberal:0 "Nach unserer liberalen Transformation ist [From.GetNameDefCap] an uns herangetreten, um uns zu unserer Leistung zu gratulieren und mit dem Angebot, engere Beziehungen zu entwickeln. Wir werden dies natürlich annehmen und ein starkes Band der Freundschaft zwischen befreundeten zentralamerikanischen Nationen knüpfen, mit dem Ziel der Stärkung der Demokratie."
+cend.1.d.NIC_military:0 "[From.GetNameDefCap] sind zu uns gekommen, um bessere Beziehungen zu entwickeln. Wir können das nicht ablehnen, da wir immer Gefahr laufen, von einer Revolution verschlungen zu werden, das liegt in der Natur unseres Regimes. Die Entwicklung engerer Beziehungen zu Ländern wie uns wird sicherstellen, dass sich die Revolution nicht in ganz Mittelamerika ausbreitet."
+
+cend.1.a:0 "Die sozialistische Einheit kommt stark heraus."
+cend.1.b:0 "In Zeiten der Not kommen wir zusammen."
+cend.1.c:0 "Gemeinsam stehen wir gegen die Revolution."
+
+cend.5.t:0 "Gründung der Revolutionären Front"
+cend.5.d.socialist:0 "Die Revolutionäre Front, gegründet von [From.GetNameDefCap], soll ein Pakt sein, um die Männer Mittelamerikas gegen diejenigen zu organisieren, die sie unterdrücken würden. Die Liberalen, die uns in der Vergangenheit so oft verraten haben, die Militärdiktatoren, die uns geschadet haben, und die ausländischen Unterdrücker, die sie unterstützen. Es ist an der Zeit, dass diese Fessel ein für alle Mal abgeworfen wird!"
+cend.5.d.liberal:0 "Die Revolutionäre Front, gegründet von [From.GetNameDefCap], soll ein Pakt sein, um die Männer Mittelamerikas gegen diejenigen zu organisieren, die sie unterdrücken würden. Die Liberalen, die uns in der Vergangenheit so oft verraten haben, die Militärdiktatoren, die uns geschadet haben, und die ausländischen Unterdrücker, die sie unterstützen. Es ist an der Zeit, dass diese Fessel ein für alle Mal abgeworfen wird!"
+cend.5.d.military:0 "Die Revolutionäre Front, gegründet von [From.GetNameDefCap], soll ein Pakt sein, um die Männer Mittelamerikas gegen diejenigen zu organisieren, die sie unterdrücken würden. Die Liberalen, die uns in der Vergangenheit so oft verraten haben, die Militärdiktatoren, die uns geschadet haben, und die ausländischen Unterdrücker, die sie unterstützen. Es ist an der Zeit, dass diese Fessel ein für alle Mal abgeworfen wird!"
+cend.5.a:0 "Eine Chance für den Sozialismus..."
+cend.5.b:0 "Eine neue Bedrohung entsteht."
+cend.5.c:0 "Eine Bedrohung für unsere Existenz!"
+
+cend.6.t:0 "Bildung des Liberalen Paktes"
+cend.6.d.socialist:0 "Ein 'Liberaler' Pakt wurde von [From.GetNameDefCap] gegründet! Sie behaupten, dass sie das Leben ihrer Landsleute verbessern werden, aber in Wirklichkeit ermächtigen sie nur die bereits Reichen und Mächtigen, nicht anders als die Militärdiktaturen, die sie gerne kritisieren. Außerdem behaupten sie, dass der Pakt ein Bollwerk gegen sozialistische Revolutionäre sein wird. Wir müssen sie daran hindern, unsere Revolution zu gefährden!"
+cend.6.d.liberal:0 "[From.GetNameDefCap] hat den Liberalen Pakt gegründet! Er soll die liberalen Länder Mittelamerikas zusammenbringen, um dem Wachstum von bösen Militärdiktaturen und sozialistischen Revolutionären zu widerstehen. Diejenigen, die ihm beitreten, werden sich gegenseitig verteidigen und dafür sorgen, dass seine Mitglieder demokratisch bleiben."
+cend.6.d.military:0 "[From.GetNameDefCap] hat den Liberalen Pakt gegründet! Ihr Ziel ist es, die, wie sie es nennen, liberalen Nationen Zentralamerikas zusammenzubringen. Sie sind jedoch nicht in der Lage zu erkennen, dass sie nur schwach und willensschwach sind. Wir müssen sie daran hindern, eine Koalition zu bilden, um unser Regime zu stürzen."
+cend.6.a:0 "Diese Leute sind genauso schlecht wie das Militär."
+cend.6.b:0 "Es ist Zeit für wahre Demokratie!"
+cend.6.c:0 "Die militärische Demokratie ist nicht zu schlagen!"
+
+cend.7.t:0 "Bildung der Vorhut des Volkes"
+cend.7.d.socialist:0 "Die korrupte Diktatur von [From.GetNameDefCap] hat die Vorhut des Volkes gebildet. Sie versuchen, sich von der Revolution abzuschotten, indem sie mit anderen Diktaturen zusammenarbeiten! Das werden wir nicht zulassen. Wir müssen verhindern, dass ihre Koalition zustande kommt, und wir müssen hart daran arbeiten, sie daran zu hindern, die Revolution in Mittelamerika zu beenden. Wenn sie bekommen, was sie wollen, könnte all unsere Arbeit umsonst gewesen sein!"
+cend.7.d.liberal:0 "Weil es nicht reicht, das eigene Volk seiner Freiheit zu berauben, hat [From.GetNameDefCap] die Vorhut des Volkes gegründet. Sie hat das Ziel, sich vor jeder Herausforderung ihrer Herrschaft von außen zu schützen. Wir wissen, dass ein solcher illiberaler Pakt bald scheitern wird, aber wir müssen sicherstellen, dass sie die Fackel der Freiheit im Rest Mittelamerikas nicht dauerhaft ersticken. Wir müssen alles tun, was wir können, um sie daran zu hindern, unsere Demokratie anzugreifen!"
+cend.7.d.military:0 "[From.GetNameDefCap] hat die Vorhut des Volkes gegründet! Genau wie wir bevorzugen sie eine stärkere Art von Regierung und aus diesem Grund gibt es viele, die neidisch sind und versuchen, unsere Regierungen zu stürzen. Sie versuchen, dies zu beenden, indem sie zusammenarbeiten, um Mittelamerika gegen die steigende Flut der Revolution zu verteidigen."
+cend.7.a:0 "Unsere größte Bedrohung."
+cend.7.b:0 "Sie werden nicht lange durchhalten."
+cend.7.c:0 "Gemeinsam sind wir stark!"
+
+cend.8.t:0 "[From.GetNameDefCap] tritt der [ROOT.GetFactionName] bei!"
+cend.8.d.socialist:0 "Mit der Gründung der Revolutionären Front hat es viele angesprochen, zusammenzuarbeiten, um unsere Brüder in den anderen Ländern zu befreien. Die ersten, die diesem Aufruf gefolgt sind, ist [From.GetNameDefCap], die sich uns im Kampf gegen Unterdrückung und Lügen angeschlossen hat."
+cend.8.d.liberal:0 "Unsere Arbeit war nicht umsonst, denn [From.GetNameDefCap] ist dem Liberalen Pakt beigetreten! Gemeinsam werden wir stärker sein als allein und gemeinsam werden wir in der Lage sein, unsere gemeinsamen Werte und unsere Demokratie zu verteidigen. Gemeinsam können wir das, was uns gehört, vor den Militärdiktatoren und sozialistischen Revolutionären schützen, die es uns wegnehmen wollen."
+cend.8.d.military:0 "Unsere Freunde in [From.GetNameDefCap] haben sich der Vorhut des Volkes angeschlossen. Wir stehen in unserem Kampf zur Eindämmung der Revolution in Mittelamerika nicht mehr allein. Wir werden mit ihnen zusammenarbeiten, um jeden Funken zu verhindern, der die Stabilität unserer Herrschaft bedroht. Gemeinsam werden wir noch stärker sein, wenn die Liberalen und Sozialisten isoliert sind."
+cend.8.a:0 "Gemeinsam zum Sieg!"
+cend.8.b:0 "Die Fackel der Freiheit ist stark."
+cend.8.c:0 "Der Status-quo wird erhalten bleiben."
+
+cend.9.t:0 "[From.GetNameDefCap] Petition"
+cend.9.a:0 "[CEN_petition_accept_option]"
+cend.9.b:0 "[CEN_petition_refuse_option]"
+
+cend.9.d.socialist:0 "Wir wurden gebeten, der Revolutionären Front beizutreten, dem von [From.GetNameDefCap] gegründeten Pakt! Sie haben uns gebeten, uns ihnen in ihrem revolutionären Kampf anzuschließen, um dabei zu helfen, die Männer und Frauen Zentralamerikas zu versammeln, um uns alle wirklich zu befreien. Sie sagen, dass wir uns nur gemeinsam gegen unsere Unterdrücker wehren können. Wenn wir in diesem Pakt vereint sind, müssen wir nun entscheiden, ob ihr Kampf auch der unsere ist oder nicht."
+CEN_petition_accept_socialist:0 "Gemeinsam zum Sieg!"
+CEN_petition_refuse_socialist:0 "Der Sieg muss auf eigene Faust angestrebt werden."
+
+cend.9.d.liberal:0 "[From.GetNameDefCap] hat uns gebeten, dem Liberalen Pakt beizutreten. Sein erklärtes Ziel ist es, Liberalismus und Demokratie in Mittelamerika zu fördern. Vereint in einem Militärpakt würden wir alle opportunistischen sozialistischen Revolutionäre und Militärregime davon abhalten, zu versuchen, unsere Demokratie anzugreifen. Aber wir wären auch nicht mehr völlig frei, unseren eigenen Weg zu wählen. Wir müssen entscheiden, welche Option für unser Land am besten geeignet ist."
+CEN_petition_accept_liberal:0 "Für die Freiheit! Für das Volk!"
+CEN_petition_refuse_liberal:0 "Die Freiheit gehört in ein Land, nicht in viele."
+
+cend.9.d.military:0 "Wir sind von [From.GetNameDefCap] aufgefordert worden, der Vorhut des Volkes beizutreten. Sie erklären, dass in dieser gewalttätigen Ära kein Regime sicher ist und dass wir nur durch Zusammenarbeit zur Sicherung der Stabilität der steigenden Flut von Liberalismus und Sozialismus wirksam widerstehen können. Sie sagen, dass ohne Zusammenarbeit die Länder Mittelamerikas eines nach dem anderen der Revolution zum Opfer fallen werden. Wir müssen entscheiden, ob es sich lohnt, sich ihrer Sache anzuschließen."
+CEN_petition_accept_military:0 "Kooperation ist der Schlüssel in verzweifelten Zeiten."
+CEN_petition_refuse_military:0 "Wir können uns selbst verteidigen."
+
+cend.10.t:0 "[From.GetNameDefCap] tritt der [ROOT.GetFactionName] bei"
+cend.10.d.socialist:0 "[From.GetNameDefCap] hat zugestimmt, unserem Pakt beizutreten. Wir stehen nun gemeinsam mit ihnen in unserem revolutionären Kampf zur Befreiung Mittelamerikas! Nicht nur sind unsere Kräfte vereint und wir werden besser darauf vorbereitet sein, Krieg gegen unsere Feinde zu führen, sondern auch unsere Geister sind vereint, etwas, das zweifellos dazu beitragen wird, die revolutionäre Denkweise unseres Landes voranzutreiben! Ein Hoch auf unsere neuen Brüder und Schwestern!"
+cend.10.d.liberal:0 "[From.GetNameDefCap] hat unsere Anfrage angenommen, dem Liberalen Pakt beizutreten. Sie haben eine hervorragende Entscheidung getroffen, denn gemeinsam können wir unsere Ecke der Welt nachhaltig beeinflussen und die Demokratie für kommende Generationen sichern! Vereint werden wir sicherstellen, dass die Fackel der Freiheit nicht ausgelöscht wird. Wir werden sie schützen und sie werden uns schützen."
+cend.10.d.military:0 "[From.GetNameDefCap] hat eine weise Entscheidung getroffen und unsere Petition beachtet. Indem wir dies tun, werden wir sicherstellen, dass wir gemeinsam gegen die Liberalen und Sozialisten kämpfen, die versuchen, unsere rechtmäßig installierten Regime zu stürzen. Wir kämpfen für das Volk, mehr als es die Revolutionäre je tun werden. Mit der Hilfe von [From.GetNameDefCap] werden wir die Revolution bei der Stange halten."
+cend.10.a:0 "Gemeinsam zum Sieg!"
+cend.10.b:0 "Wir gehen als Sieger hervor."
+
+cend.11.t:0 "[From.GetNameDefCap] lehnt ab"
+cend.11.d.socialist:0 "Die Feiglinge von [From.GetNameDefCap] haben unsere Petition abgelehnt. Anstatt sich unseren Kräften anzuschließen, um die Revolution zu stärken, haben sie beschlossen, uns zu verleugnen und ihren eigenen Weg zu gehen und damit unsere Revolution zu verraten. Aber unser Geist ist stark und auch ohne die Hilfe unserer mittelamerikanischen Mitbürger können wir uns gegen unsere Unterdrücker stellen. Wir werden nicht zulassen, dass ihre Weigerung zu kooperieren uns beeinflusst."
+cend.11.d.liberal:0 "[From.GetNameDefCap] hat unsere Petition abgelehnt! Das ist bedauerlich, da wir nicht sicher sein können, dass die Freiheit in ihrem Land bleibt. Sie sind den Opportunisten dieser Welt schutzlos ausgeliefert und wir haben nicht ihre Unterstützung in unseren eigenen kommenden Kämpfen. Aber wir sind nicht schwach, wir haben die Kraft, uns zu schützen, auch ohne sie, und wir werden unsere Ziele, die Demokratie zu bewahren und zu verbreiten, nicht vergessen!"
+cend.11.d.military:0 "[From.GetNameDefCap] hat einen Fehler gemacht, indem sie sich weigertet, der Vorhut des Volkes beizutreten. Sie und nur sie werden die Konsequenzen spüren, denn wir werden in der Vorhut des Volkes stark sein, um die Revolution in Schach zu halten. Ohne sie haben wir immer noch die Stärke unseres Volkes, um denen zu widerstehen, die unsere Regierungen stürzen wollen. Wir werden nicht aufgeben."
+cend.11.a:0 "Der Sieg wird auch ohne sie angestrebt."
+cend.11.b:0 "Die Fackel wird immer noch stark sein."
+cend.11.c:0 "Die Vorhut kann immer noch stark sein."
+
+cend.34.t:0 "[From.GetNameDefCap] bereitet sich auf den Krieg vor"
+cend.34.desc:0 "[From.GetNameDefCap] droht mit Krieg! Wir müssen sicherstellen, dass wir bereit sind, sie auf dem Feld zu treffen. Wir müssen unsere Nation, unsere Männer und Frauen und alle, die kämpfen können, mobilisieren. Nur wenn wir uns auch vorbereiten, haben wir eine Chance, sie zu besiegen."
+cend.34.a:0 "Wir müssen den Sieg sichern!"
+
+cend.conflict.t:0 "Der finale Konflikt"
+cend.conflict.desc:0 "Was einst so reichhaltig schien, wird bald der Vergangenheit angehören. Frieden ist etwas, das wir für eine Weile nicht kennen werden, da die gesamte Region in einen Konflikt gerät. Sicher ist, dass sich Mittelamerika für immer verändern wird, und es liegt an uns, es zum Besseren zu verändern. Der Krieg ist da."
+cend.conflict.a:0 "Das Schicksal Zentralamerikas hängt in der Schwebe..."

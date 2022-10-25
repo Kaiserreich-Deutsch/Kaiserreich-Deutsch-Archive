@@ -1,5 +1,5 @@
-l_german:
-
+﻿l_german:
+### Übersetzt von Schmiddlon->Proho ###
 TEX_focus:0 "American Union State Fokus Baum"
 
 ### Parties ###
@@ -47,6 +47,9 @@ TEX_commonwealth_national_populist:0 "Das Amerikanische Commonwealth"
 TEX_commonwealth_national_populist_ADJ:0 "Amerikanisch"
 TEX_commonwealth_national_populist_DEF:0 "Das Amerikanische Commonwealth"
 
+### Traits ###
+TEX_the_kingfish:0 "The Kingfish (Huey Long)"
+
 ### Leaders ###
 POLITICS_GEORGE_VAN_HORN_MOSELEY:0 "Vierzig Jahre Dienst für die US-Armee von einem Kavallerieleutnant auf den Philippinen bis zu einem Unteroffizier in Washington haben ein starkes Portfolio für Moseley geschaffen. Erfahrungen mit Generälen wie George Patton und General MacArthur beeinflussten seine Entscheidung, Huey Long zu unterstützen, und seinen unnachgiebigen Glauben an die jüdische Verschwörung. Letztlich machte ihn sein Glaube an die Gefahren irgendeines Sozialismus zum perfekten Sprecher des Kriegsmächtekomitees. Ohne Moseley wäre es für das Kriegsmachtkomitee unmöglich, Huey Long bei dem Verschwinden zu beerben, an dem Moseley mitschuldig war, so die Gerüchte."
 POLITICS_WILLIAM_DUDLEY_PELLEY:0 "Mit neununddreißig Jahren war William Pelley ein eher einfallsloser Hollywood-Drehbuchautor und Journalist. Seine vergangenen Abenteuer bestanden hauptsächlich darin, Russland zu besuchen und antisemitische Flugblätter zu lesen. Als Pelley 1933 die Silberlegion gründete, hatte er sich in einen angelsächsischen Supremacisten und militanten Spiritualisten verwandelt. Pelleys Spiritismus, ist nur vertrauenswürdigen Verbündeten vorbehalten. Nachdem seine Organisation von Huey Long gesponsert wurde, lernte er die Pelley-Armstrong Line mit Herbert W. Armstrong, einem angelsächsischen Vorkämpfer, kennen und formulierte sie. Verschwörung, Antisozialismus und der Glaube an die christliche Identität bilden das Rückgrat seines Regimes."
@@ -56,8 +59,6 @@ POLITICS_CHARLES_LINDBERGH_DESC:0 "Charles Lindbergh oder Lindy war einst der be
 
 ### Ideas ###
 TEX_righteous_nation:0 "Der rechtmäßige Präsident"
-TEX_industries_no_support:0 "Mangel an industrieller Unterstützung"
-TEX_no_silver_legion:0 "Keine Unterstützung der Silbernen Legion"
 TEX_prohibition_bill:0 "Prohibitions- und Veteranengesetz"
 
 TEX_national_recovery_idea:0 "Nationale Wiederherstellungsverwaltung"
@@ -130,18 +131,18 @@ TEX_Weyland_reform_plan1_desc:0 "Der erste Schritt in Weylands Plan besteht dari
 TEX_Weyland_reform_plan2:0 "Weyland Luftreformplan"
 TEX_Weyland_reform_plan2_desc:0 "Der zweite Schritt in Weylands Plan ist die Schaffung eines Kommunikations- und Informationsnetzwerks für Aufklärung und Luftunterstützung, damit die Generäle die neuen Möglichkeiten der Luftunterstützung verstehen können."
 TEX_Le_May_reform_plan1:0 "LeMay Luftreformplan"
-TEX_Le_May_reform_plan1_desc:0 "Der erste Schritt in LeMays Plan ist es, den Kampfgeist der Luftwaffe zu stärken. Keine Gentleman-Zustimmung mehr zu verräterischen Poiloten, die für den Feind fliegen."
+TEX_Le_May_reform_plan1_desc:0 "Der erste Schritt in LeMays Plan ist es, den Kampfgeist der Luftwaffe zu wecken. Keine Gentleman-Abkommen mehr gegenüber verräterischen Piloten, die für den Feind fliegen."
 TEX_Le_May_reform_plan2:0 "LeMay Luftreformplan"
 TEX_Le_May_reform_plan2_desc:0 "Der zweite Schritt in LeMays Plan besteht darin, die wichtigsten industriellen Ziele für die Zerstörung im feindlichen Gebiet zu bewerten. Weitere Leben werden verloren gehen, wenn wir keinen schnellen Sieg erringen können."
 TEX_ACTS:0 "Taktische Schule des Fliegerkorps"
 TEX_ACTS_desc:0 "Ein neuer Flugplatz wurde für die Ausbildung einer neuen Ära amerikanischer Piloten reserviert."
 TEX_airborne_experiments:0 "Pioniere in der Luft"
-TEX_airborne_experiments_desc:0 Es zeigt sich, dass die sachkundige Pilotenführung auch in der neuen Ära der Luftkriegsführung noch ihre Vorteile hat. Wir müssen unsere Piloten in den neuesten Ausweichmethoden ausbilden, wenn wir die industriellen Molochs erobern wollen, die unseren Himmel mit Grauen bedecken."
+TEX_airborne_experiments_desc:0 "Es zeigt sich, dass die sachkundige Pilotenführung auch in der neuen Ära der Luftkriegsführung noch ihre Vorteile hat. Wir müssen unsere Piloten in den neuesten Ausweichmethoden ausbilden, wenn wir die industriellen Molochs erobern wollen, die unseren Himmel mit Grauen bedecken."
 
 ### Tooltips ###
 TEX_anti_syndicalist_pact_tooltip:0 "Wir werden versuchen, uns der Internationale zu widersetzen\n"
 TEX_fight_terrorists_tooltip:0 "§GWir werden Verräter ausrotten und Terroristen vernichten!§!\n"
-TEX_silver_legion_raised:0 "Zehn neue Miliz- und Infanterieeinheiten werden im Süden aufgestellt"
+TEX_silver_legion_raised:0 "§HZehn Miliz- und Infanterieeinheiten§! werden §Hquer durch den Süden§! aufgestellt."
 TEX_unlock_bomber_1:0 "Dieser Fokus wird den §HB-23 Dragon Tactical Bomber§ freischalten!"
 TEX_unlock_bomber_2:0 "Dieser Fokus wird den §HB-25 Mitchell Tactical Bomber§ freischalten!"
 TEX_unlock_CAS:0 "Dieser Fokus wird das §HA-24 Banshee Luftunterstützungsflugzeug§ freischalten!"
@@ -156,12 +157,9 @@ TEX_focus_on_concentration_tooltip:0 "Modifiziert §H$TEX_Devers_plan2$§! durch
 TEX_the_cavalry_of_tomorrow_tooltip:0 "Modifiziert §H$TEX_Patton_plan1$§! durch\nArmour Division Attack: [?0.1|+=%1]\nArmour Divisions Verteidigung: [?0.1|+=%1]"
 
 TEX_arsenal_of_democracy_effect_1_tooltip:0 "§WModifiziert §HArsenal von Amerika§! durch\n§HBegleitschutz Effizienz§!: §G+10%§!\n§HZerstörer U-Boot Erkennung§!: §G+5%§!§W"
-TEX_arsenal_of_democracy_effect_1_tooltip:0 "§WModifiziert §HArsenal von Amerika§! durch\n§HBegleitschutz Effizienz§!: §G+10%§!\n§HZerstörer U-Boot Erkennung§!: §G+5%§!§W"
 TEX_arsenal_of_democracy_effect_2_tooltip:0 "§WModifiziert §HArsenal von Amerika§! durch\n§HAnforderungen an Truppenkonvois§!: §G-10%§!\n§HMarineinvasionskapazität§!: §G+10§!§W"
 
 ### Decisions ###
-TEX_call_up_silver_legion:0 "Rufen Sie die Silberne Legion auf"
-TEX_call_up_silver_legion_desc:0 "Es ist möglich, dass es einen langfristigen Preis für die Unterstützung gibt, die uns die Silver Legion angeboten hat, aber im Moment stehen die Chancen gut, dass wir alles brauchen, was wir beschwören können, um den Bürgerkrieg zu gewinnen."
 TEX_silver_legion_support:0 "Silver Legion-Unterstützung verwenden"
 TEX_silver_legion_support_desc:0 "Die Silver Legion hat eine beachtliche Anhängerschaft entwickelt, mit Anhängern, die im militärischen und öffentlichen Sektor der AUS gut platziert sind. Ihre konzertierte Unterstützung könnte den Unterschied zwischen Verlust und Sieg im Kampf bedeuten, um die Menschen bei den Kriegsanstrengungen an Bord zu halten."
 TEX_civil_war_decisions:0 "Bürgerkriegsentscheidungen"
@@ -177,7 +175,7 @@ TEX_defend_new_world:0 "Attack [From.GetNameDef]"
 TEX_can_attack_syndicalist:0 "§CSyndikalistische Länder in Nord- und Südamerika können jetzt angegriffen werden§!"
 TEX_join_germany:0 "Treten Sie dem Reichspakt bei"
 
-TEX_deal_with_terrorists_decisions:0 "Deal mit Rebellen"
+TEX_deal_with_terrorists_decisions:0 "Deal mit den Rebellen"
 TEX_deal_with_terrorists_decisions_desc:0 "Jetzt, da der Bürgerkrieg vorbei ist, müssen wir uns mit den verschiedenen Rebellen befassen, die unsere Herrschaft über Amerika in Frage stellen und sich weigern werden, ihre Waffen niederzulegen."
 TEX_fight_socialist_terrorists:0 "Bekämpfe sozialistische Terroristen"
 TEX_fight_federalist_terrorists:0 "Föderalistische Terroristen bekämpfen"
@@ -468,7 +466,7 @@ TEX_fighters_desc:0 "Amerikanische Jäger-Projekte wurden in den 1920er Jahren g
 TEX_le_may_reform:0 "LeMay Reform Plan"
 TEX_le_may_reform_desc:0 "Curtiss LeMay hat es in letzter Zeit aufgrund einer Mischung aus Vetternwirtschaft und Geschicklichkeit geschafft, die höheren Führungsebenen zu erreichen, und einen mutigen Reformplan vorgeschlagen. Da die Luftwaffe nicht dazu gedacht ist, die Armee zu ergänzen, hat er vorgeschlagen, dass die Luftwaffe das Herz unserer Feinde treffen und ihre Kriegsindustrien lähmen soll. Während sein theoretischer Ansatz solide ist, liegt die endgültige Entscheidung bei der Regierung."
 TEX_air_field_expansion:0 "Flugfelderweiterung"
-TEX_air_field_expansion_desc:0 ""
+TEX_air_field_expansion_desc:0 "Es gibt Tausende von Hektar flachen Landes in unserer Nation, die nur darauf warten, mit Asphalt und frisch produzierten, hochmodernen Flugzeugen bedeckt zu werden. Lassen wir sie nicht einen Moment länger warten!"
 TEX_naval_bombers:0 "Marine Bomber Entwicklung"
 TEX_naval_bombers_desc:0 "Angesichts der Mängel unserer Marine beim Schutz unserer Küsten hat die Luftwaffe die Pflicht, auch die Küsten unserer Nation um jeden Preis gegen jeden Feind zu schützen, der es wagt, unser Heimatland zu betreten. Daher werden wir versuchen, die Patrouillen der Marine durch Marinebomber zu ergänzen, die Schiffe auskundschaften und abfangen, wenn unsere Flotte zu weit verteilt oder zu weit entfernt ist, um dies zu tun."
 TEX_Weyland_plan:0 "Weyland Reform Plan"
@@ -671,7 +669,7 @@ unionstate.20.d:0 "Die Phantasien und politischen Meinungen der Amerikaner wurde
 unionstate.20.a:0 "Solange es mich nicht beleidigt."
 
 unionstate.21.t:0 "Präsident Long ist tot, lang lebe Präsident Long!"
-unionstate.21.d:0 "Huey Long ist heute in Baton Rouge im Amt und in der Gesellschaft seiner Familie gestorben. Anwesend war der Vizepräsident und Hueys Bruder Earl Long, der in den letzten Wochen Interimspräsident war, wurde als Präsident eingeweiht, um Hueys verbleibende Amtszeit zu beenden. Während die Vereinigten Staaten offensichtlich um den Verlust ihres Anführers trauern, haben die US-Regierungen im Exil ihre Behauptung fortgesetzt, Hueys Regierung sei illegitim."
+unionstate.21.d:0 "Huey Long ist heute in Baton Rouge im Amt und in der Gesellschaft seiner Familie gestorben. Anwesend war der Vizepräsident und Hueys Bruder Earl Long, der in den letzten Wochen Interimspräsident war,er wurde als Präsident vereidigt, um Hueys verbleibende Amtszeit zu beenden. Während die Vereinigten Staaten offensichtlich um den Verlust ihres Anführers trauern, haben die US-Regierungen im Exil ihre Behauptung fortgesetzt, Hueys Regierung sei illegitim."
 unionstate.21.a:0 "Abschied von einem guten Präsidenten!"
 
 ### Business Plot Events 31 - 50 ###

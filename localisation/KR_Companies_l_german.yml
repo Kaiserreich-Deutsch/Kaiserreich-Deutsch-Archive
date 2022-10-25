@@ -1,5 +1,5 @@
-l_german:
-
+﻿l_german:
+### Übersetzung von Proho ###
 ### Companies ###
 
 ### Generic Companies ###
@@ -205,7 +205,7 @@ brodosplit:0 "Brodosplit"
 ### Cuba ###
 havanashipyard:0 "Havana Shipyard"
 Waco_Aircraft_Company:0 "WACO Aircraft Company"
-Waco_Aircraft_Company_desc:0 "Lacking a substantial domestic aircraft manufacturer, with the collapse of the Ohio-based WACO Aircraft Company, whose biplanes had achieved a stellar reputation among Cuban pilots, in 1931, the Cuban government purchased the company and enticed its design team to move to Cuba as well."
+Waco_Aircraft_Company_desc:0 "In Ermangelung eines bedeutenden einheimischen Flugzeugherstellers kaufte die kubanische Regierung nach dem Zusammenbruch der in Ohio ansässigen WACO Aircraft Company, deren Doppeldecker unter den kubanischen Piloten einen hervorragenden Ruf erlangt hatten, im Jahr 1931 die Firma auf und bewegte ihr Konstruktionsteam dazu, ebenfalls nach Kuba zu kommen."
 
 ### Denmark ###
 atlas_maskinfabrik:0 "Atlas Maskinfabrik AS"
@@ -485,6 +485,7 @@ dewoitine:0 "Dewoitine"
 bloch:0 "Bloch"
 amiot:0 "Amiot"
 bleriot:0 "Blériot"
+matra:0 "Matra"
 latecoere:0 "Latécoère"
 ateliers_de_la_loire_nfa:0 "Ateliers et Chantiers de la Loire"
 oran_construction_navale:0 "Société de Construction Navale d'Oran"
@@ -507,9 +508,9 @@ pander:0 "Pander"
 aviolanda:0 "Aviolanda"
 koninklijke_maatschappij:0 "Koninklijke Maatschappij De Schelde"
 wilton_fijenoord:0 "Wilton-Fijenoord"
-wilton_fijenoord_desc:0 "The NV Dok en Werf Maatschappij Wilton-Fijenoord is located in Schiedam, west of Rotterdam. With it origins tracing back to the first half of the 19th century, and was the first Dutch shipbuilding company to use steamer turbines. It is responsible for building the majority of the Dutch cruisers, as well as some destroyers and submarines."
+wilton_fijenoord_desc:0 "Die NV Dok en Werf Maatschappij Wilton-Fijenoord befindet sich in Schiedam, westlich von Rotterdam. Ihre Ursprünge reichen bis in die erste Hälfte des 19. Jahrhunderts zurück, und sie war die erste niederländische Schiffbaufirma, die Dampfturbinen einsetzte. Sie ist für den Bau eines Großteils der niederländischen Kreuzer sowie einiger Zerstörer und U-Boote verantwortlich."
 rotterdamsche_maatschappij:0 "Rotterdamsche Droogdok Maatschappij"
-rotterdamsche_maatschappij_desc:0 "The largest shipbuilding and repair company of Rotterdam, the Rotterdamsche Droogdok Maatschappij constructed a variety of civilian and military vessels, including the majority of the Dutch submarine fleet built in the specifically designed "Onderzeebootloods" (Submarine Hall)."
+rotterdamsche_maatschappij_desc:0 "Als größter Schiffbau- und Reparaturbetrieb Rotterdams baute die Rotterdamsche Droogdok Maatschappij eine Vielzahl von zivilen und militärischen Schiffen, darunter auch den Großteil der niederländischen U-Boot-Flotte, die in der eigens dafür konzipierten "Onderzeebootloods" (U-Boot-Halle) gebaut wurde."
 
 ### Norway ###
 norsk_hydro:0 "Norsk Hydro"
@@ -1214,3 +1215,12 @@ VEN_env:0 "Escuela Naval de Venezuela"
 royal_jamaican_armory:0 "Royal Jamaican Armory"
 kingston_dockyards:0 "Kingston Dockyards"
 de_havilland_wif:0 "de Havilland Guyana"
+
+### Rhodesia ###
+african_explosives_rhodesia:0 "African Explosives and Industries Rhodesia"
+dorman_long_rhodesia:0 "Dorman Long Rhodesia"
+marmon_herrington_rhodesia:0 "Marmon-Herrington Rhodesia"
+de_havilland_rhodesia:0 "de Havilland Rhodesia"
+south_african_vickers_rhodesia:0 "Vickers-Armstrong Rhodesia"
+anglo_american_rhodesia:0 "Anglo American Rhodesia"
+engen_petroleum_rhodesia:0 "Engen Rhodesia"

@@ -1,0 +1,654 @@
+﻿l_german:
+### Übersetzt von Proho ### 
+WLL_focus:0 "Wallonien Schwerpunkt Baum"
+WLL_focus_blank:0 "Wallonien Schwerpunkt Baum"
+
+### Parties ###
+WLL_social_conservative_party:0 "DC"
+WLL_social_conservative_party_long:0 "Christliche Demokraten"
+WLL_market_liberal_party:0 "PL"
+WLL_market_liberal_party_long:0 "Liberale Partei"
+WLL_social_democrat_party:0 "POB"
+WLL_social_democrat_party_long:0 "Belgische Arbeiter Partei"
+WLL_social_liberal_party:0 "PLP"
+WLL_social_liberal_party_long:0 "Liberal-progressive Parteien"
+WLL_syndicalist_party:0 "POB"
+WLL_syndicalist_party_long:0 "Belgische Arbeiter Partei"
+WLL_totalist_party:0 "PTW"
+WLL_totalist_party_long:0 "Totalitäre Partei der Wallonie"
+WLL_national_populist_party:0 "REX"
+WLL_national_populist_party_long:0 "REX"
+WLL_paternal_autocrat_party:0 "REX"
+WLL_paternal_autocrat_party_long:0 "REX"
+WLL_authoritarian_democrat_party_long:0 "Royalisten"
+WLL_authoritarian_democrat_party:0 "Anhänger des Königs"
+
+### Tooltips ###
+
+Government_Failed:0 "Die Regierung ist gescheitert!"
+Monarchy_Restored:0 "Die Monarchie wurde wiederhergestellt"
+Absolutism:0 "Adelbert regiert Absolut"
+Constitutional_Monarchy:0 "Rückkehr der konstitutionellen Monarchie"
+Republic_Established:0 "Die Republik wurde gegründet"
+Syndicalist_Victory:0 "Die Syndikalisten gewinnen die Wahl!"
+GERMANS_LEFT:0 "Deutsche Bürger gehen weg"
+Totalist_Coup:0 "Totalisten haben die Kontrolle übernommen"
+LIB_VIC:0 "PL Sieg"
+SOC_PRES:0 "Fernand Dehousse führt das POB"
+SYND_CHAIR:0 "Lucie Dujardin führt das POB"
+
+wll.CON.tt:0 "\n§GUnsere Wahl der Regierung hat direkten Einfluss auf unsere Verfassung §!\n\n"
+wll.GOV.tt:0 "\n§GUnsere Regierung wird durch die Wahl des Koalitionspartners bestimmt §!\n\n"
+
+Georges_Prosper_Remi:0 "Georges Prosper Remi"
+
+### Ideas ###
+
+WLL_Monarchy:0 "Erinnerungen an die Revolution"
+WLL_Monarchy_Army:0 "Verlust des Glaubens an die Monarchie"
+WLL_Monarchy_Disorderly:0 "Königliche Macht beschädigt"
+WLL_Monarchy_Disorderly2:0 "Konsolidierte Macht"
+WLL_Monarchy_Royal_Councillor:0 "Hofrat"
+WLL_Monarchy_Constitution:0 "Königliche Verfassung"
+WLL_Monarchy_Conscription:0 "Königliche Legion"
+
+WLL_Republic:0 "Fehlende Mehrheit"
+WLL_Republic_Catholics_Invited:0 "Katholiken Eingeladen"
+WLL_Republic_Socialists_Invited:0 "Sozialisten eingeladen"
+WLL_Republic_Coalition_Socialists:0 "POB-PL Koalition"
+WLL_Republic_Coalition_Catholics:0 "DC-PL Koalition"
+WLL_Republic_Constitution_Socialist:0 "Republikanische Verfassung"
+WLL_Republic_Constitution_Catholic:0 "Republikanische Verfassung"
+WLL_Republic_Chant_Des_Wallons:0 "Das Lied der Wallonen"
+
+WLL_German_Support:0 "Verlorene deutsche Unterstützung"
+
+WLL_REX:0 "Schwacher Zugriff"
+WLL_REX_SOC:0 "Syndikalisten besiegt"
+WLL_REX_ROY:0 "König im Abseits"
+WLL_REX_BOTH:0 "Konsolidierte Macht"
+WLL_REX_CORP:0 "Rexistischer Korporatismus"
+WLL_REX_MIL:0 "Militär Propaganda"
+
+WLL_SYNDICALIST_LIB_DIS:0 "Liberale Abweichung"
+WLL_SYNDICALIST_POB_PRES:0 "POB Präsident"
+WLL_SYNDICALIST_SYN_CHAIR:0 "Syndikalistischer Vorsitzender"
+WLL_SYNDICALIST_SEIZE_BASIC:0 "Beschlagnahmte Grundindustrie"
+WLL_SYNDICALIST_NATIONAL_COMPANY:0 "Nationale Bergbau Gesellschaft"
+WLL_SYNDICALIST_STATE_EDUCATION:0 "Erweitertes staatliches Bildungswesen"
+WLL_SYNDICALIST_CATHOLIC_EDUCATION_BANNED:0 "Katholische Bildung verboten"
+WLL_SYNDICALIST_POB_CONTROL:0 "POB-Kontrolle eingerichtet"
+WLL_SYNDICALIST_SYN_CONTROL:0 "Syndikalistische Kontrolle etabliert"
+
+WLL_TOTALIST_RESISTANCE:0 "Widerstand gegen Totalismus"
+WLL_TOTALIST_RESISTANCE2:0 "Politisches Establishment vernichtet"
+WLL_TOTALIST_RESISTANCE3:0 "Loyalisten besiegt"
+WLL_TOTALIST_RESISTANCE4:0 "Deutsches Vermögen beschlagnahmt"
+WLL_TOTALIST_CONGRESS:0 "Erster POB-Kongress"
+WLL_TOTALIST_ARMY:0 "Demontierte Armee"
+WLL_TOTALIST_ROYAL_ASSETS:0 "Beschlagnahmtes königliches Vermögen"
+
+WLL_ECONOMIC_TROUBLE:0 "Wirtschaftliche Depression"
+WLL_ECONOMIC_TROUBLE_WAL:0 "Wallonische Industrieerweiterung"
+WLL_ECONOMIC_DIRECTION:0 "Wirtschaftliche Ausrichtung"
+WLL_ECONOMIC_REVITAL:0 "Wirtschaftliche Wiederbelebung"
+WLL_SOLVAY_RESEARCH:0 "Solvay Forschungsinstitut"
+WLL_ECONOMIC_RESOURCES:0 "Bergbau Verbesserungen"
+WLL_ECONOMIC_TROUBLE_GER:0 "Deutsche Investitionen"
+WLL_ECONOMIC_FRONTALIERS:0 "Grenzgänger"
+WLL_ECONOMIC_GERMAN_EXPORT:0 "Gesteigerter deutscher Export"
+WLL_ECONOMIC_CONGOLESE_RESOURCES:0 "Kongolesische Gewinne"
+
+WLL_ARMY_RUINED:0 "Zerschlagene Armee"
+WLL_ARMY_RUINED2:0 "Zurückgegebene Disziplin"
+WLL_ARMY_BILINGUAL:0 "Zweisprachiges Personal"
+WLL_ARMY_GERMAN:0 "Deutsche Mitarbeiter"
+WLL_ARMY_HALF_TRACKS:0 "Halbkettenfahrzeug Innovation"
+
+WLL_merchant_marine_idea:0 "Wallonische Handelsmarine"
+WLL_merchant_marine_idea2:0 "Etabliertes Zentrum des Handels"
+
+### Events ###
+
+wll.1.t:0 "Die Auflösung von Flandern-Wallonien"
+wll.1.d:0 "Flandern hat sich von unserem Königreich abgespalten und seine Unabhängigkeit erklärt. Deutsche Bürger und die königliche Familie sind aus der Region geflohen und nehmen wieder Einfluss auf unsere Nation. Währenddessen wütet die Revolution weiter und destabilisiert die Region, ohne dass ein Ende in Sicht wäre. Schnelles und entschlossenes Handeln ist gefragt, um die Rote Gefahr, die unsere Nation zerstören will, abzuwenden. Die wallonischen Kapitalisten und Liberalen schauen jedoch zu, sie fürchten die Revolution, sind aber ebenso unzufrieden mit der deutschen Herrschaft. Ihre Bemühungen, eine Republik zu gründen, haben sich im letzten Jahrzehnt als erfolglos erwiesen, aber jetzt könnte sich eine neue Gelegenheit bieten."
+wll.1.a:0 "Der Hahn erhebt sich, die Wallonie ist geboren."
+
+wll.2.t:0 "Ärger in Seraing"
+wll.2.d:0 "In der gesamten Industriefurche kommt es zu Unruhen und Protesten. Mitglieder des syndikalistischen Widerstands haben sich in den Stahlwerken von Seraing verschanzt, weigern sich, die Fabrik wieder zu öffnen und halten zwölf Mitglieder der Verwaltung als Geiseln. Truppen, die sich aus Flandern zurückziehen, sammeln sich in der Nähe von Namur, aber ein kleines Kontingent konnte nach Lüttich verlegt werden, um bei der Niederschlagung des Konflikts zu helfen. Die Aktionäre des Unternehmens drängen die Regierung unterdessen verzweifelt, die Anlage intakt zu lassen, und betreiben so viel Lobbyarbeit wie möglich, um ihre Interessen zu wahren."
+wll.2.a:0 "Schicken Sie eine bewaffnete Truppe nach Seraing."
+wll.2.b:0 "Hören Sie sich die Forderungen der Roten an."
+
+wll.3.t:0 "Verhandlungen mit den Syndikalisten"
+wll.3.d:0 "Einer der Anführer der Rebellen, die in den Fabriken eingeschlossen sind, ist herausgekommen und hat uns seine Forderungen mitgeteilt. Sie versprechen, die Fabrik unversehrt zu lassen, wenn der König sich an die während der Streiks von 1935 errungenen Bedingungen hält, ein neues Arbeitsgesetz unterzeichnet, das die versprochene 40-Stunden-Woche einführt und Maßnahmen für transparentere Beziehungen zwischen Arbeitnehmern und Arbeitgebern vorsieht. Die Liberale Partei hat sich bereits gegen die Forderungen ausgesprochen, da sie den freien Handel unterdrücken und Privilegien abbauen würden. Dennoch, wenn wir ihren Forderungen nachgeben würden, könnten wir die Unterstützung für eine reine syndikalistische Revolution schwächen und die Meinung der liberaleren POB-Mitglieder ändern."
+wll.3.a:0 "Geben Sie ihren Forderungen nach."
+wll.3.b:0 "Die Verhandlungen verzögern."
+wll.3.c:0 "Schicken Sie die Feldgendarmerie rein."
+
+#Stalled Negotiations
+
+wll.31.t:0 "Stockende Verhandlungen"
+wll.31.d:0 "Zwei Tage sind vergangen, seit die Forderungen der Syndikalisten eingegangen sind, und bisher hat die Regierung noch keine Antwort gegeben. Die Nachricht von der Situation hat sich wie ein Lauffeuer im ganzen Land verbreitet und ähnliche Aktionen wurden in den Glasfabriken von Charleroi durchgeführt und haben sogar den Waffenhersteller FN getroffen. Die Situation erreicht einen Siedepunkt und angesichts der Terroranschläge im Hennegau müssen wir jetzt handeln, sonst wird die Armee zu dünn gesät sein, um große Aufstände zu bekämpfen. Unsere Kommandeure raten uns, an den Streikenden von Seraing ein Exempel zu statuieren und die Armee zu schicken, um sie aus ihrer Festung zu vertreiben. Liberale Lobbyisten warnen den König immer noch davor, gewaltsam zu handeln und raten ihm, einen Mittelweg zu suchen."
+wll.31.a:0 "Schicken Sie die Feldgendarmerie rein."
+wll.31.b:0 "Unterzeichnen Sie eine abgespeckte Version des Arbeitsgesetzes."
+
+wll.32.t:0 "Arbeitsgesetz verabschiedet"
+wll.32.d:0 "Mit dem Versprechen besserer Arbeitsbedingungen und dem angekündigten Arbeitsgesetz sind viele der kleineren Streiks beruhigt worden und haben die Fabriken verlassen, ohne allzu großen Schaden anzurichten. Die Streikenden von Seraing halten jedoch immer noch durch und fordern erneut, dass die Regierung das vollständige Arbeitsgesetz unterzeichnet oder sofort zurücktritt. Die POB, deren Einfluss in den letzten zehn Jahren stark zugenommen hat, hat sich der Forderung der Syndikalisten angeschlossen und den sofortigen Rücktritt der Regierung gefordert."
+wll.32.a:0 "Wir müssen die Unterstützung der Liberalen gewinnen!"
+
+wll.33.t:0 "Liberale Partei weigert sich zu helfen"
+wll.33.d:0 "Die Liberalen wittern ihre Chance und haben beschlossen, ihren eigenen Hut in den Ring zu werfen und haben sich den Rücktrittsforderungen der POB angeschlossen. Sie behaupten, dass der einzige Weg, diese Krise jetzt zu lösen, darin besteht, auf das Volk zu hören und Notwahlen abzuhalten."
+wll.33.a:0 "Woher bekommen wir jetzt unsere Unterstützung?"
+
+wll.34.t:0 "Proteste in La Louvière"
+wll.34.d:0 "Es scheint, dass in La Louvière Tausende von verärgerten Bergleuten auf den Stadtplatz gekommen sind, um gegen die pro-deutsche Regierung zu protestieren und Adelberts Abdankung zu fordern. Die Feldgendarmerie bewacht den Protest und konnte bisher Gewalttätigkeiten zwischen den Wallonen und dem viel kleineren Gegenprotest der deutschen Bürger verhindern. Obwohl der Protest nur klein ist, markiert er das Ende einer Ära. Weitere Proteste im ganzen Land sind bereits im Gange und ein Generalstreik legt das Land seit zwei Wochen lahm. Die Situation wird völlig unhaltbar, viele Deutsche verlassen das Land, um der Repression durch die Syndikalisten zu entgehen."
+wll.34.a:0 "Die Monarchie gerät ins Wanken!"
+
+wll.35.t:0 "Der Namur-Marsch"
+wll.35.d:0 "Weitere Proteste erschüttern das Land, viele Menschen verlassen ihre Häuser und versammeln sich auf den Straßen von Namur. Eine lebensgroße Adelbert-Skulptur, ein Produkt der angesehenen regionalen Glasindustrie, wurde auf dem Stadtplatz umgestürzt und symbolisch mit Bergbau-Spitzhacken zertrümmert. Obwohl die Polizei die Täter festnehmen konnte, war es bereits zu spät, da die Glasscherben schnell von Umstehenden aufgegriffen wurden, um den Ereignissen des Tages dauerhaft zu gedenken."
+wll.35.a:0 "Wir müssen den Palast absichern."
+
+wll.36.t:0 "Königliches Ratsmitglied tritt zurück"
+wll.36.d:0 "Nicht mehr bereit, sein Leben für das seines Königs zu riskieren, hat der königliche Ratsherr seinen Rücktritt angekündigt und wurde gesehen, wie er unter lautem Applaus den Palast verließ. Die Feldgendarmerie wurde eingesetzt, um die Menge von den Zäunen wegzudrängen und eine gewaltsame Eskalation zu vermeiden. Ihre Bemühungen wurden mit einer großartigen, von der Menge getragenen Aufführung des Lied der Wallonen beantwortet"
+wll.36.a:0 "Rufen Sie das Parlament in den Palast."
+
+wll.37.t:0 "Letzte königliche Sitzung"
+wll.37.d:0 "Nur eine kleine Fraktion von Politikern, die fast keine Mitglieder der POB sind, ist dem Aufruf gefolgt und ist gekommen, um an dem vielleicht letzten Königstreffen teilzunehmen. Der König fragte jede einzelne Person im Raum, ob sie glaubt, dass seine derzeitige missliche Lage lösbar ist. Er erhielt keine klare Antwort, bis der Vorsitzende der Liberalen Partei, Auguste Buisseret, vortrat und dem König mitteilte, dass es keine Möglichkeit gäbe, an die Macht zurückzukehren. Das Volk hat gesprochen, und es verlangt die Abdankung. Erst dann werden wir die Bevölkerung beruhigen und unsere Arbeit wieder aufnehmen können."
+wll.37.a:0 "Die Abdankung ist der einzig würdige Ausweg."
+wll.37.b:0 "Aber was ist mit einem Referendum?"
+
+wll.38.t:0 "Referendum abgelehnt"
+wll.38.d:0 "In einem letzten verzweifelten Versuch, die Macht zu behalten, forderte Adelbert die Regierung auf, ein Referendum über die Zukunft der Monarchie abzuhalten, wurde aber abgelehnt. Die Unterstützung für den König hat fast eine einstellige Zahl erreicht, was ein kostspieliges Referendum sinnlos macht. Der Vorschlag wurde zur Abstimmung gestellt und einstimmig abgelehnt. Die Regentschaft von König Adelbert ist vorbei."
+wll.38.a:0 "Unterschreiben Sie die Abdankungspapiere."
+
+wll.39.t:0 "König Adelbert I. dankt ab"
+wll.39.d:0 "Sowohl von den Flamen als auch von den Wallonen abgelehnt, hat Adelbert schließlich nachgegeben und um 16 Uhr seine letzte Unterschrift als König der Flamen und Wallonen gesetzt. Obwohl die deutsche Herrschaft noch lange nicht vorbei ist, hat die Monarchie ihr Ende erreicht."
+wll.39.a:0 "Hebt den Wallonischen Hahn hoch!"
+
+wll.310.t:0 "Erste wallonische Wahlen"
+wll.310.d:0 "Nach zwei Jahrzehnten strenger deutscher Herrschaft haben die ersten freien Wahlen stattgefunden. Sogar der syndikalistische Zweig der POB durfte teilnehmen und hat die letzte Woche verzweifelt damit verbracht, so viel Popularität wie möglich zu sammeln. Die PL hat ebenfalls beträchtliche Unterstützung erhalten und ist besonders in der Umgebung der Stadt Namur und bei der verbliebenen deutschen Minderheit beliebt. Allerdings scheint keine Partei in der Lage zu sein, eine absolute Mehrheit zu erreichen, und eine politische Sackgasse könnte sich über mehrere Wochen hinziehen, wenn keine Einigung erzielt wird."
+wll.310.a:0 "Die POB gewinnt die Wahl."
+wll.310.b:0 "Die PL erringt einen knappen Sieg."
+
+wll.311.t:0 "PL gewinnt die meisten Sitze"
+wll.311.d:0 "Knapp vor der POB und den Katholiken hat die PL unter ihrem Führer Auguste Buisseret die meisten Sitze gewonnen und das Recht erhalten, mit der Regierungsbildung zu beginnen. Während ein katholisch-liberales Bündnis das wahrscheinlichste Ergebnis ist, hat die POB angeboten, die PL zu unterstützen, wenn sie mehr Freiheit für die Arbeiterklasse garantieren und das Arbeitsgesetz sofort durch das Parlament bringen kann. Ein sogenanntes "rot-gelbes Bündnis" würde eine fast vollständige Kontrolle über die Regierung gewährleisten, könnte aber schwieriger zu halten sein als eine schwedische Koalition."
+wll.311.a:0 "Die eigentliche Arbeit beginnt jetzt."
+
+#Give in to their demands
+
+wll.41.t:0 "Adelbert gibt den Streikenden nach"
+wll.41.d:0 "Mit dem Rücken zur Wand und in seiner Position als starker Souverän immer brüchiger werdend, hat König Adelbert zugestimmt, das Arbeitsgesetz zu unterzeichnen. Die Syndikalisten verließen ihre Position und ihr Anführer konnte gesehen werden, wie er dem König die Hand schüttelte, was öffentlich eine merkwürdige Aufweichung von Adelberts absolutistischer Besessenheit andeutete."
+wll.41.a:0 "Das Arbeitsgesetz wird unterzeichnet."
+
+wll.42.t:0 "Unterstützung für den König nimmt zu"
+wll.42.d:0 "Beeindruckt vom entschlossenen Handeln ihres Königs, gab das Parlament bei seiner nächsten Sitzung stehende Ovationen. Der Vorsitzende der POB, Fernand Dehousse, hielt eine Rede, in der er Adelbert offen lobte und seinen Vorstoß für eine demokratischere konstitutionelle Monarchie ankündigte."
+wll.42.a:0 "Öffentliche Lobhudelei, interessant..."
+
+wll.43.t:0 "Waffenstillstand wird dem Widerstand angeboten"
+wll.43.d:0 "Nachdem die Provinz Lüttich teilweise befriedet ist, bietet Adelbert dem syndikalistischen Widerstand, der die westlichen Dörfer des Hennegaus immer noch heftig verteidigt, einen Waffenstillstand an. Mit dem Versprechen einer königlichen Begnadigung und der Möglichkeit, eine eigene legale Partei zu gründen, hat der König ein vollständiges Ende der Feindseligkeiten gefordert. Die syndikalistischen Rebellen haben dieses Angebot jedoch abgelehnt und ihre Überfälle auf unsere Militärlager verstärkt."
+wll.43.a:0 "Sie hatten ihre Chance."
+
+wll.44.t:0 "Syndikalistischer Widerstand gebrochen"
+wll.44.d:0 "Nach der Weigerung der Syndikalisten wurde eine Eingreiftruppe, bestehend aus wallonischen und deutschen Truppen, zusammengestellt mit dem Befehl, in Mons einzudringen und die Stadt zu sichern, während die Abteilungen die Rebellen flankierten, sie einkesselten und erfolgreich begannen, die Dörfer Straße für Straße zu räumen. Obwohl es zwei Wochen lang zu schweren Kämpfen kam, konnten wir am Ende die Kontrolle mit relativ geringen Verlusten zurückgewinnen."
+wll.44.a:0 "Die Syndikalisten sind vorerst besiegt."
+
+#Send in the Feldgendarmerie
+
+wll.51.t:0 "Truppen stürmen Seraing"
+wll.51.d:0 "Wie im letzten Jahr hat Adelbert wieder den Befehl gegeben, alle Demonstranten gewaltsam zu vertreiben und die Streiks mit Gewalt aufzulösen. Innerhalb von zwei Stunden wurde der Fabrikkomplex von jeglichem Widerstand geräumt. Der Boden ist rot vor Blut, als die letzten Syndikalisten abgeschlachtet werden, eine klare Warnung an alle anderen, die protestieren wollen."
+wll.51.a:0 "Der Widerstand wird wieder unterdrückt."
+
+wll.52.t:0 "Mons befreit"
+wll.52.d:0 "Nach unserer Niederlage bei Mons während der belgischen Revolution haben unsere Truppen ihre Wunden geleckt. Jetzt sind sie jedoch voll vorbereitet und bereit, die syndikalistischen Barrikaden anzugreifen."
+wll.52.a:0 "Feuert nach Belieben, Männer."
+
+wll.53.t:0 "POB aus dem Parlament verbannt"
+wll.53.d:0 "Obwohl keine eindeutige Verbindung zwischen der gemäßigten Fraktion der POB, die seit 1919 Teil der Regierung ist, und der radikalen syndikalistischen Splitterfraktion gefunden werden kann, hat Adelbert ein königliches Dekret unterzeichnet, das die Partei verbietet und sie aus der Regierung wirft. Obwohl erwartungsgemäß laute Proteste ausbrachen, wurden alle durch die Aussicht auf Gefängnis niedergeschlagen."
+wll.53.a:0 "Ein weiterer Schritt zum Ende des Syndikalismus."
+
+wll.54.t:0 "Ein neues Wallonien"
+wll.54.d:0 "In den letzten zwei Wochen hat sich viel verändert. Die verbliebenen syndikalistischen Zellen wurden zerstört und es kam zu Massenverhaftungen in der gesamten Industriefurche. Experten schätzen die Zahl der Toten auf etwa 15.300 Bürger und die Verhaftung von etwa 800 führenden Mitgliedern der Organisation. Die deutsche Kontrolle ist in Wallonien wieder weitgehend etabliert und wird durch ein Regime der Angst und Repression aufrecht erhalten."
+wll.54.a:0 "Ich denke, ein Toast ist angebracht."
+
+wll.55.t:0 "Königliches Ratsmitglied berufen"
+wll.55.d:0 "Während die Macht des Parlaments beschnitten wurde, behalten sie immer noch eine gewisse Macht. Daher brauchen wir immer noch unseren königlichen Ratsherrn, um ein Auge auf sie zu haben. Während [GetHeadOfGovernment] uns viele Jahre lang gut gedient hat, scheint seine Entschlossenheit zu schwinden und er braucht vielleicht einen Ersatz. Ein Großteil unserer Macht im Parlament basiert auf der katholischen Partei, die einen Kandidaten für die Nachfolge Reeders vorgeschlagen hat. Die Liberalen haben ebenfalls ihren Favoriten bekannt gegeben und drängen Adelbert, eine Wahl zu treffen."
+wll.55.a:0 "Von Wilmowsky wird Ratsmitglied bleiben."
+wll.55.b:0 "Der katholische Kandidat wird gekürt."
+wll.55.c:0 "Der Kandidat der Liberalen wird gekürt."
+
+#Lobbying with Germany
+
+wll.6.t:0 "Suche nach Hilfe gegen Flandern"
+wll.6.d:0 "Die politische Lage hat sich stabilisiert und die Wirtschaft erholt sich langsam, doch es bleibt noch viel zu tun. Flandern, das während der belgischen Revolution seine Unabhängigkeit erklärt hat, ist immer noch ein rechtmäßiger Teil unseres Landes. Allerdings ist Sie aus unserem Einflussbereich herausgefallen und ist nun direktes Mitglied des Reichspaktes. Nur durch sorgfältiges Manövrieren auf dem deutschen politischen Schlachtfeld können wir uns ihre Unterstützung für die Wiedervereinigung sichern."
+wll.6.a:0 "Schicken Sie eine Nachricht nach Deutschland."
+
+wll.61.t:0 "Wallonien bittet um unsere Unterstützung"
+wll.61.d:0 "Nach den Wirren der belgischen Revolution spaltete sich die Nation Flandern-Wallonien in zwei separate Staaten. Die niederländischsprachige Region Flandern hat ihre Abspaltung von der Union erfolgreich vollzogen und ist ein einigermaßen autonomes Mitglied des Reichspaktes geworden. Wallonien hingegen steht weiterhin unter unserer direkteren Kontrolle und hat die Revolution endgültig niedergeschlagen. Nun bitten sie uns um Hilfe bei der Rückeroberung ihres verlorenen Landes und der Wiedervereinigung von Flandern-Wallonien. Während dies unsere Herrschaft über die Region wiederherstellen könnte, könnte es in der Zukunft zu weiteren Problemen führen. Die Ablehnung ihrer Bitte könnte die Nation erneut in Aufruhr versetzen, da die Macht der Regierung in Frage gestellt werden könnte."
+wll.61.a:0 "Unterstützen Sie die wallonische Sache."
+wll.61.b:0 "Nein, die Flamen sind gute Verbündete."
+
+wll.62.t:0 "Deutschland unterstützt uns"
+wll.62.d:0 "Der Kaiser hat den richtigen Weg gesehen und ist unserer Bitte nachgekommen. Im Falle eines Krieges wird keine deutsche Hilfe nach Flandern geschickt werden und es werden keine anderen Mitglieder des Reichspaktes eingreifen dürfen."
+wll.62.a:0 "Bereiten Sie die Invasion vor."
+
+wll.63.t:0 "Deutschland lehnt unsere Anfrage ab"
+wll.63.d:0 "Der Kaiser hat unser Gesuch abgelehnt und die Emisäre, die auf diese vermeintlich lächerliche Idee gekommen sind, des Landes verwiesen. Wenn wir Flandern angreifen, können wir sicher sein, dass wir den vollen Zorn des deutschen Ungetüms zu spüren bekommen. Im Parlament braut sich bereits Unruhe zusammen, viele sehen darin die ersten Anzeichen von Schwäche. Wir werden vorsichtig vorgehen müssen, um nationalistischen Aufständen entgegenzuwirken."
+wll.63.a:0 "Wilhelm hat uns im Stich gelassen!"
+
+#The Government has Failed!
+
+wll.7.t:0 "Die Regierung scheitert!"
+wll.7.d:0 "Nach der desaströsen Kampagne zur Sammlung von Unterstützung gegen Flandern und dem Scheitern, das syndikalistische Problem vollständig zu lösen, strömen die Nationalisten zum Banner von Léon Degrelle, der Wallonien für die Wallonen und eine starke Antwort auf den Syndikalismus verspricht. Während sich die Liberalen bereits gegen seinen unverschämten Populismus ausgesprochen haben, scheinen die Katholiken unsicher zu sein, ob sie sich gegen ihn aussprechen sollen. Auch in der Armee braut sich Unruhe zusammen, wo viele, die sich zum Kampf gegen die Flamen gemeldet haben, von ihrer Regierung enttäuscht sind und eine stärkere Antwort fordern."
+wll.7.a:0 "Nehmt Degrelle fest!"
+
+wll.71.t:0 "Festnahme von Degrelle"
+wll.71.d:0 "Obwohl Degrelle leicht von unserer Polizei gefangen genommen wurde, hat dies zu massiver Empörung in den Städten geführt. Viele sehen dies als Einschränkung der Meinungsfreiheit und Rexist Propaganda beginnt an jeder Straßenecke mit kleinen Scharmützeln zwischen Polizei und den Mitglieder, bevor sie ergriffen werden."
+wll.71.a:0 "Die Situation beginnt zu eskalieren."
+
+wll.72.t:0 "Ärger an der Universität von Lüttich"
+wll.72.d:0 "Die populistische Rhetorik von Degrelle hat sich weit verbreitet und ist zu einem Nährboden für Studenten geworden, die nach der Krise des Schwarzen Montags Schwierigkeiten haben, Arbeit zu finden. Auf dem Campus und auf den Straßen werden friedliche Proteste organisiert, die seine Freilassung und die Schaffung neuer Arbeitsplätze fordern."
+wll.72.a:0 "Zerstreuen Sie die Menschenmassen."
+
+wll.73.t:0 "Meuterei in der Armee"
+wll.73.d:0 "In vielen der kleineren kasernierten Truppen, die speziell für die Einigungskriege eingezogen wurden, scheinen sich wallonische Soldaten gegen ihre deutschen Kommandeure zu verschwören. Befehlsverweigerung und mutwillige Beschädigung von militärischem Gerät scheinen zu einem beliebten Zeitvertreib unserer jungen Soldaten geworden zu sein."
+wll.73.a:0 "Verteilen Sie diese Regimenter über das ganze Land."
+
+wll.74.t:0 "Nachricht aus dem Vatikan"
+wll.74.d:0 "Der Papst hat beschlossen, sich in den Fall Degrelle einzumischen und um Gnade zu bitten. Es scheint, dass Unterstützer von Rex den Nuntius von München, Eugenio Pacelli, erreichen konnten, der den Papst kontaktierte. Beeindruckt von Degrelles Hingabe an Gott, hat der Heilige Vater darum gebeten, dass unsere Regierung Degrelle Gnade gewährt. Es wäre in unserem besten Interesse, dieses Ersuchen geheim zu halten, da es zu schwerwiegenden Problemen führen kann, wenn dies nach außen dringt. Kardinal Mercier hat angeboten, im Namen des Premierministers im Parlament zu sprechen und die ganze Affäre zu leugnen."
+wll.74.a:0 "Erlauben Sie Mercier, fortzufahren."
+
+wll.75.t:0 "Von Mercier verraten!"
+wll.75.d:0 "Obwohl seine Rede vom Kabinett geprüft und ihm vor der Rede übergeben wurde, beschloss Mercier, sich gegen die Regierung auszusprechen, indem er ihre Entschlossenheit in Frage stellte und die päpstliche Affäre in ihrer Gesamtheit erläuterte. Dies führte offensichtlich zu Empörung im Parlament mit Anhängern von Degrelle, die seine Freilassung forderten und Mercier für seine Bemühungen, den Skandal aufzudecken, lobten."
+wll.75.a:0 "Das läuft nicht so gut."
+
+wll.76.t:0 "Degrelle freilassen?"
+wll.76.d:0 "Da sich die öffentliche Meinung gegen die Regierung wendet und die Forderung nach Degrelles Freilassung von Tag zu Tag zunimmt, werden wir bald gezwungen sein, zu entscheiden, ob wir ihn freilassen und hoffen, dass sich dadurch die Menschenmenge vor dem Parlament beruhigt, oder ob wir ihn inhaftieren und den Zorn des Volkes riskieren. Der Innenminister jedoch drängt den Premierminister, den Prozess zu beschleunigen und Degrelle hinrichten zu lassen, bevor die Situation außer Kontrolle gerät."
+wll.76.a:0 "Degrelle freigeben."
+wll.76.b:0 "Bringen Sie den Prozess voran."
+
+#Degrelle released
+wll.77.t:0 "Degrelle freigeben"
+wll.77.d:0 "Um eine weitere Eskalation zu vermeiden, hat die Regierung beschlossen, ihren Fall gegen Degrelle nicht weiter zu verfolgen und die Anklage gegen ihn fallen zu lassen. Obwohl dieser Akt zunächst dazu diente, die wachsenden Unruhen einzudämmen, ist der größte Teil des Schadens bereits angerichtet. Bilder, die einen gebrechlichen und geschwächten Degrelle beim Verlassen des Gefängnisses zeigen, machen im ganzen Land Schlagzeilen. Die Rechten in der Regierung drängen auf ein Misstrauensvotum, das besagt, dass die derzeitige Regierung eindeutig nicht für ihr Volk spricht und sofort zurücktreten sollte. Degrelle selbst hat in der Zwischenzeit seine Kandidatur für das Amt des Premierministers angekündigt und hilft, die Propagandamaschine der Rexisten anzuheizen."
+wll.77.a:0 "Eine Katastrophe!"
+
+wll.78.t:0 "Der Misstrauensantrag hat Erfolg!"
+wll.78.d:0 "In einem Misstrauensvotum mit 103 zu 75 Stimmen besiegt, ist das gesamte Kabinett widerwillig zurückgetreten und die Regierung ist gestürzt. Vorgezogene Neuwahlen wurden für das Ende des Monats angesetzt, während alle regulären Regierungsgeschäfte eingestellt wurden. Schon jetzt ist klar, dass es eine knappe Wahl werden wird, bei der die REX kurz davor zu stehen scheint, die größte Partei in Wallonien zu werden."
+wll.78.a:0 "Die POB, DC und PL schließen sich zusammen."
+wll.78.b:0 "Der DC spricht sich für Degrelle aus."
+
+wll.79.t:0 "Rex gewinnt die Wahl!"
+wll.79.d:0 "Rex ist die größte Partei in Wallonien geworden, dicht gefolgt von der POB. Obwohl Rex die absolute Mehrheit verfehlte, konnte mit Unterstützung der DC eine funktionierende Koalition gebildet werden. Die POB und die PL haben eine Neuauszählung gefordert, die jedoch von den Gerichten abgelehnt wurde, da die Richter feststellten, dass Rex fair und deutlich gewonnen hat."
+wll.79.a:0 "Degrelle übernimmt die Kontrolle."
+
+wll.710.t:0 "Die Große Koalition gewinnt die Wahl!"
+wll.710.d:0 "Indem sie ihre Kräfte bündelten und REX anprangerten, konnte die große Koalition aus POB, DC und PL die Wahl gewinnen. REX erreichte nur 19% der Stimmen und wurde aus der Regierung ausgeschlossen. Obwohl viele von Degrelles Anhängern noch da sind, wird die Partei höchstwahrscheinlich nie wieder den gleichen Schwung erreichen."
+wll.710.a:0 "Ein Sieg für die Demokratie!"
+
+#Degrelle goes to trial
+wll.711.t:0 "Der Prozess gegen Degrelle"
+wll.711.d:0 "Tausende haben sich vor dem höchsten Gericht Walloniens versammelt, als Degrelle dem Richter vorgeführt wird. Nach vielen Stunden Verhandlung hat der Richter endlich sein Urteil gesprochen. Degrelle wurde in mehreren Punkten für schuldig befunden, einen Angriff auf die Nation begangen zu haben, der darauf abzielte, die Regierungsform zu stürzen oder zu verändern und die Bürger gegen den Rechtsstaat und seine rechtmäßig eingesetzten Organe unter Waffen zu bringen. Diese Zusammenstellung von Verbrechen soll mit der Todesstrafe geahndet werden, was noch in dieser Woche geschehen soll."
+wll.711.a:0 "Hoffentlich bedeutet dies ein Ende von REX."
+
+wll.712.t:0 "Rexisten-Putsch"
+wll.712.d:0 "Angestachelt durch die ungerechte Verurteilung von Degrelle und die Härte seiner Strafe, strömten immer mehr Anhänger zum Banner der Rexisten. Am Sonntagabend, als die meisten Regierungsbehörden geschlossen waren, starteten Militärputschisten einen pro-rexistischen Putsch, holten den Premierminister aus dem Bett und eroberten viele wichtige Militäreinrichtungen. Von seinen Anhängern befreit, erklärte Degrelle den Beginn einer neuen rexistischen Ära und begleitete seine Truppen persönlich, um die letzten verbliebenen Regierungshochburgen einzunehmen. Als am nächsten Tag die Sonne aufging, hatte REX seine Putschziele erfüllt und die volle Kontrolle über den Staat übernommen."
+wll.712.a:0 "Eine neue Ära steht bevor!"
+
+#Downfall of Degrelle
+wll.713.t:0 "Degrelle Erschossen!"
+wll.713.d:0 "Während eines Besuchs in der FN Herstal Fabrik wurde Léon Degrelle von einem Fabrikarbeiter erschossen. Obwohl seine Leibwächter sofort das Feuer erwiderten und den Angreifer töteten, wurde Degrelle in das nächstgelegene Krankenhaus gebracht, doch die medizinische Versorgung kam zu spät und gegen 16:00 Uhr starb unser großer Führer. Aufgrund seiner Machtkonsolidierung in den letzten Jahren scheint es keinen klaren Nachfolger für sein Erbe zu geben und während die Führer von REX sich gegenseitig bekämpfen, wittern die anderen Parteien eine Chance, ihre verlorene Popularität wiederzuerlangen. Ob REX in der Lage sein wird, nach dem Verlust ihres charismatischen Führers die Macht zu behalten, bleibt abzuwarten, aber dunkle Wolken brauen sich definitiv über Wallonien zusammen."
+wll.713.a:0 "Kein Zweifel, REX wird sich jetzt zerfleischen."
+
+wll.714.t:0 "Machtkämpfe innerhalb von REX"
+wll.714.d:0 "Nach dem Tod von Degrelle hat sein Stellvertreter Victor Matthys die Kontrolle über die Partei an sich gerissen, zum Unmut anderer wichtiger Akteure wie Louis Collard und dem Propagandaminister Georges Prosper Remi. Matthys' Führungsqualitäten haben sich schnell als bestenfalls glanzlos herausgestellt, nachdem er entschieden hat, dass die Bevölkerung nur mit extremer Repression bei der Stange gehalten werden kann. Während es scheint, dass die Ordnung vorübergehend wiederhergestellt wurde, braut sich hinter der Fassade der Gewalt der Widerstand zusammen und Matthys' Herrschaft könnte von kurzer Dauer sein."
+wll.714.a:0 "Noch mehr Turbulenzen."
+
+wll.715.t:0 "Staatsstreich in Wallonien!"
+wll.715.d:0 "Die Nachfolgekrise scheint endgültig die Armee erreicht zu haben, die sich aus Protest gegen die grausamen Massaker, die Matthys zur Ausschaltung seiner Gegner in Auftrag gegeben hat, erhoben hat. Unterstützt von der PL und der POB haben die Offiziere ihren Soldaten befohlen, alle Befehle der Rexisten zu missachten, und man hat Panzer durch die Lütticher Alleen in Richtung Parteizentrale rollen sehen. Trotzdem sind die verbliebenen Hardliner nicht bereit, so einfach aufzugeben, und ohne eine Kapitulation der Rexisten ist ein Blutbad fast unvermeidlich."
+wll.715.a:0 "Verlangen Sie, dass sie ihre Waffen niederlegen."
+
+wll.716.t:0 "Konsultation mit Remi"
+wll.716.d:0 "Während Louis Collard sich mit den REX-Hardlinern innerhalb der Parteizentrale verschanzt hat, kooperiert Georges Prosper Remi seit Degrelles Tod mit dem Widerstand und strebt eine Rückkehr zur Demokratie und eine friedliche Machtübergabe an. Obwohl sich seine Bemühungen, einen bewaffneten Konflikt zu vermeiden, bisher als vergeblich erwiesen haben, hat er immer noch einen gewissen Einfluss innerhalb der Nation und hat viele der anderen Rexisten außerhalb der Hauptstadt davon überzeugt, sich der Armee zu ergeben. Während er versucht hat, mit den verbleibenden Hardlinern zu vermitteln, sind alle Versuche gescheitert und es scheint, dass sie nicht kampflos untergehen werden."
+wll.716.a:0 "Den Angriff starten."
+
+wll.717.t:0 "Georges Deffontaine übernimmt vorübergehend die Kontrolle"
+wll.717.d:0 "Nach einer kurzen, aber blutigen Belagerung der Parteizentrale ist die Armee siegreich hervorgegangen und hat Georges Deffontaine zum Führer der provisorischen Regierung bis zur Durchführung von Wahlen erklärt. Die POB und die PL haben sofort ihre Propagandabemühungen wieder aufgenommen. Nachdem die REX vom Militär aufgelöst wurde, hat Georges Prosper Remi angekündigt, dass er für das Amt kandidieren wird, um die verbleibenden rexistischen Elemente einzudämmen und Wallonien auf dem Weg zur vollen Demokratie zu helfen."
+wll.717.a:0 "Wir bereiten Wahlen vor!"
+
+wll.718.t:0 "Post-REX-Wahlen"
+wll.718.d:0 "Nach dem Sturz von REX und dem Militärputsch stehen nun endlich die Wahlen an. Die POB unter Fernand Dehousse schneidet in den Umfragen hervorragend ab, hat aber aufgrund eines schädlichen Skandals um eines ihrer Parteimitglieder einige Rückschläge erlitten. Auguste Buisseret liegt mit seiner Botschaft der liberalen Demokratie ebenfalls gut im Rennen und hat viele der deutschen Kapitalisten angezogen. Georges Prosper Remi liegt zur Überraschung vieler ebenfalls noch gut im Rennen und könnte mit seiner Botschaft von Solidarität und nationaler Einheit sogar einen knappen Sieg aus den Wahlen ziehen."
+wll.718.a:0 "Fernand Dehousse und die POB."
+wll.718.b:0 "Auguste Buisseret und die PL"
+wll.718.c:0 "Georges Prosper Remi und die UNW."
+
+#POB wins the elections
+
+wll.8.t:0 "POB gewinnt die Wahl"
+wll.8.d:0 "Für viele wenig überraschend konnte die POB die Wähler überzeugen und einen Erdrutschsieg erringen. Interne Streitigkeiten schaden der Partei jedoch und im Parlament sind lange Diskussionen über die Zukunft der sozialistischen Partei zu hören. Unterfraktionen unter Lucie Dejardin, Julien Lahaut und Walter Dauge schaden dem Ansehen von Fernand Dehousse und könnten ihn in eine gefährliche Lage bringen. Die Syndikalisten fordern eine schnelle und schmerzlose Revolution, während die konservativere Fraktion es vorzieht, den Status quo mit kleinen sozialistischen Reformen aufrechtzuerhalten."
+wll.8.a:0 "Es stehen schwierige Verhandlungen bevor."
+
+wll.81.t:0 "Frage der Führung"
+wll.81.d:0 "Während die POB versucht, sich einzurichten und ihr Kabinett zu bilden, wurde ein Misstrauensantrag gegen Fernand Dehousse ausgerufen, in dem er als Verräter an der Arbeiterklasse und als ungeeignet zum Regieren bezeichnet wird. Obwohl die syndikalistischen Mitglieder diesen Antrag unterstützen, sind andere Unterfraktionen unter Führung von Julien Lahaut und Walter Dauge weniger geneigt, sie zu unterstützen, da dies zu einer syndikalistischen Dominanz innerhalb der Partei führen würde."
+wll.81.a:0 "Fernand Dehousse bleibt Parteivorsitzender."
+wll.81.b:0 "Lucie Dujardin wird Vorsitzende."
+
+wll.82.t:0 "Blutbad in Lüttich"
+wll.82.d:0 "Da es innerhalb der POB keinen Konsens gibt, haben Mitglieder der extremistischen syndikalistischen und totalistischen Fraktionen beschlossen, die Angelegenheiten auf ihre eigene Weise zu regeln. Während eines weiteren gescheiterten Treffens zwischen Fernand Dehousse und Mitgliedern einer neuen sozialliberalen Fraktion stürmten maskierte Angreifer den Raum und schlachteten Fernand Dehousse und seine Mitarbeiter ab. Über sechzig hochrangige Mitglieder der POB wurden massakriert, danach zogen die Angreifer ab. Schockiert von diesen Ereignissen hat das Parlament einen Tag der nationalen Trauer angekündigt, um die Opfer des Angriffs zu betrauern."
+wll.82.a:0 "Es herrscht wieder einmal Chaos."
+
+wll.83.t:0 "Lahaut übernimmt die Kontrolle"
+wll.83.d:0 "Nachdem alle Widerstände beseitigt wurden und die gemäßigten Syndikalisten keine unmittelbare Reaktion zeigten, hat Julien Lahaut die Kontrolle über die POB übernommen und beginnt, auf die vollständige Revolution zu drängen, die Ketten zu sprengen und die Arbeiterklasse von der kapitalistischen Unterdrückung zu befreien."
+wll.83.a:0 "Dunkle Zeiten stehen uns bevor."
+
+wll.84.t:0 "Militär aufgelöst"
+wll.84.d:0 "Um Probleme mit dem Militär zu vermeiden, hat Lahaut alle Offiziere entlassen und ihnen den Geldhahn zugedreht. Nur eine kleine Fraktion, die Rote Garde, durfte bestehen bleiben, eine Prätorianergarde, die aus Lahauts schärfsten Anhängern besteht."
+wll.84.a:0 "Das Militär wurde demontiert."
+
+#Recreate Flanders-Wallonia
+
+wll.9.t:0 "Wiederherstellung von Flanders-Wallonia?"
+wll.9.d:0 "Endlich sind die flämischen Ländereien wieder unter unserer Kontrolle und das Volk hat uns aufgefordert, die Nation Flandern-Wallonien neu auszurufen. Wir könnten den Flamen aber auch ihren eigenen Staat lassen, natürlich unter unserer Führung..."
+wll.9.a:0 "Flandern-Wallonien neu bilden!"
+wll.9.b:0 "Ich bevorzuge den Wallonischen Hahn."
+
+#Territorial Demands
+
+wll.10.t:0 "Wallonisches Ultimatum"
+wll.10.d:0 "Die wallonische Regierung hat uns ein Ultimatum gestellt, in dem sie unsere sofortige Wiedervereinigung mit ihnen und die Wiederherstellung von Flandern-Wallonien fordert. Entlang unserer Südgrenze wurden Truppen bei Militärübungen gesichtet, und sogar die Überreste der ehemaligen flämisch-wallonischen Marine haben sich vor unserer Küste besonders dreist verhalten. Technisch gesehen sind wir ihnen jedoch zahlenmäßig überlegen, so dass wir in der Lage sein sollten, uns zu verteidigen."
+wll.10.a:0 "Nun, ich nehme an, es ist in unser beider Interesse..."
+wll.10.b:0 "Flandern ist eine unabhängige Nation!"
+
+wll.101.t:0 "Ultimatum abgelehnt!"
+wll.101.d:0 "Das Ultimatum wurde abgelehnt und unsere Nachbarn befestigen nun ihre Grenze in Vorbereitung auf einen Krieg."
+wll.101.a:0 "Starten Sie die Invasion."
+wll.101.b:0 "Wir können nichts tun."
+
+wll.102.t:0 "Wallonie bittet um Deutsch-Wallonien"
+wll.102.d:0 "Die wallonische Regierung ist wegen der wallonischen Provinz, die wir nach dem Weltkrieg annektiert haben, an uns herangetreten. Sie behaupten, dass eine Rückgabe an sie Unruhen in der Region lösen und unsere Grenzen stärken würde. Wir können ihnen dieses Land jedoch leicht verweigern und sie an ihre Niederlage gegen uns erinnern."
+wll.102.a:0 "Rückgabe Deutsch-Wallonien."
+wll.102.b:0 "Dem Sieger die Beute."
+
+wll.103.t:0 "Wallonien fordert Flandern"
+wll.103.d:0 "Wallonien, das alle Ländereien beansprucht, die einst von Belgien gehalten wurden, hat von unserer Nation verlangt, ihnen die Kontrolle über Flandern zu übertragen."
+wll.103.a:0 "Flandern zurückgeben."
+wll.103.b:0 "Dem Sieger die Beute."
+
+wll.104.t:0 "Antrag abgelehnt!"
+wll.104.d:0 "Der Antrag wurde abgelehnt und unsere Nachbarn befestigen nun ihre Grenze in Vorbereitung auf einen möglichen Konflikt."
+wll.104.a:0 "Verdammt."
+
+#Internationale
+
+wll.11.t:0 "Wallonie bittet um Aufnahme in die Internationale"
+wll.11.d:0 "Unser nördlicher Nachbar hat erfolgreich die Ketten gesprengt und will sich unserem Bündnis anschließen. Deutsche Repressionen gegen ihre Revolution könnten jedoch bevorstehen, so dass wir uns überlegen sollten, ob wir dieses Risiko eingehen wollen."
+wll.11.a:0 "Lasst sie rein."
+wll.11.b:0 "Weisen Sie sie zurück."
+
+wll.111.t:0 "Die Internationale verweigert die Mitgliedschaft"
+wll.111.d:0 "Wir sind von unseren sozialistischen Brüdern verraten worden und müssen uns nun ganz allein der deutschen Macht stellen."
+wll.111.a:0 "Ist die Revolution verloren?"
+
+wll.112.t:0 "Syndikalismus in Wallonien"
+wll.112.d:0 "Es scheint, dass der Syndikalismus auf unseren Marionettenstaat Wallonien übergegriffen hat und dass Adelbert wieder einmal abgesetzt wurde. Unsere Armeen bereiten sich bereits auf eine Invasion vor, können aber noch zurückgerufen werden, um Vergeltungsmaßnahmen der französischen Kommune zu verhindern."
+wll.112.a:0 "Bereiten Sie den Angriff vor!"
+wll.112.b:0 "Wallonien ist nicht mehr beeinflußbar."
+
+#Flavour
+
+#Propaganda
+
+wll.12.t:0 "POB verbreitet Propaganda"
+wll.12.d:0 "In den Tagen vor der umstrittenen Wahl stellen alle Parteien ihre besten Propagandateams zusammen, um ihre Stärken zu propagieren und die anderen anzuprangern. Ihr Hauptaugenmerk scheint darauf zu liegen, die PL-DC-Koalition als den Feind darzustellen und zu versuchen, der Arbeiterklasse Angst einzuflößen."
+wll.12.a:0 "Die Wahl rückt näher!"
+
+wll.121.t:0 "PL verbreitet Propaganda"
+wll.121.d:0 "Die PL hat sich darauf konzentriert, der Angst entgegenzuwirken, die der Mittelschicht von den Katholiken gegen die Sozialisten eingeflößt wurde. Carnaval... nach Ostern ist der Bürger klug genug geworden, diese Lügen zu durchschauen!'"
+
+wll.122.t:0 "REX verbreitet Propaganda"
+wll.122.d:0 "Angeführt von ihrem wenig populären Anführer Degrelle versucht die REX, die Wähler zu beeinflussen, indem sie die vollständige Säuberung oder 'groote kuisch' von Berufspolitikern verspricht und die Wallonie zu ihren wahren belgischen Grenzen zurückführt."
+
+wll.123.t:0 "DC verbreitet Propaganda"
+wll.123.d:0 "Aus Angst vor Katholiken, die gegen sie und für REX stimmen, hat DC eine Hetzkampagne gegen Degrelle gestartet, in der er abwechselnd verwirrt 'dwaashoofd' und machtbesessen 'macht' genannt wird."
+
+wll.124.t:0 "POB verbreitet Propaganda"
+wll.124.d:0 "Um die Arbeiter der Vorkriegssituation in Erinnerung zu rufen, hat POB versucht, das Bild der gescheiterten PL-DC und ihrer Kumpane zu präsentieren, die in Misserfolgen ertrinken. 'Nach ihrem Versagen, Belgien zu halten, vertraust du ihnen noch?'"
+
+wll.125.t:0 "POB verbreitet Propaganda"
+wll.125.d:0 "'Die Zeit für den Sozialismus ist jetzt. Die PL-DC steckt in der Vergangenheit fest, während die POB in die Zukunft blickt! So kann die Herrschaft des Geldes enden und die Herrschaft des Arbeiters kann beginnen!'"
+
+wll.126.t:0 "Anti-Deutsche Propaganda"
+wll.126.d:0 "Mitten in der Nacht ohne Zeugen aufgehängt, ist eine große Menge an antideutscher Propaganda aufgetaucht, die die Eindringlinge als Schweine zeigt, die den Leichnam Belgiens verwüsten. Polizeiliche Fahndungen blieben erfolglos, die Täter zu finden, aber viele deutsche Bürger sind verängstigt, und die Empörung macht sich breit."
+
+#Industrial
+
+wll.131.t:0 "Gründung der IBA"
+wll.131.d:0 "Gegründet von Wissenschaftlern aller wallonischen Universitäten und sogar der flämischen, wurden Ionenstrahlanwendungen mit dem Ziel ins Leben gerufen, die Hightech-Industrie in Wallonien zu fördern. Mit einem großen Fokus auf Prothetik und Zyklotron, hoffen sie, die Nische zu revolutionieren und die Welt im Sturm zu erobern."
+wll.131.a:0 "Ihre Projekte finanzieren."
+wll.131.b:0 "Beobachten Sie ihre Fortschritte."
+
+wll.1311.t:0 "Kapitalrendite!"
+wll.1311.d:0 "IBA konnte mit unseren Subventionen in den amerikanischen Markt expandieren und hat auch von deren Regierung Unterstützung erhalten. Es wurde ein Vertrag zwischen ihnen und IBA unterzeichnet, der eine einfachere Expansion und die Übernahme einer Biotechnologiefirma in den Staaten ermöglicht."
+wll.1311.a:0 "Toller Erfolg!"
+
+wll.1312.t:0 "Investition gescheitert!"
+wll.1312.d:0 "Mit den Subventionen hat IBA versucht, in den deutschen Markt einzutreten, wurde aber gezwungen, harte Bedingungen mit ihrer Regierung zu unterzeichnen und wurde von der weiteren Expansion blockiert. Schlimmer noch, es scheint, dass einer ihrer Mitarbeiter Firmengeheimnisse an ihre Kollegen weitergegeben hat, wodurch sie noch weiter zurückfallen."
+wll.1312.a:0 "Wahrlich eine Schande!"
+
+
+wll.132.t:0 "Gewinnung von neuen Ressourcen"
+wll.132.d:0 "Um die Abhängigkeit von Kohle und Schwerindustrie zu bekämpfen, hat die Regierung ein großangelegtes Programm zur Überholung eines Teils der Industrie im Hennegau gestartet, um ihn zum Glaszentrum Europas zu machen. Vor allem von Charleroi aus wurden neue und bestehende Unternehmen finanziert und ausgebaut."
+wll.132.a:0 "Wir brauchen aber mehr als das."
+
+wll.1321.t:0 "Anfrage der Union Minière"
+wll.1321.d:0 "Während die belgische Regierung unsere Kolonie nach dem Weltkrieg verloren hat, wird der größte Teil der kongolesischen Wirtschaft immer noch von unseren Konzernen kontrolliert. Die Union Minière du Haut Katanga ist die größte unter ihnen und hat sich als einer der wichtigsten Akteure auf dem Rohstoffmarkt etabliert. Die Einmischung der Mittelafrikaner beginnt jedoch, ihre Interessen zu beeinträchtigen, und ihre Regierung hat dem Unternehmen Beschränkungen auferlegt. Deshalb haben sie beschlossen, den Großteil ihrer Mittel abzuziehen und Kredite bei wallonischen Banken statt bei deutschen aufzunehmen. Um dies zu erreichen, benötigen sie jedoch die Unterstützung unserer Regierung und eine Anpassung unserer Gesetze, um ihnen einen einfachen Transfer zu ermöglichen. Während die Vorteile enorm sein können, müssen wir vorsichtig sein, um den deutschen Zorn zu vermeiden."
+wll.1321.a:0 "Unterstützen Sie die UMHK."
+wll.1321.b:0 "Wir distanzieren uns von ihren Bemühungen."
+
+wll.1322.t:0 "Neues Abkommen mit Mittelafrika vorschlagen"
+wll.1322.d:0 "Um unsere Bürger und die UMHK im Ausland zu unterstützen, hat die Regierung einen Vorschlag für Mittelafrika ausgearbeitet. Sie bitten um einen leichteren Zugang zu den Minen, um die Erlaubnis, Infrastruktur im Kongo zu bauen und um die Verpachtung des Hafens von Boma an unsere Nation. Im Gegenzug wird UMHK einen erhöhten Steuerbetrag zahlen und Wohnungen, Krankenhäuser und Schulen für die lokale Bevölkerung bauen. Ein neues Handelsabkommen wird unterzeichnet, das die wallonischen Importe aus Mittelafrika erhöht und gleichzeitig günstigere Regelungen für ihre Regierung bietet."
+wll.1322.a:0 "Wir können alle profitieren!"
+wll.1322.b:0 "Seien wir nicht voreilig..."
+
+wll.1323.t:0 "[From.GetName] Sucht nach einer Vereinbarung"
+wll.1323.d:0 "Um ihre Bürger und die Union Minière du Haut Katanga in Mittelafrika zu unterstützen, hat die [From.GetAdjective]-Regierung einen Vorschlag für uns ausgearbeitet. Sie bitten um einen leichteren Zugang zu den Minen, um die Erlaubnis, Infrastruktur im Kongo zu bauen und um die Verpachtung des Hafens von Boma an ihre Nation. Im Gegenzug wird UMHK einen erhöhten Steuerbetrag zahlen und Wohnungen, Krankenhäuser und Schulen für die lokale Bevölkerung bauen. Ein neues Handelsabkommen wird unterzeichnet, das die wallonischen Importe aus Mittelafrika erhöht und gleichzeitig günstigere Regelungen für unsere Regierung vorsieht. Aufgrund der wirtschaftlichen Schwierigkeiten, die wir erleben, wäre es sehr vorteilhaft, den Flamen zu erlauben, in unserem Land zu investieren, aber es würde auch ihren Einfluss auf die kongolesische Region erhöhen. Sie abzulehnen wäre jedoch sehr kostspielig, da ein sehr wesentlicher Teil unserer Wirtschaft von der UMHK abhängt."
+wll.1323.a:0 "Ein mutiger, aber willkommener Vorschlag!"
+wll.1323.b:0 "Wir unterzeichnen keine Vereinbarungen mit Nicht-Unternehmen."
+
+wll.1324.t:0 "Mittelafrika Akzeptiert"
+wll.1324.d:0 "Mittelafrika scheint unseren Bedingungen zugestimmt zu haben und hat UMHK wieder freie Hand über die Provinzen des Kongo gegeben. Unsere Bitte um den Hafen von Boma wurde jedoch für die Zeit abgelehnt, bis wir unseren Teil der Abmachung erfüllt haben."
+wll.1324.a:0 "Sehr gut!"
+
+wll.1325.t:0 "Mittelafrika lehnt ab!"
+wll.1325.d:0 "Es scheint, dass das brutale mittelafrikanische Regime alle unsere Forderungen abgelehnt hat und sogar die Steuern, die auf unsere Firmen erhoben werden, um weitere zwei Prozent erhöht hat. Die UMHK ist wütend über ihr Vorgehen und hat unserer Regierung angekündigt, dass die mittelafrikanische Kolonialverwaltung für ihr rachsüchtiges Vorgehen bezahlen wird."
+wll.1325.a:0 "Hoffentlich handeln sie nicht zu drastisch..."
+
+wll.1326.t:0 "Rendite auf Kongo-Investitionen"
+wll.1326.d:0 "Nach dem Ausbau der Eisenbahnlinien, die Boma und Katanga verbinden, laufen die ersten Sendungen im Hafen von Antwerpen ein. Durch unsere Absprachen mit der flämischen Regierung, die sich die Gewinne teilen, erreichen die meisten Güter Lüttich. Kupfer, Uran, Gold und vieles mehr fließt durch den Adelbert-Kanal, bereit für den Export nach Europa."
+wll.1326.a:0 "Das Geld fließt in Strömen."
+
+### Focuses ###
+WLL_Hold_On_To_The_Monarchy:0 "Bewahren Sie die Monarchie"
+WLL_Hold_On_To_The_Monarchy_desc:0 "Die Flamen haben uns zwar rausgeschmissen, aber die Herrschaft Adelberts soll im Süden weiter bestehen."
+WLL_Consolidate_Royal_Power:0 "Königliche Macht konsolidieren"
+WLL_Consolidate_Royal_Power_desc:0 "Es hat sich wieder einmal gezeigt, dass nur durch harte Maßnahmen die Bevölkerung unter Kontrolle gehalten werden kann/"
+WLL_Form_Royal_Guard:0 "Königliche Garde bilden"
+WLL_Form_Royal_Guard_desc:0 "Wir können uns nicht weiter auf die Feldgendarmerie verlassen, wir brauchen eine starke und loyale königliche Garde."
+WLL_Strenghten_German_Ties:0 "Deutsche Bande stärken"
+WLL_Strenghten_German_Ties_desc:0 "Gute Beziehungen zu Berlin sind für unsere Herrschaft lebenswichtig, denn ohne sie könnte alles wieder zusammenbrechen."
+WLL_Appoint_Royal_Councillor:0 "Ernennung eines königlichen Ratsmitglieds"
+WLL_Appoint_Royal_Councillor_desc:0 "Der königliche Ratsherr ist unsere direkte Verbindung zum Parlament, das er beobachtet und in unserem Namen interveniert. Während [GetHeadOfGovernment] uns in den letzten Jahren gut gedient hat, könnten die jüngsten Aufstände das Ende seiner Karriere verursacht haben."
+WLL_Adapt_The_Constitution:0 "Die Verfassung anpassen"
+WLL_Adapt_The_Constitution_desc:0 "Die politischen Systeme unserer Nation haben sich drastisch verändert und eine Überarbeitung der alten flämisch-wallonischen Verfassung ist angesagt."
+WLL_Give_Up_Our_Belgian_Claims:0 "Unsere belgischen Ansprüche aufgeben"
+WLL_Give_Up_Our_Belgian_Claims_desc:0 "Wir sollten nicht länger nach der Eroberung Flanderns streben. Wir sind allein stärker und können uns ohne sie besser auf die Bedürfnisse der Wallonen konzentrieren."
+WLL_Liberals_Strenghten_Control:0 "Liberale stärken die Kontrolle"
+WLL_Liberals_Strenghten_Control_desc:0 "Nach ihrem Wahlsieg und der Nutzung ihrer Koalition, um sie in eine ideale Position zu manövrieren, können sie sich endlich darauf konzentrieren, ihre eigene Kontrolle über das Ganze zu stärken."
+WLL_Le_Chant_Des_Wallons:0 "Das Lied der Wallonen"
+WLL_Le_Chant_Des_Wallons_desc:0 "Der Nationalismus wurde gestärkt, die Nation gefestigt und neue Möglichkeiten erscheinen an jeder Ecke. Geleitet von unserer Nationalhymne und dem Willen unseres Volkes werden wir dem Horizont entgegen marschieren!"
+WLL_Reaffirm_Belgian_Claims:0 "Belgische Ansprüche bekräftigen"
+WLL_Reaffirm_Belgian_Claims_desc:0 "Die Flamen mögen während ihrer Revolution das Beste aus uns herausgeholt haben, aber der Löwe hat seine Wunden unter dem Deckmantel eines Hahns geleckt. Bald werden wir zuschlagen und unser rechtmäßiges Land zurückerobern."
+WLL_War_Games_On_The_Flemish_Border:0 "Kriegsspiele an der flämischen Grenze"
+WLL_War_Games_On_The_Flemish_Border_desc:0 "Die flämische Invasion steht unmittelbar bevor und eine genaue Beobachtung und Ausbildung entlang der Grenze kann uns den nötigen Vorsprung verschaffen."
+WLL_Lobby_Abroad:0 "Auslandslobby"
+WLL_Lobby_Abroad_desc:0 "Nach ihrer Unabhängigkeit konnten sie unter den Fittichen Deutschlands unserem Zorn entkommen. Wir müssen Wilhelm beweisen, dass wir in der Lage sind, die Region zu halten und dass eine Aufspaltung seiner größeren Vision abträglich ist."
+WLL_Send_The_Ultimatum:0 "Senden Sie das Ultimatum"
+WLL_Send_The_Ultimatum_desc:0 "Die Zeit des Krieges ist gekommen. Flandern wird sich unter dem Hahn verbeugen und sich unserer Union wieder anschließen."
+
+WLL_Reform_Into_A_Republic:0 "Reform zur Republik"
+WLL_Reform_Into_A_Republic_desc:0 "Die Monarchie hat sich als Fehlschlag erwiesen und wurde durch die Wallonische Republik ersetzt"
+WLL_Elections:0 "Wahlen abhalten"
+WLL_Elections_desc:0 "Da die Spannungen zwischen der POB, der PL und den deutschen Royalisten hoch sind, müssen so schnell wie möglich Wahlen abgehalten werden, um wieder Stabilität in unser Land zu bringen."
+WLL_Invite_The_Catholics:0 "Einladen der Katholiken"
+WLL_Invite_The_Catholics_desc:0 "Um eine absolute Mehrheit im Parlament zu erreichen und unsere Machtbasis zu festigen, brauchen wir die Unterstützung der Katholiken im Süden."
+WLL_Invite_The_Socialists:0 "Die Sozialisten einladen"
+WLL_Invite_The_Socialists_desc:0 "Wir müssen unseren Freunden in der POB den Olivenzweig reichen, um den Weg zu einer stabilen und florierenden Gesellschaft zu weisen."
+WLL_Form_A_Government:0 "Eine Regierung bilden"
+WLL_Form_A_Government_desc:0 "Die erste Verhandlungsrunde hat sich als erfolgreich erwiesen und es ist nun an der Zeit, die Bildung abzuschließen und die neue wallonische Regierung zu verkünden."
+
+WLL_Syndicalist_Revolution:0 "Syndikalistische Revolution"
+WLL_Syndicalist_Revolution_desc:0 "Die syndikalistische Revolution ist da und fegt durch die Industriezentren des Industriefurche. Eine ruhige Hand wird notwendig sein, um Blutvergießen und Gewalt zu vermeiden."
+WLL_Peacefull_Transition:0 "Friedlicher Übergang"
+WLL_Peacefull_Transition_desc:0 "Der einzige Weg, das Herz der Arbeiterklasse wirklich zu erobern, sind faire und demokratische Wahlen. Durch eine solide parlamentarische Machtbasis werden wir beginnen, Wallonien nach unserem sozialistischen Ideal zu reformieren und zu formen."
+WLL_A_BWP_President:0 "A POB Präsident"
+WLL_A_BWP_President_desc:0 "Fernand Dehousse hat die Partei durch die Wahlen geführt und sollte der unangefochtene Vorsitzende der Partei sein. Als erster wallonischer Präsident wird er die Wallonie in die Zukunft führen."
+WLL_A_Syndicalist_Chairman:0 "Ein syndikalistischer Vorsitzender"
+WLL_A_Syndicalist_Chairman_desc:0 "Fernand Dehousse ist weich geworden und hat alles aufgegeben, wofür die syndikalistische Revolution stand. Er muss durch einen wahren Syndikalisten ersetzt werden, damit die Revolution weitergehen kann."
+WLL_Seize_Basic_Industry:0 "Verstaatlichung der Grundstoffindustrie"
+WLL_Seize_Basic_Industry_desc:0 "Die Stahl- und Kohleindustrie ist unser wichtigster Industriezweig, wird aber fast vollständig von wallonischen und deutschen Kapitalisten kontrolliert. Wenn wir die Kontrolle über diese wichtigen Sektoren übernehmen würden, können wir sicherstellen, dass die Arbeiter über den Profit gestellt werden."
+WLL_Found_National_Mining_Company:0 "Gründung der Nationalen Bergbaugesellschaft"
+WLL_Found_National_Mining_Company_desc:0 "Um einen industriellen Zusammenbruch im Ausmaß des Schwarzen Montags zu vermeiden, müssen wir eine staatliche Bergbaugesellschaft schaffen, die unsere eigenen Kohleminen kontrolliert und subventioniert, um die Arbeitsplätze unserer Bevölkerung zu sichern."
+WLL_Expand_State_Education:0 "Staatliche Bildung ausweiten"
+WLL_Expand_State_Education_desc:0 "Um den Einfluss der Katholiken zu verringern, müssen wir beweisen, dass staatliche Bildung genauso gut oder sogar besser sein kann."
+WLL_Abolish_Catholic_Education:0 "Katholische Bildung abschaffen"
+WLL_Abolish_Catholic_Education_desc:0 "Durch ihr riesiges Bildungssystem kontrollieren die Katholiken den Verstand und den Geist unserer Jugend. Kirche und Bildung sollten vollständig getrennt werden und letztere sollte ausschließlich staatlich kontrolliert werden."
+WLL_Introduce_Voting_Rights_For_Women:0 "Frauenwahlrecht einführen"
+WLL_Introduce_Voting_Rights_For_Women_desc:0 "Einige unserer Wähler beginnen zu zweifeln, ob die POB auf dem revolutionären Weg bleibt oder in eine Status-quo-Selbstgefälligkeit abdriftet. Deshalb hat der Parteivorsitzende angekündigt, dass er sich für das Wahlrecht für alle Bürger einsetzen wird: Männer und Frauen."
+WLL_The_BWP_Retains_Control:0 "Das POB behält die Kontrolle"
+WLL_The_BWP_Retains_Control_desc:0 "Mit der Verabschiedung der meisten groß angelegten Reformen erreicht die Popularität der POB neue Höhen, was zu einer stärkeren Position für die kommenden Wahlen führt."
+WLL_Disband_The_Parliamentary_System:0 "Das parlamentarische System auflösen"
+WLL_Disband_The_Parliamentary_System_desc:0 "Es ist klar geworden, dass eine syndikalistische Revolution der einzige Weg nach vorne für Wallonien ist, und deshalb hat die POB auf die vollständige Abschaffung der parlamentarischen Struktur gedrängt, wobei diese durch ein syndikalistisches System nach dem Vorbild unseres französischen Nachbarn ersetzt werden soll."
+WLL_Declare_The_Walloon_Commune:0 "Deklarieren Sie die wallonische Kommune"
+WLL_Declare_The_Walloon_Commune_desc:0 "Die Zeit ist gekommen, dass sich die Arbeiter erheben und die Ketten sprengen. Die Wallonische Kommune wird ausgerufen und läutet eine neue Ära ein!"
+WLL_Join_The_Internationale:0 "Beitritt zur Internationale"
+WLL_Join_The_Internationale_desc:0 "Da die Bindungen zwischen Wallonien und Deutschland völlig zusammenbrechen, brauchen wir die Unterstützung unserer Brüder in Frankreich, um die Fortsetzung der Revolution zu sichern."
+
+WLL_Revolution_By_Force:0 "Gewaltsame Revolution"
+WLL_Revolution_By_Force_desc:0 "Es ist klar, dass die Arbeiter aus ihrer Unterdrückung wachgerüttelt und durch einen starken Führer geeint werden müssen."
+WLL_Seize_Royal_Assets:0 "Königliche Vermögenswerte beschlagnahmen"
+WLL_Seize_Royal_Assets_desc:0 "Der königliche Schatz hat sich stetig mit den Erträgen unseres Schweißes gefüllt. Es ist nur richtig, dass dieses Vermögen sofort an den arbeitenden Menschen zurückgegeben wird."
+WLL_Combat_Military_Disorder:0 "Militärische Unruhen bekämpfen"
+WLL_Combat_Military_Disorder_desc:0 "Da in der Armee große Unstimmigkeiten zwischen den deutschen Royalisten und den demokratischen Anhängern ausgebrochen sind, brauchen wir eine groß angelegte Säuberung dieser widerständigen Elemente, um die Ordnung wiederherzustellen."
+WLL_Fight_The_Establishement:0 "Kampf dem Establishment"
+WLL_Fight_The_Establishement_desc:0 "Die herrschende Klasse hat sich auf dem Rücken unserer Arbeit bereichert und wird nun für ihren Verrat bezahlen müssen."
+WLL_Defeat_Loyalist_Remnants:0 "Loyalistische Reste besiegen"
+WLL_Defeat_Loyalist_Remnants_desc:0 "Finanziert von wallonischen und deutschen Kapitalisten haben sich widerständige Zellen der ehemaligen Armee im ganzen Land eingegraben, um bis zum letzten Mann Widerstand gegen die Revolution zu leisten."
+WLL_Seize_German_Companies:0 "Deutsche Firmen beschlagnahmen"
+WLL_Seize_German_Companies_desc:0 "Die deutschen Unternehmen haben die Industriefurche verseucht und unsere Bevölkerung zur Finanzierung des Deutschen Reiches missbraucht. Schluss damit!"
+WLL_Unite_The_BWP:0 "POB vereinigen"
+WLL_Unite_The_BWP_desc:0 "Die POB ist immer noch durch gemäßigte Elemente in der Partei gespalten. Diese müssen eliminiert oder "überredet" werden, sich unserer Sache anzuschließen."
+WLL_Hold_The_First_Party_Congress:0 "Abhalten des ersten Parteitags"
+WLL_Hold_The_First_Party_Congress_desc:0 "Die Revolution ist in vollem Gange und um ihre Pläne für die kommenden Jahre zu verkünden, hat die POB-Führung den ersten Parteitag angekündigt. Eingeladen sind Experten und wichtige Persönlichkeiten aus der Kommune Frankreichs, der Union Großbritanniens und Italiens."
+
+WLL_The_Government_Has_Failed:0 "Die Regierung ist gescheitert"
+WLL_The_Government_Has_Failed_desc:0 "Die erbärmliche Ausrede einer Regierung ist endlich gestürzt und wurde durch eine starke und zentralisierte Regierung um Degrelle ersetzt."
+WLL_Sideline_The_King:0 "Den König ausschalten"
+WLL_Sideline_The_King_desc:0 "Die Macht des Königs sollte stark beschnitten werden, da sich seine ständige Einmischung in Regierungsangelegenheiten als schädlich für unsere Stabilität erwiesen hat."
+WLL_Replace_The_Ambassador_To_Germany:0 "Ersetzen Sie unseren Botschafter in Deutschland"
+WLL_Replace_The_Ambassador_To_Germany_desc:0 "Um unseren Politikwechsel weiter zu skizzieren, wird der Botschafter in Deutschland abberufen und durch einen engen Freund von Degrelle ersetzt."
+WLL_The_Revolution_Has_Failed:0 "Die Revolution ist gescheitert"
+WLL_The_Revolution_Has_Failed_desc:0 "Die syndikalistische Revolution war eine schändliche List, um die Bevölkerung dazu zu bringen, Sklaven der bösen POB-Führung zu werden. Sie sollten froh sein, dass wir sie von ihren eigenen Ambitionen "befreien"."
+WLL_Imprison_Syndicalist_Leadership:0 "Syndikalistische Führung inhaftieren"
+WLL_Imprison_Syndicalist_Leadership_desc:0 "Wir können keine syndikalistischen Prediger gebrauchen, die die Bevölkerung der Industriefurche aufhetzen. Deshalb sollen alle führenden Mitglieder des syndikalistischen Widerstandes aufgespürt und 'erledigt' werden."
+WLL_Introduce_Corporatism:0 "Korporatismus einführen"
+WLL_Introduce_Corporatism_desc:0 "Es ist klar geworden, dass der traditionelle Kapitalismus ein Fehlschlag ist, der durch ein besseres Wirtschaftsmodell ersetzt werden sollte."
+WLL_Military_Propaganda:0 "Militär Propaganda"
+WLL_Military_Propaganda_desc:0 "Eine schwache Armee führte zu unserer Niederlage im Weltkrieg. Das ist vorbei! Mit verjüngtem Enthusiasmus und einer breit angelegten Propagandakampagne wird unsere Armee der Stolz der Niederlande sein."
+WLL_Demand_Our_Rightfull_Land:0 "Fordern Sie unser rechtmäßiges Land"
+WLL_Demand_Our_Rightfull_Land_desc:0 "Wir werden uns nicht mit der Demütigung abfinden, die uns von den Deutschen und Flamen auferlegt wird. Ganz Belgien gehört zu Degrelle!"
+
+WLL_Walloon_Expansion:0 "Wallonische Expansion"
+WLL_Walloon_Expansion_desc:0 "Die Ländereien Walloniens sind reich an ungenutztem Potenzial. Das Land soll endlich für diejenigen, die darauf arbeiten, nutzbar gemacht werden. Wir sollten die Grundlage für einen neuen Wirtschaftsplan entwickeln, mit dem unsere Wirtschaft auf eigenen Füßen stehen kann."
+WLL_The_Sillon_Industriel:0 "Die Industriefurche"
+WLL_The_Sillon_Industriel_desc:0 "Die Industriefurche ist das industrielle Kernland der Wallonie, ihre Produktion ist beispiellos. Allerdings gab es in der Region unter der Regierung Flandern-Wallonien eine Reihe von Streiks, die die Produktion unterbrachen und die Nation destabilisierten. Es ist daher angebracht, die Bevölkerung und die Industriezentren der Region mit einer noch stärkeren staatlichen Unterstützung zu besänftigen."
+WLL_Direction_of_the_Industry:0 "Ausrichtung der Industrie"
+WLL_Direction_of_the_Industry_desc:0 "Die Wallonie war das schlagende Herz der belgischen Industrie. Es lässt sich nicht leugnen, dass das Schicksal der Schmieden und Fabriken eng mit dem der gesamten Nation verbunden ist. Unser industrieller Apparat muss umfassend bewertet werden, um seinen Ausbau zu erleichtern."
+WLL_Double_Down_On_Heavy_Industry:0 "Doppelter Einsatz für die Schwerindustrie"
+WLL_Double_Down_On_Heavy_Industry_desc:0 "Während sich unsere Wirtschaft mit der Zeit entwickelt hat, ist die Schwerindustrie ihr Fundament geblieben. Wir sollten unsere Nation weiter industrialisieren und großzügige Anreize für die Entwicklung neuer Industriezonen in den mittelgroßen Städten der Nation bieten."
+WLL_Redefine_Walloon_Expertise:0 "Wallonische Kompetenz neu definieren"
+WLL_Redefine_Walloon_Expertise_desc:0 "Wallonien war lange Zeit eine der führenden Industrieregionen Europas, und unsere Menschen verfügen über Fähigkeiten, die für eine solche Wirtschaft relevant sind. Der Wind des Wandels weht jedoch stark, und wir müssen uns anpassen. Zunächst einmal sollten wir dem Spitzenforschungsinstitut Solvay mehr Mittel zur Verfügung stellen."
+WLL_Future_Resource_Extraction:0 "Zukünftige Ressourcengewinnung"
+WLL_Future_Resource_Extraction_desc:0 "Der natürliche Reichtum Walloniens war entscheidend für die Industrialisierung des Landes. Neue Abbaumethoden ermöglichen es, sowohl lange ausgebeutete Ressourcen als auch solche, deren wirtschaftliche Relevanz sich erst noch herauskristallisiert, effektiver zu fördern. Wir müssen das Ohr am Puls der Zeit haben und den Industrien, die sich mit der Ressourcengewinnung beschäftigen, Unterstützung für experimentelle Unternehmungen anbieten."
+WLL_Breakthrough_In_Engineering:0 "Durchbruch im Ingenieurwesen"
+WLL_Breakthrough_In_Engineering_desc:0 "Neue Methoden der Gebäudekonstruktion und -optimierung ermöglichen es der Industrie, produktiver zu sein und gleichzeitig weniger Ressourcen zu verbrauchen. Wir sollten die Sanierung älterer Industrieanlagen fördern, um die Vorteile dieser modernen Ingenieurtechniken zu nutzen."
+WLL_Aviation_Industry:0 "Luftfahrt-Industrie"
+WLL_Aviation_Industry_desc:0 "Unsere Nation kann sich nicht einmal auf unsere engsten Verbündeten verlassen, um in Kriegszeiten genügend Flugzeuge zu liefern. Um endlich Seelenfrieden zu haben, müssen wir den Bau neuer staatlicher Flugzeugfabriken finanzieren."
+WLL_Build_Our_Own_Cyclotron:0 "Eigenes Zyklotron bauen"
+WLL_Build_Our_Own_Cyclotron_desc:0 "Zyklotrone sind das primäre Mittel, mit dem eine Fülle von neuen Entdeckungen im Bereich der Teilchenphysik zustande gekommen sind. Obwohl teuer, kann unsere Nation mit ausreichender staatlicher Finanzierung ein eigenes Zyklotron bauen."
+WLL_Expand_Seraing_Steel_Mills:0 "Seraing Stahlwerke erweitern"
+WLL_Expand_Seraing_Steel_Mills_desc:0 "Die Stadt Seraing ist zwar nicht sehr bevölkerungsreich und wird oft übersehen, hat sich aber zu einem wichtigen Zentrum der Industrie, insbesondere der Stahlproduktion, entwickelt. Wir sollten die Stahlwerke der Stadt staatlich unterstützen und daran arbeiten, sie zum Neid der Welt zu machen."
+WLL_Build_The_Liege_Charleroi_Highway:0 "Bau der Autobahn Lüttich-Charleroi"
+WLL_Build_The_Liege_Charleroi_Highway_desc:0 "Das Straßennetz zwischen den Industriezentren Lüttich und Charleroi ist völlig unzureichend. Wir sollten eine seit langem vorgeschlagene zentrale Autobahn zwischen ihnen bauen."
+WLL_Fund_University_of_Liege:0 "Finanzierung der Universität Lüttich."
+WLL_Fund_University_of_Liege_desc:0 "Lüttich ist seit dem Mittelalter ein Zentrum des Lernens, und heute ist die primäre Universität der Stadt vielleicht die prestigeträchtigste Institution der höheren Bildung in unserem Land. Mit weiterer Finanzierung und Integration der Einrichtung in unser militärisches Forschungs- und Entwicklungssystem kann unsere Nation als Ganzes weiter profitieren."
+WLL_German_Investements:0 "Deutsche Investitionen"
+WLL_German_Investements_desc:0 "Die Verbindung unserer Nation zu Deutschland hat nicht nur überlebt, sondern wird weiter gestärkt. Sicherlich sind deutsche Investitionen der Schlüssel, um nicht nur das Ende unserer wirtschaftlichen Sorgen, sondern auch nachhaltiges Wachstum bis in die ferne Zukunft zu sichern."
+WLL_Increase_German_Export:0 "Deutsche Exporte steigern"
+WLL_Increase_German_Export_desc:0 "Angesichts unserer derzeitigen politischen Situation sind die deutschen Märkte für unsere Volkswirtschaft wichtiger denn je. Wir sollten mit den Deutschen zusammenarbeiten, um gegenseitige Handelshemmnisse abzubauen und Unternehmen zu subventionieren, die hauptsächlich nach Deutschland exportieren."
+WLL_Krupp_Wallonia:0 "Krupp Wallonien"
+WLL_Krupp_Wallonia_desc:0 "Die Kompetenz der Firma Krupp in der Stahlproduktion ist schon jetzt ein Segen. Mit staatlicher Unterstützung kann Krupp unsere Stahlindustrie sicher in ein goldenes Zeitalter der Produktivität führen."
+WLL_Encourage_Frontaliers:0 "Grenzgänger ermutigen"
+WLL_Encourage_Frontaliers_desc:0 "Viele unserer Bürger arbeiten im Ausland, in den Staaten Mitteleuropas, und schicken ihre Überweisungen nach Hause. Dies stellt einen beträchtlichen Teil unserer nationalen Wirtschaft dar, und obwohl es unseren industriellen Zentren bis zu einem gewissen Grad schadet, indem es den Arbeitsmarkt schrumpfen lässt, ist das erhöhte verfügbare Einkommen, das diese Realität mit sich bringt, sicherlich wirtschaftlich vorteilhaft. Wir sollten diese Praxis weiter fördern und mit Deutschland verhandeln, um die Beschränkungen für einzelne Grenzgänger zu reduzieren."
+WLL_Create_The_Industrial_Commitee:0 "Bilden Sie den Industrieausschuss"
+WLL_Create_The_Industrial_Commitee_desc:0 "Die vielen großen Industrieunternehmen der Nation konkurrieren heftig um den kleinsten wirtschaftlichen Vorteil. Durch Zusammenarbeit könnten diese Titanen der Industrie vielleicht noch größer werden. Wir sollten einen Exekutivbeirat einrichten, der sich aus unseren größten Industrieunternehmen zusammensetzt, um die Wirtschaftspolitik zu gestalten und Fragen des internationalen Handels zu behandeln."
+WLL_Exploitation_of_Charleroi_Glass_Industry:0 "Die Glasindustrie von Charleroi ausnutzen"
+WLL_Exploitation_of_Charleroi_Glass_Industry_desc:0 "Charleroi ist einer der bedeutendsten Glasproduzenten der Welt. Während die Rückgewinnung des Beinahe-Monopols, das die Stadt während der frühen industriellen Revolution hatte, nahezu unmöglich ist, kann die Stadt mit nationaler Unterstützung ihre Vormachtstellung in der Glasherstellung wiedererlangen."
+
+WLL_Tumult_In_The_Army:0 "Tumult in der Armee"
+WLL_Tumult_In_The_Army_desc:0 "Der Zusammenbruch von Flandern-Wallonien hat unsere militärische Führung und Organisation in Trümmern gelegt. In aller Eile muss ein neuer Generalstab geschaffen und die Situation mit allen Mitteln gemeistert werden."
+WLL_Form_Bilingual_Staff:0 "Bilden Sie einen zweisprachigen Stab"
+WLL_Form_Bilingual_Staff_desc:0 "Während das Erbe der deutschen militärischen Kontrolle anhält und diese Sprache daher nicht vollständig aufgegeben werden kann, können wir damit beginnen, Französisch als primäre Unterrichtssprache in den Militärakademien wieder einzuführen und die Zweisprachigkeit unter dem bestehenden Generalstab zu fördern."
+WLL_Retain_German_Staff:0 "Deutsche Mitarbeiter behalten"
+WLL_Retain_German_Staff_desc:0 "Wir setzen weiterhin auf Deutschland, und die militärische Kompetenz der Deutschen ist nicht zu leugnen. Um einen möglichst reibungslosen Ablauf der militärischen Operationen zu gewährleisten, sollten wir unser deutsches Generalstabspersonal mit wenigen Zugeständnissen an französischsprachige Offiziere beibehalten."
+WLL_Trench_Warfare:0 "Grabenkrieg"
+WLL_Trench_Warfare_desc:0 "Ungezählte Männer gingen in den Schützengräben des Weltkrieges in den Tod. Eine solche Art der Kriegsführung begünstigt jedoch den Verteidiger. Als kleine Nation sind wir wahrscheinlich in der Defensive, und vielleicht könnte unsere Nation, indem sie die Taktik des letzten Krieges erweitert, auf Augenhöhe mit den Giganten kämpfen."
+WLL_Panzer_Doctrine:0 "Panzer Doktrin"
+WLL_Panzer_Doctrine_desc:0 "Britische kombinierte Waffenoperationen erwiesen sich fast als die Achillesferse des Deutschen Reiches im Weltkrieg. Im Gegensatz zu so vielen törichten Generälen, die sich in ihren Schützengräben versteckten, sehen wir das Versprechen einer Armee, die um Panzer herum gebaut wurde. Jetzt ist die Ära der gepanzerten Kriegsführung."
+WLL_FRC:0 "FRC Artillerie Gießerei"
+WLL_FRC_desc:0 "Die Königliche Gießerei von Kanonen war, wie die renommierte FN aus Herstal, der Hauptproduzent von Artillerie für Belgien und Flandern-Wallonien. Da der Bedarf an Artillerie seit der Unabhängigkeit Walloniens noch größer wurde, mussten die Manufakturen der Firma erweitert werden."
+WLL_Luxembourg_Field_Hospitals:0 "Luxemburgische Feldlazarette"
+WLL_Luxembourg_Field_Hospitals_desc:0 "Das deutsche Militärkommando in Spa hat angeboten, eine große gemeinsame Erweiterung der Feldlazarettinfrastruktur in der Ardennenregion zu finanzieren, die über das Hauptstädtische Krankenhaus in Namur geleitet wird. Wir sollten das Angebot annehmen und uns an die Arbeit machen, den Plan zu verwirklichen."
+WLL_FN_Guns:0 "FN Rüstung Produktion"
+WLL_FN_Guns_desc:0 "Der Staatskonzern FN mit Sitz in Herstal produziert seit Jahrzehnten modernste Feuerwaffen in großen Stückzahlen. Die Wirren des Weltkrieges haben jedoch dazu geführt, dass der Konzern nicht mehr in der Lage ist, den Anforderungen der Nation und der Welt gerecht zu werden. Wir sollten den Bau einer völlig neuen FN-Fabrik finanzieren."
+WLL_Light_Tank_Program:0 "Leichtes Panzer-Programm"
+WLL_Light_Tank_Program_desc:0 "Leichte Panzer sind sowohl leicht in großen Mengen zu produzieren als auch in der Lage, sich mit blendender Geschwindigkeit zu bewegen. Um die Agilität zu maximieren, sollten wir neue Panzer entwickeln, die zwar klein und leicht gepanzert sind, aber komplizierte Manöver in einem halsbrecherischen Tempo ausführen können."
+WLL_Invest_in_Half_Tracks:0 "In Halbketten-Fahrzeuge investieren"
+WLL_Invest_in_Half_Tracks_desc:0 "Halbkettenfahrzeuge leisten sowohl auf Straßen als auch in unwegsamem Gelände effektive Arbeit und ermöglichen es unserer Infanterie, mit gepanzerten Verbänden Schritt zu halten und sie zu unterstützen. Wir sollten Fabriken subventionieren, die solche Fahrzeuge herstellen."
+
+WLL_Project_Seagull:0 "Projekt Seemöwe"
+WLL_Project_Seagull_desc:0 "Die edle Möwe fühlt sich auf dem Meer nicht wohl; da wir nun eine Küstenlinie in unserem Besitz haben, müssen wir uns entsprechend anpassen. Wir müssen lernen, wie die mächtigen Möwen über die majestätischen Wellen zu fliegen und eine eigene Flotte zu entwickeln."
+WLL_Study_with_the_Kaiserliche_Marine:0 "Das Studium der Kaiserlichen Marine"
+WLL_Study_with_the_Kaiserliche_Marine_desc:0 "Da wir eine starke Beziehung zu Deutschland unterhalten, können wir direkt die Verwaltung und Doktrin der größten Seestreitkraft auf dem Planeten studieren - der Kaiserlichen Marine. Die Lehren, die wir aus einem solchen Unterfangen ziehen werden, sind sicher großartig!"
+WLL_Enlist_German_Officers:0 "Deutsche Offiziere anwerben"
+WLL_Enlist_German_Officers_desc:0 "Mit unserer erneuten Verpflichtung gegenüber Deutschland können wir auf die immense Arbeitskraft und das Know-how der deutschen Kaiserlichen Marine zurückgreifen. Mit deutscher Unterstützung und deutschen Offizieren in unseren Diensten wird unsere aufstrebende Marine sicherlich eine Kraft werden, mit der man sich messen muss."
+WLL_Establish_The_Merchant_Marine:0 "Die Handelsmarine gründen"
+WLL_Establish_The_Merchant_Marine_desc:0 "Eine gut ausgebildete nationale Handelsmarine-Organisation ist für den kriegsbedingten Transport von Waren und Dienstleistungen entscheidend. Mit einer Küstenlinie, die jetzt in unserem Besitz ist, sollten wir unsere eigene gründen."
+WLL_Maritime_Commerce:0 "Maritimen Handel fördern"
+WLL_Maritime_Commerce_desc:0 "Das Meer war schon immer das wichtigste Medium des internationalen Handels. Unsere neu gewonnene Küstenlinie verschafft uns nun Zugang zu neuen vielversprechenden Standorten. Wir sollten Anreize für Seehändler schaffen, neue Märkte für unsere Waren zu suchen, um unseren Platz auf dem globalen Markt zu festigen."
+WLL_Expand_Our_Drydocks:0 "Erweitern Sie unsere Trockendocks"
+WLL_Expand_Our_Drydocks_desc:0 "Unsere Marineexpansion hat die Leistungsfähigkeit der vorhandenen Infrastruktur stark beansprucht, die wir mittlerweile besitzen. Wir müssen neue Trockendocks bauen und unseren nationalen Bedarf endlich befriedigen."
+WLL_Commandeer_Trade_Vessels:0 "Handelsschiffe kommandieren"
+WLL_Commandeer_Trade_Vessels_desc:0 "Während die Handelsmarine viele große Schiffe betreibt, könnten kleinere Schiffe, die in Behelfskonvois organisiert sind, eine ähnliche Funktion erfüllen. Aufgrund des gegenwärtigen Bedarfs sollten wir kleine Handelsschiffe requirieren und sie vollständig unter die Kontrolle der Regierung stellen."
+
+WLL_The_Flying_Rooster:0 "Der fliegende Hahn"
+WLL_The_Flying_Rooster_desc:0 "Viele denken fälschlicherweise, der Hahn sei auf die Erde beschränkt. Machen wir es wie ein stolzer Hahn und breiten wir unsere Flügel aus, um eine wahrhaft moderne Luftwaffe zu etablieren."
+WLL_Spreads_His_Wings:0 "Breitet seine Flügel aus"
+WLL_Spreads_His_Wings_desc:0 "Auch wenn manche argumentieren, dass die Luftwaffe in erster Linie unsere Streitkräfte am Boden unterstützen sollte, wissen wir, dass eine Streitkraft, die ihren eigenen Himmel nicht kontrollieren kann, nichts ist. Es ist wichtig, dass wir uns auf die Entwicklung neuer Kampfflugzeugmodelle konzentrieren, um die Luftherrschaft zu sichern."
+WLL_Dives_Down:0 "Taucht nach unten"
+WLL_Dives_Down_desc:0 "Die Kontrolle der Luft ist sicherlich wichtig, aber sich ausschließlich darauf zu konzentrieren, ist töricht. Kriege werden letztlich auf dem Boden gewonnen und verloren. Wir müssen Flugzeuge entwickeln, die in der Lage sind, die Truppen angemessen zu unterstützen."
+WLL_Air_Defence_of_the_Territory:0 "Territoriale Luftabwehr"
+WLL_Air_Defence_of_the_Territory_desc:0 "Egal wie geschickt unsere Piloten oder wie zahlreich unsere Flugzeuge sind, einige Feinde können ihnen entgehen. Wir müssen ein Netzwerk von Luftabwehrstellungen im ganzen Land haben."
+WLL_Invest_in_RADAR:0 "In RADAR investieren"
+WLL_Invest_in_RADAR_desc:0 "RADAR fand breite Anwendung bei der Erkennung feindlicher Flugzeuge. Damit unsere Stellungen in der sich ständig verändernden Landschaft des modernen Krieges Feinde erkennen können, müssen wir auf dem neuesten Stand der RADAR-Technologie sein."
+WLL_Fighter_Supremacy:0 "Jäger Vorherrschaft"
+WLL_Fighter_Supremacy_desc:0 "Um unsere Herrschaft über den eigenen Himmel zu sichern, müssen wir uns noch einmal anstrengen, Jagdflugzeuge zu entwickeln."
+WLL_Bomber_Supremacy:0 "Bomber Vorherrschaft"
+WLL_Bomber_Supremacy_desc:0 "Bomber können die Fähigkeit des Feindes, effektiv zu kämpfen, schwächen. Mit neuen und verbesserten Bomberflugzeugen und effektiver Bodenunterstützung werden unsere Männer am Boden unaufhaltsam sein."

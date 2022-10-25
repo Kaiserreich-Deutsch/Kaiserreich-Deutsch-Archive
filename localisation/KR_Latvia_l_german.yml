@@ -1,0 +1,95 @@
+﻿l_german:
+### Übersetzt von Proho ###
+### Parties ###
+LAT_totalist_party:0 "LSD"
+LAT_totalist_party_long:0 "Latvijas sociāldemokrātija (Sozialdemokratie von Lettland)"
+LAT_syndicalist_party:0 "ABC"
+LAT_syndicalist_party_long:0 "Latvijas Arodbiedrību centrālbirojs (Zentralbüro der lettischen Gewerkschaften)"
+LAT_radical_socialist_party:0 "LSD"
+LAT_radical_socialist_party_long:0 "Latvijas sociāldemokrātija (Sozialdemokratie von Lettland)"
+LAT_social_democrat_party:0 "LSDSP"
+LAT_social_democrat_party_long:0 "Latvijas Sociāldemokrātiskā strādnieku partija (Sozialdemokratische Arbeiterpartei Lettlands)"
+LAT_social_liberal_party:0 "Darba partija"
+LAT_social_liberal_party_long:0 "Darba partija (Arbeiterpartei)"
+LAT_market_liberal_party:0 "Jaunzemnieku savienība"
+LAT_market_liberal_party_long:0 "Latvijas Jaunzemnieku savienība (Lettischer Jungbauernverband)"
+LAT_social_conservative_party:0 "Zemnieku savienība"
+LAT_social_conservative_party_long:0 "Latvijas Zemnieku savienība (Lettischer Bauernverband)"
+LAT_authoritarian_democrat_party:0 "LTS(p)A"
+LAT_authoritarian_democrat_party_long:0 "Latvijas Tēvzemes sargu (Partisanen) apvienība (Verband der lettischen Heimatschutz-Partisanen)"
+LAT_paternal_autocrat_party:0 "LTS(p)A"
+LAT_paternal_autocrat_party_long:0 "Latvijas Tēvzemes sargu (Partisanen) apvienība (Verband der lettischen Heimatschutz-Partisanen)"
+LAT_national_populist_party:0 "Ugunskrusts"
+LAT_national_populist_party_long:0 "Latviešu Tautas apvienība “Ugunskrusts” (Verband der lettischen Nation “Feuerkreuz”)"
+
+### Leaders ###
+
+### Opinions ###
+
+### Events ###
+
+lat.1.t:0 "Bittersüßer Sieg"
+lat.1.d:0 "Erklärt die Geschichte Lettlands, ihren Widerstandskrieg und dass sie Riga nicht ganz einnehmen konnten."
+lat.1.a:0 "Letten, vergesst niemals Riga!"
+
+lat.2.t:0 "Doppelherrschaft in Lettland"
+lat.2.d:0 "Erklärt, dass Lettland zwischen Nationalisten im Osten und Sozialisten im Westen gespalten ist und die beiden sich gegenseitig die Autorität streitig machen. Es wird ein Konvent abgehalten, aber niemand erkennt ihn an."
+lat.2.a:0 "In Lettland kann es nur ein Regime geben."
+
+lat.3.t:0 "Manteuffels Aufstand"
+lat.3.d:0 "Manteuffel führt einen Widerstandskrieg in Livland, wird er erfolgreich sein?"
+lat.3.a:0 "Der Widerstand ist gebrochen!"
+lat.3.b:0 "Der Widerstand stürmt Valmiera!"
+
+lat.4.t:0 "Kurelis's Lettland"
+lat.4.d:0 "Kurelis besiegt Manteuffel, löst den Konvent auf, besiegt Iskolat."
+lat.4.a:0 "Lettland für Letten!"
+
+lat.5.t:0 "Peterss Lettland"
+lat.5.d:0 "Manteuffel gewinnt in Valmiera, aber sein Sieg ist nur von kurzer Dauer und der Iskolat schmeißt ihn raus."
+lat.5.a:0 "Jetzt bauen wir den echten Sozialismus auf!"
+
+lat.6.t:0 "Lettland möchte der Dritten Internationalen beitreten"
+lat.6.d:0 "Wir haben eine diplomatische Botschaft von unseren Genossen in Osteuropa erhalten - Lettland, auch bekannt als die Republik Iskolat, möchte endlich seine erzwungene Neutralität beenden und der Dritten Internationale als gleichberechtigter Partner beitreten. Sollen wir die lettischen Leninisten in die weltweite Gemeinschaft der Syndikalisten aufnehmen?"
+lat.6.a:0 "Ja, natürlich!"
+lat.6.b:0 "Das möchten wir lieber nicht."
+
+lat.7.t:0 "Wir werden akzeptiert"
+lat.7.d:0 "Die Internationale hat uns zurückgeschrieben und unsere junge Republik in ihr Bündnis aufgenommen."
+lat.7.a:0 "Hurra!"
+
+lat.8.t:0 "Wir wurden abgelehnt."
+lat.8.d:0 "Die Internationale hat uns zurückgeschrieben und uns mitgeteilt, dass wir nicht in ihr Bündnis aufgenommen werden."
+lat.8.a:0 "Mist"
+
+lat.9.t:0 "Der Wind bläst"
+lat.9.d:0 "Als der Zweite Weltkrieg begann, wurde der Verlust des baltischen deutschen Erstgeburtsrechts ironischerweise zu einem Seufzer der Erleichterung. Die beiden Staaten, Lettland und Estland, dienten als neutrales Bollwerk, das Riga vor der vollen Wucht der russischen Invasion schützte. Trotzdem war den Rigaer Verteidigungskräften und ihren Befehlshabern sehr wohl bewusst, dass dies nur eine kurze Ruhe vor dem Sturm war. Patrouillen in der Umgebung der Stadt wurden häufiger, Vorräte werden gelagert und gesichert, ein System der Lebensmittelrationierung für die Durchschnittsbürger eingeführt.\n\nUnd dann kamen die ersten Anzeichen. Zunehmende lettische Militärbewegungen in der Umgebung der Stadt, manchmal sogar in Reichweite der Rigan-Artillerievorposten - obwohl die deutschen Truppen sich entschieden, sie noch nicht zu beschießen. Feindliche Artillerie, die in der Umgebung der Stadt stationiert war und sich darauf vorbereitete, eilig errichtete Barrikaden und Befestigungen zu bombardieren. Völliges Schweigen der lettischen Diplomatie, als hätte man vergessen, dass Riga überhaupt existiert.\n\nBeide Seiten hatten aus ihren letzten Gefechten 1936 noch etwas zu erledigen. Die Letten - um die Deutschen endlich aus ihrer Heimat zu vertreiben, um Riga, ihre einzige Hauptstadt, zurückzuerobern. Die Baltendeutschen - um diesen Aufstand endgültig zu zerstören und ihr Geburtsrecht zurückzufordern.\n\nEin kalter Wind weht über die Straßen von Riga, und mit ihm folgt eine Flut von Schreien, die alle das Gleiche rufen."
+lat.9.a:0 "Auf die Barrikaden!"
+
+### Focuses ###
+
+### Ideas ###
+
+LAT_dualism:0 "Doppelherrschaft"
+LAT_dualism_desc:0 "Die lettische Republik entstand aus zwei Organisationen und zwei ehrgeizigen Männern, die sich in einem zerbrechlichen Bündnis gegen die deutsche Geißel zusammenschlossen. Die lettischen Partisanen kämpften für Lettland, aber das Lettland, das sie sich vorstellten, ist von Mensch zu Mensch verschieden - die einen wollen einen nationalen, patriotischen Staat unter einem anerkannten Führer, die anderen blicken zum sozialistischen Iskolat auf. Jetzt, wo die Deutschen vertrieben sind, fallen diese Unterschiede in sich zusammen."
+
+LAT_remember_riga:0 "Letten, vergesst Riga nicht!"
+LAT_remember_riga_desc:0 "Das schlagende Herz Lettlands, seine ewige Hauptstadt, wurde uns gestohlen - unsere Partisanen haben es nicht geschafft, die Stadt zu sichern, und eine "Freie Stadt Riga" steht nun auf ihrem Boden, eine ständige Erinnerung daran, dass unser Kampf mit den baltischen Deutschen noch nicht beendet ist. Letten, vergesst Riga nicht!"
+
+### Flags ###
+
+### Tooltips ###
+
+LAT_will_attack_in_two_weeks:0 "Lettland wird in zwei Wochen angreifen!"
+
+### Decisions ###
+
+LAT_attack_riga:0 "Den Kampf beenden" # vorübergehende Entscheidung, den Lettland-Riga-Krieg zu unterbrechen, bis Lettland einen Schwerpunktbaum bekommt, kann auf Wunsch beibehalten werden
+LAT_attack_riga_desc:0 "Herr Kurelis, darf ich Sie fragen, was Sie mit diesem Panzer machen?\n\n"Sir. Beenden Sie diesen Kampf.""
+
+LAT_join_internationale:0 "Beitritt zur Dritten Internationale"
+LAT_return_to_riga:0 "Verlegung der Hauptstadt nach Riga"
+
+### OOBs ###
+
+### Cosmetic Tags ###

@@ -1,5 +1,5 @@
-l_german:
-
+﻿l_german:
+### Übersetzt von Proho ###
 Anqing_Clique:0 "Anqing Clique Fokusbaum"
 
 ANQ_totalist_party:0 "Chinesische Syndikalistische Partei"
@@ -27,10 +27,10 @@ ANQ_national_populist_party_long:0 "Yiguandao"
 ### Leaders ###
 POLITICS_ANQ_CHEN_TIAOYUAN_DESC:0 "1916, im Alter von 30 Jahren, war Chen Tiaoyuan Oberbefehlshaber der Militärpolizei in der Provinz Jiangsu. Diese bescheidene Karriere wurde durch die kurzlebige Regierungszeit von Yuan Shikai unterbrochen, dessen militärisches Abenteuer ein Machtvakuum für jüngere Offiziere wie ihn hinterließ. In diesen frühen Jahren diente Chen zusammen mit Zhang Zongchang, dessen Freundschaft endete, als die mangelnde Disziplin des späteren offensichtlich wurde. Chens Loyalität wanderte auf die gleiche Weise von der Fengtian-Clique zu Sun Chuanfang, wofür Sun seine Dankbarkeit zeigte, indem er Chen das Kommando über die Anhui-Armee erteilte.\nUnter Chens Regime wurde der Provinz Anhui die deutsche Investition der Firma Algostasien verweigert. Im Vergleich zu ihren Landsleuten in Jiangsu und Fujian galt die Provinz Anhui als verarmt und hilflos für industrielle Innovationen. Chen hat Respekt und Prestige für seinen Antagonismus gegenüber Sun Chuanfangs pro-deutscher Politik gewonnen. In den letzten Jahren haben die verflochtenen Interessen mit den Deutschen und Sun Chens Vertrauen in die Liga und Sun gebrochen.\n Chens Armee bemüht sich, die Bundesländer von der deutschen Abhängigkeit abzuwenden und entweder eine innere Erneuerung oder ein erneutes Bündnis mit antiimperialistischen Kräften zu erreichen."
 
-POLITICS_ANQ_CHEN_TIAOYUAN_ARMY_DESC:0 "§YAllgemeine Beschreibung\n§Ygeboren:§L\n12. November 1886\nAnxin, Zhili, Qing Empire\n§YMilitärkarriere:§L\n1916, im Alter von 30 Jahren, war Chen Tiaoyuan Oberbefehlshaber der Militärpolizei in der Provinz Jiangsu. Diese bescheidene Karriere wurde durch die kurzlebige Regierungszeit von Yuan Shikai unterbrochen, dessen militärisches Abenteuer ein Machtvakuum für jüngere Offiziere wie ihn hinterließ. In diesen frühen Jahren diente Chen zusammen mit Zhang Zongchang, dessen Freundschaft endete, als die mangelnde Disziplin des späteren offensichtlich wurde. Chens Loyalität wanderte auf die gleiche Weise von der Fengtian Clique zu Sun Chuanfang, wofür Sun seine Dankbarkeit zeigte, indem er Chen das Kommando über die Anhui-Armee erteilte.\nUnter Chens Regime wird der Provinz Anhui eine deutsche Investition der Firma Algostasien verweigert. Im Vergleich zu ihren Landsleuten in Jiangsu und Fujian galt die Provinz Anhui als verarmt und hilflos für industrielle Innovationen. Chen hat Respekt und Prestige für seinen Antagonismus gegenüber Sun Chuanfangs pro-deutscher Politik gewonnen. In den letzten Jahren haben die verflochtenen Interessen mit den Deutschen und Sun Chens Vertrauen in die Liga und Sun gebrochen.\n Chens Armee bemüht sich, die Bundesländer von der deutschen Abhängigkeit abzuwenden und entweder eine innere Erneuerung oder ein erneutes Bündnis mit antiimperialistischen Kräften zu erreichen."
-POLITICS_ANQ_ZHANG_ZHONGLI_ARMY_DESC:0 "§YAllgemeine Beschreibung\n§Ygeboren:§L\n1883\nXiaoxian, Jiangsu, Qing Empire\n§YMilitärkarriere:§L\nZhang Zhongli trat in der Ära der Republik Beiyang in die Armee ein, einst als Brigadekommandeur und Divisionskommandeur in Sun Chuanfangs Armee. Nach der Nord Expedition begann er im Finanzbereich zu arbeiten, wurde Regierungsbeamter der Zivilabteilung der Provinz Jiangsu und diente dann als Hauptmann der Polizei von Salt Tax in LEP, wo sehr gute Leistungen erbrachte. Weil jemand kritisierte, dass Zhang Zhongli erwog, bei der KMT zu stehen, versetzte Sun Chuanfang ihn von Jiangsu nach Anhui, wodurch er mit Chen Tiaoyuan vertraut wurde und Partner der Anqing Clique wurde."
-POLITICS_ANQ_PENG_XUEFENG_ARMY_DESC:0 "§YAllgemeine Beschreibung\n§Ygeboren:§L\n9. September 1907\nQili, Pingren, Qing Empire" #\n§YMilitärkarriere:§L\n
-POLITICS_ANQ_LIU_HEDING_ARMY_DESC:0 "§YAllgemeine Beschreibung\n§Ygeboren:§L\n13. Dezember 1894\nHefei, Anhui, Qing Empire\n§YMilitärkarriere:§L\nLiu Heding ist ein Nachkomme der Huai-Armee und auch Stabschef der Chen Tiaoyuan-Armee. Er war der Klassenkamerad von Bai Chongxi in der Baoding Military Academy. Nach seinem Abschluss an der Akademie wurde er in Ni Sichongs Armee ausgebildet und dann nach Hunan und Sichuan geschickt. 1925 wurde er Offizier in der verbleibenden Armee der Anhui-Clique, die von Ma Xiangbin kommandiert wurde und am Krieg gegen Zhang Zongchang und an der Unterdrückungsaktion gegen Daohui in Luan teilnahm. Mehrere Jahre vergingen seit dem Ende der Nordexpedition und auf Befehl von Sun Chuanfang wurde er geschickt, um die Belagerung des von Zhou Yinren beherschten Jiangfu-Basisgebiets zu unterstützen. Aber seine Armee erlitt wegen des schlechten Wetters große Verluste. In Anbetracht des Scheiterns der Belagerung stufte Sun Chuanfang ihn herab und machte ihn zum Offizier in der Armee von Chen Tiaoyuan."
+POLITICS_ANQ_CHEN_TIAOYUAN_ARMY_DESC:0 "§YGeneralbeschreibung\n§YGeboren:§L\n12. November 1886\nAnxin, Zhili, Qing Empire\n§YMilitärkarriere:§L\n1916, im Alter von 30 Jahren, war Chen Tiaoyuan Oberbefehlshaber der Militärpolizei in der Provinz Jiangsu. Diese bescheidene Karriere wurde durch die kurzlebige Regierungszeit von Yuan Shikai unterbrochen, dessen militärisches Abenteuer ein Machtvakuum für jüngere Offiziere wie ihn hinterließ. In diesen frühen Jahren diente Chen zusammen mit Zhang Zongchang, dessen Freundschaft endete, als die mangelnde Disziplin des späteren offensichtlich wurde. Chens Loyalität wanderte auf die gleiche Weise von der Fengtian Clique zu Sun Chuanfang, wofür Sun seine Dankbarkeit zeigte, indem er Chen das Kommando über die Anhui-Armee erteilte.\nUnter Chens Regime wird der Provinz Anhui eine deutsche Investition der Firma Algostasien verweigert. Im Vergleich zu ihren Landsleuten in Jiangsu und Fujian galt die Provinz Anhui als verarmt und hilflos für industrielle Innovationen. Chen hat Respekt und Prestige für seinen Antagonismus gegenüber Sun Chuanfangs pro-deutscher Politik gewonnen. In den letzten Jahren haben die verflochtenen Interessen mit den Deutschen und Sun Chens Vertrauen in die Liga und Sun gebrochen.\n Chens Armee bemüht sich, die Bundesländer von der deutschen Abhängigkeit abzuwenden und entweder eine innere Erneuerung oder ein erneutes Bündnis mit antiimperialistischen Kräften zu erreichen."
+POLITICS_ANQ_ZHANG_ZHONGLI_ARMY_DESC:0 "§YGeneralbeschreibung\n§YGeboren:§L\n1883\nXiaoxian, Jiangsu, Qing Empire\n§YMilitärkarriere:§L\nZhang Zhongli trat in der Ära der Republik Beiyang in die Armee ein, einst als Brigadekommandeur und Divisionskommandeur in Sun Chuanfangs Armee. Nach der Nord Expedition begann er im Finanzbereich zu arbeiten, wurde Regierungsbeamter der Zivilabteilung der Provinz Jiangsu und diente dann als Hauptmann der Polizei von Salt Tax in LEP, wo sehr gute Leistungen erbrachte. Weil jemand kritisierte, dass Zhang Zhongli erwog, bei der KMT zu stehen, versetzte Sun Chuanfang ihn von Jiangsu nach Anhui, wodurch er mit Chen Tiaoyuan vertraut wurde und Partner der Anqing Clique wurde."
+POLITICS_ANQ_PENG_XUEFENG_ARMY_DESC:0 "§YGeneralbeschreibung\n§YGeboren:§L\n9. September 1907\nQili, Pingren, Qing Empire" #\n§YMilitärkarriere:§L\n
+POLITICS_ANQ_LIU_HEDING_ARMY_DESC:0 "§YGeneralbeschreibung\n§YGeboren:§L\n13. Dezember 1894\nHefei, Anhui, Qing Empire\n§YMilitärkarriere:§L\nLiu Heding ist ein Nachkomme der Huai-Armee und auch Stabschef der Chen Tiaoyuan-Armee. Er war der Klassenkamerad von Bai Chongxi in der Baoding Military Academy. Nach seinem Abschluss an der Akademie wurde er in Ni Sichongs Armee ausgebildet und dann nach Hunan und Sichuan geschickt. 1925 wurde er Offizier in der verbleibenden Armee der Anhui-Clique, die von Ma Xiangbin kommandiert wurde und am Krieg gegen Zhang Zongchang und an der Unterdrückungsaktion gegen Daohui in Luan teilnahm. Mehrere Jahre vergingen seit dem Ende der Nordexpedition und auf Befehl von Sun Chuanfang wurde er geschickt, um die Belagerung des von Zhou Yinren beherschten Jiangfu-Basisgebiets zu unterstützen. Aber seine Armee erlitt wegen des schlechten Wetters große Verluste. In Anbetracht des Scheiterns der Belagerung stufte Sun Chuanfang ihn herab und machte ihn zum Offizier in der Armee von Chen Tiaoyuan."
 
 ## Multi-use scripted localization ##
 anq_strength_low:0 "Gering"
@@ -76,12 +76,12 @@ longhai_railway:0 "Longhai Eisenbahn"
 ANQ_peace:0 "Brachte Frieden in die fünf Provinzen"
 ANQ_chen_alone:0 "Anqing ist unabhängig"
 ANQ_is_proqing:0 "Anqing erkennt die [QIE.GetName]"
-ANQ_is_profengtian:0 "Anqing erkennt die [FNG.GetName]"
+ANQ_is_profengtian:0 "Anqing erkennt Fengtian als rechtmäßig an"
 ANQ_friendly_japan:0 "Ist freundlich zu Japan"
 ANQ_is_reconstructing:0 "Schließt bereits ein Wiederaufbauprojekt ab"
 ANQ_abandons_reclamation:0 "Anqing hat die Teilnahme am Reklamationskrieg aufgegeben."
 ANQ_commits_reclamation:0 "Anqing hat sich verpflichtet, am Reklamationskrieg teilzunehmen."
-ANQ_reclamation_decided:0 "Anqing hat entschieden, ob er am Reklamationskrieg teilnehmen will oder nicht."
+ANQ_reclamation_decided:0 "Anqing hat entschieden, ob es am Reklamationskrieg teilnehmen will oder nicht."
 ANQ_with_zhili:0 "Anqing steht zur Zhili-Republik"
 ANQ_with_feds:0 "Anqing steht zu den Föderalisten"
 
@@ -93,6 +93,9 @@ ANQ_no_reconstruction_aid:0 "Fengtian hat uns die Hilfe verweigert"
 ANQ_can_prospect_resources_qing:0 "Hat über Mineralrechte entschieden"
 ANQ_can_prospect_resources_alone:0 "Hat über Mineralrechte entschieden"
 
+LEP_collapse_SQI_out:0 "Shandong hat sich aus dem Krieg der Fünf Provinzen zurückgezogen"
+ANQ_sqi_is_ally:0 "Eine Allianz mit §Hder Shandong Clique§! gebildet"
+
 ## Tooltips ##
 anq_25_army_xp_tt:0 "§Y25§! £army_experience"
 anq_25_army_xp_tt_blocked:0 "§R25§! £army_experience"
@@ -101,50 +104,50 @@ anq_gains_national_spirit:0 "Gewinnt Nationalen Geist "
 
 cred_check:0 "Hat mehr als §Y80 £anq_credibility Glaubwürdigkeit§!"
 
-anq_decrease_cred_1:0 "Add §R-1§! £anq_credibility §YGlaubwürdigkeit§!\n"
-anq_decrease_cred_2:0 "Add §R-2§! £anq_credibility §YGlaubwürdigkeit§!\n"
-anq_decrease_cred_5:0 "Add §R-5§! £anq_credibility §YGlaubwürdigkeit§!\n"
-anq_decrease_cred_10:0 "Add §R-10§! £anq_credibility §YGlaubwürdigkeit§!\n"
-anq_decrease_cred_20:0 "Add §R-20§! £anq_credibility §YGlaubwürdigkeit§!\n"
+anq_decrease_cred_1:0 "Fügt §R-1§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
+anq_decrease_cred_2:0 "Fügt §R-2§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
+anq_decrease_cred_5:0 "Fügt §R-5§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
+anq_decrease_cred_10:0 "Fügt §R-10§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
+anq_decrease_cred_20:0 "Fügt §R-20§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
 
-anq_increase_cred_5:0 "Add §G5§! £anq_credibility §YGlaubwürdigkeit§!\n"
-anq_increase_cred_10:0 "Add §G10§! £anq_credibility §YGlaubwürdigkeit§!\n"
-anq_increase_cred_20:0 "Add §G20§! £anq_credibility §YGlaubwürdigkeit§!\n"
+anq_increase_cred_5:0 "Fügt §G5§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
+anq_increase_cred_10:0 "Fügt §G10§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
+anq_increase_cred_20:0 "Fügt §G20§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
 
-anq_increase_qie_05:0 "Erhöhen £anq_qieinfluence §YQing Einfluss§! by §C0.5%§!.\n"
-anq_increase_qie_1:0 "Erhöhen £anq_qieinfluence §YQing Einfluss§! by §C1%§!.\n"
-anq_increase_qie_2:0 "Erhöhen £anq_qieinfluence §YQing Einfluss§! by §C2%§!.\n"
-anq_increase_qie_3:0 "Erhöhen £anq_qieinfluence §YQing Einfluss§! by §C3%§!.\n"
-anq_increase_qie_5:0 "Erhöhen £anq_qieinfluence §YQing Einfluss§! by §C5%§!.\n"
-anq_increase_qie_7:0 "Erhöhen £anq_qieinfluence §YQing Einfluss§! by §C7%§!.\n"
+anq_increase_qie_05:0 "Erhöht £anq_qieinfluence §YQing Einfluss§! um §C0.5%§!.\n"
+anq_increase_qie_1:0 "Erhöht £anq_qieinfluence §YQing Einfluss§! um §C1%§!.\n"
+anq_increase_qie_2:0 "Erhöht £anq_qieinfluence §YQing Einfluss§! um §C2%§!.\n"
+anq_increase_qie_3:0 "Erhöht £anq_qieinfluence §YQing Einfluss§! um §C3%§!.\n"
+anq_increase_qie_5:0 "Erhöht £anq_qieinfluence §YQing Einfluss§! um §C5%§!.\n"
+anq_increase_qie_7:0 "Erhöht £anq_qieinfluence §YQing Einfluss§! um §C7%§!.\n"
 
-anq_decrease_qie_1:0 "Verringern £anq_qieinfluence §YQing Einfluss§! by §C1%§!.\n"
-anq_decrease_qie_2:0 "Verringern £anq_qieinfluence §YQing Einfluss§! by §C2%§!.\n"
-anq_decrease_qie_3:0 "Verringern £anq_qieinfluence §YQing Einfluss§! by §C3%§!.\n"
-anq_decrease_qie_5:0 "Verringern £anq_qieinfluence §YQing Einfluss§! by §C5%§!.\n"
-anq_decrease_qie_7:0 "Verringern £anq_qieinfluence §YQing Einfluss§! by §C7%§!.\n"
+anq_decrease_qie_1:0 "Verringert £anq_qieinfluence §YQing Einfluss§! um §C1%§!.\n"
+anq_decrease_qie_2:0 "Verringert £anq_qieinfluence §YQing Einfluss§! um §C2%§!.\n"
+anq_decrease_qie_3:0 "Verringert £anq_qieinfluence §YQing Einfluss§! um §C3%§!.\n"
+anq_decrease_qie_5:0 "Verringert £anq_qieinfluence §YQing Einfluss§! um §C5%§!.\n"
+anq_decrease_qie_7:0 "Verringert £anq_qieinfluence §YQing Einfluss§! um §C7%§!.\n"
 
-anq_increase_fng_05:0 "Erhöhen £anq_fnginfluence §YFengtian Einfluss§! by §C0.5%§!.\n"
-anq_increase_fng_1:0 "Erhöhen £anq_fnginfluence §YFengtian Einfluss§! by §C1%§!.\n"
-anq_increase_fng_2:0 "Erhöhen £anq_fnginfluence §YFengtian Einfluss§! by §C2%§!.\n"
-anq_increase_fng_3:0 "Erhöhen £anq_fnginfluence §YFengtian Einfluss§! by §C3%§!.\n"
-anq_increase_fng_5:0 "Erhöhen £anq_fnginfluence §YFengtian Einfluss§! by §C5%§!.\n"
-anq_increase_fng_7:0 "Erhöhen £anq_fnginfluence §YFengtian Einfluss§! by §C7%§!.\n"
+anq_increase_fng_05:0 "Erhöht £anq_fnginfluence §YFengtian Einfluss§! um §C0.5%§!.\n"
+anq_increase_fng_1:0 "Erhöht £anq_fnginfluence §YFengtian Einfluss§! um §C1%§!.\n"
+anq_increase_fng_2:0 "Erhöht £anq_fnginfluence §YFengtian Einfluss§! um §C2%§!.\n"
+anq_increase_fng_3:0 "Erhöht £anq_fnginfluence §YFengtian Einfluss§! um §C3%§!.\n"
+anq_increase_fng_5:0 "Erhöht £anq_fnginfluence §YFengtian Einfluss§! um §C5%§!.\n"
+anq_increase_fng_7:0 "Erhöht £anq_fnginfluence §YFengtian Einfluss§! um §C7%§!.\n"
 
-anq_decrease_fng_1:0 "Verringern £anq_fnginfluence §YFengtian Einfluss§! by §C1%§!.\n"
-anq_decrease_fng_2:0 "Verringern £anq_fnginfluence §YFengtian Einfluss§! by §C2%§!.\n"
-anq_decrease_fng_3:0 "Verringern £anq_fnginfluence §YFengtian Einfluss§! by §C3%§!.\n"
-anq_decrease_fng_5:0 "Verringern £anq_fnginfluence §YFengtian Einfluss§! by §C5%§!.\n"
-anq_decrease_fng_7:0 "Verringern £anq_fnginfluence §YFengtian Einfluss§! by §C7%§!.\n"
+anq_decrease_fng_1:0 "Verringert £anq_fnginfluence §YFengtian Einfluss§! um §C1%§!.\n"
+anq_decrease_fng_2:0 "Verringert £anq_fnginfluence §YFengtian Einfluss§! um §C2%§!.\n"
+anq_decrease_fng_3:0 "Verringert £anq_fnginfluence §YFengtian Einfluss§! um §C3%§!.\n"
+anq_decrease_fng_5:0 "Verringert £anq_fnginfluence §YFengtian Einfluss§! um §C5%§!.\n"
+anq_decrease_fng_7:0 "Verringert £anq_fnginfluence §YFengtian Einfluss§! um §C7%§!.\n"
 
-anq_increase_jap_1:0 "Erhöhen §YJapanese Aid Score§! by §C1§!.\n"
-anq_increase_jap_2:0 "Erhöhen §YJapanese Aid Score§! by §C1§!.\n"
+anq_increase_jap_1:0 "Erhöht §YJapanese Aid Score§! um §C1§!.\n"
+anq_increase_jap_2:0 "Erhöht §YJapanese Aid Score§! um §C1§!.\n"
 
 anq_increase_qie_anger_05x:0 "§RQing wird mit Ihrer Entscheidung etwas unzufrieden sein.§! (Erhöht §YQing Ärger§! ein bisschen)\n"
 anq_increase_qie_anger_1x:0 "§RQing wird mit Ihrer Entscheidung unzufrieden sein.§! (Erhöht §YQing Ärger§!)\n"
 anq_increase_qie_anger_2x:0 "§RQing wird mit Ihrer Entscheidung sehr unzufrieden sein!§! (Erhöht §YQing Ärger§! bedeutend)\n"
 anq_increase_qie_anger_3x:0 "§RQing wird mit Ihrer Entscheidung äußerst unzufrieden sein!§! (Erhöht §YQing Ärger§! sehr stark)\n"
-anq_decrease_qie_anger_5:0 "Verringert §YQing Ärger§! by §G5§!.\n"
+anq_decrease_qie_anger_5:0 "Verringert §YQing Ärger§! um §G5§!.\n"
 
 anq_nochange_reclamation_willingness:0 "§YBereitschaft§! dem Reklamationskrieg gegen Peking beizutreten, ändert sich nicht.\n"
 anq_increase_reclamation_willingness_1:0 "Erhöhen §YBereitschaft§! sich dem Reklamationskrieg gegen Peking anzuschließen §C1§!.\n"
@@ -169,11 +172,11 @@ anq_fengtian_will_decide_strategy_tt:0 "Die Fengtian-Regierung wird über unsere
 anq_fengtian_fast_strike_tt:0 "Fengtian hat Japans Segen, einen schnellen Angriff gegen Peking zu starten, aber sie werden dies nur tun, wenn wir zustimmen. §REinverstanden zu sein bedeutet, innerhalb von Monaten in den Krieg zu ziehen, obwohl unser Land immer noch in Trümmern liegt.§!\n"
 anq_fengtian_will_other_strategy_tt:0 "Wenn wir nicht Zustimmen. Wird die Fengtian-Regierung wird eine andere Entscheidung treffen müssen.\n"
 anq_fngjap_back_reconstruction_tt:0 "Fengtian und Japan verpflichten sich zu einem großen und umfassenden Plan, um so schnell wie möglich wieder aufzubauen. Vollendet §YWirtschaftliche ZusammenarbeitR§! Fokus, um es zu beginnen.\n"
-anq_reconstruction_plan_effects_tt:0 "Deutlich reduziert £pol_power Politische Machtkosten und Zeit für £decision_icon_small §HWiederaufbauentscheidungen§! und §HKMT und Yiguandao Unruhen§!.\n"
+anq_reconstruction_plan_effects_tt:0 "Deutlich reduzierte Zeit und £pol_power Politische Machtkosten für £decision_icon_small §HWiederaufbauentscheidungen§! und §HKMT und Yiguandao Unruhen§!.\n"
 ANQ_fng_waits_18_months_tt:0 "Fengtian wird mindestens 18 Monate warten, damit wir uns erholen können.\n"
 ANQ_fng_can_now_proclaim_tt:0 "Fengtian kann nun den letzten Prozess beginnen, um einen Krieg gegen Peking zu beginnen."
 
-anq_reduce_reconstruction_timecost_ally_tt:0 "§GReduziert Zeit und Kosten für erheblich £decision_icon_small §HWiederaufbauentscheidungen§!, aber auch alle Entscheidungen erhöhen §Y[getanqally] Einfluss§!.§!\n"
+anq_reduce_reconstruction_timecost_ally_tt:0 "§GReduziert Zeit und Kosten für £decision_icon_small §HWiederaufbauentscheidungen§! ergeblich, aber dafür erhöhen alle Entscheidungen §Y[getanqally] Einfluss§!.§!\n"
 anq_reduce_reconstruction_timecost_qingextra_tt:0 "§GReduziert Zeit und Kosten für £decision_icon_small §HWiederaufbauentscheidungen§!.§!\n"
 anq_reduce_reconstruction_timecost_self_tt:0 "§GReduziert Zeit und Kosten für £decision_icon_small §HWiederaufbauentscheidungen§!, aber nicht so sehr, als wenn wir unseren Verbündeten um Hilfe bitten würden.§!\n"
 
@@ -195,7 +198,7 @@ anq_two_divisions_qing_land:0 "£nato_unit_infantry_icon_small Gewinn 2 §YInfan
 
 anq_will_lead_war_tt:0 "§RDer Beitritt zu Qings Fraktion wird zu einem sofortigen Krieg führen!§!\n"
 
-anq_instructions_destruction_spirits_tt:0 "§gDurch £decision_icon_small §HEntscheidungen§! und §HFokuse§!, können diese negativen Einflüsse entfernt werden.§!\n"
+anq_instructions_destruction_spirits_tt:0 "§gDurch £decision_icon_small §HEntscheidungen§! und §HFokusse§!, können diese negativen Einflüsse entfernt werden.§!\n"
 anq_has_widespread_destruction:0 "Hat Idee §YWeit verbreitete Zerstörung§!\n"
 anq_has_derelict_industry:0 "Hat Idee §YDeindustrialisierung§!\n!"
 
@@ -207,7 +210,7 @@ anq_abandon_fengtian_tt:0 "§RDer Verzicht auf Fengtian wird dazu führen, dass 
 
 anq_unlocks_war_beijing_tt:0 "Entsperrt £decision_icon_small §HEntscheidung§! [QIE.GetName] Unabhängig anzugreifen.\n"
 ANQ_can_attack_hnngxc_tt:0 "Entsperrt £decision_icon_small §HEntscheidung§! [GXC.GetName] und [HNN.GetName] anzugreifen.\n"
-ANQ_can_attack_hnngxc_proqie_tt:0 "Entsperrt £decision_icon_small §HEntscheidung§! [GXC.GetName] und [HNN.GetName] anzugreifen wenn in Frieden.\n"
+ANQ_can_attack_hnngxc_proqie_tt:0 "Entsperrt £decision_icon_small §HEntscheidung§! [GXC.GetName] und [HNN.GetName] anzugreifen, wenn derzeit Frieden herrscht.\n"
 
 anq_fengtian_guarantee_tt:0 "§H[FNG.GetNameDefCap]§! wird uns garantieren!\n"
 anq_qing_guarantee_tt:0 "§H[QIE.GetNameDefCap]§! wird uns garantieren!\n"
@@ -233,7 +236,7 @@ anq_has_installed_all_governors_tt:0 "Hat alle Provinzgouverneure ernannt. §gBi
 anq_can_integrate_tt:0 "Entsperrt £decision_icon_small §YProvinz Integrations§! Entscheidungen.\n"
 anq_can_integrate_five_provinces_tt:0 "Vollenden Sie das §Ychicksal der Gouverneure§! Ernennen Sie die neuen Gouverneure und dann die §YNeuen Provinz Regierungen§! konzentrieren Sie sich, um diese Entscheidung abzuschließen."
 anq_has_relocated_capital_tt:0 "Die Hauptstadt muss nach Nanjing verlegt worden sein. Schließe die §YNanjing Säuberungen§! Fokus für Ereignisse, um die Kosten und Zeit dieser Entscheidung bedeutsam zu reduzieren."
-anq_nanjing_purge_integration_tt:0 "§gDiese Bereinigung wird die Zeit bedeutsam zu reduzieren,die gebraucht wird um §! §YNanjing zu integrieren!§!\n"
+anq_nanjing_purge_integration_tt:0 "§gDiese Bereinigung wird die Zeit bedeutsam reduzieren,die gebraucht wird, um §! §YNanjing zu integrieren!§!\n"
 
 #KMT/Yiguandao tooltips
 anq_can_suppress_tt:0 "Unterdrückung kann die Unruhestufe nur auf ein Minimum von 1 reduzieren!"
@@ -253,8 +256,8 @@ anq_reduce_yiguandao_available_tt:0 "Wir werden die Yiguandao-Aktivitäten so we
 anq_remove_kmt_unrest_tt:0 "§GDurch diese Maßnahme werden die KMT-Unruhen dauerhaft beendet.§!\n"
 anq_remove_yiguandao_unrest_tt:0 "§GDurch diese Maßnahme werden die Unruhen in Yiguandao dauerhaft beendet.§!\n"
 
-anq_fujian_encirclement_focus_tt:0 "§GWenn Sie diesen Fokus vervollständigen, werden die §YAnti-KMT-Kampagnen§ freigeschaltet, wenn die KMT-Unruhe-Stufe 1 erreicht!Gibt es die Entscheidung,die KMT Unruhe dauerhaft zu entfernen.§!"
-anq_jiangsu_yiguandao_focus_tt:0 "§GWenn Sie diesen Fokus vervollständigen, werden die §YAnti-Yiguandao-Kampagnen§ freigeschaltet, wenn die Yiguandao-Unruhe-Stufe 1 erreicht!Gibt es die Entscheidung,die Yiguandao Unruhe dauerhaft zu entfernen.§!"
+anq_fujian_encirclement_focus_tt:0 "§GWenn Sie diesen Fokus vervollständigen, werden die §YAnti-KMT-Kampagnen§! freigeschaltet. Wenn die KMT-Unruhe Stufe 1 erreicht, schaltet sich die Entscheidung frei, die §YKMT Unruhe dauerhaft zu entfernen.§!"
+anq_jiangsu_yiguandao_focus_tt:0 "§GWenn Sie diesen Fokus vervollständigen, werden die §YAnti-Yiguandao-Kampagnen§! freigeschaltet. Wenn die Yiguandao-Unruhe Stufe 1 erreicht, schaltet sich die Entscheidung frei, die §YYiguandao Unruhe dauerhaft zu entfernen.§!"
 
 anq_kmt_unrest_triggered_by_decision_tt:0 "§RDieses negative Ereignis wurde durch die Mission §YKMT-Aktivitäten unterdrücken§! ausgelöst. Aktivieren Sie die Mission, um die KMT vorübergehend zu unterdrücken, bis Sie sie dauerhaft unterdrücken können, indem Sie die §YFujian-Einkreisungskampagnen§! abschließen!§!\n"
 anq_yiguandao_unrest_triggered_by_decision_tt:0 "§RDieses negative Ereignis wurde durch die Mission §YYiguandao -Aktivitäten unterdrücken§! ausgelöst. Aktivieren Sie die Mission, um die Yiguandao vorübergehend zu unterdrücken, bis Sie sie dauerhaft unterdrücken können, indem Sie die §YYiguandao -Einkreisungskampagnen§! abschließen!§!\n"
@@ -413,7 +416,7 @@ ANQ_canal_dikes_qing_desc:0 "Nachdem wir Qing beim Bau von Kanälen und Deichen 
 ANQ_develop_wuchanganqing:0 "Entwickle Wuchang-Anqing"
 ANQ_develop_wuchanganqing_desc:0 "Die Region Wuchang-Anqing ist ein idealer Entwicklungsstandort, von dem sowohl [QIE.GetName] als auch Anqing profitieren. Wir werden erhebliche Ressourcen in die Verbesserung und Industrialisierung der Region investieren."
 
-ANQ_join_QIE_alliance:0 "Treten Sie der Qing Alliance bei"
+ANQ_join_QIE_alliance:0 "Treten Sie der Qing Allianz bei"
 ANQ_join_QIE_alliance_desc:0 "Qing führt Krieg gegen Fengtian. Wir können nicht untätig zusehen, während souveränes chinesisches Territorium, das der Regierung gehört, die wir als das einzig legitime anerkennen, besetzt wird. Der fengtianische Staat mag chinesisch sein, er kämpft aber nicht für chinesische Interessen. Wir müssen jetzt handeln."
 ANQ_join_war_vs_FNG:0 "Schließe dich dem Krieg gegen Fengtian an"
 ANQ_join_war_vs_FNG_desc:0 "Jetzt, da wir mit Qing verbündet sind, ist es Zeit für uns, uns ihrem Krieg gegen die Invasoren der Fengtianer anzuschließen und China vor ihrem Bösen zu verteidigen."
@@ -443,7 +446,7 @@ steel_nhunan_find:0 "Entwickle Minen im Norden von Hunan"
 steel_nanjing_find:0 "Entwicklung von Nanjing-Minen"
 steel_jinan_find:0 "Jinan-Minen entwickeln"
 
-# Canal Stuff
+# Canal Stuff ausnahmsweise
 ANQ_subei_canal:0 "Der Subei-Kanal"
 ANQ_subei_canal_desc:0 "Der nördliche Jiangsu-Hauptbewässerungskanal oder Subei-Kanal wurde so konzipiert, dass die Gewässer des Huai-Flusses, der in der Nähe der Mündung des Guan-Flusses mündet, direkt ins Meer gelangen. Im späten 12. Jahrhundert änderte der Huang He (Gelber Fluss) seinen Lauf, um sich südlich der Shandong-Halbinsel zu entladen, und übernahm damit den Unterlauf des Huai, der danach in den Hongze-See und von dort nach Süden durch eine Reihe von Seen und Wasserstraßen, mündete der Jangtse (Chang Jiang) in der Nähe von Yangzhou (Jiangsu). Der Huang He blieb in diesem Kurs bis in die 1850er Jahre, als er wieder auf seinen heutigen Kurs nördlich der Shandong-Halbinsel überging. Zu Beginn des 20. Jahrhunderts war die Entwässerung des Huai-Gebiets zu einem dauerhaften Problem geworden.\n\nUm dieses Problem zu lösen, wurde ein Kanal in Auftrag gegeben, der den Hongze-See mit dem Meer verbindet und nicht nur als Kanal für die Einleitung von Hochwasser, sondern auch als Hauptschlagader eines ausgedehnten Netzes von Entwässerungs- und Bewässerungskanälen konzipiert ist."
 
@@ -600,11 +603,11 @@ ANQ_widespread_destruction2:0 "Weit verbreitete Zerstörung"
 ANQ_widespread_destruction2_desc:0 "[getanqideawidespreaddestruction]"
 
 anq_idea_ruinedinterior:0 "Nicht nur das industrielle Kernland der fünf Provinzen wurde zerstört, sondern auch die Städte und Dörfer des Provinzinneren. Deserteure, Yiguandao-Fanatiker, linke KMT-Agenten und andere Banditen richten weiterhin Schaden an, obwohl der Krieg vorbei ist. Die Einrichtungen werden Zeit brauchen, um sich zu erholen."
-ANQ_ruined_interior:0 "Ruiniertes Einrichtungen"
+ANQ_ruined_interior:0 "Ruinierte Einrichtungen"
 ANQ_ruined_interior_desc:0 "[getanqidearuinedinterior]"
-ANQ_ruined_interior1:0 "Ruiniertes Einrichtungen"
+ANQ_ruined_interior1:0 "Ruinierte Einrichtungen"
 ANQ_ruined_interior1_desc:0 "[getanqidearuinedinterior]"
-ANQ_ruined_interior2:0 "Ruiniertes Einrichtungen"
+ANQ_ruined_interior2:0 "Ruinierte Einrichtungen"
 ANQ_ruined_interior2_desc:0 "[getanqidearuinedinterior]"
 
 anq_idea_institutionalchaos:0 "Die aggressiven Aktionen gegen Ausländer und Verräter haben zu einem weitgehenden Zusammenbruch der Institutionen geführt, die dieses Land zusammengehalten haben. Chens Regierung muss von vorne beginnen und durch Reorganisation und Ernennung neuer Beamter Ordnung in diese Institutionen bringen."
@@ -722,7 +725,7 @@ ANQ_dalu_yinhang_loans_idea1_desc:0 "Dalu Yinhang gewährt uns auf Qing-Initiati
 ANQ_northern_bank_loans:0 "Northern Bank Darlehen"
 ANQ_northern_bank_loans_desc:0 "Zusätzlich zu den Krediten von Dalu Yinhang hat Qing dafür gesorgt, dass auch andere Banken teilnehmen, und uns damit zusätzliches Kapital für unsere industrielle Expansion zur Verfügung stehen. Dies erfordert zusätzliche Kosten für den Schuldendienst."
 
-## Fokuse ##
+## Fokuse ## 
 
 ANQ_rolling_dice:0 "Die Würfel rollen"
 ANQ_rolling_dice_desc:0 "Chen Tiaoyuan, der 'Dice Roller General', hat beschlossen, das Schicksal erneut heraus zu fordern und alles zu riskieren. Die Liga der acht Provinzen ist zusammengebrochen und dies ist die größte Chance, die Chen jemals sehen wird. Sun Chuanfang ist tot. Wenn Chen zeigen kann, dass er mit seinem proklamierten Nachfolger Qi Xieyuan mithalten kann, könnte er möglicherweise der nächste Marschall der Liga werden."
@@ -747,7 +750,7 @@ ANQ_a_new_army:0 "Eine neue Armee"
 ANQ_a_new_army_desc:0 "Nachdem wir die Kontrolle über die fünf Provinzen übernommen haben, müssen wir sie verteidigen. Dazu brauchen wir eine starke Armee. Während unsere Männer mutig sind, sind viele nicht richtig ausgebildet oder ausgerüstet. Wir müssen mit der Bildung einer neuen Armee beginnen, wenn wir hier Abhilfe schaffen wollen."
 ANQ_air_naval_command:0 "Luft- und Marinekommando"
 ANQ_air_naval_command_desc:0 "Bisher haben wir uns fast ausschließlich auf die Stärke unserer Armee verlassen. Wir müssen unsere Streitkräfte auf den Kriegsschauplätzen zu Luft und Wasser diversifizieren. Unsere Marine war schon immer schwach und es ist Zeit, sie zu modernisieren. Wir müssen auch die Kontrolle über unseren Himmel übernehmen, wenn wir verhindern wollen, dass Feuer auf uns regnet, wenn wir modernere Feinde treffen."
-ANQ_nanjing_naval_yard:0 "Zhejiang Marie Werft"
+ANQ_nanjing_naval_yard:0 "Zhejiang Marinewerft"
 ANQ_nanjing_naval_yard_desc:0 "Es ist Zeit, mit der Investition in eine neue und erweiterte Marinewerft für unseren Schiffbau in Zhejiang zu beginnen. Es wird in der Lage sein, auch die großen Schiffe von heute zusammenzubauen und wird notwendig sein, wenn wir unsere Flotte modernisieren wollen."
 ANQ_naval_officer_training:0 "Ausbildung zum Marineoffizier"
 ANQ_naval_officer_training_desc:0 "Damit unsere neuen Flotten modern arbeiten können, brauchen wir gut ausgebildete Marineoffiziere. Ohne diese wird die Koordination fehlen und jedes Manöver wird versagen. Wir müssen die Ausbildung unserer Marineoffiziere verbessern, um diese massiven Stahltiere der Meere zu zähmen."
@@ -787,7 +790,7 @@ ANQ_japanese_tank_imports:0 "Japanische Panzerimporte"
 ANQ_japanese_tank_imports_desc:0 "Japan ist das einzige Land in Asien, das moderne Panzerdivisionen einsetzen kann. Wir sollten eine begrenzte Anzahl von ihnen importieren und anfangen, eigene kleine Panzerdivisionen aufzustellen. Sie wären unglaublich nützlich, um feindliche Linien zu durchbrechen, da unsere Feinde höchstwahrscheinlich nicht wissen, wie sie mit ihnen umgehen sollen."
 ANQ_antitank_improvisation:0 "Panzerabwehrimprovisation"
 ANQ_antitank_improvisation_desc:0 "Unser Todfeind Japan wird höchstwahrscheinlich Panzerdivisionen einsetzen. Wenn wir überhaupt eine Chance haben wollen, müssen wir unsere Divisionen mit rudimentären Panzerabwehrwaffen ausstatten. Wir können keine unglaublich fortschrittlichen Panzerabwehrwaffen entwickeln, aber wir können immer improvisieren."
-ANQ_reform_jinling_academy:0 "Reform Jinling Akademie"
+ANQ_reform_jinling_academy:0 "Reform der Jinling Akademie"
 ANQ_reform_jinling_academy_desc:0 "Die Jinling-Akademie, die große Offiziersschule von Nanjing, ist dringend reformbedürftig. Die Mitarbeiter unterrichten ausschließlich die alten Wege und berücksichtigen die enormen Fortschritte der letzten Jahre nicht. Wir müssen das Bildungssystem reformieren und sicherstellen, dass eine neue Generation von Offizieren, die die Jinling-Akademie abschließt, sich als würdige Offiziere in unseren Armeen erweisen wird."
 ANQ_special_intelligence_units:0 "Spezielle Geheimdiensteinheiten"
 ANQ_special_intelligence_units_desc:0 "Der Einsatz spezialisierter Geheimdienste, die gleichzeitig mit der Armee arbeiten, hat sich für die kaiserliche japanische Armee als nützlich erwiesen. Wir sollten eine Reihe dieser Einheiten trainieren, um unsere Wirksamkeit beim Sammeln von Informationen zu verbessern."
@@ -830,7 +833,7 @@ ANQ_renegotiate_foreign_trade:0 "Außenhandel neu verhandeln" #unbenutzt
 ANQ_renegotiate_foreign_trade_desc:0 "Unsere Aktionen gegen Ausländer haben den Handel stark reduziert. Dies ist zwar nicht völlig unerwünscht, aber wenn wir uns von der Welt abschotten, werden wir technologisch zurückfallen. Darüber hinaus verfügen wir über viele Produkte und Ressourcen, die wir exportieren können. Aus diesem Grund sollten wir uns langsam wieder für den Handel öffnen, aber diesmal werden wir es zu unseren Bedingungen tun."
 ANQ_economic_nationalism:0 "Nationalistische Wirtschaftsentwicklung" #unbenutzt
 ANQ_economic_nationalism_desc:0 "Wenn wir jetzt vorankommen wollen, nachdem wir die wirtschaftlichen Verstrickungen des Westens beseitigt haben, müssen wir eine neue Wirtschaftspolitik einleiten. Diese neue Politik sollte sich darauf konzentrieren, China voranzubringen und nicht die westlichen Länder, die uns so lange ausgesaugt haben. Aus diesem Grund ist es von größter Bedeutung, dass wir von nun an wirtschaftlichen Nationalismus verfolgen und unsere Wirtschaft mit diesem Prinzip im Hinterkopf entwickeln."
-ANQ_nationalize_key_industries:0 "chlüsselindustrien verstaatlichen" #unbenutzt
+ANQ_nationalize_key_industries:0 "Schlüsselindustrien verstaatlichen" #unbenutzt
 ANQ_nationalize_key_industries_desc:0 "Wenn wir unsere Kontrolle über die Wirtschaft ausweiten wollen, damit wir sie besser in die von uns gewünschte Richtung lenken können, wäre die Verstaatlichung bestimmter Schlüsselindustrien eine gute Option. Dies würde auch sicherstellen, dass kein Unternehmen, keine Einzelperson oder kein Staat die Kontrolle über Branchen übernehmen kann, die für unsere Verteidigung von entscheidender Bedeutung sind. Wir haben jetzt die Unterstützung, die wir brauchen, um diese Maßnahmen durchzuführen, also sollten wir so bald wie möglich beginnen."
 ANQ_okura_bank_loans:0 "Okura Bankdarlehen"
 ANQ_okura_bank_loans_desc:0 "Wenn wir unsere hohen Investitionen in die Wirtschaft fortsetzen wollen, brauchen wir zusätzliches Kapital. Mit Japan als Wohltäter wäre die japanische Okura Bank eine gute Option. Wenn sie uns Kredite zu günstigen Konditionen gewähren können, können wir unsere Industrialisierungspolitik fortsetzen."
@@ -1530,8 +1533,8 @@ anq.132.a:0 "Vorübergehender Frieden."
 anq.133.t:0 "Diplomat bietet Deal an"
 anq.133.d1:0 "Ein bescheidener Diplomat innerhalb unserer eigenen Bürokratie hat es sich zur Aufgabe gemacht, einen Krieg zwischen Shandong und uns zu verhindern. Er glaubte, Fengtians gescheiterte Vermittlung sei kein Grund, die Hoffnung aufzugeben. Der Diplomat machte sich auf die Beine und ging nach Shandong, wobei er sich unter Lebensgefahr mit Zongchang traf. Aber ausnahmsweise war Zongchang vernünftig und akzeptierte den Vorschlag des Diplomaten, wonach Shandong vorerst sein gesamtes Territorium außerhalb von Jiangsu aufgibt. Dies bedeutet, dass sie vorübergehend Jiangsu verwalten werden, eine der fünf Provinzen. Angesichts der Tatsache, dass die Kuomintang die akutere Bedrohung darstellen, sollte dies akzeptabel sein."
 anq.133.d2:0 "Ein bescheidener Diplomat innerhalb unserer eigenen Bürokratie hat es sich zur Aufgabe gemacht, einen Krieg zwischen Shandong und uns zu verhindern. Er glaubte, Fengtians gescheiterte Vermittlung sei kein Grund, die Hoffnung aufzugeben. Der Diplomat machte sich auf die Beine und ging nach Shandong, wobei er sich unter Lebensgefahr mit Zongchang traf. Aber ausnahmsweise war Zongchang vernünftig und akzeptierte den Vorschlag des Diplomaten, wonach Shandong an dem von ihm erworbenen Gebiet von Jiangsu festhält. Dies bedeutet, dass sie vorübergehend mindestens Teile von Jiangsu, einer der fünf Provinzen, verwalten werden. Angesichts der Tatsache, dass die Kuomintang die akutere Bedrohung darstellen, sollte dies akzeptabel sein."
-anq.133.d3:0 "Ein bescheidener Diplomat innerhalb unserer eigenen Bürokratie hat es sich zur Aufgabe gemacht, einen Krieg zwischen Shandong und uns zu verhindern. Er glaubte, Fengtians gescheiterte Vermittlung sei kein Grund, die Hoffnung aufzugeben. Der Diplomat machte sich auf die Beine und ging nach Shandong, wobei er sich unter Lebensgefahr mit Zongchang traf. Aber ausnahmsweise war Zongchang vernünftig und akzeptierte den Vorschlag des Diplomaten, wonach wir Jiangsu an sie abtreten. Dies bedeutet, dass sie vorübergehend Jiangsu, eine der fünf Provinzen, verwalten werden. BWenn man bedenkt, dass die Kuomintang die akutere Bedrohung darstellen, sollte dies akzeptabel sein."
-anq.133.d4:0 "Ein bescheidener Diplomat innerhalb unserer eigenen Bürokratie hat es sich zur Aufgabe gemacht, einen Krieg zwischen Shandong und uns zu verhindern. Er glaubte, Fengtians gescheiterte Vermittlung sei kein Grund, die Hoffnung aufzugeben. Der Diplomat machte sich auf die Beine und ging nach Shandong, wobei er sich unter Lebensgefahr mit Zongchang traf. Aber ausnahmsweise war Zongchang vernünftig und akzeptierte den Vorschlag des Diplomaten, wonach wir nur Xuhai, einen Teil von Jiangsu, an sie abtreten. Dies bedeutet, dass sie vorübergehend einen Teil von Jiangsu, einer der fünf Provinzen, verwalten werden. Aber ausnahmsweise war Zongchang vernünftig und akzeptierte den Vorschlag des Diplomaten, wonach wir nur Xuhai, einen Teil von Jiangsu, an sie abtreten. Dies bedeutet, dass sie vorübergehend einen Teil von Jiangsu, einer der fünf Provinzen, verwalten werden."
+anq.133.d3:0 "Ein bescheidener Diplomat innerhalb unserer eigenen Bürokratie hat es sich zur Aufgabe gemacht, einen Krieg zwischen Shandong und uns zu verhindern. Er glaubte, Fengtians gescheiterte Vermittlung sei kein Grund, die Hoffnung aufzugeben. Der Diplomat machte sich auf die Beine und ging nach Shandong, wobei er sich unter Lebensgefahr mit Zongchang traf. Aber ausnahmsweise war Zongchang vernünftig und akzeptierte den Vorschlag des Diplomaten, wonach wir Jiangsu an sie abtreten. Dies bedeutet, dass sie vorübergehend Jiangsu, eine der fünf Provinzen, verwalten werden. Wenn man bedenkt, dass die Kuomintang die akutere Bedrohung darstellen, sollte dies akzeptabel sein."
+anq.133.d4:0 "Ein bescheidener Diplomat innerhalb unserer eigenen Bürokratie hat es sich zur Aufgabe gemacht, einen Krieg zwischen Shandong und uns zu verhindern. Er glaubte, Fengtians gescheiterte Vermittlung sei kein Grund, die Hoffnung aufzugeben. Der Diplomat machte sich auf die Beine und ging nach Shandong, wobei er sich unter Lebensgefahr mit Zongchang traf. Aber ausnahmsweise war Zongchang vernünftig und akzeptierte den Vorschlag des Diplomaten, wonach wir nur Xuhai, einen Teil von Jiangsu, an sie abtreten. Dies bedeutet, dass sie vorübergehend einen Teil von Jiangsu, einer der fünf Provinzen, verwalten werden."
 anq.133.a:0 "Dieser Deal ist vernünftig."
 anq.133.b:0 "Krieg ist die bessere Option."
 
@@ -1752,7 +1755,7 @@ anq.177.d1:0 "Aufgrund unserer Entscheidung, nicht an Fengtians Reklamatinskrieg
 anq.177.d2:0 ""Aufgrund unserer Entscheidung, nicht an Fengtians Reklamatinskrieg zur Eroberung Pekings teilzunehmen, haben sie die Verbindung zu uns abgebrochen und uns als eine weitere Regierung von Kriegsherren bezeichnet. Sie haben auch alle verbleibenden Wiederaufbauhilfen gestrichen. Das ist bedauerlich, war aber zu erwarten. Wir müssen uns jetzt darauf verlassen, dass Chinas Zukunft gesichert ist, und wir müssen genau beobachten, was sowohl im Norden als auch im Süden passiert."
 anq.177.a:0 "Es ist wie es ist"
 
-anq.178.t:0 Fengtian toleriert Nichtteilnahme"
+anq.178.t:0 "Fengtian toleriert Nichtteilnahme"
 anq.178.d1:0 "Fengtian ist wie erwartet sehr unzufrieden mit unserer Entscheidung, nicht an ihrem Reklamatinskrieg zur Eroberung Pekings teilzunehmen. Da sie jedoch dringend Verbündete und jede mögliche Hilfe benötigen, hat Fengtian beschlossen, die Verbindungen zu uns nicht zu kappen und unsere Präsenz in ihrer Gruppe von Verbündeten weiterhin zu tolerieren. Dies ermöglicht es uns, noch einige Vorteile der Zusammenarbeit mit ihnen und den Japanern zu nutzen. Im Verlauf des Reklamationskrieges werden sie uns jedoch höchstwahrscheinlich sowieso ausschalten, wenn wir nicht teilnehmen. Wir können uns dazu entschließen, dem nicht zuzustimmen, und uns selbst von der Regierung Fengtian distanzieren. Letzteres wird uns mehr Ansehen verschaffen, da wir bereits angekündigt hatten, Fengtian nicht zu unterstützen. [getanqcanannexshandong]"
 anq.178.d2:0 "Fengtian ist wie erwartet sehr unzufrieden mit unserer Entscheidung, nicht an ihrem Reklamatinskrieg zur Eroberung Pekings teilzunehmen. Da sie jedoch dringend Verbündete und jede mögliche Hilfe benötigen, hat Fengtian beschlossen, die Verbindungen zu uns nicht zu kappen und unsere Präsenz in ihrer Gruppe von Verbündeten weiterhin zu tolerieren. Dies ermöglicht es uns, noch einige Vorteile der Zusammenarbeit mit ihnen und den Japanern zu nutzen. Leider haben sie beschlossen, ihre verbleibende Wiederaufbauhilfe abzusagen. Darüber hinaus werden sie uns im Verlauf des Reklamationskrieges höchstwahrscheinlich sowieso ausschalten, wenn wir nicht teilnehmen. Wir können uns dazu entschließen, dem nicht zuzustimmen, und uns selbst von der Regierung Fengtian distanzieren. Letzteres wird uns mehr Ansehen verschaffen, da wir bereits angekündigt hatten, Fengtian nicht zu unterstützen. [getanqcanannexshandong]"
 anq.178.a:0 "In Ordung."

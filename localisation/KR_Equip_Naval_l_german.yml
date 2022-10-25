@@ -1,0 +1,294 @@
+﻿l_german:
+### Übersetzt von Proho ###
+#Schmerzhaft reorganisiert von Sbadskins und PPsyrius
+
+###############################
+### General Naval Equipment ###
+###############################
+
+### Technologies ###
+weltkrieg_destroyer_nonmtg:0 "Weltkriegs-Zerstörer"
+weltkrieg_destroyer_nonmtg_desc:0 "Weltkriegs-Zerstörer"
+
+convoy_1:0 "Konvoi"
+naval_equipment:0 "Schiffe"
+acr_tech:0 "Früher Panzerkreuzer, Großer Panzerkreuzer, Überarbeiteter Panzerkreuzer"
+ex_cvh_tech:0 "Experimenteller Flugzeugträger"
+el_cvh_tech:0 "Früher Flugzeugträger"
+nav_infra_one:0 "Marine-Infrastruktur-Entscheidung"
+nav_infra_two:0 "Verbesserte Marine-Infrastruktur-Entscheidung"
+nav_infra_three:0 "Fortgeschrittene Marine-Infrastruktur-Entscheidung"
+nav_av_one:0 "Experimentelle Entscheidung der Marinefliegerei"
+nav_av_two:0 "Grundlegende Entscheidung der Marinefliegerei"
+nav_av_three:0 "Fortgeschrittene Entscheidung der Marineflieger"
+
+## Shiphull locs for Non-MTG
+ship_hull_submarine:0 "U-Boot"
+ship_hull_submarine_desc:0 "U-Boote sind getarnte Angriffsschiffe. Schwere U-Boote sind größer und leistungsfähiger, haben eine größere Reichweite und sind in der Lage, Boden-Boden- und Land-Bombardierungen vorzunehmen."
+ship_hull_cruiser:0 "Kreuzer"
+ship_hull_cruiser_desc:0 "Ein mittleres Schutzschiff. Seine primäre Aufgabe ist es, große Schiffe vor feindlichen leichten Schiffen abzuschirmen, aber es kann auch mächtige Torpedos abfeuern, die größere Schiffe beschädigen können."
+ship_hull_panzerschiff:0 "Panzerkreuzer"
+ship_hull_panzerschiff_desc:0 "Panzerkreuzer sind mittelgroße Schiffe, die ziemlich schwer bewaffnet sind. Sie sind am besten für den Einsatz gegen kleinere Kriegsschiffe geeignet, können aber auch als preiswerte Großkampfschiffe eingesetzt werden."
+ship_hull_light:0 "Zerstörer"
+ship_hull_light_desc:0 "Das leichteste Schutzschiff. Seine Aufgabe ist es, größere Schiffe zu verteidigen und U-Boote zu finden und zu zerstören, und es kann auch unbegleitete große Schiffe bedrohen."
+ship_hull_carrier:0 "Träger"
+ship_hull_carrier_desc:0 "Ein großes Schiff, das in der Lage ist, Geschwader von mächtigen trägerfähigen Flugzeugen in die Schlacht zu tragen. Auch nützlich als schwimmender Flugplatz, den Sie vor der Küste Ihres Feindes positionieren können."
+ship_hull_heavy_carrier:0 "Schwerer Träger"
+ship_hull_heavy_carrier_desc:0 "Schwere Flugzeugträger basieren in der Regel auf Schlachtschiff- oder Dreadnought-Designs, d.h. sie sind riesig und stark gepanzert, aber auch sehr teuer."
+ship_hull_fast_battleship:0 "Schlachtschiff"
+ship_hull_fast_battleship_desc:0 "Schlachtschiffe sind mittelgroße Großkampfschiffe mit Allround-Leistung. Sie bieten ein Gleichgewicht zwischen Geschwindigkeit, Panzerung und Feuerkraft, sind aber in keinem Bereich überragend."
+ship_hull_dreadnought:0 "Großkampfschiff"
+ship_hull_dreadnought_desc:0 "Das größte Hauptschiff mit den größten Kanonen und der stärksten Panzerung, die man für Geld kaufen kann. Eine so teure Investition verdient eine angemessene Unterstützung durch kleinere Schutzschiffe."
+
+
+#ship_hull_dreadnought_0:0 "Großkampfschiff Schlachtschiff Rumpf"
+#ship_hull_dreadnought_0_desc:0 "Die Dreadnought (gebaut 1905-6) revolutionierte das Design von Großkampfschiffen, machte alle vorherigen Schlachtschiffe auf einen Schlag obsolet und löste ein Wettrüsten zwischen Großbritannien und Deutschland aus. Ihre "Reine Großgeschütz"-Hauptbewaffnung war wesentlich leistungsfähiger als die gemischten Batterien der Vor-Großkampfschiffe, und ihr Dampfturbinenantrieb verlieh ihr eine überlegene Geschwindigkeit. Marinen auf der ganzen Welt beeilten sich, das britische Design zu kopieren, was zu einer Explosion der Ausgaben für die Marine und zu einer erheblichen Steigerung der Feuerkraft auf See führte. Die meisten Schiffe waren mit zehn bis zwölf Hauptkanonen in Zwillingstürmen von 11 bis 12 Zoll oder gleichwertig bewaffnet.
+ship_hull_dreadnought_1:0 "Vorkriegs-Großkampfschiff-Rumpf" #Improved
+ship_hull_dreadnought_1_desc:0 "Diese "Super-Großkampfschiff", die einen Größensprung gegenüber den vorangegangenen Großkampfschiff darstellten, waren die Weiterentwicklung der Design-Innovationen der Großkampfschiff-Designs. Sie waren schneller, stärker gepanzert und zeichneten sich vor allem durch ihre überlegene Bewaffnung aus: Die meisten trugen fünf Zwillingstürme mit Geschützen von 12 bis 13,5 Zoll oder gleichwertig, die so angeordnet waren, dass sie alle in der Breitseite feuern konnten, und deren Vorder- und Achtertürme in einer Überfeuerungskonfiguration standen. Diese schwerere, konzentriertere Feuerkraft machte sie wesentlich tödlicher als die frühen Großkampfschiff-Klassen, und diese Konstruktionen sollten als führende Kriegsschiffe der großen Marinen in den Weltkrieg ziehen. Obwohl sie von den neuen Klassen, die während des Krieges entwickelt wurden, in den Schatten gestellt wurden, blieben sie formidable Kriegsschiffe, und viele von ihnen blieben noch viele Jahre nach Kriegsende im Dienst, besonders in den Sekundärflotten."
+weltkrieg_dreadnought_hull_nonmtg:0 "Weltkriegs Großkampfschiff Rumpf"
+weltkrieg_dreadnought_hull_nonmtg_desc:0 "Kurz vor Beginn des Weltkriegs entworfen und während des Krieges fertiggestellt, repräsentierten diese Klassen den höchsten Stand der Marineentwicklung vor Beginn dieses Konflikts. Sie waren die flottenführenden Kriegsschiffe des Krieges und sollten noch lange nach dessen Ende hochpotent bleiben. Während sie deutlich schneller waren als die Großkampfschiffe vor ihnen, war ihr auffälligstes Unterscheidungsmerkmal ihre verstärkte Bewaffnung: Sie trugen acht bis zehn Hauptkanonen von 14 bis 15 Zoll oder gleichwertig, die meisten in Zwillingstürmen, aber einige in neuen Dreifachtürmen. Ihre verheerende Feuerkraft und schwere Panzerung garantierten, dass sie das Herzstück der Schlachtflotten sein würden, aber diese fortlaufenden Fortschritte kamen zu schnell eskalierenden Preisen. Mehr noch als die Kriegsschiffe vor ihnen verlangten diese Klassen riesige Investitionen, obwohl sie nur ein Schatten dessen waren, was noch kommen sollte."
+weltkrieg_dreadnought_hull:0 "Weltkriegs Großkampfschiff Rumpf"
+weltkrieg_dreadnought_hull_desc:0 "Kurz vor Beginn des Weltkriegs entworfen und während des Krieges fertiggestellt, repräsentierten diese Klassen den höchsten Stand der Marineentwicklung vor Beginn dieses Konflikts. Sie waren die flottenführenden Kriegsschiffe des Krieges und sollten noch lange nach dessen Ende hochpotent bleiben. Während sie deutlich schneller waren als die Großkampfschiffe vor ihnen, war ihr auffälligstes Unterscheidungsmerkmal ihre verstärkte Bewaffnung: Sie trugen acht bis zehn Hauptkanonen von 14 bis 15 Zoll oder gleichwertig, die meisten in Zwillingstürmen, aber einige in neuen Dreifachtürmen. Ihre verheerende Feuerkraft und schwere Panzerung garantierten, dass sie das Herzstück der Schlachtflotten sein würden, aber diese fortlaufenden Fortschritte kamen zu schnell eskalierenden Preisen. Mehr noch als die Kriegsschiffe vor ihnen verlangten diese Klassen riesige Investitionen, obwohl sie nur ein Schatten dessen waren, was noch kommen sollte."
+ship_hull_dreadnought_2:0 "Weltkriegs Großkampfschiff Rumpf" #Early Weltkrieg
+ship_hull_dreadnought_2_desc:0 "Kurz vor Beginn des Weltkriegs entworfen und während des Krieges fertiggestellt, repräsentierten diese Klassen den höchsten Stand der Marineentwicklung vor Beginn dieses Konflikts. Sie waren die flottenführenden Kriegsschiffe des Krieges und sollten noch lange nach dessen Ende hochpotent bleiben. Während sie deutlich schneller waren als die Großkampfschiffe vor ihnen, war ihr auffälligstes Unterscheidungsmerkmal ihre verstärkte Bewaffnung: Sie trugen acht bis zehn Hauptkanonen von 14 bis 15 Zoll oder gleichwertig, die meisten in Zwillingstürmen, aber einige in neuen Dreifachtürmen. Ihre verheerende Feuerkraft und schwere Panzerung garantierten, dass sie das Herzstück der Schlachtflotten sein würden, aber diese fortlaufenden Fortschritte kamen zu schnell eskalierenden Preisen. Mehr noch als die Kriegsschiffe vor ihnen verlangten diese Klassen riesige Investitionen, obwohl sie nur ein Schatten dessen waren, was noch kommen sollte."
+#ship_hull_dreadnought_2_5:0 "Später Weltkriegs Großkampfschiff Rumpf"
+#ship_hull_dreadnought_2_5_desc:0 "Unter Einbeziehung der Lehren aus den ersten großen Seeschlachten des Großkampfschiff-Zeitalters, insbesondere der Ersten Schlacht von Jütland, waren diese Entwürfe sehr konvergent: erhöhte Geschwindigkeit, immer schwerere Panzerung und eine Hauptbewaffnung aus vier 16- bis 16,5-Zoll-Zwillingskanonen oder gleichwertigen Geschützen in einer Konfiguration mit zwei vorderen und zwei hinteren Überfeuertürmen, obwohl einige spätere Entwürfe dieses Typs einen fünften Turm hinzufügten. Solch mächtige Kriegsschiffe hatten einen hohen Preis, und ihr Bau stellte die Nationen, die sie bauten, vor große Herausforderungen. Obwohl sie während des Weltkriegs begonnen wurden, wurden sie nicht rechtzeitig fertiggestellt, um am Weltkrieg teilzunehmen, und als Ergebnis blieben ihre Entwürfe weitgehend unerprobt. Diese Klassen, die in weitaus größerer Stückzahl als die nachfolgenden Mammutschiffe produziert wurden, bildeten noch lange nach dem Krieg und bis in die 1930er Jahre hinein den Kern der meisten großen Marinen der Welt."
+ship_hull_dreadnought_3:0 "Zwischenkriegs-Großkampfschiff-Rumpf" #Heavy
+ship_hull_dreadnought_3_desc:0 "Der rasche Anstieg der Ressourcen, die nach dem Ende der großen Landkonflikte während des Weltkriegs in den Marinebau gesteckt wurden, brachte zunächst diese Entwürfe hervor, die die Anfänge des Trends zum plötzlichen Wachstum von Größe, Feuerkraft, Panzerung, Kaliber und natürlich Kosten darstellten. Solche Schiffe unterschieden die führenden Seemächte der Welt von den bloßen Anwärtern auf Größe, aber sie hatten ihre Probleme; ihre schnelle Entwicklung und überstürzte Konstruktion führte zu Konstruktionsfehlern und anhaltenden mechanischen Problemen. Diese Entwürfe waren mit acht bis zehn 18-Zoll- oder gleichwertigen Hauptkanonen bewaffnet und hatten den Schutz, um es mit ähnlich bewaffneten Schiffen aufnehmen zu können."
+ship_hull_dreadnought_4:0 "Verbesserter Großkampfschiff-Rumpf" #Super Heavy
+ship_hull_dreadnought_4_desc:0 "Als die Großkampfschiff-Klasse ihren Höhepunkt erreichte, wurden diese wahren Monster erdacht. Weitaus größer in Größe und Feuerkraft als alles, was zuvor kam, waren ihre Kosten schwindelerregend, und nur wenige Nationen konnten es sich leisten, ihren Bau auch nur in Betracht zu ziehen. Diejenigen, die es dennoch taten, befanden sich im Besitz von wahrhaft mächtigen Waffen der Seemachtüberlegenheit. Mehr noch als die Generation vor ihnen litten sie unter den Bedingungen, unter denen sie entwickelt wurden. Überstürzte Konstruktionsarbeiten, improvisierte Umgestaltungen in letzter Minute während des Baus, Knappheit der riesigen Menge an Ressourcen, die sie benötigten, immenser Druck, den Bau zu beschleunigen, und die schiere Größe und Komplexität ihrer massiven Mechanismen führten zu Konstruktionsfehlern und Schwachstellen unter ihren riesigen Panzerhüllen. Diese Konstruktionen waren mit zwölf bis fünfzehn 18-Zoll- oder gleichwertigen Hauptkanonen bewaffnet."
+ship_hull_dreadnought_5:0 "Fortgeschrittene Großkampfschiff Rumpf"
+ship_hull_dreadnought_5_desc:0 "Nachdem das Nachglühen des großen Großkampfschiff-Rennens verblasst war, zogen die Marinekonstrukteure Bilanz über die Position der Großkampfschiffe in der zukünftigen Planung. Sie verzichteten auf Geschwindigkeit als Hauptziel, da sie davon ausgingen, dass die neue Generation der sogenannten "schnellen Schlachtschiffe" diese Aufgabe übernehmen würde, und konzentrierten sich stattdessen auf einen extremen, noch nie dagewesenen Panzerschutz. Fortgeschrittene 16-Zoll-Geschütze konnten die Panzerung von 18-Zoll-Geschützen durchdringen, waren aber preiswerter... In Anlehnung an die Flotten, die über schwere Geschütze verfügten, wurden die meisten dieser Entwürfe mit solchen fortgeschrittenen 16-Zoll-Geschützen oder gleichwertigen Geschützen bewaffnet, die normalerweise in fünf Dreifachtürmen angeordnet waren."
+ship_hull_dreadnought_6:0 "Moderner Großkampfschiff Rumpf"
+ship_hull_dreadnought_6_desc:0 "Selbst als die meisten Marinen mit mehr oder weniger Widerwillen und Bestürzung die Vorherrschaft der Flugzeugträger über die traditionellen Kanonen-Kriegsschiffe anerkennen mussten, träumten einige Marinekonstrukteure immer noch davon, das "ultimative Schlachtschiff" zu bauen. Gepanzert mit einer fast undurchdringlichen Panzerung, bestückt mit Flugabwehrbatterien und bewaffnet mit sechs dreifachen 16-Zoll-Türmen oder einer gleichwertigen extremen Bewaffnung, stellten diese Entwürfe die Spitze der Konstruktion schwerer Kriegsschiffe dar. Konzipiert in der Dämmerung des Zeitalters der Kanonen-Kriegsschiffe, wurden diese Entwürfe noch vor ihrer Fertigstellung als veraltet angesehen, vor allem von den Befürwortern der aufsteigenden Luftmacht."
+
+dn_sh_gun_module_one:0 "Nach Weltkriegs Super-Schwere Batterie Upgrade"
+dn_sh_gun_module_one_desc:0 ""
+dn_sh_gun_module_two:0 "Zwischenkriegs Super-Schwere Batterie Upgrade"
+dn_sh_gun_module_two_desc:0 ""
+dn_sh_gun_module_three:0 "Verbessertes Super-Schwere Batterie-Upgrade"
+dn_sh_gun_module_three_desc:0 ""
+dn_sh_gun_module_four:0 "Fortgeschrittene Super-Schwere Batterie-Upgrade"
+dn_sh_gun_module_four_desc:0 ""
+
+dn_hull_module_one:0 "Nach Weltkriegs Großkampfschiff Rumpf Modul"
+dn_hull_module_one_desc:0 ""
+dn_hull_module_two:0 "Zwischenkriegs Großkampfschiff Rumpf Modul"
+dn_hull_module_two_desc:0 ""
+dn_hull_module_three:0 "Verbessertes Großkampfschiff Rumpf Modul"
+dn_hull_module_three_desc:0 ""
+dn_hull_module_four:0 "Fortgeschrittene Großkampfschiff Rumpf Modul"
+dn_hull_module_four_desc:0 ""
+
+interwar_heavy_carrier_hull_nonmtg:0 "Umgerüsteter Flugzeugträger Rumpf"
+interwar_heavy_carrier_hull_nonmtg_desc:0 "Diese Schiffe waren die ersten großen Flugzeugträger. Sie wurden auf Rümpfen gebaut, die ursprünglich für große Kriegsschiffe gedacht waren, aber aus verschiedenen Gründen als Träger umgebaut und fertiggestellt wurden. Nur eine Handvoll Marinen baute solche Schiffe, und ihre Designs variierten stark; ihre Flugzeugkapazitäten reichten von den niedrigen Sechzigern bis zu über hundert. Es gab jedoch Konstanten, wie z. B. die Beibehaltung stark gepanzerter Bordwände und anderer Merkmale von Kanonen-Kriegsschiffen. Halb experimentell und unzuverlässig, waren sie dennoch unglaublich beeindruckende Waffen und legten den Grundstein für nachfolgende Generationen von Flugzeugträgern."
+interwar_heavy_carrier_hull:0 "Umgerüsteter Flugzeugträger Rumpf"
+interwar_heavy_carrier_hull_desc:0 "Diese Schiffe waren die ersten großen Flugzeugträger. Sie wurden auf Rümpfen gebaut, die ursprünglich für große Kriegsschiffe gedacht waren, aber aus verschiedenen Gründen als Träger umgebaut und fertiggestellt wurden. Nur eine Handvoll Marinen baute solche Schiffe, und ihre Designs variierten stark; ihre Flugzeugkapazitäten reichten von den niedrigen Sechzigern bis zu über hundert. Es gab jedoch Konstanten, wie z. B. die Beibehaltung stark gepanzerter Bordwände und anderer Merkmale von Kanonen-Kriegsschiffen. Halb experimentell und unzuverlässig, waren sie dennoch unglaublich beeindruckende Waffen und legten den Grundstein für nachfolgende Generationen von Flugzeugträgern."
+
+ship_hull_heavy_carrier_1:0 "Umgerüsteter Flugzeugträger Rumpf" #Experimental
+ship_hull_heavy_carrier_1_desc:0 "Diese Schiffe waren die ersten großen Flugzeugträger. Sie wurden auf Rümpfen gebaut, die ursprünglich für große Kriegsschiffe gedacht waren, aber aus verschiedenen Gründen als Träger umgebaut und fertiggestellt wurden. Nur eine Handvoll Marinen baute solche Schiffe, und ihre Designs variierten stark; ihre Flugzeugkapazitäten reichten von den niedrigen Sechzigern bis zu über hundert. Es gab jedoch Konstanten, wie z. B. die Beibehaltung stark gepanzerter Bordwände und anderer Merkmale von Kanonen-Kriegsschiffen. Halb experimentell und unzuverlässig, waren sie dennoch unglaublich beeindruckende Waffen und legten den Grundstein für nachfolgende Generationen von Flugzeugträgern."
+ship_hull_heavy_carrier_2:0 "Verbesserter schwerer Trägerrumpf" #Early
+ship_hull_heavy_carrier_2_desc:0 "Als erste Flottenträger, die komplett als solche konzipiert wurden, waren die meisten dieser Schiffe deutlich kleiner als ihre Vorgänger, aber aufgrund ihrer bewussten Ausrichtung auf die Anforderungen der Marinefliegerei auch wesentlich zuverlässiger in dieser Rolle. Mit besserer Flakabwehr und entsprechend ausgelegten Start- und Landebahnen konnten sie in der Regel rund sechzig Flugzeuge transportieren."
+ship_hull_heavy_carrier_3:0 "Fortgeschrittene Schwerer Träger Rumpf" #Improved
+ship_hull_heavy_carrier_3_desc:0 "Die kontinuierliche Weiterentwicklung des Designs von Flugzeugträgern führte zu viel größeren Modellen, mit noch höheren Kapazitäten. Erhöhte Reichweite und besseres Design der internen Systeme erlaubten es ihnen, effektiver zu funktionieren, nicht nur als Teil der Flotte, sondern als das Zentrum einer solchen. Sie behielten die Eigenschaften der früheren schweren Träger bei, große Sekundärbatterien, um feindliche Schiffe auf kurze Distanz zu bekämpfen, und einen stark gepanzerten Rumpf zum Schutz. Die meisten trugen etwa siebzig Flugzeuge und mit den neuen Decksaufzügen waren sie sehr effizient darin, diese Schiffe so schnell wie möglich in den Kampf zu bringen."
+ship_hull_heavy_carrier_4:0 "Moderner Schwerer Träger Rumpf"
+ship_hull_heavy_carrier_4_desc:0 "Diese Schiffe, die letzte Evolution der Flottenträgerkonstruktion vor der Kernkraft, erreichten annähernd die Größe der ersten Flottenträger, während sie alle Konstruktionsverbesserungen der dazwischen liegenden Jahre aufnahmen. Die meisten verfügten über einen beträchtlichen Panzerschutz und eine durchschlagende Flak-Feuerkraft, während sie auch mechanisch sehr zuverlässig waren. Allerdings hatten sie ihre großkalibrige Sekundärbewaffnung gegen 100-127-mm-Zweizweckgeschütze getauscht. Ihre allgemeine Flugzeugkapazität betrug im Durchschnitt etwa achtzig."
+
+heavy_secondaries:0 "Schwere Sekundärelemente"
+heavy_secondaries_desc:0 ""
+heavy_carrier_armoured_deck:0 "Gepanzertes Deck"
+heavy_carrier_armoured_deck_desc:0 ""
+heavy_carrier_side_lift:0 "Seitlicher Lift"
+heavy_carrier_side_lift_desc:0 ""
+heavy_carrier_angled_deck:0 "Schrägdeck"
+heavy_carrier_angled_deck_desc:0 ""
+heavy_carrier_catapult:0 "Dampf Katapult"
+heavy_carrier_catapult_desc:0 ""
+
+### Equipment Module Categories ###
+EQ_MOD_CAT_ship_light_battery_TITLE:0 "Schnellfeuerkanonen"
+EQ_MOD_CAT_ship_sub_snorkel_TITLE:0 "Schnorchel"
+EQ_MOD_CAT_ship_torpedo_TITLE:0 "Torpedo-Werfer"
+EQ_MOD_CAT_ship_airplane_launcher_TITLE:0 "Flugzeug-Einrichtungen"
+EQ_MOD_CAT_ship_torpedo_sub_TITLE:0 "Torpedo Raum"
+EQ_MOD_CAT_ship_secondaries_TITLE:0 "Sekundär-Batterie"
+EQ_MOD_CAT_ship_light_medium_battery_TITLE:0 "Leichter Kreuzer Batterie"
+EQ_MOD_CAT_ship_medium_battery_TITLE:0 "Mittlere Batterie"
+EQ_MOD_CAT_ship_heavy_battery_TITLE:0 "Schwere Batterie"
+EQ_MOD_CAT_ship_super_heavy_battery_TITLE:0 "Super Schwere Batterie"
+EQ_MOD_CAT_light_ship_engine_TITLE:0 "Zerstörer-Motoren"
+EQ_MOD_CAT_cruiser_ship_engine_TITLE:0 "Kreuzer-Motoren"
+EQ_MOD_CAT_heavy_ship_engine_TITLE:0 "Schwere Schiffsmotoren"
+EQ_MOD_CAT_carrier_ship_engine_TITLE:0 "Träger-Motoren"
+EQ_MOD_CAT_sub_ship_engine_TITLE:0 "U-Boot-Motoren"
+EQ_MOD_CAT_ship_radar_TITLE:0 "Radar"
+EQ_MOD_CAT_ship_sonar_TITLE:0 "Sonar"
+EQ_MOD_CAT_ship_fire_control_system_TITLE:0 "Feuerleitsysteme"
+EQ_MOD_CAT_ship_depth_charge_TITLE:0 "Anti-U-Boot-Kriegsführung"
+EQ_MOD_CAT_ship_mine_warfare_TITLE:0 "Minenkriegsführung"
+EQ_MOD_CAT_ship_mine_layer_sub_TITLE:0 "Minenkriegsführung"
+EQ_MOD_CAT_ship_anti_air_TITLE:0 "Flak"
+fixed_ship_torpedo_slot:0 "Torpedos"
+EQ_MOD_CAT_ship_heavy_armor_TITLE:0 "Schweres Panzer Design"
+EQ_MOD_CAT_ship_super_heavy_armor_TITLE:0 "Super Schweres Panzer Design"
+EQ_MOD_CAT_ship_cruiser_armor_TITLE:0 "Kreuzer-Panzerungs Design"
+EQ_MOD_CAT_ship_carrier_armor_TITLE:0 "Deckpanzerung"
+EQ_MOD_CAT_ship_deck_space_TITLE:0 "Hangar Raum"
+EQ_MOD_CAT_ship_extra_fuel_tank_TITLE:0 "Treibstofftank"
+EQ_MOD_CAT_ship_mine_layer_TITLE:1 "Minenleger Ausrüstung"
+EQ_MOD_CAT_ship_cruiser_specialization_TITLE:0 "Kreuzer Spezialisierung"
+EQ_MOD_CAT_ship_deck_space_10_TITLE:0 "Kleiner Hangarraum"
+EQ_MOD_CAT_ship_ps_armor_TITLE:0 "Panzerschiff Panzer Design"
+EQ_MOD_CAT_ship_heavy_secondaries_TITLE:0 "Schwere Sekundär-Batterie"
+EQ_MOD_CAT_ship_angled_deck_TITLE:0 "Schrägdeck"
+EQ_MOD_CAT_ship_side_lift_TITLE:0 "Seitlicher Lift"
+
+### Equipment Module Slots ###
+EQ_MOD_SLOT_fixed_ship_battery_slot_TITLE:0 "Batterie"
+EQ_MOD_SLOT_fixed_ship_secondaries_slot_TITLE:0 "Sekundäranlagen"
+EQ_MOD_SLOT_fixed_ship_anti_air_slot_TITLE:0 "Flak"
+EQ_MOD_SLOT_fixed_ship_torpedo_slot_TITLE:0 "Torpedos"
+EQ_MOD_SLOT_fixed_ship_deck_slot_1_TITLE:0 "Flug Deck 1"
+EQ_MOD_SLOT_fixed_ship_deck_slot_2_TITLE:0 "Flug Deck 2"
+EQ_MOD_SLOT_fixed_ship_fire_control_system_slot_TITLE:0 "Feuerleitsystem"
+EQ_MOD_SLOT_fixed_ship_radar_slot_TITLE:0 "Radar/Sonar"
+EQ_MOD_SLOT_fixed_ship_engine_slot_TITLE:0 "Motor"
+EQ_MOD_SLOT_fixed_ship_armor_slot_TITLE:0 "Panzerung"
+EQ_MOD_SLOT_front_1_custom_slot_TITLE:0 "Vorne 1 Benutzerdefiniert"
+EQ_MOD_SLOT_front_2_custom_slot_TITLE:0 "Vorne 2 Benutzerdefiniert"
+EQ_MOD_SLOT_mid_1_custom_slot_TITLE:0 "Mitte 1 Benutzerdefiniert"
+EQ_MOD_SLOT_mid_2_custom_slot_TITLE:0 "Mitte 2 Benutzerdefiniert"
+EQ_MOD_SLOT_mid_3_custom_slot_TITLE:0 "Mitte 3 Benutzerdefiniert"
+EQ_MOD_SLOT_rear_1_custom_slot_TITLE:0 "Hinten 1 Benutzerdefiniert"
+EQ_MOD_SLOT_rear_2_custom_slot_TITLE:0 "Hinten 2 Benutzerdefiniert"
+EQ_MOD_SLOT_hull_specialization_slot_TITLE:0 "Rumpf Spezialisierung"
+EQ_MOD_SLOT_starboard_1_custom_slot_TITLE:0 "Steuerbord 1 Benutzerdefiniert"
+EQ_MOD_SLOT_starboard_2_custom_slot_TITLE:0 "Steuerbord 2 Benutzerdefiniert"
+EQ_MOD_SLOT_port_1_custom_slot_TITLE:0 "Hafen 1 Benutzerdefiniert"
+EQ_MOD_SLOT_port_2_custom_slot_TITLE:0 "Hafen 2 Benutzerdefiniert"
+
+
+########################################
+### Country Specific Naval Equipment ###
+########################################
+
+#ACHTUNG! DIESE DATEI IST NACH TAG SORTIERT, NICHT NACH NAME
+
+# Fleet Name
+#FLEET_NAME_USA:0 "USS Marine Gruppe $NUMMER$" Vanille-Duplikat
+FLEET_NAME_CSA:0 "CSS Marine Gruppe $NUMMER$"
+#FLEET_NAME_GER:0 "$LAND$ Flotte $NUMMER$" Vanille-Duplikat
+#FLEET_NAME_SOV:0 "$NUMMER$. Sowjetische Flotte" Vanille-Duplikat
+FLEET_NAME_RUS:0 "$NUMMER$. Russische Flotte"
+FLEET_NAME_HOL:0 "$NUMMER$. Flotte"
+FLEET_NAME_OTT:0 "$NUMMER$. Marinekommando"
+FLEET_NAME_SIA:0 "Königlich Thailändische Marine $NUMMER$."
+FLEET_NAME_AUS:0 "$NUMMER$. Flotte"
+FLEET_NAME_NOR:0 "$NUMMER$. Seebezirk"
+
+# Task Force Name
+TASK_FORCE_NAME_OTT:0 "$NUMMER$. Marinekommando"
+
+### Commune of France (COF) ###
+# Tech
+FRA_dd_gun_module_two:0 "Einfach 138.6mm (Mle 1929)"
+FRA_dd_gun_module_three:0 "Zwilling 130mm Mle 1935"
+FRA_dd_gun_module_four:0 "Zwilling 130mm Rev 1942"
+FRA_cruiser_gun_module_two:0 "Drilling 152mm/55 Mle 1930"
+FRA_cruiser_gun_module_three:0 "Drilling 152mm/55 Mle 1930 RPC"
+FRA_cruiser_gun_module_four:0 "Drilling 152mm/55 Selbstlader"
+FRA_fbb_gun_module_two:0 "Vierfach 330mm (Mle 1931)"
+FRA_fbb_gun_module_three:0 "Vierfach 380mm (Mle 1935)"
+FRA_fbb_gun_module_four:0 "Vierfach 406mm (Mle 1941)"
+
+# Module
+FRA_ship_light_battery_1:0 "100mm/45 Mle 1891"
+FRA_ship_light_battery_2:0 "138mm/55 Mle 1910"
+FRA_ship_light_battery_3:0 "138.6mm/50 Mle 1929"
+FRA_ship_light_battery_4:0 "130mm/45 Mle 1935"
+FRA_dp_light_battery:0 "130mm/45 Rev 1942"
+FRA_ship_light_medium_battery_1:0 "138mm/40 Mle 1923"
+FRA_ship_light_medium_battery_2:0 "152mm/55 Mle 1930"
+FRA_ship_light_medium_battery_3:0 "152mm/55 Mle 1930 RPC"
+FRA_ship_light_medium_battery_4:0 "152mm/55 Selbstlader"
+FRA_ship_medium_battery_0:0 "194mm/45 Mle 1902"
+FRA_ship_heavy_battery_0:0 "305mm/45 Mle 1906"
+FRA_ship_heavy_battery_1:0 "340mm/45 Mle 1912"
+FRA_ship_heavy_battery_2:0 "330mm/50 Mle 1931"
+FRA_ship_heavy_battery_3:0 "380mm/45 Mle 1935"
+FRA_ship_heavy_battery_4:0 "406mm/45 Mle 1941"
+
+### German Empire (GER) ###
+# Tech
+GER_dd_gun_module_one:0 "Einfach 10.5cm SK L/45"
+GER_dd_gun_module_two:0 "Zwilling 105mm (SK C/32)"
+GER_dd_gun_module_three:0 "Einfach 127mm (SK C/34)"
+GER_dd_gun_module_four:0 "Zwilling 128mm (SK C/41)"
+GER_cruiser_gun_module_one:0 "Einfach 15cm SK L/45"
+GER_cruiser_gun_module_two:0 "Drilling 15cm/60 SK C/25"
+GER_cruiser_gun_module_three:0 "Zwilling 15cm/55 TBts KC/36T"
+GER_cruiser_gun_module_four:0 "Zwilling 15cm/55 Selbstlader"
+GER_ps_gun_module_one:0 "Zwilling 210cm/45 (SK L/45)"
+GER_ps_gun_module_two:0 "Zwilling 203mm (SK C/32)"
+GER_ps_gun_module_three:0 "Zwilling 203mm Selbstlader"
+GER_ps_gun_module_four:0 "Drilling 203mm (SK C/34)"
+GER_fbb_gun_module_one:0 "Drilling 280mm (SK L/40)"
+GER_fbb_gun_module_two:0 "Drilling 283mm (SK C/28)"
+GER_fbb_gun_module_three:0 "Zwilling 380mm (SK C/34)"
+GER_fbb_gun_module_four:0 "Zwilling 406mm (SK C/34)"
+
+# Module
+GER_ship_light_battery_1:0 "10.5cm SK L/45"
+GER_ship_light_battery_2:0 "10.5cm/45 SK C/32"
+GER_ship_light_battery_3:0 "12.7cm/45 SK C/34"
+GER_ship_light_battery_4:0 "12.7cm/45 SK C/41"
+GER_dp_light_battery:0 "12.7cm/45 SK C/41"
+GER_ship_light_medium_battery_1:0 "15cm/45 SK L/45"
+GER_ship_light_medium_battery_2:0 "15cm/60 SK C/25"
+GER_ship_light_medium_battery_3:0 "15cm/55 TBts KC/36T"
+GER_ship_light_medium_battery_4:0 "15cm/55 Selbstlader"
+GER_ship_medium_battery_0:0 "24 cm K L/35"
+GER_ship_medium_battery_1:0 "21cm/45 SK L/45"
+GER_ship_medium_battery_2:0 "20.3cm/60 SK C/33"
+GER_ship_medium_battery_3:0 "20.3cm/60 Selbstlader"
+GER_ship_medium_battery_4:0 "20.3cm/60 SK C/34"
+GER_ship_heavy_battery_0:0 "30.5cm/40 SK L/50"
+GER_ship_heavy_battery_1:0 "28cm/40 SK L/40"
+GER_ship_heavy_battery_2:0 "28cm/54.5 SK C/34"
+GER_ship_heavy_battery_3:0 "38cm/52 SK C/34"
+GER_ship_heavy_battery_4:0 "40.6cm/52 SK C/34"
+
+### National France (NFA) ###
+# Tech
+NFA_dd_gun_module_two:0 "Einfach 130mm Mle 1924"
+NFA_dd_gun_module_three:0 "Vierfach 130mm Mle 1932"
+NFA_dd_gun_module_four:0 "Vierfach 130mm Rev. 1943"
+NFA_ps_gun_module_three:0 "Drilling 203mm Mle 1934"
+NFA_ps_gun_module_four:0 "Drilling 203mm Selbstlader"
+
+# Module
+NFA_ship_light_battery_1:0 "100mm/45 Mle 1891"
+NFA_ship_light_battery_2:0 "138mm/55 Mle 1910"
+NFA_ship_light_battery_3:0 "130mm/40 Mle 1924"
+NFA_ship_light_battery_4:0 "130mm/45 Mle 1932"
+NFA_dp_light_battery:0 "130mm/45 Rev 1943"
+NFA_ship_medium_battery_0:0 "194mm/45 Mle 1902"
+NFA_ship_medium_battery_1:0 "194mm/50 Mle 1920"
+NFA_ship_medium_battery_2:0 "203mm/50 Mle 1924"
+NFA_ship_medium_battery_3:0 "203mm/55 Mle 1934"
+NFA_ship_medium_battery_4:0 "203mm/55 Selbstlader"
+NFA_ship_heavy_battery_0:0 "305mm/45 Mle 1906"
+NFA_ship_heavy_battery_1:0 "340mm/45 Mle 1912"
+
+### Kingdom of Sweden (SWE) ###
+# Tech
+SWE_cruiser_gun_module_one:0 "Bofors 15.2cm Zwilling Waffenhalterung M03"
+SWE_cruiser_gun_module_two:0 "Bofors 15.2cm Zwilling Waffenhalterung M30"
+SWE_cruiser_gun_module_three:0 "Bofors 15.2cm Zwilling Waffe M42"
+SWE_cruiser_gun_module_four:0 "Bofors 15.2cm Zwilling Waffenhalterung Auto"
+
+# Module
+SWE_ship_light_medium_battery_1:0 "15.2 cm/50 Bofors M03"
+SWE_ship_light_medium_battery_2:0 "15.2 cm/55 Bofors M30"
+SWE_ship_light_medium_battery_3:0 "15.2 cm/53 Bofors M42"
+SWE_ship_light_medium_battery_4:0 "15.5 cm/53 Bofors Auto"

@@ -1,7 +1,7 @@
-l_german:
+﻿l_german:
 
 FACTION_JOINING_ALERT_TITLE:0 "Diplomatische Entwicklung"
-FACTION_JOINING_ALERT_DESC:0 "[faction_member.GetFlag] §Y[faction_member.GetName]§! tratt der §Y[faction_leader.GetFactionName]§ bei!."
+FACTION_JOINING_ALERT_DESC:0 "[faction_member.GetFlag] §Y[faction_member.GetName]§! trat der §Y[faction_leader.GetFactionName]§! bei!"
 
 FACTION_JOINING_CLOSE:0 "Schliessen"
 

@@ -1,4 +1,4 @@
-l_german:
+﻿l_german:
 
 country_capitulated.0.t:0 "[Root.GetNameDefCap] hat kapituliert"
 country_capitulated.0.d_positive_both_no_faction:0 "\n[From.From.GetLeader] hat angekündigt, dass die feige [Root.GetAdjective] -Nation dem Druck der überwältigenden Präsenz von [From.From.GetAdjective] -Kräften im ganzen Land nicht länger standhalten kann. Die Regierung [Root.GetAdjective] hat sich entschieden, aus dem Land zu fliehen und ist ins Exil zu gehen. Ihre Hauptkräfte haben kapituliert und [From.From.GetNameDef] hat jetzt die Kontrolle über ihren Heimatbereich.\n Obwohl der Krieg anderswo weitergeht, ist dies ein großer Sieg für [[From.From.GetNameDef]."
