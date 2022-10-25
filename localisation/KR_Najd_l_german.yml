@@ -357,16 +357,16 @@ saud.152.d:0 "Aufgrund unserer Allianz mit [OMA.GetNameDef] sind wir in einen Kr
 saud.152.a:0 "Oman ist sowieso nichts wert..."
 saud.152.b:0 "Wir werden unsere Verbündeten nicht verraten!"
 
-saud.153.t:0 "[FROM.GetNameDef] bittet um Frieden"
+saud.153.t:0 "[FROM.GetNameDefCap] bittet um Frieden"
 saud.153.d:0 "Aufgrund des Kollaps der [OMA.GetAdjective] Verteidigungen hat ihr Verbündeter [FROM.GetNameDef] nun keinen Halt mehr in Arabien - und ist dadurch nicht länger eine Bedrohung für uns. Leider können auch wir sie in keinster Weise bedrohen oder eine Invasion ihres Landes starten. [FROM.GetNameDef] hat uns nun ein Angebot offeriert: Wenn wir mit ihnen Frieden schließen, werden sie jegliche Beziehungen zu [OMA.GetName] abbrechen."
 saud.153.a:0 "Wir sind der Einigung Arabiens erneut näher gekommen!"
 saud.153.b:0 "Es wird keinen Frieden mit unseren Feinden geben!"
 
-saud.154.t:0 "[From.GetNameDef] wird den Krieg fortführen!"
+saud.154.t:0 "[From.GetNameDefCap] wird den Krieg fortführen!"
 saud.154.d:0 "Der Zusammenbruch der [OMA.GetAdjective] Verteidigungen brachte bei unserer Bevölkerung die Hoffnung mit sich, dass ihre Verbündeten in [FROM.GetNameDef] versuchen würden, ihre Verluste klein zu halten und Frieden mit uns zu schließen. Wie es jedoch scheint, hat Muscat einen Verbündeten gefunden, welcher bereit ist, sich selbst zugunsten dieser kleinen und unbedeutenden Nation ausbluten zu lassen."
 saud.154.a:0 "Dann wird der Krieg noch länger andauern..."
 
-saud.155.t:0 "[From.GetNameDef] lehnt unser Angebot ab!"
+saud.155.t:0 "[From.GetNameDefCap] lehnt unser Angebot ab!"
 saud.155.d:0 "Trotz unseres gütigen Angebots haben die Araber es abgelehnt, Frieden mit ihren 'ungläubigen Feinden' zu schließen."
 saud.155.a:0 "Was?!"
 

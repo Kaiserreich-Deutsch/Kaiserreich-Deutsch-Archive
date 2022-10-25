@@ -240,13 +240,18 @@ amcivwar.24.d.PSA:0 "Die Feinde Amerikas wurden zerstört. Wieder einmal wurde d
 amcivwar.24.d.PSA_ceasefire:0 "Obwohl [ACW_survivor.GetNameDef] noch über die Waffenstillstandslinie existiert, sind die anderen Fraktionen im Bürgerkrieg gefallen und die Kämpfe sind beendet ... zumindest für den Moment. Wir haben eine Verschnaufpause, einen Moment der Ruhe und Besinnung, bevor wir die Waffen ergreifen und das Land wieder unter einem Banner vereinen müssen. Im Moment können sich die Menschen über einen hart verdienten Sieg freuen."
 amcivwar.24.d.NEE:0 "Der Staub hat sich endlich gelegt und es scheint, dass die einzige Fraktion, die im Bürgerkrieg noch übrig ist, [NEE.GetNameDef] ist. Wir müssen die Flagge Amerikas übernehmen und das, was noch übrig ist, wieder aufbauen. Mögen Leute wie MacArthur, Long, Reed und alle anderen in der Hölle verrotten wegen des Chaos, das sie über Amerikas Vermächtnis der Freiheit verwüstet haben."
 amcivwar.24.d.other:0 "Der Staub hat sich endlich gelegt und es scheint, dass der amerikanische Bürgerkrieg mit ... endete, dass niemand mehr stehen blieb. Amerika ist zumindest vorerst nicht mehr."
-amcivwar.24.a:0 "Für immer Solidatirät!" #CSA
-amcivwar.24.b:0 "Das echte Amerika steht immer noch!" #TEX
-amcivwar.24.c:0 "Nieder mit den Verrätern, hoch mit den Sternen!" #USA
-amcivwar.24.d:0 "Dieses Licht der Freiheit wurde nicht gelöscht!" #PSA
-amcivwar.24.e:0 "Es ist endlich vorbei." #other
+#CSA:
+amcivwar.24.a:0 "Solidarität für immer!"
+#TEX:
+amcivwar.24.b:0 "Das wahre Amerika steht noch!"
+#USA:
+amcivwar.24.c:0 "Nieder mit den Verrätern, hoch mit den Sternen!"
+#PSA:
+amcivwar.24.d:0 "Dieses Licht der Freiheit ist noch nicht erloschen!"
+#other:
+amcivwar.24.e:0 "Es ist endlich vorbei."
 
-### CSA Flavor Events ###
+### CSA Flavour Events ###
 amcivwar.30.t:0 "Richtlinie 10: Umverteilung von Sachanlagen"
 amcivwar.30.d:0 "Jetzt, da die Revolution begonnen hat, müssen wir entscheiden, was mit der Bourgeoisie geschehen soll. Die IWW proklamieren, dass wir ihren gesamten Reichtum beschlagnahmen und ihn sofort an die Menschen weitergeben. Die aufstrebende Avantgarde hat ebenfalls ihre sofortige Verhaftung und Hinrichtung gefordert und das Schicksal von Wladimir Lenin als Beispiel für eine von Nachsicht besiegte Revolution angeführt. SPA-Mitglieder der abgewerteten AFL haben zusammen mit mehreren loyalen Progressiven das Leben über den Tod gesucht. Bitten Sie das Zentralkomitee, nur das zu enteignen, was für den Krieg notwendig ist, und ihre materialistischen Wähler bei Laune zu halten. ""
 amcivwar.30.a:0 "Ihr Reichtum und ihr Leben gehören uns!"
@@ -327,7 +332,7 @@ amcivwar.45.a:0 "Bert Acosta"
 amcivwar.45.b:0 "Eddie August Schneider"
 amcivwar.45.c:0 "Pancho Barnes"
 
-### AUS Flavor Events ###
+### AUS Flavour Events ###
 amcivwar.46.t:0 "Lindbergh appelliert an Long"
 amcivwar.46.d:0 "Charles Lindbergh hat ein Treffen zwischen Huey Long und einer Reihe führender Industrieller arrangiert, darunter Henry Ford, Fred Koch und H. L. Hunt. Diese Männer neigen dazu, ihre Fabriken und Raffinerien im Süden zu schließen, um den Anweisungen der Bundesregierung nachzukommen. Stattdessen werden sie von Lindbergh überredet, sich für Huey Long einzusetzen und ihre Geschäftsimperien unter bestimmten Bedingungen in den Staat der amerikanischen Union zu verlegen. Sie fordern Huey Long auf, ihnen in diesen wirtschaftlich schwierigen Zeiten eine politische Ausnahme sowie das Versprechen eines politischen Amtes zu garantieren, sobald der Krieg gewonnen ist. Wenn Long ihrer Forderung zustimmt, wird dies ihnen größeren Einfluss geben und viele seiner Anhänger werden sich fragen, ob er vorhat, seine Ideale zu verraten. Eine Ablehnung in einer solchen Zeit kann sich jedoch als kostspielig erweisen. "
 amcivwar.46.a:0 "Stimmen Sie ihrer Argumentation zu"
@@ -423,7 +428,8 @@ amcivwar.71.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, d
 amcivwar.71.a:0 "Behaltet MacArthur"
 amcivwar.71.b:0 "Omar Bradley"
 amcivwar.71.c:0 "Malin Craig"
-amcivwar.71.e:0 "Walter Smith"
+amcivwar.71.e:0 "George Catlett Marshall Jr."
+amcivwar.71.f:0 "Walter Bedell 'Beetle' Smith"
 
 amcivwar.72.t:0 "Stabschef der Armee"
 amcivwar.72.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, dass wir keinen Armeechef haben, bei verschiedenen politischen und militärischen Führern Besorgnis ausgelöst. So trafen sie sich mit [USA.GETLeader], um einen Chef der Armee zu ernennen, der diesen Krieg gewinnen sollte."
@@ -445,6 +451,7 @@ amcivwar.74.d:0 "Angesichts des bevorstehenden Bürgerkriegs hat die Tatsache, d
 amcivwar.74.a:0 "Carl Andrew Spaatz"
 amcivwar.74.b:0 "Edward Vernon Rickenbacker"
 amcivwar.74.c:0 "Nathan Bedford Forrest III"
+amcivwar.74.e:0 "Henry Harley 'Hap' Arnold"
 
 amcivwar.76.t:0 "Washington ist gefährdet"
 amcivwar.76.d:0 "Washington ist in Gefahr, Verrätern und Rebellen zum Opfer zu fallen, und als solche müssen wir die Stadt verlassen. Militärführer haben mehrere mögliche Städte entworfen, in die wir umziehen könnten - die Frage ist, in welche sollen wir umziehen?"
@@ -850,13 +857,20 @@ amcivwar.527.d.USA:0 "Endlich ist Amerika wieder vereint. Wir strecken uns noch 
 amcivwar.527.d.CSA:0 "Endlich ist ganz Amerika Teil des [Root.GetNameDef]. Die Revolution hat einen großen Sieg errungen und das Volk wurde von den Ketten des Kapitalismus befreit. Alle schwenken die rote Fahne des Sozialismus von Kalifornien nach New York Island. Während die Narben der Revolution überall sind, können wir uns darauf freuen, die Revolution allen zugänglich zu machen. "
 amcivwar.527.d.TEX:0 "Endlich wurde Amerika unter dem Banner von [Root.GetNameDef] vereint. Verräter und angehende Tyrannen haben versucht, diese große Nation zu zerstören und zu korrumpieren, aber wir haben festgehalten und die Kontrolle übernommen. Eine Frage ist jedoch in aufgetaucht jene Gebiete, die ursprünglich nicht mit Huey Long im Bürgerkrieg entstanden sind: Ist dieses Land die Vereinigten Staaten von Amerika oder ist es wirklich [Root.GetNameDef]? Es gibt unter vielen die Sehnsucht, zur Stabilität der Sterne zurückzukehren und Streifen, auch wenn sich die Dinge unwiderruflich geändert haben. Sollten wir sie beschwichtigen und zeigen, dass das ursprünglich geplante America Huey noch existiert? "
 amcivwar.527.d.PSA:0 "Endlich sind die Vereinigten Staaten von Amerika wieder vereint. Der Tyrann MacArthur wurde niedergeschlagen, alle anderen Verräter des Landes, die versuchen, Amerika in etwas zu verwandeln, das nicht besiegt wurde. Das Sternenbanner fliegt jetzt stolz von der Küste zu wissen, dass die Freiheit für alle Amerikaner gesichert ist. "
-amcivwar.527.a:0 "Eine perfektere Vereinigung." #USA/PSA
-amcivwar.527.b:0 "Dieses Land ist dein Land." #CSA
-amcivwar.527.c:0 "Ja! Wir sind die Vereinten Staaten - jetzt und für immer.  §L(Keep map colour)§!" #TEX
-amcivwar.527.d:0 "Ja! Wir sind die Vereinten Staaten - jetzt und für immer.  §L(Switch map colour)§!" #TEX
-amcivwar.527.e:0 "[Root.GetNameDefCap] IST Amerika!" #TEX
-amcivwar.527.f:0 "Vereint - jetzt und für immer.\n§L(Keep map colour)§!" #NEE
-amcivwar.527.g:0 "Vereint - jetzt und für immer..\n§L(Switch map colour)§!" #NEE
+#USA/PSA:
+amcivwar.527.a:0 "Eine perfektere Vereinigung."
+#CSA:
+amcivwar.527.b:0 "Dieses Land ist dein Land."
+#TEX:
+amcivwar.527.c:0 "Ja! Wir sind die Vereinten Staaten - jetzt und für immer.  §L(Kartenfarbe beibehalten)§!"
+#TEX:
+amcivwar.527.d:0 "Ja! Wir sind die Vereinten Staaten - jetzt und für immer.  §L(Kartenfarbe wechseln)§!"
+#TEX:
+amcivwar.527.e:0 "[Root.GetNameDefCap] IST Amerika!"
+#NEE:
+amcivwar.527.f:0 "Vereint - jetzt und für immer.\n§L(Kartenfarbe beibehalten)§!"
+#NEE:
+amcivwar.527.g:0 "Vereint - jetzt und für immer..\n§L(Kartenfarbe wechseln)§!"
 
 ### Sanity Checks ###
 
@@ -1037,10 +1051,15 @@ amcivwar.719.t.USA:0 "Schlag bei Philadelphia"
 amcivwar.719.t.CSA:0 "The Battle of Philadelphia"
 amcivwar.719.d.USA:0 "General MacArthur wusste wie Lee und Howe vor ihm, dass Philadelphia der Schlüssel zum Mittelatlantik war. Komponenten der 3. Infanterie marschierten Anfang dieser Woche über West Chester nach Pennsylvania ein. In Abstimmung mit anderen in Camden versammelten Regimentern und in Havertown versammelten Nationalgardisten begannen sie einen Angriff auf die Innenstadt von Philadelphia und gelangten erfolgreich über die Flüsse Schuylkill und Delaware Ein Versuch, das Bundesgericht und das Frankford Arsenal zu erobern, bevor sich der lokale Straßenwiderstand versammeln könnte, um sie aufzuhalten. Die Operation war bemerkenswert erfolgreich, aber bald war ein sozialistischer Gegenangriff zu spüren, als es den Bundestruppen gelang, die Stadt zu erobern und auf der Ship-to-Shore-Autobahn nach Nordwesten voranzukommen. Es begann ein heftiger Kampf zwischen den Streitkräften von General Butler aus Allentown und General Bowley aus Philadelphia in der Nähe von Lansdale. Es wurde versucht, das Gebiet der Zivilbevölkerung zu räumen, aber bald waren Tausende tot, nachdem Artillerie-Streiks begonnen hatten, und es wurde klar, dass die Rückeroberung von Pennsylvania nicht einfach sein würde.\n\nAlle Splitterfraktionen in der zersplitterten und zerbrochenen Nation haben es getan Angesichts ihrer Chance, offensive Operationen gegen alle konkurrierenden Regierungen zu starten, und von Minnesota bis North Carolina, von New York City bis New Mexico, haben Scharmützel und Unruhen endlich zu Schlachten eskaliert. Allen ist klar, dass der zweite amerikanische Bürgerkrieg begonnen hat. "
 amcivwar.719.d.CSA:0 "General MacArthur wusste, wie schon Lee und Howe vor ihm, dass Philadelphia der Schlüssel zum Mittelatlantik war. Teile der 3. Infanterie drangen Anfang der Woche über West Chester nach Pennsylvania ein und begannen in Koordination mit anderen in Camden versammelten Regimentern und in Havertown versammelten Nationalgardisten einen Angriff auf die Innenstadt von Philadelphia. Die Unionsmitglieder bereiteten die wichtigsten Ost-West-Straßen vor, mit Rückzugslinien, die bis zur Broad Street zurückreichten, kappten die Brücken über den Delaware und den Schuylkill und telefonierten mit General Butlers Truppen in Allentown, um Gegenangriffe zu koordinieren. Während der anfängliche Angriff der Föderation mit wenig Reibung die Main Line hinunter rollte, wurden die Versuche der Föderation, den Fluss in der Nähe der Brücke über die Market Street zu überqueren, durch lokale syndikalistische Aktivitäten erheblich gestört, und schon bald verursachten General Butlers Langstreckengeschütze, die in der Woche zuvor aus dem Frankford Arsenal evakuiert worden waren, Verwüstungen in den Nachschublinien der Föderation. Ein verärgerter Präsident MacArthur hob alle Beschränkungen für seine Truppen in der Region auf, und die Kämpfe wurden immer chaotischer. Nichtsdestotrotz wurden die Streitkräfte der Föderation größtenteils über die Grenze nach Maryland zurückgedrängt. Überall in der zersplitterten und zerbrochenen Nation haben die Splittergruppen ihre Chance gesehen, offensive Operationen gegen alle konkurrierenden Regierungen zu beginnen, und von Minnesota bis North Carolina, von New York City bis New Mexico sind Scharmützel und zivile Unruhen schließlich zu Schlachten eskaliert. Es ist für alle klar, dass der zweite amerikanische Bürgerkrieg begonnen hat."
-amcivwar.719.a:0 "Jetzt oder nie! Krieg - für Amerika!" #USA wins
-amcivwar.719.b:0 "Wir werden zurückkommen! Keine Einschränkungen mehr, wir sind im Krieg!" #USA loses
-amcivwar.719.c:0 "Nutzt unseren Vorsprung! Auf in den Krieg!" #CSA wins
-amcivwar.719.d:0 "Wir müssen New York erreichen, und zwar bald! Zum Kampf!" #CSA loses
+#USA wins:
+amcivwar.719.a:0 "Jetzt oder nie! Krieg - für Amerika!"
+#USA loses:
+amcivwar.719.b:0 "Wir werden zurückkommen! Keine Einschränkungen mehr, wir sind im Krieg!"
+#CSA wins:
+amcivwar.719.c:0 "Nutzt unseren Vorsprung! Auf in den Krieg!"
+#CSA loses:
+amcivwar.719.d:0 "Wir müssen New York erreichen, und zwar bald! Zum Kampf!"
+
 amcivwar.719.e:0 "Wir müssen zuschlagen! Zu den Waffen!"
 
 amcivwar.720.t:0 "General MacArthur macht gegen New England mobil"

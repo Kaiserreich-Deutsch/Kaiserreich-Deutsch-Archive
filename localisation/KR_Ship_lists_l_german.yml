@@ -8,6 +8,7 @@ NAME_THEME_ROYAL_BARGE:0 "Königliche Barkasse"
 NAME_THEME_ROYAL_HOUSES:0 "Königshäuser & Adelige"
 NAME_THEME_MOUNTAINS:0 "Berge"
 NAME_THEME_INSPIRATIONAL:0 "Inspirierend"
+NAME_THEME_STATES_CITIES:0 "Staaten & Städte"
 
 ### Danubian Empire ###
 
@@ -88,6 +89,12 @@ NAME_BEL_CITIES:0 "Urbes"
 NAME_BEL_LEADERSHIP:0 "Verschiedene Führungspersönlichkeiten und große Helden"
 NAME_BEL_REGIONS:0 "Regionen"
 NAME_BEL_CARRIERS:0 "Porte Avions"
+
+### BRA ###
+NAME_THEME_BRA_SUBMARINE_NUMBERED:0 "T-Klasse U-Boot"
+ 
+### CHL ###
+NAME_THEME_CHL_SUBMARINE_NUMBERED:0 "H-Klasse U-Boot"
  
 ### RUS ###
 

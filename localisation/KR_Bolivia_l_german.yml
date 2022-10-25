@@ -25,6 +25,7 @@ BOL_MID_BM:0 "Je nach Ansatz werden wir den §YSchwarzen Montag§! auf unterschi
 BOL_SHIPPIE:0 "Dies wird §Y2 Schiffswerften§! in einem unserer Küstenstaaten hinzufügen"
 BOL_REVENGE:0 "§RDies kann zu einem Krieg mit unseren Nachbarn §Y[CHL.GetNameWithFlag]§! und §Y[PAR.GetNameWithFlag] führen.§! §!\n"
 BOL_ARG:0 "Bolivien ist in den Krieg um den Südkegel gegen die Feinde Argentiniens eingetreten"
+BOL_busch_power:0 "Busch bleibt an der Macht"
 
 ### Decision ###
 BOL_Enact_our_Revenge:0 "Übt unsere Rache"
@@ -306,6 +307,8 @@ BOL_Absolute_State_Control:0 "Absolute staatliche Kontrolle"
 BOL_Absolute_State_Control_desc:0 "Unser Land muss wie eine gut geölte und kalibrierte Uhr funktionieren, wenn wir hoffen, eine weitere Niederlage wie die im Chaco-Krieg zu vermeiden. Wir werden den Einfluss der Regierung in allen Bereichen der Gesellschaft erhöhen und es für jeden Oligarchen oder Sozialisten unmöglich machen, sich unserem Einfluss zu entziehen!"
 BOL_Retake_Chaco:0 "Erobert Chaco zurück"
 BOL_Retake_Chaco_desc:0 "Unsere früheren schwächeren Regierungen, deren Fäden von Oligarchen gezogen wurden, sind für den Verlust des Chaco verantwortlich. Jetzt, da wir unser Land reformiert haben, ist es unsere heilige Pflicht, dieses rechtmäßige bolivianische Land wieder in unseren Staat zurückzubringen. Die Paraguayer werden vor dem bolivianischen Zorn zittern! ¡K'alatakaya Huarikasaya!"	    #Fun fact,my research showed me that this is a motto of the Bolivian Football club 'the Strongest' which offered all of its players and his fanbase as volunteers for the army in the chaco war, and this was the battle cry used before a resounding victory in the Battle of Cañada Strongest. If this is just way out there, you can change this to '¡Viva Bolivia!' but that sounds very generic to me
+BOL_Retake_Jujuy:0 "Erobert Jujuy zurück"
+BOL_Retake_Jujuy_desc:0 "Jujuy ging 1893 an die Argentinier verloren. Dieses Unrecht ist schon zu lange ungesühnt geblieben! Wir werden uns unser rechtmäßiges Land von den Argentiniern zurückholen, auch wenn das bedeutet, dass wir uns ihrer militärischen Macht stellen müssen. Sie mögen stark sein, aber wir haben alle Schritte unternommen, um sicherzustellen, dass wir stärker sind als sie! Vorwärts zum Sieg!"
 BOL_Reclaim_the_Coast:0 "Fordert die Küste zurück"
 BOL_Reclaim_the_Coast_desc:0 "Wir haben unsere Küstenlinie vor langer Zeit gegen Chile verloren. Jetzt sind wir stärker als je zuvor! Und wir haben nicht mehr die lästigen Peruaner, die uns aufhalten! Die Zeit ist gekommen, das zurückzufordern, was uns gehört, und endlich Zugang zur Küste zu bekommen. ¡Mar para Bolivia!"
 BOL_Demand_Acre:0 "Fordert Acre"
@@ -446,13 +449,6 @@ bol.20.b:0 "Wir sind auf einen weiteren Krieg nicht vorbereitet."
 bol.21.t:0 "Der Zinnkönig kehrt nach Hause zurück!"
 bol.21.d:0 "Simon Iturri Patiño, besser bekannt als der Zinnkönig, ist einer der reichsten Menschen der Welt und Besitzer vieler unserer Zinnminen und Bergbauunternehmen, wobei sein Einfluss sogar bis in Gießereien in Kanada und Deutschland reicht. Mit dem Chaco-Krieg und dem Beinahe-Zusammenbruch Boliviens, ging er in die USA, um sich vor den Auswirkungen zu schützen. Aber jetzt, wo sich die Situation in den USA stark verschlechtert hat, ist er wieder nach Bolivien zurückgekehrt."
 bol.21.a:0 "Jetzt kehrt er zurück?"
-
-bol.22.t:0 "Der Weltkrieg erreicht Südamerika!"
-bol.22.d:0 "Initiated by the European conflict between the syndicalist Internationale and the German led Reichspakt, their struggle has reached our continent as well prompting another war in the Southern Cone. This has given us the opportunity to reclaim our lost territories in Paraguay and Chile and should be seized immediately!"
-bol.22.a:0 "Greift nur Paraguay an!"
-bol.22.b:0 "Greift nur Chile an!"
-bol.22.c:0 "Greift Chile und Paraguay an!"
-bol.22.e:0 "Bleibt neutral."
 
 bol.23.t:0 "Die Zukunft von Bolivien"
 bol.23.d:0 "Germán Busch Becerra regiert Bolivien nun seit drei Jahren, und seine Herrschaft ist bestenfalls illegitim, da er 1934 Daniel Salamanca putschen musste, um Präsident zu werden. Dennoch unterstützen viele im Lande Busch, und seine Reformen haben nichts anderes getan, als die Lebensbedingungen und die Stabilität in Bolivien zu verbessern. Während Busch Becerra den demokratischen Prozess respektiert, hat er die Bereitschaft gezeigt, dauerhaft in seiner Rolle als Präsident zu bleiben. Sollten wir Wahlen ausrufen? Oder unsere Verfassung neu schreiben, damit er Präsident auf Lebenszeit wird?"

@@ -1,4 +1,4 @@
-l_german:
+﻿l_german:
 ### Übersetzung von Proho ###
 ### Companies ###
 
@@ -243,7 +243,8 @@ GEA_Focke-Wulf:0 "Focke Wulf Ostasien"
 GEA_Malaiisch_Fluggesellschaft:0 "Malaiische Luft-Reederei"
 GEA_Rumpler_Flugzeugwerke_Ostasien:0 "Rumpler Flugzeugwerke Ostasien"
 GEA_Norddeutscher_Lloyd:0 "Norddeutscher Lloyd Singapur"
-GEA_Saigon_Werft:0 "Saigon Werft" # Scrapped due to lack of icons
+ # Scrapped due to lack of icons:
+GEA_Saigon_Werft:0 "Saigon Werft"
 GEA_Germaniawerft:0 "Germaniawerft Saigon"
 
 ### INC ###
@@ -345,7 +346,7 @@ tangalakis_temax:0 "Tangalakis-Temax"
 ### Hawaii ###
 dole:0 "Hawaiian Pineapple Company"
 university_of_hawaii:0 "University of Hawaii"
-wahiawa_armory:0 "Wahiawa Armoury"
+wahiawa_armory:0 "Wahiawa Armory"
 schofield_barracks:0 "Schofield Barracks"
 ford_hawaii:0 "Ford Hawaii"
 holden_hawaii:0 "Holden Hawaii"
@@ -388,6 +389,7 @@ wilton_fijenoord_PER:0 "Wilton-Fijenoord"
 shabaz_aircraft_manufacturer:0 "Shabaz Aircraft Manufacturer"
 imperial_arms_company:0 "Imperial Arms Company"
 imperial_artillery_company:0 "Imperial Artillery Company"
+ blohm_voss_PER:0 "Blohm & Voss Irān"
 
 ### Ireland ###
 goulding_chemicals:0 "Goulding Chemicals"
@@ -449,7 +451,7 @@ lietuvos_arsenalas:0 "Lietuvos arsenalas"
 lietuvos_gelezinkeliai:0 "Lietuvos geležinkeliai"
 anbo:0 "ANBO"
 nacionaline_artilerijos:0 "Nacionalinės artilerijos dirbtuvės"
-palanga_shipyard:0 "Palangos laivų statyklos"
+ klaipeda_shipyard:0 "Klaipeda Shipyard"
 
 ### Mexico ###
 altos_hornos_mexico:0 "Altos Hornos de México"
@@ -550,7 +552,8 @@ zeytinburnu_fabrika:0 "Zeytinburnu Fabrika-i Hümayun"
 mke_ottoman:0 "MKE Top Fabrikası"
 opel_osmanen:0 "Opel Tophane"
 uzel_traktor:0 "Uzel Traktör Fabrikası"
-hulomsas:0 "Anadolu-Osmanlı Şimendifer Kumpanyası" # HÜLOMSAŞ
+ # HÜLOMSAŞ
+hulomsas:0 "Anadolu-Osmanlı Şimendifer Kumpanyası"
 hurkus:0 "Hürkuş"
 tomtas:0 "TOMTAŞ"
 nuri_demirag_company:0 "Nuri Demirağ"
@@ -566,7 +569,8 @@ basak:0 "Başak Traktör"
 # Turkey - basically OTT's copy besides these 5
 mke_turkey:0 "MKE Top Fabrikası"
 hurkus_turkey:0 "Hürkuş"
-tulomsas:0 "Eskişehir Cer Atölyesi" # TÜLOMSAŞ
+ # TÜLOMSAŞ
+tulomsas:0 "Eskişehir Cer Atölyesi"
 thk_company:0 "Türk Hava Kurumu"
 turkish_airlines_turkey:0 "Türk Hava Yolları"
 
@@ -583,10 +587,12 @@ UNA:0 "Universidad Nacional de Asunción"
 cop:0 "COP"
 ava:0 "AVA"
 fb_radom:0 "FB Radom"
+ fk_warsaw:0 "FK Warsaw"
+ pwu:0 "Państwowe Wytwórnie Uzbrojenia"
 perkun:0 "Perkun"
 zaklady_przemyslowe:0 "Zakłady Przemysłowe Stowarzyszenia Mechaników Polskich"
 cws:0 "CWS"
-pzinz:0 "PZinz"
+pzinz:0 "PZInż"
 pkp:0 "PKP"
 fablok:0 "Fablok"
 pzl:0 "PZL"
@@ -638,7 +644,7 @@ china_aviation_corporation:0 "China National Aviation Corporation"
 eurasia_aviation_corporation:0 "Eurasia Aviation Corporation"
 kiangnan_works:0 "Kiangnan Dock and Engineering Works"
 china_navigation_company:0 "China Merchants Steam Navigation Company"
-aviation_weapons_technical:0 "Aviation Weapons Technology Research Organization"
+aviation_weapons_technical:0 "Aviation Weapons Technology Research Organisation"
 
 ### Republic of Italy ###
 accademia_militare_milano:0 "Accademia Militare di Milano"
@@ -949,22 +955,38 @@ kr_cammell_laird:0 "Cammell Laird Union"
 baltische_schieferol_konsortium:0 "Baltisches Schieferöl-Konsortium"
 funktechnische_fabrik_reval:0 "Funktechnische Fabrik Reval"
 boker_und_co:0 "Böker und Co."
-arsenal_tallinn:0 "Arsenal Tallinn"
+ arsenal_tallinn:0 "Waffenarsenal Reval"
 vairogs:0 "Vairogs"
 rigas_autobusu_fabrika:0 "Rigaer Autobusfabrik"
 sef:0 "SEF"
 liepajas_kara:0 "Libau Military Port Workshops"
 riga_shipyard:0 "Mühlgraben Shipyard"
 
+### Latvia ###
+ boker_und_co_lat:0 "Liepājas Metalurgs"
+ Daugavpils_shot_factory:0 "Daugavpils Skrošu Rūpnīca"
+ vairogs_lat:0 "Vairogs"
+ rigas_autobusu_fabrika_lat:0 "Rīgas Autobusu Fabrika"
+ sef_lat:0 "Valsts Elektrotehniskā Fabrika"
+ liepajas_kara_lat:0 "Liepājas Karaosta Darbnīcas"
+ riga_shipyard_lat:0 "Rīgas Kuģu Būvētava"
+
+### Estonia ###
+ Riigi_Polevkivitoostus:0 "Riigi Põlevkivitööstus"
+ funktechnische_fabrik_reval_est:0 "Raadio-Elektroonika Tehas"
+ arsenal_tallinn_est:0 "Arsenal Tallinn"
+ Raudteevalitsus:0 "Raudteevalitsus"
+ Aviotehas_est:0 "Aviotehas"
+ Vene_Balti_laevaehitustehas:0 "Vene-Balti laevaehitustehas"
+
 ### White Ruthenia ###
-white_ruthenia_state_university:0 "White Ruthenia State University"
+ white_ruthenia_state_university:0 "Belarusian State University"
 gomel_radio_plant:0 "Homel Radio Plant"
-minsk_automobile_plant:0 "Miensk Automotive Factory"
+ minsk_automobile_plant:0 "Miensk Automobile Plant"
 baranovichi_aviation_repair_plant:0 "Baranavičy Aviation Repair Plant"
 pinsk_shipyard:0 "Pinsk Shipyard"
-bsvt:0 "Belspetsvneshtechnika"
-belaz:0 "BelAZ"
-mzkt:0 "MZKT"
+ WHR_mov:0 "Miensk Arms Plant"
+ maaz:0 "Mahilioŭ Automobile Plant"
 belarusian_railway:0 "Belarusian Railway"
 
 ### Albania ###
@@ -977,7 +999,7 @@ pasha_liman_kantjerin:0 "Kanteri i Pashë Alimanit"
 albatros_albania:0 "Albatros Albanien"
 arsenal_ushtria_tirane:0 "Arsenali i Ushtrisë, Tiranë"
 
-### Germany ###
+### Georgia ###
 poti_shipyards:0 "Potis Gemtsashenshi"
 kutaisi_auto:0 "Kutaisis Saavtomobilo Karkhana"
 tbilisi_factory:0 "TSKSA Iaraghis Karkhana"
@@ -1012,21 +1034,21 @@ albatros:0 "Albatros"
 fokker_ger:0 "Fokker"
 kr_dornier:0 "Dornier"
 fieseler_company:0 "Fieseler"
-focke_wulf:0 "Focke Wulf"
+ focke_wulf:0 "Focke-Wulf"
 gothaer_waggonfabrik:0 "Gothaer Waggonfabrik"
 hansa_brandenburg:0 "Hansa-Brandenburg"
 henschel:0 "Henschel"
+ henschel_aircraft:0 "Henschel"
 junkers:0 "Junkers"
 luftschiffbau_zeppelin:0 "Luftschiffbau Zeppelin"
 bfw:0 "Bayerische Flugzeugwerke"
-siemens_schuckert:0 "Siemens-Schuckert"
 friedrichshafen:0 "Flugzeugbau Friedrichshafen"
 blohm_voss:0 "Blohm und Voss"
 germaniawerft:0 "Germaniawerft"
 kaiserliche_werft_wilhelmshaven:0 "Wilhelmshavenwerft"
 schichau_werke:0 "Schichau-Werke"
 vulcan_stettin:0 "Vulkan-Werke Hamburg & Stettin"
-siemens_schuckert2:0 "Siemens-Schukert Verbessert"
+ siemens_schuckert:0 "Siemens-Schuckert"
 
 ### Flanders-Wallonia ###
 cockerill:0 "Cockerill"

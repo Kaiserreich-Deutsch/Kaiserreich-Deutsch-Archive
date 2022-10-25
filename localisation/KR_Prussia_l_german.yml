@@ -1,5 +1,12 @@
 ﻿l_german:
 
+### Moving the Capital ###
+
+ddr.1.t:0 "Eine neue Hauptstadt finden"
+ddr.1.d:0 "Durch die feindliche Besetzung unserer normalen Hauptstadt Berlin sind wir gezwungen, eine Alternative zu wählen."
+ddr.1.a:0 "Königsberg war schon immer unsere Hauptstadt"
+ddr.1.b:0 "Breslau ist eine gute vorübergehende Wahl"
+
 ### Parties ###
 DDR_totalist_party:0 "SE"
 DDR_totalist_party_long:0 "Sozialistische Einheitsplattform"

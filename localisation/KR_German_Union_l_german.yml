@@ -1,4 +1,15 @@
 ﻿l_german:
+###  Übersetzt von proho  ###
+### Renaming Events ###
+
+ gru.1.t:0 "Demokratisierung unserer Verwaltung"
+ gru.1.desc:0 "Um mit dem alten reaktionären Regime zu brechen, müssen wir ihren Einfluss in jedem Winkel unserer neuen Nation beseitigen. Die Verwaltung muss demokratisiert, die Lehrer umerzogen und die Armee umstrukturiert werden. Ein Teil dieses Prozesses ist die Abschaffung der Ehrungen, die sie chauvinistischen Schlächtern wie Otto von Bismarck und Paul von Hindenburg verliehen haben, wobei die zahllosen Bismarck-Gedenktürme überall in unserer Nation sowie die Stadt Hindenburg das beste Beispiel dafür sind. Unser Präsident schlug vor, die Stadt nach Karl Marx zu benennen, während die Einheimischen es vorzogen, den absurden Namen beizubehalten."
+ gru.1.a:0 "Umbenennung zu Ehren von Karl Marx"
+ gru.1.b:0 "Ein Name, der seinen industriellen Hintergrund repräsentiert"
+
+ gru.2.t:0 "Wiederherstellung der alten Ordnung"
+ gru.2.desc:0 "Nachdem wir unsere sozialistischen Feinde besiegt haben, ist es an der Zeit, auch auf lokaler Ebene die Ordnung wiederherzustellen. Ihr Regime hat die Namen der Orte, Straßen und Boulevards, die nach Helden unserer Nation benannt sind, geändert, weil sie als nicht repräsentativ oder konterrevolutionär angesehen wurden. Ihre ursprünglichen Namen sollen wiederhergestellt werden."
+ gru.2.a:0 "Es soll für immer Hindenburg sein"
 
 ### Parties ###
 GRU_totalist_party:0 "BK"

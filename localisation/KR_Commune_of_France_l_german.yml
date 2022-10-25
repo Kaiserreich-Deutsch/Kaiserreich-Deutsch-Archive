@@ -42,11 +42,10 @@ FRA_wave_of_dissent_tooltip:0 "Gewinnt §H$FRA_wave_of_dissent$§! für §H200§
 FRA_communard_spirit:0 "Kommunarder Geist"
 FRA_communard_spirit_desc:0 "Wir sind das Erbe der Pariser Kommune, des ersten sozialistischen Staates, der jemals geschaffen und dann von den republikanischen Reaktionären brutal unterdrückt wurde. Im Jahr 1920 rächten sich die Arbeiter schließlich und stürzten die Militärjunta der 'Partei der Ordnung'. Wir, Söhne und Töchter der Kommunarden, müssen unseren Staat und unseren Geist schützen, wir lassen uns nicht mehr von Tyrannen kommandieren!"
 
-FRA_bad_intel:0 "Ineffizienter Geheimdienst"
-FRA_bad_intel_desc:0 "Seitdem die Partei der Ordnung versucht hat, den Arbeiteraufstand in Frankreich zu ersticken, wird die Idee eines zentralisierten Nachrichtendienstes von vielen als ein Kennzeichen der reaktionären Unterdrückung der sozialen Bewegungen nach dem Weltkrieg angesehen. Infolgedessen beschränken sich die Nachrichtendienste der Kommune auf extrem überprüfte Nachrichtendienstkomitees, um eine Wiederholung dieser Situation zu verhindern."
-
 FRA_to_war_idea:0 "Revanchistisches Aufrüsten"
 FRA_to_war_idea_desc:0 "Unsere Nation muss sich wieder erheben, wenn wir die Imperialisten besiegen wollen!"
+ 
+ FRA_renseignements_generaux_lar:0 "Allgemeine Bemerkungen"
 
 FRA_economic_reforms_anar:0 "Ökonomische Reformen"
 FRA_economic_reforms_anar_desc:0 "Auf der Tagung der Allgemeinen Arbeitsvermittlung 1936 wurden weitreichende Ökonomische Reformen beschlossen. Diese Reformen haben sich bereits spürbar auf unsere Wirtschaft ausgewirkt und dazu beigetragen, sie dynamischer zu machen und zu festigen."
@@ -400,8 +399,6 @@ FRA_scientific_cooperation:0 "Internationale wissenschaftliche Zusammenarbeit"
 FRA_scientific_cooperation_desc:0 "Es ist klar, dass wir unsere eigenen technologischen Entdeckungen nicht einfach für uns behalten können. Während eines Treffens an der alten Universität von Cambridge haben wir beschlossen, einen weltweiten Plan aufzustellen, um die technologischen Fortschritte der sozialistischen Länder zu kombinieren. Einige fordern jedoch einen ehrgeizigeren Plan, der auch industrielle Investitionen einschließt."
 FRA_third_inter_congress:0 "Der Sieges-Kongress"
 FRA_third_inter_congress_desc:0 "Die Verantwortung für die Durchführung des dritten Kongresses ist wieder an uns zurückgefallen, wobei als neuer Ort für diese Aufgabe der Palace Populaire gewählt wurde, wo einst der Louvre voll mit den Plünderungen des französischen Reiches stand. Eines der Themen ist passenderweise die endgültige Befreiung des afrikanischen Kontinents."
-FRA_end_GEX:0 "Das Ende des Kaisers"
-FRA_end_GEX_desc:0 "Afrika hat lange unter Tyrannei und Unterdrückung gelitten. Die Unterdrückung durch seine vielen Könige, die Unterdrückung durch Sklavenhändler und Missionare und schließlich die Unterdrückung durch europäische Kolonisten und Entdecker. Schließlich geben wir Afrika die Freiheit und hoffen, dass wir eines Tages das Unrecht, das ihnen angetan wurde, wieder gutmachen können."
 
 FRA_armee_de_lair:0 "Luftwaffe des Volkes"
 FRA_armee_de_lair_desc:0 "Flugzeuge sind ein seltsamer neuer Aspekt der Kriegsführung. Diese Maschinen sind ziemlich komplex zu handhaben, und die Strafe für das Versagen, richtig zu fliegen, ist offensichtlich. Und doch kann jeder fähige Mann ein Pilot sein. Wir müssen die Reihen der Luftwaffe für Wehrpflichtige öffnen, wie es die Armee und die Marine getan haben. Unsere Luftwaffe wird keinen Mangel an Piloten haben."
@@ -710,15 +707,15 @@ comfrance.87.c:0 "Organisieren Sie eine Division von Freiwilligen."
 comfrance.87.f:0 "Wir können nichts mehr entbehren."
 
 comfrance.90.t:0 "Französische Unterstützung kommt an"
-comfrance.90.d:0 "Unsere französischen Kameraden haben sich bereit erklärt, uns zusätzliche Hilfe zu schicken. Aus Mexiko unter ständiger Luftbedrohung der USA und AUS transportiert, ist eine Ladung Industrieausrüstung und fortschrittliche Werkzeugmaschinen sowie Industrieberater in Chicago eingetroffen."
+comfrance.90.d:0 "Unsere französischen Kameraden haben sich bereit erklärt, uns zusätzliche Hilfe zu schicken. Aus Mexiko unter ständiger Bedrohung aus der Luft transportiert, sind eine Reihe von Industrieausrüstungen und modernen Werkzeugmaschinen sowie Industrieberater in Chicago eingetroffen."
 comfrance.90.a:0 "Danke, Genossen!"
 
 comfrance.91.t:0 "Britische Hilfe kommt an"
-comfrance.91.d:0 "Unsere britischen Kameraden haben zugestimmt, uns zusätzliche Hilfe zu schicken. Aus Mexiko unter ständiger Luftbedrohung durch die USA und die AUS transportiert, ist eine schlagkräftige Staffel britischer Kampfpiloten kürzlich in Chicago eingetroffen und wartet auf unsere Befehle."
+comfrance.91.d:0 "Unsere britischen Kameraden haben zugestimmt, uns zusätzliche Hilfe zu schicken. Ein unter ständiger Luftbedrohung aus Mexiko herbeigeschafftes Geschwader britischer Kampfpiloten ist vor kurzem in Chicago eingetroffen und wartet auf unsere Befehle."
 comfrance.91.a:0 "Danke, Genossen!"
 
 comfrance.94.t:0 "Mexikanische Hilfe kommt an"
-comfrance.94.d:0 "Unsere mexikanischen Kameraden haben zugestimmt, uns zusätzliche Hilfe zu schicken. Unter ständiger Luftbedrohung durch die USA und AUS über die Grenze transportiert, ist eine Waffenlieferung in Illinois für unseren Einsatz angekommen."
+comfrance.94.d:0 "Unsere mexikanischen Kameraden haben zugestimmt, uns zusätzliche Hilfe zu schicken. Unter ständiger Luftbedrohung über die Grenze transportiert, ist eine Waffenlieferung in Illinois eingetroffen, die wir nutzen können."
 comfrance.94.a:0 "Danke, Genossen!"
 
 comfrance.97.t:0 "Tag 3 - Hemingways Rede"

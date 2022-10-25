@@ -1,8 +1,8 @@
 ﻿l_german:
 ### Übersetzt von Proho ###
 ### Opening Event ###
-kr.political.1.t:0 "Kaiserreich Beta 0.17.1 - 'Springtime for Kaiser'('Frühlingszeit für Kaiser')"
-kr.political.1.d:0 "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.17.1 - 'Frühlingszeit für Kaiser' für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\nDer Mod basiert auf der Annahme, dass der Spieler immer alle möglichen Staaten in Friedensverträgen annektiert, also stellen Sie sicher, dass Sie dies tun\nSie können die Häufigkeit von Nachrichtenereignissen ändern, indem Sie das Symbol oben auf der Registerkarte 'Entscheidungen' umschalten\nSie können auswählen, welche Namenssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Menü 'Erfolge' oben rechts ersetzt.\nDenken Sie daran, dass sich dieser Mod noch in der Beta befindet. Erwarten Sie also Fehler, Abstürze und verschiedene Kopfschmerzen\nWenn Sie auf eines dieser Probleme stoßen, ist es eine große Hilfe, es in unserem GitHub-Issue-Tracker zu melden, damit es schneller behoben kann.\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
+kr.political.1.t:0 "Kaiserreich Beta 0.18.1 - 'Forest Brothers'('Wald Brüder')"
+kr.political.1.d:0 "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.18.1 - 'Forest Brothers'('Wald Brüder') für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\nDer Mod basiert auf der Annahme, dass der Spieler immer alle möglichen Staaten in Friedensverträgen annektiert, also stellen Sie sicher, dass Sie dies tun\nSie können die Häufigkeit von Nachrichtenereignissen ändern, indem Sie das Symbol oben auf der Registerkarte 'Entscheidungen' umschalten\nSie können auswählen, welche Namenssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Menü 'Erfolge' oben rechts ersetzt.\nSie können auswählen, welche Benennungssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Errungenschaftsmenü oben rechts ersetzt\nDenken Sie daran, dass sich dieser Mod noch in der Betaphase befindet, daher sind leider Fehler und Abstürze möglich Probleme, diese auf unserem GitHub Issue Tracker zu melden, ist eine große Hilfe und wird sie früher beheben\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
 kr.political.1.a:0 "Da bin ich sicher!"
 
 ### Generic Triggered Events ####
@@ -122,6 +122,20 @@ solidify_control:0 "Kontrolle festigen"
 solidify_control_desc:0 "Einige taktvolle Nutzung der politischen Macht hier und einige Ressourcen dort, und wir werden unsere politischen Hindernisse zu beseitigen; wir werden vielleicht nicht alle loswerden können, aber selbst wenn wir einige loswerden, werden wir unseren Weg frei machen und unsere politische Macht auf lange Sicht verbessern."
 war_propaganda_against_warmonger_desc:0 "Die Nation ruft jeden Mann, jede Frau und jedes Kind auf, zum Kampf gegen [From.GetNameDef] beizutragen!"
 
+debug_decisions:0 "Debug-Entscheidungen"
+ turn_off_plpc_debug:0 "Spielergeführte Konferenzen ausschalten"
+ turn_off_plpc_debug_desc:0 "Dadurch werden spielergeführte Friedenskonferenzen vorübergehend ausgeschaltet - das bedeutet, dass Friedenskonferenzen wie gewohnt ablaufen und KI-Länder nicht aussteigen, wenn ein Spieler beteiligt ist."
+ turn_on_plpc_debug:0 "Spielergeführte Konferenzen einschalten"
+ turn_on_plpc_debug_desc:0 "Damit wird die normale Funktionalität von spielergeführten Friedenskonferenzen wiederhergestellt. KI-Länder werden immer aus Friedenskonferenzen aussteigen, wenn ein Spieler auf der Gewinnerseite beteiligt ist."
+ turn_off_stt_debug:0 "Deaktivieren Sie das Tool zum Übertragen von Staaten und Ländern"
+ turn_off_stt_debug_desc:0 "\n§RDurch Drücken von §Y'ctrl-h'§! können Sie die Oberfläche auch deaktivieren, wenn Sie sie nicht komplett ausschalten möchten.§!"
+ turn_on_stt_debug:0 "Einschalten des Tools für die Übertragung von Staaten und Ländern"
+ KR_player_leads_conferences:0 "§YSpieler Vorrang§! Spielregel für Friedenskonferenzen ist aktiv und §Gaktiviert§!\n"
+ KR_plpc_disable_tt:0 "§YSpieler Vorrang§! Spielregel wird vorübergehend §Rdeaktiviert§!\n"
+ KR_plpc_enable_tt:0 "§YSpieler Vorrang§! Spielregel wird noch einmal §Gaktiviert§!\n"
+ KR_plpc_turned_off:0 "§YSpieler Vorrang§! Spielregel für Friedenskonferenzen ist aktiv, wird aber derzeit §Rdeaktiviert§!\n"
+ stt_highlight_states:0 "Markierte Staaten"
+ 
 ##################
 ### Ideologies ###
 ##################

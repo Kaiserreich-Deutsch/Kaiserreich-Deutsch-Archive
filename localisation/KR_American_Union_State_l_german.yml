@@ -224,7 +224,7 @@ TEX_perfect_democracy_desc:0 "Die ursprüngliche Verfassung sollte die perfekte 
 TEX_the_business_plot:0 "Die Geschäftsverschwörung"
 TEX_the_business_plot_desc:0 "Um den Ruf des Kriegskommittees von der Öffentlichkeit fernzuhalten, haben wir beschlossen, die Fassade des "Arsenal der Republik" im neuen Amerika zu erweitern. Die wiedergeborene Amerikanische Republik wird zu den Grundwerten unserer Gründerväter zurückkehren und der Welt klar sagen, dass Amerika eine Republik und keine Demokratie ist."
 TEX_use_the_fbi:0 "Das FBI nutzen"
-TEX_use_the_fbi_desc:0 "J. Edgar Hoover versteht die Bedürfnisse der neuen amerikanischen Republik gegen Syndikalisten. Die Zusammenarbeit des FBI wird auch populär empfangen, da es Stabilität signalisiert. Wir können darauf vertrauen, dass das FBI Huey Long an den falschen Stellen verhört. Wenn J. Edgar jemals aus der Reihe tritt, wird seine Beziehung zu Clyde Tolson öffentlich bekannt werden."
+TEX_use_the_fbi_desc:0 "J. Edgar Hoover versteht die Notwendigkeit der neuen amerikanischen Republik, sich vor Verrätern zu schützen. Die Zusammenarbeit mit dem FBI wird auch von der Bevölkerung begrüßt, da sie Stabilität signalisiert. [TEX_use_the_fbi_text] Sollte J. Edgar jemals aus der Reihe tanzen, wird seine Beziehung zu Clyde Tolson öffentlich bekannt."
 TEX_alien_and_sedition_act:0 "Der New Alien and Sedition Act"
 TEX_alien_and_sedition_act_desc:0 "Eine der wichtigsten Taten der frühen amerikanischen Republik war der New Alien and Sedition Act, der von Präsident John Adams, einem weisen Staatsmann, verabschiedet wurde. Wir müssen das Gesetz wiederbeleben, um wahre Amerikaner vor syndikalistischen Infiltratoren zu schützen. Erstens ist die Gefährdung der öffentlichen Sicherheit oder der nationalen Integrität ein Grund für Inhaftierung und Abschiebung."
 TEX_cointelpro:0 "COINTELPRO"
@@ -238,7 +238,8 @@ TEX_the_black_chamber_desc:0 "Ein weiteres Sicherheitsziel ist die Wiederbelebun
 TEX_american_nationalism:0 "Amerikanischer Nationalismus"
 TEX_american_nationalism_desc:0 "Der Amerikanische Traum, oder Glaubensbekenntnis, oder sogar Ideal ist der oft beschriebene Klebstoff, der unsere nationale Integrität zusammenhält und bürgerliche Störungen verhindert. Die Kaskade des Scheiterns, die von Hoover verkörpert und von Huey Long umgesetzt wurde, ist jetzt fruchtbar für die amerikanische Republik, den amerikanischen Nationalismus neu zu bepflanzen."
 TEX_the_american_legion:0 "Die Amerikanische Legion"
-TEX_the_american_legion_desc:0 "Das Ende von Huey Long wäre ohne die mutigen Veteranen der Amerikanischen Legion in einer Katastrophe geendet. Es war die Amerikanische Legion unter Moseley, die stand, als die öffentliche Hysterie gegen Syndikalisten wuchs. Es war auch die Amerikanische Legion, die Huey Longs Bodyguards von Minutemen überzeugte, den notwendigen Umweg zu nehmen."
+TEX_the_american_legion_desc:0 "Das Ende von Huey Long wäre ohne die mutigen Veteranen der Amerikanischen Legion in einer Katastrophe geendet. [TEX_american_legion_text] Die Amerikanische Legion sollte ermächtigt werden, zu verhindern, dass Verräter unsere Republik erneut bedrohen."
+
 TEX_nationalize_boy_scouts:0 "Kontrolliert die Pfadfinder"
 TEX_nationalize_boy_scouts_desc:0 "Patriotische Jugendorganisationen gibt es seit Jahrzehnten in Europa. Unsere eigenen Pfadfinder von Amerika sind ein unerschlossener Brunnen der Unterstützung für die amerikanische Republik, um Loyalität in den Amerikanern subtil zu fördern. Das Kriegskommittee ermächtigt die Aneignung der Pfadfinder-Einrichtung, um wahren Republikanismus zu erziehen und zu fördern."
 TEX_fordism:0 "Fordismus"
@@ -252,13 +253,26 @@ TEX_captains_of_industry_desc:0 "Ohne das edle Selbstopfer der Hauptmänner der 
 TEX_industrial_security_act:0 "Arbeitsschutzgesetz"
 TEX_industrial_security_act_desc:0 "Der Bedarf an Sicherheit am Arbeitsplatz war noch nie größer. Der durchschnittliche arbeitende Mann wird von syndikalistischen Infiltratoren, longistischen Provokateuren und föderalistischen Unzufriedenen belagert. Wir müssen den Einsatz von Streikbrechern genehmigen und unsere treuen amerikanischen Legionäre in die neue Nationalgarde integrieren, um schnell auf Industriesabotage reagieren zu können."
 TEX_pass_nira:0 "Nationales Arbeitsbeziehungsgesetz"
-TEX_pass_nira_desc:0 "Eine dauerhafte Lösung für den Arbeitskräftemangel hat sich in Form der damaligen Anordnung von Moseley zur Einrichtung eines nationalen Arbeitsbeziehungsbüros ergeben. Das NLRB wird unfaire Arbeitspraktiken von Gewerkschaften und Unternehmern beseitigen. Der unparteiische Wortlaut der Agentur wurde von Dritten umfassend unterstützt."
+TEX_pass_nira_desc:0 "Eine dauerhafte Lösung für die Arbeitskrise hat sich in Form eines Erlasses von [Root.GetLeader] zur Einrichtung eines Nationalen Büros für Arbeitskontrolle (NLRB) abgezeichnet. Die NLRB wird unlautere Arbeitspraktiken sowohl von Gewerkschaften als auch von Unternehmenseigentümern abstellen. Die unparteiische Formulierung der Behörde hat breite Unterstützung von dritter Seite erhalten."
 TEX_red_scare:0 "Der Rote Schrecken"
-TEX_red_scare_desc:0 "Das FBI hat angekündigt, dass es nach vielen Monaten, in denen es nach Präsident Long gesucht hat, nicht länger als am Leben angesehen werden kann. Der Aufruhr gegen irgendwelche sozialistischen Gruppen, die in Amerika bleiben, ist enorm. Das Kriegskommittee kann kaum mit allen staatlichen Gesetzen Schritt halten, um den Sozialismus aufzuhalten. Die öffentliche Zustimmung für Moseley ist auf einem Allzeithoch."
+TEX_red_scare_desc:0 "[TEX_red_scare_text] Die öffentliche Zustimmung zu [Root.GetLeader] ist so hoch wie noch nie."
 TEX_traditional_values:0 "Traditionelle Werte"
-TEX_traditional_values_desc:0 "Eine Ansprache von Präsident Moseley hat die Veränderungen der letzten dreißig Jahre als die Agenda von Ausländern verurteilt, die Amerikas fleißige Natur zerstören wollten. Die Presse ist gespalten zwischen denen, die Moseley als antisemitische Ente kennen und denen, die wirklich an die amerikanische Republik glauben. Trotzdem, das Publikum liebt es."
+TEX_traditional_values_desc:0 "In einer Ansprache von Präsident [Root.GetLeader] werden die Veränderungen der letzten dreißig Jahre als das Programm von Ausländern bezeichnet, die Amerikas industrielles Wesen zerstören wollten. [TEX_tradition_values_text] Trotzdem liebt die Öffentlichkeit sie."
 TEX_republic_without_democracy:0 "Republik ohne Demokratie"
 TEX_republic_without_democracy_desc:0 "Die amerikanische Öffentlichkeit ist sich nun einig, dass Huey Longs wahre Vision von Amerika die einer Republik ohne Demokratie war. Moseley's Amtszeit wurde wegen der anhaltenden Notlage, die den amerikanischen Kontinent bedroht, um weitere vier Jahre verlängert. Der Amerikanismus in Form des Kriegskommittees sieht, dass es wächst, während der Begriff Oligarchie sein Stigma verliert."
+ 
+### Scripted Loc ###
+ TEX_american_legion_lindbergh:0 "Es war die Amerikanische Legion unter Lindbergh, die sich erhob, um Pelley an der Ausführung seiner bösen Pläne zu hindern."
+ TEX_american_legion_moseley:0 "Es war die Amerikanische Legion unter Moseley, die standhaft blieb, als die öffentliche Hysterie gegen die Syndikalisten zunahm. Es war auch die Amerikanische Legion, die die Leibwächter der Minutemen von Huey Long davon überzeugte, den notwendigen Umweg zu gehen."
+ 
+ TEX_use_the_fbi_lindbergh:0 "Wir können darauf vertrauen, dass das FBI Verräter ausfindig macht, wo immer sie sich verstecken."
+ TEX_use_the_fbi_moseley:0 "Wir können dem FBI vertrauen, dass es an den falschen Stellen nach Huey Long sucht."
+ 
+ TEX_traditional_values_lindbergh:0 "Die Presse unterstützt Lindbergh größtenteils, doch gibt es eine Minderheit, die Lindberghs Antisemitismus misstrauisch gegenübersteht."
+ TEX_traditional_values_moseley:0 "Die Presse ist gespalten zwischen denen, die [RootGetLeader] als Antisemiten-Masche kennen, und denen, die wirklich an Amerika glauben."
+ 
+ TEX_red_scare_lindbergh:0 "Nach der Ankündigung des FBI, dass die Silberne Legion ausreichend gesäubert wurde und unsere Republik nicht mehr bedrohen kann, hat die Öffentlichkeit gefordert, dass ähnliche Maßnahmen gegen Sozialisten ergriffen werden sollten, um sicherzustellen, dass unsere Republik nie wieder in Gefahr ist."
+ TEX_red_scare_moseley:0 "Das FBI hat bekannt gegeben, dass nach vielen Monaten der Suche nach Präsident Long nicht mehr davon ausgegangen werden kann, dass er noch lebt. Der Aufruhr gegen alle in Amerika verbliebenen sozialistischen Gruppen ist enorm. Der Ausschuss für Kriegsbefugnisse kann kaum mit all den staatlichen Gesetzen Schritt halten, die verabschiedet werden, um den Sozialismus zu stoppen."
 
 ### Pelley Path ###
 TEX_mine_have_seen_the_glory:0 "Meine Augen haben den Ruhm gesehen"
@@ -616,7 +630,7 @@ unionstate.8.t:0 "Alle Heil dem Kingfish"
 unionstate.8.d:0 "Huey Long ist aus dem Bürgerkrieg wirklich siegreich hervorgegangen, ohne jemals seine Prinzipien zu kompromittieren. Jetzt, da er den Konflikt gewonnen hat, steht er an der Spitze Amerikas. Mit seinem Sieg hat Long seinen Blick auf diejenigen gelenkt, die von ihm verlangen würden, sich in seiner Notzeit vor ihnen zu prostituieren. Er hat den Minuteman befohlen,sich mit den Verrätern zu befassen, die den Versuch wagen würden, Amerika zu verraten und zu schwächen."
 unionstate.8.a:0 "Der Kingfish ist siegreich!"
 
-### Huey Long Flavor ###
+### Huey Long Flavour ###
 
 unionstate.10.t:0 "Die Präsidentenwahl von [GetYear]"
 unionstate.10.d:0 "Es ist die diesjährige Wahl und Präsident [TEX.GetLeader] ist in Führung und wird mit ziemlicher Sicherheit wiedergewählt werden."
@@ -635,7 +649,7 @@ unionstate.12.b:0 "Mit einem Long kannst du nichts falsch machen"
 
 unionstate.13.t:0 "Die Southern Tenant Farmers Union verbessern"
 unionstate.13.d:0 "Obwohl die Arbeit der Southern Tenant Farmers Union sehr geschätzt wird, ist der Name selbst, der Tausende von Wohnungen bietet, immer noch der Anstoß für Witze. Die Mieter sind verärgert über den Namen ihrer Organisation. Ein Besuch im Büro und ein Nachdruck genügen, um das Chaos zu korrigieren. Während Huey drinn war, beschloss er, andere Teile der neu getauften American Tenant Farmers Union in seine politische Maschine zu integrieren."
-unionstate.13.a:0 "Sagt Hallo zur AFTU"
+unionstate.13.a:0 "Sagt Hallo zur ATFU"
 
 unionstate.14.t:0 "Die Wahrheit über Hugo Black"
 unionstate.14.d:0 "Als der ehrenwerte Hugo Black nach Hueys Sieg ernannt wurde, hatten sich nur wenige damit beschäftigt, seine früheren Verbindungen zu überprüfen. Deshalb schockierte die heutige Zeitung Huey Long so sehr. Ein Expose fand Hugo Blacks Klan-Mitgliedschaft. Hugo Black reagierte auf die Presse mit einer Entschuldigung und sagte, dass seine Mitgliedschaft nur den Grund hatte, um in Alabama gewählt zu werden. Während Blacks Gerichtsakten ihn als Liberalen ausmalen, steht dies direkt im Widerspruch zu Longs Anti-Klan-Kampagne. Sollten wir Hugo Black entlassen?"

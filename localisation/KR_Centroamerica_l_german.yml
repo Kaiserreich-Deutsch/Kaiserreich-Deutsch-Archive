@@ -36,6 +36,9 @@ Forming_Central_America_desc:0 "Die zentralamerikanische Politik kann manchmal s
 CEN_unite_central_america:0 "[CEN_unite_central_america_title]"
 CEN_unite_central_america_desc:0 "[CEN_unite_central_america_description]"
 
+CEN_core_COS_PAN_states:0 "Macht [FROM.GetName] zur Kernprovinz"
+CEN_core_COS_PAN_states_desc:0 "Diese neuen Länder, die näher an der Landenge von Panama liegen, benötigen neue staatliche Institutionen, wenn sie Teil der Konföderation werden sollen"
+
 CEN_unite_central_america_socialist:0 "Gründet Zentralamerika"
 CEN_unite_central_america_socialist_desc:0 "Die Revolution hat Erfolg! Die Fesseln der Militärregierung und diejenigen, die sich dem Sozialismus widersetzen, wurden aus unseren rechtmäßigen Ländern hinausgeworfen und haben nur befreite Länder hinterlassen. Dies wäre der perfekte Zeitpunkt, um ein vereintes Zentralamerika zu schaffen, um den fremden Einfluss für immer abzuwehren."
 
@@ -44,6 +47,9 @@ CEN_unite_central_america_liberal_desc:0 "With the wiping out of the corrupt mil
 
 CEN_unite_central_america_military:0 "Gründet die Zentralamerikanische Republik"
 CEN_unite_central_america_military_desc:0 "Wir stehen jetzt fest über allen anderen als amerikanisch ausgerichtete Militärregierungen, mit den Ideen des Liberalismus und Sozialismus gründlich unterdrückt. Wir können nun eine zentralamerikanische Nation bilden, um sowohl der Nation zu helfen als auch den Amerikanern in ihrer Notlage."
+
+CEN_conflict_escalates_mission:0 "Der Kampf um Zentralamerika"
+CEN_conflict_escalates_mission_desc:0 "Was einst so reichhaltig schien, wird bald der Vergangenheit angehören. Frieden ist etwas, das wir für eine Weile nicht kennen werden, da die gesamte Region in einen Konflikt gerät. Sicher ist, dass sich Zentralamerika für immer verändern wird, und es liegt an uns, es zum Besseren zu verändern. Das Schicksal der Region liegt in der Schwebe..."
 
 CEN_form_ties:0 "Verbindungen mit [FROM.GetNameDef] herstellen"
 CEN_form_ties_desc:0 "[CEN_form_ties_desc_text]"
@@ -63,18 +69,6 @@ CEN_form_ties_ELS_military:0 "Die Diktatur in El Salvador hat es geschafft, ihre
 CEN_form_ties_HON_military:0 "Die neue Herrschaft von Honduras in den 30er Jahren hat es geschafft, sich zu bewahren und den schweren Sturm, den der amerikanische Bürgerkrieg mit sich brachte, zu überstehen. Um eine weitere ähnliche Krise zu verhindern, müssen wir für eine engere Zusammenarbeit zwischen unseren Nationen sorgen."
 CEN_form_ties_NIC_military:0 "Nicaragua hatte es geschafft, im Krieg gegen Honduras den Kürzeren zu ziehen und die exilierte Guardia an die Macht zu bringen. Als eine Art Gratulation sollten wir vielleicht einen Gesandten schicken?"
 
-CEN_support_guatemala_war_revolutionary:0 "Unterstützt die Revolution in Guatemala"
-CEN_support_guatemala_war_revolutionary_desc:0 "Die Militärdiktatur in El Salvador ist in Guatemala eingedrungen, nachdem die Revolution dort erfolgreich war. Wer hier den Sieg davonträgt, entscheidet über das Schicksal des gesamten nördlichen Mittelamerikas, das für den Erfolg der Revolution gegen autokratische Machthaber essentiell ist."
-
-CEN_support_el_salvador_war_revolutionary:0 "Unterstützt die Revolution in El Salvador"
-CEN_support_el_salvador_war_revolutionary_desc:0 "El Salvador hat es geschafft, sich aus den Fängen der Pro-Patria-Partei zu befreien, aber ihre Probleme sind noch nicht vorbei. Guatemala, das immer noch seine Diktatur beibehält, ist in El Salvador einmarschiert und versucht, die revolutionäre Sympathie ein für alle Mal zu unterdrücken."
-
-CEN_support_honduras_war_revolutionary:0 "Unterstützt die Revolution in Guatemala"
-CEN_support_honduras_war_revolutionary_desc:0 "Nicaragua, unter dem Vorwand, ihren "Liberalismus" im kürzlich befreiten Honduras zu verbreiten, ist in diese einmarschiert. Wir müssen sicherstellen, dass diese Verräter in ihrem Bestreben scheitern, sowohl um Sandinos als auch um des Volkes willen."
-
-CEN_support_nicaragua_war_revolutionary:0 "Unterstützt die Revolution in Nicaragua"
-CEN_support_nicaragua_war_revolutionary_desc:0 "Nicaragua hat endlich damit begonnen, sowohl Honduras zu befreien als auch die Überreste seiner Militärregierung zu zerstören. Ihr Erfolg ist hier von größter Bedeutung!"
-
 CEN_found_revolutionary_pact:0 "Gründung der Revolutionären Front"
 CEN_found_revolutionary_pact_desc:0 "Vielen unserer Politiker haben darüber diskutiert und sind zu dem Schluss gekommen, dass wir einen Pakt zwischen den jetzigen und zukünftigen sozialistischen Nationen innerhalb Mittelamerikas gründen müssen, um den Liberalen und Diktatoren entgegenzutreten."
 
@@ -84,8 +78,8 @@ CEN_found_liberal_pact_desc:0 "Die Idee eines Paktes zwischen liberal ausgericht
 CEN_found_military_pact:0 "Gründung der Vorhut des Volkes"
 CEN_found_military_pact_desc:0 "Die Vorhut des Volkes, die die Mittelamerikaner vor äußeren Bedrohungen schützen soll, soll hier gegründet werden und versucht, der Revolution um jeden Preis zu widerstehen."
 
-CEN_join_faction:0 "Tretet der [FROM.GetFactionName] bei"
-CEN_join_faction_desc:0 "[CEN_join_faction_desc_text]"
+CEN_join_faction:0 "Tretet der [ROOT.CEN_join_faction_title] bei"
+CEN_join_faction_desc:0 "[ROOT.CEN_join_faction_desc]"
 CEN_join_faction_desc_socialist:0 "Die Revolutionäre Front wurde von Gleichgesinnten gegründet, die sich zusammenschließen wollen, um den Sozialismus nach Mittelamerika zu bringen. Es ist unsere Aufgabe, uns ihr anzuschließen, um unserer Brüder im Ausland willen."
 CEN_join_faction_desc_liberal:0 "Der liberale Pakt wurde von einem befreundeten demokratischen Land gegründet, das bereit ist, sowohl die Sozialisten als auch die Autokratien im Namen des Volkes zu stürzen."
 CEN_join_faction_desc_military:0 "Die Vorhut des Volkes wurde gegründet, um das Volk vor sich selbst zu schützen, und ist definitiv etwas, dem man sich anschließen sollte."
@@ -301,7 +295,3 @@ cend.11.c:0 "Die Vorhut kann immer noch stark sein."
 cend.34.t:0 "[From.GetNameDefCap] bereitet sich auf den Krieg vor"
 cend.34.desc:0 "[From.GetNameDefCap] droht mit Krieg! Wir müssen sicherstellen, dass wir bereit sind, sie auf dem Feld zu treffen. Wir müssen unsere Nation, unsere Männer und Frauen und alle, die kämpfen können, mobilisieren. Nur wenn wir uns auch vorbereiten, haben wir eine Chance, sie zu besiegen."
 cend.34.a:0 "Wir müssen den Sieg sichern!"
-
-cend.conflict.t:0 "Der finale Konflikt"
-cend.conflict.desc:0 "Was einst so reichhaltig schien, wird bald der Vergangenheit angehören. Frieden ist etwas, das wir für eine Weile nicht kennen werden, da die gesamte Region in einen Konflikt gerät. Sicher ist, dass sich Mittelamerika für immer verändern wird, und es liegt an uns, es zum Besseren zu verändern. Der Krieg ist da."
-cend.conflict.a:0 "Das Schicksal Zentralamerikas hängt in der Schwebe..."

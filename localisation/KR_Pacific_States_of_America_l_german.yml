@@ -215,10 +215,12 @@ PSA_Long_Range_Interceptors:0 "Langstrecken-Abfangjäger"
 PSA_Long_Range_Interceptors_desc:0 "Zwar ist es wichtig, bessere Bomber zu haben, um den Krieg von morgen vor der Haustür des Feindes zu gewinnen, aber diese Bomber können nur selten allein operieren. Sie brauchen eine Eskorte, die in der Lage ist, feindliche Jäger abzuwehren und in einem Stück zurückzukommen. Zu unserem Glück hat sich der Flugzeugdesigner Kelly Johnson mit einem neuen und innovativen Entwurf an uns gewandt: Die P-38, genannt 'The Lightning'."
 
 PSA_Strategic_Bomber_Development:0 "Strategische Bomber-Entwicklung"
-PSA_Strategic_Bomber_Development_desc:0 "Taktische Bomber sind schön und gut, um die Männer am Boden zu unterstützen, aber das wahre Potenzial der Bomber liegt in den strategischen Bombern. Wenn sie durchkommen, liegen feindliche Städte und Industrie in Trümmern, und der Wille des Feindes, den Krieg fortzusetzen, ist gebrochen. Eine große Flotte von strategischen Bombern wird uns sehr mächtig machen." #Intentionally playing up 'The Bomber Always Gets Through' here.
+#Intentionally playing up 'The Bomber Always Gets Through' here.:
+PSA_Strategic_Bomber_Development_desc:0 "Taktische Bomber sind schön und gut, um die Männer am Boden zu unterstützen, aber das wahre Potenzial der Bomber liegt in den strategischen Bombern. Wenn sie durchkommen, liegen feindliche Städte und Industrie in Trümmern, und der Wille des Feindes, den Krieg fortzusetzen, ist gebrochen. Eine große Flotte von strategischen Bombern wird uns sehr mächtig machen."
 
 PSA_Strategic_Disruption:0 "Strategische Bombadierung"
-PSA_Strategic_Disruption_desc:0 "Jetzt, wo wir die Bomber haben, die wir brauchen, müssen wir Theorien und Training entwickeln, um sie optimal zu nutzen. Hap Arnold und die alte Bomber Mafia haben eine solide Grundlage für unsere Theorien gebildet, jetzt werden wir ihre Theorien zu entwickeln und sehen mehr und weiter als sie." #We are as dwarves seated upon the shoulders of giants.
+#We are as dwarves seated upon the shoulders of giants.:
+PSA_Strategic_Disruption_desc:0 "Jetzt, wo wir die Bomber haben, die wir brauchen, müssen wir Theorien und Training entwickeln, um sie optimal zu nutzen. Hap Arnold und die alte Bomber Mafia haben eine solide Grundlage für unsere Theorien gebildet, jetzt werden wir ihre Theorien zu entwickeln und sehen mehr und weiter als sie."
 
 PSA_Expand_The_Bomber_Force:0 "Erweitern Sie die Bomberkräfte"
 PSA_Expand_The_Bomber_Force_desc:0 "Unsere frühen Experimente zur Entwicklung einer Bomber Force haben sich als vielversprechend erwiesen. Jetzt ist es an der Zeit, den Feind in die Knie zu zwingen! Hinterlasst nichts als Schutt und Asche!"
@@ -535,15 +537,6 @@ pacificstates.21.a:0 "Farmer-Labor Party!"
 pacificstates.21.b:0 "Progressive Party!"
 pacificstates.21.c:0 "Republican Party!"
 pacificstates.21.e:0 "Democratic Party!"
-
-pacificstates.29.t:0 "[From.GetNameDefCap] möchte sich mit Japan verbünden"
-pacificstates.29.d:0 "[From.GetNameDefCap] hat einen Botschafter zu einem Treffen mit dem Premierminister entsandt, um eine Allianz zwischen Amerika und Japan anzustreben. Sollten wir das Angebot der Amerikaner annehmen?"
-pacificstates.29.a:0 "Ja, natürlich! Wir heißen sie willkommen."
-pacificstates.29.b:0 "Wir brauchen sie nicht."
-
-pacificstates.30.t:0 "[From.GetNameDefCap] lehnt ab"
-pacificstates.30.d:0 "Die [From.GetAdjective] Regierung hat unsere Anfrage, ihrer Allianz beizutreten, abgelehnt. Vielleicht sind wir für ihre Verhältnisse nicht gut genug oder als Verbündeter unwürdig. So oder so, die Antwort war eindeutig nein."
-pacificstates.30.a:0 "Eine schlechte Entscheidung ihrerseits."
 
 pacificstates.40.t:0 "Ein neues Kapitol für Amerika?"
 pacificstates.40.d:0 "Mit der Wiedervereinigung Amerikas wurde die Frage, was das Kapitol von Amerika sein sollte, vor den Kongress gebracht. Welche Stadt soll der Kongress zur Hauptstadt von Amerika machen?"

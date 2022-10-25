@@ -153,10 +153,10 @@ AUS_russian_threat:0 "Die russische Bedrohung"
 AUS_russian_threat_desc:0 "Der Große Russische Bär hat sich im Osten wieder erhoben und droht nicht nur mit der Rückeroberung des im Weltkrieg verlorenen Landes, sondern auch mit dem Einmarsch in Deutschland selbst. Es besteht wenig Zweifel daran, dass Russland, sollte es mit seinen Zielen Erfolg haben, seine Aufmerksamkeit schließlich auch uns zuwenden wird. Es scheint, dass wir wieder an die Ostfront einmarschieren müssen, ob es uns gefällt oder nicht."
 AUS_reform_faction:0 "Reform des Donau-Adriabunds"
 AUS_reform_faction_desc:0 "Nun, da der Krieg vorbei ist, ist es an der Zeit, die Führung zu unseren eigenen Bedingungen wieder zu übernehmen: als Oberhaupt des Donau-Adriabund-Bündnisses."
-AUS_germany_on_the_ropes:0 "[FRA.GetNameDef] ist zu weit nach Süddeutschland vorgedrungen"
+AUS_germany_on_the_ropes:0 "[FRA.GetNameDefCap] ist zu weit nach Süddeutschland vorgedrungen"
 AUS_syndicalism_winning_Italy:0 "Französische Verbündete haben die Kontrolle über einen Großteil Italiens gewonnen"
-AUS_russia_penetrated_germany:0 "[RUS.GetNameDef] oder ihre Verbündeten haben die Kontrolle über [5.GetName]"
-AUS_poland_fallen_to_russia:0 "[POL.GetNameDef] befindet sich im Reichspakt und ist an [RUS.GetNameDef] gefallen"
+AUS_russia_penetrated_germany:0 "[RUS.GetNameDefCap] oder ihre Verbündeten haben die Kontrolle über [5.GetName]"
+AUS_poland_fallen_to_russia:0 "[POL.GetNameDefCap] befindet sich im Reichspakt und ist an [RUS.GetNameDef] gefallen"
 
 AUS_integration_of_germany:0 "Deutsche Länder integrieren"
 
@@ -167,7 +167,8 @@ endorsing_a_party:0 "die bereits eine Partei unterstützt"
 
 CZE_join_belgrade_pact:0 "Beitritt zum Belgrader Pakt"
 CZE_join_germany:0 "Beitritt zum [GER.GetFactionName]"
-CZE_leave_belgrade_pact:0 "Verlassen des [BPL.GetFactionName]" #auch verwendet von POL, GAL
+ #also used by POL, GAL:
+CZE_leave_belgrade_pact:0 "Verlassen des [BPL.GetFactionName]"
 CZE_form_czechoslovakia:0 "Bildung Tschechoslowakei"
 GAL_unite_with_poland:0 "Vereint mit Polen"
 SER_Ultimatum_To_Illyria:0 "Ultimatum an [FROM.GetNameDef]"
@@ -999,13 +1000,15 @@ ausgleich.new.801.d.germany.main.faction2:0 "Die Truppen der tyrannischen Habsbu
 ausgleich.new.801.a:0 "Wir stimmen ihren Bedingungen zu."
 ausgleich.new.801.b:0 "Nein, wir werden die Habsburger ein für alle Mal vernichten!"
 
-ausgleich.new.802.t:0 "Der Vertrag von [AUS_treaty_name]" #AUS POV
+ #AUS POV
+ausgleich.new.802.t:0 "Der Vertrag von [AUS_treaty_name]"
 ausgleich.new.802.d.germany:0 "Delegierte aus der Habsburgermonarchie und [GER.GetNameDef] trafen sich in Budapest mit Kollegen aus verfeindeten Nationen, um die Friedensbedingungen auszuhandeln. Österreich hat zugestimmt, alle Ansprüche seiner Feinde auf kaiserliche und königliche Länder im Austausch für den Frieden abzutreten. Diese demütigende Niederlage markiert ein neues Kapitel in der habsburgischen Geschichte, da sich Österreich nicht mehr als Großmacht betrachten kann. Es kann jedoch vielleicht retten, was übrig geblieben ist, und die vollständige Demontage seiner Monarchie vermeiden, da es nun unter deutschem Schutz steht."
 ausgleich.new.802.d:0 "Delegierte der Habsburgermonarchie trafen sich in Budapest mit ihren feindlichen Amtskollegen, um die Friedensbedingungen auszuhandeln. Wir haben vereinbart, im Austausch für den Frieden alle Ansprüche, die sie auf kaiserliche und königliche Länder haben, abzutreten. Diese demütigende Niederlage markiert ein neues Kapitel in der Geschichte der Habsburger, da wir uns nicht mehr als Großmacht betrachten können. Aber vielleicht können wir das, was übrig geblieben ist, retten und die vollständige Demontage der Monarchie vermeiden."
 ausgleich.new.802.a:0 "Endlich Frieden."
 ausgleich.new.802.b:0 "Gut, dann ist es erledigt."
 
-ausgleich.new.803.t:0 "Der Vertrag von [AUS_treaty_name]" #SER/ROM/POL/ITA POV
+ #SER/ROM/POL/ITA POV
+ausgleich.new.803.t:0 "Der Vertrag von [AUS_treaty_name]"
 ausgleich.new.803.d.balkan:0 "Delegierte von [Root.GetNameDef] trafen sich in Budapest mit ihren habsburgischen Amtskollegen, um die Friedensbedingungen auszuhandeln. In dem darauf folgenden Vertrag haben die Österreicher alle unsere Ansprüche im Austausch für den Frieden abgetreten. Dies ist in der Tat ein glorreicher Tag, denn der Balkan ist endlich frei von fremder Einmischung und unsere ethnischen Brüder sind endlich wieder mit dem Heimatland vereint."
 ausgleich.new.803.d.germany.balkan:0 "Delegierte von [Root.GetNameDef] trafen sich in Budapest mit ihren deutschen und habsburgischen Amtskollegen, um die Friedensbedingungen auszuhandeln. In dem darauf folgenden Vertrag haben die Österreicher alle unsere Ansprüche - mit Ausnahme jener in den österreichischen Kernländern - im Austausch für den Frieden abgetreten. Dies ist in der Tat ein glorreicher Tag, denn der Balkan ist endlich frei von fremder Einmischung und unsere ethnischen Brüder sind endlich wieder mit dem Heimatland vereint."
 ausgleich.new.803.d.italy:0 "Delegierte von [Root.GetNameDef] trafen sich in Budapest mit ihren habsburgischen Amtskollegen, um die Friedensbedingungen auszuhandeln. In dem darauf folgenden Vertrag haben die Österreicher alle unsere Ansprüche im Austausch für den Frieden abgetreten. Dies ist in der Tat ein glorreicher Tag, denn Italien ist endlich frei vom Stigma unseres Weltkriegsverlustes, und unsere italienischen Brüder sind endlich wieder mit dem Heimatland vereint."
@@ -1023,7 +1026,8 @@ ausgleich.new.805.t:0 "[FROM.GetNameDefCap] Verweigert Frieden"
 ausgleich.new.805.d:0 "Unsere Entscheidung, das Friedensangebot der Österreicher anzunehmen, scheint unsere einstigen Verbündeten in [FROM.GetNameDef] sehr verärgert zu haben. Ihr Botschafter hat unsere Annahme als "Verrat" an der Existenzberechtigung des Paktes erklärt und geschworen, den Krieg bis zum bitteren Ende fortzusetzen. Es scheint, dass unser Bündnis mit [FROM.GetNameDef] am Ende ist."
 ausgleich.new.805.a:0 "Sie werden es bedauern, wenn sich die Österreicher ihnen zuwenden."
 
-ausgleich.new.806.t:0 "Der Vertrag von [AUS_treaty_name]" #global news event
+ #global news event:
+ausgleich.new.806.t:0 "Der Vertrag von [AUS_treaty_name]"
 ausgleich.new.806.d:0 "Für die Habsburgermonarchie beginnt ein neues Kapitel, da ihre Streitkräfte von [AUS_belgrad_pact_leader.GetNameDef] und ihren Verbündeten besiegt wurden. Einst eine der dominierenden Kräfte auf dem Balkan, hat Österreich jahrzehntelang einen kontinuierlichen Niedergang erlebt, und während ihr hohler Sieg im Weltkrieg eine kurze Atempause brachte, hat dieser Krieg das einst stolze Kaiserreich vielleicht endgültig zu Fall gebracht. Die Landkarte des Balkans und Mitteleuropas wurde erneut neu gezeichnet; Österreich kann sich nicht länger als Großmacht betrachten, während seine Nachbarn sich mit ihren nationalen Brüdern wiedervereinigt haben, die einst fest unter habsburgischer Kontrolle standen."
 ausgleich.new.806.d.germany:0 "Für die Habsburgermonarchie beginnt ein neues Kapitel, da ihre Streitkräfte von [AUS_belgrad_pact_leader.GetNameDef] und ihren Verbündeten besiegt wurden. Einst eine der dominierenden Kräfte auf dem Balkan, hat Österreich jahrzehntelang einen kontinuierlichen Niedergang erlebt, und während ihr hohler Sieg im Weltkrieg eine kurze Atempause brachte, hat dieser Krieg das einst stolze Kaiserreich vielleicht endgültig zu Fall gebracht. Die Karte des Balkans und Mitteleuropas wurde noch einmal neu gezeichnet, und Österreich hat sich [GER.GetNameDef] um Schutz gebeten. Es kann nicht länger als Großmacht betrachtet werden und wird sich glücklich schätzen, wenn seine Monarchie nach dieser Demütigung intakt bleibt."
 ausgleich.new.806.a:0 "Österreich ist tief gefallen..."
@@ -1077,8 +1081,8 @@ ausgleich.new.900.t.GAL_secret_deal:0 "Österreichischer Verrat"
 ausgleich.new.900.d.GAL_secret_deal:0 "Beunruhigende Nachrichten aus Wien! Es ist beschlossen worden, dass die Ungarn ihre kroatischen Ländereien zurückerhalten und damit die Versprechen, die sie während des Weltkrieges gegeben haben, einlösen. Sie werden nach Illirya gehen, und da wir wissen, was sie ihnen und Böhmen antun würden, müssen wir unsere polnischen Brüder um Schutz bitten. Sie werden hinter uns her sein, und es ist keine Frage des Ob, sondern des Wann. Wir müssen uns vor Österreich und ihren ungarischen Schoßhündchen schützen, auch wenn das Krieg bedeutet."
 ausgleich.new.900.a:0 "Wir haben keine andere Wahl."
 
-ausgleich.new.9000.t.occupation:0 "[FROM.GetNameDef] Revolten gegen die Besatzung"
-ausgleich.new.9000.t.secret_deal:0 "[FROM.GetNameDef] Aufstände gegen den Illyrischen Krieg"
+ausgleich.new.9000.t.occupation:0 "[FROM.GetNameDefCap] Revolten gegen die Besatzung"
+ausgleich.new.9000.t.secret_deal:0 "[FROM.GetNameDefCap] Aufstände gegen den Illyrischen Krieg"
 ausgleich.new.9000.d.CZE:0 "Die Reaktion aus Prag auf unsere jüngsten Aktionen an der Leitha war von unverhohlenem Zorn geprägt. Die böhmische Regierung hat die Regierung in Wien für illegitim erklärt, den Gouverneur abgesetzt und damit die Personalunion Böhmens mit Österreich beendet, da sie die Aktionen als tyrannisch und als klaren Bruch der Verfassung der Monarchie bezeichnet, dem ihrer Meinung nach auch die Unterwerfung der Krone des Heiligen Wenzel folgen wird. Wir können diese Schritte nur als Verrat der perfiden Tschechen betrachten, und das böhmische Kronland ist in offener Revolte zu betrachten."
 ausgleich.new.9000.d.GAL:0 "Da die Tschechen gegen uns zu den Waffen griffen, hat die Führung Galiziens fälschlicherweise den Schluss gezogen, dass der österreichische Schutz nicht mehr in ihrem Interesse ist, und ist an die polnische Regierung herangetreten, um einzugreifen und Österreichs \"rechtmäßige polnische\" Gebiete zu besetzen und sie vor unseren Zentralisierungsbemühungen zu schützen. Da Warschau die Chance sah, die Teilungen rückgängig zu machen, hat es tatsächlich begonnen, seine Kräfte gegen uns zu mobilisieren."
 ausgleich.new.9000.d.CRO:0 "Mit Ungarn unter Besatzung und den anderen Slawen des Reiches in Aufruhr, haben die Kroaten schließlich auch ihren Zug gemacht, und es ist einer des Verrats. Um die Sache noch beleidigender zu machen, haben sie sich sogar an die Serben gewandt, um ihnen zu Hilfe zu kommen, wodurch der Balkan möglicherweise in unsere inneren Angelegenheiten hineingezogen wird."
@@ -1246,6 +1250,7 @@ aus.tree.4026.d:0 "Ohne sich die Mühe zu machen, ein Gegenangebot zu unterbreit
 aus.tree.4026.a:0 "Nun denn"
 
 ### Country Names ###
+ AUS_totalist:0 "Republik Österreich"
 AUS_totalist_ADJ:0 "österreichisch"
 AUS_totalist_DEF:0 "die Republik Österreich"
 AUS_syndicalist:0 "Republik Österreich"

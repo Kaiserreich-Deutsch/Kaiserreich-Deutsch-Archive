@@ -373,7 +373,8 @@ pact.204.t:0 "[FROM.GetNameDefCap] nimmt teil"
 pact.204.d:0 "Das Außenministerium von [FROM.GetNameDef] hat uns informiert, dass sie am zweiten Belgrader Kongress teilnehmen werden."
 pact.204.a:0 "Exzellent."
 
-pact.205.t:0 "Die Gesandten kommen an" #use GetCongressMembers for the list
+#use GetCongressMembers for the list:
+pact.205.t:0 "Die Gesandten kommen an"
 pact.205.d:0 "Heute hat sich eine Schar von Diplomaten, Generälen, Beobachtern und Politikern in Belgrad versammelt, um die Eröffnungszeremonie des Zweiten Belgrader Kongresses miterleben zu können. In einer kurzen Ansprache dankte der Premierminister allen Gesandten dafür, dass sie heute hier erschienen sind und hat daraufhin auf unseren baldigen Sieg über unsere gemeinsamen Feinde in Wien angestoßen, welcher laut ihm unausweichlich ist. Morgen beginnen die Verhandlungen, wem welches Land zugesprochen wird und welche Ansprüche durchgesetzt werden können, heute wird jedoch erst einmal dieses nur selten erreichte Level der internationalen Einigkeit gefeiert!"
 pact.205.a:0 "Möge der Kongress beginnen!"
 

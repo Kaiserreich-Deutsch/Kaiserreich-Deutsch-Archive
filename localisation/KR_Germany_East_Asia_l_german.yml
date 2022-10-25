@@ -136,7 +136,7 @@ GEA_air1:0 "Singapur Fliegerkorps"
 GEA_air1_desc:0 "Unsere derzeitigen Luftstreitkräfte bestehen vollständig aus unserer Marinefliegerabteilung. Wir sollten versuchen, zusätzliche Piloten für eine landgestützte Luftwaffe zu finden und auszubilden."
 GEA_air2:0 "[744.GetName] Flugplätze"
 GEA_air2_desc:0 "[744.GetName], die wir uns mit der AOG teilen, ist die perfekte Position, von der aus wir unsere Luftmacht über die gesamte Region ausbreiten können. Theoretisch sind wir in der Lage, Peking, die Mandschurei und sogar Japan anzugreifen, alles von einer Basis aus. Wir sollten nun versuchen, sie zu erweitern, um diese Optionen zu erleichtern."
-GEA_air3:0 "Luftübungen"
+GEA_air3:0 "Luftfahrt Berater"
 GEA_air3_desc:0 "Unsere Piloten müssen unter den bestmöglichen Bedingungen für unsere Bedürfnisse trainiert werden. Wir werden Luftkämpfe über Tsingtau veranstalten, um unseren Rivalen zu zeigen, dass wir es ernst meinen."
 GEA_air4:0 "Focke-Wulf Tochtergesellschaft Ostasien"
 GEA_air4_desc:0 "Focke-Wulf hat sein Interesse bekundet, eine ostasiatische Tochtergesellschaft zu eröffnen, um von unseren lokalen Arbeitskräften und Ressourcen zu profitieren. Wir sollten sie bei diesem Vorhaben voll unterstützen."
@@ -248,7 +248,7 @@ GEA_pimp_the_concessions_desc:0 "Wenn der deutsche Einfluss in Nanjing ein akzep
 ### Events ###
 # Introduction event
 Ostasien.0.t:0 "Perle des Orients"
-Ostasien.0.d:0 "Seit dem Zusammenbruch Großbritanniens 1926 ist die Kaiserliche Marine der unangefochtene Herr der östlichen Meere und der Hüter der westlichen Ordnung im Orient. Der Rückzug der britischen "China-Station" nach Australasien ließ ihre asiatischen Kolonien und Konzessionen anfällig für einheimische sozialistische Aufstände und bedurfte des Schutzes, den nur Deutschland bieten konnte, das eine Reihe von Kolonien und Konzessionen von Suez bis Tsingtau vervollständigte. Diese glorreiche Leistung hatte jedoch ihren Preis.\n\nUnsere Expansion im Osten war ungewöhnlich in ihrer Schnelligkeit und ihrem Ausmaß und brachte unsere Jurisdiktion über eine vielfältige und komplizierte Reihe von Kolonien, die von ihrer Metropole getrennt waren; gezwungen, unsere Überlegenheit anzuerkennen, und doch allzu byzantinisch, um sie zu rekonstruieren oder völlig neu zu ordnen, damit sie nicht zusammenbrechen und unsere Verwaltung mit sich bringen. So existiert Deutsch-Ostasien nicht als Kolonie oder gar formell als Behörde, sondern stattdessen als eine Jurisdiktion; eine Ausdehnung des Territoriums, in dem die relativ unparteiische Admiralität gleichzeitig lokale Interessen ausgleichen, sich mit unterschiedlichen Kolonialsystemen auseinandersetzen und den Schutz des Ganzen sicherstellen muss.\n\nTrotz unserer Dominanz bleibt Japan eine Bedrohung, entschlossen wie eh und je, uns aus dem Osten zu verdrängen und ihn für sich zu beanspruchen; unsere tapferen Soldaten starren auf die Gesandtschaftsstädte herab, und unsere ruhmreichen Schlachtschiffe wachen über die Meere.\n\nWenn man über die internen Schwierigkeiten hinwegschaut, könnte es noch zu einer Abrechnung kommen, und es ist die Pflicht der Admiralität, dafür zu sorgen, dass sie bereit ist, wenn die Zeit gekommen ist."
+Ostasien.0.d:0 "Seit dem Zusammenbruch Großbritanniens 1926 ist die Kaiserliche Marine der unangefochtene Herr der östlichen Meere und der Hüter der westlichen Ordnung im Orient. Der Rückzug der britischen "China-Station" nach Australasien ließ ihre asiatischen Kolonien und Konzessionen anfällig für einheimische sozialistische Aufstände und bedurfte des Schutzes, den nur Deutschland bieten konnte, das eine Reihe von Kolonien und Konzessionen von Ceylon bis Tsingtau vervollständigte. Diese glorreiche Leistung hatte jedoch ihren Preis.\n\nUnsere Expansion im Osten war ungewöhnlich in ihrer Schnelligkeit und ihrem Ausmaß und brachte unsere Jurisdiktion über eine vielfältige und komplizierte Reihe von Kolonien, die von ihrer Metropole getrennt waren; gezwungen, unsere Überlegenheit anzuerkennen, und doch allzu byzantinisch, um sie zu rekonstruieren oder völlig neu zu ordnen, damit sie nicht zusammenbrechen und unsere Verwaltung mit sich bringen. So existiert Deutsch-Ostasien nicht als Kolonie oder gar formell als Behörde, sondern stattdessen als eine Jurisdiktion; eine Ausdehnung des Territoriums, in dem die relativ unparteiische Admiralität gleichzeitig lokale Interessen ausgleichen, sich mit unterschiedlichen Kolonialsystemen auseinandersetzen und den Schutz des Ganzen sicherstellen muss.\n\nTrotz unserer Dominanz bleibt Japan eine Bedrohung, entschlossen wie eh und je, uns aus dem Osten zu verdrängen und ihn für sich zu beanspruchen; unsere tapferen Soldaten starren auf die Gesandtschaftsstädte herab, und unsere ruhmreichen Schlachtschiffe wachen über die Meere.\n\nWenn man über die internen Schwierigkeiten hinwegschaut, könnte es noch zu einer Abrechnung kommen, und es ist die Pflicht der Admiralität, dafür zu sorgen, dass sie bereit ist, wenn die Zeit gekommen ist."
 Ostasien.0.a:0 "Sehr Gut!"
 Ostasien.0.b:0 "Was ist mit China?"
 
@@ -280,12 +280,14 @@ Ostasien.6.d:0 "Heute haben einige tonkinische Garnisonen in Yen-Bai, einem Mili
 Ostasien.6.a:0 "Konzentriert unsere Kräfte, um diese Banditen zu vernichten!"
 Ostasien.6.b:0 "Erklären Sie das Kriegsrecht in ganz Indochina!"
 
-Ostasien.7.t:0 "Eine indochinesische Tragödie" # FRA
+ # FRA
+Ostasien.7.t:0 "Eine indochinesische Tragödie"
 Ostasien.7.d:0 ""Viet-Nam! Viet-Nam! Viet-Nam! Heimatland des Südens! Dreizehn Mal hörte ich den Aufschrei vor der Guillotine von Yen-Bai. Dreizehn zum Tode verurteilte Männer schrien ihn, einer nach dem anderen, zwei Meter davon entfernt, das Schafott zu besteigen."\n\n— Der französische Journalist Louis Roubaud wurde Zeuge der jüngsten brutalen deutschen Niederschlagung in Indochina, unserer ehemaligen Kolonie und der aktuellen Bastion des deutschen Kolonialismus im Fernen Osten. General André Marty, ein enger Freund des verstorbenen indochinesischen Revolutionärs Ho Chi Minh, sprach sich für eine Intervention in Indochina aus. Seit dem Ende des Weltkrieges sind Tausende von indochinesischen Studenten, Soldaten und Arbeitern in Frankreich geblieben und zu überzeugten Revolutionären geworden. Wenn wir sie mit genügend Waffen zurückschicken, können sie einen Aufstand in Cochinchina organisieren. Das könnte das deutsche Kolonialreich destabilisieren und der Weltrevolution dienen."
 Ostasien.7.a:0 "Bon voyage, indochinesische Kameraden!"
 Ostasien.7.b:0 "Wir sind nicht das moderne Pigneau de Behaine."
 
-Ostasien.8.t:0 "Eine indochinesische Tragödie" # HND
+ # HND
+Ostasien.8.t:0 "Eine indochinesische Tragödie"
 Ostasien.8.d:0 ""Vietnam! Viet Nam! Viet Nam! Heimatland des Südens! Dreizehn Mal hörte ich den Aufschrei vor der Guillotine von Yen-Bai. Dreizehn zum Tode verurteilte Männer schrien ihn, einer nach dem anderen, zwei Meter davon entfernt, das Schafott zu besteigen."\n\n- Der französische Journalist Louis Roubaud wurde Zeuge des jüngsten brutalen deutschen Vorgehens in Indochina, der Bastion des deutschen Kolonialismus im Fernen Osten. Jetzt bitten die indochinesischen Revolutionäre in Kalkutta um Unterstützung. Wenn wir Ausrüstung und Freiwillige schicken, während deutsche Polizei und Gendarmen in Tonkin beschäftigt sind, können die indochinesischen Revolutionäre einen Aufstand in Cochinchina organisieren. Dadurch könnte das deutsche Kolonialreich destabilisiert werden. Dies wird ein wichtiger Schritt in unserem internationalen Revolutionsprojekt sein."
 Ostasien.8.a:0 "Senden Sie unsere Hilfe."
 Ostasien.8.b:0 "Wir sind nicht interessiert."
@@ -363,7 +365,8 @@ Ostasien.23.t:0 "Eskalation des Krieges in Indochina"
 Ostasien.23.d:0 "Da das Deutsche Reich seine Hauptstreitmacht auf die indochinesische Halbinsel verlegt hat, ist der Widerstandskrieg auf ein noch nie dagewesenes Niveau eskaliert! Aber wir werden siegen, denn die gerechte Sache der Befreiung ist unbesiegbar. Es wird auch gemunkelt, dass andere Großmächte versuchen, die indochinesische Halbinsel in einen Sumpf für Deutschland zu verwandeln..."
 Ostasien.23.a:0 "Kämpft!"
 
-Ostasien.25.t:0 "Bao Dai Lösung" # Extra
+ # Extra
+Ostasien.25.t:0 "Bao Dai Lösung"
 Ostasien.25.d:0 "Nachdem Cochinchina an die Viet Minh gefallen ist und sich überall Guerillas erheben, befindet sich ganz Indochina im Ausnahmezustand. Lokale Eliten und antisyndikalistische Nationalisten haben sich hinter Kaiser Bao Dai geschart und schlagen eine Lösung vor: Wenn wir den Protektoratsvertrag einhalten, was bedeutet, dass wir der Nguyen-Dynastie sowohl in Annam als auch in Tonkin größere Autonomie gewähren, werden sie helfen, die ländlichen Gebiete zu befrieden, lokale Ressourcen zu mobilisieren und die Rebellen zu besiegen. Andernfalls wird die vorherrschende antikolonialistische Stimmung den Viet Minh einen Vorteil verschaffen. Bao Dais Schreiben endet unheilvoll: Wenn Deutschland nicht auf den vietnamesischen Nationalismus reagiere, "wird jedes Dorf ein Nest des Widerstands sein, jeder ehemalige Kollaborateur ein Feind, und Ihre Beamten und Kolonisten werden selbst versuchen, diese Atmosphäre zu verlassen, die sie ersticken wird.""
 Ostasien.25.b:0 "Wir können das selbst regeln."
 Ostasien.25.a:0 "Wir brauchen seine Hilfe."
@@ -399,7 +402,7 @@ Ostasien.35.b:0 "Versuchen Sie wenigstens zu differenzieren..."
 Ostasien.35.a:0 "Schießt auf alles, was sich bewegt!"
 
 Ostasien.40.t:0 "Mittelafrikanische Berater akquirieren"
-Ostasien.40.d:0 "Mittelafrika ist eine Art Schwesterprojekt, wir beide verteidigen das Kaiserreich gegen äußere Feinde und aufmüpfige Untertanen, also ist es nur vernünftig, wenn wir unsere Beziehungen stärken. Der Großadmiral hat beschlossen, mittelafrikanische Berater anzuheuern, in der Hoffnung, dass sie unseren Kampftruppen nützen und unsere Aufstandsbekämpfung verstärken"
+Ostasien.40.d:0 "Mittelafrika ist eine Art Schwesterprojekt, wir beide verteidigen das Kaiserreich gegen äußere Feinde und aufmüpfige Untertanen, also ist es nur vernünftig, wenn wir unsere Beziehungen stärken. Der Großadmiral hat beschlossen, mittelafrikanische Berater einzustellen, in der Hoffnung, dass sie unseren Streitkräften nützen und unsere Aufstandsbekämpfung verstärken werden."
 Ostasien.40.a:0 "Ich frage mich, ob deren Kannibalen schlimmer sind als unsere?"
 
 Ostasien.41.t:0 "Eine Militärdelegation aus Mittelafrika"
@@ -526,6 +529,17 @@ Ostasien.212.a:0 "Wir werden ihr Leichtschiff-Design einbeziehen."
 Ostasien.212.b:0 "Wir können ihre Erfahrung mit Kriegsschiffen nutzen."
 Ostasien.212.c:0 "Ein ständiger Marineattaché wäre von Vorteil."
 
+ Ostasien.213.t:0 "Deutsche Unterstützung verloren"
+ #for pro-German QIE:
+ Ostasien.213.d.QIE:0 "Die deutsche ostasiatische Flotte, der Stolz des Deutschen Reiches und ein Symbol der deutschen militärischen und maritimen Stärke im Pazifik, ist gefallen. Mit dem Zusammenbruch von Deutsch-Ostasien werden die verbliebenen deutschen Berater, Techniker und Experten in China zurückgerufen, da sie keinen Anreiz mehr haben, in Asien zu bleiben. Dies stärkt zwar unsere nationale Unabhängigkeit und beseitigt unsere Abhängigkeit von Deutschland, bedeutet aber auch, dass die deutsch-chinesische Zusammenarbeit bis auf Weiteres beendet sein wird. Wir werden zwar weiterhin herzliche und freundschaftliche Beziehungen zu Deutschland unterhalten, aber wir werden nicht mehr in den Genuss der Vorteile kommen, die mit der Angleichung an Deutschland verbunden sind, und wir werden daher unseren eigenen Weg gehen müssen. Dank der Zusammenarbeit haben wir unsere Streitkräfte und unsere Wirtschaft erfolgreich modernisiert, aber alles muss einmal ein Ende haben."
+ #for pro-German Zhili SZC:
+ Ostasien.213.d.SZC:0 "Die deutsche ostasiatische Flotte, der Stolz des Deutschen Reiches und ein Symbol der deutschen militärischen und maritimen Stärke im Pazifik, ist gefallen. Mit dem Zusammenbruch von Deutsch-Ostasien werden die verbliebenen deutschen Berater, Techniker und Experten in China zurückgerufen, da sie keinen Anreiz mehr haben, in Asien zu bleiben. Dies stärkt zwar unsere nationale Unabhängigkeit und beseitigt unsere Abhängigkeit von Deutschland, bedeutet aber auch, dass die deutsch-chinesische Zusammenarbeit bis auf Weiteres beendet sein wird. Wir werden zwar weiterhin herzliche und freundschaftliche Beziehungen zu Deutschland unterhalten, aber wir werden nicht mehr in den Genuss der Vorteile kommen, die mit der Angleichung an Deutschland verbunden sind, und wir werden daher unseren eigenen Weg gehen müssen. Dank der Zusammenarbeit haben wir unsere Streitkräfte und unsere Wirtschaft erfolgreich modernisiert, aber alles muss einmal ein Ende haben."
+ #for Zhongchang SQI:
+ Ostasien.213.d.SQI:0 "Die deutsche ostasiatische Flotte, der Stolz des Deutschen Reiches und ein Symbol der deutschen militärischen und maritimen Stärke im Pazifik, ist gefallen. Mit dem Zusammenbruch von Deutsch-Ostasien werden die verbliebenen deutschen Berater, Techniker und Experten in China zurückgerufen, da sie keinen Anreiz mehr haben, in Asien zu bleiben. Dies stärkt zwar unsere nationale Unabhängigkeit und beseitigt unsere Abhängigkeit von Deutschland, bedeutet aber auch, dass die deutsch-chinesische Zusammenarbeit bis auf Weiteres beendet sein wird. Wir werden zwar weiterhin herzliche und freundschaftliche Beziehungen zu Deutschland unterhalten, aber wir werden nicht mehr in den Genuss der Vorteile kommen, die mit der Angleichung an Deutschland verbunden sind, und wir werden daher unseren eigenen Weg gehen müssen. Dank der Zusammenarbeit haben wir unsere Streitkräfte und unsere Wirtschaft erfolgreich modernisiert, aber alles muss einmal ein Ende haben."
+ #for LEP:
+ Ostasien.213.d.LEP:0 "Die deutsche ostasiatische Flotte, der Stolz des Deutschen Reiches und ein Symbol der deutschen militärischen und maritimen Stärke im Pazifik, ist gefallen. Mit dem Zusammenbruch von Deutsch-Ostasien werden die verbliebenen deutschen Berater, Techniker und Experten in China zurückgerufen, da sie keinen Anreiz mehr haben, in Asien zu bleiben. Dies stärkt zwar unsere nationale Unabhängigkeit und beseitigt unsere Abhängigkeit von Deutschland, bedeutet aber auch, dass die deutsch-chinesische Zusammenarbeit bis auf Weiteres beendet sein wird. Wir werden zwar weiterhin herzliche und freundschaftliche Beziehungen zu Deutschland unterhalten, aber wir werden nicht mehr in den Genuss der Vorteile kommen, die mit der Angleichung an Deutschland verbunden sind, und wir werden daher unseren eigenen Weg gehen müssen. Dank der Zusammenarbeit haben wir unsere Streitkräfte und unsere Wirtschaft erfolgreich modernisiert, aber alles muss einmal ein Ende haben."
+ Ostasien.213.a:0 "Eine Ära endet... eine neue beginnt"
+
 #decisions
 GEA_indochina_war_decisions:0 "Der Indochinakrieg"
 GEA_indochina_war_decisions_desc:0 "Der indochinesische Aufstand hat sich zu einem ausgewachsenen Krieg ausgeweitet. Der Krieg gegen die Vietminh-Aufständischen hat jedoch keine konkrete Front. Überall ist eine Frontlinie und jeder Bauer, der einen Reishut trägt, könnte ein Vietminh sein. Wir müssen alles tun, was wir können, um den Sieg des Kaiserreichs zu sichern.\n\nGeschätzte §YAufstandsstärke§! in Indochina: §R[?INC.guerilla_activity|-0]§!\n"
@@ -560,11 +574,13 @@ GEA_give_guns_to_lep:0 "Gebt ihnen Waffen"
 GEA_give_guns_to_lep_desc:0 "Wir werden dafür sorgen, dass eine beträchtliche Ladung deutscher Ausrüstung an die schlecht ausgerüsteten Truppen der Nanjing-Regierung geschickt wird, um hoffentlich das Gleichgewicht zu ihren Gunsten zu beeinflussen."
 
 GEA_development_idea:0 "Bergbauarbeiten"
-GEA_develop_aluminum_deposits:0 "Entwicklung des Bauxitabbaus in [GetNameGEAJohore]" #Änderung auf die deutsche Schreibweise 'Johore' für Lore-Konsistenz
+ #Änderung auf die deutsche Schreibweise 'Johore' für Lore-Konsistenz
+GEA_develop_aluminum_deposits:0 "Entwicklung des Bauxitabbaus in [GetNameGEAJohore]"
 GEA_develop_aluminum_deposits_desc:0 "Unsere Prospektoren haben reiche Bauxitvorkommen im Bundesstaat [GetNameGEAJohore] entdeckt, die sich perfekt für die Herstellung von Aluminium eignen. Während die anfänglichen Kosten für den Abbau erheblich sein werden, ist unsere prognostizierte Tonnage den Aufwand wert."
 GEA_develop_aluminum_deposits_wtt:0 "Entwicklung des Bauxitabbaus in [GetNameGEAJohore]"
 GEA_develop_aluminum_deposits_wtt_desc:0 "Unsere Prospektoren haben reiche Bauxitvorkommen im Bundesstaat [GetNameGEAJohore] entdeckt, die sich perfekt für die Herstellung von Aluminium eignen. Während die anfänglichen Kosten für den Abbau erheblich sein werden, ist unsere prognostizierte Tonnage den Aufwand wert."
-GEA_develop_sarawak_oil:0 "Ölförderung in Sarawak" #Änderung auf die deutsche Schreibweise 'Johore' für Lore-Konsistenz
+ #Änderung auf die deutsche Schreibweise 'Johore' für Lore-Konsistenz
+GEA_develop_sarawak_oil:0 "Ölförderung in Sarawak"
 GEA_develop_sarawak_oil_desc:0 "Unser Ölverbrauch ist derzeit nicht in der Lage, unsere Flotte im Falle eines langfristigen Marineeinsatzes zu versorgen. Durch die Erhöhung unserer lokalen Ölproduktion in Borneo können wir jedoch beginnen, eine Reserve zu horten, um Treibstoffengpässe zu vermeiden."
 GEA_develop_sarawak_oil_wtt:0 "Ölförderung in Sarawak"
 GEA_develop_sarawak_oil_wtt_desc:0 "Unser Ölverbrauch ist derzeit nicht in der Lage, unsere Flotte im Falle eines langfristigen Marineeinsatzes zu versorgen. Durch die Erhöhung unserer lokalen Ölproduktion in Borneo können wir jedoch beginnen, eine Reserve zu horten, um Treibstoffengpässe zu vermeiden."

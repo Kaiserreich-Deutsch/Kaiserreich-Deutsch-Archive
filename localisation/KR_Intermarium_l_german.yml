@@ -9,6 +9,11 @@ mie.0.a:0 "Großartig!"
 MIE_decisions:0 "Osteuropäische Verteidigungskooperation"
 MIE_decisions_desc:0 "[219.owner.GetNameDefCap] wurde wieder aufgebaut - und die Souveränität der osteuropäischen Staaten ist bedroht. Wenn der Zweite Weltkrieg beginnt, werden wir uns gegen den russischen Ansturm behaupten müssen-und wenn wir nicht zusammenarbeiten, werden wir einer nach dem anderen untergehen.\n\n Nachdem [RUS.GetNameDef] seinen Außenpolitik-Fokusbaum freischaltet,erhalten alle östlichen Mitglieder des Reichspakts die Fähigkeit, §YRessourcen zusammenzulegen§! und sie unter den Mitgliedsstaaten zu verteilen, um Schwachstellen auszumerzen. Die Nation, die für die Verteilung der Ressourcen verantwortlich ist, kann in andere Mitgliedsstaaten investieren, um §YBefestigungen zu bauen§!, §YDivisionen auszuheben§! und vorteilhafte §YNationalgeister§! zu verteilen.\n\nDerzeit gesammelte Ressourcen:\n    £rifle_texticon  Infanterieausrüstung: §Y[?global.MIE_infantry_equipment]§!\n    £support_texticon  Zusatzausrüstung: §Y[?global.MIE_support_equipment]§!\n    £unit_artillery_icon_small  Artillerie: §Y[?global.MIE_artillery_equipment]§!\n\n[MIE_leader.GetNameWithFlag] ist derzeit dafür verantwortlich, die Ressourcen zu verteilen."
 
+MIE_refuse_equipment_shipments:0 "Lehnt Ausrüstungslieferungen ab"
+MIE_refuse_equipment_shipments_desc:0 "Wir sollten unseren Verbündeten mitteilen, dass wir derzeit keine Ausrüstungslieferungen benötigen und die Ressourcen andernorts besser genutzt werden können."
+MIE_allow_equipment_shipments:0 "Nehmt Ausrüstungslieferungen an"
+MIE_allow_equipment_shipments_desc:0 "Wir haben unseren Verbündeten zwar mitgeteilt, dass wir derzeit keine Ausrüstung benötigen, können diese Entscheidung allerdings auch jederzeit rückgängig machen."
+
 MIE_spend_guns:0 "Sendet 1000 £rifle_texticon  Infanterieausrüstung"
 MIE_spend_support_eq:0 "Sendet 250 £support_texticon  Zusatzausrüstung"
 MIE_spend_artillery:0 "Sendet 250 £unit_artillery_icon_small  Artillerie"

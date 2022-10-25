@@ -1,6 +1,6 @@
 ﻿l_german:
-
-albanian_focus:0 "Albanien Fokusbaum"
+###  Übersetzt von Proho  ###
+albanian_focus:0 "Albanischer Schwerpunktbaum"
 
 ### Leaders ###
 POLITICS_WILLIAM_WIED_DESC:0 "Wilhelm, ein deutscher Offizier und Mittlerer-Adliger, wurde kurz vor Beginn des Weltkrieges zum Prinzen des neu unabhängigen Albaniens gekrönt. Im Weltkrieg wurde Wilhelm jedoch wieder abgesetzt, als Albanien zum Schlachtfeld wurde. Schließlich wieder auf den Thron, Wurde Wilhelm dann schnell gestürzt und eine albanische Republik erklärt.\nErneut auf den albanischen Thron zurückversetzt, jongliert Wilhelm nun mit konkurrierenden Interessen und persönlichen Loyalitäten im In- und Ausland. Vielleicht wird das albanische Volk mit Hilfe seiner ausländischen Wohltäter diesen deutschen Protestanten als seinen Prinzen voll und ganz akzeptieren."
@@ -21,26 +21,6 @@ albania.3.t:0 "Die albanischen Wahlen von [GetYear]"
 albania.3.d:0 "Die am meisten erwarteten Wahlen seit langem, die albanischen Wahlen von [GetYear], lässt jeden Albaner an der Kante seines Platzes sitzen. Darüber hinaus hat die zunehmende Polarisierung innerhalb der Nation sowohl die Progressive Partei als auch die Einheitspartei und ihre Anhänger am Hals. Die Progressive Partei hat sich auf eine Schwerpunkt der geringfügigen Industrialisierung, der Bankenreform, des Haushaltsausgleichs, der Deflationsmaßnahmen gegen die Auswirkungen des Schwarzen Montag und besserer Bedingungen für Teilpächter eingestellt. Die Einheitspartei hat sich unterdessen für die Landreform, die Agrarreform, die Industrialisierung Albaniens, die Liberalisierung und Verwestlichung Albaniens und die Verbesserung der Lebensbedingungen der Bevölkerung eingesetzt. Diese Wahl soll über das Schicksal Albaniens in den kommenden Jahren entscheiden. Die Stimmen wurden offiziell gezählt und der Gewinner der Wahl ist..."
 albania.3.a:0 "Die Einheitspartei!"
 albania.3.b:0 "Die Progressive Partei!"
-
-albania.4.t:0 "Haushaltsausgleich"
-albania.4.d:0 "Indem wir mehr und mehr in die Schaffung eines robusten Sozialsystems neben steigenden Steuern für die Aristokraten investierten, gelang es uns langsam aber sicher, den Haushalt auszugleichen und der Regierung eine Art Überschuss zu ermöglichen. Außerdem ist das Geld, das wir sparen konnten, nützlich, weil es uns ermöglicht, einige der umfangreichen Programme durchzuführen, für die wir ursprünglich eingetreten waren."
-albania.4.a:0 "Vorwärts!"
-
-albania.5.t:0 "Haushaltsausgleich"
-albania.5.d:0 "Indem wir unsere Aristokraten und Grundbesitzer überzeugt haben, die gegenwärtige Regierung zu unterstützen, haben wir es geschafft, neben der Subventionierung verschiedener Ernten in Albanien, im Gegenzug für die Begünstigungen natürlich, langsam aber sicher, den Haushalt auszugleichen und einen monetären Überschuss zu erzielen. Mit dem neuen Geld in der Kasse des Staates können wir nun anfangen, die Programme, die wir ursprünglich geplant hatten, durchzuführen."
-albania.5.a:0 "Vorwärts!"
-
-albania.6.t:0 "Bankenreform"
-albania.6.d:0 "Die Finanzierung der Albanischen Nationalbank war keine leichte Aufgabe. Durch den Einsatz ausländischer Kredite und Hilfe von unseren wohlhabenderen Unterstützern konnten wir in die Albanische Nationalbank investieren. Auf diese Weise können wir weiterhin die Währung besser verwalten, das Wirtschaftswachstum fördern und die Stabilität der Preise aufrechterhalten."
-albania.6.a:0 "Exzellent."
-
-albania.7.t:0 "Bankenreform"
-albania.7.d:0 "Wir haben die Aristokraten, Landbesitzer und den Rest des Adels innerhalb des Landes davon überzeugt, die albanische Nationalbank weiterhin so zu finanzieren, wie es in ihrem besten Interesse ist. Auf diese Weise können wir weiterhin die Währung besser verwalten, das Wirtschaftswachstum fördern und die Stabilität der Preise aufrechterhalten."
-albania.7.a:0 "Exzellent."
-
-albania.8.t:0 "Aristokratischer Widerstand gegen die Industrialisierung!"
-albania.8.d:0 "Die Aristokraten, Vërlaci und seine Landbesitzer im Besonderen, haben sich gegen das von der Partei unternommene Industrialisierungsprogramm ausgesprochen und einen möglichen Gewinnrückgang angeführt, wenn das Programm erfolgreich bestanden werden soll. Es ist klar, dass die Landbesitzer keinen Wettbewerb wollen oder dass Albanien von einem Agrarland in ein industrielles Land übergeht, damit sie nicht die Gewinne verlieren, die von verschiedenen Teilpächtern erwirtschaftet werden."
-albania.8.a:0 "Wen kümmert es, was sie denken?"
 
 albania.9.t:0 "Progressiver Widerstand gegen Landumverteilungsbemühungen!"
 albania.9.d:0 "Shefqet Vërlaci, Ahmet Zogu und der Rest der Progressiven haben sich neben den aristokratischen Landbesitzern gewaltsam gegen Landumverteilung eingesetzt, wobei sie die gegenwärtige Agrarreform der Regierung als "unfair" und "einem Teil der Bevölkerung entrechtet" bezeichneten. Darüber hinaus hat Rustemi, der Führer der Einheitspartei, nach der Einführung der Politik bereits mehr als ein paar Mordversuche erlebt. Wenn wir die Situation nicht schnell herbeiführen und beenden, können wir dem Zusammenbruch ins Auge sehen!"
@@ -70,20 +50,6 @@ albania.14.a:0 "Großartig!"
 albania.15.t:0 "Bulgarien hat unser Angebot abgelehnt!"
 albania.15.d:0 "Schlechte Nachrichten sind gerade von den Bulgaren gekommen: Offenbar haben sie unser Angebot eines Bündnisses zurückgewiesen und unsere Ansprüche auf Mazedonien und unsere prekäre Position auf dem Balkan als Gründe für die Ablehnung angeführt."
 albania.15.a:0 "Wie können sie es wagen!"
-
-albania.16.t:0 "Reformierung des Justizsystems"
-albania.16.d:0 "Auch wenn dies sicherlich keine leichte Aufgabe sein wird, haben wir bereits mit der Reformierung des Justizsystems begonnen und unser Gesetz nach dem Schweizerischen Zivilgesetzbuch kodifiziert, um unsere Gerichte zu verwestlichen und zu modernisieren. Wir können uns jetzt auf ein helleres, freieres und gerechteres Albanien freuen."
-albania.16.a:0 "Gerechtigkeit für alle!"
-
-albania.17.t:0 "Pressefreiheit"
-albania.17.d:0 "Indem wir Presseeinschränkungen lösen und die Zensurgesetze abschaffen, können wir damit beginnen, die Pressegesetze langsam zu liberalisieren und die Schaffung und Entwicklung freier Medien zu gewährleisten. Dies wird uns jedoch zu mehr Kritik seitens unserer Kritiker öffnen."
-albania.17.a:0 "So sei es."
-
-albania.18.t:0 "Handelsabkommen mit Nachbarländern?"
-albania.18.d:0 "Es ist klar, dass Albanien seine Grenzen öffnen muss, um mit anderen Nationen zu handeln, um die Auswirkungen des Schwarzen Montags zu bekämpfen. Dies wird sowohl für uns als auch für die Nation, mit der wir Handel treiben, von Nutzen sein und gleichzeitig die Beziehungen zu unseren Nachbarländern verbessern. Die Fragen bleiben: Mit wem sollen wir handeln?"
-albania.18.a:0 "Bulgarien!"
-albania.18.b:0 "Rumänien!"
-albania.18.c:0 "Die beiden Sizilien!"
 
 albania.19.t:0 "Handel mit Albanien?"
 albania.19.d:0 "Albanien hat gerade Kontakt zu uns aufgenommen, um Beziehungen zu pflegen und Handelsbeziehungen zwischen unseren beiden Nationen zu eröffnen. Dies könnte uns sicherlich helfen, die Auswirkungen des Schwarzen Montags besser zu bekämpfen und gleichzeitig die Beziehungen zwischen unseren beiden Nationen zu stärken. In diesem Sinne haben wir beschlossen..."
@@ -126,10 +92,6 @@ albania.27.a:0 "Der Attentäter hat gerade den Schuss abgegeben und..."
 albania.28.t:0 "Vereitelter Attentatversuch"
 albania.28.d:0 "Aufgrund unserer Investition in den Arm der Gendarmerie ist es uns gelungen, einen Mordanschlag auf Shefqet Vërlaci durch die Einheitspartei zu vereiteln. Der Attentäter wurde von der Gendarmerie gefangen genommen und alle, die direkt an der Verschwörung beteiligt waren."
 albania.28.a:0 "Zum Glück wurde mit der Situation gut umgegangen."
-
-albania.29.t:0 "Die Opposition zerbrechen"
-albania.29.d:0 "Wir haben demokratische Aufrührer in der Nation viel zu lange toleriert. Es ist an der Zeit, die Macht der Opposition zu beenden und den Transfer und die Konsolidierung der Macht in die Hände derjenigen zu legen, die es wirklich verdienen: der Aristokratie. Alle Oppositionsparteien in Albanien sollen aufgelöst werden und die Aristokratie wird herrschen, denn wir machen Albanien wirklich zur großen Nation, die es derzeit ist."
-albania.29.a:0 "Lang lebe die Aristokratie!"
 
 albania.30.t:0 "Die albanischen Wahlen von [GetYear]"
 albania.30.d:0 "Die albanischen Wahlen von [GetYear] haben endlich begonnen, die Menschen sitzen auf der Kante ihrer Sitze, begierig darauf, den Sieger der Wahlen zu sehen. Wie üblich sind die beiden Parteien, die die größte Chance haben zu gewinnen, die sozialdemokratische Einheitspartei und die sozialkonservative Progressive Partei. Die Stimmen wurden offiziell gezählt und der Gewinner steht fest..."
@@ -193,18 +155,6 @@ albania.44.t:0 "Rustemi hat überlebt!"
 albania.44.d:0 "Zum Glück hat es der Attentäter, wie viele bereits erwartet hatten, nicht geschafft, [Root.GetLeader] zu töten, der in Sicherheit ist, aber immer noch verletzt ist und sich erholt. Die Leute der Progressiven Partei, die den Mörder angestellt hatten, und der Attentäter selbst, wurden alle mit Ahmet Zogu, der jetzt die absteigende Partei leitet, eliminiert."
 albania.44.a:0 "Heute ist eine freudige Gelegenheit!"
 
-albania.45.t:0 "Wieds Geheimrat"
-albania.45.d:0 "Aufgrund des Beginns der Umkehrung der gegenwärtigen republikanischen Institutionen ist es wichtig, dass wir anfangen, Ersatz für die ehemaligen Einrichtungen zu finden, die vorher vor unserer Herrschaft existierten. Wieds Geheimrat, der während der Tage des Fürstentums Albanien bestanden hatte, wurde wieder versammelt, um den König zu beraten und die Nation besser zu leiten. Treue und qualifizierte Mitglieder wurden ausgewählt, dem Rat beizutreten."
-albania.45.a:0 "Das wird ein großer Segen sein."
-
-albania.46.t:0 "Umverteilung von Land an Katholiken"
-albania.46.d:0 "Um dazu beizutragen, die Loyalität der Albaner zu gewinnen und den Machthabern, die eine Gefahr für unsere Herrschaft darstellen, die Macht zu nehmen, müssen wir unsere Aufmerksamkeit den in Albanien lebenden Katholiken zuwenden. So wie es aussieht sind diejenigen, die in Albanien die Macht innehaben, die Grundbesitzer, von denen die meisten Muslime sind. Indem wir ihnen ihr Land wegnehmen und es an die Katholiken weitergeben, können wir sie gewinnen. Dies birgt natürlich die Gefahr, die Aristokraten, insbesondere die Progressive Partei, zu verärgern."
-albania.46.a:0 "Die Umverteilung muss vorwärts schreiten."
-
-albania.47.t:0 "Unsere Macht zementieren"
-albania.47.d:0 "Es ist klar, dass wir unsere Herrschaft festigen müssen, wenn wir die Kontrolle über die stets turbulente und chaotische Nation, die als Albanien bekannt ist, behalten wollen. Um dies zu erreichen, werden wir jede organisierte Opposition, die kurz- und langfristig für uns eine Bedrohung darstellen könnte, beseitigen. Natürlich wird dies den albanischen Nationalisten und Republikanern in der Nation sicherlich nicht gefallen."
-albania.47.a:0 "So sei es."
-
 albania.48.t:0 "Partisanenangriffe!"
 albania.48.d:0 "Die Partisanen, die den gegenwärtigen Veränderungen, die wir unternommen haben, nicht wohlwollend gegenüber sind, haben begonnen, verschiedene wichtige Gebäude anzugreifen, um uns zu zwingen, unsere Politik rückgängig zu machen. Dies ist kein Schock, da wir uns auf diese Eventualität vorbereitet haben, aber es wirft uns zurück."
 albania.48.a:0 "Verfluchte Nationalisten."
@@ -225,10 +175,6 @@ albania.52.t:0 "Albanische Öllieferungen"
 albania.52.d:0 "Aufgrund unserer Kontrolle über Albanien mit der Installation von Wilhelm zu Wied, ist es uns gelungen, Öllieferungen aus Albanien zu beschaffen, die uns mit Sicherheit dabei helfen werden, unsere gesamte industrielle Produktion anzukurbeln."
 albania.52.a:0 "Exzellent."
 
-albania.53.t:0 "Ende der albanischen Öllieferungen"
-albania.53.d:0 "Da wir jetzt die Kontrolle über Albanien verloren haben, weil Wilhelm zu Wied nicht mehr auf dem Thron sitzt, sind alle Öllieferungen eingestellt worden, was bedeutet, dass wir kein Öl mehr aus Albanien erhalten. Egal wie geringfügig, das wird ein wirtschaftlicher Rückschlag sein."
-albania.53.a:0 "Verdammt..."
-
 albania.54.t:0 "Versuchte Ermordung von Wied!"
 albania.54.d:0 "Wir hätten dies mit den jüngsten Reformen sehen können, die umgesetzt wurden. Während die Partisanen nur gegen Dinge vorgegangen sind, die Albanien direkt betroffen hatten, wie neue Schulen und die Abschaffung republikanischer Institutionen, wurde ein Attentäter engagiert, um Wied zu befreien und Albanien von der österreichischen Herrschaft zu befreien. Wenn Wied stirbt, könnte das für alle Beteiligten katastrophal sein!"
 albania.54.a:0 "Der Attentäter gibt einen Schuss ab und..."
@@ -237,10 +183,6 @@ albania.55.t:0 "Wied wurde getötet!"
 albania.55.d:0 "Nachrichten aus Albanien haben uns erreicht, dass Wied getötet wurde und alle unsere Bemühungen, die Nation zu unterjochen, gescheitert sind. Die Nationalisten haben die Sache selbst in die Hand genommen und die Macht ergriffen! Was sollen wir tun?"
 albania.55.a:0 "Wir werden dafür nicht einstehen!"
 albania.55.b:0 "Wir sind nicht bereit für den Krieg..."
-
-albania.56.t:0 "Umgang mit der Partisanenbedrohung"
-albania.56.d:0 "Um uns von den ständigen Angriffen auf verschiedene Gebäude, Beamte und andere Institutionen zu befreien, müssen wir unsere Aufmerksamkeit auf die derzeitige Partisanenbedrohung richten. Um unsere Arbeit zu erleichtern, bitten wir die Gendarmerie um Unterstützung bei unseren Bemühungen. Nach allem, was wir getan haben, haben wir jedoch keine Garantie für ihre Zusage..."
-albania.56.a:0 "Wir warten gespannt auf ihre Entscheidung."
 
 albania.57.t:0 "Die Partisanen jagen"
 albania.57.d:0 "Wir haben eine Spur der Partisanen in der Nähe wichtiger Versorgungsleitungen und anderer Gebiete mit entscheidender Infrastruktur gefunden. Während sie entkommen konnten, bevor wir sie auf frischer Tat ertappt hatten, zeigt dies Anzeichen eines guten Fortschritts und wird uns hoffentlich zu ihnen führen."
@@ -267,25 +209,9 @@ albania.62.t:0 "Sizilianische Ablehnung"
 albania.62.d:0 "Die beiden Sizilien haben unser Angebot wirtschaftlicher Beziehungen zwischen unseren beiden Nationen abgelehnt, indem sie die gegenwärtige Konzentration von Ressourcen für den inneren Aufbau ihrer Nation und die Distanz zwischen unseren beiden Nationen anführen."
 albania.62.a:0 "Verdammt..."
 
-albania.63.t:0 "Hydroelektrizität"
-albania.63.d:0 "Um die Energie in unserer Nation zu erhöhen, wurde von führenden Experten vorgeschlagen, dass wir damit beginnen, Regierungsgelder in die Schaffung von Staudämmen und neuen Kraftwerken zu investieren. Indem wir die Wasserkraft verschiedener Flüsse innerhalb unserer Nation nutzen, wie die Flüsse Drin, Buna, Vjosa und Seemani, können wir allen [Root.GetAdjektiven] bezahlbare Energie bringen. Es muss jedoch darauf hingewiesen werden, dass dies ein kostspieliges Projekt sein wird."
-albania.63.a:0 "Was könnte schiefgehen?"
-
-albania.64.t:0 "Nahrungsmittelsoforthilfe"
-albania.64.d:0 "Da unser Landwirtschaftssektor unter den Auswirkungen des Schwarzen Montags leidet, ist es klar, dass wir Schritte unternehmen müssen, um unsere Bevölkerung zufrieden zu stellen. Die derzeitige Situation steht bereits kurz vor der Destabilisierung, da viele Menschen in unserer Bevölkerung, die nicht so weit weg sind, mit dem Hungertod und unvermeidlich mit dem Tod konfrontiert sind. Wir müssen damit beginnen, die Nahrungsmittelsoforthilfe an diese armen Gebiete zu verteilen, um die Situation zu verbessern und die Moral und das Vertrauen der Bevölkerung in die Regierung zu stärken."
-albania.64.a:0 "Dies ist eine notwendige Maßnahme."
-
-albania.65.t:0 "Massenaufstände durch die Bauernschaft"
-albania.65.d:0 "Weil wir auf die Krise im ländlichen Raum nicht reagiert haben, sind wir von Massenaufständen der Bauernschaft betroffen. Dies hat unserer politischen Position nicht im Geringsten geholfen, und die wirtschaftliche Situation hat sich infolgedessen nun rasch verschlechtert."
-albania.65.a:0 "Verdammt!"
-
 ### Focuses ###
 ALB_aftermath_of_black_monday:0 "Nachwirkungen des Schwarzen Montags"
 ALB_aftermath_of_black_monday_desc:0 "Der Schwarze Montag, ein Wirtschaftscrash mit Ursprung in Deutschland, hat gerade Albanien getroffen! Aufgrund unserer Agrarwirtschaft, der geringen Industrialisierung und des schwachen Finanzsystems sind wir von diesem Ereignis sehr hart getroffen worden und unsere Leute sind immer unzufriedener geworden, da die Arbeitslosenzahlen in die Höhe geschnellt sind, während sich die Wirtschaft im freien Fall befindet."
-ALB_bashkimi_economic_policy:0 "Bashkimi Wirtschaftspolitik"
-ALB_bashkimi_economic_policy_desc:0 "Bashkimi sind Sieger der albanischen Wahlen von 1936. Ihre wirtschaftliche Plattform basiert auf der Landumverteilung, der Industrialisierung der Nation, der Reform des Finanzsystems, dem Ausgleich des Haushalts und der Unterstützung der unteren Klasse Albaniens durch die Abschaffung des Feudalsystems und den Ersatz der Subsistenzlandwirtschaft mit besseren Anbautechniken."
-ALB_progressive_economic_policy:0 "Progressive Wirtschaftspolitik"
-ALB_progressive_economic_policy_desc:0 "Die Progressiven sind aus den albanischen Wahlen von 1936 siegreich hervorgegangen. Ihre wirtschaftliche Plattform basiert auf der Reorganisation des Finanzsystems, der Balancierung des Budgets, der Verbesserung des Teilpachtsystems, der Regulierung des Lek durch Deflationsmaßnahmen und der Nutzung von Steueranreizen zur Unterstützung ausländischer Investoren zum Anlocken von Unternehmen nach Albanien."
 ALB_balance_the_budget:0 "Haushaltsausgleich"
 ALB_balance_the_budget_desc:0 "Albanien hat schon vor dem Schwarzen Montag wegen geringer Einnahmen und minimaler Wirtschaftsleistung ein schweres Haushaltsdefizit erlebt. Wir müssen Schritte unternehmen, um den Haushalt auszugleichen und sicherzustellen, dass wir einen Überschuss erwirtschaften, damit wir uns aus dieser Wirtschaftsfalle befreien können, die wir derzeit einnehmen."
 ALB_banking_reform:0 "Bankenreform"
@@ -440,12 +366,6 @@ ALB_national_populist_party_party_long:0 "Balli Kombëtar"
 ### Ideas ###
 ALB_black_monday_idea:0 "Schwarzer Montag"
 ALB_black_monday_idea_desc:0 "Selbst Albanien konnte sich nicht der wirtschaftlichen Verwüstung entziehen, die viele Nationen durch den Schwarzen Montag, einen der schlimmsten Wirtschaftskrisen in der Geschichte, erleiden mussten. Wenn wir keine großen Reformen wie die Agrarreform durchführen, die Nation industrialisieren, den Haushalt ausgleichen, die Bank reformieren und das albanische Land und das albanische Volk in vollem Umfang nutzen, können wir nicht hoffen, diesem schrecklichen Zusammenbruch zu entgehen. Hoffen wir, dass wir es schaffen können."
-ALB_black_monday_idea2:0 "Schwarzer Montag"
-ALB_black_monday_idea2_desc:0 "Selbst Albanien konnte sich nicht der wirtschaftlichen Verwüstung entziehen, die viele Nationen durch den Schwarzen Montag, einen der schlimmsten Wirtschaftskrisen in der Geschichte, erleiden mussten. Wenn wir keine großen Reformen wie die Agrarreform durchführen, die Nation industrialisieren, den Haushalt ausgleichen und das albanische Land und das albanische Volk in vollem Umfang nutzen, können wir nicht hoffen, diesem schrecklichen Zusammenbruch zu entgehen. Hoffen wir, dass wir es schaffen können."
-ALB_black_monday_idea3:0 "Schwarzer Montag"
-ALB_black_monday_idea3_desc:0 "Selbst Albanien konnte sich nicht der wirtschaftlichen Verwüstung entziehen, die viele Nationen durch den Schwarzen Montag, einen der schlimmsten Wirtschaftskrisen in der Geschichte, erleiden mussten. Wenn wir nicht große Reformen wie die Agrarreform unternehmen, die Nation industrialisieren, die Bank reformieren und das albanische Land und das albanische Volk in vollem Umfang nutzen, können wir nicht hoffen, diesem schrecklichen Zusammenbruch zu entgehen. Hoffen wir, dass wir es schaffen können."
-ALB_black_monday_idea4:0 "Schwarzer Montag"
-ALB_black_monday_idea4_desc:0 "Selbst Albanien konnte sich nicht der wirtschaftlichen Verwüstung entziehen, die viele Nationen durch den Schwarzen Montag, einen der schlimmsten Wirtschaftskrisen in der Geschichte, erleiden mussten. Wenn wir nicht große Reformen wie die Agrarreform unternehmen, die Nation industrialisieren und das albanische Land und das albanische Volk in vollem Umfang nutzen, können wir nicht hoffen, diesem schrecklichen Zusammenbruch zu entgehen. Hoffen wir, dass wir es schaffen können."
 ALB_land_reform_idea:0 "Landreform"
 ALB_land_reform_idea_desc:0 "Durch die Einführung der Agrarreform und die Umverteilung des Landes von den aristokratischen Landbesitzern auf reguläre Albaner können wir uns langsam von der heutigen Bauernaristokratie abwenden, die die Bauern in unserer Nation entwickelt und bevollmächtigt hat. Natürlich sind die Aristokraten nicht zufrieden und können sich wehren..."
 ALB_farming_techniques_idea:0 "Neue Anbautechniken"
@@ -499,41 +419,12 @@ ALB_gave_austria_oil_desc:0 "Wir haben es geschafft, durch unsere Kontrolle übe
 ALB_hydroelectricity_idea:0 "Hydroelektrizität"
 ALB_hydroelectricity_idea_desc:0 "Indem wir die potentielle Energie unserer Flüsse durch den Einsatz von Dämmen nutzbar machen, können wir die Produktion von billiger Energie in unserer Nation ermöglichen und somit allen Albanern Zugang zu Energie verschaffen."
 
-### Flags ###
-ALB_black_monday_hit:0 "Schwarzer Montag hat Albanien getroffen"
-ALB_bashkimi_victory_flag:0 "Bashkimi hat die Wahlen gewonnen"
-ALB_progressive_victory_flag:0 "Die Progressiven haben die Wahl gewonnen""
-ALB_elections_of_1936_done:0 "Die albanischen Wahlen von 1936 sind vorbei"
-ALB_land_reform_resist_flag:0 "Die Progressiven haben versucht, der Landreform zu widerstehen"
-ALB_gendarmerie_protection:0 "Die Gendarmerie soll Albanien vor äußeren und inneren Bedrohungen schützen"
-ALB_restoration_of_wied:0 "Wied hat jetzt die Kontrolle über Albanien"
-ALB_albanian_romanian_alliance:0 "Albanisch-Rumänische Allianz"
-
 ### Tooltips ###
-ALB_black_monday_tt:0 "§RSchwarzer Montag ist erforderlich, damit dieser Fokus ausgelöst wird.§!"
-ALB_1936_elections_tt:0 "§YDie albanischen Wahlen von 1936 haben gerade stattgefunden.§!"
-ALB_bashkimi_eco_policy_tt:0 "§YDie Bashkimi-Wirtschaftspolitik soll eingeführt werden.§!"
-ALB_progressive_eco_policy_tt:0 "§YDie Progressive Wirtschaftspolitik soll eingeführt werden.§!"
 ALB_bashkimi_election_win_tt:0 "§GDie Einheitspartei hat es geschafft, als Sieger hervorzugehen.§!"
 ALB_progressive_election_win_tt:0 "§GDie Progressive Partei hat es geschafft, siegreich hervorzugehen.§!"
-ALB_foreign_policy_requirement_tt:0 "Benötigt §RSchwarzer Montag§! um ausgeführt zu werden."
 ALB_land_reform_tt:0 "§RDies wird die Progressiven und den Rest der Aristokraten in unserer Nation verärgern.§!"
-ALB_end_of_black_monday_tt:0 "§GWir haben die Auswirkungen des Schwarzen Montags erfolgreich bekämpft.§!"
-ALB_agricultural_output_tt:0 "§GNeue Anbaumethoden werden eingeführt, um unsere landwirtschaftliche Produktion anzukurbeln.§!"
 ALB_stopping_land_reform_tt:0 "§RDies wird Bashkimi und den Rest der Unterschicht innerhalb unserer Nation verärgern.§!"
-ALB_opposition_crushed_tt:0 "§RDie Progressiven sollen die unangefochtenen Herrscher Albaniens werden.§!"
-ALB_restoration_of_wied_tt:0 "§RWilhelm zu Wied ist wieder einmal der Herrscher von Albanien.§!"
-ALB_Rustemi_dies_tt:0 "Rustemi wurde getötet!"
-ALB_Rustemi_lives_tt:0 "Rustemi hat es geschafft zu überleben!"
-ALB_verlaci_dies_tt:0 "Vërlaci wurde getötet!"
-ALB_verlaci_lives_tt:0 "Vërlaci hat es geschafft zu überleben!"
-ALB_kingdom_tt:0 "Albanien ist jetzt ein §YKönigreich§!."
-ALB_wied_lives_tt:0 "Wied hat es geschafft zu überleben!\n"
-ALB_wied_dies_tt:0 "Wied wurde getötet!\n"
-ALB_gendarmerie_tt:0 "§RWenn Sie diesen Fokus nicht nutzen, kann dies zu unbeabsichtigten und schlimmen Folgen führen.§!\n"
-ALB_gendarmerie_help_tt:0 "Die Gendarmerie wird uns helfen!"
-ALB_no_gendarmerie_help_tt:0 "Die Gendarmerie wird uns nicht helfen!"
-ALB_unlock_industrial_focus_tooltip:0 "Einer der beiden Industriebäume wurde fertiggestellt."
+ ALB_gendarmerie_tt:0 "§RNot taking this focus may lead to unintended and dire consequences.§!"
 
 ### Opinion Modifiers ###
 ALB_bularian_relations_accepted:0 "Albanisch-Bulgarische Freundschaft"

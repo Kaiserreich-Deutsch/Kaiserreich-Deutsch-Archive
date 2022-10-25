@@ -1,6 +1,6 @@
-l_german:
+﻿l_german:
 ### übersetzt von Proho ###
-serbia_focus: "Serbischer Schwerpunktbaum"
+serbia_focus: "Schwerpunktbaum Serbien"
 
 ### Leaders ###
 POLITICS_SLOBODAN_JOVANOVIC_DESC:0 "Slobodan Jovanovic ist einer der produktivsten Juristen, Historiker, Soziologen, Journalisten und Literaturkritiker Serbiens. Er zeichnet sich durch einen charakteristisch klaren und scharfen Schreibstil aus. Sein einziges Interesse besteht darin, das serbische Volk und die Verfassung dem Autoritarismus zu schützen."
@@ -126,6 +126,7 @@ SER_ready_for_war:0 "Kriegsbereitschaft erklären"
 SER_ready_for_war_tooltip:0 "§RSerbien wird sich darauf vorbereiten, Österreich anzugreifen. Wir müssen für den Krieg bereit sein.§!"
 
 SER_The_Road_To_Unification_decisions:0 "Der Weg zur Einheit"
+SER_Integrate_State:0 "Integrieren Sie [FROM.GetName]"
 SER_Ultimatum_To_Bulgaria:0 "Ultimatum an [BUL.GetNameDef]"
 SER_End_The_Occupation_Of_Bulgaria:0 "Beenden Sie die Besatzung Bulgariens"
 SER_Attack_Austria:0 "Angriff [AUS.GetNameDef]"

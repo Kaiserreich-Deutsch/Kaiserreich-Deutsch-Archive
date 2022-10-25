@@ -943,7 +943,7 @@ endo_state_940:0 "Huesca"
 endo_state_941:0 "Deutsch-Samoa"
 endo_state_942:0 "Vorarlberg"
 endo_state_943:0 "Haute-Savoie"
-endo_state_944:0 "Harare" #Transliterated via ALA/LC Amharic tables. This is not Harare Zimbabwe.
+endo_state_944:0 "Harare" #Transliteriert über ALA/LC Amharic Tabellen. Dies ist nicht Harare Zimbabwe.
 endo_state_945:0 "Northern Cape"
 endo_state_946:0 "Eastern Cape"
 endo_state_947:0 "Oranje-Vrystaat"
@@ -1296,7 +1296,7 @@ endo_state_713_russian:0 "Suchava"
 endo_state_713_ukrainian:0 "Suchava"
 endo_state_722_finnish:0 "Petsamo"
 endo_state_731_greek:0 "Vória Makedonía"
-endo_state_731_serbian:0 "Belomorska Makedonija" #too long
+endo_state_731_serbian:0 "Belomorska Makedonija" #zu lang
 endo_state_735_german:0 "Savoyen"
 endo_state_735_italian:0 "Savoia"
 endo_state_736_italian:0 "Istria"
@@ -1418,7 +1418,7 @@ endo_state_1073_aymara:0 "Tarixa"
 endo_state_72_chinese:0 "Dongzhi"
 endo_state_72_shan_half:0 "Moeng Tai"
 endo_state_72_shan_full:0 "Taunggyi"
-endo_state_72_thai:0 "Inthanakhon" # Based on Inle Lake
+endo_state_72_thai:0 "Inthanakhon" # Basierend auf dem Inle See
 endo_state_286_cambodian:0 "Prey Nokor"
 endo_state_286_indochinese:0 "Ho Chí Minh"
 endo_state_286_vietnamese:0 "Sài Gòn"
@@ -1496,7 +1496,7 @@ endo_state_638_spanish:0 "Guaján"
 endo_state_639_english:0 "Gilbert Islands"
 endo_state_639_japanese:0 "Girubāto-shōtō"
 endo_state_641_english:0 "East Polynesia"
-endo_state_641_french:0 "Polynésie française" # EFO is too long
+endo_state_641_french:0 "Polynésie française" # EFO ist zu lang
 endo_state_641_japanese:0 "Nichiryō-Porineshia"
 endo_state_642_german:0 "Phönixinseln"
 endo_state_642_japanese:0 "Fenikkusu-shōtō"
@@ -1557,7 +1557,7 @@ endo_state_751_japanese:0 "Kurantan-Torenganu"
 endo_state_756_burmese:0 "Kyaingtong"
 endo_state_756_chinese:0 "Menggen"
 endo_state_756_shan:0 "Kengtung"
-endo_state_756_thai_full:0 "Khemaratthaburi" # Thai-ized Kengtung traditional name
+endo_state_756_thai_full:0 "Khemaratthaburi" # Thai-isierter traditioneller Name Kengtung
 endo_state_757_english:0 "New Guinea"
 endo_state_757_japanese:0 "Nyū-Ginia"
 endo_state_788_tibetan:0 "Ngawa"
@@ -1573,7 +1573,7 @@ endo_state_843_german:0 "Südwestneuguinea"
 endo_state_843_indonesian:0 "Irian Barat Selatan"
 endo_state_846_chinese:0 "Malaiya"
 endo_state_846_japanese:0 "Maraya"
-endo_state_856_vietnamese:0 "Dong Bang Song Me Kong" #too long
+endo_state_856_vietnamese:0 "Dong Bang Song Me Kong" #zu lang
 endo_state_858_chinese:0 "Zangnan"
 endo_state_859_chinese:0 "Gaoxiong"
 endo_state_882_laotian:0 "Xamabouli"
@@ -1625,10 +1625,10 @@ endo_state_342_greek:0 "Moúgla"
 endo_state_349_arabic:0 "Karkuk"
 endo_state_355_greek:0 "Póntos"
 endo_state_417_arabic:0 "Gharb 'Adharbayjan"
-endo_state_417_russian:0 "Zapadnyy Azerbaydzhan" #too long
+endo_state_417_russian:0 "Zapadnyy Azerbaydzhan" #zu lang
 endo_state_417_turkish:0 "Bati Azerbaycan"
 endo_state_419_arabic:0 "Shrq 'Adharbayjan"
-endo_state_419_russian:0 "Vostochnyy Azerbaydzhan" #too long
+endo_state_419_russian:0 "Vostochnyy Azerbaydzhan" #zu lang
 endo_state_419_turkish:0 "Dogu Azerbaycan"
 endo_state_454_arabic:0 "Al-Quds"
 endo_state_554_arabic:0 "Suriya"

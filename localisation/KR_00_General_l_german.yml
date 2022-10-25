@@ -10,15 +10,11 @@
 
 ### Splash Screen Credits ###
 KR_SPLASH_TITLE:0 "Willkommen bei Kaiserreich"
-KR_SPLASH_CREDITS:0 "§YZusammengestellt vom KR4-Team:§!\nAdrianator2, Alpinia, Arvidus, Asratius, Augenis, Blackfalcon501, DSFDarker, Carmain, Chazem, Conor, Flamefang, Gideones, Hildagrim, JazzyHugh, Jonjon428, Jonny BL, Kennedy, Krco, Liegnitz, Maltesefalcon, Matoro, McOmghall, ~mw~, Nijato, NukeGaming, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Retrocognition, Rylock, Shiroe, Starguard, Telcontar101, The Alpha Dog, The Irredentista, Vidyaország, Zankoas and Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho, XYungeloest, Schmiddlon, _R4ze_, Thylon, Davideko, Hydrus, MartenDE, Chromsh, DickSharpe, Semarc, Wolf, Silent_Wolf, Alex S, DerEherneRächer, naskamo"
+KR_SPLASH_CREDITS:0 "§YZusammengestellt vom KR4-Team:§!\nAdrianator2, Alpinia, Arvidus, Asratius, Augenis, Blackfalcon501, Carmain, Chazem, Conor, DSFDarker, El Daddy, Flamefang, Gideones, Hildagrim, Ido, Igor050301, JazzyHugh, Jonjon428, Jonny BL, Kennedy, Krco, Liegnitz, Luwofe, Matoro, McOmghall, ~mw~, Nijato, NukeGaming, OperationsManagementDecisions, Owenomaly, Pelmen, PPsyrius, RagnoStrangeros, Rei VL, Retrocognition, Rylock, Shiroe, Starguard, Suzuha, Telcontar101, The Alpha Dog, The Irredentista, The Italian Jojo, Vidyaország, Zankoas and Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho, XYungeloest, Schmiddlon, _R4ze_, Thylon, Davideko, Hydrus, MartenDE, Chromsh, DickSharpe, Semarc, Wolf, Silent_Wolf, Alex S, DerEherneRächer, naskamo,Quatschtütenwürger "
 
 ### Main Menu Tooltips ###
-COOP_MAIN_MENU_LINK:0 "Klicken Sie hier, um zum Coop-Diskord zu gelangen"
 KR_MAIN_MENU_LINK:0 "Klicken Sie hier, um zum Kaiserreich-Wiki zu gelangen"
 LOGO_MAIN_MENU_LINK:0 "Klicken Sie hier, um die Patchnotizen anzuzeigen"
-
-### Vanilla Music Stations ###
-sabaton_TITLE:0 "§RSabaton - schalten Sie die 'gewichtete Zufallswiedergabe'aus!§!"
 
 ### Diplomacy Tooltips ###
 REQUEST_EXP_FORCE_BLOCKED_TT:0 "§RDieses Land erlaubt Ihnen nicht, ihre Streitkräfte anzufordern.§!"
@@ -33,11 +29,25 @@ upon_selecting_focus:0 "Bei Auswahl des Fokus:"
 tooltip_white_line:0 "   \n"
 integration_tooltip:0 "Nicht-integrierte Bereiche anzeigen"
 integrate_state:0 "Integrate [From.GetName]"
-cannot_enact_conscription:0 "§RKann die Wehrpflicht nicht erhöhen.§!"
-cannot_train_units_tt:0 "§RSie können keine Einheiten ausbilden, Einheiten auflösen oder Einheitenvorlagen bearbeiten.§!\n"
-cannot_mobilise_tt:0 "§RKann die Wehrpflicht und die Mobilisierungsgesetze nicht erhöhen.§!\n"
+cannot_enact_conscription_tt:0 "§RKann die Wehrpflicht nicht erhöhen.§!"
+cannot_train_units_tt:0 "§RSie können keine Einheiten ausbilden, Einheiten auflösen oder Einheitenvorlagen bearbeiten.§!"
+cannot_mobilise_tt:0 "§RKann die Wehrpflicht und die Mobilisierungsgesetze nicht erhöhen.§!"
+ cannot_build_armor_tt:0 "§RKann keine Panzerung bauen.§!"
 upon_starting_focus:0 "§HNach Auswahl dieses Fokus§!:"
 returned_all_expeditionary_forces_of_puppets:0 "Hat alle von Marionetten entsandten Expeditionskräfte zurückgeschickt"
+puppet_but_keep_government_tt:0 "([to_be_overlord.GetFlag]§H[to_be_overlord.GetName]§!) §H[marked_country.GetName]§! wird zur Marionette von §H[to_be_overlord.GetName]§!, behält aber seine aktuellen Regierungs- und Beliebtheitseinstellungen."
+
+### Regional Triggers ###
+ is_in_asia:0 "Ist ein §HAsiatisches§! Land"
+ is_in_india:0 "Ist ein §HIndisches§! Land"
+ is_in_europe:0 "Ist ein §HEuropäisches§! Land"
+ is_in_africa:0 "Ist ein §HAfrikanisches§! Land"
+ is_in_north_america:0 "Ist ein §HNordamerikanisches§! Land"
+ is_in_central_america:0 "Ist ein §HZentralamerikanisches§! Land"
+ is_in_south_america:0 "Ist ein §HSüdamerikanisches§! Land"
+ is_in_americas:0 "Ist ein §HAmerikanisches§! Land"
+ is_in_middle_east:0 "Ist ein §HMittelöstliches§! Land"
+ is_in_oceania:0 "Ist ein §HOzeanisches§! Land"
 
 ### Actual Major Power tooltip ###
 is_actual_major_tooltip_base:0" Ist eine wichtige Weltmacht:"
@@ -83,6 +93,8 @@ kr_ottoman_vilayet:0 "Osmanische Provinz"
 kr_ottoman_international_zone:0 "Internationales Mandat"
 kr_federated_state:0 "Konföderierter Staat"
 kr_crownland:0 "Kernland"
+kr_oststaat:0 "Oststaat"
+ kr_oststaat_autonomous:0 "Autonomer Oststaat"
 
 ### Autonomy Tooltips ###
 can_lower_autonomy_level:0 "Kann das Autonomie-Niveau senken\n"
@@ -135,6 +147,23 @@ compliance_integration:0 "Integration"
 ### Operatives ###
 CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC:5 "Sie können den ersten Platz bekommen, indem Sie den Geheimdienst aufbauen. Weitere Slots werden nach dem 5. Upgrade oder nach der Rekrutierung eines §Leiters des Geheimdienstes§ verfügbar sein! (verfügbar durch Entscheidung). \nAls Spionagemeister werden weitere operative Slots freigeschaltet, wenn Sie mehr Länder in Ihrer Fraktion haben. Marionetten oder Länder mit einer sehr geringen Anzahl von Fabriken tragen nicht zu mehr operativen Slots bei."
 
+ operation_infiltrate_armed_forces_army_outcome:0 "$operation_infiltrate_armed_forces_army$ Effektivität"
+ operation_infiltrate_armed_forces_army_risk:0 "$operation_infiltrate_armed_forces_army$ Risiko"
+ operation_infiltrate_armed_forces_army_cost:0 "$operation_infiltrate_armed_forces_army$ Kosten"
+ 
+ operation_infiltrate_armed_forces_navy_outcome:0 "$operation_infiltrate_armed_forces_navy$ Effektivität"
+ operation_infiltrate_armed_forces_navy_risk:0 "$operation_infiltrate_armed_forces_navy$ Risiko"
+ operation_infiltrate_armed_forces_navy_cost:0 "$operation_infiltrate_armed_forces_navy$ Kosten"
+ 
+ operation_infiltrate_armed_forces_airforce_outcome:0 "$operation_infiltrate_armed_forces_airforce$ Effektivität"
+ operation_infiltrate_armed_forces_airforce_risk:0 "$operation_infiltrate_armed_forces_airforce$ Risiko"
+ operation_infiltrate_armed_forces_airforce_cost:0 "$operation_infiltrate_armed_forces_airforce$ Kosten"
+ 
+ operation_infiltrate_civilian_outcome:0 "$operation_infiltrate_civilian$ Effektivität"
+ operation_infiltrate_civilian_risk:0 "$operation_infiltrate_civilian$ Risiko"
+ operation_infiltrate_civilian_cost:0 "$operation_infiltrate_civilian$ Kosten"
+
+### Events ###
 kr.political.100.t:0 "Ordnung wiederhergestellt in [Root.GetNameDef]"
 kr.political.100.d:0 "Während [Root.GetNameDef] immer noch unter der Kontrolle von [overlord_name.GetAdjective] arbeitet, hat das [Root.GetAdjective]-Militär genug Kontrolle über unsere eigenen Grenzen durchgesetzt, so dass ein Anschein von größerer Autonomie jetzt möglich ist. Das ist keine Unabhängigkeit - bei weitem nicht - aber es bedeutet, dass wir uns nicht länger auf [overlord_name.GetAdjective]-Truppen verlassen müssen, um unsere Grenzen zu sichern."
 kr.political.100.a:0 "Ausgezeichnet"
@@ -185,6 +214,35 @@ kr.political.111.t:0 "Der [From.GetAdjective] Unabhängigkeitskrieg"
 kr.political.111.d:0 "Der Krieg mit [From.GetNameDef] dauert schon seit einiger Zeit an, wobei keiner von uns in der Lage war, einen klaren Vorteil zu erlangen. Vielleicht ist es an der Zeit, ihre Unabhängigkeit einfach anzuerkennen und damit Schluss zu machen."
 kr.political.111.a:0 "Ja, lassen Sie uns das beenden"
 kr.political.111.b:0 "Nein! Wir bringen das zu Ende!"
+ 
+ kr.political.250.t:0 "Marionette [marked_country.GetNameDef]?"
+ kr.political.250.d:0 "Dadurch wird [marked_country.GetNameDef] zu einer Marionette von [to_be_overlord.GetNameDef], wobei der standardmäßige autonome Zustand Besetzt Marionette verwendet wird. Wenn sie in einer anderen Fraktion sind, werden sie diese verlassen, aber dies wird keinen der aktuellen Kriege, in denen sie sich befinden, beenden. Wenn Sie das tun wollen, sollten Sie es separat tun.\n\n§RHINWEIS: Dies kann sehr wohl Kaiserreich-Inhalte brechen! Verwendung auf eigene Gefahr!!§!"
+ kr.political.250.a:0 "Tu es"
+ kr.political.250.b:0 "Tu es, aber lassen Sie sie ihre aktuelle Regierung behalten" 
+ kr.political.250.c:0 "Bei näherer Überlegung..."
+ 
+ kr.political.251.t:0 "Freilassung [marked_country.GetNameDef]?"
+ kr.political.251.d:0 "Dies wird [marked_country.GetNameDef] komplett unabhängig machen. Es wird nicht ihre aktuelle Regierung ändern (es sei denn, der Mod hat den Inhalt, dies automatisch zu tun), nicht [marked_country.GetNameDef] aus ihrer Fraktion entfernen, wenn sie in einer sind, noch sie aus irgendwelchen Kriegen entfernen.\n\n§RHINWEIS: Dies kann sehr wohl Kaiserreich-Inhalte brechen! Verwendung auf eigene Gefahr!!§!"
+ 
+ kr.political.252.t:0 "Beitritt zur [to_be_faction_leader.GetFactionName]?"
+ kr.political.252.d:0 "Dies führt dazu, dass [marked_country.GetNameDef] der [to_be_faction_leader.GetFactionName] beitritt und ihre eigene Fraktion auflöst, wenn sie ein Fraktionsführer sind oder einfach ihre aktuelle Fraktion verlässt, wenn sie in einer sind. Dies ändert nichts an den Kriegen, in denen sie sich gerade befinden.\n\n§RHINWEIS: Dies kann sehr wohl Kaiserreich-Inhalte brechen! Verwendung auf eigene Gefahr!!§!"
+ 
+ kr.political.253.t:0 "Anführer der [marked_country.GetFactionName]?"
+ kr.political.253.d:0 "Dadurch wird [marked_country.GetNameDef] zum Fraktionsführer für den [marked_country.GetFactionName].\n\n§RHINWEIS: Dies kann sehr wohl Kaiserreich-Inhalte brechen! Verwendung auf eigene Gefahr!!§!"
+ 
+ kr.political.254.t:0 "Verlassen der [marked_country.GetFactionName]?"
+ kr.political.254.d:0 "Dies führt dazu, dass [marked_country.GetNameDef] die [marked_country.GetFactionName] verlässt und die Fraktion auflöst, wenn sie der Anführer ist. Es hat keinen Einfluss auf Kriege, in denen sie sich gerade befinden.\n\n§RHINWEIS: Dies kann sehr wohl Kaiserreich-Inhalte brechen! Verwendung auf eigene Gefahr!!§!" 
+ 
+ kr.political.255.t:0 "Frieden mit [peace_target.GetNameDef]?"
+ kr.political.255.d:0 "[marked_country.GetNameDefCap], zusammen mit all seinen Verbündeten, weißer Frieden mit [peace_target.GetNameDef] und all seinen Verbündeten.\n\n§RHINWEIS: Dies kann sehr wohl Kaiserreich-Inhalte brechen! Verwendung auf eigene Gefahr!!§!"
+ kr.political.255.b:0 "Trennen Sie [marked_country.GetNameDef] von seinen Verbündeten, dann schließen Sie Frieden"
+ 
+ kr.political.256.t:0 "Frieden, alle Kriege beenden?"
+ kr.political.256.d:0 "[marked_country.GetNameDefCap] wird einen separaten weißen Frieden für alle seine aktuellen Kriege machen. Wenn es ein Untertan ist, wird es zuerst befreit, und wenn es in einer Fraktion ist, muss es diese zuerst verlassen.\n\n§RHINWEIS: Dies kann sehr wohl Kaiserreich-Inhalte brechen! Verwendung auf eigene Gefahr!!§!"
+ 
+ kr.political.257.t:0 "Krieg mit [war_target.GetNameDef]?"
+ kr.political.257.d:0 "[marked_country.GetNameDefCap] wird [war_target.GetNameDef] den Krieg erklären. Es gibt keine Prüfungen, um zu sehen, ob dies eine gültige Erklärung ist, außer dass die beiden Länder nicht verbündet sind und sich nicht bereits im Krieg befinden.\n\n§RHINWEIS: Dies kann sehr wohl Kaiserreich-Inhalte brechen! Verwendung auf eigene Gefahr!!§!"
+ 
 
 ### Unit Leader Events ###
 unit_leader.1.t:0 "[From.GetName] wird krank"
@@ -261,9 +319,10 @@ toggle_news_text_none:0 "Keine Nachrichten anzeigen"
 
 ### Factions ###
 all_zhili_faction:0 "Zhili Clique"
+austrian_empire_faction:0 "Österreich-Ungarn Monarchie"
 austrian_sphere:0 "Donau-Adriabund"
 Belgrade_Pact:0 "Belgrader Pakt"
-Belgian-Dutch_Treaty_Organisation:0 "BeNeSam"
+benesam:0 "BeNeSam"
 buenos_aires_lima_faction:0 "Buenos Aires-Lima Achse"
 cairo_pact:0 "Kairo-Pakt"
 CEN_anti_revolutionary_alliance:0 "Vorhut des Volkes"
@@ -306,6 +365,87 @@ had_war:0 "Hat in einem Krieg gekämpft"
 is_invalid_war_target_tooltip:0 "Ist kein gültiges Kriegsziel"
 is_valid_war_target_tooltip:0 "Ist ein gültiges Kriegsziel"
 not_during_ceasefire:0 "Nicht solange der Waffenstillstand eingehalten wird"
+ 
+### Commonly used custom decision costs ###
+ CP_5:0 "£command_power §H5§!"
+ CP_5_blocked:0 "£command_power §R5§!"
+ CP_5_tooltip:0 "Es kostet $CP_5_blocked$, die Entscheidung zu treffen"
+ 
+ CP_10:0 "£command_power §H10§!"
+ CP_10_blocked:0 "£command_power §R10§!"
+ CP_10_tooltip:0 "Es kostet $CP_10_blocked$, die Entscheidung zu treffen"
+ 
+ CP_15:0 "£command_power §H15§!"
+ CP_15_blocked:0 "£command_power §R15§!"
+ CP_15_tooltip:0 "Es kostet $CP_15_blocked$, die Entscheidung zu treffen"
+ 
+ CP_20:0 "£command_power §H20§!"
+ CP_20_blocked:0 "£command_power §R20§!"
+ CP_20_tooltip:0 "Es kostet $CP_20_blocked$, die Entscheidung zu treffen"
+ 
+ CP_25:0 "£command_power §H25§!"
+ CP_25_blocked:0 "£command_power §R25§!"
+ CP_25_tooltip:0 "Es kostet $CP_25_blocked$, die Entscheidung zu treffen"
+ 
+ CP_30:0 "£command_power §H30§!"
+ CP_30_blocked:0 "£command_power §R30§!"
+ CP_30_tooltip:0 "Es kostet $CP_30_blocked$, die Entscheidung zu treffen"
+ 
+ CP_35:0 "£command_power §H35§!"
+ CP_35_blocked:0 "£command_power §R35§!"
+ CP_35_tooltip:0 "Es kostet $CP_35_blocked$, die Entscheidung zu treffen"
+ 
+ CP_40:0 "£command_power §H40§!"
+ CP_40_blocked:0 "£command_power §R40§!"
+ CP_40_tooltip:0 "Es kostet $CP_40_blocked$, die Entscheidung zu treffen"
+ 
+ CP_45:0 "£command_power §H45§!"
+ CP_45_blocked:0 "£command_power §R45§!"
+ CP_45_tooltip:0 "Es kostet $CP_45_blocked$, die Entscheidung zu treffen"
+ 
+ CP_50:0 "£command_power §H50§!"
+ CP_50_blocked:0 "£command_power §R50§!"
+ CP_50_tooltip:0 "Es kostet $CP_50_blocked$, die Entscheidung zu treffen"
+ 
+ CP_55:0 "£command_power §H55§!"
+ CP_55_blocked:0 "£command_power §R55§!"
+ CP_55_tooltip:0 "Es kostet $CP_55_blocked$, die Entscheidung zu treffen"
+ 
+ CP_60:0 "£command_power §H60§!"
+ CP_60_blocked:0 "£command_power §R60§!"
+ CP_60_tooltip:0 "Es kostet $CP_60_blocked$, die Entscheidung zu treffen"
+ 
+ CP_65:0 "£command_power §H65§!"
+ CP_65_blocked:0 "£command_power §R65§!"
+ CP_65_tooltip:0 "Es kostet $CP_65_blocked$, die Entscheidung zu treffen"
+ 
+ CP_70:0 "£command_power §H70§!"
+ CP_70_blocked:0 "£command_power §R70§!"
+ CP_70_tooltip:0 "Es kostet $CP_70_blocked$, die Entscheidung zu treffen"
+ 
+ CP_75:0 "£command_power §H75§!"
+ CP_75_blocked:0 "£command_power §R75§!"
+ CP_75_tooltip:0 "Es kostet $CP_75_blocked$, die Entscheidung zu treffen"
+ 
+ CP_80:0 "£command_power §H80§!"
+ CP_80_blocked:0 "£command_power §R80§!"
+ CP_80_tooltip:0 "Es kostet $CP_80_blocked$, die Entscheidung zu treffen"
+ 
+ CP_85:0 "£command_power §H85§!"
+ CP_85_blocked:0 "£command_power §R85§!"
+ CP_85_tooltip:0 "Es kostet $CP_85_blocked$, die Entscheidung zu treffen"
+ 
+ CP_90:0 "£command_power §H90§!"
+ CP_90_blocked:0 "£command_power §R90§!"
+ CP_90_tooltip:0 "Es kostet $CP_90_blocked$, die Entscheidung zu treffen"
+ 
+ CP_95:0 "£command_power §H95§!"
+ CP_95_blocked:0 "£command_power §R95§!"
+ CP_95_tooltip:0 "Es kostet $CP_95_blocked$, die Entscheidung zu treffen"
+ 
+ CP_100:0 "£command_power §H100§!"
+ CP_100_blocked:0 "£command_power §R100§!"
+ CP_100_tooltip:0 "Es kostet $CP_100_blocked$, die Entscheidung zu treffen"
 
 ### World Tension ###
 second_american_civil_war_threat:0 "Zweiter amerikanischer Bürgerkrieg"
@@ -363,15 +503,24 @@ security_minister:0 "Innenminister"
 head_of_intel:0 "Leiter von Mil. Nachrichtendienst"
 
 ### Country-Specific Ministers ###
-knight_captain_of_liv_ord:0 "Hauptmann"  # BAT
-land_marshal_of_liv_ord:0 "Feldmarschall"                # BAT
-leader_of_the_british_exiles:0 "Britischer Premierminister" # CAN
-underworld_boss:0 "Unterwelt-Boss"                     # LEC
-marshal_of_the_palace:0 "Marschall des Palastes"         # ROM
-minister_of_native_affairs:0 "Min. für Eingeborenenfragen"   # SAF, SFR
-national_philosopher:0 "National Philosoph"           # NFA
-faction_minister:0 "Interne Fraktion"                       # JBS
-kings_trusted_councillor:0 "Königlicher Vertrauensmann"      # POL
+ # BAT
+knight_captain_of_liv_ord:0 "Hauptmann"
+ # BAT
+land_marshal_of_liv_ord:0 "Feldmarschall"
+ # CAN
+leader_of_the_british_exiles:0 "Britischer Premierminister"
+ # LEC
+underworld_boss:0 "Unterwelt-Boss"
+ # ROM
+marshal_of_the_palace:0 "Marschall des Palastes"
+ # SAF, SFR
+minister_of_native_affairs:0 "Min. für Eingeborenenfragen"
+ # NFA
+national_philosopher:0 "National Philosoph"
+ # JBS
+faction_minister:0 "Interne Fraktion"
+ # POL
+kings_trusted_councillor:0 "Königlicher Vertrauensmann"
 
 ### Company Traits ###
 
@@ -549,10 +698,10 @@ cat_special_units:0 "Spezialeinheiten"
 
 ### Hidden Techs ###
 camel_corps_tech:0 "Kamel-Korps"
-camel_corps_tech_effect:0 "Ermöglicht §HKamel-Korps§!\n§Kamelerie\n    Wüste§!\n      Attack: §G+15%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+3%§!"
+camel_corps_tech_effect:0 "Ermöglicht §HKamel-Korps§!\n§Kamelerie\n    Wüste§!\n      Angriff: §G+15%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+3%§!"
 
 tech_ski_infantry:0 "Ski-Infanterie"
-tech_ski_infantry_effect:0 "Aktiviert §HSki-Infanterie§!\n§HInfantry\n    Hügel§!\n      Attack: §G+5%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+5%§!\n    §HMountain§!\n      Attack: §G+5%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+10%§!"
+tech_ski_infantry_effect:0 "Aktiviert §HSki-Infanterie§!\n§HInfantry\n    Hügel§!\n      Angriff: §G+5%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+5%§!\n    §HMountain§!\n      Angriff: §G+5%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+10%§!"
 
 tech_marine_bonus:0 "Verbesserte Marinetruppen"
 tech_marine_bonus_effect:0 "Aktiviert §HVerbesserte Marinetruppen\nMarines§!\n      Weicher Angriff: §G+5%§!\n      Harter Angriff: §G+5%§!\n§HSchwimmpanzer-Bataillon§!\n      Weicher Angriff: §G+5%§!\n      Harter Angriff: §G+5%§!\n§HAmphibisches Panzerbataillon§!\n      Weicher Angriff: §G+5%§!\n      Harter Angriff: §G+5%§!"
@@ -561,25 +710,29 @@ tech_marine_bonus_2:0 "Ausgebildete Marinesoldaten"
 tech_marine_bonus_2_effect:0 "Aktiviert §HAusgebildete Marinesoldaten\nMarines§!\n      Weicher Angriff: §G+5%§!\n      Harter Angriff: §G+5%§!\n§HSchwimmpanzer-Bataillon§!\n      Weicher Angriff: §G+5%§!\n      Harter Angriff: §G+5%§!\n§HAmphibisches Panzerbataillon§!\n      Weicher Angriff: §G+5%§!\n      Harter Angriff: §G+5%§!"
 
 jungle_warfare:0 "Dschungelkampf-Ausbildung"
-jungle_warfare_effect:0 "Aktiviert §HDschungelkampf-Ausbildung§!\n§HFuß-Infanterie\n    Dschungel§!\n      Attack: §G+10%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+5%§!"
+jungle_warfare_effect:0 "Aktiviert §HDschungelkampf-Ausbildung§!\n§HFuß-Infanterie\n    Dschungel§!\n      Angriff: §G+10%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+5%§!"
 
 improved_field_hospitals:0 "Verbesserte Feld-Krankenhäuser"
 improved_field_hospitals_effect:0 "Aktiviert §HVerbesserte Feld-Krankenhäuser\nFeldlazarett§!\n      Rücklauf: §G+20%§!\n      Exp. Verlust: §G-10%§!"
 
 expanded_engineer_corps_tech:0 "Erweitertes Ingenieur-Korps"
-expanded_engineer_corps_tech_effect:0 "Aktiviert §HErweitertes Ingenieur-Korps\nIngenieur-Korps§!\n      Schützenhilfe: §G+2§!\n    §HFestung§!\n      Attack: §G+10%§!\n      Verteidigung: §G+10%§!"
+expanded_engineer_corps_tech_effect:0 "Aktiviert §HErweitertes Ingenieur-Korps\nIngenieur-Korps§!\n      Schützenhilfe: §G+2§!\n    §HFestung§!\n      Angriff: §G+10%§!\n      Verteidigung: §G+10%§!"
 
 mountain_training_tech:0 "Berg-Ausbildung"
-mountain_training_tech_effect:0 "Aktiviert §HBerg-Ausbildung\nFuß-Infanterie§!\n    §HBerg§!\n      Attack: §G+5%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+10%§!"
+mountain_training_tech_effect:0 "Aktiviert §HBerg-Ausbildung\nFuß-Infanterie§!\n    §HBerg§!\n      Angriff: §G+5%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+10%§!"
 
 improved_recon_units_tech:0 "Verbesserte Aufklärungseinheiten"
 improved_recon_units_tech_effect:0 "Aktiviert §HVerbesserte Aufklärungseinheiten\nAufklärungskompanie§!\n      Durchbruch: §G+1§!\n      Aufklärung: §G+1§!"
 
 asymmetrical_warfare:0 "Ausbildung in asymmetrischer Kriegsführung"
-asymmetrical_warfare_effect:0 "Aktiviert §HAusbildung in asymmetrischer Kriegsführung$\n§HFuß-Infanterie§!\n    §Städtisch§!\n      Attack: §G+10%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+5%§!"
+asymmetrical_warfare_effect:0 "Aktiviert §HAusbildung in asymmetrischer Kriegsführung$\n§HFuß-Infanterie§!\n    §Städtisch§!\n      Angriff: §G+10%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+5%§!"
 
 desert_warfare:0 "Wüstenkampftraining"
-desert_warfare_effect:0 "Aktiviert §HWüstenkampftraining§!\n§HFuß-Infanterie\n    Deserts§!\n      Attack: §G+10%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+5%§!"
+desert_warfare_effect:0 "Aktiviert §HWüstenkampftraining§!\n§HFuß-Infanterie\n    Deserts§!\n      Angriff: §G+10%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+5%§!"
+
+ marsh_warfare:0 "Sumpf Kampfausbildung"
+ marsh_warfare_effect:0 "Ermöglicht §H$marsh_warfare$§!\n§HFuß-Infanterie\n    Sümpfe§!\n      Angriff: §G+10%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+5%§!"
+
 
 anti_fortification_artillery:0 "Anti-Festungsartillerie"
 anti_fortification_artillery_effect:0 "Aktiviert §HAnti-Festungsartillerie§!\n§HArtillerie unterstützen§!\n    Festung: Angriff: §G+20%§!\n§HArtillery§!\n    Festung: Angriff: §G+20%§!\n§HMotorisierte Artillerie§!\n    Festung: Angriff: §G+20%§!"
@@ -595,6 +748,11 @@ tech_dragoon_tactics_effect:0 "Aktiviert §H$tech_dragoon_tactics$\nKavallerie§
 
 tech_improved_encryption:0 "Verbesserte Verschlüsselung"
 tech_improved_encryption_effect:0 "Aktiviert §H$tech_improved_encryption$§!\n$MODIFIER_CRYPTO_STRENGTH$: [?2|+ = 0]"
+
+ tech_mountain_artillery:0 "Gebirgs Artillerie"
+ tech_mountain_artillery_effect:0 "Aktiviert §H$tech_mountain_artillery$§!\n§HArtillerie\n    Hügel§!\n      Angriff: §G+10%§!\n      Bewegung: §G+10%§!\n    §HBerge§!\n      Angriff: §G+10%§!\n      Bewegung: §G+10%§!"
+
+
 
 ### Army Command Traits ###
 

@@ -39,19 +39,32 @@ hog_smiling_oilman:0 "Lächelnder Ölmann"
 hog_spiritual_leader:0 "Geistiger Führer"
 
 ### Head of Government Unique Traits ###
-hog_the_black_baron:0 "Der schwarze Baron" #Wrangel
-hog_the_gun_salute_legislature:0 "Die Waffen-Salut-Legislative" #Council of Princes
-hog_the_lion_of_africa:0 "Der Löwe von Afrika" #Lettow-Vorbeck
-hog_the_new_administrator:0 "Der inkompetente Administrator" #Göring
-hog_the_peasant_marshal:0 "Der Bauernmarschall" #Denikin
-hog_the_vozhd:0 "Der Vozhd" #Savinkov
-hog_totalist_chairman:0 "Totalistischer Vorsitzender" #Valois etc.
-hog_gentleman_politician:0 "Gentlemanpolitiker" #Muhammad Ali Jinnah
-hog_supreme_ruler:0 "Oberster Herrscher" #Kolchak
-hog_the_grand_old_man:0 "Der große alte Mann" #Robert Hotung
-hog_hooded_chairman:0 "Vorsitzender mit Kapuze" #Dai Chufeng - KMT
-hog_aggressive_modernizer:0 "Aggressiver Modernisierer" #Ataturk
-hog_architect_of_the_union:0 "Architekt der Union" #Jan Smuts
+#Wrangel:
+hog_the_black_baron:0 "Der schwarze Baron"
+#Council of Princes:
+hog_the_gun_salute_legislature:0 "Die Waffen-Salut-Legislative"
+#Lettow-Vorbeck:
+hog_the_lion_of_africa:0 "Der Löwe von Afrika"
+#Göring:
+hog_the_new_administrator:0 "Der inkompetente Administrator"
+#Denikin:
+hog_the_peasant_marshal:0 "Der Bauernmarschall"
+#Savinkov:
+hog_the_vozhd:0 "Der Vozhd"
+#Valois etc.:
+hog_totalist_chairman:0 "Totalistischer Vorsitzender"
+#Muhammad Ali Jinnah:
+hog_gentleman_politician:0 "Gentlemanpolitiker"
+#Kolchak:
+hog_supreme_ruler:0 "Oberster Herrscher"
+#Robert Hotung:
+hog_the_grand_old_man:0 "Der große alte Mann"
+#Dai Chufeng - KMT:
+hog_hooded_chairman:0 "Vorsitzender mit Kapuze"
+#Ataturk:
+hog_aggressive_modernizer:0 "Aggressiver Modernisierer"
+#Jan Smuts:
+hog_architect_of_the_union:0 "Architekt der Union"
 
 ### Economy Minister ###
 eco_administrative_genius:0 "Administratives Genie"
@@ -196,6 +209,39 @@ cair_carpet_bombing_doctrine:0 "Teppichbombardierung Doktrin"
 cair_vertical_envelopment_doctrine:0 "Vertikale Entwicklung Doktrin"
 
 cair_the_red_baron:0 "Der rote Baron"
+
+### Operative Traits ###
+operative_bold:0 "Kühn"
+operative_bold_desc:0 "Der Agent ist ausgezeichnet darin, schnelle Entscheidungen zu treffen und den besten Zeitpunkt zum Zuschlagen zu berechnen."
+operative_cautious:0 "Vorsichtig"
+operative_cautious_desc:0 "Manchmal ist Diskretion der bessere Teil der Tapferkeit."
+operative_reckless:0 "Rücksichtslos"
+operative_reckless_desc:0 "Erledigt die Arbeit, scheint aber weniger um die persönliche Sicherheit besorgt zu sein."
+operative_military_background:0 "Militärischer Hintergrund"
+operative_military_background_desc:0 "Der Agent kennt sich beim Militär aus und spricht die universelle Sprache der Soldaten überall."
+operative_political_connections:0 "Politische Verbindungen"
+operative_political_connections_desc:0 "Die richtigen Leute in hohen Positionen zu kennen, kann praktisch sein."
+operative_highly_educated:0 "Hochgebildet"
+operative_highly_educated_desc:0 "Manchmal hilft es, den Unterschied zwischen einer Säure und einer Base zu kennen."
+operative_efficient:0 "Effizient"
+operative_efficient_desc:0 "Erledigt die Aufgabe mit so wenig Werkzeug wie nötig."
+operative_streetwise:0 "Straßenweise"
+operative_streetwise_desc:0 "Ihr Hintergrund mag zwielichtig sein, aber der Agent hat Kontakte, wo es darauf ankommt."
+operative_master_infiltrator:0 "Meisterinfiltrator"
+operative_master_infiltrator_desc:0 "Dieser Mitarbeiter ist ein Meister darin, sich an jede Umgebung anzupassen und sich perfekt einzufügen."
+operative_survivor:0 "Überlebender"
+operative_survivor_desc:0 "Irgendwie scheint es dieser Agent immer lebendig zu überstehen."
+operative_master_commando:0 "Meistersoldat"
+operative_master_commando_desc:0 "Dieser Mitarbeiter hat eine der besten militärischen Ausbildungen, die es gibt."
+operative_master_saboteur:0 "Meistersaboteur"
+operative_master_saboteur_desc:0 "Wenn dieser Agent in die Nähe kommt, kann er es sabotieren."
+
+operation_infiltrate_armed_forces_army_outcome:0 "Armee infiltrieren Effektivität"
+operation_infiltrate_armed_forces_navy_outcome:0 "Marine infiltrieren Effektivität"
+operation_infiltrate_armed_forces_airforce_outcome:0 "Luftwaffe infiltrieren Effektivität"
+operation_infiltrate_armed_forces_army_risk:0 "Armee infiltrieren Risiko"
+operation_infiltrate_armed_forces_navy_risk:0 "Marine infiltrieren Risiko"
+operation_infiltrate_armed_forces_airforce_risk:0 "Luftwaffe infiltrieren Risiko"
 
 ### Unit Leader Traits ###
 artillery_officer:0 "Artillerie Offizier"
