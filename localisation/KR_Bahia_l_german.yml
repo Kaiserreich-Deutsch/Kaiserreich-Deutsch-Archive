@@ -1,6 +1,6 @@
 ﻿l_german:
 ### Übersetzt von Davideko - > Proho ###
-bahia_focus:0 "Bahianischer Fokusbaum"
+bahia_focus:0 "Schwerpunktbaum von Bahianischer"
 
 ### Parties ###
 BAH_social_democrat_party:0 "PSD"
@@ -78,8 +78,8 @@ BAH_airbases:0 "Verbesserte Luftstützpunkte"
 BAH_airbases_desc:0 "Unsere Luftstützpunkte werden vergrößert, damit wir und unsere Verbündete sie gleichzeitig nutzen können"
 BAH_fightereffort:0 "Himmelsverteidigung"
 BAH_fightereffort_desc:0 "Wir müssen alle ausländische Versuche verweigern, Luftüberlegenheit über Bahia zu erlangen!"
-BAH_cas:0 "Luftunterstützungs Fokus"
-BAH_cas_desc:0 "Wir werden sicherstellen, dass unsere Luftstreitkräfte über Luftunterstützungsbomber über qualifizierte Piloten verfügt"
+BAH_cas_focus:0 "Luftunterstützungs Fokus"
+BAH_cas_focus_desc:0 "Wir werden sicherstellen, dass unsere Luftstreitkräfte über Luftunterstützungsbomber über qualifizierte Piloten verfügt"
 BAH_todos_os_santos:0 "Bahianische Marine"
 BAH_todos_os_santos_desc:0 "Eine Marine von Grund auf neu aufzubauen ist nicht einfach, aber wir werden diese Herausforderung annehmen!"
 BAH_coastaldefenses:0 "Küstenverteidigung"

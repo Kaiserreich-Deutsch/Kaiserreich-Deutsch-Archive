@@ -4,7 +4,7 @@ bukhara_kabul_pact:0 "Bukhara-Kabul Pakt"
 
 ### Leaders ###
 POLITICS_AMANULLAH_KHAN_DESC:0 "Wer außer Babur hat Afghanistan jemals mehr Veränderung und Ansehen gebracht als Amanullah Khan? Amanullah bestieg den Thron inmitten des Weltkrieges und griff sofort das britische Empire an und errang schöne Zugeständnisse. Er nutzte diesen Sieg und die darauf folgenden weiteren Erfolge nach dem Zusammenbruch des britischen Empire, um umfassende soziale Reformen durchzuführen. Obwohl Amanullahs Herrschaft absolut bleibt, träumt er davon, eine echte konstitutionelle Regierungsführung nach Afghanistan zu bringen und die tiefen ethnischen und Stammesunterschiede der Nation zu überwinden. Die Zeit wird zeigen, ob die Vision dieses großen Reformators kommen werden."
-POLITICS_HABIBULLAH_KALAKANI_DESC:0 "Kalakani, ein Tadschike, war ein jahrelang ein Offizier der afghanischen Königlichen Armee, der vor dem Chaos des Zusammenbruchs des Britischen Empires desertierte. In diesem Chaos und vor der Aufstellung regulären Armee wandte sich Kalakani dem Verbrechen zu. Als es der Armee jedoch gelang, ein Mindestmaß an Ordnung wiederherzustellen, floh Kalakani und suchte den Schutz seinem tadschikischen Stamm. Kalakani widersetzte sich den Reformen und Modernisierungskampagnen von Amamnullah Khan und kam an die Spitze einer ländlichen ultrakonservativen Bewegung, die seinen Namen trug. Schockierender weise hat seine Bewegung Amanullah erfolgreich gestürzt und Kalakani hat die afghanische Krone errungen."
+POLITICS_HABIBULLAH_KALAKANI_DESC:0 "Der ethnische Tadschike Kalakani war ein langjähriger Offizier der königlichen afghanischen Armee, der kurz vor den Wirren des Zusammenbruchs des britischen Empire desertierte. In diesem Chaos und vor der Aufstellung regulären Armee wandte sich Kalakani dem Verbrechen zu. Als es der Armee jedoch gelang, ein Mindestmaß an Ordnung wiederherzustellen, floh Kalakani und suchte den Schutz seinem tadschikischen Stamm. Kalakani widersetzte sich den Reformen und Modernisierungskampagnen von Amamnullah Khan und kam an die Spitze einer ländlichen ultrakonservativen Bewegung, die seinen Namen trug. Schockierender weise hat seine Bewegung Amanullah erfolgreich gestürzt und Kalakani hat die afghanische Krone errungen."
 
 ### Events ###
 afg.0.t:0 "Der 5. anglo-afghanische Krieg?"
@@ -72,7 +72,7 @@ afg.16.d:0 "Nachdem das vom Krieg heimgesuchte Land endlich wieder in Ordnung ge
 afg.16.a:0 "Lasst meinen jüngeren Bruder Shah Wali Khan meinen Willen durchsetzen!"
 afg.16.b:0 "Mein Bruder Muhammed Hashim wird die Regierung leiten!"
 afg.16.c:0 "Der sanftmütige Akademiker Muhammed Ghobar soll das Kabinett 'führen'!"
-afg.16.e:0 "Buhle um Ammanulahs Clique und ernenne Abdul Hadi Dawai!"
+afg.16.e:0 "Amanullahs Clique umwerben und Abdul Hadi Dawai ernennen!"
 afg.16.f:0 "Totale königliche Kontrolle! Ich werde ausschließlich die gesamte Exekutivgewalt ausüben!"
 
 afg.17.t:0 "Status der Reformen von Amanullah"

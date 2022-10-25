@@ -1,6 +1,6 @@
 ﻿l_german:
 ### Übersetzt von DerEherneRächer ###
-portugal_focus:0 "Portugiesischer Fokusbaum"
+portugal_focus:0 "Schwerpunktbaum von Portugal"
 
 ### Parties ###
 POR_totalist_party:0 "PCP"
@@ -275,7 +275,7 @@ POR_redouble_investments:0 "Kolonialinvestitionen verdoppeln"
 POR_redouble_investments_desc:0 "Aufgrund der Durchsetzung unserer Autorität schwinden die pragmatischen Ängste, die Investitionen in die Kolonien zu verlieren, langsam aber sicher, wodurch wir endlich eine neue Phase der kolonialen Entwicklung beginnen können."
 POR_luanda_imperial:0 "Imperiales Luanda"
 POR_luanda_imperial_desc:0 "Luanda ist eine Stadt mit großem Potenzial. Da wir uns um deutsche Angriffe keine Sorgen mehr machen müssen, können wir endlich mit dem Ausbau und der Umgestaltung der Stadt beginnen. Da es sich hierbei um die Hauptstadt des portugiesischen Afrikas handelt, sollten auch Monumente errichtet werden, die an die Heldentaten vieler unserer Soldaten und Generäle erinnern."
-POR_zambia_e_nossa:0 "Übernehmt Sambia!"
+POR_zambia_e_nossa:0 "Übernehmt Sambesien!"
 POR_zambia_e_nossa_desc:0 "Aufgrund ihres Fokus auf natürliche Ressourcen haben die Deutschen ihre eigentliche Pflicht völlig vernachlässigt. Sie sind ihren afrikanischen Untertanen entfremdet und der Kontinent selbst verfällt nach und nach in ein noch nie da gewesenes Chaos. Dadurch bietet sich uns allerdings die Möglichkeit, unser Reich zu erweitern und unsere afrikanischen Provinzen zu vereinen!"
 POR_pinko:0 "Die rosa Karte"
 POR_pinko_desc:0 "Aufgrund der nun in Afrika herrschenden Anarchie können wir endlich das alte Ziel der rosa Karte erreichen und die Kontrolle über das Land zwischen Angola und Mosambik übernehmen. Der Krieg in den Savannen, Wäldern und Bergen wird zwar kein leichter sein, doch wir müssen uns nicht fürchten, denn das Glück belohnt die Mutigen!"
@@ -378,8 +378,8 @@ POR_bomber:0 "Bombardierungskampagne"
 POR_bomber_desc:0 "Unsere Ressourcen sollten am besten für eine Luftstreitkraft genutzt werden, die unsere Truppen unterstützen und Vergeltungsschläge gegen unsere Feinde ausüben kann."
 POR_fighterefforto:0 "Schaffung neuer Jagdflugzeuge"
 POR_fighterefforto_desc:0 "In Jagdflugzeuge zu investieren ist von höchster Wichtigkeit, wenn wir die Luftüberlegenheit an uns reißen wollen. Die Kombination der Erfahrung unserer Verbündeten mit dem Talent portugiesischer Piloten wird einige der besten Flugzeuge der Menschheit kreieren."
-POR_cas:0 "Luftnahunterstützungs-Fokus"
-POR_cas_desc:0 "Unsere Bomber sollten darauf angepasst werden, unsere Truppen auf dem Schlachtfeld zu unterstützen, denn dort ist es, wo Portugals Schicksal besiegelt wird."
+POR_cas_focus:0 "Luftnahunterstützungs-Fokus"
+POR_cas_focus_desc:0 "Unsere Bomber sollten darauf angepasst werden, unsere Truppen auf dem Schlachtfeld zu unterstützen, denn dort ist es, wo Portugals Schicksal besiegelt wird."
 POR_carrier_groups_1:0 "Anpassungen an Flugzeugträger"
 POR_carrier_groups_1_desc:0 "Wenn unsere Flotte ihre volle Stärke entfalten soll, benötigen wir Flugzeugträger, um diese zu verstärken. Wenn sie mit Marineflugzeugen ausgestattet werden, können sie bei der Verteidigung unserer Flotte mehr als nur hilfreich sein."
 POR_projection_of_airpower:0 "Projektion unserer Luftmacht"

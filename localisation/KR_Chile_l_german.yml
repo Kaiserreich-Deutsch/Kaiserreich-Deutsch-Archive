@@ -1,6 +1,6 @@
 ﻿l_german:
-### Übersetzt von MartenDE -> Proho ###
-chile_focus:0 "Chile Schwerpunktbaum"
+### Übersetzt von Proho ###
+chile_focus:0 "Schwerpunktbaum von Chile"
 
 ### Leaders ###
 POLITICS_MARMADUKE_GROVE_DESC:0 "Grove wurde am 6. Juli 1878 in der nördlichen Stadt Copiapó als Sohn von José Marmaduke Grove Abalos, einem Anwalt, und Ana Vallejo Burgoa geboren. Sein Vater wurde 1891 ins Exil geschickt, weil er sich dem Präsidenten José Manuel Balmaceda widersetzte. Trotz seiner frühen Opposition gegen die herrschenden Behörden, trat er 1892 in die chilenische Marineakademie ein. Wegen seiner sozialistischen Tendenzen ins Exil geschickt, wurde er als Verbindungsmann in Großbritannien eingesetzt, eigentlich nur, um ihn aus Chile herauszuhalten. Dort nahm er jedoch an der Revolution teil, und während seines Exils, während der Herrschaft von Präsident Ibañez Del Campo, verschlechterte sich die Wirtschaft Chiles und 1931 ging das Land bankrott. Kurz darauf wurde Ibañez abgesetzt, als der Großteil der Armee und der Marine meuterte, was die Rückkehr Groves nach Chile und die Ausrufung der Sozialistischen Republik ermöglichte. Sein kürzlicher Aufstieg zum Vorsitzenden ist ein deutliches Zeichen dafür, dass sowohl die militärischen als auch die zivilen Behörden in Chile nach jahrelanger Unterstützung der patagonischen Rebellen einen Konflikt mit Argentinien für nahezu unvermeidlich halten."
@@ -101,10 +101,10 @@ CHL_air:0 "Die Philosophie der Luftwaffe aktualisieren"
 CHL_air_desc:0 "Unsere Luftdoktrinen sind immer noch ein Relikt der frühen Luftfahrt und was früher modern war, gehört heute in ein Museum. Unsere Piloten und Planungen werden entsprechend aktualisiert"
 CHL_air2:0 "Flugzeugproduktion"
 CHL_air2_desc:0 "Die plötzliche Kürzung der Finanzierung für die Luftwaffe ist vielleicht ein Schlüsselfaktor, warum sie sich uns an der Revolution angeschlossen hat. Jetzt sollten wir mit größter Sorgfalt dafür sorgen, dass unsere Flugzeuge sowohl modern als auch gepflegt sind. Zum Glück haben wir Genossen aus der Britischen Union, die mir in diesem Bestreben am meisten helfen können"
-CHL_fighter:0 "Jägerbemühungen"
+CHL_fighters:0 "Jägerbemühungen"
 CHL_fighter2:0 "Flugzeuge zur Luftnahunterstützung"
 CHL_fighter3:0 "Experimente mit Langstreckenflugzeugen"
-CHL_fighter_desc:0 "Luftherrschaft ist der Schlüssel zum modernen Krieg, an dem nur wenige zweifeln können. Das Aufkommen neuer Kriegsmechanismen bedeutet jedoch, dass unsere alten Doppeldecker nicht mehr für die Verteidigung des chilenischen Himmels geeignet sind"
+CHL_fighters_desc:0 "Luftherrschaft ist der Schlüssel zum modernen Krieg, an dem nur wenige zweifeln können. Das Aufkommen neuer Kriegsmechanismen bedeutet jedoch, dass unsere alten Doppeldecker nicht mehr für die Verteidigung des chilenischen Himmels geeignet sind"
 CHL_fighter2_desc:0 "Luftherrschaft ist bedeutungslos, wenn wir daraus keinen Vorteil an der Front schlagen können. Es sind nicht nur spezielle Flugzeuge erforderlich, sondern auch spezielles Training"
 CHL_fighter3_desc:0 "Unser Land befindet sich strategisch gesehen auf einer zu langen Nord-Süd-Achse, um von gewöhnlichen Kampfflugzeugen angemessen geschützt zu werden. Wir müssen mit Hilfe unserer Genossen in Europa sicherstellen, dass unsere Luftwaffe Flugzeuge hat, die zu langen autonomen Flügen fähig sind"
 CHL_airdoc:0 "Luftstrategie"
@@ -159,8 +159,8 @@ CHL_arty2:0 "Feuerkraftbemühungen"
 CHL_arty2_desc:0 "Wir brauchen in der Tat genauere, gut bewaffnete Artilleriegeschütze, um das Überleben unserer Nation zu sichern. Nun, mit spezialisierten Waffen, werden wir in der Lage sein, den Feind mit Feuer zu beschießen!"
 CHL_high_command:0 "Oberkommandoreformen"
 CHL_high_command_desc:0 "Unser militärisches Oberkommando muss aufgerüttelt werden und die Konterrevolutionäre werden nicht warten, bis unsere Taktiken und Strategien aktualisiert sind, bevor sie uns angreifen!"
-CHL_mountaineers:0 "Erweiterung der Bergsteigerbrigade"
-CHL_mountaineers_desc:0 "Die Berge, die uns umgeben, sind ein wesentlicher Bestandteil jedes nationalen Verteidigungsplans im Falle einer Invasion. Pässe, Gipfel und Hügel dürfen nicht mit neuen Rekruten besetzt werden, sondern mit speziell ausgebildeten Elite-Regimentern, die für die raue Realität des Berglebens gerüstet sind"
+CHL_mountaineer_focus:0 "Erweiterung der Bergsteigerbrigade"
+CHL_mountaineer_focus_desc:0 "Die Berge, die uns umgeben, sind ein wesentlicher Bestandteil jedes nationalen Verteidigungsplans im Falle einer Invasion. Pässe, Gipfel und Hügel dürfen nicht mit neuen Rekruten besetzt werden, sondern mit speziell ausgebildeten Elite-Regimentern, die für die raue Realität des Berglebens gerüstet sind"
 CHL_andean_strategy:0 "Anden-Strategie"
 CHL_andean_strategy_desc:0 "Die sogenannte Santiago-Linie wird die letzte Bastion unserer Nation sein, wenn Argentinien uns überwältigt und die Anden überquert. Das unwegsame Gelände in und um Santiago wird für ausländische Invasoren undurchdringlich gemacht, so dass wir auch den härtesten numerischen Nachteilen widerstehen können"
 CHL_long_term_planning:0 "Langzeitplanung"
@@ -304,7 +304,7 @@ CHL_elections_free_np_desc:0 "Überraschenderweise haben Marees und seine populi
 CHL_nationalist_junta:0 "Nationalistische Junta"
 CHL_nationalist_junta_desc:0 "Nach der Machtergreifung hat Valderrama bereits einen Plan skizziert, um seine politischen Feinde bösartig zu verfolgen und einen syndikalistischen Gegenputsch zu verhindern"
 CHL_assert_dominance:0 "Dominanz behaupten"
-CHL_assert_dominance_desc:0 "Wir müssen ohne Unsicherheit zeigen, dass wir die Zügel des Staates kontrollieren"
+CHL_assert_dominance_desc:0 "Wir müssen mit aller Deutlichkeit zeigen, dass wir die Zügel des Staates in der Hand haben."
 CHL_cleanse_military_dissent:0 "Militärische Meinungsverschiedenheiten bereinigen"
 CHL_cleanse_military_dissent_desc:0 "Es gibt viele in der Armee, die immer noch syndikalistische Sympathien hegen. Wir müssen sie umerziehen, bevor sie zu einem Problem werden"
 CHL_cleanse_naval_dissent:0 "Meinungsverschiedenheiten in der Marine bereinigen"
@@ -341,199 +341,255 @@ chl.1.t:0 "Erdbeben in Chile"
 chl.1.d:0 "Bei einem Erdbeben in Chile wurden 30.000 Menschen getötet und Tausende von Menschen sind obdachlos geworden. Wir sollten etwas tun, um ihnen zu helfen."
 chl.1.a:0 "Helft den Überlebenden!"
 chl.1.b:0 "Die Bedürfnisse der Vielen überwiegen die Bedürfnisse dieser wenigen Unglücklichen."
+
 chl.2.t:0 "Der dritte Vorsitzende"
 chl.2.d:0 "Unsere junge Republik hält jetzt ihre zweiten zentralen Wahlen ab; es wird viel gefeiert und drei Hauptkandidaten versuchen, die Stimmen der Arbeiter zu beeinflussen. Blest Riffo, ein langjähriger Kämpfer für die Rechte der Arbeiter in den schlimmsten Zeiten der Unterdrückung, wird sowohl von Marmaduke als auch von den meisten orthodoxen Syndikalisten und damit von der Mehrheit der Wähler bevorzugt. Gegen ihn tritt der junge Salvador Allende an, dessen sehr oppositionelle, breite Koalition so vielfältig wie unzusammenhängend ist, aber sie verspricht eine bessere Zukunft für Chile. Auch die Totalisten, die von den Ideen europäischer Sozialisten wie Mosley und Beira beeinflusst sind, laufen mit eher geringen Chancen mit Labarca als Frontmann. Wie wird das Volk entscheiden?"
 chl.2.a:0 "Clotario Blest Riffo und die orthodoxen Syndikalisten."
 chl.2.b:0 "Salvador Allende und die soziale Koalition."
 chl.2.c:0 "Carlos Labarca und die Mosleyisten."
+
 chl.3.t:0 "Chile im Jahr 1936"
 chl.3.d:0 "Nach dem Salpeterkrieg 1879–1883, in dem Chile neben der bolivianischen Küstenregion Antofagasta auch die peruanischen Salpeterprovinzen Tarapacá und Arica erhielt, verfügte das Land über riesige Kupfervorkommen und monopolisierte den Welthandel mit Salpeter. Eine Phase des wirtschaftlichen Wohlstands wurde eingeleitet, die von der hohen Nachfrage nach Salpeter zu Beginn des Weltkriegs gestützt wurde. Die chemischen Prozesse, die während dieses Krieges entwickelt wurden, um künstlich Salpeter zu produzieren, machten die Lagerstätten in Chile jedoch wertlos. Die sich verschlechternden wirtschaftlichen Verhältnisse sowie das Bevölkerungswachstum verschärften die soziale Krise. Arbeiter und Gewerkschaften gewannen politischen Einfluss, insbesondere unter der katastrophalen Herrschaft von Carlos Ibañez Del Campo, während dessen Chile 1931 bankrott ging. Kurz danach. Ibañez wurde abgesetzt, und die Marine und der größte Teil der Armee meuterten, und mit der Unterstützung des Volkes und der Ankunft von Verstärkungen aus dem lang verbannten Marmaduke Grove, der aus der Union von Großbritannien kam, wurde die Syndikalistische Republik Chile ausgerufen. Nach 5 Jahren Wiederaufbau unter der Führung von Arturo Puga erholte sich die republikanische Wirtschaft erheblich und der militärische Aufbau hat begonnen. Jetzt, da Argentiniens Rhetorik immer aggressiver wird, ist der angesehene Marmaduke Grove, Militärveteran von zwei Revolutionen, das Ruder beim Wiederaufbau Ihrer Republik. Allerdings sind nicht alle Chilenen so hoffnungsvoll für die Zukunft wie die syndikalistischen Führer..."
 chl.3.a:0 "Das Licht des Syndikalismus wird uns in die Zukunft führen, was immer sie sein wird."
+
 chl.4.t:0 "Der vierte Vorsitzende"
 chl.4.d:0 "Nach 10 Jahren stabiler Regierung freuen sich die Menschen in Chile über den Wohlstand und den Frieden, die die Revolution gebracht hat. Jetzt ist die Zeit gekommen, den vierten Vorsitzenden der Chilenischen Syndikalistischen Republik zu wählen. Drei Kandidaten führen in der Wahl und zwei von ihnen sind angesehene Dichter und Schriftsteller. Gabriela Mistral leitet den Pacto de Calais, eine breite Koalition von Intellektuellen und Politikern, die die Zentralregierung der Republik verteidigen. Im Gegensatz zu den Totalisten von Carlos Contrera Labarca sind regelmäßige Wahlen und persönliche Freiheiten jedoch von größter Bedeutung. Die orthodoxen Syndikalisten werden von Pablo Neruda angeführt, einem weiteren sehr versierten Schriftsteller und Dichter. Aber wer wird die dominierende Partei in Chile sein?"
 chl.4.a:0 "Lucila Godoy y Alcayaga, besser bekannt als Gabriela Mistral, und die Heterodoxen Syndikalisten."
 chl.4.b:0 "Carlos Labarca und die Mosleyisten."
 chl.4.c:0 "Ricardo Eliécer Neftalí, besser bekannt als Pablo Neruda, und die orthodoxen Syndikalisten."
+
 chl.5.t:0 "Der fünfte Vorsitzende!"
 chl.5.d:0 "15 Jahre einer stabilen Regierung in Chile sind vergangen und es ist wieder an der Zeit, den Vorsitzenden der Republik zu bestimmen."
 chl.5.a:0 "Aurelio Celedon Palma und die Neue Soziale Koalition"
 chl.5.b:0 "Carlos Díaz Loyola, besser bekannt als Pablo de Rokha und die Mosleyisten."
 chl.5.c:0 "Luis Emilio Recabarren und die orthodoxen Syndikalisten."
+
 chl.6.t:0 "1940 Amtsantritt des Vorsitzenden"
 chl.6.d:0 "Jetzt, wo der Vorsitzende offiziell sein Amt angetreten hat, jubeln die Anhänger der Partei ihrem Erfolg zu."
 chl.6.a:0 "Viva!"
+
 chl.7.t:0 "1945 Amtsantritt des Vorsitzenden"
 chl.7.d:0 "Jetzt, wo der Vorsitzende offiziell sein Amt angetreten hat, jubeln die Anhänger der Partei ihrem Erfolg zu."
 chl.7.a:0 "Viva!"
+
 chl.8.t:0 "1950 Amtsantritt des Vorsitzenden"
 chl.8.d:0 "Jetzt, wo der Vorsitzende offiziell sein Amt angetreten hat, jubeln die Anhänger der Partei ihrem Erfolg zu."
 chl.8.a:0 "Viva!"
+
 chl.9.t:0 "Befreiungskrieg!"
 chl.9.d:0 "Es besteht nun ein Kriegszustand zwischen uns und Argentinien, unsere Armee und Marine mobilisieren bereits für den kommenden Konflikt."
 chl.9.a:0 "Wir müssen unseren argentinischen Genossen helfen!"
+
 chl.10.t:0 "Verhandeln Sie für Feuerland"
 chl.10.d:0 "Jetzt, da unsere Kameraden die Kontrolle über Feuerland haben, haben wir die einmalige Gelegenheit, für das Land zu verhandeln, um unsere Unterstützung im Krieg zu entschädigen. Dies würde es uns ermöglichen, die Kontrolle über die Magellanstraße für Chile vollständig zu sichern!"
 chl.10.a:0 "Ja! Beginnen Sie mit den Verhandlungen."
 chl.10.b:0 "Es ist wertlos, sie können es haben."
+
 chl.11.t:0 "Chile bittet um Feuerland"
 chl.11.d:0 "Unsere Genossen in Chile fordern die Kontrolle über Feuerland als Wiedergutmachung für ihre Hilfe im Krieg gegen Argentinien."
 chl.11.a:0 "Es ist wertlos, sie können es haben."
 chl.11.b:0 "Niemals!"
+
 chl.12.t:0 "Die Galapagosinseln ergreifen"
 chl.12.d:0 "Wir können den Krieg auf dem ecuadorianischen Festland als Ablenkung und Vorwand nutzen, um die Galapagos-Inseln als Marinestützpunkt für unsere Flotte zu erobern."
 chl.12.a:0 "Tu es! Unsere mächtige Marine regiert den Pazifik."
 chl.12.b:0 "Besser nicht."
+
 chl.13.t:0 "Die amerikanischen Arbeiter erheben sich!"
-chl.13.d:0 "Die Vereinigten Syndikate von Amerika haben gegen die Bundesregierung revoltiert. Dies könnte eine großartige Gelegenheit sein, unseren amerikanischen Kameraden zu helfen und Erfahrungen für unsere Armee zu sammeln."
+chl.13.d:0 "Die Vereinigten Syndikate von Amerika haben sich gegen die Bundesregierung aufgelehnt. Dies könnte eine gute Gelegenheit sein, unsere amerikanischen Kameraden zu unterstützen und Erfahrungen für unsere Armee zu sammeln."
 chl.13.a:0 "Wir müssen ihnen helfen!"
 chl.13.b:0 "Es gibt nichts, was eine kleine Nation wie wir tun könnte."
+
 chl.14.t:0 "Chilenische Freiwillige treffen ein!"
 chl.14.d:0 "Unsere Kameraden in Chile haben Freiwillige entsandt, um uns bei unserem Bestreben zu helfen, die Revolution in die Vereinigten Staaten zu bringen."
 chl.14.a:0 "Perfekt!"
+
 chl.15.t:0 "Chilenische Freiwillige kehren nach Hause zurück"
 chl.15.d:0 "Unsere Kameraden, die wir nach Amerika geschickt haben, sind nach Hause zurückgekehrt und haben wertvolle Erfahrungen mitgebracht."
 chl.15.a:0 "Willkommen zuhause."
+
 chl.16.t:0 "Die Kriegsanstrengungen scheitern!"
 chl.16.d:0 "Trotz aller Bemühungen verlieren wir derzeit unseren Krieg gegen die Argentinier und es brauen sich Gerüchte über einen anti-syndikalistischen Putsch zusammen..."
 chl.16.a:0 "Ein Offizierskomitee setzt die Syndikalisten ab!"
 chl.16.b:0 "Wir müssen durchhalten!"
+
 chl.17.t:0 "Der Coup ist erfolgreich!"
 chl.17.d:0 "Das Offizierskomitee hat es geschafft! Die beiden Hauptfraktionen der Gruppe sind die Offiziere unter der Führung von Bartolomé Blanche, der sich für eine vorübergehende Rückkehr der Junta zur Demokratie einsetzt, und die zweite Gruppe unter der Führung von Francisco Díaz Valderrama, der die Macht des Staates in einer nationalistischen Junta sichern will. Nur eine dieser Fraktionen kann an der Spitze der neuen chilenischen Regierung stehen..."
 chl.17.a:0 "Bartolomé Blanche hält die Macht in einer Junta!"
 chl.17.b:0 "Francisco Díaz Valderrama erobert den Staatsapparat!"
+
 chl.18.t:0 "Blanche signalisiert Wahlen"
 chl.18.d:0 "Blanche hat die Befürchtungen einer ständigen Junta besänftigt, indem er bestätigt hat, dass demokratische Wahlen in Chile stattfinden werden."
 chl.18.a:0 "Großartig!"
+
 chl.19.t:0 "Die hispanistische Kulturkampagne"
 chl.19.d:0 "Die Regierung unter der Leitung von Valderrama hat eine Kampagne zur Förderung der hispanistischen Kultur in Chile angekündigt, um sie an die Spitze der chilenischen Kultur heranzuführen."
 chl.19.a:0 "Eine lobenswerte Initiative."
+
 chl.20.t:0 "Rafael Franco fordert uns auf, Paraguay zu befreien"
 chl.20.d:0 "Unsere Kameraden in Uruguay haben uns um unsere Unterstützung bei der Befreiung von ihrem Unterdrückungsregime gebeten."
 chl.20.a:0 "Wir werden sehen, was wir tun können!"
+
 chl.21.t:0 "Goliath besiegen!"
 chl.21.d:0 "Es ist endlich an der Zeit, Brasilien zu zeigen, dass die Größe Ihres Landes nicht immer über Kriege entscheidet!"
 chl.21.a:0 "Brasilien kann uns nicht aufhalten!"
+
 chl.22.t:0 "Reaktionäre verhaftet"
 chl.22.d:0 "Unsere jüngsten Bemühungen, Verräter auszumerzen, haben Früchte getragen, und viele Verräter und Reaktionäre wurden festgenommen."
 chl.22.a:0 "Bring sie in die Flugzeuge und aus meinen Augen."
+
 chl.23.t:0 "Mapuchen revoltieren gegen uns!"
 chl.23.d:0 "Mit dem gegenwärtigen Krieg, der unser Land belastet, haben sich die Mapuchen in den Provinzen südlich von Santiago gegen unsere Regierung aufgelehnt und verwenden Krieg auf niedriger Ebene, um uns Probleme zu bereiten."
 chl.23.a:0 "Verdammte Eingeborene!"
+
 chl.24.t:0 "Ein besonderes Treffen"
 chl.24.d:0 "Oppositionsführer Salvador Allende traf sich heute beim Mittagessen mit dem angesehenen Offizier Bartolomé Blanche und diskutierte die Vorbereitung eines weiteren Treffens zur Erörterung „sensibler Themen“."
 chl.24.a:0 "„Ich bin fasziniert, wir sehen uns wieder.“"
+
 chl.25.t:0 "Ein zweites Treffen"
 chl.25.d:0 "Salvador Allende und Bartolomé Blanche trafen sich erneut, diesmal in Allendes Haus, wo der Offizier vorschlug, ihre Differenzen beiseite zu legen, um zusammenzuarbeiten und die derzeitige totalistische Regierung zu stürzen, aber er würde Zeit brauchen, um einen Plan auszuarbeiten."
 chl.25.a:0 "„Arbeiten wir zusammen … für den Moment.“"
+
 chl.26.t:0 "Planung der Operation"
 chl.26.d:0 "Nach dem langen Warten kehrte Blanche mit einem endgültigen Plan, den Totalisten die Zügel der Regierung abzunehmen, zu Allende zurück. Blanche bestand darauf, dass ein Attentat notwendig war, um sicherzustellen, dass der Plan funktionierte, während Allende zögerte und dazu tendierte, einen Rücktritt zu erzwingen."
 chl.26.a:0 "Töten wir den Vorsitzenden!"
 chl.26.b:0 "Umgebt den Palast und zwingt ihn zum Rücktritt."
+
 chl.27.t:0 "Der Coup ist erfolgreich!"
 chl.27.d:0 "Die Streitkräfte von Allende und Blanche haben das Unterdrückungsregime der Totalisten erfolgreich abgesetzt, aber es bleibt abzuwarten, welcher der beiden sich erheben wird, um den Mantel der chilenischen Führung zu übernehmen."
 chl.27.a:0 "Unter Bartolomé Blanche entsteht eine Junta."
 chl.27.b:0 "Gemäßigte Sozialisten, angeführt von Allende, kommen an die Macht."
+
 chl.28.t:0 "Coup vereitelt!"
 chl.28.d:0 "Trotz der Bemühungen der Verschwörer haben die totalistischen Kräfte die Verschwörung gegen ihre Regierung vereitelt und viele der Verschwörer verhaftet, aber die Machthaber bleiben frei. Das öffentliche Image des totalistischen Regimes wurde jedoch in Mitleidenschaft gezogen."
 chl.28.a:0 "Verdammte Verräter! Startet die Flugzeuge und rufen Sie die Osterinsel an, sie haben viel Verkehr zu erwarten."
+
 chl.29.t:0 "Allende ist als moderater Kandidat nominiert"
 chl.29.d:0 "Bis jetzt war noch kein klarer Führer auf der gemäßigten Seite der syndikalistischen Parteien erschienen. Dies änderte sich, als Salvador Allende die Partei zusammenbrachte, sie in „Soziale Koalition“ umbenannte und seine Kandidatur für den von seiner Partei gewählten Vorsitzenden ankündigte."
 chl.29.a:0 "Viel Glück für den Nachwuchs!"
+
 chl.30.t:0 "Clotário Blest Riffo, gefeierter orthodoxer Spitzenreiter"
 chl.30.d:0 "Wenig überraschend wurde Clotário Blest Riffo als Präsidentschaftskandidat für die orthodoxen Syndikalisten nominiert, aber es bleibt abzuwarten, wie gut er sich mit der stabilen Herrschaft seines Vorgängers vergleichen kann, wenn er gewählt wird."
 chl.30.a:0 "Ein klarer Favorit!"
+
 chl.31.t:0 "Labarca kündigt Übernahmeangebot an"
 chl.31.d:0 "Carlos Contrera Labarca hat seine Kandidatur für den Vorsitz als Vorsitzender seiner Partei, den Mosleyisten, angekündigt. Obwohl er der unbeliebteste der drei syndikalistischen Spitzenreiter ist, hat er geschworen, dass er gewinnen wird, egal was es kostet."
 chl.31.a:0 "Das ist unwahrscheinlich."
+
 chl.32.t:0 "Lucila Godoy schließt sich mit Allende zusammen"
 chl.32.d:0 "Besser bekannt als ihr Pseudonym Gabriela Mistral, hat Lucila Godoy y Alcayaga ihre Mitgliedschaft und Nominierung als Kandidatin für die Vorsitzende in Allendes Partei der gemäßigten Sozialisten angekündigt, die kürzlich in „Heterodoxe Syndikalisten“ umbenannt wurde."
 chl.32.a:0 "Die breite Front wird noch breiter!"
+
 chl.33.t:0 "Ricardo Eliécer Neftalí steigt in den orthodoxen Rängen auf"
 chl.33.d:0 "Ricardo Eliécer Neftalí, besser bekannt als Pablo Neruda, ist in den Reihen der orthodoxen Sozialisten erstaunlich schnell aufgestiegen und hat sich bei den bevorstehenden Wahlen als Spitzenreiter für den Vorsitz herausgestellt."
 chl.33.a:0 "Ein Dichter gegen einen anderen!"
+
 chl.34.t:0 "Labarca wird es erneut versuchen!"
 chl.34.d:0 "Trotz seines Verlustes bei den vorherigen Wahlen hat Labarca nichts von seiner Entschlossenheit verloren und heute Morgen angekündigt, dass er ein zweites Mal zur Wahl zum Vorsitzenden antritt."
 chl.34.a:0 "In der Tat."
+
 chl.35.t:0 "Neftalí veröffentlicht politisch aufgeladenes Buch!"
 chl.35.d:0 "Überraschenderweise veröffentlichte Neftalí ein Buch, in dem er seine Pläne als neuer Vorsitzender ankündigte, sowie die Politik und die Schwächen von Lucila Godoy und Carlos Labarca sowie ihrer Parteien verleumdete."
 chl.35.a:0 "Ein Kampf braut sich zusammen!"
+
 chl.36.t:0 "Lucila reagiert aggressiv auf Neftalis Behauptungen"
 chl.36.d:0 "Als Reaktion auf die verleumderischen Behauptungen, die Neftalí in seinem Buch aufgestellt hat, hat Lucila mit Behauptungen von Feigheit und böser Absicht zurückgeschossen, was wie der zweite Schlag eines politischen Kampfes aussieht."
 chl.36.a:0 "So unzivilisiert!"
+
 chl.37.t:0 "Carlos Díaz Loyola unterstützt Labarca und verspottet Neftalí"
 chl.37.d:0 "Ein dritter Dichter hat für die aktuelle Wahl die Bühne der Politik betreten. Carlos Díaz Loyola, bekannt als Pablo de Rokha, hat seine Unterstützung für Labarca und die Mosleyisten angekündigt und gleichzeitig Neftalis Buch und sein Fehlen von Führungsstärke verspottet."
 chl.37.a:0 "Bei so vielen Dichtern vermissen wir bestimmt bald die üblichen Politiker!"
+
 chl.38.t:0 "Neftalí reagiert auf Anschuldigungen und bittet um Höflichkeit"
 chl.38.d:0 "Der orthodoxe Spitzenreiter hat auf die Angriffe reagiert, indem er auf seine frühere Feindseligkeit zurückgegangen ist und vor den sich rasch nähernden Wahlen um Höflichkeit gebeten hat, was dazu geführt hat, dass einige ihn als schwach ansehen, während andere es als professionelle Reaktion ansehen."
 chl.38.a:0 "Warum können wir nicht alle miteinander auskommen?"
+
 chl.39.t:0 "Netalí und Lucila versöhnen sich wegen Missverständnissen"
 chl.39.d:0 "Nach den Wahlen trafen sich die Parteiführer Lucila Godoy und Ricardo Neftalí, um die angespannten Beziehungen zwischen ihren beiden Parteien auszubügeln und ein engeres Band zu knüpfen, um Chile effektiver zu führen."
 chl.39.a:0 "Eine großartige Entwicklung!"
+
 chl.40.t:0 "Carlos Díaz Loyola greift erneut Neftalí und Godoy an"
 chl.40.d:0 "Trotz des Wahlverlusts haben die Totalisten ihre feindselige Rhetorik fortgesetzt und Carlos Díaz Loyola hat neue Ansprüche gegen die beiden Führer seiner Oppositionsparteien erhoben. Dies hat in Chiles politischer Szene mehr Ärger und Aufsehen erregt, obwohl der mosleyistische Parteichef Carlos Labarca seltsamerweise darüber geschwiegen hat."
 chl.40.a:0 "Wie unhöflich!"
+
 chl.41.t:0 "Carlos Díaz Loyola übernimmt die Herrschaft über die Totalisten!"
 chl.41.d:0 "Unter Berufung auf seine ineffektive Führung und die Niederlage bei den Wahlen ist Carlos Labarca als Parteichef der Mosleyisten zurückgetreten. Die Lücke wurde schnell von dem dreisten Dichter Carlos Díaz Loyola gefüllt, der der maroden mosleyistischen Partei neues Leben einhaucht."
 chl.41.a:0 "Wird ihnen eine neue Führung wirklich helfen?"
+
 chl.42.t:0 "Die Revolution in Amerika anführen!"
 chl.42.d:0 "Mit dem katastrophalen Fall der Vereinten Syndikate sind wir das letzte große syndikalistische Land in Amerika. Wir müssen die Fackel aufnehmen und die Revolution mutig führen!"
 chl.42.a:0 "Viva!"
+
 chl.43.t:0 "Carlos Ibáñez del Campo kehrt zurück?"
 chl.43.d:0 "Nachdem Carlos Ibáñez del Campo nach der Revolution ins Exil geschickt worden war, kehrte er schließlich nach Chile zurück und kündigte seine Kandidatur für die Präsidentschaft im Rahmen der Popular Freedom Alliance an."
 chl.43.a:0 "Er glaubt wirklich, er kann gewinnen?"
+
 chl.44.t:0 "Sozialistische Rehabilitation"
 chl.44.d:0 "Während wir uns darauf konzentrieren, Chile auf einen Übergang zur Demokratie vorzubereiten, haben wir erfolglos versucht, Pläne zur Wiederherstellung der Beziehungen zu den Sozialisten umzusetzen. Vielleicht hat eine Regierung, die nicht in einer Junta ist, mehr Glück?"
 chl.44.a:0 "Wir werden Zeit brauchen."
+
 chl.45.t:0 "Sich mit Carlés und Aguero zusammenschließen?"
 chl.45.d:0 "Unsere neue Regierung ist viel enger mit unseren früheren Feinden verbunden als bisher angenommen und sie haben Interesse bekundet, dass wir uns ihrem Bündnis anschließen. Vielleicht sollten wir uns ihnen anschließen?"
 chl.45.a:0 "Dios y Patria!"
 chl.45.b:0 "Das ist keine gute Idee."
+
 chl.451.t:0 "Chile bittet darum, unserer Fraktion beizutreten."
 chl.451.d:0 "Wir haben eine Anfrage der chilenischen diplomatischen Vertreter erhalten, in der sie darum bitten, dass Chile mit uns ein Militärabkommen unterzeichnen darf und sich damit in dem immer komplexer werdenden Kräfteverhältnis formell mit uns verbündet."
 chl.451.a:0 "Wunderbar, wir sind ganz Ihrer Meinung."
 chl.451.b:0 "Sich in eine solche Vereinbarung zu verstricken, ist nicht in unserem Sinne."
+
 chl.46.t:0 "Dem Reichspakt beitreten?"
 chl.46.d:0 "Deutschland hat unserer Republik ein Angebot zum formellen Beitritt zum Reichspakt unterbreitet. Dies würde zwar unsere diplomatische Position im Ausland stärken, könnte jedoch unvorhergesehene Konsequenzen und unerwünschte Kriege für unsere neue Demokratie nach sich ziehen."
 chl.46.a:0 "Ja! Angebot annehmen."
 chl.46.b:0 "Es ist unklug. Ablehnen."
+
 chl.47.t:0 "Dem Reichspakt beitreten?"
 chl.47.d:0 "Deutschland hat unserer Junta ein Angebot zum formellen Beitritt zum Reichspakt unterbreitet. Dies würde zwar unsere diplomatische Position im Ausland stärken, könnte jedoch unvorhergesehene Konsequenzen und unerwünschte Kriege mit sich bringen, solange wir uns noch erholen."
 chl.47.a:0 "Ja! Angebot annehmen."
 chl.47.b:0 "Es ist unklug. Ablehnen."
+
 chl.48.t:0 "Demokratische Wahlen von 1941"
 chl.48.d:0 "Es ist an der Zeit, dass die Junta endet und das Volk sich endgültig für einen Anführer entscheidet, der es wieder in die Demokratie führt. Da dies die erste Wahl nach der Junta ist, ist niemand sicher, welcher der vier Kandidaten als Sieger hervorgehen wird."
 chl.48.a:0 "Carlos Ibáñez del Campo und die Popular Freedom Alliance."
 chl.48.b:0 "Juan Esteban Montero und der Pakt von Calais."
 chl.48.c:0 "Arturo Allessandri und die Liberale Partei."
 chl.48.e:0 "Jorge González von Marées und das Komitee der Offiziere gegen Atheismus und Verräter."
+
 chl.49.t:0 "Demokratische Wahlen von 1947"
 chl.49.d:0 "Sechs Jahre sind seit den ersten demokratischen Wahlen seit der Absetzung des syndikalistischen Regimes vergangen und es ist wieder an der Zeit, für die nächste Regierungspartei der Republik Chile zu stimmen. Es stehen wieder 4 Kandidaten auf dem Stimmzettel und die Wahlen werden voraussichtlich erneut stattfinden."
 chl.49.a:0 "Rafael Fernandez Reyes und die Popular Freedom Alliance."
 chl.49.b:0 "Gabriel González Videla und der Pakt von Calais."
 chl.49.c:0 "Eduardo Alessandri und die Liberale Partei."
 chl.49.e:0 "Jorge González von Marées und das Komitee der Offiziere gegen Atheismus und Verräter."
+
 chl.50.t:0 "Anarchisten und Sozialisten fordern eine Re-Legalisierung"
 chl.50.d:0 "Obwohl ihre Partei von der ehemaligen Junta verboten wurde, sind viele Anarchisten und Sozialisten immer noch zuversichtlich, an der Politik der neuen Republik teilnehmen zu dürfen, und haben erneut die Legalisierung ihrer Parteien beantragt."
 chl.50.a:0 "Es wird dem Frieden helfen."
 chl.50.b:0 "Niemals!"
-chl.51.t:0 "Unsere Antarktisansprüche"
+
+chl.51.t:0 "Unser Anspruch auf die Antarktis"
 chl.51.d:0 "Chile hat lange das Eigentum an Teilen der Antarktis beansprucht. Wir könnten diese Forderungen aggressiver durchsetzen, wenn wir dies wünschen."
 chl.51.a:0 "Warum? Da sind nur Pinguine."
 chl.51.b:0 "Es gehört zu Chile!"
+
 chl.52.t:0 "Chile erobert die Galapagosinseln"
 chl.52.d:0 "Chile hat den Konflikt mit Peru ausgenutzt und versucht, die Inseln zu erobern, während wir von unserem Krieg abgelenkt sind."
 chl.52.a:0 "Wir können nichts tun..."
 chl.52.b:0 "Befiehlt der Garnison, sie abzuwehren!"
+
 chl.53.t:0 "Versagen auf den Galapagosinseln"
 chl.53.d:0 "Trotz unseres großartigen Plans, die Galapagosinseln zu erobern, während Ecuador von ihrem Krieg abgelenkt war, waren die Inseln weitaus stärker besetzt, als wir erwartet hatten und unsere Invasion wurde ins Meer zurückgeschickt. Dies ist eine Schande für die Nation und es ist unwahrscheinlich, dass Ecuador unsere Übertretungen vergisst."
 chl.53.a:0 "Verdammt sollen sie sein!"
+
 chl.54.t:0 "Chile möchte der Internationalen beitreten"
 chl.54.d:0 "Die Arbeiterrevolution in Chile war sehr erfolgreich, ein leuchtendes Vorbild in der südlichen Hemisphäre für revolutionäre Ideale. Sie fühlen sich jedoch von reaktionären Nachbarn und anderen imperialistischen Bedrohungen bedroht und meinen, dass es höchste Zeit ist, der Internationale beizutreten."
 chl.54.a:0 "Lasst sie uns im Kampf für die Weltrevolution willkommen heißen!"
 chl.54.b:0 "Das ist unsinnig!"
+
 chl.55.t:0 "[From.GetNameDefCap] Hat zugestimmt"
 chl.55.d:0 "[From.GetNameDefCap] haben unsere Bitte angenommen, der Dritten Internationale beizutreten. Wir haben jetzt starke Verbündete auf der ganzen Welt."
 chl.55.a:0 "Vorwärts!"
+
 chl.56.t:0 "[From.GetNameDefCap] Hat abgelehnt"
 chl.56.d:0 "Inexplicably, [From.GetNameDefCap] hat sich geweigert, unseren Eintritt in die Dritte Internationale zuzulassen."
 chl.56.a:0 "Haben sie den Verstand verloren?"
@@ -544,6 +600,9 @@ CHL_heroes:0 "Waffenbrüder und Schwestern"
 ### Decisions ###
 CHL_join_internationale:0 "Beitritt zur Internationale"
 CHL_join_internationale_desc:0 "Viele unserer Männer, einschließlich Marmaduke Grove selbst, waren Teil der Revolution sowohl dort als auch in Großbritannien. Jetzt, da der Sozialismus in Argentinien entscheidend triumphiert hat, sollten wir unseren Platz inmitten unserer Brüder und Schwestern der internationalen syndikalistischen Gemeinschaft einnehmen."
+ 
+ CHL_industrial_development:0 "Industrielle Entwicklung"
+ CHL_development:0 "Entwickeln [FROM.GetName]"
 
 ### Country Names ###
 CHL_totalist:0 "Chile"

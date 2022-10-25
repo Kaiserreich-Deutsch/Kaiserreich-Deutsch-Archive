@@ -1,10 +1,8 @@
 ﻿l_german:
-
 ### Übersetzt von DerEherneRächer ###
-
 ### Events ###
 cyp.1.t:0 "Zypern erklärt seine Unabhängigkeit"
-cyp.1.d:0 "Wie es scheint hat die Bevölkerung Zyperns einen Moment der Schwäche erkannt und will diesen nun ausnutzen. Demonstranten haben die Regierungsgebäude in Nikosia gestürmt und in den Hügeln und Wäldern der Insel kämpfen Rebellen, welche wahrscheinlich von Griechenland unterstützt wurden, mit Guerilla-Taktiken gegen unsere gänzlich überforderte Garnison.\n\nMit der Hoffnung, die Enosis, eine Vereinigung mit Griechenland, zu erzielen, haben die Rebellen mit der griechischen Regierung Kontakt aufgenommen und bitten diese nun um offizielle Unterstützung der Rebellion und die Anerkennung der Insel als Teil ihres Territoriums. Die türkische Bevölkerung Zyperns muss sich nun entscheiden, was ihr wichtiger ist: Ihre Loyalität der osmanischen Regierung in Konstantiniyye gegenüber oder ihr Stolz darauf, Zyprer zu sein."
+cyp.1.d:0 "Wie es scheint hat die Bevölkerung Zyperns einen Moment der Schwäche erkannt und will diesen nun ausnutzen. Demonstranten haben die Regierungsgebäude in Nikosia gestürmt und in den Hügeln und Wäldern der Insel kämpfen Rebellen, welche wahrscheinlich von Griechenland unterstützt wurden, mit Guerilla-Taktiken gegen unsere gänzlich überforderte Garnison.\n\nMit der Hoffnung, die Enosis, eine Vereinigung mit Griechenland, zu erzielen, haben die Rebellen mit der griechischen Regierung Kontakt aufgenommen und bitten diese nun um offizielle Unterstützung der Rebellion und die Anerkennung der Insel als Teil ihres Territoriums. Die türkische Bevölkerung Zyperns muss sich nun entscheiden, was ihr wichtiger ist: Ihre Loyalität der osmanischen Regierung in Kostantiniyye gegenüber oder ihr Stolz darauf, Zyprer zu sein."
 cyp.1.a:0 "Hisst die blaue Flagge! (Als Zypern spielen)"
 cyp.1.b:0 "Zypern bleibt Kibris!"
 
@@ -29,7 +27,7 @@ cyp.6.d:0 "Grivas wurde 1898 in Trikomo, einem kleinen Dorf ca. 50 km nordöstli
 cyp.6.a:0 "Griechenland wird vereint werden!"
 
 cyp.7.t:0 "Zypriotischer Unabhängigkeitskrieg"
-cyp.7.d:0 "Die Tatsache, nach dem Kollaps des Britischen Imperiums wieder von Türken regiert zu werden, sieht ein Großteil der Zyprer aufgrund ihrer griechischen Kultur als Beleidigung. Der Wunsch nach Enosis, einer Union mit Griechenland, wuchs seit der Wiederaufnahme ins Osmanische Reich stetig weiter, jedoch unternahm das Regime in Konstantiniyye die notwendigen Schritte, um sicherzugehen, dass Zypern niemals unabhängig werden würde. Eine Gruppe griechischer Nationalisten mit offizieller Unterstützung der orthodoxen Kirche sieht nun jedoch ihre Gelegenheit, die Osmanen endlich von der Insel zu vertreiben..\n\nDa 20% der Bevölkerung jedoch türkische Muslime sind und die Rebellen kaum allein gegen die Macht der Osmanen ankommen werden, hängt das Schicksal der Revolte voll und ganz von der Unterstützung der Griechen ab. Gerüchte besagen, dass die griechische Regierung bereits eine offizielle Antwort vorbereitet, viele fürchten jedoch, dass Griechenland nicht direkt in den Konflikt eingreifen wird, um sich nicht der überlegenen türkischen Flotte und Armee entgegenstellen zu müssen."
+cyp.7.d:0 "Die Tatsache, nach dem Kollaps des Britischen Imperiums wieder von Türken regiert zu werden, sieht ein Großteil der Zyprer aufgrund ihrer griechischen Kultur als Beleidigung. Der Wunsch nach Enosis, einer Union mit Griechenland, wuchs seit der Wiederaufnahme ins Osmanische Reich stetig weiter, jedoch unternahm das Regime in Kostantiniyye die notwendigen Schritte, um sicherzugehen, dass Zypern niemals unabhängig werden würde. Eine Gruppe griechischer Nationalisten mit offizieller Unterstützung der orthodoxen Kirche sieht nun jedoch ihre Gelegenheit, die Osmanen endlich von der Insel zu vertreiben..\n\nDa 20% der Bevölkerung jedoch türkische Muslime sind und die Rebellen kaum allein gegen die Macht der Osmanen ankommen werden, hängt das Schicksal der Revolte voll und ganz von der Unterstützung der Griechen ab. Gerüchte besagen, dass die griechische Regierung bereits eine offizielle Antwort vorbereitet, viele fürchten jedoch, dass Griechenland nicht direkt in den Konflikt eingreifen wird, um sich nicht der überlegenen türkischen Flotte und Armee entgegenstellen zu müssen."
 cyp.7.a:0 "Wir appellieren an Hellas!"
 
 cyp.8.t:0 "Zypern verlangt Enosis"
@@ -63,7 +61,7 @@ cyp.14.t:0 "Die Zypriotische Revolte ist erfolgreich!"
 cyp.14.d:0 "Nun, da das Osmanische Reich endlich besiegt wurde, kann die Bevölkerung Zyperns erfahren, was es heißt, wahrhaft frei sein. Schon jetzt laufen Verhandlungen, deren Ziel es ist, Zypern mit Griechenland zu vereinen und den Traum von Enosis wahr werden zu lassen. Währenddessen finden sowohl in Nikosia als auch in Athen Siegesparaden statt, denen große Teile der Bevölkerung mit Begeisterung beiwohnen. Einige der Helden und Veteranen des Krieges werden von [GRE.GetLeader] persönlich für ihren Dienst ausgezeichnet, auf dass die Geschichte sie niemals vergessen wird."
 cyp.14.a:0 "Ein großartiger Tag für alle Griechen!"
 
-### Nationalgeister ###
+### Ideas ###
 CYP_revolt:0 "Verlangen nach Enosis"
 CYP_revolt_desc:0 "Enosis, eine Vereinigung von Griechenland und Zypern, war schon lange das Ziel der Zyprer. Nachdem sie erst von den Osmanen, dann den Briten und nun wieder von den Türken kontrolliert wurde, hat die Bevölkerung der Insel es satt, von fremden Mächten unterdrückt zu werden und will endlich in einem Staat leben, der sie nicht als Bürger zweiter Klasse ansieht."
 CYP_revolt2:0 "Verlangen nach Enosis"

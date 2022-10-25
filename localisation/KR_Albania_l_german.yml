@@ -1,6 +1,6 @@
 ﻿l_german:
 ###  Übersetzt von Proho  ###
-albanian_focus:0 "Albanischer Schwerpunktbaum"
+albanian_focus:0 "Schwerpunktbaum von Albanien"
 
 ### Leaders ###
 POLITICS_WILLIAM_WIED_DESC:0 "Wilhelm, ein deutscher Offizier und Mittlerer-Adliger, wurde kurz vor Beginn des Weltkrieges zum Prinzen des neu unabhängigen Albaniens gekrönt. Im Weltkrieg wurde Wilhelm jedoch wieder abgesetzt, als Albanien zum Schlachtfeld wurde. Schließlich wieder auf den Thron, Wurde Wilhelm dann schnell gestürzt und eine albanische Republik erklärt.\nErneut auf den albanischen Thron zurückversetzt, jongliert Wilhelm nun mit konkurrierenden Interessen und persönlichen Loyalitäten im In- und Ausland. Vielleicht wird das albanische Volk mit Hilfe seiner ausländischen Wohltäter diesen deutschen Protestanten als seinen Prinzen voll und ganz akzeptieren."
@@ -39,7 +39,7 @@ albania.12.d:0 "Aufgrund unserer Investition in den Arm der Gendarmerie haben wi
 albania.12.a:0 "Zum Glück wurde mit der Situation gut umgegangen."
 
 albania.13.t:0 "Allianzangebot aus Albanien?"
-albania.13.d:0 "Nachrichten kamen von einer albanischen Delegation; anscheinend versuchen sie, eine Allianz mit uns zu bilden. Während wir diese während der Weltkriege gegen die serbische Bedrohung in Zusammenarbeit mit albanischen Guerillas unterstützt haben, beanspruchen sie aufgrund der Anzahl der in der Region lebenden Albaner weiterhin einen Teil von Mazedonien. Es bleibt jedoch die Tatsache, dass wir von den meisten Balkanstaaten nicht in einem positiven Licht gesehen werden und jegliche Hilfe zu unseren Gunsten könnte sich als eine kluge Wahl auf der ganzen Linie erweisen. Was sagen wir?"
+albania.13.d:0 "Es gibt Nachrichten über eine albanische Delegation, die offenbar ein Bündnis mit uns anstrebt. Während wir diese während der Weltkriege gegen die serbische Bedrohung in Zusammenarbeit mit albanischen Guerillas unterstützt haben, beanspruchen sie aufgrund der Anzahl der in der Region lebenden Albaner weiterhin einen Teil von Mazedonien. Es bleibt jedoch die Tatsache, dass wir von den meisten Balkanstaaten nicht in einem positiven Licht gesehen werden und jegliche Hilfe zu unseren Gunsten könnte sich als eine kluge Wahl auf der ganzen Linie erweisen. Was sagen wir?"
 albania.13.a:0 "Nehmt das Angebot an; wir könnten die Hilfe gebrauchen."
 albania.13.b:0 "Lehnt das Angebot ab; Wir haben keine Zeit für sie."
 
@@ -82,7 +82,7 @@ albania.25.d:0 "Avni Rustemi, Fan Noli und der Rest der Einheitspartei haben gem
 albania.25.a:0 "Verdammt sie!"
 
 albania.26.t:0 "Gerüchte über Attentate auf Vërlaci"
-albania.26.d:0 "Die Einheitspartei, die jetzt äußerst unzufrieden mit dem Versuch ist, die Landumverteilung zu verhindern, ist zu dem Schluss zu kommen, dass die Progressive Partei nicht die Absicht hat, eine Agrarreform einzuleiten, und hat begonnen, die Dinge selbst in die Hand zu nehmen. Gerüchte über ein Attentat auf Vërlaci und andere Wege, die Progressive Partei zu unterminieren, tauchen auf..."
+albania.26.d:0 "Die Einheitspartei, die mit der Verzögerung der Landumverteilung äußerst unzufrieden ist und zu dem Schluss gekommen ist, dass die Fortschrittspartei nicht die Absicht hat, eine Agrarreform einzuleiten, hat begonnen, die Dinge selbst in die Hand zu nehmen. Gerüchte über ein Attentat auf Vërlaci und andere Möglichkeiten, die Fortschrittspartei zu unterminieren, sind aufgetaucht..."
 albania.26.a:0 "Gott, hilf uns."
 
 albania.27.t:0 "Versuchte Ermordung von Shefqet Vërlaci!"
@@ -99,7 +99,7 @@ albania.30.a:0 "Die Einheitspartei!"
 albania.30.b:0 "Die Progressive Partei!"
 
 albania.31.t:0 "Allianzangebot aus Albanien?"
-albania.31.d:0 "Nachrichten kamen von einer albanischen Delegation; anscheinend versuchen sie, eine Allianz mit uns zu bilden. Während wir als erste Nation während des Weltkrieges ihre Unabhängigkeit anerkannt haben, ist Albanien keine Nation, die stark genug ist, uns bei möglichen Konflikten zu helfen. Es bleibt jedoch die Tatsache, dass jede Hilfe zu unseren Gunsten sich als eine kluge Wahl erweisen könnte. Was sagen wir?"
+albania.31.d:0 "Es gibt Nachrichten über eine albanische Delegation, die offenbar ein Bündnis mit uns anstrebt. Während wir als erste Nation während des Weltkrieges ihre Unabhängigkeit anerkannt haben, ist Albanien keine Nation, die stark genug ist, uns bei möglichen Konflikten zu helfen. Es bleibt jedoch die Tatsache, dass jede Hilfe zu unseren Gunsten sich als eine kluge Wahl erweisen könnte. Was sagen wir?"
 albania.31.a:0 "Nehmt das Angebot an; wir könnten die Hilfe gebrauchen."
 albania.31.b:0 "Lehnt das Angebot ab; Wir haben keine Zeit für sie."
 
@@ -160,7 +160,7 @@ albania.48.d:0 "Die Partisanen, die den gegenwärtigen Veränderungen, die wir u
 albania.48.a:0 "Verfluchte Nationalisten."
 
 albania.49.t:0 "Weitere Partisanenangriffe!"
-albania.49.d:0 "Die Partisanen greifen uns gnadenlos an, diesmal konzentrieren sie sich auf die Beseitigung wichtiger Versorgungslinien, die uns helfen, die Truppen besser auszurüsten, um mit ihnen fertig zu werden. Das hat uns ziemlich zurückgeworfen und wir werden einige Zeit brauchen, um uns zu erholen."
+albania.49.d:0 "Die Partisanen haben uns weiterhin erbarmungslos angegriffen, wobei sie sich diesmal darauf konzentriert haben, wichtige Nachschublinien zu unterbrechen, die wir für die Ausrüstung unserer Truppen benötigen, um gegen sie vorzugehen. Das hat uns ziemlich zurückgeworfen und wir werden einige Zeit brauchen, um uns zu erholen."
 albania.49.a:0 "Verfluchte Nationalisten."
 
 albania.50.t:0 "Sabotage gegen österreichische Firmen"
@@ -176,7 +176,7 @@ albania.52.d:0 "Aufgrund unserer Kontrolle über Albanien mit der Installation v
 albania.52.a:0 "Exzellent."
 
 albania.54.t:0 "Versuchte Ermordung von Wied!"
-albania.54.d:0 "Wir hätten dies mit den jüngsten Reformen sehen können, die umgesetzt wurden. Während die Partisanen nur gegen Dinge vorgegangen sind, die Albanien direkt betroffen hatten, wie neue Schulen und die Abschaffung republikanischer Institutionen, wurde ein Attentäter engagiert, um Wied zu befreien und Albanien von der österreichischen Herrschaft zu befreien. Wenn Wied stirbt, könnte das für alle Beteiligten katastrophal sein!"
+albania.54.d:0 "Mit den jüngsten Reformen hätten wir das eigentlich kommen sehen müssen. Während die Partisanen nur gegen Dinge vorgingen, die Albanien direkt betrafen, wie z.B. neue Schulen und die Abschaffung der republikanischen Institutionen, wurde ein Attentäter angeheuert, um Wied zu beseitigen und Albanien von der österreichischen Herrschaft zu befreien. Wenn Wied stirbt, könnte das für alle Beteiligten katastrophale Folgen haben!"
 albania.54.a:0 "Der Attentäter gibt einen Schuss ab und..."
 
 albania.55.t:0 "Wied wurde getötet!"
@@ -379,7 +379,7 @@ ALB_economic_boom_idea_desc:0 "Wir haben es geschafft, die Auswirkungen des Schw
 ALB_economic_miracle_idea:0 "Wirtschaftswunder"
 ALB_economic_miracle_idea_desc:0 "Durch den Einsatz von Deflationsmaßnahmen, die Verbesserung der Bedingungen für Teilpächter, die Gewährung von Steuererleichterungen für die Eröffnung von Zweigstellen in Albanien und die allgemeine Steigerung der landwirtschaftlichen Produktion haben wir Albanien ein wirtschaftliches goldenes Zeitalter beschert, das von einigen als das albanische Wirtschaftswunder bezeichnet wird."
 ALB_polarised_nation_idea:0 "Polarisierte Nation"
-ALB_polarised_nation_idea_desc:0 "Mit der Gründung eines unabhängigen Albaniens haben zwei Parteien in Albanien die Macht übernommen. Die sozialdemokratische Einheitspartei unter der Führung von Avni Rustemi und der sozialkonservativen Progressiven Partei unter Shefqet Vërlaci. Da die beiden Parteien unterschiedliche Ziele verfolgen, aber beide einen großen Einfluss haben, ist es kein Wunder, dass Albanien in den letzten Jahren so zu einer politisch polarisierten Nation geworden ist..."
+ALB_polarised_nation_idea_desc:0 "Mit der Gründung eines unabhängigen Albaniens haben zwei Parteien in Albanien die Macht übernommen: die sozialdemokratische Einheitspartei von Avni Rustemi und die konservative Fortschrittspartei von Shefqet Vërlaci. Da die beiden Parteien unterschiedliche Ziele verfolgen, aber beide großen Einfluss haben, ist es nicht verwunderlich, dass Albanien in den letzten Jahren zu einem politisch so polarisierten Land geworden ist..."
 ALB_feudal_system_ended:0 "Auflösung des Feudalsystems"
 ALB_feudal_system_ended_desc:0 "Wir haben es geschafft, die gemeinen Albaner vom Joch der Aristokraten und Landbesitzer zu befreien, ihnen freien Willen und freie Herrschaft über ihr eigenes Leben zu geben. Dies ist wirklich ein bedeutender und glorreicher Tag für den gemeinen Mann!"
 ALB_arm_of_gendarmerie_idea:0 "Arm der Gendarmerie"
@@ -424,7 +424,8 @@ ALB_bashkimi_election_win_tt:0 "§GDie Einheitspartei hat es geschafft, als Sieg
 ALB_progressive_election_win_tt:0 "§GDie Progressive Partei hat es geschafft, siegreich hervorzugehen.§!"
 ALB_land_reform_tt:0 "§RDies wird die Progressiven und den Rest der Aristokraten in unserer Nation verärgern.§!"
 ALB_stopping_land_reform_tt:0 "§RDies wird Bashkimi und den Rest der Unterschicht innerhalb unserer Nation verärgern.§!"
- ALB_gendarmerie_tt:0 "§RNot taking this focus may lead to unintended and dire consequences.§!"
+ ALB_gendarmerie_tt:0 "§RWird dies nicht beachtet, kann dies zu unbeabsichtigten und schlimmen Folgen führen.§!"
+ ALB_will_join_BUL_factions:0 "Wenn Bulgarien eine Fraktion gründet, wird Albanien ihr beitreten."
 
 ### Opinion Modifiers ###
 ALB_bularian_relations_accepted:0 "Albanisch-Bulgarische Freundschaft"
@@ -454,11 +455,7 @@ ALB_the_tosk_albanians_desc:0 "Das Arbëreshë-Volk oder die Tosk-Albaner sind M
 ALB_foster_relations_with_bulgaria:0 "Förderung der Beziehungen zu Bulgarien"
 ALB_foster_relations_with_bulgaria_desc:0 "Bulgarien hatte an der Seite der albanischen Guerilla gekämpft und diese beliefert und uns von der serbischen Bedrohung befreit. Eine engere Verbindung mit ihnen zu suchen, könnte sich positiv auf unseren Status als Nation auf dem Balkan auswirken."
 ALB_increased_austrian_ties:0 "Beziehungen zu Österreich verbessern"
-ALB_increased_austrian_ties_desc:0 "Jetzt, da wir unter der Herrschaft der Österreicher stehen, ist es wichtig, dass wir mit ihnen engere Beziehungen eingehen, um sicherzustellen, dass wir eine gute Beziehung zu ihnen aufrechterhalten können, die uns helfen wird, unsere Freiheiten zu bewahren."
-ALB_conquer_chameria:0 "Erobert Chameria"
-ALB_conquer_chameria_desc:0 "Die Eroberung und Befreiung der Albaner in Chameria ist entscheidend, um Albaner auf der ganzen Welt zu vereinen und ein Albanien für Albaner zu schaffen."
-ALB_liberate_the_albanians_in_macedonia:0 "Befreit die Albaner in Mazedonien"
-ALB_liberate_the_albanians_in_macedonia_desc:0 "Die bulgarische Bedrohung hatte viel vom Weltkrieg profitiert, einschließlich Mazedoniens, in dem tausende von Albanern leben, die unter der repressiven bulgarischen Herrschaft leben. Wir müssen unsere Brüder und Schwestern in Mazedonien befreien!"
+ALB_increased_austrian_ties_desc:0 "Jetzt, da wir unter der Herrschaft der Österreicher stehen, ist es wichtig, dass wir engere Beziehungen zu ihnen aufbauen, um sicherzustellen, dass wir ein gutes Verhältnis zu ihnen haben, was uns helfen wird, unsere Freiheiten besser zu bewahren."
 ALB_the_fight_for_kosovo:0 "Der Kampf um den Kosovo"
 ALB_the_fight_for_kosovo_desc:0 "Die Osmanen hatten nach dem Ende der Balkankriege den Kosovo, ein Gebiet, das das Zentrum des albanischen nationalen Erwachens war, an die Serben abgegeben. Die überwiegende Mehrheit der Menschen in diesem Gebiet hat einen albanischen Hintergrund und möchte sich vom serbischen Imperialismus befreit sehen. Wir müssen den Kosovo zurückerobern, egal wie hoch der Preis ist."
 

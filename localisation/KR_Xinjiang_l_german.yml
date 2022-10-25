@@ -1,6 +1,8 @@
-﻿l_german:
+﻿l_german: 
 
-Xinjiang_Clique:0 "Xinjiang Clique Schwerpunktbaum"
+##Übersetzt von Thylon##
+
+Xinjiang_Clique:0 "Schwerpunktbaum von Xinjiang Clique"
 
 #### Parties ###
 SIK_totalist_party:0 "Junge Turkestanische Partei"
@@ -43,7 +45,7 @@ SIK_uyghur_militas:0 "§REine Freiwilligen-Brigade der uigurischen Kavallerie wi
 SIK_secret_police:0 "§REine Brigade der Geheimpolizei von Menhuan wird aufgestellt§!"
 SIK_purge_tooltip:0 "§RWir werden daran arbeiten, uns um die südliche Bürokratie zu kümmern§!"
 SIK_mongol_fight:0 "§RWir können jetzt direkt gegen die mongolische Aggression vorgehen§!"
-SIK_unlock_foriegn:0 "§RWir können jetzt Waffen von Russland anfordern§!"
+SIK_unlock_foreign:0 "§RWir können jetzt Waffen von Russland anfordern§!"
 SIK_jahriyya_growth:0 "§RDer Einfluss des Jahriyya-Ordens wächst.§!"
 
 ### Country Flags ###
@@ -62,7 +64,8 @@ SIK_turfan_deployment:0 "Turfans Garnison wurde mobilisiert."
 SIK_beiyuan_mobilize:0 "Beiyuans Garnison wurde mobilisiert."
 SIK_officials_forgiven:0 "Die südlichen Offiziere wurden begnadigt."
 SIK_uyghurs_in_government:0 "Die Türkischen Offiziere wurden begnadigt."
-SIK_mongol_killing_time:0 "Yang Zengxin wurde in Yunnan gesichtet."
+SIK_mongol_killing_time:0 "Mongolische Räuber sind ausfindig gemacht und unsere Soldaten sind bereit, ihre Bedrohung zu beenden."
+SIK_yang_yunnan:0 "Yang Zengxin wurde in Yunnan gesichtet."
 
 ### Ideas ###
 SIK_opium_addiction:0 "Die Armee und Opium"
@@ -93,7 +96,7 @@ SIK_rumors_discontent_3:0 "Gerüchte der Unzufriedenheit"
 SIK_rumors_discontent_3_desc:0 "Während das Gouverneursamt von Xinjiang vorerst vereint gegen die Bedrohungen der Uiguren und Kumuliks steht, sind wir immer noch so fraktioniert wie eh und je. Sheng Shicai hat dies als seine Chance genutzt, um in Aksu seine Macht auszubauen, während andere darüber nachdenken, zu den Kumuliks überzulaufen. Wenn wir die Bedrohung nicht eindämmen, könnte Jins Status als Gouverneur kürzer sein als erwartet."
 
 SIK_more_workers_employed:0 "Beschäftigungsansturm"
-SIK_more_workers_employed_desc:0 "Sheng Shicai hat seine eigene Beamtenprüfung eröffnet, in der Männer aller Rassen in Xinjiang sich um eine Stelle bewerben können. Diese Strategie lernte Sheng aus seinem Studium der Vormundschaft im Osten."
+SIK_more_workers_employed_desc:0 "Die Regierung hat ein neues Prüfungssystem für den öffentlichen Dienst eingeführt, bei dem sich Männer aller Rassen in Xinjiang um eine Stelle bewerben können - eine Strategie, die aus den Studien der Vormundschaft im Osten gelernt wurde."
 
 SIK_armed_neutrality:0 "Der Sieben-Punkte-Plan"
 SIK_armed_neutrality_desc:0 "Xinkiang war für Jahrhunderte ein Spielball der Russen, der Uiguren und der Emire. Sheng Shicai hat nun die ideologischen Aspekte seines Regimes proklamiert und gleichzeitig die Tür zu besseren Beziehungen zu den südchinesischen Nationen geöffnet, die er so bewundert."
@@ -126,7 +129,7 @@ SIK_closer:0 "Loyaltätstests"
 SIK_closer_desc:0 "Nach der Reihe von Verrat, die Xinjiang zu ruinieren drohte, hat der Gouverneur eine Reihe von Loyalitätseiden entworfen, die auf der Beurteilung der Kompetenz des kaiserlichen Prüfungsausschusses beruhen. Eine rechtliche Grundlage für zukünftige Fortschritte zu haben, wird uns helfen, eine legitime Regierung zu entwickeln."
 
 SIK_tradeing_allies:0 "Das Tor zum Westen"
-SIK_tradeing_allies_desc:0 "Um nicht zur Schachfigur mehrerer imperialer Mächte zu werden, haben wir Polizeikräfte engagiert, um die Handelsrouten in Xinjiang zu sichern und gegen Banditen vorzugehen."
+SIK_tradeing_allies_desc:0 "Um nicht zur Schachfigur mehrerer imperialer Mächte zu werden, haben wir Polizeikräfte engagiert, um sicherzustellen, dass die Handelsrouten in Xinjiang offen und sicher vor Banditen sind."
 
 ### Decisions ###
 SIK_killing_mongol_decision_category:0 "Mongolische Gaunerei"
@@ -244,15 +247,15 @@ xin.14.desc:0 "Als Yang Zengxins verschiedene Beamte ihn heute vor der Expeditio
 xin.14.a:0 "Wie konnte uns das passieren?"
 
 xin.15.t:0 "Jin Shuren sichert Dihua"
-xin.15.desc:0 "Wie viele vorhergesagt haben, hat Jin Shuren beschlossen, Dihua zu stürmen und mit seiner neu bewaffneten Streitmacht zu sichern. Die Straßen sind voller Soldaten, da alle möglichen politischen Dissidenten nach und nach entfernt wurden. Unter diesen ist der Dao-yin von Aksu, Fan Yaonan, der eine etwas kleinliche Rivalität mit Jin hat. Über die nächsten Schritte von Jin ist wenig bekannt, aber viele sagen voraus, dass die Machtposition von Fan Yao-nan nicht mehr lange Bestand haben wird."
+xin.15.desc:0 "Wie viele vorhergesagt haben, hat Jin Shuren beschlossen, Dihua zu stürmen und mit seiner neu bewaffneten Streitmacht zu sichern. Die Straßen sind voller Soldaten, da alle möglichen politischen Dissidenten nach und nach entfernt wurden. Unter diesen ist der Dao-yin von Aksu, Fan Yaonan, der eine etwas kleinliche Rivalität mit Jin hat. Über die nächsten Schritte von Jin ist wenig bekannt, aber viele sagen voraus, dass die Machtposition von Fan Yaonan nicht mehr lange Bestand haben wird."
 xin.15.a:0 "Unser Schicksal in seinen Händen..."
 
 xin.16.t:0 "Jins Marsch auf Aksu"
-xin.16.desc:0 "Wie viele vorhergesagt hatten, zog Jin schnell von Dihua weg, um Fan Yao-nan von seinen Machtpositionen zu entfernen, bevor er überhaupt handeln konnte. Viele bemerkten Verteidigungsanlagen in Aksu, aber Fans Komplizen wurden getötet, bevor nennenswerter Widerstand geleistet werden konnte, obwohl Fan selbst nicht gefunden werden konnte. Einige glauben, er sei in die Berge geflohen, um einer Gefangennahme zu entgehen. Ma Shaowu, der Dao-yin von Hotan, hat dem neuen Gouverneur Jin Shuren seine Loyalität erklärt, um seine Herrschaft im Süden zu sichern. Jin Shuren hat dem zugestimmt und sichert damit endlich seine Herrschaft über ganz Xinjiang, zumindest vorerst."
+xin.16.desc:0 "Wie viele vorhergesagt hatten, zog Jin schnell von Dihua weg, um Fan Yaonan von seinen Machtpositionen zu entfernen, bevor er überhaupt handeln konnte. Viele bemerkten Verteidigungsanlagen in Aksu, aber Fans Komplizen wurden getötet, bevor nennenswerter Widerstand geleistet werden konnte, obwohl Fan selbst nicht gefunden werden konnte. Einige glauben, er sei in die Berge geflohen, um einer Gefangennahme zu entgehen. Ma Shaowu, der Dao-yin von Hotan, hat dem neuen Gouverneur Jin Shuren seine Loyalität erklärt, um seine Herrschaft im Süden zu sichern. Jin Shuren hat dem zugestimmt und sichert damit endlich seine Herrschaft über ganz Xinjiang, zumindest vorerst."
 xin.16.a:0 "Das sind die radikalen Veränderungen, die Xinjiang braucht!"
 
 xin.17.t:0 "Jins Machtkonsolidierung"
-xin.17.desc:0 "Nachdem die südliche Regierung von Ma Shaowu dem neuen Gouverneur Jin Shuren Loyalität erklärt hat, ist es Jin gelungen, alle Aspekte der Macht zu sichern. Fan Yao-nan fehlt, und da das Kabinett langsam nach und nach ersetzt wird, ist Jin sicherlich der Herrscher, der sich in dieser stressigen Zeit an der Spitze erwiesen hat. Niemand weiß, was er geplant hat, aber aufgrund seiner Nähe zu Yang Zengxin wird seine Politik höchstwahrscheinlich ähnlich sein. Ein noch fehlendes Puzzleteil ist der leere Sitz des Dao-yin von Aksu, aber bestimmt wird bald jemand neues ernannt."
+xin.17.desc:0 "Nachdem die südliche Regierung von Ma Shaowu dem neuen Gouverneur Jin Shuren Loyalität erklärt hat, ist es Jin gelungen, alle Aspekte der Macht zu sichern. Fan Yaonan fehlt, und da das Kabinett langsam nach und nach ersetzt wird, ist Jin sicherlich der Herrscher, der sich in dieser stressigen Zeit an der Spitze erwiesen hat. Niemand weiß, was er geplant hat, aber aufgrund seiner Nähe zu Yang Zengxin wird seine Politik höchstwahrscheinlich ähnlich sein. Ein noch fehlendes Puzzleteil ist der leere Sitz des Dao-yin von Aksu, aber bestimmt wird bald jemand neues ernannt."
 xin.17.a:0 "Auf eine neue Zukunft"
 
 xin.19.t:0 "Die Verdoppelung der Steuern"
@@ -346,7 +349,7 @@ xin.40.t:0 "Turfan-Garnison mobilisiert?"
 xin.40.desc:0 "Nach vielen weiteren Stunden, die viele als ärgerliche Verhandlungen mit dem unerträglichen Ma Fuming bezeichnen würden, hatte Jin schließlich genug und unterbrach alle Nachrichten an die Garnison. Die neuesten Nachrichten, die wir gehört haben, beziehen sich auf den Einsatz der Garnison, aber in Anbetracht der fehlenden Botschaft an uns über die Mobilisierung glauben wir, dass sie nicht zu unseren Gunsten eingesetzt wird. Viele kritisierten Jin Shuren für einen solchen Fehler, da die Kumuliks so durch unsere eigene Inkompetenz stärker werden."
 xin.40.a:0 "Xinjiang ist voll mit Barbaren"
 
-xin.41.t:0 "Die Mobilisierung der Turfan-Garnison"
+xin.41.t:0 "Die Mobilisierung der Turfan Garnison"
 xin.41.desc:0 "Ma Fuming, der Kriegsherr, der Turfan kontrolliert, hatte sich zuvor geweigert, seine Truppen zu mobilisieren, weil er befürchtete, von unserem Aufstand überrannt zu werden. Während viele in unseren Reihen voraussagten, dass er bald auf unsere Seite überlaufen würde, und ihn ignorierten, ließ Jin Shuren ihn im Schlaf töten, um das Gezänk ein für alle Mal zu beenden. Die Garnison hat nun im Namen des Gouverneurs von Xinjiang mobilisiert, wodurch sie stärker und vereinter denn je sind. Mit Zhongying und den mächtigen Yulbars an unserer Seite sollten sie gegen usns natürlich trotzdem keine Chance haben."
 xin.41.a:0 "Der Sieg wird schon kommen"
 
@@ -363,7 +366,7 @@ xin.44.desc:0 "Zu der Liste der Leute, die Jin Shuren mit einer gesunden Leidens
 xin.44.a:0 "Der Sieg wird bald unser sein"
 
 xin.45.t:0 "Ein Brief an Zhang Beiyuan"
-xin.45.desc:0 " Zhang Beiyuan, mein langjähriger Freund, den ich schon seit meinem gesamten Leben in dieser Provinz kenne und der mich in der Verwaltung aufsteigen gesehen hat, war während all dieser Zeit an meiner Seite. Wir befinden uns in einer Zeit, in der die Einheit unserer Verwaltung mehr denn je erforderlich ist, und das wissen Sie sicherlich auch. Es ist meine persönliche Empfehlung, dass auch Sie mir und all Ihren Mitverwaltern bei unserem gemeinsamen Sieg helfen, es sei denn, Sie möchten natürlich unter die Stiefel des Schlächters von Gansu Ma Zhongying oder vielleicht der Uiguren im Süden getreten werden, die sie töten werden, wenn sie sich nicht zu ihrer Ketzerei bekehren? Ich bitte Sie, auch von innen heraus andere Möglichkeiten in Betracht zu ziehen, wenn Sie sich nicht bewegen, denn Gerechtigkeit trifft diejenigen, die es am wenigsten erwarten."\n\nIhr Freund Jin Shuren\n\nZhang Beiyuan hat begonnen, seine Armee im Namen des Gouverneurs und der Han-Herrschaft über Xinjiang zu mobilisieren. Dies hat auch die Gespräche über interne Meinungsverschiedenheiten vorübergehend zum Erliegen gebracht, wobei Jin seine Fähigkeit bewiesen hat, diese chaotische Provinz in dieser Zeit der Aufsässigkeit zu vereinen."
+xin.45.desc:0 "Zhang Beiyuan, mein langjähriger Freund, den ich schon seit meinem gesamten Leben in dieser Provinz kenne und der mich in der Verwaltung aufsteigen gesehen hat, war während all dieser Zeit an meiner Seite. Wir befinden uns in einer Zeit, in der die Einheit unserer Verwaltung mehr denn je erforderlich ist, und das wissen Sie sicherlich auch. Es ist meine persönliche Empfehlung, dass auch Sie mir und all Ihren Mitverwaltern bei unserem gemeinsamen Sieg helfen, es sei denn, Sie möchten natürlich unter die Stiefel des Schlächters von Gansu Ma Zhongying oder vielleicht der Uiguren im Süden getreten werden, die sie töten werden, wenn sie sich nicht zu ihrer Ketzerei bekehren? Ich bitte Sie, auch von innen heraus andere Möglichkeiten in Betracht zu ziehen, wenn Sie sich nicht bewegen, denn Gerechtigkeit trifft diejenigen, die es am wenigsten erwarten."\n\nIhr Freund Jin Shuren\n\nZhang Beiyuan hat begonnen, seine Armee im Namen des Gouverneurs und der Han-Herrschaft über Xinjiang zu mobilisieren. Dies hat auch die Gespräche über interne Meinungsverschiedenheiten vorübergehend zum Erliegen gebracht, wobei Jin seine Fähigkeit bewiesen hat, diese chaotische Provinz in dieser Zeit der Aufsässigkeit zu vereinen."
 xin.45.a:0 "Natürlich kam er zur Vernunft"
 
 xin.46.t:0 "Uneinigkeit"
@@ -380,8 +383,8 @@ xin.48.a:0 "Alles auf Anfang!"
 
 xin.49.t:0 "Neuzusammensetzung der Regierung"
 xin.49.desc:0 "Mit unserem Sieg haben wir nun eine kniffligere Situation im Griff. Viele in unserer Regierung duckten sich einfach vor Angst, als sie sahen, wie unsere geliebte Provinz direkt vor ihren Augen in Stücke zerfiel. Sie werden in Kashgar degradiert, wobei einige von ihnen verschoben werden, darunter Ma Shaowu, der für den Ostturkestan-Aufstand verantwortlich ist, und Mahmut Muhti, der Kumul formell gedient hat, aber bereit ist, unserer Regierung beizutreten. Es bleibt die Frage, wie massiv diese Strafen unsererseits ausfallen sollten, da uns die Verärgerung zu vieler Beamter später in den Rücken beißen könnte, uns aber eine Chance geben könnte, jede Bedrohung unserer Macht zu beseitigen."
-xin.49.a:0 "Keine Feiglinge sind vor unserer Revolution sicher"
-xin.49.b:0 "Wir zeigen Gnade"
+xin.49.a:0 "Barmherzigkeit sollte ein Anliegen unserer Regierung sein."
+xin.49.b:0 "Keine Feiglinge sind vor unserer Revolution sicher, Massenentlassung!"
 
 xin.50.t:0 "Die Uiguren-Verräter"
 xin.50.desc:0 "Der Ostturkestan-Aufstand war eine Katastrophe, bei der viele Unschuldige ums Leben kamen, und die Mehrheit der Schuld lag folglich auf Ma Shaowus Schultern. Einige unserer Regierungsbeamten sind zu ihrer Seite übergelaufen, als wir sie am dringendsten brauchten, der bemerkenswerteste ist der uigurische Beamte Burhan Shahidi. Obwohl er aufgrund seiner bemerkenswerten militärischen und politischen Erfahrung das Schicksal einer niedrigeren Regierungsposition in Kashgar erlebt hat, muss das Schicksal derer, die ihm auf ihre Seite folgten, noch entschieden werden. Die meisten sind einfach machthungrige Dummköpfe, die die Macht im Griff haben wollen, aber die Besetzung der Regierung wird immer noch ihren Nutzen haben, um Stabilität bei den Menschen und Beamten zu gewährleisten."
@@ -422,7 +425,7 @@ xinfd.4.desc:0 "Der Rauch hat sich endlich gelegt, als die Truppen nach Hause zu
 xinfd.4.a:0 "Das war es wert"
 
 xinfd.5.t:0 "Ein General aus Xinjiang ersucht Asyl"
-xinfd.5.d:0 "Obwohl unser Militär nicht den Loyalitätsstandard der westlichen Mächte erreicht, sind wir stolz auf unsere Leistungsgesellschaft. Die Kommandanten und Feldmarschälle, die Sie auf dem Schlachtfeld sehen, haben ihre Loyalität gegenüber dem Anführer und dem Volk bewiesen. Auf der anderen Seite könnte der Sieg von dem tödlichen Willen abhängen, den einige der eher söldnerischen Kommandeure zeigen, die bereit sind zu handeln oder zu sterben. Dieser Mann kommt von den turbulenten Qing zu uns, dessen Cliquen in der Vergangenheit stark auf Söldnerkommandanten angewiesen waren. Dieser General kommt mit einer schluchzenden Geschichte, wie sich das Blatt gegen ihn wendete, und er kam zerlumpt zu uns, bereit, noch einmal den guten Kampf zu führen. Ob er die Wahrheit sagt, ist schwer zu bestimmen, aber wir müssen entscheiden, ob es sich lohnt, ihn in diesen ohnehin schon verräterischen Zeiten zu rekrutieren."
+xinfd.5.d:0 "Obwohl unser Militär nicht den Loyalitätsstandard der westlichen Mächte erreicht, sind wir stolz auf unsere Leistungsgesellschaft. Die Kommandanten und Feldmarschälle, die wir auf dem Schlachtfeld sehen, haben ihre Loyalität gegenüber dem Anführer und dem Volk bewiesen. Auf der anderen Seite könnte der Sieg von dem tödlichen Willen abhängen, den einige der eher söldnerischen Kommandeure zeigen, die bereit sind zu handeln oder zu sterben. Dieser Mann kommt von den turbulenten Qing zu uns, dessen Cliquen in der Vergangenheit stark auf Söldnerkommandanten angewiesen waren. Dieser General kommt mit einer schluchzenden Geschichte, wie sich das Blatt gegen ihn wendete, und er kam zerlumpt zu uns, bereit, noch einmal den guten Kampf zu führen. Ob er die Wahrheit sagt, ist schwer zu bestimmen, aber wir müssen entscheiden, ob es sich lohnt, ihn in diesen ohnehin schon verräterischen Zeiten zu rekrutieren."
 xinfd.5.a:0 "Wir nehmen jede Hilfe, die wir kriegen"
 xinfd.5.b:0 "Er wäre nur eine Last"
 
@@ -442,18 +445,10 @@ xin.110.t:0 "Berichte über Yang Zengxin in Yunnan"
 xin.110.desc:0 "Nach dem Verschwinden des weisen Gouverneurs von Xinjiang, Yang Zengxin, strömten Reporter nach Mengzi in Yunnan, um sich in seiner Heimatstadt zu informieren. Die Stadtbewohner von Mengzi bemerkten, dass es Yangs Familie immer noch gut geht und weigern sich, Hinweise zu geben, wohin Yang gegangen wäre. Die meisten Reporter kamen zu dem Schluss, dass Yang auf seinen Militärposten in Gansu zurückgekehrt ist und beendeten dort ihre Ermittlungen. Die Beamten mit Verbindungen in Gansu haben jedoch berichtet, dass Yang in Gansu nicht gesehen wurde, aber Spuren seines Goldes sind in den Händen von Händlern in Yunnan aufgetaucht. Obwohl es noch keine soliden Beweise gibt, scheint es, dass Yang entweder ausgeraubt worden sein könnte oder inkognito lebt."
 xin.110.a:0 "Ein amüsantes Rätsel"
 
+
 xin.111.t:0 "Die Xinjiang-Clique verfällt in Krieg"
 xin.111.d:0 "Es scheint, als sei das Westtor zwischen China und Zentralasien erneut in Gewalt versunken. Der jüngste Streit zwischen Gouverneur [SIK.GetLeader] und Kumul hat dazu geführt, dass sich ein großes Aufgebot freiwilliger Soldaten gegen die Armeegarnison erhoben hat. Gerüchte besagen, dass auch die Türken im äußersten Westen sich darauf vorbereiten, dem Gouverneur erneut die Stirn zu bieten. Der Gouverneur von Xinjiang, sollte er chinesisch bleiben, ist ein potenzieller Verbündeter der südlichen demokratischen Cliquen. Die Kumiliks scheinen jedoch zwischen Respekt vor Peking und rastloser Fremdenfeindlichkeit stark zu schwanken. Die Osttürken würden sich zweifellos vollständig von China trennen, sollten sie gewinnen."
-xin.111.d_anq:0 "Es scheint, als sei das Westtor zwischen China und Zentralasien erneut in Gewalt versunken. Der jüngste Streit zwischen Gouverneur [SIK.GetLeader] und Kumul hat dazu geführt, dass sich ein großes Aufgebot freiwilliger Soldaten gegen die Armeegarnison erhoben hat. Gerüchte besagen, dass auch die Türken im äußersten Westen sich darauf vorbereiten, dem Gouverneur erneut die Stirn zu bieten. Der Gouverneur von Xinjiang, sollte er chinesisch bleiben, ist ein potenzieller Verbündeter der südlichen demokratischen Cliquen. Die Kumiliks scheinen jedoch zwischen Respekt vor Peking und rastloser Fremdenfeindlichkeit stark zu schwanken. Die Osttürken würden sich zweifellos vollständig von China trennen, sollten sie gewinnen."
-xin.111.d_fng:0 "Es scheint, als sei das Westtor zwischen China und Zentralasien erneut in Gewalt versunken. Der jüngste Streit zwischen Gouverneur [SIK.GetLeader] und Kumul hat dazu geführt, dass sich ein großes Aufgebot freiwilliger Soldaten gegen die Armeegarnison erhoben hat. Gerüchte besagen, dass auch die Türken im äußersten Westen sich darauf vorbereiten, dem Gouverneur erneut die Stirn zu bieten. Der Gouverneur von Xinjiang, sollte er chinesisch bleiben, ist ein potenzieller Verbündeter der südlichen demokratischen Cliquen. Die Kumiliks scheinen jedoch zwischen Respekt vor Peking und rastloser Fremdenfeindlichkeit stark zu schwanken. Die Osttürken würden sich zweifellos vollständig von China trennen, sollten sie gewinnen."
-xin.111.d_jap:0 "Es scheint, als sei das Westtor zwischen China und Zentralasien erneut in Gewalt versunken. Der jüngste Streit zwischen Gouverneur [SIK.GetLeader] und Kumul hat dazu geführt, dass sich ein großes Aufgebot freiwilliger Soldaten gegen die Armeegarnison erhoben hat. Gerüchte besagen, dass auch die Türken im äußersten Westen sich darauf vorbereiten, dem Gouverneur erneut die Stirn zu bieten. Der Gouverneur von Xinjiang, sollte er chinesisch bleiben, ist ein potenzieller Verbündeter der südlichen demokratischen Cliquen. Die Kumiliks scheinen jedoch zwischen Respekt vor Peking und rastloser Fremdenfeindlichkeit stark zu schwanken. Die Osttürken würden sich zweifellos vollständig von China trennen, sollten sie gewinnen."
-xin.111.d_sik:0 "Es scheint, als sei das Westtor zwischen China und Zentralasien erneut in Gewalt versunken. Der jüngste Streit zwischen Gouverneur [SIK.GetLeader] und Kumul hat dazu geführt, dass sich ein großes Aufgebot freiwilliger Soldaten gegen die Armeegarnison erhoben hat. Gerüchte besagen, dass auch die Türken im äußersten Westen sich darauf vorbereiten, dem Gouverneur erneut die Stirn zu bieten. Der Gouverneur von Xinjiang, sollte er chinesisch bleiben, ist ein potenzieller Verbündeter der südlichen demokratischen Cliquen. Die Kumiliks scheinen jedoch zwischen Respekt vor Peking und rastloser Fremdenfeindlichkeit stark zu schwanken. Die Osttürken würden sich zweifellos vollständig von China trennen, sollten sie gewinnen."
-xin.111.d_mon:0 "Es scheint, als sei das Westtor zwischen China und Zentralasien erneut in Gewalt versunken. Der jüngste Streit zwischen Gouverneur [SIK.GetLeader] und Kumul hat dazu geführt, dass sich ein großes Aufgebot freiwilliger Soldaten gegen die Armeegarnison erhoben hat. Gerüchte besagen, dass auch die Türken im äußersten Westen sich darauf vorbereiten, dem Gouverneur erneut die Stirn zu bieten. Der Gouverneur von Xinjiang, sollte er chinesisch bleiben, ist ein potenzieller Verbündeter der südlichen demokratischen Cliquen. Die Kumiliks scheinen jedoch zwischen Respekt vor Peking und rastloser Fremdenfeindlichkeit stark zu schwanken. Die Osttürken würden sich zweifellos vollständig von China trennen, sollten sie gewinnen."
-xin.111.d_szc:0 "Es scheint, als sei das Westtor zwischen China und Zentralasien erneut in Gewalt versunken. Der jüngste Streit zwischen Gouverneur [SIK.GetLeader] und Kumul hat dazu geführt, dass sich ein großes Aufgebot freiwilliger Soldaten gegen die Armeegarnison erhoben hat. Gerüchte besagen, dass auch die Türken im äußersten Westen sich darauf vorbereiten, dem Gouverneur erneut die Stirn zu bieten. Der Gouverneur von Xinjiang, sollte er chinesisch bleiben, ist ein potenzieller Verbündeter der südlichen demokratischen Cliquen. Die Kumiliks scheinen jedoch zwischen Respekt vor Peking und rastloser Fremdenfeindlichkeit stark zu schwanken. Die Osttürken würden sich zweifellos vollständig von China trennen, sollten sie gewinnen."
-xin.111.d_qie:0 "Es scheint, als sei das Westtor zwischen China und Zentralasien erneut in Gewalt versunken. Der jüngste Streit zwischen Gouverneur [SIK.GetLeader] und Kumul hat dazu geführt, dass sich ein großes Aufgebot freiwilliger Soldaten gegen die Armeegarnison erhoben hat. Gerüchte besagen, dass auch die Türken im äußersten Westen sich darauf vorbereiten, dem Gouverneur erneut die Stirn zu bieten. Der Gouverneur von Xinjiang, sollte er chinesisch bleiben, ist ein potenzieller Verbündeter der südlichen demokratischen Cliquen. Die Kumiliks scheinen jedoch zwischen Respekt vor Peking und rastloser Fremdenfeindlichkeit stark zu schwanken. Die Osttürken würden sich zweifellos vollständig von China trennen, sollten sie gewinnen."
 xin.111.a:0 "Yang Zengxins endgültiger Misserfolg"
-xin.111.b:0 "Yang Zengxins endgültiger Misserfolg"
-xin.111.c:0 "Yang Zengxins endgültiger Misserfolg"
 
 ### Focuses ###
 SIK_three_reigns:0 "Die 3 Herrschaften"

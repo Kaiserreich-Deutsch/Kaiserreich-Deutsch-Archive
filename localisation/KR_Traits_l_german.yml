@@ -1,9 +1,12 @@
 ﻿l_german:
 
+##Übersetzt von Thylon##
+
 ### From DH ###
 undistinguished_suit:0 "Unauffälliger Anzug"
 grand_protector:0 "Der große Beschützer"
 paranoid_francophobe:0 "Paranoider Frankophober"
+the_director:0 "Der Direktor"
 
 KUM_first_reformer:0 "Der erste Reformer"
 KUM_first_reformer2:0 "Der erste Reformer"
@@ -17,6 +20,8 @@ MON_the_mad_baron:0 "Der rote Baron"
 MON_princes_puppet:0 "Marionette der Prinzen"
 MON_buddhist_figurehead:0 "Buddhistische Galionsfigur"
 MON_the_popular_prince_trait:0 "Der beliebte Prinz"
+QIE_puppet_emperor:0 "Puppenkaiser"
+QIE_restored_emperor:0 "Wiederhergestellter Kaiser"
 
 ### Head of Government ###
 hog_ambitious_union_boss:0 "Ehrgeiziger Gewerkschaftsboss"
@@ -235,13 +240,6 @@ operative_master_commando:0 "Meistersoldat"
 operative_master_commando_desc:0 "Dieser Mitarbeiter hat eine der besten militärischen Ausbildungen, die es gibt."
 operative_master_saboteur:0 "Meistersaboteur"
 operative_master_saboteur_desc:0 "Wenn dieser Agent in die Nähe kommt, kann er es sabotieren."
-
-operation_infiltrate_armed_forces_army_outcome:0 "Armee infiltrieren Effektivität"
-operation_infiltrate_armed_forces_navy_outcome:0 "Marine infiltrieren Effektivität"
-operation_infiltrate_armed_forces_airforce_outcome:0 "Luftwaffe infiltrieren Effektivität"
-operation_infiltrate_armed_forces_army_risk:0 "Armee infiltrieren Risiko"
-operation_infiltrate_armed_forces_navy_risk:0 "Marine infiltrieren Risiko"
-operation_infiltrate_armed_forces_airforce_risk:0 "Luftwaffe infiltrieren Risiko"
 
 ### Unit Leader Traits ###
 artillery_officer:0 "Artillerie Offizier"

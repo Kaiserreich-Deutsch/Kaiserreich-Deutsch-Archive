@@ -1,5 +1,7 @@
 ﻿l_german:
 
+##Übersetzt von Thylon##
+
 bolivia_focus:0 "Schwerpunktbaum von Bolivien"
 
 ### Leaders ###
@@ -306,7 +308,8 @@ BOL_Increased_Military_Spending_desc:0 "Wenn wir hoffen, jemals ein mächtiges L
 BOL_Absolute_State_Control:0 "Absolute staatliche Kontrolle"
 BOL_Absolute_State_Control_desc:0 "Unser Land muss wie eine gut geölte und kalibrierte Uhr funktionieren, wenn wir hoffen, eine weitere Niederlage wie die im Chaco-Krieg zu vermeiden. Wir werden den Einfluss der Regierung in allen Bereichen der Gesellschaft erhöhen und es für jeden Oligarchen oder Sozialisten unmöglich machen, sich unserem Einfluss zu entziehen!"
 BOL_Retake_Chaco:0 "Erobert Chaco zurück"
-BOL_Retake_Chaco_desc:0 "Unsere früheren schwächeren Regierungen, deren Fäden von Oligarchen gezogen wurden, sind für den Verlust des Chaco verantwortlich. Jetzt, da wir unser Land reformiert haben, ist es unsere heilige Pflicht, dieses rechtmäßige bolivianische Land wieder in unseren Staat zurückzubringen. Die Paraguayer werden vor dem bolivianischen Zorn zittern! ¡K'alatakaya Huarikasaya!"	    #Fun fact,my research showed me that this is a motto of the Bolivian Football club 'the Strongest' which offered all of its players and his fanbase as volunteers for the army in the chaco war, and this was the battle cry used before a resounding victory in the Battle of Cañada Strongest. If this is just way out there, you can change this to '¡Viva Bolivia!' but that sounds very generic to me
+BOL_Retake_Chaco_desc:0 "Unsere früheren schwächeren Regierungen, deren Fäden von Oligarchen gezogen wurden, sind für den Verlust des Chaco verantwortlich. Jetzt, da wir unser Land reformiert haben, ist es unsere heilige Pflicht, dieses rechtmäßige bolivianische Land wieder in unseren Staat zurückzubringen. Die Paraguayer werden vor dem bolivianischen Zorn zittern! ¡K'alatakaya Huarikasaya!"
+#Fun fact,my research showed me that this is a motto of the Bolivian Football club 'the Strongest' which offered all of its players and his fanbase as volunteers for the army in the chaco war, and this was the battle cry used before a resounding victory in the Battle of Cañada Strongest. If this is just way out there, you can change this to '¡Viva Bolivia!' but that sounds very generic to me
 BOL_Retake_Jujuy:0 "Erobert Jujuy zurück"
 BOL_Retake_Jujuy_desc:0 "Jujuy ging 1893 an die Argentinier verloren. Dieses Unrecht ist schon zu lange ungesühnt geblieben! Wir werden uns unser rechtmäßiges Land von den Argentiniern zurückholen, auch wenn das bedeutet, dass wir uns ihrer militärischen Macht stellen müssen. Sie mögen stark sein, aber wir haben alle Schritte unternommen, um sicherzustellen, dass wir stärker sind als sie! Vorwärts zum Sieg!"
 BOL_Reclaim_the_Coast:0 "Fordert die Küste zurück"

@@ -142,8 +142,8 @@ UPC_reppeal_unequal_treaties_desc:0 "Die Zeit für China, sich als Großmacht zu
 UPC_trade_treaty:0 "Vertrag mit [FROM.GetNameDef]"
 UPC_trade_treaty_desc:0 "Die Imperialisten in [FROM.GetNameDef] haben sich verweigert die neuen politischen Verhältnisse in China zu akzeptieren. Wir sollten unser Angebot erneuern und können unsere Streitereien hinter uns bringen und darauf hinarbeiten, dass China als ebenbürtige Nation angesehen wird, damit sie ihre kolonialen Bestrebungen endgültig aufgeben."
 
-UPC_sieze_macau:0 "[POR.GetFlag] Macau besetzen"
-UPC_sieze_macau_desc:0 "Portugal ist abgelenkt! Holen wir uns Guangzhous Hinterhof zurück!"
+ UPC_seize_macau:0 "[POR.GetFlag] Macau besetzen"
+ UPC_seize_macau_desc:0 "Portugal ist abgelenkt! Holen wir uns Guangzhous Hinterhof zurück!"
 UPC_attack_entente_LEC:0 "[LEC.GetFlag] Schanghai zurückerobern"
 UPC_attack_entente_LEC_desc:0 ""
 UPC_attack_entente_HK:0 "[CAN.GetFlag] Hong Kong besetzen"
@@ -473,7 +473,7 @@ lngupc.16.d:0 "Angesichts der Tatsache, dass mehrere große demokratische Partei
 lngupc.16.a:0 "Wir blicken mit Optimismus in die Zukunft."
 
 lngupc.17.t:0 "Chen Jiongmings Angebot"
-lngupc.17.d:0 "Der einst nur in Guangdong herrschende Gouverneur Chen Jiongming hat nun die föderalistischen Kräfte Chinas vereint und könnte ein potentieller Kandidat für die nationale Führung werden. Eine Delegation von den sogenannten 'Vereinten Provinzen Chinas', Chens Regierung, machte unserer Regierung heute ein Angebot: Den Vereinten Provinzen beitreten und dabei helfen die korrupte und dekadente [QIE.GetName] abzusetzen, um die alte Republik und die Verfassung wiederherzustellen.\n\nDie Botschaft enthält jedoch Forderungen und eine letzte Drohung: [Root.GetLeader] muss Chen Jiongmings sogenannten Wiederaufbauplan annehmen, was von uns verlangen würde, eine Verfassung zu auszuarbeiten und die Mehrheit unserer Macht an eine gewählte Versammlung zu übertragen, während unsere Armeen in die Vereinigten Provinzen integriert werden würden, was ein erheblicher Verlust an politischer Macht für uns wäre. Im Austausch dafür, würden [GetAdjective] Offiziere ihren Rang in der föderalistischen Armee behalten, wobei [Root.GetLeader] eine hohe Position einnehmen würde.\n\nSollten wir dieses Angebot ablehnen riskieren wir jedoch die Gefahr, dass die Truppen Chen Jiongmings unsere Provinz attackieren würden."
+lngupc.17.d:0 "Die föderalistische Bewegung von Chen Jiongming, einst lediglich Gouverneur von Guangdong, hat sich zu einer veritablen Kraft in China entwickelt und ist möglicherweise auf dem Weg, ein ernsthafter Anwärter auf die nationale Führung zu werden. Ein Abgesandter der so genannten Vereinigten Provinzen der Republik China, der Regierung von Chen, erschien mit einer Bitte: Schließen Sie sich den Vereinigten Provinzen an, um die dekadente und korrupte [QIE.GetName] zu stürzen und die Republik und die Verfassung wiederherzustellen.\n\nDie Nachricht enthält Forderungen und eine letzte Drohung: [Root.GetLeader] muss sich an den so genannten Wiederaufbauplan von Chen Jiongming halten, der von uns verlangt, eine Verfassung zu verabschieden und die Mehrheit unserer Befugnisse an eine gewählte Versammlung zu delegieren, während unsere Armeen in die der Vereinigten Provinzen integriert würden, was uns im Wesentlichen der politischen Macht beraubt. Im Gegenzug würden die [ROOT.GetAdjective]-Offiziere ihren Rang in der föderalistischen Armee behalten, wobei [Root.GetLeader] ein Kommando zugesagt wurde.\n\nSollten wir uns weigern, macht die Nachricht deutlich, dass Chen Jiongming bereit ist, Gewalt anzuwenden, um \"dem Volk [ROOT.GetAdjective] zu helfen, sein illegales Warlord-Regime zu stürzen und die Demokratie wiederherzustellen.\""
 lngupc.17.a:0 "Wir akzeptieren. Für China!"
 lngupc.17.b:0 "Wir beugen uns nicht diesem Emporkömmling!"
 

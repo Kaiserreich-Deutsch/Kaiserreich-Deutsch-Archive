@@ -1,5 +1,7 @@
 ﻿l_german:
 
+##Übersetzt von Thylon##
+
 ### Aliases ###
 GTM:0 "Guantanamo Bay Pächter"
 MSN:0 "Môle Saint-Nicolas Pächter"
@@ -65,3 +67,7 @@ treatyport.7.a:0 "Mögen wir diesen großen Krieg gewinnen."
 treatyport.8.t:0 "Der Widerruf von [treatyport_whichisit2]"
 treatyport.8.d:0 "[FROM.GetName] hat den Widerruf unseres Mietvertrages über [treatyport_whichisit2] angekündigt."
 treatyport.8.a:0 "Wir werden es zurückbekommen."
+
+treatyport.9.t:0 "Das Ende der [treatyport_whichisit2]-Konzession"
+treatyport.9.d:0 "Mit dem Fall von [FROM.GetNameDef] an die feindlichen Streitkräfte sind wir nicht mehr an die Zugeständnisse gebunden - und unsere Streitkräfte sind bereits vorgerückt, um sie zu erobern."
+treatyport.9.a:0 "Ein kleiner Sieg."

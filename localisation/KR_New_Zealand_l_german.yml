@@ -1,5 +1,7 @@
 ﻿l_german:
 
+##Übersetzt von Thylon##
+
 ### Parties ###
 NZL_totalist_party:0 "Vanguard"
 NZL_totalist_party_long:0 "Vanguard Party of New Zealand"
@@ -59,33 +61,41 @@ nzl.10.t:0 "Ein Ruf nach Frieden?"
 nzl.10.d:0 "Es ist viele Monate her, dass der Krieg mit den Australiern begann, und sie sind dem Sieg nicht näher gekommen. Dies ist ein Krieg, der nirgendwo hinführen wird, und so wurde der Vorschlag gemacht, dass wir einen weißen Frieden suchen sollten. Unsere Präferenz wäre die Wiederherstellung der Demokratie in [AST.GetNameDef], aber wenn es sein muss, geben wir uns mit Demokratie und Sicherheit hier zu Hause zufrieden."
 nzl.10.a:0 "Es ist an der Zeit, einen Waffenstillstand zu fordern"
 nzl.10.b:0 "Nein! Wir werden diesen Krieg fortsetzen, bis er beendet ist!"
+
 nzl.11.t:0 "Frieden mit Neuseeland?"
 nzl.11.d:0 "Ein Friedensgesandter der [From.GetAdjective] Regierung ist eingetroffen und bietet ein Ende der Feindseligkeiten an. Wenn wir sie in Ruhe lassen, werden sie auf ihre Versuche verzichten, unsere Regierung zu stürzen, und dieser Konflikt kann zu einem Ende kommen... ein Konflikt, der, wie es scheint, seit Monaten ins Leere läuft. Das bedeutet jedoch, dass wir alle Bemühungen aufgeben, Neuseeland zurückzuerobern, zumindest vorläufig."
 nzl.11.a:0 "Ja, lasst uns das jetzt beenden"
 nzl.11.b:0 "Nein! Wir werden diesen Krieg fortsetzen, bis er beendet ist!"
+
 nzl.12.t:0 "Kein Frieden mit [From.GetNameDef]"
 nzl.12.d:0 "Unsere Gesandten sind von [From.GetNameDef] mit einer eindeutigen Antwort zurückgekehrt: Es wird keinen Frieden geben."
 nzl.12.a:0 "Nun gut."
+
 nzl.14.t:0 "Hilfe von der Entente?"
 nzl.14.d:0 "Nun, da der Krieg mit [AST.GetNameDef] gekommen ist, müssen wir überlegen, ob es an der Zeit ist, die Entente um Hilfe zu bitten. Wenn wir uns dem Imperium wieder anschließen, bedeutet das, dass wir wieder Teil all ihrer zukünftigen Kriege über den Ozean werden... aber haben wir wirklich eine andere Wahl?"
 nzl.14.a:0 "Wir brauchen dringend ihre Hilfe!"
 nzl.14.b:0 "Nein, wir schaffen das schon alleine."
+
 nzl.15.t:0 "Neuseeland bittet um Hilfe"
 nzl.15.d:0 "Unterstützt von den Rebellen der Neuen Garde hat sich Neuseeland von [AST.GetNameDef] getrennt und die Krone um Hilfe gebeten. Sollen wir sie in die Allianz aufnehmen und zu ihrer Verteidigung beitragen, auch wenn das bedeutet, einen Krieg über den Pazifik zu führen?"
 nzl.15.a:0 "Ja, natürlich werden wir ihnen helfen!"
 nzl.15.b:0 "Nein, wir können es uns nicht leisten, in einen weiteren Krieg verwickelt zu werden."
+
 nzl.16.t:0 "[From.GetNameDefCap] verweigert uns die Hilfe"
 nzl.16.d:0 "Zu unserer großen Überraschung haben uns Vertreter von [From.GetNameDef] mitgeteilt, dass [Root.GetNameDef] auf sich allein gestellt ist. Sie können sich, wie es scheint, nicht auf einen Krieg über den Pazifik einlassen, auch nicht, um Australien zurückzuerobern."
 nzl.16.a:0 "So viel zu dieser Idee."
+
 nzl.20.t:0 "Ein Generalgouverneur für Neuseeland?"
 nzl.20.d:0 "Nun, da wir dem Empire wieder beigetreten sind, überlegt die neuseeländische Regierung, ob sie die Ernennung eines Generalgouverneurs beantragen soll - wie es sich für ein ordentliches Mitglied des britischen Empire gehört."
 nzl.20.a:0 "George Monckton-Arundell, 8. Viscount Galway, ist genau der richtige Mann für diese Aufgabe."
 nzl.20.b:0 "Bernard Freyberg ist ein Mann des Militärs und wird für den Posten gebraucht."
 nzl.20.c:0 "Nein, wir haben keinen Bedarf an solchem Firlefanz."
+
 nzl.21.t:0 "Eine Rückkehr zur Demokratie?"
 nzl.21.d:0 "Mit dem Ende des Krieges hat sich die Frage an Militärgouverneur Freyberg gewandt, ob die Regierung wieder unter die Kontrolle des neuseeländischen Volkes gestellt werden soll. Einige Mitglieder der Regierung sagen, dass die Krise noch lange nicht vorbei ist, obwohl die meisten zustimmen, dass die Zeit für den Rücktritt des Militärs gekommen ist. Neuseeland ist schließlich eine demokratische Nation und wird eine autoritäre Herrschaft nicht lange akzeptieren."
 nzl.21.a:0 "Ja, planen Sie sofortige Wahlen ein."
 nzl.21.b:0 "Nein, das Militär wird die Kontrolle behalten."
+
 nzl.22.t:0 "Die ersten freien Wahlen"
 nzl.22.d:0 "Militärgouverneur Bernard Freyberg hat sich dafür entschieden, freie Wahlen in Neuseeland zuzulassen, die ersten, die die Nation seit einiger Zeit gesehen hat. Die Labour Party scheint am wahrscheinlichsten eine Mehrheit zu erhalten, obwohl die Möglichkeit besteht, dass die antisyndikalistische Stimmung die Nationalist Party an die Macht bringen wird. Es besteht immer noch die Chance, dass die Kampagne der New Zealand Legion, die nationalistische Unterstützung zu schüren, Erfolg hat."
 nzl.22.a:0 "Die Labour Party gewinnt die Wahl deutlich."

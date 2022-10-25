@@ -1,6 +1,6 @@
 ﻿l_german:
 ### Übersetzt von Proho ###
-FLN_focus:0 "Flandern Schwerpunkt Baum"
+FLN_focus:0 "Schwerpunktbaum von Flandern"
 
 ### Parties ###
 FLN_social_conservative_party:0 "KB"
@@ -28,15 +28,11 @@ Loyalists_party:0 "Loyalisten"
 
 fln.TRA.tt:0 "Die Übergangsregierung wird Flandern führen, bis die Integration abgeschlossen ist"
 
-FLEM_COUNCIL:0 "Konzil behält die Macht"
-FLEM_NATIONALISM:0 "Die Übergangsregierung übernimmt die Kontrolle"
-FLEM_NEDERLAND:0 "Die Großen Holländer übernehmen"
-
-FLEM_DEMOCRACY:0 "Die Regentschaft wird fortgeführt."
-FLEM_JORIS:0 "VNV und Van Severen schließen sich zusammen"
-FLEM_ADALBERT:0 "Adelbert nimmt die flämische Krone an"
 FLEM_MONARCHY:0 "Die Monarchie wurde nicht abgelehnt"
 FLEM_REPUBLIC:0 "Die Regentschaft wurde beendet"
+
+ FLN_if_direct_rule:0 "§cWenn §H$FLN_Direct_Rule_From_Council$§! gewählt wird§!:"
+ FLN_if_democratic_transition:0 "§cWenn §H$FLN_Democratic_Transition$§! gewählt wird§!:"
 
 ### Ideas ###
 FLN_Flemish_Lion_2:0 "Flämischer Löwe"
@@ -73,8 +69,8 @@ FLN_Flemish_Dutch_Government:0 "Flämisch-Niederländische Regierung"
 
 FLN_Frozen_Food:0 "Tiefkühlkost Spekulation"
 FLN_Boerenbond:0 "Bauernverband subventionieren"
-FLN_Severed_Trade:0 "Abgebrochener deutscher Handel"
-FLN_Trade_Deal:0 "Deutsches Handelsabkommen"
+FLN_Severed_Trade:0 "Abgeschnittener Handel"
+FLN_Trade_Deal:0 "Neue Handelsverträge"
 FLN_Grote_Doorsteek:0 "Großes Durchbruchs-Programm"
 FLN_Import_Foreign_Labour:0 "Gastarbeiter"
 FLN_Flemish_Miners:0 "Flämische Bergleute"
@@ -116,7 +112,7 @@ fln.2.t:0 "Graf Karel von Flandern übernimmt die Kontrolle"
 fln.2.d:0 "Unter lautem Beifall und mit viel Fanfare hat Karl von Belgien die Kontrolle über das Land übernommen und die Position des Graf von Flandern eingenommen. Basierend auf der konstitutionellen Monarchie aus der Zeit vor dem Weltkrieg fehlt ihm die absolute Kontrolle und er dient meist symbolisch zur Lösung politischer Krisen."
 fln.2.a:0 "Viel Glück, Graf Karl."
 
-fln.21.t:0 "Adelbert besteigt wieder den Thron"
+fln.21.t:0 "Adelbert besteigt den Thron"
 fln.21.d:0 "Das Adelskonzil von Flandern hat Adelbert die flämische Krone angeboten, wenn er zustimmt, nur dem Namen nach zu regieren und sich weiterhin aus den flämischen Angelegenheiten heraushält. Durch diese Aktion hofft das Konzil, die Beziehungen zu Deutschland zu stärken und seine Unabhängigkeit von einer aggressiven Wallonie weiter zu sichern."
 fln.21.a:0 "Lang lebe Adelbert (wieder)!"
 
@@ -279,11 +275,6 @@ flnrev.631.t:0 "Zerstörung der Geheimen Legion"
 flnrev.631.d:0 "Nach ihrem Sieg in Brüssel haben die Streitkräfte Flanderns ihre Augen wieder auf Westflandern gerichtet, wo sich die letzten Reste der Geheimen Legion eingenistet haben. Durch das Angebot einer vollständigen Amnestie für alle, die sich ergeben, als Anerkennung für ihre Taten bei der Befreiung Flanderns, ergaben sich viele Legionsmitglieder den flämischen Kräften, was ein schnelles Ende der überlebenden extremistischen Elemente ermöglichte."
 flnrev.631.a:0 "Der Frieden ist wieder einmal gesichert."
 
-flnrev.64.t:0 "Die Regentschaft fortsetzen?"
-flnrev.64.d:0 "Theoretisch soll das Flämische Konzil so lange regieren, bis ein neuer König gewählt ist. Während die konservativeren Mitglieder bereit sind, das Konzil weiter in diese Richtung zu drängen, fordern radikalere Elemente offen die Abschaffung der Regentschaftsklausel und das Weiterregieren frei von den Einschränkungen der Monarchie. Diese Fraktion, angeführt von Van Severen und einigen seiner engen Verbündeten, hat die Unterstützung des Flämischen Nationalverbandes (Vlaams Nationaal Verbond), angeführt von Staff de Clercq, gewonnen. Obwohl der VNV bisher aufgrund seiner populistischen Ansichten vom Einzug in den Rat ausgeschlossen wurde, ist die Unterstützung für Van Severen bestenfalls begrenzt und er wird jede Unterstützung brauchen, die er bekommen kann."
-flnrev.64.a:0 "Van Severen und der VNV vereinigen sich gegen die Regentschaft."
-flnrev.64.b:0 "Die Regentschaft geht weiter."
-
 flnrev.641.t:0 "Frontbewegung Reformen in die Frontpartei hinein"
 flnrev.641.d:0 "Mit dem Flämischen Konzil fest an der Macht und gestärkt durch die Flämische Wacht hat die Frontbewegung beschlossen, ihre Waffen niederzulegen. Prominente Mitglieder der Bewegung haben Sitze im Rat erhalten und haben ihre eigene Partei gegründet: die Frontpartei. Sie sind starke Befürworter der unabhängigen flämischen Nation und haben eine Petition für ein Belohnungsprogramm für erfolgreiche Widerstandsmitglieder eingereicht."
 flnrev.641.a:0 "Ein erster Schritt auf dem Weg zu einer friedlichen Demokratie."
@@ -420,8 +411,8 @@ FLN_capital_ships:0 "Großkampf-Schiffs Bemühungen"
 FLN_capital_ships_desc:0 "Während es für unsere kleine Nation nur eine Verschwendung von Ressourcen wäre, Großkampfschiffe zu entwickeln, sind Schlachtschiffe durchaus in Reichweite. Diese Könige des Meeres sind mit großen und kleinen Kanonen bestückt und sind der Schlüssel für die richtige Umsetzung unserer neuen Marinedoktrin."
 FLN_Focus_On_Raiding_Ships:0 "Fokus auf Überfallschiffe"
 FLN_Focus_On_Raiding_Ships_desc:0 "Als kleine Nation können wir immer noch eine unverhältnismäßige Seemacht durch den Einsatz von U-Booten und Abriegelungstaktiken projizieren. Die Großmächte dieser Welt sollen die flämischen Seebären fürchten!"
-FLN_destroyer:0 "Zerstörer-Einsatz"
-FLN_destroyer_desc:0 "Mit den Investitionen in die U-Boot-Entwicklung sollten wir nun darauf achten, ebenso fortschrittliche Zerstörermodelle zu schaffen, um sie sowohl direkt zu unterstützen als auch Missionen durchzuführen, die die Fähigkeit des Feindes, der Bedrohung durch unsere U-Boote zu begegnen, vereiteln."
+FLN_destroyers:0 "Zerstörer-Einsatz"
+FLN_destroyers_desc:0 "Mit den Investitionen in die U-Boot-Entwicklung sollten wir nun darauf achten, ebenso fortschrittliche Zerstörermodelle zu schaffen, um sie sowohl direkt zu unterstützen als auch Missionen durchzuführen, die die Fähigkeit des Feindes, der Bedrohung durch unsere U-Boote zu begegnen, vereiteln."
 FLN_cruisers:0 "Kreuzer-Einsatz"
 FLN_cruisers_desc:0 "Kreuzer erfüllen eine Vielzahl von Rollen und unterstützen große und kleine Schiffe. Wir sollten neue fortschrittliche Kreuzer-Modelle entwickeln."
 FLN_submarines:0 "U-Boot-Einsatz"
@@ -560,9 +551,9 @@ FLN_Agricultural_Innovation_desc:0 "Das landwirtschaftliche Fachwissen der Unive
 FLN_Synthetic_Refining:0 "Antwerpener Raffinage-Möglichkeiten"
 FLN_Synthetic_Refining_desc:0 "Im Hafen von Antwerpen wird derzeit Öl in großen Mengen importiert. Indem wir es in Antwerpen selbst raffinieren, können wir unsere Gewinne verdoppeln und unsere eigene Kunststoffindustrie sichern."
 #FLN_Grote_Doorsteek:0 "Vorschlag für den Großer Durchbruch" bereits oben als Idee definiert
-FLN_Grote_Doorsteek_desc:0 "Mit der jüngsten Expansion, der Erholung Deutschlands vom Schwarzen Montag und seiner schnellen Remilitarisierung steigt die Nachfrage nach unserem Land als kommerzieller Transitpunkt. Die Schelde ist jedoch um den Hafen herum gewunden und muss begradigt werden, bevor wir ihr volles Potenzial ausschöpfen können."
-FLN_German_Trade_Agreement:0 "Erneuern Sie das deutsche Handelsabkommen"
-FLN_German_Trade_Agreement_desc:0 "Mit einem sich erholenden deutschen Riesen vor unserer Haustür und unserer eigenen Wirtschaft auf dem Weg zu voller Gesundheit, wäre ein wiederhergestellter Handelsvertrag zwischen unseren jeweiligen Nationen ein vorteilhaftes Ergebnis für beide Parteien."
+FLN_Grote_Doorsteek_desc:0 "Mit den neuen Handelsverträgen, die jetzt in vollem Gange sind, steigt die Nachfrage nach unserem Land als kommerzieller Transitpunkt. Die Schelde hat sich jedoch um den Hafen gewunden und muss begradigt werden, bevor wir ihr Potenzial voll ausschöpfen können."
+FLN_German_Trade_Agreement:0 "Neue Handelsabkommen anstreben"
+FLN_German_Trade_Agreement_desc:0 "Angesichts der Tatsache, dass unsere eigene Wirtschaft auf dem besten Weg zu voller Genesung ist, wäre die Wiederherstellung von Handelsverträgen mit unseren Nachbarländern für alle Beteiligten ein positives Ergebnis."
 FLN_Frozen_Food_Processing:0 "Tiefkühlkost-Verarbeitung"
 FLN_Frozen_Food_Processing_desc:0 "Inspiriert durch den amerikanischen Trend, Gefrier- und Kühlschränke zu nutzen, steigt die Nachfrage nach Tiefkühlkost in Europa. Dies ist jedoch eine riskante Investition, da unsere eigene interne Nachfrage nach dieser Ware sehr gering ist und wir auf den Export der Lebensmittel angewiesen wären."
 FLN_Boerenbond_Subsidies:0 "Subventionieren Sie den Bauernverband"
@@ -594,4 +585,5 @@ FLN_Expand_Mittel_Afrikan_Influence_desc:0 "Durch den Fall von Flandern-Wallonie
 FLN_Secure_Diamond_Trade:0 "Sichern Sie den Diamantenhandel"
 FLN_Secure_Diamond_Trade_desc:0 "Nahezu jeder Diamant auf dem Planeten geht durch Antwerpen, wo die überwiegend jüdische Bevölkerung den Diamantensektor kontrolliert. Indem wir mehr Abbaugenehmigungen von der mittelafrikanischen Regierung erhalten, können wir die Produktion in Afrika und damit den Handel zu Hause steigern."
 FLN_Copper_Katanga:0 "Kupfer aus Katanga"
-FLN_Copper_Katanga_desc:0 "Katanga enthält große unberührte Kupferreserven, die von flämischen Unternehmen ausgebeutet werden, aber Ressourcen wie Kobalt und andere Seltene Erden warten nur darauf, von unseren Bergbauunternehmen ausgebeutet zu werden." #?
+ #?
+FLN_Copper_Katanga_desc:0 "Katanga enthält große unberührte Kupferreserven, die von flämischen Unternehmen ausgebeutet werden, aber Ressourcen wie Kobalt und andere Seltene Erden warten nur darauf, von unseren Bergbauunternehmen ausgebeutet zu werden."

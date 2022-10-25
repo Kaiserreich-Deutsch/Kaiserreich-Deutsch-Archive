@@ -1,5 +1,7 @@
 ﻿l_german:
 
+##Übersetzt von Thylon##
+
 ###Tooltips###
 PUE_CONVENTION_TT:0 "§GWir werden einen Kongress mit den puertorikanischen Legislativparteien einberufen, um über die Stabilität auf der Insel zu verhandeln.§!"
 PUE_TAKE_FOCUS_NOW:0 "§RDie politische Lage hat sich stabilisiert§!"
@@ -41,6 +43,7 @@ PUE_paternal_autocrat_party:0 "Gobernación Americana"
 PUE_paternal_autocrat_party_long:0 "Gobernación Americana (Amerikanisches Gouverneursamt)"
 PUE_national_populist_party:0 "Partido Nacionalista"
 PUE_national_populist_party_long:0 "Partido Nacionalista de Puerto Rico (Nationalistische Partei von Puerto Rico)"
+
 #Formables#
 PUE_social_liberal_party_PPD:0 "Partido Popular Democratico"
 PUE_social_liberal_party_PPD_long:0 "Partido Popular Democratico (Demokratische Volkspartei)"
@@ -67,6 +70,7 @@ PUE_NAT:0 "Nationalistischer Schwerpunktbaum von Puerto Rico"
 PUE_CAN_ships:0 "Kanadische Schiffe für Puerto Rico"
 PUE_USA_ships:0 "Amerikanische Schiffe für Puerto Rico"
 PUE_Build_Own_Ship:0 "PRA Libertad"
+
 ###Focuses###
 PUE_Protests_Begin:0 "Die Proteste sind erfolgreich"
 PUE_Protests_Begin_desc:0 "Nach wochenlangen Unruhen haben die Amerikaner endlich beschlossen, zu handeln. Es liegt nun am Gouverneur und den politischen Kräften hinter Puerto Rico, entweder eine Einigung zu erzielen oder den Weg für die lang ersehnte Unabhängigkeit zu ebnen..."
@@ -136,8 +140,8 @@ PUE_foreign_ship_designs:0 "Importieren von Schiffsdesigns"
 PUE_foreign_ship_designs_desc:0 "Mit unseren neu angefertigten Schiffen und dem Personal aus dem Ausland könnten wir beginnen, ausländische Schiffsdesigns zu importieren, damit sich unsere Zerstörertruppe weiterentwickeln kann. Während unsere Marine noch in den Kinderschuhen stecken mag, wird unser Handel immer noch Schutz benötigen und der Import der neuesten Technologie bei den Begleitschiffen könnte sich in den kommenden Jahren als entscheidend erweisen."
 PUE_dockyard_investments:0 "Investiert in Werften"
 PUE_dockyard_investments_desc:0 "Um eine Marine zu unterhalten, brauchen wir Werften. Eine Darlehensanfrage an unseren Beschützer könnte sich sowohl für unseren Schutz als auch für unseren Beschäftigungssektor als vorteilhaft erweisen, indem neue Arbeitsmöglichkeiten eröffnet werden."
-PUE_fighter:0 "Investiert in Jäger"
-PUE_fighter_desc:0 "Jede Form der puertoricanischen Luftwaffe würde dringend Kampfflugzeuge benötigen! Als solche ist es unsere Pflicht, unsere Piloten mit der notwendigen Ausrüstung zu versorgen, um die Luftüberlegenheit zu erreichen."
+PUE_fighters:0 "Investiert in Jäger"
+PUE_fighters_desc:0 "Jede Form der puertoricanischen Luftwaffe würde dringend Kampfflugzeuge benötigen! Als solche ist es unsere Pflicht, unsere Piloten mit der notwendigen Ausrüstung zu versorgen, um die Luftüberlegenheit zu erreichen."
 PUE_med_bomber:0 "Investiert in Taktische Bomber"
 PUE_med_bomber_desc:0 "Während kleine und wendige Marinebomber gegen feindliche Schiffe sicherlich einiges ausrichten können, gibt es auch Zeiten, in denen der Feind landen wird und wir etwas brauchen, um seine Truppen an Land zu bedrängen, sowie Flugzeuge, die schwereren Schaden aushalten können, um wertvollere Marineziele zu erreichen. Aus diesem Grund sollten wir in taktische Bomber investieren"
 PUE_CAS:0 "Luftnahunterstützung Bemühungen"

@@ -1,6 +1,6 @@
 ﻿l_german:
 ###   Übersetzt von DerEherneRächer   ###
-danish_focus:0 "Dänischer Fokusbaum"
+danish_focus:0 "Schwerpunktbaum von Dänemark"
 
 ### Leaders ###
 CHRISTIAN_X_DESC:0 "Christian von Glücksburg bestieg 1912 den dänischen Thron, nachdem sein Vater, König Frederick VIII, in Hamburg verstarb. Bis jetzt hat er seine Nation durch den Weltkrieg, in welchem Dänemark neutral blieb, und in die Zwischenkriegszeit geführt und herrschte während des politischen Wandels, der zu dem Aufstieg der Sozialdemokraten unter Thorvald Stauning in 1924 führte. Man sagt sich, dass der König dem Premierminister und seiner Partei nicht wirklich vertraut, aber ihre Position in der Regierung mit dem Wissen akzeptiert, dass er bei Ausschreitungen noch immer seine Notfall-Befugnisse nutzen könnte.\n\nFür viele ist die Tatsache, dass dieser Fall seit 12 Jahren noch nicht eingetreten ist, ein Beweis dafür, dass der König den demokratischen Parlamentarismus mittlerweile akzeptiert, welcher nun schon seit dem Aufstieg der Deuntzer-Regierung 1901 besteht."
@@ -115,6 +115,7 @@ DEN_idea_general_strike_everyone:0 "Generalstreik"
 DEN_idea_general_strike_everyone_desc:0 "Syndikalisten unter der Führung von Christian Christensen haben einen Generalstreik gegen die Regierung ausgerufen, in der Hoffnung, sie zur Abdankung zu zwingen."
 DEN_good_infrastructure:0 "Erschlossenes Land"
 DEN_good_infrastructure_desc:0 "Unsere signifikanten Investitionen in die Infrastruktur unserer Nation, die sich davor in einem recht unterentwickelten Zustand befand, haben sich ausgezahlt. Abgesehen von den wirtschaftlichen Vorteilen, die dies mit sich brachte, ermöglicht dies auch dem Militär eine schnellere Bewegung und dadurch eine schnellere Einsatz-Bereitschaft."
+
 ##New Denmark ideas##
 DEN_idea_danish_arty:0 "Verbesserte Entfernungsmesser"
 
@@ -366,302 +367,387 @@ DEN_DEM_form_federation_desc:0 "Die Integration und Kooperation der nordischen S
 den.1.t:0 "Dänemark 1936"
 den.1.d:0 "Dänemark blieb während des gesamten Weltkriegs über neutral, was allerdings auch seine Kosten mit sich brachte: Die Dänen mussten gegenüber den Deutschen einknicken, als diese die Herrschaft über eigentlich dänische Gewässer forderten. Auch blieb der deutsche Einfluss auf die dänische Gesellschaft und Regierung nach dem Ende des Krieges nicht aus, durch den Dänemark auch zu einem der Gründungsmitglieder Mitteleuropas wurde.\n\nWährend Dänemark vom wirtschaftlichen Aufschwung Deutschlands in den 1920ern profitierte, gab die radikale Linkspartei gegenüber den Sozialdemokraten unter dem charismatischem Thorvald Stauning nach, welcher, abgesehen von einer kurzen Pause zwischen Dezember 1926 und April 1929, seit 1924 als Premierminister tätig ist. Staunings Traum eines dänischen Wohlfahrtsstaats wurde bis jetzt allerdings noch nicht realisiert, da das dänische Oberhaus, das Landsting, unter der Kontrolle der Konservativen steht, welche jegliche Schritte in Richtung Wohlfahrtsstaat blockieren. Viele fragen sich nun, was die Zukunft Dänemark bringen wird. Wird es zu einem deutschen Marionettenstaat werden? Oder wird diese kleine Nation ihre Zukunft selbst bestimmen, während neue Mächte die deutsche Hegemoniestellung anfechten? Nur die Zeit kennt die Antwort..."
 den.1.a:0 "Dänemark wird standhaft bleiben!"
+
 den.2.t:0 "Der Schwarze Montag trifft Dänemark"
 den.2.d:0 "Der Börsenkrach des Berliner Aktienmarkts hat die Wirtschaft ganz Europas betroffen - und lässt natürlich auch Dänemark nicht verschont. Investoren geraten in Panik und die Krise breitet sich von den Børsen auf andere Sektoren aus. Glücklicherweise basiert ein großer Teil der dänischen Wirtschaft auf Landwirtschaft, wodurch der Krise Einhalt geboten werden kann, indem die Regierung einfach Aktien aufkauft. Sicherlich werden die Auswirkungen des Schwarzen Montags längst vorüber sein, wenn unsere Bauern mit der Ernte beginnen - oder?!"
 den.2.a:0 "Selbst wenn nicht, jeder muss essen!"
+
 den.3.t:0 "Arbeiter streiken"
 den.3.d:0 "Als Resultat der Wirtschaftskrise, die ganz Europa betrifft, wurden viele Angestellte in Dänemark entlassen. Aus Sorge um ihren Arbeitsplatz haben die Arbeiter eines größeren Unternehmens einen Streik begonnen, durch den sie eine Vereinbarung mit ihren Arbeitgebern erreichen wollen, die ihre Arbeitsplätze sichert."
 den.3.a:0 "Sollen sie doch streiken!"
 den.3.b:0 "Sucht den Kompromiss!"
 den.3.c:0 "Schickt sie zurück auf Arbeit!"
+
 den.4.t:0 "Unruhen der FS"
 den.4.d:0 "Heute fanden Demonstrationen der 'Fagoppositions Sammensluting', angeführt vom bekannten Syndikalisten Christian Christensen, statt. Diese Ansammlung radikaler Gewerkschaften steht für den Syndikalismus und viele ihrer Anführer werden mit dem berüchtigten 'storm at Børsen' verbunden, den Angriff auf den Aktienmarkt Kopenhagens, welcher von Paris unterstützt wurde. Aufgrund der Auswirkungen des Schwarzen Montags betonen sie jetzt, dass es in der Kommune keine Krise gibt, was sie als Argument für den dänischen Syndikalismus ansehen.\nEs gab zwar einige Instanzen von Gewalt, die das Eingreifen der Polizei ermöglichten, vor allem im totalistischen Flügel der Organisation, angeführt von der ehemaligen Sozialdemokratin Baronesse Olga von Eggers, die meisten der Demonstrationen blieben allerdings friedlich, wahrscheinlich um die Intervention der Polizei zu verhindern. Solange wir im Rahmen unserer Konstitution handeln, gibt es nur wenig, was wir dagegen tun können."
 den.4.a:0 "Syndikalismus?! In Dänemark?!"
+
 den.5.t:0 "Der Konflikt zwischen der DS und der DFP"
 den.5.d:0 "Seitdem Danmarks Folkerepublikanske Parti (Volksrepublikanische Partei Dänemarks) 1935 von Max Arildskov gegründet wurde, was nach dem Vorbild der NRPR, welche sein persönlicher Freund Boris Savinkov anführt, geschah, ist das rechtsextreme Spektrum Dänemarks in zwei Lager aufgeteilt. Vor der Gründung der DFP hatte die Dansk Samling (Dänische Versammlung) hier die Mehrheit, und obwohl sich viele ihrer Politiken stark ähneln, könnten sie nicht zerstrittener sein; So unterstützt die DS beispielsweise die Monarchie und die Deutschen, Letzteres zumindest bis der Syndikalismus besiegt wurde, während die DFP die deutsche Besatzung Slesvig-Holstens verurteilt und die Deutschen deshalb zum Feind erklärt. Außerdem sind sie im Gegensatz zur DS eher republikanisch eingetellt. Es ist klar, dass nur Arildskov, der sogenannte 'Dänische Codreanu', für diesen Riss in der Politik Dänemarks verantwortlich sein kann, da die daraus resultierenden Probleme allerdings derartige Ausmaße annehmen, wird es den Rechten eher schaden als gut tun."
 den.5.a:0 "Die DS bleibt in Führung."
 den.5.b:0 "Die DFP beginnt aufzusteigen..."
+
 den.6.t:0 "Arildskov besucht den Vozhd"
 den.6.d:0 "Max Arildskov, ehemaliger freiwilliger Soldat im Russischen Bürgerkrieg und sogenannter 'Fører' der Volksrepublikanischen Partei Dänemarks, hat seinen Kollegen Boris Savinkov in Moskau besucht. In ihrem Treffen hat er den 'Vozhd' zu seiner neugefundenen Macht in der Russischen Republik gratuliert und die Möglichkeit genutzt, seinen Standpunkt gegenüber dem deutschen und syndikalistischen Einfluss in Dänemark klarzumachen.\nObwohl es nicht viele sind, haben seine Worte und der Erfolg seines russischen Verbündeten einige Dänen davon überzeugt, seine Bewegung zu unterstützen, wenngleich die neue Popularität gerade so für ein oder zwei Sitze im Folketing reichen wird. Die Dansk Samling allerdings ist wahrscheinlich besorgt, da die meisten neuen Wähler der Partei des 'Førers' von ihnen überlaufen."
 den.6.a:0 "'Fører'? Das klingt lächerlich..."
+
 den.7.t:0 "Beunruhigende Berichte der Bauernhöfe"
 den.7.d:0 "Die Landwirtschaft ist das Rückgrat der dänischen Wirtschaft, und obwohl dies die Effekte des Börsenkrachs etwas reduziert hat, kommen immer mehr beunruhigende Berichte herein. Im Gegensatz zu unseren Erwartungen hat sich die freie Wirtschaft Europas noch nicht vom Schwarzen Montag erholt, wodurch die Preise für Lebensmittel um einiges niedriger sind als sonst. Dadurch werden viele Lebensmittel nicht verkauft, und wenn sie verkauft werden, dann ist dies ein Verlustgeschäft, was es den Bauern erschwert, ihre Hypotheken zu bezahlen, was wiederum in der Zwangsversteigerung ihrer Farmen resultieren könnte. Zudem können sie durch das fehlende Geld weniger einkaufen, wodurch sich die Krise wieder auf weitere Sektoren der dänischen Wirtschaft ausbreitet..."
 den.7.a:0 "Das ist schlecht..."
+
 den.9.t:0 "Zwangsversteigerung der Bauernhöfe"
 den.9.d:0 "Wie erwartet können es sich viele Bauern nicht mehr leisten, ihre Darlehen abzubezahlen, wodurch die Bank zur Zwangsversteigerung der Farmen gezwungen wird, die dann wiederum von größeren Landbesitzern mit genügend Geldreserven aufgekauft werden, was das Ganze noch schmerzvoller für die Bauern gestaltet. Viele fordern nun, dass die Regierung den Bauern helfen sollte, aber können wir uns das leisten?"
 den.9.a:0 "Entlastet sie so bald wie möglich!"
 den.9.b:0 "So ist die freie Marktwirtschaft nun mal!"
+
 den.11.t:0 "Generalstreik der Bauern"
 den.11.d:0 "Im ganzen Land haben sich Bauern versammelt, um zu streiken. Sie erkennen, dass Verkauf bei solch niedrigen Preisen nur darin resultieren würde, dass die Bank ihnen ihr Land wegnimmt, weshalb sie nicht verkaufen, bis die Preise wieder steigen. Diese Initiative ist zwar lobenswert, schadet allerdings dem Rest der Bevölkerung Dänemarks, der ebenfalls von der Krise betroffen ist, immens, da dieser sich nun nicht mal mehr ihr täglich Brot leisten kann."
 den.11.a:0 "Macht ihnen Zugeständnisse, das wird den Streik beenden!"
 den.11.b:0 "Wir müssen einfach nur warten!"
 den.11.c:0 "Beendet diesen 'Bauernstreik'!"
+
 den.12.t:0 "Die Bauern bleiben standhaft"
 den.12.d:0 "Trotz dessen, dass wir uns weigern, ihnen Hilfe anzubieten, bleiben die Bauern standhaft. Sie geben nicht nach und hoffen noch immer, dass sie dadurch die Lebensmittelpreise erhöhen und ihre Farmen retten können."
 den.12.a:0 "Wir müssen nachgeben!"
 den.12.b:0 "Es ist sicherlich schon fast vorbei!"
 den.12.c:0 "Wir hätten diesen Streik schon lange beenden sollen!"
+
 den.13.t:0 "Der Bauernstreik legt sich"
 den.13.d:0 "Durch den Bauernstreik sind die Lebensmittelpreise etwas gestiegen, wenngleich nicht einmal annähernd so hoch, wie die Bauern es sich gewünscht hätten. Außerdem hatten sie wahrscheinlich auf Hilfe der Regierung gehofft, welche allerdings nicht kam. Da immer mehr Farmen von den Banken zwangsversteigert werden, geben auch immer mehr Bauern nach und verkaufen ihre Waren zu dem neuen, stabilen Marktpreis. Da dieser nun wieder zu sinken beginnt, zeigt sich auch die Sinnlosigkeit ihres Streikes."
 den.13.a:0 "Das ist gut, nehme ich an..."
+
 den.14.t:0 "Landsting-Wahl 1936"
 den.14.d:0 "Es ist Zeit für die Landsting-Wahl 1936, welche das dänische Oberhaus bestimmt. Seit 1870 hatte noch keine dänische Regierung die Mehrheit in beiden Kammern des Rigsdags, wodurch es aufregend wäre, wenn die Koalition nun den Moment nutzen könnte. Und überraschend, wenn man den derzeitigen Status der dänischen Wirtschaft bedenkt."
 den.14.a:0 "Stauning schafft es erneut!"
 den.14.b:0 "Die Opposition behält die Kontrolle!"
+
 den.15.t:0 "Kanslergade-Abkommen"
 den.15.d:0 "Heute Morgen haben sich Vertreter der Venstre und der derzeitig regierenden Koalition mit Thorvald Stauning in dessen Apartment in Kanslergade 10 getroffen. Jedem ist klar, dass es zur Bekämpfung des Schwarzen Montags mehr braucht als bloßes Aufkaufen von Aktien, um die Børsen zu stabilisieren, der Regierung fehlt jedoch die Mehrheit im Landsting, wodurch ohne Einigung mit den Liberalen keine Maßnahmen zur Bekämpfung der Krise verordnet werden können. Der Tag wurde mit der Diskussion über etliche Details verbracht, heute Abend jedoch, eventuell auch unter Einfluss von ein wenig Alkohol,..."
 den.15.a:0 "...unterzeichneten die Vertreter der Venstre das Abkommen."
 den.15.b:0 "...konnte trotz der Bemühungen keine Vereinbarung getroffen werden."
+
 den.16.t:0 "Die Regierung fällt"
 den.16.d:0 "Es wäre eine Untertreibung zu sagen, dass Premierminister Stauning demoralisiert war, nachdem er keine Vereinbarung mit den Liberalen treffen konnte; er denkt sogar darüber nach, die Politik ein für alle mal hinter sich zu lassen. Heute haben andere diese Entscheidung für ihn getroffen, als die Sozialliberalen die Koalition verließen, mit der Begründung, dass das dänische Volk Hilfe brauche und dass das Sparsamkeitsprogramm der konservativen Opposition besser sei, als nichts zu tun. Det Radikale Venstre hat eine Koalition mit der DKF und Venstre geformt, das zweite Kabinett von Madsen-Mygdal an die Macht gebracht und die Socialdemokraterne von der Regierung auf die Opposition reduziert."
 den.16.a:0 "So sei es."
+
 den.17.t:0 "Etablierung der Rigspolitiet"
 den.17.d:0 "Heute hat die Rigspolitiet (Reichspolizei) mit ihren ersten Operationen begonnen. Diese Institution wird ab jetzt als oberste Instanz der dänischen Polizei agieren und untersteht dem Kommando des 'rigspolitichefen' - des Polizeipräsidenten. Durch diese Reform wird unsere Strafverfolgung in den nächsten Jahren noch effizienter werden und das Gesetz noch besser beschützt."
 den.17.a:0 "Außerdem kreiert es neue Arbeitsplätze!"
+
 den.18.t:0 "Geburt von Prinzessin Margrethe"
 den.18.d:0 "Heute gibt es fröhliche Neuigkeiten von der Königsfamilie: Kronprinz Frederick und seine Frau Ingrid von Schweden haben bekanntgegeben, dass ihr erstes Kind, Margrethe, geboren wurde. Die dänische Verfassung erlaubt es Frauen allerdings nicht, über Dänemark zu herrschen, wodurch es nur äußerst unwahrscheinlich ist, dass sie eines Tages zur Königin von Dänemark gekrönt werden wird. Nun ist es allerdings erst einmal an der Zeit, zu feieren und das neueste Mitglied der Königsfamilie zu begrüßen!"
 den.18.a:0 "Hurrah!"
+
 den.19.t:0 "Eröffnung der Storstrøm-Brücke"
 den.19.d:0 "Nach 4 Jahren Konstruktionszeit wurde die Storstrøm-Brücke heute von [DEN.GetLeader] eröffnet. Sie verbindet die Inseln Falster und Masnedø miteinander, wobei Letztere schon seit 1935 mit Sjælland durch die Masnedsund-Brücke verbunden ist. Nun kann man von Kopenhagen aus mit dem Zug nach Falster reisen. Außerdem kann aufgrund der Guldborgsund-Brücke auch Lolland mit dem Zug erreicht werden, ohne dass auf dem Weg eine Fähre benutzt werden muss."
 den.19.a:0 "Nächste Station: Langeland... wobei dies etwas schwieriger wird..."
+
 den.20.t:0 "Aarhus' neues Wappen"
 den.20.d:0 "Die Stadt Aarhus hat eine neue standartisierte Version ihres Wappens vorgestellt, welches beschrieben wird als 'blaues Schild mit rotem Torbogen, welcher von von zwei Türmen umgeben wird, unter dem sich Clemens Romanus und Paulus von Tarsus befinden, beide gekleidet in blauen Roben. Über dem Torbogen sind ein goldener Mond und ein goldener Stern abgebildet und zwischen den heiligen und vier silbernen Wellen befindet sich eine rote Wand'. Das Aussehen des Wappens basiert auf dem Wappenzeichen, welches die Stadt schon 1250 benutzte."
 den.20.a:0 "Glückwunsch Aarhus!"
+
 den.21.t:0 "Louis Glass ist tot"
 den.21.d:0 "Der bekannte Komponist Louis Glass ist heute in Kopenhagen verstorben. Er studierte im königlichen Konservatorium in Brüssel, woraufhin er zu einem der führenden Pianisten Dänemarks wurde. Seine Karriere als Pianist wurde allerdings durch die Lähmung einer seiner Arme frühzeitig beendet. Aufgrund seiner Behinderung widmete er sich fortan der Komposition von Musikstücken aus unterschiedlichen Genres, darunter auch sechs Symphonien, welche später aufgenommen wurden."
 den.21.a:0 "Möge er in Frieden ruhen."
+
 den.22.t:0 "Der Tod von Thorvald Aargaard"
 den.22.d:0 "Der Komponist und Organist Thorvald Aargaard ist heute in der Stadt Ringe auf Fünen verstorben. Aargaard gilt als einer der Vorreiter der dänischen Pop-Musik, da er die Musik zu vielen beliebten Liedern geschrieben hat, zum Beispiel zu Aakjærs 'Spurven sidder stum bag kvist'."
 den.22.a:0 "Ruhe in Frieden!"
+
 den.23.t:0 "Hans Niels Andersen ist verstorben"
 den.23.d:0 "Der Unternehmer und Abenteurer H.N. Andersen ist heute verstorben. Andersen war der Gründer der sogenannten 'Det Østasiatiske Kompagni', dem größten Unternehmen Dänemarks. Abegesehen von seinen geschäftlichen Unternehmungen diente er uns auch diplomatisch, indem er, wenngleich ohne Erfolg, versuchte, während des Weltkriegs Friedensgespräche zu beginnen und indem er als dänischer Konsul in Siam tätig war. Als Belohnung für seine Leistungen wurde ihm der Elefanten-Orden verliehen und er wird sicherlich vermisst werden!"
 den.23.a:0 "Möge er in Frieden ruhen."
+
 den.24.t:0 "Norwegische Dokumente übergeben"
 den.24.d:0 "Eine große Anzahl Dokumente, welche Norwegen betreffen, von denen die meisten aus der Zeit Dänemark-Norwegens stammen, bereiten sich auf ihre Reise nach Oslo von unseren Nationalarchiven, der Dänischen Königlichen Bibliothek und der Universitätsbibliothek, vor. Norwegen wird sicher erfreut sein, dass sich ihre Geschichte nun wieder in den richtigen Händen befindet."
 den.24.a:0 "Das ist selbstverständlich."
 den.24.b:0 "Wartet, hier ist ein Fehler im Papierkram!"
+
 den.25.t:0 "Norwegische Dokumente übergeben"
 den.25.d:0 "Wertvolle Fracht aus den dänischen Nationalarchiven, der Dänischen Königlichen Bibliothek und der Universitätsbibliothek, ist soeben in Oslo angekommen. Diese Dokumente betreffen allesamt Norwegen und stammen aus der Zeit Dänemark-Norwegens. Durch die Umlagerung dieser Dokumente in unsere Nationalarchive wird unsere Geschichte wieder ein kleines Stück komplettierter sein!"
 den.25.a:0 "Danke Dänemark!"
+
 den.26.t:0 "Der Tod von Karl Madsen"
 den.26.d:0 "Der Künstler und Kunsthistoriker Karl J.W. Madsen, auch als Karl Madsen bekannt, ist am 16. April verstorben. Madsen war Teil der Skagen-Maler des letzten Jahrhunderts. Aufgrund seines Talents und seines umfangreichen Wissens wurde er zu einem der einflussreichsten Kunstkritiker Dänemarks, wobei er auch oft in der Zeitung 'Politiken' mitwirkte. Die letzten zehn Jahre arbeitete er als Direktor des Skagens-Museums."
 den.26.a:0 "Möge er in Frieden ruhen."
+
 den.27.t:0 "Thomas Thrige ist verstorben"
 den.27.d:0 "Der dänische Unternehmer T.B. Thrige ist heute von uns gegangen. Thrige war der Gründer des gleichnamigen Unternehmens, welches Elektromotoren für die Landwirtschaft und andere Zwecke herstellte. Er arbeitete bis zum Ende des Weltkriegs in den Vereinigten Staaten, woraufhin er nach Dänemark zurückkehrte. Es wird spekuliert, dass er schon ahnte, welch unruhige Zeiten den Amerikanern bevorstehen. Seine Fabriken gehören zu einer der größten Quellen für Arbeitsplätze in Dänemark, weshalb wir ihm mehr als nur dankbar sein sollten!"
 den.27.a:0 "Ruhe in Frieden!"
+
 den.28.t:0 "Harald Scavenius ist tot"
 den.28.d:0 "Wir wurden informiert, dass der frühere Außenminister und der Cousin des Kabinettmitglieds Erik, Harald Scavenius, heute in Den Haag verstorben ist, wo er schon seit 1928 im Auslandsdienst war. Scavenius, welcher sich selbst als Konservativer mit einer stark anti-syndikalistischen Einstellung ansah, starb, wie er lebte: Als Diplomat, der im Ausland seinem Staat dient."
 den.28.a:0 "So ist es..."
+
 den.29.t:0 "Der Tod von Peder Pedersen"
 den.29.d:0 "Der Ingenieur Peder Oluf Pedersen ist heute in Kopenhagen verstorben. Pedersen war bekannt für seine Zusammenarbeit mit Valdemar Poulsen, dem Erfinder einer der ersten kabellosen Telegrafien, welche essenziell für die Entwicklung des Radios war. Seit 1922 war Pedersen der Schulleiter der 'Hochschule für fortgeschrittene Technologie' (Den Polytekniske Lærenstalt)."
 den.29.a:0 "Wir werden ihn vermissen."
+
 den.30.t:0 "Thorvald Stauning ist von uns gegangen"
 den.30.d:0 "Thorvald Stauning, einer der einflussreichsten Staatsmänner Dänemarks, die je gelebt haben, ist heute verstorben. Stauning, der lange Zeit Vorsitzender der Sozialdemokraten war, brachte seiner Partei Macht und eine Beliebtheit beim Volk, die niemals jemand erwartet hätte. Viele sind ihm dankbar für die Bekämpfung des Syndikalismus, der DFP und der DS, und einige verlangen für ihn ein offizielles Staatsbegräbnis. Dies wäre eine Ehre, die dänischen Premierministern sonst nicht zuteil wird, da er jedoch aufgrund seiner langen Amtszeit in den Augen des Volkes nicht nur 'irgendein Premierminister' ist, sollten wir es in Betracht ziehen."
 den.30.a:0 "Ein Staatsbegräbnis wird benötigt, um ihn zu würdigen!"
 den.30.b:0 "Er war nichts mehr als ein gewöhnlicher Politiker..."
+
 den.31.t:0 "Aussperrung"
 den.31.d:0 "Die Besitzer mehrerer Unternehmen in einer Stadt Dänemarks verweigern ihren Arbeitern den Zugang zur Arbeit, um ihnen einen niedrigeren Lohn aufzuzwingen, den die Angestellten jedoch nicht akzeptieren wollen. Dies wird unserer industriellen Kapazität schaden, was einer der Gründe ist, warum viele nun verlangen, dass die Regierung in dieser Situation interveniert und mit Verhandlungen zwischen den beiden Parteien beginnt, damit die Produktion so bald wie möglich wieder beginnen kann und sich die Arbeiter wieder ihr täglich Brot verdienen können."
 den.31.a:0 "Warum sollte die Regierung intervenieren?"
 den.31.b:0 "Wir sollten verhandeln."
+
 den.32.t:0 "Ärger in der DKF"
 den.32.d:0 "Die Dänische Konservative Volkspartei (Det Konservative Folkeparti ), kurz auch als 'die Rechte' bekannt, ist die dritte Partei im Folketing. Seit kurzem gibt es jedoch innerhalb der Partei Streitigkeiten: Aufgrund unseres Regierungssystems ist die Partei gespalten zwischen ihrem demokratischen Flügel, angeführt von John Christmas Møller, der außerdem auch die Parlamentsfraktion der Partei anführt und sich für einen demokratischen dänischen Staat einsetzt, und Victor Pürschel, der, mit der Unterstützung von Jack Westergaard und seiner konservativen Jugend, wieder zu dem traditionellen Høyre-System zurück will, in welchem der König viel Macht hat, ähnlich, wie es im Kaiserreich der Fall ist. Es scheint, als würden die Streitigkeiten noch andauern, was es den Sozialdemokraten und ihren konservativen Verbündeten, der Venstre, erlaubt, weitere Unterstützung zu sammeln."
 den.32.a:0 "Eine geteilte Opposition kann für die Regierung von nutzen sein."
+
 den.33.t:0 "Der Zweite Weltkrieg"
 den.33.d:0 "Die ersten Gefechte wurden gemeldet und, wie es scheint, war der Weltkrieg doch nicht der Krieg, alle Kriege zu beenden. Währenddessen ist Dänemarks Regierung geteilt zwischen den Sozialdemokraten, die die dänische Neutralität bewahren wollen, und den Liberalen und Konservativen, welche eine syndikalistische Invasion Dänemarks fürchten, falls die Internationale den Krieg gewinnen sollte. Deshalb wollen sie sich dem Reichspakt anschließen und um unsere Unabhängigkeit kämpfen, statt unser Schicksal allein den Deutschen zu überlassen!"
 den.33.a:0 "Wir müssen dem Krieg beitreten!"
 den.33.b:0 "Wir müssen erneut neutral bleiben!"
+
 den.34.t:0 "Dänemark möchte dem Reichspakt beitreten"
 den.34.d:0 "Die dänische Regierung bittet darum, sich dem Reichspakt anschließen und uns in unserem Kampf gegen die Syndikalisten beistehen zu dürfen. Es gibt kaum einen Grund, ihrer Anfrage nicht zu entsprechen, da ihr Beitritt dem Feind den Zugang zur Ostsee verwehren würde, wodurch wir ein Problem weniger hätten, um das wir uns kümmern müssten."
 den.34.a:0 "Willkommen!"
 den.34.b:0 "Nein danke."
+
 den.35.t:0 "Deutschland stimmt zu"
 den.35.d:0 "Deutschland hat unserer Anfrage entsprochen und uns im Reichspakt begrüßt. Zusammen werden wir den Syndikalismus vernichten!"
 den.35.a:0 "Når tysken kommer her!"
+
 den.36.t:0 "Deutschland lehnt ab"
 den.36.d:0 "Deutschland hat unsere Bitte, dem Reichspakt beizutreten, abgelehnt, mit der Begründung, dass sie sonst nur unnötig Truppen, die an der Front benötigt werden, zu unserem Schutz abstellen müssten."
 den.36.a:0 "Die Implikation ist es, die am meisten weh tut..."
+
 den.37.t:0 "Der König feuert [getDanishPrimeMinister]"
 den.37.d:0 "Unerwartete Neuigkeiten aus dem Palast: König Christian X hat [getDanishPrimeMinister] und seine Minister entlassen und sie durch Victor Pürschel, dem Anführer des autoritären (royalistischen) Flügels der DKF, ersetzt. Grund dafür war die Weigerung der Regierung, dem Weltkrieg beizutreten, da dieser Krieg ein Risiko für Dänemark Wohlstand und das Hær dem deutschen Heer sowieso keine große Hilfe gegen die Syndikalisten wäre. Es ist allerdings fragwürdig, wie lange der Beschluss des Königs bestehen bleiben wird, da der Widerstand des Volkes gegen seine Aktionen immer weiter zunimmt."
 den.37.a:0 "Hätten wir ihn diese Befugnisse wirklich behalten lassen sollen?"
+
 den.38.t:0 "Empörung über die Aktionen des Königs"
 den.38.d:0 "Wie erwartet haben die autoritären Maßnahmen des Königs einen starken Widerstand des Volkes hervorgerufen. Zeitungen bezeichnen die Regierung als 'Kabinett ohne Mandat' und fordern die Abdankung des Königs und die Meinung der Bürger über die Monarchie ist von heute auf morgen rapide gesunken, wodurch die Republikaner nun in der Mehrheit sind. Zu allem Übel beginnt das Volk nun auch noch, auf den Straßen zu demonstrieren, um sich gegen die undemokratischen Aktionen des Königs zu wehren."
 den.38.a:0 "Sie werden schon noch verstehen!"
+
 den.39.t:0 "Folketing startet Misstrauensvotum"
 den.39.d:0 "Nachdem sich das anfängliche Chaos, welches durch die Ersetzung der Regierung entstand, allmählich gelegt hat, hat die ehemalige Regierungskoalition ein Misstrauensvotum gegen die jetzige Regierung gestartet, welches von allen Parteien im Folketing außer Dansk Samling und den radikaleren Repräsentanten der DKF, die auf Pürschels Seite stehen, unterstütz wird. Der Anführer der konservativen Jugendbewegung, Jack Westergaard, hat dem neuen Kabinett einen Plan vorgestellt, der beinhaltet, den Repräsentanten der Opposition den Zugang zum Folketing zu verwehren, um halbwegs mit der Konstitution vereinbare Gesetze durchzusetzen, die unsere Kontrolle stärken würden. Währenddessen versucht der ehemalige Premierminister Thorvald Stauning den König davon zu überzeugen, nachzugeben und von dem Ansehen der Monarchie zu retten, was noch zu retten ist."
 den.39.a:0 "Stauning überzeugt den König nachzugeben."
 den.39.b:0 "Der König gibt nicht nach und Westergaards Plan wird ausgeführt."
+
 den.40.t:0 "Proteste vor Schloss Amalienborg"
 den.40.d:0 "Die Aktionen des Königs und seiner neuen Regierung haben zu großen Demonstrationen vor Schloss Amalienborg, wo der König derzeit residiert, geführt. Der Protest besteht zu einem großen Teil aus Syndikalisten. Nach einigen Stunden der friedlichen Demonstration kam es jedoch zu gewalttätigen Ausschreitungen durch die Totalisten - und der Protest entwickelt sich langsam zu einem regelrechten Aufstand. Der Polizeipräsident der Kopenhagener Polizei schlägt vor, die Bereitschaftspolizei zur Beruhigung der Lage zu nutzen, während Premierminister Pürschel den Aufstand ein für alle Mal mithilfe der Armee auflösen will."
 den.40.a:0 "Entsendet die Bereitschaftspolizei!"
 den.40.b:0 "Entsendet die Armee!"
+
 den.41.t:0 "Protesten vor Schloss Amalienborg Einhalt geboten"
 den.41.d:0 "Nachdem sich der friedliche Protest zu einem regelrechten Aufstand entwickelte, schickte die Regierung die Bereitschaftspolizei, um die Situation unter Kontrolle zu bringen. Diese sammelte sich auf beiden Seiten der Amaliegade-Straße und im Amaliehaven und trieb die Aufständigen dadurch langsam aus dem Hof des Schlosses in Richtung der Frederikskirche, wo sich der Protest dann auflöste. Es wurden keine Toten gemeldet, allerdings wurden mehrere Demonstranten von der Polizei verhaftet.\n\nEs wurden jedoch einige Fenster des Schlosses zerstört und auch die Rytterstatuen haben Schaden abbekommen, wodurch klar wird, dass der König nicht weiter in Amalienborg residieren darf, da sein Leben in Gefahr wäre, sollte es erneut zu einem derartigem Aufruhr kommen."
 den.41.a:0 "Evakuiert seine Majestät und nutzt die Bereitschaftspolizei zur Sicherung der Umgebung."
+
 den.42.t:0 "Die FS ruft einen Generalstreik aus"
 den.42.d:0 "Gerade als die Situation sich zu bessern schien, hat die 'Fagoppositions Sammensluting' (FS) den Generalstreik ausgerufen, um das zu erreichen, was die Protestierenden in Amalienborg nicht erreichen konnten. Bis jetzt haben sich dem Streik allerdings nur Syndikalisten angeschlossen, wodurch er fürs Erste nur ein kleineres Hindernis ist."
 den.42.a:0 "Nur Syndikalisten würden so etwas unterstützen..."
+
 den.43.t:0 "Der Generalstreik weitet sich aus"
 den.43.d:0 "In den letzten Tagen hat sich der Generalstreik weiter ausgeweitet, da sich ihm immer mehr Nicht-Syndikalisten anschließen, welche unsere Aktionen als undemokratisch ansehen. Nun ist aus dem kleinen Hindernis ein riesiges Problem für die Wirtschaft geworden, wodurch wir mit jedem weiteren Tag mehr Verluste machen. Die Forderungen der Streikenden sind klar, und wie es scheint werden sie nicht allzubald zu ihren Arbeitsplätzen zurückkehren..."
 den.43.a:0 "Sie kehren schon wieder auf ihre Arbeit zurück"
 den.43.b:0 "Wir müssen nachgeben..."
+
 den.44.t:0 "Der Generalstreik geht weiter"
 den.44.d:0 "Es sind schon mehrere Tage vergangen und der Streik hat noch immer nicht an Stärke verloren, seine Zustimmung bei der Bevölkerung wächst sogar. Unserer Regierung gehen langsam die Optionen aus und die Wirtschaft ist momentan komplett lahmgelegt. Der König wird ungeduldig, da wir nichts weiter tun können, als abzuwarten und zu hoffen, dass sich der Streik legt, oder ihre Forderungen zu erfüllen - und wie es scheint, werden die Streikenden noch einige Zeit so weiter machen können."
 den.44.a:0 "Sie kehren schon wieder auf ihre Arbeit zurück"
 den.44.b:0 "Wir müssen nachgeben..."
+
 den.45.t:0 "Der Generalstreik verliert an Stärke"
 den.45.d:0 "Endlich, nach Wochen der Proteste, fangen einige Teile der Bevölkerung an, nachzugeben, und kehren zu ihren Arbeitsplätzen zurück. Dadurch haben die Syndikalisten nun nicht mehr die nötige Unterstützung des Volkes, um den Streik noch weiter fortführen zu können. Wie es scheint, hat die Regierung diese Krise überstanden und über ihr Volk gesiegt..."
 den.45.a:0 "Hah..."
+
 den.46.t:0 "Militärintervention im Protest"
 den.46.d:0 "Da die Aufständigen das Leben des Königs bedrohten, hat die Regierung entschieden, dass Pürschels Plan die beste Lösung wäre. Als die Armee jedoch anrückte, um den König zu evakuieren, verlor einer der Soldaten die Nerven und schoss auf einen Protestierenden. Der Protest hat sich kurz darauf in ein regelrechtes Feuergefecht verwandelt: Steine wurden auf die Soldaten geworfen und einige der Aufständigen zückten sogar ihre eigenen Waffen, um sich vor dem Militär verteidigen zu können. Dieses wiederum antwortete ebenfalls mit einem Kugelhagel, bis sich schließlich viele Soldaten dazu entschlossen, die Seiten zu wechseln und sich dem Volk anzuschließen. Dadurch gelang es den Protestierenden, die dem König noch loyalen Streitmächte zu überwältigen und das Schloss zu erobern. Die Armee wurde zum Rückzug gezwungen und wartet auf Verstärkung, da es ihnen an der nötigen Stärke fehlt, die Revolte zu zerschlagen."
 den.46.a:0 "Oh-oh..."
+
 den.47.t:0 "Ausrufung der Kopenhagener Kommune"
 den.47.d:0 "Nach der Eroberung des Schlosses hat Christian Christensen, mit der Unterstützung der FS, im Schlosshof die Kopenhagener Kommune ausgerufen, was von der Menge mit tobendem Applaus beantwortet wurde. Jedoch ist der Erfolg der Kommune noch nicht sicher, da dem König die Flucht gelungen ist und ein Großteil der Armee noch immer der alten Regierung treu ergeben ist. Das Volk jedoch beginnt, sich unter dem Banner der Kommune zu versammeln, und ihren 'Streitkräften' ist es gelungen, die Rosenberger Baracken zu übernehmen, wodurch sie nun das dortige Waffenarsenal nutzen können, um die einst friedliche Bevölkerung auf einen bewaffneten Widerstand vorzubereiten..."
 den.47.a:0 "Oh-oh..."
+
 den.48.t:0 "Die Regierung der Kommune berät über den nächsten Schritt"
 den.48.d:0 "Die Regierung der Kommune hat sich heute in Schloss Amalienborg versammelt, um zu entscheiden, wie sie nun verfahren sollte. Der ehemalige Premierminister Stauning hat eine Rede gehalten, in der er dazu aufrief, mit der Armee zu verhandeln, statt den Konflikt auf dem Schlachtfeld auszutragen. Obwohl Stauning einer der populärsten Politiker Dänemarks ist, haben ihn viele Mitglieder der FS als konterrevolutionär und als Klassenverräter denunziert, einige verlangen sogar seine Verhaftung..."
 den.48.a:0 "Stauning überzeugt die Mehrheit."
 den.48.b:0 "Stauning ist nicht überzeugend und wird verhaftet."
+
 den.49.t:0 "Zivilflugzeuge werfen Flugblätter über Militärbasen ab"
 den.49.d:0 "Den Anweisungen Staunings folgend haben einige Zivilisten die Druckerpresse der Berlingske-Tageszeitung übernommen und damit begonnen, Flugblätter zu drucken, welche die Soldaten, die dem König noch loyal sind, und ihre Verbrechen vor Schloss Amalienborg denunzieren. Außerdem werden die Forderungen der Protestierenden, die Abdankung des Königs und die Auflösung des autoritären Kabinetts, nochmals klar gemacht. Eine Gruppe enthusiastischer Zivilpiloten hat sich daraufhin freiwillig gemeldet, um diese Flugblätter über Militärbasen im ganzen Land abzuwerfen. Das Ergebnis dieser Maßnahme hat sich sofort gezeigt: Einige Soldaten geben ihre Posten auf und schließen sich den Streitkräften der Kommune an, während andere mit Meuterei drohen, sollte die Armee nicht mit der Kommune verhandeln..."
 den.49.a:0 "Die Generäle müssen akzeptieren."
+
 den.50.t:0 "Die Armee vernichtet die Kommune"
 den.50.d:0 "Aufgrund der Verhaftung Staunings haben sich viele der demokratischeren Protestierenden gegen die Kommune gestellt, da diese genau so handeln würde, wie das autoritäre Kabinett, welches sie abschaffen wollen. Dies sorgte für einen Machtkampf, und während die beiden Fraktionen um die Kontrolle über Kopenhagen kämpften, hat sich die dänische Armee vor den Toren der Stadt neu formiert. Innerhalb weniger Stunden wurde die Stadt zurückerobert und der Aufstand endlich beendet. Nun, da die Kommune Geschichte ist, hat das autoritäre Kabinett seine Stellung ein für alle Mal gesichert."
 den.50.a:0 "Auf Nimmerwiedersehen!"
+
 den.51.t:0 "Die Ankunft von König Christian"
 den.51.d:0 "Christian von Glücksburg, der ehemalige König Dänemarks, ist heute in Berlin angekommen, nachdem es in seinem Heimatland beunruhigende Entwicklungen gab: Er wollte, dass Dänemark dem Reichspakt beitritt und sich dem Krieg auf Deutschlands Seite anschließt, was jedoch für einen Skandal sorgte, durch den er abdanken und auf den dänischen Thron verzichten musste, was wiederum Dänemarks Neutralität zementiert hat.\nEinige in unserer Regierung empfänden es als eher kontraproduktiv, Dänemark zur Annäherung an die Internationale zu bringen. Man sollte allerdings auch bedenken, dass Christian der Schwager des Herzogs von Mecklenburg-Schwerin und ebenfalls der Schwager der Frau von Kronprinz Wilhelm ist. Außerdem sollte es ein Leichtes sein, Dänemark zu besetzen, vielleicht sogar noch bevor sie Kontakt zur internationale aufnehmen können."
 den.51.a:0 "Wir müssen intervenieren!"
 den.51.b:0 "Wir werden nicht für Dänemark sterben!"
+
 den.52.t:0 "Der Feind meines Feindes..."
 den.52.d:0 "Die Deutschen haben sich dazu entschieden, ihren Groll gegen uns erneut zur Schau zu stellen: Wir befinden uns mit ihnen im Krieg, genau wie die Französische Kommune. Ihre syndikalistischen Ideale sind mit unserer Weltanschauung zwar nicht ganz vereinbar, aber das sollte im Krieg doch keine Rolle spielen, oder?"
 den.52.a:0 "Wir müssen der Internationale beitreten!"
 den.52.b:0 "Mit Syndikalisten verbünden?! Niemals!"
+
 den.53.t:0 "Dänemark bittet um Hilfe!"
 den.53.d:0 "Die dänischen Kapitalistenschweine haben sich in eine kritische Lage gebracht: Sie befinden sich im Krieg mit den Deutschen. Der Gedanke daran, Bourgeoisie-Sozialisten in die Internationale einzuladen, ist zwar ungeheuerlich, sie zwingen Deutschland allerdings, Truppen für eine weitere Front abzuziehen und wir könnten diese Situation nutzen, um ihre Regierung zu Reformen zu zwingen, die Dänemark in einen syndikalistischen Staat verwandeln würden."
 den.53.a:0 "Nur wenn sie ihre Regierung reformieren!"
 den.53.b:0 "Wir verbünden uns nur mit Syndikalisten!"
+
 den.54.t:0 "Die Franzosen verlangen Reformen"
 den.54.d:0 "Die Franzosen sind bereit, uns als neues Mitglied in der Internationale willkommen zu heißen, allerdings nur, wenn wir Reformen durchführen, welche Dänemark dem Syndikalismus näher bringen. Der Gedanke ist zwar ungeheuerlich, die Alternative wäre jedoch, als deutscher oder französischer Marionettenstaat zu enden."
 den.54.a:0 "Wir haben keine Wahl..."
 den.54.b:0 "Wir geben unsere Demokratie niemals auf!"
+
 den.55.t:0 "Dänemark akzeptiert"
 den.55.d:0 "Die dänische Regierung hat unseren Bedingungen widerwillig zugestimmt. Nun, da die politischen Probleme gelöst sind, steht ihrem Beitritt zur Internationale nichts mehr im Wege."
 den.55.a:0 "Willkommen Brüder!"
+
 den.56.t:0 "Dänemark lehnt unsere Forderungen ab"
 den.56.d:0 "Die Dänen weigern sich, die von uns geforderten Reformen durchzuführen, da diese die dänische Demokratie untergraben würden. Das sollte allerdings kein Problem sein: Nach dem Sieg über das Kaiserreich können wir Dänemark befreien und eine vollständig syndikalistische Regierung einsetzen."
 den.56.a:0 "Wenn sie es nicht anders haben wollen..."
+
 den.57.t:0 "Frankreich lehnt ab!"
 den.57.d:0 "Mit der Begründung, dass die Aufnahme von 'Bourgeoisie-Sozialisten' (was wir anscheinend sind) in die Internationale die Gedanken der Revolution untergraben würden, haben die Franzosen unsere Anfrage, uns ihrem Bündnis anschließen zu dürfen, abgelehnt."
 den.57.a:0 "Wir schaffen es auch ohne sie!"
+
 den.58.t:0 "Die Frage der Monarchie"
 den.58.d:0 "König Christians Unterstützung für Pürschels illegitime Regierung hat einigen Schaden angerichtet: Laut den meisten Umfragen wollen nur noch weniger als 50% des Volkes eine Monarchie als Regierungssystem Dänemarks. Viele erkennen jedoch, dass dies vor allem an der Unbeliebtheit von König Christian liegt und nicht direkt den Wunsch des Volkes zeigt, dass Dänemark eine Republik werden sollte. Die Abdankung des Königs ist unausweichlich, aber sollte er die normale Abdankungsprozedur durchführen und seinen Sohn Prinz Frederick den Thron erben lassen? Oder sollten wir unorthodoxe Maßnahmen ergreifen, um sicherzustellen, dass so etwas nie wieder passiert? Sicherlich würden große Teile des Volks die Ausrufung der Republik begrüßen."
 den.58.a:0 "Frederick sollte erben!"
 den.58.b:0 "Ladet den früheren norwegischen König Haakon ein, bekannt für seine Liebe zur Demokratie!"
 den.58.c:0 "Schafft die Monarchie ab und etabliert die Republik!"
+
 den.59.t:0 "Haakon lehnt unser Angebot ab."
 den.59.d:0 "Haakon schien die perfekt Wahl zu sein: Der ehemalige König Norwegens, der auch 'König der Syndikalisten' genannt wird, ist ein Prinz Dänemarks und bekannt für seine Akzeptanz der Demokratie, welche ihm letztendlich den norwegischen Thron gekostet hat. Er erschien dem dänischen Volk als perfekter König, da er sich wohl niemals in das demokratische Geschehen einmischen würde. Haakon allerdings fühlte sich zwar durch das Angebot geschmeichelt, hat es allerdings dankend abgelehnt, weil er noch immer einen Anspruch auf den norwegischen Thron erhebt und die Annahme unseres Angebots seine Chance, sein Erbrecht jemals einzufordern, schwinden lassen würde. Außerdem fügte er hinzu, dass er sich sicher ist, dass sein Neffe unser Land gut führen würde."
 den.59.a:0 "Dann soll es Frederick sein!"
 den.59.b:0 "Ruft die Republik aus!"
-den.60.t:0 "Folketingwahl [GetYear]"
+
+den.60.t:0 "Folketingwahl von [GetYear]"
 den.60.d:0 "Die Zeit, den Folketing zu wählen, ist erneut gekommen: Nach mehreren Monaten der Wahlwerbung und Reden werden die dänischen Bürger nun für ihre bevorzugten Parteien abstimmen. Wahrscheinlich könnten zwei verschiedene Koalitionen die Mehrheit im Folketing erreichen: Die Sozialdemokraten und die Radikale Linkspartei oder die Linkspartei und die Konservative Volkspartei. Aber wer wird die Wahl gewinnen?"
 den.60.a:0 "Die Socialdemokraterne und Radikale Venstre erzielen die Mehrheit im Folketing!"
 den.60.b:0 "Die Venstre und die DKF erzielen die Mehrheit im Folketing!"
-den.61.t:0 "Folketingwahl [GetYear]"
+
+den.61.t:0 "Folketingwahl von [GetYear]"
 den.61.d:0 "Die Zeit, den Folketing zu wählen, ist erneut gekommen: Nach mehreren Monaten der Wahlwerbung und Reden werden die dänischen Bürger nun für ihre bevorzugten Parteien abstimmen. Wahrscheinlich könnten zwei verschiedene Koalitionen die Mehrheit im Folketing erreichen: Die Sozialdemokraten und die Radikale Linkspartei oder die Linkspartei und die Konservative Volkspartei. Aber wer wird die Wahl gewinnen?"
 den.61.a:0 "Die Socialdemokraterne und Radikale Venstre erzielen die Mehrheit im Folketing!"
 den.61.b:0 "Die Venstre und die DKF erzielen die Mehrheit im Folketing!"
+
 den.62.t:0 "Der König wählt den Kanzler"
 den.62.d:0 "Staunings Sozialisten und Det Radikale Venstre konnten sich die Mehrheit im Folketing sichern. Der König ist nun allerdings bereit, seine konstitutionellen Rechte zu nutzen, um Krisen abzuwenden, die aufgrund einer inkompetenten Regierung zustande kommen könnten. Viele bitten ihn, die Wahlergebnisse zu ignorieren und der DKF die Macht über den Folketing zu geben."
 den.62.a:0 "Lasst die Sozialdemokraten die Regierung bilden."
 den.62.b:0 "Ernennt Pürschel zum Kanzler, aber lasst die Sozialdemokraten einige Minister ernennen."
 den.62.c:0 "Lasst stattdessen Pürschel und die DKF die Regierung bilden."
+
 den.63.t:0 "Der König wählt den Kanzler"
 den.63.d:0 "Die dänische Rechte konnte sich die Mehrheit im Folketing sichern. Viele stimmen überein, dass der Kurswechsel der neuen Regierung rechtmäßig ist. Immerhin bedrohen sie die dänische Politik nicht wirklich, allerdings würde die DKF gerne das Versprechen des Königs haben, dass sie den Premierminister stellen und damit die Hauptrolle in der Regierung spielen dürfen."
 den.63.a:0 "Es wird alles wie gewohnt ablaufen!"
 den.63.b:0 "Setzt die DKF als größeren Koalitionspartner durch."
+
 den.64.t:0 "75 Jahre seit dem Verlust Slesvig-Holstens"
 den.64.d:0 "Vor einem Dreiviertel-Jahrhundert haben die Deutschen das Herzogtum Schleswig-Holstein für sich beansprucht und erobert, wodurch seitdem viele Dänen unter deutscher Herrschaft leben. Einige der radikaleren Parteien Dänemarks, zum Beispiel 'Danmarks Folkerepublikanske Parti', teilweise auch 'Dansk Samling' und der maximistische Flügel der syndikalisitischen 'Fagoppositions Sammensluting', wollen diesen Tag wieder rückgängig machen und das Herzogtum von der deutschen Unterjochung befreien.\n Die DFP hat sogar ein Fest organisiert, um die 'kommende Befreiung Slesvigs' zu feiern. Dieser wachsende Revanchismus ist...beunruhigend."
 den.64.a:0 "So ist es..."
+
 den.65.t:0 "Die Befreiung von Christiansfeld"
 den.65.d:0 "Wahrscheinlich nachdem sie auf dem Fest der DFP etwas zu viel getrunken hatten, haben einige Mitglieder des Frikorps entschieden, dass die Befreiung ihrer dänischen Brüder nicht länger warten kann: Sie ergriffen ihre Waffen, zogen ihre Frikorps-Uniformen an und bewegten sich auf das an der deutsch-dänischen Grenze liegende Dorf Christiansfeld zu. Widerstand leisten nur ein Soldat, welcher im Ort Urlaub machte, und zwei Zollbeamte. Alle drei wurden von der wütenden Menge getötet. Nach ihrer 'Eroberung' erklärten sie Christiansfeld zur 'ersten von vielen Städten Slesvigs, die befreit werden', einige Dorfbewohner bejubelten die 'Soldaten' sogar. Wie erwartet griff allerdings bald darauf die naheliegende deutsche Garnison ein, welche das Frikorps zur Flucht in Richtung Dänemark zwang, nachdem dessen Mitglieder noch ein paar der deutschen Bewohner des Dorfes verprügelten, weil diese sie verraten hatten."
 den.65.a:0 "Die Deutschen werden das nicht mögen..."
+
 den.66.t:0 "Der Überfall auf Christiansfeld"
 den.66.d:0 "Einige Mitglieder des dänischen Frikorps haben das Dorf Christiansfeld überfallen. Während ihres Überfalls töteten sie einen Soldaten, welcher im Ort Urlaub macht, und zwei Zollbeamte. Außerdem verprügelten sie einige der deutsch-sprechenden Bewohner des Dorfes. Kurz darauf konnte die lokale Garnison diese Barbaren zur Flucht in Richtung Dänemark zwingen, allerdings konnte kein einziger von ihnen festgenommen werden."
 den.66.a:0 "Dänemark muss diese Verbrecher sofort ausliefern!"
 den.66.b:0 "Das ist den Ärger nicht wert..."
+
 den.67.t:0 "Die Deutschen verlangen die Auslieferung"
 den.67.d:0 "Die deutschen verlangen die Auslieferung der Mitglieder des Frikorp, welche das Dorf Christiansfeld überfallen haben. Wir wissen wer es war, aber sollten wir wirklich dänische Staatsbürger an die Deutschen ausliefern?!"
 den.67.a:0 "Natürlich, sie haben gegen jegliche Gesetze verstoßen!"
 den.67.b:0 "Nein, ihre Einstellung war richtig!"
+
 den.68.t:0 "Dänemark gibt nach!"
 den.68.d:0 "Die Dänen haben nachgegeben: Sie haben die Täter, die hinter dem Überfall steckten, verhaften lassen und an uns ausgeliefert. Der deutsche Gerichtshof wird nun über das Schicksal dieser Barbaren entscheiden."
 den.68.a:0 "Gut!"
+
 den.69.t:0 "Dänemark leistet Widerstand!"
 den.69.d:0 "Die dänische Regierung weigert sich, ihre Staatsbürger an uns auszuliefern: Anscheinend haben sie Angst, dass wir den Tätern keinen gerechten Prozess ermöglichen werden. Die dänischen Implikationen sind ungeheuerlich, immerhin reden wir hier über Mörder!"
 den.69.a:0 "Das werden wir nicht vergessen!"
+
 den.70.t:0 "20 Jahre Sturm auf die Børsen"
 den.70.d:0 "Vor genau 20 Jahren haben verärgerte Syndikalisten und Anarchisten den Kopenhagener Aktienmarkt, auch als 'Børsen' bekannt, überfallen. In syndikalistischen Kreisen ist dieser Tag derjenige, an dem Dänemark der Revolution am nähesten stand, und aufgrund dieses fragwürdigen Jubiläums planen die Syndikalisten bereits weitere Aktionen, um ihre damals verhafteten Brüder zu ehren."
 den.70.a:0 "Beunruhigend..."
+
 den.71.t:0 "Grundlovsdag"
 den.71.d:0 "Heute ist Grundlovsdag, der dänische Nationalfeiertag, an dem das Volk die Demokratie feiert. Viele Politiker halten heute Reden und ein Großteil der Bevölkerung hat verkürzte Arbeitszeiten."
 den.71.a:0 "Hurrah!"
+
 den.72.t:0 "Wahl des Außenministers"
 den.72.d:0 "Wie die Franzosen es verlangt haben, wird unsere Regierung radikal überholt. Von nun an werden die Aufgaben des Rigsdags vom neuen 'Fagoppositions Sammensluting' übernommen, in dem alle Arbeiter Dänemarks eine obligatorische Mitgliedschaft besitzen. Im Gegensatz zu vielen orthodox-syndikalistischen Systemen ist diese Institution offener für alle Meinungen, dadurch aber auch den radikaleren Stimmen gegenüber, wie denen der ehemaligen Mitglieder der Radikale Venstre. Heute findet die Wahl des nächsten Außenministers statt. Zur Wahl haben sich aufstellen lassen: Ib Nørlund von der orthodox-syndikalistischen Fraktion, der engere Beziehungen zur Internationale sucht, Hans Hedtoft von Staunings Fraktion, welcher eine pragmatischere Herangehensweise versuchen will und jetzt die volle Unterstützung der Internationale sucht und nach dem Krieg die Beziehung zur Internationale überdenken wird, und Otto Mohr, welcher sich nach dem Krieg wieder von der Internationale entfernen will. Es gibt zwar auch Kandidaten der Maximisten und Revolutionären, ihre Fraktionen sind aber sehr klein, wodurch sie keine echte Chance auf einen Wahlsieg haben."
 den.72.a:0 "Der Kandidat der Orthodoxen, Nørlund"
 den.72.b:0 "Der Kandidat Staunings, Hedtoft"
 den.72.c:0 "Der Kandidat der Liberalen, Mohr"
+
 den.73.t:0 "Wahl des Wirtschaftsminsiters"
 den.73.d:0 "Heute wählt der Fagoppositions Sammensluting den neuen Wirtschaftsminsiter. Erneut haben nur die Kandidaten der drei größten Partei eine realistische Chance, die Wahl zu gewinnen. Diese sind der alteingesessene Poul Gissemann, welcher die Orthodoxen vertritt und sich für die Gewerkschaftsbildung in Dänemark einsetzt, Staunings Kandidat Viggo Kampmann, welcher den französischen Forderungen mit so wenigen Änderungen wie möglich nachkommen und die freie Marktwirtscahft behalten will, und Bertel Dahlgaard, welcher sich von den dreien am meisten für die freie Marktwirtschaft einsetzt, zumindest im Rahmen der Möglichkeiten, welche Frankreich uns einräumt."
 den.73.a:0 "Der Kandidat der Orthodoxen, Gissemann"
 den.73.b:0 "Der Kandidat Staunings, Kampmann"
 den.73.c:0 "Der Kandidat der Liberalen, Dahlgaard"
+
 den.74.t:0 "Wahl des Innenministers"
 den.74.d:0 "Als nächstes wählt der Fagoppositions Sammensluting den Innenminister. Erneut haben nur die Kandidaten der drei größten Partei eine realistische Chance, die Wahl zu gewinnen. Einer von ihnen ist Poul Gissemann, welcher sich auch für diese Position hat aufstellen lassen und die dänische Revolution schützen will, indem er gegen die anti-syndikalistische Einstellung des Volkes vorgeht. Seine Konkurrenten sind Alsing Andersen und Jørgen Jørgensen, welche jeweils Stauning und die Liberalen vertreten. Sie sind gegen ein aggressives Vorgehen gegen die anti-syndikalistische Einstellung des Volkes, da dieses das Misstrauen der Bevölkerung dem neuen System gegenüber, welches sie als aufgezwungen betrachtet, nur stärken würde."
 den.74.a:0 "Der Kandidat der Orthodoxen, Gissemann"
 den.74.b:0 "Der Kandidat Staunings, Andersen"
 den.74.c:0 "Der Kandidat der Liberalen, Jørgensen"
+
 den.75.t:0 "Wahl des Vorsitzenden"
 den.75.d:0 "Zuletzt muss der Sammensluting noch den Vorsitzenden wählen. Diese Position wurde schon lange von Christian Christensen gehalten, welcher auch kaum eine wirkliche Konkurrenz hatte, aufgrund des Zustroms neuer Mitglieder durch die Ernennung der FS zur offiziellen Regierungspartei jedoch wollen ihm nun Thorvald Stauning, dessen Sozialdemokraten ihn als Retter Dänemarks ansehen, da er das Bündnis mit den Franzosen erzielte, und Peter Munch, welcher von vielen Reaktionären, welche nun zur Mitwirkung im neuen System gezwungen sind, untersützt wird, seine Position streitig machen streitig machen."
 den.75.a:0 "Christensen wird wiedergewählt"
 den.75.b:0 "Stauning übernimmt den Vorsitz"
 den.75.c:0 "Die Kryptoreaktionären verhelfen Munch zum Vorsitz"
+
 den.76.t:0 "Sieg der Orthodoxen"
 den.76.d:0 "Trotz des Zustroms an neuen Mitgliedern gelang es den Orthodoxen, die Kontrolle über den Sammensluting beizubehalten. Dänemarks Revolution wird wohl doch nicht so moderat bleiben..."
 den.76.a:0 "Immerhin werden die Franzosen glücklich sein..."
+
 den.77.t:0 "Sieg Staunings"
 den.77.d:0 "Der ehemalige Premierminister Stauning hat es aufgrund seiner persönlichen Popularität und seiner Reputation als Dänemarks Retter geschafft, die Kontrolle über den syndikalistischen Sammensluting zu erlangen. Dies stärkt die Anschauung des Volkes, dass, egal was auch passieren mag, die Sozialdemokraten eine Macht bleiben, mit der man rechnen muss."
 den.77.a:0 "Das kam nicht sonderlich überraschend..."
+
 den.78.t:0 "Sieg der Liberalen"
 den.78.d:0 "Die Syndikalisten wurden in ihrem eigenen Spiel geschlagen; Die Franzosen erlaubten Dänemark nur ein offeneres System, da sie glaubten, dass die Partei 'Radikale Venstre' zu klein wäre, um einen nennenswerten Einfluss im dänischen Politikgeschehen zu erhalten. Durch den Ausschluss der Konservativen und der anderen Liberalen jedoch wurde die Partei immer beliebter. Einige fragen sich, ob die Liberalen, welche nun die syndikalistischen Gewerkschaften kontrollieren, die neuen Regelungen etwas entschärfen werden."
 den.78.a:0 "Dies wird eine sehr moderate Revolution..."
+
 den.79.t:0 "Fehlende Mehrheit"
 den.79.d:0 "Der neue Zustrom an Mitgliedern sorgt dafür, dass der Fagoppositions Sammensluting nun zwischen vielen verschiedenen Parteien geteilt ist. Es kann keine Mehrheit erreicht werden, weshalb einige Parteien eine Koalition bilden müssten, um Dänemark eine stabile Regierung zu gewährleisten."
 den.79.a:0 "Stauning verbündet sich mit den Orthodoxen."
 den.79.b:0 "Stauning verbündet sich mit den Liberalen."
+
 den.80.t:0 "König Christian ist verstorben..."
 den.80.d:0 "Seine königliche Majestät, König Christian, ist heute in seiner Residenz, Schloss Amalienborg, verstorben. Er wird, genau wie viele Mitglieder der dänischen Königsfamilie vor ihm, im Dom zu Roskilde, schätzungsweise 30km von Kopenhagen entfernt, bestattet. In der Zwischenzeit hat der Premierminister bekanntgegeben, dass Christians Sohn, Kronprinz Frederick, zum neuen König Dänemarks gekrönt werden wird!"
 den.80.a:0 "Der König ist tot, lang lebe der König!"
+
 den.81.t:0 "Das Verfassungs-Referendum"
 den.81.d:0 "Die Regierung hat eine Änderung der dänischen Verfassung vorgeschlagen: Das Wahlalter soll von 25 auf 23 Jahre gesenkt werden und das Landsting, Dänemarks Senat, soll durch eine neue Institution namens Rigsting ersetzt werden, während der 'vereinte Rigsdag', bestehend aus dem Rigsting und dem Folketing, eine dritte Kammer formen wird, welche sich um wichtige Angelegenheiten wie den Staatshaushalt oder zukünftige Verfassungsänderungen kümmern soll.\nDiese Veränderungen finden nur sehr wenige Gegner, da auch viele der Oppositionsparteien sie unterstützen. Laut der dänischen Verfassung allerdings müssen 45% der Wählerschaft einer Änderung an ihr zustimmen, wobei hier auch Wähler mitgezählt werden, welche sich enthalten oder gar nicht erst zur Wahl auftauchen. Diese 45% werden nur schwer zu erreichen sein - und bei der Durchsetzung der Verfassungsänderung zu versagen, würde unsere Regierung nicht gerade kompetent dastehen lassen."
 den.81.a:0 "Wir müssen die Wahlbeteiligung des Volkes erhöhen!"
+
 den.82.t:0 "Die Verfassungsänderung schlägt fehl!"
 den.82.d:0 "Trotz all unserer Bemühungen gingen nur 1.063.764 Dänen wählen, was 48.9% der Wählerschaft entspricht. Da nur 91.9% für die Verfassungsänderung gestimmt haben, unterstützten insgesamt 44.46% der Wählerschaft die Änderung - ein Ergebnis, welches nur knapp an den nötigen 45% vorbeigeht. Wie es scheint, werden wir uns bis auf Weiteres mit der Verfassung von 1916 abfinden müssen. Außerdem haben sowohl Thorvald Stauning von der Socialdemokraterne als auch John Christmas Møller von der DKF eine Rede gehalten, in der sie ihre Niederlage eingestehen. Keinen von beiden scheint der Ausgang der Wahl wirklich glücklich gemacht zu haben."
 den.82.a:0 "Das ist nicht gut für das Ansehen unserer Regierung!"
+
 den.83.t:0 "Die Verfassungsänderung wurde gutgeheißen!"
 den.83.d:0 "Gute Neuigkeiten! Unsere Bemühungen, die Wahlbeteiligung zu erhöhen, scheinen sich gelohnt zu haben. Das Verfassungs-Referendum war ein voller Erfolg: Über 90% der Wähler haben für die Verfassungsänderung gestimmt, wodurch mit Einberechnung derjenigen, die nicht Wählen gegangen sind, ca. 55% der Wählerschaft der Änderung zugestimmt haben, was weit mehr als die benötigten 45% ist. Durch dieses Ergebnis kann die Verfassungsänderung nun endlich druchgesetzt werden. Sowohl Thorvald Stauning als auch John Christmas Møller haben Reden gehalten, in denen sie nochmals betont haben, wie glücklich sie dieses Ergebnis mache. Nun können wir uns endlich von der Verfassung von 1916 verabschieden!"
 den.83.a:0 "Hurrah!"
+
 den.85.t:0 "Thomas Madsen-Mygdal ist verstorben"
 den.85.d:0 "Thomas Madsen-Mygdal, der Vorsitzende der Venstre-Partei, ist heute Morgen zu Hause in Anwesenheit seiner Familie verstorben. Er war in seinem Leben mehrmals Mitglied der Regierung, Führer der Opposition und sogar Premierminister - und hat dadurch einigen Einfluss auf die dänische Politik gehabt. Die Venstre hat kurz darauf Knud Kristensen zum neuen Parteivorsitzenden ernannt, welcher es sicher schwer haben wird, in die Fußstapfen eines solch großartigen Mannes zu treten."
 den.85.a:0 "Seine Beerdigung wird sicherlich von Liberalen überflutet sein..."
+
 den.86.t:0 "Dänemark bietet ein Wirtschafts-Abkommen an"
 den.86.d:0 "Unser kleiner Nachbar Dänemark blieb vom Schwarzen Montag, welcher auch unsere Nation plagt, ebenfalls nicht verschont. Um den Auswirkungen entgegenzuwirken, möchte die dänische Regierung den Import dänischer Güter attraktiver gestalten. Deshalb wollen sie den Wert der Krone im Vergleich zur Mark sinken lassen, da dänische Waren so auf dem mitteleuropäischen Markt günstiger zu kaufen wären. Im Gegenzug für unsere Kooperation verspricht die Regierung Dänemarks uns den Import zusätzlicher deutscher Güter, welche unsere Verluste ausgleichen sollten." 
 den.86.a:0 "Das klingt vernünftig, los gehts!"
 den.86.b:0 "Wir werden die deutsche Wirtschaft nicht derartig verraten!"
+
 den.87.t:0 "Deutschland akzeptiert unser Abkommen"
 den.87.d:0 "Die deutsche Regierung hat unser Angebot, zusätzliche deutsche Waren zu importieren, wenn sie uns dabei helfen, den Wert der Krone im Vergleich zur Mark zu senken, akzeptiert. Dadruch sollten die dänischen Güter auf dem mitteleuropäischen Markt nun etwas attraktiver sein."
 den.87.a:0 "Gut, das sollte bei der Erholung helfen!"
+
 den.88.t:0 "Deutschland lehnt unser Angebot ab"
 den.88.d:0 "Die deutsche Regierung hat unser Angebot, zusätzliche deutsche Waren zu importieren, wenn sie uns dabei helfen, den Wert der Krone im Vergleich zur Mark zu senken, abgelehnt. Dies ist ein Rückschlag, da jeder Versuch, den Wert der Krone ohne die Zustimmung der Deutschen zu senken, deutsche Gegenmaßnahmen hervorrufen wird. Wir werden uns wohl selbst bei der Erholung helfen müssen."
 den.88.a:0 "Schade!"
+
 den.89.t:0 "Die Gründung von 'Lego'"
 den.89.d:0 "Die Holzverarbeitungswerkstatt des Billunder Zimmermanns Ole Kirk Christiansen hat im letzten Jahr eine schwere Zeit durchgemacht: Aufgrund des Schwarzen Montags bestellten immer weniger Kunden im sonst so florierenden Geschäft. Deshalb entschied Christiansen, sich auf kleinere Projekte zu fokussieren, und startete mit der Spielzeugherstellung für Kinder. Obwohl dies nicht wirklich profitabel war, da viele Kunden nur mit Sachleistungen zahlen konnten, konnte er sich dadurch über Wasser halten. Das Spielzeug, welches nun den Namen 'LEGO' trägt, was eine Kontraktion der Phrase 'Leg godt' - 'Spiele gut' ist, wird in Dänemark immer beliebter - und auch in Schleswig-Holstein hat das Spielzeug bereits erste Kunden gefunden."
 den.89.a:0 "Eine wunderbare Darstellung des dänischen Einfalssreichtums!"
@@ -670,19 +756,24 @@ den.91.t:0 "Deutschen Schutz suchen?"
 den.91.d:0 "Erschreckenderweise sind sowohl Norwegen als auch Schweden dem Syndikalismus anheimgefallen. Sicherlich planen sie bereits die Zerstörung unseres Status-Quos, zusammen mit den syndikalistischen Verrätern in der dänischen Bevölkerung. Große Teile des Volkes denken, dass es das Beste wäre, Deutschland um eine Allianz zu bitten, welche unseren Schutz garantieren würde. Einen Krieg gegen Norwegen und Schweden könnten wir wohl kaum gewinnen..."
 den.91.a:0 "Kontaktiert Berlin!"
 den.91.b:0 "Wir schaffen es auch alleine!"
+
 den.92.t:0 "August-Aufstand"
 den.92.d:0 "Es finden immer mehr Aufstände statt, um gegen den Zustand des Krieges, in welchem Dänemark sich nun schon so lange befindet, zu protestieren. Vor allem in diesem Monat sind die Unruhen gewachsen: Von Odense ausgehend haben sich die Demonstrationen in viele andere Städte Dänemarks ausgebreitet, darunter Funen, Esbjerg, Aalborg und Aarhus. Glücklicherweise scheint die Lage in Kopenhagen noch entspannter zu sein, es ist jedoch klar, dass das Volk keinen Krieg mehr will."
 den.92.a:0 "Wir haben doch schon fast gewonnen!"
+
 den.93.t:0 "Syndikalistloven"
 den.93.d:0 "Über den 'Paragraphen Nummer 349, zum Verbot der syndikalistischen Verbände und Gewerkschaften' wird bald im Folketing abgestimmt werden. Dieser soll jegliche syndikalistischen Aktivitäten verbieten, vor allem die der 'Fagoppositions Sammensluting', welche die Staatssicherheit gefährden und unseren Feinden in die Hände spielen.\n\nTrotz der Umstände ist dieses Gesetz äußerst kontrovers und einige Juristen bezeichnen es sogar als Verletzung der Assoziationsfreiheit, welche in unserer Konstitution verankert ist."
 den.93.a:0 "Das Gesetz wird trotz der Kontroverse durchgesetzt"
 den.93.b:0 "Das Gesetz wird nicht durchgesetzt, die Syndikalisten dürfen weiterhin operieren."
+
 den.94.t:0 "Das dänische Hybriden-Regime"
 den.94.d:0 "Da der Weltkrieg für die Deutschen gerade nicht sonderlich gut verläuft, hat sich Dänemark, eine Nation, die viele als fest in der deutschen Sphäre verankert ansahen, an die Dritte Internationale angenähert, um das Überleben ihres eigenen Staates zu garantieren. Nachdem der Versuch des dänischen Königs, ein autoritäres System in Dänemark zu etablieren, scheiterte, wurde die dortige Monarchie abgeschafft, um die Demokratie zu beschützen. Nun, da die Deutschen aufgrund der Vertreibung König Christians mit einer Invasion gedroht haben, hat die neue dänische Republik Schutz gesucht und offiziell darum gebeten, der Dritten Internationale beitreten zu dürfen. Als Bedingung für den dänischen Beitritt haben die Franzosen allerdings verlangt, dass Dänemark eine sozialistische Regierung etabliert. Trotz einiger Opposition hat die dänische Regierung sich dazu entschieden, diese Bedingungen zu erfüllen, solange ihre demokratischen Institutionen erhalten bleiben."
 den.94.a:0 "Ein Verrat wie kein anderer..."
+
 den.95.t:0 "Dänemark wendet sich der Autokratie zu"
 den.95.d:0 "Während der Zweite Weltkrieg noch immer in fast ganz Europa tobte, befand sich die kleine, dem Reichspakt loyale Nation Dänemark in ihrer ganz eigenen Krise: Das dänische Parlament konnte schon seit Wochen nicht entscheiden, welchen Weg ihre Nation in der Zukunft einschlagen sollte. König Christian X hat, unzufrieden damit, dass seine Regierung keinen Konsens erreichen konnte, die Führung über die dänische Armee übernommen, die demokratischen Institutionen Dänemarks abgeschafft und die Loyalität des dänischen Volkes dem Reichspakt gegenüber verkündet. Dies führte jedoch im gesamten Staat zu Protesten, weshalb deutsche Garnisonen entsandt wurden, um die dortigen Milizen und die lokale Polizei bei deren Unterdrückung zu unterstützen. Diese Entscheidung schockiert zwar viele, doch nun ist endlich geklärt, auf welcher Seite die Dänen wirklich stehen."
 den.95.a:0 "Lang lebe der König!"
+
 ### Parties ###
 DEN_totalist_party:0 "FS"
 DEN_totalist_party_long:0 "Fagoppositions Sammensluting (Maksimister)"
@@ -713,7 +804,7 @@ DEN_syndiefaction_soclib:0 "Liberale"
 
 ### tooltips ###
 den_tt_the_fs_will_elect_dominant_wing:0 "§RWährend des Ersetzungs-Prozesses wird die FS neue Beamte und Mitglieder wählen.§!"
-den_tt_kanslergade_agreement_succesful:0 "§RDas Kanslergade-Abkommen wird erfolgreich sein, was den Kanslergade-Teil des Fokusbaums freischaltet, um die Probleme des Schwarzen Montags zu lösen.§!"
+den_tt_kanslergade_agreement_successful:0 "§RDas Kanslergade-Abkommen wird erfolgreich sein, was den Kanslergade-Teil des Fokusbaums freischaltet, um die Probleme des Schwarzen Montags zu lösen.§!"
 den_tt_no_more_lockouts:0 "§RStreiks und Aussperrungen werden ein Jahr lang verboten.§!"
 den_tt_no_black_monday:0 "§YDänemarks Krise durch den Schwarzen Montag legt sich.§!"
 DEN_tt_will_get_latest_carrierversion_for_free:0 "§YWir erhalten die neueste noch nicht erforschte Flugzeugträger-Jäger-Technologie kostenlos.§!"
@@ -748,33 +839,33 @@ DEN_diplomatic_row:0 "Diplomatische Krise"
 DEN_rejected_trade_deal:0 "Lehnte Handelsabkommen ab"
 
 ### Cosmetic Tags ###
-DENHYB_totalist:0 "Dänische Union"
+DENHYB_totalist:0 "Volksrepublik Dänemark"
 DENHYB_totalist_ADJ:0 "Dänisch"
-DENHYB_totalist_DEF:0 "die Dänische Union"
-DENHYB_syndicalist:0 "Dänische Union"
+DENHYB_totalist_DEF:0 "die Volksrepublik Dänemark"
+DENHYB_syndicalist:0 "Volksrepublik Dänemark"
 DENHYB_syndicalist_ADJ:0 "Dänisch"
-DENHYB_syndicalist_DEF:0 "die Dänische Union"
-DENHYB_radical_socialist:0 "Dänische Union"
+DENHYB_syndicalist_DEF:0 "die Volksrepublik Dänemark"
+DENHYB_radical_socialist:0 "Volksrepublik Dänemark"
 DENHYB_radical_socialist_ADJ:0 "Dänisch"
-DENHYB_radical_socialist_DEF:0 "die Dänische Union"
-DENHYB_social_democrat:0 "Dänische Union"
+DENHYB_radical_socialist_DEF:0 "die Volksrepublik Dänemark"
+DENHYB_social_democrat:0 "Volksrepublik Dänemark"
 DENHYB_social_democrat_ADJ:0 "Dänisch"
-DENHYB_social_democrat_DEF:0 "die Dänische Union"
-DENHYB_social_liberal:0 "Dänische Union"
+DENHYB_social_democrat_DEF:0 "die Volksrepublik Dänemark"
+DENHYB_social_liberal:0 "Volksrepublik Dänemark"
 DENHYB_social_liberal_ADJ:0 "Dänisch"
-DENHYB_social_liberal_DEF:0 "die Dänische Union"
+DENHYB_social_liberal_DEF:0 "die Volksrepublik Dänemark"
 DENHYB_market_liberal:0 "Dänemark"
 DENHYB_market_liberal_ADJ:0 "Dänisch"
 DENHYB_market_liberal_DEF:0 "Dänemark"
 DENHYB_social_conservative:0 "Dänemark"
 DENHYB_social_conservative_ADJ:0 "Dänisch"
 DENHYB_social_conservative_DEF:0 "Dänemark"
-DENHYB_authoritarian_democrat:0 "Königreich Dänemark"
+DENHYB_authoritarian_democrat:0 "Dänemark"
 DENHYB_authoritarian_democrat_ADJ:0 "Dänisch"
-DENHYB_authoritarian_democrat_DEF:0 "das Königreich Dänemark"
-DENHYB_paternal_autocrat:0 "Königreich Dänemark"
+DENHYB_authoritarian_democrat_DEF:0 "Dänemark"
+DENHYB_paternal_autocrat:0 "Dänemark"
 DENHYB_paternal_autocrat_ADJ:0 "Dänisch"
-DENHYB_paternal_autocrat_DEF:0 "das Königreich Dänemark"
-DENHYB_national_populist:0 "Königreich Dänemark"
+DENHYB_paternal_autocrat_DEF:0 "Dänemark"
+DENHYB_national_populist:0 "Dänischer Staat"
 DENHYB_national_populist_ADJ:0 "Dänisch"
-DENHYB_national_populist_DEF:0 "das Königreich Dänemark"
+DENHYB_national_populist_DEF:0 "der dänische Staat"

@@ -1,6 +1,8 @@
 ﻿l_german: 
 
-Kumul_start:0 "Kumul Schwerpunktbaum"
+##Übersetzt von Thylon##
+
+Kumul_start:0 "Schwerpunktbaum von Kumul"
 
 ### Parties ###
 KUM_totalist_party:0 "Kumul Abolitionisten"
@@ -273,7 +275,7 @@ kumul.52.d:0 "Die Region Xinjiang ist sehr gebirgig, dünn besiedelt und rückst
 kumul.52.a:0 "Was hat er nur vor..."
 
 kumul.53.t:0 "Ma Zhongying plant Überfalle"
-kumul.53.d:0 "Wir haben vor kurzem herausgefunden, dass Ma Zhongying, der Schlächter von Gansu, einen Plan entwickelt hat, mehrere Dörfer in der Nähe von Dihua zu überfallen, wahrscheinlich ihre Sachen zu plündern und ihr Opium zu nehmen. Yulbars Khan hat uns einen Vorschlag gemacht, um ihn davon abzuhalten. Wir können Ma Zhongying mehr Macht in unserer Regierung und höhere Löhne geben, um ihn davon zu überzeugen, die Stadt nicht zu verlassen. Hoja-Niyaz hat jedoch erklärt, dass dies eine schreckliche Idee ist und dass Ma Zhongying zu gefährlich ist, um mehr Macht zu erhalten."
+kumul.53.d:0 "Wir haben vor kurzem herausgefunden, dass Ma Zhongying, der Schlächter von Gansu, den Plan gefasst hat, mehrere Dörfer in der Nähe von Dihua zu überfallen, um sie auszuplündern und ihr Opium zu nehmen. Yulbars Khan hat uns einen Plan vorgeschlagen, wie wir ihn davon abhalten können. Wir können Ma Zhongying mehr Macht in unserer Regierung und ein höheres Gehalt geben, um ihn dazu zu bewegen, die Stadt nicht zu verlassen. Hoja-Niyaz hat jedoch erklärt, dass dies eine schreckliche Idee sei und dass Ma Zhongying zu gefährlich sei, um mehr Macht zu bekommen."
 kumul.53.a:0 "Geben wir ihm, was er braucht."
 kumul.53.b:0 "Der Gauner muss gaunern."
 
@@ -324,7 +326,7 @@ kumul.80.d:0 "Hoja-Niyaz traf sich mit den alten Ostturkestan-Rebellen, ein risk
 kumul.80.a:0 "Agabey!"
 
 kumul.81.t:0 "Ärger mit der Scharia"
-kumul.81.d:0 "Nach der Verabschiedung der Verfassung in Kumul ist die Grundlage für die Umsetzung des Scharia-Gesetzes in ganz Kumul gelegt. Sofort traten Probleme auf, als der letzte Mufti von Xinjiang vor Jahrzehnten nach Istanbul floh. Die Ernennung eines neuen Muftis verursacht deshalb Ärger, weil es kein nationales Protokoll für die Wahl eines Muftis unter den Imamen gibt. Für diejenigen, die sich Kumul müde anschlossen, hat die Tatsache, dass das unabhängige Ostturkestan in der Kaschgar-Madrassa formuliert wurde, den zukünftigen Mufti bereits als politisches Werkzeug und nicht als unabhängiger Jurist, wie es der Koran verlangt, diskreditiert."
+kumul.81.d:0 "Nach der Verabschiedung der Verfassung in Kumul ist die Grundlage für die Umsetzung des Scharia-Gesetzes in ganz Kumul gelegt. Sofort traten Probleme auf, als der letzte Mufti von Xinjiang vor Jahrzehnten nach [773.GetName] floh. Die Ernennung eines neuen Muftis verursacht deshalb Ärger, weil es kein nationales Protokoll für die Wahl eines Muftis unter den Imamen gibt. Für diejenigen, die sich Kumul müde anschlossen, hat die Tatsache, dass das unabhängige Ostturkestan in der Kaschgar-Madrassa formuliert wurde, den zukünftigen Mufti bereits als politisches Werkzeug und nicht als unabhängiger Jurist, wie es der Koran verlangt, diskreditiert."
 kumul.81.a:0 "Wenn wir nur Shakib Arslan bekommen könnten..."
 
 kumul.82.t:0 "Angebot für mongolische Gewehre"

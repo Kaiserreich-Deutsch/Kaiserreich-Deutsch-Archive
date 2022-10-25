@@ -1,6 +1,6 @@
 ﻿l_german:
 ### Übersetzt von DerEherneRächer ###
-Hawaii:0 "Hawaiianischer Fokusbaum"
+Hawaii:0 "Schwerpunktbaum von Hawaii"
 
 ### Parties ###
 HAW_totalist_party:0 "Revolutionäre Partei Hawaiis"
@@ -336,8 +336,8 @@ HAW_new_pilot_training:0 "Neue Piloten trainieren"
 HAW_new_pilot_training_desc:0 "Durch das Chaos des Krieges sind Piloten zur Mangelware geworden. Vielversprechende Kandidaten, die es in der Luftwaffe weit bringen könnten, sollten nicht an die Frontlinie, sondern zu Pilotenschulen gebracht werden."
 HAW_expand_midway:0 "Midway expandieren"
 HAW_expand_midway_desc:0 "Die Midwayinseln bilden sowohl für unsere Flotte als auch unsere Luftwaffe einen sicheren Hafen im Pazifik. Den dortigen Flugplatz zu erweitern würde unseren Einfluss in der Region immens erhöhen."
-HAW_paratroopers:0 "Fallschirmjäger"
-HAW_paratroopers_desc:0 "Die Aufnahme von Fallschirmjägern in die Armee würde die Eroberung von weit entfernten Inseln beschleunigen und erleichtern. Wir sollten sofort damit beginnen, die nötige Ausrüstung zu erforschen, um schnellstmöglich neue Divisionen formen zu können."
+HAW_paratrooper_focus:0 "Fallschirmjäger"
+HAW_paratrooper_focus_desc:0 "Die Aufnahme von Fallschirmjägern in die Armee würde die Eroberung von weit entfernten Inseln beschleunigen und erleichtern. Wir sollten sofort damit beginnen, die nötige Ausrüstung zu erforschen, um schnellstmöglich neue Divisionen formen zu können."
 HAW_air_supremacy:0 "Luftüberlegenheit"
 HAW_air_supremacy_desc:0 "Der Kampf um die Herrschaft des Himmels ist kein leichter, weshalb wir auf die Doktrin der Vertikalen Umhüllung zurückgreifen sollten, um unsere Luftnahunterstützung und unsere Bomber zu beschützen."
 HAW_fighters:0 "Jäger-Bemühungen"

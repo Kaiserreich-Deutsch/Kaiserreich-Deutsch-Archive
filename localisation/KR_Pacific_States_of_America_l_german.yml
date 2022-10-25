@@ -1,5 +1,7 @@
 ﻿l_german:
 
+##Übersetzt von Thylon##
+
 PSA:0 "Schwerpunktbaum von Pazifische Staaten von Amerika"
 
 ### Parties ###
@@ -33,7 +35,6 @@ PSA_immigration_act_idea:0 "National Origins Act"
 PSA_moral_education_idea:0 "Moralische Erziehung"
 PSA_new_nationalism_idea:0 "Neuer Nationalismus"
 PSA_social_gospel_idea:0 "Soziales Evangelium"
-PSA_economic_recovery_idea:0 "Wirtschaftliche Erholung"
 PSA_education_philanthropy_idea:0 "Bildungs Philanthropie"
 PSA_business_grants_idea:0 "Unternehmenszuschusss"
 PSA_chautauqua_idea:0 "Chautauqua-Bewegung"
@@ -78,6 +79,7 @@ USA_civil_war_decisions:0 "Entscheidungen im Bürgerkrieg"
 USA_civil_war_decisions_desc:0 "Wir kämpfen für die Zukunft von Amerika. Nieder mit den Verrätern, und hoch mit den Sternen!"
 
 PSA_join_japan:0 "Ausrichtung nach Japan"
+PSA_join_japan_desc:0 "Der große Pazifik ist nicht das Einzige, was wir mit den Japanern teilen, denn sie haben gezeigt, dass sie die gleichen demokratischen Werte hochhalten, die uns so wichtig sind. Nachdem sie uns im Bürgerkrieg geholfen haben, wäre es nur gerecht, wenn wir uns den Japanern bei ihrem Ziel anschließen würden, Stabilität, Demokratie und Freiheit im Pazifik zu verbreiten."
 
 ### Army Focuses ###
 PSA_activate_the_Western_Defense_Command:0 "Gründet das Westliche Verteidigungskommando"
@@ -267,7 +269,7 @@ PSA_bureau_of_the_budget_desc:0 "Ein ausgeglichener Haushalt ist der Schlüssel 
 PSA_market_liberals_in_power:0 "Republikaner gewählt"
 PSA_market_liberals_in_power_desc:0 "Die Republikanische Partei, Verfechter des Freihandels, der Deregulierung und des Finanzsektors, haben die Wahlen 1940 gewonnen. Die Bürger können mit niedrigeren Steuern, besseren Preisen und einer Rückkehr des "can-do" individualistischen Geistes des amerikanischen Kapitalismus rechnen."
 PSA_settelment_movement:0 "Siedlungsbewegung"
-PSA_settelment_movement_desc:0 "Die Settlement-Bewegung war im England und Amerika der Vorkriegszeit populär und konzentrierte sich darauf, Reiche und Arme in "Settlement-Häusern" zusammenzubringen, um sich gegenseitig besser zu verstehen. Wir sollten eine Wiederbelebung dieser Bewegung in diesen schwierigen sozialen Zeiten fördern."
+PSA_settelment_movement_desc:0 "Die Settlement-Bewegung war im Großbritannien und Amerika der Vorkriegszeit populär und konzentrierte sich darauf, Reiche und Arme in "Settlement-Häusern" zusammenzubringen, um sich gegenseitig besser zu verstehen. Wir sollten eine Wiederbelebung dieser Bewegung in diesen schwierigen sozialen Zeiten fördern."
 PSA_small_business_support:0 "Unterstützen kleine Unternehmen"
 PSA_small_business_support_desc:0 "Kleine Unternehmen waren das Rückgrat der amerikanischen Wirtschaft, bis viele im Bürgerkrieg zerstört wurden. Wir sollten uns mit Steueranreizen und anderen Strategien befassen, um das Vertrauen der Kleinunternehmen wiederherzustellen."
 PSA_business_grants:0 "Business Zuschüsse"
@@ -561,7 +563,7 @@ pacificstates.52.t:0 "Hymne für Amerika"
 pacificstates.52.d:0 "Die Vereinigten Staaten haben keine offizielle Hymne und heute wurde eine Debatte im Kongress aufgegriffen, um ein Lied zur Hymne zu erklären. Vier Lieder sind als mögliche Kandidaten ausgewählt worden. Welches soll der Kongress auswählen?"
 pacificstates.52.a:0 "Columbia, Gem of the Ocean."
 pacificstates.52.b:0 "Hail Columbia."
-pacificstates.52.c:0 "My country, Tis of Thee."
+pacificstates.52.c:0 "Battle Cry of Freedom"
 pacificstates.52.e:0 "Star Spangled Banner."
 
 pacificstates.53.t:0 "Änderung der Kinderarbeit"
@@ -787,6 +789,7 @@ PSA_ALEXANDER_VANDEGRIFT_ARMY_DESC:0 "§YGeneral Beschreibung\n§YGeboren:§L Ma
 PSA_GEORGE_WINDLE_READ_ARMY_DESC:0 "§YGeneral Beschreibung\n§YGeboren:§L July 29, 1900, in Fort Grant, Arizona\n§YMilitärische Laufbahn:§L George Windle Read Jr. verbrachte den größten Teil seiner Jugend in Militärlagern. Er folgte seinem Vater, der ein wichtiges Mitglied der US-Armee war, und meldete sich 1917 freiwillig zur Armee. Obwohl er sich zunächst für die Infanterie meldete und die Militärakademie als Second Lieutenant abschloss, veranlasste ihn seine Liebe zum Polo, noch vor 1920 zum Kavalleriekorps zu wechseln, wo er den Grundkurs der Kavallerieschule absolvierte und 1921 seinen Abschluss machte. Er nahm mehrere Posten in den USA und im Ausland an, wobei er meist in die Fußstapfen seines Vaters trat, bis zu dessen Tod im Jahr 1934. Mit dem Tod seines Vaters wurde er nach Seattle versetzt, wo er im Namen der Zentralregierung mehrere Streiks niederschlagen musste, als sich die nationale Situation verschlechterte. Als die Gouverneure des Pazifiks schließlich revoltierten, entschloss sich George, ihren Aufstand zu unterstützen, da die meisten seiner Partner in der Region dies taten und er nicht riskieren wollte, wegen Verrats inhaftiert zu werden. Als Zeichen der Anerkennung für seine Loyalität wurde er zum Brigadegeneral befördert und wartet nun sehnsüchtig darauf, sich der Aufgabe gewachsen zu zeigen, wie es sein Vater war."
 PSA_JIMMY_DOOLITTLE_ARMY_DESC:0 "§YGeneral Beschreibung\n§YGeboren:§L December 14, 1896, in Alameda, California, Vereinigte Staaten von Amerika\n§YMilitärische Laufbahn:§L James Harold "Jimmy" Doolittle besuchte nach seinem Abschluss an der Manual Arts High School in Los Angeles das Los Angeles City College und wurde später an der University of California in Berkeley aufgenommen, wo er an der School of Mines studierte. 1917 trat er als Fliegerkadett in die Reserve des Signal Corps ein und wurde 1918 zum Oberleutnant befördert, danach leistete er aktiven Dienst als Fluglehrer. Er besuchte die Air Service Mechanical School und den Aeronautical Engineering Course und kehrte dann schließlich nach Berkeley zurück, wo er 1922 seinen Bachelor of Arts erwarb. In den zwanziger Jahren wurde Doolittle zu einer nationalen Berühmtheit und einem Pionier der Luftfahrt. Er unternahm mehrere Touren innerhalb der USA und ins Ausland, besuchte mehrere Kurse über die Marinefliegerei und erhielt 1924 sogar einen Master-Abschluss in Aeronautik vom MIT. Doolittle trug zur Entwicklung des Instrumentenfluges bei, wofür er 1930 den Rang eines Majors erhielt. Danach verließ er den aktiven Militärdienst und begann als Leiter der Luftfahrtabteilung der Shell Oil Company zu arbeiten. Mit den Spannungen, die zum Bürgerkrieg führten, stellte sich Doolittle jedoch wieder für den Dienst in seinem Heimatstaat zur Verfügung, und als Frank Merriam verkündete, dass Kalifornien sich dem Aufstand der Pazifikstaaten anschließe, meldete sich Doolittle freudig für den Generalstab und wurde als Brigadegeneral aufgenommen.\n§YWichtige Anmerkungen:§L- Ein brillanter Flieger und Stratege, der bemerkenswert schneller lernt als seine Kollegen\n- Strenger Verfechter der Demokratie, sogar innerhalb der Armee, was bei seinen Vorgesetzten einige Kontroversen auslöste."
 PSA_HERBERT_POWELL_ARMY_DESC:0 "§YGeneral Beschreibung\n§YGeboren:§L July 13, 1903, in Monmouth, Oregon, Vereinigte Staaten von Amerika\n§YMilitärische Laufbahn:§L Herbert Butler Powell begann seine militärische Laufbahn, als er 1919 als Gefreiter in die Oregon National Guard eintrat, wo er den Rang eines Sergeants erreichte, und begann ein Journalismusstudium an der Universität von Oregon, das er 1927 abschloss. 1931 absolvierte er den Company Officers' Course an der United States Army Infantry School in Fort Benning, wo er als Second Lieutenant abschloss. Er meldete sich für das Command and General Staff College an und schloss 1935 als Major ab. Obwohl er nicht gerade einen hohen Rang innehatte, schloss sich Powell während der Vorbereitung des Bürgerkriegs den Protesten Marshalls gegen MacArthur an, und als die Pazifikstaaten schließlich revoltierten, schloss er sich Marshall bei dessen Flucht nach Westen an und wurde von Marshall selbst für seine Loyalität zum Brigadegeneral befördert."
+
 ###############################################
 #PSA's Admirals Beschreibungs#
 ###############################################

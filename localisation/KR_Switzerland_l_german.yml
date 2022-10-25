@@ -1,6 +1,6 @@
 ﻿l_german:
 ###  Übersetzt von Proho  ###
-KR_Switzerland:0 "Schweiz Schwerpunkt Baum"
+KR_Switzerland:0 "Schwerpunktbaum von Schweiz"
 
 ### Leaders ###
 POLITICS_SWITZERLAND_COUNCIL_DESC:0 "Der 1848 gegründete Schweizer Bundesrat ist ein siebenköpfiger Exekutivrat, der als kollektives Staatsoberhaupt der Schweiz fungiert. Jedes Ratsmitglied leitet eines von sieben verschiedenen Bundesämtern, und die Position des Bundespräsidenten wechselt jedes Jahr zwischen den sieben Ratsmitgliedern, wobei der Vizepräsident des laufenden Jahres als Präsident des nächsten Jahres fungiert."
@@ -82,7 +82,7 @@ SWI_air_academy:0 "Verstaatlichung der SwissAir"
 SWI_cross_the_border:0 "Luftlande-Grenzüberfälle"
 SWI_mountain_aa:0 "Getarnte Flakstellungen"
 SWI_new_swiss_army:0 "Die neue Schweizer Armee"
-SWI_coal_mines:0 "Erweitern Sie die Wasserkraftwerke"
+SWI_coal_mines:0 "Die Kohleminen ausbauen"
 SWI_reverse_economic_downturn:0 "Den Wirtschaftsabschwung umkehren"
 SWI_war_profiteering:0 "Kriegsgewinnlertum"
 SWI_economic_sufficiency:0 "Streben nach wirtschaftlicher Selbstversorgung"
@@ -109,7 +109,7 @@ SWI_uranium_mine:0 "Das Schmutzli Projekt"
 SWI_expand_our_operations:0 "Erweitern Sie unsere Nachrichtendienste"
 SWI_motorization:0 "Übergang zu einer motorisierten Kraft"
 SWI_armor_experiments:0 "Investieren Sie in die Nahkampfkanone"
-SWI_mechanized:0 "Leichte Brigaden"
+SWI_mechanised_brigades:0 "Leichte Brigaden"
 SWI_new_academy:0 "Reformierung der Pilotschulen"
 SWI_new_tactics:0 "Bambini-Code"
 SWI_bombers:0 "Überwachungsstaffeln"
@@ -234,7 +234,7 @@ SWI_uranium_mine_desc:0 "Die Schweiz ist ein kleiner Staat im Vergleich zu den T
 SWI_expand_our_operations_desc:0 "Da die Welt im Chaos versinkt, muss der Militärische Nachrichtendienst immer wieder zu gefährlicheren und zweifelhafteren Aufgaben zur Verteidigung der Nation herangezogen werden. Die Erweiterung ihres Einflussbereichs und ihrer operativen Kapazitäten wird ihnen helfen, jedes Problem zu lösen, das ihnen in den Weg kommt. Egal wie unappetitlich."
 SWI_motorization_desc:0 "Unser Militär besteht fast ausschließlich aus Fußinfanterie und pferdegezogener Unterstützung. Unsere Truppen können sich nur langsam bewegen und unser Nachschub kommt noch langsamer an. Es ist wichtig, dass wir in die Motorisierung investieren, damit unsere Truppen nicht den nächsten Krieg mit der Ausrüstung des letzten Krieges führen."
 SWI_armor_experiments_desc:0 "Die Nahkampfkanone, ein experimenteller Schweizer AT-Zerstörer, hat sich in den ersten Feldtests sehr vielversprechend gezeigt. Dieses Projekt hat gezeigt, dass wir in der Lage sind, unsere eigenen gepanzerten Fahrzeuge zu entwickeln, und dass wir weiterhin in ähnliche Projekte investieren sollten."
-SWI_mechanized_desc:0 "Unsere anfänglichen Motorisierungsbemühungen haben sich als sehr erfolgreich erwiesen, aber es gibt noch mehr zu tun. In Deutschland haben neue mechanisierte Leichte Brigaden begonnen, sich als die Kampftruppe der Zukunft zu erweisen, und es ist nur klug, dass wir in ihre Fußstapfen treten und in unsere eigenen mechanisierten Kräfte investieren."
+SWI_mechanised_brigades_desc:0 "Unsere anfänglichen Motorisierungsbemühungen haben sich als sehr erfolgreich erwiesen, aber es gibt noch mehr zu tun. In Deutschland haben neue mechanisierte Leichte Brigaden begonnen, sich als die Kampftruppe der Zukunft zu erweisen, und es ist nur klug, dass wir in ihre Fußstapfen treten und in unsere eigenen mechanisierten Kräfte investieren."
 SWI_new_academy_desc:0 "In der Zwischenkriegszeit verließen sich unsere Jäger auf eine informelle Ausbildungsschule, die lokale Ausbilder und wild unterschiedliche Kompetenzniveaus einbezog. Nun, da die Luftwaffe in eine starke und professionelle Kraft reformiert wird, müssen wir darauf achten, unsere Pilotenschule zu standardisieren, um die Qualität unserer Piloten landesweit zu verbessern."
 SWI_new_tactics_desc:0 "Der Bambini-Code ist ein Abkürzungscode, der kürzlich entwickelt wurde, um eine einfache Kommunikation zwischen unseren Jagdgeschwadern in der Hitze des Gefechts zu ermöglichen. Seine Verwendung hat sich als äußerst effektiv erwiesen, und die Förderung und Forderung seiner Verwendung unter unseren Piloten wird ihre Fähigkeit, gegen ihre Kontrahenten zu bestehen, drastisch verbessern."
 SWI_bombers_desc:0 "Die Einrichtung der Überwachungsstaffeln wird es uns ermöglichen, durch Jagdpatrouillen in und um unsere Grenzen Informationen zu gewinnen und gleichzeitig eine große Nachtpräsenz aufrechtzuerhalten."
@@ -351,7 +351,7 @@ SWI_political_insulation_desc:0 "Unsere Isolierung von belanglosen ausländische
 SWI_geneva_honor_desc:0 "Diejenigen, die ihr Leben für die syndikalistische Sache in Genf gaben, sind wahre Helden des Staates und müssen als solche geehrt werden."
 SWI_free_skies_desc:0 "Unser Fokus auf Luftüberlegenheit hat dazu beigetragen, unseren Himmel frei von feindlichen Luftstreitkräften zu halten."
 SWI_free_skies1_desc:0 "Unser Fokus auf Luftüberlegenheit hat dazu beigetragen, unseren Himmel frei von feindlichen Luftstreitkräften zu halten."
-SWI_national_conscription_desc:0 "Die Bundesversammlung behält sich die Befugnis vor, die Schweizer Bevölkerung in Zeiten schwerer Krisen und zur Verteidigung gegen äussere Bedrohungen zum Krieg einzuberufen und zu mobilisieren.\n\n§GUnsere Bevölkerung ist toleranter gegenüber den Normen der Wehrpflicht und fordert seltener die Demobilisierung§.."
+SWI_national_conscription_desc:0 "Die Bundesversammlung behält sich die Befugnis vor, die Schweizer Bevölkerung in Zeiten schwerer Krisen und zur Verteidigung gegen äussere Bedrohungen zum Krieg einzuberufen und zu mobilisieren.\n\n§GUnsere Bevölkerung ist toleranter gegenüber den Normen der Wehrpflicht und fordert seltener die Demobilisierung§."
 SWI_black_monday_desc:0 "Das Desaster des Schwarzen Montags hat die Schweizer Wirtschaft hart getroffen. Wir müssen drastische Maßnahmen ergreifen, wenn wir uns erholen wollen."
 SWI_black_monday1_desc:0 "Das Desaster des Schwarzen Montags hat die Schweizer Wirtschaft hart getroffen. Wir müssen drastische Maßnahmen ergreifen, wenn wir uns erholen wollen."
 SWI_national_bank_idea_desc:0 "Die Schweizerische Nationalbank ist der starke wirtschaftliche Arm des ganzen Landes und wickelt die Finanzen der großen Mehrheit der Bevölkerung und des Staates gleichermaßen ab."
@@ -619,7 +619,7 @@ swiss.78.a:0 "Wir sind in ihren Händen."
 swiss.79.t:0 "Das Ende der Schweizer Neutralität"
 swiss.79.d:0 "Trotz aller Bemühungen, ausländische Verstrickungen und Konflikte zu vermeiden, ist die Schweiz in einen Krieg verwickelt worden. Unsere Neutralität, die wir seit über hundert Jahren aufrechterhalten haben, ist endgültig gebrochen, da junge und alte Männer in den Dienst ihres Landes einberufen werden."
 swiss.79.a:0 "Heute kämpfen wir."
-swiss.80.t:0 "Georges Oltramare besucht England"
+swiss.80.t:0 "Georges Oltramare besucht Britanien"
 swiss.80.d:0 "Als Antwort auf eine Einladung aus Birmingham, einen "neuen Sozialismus" zu schaffen, hat der örtliche syndikalistische Agitator Georges Oltramare, Führer der radikalen Partei Union Nationale, die Nation verlassen, um die Lehren einer neuen "totalistischen" Ideologie zu verfolgen.\n\nAls langjähriger Anhänger von Mussolinis nationalsyndikalistischer Bewegung in Italien sind Oltramares politische Neigungen immer radikaler und seine Anhänger immer zahlreicher geworden. Sein Eintreten für eine noch extremere Form des Syndikalismus kann nur weitere Unruhe in die Nation bringen."
 swiss.80.a:0 "Wir behalten ihn im Auge."
 swiss.81.t:0 "Oltramare besucht Mussolini"
@@ -930,9 +930,12 @@ swiss.177.a:0 "Aber warum?"
 swiss.178.t:0 "Chaos in Hochsavoyen!"
 swiss.178.d:0 "Mit französischer Unterstützung und einer laxen Militärpräsenz in der Region ist es französischen Saboteuren gelungen, Unruhe in Hochsavoyen zu stiften, und die Verwaltung wird gezwungen sein, zusätzliche Ressourcen einzusetzen, um den Frieden zu erhalten. Wir müssen eine stärkere Militärpräsenz aufrechterhalten, wenn wir die Region stabil halten wollen."
 swiss.178.a:0 "Wir waren zu nachlässig!"
+
 swiss.179.t:0 "Die Kommune ist besiegt"
-swiss.179.d:0 "Die Kommune von Frankreich ist geschlagen und aus der Landschaft Europas verschwunden. Da die größte Bedrohung für unsere Nation nun der Vergangenheit angehört, müssen wir uns nicht mehr um die drohende Gefahr eines Krieges sorgen."
+ swiss.179.d.war:0 "Die Kommune von Frankreich ist geschlagen und aus der Landschaft Europas verschwunden. Da die größte Bedrohung für unsere Nation nun der Vergangenheit angehört, müssen wir uns nicht mehr um die drohende Gefahr eines Krieges sorgen."
+ swiss.179.d.cooperation:0 "Die französische Kommune hat eine schwere Niederlage erlitten und ist aus der europäischen Landschaft verschwunden. Unglücklicherweise bedeutet dies für uns, dass alles, was wir durch die Zusammenarbeit mit ihnen gewonnen haben, ebenfalls verschwunden ist... aber andererseits müssen wir uns keine Sorgen mehr über ihren Einfluss oder die Gefahr eines Krieges machen."
 swiss.179.a:0 "Frieden herrscht!"
+
 swiss.180.t:0 "Rückgabe Hochsavoyen"
 swiss.180.d:0 "Nachdem mit der Niederlage der französischen Kommune und der Wiederherstellung einer legitimen französischen Regierung der Anschein von Frieden und Ordnung in Europa wiederhergestellt wurde, ist es an der Zeit, dass wir unsere am Ende des Weltkrieges eingegangenen Verpflichtungen einhalten und Hochsavoyen wieder unter französische Kontrolle stellen. Wir sind seit vielen Jahren seine sorgfältigen Verwalter, aber wir stehen fest zu unserem Versprechen. Das Gebiet muss zurückgegeben werden, und die französische Regierung wird sicherlich dankbar sein für die Sicherung ihres Landes."
 swiss.180.italian:0 "Mit dem Anschein von Frieden und Ordnung, der in Europa durch die Niederlage der französischen Kommune und die Konsolidierung Savoyens unter dem neuen italienischen Regime wiederhergestellt wurde, ist es an der Zeit, unsere Vormundschaft über das Gebiet von Hochsavoyen zu beenden. Wir sind seit vielen Jahren seine sorgfältigen Verwalter gewesen, aber unsere Verpflichtung gegenüber dem Vertrag von Turin von 1816 bleibt bestehen. Die Neutralität des Territoriums ist nicht mehr bedroht, und die neue italienische Regierung wird es sicherlich zu schätzen wissen, als legitime Nation des Territoriums angesehen zu werden."
@@ -1012,31 +1015,38 @@ swiss.202.b:0 "Es ist am besten, sich nicht einzumischen."
 
 ### Campione Stuff ###
 
-swiss.211.t:0 "Das Schicksal der Gemeinde Campione" # SWI
+ # SWI
+swiss.211.t:0 "Das Schicksal der Gemeinde Campione"
 swiss.211.d:0 "Campione gehört seit der Römerzeit zu Italien, ist aber seit dem Krieg der Heiligen Liga im frühen sechzehnten Jahrhundert vollständig von Schweizer Land umgeben. In jüngerer Zeit steht es seit dem Italienischen Bürgerkrieg unter unserer Verwaltung und unserem Schutz, gemäß einer Vereinbarung, die 1919 mit dem zusammenbrechenden Königreich Italien getroffen wurde. Nun, da die Italiener ihre Nation wiedervereinigt haben, haben sowohl der italienische Diplomat als auch der Bürgermeister von Campione um ein Treffen mit uns gebeten, um die Zukunft der Stadt zu besprechen. Wir planen..."
 swiss.211.a:0 "... unsere Abmachung einhalten (Rückgabe des Gebiets an Italien)."
 swiss.211.b:0 "... sollen sie es uns aus unseren kalten, toten Händen nehmen."
 swiss.211.c:0 "... sollen die Menschen in Campione selbst entscheiden."
+ # ITA - RETURN
 swiss.212.t:0 "Rückkehr der Gemeinde Campione" # ITA - RETURN
 swiss.212.d:0 "Unsere Regierung hat einen kleinen diplomatischen Triumph errungen, denn die Schweiz hat kürzlich beschlossen, Campione, eine formell italienische Exklave im Tessin, an uns zurückzugeben. Die fragliche Seegemeinde war nach dem Ausbruch des italienischen Bürgerkriegs im Jahr 1919 vorübergehend unter Schweizer Schutz gestellt worden - jetzt, da unser Land wiedervereinigt ist, fanden die Schweizer keinen Grund mehr, Campione von uns fernzuhalten."
 swiss.212.d_ref:0 "Unsere Regierung hat einen kleinen diplomatischen Triumph errungen, denn die Schweiz hat beschlossen, die Kontrolle über Campione, eine formell italienische Exklave im Tessin, nach einer Volksabstimmung wieder an uns zurückzugeben. Die fragliche Seegemeinde war nach dem Ausbruch des italienischen Bürgerkriegs im Jahr 1919 vorübergehend unter Schweizer Schutz gestellt worden - nun, da unser Land wieder vereint ist, haben sich die Einwohner von Campione per Volksabstimmung erneut dafür entschieden, Italiener zu sein."
 swiss.212.a:0 "Evviva!"
-swiss.213.t:0 "Schweiz annektiert offiziell Campione" # ITA - REJECT
+ # ITA - REJECT
+swiss.213.t:0 "Schweiz annektiert offiziell Campione"
 swiss.213.d:0 "Auf der Straße vor dem Schweizer Konsulat in [GetMilanName] kam es heute zu Gewaltausbrüchen, nachdem die Schweiz beschlossen hatte, Campione, eine italienische Exklave im Tessin, zu annektieren. Die fragliche Gemeinde am See wurde nach dem Ausbruch des italienischen Bürgerkriegs 1919 vorübergehend unter Schweizer Schutz gestellt. Nun, da unser Land mit einer für sie feindlichen Regierung wiedervereinigt ist, fanden die Schweizer keinen Grund mehr, ihre List fortzusetzen, und haben die Gemeinde dem Tessin einverleibt."
 swiss.213.d_ref:0 "Ein nationalistischer Protest wurde heute feierlich auf der Straße vor dem Schweizer Konsulat in [GetMilanName] abgehalten, nachdem die Schweiz beschlossen hatte, Campione, eine vom Tessin umgebene italienische Exklave, nach einem Plebiszit in der Gemeinde zu annektieren. Die betreffende Gemeinde am See wurde nach dem Ausbruch des italienischen Bürgerkriegs 1919 vorübergehend unter Schweizer Schutz gestellt. Obwohl unser Land wiedervereinigt ist, haben die Einwohner von Campione kollektiv beschlossen, sich stattdessen offiziell der Schweiz als Kanton anzuschließen."
 swiss.213.a:0 "Dagegen können wir nichts tun."
 swiss.213.b:0 "Zeit, ihnen eine Lektion zu erteilen."
-swiss.214.t:0 "Unser Campione-Gambit ist erfolgreich" # SWI - Gambit succeeds
+ # SWI - Gambit succeeds
+swiss.214.t:0 "Unser Campione-Gambit ist erfolgreich"
 swiss.214.d:0 "Die Italiener haben sich nach einem kurzen \"Wettstarren\" über die Alpen zwischen den beiden Armeen zum Rückzug entschlossen, weil sie befürchten, dass sich ein Konflikt um ein winziges Gebiet, das bereits seit Jahren de facto von den Schweizern verwaltet wird, nicht lohnt."
 swiss.214.a:0 "Gott sei Dank!"
-swiss.215.t:0 "Italien bereitet sich auf den Krieg vor" # SWI - We're fcked
+ # SWI - We're fcked
+swiss.215.t:0 "Italien bereitet sich auf den Krieg vor"
 swiss.215.d:0 "Die Italiener erweisen sich in der Frage des Tessins als \"emotionaler\" als wir zunächst dachten, vielleicht angetrieben durch ihren jüngsten Wiedervereinigungseifer. Ihre Armeen sind jetzt jenseits der Grenze stationiert, bereit, jeden Moment bei uns einzumarschieren, ohne ein Zeichen des Rückzugs."
 swiss.215.a:0 "Geben Sie die Mobilisierungshinweise aus! Schnell!"
-swiss.216.t:0 "Campione Plesbicite Ergebnisse" # SWI - REF results
+ # SWI - REF results
+swiss.216.t:0 "Campione Plesbicite Ergebnisse"
 swiss.216.d:0 "Die Bevölkerung der Gemeinde Campione stimmte bei der letzten Befragung über ihr Schicksal im Jahr 1814 gegen einen Anschluss an die Schweiz. Angesichts der Art der italienischen Wiedervereinigung glauben jedoch einige sowohl in unserer Regierung als auch in der von Campione, dass diese Abstimmung anders ausfallen könnte. Nach einer energischen Kampagne sowohl derjenigen, die einen offiziellen Anschluss an die Schweiz wünschten, als auch derjenigen, die nach Italien zurückkehren wollten, wurde eine Volksabstimmung unter der Bevölkerung von Campione durchgeführt. Heute sind die Ergebnisse da und die Menschen haben entschieden, dass..."
 swiss.216.a:0 "... sind sie besser dran, wenn sie sich uns anschließen."
 swiss.216.b:0 "... dass sie als Teil Italiens besser dran sind."
-swiss.217.t:0 "Schweiz hält Campiones Plesbicite" # ITA - Notified about Campione's Plesbicite
+ # ITA - Notified about Campione's Plesbicite
+swiss.217.t:0 "Schweiz hält Campiones Plesbicite"
 swiss.217.d:0 "Campione gehört seit der Römerzeit zu Italien, aber seit dem Krieg der Heiligen Liga im frühen sechzehnten Jahrhundert ist es vollständig von Schweizer Land umgeben. In jüngerer Zeit steht es seit dem Italienischen Bürgerkrieg unter Schweizer Verwaltung und Schutz, im Rahmen eines Abkommens, das 1919 mit dem zusammenbrechenden Königreich Italien getroffen wurde.\n\nDie Bevölkerung der Gemeinde Campione stimmte zwar bereits 1814 gegen den Anschluss an die Schweiz. In Anbetracht der Art der italienischen Wiedervereinigung glauben jedoch einige sowohl in unserer Regierung als auch in der von Campione, dass diese Abstimmung anders ausfallen könnte. Der Schweizer Beamte wünscht, dass wir als Beobachter bei der bevorstehenden Plesbicite fungieren, die in den nächsten 60 Tagen stattfinden soll."
 swiss.217.a:0 "Und wir werden da sein!"
 
@@ -1176,26 +1186,8 @@ SWI_very_unlikely:0 "§REs ist extrem unwahrscheinlich, dass die Schweizer das a
 SWI_likely:0 "Die Schweizer werden wahrscheinlich akzeptieren.\n"
 SWI_helvetia:0 "Die §YEKS Helvetia§! wird in See stechen"
 SWI_syndie_advance:0 "§RDies wird wenig dazu beitragen, die syndikalistischen Bewegungen innerhalb der Nation zu bremsen.§!"
-SWI_savoie_occupation:0 "Die Besetzung von Hochsavoyen"
-SWI_honored_obligations:0 "Ihren Verpflichtungen nachgekommen"
 SWI_martial_law_effect:0 "Wird §YDie Nation sichern§! freischalten\n"
 SWI_martial_law_effect_2:0 "§RDies wird notwendig sein, um unsere Kontrolle über den Staat zu sichern!§!"
-
-SWI_10_cp:0 "£command_power §H10§!"
-SWI_10_cp_blocked:0 "£command_power §R10§!"
-SWI_10_cp_tooltip:0 "Es kostet $SWI_10_cp$ diese Entscheidung zu treffen"
-
-SWI_25_cp:0 "£command_power §H25§!"
-SWI_25_cp_blocked:0 "£command_power §R25§!"
-SWI_25_cp_tooltip:0 "Es kostet $SWI_25_cp$ diese Entscheidung zu treffen"
-
-SWI_35_cp:0 "£command_power §H35§!"
-SWI_35_cp_blocked:0 "£command_power §R35§!"
-SWI_35_cp_tooltip:0 "Es kostet $SWI_35_cp$ diese Entscheidung zu treffen"
-
-SWI_50_cp:0 "£command_power §H50§!"
-SWI_50_cp_blocked:0 "£command_power §R50§!"
-SWI_50_cp_tooltip:0 "Es kostet $SWI_50_cp$ diese Entscheidung zu treffen"
 
 SWI_5000_manpower_20_cp:0 "£manpower_icon  §H5000§! £command_power §H50§!"
 SWI_5000_manpower_20_cp_blocked:0 "£manpower_icon  §R5000§! £command_power §R50§!"
@@ -1207,7 +1199,6 @@ SWI_1000_manpower_20_cp_tooltip:0 "Es kostet $SWI_1000_manpower_20_cp_blocked$ d
 
 SWI_martial_law_declared:0 "Das Kriegsrecht wurde erklärt"
 SWI_natpop_control:0 "Die Regierung ist gesichert"
-SWI_nationalized_assets:0 "Verstaatlicht unser Vermögen"
 SWI_completed_purge:0 "Säuberte das Offizierskorps von Syndikalisten"
 SWI_language_acts_tooltip:0 "§CDies wird eine Volksabstimmung einleiten, die der Nation§!§Y Stabilität §!§Cgeben wird.§!"
 SWI_revise_constitution_tooltip:0 "§CDies wird ein Referendum einleiten, das die Nation mit§!§Y Kriegsunterstützung§!§Cversorgen wird, wenn bestanden.§!"

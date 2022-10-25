@@ -10,7 +10,7 @@
 
 ### Splash Screen Credits ###
 KR_SPLASH_TITLE:0 "Willkommen bei Kaiserreich"
-KR_SPLASH_CREDITS:0 "§YZusammengestellt vom KR4-Team:§!\nAdrianator2, Alpinia, Arvidus, Asratius, Augenis, Blackfalcon501, Carmain, Chazem, Conor, DSFDarker, El Daddy, Flamefang, Gideones, Hildagrim, Ido, Igor050301, JazzyHugh, Jonjon428, Jonny BL, Kennedy, Krco, Liegnitz, Luwofe, Matoro, McOmghall, ~mw~, Nijato, NukeGaming, OperationsManagementDecisions, Owenomaly, Pelmen, PPsyrius, RagnoStrangeros, Rei VL, Retrocognition, Rylock, Shiroe, Starguard, Suzuha, Telcontar101, The Alpha Dog, The Irredentista, The Italian Jojo, Vidyaország, Zankoas and Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho, XYungeloest, Schmiddlon, _R4ze_, Thylon, Davideko, Hydrus, MartenDE, Chromsh, DickSharpe, Semarc, Wolf, Silent_Wolf, Alex S, DerEherneRächer, naskamo,Quatschtütenwürger "
+KR_SPLASH_CREDITS:0 "§YFür Sie zusammengestellt vom KR4-Team:§!\nAdrianator2, Alpinia, Arvidus, Asratius, Augenis, Blackfalcon501, Carmain, Chazem, Conor, DSFDarker, El Daddy, Flamefang, Gideones, Ido, Igor050301, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, KFateweaver, Kennedy, kergely, Krco, Luwofe, Matoro, McOmghall, ~mw~, Nijato, NukeGaming, OperationsManagementDecisions, Owenomaly, PPsyrius, Pelmen, RagnoStrangeros, Rei VL, Retrocognition, Shiroe, Starguard, Story, Suzuha, The Alpha Dog, The Irredentista, The Italian Jojo, Vidyaország, Zankoas and Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho, XYungeloest, Schmiddlon, _R4ze_, Thylon, Davideko, Hydrus, MartenDE, Chromsh, DickSharpe, Semarc, Wolf, Silent_Wolf, Alex S, DerEherneRächer, naskamo,Quatschtütenwürger "
 
 ### Main Menu Tooltips ###
 KR_MAIN_MENU_LINK:0 "Klicken Sie hier, um zum Kaiserreich-Wiki zu gelangen"
@@ -36,6 +36,12 @@ cannot_mobilise_tt:0 "§RKann die Wehrpflicht und die Mobilisierungsgesetze nich
 upon_starting_focus:0 "§HNach Auswahl dieses Fokus§!:"
 returned_all_expeditionary_forces_of_puppets:0 "Hat alle von Marionetten entsandten Expeditionskräfte zurückgeschickt"
 puppet_but_keep_government_tt:0 "([to_be_overlord.GetFlag]§H[to_be_overlord.GetName]§!) §H[marked_country.GetName]§! wird zur Marionette von §H[to_be_overlord.GetName]§!, behält aber seine aktuellen Regierungs- und Beliebtheitseinstellungen."
+ cannot_call_allies_or_join_wars:0 "\n$TRIGGER_NO$ Kann keine Verbündeten herbeirufen oder ihnen beitreten"
+ cannot_call_allies_or_join_wars_warning:0 "$TRIGGER_NO$ §RKann keine Verbündeten herbeirufen oder ihnen beitreten§!"
+ cannot_call_allies_or_join_wars_warning_FROM:0 "§H[FROM.GetName]: $TRIGGER_NO$ §RKann keine Verbündeten herbeirufen oder ihnen beitreten§!"
+  cannot_receive_volunteers:0 "\n$TRIGGER_NO$ §RKann keine Freiwilligen aufnehmen§!"
+ cannot_receive_volunteers_warning:0 "$TRIGGER_NO$ §RCannot receive volunteers§!"
+ elections_in_three_months:0 "§HDie Wahlen finden in drei Monaten statt§!\n"
 
 ### Regional Triggers ###
  is_in_asia:0 "Ist ein §HAsiatisches§! Land"
@@ -65,10 +71,10 @@ is_actual_major_without_exceptions:0 "$is_actual_major_tooltip_base$$is_actual_m
 toggle_renaming_button_tooltip:0 "[toggle_renaming_button_tooltip_loc]"
 toggle_renaming_button_tooltip_desc:0 "[toggle_renaming_button_tooltip_desc_loc]"
 toggle_renaming_button_tooltip_mp:0 "§RIm Mehrspieler-Modus deaktiviert§!"
-toggle_renaming_button_tooltip_enable:0 "§HEndonym-Modus§!"
-toggle_renaming_button_tooltip_enable_desc:0 "Dadurch wird das Spiel so eingestellt, dass für Staaten und Siegpunkte (Endonyme) einheimische Namen verwendet werden, wobei eine dynamische Umbenennung dieser Namen möglich ist."
-toggle_renaming_button_tooltip_disable:0 "§HExonyme Modus§!"
-toggle_renaming_button_tooltip_disable_desc:0 "Dadurch wird das Spiel so eingestellt, dass für Staaten und Siegpunkte (Exonyme) englische Namen verwendet werden, wobei die dynamische Umbenennung dieser Namen deaktiviert wird."
+ toggle_renaming_button_tooltip_enable:0 "§HCurrently in English Names Mode§!"
+ toggle_renaming_button_tooltip_enable_desc:0 "Das Spiel verwendet derzeit deutsche Namen für Staaten und Siegpunkte (Exonyme), wobei deren dynamische Umbenennung deaktiviert ist.\n\nKlicken Sie hier, um zur Verwendung nativer Namen für Staaten und Siegpunkte (Endonyme) zu wechseln, wobei deren dynamische Umbenennung aktiviert ist."
+ toggle_renaming_button_tooltip_disable:0 "§HDerzeit im Modus - Native Namen§!"
+ toggle_renaming_button_tooltip_disable_desc:0 "Das Spiel verwendet derzeit native Namen für Staaten und Siegpunkte (Endonyme), wobei deren dynamische Umbenennung aktiviert ist.\n\nKlicken Sie hier, um zu deutsche Namen für Staaten und Siegpunkte (Exonyme) zu wechseln, wobei deren dynamische Umbenennung deaktiviert ist."
 
 ### Continents ###
 central_america:0 "Zentralamerika"
@@ -89,7 +95,6 @@ kr_special_autonomous_dependency:0 "Autonome Abhängigkeit"
 kr_initial_wif_puppet:0 "Föderierte Kolonie"
 kr_soclib_wif_puppet:0 "Föderiertes Herrschaftsgebiet"
 kr_ottoman_emirate:0 "Osmanisches Emirat"
-kr_ottoman_vilayet:0 "Osmanische Provinz"
 kr_ottoman_international_zone:0 "Internationales Mandat"
 kr_federated_state:0 "Konföderierter Staat"
 kr_crownland:0 "Kernland"
@@ -121,8 +126,9 @@ KR_returned_land:0 "Rückgabe unseres Landes"
 KR_liberated_us:0 "Befreite uns"
 KR_approves_of_govt:0 "Genehmigung der Regierung"
 KR_pleased:0 "Erfreut durch uns"
+ KR_displeased:0 "Unzufrieden mit unseren Handlungen"
 KR_disapproves_of_govt:0 "Missbilligt die Regierung"
-KR_hates_govt:0 "Hasst die Regierung"
+KR_hates_govt:0 "Wütend auf die Regierung"
 KR_outraged:0 "Empört"
 KR_hostile:0 "Feindselig"
 KR_trade_agreement:0 "Handelsabkommen"
@@ -145,7 +151,6 @@ FROM_becomes_nominal_puppet:0 "§H[From.GetNameDefCap]§! wird zu einer §Nomina
 compliance_integration:0 "Integration"
 
 ### Operatives ###
-CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC:5 "Sie können den ersten Platz bekommen, indem Sie den Geheimdienst aufbauen. Weitere Slots werden nach dem 5. Upgrade oder nach der Rekrutierung eines §Leiters des Geheimdienstes§ verfügbar sein! (verfügbar durch Entscheidung). \nAls Spionagemeister werden weitere operative Slots freigeschaltet, wenn Sie mehr Länder in Ihrer Fraktion haben. Marionetten oder Länder mit einer sehr geringen Anzahl von Fabriken tragen nicht zu mehr operativen Slots bei."
 
  operation_infiltrate_armed_forces_army_outcome:0 "$operation_infiltrate_armed_forces_army$ Effektivität"
  operation_infiltrate_armed_forces_army_risk:0 "$operation_infiltrate_armed_forces_army$ Risiko"
@@ -243,11 +248,11 @@ kr.political.111.b:0 "Nein! Wir bringen das zu Ende!"
  kr.political.257.t:0 "Krieg mit [war_target.GetNameDef]?"
  kr.political.257.d:0 "[marked_country.GetNameDefCap] wird [war_target.GetNameDef] den Krieg erklären. Es gibt keine Prüfungen, um zu sehen, ob dies eine gültige Erklärung ist, außer dass die beiden Länder nicht verbündet sind und sich nicht bereits im Krieg befinden.\n\n§RHINWEIS: Dies kann sehr wohl Kaiserreich-Inhalte brechen! Verwendung auf eigene Gefahr!!§!"
  
-
 ### Unit Leader Events ###
 unit_leader.1.t:0 "[From.GetName] wird krank"
 unit_leader.1.d:0 "In [From.GetHerHis] Dienst an der Nation scheint es, dass [From.GetRank] [From.GetName] [From.GetHerselfHimself] zu weit gegangen ist. Infolge des schlechten Klimas im Einsatzgebiet von [From.GetHerHerHis] ist [From.GetHerHerRank] nun erkrankt und wird wahrscheinlich einige Zeit brauchen, um sich zu erholen. Bis [From.GetSheHe] wieder gesund wird, wird [From.GetSheHe] nicht auf [From.GetHerHerHis] üblichem Niveau arbeiten."
 unit_leader.1.a:0 "Bedauerlich."
+
 unit_leader.2.t:0 "[From.GetName] verwundet"
 unit_leader.2.d:0 "Bei der erfolgreichen Beendigung des Kampfes scheint es, dass [From.GetRank] [From.GetName] [From.GetHerselfHimself] etwas zu viel riskiert hat, während er [From.GetHerHis] Männer anführte. [From.GetSheHeCap] wurde verwundet, und es wird wahrscheinlich einige Zeit dauern, bis die Wunden vollständig verheilt sind, bis dahin wird [From.GetRank] nicht auf dem üblichen Niveau [From.GetHerHerHis] agieren."
 unit_leader.2.a:0 "Bedauerlich."
@@ -256,20 +261,25 @@ unit_leader.2.a:0 "Bedauerlich."
 mtg_exile_leader_added.1.t:0 "[exile_nation.GetAdjective] Exil-Führer bietet Dienst an"
 mtg_exile_leader_added.1.desc:0 "Nach einer langen und gefährlichen Reise durch feindliches Gebiet und mehrere neutrale Staaten ist ein hochrangiger Militäroffizier eines unserer kapitulierten Verbündeten endlich in der Hauptstadt eingetroffen. Nach einer kurzen Zeit der Erholung hat er seine Dienste in unserem gemeinsamen Kampf angeboten."
 mtg_exile_leader_added.1.a:0 "Ihr Kampf ist noch nicht vorbei."
+
 mtg_exile_government.2.title:0 "Die [From.GetAdjective] Regierung im Exil"
 mtg_exile_government.2.desc:0 "[From.GetLeader] hat bei der [Root.GetAdjective]-Regierung formell die Erlaubnis beantragt, zu [From.GetNameDef] zurückzukehren und ein provisorisches [From.GetRulingParty]-Kabinett zur Vorbereitung des Nachkriegsfriedens wiederherzustellen."
 mtg_exile_government.2.a:0 "Es ist Zeit für sie, in ihr eigenes Territorium zurückzukehren."
 mtg_exile_government.2.b:0 "Die Zeit ist noch nicht reif."
+
 mtg_exile_government.3.title:0 "[From.GetName] ersuchen um Integration der Marine"
 mtg_exile_government.3.desc:0 "Die [From.GetAdjective] Marineführung hat uns einen Plan für die Integration unserer Marine in ihre vorgelegt. Sie argumentieren, dass ihre Wirksamkeit im Vergleich zu ihren derzeitigen unabhängigen Aktionen drastisch erhöht würde, wenn die [From.GetAdjective]-Marineplaner die volle Kontrolle über unsere Schiffe hätten."
 mtg_exile_government.3.a:0 "Wir sind einverstanden."
 mtg_exile_government.3.b:0 "Wir werden nicht unter ihnen dienen."
+
 mtg_exile_government.4.title:0 "[From.GetName] Akzeptiert Marine-Integration"
 mtg_exile_government.4.desc:0 "Die [From.GetAdjective]-Regierung hat uns mitgeteilt, dass sie unserem Vorschlag zustimmt und dass ihre Schiffe fortan unter unserem Kommando operieren werden."
 mtg_exile_government.4.a:0 "Ausgezeichnet."
+
 mtg_exile_government.5.title:0 "[From.GetName] lehnt Marine-Integration ab"
 mtg_exile_government.5.desc:0 "Die [From.GetAdjective]-Regierung hat uns mitgeteilt, dass ihre Marine niemals unter dem Kommando einer fremden Macht dienen wird. Sie beabsichtigen, uns zu helfen, aber sie wollen dies unabhängig tun."
 mtg_exile_government.5.a:0 "Sie stellen ihren Stolz über die Interessen des Bündnisses."
+
 mtg_generic.1.title:0 "[From.GetName] erzwingt Regierungswechsel"
 mtg_generic.1.desc:0 "Unter Hinweis auf den deutlichen Mangel an Wahlunterstützung für unsere gegenwärtige Regierung hat [From.GetNameDef] einen Politikwechsel gefordert."
 mtg_generic.1.a:0 "Wir haben keine andere Wahl als zu akzeptieren."
@@ -308,11 +318,11 @@ toggle_news_button_tooltip:0 "[toggle_news_button_tooltip_loc]"
 toggle_news_button_tooltip_desc:0 "[toggle_news_button_tooltip_desc_loc]"
 toggle_news_button_tooltip_mp:0 "§RIm Mehrspieler-Modus deaktiviert§!"
 toggle_news_button_tooltip_all:0 "Wechsel zu §HNur Regional-Nachrichten§!"
-toggle_news_button_tooltip_all_desc:0 "Erhalten Sie nur wichtige Weltereignisse und Nachrichten für Ihre Region der Welt."
+toggle_news_button_tooltip_all_desc:0 "Sie erhalten die wichtigsten Nachrichten aus der ganzen Welt, sowie auch die unwichtigen Nachrichten für Ihre Region der Welt."
 toggle_news_button_tooltip_some:0 "Wechsel zu §HKeine Nachrichten§!"
-toggle_news_button_tooltip_some_desc:0 "Nur sehr wenige Nachrichtenereignisse werden jemals empfangen werden."
+toggle_news_button_tooltip_some_desc:0 "Es werden nur die wichtigsten Hauptnachrichten empfangen, keine unwichtigen Nachrichten irgendeiner Art."
 toggle_news_button_tooltip_none:0 "Wechsel zu §HAlle Nachrichten§!"
-toggle_news_button_tooltip_none_desc:0 "Alle Nachrichtenereignisse werden empfangen, unabhängig davon, woher sie stammen."
+toggle_news_button_tooltip_none_desc:0 "Alle wichtigen sowie unbedeutenden Nachrichten werden unabhängig von ihrem Herkunftsort empfangen."
 toggle_news_text_all:0 "Alle Nachrichten anzeigen"
 toggle_news_text_regional:0 "Regionale Nachrichten anzeigen"
 toggle_news_text_none:0 "Keine Nachrichten anzeigen"
@@ -359,6 +369,7 @@ Syndicalist_Internationale:0 "Syndikalistische Internationale"
 Third_International:0 "Dritte Internationale"
 united_front_faction:0 "Vereinte Chinesische Front"
 yunnan_R_KMT_faction:0 "Nationalistische Gruppe Süd"
+ SOV_faction:0 "Ostfront der Dritten Internationale"
 
 ### Custom Triggers ###
 had_war:0 "Hat in einem Krieg gekämpft"
@@ -446,38 +457,6 @@ not_during_ceasefire:0 "Nicht solange der Waffenstillstand eingehalten wird"
  CP_100:0 "£command_power §H100§!"
  CP_100_blocked:0 "£command_power §R100§!"
  CP_100_tooltip:0 "Es kostet $CP_100_blocked$, die Entscheidung zu treffen"
-
-### World Tension ###
-second_american_civil_war_threat:0 "Zweiter amerikanischer Bürgerkrieg"
-second_russian_civil_war_threat:0 "Zweiter russischer Bürgerkrieg"
-spanish_civil_war_threat:0 "Spanischer Bürgerkrieg"
-second_weltkrieg_threat:0 "Der Zweite Weltkrieg"
-fourth_balkan_war_threat:0 "Vierter Balkankrieg"
-remilitarize_oltenia_threat:0 "Manöver in den Karpaten"
-savoyard_crisis_threat:0 "Die Savoyarden-Krise"
-russian_expansionism_threat:0 "Russischer Expansionismus"
-kerensky_assassinated_threat:0 "Kerenskiy's Ermordung"
-japanese_expansionism_threat:0 "Japanischer Expansionismus"
-mittelafrika_collapse_threat:0 "Der Zusammenbruch von Mittelafrika"
-democratic_win_acw_threat:0 "Föderaler Sieg"
-macarthur_wins_threat:0 "MacArthurs Sieg"
-aus_wins_acw_threat:0 "Sieg der amerikanischen Unionsstaaten"
-csa_wins_acw_threat:0 "Sieg der Kombinierten Syndikate von Amerika"
-belgrade_pact_threat:0 "Der Belgrader Pakt"
-fading_sun_threat:0 "Zusammenbruch des japanischen Reiches"
-GRE_took_diplomatic_path:0 "Griechenland verzichtet auf Megali"
-GRE_took_expansionist_path:0 "Griechischer Expansionismus"
-reichspakt_collapse_threat: "Zusammenbruch des Reichspaktes"
-lep_collapse_threat:0 "Krieg in der Liga der Acht Provinzen"
-sino_jap_threat:0 "Zweiter Sino-Japanischer Krieg"
-entente_collapse_threat:0 "Zusammenbruch der Entente"
-halifax_conference_threat:0 "Erfolg der Konferenz von Halifax"
-treaty_budapest_threat:0 "Vertrag von [AUS_treaty_name]"
-indian_wars_threat:0 "Indischer Wiedervereinigungskrieg"
-india_reunited_threat:0 "Indien wiedervereint"
-desert_war_threat:0 "Krieg in der Wüste"
-ottos_lose_threat:0 "Osmanisches Reich besiegt"
-scandinavia_threat:0 "Bildung Skandinaviens"
 
 ### Other ###
 unlock_focuses:0 "§GDieser Schwerpunkt wird schließlich automatisch umgangen und wird die anderen Schwerpunkte freisetzen§!\n"
@@ -684,8 +663,6 @@ tank_destroyer_tech:0 "Pak"
 efficiency_tech:0 "Produktionseffizienz-Technik"
 excavation_tech_research:0 "Bergbautechnische Forschungsgeschwindigkeit"
 construction_tech_research:0 "Geschwindigkeit der Bauforschung"
-concentrated_industry_tech:0 "Konzentrierte Industrietechnik"
-dispersed_industry_tech:0 "Technik der verteilten Industrie"
 cat_gunnery:0 "Schiffsgeschütze"
 cr_tech:0 "Kreuzer Modelle"
 acr_tech:0 "Modelle von Panzerkreuzern"
@@ -709,7 +686,6 @@ tech_marine_bonus_effect:0 "Aktiviert §HVerbesserte Marinetruppen\nMarines§!\n
 tech_marine_bonus_2:0 "Ausgebildete Marinesoldaten"
 tech_marine_bonus_2_effect:0 "Aktiviert §HAusgebildete Marinesoldaten\nMarines§!\n      Weicher Angriff: §G+5%§!\n      Harter Angriff: §G+5%§!\n§HSchwimmpanzer-Bataillon§!\n      Weicher Angriff: §G+5%§!\n      Harter Angriff: §G+5%§!\n§HAmphibisches Panzerbataillon§!\n      Weicher Angriff: §G+5%§!\n      Harter Angriff: §G+5%§!"
 
-jungle_warfare:0 "Dschungelkampf-Ausbildung"
 jungle_warfare_effect:0 "Aktiviert §HDschungelkampf-Ausbildung§!\n§HFuß-Infanterie\n    Dschungel§!\n      Angriff: §G+10%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+5%§!"
 
 improved_field_hospitals:0 "Verbesserte Feld-Krankenhäuser"
@@ -733,7 +709,6 @@ desert_warfare_effect:0 "Aktiviert §HWüstenkampftraining§!\n§HFuß-Infanteri
  marsh_warfare:0 "Sumpf Kampfausbildung"
  marsh_warfare_effect:0 "Ermöglicht §H$marsh_warfare$§!\n§HFuß-Infanterie\n    Sümpfe§!\n      Angriff: §G+10%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+5%§!"
 
-
 anti_fortification_artillery:0 "Anti-Festungsartillerie"
 anti_fortification_artillery_effect:0 "Aktiviert §HAnti-Festungsartillerie§!\n§HArtillerie unterstützen§!\n    Festung: Angriff: §G+20%§!\n§HArtillery§!\n    Festung: Angriff: §G+20%§!\n§HMotorisierte Artillerie§!\n    Festung: Angriff: §G+20%§!"
 
@@ -744,7 +719,10 @@ tech_at_cavalry:0 "Panzerabwehr Kavallerie"
 tech_at_cavalry_effect:0 "Aktiviert §H$tech_at_cavalry$\nKavallerie§!\n      Durchdringung: §G+75%§!\n      Harter Angriff: §G+10%§!"
 
 tech_dragoon_tactics:0 "Dragoner-Taktiken"
-tech_dragoon_tactics_effect:0 "Aktiviert §H$tech_dragoon_tactics$\nKavallerie§!\n      Maximal Organisation: §G+5§!\n      Wiederherstellungsrate: §G+10%§!\n      Bewegung: §G+10%§!\n      Nacht Angriff: §G+10§!"
+tech_dragoon_tactics_effect:0 "Aktiviert §H$tech_dragoon_tactics$\nKavallerie§!\n      Maximal Organisation: §G+5§!\n      Wiederherstellungsrate: §G+0.10§!\n      Bewegung: §G+10%§!\n      Nacht Angriff: §G+10§!"
+
+ tech_semi_motorised_cav:0 "Teilmotorisierte Kavallerie"
+ tech_semi_motorised_cav_effect:0 "Ermöglicht §H$tech_semi_motorized_cav$\nKavallerie§!\n      Maximale Organisation: §G+5§!\n      Wiederherstellungsrate: §G+0.10§!\n      Bewegung: §G+15%§!"
 
 tech_improved_encryption:0 "Verbesserte Verschlüsselung"
 tech_improved_encryption_effect:0 "Aktiviert §H$tech_improved_encryption$§!\n$MODIFIER_CRYPTO_STRENGTH$: [?2|+ = 0]"
@@ -752,7 +730,11 @@ tech_improved_encryption_effect:0 "Aktiviert §H$tech_improved_encryption$§!\n$
  tech_mountain_artillery:0 "Gebirgs Artillerie"
  tech_mountain_artillery_effect:0 "Aktiviert §H$tech_mountain_artillery$§!\n§HArtillerie\n    Hügel§!\n      Angriff: §G+10%§!\n      Bewegung: §G+10%§!\n    §HBerge§!\n      Angriff: §G+10%§!\n      Bewegung: §G+10%§!"
 
-
+ tech_arctic_commando:0 "Arktische Kommandos"
+ tech_arctic_commando_effect:0 "Ermöglicht §H$tech_arctic_commando$§!\n    besondere Versorgung der Spezialeinheiten: [?48|G1=] Stunde(n)\n    §HSpezialeinheiten§!\n        Verstärkungsfaktor für die Kälteakklimatisierung: §G+10%§!\n        §HHügel§!\n          Bewegung: §G+5%§!\n        §HBerge§!\n          Bewegung: §G+5%§!"
+ 
+tech_better_paratroopers:0 "Elite-Fallschirmjäger"
+tech_better_paratroopers_effect:0 "Ermöglicht §H$tech_better_paratroopers$§!\n§HFallschirmjäger§!\n      Weicher Angriff: §G+10%§!\n      Wiederherstellungsrate: §G+0.20§!\n      besondere Versorgung der Fallschirmjäger: [?24|G1=] Stunde(n)" 
 
 ### Army Command Traits ###
 

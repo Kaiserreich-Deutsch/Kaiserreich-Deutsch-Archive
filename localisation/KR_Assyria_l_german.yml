@@ -1,5 +1,7 @@
 ﻿l_german:
 
+##Übersetzt von Thylon##
+
 # Parties
 ASY_totalist_party:0 "ASP"
 ASY_totalist_party_long:0 "Assyrian Socialist Party"
@@ -37,32 +39,26 @@ ASY_Christian_Division_desc:0 "Chaldäer, Nestorianer, Protestanten und Katholik
 ASY_Christian_Division2:0 "Assyrische Teilung"
 ASY_Christian_Division2_desc:0 "Chaldäer, Nestorianer, Protestanten und Katholiken. Die assyrische Gemeinschaft, der es an starker religiöser Autorität und Einheit fehlte, hat sich im Laufe der Jahre zersplittert und eine Vielzahl separater Gemeinschaften hervorgebracht, die durch die Missionsarbeit der Franzosen, Amerikaner und Briten im 19. Jahrhundert noch verstärkt wurden. Mit Mar Shimun von der Assyrischen Kirche des Ostens, der den Wunsch hegt, sich selbst zum König zu krönen, und den anderen Gruppen, die sich in der neuen assyrischen Verwaltung unterrepräsentiert fühlen, hat Assyrien seine Aufgabe vor sich."
 ASY_Raqa_Raqa:0 "Erinnerung an die 'Raqa Raqa'"
-ASY_Raqa_Raqa_desc:0 ""
 ASY_Last_Stand:0 "Letzter Stand von Assur"
-ASY_Last_Stand_desc:0 ""
 ASY_Papal_Support:0 "Katholische Unterstützung"
 ASY_Papal_Support_desc:0 "Die in Assyrien lebenden Katholiken haben sich an ihre Brüder und Schwestern in Rom und im Ausland gewandt. Dies hat Früchte getragen und wir haben Hilfe in unserem Kampf erhalten!"
 
 ASY_Technical_Illiteracy2:0 "Technischer Analphabetismus"
 ASY_Technical_Illiteracy2_desc:0 "Eines der Hauptprobleme, die das Basra-Projekt plagen, ist der Mangel an qualifiziertem Personal, da der erzwungene und freiwillige Ausschluss aus dem osmanischen Bildungssystem die Fähigkeiten unseres Volkes stark beeinträchtigt hat. Während es keinen Mangel an Assyrern mit einer klerikalen Ausbildung gibt, mangelt es uns stark an Ingenieuren, Wissenschaftlern und Pädagogen."
-ASY_Directorate_Education:0 "Assyrisches Direktorat für Bildung"
-ASY_Directorate_Education_desc:0 ""
+ASY_Directorate_Education_Idea:0 "Assyrisches Direktorat für Bildung"
 ASY_Ethno_Religious_Divide2:0 "Ethnisch-religiöse Kluft"
 ASY_Ethno_Religious_Divide2_desc:0 "Die untere mesopotamische Ebene ist seit Jahrhunderten die Heimat der arabischen Schiiten und verschiedener kleiner Splitterbewegungen der abrahamitischen Religionen. Die Ankunft der Assyrer in diesem zuvor muslimisch dominierten Land hat das Gleichgewicht der Kräfte erheblich gestört und ihr Drängen auf einen christlichen Staat in der Levante hat große Teile der einheimischen Bevölkerung ausgeschlossen. Die muslimische Bevölkerung, die eine Vereinigung mit Bagdad wünscht und deren Religionsfreiheit garantiert werden soll, ist der assyrischen Regierung ein Dorn im Auge, da ihre Proteste, Obstruktionismus und sogar Guerillakrieg in den Sümpfen von Untermesopotamien unsere Ziele weiterhin vereiteln."
 ASY_Institutional_Racism:0 "Institutioneller Rassismus"
 ASY_Institutional_Racism_desc:0 "Diejenigen, die wirklich Assyrer sind, sind für uns mehr wert als diejenigen, die es nicht sind. Das muss sich im Gesetz widerspiegeln, um der Welt zu zeigen, dass hier echte Assyrer das Sagen haben."
-ASY_Cultural_Revolution:0 "Assyrisches Erwachen"
-ASY_Cultural_Revolution_desc:0 ""
+ASY_Cultural_Revolution_Idea:0 "Assyrisches Erwachen"
 ASY_Bureau_Resettlement2:0 "Ministerium für Einwanderung und Wiederansiedlung"
 ASY_Bureau_Resettlement2_desc:0 "Es gibt viele Einwanderer in unser Land und viele Flüchtlinge sowohl aus dem Inland als auch von außerhalb. Dieses neue Ministerium soll sich um ihre Bedürfnisse kümmern und dafür sorgen, dass unsere Leute so schnell wie möglich sesshaft, produktiv und vor allem steuerpflichtig werden."
 ASY_Institute_Intelligence_Special_Operations:0 "Institut für Nachrichtenwesen und Sonderaufgaben"
-ASY_Institute_Intelligence_Special_Operations_desc:0 ""
 ASY_Church_Monopoly2:0 "Patriarchalische Diktatur"
 ASY_Church_Monopoly2_desc:0 "Der Patriarch der Assyrischen Kirche des Ostens, der von seinem Volk als Heiliger verehrt wird, hat im Laufe der Jahre eine Verbindung von Kirche und Staat entwickelt, in der er und sein innerer Kreis, der meist aus Familienmitgliedern besteht, das assyrische Volk als Könige regiert und repräsentiert haben. Diese Situation, die Mar Shimun ziemlich ans Herz gewachsen ist, hat andere politische Formationen behindert und eine beträchtliche antipatriarchale Front entstehen lassen, die eine gleichberechtigte Vertretung wünscht."
 ASY_Union_Church_State:0 "Union von Kirche und Staat"
 ASY_Union_Church_State_desc:0 "Einige Nationen glauben, dass die Kirche und der Staat getrennt sein sollten. Diese Nationen werden zu Recht als töricht bezeichnet, denn nur die Kirche und der Staat, die zusammenarbeiten, können eine Nation in den Augen Gottes heilig halten. Der Klerus ist nicht umsonst seit Hunderten von Jahren ein Stand."
-ASY_New_Assur:0 "Königreich Neu-Assur"
-ASY_New_Assur_desc:0 ""
+ASY_New_Assur_Idea:0 "Königreich Neu-Assur"
 ASY_Christian_Division3:0 "Assyrische Teilung"
 ASY_Christian_Division3_desc:0 "Chaldäer, Nestorianer, Protestanten und Katholiken. Die assyrische Gemeinschaft, der es an starker religiöser Autorität und Einheit fehlte, hat sich im Laufe der Jahre zersplittert und eine Vielzahl separater Gemeinschaften hervorgebracht, die durch die Missionsarbeit der Franzosen, Amerikaner und Briten im 19. Jahrhundert noch verstärkt wurden. Mit Mar Shimun von der Assyrischen Kirche des Ostens, der den Wunsch hegt, sich selbst zum König zu krönen, und den anderen Gruppen, die sich in der neuen assyrischen Verwaltung unterrepräsentiert fühlen, hat Assyrien seine Aufgabe."
 ASY_Christian_Division4:0 "Assyrische Teilung"
@@ -70,29 +66,24 @@ ASY_Christian_Division4_desc:0 "Chaldäer, Nestorianer, Protestanten und Katholi
 ASY_Lost_Sons_Assur:0 "Die verlorenen Söhne von Assur"
 ASY_Lost_Sons_Assur_desc:0 "Viele Assyrer verließen das alte Osmanische Reich, um anderswo ein besseres Leben zu finden. Jetzt kehren einige von ihnen nach Hause zurück, und wir werden sie mit offenen Armen empfangen."
 
-ASY_Assyrian_Parliament:0 "Patriarchalische Diktatur"
-ASY_Assyrian_Parliament_desc:0 "Der Patriarch der Assyrischen Kirche des Ostens, der von seinem Volk als Heiliger verehrt wird, hat im Laufe der Jahre eine Verbindung von Kirche und Staat entwickelt, in der er und sein innerer Kreis, der meist aus Familienmitgliedern besteht, das assyrische Volk als Könige regiert und repräsentiert haben. Diese Situation, die Mar Shimun ziemlich ans Herz gewachsen ist, hat andere politische Formationen behindert und eine beträchtliche antipatriarchale Front entstehen lassen, die eine gleichberechtigte Vertretung wünscht."
+ASY_Assyrian_Parliament_Idea:0 "Patriarchalische Diktatur"
+ASY_Assyrian_Parliament_Idea_desc:0 "Der Patriarch der Assyrischen Kirche des Ostens, der von seinem Volk als Heiliger verehrt wird, hat im Laufe der Jahre eine Verbindung von Kirche und Staat entwickelt, in der er und sein innerer Kreis, der meist aus Familienmitgliedern besteht, das assyrische Volk als Könige regiert und repräsentiert haben. Diese Situation, die Mar Shimun ziemlich ans Herz gewachsen ist, hat andere politische Formationen behindert und eine beträchtliche antipatriarchale Front entstehen lassen, die eine gleichberechtigte Vertretung wünscht."
 ASY_Reformed_Bureaucracy:0 "Reformierte Bürokratie"
-ASY_Reformed_Bureaucracy_desc:0 ""
 ASY_Assyrian_Constitution:0 "Assyrische Verfassung"
-ASY_Assyrian_Constitution_desc:0 ""
 ASY_Petrochemical_Union:0 "Assyrische Petrochemische Union"
-ASY_Petrochemical_Union_desc:0 ""
 ASY_Petrochemical_Union2:0 "Assyrische Petrochemische Union"
-ASY_Petrochemical_Union2_desc:0 ""
 
 ASY_Entente_Oil_Concessions:0 "Entente Ölkonzessionen"
 ASY_Ethno_Religious_Divide_CAN:0 "Ethnisch-religiöse Kluft"
 ASY_Ethno_Religious_Divide_CAN_desc:0 "Die untere mesopotamische Ebene ist seit Jahrhunderten die Heimat der arabischen Schiiten und verschiedener kleiner Splitterbewegungen der abrahamitischen Religionen. Die Ankunft der Assyrer in diesem zuvor muslimisch dominierten Land hat das Gleichgewicht der Kräfte stark gestört und ihr Drängen auf einen christlichen Staat in der Levante hat große Teile der einheimischen Bevölkerung ausgeschlossen. Die muslimische Bevölkerung, die eine Vereinigung mit Bagdad wünscht und deren Religionsfreiheit garantiert werden soll, ist zu einem Dorn im Auge der assyrischen Regierung geworden, da ihre Proteste, Obstruktionismus und sogar Guerillakrieg in den Sümpfen von Untermesopotamien unsere Ziele weiterhin behindern."
 ASY_Christian_Division_CAN:0 "Assyrische Teilung"
 ASY_Christian_Division_CAN_desc:0 "Chaldäer, Nestorianer, Protestanten und Katholiken. Die assyrische Gemeinschaft, der es an starker religiöser Autorität und Einheit fehlte, hat sich im Laufe der Jahre zersplittert und eine Vielzahl separater Gemeinschaften hervorgebracht, die durch die Missionsarbeit der Franzosen, Amerikaner und Briten im 19. Jahrhundert noch verstärkt wurden. Mit Mar Shimun von der Assyrischen Kirche des Ostens, der den Wunsch hegt, sich selbst zum König zu krönen, und den anderen Gruppen, die sich in der neuen assyrischen Verwaltung unterrepräsentiert fühlen, hat Assyrien seine Aufgabe zu erfüllen."
-ASY_Indian_Bureaucracy:0 "Indische Bürokratie"
-ASY_Indian_Bureaucracy_desc:0 "Assyrien fehlt es an Männern mit Erfahrung, wenn es darum geht, einen Staat zu führen. Wir können diese Situation beheben, indem wir ... Bürokraten aus Indien importieren, um den Übergang zu einer kompetenten Regierung zu erleichtern."
+ASY_Indian_Bureaucracy_Idea:0 "Indische Bürokratie"
+ASY_Indian_Bureaucracy_Idea_desc:0 "Assyrien fehlt es an Männern mit Erfahrung, wenn es darum geht, einen Staat zu führen. Wir können diese Situation beheben, indem wir ... Bürokraten aus Indien importieren, um den Übergang zu einer kompetenten Regierung zu erleichtern."
 
 ASY_Bureau_Resettlement:0 "Ministerium für Einwanderung und Wiederansiedlung"
 ASY_Bureau_Resettlement_desc:0 "Es gibt viele Einwanderer in unser Land und viele Flüchtlinge sowohl aus dem Inland als auch von außerhalb. Dieses neue Ministerium soll sich um ihre Bedürfnisse kümmern und dafür sorgen, dass unsere Leute so schnell wie möglich sesshaft, produktiv und vor allem steuerpflichtig werden."
-ASY_Industrial_Bank_Basra:0 "Industrielle Bank von Basra"
-ASY_Industrial_Bank_Basra_desc:0 ""
+ASY_Industrial_Bank_Basra_Idea:0 "Industrielle Bank von Basra"
 ASY_Poor_Land_Use2:0 "Lähmende Armut"
 ASY_Poor_Land_Use2_desc:0 "Ein ungerechtes und theokratisches Landsystem hat die lähmende Armut, die die Assyrer in Basra kennzeichnet, nur noch verschlimmert. Gezwungen, in Elendsvierteln, notdürftigen Siedlungen in den Sümpfen des unteren Euphrat oder im Schatten ihrer reicheren muslimischen und jüdischen Nachbarn zu leben, hat der Unabhängigkeitskrieg den Ruf nach einer Umverteilung des Wohlstands laut werden lassen. Die großen Wohlstands- und Statusunterschiede zwischen den arabischen Christen, die in das osmanische System integriert sind, und den Anhängern der Assyrischen Kirche des Ostens verkomplizieren die Angelegenheit nur noch weiter und haben eine Spaltung in eine bereits angeschlagene Gemeinschaft gebracht"
 ASY_Poor_Land_Use3:0 "Crippling Poverty"
@@ -104,10 +95,9 @@ ASY_Mechanisation_desc:0 "Die Anbau- und Erntemethoden unseres Volkes sind die g
 
 ASY_rifle_standardisation:0 "Gewehr-Standardisierung"
 ASY_rifle_standardisation_desc:0 "Nach dem Ende der Rebellion hat Assyria eine Reihe von Waffen gesammelt, die von der vertrauenswürdigen kanadischen Enfield bis zur unzuverlässigen Fusl Berthier reichen. Mit Hilfe der kanadischen Militärmission wird es möglich sein, weitere kanadische Waffen zu erhalten."
-ASY_signal_company:0 "Fernmeldekorps"
-ASY_signal_company_desc:0 ""
-ASY_Assyrian_Army:0 "Assyrische Armee"
-ASY_Assyrian_Army_desc:0 "Milizen und eilig organisierte Einheiten haben uns die Freiheit gebracht. Um die Freiheit vor ausländischer Aggression zu schützen, müssen wir unsere Armee, unsere Ausbildung und unsere Ausrüstung standardisieren. Nicht weniger wird nötig sein, um Assyrien auf der Landkarte zu halten."
+ASY_signaller_corps:0 "Fernmeldekorps"
+ASY_Assyrian_Army_Idea:0 "Assyrische Armee"
+ASY_Assyrian_Army_Idea_desc:0 "Milizen und eilig organisierte Einheiten haben uns die Freiheit gebracht. Um die Freiheit vor ausländischer Aggression zu schützen, müssen wir unsere Armee, unsere Ausbildung und unsere Ausrüstung standardisieren. Nicht weniger wird nötig sein, um Assyrien auf der Landkarte zu halten."
 
 ### Tooltips ###
 ASY_expanded_levies_tt:0 "£nato_unit_cavalry_icon_small erhaltet 1 §YCavalry Division§! Einheit mit Rekrutenausbildung und 1918-Jahre-Infanterieausrüstung in §YBasra§!\n£nato_unit_infantry_icon_small erhaltet 1 §YInfantry Division§! Einheit mit Rekrutenausbildung und 1918-Jahre-Infanterieausrüstung in §YBasra§!\n\nErhaltet einen £GFX_army_experience §GLevel 1 General§! mit dem Namen §YOdisho Moshe§!."
@@ -287,8 +277,8 @@ ASY_Reform_Assyrian_Levies:0 "Reform der assyrischen Levies"
 ASY_Reform_Assyrian_Levies_desc:0 "Die Levies, die unsere Häuser vor den Überfällen der Ma'dan verteidigt und unsere Unabhängigkeit so tapfer errungen haben, haben bisher ihren Zweck erfüllt, reichen aber ohne Reformen einfach nicht mehr aus. Als neuer unabhängiger Staat haben sich unsere militärischen Bedürfnisse stark erweitert und gehen über die Verteidigung von Siedlungen hinaus, so dass es notwendig ist, diese Levies von ihrem derzeitigen Zustand zu einer richtigen, professionalisierten Kampftruppe zu formen."
 ASY_Assyrian_Coast_Guard:0 "Gründet die Assyrische Küstenwache"
 ASY_Assyrian_Coast_Guard_desc:0 "Mit dem Aufkommen der Schlachtschiffe im Weltkrieg haben die Marinen der Welt einen unglaublichen Wandel erlebt. Um wettbewerbsfähig zu bleiben, hat sich die Entwicklung einer Küstenwache zum Schutz unserer Küstengewässer und zur Verwaltung unserer Häfen als beste Lösung erwiesen, da wir uns keine echte Hochseeflotte leisten können."
-ASY_Enfield_Ontario_Contract:0 "GWaffenverträge mit der Entente"
-ASY_Enfield_Ontario_Contract_desc:0 "Wir haben lange unter einer Industrie gelitten, die nicht in der Lage war, die Kriegswaffen zu produzieren, die zur Sicherung unserer Souveränität benötigt wurden. Um hierbei Abhilfe zu schaffen, hat sich die Entente bereit erklärt, uns im Austausch für die weitere Zusammenarbeit mit der Entente mit Gewehren zu versorgen."
+ASY_Entente_Rifle_Contracts:0 "GWaffenverträge mit der Entente"
+ASY_Entente_Rifle_Contracts_desc:0 "Wir haben lange unter einer Industrie gelitten, die nicht in der Lage war, die Kriegswaffen zu produzieren, die zur Sicherung unserer Souveränität benötigt wurden. Um hierbei Abhilfe zu schaffen, hat sich die Entente bereit erklärt, uns im Austausch für die weitere Zusammenarbeit mit der Entente mit Gewehren zu versorgen."
 ASY_Standardise_Rifles:0 "Standardisierung der Gewehre"
 ASY_Standardise_Rifles_desc:0 "Unser Militär befindet sich seit seiner Gründung in einem Zustand der Desorganisation. In der Hoffnung, unser Militär von Grund auf zu reglementieren, müssen wir einen universellen Standard für unsere Bewaffnung entwickeln, wenn wir in dieser neuen modernen Welt kämpfen wollen."
 ASY_NCO_Training:0 "NCO Training"
@@ -304,13 +294,13 @@ ASY_RAF_Shaibah_desc:0 "Um sicherzustellen, dass unser Volk und unser Land vor d
 ASY_Signaller_Corp:0 "Fernmeldekompanie"
 ASY_Signaller_Corp_desc:0 "Im Zuge der weiteren militärischen Modernisierung wurde es als notwendig erachtet, Schulen zu bilden, um mit der Ausbildung unseres eigenen professionellen Fernmeldekorps zu beginnen. Dieses Korps wird sich auf das Management von Informationen zum und vom Schlachtfeld konzentrieren, um unsere Regimenter weiter zu koordinieren. Dies wird in den kommenden Kriegen ein wichtiges Organ unseres Militärs sein."
 ASY_Middle_Eastern_Listening_Post:0 "Nahost-Hörposten"
-ASY_Middle_Eastern_Listening_Post_desc:0 "Mit unserer zunehmenden Erfahrung in der Nutzung von Funkkommunikation hat sich eine Gruppe ehrgeiziger junger Offiziere an das Kommando mit einer Idee gewandt, von der sie gehört haben, dass sie in den Streitkräften im Ausland genutzt wird: ein diskreter Abhörposten, der mit fortschrittlichen Funkkommunikationseinrichtungen ausgestattet ist, um den feindlichen Funkverkehr zu verfolgen. Unsere Kommandeure hatten nur eine Frage. "Wo sollen wir mit dem Bau beginnen?""
+ASY_Middle_Eastern_Listening_Post_desc:0 "Mit unserer zunehmenden Erfahrung in der Nutzung von Funkkommunikation hat sich eine Gruppe ehrgeiziger junger Offiziere an das Kommando mit einer Idee gewandt, von der sie gehört haben, dass sie in den Streitkräften im Ausland genutzt wird: ein diskreter Abhörposten, der mit fortschrittlichen Funkkommunikationseinrichtungen ausgestattet ist, um den feindlichen Funkverkehr zu verfolgen. Unsere Kommandeure hatten nur eine Frage. \"Wo sollen wir mit dem Bau beginnen?\""
 ASY_Mandatory_Conscription:0 "Führt die Wehrpflicht ein"
 ASY_Mandatory_Conscription_desc:0 "Der Krieg um die Seele unseres Volkes steht vor der Tür, und alle Söhne Assyriens müssen zu dieser heiligen Tat herangezogen werden. Unsere gegenwärtigen militärischen Kräfte reichen nicht annähernd aus, um unser Territorium zu halten, und während Freiwillige herbeiströmen, müssen wir uns um eine Erweiterung unserer Wehrpflicht bemühen, um unsere Heimat zu verteidigen."
  
 ### Events
 ass.1.t:0 "Die Ma'dān beherbergen Kriminelle"
-ass.1.d:0 "Die Ma'dān oder Sumpfaraber, die die Sümpfe in der Nähe der Stadt Basra bewohnen, sind der Zentralregierung in der Region seit langem ein Dorn im Auge, ebenso wie ihre Heimat im Sumpfgebiet für die osmanische Verwaltung so gut wie terra incognita war. Entdecker, die sich in ihr Land wagen, kehren nie zurück, und die Ma'dān, die mit externen Behörden kooperieren, werden von ihren lokalen Führern als Vergeltung oft hart bestraft. Die unwirtliche Beschaffenheit ihrer Sümpfe hat bisher ihre Autonomie weitgehend gesichert, und ihre politische Apathie gegenüber dem osmanischen Regime hat sie aus dem Blickfeld gehalten. Neuere assyrische Staudamm- und Siedlungsprojekte, die in dem Bemühen durchgeführt wurden, neues landwirtschaftliches Land zu erschließen und den schiitischen Widerstand, der gegen die assyrischen Siedler kämpfte, aufzuscheuchen, haben sie gezwungen, eine aktivere Haltung einzunehmen; jetzt beherbergen die Sumpfaraber nicht nur Flüchtlinge vor den assyrischen Operationen, sondern auch die der Baghdadi Wali. Letzterer, verärgert über diese Entwicklung, hat Verstärkung aus Konstantiniyye angefordert, um sie auf Linie zu bringen und sowohl Steuern als auch Wehrpflicht für die osmanische Armee zu erzwingen."
+ass.1.d:0 "Die Ma'dān oder Sumpfaraber, die die Sümpfe in der Nähe der Stadt Basra bewohnen, sind der Zentralregierung in der Region seit langem ein Dorn im Auge, ebenso wie ihre Heimat im Sumpfgebiet für die osmanische Verwaltung so gut wie terra incognita war. Entdecker, die sich in ihr Land wagen, kehren nie zurück, und die Ma'dān, die mit externen Behörden kooperieren, werden von ihren lokalen Führern als Vergeltung oft hart bestraft. Die unwirtliche Beschaffenheit ihrer Sümpfe hat bisher ihre Autonomie weitgehend gesichert, und ihre politische Apathie gegenüber dem osmanischen Regime hat sie aus dem Blickfeld gehalten. Neuere assyrische Staudamm- und Siedlungsprojekte, die in dem Bemühen durchgeführt wurden, neues landwirtschaftliches Land zu erschließen und den schiitischen Widerstand, der gegen die assyrischen Siedler kämpfte, aufzuscheuchen, haben sie gezwungen, eine aktivere Haltung einzunehmen; jetzt beherbergen die Sumpfaraber nicht nur Flüchtlinge vor den assyrischen Operationen, sondern auch die der Baghdadi Wali. Letzterer, verärgert über diese Entwicklung, hat Verstärkung aus Kostantiniyye angefordert, um sie auf Linie zu bringen und sowohl Steuern als auch Wehrpflicht für die osmanische Armee zu erzwingen."
 ass.1.a:0 "Lassen wir sie in Ruhe."
 ass.1.b:0 "Nehmen Sie seine Anfrage an."
 
@@ -330,7 +320,7 @@ ass.4.a:0 "Unfug! Die osmanische Gendarmerie schützt alle, unabhängig von der 
 ass.4.b:0 "Erlauben Sie ihnen, die Leviten zu behalten."
 
 ass.5.t:0 "Die assyrische Regierung weigert sich, die Forderungen zu erfüllen"
-ass.5.d:0 "Da Rab Khaila Dawid d'Mar Shimun weiterhin behauptet, dass die Leviten das Einzige sind, was zwischen Leben und Tod für das assyrische Volk steht, hat er den Befehl des Wali in Basra widerrufen und seine Truppen mobilisiert. Unterstützt von der Kirche des Ostens hat Shimun Basra zu einer autonomen Region innerhalb des Reiches erklärt und fordert den sofortigen Rückzug der Truppen des Wali aus der Region, Selbstverwaltung für das assyrische Volk, das Recht, selbständig Steuern einzutreiben und weiteren Schutz der assyrischen Kirche vor schiitischer Unzufriedenheit.\n\n Der Wali von Basra hat daraufhin die Gendarmerie der Stadt mobilisiert, um die Leviten aufzulösen, wenn nötig mit Gewalt. Allerdings ist er in der Stadt waffentechnisch und zahlenmäßig deutlich unterlegen. In Konstantiniyye ist der Großwesir wütend über diesen Verrat und verlangt, dass alle mesopotamischen Truppen mobilisiert werden, um den assyrischen Aufstand niederzuschlagen, bevor eine ausländische Intervention zu ihren Gunsten erfolgen kann."
+ass.5.d:0 "Da Rab Khaila Dawid d'Mar Shimun weiterhin behauptet, dass die Leviten das Einzige sind, was zwischen Leben und Tod für das assyrische Volk steht, hat er den Befehl des Wali in Basra widerrufen und seine Truppen mobilisiert. Unterstützt von der Kirche des Ostens hat Shimun Basra zu einer autonomen Region innerhalb des Reiches erklärt und fordert den sofortigen Rückzug der Truppen des Wali aus der Region, Selbstverwaltung für das assyrische Volk, das Recht, selbständig Steuern einzutreiben und weiteren Schutz der assyrischen Kirche vor schiitischer Unzufriedenheit.\n\n Der Wali von Basra hat daraufhin die Gendarmerie der Stadt mobilisiert, um die Leviten aufzulösen, wenn nötig mit Gewalt. Allerdings ist er in der Stadt waffentechnisch und zahlenmäßig deutlich unterlegen. In Kostantiniyye ist der Großwesir wütend über diesen Verrat und verlangt, dass alle mesopotamischen Truppen mobilisiert werden, um den assyrischen Aufstand niederzuschlagen, bevor eine ausländische Intervention zu ihren Gunsten erfolgen kann."
 ass.5.a:0 "Schickt die Armee!"
 #The final insult, play as Assyria:
 ass.5.b:0 "Assyrien soll nicht fallen! (Spielt als Assyria)"
@@ -437,7 +427,7 @@ ass.27.a:0 "Diese Mistkerle!"
 ### Leaders ###
 POLITICS_ODISHO_MOSHE_DESC:0 "§YGeneral Beschreibung\n§YGeboren:§L\n1919\nOdisho Moshe stieg zum Kommando auf, indem er einfach der richtige Mann zur richtigen Zeit war. Als einfacher Rab Khamshi (Feldwebel) war er in der Lage, die assyrischen Stammesangehörigen, die in der mesopotamischen Region verstreut sind, zu versammeln. In seinem frühen Leben verteidigte er seine Karkas, um sich dann den assyrischen Leviten anzuschließen und galt als natürlicher Anführer."
 
-POLITICS_SHIMUN_ESHAI_XXI_DESC:0 "Geboren am 26. Februar 1908 in Südostanatolien, war der katholische Patriarch Mar Eshai Shimun XXI. aus erster Hand Zeuge der Schrecken, die sein Volk erlebte. Als kleiner Junge wurde er als Nachfolger seines Onkels, des damals regierenden Patriarchen, vorbereitet, aber als der Weltkrieg im Nahen Osten ankam und die osmanischen Verfolgungen des assyrischen Volkes zunahmen, war er gezwungen, 1919 aus seiner Heimat zu fliehen, als eine zurückkehrende, revanchistische, osmanische Armee die Ebenen von Ninive zurückeroberte. Ordiniert wurde er 1920, gerade einmal 12 Jahre alt, nach dem Tod seines Onkels. Er wurde von seiner Familie ins Ausland gebracht, um in England zu studieren, und erhielt bei seinen Bemühungen Unterstützung von der anglikanischen Kirche. Nur 5 kurze Jahre später befand er sich erneut auf der Flucht, als syndikalistische Revolutionäre die britische Regierung stürzten. Nach seiner Rückkehr zu seinem Volk in Basra übernahm er eine führende Rolle bei den Verhandlungen mit der Erhabenen Pforte und diente als inoffizieller Führer des assyrischen Volkes, obwohl die wirkliche Führung in den Händen seines Vaters David Mar Shimun und seiner Tante Surma d'Mar Shimun lag. Als er älter wurde und sein Einfluss auf die assyrische Bewegung wuchs, noch verstärkt durch seine Rolle als offizieller Verbindungsmann zwischen der osmanischen Regierung und ihrer Gemeinschaft durch das Millet-System, unterstützte er offener die Unabhängigkeitsbewegung und wurde Teil der Untergrundorganisation XXH. Indem er sich gegen die zentralisierenden Reformen der osmanischen Regierung auflehnte, die darauf aus waren, die Autonomie der assyrischen Gemeinschaft zu beseitigen, wurde er während des Unabhängigkeitskrieges zum offiziellen Führer Assyriens, eine Position, die er wahrscheinlich nicht aufgeben wird."
+POLITICS_SHIMUN_ESHAI_XXI_DESC:0 "Geboren am 26. Februar 1908 in Südostanatolien, war der katholische Patriarch Mar Eshai Shimun XXI. aus erster Hand Zeuge der Schrecken, die sein Volk erlebte. Als kleiner Junge wurde er als Nachfolger seines Onkels, des damals regierenden Patriarchen, vorbereitet, aber als der Weltkrieg im Nahen Osten ankam und die osmanischen Verfolgungen des assyrischen Volkes zunahmen, war er gezwungen, 1919 aus seiner Heimat zu fliehen, als eine zurückkehrende, revanchistische, osmanische Armee die Ebenen von Ninive zurückeroberte. Ordiniert wurde er 1920, gerade einmal 12 Jahre alt, nach dem Tod seines Onkels. Er wurde von seiner Familie ins Ausland gebracht, um in Großbritannien zu studieren, und erhielt bei seinen Bemühungen Unterstützung von der anglikanischen Kirche. Nur 5 kurze Jahre später befand er sich erneut auf der Flucht, als syndikalistische Revolutionäre die britische Regierung stürzten. Nach seiner Rückkehr zu seinem Volk in Basra übernahm er eine führende Rolle bei den Verhandlungen mit der Erhabenen Pforte und diente als inoffizieller Führer des assyrischen Volkes, obwohl die wirkliche Führung in den Händen seines Vaters David Mar Shimun und seiner Tante Surma d'Mar Shimun lag. Als er älter wurde und sein Einfluss auf die assyrische Bewegung wuchs, noch verstärkt durch seine Rolle als offizieller Verbindungsmann zwischen der osmanischen Regierung und ihrer Gemeinschaft durch das Millet-System, unterstützte er offener die Unabhängigkeitsbewegung und wurde Teil der Untergrundorganisation XXH. Indem er sich gegen die zentralisierenden Reformen der osmanischen Regierung auflehnte, die darauf aus waren, die Autonomie der assyrischen Gemeinschaft zu beseitigen, wurde er während des Unabhängigkeitskrieges zum offiziellen Führer Assyriens, eine Position, die er wahrscheinlich nicht aufgeben wird."
 
 ### Country Names ###
 ASY_totalist:0 "Assyrische Union"

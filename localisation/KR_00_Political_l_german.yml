@@ -1,8 +1,8 @@
 ﻿l_german:
 ### Übersetzt von Proho ###
 ### Opening Event ###
-kr.political.1.t:0 "Kaiserreich Beta 0.18.1 - 'Forest Brothers'('Wald Brüder')"
-kr.political.1.d:0 "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.18.1 - 'Forest Brothers'('Wald Brüder') für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\nDer Mod basiert auf der Annahme, dass der Spieler immer alle möglichen Staaten in Friedensverträgen annektiert, also stellen Sie sicher, dass Sie dies tun\nSie können die Häufigkeit von Nachrichtenereignissen ändern, indem Sie das Symbol oben auf der Registerkarte 'Entscheidungen' umschalten\nSie können auswählen, welche Namenssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Menü 'Erfolge' oben rechts ersetzt.\nSie können auswählen, welche Benennungssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Errungenschaftsmenü oben rechts ersetzt\nDenken Sie daran, dass sich dieser Mod noch in der Betaphase befindet, daher sind leider Fehler und Abstürze möglich Probleme, diese auf unserem GitHub Issue Tracker zu melden, ist eine große Hilfe und wird sie früher beheben\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
+kr.political.1.t:0 "Kaiserreich Beta 0.19.2 - 'March on the Drina'('Marsch über die Drina')"
+kr.political.1.d:0 "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.19.2 - 'March on the Drina'('Marsch über die Drina') für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\nDer Mod basiert auf der Annahme, dass der Spieler immer alle möglichen Staaten in Friedensverträgen annektiert, also stellen Sie sicher, dass Sie dies tun\nSie können die Häufigkeit von Nachrichtenereignissen ändern, indem Sie das Symbol oben auf der Registerkarte 'Entscheidungen' umschalten\nSie können auswählen, welche Namenssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Menü 'Erfolge' oben rechts ersetzt.\nSie können auswählen, welche Benennungssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Errungenschaftsmenü oben rechts ersetzt\nDenken Sie daran, dass sich dieser Mod noch in der Betaphase befindet, daher sind leider Fehler und Abstürze möglich Probleme, diese auf unserem GitHub Issue Tracker zu melden, ist eine große Hilfe und wird sie früher beheben\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
 kr.political.1.a:0 "Da bin ich sicher!"
 
 ### Generic Triggered Events ####
@@ -104,7 +104,6 @@ KR_improving_stability:0 "Stabilität bereits verbessert"
 KR_improving_popularity:0 "Partei-Popularität bereits verbessert"
 KR_party_pop_less_than_50:0 "Weniger als §Y50% §! Partei Popularität"
 KR_party_pop_more_than_75:0 "Mehr als §Y75% §! Partei Popularität"
-DIPLOMACY_DOCKING_RIGHTS:0 "Anlege-Rechte"
 is_ally_of_ROOT:0 "Ist ein Verbündeter von [ROOT.GetNameDef]"
 has_coalition_with:0 "Ist in einer Koalition mit §H[?coalition_partner_to_check.GetTokenLocalizedKey]§!"
 
@@ -120,7 +119,6 @@ rally_public_support:0 "Sammeln Sie Öffentliche Unterstützung"
 rally_public_support_desc:0 "Mit etwas politischer Macht und industrieller Unterstützung werden wir unsere Unterstützer für unsere Sache gewinnen. Dies wird zwar Zeit und Ressourcen erfordern, aber auf lange Sicht wird dies unser politisches Ansehen verbessern."
 solidify_control:0 "Kontrolle festigen"
 solidify_control_desc:0 "Einige taktvolle Nutzung der politischen Macht hier und einige Ressourcen dort, und wir werden unsere politischen Hindernisse zu beseitigen; wir werden vielleicht nicht alle loswerden können, aber selbst wenn wir einige loswerden, werden wir unseren Weg frei machen und unsere politische Macht auf lange Sicht verbessern."
-war_propaganda_against_warmonger_desc:0 "Die Nation ruft jeden Mann, jede Frau und jedes Kind auf, zum Kampf gegen [From.GetNameDef] beizutragen!"
 
 debug_decisions:0 "Debug-Entscheidungen"
  turn_off_plpc_debug:0 "Spielergeführte Konferenzen ausschalten"
@@ -128,7 +126,7 @@ debug_decisions:0 "Debug-Entscheidungen"
  turn_on_plpc_debug:0 "Spielergeführte Konferenzen einschalten"
  turn_on_plpc_debug_desc:0 "Damit wird die normale Funktionalität von spielergeführten Friedenskonferenzen wiederhergestellt. KI-Länder werden immer aus Friedenskonferenzen aussteigen, wenn ein Spieler auf der Gewinnerseite beteiligt ist."
  turn_off_stt_debug:0 "Deaktivieren Sie das Tool zum Übertragen von Staaten und Ländern"
- turn_off_stt_debug_desc:0 "\n§RDurch Drücken von §Y'ctrl-h'§! können Sie die Oberfläche auch deaktivieren, wenn Sie sie nicht komplett ausschalten möchten.§!"
+ turn_off_stt_debug_desc:0 "\n§RDurch Drücken von §Y'Ctrl-S'§! können Sie die Oberfläche auch deaktivieren, wenn Sie sie nicht komplett ausschalten möchten.§!"
  turn_on_stt_debug:0 "Einschalten des Tools für die Übertragung von Staaten und Ländern"
  KR_player_leads_conferences:0 "§YSpieler Vorrang§! Spielregel für Friedenskonferenzen ist aktiv und §Gaktiviert§!\n"
  KR_plpc_disable_tt:0 "§YSpieler Vorrang§! Spielregel wird vorübergehend §Rdeaktiviert§!\n"
@@ -148,7 +146,7 @@ social_democrat:0 "Sozialdemokraten"
 social_liberal:0 "Sozialliberale"
 market_liberal:0 "Marktliberale"
 social_conservative:0 "Sozialkonservative"
-authoritarian_democrat:0 "Autoritäre Demokratie"
+authoritarian_democrat:0 "Autoritäre Demokraten"
 paternal_autocrat:0 "Paternale Autokraten"
 national_populist:0 "Nationalpopulisten"
 
@@ -185,7 +183,7 @@ social_democrat_subtype_desc:0 "Die Sozialdemokratie ist eine Ideologie, deren Z
 social_liberal_subtype_desc:0 "Der Sozialliberalismus ist eine Variation des Mainstream-Marktliberalismus, wobei der Hauptunterschied darin besteht, verschiedene bürgerliche Freiheiten als grundlegende Menschenrechte einzubeziehen. Mit Bekenntnis zu fortschrittlicher Sozial- und Wirtschaftspolitik wollen die Sozialliberalen eine Gesellschaft schaffen, in der jeder Einzelne unabhängig von seinem Status sein eigenes Leben mit vollen Möglichkeiten führen kann."
 market_liberal_subtype_desc:0 "Marktliberale verstehen sich als die liberale Mainstream-Ideologie. Die Hauptmieter des Marktliberalismus sind ein unregulierter freier Markt und ein demokratisches plutokratisches politisches System. Marktliberale glauben, je freier der Markt, desto freier die Menschen, und sie werden die politischen und wirtschaftlichen Rechte des Einzelnen entschieden verteidigen."
 social_conservative_subtype_desc:0 "Der Konservatismus ist eine politische Ideologie, die sich darauf konzentriert, traditionelle Überzeugungen, Einstellungen und Philosophien sowie die traditionelle Machtdynamik der Gesellschaft unter Nutzung des demokratischen Systems zu bewahren. Im Gegensatz zu radikalen und moderaten Änderungen des Status quo wollen Konservative die Gesellschaft in Ordnung und stabil halten. Normalerweise fördern sie eine regulierte Marktwirtschaft, aber eine liberalere Wirtschaftspolitik ist keine Seltenheit."
-authoritarian_democrat_subtype_desc:0 "Die autoritäre Demokratie ist eine Ideologie, die eine starke Exekutivgewalt mit einem repräsentativen Parlament und einem teilweise demokratischen politischen System verbindet. Autoritäre demokratische Regime nehmen in sozialen Fragen häufig eine konservative Haltung ein und fördern liberal-kapitalistische Volkswirtschaften mit begrenzten staatlichen Eingriffen. Ziel dieser Regime ist es, die nationale Stabilität aufrechtzuerhalten und den Menschen eine populäre und verantwortungsvolle Regierung zu bieten."
+authoritarian_democrat_subtype_desc:0 "Die autoritäre Demokratie ist eine Ideologie, die eine starke Exekutivgewalt mit einem repräsentativen Parlament und einem teilweise demokratischen politischen System verbindet. Autoritäre demokratische Regime nehmen in sozialen Fragen häufig eine konservative Haltung ein und fördern liberal-kapitalistische Volkswirtschaften mit begrenzten staatlichen Eingriffen. Diese Regime zielen darauf ab, die nationale Stabilität aufrechtzuerhalten und dem Volk eine populäre und verantwortungsvolle Regierung zu bieten."
 paternal_autocrat_subtype_desc:0 "Die paternale Autokratie ist keine politische Ideologie im normalen Sinne des Wortes, sondern ein allgemeiner Begriff für die Haltung, die diese Regierungen gegenüber ihren Bürgern einnehmen: Das Volk ist alle Untertanen des Führers, entweder ein Monarch oder ein Diktator, und das ist es auch die Aufgabe und Pflicht des Führers, Staat und Gesellschaft auf den rechtschaffenen und besten Weg zu führen und gleichzeitig die Menschen unter seinem wohlwollenden Schutz zu vereinen. Diese Länder haben normalerweise eine sehr autoritäre Regierung, konservative soziale Ansichten und eine staatlich kontrollierte Wirtschaft."
 national_populist_subtype_desc:0 "Der Nationalpopulismus umfasst eine Vielzahl ultra-nationalistischer und militaristischer Bewegungen und verehrt in der Regel die Hingabe an den Staat, indem er die Menschen unter einem starken Führer und einer Unternehmenswirtschaft vereint. Der nationale Populismus tritt oft für Rassenpolitik und gewalttätige Rhetorik ein und wird von den meisten anderen politischen Parteien vehement abgelehnt."
 

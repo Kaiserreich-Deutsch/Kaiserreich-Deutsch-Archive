@@ -21,7 +21,7 @@ part.572.d:0 "Unsere Soldaten haben tapfer gekämpft, um die Bedrohung, die das 
 part.572.a:0 "Wir werden den Preussen den Weg weisen."
 part.572.b:0 "Wir sollten kontinentale Verwicklungen wie diese vermeiden."
 
-part.62.t:0 "Wiederherstellung der englischen Monarchie?"
+part.62.t:0 "Wiederherstellung der [GBP.GetAdjective]en Monarchie?"
 part.62_britain.d:0 "Nun, da die Britische Union besiegt wurde, ist die Zeit gekommen, eine neue Regierung auf den Britischen Inseln zu etablieren. Für einen Großteil der Bevölkerung wäre es wohl die beste Wahl, eine Monarchie, mit Carl Eduard von Sachsen-Coburg und Gotha auf dem Thron, einzuführen. Es könnte sich allerdings als weiser herausstellen, eine Marionetten-Republik zu etablieren, statt dem sogenannten 'Verräterprinzen' so viel Macht zu verschaffen. Eduard selbst hat bereits sein Interesse daran ausgesprochen, den Thron zu übernehmen, einige Führungspersönlichkeiten der Nation sehen ihn jedoch in vielerlei Hinsicht als Schuldigen an und seine schiere Präsenz könnte die Briten schon gegen uns aufhetzen."
 part.62_england.d:0 "Nachdem wir die Kontrolle über England erlangten, wurde die Entscheidung getroffen, einen unabhängigen englischen Staat und damit ein neues und loyales Mitglied des Reichspakts zu etablieren. Carl Eduard, der sogenannte 'Verräterprinz', wäre die offensichtliche Wahl für einen neuen Monarchen, einige Kollaboristen haben allerdings vorgeschlagen, eine Republik zu etablieren statt zur englischen Monarchie zurückzukehren. Welche Wahl wir auch treffen mögen, England wird nie wieder die Hand gegen das Vaterland erheben!"
 part.62.a:0 "Ein deutscher König wird auf St. Edwards Stuhl sitzen!"
@@ -45,5 +45,5 @@ part.66.d:0 "...\n\nOh, das sollten Sie nicht sehen..."
 part.66.a:0 "Ja, was auch immer..."
 
 part.67.t:0 "Verstecktes Event #3"
-part.67.d:0 "...\n\nSpielen Sie ernsthaft Wales als Vasallenstaat?"
+part.67.d:0 "...\n\nSpielen Sie ernsthaft Wales als Marionettenstaat?"
 part.67.a:0 "Ja..."

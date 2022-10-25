@@ -1,6 +1,6 @@
 ﻿l_german:
 ###  Übersetzt von Proho  ###
-SPR_focus:0 "Karlistisches Spanien Schwerpunkt Baum"
+SPR_focus:0 "Schwerpunktbaum von Karlistisches Spanien"
 
 ### Parties ###
 SPR_totalist_party:0 "POUM"
@@ -211,8 +211,8 @@ SPR_bombers:0 "Bomber-Bemühungen"
 SPR_bombers_desc:0 "Um der Armee wirklich zu helfen, muss unsere Luftwaffe in der Lage sein, befestigte Stellungen zu zerstören und die feindliche Infrastruktur zu stören. Um dies zu erreichen, sollten wir uns auf die Entwicklung neuer taktischer und strategischer Bomber konzentrieren."
 SPR_voice_of_heaven:0 "Augen des Himmels"
 SPR_voice_of_heaven_desc:0 "Radar ist eine vielversprechende neue Technologie, die bei weiterer Entwicklung eine Fülle von Informationen über feindliche Taktiken und Positionen liefern und den Kurs feindlicher Flugzeuge aufdecken könnte. Mehrere Piloten haben begonnen, Radar die Augen Gottes zu nennen, um zu erfahren, wie viel sie enthüllen und sehen können."
-SPR_paratroopers:0 "Fallschirmjäger"
-SPR_paratroopers_desc:0 "Fallschirmjäger sind ein neuer Einheitentyp, mit dem Einheiten in ansonsten unzugänglichen Bereichen eingesetzt werden können. Durch die Entwicklung fortschrittlicherer Flugausrüstung verfügen wir über einen einzigartigen taktischen Vorteil gegenüber unseren Feinden."
+SPR_paratroopers_focus:0 "Fallschirmjäger"
+SPR_paratroopers_focus_desc:0 "Fallschirmjäger sind ein neuer Einheitentyp, mit dem Einheiten in ansonsten unzugänglichen Bereichen eingesetzt werden können. Durch die Entwicklung fortschrittlicherer Flugausrüstung verfügen wir über einen einzigartigen taktischen Vorteil gegenüber unseren Feinden."
 SPR_colonial_air_ports:0 "Kolonialflughäfen"
 SPR_colonial_air_ports_desc:0 "Wir sollten unsere Flughäfen innerhalb unserer Kolonien erweitern. Dies soll es der Luftwaffe ermöglichen, schnell von Spanien in die Kolonien zu gelangen, um die Kolonien vor allen zu verteidigen, die versuchen würden, sie uns abzunehmen."
 SPR_rule_the_skies:0 "Den Himmel beherrschen"

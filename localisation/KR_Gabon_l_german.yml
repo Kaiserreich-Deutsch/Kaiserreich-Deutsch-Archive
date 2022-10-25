@@ -1,5 +1,7 @@
 ﻿l_german:
 
+##Übersetzt von Thylon##
+
 Gabon_Focus:0 "Schwerpunktbaum von Gabun"
 
 ### Focus tree ###
@@ -41,54 +43,69 @@ gab.1.t:0 "Syndikalisten versuchen einen Coup!"
 gab.1.d:0 "Nach der Destabilisierung, die mit dem Sturz von Mittelafrika einherging, versucht die syndikalistische Partei Gabuns unter der Führung von Charles N'Tchoréré, ein für alle Mal die Kontrolle über die Regierung zu übernehmen!"
 gab.1.a:0 "Der Coup ist gelungen!"
 gab.1.b:0 "Unsere jungen demokratischen Institutionen überstehen ihre erste Hürde."
+
 gab.2.t:0 "Geschenk der Kommune"
 gab.2.d:0 "Die französische Kommune hat uns 50 wunderschöne Kampfflugzeuge geschenkt, um unseren Kampf in die Luft zu tragen!"
 gab.2.a:0 "Okay."
+
 gab.3.t:0 "Gabun braucht Gewehre!"
 gab.3.d:0 "Der afrikanische Staat Gabun hat uns um Hilfe bei der Versorgung seiner Truppen gebeten. Das wäre eine gute Gelegenheit für uns, auf dem ehemaligen mittelafrikanischen Territorium besser Fuß zu fassen."
 gab.3.a:0 "Gebt ihnen, was sie wollen."
 gab.3.b:0 "Lehnt ab."
+
 gab.4.t:0 "Frankreich sagt Ja!"
 gab.4.d:0 "Frankreich hat unseren Hilferuf erhört und uns mit den Waffen versorgt, die wir dringend benötigten!"
 gab.4.a:0 "Großartig!"
+
 gab.5.t:0 "Frankreich sagt Nein!"
 gab.5.d:0 "Frankreich hat sich geweigert, auf unseren Hilferuf zu hören, und uns uns selbst überlassen!"
 gab.5.a:0 "Wer braucht sie?"
+
 gab.6.t:0 "Gabun braucht Gewehre!"
 gab.6.d:0 "Der afrikanische Staat Gabun hat uns um Hilfe bei der Versorgung seiner Truppen gebeten, dies wäre eine gute Gelegenheit, im ehemaligen mittelafrikanischen Gebiet besser Fuß zu fassen."
 gab.6.a:0 "Gebt ihnen, was sie wollen."
 gab.6.b:0 "Lehnt ab."
+
 gab.7.t:0 "Frankreich sagt ja!"
 gab.7.d:0 "Frankreich hat unseren Hilferuf erhört und uns mit den Waffen versorgt, die wir dringend benötigten!"
 gab.7.a:0 "Großartig!"
+
 gab.8.t:0 "Frankreich sagt nein!"
 gab.8.d:0 "Frankreich hat sich geweigert, auf unseren Hilferuf zu hören, und uns uns selbst überlassen!"
 gab.8.a:0 "Wer braucht sie?"
+
 gab.9.t:0 "Gabun will sich der Entente anschließen"
 gab.9.d:0 "Der kleine afrikanische Staat will unserer Allianz beitreten"
 gab.9.a:0 "Ja!"
 gab.9.b:0 "Nein."
+
 gab.10.t:0 "Die Entente lädt Gabun ein!"
 gab.10.d:0 "Die Entente hat auf unsere Anfrage mit einem eindeutigen Ja geantwortet!"
 gab.10.a:0 "Ja!"
+
 gab.11.t:0 "Die Entente lehnt Gabun ab!"
 gab.11.d:0 "Die Entente hat auf unsere Anfrage mit einem klaren Nein geantwortet."
 gab.11.a:0 "Verdammt!"
+
 gab.12.t:0 "Gabun möchte der Dritten Internationale beitreten
 gab.12.d:0 "Der kleine afrikanische Staat Gabun, unter der Führung von Charles N'Tchoréré, möchte unserem Bündnis beitreten."
-gab.12.a:0 "ja!"
+gab.12.a:0 "Ja!"
 gab.12.b:0 "Nein."
+
 gab.13.t:0 "Die Dritte Internationale lädt Gabun ein!"
 gab.13.d:0 "Die Dritte Internationale hat auf unsere Anfrage mit einem eindeutigen Ja geantwortet!"
 gab.13.a:0 "Ja!"
+
 gab.14.t:0 "Die Dritte Internationale lehnt Gabun ab!"
 gab.14.d:0 "Die Dritte Internationale hat auf unsere Anfrage mit einem klaren Nein geantwortet."
 gab.14.a:0 "Verdammt!"
+
 gab.15.t:0 "Die erste Wahl in Gabun!"
 gab.15.d:0 "Unsere neu entworfene Verfassung fordert eine demokratische Wahl unseres ersten gewählten Führers! Mehrere Parteien haben ähnlich starke Unterstützung, sodass die Wahl heute Abend in jede Richtung ausschlagen könnte!"
 gab.15.a:0 "Die Sozialkonservativen gewinnen!"
 gab.15.b:0 "Die Marktliberalen gewinnen!"
 gab.15.c:0 "Die Sozialliberalen gewinnen!"
+
 gab.16.t:0 "Der erste gabunische Syndikalistenkongress!"
 gab.16.d:0 "Nach der Ausarbeitung der Verfassung von Gabun bricht auf dem Parteitag ein Streit aus, die drei großen syndikalistischen Fraktionen müssen sich einigen, welche die Regierungspartei von Gabun werden soll! Eine große Debatte beginnt..."
 gab.16.a:0 "Die radikalen Sozialisten regieren!"

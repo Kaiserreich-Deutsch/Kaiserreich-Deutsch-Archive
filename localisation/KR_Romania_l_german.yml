@@ -33,9 +33,11 @@ ROM_social_conservative_party_PNT_long:0 "Aripa de Dreapta a Partidul National T
 
 ### Companies ###
 malaxa:0 "Malaxa"
+ malaxa_mechanized:0 "Malaxa"
 universitatea_bucuresti:0 "Universität von Bukarest"
 rafinaria_steaua_romana:0 "Raffinerie Steaua Romana"
 fabrica_de_arme_cugir:0 "Fabrica de Arme Cugir"
+ societatea_concordia:0 "Societatea Concordia"
 udr:0 "UDR"
 caile_ferate_romane:0 "Caile Ferate Romane"
 leonida:0 "Leonida"
@@ -318,10 +320,9 @@ ROM_pol_king_d:0 "Dies zu tun, wird §Gdes König´s politischen Einfluss§! §R
 ROM_pol_cap:0 "Verbessert §GCodreanu's§! Einfluss.\n"
 ROM_pol_cap10:0 "Verbessert stark §GCodreanu's§! Einfluss.\n"
 ROM_pol_cap_d:0 "Dies zu tun, wird §GCodreanu's politischen Einfluss§! §Rfördern§!.\n"
-ROM_select_czc:0 "§CSie werden sich auf die Seite der Legionärsbewegung stellen.§!\n"
-ROM_select_carol:0 "§CSie werden die Ambitionen von König Carol II. unterstützen.§!\n"
+ROM_select_czc:0 "Sie werden aus der Perspektive der Legionärsbewegung spielen. Ihr politischer Machtzuwachs wird an die Popularität der "Nationalen Populisten" gebunden sein.\n"
+ROM_select_carol:0 "Sie spielen aus der Perspektive von König Carol II. Ihr politischer Machtzuwachs ist an die Popularität von §PVäterliche Autokratie§! gebunden.\n"
 
-ROM_bulgaria_ultimatum_tt:0 "Schaltet £decision_icon_small §HEntscheidung§! frei, um §Ein Ultimatum an Bulgarien zu stellen.§!"
 ROM_prepare_union_tooltip:0 "Schaltet £decision_icon_small §HEntscheidung§! zur §Unterstützung der Separatisten in Siebenbürgen§! frei.\n"
 ROM_ultimatum_tooltip:0 "Ermöglicht £decision_icon_small die §HEntscheidung§! §HBeanspruchung Siebenbürgens§!.\n"
 ROM_TRS_IG_tooltip:0 "Durch die Ausweitung der §GLegionären Bewegung§! über die Karpaten hinaus wird die Eiserne Garde an Stärke gewinnen, sollten wir die Wiedervereinigung vollziehen."
@@ -329,7 +330,7 @@ ROM_carpathian_recon_tooltip:0 "Die Kartierung der Grenzverteidigung wird unsere
 ROM_revolt_strongest:0 "§RGanz Siebenbürgen wird sich mit uns erheben.§!"
 ROM_revolt_strong:0 "§OEin großer Teil Siebenbürgens wird sich mit uns erheben.§!"
 ROM_revolt_medium:0 "§YEin beträchtlicher Teil Siebenbürgens erhebt sich mit uns.§!"
-ROM_revolt_weak:0 "§gIn Siebenbürgen gibt es nur wenig Unterstützung für die Rebellion.§!"
+ROM_revolt_weak:0 "§gIn Siebenbürgen gibt es wenig Unterstützung für die Rebellion.§!"
 ROM_revolt_none:0 "§gEs gibt keine Unterstützung für einen bewaffneten Aufstand in Siebenbürgen.§!"
 ROM_loose_ends_tt1:0 "Schaltet £decision_icon_small §HEntscheidung§! zu §HBeanspruchung Bucovinas§! frei."
 ROM_loose_ends_tt2:0 "Schaltet £decision_icon_small §HEntscheidung§! zu §HBeanspruchung West Banats§! frei."
@@ -375,10 +376,6 @@ PP_30_support_30_tooltip:0 "Es kostet$PP_30_support_30_blocked$ die Entscheidung
 CP_80_PP_50:0 "£command_power §H80§! £pol_power §H50§!"
 CP_80_PP_50_blocked:0 "£command_power §R80§! £pol_power §R50§!"
 CP_80_PP_50_tooltip:0 "Es kostet $CP_80_PP_50_blocked$ die Entscheidung zu treffen"
-
-CP_80:0 "£command_power §H80§!"
-CP_80_blocked:0 "£command_power §R80§!"
-CP_80_tooltip:0 "Es kostet $CP_80_blocked$ die Entscheidung zu treffen"
 
 PP_25_CP_100:0 "£pol_power §H25§! £command_power §H100§!"
 PP_25_CP_100_blocked:0 "£pol_power §R25§! £command_power §R100§!"
@@ -513,7 +510,6 @@ ROM_nice_holiday:0 "Königlicher Urlaub in Nizza"
 ROM_portugal_holiday:0 "Königlicher Urlaub in Estoril"
 ROM_rio_holiday:0 "Königlicher Urlaub in Rio de Janeiro"
 
-ROM_dobrogea_ultimatum:0 "Ultimatum an Bulgarien"
 ROM_issue_ultimatum:0 "Siebenbürgisches Ultimatum"
 ROM_fund_separatist:0 "Separatistische Zellen finanzieren"
 ROM_propaganda_campaign:0 "Verbreiten Sie Anti-[ROM_propaganda_decision_target] Propaganda"
@@ -608,7 +604,7 @@ ROM_promotion_of_indigenous_capital:0 "Einheimisches Kapital fördern"
 
 ### Focuses ###
 
-ROM_focus_tree:0 "Rumänischer Schwerpunktbaum"
+ROM_focus_tree:0 "Schwerpunktbaum von Rumänien"
 
 ROM_manoeuvres_in_the_carpathians:0 "Manöver in den Karpaten"
 ROM_manoeuvres_in_the_carpathians_desc:0 "Die Karpaten spalteten das rumänische Volk in zwei Hälften; die eine Hälfte lebte innerhalb unserer Nation, die andere unter dem drückenden Stiefel der ungarischen Herrschaft. Artikel XI des Vertrages von Bukarest trat die Pässe und das umliegende strategische Gebiet an Österreich-Ungarn ab, aber wir wissen, dass dieses Land eines Tages zurückerobert werden wird. Groß angelegte Manöver an der Grenze werden unser Engagement für unsere Volksgenossen demonstrieren."
@@ -647,8 +643,6 @@ ROM_sentinels_of_the_fatherland_desc:0 "In dem Bewusstsein, dass die Jugend die 
 
 ROM_prepare_the_grand_union:0 "Alles für das Land"
 ROM_prepare_the_grand_union_desc:0 "Der rumänische Ausdruck Totul pentru Ţara, wörtlich \"Alles für das Land\", ist der offizielle Name der Eisernen Garde. Es ist die Pflicht eines jeden Rumänen, sich für sein Land zu opfern, und wir müssen die Menschen daran erinnern."
-ROM_demand_dobrudzha:0 "Über die Donau"
-ROM_demand_dobrudzha_desc:0 "Seit unserer vernichtenden Niederlage im Weltkrieg, die durch den Vertrag von Bukarest bestätigt wurde, ist Dobrogea ein Teil von Bulgarien. Die rumänische Minderheit, die diese Region bewohnt, leidet unter den ständigen Versuchen der bulgarischen Magistrate, jede Spur der rumänischen Identität in Dobrogea vollständig auszurotten. Wir müssen ihre und unsere Interessen schützen."
 ROM_across_the_carpathians:0 "Über die Karpaten"
 ROM_across_the_carpathians_desc:0 "Unsere Kriegspläne von vor über zwanzig Jahren waren zwar in der Theorie gut, wurden aber in der Praxis durch zahlreiche Faktoren behindert. Wir werden sie weiter verfeinern, um im Angesicht des feindlichen Feuers noch widerstandsfähiger zu sein, damit wir, wenn die Zeit gekommen ist, erfolgreich den gewagten Sprung über die Berge wagen und unsere Verwandten befreien können."
 ROM_transylvania_or_war:0 "Siebenbürgen oder Krieg"
@@ -951,40 +945,48 @@ romania.0.t:0 "Königreich Rumänien, 1936"
 romania.0.d:0 "Das Königreich Rumänien war noch ein relativ junges Land, als es 1916 mit großen Ambitionen, Siebenbürgen von den Ungarn zu erobern, in den Weltkrieg eintrat - ein Traum, der bis heute unerfüllt geblieben ist. Trotz einiger anfänglicher Erfolge im Jahr 1916 wurde das kleine Land schnell von deutschen, österreichischen und bulgarischen Truppen überwältigt. Trotz aller Widrigkeiten brach die rumänische Armee nicht zusammen und errichtete stattdessen neue Stellungen um Iasi. Mit Hilfe der Russen und Franzosen bauten sie ihre Kräfte wieder auf und schlugen die Mittelmächte immer wieder zurück. Das Ende kam erst, als die russische Revolution und der Zusammenbruch der Ostfront die Position Rumäniens unhaltbar machten.\n\nViele junge Männer waren für ein Ideal gestorben, das sich letztlich als unerreichbar erwies, und die Situation im Land selbst hatte sich umsonst verbessert. Der Vertrag von Bukarest war bitter, umso mehr, weil die rumänische Armee gut gekämpft hatte. Damit entstand das Dolchstoß-Narrativ - Rumänien wurde von den Russen verraten, sie wurden von der westlichen Entente allein gelassen, sie wurden von innen durch verräterische Minderheiten wie Juden sabotiert. Radikale Bewegungen kamen schnell auf, angeheizt durch Verbitterung, Revanchismus und soziale Probleme wie ungleiche Landnutzung. Bis 1936 ist die stärkste dieser Bewegungen die Legion des Erzengels Michael, im Volksmund als Legionärsbewegung bekannt, angeführt vom jungen und charismatischen Corneliu Codreanu, dem Kapitän der Eisernen Garde.\n\nIm Jahr 1927 starb König Ferdinand und wurde von seinem Sohn Carol II. abgelöst. Obwohl Carol den Ruf hatte, ein Frauenheld zu sein, hatte der Krieg seine Spuren hinterlassen. Sein Traum ist klar: Er will da anknüpfen, wo sein Vater versagt hat.  In seinem Streben fand der König einen ebenso getriebenen Verbündeten und schloss einen Pakt mit Codreanu. Zwei Männer, die in ihrem revanchistischen Eifer vereint waren, rissen das demokratische System bei den Wahlen 1933 auseinander. Nach der Ermordung des Premierministers I. G. Duca durch die Eiserne Garde, bildete Codreanu die erste Legionärsregierung: der erste Schritt in Richtung Großrumänien.\n\nWährend der König und der Hauptmann in ihrem revanchistischen Projekt Verbündete sein mögen, ist es klar, dass sie die Macht letztlich nicht teilen wollen. Das sogenannte "Große Spiel" zwischen diesen beiden Männern begann schnell nach den Wahlen, nachdem Codreanu seine ehrgeizige Landreform begonnen hatte, ein Thema, das bei seiner Basis sehr beliebt war. Einflussreiche Grundbesitzer wandten sich an den König, der wiederum Codreanu zwang, seine Reformen zu stoppen. Mit der wachsenden Feindschaft zwischen den beiden Männern kann der Machtkampf nur noch härter werden, da keiner von beiden bereit ist, die Macht abzugeben. Solange sie das gemeinsame Ziel von Großrumänien haben, werden sie zusammenarbeiten, aber danach...das weiß nur Gott."
 romania.0.a:0 "Eine neue Zukunft für Rumänien!"
 romania.0.b:0 "Wie funktioniert also das Große Spiel?"
+
 #Great Game Mechanics
 romania.1.t:0 "Mechanik des großen Spiels"
 romania.1.d:0 "Es gibt eine zusätzliche Ressource, die sowohl von Codreanu als auch vom König genutzt wird: Einfluss. Neue Gesetze und Richtlinien erfordern die Zustimmung sowohl der von den Legionären kontrollierten Versammlung als auch des Königs. Dies zwingt beide Parteien dazu, Zugeständnisse zu machen, um ihre eigene Agenda voranzutreiben.\n\nNachdem Sie entweder den Fokus Parteikontrolle festigen oder die Saat für die Kamarilla legen abgeschlossen haben, schalten Sie eine Reihe von Entscheidungen frei, um mit dem System entweder aus Codreanus oder aus Carols Sicht zu interagieren. Die Entscheidung des politischen Weges ist eine Entscheidung für eine Seite, und wenn Sie es schaffen, diese Seite nach der Vereinigung an der Macht zu halten, wird Ihre Nation stärker sein, als wenn sie die Kontrolle wechselt.\n\nZusätzlich zu den Entscheidungen erhält man §bEinfluss§! aus dem politischen Zweig des Fokusbaums und gibt ihn vor allem für den Landreformzweig aus, der Einfluss benötigt, um voranzukommen. Aber Vorsicht, Ihr Gegner hat auch seinen eigenen Einfluss, der ihm mehr Macht verleiht und viele Ereignisse ermöglicht, die nicht unbedingt zu Ihrem Vorteil sind."
 romania.1.a:0 "Dem Sieger gehört die Beute!"
+
 #Union Day
 romania.7.t:0 "Tag der Union"
 romania.7.d:0 "Der Tag der Union steht für die Vereinigung der Fürstentümer Moldau und Walachei am 24. Januar 1859, als Alexandru Ioan Cuza in beiden Fürstentümern zum "Domnitor" gewählt wurde, um das Urteil zu umgehen, dass sich die beiden nicht in einem einzigen Staat vereinigen können. Er wird in Rumänien als Nationalfeiertag betrachtet."
 romania.7.a:0 "Alles für das Vaterland!"
+
 ##Greater Union Day WIP
 
 ##Black Monday
 romania.2.t:0 "Berliner Absturz trifft Bukarest"
 romania.2.d:0 "Heute war ein furchtbarer Tag für die Börse in Bukarest, da viele wichtige Banken und Unternehmen nach der Kettenreaktion, die mit dem Absturz der Berliner Börse begann, in den Sturzflug übergegangen sind. Viele Unternehmen in Rumänien waren im Besitz großer deutscher und österreichischer Konzerne, die nun in Trümmern liegen. Die Arbeitslosenquote ist in die Höhe geklettert und der Exportsektor wurde schwer getroffen, nachdem die Nachfrage nach Öl und landwirtschaftlichen Produkten in Mitteleuropa eingebrochen ist."
 romania.2.a:0 "Selbst jetzt finden sie Wege, uns zu quälen."
+
 ##Nationalization of the Foreign Assets
 romania.3.t:0 "Verstaatlichung von deutschen Konzernen"
 romania.3.d:0 "Mit dem Zusammenbruch der deutschen Banken kollabierten auch die deutschen Konzerne, die große Teile der rumänischen Ölindustrie besaßen. Die exportorientierte Wirtschaft Rumäniens stürzte hart ab, nachdem die Nachfrage nach Öl und landwirtschaftlichen Produkten im Reichspakt, dem wichtigsten Handelspartner Rumäniens, den Tiefpunkt erreicht hatte. Die Arbeitslosigkeit schnellte innerhalb von zwei Wochen in die Höhe, und unsere größte Bank steht am Rande des Zusammenbruchs.\nWährend die meisten nicht-syndikalistischen Länder den Zusammenbruch einfach hinnehmen müssen, hat unsere Regierung eine bedeutende Kontrolle über das Wirtschaftssystem. Sollten wir es wünschen, könnten wir die Vermögenswerte der abgestürzten deutschen Konzerne recht billig erwerben und die Raffinerieindustrie verstaatlichen und dabei Tausende rumänischer Arbeitsplätze retten. Das mag in Berlin nicht populär sein, aber es würde eine starke Botschaft über Codreanus Regierung und ihr Engagement für das Wohl aller Rumänen aussenden."
 romania.3.a:0 "Genug von Berlin. Verstaatlichen Sie Industrien aus deutschem Besitz."
 romania.3.b:0 "Fahren Sie mit der Verstaatlichung fort, aber zahlen Sie den Konzernen einen bescheidenen Preis."
+
 ##Germans hear about the nationalization
 romania.69.t:0 "Rumänien verstaatlicht die Ölfelder"
 romania.69.d1:0 "Nach dem völligen Zusammenbruch der Oil-Lands Pachtgesellschaft, die die Ölfelder in Ploiesti verwaltet, ging die Regierung Codreanu dazu über, die Vermögenswerte des bankrotten Unternehmens zu verstaatlichen. Es ist ein weiterer Fall, in dem die Rumänen den Bukarester Vertrag brechen, aber es gibt wenig, was wir tun können, um sie zu stoppen - und die Öffentlichkeit kümmert sich auch nicht sonderlich um dieses Thema."
 romania.69.d2:0 "Nach dem völligen Zusammenbruch der Oil-Lands Pachtgesellschaft, die die Ölfelder in Ploiesti verwaltet, ging die Regierung Codreanu dazu über, die Vermögenswerte des bankrotten Unternehmens zu verstaatlichen. Sie boten zwar einen "fairen Preis" für das Unternehmen an - was praktisch eine bedeutungslose Geste ist, aber immerhin eine Geste des guten Willens. Es gibt wenig, was wir tun können, um sie zu stoppen - und die Öffentlichkeit interessiert sich auch nicht sonderlich für dieses Thema."
 romania.69.a:0 "Wenn sie glauben, dass sie ohne Mitteleuropa überleben können, dann soll es so sein!"
 romania.69.b:0 "Wir sind zu beschäftigt, um uns über belanglose Dinge Gedanken zu machen."
-##Organize Relief Work
+
+##Organise Relief Work
 romania.4.t:0 "Hilfsarbeiten für Arbeitslose"
 romania.4.d:0 "Obwohl wir die Auswirkungen der wirtschaftlichen Rezession ziemlich effektiv gemildert haben, gibt es immer noch eine große Anzahl von Arbeitslosen in Rumänien. Die Regierung schlägt die staatliche Finanzierung von Hilfsarbeiten in den von der Eisernen Garde verwalteten Arbeitskorps vor, während der König private Industrielle bei der Bereitstellung von Hilfsarbeitsplätzen unterstützen möchte. Während die erste Option ein sicheres Heilmittel gegen die Arbeitslosigkeit wäre, argumentieren die Befürworter der Politik des Königs, dass dies nur eine vorübergehende Maßnahme wäre, die der Wirtschaft als Ganzes nicht zugute käme."
 romania.4.a:0 "Der Dirigent wird Arbeit für seine Leute finden."
 romania.4.b:0 "Wirtschaftliche Erholung braucht die Privatwirtschaft!"
+
 ##Safeguard Banking Sector
 romania.5.t:0 "Rumänische Kreditbank"
 romania.5.d:0 "Nach dem Konkurs der Großbank Marmorosch-Blank im Jahr 1931 schuf die Regierung Sicherheitsvorkehrungen, um solche wirtschaftlichen Katastrophen in Zukunft zu verhindern. Der Oberste Bankenrat wurde 1934 zur Regulierung und Untersuchung des Bankensektors geschaffen, und die Institution war nie notwendiger als heute. Während Banken in vielen Ländern hart und schnell abstürzten, wurde ein totaler Zusammenbruch der Rumänische Kreditbank durch die Sicherheitsvorkehrungen des SBC verhindert. Die Katastrophe, die den großen, internationalen deutschen Banken das Rückgrat brach, ließ die rumänischen erstaunlich unversehrt."
 romania.5.a:0 "Großartig!"
+
 ##Entente Trade Deals
 romania.6.t:0 "Die Zukunft von Rumänien"
 romania.6.d:0 "Zu Beginn des Jahres 1936 tritt der Kampf zwischen den beiden konkurrierenden Führern des Landes, König Carol II. und Premierminister Codreanu, in eine neue Phase. Seit einiger Zeit festgefahren, geht den beiden der Raum aus, um sich gegenseitig auszuweichen. Immer häufiger prallen sie frontal aufeinander und es wird immer schwieriger, die Fassade der Zusammenarbeit aufrecht zu erhalten. Sowohl der König als auch der Kapitän erkennen, dass die Zeit gekommen ist, den anderen endgültig auszuschalten. Da die beiden Persönlichkeiten aufeinanderprallen, werden die Menschen zunehmend gezwungen sein, sich für eine Seite zu entscheiden oder sich den Konsequenzen der Neutralität allein zu stellen."
@@ -1003,89 +1005,107 @@ romania.10.t:0 "Doppelagent in der Kamarilla!"
 romania.10.d:0 "Die Kamarilla ist der inoffizielle Geheimrat Seiner Majestät und ist gefüllt mit seinen Anhängern und Beratern. Andererseits ist der gesellschaftliche Kreis um den König recht groß und es war nur eine Frage der Zeit, bis die Eiserne Garde ihn erfolgreich infiltrieren würde. Die Informationen, die sie erlangen konnten, könnten einen Skandal auslösen, in den ein Mitglied der Kamarilla verwickelt ist, wenn der Doppelagent nicht rechtzeitig ausgeschaltet wird."
 romania.10.a:0 "Der königliche Skandal ist aufgedeckt!"
 romania.10.b:0 "Bring ihn zum Schweigen."
+
 #Street violence
 romania.11.t:0 "Gewalt auf den Straßen!"
 romania.11.d:0 "Während die Legion die parlamentarischen Aktivitäten an der kurzen Leine hält, wurde die Opposition gegen Codreanu quer durch das politische Spektrum nie ganz zum Schweigen gebracht. Heute früh waren Aktivisten auf die Straße gegangen, um zu protestieren, und wurden von Codreanus Grünhemden gewaltsam auseinandergetrieben. Während es ungewiss ist, ob ihr Anführer ihre Aktionen befohlen hat, sind wir in der Lage, bei den Kämpfen ein Auge zuzudrücken und die Eiserne Garde die Dissidenten zum Schweigen bringen zu lassen, oder die Sicherheitskräfte eingreifen zu lassen, um die Grünhemden zu bekämpfen."
 romania.11.a:0 "Lasst die Degenerierten schreien."
 romania.11.b:0 "Sie sind nicht die einzigen, die kämpfen können!"
+
 #IG passes populist policies
 romania.12.t:0 "Codreanus populistische Politik"
 romania.12.d:0 "Da die Legion das Parlament weitgehend kontrolliert, legte Codreanu als Premierminister der Abgeordnetenkammer ein Gesetz vor. Es ist ein offenes Geheimnis unter den Parlamentariern, dass die Gesetzgebung wenig Substanz hat und dazu gedacht ist, das Volk zu umwerben und Unterstützung für das Landreformprogramm des Hauptmanns zu sammeln. Die Kamarilla von Carol II. ist unzufrieden damit, Codreanu mit solch unverhohlener Demagogie davonkommen zu lassen und schlägt vor, dass der König sein Veto gegen das Gesetz einlegt, aber das würde seiner Popularität bei einem großen Teil der Bevölkerung schaden. Alternativ wurde auch vorgeschlagen, dass der König seinen Einfluss nutzen oder den Premierminister bedrohen könnte, damit er stattdessen Seiner Majestät Anerkennung zollt und so das Image der Royalisten aufwertet."
 romania.12.a:0 "Akzeptieren Sie die Gesetzgebung."
 romania.12.b:0 "Legen Sie Ihr Veto gegen den traurigen Versuch ein, das Volk zu bestechen."
 romania.12.c:0 "Geben Sie deren Richtlinien als Ihre eigenen aus."
+
 #IG tightens censorship
 romania.13.t:0 "Codreanu verschärft Zensur."
 romania.13.d:0 "In einem weiteren Versuch, die Opposition zum Schweigen zu bringen, wurde eine Zeitung, die der Opposition gehört, von der Eisernen Garde gewaltsam geschlossen, bevor sie mit dem heutigen Druck beginnen konnte. Mit der Behauptung, die Zeitung habe in der Vergangenheit verleumderische Publikationen veröffentlicht, verkündete der Hauptmann lautstark, dass, bis die Medien \"reif\" seien, die Zensurgesetze verschärft werden müssten, um die Rumänen vor ihren Lügen zu schützen."
 romania.13.a:0 "Zumindest bringt es die Andersdenkenden zum Schweigen."
 romania.13.b:0 "Konzentrieren Sie sich stattdessen auf parteiinterne Medien."
+
 #Legionary rally
 romania.14.t:0 "Großes Treffen der Legionäre!"
 romania.14.d:0 "Die Legion des Erzengels Michael ist stolz auf ihre Massenkundgebungen, die Tausende von Anhängern versammeln. Diese Kundgebungen beinhalten jedoch feurige Reden mit unverhohlener antisemitischer Rhetorik und zunehmenden Aufrufen zur Gewalt gegen vermeintliche Feinde der Nation. Außerdem sieht der König diese Machtdemonstrationen seines Rivalen als eine eklatante Bedrohung seiner Herrschaft. Natürlich könnte König Carol Codreanu mit seiner königlichen Großzügigkeit beschenken und ihm und seinen Schlägern im Austausch für Gefälligkeiten, wie z.B. die Überlassung der Bühne an Seine Majestät, erlauben, so viel zu demonstrieren, wie sie wollen, oder es gänzlich verbieten. Dies würde jedoch wahrscheinlich zu einer wütenden Reaktion der Legion und ihrer berüchtigten Grünhemden führen."
 romania.14.a:0 "Verbietet ihr kleines Treffen."
 romania.14.b:0 "Erlauben Sie es... mit einem Preis."
+
 #King's public appearance
 romania.15.t:0 "König tritt öffentlich auf"
 romania.15.d:0 "Bis vor kurzem ist König Carol oft an der Seite von Premierminister Codreanu in der Öffentlichkeit aufgetreten, um die Einigkeit der beiden Staatsoberhäupter zu demonstrieren. Der König hat jedoch damit begonnen, alleine in der Öffentlichkeit aufzutreten, oft aus dem Stegreif, ohne den Hauptmann zu informieren. Es ist kein Geheimnis, dass Carol hofft, eine persönliche Unterstützungsbasis unabhängig von der Legion aufzubauen, und das ist eindeutig eine Bedrohung für Codreanus eigene Position. Entweder wir lassen den König paradieren und vermeiden eine Kontroverse, da die Nation geeint erscheinen muss, oder wir protestieren gegen diese Zurschaustellungen, da Carol selbstsüchtig droht, ihre Zusammenarbeit zu sabotieren."
 romania.15.a:0 "Soll er doch die Massen unterhalten, wenn er das möchte."
 romania.15.b:0 "Protestieren Sie gegen seine Entscheidung."
+
 #Carol's conspirators revealed
 romania.16.t:0 "Royalistische Verschwörer im Offizierskorps"
 romania.16.d:0 "Die königliche rumänische Armee ist immer unabhängig vom Kampf zwischen Carol II. und Codreanu geblieben, auch wenn die beiden Anführer Unterstützer innerhalb der Armee haben. Es ist jedoch klar geworden, dass eine Reihe von Offizieren immer unverhohlenere Loyalität zum König zeigen und möglicherweise versuchen, die Unterstützung der Armee gegen Codreanu zu gewinnen. Bevor diese königliche Verschwörung aus dem Ruder läuft, sollte man den Generalstab davon überzeugen, diese großmäuligen Royalisten zu bestrafen. Codreanu hütet sich jedoch davor, sich in militärische Angelegenheiten einzumischen, denn er weiß, wie sehr sie Einmischung verachten und wie abhängig er von ihrer distanzierten Haltung gegenüber der Politik ist."
 romania.16.a:0 "Bestrafen Sie diese hart."
 romania.16.b:0 "Wir müssen auf der guten Seite des Militärs bleiben."
+
 #King's high society contacts
 romania.17.t:0 "Königs Kontakte zur Oberschicht"
 romania.17.d:0 "König Carol II. ist ein aktives Mitglied der rumänischen Oberschicht. Von wohlhabenden Industriellen bis hin zu Künstlern und Gesellschaftsgrößen neigt er dazu, sie sowohl persönlich als auch finanziell zu unterstützen, und sie schätzen die Unterstützung Seiner Majestät. Viele von ihnen sind begierig darauf, den König persönlich zu treffen und sein Ohr zu genießen, egal welches Problem oder Projekt von ihnen es braucht. Auf der anderen Seite ist Premierminister Codreanu vorsichtig gegenüber diesen Kontakten, da sie sein eigenes Ansehen in dem komplexen Kreis bedrohen, zu dem die rumänische Regierung geworden ist. Er kann seinen Einfluss nutzen, um diese Kontakte zu begrenzen und sicherzustellen, dass di"
 romania.17.a:0 "Sie sollen den König treffen."
 romania.17.b:0 "Vielleicht ist der König im Moment beschäftigt."
+
 #King sows discontent among legion
 romania.18.t:0 "Uneinigkeit in der Eisernen Garde"
 romania.18.d:0 "Die Legion des Erzengels Michael, oder Eiserne Garde, hat sich zu einer mächtigen Massenbewegung mit einer großen Anhängerschaft entwickelt. Trotz strenger ideologischer Disziplin ist die Garde jedoch nicht monolithisch und sie sieht sich zunehmend mit Nonkonformismus innerhalb ihrer breiten Mitgliedschaft konfrontiert. Diese nonkonformistischen Tendenzen, sei es in Richtung Radikalismus oder Moderatismus, haben es dem König ermöglicht, Spaltungen innerhalb der Bewegung auszunutzen, was einige junge, freimütige Legionäre dazu veranlasst, die Führung der Legion zu kritisieren. Dass diese Abweichler bestraft werden, ist sicher, aber der Grad dieser Bestrafung ist es nicht - Cordeanu möchte diese Uneinigkeit in der Legion vielleicht nicht bekannt machen oder jüngere Mitglieder entfremden, deren Unterstützung zaghaft bleibt."
 romania.18.a:0 "Bestrafen Sie die Nonkonformisten."
 romania.18.b:0 "Sie sind jung, sie werden lernen."
+
 #Anti-IG newspaper propaganda
 romania.19.t:0 "Anti-Legionäre Propaganda"
 romania.19.d:0 "Zeitungen im ganzen Land sind in letzter Zeit aus dem Boden geschossen, die alle Propaganda gegen Codreanu und die Legion verbreiteten. Als die Grünhemden versuchten, sie abzuschalten, fanden sie jedoch entweder die Papierspur, die zu Leuten führte, die unter dem Schutz des Königs standen, oder sie wurden von den eigenen Paramilitärs des Königs in einen Hinterhalt gelockt, wenn sie weitermachten. Bis auf Weiteres wurde die Propaganda gegen die Regierung erfolgreich in ganz Rumänien verbreitet."
 romania.19.a:0 "Dieser verdammte König!"
+
 #Legionary Worker Corps
 romania.20.t:0 "Arbeiterlegionärskorps"
 romania.20.d:0 "Das Arbeiterlegionärskorps ist Codreanus Versuch, syndikalistische Methoden und Unterstützer in seine ultranationalistische Bewegung zu kooptieren. Im Wesentlichen ist das Korps eine korporatistische Vereinigung von rumänischen Arbeitern in einer strengen Hierarchie, ähnlich der Eisernen Garde, die die Gewerkschaften ersetzen soll. Während es behauptet, die Gleichheit von Arbeitern und Fabrikbesitzern anzustreben, ist es im Großen und Ganzen ein Versuch, mehr städtische Arbeiter in die Legion zu ziehen und sie als einen weiteren paramilitärischen Flügel zur Unterstützung der Bewegung zu mobilisieren."
 romania.20.a:0 "Besser grüne als rote Gewerkschaften!"
 romania.20.b:0 "Wir sollten ihren Einfluss einschränken."
+
 #Legion Expands
 romania.21.t:0 "Eiserne Garde wächst"
 romania.21.d:0 "Die Mitgliedschaft in der Legion des Erzengels Michael ist in letzter Zeit dank Codreanus jüngsten Erfolgen und seiner populistischen Rhetorik stark angestiegen. Es ist klar, dass seine Bewegung für gewöhnliche Rumänen attraktiver ist, unabhängig von der Demagogie des Hauptmanns, was dem Ansehen und der Popularität des Königs schadet."
 romania.21.a:0 "Verdammt sollen sie sein!"
+
 #Revanchist Rally
 romania.22.t:0 "Revanchistische Kundgebung"
 romania.22.d:0 "Revanchismus ist zu einer festen Größe in der rumänischen Politik geworden. Keine politische Bewegung, ob moderat oder radikal, kann sich ihm entziehen, und sich ihm zu widersetzen hat zu schrecklichen Konsequenzen für Politiker geführt, die als "Verräter" wahrgenommen werden. In den letzten Jahren hat die Eiserne Garde den revanchistischen Geist Rumäniens verkörpert und ihn in ihrer Rhetorik schamlos befeuert. Aus diesem Grund sind revanchistische Kundgebungen eng mit der Legion verbunden, wo sie gedeihen konnten. Diese Kundgebungen einzudämmen würde sich als kostspielige, unpopuläre Angelegenheit erweisen, auch wenn es den Einfluss und die Ausbreitung der Garde einschränken würde."
 romania.22.a:0 "Alles für das Land!"
 romania.22.b:0 "Die Aufwiegler sollten zurückgehalten werden."
+
 #Cross Brotherhoods
 romania.23.t:0 "Kreuzbrüderschaften wachsen"
 romania.23.d:0 "Die Bruderschaft des Kreuzes ist der Jugendflügel der Legion des Erzengels Michael und ist eine zunehmend prominente Institution unter rumänischen Kindern geworden. In letzter Zeit sind ihre Mitgliederzahlen in die Höhe geschnellt, was wahrscheinlich darauf zurückzuführen ist, dass sie nach zahlreichen Rekrutierungsaktionen und staatlicher Unterstützung allgegenwärtig geworden ist. Bruderschaften im ganzen Land helfen der Legion zu wachsen und werden sich auf lange Sicht als wesentlich erweisen, da sie die zukünftige Mitgliedschaft in der Garde sichern und den zukünftigen Kern der Bewegung organisieren."
 romania.23.a:0 "Alles für das Land!"
+
 #King Strengthens the Camarilla
 romania.24.t:0 "König erweitert die Kamarilla"
 romania.24.d:0 "Während die Kamarilla eine inoffizielle Organisation bleibt, hat Carol II. sie stetig gestärkt und beabsichtigt offensichtlich, dass sie eine offizielle Regierungsinstitution wird. Für den Moment bleibt der tatsächliche Einfluss des kleinen Geheimrats begrenzt, und Codreanu kann seine Existenz tolerieren, aber es wäre klug, sie im Auge zu behalten, sollten wir uns entscheiden, sie noch eine Weile existieren zu lassen."
 romania.24.a:0 "Er soll einen Feudalherrn spielen."
 romania.24.b:0 "Dieser Mann ist eine Bedrohung für Codreanu."
+
 #King's Philantrophy
 romania.25.t:0 "Carols II. Philanthropie"
 romania.25.d:0 "In einem offenkundigen Versuch, sein schlechtes Image zu verbessern, spendete König Carol große Geldsummen an zahlreiche Wohltätigkeitsorganisationen im ganzen Land. In der Hoffnung, sich ein Image als großzügiger Philanthrop zu schaffen, sorgte der König dafür, dass die Nachrichten über diese Spenden öffentlich gemacht und durch die königlichen Zeitungen verbreitet werden. Während wir die unverhohlene Aufforderung des Königs einfach ignorieren könnten, könnten wir auch versuchen, ihn in den Schatten zu stellen, indem wir die staatlichen Ausgaben für Wohltätigkeitsorganisationen und Dienstleistungen öffentlich erhöhen."
 romania.25.a:0 "Er soll seinen ungerechten Reichtum ausgeben."
 romania.25.b:0 "Zeigen Sie ihnen, dass sich auch der Staat kümmert!"
+
 #Royal Rural Outreach
 romania.26.t:0 "König reist übers Land"
 romania.26.d:0 "Während der König weiterhin sein miserables öffentliches Image aufbessert, haben ihn seine jüngsten Touren aufs rumänische Land geführt, wo er viele öffentliche Versammlungen und Reden gehalten hat, in denen er die rumänischen Bauern gepriesen und die Ergebnisse des Landreformprogramms inspiziert hat. Wir könnten den erbärmlichen Versuch des Königs, unsere Unterstützerbasis zu umwerben, einfach ignorieren und nicht zulassen, dass er noch mehr Aufmerksamkeit erhält, aber es könnte klug sein, ihm entgegenzuwirken und sicherzustellen, dass die Rumänen daran erinnert werden, wer sich wirklich um ihr Wohlergehen sorgt."
 romania.26.a:0 "Er sollte dort bleiben!"
 romania.26.b:0 "Zeigen Sie den Landwirten, wer sich wirklich um sie kümmert."
 romania.26.c:0 "Die Legion darf ihre Wurzeln nicht vergessen!"
+
 #Sentinels of the Fatherland
 romania.27.t:0 "Straja Tarii (Landwache) gegründet"
 romania.27.d:0 "Die Wächter des Mutterlandes sind der Jugendflügel der royalistischen Bewegung, der der wachsenden Stärke der legionseigenen Kreuzbruderschaften entgegenwirken soll. Wächter sind durch ein Glaubensbekenntnis gebunden: Glaube und Arbeit für Land und König. Wie die Kreuzbruderschaften bieten die Wächter eine militärische Ausbildung für die rumänische Jugend an, um sie zu loyalen Patrioten der Nation und ihres Königs, des "Großen Wächters", zu formen. Während wir für einige Zeit nicht in der Lage sein werden, ihren Erfolg zu erkennen, ist klar, dass die beiden Jugendbewegungen zwangsläufig aufeinanderprallen werden, sollten sich der König und Codreanu trennen."
 romania.27.a:0 "Was für fehlgeleitete junge Patrioten."
+
 #Political assassination
 romania.28.t:0 "Oppositionspolitiker ermordet!"
 romania.28.d:0 "Ein Politiker der Opposition wurde heute Morgen tot aufgefunden, nachdem Attentäter in sein Haus eingebrochen sind und ihn erschossen haben. Während es ein offenes Geheimnis ist, dass weder Legionäre noch Royalisten über den Tod eines Dissidenten bestürzt sind, sind beide Bewegungen begierig darauf, diese Gelegenheit für ihre eigenen Vorteile zu nutzen. So sind die Royalisten bestrebt, die Attentäter ordnungsgemäß zu bestrafen und Respekt für ein ordentliches Verfahren zu zeigen, die Legion bereitet sich auf Massenverhaftungen vor, um ihre politischen Rivalen weiter zu schwächen."
@@ -1093,23 +1113,27 @@ romania.28.a:0 "Pech gehabt."
 romania.28.b:0 "Bestrafen Sie die Mörder."
 romania.28.c:0 "Massenverhaftungen anordnen!"
 romania.28.e:0 "Diese Männer sind Helden."
+
 #Street Violence 
 romania.29.t:0 "Blut auf den Straßen"
 romania.29.d:0 "Paramilitärische Gewalt wurde immer häufiger, als die Eiserne Garde an Bekanntheit und Anzahl zunahm. Während die politische Opposition nicht leise untergegangen ist, seit Codreanu Premierminister wurde, war keine andere politische Gruppe in der Lage, ein so rücksichtsloses Paramilitär zu organisieren wie die Eiserne Garde der Legion und ihre Angriffe auf Dissidenten waren größtenteils einseitig, es sei denn, die Sicherheitskräfte griffen ein (und das taten sie größtenteils nicht). Ihre Gewalt zu stoppen und die bewaffneten Männer zu vertreiben, wird eine kostspielige Angelegenheit sein, auch wenn es dazu beiträgt, dass auf den Straßen Frieden herrscht. Außerdem war ihre Schlägerei praktisch, um die Opposition sowohl gegen den König als auch gegen die Regierung schwach zu halten."
 romania.29.a:0 "Sie waren Feinde der Nation."
 romania.29.b:0 "Das Gesetz muss befolgt werden."
 romania.29.c:0 "Der Krieg um die Seelen der Nation wird auf den Straßen gewonnen!"
+
 #Legionaries target synagogue
 romania.30.t:0 "Legionäre überfallen Synagogen"
 romania.30.d:0 "Antisemitismus ist in Rumänien definitiv nicht neu und schon seit einiger Zeit weit verbreitet, aber die Legion hat ihn auf ein bisher unvorstellbares Niveau gebracht. In der Vergangenheit ein häufiger Sündenbock, wurden jüdische Rumänen zunehmend zur Zielscheibe, als revanchistische Gefühle große Teile der rumänischen Bevölkerung radikalisierten. Mit alarmierender Regelmäßigkeit greifen Grünhemden Synagogen im ganzen Land an, wobei die Sicherheitskräfte oft ein Auge zudrücken. Nach dem erneuten antisemitischen Vorfall bleibt abzuwarten, wie die zerstrittenen Behörden reagieren werden."
 romania.30.a:0 "Es gibt immer Radikale."
 romania.30.b:0 "Bestrafen Sie die Verantwortlichen."
+
 #Strikes
 romania.31.t:0 "Fabrikarbeiter streiken"
 romania.31.d:0 "Während die Rote Angst, die durch den Fall Frankreichs an den Syndikalismus ausgelöst wurde, weitgehend verweht ist, waren die nachfolgenden rumänischen Regierungen schnell dabei, die Arbeiteragitation auszumerzen, wo immer sie aufkeimte. Mit der allmählichen Industrialisierung des Landes nahmen die Arbeitskonflikte zu. Die Legion ging hart gegen jede Art von offensichtlicher \"Syndikalisierung\" vor, da die Grünhemden regelmäßig als Streikbrecher angestellt oder freiwillig eingesetzt wurden. Wenn Fabrikarbeiter in Bukarest mit Streiks drohen, müssen die Behörden nur ein Wort sagen, und die Eiserne Garde macht kurzen Prozess mit ihnen. Natürlich sind Verhandlungen nicht ausgeschlossen, um eine Krise zu vermeiden, oder sogar einfach abzuwarten, bis die Arbeiter aufgeben."
 romania.31.a:0 "Lass sie streiken."
 romania.31.b:0 "Verhandeln Sie einen Kompromiss."
 romania.31.c:0 "Bestrafen Sie sie mit aller Härte!"
+
 #Democratic opposition
 romania.32.t:0 "Opposition spricht sich gegen Codreanu aus"
 romania.32.d:0 "Codreanu ist zwar Premierminister mit einer komfortablen Mehrheit in der Abgeordnetenkammer, hat aber keineswegs ein Monopol auf die parlamentarischen Aktivitäten. Da Codreanu die Zensur verschärft, seine Grünhemden bei jeder Bedrohung seiner Herrschaft entfesselt und der König bei den Übergriffen seines Premierministers scheinbar ein Auge zudrückt, hat eine Versammlung von Oppositionspolitikern öffentlich die Missachtung der Verfassung durch die Regierung Codreanu kritisiert. Die Demonstration bleibt relativ klein, da die Eiserne Garde sie im Auge behält und auf den Befehl wartet, sie aufzulösen."
@@ -1121,34 +1145,40 @@ romania.61.t:0 "Königliche Mätresse"
 romania.61.d:0 "Das rumänische Königshaus hat, wie jedes andere auch, eine lange Geschichte mit außerehelichen Affären und ehelicher Untreue. Es wird jedoch Diskretion erwartet: Skandale sollen vermieden und Liaisons beendet werden, sollte es zu einem solchen Skandal kommen. Der König jedoch scheint nicht nur keinerlei Diskretion zu besitzen, sondern auch sein Vergnügen daran zu haben, seinen frauenverachtenden Lebensstil öffentlich zur Schau zu stellen.\n\nDie Ursprünge von Elena \"Magda\" Lupescu ist eine Quelle der Verwirrung und Debatte. Es ist bekannt, dass sie ihren Katholizismus von ihrer Mutter geerbt hat, die eine konvertierte Jüdin ist; ihr Vater, ebenfalls jüdischer Abstammung, ist ein Apotheker, der zur östlichen Orthodoxie konvertierte. Sie war kurz mit einem gewissen Leutnant Ion Tampeanu verheiratet, ließ sich aber einige Zeit nach dem Krieg scheiden. Es ist nicht bekannt, wann sie den König kennenlernte, aber sie begann erst nach seiner Krönung an seiner Seite aufzutreten und wurde schnell zu einer seiner engsten Beraterinnen.\n\nDer König ist seit langem als Playboy bekannt, aber mit dieser neuen Mätresse verhält er sich anders. Im Gegensatz zu seinen früheren Affären scheint die Beziehung sehr stark zu sein, was Magda einen bedeutenden und anscheinend dauerhaften Einfluss in Carols innerem Kreis verleiht. Andererseits gerät sie zunehmend ins Visier der Gegner von König Carol, die versuchen, seine Position zu schwächen."
 romania.61.a:0 "Es ist nicht so, dass der König ihr etwas verweigern kann."
 romania.61.b:0 "Das ist genau die Art von Entartung, die unsere Nation in den Ruin treiben wird!"
+
 #Carol and Lupescu 2
 romania.62.t:0 "Schmutzkampagne gegen Lupescu"
 romania.62.d:0 "Die Geliebte des Königs, Magda Lupescu, wurde kürzlich von Zeitungen in ganz Rumänien ins Visier genommen, die mit der Legion verbündet sind, in einem ziemlich offensichtlichen Versuch, ihren Namen zu verleumden. Das Exposé beschreibt die \"jüdische Hure\" als die Macht hinter dem Thron und beschuldigt sie, Carol zu manipulieren und Codreanus Regierung zu unterwandern, besonders in Bezug auf sein Landreformprogramm. Die jüdische Herkunft ihrer Eltern wird hervorgehoben, um sie in den Augen einer zunehmend antisemitischen Öffentlichkeit weiter zu dämonisieren und sie als Kernstück einer anti-rumänischen Verschwörung zu platzieren. Der König ist, gelinde gesagt, absolut wütend und die Kampagne könnte sehr wohl eine öffentliche Spaltung zwischen ihm und seinem Premierminister verursachen."
 romania.62.a:0 "Wie können sie es wagen? Sie müssen sich sofort öffentlich entschuldigen!"
 romania.62.b:0 "Vielleicht sollte sie sich für einige Zeit zurückhalten."
 romania.62.c:0 "Was für ein Chaos sie verursacht haben."
+
 #King demands an apology
 romania.63.t:0 "König verlangt eine Entschuldigung"
 romania.63.d:0 "Wie erwartet, hat König Carol II. die Legion öffentlich für ihre jüngste Verleumdungskampagne gegen seine Geliebte, Madame Lupescu, ermahnt. Als Vergeltung hat der König verlangt, dass Premierminister Codreanu sich öffentlich für den Vorfall entschuldigt und die verantwortlichen Legionäre angemessen bestraft. Während Codreanu wenig Anstrengungen unternommen hat, seine Abscheu vor der Geliebten zu verbergen, sind er und der König auf ein Bild der Zusammenarbeit in ihrem gemeinsamen Ziel, Großrumänien zu schmieden, angewiesen und der Vorfall droht zu enthüllen, wie erbittert sie wirklich gegeneinander sind. Auf der anderen Seite wäre es eine öffentliche Demütigung für die Legion, sich vor Carol zu verbeugen und könnte die Einheit der Bewegung verletzen, da der Hauptmann von einem starken Personenkult abhängt."
 romania.63.a:0 "Selbst wenn sie Recht haben, ist es nicht ihre Aufgabe, über den König zu urteilen... noch nicht."
 romania.63.b:0 "Der Kapitän wird immer zu seinen Männern stehen!"
+
 #Codreanu compromises
 romania.64.t:0 "Codreanu stellt sich auf die Seite des Königs"
 romania.64.d:0 "Um einen öffentlichen Streit mit dem König zu vermeiden, stimmte Codreanu seinen Forderungen zu und entschuldigte sich öffentlich für den Angriff der Legion auf die Geliebte des Königs. Dies ist ein klarer Sieg für Carol, aber der Hauptmann besteht darauf, dass die Beziehungen zu Seiner Majestät vorerst reibungslos bleiben müssen. Er hat versprochen, dafür zu sorgen, dass die Übeltäter vor Gericht gestellt und entsprechend bestraft werden."
 romania.64.a:0 "Legionärstribunal reicht aus!"
 romania.64.b:0 "Das geht über Ihren kleinen Kult hinaus."
 romania.64.c:0 "Es ist ja nicht so, dass es in Rumänien überhaupt unparteiische Gerichte gäbe."
+
 #Codreanu doesn't give in
 romania.65.t:0 "Codreanu steht zu seinen Männern"
 romania.65.d:0 "Unwillig, sich vom König demütigen zu lassen, weigerte sich der Hauptmann, sich zu entschuldigen und stand zu den Aktionen seiner Männer gegen Madame Lupescu. Vorerst geht die Krise weiter und bedroht die Stabilität und das fragile Bündnis zwischen Legionären und Royalisten."
 romania.65.a:0 "Es ist unsere Pflicht, die Wahrheit zu sagen, auch wenn sie dem König nicht gefällt."
 romania.65.b:0 "Unterdrücken Sie deren Veröffentlichungen."
-#Codreanu criticized
+
+#Codreanu criticised
 romania.66.t:0 "Codreanu sieht sich mit Kritik aus den eigenen Reihen konfrontiert"
 romania.66.d:0 "Während der Captain der allmächtige Anführer der Eisernen Garde zu sein scheint, wurde unter den Legionären über seine unterwürfige Reaktion auf die Lupescu-Affäre geflüstert. Obwohl die Legion hoch diszipliniert ist und der Personenkult um Codreanu stark ist, haben die jüngsten Aktionen des Captains dieses einst absolute Vertrauen erschüttert. Ungeachtet dessen beharrt Codreanu darauf, dass dies die richtige Vorgehensweise war und dass das Zweckbündnis mit dem König weiterhin notwendig ist."
 romania.66.a:0 "Wir können niemals Groß-Rumänien erreichen, wenn wir uns ständig über irgendeine jüdische Hure zanken."
 romania.66.b:0 "Höre ich da Verräter?"
 romania.66.c:0 "Sollen sie sich doch zanken."
+
 #Battle of the wills
 romania.67.t:0 "Kampf des Willens"
 romania.67.d:0 "Die Krise zwischen König Carol II. und Hauptmann Codreanu hat einen Höhepunkt erreicht, da sie auf das Parlament übergeschwappt ist. Im Streit zwischen den beiden Staatsoberhäuptern wegen der Lupescu-Schmierkampagne drohte Carol schließlich damit, Codreanu zu entlassen und zu ersetzen, woraufhin der Hauptmann schließlich den Forderungen des Königs nachgab. Doch der Schaden ist bereits angerichtet, und beide Männer beanspruchen den Sieg über den anderen, denn Codreanu wurde zum Rücktritt gezwungen, aber nicht ohne einen Kampf für seine Männer."
@@ -1160,52 +1190,6 @@ romania.33.t:0 "Großer Sieg"
 romania.33.d:0 "Die Bulgaren sind besiegt! Der erste Schritt zur Umkehrung der Demütigung der Nation wurde erreicht; die bulgarische Hegemonie wurde erneut zerstört und unsere rechtmäßigen Ansprüche auf Dobrudscha sind wiederhergestellt. Nachdem der Süden gesichert ist, richten sich unsere Augen nach Westen zu unseren gefangenen Brüdern jenseits der Karpaten. Ihr Tag der Befreiung naht!"
 romania.33.a:0 "Lang lebe Rumänien!"
 
-#Plebiscite in Dobrogea
-romania.36.t:0 "Volksabstimmung in Dobrudzha?"
-romania.36.d:0 "Dobrudzha wurde während des Weltkrieges zurückerobert, aber die besiegten Rumänen haben die neue Situation nie akzeptiert. So haben sie vor allem im letzten Jahr versucht, die unserer Regierung feindlich gesinnten Einheimischen mit separatistischer Propaganda aufzuhetzen. In ihrem jüngsten Versuch, unseren Staat zu destabilisieren, hat die radikal-nationalistische rumänische Regierung für eine Volksabstimmung in der Region agitiert, bei der die Menschen darüber abstimmen sollten, ob sie es vorziehen würden, sich zu trennen und sich Rumänien anzuschließen oder innerhalb Bulgariens zu bleiben.\n\nDie beispiellosen Forderungen nach einem Referendum haben viel zur Destabilisierung der Region beigetragen, da ethnische Rumänen in Dobrudzha, die wahrscheinlich von Bukarest finanziert werden, die Idee angenommen haben und ihre Proteste lauter geworden sind, ziemlich zuversichtlich, dass die Bevölkerung der Region größtenteils pro-rumänisch ist und somit leicht zu einer Wiedervereinigung mit Rumänien führen würde.\n\nWir sind sicherlich nicht verpflichtet, auf ihre Forderungen einzugehen, denn unsere Ansprüche auf die Region sind gerecht und durch internationale Verträge anerkannt, während Plebiszite im internationalen Recht keinen Vorrang haben, was die rumänische Forderung zu einem bloßen Akt der Aggression macht. Andererseits würde die Zulassung des Referendums die Spannungen in der Region beruhigen, und es besteht eine gute Chance, dass das Volk zu unseren Gunsten abstimmt und damit unsere Ansprüche weiter zementiert. Wir könnten auch die Ergebnisse fälschen, wenn wir das wollen."
-romania.36.a:0 "Auf keinen Fall."
-romania.36.b:0 "Erlauben Sie es, aber manipulieren Sie die Ergebnisse."
-romania.36.c:0 "Erlauben Sie die Abstimmung."
-romania.36.e:0 "Kein Grund für diese Scharade, geben Sie es auf."
-romania.36.tt1:0 "Das Volk stimmt für die Vereinigung mit Rumänien."
-romania.36.tt2:0 "Das Volk stimmt dafür, Teil Bulgariens zu bleiben."
-#Bulgaria refuses
-romania.37.t:0 "Bulgarien hat die Volksabstimmung abgelehnt!"
-romania.37.d:0 "Die bulgarische Regierung hat sich geweigert, eine Volksabstimmung in der Dobrudscha zuzulassen. Offensichtlich haben sie zu viel Angst vor dem unvermeidlichen Ergebnis zu unseren Gunsten. Aber jetzt, da die friedliche Lösung verweigert wurde, haben wir einen gerechten Grund, die Rumänen Bulgariens von ihren Tyrannen in Sofia zu befreien. Die bulgarische Hegemonie muss mit Waffengewalt gestürzt werden, denn wenn wir jetzt nachgeben, machen wir uns nur zum Gespött Europas."
-romania.37.a:0 "Schickt die Armee!"
-romania.37.b:0 "Wir werden im Moment nichts unternehmen."
-#Bulgaria cheats
-romania.38.t:0 "Bulgarien manipuliert die Abstimmung!"
-romania.38.d:0 "Die bulgarische Regierung beugte sich dem Druck und stimmte zu, eine Volksabstimmung über die Zukunft der Dobrudscha zuzulassen. Es scheint jedoch, dass die Bulgaren Angst vor dem Ergebnis haben, denn es gibt bereits Hinweise, dass sie versuchen, es zu ihren Gunsten zu manipulieren. Da Sofia nicht die Absicht hat, ihren Teil der Abmachung einzuhalten, gibt es nur eine Möglichkeit, unseren Protest zu äußern: Schicken Sie die Truppen und sorgen Sie für ein freies Referendum!"
-romania.38.a:0 "Macht nichts, wir werden die Ergebnisse abwarten."
-romania.38.b:0 "Wie können sie es wagen? Schickt die Armee, um Dobrogea zurückzufordern!"
-#Results
-romania.39.t:0 "Das Ergebnis der Abstimmung in Dobrogea"
-romania.39.d:0 "Es überrascht nicht, dass die Menschen in Dobrogea für den Wiederanschluss an die rumänische Nation gestimmt haben. Es liegt nun an Sofia, ihren Teil der Abmachung einzuhalten und die Region an uns abzutreten."
-romania.39.a:0 "Das sollten sie besser tun."
-#Refusal
-romania.40.t:0 "Dobrogea lehnt Vereinigung ab"
-romania.40.d:0 "Shocking news: Die Menschen in Dobrudscha haben für Bulgarien gestimmt. Unser Plan, unsere Ansprüche auf die Region durch eine Volksabstimmung anerkennen zu lassen, ist komplett nach hinten losgegangen; wir werden unseren Anspruch auf andere Weise durchsetzen müssen, während wir eine weitere Demütigung auf der internationalen Bühne erleiden."
-romania.40.a:0 "Furchtbar."
-#Transfer
-romania.41.t:0 "Übertragung des Territoriums"
-romania.41.d:0 "Die Ergebnisse der Volksabstimmung in Dobrudzha sind da, und die Menschen haben für die Vereinigung mit Rumänien gestimmt. Nicht nur sind die Ansprüche unserer Feinde durch die Volksabstimmung gerechtfertigt, sondern es ist in den Augen der internationalen Gemeinschaft klar, dass unseren Ansprüchen auf die Region die Legitimität fehlt. Jetzt müssen wir den Preis zahlen und die Region abtreten oder die Armee diese Demütigung mit Gewalt rückgängig machen lassen."
-romania.41.a:0 "Demokratie hat auch Nachteile."
-romania.41.b:0 "Verweigern Sie die Übergabe von Dobrogea!"
-#Dobrogea prefers Romania
-romania.42.t:0 "Dobrogea kommt zu Rumänien"
-romania.42.d:0 "Bulgarien hat beschlossen, das Ergebnis der Volksabstimmung zu respektieren und hat uns Dobrogea übergeben. Während bulgarische Truppen und Verwalter abziehen, marschiert die rumänische Armee triumphierend und ohne Blutvergießen in Constanta ein und feiert einen beispiellosen diplomatischen Sieg."
-romania.42.a:0 "Großartig!"
-#Bulgaria hates democracy
-romania.43.t:0 "Bulgarien ignoriert das Ergebnis der Volksbefragung!"
-romania.43.d:0 "Obwohl das Volk für die Vereinigung mit Rumänien gestimmt hat, hat sich die Regierung Bulgariens geweigert, das Ergebnis anzuerkennen und stattdessen die Armee geschickt, um \"die Ordnung wiederherzustellen\". Jetzt ist der perfekte Zeitpunkt, unsere tapferen rumänischen Soldaten zu schicken, um die Ergebnisse des Referendums durchzusetzen und die Rumänen von Dobrogea zu befreien."
-romania.43.a:0 "Es gibt nichts, was wir tun können."
-romania.43.b:0 "Wie können sie es wagen? Schickt die Armee!"
-#Dobrogea prefers Bulgaria
-romania.44.t:0 "Dobrudzha stimmt für den Verbleib in Bulgarien"
-romania.44.d:0 "Unser Spiel hat sich ausgezahlt: Die Menschen in Dobrudzha haben für Bulgarien gestimmt. Unsere Ansprüche können von den perfiden Rumänen nicht mehr angefochten werden; sie gehören in den Augen der internationalen Gemeinschaft durch Verträge und offensichtliche Unterstützung der Bevölkerung rechtmäßig uns."
-romania.44.a:0 "Großartig!"
-#The Mouths have been retaken
 romania.70.t:0 "Die Donau ist wieder unser"
 romania.70.d:0 "Trotz des Vertrages von Bukarest, der angeblich den freien Zugang zum Schwarzen Meer sicherte, wurde ein Großteil unserer Wirtschaft durch die bulgarische Kontrolle über das Donaudelta stranguliert, da der Fluss vielleicht unsere wichtigste Handelsroute ist. Nun, da der südliche Feind wieder einmal besiegt ist, können wir den Fluss endlich in vollem Umfang für den Transport von Waren und Lieferungen nutzen, ohne dass die Bulgaren daran beteiligt sind. Wir werden in dieser Angelegenheit nicht mehr an den tyrannischen Vertrag gebunden sein. Das Delta ist rechtmäßiger Teil von Rumänien, jetzt und für immer!"
 romania.70.a:0 "Wir werden es nie wieder verlieren."
@@ -1215,22 +1199,27 @@ romania.45.t:0 "Siebenbürgen oder Krieg"
 romania.45.d:0 "Die hinterhältigen Rumänen, die die letzten Jahre damit verbracht haben, den relativ milden Vertrag von Bukarest eklatant zu ignorieren, haben endlich den letzten Schritt in ihrem erneuten Verrat getan: ein Ultimatum. Rumänien hat offiziell seine Ansprüche auf die \"ethnisch rumänischen Gebiete\" der Monarchie, vor allem Siebenbürgen, erneuert. Sie machen keine Versuche der Verhandlung oder Diplomatie und ihre Forderungen sind einfach: Siebenbürgen oder Krieg."
 romania.45.a:0 "Gebt ihnen diese verfluchten Berge."
 romania.45.b:0 "Nur über unsere Leiche."
+
 #Transylvanian Revolt
 romania.46.t:0 "Siebenbürgen revoltiert"
 romania.46.d:0 "Unsere vielen Operationen jenseits der Karpaten haben Früchte getragen. Mit der Unterstützung der rumänischen Nationalpartei in Ungarn und nachdem unsere Waffen die richtigen Hände erreicht haben, befindet sich Siebenbürgen in offener Revolte gegen seine Unterdrücker. Die Karpatenpässe sind für unsere Truppen völlig offen und wir werden uns mit befreundeten Freiwilligen zusammenschließen, um die endgültige Befreiung der rumänischen Nation zu beginnen."
 romania.46.a:0 "Zu den Waffen!"
+
 #Carpathian Recon
 romania.47.t:0 "Karpatische Militärpläne"
 romania.47.d:0 "Unsere geheimen Aufklärungsmissionen über die Karpaten waren für den Generalstab, der die Invasion seit langem plante, sehr hilfreich. Unsere Späher waren in der Lage, genaue und aktuelle Karten des Gebiets zu erstellen, einschließlich der Präsenz des Feindes, was den Kommandeuren vor Ort helfen wird, sich in dem tückischen Gelände zurechtzufinden. Kollaborateure wurden bereits kontaktiert und Verbündete innerhalb Siebenbürgens überwachen bereits die Bewegungen der feindlichen Truppen. Diese Faktoren haben dazu geführt, dass detaillierte Pläne für die Invasion bereitstehen und werden uns in den kommenden Monaten einen unermesslichen Vorteil verschaffen."
 romania.47.a:0 "Es ist gut, vorbereitet zu sein."
+
 #War for Transylvania
 romania.48.t:0 "Krieg um Siebenbürgen"
 romania.48.d:0 "Die endgültige Berichtigung des demütigenden Vertrags von Bukarest steht an. Es liegt an uns, Siebenbürgen von der Unterdrückung zu befreien und die rumänischen Landsleute wieder in die Gemeinschaft zurückzuholen."
 romania.48.a:0 "Wir werden niemals aufgeben!"
+
 #Transylvania is ours!
 romania.49.t:0 "Siebenbürgische Miliz aufgelöst"
 romania.49.d:0 "Unsere Truppen haben über den Feind triumphiert und unsere Ansprüche über die Karpaten gesichert. Nachdem Siebenbürgen gesichert ist, können die lokalen Milizeinheiten sicher aufgelöst werden und diese jungen Patrioten können nach Hause zurückkehren, wo sie gebraucht werden, um Unterstützung für Großrumänien zu wecken."
 romania.49.a:0 "Bis die Pflicht wieder ruft, Söhne Rumäniens."
+
 #Transylvania has revolted from us
 romania.50.t:0 "Siebenbürgen revoltiert!"
 romania.50.d:0 "Die Rumänen Ostungarns, die offensichtlich von den radikalen Nationalisten in Bukarest und ihrem erbärmlichen Playboy-König finanziert werden, haben die Waffen gegen unsere Herrschaft ergriffen. Delegierte der Rumänischen Nationalpartei, obwohl sie zuvor behauptet hatten, nur Autonomie zu wollen, haben schließlich ihren Verrat in einem Aufruf zu den Waffen gegen die Monarchie offenbart. Sie bildeten in Gyulafehérvár die Nationalversammlung der Rumänen Siebenbürgens und Ungarns und erklärten einstimmig \"die Vereinigung dieser Rumänen und aller von ihnen bewohnten Gebiete mit Rumänien.\"\n\nDa ihr Verrat offensichtlich erwartet wurde, haben die Streitkräfte ihren Notfallplan für eine rumänische Invasion einschließlich eines Volksaufstandes in Siebenbürgen gestartet. Es wird ein harter Kampf werden, da wir die Kontrolle über die Karpatenpässe verloren haben und ganz Ostungarn zurückerobern müssen."
@@ -1241,19 +1230,23 @@ romania.51.t:0 "Bildung des Mota-Marin-Legionärskorps"
 romania.51.d:0 "Während Spanien sich in einem blutigen Bürgerkrieg zerfleischt, bietet sich eine Gelegenheit. Die karlistische Bewegung in Spanien wird als ideologischer Verbündeter der Legion des Erzengels Michael gesehen und eine Reihe von Legionären haben sich freiwillig gemeldet, um für ihre ähnliche Sache zu kämpfen. Ion Mota und Vasile Marin sind hochrangige Mitglieder der Legion und haben bereits mit den Vorbereitungen für das Korps begonnen, während Codreanu Alexandru Cantacuzino, den \"Grünen Prinzen\", als Anführer haben will. Dies könnte nicht nur zu einem freundlichen Regime in Spanien führen, sondern würde auch wertvolle militärische Erfahrung für junge Legionäre bieten, die sich beweisen wollen. Natürlich könnte es angesichts der hohen Spannungen in der Heimat klug sein, sie hier zu behalten, falls sich die Dinge bald aufheizen."
 romania.51.a:0 "Schicken Sie Cantacuzino und sein Korps nach Spanien"
 romania.51.b:0 "Als ob wir nicht schon genug Feinde zu Hause hätten."
+
 #Volunteers to ANI
 romania.52.t:0 "Bildung des Mota-Marin-Legionärskorps"
 romania.52.d:0 "Mit dem Wiederaufflammen des italienischen Bürgerkriegs ergibt sich eine Gelegenheit. Italo Balbo's ANI wird als ideologischer Verbündeter der Legion des Erzengels Michael gesehen und eine Reihe von Legionären haben sich freiwillig gemeldet, um für ihre ähnliche Sache zu kämpfen. Ion Mota und Vasile Marin sind hochrangige Mitglieder der Legion und haben bereits mit den Vorbereitungen für das Korps begonnen, während Codreanu Alexandru Cantacuzino, den \"Grünen Prinzen\", als Anführer haben möchte. Dies könnte nicht nur zu einem freundlichen Regime auf der italienischen Halbinsel führen, sondern würde auch wertvolle militärische Erfahrung für junge Legionäre bieten, die sich beweisen wollen. Natürlich könnte es angesichts der hohen Spannungen in der Heimat klug sein, sie hier zu behalten, falls sich die Dinge bald aufheizen."
 romania.52.a:0 "Schicken Sie Cantacuzino und sein Korps nach Italien."
 romania.52.b:0 "Als ob wir nicht schon genug Feinde zu Hause hätten."
+
 #Cantacuzino return home
 romania.53.t:0 "Der grüne Prinz kehrt heim"
 romania.53.d:0 "Das Mota-Marin Legionärskorps ist mit einem Heldenempfang nach Bukarest zurückgekehrt. Prinz Alexandru Cantacuzino marschiert an der Spitze des Korps im Triumph. Der grüne Prinz bringt nicht nur Ruhm zurück, sondern auch wertvolle Erfahrungen für die Legion, die sich einen ideologischen Verbündeten auf dem Kontinent gesichert hat."
 romania.53.a:0 "Wir empfangen sie mit offenen Armen zurück."
+
 #Romanian volunteers arrive
 romania.54.t:0 "Rumänische Freiwilligendivision kommt an"
 romania.54.d:0 ""Das Mota-Marin-Legionärskorps ist eingetroffen, ein Geschenk von Rumäniens Premierminister \"Captain\" Codreanu. Angeführt von Alexandru Cantacuzino sind diese Freiwilligen eifrig und diszipliniert, auch wenn es ihnen an wirklicher Erfahrung in der Kriegsführung fehlt."
 romania.54.a:0 "Wir sind dem Kapitän auf ewig dankbar."
+
 #Romanian volunteers leave
 romania.55.t:0 "Rumänische Freiwillige gehen"
 romania.55.d:0 "Mit unserem Sieg im Bürgerkrieg ist das Mota-Marin-Legionärskorps bereit, nach Rumänien zurückzukehren, nachdem es wertvolle Erfahrungen in der Kriegsführung und Kampfführung gesammelt hat. Ihre Unterstützung wird nicht vergessen werden, und wir hoffen, einen freundlichen rumänischen Staat in seinen eigenen zukünftigen Unternehmungen triumphieren zu sehen."
@@ -1274,19 +1267,23 @@ romania.122.a:0 "Gehen Sie gegen diese Kriminellen vor!"
 romania.56.t:0 "Unruhen in Siebenbürgen"
 romania.56.d:0 "Seit mehreren Jahrzehnten ist die rumänische Bevölkerung in Ostungarn mit unserer Herrschaft unzufrieden. Da sich die Fürstentümer Walachei und Moldawien vereinigten und ihren Platz als unabhängiger Staat auf dem Balkan sicherten, glauben viele Siebenbürger, dass ihre Region dazu bestimmt ist, mit ihren Brüdern jenseits der Karpaten vereinigt zu werden, ungeachtet unserer gerechten, alten historischen Ansprüche über die Region. Während des Weltkriegs versuchte Rumänien sogar, Siebenbürgen mit Gewalt einzunehmen, indem es unsere Schwäche ausnutzte, als wir uns gegen die endlosen russischen Horden wehrten. Ihre Niederlage im Krieg hat wenig dazu beigetragen, den rumänischen Nationalismus in dieser Region zu schwächen.\n\nTrotz der Restriktionen des Bukarester Vertrages hat das feindliche Regime in Bukarest kürzlich seine Propagandabemühungen gegen uns wieder aufgenommen. Indem es unsere Herrschaft als tyrannisch und unterdrückerisch deklariert, haben die jüngsten Unruhen in den Städten Arad, Kolozsvár und Nagyszeben zu verstärktem passiven Widerstand gegen die Behörden geführt. Bisher haben die Ermittlungen nur Verbindungen zu Aktivisten der Rumänischen Nationalpartei (PNR), einer legalen Partei, die rumänische Interessen in Ungarn vertritt, und nicht zur feindlichen Regierung in Bukarest ergeben. Die PNR-Führer behaupten, dass sie eher die Autonomie von Siebenbürgen und anderen Gebieten mit rumänischer Mehrheit sichern wollen als Separatismus und behaupten, dass sie keine Verbindungen mit dem undemokratischen Regime in Bukarest haben."
 romania.56.a:0 "Die Gendarmerie übernimmt das."
+
 #Transylvanian Iron Guard (for HUN)
 romania.57.t:0 "Eiserne Garde von Siebenbürgen"
 romania.57.d:0 "Die Legion des Erzengels Michael, auch bekannt als die Eiserne Garde, ist die regierende politische Bewegung in Rumänien. Ihr Anführer, \"Captain\" Codreanu, ist ein überzeugter rumänischer Nationalist und hat sich nicht nur offen über den Vertrag von Bukarest hinweggesetzt, sondern auch die Schaffung eines großrumänischen Staates gefordert, der alle ethnischen Rumänen umfassen würde. Das hat natürlich schon unsere Beziehungen zu Rumänien belastet, aber die Gendarmerie ist darauf aufmerksam geworden, dass eine Schwesterbewegung der Eisernen Garde in Siebenbürgen seit dem Beginn der jüngsten Unruhen in der Region schnell wächst. Wir haben die Mittel, um die radikale Bewegung zu unterdrücken, aber es wäre ziemlich kostspielig und könnte noch mehr Aufmerksamkeit auf die Unruhen lenken."
 romania.57.a:0 "Sie zu unterdrücken, wird nichts bringen."
 romania.57.b:0 "Wir sollten sie im Auge behalten."
+
 #Transylvanian infra sabotaged  (for HUN)
 romania.58.t:0 "Terrorismus in Siebenbürgen"
 romania.58.d:0 "Die Unruhen in Siebenbürgen sind weiter eskaliert, als in der vergangenen Nacht mehrere Bahnlinien gesprengt wurden. Die Koordination hinter den Anschlägen ist viel zu groß, um das Werk von bloßen Amateur-Anarchisten zu sein. Dies ist eindeutig das Werk hoch organisierter und ausgerüsteter Terroristen und ausländischer Spione mit dem Ziel, unsere Infrastruktur zu sabotieren. Wir können nur vermuten, dass die Eiserne Garde in Bukarest hinter den Anschlägen steckt, aber sie streiten offenbar eine Beteiligung ab, nachdem der Botschafter protestiert hat. Wir werden unsere Militärpräsenz in Siebenbürgen erhöhen müssen, da die Situation weiter eskaliert."
 romania.58.a:0 "Sabotage?!"
+
 #Transylvanian garrisons hit (for HUN)
 romania.59.t:0 "Karpaten-Garnisonen angegriffen!"
 romania.59.d:0 "Die Spannungen in Siebenbürgen haben einen neuen Höhepunkt erreicht, da Garnisonen von dreisten rumänischen Terroristen angegriffen wurden, was zu mehreren Opfern auf beiden Seiten führte. Einige der Terroristenopfer wurden als österreichisch-ungarische Staatsbürger identifiziert, während andere von unseren Behörden nicht identifiziert werden konnten, wobei der Verdacht auf Bukarest fiel. Die rumänische Regierung bleibt jedoch in Bezug auf den Vorfall unkooperativ, was zu einem weiteren Anstieg der Spannungen zwischen unseren Ländern führt. Sicher ist, dass der Krieg schneller kommt, als uns lieb ist, und den Rumänen eine weitere Lektion erteilt werden muss."
 romania.59.a:0 "Brauchen sie die Serbien-Behandlung?!"
+
 #Transylvanian airbases hit  (for HUN)
 romania.60.t:0 "Angriffe auf Luftwaffenstützpunkte!"
 romania.60.d:0 "Von Bukarest gesponserte Terroristen haben ein neues Ziel ins Visier genommen: Neu errichtete Luftwaffenstützpunkte. Bei dem Angriff wurde ein Hangar zerstört, bevor die Angreifer zurückgeschlagen wurden. Obwohl die Beteiligung Rumäniens offensichtlich ist, bleibt es nur eine Behauptung, da Bukarest gegenüber unserem Botschafter weiterhin eine Beteiligung abstreitet. Außerdem ist der Wert der Stützpunkte aus strategischer Sicht klar, die Amateur-Terroristen wahrscheinlich nicht von alleine erkennen würden. Es ist ziemlich klar, dass sich die Rumänen auf einen Kampf vorbereiten, während wir mit anderen Dingen abgelenkt sind."
@@ -1303,6 +1300,7 @@ romania.34.d:0 "Mit einer starken Präsenz im Senat drängen die Anhänger von C
 romania.34.a:0 "Geben Sie dem Druck der Carlisten nach."
 romania.34.b:0 "Codreanu blockiert die Reform."
 romania.34.c:0 "Wir machen keine Kompromisse!"
+
 #Codreanu pushes his reform through
 romania.35.t:0 "Eiserne Garde erzwingt ihre Reform"
 romania.35.d:0 "Da Codreanus Legion das Unterhaus des Parlaments kontrolliert, hat sie einen erheblichen Spielraum im Gesetzgebungsverfahren. So nutzt Codreanu diese Tatsache als Werkzeug, um seine Landreformgesetze durchzudrücken, trotz unserer besten Bemühungen, sie zu kontrollieren. Die Befürworter des Königs sind jedoch zahlreich im Senat vertreten, was ihnen die Möglichkeit gibt, mit Obstruktionsmaßnahmen die Gesetzgebung langsam zu killen. Andererseits könnten wir die Eiserne Garde diese Runde gewinnen lassen und unseren Atem für eine andere, wichtigere Schlacht aufsparen. Andernfalls könnten die weitreichenden Befugnisse des Königs genutzt werden, um das Gesetz an Ort und Stelle zu killen, obwohl die Legion eine solch energische Reaktion wahrscheinlich nicht gut aufnehmen wird."
@@ -1328,25 +1326,30 @@ romania.75.d:0 "Mihai Stelescu war erst vor einigen Jahren zur Prominenz aufgest
 romania.75.a:0 "Abtrünnige haben nur Kugeln verdient."
 romania.75.b:0 "Stelescu macht einige interessante Punkte."
 romania.75.c:0 "Jetzt ist die Chance zuzuschlagen."
+
 #Stelescu's execution
 romania.76.t:0 "Stelescu tot aufgefunden"
 romania.76.d:0 "Mihai Stelescu, ein Abtrünniger der Legion, wurde von den Decemviri, einer Todesschwadron der Legionäre, überfallen und getötet. Die Leiche des Verräters wurde verstümmelt und mit über 100 Kugeln durchlöchert aufgefunden. Viele derjenigen, die es gewagt hatten, Stelescus Bewegung zu folgen, wurden ermordet oder zur Flucht gezwungen.\nAuch wenn die Männer des Todeskommandos umgehend inhaftiert wurden, ist klar, wer als Sieger dasteht. Der Hauptmann zeichnete die Attentäter kurz nach der Tat mit dem Weißen Kreuz aus."
 romania.76.a:0 "Wir müssen der Sache auf den Grund gehen"
+
 #Investigation to Carol
 romania.77.t:0 "Ermittlungen führen zu König Carol"
 romania.77.d:0 "Es überrascht nicht, dass die Ermittlungen in der Stelescu-Affäre zu einem Mann geführt haben: König Carol selbst. Die Legion hat nun handfeste Beweise dafür, dass der König versucht hat, Uneinigkeit innerhalb der Legion zu säen, indem er Stelescus Abtrünnigkeit ermutigte und direkt unterstützte, was ihnen ausreichend Grund gibt, endlich ein für alle Mal gegen Carol vorzugehen. Trotzdem ist der Ruf des Königs angeschlagen, nachdem er auf frischer Tat ertappt wurde."
 romania.77.a:0 "Seine Reputation ist ruiniert!"
 romania.77.b:0 "Wir müssen diese Verschwörung ein für alle Mal ausrotten."
+
 #Carol's Fate
 romania.78.t:0 "Schicksal des Königs"
 romania.78.d:0 "Nach der Demütigung durch die Stelescu-Affäre begannen die Legion und ihre Unterstützer aktiv die Abdankung des Königs zu fordern. Als sich Menschenmengen vor dem Königspalast versammelten, um zu demonstrieren, ordnete Codreanu die Verhaftung von Carol an. Weder König Carol noch seine Wachen leisteten Widerstand, als die Eiserne Garde den Palast übernahm. Es ist nun an der Zeit, über das Schicksal des Königs zu entscheiden.\n\nAuf der einen Seite könnte die geschwächte Position des Königs von Vorteil sein. Ihn unter Hausarrest zu halten, nachdem er seine Befugnisse an Codreanu übertragen hat, würde sicherstellen, dass er es nur mit einer schwachen, vertrauten Bedrohung zu tun hat, die er im Bedarfsfall leicht loswerden kann. Andernfalls sollte Carol gezwungen werden, abzudanken und seinen Platz dem jungen Kronprinzen Mihai zu überlassen. Königin Helen, die Mutter des von Carol brüskierten Mihai, befürwortet vor allem die zweite Option, die ein besseres Verhältnis zur königlichen Familie schaffen könnte."
 romania.78.a:0 "Stellt ihn unter Hausarrest."
 romania.78.b:0 "Er muss die Krone abgeben."
 romania.18.tooltip:0 "§RDies könnte dem König die Möglichkeit geben, einen Staatsstreich zu organisieren.§!"
+
 #Michael's Coronation
 romania.79.t:0 "Mihai I. ist zum König gekrönt"
 romania.79.d:0 "Nach Carol II. geht das rumänische Königtum auf seinen Sohn Mihai über. In einer Zeremonie in der Patriarchatskathedrale in Bukarest wurde der junge König mit der Stahlkrone gekrönt und vom Patriarchen der rumänisch-orthodoxen Kirche gesalbt. Während der König bedeutende Machtbefugnisse behält, ist Mihai eine Galionsfigur, die vom Premierminister weitgehend an den Rand gedrängt wird, und es gibt wenig Grund, dass sich dies in nächster Zeit ändern wird."
 romania.79.a:0 "Hoffentlich ist er leichter zu kontrollieren."
+
 #Royalist Officer's Coup
 romania.80.t:0 "Militär startet einen Putsch"
 romania.80.d1:0 "Obwohl er unter Hausarrest steht, hat es König Carol geschafft, den Kontakt zu royalistischen Elementen im ganzen Land aufrechtzuerhalten. Die königstreuen Armeeoffiziere sahen eine Gelegenheit zuzuschlagen und starteten einen Militärputsch gegen die Regierung. Obwohl sie während des gesamten Konflikts zwischen Carol und Codreanu neutral geblieben sind, scheint es, dass Codreanu das Gleichgewicht zu weit zu seinen Gunsten gekippt hat und der Rest der Armee nun entscheiden muss, ob sie den König und ihre Offizierskollegen oder den Premierminister und die Eiserne Garde unterstützen."
@@ -1356,30 +1359,36 @@ romania.80.b:0 "Der Putsch bricht zusammen, da sich die Armee weigert, zu handel
 romania.80.tt1:0 "Der Putsch ist schnell und erfolgreich."
 romania.80.tt2:0 "Der Putsch ist erfolgreich, auch wenn die Situation in einigen Teilen Bukarests in blutige Kämpfe ausartet."
 romania.80.tt3:0 "Der Putsch entwickelt sich zu blutigen Kämpfen, bis die Armeeeinheiten schließlich die Legionärshochburgen überwältigen."
+
 ##Carol's desperate coup succeeds
 romania.81.t:0 "Armee restauriert Carol II"
 romania.81.d:0 "Als sich der Staub legt und die Armee die Kontrolle über Bukarest erlangt, nachdem sie Codreanu und eine Reihe seiner Leutnants verhaftet hat, wird der König aus dem Königspalast eskortiert. General Paul Teodorescu wendet sich an die versammelte Menge und die Soldaten vor dem Palast und erklärt Codreanus Regierung für abgesetzt und die Wiederherstellung der Vorrechte des Königs. Der Erklärung folgt eine Rede von Carol, in der er den Beginn der Erneuerung Rumäniens zusammen mit einer neuen Regierung ankündigt, die die von Codreanu ersetzen soll. Die Royalisten feiern ihren Sieg, während die versprengte Eiserne Garde versucht, dem Putsch vom Land aus zu widerstehen."
 romania.81.a:0 "Lang lebe der König!"
+
 #King's Revenge
 romania.82.t:0 "Zorn des verachteten Königs"
 romania.82.d:0 "Während die versprengte, kopflose Eiserne Garde kämpft, um sich zu wehren, beginnen die royalistischen Truppen, ihre Überreste zu erledigen. König Carol, der sich seiner Herrschaft sicher fühlt, sinniert über das Schicksal der hochrangigen Legionäre, die während des Putsches verhaftet wurden. Seine Majestät selbst ist davon überzeugt, dass sie so schnell wie möglich erschossen werden sollten, und viele Mitglieder seiner Kamarilla stimmen dem zu, aber andere erwägen den propagandistischen Wert, ihr Leben zu schonen und sie stattdessen im Gefängnis zu behalten. Einerseits würde ihre Läuterung ein für alle Mal sicherstellen, dass sie nicht mehr gegen ihn intrigieren und sein Zorn in ganz Rumänien bekannt wird. Auf der anderen Seite wird das Appellieren an die Güte des Königs ein gutes Image für Carol sichern und dafür sorgen, dass moderate Politiker ihm wieder eifriger dienen werden."
 romania.82.a:0 "Erschießen Sie die Legionäre als Verräter."
 romania.82.b:0 "Sollen sie doch im Gefängnis verrotten."
+
 ##Carol's desperate coup fails, he abdictates
 romania.83.t:0 "Die Flucht des Königs"
 romania.83.d1:0 "Nach dem Scheitern des Putsches der Royalisten dankte König Carol offiziell als König von Rumänien ab. Während der Verwirrung flohen der ehemalige König und sein Gefolge aus der Stadt, um Repressalien zu vermeiden, und gingen wahrscheinlich ins Exil nach Algerien oder Portugal. Während die Eiserne Garde nicht in der Lage war, ihn zu fangen, wird er endlich keine Bedrohung mehr für unsere Herrschaft sein."
 romania.83.d2:0 "Nach der formellen Abdankung von König Carol kündigte er seine Pläne an, Rumänien zu verlassen, wahrscheinlich ins Exil nach Algerien oder Portugal. Obwohl er rechtlich nicht zur Flucht verpflichtet ist, möchten Codreanu und seine Lakaien den König nicht in ihrer Nähe haben und haben Carol praktisch zur Flucht gedrängt, um das Land in den Händen seines Sohnes zu lassen."
 romania.83.a:0 "Algerien ist zu gut für ihn."
 romania.83.b:0 "Algerien ist zu gut für ihn."
+
 #Mihai reins in the chaos
 romania.84.t:0 "König Mihai interveniert"
 romania.84.d:0 "Es ist allen Rumänen zunehmend klar geworden, dass die Situation völlig außer Kontrolle geraten ist. Was einst eine harte, aber gedämpfte Rivalität zwischen zwei prominenten Führern war, hat sich in ein völliges Chaos aus offenen Kämpfen zwischen Paramilitärs, unzähligen Attentatsversuchen und offenem Terrorismus verwandelt. Der junge König Mihai hat sich schließlich entschlossen, direkt einzugreifen, eine Überraschung, da man davon ausgegangen ist, dass er eine Nebenfigur bleiben würde. Seine Berater sind sich jedoch uneinig, wie sie vorgehen sollen. Mihai könnte entweder die Regierung entlassen, nachdem diese kläglich versagt hat, die Situation unter Kontrolle zu halten, oder er könnte sich hinter die Legion stellen und ihr helfen, die Kontrolle wiederzuerlangen."
 romania.84.a:0 "Entlasst die Regierung!"
 romania.84.b:0 "Die Legion wird das erledigen"
+
 #Mihai assumes control
 romania.85.t:0 "König Mihai übernimmt die Kontrolle"
 romania.85.d:0 "Da er die Legion nicht länger unterstützen wollte und sie absolut verabscheute, hat der junge König beschlossen, die Dinge selbst in die Hand zu nehmen und die Regierung zu entlassen. Mit der Armee im Rücken hat der König den Ausnahmezustand ausgerufen, das Kriegsrecht tritt sofort in Kraft. Da die Staatsgeschäfte effektiv unter dem Kommando des Königs stehen, wird die Zeit zeigen, ob das Militär das Chaos beseitigen und die Ordnung wiederherstellen kann."
 romania.85.a:0 "Lang lebe der König!"
+
 #Mihai Is major
 romania.86.t:0 "Mihai's achtzehnter Geburtstag"
 romania.86.d1:0 "Heute, am fünfundzwanzigsten Oktober 1939, ist der Königliche Hof in Feierlaune, denn Kronprinz Mihai ist 18 Jahre alt geworden und hat damit die Volljährigkeit erreicht.\n\nDie Feierlichkeiten wurden auf Wunsch von König Carol privat gehalten, auch wenn Premierminister [GetHeadOfGovernment] dem jungen Kronprinzen im Namen der Regierung offiziell gratulierte und ihm standesgemäße Geschenke überreichte, insbesondere zwei wunderschöne Jadeschnitzereien. Ein weiteres bemerkenswertes Geschenk, aber bei weitem nicht das letzte, das der junge Prinz erhielt, ist ein leistungsstarker Mercedes-Rennwagen, den der junge Prinz gnädig annahm.\n\nKronprinz Mihai erhielt auch einen Sitz im Senat, der ihm laut Verfassung zusteht, was seine Verantwortung innerhalb des Staates weiter erhöht und seine energische Vorbereitung auf das Königtum unter der Anleitung seines Vaters fortsetzt. Nächstes Jahr wird er mit seiner speziellen "palatinischen" Klasse unter der Aufsicht seiner Lehrer und des inoffiziellen Direktors der improvisierten Palastschule, nämlich Seiner Majestät des Königs, offiziell das Abitur ablegen.\n\nDas Land hat die Nachricht positiv aufgenommen, hat eine positive Meinung von dem jungen Prinzen und sieht ihn als Zeichen der Hoffnung für die Zukunft."
@@ -1390,17 +1399,20 @@ romania.86.a:0 "Alles Gute zum Geburtstag, Eure Hoheit."
 romania.86.b:0 "Alles Gute zum Geburtstag, Eure Majestät."
 ROM_carolexiled:0 "und sein Vater, der ehemalige König, Carol II., erlaubte seinem Bruder, zumindest diesen Dienst für Mihai zu tun."
 ROM_carolmurdered:0 "ein Anlass, der durch die eklatante Abwesenheit des verstorbenen Königs Carol II. gekennzeichnet war, zu dem Nicolae keinen Kommentar abgeben wollte."
+
 #Carol dismisses the government
 romania.87.t:0 "König entlässt die Regierung"
 romania.87.d:0 "Nach einer Hetzrede gegen Codreanu in der Abgeordnetenkammer präsentierte Stelescu zahlreiche Anschuldigungen gegen den Hauptmann, indem er Faksimiles von Codreanus Standesamtsunterlagen vorlegte. Stelescus Anschuldigungen reichen von der Beschuldigung des Hauptmanns der Homosexualität bis hin zur direkten Unterstützung durch Rumäniens ranghöchsten Freimaurer.\n\nWährend die Legion darauf besteht, dass Stelescus Anschuldigungen völlig unsinnig sind, sah König Carol die Gelegenheit gekommen und ergriff sie, indem er Codreanu und sein Kabinett entließ. Mit der Behauptung, die Legion sei nicht mehr in der Lage zu regieren oder das Volk zu vertreten, ernannte der König eine neue Regierung unter der Führung von Armand Calinescu.\n\nCodreanu und die Eiserne Garde sind empört. Wir haben zwar nicht wirklich einen rechtlichen Grund dazu, aber wir haben die Chance, Codreanu und seine Schläger zu verhaften, solange sie angreifbar sind."
 romania.87.a:0 "Wir werden sie vorerst nur abweisen."
 romania.87.b:0 "Verhaftet sie!"
+
 #Issue of CZC
 romania.88.t:0 "Der Zorn des Kapitäns"
 romania.88.d:0 "Corneliu Codreanu hat seine Entlassung sicher nicht kleinlaut hingenommen. Eine wütende, feurige Rede nach der anderen hat die Eiserne Garde in Aufruhr versetzt. Die Verhaftung des ehemaligen Premierministers scheint den Demagogen wenig davon abgehalten zu haben, sein Gift gegen die "verräterische Carol" zu verbreiten. Unruhen breiten sich schnell aus, als die Legionäre gegen die Entlassung ihres Anführers protestieren und die Wiedereinsetzung seiner Regierung fordern. Diese Forderungen sind natürlich inakzeptabel. Es wird Aufgabe des Militärs sein, die Situation in den Griff zu bekommen und sicherzustellen, dass die Paramilitärs der Legion unterdrückt werden. Andernfalls müssen härtere Maßnahmen ergriffen werden. Entweder sollte die Legion komplett geächtet und unterdrückt werden, oder es ist endlich an der Zeit, der Schlange den Kopf abzuschlagen und die Legion in sich zusammenfallen zu lassen."
 romania.88.a:0 "Das Militär wird sich darum kümmern."
 romania.88.b:0 "Es ist an der Zeit: Attentat auf Codreanu!"
 romania.88.c:0 "Verbieten Sie die Legion und verhaften Sie sie."
+
 #Legionary march on the Capital
 romania.90.t:0 "Der Marsch auf Bukarest"
 romania.90.d:0 "Da das Militär und die Polizei nicht in der Lage sind, die Unruhen zu kontrollieren, hat die Legion eine große Streitmacht außerhalb von Bukarest versammelt. In der Hoffnung, die Regierung und die Sicherheitskräfte einzuschüchtern, marschiert die Eiserne Garde nun mit Corneliu Codreanu an der Spitze auf die Hauptstadt zu. Die Legion hat Tausende von Mitgliedern in grünen Hemden zusammen mit einer Reihe von Unterstützern versammelt. Einige von ihnen sind bewaffnet, obwohl wir keine Ahnung haben, wie viele. Die Armee hat den Befehl erhalten, ihren Marsch zu stoppen, aber es gibt Zweifel, dass sie bereit sind, ohne Provokation das Feuer auf die Menge zu eröffnen. Es ist vielleicht noch nicht zu spät, Zugeständnisse zu machen, um die Legion zu beschwichtigen, so dass sie sich hoffentlich zurückzieht."
@@ -1408,56 +1420,68 @@ romania.90.a:0 "Nicht schießen, außer sie schießen zuerst."
 romania.90.b:0 "Versuchen Sie, die Legion mit Zugeständnissen zu beschwichtigen."
 romania.90.c:0 "Eröffnen Sie das Feuer, und verpassen Sie nicht den Kapitän!"
 romania.90.tt:0 "§RViele Offiziere befürchten, dass ein Schießbefehl auf die Legionäre bei den Legionärsunterstützenden Soldaten nicht gut ankommen würde.§!"
+
 #March is dibanded after CZC dies
 romania.89.t:0 "Codreanu ermordet"
 romania.89.d:0 "Angesichts der zunehmenden Unruhen auf dem Lande gab es vor einigen Tagen Gerüchte, dass der Anführer der Eisernen Garde verschwunden sei, während er durch die Vororte von Bukarest reiste, um Unterstützung zu sammeln. Heute wurde bekannt gegeben, dass Corneliu Zelea Codreanu erschossen wurde, als er versuchte, in Tancabesti in der Nähe der Hauptstadt aus dem Gewahrsam zu entkommen. Der Tod ihres Anführers wurde von Codreanus überlebenden Leutnants bestätigt, die schworen, ihn zu rächen und seine Arbeit fortzusetzen.\n\n Erst später wird sich herausstellen, dass er von Gendarmen ins Jilava-Gefängnis geschleppt und dort hingerichtet wurde."
 romania.89.a:0 "Auf Wiedersehen!"
+
 #shoot-out in bucharest
 romania.91.t:0 "Gewaltsame Zusammenstöße in Bukarest"
 romania.91.d:0 "Als die Marschierer der Legionäre auf die Armee trafen, gab es ein kurzes Patt, bis ein Gewehrschuss zu hören war. Was dann folgte, kann nur als Schlacht beschrieben werden. Bewaffnete Grünhemden lieferten sich einen Schusswechsel mit den Soldaten, wobei sowohl die Marschierer als auch die Schaulustigen im Kreuzfeuer standen. Der Marsch der Legion wurde zwar zerschlagen und zerstreut, aber auf Kosten vieler unschuldiger Menschenleben.\n\nDer Marsch auf Bukarest wird für alle Beteiligten ein schlechtes Bild abgeben, wenn die Sicherheitskräfte den Schaden beseitigen."
 romania.91.a:0 "Diese Legionäre sind verrückt..."
+
 #legionaries retreat
 romania.92.t:0 "Legionäre ziehen sich zurück"
 romania.92.d:0 "Als die Marschierer der Legionäre auf die Armee trafen, gab es ein langes, stilles Patt. Die Soldaten schulterten ihre Gewehre, ihre Offiziere standen bereit, um den Befehl zu geben, während die Demonstranten, die die rumänischen und die Legionärs-Farben schwenkten, ihre Stellung hielten. Bewaffnete Grünhemden waren bereit, die Demonstranten zu verteidigen, falls Schüsse fielen.\n\nEs kamen jedoch keine Schüsse. Die Armee war nicht bereit, das Feuer auf die Menge zu eröffnen, aber die Grünhemden waren es auch nicht. Zu Codreanus Bestürzung, als er vor den Marschierenden stand, erhielt sein kühner Marsch wenig Aufmerksamkeit von den Einwohnern der Stadt. Der Hauptmann hätte entweder die Regierung oder die Armee einschüchtern müssen, um sich gegen den König zu wenden, oder der Marsch hätte eine Volksdemonstration auslösen müssen. Von den Einwohnern der Stadt im Stich gelassen und entweder nicht willens oder nicht in der Lage, seinen Männern den Angriff zu befehlen, gab der Hauptmann den Befehl zum Rückzug.\n\nEin Blutbad wurde knapp vermieden."
 romania.92.a:0 "Was für Feiglinge!"
+
 #mutiny in bucharest
 romania.93.t:0 "Die Armee hält sich zurück"
 romania.93.d:0 "Als die Marschierer der Legionäre auf die Armee trafen, gab es ein langes, stilles Patt. Sie blieben stehen und schwenkten die National- und Legionärsfarben, während die Soldaten ihre Gewehre schulterten. Die kurze, aber ängstliche Stille wurde nur durch den Befehl des Offiziers zum Schießen unterbrochen.\n\nAber nichts geschah. Die Soldaten starrten die Marschierer durch ihre Visiere an, die meisten von ihnen eindeutig unbewaffnet. Schließlich wurden die Gewehre niedergelegt und die Truppen gingen unter Jubel auf die andere Seite hinüber.\n\nDie Armee hatte gemeutert und sich auf die Seite der Eisernen Garde geschlagen. Der König wurde im Stich gelassen."
 romania.93.a:0 "Verräter!"
+
 #bloodbath in bucharest, codreanu dies
 romania.94.t:0 "Massaker in Bukarest"
 romania.94.d:0 "Als die Marschierer der Legionäre auf die Armee trafen, gab es ein langes, stilles Patt. Sie blieben stehen und schwenkten die National- und Legionärsfarben, während die Soldaten ihre Gewehre schulterten. Die kurze, aber ängstliche Stille wurde nur durch den Befehl des Offiziers zum Schießen unterbrochen.\n\nWas folgte, war ein komplettes Massaker. Corneliu Zelea Codreanu, an der Spitze des Marsches, war einer der ersten, der fiel, gefolgt von zahlreichen Legionären und ihren Anhängern. Bewaffnete Grünhemden erwiderten zwar sofort das Feuer, aber es war weitgehend erfolglos und fielen entweder in dem Blutbad oder flohen.\n\nDer König scheint nun unangefochten, aber das Massaker wird lange in Erinnerung bleiben."
 romania.94.a:0 "Gut, dass wir sie los sind!"
+
 #codreanu returns
 romania.95.t:0 "Codreanus Rückkehr"
 romania.95.d:0 "Mit der Armee auf seiner Seite marschierte Codreanu auf den Königspalast. König Carols Abdankung wurde schnell erklärt, als er aus dem Land floh. Seine ernannte Regierung trat beim Anblick der marschierenden Legionäre zurück. Kronprinz Mihai wurde bald darauf zum Nachfolger seines Vaters als König von Rumänien gekürt.\n\nCodreanu steht triumphierend da, während sein Rivale besiegt ist. Der Boden, auf dem er steht, ist jedoch bestenfalls wackelig, da die Nation weiterhin stark zersplittert und instabil ist."
 romania.95.a:0 "Lang lebe der König!"
+
 #Carol Assassinated
 romania.96.t:0 "Die Ermordung von König Carol II."
 romania.96.d1:0 "Als ihr Gründer getötet wurde, schwor die Legion, ihn zu rächen, und das ist ihr auch gelungen. Als König Carol in einem Luxusauto durch Bukarest fuhr, wurde er von einer Todesschwadron der Legion in einen Hinterhalt gelockt und mehrmals niedergeschossen, wobei er und die anderen Insassen starben. Die Attentäter, die sich selbst die "Rächer" nannten, flohen schnell vom Tatort.\n\nMit dem Tod des Königs wird die Krone an seinen Sohn Mihai weitergereicht. Das Land tritt in eine neue Phase des Chaos ein und die Zukunft der Nation bleibt ungewiss."
 romania.96.d2:0 "Nachdem die Legion von der Macht verdrängt wurde, schwor sie Rache, und sie hatte Erfolg. Als König Carol in einem Luxusauto durch Bukarest fuhr, wurde er von einer Todesschwadron der Legion in einen Hinterhalt gelockt und mehrmals niedergeschossen, wobei er und die anderen Insassen starben. Die Attentäter, die sich selbst die "Rächer" nannten, flohen schnell vom Tatort.\n\nMit dem Tod des Königs wird die Krone an seinen Sohn Mihai weitergereicht. Das Land tritt in eine neue Phase des Chaos ein und die Zukunft der Nation bleibt ungewiss."
 romania.96.a:0 "Möge er lange herrschen."
 romania.96.b:0 "Vielleicht sollten wir jemanden finden, der leichter beeinflussbar ist?"
+
 #Avenger's coup
 romania.97.t:0 "Putsch der Rächer"
 romania.97.d1:0 "Während die Fehde zwischen Carol und Codreanu erst mit deren Tod endete, nutzten die Überreste der Eisernen Garde die durch die Attentäter verursachte Instabilität schnell aus. Bewaffnete Grünhemden haben das Parlament und zahlreiche strategische Punkte in Bukarest gestürmt, während der Königspalast belagert wird. Die Armee, die in und um die Stadt stationiert ist, ist bereits in Bewegung und wird wahrscheinlich über das Schicksal des letzten Versuchs der Legion, die Nation zu sichern, entscheiden."
 romania.97.d2:0 "Nachdem die Fehde zwischen Carol und Codreanu erst mit dem Tod des Königs endete, nutzte der Hauptmann der Eisernen Garde schnell die durch die Attentäter verursachte Instabilität. Bewaffnete Grünhemden haben das Parlament und zahlreiche strategische Punkte in Bukarest gestürmt, während der Königspalast belagert wird. Die Armee, die in und um die Stadt stationiert ist, ist bereits in Bewegung und wird wahrscheinlich über das Schicksal des letzten Versuchs der Legion, die Nation zu sichern, entscheiden."
 romania.97.a:0 "Zurück nach Bukarest"
+
 #Coup's fate
 romania.98.t:0 "Die Armee trifft ein"
 romania.98.d:0 "Während sich die Armee in der Fehde zwischen Carol und Codreanu weitgehend neutral verhalten hat, konnten beide Führer auf zahlreiche Unterstützer innerhalb der Armee zählen. Sie hat nun den Schlüssel zu Rumäniens Zukunft in der Hand: Entweder sie hilft den Grünhemden, die Kontrolle über die Regierung wiederzuerlangen, oder sie zerstreut die Putschisten und stellt sich auf die Seite des jungen Königs Mihai."
 romania.98.a:0 "Helfen Sie den Legionären, die Kontrolle zu übernehmen."
 romania.98.b:0 "Wir werden niemals Königsmord unterstützen!"
+
 #Codreanu returns
 romania.99.t:0 "Codreanu kehrt an die Macht zurück"
 romania.99.d:0 "Während die Legion und die Armee gemeinsam die Ordnung wiederherstellen, nimmt Corneliu Zelea Codreanu seine Position als Premierminister wieder ein. Mit Carol tot und Mihai unfähig, sich zu wehren, stellt sich eine neue Frage: Das Schicksal der Rächer.\n\nFür viele junge Legionäre sind sie nichts weniger als Helden, da sie die Ehre ihres Hauptmanns verteidigt haben, indem sie seine größte Bedrohung beseitigten. Auf der anderen Seite ist die Legion trotz des feindlichen Königs immer stolz monarchistisch gewesen; für viele der alten Garde gibt es wenige Verbrechen, die größer sind als Königsmord. Außerhalb der Bewegung sind gemäßigte Politiker und Beamte entsetzt, dass ein neuer Präzedenzfall geschaffen wurde, dass der Eisernen Garde kein Ziel heilig ist. Während Codreanu sich unwohl dabei fühlt, diejenigen zu bestrafen, die nur im besten Interesse der Legion gehandelt haben und maßgeblich an seiner Restauration beteiligt waren, ist das Verbrechen des Königsmords in der Tat groß und sie zu bestrafen würde die Ängste der Rumänen lindern."
 romania.99.a:0 "Bestrafen Sie die Attentäter"
 romania.99.b:0 "Sie sind die Helden der Nation"
+
 #The avengers leadership
 romania.100.t:0 "Frage der Führung"
 romania.100.d:0 "Während die Legion und die Armee gemeinsam die Ordnung wiederherstellten, blieb die Frage in den Köpfen aller Legionäre hängen: Wer würde ihrem großen Hauptmann folgen und seinen Platz als Premierminister einnehmen?\n\nHoria Sima und Ion Mota sind die logischste Wahl, um Codreanus Arbeit fortzusetzen, da sie die Leutnants waren, die dem Kapitän in Bezug auf Ideale und Geist am nächsten standen. Jeder von ihnen würde den Kurs im Wesentlichen beibehalten. Alternativ könnte man sich anstelle der \"Inneren\" Partei, die Sima und Mota repräsentieren, die \"Äußere\" Partei ansehen. Alexandru Cantacuzino führt diese Fraktion an und repräsentiert eine noch radikalere Strömung innerhalb der Legion, da er sich offen gegen die \"äußere\" Hohenzollern-Dynastie ausgesprochen hat, die derzeit die Stahlkrone Rumäniens hält.\n\n Wenn man bedenkt, wie der Machtkampf zwischen Codreanu und dem König verlaufen ist, hat ein radikaler Kurs sicherlich seine Anziehungskraft. aber die Innere Partei hat immer noch Einfluss auf viele Legionäre."
 romania.100.a:0 "Jemand wie Codreanu"
 romania.100.b:0 "Wir brauchen etwas Radikaleres!"
+
 #Military backs Mihai
 romania.101.t:0 "Kriegsrecht ausgerufen"
 romania.101.d:0 "Während die Armee die verzweifelten Reste der Eisernen Garde aufräumte, schritt König Mihai ein, um die Leere zu füllen und erklärte den Ausnahmezustand und das Kriegsrecht, bis die Ordnung endlich wiederhergestellt werden konnte. Da die Streitkräfte der Carlisten und Legionäre von ihrem Machtkampf völlig erschöpft sind, bleiben nur die Armee und der junge König Mihai übrig, um die Scherben aufzusammeln."
@@ -1467,6 +1491,7 @@ romania.101.a:0 "Die Armee wird diesen Irrsinn beenden!"
 romania.102.t:0 "König stärkt den Senat"
 romania.102.d:0 "Während er im Ausnahmezustand weiterhin per Dekret regiert, hat der junge König Mihai als einen der ersten großen Schritte weg von der königlichen Diktatur einen Teil seiner weitreichenden Befugnisse an den Senat, das Oberhaus des Parlaments, abgetreten. Dies wird von der alten politischen Elite des Landes sehr begrüßt, da ihr trotz der anhaltenden Krise endlich wieder eine Stimme in der Regierung garantiert ist."
 romania.102.a:0 "Das ist auch gut so."
+
 ##Dust settles, remove "great game"
 romania.103.t:0 "Der Staub legt sich"
 romania.103.d:0 "Die Krise ist endlich vorbei, die Regierung hat die Ordnung scheinbar ein für alle Mal wiederhergestellt. Die Zukunft des Landes ist zwar noch ungewiss, aber der Weg nach vorne wird immer klarer und langsam kehrt ein Gefühl der Normalität ein. Die Zeit wird zeigen, was die Zukunft für Rumänien bereithält."
@@ -1478,26 +1503,31 @@ romania.104.d:0 "Die Integration Siebenbürgens hat bedeutende Veränderungen in
 romania.104.a:0 "Virgil Madgearu führt die neue Partei an."
 romania.104.b:0 "Iuliu Maniu wird zum Vorsitzenden gewählt."
 romania.104.c:0 "Alexandru Vaida-Voevod wird führen."
+
 #Election
 romania.105.t:0 "[GetYear] Allgemeine Wahl"
 romania.105.d:0 "Nachdem sich der Staub gelegt hat, hat die Militärregierung von König Mihai ihre Versprechen wahr gemacht und die ersten freien Wahlen des Landes seit einigen Jahren organisiert. Während viele die Rückkehr der Legion an die Macht fürchten, hat die Nationale Liberale Partei (PNL) enthusiastisch Wahlkampf gemacht als Rumäniens einzige Hoffnung, die Demokratie wieder zu sichern. Constantin Angelescu führt die Partei derzeit an und konzentriert sich auf ein Programm der wirtschaftlichen Entwicklung und Selbstständigkeit sowie die Sicherung der Demokratisierung des Landes.\n\nAuf der extremen Rechten sammelt die Legion des Erzengels Michael, allgemein bekannt als die Eiserne Garde, trotz ihrer jüngsten Probleme ein weiteres Mal ihre Kräfte. Sollten sie erfolgreich sein, würden sie ein Volksmandat gewinnen, das ihrer Bewegung wieder Leben einhauchen könnte. Ein Scheitern jedoch wird wahrscheinlich den Zusammenbruch der Bewegung insgesamt bedeuten.\n\n[ROM_PNT_electoral_status]"
 romania.105.a:0 "Das PNL kehrt triumphierend zurück!"
 romania.105.b:0 "Die Legion erobert erneut das Parlament!"
 romania.105.c:0 "Die PNT gewinnt die Wahl!"
+
 #Election without IG
 romania.106.t:0 "[GetYear] Allgemeine Wahlen"
 romania.106.d:0 "Nachdem die Demokratie in Rumänien gesichert ist, geht das Volk erneut an die Urnen, um die Mitglieder der Abgeordnetenkammer und des Senats zu wählen. Die Nationalliberale Partei (PNL) bleibt an der Spitze der rumänischen Demokratie, während die Eiserne Garde in die Irrelevanz gefallen ist. Ihr Programm hat sich seit der letzten Wahl kaum verändert und verkündet die Zementierung der demokratischen Traditionen und den Fortschritt des Landes in der wirtschaftlichen Entwicklung.\n\n[ROM_PNT_electoral_status]"
 romania.106.a:0 "Die PNL sind gewählt."
 romania.106.b:0 "Die PNT gewinnt die Wahl."
+
 #PNL deals with Bratianu
 romania.107.t:0 "Gheorghe Bratianu und der Faktionalismus"
 romania.107.d:0 "Seit die Nationalliberale Partei daran gescheitert ist, die Legion an der Macht im Land zu hindern, kämpft die Partei mit Fraktionszwängen. Während die PNL weitgehend geeint blieb, während die Legionäre durch die Straßen zogen, droht die Frage der Familie Bratianu die Dissidenz innerhalb der Partei in den Vordergrund zu rücken.\n\nDie beiden Cousins, Dinu und Gheorghe Bratianu, waren aktiv am Wiederaufbau und Wahlsieg der PNL beteiligt. Um jedoch Kontroversen zu vermeiden, da die PNL lange Zeit beschuldigt wurde, von der Familie Bratianu monopolisiert zu werden, wurden sie trotz ihrer unerschütterlichen Unterstützung der Partei weitgehend in untergeordnete Positionen verbannt. Während Dinu zu diesem Thema weitgehend schweigt, hat sich Gheorghe zunehmend darüber aufgeregt und andere Dissidenten innerhalb der Partei hinter sich versammelt. Die Parteiführung wurde unter Druck gesetzt, eine formale Entscheidung in dieser Angelegenheit zu treffen: Entweder man gibt den Bratianu-Sprösslingen eine Position, die ihren Beiträgen zur Partei würdig ist, oder man belässt sie weiterhin in niedrigeren Positionen."
 romania.107.a:0 "Für das Image der PNL müssen sie sich im Hintergrund halten."
 romania.107.b:0 "Für die Einheit der Partei, geben Sie ihnen, was sie wollen."
+
 #PNL-B splits
 romania.108.t:0 "Gheorghe Bratianu Splits"
 romania.108.d:0 "Gheorghe Bratianu, der es leid war, von der Parteiführung ferngehalten zu werden, hat offiziell mit einer kleinen Anzahl von Dissidenten die PNL verlassen, um seine eigene Partei zu gründen. Glücklicherweise hat sich der Schaden in Grenzen gehalten und die Presse hat sich sehr kritisch über Bratianus Handeln geäußert, einige lobten sogar unser Engagement für das neue Image der Partei. Am Ende wird sich die PNL wahrscheinlich relativ schnell von der Spaltung erholen."
 romania.108.a:0 "Sie werden früh genug zurück sein."
+
 #PNL criticized
 romania.109.t:0 "Kritik im Abgeordnetenhaus"
 romania.109.d:0 "Ein bäuerlicher Abgeordneter aus Moldawien hielt im Parlament eine aufrüttelnde Rede gegen die jüngsten Ernennungen von Dinu und Gheorghe Bratianu. Er erinnerte die anderen Abgeordneten an die Geschichte der PNL mit der Familie Bratianu und nannte die Partei eine schamlose Oligarchie, die von der \"Bratianu-Dynastie\" monopolisiert wird. Alles in allem hat dies unserem Image als neue, reformierte Nationalliberale Partei geschadet."
@@ -1508,14 +1538,17 @@ romania.110.t:0 "Rumänien bittet um Wiederaufnahme in die Entente"
 romania.110.d:0 "Als Österreich-Ungarn am Rande der Niederlage zu stehen schien, erklärte Rumänien ihnen 1916 den Krieg und schloss sich unserer gerechten Sache gegen die Mittelmächte an. Die Rumänen wurden jedoch zurückgedrängt und besiegt, was zu dem demütigenden Vertrag von Bukarest führte.\n\nEs ist etwa zwanzig Jahre her, und die Rumänen haben es geschafft, ihre germanischen Unterdrücker zu stürzen und ihre Brüder jenseits der Karpaten zu befreien. Nun, da sie erfolgreich ihr Recht als Nation zurückgefordert haben, bitten sie offiziell darum, der Entente wieder beizutreten und uns in unserem rechtschaffenen Bestreben zu unterstützen."
 romania.110.a:0 "Wir sind Waffenbrüder."
 romania.110.b:0 "Haben sie etwas aus dem letzten Mal gelernt?"
+
 #Accepted
 romania.111.t:0 "Rumänien schließt sich wieder der Entente an"
 romania.111.d:0 "Es überrascht nicht, dass die Entente unsere Bitte angenommen hat. Wir sind nun wieder Teil der Entente, Arm in Arm mit den wahren Regierungen Frankreichs und Großbritanniens, Rumäniens wahren Verbündeten und Freunden."
 romania.111.a:0 "Natürlich."
+
 #Denied
 romania.112.t:0 "Die Entente hat uns verraten!"
 romania.112.d:0 "Die Entente hat unser Angebot abgelehnt, unser Militärbündnis mit ihnen zu erneuern. Wir können ihre Motive für ihren Verrat nur erahnen, aber es scheint, dass unsere Nation anderweitig, beziehungsweise im Inland, nach Unterstützung suchen muss."
 romania.112.a:0 "Nun, wir brauchen sie auch nicht!"
+
 #Romania leaves our faction (Serbia or Russia)
 romania.113.t:0 "Rumänien verlässt unsere Fraktion"
 romania.113.d:0 "Nachdem sie ihre irredentistischen Ziele erreicht haben, hat Rumänien beschlossen, das Militärbündnis mit ihnen zu beenden. Das ist zwar ärgerlich, war aber weitgehend erwartet worden, und Rumänien wäre sonst in Zukunft vielleicht zu einer nutzlosen Last geworden."
@@ -1540,7 +1573,8 @@ romania.114.c:0 "Das Letzte, was wir jetzt brauchen, sind billige ausländische 
 
 ROM_demand_better_terms_option_RUS:0 "Wir sind eine Großmacht und wir verlangen bessere Bedingungen."
 ROM_demand_better_terms_option_NFA:0 "Als größerer Partner sollten wir günstigere Konditionen bekommen." 
-ROM_demand_better_terms_option_other:0 "Offensichtlich können sie ein besseres Angebot als das machen." #GRE, SER
+ #GRE, SER
+ROM_demand_better_terms_option_other:0 "Offensichtlich können sie ein besseres Angebot als das machen."
 
 #FROM agrees
 romania.115.t:0 "Tarifvereinbarung mit [FROM.GetNameDef]"
@@ -1604,47 +1638,57 @@ romania.133.d:0 "Seit dem Aufstieg der Legion des Erzengels Michael ist die rum�
 romania.133.a:0 "Die Eiserne Garde schüchtert die Wähler erfolgreich ein."
 romania.133.b:0 "Die Sentinel überwältigen die Wächter in einigen Bezirken."
 romania.133.c:0 "Halten Sie die Paramilitärs für ein paar Tage zurück."
+
 #Averescu dies
 romania.134.t:0 "Tod von Marschall Averescu"
 romania.134.d:0 "Marschall Alexandru Averescu, einer der beiden Nicht-Könige, die einen Marschallstab erhalten haben, ist gestern Abend im Alter von 79 Jahren in seinem Haus verstorben. Seine militärische Karriere war illuster: Von einem Kavallerieoffizier im Unabhängigkeitskrieg war er Generalmajor im Zweiten Balkankrieg und Divisionsgeneral, als Rumänien den Mittelmächten den Krieg erklärte. Während des Weltkrieges erwies er sich als äußerst kompetent und errang mehrere Siege bei der Verteidigung Rumäniens gegen die eindringenden Mittelmächte. Ehrgeizig und verbittert über den Vertrag von Bukarest, war er eine der wichtigsten Stimmen, die das Verhalten der rumänischen Armee während des Krieges lobten und eifrig behaupteten, dass die Politiker des Landes ihnen in den Rücken gefallen seien, indem sie den Vertrag unterzeichneten. Während der Hauptunterzeichner des Vertrages, Alexandru Marghiloman, schnell von der Nation geächtet wurde, wurde Averescu mit Lob überschüttet und wurde 1927 Marschall von Rumänien. Ungeachtet dessen war Averescu nie in der Lage, aus der instabilen politischen Situation im Land Kapital zu schlagen und blieb größtenteils an der Seitenlinie, während Codreanus Legion an die Macht kam, die er während seiner eigenen Fehde mit dem König im Stillen unterstützte.\n\nEin Staatsbegräbnis mit vollen militärischen Ehren wird für ihn organisiert, während die rumänische Nation um einen ihrer Helden trauert, der während ihrer dunkelsten Zeiten hell erstrahlte."
 romania.134.a:0 "Das Vaterland ehrt seine Verteidiger."
+
 #Prezan dies
 romania.135.t:0 "Tod von Marschall Prezan"
 romania.135.d:0 "Heute ist Marschall Constantin Prezan in seinem Haus in Schinetea, Moldawien, friedlich verstorben. Er gilt als einer der größten rumänischen Militärhelden der jüngeren Geschichte und war einer der beiden Nicht-Könige, die den Rang eines Marschalls erreichten. Der Karriereoffizier begann sein herausragendes Dienstleben als Kadett im Jahr 1868, wo er als fähiger Stabsoffizier aufstieg (was zu dieser Zeit sehr wertvoll war), bevor er an der angesehenen Militärakademie in Saint-Cyr weiter studierte. Während des Zweiten Balkankrieges machte er sich als Brigadegeneral einen Namen und wurde danach schnell befördert. Als Rumänien den Mittelmächten den Krieg erklärte, befehligte Prezan die Erste Armee und sicherte Rumänien die wenigen offensiven Siege des Krieges. Dieser Erfolg führte dazu, dass er nach dem Fall von Bukarest zum Generalstabschef befördert wurde, wo er Rumäniens erfolgreiche Verteidigung Moldawiens gegen General Mackensens kombinierte Streitkräfte der Mittelmächte organisieren sollte. Mit der Unterzeichnung des Vertrages von Bukarest entschied sich Prezan, in den Ruhestand zu gehen und sich von der instabilen Nachkriegssituation fernzuhalten. Dennoch wurden seine herausragenden Fähigkeiten trotz der Niederlage anerkannt und er wurde 1930 mit dem Marschallstab geehrt, während sein Rat sehr gefragt war und er ein stiller Geheimrat des Königs blieb.\n\nDer ehrwürdige Marschall wird ein ordentliches Staatsbegräbnis mit allen militärischen Ehren erhalten, die von Rumäniens Helden erwartet werden. Marschall Prezans Schützling und Stabschef im Weltkrieg, Ion Antonescu, lobte ihn als \"Symbol für harte Arbeit, Patriotismus, unerschütterlichen Glauben und Opferbereitschaft\"."
 romania.135.a:0 "Rumänien wird sich immer an seine Helden erinnern."
+
 #Ultimatum for Bucovina
 romania.136.t:0 "Rumänien fordert Bucovina"
 romania.136.d:0 "Heute wurde uns über die rumänische Botschaft eine Botschaft zugestellt, bei der die Würdenträger sehr ernst aussahen, als sie sie überbrachten. Bei näherer Betrachtung war es ein Ultimatum: Rumänien fordert die Rückgabe der Ländereien in der Bukowina, von denen es behauptet, dass sie ein wichtiger Teil seiner eigenen Geschichte sind, der vor Jahrhunderten unrechtmäßig abgetreten wurde, und nun ist die Zeit gekommen, sie wieder in den Schoß zu integrieren; und sollten wir uns weigern, ist Rumänien bereit, diese Forderung mit Waffengewalt zu untermauern. Ein möglicher Krieg hängt in der Schwebe, über ein Stück Land, das vielleicht gar nicht so wertvoll für uns ist. Wie sollen wir darauf reagieren?"
 romania.136.a:0 "Niemals!"
 romania.136.b:0 "Geben Sie nach und übergeben Sie es."
+
 #Bucovina ceded
 romania.137.t:0 "[From.GetName] gibt unseren Forderungen nach"
 romania.137.d:0 "[From.GetDefName] hat der Abtretung der Bukowina zugestimmt, und in unserer Nation sind Feiern ausgebrochen über die Nachricht, dass die Ländereien der Bukowina bis zum Ceremus, die Heimat Stephans des Großen und anderer großer Persönlichkeiten, endlich nach Hause kommen."
 romania.137.a:0 "Eine weitere Ungerechtigkeit korrigiert!"
+
 #War for Bucovina
 romania.138.t:0 "[From.GetName] verweigert die Übergabe."
 romania.138.d:0 "[From.GetDefName] hat sich hartnäckig geweigert, die Bucovina abzutreten! Was sie dazu getrieben hat, ist unbekannt, aber sicher ist, dass dies zum Krieg führen wird. Unsere Truppen stehen bereit, um mit der Rückgewinnung der Woiwodschaftswälder zu beginnen und ein weiteres Kernstück unseres Erbes nach Hause zu bringen."
 romania.138.a:0 "Moldawien soll wieder vereint sein!"
 romania.138.b:0 "Sie haben unseren Bluff sofort durchschaut."
+
 #Ultimatum for West Banat
 romania.139.t:0 "Rumänien fordert West Banat"
 romania.139.d:0 "Heute hat die rumänische Botschaft auf unserem Territorium eine Botschaft an uns geschickt, und ihre Würdenträger sahen sehr feierlich aus, als sie ihre Pflicht erfüllten. Es war eine höchst bedenkliche Botschaft über den Status des westlichen Banats: Konkret argumentiert Rumänien, dass der Vertrag von Bukarest im Jahr 1916 ihm einen legitimen Anspruch auf das Gebiet gewährt, und da das Banat eine Einheit ist, sollte es der rumänischen Nation gehören. Noch beunruhigender ist, dass sie erwähnen, dass dieser Anspruch legitim genug ist, um notfalls mit Waffengewalt unterstützt zu werden. So beunruhigend diese Nachricht auch ist, es handelt sich um ein kleines und relativ unwichtiges Stück Land: Wie sollen wir darauf reagieren?"
 romania.139.a:0 "Zeigen Sie ihnen, wo die Grenze ist!"
 romania.139.b:0 "Geben Sie es her, es lohnt sich nicht, deswegen einen Krieg zu führen."
+
 #Bucovina ceded
 romania.140.t:0 "[From.GetName] liefert!"
 romania.140.d:0 "[From.GetName]] hat sich bereit erklärt, das westliche Banat abzutreten, um die Einheit der Region zu bewahren und die Erfüllung einer weiteren Bestimmung der Versprechen der Entente mit minimalem Blutvergießen sicherzustellen! "
 romania.140.a:0 "Freut euch!"
+
 #War for Bucovina
 romania.141.t:0 "From.GetName] bleibt standhaft"
 romania.141.d:0 "[From.GetName] schockierte uns nicht nur mit der Weigerung, das westliche Banat abzutreten, sondern auch mit einem sehr scharf formulierten Brief, der uns darüber informierte, wo genau unsere Grenzen verlaufen und wie hoch unser Anspruch ist! Die Nachricht ist zwar bedauerlich, aber sie wussten, worauf sie sich einlassen, und unsere Truppen stehen bereit und warten auf den Befehl, zuzuschlagen."
 romania.141.a:0 "Es soll Krieg bis aufs Messer sein!"
 romania.141.b:0 "Sie haben unseren Bluff sofort durchschaut."
+
 #Racovski retires from Thot spot
 romania.142.t:0 "Racovski zieht sich aus der PSR-Führung zurück"
 romania.142.d:0 "Cristian Racovski, bisher einer der Führer der Rumänischen Syndikalistischen Partei, hat im Zentralkomitee der Partei seinen Rücktritt angekündigt. Seine Position im Komitee und Leiter der informellen avantgardistischen Fraktion wurde von seinem Schützling Gheorghe Gheorghiu übernommen.\n\nGeboren in Bulgarien, ließ er sich 1904 in Rumänien nieder, nachdem er das Anwesen seines Vaters geerbt hatte. Er war bereits ein engagierter Revolutionär und schrieb für die sozialistische Zeitung Romania Muncitoare. 1907 wurde er wegen rebellischer Agitation des Landes verwiesen, und 1911 erneut, nachdem er heimlich nach Bukarest zurückgekehrt war. Im Exil blieb er der sozialistischen Sache in Rumänien verpflichtet, bevor er als Diplomat für die Bolschewiki in den russischen Bürgerkrieg verwickelt wurde. Als diese besiegt wurden, war Racovski einer von vielen ehemaligen Roten, die sich im revolutionären Paris wiederfanden und die rumänische sozialistische Bewegung weiterhin im Ausland als Mitglied der Dritten Internationale vertraten.\n\nNach jahrzehntelangem Dienst hat der alte Revolutionär es für an der Zeit gehalten, seinen Platz an die jüngere Generation abzutreten. Gheorghe Gheorghiu hat seinen Platz als Führer des informellen linken Flügels der PSR eingenommen."
 romania.142.a:0 "Willkommen, Genosse Gheorghiu!"
 romania.142.b:0 "Diese Sozialisten sind irrelevant."
+
 #Despawn TRS militia
 romania.143.t:0 "Siebenbürgische Miliz tritt zurück"
 romania.143.d:0 "Der von uns geförderte Aufstand hat mehrere Ad-hoc-Einheiten hervorgebracht, deren Rolle in der Anfangsphase der Offensive entscheidend für unseren Sieg war. Nach der Befreiung ihrer Heimat wurden diese Einheiten aufgelöst, obwohl ein Teil der tapferen Männer ihre Bereitschaft gezeigt hat, in die eigentliche Armee einzutreten. Nichtsdestotrotz werden die Namen dieser wahren Patrioten auf beiden Seiten der Karpaten für immer in Erinnerung bleiben."
@@ -1808,7 +1852,7 @@ romania.179.d:0 "Artikel 29: Alle Befugnisse des Staates leiten sich von der rum
 romania.179.a:0 "Genehmigt, natürlich."
 
 romania.180.t:0 "Die königliche Verfassung: Auf die König - Kräfte"
-romania.180.d:0 "Artikel 44: Die Person des Königs ist unantastbar. Seine Minister sind rechenschaftspflichtig.\nStaatsakte des Königs werden von einem Minister gegengezeichnet, der durch diesen Akt für sie verantwortlich wird.\nAusgenommen ist die Ernennung des Premierministers.\n\nArtikel 45: Der König beruft die gesetzgebenden Versammlungen mindestens einmal im Jahr ein und eröffnet die Sitzung durch eine Botschaft, die von den Versammlungen beantwortet werden muss.\nDer König verkündet das Ende der Sitzung.\nEr hat das Recht, beide Versammlungen auf einmal aufzulösen oder nur eine von ihnen. Der Auflösungsakt muss die Einberufung der Wähler und der neuen Versammlungen enthalten.\nDer König kann die Versammlungen verzögern. Sie werden ein volles Jahr nach der Verzögerung zusammentreten, wenn sie in der Zwischenzeit nicht wieder einberufen wurden.\n\nArtikel 46: Der König ernennt und entlässt seine Minister.\nEr kann in Strafsachen begnadigen oder Strafen mildern, außerhalb von Entscheidungen über die Minister.\nEr kann keine Untersuchungen oder Prozesse aussetzen, auf keinen Fall in den Prozess der Justiz eingreifen.\nEr ernennt oder bestätigt öffentliche Ämter gemäß den Gesetzen.\n Er kann kein neues Amt ohne ein spezielles Gesetz schaffen.\n Er macht die notwendigen Vorschriften für die Ausführung von Gesetzen, ohne sie abändern oder jemanden von ihrer Ausführung befreien zu können.\nEr kann, während die Versammlungen aufgelöst sind und zwischen den Sitzungen, Dekrete mit Gesetzeskraft zu jedem Thema erlassen, die den Versammlungen zur Ratifizierung in ihrer nächsten Sitzung zugestellt werden.\nEr ist der Chef der Armee. \n Er hat das Recht, den Krieg zu erklären und Frieden zu schließen.\nEr verleiht militärische Dienstgrade in Übereinstimmung mit dem Gesetz.\n Er verleiht rumänische Orden.\nEr akkreditiert Botschafter und bevollmächtigte Minister bei ausländischen Staatsoberhäuptern.\n Er hat das Recht, Geld auszugeben, gemäß einem speziellen Gesetz.\nEr unterzeichnet mit fremden Staaten politische und militärische Verträge. Für Handel, Schifffahrt und dergleichen notwendige Abkommen, die er unterzeichnet, müssen jedoch von den gesetzgebenden Versammlungen genehmigt werden."
+romania.180.d:0 "Artikel 44: Die Person des Königs ist unantastbar. Seine Minister sind rechenschaftspflichtig.\nStaatsakte des Königs werden von einem Minister gegengezeichnet, der durch diesen Akt für sie verantwortlich wird.\nAusgenommen ist die Ernennung des Premierministers.\n\nArtikel 45: Der König beruft die gesetzgebenden Versammlungen mindestens einmal im Jahr ein und eröffnet die Sitzung durch eine Botschaft, die von den Versammlungen beantwortet werden muss.\nDer König verkündet das Ende der Sitzung.\nEr hat das Recht, beide Versammlungen auf einmal aufzulösen oder nur eine von ihnen. Der Auflösungsakt muss die Einberufung der Wähler und der neuen Versammlungen enthalten.\nDer König kann die Versammlungen verzögern. Sie werden ein volles Jahr nach der Verzögerung zusammentreten, wenn sie in der Zwischenzeit nicht wieder einberufen wurden.\n\nArtikel 46: Der König ernennt und entlässt seine Minister.\nEr kann in Strafsachen Begnadigungen oder Strafmilderungen gewähren, abgesehen von den Entscheidungen über die Minister.\nEr kann keine Untersuchungen oder Prozesse aussetzen, auf keinen Fall in den Prozess der Justiz eingreifen.\nEr ernennt oder bestätigt öffentliche Ämter gemäß den Gesetzen.\n Er kann kein neues Amt ohne ein spezielles Gesetz schaffen.\n Er macht die notwendigen Vorschriften für die Ausführung von Gesetzen, ohne sie abändern oder jemanden von ihrer Ausführung befreien zu können.\nEr kann, während die Versammlungen aufgelöst sind und zwischen den Sitzungen, Dekrete mit Gesetzeskraft zu jedem Thema erlassen, die den Versammlungen zur Ratifizierung in ihrer nächsten Sitzung zugestellt werden.\nEr ist der Chef der Armee. \n Er hat das Recht, den Krieg zu erklären und Frieden zu schließen.\nEr verleiht militärische Dienstgrade in Übereinstimmung mit dem Gesetz.\n Er verleiht rumänische Orden.\nEr akkreditiert Botschafter und bevollmächtigte Minister bei ausländischen Staatsoberhäuptern.\n Er hat das Recht, Geld auszugeben, gemäß einem speziellen Gesetz.\nEr unterzeichnet mit fremden Staaten politische und militärische Verträge. Für Handel, Schifffahrt und dergleichen notwendige Abkommen, die er unterzeichnet, müssen jedoch von den gesetzgebenden Versammlungen genehmigt werden."
 romania.180.a:0 "Nie wieder sollen dem König die Hände gebunden sein."
 
 romania.181.t:0 "Die königliche Verfassung: On the Senate"
@@ -1874,10 +1918,11 @@ romania.194.d:0 "Unmittelbar nach der Verlesung der Unabhängigkeitserklärung i
 romania.194.a:0 "Lang lebe Rumänien!"
 
 romania.195.t:0 "Das Fest der Heiligen Erzengel"
-romania.195.d:0 "In der ostorthodoxen Liturgie ist der 8. November das Fest der heiligen Erzengel Michael und Gabriel sowie der anderen körperlosen Kräfte des Himmels. Im ganzen Land und darüber hinaus feiern viele Menschen ihren Namenstag, viele andere sogar ihren Geburtstag.\n\nKeiner jedoch feiert so stolz wie die Legion des Erzengels Michael, deren Hingabe an den Befehlshaber der himmlischen Heerscharen ihren Hauptmann dazu gebracht hat, den Festtag ihres Patrons zu einer bewegungsweiten Feier zu erklären. Nestversammlungen an diesem Tag waren dem Gedenken an ihren himmlischen Schutzpatron gewidmet, in vielen Gegenden fanden an diesem Tag Demonstrationen und Paraden statt, bevor sie mit dem Besuch der Göttlichen Liturgie gipfelten. Viele Kirchen berichten von einem sprunghaften Anstieg der Besucherzahlen, der von den frommeren Mitgliedern der Bewegung verursacht wurde.\n\nDer Kapitän selbst schloss sich den Feierlichkeiten an und schickte Festbotschaften und Grüße an Mitglieder und lokale Organisationen im ganzen Land, bevor er an der Liturgie in Bukarest in seiner Lieblingskirche, St. Ilie Gorgani, teilnahm."
+romania.195.d:0 "In der ostorthodoxen Liturgie ist der 8. November das Fest der heiligen Erzengel Michael und Gabriel sowie der anderen körperlosen Kräfte des Himmels. Im ganzen Land und darüber hinaus feiern viele Menschen ihren Namenstag, viele andere sogar ihren Geburtstag.\n\nKeiner feiert jedoch so stolz wie die Legion des Erzengels Michael, deren Hingabe an den Befehlshaber der himmlischen Heerscharen Hauptmann Codreanu dazu veranlasst hat, den Festtag ihres Schutzpatrons zu einem bewegungsweiten Fest zu erklären. Nestversammlungen an diesem Tag waren dem Gedenken an ihren himmlischen Schutzpatron gewidmet, in vielen Gegenden fanden an diesem Tag Demonstrationen und Paraden statt, bevor sie mit dem Besuch der Göttlichen Liturgie gipfelten. Viele Kirchen berichten von einem sprunghaften Anstieg der Besucherzahlen, der von den frommeren Mitgliedern der Bewegung verursacht wurde.\n\n[GetHeadOfGovernment] selbst schloss sich den Feierlichkeiten an und schickte Festbotschaften und Grüße an Mitglieder und lokale Organisationen im ganzen Land, bevor er an der Liturgie in Bukarest in seiner Lieblingskirche, St. Ilie Gorgani, teilnahm."
 romania.195.a:0 "Der Erzengel schaut zu"
 
-romania.196.t:0 "Umdenken in der Verwaltung" #pnt
+ #pnt
+romania.196.t:0 "Umdenken in der Verwaltung"
 romania.196.d:0 "Ein bedeutender Teil der Nationalen Bauernpartei stammt aus Siebenbürgen, eine Herkunft, die sich auf die Ansichten vieler ihrer Mitglieder auswirkt, insbesondere auf die lokale Verwaltung. Das prominente PNT-Mitglied Iuliu Maniu ist ein bekannter Befürworter von Verwaltungsreformen und betrachtet die Autonomie der lokalen Verwaltung, sei es auf dem Land oder in der Stadt, als Grundlage für eine gerechte und moderne Verwaltung.\n\nJetzt, wo die PNT an der Macht ist, sind Manius Vorschläge weit mehr als nur Wahlkampfgetöse; die Partei hat die Chance, mit der Umsetzung von Reformen zu beginnen, angefangen mit der Schaffung von sieben Direktorien, die einige der Aufgaben der Regierung im Umgang mit der lokalen Verwaltung übernehmen werden. Auch wenn es noch ein weiter Weg ist, das Beste aus der Verwaltung des Alten Reiches mit der Siebenbürgens zu verschmelzen, wird es als guter Anfang gesehen, und es bleibt abzuwarten, wie die Partei die versprochenen Reformen umsetzen wird."
 romania.196.a:0 "Einige der Reformen umsetzen."
 romania.196.b:0 "Zerreißen Sie das alte System und treten Sie in die Moderne ein."
@@ -1891,8 +1936,10 @@ romania.197.b:0 "Das ist nicht genug - wir werden das System komplett umgestalte
 romania.198.t:0 "Der verlorene Bruder."
 romania.198.d:0 "Der jüngere Bruder des Königs, Prinz Nicolae, hat sich normalerweise nicht so sehr in die Politik eingemischt wie sein bombastischerer Bruder, aber in letzter Zeit haben Gerüchte begonnen, um ihn herum zu wirbeln. Während dies normalerweise kein Grund zur Besorgnis für Carol wäre, gibt es einige dieser Gerüchte, die besagen, dass er die Legionärsbewegung umwirbt, sei es durch einfache Spenden oder indem er ihnen Zugang zu verschiedenen Besitztümern verschafft, die er erwirbt.\n\nDie Fehde zwischen den beiden Brüdern begann wegen Nicolaes romantischen Vorlieben; nachdem er Lady Ioana Doletti kennengelernt und sich in sie verliebt hatte, wollte er sie heiraten; ein Wunsch, den sein königlicher Bruder ablehnte, was Nicolae als heuchlerisch empfand, da Carol selbst eine Geliebte hatte, während Carol sich damit verteidigte, dass er Lupescu nicht heiraten und die Ehre des Königshauses in der Weise beflecken würde, wie Nicolae es tun würde, indem er Doletti heiratete; eine Tat, die er angeblich bereits im Geheimen getan hat. Es wird gesagt, dass Lupescus Abneigung gegen Doletti sowie Nicolaes Abneigung gegen die Atmosphäre im Kreis der Mitarbeiter des Königs die Angelegenheit zusätzlich verkomplizieren."
 
-romania.198.a:0 "Ein Maulwurf im eigenen Haushalt des Königs? Wir müssen ein Auge auf ihn haben." #Carlist
-romania.198.b:0 "Ein Verbündeter im Palast? Höchst willkommen." #Legionary
+ #Carlist
+romania.198.a:0 "Ein Maulwurf im eigenen Haushalt des Königs? Wir müssen ein Auge auf ihn haben."
+ #Legionary
+romania.198.b:0 "Ein Verbündeter im Palast? Höchst willkommen."
 
 romania.199.t:0 "Ehe oder Pflicht?"
 romania.199.d:0 "Nach dem Ende von Carols Machtkampf mit der Legionärsbewegung fühlte der König, dass es an der Zeit war, das Problem seines eigensinnigen Bruders, Prinz Nicolae, richtig anzugehen. Da er das Gefühl hatte, dass seine heimliche Ehefrau Ioana Doletti ihn vom Weg abgebracht und in Konflikte verwickelt hat, die er nicht einmal verstehen kann und die ihn mehr als alles andere in den Ruin führen würden, beschloss der König zu handeln, um dieses dynastische Problem zu lösen.\n\nAuf Wunsch des Königs ließ der Präsident des Ministerrats, Armand Calinescu, einen Brief an Nicolae verfassen, in dem er ihn bat, einen "Zustand zu klären, der nicht ohne schweren Schaden für das Ansehen und die Autorität der Dynastie fortbestehen kann". Er wurde aufgefordert, sich zwischen der Mitgliedschaft im Königshaus und seiner Ehe zu entscheiden. Nach großer Bestürzung entschied sich Nicolae für seine Ehe.\n\nDer König berief daraufhin den Kronrat ein, der nach einer Diskussion ein Kommuniqué veröffentlichte, in dem erklärt wurde, dass Nicolaes Status als Mitglied des Königshauses beendet sei. In seinem privaten Tagebuch schrieb Carol jedoch, dass er nicht wollte, dass es auf diese Weise endet, dass er diesen Ausschluss nicht selbst durchführen musste, aber Nicolaes Verhalten zwang ihn dazu."
@@ -1903,12 +1950,12 @@ romania.200.d:0 "Einem außenstehenden Beobachter mag die Legion triumphierend e
 romania.200.a:0 "Beim Erzengel, wir werden siegen!"
 
 romania.201.t:0 "Eine monarchische Frage"
-romania.201.d:0 "Mit der Abdankung von König Carol II. ist die Frage nach seiner Nachfolge aufgekommen. Unter normalen Umständen würde sein Sohn Mihai den Thron erben, und viele sind der Meinung, dass seine Jugend und scheinbare Fügsamkeit ihn zu einem idealen Kandidaten für die Nachfolge seines Vaters machen würden. Viele Teilnehmer der Kronratssitzungen sind jedoch der Meinung, dass Mihai der Idee der Demokratie und einer konstitutionellen Monarchie eher zugeneigt ist und sich als unkooperativ erweisen könnte. Die Lösung, die sie vorschlagen, wäre, einen Deal mit Prinz Nicolae zu machen, der sich nicht nur nicht für Politik interessiert, sondern auch einige Sympathien für unsere Sache gezeigt hat. Als Gegenleistung für eine Änderung des Statuts des Königshauses, um seine Ehe mit Ioana Doletti zu legitimieren, würde er gerne den Thron besteigen, allerdings könnte diese Machtübernahme einen gewissen Imageschaden verursachen. Wie sollte die Vorgehensweise sein?"
+romania.201.d:0 "Nach dem Tod von König Carol II. stellt sich die Frage nach seiner Nachfolge. Unter normalen Umständen würde sein Sohn Mihai den Thron erben, und viele sind der Meinung, dass seine Jugend und scheinbare Fügsamkeit ihn zu einem idealen Kandidaten für die Nachfolge seines Vaters machen würden. Viele Teilnehmer der Kronratssitzungen sind jedoch der Meinung, dass Mihai der Idee der Demokratie und einer konstitutionellen Monarchie eher zugeneigt ist und sich als unkooperativ erweisen könnte. Die Lösung, die sie vorschlagen, wäre, einen Deal mit Prinz Nicolae zu machen, der sich nicht nur nicht für Politik interessiert, sondern auch einige Sympathien für unsere Sache gezeigt hat. Als Gegenleistung für eine Änderung des Statuts des Königshauses, um seine Ehe mit Ioana Doletti zu legitimieren, würde er gerne den Thron besteigen, allerdings könnte diese Machtübernahme einen gewissen Imageschaden verursachen. Wie sollte die Vorgehensweise sein?"
 romania.201.a:0 "Folgen Sie der Erbfolge und inthronisieren Sie Kronprinz Mihai."
 romania.201.b:0 "Ein sympathischer Monarch wäre viel nützlicher, rufen Sie Prinz Nicolae!"
 
 romania.202.t:0 "Eine Insel, alleinstehend"
-romania.202.d:0 "Die Insel Ada Kaleh ist insofern eine Kuriosität, als sie lange Zeit eine Enklave des Osmanischen Reiches blieb, nachdem sie von der Donaugrenze verdrängt worden war; eine Kuriosität, die scheinbar nach der österreichischen Besetzung der Insel wieder rückgängig gemacht wurde, aber de jure war sie immer noch rechtlich eine Domäne des Sultans.\n\nDoch mit dem Ausbruch der Feindseligkeiten im Nahen Osten und der Beschäftigung der Osmanen mit dem dortigen Konflikt sowie dem Truppenabzug der Österreicher nach dem Schwarzen Montag stand die Insel alleine da; eine osmanische Besitzung mitten in der Donau, ein Relikt vergangener Zeiten. Ein Relikt, das Rumänien in seinen Händen als viel nützlicher ansah als außerhalb.\n\nDie rumänischen Behörden, die schnell die Kontrolle über das kleine Eiland erlangten, verkündeten, dass die Insel offiziell zu Rumänien gehöre, die Rechte der lokalen Bevölkerung jedoch respektiert werden sollen. Es bleibt abzuwarten, wie die osmanischen Behörden auf diese Übertretung reagieren werden."
+romania.202.d:0 "Die Insel Ada Kaleh ist insofern eine Kuriosität, als sie lange Zeit eine Enklave des Osmanischen Reiches blieb, nachdem sie von der Donaugrenze verdrängt worden war; eine Kuriosität, die scheinbar nach der österreichischen Besetzung der Insel wieder rückgängig gemacht wurde, aber de jure war sie immer noch rechtlich eine Domäne des Sultans.\n\nDoch mit dem Ausbruch der Feindseligkeiten im Nahen Osten und der Beschäftigung der Osmanen mit dem dortigen Konflikt sowie dem Truppenabzug der Österreicher nach dem Schwarzen Montag stand die Insel alleine da; eine osmanische Besitzung mitten in der Donau, ein Relikt vergangener Zeiten. Ein Relikt, das Rumänien in seinen Händen als viel nützlicher ansah als außerhalb.\n\nDie rumänischen Behörden, die rasch die Kontrolle über das kleine Eiland übernahmen, erklärten, dass die Insel offiziell zu Rumänien gehöre, aber auch, dass die Rechte der örtlichen Bevölkerung zu respektieren seien. Es bleibt abzuwarten, wie die osmanischen Behörden auf diese Übertretung reagieren werden."
 romania.202.a:0 "Ein Anachronismus, korrigiert."
 romania.202.b:0 "Verdammt!"
 
@@ -1973,7 +2020,7 @@ romania.214.b:0 "Wir werden nicht im Schatten des Kapitäns stehen!"
 romania.215.t:0 "Ein Besuch in Putna"
 romania.215.d.carol:0 "Mit der Eingliederung der Bukowina in den rumänischen Staat liegt das Kloster Putna wieder auf rumänischem Boden, eine Tatsache, die von vielen politischen Persönlichkeiten, darunter auch von seiner Majestät dem König, schnell bemerkt und aufgegriffen wurde.\n\nIn einem sehr öffentlichkeitswirksamen Besuch haben der König, sein Ministerrat, der Patriarch und der Kronprinz die Region bereist und unter anderem die Klöster der Bukowina besucht und in ihre Geschichte eingetaucht, von Voronet bis Sucevita, gipfelnd in einem Besuch der Ruhestätte von Stephan dem Großen von Moldawien, im Kloster Putna.\n\nNachdem er am Grab des Woiwoden seine Aufwartung gemacht hatte, hielt der König in Begleitung seines Gefolges eine Rede, in der er die Rückkehr der Bukowina und der sterblichen Überreste Stephans des Großen auf rumänischen Boden würdigte und versprach, dafür zu sorgen, dass die sterblichen Überreste des Woiwoden nie wieder aus Rumänien entfremdet werden."
 romania.215.d.legion:0 "Mit der Eingliederung der Bukowina in den rumänischen Staat liegt das Kloster Putna wieder auf rumänischem Boden, was sich die Legionärsbewegung schnell zu Nutze machte.\n\nIn einem vielbeachteten Besuch in der Region besuchte der Hauptmann, Corneliu Codreanu, in Begleitung vieler Mitglieder der Legion die Klöster der Region, die Höhle von Daniil dem Einsiedler und viele andere Gegenden, gipfelnd in einem Besuch der Ruhestätte des Woiwoden Stephan des Großen, im Putna-Kloster.\n\nNachdem er am Grab des Woiwoden seine Aufwartung gemacht und an der Liturgie teilgenommen hatte, hielt der Hauptmann eine Rede, in der er Gott für die bedeutsame Rückkehr der Überreste des Woiwoden nach Rumänien dankte, ebenso wie für die Integration von Cernauti, woher sein Vater, Ion Zelea Codreanu, stammte. Dann versprach er, dass die Legion dem Beispiel Stephans des Großen folgen und das Land gegen jeden Feind, der die Grenze überquert, verteidigen wird, bevor er in einem Gelübde gipfelte, dafür zu sorgen, dass die Überreste Stephans des Großen Rumänien nie wieder verlassen werden."
-romania.215.d.michael:0 "Mit der Eingliederung der Bukowina in den rumänischen Staat liegt das Kloster Putna wieder auf rumänischem Boden, was von der Öffentlichkeit schnell wahrgenommen und von verschiedenen Parteiführern kommentiert wurde.\n\nUm die Region enger an den rumänischen Staat zu binden, haben König Mihai und ein Gefolge aus seinem Kabinett und führenden Politikern aus der Region eine Rundreise von Suceava bis Cernauti unternommen, um in die Kultur der Region einzutauchen und zu besichtigen, was die Region zu bieten hat, gipfelnd in einem öffentlichkeitswirksamen Besuch der Grabstätte Stephans des Großen, dem Kloster Putna.\n\nNach der Huldigung des toten Prinzen hielt der König eine Rede, in der er Stephan für seine Verteidigung des Landes und die Sicherung des Wohlstands Moldawiens während seiner Herrschaft lobte. Er beglückwünschte das Volk der Bukowina dafür, dass es unter fremder Herrschaft an seiner Identität festgehalten hat, und schloss mit dem Versprechen, den Wohlstand und die Integrität der Provinz auch unter rumänischer Herrschaft zu sichern, so wie Stephan der Große den Wohlstand Moldawiens in der Vergangenheit gesichert hat."
+romania.215.d.michael:0 "Mit der Eingliederung der Bukowina in den rumänischen Staat liegt das Kloster Putna wieder auf rumänischem Boden, was von der Öffentlichkeit schnell wahrgenommen und von verschiedenen Parteiführern kommentiert wurde.\n\nUm die Region enger an den rumänischen Staat zu binden, haben König [Root.GetLeader] und ein Gefolge aus seinem Kabinett und führenden Politikern aus der Region eine Rundreise von Suceava bis Cernauti unternommen, um in die Kultur der Region einzutauchen und zu besichtigen, was die Region zu bieten hat, gipfelnd in einem öffentlichkeitswirksamen Besuch der Grabstätte Stephans des Großen, dem Kloster Putna.\n\nNach der Huldigung des toten Prinzen hielt der König eine Rede, in der er Stephan für seine Verteidigung des Landes und die Sicherung des Wohlstands Moldawiens während seiner Herrschaft lobte. Er beglückwünschte das Volk der Bukowina dafür, dass es unter fremder Herrschaft an seiner Identität festgehalten hat, und schloss mit dem Versprechen, den Wohlstand und die Integrität der Provinz auch unter rumänischer Herrschaft zu sichern, so wie Stephan der Große den Wohlstand Moldawiens in der Vergangenheit gesichert hat."
 romania.215.a:0 "Mögen wir unser Versprechen erfüllen."
 romania.215.b:0 "Die Bucovina soll nie wieder verloren gehen."
 romania.215.c:0 "Die Brüder sollen nicht mehr getrennt werden."
@@ -2025,7 +2072,7 @@ romania.226.d:0 "Im Parlament und im Grünen Haus wird gefeiert, denn die Legion
 romania.226.a:0 "Endlich strahlt das Land!"
 
 romania.227.t:0 "Eine neue Verfassung!"
-romania.227.d:0 "Nach der Konsolidierungs- und Regierungszeit der PNT ist es an der Zeit, die alte Verfassung von 1866 endlich zu revidieren, ein Akt, der vollzogen wurde. Nach der Genehmigung durch die gesetzgebenden Kammern und den Souverän wird erwartet, dass auch das Volk sie per Referendum annimmt.\n\nBeeinflusst sowohl von der alten Verfassung als auch von den Ansichten von Theoretikern wie Constantin Stere und Romul Boilă, widmet die neue Verfassung einen großen Raum der Definition und dem Schutz der individuellen Rechte, beeinflusst von dem englischen Konzept des Habeas Corpus. Die Zentralisierung wird zwar immer noch aufrechterhalten, aber durch lokale Autonomie auf den untersten Ebenen abgemildert, und die Rolle von Volksinitiativen und Referenden wird gestärkt. Nicht alle Bestimmungen überlebten jedoch den Diskussionsprozess; der Oberste Wirtschaftsrat, das Einkammerparlament und die Idee, die Landnutzung und -aufteilung unter staatliche Kontrolle zu stellen, schafften es nicht in die Revision.\n\nIhr Geist blieb jedoch unversehrt, und die Front der PNT ist sich sicher, dass ihre neue Verfassung ein großer Schritt in Richtung einer besseren Zukunft für Rumänien sein wird, da die Nation als Einheit voranschreitet."
+romania.227.d:0 "Nach der Konsolidierungs- und Regierungszeit der PNT ist es an der Zeit, die alte Verfassung von 1866 endlich zu revidieren, ein Akt, der vollzogen wurde. Nach der Genehmigung durch die gesetzgebenden Kammern und den Souverän wird erwartet, dass auch das Volk sie per Referendum annimmt.\n\nBeeinflusst sowohl von der alten Verfassung als auch von den Ansichten von Theoretikern wie Constantin Stere und Romul Boilă, widmet die neue Verfassung einen großen Raum der Definition und dem Schutz der individuellen Rechte, beeinflusst von dem Britischen Konzept des Habeas Corpus. Die Zentralisierung wird zwar immer noch aufrechterhalten, aber durch lokale Autonomie auf den untersten Ebenen abgemildert, und die Rolle von Volksinitiativen und Referenden wird gestärkt. Nicht alle Bestimmungen überlebten jedoch den Diskussionsprozess; der Oberste Wirtschaftsrat, das Einkammerparlament und die Idee, die Landnutzung und -aufteilung unter staatliche Kontrolle zu stellen, schafften es nicht in die Revision.\n\nIhr Geist blieb jedoch unversehrt, und die Front der PNT ist sich sicher, dass ihre neue Verfassung ein großer Schritt in Richtung einer besseren Zukunft für Rumänien sein wird, da die Nation als Einheit voranschreitet."
 romania.227.a:0 "Ein Hoch auf die neue Verfassung für alle Rumänen!"
 
 romania.228.t:0 "Eine neue Verfassung!"
@@ -2044,6 +2091,23 @@ romania.231.t:0 "Terroranschlag in Alföld!"
 romania.231.d:0 "Trotz unserer besten Bemühungen bleibt das westliche Grenzgebiet feindlich und gefährlich für echte Rumänen. In einem deprimierend häufigen Ereignis hat eine Gruppe von magyarischen Terroristen eine kleine Militärpatrouille tief in Alföld angegriffen. Kaum hatten unsere Männer das Feuer erwidert, flüchteten die Verbrecher. Die Patrouille wurde zurückgelassen, um ihre Toten und Verwundeten zu versorgen, während die Jagd nach den Angreifern begann, aber es war für jeden klar, dass es ein fruchtloses Unterfangen sein würde. Die verschiedenen separatistischen Organisationen der Alföld-Region hatten fast die volle Unterstützung der Einheimischen, und wurden von den ungarischen Bauern geschützt und unterstützt. Das Einzige, was wir tun konnten, war, die Sicherheit zu erhöhen und die Städte immer stärker in die Zange zu nehmen."
 romania.231.a:0 "Schickt mehr Truppen!"
 romania.231.b:0 "Mit der Zeit werden sie lernen, die Peitsche zu lieben."
+
+ romania.232.t:0 "Widerstand in Alföld"
+ romania.232.d:0 "Trotz unserer Bemühungen, in den letzten Wochen eine Ausgangssperre zu verhängen und die Widerstandsaktivitäten in Alföld einzuschränken, wachten viele heute Morgen auf und sahen die ungarische Flagge trotzig über mehreren staatlichen Gebäuden in Debrecen wehen. Es ist nicht bekannt, wie es den Tätern gelungen ist, einen solchen Akt der Täuschung zu koordinieren, aber es ist wahrscheinlich, dass sie von sympathisierenden Beamten der örtlichen Regierung unterstützt wurden. Obwohl sie in aller Eile abgerissen wurden, war der Schaden bereits angerichtet. Mehrere Zeitungen hatten Fotos von den Gebäuden gemacht, und die Nachricht verbreitete sich wie ein Lauffeuer in den ungarischen Zeitungen jenseits der Grenze. Zwar wurde niemand verletzt, doch dürfte diese Tat die hiesigen Widerstandszellen nur ermutigen."
+ romania.232.a:0 "Holt die verdammten Flaggen runter, sofort!"
+
+ romania.233.t:0 "Polizist in Alföld erschossen"
+ romania.233.d:0 "Die Einwohner von Békéscsaba wurden heute Mittag durch mehrere Schüsse aufgeschreckt. Ein maskierter Angreifer hatte einen unserer Beamten, der in einer Kneipe im Stadtzentrum getrunken hatte, erschossen. Die Versuche der Militärpolizei in der Gegend, ihn zu verfolgen, wurden von einer wenig kooperativen Menge vereitelt, und er konnte schließlich entkommen. Auch die Nachforschungen von Zeugen erwiesen sich als erfolglos, da sich viele Ungarn schlichtweg weigerten, gegenüber der Gendarmerie auszusagen. Es ist wahrscheinlich, dass wir den Täter nie finden werden, da er sich höchstwahrscheinlich über die ungarische Grenze geschmuggelt hat und für uns nicht mehr greifbar ist."
+ romania.233.a:0 "Verdoppeln Sie die Größe der Stadtgarnison. Sorge dafür, dass so etwas nie wieder passiert!"
+
+ romania.234.t:0 "Kaserne geplündert!"
+ romania.234.d:0 "Es liegen Berichte vor, dass eine unserer Kasernen in Orosháza gestern Abend geplündert wurde. Einer Gruppe von Rebellen gelang es, den Stützpunkt anzugreifen und die dort stationierten Wachen zu überwältigen, bevor sie die Kaserne plünderten. Insgesamt haben wir 17 Männer verloren, nachdem sich die Kämpfer in die Nacht zurückgezogen hatten und eine Leichenzählung durchgeführt wurde. Tausende von Gewehren, Hunderte von Maschinengewehren und zwei Dutzend Kisten mit Granaten sind nun unauffindbar, da sie wahrscheinlich bereits zwischen mehreren Untergrundzellen in der Provinz verteilt wurden. Wenn wir zulassen, dass diese Ausrüstung dort draußen verbleibt, wird das in Zukunft nur noch mehr Probleme für uns im Umgang mit den Rebellen mit sich bringen. Was sollten wir tun?"
+ romania.234.a:0 "Durchsuche alle Grundstücke in der Umgebung. Finden Sie diese Waffen!"
+ romania.234.b:0 "Erhöhen Sie die Anzahl der aktiven Wachen und verstärken Sie die Verteidigungsanlagen aller unserer Stützpunkte."
+
+ romania.240.t:0 "Großes Spiel abgekürzt"
+ romania.240.d:0 "Codreanus revanchistischer Schachzug ist gescheitert und hat zu einer nationalen Katastrophe geführt. Die Bulgaren haben ein weiteres Mal über uns triumphiert und einen demütigenden Friedensvertrag erzwungen. Keine noch so verprügelten 'Verräter' konnten die Situation für den Hauptmann retten, und die Rufe nach seiner Absetzung werden immer lauter. Nicht einmal seine eigene Schar steht hinter ihm, denn viele seiner Rivalen wittern bereits Blut.\n\nDer König würde sich freuen, wenn er nicht in denselben Vorwürfen stecken würde wie seine Regierung. Immerhin war der Krieg mit Bulgarien eines der wenigen Dinge, in denen er mit Codreanu einig war. Die liberale Opposition, die durch das totale Scheitern der beiden Möchtegern-Diktatoren gestärkt wurde, fordert die zweite Abdankung von Carol II - diesmal für immer. Nachdem er den Willen verloren hat, sich diesen Aufrufen zu widersetzen, dankt Carol II. wenige Tage später offiziell ab.\n\nIn der überraschenden neuen Chance für die rumänische Demokratie haben Constantin Brătianu und seine Nationalliberalen erneut eine Regierung in Zusammenarbeit mit dem jungen König Mihai I. gebildet. Gemeinsam schwören sie, die angeschlagene rumänische Demokratie wieder aufzubauen - und wenn Gott es will, eine Gesellschaft ohne Codreanus und Carol II."
+ romania.240.a:0 "Viel Glück, König Mihai."
 
 ### Leader Traits ###
 ROM_autocrat:0 "Entschlossener Autokrat"
@@ -2071,7 +2135,7 @@ POLITICS_MICHAEL_I_2_DESC:0 "Geboren als Sohn des Kronprinzen Carol und der Prin
 POLITICS_CAROL_II_DESC:0 "Damals, als er noch der Kronprinz war, schien Carol II. von Rumänien eine höchst ungeeignete Person zu sein, um den rumänischen Thron zu besteigen, wie der Zizi Lambrino-Zwischenfall in den letzten Tagen des Weltkriegs zeigte. Der Verlust seines Landes traf ihn jedoch hart, und als er die Unzufriedenheit sah, in die sein zukünftiges Königreich geraten war, schwor er sich, das Land wieder zu dem zu machen, was es eigentlich sein sollte. Als autokratischer Charmeur par excellence nutzte er die kleine, aber aufstrebende Legionärsbewegung als Vorschlaghammer, um die untergehende PNL und die alten Rivalen der Legionäre, die National-Christliche Verteidigungsliga, weiter zu schwächen. Nun aber steht der intrigante König vor einer letzten Hürde auf seinem Weg, sein Land zu erlösen: dieselbe Legionärsbewegung, die er einst unterstützte, und ihr zwielichtiger Hauptmann, Corneliu Zelea Codreanu. Während sich am Horizont der Nach-Weltkriegsordnung Wolken auftürmen, sehen sowohl der König als auch der Hauptmann Möglichkeiten, ihr Ziel der nationalen Einigung zu erreichen und die Macht des anderen zu brechen, und der König, obwohl ein unvollkommener Mann, wird jede Gelegenheit nutzen, die sich ihm bietet, um sich als unangefochtene Sonne seines Landes zu etablieren."
 POLITICS_CAROL_II_2_DESC:0 "Damals, als er noch der Kronprinz war, schien Carol II. von Rumänien eine höchst ungeeignete Person zu sein, um den rumänischen Thron zu besteigen, wie der Zizi Lambrino-Zwischenfall in den letzten Tagen des Weltkriegs zeigte. Der Verlust seines Landes traf ihn jedoch hart, und als er die Unzufriedenheit sah, in die sein zukünftiges Königreich geraten war, schwor er sich, das Land wieder zu dem zu machen, was es eigentlich sein sollte. Als autokratischer Charmeur par excellence benutzte er die kleine, aber aufstrebende Legionärsbewegung als Vorschlaghammer, um die untergehende PNL und die alten Rivalen der Legionäre, die Nationalchristliche Verteidigungsliga, weiter zu schwächen, und jetzt hat er sie im Zuge des Stelescu-Vorfalls ebenfalls beiseite geschoben. Jetzt regiert er unangefochten über Rumänien und plant, seine nun unangreifbare Position zu nutzen, um Rumänien zu einem wahren regionalen Machtzentrum aufzubauen, das auf einer starken Industrie, einer üppigen Landwirtschaft und einer blühenden Kultur basiert und unter der festen Hand und dem unerschütterlichen Blick des Königs vereint ist. Komme, was wolle, das vereinte rumänische Volk wird in eine strahlende Zukunft geführt werden, und es wird für immer der Führung seines visionären Monarchen zu Dank verpflichtet sein."
 POLITICS_CANTACUZINO_DESC:0 "Als Spross der alten fürstlichen Cantacuzino-Familie, die ihre Abstammung von der byzantinischen Kantakouzenos-Dynastie behauptet, ist Prinz Alexandru Cantacuzino ein sehr untypischer Adliger. Als überzeugter Anhänger der Legion des Erzengels Michael machte Cantacuzino auf zahlreichen nationalistischen Studentenkongressen auf sich aufmerksam und hielt feurige Reden, in denen er anprangerte, was er als Schande für sein Land ansah. Schnell stieg er in den Reihen der Legionärsbewegung auf, wurde Mitglied des inneren Kreises des Hauptmanns und machte sich als Theoretiker und effizienter Organisator einen Namen. Nach der Machtübernahme wurde Cantacuzino Minister im Kabinett des Hauptmanns. Der Prinz, der sich im Spanischen Bürgerkrieg noch mehr verausgabte, kehrte nach Hause zurück, nur um in den eskalierenden Konflikt zwischen dem Hauptmann und dem König verwickelt zu werden.\n\nSchockiert von der Ermordung Codreanus, schloss sich Cantacuzino dem Kampf an, sammelte viele Legionäre für die Sache und half, die Bewegung für den Kampf zu reorganisieren, wobei er als Spitzenkandidat für die Nachfolge des Hauptmanns hervortrat. Bald schon siegte der Eifer der Männer des Erzengels, und nun fliegt das vergitterte Kreuz wieder wahrhaftig über ganz Rumänien. Nachdem er sich als würdig erwiesen hat, hat ihn der Senat der Legion als Nachfolger des Hauptmanns bestätigt, und nun ist er bereit, seine Vision über ganz Rumänien zu verwirklichen, als dessen Conducator und Regent."
-POLITICS_NICOLAE_I_DESC:0 "1909 als viertes Kind von König Ferdinand und Königin Maria von Rumänien geboren, schien Prinz Nicolae ein einfaches Leben zu führen. Frei von der Verantwortung, die mit dem ältesten Sohn verbunden war - obwohl einige Schrecknisse wie der Lambrino-Skandal zu Diskussionen darüber führten, ob Nicolae für die Herrschaft vorbereitet werden sollte -, entwickelte der jüngere Prinz eine Leidenschaft für Sport, Autos und das Leben der High-Society. Trotz der Proteste seiner Mutter verliebte er sich in eine Frau, Ioana Dumitrescu-Doletti, Schwiegertochter des liberalen Politikers Nicolae N. Saveanu, die sich von ihrem damaligen Ehemann scheiden ließ, um an der Seite ihres neuen Liebhabers zu sein. Im Gegensatz zu seinem Bruder heiratete Nicolae seine Geliebte jedoch direkt, was gegen das Statut des Königshauses verstieß und zu einem Bruch zwischen ihm und seinem Bruder führte; ein Bruch, der ihn dazu brachte, sich der Legionärsbewegung anzunähern.\n\nNach der Abdankung seines Bruders stimmte Nicolae einem Deal zwischen ihm und den aufstrebenden Legionären zu, bei dem er den Thron übernehmen würde, wenn das Statut des Königshauses entsprechend geändert würde, um seine Ehe mit Ioana zu legitimieren. Jetzt, als König, zeigt er weiterhin kein großes Interesse an politischen Angelegenheiten und zieht es vor, sich stattdessen auf seine eigenen Unternehmungen und Hobbys zu konzentrieren."
+POLITICS_NICOLAE_I_DESC:0 "1903 als viertes Kind von König Ferdinand und Königin Maria von Rumänien geboren, schien Prinz Nicolae ein einfaches Leben zu führen. Frei von der Verantwortung, die mit dem ältesten Sohn verbunden war - obwohl einige Schrecknisse wie der Lambrino-Skandal zu Diskussionen darüber führten, ob Nicolae für die Herrschaft vorbereitet werden sollte -, entwickelte der jüngere Prinz eine Leidenschaft für Sport, Autos und das Leben der High-Society. Trotz der Proteste seiner Mutter verliebte er sich in eine Frau, Ioana Dumitrescu-Doletti, Schwiegertochter des liberalen Politikers Nicolae N. Saveanu, die sich von ihrem damaligen Ehemann scheiden ließ, um an der Seite ihres neuen Liebhabers zu sein. Im Gegensatz zu seinem Bruder heiratete Nicolae seine Geliebte jedoch direkt, was gegen das Statut des Königshauses verstieß und zu einem Bruch zwischen ihm und seinem Bruder führte; ein Bruch, der ihn dazu brachte, sich der Legionärsbewegung anzunähern.\n\nNach der Abdankung seines Bruders stimmte Nicolae einem Deal zwischen ihm und den aufstrebenden Legionären zu, bei dem er den Thron übernehmen würde, wenn das Statut des Königshauses entsprechend geändert würde, um seine Ehe mit Ioana zu legitimieren. Jetzt, als König, zeigt er weiterhin kein großes Interesse an politischen Angelegenheiten und zieht es vor, sich stattdessen auf seine eigenen Unternehmungen und Hobbys zu konzentrieren."
 
 #####################Old sTuff
 

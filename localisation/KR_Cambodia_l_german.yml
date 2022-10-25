@@ -34,15 +34,18 @@ CAM_national_populist_party_long:0 "Kanakpak Khemara Ponnakar (Khmer-Erneuerung)
 ### Events ###
 
 ## Puppets, Monarch's Dead, Elections(?)
-khmer_dom.1000.t:0 "Aufbau eines neuen kambodschanischen Regimes" # Noch keine Wahl der Republikaner bis zur Überarbeitung
+ # Noch keine Wahl der Republikaner bis zur Überarbeitung
+khmer_dom.1000.t:0 "Aufbau eines neuen kambodschanischen Regimes"
 khmer_dom.1000.d:0 "Nun, da wir einen kambodschanischen Staat wiederhergestellt haben, haben einige die Wiederherstellung einer kambodschanischen Monarchie vorgeschlagen. Der naheliegendste Kandidat wäre das Königshaus von Sisowath, Nachfahre des Dichterkönigs Ang Duong, das Kambodscha seit den 1840er Jahren sowohl unter den französischen als auch später unter den siamesischen Oberherren regiert hat. Ein weiterer Kandidat für eine solche Position wäre das Königshaus von Norodom, das zuletzt 1904 in Kambodscha regiert hat, sich aber als gute Wahl erweisen könnte, wenn wir eine völlig neue Ordnung in Kambodscha errichten wollen. Nach vielen Diskussionen sind wir zu dem Schluss gekommen, dass..."
 khmer_dom.1000.a:0 "... der Sisowath soll den Thron besteigen."
 khmer_dom.1000.b:0 "... der Norodom soll den Thron besteigen."
 
 # Sisowath Line
-khmer_dom.1011.t:0 "Der Tod von Sisowath Monivong" # 1941.4.23
+ # 1941.4.23
+khmer_dom.1011.t:0 "Der Tod von Sisowath Monivong"
 khmer_dom.1011.d:0 "König Sisowath Monivong vom [CAM.GetName], der 2. Monarch des Hauses Sisowath, ist heute Morgen an Altersschwäche gestorben. Der Monarch wird von seinem ersten Sohn, Sisowath Monireth, beerbt."
 
 # Norodom Line
-khmer_dom.1012.t:0 "Der Tod von Norodom Suramarit" # 1960.4.3
+ # 1960.4.3
+khmer_dom.1012.t:0 "Der Tod von Norodom Suramarit"
 khmer_dom.1012.d:0 "König Norodom Suramarit der [CAM.GetName], der 2. Monarch des Hauses Norodom, ist in der vergangenen Nacht an Altersschwäche gestorben. Der Monarch wird von seinem ersten Sohn, Norodom Sihanouk, beerbt."

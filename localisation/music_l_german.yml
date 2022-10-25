@@ -1,6 +1,6 @@
 ﻿l_german:
  #Diese Datei wird benötigt, damit das Vanille-Hauptthema neben dem Kr-Theme funktioniert. Das Spiel scheint es nicht zu mögen, das Thema zu laden, es zu überschreiben und dann den gleichen Song unter einem neuen Namen zu laden. Dies führt zu einer fehlerhaften Lokalisierung des Songs. ### Übersetzt von Proho ###
- maintheme:0 "El Pilon"
+ maintheme:0 "March on the Drina"
 
  # HOI4 Soundtrack
  main_vanilla:0 "Main Theme - Allies"
@@ -64,3 +64,4 @@
  unitednations:0 "United Nations"
  unitylow:0 "Unity Low"
  wearefree:0 "We Are Free"
+ 

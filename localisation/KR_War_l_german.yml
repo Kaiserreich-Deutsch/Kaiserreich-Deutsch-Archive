@@ -89,8 +89,8 @@ WAR_NAME_RUS_FIN:0 "Der Winterkrieg"
 WAR_NAME_FIN_RUS:0 "Der Winterkrieg"
 
 ### Middle Eastern Wars ###
-WAR_NAME_OTT_KUR:0 "$ORDER$$SECOND$ Aufstand"
-WAR_NAME_KUR_OTT:0 "$ORDER$$FIRST$ Unabhängigkeitskrieg"
+WAR_NAME_TUR_KUR:0 "$ORDER$$SECOND$ Aufstand"
+WAR_NAME_KUR_TUR:0 "$ORDER$$FIRST$ Unabhängigkeitskrieg"
 WAR_NAME_JBS_SAU:0 "$ORDER$Arabischer Einigungskrieg"
 WAR_NAME_SAU_JBS:0 "$ORDER$Arabischer Einigungskrieg"
 
@@ -105,8 +105,8 @@ WAR_NAME_LIT_GER:0 "$ORDER$$FIRST$ Unabhängigkeitskrieg"
 ### Indian Wars ###
 WAR_NAME_RAJ_PRF:0 "Entente Rückeroberung von Hyderabad"
 WAR_NAME_RAJ_HND:0 "Entente Rückeroberung von Bengalen"
-WAR_NAME_HND_PRF:0 "Bharatiya befreit Dehli"
-WAR_NAME_HND_RAJ:0 "Bharatiya befreit Hyderabad"
+WAR_NAME_HND_PRF:0 "Bharatiya befreit Hyderabad"
+WAR_NAME_HND_RAJ:0 "Bharatiya befreit Delhi"
 WAR_NAME_PRF_HND:0 "Wiederherstellung der Fürstlichen Ordnung in Bengalen"
 WAR_NAME_PRF_RAJ:0 "Wiederherstellung der Fürstlichen Ordnung in Dehli"
 
