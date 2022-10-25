@@ -1,8 +1,8 @@
 ﻿l_german:
 ### Übersetzt von Proho ###
 ### Opening Event ###
-kr.political.1.t:0 "Kaiserreich Beta 0.17.1 - 'Springtime for Kaiser'('Frühlingszeit für Kaiser')"
-kr.political.1.d:0 "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.17.1 - 'Frühlingszeit für Kaiser' für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\nDer Mod basiert auf der Annahme, dass der Spieler immer alle möglichen Staaten in Friedensverträgen annektiert, also stellen Sie sicher, dass Sie dies tun\nSie können die Häufigkeit von Nachrichtenereignissen ändern, indem Sie das Symbol oben auf der Registerkarte 'Entscheidungen' umschalten\nSie können auswählen, welche Namenssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Menü 'Erfolge' oben rechts ersetzt.\nDenken Sie daran, dass sich dieser Mod noch in der Beta befindet. Erwarten Sie also Fehler, Abstürze und verschiedene Kopfschmerzen\nWenn Sie auf eines dieser Probleme stoßen, ist es eine große Hilfe, es in unserem GitHub-Issue-Tracker zu melden, damit es schneller behoben kann.\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
+kr.political.1.t:0 "Kaiserreich Beta 0.17 - 'Springtime for Kaiser'('Frühlingszeit für Kaiser')"
+kr.political.1.d:0 "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.17 - 'Frühlingszeit für Kaiser' für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\nDer Mod basiert auf der Annahme, dass der Spieler immer alle möglichen Staaten in Friedensverträgen annektiert, also stellen Sie sicher, dass Sie dies tun\nSie können die Häufigkeit von Nachrichtenereignissen ändern, indem Sie das Symbol oben auf der Registerkarte 'Entscheidungen' umschalten\nSie können auswählen, welche Namenssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Menü 'Erfolge' oben rechts ersetzt.\nDenken Sie daran, dass sich dieser Mod noch in der Beta befindet. Erwarten Sie also Fehler, Abstürze und verschiedene Kopfschmerzen\nWenn Sie auf eines dieser Probleme stoßen, ist es eine große Hilfe, es in unserem GitHub-Issue-Tracker zu melden, damit es schneller behoben kann.\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
 kr.political.1.a:0 "Da bin ich sicher!"
 
 ### Generic Triggered Events ####
@@ -78,7 +78,7 @@ unit_limit_factory_bonus:0 "Fabrikbonus auf Divisionslimit"
 unit_limit_bonus:0 "Divisions Limit"
 
 unit_limit_label:0 "§HMaximal unterstützte Divisionen§!"
-unit_limit_desc:0 "Jedes Land hat nur die Fähigkeit, eine bestimmte Anzahl einzelner militärischer Divisionen zu unterstützen, bevor seine Wirtschaft und Infrastruktur damit zu kämpfen hat, diese zu unterhalten.\n\nDie maximale Anzahl der geförderten Einheiten basiert auf der Gesamtbevölkerung und den Besitzständen des Landes und wird dann mit dem allgemeinen Industrialisierungsgrad des Landes multipliziert.\n\n§L   - Basis aus Gesamtbevölkerung: [?base_population|G0][unit_limit_noncore_population][unit_limit_crownland_population_bonus]\n   - Basis aus eigenen Staaten: [?base_states|G0][unit_limit_crownland_state_bonus]\n   - Gesamtbasis: [?base_units|G0]\n\n   - Industrialisierung Verändern: [?industry_factor|H%][unit_limit_modifier_was_capped][unit_limit_extra_modifier_line_break][unit_limit_faction_leader][unit_limit_economy_law][unit_limit_was_capped][unit_limit_lower_limit_used][unit_limit_upper_limit_used][unit_limit_bonus_used]\n\n   ENDSUMME: [?max_divisions|H0]\n\nBitte beachten Sie, dass Änderungen an den obigen Angaben bis zu einer Woche im Spiel dauern, bevor sie in der Berechnung berücksichtigt werden.§![above_unit_limit_desc]"
+unit_limit_desc:0 "Jedes Land hat nur die Fähigkeit, eine bestimmte Anzahl einzelner militärischer Divisionen zu unterstützen, bevor seine Wirtschaft und Infrastruktur damit zu kämpfen hat, diese zu unterhalten.\n\nDie maximale Anzahl der unterstützten Einheiten basiert auf der Gesamtbevölkerung des Landes und wird außerdem durch den Grad der Industrialisierung beeinflusst, wobei Militärfabriken doppelt so viel wert sind wie zivile Fabriken oder Werften.\n\n§L   - Von Gesamtbevölkerung: [?base_units|G0][unit_limit_noncore_population][unit_limit_crownland_population_bonus]\n   - Minimale Fabrikpunkte: [?minimum_factory_points|O0]\n   - Fabrikpunkte gesamt: [?factory_points|O0][unit_limit_crownland_factory_bonus]\n   - Industrialisierung Modifikator: §Hx[?industry_factor|H9]§![unit_limit_faction_leader][unit_limit_economy_law][unit_limit_was_capped][unit_limit_lower_limit_used][unit_limit_upper_limit_used][unit_limit_bonus_used]\n\n   ENDSUMME: [?max_divisions|H0]\n\nBitte beachten Sie, dass Änderungen an den obigen Angaben bis zu einer Woche im Spiel dauern, bevor sie in der Berechnung berücksichtigt werden.![above_unit_limit_desc]"
 
 unit_limit_desc_fake_intel:0 "(§HGefälschte Intel-Divisionen§! nicht auf die Divisionsgrenze angerechnet)"
 
@@ -86,11 +86,11 @@ unit_limit_desc_above_limit:0 "\n\n--------------\n\n§RWir haben derzeit unsere
 
 unit_limit_noncore_population_desc:0 "\n      (§H10%§! von Nicht-Kernstaaten: [?non_core_base|H1])"
 unit_limit_crownland_population_bonus_desc:0 "\n      ([?crownland_base_units|H0] von den §HKernländern§!)"
-unit_limit_crownland_state_bonus_desc:0 "\n      ([?crownland_states|H0] aus den §HCrownlands§!)"
-unit_limit_modifier_was_capped_desc:0 "\n      (Begrenzt auf ein Minimum von [?0.5|H%])"
+unit_limit_crownland_factory_bonus_desc:0 "\n      ([?crownland_factory_points|H0] von den §HKernländern§!)"
 unit_limit_faction_leader_desc:0 "\n   - Fraktionsführer: §G+15%§!"
-unit_limit_was_capped_desc:0 "\n\n   - Unbegrenzt Gesamt: [?net_max_divisions|H0]"
-unit_limit_num_states_used_desc:0 "\n\n   Da die angegebene Gesamtzahl niedriger war als die Anzahl der besessenen Werte ([?num_owned_states|H0]), wurde diese stattdessen verwendet."
+unit_limit_was_capped_desc:0 "\n   - Unbegrenzt Gesamt: [?net_max_divisions|H0]"
+unit_limit_half_factory_points_used_desc:0 "\n\n   Weil die gelieferte Summe niedriger war als die Hälfte der gesamten Werkspunkte multipliziert mit unserem Wirtschaftlichkeitsgesetzfaktor ([?lower_limit_from_factories|H0])war, wurde stattdessen dieser verwendet."
+unit_limit_num_states_used_desc:0 "\n\n   Da die bereitgestellte Gesamtzahl niedriger war als die Anzahl der eigenen Staaten. ([?lower_limit_from_states|H0])war, wurde stattdessen dieser verwendet."
 unit_limit_default_used_desc:0 "\n\n   Da die bereitgestellte Summe kleiner war als der Standardwert (§H5§!)war, wurde stattdessen dieser verwendet."
 unit_limit_bonus_used_desc:0 "\n\n   - Zusätzliche Modifikatoren: [?additional_unit_limit|=+0] to cap"
 

@@ -32,6 +32,28 @@ WAR_NAME_SWF_SPA:0 "Spanischer Bürgerkrieg"
 WAR_NAME_SPR_SWF:0 "Spanischer Bürgerkrieg"
 WAR_NAME_SWF_SPR:0 "Spanischer Bürgerkrieg"
 
+### Crisis on the Danube ###
+WAR_NAME_AUS_HUN:0 "Krise an der Donau"
+WAR_NAME_AUS_CRO:0 "Krise an der Donau"
+WAR_NAME_AUS_CZE:0 "Krise an der Donau"
+WAR_NAME_AUS_GAL:0 "Krise an der Donau"
+WAR_NAME_HUN_AUS:0 "Krise an der Donau"
+WAR_NAME_HUN_CRO:0 "Krise an der Donau"
+WAR_NAME_HUN_CZE:0 "Krise an der Donau"
+WAR_NAME_HUN_GAL:0 "Krise an der Donau"
+WAR_NAME_CRO_AUS:0 "Krise an der Donau"
+WAR_NAME_CRO_HUN:0 "Krise an der Donau"
+WAR_NAME_CRO_CZE:0 "Krise an der Donau"
+WAR_NAME_CRO_GAL:0 "Krise an der Donau"
+WAR_NAME_CZE_AUS:0 "Krise an der Donau"
+WAR_NAME_CZE_HUN:0 "Krise an der Donau"
+WAR_NAME_CZE_CRO:0 "Krise an der Donau"
+WAR_NAME_CZE_GAL:0 "Krise an der Donau"
+WAR_NAME_GAL_AUS:0 "Krise an der Donau"
+WAR_NAME_GAL_HUN:0 "Krise an der Donau"
+WAR_NAME_GAL_CRO:0 "Krise an der Donau"
+WAR_NAME_GAL_CZE:0 "Krise an der Donau"
+
 ### 2nd Mexican-American War ###
 WAR_NAME_USA_MEX:0 "2ter $ORDER$$SECOND$-$FIRST$ War"
 WAR_NAME_MEX_USA:0 "2ter $ORDER$$FIRST$-$SECOND$ War"
@@ -88,9 +110,33 @@ WAR_NAME_HND_RAJ:0 "Bharatiya befreit Hyderabad"
 WAR_NAME_PRF_HND:0 "Wiederherstellung der Fürstlichen Ordnung in Bengalen"
 WAR_NAME_PRF_RAJ:0 "Wiederherstellung der Fürstlichen Ordnung in Dehli"
 
+### Fifth Anglo-Afghani War ###
+WAR_NAME_AFG_RAJ:0 "Fünfter Anglo-Afghanischer Krieg"
+WAR_NAME_RAJ_AFG:0 "Fünfter Anglo-Afghanischer Krieg"
+
 ### 37th Siamese-Burma War ###
 WAR_NAME_BRM_SIA:0 "37. Siamesisch-burmesischer Krieg"
 WAR_NAME_SIA_BRM:0 "37. Siamesisch-burmesischer Krieg"
+
+### Siamese Civil War ###
+CIVIL_WAR_NAME_SIR_SIA:0 "Siamesischer Bürgerkrieg"
+CIVIL_WAR_NAME_SIA_SIR:0 "Siamesischer Bürgerkrieg"
+
+### Greek Civil War ###
+WAR_NAME_GRE_GRR:0 "Greek Civil War"
+WAR_NAME_GRR_GRE:0 "Greek Civil War"
+
+### Bharathiyan Civil War ###
+WAR_NAME_BHC_INR:0 "Bharatiya Bürgerkrieg"
+WAR_NAME_INR_BHC:0 "Bharatiya Bürgerkrieg"
+
+### War in the Southern Cone ###
+WAR_NAME_FOP_ARG:0 "Krieg im Südkegel"
+WAR_NAME_ARG_FOP:0 "Krieg im Südkegel"
+
+### South American Syndicalist Civil War ###
+WAR_NAME_FOP_CHL:0 "Südamerikanischer syndikalistischer Bürgerkrieg"
+WAR_NAME_CHL_FOP:0 "Südamerikanischer syndikalistischer Bürgerkrieg"
 
 ### Alpine War over Campione ###
 WAR_NAME_SWI_ITA:0 "Alpenkrieg"
@@ -101,6 +147,10 @@ WAR_NAME_SWI_SRD:0 "Alpenkrieg"
 WAR_NAME_SRD_SWI:0 "Alpenkrieg"
 WAR_NAME_SWI_SRI:0 "Alpenkrieg"
 WAR_NAME_SRI_SWI:0 "Alpenkrieg"
+
+### Venetian Revolt ###
+WAR_NAME_VNC_ITA:0 "Venezianischer Freiheitskrieg"
+WAR_NAME_ITA_VNC:0 "Venezianische Revolte"
 
 ### Indochina War ###
 WAR_NAME_INC_GEA:0 "Indochinischer Anti-Deutscher Widerstandskrieg"
@@ -130,9 +180,46 @@ WAR_NAME_SOM_ETH:0 "Ogaden Krieg"
 WAR_NAME_MAF_POR:0 "Buschkrieg"
 WAR_NAME_POR_MAF:0 "Buschkrieg"
 
+### Korean Uprising ###
+WAR_NAME_JAP_KOR:0 "Koreanischer Aufstand"
+WAR_NAME_KOR_JAP:0 "Koreanischer Unabhängigkeitskrieg"
+
+### Second Mahdist Revolt ###
+WAR_NAME_EGY_SUD:0 "Zweiter Mahdist-Aufstand"
+WAR_NAME_SUD_EGY:0 "Zweiter Mahdist-Aufstand"
+
 ### Ottoman Wars ###
+# Egypt
+WAR_NAME_EGY_OTT:0 "Krieg in der Wüste"
+WAR_NAME_OTT_EGY:0 "Krieg in der Wüste"
+
+# Tripolitania
 WAR_NAME_LBA_OTT:0 "Tripolitanische Unabhängigkeitskrieg"
 WAR_NAME_OTT_LBA:0 "Tripolitanischer Aufstand"
+
+# Cyprus
+WAR_NAME_CYP_OTT:0 "Zypriotischer Unabhängigkeitskrieg"
+WAR_NAME_OTT_CYP:0 "Zypriotische Rebellion"
+
+# Assyria
+WAR_NAME_ASY_OTT:0 "Assyrischer Unabhängigkeitskrieg"
+WAR_NAME_OTT_ASY:0 "Assyrischer Aufstand"
+
+# Yemen
+WAR_NAME_YEM_OTT:0 "Jemenitischer Unabhängigkeitskrieg"
+WAR_NAME_OTT_YEM:0 "Jemenitischer Aufstand"
+
+### Ikhwan Revolt ###
+WAR_NAME_IKH_SAU:0 "Ikhwan-Revolte"
+WAR_NAME_SAU_IKH:0 "Ikhwan-Revolte"
+
+### Panamanian Crisis ###
+WAR_NAME_PAN_CAN:0 "Panama-Krise"
+WAR_NAME_CAN_PAN:0 "Panama-Krise"
+
+### Coto War ###
+WAR_NAME_PAN_COS:0 "Coto-Krieg"
+WAR_NAME_COS_PAN:0 "Coto-Krieg"
 
 ### Chinese Wars ###
 WAR_NAME_LEP_CHI:0 "Aufstand der Kuomintang"
@@ -222,8 +309,8 @@ WAR_NAME_PRC_GXC:0 "Liangguang Bürgerkrieg"
 # Northwestern Revolts
 WAR_NAME_SIK_ETS:0 "Ost-Turkestan-Revolte"
 WAR_NAME_ETS_SIK:0 "Ost-Turkestan-Revolte"
-WAR_NAME_SIK_TAN:0 "Kumul Rebellion"
-WAR_NAME_TAN_SIK:0 "Kumul Rebellion"
+WAR_NAME_SIK_KUM:0 "Kumul Rebellion"
+WAR_NAME_KUM_SIK:0 "Kumul Rebellion"
 
 # League of Eight / Five Provinces Collapse
 WAR_NAME_LEP_ANQ:0 "Krieg der fünf Provinzen"

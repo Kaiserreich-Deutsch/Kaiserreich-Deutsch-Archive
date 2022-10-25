@@ -1,7 +1,6 @@
 ﻿l_german:
 ### Übersetzt von DerEherneRächer ###
-
-### Nationalgeister ###
+### Ideas ###
 SER_reparation_payments:0 "Kriegsreparationen an Bulgarien"
 SER_reparation_payments_desc:0 "Weil Serbien den vierten Balkankrieg verloren hat, muss es Kriegsreparationen an Bulgarien zahlen."
 BUL_reparation_payments_from_serbia:0 "Kriegsreparationen von Serbien"
@@ -14,8 +13,10 @@ is_in_belgrade_pact:0 "Mitglied des Belgrader Pakts"
 BP_economic_council:0 "Organisationspakt"
 BP_economic_council_desc:0 "Den Organisationspakt zu unterschreiben hat dazu beigetragen, die Wirtschaften der Balkanstaaten zu integrieren und die Beziehungen zu stärken. Der wirtschaftliche Rat des Pakts wiederum half dabei, den Handel und die wirtschaftlichen Beziehungen zu koordinieren und unsere Nation beginnt, die Vorteile dieser Übereinkunft zu erfahren.\n\n§RSollten wir uns mit Mitgliedern des Pakts im Krieg befinden, wird der Rat abgeschafft und wir werden sämtliche seiner Vorteile verlieren!§!"
 BP_war_exhaustion:0 "Kriegsmüdigkeit im Balkan"
+belgrade_part_arms_embargo:0 "Internationales Rüstungsembargo"
+belgrade_part_arms_embargo_desc:0 "Das österreichische Kaiserreich und seine Verbündeten haben sich dazu entschieden, ein internationales Waffenembargo gegen uns zu verhängen. Unsere Nation ist vom weltweiten Waffenhandel abgeschnitten, weshalb wir uns mit unserer mageren Produktionsrate zufrieden geben müssen. Wir sollten uns besser beeilen und den Krieg gegen Bulgarien möglichst schnell beenden."
 
-### Entscheidungen ###
+### Decisions ###
 Belgrade_Pact_Balkan_War:0 "Belgrader Pakt"
 
 Belgrade_Pact_invite_member:0 "Lade [From.GetNameDef] in den Belgrader Pakt ein."
@@ -31,7 +32,7 @@ Belgrade_Pact_Greece_capture_southern_macedonia_desc:0 "Endlich können wir unse
 Belgrade_Pact_race_to_sofia:0 "Wettlauf nach Sofia"
 Belgrade_Pact_race_to_sofia_desc:0 "Die bulgarischen Verteidigungen wurden durchbrochen und die Straße nach Sofia ist frei. Es ist nur eine Frage der Zeit, bis die bulgarische Hauptstadt fällt. Sie einzunehmen wäre ein großer Erfolg für unsere Nation."
 
-### Beziehungsmodifikatoren ###
+### Opinion Modifiers ###
 Balkans_hates_bulgaria:0 "Anti-Bulgarische Einstellung"
 Balkans_hates_neighbours:0 "Hegemon des Balkans"
 Belgrade_Pact_anti_bulgaria:0 "Gegen Bulgarien"
@@ -59,6 +60,7 @@ BP_working_on_eco_union:0 "Ein Verbündeter arbeitet bereits an diesem Projekt."
 ### Events ###
 pact.1.t:0 "Der Kongress von Belgrad"
 pact.1.d:0 "Seit Jahren bereitet die serbische Regierung den Kongress von Belgrad vor, eine Reihe von Versammlungen in unserer Hauptstadt, an denen sowohl Repräsentanten aus Rumänien und Griechenland, als auch Diplomaten aus dem Deutschen und dem Osmanischen Reich teilnehmen werden. Wir werden eine Serie von geopolitischen Diskussionen durchführen, um, unter anderem, internationale Unterstützung für unser Ziel, unsere Grenzen zu erweitern und einen neuen großserbischen Staat zu etablieren, zu sammeln. Dieser Staat sollte alles Land umfassen, welches von unserem Volk bewohnt wird oder bewohnt wurde."
+# Natürlich könnte ein solches Ereignis nicht ohne irgendwelche Kontroversen stattfinden. Die Einbeziehung der rumänischen Gesandtschaft, obgleich sie von äußerster Wichtigkeit ist, wurde von vielen Repräsentanten im Skupština nicht akzeptiert, da diese den Gedanken nicht ausstehen können, mit ansehen zu müssen, wie [SER.GetLeader] und der verabscheuenswürdige Corneliu Codreanu sich die Hand geben. - TBA later
 pact.1.a:0 "Eröffnet den Kongress!"
 
 pact.2.t:0 "Der Kongress von Belgrad"
@@ -78,22 +80,19 @@ pact.5.t:0 "Das Ende des Pakts"
 pact.5.d:0 "Obwohl wir versucht haben, eine Allianz zu schaffen, um serbische Interessen im Balkan zu vertreten, finden wir uns allein in der großen Welt wieder. Die Zeit ist gekommen, in der wir erkennen müssen, dass der Belgrader Pakt nur Fantasie bleiben wird."
 pact.5.a:0 "Ein trauriger Tag..."
 
-pact.8.t:0 "Der Kongress von Belgrad will eine neue Ordnung im Balkan"
-pact.8.d:0 "Mehre Nationen sind Serbiens Aufruf gefolgt und haben sich in Belgrad versammelt, um die politische und militärische Situation des Balkans zu besprechen. Während des Kongresses wurde ein neues militärisches Bündnis, der sogenannte Belgrader Pakt, geformt. Wir sind offensichtlich das Ziel dieser Allianz, welche sich wahrscheinlich für ihre Niederlage im Weltkrieg an uns rächen will. Wir können nur hoffen, dass die ehemaligen Mittelmächte uns in dieser Zeit der Not beistehen."
-pact.8.a:0 "Das ist nicht gut."
+pact.6.t:0 "Der Kongress von Belgrad will eine neue Ordnung im Balkan"
+pact.6.d:0 "Mehre Nationen sind Serbiens Aufruf gefolgt und haben sich in Belgrad versammelt, um die politische und militärische Situation des Balkans zu besprechen. Während des 14 Tage langen Kongresses haben Serben, Rumänen und Griechen die sogenannte 'Neue Ordnung des Balkans' geplant und sogar ein 14-Punkte-Programm ausgearbeitet, welches besagt, dass 'nur die Selbstbestimmung der Bevölkerung gemäß ihrer ethnischen Zugehörigkeiten als Territorialanspruch oder Grund für die Souveränität angesehen werden darf'.\n\nOffensichtlich befindet sich der Balkan erneut im Aufruhr und der Belgrader Kongress wird wohl als Grund für einen Krieg gegen Bulgarien und, letztendlich, das österreichische Kaiserreich dienen. Was sollten wir mit diesen Neuigkeiten anfangen?""
+pact.6.a:0 "Embargot die Serben und Rumänen, dann werden sie es sich nochmal überlegen!"
+pact.6.b:0 "Sollen sie nur kommen, der Balkan stellt sowieso keine Bedrohung dar."
 
-pact.9.t:0 "Der Kongress von Belgrad will eine neue Ordnung im Balkan"
-pact.9.d:0 "Mehre Nationen sind Serbiens Aufruf gefolgt und haben sich in Belgrad versammelt, um die politische und militärische Situation des Balkans zu besprechen. Während des Kongresses wurde ein neues militärisches Bündnis, der sogenannte Belgrader Pakt, geformt. Unser ehemaliger Verbündeter Bulgarien ist offensichtlich das Ziel dieser Allianz, welche sich wahrscheinlich für ihre Niederlage im Weltkrieg an den Bulgaren rächen will. Sollten wir unsere offizielle Unterstützung für Bulgarien verkünden, könnte dass den Belgrader Pakt eventuell davon abhalten, ihnen den Krieg zu erklären."
-pact.9.a:0 "Gebt unsere Unterstützung für Bulgarien bekannt!"
-pact.9.b:0 "Wir sollten uns nicht in Angelegenheiten des Balkans einmischen."
+pact.7.t:0 "[From.GetName] verkündet Unterstützung für Bulgarien"
+pact.7.d:0 "Die [From.GetAdjective] Regierung hat heute bekanntgegeben, dass sie Bulgarien im Falle eines Krieges zwischen dem Belgrader Pakt und dem Zarentum unterstützen werde und ein internationales Rüstungsembargo gegen den Pakt verhängen wird, um unser Waffenarsenal schrumpfen zu lassen und die Chancen der Bulgaren auf einen Sieg zu erhöhen."
+pact.7.a:0 "Das ist nicht gut."
 
-pact.10.t:0 "[From.GetName] verkündet Unterstützung für Bulgarien"
-pact.10.d:0 "Die [From.GetAdjective] Regierung hat heute bekannt gegeben, dass sie Bulgarien im Falle eines Krieges zwischen den Bulgaren und dem Belgrader Pakt unterstützen werden. Ob sich diese Unterstützung auf Waffenlieferungen beschränkt oder ob [From.GetNameDef] direkt mit seiner Armee eingreifen wird bleibt abzuwarten."
-pact.10.a:0 "Das ist nicht gut."
-
-pact.11.t:0 "[From.GetName] verkündet Unterstützung für uns"
-pact.11.d:0 "Die [From.GetAdjective] Regierung hat heute bekannt gegeben, dass sie uns im Falle eines Krieges zwischen uns und dem Belgrader Pakt unterstützen werden. Ob sich diese Unterstützung auf Waffenlieferungen beschränkt oder ob [From.GetNameDef] direkt mit seiner Armee eingreifen wird bleibt abzuwarten, jedoch wird es den Pakt hoffentlich davon abhalten, uns den Krieg zu erklären."
-pact.11.a:0 "Danke, [From.GetName]."
+pact.8.t:0 "[From.GetName] verkündet Unterstützung für Bulgarien"
+pact.8.d:0 "Mehre Nationen sind Serbiens Aufruf gefolgt und haben sich in Belgrad versammelt, um die politische und militärische Situation des Balkans zu besprechen. Während des 14 Tage langen Kongresses haben Serben, Rumänen und Griechen die sogenannte 'Neue Ordnung des Balkans' geplant und sogar ein 14-Punkte-Programm ausgearbeitet, welches besagt, dass 'nur die Selbstbestimmung der Bevölkerung gemäß ihrer ethnischen Zugehörigkeiten als Territorialanspruch oder Grund für die Souveränität angesehen werden darf'.\n\nOffensichtlich befindet sich der Balkan erneut im Aufruhr und der Belgrader Kongress wird wohl als Grund für einen Krieg gegen Bulgarien und, letztendlich, das österreichische Kaiserreich dienen. Die Österreicher fordern nun, dass ein internationales Rüstungsembargo gegen den Belgrader Pakt verhängt wird, um Bulgariens Chancen auf einen Sieg zu erhöhen. Sollten wir ebenfalls unsere Unterstützung für das Zarentum verkünden?"
+pact.8.a:0 "Nur Bulgarien kann den Balkan stabil halten!"
+pact.8.b:0 "Wir haben kein Interesse am Balkan..."
 
 pact.17.t:0 "Serbien schickt ein Ultiamtum"
 pact.17.d:0 "Ein Ultimatum des Belgrader Pakts ist in Sofia angekommen. Es wird von uns die sofortige Übergabe aller nach dem Weltkrieg annektierten Gebiete gefordert. Sollten wir ablehnen, wird der Belgrader Pakt nicht davor zurückschrecken, uns den Krieg zu erklären."

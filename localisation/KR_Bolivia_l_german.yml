@@ -20,10 +20,11 @@ POLITICS_ENRIQUE_CATILLO_DESC:0 "Enrique Peñaranda del Castillo wurde 1892 in d
 POLITICS_HERNAN_ZUAZO_DESC:0 "Hernán Siles Zuazo wurde 1913 in der bolivianischen Hauptstadt La Paz geboren. Hernán meldete sich trotz starker Myopie als Freiwilliger im Chaco-Krieg, wo er verwundet wurde und die Medaille "Cruz de Guerra" erhielt. Er schloss 1939 sein Studium als Anwalt ab und trat in die MNR ein, wo er es schaffte, zu einer der einflussreichsten Persönlichkeiten zu werden. Bei seiner Amtseinführung als Präsident erklärte Hernán: "Ich werde ein Staatschef sein, der niemals auf Gewalt zurückgreifen wird, um sich zu erhalten. Ich werde mich nicht auf andere Kräfte stützen als auf die, die mir das Volk gegeben hat und denen ich, wenn nötig, für den Rest meines Lebens dienen werde". Da jedoch interne Rivalitäten innerhalb der MNR zunehmen, bleibt abzuwarten, ob Zuazo in der Lage sein wird, seinem Wort treu zu bleiben."
 
 ### Tooltip ###
-BOL_CLR_BM:0 "§GEntfernt alle Effekte des Schwarzen Montags§!\n"
-BOL_MID_BM:0 "§GDer Effekt wird je nach Ansatz variieren§!"
+BOL_CLR_BM:0 "§GWir werden alle negativen Auswirkungen des Schwarzen Montags beseitigen!§!"
+BOL_MID_BM:0 "Je nach Ansatz werden wir den §YSchwarzen Montag§! auf unterschiedliche Weise angehen."
 BOL_SHIPPIE:0 "Dies wird §Y2 Schiffswerften§! in einem unserer Küstenstaaten hinzufügen"
 BOL_REVENGE:0 "§RDies kann zu einem Krieg mit unseren Nachbarn §Y[CHL.GetNameWithFlag]§! und §Y[PAR.GetNameWithFlag] führen.§! §!\n"
+BOL_ARG:0 "Bolivien ist in den Krieg um den Südkegel gegen die Feinde Argentiniens eingetreten"
 
 ### Decision ###
 BOL_Enact_our_Revenge:0 "Übt unsere Rache"
@@ -203,7 +204,7 @@ BOL_Domestic_Manufacturing_desc:0 "Es ist eine Schande, dass unsere glorreiche u
 BOL_1940_Elections:0 "Die Wahlen von 1940"
 BOL_1940_Elections_desc:0 "Die Wahlen von 1940 sind endlich da, und die Stimmzettel waren noch nie in der Geschichte Boliviens so umkämpft. Die vier führenden Parteien, die PLP, die MNR, die PSB und die PUR haben alle ihre Kampagnen beendet, alle zeigen ihre Vision für ein besseres Bolivien. Wir werden nun sehen, wer der Gewinner ist..."
 BOL_PLP_Victory:0 "Die PLP siegt"
-BOL_PLP_Victory_desc:0 "Die 'Partido Liberal Popular' ist aus den Wahlen als Sieger hervorgegangen. Ihr Programm der Reformen, des Bürokratieabbaus und der Dezentralisierung hat die Wähler für sich gewonnen. Viele unserer Kritiker befürchten jedoch, dass der Zinnkönig Simon Patiño an unseren Fäden zieht...."
+BOL_PLP_Victory_desc:0 "Die 'Partido Liberal Popular' ist aus den Wahlen als Sieger hervorgegangen. Ihr Programm der Reformen, des Bürokratieabbaus und der Dezentralisierung hat die Wähler für sich gewonnen. Viele unserer Kritiker befürchten jedoch, dass der Zinnkönig Simon Patiño an unseren Fäden zieht..."
 BOL_Banking_Reform:0 "Bankenreform"
 BOL_Banking_Reform_desc:0 "Unser Bankensystem ist weit davon entfernt, schlecht zu sein, aber es wurde mit Blick auf die Kontrolle der Regierung entworfen. Wenn wir ein besseres Bolivien haben wollen, ist es in unserem besten Interesse, die Banken für den dezentraleren Ansatz zu reformieren, den wir umsetzen wollen."
 BOL_Renegotiate_Trade_Arrangements:0 "Handelsabkommen neu verhandeln"

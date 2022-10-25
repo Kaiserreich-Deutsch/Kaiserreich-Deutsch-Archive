@@ -32,11 +32,15 @@ ZIM_authoritarian_democrat_party_long_united:0 "United Rhodesia Party (Reform wi
 ### Country Flags ###
 ZIM_NZA:0 "Nordrhodesien Initiative"
 
+### State Modifiers ###
+
+ZIM_POR_AUTO:0 "Portugiesische Automonie\n§WNach einigen hitzigen "Diskussionen" hinter verschlossenen Türen wurde den Portugiesen eine Vertretung der Wählerschaft in der Provinz in den Hallen der Southern Rhodesian Legislative Assembly in Salisbury zugestanden. Bei ca. 25.000 Weißen, fast ausschließlich Portugiesen, wäre die Vertretung in 3 Wahlkreisen zu erwarten, die mit dem Provinzrat zu wählen wären: Lourenço Marques, Gaza und Ciszambesia. Bemerkenswert ist, dass sich die Regierung entschieden hat, dem Portugiesischen in der Provinz Südostafrika neben Englisch und Niederländisch/Afrikaans einen offiziellen Status zu geben.§!"
+
 ### Ideas ###
 ZIM_segregation:0 "Rassentrennung"
 ZIM_segregation_desc:0 "Ähnlich wie in Südafrika ist der größere Teil der südrhodesischen Bevölkerung einheimische Schwarzafrikaner. Aber eine kleine Bevölkerungsgruppe von südrhodesischen englischsprachigen Weißen hält alle politische Macht inne und setzt ein System der Segregation durch. Während der Integration in die Union änderte sich an dieser Dynamik wenig, wenn überhaupt, wurde sie noch verschärft, und jetzt mit der Abspaltung ist nicht zu erwarten, dass sie einfach verschwindet."
 ZIM_idea_responsible_government:0 "Eigenständige Regierung"
-ZIM_idea_responsible_government_desc:0 "Die weiße Siedlerbevölkerung hatte sich seit Jahren für eine lokale selbständige Regierung eingesetzt, aber die British South Africa Company, Südafrika und Großbritannien favorisierten stattdessen die Integration in Südafrika und zwangen die Kolonie, sich als Provinz in Südafrika zu integrieren. Doch nun ist die verantwortliche Regierung endlich erreicht, wahrscheinlich in einer umfassenderen Form, als es jemals der Fall gewesen wäre, wenn sie 1922 gewährt worden wäre."
+ZIM_idea_responsible_government_desc:0 "Die weiße Siedlerbevölkerung hatte sich seit Jahren für eine lokale selbständige Regierung eingesetzt, aber die British South Africa Company, Südafrika und Großbritannien favorisierten stattdessen die Integration in Südafrika und zwangen die Kolonie, sich als Provinz in Südafrika zu integrieren. Doch nun ist eine verantwortliche Regierung endlich erreicht, wahrscheinlich in einer umfassenderen Form, als es jemals der Fall gewesen wäre, wenn sie 1922 gegründet worden wäre."
 ZIM_idea_gonarezhou:0 "Gonarezhou Reservat"
 ZIM_idea_gonarezhou_desc:0 "Das Gonarezhou-Gebiet ist ein natürlicher Hotspot für Wildtiere mit einer hohen landschaftlichen Vielfalt rund um die Sandsteinklippen von Chilojo. Die Regierung hat beschlossen, das Gebiet als Wildreservat zu kennzeichnen, damit sich die Tierwelt uneingeschränkt entfalten kann."
 ZIM_idea_protected_wildlife:0 "Geschützte Tierwelt"
@@ -63,7 +67,9 @@ ZIM_idea_southern_rhodesia_currency_board_desc:0 "Das Südrhodesien Currency Boa
 ZIM_idea_southern_rhodesia_central_bank:0 "Südrhodesische Zentralbank"
 ZIM_idea_southern_rhodesia_central_bank_desc:0 "Nun, da wir unsere Unabhängigkeit erreicht haben, ist es an der Zeit, dass wir unser Schicksal vollständig selbst in die Hand nehmen, und dazu gehört auch unsere eigene Währung. Die neue Zentralbank von Südrhodesien soll von nun an die Kontrolle über die Währung unserer Nation behalten."
 ZIM_North_Int:0 "Die Nordinitiative"
-ZIM_North_Int_desc:0 "Unter dem Namen "Nordinitiative" will sich Rhodesien als Bastion der britischen Besiedlung in Afrika verstehen. Andere davon zu überzeugen, ist allerdings eine andere Geschichte."
+ZIM_North_Int_desc:0 "Unter dem Namen "Nordinitiative" will Rhodesien sich selbst als Bastion der britischen Besiedlung in Afrika verstehen. Andere davon zu überzeugen, ist allerdings eine andere Geschichte."
+ZIM_North_Int_Exp:0 "Die Nordinitiative"
+ZIM_North_Int_Exp_desc:0 "Unter dem Namen "Nordinitiative" will Rhodesien sich selbst als Bastion der britischen Besiedlung in Afrika verstehen. Obwohl es scheint, dass andere die Chance ergriffen haben, darauf aufzuspringen, wobei die angloamerikanische Einwanderung denjenigen mit französischem oder belgischem Hintergrund untergeordnet wird."
 
 ZIM_attract_immigration_idea:0 "Das Loch stopfen"
 ZIM_attract_immigration_idea_desc:0 "Die südrhodesische Einwanderung wurde mit einem Eimer mit einem Loch verglichen, das gestopft wurde."
@@ -87,7 +93,7 @@ ZIM_can_advisors_idea:0 "Kanadische Berater"
 ZIM_can_advisors_idea_desc:0 "Männer aus dem eisigen Norden vermitteln ihr Wissen über die Kunst des Krieges"
 ZIM_motorised_doctrine_idea:0 "Motorisierte Infanteriedoktrin"
 ZIM_motorised_doctrine_idea_desc:0 "Das Konzept der mobilen Kriegsführung wurde vom rhodesischen Oberkommando übernommen und ermöglicht den schnellen Einsatz von Truppen zur Ergänzung der eigenen Eliteformationen"
-ZIM_armoured_doctrine_idea:0 "Motorisierte Infanteriedoktrin"
+ZIM_armoured_doctrine_idea:0 "Mechanisierte Infanteriedoktrin"
 ZIM_armoured_doctrine_idea_desc:0 "Das Hinzufügen von Fahrzeugen mit dickerer Panzerung hat der motorisierten Infanterie Rhodesiens die dringend benötigte Schlagkraft verliehen"
 ZIM_staff_corp_1:0 "Rhodesische Militärreformen"
 ZIM_staff_corp_1_desc:0 "Die Einführung der Wehrpflicht hat die Zahl der einberufungsfähigen Männer erhöht."
@@ -119,7 +125,7 @@ SAF_hold_rhodesia_mission_desc:0 "Wir sollten die Rebellion in Südrhodesien sch
 zim_form_central_african_federation:0 "Gründung der Zentralafrikanischen Föderation"
 zim_form_central_african_federation_desc:0 "Nordrhodesien und Nyasaland haben eine bedeutende wirtschaftliche Abhängigkeit zu Südrhodesien. Nun, da wir diese Regionen zurückgewonnen haben, scheint es nur natürlich, die rohstoffreichen Regionen in eine zentralafrikanische Föderation einzubinden, die eine Hochburg des britischen Einflusses in dieser Region darstellen wird."
 
-ZIM_Decision_recover_zambesia:0 "Überquerung des Zambezi"
+ZIM_Decision_recover_zambesia:0 "Rhodesische Expansion"
 zim_intervene_northern_rhodesia:0 "Wiederherstellung der kaiserlichen Kontrolle über Nordrhodesien"
 zim_intervene_northern_rhodesia_desc:0 "Nachdem das Chaos die deutsche Kolonialordnung überrollt hat, ist es unsere Pflicht, die Ordnung in Nordrhodesien wiederherzustellen, einem rechtmäßigen kaiserlichen Besitz, der reich an Ressourcen ist."
 zim_intervene_nyasaland:0 "Wiederherstellung der kaiserlichen Kontrolle über Njassaland"
@@ -135,6 +141,7 @@ ZIM_tt_decisions_to_retake_nyasaland_and_NR:0 "§YDecisions§! werden verfügbar
 ZIM_tt_reform_becomes_authdem:0 "Der §Yauthoriterische demokratische Flügel§! wird der §Ydominante Flügel der §YReform Party§!.\n"
 ZIM_tt_rhodesia_and_right_reform_become_united:0 "Die §YRhodesia Party§! und der §YRechte Flügel der Reform Party§! fusionieren zur §YUnited Rhodesia Party§!.\nAlle marktliberale Popularität wird in autoritäre Demokratie umgewandelt.\n"
 ZIM_tt_thomas_nangle_now_leader_of_opposition:0 "§YThomas Nangle§! wurde zum neuen Anführer der §YReform Party§!. Er wird der offizielle Chef der Opposition."
+ZIM_Por_Agree:0 "§CUnter diesen Bedingungen sollte die Region leichter zu kontrollieren sein, zu dem Preis für weniger Entwicklung§!"
 
 ### Cosmetic Tags ###
 ZIM_CEA_totalist:0 "Zambesische Kommune"
@@ -265,7 +272,7 @@ ZIM_nyasaland:0 "Die Nordinitiative"
 ZIM_nyasaland_desc:0 "Nach dem Ende des Bürgerkriegs haben diejenigen, die aus dem Norden kamen, um für die Freiheit des Südens zu kämpfen, begonnen, sich entweder in Südrhodesien niederzulassen oder in ihre Heimat zurückzukehren. Da diese guten Männer in ihre fremdbestimmte Heimat zurückkehren, hat die Regierung eine Initiative ins Leben gerufen, um weitere Einwanderer aus dem Norden zu gewinnen."
 ZIM_expand_arsenal:0 "Erweitert das Arsenal"
 ZIM_expand_arsenal_desc:0 "Waffen, Munition und ein gut geschmiertes logistisches System gewinnen Kriege, woran es in Südrhodesien mangelt. Dies muss behoben werden."
-ZIM_staff_corp:0 "Reform des südrhodesischen Stabskorps"
+ZIM_staff_corp:0 "Einsetzung des südrhodesischen Stabskorps"
 ZIM_staff_corp_desc:0 "Mit der kleinen Bevölkerung Südrhodesiens ist die Notwendigkeit einer obligatorischen militärischen Ausbildung eine harte Realität für Südrhodesien."
 ZIM_light_infantry:0 "Leichte Infanterie Doktrin"
 ZIM_light_infantry_desc:0 "Die Verfeinerung der Hit-and-Run-Taktiken, die im Bürgerkrieg eingesetzt wurden, führte zur Entstehung der südrhodesischen Kommandoeinheiten."
@@ -295,6 +302,28 @@ ZIM_entente_planes:0 "Entente Flugzeuge"
 ZIM_entente_planes_desc:0 "Da Südrhodesien wenig bis gar keine eigene Luftfahrtindustrie besitzt, muss es sich an seine Verbündeten wenden, um den Bedarf seines Air Corps zu decken."
 ZIM_cas:0 "Integriertes Luftkorp"
 ZIM_cas_desc:0 "Die Einführung des Fernmeldekorps und die Weiterentwicklung der Funktechnologie haben eine bessere Koordination zwischen unseren Kräften am Boden und in der Luft ermöglicht."
+
+###Navy###
+
+ZIM_Port:0 "Der Hafen von Lourenço Marques"
+ZIM_Port_desc:0 "Das portugiesische Reich ist zusammengebrochen und hat uns die Möglichkeit gegeben, einen Hafen zu sichern, was unsere Streitkräfte erfolgreich getan haben. Jetzt müssen wir hoffen, dass unsere Diplomatisches Koorp so gut ist wie unsere Soldaten, sodass wir es behalten können."
+ZIM_Por_Auto:0 "Portugiesische Vertretungen"
+ZIM_Por_Auto_desc:0 "Mit der Sicherung des Hafens von Lourenço Marques strebt die lokale europäische Bevölkerung portugiesischer Abstammung eine Vertretung in Rhodesien an. Dass sie Europäer sind, wird als positiv angesehen, aber portugiesisch... und katholisch... das sind wirklich beunruhigende Zeiten."
+ZIM_Port_Ours:0 "Lourenço Marques gehört uns"
+ZIM_Port_Ours_desc:0 "Lourenço Marques, von den Einheimischen auch Maputo genannt, wird von den Rhodesiern als Ort des Reichtums und als Ort der Katholiken gesehen. Mit diesen beiden Idealen im Hinterkopf versucht die rhodesische Regierung nun die vorhandenen Institutionen zu integrieren, da Rhodesien die Region nun offiziell annektiert hat."
+ZIM_Por_Agreement:0 "Lourenço Marques ist bewacht"
+ZIM_Por_Agreement_desc:0 "Lourenço Marques, von den Einheimischen auch Maputo genannt, wird von den Rhodesiern als Ort des Reichtums und als Ort der Katholiken gesehen. Mit diesen beiden Idealen im Hinterkopf versucht die rhodesische Regierung nun die vorhandenen Institutionen zu integrieren, da Rhodesien nun die Region "bewacht", bis die rechtmäßige portugiesische Regierung wieder installiert ist."
+ZIM_Port_Expand:0 "Erweitert die Docks"
+ZIM_Port_Expand_desc:0 "Lourenço Marques wurde von der vorherigen portugiesischen Verwaltung nur begrenzt modernisiert. Die Rhodesier wollen ihn um das Zehnfache erweitern, mit neuen Hafenanlagen, in der Hoffnung, dass er zu einem hochsortierten Handelshafen in der Region wird."
+ZIM_Port_Infan:0 "Verbessert die mosambikanische Infrastruktur"
+ZIM_Port_Infan_desc:0 "Eine Untersuchung der Region zeigt, dass die Entwicklung der Region an den Stadtgrenzen von Lourenço Marques gestoppt wurde. Wenn der Handel von Lourenço Marques nach Salisbury fließen soll, müssen Anstrengungen unternommen werden, damit dies geschieht."
+ZIM_Port_Coastal:0 "Eine rhodesische Küstenwache"
+ZIM_Port_Coastal_desc:0 "Eine rhodesische Marine wird zu Lebzeiten der meisten Rhodesier nie Realität werden. Nichtsdestotrotz ist der Schutz des Handels in der Region unabdingbar, wobei Rhodesiens neu gegründete Küstenwache diese Aufgabe erfüllt."
+ZIM_Seize_Ships:0 "Beschlagnahmt Handelsschiffe "
+ZIM_Seize_Ships_desc:0 "Es scheint, dass mehrere portugiesische Handelsschiffe im Hafen zurückgelassen wurden. Sie sind in schlechtem Zustand, aber mit einer schnellen Überholung und einem frischen Anstrich werden diese Schiffe uns gute Dienste leisten."
+ZIM_Por_limited_dock:0 "Begrenzte Entwicklung"
+ZIM_Por_limited_dock_desc:0 "Da die Regierung zugestimmt hat, die Region für Portugal zu sichern, gab es auch ein "Abkommen", das Rhodesien erlaubt, Lourenço Marques zu entwickeln. Obwohl dies auf den reinen Handel und den Bau kleinerer Schiffe beschränkt ist, wird in dem Abkommen nirgends die Beschränkung für den Bau kleinerer Militärschiffe erwähnt..."
+
 
 ### Events ###
 zim.1.t:0 "Die Südrhodesische Armee erhebt sich!"
@@ -349,10 +378,17 @@ zim.13.b:0 "Die Reform Party hat die Mehrheit."
 zim.13.c:0 "Die United Party ist siegreich."
 zim.13.e:0 "Der Sieg geht an Labour."
 
-zim.35:0 "Nord Rhodesia"
 zim.35.t:0 "Die Nordinitiative"
-zim.35.d:0 "Die nun als "Dritte Buren" titulierten Freiwilligen aus "Nordrhodesien" werden zu einer schrecklichen Erinnerung." have began to either settle in South Rhodesia or to return home. This fresh wave of immigration has been seen as the silver lining of the war, with the government looking to start an initiative to better integrate and attract more of these people. Though spoken to smoky rooms by a small few is the goal of uniting the North with the South, with this initiative being the first step towards that"
+zim.35.d:0 "Der nun als "Dritter Burenkrieg" bezeichnete Krieg ist nun eine schreckliche Erinnerung, und die Freiwilligen aus "Nordrhodesien" haben begonnen, sich entweder in Südrhodesien niederzulassen oder nach Hause zurückzukehren. Diese neue Einwanderungswelle wird als der Silberstreif am Horizont des Krieges gesehen. Die Regierung will eine Initiative starten, um mehr Europäer in Rhodesien zu integrieren und anzuziehen. Obwohl in rauchigen Räumen von einigen wenigen gesprochen wird, dass das wahre Ziel der Initiative die Vereinigung von Rhodesien ist."
 zim.35.a:0 "Ein ehrenwerter Zweck"
+
+zim.36.t:0 "Die unbeabsichtigte Vorteile derNordinitiative "
+zim.36.d:0 "Mit der Norrdinitiative in vollem Gange, scheint es, dass der Aufruf weiter reicht, als die Schöpfer der Initiaive beabsichtigt haben. Es scheint, dass die europäischen Siedler in Afrika, die seit dem Fall des britischen Empire gezwungen waren, unter deutscher Herrschaft zu leben, nun beschlossen haben, ihr Los mit der neuen Nation Rhodesien zu werfen.\n\nEs werden bereits Änderungen an der Norrdinitiaive vorgenommen, um mehr Europäer zu gewinnen, die sich in Afrika niedergelassen haben, und es wird eine radikale Erweiterung der Initiaive entworfen. Die Erweiterung der Initiative hat die Form eines verpflichtenden Militärdienstes für 2 Jahre angenommen, mit Unterkunft und Versorgung der Familie. Seltsamerweise scheint es auch Ausnahmen zu geben, wenn man als nicht wehrdiensttauglich erachtet wird oder eine Fähigkeit besitzt, die von der Regierung gesucht wird. Diese "Fähigkeiten" sind im Entwurf der Initiaive nicht definiert, wobei ihre Gegner darauf hinweisen, dass man in der Lage sein könnte, einen Eimer zu tragen, und wenn die Regierung das als eine Art von Fähigkeiten ansieht, dann sind sie ausgenommen."
+zim.36.a:0 "Offensichtlich ist der Eimer gefüllt mit Gefallen und Zaster"
+
+zim.37.t:0 "Das Ausbauprogramm der Nordinitiative"
+zim.37.d:0 "Es scheint, dass trotz aller Bemühungen der Initiatoren der Nordinitiative die neue Ausweitung des Programms nicht die erhofften Früchte getragen hat. Es scheint, dass die meisten Europäer nicht bereit sind, ihre Herrenhäuser, Villen und andere große Grundstücke zu verlassen, um in "Sozialwohnungen" zu leben. Das Norrdinitiative Expansion Scheme wurde weiter in die Knie gezwungen, da die Gegner des Schemas erfolgreich die Lücke füllten, die durch die fehlende Definition von Fähigkeiten im Entwurf entstanden war. Doch es gibt nicht nur schlechte Nachrichten: Eine jüngere Generation von Europäern macht sich auf den Weg, um sich in Rhodesien niederzulassen, und wird freudig begrüßt."
+zim.37.a:0 "Selbst wenn sie verdammte Belgier oder Franzosen sind..."
 
 zim.38:0 "Royal Armed Forces of Rhodesia"
 zim.38.t:0 "Royal Armed Forces of Rhodesia"
@@ -381,10 +417,23 @@ zim.45.d:0 "Da die Provinzkammer nun in den Status eines hohen Gerichts aufgesti
 zim.45.a:0 "...der RRWU, Streik ist ein unveräußerliches Recht!"
 zim.45.b:0 "...Salisbury, die nationale Sicherheit hat Vorrang!"
 
-zim.46.t:0 "Nordinitiative Redunant"
+zim.46.t:0 "Die Nordinitiative ist hinfällig"
 zim.46.d:0 "Mit unseren Erfolgen bei der Erlangung von Nordrhodesien und Njasaland ist die Nordinitiative nun hinfällig geworden. Obwohl es scheint, dass es genug Mittel gibt, um Nyasaland zu entwickeln, das nun als zweiter Entwicklungsort der britischen Entwicklung in Zentralafrika gesehen wird."
 zim.46.a:0 "Ein dreifaches Hoch auf den König"
 
+zim.47.t:0 "Der Hafen von Lourenço Marques gehört uns"
+zim.47.d:0 "Nachdem der Hafen von Lourenço Marques im wahrsten Sinne des Wortes gesichert ist, stehen wir nun vor unserem nächsten Problem, der portugiesischen Regierung im Exil. Es scheint, dass ein Teil der Regierung es geschafft hat, aus Lissabon zu fliehen, bevor es fiel, und "legal" sollten wir einen formelleren Dialog über unsere Aktionen eröffnen. Da wir aus einer Position der Stärke heraus "verhandeln", wurden zwei Optionen ins Gespräch gebracht.\n\nDie erste und populärste Option ist, die Region zu annektieren und den Hafen für unseren eigenen Gebrauch zu entwickeln, mit einer Klausel, die Region an die Portugiesen zurückzugeben, wenn auch natürlich mit Bedingungen... \n\nDie zweite und weniger populäre Option, wenn auch die ehrenvollere ist, die Region formal zu halten, bis die portugiesische Regierung wiederhergestellt ist, wenn auch natürlich mit ähnlichen Bedingungen wie die erste Option."
+zim.47.a:0 "Tut mir leid, mein lieber Junge, aber Lourenço Marques gehört jetzt uns"
+zim.47.b:0 "Wir wären nicht besser als die Deutschen, wenn wir es annektieren würden."
+
+zim.48.t:0 "Portugiesische Automonie gewährt"
+zim.48.d:0 "Die Portugiesen im südlichen Mosambik sitzen in einem sehr ähnlichen Boot wie der einfache Rhodesier, wobei dieses Boot ein weißer Europäer in Afrika ist. Vor diesem Hintergrund würde eine Ablösung der derzeitigen portugiesischen Verwaltung nur dazu dienen, sowohl uns als auch den Portugiesen zu schaden. Abgesehen davon streben die Portugiesen auch eine gleichberechtigte Vertretung mit Rhodesien als Ganzes an, zum Ärger derer in Salisbury. Während die Feinheiten noch ausgearbeitet werden, wurde den Portugiesen ein gewisser Autonomismus bei der Verwaltung des südlichen Mosambiks zugestanden, natürlich unter der Bedingung, dass diese Verwaltung den Handel in Lourenço Marques nicht beeinträchtigt."
+zim.48.a:0 "Das Gewürz muss fließen..."
+
+zim.49.t:0 "Details ausgearbeitet"
+zim.49.d:0 "Nach einigen hitzigen "Diskussionen" hinter verschlossenen Türen wurde den Portugiesen eine Vertretung der Wählerschaft in der Provinz in den Hallen der Southern Rhodesian Legislative Assembly in Salisbury gewährt. Bei ca. 25.000 Weißen, fast ausschließlich Portugiesen, wäre die Vertretung in 3 Wahlkreisen zu erwarten, die mit dem Provinzrat gewählt werden: Lourenço Marques, Gaza und Ciszambesia. Bemerkenswerterweise hat sich die Regierung entschieden, dem Portugiesischen in der Provinz Südostafrika einen offiziellen Status zu geben, zusätzlich zu Englisch und Niederländisch/Afrikaans, denen in unseren anderen Provinzen der offizielle Gebrauch vorbehalten ist. Letzteres ist eindeutig ein Angebot an unsere südafrikanischen Freunde, um den Handel innerhalb der Region zu fördern."
+zim.49.a:0 "Wenn das geklärt ist, was ist dann dieses "peri peri"-Hühnchen, auf das Sie so scharf sind?"
+
 zim.111.t:0 "Die Jungs waren bösartig"
-zim.111.d:0 "Es scheint, dass einige der Jungs in der Lage waren, mehrere Waffenverstecke von den "Holländern" unten im Süden zu "erhalten".  Obwohl diese Waffen im Weltkrieg benutzt worden zu sein scheinen, werden sie in den Händen eines stolzen Sohnes von Rhodesien gute Verwendung finden."
+zim.111.d:0 "Es scheint, dass einige unserer Einheiten in der Lage waren, mehrere Waffenverstecke von den "Ziegen" unten im Süden zu "erhalten".  Obwohl diese Waffen im Weltkrieg benutzt worden zu sein scheinen, werden sie in den Händen eines stolzen Sohnes von Rhodesien gute Verwendung finden."
 zim.111.a:0 "Jungs werden Jungs sein."

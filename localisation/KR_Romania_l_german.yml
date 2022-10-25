@@ -177,8 +177,9 @@ ROM_royal_dictatorship:0 "Ein König, der über uns wacht"
 ROM_royal_dictatorship_desc:0 ""
 ROM_calls_for_democracy:0 "Rufe nach Demokratie"
 ROM_calls_for_democracy_desc:0 "Die Legionäre wurden von der Macht verdrängt, und viele der alten Establishment-Politiker suchen nun nach dem triumphierenden König, um wieder Wahlen anzusetzen und zu einer Regierung aus der Zeit vor Codreanu zurückzukehren."
-ROM_calls_for_democracy2:0 "Rufe nach Demokratie"
-ROM_calls_for_democracy2_desc:0 "Die Legionäre wurden von der Macht verdrängt, und viele der alten Establishment-Politiker suchen nun nach dem triumphierenden König, um wieder Wahlen anzusetzen und zu einer Regierung aus der Zeit vor Codreanu zurückzukehren."
+
+ROM_rebuilding_the_democracy:0 "Wiederaufbau der Demokratie"
+ROM_rebuilding_the_democracy_desc:0 "Trotz Rumäniens neuem Weg zu freien Wahlen und einem fairen Parlament ist die Verwaltung durch das Jahrzehnt der Diktatur getrübt. Korruption und politische Gewalt sind immer noch an der Tagesordnung, und viele haben wenig Vertrauen in das Parteiensystem."
 
 ROM_through_us_ourselves:0 "Durch uns selbst"
 ROM_through_us_ourselves_desc:0 ""
@@ -325,7 +326,11 @@ ROM_prepare_union_tooltip:0 "Schaltet £decision_icon_small §HEntscheidung§! z
 ROM_ultimatum_tooltip:0 "Ermöglicht £decision_icon_small die §HEntscheidung§! §HBeanspruchung Siebenbürgens§!.\n"
 ROM_TRS_IG_tooltip:0 "Durch die Ausweitung der §GLegionären Bewegung§! über die Karpaten hinaus wird die Eiserne Garde an Stärke gewinnen, sollten wir die Wiedervereinigung vollziehen."
 ROM_carpathian_recon_tooltip:0 "Die Kartierung der Grenzverteidigung wird unseren ersten Angriff verstärken."
-ROM_revolt_tooltip:0 "§RDies wird als Kriegshandlung betrachtet.§!"
+ROM_revolt_strongest:0 "§RGanz Siebenbürgen wird sich mit uns erheben.§!"
+ROM_revolt_strong:0 "§OEin großer Teil Siebenbürgens wird sich mit uns erheben.§!"
+ROM_revolt_medium:0 "§YEin beträchtlicher Teil Siebenbürgens erhebt sich mit uns.§!"
+ROM_revolt_weak:0 "§gIn Siebenbürgen gibt es nur wenig Unterstützung für die Rebellion.§!"
+ROM_revolt_none:0 "§gEs gibt keine Unterstützung für einen bewaffneten Aufstand in Siebenbürgen.§!"
 ROM_loose_ends_tt1:0 "Schaltet £decision_icon_small §HEntscheidung§! zu §HBeanspruchung Bucovinas§! frei."
 ROM_loose_ends_tt2:0 "Schaltet £decision_icon_small §HEntscheidung§! zu §HBeanspruchung West Banats§! frei."
 ROM_renew_pride_tt:0 "Schaltet £decision_icon_small §HEntscheidung§! für Kern-Siebenbürgen frei."
@@ -357,31 +362,43 @@ ROM_PNT_electoral_status_no_PNT:0 "Es gibt wenig Einigkeit unter den rumänische
 
 500_infantry_equipment_1:0 "£rifle_texticon §H500§!"
 500_infantry_equipment_1_blocked:0 "£rifle_texticon §R500§!"
-500_infantry_equipment_1_tooltip:0 ""
+500_infantry_equipment_1_tooltip:0 "Es kostet $500_infantry_equipment_1_blocked$ die Entscheidung zu treffen"
 
 CP_80_support_30:0 "£command_power §H80§! £support_texticon  §H30§!"
 CP_80_support_30_blocked:0 "£command_power §R80§! £support_texticon  §R30§!"
+CP_80_support_30_tooltip:0 "Es kostet$CP_80_support_30_blocked$ die Entscheidung zu treffen"
 
 PP_30_support_30:0 "£pol_power §H30§! £support_texticon  §H30§!"
 PP_30_support_30_blocked:0 "£pol_power §R30§! £support_texticon  §R30§!"
+PP_30_support_30_tooltip:0 "Es kostet$PP_30_support_30_blocked$ die Entscheidung zu treffen"
 
 CP_80_PP_50:0 "£command_power §H80§! £pol_power §H50§!"
 CP_80_PP_50_blocked:0 "£command_power §R80§! £pol_power §R50§!"
+CP_80_PP_50_tooltip:0 "Es kostet $CP_80_PP_50_blocked$ die Entscheidung zu treffen"
+
+CP_80:0 "£command_power §H80§!"
+CP_80_blocked:0 "£command_power §R80§!"
+CP_80_tooltip:0 "Es kostet $CP_80_blocked$ die Entscheidung zu treffen"
 
 PP_25_CP_100:0 "£pol_power §H25§! £command_power §H100§!"
 PP_25_CP_100_blocked:0 "£pol_power §R25§! £command_power §R100§!"
+PP_25_CP_100_tooltip:0 "Es kostet $PP_25_CP_100_blocked$, die Entscheidung zu treffen"
 
 PP_30_infantry_equipment_500:0 "£pol_power §H30§! £rifle_texticon §H500§!"
 PP_30_infantry_equipment_500_blocked:0 "£pol_power §R30§! £rifle_texticon §R500§!"
+PP_30_infantry_equipment_500_tooltip:0 "Es kostet $PP_30_infantry_equipment_500_blocked$ die Entscheidung zu treffen"
 
 PP_30_infantry_equipment_250:0 "£pol_power §H30§! £rifle_texticon §H500§!"
 PP_30_infantry_equipment_250_blocked:0 "£pol_power §R30§! £rifle_texticon §R500§!"
+PP_30_infantry_equipment_250_tooltip:0 "Es kostet $PP_30_infantry_equipment_250_blocked$ die Entscheidung zu treffen"
 
 PP_50_infantry_equipment_500:0 "£pol_power §H50§! £rifle_texticon §H500§!"
 PP_50_infantry_equipment_500_blocked:0 "£pol_power §R50§! £rifle_texticon §R500§!"
+PP_50_infantry_equipment_500_tooltip:0 "Es kostet $PP_50_infantry_equipment_500_blocked$ die Entscheidung zu treffen"
 
 PP_10_support_40_infantry_equipment_250:0 "£pol_power §H10§! £support_texticon  §H40§! £rifle_texticon §H250§!"
 PP_10_support_40_infantry_equipment_250_blocked:0 "£pol_power §R10§! £support_texticon  §R40§! £rifle_texticon §R250§!"
+PP_10_support_40_infantry_equipment_250_tooltip:0 "Es kostet $PP_10_support_40_infantry_equipment_250_blocked$ die Entscheidung zu treffen"
 
 ROM_transylvanian_resistance:0 "Siebenbürgischer Widerstand"
 ROM_transylvanian_collaboration:0 "Siebenbürgische Zusammenarbeit"
@@ -393,6 +410,7 @@ ROM_transylvanian_resistance_garrison_tooltip:0 "Garnisonsdurchdringungschance: 
 SER_lost_balkan_war:0 "War am Balkankrieg beteiligt und verlor\n"
 
 ROM_will_lead_to_war_with_austria:0 "§RÖsterreich darf uns den Krieg erklären, um die territoriale Integrität des Reiches zu schützen!§!"
+ROM_alfold_unrest:0 "§REs gibt einen aktiven Aufstand gegen unsere Besatzung.§!"
 
 ### Decisions ###
 ROM_public_appearances:0 "Öffentliche Auftritte arrangieren"
@@ -424,7 +442,7 @@ ROM_riches_under_the_carpathians_category:0 "Reichtümer unter den Karpaten"
 ROM_riches_under_the_carpathians_category_desc:0 ""
 
 ROM_reconquest_category:0 "Streben nach größerem Rumänien"
-ROM_reconquest_category_desc:0 "Seit Michael der Große sein Reich gegründet hat, ist unsere heilige Aufgabe klar: eine rumänische Vereinigung auf beiden Seiten der Karpaten. Eine Vereinigung mit den Ebenen der Bukowina, wo Stephan der Große seit Jahrhunderten geschlafen hat. In unserer moralischen Energie und unserer Tapferkeit liegen die Mittel, ihm sein Geburtsrecht eines großen und freien Rumäniens von der Theiß bis zum Schwarzen Meer zurückzugeben und in Frieden zu gedeihen, wie es unseren Sitten und unseren Hoffnungen und Träumen entspricht."
+ROM_reconquest_category_desc:0 "Seit Michael der Große sein Reich gegründet hat, ist unsere heilige Aufgabe klar: eine rumänische Vereinigung auf beiden Seiten der Karpaten. Eine Vereinigung mit den Ebenen der Bukowina, wo Stephan der Große seit Jahrhunderten geschlafen hat. In unserer moralischen Energie und unserer Tapferkeit liegen die Mittel, ihm sein Geburtsrecht eines großen und freien Rumäniens von der Theiß bis zum Schwarzen Meer zurückzugeben und in Frieden zu gedeihen, wie es unseren Sitten und unseren Hoffnungen und Träumen entspricht.\n[ROM_revolt_strength_desc]"
 
 ROM_legion_category:0 "Gruppierungen der Legion"
 ROM_legion_category_desc:0 "Die Legion ist kaum eine einheitliche Bewegung. Obwohl jeder nur Größe für alle Rumänen anstrebt, sind viele uneins über die genauen Methoden und über die Frage der Führung. Corneliu Codreanu hat seine Position als klare Führungspersönlichkeit innerhalb der Bewegung gefestigt...\n\n... aber seine Position wird keine ewige sein, und sein Griff auf die Bewegung muss ständig bekräftigt werden. Codreanus Einfluss auf die Bewegung ist [ROM_IG_CZC_influence].\n§GCodreanu's Einfluss:§! [?ROM_IG_CZC]\n§YAlte Wache der Legion:§! [?ROM_IG_OG]\n§CLegionärs-Arbeiterkorps:§! [?ROM_IG_CML]\n§RDer radikale Flügel:§! [?ROM_IG_CNTZ]"
@@ -570,6 +588,23 @@ ROM_economic_council_expansion_desc:0 "Bisher erweist sich die Wirtschaftsunion 
 
 ROM_negotiate_with_Russia:0 "Verhandlungen mit Russland"
 ROM_negotiate_with_Germany:0 "Verhandlungen mit Deutschland"
+
+ROM_michael_category:0 "Wiederaufbau der demokratischen Nation"
+ROM_michael_category_desc:0 "Die vergangenen Jahre waren düster für die rumänische Demokratie, und viele Regierungsinstitutionen sind durch die autoritäre Politik von Codreanu und Carol II. belastet. Es gibt viel zu tun, um sicherzustellen, dass das Rumänien, das wir jetzt aufbauen, in der Lage sein wird, seine Demokratie zu bewahren und den zukünftigen Stürmen des Autoritarismus und Radikalismus zu trotzen."
+
+ROM_reorganizating_the_gendarmerie:0 "Reorganisation der Gendarmerie"
+ROM_reorganizating_the_gendarmerie_desc:0 "Das rumänische Strafverfolgungssystem war lange Zeit eine Hochburg der Unterstützer des autoritären Regimes. Um sicherzustellen, dass die neuen Freiheiten respektiert werden, müssen wir das System zwingend überarbeiten."
+ROM_educational_reform:0 "Reform des Bildungssystems"
+ROM_educational_reform_desc:0 "Eine Generation der rumänischen Jugend ist unter dem verzerrenden Einfluss sowohl von Codreanus Radikalismus als auch von Carols Autokratie aufgewachsen. Wenn unsere Demokratie erfolgreich sein soll, müssen wir das Bildungssystem reformieren und den Personenkult abstreifen."
+ROM_administrative_decentralization:0 "Administrative Dezentralisierung"
+ROM_lift_the_censorship:0 "Aufhebung der Zensur"
+ROM_the_agrarian_debt_forgiveness:0 "Landwirtschaftlicher Schuldenerlass"
+ROM_restructured_administration:0 "Umstrukturierung der Verwaltung"
+ROM_law_on_simple_majorities:0 "Gesetz über einfache Mehrheiten"
+ROM_state_economic_enterprises:0 "Organisieren Sie staatliche Unternehmen"
+ROM_the_electoral_reform:0 "Die Wahlrechtsreform"
+ROM_regulation_of_industrial_syndicates:0 "Regulierung der Industriesyndikate"
+ROM_promotion_of_indigenous_capital:0 "Einheimisches Kapital fördern"
 
 ### Focuses ###
 
@@ -1584,11 +1619,11 @@ romania.136.a:0 "Niemals!"
 romania.136.b:0 "Geben Sie nach und übergeben Sie es."
 #Bucovina ceded
 romania.137.t:0 "[From.GetName] gibt unseren Forderungen nach"
-romania.137.d:0 "Die Nation X hat der Abtretung der Bukowina zugestimmt, und in unserer Nation sind Feiern ausgebrochen über die Nachricht, dass die Ländereien der Bukowina bis zum Ceremus, die Heimat Stephans des Großen und anderer großer Persönlichkeiten, endlich nach Hause kommen."
+romania.137.d:0 "[From.GetDefName] hat der Abtretung der Bukowina zugestimmt, und in unserer Nation sind Feiern ausgebrochen über die Nachricht, dass die Ländereien der Bukowina bis zum Ceremus, die Heimat Stephans des Großen und anderer großer Persönlichkeiten, endlich nach Hause kommen."
 romania.137.a:0 "Eine weitere Ungerechtigkeit korrigiert!"
 #War for Bucovina
 romania.138.t:0 "[From.GetName] verweigert die Übergabe."
-romania.138.d:0 "Die Nation X hat sich hartnäckig geweigert, die Bucovina abzutreten! Was sie dazu getrieben hat, ist unbekannt, aber sicher ist, dass dies zum Krieg führen wird. Unsere Truppen stehen bereit, um mit der Rückgewinnung der Woiwodschaftswälder zu beginnen und ein weiteres Kernstück unseres Erbes nach Hause zu bringen."
+romania.138.d:0 "[From.GetDefName] hat sich hartnäckig geweigert, die Bucovina abzutreten! Was sie dazu getrieben hat, ist unbekannt, aber sicher ist, dass dies zum Krieg führen wird. Unsere Truppen stehen bereit, um mit der Rückgewinnung der Woiwodschaftswälder zu beginnen und ein weiteres Kernstück unseres Erbes nach Hause zu bringen."
 romania.138.a:0 "Moldawien soll wieder vereint sein!"
 romania.138.b:0 "Sie haben unseren Bluff sofort durchschaut."
 #Ultimatum for West Banat
@@ -1921,7 +1956,7 @@ romania.211.b:0 "Wir riskieren, das zu werden, wogegen wir gekämpft haben; konz
 romania.212.t:0 "Ein bröckelndes Kartenhaus"
 romania.212.d:0 "Zurück in den 1920er Jahren, Corneliu Zelea Codreanu und eine Reihe von Anhängern spaltete sich von der National-Christian Defense League, von A.C Cuza geführt, seine neue politische Bewegung zu bilden, die in der Legionärsbewegung wachsen würde. Doch jetzt scheint es, dass seine eigene Wende als Gesicht der rumänischen ultranationalistischen Rechten im Feuer enden könnte, genau wie die von A.C. Cuza.\n\nNur wenige konnten vorhersagen, dass die scheinbar aufstrebende Legion des Erzengels Michael beginnen würde, das Schicksal ihres Vorfahren zu teilen, aber die Zeichen wurden in den letzten Monaten immer deutlicher. Ihre wachsende Größe begann gegen sie zu arbeiten, als die Legion begann, verschiedene Fraktionen und Gruppierungen innerhalb ihrer selbst zu beherbergen, die sich über genaue Punkte der Legionärsdoktrin stritten und verschiedene Punkte auf ihre eigene Weise interpretierten. Während ihr Captain eine Zeit lang die Kontrolle behalten konnte, hatte er dennoch Momente, in denen es schien, als könnte er die Kontrolle über die Zukunft seiner Bewegung verlieren. Und nun sieht er, wie sich seine Kontrolle in einer Krise auflöst, die schlimmer ist als alles, was er je zuvor gesehen hat, denn die internen Streitigkeiten innerhalb der Legionärsbewegung beginnen, einen Fieberpegel zu erreichen, der die Stabilität der Organisation verwüstet und immer mehr Mitglieder beginnen, sich von ihr abzuspalten.\n\nOb dies durch sein eigenes Versagen verursacht wurde oder dadurch, dass ein bestimmter Gedankenstrom zu dominant wurde, ist unklar, aber eines ist sicher; es würde eine große Anstrengung erfordern, den Kurs jetzt zu korrigieren. Codreanus eigene Berater haben begonnen, anzudeuten, dass er einen Schritt zurücktreten und eine spirituellere Rolle in der Führung der Legion einnehmen und einen seiner vertrauten Untergebenen als politischen Kopf zurücklassen sollte, aber einige Stimmen sind immer noch der Meinung, dass der Hauptmann auch dieses Mal in der Lage sein wird, die göttliche Vorsehung anzurufen und dem Chaos ein Ende zu setzen. Mit dem Druck und dem Stress, der auf Codreanu lastet, der durch diese Wendung der Ereignisse bereits beunruhigt ist, bleibt es abzuwarten, was er tun wird, um den Zusammenhalt wiederherzustellen."
 romania.212.a:0 "Vielleicht kann Motas alte Garde uns helfen."
-romania.212.c:0 "Lass uns einen Deal mit Sima und seinen Anhängern machen."
+romania.212.c:0 "Lass uns einen Deal mit Sima und seinen Anhängern machen..."
 romania.212.e:0 "Wir müssen schließlich einen Kompromiss mit Cantacuzino eingehen."
 romania.212.b:0 "Gott wird uns auch in dieser Prüfung den Sieg schenken!"
 
@@ -1972,6 +2007,43 @@ ROM_czc_killed_in_prison:0 "Glücklicherweise ist es uns gelungen, ihren Hauptma
 romania.222.t:0 "Großer Vereinigungstag"
 romania.222.d:0 "Ein neuer Feiertag ziert die Kalender Rumäniens, denn dieser schöne Tag, [GetDateText] wurde zum Tag der Großen Vereinigung ernannt, um den Abschluss des nationalen Vereinigungsprozesses vor genau einem Jahr zu feiern!\n\nEinmal mehr hüllt sich das Land in Blau, Gold und Rot, wenn die Rumänen den Fall der letzten Grenzen feiern, die ihr Volk trennten. Paraden, Grillfeste, freundschaftliche Zusammenkünfte durchziehen das Land von West nach Ost, während Kinder und Erwachsene gleichermaßen die Einführung dieses neuen Feiertags feiern. Was auch immer es an Spaltungen in der rumänischen Gesellschaft gibt, löst sich vorübergehend in der Aura der Brüderlichkeit auf, die sich überall ausbreitet, während das Gefühl der Freude darüber, nicht mehr geteilt zu sein, alles in den Schatten stellt. Nachdem die letzten Barrieren des rumänischen Volkes niedergerissen wurden, macht sich in der Bevölkerung ein Gefühl des Optimismus breit; jetzt, wo alle vereint sind, kann dem Weg des rumänischen Volkes zur Größe nichts mehr im Wege stehen.\n\nWenn sich der Tag dem Ende zuneigt, finden in den Städten und Gemeinden Feuerwerksshows statt, während sich die Menschen entweder für den Tag zurückziehen, zufrieden mit den Festlichkeiten, oder bis in die Nacht hinein weiterfeiern, voller Freude über die brüderliche Vereinigung."
 romania.222.a:0 "Brüder sollen immer Brüder sein!"
+
+romania.223.t:0 "Dämmerung"
+romania.223.d:0 "Mihai wachte auf und dachte, dass heute ein weiterer trister Tag werden würde. Ein weiterer trostloser Tag, an dem seine grün gekleideten Handlanger ihm sagen würden, was er wo zu unterschreiben hatte, während sie ihn nicht darüber informierten, was in seinem Königreich vor sich ging. Er fühlte sich machtlos; in seiner Hand lag große Macht, aber er wusste, dass es riskant war, sie auszuüben: Während er die königliche Garde und Teile der Armee versammeln konnte, um die Macht zurückzuerobern, konnten die Legionäre ihn einfach erschießen oder stattdessen auf ihre eigenen Kontakte zurückgreifen. Und nur Gott wusste, was passieren würde, wenn er nicht mehr auf dem Schirm war.\n\n Vielleicht würde er heute zu den Flugzeugen gehen. Vielleicht konnte er einige von ihnen überreden, ihm zu erlauben, seine Flugstunden zu nehmen. Wer weiß, eines Tages könnte er lernen, selbst zu fliegen. Sich ein geeignetes Ventil für seine Wut über seine Situation verschaffen und vielleicht eine Idee bekommen, wie er sich verhalten sollte. Ein eingesperrter Vogel, der die Freiheit schmeckt und seine Gedanken auffrischt.\n\nDann sah er plötzlich, wie sich die Tür seines Arbeitszimmers öffnete und eine Schar grün gekleideter Männer den Raum füllte, angeführt von diesem verfluchten Mann, Alexandru Cantacuzino. Er spürte, wie sich sein Magen zusammenzog, aber er behielt ein ruhiges Gesicht. Das musste er.\n "Eure Lordschaft. Was führt Sie heute hierher?"\n "Sprechen Sie mich nicht so an, Eure Majestät", sagte Cantacuzino und grinste, als er seinen Monarchen ansprach. "Wir haben heute sehr wichtige Staatsgeschäfte zu erledigen."\n"Wie immer."\n "Also. Zum ersten Punkt der Tagesordnung... Eure Majestät hat etwas zu unterschreiben." Und mit diesen Worten schob Cantacuzino dem König ein Papier auf den Schreibtisch. Mihai spürte, wie sein Blut zu Eis wurde, als er die entscheidenden Worte am unteren Rand sah."
+romania.223.a:0 "Ein Akt der Abdankung? Was ist die Bedeutung davon?"
+
+romania.224.t:0 "Nadir"
+romania.224.d:0 ""Es ist so, wie es ist. Die Monarchie hat zwar viel zur Bereicherung der rumänischen Nation beigetragen, aber ihre Fremdbestimmung hat sie zu lange unterdrückt. Und als das rumänische Volk endlich seinen Willen sprechen ließ und uns an die Macht brachte, antwortete Ihr geschätzter Vorgänger, indem er uns verfolgte. Doch wie die Märtyrer im alten Rom haben wir gesiegt. Und jetzt fordern wir unsere Rechte ein.”\n“Ich bitte um etwas Bedenkzeit, Eure Lordschaft.”\n“Sie können sich so viel Zeit nehmen, wie Sie brauchen, aber Sie werden dieses Plenum nicht unterbrechen können. Dafür haben wir gesorgt.”\n\nDie Emotionen strömten durch den Körper des jungen Mannes, als er seine missliche Lage betrachtete. Hier war er, umgeben von den grüngekleideten Fanatikern, die nun verlangten, dass er wie ein Feigling seinen Thron verließ! Doch er wusste nicht, was er tun sollte; er konnte nicht um Hilfe rufen und er war sicherlich nicht in einem rationalen Zustand. Wenn nur sein Vater noch da wäre...\n“Die Rumänen haben gesprochen, Eure Majestät. Wir sind es, die ihren Willen wahrhaftig umsetzen, und der Versuch, uns zu widerstehen, zeigt nur, wie unbedarft Ihr seid. Widerstand wäre zwecklos und würde nur zu noch mehr Unfrieden führen. Wofür entscheiden Sie sich?”\n\nWieder stand Mihai an einem furchtbaren Scheideweg. Seine einst vertrauensvolle, stoische Fassade drohte zu zerbröckeln. Er versuchte, Zeit zu gewinnen, er versuchte, nach Wegen zu suchen, um Hilfe zu signalisieren, alles, was er konnte, aber ohne Erfolg. Wenn er hier lebend herauskommen wollte, musste er dieses verdammte Papier unterschreiben. Es tat weh, aber er hatte keine Wahl.\n"Ich hoffe, Sie wissen, was Sie getan haben, Eure Lordschaft", sagte Mihai mit brüchiger Stimme.\n“Oh, das tue ich. Ich gebe der Nation nur, was sie braucht.”\nAls sich alle zum Gehen wandten, blieb Cantacuzino zurück.\n“Ich werde dir genug Zeit geben, deine Angelegenheiten zu regeln. Ich überlasse Ihnen die Villa, die Ihnen in der Nähe von Săvârșin gefallen hat. Was alles andere angeht, werden wir sehen.”\nDie Tür schloss sich, und Mihai weinte. Er fühlte sich in diesem Moment so schwach, so anders als sein Vater und seine Vorgänger. Die Zukunft seines Landes war ungewiss, und er fühlte sich schwach, weil er sie so aufgab. Sicher, er hatte keine andere Wahl, aber in seinem Kopf wurden Szenarien erstellt und in einem Wimpernschlag wieder verworfen, bis zu einem Moment, in dem sein Gedankengang bei einer Idee stehen blieb.\n\nDass er jetzt wirklich frei sein würde, um zu fliegen."
+romania.224.a:0 "Der eingesperrte Vogel schmeckt die Freiheit, aber zu einem sehr hohen Preis."
+
+romania.225.t:0 "Gestutzte Flügel"
+romania.225.d:0 ""Eine Frechheit, die Legionäre zu entlassen!"\n\n "In der Tat, Genosse. Leider ist sogar der König den Machenschaften dieser Freimaurer zum Opfer gefallen."\n\n"Er soll den Willen der Nation verkörpern, hm? Ist ihm nicht klar, dass wir den Willen des Volkes am besten repräsentiert haben, Victor? Mehr als die liberalen und bäuerlichen Räuber?"\n\n"Geduld, Gabi. Wir haben vielleicht einen großen Rückschlag erlitten, aber unsere Übernahme ist unausweichlich. Wenn nicht jetzt, dann wird das rumänische Volk eines Tages aufwachen. Und sehen, was man ihnen genommen hat."\n\n"Stimmt, Genosse. Eines Tages werden wir es ihnen allen heimzahlen."\n\nDer Untergang der Legionärsbewegung mag eine gewisse Anzahl von Menschen begeistert haben, aber es gab auch einige, die ihn nicht auf die leichte Schulter genommen haben. Obwohl die Männer des Erzengels einen bedeutenden Schlag gegen ihre Organisation einstecken mussten, hält sich die Bewegung selbst immer noch in den Schatten auf, verfolgt jeden Schritt der historischen Parteien und plant Handlungsoptionen. Obwohl sie nicht mehr in der Lage ist, so viele Menschen zu begeistern, wie sie es in ihrer Blütezeit konnte, hat sie immer noch ein paar Nostalgiker und die Fähigkeit, sich selbst zu verewigen. Die rumänische Politik mag sich langsam in eine neue, demokratischere Norm hineinbewegen, aber der stille Blick der Männer des Erzengels wird immer noch im Schatten allgegenwärtig sein, immer noch an den Lehren ihres Hauptmanns und seiner Kommandanten der Verkündigung festhaltend."
+romania.225.a:0 "Die Wache der Legion könnte einfach ewig dauern."
+
+romania.226.t:0 "Eine neue Verfassung!"
+romania.226.d:0 "Im Parlament und im Grünen Haus wird gefeiert, denn die Legionärsbewegung jubelt über die neue Verfassung, die sie dem Land geben will. Höherrangige Kader sind zuversichtlich, dass das Projekt per Referendum angenommen wird und eine neue Ära für die rumänische Nation einläutet.\n\nIn Anlehnung an die populistischen Bewegungen vergangener Zeiten bekräftigt die neue Verfassung die führende Rolle des rumänischen Volkes innerhalb der rumänischen Nation sowie den grundlegenden Wert von Eigentum und Land; allerdings etabliert sie auch den Staat als mächtigen Machtvermittler in solchen Angelegenheiten, indem sie ihm ein gewisses Maß an Macht verleiht, Land zu beschlagnahmen, zu verkaufen und zu verteilen. Das Parlament wird ebenfalls reorganisiert, um Vertreter aller Arbeiter-, Bauern-, Unternehmer- und Berufsverbände einzubeziehen und sie zusätzlich zu den Senatoren von Rechts wegen im Senat zu zentrieren; die Abgeordneten werden weiterhin über Parteilisten gewählt. Die dominierende Rolle der orthodoxen und unierten Konfessionen wird festgeschrieben, während das zentralistische Prinzip der Verwaltung etwas abgemildert wird.\n\nAls dominierende Partei ist die Legion in einer einzigartigen Position, um sich im Rahmen dieses neuen Systems zu positionieren und ein einzigartiges System zu schaffen, das einige der Merkmale des Alten mit dem Neuen verbindet. Nur wenige wissen, was von diesem neuen System zu erwarten ist, aber die Scharen von Grünhemden scheinen das Projekt zu unterstützen, da sie es als den Schlussstein ihres sogenannten "Großen Legionärssieges" sehen."
+romania.226.a:0 "Endlich strahlt das Land!"
+
+romania.227.t:0 "Eine neue Verfassung!"
+romania.227.d:0 "Nach der Konsolidierungs- und Regierungszeit der PNT ist es an der Zeit, die alte Verfassung von 1866 endlich zu revidieren, ein Akt, der vollzogen wurde. Nach der Genehmigung durch die gesetzgebenden Kammern und den Souverän wird erwartet, dass auch das Volk sie per Referendum annimmt.\n\nBeeinflusst sowohl von der alten Verfassung als auch von den Ansichten von Theoretikern wie Constantin Stere und Romul Boilă, widmet die neue Verfassung einen großen Raum der Definition und dem Schutz der individuellen Rechte, beeinflusst von dem englischen Konzept des Habeas Corpus. Die Zentralisierung wird zwar immer noch aufrechterhalten, aber durch lokale Autonomie auf den untersten Ebenen abgemildert, und die Rolle von Volksinitiativen und Referenden wird gestärkt. Nicht alle Bestimmungen überlebten jedoch den Diskussionsprozess; der Oberste Wirtschaftsrat, das Einkammerparlament und die Idee, die Landnutzung und -aufteilung unter staatliche Kontrolle zu stellen, schafften es nicht in die Revision.\n\nIhr Geist blieb jedoch unversehrt, und die Front der PNT ist sich sicher, dass ihre neue Verfassung ein großer Schritt in Richtung einer besseren Zukunft für Rumänien sein wird, da die Nation als Einheit voranschreitet."
+romania.227.a:0 "Ein Hoch auf die neue Verfassung für alle Rumänen!"
+
+romania.228.t:0 "Eine neue Verfassung!"
+romania.228.d:0 "Unter der klugen Leitung der PNL wurde eine neue Verfassung entworfen und verabschiedet. Die neue Verfassung ehrt die Träume des verstorbenen Ionel Brătianu und König Ferdinands und verankert das neue demokratische System und kodifiziert die neuen Entwicklungen der Jahre seit der letzten Verabschiedung der Verfassung. Sie wird einem Referendum unterzogen werden, das sie höchstwahrscheinlich bestehen wird.\n\nViele Bestimmungen des Alten wurden beibehalten, aber modernisiert: Der König verfügt zwar immer noch über weitreichende Vorrechte wie das Veto gegen Gesetze, das Ausstellen von Begnadigungen und Vetos, das Ernennen und Entlassen von Ministern, aber er kann sie nur mit Zustimmung seiner Minister ausüben. Denn er regiert, aber er regiert nicht.\n\nZuvor verankerte Rechte wurden weiter kodifiziert, der Status der rumänisch-orthodoxen und der griechisch-katholischen Kirche als vorherrschende Glaubensrichtungen wurde verankert, und vor allem wurde der nationale und unteilbare Charakter der Nation gefestigt, was die große Union aller Rumänen unter einer Nation weiter zementierte."
+romania.228.a:0 "Endlich, eine neue Verfassung!"
+
+romania.229.t:0 "Vor Ort und in den Papieren"
+romania.229.d:0 ""Hast du einen Kopf? Die Legionäre, sie wurden gestürzt!"\n\n"Eh, das war zu erwarten. Natürlich würden diese verdammten Freimaurer nicht zulassen, dass Codreanu das Chaos aufräumt."\n\n"Ist dir nicht klar, was das bedeutet, Vasile? Wir bekommen neue Wahlen, diesmal richtige! Der König hat gesagt, er..."\n\n"Der König ist ein kleiner Junge, der sich mit dem Schlamassel großer Männer anlegt, Adrian. Mutig, aber sehen wir mal, wozu dieser kleine Junge fähig ist."\n\n"Ich für meinen Teil feuere diese Jungs an, das PNT; sie scheinen sich auszukennen."\n\n"Pfah, dieser Maniu-Typ? Sei nicht dumm. Es wird nur wieder die PNL sein."\n\nDie Ankündigung von Neuwahlen hat eine Debatte im öffentlichen Raum Rumäniens entfacht, da die Menschen, von den höchsten Intellektuellen bis zu den Bauern auf den Feldern, darüber nachdenken, was die Zukunft bringen wird, und entscheiden, welche Partei die nächste sein wird, die Rumänien nach vorne führt. Der Zynismus ist in bestimmten Teilen der Bevölkerung immer noch groß, die vielleicht Nostalgie für Carol II. oder für den Hauptmann und seine Männer hegen, aber das Aufblühen des Volksdialogs gibt vielen der gebildeteren Bürger Hoffnung, dass die Demokratie in Rumänien noch Wurzeln schlagen kann."
+romania.229.a:0 "Die Wahlurnen werden bald sprechen."
+
+romania.230.t:0 "Im Hain"
+romania.230.d:0 ""Nea Ilie, Nea Ilie, beeil dich, wir sind so weit!"\n\n"Immer mit der Ruhe, Gheorghe, ich komme."\n\nEs ist ein gemütlicher Tag in Rumänien, und wenn die Arbeit ruht, finden viele Dorfbewohner es lohnenswert, sich zu versammeln, um die Ereignisse des Tages zu hören, sei es in einer Bar oder draußen in einem Hain. Und in diesem speziellen Dorf ist der Hain des Schmieds die Bühne für diese gemeinschaftliche Nachrichtenbesprechung.\n\n"Schauen wir mal. Offenbar will Mihalache die finanziellen Lasten der Bauern erleichtern und verspricht ein Schuldenerlassgesetz, wenn seine Leute es ins Parlament schaffen."\n\n"Wirklich, Ilie? Das klingt hervorragend!"\n\n"Hey, hetz ihn nicht, Iorgu, lass ihn lesen; wie haben die Liberalen geantwortet?"\n\n"Răducanu sagt, dass sie sich für einen besseren entscheiden werden, wenn sie die Macht übernehmen."\n\n"Als ob diese Brătianu-Fans tatsächlich etwas tun würden, oder Nea Ilie?"\n\n"Du solltest besser aufpassen, Gheorghe, du weißt, dass ich sie immer noch mag, denn ich weiß, was für ein Mann Ionel Brătianu war."\n\n"Ja, eine Marionette von diesen Deutschen! Damals hat er sich doch für uns eingesetzt!"\n\n"Beruhigen Sie Barbu, lassen Sie ihn wieder lesen!"\n\n"Oh, Sie verteidigen ihn gerne, Iorgu, aber Sie würden das Land in seiner Not nicht verteidigen!"\n\n"Du hast den Fall der Männer des Erzengels nicht auf die leichte Schulter genommen, oder?"\n\n"Haltet alle die Klappe und lasst Nea Ilie sprechen!", schrie Iocan, der Schmied.\n\nNea Ilie lächelte, als er beobachtete, wie jeder auf seine eigene Art und Weise miteinander auskam. In diesen hitzigen Diskussionen wuchsen die Meinungen, man tauschte sich aus, aber am Ende war alles verziehen. Denn das war das Wesen dieser Zeitungsgespräche. Genauso leicht, wie sie zu hitzigen Debatten führen konnten, konnten sie später bei einem Becher Wein oder zwei dazu führen, dass böses Blut verziehen wurde."
+romania.230.a:0 "Die Zeit hat sicherlich ihre Geduld, und Ereignisse wie dieses färben ihre Leinwand."
+
+romania.231.t:0 "Terroranschlag in Alföld!"
+romania.231.d:0 "Trotz unserer besten Bemühungen bleibt das westliche Grenzgebiet feindlich und gefährlich für echte Rumänen. In einem deprimierend häufigen Ereignis hat eine Gruppe von magyarischen Terroristen eine kleine Militärpatrouille tief in Alföld angegriffen. Kaum hatten unsere Männer das Feuer erwidert, flüchteten die Verbrecher. Die Patrouille wurde zurückgelassen, um ihre Toten und Verwundeten zu versorgen, während die Jagd nach den Angreifern begann, aber es war für jeden klar, dass es ein fruchtloses Unterfangen sein würde. Die verschiedenen separatistischen Organisationen der Alföld-Region hatten fast die volle Unterstützung der Einheimischen, und wurden von den ungarischen Bauern geschützt und unterstützt. Das Einzige, was wir tun konnten, war, die Sicherheit zu erhöhen und die Städte immer stärker in die Zange zu nehmen."
+romania.231.a:0 "Schickt mehr Truppen!"
+romania.231.b:0 "Mit der Zeit werden sie lernen, die Peitsche zu lieben."
 
 ### Leader Traits ###
 ROM_autocrat:0 "Entschlossener Autokrat"

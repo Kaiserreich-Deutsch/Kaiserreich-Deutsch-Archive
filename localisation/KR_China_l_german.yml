@@ -1,0 +1,378 @@
+﻿l_german:
+
+### Integration Decisions
+integrate_china:0 "Richtet Verwaltungen ein / Reintegriert Konzessionen"
+integrate_china_desc:0 "Wir brauchen nur eine Regierung. Obwohl wir die Bedrohungen auf dem Schlachtfeld besiegt haben, wird eine Reihe von Kampagnen zur Demontage der Unterstützungsbasen unserer Rivalen, zur Beschlagnahme ihrer Vermögenswerte und zur Aufhebung ihrer Vertragshäfen notwendig sein, um unseren zukünftigen Frieden zu sichern. Unsere Regierung hat Gebiete zurückerobert, die unserem ehemaligen Feind gehören. Die Einrichtung lokaler Verwaltungen ist entscheidend für unseren zukünftigen Erfolg.[GetIntegrateChina]"
+integrate_china_desc_extra:0 "\n\nAktuelle Kosten und Geschwindigkeit der Provinzintegration:\n  Anfängliche Kosten:\n    Kleine Provinzen: £pol_power [?kr_china_provinceintegration_cost_small?50|Y0]\n    Mittlere Provinzen: £pol_power [?kr_china_provinceintegration_cost_medium?75|Y0]\n    Große Provinzen: £pol_power [?kr_china_provinceintegration_cost_large?100|Y0]\n  Provinz Integrationszeit: [?kr_china_provinceintegration_speed?90|Y0] days\n  Tägliche Kosten während der Integration: £pol_power §R-0.2§! per day\n\nAktuelle Kosten und Geschwindigkeiten der Konzessionsintegration:\n  Anfängliche Kosten: £pol_power [?kr_china_concessionintegration_cost?15|Y0]\n  Konzessionsintegrationszeit: [?kr_china_concessionintegration_speed?60|Y0] days\n  Tägliche Kosten während der Integration: £pol_power §R-0.1§! per day"
+
+kr_integrate_guangdong_province:0 "Integriert die Provinz Guangdong"
+kr_integrate_guangxi_province:0 "Integriert die Provinz Guangxi"
+kr_integrate_zhili_province:0 "Integriert die Provinz Zhili"
+kr_integrate_henan_province:0 "Integriert die Provinz Henan"
+kr_integrate_hubei_province:0 "Integriert die Provinz Hubei"
+kr_integrate_hunan_province:0 "Integriert die Provinz Hunan"
+kr_integrate_jiangsu_province:0 "Integriert die Provinz Jiangsu"
+kr_integrate_jiangxi_province:0 "Integriert die Provinz Jiangxi"
+kr_integrate_shaanxi_province:0 "Integriert die Provinz Shaanxi"
+kr_integrate_shanxi_province:0 "Integriert die Provinz Shanxi"
+kr_integrate_shandong_province:0 "Integriert die Provinz Shandong"
+kr_integrate_anhui_province:0 "Integriert die Provinz Anhui"
+kr_integrate_zhejiang_province:0 "Integriert die Provinz Zhejiang"
+kr_integrate_fujian_province:0 "Integriert die Provinz Fujian"
+kr_integrate_sichuan_province:0 "Integriert die Provinz Sichuan"
+kr_integrate_guizhou_province:0 "Integriert die Provinz Guizhou"
+kr_integrate_yunnan_province:0 "Integriert die Provinz Yunnan"
+kr_integrate_qinghai_province:0 "Integriert die Provinz Qinghai"
+kr_integrate_gansu_province:0 "Integriert die Provinz Gansu"
+kr_integrate_ningxia_province:0 "Integriert die Provinz Ningxia"
+kr_integrate_fengtian_province:0 "Integriert die Provinz Shenyang"
+kr_integrate_jilin_province:0 "Integriert die Provinz Jilin"
+kr_integrate_heilongjiang_province:0 "Integriert die Provinz Heilongjiang"
+kr_integrate_taiwan_province:0 "Integriert die Provinz Taiwan"
+kr_integrate_inner_mongolia_province:0 "Integriert die Region Innere Mongolei"
+kr_integrate_xinjiang_province:0 "Integriert die Provinz Xinjiang"
+kr_integrate_south_tibet_province:0 "Integriert die Provinz South Tibet"
+
+kr_integrate_tianjin_concession:0 "Integriert die Tianjin-Konzession"
+kr_integrate_shanghai_concession:0 "Integriert die Shanghai-Konzession"
+kr_integrate_ningbo_concession:0 "Integriert die Ningbo-Konzession"
+kr_integrate_fuzhou_concession:0 "Integriert die Fuzhou-Konzession"
+kr_integrate_shantou_concession:0 "Integriert die Shantou-Konzession"
+kr_integrate_hong_kong_concession:0 "Integriert die Hong Kong-Konzession"
+kr_integrate_macau_concession:0 "Integriert die Macau-Konzession"
+kr_integrate_dairen_concession:0 "Integriert das Dairen Pachtterritorium"
+kr_integrate_qingdao_concession:0 "Integriert die Qingdao-Konzession"
+kr_integrate_wehaiwei_concession:0 "Integriert die Weihaiwei-Konzession"
+kr_integrate_zhanjiang_concession:0 "Integriert die Guangzhouwan-Konzession"
+
+### Tooltips
+effect_after_they_agree:0 "Wenn sie mit unseren Forderungen §Yeinverstanden§! sind, ergeben sich für uns folgende Effekte:\n"
+
+is_ruled_by_pro_zhili:0 "Wird von einem §LZhili-freundlichen§! Regime regiert"
+is_ruled_by_pro_manchu:0 "Wird von einem §CManchu-freundlichen§! Regime regiert"
+is_ruled_by_pro_fengtian:0 "Wird von einem §OFengtian-freundlichen§! Regime regiert"
+is_ruled_by_kmt:0 "Wird von der §RKuomintang§ regiert!"
+is_ruled_by_left_kmt:0 "Wird von der §RLinken Kuomintang§ regiert!"
+is_ruled_by_right_kmt:0 "Wird von der §RRechten Kuomintang§ regiert!"
+is_ruled_by_pro_kmt:0 "Wird von einem §RKMT-freundlichen§! Regime regiert"
+is_ruled_by_federalists:0 "Wird von den §HFöderalisten§ regiert!"
+
+special_economic_zone_tooltip:0 "Wir werden [FROM.stateid.GetName] in eine §YSonderwirtschaftszone§! umwandeln.\n"
+
+### Army Reform
+china_army_decisions:0 "Armeereform"
+china_army_decisions_desc:0 "Chinesische Armeen haben lange damit gekämpft, zu westlichen Standards aufzuschließen. Die Soldaten sind notorisch schlecht ausgebildet und unordentlich, oft rekrutiert aus einem bunten Haufen von Banditen, Kleinkriminellen und chronisch Mittellosen. Die Ausrüstung ist häufig ein Flickwerk, veraltet oder sogar geradezu archaisch. Die Loyalität gilt in der Regel einzelnen Offizieren oder einer regelmäßig gefüllten Reisschüssel, und die ideologische Motivation ist bestenfalls flüchtig. Es wird viel erfordern, um diese Armeen nach modernen Gesichtspunkten wieder aufzubauen.\n"
+
+china_army_reform_1:0 "Fortführung der Armeereform"
+china_army_reform_5:0 "Beendet die Armeereform"
+
+china_inadequate_army:0 "Armeeprobleme"
+china_army_reform_idea:0 "§HFortschritt bei der Armeereform§!\nDivisionsorganisation: [?Root.army_reform_var_org|1% = +]\nVerluste erfahrener Soldaten: [?Root.army_reform_var_exp|1% = -]"
+china_army_reform_idea_desc:0 "§LOb durch grassierende Korruption, inkompetente Führung, veraltete Taktik, veraltete Ausrüstung, schlechtes Training oder eine Mischung aus all diesen Dingen, eines scheinen alle Armeen in China gemeinsam zu haben: Sie sind im Vergleich zu heutigen militärischen Standards erbärmlich unzureichend. Die Überwindung dieser jahrzehntelangen Vernachlässigung wird Zeit und Mühe kosten, und die Leistung unserer Streitkräfte wird darunter leiden, bis wir dies tun.§!"
+
+china_army_reform_effect:0 "Die §HArmeereform§! wird fortgesetzt:\nDivisionsorganisation: [?0.1|G1% = ]\nVerluste erfahrener Soldaten: [?-0.15|G1% = ]"
+china_army_reform_effect_complete:0 "Die §HArmeereform§! ist §Gbeendet!§!\nDivisionsorganisation: [?0.1|G1% = ]\nVerluste erfahrener Soldaten: [?-0.15|G1% = ]"
+
+china_army_reform_trait:0 ""
+
+china_army_reform_tooltip_200:0 "£army_experience [?200|H0]"
+china_army_reform_tooltip_200_blocked:0 "£army_experience [?200|R0]"
+china_army_reform_tooltip_200_tooltip:0 "Es kostet $china_army_reform_tooltip_200_blocked$ um diese Entscheidung zu treffen"
+
+china_army_reform_tooltip_150:0 "£army_experience [?150|H0]"
+china_army_reform_tooltip_150_blocked:0 "£army_experience [?150|R0]"
+china_army_reform_tooltip_150_tooltip:0 "Es kostet $china_army_reform_tooltip_150_blocked$ um diese Entscheidung zu treffen"
+
+china_army_reform_tooltip_100:0 "£army_experience [?100|H0]"
+china_army_reform_tooltip_100_blocked:0 "£army_experience [?100|R0]"
+china_army_reform_tooltip_100_tooltip:0 "Es kostet $china_army_reform_tooltip_100_blocked$ um diese Entscheidung zu treffen"
+
+china_army_reform_tooltip_50:0 "£army_experience [?50|H0]"
+china_army_reform_tooltip_50_blocked:0 "£army_experience [?50|R0]"
+china_army_reform_tooltip_50_tooltip:0 "Es kostet $china_army_reform_tooltip_50_blocked$ um diese Entscheidung zu treffen"
+
+### League War Support
+china_league_collapse_war_support_decisions:0 "Liga Kriegsunterstützung"
+china_request_infantry_equipment:0 "Fordert [FROM.GetAdjective] Gewehre an" 
+china_request_artillery_equipment:0 "Fordert [FROM.GetAdjective] Artillerie an" 
+china_request_support_equipment:0 "Fordert [FROM.GetAdjective] Zusatzausrüstung an" 
+china_request_refused:0 "Not: §H[FROM.GetNameDefCap]§! hat in den letzten drei Monaten eine Anfrage abgelehnt."
+china_awaiting_request:0 "Wartet auf eine Antwort zu einer anderen Anfrage."
+
+### League War Scavenging
+china_league_collapse_scavenging_decisions:0 "Liga-Krieg Nachschub"
+china_scavenge_jiangxi:0 "Sucht nach Vorräten in Jiangxi"
+china_scavenge_fujian:0 "Sucht nach Vorräten in Fujian"
+china_scavenge_zhejiang:0 "Sucht nach Vorräten in Zhejiang"
+china_scavenge_nanjing:0 "Sucht nach Vorräten in Nanjing"
+china_scavenge_anhui:0 "Sucht nach Vorräten in Anhui"
+china_scavenge_jiangsu:0 "Sucht nach Vorräten in Jiangsu"
+china_scavenge_shandong:0 "Sucht nach Vorräten in Shandong"
+
+### Form China
+form_republic_china_decision:0 "Bildet die [GetROCvsUPC]"
+form_republic_china_decision_desc:0 "Jetzt, wo wir die Hauptstadt kontrollieren, können wir eine neue nationale Regierung für China ausrufen!"
+
+### United Front
+china_united_front_decisions:0 "Führung von China"
+
+form_chinese_united_front:0 "Bildet die Chinesische Einheitsfront"
+form_chinese_united_front_tooltip:0 "Gesteuert von §H[JAP.GetNameDef]§! oder einem ihrer Verbündeten"
+
+chinese_united_front_formed:0 "Die Chinesische Einheitsfront hat sich gebildet"
+united_front_member:0 "Ist Mitglied der Chinesischen Einheitsfront"
+china_ceasefire_occupation_transfer:0 "Erhält Besitz über §Halle besetzten Provinzen§!."
+china_war_with_united_front:0 "§RDie Einheitsfront wird gegen uns kämpfen!§!\n"
+
+leave_chinese_united_front:0 "Verlasst die Einheitsfront"
+rejoin_chinese_faction:0 "Wiederbeitritt zur [FROM.GetNameDef]"
+
+china_shared.2.t:0 "Eine vereinte Front"
+china_shared.2.d:0 "Da die Invasion Japans an Fahrt aufnimmt, hat [Root.GetLeader] beschlossen, einen Aufruf zur nationalen Einheit gegen den Angreifer zu starten, selbst wenn dies bedeutet, an der Seite unserer ehemaligen Feinde zu kämpfen. Auch wenn die Kommunikationsinfrastruktur des Landes bedroht ist, wird die Nachricht sofort verschickt - wenn nötig per Kurier!"
+china_shared.2.a:0 "Für China!"
+
+china_shared.3.t:0 "Ein Aufruf zur Einigkeit"
+china_shared.3.d:0 "Gelehrte, Intellektuelle und verschiedene Ideologen haben im Laufe der Jahre routinemäßig Aufrufe zur nationalen Einheit gegen ausländische Aggressionen gemacht. Es war ein schöner Schlachtruf, wenn auch einer, der oft auf taube Ohren stieß. Jetzt, wo die japanische Invasion einen beträchtlichen Teil des Landes überrollt, hat [From.GetNameDef] einen Aufruf zu einer vorübergehenden Allianz gegen Japan gemacht, und dieses Mal werden vielleicht andere Führer zuhören. Selbst die zynischsten müssen zugeben, dass Chinas Schicksal in der Schwebe zu hängen scheint."
+china_shared.3.a:0 "Ja, wir müssen uns zusammenschließen."
+china_shared.3.b:0 "Wir werden niemals an ihrer Seite kämpfen!"
+
+china_shared.4.t:0 "[From.GetNameDefCap] tritt der Einheitsfront bei"
+china_shared.4.d:0 "FROM.GetNameDefCap] ist der Einheitsfront beigetreten und hat sich mit all ihren Ressourcen und ihrem Einfluss der antijapanischen Sache verschrieben. Dies wird keine historischen Rivalitäten oder Ansprüche auf die legitime nationale Führung beenden, aber nichtsdestotrotz werden unsere Truppen nun Seite an Seite gegen den ausländischen Aggressor kämpfen."
+china_shared.4.a:0 "Ausgezeichnet."
+
+china_shared.5.t:0 "Der Verrat von [From.GetNameDefCap]"
+china_shared.5.d:0 "In einem Akt des mutwilligen Verrats hat sich [From.GetNameDef] geweigert, der Einheitsfront beizutreten. Es kann keine Entschuldigung dafür geben, individuelle Interessen über das Schicksal von ganz China zu stellen!"
+china_shared.5.a:0 "Verräter!"
+
+china_shared.6.t:0 "[chinese_united_front_leader.GetNameDefCap] bietet einen Waffenstillstand an"
+china_shared.6.d:0 "Mit dem Beitritt von [From.GetNameDef] zur Einheitsfront hat [chinese_united_front_leader.GetNameDef] angeboten, einen Waffenstillstand zwischen [From.GetNameDef] und unserem Regime zu vermitteln, allein im nationalen Interesse, bis die japanische Invasion gestoppt ist. Die Vereinbarung ist jedoch an die Bedingung geknüpft, dass alle besetzten Gebiete auf unseren beiden Seiten abgetreten werden."
+china_shared.6.a:0 "Ja. Für jetzt."
+china_shared.6.b:0 "Wir werden niemals an ihrer Seite kämpfen!"
+
+china_shared.7.t:0 "[From.GetNameDefCap] akzeptiert den Waffenstillstand"
+china_shared.7.d:0 "[FROM.GetNameDefCap] hat den vorgeschlagenen Waffenstillstand akzeptiert und ist der Einheitsfront beigetreten. Alle besetzten Staaten auf beiden Seiten sind entsprechend zu übertragen."
+china_shared.7.a:0 "Ein fairer Preis."
+
+china_shared.8.t:0 "[From.GetNameDefCap] lehnt den Waffenstillstand ab"
+china_shared.8.d:0 "[FROM.GetNameDefCap] hat den angebotenen Waffenstillstand abgelehnt."
+china_shared.8.a:0 "Verräter!"
+
+china_shared.9.t:0 "Bildung der Einheitsfront"
+china_shared.9.d:0 "Seit der japanischen Invasion sind im ganzen Land Rufe nach einer Einheitsfront gegen die japanische Aggression laut geworden, und nun sind sie erhört worden. Der heutige Tag markiert die Bildung der Einheitsfront, die sich der Vertreibung der Japaner und ihres Einflusses von unserem chinesischen Boden widmet. Jetzt sind unsere Schicksale miteinander verbunden, und es kann nur einen Sieg oder eine Vernichtung geben."
+china_shared.9.a:0 "Die Japaner müssen besiegt werden."
+
+china_shared.10.t:0 "Die Einheitsfront scheitert"
+china_shared.10.d:0 "Es scheint, dass nicht einmal eine existenzielle Bedrohung die zerstrittenen chinesischen Fraktionen vereinen kann. Nach einem Monat Verhandlungen und Aufrufen zur Hilfe erwies sich keine der anderen Fraktionen als bereit, ihre Differenzen mit unserem Regime beiseite zu legen - nicht einmal, um die japanische Invasion zu stoppen. Unser Schicksal ist es offenbar, geteilt zu fallen."
+china_shared.10.a:0 "Dies ist ein dunkler Tag..."
+
+china_shared.11.t:0 "Der Zusammenbruch der Einheitsfront"
+china_shared.11.d:0 "Selbst als sich der Krieg mit Japan seinem Ende näherte, machten viele in China bereits verdeckte Schritte in Richtung der einen oder anderen Seite der Nachkriegsordnung. Jetzt, da Japan besiegt ist, sind diese unterdrückten Konflikte wieder zum Vorschein gekommen, und das, was einmal eine vereinte Front war, ist schnell wieder in interne Kämpfe abgeglitten. Jetzt hat die letzte Phase von Chinas Einigungskriegen begonnen."
+china_shared.11.a:0 "Ein letztes Hindernis auf dem Weg zur Wiedervereinigung."
+
+china_shared.12.t:0 "[FROM.GetNameDefCap] verlässt die Einheitsfront."
+china_shared.12.d:0 "FROM.GetNameDefCap] hat die Einheitsfront verlassen und bezeichnet das Bündnis als "unnötig" und "einschränkend" für ihre Bedürfnisse und Ambitionen."
+china_shared.12.a:0 "So viel zum Thema Einigkeit."
+
+china_shared.13.t:0 "Die Einheitsfront bildet sich"
+china_shared.13.d.pro_JAP:0 "Es scheint, dass einige unserer chinesischen Landsleute, die unsere jüngste Siegesserie nicht anerkennen wollen, beschlossen haben, sich gegen uns und unsere japanischen Verbündeten zusammenzuschließen. Während Tokio dieses letzte Bündnis bereits als unbedeutend ansieht, kennen wir China besser, als sie es je könnten, und wissen, dass uns noch ein langer Kampf bevorsteht." #Pro-Japan Chinese POV
+china_shared.13.d.anti_JAP:0 "Nach einer Reihe von geheimen Treffen, die sich über mehrere Wochen hinzogen, haben sich mehrere chinesische politische Fraktionen, darunter auch unsere eigene, darauf geeinigt, gemeinsam gegen die bevorstehende japanische Invasion zu kämpfen. Einheit war jahrzehntelang schwer zu erreichen, aber jetzt, mit der Bildung der Chinesischen Einheitsfront, hat das Land endlich eine Chance, den japanischen Eindringling zurückzuschlagen und seine verräterischen Verbündeten zu zerschlagen." #Anti-Japan Chinese POV
+china_shared.13.d.JAP:0 "Es scheint, dass mehrere chinesische Fraktionen, die unsere jüngste Reihe von Siegen und die überwältigende Überlegenheit unserer Armeen nicht anerkennen wollen, beschlossen haben, sich gegen uns zu verbünden. Es ist schwer vorstellbar, dass die zänkischen, cliquenhaften Chinesen wirklich für eine gemeinsame Sache zusammenarbeiten, und unsere Befehlshaber haben uns versichert, dass ihre Maßnahme letztendlich sinnlos ist. Bis zum Ende des Jahres werden wir inmitten der Ruinen ihres Hauptquartiers Sake schlürfen." #Japanese POV
+china_shared.13.d.others:0 "Es scheint, dass die Chinesen in ihrer Verzweiflung, die japanische Invasion in ihrem Land zu verlangsamen, eine Allianz gebildet haben. Nur wenige haben erwartet, dass die typisch zänkischen, cliquenhaften chinesischen Fraktionen einen solchen Schritt machen würden, und nun werden viele ihre Zukunft mit erheblichem Interesse beobachten." #Foreign POV
+china_shared.13.a:0 "Vorwärts."
+china_shared.13.b:0 "Wansui!"
+china_shared.13.c:0 "Banzai!"
+china_shared.13.e:0 "Interessant."
+
+china_shared.14.t:0 "Zusammenbruch der Einheitsfront"
+china_shared.14.d.CHI:0 "Im Nachhinein scheint der Zusammenbruch der Einheitsfront unvermeidlich gewesen zu sein. Wie ein Fisch das Wasser nicht verlassen kann, so konnte auch die Front nicht überleben, wenn sie nicht verzweifelt war. Doch eine Zeit lang war ganz China hinter einem einzigen Zweck vereint und marschierte im Gleichschritt auf ein gemeinsames Ziel zu. Selbst während die dunklen Wolken des Bürgerkriegs aufziehen, gibt es jetzt ein leuchtendes Beispiel dafür, was sein könnte und vielleicht auch wieder sein wird." #Chinese POV
+china_shared.14.d.JAP:0 "Es scheint, dass die chinesische Einheitsfront, die schon immer von internen Querelen geplagt war, schließlich in Abwesenheit unserer einst überwältigenden militärischen Macht zusammengebrochen ist. In diesen Tagen des Nachdenkens darüber, was wir hätten sein können, ein unbezwingbarer Riese, der rittlings über ganz Asien steht, ist dies ein weiterer Beweis für die Gefahren des westlichen Imperialismus. Wir mögen von China besiegt worden sein, aber zumindest bleiben wir als eine Nation unter Seiner Majestät dem Kaiser vereint. Unser Schicksal ist immer noch unser eigenes." #Japanese POV
+china_shared.14.d.others:0 "Die chinesische Einheitsfront, die immer von internen Partisanenzänkereien heimgesucht wurde, hat sich schließlich aufgelöst, da die einst überwältigende Bedrohung ihrer Unabhängigkeit durch Japan weggefallen ist. Die ganze Nation scheint nun wieder in die Feuer des Bürgerkriegs zu stürzen, die sie seit einer Generation fast ununterbrochen verzehrt haben. Für viele in den Küstenstädten und außerhalb Chinas sind dies kaum unerwartete Nachrichten, da die Tumulte der Nation regelmäßig auf den Seiten der großen Zeitungen zu lesen waren, aber viele Experten werden in den nächsten Monaten sehr aufmerksam sein. Diese Runde des Konflikts könnte durchaus die letzte in China sein, da sich das Spielfeld erheblich verengt hat." #Foreign POV
+china_shared.14.a:0 "Interessant." #Chinese POV
+china_shared.14.b:0 "Interessant." #Japanese POV
+china_shared.14.c:0 "Interessant." #Foreign POV
+
+china_shared.15.t:0 "Bounce-Event"
+china_shared.15.d:0 "Boing"
+
+china_shared.16.t:0 "Der Marsch der Freiwilligen"
+china_shared.16.d:0 "Von den linken Filmemachern Nie Er und Tian Han als Filmmusik zu ihrem antijapanischen patriotischen Film "Children of Troubled Times" geschrieben, hat der Marsch der Freiwilligen angesichts des letzten Kampfes gegen die japanische Aggression bei Chinesen aller Schichten Anklang gefunden."
+china_shared.16.a:0 "Lasst die Männer ihr Lied haben, bis der Krieg zu Ende ist."
+china_shared.16.b:0 "Eine mitreißende Melodie!"
+
+### Sino-Japanese War
+china_second_sino_japanese_war_UF_decisions:0 "Der Zweite Chinesisch-Japanische Krieg"
+china_second_sino_japanese_war_UF_decisions_desc:0 "Mit der japanischen Invasion in China ist der Osten in einen totalen Krieg ausgebrochen. Die Einheitsfront, die aus einer losen Koalition von Warlords und politischen Führern besteht, wurde gebildet, um dieser Bedrohung zu begegnen. Für jeden Zentimeter chinesischen Bodens, den die Japaner einnehmen, kämpfen die chinesischen Truppen erbitterter. Schließlich steht das Schicksal Chinas auf dem Spiel.\n\nAngriffsbonus gegen §H[JAP.GetNameDef]§!: §G[?ROOT.japanese_resistance_level| = %1+]§!\nVerteidigungsbonus gegen §H[JAP.GetNameDef]§!: §G[?ROOT.japanese_resistance_level| = %1+]§!"
+UF_Resistance_Beijing:0 "Wiederstand in Beijing"
+UF_Resistance_Nanjing:0 "Wiederstand in Nanjing"
+UF_Resistance_Wuhan:0 "Wiederstand in Wuhan"
+UF_Resistance_Chongqing:0 "Wiederstand in Chongqing"
+UF_Resistance_Luoyang:0 "Wiederstand in Luoyang"
+UF_Resistance_Kunming:0 "Wiederstand in Kunming"
+UF_Resistance_Changsha:0 "Wiederstand in Changsha"
+UF_Resistance_Guangzhou:0 "Wiederstand in Guangzhou"
+UF_Resistance_Jinan:0 "Wiederstand in Jinan"
+UF_Resistance_Xian:0 "Wiederstand in Xi'an"
+
+china_second_sino_japanese_war_japan_decisions:0 "Der Zweite Chinesisch-Japanische Krieg"
+china_second_sino_japanese_war_japan_decisions_desc:0 "Die ultimative Konfrontation zwischen den beiden alten Mächten ist endlich zum Tragen gekommen. Die japanischen Streitkräfte sind weitaus besser ausgebildet und disziplinierter als der durchschnittliche chinesische Soldat, was uns zusammen mit unserer technologischen Überlegenheit einen ziemlichen Vorteil verschafft. Das heißt, je weiter wir nach China vordringen, desto schwieriger wird es, die Kontrolle zu behalten. Für den Kaiser!"
+JAP_Capture_608:0 "Kontrolliert Beijing!"
+JAP_Capture_613:0 "Kontrolliert Nanjing!"
+JAP_Capture_1048:0 "Kontrolliert Wuhan!"
+JAP_Capture_650:0 "Kontrolliert Chongqing!"
+JAP_Capture_607:0 "Kontrolliert Luoyang!"
+JAP_Capture_325:0 "Kontrolliert Kunming!"
+JAP_Capture_602:0 "Kontrolliert Changsha!"
+JAP_Capture_592:0 "Kontrolliert Guangzhou!"
+JAP_Capture_597:0 "Kontrolliert Jinan!"
+JAP_Capture_799:0 "Kontrolliert Xi'an!"
+
+JAP_Capture_Beijing_tooltip:0 "§H[608.GetName]§!: Von uns oder unseren Verbündeten kontrolliert"
+JAP_Capture_Nanjing_tooltip:0 "§H[613.GetName]§!: Von uns oder unseren Verbündeten kontrolliert"
+JAP_Capture_Wuhan_tooltip:0 "§H[1048.GetName]§!: Von uns oder unseren Verbündeten kontrolliert"
+JAP_Capture_Chongqing_tooltip:0 "§H[650.GetName]§!: Von uns oder unseren Verbündeten kontrolliert"
+JAP_Capture_Luoyang_tooltip:0 "§H[607.GetName]§!: Von uns oder unseren Verbündeten kontrolliert"
+JAP_Capture_Kunming_tooltip:0 "§H[325.GetName]§!: Von uns oder unseren Verbündeten kontrolliert"
+JAP_Capture_Changsha_tooltip:0 "§H[602.GetName]§!: Von uns oder unseren Verbündeten kontrolliert"
+JAP_Capture_Guangzhou_tooltip:0 "§H[592.GetName]§!: Von uns oder unseren Verbündeten kontrolliert"
+JAP_Capture_Jinan_tooltip:0 "§H[597.GetName]§!: Von uns oder unseren Verbündeten kontrolliert"
+JAP_Capture_Xian_tooltip:0 "§H[799.GetName]§!: Von uns oder unseren Verbündeten kontrolliert"
+
+JAP_Capture_tooltip:0 "§RDer lokale Widerstand wird wachsen, wenn wir tiefer nach China vordringen!§!"
+
+### Ideas ###
+unite_china_justification_idea:0 "China vereint!"
+unite_china_justification_idea_desc:0 "Jetzt, wo wir die Hauptstadt erobert und eine neue chinesische Regierung gebildet haben, müssen wir die verbleibenden Warlords unterjochen."
+league_collapse_idea_1:0 "Revolutionärer Eifer"
+league_collapse_idea_1_desc:0 "Nun, da die Liga zerbrochen ist und der offene Krieg begonnen hat, befinden sich die Kräfte von Nanjing im Chaos und sind gezwungen, an mehreren Fronten gegen ihre Feinde zu kämpfen. Jetzt ist es an der Zeit, dass wir zuschlagen und das einfordern, was rechtmäßig uns gehört!"
+league_collapse_idea_2:0 "Nanjing neu organisiert"
+league_collapse_idea_2_desc:0 "Die Verräter haben es nicht geschafft, uns trotz unserer Schwäche zu brechen, jetzt ist die Zeit gekommen, dass wir zurückschlagen und zurückfordern, was uns gehört!"
+
+### National Redoubt
+china_redoubt.1.t:0 "Die Regierung flieht"
+china_redoubt.1.d:0 "Eine nach der anderen sind unsere Verteidigungsanlagen im Osten vor dem Vormarsch des Feindes zusammengebrochen, unsere Armeen wurden zusammen mit den verzweifelten Flüchtlingen in die Flucht geschlagen, die jetzt die nach Westen führenden Straßen und Eisenbahnlinien bevölkern. Auch jetzt strömen weitere japanische Truppen in die nordchinesische Ebene, und für die Regierung ist die Zeit gekommen, den Rückzug zu erwägen. Glücklicherweise ist China riesig, und die Schaffung einer nationalen Festung könnte es uns ermöglichen, den aufkommenden Sturm zu überstehen. Die Regierung hat bereits mit den Vorbereitungen zur Flucht nach [china_national_redoubt.GetCliqueShortName]begonnen, und in den Büros herrscht hektische Betriebsamkeit. Doch draußen in den Straßen der provisorischen Hauptstadt herrscht eine tote, düstere Luft, durch die nur jene armen Seelen streifen, die zu unglücklich sind, um nach Westen zu fliehen. Bis der Feind besiegt ist, kann es kein Zurück mehr geben."
+china_redoubt.1.a:0 "Schnell!"
+china_redoubt.1.b:0 "(Spielt als die Festung)"
+
+china_redoubt.2.t:0 "Die Regierung erreicht [china_national_redoubt.GetCliqueShortName]"
+china_redoubt.2.d:0 "Nach einer schwierigen Reise über Tausende von Kilometern, über Berge und entlang enger Straßen, die mit Toten und Mittellosen verstopft sind, haben die Überreste der Zentralregierung ihren Weg nach [china_national_redoubt.GetCliqueShortName] gefunden. Für den Moment sind sie in Sicherheit, aber es kann nur eine Frage der Zeit sein, bis der lange Arm des Kaisers auch hier ankommt. Es liegt ein langer Krieg vor uns."
+china_redoubt.2.a:0 "Willkommen!"
+
+china_redoubt.3.t:0 "Die Regierung kehrt heim"
+china_redoubt.3.d:0 "Nach einem langen und hart umkämpften Krieg ist die Zentralregierung in die nationale Hauptstadt zurückgekehrt. Aber trotz der Rückkehr des Lebens, viele Regierungshallen die einst mit Aktivität gefüllt waren, bleiben still und verlassen, ihre Dächer zu Asche reduziert, und ihre Wände wenig mehr als ausgehöhlte Trümmer. Es wird eine ganze Weile dauern, bis die Hauptstadt und die Nation wieder dieselbe sind, wenn sie es überhaupt jemals sein werden."
+china_redoubt.3.a:0 "Endlich Frieden."
+china_redoubt.3.b:0 "(Spielt als die nationale Regierung)"
+
+china_redoubt.4.t:0 "Wir müssen fliehen"
+china_redoubt.4.d:0 "Trotz der besten Bemühungen der Zentralregierung und all derer, die sich dem japanischen Vormarsch entgegengestellt haben, ist die Zeit gekommen, in der wir den Rückzug erwägen müssen. Schon jetzt sind die Straßen und Wasserwege mit Toten und Notleidenden verstopft, während sich das ganze Land nach Westen bewegt, als würde es vor einer Flut fliehen. Jetzt müssen wir uns ihnen anschließen und unseren Kampf von der nationalen Festung in [china_national_redoubt.GetCliqueShortName] aus fortsetzen."
+china_redoubt.4.a:0 "Schnell!"
+china_redoubt.4.b:0 "(Spielt als die Festung)"
+
+china_redoubt.5.t:0 "[From.GetCliqueShortName] erreicht [china_national_redoubt.GetCliqueShortName]"
+china_redoubt.5.d:0 "Nach einer beschwerlichen Reise über Tausende von Kilometern, über Berge, Flüsse und durch Täler, haben [From.GetCliqueShortName] ihren Weg nach [china_national_redoubt.GetCliqueShortName] gefunden. Für den Moment sind sie sicher, aber es kann nur eine Frage der Zeit sein, bis der lange Arm des Kaisers auch hier ankommt. Es steht ein langer Krieg bevor."
+china_redoubt.5.a:0 "Willkommen!"
+
+china_redoubt.6.t:0 "[From.GetCliqueShortName] kehrt heim"
+china_redoubt.6.d:0 "Nach einem langen und hart umkämpften Krieg ist [From.GetCliqueShortName] in die Hauptstadt zurückgekehrt. Doch trotz der Rückkehr des Lebens sind viele Regierungsgebäude, in denen einst reges Treiben herrschte, still und verlassen, ihre Dächer zu Asche reduziert und ihre Wände kaum mehr als ausgehöhlte Trümmer. Es wird eine ganze Weile dauern, bis die Hauptstadt und die Nation wieder dieselbe sind, wenn sie es überhaupt jemals sein werden..."
+china_redoubt.6.a:0 "Zu guter Letzt."
+
+ROC_totalist:0 "Republik China"
+ROC_totalist_ADJ:0 "Chinesisch"
+ROC_totalist_DEF:0 "die Republik China"
+ROC_syndicalist:0 "Republik China"
+ROC_syndicalist_ADJ:0 "Chinesisch"
+ROC_syndicalist_DEF:0 "die Republik China"
+ROC_radical_socialist:0 "Republik China"
+ROC_radical_socialist_ADJ:0 "Chinesisch"
+ROC_radical_socialist_DEF:0 "die Republik China"
+ROC_social_democrat:0 "Republik China"
+ROC_social_democrat_ADJ:0 "Chinesisch"
+ROC_social_democrat_DEF:0 "die Republik China"
+ROC_social_liberal:0 "Republik China"
+ROC_social_liberal_ADJ:0 "Chinesisch"
+ROC_social_liberal_DEF:0 "die Republik China"
+ROC_market_liberal:0 "Republik China"
+ROC_market_liberal_ADJ:0 "Chinesisch"
+ROC_market_liberal_DEF:0 "die Republik China"
+ROC_social_conservative:0 "Republik China"
+ROC_social_conservative_ADJ:0 "Chinesisch"
+ROC_social_conservative_DEF:0 "die Republik China"
+ROC_authoritarian_democrat:0 "Republik China"
+ROC_authoritarian_democrat_ADJ:0 "Chinesisch"
+ROC_authoritarian_democrat_DEF:0 "die Republik China"
+ROC_paternal_autocrat:0 "Republik China"
+ROC_paternal_autocrat_ADJ:0 "Chinesisch"
+ROC_paternal_autocrat_DEF:0 "die Republik China"
+ROC_national_populist:0 "Republik China"
+ROC_national_populist_ADJ:0 "Chinesisch"
+ROC_national_populist_DEF:0 "die Republik China"
+
+# Provinces
+china_province_state_title:0 "[ChinaGetStateProvinceTitle]"
+china_province_state_desc:0 "[ChinaGetStateProvinceDesc]"
+
+
+guangdong_province_state:0 "§YProvinz Guangdong§!"
+guangdong_province_state_desc:0 ""
+guangxi_province_state:0 "§YProvinz Guangxi§!"
+guangxi_province_state_desc:0 ""
+zhili_province_state:0 "§YProvinz Zhili§!"
+zhili_province_state_desc:0 ""
+henan_province_state:0 "§YProvinz Henan§!"
+henan_province_state_desc:0 ""
+hubei_province_state:0 "§YProvinz Hubei§!"
+hubei_province_state_desc:0 ""
+hunan_province_state:0 "§YProvinz Hunan§!"
+hunan_province_state_desc:0 "Die Provinz Hunan schloss sich Sun Chuanfangs Liga an, nachdem die KMT 1927 auseinanderfiel[GetHunanStateProvinceIndependence]. Zu den Kernländern Hunans gehören die Staaten Xiangjiang und Chenyuan, aber auch Zhenyuan und Shihe standen zeitweise unter der Kontrolle Hunans, obwohl sie allgemein als Teil von Guizhou bzw. Hubei angesehen werden."
+hunan_province_state_indepenent:0 ", aber heute stehen sie selbständig und unabhängig"
+hunan_province_state_controlled_LEPANQ:0 " und bleiben heute unter der Kontrolle des Nachfolgers der Liga"
+hunan_province_state_controlled:0 ", heute kontrollieren jedoch andere chinesische Mächte die Provinz"
+jiangsu_province_state:0 "§YProvinz Jiangsu§!"
+jiangsu_province_state_desc:0 "Die Staaten Xuhai, Huaiyang, Nantong und Jinling sind Teil der Provinz Jiangsu. Jinling, zu dem auch Nanjing gehört, entzieht sich jedoch größtenteils der Aufsicht durch den Gouverneur von Jiangsu, da es selbst eine Machtbasis darstellt."
+jiangxi_province_state:0 "§YProvinz Jiangxi§!"
+jiangxi_province_state_desc:0 ""
+shaanxi_province_state:0 "§YProvinz Shaanxi§!"
+shaanxi_province_state_desc:0 ""
+shanxi_province_state:0 "§YProvinz Shanxi§!"
+shanxi_province_state_desc:0 ""
+shandong_province_state:0 "§YProvinz Shandong§!"
+shandong_province_state_desc:0 ""
+anhui_province_state:0 "§YProvinz Anhui§!"
+anhui_province_state_desc:0 ""
+zhejiang_province_state:0 "§YProvinz Zhejiang§!"
+zhejiang_province_state_desc:0 ""
+fujian_province_state:0 "§YProvinz Fujian§!"
+fujian_province_state_desc:0 ""
+sichuan_province_state:0 "§YProvinz Sichuan§!"
+sichuan_province_state_desc:0 ""
+guizhou_province_state:0 "§YProvinz Guizhou§!"
+guizhou_province_state_desc:0 ""
+yunnan_province_state:0 "§YProvinz Yunnan§!"
+yunnan_province_state_desc:0 ""
+qinghai_province_state:0 "§YProvinz Qinghai§!"
+qinghai_province_state_desc:0 ""
+gansu_province_state:0 "§YProvinz Gansu§!"
+gansu_province_state_desc:0 ""
+ningxia_province_state:0 "§YProvinz Ningxia§!"
+ningxia_province_state_desc:0 ""
+fengtian_province_state:0 "§YProvinz Fengtian§!"
+fengtian_province_state_desc:0 ""
+jilin_province_state:0 "§YProvinz Jilin§!"
+jilin_province_state_desc:0 ""
+heilongjiang_province_state:0 "§YProvinz Heilongjiang§!"
+heilongjiang_province_state_desc:0 ""
+taiwan_province_state:0 "§YProvinz Taiwan§!"
+taiwan_province_state_desc:0 ""
+concession_province_state:0 "§YEhemalige Konzession§!"
+concession_province_state_desc:0 ""
+mongolia_province_state:0 "§YProvinz Mongolia§!"
+mongolia_province_state_desc:0 ""
+suiyuan_province_state:0 "§YProvinz Suiyuan§!"
+suiyuan_province_state_desc:0 ""
+xinjiang_province_state:0 "§YProvinz Xinjiang§!"
+xinjiang_province_state_desc:0 ""
+tibet_province_state:0 "§YProvinz Tibet§!"
+tibet_province_state_desc:0 ""
+jehol_province_state:0 "§YProvinz Jehol§!"
+jehol_province_state_desc:0 ""
+chahar_province_state:0 "§YProvinz Chahar§!"
+chahar_province_state_desc:0 ""

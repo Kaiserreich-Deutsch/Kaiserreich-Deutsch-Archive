@@ -24,6 +24,28 @@ nepal.11.t:0 "Delhi eingenommen"
 nepal.11.d:0 "Erstaunlicherweise hat uns die nepalesische Armee ausmanövriert und Delhi eingenommen. Wir haben keine andere Wahl, als ihren Forderungen nachzugeben und zum Frieden aufzurufen."
 nepal.11.a:0 "Ungeheuerlich!"
 
+### Parties ###
+NEP_totalist_party:0 "Jhapeli Gruppe"
+NEP_totalist_party_long:0 "Jhapeli Gruppe"
+NEP_syndicalist_party:0 "All Nepal Trade Union Congress(Gesamtnepalesischer Gewerkschaftskongress)"
+NEP_syndicalist_party_long:0 "All Nepal Trade Union Congress(Gesamtnepalesischer Gewerkschaftskongress)"
+NEP_radical_socialist_party:0 "Kisan Sabha"
+NEP_radical_socialist_party_long:0 "Sozialistische Partei von Nepal"
+NEP_social_democrat_party:0 "Nepalesischer Nationalkongress"
+NEP_social_democrat_party_long:0 "Nepalesischer Nationalkongress"
+NEP_social_liberal_party:0 "Nepal Praja Parishad"
+NEP_social_liberal_party_long:0 "Nepal Praja Parishad"
+NEP_market_liberal_party:0 "Rastriya Praja Partei"
+NEP_market_liberal_party_long:0 "Rastriya Praja Partei"
+NEP_social_conservative_party:0 "Gorkha Dal"
+NEP_social_conservative_party_long:0 "Gorkha Dal"
+NEP_authoritarian_democrat_party:0 "Rana-Dynastie (Liberal)"
+NEP_authoritarian_democrat_party_long:0 "Liberale Fraktion der Rana-Dynastie"
+NEP_paternal_autocrat_party:0 "Rana-Dynastie (Traditionell)"
+NEP_paternal_autocrat_party_long:0 "Traditionelle Fraktion der Rana-Dynastie"
+NEP_national_populist_party:0 "Jana Hit Sangh"
+NEP_national_populist_party_long:0 "Jana Hit Sangh"
+
 ### Tooltips ###
 NEP_puppetdiv_tt:0 "Es werden zwei neue Infanteriedivisionen gebildet."
 

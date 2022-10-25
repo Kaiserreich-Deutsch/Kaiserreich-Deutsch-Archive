@@ -4,13 +4,6 @@
 ins_exile:0 "Niederländische Regierung im Exil"
 ins_exile_desc:0 "Die niederländische Regierung ist erfolgreich vom Festland geflohen und hat eine Exilregierung in Niederländisch-Indien eingerichtet."
 
-### Flags ###
-holex_indys_delight:0 "Wilhelmina herrscht direkt"
-holex_ww2_gov_in_exile:0 "ARP-geführte Exilregierung"
-
-### Focus Trees ###
-dut_in_ex:0 "Niederlande-im-Exil"
-
 ### Events ###
 hol_in_ex.1.t:0 "Niederländische Exilregierung"
 hol_in_ex.1.d:0 "Nachdem die königliche Familie nur knapp der Gefangennahme durch die syndikalistische Miliz entkommen war, kam sie zusammen mit vielen hochrangigen Führern auf Java an und verkündete die Gründung des Königreichs der Niederlande im Exil, das eines Tages unser Heimatland vom Syndikalismus befreien wird!"
@@ -44,4 +37,4 @@ hol_in_ex.8.d:0 "Es scheint, dass die Deutschen uns nicht in ihrem Bündnis habe
 hol_in_ex.8.a:0 "So ein jämmerlicher Fehler."
 hol_in_ex.9.t:0 "Insulindia erlangt Unabhängigkeit"
 hol_in_ex.9.d:0 "Nach unserer formellen Unabhängigkeit von [HOL.GetNameDef] haben die nationalistischen Führer in unserem Land schnell einen Vorschlag zur Änderung unseres Namens und unserer Flagge vorgelegt. Zu Ehren des Vermächtnisses des Majapahit-Reiches und unseres austronesischen Erbes werden die Farben unserer Nationalflagge Rot und Weiß sein, die rote Mutter Erde und der weiße Vater Himmel.\n\nNachdem der englische Seefahrer George Windsor Earl einst den Namen Indós Nèsos, die indische Insel, vorgeschlagen hat, soll unser Land Indonesien heißen."
-hol_in_ex.9.a:0 "Niederländisch sind wir nicht mehr. Indonesia erhebt sich!"
+hol_in_ex.9.a:0 "Niederländisch sind wir nicht mehr. Insulindia erhebt sich!"

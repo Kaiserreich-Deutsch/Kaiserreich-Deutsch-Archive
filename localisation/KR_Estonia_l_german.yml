@@ -1,14 +1,14 @@
-﻿l_german:
-
+l_german:
+###  Übersetzt von Proho  ###
 ### Parties ###
 EST_totalist_party:0 "ETRL"
-EST_totalist_party_long:0 "Eesti Töötava Rahva Liit (Estnische Liga der arbeitenden Bevölkerung)"
-EST_syndicalist_party:0 "ETRL"
-EST_syndicalist_party_long:0 "Eesti Töötava Rahva Liit (Estnische Liga der arbeitenden Bevölkerung)"
-EST_radical_socialist_party:0 "ETRL"
-EST_radical_socialist_party_long:0 "Eesti Töötava Rahva Liit (Estnische Liga der arbeitenden Bevölkerung)"
-EST_social_democrat_party:0 "ESTP"
-EST_social_democrat_party_long:0 "Eesti Sotsialistlik Tööliste Partei (Estnische Sozialistische Arbeiterpartei)"
+EST_totalist_party_long:0 "Eesti Töötava Rahva Liit (Estnische Unabhängige Sozialistische Arbeiterpartei)"
+EST_syndicalist_party:0 "EISTP"
+EST_syndicalist_party_long:0 "Eesti Iseseisev Sotsialistlik Tööliste Partei (Estnische Unabhängige Sozialistische Arbeiterpartei)"
+EST_radical_socialist_party:0 "ESDTP"
+EST_radical_socialist_party_long:0 "Eesti Sotsiaaldemokraatlik Tööliste Partei (Estnische Sozialistisch-Demokratische Arbeiterpartei)"
+EST_social_democrat_party:0 "ESDTP"
+EST_social_democrat_party_long:0 "Eesti Sotsiaaldemokraatlik Tööliste Partei (Estnische Sozialistisch-Demokratische Arbeiterpartei)"
 EST_social_liberal_party:0 "Tööerakond"
 EST_social_liberal_party_long:0 "Eesti Tööerakond (Estnische Arbeiterpartei)"
 EST_market_liberal_party:0 "Rahvaerakond"
@@ -19,8 +19,8 @@ EST_authoritarian_democrat_party:0 "Isamaaliit"
 EST_authoritarian_democrat_party_long:0 "Isamaaliit (Patriotische Liga)"
 EST_paternal_autocrat_party:0 "EVRK"
 EST_paternal_autocrat_party_long:0 "Eesti Vabariigi Rahvuskomitee (Nationalkomitee der Republik Estland)"
-EST_national_populist_party:0 "Taarausk"
-EST_national_populist_party_long:0 "Taarausk (Taara Glaube)"
+EST_national_populist_party:0 "ERD"
+EST_national_populist_party_long:0 "Eesti Rahvuslik Direktoorium (Estnischer Nationaler Vorstand)"
 
 ### Ideas ###'
 

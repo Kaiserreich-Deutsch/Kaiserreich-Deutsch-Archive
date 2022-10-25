@@ -1,10 +1,8 @@
 ﻿l_german:
-
 ### Übersetzt von DerEherneRächer ###
-
 Hawaii:0 "Hawaiianischer Fokusbaum"
 
-### Parteien ###
+### Parties ###
 HAW_totalist_party:0 "Revolutionäre Partei Hawaiis"
 HAW_totalist_party_long:0 "Revolutionäre Partei Hawaiis"
 HAW_syndicalist_party:0 "Hawaiianischer Arbeiterverband"
@@ -26,7 +24,7 @@ HAW_paternal_autocrat_party_long:0 "Notfall-Direktorium"
 HAW_national_populist_party:0 "Hawaiianische Nationale Partei"
 HAW_national_populist_party_long:0 "Hawaiianische Nationale Partei"
 
-### Nationalgeister ###
+### Ideas ###
 HAW_political_chaos_idea:0 "Politisches Chaos"
 HAW_political_chaos_idea_desc:0 "Der blutige Bürgerkrieg, der gerade in Amerika tobt, hat auch die Provinz Hawaii ins Chaos gestürzt. Die Ordnung auf der Insel muss wiederhergestellt werden, um den Wohlstand und die Stabilität dieses tropischen Paradieses zu sichern."
 HAW_great_strike_idea:0 "Der große Hawaiianische Streik"
@@ -70,7 +68,7 @@ HAW_thriving_economy_tooltip:0 "Ersetze §H$HAW_small_business_idea$§! oder §H
 HAW_destroyer_arrives_tooltip:0 "Der von uns gekaufte Zerstörer ist angekommen!"
 HAW_light_cruiser_arrives_tooltip:0 "Der von uns gekaufte Leichte Kreuzer ist angekommen!"
 
-### Entscheidungen ###
+### Decisions ###
 JAP_hold_hawaii:0 "Kontrolle über Hawaii aufrechterhalten"
 JAP_hold_hawaii_desc:0 "Nun, da die hawaiianischen Verteidigungen zerschmettert wurden und die Inseln sich vollständig unter unserer Kontrolle befinden, ist es nur noch eine Frage der Zeit, bis ihre Verbündeten diesen sinnlosen Kampf aufgeben. Dennoch müssen wir die Inselgruppe gegen jegliche Invasionsstreitkräfte verteidigen, denn ihre Rückeroberung könnte den Widerstand gegen uns neu entfachen."
 
@@ -147,7 +145,7 @@ HAW_kingdom_national_populist:0 "Königreich Hawaii"
 HAW_kingdom_national_populist_ADJ:0 "Hawaiianisch"
 HAW_kingdom_national_populist_DEF:0 "Das Königreich Hawaii"
 
-### Monarchie-Fokusse ###
+### Monarchy Focuses ###
 HAW_monarchy_restoration:0 "Restauration der Monarchie"
 HAW_monarchy_restoration_desc:0 "Nach über 40 Jahren amerikanischer Herrschaft und Unterdrückung wurde die Kawānanakoa-Dynastie endlich wieder auf den Thron gestzt, die Monarchie wiederhergestellt und der Imperialismus auf unseren Inseln besiegt. Die Regierung ist sich zwar noch nicht einig, wie genau die Königsfamilie ihre Herrschaft ausüben wird, jedoch können sich ab jetzt keine Amerikaner mehr in unsere internen Angelegenheiten einmischen und ihre Interessen auf Kosten des hawaiianischen Volkes durchsetzen."
 HAW_cultural_revival:0 "Kulturelle Wiedergeburt"
@@ -168,7 +166,7 @@ HAW_legacy_of_kamehameha:0 "Kamehamehas Erbe"
 HAW_legacy_of_kamehameha_desc:0 "Das Haus Kamehameha ist der Elternzweig der Kawānanakoa-Dynastie, und dem König, der es schaffte, unsere Inseln zu vereinen, schulden wir noch immer viel."
 HAW_royal_projects:0 "Königliche Projekte"
 HAW_royal_projects_desc:0 "Der König hat die Errichtung neuer Einrichtungen auf unseren Hauptinseln angeordnet, um der großen Welt besser die Anmut unserer Nation zu zeigen."
-HAW_peoples_king:0 "EIn König des Volkes"
+HAW_peoples_king:0 "Ein König des Volkes"
 HAW_peoples_king_desc:0 "Früher war der König ein Republikaner, da er nicht gedacht hätte, dass seine Familie jemals wieder auf dem Thron sitzen und über Hawaii herrschen würde. Deshalb ist er den Republikanern nicht feindselig gesinnt, sondern hofft, ihren Erwartungen eines kompetenten, gerechten und verantwortungsbewussten Herrschers zu entsprechen, sie vielleicht sogar zu übertreffen."
 HAW_hawaiian_home_land:0 "Hawaiianisches Heimatland"
 HAW_hawaiian_home_land_desc:0 "Die durch den Schwarzen Montag hervorgerufene Arbeitslosigkeit hat auch die Obdachlosigkeit in unserer Nation rapide ansteigen lassen. Kanawai Mamalahoe war ein guter Anfang, um den Armen zu helfen, doch nun sollten wir den Bau von Häusern für die Obdachlosen anordnen, zumal deren Konstruktion dringend benötigte Arbeitsplätze schaffen und vielen Menschen ein besseres Leben sichern würde."
@@ -181,7 +179,7 @@ HAW_kuleana_rights_desc:0 "Die Verantwortung, die wir Menschen der Natur gegenü
 HAW_ua_mau_ke_ea_o_ka_aina_i_ka_pono:0 "Ua Mau ke Ea o ka 'Aina i ka Pono"
 HAW_ua_mau_ke_ea_o_ka_aina_i_ka_pono_desc:0 "Das alte Motto des Hauses Kamehameha, Ua Mau ke Ea o ka 'Aina i ka Pono, oder auch: Das Leben des Landes wird durch die Rechtschaffenheit bewahrt, bringt den Wunsch nach einem kompetenten König zum Ausdruck, welcher unsere Inseln durch seine Weisheit beschützen kann. Viel wichtiger jedoch ist es auch der Name des Gesetzes, welches die Bürger und Bauern unserer Nation zu Herrschern über ihr eigenes Land macht."
 
-### Republik-Fokusse ###
+### Republic Focuses ###
 HAW_declare_a_republic:0 "Die Republik ausrufen!"
 HAW_declare_a_republic_desc:0 "Inmitten des Tumults, der mit der Erklärung unserer Unabhängigkeit kam, haben wir uns dazu entschieden, dass demokratische System der Vereinigten Staaten beizubehalten, wenngleich es nun nur noch auf unseren Inseln besteht. Die Freiheit hat sich erneut durchgesetzt!"
 HAW_strengthen_democarcy:0 "Die Demokratie stärken"
@@ -215,7 +213,7 @@ HAW_hawaiian_free_trade_desc:0 "Unsere Inseln befinden sich auf Schlüsselpositi
 HAW_jewel_of_the_pacific:0 "Perle des Pazifiks"
 HAW_jewel_of_the_pacific_desc:0 "Hawaii ist eine Bastion der Freiheit und Gerechtigkeit im Pazifik. Immigranten aus allen Ecken der Welt kommen an unseren Küsten an und unsere Wirtschaft befindet sich im stetigen Wachstum. Lang lebe Hawaii!"
 
-### Kommune-Fokusse ###
+### Commune Focuses ###
 HAW_revolution_succeeds:0 "Die Revolution triumphiert"
 HAW_revolution_succeeds_desc:0 "Die große Hawaiianische Revolution ist vorbei, aber wenn wir uns nicht um die Wunden kümmern, die sie unserem Land zugefügt hat, wird es immer weiter ausbluten. Wir müssen hart arbeiten, um einen egalitären, langlebigen und gerechten hawaiianischen Staat aus den Aschen auferstehen zu lassen."
 HAW_improve_living_standards:0 "Revolutionäres Mahele"
@@ -249,7 +247,7 @@ HAW_equal_under_the_law_desc:0 "Diese Worte bedeuten Versöhnung und Reinigung d
 HAW_ruby_of_the_pacific:0 "Hawaiianischer Sozialismus"
 HAW_ruby_of_the_pacific_desc:0 "Auch wenn unsere Doktrin auf Schriften vom Festland basiert, hat unsere sozialistische Gesellschaft und unsere Entschlossenheit Hawaii zu einem Staat gemacht, zu dem Sozialisten aus der ganzen Welt aufblicken können."
 
-### Wirtschaftliche Fokusse ###
+### Economic Focuses ###
 HAW_pacific_trade:0 "Pazifik-Handel"
 HAW_pacific_trade_desc:0 "Wir haben zwar nicht viele natürliche Ressourcen, unsere strategische Position im Pazifik macht uns allerdings zu einem wichtigen Handelshafen. Es muss sichergestellt werden, dass alle für den kommenden Handel benötigten Einrichtungen errichtet und fertiggestellt werden."
 HAW_modernize_the_islands:0 "Die Inseln modernisieren"
@@ -281,7 +279,7 @@ HAW_military_investments_desc:0 "Die Verteidigung Hawaiis sicherzustellen ist ei
 HAW_thriving_economy:0 "Florierende Wirtschaft"
 HAW_thriving_economy_desc:0 "So schlecht unsere Chancen auch standen, endlich haben wir wirtschaftliche Unabhängigkeit erreicht! Die Arbeitslosenquote unserer Bevölkerung ist schwindend gering, Plantagen exportieren rekordverdächtige Ernten und die neuen Straßen und Häfen sorgen dafür, dass unsere Inseln sich näher stehen als je zuvor!"
 
-### Marine-Fokusse ###
+### Naval Focuses ###
 HAW_navy:0 "Die Flotte bewerten"
 HAW_navy_desc:0 "Die hawaiianische Flotte war schon immer stark von der Unterstützung der USA abhängig. Einige Loyalisten sind auf Honolulu geblieben, da ihnen der Schutz des Pazifiks wichtiger als ihre Anordnung, sich aufs Festland zurückziehen. Allerdings müssen wir die Kapazitäten unserer Flotte verbessern, wenn wir Hawaii verteidigen wollen."
 HAW_grand_navy:0 "Große hawaiianische Flotte"
@@ -331,7 +329,7 @@ HAW_military_research_desc:0 "Unsere besten Wissenschaftler und Geschäftsmänne
 HAW_rule_the_pacific:0 "Die Inseln beherrschen"
 HAW_rule_the_pacific_desc:0 "Nachdem wir viel in die Marineforschung und die Konstruktion neuer Produktions- und Verteidigungsmöglichkeiten investiert haben, sind wir zu einer der führenden Seemächte der Welt geworden! Lichtet die Anker!"
 
-### Luftwaffen-Fokusse ###
+### Air Focuses ###
 HAW_hawaiian_air_force:0 "Hawaiianische Luftwaffe"
 HAW_hawaiian_air_force_desc:0 "Vor dem Krieg war die Luftwaffe der Vereinigten Staaten auf Hawaii stets präsent, wenngleich sie damals nur einen kleinen Zweig der Armee ausmachte. Nun müssen wir die Unabhängigkeit des Corps garantieren und dafür sorgen, dass es alle nötige Unterstützung erhält."
 HAW_new_pilot_training:0 "Neue Piloten trainieren"
@@ -422,12 +420,11 @@ hawaii.14.t:0 "Amerika beitreten"
 hawaii.14.d:0 "Das nationale Notfallkommitee Hawaiis hat sich gegen die Unabhängigkeit entschieden und will nun, dass die Inseln wieder Teil von Amerika werden. Deshalb hat das Kommitee nun erklärt, dass Hawaii trotz des Chaos noch immer Teil der Vereinigten Staaten ist und sich unseren Kriegsbemühungen anschließen wird."
 hawaii.14.a:0 "Gut."
 
-### Monarchie ###
+### Monarchy Path ###
 
-hawaii.16.t:0 "Die königliche Wahl"
-hawaii.16.d:0 "Heute hat der hawaiianische Hochadel mit großer Fanfare verkündet, dass er sein altes Recht nutzen wird, um die Erbkrise zu klären. Die Adligen müssen sich zwischen David Kalakaua und Lydia Liliuokalani entscheiden, die beide dem Hause Kawananakoa angehören und einen rechtmäßigen Anspruch darauf haben, zum König oder zur Königin von Hawaii gekrönt zu werden. Aber wen werden sie wählen?"
-hawaii.16.a:0 "David Kalākaua wird zum neuen König."
-hawaii.16.b:0 "Lydia Liliuokalani wird zur neuen Königin."
+hawaii.16.t:0 "Die königliche Krönung"
+hawaii.16.d:0 "Heute hat, mit großer Fanfare und einiger Aufmerksamkeit durch die Medien, das Oberhaus sein altes Recht genutzt, um die Frage der Erbfolge zu lösen. Die 'Kammer der Adligen' wählte Lydia Lili'uokalani des Hauses Kawananakoa zur neuen Königin Hawaiis. Sie wurde 1905 geboren und ist benannt nach Königin Lili'uokalani, der letzen Königin Hawaiis. Lydia fordert mit Stolz das Recht ihrer Familie ein, zu herrschen, und verspricht, dass ihre Regentschaft nichts als Wohlstand für alle Hawaiianer bringen wird."
+hawaii.16.a:0 "Lang lebe Königin Lili'uokalani II!"
 
 hawaii.17.t:0 "Die königliche Tour"
 hawaii.17.d:0 "Die königliche Familie Hawaiis hat, obwohl sie schon seit Jahrhunderten besteht, sich noch nicht den Respekt der anderen Monarchien der Welt verdient. Dies liegt größtenteils an der imperialistischen Unterjochung Hawaiis durch die Amerikaner, welche nun allerdings vorbei ist. Das Haus Kawānanakoa bereitet sich nun darauf vor, Hawaii der Welt vorzustellen, vor allem den Yamoto und den Hohenzollern. Vielleicht werden sie sogar einen Stop in Brasilien einlegen, dessen Königsfamilie sie ebenfalls herzlich begrüßen würde."
@@ -477,7 +474,7 @@ hawaii.27.b:0 "National-Liberale Partei."
 hawaii.27.c:0 "Republikanische Partei."
 hawaii.27.e:0 "Hui Aloha Aina."
 
-### Republik ###
+### Republic Path ###
 
 hawaii.31.t:0 "Miss Dolcinea"
 hawaii.31.d:0 "Die Konkurrenz mit der 'United Fruit Company' (UFC) liegt nun im Interessenbereich der Massenmedien, da die UFC Miss Chiquita, ein neues Maskottchen entworfen von Dik Browne, vorgestellt hat. Als Antwort darauf und um junge Kunden anzusprechen, hat James Dole ein maskottchen für 'Dole Fruit' entworfen. Dolcinea, eine spanische Frau, die auf die Ausbeutung vieler Lateinamerikaner durch die UFC aufmerksam machen soll. Schon jetzt laufen die ersten Werbesendungen mit Dolecinea's Abenteuern auf den Kindersendern, die die Leute dazu ermuntern, Ananasse statt Bananen zu kaufen."
@@ -499,7 +496,7 @@ hawaii.34.a:0 "National-Liberale Partei."
 hawaii.34.b:0 "Republikanische Partei."
 hawaii.34.c:0 "Hui Aloha Aina."
 
-### Kommune ###
+### Commune ###
 
 hawaii.62.t:0 "Radikale Kunst in Honolulu"
 hawaii.62.d:0 "Das Museum der Künste in Honolulu ist ein Denkmal für das wachsende Prestige und den wachsenden Reichtum, den Hawaii unter hawaiianischer Herrschaft erfuhr. Sein Zweck als Zentrum für Kunst und Inspiration geht jedoch immer mehr verloren, da man sich auf die viel zu einseitige Kunst des Festlandes festgesetzt hat. Im Museum gibt es weder traditionelle Kunst der hawaiianischen Eingeborenen, noch revolutionäre Kunst, wie es sie in den anderen Kommunen der Welt zuhauf gibt. Diesen Fehler müssen wir mit den Geldern, die uns zur Verfügung stehen, so gut es geht beheben. Das Kunstmuseum von Honolulu wird einen neuen Flügel erhalten, mit Fokus auf...."
@@ -518,7 +515,7 @@ hawaii.64.b:0 "Hawaiianischer Arbeiterverband."
 hawaii.64.c:0 "Sozialistische Partei Hawaiis."
 hawaii.64.e:0 "Progressive Partei."
 
-### Schiffskauf ###
+### Buying ships ###
 
 hawaii.78.t:0 "Hawaii möchte einen Leichten Kreuzer kaufen"
 hawaii.78.d:0 "Ein Abgesandter aus [HAW.GetNameDef] ist bei uns eingetroffen und hat darum gebeten, einen Leichten Kreuzer kaufen zu dürfen. Dieser Bitte zu entsprechen würde zwar unserer Wirtschaft ein wenig helfen, allerdings müssten wir auch eine Schiffswerft dafür nutzen, das Schiff zu konstruieren. Sollten wir ihr Angebot annehmen?"
@@ -538,7 +535,7 @@ hawaii.99.t:0 "Zerstörer kommt in Pearl Harbor an"
 hawaii.99.d:0 "Heute kam der Zerstörer, den wir uns gekauft hatten, endlich in Pearl Harbor an. Das neue Schiff wird die hawaiianische Flotte hervorragend ergänzen."
 hawaii.99.a:0 "Eine nette Ergänzung für unsere Sammlung."
 
-### Außenpolitik ###
+### Foreign Events ###
 
 hawaii.101.t:0 "[From.GetNameDefCap] will [Root.GetFactionName] beitreten"
 hawaii.101.d:0 "[From.GetNameDefCap] hat uns einen Abgesandten geschickt, der unsere Regierung nun offiziell darum bittet, dass [From.GetNameDefCap] unserem Bündnis beitreten darf. Sollten wir das Angebot der Hawaiianer annehmen?"
@@ -565,7 +562,7 @@ hawaii.113.d.other:0 "Trotz unseres großzügigen Angebots hat die [FROM.GetAdje
 hawaii.113.a:0 "Der Krieg geht weiter..."
 
 #########################################
-#  Beschreibung Generäle von Drozdovite #
+#Army General Descriptions By Drozdovite#
 #########################################
 
 HAW_DELOS_EMMONS_ARMY_DESC:0 "§YGeneral-Biografie\n§YGeboren:§W 17. Januar 1889 in Huntington, West Virginia, Vereinigte Staaten von Amerika\n§YMilitärkarriere:§W Delos Carleton Emmons schloss im Juni 1909 die Militärakademie der Vereinigten Staaten mit dem Rang des Zweiten Leutnants ab. Er wurde zum kommadierenden Offizier der B-Kompanie des 30. Infanterie-Regiments ernannt. Dort blieb er bis zum Juli 1916, als er zum Oberleutnant ernannt wurde und dem Signalkorps beitrat, um ein Pilot zu werden. Im Juli 1917 ernannte man ihn zum Hauptmann, im Juni 1918 zum Major und im August 1918 zum Oberst. 1920 trat er der Luftwaffe der Vereinigten Staaten bei und ein Jahr darauf schloss er seinen Flugzeug-Service-Kurs an der Harvard University ab. In den Zwanzigern besetzte er unterschiedliche einflussreiche Positionen der Luftwaffe und erhielt seinen Abschluss von der 'Air Corps Tactical School' und der 'Command and General Staff School'. Nach Hawaii wurde er im März 1934 als Kommandant des 18. Flieger-Verbands geschickt, eine Position, die er bis zum Ausbruch des Bürgerkriegs innehielt. Als die Spannungen auf den Inseln anstiegen, entschloss Delos sich, der Revolte gegen die USA beizutreten, was eine große Hilfe bei der Schaffung des neuen Hawaiis war. Dadurch hat er sich auch die Beförderung zum Brigadegeneral verdient, wenngleich noch unklar ist, ob Delos' Erfahrung ausreicht, um den Job zu erledigen.\n§YWichtige Anmerkungen:§W- Es ist bekannt, dass er rassistische Kommentare über die japanisch-amerikanische Bevölkerung der Insel gemacht hat und einen möglichen Angriff der Japaner auf Hawaii fürchtet."

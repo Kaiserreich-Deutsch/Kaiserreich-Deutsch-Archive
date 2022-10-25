@@ -1,6 +1,6 @@
 ﻿l_german:
 ### Übersetzt von MartenDE -> Proho ###
-chile_focus:0 "Chile Fokus Baum"
+chile_focus:0 "Chile Schwerpunktbaum"
 
 ### Leaders ###
 POLITICS_MARMADUKE_GROVE_DESC:0 "Grove wurde am 6. Juli 1878 in der nördlichen Stadt Copiapó als Sohn von José Marmaduke Grove Abalos, einem Anwalt, und Ana Vallejo Burgoa geboren. Sein Vater wurde 1891 ins Exil geschickt, weil er sich dem Präsidenten José Manuel Balmaceda widersetzte. Trotz seiner frühen Opposition gegen die herrschenden Behörden, trat er 1892 in die chilenische Marineakademie ein. Wegen seiner sozialistischen Tendenzen ins Exil geschickt, wurde er als Verbindungsmann in Großbritannien eingesetzt, eigentlich nur, um ihn aus Chile herauszuhalten. Dort nahm er jedoch an der Revolution teil, und während seines Exils, während der Herrschaft von Präsident Ibañez Del Campo, verschlechterte sich die Wirtschaft Chiles und 1931 ging das Land bankrott. Kurz darauf wurde Ibañez abgesetzt, als der Großteil der Armee und der Marine meuterte, was die Rückkehr Groves nach Chile und die Ausrufung der Sozialistischen Republik ermöglichte. Sein kürzlicher Aufstieg zum Vorsitzenden ist ein deutliches Zeichen dafür, dass sowohl die militärischen als auch die zivilen Behörden in Chile nach jahrelanger Unterstützung der patagonischen Rebellen einen Konflikt mit Argentinien für nahezu unvermeidlich halten."
@@ -54,6 +54,17 @@ CHL_Order:0 "Natürliche Ordnung"
 CHL_Order_desc:0 "Unsere Nation muss Stärke durch ihre militärischen Fähigkeiten und ihre Zahl zeigen, um die Ordnung aufrechtzuerhalten"
 CHL_home_of_south_american_syndicalism:0 "Heimat des südamerikanischen Syndikalismus"
 CHL_home_of_south_american_syndicalism_desc:0 "Seit der ursprünglichen Revolution im Jahr 1931 bleibt Santiago das Zentrum des Syndikalismus in Südamerika. Viele der Menschen sind bereit, für die Verteidigung ihrer Ideologie gegen die Reaktionäre, die uns umgeben, zu sterben."
+
+### Companies ### 
+efe:0 "EFE"
+universidad_chile:0 "Universität von Chile"
+covensa:0 "COVENSA"
+famae:0 "FAMAE"
+famaetank:0 "FAMAE - Panzer Sektion"
+chile_ford:0 "Ford Chile"
+arsenales_de_marina:0 "Arsenale der Marine"
+maestranza_central_aviacion:0 "Maestranza Zentrale für Luftfahrt"
+linea_area_nacional:0 "Linea Aérea Nacional(Nationale Fluggesellschaft)"
 
 ### Country Flags ###
 CHLelectionshappened:0 "Die Wahlen zum dritten Vorsitzenden haben stattgefunden"
@@ -477,6 +488,10 @@ chl.45.t:0 "Sich mit Carlés und Aguero zusammenschließen?"
 chl.45.d:0 "Unsere neue Regierung ist viel enger mit unseren früheren Feinden verbunden als bisher angenommen und sie haben Interesse bekundet, dass wir uns ihrem Bündnis anschließen. Vielleicht sollten wir uns ihnen anschließen?"
 chl.45.a:0 "Dios y Patria!"
 chl.45.b:0 "Das ist keine gute Idee."
+chl.451.t:0 "Chile bittet darum, unserer Fraktion beizutreten."
+chl.451.d:0 "Wir haben eine Anfrage der chilenischen diplomatischen Vertreter erhalten, in der sie darum bitten, dass Chile mit uns ein Militärabkommen unterzeichnen darf und sich damit in dem immer komplexer werdenden Kräfteverhältnis formell mit uns verbündet."
+chl.451.a:0 "Wunderbar, wir sind ganz Ihrer Meinung."
+chl.451.b:0 "Sich in eine solche Vereinbarung zu verstricken, ist nicht in unserem Sinne."
 chl.46.t:0 "Dem Reichspakt beitreten?"
 chl.46.d:0 "Deutschland hat unserer Republik ein Angebot zum formellen Beitritt zum Reichspakt unterbreitet. Dies würde zwar unsere diplomatische Position im Ausland stärken, könnte jedoch unvorhergesehene Konsequenzen und unerwünschte Kriege für unsere neue Demokratie nach sich ziehen."
 chl.46.a:0 "Ja! Angebot annehmen."

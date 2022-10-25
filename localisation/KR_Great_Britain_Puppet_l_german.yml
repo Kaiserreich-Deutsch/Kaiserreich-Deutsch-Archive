@@ -7,20 +7,27 @@ GBP_syndicalist_party:0 "SPGB"
 GBP_syndicalist_party_long:0 "Syndicalist Party of Great Britain"
 GBP_radical_socialist_party:0 "ILP"
 GBP_radical_socialist_party_long:0 "Independent Labour Party"
-GBP_social_democrat_party:0 "New Labour Party"
-GBP_social_democrat_party_long:0 "New Labour Party"
+GBP_social_democrat_party:0 "SDF - GB"
+GBP_social_democrat_party_long:0 "Social Democratic Federation of Great Britain"
 GBP_social_liberal_party:0 "Liberal Party"
-GBP_social_liberal_party_long:0 "Liberal Party"
-GBP_market_liberal_party:0 "National Liberals"
-GBP_market_liberal_party_long:0 "National Liberals"
+GBP_social_liberal_party_long:0 "Liberal Party - Samuelites"
+GBP_market_liberal_party:0 "Liberal Party"
+GBP_market_liberal_party_long:0 "Liberal Party - Constitutionalists"
 GBP_social_conservative_party:0 "Tories"
 GBP_social_conservative_party_long:0 "Conservative Societies"
-GBP_authoritarian_democrat_party:0 "Privy Council"
-GBP_authoritarian_democrat_party_long:0 "Privy Council"
+GBP_authoritarian_democrat_party:0 "BPP"
+GBP_authoritarian_democrat_party_long:0 "British Peoples' Party"
 GBP_paternal_autocrat_party:0 "BPP"
 GBP_paternal_autocrat_party_long:0 "British Peoples' Party"
 GBP_national_populist_party:0 "Ultranationalists"
 GBP_national_populist_party_long:0 "Ultranationalists"
+
+GBP_authoritarian_democrat_party_england:0 "ENS"
+GBP_authoritarian_democrat_party_long_england:0 "English National Society"
+GBP_paternal_autocrat_party_england:0 "ENS"
+GBP_paternal_autocrat_party_long_england:0 "English National Society"
+GBP_authoritarian_democrat_party_monarchy:0 "Privy Council"
+GBP_authoritarian_democrat_party_long_monarchy:0 "Privy Council"
 
 ### Leaders ###
 
@@ -31,12 +38,13 @@ POLITICS_GBP_CHARLES_III_DESC:0 "Charles Eduard von Sachsen-Coburg und Gotha, de
 
 ### Tooltips ###
 
-GBP_british_collab:0 "Eine §RBritische§! Kollaborationsregierung wird gebildet.\n"
-GBP_eng_collab:0 "Eine §gEnglische§! Kollaborationsregierung wird gebildet.\n"
-GBP_two_collabs:0 "Eine §gEnglische§! und eine §CSchottischee§! Kollaborationsregierung wird gebildet.\n"
-GBP_three_collabs:0 "Eine §gEnglische§!, §GWalisische§! und eine §CSchottische§! Kollaborationsregierung wird gebildet.\n"
-GBP_british_monarchy:0 "§gCharles III§! wird den wiederhergestellten Thron besteigen.\n"
-GBP_scottish_monarchy:0 "§gFrancis I§! wird den wiederhergestellten jakobitischen Thron besteigen.\n"
+GBP_british_collab:0 "Eine §RBritische§! Kollaborationsregierung wird gebildet."
+GBP_eng_collab:0 "Eine §gEnglische§! Kollaborationsregierung wird gebildet."
+GBP_two_collabs:0 "Eine §gEnglische§! und eine §CSchottischee§! Kollaborationsregierung wird gebildet."
+GBP_three_collabs:0 "Eine §gEnglische§!, §GWalisische§! und eine §CSchottische§! Kollaborationsregierung wird gebildet."
+GBP_british_monarchy:0 "§gCharles III§! wird den wiederhergestellten englischen Thron besteigen."
+GBP_scottish_monarchy:0 "§gFrancis I§! wird den wiederhergestellten jakobitischen Thron besteigen."
+GBP_welsh_monarchy:0 "§gLewis I§! wird den walisischen Thron besteigen."
 
 ### Cosmetic Tags ###
 

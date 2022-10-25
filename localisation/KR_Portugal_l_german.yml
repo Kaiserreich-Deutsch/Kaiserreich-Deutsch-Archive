@@ -1,10 +1,8 @@
 ﻿l_german:
-
 ### Übersetzt von DerEherneRächer ###
-
 portugal_focus:0 "Portugiesischer Fokusbaum"
 
-### Parteien ###
+### Parties ###
 POR_totalist_party:0 "PCP"
 POR_totalist_party_long:0 "Partido Comunista Português"
 POR_syndicalist_party:0 "FAP"
@@ -26,7 +24,7 @@ POR_paternal_autocrat_party_long:0 "Conselho de Restauração National"
 POR_national_populist_party:0 "IL"
 POR_national_populist_party_long:0 "Integralismo Lusitano"
 
-### Anführer ###
+### Leaders ###
 POLITICS_DUARTE_BRAGANCA_DESC:0 "Wie im Pakt von Dover, der von den Royalisten vor der Wiederherstellung unterzeichnet wurde, vorherbestimmt, erbte Duarte II den Thron vom kinderlosen Manuel II. Seit seiner Krönung 1932 versucht König Duarte, die Beziehungen zur Königsfamilie Brasiliens und der britischen Exilregierung in Kanada zu verbessern, während er in der Heimat versucht, eine gute Beziehung mit den Integralisten zu wahren, die die Regierung nahezu vollständig kontrollieren - ein Umstand, den Duarte bei Gelegenheit nur zu gerne ändern würde."
 POLITICS_MARIA_ADLEAIDE_BRAGANCA_DESC:0 "Seitdem sie die Krone nach dem zweiten Königsmord in nur 30 Jahren an sich gerissen hatte, hat Maria III überwältigende Aufgaben vor sich liegen. Die junge Königin war schon als Prinzessin beliebt, da sie immer versuchte, Menschen in Not zu helfen. Ihr sanftmütiger Charakter macht ihre sehr aggresive Haltung gegenüber den Integralisten vielleicht überraschend, aber seitdem sie die Krone übernommen hat denunziert sie die Partei - und ihre furchtlose Einstellung hat sie nur noch beliebter gemacht."
 POLITICS_MARIA_PUPPET_DESC:0 "Als neu eingesetzte Königin von Portugal und den Algarven scheint es Maria Ana I nicht zu stören, kaum echte Herrschafts-Aufgaben übernehmen zu müssen. Ihre Prioritäten liegen dabei, die Zukunft der portugiesischen Monarchie zu sichern und die Beziehungen zur gestürzten Königsfamilie zu verbessern. Die deutsche Nationalität ihres Mannes hat sie früher zwar quasi aus der Erbfolge ausgeschlossen, könnte ihr aber bei den Bemühungen, auf den Thron zu kommen, letztendlich doch geholfen haben."
@@ -35,7 +33,7 @@ POLITICS_MARIA_PUPPET_DESC:0 "Als neu eingesetzte Königin von Portugal und den 
 POR_cww:0 "Mobilisiert die Verteidigungen in Übersee und hebt zusätzlich Infanterie-Divisionen aus."
 POR_regulos:0 "Hebt Miliz-Divisionen unserer Vasallenhäuptlinge, auch als Regulos bekannt, in Afrika aus."
 
-### Nationalgeister ###
+### Ideas ###
 POR_secret_police:0 "Geheimpolizei"
 POR_black_monday:0 "Schwarzer Montag"
 POR_black_monday_desc:0 "Da die portugiesische Wirtschaft größtenteils landwirtschaftlich geprägt ist, hat der Schwarze Montag Portugal besonders hart getroffen."
@@ -107,7 +105,7 @@ POR_bravery_desc:0 "Durch hartes Training und eine langwierige Konditionierung s
 POR_integralist_ethos:0 "Paz sem Honra"
 POR_integralist_ethos_desc:0 "Nachdem Portugal schon nach dem Weltkrieg erniedrigt wurde und nun während des Zweiten Ultimatums erneut, wird es von einem Großteil der Welt nur noch als zweitklassige Nation angesehen, die nur aufgrund von Glück noch alle Territorien behalten durfte. Diese Meinung wird von vielen Mitgliedern des Kabinetts jedoch nicht geteilt."
 
-### Eigenschaften ###
+### Traits ###
 german_puppet:0 "Deutsche Marionette"
 stern_imperialist:0 "Strenger Imperialist"
 popular_figure:0 "Beliebter Anführer"
@@ -115,7 +113,7 @@ german_aristocrat:0 "Deutscher Aristokrat"
 rightful_heir:0 "Rechtmäßiger Erbe"
 brazilian_german_heritage:0 "Brasilianisches und Deutsches Erbe"
 
-### Beziehungsmodifikatoren ###
+### Opinion Modifiers ###
 seized_goa:0 "Übernahm Goa"
 ignored_goa:0 "Ignorierte Goa"
 PORkeptangola:0 "Konnte Angola halten"
@@ -125,10 +123,39 @@ MAF_NoAttack_Portugal:0 "Mittelafrikanische Aggression eingedämmt"
 PORreached38:0 "Hat 1938 erreicht"
 POR_Jackals:0 "Portugal hat Olivenza übernommen"
 
-### Fokusse ###
+### Cosmetic Tags ###
+RPO_totalist:0 "Sozialistische Republik Portugal"
+RPO_totalist_ADJ:0 "Portugiesisch"
+RPO_totalist_DEF:0 "Die Sozialistische Republik Portugal"
+RPO_syndicalist:0 "Sozialistische Republik Portugal"
+RPO_syndicalist_ADJ:0 "Portugiesisch"
+RPO_syndicalist_DEF:0 "Die Sozialistische Republik Portugal"
+RPO_radical_socialist:0 "Anarchistische Föderation Portugal"
+RPO_radical_socialist_ADJ:0 "Portugiesisch"
+RPO_radical_socialist_DEF:0 "Die Anarchistische Föderation Portugal"
+RPO_social_democrat:0 "Portugal"
+RPO_social_democrat_ADJ:0 "Portugiesisch"
+RPO_social_democrat_DEF:0 "Portugal"
+RPO_social_liberal:0 "Portugal"
+RPO_social_liberal_ADJ:0 "Portugiesisch"
+RPO_social_liberal_DEF:0 "Portugal"
+RPO_market_liberal:0 "Portugal"
+RPO_market_liberal_ADJ:0 "Portugiesisch"
+RPO_market_liberal_DEF:0 "Portugal"
+RPO_social_conservative:0 "Portugal"
+RPO_social_conservative_ADJ:0 "Portugiesisch"
+RPO_social_conservative_DEF:0 "Portugal"
+RPO_authoritarian_democrat:0 "Portugal"
+RPO_authoritarian_democrat_ADJ:0 "Portugiesisch"
+RPO_authoritarian_democrat_DEF:0 "Portugal"
+RPO_paternal_autocrat:0 "Portugal"
+RPO_paternal_autocrat_ADJ:0 "Portugiesisch"
+RPO_paternal_autocrat_DEF:0 "Portugal"
+RPO_national_populist:0 "Portugal"
+RPO_national_populist_ADJ:0 "Portugiesisch"
+RPO_national_populist_DEF:0 "Portugal"
 
-### Absolute Monarchie ###
-
+### Focuses ###
 POR_matters_of_the_realm:0 "Angelegenheiten des Reiches"
 POR_matters_of_the_realm_desc:0 "Nun, da die Übergangsjahre vorbei sind, können wir unserem Königreich endlich wieder neuen Glanz bringen. Die Frage ist jedoch, wer bestehen wird: Die Couceiristen oder die Integralisten?"
 POR_the_king_and_country:0 "Der König und seine Nation"
@@ -158,8 +185,6 @@ POR_moral_monarchy_desc:0 "Der König musste sich schon viel zu lang um die Bed�
 POR_faith_and_state:0 "Ein gläubiger Staat"
 POR_faith_and_state_desc:0 "Die Hauptrichtlinie unseres Staates ist der Glaube, welcher alle Bürger Portugals zusammenhält."
 
-### Integralisten ###
-
 POR_the_organic_kingdom:0 "Die Organe des Königreichs"
 POR_the_organic_kingdom_desc:0 "Die ideale Monarchie sollte die Leitprinzipien des Kommunalismus, der Tradition und des Glaubens vertreten. Sie sollte beim Volk beliebt und von dezentralisierter Natur sein, sowohl edel, als auch repräsentativ für die einfachen Bürger."
 POR_state_of_faithful:0 "Ein Staat des Glaubens"
@@ -186,8 +211,6 @@ POR_abolish_parlament:0 "Abschaffung des Parlaments"
 POR_abolish_parlament_desc:0 "In seiner unendlichen Weisheit und mit großem Bedauern muss der König dem portugiesischen Volk mitteilen, dass das Parlament, mit seinen veralteten Ideen und Idealen, gänzlich abgeschafft wird. Stattdessen wird das Oberhaus, bestehend aus den besten und intelligentesten Adligen Portugals, die Legislative Macht innehaben."
 POR_economical_strongstance:0 "Wirtschaftliche Stärke"
 POR_economical_strongstance_desc:0 "Wir dürfen nicht erlauben, dass wirtschaftliche Ansichten und Konzepte, die von Politikern kreiert wurden, dem neuen Portugal im Wege stehen - selbst wenn dies bedeuten sollte, dass wir einige von ihnen daran erinnern müssen, wer die wahre Macht in unserem Königreich innehat."
-
-### Flotte+Kolonien ###
 
 POR_navy:0 "Régia Marinha"
 POR_navy_desc:0 "Unsere Flotte, die während des Weltkriegs expandiert wurde, ist noch immer nicht dazu in der Lage, unsere Kolonien und die Küste unseres Festlands zu verteidigen! Wir können uns nicht immer nur auf die Flotten unserer Verbündeten verlassen, sondern müssen jetzt handeln."
@@ -259,8 +282,6 @@ POR_pinko_desc:0 "Aufgrund der nun in Afrika herrschenden Anarchie können wir e
 POR_congo_e_nosso:0 "Den Mani-Kongo an seine Pflichten erinnern"
 POR_congo_e_nosso_desc:0 "Da der Mani-Kongo sich weigert, uns Tribut zu zahlen und unseren König nicht als seinen Herrscher akzeptiert, ist es an der Zeit, ihn daran zu erinnern, wer der wahre Meister des Kongos ist..."
 
-### Wirtschaft ###
-
 POR_manufacturies:0 "Produktions-Fokus"
 POR_manufacturies_desc:0 "Portugal war schon lange eine agrarische Nation, aber die Geschichte wartet nicht auf die, die den ländlichen Frieden genießen wollen. Wir müssen in Fabriken investieren, wenn wir unsere Souveränität garantieren wollen."
 POR_investments:0 "Industrielle Investitionen"
@@ -297,8 +318,6 @@ POR_naval_supply:0 "Marine-Nachschubketten"
 POR_naval_supply_desc:0 "Ein Kolonialreich, wie Portugal eins ist, zu versorgen, ist logistisch gesehen eine extremst schwierige Aufgabe. Sicherzustellen, dass unsere Häfen dieser Aufgabe gewachsen sind, ist von äußerster Wichtigkeit."
 POR_railways:0 "Companhia Ferroviária Imperial"
 POR_railways_desc:0 "Der Staat hat es uns gewährt, unsere Infrastruktur-Bemühungen zu verdoppeln. Dadurch können wir die Infrastruktur Portugals weiter expandieren und zu einer der besten Europas machen!"
-
-### Armee ###
 
 POR_army:0 "Die portugiesische Armee"
 POR_army_desc:0 "Portugals Leistung im Weltkrieg war bestenfalls beschämend, wenn nicht gar erbärmlich. Dies lag jedoch nicht an unseren tapferen Soldaten und Generälen, sondern an den verräterischen republikanischen Politikern, die ihnen in die Quere kamen. Nie wieder werden wir zulassen, dass unsere Reputation derartig in den Dreck gezogen wird!"
@@ -351,8 +370,6 @@ POR_paratroop_desc:0 "Die Idee, Luftstreitkräfte zu nutzen, um Truppen über fe
 POR_wewerentexpectingspecialforces:0 "Spezialeinheiten-Korps"
 POR_wewerentexpectingspecialforces_desc:0 "Eine moderne Armee benötigt Helden, große Krieger, die sich auf einen Bereich des Kampfes spezialisieren. Eine Einheit, die aus den Besten der Besten besteht und die jede Aufgabe mit Bravour bewältigen kann."
 
-### Luftstreitkräfte ###
-
 POR_airforce:0 "Portugiesische Luftstreitkräfte"
 POR_airforce_desc:0 "Mit der Unterstützung unserer Verbündeten können wir moderne Luftstreitkräfte etablieren und den Kampf um die lusitanischen Himmel gewinnen."
 POR_air_superiority:0 "Luftüberlegenheits-Fokus"
@@ -372,7 +389,7 @@ POR_strategic_bomber_desc:0 "Bombenangriffe auf feindliche Industrie und Nachsch
 POR_carrier_groups_2:0 "Flugzeugträger-Gruppen"
 POR_carrier_groups_2_desc:0 "Die Piloten unserer Marineflugzeuge zu trainieren, auf Flugzeugträgern zu landen und von ihnen abzuheben, ist schon eine schwierige Aufgabe, den Piloten unserer normalen Luftstreitkräfte dies beizubringen jedoch ein noch viel mühsameres Unterfangen."
 
-### Entscheidungen ###
+### Decisions ###
 
 POR_colonial_development_cat:0 "Ultramarine Entwicklungs-Kampagne"
 POR_colonial_development_cat_desc:0 "Das kürzlich erweiterte Ministerium der Kolonien wurde dazu ermächtigt, direkte Entwicklungs-Bemühungen im ganzen Reich vorzunehmen. Schon jetzt wurden viele Entwicklungen geplant und vorbereitet, wobei das Hauptziel darin liegt, kleinere Provinzen auf den selben Stand wie unsere Besitztümer in West- und Ostafrika zu bringen. Dies wird zwar einiges an Kosten mit sich tragen, sowohl politisch als auch wirtschaftlich, der dadurch entstehende Reichtum wird es jedoch wert sein."
@@ -463,43 +480,3 @@ por.315.b:0 "Fürs Erste werden wir davon absehen."
 por.316.t:0 "Portugal möchte der Entente beitreten"
 por.316.d:0 "Nach dem Ende des Weltkriegs und der Unterzeichnung des 'Friedens mit Ehre' und mehr noch nach der Revolution von 1925 sind Portugal und Großbritannien immer mehr auseinander gedriftet, obwohl sie sich formal noch in einer Allianz befanden. Aber nun, da die Lage in Europa immer angespannter wird und die Zeit, unser Heimatland zurückzuerobern, immer näher rückt, erbittet Portugal von uns Unterstützung und wäre im Gegenzug dazu bereit, uns im Falle eines Zweiten Weltkriegs zu unterstützen."
 por.316.a:0 "Mit der Erneuerung dieses Vertrags werden wir den Syndikalismus besiegen!"
-
-por.321.t:0 "Bericht aus Mittelafrika: Polizist erschossen"
-por.321.d:0 "Es wurde uns berichtet, dass heute ein Stammesmitglied der Makonde einen mittelafrikanischen Polizisten in Lusaka erschossen hat. Die Stadt ist noch immer geschockt und der Täter und seine Unterstützer wurden vorerst von der lokalen Polizei festgenommen, bis die Untersuchung abgeschlossen ist. Wie es scheint gelingt es uns schon jetzt, die Regierung Mittelafrikas zu destabilisieren. Die Waffe, die der Mörder benutzte, haben wir ihm zwar gegeben, allerdings ist es unwahrscheinlich, dass sie bis zu uns zurückverfolgt werden kann."
-por.321.a:0 "Sie werden keine Beweise gegen uns finden!"
-
-por.322.t:0 "Bericht aus Mittelafrika: Militärlager überfallen"
-por.322.d:0 "Heute kam ein weiterer Bericht an; mehrere Banditen haben heute morgen ein mittelafrikanisches Militärlager überfallen und sind mit den gestohlenen Gütern nach Mosambik geflohen. Diese 'Banditen' wurden natürlich von uns trainiert und versorgt - und mittlerweile fürchten sie nicht einmal mehr die Askari Mittelafrikas! Gerüchte besagen, dass die Regierung Mittelafrikas bald beraten wird, wie man mit den Banditen und ihrem destabilisierenden Effekt auf das Land verfahren sollte."
-por.322.a:0 "Das bedeutet Ärger..."
-
-### Tags ###
-RPO_totalist:0 "Sozialistische Republik Portugal"
-RPO_totalist_ADJ:0 "Portugiesisch"
-RPO_totalist_DEF:0 "Die Sozialistische Republik Portugal"
-RPO_syndicalist:0 "Sozialistische Republik Portugal"
-RPO_syndicalist_ADJ:0 "Portugiesisch"
-RPO_syndicalist_DEF:0 "Die Sozialistische Republik Portugal"
-RPO_radical_socialist:0 "Anarchistische Föderation Portugal"
-RPO_radical_socialist_ADJ:0 "Portugiesisch"
-RPO_radical_socialist_DEF:0 "Die Anarchistische Föderation Portugal"
-RPO_social_democrat:0 "Portugal"
-RPO_social_democrat_ADJ:0 "Portugiesisch"
-RPO_social_democrat_DEF:0 "Portugal"
-RPO_social_liberal:0 "Portugal"
-RPO_social_liberal_ADJ:0 "Portugiesisch"
-RPO_social_liberal_DEF:0 "Portugal"
-RPO_market_liberal:0 "Portugal"
-RPO_market_liberal_ADJ:0 "Portugiesisch"
-RPO_market_liberal_DEF:0 "Portugal"
-RPO_social_conservative:0 "Portugal"
-RPO_social_conservative_ADJ:0 "Portugiesisch"
-RPO_social_conservative_DEF:0 "Portugal"
-RPO_authoritarian_democrat:0 "Portugal"
-RPO_authoritarian_democrat_ADJ:0 "Portugiesisch"
-RPO_authoritarian_democrat_DEF:0 "Portugal"
-RPO_paternal_autocrat:0 "Portugal"
-RPO_paternal_autocrat_ADJ:0 "Portugiesisch"
-RPO_paternal_autocrat_DEF:0 "Portugal"
-RPO_national_populist:0 "Portugal"
-RPO_national_populist_ADJ:0 "Portugiesisch"
-RPO_national_populist_DEF:0 "Portugal"

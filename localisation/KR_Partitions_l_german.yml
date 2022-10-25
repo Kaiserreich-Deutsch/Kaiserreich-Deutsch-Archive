@@ -1,7 +1,5 @@
 ﻿l_german:
-
 ### Übersetzt von DerEherneRächer ###
-
 ### Events ###
 part.16.t:0 "Ein neues deutsches Regierungsoberhaupt wählen"
 part.16.d:0 "Uns bietet sich die Möglichkeit, ein Mitglied des adligen Hauses Romanov auf den deutschen Kaisersthron zu setzen. Es könnte sich allerdings als eine bessere Entscheidung herausstellen, die Deutschen selbst entscheiden zu lassen, von wem sie regiert werden wollen."
@@ -23,41 +21,30 @@ part.572.d:0 "Unsere Soldaten haben tapfer gekämpft, um die Bedrohung, die das 
 part.572.a:0 "Wir werden den Preussen den Weg weisen."
 part.572.b:0 "Wir sollten kontinentale Verwicklungen wie diese vermeiden."
 
-part.62.t:0 "Sollte Brittanien eine Monarchie werden?"
-part.62.d:0 "Nachdem die Britische Union endlich besiegt wurde, ist es an der Zeit, eine neue Regierung für die Britischen Inseln zu etablieren. Die offensichtliche Wahl hierfür wäre die Wiedereinführung der Monarchie, mit Carl Eduard von Sachsen-Coburg und Gotha als neuen König auf dem britischen Thron. Allerdings könnte es auch eine bessere Entscheidung sein, eine Vasallenrepublik zu erschaffen, als den sogenannten Verräter-Prinzen auf den Thron zu setzen."
-part.62.a:0 "Sie werden Carl früher oder später lieben!"
-part.62.b:0 "Eine Republik wäre vorteilhafter."
+part.62.t:0 "Wiederherstellung der englischen Monarchie?"
+part.62_britain.d:0 "Nun, da die Britische Union besiegt wurde, ist die Zeit gekommen, eine neue Regierung auf den Britischen Inseln zu etablieren. Für einen Großteil der Bevölkerung wäre es wohl die beste Wahl, eine Monarchie, mit Carl Eduard von Sachsen-Coburg und Gotha auf dem Thron, einzuführen. Es könnte sich allerdings als weiser herausstellen, eine Marionetten-Republik zu etablieren, statt dem sogenannten 'Verräterprinzen' so viel Macht zu verschaffen. Eduard selbst hat bereits sein Interesse daran ausgesprochen, den Thron zu übernehmen, einige Führungspersönlichkeiten der Nation sehen ihn jedoch in vielerlei Hinsicht als Schuldigen an und seine schiere Präsenz könnte die Briten schon gegen uns aufhetzen."
+part.62_england.d:0 "Nachdem wir die Kontrolle über England erlangten, wurde die Entscheidung getroffen, einen unabhängigen englischen Staat und damit ein neues und loyales Mitglied des Reichspakts zu etablieren. Carl Eduard, der sogenannte 'Verräterprinz', wäre die offensichtliche Wahl für einen neuen Monarchen, einige Kollaboristen haben allerdings vorgeschlagen, eine Republik zu etablieren statt zur englischen Monarchie zurückzukehren. Welche Wahl wir auch treffen mögen, England wird nie wieder die Hand gegen das Vaterland erheben!"
+part.62.a:0 "Ein deutscher König wird auf St. Edwards Stuhl sitzen!"
+part.62.b:0 "Eine Republik wäre besser - sonst ergeht es uns wie dem alten König."
 
-part.63.t:0 "Deutschland machte uns erneut zur Monarchie"
-part.63.d:0 "Wir wurden erneut zur Monarchie, mit Carl Eduard von Sachsen-Coburg und Gotha als neuen König."
-part.63.a:0 "Oh ihr verdammten..."
+part.63.t:0 "Die schottische Regierung"
+part.63.d:0 "Nachdem wir die Entscheidung getroffen haben, einen unabhängigen schottischen Staat zu etablieren, müssen wir nun entscheiden, wie er regiert werden soll. Eine Marionetten-Republik zu etablieren würde die Machtübergabe erleichtern und würde wohl auch den Schotten besser gefallen. Einige Mitglieder der nationalistischen Bewegung jedoch haben uns darum gebeten, die Monarchie der Jakobiten wiederherzustellen, um Schottland internationales Prestige und eine kulturelle Ikone zu bringen. Einem Großteil der schottischen Bevölkerung gefällt der Gedanke daran, wieder von einem Monarchen regiert zu werden, allerdings gar nicht.\n\nKönig Rupprecht von Bayern hat mehrmals verkündet, dass er kein Interesse daran hat, den schottischen Thron zu besteigen. 1928 hat er sogar öffentlich darum gebeten, dass die Schotten aufhören sollen, sich für seinen Anspruch stark zu machen. Sein jüngerer Bruder Franz wäre mit dieser Position wohl eher zufrieden."
+part.63.a:0 "Schottland wird mit Blut an uns gebunden werden!"
+part.63.b:0 "Eine Marionetten-Republik wäre die bessere Wahl."
 
-part.64.t:0 "Deutschland lässt uns unseren Präsidenten wählen"
-part.64.d:0 "Wir wurden erneut zur Republik und nun ist es an der Zeit, unser Volk einen Präsidenten wählen zu lassen."
-part.64.a:0 "Yay?"
+part.64.t:0 "Die walisische Regierung"
+part.64.d:0 "Nachdem wir die Entscheidung getroffen haben, einen unabhängigen walisischen Staat zu etablieren, müssen wir nun entscheiden, wie er regiert werden soll. Eine Marionetten-Republik wurde von einigen Kollaboristen vorgeschlagen und wäre wohl die natürlichere Wahl. Einige Randgruppen haben uns jedoch darum gebeten, eine Monarchie zu etablieren, welche Wales internationales Prestige bringen und den walisischen Nationalismus fördern würde. Dies könnte allerdings einen Großteil der Bevölkerung Wales' erzürnen.\n\nDer walisische Thron wurde schon lange nicht mehr besetzt und hat, im Gegensatz zu Schottland und England, keine potenziellen Erben. Prinz Gustav Albrecht von Sayn-Wittgenstein-Berleburg hat allerdings sein Interesse dafür kundgetan, den Thron zu besteigen."
+part.64.a:0 "Eine Monarchie wäre besser für Wales."
+part.64.b:0 "Der walisische Republikanismus wäre die bessere Wahl."
 
-part.65.t:0 "Schottland"
-part.65.d:0 "...Niemand wird das sehen..."
-part.65.a:0 "Warte...wie bin ich hierher gekommen?"
+part.65.t:0 "Ein kleines Geschenk von Zim Zim"
+part.65.d:0 "Ich bin mir nicht sicher, wie Sie hierher gekommen sind, aber für denjenigen, der die Marionetten spielt, gibt es hier etwas Mannstärke, Ausrüstung und neue Fabriken. Viel Spaß mit Ihrem Dasein als deutscher Lakai."
+part.65.a:0 "Ich verspreche den werde ich haben!"
 
-part.66.t:0 "Die schottische Regierung"
-part.66.d:0 "Nachdem beschlossen wurde, Schottland erneut als Staat zu etablieren, müssen wir uns noch entscheiden, wie dieser neue Staat regiert werden soll. Eine Vasallenrepublik zu erschaffen würde eine höhere Stabilität und eine leichtere Übergangsphase garantieren, jedoch hat König Rupprecht von Bayern vorgeschlagen, dass sein kleiner Bruder, Franz, den schottischen Thron übernehmen sollte. Da Franz ein Nachkomme von König Jakob II, einem ehemaligen König von England und Schottland, ist, hätte dieser einen legitimen Anspruch auf den Thron. Viele sind jedoch der Meinung, dass ein deutscher König die schottische Bevölkerung verärgern und die Nation destabilisieren würde."
-part.66.a:0 "Schottland wird durch Blut an uns gebunden!"
-part.66.b:0 "Eine Vassallenrepublik ist die bessere Wahl."
+part.66.t:0 "Verstecktes Event #2"
+part.66.d:0 "...\n\nOh, das sollten Sie nicht sehen..."
+part.66.a:0 "Ja, was auch immer..."
 
-part.67.t:0 "Wales"
-part.67.d:0 "...Niemand wird das sehen..."
-part.67.a:0 "Und das alles nur dank der Deutschen!"
-
-part.68.t:0 "Ein loyaler Vasall in Cardiff"
-part.68.d:0 "Die Waliser Republik wurde nun offiziell als Staat anerkannt und ist ein stolzes und loyales Mitglied des Reichspakts geworden. Nach jahrhundertelanger Unterdrückung durch die Engländer haben wir das walisische Volk endlich befreit und nun steht es unter direktem Schutz durch den Kaiser!"
-part.68.a:0 "Pax Europa!"
-
-part.69.t:0 "England"
-part.69.d:0 "...Niemand wird das sehen..."
-part.69.a:0 "Hurrah!"
-
-part.70.t:0 "Die englische Regierung"
-part.70.d:0 "Mit England unter unserer Kontrolle wurde entschieden, einen neuen englischen Staat, welcher ein loyales Mitglied des Reichspakts sein wird, zu etablieren. Carl Eduard von Sachsen-Coburg und Gotha, der sogenannte Verräter-Prinz, wäre eine offensichtliche Wahl für den Thron, es wurde allerdings auch vorgeschlagen, England in eine Vasallenrepublik zu verwandeln. Wie auch immer wir entscheiden, eins steht fest: Die Engländer werden nie wieder Hand gegen das Vaterland erheben!"
-part.70.a:0 "Setzt einen deutschen König auf St. Edwards Thron!"
-part.70.b:0 "Eine Republik wäre die klügere Entscheidung."
+part.67.t:0 "Verstecktes Event #3"
+part.67.d:0 "...\n\nSpielen Sie ernsthaft Wales?"
+part.67.a:0 "Ja..."

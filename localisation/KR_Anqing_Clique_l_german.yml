@@ -1,6 +1,6 @@
-﻿l_german:
+l_german:
 ### Übersetzt von Proho ###
-Anqing_Clique:0 "Anqing Clique Fokusbaum"
+Anqing_Clique:0 "Anqing Clique Schwerpunktbaum"
 
 ANQ_totalist_party:0 "Chinesische Syndikalistische Partei"
 ANQ_totalist_party_long:0 "Chinesische Syndikalistische Partei"
@@ -97,18 +97,19 @@ LEP_collapse_SQI_out:0 "Shandong hat sich aus dem Krieg der Fünf Provinzen zur�
 ANQ_sqi_is_ally:0 "Eine Allianz mit §Hder Shandong Clique§! gebildet"
 
 ## Tooltips ##
-anq_25_army_xp_tt:0 "§Y25§! £army_experience"
-anq_25_army_xp_tt_blocked:0 "§R25§! £army_experience"
+anq_25_army_xp_tt:0 "£army_experience §Y25§!"
+anq_25_army_xp_tt_blocked:0 "£army_experience §R25§!"
+anq_25_army_xp_doctrine_tt_tooltip:0 "Es kostet $anq_25_army_xp_doctrine_tt_blocked$ um die Entscheidung zu treffen"
 
-anq_gains_national_spirit:0 "Gewinnt Nationalen Geist "
+anq_gains_national_spirit:0 "Gewinnt Nationalen Geist"
 
 cred_check:0 "Hat mehr als §Y80 £anq_credibility Glaubwürdigkeit§!"
 
-anq_decrease_cred_1:0 "Fügt §R-1§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
-anq_decrease_cred_2:0 "Fügt §R-2§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
-anq_decrease_cred_5:0 "Fügt §R-5§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
-anq_decrease_cred_10:0 "Fügt §R-10§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
-anq_decrease_cred_20:0 "Fügt §R-20§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
+anq_decrease_cred_1:0 "Reduziert §R1§! £anq_credibility §YGlaubwürdigkeit§!\n"
+anq_decrease_cred_2:0 "Reduziert §R2§! £anq_credibility §YGlaubwürdigkeit§!\n"
+anq_decrease_cred_5:0 "Reduziert §R5§! £anq_credibility §YGlaubwürdigkeit§!\n"
+anq_decrease_cred_10:0 "Reduziert §R10§! £anq_credibility §YGlaubwürdigkeit§!\n"
+anq_decrease_cred_20:0 "Reduziert §R20§! £anq_credibility §YGlaubwürdigkeit§!\n"
 
 anq_increase_cred_5:0 "Fügt §G5§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
 anq_increase_cred_10:0 "Fügt §G10§! £anq_credibility §YGlaubwürdigkeit§! hinzu\n"
@@ -200,7 +201,11 @@ anq_will_lead_war_tt:0 "§RDer Beitritt zu Qings Fraktion wird zu einem sofortig
 
 anq_instructions_destruction_spirits_tt:0 "§gDurch £decision_icon_small §HEntscheidungen§! und §HFokusse§!, können diese negativen Einflüsse entfernt werden.§!\n"
 anq_has_widespread_destruction:0 "Hat Idee §YWeit verbreitete Zerstörung§!\n"
-anq_has_derelict_industry:0 "Hat Idee §YDeindustrialisierung§!\n!"
+anq_has_derelict_industry:0 "Hat Idee §YDeindustrialisierung§!\n"
+anq_has_ruined_interior:0 "Hat Idee §YZerstörtes Interieur§!\n"
+lep_has_widespread_destruction_not:0 "Not: Hat Idee §YWeit verbreitete Zerstörung§!\n"
+anq_has_derelict_industry_not:0 "Not: Hat Idee §YDeindustrialisierung§!\n"
+anq_has_ruined_interior_not:0 "Not: Hat Idee §YZerstörtes Interieur§!\n"
 
 anq_instructions_kuomintang_yiguandao_tt:0 "§gDie Kuomintang und Yiguandao werden unserer Herrschaft widerstehen und werden ständig Angriffe inszenieren! Verwende £decision_icon_small §HEntscheidung§! Sie können vorübergehend bis zu einem bestimmten Grad unterdrückt werden. Durch Vervollständigen des §HFokus§!, weiterer £decision_icon_small §HEntscheidungen§! Wird freigeschaltet, um ihre Anwesenheit dauerhaft zu beenden und die Einflüsse zu entfernen.§!\n"
 
@@ -264,7 +269,7 @@ anq_yiguandao_unrest_triggered_by_decision_tt:0 "§RDieses negative Ereignis wur
 
 ## Decisions ##
 ANQ_anti_concessionists:0 "Die Anti-Konzessionsbewegung"
-ANQ_anti_concessionists_desc:0 "[ANQ.GetLeader] hat sich als Leuchtfeuer für die Bewegung in China erfolgreich durchgesetzt, da die alte Liga der acht Provinzen in Trümmern liegt und die Anti-Konzessions-Rethorik weit verbreitet ist. Diejenigen, die seinen Aufstieg ermöglichten, konnten ihn jedoch genauso leicht fallen lassen, wenn er ihre Interessen verrät. Dennoch weiß [ANQ.GetLeader] sehr gut, dass das Befolgen seines Wunsches zur Bildung von Anqing, ohne die Ressourcen führen wird, die für die Befreiung Chinas erforderlich sind.\n\n§YGlaubwürdigkeit§! §grepräsentiert die allgemeine Legitimität [ANQ.GetLeader] innerhalb der Anti-Konzessionsbewegung und die Glaubwürdigkeit seiner Ansprüche, ihre Sache voranzutreiben.§!\n\n£anq_credibility  §YGlaubwürdigkeit§!  :  [?ANQ.credibility_factor]\n"
+ANQ_anti_concessionists_desc:0 "Während die alte Liga der Acht Provinzen in Trümmern liegt und antikonzessionistische Rethorik grassiert, hat sich [ANQ.GetLeader] erfolgreich als Leuchtturm für die Bewegung in China behauptet. Diejenigen, die seinen Aufstieg ermöglichten, könnten ihn aber genauso leicht fallen lassen, sollte er ihre Interessen verraten, die manchmal seinen eigenen zuwiderlaufen.\n\n§YGlaubwürdigkeit§! §grepräsentiert die allgemeine Legitimität, die [ANQ.GetLeader] innerhalb der antikonzessionistischen Bewegung hat, und die Glaubwürdigkeit seiner Ansprüche, ihre Sache zu fördern.§!\n\n£anq_credibility  §YGlaubwürdigkeit§!  :  [?ANQ.credibility_factor]\n"
 
 ANQ_antiwestern_volunteers:0 "Rekrutieren Sie antiwestliche Freiwillige"
 ANQ_antiwestern_volunteers_desc:0 "Der Hass gegen die Westler ist stark. Wir müssen diesen Hass nutzen und diejenigen, die hier ankommen, auf der Flucht vor der fremden Marionette in Nanjing, in neuen Abteilungen von Freiwilligen organisieren, um unsere Streitkräfte zu unterstützen. Wir sind zahlenmäßig stark unterlegen und müssen erreichen, die uns helfen wollen."
@@ -401,6 +406,7 @@ ANQ_influence_decisions:0 "Alliierte Diplomatie"
 ANQ_influence_decisions_desc:0 "[getanqinfluencesystem]"
 anq_influence_decisions_proqing:0 "Die Qing waren unserer Instrument zum Misserfolg der Nanjing Clique, und wir schulden ihnen viel. Darüber hinaus unterstützen wir das Ideal eines vereinten China. Infolgedessen sind eine enge Zusammenarbeit mit dem Qing auf dem Weg zur möglichen Vereinigung unvermeidlich.\n\n§gAktueller §YQing-Einfluss§!: §H[?party_popularity@Markt-Liberal|%1]§!§! §Y(Markt-Sozial Liberal)§!\n§gAktuelle §YQing Wut§!: §R[?ANQ_beijing_anger|0]§! §Y(Abnahmen 1 pro Woche)§!"
 anq_influence_decisions_projapan:0 "Wir erkennen die Fengtian-Regierung als die rechtmäßige chinesische Regierung an. Durch sie haben die Japaner einen erheblichen Einfluss, da wir auf ihre Unterstützung angewiesen sind. Mit unserer Unterstützung eines vereinten China wird Fengtian versuchen, seine Kontrolle über uns auszubauen.\n\n[getanqwillingnessreclamation]§gAktueller §YFengtian Einfluss§!: §H[?party_popularity@Markt Liberal|%1]§!§! §Y(Markt-Sozial Liberal)§!\n§gAktuelle §YJapanenische Hilfslieferungen§!: §H[?ANQ_tokyo_score]§!§!"
+anq_influence_decisions_alone:0 "Wir setzten einst unser Vertrauen in die Fengtianische Regierung, suchten nach der Erfüllung unseres republikanischen Traums. Doch was wir erhielten, war nichts als Verrat. \nFengtian und Japan haben uns im Stich gelassen. Wenn wir nicht schnell handeln und Maßnahmen ergreifen, wird uns diese isolierte Situation in den Strudel der steigenden Spannungen in China hineinziehen und unsere Existenz auslöschen. \n\n§YAber auf der anderen Seite, ohne ihre Fesseln, könnte dies die Gelegenheit sein, ein noch größeres Ziel zu erreichen?§! "
 anq_willingness_reclamation_loc:0 "§g§YBereitschaft§! sich dem Rückgewinnungskrieg anzuschließen: §H[?ANQ_reclamation_willingness|+0]§!§!\n"
 
 ANQ_reduce_qie_influence:0 "Sabotage Qing Einfluss"
@@ -914,7 +920,7 @@ ANQ_tokyo_university_exchange_program_desc:0 "Unsere Universitäten haben in let
 ANQ_undermine_nationalist_intellectuals:0 "Nationalistische Intellektuelle untergraben" #unused
 ANQ_undermine_nationalist_intellectuals_desc:0 "Nationalistische Intellektuelle sorgen weiterhin für Ärger. Täglich werden neue Aufsätze veröffentlicht, in denen unsere Außenpolitik und unsere Beziehungen zu Japan kritisiert werden. Es ist offensichtlich, dass Nationalisten zu einer Pest statt zu einem Verbündeten geworden sind, und deshalb müssen wir angemessen mit ihnen umgehen. Wir sollten diese Intellektuellen durch persönliche Angriffe oder andere notwendige Mittel einschüchtern, um zu verhindern, dass sich ihre Worte verbreiten."
 ANQ_undermine_anticoncessionist_movement:0 "Anti-Konzessionisten untergraben"
-ANQ_undermine_anticoncessionist_movement_desc:0 "Während die Anti-Konzessions-Bewegung ein unglaublich wertvoller Verbündeter war und sich als entscheidend für unseren Sieg über die Nanjing-Clique erwies, radikalisieren ihre Mitglieder weiterhin die Dynamik der Bewegung und nutzen sie gegen unsere Interessen. Wir müssen auf subtile Weise beginnen, die Bewegung zu untergraben, Mittel zu pflanzen und größere Manifestationen zu verhindern."
+ANQ_undermine_anticoncessionist_movement_desc:0 "Während die Anti-Konzessions-Bewegung ein unglaublich wertvoller Verbündeter war und sich als entscheidend für unseren Sieg über die Nanjing-Clique erwies, radikalisieren ihre Mitglieder weiterhin die Dynamik der Bewegung und nutzen sie gegen unsere Interessen. Wir müssen auf subtile Weise beginnen, die Bewegung zu untergraben, Mittel zu pflanzen und größere Manifestationen zu verhindern..."
 ANQ_republican_focus:0 "Glaubwürdigkeit der Republikaner"
 ANQ_republican_focus_desc:0 "[getanqrepublicanfocus]"
 anq_republican_focus_profengtian:0 "Anstatt unsere Beziehung zu den Japanern zu verteidigen, werden wir uns so weit wie möglich auf die Glaubwürdigkeit konzentrieren, die sich aus unserer Anerkennung der Regierung Fengtian als wahre Republik China ergibt. Die Xinhai-Revolution ist nach wie vor unglaublich beliebt und war Fengtians Hauptanspruch auf Legitimität. Wir müssen uns auch auf diesen Aspekt konzentrieren, um Glaubwürdigkeit für unsere Regierung zu schaffen."
@@ -988,7 +994,7 @@ anq.7.a:0 "Erkläre der Liga den Krieg"
 anq_pp_note:0 "§Die engsten Berater von Chen Tiaoyuan haben den Gouverneur darauf aufmerksam gemacht, dass der Krieg einen Großteil unserer Regierung und Wirtschaft zerstören wird und dass Anqing, selbst wenn wir gewinnen, mit vielen Problemen zu kämpfen haben wird. Diese Probleme erfordern einen starken politischen Willen, daher raten sie, vorsichtig mit unseren politischen Ressourcen umzugehen und für diese schwierigen Zeiten zu sparen.§!\n"
 
 anq.8.t:0 "Wu Peifu überdenkt seine Position"
-anq.8.d:0 "Wu Peifu, der wahrscheinlich von unseren Verbindungen nach Tokio erfahren hat, hat sich an seine ursprüngliche Aussage erinnert, in der er uns aufforderte, zurückzutreten und uns Nanjing zu ergeben. Er bietet jetzt die volle Unterstützung, die seine Regierung leisten kann, und lobt [ANQ.GetLeader] für sein entschlossenes Handeln in Chinas Notzeit. Um seine Worte zu bekräftigen, hat er auch den Transfer von Gold und Waffen nach Anqing genehmigt, wobei weitere auf dem Weg sind, wenn wir Wus Angebot annehmen und jeglichen Kontakt mit Tokio abbrechen."
+anq.8.d:0 "Wahrscheinlich hat Wu Peifu, nachdem er von unseren Verbindungen nach Shenyang und Tokio erfahren hat, seine ursprüngliche Forderung, dass wir uns zurückziehen und vor Nanjing kapitulieren, zurückgenommen. Er bietet nun seine volle Unterstützung an und lobt [ANQ.GetLeader] für sein entschlossenes Handeln in Chinas Notzeit. Um seine Worte zu bekräftigen, hat auch er den Transfer von Gold und Waffen nach Anqing genehmigt, und es wird noch mehr kommen, wenn wir sein Angebot annehmen und jeden Kontakt mit der Regierung in Fengtian und Tokio abbrechen."
 anq.8.a:0 "Wer sagt, dass er uns kein zweites Mal verraten wird?"
 anq.8.b:0 "Wir sind dankbar für seine Unterstützung"
 
@@ -1743,7 +1749,8 @@ anq.175.d6:0 "Es gibt viele Faktoren, die uns gegen den Beitritt zum Reklamation
 anq.175.d7:0 "Aufgrund der Umstände wurden wir bereits mit [QIE.GetNameDef] in den Krieg hineingezogen. Als solches haben wir keine andere Wahl, als uns voll und ganz dem Reklamationskrieg zu widmen und Fengtian beizutreten, weil wir allein keine Chance gegen [QIE.GetNameDef] haben. Lasst uns den Weg nach Peking finden und ihre Herrschaft über China beenden."
 anq.175.a:0 "Verpflichte dich zum Reklamationskrieg."
 anq.175.b:0 "Fengtian aufgeben."
-anq_reclamation_credibility_not_enough:0 "\nLeider haben wir zu wenig Glaubwürdigkeit, um als separate nationale Regierung allein zu stehen, und sind daher zu sehr von Fengtian abhängig. Infolgedessen können wir es uns nicht leisten, ihre Unterstützung zu verlieren, und sind gezwungen, uns ihrem Reklamationskrieg anzuschließen."
+anq.175.c:0 "Verlassen Sie Fengtian und tragen Sie die Konsequenzen."
+anq_reclamation_credibility_not_enough:0 "\nLeider haben wir zu wenig Glaubwürdigkeit, um als eigenständige nationale Regierung zu bestehen und sind daher zu sehr auf Fengtian angewiesen. Daher können wir es uns nicht leisten, ihre Unterstützung zu verlieren, und es wird zu schlimmen Konsequenzen führen, wenn wir nicht an ihrem Rückgewinnungskrieg teilnehmen."
 anq_reclamation_credibility_enough:0 "\nZum Glück hat unsere Regierung, auch unter Verwendung der Argumente gegen den Reklamationskrieg, genug Glaubwürdigkeit, um getrennt von der Fengtian-Regierung zu stehen und die Teilnahme abzulehnen. Dies wird uns zwingen, entweder unseren eigenen Anspruch auf nationale Führung zu erheben oder eine andere Partei zur Unterstützung zu suchen. "
 
 anq.176.t:0 "Shandong-Übergabe an Fengtian"
@@ -1752,7 +1759,7 @@ anq.176.a:0 "Sehr gut."
 
 anq.177.t:0 "Fengtian bricht Verbindung ab"
 anq.177.d1:0 "Aufgrund unserer Entscheidung, nicht an Fengtians Reklamatinskrieg zur Eroberung Pekings teilzunehmen, haben sie die Verbindung zu uns abgebrochen und uns als eine weitere Regierung von Kriegsherren bezeichnet. Das ist bedauerlich, war aber zu erwarten. Wir müssen uns jetzt darauf verlassen, dass Chinas Zukunft gesichert ist, und wir müssen genau beobachten, was sowohl im Norden als auch im Süden passiert."
-anq.177.d2:0 ""Aufgrund unserer Entscheidung, nicht an Fengtians Reklamatinskrieg zur Eroberung Pekings teilzunehmen, haben sie die Verbindung zu uns abgebrochen und uns als eine weitere Regierung von Kriegsherren bezeichnet. Sie haben auch alle verbleibenden Wiederaufbauhilfen gestrichen. Das ist bedauerlich, war aber zu erwarten. Wir müssen uns jetzt darauf verlassen, dass Chinas Zukunft gesichert ist, und wir müssen genau beobachten, was sowohl im Norden als auch im Süden passiert."
+anq.177.d2:0 "Aufgrund unserer Entscheidung, nicht an Fengtians Reklamatinskrieg zur Eroberung Pekings teilzunehmen, haben sie die Verbindung zu uns abgebrochen und uns als eine weitere Regierung von Kriegsherren bezeichnet. Sie haben auch alle verbleibenden Wiederaufbauhilfen gestrichen. Das ist bedauerlich, war aber zu erwarten. Wir müssen uns jetzt darauf verlassen, dass Chinas Zukunft gesichert ist, und wir müssen genau beobachten, was sowohl im Norden als auch im Süden passiert."
 anq.177.a:0 "Es ist wie es ist"
 
 anq.178.t:0 "Fengtian toleriert Nichtteilnahme"
@@ -1788,6 +1795,41 @@ anq.183.a:0 "Gute Nachrichten."
 anq.213.t:0 "Anerkennung der Regierung von Fengtian"
 anq.213.d:0 "Nachdem der Ligakrieg zu unseren Gunsten beendet ist, haben wir keine andere Wahl, als das letzte Stück des Abkommens mit Fengtian zu erfüllen. Wir müssen vorwärts gehen und der Welt offiziell verkünden, dass wir Fengtian als offizielle nationale Regierung Chinas anerkennen. Dies wird sich als bedeutende Veränderung innerhalb Chinas erweisen und mit ziemlicher Sicherheit das sorgfältige Gleichgewicht weiter stören, das den Frieden zwischen den verschiedenen Staaten bis zum Zusammenbruch der Liga aufrechterhielt."
 anq.213.a:0 "Geben Sie die Erklärung ab."
+
+anq.214.t:0 "Anqing bricht mit Fengtian"
+anq.214.d:0 "Es scheint, dass die Spaltung zwischen Anqing und Fengtian schließlich zu einer unvermeidlichen Abspaltung geführt hat. Es ist nur eine Frage der Zeit, bis sich diese Spaltung in einen ausgewachsenen Konflikt auf dem Schlachtfeld verwandelt. Davon abgesehen, müssen wir uns immer noch überlegen, wie wir mit unserer früheren Investition in Anqing umgehen. Chen hat sich als würdiger Verbündeter erwiesen, nicht nur durch seine feindselige Haltung gegen [QIE.GetName] und Deutschland, sondern auch als effektiver Gegenpart, um die wachsende Stärke von Fengtian auszugleichen. \nSollen wir unsere Zusammenarbeit mit Anqing fortsetzen?"
+anq.214.a:0 "Dies ist zu riskant, ziehen Sie sich jetzt zurück."
+anq.214.b:0 "Behalten Sie den Status quo bei, Chen ist immer noch nützlich."
+
+anq.215.t:0 "Die unvermeidliche Trennung"
+anq.215.d:0 "Trotz unserer Verhandlungsbemühungen bleiben die Verbindungen zwischen Anqing und Fengtian gekappt; die zerbrechliche Allianz ist endgültig zu einem Ende gekommen. Die veränderte Situation in China lässt unsere Zukunft ungewiss."
+anq.215.a:0 "Mehr können wir nicht tun."
+
+anq.216.t:0 "Die Spaltung reparieren"
+anq.216.d:0 "Mit unseren Bemühungen bei den Verhandlungen ist die Spaltung zwischen Anqing und Fengtian endlich zu einem Ende gekommen. Diese Beziehung mag brüchig sein, aber zumindest für den Moment werden wir zusammenstehen und gegen einen gemeinsamen Feind kämpfen."
+anq.216.a:0 "Großartig"
+
+anq.217.t:0 "Aussöhnung mit Fengtian"
+anq.217.d:0 "Obwohl Fengtian uns in unserem Krieg gegen Shandong verraten hatte, sind wir immer noch in einer schlimmen, isolierten Situation und könnten ihre Hilfe gebrauchen. Der Generalstab und die Gouverneure haben tagelang über diese Frage debattiert, aber sie konnten sich nicht einigen. Die Last der Entscheidung liegt allein auf Chen Tiaoyuan, als ob er den ganzen bröckelnden Berg Tai tragen würde. Die Zeit ist gekommen, in der er die Würfel des Schicksals noch einmal werfen muss."
+anq.217.a:0 "Behalten Sie Shandong als unseren Preis, mal sehen, ob sie ihn annehmen werden."
+anq.217.b:0 "Geben Sie Shandong im Austausch für andere Lieferungen auf."
+anq.217.c:0 "Vergessen Sie es, wir werden nicht mit Verrätern verhandeln."
+
+anq.218.t:0 "Anqing's Vorschlag"
+anq.218.d0:0 "Chen Tiaoyuan schickte heute früh ein Telegramm an uns, in dem er seinen Wunsch äußerte, sich mit unserer gerechten Sache zu versöhnen. Allerdings verlangte er die volle Kontrolle über Shandong als Gegenleistung dafür, dass er uns als die einzige legitime Regierung in China anerkennt. Shandong hätte eine strategische Hochburg für unsere Expedition gegen die [QIE.GetName] sein können, aber die eigentliche Frage ist, ob wir ihm vertrauen können. Wir sollten seinen Vorschlag ernsthaft in Betracht ziehen, da seine Hilfe in unseren zukünftigen Kriegen den Unterschied ausmachen könnte."
+anq.218.d1:0 "Chen Tiaoyuan schickte heute früh ein Telegramm an uns, in dem er seinen Wunsch äußerte, sich mit unserer gerechten Sache zu versöhnen. Er machte ein sehr verlockendes Angebot, das wir nicht ablehnen können, und versprach, dass er mit unserer politischen und militärischen Unterstützung seine Kontrolle in Shandong an uns abtreten würde. Shandong könnte ein wichtiger strategischer Stützpunkt für unsere Expedition gegen die [QIE.GetName] sein, sollen wir das Angebot annehmen? Wir sollten seinen Vorschlag ernsthaft in Betracht ziehen, da seine Hilfe in unseren zukünftigen Kriegen den Unterschied ausmachen könnte."
+anq.218.a:0 "Nur ein Freund in Not, willkommen zurück."
+anq.218.b:0 "Bieten Sie andere Unterstützung im Austausch für Shandong an."
+anq.218.c:0 "Vergessen Sie es, er ist nicht vertrauenswürdig."
+
+anq.219.t:0 "Unsere endgültige Entscheidung"
+anq.219.d0:0 "Zu unserem Erstaunen hat Fengtian unserer Forderung zugestimmt, unsere Kriegsgewinne zu behalten. Das ist ein sehr verlockendes Angebot. Einige hartnäckige Offiziere warnen immer noch vor einem nicht näher spezifizierten zukünftigen Verrat, aber sollen wir in Anbetracht von Fengtians Angebot einfach die Vergangenheit vergessen und uns erneut mit Zhang Zuolin verbünden?"
+anq.219.d1:0 "Fengtian hat sich geweigert, uns die Kontrolle über Shandong zu überlassen, bietet aber im Gegenzug materielle Hilfe an. Das ist nicht ideal, aber mit wenigen Verbündeten und einer feindlichen Regierung in Peking haben wir keine große Wahl. Einige hartnäckige Offiziere warnen immer noch vor einem nicht näher spezifizierten zukünftigen Verrat, aber sollen wir in Anbetracht der Situation einfach die Vergangenheit vergessen und uns erneut mit Zhang Zuolin verbünden?"
+anq.219.a:0 "Akzeptieren Sie, dass es die einzige Möglichkeit ist."
+anq.219.b:0 "Wundervoll!"
+anq.219.c:0 "Wir können ihnen nicht trauen"
+
+
 
 anq.231.t:0 "Anqing bricht mit Fengtian"
 anq.231.d:0 "Die Clique von Anqing hat offiziell alle Beziehungen zu Fengtian abgebrochen und sie dabei angeprangert. Der Führer der Clique von Anqing, Chen Tiaoyuan, hat öffentlich erklärt, dass [FNG.GetLeader] nicht vertrauenswürdig sei und dass [FNG.GetName] einen Rückschritt für China darstelle. Er hat nicht genau gesagt, warum die Beziehungen abgebrochen sind, aber höchstwahrscheinlich konnte [FNG.GetName] die Autonomie von Anqing nicht mehr garantieren oder hat in der Frage des Anti-Konzessionismus zu viele Kompromisse gemacht. Chen Tiaoyuan hat nicht angedeutet, ob er andere Anwärter auf die nationale Regierung unterstützen wird, was bedeutet, dass die Anqing-Clique zumindest vorübergehend allein dasteht."

@@ -1,43 +1,35 @@
 ﻿l_german:
-### Übersetzt von Proho ### 
+###  Übersetzt von Proho  ### 
 WLL_focus:0 "Wallonien Schwerpunkt Baum"
 WLL_focus_blank:0 "Wallonien Schwerpunkt Baum"
 
 ### Parties ###
-WLL_social_conservative_party:0 "DC"
-WLL_social_conservative_party_long:0 "Christliche Demokraten"
-WLL_market_liberal_party:0 "PL"
-WLL_market_liberal_party_long:0 "Liberale Partei"
+WLL_totalist_party:0 "PTW"
+WLL_totalist_party_long:0 "Totalitäre Partei der Wallonie"
+WLL_syndicalist_party:0 "POB"
+WLL_syndicalist_party_long:0 "Belgische Arbeiter Partei"
+WLL_radical_socialist_party:0 "POB"
+WLL_radical_socialist_party_long:0 "Belgische Arbeiter Partei"
+WLL_social_democrat_party:0 "POB"
 WLL_social_democrat_party:0 "POB"
 WLL_social_democrat_party_long:0 "Belgische Arbeiter Partei"
 WLL_social_liberal_party:0 "PLP"
-WLL_social_liberal_party_long:0 "Liberal-progressive Parteien"
-WLL_syndicalist_party:0 "POB"
-WLL_syndicalist_party_long:0 "Belgische Arbeiter Partei"
-WLL_totalist_party:0 "PTW"
-WLL_totalist_party_long:0 "Totalitäre Partei der Wallonie"
-WLL_national_populist_party:0 "REX"
-WLL_national_populist_party_long:0 "REX"
+WLL_market_liberal_party:0 "PL"
+WLL_market_liberal_party_long:0 "Liberale Partei"
+WLL_social_conservative_party:0 "DC"
+WLL_social_conservative_party_long:0 "Demokratische Christen"
+WLL_authoritarian_democrat_party_long:0 "Royalisten"
+WLL_authoritarian_democrat_party:0 "Unterstützer des Königs"
 WLL_paternal_autocrat_party:0 "REX"
 WLL_paternal_autocrat_party_long:0 "REX"
-WLL_authoritarian_democrat_party_long:0 "Royalisten"
-WLL_authoritarian_democrat_party:0 "Anhänger des Königs"
+WLL_national_populist_party:0 "REX"
+WLL_national_populist_party_long:0 "REX"
 
 ### Tooltips ###
+WLL_constitution_monarchist:0 "If §H$WLL_Appoint_Royal_Councillor$§! wurde abgeschlossen:"
+WLL_constitution_socialist:0 "If §H$WLL_Invite_The_Socialists$§! wurde abgeschlossen:"
+WLL_constitution_catholic:0 "If §H$WLL_Invite_The_Catholics$§! wurde abgeschlossen:"
 
-Government_Failed:0 "Die Regierung ist gescheitert!"
-Monarchy_Restored:0 "Die Monarchie wurde wiederhergestellt"
-Absolutism:0 "Adelbert regiert Absolut"
-Constitutional_Monarchy:0 "Rückkehr der konstitutionellen Monarchie"
-Republic_Established:0 "Die Republik wurde gegründet"
-Syndicalist_Victory:0 "Die Syndikalisten gewinnen die Wahl!"
-GERMANS_LEFT:0 "Deutsche Bürger gehen weg"
-Totalist_Coup:0 "Totalisten haben die Kontrolle übernommen"
-LIB_VIC:0 "PL Sieg"
-SOC_PRES:0 "Fernand Dehousse führt das POB"
-SYND_CHAIR:0 "Lucie Dujardin führt das POB"
-
-wll.CON.tt:0 "\n§GUnsere Wahl der Regierung hat direkten Einfluss auf unsere Verfassung §!\n\n"
 wll.GOV.tt:0 "\n§GUnsere Regierung wird durch die Wahl des Koalitionspartners bestimmt §!\n\n"
 
 Georges_Prosper_Remi:0 "Georges Prosper Remi"
@@ -64,8 +56,6 @@ WLL_Republic_Chant_Des_Wallons:0 "Das Lied der Wallonen"
 WLL_German_Support:0 "Verlorene deutsche Unterstützung"
 
 WLL_REX:0 "Schwacher Zugriff"
-WLL_REX_SOC:0 "Syndikalisten besiegt"
-WLL_REX_ROY:0 "König im Abseits"
 WLL_REX_BOTH:0 "Konsolidierte Macht"
 WLL_REX_CORP:0 "Rexistischer Korporatismus"
 WLL_REX_MIL:0 "Militär Propaganda"
@@ -290,7 +280,7 @@ wll.711.d:0 "Tausende haben sich vor dem höchsten Gericht Walloniens versammelt
 wll.711.a:0 "Hoffentlich bedeutet dies ein Ende von REX."
 
 wll.712.t:0 "Rexisten-Putsch"
-wll.712.d:0 "Angestachelt durch die ungerechte Verurteilung von Degrelle und die Härte seiner Strafe, strömten immer mehr Anhänger zum Banner der Rexisten. Am Sonntagabend, als die meisten Regierungsbehörden geschlossen waren, starteten Militärputschisten einen pro-rexistischen Putsch, holten den Premierminister aus dem Bett und eroberten viele wichtige Militäreinrichtungen. Von seinen Anhängern befreit, erklärte Degrelle den Beginn einer neuen rexistischen Ära und begleitete seine Truppen persönlich, um die letzten verbliebenen Regierungshochburgen einzunehmen. Als am nächsten Tag die Sonne aufging, hatte REX seine Putschziele erfüllt und die volle Kontrolle über den Staat übernommen."
+wll.712.d:0 "Angestachelt durch die ungerechte Verurteilung von Degrelle und die Härte seiner Strafe, strömten immer mehr Anhänger zum Banner der Rexisten. Am Sonntagabend, als die meisten Regierungsbehörden geschlossen waren, starteten Militärputschisten einen pro-rexistischen Putsch, holten den Premierminister aus dem Bett und eroberten viele wichtige Militäreinrichtungen. Von seinen Anhängern befreit, hat Degrelle den Beginn einer neuen rexistischen Ära ausgerufen, als seine Truppen die letzten verbliebenen Regierungshochburgen einnahmen. Als am nächsten Tag die Sonne aufging, hatte REX seine Putschziele erfüllt und die volle Kontrolle über den Staat übernommen."
 wll.712.a:0 "Eine neue Ära steht bevor!"
 
 #Downfall of Degrelle
@@ -550,8 +540,8 @@ WLL_Hold_The_First_Party_Congress_desc:0 "Die Revolution ist in vollem Gange und
 
 WLL_The_Government_Has_Failed:0 "Die Regierung ist gescheitert"
 WLL_The_Government_Has_Failed_desc:0 "Die erbärmliche Ausrede einer Regierung ist endlich gestürzt und wurde durch eine starke und zentralisierte Regierung um Degrelle ersetzt."
-WLL_Sideline_The_King:0 "Den König ausschalten"
-WLL_Sideline_The_King_desc:0 "Die Macht des Königs sollte stark beschnitten werden, da sich seine ständige Einmischung in Regierungsangelegenheiten als schädlich für unsere Stabilität erwiesen hat."
+WLL_Sideline_The_King:0 "Kontrolle Parlament"
+WLL_Sideline_The_King_desc:0 "Die Macht des Parlaments sollte stark beschnitten werden, da sich seine ständige Einmischung in Regierungsangelegenheiten als schädlich für unsere Stabilität erwiesen hat."
 WLL_Replace_The_Ambassador_To_Germany:0 "Ersetzen Sie unseren Botschafter in Deutschland"
 WLL_Replace_The_Ambassador_To_Germany_desc:0 "Um unseren Politikwechsel weiter zu skizzieren, wird der Botschafter in Deutschland abberufen und durch einen engen Freund von Degrelle ersetzt."
 WLL_The_Revolution_Has_Failed:0 "Die Revolution ist gescheitert"

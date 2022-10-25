@@ -7,39 +7,58 @@ mie.0.d:0 "Russlands jahrzehntelanger Niedergang ist vorüber und die Russen beg
 mie.0.a:0 "Großartig!"
 
 MIE_decisions:0 "Osteuropäische Verteidigungskooperation"
-MIE_decisions_desc:0 "[RUS.GetNameDefCap] wurde wieder aufgebaut-und die Souveränität der osteuropäischen Staaten ist bedroht. Wenn der Zweite Weltkrieg beginnt, werden wir uns gegen den russischen Ansturm behaupten müssen-und wenn wir nicht zusammenarbeiten, werden wir einer nach dem anderen untergehen.\n\n Nachdem [RUS.GetNameDef] seinen Außenpolitik-Fokusbaum freischaltet,erhalten alle östlichen Mitglieder des Reichspakts die Fähigkeit, §YRessourcen zusammenzulegen§! und sie unter den Mitgliedsstaaten zu verteilen, um Schwachstellen auszumerzen. Die Nation, die für die Verteilung der Ressourcen verantwortlich ist, kann in andere Mitgliedsstaaten investieren, um §YBefestigungen zu bauen§!, §YDivisionen auszuheben§! und vorteilhafte §YNationalgeister§! zu verteilen.\n\nDerzeit gesammelte Ressourcen:\n    £rifle_texticon  Infanterieausrüstung: §Y[?global.MIE_infantry_equipment]§!\n    £support_texticon  Zusatzausrüstung: §Y[?global.MIE_support_equipment]§!\n    £unit_artillery_icon_small  Artillerie: §Y[?global.MIE_artillery_equipment]§!\n\n[MIE_leader.GetNameWithFlag] ist derzeit dafür verantwortlich, die Ressourcen zu verteilen."
+MIE_decisions_desc:0 "[219.owner.GetNameDefCap] wurde wieder aufgebaut - und die Souveränität der osteuropäischen Staaten ist bedroht. Wenn der Zweite Weltkrieg beginnt, werden wir uns gegen den russischen Ansturm behaupten müssen-und wenn wir nicht zusammenarbeiten, werden wir einer nach dem anderen untergehen.\n\n Nachdem [RUS.GetNameDef] seinen Außenpolitik-Fokusbaum freischaltet,erhalten alle östlichen Mitglieder des Reichspakts die Fähigkeit, §YRessourcen zusammenzulegen§! und sie unter den Mitgliedsstaaten zu verteilen, um Schwachstellen auszumerzen. Die Nation, die für die Verteilung der Ressourcen verantwortlich ist, kann in andere Mitgliedsstaaten investieren, um §YBefestigungen zu bauen§!, §YDivisionen auszuheben§! und vorteilhafte §YNationalgeister§! zu verteilen.\n\nDerzeit gesammelte Ressourcen:\n    £rifle_texticon  Infanterieausrüstung: §Y[?global.MIE_infantry_equipment]§!\n    £support_texticon  Zusatzausrüstung: §Y[?global.MIE_support_equipment]§!\n    £unit_artillery_icon_small  Artillerie: §Y[?global.MIE_artillery_equipment]§!\n\n[MIE_leader.GetNameWithFlag] ist derzeit dafür verantwortlich, die Ressourcen zu verteilen."
 
-MIE_spend_guns:0 "Sende 1000 £rifle_texticon  Infanterieausrüstung"
-MIE_1000_guns:0 "£rifle_texticon §H1000§!"
-MIE_1000_guns_blocked:0 "£rifle_texticon §R1000§!"
-MIE_spend_support_eq:0 "Sende 250 £support_texticon  Zusatzausrüstung"
-MIE_spend_artillery:0 "Sende 250 £unit_artillery_icon_small  Artillerie"
+MIE_spend_guns:0 "Sendet 1000 £rifle_texticon  Infanterieausrüstung"
+MIE_spend_support_eq:0 "Sendet 250 £support_texticon  Zusatzausrüstung"
+MIE_spend_artillery:0 "Sendet 250 £unit_artillery_icon_small  Artillerie"
 
-MIE_invest_guns:0 "Investiere 500 £rifle_texticon  Infanterieausrüstung"
-MIE_invest_support_eq:0 "Investiere 150 £support_texticon  Zusatzausrüstung"
-MIE_invest_artillery_eq:0 "Investiere 250 £unit_artillery_icon_small  Artillerie"
+MIE_invest_guns:0 "Investiert 500 £rifle_texticon  Infanterieausrüstung"
+MIE_invest_support_eq:0 "Investiert 150 £support_texticon  Zusatzausrüstung"
+MIE_invest_artillery_eq:0 "Investiert 250 £unit_artillery_icon_small  Artillerie"
+
 MIE_500_guns:0 "£rifle_texticon  §H500§!"
 MIE_500_guns_blocked:0 "£rifle_texticon  §R500§!"
+MIE_500_guns_tooltip:0 "Es kostet $MIE_500_guns_blocked$, diese Entscheidung zu treffen."
+
+MIE_1000_guns:0 "£rifle_texticon §H1000§!"
+MIE_1000_guns_blocked:0 "£rifle_texticon §R1000§!"
+MIE_1000_guns_tooltip:0 "Es kostet $MIE_1000_guns_blocked$, diese Entscheidung zu treffen."
+
+MIE_5000_guns:0 "£rifle_texticon §H5000§!"
+MIE_5000_guns_blocked:0 "£rifle_texticon §R5000§!"
+MIE_5000_guns_tooltip:0 "Es kostet $MIE_1000_guns_blocked$, diese Entscheidung zu treffen."
 
 MIE_150_supporteq:0 "£support_texticon  §H150§!"
 MIE_150_supporteq_blocked:0 "£support_texticon  §R150§!"
+MIE_150_supporteq_tooltip:0 "Es kostet $MIE_150_supporteq_blocked$, diese Entscheidung zu treffen."
 
 MIE_250_supporteq:0 "£support_texticon  §H250§!"
 MIE_250_supporteq_blocked:0 "£support_texticon  §R250§!"
+MIE_250_supporteq_tooltip:0 "Es kostet $MIE_250_supporteq_blocked$, diese Entscheidung zu treffen."
 
 MIE_250_artilleryeq:0 "£unit_artillery_icon_small  §H250§!"
 MIE_250_artilleryeq_blocked:0 "£unit_artillery_icon_small  §R250§!"
+MIE_250_artilleryeq_tooltip:0 "Es kostet $MIE_250_artilleryeq_blocked$, diese Entscheidung zu treffen."
 
-MIE_build_forts_in_whr:0 "Der Ostwall"
 MIE_2000_guns_1000_sup_1000_art:0 "£rifle_texticon  §H2000§! £support_texticon §H1000§!  £unit_artillery_icon_small  §H1000§!"
 MIE_2000_guns_1000_sup_1000_art_blocked:0 "£rifle_texticon  §R2000§!  £support_texticon §R1000§!  £unit_artillery_icon_small  §R1000§!"
+MIE_2000_guns_1000_sup_1000_art_tooltip:0 "Es kostet $MIE_2000_guns_1000_sup_1000_art_blocked$, diese Entscheidung zu treffen."
+
+MIE_1000_sup:0 "£support_texticon  §H1000§!"
+MIE_1000_sup_blocked:0 "£support_texticon  §R1000§!"
+MIE_1000_sup_tooltip:0 "Es kostet $MIE_1000_sup_blocked$, diese Entscheidung zu treffen."
+
+MIE_1500_sup:0 "£support_texticon  §H1500§!"
+MIE_1500_sup_blocked:0 "£support_texticon  §R1500§!"
+MIE_1500_sup_tooltip:0 "Es kostet $MIE_1000_sup_blocked$, diese Entscheidung zu treffen."
+
+MIE_build_forts_in_whr:0 "Der Ostwall"
 mie.1.t:0 "Osteuropäische Kooperation"
 mie.1.d:0 "[MIE_leader.GetNameDefCap] hat sich dazu entschieden, einen Teil unserer gemeinschaftlichen Verteidigungsausgaben für Befestigungen an unserer russischen Grenze auszugeben. Diese Befestigungen wurden nun fertiggestellt und sind bereit, bemannt zu werden."
 mie.1.a:0 "Großartig!"
 
 MIE_joint_offensive_exercises:0 "Gemeinsames Militär-Training"
-MIE_1000_sup:0 "£support_texticon  §H1000§!"
-MIE_1000_sup_blocked:0 "£support_texticon  §R1000§!"
 mie.2.t:0 "Osteuropäische Kooperation"
 mie.2.d:0 "[MIE_leader.GetNameDefCap] hat sich dazu entschieden, einen Teil unserer gemeinschaftlichen Verteidigungsausgaben für die Organisation einer gemeinsamen Militärübung der osteuropäischen Staaten zu nutzen. Generäle, die auf Offensive und Panzer spezialisiert sind, haben einen Angriff auf feindliche Truppen simuliert und untereinander Tipps und Tricks ausgetauscht."
 mie.2.a:0 "Großartig!"
@@ -82,8 +101,6 @@ mie.8.a:0 "Großartig!"
 
 MIE_air_command_2:0 "Integrierte Flugzeuge"
 MIE_joint_air_command:0 "Gemeinsames Osteuropäisches Luftabwehrkommando"
-MIE_1500_sup:0 "£support_texticon  §H1500§!"
-MIE_1500_sup_blocked:0 "£support_texticon  §R1500§!"
 mie.9.t:0 "Osteuropäische Kooperation"
 mie.9.d:0 "[MIE_leader.GetNameDefCap] hat sich dazu entschieden, einen Teil unserer gemeinschaftlichen Verteidigungsausgaben zu nutzen, um ein offizielles gemeinsames Luftabwehrkommando der osteuropäischen Staaten zu etablieren. Dies wird die Flugzeuge aller Mitgliedsstaaten in eine übergreifende Struktur integrieren, was eine bessere Kooperation und dadurch auch die Kontrolle des Himmels ermöglicht."
 mie.9.a:0 "Großartig!"
@@ -94,8 +111,6 @@ mie.10.d:0 "[MIE_leader.GetNameDefCap] hat sich dazu entschieden, einen Teil uns
 mie.10.a:0 "Großartig!"
 
 MIE_international_tank_division:0 "Internationale Panzerdivision"
-MIE_5000_guns:0 "£rifle_texticon  §H5000§!"
-MIE_5000_guns_blocked:0 "£rifle_texticon  §R5000§!"
 MIE_transferable_armored_division_tt:0 "Diese gepanzerte Division wird zwischen den osteuropäischen Staaten transferiert, wenn sich die Nation, die für die Ressourcenverteilung verantwortlich ist, ändert."
 mie.11.t:0 "Osteuropäische Kooperation"
 mie.11.d:0 "[MIE_leader.GetNameDefCap] hat sich dazu entschieden, einen Teil unserer gemeinschaftlichen Verteidigungsausgaben zu nutzen, um eine internationale Panzerdivison, bestehend aus Freiwilligen aller osteuropäischen Länder, zu erschaffen. Während [MIE_leader.GetNameDef] die Division in seine Armee integrieren wird, wird sie von Staat zu Staat transferiert, sollte der derzeitige Eigentümer fallen."

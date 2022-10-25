@@ -15,10 +15,7 @@ POLITICS_MARCEL_DEAT_DESC:0 "Marcel Déat hat das politische System der Kommunar
 
 ### Tooltips ###
 FRA_ongoing_phalanstere_development:0 "§YHilft bei der Entwicklung eines anderen Landes.§!"
-FRA_sxtnreserve_tt:0 "Sechzehn Reserve-Divisionen werden aufgestellt."
 CAF_redeagles_tt:0 "Neue freiwillige Piloten und Flugzeuge werden eintreffen."
-FRA_nfadivs_tt:0 "Anti-Jakobinische Divisionen werden unter unserem Banner im metropolitanen Frankreich entstehen."
-FRA_sorelian_economy_tooltip:0 "§YSie erhalten 4 Infanteriedivisionen in Paris§!\n"
 FRA_tank_division_tooltip:0 "Drei £nato_unit_light_armor_icon_small  §HLeichten Panzer§! Divisionen werden eingesetzt."
 
 KR_phalanstere_tooltip:0 "§H[GetPhalanstereName]§!"
@@ -39,7 +36,7 @@ FRA_all_but_sudan_volta:0 "§HTschad§!, §HGuinea§!, §HMauretanien§!, §HNig
 FRA_all_but_chad_niger:0 "§HFranzösisch Sudan§!, §HGuinea§!, §HMauretanien§!, §HTunesien§!, §HObervolta§!"
 
 FRA_wave_of_dissent:0 "Welle der Unzufriedenheit"
-FRA_wave_of_dissent_tooltip:0 "Verstärkung §H$FRA_wave_of_dissent$§! für §H200§! Tage, die gewährt (Wachstum des Widerstands: [?2|-=%0], Täglicher Konformitätszuwachs: [?0.02|-=%])."
+FRA_wave_of_dissent_tooltip:0 "Gewinnt §H$FRA_wave_of_dissent$§! für §H200§! Tage, das gewährt (Widerstandswachstum: [?2|- = %0], Täglicher Konformitätsgewinn: [?0.02|- = %])."
 
 ### Ideas ###
 FRA_communard_spirit:0 "Kommunarder Geist"
@@ -548,12 +545,6 @@ comfrance.22.t:0 "Kamarad Blum's Aufruf zur Solidarität mit Spanien"
 comfrance.22.d:0 "Während der Bürgerkrieg die iberische Halbinsel verwüstet, stürmen Geschichten über den weißen Terror über die Pyrenäen und versetzen unsere Bevölkerung in Schrecken. Überall in der Kommune wurden spontane Versammlungen und Kongresse einberufen, um Geldmittel und Materialien für unsere spanischen Genossen zu sammeln, um die unerschütterliche Unterstützung der CNT-FAI zu zeigen.\n\n Bei einer solchen Veranstaltung hat der Travailleur-Delegierte Leon Blum eine kraftvolle Rede gehalten, in der er die Regierung aufforderte, ihre Unterstützung für die spanischen Arbeiter und Bauern fortzusetzen, indem sie sich in einer internationalen Volksfront gegen Reaktionäre und Monarchisten vereinigt. Diese "Volksfront"-Rede wurde weithin für ihre Eloquenz und solide sozialistische Überzeugung gelobt. Monsieur Blums Ruhm als öffentlicher Redner ist sicherlich verbessert worden."
 comfrance.22.a:0 "Sehr eloquent, Kamarad."
 
-comfrance.23.t.GER:0 "Ein Neues 1871"
-comfrance.23.t.RUS:0 "Ein Neues 1814"
-comfrance.23.d.GER:0 "Die Deutschen haben die Seine erreicht! Die Nation muss voll mobilisieren, um sie zu stoppen!..."
-comfrance.23.d.RUS:0 "Die Russen haben die Seine erreicht! Die Nation muss voll mobilisieren, um sie zu stoppen!..."
-comfrance.23.a:0 "Zu den Waffen, Bürger!"
-
 comfrance.25.t:0 "Das Damokles Projekt?"
 comfrance.25.d:0 "Angeregt durch die Cambridge-Konferenz, die während des Zweiten Kongresses der Internationale im Mai 1937 stattfand, fand in den letzten Wochen ein weiteres, eher geheimes Treffen an der Universität von Cambridge statt.\n\nEine Gruppe theoretischer Physiker aus Großbritannien und Frankreich unter der Leitung von Norman Feather, Frédéric Joliot-Curie und Francis Perrin erörtert die Möglichkeiten der Radioaktivität und der Kernspaltung sowie deren Einsatzmöglichkeiten - von der Stromerzeugung über medizinische Anwendungen bis hin zu leistungsfähigen strategischen Waffen. Die Teilnehmer beantragen Mittel für die Gründung des "Damokles-Projekts", eines gemeinsamen britisch-französischen Komitees für Kernforschung."
 comfrance.25.a:0 "Richten Sie das Projekt Damokles ein!"
@@ -960,6 +951,7 @@ comfrance.166.t:0 "Frankreich hat uns den Krieg erklärt!"
 comfrance.166.d:0 "Diese Bastarde haben unsere Neutralität verletzt! Wir können entweder alleine kämpfen oder mit der Hilfe der Deutschen. Wofür sollen wir uns entscheiden?"
 comfrance.166.a:0 "Haben Berlin am Telefon!"
 comfrance.166.b:0 "Wir werden alleine kämpfen!"
+comfrance.166.c:0 "Holen Sie Ottawa ans Telefon!"
 
 comfrance.167.t:0 "Frankreich hat uns den Krieg erklärt!"
 comfrance.167.d:0 "Diese Bastarde haben unsere Neutralität verletzt! Wir können entweder alleine kämpfen oder mit der Hilfe der Deutschen. Wofür sollen wir uns entscheiden?"
@@ -982,7 +974,6 @@ comfrance.1000.a:0 "Überraschend, um es vorsichtig auszudrücken."
 
 ### Decisions ###
 FRA_integration_decisions:0 "Territoriale Integration"
-FRA_integrate_state:0 "Integriere [From.GetName]"
 
 FRA_liberate_europe_category:0 "Die Befreiung Europas"
 FRA_liberate_europe_category_desc:0 "Der Sieg in Europa ist unser! Die verbliebenen Staaten der Bourgeoisie sind uns ausgeliefert und reif für die Zerstörung. Nutzen wir diese Chance, um die Revolution voranzutreiben und den großen europäischen Kontinent in unsere Festung des Sozialismus zu verwandeln."
@@ -1018,6 +1009,9 @@ FRA_Develop_South_America_desc:0 "Unsere [FROM.GetAdjective] Genossen haben bean
 
 FRA_help_SWF:0 "Unterstützung CNT-FAI"
 FRA_help_SWF_desc:0 "Die CNT taumelt am Abgrund. Wir müssen Spanien, und unsere Südgrenze, für den Sozialismus sichern."
+
+FRA_mobilise_the_reserves:0 "Mobilisierung der Reserven"
+FRA_mobilise_the_reserves_desc:0 "Trotz unserer Bemühungen scheitern wir. Wir müssen unsere Reserven mobilisieren, sonst wird die Kommune sicher fallen..."
 
 FRA_help_SOV:0 "Unterstützung der Russen"
 FRA_help_SOV_desc:0 "Die erste große sozialistische Revolution in Russland endete im Scheitern, aber eine neue Revolte ist ausgebrochen. Wir dürfen diese Gelegenheit nicht verspielen, den großen russischen Bären der Reaktion in einen überzeugten Verbündeten zu verwandeln. Lassen Sie uns die Russen unterstützen."

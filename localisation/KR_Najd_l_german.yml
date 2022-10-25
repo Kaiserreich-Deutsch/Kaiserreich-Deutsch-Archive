@@ -90,8 +90,8 @@ SAU_Ikwhan_Medina:0 "Überfallt Medina"
 SAU_Conquer_the_Imamate:0 "Marschiert in Oman ein"
 SAU_Conquer_the_Imamate_desc:0 "Die Dualität der Macht in Muscat und Oman behindert ihre Versuche, sich gegen die Ikhwan zur Wehr zu setzen, wodurch große Teile ihres Landes nur von den lokalen Anwohnern verteidigt werden. Da dem Osmanischen Reich die Kosten für Operationen in der Region zu hoch sind und das Imamat sich weigert, mit seinen Truppen zu kooperieren, bietet sich uns die Möglichkeit, in Oman & Muscat einzumarschieren, bevor sie sich gegen uns verbünden können."
 OMA_SAU_Whitepeace:0 "Weißer Frieden zwischen Muscat und Riad"
-SAU_Join_Cairo_Pact:0 "Tretet dem Kairopakt bei"
-SAU_Join_Cairo_Pact_desc:0 "Die Zeiten haben sich geändert und die einst als unbesiegbar geltenden Osmanen verlieren langsam an Stärke. Viele arabische Nationen sammeln sich nun unter dem grünen Banner Ägyptens, was für die Freiheit und den Ruhm des arabischen Volkes kämpfen will. Auch unser Emir beginnt, seine Beziehungen zur Hohen Pforte zu hinterfragen. Wir konnten die letzten Jahre schon ein wenig Freiheit auskosten...also warum nicht? Warum sollten wir sie nicht behalten?"
+SAU_Join_Cairo_Pact:0 "Dem Kairopakt beitreten"
+SAU_Join_Cairo_Pact_desc:0 "Die Zeiten haben sich geändert und die einst unaufhaltsame Kriegsmaschinerie der Osmanen verliert langsam an Dampf. Viele arabische Nationen haben sich bereits unter dem grünen Banner Ägyptens vereint, um für die Freiheit und den Ruhm aller Araber zu kämpfen. Nun hinterfragt auch unser Emir seine Beziehungen zur Hohen Pforte. In den letzten Jahren konnten wir bereits ein wenig Freiheit kosten... also warum nicht? Warum sollten wir sie nicht behalten?"
 
 ### Ideas ###
 SAU_ikh_aftermatch:0 "Unzufriedenheit der Salafi"
@@ -128,6 +128,7 @@ SAU_muslim_universities:0 "Islamische Bildung"
 SAU_muslim_universities_desc:0 "Mithilfe finanzieller Fördermittel konnten wir unsere Hochschulen expandieren."
 SAU_arabian_war_of_unification:0 "Vereinigungskrieg"
 SAU_arabian_war_of_unification_desc:0 ""
+SAU_allah_triumphant:0 "Allahs Wille hat triumphiert!"
 
 ### Focuses ###
 saudi_focus:0 "Saudischer Fokusbaum"

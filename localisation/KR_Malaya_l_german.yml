@@ -1,4 +1,15 @@
-﻿l_english:
+l_german:
+###  Übersetzt von Proho  ###
+### Leader ###
+## Yang di-Pertuan Agong
+# Johor
+POLITICS_IBRAHIM_I_JOHOR_DESC:0 ""
+
+## Republican
+POLITICS_YUSOF_BIN_ISHAK_DESC:0 ""
+
+## Leftist
+POLITICS_CHIN_PENG_DESC:0 ""
 
 ### Parties ###
 MAL_totalist_party:0 "Parti Nasionalis Sosial Malaya"
@@ -32,5 +43,5 @@ SAR_GER_subject_DEF:0 "das Königreich Sarawak"
 SAR_GER_subject_ADJ:0 "Sarawakisch"
 
 CEY_GER_subject:0 "Freistaat Ceylon"
-CEY_GER_subject_ADJ:0 "Ceylonesisch"
+CEY_GER_subject_ADJ:0 "Ceylonese"
 CEY_GER_subject_DEF:0 "Freistaat Ceylon"

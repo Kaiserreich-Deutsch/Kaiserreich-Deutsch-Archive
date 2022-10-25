@@ -1,4 +1,4 @@
-﻿l_german:
+l_german:
 ### Übersetzt von Proho ###
 austrian_focus:0 "Österreich Schwerpunktbaum"
 
@@ -171,7 +171,6 @@ CZE_leave_belgrade_pact:0 "Verlassen des [BPL.GetFactionName]" #auch verwendet v
 CZE_form_czechoslovakia:0 "Bildung Tschechoslowakei"
 GAL_unite_with_poland:0 "Vereint mit Polen"
 SER_Ultimatum_To_Illyria:0 "Ultimatum an [FROM.GetNameDef]"
-SER_Ultimatum_To_Illyria_desc:0 "Wir haben eine einfache Forderung an die \" Illyrische\" Regierung. Einheit, oder Krieg. Da wir beide bereits im Konflikt mit den Österreichern stehen, wären sie dumm, uns die Möglichkeit zu verwehren, endlich eine Union der Südslawen zu schaffen." 
 AUS_unite_with_germany:0 "Vereint mit Deutschland"
 
 ### Focuses ###
@@ -1086,7 +1085,7 @@ ausgleich.new.9000.a:0 "Sie werden zerschlagen werden, so wie Ungarn zerschlagen
 ausgleich.new.9000.b:0 "Sie werden zerquetscht."
 
 ausgleich.new.901.t:0 "[FROM.GetNameDefCap] Unterstützung anfordern"
-ausgleich.new.901.d:0 "Die Rebellion im Habsburgerreich hat wieder einmal begonnen. Österreich hat vorhersehbar versucht, den drei überwiegend slawischen Teilen seines Reiches die Kontrolle zu entreißen und dabei ignoriert, welch klägliche \"Autonomie\" es Böhmen, Illyrien und Galizien & Lodomerien gewährt hatte, die sich nun im Krieg mit ihrem ehemaligen Herrn befinden.\n\nDie Ambitionen des Belgrader Paktes, ihre rechtmäßigen Ländereien auf Österreichs Kosten wiederzuerlangen, sind kein Geheimnis, und uns wurde ein Angebot unterbreitet. In einem Brief des tschechischen Premiers [FROM.GetLeader] verspricht er, dass sowohl die tschechische als auch die galizische Regierung dem Pakt beitreten werden, wenn wir sie in diesem Krieg gegen unseren gemeinsamen Feind unterstützen. Dies mag die Österreicher früher herausfordern, als wir es sonst geplant hatten, aber wenn wir glauben, dass wir eine Chance haben, ist jetzt der Zeitpunkt, an dem wir zuschlagen müssen.\n\nDas Fehlen jeglicher Erwähnung Illyriens in diesen Verhandlungen ist bemerkenswert. Unsere südslawischen Landsleute werden sicher erkennen, dass ihre beste Hoffnung gegen die Österreicher die sofortige Vereinigung unserer Länder und Kräfte ist. Wenn nicht, werden sie bald zur Einsicht gebracht werden."
+ausgleich.new.901.d:0 "Im Habsburgerreich hat wieder ein Aufstand begonnen, und wir haben einen Aufruf zur Unterstützung der Revolutionäre in Prag und Lemberg erhalten. Da die Balkanstaaten sich dem Belgrader Pakt angeschlossen haben und offen nach der Befriedigung ihrer Gebietsansprüche auf Kosten Österreichs rufen, hat [FROM.GetLeader] angeboten, eine breite antihabsburgische Front zu bilden. Wenn wir glauben, dass wir jetzt bereit sind, Wien herauszufordern, können wir ihren Aufruf zu den Waffen annehmen und zur Unterstützung unserer slawischen Brüder marschieren!"
 ausgleich.new.901.a:0 "Das ist unsere Chance! Auf in den Krieg!"
 ausgleich.new.901.b:0 "Österreich ist zu stark..."
 
