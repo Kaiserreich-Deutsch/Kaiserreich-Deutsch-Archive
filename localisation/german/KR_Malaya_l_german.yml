@@ -1,0 +1,94 @@
+﻿l_german:
+###  Übersetzt von Proho  ###
+### Leader ###
+## Yang di-Pertuan Agong
+# Johor
+POLITICS_IBRAHIM_I_JOHOR_DESC:0 ""
+
+## Republican
+POLITICS_YUSOF_BIN_ISHAK_DESC:0 ""
+
+## Leftist
+POLITICS_CHIN_PENG_DESC:0 ""
+
+### Parties ###
+MAL_totalist_party:0 "Parti Nasionalis Sosial Malaiischa"
+MAL_totalist_party_long:0 "Parti Nasionalis Sosial Malaiischa(Malaiische Sozial-Nationalistische Partei)"
+MAL_radical_socialist_party:0 "Parti Sindikalis Malaiischa"
+MAL_radical_socialist_party_long:0 "Parti Sindikalis Malaiischa(Malaiischsische Syndikalistische Partei)"
+MAL_syndicalist_party:0 "Parti Konvensyen Pertanian"
+MAL_syndicalist_party_long:0 "Parti Konvensyen Pertanian(Agrarkonventionspartei)"
+MAL_social_democrat_party:0 "Barisan Sosialis Rakyat Malaiischa"
+MAL_social_democrat_party_long:0 "Barisan Sosialis Rakyat Malaiischa(Sozialistische Volksfront Malaiischa)"
+MAL_social_liberal_party:0 "Parti Gerakan Rakyat Malaiischsia"
+MAL_social_liberal_party_long:0 "Parti Gerakan Rakyat Malaiischsia(Partei der Malaiischsischen Volksbewegung)"
+MAL_market_liberal_party:0 "Parti Kemakmuran Negara"
+MAL_market_liberal_party_long:0 "Parti Kemakmuran Negara(Nationale Wohlstandspartei)"
+MAL_social_conservative_party:0 "Parti Tindakan Rakyat"
+MAL_social_conservative_party_long:0 "Parti Tindakan Rakyat(Volksaktionspartei)"
+MAL_authoritarian_democrat_party:0 "Perikatan"
+MAL_authoritarian_democrat_party_long:0 "Perikatan(Allianzpartei)"
+MAL_paternal_autocrat_party:0 "Majlis Sultan"
+MAL_paternal_autocrat_party_long:0 "Majlis Sultan(Rat der Sultane)"
+MAL_national_populist_party:0 "Hizbul Muslimin"
+MAL_national_populist_party_long:0 "Hizbul Muslimin(Malaiische Muslimische Volkspartei)"
+
+### Country Names ###
+ MAL:0 "Malaiischa"
+ MAL_ADJ:0 "Malaiisch"
+ MAL_DEF:0 "Malaiischa"
+
+ MAL_totalist:0 "Sozialistische Republik Malaiischa"
+ MAL_totalist_ADJ:0 "Malaiisch"
+ MAL_totalist_DEF:0 "die Sozialistische Republik Malaiischa"
+ MAL_syndicalist:0 "Sozialistische Republik Malaiischa"
+ MAL_syndicalist_ADJ:0 "Malaiisch"
+ MAL_syndicalist_DEF:0 "die Sozialistische Republik Malaiischa"
+ MAL_radical_socialist:0 "Sozialistische Republik Malaiischa"
+ MAL_radical_socialist_ADJ:0 "Malaiisch"
+ MAL_radical_socialist_DEF:0 "die Sozialistische Republik Malaiischa"
+ MAL_social_democrat:0 "Föderation von Malaiischa"
+ MAL_social_democrat_ADJ:0 "Malaiisch"
+ MAL_social_democrat_DEF:0 "die Föderation von Malaiischa"
+ MAL_social_liberal:0 "Föderation von Malaiischa"
+ MAL_social_liberal_ADJ:0 "Malaiisch"
+ MAL_social_liberal_DEF:0 "die Föderation von Malaiischa"
+ MAL_market_liberal:0 "Föderierte Staaten von Malaiischsia"
+ MAL_market_liberal_ADJ:0 "Malaiisch"
+ MAL_market_liberal_DEF:0 "die Föderierte Staaten von Malaiischsia"
+ MAL_social_conservative:0 "Föderation von Malaiischa"
+ MAL_social_conservative_ADJ:0 "Malaiisch"
+ MAL_social_conservative_DEF:0 "die Föderation von Malaiischa"
+ MAL_authoritarian_democrat:0 "Sultanat von Malaiischsia"
+ MAL_authoritarian_democrat_ADJ:0 "Malaiisch"
+ MAL_authoritarian_democrat_DEF:0 "das Sultanat von Malaiischsia"
+ MAL_paternal_autocrat:0 "Sultanat von Malaiischsia"
+ MAL_paternal_autocrat_ADJ:0 "Malaiisch"
+ MAL_paternal_autocrat_DEF:0 "das Sultanat von Malaiischsia"
+ MAL_national_populist:0 "Sultanat von Malaiischsia"
+ MAL_national_populist_ADJ:0 "Malaiisch"
+ MAL_national_populist_DEF:0 "das Sultanat von Malaiischsia"
+
+ SAR:0 "Sarawak"
+ SAR_ADJ:0 "Sarawakisch"
+ SAR_DEF:0 "Sarawak"
+
+ SAR_totalist:0 "Sozialistische Republik Sarawak"
+ SAR_totalist_ADJ:0 "Sarawakisch"
+ SAR_totalist_DEF:0 "die Sozialistische Republik Sarawak"
+ SAR_syndicalist:0 "Sozialistische Republik Sarawak"
+ SAR_syndicalist_ADJ:0 "Sarawakisch"
+ SAR_syndicalist_DEF:0 "die Sozialistische Republik Sarawak"
+ SAR_radical_socialist:0 "Sozialistische Republik Sarawak"
+ SAR_radical_socialist_ADJ:0 "Sarawakisch"
+ SAR_radical_socialist_DEF:0 "die Sozialistische Republik Sarawak"
+
+### Characters ###
+ MAL_ibrahim_i_of_johor:0 "Ibrahim I of Johor"
+ MAL_yusof_bin_ishak:0 "Yusof bin Ishak"
+ MAL_chin_peng:0 "Chin Peng"
+
+### Characters ###
+ SAR_ahmad_tajuddin:0 "Ahmad Tajuddin"
+ SAR_ong_tiang_swee:0 "Ong Tiang Swee"
+ SAR_abang_haji_abdillah:0 "Abang Haji Abdillah"

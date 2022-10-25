@@ -1,0 +1,63 @@
+﻿l_german:
+
+##Übersetzt von Thylon##
+
+### Parties ###
+VIN_totalist_party:0 "Tan Viet"
+VIN_totalist_party_long:0 "Neue Revolutionäre Partei Viet(Tan Viet Cach mang Dang)"
+VIN_radical_socialist_party:0 "Aspirationsgesellschaft"
+VIN_radical_socialist_party_long:0 "Aspirationsgesellschaft(Hoi Kin Cao vong)"
+VIN_syndicalist_party:0 "Indochinesische Revolutionäre Liga"
+VIN_syndicalist_party_long:0 "Indochinesische Revolutionäre Liga(Hoi Dong Duong Cach mang)"
+VIN_social_democrat_party:0 "VNQDD"
+VIN_social_democrat_party_long:0 "Vietnamesische Nationalistische Partei(Viet Nam Quoc dan Dang)"
+VIN_social_liberal_party:0 "Partei der Volksherrschaft"
+VIN_social_liberal_party_long:0 "Partei der Volksherrschaft von Dai Viet(Dai Viet Dan chinh Dang)"
+VIN_market_liberal_party:0 "Indochinesische Konstitutionalistische Partei"
+VIN_market_liberal_party_long:0 "Indochinesische Konstitutionalistische Partei(Dang Lap hien Dong Duong)"
+VIN_social_conservative_party:0 "Progressive Partei"
+VIN_social_conservative_party_long:0 "Progressive Partei(Dang Tien Bo)"
+VIN_authoritarian_democrat_party:0 "Nationaler Gewerkschaftsblock"
+VIN_authoritarian_democrat_party_long:0 "Nationaler Gewerkschaftsblock(Khoi Quoc Gia Lian Hiep)"
+VIN_paternal_autocrat_party:0 "Royalistische Partei"
+VIN_paternal_autocrat_party_long:0 "Royalistische Partei(Dang Bao Hoang)"
+VIN_national_populist_party:0 "Cao Dai"
+VIN_national_populist_party_long:0 "Der große Glaube an die dritte universelle Erlösung(Dai Dao Tam Ky Pho Do)"
+
+### Country Names ###
+VIN:0 "Vietnam"
+VIN_ADJ:0 "Vietnamesisch"
+VIN_DEF:0 "Vietnam"
+
+VIN_totalist:0 "Volksrepublik Vietnam"
+VIN_totalist_ADJ:0 "Vietnamesisch"
+VIN_totalist_DEF:0 "die Volksrepublik Vietnam"
+VIN_syndicalist:0 "Volksrepublik Vietnam"
+VIN_syndicalist_ADJ:0 "Vietnamesisch"
+VIN_syndicalist_DEF:0 "die Volksrepublik Vietnam"
+VIN_radical_socialist:0 "Volksrepublik Vietnam"
+VIN_radical_socialist_ADJ:0 "Vietnamesisch"
+VIN_radical_socialist_DEF:0 "die Volksrepublik Vietnam"
+
+### Events ###
+vietnam.0.t:0 "Feuer im See"
+vietnam.0.d:0 "Mit dem Aufstand der Viet Minh im Süden hat sich die Flamme des Aufstands in allen drei Regionen Vietnams ausgebreitet. Dies ist die dunkelste Stunde Vietnams, aber unser Land wird und muss mit dem eisernen Willen und der eisernen Faust des Kaisers gerettet werden."
+vietnam.0.a:0 "Lang lebe die Nguyen-Dynastie! Lang lebe der Kaiser!"
+
+VIN_nationalize_tonkin_mines:0 "Verstaatlichen Sie die Minen von Thach Khe!"
+VIN_nationalize_tonkin_mines_desc:0 "Wir sind nicht länger unter den Fersen der Deutschen - es ist Zeit, dass sich der vietnamesische Drache wieder erhebt!"
+
+### Characters ###
+VIN_le_duc_tho:0 "Le Duc Tho"
+VIN_bao_dai:0 "Bao Dai"
+VIN_ngo_din_diem:0 "Ngo Din Diem"
+VIN_cuong_de:0 "Cuong De"
+VIN_pham_cong_tac:0 "Pham Cong Tac"
+VIN_nguyen_van_hinh:0 "Nguyen Van Hinh"
+VIN_duong_van_minh:0 "Duong Van Minh"
+VIN_tran_van_don:0 "Tran Van Don"
+VIN_le_van_ty:0 "Le Van Ty"
+VIN_tran_quang_vinh:0 "Tran Quang Vinh"
+VIN_le_quang_vinh:0 "Le Quang Vinh"
+VIN_le_quang_my:0 "Le Quang My"
+VIN_tran_van_chon:0 "Tran Van Chon"

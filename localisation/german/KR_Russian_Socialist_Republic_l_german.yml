@@ -1,0 +1,351 @@
+﻿l_german:
+
+##Übersetzt von Thylon##
+
+### Country Names ###
+SOV:0 "Russland"
+SOV_ADJ:0 "Russisch"
+SOV_DEF:0 "Russland"
+
+### Country Names ###
+SOV_totalist:0 "Russische Sozialistische Republik"
+SOV_totalist_ADJ:0 "Russisch"
+SOV_totalist_DEF:0 "die Russische Sozialistische Republik"
+SOV_syndicalist:0 "Russische Sozialistische Republik"
+SOV_syndicalist_ADJ:0 "Russisch"
+SOV_syndicalist_DEF:0 "die Russische Sozialistische Republik"
+SOV_radical_socialist:0 "Russische Sozialistische Republik"
+SOV_radical_socialist_ADJ:0 "Russisch"
+SOV_radical_socialist_DEF:0 "die Russische Sozialistische Republik"
+
+### Ideas ###
+SOV_proletarian_humanism_idea:0 "Proletarischer Humanismus"
+SOV_revolutionary_vanguard_idea:0 "Revolutionäre Vorhut"
+SOV_industrial_democracy_idea:0 "Industrielle Demokratie"
+SOV_aftermath_of_the_civil_war:0 "Die Folgen des Krieges"
+SOV_gosplan:0 "Gosplan"
+SOV_chaotic_revolution:0 "Chaotische Revolution"
+SOV_for_the_revolution:0 "Für die Revolution"
+SOV_new_red_army:0 "Neue Rote Armee"
+SOV_war_communism:0 "Kriegskommunismus"
+SOV_krasnaya_gvardiya:0 "Krasnaya Gvardiya"
+SOV_armament_production:0 "Produktion von Rüstungsgütern"
+SOV_frunzes_reform_plan:0 "Frunzens Reformplan"
+SOV_tukhachevskiys_reform_plan:0 "Tukhachevskiy's Reformplan"
+
+### Decisions ###
+SOV_The_First_Five_Year_Plan:0 "Der erste Fünfjahresplan"
+
+SOV_Spreading_The_Revolution_decisions:0 "Verbreitung der Revolution"
+SOV_Join_The_Internationale:0 "Beitritt zur Internationalen"
+SOV_Join_The_Internationale_desc:0 "Anstatt dass wir alle versuchen, den deutschen Imperialisten im Alleingang die Stirn zu bieten, sollten wir uns mit unseren Genossen in Großbritannien, Frankreich, Italien und darüber hinaus zusammenschließen."
+SOV_Protect_The_Baltics:0 "Beschützt [FROM.GetNameDef]"
+
+### Tooltips ###
+SOV_Control_The_Unions_tooltip:0 "Modifiziert §H$SOV_proletarian_humanism_idea$§! oder §H$SOV_revolutionary_vanguard_idea$§! um\nFabrikleistung: [?0.1|+=%]"
+SOV_Proletarian_Revolution_tooltip:0 "Modifiziert §H$SOV_revolutionary_vanguard_idea$§! oder §H$SOV_industrial_democracy_idea$§! um\nIndustrielle Forschungs Geschwindigkeit: [?0.1|+=%0]"
+SOV_Mass_Collectivisation_tooltip:0 "Modifiziert §H$SOV_revolutionary_vanguard_idea$§! oder §H$SOV_industrial_democracy_idea$§! um\n£prod_eff Anstieg der Produktionseffizienz: [?0.15|+=%]"
+
+SOV_Research_Investments_tooltip:0 "Modifiziert §H$SOV_gosplan$§! um\nForschungsgeschwindigkeit: [?0.1|+=%]"
+
+SOV_Rally_The_Defectors_tooltip:0 "§RAbtrünnige werden durch die Mitarbeiter von Okhrannoye Otdeleniye daran gehindert.§!"
+SOV_The_Peoples_Logistics_Corps_tooltip:0 "Modifiziert §H$SOV_armament_production$§! um\nNachschubsverbrauch: [?-0.1|-=%1]\nTreibstoffverbrauch der Armee: [?-0.1|-=%]"
+SOV_Dedicated_Artillery_Battalions_tooltip:0 "Modifiziert §H$SOV_armament_production$§! um\n§HGezogene Artillerie§!: £production_cost  Produktionskosten:  [?-0.1|-=%]"
+SOV_Mass_Breakthroughs_tooltip:0 "Modifiziert §H$SOV_tukhachevskiys_reform_plan$§! um\nDivisionensgeschwindigkeit: [?0.1|+=%]\n§HPanzerung§!: Durchbruch: [?0.1|+=%0]"
+SOV_Land_Air_Integration_tooltip:0 "Modifiziert §H$SOV_tukhachevskiys_reform_plan$§! um\n§HLuftnahunterstützung§!: £production_cost  Produktionskosten:  [?-0.1|-=%]"
+
+SOV_is_guaranteed:0 "Wird garantiert durch §H[ROOT.GetNameDef]§!."
+
+### Parties ###
+SOV_totalist_party:0 "KNOF"
+SOV_totalist_party_long:0 "Kommunisticheskiy Narodno-Osvoboditelniy Front"
+SOV_syndicalist_party:0 "PSP"
+SOV_syndicalist_party_long:0 "Profsoyuznaya Sotsialisticheskaya Partiya"
+SOV_radical_socialist_party:0 "NSP"
+SOV_radical_socialist_party_long:0 "Narodnaya Sotsialisticheskaya Partiya"
+SOV_social_democrat_party:0 "RSDRP"
+SOV_social_democrat_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya"
+SOV_social_liberal_party:0 "PSR"
+SOV_social_liberal_party_long:0 "Partiya Sotsialistov-Revolyutsionerov"
+SOV_market_liberal_party:0 "Kadety"
+SOV_market_liberal_party_long:0 "Konstitutsionno-Demokraticheskaya Partiya"
+SOV_social_conservative_party:0 "RS"
+SOV_social_conservative_party_long:0 "Rossiyskiy Soyuz"
+SOV_authoritarian_democrat_party:0 "Oktyabristy"
+SOV_authoritarian_democrat_party_long:0 "Soyuz 17 Oktyabrya"
+SOV_paternal_autocrat_party:0 "ROVS"
+SOV_paternal_autocrat_party_long:0 "Rossiyskiy Obshchevoinskiy Soyuz"
+SOV_national_populist_party:0 "NRPR"
+SOV_national_populist_party_long:0 "Narodno-Respublikanskaya Partiya Rossii"
+
+### Focuses ###
+Russia_Socialist:0 "Schwerpunktbaum von Russland"
+
+SOV_Proletarian_Humanism:0 "Proletarischer Humanismus"
+SOV_Proletarian_Humanism_desc:0 "Dank seines rhetorischen Geschicks und seiner geschickten Manöver hat Bucharin mit seiner Vision Russland und darüber hinaus seine dominierende Rolle in der Kommunistischen Partei der Union bewahrt. Er befürwortet einen Sozialismus im Schneckentempo, um den Aufbau einer massiven Staatsbürokratie zu vermeiden und die Siege des Proletariats in der jüngsten Revolution zu bewahren."
+
+SOV_Fight_Urban_Rural_Conflict:0 "Bekämpfung des Stadt-Land-Konflikts"
+SOV_Fight_Urban_Rural_Conflict_desc:0 "In unserem Land herrscht ein großer Kampf zwischen den Städten und dem Land, zwischen den erschlossenen Gebieten und den verarmten Ackerflächen, zwischen Fabrikarbeitern und Bauern. Einer unserer ersten Schritte zur Bewahrung der Revolution ist die Überwindung dieser Kluft, damit wir gemeinsam gegen die Unterdrücker vorgehen können, anstatt uns untereinander zu zanken."
+
+SOV_Voluntary_Collectivisation:0 "Freiwillige Kollektivierung"
+SOV_Voluntary_Collectivisation_desc:0 "Russland hatte kaum begonnen, den Feudalismus zu überwinden, als wir das Land befreiten. Die Neue Wirtschaftspolitik der Sowjetrepublik sollte ein Programm zur freiwilligen Kollektivierung der Bauernhöfe beinhalten, das es den ärmsten Bauern ermöglicht, sich zusammenzuschließen und ihre Ressourcen zu bündeln, ohne das gesamte landwirtschaftliche System zu entwurzeln."
+
+SOV_Cautious_Industrialisation:0 "Vorsichtige Industrialisierung"
+SOV_Cautious_Industrialisation_desc:0 "Der Superindustrialismus des linken Parteiflügels wird zu einer massiven Staatsbürokratie führen, die das Proletariat beherrschen wird. Nur eine gemäßigte Industrialisierung, die auch die Smychka bewahrt, was kurzfristig eine notwendige Voraussetzung ist, wird erfolgreich sein und viele Probleme verhindern."
+
+SOV_Control_The_Unions:0 "Kontrolle der Gewerkschaften"
+SOV_Control_The_Unions_desc:0 "Derzeit gibt es eine Parallelität zwischen den Gewerkschaften und den Verwaltungsorganen, ein Problem, das gelöst werden muss. Dabei werden wir auch das Wesen der Gewerkschaften ändern müssen, von 'Handels'-Gewerkschaften zu 'Produktions'-Gewerkschaften. Der neu geschaffene verwaltungstechnisch-wirtschaftliche Apparat wird demokratisch von den Arbeitern gewählt, mit breiten Massenversammlungen für alle wirtschaftlichen und produktiven Maßnahmen."
+
+SOV_Fight_Bureaucratisation:0 "Fight Bureaucratisation"
+SOV_Fight_Bureaucratisation_desc:0 "The fight against the bureaucracy is a constant fight, something Lenin already understood. We will have to fight the bureaucracy, before it can establish itself already, something we have to avoid at all costs. We will also have to train truly proletarian bureaucrats to slowly replace the reactionary bureaucrats we still have plenty of."
+
+SOV_Revolutionary_Vanguard:0 "Revolutionäre Vorhut"
+SOV_Revolutionary_Vanguard_desc:0 "Nach einem langen Kampf hat sich Karl Radeks Vision einer revolutionären Zukunft gegen alle anderen durchgesetzt. Er ist ein Radikaler unter den Radikalen, ein Brandstifter, der darauf besteht, dass eine primitive sozialistische Akkumulation und Fünfjahrespläne die Produktion der Produktivkräfte ermöglichen, die für den Übergang zum Sozialismus notwendig sind."
+
+SOV_Mass_Collectivisation:0 "Massenkollektivierung"
+SOV_Mass_Collectivisation_desc:0 "Die landwirtschaftlichen Flächen der großen Weiten Russlands wurden nie von den Bauern kontrolliert, sondern vom Großfürsten, dem Zaren und den Kapitalisten. Diese Unterdrückung der Arbeiter darf nicht fortbestehen, und deshalb müssen wir ein radikales Programm zur raschen Kollektivierung unserer landwirtschaftlichen Betriebe in Angriff nehmen. Nur in kollektivem Besitz können sie wirklich vom Stiefel des Kapitalisten befreit werden."
+
+SOV_Militarisation_of_Labour:0 "Militarisierung der Arbeit"
+SOV_Militarisation_of_Labour_desc:0 "Der Mensch will im Grunde genommen Arbeit vermeiden. Daher müssen wir den staatlichen Zwang nutzen, um eine Gesellschaft zu errichten, die sich an den Interessen der arbeitenden Mehrheit orientiert. Es werden Arbeiterarmeen aufgestellt, die das Proletariat zur Arbeit unter militärischer Aufsicht mobilisieren. Wir müssen auch die Arbeitsdeserteure bekämpfen, die die große Revolution sabotieren wollen."
+
+SOV_Proletarian_Revolution:0 "Proletarische Revolution"
+SOV_Proletarian_Revolution_desc:0 "Die Revolution muss vollständig und allumfassend sein. Damit der Sozialismus verwirklicht werden kann, müssen wir all unsere Anstrengungen auf seine Verwirklichung richten und die Gesellschaft von Grund auf verändern. Nur durch die Beseitigung des faulen Kerns, den das vorherige Regime hinterlassen hat, können die Arbeiter wirklich von seiner Unterdrückung befreit werden."
+
+SOV_First_Five_Year_Plan:0 "Erster Fünfjahresplan"
+SOV_First_Five_Year_Plan_desc:0 "Die Besteuerung der Bauernschaft und damit die Abschöpfung des Mehrwerts der Bauern wird es ermöglichen, die Produktivkräfte für den Übergang zum Sozialismus zu schaffen, was am besten durch eine zentrale Planungsstelle geschieht, die Pläne erstellt, die eine schnelle Industrialisierung ermöglichen."
+
+SOV_Industrial_Democracy:0 "Industrielle Demokratie"
+SOV_Industrial_Democracy_desc:0 "Kollontays Vision der gewerkschaftlichen Kontrolle über die Wirtschaft hat eine Mehrheit der Genossen überzeugt. Trotz ihrer adeligen Abstammung war sie immer eine Kämpferin für mehr Kontrolle der Gewerkschaften und damit der Arbeitnehmer über die Wirtschaft, da die Gewerkschaften den Willen des Proletariats am besten repräsentieren."
+
+SOV_Break_The_Smychka:0 "Brecht die Smychka"
+SOV_Break_The_Smychka_desc:0 "Infolge der jahrhundertelangen feudalen und kapitalistischen Herrschaft gibt es in Russland nur wenige echte Bauern. Es ist daher unvorstellbar, dass der Bauer im Mittelpunkt der Revolution stehen wird, wenn auch ohne sein Verschulden. Nein, es ist der Arbeiter und nicht der Bauer, der die Avantgarde der Revolution sein wird, und er sollte als solcher hervorgehoben werden."
+
+SOV_Create_the_VSR:0 "Gründet die VSR"
+SOV_Create_the_VSR_desc:0 "Durch die Gründung des Allrussischen Produzentenverbandes (VSR - Vserossiyskiy Soyuz Rabochikh) wird den Gewerkschaften ein weitaus größerer Einfluss auf die Arbeit und die Wirtschaft insgesamt eingeräumt. Letztendlich wird dies sowohl den Arbeitnehmer als auch die Gewerkschaft stärken."
+
+SOV_Separation_Of_Powers:0 "Trennung der Gewalten"
+SOV_Separation_Of_Powers_desc:0 "Die Interessen der Gewerkschaften wurden viel zu sehr ignoriert, wir werden eine Gewaltenteilung zwischen den Gewerkschaften, den Sowjets und der Kommunistischen Partei schaffen, die es ermöglicht, das Proletariat zu vertreten und gleichzeitig eine wirksame Verteidigung gegen Reaktionäre zu ermöglichen."
+
+SOV_Rebuild_The_Country:0 "Wiederaufbau des Landes"
+SOV_Rebuild_The_Country_desc:0 "Auch wenn in den letzten Jahren das Schlimmste überstanden wurde, ist das russische Land seit Menschengedenken von den Geißeln des Krieges und der Tyrannei heimgesucht worden. Der Wiederaufbau des Landes wird ein langwieriger und schwieriger Prozess sein, auf den wir alle unsere Anstrengungen konzentrieren müssen."
+
+SOV_Help_The_People:0 "Helft den Menschen"
+SOV_Help_The_People_desc:0 "Der Zweite Russische Bürgerkrieg hat weite Teile des Landes verwüstet und viele Menschen verarmen lassen. Wir müssen diese Katastrophe beheben und das große Leid, das der Bürgerkrieg für viele Menschen verursacht hat, beenden, sonst würden wir bei unserer zentralen Aufgabe, die Lebenssituation der Bevölkerung zu verbessern, scheitern."
+
+SOV_Rebuild_The_Bureaucracy:0 "Wiederaufbau der Bürokratie"
+SOV_Rebuild_The_Bureaucracy_desc:0 "Die Herrschaft Kerenskis und ihre Folgen haben die Situation gegenüber der Zarenzeit kaum verbessert. Wenn wir einen funktionierenden Staatsapparat haben wollen, der in der Lage ist, den Arbeitern zu dienen und nicht den Interessen einer Handvoll Kapitalisten und ihrer Kumpane, muss die gesamte Staatsbürokratie von Grund auf neu aufgebaut werden."
+
+SOV_Allow_Small_Traders:0 "Kleine Händler zulassen"
+SOV_Allow_Small_Traders_desc:0 "Um einen reibungsloseren Übergang zu einer sozialistischen Wirtschaft zu ermöglichen, wird ein begrenztes Maß an Handel in den nicht lebensnotwendigen Sektoren der Wirtschaft erlaubt sein. Schließlich ist der einfache Mann, der einen kleinen Laden betreibt, nicht so weit vom Arbeiter in einer Fabrikhalle entfernt, und ihn mit einem Industriebaron gleichzusetzen, würde den Massen unnötigen Schaden zufügen."
+
+SOV_The_GOELRO_Plan:0 "Der GOELRO Plan"
+SOV_The_GOELRO_Plan_desc:0 "Die Elektrifizierung ist ein zentraler Bestandteil des Kommunismus. Lenin ging sogar so weit zu sagen: 'Der Kommunismus ist die Sowjetregierung plus die Elektrifizierung des ganzen Landes'. Um diesen Plan zu verwirklichen, haben wir eine 'Staatliche Kommission für die Elektrifizierung Russlands' mit der Elektrifizierung des gesamten Landes betraut."
+
+SOV_Form_Gosplan:0 "Gründet den Gosplan"
+SOV_Form_Gosplan_desc:0 "Um unsere wirtschaftlichen Ziele zu erreichen, muss der Staat einen Planungsausschuss einrichten. Gosplan, das einige der klügsten Köpfe Russlands beschäftigt, wird unsere Wirtschaft erheblich voranbringen."
+
+SOV_Mechanisation:0 "Mechanisierung"
+SOV_Mechanisation_desc:0 "Die industrielle Revolution brachte große Produktivitätsfortschritte mit sich, da Fabriken und landwirtschaftliche Betriebe begannen, Maschinen im großen Stil einzusetzen. Doch hier in Russland wird die meiste Arbeit von Hand verrichtet. Um mit den Kapitalisten konkurrieren zu können, die sich uns auf Schritt und Tritt widersetzen, müssen wir uns diese Entwicklungen zu eigen machen und unsere Wirtschaft entsprechend modernisieren."
+
+SOV_Khozraschyot:0 "Khozraschyot"
+SOV_Khozraschyot_desc:0 "Eine sozialistische Wirtschaft kann nicht von heute auf morgen geschaffen werden. Einer der ersten Übergangsschritte, wie sie in der Neuen Wirtschaftspolitik der Russischen Sozialistischen Republik skizziert sind, wird erfordern, dass bestimmte Elemente des Modells der freien Marktwirtschaft vorerst nachgeahmt werden, was kurzfristig zu einer stärkeren Entwicklung der Leicht- statt der Schwerindustrie führen wird."
+
+SOV_Promote_Industrialisation:0 "Förderung der Industrialisierung"
+SOV_Promote_Industrialisation_desc:0 "Wir existieren nicht in einem Vakuum. Um unsere Wirtschaft zu einem sozialistischen Modell zu modernisieren, müssen wir in gewissem Umfang am Weltmarkt teilnehmen, um die für die Beschaffung von Maschinen und Wissen erforderliche Kapitalmenge zu erreichen. Der beste Weg, um dies zu erreichen, ist die Gründung einer Reihe von staatlichen Trusts, die diese Vorhaben finanzieren können, während unsere interne Wirtschaft vom internationalen Kapitalismus getrennt bleibt."
+
+SOV_Spreading_The_Revolution:0 "Verbreitung der Revolution"
+SOV_Spreading_The_Revolution_desc:0 "Die Revolution wird sich nicht auf die Grenzen Russlands beschränken. Die Arbeiter im Ausland müssen ebenfalls von der Tyrannei befreit werden, und es ist unsere Pflicht, sie in ihrem Kampf zu unterstützen."
+
+SOV_Secure_Central_Asia:0 "Sicheret Zentralasien"
+SOV_Secure_Central_Asia_desc:0 "Die zentralasiatischen Ebenen, die früher zu Russland gehörten, sind inzwischen an despotische Khans und ihre militanten Horden gefallen. Eine sozialistische Führung in diese Länder zu bringen, wäre nicht nur ein Akt der Selbstverteidigung unsererseits, sondern auch ein Akt der Befreiung der Unterdrückten, die unter dem Joch dieser Warlords leben."
+
+SOV_The_Final_Battle:0 "Die letzte Schlacht"
+SOV_The_Final_Battle_desc:0 "Der Vertrag von Brest-Litowsk hat den deutschen Industriellen Millionen von Arbeitern auf dem Silbertablett serviert und ihnen obendrein die am stärksten industrialisierten Gebiete Russlands überlassen. Es ist unsere Pflicht, die Menschen im Osten ein für alle Mal vom deutschen Joch zu befreien."
+
+SOV_Mobilise_Urban_Militias:0 "Mobilisierung von Stadtmilizen"
+SOV_Mobilise_Urban_Militias_desc:0 "Die Städte waren von Anfang an das Kernland der Revolution - sie waren ihr Geburtsland. Wir müssen Milizen aus den Städten sammeln, um der Revolution zu dienen und ihre Ausbreitung zu ermöglichen, denn wenn wir das nicht tun, könnte die Revolution erneut zerschlagen werden."
+
+SOV_Krasnaya_Gvardiya_Units:0 "Krasnaya Gvardiya Einheiten"
+SOV_Krasnaya_Gvardiya_Units_desc:0 "Viele Mitglieder der bolschewistischen Partei halten sich noch immer versteckt. Wir müssen diese Menschen mobilisieren und in militärischen Einheiten organisieren, denn wir brauchen jetzt jeden Soldaten, wenn wir den kommenden Ansturm überleben wollen."
+
+SOV_Rally_The_Defectors:0 "Versammelt die Abtrünnigen"
+SOV_Rally_The_Defectors_desc:0 "Viele in der russischen Armee sind mit dem Status quo unzufrieden, was sie zu perfekten Rekruten für die Revolution macht, damit sie in einem echten Versuch dienen können, den Status quo zu ändern und das Leben der Bevölkerung zu verbessern und die Armee in den Dienst des Volkes und nicht der Banker zu stellen."
+
+SOV_The_War_Effort:0 "Die Kriegsanstrengungen"
+SOV_The_War_Effort_desc:0 "Wir werden die revolutionären Kriegsanstrengungen organisieren müssen, da sie zuvor eine reine Katastrophe waren. Wir werden einen Großteil der Bürokratie und des Staatsapparats wieder aufbauen, die nach dem Scheitern des Ersten Bürgerkriegs zerstört worden waren."
+
+SOV_Rebuild_The_Red_Army:0 "Wiederaufbau der Roten Armee"
+SOV_Rebuild_The_Red_Army_desc:0 "Die Rote Armee muss wiederaufgebaut werden, wenn wir diese Revolution gewinnen wollen. Eine zentralisierte Armee hat sich beim ersten Mal als eine fähige Kampftruppe erwiesen, und sie wird auch beim zweiten Mal eine fähige Armee sein. Dennoch müssen wir uns der Versäumnisse und Fehler ihrer ersten Inkarnation bewusst sein."
+
+SOV_Centralised_Command:0 "Zentralisiertes Kommando"
+SOV_Centralised_Command_desc:0 "Ein zentralisiertes Kommando ist im militärischen Kampf notwendig - jede andere Alternative würde nur zu einem totalen Desaster führen, was wir um jeden Preis vermeiden müssen. Daher werden wir uns bemühen, eine kohärente militärische Befehlskette zu schaffen, um eine effektivere Kampftruppe zu ermöglichen."
+
+SOV_Reinstate_The_Cheka:0 "Wiedereinführung der Tscheka"
+SOV_Reinstate_The_Cheka_desc:0 "Die Allrussische Außerordentliche Kommission hat ihre Aufgaben mit großer Sorgfalt erfüllt. Jetzt, da die sozialistische Herrschaft etabliert ist, sind wir jedoch mit der Bedrohung durch Konterrevolutionäre aus der ganzen Welt konfrontiert. Um die Bedrohungen aus dem Inneren und aus dem Ausland abzuwehren, müssen wir die Institution ausbauen und ihre Methoden modernisieren."
+
+SOV_War_Communism:0 "Kriegskommunismus"
+SOV_War_Communism_desc:0 "Wir müssen eine Vielzahl von Maßnahmen ergreifen, um diesen Krieg zu gewinnen und die Revolution in Russland zu verbreiten, so unpopulär und brutal sich viele davon auch erweisen mögen. Sie sind notwendig, um den Krieg zu gewinnen und das Leben der breiten Bevölkerung langfristig zu verbessern."
+
+SOV_The_Second_Red_Army:0 "Die Zweite Rote Armee"
+SOV_The_Second_Red_Army_desc:0 "Die Rote Armee muss wieder aufgebaut werden, denn sie war eine große Demonstration der proletarischen Macht, auch wenn sie am Ende besiegt wurde. Die Lösung besteht jedoch darin, die Rote Armee wieder aufzubauen und aus ihrem Scheitern zu lernen, nicht darin, die Rote Armee und die Prinzipien, auf denen sie gegründet wurde, zu verwerfen."
+
+SOV_Reorganise_Armament_Production:0 "Reorganisation der Rüstungsproduktion"
+SOV_Reorganise_Armament_Production_desc:0 "Der derzeitige Zustand der Rüstungsproduktion ist eine Katastrophe. Wir müssen die Rüstungsproduktion umorganisieren und das Chaos in der Produktionskette beenden. Nur so können wir garantieren, dass jeder Soldat eine Waffe hat, um die Kräfte der Reaktion zu bekämpfen."
+
+SOV_The_Peoples_Logistics_Corps:0 "Das Logistikkorps des Volkes"
+SOV_The_Peoples_Logistics_Corps_desc:0 "Wir müssen unsere Logistik richtig organisieren. Zu diesem Zweck werden wir das "Logistikkorps des Volkes" gründen, das für die Lieferketten zuständig sein wird und hoffentlich den derzeitigen Zustand unserer Logistik - in vielen Bereichen eine totale Katastrophe - verbessern wird."
+
+SOV_Dedicated_Artillery_Battalions:0 "Unabhängige Artilleriebataillone"
+SOV_Dedicated_Artillery_Battalions_desc:0 "Wir werden unabhängige Artilleriebataillone aufstellen, die unsere Truppen unterstützen und die feindlichen Linien mit Wellen von Artilleriegranaten durchbrechen, so dass diese keine wirksamen Gegenangriffe starten können."
+
+SOV_Local_Workshops:0 "Lokale Workshops"
+SOV_Local_Workshops_desc:0 "Wir werden im ganzen Land lokale Werkstätten einrichten, um eine lokale Waffenproduktion zu ermöglichen, die den örtlichen Gegebenheiten und Bedürfnissen besser gerecht wird als eine zentralisierte Organisation der Produktion."
+
+SOV_Empower_The_Krasnaya_Gvardiya:0 "Ermächtigung der Krasnaja Gwardija"
+SOV_Empower_The_Krasnaya_Gvardiya_desc:0 "Wir müssen eine Armeestruktur von unten nach oben schaffen - eine Armee, die wirklich den revolutionären Geist repräsentiert. Wir werden die demokratische Wahl der Kommandeure unterstützen, auch wenn dies manchmal Probleme verursachen kann - die Soldaten im Feld wissen wahrscheinlich besser, wer sie befehligen sollte, als unsere Führer, die weit weg von der Situation sind."
+
+SOV_Decentralised_Structure:0 "Dezentralisierte Struktur"
+SOV_Decentralised_Structure_desc:0 "Wir müssen unsere Revolutionsarmee weiter dezentralisieren, indem wir jedem Teil der Kette ein hohes Maß an Autonomie zugestehen und verhindern, dass die Oberen dem Rest der Kette vorschreiben können, was und wie sie zu tun haben."
+
+SOV_Reconnaissance_Units:0 "Aufklärungseinhaiten"
+SOV_Reconnaissance_Units_desc:0 "Durch die Schaffung von Aufklärungseinheiten werden wir dem Feind immer einen Schritt voraus sein. Wir werden wissen, was ihr nächster Plan ist und was wir tun müssen, um ihm entgegenzuwirken."
+
+SOV_Officer_Initiative:0 "Offiziersinitiative"
+SOV_Officer_Initiative_desc:0 "Wenn die Offiziere ermutigt werden, eigenständig Entscheidungen zu treffen, können sie besser auf plötzliche Veränderungen reagieren, da sie die Situation vor Ort besser kennen als einige weit entfernte Vorgesetzte, die das Gebiet nie richtig besucht haben."
+
+SOV_Small_Unit_Tactics:0 "Taktik für kleine Einheiten"
+SOV_Small_Unit_Tactics_desc:0 "Anstatt Massen von Truppen einzusetzen, können wir mit kleinen Einheiten viel schneller angreifen und überraschen, als wenn wir große Wellen von Soldaten einsetzen. Dadurch können wir auch leichter das Überraschungsmoment nutzen."
+
+SOV_Frunzes_Reform_Plan:0 "Frunzens Reformplan"
+SOV_Frunzes_Reform_Plan_desc:0 "Jetzt, da die Revolution gesichert ist, können wir uns auf andere Dinge konzentrieren. Frunze hat vorgeschlagen, dass wir uns auf die Verbesserung des Oberkommandos und der Offiziersausbildung konzentrieren und generell die Verteidigung der Armee gegen eine mögliche Invasion verbessern sollten, eine reale Bedrohung, da die Kräfte der Reaktion wahrscheinlich versuchen werden, die Revolution in Zukunft zu beenden."
+
+SOV_Expand_The_High_Command:0 "Erweiterung des Oberkommandos"
+SOV_Expand_The_High_Command_desc:0 "Das Oberkommando muss um viele der besten Generäle erweitert werden, die wir haben und die alle ihr Können in der Zweiten Russischen Revolution unter Beweis stellen konnten. Nur ein Oberkommando, dem wirklich die Besten der Besten angehören, wird in der Lage sein, intelligente Entscheidungen zu treffen."
+
+SOV_Officer_Training_Academies:0 "Akademien für Offiziersausbildung"
+SOV_Officer_Training_Academies_desc:0 "Unsere Militärakademien sind in vielerlei Hinsicht noch ein Relikt der Vergangenheit, die meisten stammen noch aus der Zeit des Zaren. Wir werden eine Reihe neuer Militärakademien schaffen, die sich an der besten Doktrin orientieren, nicht an der traditionellsten. Nur auf diese Weise werden wir ein Offizierskorps schaffen, das dem der Kapitalisten wirklich überlegen ist."
+
+SOV_Professional_Engineer_Corps:0 "Berufsingenieurkorps"
+SOV_Professional_Engineer_Corps_desc:0 "Unsere Armee verfügt noch immer nicht über ein richtiges Ingenieurkorps, zumindest nicht über ein formalisiertes. Wir werden diese Situation ändern, indem wir ein formelles Ingenieurkorps schaffen, das professionell in seinem Handwerk ausgebildet wird."
+
+SOV_Tukhachevskiys_Reform_Plan:0 "Tukhachevskiy's Reformplan"
+SOV_Tukhachevskiys_Reform_Plan_desc:0 "Tukhachevskiy hat vorgeschlagen, die Doktrin der tiefen Schlacht anzuwenden, die den Einsatz kombinierter Waffen und überwältigender Land-Luft-Angriffe vorsieht. Eine solche Doktrin würde die Armee zu einer echten Offensivkraft machen, mit der man rechnen muss."
+
+SOV_Mass_Breakthroughs:0 "Massendurchbrüche"
+SOV_Mass_Breakthroughs_desc:0 "Panzern gehört die Zukunft, wir müssen die Entwicklung neuer Panzer unterstützen, wenn wir eine wirklich moderne Streitmacht schaffen wollen, die in der Lage ist, gegnerische Divisionen in Rekordgeschwindigkeit einzukesseln und zu vernichten."
+
+SOV_Land_Air_Integration:0 "Land-Luft-Integration"
+SOV_Land_Air_Integration_desc:0 "Der integrierte Einsatz von Soldaten und Flugzeugen wird es unserer Armee ermöglichen, die Truppen zu überwältigen und den Feind vollständig zu vernichten."
+
+SOV_Establish_The_VVS:0 "Gründet die VVS"
+SOV_Establish_The_VVS_desc:0 "Die VVS (Voyenno-Vozdushnye Sily, 'Militärische Luftstreitkräfte') ist stark veraltet. Wir setzen heute die gleichen Flugzeuge und Taktiken ein wie vor zwanzig Jahren. Durch den Ausbau unserer Luftstützpunkte und die Ausbildung neuer Rekruten könnten wir dies ändern."
+
+SOV_Airspace_Defence:0 "Luftraumverteidigung"
+SOV_Airspace_Defence_desc:0 "Nichts ist wichtiger als die Verteidigung des Luftraums, denn unsere Feinde werden versuchen, Flugzeuge auf jede erdenkliche Weise einzusetzen, um unseren Luftraum zu erobern und die Bodentruppen zu terrorisieren, was wir um jeden Preis verhindern müssen, wenn wir in künftigen Begegnungen siegreich sein wollen."
+
+SOV_The_ORT_System:0 "Das ORT System"
+SOV_The_ORT_System_desc:0 "Moderne Kriege werden nur zum Teil auf dem Schlachtfeld gewonnen. Genauso wichtig sind die Männer und Frauen hinter den Schreibtischen und Funkgeräten, die mit Informationen und Übertragungen zu tun haben. Wir müssen ihnen die Arbeit erleichtern."
+
+SOV_Nationalise_The_Aircraft_Industry:0 "Verstaatlichung der Luftfahrzeugindustrie"
+SOV_Nationalise_The_Aircraft_Industry_desc:0 "Wir haben eine hochmoderne Flugzeugindustrie, die aber oft noch privat ist. Wir werden diese Flugzeugindustrie verstaatlichen und in den Staatsapparat integrieren müssen, wenn wir eine moderne und starke Luftwaffe schaffen wollen."
+
+SOV_Aviation_Bureaus:0 "Luftfahrtbüros"
+SOV_Aviation_Bureaus_desc:0 "Die Eröffnung von Luftfahrtbüros im ganzen Land wird es uns ermöglichen, unsere Piloten zu verbessern, was immer eine wichtige Aufgabe der Nation ist, wenn wir eine fähige Luftwaffe aufbauen wollen."
+
+SOV_New_Fighters:0 "Neue Jäger"
+SOV_New_Fighters_desc:0 "Die Bomber können zwar unseren Gegnern Schaden zufügen, aber ohne ausreichenden Schutz durch unsere Kampfflugzeuge wird kein einziger von ihnen sein Ziel erreichen. Diese Jäger können auch unseren eigenen Truppen und der Industrie Schutz bieten."
+
+SOV_Take_To_The_Seas:0 "Stecht in See"
+SOV_Take_To_The_Seas_desc:0 "Wenn wir wieder zu den großen Nationen Europas gehören wollen, müssen wir eine neue, moderne Marine aufbauen, die die Großmächte in Europa und der Welt herausfordern kann."
+
+### Events ###
+russoc.100.t:0 "[From.GetNameDefCap] möchte der Internationalen beitreten"
+russoc.100.d:0 "[From.GetNameDefCap], die kürzlich über die Vorteile einer sozialistischen Regierung aufgeklärt wurden, sind mit einer Bitte an uns herangetreten. Sie möchten der Internationalen formell beitreten. Wäre ein solch entfernter Verbündeter sinnvoll?"
+russoc.100.a:0 "Ja, natürlich! Wir begrüßen sie."
+russoc.100.b:0 "Wir brauchen sie nicht."
+
+russoc.101.t:0 "[From.GetNameDefCap] lehnt ab"
+russoc.101.d:0 "Die [From.GetAdjective] Regierung hat unseren Antrag auf Beitritt zu ihrem Bündnis abgelehnt. Vielleicht sind wir für ihre Verhältnisse nicht syndikalistisch genug oder als Verbündete nicht würdig. Wie auch immer, die Antwort war eindeutig nein."
+russoc.101.a:0 "Eine schlechte Entscheidung ihrerseits."
+
+russoc.102.t:0 "Konflikt in der Partei"
+russoc.102.d:0 "Die Partei ist inzwischen in drei Fraktionen gespalten, eine von Bucharin, eine von Kollontay und eine von Radek. Die von Bucharin geführte Fraktion setzt sich für einen Sozialismus im Schneckentempo ein, bei dem eine vorsichtige Industrialisierung den Aufbau einer massiven Staatsbürokratie verhindert, die Smychka um jeden Preis erhalten und die allgemeine Kluft zwischen Stadt und Land überbrücken will.\n\nDie von Kollontay geführte Fraktion befürwortet die Gewerkschaften, die die Wirtschaft verwalten, da sie sie als den besten Weg ansehen, um den Arbeitern eine Stimme in der Wirtschaft und der Nation zu geben. Sie sind auch sehr gegen den wahrgenommenen Einfluss der Bauern und wollen daher die Smytschka auflösen und unterstützen die weitere Arbeiterisierung der Partei. Schließlich unterstützt die von Radek geführte Fraktion die Idee der primitiven sozialistischen Akkumulation, d.h. die Abschöpfung des bäuerlichen Mehrwerts und die Verwendung dieses Mehrwerts zur Entwicklung der Produktivkräfte, um Russland für den Sozialismus bereit zu machen, was ihrer Meinung nach am besten durch einen Fünfjahresplan erreicht wird."
+russoc.102.a:0 "Bucharins Fraktion setzt sich durch."
+russoc.102.b:0 "Die Fraktion von Kollontay geht als Sieger hervor."
+russoc.102.c:0 "Radek erringt einen Überraschungssieg."
+
+russoc.103.t:0 "Die östliche Bedrohung"
+russoc.103.d:0 "Trotz ihrer größten Bemühungen und unserer großzügigen Unterstützung ist die republikanische Regierung Russlands angesichts des Ansturms der sozialistischen Kräfte zusammengebrochen. Das ist nichts weniger als eine Katastrophe - die neu ermächtigten russischen Sozialisten werden sich mit ziemlicher Sicherheit mit [FRA.GetNameDef] und der Dritten Internationale verbünden und das gefürchtete Schreckgespenst eines weiteren Zweifrontenkrieges wieder aufleben lassen. Allerdings wird [SOV.GetNameDef] Zeit brauchen, um sich von den Verwüstungen des Bürgerkriegs zu erholen, eine Zeit, die wir nutzen müssen, um unseren Schutz auf alle Länder auszudehnen, die durch das neue Regime gefährdet sind.\n\nPolen, Finnland und der Kaukasus stehen alle ungeschützt da - wir müssen alles in unserer Macht Stehende tun, um sie zu schützen, damit sie nicht an die ankommenden Russen fallen.."
+russoc.103.a:0 "Bietet allen bedrohten Nationen Schutz."
+russoc.103.b:0 "Wir haben keine Angst vor den Russen."
+
+russoc.105.t:0 "N.N. Suchanows Memoiren der Revolution"
+russoc.105.d:0 "Jahrelang war der Verlauf der Oktoberrevolution für die Welt und die Bevölkerung ein Rätsel. Die Weißen Mächte und die von ihnen gegründete Republik sorgten dafür, den bolschewistischen Aufstand in ein negatives Licht zu rücken, viele der Zeugen der Ereignisse starben im Bürgerkrieg, und diejenigen, die überlebten, waren nicht in der Lage, die Nachricht zu verbreiten. Jetzt jedoch, da die sozialistische Revolution in Russland gesiegt hat, sind in Moskau die siebenbändigen Memoiren von Nikolai N. Suchanow erschienen, die umfassendste Darstellung der Revolution, die es gibt. Suchanow, ein Mitglied des Petrograder Sowjets, verfasste die Memoiren im Exil, konnte sie aber bis heute nicht veröffentlichen.\n\nDie Memoiren der Revolution erzählen die Geschichte der Oktoberrevolution von 1917 bis zu ihrer Niederlage im Jahr 1920 und zerstören viele der Mythen, die sich über die Ereignisse gehalten haben. Jahrelang war das Schicksal von Leo Trotzki, einem der wichtigsten Führer der bolschewistischen Partei und Chef der Roten Armee, ein Rätsel, denn im Gegensatz zu anderen Revolutionären wie Lenin wurde sein Tod nie vollständig bestätigt. Suchanow behauptet jedoch, dass Trotzki tot ist - er kam in den letzten Tagen des Bürgerkriegs bei einem Artilleriebeschuss ums Leben. Seine Schilderung Trotzkis ist weitaus schmeichelhafter als das, was man in Moskau auf der Straße erfährt - die weiße Propaganda stellte Trotzki als schrecklichen Führer dar, der in gescheiterten Offensiven Tausende von Männern opferte, und diese Sichtweise ist inzwischen zu einer anerkannten Tatsache geworden, aber Suchanow beschreibt ihn als kompetent und fähig, wenn auch arrogant und widersprüchlich. Der Exilant stellt fest, dass Trotzki nicht die Schuld an der bolschewistischen Niederlage trägt, sondern die ausländische Intervention und Lenins Tod durch Fanny Kaplan.\n\nDie Memoiren sind inzwischen in den russischen Grundschulen und Universitäten als obligatorischer Lernstoff für die neue Generation üblich geworden. Sie sollen etwas über das Heldentum der ursprünglichen Bolschewiki und ihren Kampf für die Rechte des Volkes lernen."
+russoc.105.a:0 "Dein Opfer wird nicht vergeblich sein."
+
+russoc.106.t:0 "Landwirte beginnen mit der Massenverbrennung von Vieh"
+russoc.106.d:0 "Das Regierungsprogramm der Massenkollektivierung, das als notwendig erachtet wird, um das für die Industrialisierung erforderliche Getreide in der von der Regierung als notwendig erachteten Weise zu beschaffen, stößt bei den Bauernmassen allgemein auf Ablehnung. Einige haben das Programm der Kollektivierung sogar auf die zaristische Zeit zurückgeführt und sehen darin eine Rückkehr zur Leibeigenschaft, was darauf zurückzuführen ist, dass die Kolchosen ihren Bauern nicht einmal einen formalen Lohn zahlen. Stattdessen werden die Landwirte in Form von Gütern wie Lebensmitteln, Wasser, Kleidung usw. bezahlt, wobei die Güter, die die Landwirte erhalten, in der Regel weniger wert sind als das Getreide, das sie an die Regierung abliefern.\n\n Daher haben die Landwirte als Vergeltungsmaßnahme und um zu verhindern, dass unter anderem ihr Vieh kollektiviert wird, damit begonnen, ihr Vieh massenhaft zu essen, zu töten und zu entsorgen, in der Hoffnung, so zu verhindern, dass das Vieh in die Hände der Kolchosen gerät. Sie haben auch damit begonnen, Dinge wie z.B. Werkzeuge zu zerstören, da diese ebenfalls kollektiviert werden und somit in die Hände der Kolchosen gelangen. Obwohl dies die Kollektivierung der Landwirtschaft sicherlich nicht aufhalten wird, hat es doch gezeigt, dass viele Landwirte die Kollektivierung nicht gutheißen und unsere Nation im Allgemeinen destabilisiert haben, da sie sie als reinen Weg für die Ausbeutung der Landwirte durch die Regierung sehen, die das billige Getreide zur weiteren Industrialisierung der Nation nutzen will."
+russoc.106.a:0 "Wir müssen die Landwirte über die Überlegenheit der Kollektivierung aufklären."
+
+russoc.107.t:0 "Suche und Beschlagnahmung"
+russoc.107.d:0 "Das Gespenst der Kollektivierung scheint nun auch in die Köpfe der Kinder in der ganzen Republik eingedrungen zu sein, denn es gibt eine [SOV.GetAdjectiveCap] Form der Cowboys und Indianer, die unter dem Namen 'Suche und Beschlagnahmung' bekannt geworden ist. Bei diesem Spiel gibt es zwei Teams: Kulaken, die Getreide verstecken, und requirierende Brigaden, die das Getreide beschlagnahmen wollen. Die [SOV.GetAdjectiveCap] Regierung hat dies gefördert, da sie darin eine Möglichkeit sieht, den Einfluss der Sozialisten unter den Kindern zu erhöhen."
+russoc.107.a:0 "Wir werden die Jugend zu guten Sozialisten machen"
+
+russoc.108.t:0 "Rote und Weiße"
+russoc.108.d:0 "Das Spiel heißt 'Rote und Weiße', eine wahrhaft sozialistische Form von Cowboys and Indianern, bei der die Cowboys die Roten und die Indianer die Weißen sind. Das Spiel ist sogar so populär geworden, dass Unternehmen begonnen haben, Luftgewehre speziell für Rot und Weiß zu verkaufen, die auch bei Kindern sehr beliebt sind. Die Regierung hat dies nachdrücklich unterstützt, da sie darin eine Möglichkeit sieht, die Jugend so zu formen, dass sie auch in Zukunft offener für den Sozialismus ist."
+russoc.108.a:0 "Kinder sind wie weiches Wachs"
+
+russoc.109.t:0 "Änderung der Familienregeln führt zu einem sprunghaften Anstieg der Scheidungsraten"
+russoc.109.d:0 "Obwohl viele Revolutionäre einen religiösen Hintergrund haben oder an religiösen Schulen gelernt haben, haben sie keine gute Meinung von der Kirche im Allgemeinen und versuchen, die orthodoxe Kirche und ihren Einfluss auf die russische Gesellschaft sowohl rechtlich als auch durch ihren öffentlichen Einfluss zu brechen. Während es jedoch länger dauern wird, ihren kulturellen Einfluss einzudämmen, hat die Regierung damit begonnen, den Einfluss der orthodoxen Kirche rechtlich zu untergraben.\n\nDie [SOV.GetAdjectiveCap] Regierung hat Maßnahmen ergriffen, um der Kirche die Kontrolle über Eheschließungen zu entziehen und sie zu einer zivilen Angelegenheit der Regierung zu machen, und sie hat auch die Scheidung stark vereinfacht, so dass sie jetzt eine einfache Sache der Registrierung ist, anstatt des früheren schwierigen Prozesses im zaristischen und republikanischen Russland. \n\nDies hat zwar die Mobilität von Frauen, die missbräuchliche Familien verlassen wollten, erheblich verbessert, führte aber auch zu einem massiven Anstieg der Scheidungsraten auf ein noch nie dagewesenes Niveau, so dass die Scheidungsrate jetzt die höchste der Welt ist, weil die Scheidung jetzt so einfach ist."
+russoc.109.a:0 "Sicherlich eine unvorhergesehene Folge"
+
+russoc.110.t:0 "Beginn der Latinisierung der Sprachen"
+russoc.110.d:0 "Da der Sozialismus in Zukunft die Menschheit vereinen und die Staaten auslöschen soll, haben viele in der Regierung vorgeschlagen, dass die [SOV.GetAdjectiveCap] Regierung mit der Latinisierung der Sprachen in ihren Nationen beginnen sollte, da das kyrillische Alphabet die Kommunikation zwischen Westeuropa und Russland und den Menschen, die es kompromittieren, unter anderem behindern würde. Die vollständige Latinisierung aller Sprachen in Russland wird jedoch lange dauern, wenn man bedenkt, wie viele Sprachen es gibt.\n\n Daher hat die Regierung mit der Latinisierung der Alphabete der vielen, vielen Sprachen begonnen, die in dem Land gesprochen werden, das diese Nationen gefährdet. Angeführt wird diese Initiative vom Kommissar für Aufklärung, Anatoly Lunacharsky, der für seine eher unorthodoxen Ansichten bekannt ist, wie z. B. seine Meinung, dass der wissenschaftliche Sozialismus die Vergötterung der Menschheit sei, und der sagte, dass Sozialisten die religiösesten Gruppen seien."
+russoc.110.a:0 "Die Mühe wird sich lohnen"
+
+russoc.111.t:0 "Gründung der Jungen Pioniere"
+russoc.111.d:0 "Die Wladimir-Lenin-Gesamtorganisation der Pioniere wurde vor kurzem gegründet, nachdem ein langer Konflikt zwischen dem Komsomol und der Pfadfinderbewegung zugunsten der Pfadfinderbewegung entschieden wurde, die eine unabhängige Organisation anstrebte, während der Konsomol sie weiterhin in die Organisation einbinden wollte, wobei sie von der Witwe Lenins, Nadeschda Krupskaja, unterstützt wurde, die die Sache der Pfadfinderbewegung gegenüber dem Komsomol unterstützte. \n\nDie Absicht der jungen Pioniere ist es, die Jugend weiter in den Staatsapparat zu integrieren, indem sie einen Eid schwören, 'fest für die Sache unserer Kommunistischen Partei einzutreten'. Während wir noch nicht in der Lage sind, die Mehrheit der Jugendlichen in die Pionierorganisation zu integrieren, ist es uns bereits gelungen, dass jedes fünfte Kind Mitglied der Jungen Pioniere ist.\n\n Die Routine der Jungen Pioniere besteht aus viel Marschieren und Singen, Turnen und Sport. Die Jungen Pioniere haben auch ihre eigene Uniform - ein weißes Hemd und ein rotes Halstuch -, Banner, Fahnen und Lieder; das hat den Jungen Pionieren eine große Popularität unter den Jugendlichen verschafft, da es vielen Jugendlichen, die sich allein und atomisiert fühlen, ein Gefühl der Zugehörigkeit in der Welt gibt."
+russoc.111.a:0 "Sei vorbereitet! Immer bereit!"
+
+russoc.112.t:0 "Generäle schließen sich der Revolution an"
+russoc.112.d:0 "Es sind nicht nur die einfachen Soldaten, die sich entschieden haben, zur Revolution überzulaufen. Die russische Armee, die von den weißen Generälen des russischen Bürgerkriegs dominiert wird, ist für die so genannte 'neue Garde', Offiziere und Kommandeure, die nach dem Bürgerkrieg in die russische Armee eintraten, nicht der beste Ort. Sie wurden von zahlreichen prestigeträchtigen Positionen ausgeschlossen und hatten oft Mühe, in ihrer Karriere voranzukommen. Der Verfall der Ordnung im Lande und das Anwachsen des Sozialismus ließen viele von ihnen mit ihrer Sache sympathisieren, und nun, da der Zweite Bürgerkrieg im Gange ist, sind sie aus ihren Reihen übergelaufen und haben sich auf die Seite ihrer Waffenbrüder in Moskau geschlagen.\n\nAb sofort erhielten diese tapferen Helden Aufträge in der Roten Armee und werden uns zum Sieg führen!"
+russoc.112.a:0 "Willkommen, Kameraden."
+
+russoc.113.t:0 "Abtrünnige im Oberkommando"
+russoc.113.d:0 "Es sind nicht nur die einfachen Soldaten, die sich entschlossen haben, zu dem verräterischen Aufstand überzulaufen. Die russische Armee, die von den weißen Generälen des russischen Bürgerkriegs dominiert wird, ist für die so genannte 'neue Garde' - Offiziere und Kommandeure, die nach dem Bürgerkrieg in die russische Armee eintraten - nicht der beste Ort. Sie wurden von zahlreichen prestigeträchtigen Positionen ausgeschlossen und hatten oft Mühe, in ihrer Karriere voranzukommen. Der Verfall der Ordnung im Lande und das Anwachsen des Sozialismus ließen viele von ihnen mit ihrer Sache sympathisieren, und nun, da der Zweite Bürgerkrieg im Gange ist, sind sie aus ihren Reihen übergelaufen und haben sich auf die Seite der bolschewistischen Bande in Moskau geschlagen.\n\nDiese Verräter wurden alle in Abwesenheit zum Tode verurteilt und werden nach unserem Sieg sicherlich ihre gerechte Strafe erhalten."
+russoc.113.a:0 "Verräter, alle von ihnen!"
+
+russoc.114.t:0 "Die Ostfront der Internationale"
+russoc.114.d:0 "Auch wenn es uns gelungen ist, die Revolution im eigenen Land zu schützen, so sind wir doch weit von unseren Verbündeten im Westen entfernt, während die Welt in eine Krise nach der anderen gerät. Das bedeutet jedoch nicht, dass wir im Osten allein sind. Jetzt hat sich [SOV.GetNameDef] die revolutionäre Sache zu eigen gemacht und ist die größte sozialistische Nation der Welt. Es könnte klug sein, sich der nahe gelegenen [SOV.GetCapital] anzunähern, damit sich [INT.GetNameDef] nicht als zu weit entfernt erweist, um uns zu unterstützen."
+russoc.114.a:0 "Sehr gut."
+russoc.114.b:0 "Wir bleiben lieber bei [INT.GetNameDef]."
+
+russoc.115.t:0 "Russland tritt der Internationale bei"
+russoc.115.d.guaranteed:0 "Die russischen Sozialisten haben sich nach einer Zeit der diplomatischen Isolation mit der Dritten Internationale zusammengetan und sich dem immer breiter werdenden Bündnis für die Sache der Weltrevolution angeschlossen. Da wir uns zuvor mit dem Regime in Moskau verbündet hatten, wurde auch uns eine Einladung ausgesprochen. Sollen wir ihrem Beispiel folgen und ein vollwertiges Mitglied der Internationalen werden?"
+russoc.115.d.invited:0 "Die russischen Revolutionäre, die vor nicht allzu langer Zeit die Kontrolle über ihr Land übernommen haben, haben sich an uns gewandt. Die Diplomaten von [SOV.GetLeader] sind in unserer Hauptstadt eingetroffen und bieten eine gemeinsame sozialistische Front gegen die Reaktionäre an - in Form der Mitgliedschaft in der Dritten Internationale. Dies wird uns zwar eng an das Regime in Moskau binden, was nicht jedem in unserer Bevölkerung gefällt, aber sollte nicht die Sache der Weltrevolution diesen nationalistischen Partikularismus übertrumpfen?"
+russoc.115.a:0 "Ja, lasst uns unsere Kräfte bündeln."
+russoc.115.b:0 "Wir sollten Deutschland nicht provozieren..."
+
+russoc.116.t:0 "[FROM.GetNameDefCap] strebt die Mitgliedschaft in der Internationalen"
+russoc.116.d.guaranteed:0 "Wir haben ein Telegramm von [FROM.GetName] erhalten. Dieser mit Russland verbündete sozialistische Staat möchte seine Zukunft mit der weltweiten revolutionären Sache verbinden, ähnlich wie sein Gönner im Osten. Sollen wir ihnen einen Platz in unserem Bündnis einräumen?"
+russoc.116.d.invited:0 "Durch unsere Kommunikation mit Russland haben wir die Information erhalten, dass sie [FROM.GetName], einen sozialistischen Staat, der mit dem Regime in Moskau verbündet ist, zur Dritten Internationale eingeladen haben. Sollen wir die russische Einladung akzeptieren und diesen potenziellen Verbündeten in unser Bündnis aufnehmen?"
+russoc.116.a:0 "Willkommen, Kameraden."
+russoc.116.b:0 "Nein, wir brauchen sie nicht."
+
+russoc.117.t:0 "[FROM.GetNameDefCap] verweigert unseren Schutz"
+russoc.117.d:0 "[FROM.GetNameDefCap] hat unser Angebot mit der Begründung abgelehnt, dass sie aus verschiedenen Gründen nicht bereit sind, unser Angebot anzunehmen - offensichtlich sind sie von nationalistischem Partikularismus übermannt worden, anstatt sich einer Weltrevolution zu widmen."
+russoc.117.a:0 "Ihr Verlust."
+
+russoc.118.t:0 "[FROM.GetNameDefCap] lehnt eine Mitgliedschaft ab"
+russoc.118.d:0 "[FROM.GetNameDefCap] hat auf unsere Nachricht geantwortet und uns mitgeteilt, dass [FROM.GetName] nicht Mitglied der Dritten Internationale werden wird."
+russoc.118.a:0 "Was!?"
+
+russoc.119.t:0 "Deutscher Schutz?"
+russoc.119.d:0 "Das rechtmäßige Regime in Moskau ist gestürzt, und die Nachfolger der Bolschewiki haben Russland übernommen und ihre Absicht erklärt, die Weltrevolution in Osteuropa und im Kaukasus zu verbreiten. Glücklicherweise hat sich das diplomatische Korps des Deutschen Reiches mit einer Botschaft an uns gewandt und uns Schutz vor der östlichen Bedrohung angeboten, bevor die Sozialisten ihre Armeen gegen uns richten konnten. Sollen wir uns den Deutschen anschließen und unser Schicksal mit ihren Bemühungen verknüpfen, oder ist dies unnötig?"
+russoc.119.a:0 "Akzeptiert ihr Angebot."
+russoc.119.b:0 "Fragt stattdessen nach einer Garantie."
+russoc.119.c:0 "Nein."
+
+russoc.120.t:0 "[From.GetNameDefCap] tritt dem Reichspakt bei"
+russoc.120.d:0 "[From.GetNameDefCap] hat unser Angebot angenommen. Jetzt sind sie ein Teil des Reichspaktes."
+russoc.120.a:0 "Ausgezeichnet!"

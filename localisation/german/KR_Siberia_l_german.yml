@@ -1,0 +1,43 @@
+﻿l_german:
+###  Übersetzt von Pproho  ###
+### Country Names ###
+ SIB:0 "Sibirien"
+ SIB_ADJ:0 "Sibirisch"
+ SIB_DEF:0 "Sibirien"
+
+ SIB_totalist:0 "Sibirische Republik"
+ SIB_totalist_ADJ:0 "Sibirisch"
+ SIB_totalist_DEF:0 "die Sibirische Republik"
+ SIB_syndicalist:0 "Sibirische Republik"
+ SIB_syndicalist_ADJ:0 "Sibirisch"
+ SIB_syndicalist_DEF:0 "die Sibirische Republik"
+ SIB_radical_socialist:0 "Sibirische Republik"
+ SIB_radical_socialist_ADJ:0 "Sibirisch"
+ SIB_radical_socialist_DEF:0 "die Sibirische Republik"
+
+### Parties ###
+SIB_totalist_party:0 "Unterstützer der Bolschewiki"
+SIB_totalist_party_long:0 "Unterstützer der Bolschewiki"
+SIB_syndicalist_party:0 "Menschewiki-Anhänger"
+SIB_syndicalist_party_long:0 "Menschewiki-Anhänger"
+SIB_radical_socialist_party:0 "Demokraten"
+SIB_radical_socialist_party_long:0 "Bakunins Demokraten"
+SIB_social_democrat_party:0 "Progressiv"
+SIB_social_democrat_party_long:0 "Progressiv"
+SIB_social_liberal_party:0 "Föderalisten"
+SIB_social_liberal_party_long:0 "Föderalisten"
+SIB_market_liberal_party:0 "Föderalisten"
+SIB_market_liberal_party_long:0 "Föderalisten"
+SIB_social_conservative_party:0 "Oblastniki"
+SIB_social_conservative_party_long:0 "Oblastniki"
+SIB_authoritarian_democrat_party:0 "PFP"
+SIB_authoritarian_democrat_party_long:0 "Volkspartei der Freiheit"
+SIB_paternal_autocrat_party:0 "SVR"
+SIB_paternal_autocrat_party_long:0 "Soyuz Vozroshdeniya Rossii"
+SIB_national_populist_party:0 "SVR"
+SIB_national_populist_party_long:0 "Soyuz Vozroshdeniya Rossii"
+
+### Characters ###
+ SIB_vadim_podbelsky:0 "Vadim Podbelsky"
+ SIB_nikolay_avksentyev:0 "Nikolay Avksentyev"
+ SIB_aleksey_grishin_almazov:0 "Aleksey Grishin-Almazov"

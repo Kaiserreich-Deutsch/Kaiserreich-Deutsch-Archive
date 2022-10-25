@@ -1,0 +1,814 @@
+﻿l_german: 
+
+##Übersetzt von Thylon##
+
+Kumul_start:0 "Schwerpunktbaum von Kumul"
+
+### Country Names ###
+KUM:0 "Khanat Kumul"
+KUM_ADJ:0 "Kumulikisch"
+KUM_DEF:0 "das Khanat Kumul"
+
+KUM_totalist:0 "Kommune Kumul"
+KUM_totalist_ADJ:0 "Kumulikisch"
+KUM_totalist_DEF:0 "die Kommune Kumul"
+KUM_syndicalist:0 "Kommune Kumul"
+KUM_syndicalist_ADJ:0 "Kumulikisch"
+KUM_syndicalist_DEF:0 "die Kommune Kumul"
+KUM_radical_socialist:0 "Kommune Kumul"
+KUM_radical_socialist_ADJ:0 "Kumulikisch"
+KUM_radical_socialist_DEF:0 "die Kommune Kumul"
+
+KUM_HAM:0 "Hami"
+KUM_HAM_ADJ:0 "Hami"
+KUM_HAM_DEF:0 "Hami"
+
+KUM_HAM_totalist:0 "Präfektur Hami"
+KUM_HAM_totalist_ADJ:0 "Hami"
+KUM_HAM_totalist_DEF:0 "die Präfektur Hami"
+KUM_HAM_syndicalist:0 "Präfektur Hami"
+KUM_HAM_syndicalist_ADJ:0 "Hami"
+KUM_HAM_syndicalist_DEF:0 "die Präfektur Hami"
+KUM_HAM_radical_socialist:0 "Präfektur Hami"
+KUM_HAM_radical_socialist_ADJ:0 "Hami"
+KUM_HAM_radical_socialist_DEF:0 "die Präfektur Hami"
+KUM_HAM_social_democrat:0 "Präfektur Hami"
+KUM_HAM_social_democrat_ADJ:0 "Hami"
+KUM_HAM_social_democrat_DEF:0 "die Präfektur Hami"
+KUM_HAM_social_liberal:0 "Präfektur Hami"
+KUM_HAM_social_liberal_ADJ:0 "Hami"
+KUM_HAM_social_liberal_DEF:0 "die Präfektur Hami"
+KUM_HAM_market_liberal:0 "Präfektur Hami"
+KUM_HAM_market_liberal_ADJ:0 "Hami"
+KUM_HAM_market_liberal_DEF:0 "die Präfektur Hami"
+KUM_HAM_social_conservative:0 "Präfektur Hami"
+KUM_HAM_social_conservative_ADJ:0 "Hami"
+KUM_HAM_social_conservative_DEF:0 "die Präfektur Hami"
+KUM_HAM_authoritarian_democrat:0 "Präfektur Hami"
+KUM_HAM_authoritarian_democrat_ADJ:0 "Hami"
+KUM_HAM_authoritarian_democrat_DEF:0 "die Präfektur Hami"
+KUM_HAM_paternal_autocrat:0 "Präfektur Hami"
+KUM_HAM_paternal_autocrat_ADJ:0 "Hami"
+KUM_HAM_paternal_autocrat_DEF:0 "die Präfektur Hami"
+KUM_HAM_national_populist:0 "Präfektur Hami"
+KUM_HAM_national_populist_ADJ:0 "Hami"
+KUM_HAM_national_populist_DEF:0 "die Präfektur Hami"
+
+KUM_uyghur:0 "Uighuristan"
+KUM_uyghur_ADJ:0 "Uigurisch"
+KUM_uyghur_DEF:0 "Uighuristan"
+
+KUM_uyghur_totalist:0 "Uigurische Republik"
+KUM_uyghur_totalist_ADJ:0 "Uigurisch"
+KUM_uyghur_totalist_DEF:0 "die Uigurische Republik"
+KUM_uyghur_syndicalist:0 "Uigurische Republik"
+KUM_uyghur_syndicalist_ADJ:0 "Uigurisch"
+KUM_uyghur_syndicalist_DEF:0 "die Uigurische Republik"
+KUM_uyghur_radical_socialist:0 "Uigurische Republik"
+KUM_uyghur_radical_socialist_ADJ:0 "Uigurisch"
+KUM_uyghur_radical_socialist_DEF:0 "die Uigurische Republik"
+KUM_uyghur_social_democrat:0 "Uigurische Republik"
+KUM_uyghur_social_democrat_ADJ:0 "Uigurisch"
+KUM_uyghur_social_democrat_DEF:0 "die Uigurische Republik"
+KUM_uyghur_social_liberal:0 "Uigurische Republik"
+KUM_uyghur_social_liberal_ADJ:0 "Uigurisch"
+KUM_uyghur_social_liberal_DEF:0 "die Uigurische Republik"
+KUM_uyghur_market_liberal:0 "Uigurische Republik"
+KUM_uyghur_market_liberal_ADJ:0 "Uigurisch"
+KUM_uyghur_market_liberal_DEF:0 "die Uigurische Republik"
+KUM_uyghur_social_conservative:0 "Uigurische Republik"
+KUM_uyghur_social_conservative_ADJ:0 "Uigurisch"
+KUM_uyghur_social_conservative_DEF:0 "die Uigurische Republik"
+KUM_uyghur_authoritarian_democrat:0 "Uigurische Republik"
+KUM_uyghur_authoritarian_democrat_ADJ:0 "Uigurisch"
+KUM_uyghur_authoritarian_democrat_DEF:0 "die Uigurische Republik"
+KUM_uyghur_paternal_autocrat:0 "Uigurische Republik"
+KUM_uyghur_paternal_autocrat_ADJ:0 "Uigurisch"
+KUM_uyghur_paternal_autocrat_DEF:0 "die Uigurische Republik"
+KUM_uyghur_national_populist:0 "Uigurische Republik"
+KUM_uyghur_national_populist_ADJ:0 "Uigurisch"
+KUM_uyghur_national_populist_DEF:0 "die Uigurische Republik"
+
+KUM_xinjiang:0 "Xinjiang"
+KUM_xinjiang_ADJ:0 "Xinjiang"
+KUM_xinjiang_DEF:0 "Xinjiang"
+
+KUM_xinjiang_totalist:0 "Xinjiang Administration"
+KUM_xinjiang_totalist_ADJ:0 "Xinjiang"
+KUM_xinjiang_totalist_DEF:0 "die Xinjiang Administration"
+KUM_xinjiang_syndicalist:0 "Xinjiang Administration"
+KUM_xinjiang_syndicalist_ADJ:0 "Xinjiang"
+KUM_xinjiang_syndicalist_DEF:0 "die Xinjiang Administration"
+KUM_xinjiang_radical_socialist:0 "Xinjiang Administration"
+KUM_xinjiang_radical_socialist_ADJ:0 "Xinjiang"
+KUM_xinjiang_radical_socialist_DEF:0 "die Xinjiang Administration"
+KUM_xinjiang_social_democrat:0 "Xinjiang Administration"
+KUM_xinjiang_social_democrat_ADJ:0 "Xinjiang"
+KUM_xinjiang_social_democrat_DEF:0 "die Xinjiang Administration"
+KUM_xinjiang_social_liberal:0 "Xinjiang Administration"
+KUM_xinjiang_social_liberal_ADJ:0 "Xinjiang"
+KUM_xinjiang_social_liberal_DEF:0 "die Xinjiang Administration"
+KUM_xinjiang_market_liberal:0 "Xinjiang Administration"
+KUM_xinjiang_market_liberal_ADJ:0 "Xinjiang"
+KUM_xinjiang_market_liberal_DEF:0 "die Xinjiang Administration"
+KUM_xinjiang_social_conservative:0 "Xinjiang Administration"
+KUM_xinjiang_social_conservative_ADJ:0 "Xinjiang"
+KUM_xinjiang_social_conservative_DEF:0 "die Xinjiang Administration"
+KUM_xinjiang_authoritarian_democrat:0 "Xinjiang Administration"
+KUM_xinjiang_authoritarian_democrat_ADJ:0 "Xinjiang"
+KUM_xinjiang_authoritarian_democrat_DEF:0 "die Xinjiang Administration"
+KUM_xinjiang_paternal_autocrat:0 "Xinjiang Administration"
+KUM_xinjiang_paternal_autocrat_ADJ:0 "Xinjiang"
+KUM_xinjiang_paternal_autocrat_DEF:0 "die Xinjiang Administration"
+KUM_xinjiang_national_populist:0 "Xinjiang Administration"
+KUM_xinjiang_national_populist_ADJ:0 "Xinjiang"
+KUM_xinjiang_national_populist_DEF:0 "die Xinjiang Administration"
+
+KUM_zhongying:0 "Hami"
+KUM_zhongying_ADJ:0 "Hami"
+KUM_zhongying_DEF:0 "Hami"
+
+KUM_zhongying_totalist:0 "Hami-Clique"
+KUM_zhongying_totalist_ADJ:0 "Hami"
+KUM_zhongying_totalist_DEF:0 "die Hami-Clique"
+KUM_zhongying_syndicalist:0 "Hami-Clique"
+KUM_zhongying_syndicalist_ADJ:0 "Hami"
+KUM_zhongying_syndicalist_DEF:0 "die Hami-Clique"
+KUM_zhongying_radical_socialist:0 "Hami-Clique"
+KUM_zhongying_radical_socialist_ADJ:0 "Hami"
+KUM_zhongying_radical_socialist_DEF:0 "die Hami-Clique"
+KUM_zhongying_social_democrat:0 "Hami-Clique"
+KUM_zhongying_social_democrat_ADJ:0 "Hami"
+KUM_zhongying_social_democrat_DEF:0 "die Hami-Clique"
+KUM_zhongying_social_liberal:0 "Hami-Clique"
+KUM_zhongying_social_liberal_ADJ:0 "Hami"
+KUM_zhongying_social_liberal_DEF:0 "die Hami-Clique"
+KUM_zhongying_market_liberal:0 "Hami-Clique"
+KUM_zhongying_market_liberal_ADJ:0 "Hami"
+KUM_zhongying_market_liberal_DEF:0 "die Hami-Clique"
+KUM_zhongying_social_conservative:0 "Hami-Clique"
+KUM_zhongying_social_conservative_ADJ:0 "Hami"
+KUM_zhongying_social_conservative_DEF:0 "die Hami-Clique"
+KUM_zhongying_authoritarian_democrat:0 "Hami-Clique"
+KUM_zhongying_authoritarian_democrat_ADJ:0 "Hami"
+KUM_zhongying_authoritarian_democrat_DEF:0 "die Hami-Clique"
+KUM_zhongying_paternal_autocrat:0 "Hami-Clique"
+KUM_zhongying_paternal_autocrat_ADJ:0 "Hami"
+KUM_zhongying_paternal_autocrat_DEF:0 "die Hami-Clique"
+KUM_zhongying_national_populist:0 "Hami-Clique"
+KUM_zhongying_national_populist_ADJ:0 "Hami"
+KUM_zhongying_national_populist_DEF:0 "die Hami-Clique"
+
+### Parties ###
+KUM_totalist_party:0 "Kumul Abolitionisten"
+KUM_syndicalist_party:0 "Kumul Abolitionisten"
+KUM_radical_socialist_party:0 "Kumul Abolitionisten"
+KUM_social_democrat_party:0 "Kumul Abolitionisten"
+KUM_social_liberal_party:0 "Kumul Abolitionisten"
+KUM_market_liberal_party:0 "Kumul Abolitionisten"
+KUM_social_conservative_party:0 "Begs"
+KUM_authoritarian_democrat_party:0 "Berater"
+KUM_paternal_autocrat_party:0 "Nasīr Clique"
+KUM_national_populist_party:0 "Uigurische Nationalisten"
+
+KUM_xinjiang_party_long:0 "Xinjiang Administration"
+KUM_xinjiang_party:0 "Xinjiang Administration"
+
+KUM_hoja_party_long:0 "Hoja-Niyaz Clique"
+KUM_hoja_party:0 "Hoja-Niyaz Clique"
+
+KUM_fan_party_long:0 "Fan Clique"
+KUM_fan_party:0 "Fan Clique"
+
+KUM_ma_party_long:0 "Zhongying Clique"
+KUM_ma_party:0 "Zhongying Clique"
+
+KUM_bashir_pataut_party:0 "Bashir Clique"
+KUM_bashir_pataut_party_long:0 "Bashir Clique"
+
+### Leaders ###
+POLITICS_FAN_YAONAN_DESC:0 "Fan Yaonan wurde zuerst vom Qing-Beamten Zhang Zhidong anerkannt und in Hubei befördert. Er konnte genug sparen, um ein Jurastudium an der Waseda-Universität in Japan zu besuchen. Nach seinem Abschluss war Fan bis zu seiner Ernennung zum Justizdirektor als Lehrer an der Justizschule von Xinjiang tätig. In diesem Jahr wurde das Gericht abgeschafft und Fan reiste nach Peking, um der Beiyang-Regierung zu dienen. Für die Position des Dao-Yin von Dihua kam er nicht in Frage, daher wurde Fan zum Dao-Yin des ärmeren Aksu ernannt. Während seiner Ausbildung lernte Fan Russisch an der russischen Juristischen Fakultät in Xinjiang und bemühte sich, den Zusammenhalt zwischen den neu angekommenen russischen Einwanderern in Aksu zu fördern. 1920 ernannte Gouverneur Yang Zengxin Fan zum Vertreter von Xinjiang in Russland, wobei Fan einen Deal aushandelte, um die russischen Tarife für Xinjiang bis 1940 zu beenden. Fan Yaonan ist bekannt für seine Bescheidenheit und seinen stillen Widerstand gegen die Überbesteuerung von Aksu durch Gouverneur Yang Zengxin."
+POLITICS_MA_SHAOWU_DESC:0 "Ma Shaowus Ruf wurde bereits durch die Taten seines Sufi-Verwandten Ma Yuanzhang getrübt, der gegen die Regierung von Yang Zengxin und den Hanafi Hui-Kriegsherrn Ma Fuxiang gearbeitet hatte. Trotzdem verbrachte Ma Shaowu seine frühen Jahre im Dienst der Qing und Yang Zengxin. Yang Zengxin war beeindruckt von Ma Shaowus Loyalität und befahl ihn 1924, den Kriegsherrn Ma Fuxing abzusetzen. Ma Shaowu erhielt als Belohnung die Position des Dao-Yin von Hotan. Ma Shaowus Politik als Dao-Yin neigte mehr dazu, sich der aggressiven russischen Einwanderung zu widersetzen und hielt Uiguren und mongolische Einwohner gering. Nach einem Attentat eines kirgisischen Türken suchte Ma Shaowu in Russland eine Behandlung wegen seiner gebrochenen Beine. Ma Shaowu erzählte seine Geschichte dem reisenden Journalisten Peter Fleming, der die Widerstandsfähigkeit des alten Mannes sowie seinen asketischen Lebensstil kommentierte.
+POLITICS_JIN_SHUREN_DESC:0 "Jin Shurens Karriere begann in Gansu, wo er als Schulleiter an der Gansu-Schule der Qing diente. Jin nutzte diese Position, um die kaiserlichen Beamtenprüfungen zu bestehen, die Jin die Aufmerksamkeit von Yang Zengxin erregten. Als Yang 1908 zum Gouverneur von Xinjiang ernannt wurde, wurde Jin sein Bezirksrichter. Die folgenden Jahre der Revolution erschöpften Yangs Verwaltungspersonal und brachten Jin nach oben, bis er 1927 zum Kommissar für zivile Angelegenheiten in Urmuqi ernannt wurde. Jin begann, seine Position als Kommissar zu nutzen, um sich bei mehreren der propagandistischen Bewegungen aus Südchina einzuschmeicheln. Die Untergrundbewegung der Kuomintang und die aufkommenden föderalistischen Bewegungen betrachteten Jin als einen vorbildlichen Han-Bürokrat, der den ihrer Ansicht nach unverdienten Provinzialen diente."
+POLITICS_SHENG_SHICAI_DESC:0 "Sheng wurde in einer unternehmungslustigen, aber armen Familie in der Mandschurei geboren, die ihm den Besuch der Forst- und Landwirtschaftsschule der Provinz in Shenyang bezahlte. Sheng ging 1917 an die Waseda University, wo er eine Mischung aus Sun Yat-Sen-Rhetorik und dem Buch „ABCs of Socialism“ kennenlernte. Sheng bezeichnete sich bei seiner Rückkehr 1920 als Marxist und entschloss sich, in den Militärdienst einzutreten. 1924 kämpfte er erstmals unter Zhang Zuolin. Sheng war erbost über die anti-intellektuelle Politik, die Zhang verfolgte, und reiste erneut nach Japan, um eine weitere militärische Ausbildung zu erhalten. Nach dem Scheitern der Nordexpedition kehrte Sheng nach China zurück und schloss sich 1928 den Guominjun unter Feng Yuxiang an. Nach der Zerstörung von Gansu nahm Sheng ein Jobangebot von Fan Yaonan an, um die Aksu-Garnison zu führen. Sheng wurde 1935 auf Jin Shurens Vorstoß in die Untergrundpolitik aufmerksam und beschloss, Yang Zengxin nicht zu warnen aufgrund Shengs persönlichen marxistischen Ideale, die gegen Yangs Despotismus sprechen.
+POLITICS_BURHAN_SHAHIDI_DESC:0 "§YGeneral\n§YGeboren:§L\n3. Oktober, 1894\nKazan, Russland\n§YPolitische Karriere:§L\nBurhan Shahidi wurde 1894 im russischen Gouvernement Kasan als Sohn einer Familie geboren, deren Vorfahren nach einem gescheiterten Bauernaufstand während der Qing-Dynastie aus Aksu geflohen waren. Seine Familie war arm und er erhielt in seinen frühen Jahren nur wenig Schulbildung. 1912, nach der Xinhai-Revolution, begleitete Burhan tatarische Kaufleute nach Dihua in Xinjiang und arbeitete als Lehrling und Ladenangestellter. 1914 konnte Burhan aufgrund der Abstammung seiner Familie die chinesische Staatsbürgerschaft von der Republik China beantragen und erhielt diese. Er sprach Uigurisch, Mandarin-Chinesisch, Russisch, Türkisch und etwas Arabisch und fungierte als Dolmetscher für den Gouverneur von Xinjiang, Yang Zengxin. Burhans Beziehungen zur türkischen Gemeinschaft verschlechterten sich infolge der Arbeit unter Yang Zengxin, und die Uiguren begannen, Burhan zu ächten. Burhans magere Position in Yangs Regierung bedeutete, dass er dieses Misstrauen nicht überwinden konnte, und die Tendenz der uigurischen Gemeinschaft in Richtung Rebellion entfremdete Burhan weiter. Schließlich entschied sich Burhan, ab 1929 Kurse an der Baoding-Militärschule zu besuchen, was ihm erlaubte, von Yang sowohl als Administrator als auch als Offizier angestellt zu werden. Als Burhan 1934 nach Xinjiang zurückkehrte, stellte er fest, dass die Verwaltung im Niedergang war und er nicht in der Lage war, die wachsende Kluft zwischen der Ughier-Gemeinde zu korrigieren, und hat sich damit abgefunden, ein effektiver öffentlicher Beamter unter der zu sein, was er für die bestmögliche Verwaltung zur Industrialisierung von Xinjiang hält.
+
+POLITICS_NASIR_SHAH_DESC:0 "Nasir wurde geboren und erzogen, um sein ganzes Leben lang der neue Khan von Kumul zu sein. Seine Familie sind Nachkommen von Khans von vor Jahrhunderten, und sie haben Kumul genauso lange regiert. Nasirs Vater, Masqud Shah, war ein brutaler Autoritärer, was 1907 und 1912 zu Rebellionen gegen seine Führung führte. Obwohl diese Rebellionen niedergeschlagen wurden, verschwand der anhaltende Groll nie, und als Nasir 1930 seinem Vater folgte, trug ein Großteil dieses Grolls weiter hinüber zu Nasir. Nasir ist jedoch nicht wie sein autoritärer Vater, und er ist viel offener für Reformen und möchte seinen Beratern und den Begs mehr Macht geben."
+
+### Ideas ###
+KUM_legacy_masqud:0 "Vermächtnis von Masqud"
+KUM_legacy_masqud_desc:0 "Masqud Shah, der frühere Herrscher des Kumul-Khanats, war einer der autokratischsten Führer unserer Geschichte. Bekannt als ständiger Betrunkener, Steuererhöhungen und Frondienste und völliger Hass auf Technologie machten ihn sehr umstritten. Dies führte zu den Aufständen 07' und 12', die versuchten, ihn und das Khanat selbst zu stürzen. Nasīr Shah versucht jetzt, das Unrecht seines Vaters wiedergutzumachen, um seine Untertanen dazu zu bringen, seine Herrschaft zu billigen, aber es wird in Zukunft viel Arbeit erfordern."
+KUM_reordered_tax:0 "Neustrukturiertes Steuersystem"
+KUM_chinese_immigration:0 "Han-Immigration"
+KUM_rebuild_xinjiang_idea:0 "Xinjiang wiederaufbauen"
+KUM_crossroad_of_empires_idea:0 "Kreuzung der Reiche"
+KUM_kumul_consitutionalism_idea:0 "Kumuls Konstitutionalismus"
+KUM_kumul_loyalty_idea:0 "Loyalität zu Kumul"
+KUM_kumul_loyalty_idea2:0 "Loyalität zu Kumul"
+KUM_exploit_nationalism_idea:0 "Nationalismus ausnutzen"
+KUM_hojas_republic_idea:0 "Hojas Republik"
+KUM_beijing_administrators_idea:0 "Beamte aus Peking"
+KUM_open_the_gates_idea:0 "Die Tore öffnen"
+KUM_open_the_gates_idea3:0 "Stabilität macht Wohlstand"
+KUM_punish_dissent_idea:0 "Opposition bestrafen"
+KUM_punish_dissent_idea2:0 "Vernichten und Verbrennen"
+KUM_punish_dissent_idea3:0 "Eine Armee mit einem Staat"
+KUM_fight_for_xinjiang_idea:0 "Für Xinjiang kämpfen"
+KUM_small_but_strong_idea:0 "Klein aber stark"
+
+KUM_keeping_peace:0 "Die Friedenswächter von Xinjiang"
+KUM_keeping_peace_desc:0 "Die Anwesenheit des Kumul Khanats ist der Schlüssel zur gegenwärtigen Stabilität in Xinjiang, die uns über zwanzig Jahre lang gesegnet hat. Unser Volk sieht uns trotz unserer geringen politischen Relevanz im großen Plan des Gouvernements Xinjiang als eine Figur der Selbstherrschaft und Hoffnung für die Zukunft."
+
+### Tooltips/Flags ###
+KUM_annexation_flag:0 "Das Kumul Khanat wurde annektiert."
+KUM_new_situation_check_out:0 "§RDie Situation in Kumul hat sich drastisch geändert, es wird empfohlen, unsere aktuelle Situation sorgfältig zu überprüfen.§!"
+KUM_sik_kumul_annexed:0 "§GWir werden Kumul besser in unsere Verwaltung integrieren.§!"
+KUM_nasir_escape:0 "Nasīr Shah wird bald nach Kumul zurückkehren."
+KUM_add_chinese_control_tooltip:0 "§LHan Einfluss§! wird zunehmen."
+KUM_add_turkic_control_tooltip:0 "§CUighuren Einfluss§! wird zunehmen."
+KUM_add_zhongying_control_tooltip:0 "§RMa Zhongyings Einfluss§! wird zunehmen."
+KUM_future_of_kumul_tooltip:0 "§C[KUM.GetLeader] wird versuchen, seine Macht zu sichern.§!"
+KUM_constit_monarchy_flag:0 "Kumul wird eine konstitutionelle Monarchie"
+KUM_autocracy_monarchy_flag:0 "Kumul bleibt weiterhin autoritär"
+KUM_zhongying_arrival:0 "§RMa Zhongying und Ma Hushan sind als Generäle angekommen!§!"
+KUM_khanate_safe_focus_tree_tooltip:0 "§YDer Khanat-Schwerpunktbaum wird freigeschaltet§!"
+KUM_hoja_focus_tree_tooltip:0 "§YHoja-Niyazs Schwerpunktbaum wird freigeschaltet§!"
+KUM_fan_focus_tree_tooltip:0 "§YFan Yaonans Schwerpunktbaum wird freigeschaltet§!"
+KUM_ma_focus_tree_tooltip:0 "§YMa Zhongyings Schwerpunktbaum wird freigeschaltet§!"
+KUM_nasir_dead:0 "Nasir Shah ist tot, wir werden bald einen neuen Herrscher haben"
+KUM_beiyuan_tt:0 "Eine Hui-Division wird in Kumul erscheinen."
+
+### Trees ###
+Kumul_xinjiang:0 "Xinjiang-Zusatz-Schwerpunktbaum"
+Kumul_khanate:0 "Siegreiches Khanat-Schwerpunktbaum"
+Kumul_non_khanate:0 "Ende des Khanats-Schwerpunktbaum"
+
+### Opinion Modifiers ###
+KUM_gifted_melon:0 "Melonen verschenkt"
+
+###Decisions###
+KUM_influence_category:0 "Die Macht im Khanat"
+KUM_influence_category_desc:0 "Es gibt viele machthungrige Gruppen in unserem Land, deren Kontrolle der Schlüssel zur Sicherung unserer Herrschaft sein wird.\n\n§YDer gegenwärtige Einfluss der Han ist:§! [?KUM_chinese_influence|L0]§L%§!\n\n§YDer aktuelle Einfluss der Uiguren ist:§! [?KUM_turkic_influence|C0]§C%§!\n\n§YDerzeitige Einfluss von Ma Zhongying ist: [?KUM_military_influence|R0]§R%§!"
+KUM_a_gathering_in_kumul_mission:0 "Eine Versammlung in Kumul..."
+KUM_a_gathering_in_kumul_mission_desc:0 "Eine Versammlung einflussreicher Menschen in der Stadt Kumul könnte für unser Regime eine Katastrophe bedeuten..."
+KUM_grant_han_concessions:0 "Han-Konzessionen gewähren"
+KUM_continue_secularization:0 "Säkularisierung fortsetzen"
+KUM_anti_han_rhetoric:0 "Anti-Han Rhetorik"
+KUM_appoint_military_advisor:0 "Militärberater ernennen"
+KUM_request_support_equipment:0 "[QIE.GetAdjective] Unterstützungsausrüstung kaufen"
+KUM_request_infantry_equipment:0 "[QIE.GetAdjective] Waffen kaufen"
+KUM_pull_strings_with_industrialists:0 "Geheime Geschäfte mit Industrialisten"
+KUM_internal_category:0 "Assistenz im Khanat"
+KUM_internal_category_desc:0 "Der vorherige Khan hatte kaum Verbindungen zu den Mächten in Peking hergestellt, die bis heute in dieser Stadt bestehen. Wenn die Pekinger Regierung unsere Loyalität schätzt, wird sie unsere Forderung nach Waffen akzeptieren, um die reaktionären Kräfte zu besiegen, die Xinjiang verseucht haben."
+KUM_war_decision_category:0 "Krieg in Xinjiang"
+KUM_war_decision_category_desc:0 "In Xinjiang ist Krieg ausgebrochen und wir müssen unser Bestes geben, um sowohl gegen Rebellen als auch gegen korrupte Generäle zu gewinnen."
+KUM_assassinate_sabit_damulla_decision:0 "Sabit Damulla ermorden"
+KUM_assassinate_sabit_damulla_decision_desc:0 "Sabit Damulla führt derzeit eine Koalition von uigurischen Rebellenführern aus dem Südwesten Xinjiangs an. Nachdem unsere Feinde in Dihua besiegt sind, müssen wir uns jetzt nach Kashgar und Hotan vorrücken."
+KUM_foreign_category:0 "Außenpolitik"
+KUM_zhongying_war_on_xsm_decision:0 "Der Verräter Kin"
+KUM_zhongying_war_on_xsm_decision_desc:0 "Die größte Bedrohung für Hami sind die Ansprüche der Familie Ma dagegen. Ihre Erinnerung an Ma Zhongying wird zu unserer diplomatischen Isolation führen, wenn wir nicht gegen sie vorgehen."
+KUM_zhongying_war_on_mon_decision:0 "Mongolische Unterwürfigkeit sichern"
+KUM_zhongying_war_on_mon_decision_desc:0 "Wir dürfen die Mongolen nicht vergessen, die während unseres Bürgerkriegs Dzungaria ausgebeutet haben. Die mongolische Regierung ist für ihre Anwesenheit verantwortlich und muss für ihre Verbrechen Wiedergutmachung leisten."
+KUM_zhongying_war_on_tib_decision:0 "Tibet bestrafen"
+KUM_zhongying_war_on_tib_decision_desc:0 "Die Tibeter sind die Hauptursache für Hamis Leiden. Ihre buddhistische Frömmigkeit beschmutzt unseren Ruf bei den Indern und ihre Erinnerung an Ma Zhongyings Familie bedeutet, dass sie sich eines Tages sicherlich rächen werden."
+
+### Events ###
+kumul.0.t:0 "Das Kumul Khanat"
+kumul.0.d:0 "Das Kumul-Khanat, das direkt vom Chagatai-Khanat abstammt, hat es im Laufe der Qing-Dynastie geschafft, bis in die republikanische Ära und wieder zurück in den Schoß der Qing zu leben. Offiziell ein Protektorat des Qing-Reiches, kontrolliert Kumul die Hauptstraße zwischen Xinjiang und dem Rest Chinas. Die Reihe loyaler uigurischer Khane würdigt sowohl den Kaiser in Peking als auch die Regierung von Xinjiang selbst.\n\nDer vorherige Khan von Kumul, Masqud Shah, war bekannt für die bisher autoritärste Herrschaft in der Geschichte des bescheidenen Khanats, die zu zwei Aufständen führte gegen ihn in den Jahren 1907 und 1912. Dieser Hass auf den Khan setzte sich auf unseren neuen Herrscher, Nasīr Shah, fort, der im Khanat zumindest geringfügige Reformen bezüglich den wahnsinnigen Steuern und der Fronarbeit einleiten will, um sich wieder die Anerkennung seines Volkes zu verdienen. Ob dies funktionieren wird oder nicht, ist noch nicht abzusehen, da er immer noch beschließt, sich entweder auf die als Begs bekannten uigurischen Adligen oder seinen Rat des Kumul-Loyalisten Yulbars Khan und des ehemaligen Anti-Kumul-Revolutionärs Hoja-Niyaz zu verlassen.\n\nKumul wird als Friedenswächter angesehen, was den Frieden und Wohlstand in Xinjiang sichert. Es zeigt den Traum einer möglichen Selbstbestimmung für die vielen anderen uigurischen Einwohner Xinjiangs. Trotz unserer geringen Größe klingen die Auswirkungen unserer Existenz im Rest von Xinjiang weithin als indirekte Friedenshüter, die Massenrevolten verhindern."
+kumul.0.a:0 "Vielleicht sind wir doch wichtig..."
+
+kumul.1.t:0 "Wachsende Unruhen gegen Nasīr"
+kumul.1.d:0 "Mit dem langsamen Fortschreiten der von Nasīr versprochenen Reformen weiten sich die Unruhen auf unserem Territorium nur weiter aus. Erst kürzlich begannen gewalttätige Proteste in Kumuls Außenstadt, bevor sie von unserem Berater Yulbars Khan schnell niedergeschlagen wurden, bevor sie auf die Größe von den 07 und 12 Revolten anwachsen konnten. Während die Situation vorerst eingedämmt ist, müssen wir schnell handeln und entscheiden, wie genau und wann wir reformieren werden. Alle Leute, die Begs und die Berater warten verzweifelt darauf, dass Nasīr seinen Schritt macht, der über unsere Zukunft entscheidet."
+kumul.1.a:0 "Diese Leute sind so aufgebracht!"
+
+kumul.2.t:0 "Gerüchte über Unruhen aus dem Beraterkreis"
+kumul.2.d:0 "Da unsere Politik langsam beginnt, sich auf die verschiedenen Begs zu konzentrieren, die den Steuerfluss an die Regierung kontrollieren, beginnen sowohl Yulbars als auch Niyaz, sich über Nasīr zu ärgern. Während Yulbars ein überzeugter Loyalist ist und niemals wirklich revoltieren würde, ist Hoja-Niyaz der besorgniserregendere Fall. Seine Teilnahme an den Aufständen von '07 und '12 ist ein besorgniserregender Grund für Verrat, wenn erneut eine Massenrevolte gegen unsere Herrschaft beginnt. Wir müssen ihn und Yulbars besänftigen, wenn wir wollen, dass sie in zukünftigen Konflikten zwischen uns und unseren Untertanen auf unserer Seite bleiben."
+kumul.2.a:0 "Warum ist Regieren so komplex?"
+
+kumul.3.t:0 "Unruhe unter den Begs"
+kumul.3.d:0 "Die Begs sind uigurische Adlige in Kumul und dem Rest von Xinjiang, die den Steuerfluss innerhalb der Regionen kontrollieren und sicherstellen sollen, dass sie die Zentralregierung erreichen. Unsere derzeitige Bevorzugung des Beraterkreises über sie hat sie ganz offensichtlich verärgert, und das Letzte, was wir brauchen, sind unsere Steuereintreiber, die im Falle einer Revolte Geld von unserem Khan oder noch schlimmer auf die Seite des Volkes schmuggeln. Während sie vorerst loyal bleiben, müssen wir vorsichtig in die Zukunft gehen, um den schlimmsten Fall zu verhindern."
+kumul.3.a:0 "Diese Begs haben immer etwas vor"
+
+kumul.4.t:0 "Tribut an Xinjiang zahlen"
+kumul.4.d:0 "Es ist unsere Aufgabe, der Regierung von Xinjiang aufgrund unseres Protektoratsstatus jährlich unseren Tribut zu zollen. Dies ist hauptsächlich als symbolische Geste gedacht, um die Verbindungen zwischen dem Qing- und dem uigurischen Volk zu zeigen, da unser Tribut so einfach ist, wie eine Kumul-Melone an den Gouverneur von Xinjiang zu verschenken. Tradition ist wichtig, egal wie lächerlich es Außenstehenden erscheint, da die Beziehungen zwischen den Uiguren und Han für den zukünftigen Frieden in unserer Heimat aufrechterhalten werden müssen."
+kumul.4.a:0 "Frieden durch eine Frucht"
+
+kumul.5.t:0 "Inkompetenz"
+kumul.5.d:0 "Das neue Kabinett, das für Hami verantwortlich ist, ist... schlimmer, als man es erwartet hätte. Diese engen Freunde von Jin Shuren sind von Korruption, ständigem Geldschmuggel, Missbrauch und Ausbeutung der Menschen und allgemeiner Intoleranz gegenüber jedem, der nicht sie selbst sind, geplagt. Der derzeitige Ministerpräsident von Hami, Long Xielin, ist sicherlich keine Ausnahme, da er eine ähnliche Strategie wie Jin verfolgt, das Geld aus Steuern in seine eigenen Taschen zu stecken. Während dies vorerst hauptsächlich unter Verschluss gehalten wurde, werden uns die ohnehin hochkorrupten Beamten höchstwahrscheinlich in der Zukunft dieser neuen Präfektur schaden."
+kumul.5.a:0 "Hami ist verflucht"
+
+kumul.6.t:0 "Immigrationsbeginn"
+kumul.6.d:0 "Von Jin Shuren und Long Xielin genehmigt, wurde die Einwanderung von Gansu nach Hami eröffnet. Hami hält die Hauptstraße, die Xinjiang mit dem Rest Chinas verbindet, aber das Verbot der Einwanderung von Nicht-Uiguren durch das vorherige Khanat verhinderte, dass viele Chinesen Zugang zu der Region erhielten. Allerdings nicht mehr, denn Jin hat bereits die erste Gruppe von Hui- und Han-Einwanderern aus seiner Heimatprovinz geschickt, um sich innerhalb dieser neuen Grenze niederzulassen. Wir können nur hoffen, dass dies zu einer großartigen Zukunft unseres wunderbaren Volkes bis in die entlegensten Regionen Zentralasiens führt, obwohl es natürlich noch viel Zeit in Anspruch nehmen wird."
+kumul.6.a:0 "Auf eine wunderbare Zukunft!"
+
+kumul.7.t:0 "Einwanderungsprobleme"
+kumul.7.d:0 "Obwohl die Öffnung der Einwanderung nach Hami zweifellos enorme Verbesserungen in dieser zuvor unkultivierten mohammedanischen Stadt gebracht hat, war es keine ganz positive Angelegenheit. Anscheinend ist die lokale Bevölkerung wütend über unsere großzügigen Landreformprogramme, obwohl sie zu Recht kleinere unbebaute Grundstücke bekommen hat, um Platz für wichtigere Siedler zu schaffen. Es gab mehrere Fälle von Morden an Han-Einwanderern, aber bisher wurden sie zu isolierten Angelegenheiten degradiert. Es scheint, dass die Kumulilik doch gezähmt werden können."
+kumul.7.a:0 "Undankbares Pack."
+
+kumul.8.t:0 "Ein komischer Antrag"
+kumul.8.d:0 "Der von Jin Shuren ernannte neue Steuereintreiber Zhang Mu soll von einem jungen muslimischen Mädchen in der Stadt verliebt gewesen sein und sie um ihre Hand gebeten haben. Während so etwas normalerweise nicht von Bedeutung ist haben die örtlichen Ulama ihre tiefe Ablehnung der Ehe zum Ausdruck gebracht, da Zhang kein Muslim ist. Aus unbekannten Gründen hat der Vater des Mädchens jedoch der Gewerkschaft zugestimmt, und in einigen Wochen ist eine Zeremonie geplant.\n\nDie Spannungen in Kumulilik sind seit der Annexion gefährlich hoch, und diese dreiste Aktion wird die Bevölkerung wahrscheinlich weiter aufheizen. Jin Shuren hat Zhang jedoch angeblich seine Unterstützung gegeben, daher ist es unwahrscheinlich, dass sie jetzt gestoppt wird."
+kumul.8.a:0 "Liebe kennt keine Grenzen"
+
+kumul.9.t:0 "Ein saurer Empfang"
+kumul.9.d:0 "Katastrophe! Offenbar waren die Spannungen in Hami höher, als man es sich hätte vorstellen können, da Zhang Mu und seine Truppe letzte Nacht von radikalen Kumulilik-Kämpfern massakriert wurden. Anscheinend besuchte er eine Dinnerparty für das bevorstehende Fest, als eine große Gruppe von Männern ihn und seine Truppen überfiel. Wäre ihr Zustand nicht betrunken gewesen, hätten sie vielleicht eine Chance gehabt, aber nun ist es zu spät.\n\nDies ist jedoch jetzt das geringste unserer Probleme, da die Rebellen, die jetzt das Zehnfache ihrer vorherigen Zahl haben, die ganze Stadt gestürmt haben . Viele unserer Han-Einwanderer wurden massakriert, ihre Köpfe wurden abgeschlagen und im Dreck vergraben. Während sie die äußere Stadt überrannten, haben sich die verbliebenen Han-Bürger und Verwalter innerhalb der alten Stadtmauern stationiert und warten nun auf die Unterstützung von Jin Shurens Truppen, falls sie kommen."
+kumul.9.a:0 "Warscheinlich sollte es einfach nicht sein..."
+
+kumul.10.t:0 "Die Blutsteuer für Xinjiang"
+kumul.10.d:0 "Überreste von Zhang Mu's Garnison trafen in Jin Shurens Villa ein, um ein beispielloses Massaker an Han-Leuten in Hami zu melden. Es scheint, dass die Kumuliliks weniger zufrieden waren, als es die Berichte von Zhang Mu vermuten ließen, und seine Garnison wurde vor einigen Nächten von einer Menge muslimischer Agitatoren überrascht. Die Überlebenden erzählen von einer arrangierten Ehe zwischen Zhang Mu und der Tochter eines Ulama sowie von Steuerwiderständen. Zhang Ma versprach, Jin Shuren Bericht zu erstatten, tat es aber nie. Es ist jetzt offensichtlich, dass Hami an Jins Männer verloren ist und das Leben der Han-Einwanderer auf dem Spiel steht, sollte Jin bei einer Vergeltung scheitern."
+kumul.10.a:0 "Wieder einmal kommt es zu Gewalt in Xinjiang"
+
+kumul.11.t:0 "Besetzt und belagert"
+kumul.11.d:0 "Da unser anhaltender Dschihad gegen die Han-Besatzer ins Stocken geraten ist, sind wir in eine Sackgasse geraten. Wir haben weder die Männer noch die Waffen, um die Streitkräfte in der Altstadt zu besiegen, aber es fehlt ihnen auch an der Kraft oder dem Willen, uns entgegenzuwirken. Unser bester General, Yulbars Khan, hat seine Abreise angekündigt, um eine Armee zu rekrutieren, die jeden besiegen kann, der sich uns widersetzt. Während viele an seiner Fähigkeit zweifeln, ein solches Wunder zu finden, gibt es leise Gerüchte, dass er sich möglicherweise mit dem brutalsten der Ma-Kriegsherren, Ma Zhongying, verschworen hat. Eine solche Aktion wäre beispiellos und würde viel Zorn auf sich ziehen, uns aber auch eine dringend benötigte Kampfchance geben."
+kumul.11.a:0 "Hoffentlich findet der Alte Mann, was wir brauchen."
+
+kumul.12.t:0 "Eine günstige Begegnung"
+kumul.12.d:0 "Als Yulbars Ma Zhongyings Zelt betrat, das zweifellos das größte des Kriegslagers war, überkam ihn der Gestank von Opium. Es trieb ihn fast weg, aber er konnte nicht von seiner von Gott bestimmten Aufgabe abweichen. Den Moschus tragend, näherte er sich Zhongyings markanter Gestalt in der Mitte des Zeltes.\n\n'Der Tigerprinz von Kumul kommt, um mich zu seiner Beute zu machen?' der Ma-Kriegsherr kicherte.\n\n„Ich bin nur ein alter Mann, der die Stärke des Schlächters von Gansu sucht.“\n\nDie Formalitäten waren kurz, da jeder die Absicht des anderen kannte. Während der Besuch wie eine Überraschung inszeniert war, wurde in den vergangenen Wochen viel Korrespondenz ausgetauscht. Zhongying hatte eine Armee ohne Staat und Yulbars einen Staat ohne Armee. Nachdem alle Vorkehrungen getroffen waren, machte sich Zhongying mit seinen Männern schnell auf den Weg, und Yulbars folgte. Wie konnte er schließlich den Anblick dieses scheinbaren Todesboten übersehen?"
+kumul.12.a:0 "Eine unheilige Allianz..."
+
+kumul.13.t:0 "Der Herold des Todes"
+kumul.13.d:0 "Es scheint, dass die Gerüchte richtig waren, dass Yulbars mit dem berühmten Ma Zhongying zurückgekehrt ist. Während seine bloße Anwesenheit für viele ein erschreckender Gedanke ist, erschütterte die plötzliche Anwesenheit tausender weiterer Truppen das Herz der belagerten Garnison in der Altstadt.\n\nAls es Nacht wurde, machte Zhongying seinen Zug. Hunderte von Kumulilik-Reitern stürmten die Festungen mit einem feurigen Geist, wurden aber im Nu von Maschinengewehren niedergeschossen. Dies schreckte den Kriegsherrn jedoch nicht ab. Während der dunklen Stunden der Nacht griff eine Welle nach der anderen die Garnison an und wurde nach und nach zurückgeschlagen, aber nicht ohne hohe Kosten für die Verteidiger. Als die Munition zur Neige ging, begannen die Männer, ihre Gewehre für Schwert und Hecht aufzugeben und kämpften mit einer ähnlich ursprünglichen Intensität.\n\nAllerdings scheint das Glück die Mutigen zu bevorzugen. In den frühen Morgenstunden versetzten Zhongyings nun erschöpfte Truppen den Überresten der Garnison schließlich einen entscheidenden Schlag. Als Belohnung für seine Soldaten wurde die Altstadt dem Erdboden gleichgemacht, und alles, was von Bedeutung war, lag jetzt in den Händen seiner Männer. Selbst nach solch brutalen Kämpfen hat Zhongying [?Root.GetLeader] versprochen, seine Kampagne fortzusetzen, bis die letzten Truppen von Jin Shuren unter seinem Stiefel zerquetscht sind."
+kumul.13.a:0 "Eine erschreckende Kraft."
+
+kumul.15.t:0 "Die große Flucht"
+kumul.15.d:0 "In den frühen Morgenstunden wurde ein in den letzten Wochen erstellter Plan in die Tat umgesetzt. Nasīr Shah, der seit seiner Gefangennahme durch Jin Shuren im Gefängnis war, wartete in seiner Gefängniszelle auf das Signal. Als sich die Tür hinter der letzten Wache schloss, hallte das Zwitschern eines Vogels durch den Kerker. Da war das Signal. Damit zog Nasīr einige der Ziegel seiner Zellenwand heraus, die er in wochenlanger Arbeit gelöst hatte. Dahinter war ein Tunnel, der in die Freiheit führte. Nachdem er durchgekrochen war, traf er auf zwei zwielichtige Männer, die Umhänge über den Köpfen trugen. Einer von ihnen warf einen weiteren Umhang nach Nasīr, der hastig die Verkleidung anlegte. Damit konnte Nasīr direkt aus Dihua herausgehen, unter der Nase von [SIK.GetLeader].\n\nDie Nachricht von Nasīrs Flucht hat Kumul bereits erreicht, auch wenn Nasīr noch für ein paar Tage nicht hier sein wird. Seine mutige Flucht hat jedoch bereits die Moral gestärkt."
+kumul.15.a:0 "Exzellent."
+
+kumul.16.t:0 "Nasīr Shah kehrt zurück"
+kumul.16.d:0 "Als Nasīr, flankiert von zwei Wachen auf beiden Seiten, in die Stadt Kumul zurückkehrte, war die Stadt voller Menschen. Bei seinem Spaziergang brach der Jubel der Bauern in der ganzen Stadt aus, ein Symbol für Stabilität in diesen instabilen Zeiten. Als er zurück war, wurde ein Fest abgehalten, das weniger gefährlich war als das letzte von Nasīr. Nasīr sprach mit Yulbars Khan, dankte ihm für seine Dienste und wurde über alle jüngsten Ereignisse des Krieges informiert. Danach hielt er eine Rede, in der er den Truppen dankte und alle dazu motivierte, weiter gegen die Tyrannen in Dihua zu kämpfen."
+kumul.16.a:0 "Willkommen zurück."
+
+kumul.17.t:0 "Nasīr ist tot!"
+kumul.17.d:0 "In den frühen Morgenstunden wurde ein in den letzten Wochen erstellter Plan in die Tat umgesetzt. Nasīr Shah, der seit seiner Gefangennahme durch Jin Shuren im Gefängnis war, wartete in seiner Gefängniszelle auf das Signal. Als sich die Tür hinter der letzten Wache schloss, hallte das Zwitschern eines Vogels durch den Kerker. Da war das Signal. Damit zog Nasīr einige der Ziegel seiner Zellenwand heraus, die er in wochenlanger Arbeit gelöst hatte. Dahinter war ein Tunnel, der in die Freiheit führte. Nachdem er durchgekrochen war, traf er auf zwei zwielichtige Männer, die Umhänge über den Köpfen trugen. Alles schien nach Plan zu laufen, bis sie ihre Gesichter zeigten. Dies waren nicht Nasīrs Agenten, die ihm bei der Flucht helfen sollten. Mit einer schnellen Bewegung zog einer der Männer eine Pistole aus seinem Mantel und schoss Nasīr Shah in den Kopf, wodurch er getötet wurde.\n\nDie Nachricht davon erreichte uns heute Morgen, nachdem einer von Nasīrs Agenten, die ihm bei der Flucht helfen wollten, geflohen war, nachdem er entdeckt wurde."
+kumul.17.a:0 "Verflucht!"
+
+kumul.18.t:0 "Nasīr ist tot"
+kumul.18.d:0 "In den frühen Morgenstunden wurde ein in den letzten Wochen erstellter Plan in die Tat umgesetzt. Nasīr Shah, der seit unserer Gefangennahme im Gefängnis war, wartete in seiner Gefängniszelle auf das Signal. Als sich die Tür hinter der letzten Wache schloss, hallte das Zwitschern eines Vogels durch den Kerker. Da war das Signal. Damit zog Nasīr einige der Ziegel seiner Zellenwand heraus, die er in wochenlanger Arbeit gelöst hatte. Dahinter war ein Tunnel, der in die Freiheit führte. Nachdem er durchgekrochen war, traf er auf zwei zwielichtige Männer, die Umhänge über den Köpfen trugen und von denen Nasīr erwartete, dass sie seine eigenen Agenten waren. Wir konnten jedoch Tage vor seiner Umsetzung von dem Plan erfahren, sodass [SIK.GetLeader] seine eigenen Agenten dorthin schicken konnte, um Nasīr bei seiner Flucht zu begrüßen. Wie befohlen, schoss einer der Agenten Nasīr in den Kopf, was seinen Ärger beendete."
+kumul.18.a:0 "Auf Nimmerwiedersehen."
+
+kumul.19.t:0 "Der neue Anführer von Kumul"
+kumul.19.d:0 "Nach dem tragischen Tod von Nasīr Shah in Dihua ist es an der Zeit, die Nachfolge fortzusetzen. Obwohl Nasīrs Sohn Bashir Shah noch sehr jung ist, soll er in die Rolle des Khans von Kumul erhoben werden. Aufgrund seines Alters bleibt Yulbars jedoch Regent, bis Bashir als volljährig angesehen wird. Obwohl Bashir immer noch traurig über seinen Vater ist, darf er keine Zeit verlieren, da sich der Krieg in Xinjiang immer weiter verschärft."
+kumul.19.a:0 "Bashir Shah herrscht in Kumul!"
+
+kumul.20.t:0 "Das Schicksal von Nasīr Shah"
+kumul.20.d:0 "Nachdem das Kumul-Khanat uns vor einigen Wochen den Krieg erklärt hat, ist eine Frage zu Nasīr Shah aufgekommen, der derzeit in einer Gefängniszelle in Dihua lebt. Obwohl er vorerst in seinem Kerker bleibt, hallen Gerüchte durch Dihua, die davon sprechen, dass der Shah bald einen Fluchtversuch unternehmen wird. Nasīrs Rückkehr nach Kumul würde ihnen einen massiven Moralschub geben, während die Nachricht von seinem Tod sie nur entmutigen kann. Auch Nasīrs Tod lässt seinen Sohn Bashir Shah auf dem Thron zurück, ein junger Teenager, der nicht in der Lage ist, zu regieren. Eine schnelle Kugel in Nasīrs Kopf könnte uns in diesem Krieg sehr helfen."
+kumul.20.a:0 "Hinrichtung ist die einzige Option."
+kumul.20.b:0 "Er kann in seiner Zelle bleiben."
+
+kumul.21.t:0 "Ma Zhongying verlässt Gansu"
+kumul.21.d:0 "Der Schlächter von Gansu, Ma Zhongying, hat zusammen mit seinem Gefährten Ma Fushan zusammen mit ihren Armeen die Provinz Gansu verlassen. Einige Gerüchte machten die Runde, dass er von Kumul-General Yulbars Khan besucht worden sei und dass er sich vielleicht der bald bevorstehenden Kumul-Rebellion anschließen würde. Mit dem Beginn der Kumul-Rebellion scheint dies nun wahr geworden zu sein, da Zhongyings Truppen im Gebiet von Xinjiang gesichtet wurden."
+kumul.21.a:0 "Die Leute von Gansu freuen sich!"
+
+kumul.22.t:0 "Die Hinrichtung von Nasīr Shah"
+kumul.22.d:0 "Als die Dämmerung über Dihua hereinbrach, versammelte sich eine Menschenmenge in der Nähe des Gebäudes des Gouverneurs. Dort standen Jin und einige seiner Getreuen, darunter der ehemalige Ministerpräsident von Hami Long Xielin. Nach ein paar Minuten begann die Menge zu schreien und zu buhen, als Nasīr Shah, immer noch in seinem Gefängniskleid, durch die Versammlung und die Stufen zu Jin hinaufgeschleift wurde. Nasīr wurde auf die Knie geworfen, als Jin die Menge zur Ruhe winkte.\n\n''Nasīr Shah, als Gouverneur von Xinjiang, finde ich dich des Verrats und der Rebellion schuldig. Die Strafe dafür ist der Tod. Hast du noch ein paar letzte Worte?'\n\n''Mit dieser Kugel, Jin, endet deine Herrschaft.''\n\nDamit zog Jin eine Pistole aus seinem Umhang und schoss Nasīr in den Hinterkopf. Die Menge jubelte, als Nasīrs Körper auf dem Steinboden zusammensackte."
+kumul.22.a:0 "Der Tod eines Verräters."
+
+kumul.23.t:0 "The Execution of Nasīr Shah"
+kumul.23.d:0 "Als die Dämmerung über Dihua hereinbrach, versammelte sich eine Menschenmenge in der Nähe des Gebäudes des Gouverneurs. Dort standen Jin und einige seiner Getreuen, darunter der ehemalige Ministerpräsident von Hami Long Xielin. Nach ein paar Minuten begann die Menge zu schreien und zu buhen, als Nasīr Shah, immer noch in seinem Gefängniskleid, durch die Versammlung und die Stufen zu Jin hinaufgeschleift wurde. Nasīr wurde auf die Knie geworfen, als Jin die Menge zur Ruhe winkte.\n\n''Nasīr Shah, als Gouverneur von Xinjiang, finde ich dich des Verrats und der Rebellion schuldig. Die Strafe dafür ist der Tod. Hast du noch ein paar letzte Worte?'\n\n''Mit dieser Kugel, Jin, endet deine Herrschaft.''\n\nDamit zog Jin eine Pistole aus seinem Umhang und schoss Nasīr in den Hinterkopf. Die Menge jubelte, als Nasīrs Körper auf dem Steinboden zusammensackte. Als unser Agent in Dihua uns über diese Nachricht informierte, verbreitete sie sich schnell und Traurigkeit hat die Nation erfasst."
+kumul.23.a:0 "Ein trauriger Tag für Kumul."
+
+kumul.26.t:0 "Sieg in Xinjiang"
+kumul.26.d:0 "Endlich, nach Monaten des Kampfes gegen böse Gouverneure und rebellische Uiguren, ist es uns gelungen, die Ordnung in Xinjiang wiederherzustellen. Nachdem wir jedoch die Kontrolle über Xinjiang übernommen haben, müssen wir nun versuchen, sie zu behalten. Wir haben uns von einer kleinen Verwaltung mit nur einer kleinen Stadt zu einer Kontrolle über ein riesiges Gebiet entwickelt, das viel mehr bevölkert ist als Kumul selbst. Nicht nur das, wir müssen uns auch vor denen hüten, die uns geholfen haben. Sowohl Hoja-Niyaz, der uigurische Militärführer, als auch Ma Zhongying, der Schlächter von Gansu, haben ihre Hilfe angeboten, wobei unklar ist, ob sie zum Wohle der Menschen oder nur zu ihrem eigenen Vorteil helfen wollten. Die Han-Chinesen werden auch großen Einfluss auf unsere Regierung haben, mit einigen Gerüchten, dass Fan Yaonan, der Han-Bürokrat, der nach seinen Aktionen in der Xinjiang-Clique für tot gehalten wurde, möglicherweise noch am Leben ist. Obwohl diese Gruppen helfen können, dürfen wir ihnen nicht zu viel Einfluss geben, sonst versuchen sie vielleicht sogar, das Khanat zu beenden."
+kumul.26.a:0 "Exzellent."
+
+kumul.27.t:0 "[KUM.GetLeader]s Entscheidung"
+kumul.27.d:0 "With the power in the Khanate now secure from the threats of those whom wished to overthrow it, we must now look to the future. Following the despotic rule of Masqud Shah before Nasīr, reforms had begun to be implemented, to try to push Kumul further into the modern age. However, these reforms were cut short by Jin Shuren's treacherous move. Now, [KUM.GetLeader] is faced with an important decision: to move the Kumul Khanate to a more democratic rule through the Begs, or to hang onto the absolute monarchy permanently."
+kumul.27.a:0 "Eine konstitutionelle Monarchie!"
+kumul.27.b:0 "Despotismus! Alle Macht [KUM.GetLeader]!"
+
+kumul.28.t:0 "Xinjiang beantragt Beamte"
+kumul.28.d:0 "Als derzeitiger Eigentümer von Peking hat Fan Yaonan in Xinjiang uns als rechtmäßige Regierung Chinas anerkannt. In einem Brief, den er uns geschickt hat, hat er erklärt, dass wir als rechtmäßige Regierung Chinas sicherlich in der Lage sein sollten, seiner Regierung in Xinjiang zu helfen. Weit im ganzen Land behauptet Fan, dass ihm richtige Han-Chinesen fehlen, die in der Lage sind, eine Regierung zu führen, ohne korrupt zu sein. Deshalb hat er uns gebeten, ihm ein paar richtige Bürokraten zu schicken, die wissen, was sie tun. Wir könnten dies jedoch auch zum Anlass nehmen, einige unserer weniger fähigen, leicht korrupten Administratoren wegzuschicken."
+kumul.28.a:0 "Schicken wir offizielle Bürokraten."
+kumul.28.b:0 "Schicken wir korrupte Bürokraten."
+kumul.28.c:0 "Wir haben keine Zeit für Fan."
+
+kumul.29.t:0 "Peking entsendet offizielle Bürokraten"
+kumul.29.d:0 "Wir haben eine Nachricht aus Peking über unsere Anfrage erhalten. Sie haben sich entschieden, mehrere Han-Bürokraten und -Verwalter zu entsenden, die helfen werden, Xinjiang effizient und ohne Korruption zu führen."
+kumul.29.a:0 "Exzellent."
+
+kumul.30.t:0 "Peking entsendet korrupte Bürokraten"
+kumul.30.d:0 "Wir haben eine Nachricht aus Peking über unsere Anfrage erhalten. Sie haben sich entschieden, mehrere Han-Administratoren zu entsenden, die bei der Führung von Xinjiang helfen werden. Fan erkennt jedoch die Namen mehrerer Personen, die hinübergeschickt wurden, als einige der korruptesten Bürokraten in Peking an. Es scheint, dass sie unsere Bitte als Vorwand benutzt haben, um ihre korrupten Administratoren wegzuschicken und sie zu unserem Problem zu machen."
+kumul.30.a:0 "Besser als nichts."
+
+kumul.31.t:0 "Der Plan"
+kumul.31.d:0 "Die losen Rebellen Ostturkestans werden durch eine Figur vereint: Sabit Damulla. Die Bughra-Brüder von Hotan und der Handelsadlige Timur Beg werden nur durch Sabit Damulla vereint. Wenn wir Sabit entfernen, beseitigen wir ihre Einheit und ihre Koalition wird wahrscheinlich zusammenbrechen. Nachdem wir den Aufenthaltsort von Sabit Damulla durch ein Verhör herausgefunden haben, hat unser Militärstab entschieden, dass es jetzt an der Zeit ist zu handeln. Die Person, die am besten bereit ist, diese Mission zu leiten, ist unser General Mahmut Muhiti. Er hatte in der Vergangenheit Verbindungen zu den türkischen Unabhängigkeitsbewegungen, hat uns aber seitdem seine Loyalität geschworen. Wir könnten ihn mit einer kleinen Gruppe professioneller Truppen ins Rebellenland schicken und Damullas Haus angreifen, während er schläft. Hoffentlich wird Muhiti Erfolg haben."
+kumul.31.a:0 "Viel Erfolg."
+
+kumul.32.t:0 "Attentat auf Sabit Damulla!"
+kumul.32.d:0 "Heute hat sich ein tragisches Ereignis ereignet. Während Sabit Damulla in seinem Haus schlief, warteten seine Wachen draußen faul und konzentrierten sich nicht auf die Berge um sie herum. Als einer der Wachen auf einer Stufe saß und seine Waffe auseinandernahm, war sein Schädel plötzlich mit Blei gefüllt. Der Schuss hallte durch das Tal, als der Rest der Wachen in Aktion trat. Ein Feuergefecht brach aus, als von der Spitze eines nahe gelegenen Hügels eine Gruppe von Soldaten, etwa 18 Mann stark, den Hügel hinunterstürmte, angeführt von Kumul-General Mahmut Muhiti. Die Gruppe konnte die 7 Wachen vor dem Haus töten, verlor jedoch 3 selbst. Als sie sich dem Haus näherten, verloren sie 2 weitere durch Wachen, die aus dem Fenster schossen. Muhiti selbst trat durch die Tür und schoss einem anderen Wachmann mit seiner Pistole in den Kopf. Die Gruppe reiste durch das Haus und tötete weitere 3 Wachen, verlor selbst keinen. Jetzt war nur noch Sabit Damulla übrig. Als der sich Sabits Schlafzimmer näherte, lud Muhiti seine Pistole nach und lächelte über seinen Erfolg. Als er jedoch durch die Tür schlug, fand er nur ein leeres Bett und ein offenes Fenster. Muhiti erkannte seinen Fehler, nicht mehr Soldaten draußen zu lassen, um den Umkreis zu bewachen, als Sabit Damulla ihm entglitt. Innerhalb einer Stunde erreichten Hunderte von Sabits Truppen das Haus, aber bis dahin waren Muhiti und seine Männer verschwunden.\n\nObwohl die Ermordung ein Fehlschlag war, wird sie immer noch schlimme Folgen haben. Sabit Damulla, paranoid für sein Leben, ist untergetaucht, wodurch es sehr schwierig wird, mit ihm zu kommunizieren. Divisionen bleiben desorganisiert und wenden sich manchmal sogar gegeneinander."
+kumul.32.a:0 "Verflucht!"
+
+kumul.33.t:0 "Attentat auf Sabit Damulla gescheitert"
+kumul.33.d:0 "Mahmut Muhiti ist zurückgekehrt, nachdem seine Mission gescheitert ist. Er erzählt eine Geschichte, wie seine Männer einen Hügel hinunter auf das Haus von Sabit Damulla stürmten und auf ihrem Weg nach unten mehrere Wachen töteten. Er erzählt, wie er selbst die Haustür eingetreten und mehrere Wachen mit seiner Pistole erschossen hat. Als er jedoch in Sabits Schlafzimmer ankam, war er entkommen.\n\nObwohl Muhiti bei seiner Mission versagte, ist dies kein Totalverlust. Unsere Spione in Hotan und Kashgar haben uns erzählt, dass Sabit Damulla untergetaucht ist und sich von den meisten anderen Menschen vollständig isoliert hat. Dies hat zu einer vollständigen Desorganisation der ostturkestanischen Streitkräfte geführt."
+kumul.33.a:0 "Hätte schlimmer kommen können."
+
+kumul.50.t:0 "Unsere Verwaltung ist sehr dünn verteilt"
+kumul.50.d:0 "Wie erwartet, ist unsere Verwaltung derzeit nicht in der Lage, die Provinz zu führen. In Xinjiang sind bereits mehrere kleine Rebellionen aus einer Vielzahl von Gründen ausgebrochen: Einige sind Jin immer noch treu, einige leben nach der totalen Umwälzung der vorherigen Regierung in Anarchie, während die meisten einfach nur wütend über den Mangel an Nahrungsmitteln und Versorgung sind . [KUM.GetLeader] wollte Ma Zhongying losschicken, um diese Rebellionen zu bekämpfen, als plötzlich die Nachricht die Stadt Kumul erreichte: Fan Yaonan lebt noch. Der Han-Bürokrat versteckte sich in einem Bergdorf nördlich von Dihua, nachdem er von der vorherigen Regierung verstoßen worden war. Als die vorherige Regierung gestürzt wurde, reiste er in die Stadt Kumul, um [KUM.GetLeader] die Treue zu schwören und seine Hilfe bei der Organisation des Staates anzubieten. Er wurde bereits in die Regierung aufgenommen und ist eine sehr beliebte Persönlichkeit unten den Han-Chinesen in Xinjiang. Ob er aber so schnell eine so große Aufgabe bekommen soll, steht zur Debatte."
+kumul.50.a:0 "Nutzen wir die Verwaltungsfähigkeiten von Fan Yaonan, um die Ordnung zu sichern."
+kumul.50.b:0 "Nutzen wir Ma Zhongyings Militär, um die Ordnung zu sichern."
+kumul.50.c:0 "Unsere Verwaltung wird sich selbst reparieren, kein Eingreifen erforderlich."
+
+kumul.51.t:0 "Hoja-Niyaz beginnt, uigurische Führer zu treffen"
+kumul.51.d:0 "Hoja-Niyaz hat, nachdem er uns zu unserem Sieg verhalfen hat, begonnen, durch die Provinz zu reisen und mit vielen der uigurischen Stammesführer zu sprechen, die hauptsächlich im Süden leben. Obwohl es in der Tat gut ist, diese Regionen für unsere Regierung zu sichern, befürchten einige, dass dies nur Hoja-Niyaz sein könnte, der versucht, Einfluss zu gewinnen. Wenn nötig, können wir Ma Zhongying zu ihm schicken, um unsere Stärke zu zeigen und zu versuchen, Hoja-Niyaz in Schach zu halten."
+kumul.51.a:0 "Es besteht kein Grund zur Sorge."
+kumul.51.b:0 "Schicken wir Ma Zhongying."
+
+kumul.52.t:0 "Fan spricht mit mächtigen Unternehmensführern"
+kumul.52.d:0 "Die Region Xinjiang ist sehr gebirgig, dünn besiedelt und rückständig. Einige Geschäftsleute aus China sehen es jedoch immer noch als einen guten Ort, um ein Unternehmen zu gründen. Vor kurzem haben wir gehört, dass Fan Yaonan mehrere Treffen mit einigen der wichtigsten Geschäftsleute und Fabrikbesitzer der Region abgehalten hat. Berichten zufolge hat er sogar mit Geschäftsleuten aus der Nähe von Peking gesprochen und versucht, sie davon zu überzeugen, nach Xinjiang zu kommen, um Fabriken zu gründen."
+kumul.52.a:0 "Was hat er nur vor..."
+
+kumul.53.t:0 "Ma Zhongying plant Überfalle"
+kumul.53.d:0 "Wir haben vor kurzem herausgefunden, dass Ma Zhongying, der Schlächter von Gansu, den Plan gefasst hat, mehrere Dörfer in der Nähe von Dihua zu überfallen, um sie auszuplündern und ihr Opium zu nehmen. Yulbars Khan hat uns einen Plan vorgeschlagen, wie wir ihn davon abhalten können. Wir können Ma Zhongying mehr Macht in unserer Regierung und ein höheres Gehalt geben, um ihn dazu zu bewegen, die Stadt nicht zu verlassen. Hoja-Niyaz hat jedoch erklärt, dass dies eine schreckliche Idee sei und dass Ma Zhongying zu gefährlich sei, um mehr Macht zu bekommen."
+kumul.53.a:0 "Geben wir ihm, was er braucht."
+kumul.53.b:0 "Der Gauner muss gaunern."
+
+kumul.54.t:0 "Fan spricht mit Peking"
+kumul.54.d:0 "Der Bürokrat Fan Yaonan hat kürzlich gegenüber den Menschen in Dihua eine Erklärung abgegeben, wie er Kontakt zu den Menschen in Peking aufgenommen hat und offen mit ihnen kommuniziert. Obwohl dies unserer Regierung mehr Legitimität verleiht, zeigt es, dass Fan weit mehr Macht hat, als es scheint. Einige Leute beginnen zu glauben, dass Fan der einzige Mann in unserer Regierung ist, der legitim genug ist, um zu regieren."
+kumul.54.a:0 "Besorgniserregend."
+
+kumul.55.t:0 "Instabilität nimmt zu"
+kumul.55.d:0 "Seit der Machtübernahme in Dihua besteht das Hauptproblem darin, die Kontrolle zu behalten. Unsere kleine Verwaltung musste die Verwaltung von ganz Xinjiang, einem riesigen Gebiet, ersetzen. Damit hat die Instabilität in der gesamten Provinz täglich zugenommen und erreicht einen Bruchpunkt. Es gibt jedoch eine Lösung: das Militär. Es wurde vorgeschlagen, dass das Militär durch weitaus mehr Macht die Ordnung in der gesamten Region aufrechterhalten kann. Das könnte jedoch aus politischer Sicht gefährlich sein."
+kumul.55.a:0 "Es soll geschehen."
+kumul.55.b:0 "Das ist zu riskant."
+
+kumul.56.t:0 "Uiguren im Süden protestieren"
+kumul.56.d:0 "Die uigurischen Stämme im Süden, insbesondere die in der Nähe von Hotan, leben seit dem Zusammenbruch der Regierung von Jin Shuren im Chaos. Nachdem sie von den uigurischen Rebellenführern bewaffnet wurden, sind viele der Stämme durch die Region gereist und haben die Dörfer in der Gegend vergewaltigt und geplündert. Dies muss natürlich unterbunden werden. Wir haben jedoch die Wahl, wie wir es lösen. Wir könnten Hoja-Niyaz schicken, um die Gruppen zu beruhigen, vielleicht sogar für seine Truppen rekrutieren. Hoja-Niyaz ist Diplomat, flexibel und ein bedeutender uigurischer Führer. Seine Popularität bei den Uiguren ist nahezu unübertroffen. Anstatt jedoch mit den Stämmen zu verhandeln, sollten sie vielleicht vernichtet werden. Ma Zhongying und seine opiumsüchtigen Soldaten sitzen untätig daneben und sind bereit, so zu handeln, wie wir es ihnen sagen. Vielleicht braucht es eine eiserne Faust, um mit diesen Rebellen fertig zu werden."
+kumul.56.a:0 "Hoja-Niyaz wird die Situation entschärfen."
+kumul.56.b:0 "Ma Zhongying wird die Krise beenden."
+
+kumul.57.t:0 "Zunehmende Einwanderung"
+kumul.57.d:0 "Seit dem Ende des Krieges mit der alten Regierung hat die chinesische Einwanderung immer mehr zugenommen. Die Straße durch Kumul war voller Menschen, die in die Region zogen, um ein neues Leben zu beginnen. Einige fragen sich jedoch, ob wir dies zulassen sollten."
+kumul.57.a:0 "Lasst die Grenzen offen."
+kumul.57.b:0 "Schließt die Grenzen."
+
+kumul.58.t:0 "Uigurische Schutzpatrouille"
+kumul.58.d:0 "Der Schlächter von Gansu Ma Zhongying macht jedem Angst, der die unglückliche Erfahrung macht, ihn und seine Armee zu treffen. Als Reaktion auf seine zunehmenden Razzien in der Region hat Hoja-Niyaz eine neue Gruppe namens Uigurische Schutzpatrouille gebildet, eine Gruppe, die sich darauf konzentriert, Uiguren vor Ma Zhongyings Razzien zu schützen. Obwohl diese Gruppe die Sicherheit der Menschen gewährleistet, könnten wir Hoja-Niyaz zu viel Macht geben. Indem wir ihn jedoch zwingen, die Gruppe aufzulösen, könnten wir Ma Zhongying freie Hand lassen."
+kumul.58.a:0 "Hoja-Niyaz wird die Gruppe auflösen."
+kumul.58.b:0 "Hoja-Niyaz soll die Leute beschützen."
+
+kumul.59.t:0 "Finanzierung"
+kumul.59.d:0 "Um die Ordnung in Xinjiang aufrechtzuerhalten, brauchen wir wirklich mehr Geld. Wir haben einen Großteil unserer Reserven ausgeschöpft, indem wir unsere Verwaltung erweitert und versucht haben, den Frieden in der Provinz aufrechtzuerhalten. Die wichtigsten Personen, die über die benötigten Mittel verfügen, sind derzeit die drei einflussreichsten Personen des Landes: Hoja-Niyaz, Fan Yaonan und Ma Zhongying. Wir müssen einen von ihnen bitten, uns etwas von ihrem Geld zu geben."
+kumul.59.a:0 "Bitten wir Fan um Geld."
+kumul.59.b:0 "Bitten wir Hoja-Niyaz um Geld."
+kumul.59.c:0 "Bitten wir Ma Zhongying um Geld."
+
+kumul.70.t:0 "Niedrige Steuereinnahmen"
+kumul.70.d:0 "Viele Jahrhunderte lang, während wir dem Regime in Dihua treu blieben, erzielten wir einen Großteil unserer Einnahmen durch sie. Die eigentliche Region von Kumul ist sehr klein, daher fehlten die daraus gewonnenen Steuern. Daher haben wir den größten Teil unseres Geldes aus Xinjiang selbst gewonnen. Die Leute von Kumul haben ihre Steuern mit Vieh bezahlt. Daher haben wir, seit wir die direkte Kontrolle über Dihua übernommen haben, ein Problem: Uns fehlt eine angemessene Steuerinfrastruktur. Wir haben weder genug Steuereintreiber noch Leute, um die Steuern tatsächlich durchzusetzen. In vielen Regionen des Landes, in denen die Infrastruktur besonders schlecht ist, erheben skrupellose Steuereintreiber der Vorgängerregierung zwar noch Steuern, horten sie aber für sich. Wir arbeiten jetzt daran, unsere Steuereintreiber und Truppen unter Yulbars Khan zu schicken, um die Steuern einzuziehen."
+kumul.70.a:0 "Mist!"
+
+kumul.71.t:0 "Ma Zhongying zieht sich in die Berge zurück"
+kumul.71.d:0 "Seit wir unsere Herrschaft über Xinjiang gesichert haben, sitzt Ma Zhongying gelangweilt und müde von all der Politik. Er kam ursprünglich nach Kumul, um zu versuchen, Macht zu erlangen, und jetzt, da er aufgehalten wurde, hat er beschlossen, sich in die Hügel zurückzuziehen, um zu seinen regulären Überfällen und Plünderungen zurückzukehren, und versprach, zurückzukehren, falls der Krieg ausbrechen sollte. Die Menschen in Xinjiang, oder zumindest diejenigen, die sich seiner Razzia nicht stellen müssen, atmen erleichtert auf, dass Ma Zhongying keine Chance mehr hat, die Macht in der Provinz zu übernehmen."
+kumul.71.a:0 "Der Metzger hat das Gebäude verlassen."
+
+kumul.72.t:0 "Einführung des islamischen Rechts"
+kumul.72.d:0 "Die Mehrheit der Menschen in der Region Xinjiang ist islamischen Glaubens. Unsere Dynastie gehört der Uiguren-Ethnie an, einer muslimischen Ethnie, die den Turkvölkern Zentralasiens näher steht als den Han von China. Daher wurde beschlossen, dass die Gesetze der Provinz nun mehr und mehr denen entsprechen, die im Islam gelehrt werden. Ein Großteil der Han-Bevölkerung, die in die Provinz gezogen ist, hat jedoch großen Widerstand gegen diesen Schritt geleistet und sagt, wir sollten säkularer sein."
+kumul.72.a:0 "Die werden schon bald damit klarkommen."
+
+kumul.80.t:0 "Ein Treffen mit uigurischen Rebeln"
+kumul.80.d:0 "Hoja-Niyaz traf sich mit den alten Ostturkestan-Rebellen, ein riskantes Wagnis aufgrund ihrer gemeinsamen ethnischen Zugehörigkeit. Die wenigen auserwählten Hoja-Niyaz wurden ihm empfohlen, da ihr Land von der Xinjiang-Armee zerstört wurde. Nach mehreren Stunden Kommunion in den Kumul-Madrassas haben die uigurischen Rebellen vor Hoja-Niyaz kapituliert. Im Gegenzug wird Hoja-Niyaz sie für ihre Hilfe und Stabilität in die Regierung aufnehmen."
+kumul.80.a:0 "Agabey!"
+
+kumul.81.t:0 "Ärger mit der Scharia"
+kumul.81.d:0 "Nach der Verabschiedung der Verfassung in Kumul ist die Grundlage für die Umsetzung des Scharia-Gesetzes in ganz Kumul gelegt. Sofort traten Probleme auf, als der letzte Mufti von Xinjiang vor Jahrzehnten nach [773.GetCapitalVictoryPointName] floh. Die Ernennung eines neuen Muftis verursacht deshalb Ärger, weil es kein nationales Protokoll für die Wahl eines Muftis unter den Imamen gibt. Für diejenigen, die sich Kumul müde anschlossen, hat die Tatsache, dass das unabhängige Ostturkestan in der Kaschgar-Madrassa formuliert wurde, den zukünftigen Mufti bereits als politisches Werkzeug und nicht als unabhängiger Jurist, wie es der Koran verlangt, diskreditiert."
+kumul.81.a:0 "Wenn wir nur Shakib Arslan bekommen könnten..."
+
+kumul.82.t:0 "Angebot für mongolische Gewehre"
+kumul.82.d:0 "Der Verwaltung ist klar geworden, dass ihnen ein exklusives Handelsabkommen mit den Osmanen mehr nützt als uns. Als Ergebnis hat ein unerschrockener Agent von [KUM.GetLeader] mongolische Händler aufgesucht. Die Mongolen, die besser darin sind, Russland und China nach Waffen zu plündern, sind zum Handel bereit. Als Gegenleistung für eine Lieferung von Gewehren hat [KUM.GetLeader] deren Wert in feinen Hotan-Teppichen versprochen."
+kumul.82.a:0 "Ein feines Geschäfte."
+
+kumul.90.t:0 "Städteentwicklung"
+kumul.90.d:0 "Die jahrhundertelangen politischen Unruhen in China haben in Kumul eine selbstbewusste Generation hervorgebracht, die modernes politisches Denken meidet und durch Analphabetismus zu einer Schachfigur gemacht wird. Um dieser weit verbreiteten pädagogischen und ideologischen Ignoranz entgegenzuwirken, hat [KUM.GetLeader] die Preise für die Ansiedlung in Städten auf ein Allzeittief gesenkt. Dies wird Nomaden hoffentlich dazu ermutigen, Wurzeln in Zentren zu pflanzen, die [KUM.GetLeader] leichter kontrollieren kann."
+kumul.90.a:0 "Modernisierung, nicht Westernisierung!"
+
+kumul.91.t:0 "Alle Straßen führen nach Dihua"
+kumul.91.d:0 "Fan Yaonan beginnt seinen Plan "Alle Wege führen nach Dihua", ein Plan, Straßen durch das ganze Land zu bauen, die zur Hauptstadt Dihua führen. Diese Resolution wird von den Leuten von Kumul gnädig aufgenommen, die sich erinnern, dass sie durch die Taklamakan-Wüste wandern mussten, um den gierigen marschierenden Armeen zu entgehen."
+kumul.91.a:0 "Exzellent."
+
+kumul.92.t:0 "Eine weitere Straße nach China"
+kumul.92.d:0 "Die Straße zwischen Kumul und Hexi war für Reisende eine der tückischsten. Vom Banditentum bis zum Betrüger, diese Endstation des Westtors ist mit vielen Fallen übersät. Für [KUM.GetLeader] ist die baufällige Straße ein großes Hindernis, um jemals Hilfe aus China zu erhalten. Daher fordert [KUM.GetLeader], die Straße neu zu asphaltieren und die Banditen besser einzudämmen."
+kumul.92.a:0 "Gute Arbeit."
+
+kumul.100.t:0 "Ein Fest in Kumul"
+kumul.100.d:0 "Seit vielen Monaten arbeiten Minister, Bürokraten und Regierungsbeamte hart daran, die Kontrolle von Kumulilik in Xinjiang zu sichern. Die Menschen haben in der ganzen Provinz gearbeitet, und die Kommunikation war langsam. Daher beschloss [KUM.GetLeader], ein großes Treffen in der Stadt Kumul einzuberufen, das von einem noch größeren Fest begleitet wurde. Obwohl die erklärte Absicht der Versammlung darin bestand, Informationen nachzuholen und anhaltende Stabilität zu feiern, ist es klar, dass dies tiefere Motive hat. Viele glauben, dass [KUM.GetLeader] und Yulbars Khan darauf abzielen, den wachsenden Einfluss mehrerer Schlüsselfiguren in der Regierung zu stoppen: des abtrünnigen Uiguren Hoja-Niyaz, des Han-Bürokraten Fan Yaonan und des Metzgers von Gansu Ma Zhongying. Obwohl sie behaupten, unserer Regierung gegenüber loyal zu sein, befürchten viele, dass sie andere Absichten haben könnten...\n\nAls alle in Kumul ankamen, herrschte in der Stadt reges Treiben. Soldaten, Bauern und Bürokraten eilen umher, um Vorbereitungen für das große Treffen zu treffen. Fan Yaonan traf zuerst ein, umgeben von einer Gruppe seiner Han-Loyalisten, gefolgt von Hoja-Niyaz, der mit einer Gruppe uigurischer Soldaten aus den Bergen von Hotan ankam. Endlich, eine Stunde später als erwartet, kam Ma Zhongying, der Opiumgestank verfolgte seine Soldaten, die durch die Stadt zogen. Sie wurden alle von [KUM.GetLeader] und Yulbars empfangen, als sie alle den Palast betraten. Das Treffen dauerte Stunden, und es gab viele Argumente. Hoja-Niyaz drohte mehrmals, dass er einfach gehen würde, und Ma Zhongying zog Yulbars sogar eine Waffe direkt ins Gesicht. Als die Sonne jedoch unterging, wurden Vereinbarungen getroffen und der Frieden war endlich gesichert. Endlich wurde Essen für ein großes Fest gebracht, bei dem die Männer der Versammlung ein Glas auf die Stabilität in Xinjiang erhoben haben."
+kumul.100.a:0 "Das Khanat ist sicher."
+
+kumul.101.t:0 "Ein Fest in Kumul"
+kumul.101.d:0 "Seit vielen Monaten arbeiten Minister, Bürokraten und Regierungsbeamte hart daran, die Kontrolle von Kumulilik in Xinjiang zu sichern. Die Menschen haben in der ganzen Provinz gearbeitet, und die Kommunikation war langsam. Daher beschloss [KUM.GetLeader], ein großes Treffen in der Stadt Kumul einzuberufen, das von einem noch größeren Fest begleitet wurde. Obwohl die erklärte Absicht der Versammlung darin bestand, Informationen nachzuholen und anhaltende Stabilität zu feiern, ist es klar, dass dies tiefere Motive hat. Viele glauben, dass [KUM.GetLeader] und Yulbars Khan darauf abzielen, den wachsenden Einfluss mehrerer Schlüsselfiguren in der Regierung zu stoppen: des abtrünnigen Uiguren Hoja-Niyaz, des Han-Bürokraten Fan Yaonan und des Metzgers von Gansu Ma Zhongying. Obwohl sie behaupten, unserer Regierung gegenüber loyal zu sein, befürchten viele, dass sie andere Absichten haben könnten...\n\nAls alle in Kumul ankamen, herrschte in der Stadt reges Treiben. Soldaten, Bauern und Bürokraten eilen umher, um Vorbereitungen für das große Treffen zu treffen. Fan Yaonan traf als erster ein, umgeben von einer Gruppe seiner Han-Loyalisten. Eine Stunde später als erwartet kam Ma Zhongying, der Gestank von Opium folgte seiner Truppe, die durch die Stadt streifte. Es fehlte jedoch merklich jemand. Hoja-Niyaz, obwohl er erst neulich in einem Brief erklärte, dass er beitreten würde, war nirgendwo zu sehen. Als [KUM.GetLeader] und Yulbars besorgte Blicke austauschten, musste das Treffen ohne ihn beginnen.\n\nHoja-Niyaz hatte jedoch vor, dem Treffen beizutreten. Während er die Stadt Kumul betrat, marschierten hinter ihm 500 loyale uigurische Soldaten. Nachdem sie die Wachen der Stadt und die Soldaten von Ma Zhongying getötet hatten, umzingelten sie den Palast, während Hoja-Niyaz mit 20 seiner Truppen in das Treffen eintrat. Schnell übernahmen sie das Treffen und verhafteten Fan Yaonan, Ma Zhongying, [KUM.GetLeader] und Yulbars Khan. Es scheint, dass sie die Freiheit höchstwahrscheinlich nicht wieder genießen werden. Mit bereits großem Einfluss in der Regierung ist die Macht von Hoja-Niyaz bereits gesichert."
+kumul.101.a:0 "Hoja-Niyaz herrscht in Kumul."
+
+kumul.102.t:0 "Ein Fest in Kumul"
+kumul.102.d:0 "Seit vielen Monaten arbeiten Minister, Bürokraten und Regierungsbeamte hart daran, die Kontrolle von Kumulilik in Xinjiang zu sichern. Die Menschen haben in der ganzen Provinz gearbeitet, und die Kommunikation war langsam. Daher beschloss [KUM.GetLeader], ein großes Treffen in der Stadt Kumul einzuberufen, das von einem noch größeren Fest begleitet wurde. Obwohl die erklärte Absicht der Versammlung darin bestand, Informationen nachzuholen und anhaltende Stabilität zu feiern, ist es klar, dass dies tiefere Motive hat. Viele glauben, dass [KUM.GetLeader] und Yulbars Khan darauf abzielen, den wachsenden Einfluss mehrerer Schlüsselfiguren in der Regierung zu stoppen: des abtrünnigen Uiguren Hoja-Niyaz, des Han-Bürokraten Fan Yaonan und des Metzgers von Gansu Ma Zhongying. Obwohl sie behaupten, unserer Regierung gegenüber loyal zu sein, befürchten viele, dass sie andere Absichten haben könnten...\n\nAls alle in Kumul ankamen, herrschte in der Stadt reges Treiben. Soldaten, Bauern und Bürokraten eilen umher, um Vorbereitungen für das große Treffen zu treffen. Hoja-Niyaz traf zuerst mit einer Gruppe uigurischer Soldaten aus den Bergen von Hotan ein. Eine Stunde später als erwartet kam Ma Zhongying, der Gestank von Opium folgte seiner Truppe, die durch die Stadt streifte. Es fehlte jedoch merklich jemand. Fan Yaonan, obwohl er erst neulich in einem Brief erklärte, dass er beitreten würde, war nirgendwo zu sehen. Als [KUM.GetLeader] und Yulbars besorgte Blicke austauschten, musste das Treffen ohne ihn beginnen.\n\nFan Yaonan hatte jedoch vor, dem Treffen beizutreten. Während er die Stadt Kumul betrat, marschierten hinter ihm 250 loyale Han-Soldaten. Die Stadtwachen schlossen sich Fan an, anstatt die Truppe abzuwehren, nachdem sie von ihm bezahlt worden waren, bevor er ankam. Ma Zhongyings Soldaten, die in einem Opiumhaus abgelenkt waren, wurden leicht entsandt. Danach umzingelte die Truppe von Fan den Palast, während Fan selbst mit 20 seiner Truppen in das Treffen ging. Schnell übernahmen sie das Treffen und verhafteten Hoja-Niyaz, Ma Zhongying, [KUM.GetLeader] und Yulbars Khan. Es scheint, dass sie die Freiheit höchstwahrscheinlich nicht wieder genießen werden. Mit bereits großem Einfluss in der Regierung ist die Macht von Fan Yaonan bereits gesichert."
+kumul.102.a:0 "Fan Yaonan herrscht in Kumul."
+
+kumul.103.t:0 "Ein Fest in Kumul"
+kumul.103.d:0 "Seit vielen Monaten arbeiten Minister, Bürokraten und Regierungsbeamte hart daran, die Kontrolle von Kumulilik in Xinjiang zu sichern. Die Menschen haben in der ganzen Provinz gearbeitet, und die Kommunikation war langsam. Daher beschloss [KUM.GetLeader], ein großes Treffen in der Stadt Kumul einzuberufen, das von einem noch größeren Fest begleitet wurde. Obwohl die erklärte Absicht der Versammlung darin bestand, Informationen nachzuholen und anhaltende Stabilität zu feiern, ist es klar, dass dies tiefere Motive hat. Viele glauben, dass [KUM.GetLeader] und Yulbars Khan darauf abzielen, den wachsenden Einfluss mehrerer Schlüsselfiguren in der Regierung zu stoppen: des abtrünnigen Uiguren Hoja-Niyaz, des Han-Bürokraten Fan Yaonan und des Metzgers von Gansu Ma Zhongying. Obwohl sie behaupten, unserer Regierung gegenüber loyal zu sein, befürchten viele, dass sie andere Absichten haben könnten...\n\nAls alle in Kumul ankamen, herrschte in der Stadt reges Treiben. Soldaten, Bauern und Bürokraten eilen umher, um Vorbereitungen für das große Treffen zu treffen. Fan Yaonan traf zuerst ein, umgeben von einer Gruppe seiner Han-Loyalisten, gefolgt von Hoja-Niyaz, der mit einer Gruppe uigurischer Soldaten aus den Bergen von Hotan ankam. Es fehlte jedoch merklich jemand. Ma Zhongying, obwohl er erst neulich in einem Brief erklärte, dass er beitreten würde, war nirgendwo zu sehen. Als [KUM.GetLeader] und Yulbars besorgte Blicke austauschten, musste das Treffen ohne ihn beginnen.\n\nMa Zhongying hatte jedoch vor, dem Treffen beizutreten. Während er die Stadt Kumul betrat, marschierten hinter ihm 500 seiner treuen Soldaten. Nachdem sie die Wachen der Stadt getötet hatten, umzingelten sie den Palast, während Ma Zhongying mit 20 seiner Truppen in das Treffen kam. Schnell übernahmen sie das Treffen und verhafteten Fan Yaonan, Hoja-Niyaz, [KUM.GetLeader] und Yulbars Khan. Direkt im Versammlungsraum zog Ma Zhongying eine Pistole und schoss jedem der Männer in den Hinterkopf. Mit bereits großem Einfluss in der Regierung ist die Macht von Ma Zhongying bereits gesichert."
+kumul.103.a:0 "Ma Zhongying herrscht in Kumul."
+
+kumul.110.t:0 "Verbrechenswelle des Opiumschmuggels"
+kumul.110.d:0 "Die fleißigen Bauern von Kumul haben es geschafft, ihre illegalen Opiumanbau während des Krieges zu erhalten. Jetzt, wo der nationale Notstand die Polizei von ihren Posten abzieht, um politische Gewalt zu bekämpfen, sind in den Dörfern schnell Opiumschmuggler aufgetaucht. Angetrieben von den demobierten Soldaten von Yang Zengxin, die im neuen Regime wenig zu leben haben, breiteten sich Opiumhöhlen aus. Die Imame von Kumul, die jahrelang gegen eine imperialistische Verschwörung zur Zerstörung Chinas und des Islam gepredigt haben, sind verzweifelt."
+kumul.110.a:0 "Wir kaufen umsonst schöne schwarze Polizeiuniformen!"
+
+kumul.111.t:0 "Gauner an der Grenze"
+kumul.111.d:0 "Gaunerei ist nach Kumul zurückgekehrt, das vorher durch eine gemeinsame Sache gegen die Gesetzlosigkeit in Schach gehalten wurde. Zuvor haben sich gewaltlose Kriminelle wie Betrüger, Menschenhändler und Fälscher zu einer Art Syndikat zusammengetan. Das Schlimmste daran ist, dass einige dieser Kriminellen ehemalige Staatsbürokraten sind, deren Autorität immer noch in den ländlichen Gegenden von Kumul herrscht."
+kumul.111.a:0 "Wenigstens brauchen wir sie nicht zu begnadigen."
+
+kumul.112.t:0 "Das Beste Opium in China"
+kumul.112.d:0 "Unabhängige Beobachter und kürzlich verurteilte Kriminelle bestätigen die neue Kriminalitätswelle in Kumul. In ihren Zeugenaussagen behaupten sie, das Opium in Kumul sei das beste in China. Ein mutiger Reporter in Kumul hat anscheinend sogar einen Überblick über die Drogenszene in Kumul aufgenommen und erklärt, dass er Opium geraucht habe, um seine Stärke zu überwachen, "so macht es die Polizei." Der Reporter fügte dann hinzu, dass er es getestet habe, weil er der Meinung ist, dass der lokale Opiumkonsum jetzt zu stark ist – eine Entwicklung, für die er [QIE.GetLeader] beschuldigte, von dem er in seinem Artikel behauptete, dass er 'viele Menschen hirngeschädigt' habe."
+kumul.112.a:0 "Perfekt."
+
+kumul.113.t:0 "Kaiser Puyi erkennt Kumul an"
+kumul.113.d:0 "Die jüngsten Nachrichten über die Mandschu-Restauration wurden zunächst mit Skepsis aufgenommen, da Nachrichten aus Peking und die anhaltende Ignoranz ihrer Regierung gegenüber den Bedürfnissen ihrer Untertanen wiederholt bewiesen wurden. Eine neue Proklamation des jungen Kaisers hat jedoch seine wahre Anmut und Vision gezeigt. Der Kaiser hat unsere Autonomie von Xinjiang unterstützt, das rechtmäßige Erbe von Jahrhunderten steht zusammen gegen den modernen autokratischen Terror von Jin Shuren."
+kumul.113.a:0 "Perfekt."
+
+
+### Focuses ###
+KUM_nasir_reign:0 "Nasirs Reformen"
+KUM_nasir_reign_desc:0 "Die Politik von Masqud Shah, die exorbitant hohe Steuern und Fronarbeit leistet, wird von den Leuten von Kumul so geschmäht, dass jeder Fortschritt zu ihrer Beendigung massiv populär sein wird."
+
+KUM_working_begs:0 "Die 21 Begs"
+KUM_working_begs_desc:0 "Die 21 Begs, eine Versammlung der reichsten uigurischen Landbesitzer in Kumul, haben Nasīr unter Druck gesetzt, die Staatskasse in Kumul stärker und friedlicher zu fühlen. Die Begs wünschen sich eine aktualisierte Volkszählung, um ihre Steuerlast zu reduzieren."
+
+KUM_reordering_tax:0 "Steuerreform"
+KUM_reordering_tax_desc:0 "Die erste Forderung der Begs, die Volkszählung und Steuerreform, kann umgesetzt werden. Sobald eine Zählung aller Pächter, freier Menschen und des Viehs durchgeführt ist, können verschiedene Einkommensformen, wie die Halal-Fleischproduktion und die maschinelle Arbeit, von der Besteuerung befreit werden."
+
+KUM_opening_autonomy:0 "Autonomie fördern"
+KUM_opening_autonomy_desc:0 "Masqud Shah dachte, er könnte seine Macht festigen, indem er die Stadt für Einwanderer ohne die Genehmigung der Qing sperrte. Die Begs fordern, dass zusätzliche uigurische Bürger in die Stadt aufgenommen und wie freie Männer behandelt werden."
+
+KUM_reform_administration:0 "Kleine bürokratische Reformen"
+KUM_reform_administration_desc:0 "Der Palast in Kumul wird von völlig unqualifizierten Bürokraten besetzt. Masqud Shah beschäftigte niemanden mit einem kaiserlichen Prüfungsergebnis. Indem wir unsere Administratoren einfach bitten, eine Zertifizierung zu beantragen, können wir die schlimmsten Mitläufer aussortieren."
+
+KUM_incorporate_advisory:0 "Den Beraterkreis angleichen"
+KUM_incorporate_advisory_desc:0 "Die Macht der beiden Berater war schon immer ein Risiko für das Khanat. Vor allem mit Hoja-Niyaz. Wenn wir die Berater an die Stadtmauern entsenden würden, könnten wir möglicherweise Reformen an ihnen vorbeiziehen."
+
+KUM_increase_begs:0 "Die 30 Begs"
+KUM_increase_begs_desc:0 "Angesichts der zusätzlichen Uiguren, die nach Kumul kommen, ist es von Vorteil, wenn wir neun weitere Männer zu den Begs hinzufügen. 30 Begs sind vielleicht nicht in der Lage, ein Unentschieden zu brechen, aber wir können von ihren Ratschlägen profitieren."
+
+KUM_keys_kumul:0 "Der Schlüssel zu Kumul"
+KUM_keys_kumul_desc:0 "Die Macht der Garnison in Kumul liegt seit Jahrzehnten bei den Beratern. Die Begs versprechen, dass ihre uigurischen Aushebungen die Stadtmauern besetzen können, ohne die Bevölkerung so stark zu erpressen. Das würde unsere Sorgen lindern."
+
+KUM_kind_hand:0 "Eine sanfte Hand"
+KUM_kind_hand_desc:0 "Um das Image des Khans von Kumul zu reformieren, bedarf es der ständigen Unterstützung der Begs. Durch ein würdevolleres Aussehen, das Festhalten an muslimischen Bräuchen und die Mundpropaganda der Begs kann Nasīr Shah erlöst werden."
+
+KUM_crush_corvee:0 "Die Corvée zerstören"
+KUM_crush_corvee_desc:0 "Masquds Idee war der Einsatz von Fronarbeitskräften, um Grundstücke in Ordnung zu halten und die Stadt zu erhalten. Nach traditioneller islamischer Rechtsprechung und chinesischem Zivilrecht sollte Fronarbeit nicht eingesetzt werden, wenn die Verbrechen der Arbeiter dies nicht rechtfertigen."
+
+KUM_increased_constitutionalism:0 "Erhöhter Konstitutionalismus"
+KUM_increased_constitutionalism_desc:0 "Die große Vielfalt an politischen Verfassungen, die in Süd- und Ostchina kursieren, hat es bis nach Kumul geschafft. Zumindest können sie als Grundlage dienen, um unsere zukünftigen Gesetze auf moderne Weise zu schreiben."
+
+KUM_working_advisory:0 "Die 2 Berater"
+KUM_working_advisory_desc:0 "Die beiden Generalberater Yulbars Khan und Hoja-Niyaz haben Nasīr unter Druck gesetzt, sein Anwesen zu schützen. Zunächst müssen radikale Linke in Kumul aufgelistet und überprüft werden. Nur um sicher zu gehen."
+
+KUM_opening_reform:0 "Machtangleichung"
+KUM_opening_reform_desc:0 "Masqud Shah hinterließ seinen Militärberatern eine provisorische Rolle, die er nach Belieben verteilte. Eine konkretere Rolle der Berater wird es Yulbars Khan und Hoja-Niyaz ermöglichen, Kumul zu beschützen."
+
+KUM_niyaz_ideals:0 "Niyazs Ideale"
+KUM_niyaz_ideals_desc:0 "Hoja-Niyaz erinnert sich während seiner gescheiterten Revolte gegen Nasīrs Vater daran, dass seine Kämpfer besser kämpften, als sie von einem Imam beaufsichtigt wurden und sich jeden Tag Zeit zum Beten nahmen. Hoja-Niyaz glaubt, dass diese Politik die Verteidiger von Kumul dazu bringen wird, mit dem Geist der alten Krieger zu kämpfen."
+
+KUM_sideline_begs:0 "Die Begs ins Abseits treiben"
+KUM_sideline_begs_desc:0 "Die 21 Begs von Kumul sind ein Relikt von Masqud Shahs Einsamkeit und dem Gefühl der Entfremdung von seinen Mitmuslimen aufgrund seiner Trunkenheit. Es ist am besten, wenn sich die Berater mit Nasīr treffen, ohne vorher die Begs zu konsultieren."
+
+KUM_yulbars_doctrine:0 "Yulbars Doktrin"
+KUM_yulbars_doctrine_desc:0 "Yulbars Khan, der dem Khanat seit den Tagen von Nasīrs Großvater gedient hat, verfügt über genügend Erfahrung, um Reformvorschläge zu machen. Yulbars Khan glaubt, dass die Umwandlung des Soldatenlohns von Silber in Waren zu abhängigeren Soldaten führen wird."
+
+KUM_lower_taxation:0 "Steuerentlastung"
+KUM_lower_taxation_desc:0 "Ein weiterer Bereich der Reformen von Yulbars Khan ist die Senkung der Steuern für Soldaten in unserer Armee, um mehr zum Beitritt zu ermutigen, obwohl dies etwas weniger Steuereinnahmen bedeuten wird."
+
+KUM_cavalry_horde:0 "Kavallerie von Kumul"
+KUM_cavalry_horde_desc:0 "Die Berater empfehlen die Bildung eines provisorischen Kavallerieregiments auf der Grundlage der Hui-Regimente. Die Berater behaupten, dies werde es Nasīr ermöglichen, Revolten, die von Zeit zu Zeit in Kumul auftreten, schnell zu beenden."
+
+KUM_strengthining_nasir:0 "Aufrechterhaltung der Macht des Khans"
+KUM_strengthining_nasir_desc:0 "Die Berater projizieren ein Bild von Nasīr als wohlwollenden Diktator, der Kumul vor den Wellen der Unsicherheit der Chinesen schützen wird. Gleichzeitig stellen sie Nasīr als siegreichen Chagatai dar, wie die, die Tibet besiegt haben."
+
+KUM_maintaining_corvee:0 "Erhalt der Corvée"
+KUM_maintaining_corvee_desc:0 "Obwohl es grausam ist, haben die Berater die Bestrafung von Zwangsarbeit außerhalb der islamischen Rechtsprechung mit der Behauptung gerechtfertigt, die Kriminellen seien kurz davor, Fajir zu werden, und erklärten, dass diese Arbeit ihre Energie ermüden werde, Verbrechen zu begehen."
+
+KUM_soft_fist:0 "Die sanfte Faust"
+KUM_soft_fist_desc:0 "Die Berater haben begonnen, ihre Militärpolitik auf die anderen Klassen in Kumul auszudehnen. Die Bürger, die ihnen begegnen, erkennen Nasīr als einen frommen und sicheren Abgang von Masqud, zum Glanz des Volkes."
+
+KUM_xinjiang_administration:0 "Xinjiang Administration"
+KUM_xinjiang_administration_desc:0 "Der Tag der Unterwerfung ist dank des Verbrechers Jin Shuren nahe. Die Amtsrichter des Khans müssen sich nun mit einer chinesischen Garnison auseinandersetzen, die Befehle erteilt. Es wird einige Zeit dauern, bis wir erfahren, was die Garnison von unserer Provinz will."
+
+KUM_greater_taxes:0 "Neue Steuern"
+KUM_greater_taxes_desc:0 "Die erste Bitte der Garnison besteht darin, den versprochenen Tribut an die Qing-Regierung zu sehen. Der Tribut ist offensichtlich nicht da, und so hat uns die Garnison gezwungen, die Steuern für die Stadtbewohner zu erhöhen. Dies wird die Uiguren ohne Zweifel wütend machen."
+
+KUM_hire_more_tax_collectors:0 "Mehr Steuereintreiber einstellen"
+KUM_hire_more_tax_collectors_desc:0 "Die Garnison hat unsere Steuereintreiber gezüchtigt, die immer noch auf die Freilassung von Nasīr warten. Wir müssen jetzt die von der Garnison vorgeschlagenen Steuereintreiber aufnehmen, die alle Chinesen sind und die Uiguren gnadenlos erpressen werden."
+
+KUM_even_higher_taxes:0 "Noch höhere Steuern!"
+KUM_even_higher_taxes_desc:0 "Die Stadtbewohner sind nicht in der Lage, genug Nahrung für die jährliche Hommage an Peking bereitzustellen. Die Garnison besteht darauf, dass wir immer noch horten, obwohl Peking seit Jahren nicht danach fragt. Neue Steuern werden geschrieben, von denen die Garnison glaubt, dass sie Jin Shuren gefallen werden."
+
+KUM_seize_nobles_money:0 "Adelige Gelder beschlagnahmen"
+KUM_seize_nobles_money_desc:0 "Die Begs des Khanats werden von der Garnison für zusätzliche Steuern unter der Schirmherrschaft der nationalen Sicherheit aufgesucht. Die Familien der Begs verstecken sich jetzt mit ihrem Gold, da beide Ziele der Greifhand der Garnison sind."
+
+KUM_punish_opposition:0 "Die Opposition bestrafen"
+KUM_punish_opposition_desc:0 "Die Garnison hat endlich erkannt, dass die Magistrate versuchen, sich ihnen zu widersetzen. Unter den Steuereintreibern und Bürokraten wurden diejenigen entfernt, die sich weigern, auf die Symbole des Nasīr, des Korans und ihres Höflichkeitsnamens zu verzichten."
+
+KUM_road_through_hami:0 "Die Straße durch Hami"
+KUM_road_through_hami_desc:0 "Die Straße von Hami nach Dihua ist tückisch, erstreckt sich parallel zum Tarim-Becken und ist auf beiden Seiten von kilometerlanger Wüste umgeben. Die Garnison hat den Aufbau einer neuen Corvée befohlen, um die Straße in der Hitze zu reparieren. Eine Rückkehr der Gefangenen ist unwahrscheinlich."
+
+KUM_consolidating_xinjiang:0 "Xinjiang konsolidieren"
+KUM_consolidating_xinjiang_desc:0 "Das Wagnis von Yulbars Khan und Hoja-Niyaz hat seinen Höhepunkt erreicht. Die Städte Xinjiangs gehören jetzt uns, und unsere nächste Aufgabe besteht darin, diejenigen zu finden, die es verdienen, unsere Verbündeten in einer neuen Regierung zu werden."
+
+KUM_rebuilding_xinjiang:0 "Xinjiang wiederaufbauen"
+KUM_rebuilding_xinjiang_desc:0 "Die Katastrophe, die Kumul und Xinjiang heimsuchte, ist endlich vorbei und wir können mit dem Wiederaufbau beginnen. Sucher werden in die Städte geschickt, um unterdrückte Männer zu finden, die durch unsere Schirmherrschaft unterstützt werden können."
+
+KUM_southern_textiles:0 "Südliche Textile"
+KUM_southern_textiles_desc:0 "Die Teppichhersteller von Hotan hungern nach Kunden. Ma Hushan hat vorgeschlagen, dass wir die Weber von Hotan beschäftigen, um ihre berühmten Teppiche zu monopolisieren."
+
+KUM_expand_kumul_road:0 "Die Straße von Kumul erweitern"
+KUM_expand_kumul_road_desc:0 "Die Straße entlang des Tarim-Beckens war Schauplatz vieler Schlachten auf dem Weg zum Sieg. Die Anstrengungen, die die Corvée unternommen hat, um die Straße zu reparieren, müssen wiederholt werden."
+
+KUM_nascent_industry:0 "Aufstrebende Industrie"
+KUM_nascent_industry_desc:0 "Gestanzte Waffenformen und Rohschmieden sind nur der Anfang einer funktionierenden Militärindustrie in Kumul. Es wird neue Ingenieure und Stromgeneratoren erfordern, aber die Resultate werden sich lohnen."
+
+KUM_military_expansion:0 "Rüstungserweiterung"
+KUM_military_expansion_desc:0 "Die Verteidigungsdivisionen, die während unseres Krieges verstärkt wurden, müssen ersetzt werden. Wenn wir uns die Zeit nehmen, werden wir in der Lage sein, ein größeres und sichereres Militär für zukünftige Konflikte zu planen."
+
+KUM_civilian_investments:0 "Zivilinvestitionen"
+KUM_civilian_investments_desc:0 "Die Verwüstung über Kumul erschütterte jedes Haus. Es wäre sicherlich von Vorteil, wenn wir einige Zeit damit verbringen würden, geplünderte Schmieden wieder aufzubauen."
+
+KUM_new_manufactories:0 "Neue Manufakturen"
+KUM_new_manufactories_desc:0 "Lieferungen von modernen Druckgusswerkzeugen werden nach Kumul verschifft, um sie an unsere treuen Veteranen zu übergeben. Xinjiang als Ganzes wird schon bald gedeihen."
+
+KUM_chinese_integration:0 "Chinesische Integration"
+KUM_chinese_integration_desc:0 "Die Verwendung von Chinesisch darf in Kumul nicht verboten werden. Stattdessen wird eine zweisprachige Verwaltung dafür sorgen, dass unsere Befehle mit größerer Genauigkeit ausgeführt werden, als unsere Feinde aufbringen könnten."
+
+KUM_restart_immigration:0 "Immigration neuankurbeln"
+KUM_restart_immigration_desc:0 "Die Probleme des Westtors haben potenzielle Einwanderer viel zu lange abgeschreckt. Eine Erklärung von [KUM.GetLeader] wird hoffentlich die Umsiedlung fördern und Ängste vor einem weiteren Krieg beruhigen."
+
+KUM_reach_out_to_china:0 "Reise nach China"
+KUM_reach_out_to_china_desc:0 "Der Tribut, den wir Peking alle sieben Jahre gaben, hat es uns ermöglicht, einige Erfahrungen mit den nördlichen Warlords zu sammeln. Wir sollten diese Erinnerung nutzen und China um militärischen Schutz bitten."
+
+KUM_autonomy_in_vogue:0 "Autonomie in Mode"
+KUM_autonomy_in_vogue_desc:0 "Um die Weite von Xinjiang zu verwalten, müssen wir uns dem gleichen autonomen Prinzip beugen, das uns Gouverneur Yang Zengxin geboten hat."
+
+KUM_promote_local_businesses:0 "Lokale Unternehmen fördern"
+KUM_promote_local_businesses_desc:0 "Der Handel in Xinjiang spiegelt die jahrzehntelangen Spannungen und die Segregation wider, die uns die Gouverneure auferlegt haben. Jetzt kann eine harmonischere Wirtschaft gefördert werden, wenn wir lokale Unternehmen in allen größeren Städten Xinjiangs unterstützen."
+
+KUM_pardon_rebellious_uyghurs:0 "Rebellische Uiguren begnadigen"
+KUM_pardon_rebellious_uyghurs_desc:0 "Es ist die Meinung des Ministeriums, dass das uigurische Volk leicht dazu gebracht werden kann, unsere Herrschaft zu akzeptieren. Einige wenige fromme Uiguren sollten begnadigt werden, solange sich ihre Armeen uns anschließen."
+
+KUM_seek_legitimacy:0 "Legitimität ersuchen"
+KUM_seek_legitimacy_desc:0 "Die Mehrheit Chinas betrachtet uns nur als rebellischen Diener. Eine Auswahl von Geschenken könnte ihre eigenen Meister davon überzeugen, dass wir es wert sind, Xinjiang nachzufolgen."
+
+KUM_internal_stability:0 "Innere Stabilität"
+KUM_internal_stability_desc:0 "Eine lange Liste unbeantworteter Forderungen wartet auf unsere Antwort. Wenn wir in der Lage sind, mindestens die Hälfte dieser Kläger zufrieden zu stellen, können wir das Gewirr der Instabilität in unserer Verwaltung auflösen."
+
+KUM_responsible_government:0 "Eine verantwortungsvolle Regierung"
+KUM_responsible_government_desc:0 "Vertrauen in unsere Verwaltung entsteht durch die Förderung verantwortungsbewusster Menschen. Obwohl viele von uns als Rebellen und Aufständische begannen, hindert uns das nicht daran, kompetente Vollstrecker unseres Urteils zu fördern."
+
+KUM_defensive_neutrality:0 "Defensive Neutralität"
+KUM_defensive_neutrality_desc:0 "Das Westtor ist nun ein attraktives Ziel für die Aufständischen der Mandschurei und Südchinas. Wir müssen den Generalstab auffordern, eine allgemeine Verteidigungsstrategie zu entwickeln, um einen weiteren so zerstörerischen Krieg wie den letzten zu verhindern."
+
+KUM_crossroads_of_empires:0 "Die Kreuzung der Reiche"
+KUM_crossroads_of_empires_desc:0 "Die Russen, die Türken und sogar die Japaner betrachten uns als neues Grenzland. Wir können die Anwesenheit ihrer Agenten in unserem Land nicht länger leugnen, und wir müssen formellen diplomatischen Kontakt mit diesen potenziellen Feinden aufnehmen und sehen, ob jemand unsere Autonomie befürwortet."
+
+KUM_safety_and_prosperity:0 "Sicherheit und Wohlstand"
+KUM_safety_and_prosperity_desc:0 "Wenn das Volk der Uiguren, Han und Hui nicht gespalten ist, werden Sicherheit und Wohlstand gewährleistet. Das ist unser großes Ziel der Zusammenarbeit zwischen den Rassen in Xinjiang."
+
+KUM_khanate_continuation:0 "Fortbestand des Khanats"
+KUM_khanate_continuation_desc:0 "Beim Aufstieg von [KUM.GetLeader] wurde sein Versprechen, das Khanat zu reformieren, nicht ernst genommen. Jetzt will der Khan, gewaltsam unterstützt, seine Reformen durchführen und sich vor seinem Volk beweisen."
+
+KUM_constitutionalism_prevails:0 "Konstitutionalismus herrscht vor"
+KUM_constitutionalism_prevails_desc:0 "Die aus dem Süden importierten Fetzen des Idealismus haben in der Kumullik-Politik gesiegt. Eine Provinzverfassung mit Elementen des Kanun-u Esasi der Osmanen und einer einzigen Parteivormundschaft, wie sie von Sun Yat-Sen gefördert wurde, wird angefertigt werden."
+
+KUM_invest_in_begs:0 "Die Begs fördern"
+KUM_invest_in_begs_desc:0 "Die treuen Begs, die sich Jin Shuren nicht ergeben haben, werden reich belohnt. Ihr Besitz wird vergrößert und sie erhalten eine zweite Rente, um dem Khanat in seinem existenziellen Kampf zu dienen."
+
+KUM_lessons_from_qing:0 "Lehren von den Qing"
+KUM_lessons_from_qing_desc:0 "Die Reformen, die Kaiser Puyi unter Zhili-Beobachtung durchführte, sind für uns eine Inspiration. Ein moderner Monarch muss Vertrauen delegieren und kultivieren, indem er sich auf eine leistungsorientierte Zivilregierung verlässt."
+
+KUM_abolish_the_advisory:0 "Den Beraterkreis auflösen"
+KUM_abolish_the_advisory_desc:0 "Hoja-Niyaz und Yulbars Khan haben ihre Nützlichkeit nun ausgelebt. Die Trennung des Militärs von uns wird zukünftige Militärdiktaturen nur dazu inspirieren, sich als legitime Regierungen auszugeben."
+
+KUM_constitutional_council:0 "Verfassungsrat"
+KUM_constitutional_council_desc:0 "Aus den Begs kommt ein respektablerer Verfassungsrat. Ein Rat, dessen Aufgabe der osmanischen Abgeordnetenkammer ähnlich sein wird und der seinen Khan ebenso verherrlichen wird wie der Sultan."
+
+KUM_under_the_khan:0 "Unter dem Khan"
+KUM_under_the_khan_desc:0 "[KUM.GetLeader] hat sich für eine direktere Herrschaft über sein neues Land mit militärischer Macht entschieden."
+
+KUM_reform_advisory:0 "Den Beraterkreis reformieren"
+KUM_reform_advisory_desc:0 "Der Khan hat beschlossen, seinen beiden Beratern seine Dankbarkeit zu zeigen, indem er ihre Rolle vor dem Krieg wiederherstellt."
+
+KUM_ensure_loyalty:0 "Loyalität sichern"
+KUM_ensure_loyalty_desc:0 "Die Berater versprechen, dass sie in den Städten genügend Einfluss haben, um sicherzustellen, dass die Mullahs und Radikalen keine Gefolgschaft haben, die sich uns widersetzt."
+
+KUM_royal_guards:0 "Die Royalen Wachen"
+KUM_royal_guards_desc:0 "Der Khan muss in der Lage sein, zukünftige widerspenstige Berater oder Begs niederzuschlagen. Dies wird am besten mit einer königlichen Garde in Kumul erreicht, die vom Khan bezahlt wird und nur ihm dient."
+
+KUM_end_power_struggle:0 "Den Machtkampf beenden"
+KUM_end_power_struggle_desc:0 "Das Gewirr von Versprechungen, die den Leuten von Kumul gemacht wurden, hat in unserer Verwaltung zu viel Misstrauen und Unsicherheit geführt. Um den Machtkampf endgültig zu beenden, müssen wir auf einige Versprechen verzichten, die wir den befreiten Menschen gemacht haben."
+
+KUM_necessary_adjustments:0 "Notwendige Anpassungen"
+KUM_necessary_adjustments_desc:0 "Einige der Richter haben Geld für Projekte bereitgestellt, die wir einfach nicht weiterverfolgen sollten. Die Umverteilung dieses Geldes wird es uns ermöglichen, unsere Versprechen an anderen Fronten zu erfüllen."
+
+KUM_public_schooling:0 "Öffentliche Schulen eröffnen"
+KUM_public_schooling_desc:0 "Öffentliche Schulbildung ist eines der wenigen Prinzipien, bei denen wir mit Sheng Shicai übereinstimmen. Wir beabsichtigen jedoch nicht, die Madrassas zu untergraben, sondern sie zu unterstützen und die Menschen in ergänzenden Fähigkeiten auszubilden."
+
+KUM_contain_nationalism:0 "Jadidismus einschränken"
+KUM_contain_nationalism_desc:0 "Der Wunsch der Jadidisten nach Xinjiang ist eine Gefahr für Kumul, sei es ihr Interesse, Russland zu bekämpfen oder das osmanische Sultanat auf unsere Kosten zu erheben. Wir müssen die nationalistische Stimmung zügeln oder wir werden uns einer weiteren Revolte stellen müssen."
+
+KUM_divine_right:0 "Göttliches Recht"
+KUM_divine_right_desc:0 "In der Xidaotang-Schule des Islams muss die rechtmäßige Regierung einer Provinz unter der traditionellen Machtlinie stehen. Die Abstammung der Khane geht der der Osmanen voraus, und deshalb ist unsere Herrschaft gerecht."
+
+KUM_modern_monarchy:0 "Eine moderne Monarchie"
+KUM_modern_monarchy_desc:0 "Wir haben viele erfolgreiche Wiederbelebungen des Monarchismus in Ländern gesehen, die aussahen, als würden sie auf das Chaos zusteuern. Die Qing und die Osmanen sind großartige Beispiele. Wir müssen ihren Erfolgen nacheifern."
+
+KUM_benevolent_autocracy:0 "Die wohlwollende Autokratie"
+KUM_benevolent_autocracy_desc:0 "Während einige argumentieren mögen, dass unsere Regierung dieselbe Gewalt anwendet, die sie bekämpft hat, sind diese Kritiker Dummköpfe. Die einfache Wahrheit ist, dass unsere Provinz nur unter wohlwollenden Diktaturen stabil war."
+
+KUM_khanate_no_more:0 "Das Ende des Khanats"
+KUM_khanate_no_more_desc:0 "Der letzte Khan ist abgesetzt und das uigurische Volk freut sich. Unter einem kompetenteren und verantwortungsbewussteren Führer kann die Provinz vorankommen, ohne an die alte Geschichte gebunden zu sein."
+
+KUM_hoja_niyaz:0 "Der Abtrünnige"
+KUM_hoja_niyaz_desc:0 "Einmal Rebell, immer Rebell. Hoja-Niyaz hat die schwachen internen Kontrollen von Kumul überwunden und beabsichtigt, sich in seiner neuen Position zu verschanzen."
+
+KUM_exploit_nationalism:0 "Jadidismus ausnutzen"
+KUM_exploit_nationalism_desc:0 "Die Jadidisten sind nicht alle schlecht, besonders diejenigen mit besonderen Bedürfnissen. Ob es nun darum geht, Religionen außerhalb des Buches zu verbieten oder Scharia-Gerichte offiziell zu unterstützen, können diese kleinlichen Gesten unserem Regime viel Unterstützung verschaffen."
+
+KUM_keep_them_divided:0 "Die Teilung erhalten"
+KUM_keep_them_divided_desc:0 "Die ethnische Segregation, die Masqud Shah förderte, war tatsächlich vorteilhaft für das Überleben von Kumul, und [KUM.GetLeader] wird seine Ideale ehren, indem er diese Gesetze bewahrt."
+
+KUM_matters_of_state:0 "Staatsangelegenheiten"
+KUM_matters_of_state_desc:0 "Jahre der inkompetenten und faulen Auslandsdiplomatie könnten nun zunichte gemacht werden. Staats- und Außenpolitik könnten endlich unter Hoja-Niyaz vereint werden."
+
+KUM_cast_off_ideology:0 "Ideologie ablegen"
+KUM_cast_off_ideology_desc:0 "Obwohl die Möchtegern-Führer Zentralasiens ihr Volk mit Ideologie befehligen, ist es im Grunde dieselbe Botschaft. Um darauf zu reagieren, sind wir bereit, uns mit jeder Macht in der Region zu verbünden, die eine größere Autonomie garantiert, als Xinjiang uns gegeben hat."
+
+KUM_hojas_republic:0 "Hojas Republik"
+KUM_hojas_republic_desc:0 "Als Hoja-Niyaz gegen Masqud Shah kämpfte, wusste er nicht, wofür er kämpfte. Mit dem Alter kommt die Weisheit, und jetzt hat [KUM.GetLeader] erkannt, dass er angesichts der absoluten Macht als Präsident einer Republik dienen sollte."
+
+KUM_flexible_diplomacy:0 "Flexible Diplomatie"
+KUM_flexible_diplomacy_desc:0 "Das Auswärtige Amt in Kumul wurde angewiesen, unseren Nachbarn gegenüber keine Versprechungen und Verpflichtungen zu machen. Eine flexible Politik wird es uns ermöglichen, unsere Loyalität und letztendlich unser Schicksal zu kontrollieren."
+
+KUM_let_them_pick_us:0 "Lasst sie entscheiden"
+KUM_let_them_pick_us_desc:0 "Das Auswärtige Amt wurde endlich auf effektive Unentschlossenheit konditioniert, und Hoja-Niyaz ist nun in der Lage, die Fraktionen Chinas zu seinen Bedingungen ordnungsgemäß zu umwerben."
+
+KUM_fan_yaonan:0 "Der Bürokrat"
+KUM_fan_yaonan_desc:0 "Nachdem er dem Tod entkommen ist, hat Fan Yaonan seine zweite Chance,zum Gouverneur von Xinjiang in Kumul aufzusteigen, genutzt."
+
+KUM_open_for_business:0 "Offen für Geschäfte"
+KUM_open_for_business_desc:0 "Der Grund für das Scheitern von Xinjiang war der Isolationismus von Yang Zengxin. Fan Yaonan ist sicherlich bereit, die jahrzehntelange drakonische Handelspolitik zu korrigieren und Xinjiang wieder Wohlstand zu bringen."
+
+KUM_request_administrators:0 "Bürokraten anfordern"
+KUM_request_administrators_desc:0 "Fan Yaonan nutzt seine legitimen Befugnisse als Gouverneur, um neue Administratoren einzustellen, die die Prüfung für den öffentlichen Dienst bestanden haben."
+
+KUM_safe_investment:0 "Eine sichere Investition"
+KUM_safe_investment_desc:0 "Der Reichtum, den die korrupten Gouverneure gehortet haben, kann nun richtig in die Wirtschaft Xinjiangs investiert werden. Dies wird es mehr Menschen ermöglichen, kurzfristig von unserer Besteuerung zu profitieren, als nur der Gouverneur."
+
+KUM_open_the_gates:0 "Die Tore öffnen"
+KUM_open_the_gates_desc:0 "Das Westtor ist endlich wieder geöffnet. Fan Yaonan ist sich seiner Verantwortung gegenüber den Menschen in Xinjiang sehr bewusst, den Frieden zwischen Han, Hui und Uiguren zu bewahren."
+
+KUM_common_cause:0 "Eine gemeinsame Sache"
+KUM_common_cause_desc:0 "Die gemeinsame Sache aller Völker Xinjiangs ist Wohlstand. Von den Bergleuten von Hotan bis zu den Jägern von Dzungaria. Eine gemeinsame Währung. Verteidigung und der Wettbewerb mit gemeinsamen Feinden wie der Mongolei können uns alle vereinen."
+
+KUM_political_malleability:0 "Politische Formbarkeit"
+KUM_political_malleability_desc:0 "Das Auswärtige Amt in Kumul wurde angewiesen, unseren Nachbarn gegenüber keine Versprechungen und Verpflichtungen zu machen. Eine flexible Politik wird es uns ermöglichen, unsere Loyalität und letztendlich unser Schicksal zu kontrollieren."
+
+KUM_stability_means_prosperity:0 "Stabilität bedeutet Wohlstand"
+KUM_stability_means_prosperity_desc:0 "Die Stabilität, die Fan Yaonan in Xinjiang geschaffen hat, ist im Rest Chinas fast unerreicht. Dies hat es zu einem viel besseren Ort für wirtschaftliche Entwicklung und Investitionen gemacht."
+
+KUM_zhongying_gang:0 "Der rachsüchtige General"
+KUM_zhongying_gang_desc:0 "Durch die Macht seiner Truppen hat Ma Zhongying in Hami triumphiert. Es ist offensichtlich, dass die Feudalherren und Banditen einer modernen autokratischen Führung weichen würden, die Ma Zhongying bietet."
+
+KUM_punish_dissent:0 "Opposition bestrafen"
+KUM_punish_dissent_desc:0 "Moderne Autokratien müssen radikale Bewegungen erkennen und abfangen, bevor sie Dampf aufbauen können. Aus diesem Grund hat Ma Zhongying beschlossen, viele der Begnadigungen aufzuheben, die er den kapitulierenden Kommandeuren versprochen hatte."
+
+KUM_slash_and_burn:0 "Vernichten und Verbrennen"
+KUM_slash_and_burn_desc:0 "Die Banditen von Dzungaria verlassen sich auf die Schwäche der Menschen und ihrer Lebensmittelvorräte. Wir können ihnen solche chinesischen Widerstandswerte nicht einflößen, also sollten wir sie stattdessen verdrängen und unsere Feinde aushungern."
+
+KUM_army_with_state:0 "Eine Armee mit einem Staat"
+KUM_army_with_state_desc:0 "Die Armee von Ma Zhongying ist für einen modernen autokratischen Staat von größter Bedeutung. Sie sollten bei der Besteuerung und Einquartierung der Beamten oberste Priorität haben."
+
+KUM_all_for_one:0 "Alle für einen"
+KUM_all_for_one_desc:0 "Ganz Hami muss hinter Ma Zhongying stehen, wenn wir die nächsten Jahre überleben wollen."
+
+KUM_the_kumul_army:0 "Die Armee von Kumul"
+KUM_the_kumul_army_desc:0 "Aufgebläht von dem, was als Selbstverteidigungsstreitmacht gedacht war, kann die Kumul-Armee zur herzhaftsten Streitmacht in Zentralasien werden."
+
+KUM_small_but_strong:0 "Klein aber stark"
+KUM_small_but_strong_desc:0 "Was Kumul von den Gansu-Brigaden oder der Provinzarmee unterscheidet, ist unsere erfolgreiche Eigenständigkeit. Während andere Armeen mit geringer Versorgung ins Stocken geraten, können wir diesen zukünftigen Sieg auf den langen Wüstenstraßen vor uns projizieren."
+
+KUM_new_guns:0 "Gestohlene Waffen analysieren"
+KUM_new_guns_desc:0 "Da die Unterstützung von außen knapp ist, müssen wir uns auf chinesische Modelle verlassen, die bereits Kopien europäischer Waffen sind, um Ausrüstung herzustellen, die die Eindringlinge besiegen kann, denen wir in der Zukunft begegnen könnten."
+
+KUM_increased_conscription:0 "Rekrutierung intensivieren"
+KUM_increased_conscription_desc:0 "Jeder Mann würde seinen eingeborenen Sohn für Kumul geben!"
+
+KUM_cold_warriors:0 "Eiskrieger"
+KUM_cold_warriors_desc:0 "An die Kälte akklimatisierte Brigaden werden die müden und zitternden Ausländer, die Kumul bedrohen, übertreffen."
+
+KUM_new_factory:0 "Dihua Waffenfabrik"
+KUM_new_factory_desc:0 "Mit Dihua unter unserer Kontrolle, kann die Waffenfabrik der Landesverteidigung zugeführt werden."
+
+KUM_steppe_scouts:0 "Steppenspäher"
+KUM_steppe_scouts_desc:0 "Die Schaffung spezieller Divisionen, die aus Steppenvölkern bestehen, würde unseren Divisionen eine bessere Spähkraft, Geschwindigkeit und Aufklärung verleihen."
+
+KUM_mountainous_province:0 "Bergtraining"
+KUM_mountainous_province_desc:0 "Die Zuweisung spezieller Brigaden von Karakum-Völkern aus den Bergen wird einzigartige widerstandsfähige Einheiten für den Kampf in unseren rauen Bergketten von Xinjiang schaffen."
+
+### Characters ###
+KUM_nasir_shah:0 "Nasir Shah"
+KUM_bashir_shah:0 "Bashir Shah"
+KUM_yulbars_khan:0 "Yulbars Khan"
+KUM_hojaniyaz:0 "Hoja-Niyaz"
+KUM_mahmut_muhiti:0 "Mahmut Muhiti"

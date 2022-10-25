@@ -1,0 +1,329 @@
+﻿l_german:
+### Übersetzt von Proho ###
+KR_separate_peace:0 "Wird aus allen gegenwärtigen Kriegen austreten\n"
+
+### 2nd American Civil War ###
+WAR_NAME_CSA_USA:0 "Zweiter Amerikanischer Bürgerkrieg"
+WAR_NAME_USA_CSA:0 "Zweiter Amerikanischer Bürgerkrieg"
+WAR_NAME_TEX_USA:0 "Zweiter Amerikanischer Bürgerkrieg"
+WAR_NAME_USA_TEX:0 "Zweiter Amerikanischer Bürgerkrieg"
+WAR_NAME_PSA_USA:0 "Zweiter Amerikanischer Bürgerkrieg"
+WAR_NAME_USA_PSA:0 "Zweiter Amerikanischer Bürgerkrieg"
+WAR_NAME_PSA_CSA:0 "Zweiter Amerikanischer Bürgerkrieg"
+WAR_NAME_CSA_PSA:0 "Zweiter Amerikanischer Bürgerkrieg"
+WAR_NAME_TEX_CSA:0 "Zweiter Amerikanischer Bürgerkrieg"
+WAR_NAME_CSA_TEX:0 "Zweiter Amerikanischer Bürgerkrieg"
+WAR_NAME_PSA_TEX:0 "Zweiter Amerikanischer Bürgerkrieg"
+WAR_NAME_TEX_PSA:0 "Zweiter Amerikanischer Bürgerkrieg"
+
+### Spanish Civil War ###
+WAR_NAME_SPA_SPR:0 "Spanischer Bürgerkrieg"
+WAR_NAME_SPR_SPA:0 "Spanischer Bürgerkrieg"
+WAR_NAME_SPA_SWF:0 "Spanischer Bürgerkrieg"
+WAR_NAME_SWF_SPA:0 "Spanischer Bürgerkrieg"
+WAR_NAME_SPR_SWF:0 "Spanischer Bürgerkrieg"
+WAR_NAME_SWF_SPR:0 "Spanischer Bürgerkrieg"
+
+### Crisis on the Danube ###
+WAR_NAME_AUS_HUN:0 "Krise an der Donau"
+WAR_NAME_AUS_CRO:0 "Krise an der Donau"
+WAR_NAME_AUS_CZE:0 "Krise an der Donau"
+WAR_NAME_AUS_GAL:0 "Krise an der Donau"
+WAR_NAME_HUN_AUS:0 "Krise an der Donau"
+WAR_NAME_HUN_CRO:0 "Krise an der Donau"
+WAR_NAME_HUN_CZE:0 "Krise an der Donau"
+WAR_NAME_HUN_GAL:0 "Krise an der Donau"
+WAR_NAME_CRO_AUS:0 "Krise an der Donau"
+WAR_NAME_CRO_HUN:0 "Krise an der Donau"
+WAR_NAME_CRO_CZE:0 "Krise an der Donau"
+WAR_NAME_CRO_GAL:0 "Krise an der Donau"
+WAR_NAME_CZE_AUS:0 "Krise an der Donau"
+WAR_NAME_CZE_HUN:0 "Krise an der Donau"
+WAR_NAME_CZE_CRO:0 "Krise an der Donau"
+WAR_NAME_CZE_GAL:0 "Krise an der Donau"
+WAR_NAME_GAL_AUS:0 "Krise an der Donau"
+WAR_NAME_GAL_HUN:0 "Krise an der Donau"
+WAR_NAME_GAL_CRO:0 "Krise an der Donau"
+WAR_NAME_GAL_CZE:0 "Krise an der Donau"
+
+### 2nd Mexican-American War ###
+WAR_NAME_USA_MEX:0 "2ter $ORDER$$SECOND$-$FIRST$ War"
+WAR_NAME_MEX_USA:0 "2ter $ORDER$$FIRST$-$SECOND$ War"
+WAR_NAME_PSA_MEX:0 "$ORDER$$FIRST$-Pacifican War"
+WAR_NAME_MEX_PSA:0 "$ORDER$$FIRST$-Pacifican War"
+WAR_TAKE_CLAIM_MEX_USA:0 "$ORDER$$FIRST$ Angriff gegen $STATE$"
+WAR_TAKE_CORE_MEX_USA:0 "$ORDER$$FIRST$ Rückeroberung von $STATE$"
+
+### Entente-Internationale Wars ###
+WAR_NAME_CAN_ENG:0 "Rückgewinnung der Heimatinseln"
+WAR_NAME_ENG_CAN:0 "Entente-Internationale Krieg"
+WAR_NAME_NFA_FRA:0 "$ORDER$$FIRST$-$SECOND$ War"
+WAR_NAME_FRA_NFA:0 "$ORDER$$FIRST$-$SECOND$ War"
+
+### 2nd Russian Civil War ###
+WAR_NAME_RUS_SOV:0 "2ter RCW: $ORDER$$FIRST$-$SECOND$ War"
+WAR_NAME_SOV_RUS:0 "2ter RCW: $ORDER$$FIRST$-$SECOND$ War"
+WAR_NAME_RUS_SIB:0 "2ter RCW: $ORDER$$FIRST$-$SECOND$ War"
+WAR_NAME_SIB_RUS:0 "2ter RCW: $ORDER$$FIRST$-$SECOND$ War"
+WAR_NAME_SOV_SIB:0 "2ter RCW: $ORDER$$FIRST$-$SECOND$ War"
+WAR_NAME_SIB_SOV:0 "2ter RCW: $ORDER$$FIRST$-$SECOND$ War"
+
+### The Second Weltkrieg ###
+WAR_NAME_GER_FRA:0 "Der Zweite Weltkrieg"
+WAR_NAME_FRA_GER:0 "Der Zweite Weltkrieg"
+
+### 2nd Russo-Japanese War ###
+WAR_NAME_RUS_JAP:0 "2ter Russland-$ORDER$$SECOND$ Krieg"
+WAR_NAME_JAP_RUS:0 "2ter Russland-$ORDER$$FIRST$ Krieg"
+
+### Winter War ###
+WAR_NAME_RUS_FIN:0 "Der Winterkrieg"
+WAR_NAME_FIN_RUS:0 "Der Winterkrieg"
+
+### Middle Eastern Wars ###
+WAR_NAME_TUR_KUR:0 "$ORDER$$SECOND$ Aufstand"
+WAR_NAME_KUR_TUR:0 "$ORDER$$FIRST$ Unabhängigkeitskrieg"
+WAR_NAME_JBS_SAU:0 "$ORDER$Arabischer Einigungskrieg"
+WAR_NAME_SAU_JBS:0 "$ORDER$Arabischer Einigungskrieg"
+
+### The Reichspakt Revolts ###
+WAR_NAME_GER_UKR:0 "Die $ORDER$$SECOND$ Revolte"
+WAR_NAME_GER_WHR:0 "Die $ORDER$$SECOND$ Revolte"
+WAR_NAME_GER_LIT:0 "Die $ORDER$$SECOND$ Revolte"
+WAR_NAME_UKR_GER:0 "$ORDER$$FIRST$ Unabhängigkeitskrieg"
+WAR_NAME_WHR_GER:0 "$ORDER$$FIRST$ Unabhängigkeitskrieg"
+WAR_NAME_LIT_GER:0 "$ORDER$$FIRST$ Unabhängigkeitskrieg"
+
+### Indian Wars ###
+WAR_NAME_RAJ_PRF:0 "Entente Rückeroberung von Hyderabad"
+WAR_NAME_RAJ_HND:0 "Entente Rückeroberung von Bengalen"
+WAR_NAME_HND_PRF:0 "Bharatiya befreit Hyderabad"
+WAR_NAME_HND_RAJ:0 "Bharatiya befreit Delhi"
+WAR_NAME_PRF_HND:0 "Wiederherstellung der Fürstlichen Ordnung in Bengalen"
+WAR_NAME_PRF_RAJ:0 "Wiederherstellung der Fürstlichen Ordnung in Dehli"
+
+### Fifth Anglo-Afghani War ###
+WAR_NAME_AFG_RAJ:0 "Fünfter Anglo-Afghanischer Krieg"
+WAR_NAME_RAJ_AFG:0 "Fünfter Anglo-Afghanischer Krieg"
+
+### 37th Siamese-Burma War ###
+WAR_NAME_BRM_SIA:0 "37. Siamesisch-burmesischer Krieg"
+WAR_NAME_SIA_BRM:0 "37. Siamesisch-burmesischer Krieg"
+
+### Bharathiyan Civil War ###
+WAR_NAME_BHC_INR:0 "Bharatiya Bürgerkrieg"
+WAR_NAME_INR_BHC:0 "Bharatiya Bürgerkrieg"
+
+### War in the Southern Cone ###
+WAR_NAME_FOP_ARG:0 "Krieg im Südkegel"
+WAR_NAME_ARG_FOP:0 "Krieg im Südkegel"
+
+### South American Syndicalist Civil War ###
+WAR_NAME_FOP_CHL:0 "Südamerikanischer syndikalistischer Bürgerkrieg"
+WAR_NAME_CHL_FOP:0 "Südamerikanischer syndikalistischer Bürgerkrieg"
+
+### Alpine War over Campione ###
+WAR_NAME_SWI_ITA:0 "Alpenkrieg"
+WAR_NAME_ITA_SWI:0 "Alpenkrieg"
+WAR_NAME_SWI_SIC:0 "Alpenkrieg"
+WAR_NAME_SIC_SWI:0 "Alpenkrieg"
+WAR_NAME_SWI_SRD:0 "Alpenkrieg"
+WAR_NAME_SRD_SWI:0 "Alpenkrieg"
+WAR_NAME_SWI_SRI:0 "Alpenkrieg"
+WAR_NAME_SRI_SWI:0 "Alpenkrieg"
+
+### Venetian Revolt ###
+WAR_NAME_VNC_ITA:0 "Venezianischer Freiheitskrieg"
+WAR_NAME_ITA_VNC:0 "Venezianische Revolte"
+
+### Indochina War ###
+WAR_NAME_INC_GEA:0 "Indochinischer Anti-Deutscher Widerstandskrieg"
+WAR_NAME_INC_VIN:0 "Vereinigungskrieg in Vietnam"
+WAR_NAME_GEA_INC:0 "$ORDER$ Indochina War"
+WAR_NAME_VIN_INC:0 "Befriedung des Vietminh"
+
+### SIA-INC War ###
+WAR_NAME_INC_SIA:0 "Indochinesische Befreiung der Mekong-Territorien"
+WAR_NAME_SIA_INC:0 "Mekong Krieg"
+
+### Peru-Ecuador War ###
+WAR_NAME_PRU_ECU:0 "Pastanza Krieg"
+WAR_NAME_ECU_PRU:0 "Pastanza Krieg"
+
+### Bolivia-Chile War ###
+WAR_NAME_BOL_CHL:0 "Zweiter Pazifikkrieg"
+WAR_NAME_CHL_BOL:0 "Zweiter Pazifikkrieg"
+
+### Ethiopian Wars ###
+WAR_NAME_ETH_ERI:0 "Eritreischer Aufstand"
+WAR_NAME_ERI_ETH:0 "Eritreischer Unabhängigkeitskrieg"
+WAR_NAME_ETH_SOM:0 "Ogaden Krieg"
+WAR_NAME_SOM_ETH:0 "Ogaden Krieg"
+
+### Buschkrieg ###
+WAR_NAME_MAF_POR:0 "Buschkrieg"
+WAR_NAME_POR_MAF:0 "Buschkrieg"
+
+### Korean Uprising ###
+WAR_NAME_JAP_KOR:0 "Koreanischer Aufstand"
+WAR_NAME_KOR_JAP:0 "Koreanischer Unabhängigkeitskrieg"
+
+### Second Mahdist Revolt ###
+WAR_NAME_EGY_SUD:0 "Zweiter Mahdist-Aufstand"
+WAR_NAME_SUD_EGY:0 "Zweiter Mahdist-Aufstand"
+
+### Ottoman Wars ###
+# Egypt
+WAR_NAME_EGY_OTT:0 "Krieg in der Wüste"
+WAR_NAME_OTT_EGY:0 "Krieg in der Wüste"
+
+# Tripolitania
+WAR_NAME_LBA_OTT:0 "Tripolitanische Unabhängigkeitskrieg"
+WAR_NAME_OTT_LBA:0 "Tripolitanischer Aufstand"
+
+# Cyprus
+WAR_NAME_CYP_OTT:0 "Zypriotischer Unabhängigkeitskrieg"
+WAR_NAME_OTT_CYP:0 "Zypriotische Rebellion"
+
+# Assyria
+WAR_NAME_ASY_OTT:0 "Assyrischer Unabhängigkeitskrieg"
+WAR_NAME_OTT_ASY:0 "Assyrischer Aufstand"
+
+# Yemen
+WAR_NAME_YEM_OTT:0 "Jemenitischer Unabhängigkeitskrieg"
+WAR_NAME_OTT_YEM:0 "Jemenitischer Aufstand"
+
+### Ikhwan Revolt ###
+WAR_NAME_IKH_SAU:0 "Ikhwan-Revolte"
+WAR_NAME_SAU_IKH:0 "Ikhwan-Revolte"
+
+### Panamanian Crisis ###
+WAR_NAME_PAN_CAN:0 "Panama-Krise"
+WAR_NAME_CAN_PAN:0 "Panama-Krise"
+
+### Coto War ###
+WAR_NAME_PAN_COS:0 "Coto-Krieg"
+WAR_NAME_COS_PAN:0 "Coto-Krieg"
+
+### Chinese Wars ###
+WAR_NAME_LEP_CHI:0 "Aufstand der Kuomintang"
+
+# Initiator: QIE, Qing / Zhili
+WAR_NAME_QIE_FNG:0 "$FIRST$-Fengtian War"
+WAR_NAME_QIE_LEP:0 "Nord-Süd-Zhili-Krieg"
+WAR_NAME_QIE_CGX:0 "Befriedung von Südchina"
+WAR_NAME_QIE_HNN:0 "Befriedung von Südchina"
+WAR_NAME_QIE_ANQ:0 "Befriedung von Südchina"
+WAR_NAME_QIE_CHI:0 "Befriedung von Südchina"
+WAR_NAME_QIE_YUN:0 "Befriedung von Südchina"
+WAR_NAME_QIE_SZC:0 "Intervention Pekings in Sichuan"
+WAR_NAME_QIE_SIK:0 "Pekings Wiedereingliederung von Xinjiang" 
+WAR_NAME_QIE_MON:0 "Pekings Rückeroberung der Mongolei" 
+WAR_NAME_QIE_TIB:0 "Pekings Rückeroberung von Tibet" 
+WAR_NAME_QIE_INC:0 "Intervention Pekings in Annam"
+WAR_NAME_QIE_VIN:0 "Intervention Pekings in Annam"
+
+# Initiator: FNG, Fengtian Government
+WAR_NAME_FNG_QIE:0 "$SECOND$-Fengtian War"
+WAR_NAME_FNG_GXC:0 "Befriedung von Südchina"
+WAR_NAME_FNG_HNN:0 "Befriedung von Südchina"
+WAR_NAME_FNG_ANQ:0 "Befriedung von Südchina"
+WAR_NAME_FNG_CHI:0 "Befriedung von Südchina"
+WAR_NAME_FNG_YUN:0 "Befriedung von Südchina"
+WAR_NAME_FNG_SZC:0 "Fengtian Intervention in Sichuan"
+WAR_NAME_FNG_SIK:0 "Fengtian Wiedereingliederung von Xinjiang" 
+WAR_NAME_FNG_MON:0 "Fengtian Rückeroberung von Mongolia" 
+WAR_NAME_FNG_TIB:0 "Fengtian Rückeroberung von Tibet" 
+WAR_NAME_FNG_INC:0 "Fengtian Intervention in Annam"
+WAR_NAME_FNG_VIN:0 "Fengtian Intervention in Annam"
+
+# Initiator: CHI, Left Kuomintang / Nationalist China
+WAR_NAME_CHI_LEP:0 "Nationale Revolution Chinas"
+WAR_NAME_CHI_QIE:0 "2. Nord-Expedition" 
+WAR_NAME_CHI_FNG:0 "Chinesischer Bürgerkrieg" 
+WAR_NAME_CHI_YUN:0 "West-Expedition" 
+WAR_NAME_CHI_SZC:0 "West-Expedition" 
+WAR_NAME_CHI_GXC:0 "Süd-Expedition"
+WAR_NAME_CHI_HNN:0 "Obere Yangzte-Expedition"
+WAR_NAME_CHI_ANQ:0 "Kampagne der Unteren Yangzte"
+WAR_NAME_CHI_XSM:0 "Nordwest-Expedition" 
+WAR_NAME_CHI_LEC:0 "Anti-Konzessionskrieg"
+WAR_NAME_CHI_SIK:0 "Chinese Wiedereingliederung von Xinjiang" 
+WAR_NAME_CHI_MON:0 "Chinese Wiedereingliederung von Mongolia" 
+WAR_NAME_CHI_TIB:0 "Chinese Wiedereingliederung von Tibet" 
+WAR_NAME_CHI_INC:0 "Chinesische Intervention in Annam"
+WAR_NAME_CHI_VIN:0 "Chinesische Intervention in Annam"
+
+# Initiator: GXC, SZC, HNN, YUN- Federalist Tags
+WAR_NAME_GXC_CHI:0 "Anti-Kuomintang War" 
+WAR_NAME_SZC_CHI:0 "Anti-Kuomintang War" 
+WAR_NAME_HNN_CHI:0 "Anti-Kuomintang War" 
+WAR_NAME_YUN_CHI:0 "$ORDER$$FIRST$-Linker Kuomintang-Krieg" 
+WAR_NAME_GXC_SIK:0 "$ORDER$$FIRST$ Wiedereingliederung von Xinjiang"
+WAR_NAME_SZC_SIK:0 "$ORDER$$FIRST$ Wiedereingliederung von Xinjiang"
+WAR_NAME_HNN_SIK:0 "$ORDER$$FIRST$ Wiedereingliederung von Xinjiang"
+WAR_NAME_YUN_SIK:0 "$ORDER$$FIRST$ Wiedereingliederung von Xinjiang"
+WAR_NAME_GXC_TIB:0 "$ORDER$$FIRST$ Wiedereingliederung von Tibet"
+WAR_NAME_SZC_TIB:0 "$ORDER$$FIRST$ Wiedereingliederung von Tibet"
+WAR_NAME_HNN_TIB:0 "$ORDER$$FIRST$ Wiedereingliederung von Tibet"
+WAR_NAME_YUN_TIB:0 "$ORDER$$FIRST$ Wiedereingliederung von Tibet"
+WAR_NAME_GXC_MON:0 "$ORDER$$FIRST$ Wiedereingliederung von Mongolia"
+WAR_NAME_SZC_MON:0 "$ORDER$$FIRST$ Wiedereingliederung von Mongolia"
+WAR_NAME_HNN_MON:0 "$ORDER$$FIRST$ Wiedereingliederung von Mongolia"
+WAR_NAME_YUN_MON:0 "$ORDER$$FIRST$ Wiedereingliederung von Mongolia"
+WAR_NAME_GXC_INC:0 "Chinesische Intervention in Annam"
+WAR_NAME_GXC_VIN:0 "Chinesische Intervention in Annam"
+WAR_NAME_SZC_INC:0 "Chinesische Intervention in Annam"
+WAR_NAME_SZC_VIN:0 "Chinesische Intervention in Annam"
+WAR_NAME_HNN_INC:0 "Chinesische Intervention in Annam"
+WAR_NAME_HNN_VIN:0 "Chinesische Intervention in Annam"
+WAR_NAME_YUN_INC:0 "Chinesische Intervention in Annam"
+WAR_NAME_YUN_VIN:0 "Chinesische Intervention in Annam"
+WAR_NAME_GXC_QIE:0 "Chinesischer Bürgerkrieg" 
+WAR_NAME_GXC_FNG:0 "Chinesischer Bürgerkrieg" 
+WAR_NAME_SZC_QIE:0 "Chinesischer Bürgerkrieg" 
+WAR_NAME_SZC_FNG:0 "Chinesischer Bürgerkrieg" 
+WAR_NAME_HNN_QIE:0 "Chinesischer Bürgerkrieg" 
+WAR_NAME_HNN_FNG:0 "Chinesischer Bürgerkrieg" 
+WAR_NAME_YUN_QIE:0 "Chinesischer Bürgerkrieg" 
+WAR_NAME_YUN_FNG:0 "Chinesischer Bürgerkrieg" 
+WAR_NAME_GXC_PRC:0 "Liangguang Bürgerkrieg" 
+WAR_NAME_PRC_GXC:0 "Liangguang Bürgerkrieg" 
+
+# Northwestern Revolts
+WAR_NAME_SIK_ETS:0 "Ost-Turkestan-Revolte"
+WAR_NAME_ETS_SIK:0 "Ost-Turkestan-Revolte"
+WAR_NAME_SIK_KUM:0 "Kumul Rebellion"
+WAR_NAME_KUM_SIK:0 "Kumul Rebellion"
+
+# League of Eight / Five Provinces Collapse
+WAR_NAME_LEP_ANQ:0 "Krieg der fünf Provinzen"
+WAR_NAME_ANQ_LEP:0 "Krieg der fünf Provinzen"
+
+# Sino-Japanese Wars
+WAR_NAME_JAP_LEC:0 "Japanese Intervention"
+WAR_NAME_JAP_FNG:0 "Mandschurei Intervention"
+WAR_NAME_JAP_CHI:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_JAP_QIE:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_JAP_SHX:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_JAP_SQI:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_JAP_XSM:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_JAP_LEP:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_JAP_ANQ:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_JAP_SZC:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_JAP_GXC:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_JAP_HNN:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_JAP_YUN:0 "2ter Sino-Japanischer Krieg"
+
+WAR_NAME_FNG_JAP:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_CHI_JAP:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_QIE_JAP:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_SHX_JAP:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_SQI_JAP:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_XSM_JAP:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_LEP_JAP:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_ANQ_JAP:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_SZC_JAP:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_GXC_JAP:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_YUN_JAP:0 "2ter Sino-Japanischer Krieg"
+WAR_NAME_HNN_JAP:0 "2ter Sino-Japanischer Krieg"

@@ -1,0 +1,64 @@
+﻿l_german:
+### Übersetzt von Proho ###
+### Country Names ###
+ ARM:0 "Armenien"
+ ARM_ADJ:0 "Armenisch"
+ ARM_DEF:0 "Armenien"
+
+ ARM_totalist:0 "Sozialistische Republik Armenien"
+ ARM_totalist_ADJ:0 "Armenisch"
+ ARM_totalist_DEF:0 "die Sozialistische Republik Armenien"
+ ARM_syndicalist:0 "Sozialistische Republik Armenien"
+ ARM_syndicalist_ADJ:0 "Armenisch"
+ ARM_syndicalist_DEF:0 "die Sozialistische Republik Armenien"
+ ARM_radical_socialist:0 "Sozialistische Republik Armenien"
+ ARM_radical_socialist_ADJ:0 "Armenisch"
+ ARM_radical_socialist_DEF:0 "die Sozialistische Republik Armenien"
+
+### Companies ###
+ zangezur_combine:0 "Zangezur Copper and Molybdenum Combine"
+ yerevan_state_university:0 "Yerevan State University"
+
+### Parties ###
+ARM_totalist_party:0 "Komunistakan"
+ARM_totalist_party_long:0 "Komunistakan Kusaktsutyun(Kommunistische Partei)"
+
+ARM_syndicalist_party:0 "Syndicalistakan"
+ARM_syndicalist_party_desc:0 "Syndicalistakan Kusaktsutvun(Syndikalistische Partei)"
+
+ARM_radical_socialist_party:0 "Hunchaks"
+ARM_radical_socialist_party_long:0 "Social Demokrat Hunchakian Kusaktsutyun (Sozialdemokratische Hunchakianische Partei)"
+
+ARM_social_democrat_party:0 "Dashnaks"
+ARM_social_democrat_party_long:0 "Dashnaktsutyun (Armenische Revolutionäre Föderation)"
+
+ARM_social_liberal_party:0 "Veragazmial"
+ARM_social_liberal_party_long:0 "Veragazmial Hunchakianner"
+
+ARM_market_liberal_party:0 "Ramgavar"
+ARM_market_liberal_party_long:0 "Ramgavar Azatakan Kusaktsutyun (Armenische Demokratisch-Liberale Partei)"
+
+ARM_social_conservative_party:0 "Pahpanoghakan"
+ARM_social_conservative_party_long:0 "Pahpanoghakan Kusaktsutyun"
+
+ARM_authoritarian_democrat_party:0 "Militärische Besatzung Regierung"
+ARM_authoritarian_democrat_party_long:0 "Militärische Besatzung Regierung"
+
+ARM_paternal_autocrat_party:0 "ANLM"
+ARM_paternal_autocrat_party_long:0 "Armenienn National Liberation Movement (Armenische Nationale Befreiungsbewegung)"
+
+ARM_national_populist_party:0 "Tseghakronutyun"
+ARM_national_populist_party_long:0 "Tseghakronutyun(Ultranationalistischen)"
+
+### Characters ###
+ ARM_garegin_nzdeh:0 "Garegin Nzhdeh"
+ ARM_anastas_mikoyan:0 "Anastas Mikoyan"
+ ARM_avetis_nazarbekian:0 "Avetis Nazarbekian"
+ ARM_alexander_khatisian:0 "Alexander Khatisian"
+ ARM_levon_pashalian:0 "Levon Pashalian"
+ ARM_mihran_damadian:0 "Mihran Damadian"
+ ARM_bedros_hallachian:0 "Bedros Hallachian"
+ ARM_christophor_araratov:0 "Christophor Araratov"
+ ARM_drastamat_kanayan:0 "Drastamat Kanayan"
+ ARM_hamazasp_babadzhanian:0 "Hamazasp Babadzhanian"
+ ARM_hamazasp_srvandztyan:0 "Hamazasp Srvandztyan"

@@ -522,7 +522,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "midsection"
-			position = { x=0 y=121 }	
+			position = { x=0 y=141 }	
 			size = { width = 580 height = 445 }
 			Orientation = UPPER_LEFT
 		
