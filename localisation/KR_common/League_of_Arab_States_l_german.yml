@@ -1,0 +1,21 @@
+﻿l_german:
+
+##Übersetzt von Thylon##
+
+LOAS_Arab_League: "$LOAS_faction$"
+LOAS_Arab_League_desc: "Die arabischen Völker, die durch ihre Sprache verbunden sind, haben innerhalb der von ihnen bewohnten Reiche immer eine eigene Gruppe gebildet. Einige sind jedoch der Meinung, dass diese Verbindung nicht weit genug geht und dass es das Schicksal der arabischen Welt ist, sich wie zu Zeiten der großen Kalifate wieder zu vereinigen. Sie glauben, dass durch die Schaffung eines solchen geeinten Arabiens der gesamte Subkontinent endlich seine wahre Renaissance erleben und seinen Platz in der Weltpolitik zurückerobern wird.\n\n Um diese Einigung zu beschleunigen, wurde eine supranationale Organisation (§Y$LOAS_faction$§!) geschaffen und mit erheblicher Macht ausgestattet. Wenn der Traum eines panarabischen Staates jemals verwirklicht werden soll, müssen wir jedoch die anderen arabischen Staaten davon überzeugen, sich an dieser Initiative zu beteiligen und einen Teil ihrer Souveränität aufzugeben."
+
+LOAS_Invite_Country: "Ladet [FROM.GetName] zur Arabischen Liga ein"
+
+LOAS_Integrate_Egypt: "Integriert Ägypten"
+LOAS_Integrate_Iraq: "Integriert Irak"
+LOAS_Integrate_Syria: "Integriert Syrien"
+LOAS_Integrate_Hejaz: "Integriert Hejaz"
+LOAS_Integrate_Central_Arabia: "Integriert Zentralarabien"
+LOAS_Integrate_Yemen: "Integriert Yemen"
+LOAS_Integrate_Oman: "Integriert Oman"
+
+LOA_every_member_state: "Jedes Mitglied der §Y$LOAS_faction$§!"
+LOA_three_random_states: "Drei zufällige gültige Staaten"
+
+LOAS_faction: "Liga der Arabischen Staaten"

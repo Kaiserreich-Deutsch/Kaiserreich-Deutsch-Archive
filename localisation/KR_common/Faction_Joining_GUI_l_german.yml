@@ -1,0 +1,83 @@
+﻿l_german:
+###  Übersetzt von Proho  ###
+FACTION_JOINING_ALERT_TITLE: "Diplomatische Entwicklung"
+FACTION_JOINING_ALERT_DESC: "[faction_member.GetFlag] §Y[faction_member.GetName]§! trat der §Y[faction_leader.GetFactionName]§! bei!"
+
+FACTION_JOINING_CLOSE: "Schliessen"
+
+JF_GENERIC_FLAVOUR: "Ihr aggressives Verhalten hat ein Wechsel des globalen Gleichgewichts markiert und könnte heftige Konsequenzen für die Stabilität in Europa und in Übersee haben."
+
+JF_GENERIC_FLAVOUR_1936: "Das Gleichgewicht der Macht hat, sich zu verschieben begonnen. Dies belastet die delikate Nachkriegsordnung, deren Erschaffung das Deutsche Reich lange erkämpfen musste. Die Aushandlung dieser Allianz wird Konsequenzen haben."
+JF_GENERIC_FLAVOUR_1937_ACW: "Durch den Kriegsausbruch in Nordamerika hat sich das Gleichgewicht der Macht plötzlich und möglicherweise unwiderruflich geändert. Es werden Konsequenzen für die Region und die Welt folgen."
+JF_GENERIC_FLAVOUR_1937: "Das Gleichgewicht der Macht verschiebt sich weiterhin. Es mögen Konsequenzen für die Region und jenseit folgen."
+JF_GENERIC_FLAVOUR_1938: "Die geopolitische Waage kippt weiter, wechselt das Gleichgewicht, und das mit dem viele strategischen Berechnungen. Es werden Konsequenzen für die Region und die Welt folgen."
+JF_GENERIC_FLAVOUR_1939: "Mit dem Wachstum von geopolitische Blocks, wachsen die Spannungen. Vielen Ländern bevorstehen nun schwere Entscheidungen der Ausrichtung. Das Gespenst des Krieges wird undeutlich sichtbar in der Region, womöglich auch in der ganzen Welt."
+JF_GENERIC_FLAVOUR_WK: "Selbst in Zeiten des Krieges gibt es ein Kräfteverhältnis, das sich jeden Augenblick ändert. Ob diese Vereinbarung den Konflikt zu Gunsten einer der beiden Seiten verschiebt oder nicht, wird die Zeit zeigen"
+JF_GENERIC_FLAVOUR_WK_START: "Die alte Weltordnung liegt zerschlagen und vom Krieg verschlungen, ihr Netz von Allianzen hat sich nun fast bis zur Unkenntlichkeit verändert."
+JF_GENERIC_FLAVOUR_GER_DEFEAT: "Da die deutsche Dominanz nun zweifellos gebrochen ist, blicken viele bereits in die Zukunft. Ein Abkommen nach dem anderen wird eine neue Weltordnung aufgebaut."
+JF_GENERIC_FLAVOUR_FRA_DEFEAT: "Auch wenn deutsche Waffen in Europa erneut siegreich sind, ist die Welt nicht mehr so wie vor dem Zweiten Weltkrieg. Ein Abkommen nach dem anderen, die Zukunft entfaltet sich."
+JF_GENERIC_FLAVOUR_ENT_VICTORY: "Der Sieg der Entente hat, allen Widrigkeiten zum Trotz, das Neue durch das Alte ersetzt. Die herrschenden Mächte des letzten Jahrhunderts übersehen nun eine vertraute Weltordnung, selbst wenn neue Bündnisse entstehen, um sie zu verändern."
+JF_GENERIC_FLAVOUR_OTHER_VICTORY: "Während die alte Weltordnung jetzt in Trümmern liegt, erheben sich neue Mächte aus der Asche. Ein Abkommen nach dem anderen wird die Welt wieder aufgebaut."
+
+### Add Custom Localisation Here ###
+
+#North America
+JF_CAN_USA_FLAVOUR: "Obwohl sich die Vereinigten Staaten kaum vom Bürgerkrieg erholt haben, haben sie beschlossen, sich [CAN.GetNameDef] in ihrem Bestreben anzuschließen, ihr Heimatland und Europa vom Syndikalismus zu befreien."
+JF_GER_USA_FLAVOUR: "Obwohl sie sich kaum vom Bürgerkrieg erholt haben, haben die Vereinigten Staaten aufgrund eines gemeinsamen Hasses auf den Syndikalismus beschlossen, sich [GER.GetNameDef] im Reichspakt anzuschließen."
+JF_FRA_CSA_FLAVOUR: "Nun, da die Vereinigten Syndikate in Amerika siegreich sind, haben sie sich auf Europa orientiert und sind formell dem syndikalistischen Bündnis beigetreten. Reaktionäre zittern, wenn Amerikas industrielle Macht wieder für die Revolution eingesetzt wird."
+
+#Central America
+JF_COS_GER_FLAVOUR: "Durch die ZKG-Kaffeebarone miteinander verflochten, wurde ein Vertrag über militärische Unterstützung mit dem [Fraktionschef.GetFactionName] zusammen mit dem Zugang zu den Marineeinrichtungen in Puerto Limon unterzeichnet."
+JF_COS_CAN_FLAVOUR: "Von ihrem vertrauten Verbündeten in Washington im Stich gelassen, war San José gezwungen, weiter nach Norden zu blicken, um seinen Schutz vor seinen räuberischeren Nachbarn zu gewährleisten. Ottawa, immer begierig darauf, Freunde in der Nähe des Kanals zu haben, hat Costa Rica umarmt."
+
+#South America
+JF_ARG_GER_FLAVOUR: "Nach dem erfolgreichen Handelsabkommen und der militärischen Zusammenarbeit zwischen den beiden Nationen hat [fraktions_mitglied.GetLeader] seine Teilnahme an der [fraktions_führer.GetFactionName] angekündigt."
+JF_ARG_CAN_FLAVOUR: "Durch geschickte Diplomatie haben [Fraktionsmitglied.GetLeader] und [Fraktionschef.GetName] die Krise auf den Islas Malvinas gelöst und ihre Differenzen zugunsten der gemeinsamen Bedrohung beiseite geschoben".
+
+#Western Europe
+JF_BEL_GER_FLAVOUR: "Die im Vertrag von Arlon vereinbarte neugeborene belgische Nation ist offiziell wieder dem [Fraktionsführer.GetFactionName] beigetreten, um ihre Souveränität vor syndikalistischen Falken zu schützen."
+JF_BEL_CAN_FLAVOUR: "Als Verbündete auf der Yzer während des Weltkrieges und durch Blut mit der britischen Krone verbunden, haben die Van Belgiës ihr Schicksal in die Hände ihrer alten Verbündeten gelegt, um ihr Überleben zu sichern."
+JF_BEL_FRA_FLAVOUR: "Die alte Ordnung zerbröckelt, die [GER.GetName] zerfällt, erhebt euch Opfer der Unterdrückung und stürzt den Riesen als Vergeltung für 1914!"
+JF_CAN_POR_FLAVOUR: "Aufgrund [POR.GetName]'s langjähriger Beziehungen zur königlichen Familie in Ottawa haben sie sich offiziell der Entente angeschlossen und damit Kanada ein Sprungbrett in Europa für die geplante Rückeroberung der Britischen Inseln gegeben."
+JF_GER_IRE_FLAVOUR: "Aufgrund der britischen Provokation hat sich [IRE.GetName] der [GER.GetFactionName] angeschlossen, in der Hoffnung, der Kaiser könne sie vor syndikalistischen 'Machenschaften' schützen."
+ 
+#Northern Europe
+JF_GER_SWE_FLAVOUR: "Mit einer langen Geschichte wirtschaftlicher Beziehungen zu Berlin und zunehmender Radikalität in der Region hat sich [SWE.GetName] offiziell dem Reichspakt angeschlossen."
+JF_FRA_SWE_FLAVOUR: "Nach dem Sturz der schwedischen Regierung durch [SWE.GetLeader] haben sie [SWE.GetLeader] formell [SWE.GetNameDef] an Paris angeglichen und sind der Dritten Internationale beigetreten."
+JF_GER_FIN_FLAVOUR: "Angesichts der Drohung Russlands, seine europäischen Territorien zurückfordern zu wollen, hat [FIN.GetLeader] seine Beziehungen zum Reichspakt gefestigt, in der Hoffnung, dass sie der kleinen Nation die dringend benötigte Sicherheit bieten können."
+JF_FRA_FIN_FLAVOUR: "Nach dem Sturz der Monarchie durch [FIN.GetLeader] haben sie sich der globalen syndikalistischen Bewegung angeschlossen und sind formell der Dritten Internationale beigetreten."
+JF_FRA_NOR_FLAVOUR: "Nach dem Sturz der Monarchie hat sich die neue norwegische syndikalistische Regierung formell der Dritten Internationale angeschlossen."
+JF_CAN_NOR_FLAVOUR: "Mit der unmittelbaren Gefahr, dass der inländische Radikalismus zerschlagen wird, hat sich [NOR.GetName] mit der Entente verbündet."
+JF_AUS_SWI_FLAVOUR_peace: "Während die Bedrohung durch die Franzosen vorerst gedämpft sein mag, hat sich die Schweiz formell dem österreichischen Bündnis angeschlossen, um zukünftigen Frieden und Stabilität zu sichern."
+JF_AUS_SWI_FLAVOUR_war: "Angesichts des fortschreitenden französischen Konflikts hat die Schweiz beschlossen, offiziell dem österreichischen Bündnis beizutreten, für den Fall, dass sich jemand noch für neutral hält."
+JF_GER_SWI_FLAVOUR_war: "Angesichts des fortschreitenden Krieges gegen die Syndikalisten hat sich die Schweiz entschlossen, offiziell dem Reichspakt beizutreten, was sie nur noch weiter an das Deutsche Reich angleicht."
+JF_GER_SWI_FLAVOUR_peace: "Während die französische Bedrohung vorübergehend gedämpft ist, hat die Schweiz beschlossen, sich dem Reichspakt anzuschliessen, um den zukünftigen Frieden und die Sicherheit zu gewährleisten."
+JF_FRA_SWI_FLAVOUR: "Nach der syndikalistischen Revolution in der Schweiz hat die provisorische Regierung beschlossen, der Dritten Internationale beizutreten und damit die bereits engen Beziehungen zwischen der Commune de France und [SWI.GetNameDef] zu formalisieren."
+
+#Southern Europe
+JF_AUS_ITA_FLAVOUR: "Mit Italo Balbos Radikalismus an der Wahlurne ist [ITA.GetNameDef] formell dem österreichischen Verteidigungspakt beigetreten."
+
+#Eastern Europe
+
+#Balkans
+JF_SER_GRE_FLAVOUR: "Aufgrund des gemeinsamen Hasses gegen die wachsende Macht Bulgariens hat Griechenland beschlossen, dem Belgrader Pakt mit Serbien beizutreten, um Bulgarien ein für alle Mal zu stürzen. Dies könnte sehr wohl die Machtbalance auf dem Balkan erschüttern."
+JF_SER_ROM_FLAVOUR: "Um die wachsende Macht Österreichs und Bulgariens einzudämmen, ist Rumänien dem Belgrader Pakt beigetreten. Österreich und Bulgarien sehen mit Furcht zu, wie das Pulverfass wieder zu explodieren droht."
+JF_CAN_GRE_FLAVOUR: "Verbündete während des Weltkrieges, [GRE.GetNameDef] hat formell beantragt, Kanada wieder in die Entente aufzunehmen, um dem Block eine Machtbasis auf dem Balkan zu geben."
+
+#Middle East
+
+#Africa
+
+#Central Asia
+
+#India
+
+#South East Asia
+
+#East Asia
+JF_SHX_QIE_COUP_FLAVOUR: "Nach dem Auto Überfall, den Puyi mit Hilfe von [SHX.GetNameDef] durchgeführt hat, hat [SHX.GetLeader] gegen die Überreste der Zhili-Clique interveniert und sich formell mit Peking verbündet."
+JF_SQI_QIE_COUP_FLAVOUR: "Nach dem Auto Überfall, den Puyi mit Hilfe von [SQI.GetNameDef] durchgeführt hat, hat [SQI.GetLeader] gegen die Überreste der Zhili-Clique interveniert und sich formell mit Peking verbündet."
+JF_ANQ_QIE_FLAVOR: "Nach Wu Peifu's erfolgreicher Unterstützung des Kampfes von [ANQ.GetNameDef] gegen [LEP.GetNameDef] hat sich Gouverneur Chen Tiaoyuan der Clique der Nordzhilianer angeschlossen."
+ JF_RKMT_FLAVOUR: "Nachdem sie ihre alten Hochburgen im Süden gesichert hat, vereinigt sich die rechte KMT unter einem Banner. Während sie sich nach Norden wenden, fragt sich China, ob sie erfolgreich sein können, wo Chiang versagt hat..."
+
+#Oceania

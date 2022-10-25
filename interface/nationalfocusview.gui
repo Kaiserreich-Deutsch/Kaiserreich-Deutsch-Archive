@@ -17,7 +17,7 @@ guiTypes = {
 			font = "hoi_36header"
 			borderSize = {x = 0 y = 0}
 			text = "NATIONAL_FOCUS_TITLE"
-			maxWidth = 1000
+			maxWidth = 1000 ## maxWidth geändert damit der gesamte Ländername sichtbar ist
 			maxHeight = 20
 			format = left
 		}
@@ -390,7 +390,6 @@ guiTypes = {
 						max_slots_horizontal = 1
 					}
 				}
-			
 			}
 		}
 		
@@ -458,7 +457,6 @@ guiTypes = {
 			format = left			
 			alwaystransparent = yes
 		}	
-		
 	}
 	
 	containerWindowType = {
@@ -710,19 +708,17 @@ guiTypes = {
 				name = "Background"
 				quadTextureSprite ="GFX_tiled_paper_bg2"
 			}
-			
 		}
 		instantTextboxType = {
 			name = "desc"
-			position = { x = 34 y = 240 }
+			position = { x = 34 y = 235 }
 			textureFile = ""
 			font = "hoi_18mbs"
 			borderSize = {x = 5 y = 0}
 			text = "Description"
-			maxWidth = 460
-			maxHeight = 108
+			maxWidth = 485
+			maxHeight = 70
 			format = center
-			scrollbarType = standardtext_slider
 		}
 
 		iconType = {
@@ -877,7 +873,6 @@ guiTypes = {
 				name = "Background"
 				quadTextureSprite ="GFX_tiled_paper_bg2"
 			}
-			
 		}
 		instantTextboxType = {
 			name = "desc"
@@ -993,3 +988,4 @@ guiTypes = {
 		}
 	}
 }
+
