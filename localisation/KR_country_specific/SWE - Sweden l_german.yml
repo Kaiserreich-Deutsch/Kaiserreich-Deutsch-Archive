@@ -1109,23 +1109,14 @@
  swe_syncon.7.a: "Elise Ottosen-Jensen ist unsere Wahl."
  swe_syncon.7.b: "Frans Severin ist unsere erste Wahl."
 
- #Socialists/Totalists:
+ #Draw:
  swe_syncon.8.t: "Der Generalsekretär der Ersten Schwedischen Arbeiterversammlung"
- swe_syncon.8.d: "Die Schlacht in den revolutionären Versammlungen ist hart umkämpft. Die Totalisten und die radikalen Sozialisten haben sowohl an Boden gewonnen als auch gehalten. Mit einem neuen Regime, das bereit ist, den Sitz der ultimativen Macht als Generalsekretär der Ersten Schwedischen Arbeiterversammlung zu erklimmen, haben wir eine schwierige Entscheidung zu treffen. Wer soll dort sitzen?\n\nEntweder wird die totalistische Option von Nils Flyg, einem ehemaligen Chefredakteur und unbestrittenen Führer der totalistischen Bewegung, die Verantwortung übernehmen, oder vielleicht ist Kilbom, der ehemalige Seemann und Journalist, eine bessere Wahl? In jedem Fall wird sich eine Seite übergangen fühlen, und Schweden könnte unter dieser Spaltung leiden."
+ swe_syncon.8.d.socialist_totalist: "Die Schlacht in den revolutionären Versammlungen ist hart umkämpft. Die Totalisten und die radikalen Sozialisten haben sowohl an Boden gewonnen als auch gehalten. Mit einem neuen Regime, das bereit ist, den Sitz der ultimativen Macht als Generalsekretär der Ersten Schwedischen Arbeiterversammlung zu erklimmen, haben wir eine schwierige Entscheidung zu treffen. Wer soll dort sitzen?\n\nEntweder wird die totalistische Option von Nils Flyg, einem ehemaligen Chefredakteur und unbestrittenen Führer der totalistischen Bewegung, die Verantwortung übernehmen, oder vielleicht ist Kilbom, der ehemalige Seemann und Journalist, eine bessere Wahl? In jedem Fall wird sich eine Seite übergangen fühlen, und Schweden könnte unter dieser Spaltung leiden."
+ swe_syncon.8.d.socialist_syndicalist: "Der Kampf in den revolutionären Versammlungen ist hart geführt worden. Die Syndikalisten und die radikalen Sozialisten haben sowohl an Boden gewonnen als auch gehalten. Mit einem neuen Regime, das bereit ist, den Sitz der ultimativen Macht als Generalsekretär der Ersten Schwedischen Arbeiterversammlung zu erklimmen, haben wir eine schwierige Entscheidung zu treffen.\n\nWer sollte dort sitzen? Entweder wird die syndikalistische Option von Frans Severin, einem hochrangigen Mitglied des SAC-Kongresses, die Verantwortung übernehmen, oder vielleicht ist Kilbom, der ehemalige Seemann und Journalist, eine bessere Wahl? In jedem Fall wird sich eine Seite übergangen fühlen, und Schweden könnte unter dieser Spaltung leiden."
+ swe_syncon.8.d.totalist_syndicalist: "Die Schlacht in den revolutionären Versammlungen ist hart umkämpft. Die Syndikalisten und die Totalisten haben sowohl an Boden gewonnen als auch gehalten. Mit einem neuen Regime, das bereit ist, den Sitz der ultimativen Macht als Generalsekretär der Ersten Schwedischen Arbeiterversammlung zu erklimmen, haben wir eine schwierige Entscheidung zu treffen.\n\nWer soll dort sitzen? Entweder wird die syndikalistische Option von Frans Severin, einem hochrangigen Mitglied des SAC-Kongresses, die Verantwortung übernehmen, oder vielleicht ist Nils Flyg, der ehemalige Chefredakteur und unbestrittene Führer der totalistischen Bewegung, eine bessere Wahl? Wie auch immer, eine Seite wird sich übergangen fühlen, und Schweden könnte unter dieser Spaltung leiden."
  swe_syncon.8.a: "Nils Flyg ist unser Mann."
- swe_syncon.8.b: "Karl Kilbom ist das, was Schweden braucht."
-
- #Socialists/Syndicalists:
- swe_syncon.9.t: "Der Generalsekretär der Ersten Schwedischen Arbeiterversammlung"
- swe_syncon.9.d: "Der Kampf in den revolutionären Versammlungen ist hart geführt worden. Die Syndikalisten und die Radikalsozialisten haben sowohl an Boden gewonnen als auch gehalten. Mit einem neuen Regime, das bereit ist, als Generalsekretär der Ersten Schwedischen Arbeiterversammlung den Sitz der ultimativen Macht zu erklimmen, haben wir eine schwierige Entscheidung zu treffen.\n\nWer soll dort sitzen? Entweder wird die syndikalistische Option von Frans Severin, einem hochrangigen Mitglied des SAC-Kongresses, die Verantwortung übernehmen, oder vielleicht ist Kilbom, der ehemalige Seemann und Journalist, eine bessere Wahl? In jedem Fall wird sich eine Seite übergangen fühlen, und Schweden könnte unter dieser Spaltung leiden."
- swe_syncon.9.a: "Frans Severin ist unsere erste Wahl."
- swe_syncon.9.b: "Karl Kilbom ist das, was Schweden braucht."
-
- #Totalists/Syndicalists:
- swe_syncon.10.t: "Der Generalsekretär der Ersten Schwedischen Arbeiterversammlung"
- swe_syncon.10.d: "Die Schlacht in den revolutionären Versammlungen ist hart umkämpft. Die Syndikalisten und die Totalisten haben sowohl an Boden gewonnen als auch gehalten. Mit einem neuen Regime, das bereit ist, als Generalsekretär der Ersten Schwedischen Arbeiterversammlung den Sitz der ultimativen Macht zu erklimmen, haben wir eine schwierige Entscheidung zu treffen.\n\nWer soll dort sitzen? Entweder wird die syndikalistische Option von Frans Severin, einem hochrangigen Mitglied des SAC-Kongresses, die Verantwortung übernehmen, oder vielleicht ist Nils Flyg, der ehemalige Chefredakteur und unbestrittene Führer der totalistischen Bewegung, eine bessere Wahl? Wie auch immer, eine Seite wird sich übergangen fühlen, und Schweden könnte unter dieser Spaltung leiden."
- swe_syncon.10.a: "Frans Severin ist unsere erste Wahl."
- swe_syncon.10.b: "Nils Flyg ist unser Mann."
+ swe_syncon.8.b: "Frans Severin ist unsere erste Wahl."
+ swe_syncon.8.c: "Karl Kilbom ist das, was Schweden braucht."
 
 ### Flavour Event ###
 
@@ -1284,7 +1275,6 @@
  SWE_jager_div_unit_tooltip: "Erhalten Sie die Vorlage §YGebirgsjäger§! mit der folgenden Zusammensetzung:\n - 7 £GFX_unit_mountaineers_icon_small Bataillone;\n - 2 £GFX_unit_artillery_brigade_icon_small Bataillone;\n - £GFX_unit_artillery_icon_small Unterstützungs Kompanien;\n - £GFX_unit_engineer_icon_small Unterstützungs Kompanien.§G\n\nErzeugen Sie §Y3§! Divisionen mit neu erhaltenen Vorlagen§!\n"
  SWE_naval_construct_tt: "Hinzufügen der Produktion von §Y2 Zerstörern§! und §Y1 Leichten Kreuzern§!\n"
  SWE_hms_karl_xii_tooltip: "Gewinnen Sie den Schlachtkreuzer §YHMS Karl XII§!\n"
- SWE_tt_general_secretary_election: "Das Revolutionskomitee wählt einen §YGeneralsekretär§! auf der Grundlage ihrer Anhängerschaft bei den vorangegangenen politischen Abstimmungen.\n"
  SWE_harboring_traitors: "Gewährung von Asyl für unsere Reaktionäre"
  SWE_sideline_support: "Indirekte Unterstützung"
  SWE_trade_war: "Handelskrieg"
@@ -1498,7 +1488,7 @@
  SWE_carlos_adlercreutz: "Carlos Adlercreutz"
  SWE_sigurd_erixon: "Sigurd Erixon"
  SWE_gustav_cassel: "Gustav Cassel"
- SWE_karl_schlyter: "Karl Shclyter"
+ SWE_karl_schlyter: "Karl Schlyter"
  SWE_per_edvin_skold: "Per Edvin Sköld"
  SWE_elof_eriksson: "Elof Eriksson"
  SWE_marcus_wallenberg_jr: "Marcus Wallenberg Jr."

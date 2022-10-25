@@ -110,6 +110,9 @@ KR_chief_justice: "Oberster Richter"
 KR_liberal_philanthropist: "Liberaler Philanthrop"
 KR_stylistic_architect: "Stilistischer Architekt"
 KR_medical_expert: "Medizinischer Experte"
+KR_pious_intellectual: "Frommer Intellektueller"
+KR_heartless_lawyer: "Herzloser Anwalt"
+KR_teleological_planner: "Teleologischer Planer"
 
 ##################################
 ### Generic Seconds in Command ###
@@ -513,7 +516,7 @@ KR_navy_chief_manoeuvre_1: "Marine - Manöver\n(Spezialist)"
 KR_navy_chief_manoeuvre_2: "Marine - Manöver\n(Experte)"
 KR_navy_chief_manoeuvre_3: "Marine - Manöver\n(Genie)"
 
-### Chiefs of Airforce ###
+### Chiefs of Air Force ###
 KR_air_chief_reform_1: "Luftwaffe - Reformen\n(Spezialist)"
 KR_air_chief_reform_2: "Luftwaffe - Reformen\n(Experte)"
 KR_air_chief_reform_3: "Luftwaffe - Reformen\n(Genie)"
@@ -530,6 +533,9 @@ KR_air_chief_ground_support_3: "Bodenunterstützung\n(Genie)"
 KR_air_chief_all_weather_1: "Allwetter\n(Spezialist)"
 KR_air_chief_all_weather_2: "Allwetter\n(Experte)"
 KR_air_chief_all_weather_3: "Allwetter\n(Genie)"
+KR_air_chief_pursuit_doctrine_1: "Verfolgungsdoktrin\n(Spezialist)"
+KR_air_chief_pursuit_doctrine_2: "Verfolgungsdoktrin\n(Experte)"
+KR_air_chief_pursuit_doctrine_3: "Verfolgungsdoktrin\n(Genie)"
 
 ### Military High Command ###
 KR_MHC_entrenchment_1: "Verschanzung\n(Spezialist)"

@@ -480,7 +480,7 @@
  sic.33.a:0 "Verdammte Kanadier."
 
  sic.34.t:0 "Das [From.GetAdjective] Angebot"
- sic.34.d:0 "Ein Abgesandter von [From.GetNameDef] ist heute in Berlin eingetroffen, um die Aussichten auf einen Beitritt zu [Root.GetFactionName] zu sondieren. Sollten wir sie aufnehmen oder brauchen wir sie nicht?"
+ sic.34.d:0 "Ein Abgesandter von [From.GetNameDef] ist heute in [FROM.Capital.GetCapitalVictoryPointName] eingetroffen, um die Aussichten auf einen Beitritt zu [Root.GetFactionName] zu sondieren. Sollten wir sie aufnehmen oder brauchen wir sie nicht?"
  sic.34.a:0 "Nehmt sie auf"
  sic.34.b:0 "Wir brauchen sie nicht."
 

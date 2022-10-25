@@ -903,21 +903,21 @@ guiTypes = {
 			format = left
 		}
 
-		iconType = {
-			name = "new_country_1"
-			quadTextureSprite ="GFX_major_country_flag_overlay"
-			position = { x = 23 y = 348 }
-			Orientation = "UPPER_LEFT"
-			alwaystransparent = yes
-		}
-
-		iconType = {
-			name = "new_country_2"
-			quadTextureSprite ="GFX_major_country_flag_overlay"
-			position = { x = 23 y = 388 }
-			Orientation = "UPPER_LEFT"
-			alwaystransparent = yes
-		}
+#		iconType = {
+#			name = "new_country_1"
+#			quadTextureSprite ="GFX_major_country_flag_overlay"
+#			position = { x = 23 y = 348 }
+#			Orientation = "UPPER_LEFT"
+#			alwaystransparent = yes
+#		}
+#
+#		iconType = {
+#			name = "new_country_2"
+#			quadTextureSprite ="GFX_major_country_flag_overlay"
+#			position = { x = 23 y = 388 }
+#			Orientation = "UPPER_LEFT"
+#			alwaystransparent = yes
+#		}
 	}
 
 	containerWindowType = {
@@ -1750,7 +1750,7 @@ guiTypes = {
 			position = {x = 30 y = 148 }
 			name = "historical_text"
 			font = "hoi_24header"
-			maxWidth = 370
+			maxWidth = 450 # Dt. Übersetzung, Default: 370
 			maxHeight = 16
 			text = "FE_HISTORICAL"
 			pdx_tooltip = "FE_HISTORICAL_TOOLTIP"

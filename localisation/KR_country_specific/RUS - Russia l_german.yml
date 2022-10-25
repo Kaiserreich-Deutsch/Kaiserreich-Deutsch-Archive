@@ -120,7 +120,10 @@ RUS_eurasianist_ideologue: "Eurasiatischer Ideologe"
 RUS_milyukov_of_the_dardanelles: "Miljukow von den Dardanellen"
 RUS_savvy_politician: "Geschickter politischer Akteur"
 RUS_patriarch_of_moscow_and_all_russias: "Patriarch of Moscow and All Russias"
+RUS_cossack_ataman: "Kosake Ataman"
+RUS_cossack_ataman_spawned: "Kosake Ataman"
 
+RUS_cossack_ataman_tt: "§YErschafft fünf Kosaken-Kavallerie-Divisionen§!"
 
 ### Ship Name Lists ###
 NAME_THEME_ANIMALS_RUS: "Tiere (U-Boote)"
@@ -172,7 +175,7 @@ RUS_Attack_Persia: "Zerquetscht [From.GetNameDef]"
 RUS_Attack_Persia_desc: "[From.GetNameDefCap] steht unseren Expansionsplänen im Weg und sie blockieren unseren Zugang zu warmen Häfen. Es heißt [From.GetNameDef] oder wir!"
 
 RUS_Attack_Transamur: "Übernehmt [From.GetNameDef]"
-RUS_Attack_Transamur_desc: "Es ist an der Zeit, diesem von Japan unterstützten Scheinstaat ein Ende zu setzen. Wladiwostok soll wieder vom rechtmäßigen Russland regiert werden.!"
+RUS_Attack_Transamur_desc: "Es ist an der Zeit, diesem von Japan unterstützten Scheinstaat ein Ende zu setzen. Wladiwostok soll wieder vom rechtmäßigen Russland regiert werden!"
 
 RUS_Attack_Japan: "Kümmert euch um [From.GetNameDef]"
 RUS_Attack_Japan_desc: "Unser alter Rivale im Osten, Japan, war uns schon viel zu lange ein Dorn im Auge. Jetzt, da unsere westlichen Positionen gefestigt sind, können wir uns endlich darauf konzentrieren, ihren Würgegriff über Asien ein für alle Mal zu brechen."
@@ -185,7 +188,7 @@ RUS_Alliance_decisions: "Die Russische Sphäre"
 RUS_Invite_Country: "Ladet [From.GetNameWithFlag] ein"
 
 RUS_Invite_Mongolia_desc: "Die Mongolen haben sich unserem Einfluss gegenüber wohlwollend gezeigt. Vielleicht ist es an der Zeit, unsere beiden Nationen formell zusammenzuführen."
-RUS_Invite_East_Turkestan_desc: "Ostturkestan war schon immer Teil unserer natürlichen Einflusssphäre mit seinen engen Beziehungen zu Russisch-Turkestan. Ein Bündnis mit ihnen würde ihnen sowohl militärisch als auch wirtschaftlich sehr helfen...."
+RUS_Invite_East_Turkestan_desc: "Ostturkestan war schon immer Teil unserer natürlichen Einflusssphäre mit seinen engen Beziehungen zu Russisch-Turkestan. Ein Bündnis mit ihnen würde ihnen sowohl militärisch als auch wirtschaftlich sehr helfen..."
 RUS_Invite_Greece_desc: "Die Griechen, unsere Brüder in der Orthodoxie, haben Ambitionen auf strategische Schlüsselpositionen im Mittelmeerraum. Gemeinsam werden wir unseren beiden alten Nationen zu neuer Größe verhelfen."
 RUS_Invite_Romania_desc: "Der rumänische Staat ist seit langem in unseren Einflussbereich geraten, und es scheint, dass er angesichts der zunehmenden Unbeständigkeit in Europa erneut unseren Schutz benötigt."
 RUS_Invite_Serbia_desc: "Wir haben einst im Namen Serbiens gegen Deutschland und Österreich gekämpft, obwohl uns der Weltkrieg teuer zu stehen kam. Jetzt, wo Russland eine starke Position hat, wäre es vielleicht angebracht, dass wir und Serbien die Fehler des Weltkriegs gemeinsam wiedergutmachen."
@@ -449,6 +452,9 @@ RUS_Front_Line_Commissars_desc: "Die Okhrannoye Otdeleniye erhielten Posten in u
 RUS_Equipment_Modernisation: "Modernisierung der Ausrüstung"
 RUS_Equipment_Modernisation_desc: "Wir haben einen Teil des Weges zurückgelegt, aber es gibt noch mehr, was wir tun können. Das Herzstück einer jeden Armee ist letztlich die Artillerie und das Gewehr, genau wie im Weltkrieg."
 
+RUS_Defensive_Measures: "Defensive Maßnahmen"
+RUS_Defensive_Measures_desc: "Kein Plan überlebt den Kontakt mit dem Feind, und der Krieg mit Deutschland wird garantiert nicht in unserem Sinne ausgehen. Es wäre klug, Gegenmaßnahmen für den Fall zu ergreifen, dass wir zum Rückzug gezwungen werden - Moskau darf nicht in feindliche Hände fallen."
+
 RUS_Rearmament_Programme: "Aufrüstungsprogramm"
 RUS_Rearmament_Programme_desc: "Während die Spannungen zwischen Franzosen und Deutschen weiter zunehmen, nähert sich die Welt immer mehr dem Ausbruch eines neuen Krieges, der die Zukunft Europas bestimmen wird. Wir müssen bereit sein, Deutschland zu konfrontieren, wenn die Zeit gekommen ist, und zu diesem Zweck müssen wir ein ehrgeiziges Programm zur Aufrüstung der russischen Armee in Angriff nehmen."
 
@@ -477,7 +483,7 @@ RUS_Naval_Bomber_Development: "Entwicklung von Marinebombern"
 RUS_Naval_Bomber_Development_desc: "Auf See kann ein einzelnes Geschwader von Marinebombern genauso effizient sein wie jedes Schiff. Wir müssen diese Art von Bombern weiter entwickeln."
 
 RUS_Create_The_VDV: "Gründet die VDV"
-RUS_Create_The_VDV_desc: "Einige der experimentierfreudigeren Mitglieder unseres Generalstabs meinen, dass die Motorisierung unserer Truppen nur der erste Schritt sei. Der nächste Schritt wäre, die Infanterie nicht mit Schiffen oder Lastwagen, sondern mit Flugzeugen zu verlegen! Indem wir so genannte Fallschirmjäger hinter den feindlichen Linien abwerfen, können wir feindliche Einheiten abschneiden und Nachschubpunkte treffen."
+RUS_Create_The_VDV_desc: "Einige der experimentierfreudigeren Mitglieder unseres Oberkommandos meinen, dass die Motorisierung unserer Truppen nur der erste Schritt sei. Der nächste Schritt wäre, die Infanterie nicht mit Schiffen oder Lastwagen, sondern mit Flugzeugen zu verlegen! Indem wir so genannte Fallschirmjäger hinter den feindlichen Linien abwerfen, können wir feindliche Einheiten abschneiden und Nachschubpunkte treffen."
 
 RUS_High_Command_Reforms: "Reformen des Oberkommandos"
 RUS_High_Command_Reforms_desc: "Im militärischen Oberkommando gibt es viele alte Fossilien, die aus dem Weltkrieg und dem Bürgerkrieg wenig gelernt haben. Sie müssen durch Leute ersetzt werden, die die Art der Kriegsführung verstehen, die wir zu führen hoffen."
@@ -549,7 +555,7 @@ RUS_Coastal_Defences: "Küstenverteidigung"
 RUS_Coastal_Defences_desc: "Da unsere Seekapazitäten seit jeher geringer sind als die unserer natürlichen Rivalen, plädieren viele unserer Marinetheoretiker für eine defensive Haltung gegenüber dem Feind. Indem wir uns auf die Verminung der Meere konzentrieren, könnten wir ihre Bewegungen auf See einschränken und ihren Flotten Verluste zufügen, während wir uns nur minimalen Risiken aussetzen."
 
 RUS_A_Destroyer_Armada: "Eine Zerstörerarmada"
-RUS_A_Destroyer_Armada_desc: "Zerstörer sind das Rückgrat einer jeden Marine. In Anbetracht der Tatsache, dass der Reichspakt im Baltikum dominiert, wird dies für uns doppelt zutreffen. Schnell, wendig und leicht zu bauen, werden wir eine große Anzahl dieser Schiffe brauchen, wenn wir die Meerengen bezwingen und es auf die offene See schaffen wollen."
+RUS_A_Destroyer_Armada_desc: "Zerstörer sind das Rückgrat einer jeden Marine. In Anbetracht der Dominanz des Reichspakts im Baltikum wird dies für uns doppelt zutreffen. Diese schnellen, einfallsreichen und schnell zu bauenden Schiffe werden in großer Zahl benötigt, wenn wir die Meerengen bezwingen und auf das offene Meer vordringen wollen."
 
 RUS_Fleet_Protectors: "Flottenbeschützer"
 RUS_Fleet_Protectors_desc: "Bis wir unser Flottenerweiterungsprogramm abgeschlossen haben, ist jedes Schiff wertvoll und schwer zu ersetzen. Unsere Admiralität ist der Ansicht, dass wir die Überlebensfähigkeit unserer Seestreitkräfte erheblich verbessern können, indem wir unsere Kreuzer als defensive Herzstücke einsetzen, die unsere Schutzschiffe und Großkampfschiffe gleichermaßen schützen."
@@ -558,7 +564,7 @@ RUS_Commerce_Raiders: "Handelsräuber"
 RUS_Commerce_Raiders_desc: "Moderne Kreuzer haben sich in der Vergangenheit als sehr effektive Handelsschiffjäger erwiesen, da sie gute Mobilität mit großer Feuerkraft kombinieren. In Anbetracht ihres Potenzials und unserer Notwendigkeit, die Arterien unserer Feinde zu treffen, sollten wir mehr Ressourcen für die Maximierung ihrer Effektivität in dieser besonderen Rolle bereitstellen."
 
 RUS_Fleet_Vanguards: "Flottenvorhut"
-RUS_Fleet_Vanguards_desc: "Als Mittelweg zwischen größeren Schlachtschiffen und kleineren Schiffen sind Kreuzer ein vielseitiger Schiffstyp, der hart zuschlagen kann, ohne für den Feind ein "weißer Elefant" zu sein, den er niederschlagen kann. Durch die Modernisierung ihrer offensiven Bewaffnung verwandeln wir diese Schiffe in kleine Schlachtschiffe, die es in einem Kampf mit Großkampfschiffen aufnehmen können."
+RUS_Fleet_Vanguards_desc: "Als Mittelweg zwischen größeren Schlachtschiffen und kleineren Schiffen sind Kreuzer ein vielseitiger Schiffstyp, der hart zuschlagen kann, ohne unsere begrenzten Ressourcen unverhältnismäßig stark zu beanspruchen. Durch die Modernisierung ihrer offensiven Bewaffnung verwandeln wir diese Schiffe in kleine Schlachtschiffe, die es in einem Kampf mit Großkampfschiffen aufnehmen können."
 
 RUS_Naval_Infantry: "Marineinfanterie"
 RUS_Naval_Infantry_desc: "Landungen gegen befestigte feindliche Inseln oder Strände, die von normaler Infanterie ohne spezielle Ausbildung und Ausrüstung durchgeführt werden, sind eine Katastrophe, die nur darauf wartet zu passieren. Wenn wir die Gebiete der Reiche im Westen, Süden und Osten einnehmen wollen, müssen wir einen neuen Zweig der Marineinfanterie aufstellen, der bei künftigen Invasionen zur See die Vorhut bildet."
@@ -634,7 +640,7 @@ RUS_all_states_with_less_than_three_infra: "Jeder eigene sibirische Staat mit we
 
 RUS_may_lead_to_war_with_FROM: "§RKann zum Krieg mit [From.GetNameDef] führen§!"
 RUS_may_lead_to_war_with_FROM_overlord: "§RKann zum Krieg mit [From.Overlord.GetNameDef] führen§!"
-RUS_will_declare_war_on_ROOT: "§R[FROM.GetNameDefCap] wird uns den Krieg erklären!"
+RUS_will_declare_war_on_ROOT: "§R[FROM.GetNameDefCap] wird uns den Krieg erklären!§!"
 
 RUS_Realpolitik_tooltip: "Erschließt potenzielle Allianzen mit §Hden baltischen Staaten§!, §HFinnland§!, §HRumänien§!, §HGeorgien§! and §HMongolei§!."
 RUS_Expansionism_tooltip: "Schaltet zusätzliche Expansionsmöglichkeiten gegen §HPolen§!, §HÖsterreich§!, §HRumänien§!, §HPersien§! and §HAfghanistan§! frei."
@@ -669,6 +675,8 @@ RUS_paratrooper_tooltip: "Eine £nato_unit_paratrooper_icon_small  §HFallschirm
 RUS_average_compliance_tooltip: "Durchschnittlicher Gehorsam in §Y[From.GetName]§! ist höher als §H40%§!"
 
 RUS_state_duma_trait_change: "§Y$RUS_state_duma$§! verliert §Y$KR_parliament_sic$§! und gewinnt §Y$KR_authoritarian_sic$§!\n  -$MODIFIER_POLITICAL_POWER_FACTOR$: [?-0.08|+=%0]\n  -$MODIFIER_STABILITY_FACTOR$: [?0.05|+=%]\n  -$MODIFIER_WAR_SUPPORT_FACTOR$: [?0.1|+=%]"
+
+RUS_defensive_measures_forts: "Fügt insgesamt §Y28 Landbefestigungen§! in den Provinzen um Moskau hinzu."
 
 ### Flags ###
 RUS_demanding_armenia: "Hat keine Entscheidung getroffen §Y$RUS_Demand_Armenia$§!"
@@ -745,7 +753,7 @@ russia.43.d: "Feldmarschall Denikin hat seinen Rivalen in der Militärjunta den 
 russia.43.a: "Du hast die Wahl."
 
 russia.11.t: "Konstitutionelle Monarchie"
-russia.11.d: "Nach langen Überlegungen und politischen Intrigen ist es an der Zeit, eine konstitutionelle Monarchie mit dem rechtmäßigen Zaren an der Spitze zu errichten.!"
+russia.11.d: "Nach langen Überlegungen und politischen Intrigen ist es an der Zeit, eine konstitutionelle Monarchie mit dem rechtmäßigen Zaren an der Spitze zu errichten!"
 russia.11.a: "Eine konstitutionelle Monarchie ist genau das, was wir brauchen, um Russland zu schützen!"
 russia.11.b: "Marschall Wrangel lädt den Prätendenten ein, eine konstitutionelle Monarchie zu führen."
 russia.11.c: "Marschall Denikin lädt den Prätendenten ein, eine konstitutionelle Monarchie zu führen."
@@ -758,7 +766,7 @@ russia.13.t: "Tsar Vladimir"
 russia.13.d: "Es ist mehr als ein Jahr her, dass Russland aufgrund der instabilen Natur von Demokratien erneut ins Chaos gestürzt wurde. Es ist an der Zeit, dass wir das russische Zarenreich wiederherstellen, mit dem rechtmäßigen Thronfolger Vladimir Romanow auf dem Thron!"
 
 russia.14.t: "Zar Dmitri"
-russia.14.d: "Es ist an der Zeit, das große russische Zarenreich unter der Führung des neuen Zaren Dmitri Romanow endlich wiederherzustellen.!"
+russia.14.d: "Es ist an der Zeit, das große russische Zarenreich unter der Führung des neuen Zaren Dmitri Romanow endlich wiederherzustellen!"
 russia.14.a: "Lang lebe Zar Dmitri!"
 
 russia.16.t: "Aristokratische Republik"
@@ -771,7 +779,7 @@ russia.17.a: "Für die Republik!"
 
 pres_elections_ari_rep: "Da Dmitri 1936 zum Präsidenten gewählt wurde, werden die nächsten Präsidentschaftswahlen 1940 stattfinden."
 pres_elections_dem_rep: "Im Jahr 1937 wird eine Neuwahl stattfinden.\n"
-pres_elections_dem_rep_popular_front: "Da Bucharin 1936 zum Präsidenten gewählt wurde, finden die nächsten Präsidentschaftswahlen im Jahr 1940 statt.."
+pres_elections_dem_rep_popular_front: "Da Bucharin 1936 zum Präsidenten gewählt wurde, finden die nächsten Präsidentschaftswahlen im Jahr 1940 statt."
 
 russia.18.t: "Der Aufstieg der Vozhd"
 russia.18.d: "Nach dem Tod von Lawr Kornilow ist es Boris Sawinkow und seinen radikalen NRPR-Anhängern gelungen, die Kontrolle über das gesamte Land zu übernehmen. Als wichtigster Politiker im größten Land der Welt wird Sawinkow als unbestrittener Vozhd (Führer) Russlands gefeiert und ist bereit, der Nation seine eigene Ideologie aufzuzwingen, die sich sowohl gegen den Syndikalismus als auch gegen die neuen russischen republikanischen Traditionen richtet. Ziel dieser Ideologie ist es, den russischen Staat zu einem Gebilde umzugestalten, das in der Lage ist, die russischen Interessen und Bürger in der ganzen Welt zu verteidigen. Sawinkow wird sich weder in die Abhängigkeit vom Reichspakt noch von der besiegten Entente begeben - sein neues Russland wird stärker sein als jedes Bündnis in der Welt."
@@ -791,7 +799,7 @@ russia.20.d: "Gestern wurde in unserer Hauptstadt ein neues Denkmal zum Gedenken
 russia.20.a: "Wir alle lieben unsere Dichter!"
 
 russia.21.t: "'Das Vermächtnis von Dschingis Khan', Nikolay Trubetskoy"
-russia.21.d: "Der berühmte Sprachwissenschaftler und Historiker Fürst Nikolaj Trubezkoj wandte sich in den 1930er Jahren der Politik zu und hat sich nun entschlossen, seine ideologische Doktrin des Eurasianismus in einem einzigen Buch zusammenzufassen - "Dschingis Khans Erbe: Ein Blick auf die russische Geschichte aus dem Osten". Es hat bereits in russischen Literaturkreisen die Runde gemacht, und grobe Zitate werden in der Öffentlichkeit herumgereicht.\n\nDer Eurasianismus glaubt an das Konzept des "Lebensraums" ("mesto dlya razvitiya"), an geografische Bedingungen, die die darin lebenden Völker definieren. Menschen, die in demselben Biom oder geografischen Gebiet leben, bilden eine gemeinsame Zivilisation und haben einen natürlichen Wunsch, sich zu vereinigen. Russland bildet ihrer Ansicht nach den Kern einer "Steppenzivilisation", die alle Völker Osteuropas und Zentralasiens umfasst. Die Eurasianisten schreiben ihnen eine kollektive Verwandtschaft zu und fordern, dass sie sich unter russischer Herrschaft vereinigen. Trubetskoy erklärt, dass das Großfürstentum Moskau und damit Russland der Nachfolger des Mongolenreiches ist und Dschingis Khan ein Held des russischen Volkes war.\n\nDieses "Russland-Eurasien" muss Ideen und Überzeugungen verkörpern, die nach Ansicht der Eurasianisten "eurasisch" sind - Selbstlosigkeit, Heldentum, gesellschaftliche Hierarchie und Gehorsam. Eurasianisten glauben, dass die Demokratie eine Regierungsform für "Seevölker" ist und für Russland völlig ungeeignet ist - Russland sollte nicht nur gegen die ihm aufgezwungene Demokratie kämpfen, sondern auch andere außereuropäische Nationen von der westlichen Herrschaft befreien und das besiegen, was sie als westlichen "Kulturimperialismus" wahrnehmen.\n\nNach der Veröffentlichung des Buches haben seine Ideen begonnen, in der russischen Rechten zu kursieren."
+russia.21.d: "Der berühmte Sprachwissenschaftler und Historiker Fürst Nikolaj Trubezkoj wandte sich in den 1930er Jahren der Politik zu und hat sich nun entschlossen, seine ideologische Doktrin des Eurasianismus in einem einzigen Buch zusammenzufassen - \"Dschingis Khans Erbe: Ein Blick auf die russische Geschichte aus dem Osten\". Es hat bereits in russischen Literaturkreisen die Runde gemacht, und grobe Zitate werden in der Öffentlichkeit herumgereicht.\n\nDer Eurasianismus glaubt an das Konzept des "Lebensraums" ("mesto dlya razvitiya"), an geografische Bedingungen, die die darin lebenden Völker definieren. Menschen, die in demselben Biom oder geografischen Gebiet leben, bilden eine gemeinsame Zivilisation und haben einen natürlichen Wunsch, sich zu vereinigen. Russland bildet ihrer Ansicht nach den Kern einer "Steppenzivilisation", die alle Völker Osteuropas und Zentralasiens umfasst. Die Eurasianisten schreiben ihnen eine kollektive Verwandtschaft zu und fordern, dass sie sich unter russischer Herrschaft vereinigen. Trubetskoy erklärt, dass das Großfürstentum Moskau und damit Russland der Nachfolger des Mongolenreiches ist und Dschingis Khan ein Held des russischen Volkes war.\n\nDieses "Russland-Eurasien" muss Ideen und Überzeugungen verkörpern, die nach Ansicht der Eurasianisten "eurasisch" sind - Selbstlosigkeit, Heldentum, gesellschaftliche Hierarchie und Gehorsam. Eurasianisten glauben, dass die Demokratie eine Regierungsform für "Seevölker" ist und für Russland völlig ungeeignet ist - Russland sollte nicht nur gegen die ihm aufgezwungene Demokratie kämpfen, sondern auch andere außereuropäische Nationen von der westlichen Herrschaft befreien und das besiegen, was sie als westlichen "Kulturimperialismus" wahrnehmen.\n\nNach der Veröffentlichung des Buches haben seine Ideen begonnen, in der russischen Rechten zu kursieren."
 russia.21.a: "In der Tat ein interessantes Konzept!"
 
 russia.22.t: "Nie wieder Brest-Litowsk"
@@ -802,6 +810,22 @@ russia.24.t: "Levyj Kartel'"
 russia.24.d: "Die Ermordung von Präsident Kerenski und die instabile politische Lage in Russland haben zum Entstehen neuer politischer Kräfte und neuer Bündnisse zu deren Unterstützung geführt. In der Hoffnung, die zahlreichen marginalisierten Parteien der extremen Linken unter einem Banner zu vereinen, haben die Menschewiki ein Wahlbündnis mit der Sozialistischen Volkspartei und der Sozialistischen Gewerkschaftspartei geschlossen. Dieses Bündnis, das als "Linkes Kartell" (Levyj Kartel) bezeichnet wird, steht verständlicherweise auf wackligen Beinen, stellt aber dennoch eine ernsthafte Herausforderung für die etablierten politischen Kräfte in Russland dar. In seinem Bündnismanifest fordert das Kartell demokratische sozialistische Reformen in der Republik, eine feindliche Haltung gegenüber dem deutschen Imperialismus und die Aufrechterhaltung demokratischer Institutionen."
 russia.24.a: "Wir sollten sie genau im Auge behalten!"
 russia.24.b: "Gemeinsam sind wir stärker!"
+
+russia.1901.t: "Russland kapituliert"
+russia.1901.d: "Ein stark verschlüsseltes Telegramm wurde heute von einem Diplomaten aus [RUS.GetNameDef] mit einer ernsten Nachricht überbracht. Aufgrund des starken Drucks und der Besetzung durch feindliche Kräfte ist die russische Armee wahrscheinlich nicht in der Lage, eine koordinierte Verteidigung aufzubauen. Daher hat sich [RUS.GetLeader] dafür entschieden, ins Exil zu gehen und die Verteidigung von den Gebieten der Verbündeten aus zu organisieren. Da sich der Anführer des Bündnisses jedoch in einer solch misslichen Lage befindet, ist es unwahrscheinlich, dass wir und andere Mitglieder der [RUS.GetFactionName] einen längeren Konflikt mit den Feinden der [RUS.GetNameDef] führen und stattdessen aus Gründen der Selbsterhaltung den Frieden suchen werden. Damit wird der Zusammenbruch der [RUS.GetFactionName] unausweichlich sein."
+russia.1901.a: "Es scheint, dass wir doch keine 'potenzielle Supermacht' waren."
+
+russia.1902.t: "Der Fall Russlands"
+russia.1902.d: "Vor nicht allzu langer Zeit befand sich [RUS.GetNameDef] auf dem Zenit seiner Macht - angeheizt durch revanchistische Gefühle stellte das Moskauer Abkommen eine der glaubwürdigsten Bedrohungen für die deutsche Weltordnung dar. Einige gingen sogar so weit zu sagen, dass Russland in wenigen Jahren den Platz Deutschlands als Welthegemon einnehmen würde. \n\nDie derzeitigen Kriegsanstrengungen des Landes haben sich jedoch als katastrophal erwiesen. Nach dem Fall mehrerer Großstädte ist die Lage so weit, dass die russische Regierung ihren Feinden keinen ernsthaften Widerstand mehr leisten kann und sich um Friedensbedingungen bemüht - und mit ihrer Niederlage ist auch das internationale Bündnis, das sie angeführt hat, zerbrochen. Die überlebenden Mitglieder müssen sich nun in einer ungewissen Zukunft alleine durchschlagen."
+russia.1902.a: "Einmal mehr setzt sich der deutsche Geist durch." # Germany (and allies?)
+russia.1902.b: "Die Revolution muss überleben, mit oder ohne ihnen." # Internationale, not at war
+russia.1902.c: "Nichts kann den Lauf der Geschichte aufhalten." # Internationale, at war
+russia.1902.e: "Ein trauriger, aber notwendiger Abschied." # Entente, not at war, INT is alive
+russia.1902.f: "Und sie nannten uns tote Reiche." # Entente, at war
+russia.1902.g: "Eine Schande. Wenn sie ein bisschen länger durchgehalten hätten, vielleicht..." # Entente, not at war, INT is dead
+russia.1902.h: "Sie waren nie so furchterregend, wie sie aussahen." # Japan, regardless of war status
+russia.1902.i: "China schläft etwas ruhiger." # Chinese tags
+russia.1902.j: "Der Bär fällt, vielleicht endgültig." # Generic
 
 russia.1917.t: "Revolution!"
 russia.1917.d.dmitriy: "Nach der 'russischen Konterrevolution' rechnete niemand mit einer baldigen Beruhigung der Lage. Nur die zynischsten Pessimisten hätten sich vorstellen können, dass Russland innerhalb weniger Wochen erneut in den Flammen der Revolution stehen würde. Obwohl Kornilows Entscheidung, die Macht an eine zivile Verwaltung zu übertragen, ausreichte, um die Zentristen davon abzuhalten, mit den Rechten gemeinsame Sache zu machen, blieb die Tatsache bestehen, dass die brutalen Methoden der Armee mit ihren Massenverhaftungen dazu geführt hatten, dass die Linke im Lande sich überwiegend radikaleren Parteien zuwandte. Da jede Hoffnung auf Reformen so tot war wie Kerenski, war es nur eine Frage der Zeit, bis viele von ihnen auf die Straße gingen.\n\nWas als Aufstände von Radikalen in Petrograd und Moskau begann, gewann schnell an Fahrt, da die Polizei nicht in der Lage war, sie zu unterdrücken. Als die Armee, die angeblich auf Befehl Kornilows und nicht Dmitrys handelte, eingriff, verschlimmerte sie die Lage durch ihr hartes Durchgreifen nur noch. Im Laufe der Tage nahmen die Unruhen an Intensität zu und immer mehr Menschen schlossen sich den Roten an. Trotz aller Bemühungen der zivilen Regierung, die Lage unter Kontrolle zu halten, war sie nur dem Namen nach eine Regierung. Sie war kaum im Amt und hatte bereits jegliche Legitimität verloren, die sie einst bei einem großen Teil der Bevölkerung des Landes gehabt haben mochte, insbesondere bei denjenigen, die Opfer von Kornilows drakonischen Maßnahmen geworden waren.\n\nNoch einige Tage, nachdem die Unruhen in den westlichen Teilen des Landes ausgebrochen waren, sah sich die Armee gezwungen, Dmitri und sein Kabinett aus der Hauptstadt zu evakuieren. Im Osten wurde eine provisorische Hauptstadt eingerichtet, und es wurden bereits Vorbereitungen für den Kampf um die Rückeroberung der westlichen Landesteile getroffen. In der alten Hauptstadt mögen die Revolutionäre, die die Gunst der Stunde nutzten, ohne breite Unterstützung in der Bevölkerung gehandelt haben, doch sobald sie an der Macht waren, schlossen sich viele Regionen rund um Moskau und Petrograd ihnen bald an, da viele Bauern und Intellektuelle gleichermaßen die Chance ergriffen, durch eine Revolution das zu erreichen, was sie durch Reformen niemals erreichen konnten. Obwohl sich die neue sozialistische Regierung in einer prekären Lage befindet, hat sie bereits Maßnahmen ergriffen, um Milizen zu mobilisieren und die Unterstützung der Bevölkerung zu gewinnen, da Russland auf einen weiteren blutigen Bürgerkrieg zuzusteuern scheint."
@@ -832,7 +856,7 @@ russia.1945.d: "Der Ausbruch des Zweiten Bürgerkriegs hat die Einheiten der rus
 russia.1945.a: "Unsere Flotte meutert!"
 
 russia.1946.t: "Teile der russischen Marinedeserteure"
-russia.1946.d: "Schiffe, die dem verrotteten kapitalistischen russischen Staat treu waren, haben sich uns nun angeschlossen, um die Ideale Lenins in die verbleibenden Teile Russlands zu bringen.."
+russia.1946.d: "Schiffe, die dem verrotteten kapitalistischen russischen Staat treu waren, haben sich uns nun angeschlossen, um die Ideale Lenins in die verbleibenden Teile Russlands zu bringen."
 russia.1946.a: "Eine neue Rote Marine!"
 
 russia.1947.t: "Der Fall von [653.GetCapitalVictoryPointName]"
@@ -844,7 +868,7 @@ russia.1948.d: "Zum Entsetzen ganz Russlands sind die sozialistischen Streitkrä
 russia.1948.a: "Es ist alles vorbei..."
 
 russia.1949.t: "Die erfolgreiche Revolution"
-russia.1949.d.kornilov: "Als Kornilow die rechtmäßige russische Regierung stürzte, beendete er die russische Demokratie in ihren Anfängen und signalisierte Millionen von Russen, dass eine Rückkehr zur Autokratie unvermeidlich war. Während Tausende in die Gefängnisse gebracht wurden, gingen viele andere auf die Straße, um zu protestieren. Die Proteste wurden zu Unruhen und schließlich zur Revolution. Durch die breite Unterstützung der Bevölkerung gegen die drakonischen Maßnahmen der Kornilow-Junta wuchsen die Reihen der Revolutionäre schnell an. Da nur noch die schärfsten Rechten in Kornilovs Schoß verblieben, sah sich die abgehärtete und altgediente Weiße Armee bald durch die große Zahl der neu aufgestellten Roten Armee zurückgedrängt. Da sie sich schließlich nur noch nach Sibirien zurückziehen konnte, zersplitterte sie schließlich. Obwohl es jenseits des Urals wahrscheinlich noch einige Zeit lang Überlebende geben wird, wurde die Weiße Bewegung gründlich besiegt und hat keine Chance, ihr Schicksal zu wenden. Obwohl die Vorhut der Revolution anfangs von gemäßigteren Elementen verdrängt wurde, die sich nur zusammenschlossen, um sich gegen die Aussicht auf eine Stratokratie zu wehren, besteht kein Zweifel, dass dies ein Sieg der radikalen Sozialisten ist. Ganz gleich, welchen Weg die junge Russische Sozialistische Republik danach einschlagen wird, sie wird auf Jahre hinaus fest im sozialistischen Block verankert bleiben. Die Aussicht auf ein sozialistisches Russland, das sich mit den Syndikalisten in Paris verbündet, bereitet vielen Strategen im Reichspakt schon jetzt Kopfzerbrechen.."
+russia.1949.d.kornilov: "Als Kornilow die rechtmäßige russische Regierung stürzte, beendete er die russische Demokratie in ihren Anfängen und signalisierte Millionen von Russen, dass eine Rückkehr zur Autokratie unvermeidlich war. Während Tausende in die Gefängnisse gebracht wurden, gingen viele andere auf die Straße, um zu protestieren. Die Proteste wurden zu Unruhen und schließlich zur Revolution. Durch die breite Unterstützung der Bevölkerung gegen die drakonischen Maßnahmen der Kornilow-Junta wuchsen die Reihen der Revolutionäre schnell an. Da nur noch die schärfsten Rechten in Kornilovs Schoß verblieben, sah sich die abgehärtete und altgediente Weiße Armee bald durch die große Zahl der neu aufgestellten Roten Armee zurückgedrängt. Da sie sich schließlich nur noch nach Sibirien zurückziehen konnte, zersplitterte sie schließlich. Obwohl es jenseits des Urals wahrscheinlich noch einige Zeit lang Überlebende geben wird, wurde die Weiße Bewegung gründlich besiegt und hat keine Chance, ihr Schicksal zu wenden. Obwohl die Vorhut der Revolution anfangs von gemäßigteren Elementen verdrängt wurde, die sich nur zusammenschlossen, um sich gegen die Aussicht auf eine Stratokratie zu wehren, besteht kein Zweifel, dass dies ein Sieg der radikalen Sozialisten ist. Ganz gleich, welchen Weg die junge Russische Sozialistische Republik danach einschlagen wird, sie wird auf Jahre hinaus fest im sozialistischen Block verankert bleiben. Die Aussicht auf ein sozialistisches Russland, das sich mit den Syndikalisten in Paris verbündet, bereitet vielen Strategen im Reichspakt schon jetzt Kopfzerbrechen."
 russia.1949.d.dmitriy: "Als Kornilow die sozialistische Regierung Russlands stürzte, schien er sich der möglichen Folgen einer alleinigen Machtübernahme bewusst zu sein. Daher kündigte er schon bald den Übergang der Macht vom Militär auf die rechten Kräfte im Senat an. Der Umsturz dessen, was viele noch als legitime russische Regierung ansahen, diente jedoch dazu, Millionen von Menschen zu radikalisieren und sie zum radikalen Sozialismus zu bewegen. Die aus einer revolutionären Avantgarde hervorgegangene Revolution verbreitete sich schnell in den westlichen Teilen Russlands, obwohl sie zunächst kaum Unterstützung in der Bevölkerung fand. Mit den ersten Siegen gegen die Weiße Bewegung übernahm die revolutionäre Vorhut jedoch die Kontrolle über eine Stadt nach der anderen von der jungen Demokratie. Schließlich gelang es den radikalen Sozialisten, sie nach Sibirien zurückzudrängen, und als ihre letzte große Ausweichstadt fiel, löste sich die Bewegung auf. Obwohl der unorganisierte Widerstand östlich des Urals wahrscheinlich noch jahrelang andauern wird, hat die Vorhut den Sieg errungen.\n\nRussland wird jetzt von den radikalsten Sozialisten der Bewegung kontrolliert, die aus einem harten Kern von Revolutionären bestehen. Es bleibt abzuwarten, ob sie an der Macht bleiben oder ob die sozialistische Republik nach dem Ende des Krieges zu orthodoxeren Auslegungen des Syndikalismus übergeht. Was auch immer geschieht, Russland wird in den kommenden Jahren fest im sozialistischen Block verankert bleiben. Die Aussicht, dass sich ein kommunistisches Russland mit den Syndikalisten in Paris zusammentun könnte, bereitet vielen Strategen im Reichspakt schon jetzt Kopfzerbrechen."
 russia.1949.a: "Tod den Tyrannen! Lang lebe die Revolution!"
 
@@ -861,7 +885,7 @@ russia.1953.a: "Krieg ist Krieg."
 russia.1954.t: "Roter Terror"
 
 russia.2000.t: "Unabhängigkeit für die Alash Autonomie?"
-russia.2000.d: "Unser Land ist zwar nominell ein Teil Russlands mit einem autonomen Status, aber de facto seit dem Minsker Vertrag von 1920 unabhängig. Trotz eines russischen Versuchs im Jahr 1925, uns vollständig in Russland zu integrieren, während eine Invasion aus Turkestan abgewehrt wurde, blieb unser Status dank des Putschversuchs von Admiral Koltschak unverändert. Jetzt, da Russland im Chaos versinkt, ist die Zeit gekommen, die Ketten seiner Unterdrückung abzuwerfen und unsere Knechtschaft gegenüber unseren Unterdrückern zu beenden.!"
+russia.2000.d: "Unser Land ist zwar nominell ein Teil Russlands mit einem autonomen Status, aber de facto seit dem Minsker Vertrag von 1920 unabhängig. Trotz eines russischen Versuchs im Jahr 1925, uns vollständig in Russland zu integrieren, während eine Invasion aus Turkestan abgewehrt wurde, blieb unser Status dank des Putschversuchs von Admiral Koltschak unverändert. Jetzt, da Russland im Chaos versinkt, ist die Zeit gekommen, die Ketten seiner Unterdrückung abzuwerfen und unsere Knechtschaft gegenüber unseren Unterdrückern zu beenden!"
 russia.2000.a: "Nein, wir müssen Russland gegenüber loyal bleiben."
 russia.2000.b: "Erklärt die vollständige Unabhängigkeit von Russland!"
 
@@ -891,7 +915,7 @@ russia.27.a: "Die Entscheidung liegt bei dir."
 
 rusd.1.t: "Politische Bombenanschläge"
 rusd.1.d: "Die Anarchisten, Sozialisten, Syndikalisten und Bolschewiken schwächen die Stabilität unseres Mutterlandes. Vor kurzem hat einer von ihnen einen Armeeoffizier ermordet. Gott allein weiß, wen sie das nächste Mal töten werden!"
-rusd.1.a: "Ich möchte den Kopf des Bombenlegers auf meinem Schreibtisch haben.!"
+rusd.1.a: "Ich möchte den Kopf des Bombenlegers auf meinem Schreibtisch haben!"
 
 rusd.3.t: "Scheitern eines Bombenanschlags"
 rusd.3.d: "Die Anarchisten, Sozialisten, Syndikalisten und Bolschewiken schwächen die Stabilität unseres Mutterlandes. Kürzlich verursachten sie eine Panik in einer der großen russischen Städte, als ein Attentäter versuchte, einen berühmten Regierungsvertreter zu töten. Glücklicherweise ging die Bombe zu früh hoch und tötete nur wenige Menschen."
@@ -1152,7 +1176,7 @@ rusd.124.d: "Wolga-Wolga ist eine russische Filmkomödie unter der Regie von Gri
 rusd.124.a: "Lustig genug, um den Vozhd zum Lächeln zu bringen!"
 
 rusd.125.t: "Bollwerk der Demokratie"
-rusd.125.d: "Die Aufrechterhaltung des demokratischen Regimes in Verbindung mit der stabilen Entwicklung des Staates führte dazu, dass einige Prominente aus syndikalistischen Ländern nach Russland auswanderten. Dies führte beispielsweise zur Ankunft der guten Freundin von Dmitri Pawlowitsch, Coco Chanel, in Russland. Die Tatsache, dass Mademoiselle Chanel sich entschieden hat, ihr Büro in einem Dorf in der Nähe von Tula zu eröffnen, zeigt, dass Russland eine Bastion der Demokratie ist, in der jeder sein Geschäft ohne Schwierigkeiten seitens der Regierung betreiben kann.."
+rusd.125.d: "Die Aufrechterhaltung des demokratischen Regimes in Verbindung mit der stabilen Entwicklung des Staates führte dazu, dass einige Prominente aus syndikalistischen Ländern nach Russland auswanderten. Dies führte beispielsweise zur Ankunft der guten Freundin von Dmitri Pawlowitsch, Coco Chanel, in Russland. Die Tatsache, dass Mademoiselle Chanel sich entschieden hat, ihr Büro in einem Dorf in der Nähe von Tula zu eröffnen, zeigt, dass Russland eine Bastion der Demokratie ist, in der jeder sein Geschäft ohne Schwierigkeiten seitens der Regierung betreiben kann."
 rusd.125.a: "Glamour in seiner Demokratie!"
 
 rusd.126.t: "Churchills Rede zum Eisernen Vorhang"
@@ -1174,7 +1198,7 @@ rusd.130.d: "Der Zar besuchte kürzlich eines der örtlichen Geschäfte in unser
 rusd.130.a: "Ein dreifaches Hurra auf unseren fürsorglichen Zaren!"
 
 rusd.131.t: "Ein Komplott gegen Russland"
-rusd.131.d: "Der Tod von Maria Spiridonowa war ein schwerer Schlag für die Linke SR, aber viele Feinde des Sawinkow-Regimes sind geblieben. Im Laufe der Zeit wurde der Vozhd immer paranoider und befürchtete, dass er den Weg der Tyrannen einschlagen würde, die sein jüngeres Ich mit einer Bombe in der Hand beseitigt hatte, und um diese Paranoia zu lindern, hat die Nationale Republikanische Partei einen Plan in die Tat umgesetzt. In den russischen Zeitungen ist zunehmend von einem "Komplott gegen Russland" die Rede, das von Syndikalisten und Sozialisten in Zusammenarbeit mit Deutschland und anderen Mächten inszeniert werde. Zahlreiche hochrangige Persönlichkeiten des öffentlichen Lebens wie Dmitri Merezhovskiy und Dmitri Romanov haben eigene Artikel veröffentlicht, in denen sie behaupten, dass ein gewisser "Aderlass" notwendig sei, um die Stabilität in Russland wiederherzustellen.\n\nUnter der Organisation des Innenministers [RUS.GetMinisterOfInterior] hat eine Welle von Massenrazzien gegen mutmaßliche politische Gegner begonnen. Die Okhrana wurde mit außerordentlichen Befugnissen ausgestattet, um Wohnungen zu durchsuchen und Dissidenten ohne die Zustimmung einer Justizbehörde zu verhaften. Während einige in Schauprozessen verurteilt werden, werden andere, vor allem die Mitglieder der SR, der Menschewiki und der Syndikalistischen Partei, kurzerhand hingerichtet oder deportiert. Sawinkow führte persönlich den Vorsitz bei mehreren dieser Schauprozesse, insbesondere bei denen gegen seine alten Genossen von den Sozialistischen Revolutionären. Unter vier Augen hat er Merezhovskiy gegenüber geäußert, wie sehr es für ihn eine Art Katharsis ist, zu sehen, dass die Okhrana, die Polizei, vor der er vor drei Jahrzehnten noch geflohen ist und die er fürchtete, sich nun jeder seiner Launen beugt."
+rusd.131.d: "Der Tod von Maria Spiridonowa war ein schwerer Schlag für die Linke SR, aber viele Feinde des Sawinkow-Regimes sind geblieben. Im Laufe der Zeit wurde der Vozhd immer paranoider und befürchtete, dass er den Weg der Tyrannen einschlagen würde, die sein jüngeres Ich mit einer Bombe in der Hand beseitigt hatte, und um diese Paranoia zu lindern, hat die Nationale Republikanische Partei einen Plan in die Tat umgesetzt. In den russischen Zeitungen ist zunehmend von einem "Komplott gegen Russland" die Rede, das von Syndikalisten und Sozialisten in Zusammenarbeit mit Deutschland und anderen Mächten inszeniert werde. Zahlreiche hochrangige Persönlichkeiten des öffentlichen Lebens wie Dmitri Merezhovskiy und Dmitri Romanov haben eigene Artikel veröffentlicht, in denen sie behaupten, dass ein gewisser "Aderlass" notwendig sei, um die Stabilität in Russland wiederherzustellen.\n\nUnter der Organisation von Okhrana hat eine Welle von Massenrazzien gegen mutmaßliche politische Gegner begonnen. Die Okhrana wurde mit außerordentlichen Befugnissen ausgestattet, um Wohnungen zu durchsuchen und Dissidenten ohne die Zustimmung einer Justizbehörde zu verhaften. Während einige in Schauprozessen verurteilt werden, werden andere, vor allem die Mitglieder der SR, der Menschewiki und der Syndikalistischen Partei, kurzerhand hingerichtet oder deportiert. Sawinkow führte persönlich den Vorsitz bei mehreren dieser Schauprozesse, insbesondere bei denen gegen seine alten Genossen von den Sozialistischen Revolutionären. Unter vier Augen hat er Merezhovskiy gegenüber geäußert, wie sehr es für ihn eine Art Katharsis ist, zu sehen, dass die Okhrana, die Polizei, vor der er vor drei Jahrzehnten noch geflohen ist und die er fürchtete, sich nun jeder seiner Launen beugt."
 rusd.131.a: "Alle Feinde der Nation werden gestoppt."
 
 rusd.132.t: "Allrussische Nation"
@@ -1277,7 +1301,7 @@ rusd.154.a: "Sie werden diesen Sommer als einen langen Sommer in Erinnerung beha
 rusd.155.t: "Die neue Duma?"
 rusd.155.d: "Nach der Machtübernahme durch Sawinkow wurde das Unterhaus des russischen Parlaments - die Staatsduma - aufgelöst. Einige Mitglieder des Obersten Staatsrats schlagen jedoch vor, diese Behörde mit eingeschränkten Befugnissen wieder einzurichten. Neben der von Sawinkow geführten Nationalen Republikanischen Partei Russlands (NRPR), die mit Sicherheit eine Mehrheit haben wird, wollen auch verschiedene Wirtschaftskreise sowie konservative Gruppen und Politiker an der Wahl teilnehmen und versprechen, dass sie unsere neue Staatspolitik unterstützen werden, aber auch ihre Interessen vertreten und der Regierung helfen wollen, die russische Wirtschaft und die Armee zu stärken. Auch wenn ihre Unterstützung für Sawinkow wichtig sein kann, besteht die Möglichkeit, dass sie eines Tages versuchen werden, die Kontrolle über das Land zu übernehmen..."
 rusd.155.a: "Der NRPR ist stark, braucht aber Verbindungen zu den Eliten. Beginnt mit den Wahlen!"
-rusd.155.b: "Wir brauchen keine unabhängigen Abgeordneten und auch nicht die Staatsduma selbst.."
+rusd.155.b: "Wir brauchen keine unabhängigen Abgeordneten und auch nicht die Staatsduma selbst."
 
 rusd.156.t: "Die neue Duma ist gewählt!"
 rusd.156.d: "Nach den Wahlen zur Staatsduma erhielt die NRPR von Sawinkow 73 % der Stimmen. Die konservativen und rechten Parteien sowie die von Vertretern der russischen Wirtschaft und Industrie geführten Bewegungen erhielten die restlichen 27 % der Stimmen. Es scheint, dass die neuen Gesetzgeber bereit sind, die russischen Gesetze zu ändern, um die Situation im Land zu verbessern."
@@ -1395,7 +1419,7 @@ rusfor.17.d: "Der wiedererstarkte russische Staat hat begonnen, die Don-Kuban-Un
 rusfor.17.a: "Russland wird Kuban erobern, wenn wir es nicht tun. Akzeptiert das Abkommen."
 rusfor.17.b: "Keine Abkommen mit den Russen."
 
-RUS_ukraine_will_join_war: "Wir werden uns Russland in jedem Angriffskrieg gegen Don-Kuban anschließen.."
+RUS_ukraine_will_join_war: "Wir werden uns Russland in jedem Angriffskrieg gegen Don-Kuban anschließen."
 
 rusfor.18.t: "Die Ukrainer akzeptieren"
 rusfor.18.d: "Die ukrainische Regierung in Kiew hat unseren Vorstoß in die Don-Kuban-Union akzeptiert und wird ihn auch unterstützen. Von allen Seiten von feindlichen Mächten umgeben, ist Krasnows Regime völlig isoliert, und selbst wenn jemand wie Deutschland es unterstützen wollte, hätte es keine Möglichkeit, seine Unabhängigkeit zu gewährleisten."
@@ -1420,11 +1444,6 @@ rusfor.47.d.authoritarian_GER: "Die Geschichte wiederholt sich - wir befinden un
 rusfor.47.a: "Wir werden durch die Avenue des Champs-Elysées marschieren!"
 rusfor.47.b: "Wir werden unter dem Brandenburger Tor marschieren!"
 
-rusfor.51.t.1812: "Ein neues 1812"
-rusfor.51.t.1328: "Ein neues 1328"
-rusfor.51.d: "Unsere Feinde haben die Außenbezirke von Moskau erreicht! Die Nation muss sich voll mobilisieren, um sie aufzuhalten!"
-rusfor.51.a: "Es gibt keinen Rückzug mehr, Moskau liegt hinter uns!"
-
 rusfor.52.t: "Russland bietet uns ein Bündnis an"
 rusfor.52.d: "Wir haben heute eine Anfrage von [From.Capital.GetCapitalVictoryPointName] selbst erhalten, die uns zu einem für beide Seiten vorteilhaften Militärbündnis einladen möchte. Während [From.GetNameDef] in diesen unsicheren Zeiten sicherlich jede Hilfe braucht, die es bekommen kann, sollten wir auch das Risiko bedenken, in unerwünschte Verwicklungen mit anderen Nationen hineingezogen zu werden. Wie sollten wir darauf reagieren?"
 rusfor.52.a: "Wir akzeptieren."
@@ -1432,7 +1451,7 @@ rusfor.52.b: "Wir wollen die Rückgabe unserer Ansprüche im Gegenzug."
 rusfor.52.c: "Russland sollte man nicht trauen."
 
 rusfor.53.t: "[From.GetNameDefCap] hat akzeptiert!"
-rusfor.53.d: "[From.GetNameDefCap] hat sich zu Recht bereit erklärt, unserem Bündnis beizutreten, und hat sich im Gegenzug für unseren Schutz verpflichtet, uns in unseren Kriegen zu helfen. Dies sollte der Welt zeigen, dass nicht alle unwillig sind, mit dem russischen Bären zusammenzuarbeiten.!"
+rusfor.53.d: "[From.GetNameDefCap] hat sich zu Recht bereit erklärt, unserem Bündnis beizutreten, und hat sich im Gegenzug für unseren Schutz verpflichtet, uns in unseren Kriegen zu helfen. Dies sollte der Welt zeigen, dass nicht alle unwillig sind, mit dem russischen Bären zusammenzuarbeiten!"
 rusfor.53.a: "Ausgezeichnet!"
 
 rusfor.54.t: "[From.GetNameDefCap] wünscht sich die Rückgabe ihrer Ansprüche"
@@ -1453,12 +1472,12 @@ rusfor.57.d: "[From.GetNameDefCap] hat unser Ersuchen um ein Bündnis in unversc
 rusfor.57.a: "Ihr Verlust."
 
 rusfor.58.t: "Abkommen über die russisch-finnische Freundschaft"
-rusfor.58.d: "[From.GetNameDefCap] hat uns einen überraschenden Vorschlag unterbreitet. Um die Sicherheit sowohl von St. Petersburg als auch von [FIN.GetDefName] gegen die allgegenwärtige deutsche Aggression zu gewährleisten, müssen unsere beiden Nationen ihre Meinungsverschiedenheiten beiseite legen und für eine sicherere baltische Region zusammenarbeiten. Die Russen verzichten auf jegliche Ansprüche auf unser Territorium, wenn wir uns im Gegenzug mit ihnen verbünden und uns bereit erklären, die Region gemeinsam zu verteidigen und dem deutschen Druck nicht nachzugeben.\nDie Worte der Russen haben einen dünnhäutigen Beigeschmack, fast wie eine vermutete Annahme, aber ihr Angebot scheint echt zu sein.."
+rusfor.58.d: "[From.GetNameDefCap] hat uns einen überraschenden Vorschlag unterbreitet. Um die Sicherheit sowohl von St. Petersburg als auch von [FIN.GetNameDef] gegen die allgegenwärtige deutsche Aggression zu gewährleisten, müssen unsere beiden Nationen ihre Meinungsverschiedenheiten beiseite legen und für eine sicherere baltische Region zusammenarbeiten. Die Russen verzichten auf jegliche Ansprüche auf unser Territorium, wenn wir uns im Gegenzug mit ihnen verbünden und uns bereit erklären, die Region gemeinsam zu verteidigen und dem deutschen Druck nicht nachzugeben.\nDie Worte der Russen haben einen dünnhäutigen Beigeschmack, fast wie eine vermutete Annahme, aber ihr Angebot scheint echt zu sein."
 rusfor.58.a: "Eine ziemliche Überraschung, aber eine willkommene."
 rusfor.58.b: "Dies ist eine weitere ihrer Handlungen. Nein!"
 
 rusfor.59.t: "$rusfor.56.t$"
-rusfor.59.d: "[FIN.GetNameDefCap] hat unser großzügiges Angebot, sie unter unseren Schutz zu stellen, abgelehnt. Vielleicht haben wir ihre Hartnäckigkeit unterschätzt.."
+rusfor.59.d: "[FIN.GetNameDefCap] hat unser großzügiges Angebot, sie unter unseren Schutz zu stellen, abgelehnt. Vielleicht haben wir ihre Hartnäckigkeit unterschätzt."
 rusfor.59.a: "Wir werden uns in Kürze mit ihnen befassen..."
 
 rusfor.1066.t: "Russland fordert Aserbaidschan"
@@ -1509,7 +1528,7 @@ rusfor.1113.a: "Verneigt euch vor den Russen..."
 rusfor.1113.b: "Sendet ein schriftliches Schreiben, um das Angebot höflich abzulehnen."
 
 rusfor.1114.t: "Mongolei kapituliert!"
-rusfor.1114.d: "Die Mongolen beugten sich und akzeptierten unseren rechtmäßigen Anspruch auf die russischen Ländereien, die sie besaßen, und wir sind nun wieder im Besitz der nördlichen Mongolei.!"
+rusfor.1114.d: "Die Mongolen beugten sich und akzeptierten unseren rechtmäßigen Anspruch auf die russischen Ländereien, die sie besaßen, und wir sind nun wieder im Besitz der nördlichen Mongolei!"
 rusfor.1114.a: "Großartig!"
 
 rusfor.1116.t: "Grenzkonflikte in Tuwa!"
@@ -1568,7 +1587,7 @@ rusfor.1222.a: "Es gibt nichts, was wir tun können..."
 rusfor.1222.b: "Widersteht den Eindringlingen!"
 
 rusfor.1223.t: "Galicien greift uns an!"
-rusfor.1223.d: "Nachdem sie von den Feiglingen in [From.GetNameDef] gegen uns allein gelassen wurden, beschlossen die Galicier, sich gegen die Annexion ihres Gebiets durch uns zu wehren.."
+rusfor.1223.d: "Nachdem sie von den Feiglingen in [From.GetNameDef] gegen uns allein gelassen wurden, beschlossen die Galicier, sich gegen die Annexion ihres Gebiets durch uns zu wehren."
 rusfor.1223.a: "Wir werden sie vernichten!"
 
 rusfor.1229.t: "Russland beansprucht Karelien"
@@ -1603,13 +1622,13 @@ rusfor.1233.a: "Akzeptiert das Friedensangebot!"
 rusfor.1233.b: "Nein, sie sollen zermalmt werden!"
 
 rusfor.1234.t: "Vertrag von Petrograd"
-rusfor.1234.d.defeat: "Der russische Staat hat unserem Kapitulationsangebot zugestimmt und der Krieg ist endlich vorbei.."
+rusfor.1234.d.defeat: "Der russische Staat hat unserem Kapitulationsangebot zugestimmt und der Krieg ist endlich vorbei."
 rusfor.1234.d.victory: "Der russische Staat hat unserem Friedensangebot zugestimmt. Karelien wurde abgetreten, und der Krieg ist endlich vorbei."
 rusfor.1234.a: "Wenigstens gibt es uns noch!"
 rusfor.1234.b: "Ein großartiger Sieg!"
 
 rusfor.1235.t: "Russland lehnt einen Frieden ab"
-rusfor.1235.d: "Trotz unserer großzügigen Bedingungen hat der russische Staat einen Friedensvertrag abgelehnt und erklärt, dass er diesen Krieg bis zum Ende fortsetzen will.."
+rusfor.1235.d: "Trotz unserer großzügigen Bedingungen hat der russische Staat einen Friedensvertrag abgelehnt und erklärt, dass er diesen Krieg bis zum Ende fortsetzen will."
 rusfor.1235.a: "Ein Kampf bis zum bitteren Ende also..."
 
 rusfor.1236.t.victory: "Unter der Waffe"
@@ -1727,48 +1746,38 @@ RUS_ADJ: "Russisch"
 RUS_DEF: "Russland"
 
 RUS_social_democrat: "Russische Republik"
-RUS_social_democrat_ADJ: "Russisch"
 RUS_social_democrat_DEF: "die Russische Republik"
 RUS_social_liberal: "Russische Republik"
-RUS_social_liberal_ADJ: "Russisch"
 RUS_social_liberal_DEF: "die Russische Republik"
 RUS_market_liberal: "Russische Republik"
-RUS_market_liberal_ADJ: "Russisch"
 RUS_market_liberal_DEF: "die Russische Republik"
 RUS_social_conservative: "Russische Republik"
-RUS_social_conservative_ADJ: "Russisch"
 RUS_social_conservative_DEF: "die Russische Republik"
 RUS_authoritarian_democrat: "Russische Republik"
-RUS_authoritarian_democrat_ADJ: "Russisch"
 RUS_authoritarian_democrat_DEF: "die Russische Republik"
 RUS_paternal_autocrat: "Russische Republik"
-RUS_paternal_autocrat_ADJ: "Russisch"
 RUS_paternal_autocrat_DEF: "die Russische Republik"
 RUS_national_populist: "Russischer Staat"
-RUS_national_populist_ADJ: "Russisch"
 RUS_national_populist_DEF: "der Russischer Staat"
 
 RUS_empire_social_democrat: "Russisches Reich"
-RUS_empire_social_democrat_ADJ: "Russisch"
 RUS_empire_social_democrat_DEF: "das Russisches Reich"
 RUS_empire_social_liberal: "Russisches Reich"
-RUS_empire_social_liberal_ADJ: "Russisch"
 RUS_empire_social_liberal_DEF: "das Russisches Reich"
 RUS_empire_market_liberal: "Russisches Reich"
-RUS_empire_market_liberal_ADJ: "Russisch"
 RUS_empire_market_liberal_DEF: "das Russisches Reich"
 RUS_empire_social_conservative: "Russisches Reich"
-RUS_empire_social_conservative_ADJ: "Russisch"
 RUS_empire_social_conservative_DEF: "das Russisches Reich"
 RUS_empire_authoritarian_democrat: "Russisches Reich"
-RUS_empire_authoritarian_democrat_ADJ: "Russisch"
 RUS_empire_authoritarian_democrat_DEF: "das Russisches Reich"
 RUS_empire_paternal_autocrat: "Russisches Reich"
-RUS_empire_paternal_autocrat_ADJ: "Russisch"
 RUS_empire_paternal_autocrat_DEF: "das Russisches Reich"
 RUS_empire_national_populist: "Russisches Reich"
-RUS_empire_national_populist_ADJ: "Russisch"
 RUS_empire_national_populist_DEF: "das Russisches Reich"
+
+RUS_subject: "Russland"
+RUS_subject_ADJ: "Russisch"
+RUS_subject_DEF: "Russland"
 
 ### Characters ###
 RUS_irakli_tsereteli: "Irakli Tsereteli"
@@ -1817,55 +1826,61 @@ RUS_vladimir_romanov_abs_leader_desc: "Großfürst Kirill Wladimirowitsch, jetzt
 
 RUS_kirill_romanov: "Kirill I"
 RUS_kirill_romanov_regnal: "Kirill Romanov"
-RUS_kirill_romanov_con_leader_desc: "Großfürst Kirill Wladimirowitsch, jetzt Kirill I. von Russland, ist eines der lästigsten Mitglieder des Hauses Romanow. Er ist willensstark, ehrgeizig und entschlossen, den Thron zu besteigen, und hat seinem Cousin ersten Grades, Nikolai II. Es ist ein offenes Geheimnis, dass Kirill während der Februarrevolution aktiv gegen den Zaren und den Rest des Hauses arbeitete, und zwar so weit, dass er seinen Männern befahl, die rote Fahne über Petrograd zu hissen - nicht, weil er sich revolutionären Idealen verschrieben hatte, sondern in der Hoffnung, nach der Abdankung seines Cousins Regent oder vielleicht sogar Zar zu werden. \Nach der Hinrichtung von Nikolaj und seiner Familie erhob Kirill Anspruch auf die Herrschaft über das zersplitterte Haus Romanow, ein Anspruch, der vom Rest der Familie heftig angefochten wurde, der behauptete, Kirill habe weder Anspruch auf einen wiederhergestellten russischen Thron noch auf die Führung der russischen Königsfamilie. Bis 1929 wurde er schließlich anerkannt, wobei der frühe Tod von Großfürst Nikolai sicherlich hilfreich war. Kirill gibt zwar widerwillig ein paar Lippenbekenntnisse zu größeren demokratischen Idealen ab, aber es ist ihm wirklich egal, ob Russland rechtsstaatlich oder autoritär ist - solange er das Sagen hat.."
-RUS_kirill_romanov_abs_leader_desc: "Großfürst Kirill Wladimirowitsch, jetzt Kirill I. von Russland, ist eines der lästigsten Mitglieder des Hauses Romanow. Er ist willensstark, ehrgeizig und entschlossen, den Thron zu besteigen, und hat seinem Cousin ersten Grades, Nikolai II. Es ist ein offenes Geheimnis, dass Kirill während der Februarrevolution aktiv gegen den Zaren und den Rest des Hauses arbeitete, und zwar so weit, dass er seinen Männern befahl, die rote Fahne über Petrograd zu hissen - nicht, weil er sich revolutionären Idealen verschrieben hatte, sondern in der Hoffnung, nach der Abdankung seines Cousins Regent oder vielleicht sogar Zar zu werden. \Nach der Hinrichtung von Nikolaj und seiner Familie erhob Kirill Anspruch auf die Herrschaft über das zersplitterte Haus Romanow, ein Anspruch, der vom Rest der Familie heftig angefochten wurde, der behauptete, Kirill habe weder Anspruch auf einen wiederhergestellten russischen Thron noch auf die Führung der russischen Königsfamilie. Bis 1929 wurde er jedoch schließlich anerkannt, wobei der frühe Tod von Großfürst Nikolai sicherlich hilfreich war. Kirill akzeptiert seine Rolle als unbestrittener Alleinherrscher, und es ist ihm wirklich egal, ob Russland konstitutionell oder autoritär ist - solange er das Sagen hat.."
+RUS_kirill_romanov_con_leader_desc: "Großfürst Kirill Wladimirowitsch, jetzt Kirill I. von Russland, ist eines der lästigsten Mitglieder des Hauses Romanow. Er ist willensstark, ehrgeizig und entschlossen, den Thron zu besteigen, und hat seinem Cousin ersten Grades, Nikolai II. Es ist ein offenes Geheimnis, dass Kirill während der Februarrevolution aktiv gegen den Zaren und den Rest des Hauses arbeitete, und zwar so weit, dass er seinen Männern befahl, die rote Fahne über Petrograd zu hissen - nicht, weil er sich revolutionären Idealen verschrieben hatte, sondern in der Hoffnung, nach der Abdankung seines Cousins Regent oder vielleicht sogar Zar zu werden. \Nach der Hinrichtung von Nikolaj und seiner Familie erhob Kirill Anspruch auf die Herrschaft über das zersplitterte Haus Romanow, ein Anspruch, der vom Rest der Familie heftig angefochten wurde, der behauptete, Kirill habe weder Anspruch auf einen wiederhergestellten russischen Thron noch auf die Führung der russischen Königsfamilie. Bis 1929 wurde er schließlich anerkannt, wobei der frühe Tod von Großfürst Nikolai sicherlich hilfreich war. Kirill gibt zwar widerwillig ein paar Lippenbekenntnisse zu größeren demokratischen Idealen ab, aber es ist ihm wirklich egal, ob Russland rechtsstaatlich oder autoritär ist - solange er das Sagen hat."
+RUS_kirill_romanov_abs_leader_desc: "Großfürst Kirill Wladimirowitsch, jetzt Kirill I. von Russland, ist eines der lästigsten Mitglieder des Hauses Romanow. Er ist willensstark, ehrgeizig und entschlossen, den Thron zu besteigen, und hat seinem Cousin ersten Grades, Nikolai II. Es ist ein offenes Geheimnis, dass Kirill während der Februarrevolution aktiv gegen den Zaren und den Rest des Hauses arbeitete, und zwar so weit, dass er seinen Männern befahl, die rote Fahne über Petrograd zu hissen - nicht, weil er sich revolutionären Idealen verschrieben hatte, sondern in der Hoffnung, nach der Abdankung seines Cousins Regent oder vielleicht sogar Zar zu werden. \Nach der Hinrichtung von Nikolaj und seiner Familie erhob Kirill Anspruch auf die Herrschaft über das zersplitterte Haus Romanow, ein Anspruch, der vom Rest der Familie heftig angefochten wurde, der behauptete, Kirill habe weder Anspruch auf einen wiederhergestellten russischen Thron noch auf die Führung der russischen Königsfamilie. Bis 1929 wurde er jedoch schließlich anerkannt, wobei der frühe Tod von Großfürst Nikolai sicherlich hilfreich war. Kirill akzeptiert seine Rolle als unbestrittener Alleinherrscher, und es ist ihm wirklich egal, ob Russland konstitutionell oder autoritär ist - solange er das Sagen hat."
 
 RUS_state_duma: "Staatsduma"
 
-RUS_vladimir_nabokov: "Vladimir Nabokov"
+RUS_gerasim_vdovenko: "Gerasim Vdovenko"
 RUS_patriarch_kirill: "Patriarch Kirill"
+RUS_sergey_obolensky: "Sergey Obolensky"
+RUS_aleksandr_rodzyanko: "Aleksandr Rodzyanko"
+RUS_ilya_fondaminsky: "Ilya Fondaminsky"
+RUS_boris_bakhmetev: "Boris Bakhmetev"
 RUS_vasily_kharlamov: "Vasily Kharlamov"
-RUS_ivan_erdeli: "Ivan Erdeli"
-RUS_mikhail_bernatsky: "Mikhail Bernatskiy"
-RUS_aleksandr_kazembek: "Aleksander Kazembek"
-RUS_aleksey_putilov: "Aleksey Putilov"
-RUS_feliks_yusupov: "Feliks Yusupov"
+RUS_nikolay_markov: "Nikolay Markov"
+RUS_boris_vysheslavtsev: "Boris Vysheslavtsev"
+RUS_pyotr_sokolov: "Pyotr Sokolov"
+RUS_nikolay_kondratyev: "Nikolay Kondratyev"
+RUS_aleksandr_liverovsky: "Aleksandr Liverovsky"
+RUS_lev_kafenhaus: "Lev Kafenhaus"
+RUS_aleksandr_voznesensky: "Aleksandr Voznesensky"
 RUS_klavdiy_foss: "Klavdiy Foss"
 
 RUS_anton_denikin: "Anton Denikin"
 RUS_anton_denikin_commander_desc: "Als Sohn eines russischen Vaters und einer polnischen Mutter entschied sich Anton Denikin für den Patriotismus des russischen Volkes und verbrachte den Rest seines Lebens in der kaiserlich-russischen Armee. Während des Ersten Weltkriegs war er Generalmajor und Stabschef im Militärbezirk Kiew und ein produktiver Schriftsteller, der die Unzulänglichkeiten der russischen Armee analysierte. Als Stellvertreter von Lawr Kornilow floh er mit ihm nach Südrussland und half bei der Gründung der Freiwilligenarmee, die schließlich die bolschewistische Revolution beendete. Denikin war der Befehlshaber der Einheiten, die Moskau einnahmen, und genoss daher große Verehrung unter seinen Kollegen. Nach dem Russischen Bürgerkrieg wandte sich Denikin wieder militärischen Angelegenheiten zu, indem er Pläne für Armeereformen entwarf und einen Vorschlag zur Umwandlung der russischen Armee in eine "Volksarmee" durch Massenmobilisierung und Modernisierung der Rekrutierung vorlegte. Politik ist das Letzte, was er im Sinn hat, aber sollte er auf die eine oder andere Weise an die Macht kommen, wird Denikin aufgrund seiner Erfahrung als russischer Generalstabschef die Nation so führen, wie er früher sein Regiment geführt hat."
 
 RUS_pavel_shatilov: "Pavel Shatilov"
-RUS_pavel_shatilov_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nNovember 13th, 1881\nTiflis, Tiflis Governorate, Russisches Reich\n§YMilitärische Laufbahn:§L\nPawel Schatilow wurde in den russischen Adel hineingeboren, sowohl sein Vater als auch sein Großvater waren Generäle, und sein Großvater half sogar bei der Eroberung der georgischen Gebiete, in denen Pawel geboren wurde. Er folgte der Familientradition, trat problemlos in das Kadettenkorps ein, diente in Kosakenregimentern und machte seinen Abschluss an der Akademie für Generalstab. Er diente im Russischen Bürgerkrieg und im Weltkrieg und erreichte zur Zeit der Revolution den Rang eines Generalmajors. Wie viele seiner Kameraden folgte Schatilow General Kornilow in die Don-Region und wurde Mitglied der Freiwilligenarmee, wo er vor allem der enge Berater von Pjotr Wrangel wurde. Ihre Freundschaft überdauerte den Krieg, und auch heute noch ist Schatilow immer zur Stelle, wenn Wrangel Unterstützung braucht.\n\nSchatilow selbst gilt als fähiger, wenn auch besonders kalter Befehlshaber, der sich durch extreme Selbstbeherrschung und ein permanentes Stirnrunzeln auszeichnet. Kavallerie und militärische Aufklärung sind seine Spezialgebiete.."
+RUS_pavel_shatilov_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nNovember 13th, 1881\nTiflis, Tiflis Governorate, Russisches Reich\n§YMilitärkarriere:§L\nPawel Schatilow wurde in den russischen Adel hineingeboren, sowohl sein Vater als auch sein Großvater waren Generäle, und sein Großvater half sogar bei der Eroberung der georgischen Gebiete, in denen Pawel geboren wurde. Er folgte der Familientradition, trat problemlos in das Kadettenkorps ein, diente in Kosakenregimentern und machte seinen Abschluss an der Akademie für Generalstab. Er diente im Russischen Bürgerkrieg und im Weltkrieg und erreichte zur Zeit der Revolution den Rang eines Generalmajors. Wie viele seiner Kameraden folgte Schatilow General Kornilow in die Don-Region und wurde Mitglied der Freiwilligenarmee, wo er vor allem der enge Berater von Pjotr Wrangel wurde. Ihre Freundschaft überdauerte den Krieg, und auch heute noch ist Schatilow immer zur Stelle, wenn Wrangel Unterstützung braucht.\n\nSchatilow selbst gilt als fähiger, wenn auch besonders kalter Befehlshaber, der sich durch extreme Selbstbeherrschung und ein permanentes Stirnrunzeln auszeichnet. Kavallerie und militärische Aufklärung sind seine Spezialgebiete."
 
 RUS_vladimir_kappel: "Vladimir Kappel"
-RUS_vladimir_kappel_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nApril 28th, 1883\nTsarskoye Selo, St. Petersburg Governorate, Russisches Reich\n§YMilitärische Laufbahn:§L\nVladimir Kappel stammt aus einer adligen Offiziersfamilie und beschloss daher, in die Fußstapfen seines Vaters zu treten, obwohl dieser bereits als Kind in der Schlacht gefallen war. Obwohl er als Kavallerieoffizier ausgebildet wurde, schloss er sein Studium mit einem Bericht darüber ab, wie die Kavallerie angesichts der motorisierten Streitkräfte überflüssig wird. Er diente pflichtbewusst im Weltkrieg und nahm an der Brusilow-Offensive teil, aber seine Einstellung änderte sich mit dem Ausbruch der Februarrevolution. Als bekennender Monarchist schwieg Kappel zunächst und hoffte auf eine Wiederherstellung der Romanow-Ordnung, sobald sich die Lage stabilisiert hatte, begann aber bald, mit anderen zukünftigen weißen Generälen zu konspirieren. Als die Bolschewiki die Macht ergriffen, befand er sich in Perm und reiste nach Samara, um sich der Volksarmee von Komutsch anzuschließen, einer republikanisch-sozialistischen Truppe, die sich die Wiederherstellung der Konstituierenden Versammlung auf die Fahnen geschrieben hatte - ein Monarchist an der Spitze einer sozialistischen Truppe war ein bemerkenswerter Anblick.\n\nDie bolschewistischen Zeitungen nannten ihn sogar "Klein-Napoleon" - der Spitzname, der sich jedoch durchsetzte, war "Soldatengeneral" - ein Kommandeur, der immer an der Seite seiner Männer blieb und mit Gewehr und Granate kämpfte. Nach dem Ende des bolschewistischen Aufstandes blieb Kappel in der Armee und wurde zu einem der wichtigsten Generäle in ihrem Infanteriekorps. Er ist ein Befürworter der Motorisierung der Armee und der Modernisierung des Offizierskorps.."
+RUS_vladimir_kappel_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nApril 28th, 1883\nTsarskoye Selo, St. Petersburg Governorate, Russisches Reich\n§YMilitärkarriere:§L\nVladimir Kappel stammt aus einer adligen Offiziersfamilie und beschloss daher, in die Fußstapfen seines Vaters zu treten, obwohl dieser bereits als Kind in der Schlacht gefallen war. Obwohl er als Kavallerieoffizier ausgebildet wurde, schloss er sein Studium mit einem Bericht darüber ab, wie die Kavallerie angesichts der motorisierten Streitkräfte überflüssig wird. Er diente pflichtbewusst im Weltkrieg und nahm an der Brusilow-Offensive teil, aber seine Einstellung änderte sich mit dem Ausbruch der Februarrevolution. Als bekennender Monarchist schwieg Kappel zunächst und hoffte auf eine Wiederherstellung der Romanow-Ordnung, sobald sich die Lage stabilisiert hatte, begann aber bald, mit anderen zukünftigen weißen Generälen zu konspirieren. Als die Bolschewiki die Macht ergriffen, befand er sich in Perm und reiste nach Samara, um sich der Volksarmee von Komutsch anzuschließen, einer republikanisch-sozialistischen Truppe, die sich die Wiederherstellung der Konstituierenden Versammlung auf die Fahnen geschrieben hatte - ein Monarchist an der Spitze einer sozialistischen Truppe war ein bemerkenswerter Anblick.\n\nDie bolschewistischen Zeitungen nannten ihn sogar "Klein-Napoleon" - der Spitzname, der sich jedoch durchsetzte, war "Soldatengeneral" - ein Kommandeur, der immer an der Seite seiner Männer blieb und mit Gewehr und Granate kämpfte. Nach dem Ende des bolschewistischen Aufstandes blieb Kappel in der Armee und wurde zu einem der wichtigsten Generäle in ihrem Infanteriekorps. Er ist ein Befürworter der Motorisierung der Armee und der Modernisierung des Offizierskorps."
 
 RUS_mikhail_drozdovsky: "Mikhail Drozdovsky"
-RUS_mikhail_drozdovsky_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nOktober 7th, 1881\nKiev, Kiev Governorate, Russisches Reich\n§YMilitärische Laufbahn:§L\nMikhail Drozdovsky entstammte einer langen Reihe russischer Adliger in der Ostukraine, von denen viele als Offiziere in der Armee dienten - so auch er. Er schloss die renommierte Pawlowsk-Militärschule als Klassenbester ab und kämpfte im Russisch-Japanischen Krieg als Offizier im Leibgarde-Regiment, wo er trotz Verwundung an der Front blieb und mehrere Auszeichnungen für seinen Heldenmut erhielt. In den folgenden Jahren probierte er mehrere Karrieremöglichkeiten aus, darunter U-Boote und Flugzeuge, entschied sich aber schließlich für die Bodentruppen. Seine eigentliche Karriere begann nach der Februarrevolution, als er als erster die Autorität der republikanischen Regierung in Moskau anprangerte und Befehle missachtete. In Rumänien stationiert, beobachtete er die bolschewistische Machtübernahme aus der Ferne und bildete eine eigene Militäreinheit, die Drozdovites, die sich der Freiwilligenarmee von Michail Alexejew am Don anschloss.\n\nWährend des Bürgerkriegs erwarb er sich den Ruf eines talentierten und strengen, wenn auch rücksichtslosen Befehlshabers, der stets beteuerte, dass er für das heilige Haus der Romanows kämpfte. Obwohl die Dynastie nicht wiederhergestellt wurde, hegt Drozdovsky weiterhin die Hoffnung, dass der Thron eines Tages von einem rechtschaffenen Monarchen edlen Blutes bestiegen wird, und bis dieser Tag kommt, hat er einen komplexen Plan für die Reform der russischen Armee ausgearbeitet, um sie auf moderne Standards zu bringen."
+RUS_mikhail_drozdovsky_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nOktober 7th, 1881\nKiev, Kiev Governorate, Russisches Reich\n§YMilitärkarriere:§L\nMikhail Drozdovsky entstammte einer langen Reihe russischer Adliger in der Ostukraine, von denen viele als Offiziere in der Armee dienten - so auch er. Er schloss die renommierte Pawlowsk-Militärschule als Klassenbester ab und kämpfte im Russisch-Japanischen Krieg als Offizier im Leibgarde-Regiment, wo er trotz Verwundung an der Front blieb und mehrere Auszeichnungen für seinen Heldenmut erhielt. In den folgenden Jahren probierte er mehrere Karrieremöglichkeiten aus, darunter U-Boote und Flugzeuge, entschied sich aber schließlich für die Bodentruppen. Seine eigentliche Karriere begann nach der Februarrevolution, als er als erster die Autorität der republikanischen Regierung in Moskau anprangerte und Befehle missachtete. In Rumänien stationiert, beobachtete er die bolschewistische Machtübernahme aus der Ferne und bildete eine eigene Militäreinheit, die Drozdovites, die sich der Freiwilligenarmee von Michail Alexejew am Don anschloss.\n\nWährend des Bürgerkriegs erwarb er sich den Ruf eines talentierten und strengen, wenn auch rücksichtslosen Befehlshabers, der stets beteuerte, dass er für das heilige Haus der Romanows kämpfte. Obwohl die Dynastie nicht wiederhergestellt wurde, hegt Drozdovsky weiterhin die Hoffnung, dass der Thron eines Tages von einem rechtschaffenen Monarchen edlen Blutes bestiegen wird, und bis dieser Tag kommt, hat er einen komplexen Plan für die Reform der russischen Armee ausgearbeitet, um sie auf moderne Standards zu bringen."
 
 RUS_ivan_romanovsky: "Ivan Romanovsky"
-RUS_ivan_romanovsky_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nApril 28th, 1877\nLuhansk, Yekaterinoslav Governorate, Russisches Reich\n§YMilitärische Laufbahn:§L\nIwan Romanowski, Artillerist von Herkunft und Ausbildung, war ein Veteran des Russisch-Japanischen Krieges und ein angesehener Divisionskommandeur im Weltkrieg, als 1917 die Revolutionen begannen. Als treuer Gefolgsmann von Lawr Kornilow schloss er sich der Freiwilligenarmee am Don an und wurde Kommandant im Oberkommando. Hier erhielt er den Spitznamen "Unglücksgeneral". Obwohl er ein talentierter Befehlshaber war, war er unverblümt, scharf und nahm kein Blatt vor den Mund: Er verwarf Ideen, die er für inakzeptabel hielt, und beschimpfte diejenigen, die sie im Generalstab vorschlugen. Die Republikaner verdächtigten ihn, ein Monarchist zu sein, und die Monarchisten hielten ihn für einen Republikaner, aber als der Bürgerkrieg zu Ende ging und er sich entscheiden musste, stand Romanowski für die Republik ein. Sein undiplomatischer Charakter hat dazu geführt, dass er bei Beförderungen zurückgestellt wurde, aber sein Talent in der Kriegsführung ist unbestritten - er ist ein fähiger Artilleriekommandeur und ein Experte für Feuerkraftkonzentration."
+RUS_ivan_romanovsky_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nApril 28th, 1877\nLuhansk, Yekaterinoslav Governorate, Russisches Reich\n§YMilitärkarriere:§L\nIwan Romanowski, Artillerist von Herkunft und Ausbildung, war ein Veteran des Russisch-Japanischen Krieges und ein angesehener Divisionskommandeur im Weltkrieg, als 1917 die Revolutionen begannen. Als treuer Gefolgsmann von Lawr Kornilow schloss er sich der Freiwilligenarmee am Don an und wurde Kommandant im Oberkommando. Hier erhielt er den Spitznamen "Unglücksgeneral". Obwohl er ein talentierter Befehlshaber war, war er unverblümt, scharf und nahm kein Blatt vor den Mund: Er verwarf Ideen, die er für inakzeptabel hielt, und beschimpfte diejenigen, die sie im Generalstab vorschlugen. Die Republikaner verdächtigten ihn, ein Monarchist zu sein, und die Monarchisten hielten ihn für einen Republikaner, aber als der Bürgerkrieg zu Ende ging und er sich entscheiden musste, stand Romanowski für die Republik ein. Sein undiplomatischer Charakter hat dazu geführt, dass er bei Beförderungen zurückgestellt wurde, aber sein Talent in der Kriegsführung ist unbestritten - er ist ein fähiger Artilleriekommandeur und ein Experte für Feuerkraftkonzentration."
 
 RUS_aleksander_kutepov: "Aleksandr Kutepov"
 
 RUS_anton_turkul: "Anton Turkul"
-RUS_anton_turkul_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nDecember 11th, 1892\nTiraspol, Cherson Governorate, Russisches Reich\n§YMilitärische Laufbahn:§L\nAnton Turkul wurde als Sohn eines russisch-moldawischen Bauerngeschlechts in Transnistrien geboren und versuchte vor dem Zweiten Weltkrieg, eine militärische Laufbahn einzuschlagen, doch die Militärschulen von Tiflis und Odessa erkannten sein Potenzial nicht. Erst als er zur russischen Armee eingezogen wurde, nahmen seine Vorgesetzten seine Tapferkeit im Kampf zur Kenntnis und schickten ihn zu beschleunigten Lehrgängen. In Rumänien stationiert, war er bei der Aufstellung des Drosdowschen Regiments dabei und folgte Drosdowski an den Don, wo er in den Reihen der Weißen Armee aufstieg. In der wiederhergestellten Russischen Republik wurde Turkul nicht länger ignoriert und erlangte schließlich den Rang eines Generals.\n\nAls einer der jüngsten Generäle im russischen Generalstab und dennoch hochtalentiert, wird Turkul von vielen als Vorhut einer neuen Generation russischer Offiziere angesehen. Er zieht gerne die Aufmerksamkeit auf sich und trägt auch dazu bei, dieses Image zu prägen - auch wenn er ein wenig eitel ist, ist er doch ein wertvoller Befehlshaber.."
+RUS_anton_turkul_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nDecember 11th, 1892\nTiraspol, Cherson Governorate, Russisches Reich\n§YMilitärkarriere:§L\nAnton Turkul wurde als Sohn eines russisch-moldawischen Bauerngeschlechts in Transnistrien geboren und versuchte vor dem Zweiten Weltkrieg, eine militärische Laufbahn einzuschlagen, doch die Militärschulen von Tiflis und Odessa erkannten sein Potenzial nicht. Erst als er zur russischen Armee eingezogen wurde, nahmen seine Vorgesetzten seine Tapferkeit im Kampf zur Kenntnis und schickten ihn zu beschleunigten Lehrgängen. In Rumänien stationiert, war er bei der Aufstellung des Drosdowschen Regiments dabei und folgte Drosdowski an den Don, wo er in den Reihen der Weißen Armee aufstieg. In der wiederhergestellten Russischen Republik wurde Turkul nicht länger ignoriert und erlangte schließlich den Rang eines Generals.\n\nAls einer der jüngsten Generäle im russischen Generalstab und dennoch hochtalentiert, wird Turkul von vielen als Vorhut einer neuen Generation russischer Offiziere angesehen. Er zieht gerne die Aufmerksamkeit auf sich und trägt auch dazu bei, dieses Image zu prägen - auch wenn er ein wenig eitel ist, ist er doch ein wertvoller Befehlshaber."
 
 RUS_boris_shteyfon: "Boris Shteyfon"
 RUS_vladimir_vitkovsky: "Vladimir Vitkovskiy"
 RUS_mikhail_levitov: "Mikhail Levitov"
 
 RUS_vladimir_manstein: "Vladimir Manstein"
-RUS_vladimir_manstein_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nJanuar 3rd, 1894, in Kremenchug, Poltava Governorate, Russisches Reich\n§YMilitärische Laufbahn:§L\nDer Sohn von General Wladimir von Manstein wurde in einer Familie von Russlanddeutschen geboren, die die Orthodoxie angenommen und einen Großteil ihres Erbes aufgegeben hatten. Als der Weltkrieg begann, war Manstein Kadett an der Pawlowski-Militärschule in Petrograd. Seine Klasse wurde vorzeitig entlassen und wegen des gravierenden Mangels an Offizieren an der Front in die Armee aufgenommen. Noch bevor der Krieg seinen Tribut forderte, fiel der Offizier seinen Kameraden auf - er war sicherlich mutig und furchtlos, aber auf seine eigene Art und Weise, mit einem völligen Mangel an Zurückhaltung, Sympathie und voller Verachtung für seine Mitmenschen. Die Ereignisse des Jahres 1917 verstärkten diese Tendenzen noch - der Zusammenbruch des Russischen Reiches, an den er mit ganzem Herzen glaubte, und eine brutale Verletzung während des Bürgerkriegs, nach der ihm der linke Arm amputiert wurde.\n\nWährend des Russischen Bürgerkriegs erhielt Manstein den Spitznamen "Einarmiger Teufel". Er behauptete, "von Russland besessen" zu sein, befehligte Einheiten der Weißen Armee mit außergewöhnlicher Effizienz, zeigte keine Reue gegenüber Bolschewiken und richtete persönlich zahlreiche politische Kommissare hin - seine Zeitgenossen beschrieben ihn als kalt wie eine Maschine, "eine schreckliche Erfindung von Tod und Blut". Und dafür respektierten ihn die Weißen von ganzem Herzen. Nach dem Bürgerkrieg geriet Mansteins Leben jedoch ins Stocken. Der Krieg war alles, was er je gekannt hatte, seine Verwundung machte es ihm unmöglich, eine andere Arbeit zu finden, und seine Ehe entfremdete sich - bevor sie sich scheiden lassen konnten, verschwand seine Frau auf mysteriöse Weise, und Gerüchte besagen, dass Manstein sie selbst erschoss. Der desillusionierte Offizier fand seine Rettung im Nationalpopulismus von Boris Sawinkow - dessen Aufruf zur nationalen Wiedergeburt und zur Rache an Deutschland sprach ihn an, und er wurde Mitglied der NRPR. Nur sein deutsches Erbe, so sehr Manstein es auch leugnen mag, hindert ihn daran, Sawinkows engster Verbündeter zu werden."
+RUS_vladimir_manstein_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nJanuar 3rd, 1894, in Kremenchug, Poltava Governorate, Russisches Reich\n§YMilitärkarriere:§L\nDer Sohn von General Wladimir von Manstein wurde in einer Familie von Russlanddeutschen geboren, die die Orthodoxie angenommen und einen Großteil ihres Erbes aufgegeben hatten. Als der Weltkrieg begann, war Manstein Kadett an der Pawlowski-Militärschule in Petrograd. Seine Klasse wurde vorzeitig entlassen und wegen des gravierenden Mangels an Offizieren an der Front in die Armee aufgenommen. Noch bevor der Krieg seinen Tribut forderte, fiel der Offizier seinen Kameraden auf - er war sicherlich mutig und furchtlos, aber auf seine eigene Art und Weise, mit einem völligen Mangel an Zurückhaltung, Sympathie und voller Verachtung für seine Mitmenschen. Die Ereignisse des Jahres 1917 verstärkten diese Tendenzen noch - der Zusammenbruch des Russischen Reiches, an den er mit ganzem Herzen glaubte, und eine brutale Verletzung während des Bürgerkriegs, nach der ihm der linke Arm amputiert wurde.\n\nWährend des Russischen Bürgerkriegs erhielt Manstein den Spitznamen "Einarmiger Teufel". Er behauptete, "von Russland besessen" zu sein, befehligte Einheiten der Weißen Armee mit außergewöhnlicher Effizienz, zeigte keine Reue gegenüber Bolschewiken und richtete persönlich zahlreiche politische Kommissare hin - seine Zeitgenossen beschrieben ihn als kalt wie eine Maschine, "eine schreckliche Erfindung von Tod und Blut". Und dafür respektierten ihn die Weißen von ganzem Herzen. Nach dem Bürgerkrieg geriet Mansteins Leben jedoch ins Stocken. Der Krieg war alles, was er je gekannt hatte, seine Verwundung machte es ihm unmöglich, eine andere Arbeit zu finden, und seine Ehe entfremdete sich - bevor sie sich scheiden lassen konnten, verschwand seine Frau auf mysteriöse Weise, und Gerüchte besagen, dass Manstein sie selbst erschoss. Der desillusionierte Offizier fand seine Rettung im Nationalpopulismus von Boris Sawinkow - dessen Aufruf zur nationalen Wiedergeburt und zur Rache an Deutschland sprach ihn an, und er wurde Mitglied der NRPR. Nur sein deutsches Erbe, so sehr Manstein es auch leugnen mag, hindert ihn daran, Sawinkows engster Verbündeter zu werden."
 
 RUS_sergey_markov: "Sergey Markov"
-RUS_sergey_markov_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nJuli 19th, 1878\nKronstadt, St. Petersburg Governorate, Russisches Reich\n§YMilitärische Laufbahn:§L\n\nSergej Leonidowitsch Markow wurde in eine Offiziersfamilie hineingeboren und verfolgte diese Laufbahn mit Nachdruck. Er absolvierte eine Ausbildung zum Artillerieoffizier und erprobte die Kriegsführung im Russisch-Japanischen Krieg, wo er sich den Spitznamen "Ledergeneral" erwarb - so genannt wegen seines Stils, von Kopf bis Fuß schwarzes Leder zu tragen. Schon damals zeigte sich seine Neigung zu Rücksichtslosigkeit und unkonventionellen, aber brillanten Taktiken. Nach seinem Dienst in der Mandschurei wurde Markov Lehrer an der angesehenen Militärakademie in Pawlowsk, doch die Pflicht rief ihn erneut in den Krieg, als der Weltkrieg begann. Dort diente er in derselben Einheit wie Anton Denikin, als einer seiner engsten Helfer, und die beiden Offiziere entwickelten ein Gefühl gegenseitigen Respekts.\n\n Nachdem er Lavr Kornilov bei seinem Putschversuch unterstützt hatte, wurde Markov verhaftet, entkam aber in dem Chaos nach der bolschewistischen Machtübernahme und floh an den Don, wo er sich der Freiwilligenarmee anschloss. Dort zeichnete er sich als Legende unter den weißen Kommandeuren aus, der die Dinge oft selbst in die Hand nahm, die zahlenmäßig überlegenen roten Truppen mit den verrücktesten Taktiken besiegte (z. B. stellte er sich auf die Gleise, um einen gepanzerten Zug zu stoppen, und schrie den Bolschewiken Flüche entgegen, während er ihn mit Granaten beschoss), und bewahrte die weiße Sache vor einer frühen Niederlage. Nach dem Ende des russischen Bürgerkriegs blieb Markov, ein überzeugter Republikaner, in der Armee und begann, auf der Grundlage seiner Erfahrungen mit Überraschungsangriffen, gepanzerten Fahrzeugen und Manövern im Krieg eine neue Form der Kriegsführung zu entwickeln - seine Ideen sind zwar radikal, aber das Potenzial, das dahinter steckt, ist unbegreiflich."
+RUS_sergey_markov_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nJuli 19th, 1878\nKronstadt, St. Petersburg Governorate, Russisches Reich\n§YMilitärkarriere:§L\n\nSergej Leonidowitsch Markow wurde in eine Offiziersfamilie hineingeboren und verfolgte diese Laufbahn mit Nachdruck. Er absolvierte eine Ausbildung zum Artillerieoffizier und erprobte die Kriegsführung im Russisch-Japanischen Krieg, wo er sich den Spitznamen "Ledergeneral" erwarb - so genannt wegen seines Stils, von Kopf bis Fuß schwarzes Leder zu tragen. Schon damals zeigte sich seine Neigung zu Rücksichtslosigkeit und unkonventionellen, aber brillanten Taktiken. Nach seinem Dienst in der Mandschurei wurde Markov Lehrer an der angesehenen Militärakademie in Pawlowsk, doch die Pflicht rief ihn erneut in den Krieg, als der Weltkrieg begann. Dort diente er in derselben Einheit wie Anton Denikin, als einer seiner engsten Helfer, und die beiden Offiziere entwickelten ein Gefühl gegenseitigen Respekts.\n\n Nachdem er Lavr Kornilov bei seinem Putschversuch unterstützt hatte, wurde Markov verhaftet, entkam aber in dem Chaos nach der bolschewistischen Machtübernahme und floh an den Don, wo er sich der Freiwilligenarmee anschloss. Dort zeichnete er sich als Legende unter den weißen Kommandeuren aus, der die Dinge oft selbst in die Hand nahm, die zahlenmäßig überlegenen roten Truppen mit den verrücktesten Taktiken besiegte (z. B. stellte er sich auf die Gleise, um einen gepanzerten Zug zu stoppen, und schrie den Bolschewiken Flüche entgegen, während er ihn mit Granaten beschoss), und bewahrte die weiße Sache vor einer frühen Niederlage. Nach dem Ende des russischen Bürgerkriegs blieb Markov, ein überzeugter Republikaner, in der Armee und begann, auf der Grundlage seiner Erfahrungen mit Überraschungsangriffen, gepanzerten Fahrzeugen und Manövern im Krieg eine neue Form der Kriegsführung zu entwickeln - seine Ideen sind zwar radikal, aber das Potenzial, das dahinter steckt, ist unbegreiflich."
 
 RUS_fyodor_abramov: "Fyodor Abramov"
 
 RUS_vyacheslav_naumenko: "Vyacheslav Naumenko"
-RUS_vyacheslav_naumenko_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nFebruar 25th, 1883\nPetrovskaya, Kuban Cossack Host, Russisches Reich\n§YMilitärische Laufbahn:§L\nWjatscheslaw Naumenko, ein gebürtiger Kuban-Kosake und erfahrener Kavallerist, war einer von zahlreichen Kuban-Kosakenoffizieren, die sich der bolschewistischen Machtübernahme in Russland widersetzten und in den Streitkräften Südrusslands rasch aufstiegen. Als überzeugter Apolitiker trug er dazu bei, die Ordnung im Kuban aufrechtzuerhalten, als die Gefahr bestand, dass der Kuban zwischen den Befürwortern einer Union mit der Ukraine und einer Union mit Russland zerbricht. Nach dem Bürgerkrieg kehrte er zum Kuban-Heer zurück, in der Hoffnung, unter seinen Landsleuten zu dienen und sie an das neue Regime in Moskau zu binden. Einige Jahre später erhob Pjotr Krasnow jedoch die Fahne der Rebellion, und Naumenko war einer der wenigen namhaften Kosakenführer, die ihm offen Widerstand leisteten. In den Kämpfen in der Steppe wurde Naumenko jedoch schließlich aufgerieben, und die Reste seiner Einheit konnten nach Zarizyn fliehen. Seitdem ist er in der russischen Armee geblieben, hegt aber nach wie vor einen Groll gegen Krasnow wegen der Eroberung seiner Heimat, des Kuban-Heeres, und wartet auf die Gelegenheit, sich zu rächen.."
+RUS_vyacheslav_naumenko_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\nFebruar 25th, 1883\nPetrovskaya, Kuban Cossack Host, Russisches Reich\n§YMilitärkarriere:§L\nWjatscheslaw Naumenko, ein gebürtiger Kuban-Kosake und erfahrener Kavallerist, war einer von zahlreichen Kuban-Kosakenoffizieren, die sich der bolschewistischen Machtübernahme in Russland widersetzten und in den Streitkräften Südrusslands rasch aufstiegen. Als überzeugter Apolitiker trug er dazu bei, die Ordnung im Kuban aufrechtzuerhalten, als die Gefahr bestand, dass der Kuban zwischen den Befürwortern einer Union mit der Ukraine und einer Union mit Russland zerbricht. Nach dem Bürgerkrieg kehrte er zum Kuban-Heer zurück, in der Hoffnung, unter seinen Landsleuten zu dienen und sie an das neue Regime in Moskau zu binden. Einige Jahre später erhob Pjotr Krasnow jedoch die Fahne der Rebellion, und Naumenko war einer der wenigen namhaften Kosakenführer, die ihm offen Widerstand leisteten. In den Kämpfen in der Steppe wurde Naumenko jedoch schließlich aufgerieben, und die Reste seiner Einheit konnten nach Zarizyn fliehen. Seitdem ist er in der russischen Armee geblieben, hegt aber nach wie vor einen Groll gegen Krasnow wegen der Eroberung seiner Heimat, des Kuban-Heeres, und wartet auf die Gelegenheit, sich zu rächen."
 
 RUS_pavel_bermondt_avalov: "Pavel Bermondt-Avalov"
 RUS_adrian_guselshchikov: "Adrian Guselshchikov"
@@ -1886,7 +1901,7 @@ RUS_vyacheslav_baranov: "Vyacheslav Baranov"
 RUS_voldar_shalimov: "Voldar Shalimov"
 RUS_vasily_shiryaev: "Vasily Shiryaev"
 RUS_ivan_tretyak: "Ivan Tretyak"
-RUS_sergey_boyno_rodchevsky: "Sergey Boyno Rodchevsky"
+RUS_sergey_boyno_rodzevich: "Sergey Boyno-Rodzevich"
 RUS_pavel_ivanov_rinov: "Pavel Ivanov Rinov"
 RUS_tryfil_shimansky: "Tryfil Shimansky"
 RUS_dimitry_kulik: "Dimitry Kulik"

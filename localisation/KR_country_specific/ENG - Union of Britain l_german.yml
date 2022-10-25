@@ -46,7 +46,6 @@
  ENG_naval_devotion: "Marine Hingabe"
  ENG_naval_devotion_desc: "Britannien war schon immer bestrebt, die größte Marine in Europa, ja fast in der ganzen Welt zu haben. Von der Vernichtung der spanischen Armada über die Schlacht von Trafalgar bis hin zur fast kriegsentscheidenden Aushungerung der teutonischen Horden in Mitteleuropa war die Beherrschung der Meere stets die Priorität der Streitkräfte unseres Landes. Doch obwohl wir viele reaktionäre Traditionen abgelegt haben, ist unsere Liebe zur Marine geblieben, und wir müssen immer an der Spitze der Forschung und Entwicklung der Marine stehen. Wir müssen immer über die Wellen herrschen."
 
- ENG_never_surrender_idea: "Niemals aufgeben"
  ENG_merchant_marine_idea: "Handelsmarine"
  ENG_local_collective_ideas: "Lokale Kollektive"
  ENG_local_collectives_ideas: "Lokale Kollektive"
@@ -76,7 +75,7 @@
  ENG_IRA: "Eine unwahrscheinliche Allianz"
  ENG_IRA_desc: "While in principle all of our government supports an independent unified Ireland, it is clear that the Emerald Isle is not truly ready for the full liberation that socialism brings, and so we have decided to place it under the temporary joint occupation of RA and CIC until a suitable leader is found. Yet, despite destroying the chains that tied Ireland to capitalism, we have faced steep resistance from both the popular Irish Republican Army, primarily located in the Munster countryside, and the royalist Ulster Volunteer Force active throughout the North-east."
  ENG_IRA_only: "IRA Angriffe"
- ENG_IRA_only_desc: "Mit unserer erneuten Besetzung Irlands, seiner nationalen Armee, haben sich verschiedene Partisanen und andere Veteranen zusammengetan, um die alte IRA wieder aufleben zu lassen, die sich im anglo-irischen Krieg gegen uns gestellt hatte. Obwohl sie im Moment noch nicht allzu mächtig sind, werden sie schnell zu einer gefährlichen Bedrohung und müssen bekämpft werden."
+ ENG_IRA_only_desc: "Mit unserer erneuten Besetzung Irlands, seiner nationalen Armee, haben sich verschiedene Partisanen und andere Veteranen zusammengeschlossen, um die alte IRA wieder aufleben zu lassen, die im Englisch-Irischen Krieg gegen uns gekämpft hat. Obwohl sie im Moment noch nicht allzu mächtig sind, werden sie schnell zu einer gefährlichen Bedrohung und müssen bekämpft werden."
  ENG_synthetic_oil_lover: "Revolutionäres Synthetiköl"
  ENG_synthetic_oil_lover_desc: "Die heimischen Ölvorräte werden nicht ausreichen, um unser Militär zu versorgen. Glücklicherweise ist unsere Technologie für synthetisches Öl die beste der Welt. Mit den richtigen Investitionen könnte dies ausreichen, um unsere Flugzeuge fliegen, unsere Panzer fahren und unsere Schiffe bewegen zu lassen."
 
@@ -86,7 +85,6 @@
  ENG_GERIRE_protection: "Deutschland schützt Irland"
  ENG_GERIRE_support: "Deutschland hilft Irland"
  ENG_IRE_alone: "Irland steht allein"
- second_weltkrieg_has_started: "Der Zweite Weltkrieg hat begonnen"
  ENG_manual_complete_tuc_focus: "Der Gewerkschaftskongress von 1936 ist beendet."
 
 ### Flags ###
@@ -119,10 +117,6 @@
  ENG_hague_fail: "Scheitern der Haager Konferenz"
  ENG_hague_fail_extra1: "Katastrophe auf der Haager Konferenz"
  ENG_hague_fail_extra2: "Desaster auf der Haager Konferenz"
- ENG_total_war_tp: "Totaler Krieg."
- ENG_conscript_vessels_tp: "§GEinberufung von zivilen Schiffen zum Dienst als Leichter Kreuzer.§!"
- ENG_summon_the_home_guard_tp: "§Y20 Infanterieeinheiten der Home Guard werden zur Verteidigung Britanniens einberufen.\n§!"
- ENG_1066unit_tt: "Sieben neue Milizeinheiten werden gebildet."
  ENG_start_tuc1: "Der Gewerkschaftskongress von 1936 beginnt..."
 
 ### Decisions ###
@@ -130,10 +124,6 @@
  ENG_weltkrieg_decisions_desc: "Der Große Patriotische Krieg gegen die reaktionären Kräfte ist jetzt da. Britannien wird seinen Teil dazu beitragen, den revolutionären Syndikalismus davor zu bewahren, vom Kaiserreich ausgelöscht zu werden. Jeder Mann und jede Frau wird seine/ihre Rolle in diesem großen Krieg zu spielen haben, aber gemeinsam werden wir siegreich sein."
  ENG_internationale_decisions: "Internationale Beschlüsse"
  ENG_internationale_decisions_desc: "Britannien hat seine Rolle innerhalb der Dritten Internationale zu spielen, und wir werden sicherstellen, dass wir unseren Teil dazu beitragen, unseren Genossen in der ganzen Welt zu helfen."
- ENG_merchant_marine_ships: "Konskriptionsschiffe"
- ENG_merchant_marine_ships_desc: "Die Fischer trauen sich nicht aufs Meer hinaus, also können wir ihre Schiffe auch zu ihrem Schutz einsetzen. Vielleicht bekommen sie sie sogar zurück, wenn der Krieg gewonnen ist."
- ENG_the_home_guard: "Die britische Home Guard"
- ENG_the_home_guard_desc: "Die Verteidigung Britanniens ist notwendig. Wir müssen die Menschen dazu bringen, die Inseln zu verteidigen, falls die Deutschen beschließen, unsere große Insel anzugreifen."
  #ENG_never_surrender: "Niemals aufgeben" bereits oben als Fokus definiert
  #ENG_never_surrender_desc: "Wir werden bis zum Ende weitermachen, wir werden in Frankreich kämpfen, wir werden auf den Meeren und Ozeanen kämpfen, wir werden mit wachsender Zuversicht und wachsender Stärke in der Luft kämpfen, wir werden unsere Insel verteidigen, was auch immer der Preis sein mag, wir werden an den Stränden kämpfen, wir werden auf den Landungsplätzen kämpfen, wir werden auf den Feldern und in den Straßen kämpfen, wir werden in den Bergen kämpfen; wir werden Niemals aufgeben!" bereits oben als Schwerpunkt definiert.
  ENG_scottish_oil: "Intensivierung der schottischen Ölbohrungen"
@@ -236,8 +226,6 @@
  ENG_anglo_irish_friendship_desc: "Jetzt, da das Licht des Sozialismus endlich auf die Smaragdinsel scheint, ist die Zeit der Versöhnung zwischen unseren historisch eng verbundenen Völkern gekommen. Wir sollten nicht nur Diplomaten und Politiker nach Dublin schicken, sondern auch Vertreter der erfolgreichsten britischen Syndikate, um Irland auf dem Weg des Fortschritts zu helfen."
  ENG_class_warfare: "Klassenkampf"
  ENG_class_warfare_desc: "Der Krieg steht vor der Tür, und um unsere große Nation zu bewahren und unsere Freiheit zu sichern, müssen sich jetzt alle arbeitenden Menschen für den Sieg vereinen. Wir sollten den Geist der Einheit, der Selbstaufopferung und vor allem ein erneuertes Klassenbewusstsein fördern, um unsere Kriegsanstrengungen zu verstärken."
- ENG_never_surrender: "Wir werden niemals aufgeben"
- ENG_never_surrender_desc: "Wie bei allen Kriegsanstrengungen gibt es viele Gegner, die eine Versöhnung mit dem Feind befürworten. Um dieser Stimmung entgegenzuwirken, sollten wir eine Propagandakampagne starten, um für den gerechten Charakter unseres Krieges und die Notwendigkeit des Sieges zu werben."
  ENG_bletchley_park: "Bletchley Park"
  ENG_bletchley_park_desc: "Im Norden von Buckinghamshire hat sich ein hervorragendes Team von Militärgeheimdienstforschern gebildet. Trotz minimaler finanzieller Mittel hat die Bletchley Park Electrician's Union in Zusammenarbeit mit unserem Auslandsgeheimdienst einzigartige Ergebnisse erzielt. Wir sollten die Einrichtungen von Bletchley Park ausbauen und sie mit erheblichen staatlichen Mitteln ausstatten."
  ENG_support_comrades: "Ausländische Kameraden unterstützen"
@@ -367,8 +355,8 @@
  ENG_home_front_victory_desc: "Wir haben die Kapitalisten in den Fabriken geschlagen. Wer hätte das gedacht?"
  ENG_westminster_project: "Damokles-Projekt"
  ENG_westminster_project_desc: "Wir werden dieses neue "Forschungszentrum" in Manchester ansiedeln. Dieses große Industriezentrum wird reichlich Arbeitskräfte für den Bau bereitstellen, und seine zentrale Lage wird die Verlagerung von Ressourcen dorthin erleichtern."
- ENG_total_mobilization: "Totale Mobilisierung"
- ENG_total_mobilization_desc: "Jeder Mensch in Britannien wird für die Union arbeiten müssen. Jede Sekunde der Arbeit für die Union wird den Kriegsanstrengungen dienen müssen. Jede Sekunde der Kriegsanstrengungen wird der endgültigen und absoluten Niederlage des Kapitalismus dienen müssen."
+ ENG_total_mobilization: "Der letzte Kampf"
+ ENG_total_mobilization_desc: "Wir werden bis zum Ende weitermachen, wir werden in Frankreich kämpfen, wir werden auf den Meeren und Ozeanen kämpfen, wir werden mit wachsender Zuversicht und wachsender Stärke in der Luft kämpfen, wir werden unsere Insel verteidigen, was auch immer der Preis sein mag, wir werden an den Stränden kämpfen, wir werden auf den Landungsplätzen kämpfen, wir werden auf den Feldern und in den Straßen kämpfen, wir werden in den Bergen kämpfen; wir werden niemals kapitulieren!"
  #ENG_improve_army2: "C.P.U.-Programm" bereits oben definiert
  ENG_improve2_desc: "Das Kompanieversorgungseinheiten Programm wird zu Verbesserungen im Bereich der Ausrüstung unserer Hauptinfanterieregimenter mit wichtigen Unterstützungsfähigkeiten wie Artillerie, Aufklärungseinheiten oder Spezialeinheiten (Forced Acronyms) führen."
  ENG_artillery_research: "Artillerie-Integrationsforschung"
@@ -915,11 +903,6 @@
  uob.100.t: "Operation Demetrius"
  uob.100.d: "Heute begann die Militäroperation mit dem Codenamen "Demetrius", bei der unsere Armeen viele Gebiete Irlands besetzen und IRA-Partisanen trotz des großen Widerstands der Rebellen und der Zivilbevölkerung internieren. Außerhalb von Leinster, wo unsere Streitkräfte und die Verwaltung zentralisiert sind, könnte der irische Widerstand jedoch ausreichen, um unsere Armeen zu überwältigen..."
  uob.100.a: "Irische Rebellen in Munster beginnen einen Aufstand!"
-
-### 101 - 150: Office Events ###
- uob.109.t: "Ein neues 1066"
- uob.109.d: "Die Feinde des Syndikalismus haben auf unserer Insel Fuß gefasst! Die Nation wird alle Reserven mobilisieren, um sich von dieser Krankheit zu befreien!"
- uob.109.a: "Zu den Waffen, Genosses!"
 
 ### 201 - 300 Events ###
  uob.201.t: "Revolution!"

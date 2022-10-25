@@ -3,18 +3,18 @@
 KR_separate_peace: "Wird aus allen gegenwärtigen Kriegen austreten\n"
 
 ### 2nd American Civil War ###
-WAR_NAME_CSA_USA: "Zweiter Amerikanischer Bürgerkrieg"
-WAR_NAME_USA_CSA: "Zweiter Amerikanischer Bürgerkrieg"
-WAR_NAME_TEX_USA: "Zweiter Amerikanischer Bürgerkrieg"
-WAR_NAME_USA_TEX: "Zweiter Amerikanischer Bürgerkrieg"
-WAR_NAME_PSA_USA: "Zweiter Amerikanischer Bürgerkrieg"
-WAR_NAME_USA_PSA: "Zweiter Amerikanischer Bürgerkrieg"
-WAR_NAME_PSA_CSA: "Zweiter Amerikanischer Bürgerkrieg"
-WAR_NAME_CSA_PSA: "Zweiter Amerikanischer Bürgerkrieg"
-WAR_NAME_TEX_CSA: "Zweiter Amerikanischer Bürgerkrieg"
-WAR_NAME_CSA_TEX: "Zweiter Amerikanischer Bürgerkrieg"
-WAR_NAME_PSA_TEX: "Zweiter Amerikanischer Bürgerkrieg"
-WAR_NAME_TEX_PSA: "Zweiter Amerikanischer Bürgerkrieg"
+ CIVIL_WAR_NAME_CSA_USA: "Zweiter Amerikanischer Bürgerkrieg"
+ CIVIL_WAR_NAME_USA_CSA: "Zweiter Amerikanischer Bürgerkrieg"
+ CIVIL_WAR_NAME_TEX_USA: "Zweiter Amerikanischer Bürgerkrieg"
+ CIVIL_WAR_NAME_USA_TEX: "Zweiter Amerikanischer Bürgerkrieg"
+ CIVIL_WAR_NAME_PSA_USA: "Zweiter Amerikanischer Bürgerkrieg"
+ CIVIL_WAR_NAME_USA_PSA: "Zweiter Amerikanischer Bürgerkrieg"
+ CIVIL_WAR_NAME_PSA_CSA: "Zweiter Amerikanischer Bürgerkrieg"
+ CIVIL_WAR_NAME_CSA_PSA: "Zweiter Amerikanischer Bürgerkrieg"
+ CIVIL_WAR_NAME_TEX_CSA: "Zweiter Amerikanischer Bürgerkrieg"
+ CIVIL_WAR_NAME_CSA_TEX: "Zweiter Amerikanischer Bürgerkrieg"
+ CIVIL_WAR_NAME_PSA_TEX: "Zweiter Amerikanischer Bürgerkrieg"
+ CIVIL_WAR_NAME_TEX_PSA: "Zweiter Amerikanischer Bürgerkrieg"
 
 ### Spanish Civil War ###
 WAR_NAME_SPA_SPR: "Spanischer Bürgerkrieg"
@@ -107,10 +107,11 @@ WAR_NAME_RUS_FIN: "Der Winterkrieg"
 WAR_NAME_FIN_RUS: "Der Winterkrieg"
 
 ### Middle Eastern Wars ###
-WAR_NAME_TUR_KUR: "$ORDER$$SECOND$ Aufstand"
-WAR_NAME_KUR_TUR: "$ORDER$$FIRST$ Unabhängigkeitskrieg"
 WAR_NAME_JBS_SAU: "$ORDER$Arabischer Einigungskrieg"
 WAR_NAME_SAU_JBS: "$ORDER$Arabischer Einigungskrieg"
+
+ WAR_NAME_TUR_EGY: "Wüstenkrieg"
+ WAR_NAME_EGY_TUR: "Wüstenkrieg"
 
 ### The Reichspakt Revolts ###
 WAR_NAME_GER_UKR: "Die $ORDER$$SECOND$ Revolte"
@@ -312,9 +313,7 @@ WAR_NAME_SZC_FNG: "Chinesischer Bürgerkrieg"
 WAR_NAME_HNN_QIE: "Chinesischer Bürgerkrieg" 
 WAR_NAME_HNN_FNG: "Chinesischer Bürgerkrieg" 
 WAR_NAME_YUN_QIE: "Chinesischer Bürgerkrieg" 
-WAR_NAME_YUN_FNG: "Chinesischer Bürgerkrieg" 
-WAR_NAME_GXC_PRC: "Liangguang Bürgerkrieg" 
-WAR_NAME_PRC_GXC: "Liangguang Bürgerkrieg" 
+WAR_NAME_YUN_FNG: "Chinesischer Bürgerkrieg"
 
 # Northwestern Revolts
 WAR_NAME_SIK_ETS: "Ost-Turkestan-Revolte"

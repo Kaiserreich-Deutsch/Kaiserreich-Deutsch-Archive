@@ -7,3 +7,4 @@ dependencies={
 }
 name="Kaiserreich-Deutsch-0.22.1"
 supported_version="1.11.*"
+path="./mod/Kaiserreich-Deutsch-0.22.1"

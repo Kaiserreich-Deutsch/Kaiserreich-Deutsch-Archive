@@ -11,7 +11,7 @@ mittleafrikan_focus: "Schwerpunktbaum von Mittelafrika"
 ### Country Names ###
  MAF: "Mittelafrika"
  MAF_ADJ: "Mittelafrikaner"
- MAF_DEF: "Mittelafrika"
+ MAF_DEF: "die Koloniale Föderation Mittelafrika"
 
  MAF_germany_in_exile: "Exildeutschland"
  MAF_germany_in_exile_ADJ: "Deutsch"
@@ -139,16 +139,22 @@ MAF_Imminent_Collapse: "Bevorstehender Kollaps"
 MAF_Imminent_Collapse_desc: "Wir haben es geschafft, auf dem ganzen Kontinent Krieg zu entfachen! Wenn wir sie nicht schnell vernichten, wird unser gesamter Staatsappart implodieren und Mittelafrika wird aufhören zu existieren."
 MAF_Secular_Education: "Weltliches Bildungssystem"
 MAF_Cash_Crops_idea: "Pflanzen für den Export"
-MAF_Good_Supply: "Effizienter Versorgungsverbrauch"
 MAF_Honorary_Officers_idea: "Ehrenamtliche Beamte"
 MAF_Anglo_Volunteers1: "Britische Freiwillige"
 MAF_Anglo_Volunteers2: "Britische Freiwillige"
 MAF_Opium_Profit: "Profit durch Opium"
 MAF_Opium_Epidemic: "Opium Pandemie"
-MAF_Vorbeck_idea: "Geist von Lettow-Vorbeck"
 MAF_Landtag: "Afrikanischer Landtag"
-MAF_Black_Pilots: "Afrikanische Piloten"
-MAF_Mercenary_Pilots: "Söldner Piloten"
+
+MAF_Vorbeck_idea: "Geist von Lettow-Vorbeck"
+MAF_Good_Supply: "Effizienter Versorgungsverbrauch"
+
+ MAF_air_field_construction_idea: "Ausbau unserer Flugplätze"
+ MAF_ground_crews_idea: "Afrikanisches Bodenpersonal"
+
+ MAF_pilot_training_idea: "Ausdauertraining für Piloten"
+ MAF_air_volunteer_idea: "Den Kampf ins Ausland tragen"
+
 MAF_CtC_Rail: "Kap-Kairo Eisenbahn"
 MAF_Expanded_CtC_Rail: "Ausgebaute Kap-Kairo-Eisenbahn"
 
@@ -420,8 +426,8 @@ MAF_Establish_Lion_Society_desc: "Es wurde schon lange gemunkelt, dass Afrika Ge
 MAF_End_Protectorates: "Ende der Protektorate"
 MAF_End_Protectorates_desc: "Mittelafrika war schon immer ein Flickenteppich von Verträgen mit verschiedenen afrikanischen Königreichen, die ihre Autonomie und Königtum im Austausch für die Akzeptanz der deutschen Herrschaft behielten. Es ist Zeit, dies zu beenden und ein Gesetz und eine souveräne Einheit in Mittelafrika zu haben."
 
-MAF_Vizekonig: "Übernahme des Titels 'Vizekönig'"
-MAF_Vizekonig_desc: "Der Statthalter ist nicht nur ein Bürokrat, der eine Regierungsrolle wahrnimmt. Wir haben bereits durchgesetzt, dass er Deutschland gegenüber nicht mehr rechenschaftspflichtig ist. Jetzt ist es wichtig durchzusetzten, dass er der höchsten Autorität in Afrika gleichgestellt ist. Der Kaiser hat dem Vizekönig ein heiliges Vertrauen geschenkt. In Afrika ist das Wort des Vizekönigs dasselbe wie das des Kaisers."
+MAF_Statthalter: "Übernahme des Titels 'Statthalter'"
+MAF_Statthalter_desc: "Der Statthalter ist nicht nur ein Bürokrat, der eine Regierungsrolle wahrnimmt. Wir haben bereits durchgesetzt, dass er Deutschland gegenüber nicht mehr rechenschaftspflichtig ist. Jetzt ist es wichtig durchzusetzten, dass er der höchsten Autorität in Afrika gleichgestellt ist. Der Kaiser hat dem Statthalter ein heiliges Vertrauen geschenkt. In Afrika ist das Wort des Statthalter dasselbe wie das des Kaisers."
 
  ### New Administration
  MAF_New_Administration: "Eine neue Verwaltung"
@@ -613,16 +619,16 @@ MAF_Military_Reforms_desc: "Es ist Zeit, unsere Armee für ein neues Zeitalter d
 MAF_Establish_Airforce: "Afrikanisches Fliegerkorps"
 MAF_Establish_Airforce_desc: "Es ist Zeit, ein eigenes Luftkorp zu gründen, das von der deutschen Luftwaffe getrennt ist."
 
-MAF_African_Pilots: "Afrikanische Piloten"
-MAF_African_Pilots_desc: "Wir haben nicht genug weiße deutsche Piloten, um unsere Luftwaffe zu füllen, also müssen wir Afrikaner für den Job rekrutieren.
+MAF_African_Pilots: "Afrikanisches Bodenpersonal"
+MAF_African_Pilots_desc: "Wir haben nicht genug weißes deutsches Personal, um unsere Luftwaffe zu füllen, also müssen wir Afrikaner für den Job rekrutieren.
 
-MAF_Merc_Pilots: "Söldner Piloten"
-MAF_Merc_Pilots_desc: "Wir haben nicht genug weiße deutsche Piloten, um unsere Luftwaffe zu füllen. Es bleibt uns nichts anderes übrig, als Söldner für diesen Job einzustellen."
+MAF_Merc_Pilots: "Den Kampf ins Ausland tragen"
+MAF_Merc_Pilots_desc: "Unsere afrikanische Luftwaffe gehört zu den bestausgerüsteten der Welt. Wir können es uns leisten, uns in den laufenden Konflikten auf der ganzen Welt hinter einige der angenehmeren Parteien zu stellen."
 
 MAF_Bomber_Aircraft: "Bomber Flugzeug"
 MAF_Bomber_Aircraft_desc: "Die Entwicklung von Bomberflugzeugen ist für die afrikanische Kriegsführung von größter Bedeutung."
 
-MAF_Airfields: "Verbesserte Flugplätze"
+MAF_Airfields: "Ausbau unserer Flugplätze"
 MAF_Airfields_desc: "Unsere Flugplätze sind in einem schrecklichen Zustand, wir müssen sie verbessern, um eine Luftmacht zu werden."
 
 MAF_Afrikan_Air_Industry: "Afrikanische Luftwaffenindustrie"
@@ -1091,7 +1097,7 @@ mittel.95.d: "Prinz Karl Mutara III. von Rudahigwa ist von einem Rundgang durch 
 mittel.95.a: "Ein Modell für sein Volk."
 
 mittel.96.t: "Sultan Khalifa II. besucht Singapur"
-mittel.96.d: "Sultan Khalifa II. bin Harub Al-Said ist von einer Besichtigung der Befestigungsanlagen und Häfen von Singapur und Malta zurückgekehrt. Er sprach ausführlich mit seinem Attaché für die Tour, Kapitän Otto Schiewind. Am Ende der Tour gaben die beiden der Admiralität einen Bericht, in dem sie die ähnlichen Situationen in Singapur und Malta mit Sansibar verglichen und es als "Singapur Afrikas" bezeichneten. Die Insel Sansibar kontrolliert den Zugang zu unserer Hauptstadt Daressalam und zum Kanal von Mosambik. Trotz ihrer strategischen Lage sind die Inseln im Vergleich zu ihren Gegenstücken in Europa und Asien unterentwickelt. Als Reaktion auf den Bericht hat die Admiralität damit begonnen Seebefestigungen in Sansibar zu bauen und Verbesserungen am Hafen durchzuführen, um im Falle eines Krieges im Indischen Ozean eine Marinebasis für die Kaiserliche Marine bereitstellen zu können."
+mittel.96.d: "Sultan Khalifa II. bin Harub Al-Said ist von einer Besichtigung der Befestigungsanlagen und Häfen von Singapur zurückgekehrt. Er sprach ausführlich mit seinem Attaché für die Tour, Kapitän Otto Schiewind. Am Ende der Tour gaben die beiden der Admiralität einen Bericht, in dem sie die ähnlichen Situationen in Singapur mit Sansibar verglichen und es als "Singapur Afrikas" bezeichneten. Die Insel Sansibar kontrolliert den Zugang zu unserer Hauptstadt Daressalam und zum Kanal von Mosambik. Trotz ihrer strategischen Lage sind die Inseln im Vergleich zu ihren Gegenstücken in Europa und Asien unterentwickelt. Als Reaktion auf den Bericht hat die Admiralität damit begonnen Seebefestigungen in Sansibar zu bauen und Verbesserungen am Hafen durchzuführen, um im Falle eines Krieges im Indischen Ozean eine Marinebasis für die Kaiserliche Marine bereitstellen zu können."
 mittel.96.a: "Und fast keine Kosten für uns selbst!"
 
 mittel.97.t: "König Pedro VII. besucht den Kölner Dom"
@@ -1355,12 +1361,12 @@ mittel.189.a: "Wir müssen schnell handeln, wenn die deutsche Ordnung überleben
 mittel.189.b: "Das Kolonialamt muss konsultiert werden."
 
 mittel.190.t: "Die Mittelafrika-Verwaltung kauft DKAEB-Aktien"
-mittel.190.d: "Die Deutsche Kaiserliche Abessinien Eisenbahn (DKAEB) wurde Anfang des 20. Jahrhunderts gegründet und verbindet Addis Abeba in Äthiopien mit Dschibuti. Nach einer Reihe von Erweiterungen mit deutscher Unterstützung wird sie heute hauptsächlich für den Transport von Erzen aus dem Kongobecken in Mittelafrika nach Dschibuti genutzt. Der derzeitige wirtschaftliche Abschwung in der Welt hat dazu geführt, dass Erze nicht mehr in dem Maße gekauft werden wie früher, was zu weniger Transporten für die DKAEB führt. Um zu verhindern, dass der äthiopische Staat die Kontrolle über die DKAEB erlangt und damit eine wertvolle Handelsverbindung verliert, hat der mittelafrikanische Staat viele Anteile an der Eisenbahn gekauft, um dem angeschlagenen Unternehmen etwas staatlichen Rückhalt zu geben. Mittelafrika jedoch so kurz nach dem Kenyatta-Solf-Fall zu erlauben, einseitig zu handeln, könnte den politisch gefährlichen [ROOT.GetLeader] ermutigen."
+mittel.190.d: "Die Deutsche Kaiserliche Abessinien Eisenbahn (DKAEB) wurde Anfang des 20. Jahrhunderts gegründet und verbindet Addis Abeba in Äthiopien mit Dschibuti. Nach einer Reihe von Erweiterungen mit deutscher Unterstützung wird sie heute hauptsächlich für den Transport von Erzen aus dem Kongobecken in Mittelafrika nach Dschibuti genutzt. Der derzeitige wirtschaftliche Abschwung in der Welt hat dazu geführt, dass Erze nicht mehr in dem Maße gekauft werden wie früher, was zu weniger Transporten für die DKAEB führt. Um zu verhindern, dass der äthiopische Staat die Kontrolle über die DKAEB erlangt und damit eine wertvolle Handelsverbindung verliert, hat der mittelafrikanische Staat viele Anteile an der Eisenbahn gekauft, um dem angeschlagenen Unternehmen etwas staatlichen Rückhalt zu geben. Mittelafrika jedoch so kurz nach dem Kenyatta-Solf-Fall zu erlauben, einseitig zu handeln, könnte den politisch gefährlichen [MAF.GetLeader] ermutigen."
 mittel.190.a: "Fordern Sie, dass Mittelafrika die Aktien an Äthiopien verkauft!"
 mittel.190.b: "Sie hätten nicht handeln sollen, aber es war die richtige Aktion."
 
 mittel.191.t: "Das Kolonialamt erhebt Beschwerde"
-mittel.191.d: "The Colonial Office in Berlin has issued a formal complaint against Statthalter [ROOT.GetLeader] for his unilateral purchase of the DKAEB shares. They clearly fear his political ambitions, and are acting short-sightedly and against true German interest. The Office demands that we sell the shares to the Ethiopian state. Should we obey Berlin's wishes?"
+mittel.191.d: "The Colonial Office in Berlin has issued a formal complaint against Statthalter [MAF.GetLeader] for his unilateral purchase of the DKAEB shares. They clearly fear his political ambitions, and are acting short-sightedly and against true German interest. The Office demands that we sell the shares to the Ethiopian state. Should we obey Berlin's wishes?"
 mittel.191.a: "Wir halten den Zug am Laufen, und wenn es das Letzte ist, was wir tun!"
 mittel.191.b: "Nun gut, zurück."
 
@@ -1371,7 +1377,7 @@ mittel.192.b: "Verkaufen Sie die Regierungsanteile an Äthiopien."
 mittel.192.c: "Mittelafrika soll die Aktien übernehmen."
 
 mittel.193.t: "Das Kolonialamt weigert sich, sich zu engagieren"
-mittel.193.d: "Es scheint, dass niemand in Berlin die Verantwortung für eine Entscheidung über den Kauf der DKAEB-Anteile übernehmen wollte. Sie haben das Problem an uns zurückgeschoben und uns gesagt, dass sie dem Urteil von Statthalter [ROOT.GetLeader] in dieser Angelegenheit vertrauen. Wenn wir die Eisenbahn behalten würden, müssten wir wahrscheinlich Zeit damit verbringen, sie über Wasser zu halten, die wir sonst damit verbringen könnten, die Auswirkungen des Schwarzen Montags zu stoppen, aber wenn wir nichts tun, würden wir die Äthiopier als einen möglichen Verbündeten verlieren."
+mittel.193.d: "Es scheint, dass niemand in Berlin die Verantwortung für eine Entscheidung über den Kauf der DKAEB-Anteile übernehmen wollte. Sie haben das Problem an uns zurückgeschoben und uns gesagt, dass sie dem Urteil von Statthalter [MAF.GetLeader] in dieser Angelegenheit vertrauen. Wenn wir die Eisenbahn behalten würden, müssten wir wahrscheinlich Zeit damit verbringen, sie über Wasser zu halten, die wir sonst damit verbringen könnten, die Auswirkungen des Schwarzen Montags zu stoppen, aber wenn wir nichts tun, würden wir die Äthiopier als einen möglichen Verbündeten verlieren."
 mittel.193.a: "Wir werden die Kontrolle über die Eisenbahn übernehmen."
 mittel.193.b: "Wir werden die staatliche Unterstützung für das DKAEB kürzen."
 
@@ -1383,19 +1389,19 @@ mittel.194.b: "No, we will keep the train running!"
 mittel.194.c: "Nein, wir werden die Anteile an Äthiopien vergeben."
 
 mittel.195.t: "Mittelafrika missachtet unseren Befehl"
-mittel.195.d: "Statthalter [ROOT.GetLeader] in Dar es-Salaam hat sich über unseren direkten Befehl bezüglich des DKAEB hinweggesetzt! Viele in Berlin bedauern bereits, diesen hochgesprungenen Piloten zur Herrschaft über einen halben Kontinent zu bestimmen, und das Kolonialamt hat eine offizielle Beschwerde bei der Regierung Mittelafrikas eingereicht."
+mittel.195.d: "Statthalter [MAF.GetLeader] in Dar es-Salaam hat sich über unseren direkten Befehl bezüglich des DKAEB hinweggesetzt! Viele in Berlin bedauern bereits, diesen hochgesprungenen Piloten zur Herrschaft über einen halben Kontinent zu bestimmen, und das Kolonialamt hat eine offizielle Beschwerde bei der Regierung Mittelafrikas eingereicht."
 mittel.195.a: "Unerhört!"
 
 mittel.196.t: "Das Kolonialamt beschwert sich"
-mittel.196.d: "Das Kolonialamt hat uns eine formelle Beschwerde über unsere Entscheidung geschickt, ihren direkten Befehl in der Frage der DKAEB-Aktien zu missachten. Deutsche Beamte haben bereits begonnen, gegen [ROOT.GetLeader]s Willkürherrschaft zu murmeln, und sollte sein Bestreben scheitern, wird das sicher Folgen für seine Popularität haben."
+mittel.196.d: "Das Kolonialamt hat uns eine formelle Beschwerde über unsere Entscheidung geschickt, ihren direkten Befehl in der Frage der DKAEB-Aktien zu missachten. Deutsche Beamte haben bereits begonnen, gegen [MAF.GetLeader]s Willkürherrschaft zu murmeln, und sollte sein Bestreben scheitern, wird das sicher Folgen für seine Popularität haben."
 mittel.196.a: "Wir haben unsere Entscheidung bereits getroffen."
 
 mittel.197.t: "Die DKAEB-Eisenbahn meldet Gewinne"
-mittel.197.d: "Das Ende des dritten Quartals war für Mittelafrika insgesamt nicht gut - das Ausbleiben jeglicher wirtschaftlicher Gegenmaßnahmen zum Schwarzen Montag trifft die gesamte Kolonie hart. Allerdings meldet die DKAEB, dass das Aufkommen an Militär- und Handelswagen bei ihrer Bahn seit dem ersten Quartal gestiegen ist, und es scheint, dass die Investoren wieder Vertrauen in die Bahn haben. Der Plan von Statthalter [ROOT.GetLeader] hat sich ausgezahlt."
+mittel.197.d: "Das Ende des dritten Quartals war für Mittelafrika insgesamt nicht gut - das Ausbleiben jeglicher wirtschaftlicher Gegenmaßnahmen zum Schwarzen Montag trifft die gesamte Kolonie hart. Allerdings meldet die DKAEB, dass das Aufkommen an Militär- und Handelswagen bei ihrer Bahn seit dem ersten Quartal gestiegen ist, und es scheint, dass die Investoren wieder Vertrauen in die Bahn haben. Der Plan von Statthalter [MAF.GetLeader] hat sich ausgezahlt."
 mittel.197.a: "Unsere Exportverbindung ist sicher."
 
 mittel.198.t: "Die DKAEB-Bahn geht bankrott!"
-mittel.198.d: "Das Ende des dritten Wirtschaftsquartals ist gekommen und gegangen, aber die Deutsche Kaiserliche Abessinien Eisenbahn hat es nicht weitergeführt. Wir haben das Projekt schlecht gemanagt, um es zu retten, obwohl die Äthiopier anscheinend kooperiert haben, und wir haben jetzt keine Wahl, unsere Anteile an die äthiopische Regierung zu verkaufen. Der Ruf von Statthalter [ROOT.GetLeader] hat entsprechend gelitten - es scheint immer unwahrscheinlicher, dass er Mittelafrika ohne drastische Maßnahmen profitabel machen kann."
+mittel.198.d: "Das Ende des dritten Wirtschaftsquartals ist gekommen und gegangen, aber die Deutsche Kaiserliche Abessinien Eisenbahn hat es nicht weitergeführt. Wir haben das Projekt schlecht gemanagt, um es zu retten, obwohl die Äthiopier anscheinend kooperiert haben, und wir haben jetzt keine Wahl, unsere Anteile an die äthiopische Regierung zu verkaufen. Der Ruf von Statthalter [MAF.GetLeader] hat entsprechend gelitten - es scheint immer unwahrscheinlicher, dass er Mittelafrika ohne drastische Maßnahmen profitabel machen kann."
 mittel.198.a: "Die Äthiopier können die Schienen jetzt haben!"
 
 mittel.199.t: "Die DKAEB hält sich über Wasser"
@@ -1403,15 +1409,15 @@ mittel.199.d: "Es gab heute einen seltenen Lichtblick im schrecklichen Jahr 1936
 mittel.199.a: "Gute Nachrichten."
 
 mittel.200.t: "Die DKAEB geht bankrott."
-mittel.200.d: "Die mittelafrikanische Regierung hat wieder einmal versagt, da die ostafrikanische DKAEB untergegangen ist. Damit haben wir unseren äthiopischen Verbündeten geächtet und gleichzeitig wertvolle deutsche Ressourcen für die Rettung der Eisenbahn verschwendet. Wir haben bei dieser Operation Statthalter [ROOT.GetLeader] etwas Vertrauen entgegengebracht - etwas, das wir nie wieder tun werden."
+mittel.200.d: "Die mittelafrikanische Regierung hat wieder einmal versagt, da die ostafrikanische DKAEB untergegangen ist. Damit haben wir unseren äthiopischen Verbündeten geächtet und gleichzeitig wertvolle deutsche Ressourcen für die Rettung der Eisenbahn verschwendet. Wir haben bei dieser Operation Statthalter [MAF.GetLeader] etwas Vertrauen entgegengebracht - etwas, das wir nie wieder tun werden."
 mittel.200.a: "Inkompetente Dummköpfe!"
 
 mittel.201.t: "Das Kolonialamt beschwert sich"
-mittel.201.d: "Das Kolonialamt in Berlin hat Statthalter [ROOT.GetLeader] gerügt, weil er es versäumt hat, das DKAEB über Wasser zu halten. Obwohl dies in gewisser Hinsicht verdient ist, müssen die Äthiopier auch einen Teil der Schuld tragen. Dennoch sind [ROOT.GetLeader]s politische Aussichten dadurch stark beschädigt worden."
+mittel.201.d: "Das Kolonialamt in Berlin hat Statthalter [MAF.GetLeader] gerügt, weil er es versäumt hat, das DKAEB über Wasser zu halten. Obwohl dies in gewisser Hinsicht verdient ist, müssen die Äthiopier auch einen Teil der Schuld tragen. Dennoch sind [MAF.GetLeader]s politische Aussichten dadurch stark beschädigt worden."
 mittel.201.a: "Arrogante Sesselpupser!"
 
 mittel.202.t: "Das Gambit gelingt"
-mittel.202.d: "Der Schachzug von Statthalter [ROOT.GetLeader], die Kontrolle über die DKAEB-Anteile zu übernehmen, ist von Berlin scheinbar unbemerkt geblieben. Der Plan zur Rettung des Deutschen Reiches in Afrika beginnt jetzt!"
+mittel.202.d: "Der Schachzug von Statthalter [MAF.GetLeader], die Kontrolle über die DKAEB-Anteile zu übernehmen, ist von Berlin scheinbar unbemerkt geblieben. Der Plan zur Rettung des Deutschen Reiches in Afrika beginnt jetzt!"
 mittel.202.a: "Kontaktieren Sie unseren neuen Partner in Addis Abeba!"
 
 mittel.300.t: "Update zu Mittelafrika: Polizist erschossen"

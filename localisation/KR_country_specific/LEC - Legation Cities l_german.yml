@@ -12,35 +12,8 @@ Legation_Cities: "Schwerpunktbaum von Gesandtschaft Städte"
  LEC_neutrality: "Internationale Neutralität"
  LEC_neutrality_desc: "Die Legationsstädte wurden 1928 durch ein internationales Abkommen gegründet und sollen unabhängig von der Weltlage allen Seiten gegenüber neutral bleiben... zumindest theoretisch."
 
-LEC_currency_1: "Devisenreserven - Erschöpft"
-LEC_currency_1_desc: "Die Währungsreserven der Gesandtschaft Städte stellen liquide Barmittel und Vermögenswerte dar, die vom Gesandtschaftsrat und dem Stadtrat von Shanghai legal und illegal gehalten werden. Die Städte sind nun bankrott, und die Stabilität schwindet rapide, da verschiedene politische Gruppierungen versuchen, aus dem kollabierenden Mandat zu holen, was sie können."
-LEC_currency_2: "Devisenreserven - Abgeschöpft"
-
-LEC_currency_2_desc: "Die Währungsreserven der Gesandtschaft Städte stellen liquide Barmittel und Vermögenswerte dar, die vom Gesandtschaftsrat und dem Stadtrat von Shanghai legal und illegal gehalten werden. Sollte sie zu tief fallen, hat das harte Konsequenzen, da die Städte in den Bankrott rutschen."
-
-LEC_currency_3: "Devisenreserven - Gering"
-LEC_currency_3_desc: "Die Währungsreserven der Gesandtschaft Städte stellen liquide Barmittel und Vermögenswerte dar, die vom Gesandtschaftsrat und dem Stadtrat von Shanghai legal und illegal gehalten werden. Sollte sie zu tief fallen, hat das harte Konsequenzen, da die Städte in den Bankrott rutschen."
-
-LEC_currency_4: "Devisenreserven - Unterdurchschnittlich"
-LEC_currency_4_desc: "Die Währungsreserven der Gesandtschaft Städte stellen liquide Barmittel und Vermögenswerte dar, die vom Gesandtschaftsrat und dem Stadtrat von Shanghai legal und illegal gehalten werden. Sollte sie zu tief fallen, hat das harte Konsequenzen, da die Städte in den Bankrott rutschen."
-
-LEC_currency_5: "Devisenreserven - Durchschnittlich"
-LEC_currency_5_desc: "Die Währungsreserven der Gesandtschaft Städte stellen liquide Barmittel und Vermögenswerte dar, die vom Gesandtschaftsrat und dem Stadtrat von Shanghai legal und illegal gehalten werden. Sollte sie zu tief fallen, hat das harte Konsequenzen, da die Städte in den Bankrott rutschen."
-
-LEC_currency_6: "Devisenreserven - Überdurchschnittlich"
-LEC_currency_6_desc: "Die Währungsreserven der Gesandtschaft Städte stellen liquide Barmittel und Vermögenswerte dar, die vom Gesandtschaftsrat und dem Stadtrat von Shanghai legal und illegal gehalten werden. Sollte sie zu tief fallen, hat das harte Konsequenzen, da die Städte in den Bankrott rutschen."
-
-LEC_currency_7: "Devisenreserven - Reichhaltig"
-LEC_currency_7_desc: "Die Währungsreserven der Gesandtschaft Städte stellen liquide Barmittel und Vermögenswerte dar, die vom Gesandtschaftsrat und dem Stadtrat von Shanghai legal und illegal gehalten werden. Sollte sie zu tief fallen, hat das harte Konsequenzen, da die Städte in den Bankrott rutschen."
-
-LEC_currency_8: "Devisenreserven - Groß"
-LEC_currency_8_desc: "Die Währungsreserven der Gesandtschaft Städte stellen liquide Barmittel und Vermögenswerte dar, die vom Gesandtschaftsrat und dem Stadtrat von Shanghai legal und illegal gehalten werden. Sollte sie zu tief fallen, hat das harte Konsequenzen, da die Städte in den Bankrott rutschen."
-
-LEC_currency_9: "Devisenreserven - Massiv"
-LEC_currency_9_desc: "Die Währungsreserven der Gesandtschaft Städte stellen liquide Barmittel und Vermögenswerte dar, die vom Gesandtschaftsrat und dem Stadtrat von Shanghai legal und illegal gehalten werden. Sollte sie zu tief fallen, hat das harte Konsequenzen, da die Städte in den Bankrott rutschen."
-
-LEC_currency_10: "Devisenreserven - Umwerfend"
-LEC_currency_10_desc: "Die Währungsreserven der Gesandtschaft Städte stellen liquide Barmittel und Vermögenswerte dar, die vom Gesandtschaftsrat und dem Stadtrat von Shanghai legal und illegal gehalten werden. Sollte sie zu tief fallen, hat das harte Konsequenzen, da die Städte in den Bankrott rutschen."
+LEC_currency: "Devisenreserven"
+LEC_currency_desc: "Die Währungsreserven der Gesandtschaft Städte stellen liquide Barmittel und Vermögenswerte dar, die vom Gesandtschaftsrat und dem Stadtrat von Shanghai legal und illegal gehalten werden. Die Städte sind nun bankrott, und die Stabilität schwindet rapide, da verschiedene politische Gruppierungen versuchen, aus dem kollabierenden Mandat zu holen, was sie können."
 
 LEC_american_up: "Amerikanischer Einfluss wächst"
 LEC_german_up: "Deutscher Einfluss wächst"
@@ -140,14 +113,14 @@ LEC_kaiserliche_sailing: "Deutsch-Schanghai Marineplanung"
 LEC_german_shanghai2: "Shanghai unter den Deutschen"
 
 ### Parties ###
-LEC_totalist_party: "Xintefa"
-LEC_totalist_party_long: "XinTeFa Büro\n§gDai Lis ideologische Enklave in Shanghai dominiert die Geheimdienstoperationen der Kuomintang und bildet eine informelle Ausrichtung innerhalb der Partei. Wo immer Sabotage und syndikalistische Unruhen anzutreffen sind, sind XinTeFa-Agenten sicher nicht weit entfernt.§!"
+LEC_totalist_party: "ZhongTeJu"
+LEC_totalist_party_long: "Büro für Nachrichtendienst und Sondermethoden (Zhongteju)\n§gDai Lis ideologische Enklave in Shanghai dominiert die nachrichtendienstlichen Operationen der Kuomintang und bildet eine informelle Strömung innerhalb der Partei. Wo immer Sabotage und syndikalistische Unruhen auftauchen, sind die Agenten von Zhongteju sicher nicht weit entfernt."
 LEC_syndicalist_party: "CSP"
 LEC_syndicalist_party_long: "Chinesische Syndikalistische Partei\n§gAls kleine und im Großen und Ganzen irrelevante Partei ist sie zwar in der Lage, eine kleine Präsenz in Shanghai und den anderen Mandatsstädten aufrechtzuerhalten, hinterlässt aber nur einen kleinen Fußabdruck.§!"
 LEC_radical_socialist_party: "KMT-Minsheng"
 LEC_radical_socialist_party_long: "Kuomintang Minsheng\n§gDie Minsheng-Fraktion der Kuomintang bildet die wichtigste ideologische Strömung der Partei und unterhält einige Zellen in den Gesandtschaftsstädten. Zum Glück sind sie für die örtliche Polizei nur ein kleines Ärgernis.§!"
 LEC_social_democrat_party: "KMT-Minquan"
-LEC_social_democrat_party_long: "Kuomintang Minquan\n§gDie Minquan-Fraktion der Kuomintang bildet ein alternatives und "liberaleres" Element der Partei, deren Aktivitäten in Shanghai von T.V. Soong, der Schwester der Fraktionsvorsitzenden Madame Soong Ching-ling, koordiniert werden.§!"
+LEC_social_democrat_party_long: "Kuomintang Minquan\n§gDie Minquan-Fraktion der Kuomintang bildet ein alternatives und "liberaleres" Element der Partei.§!"
 LEC_social_liberal_party: "Die Vermillion Gesellschaft"
 LEC_social_liberal_party_long: "Die Vermillion Gesellschaft\n§gEine große, breite Gruppe von Geschäftsleuten und einflussreichen Persönlichkeiten, die sich in der Regel als "chinesischstämmig" bezeichnen würden, wozu auch die "Eurasier" oder Männer gemischter Rasse gehören. Sie bilden Clubs und Interessengruppen auf verschiedenen Ebenen der Gesellschaft, aber überwiegend aus den monetären Klassen. Es ist ein offenes Geheimnis, dass die Gesellschaft nationalistisch ausgerichtet ist und die Mitglieder vor ihrer Gründung mindestens seit 1911, wenn nicht schon früher, die Revolution in China finanziert haben.Die "Führung" der Gesellschaft im Mandat liegt nominell bei Robert Ho Shai Lai, obwohl offen zugegeben wird, dass sein Vater, Sir Robert Hotung, die wahre Macht hinter der Gruppe ist.§!"
 LEC_social_conservative_party: "Der Hong Kong Club"
@@ -319,8 +292,8 @@ LEC_pressure_westerners_desc: "Der Westen und die Imperialisten haben den Fernen
 LEC_TMKKD: "Das TMKKD einrichten"
 LEC_TMKKD_desc: "Die TMKDD wird dazu dienen, die Bewohner der Gesandtschaftsstädte, die bereit sind, Japan zu helfen, in einen organisierten Dienst zu rekrutieren. Wir werden die Vorhut des japanischen Angriffs sein!"
 
-LEC_manchus_in_tianjin: "Mandschu Truppen in Tianjin"
-LEC_manchus_in_tianjin_desc: "Die japanischen Verbündeten in der Fengtian-Regierung sind vom Gesandtschaftsrat noch nicht anerkannt. Wenn wir außerdem wollen, dass sie über die [QIE.GetAdjective]-Regierung triumphieren, könnte es den Krieg zu ihren Gunsten kippen, wenn wir unseren chinesischen Verbündeten freien Durchgang durch Tianjin gewähren, wie es die Deutschen 1932 getan haben. Wir sollten Marschall Zhang entschlossen unterstützen!"
+ LEC_fengtian_troops_in_tianjin: "Fengtian Truppen in Tianjin"
+ LEC_fengtian_troops_in_tianjin_desc: "Die japanischen Verbündeten in der Fengtian-Regierung sind vom Gesandtschaftsrat noch nicht anerkannt. Wenn wir außerdem wollen, dass sie über die [QIE.GetAdjective]-Regierung triumphieren, könnte es den Krieg zu ihren Gunsten kippen, wenn wir unseren chinesischen Verbündeten freien Durchgang durch Tianjin gewähren, wie es die Deutschen 1932 getan haben. Wir sollten Marschall Zhang entschlossen unterstützen!"
 
 LEC_deal_with_zhang: "Geschäft mit Zhang Xiaolin"
 LEC_deal_with_zhang_desc: "Zhang Xiaolins Grüne Bande hat uns bei der Sicherung der Städte sehr geholfen. Allerdings ist seine Hilfe ein wenig anrüchig, und viele fragen sich nun, ob wir seine Dienste noch benötigen..."
@@ -1694,11 +1667,11 @@ lecbrits.50.d: "Obwohl die Gesandtschaftsstädte ein Netz internationaler Garant
 lecbrits.50.a: "Willkommen bei der Entente."
 lecbrits.50.b: "Das wäre zu riskant."
 
-lecbrits.51.t: "[CAN.GetNameDefCap] Akzeptiert"
+lecbrits.51.t: "[ENT.GetNameDefCap] Akzeptiert"
 lecbrits.51.d: "Die britische Krone hat unseren Vorschlag für ein Bündnis akzeptiert und entsendet derzeit Offiziere und einen Teil der Royal Navy zu unserer Unterstützung."
 lecbrits.51.a: "Großartig!"
 
-lecbrits.52.t: "[CAN.GetNameDefCap] weigert sich"
+lecbrits.52.t: "[ENT.GetNameDefCap] weigert sich"
 lecbrits.52.d: "Die Briten haben sich geweigert, engere Bindungen zwischen uns und ihrem Empire zuzulassen. Wir werden uns weiterhin auf die wackeligen internationalen Garantien verlassen müssen, die wir schon immer hatten."
 lecbrits.52.a: "Das ist schade."
 
@@ -1893,7 +1866,7 @@ lecyankded.22.t: "Die Gesandtschaftsstädte gewähren allen amerikanischen Frakt
 lecyankded.22.d: "In dem Wissen, dass es keine Möglichkeit gab, dass sich alle Mitglieder des Gesandtschaftsrates einigen konnten, und unter Hinweis auf das Beispiel Russlands, wo sowohl Wladiwostok als auch Moskau Abgesandte nach Schanghai schicken, hat der Rat beschlossen, allen amerikanischen Fraktionen, mit Ausnahme des roten Lagers im Norden, Beobachterrechte im Rat einzuräumen."
 lecyankded.22.a: "Ein guter Kompromiss."
 
-lecyankded.23.t: "[FromGetNameCapDef] Beantragt die Wiederherstellung ihrer Stimmrechte"
+lecyankded.23.t: "[FROM.GetName] Beantragt die Wiederherstellung ihrer Stimmrechte"
 lecyankded.23.d: "Der amerikanische Vertreter in Schanghai hat die Rückgabe der amerikanischen Stimmrechte gefordert, die ihm durch den Gesandtschaftsvertrag zustehen, da seine Konzessionen nicht beschlagnahmt wurden. Wir könnten uns zwar weigern, aber das wiedervereinigte Amerika zu brüskieren, könnte eine törichte Aktion sein. Aber vielleicht wäre es das Beste, ihren Einfluss in China in naher Zukunft zu begrenzen."
 lecyankded.23.a: "Der Rat muss darüber abstimmen."
 lecyankded.23.b: "Der Hohe Kommissar wird es durchsetzen."
@@ -2177,7 +2150,7 @@ lechotung.7.d: "Großartige Neuigkeiten! Es scheint, als hätten unsere Verbünd
 lechotung.7.a: "Hurra!"
 
 lechotung.8.t: "Eine Sackgasse"
-lechotung.8.d: "Es scheint, dass die China Agentur nicht so einfallsreich war, wie wir erwartet hatten. Während einer Operation in Shanghai konnten KMT-XinTeFa-Agenten mit wichtigen Dokumenten entkommen und zerstörten, was zurückgelassen wurde. Während dies der Vermillion Gesellschaft und der Kuomintang Auftrieb gibt, schadet es zumindest den Japanern, deren Köpfe in Tokio zu rollen beginnen."
+lechotung.8.d: "Es scheint, dass die China Agentur nicht so einfallsreich war, wie wir erwartet hatten. Während einer Operation in Shanghai konnten KMT-ZhongTeJu-Agenten mit wichtigen Dokumenten entkommen und zerstörten, was zurückgelassen wurde. Während dies der Vermillion Gesellschaft und der Kuomintang Auftrieb gibt, schadet es zumindest den Japanern, deren Köpfe in Tokio zu rollen beginnen."
 lechotung.8.a: "Verflixt!"
 
 lechotung.9.t: "In die Drachenhöhle"

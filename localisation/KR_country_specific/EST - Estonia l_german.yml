@@ -354,8 +354,6 @@ LAT_EST_roads_to_riga: "Alle Straßen führen nach Riga"
  EST_against_government_policy: "§RDiese Maßnahme verstößt gegen die Politik unserer Regierung!§!"
 
 ### Decisions ###
- EST_economy: "Estnische Wirtschaftsentwicklung"
- EST_economy_desc: "Da Estland nun unabhängig ist und die alten baltischen deutschen Großgrundbesitzer verschwunden sind, sind wir nun frei, das Land wirklich zu seinem vollen Potenzial zu entwickeln. Inwieweit wir dazu in der Lage sein werden, hängt jedoch von den Mitteln ab, mit denen [EST.GetLeader] Estland zu industrialisieren gedenkt."
  EST_three_year_plan_mission: "Vollendung des Dreijahresplans"
  EST_expand_tallinn_arms_factories: "Vollendung des Dreijahresplans"
  EST_industrial_investments_in_tallinn: "Industrielle Investitionen in Tallinn"

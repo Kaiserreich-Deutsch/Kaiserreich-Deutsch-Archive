@@ -465,6 +465,7 @@ GRE_shipbuilding_program_3: "Vollendet das Marineprogarmm"
 GRE_shipbuilding_program_3_desc: "Durch eine Kombination aus der Finanzierung unserer eigenen Werften und der Lizenzierung der Werften anderer Länder können wir unsere Flotte erweitern - einige der Schiffe sind vielleicht etwas älter, ja, aber dies ist ein viel schnellerer Weg, so viele Schiffe zu erwerben, als sonst möglich wäre."
 GRE_balkans_mission: "Verbessert Balkan-Kooperation"
 GRE_balkans_mission_desc: "Unsere Beziehungen zur [From.GetAdjective]en Regierung sind so gut, dass wir eine Mission in ihr Land schicken sollten, um eine stärkere Zusammenarbeit zwischen unseren Ländern zu fördern."
+ GRE_join_faction_decisions: "Außenpolitik"
 
 ### World Tension ###
  GRE_diplomatic_threat: "Ende von Megali"

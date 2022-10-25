@@ -63,9 +63,9 @@
  CAR_radical_socialist_ADJ: "Banguisch"
  CAR_radical_socialist_DEF: "die Bangui-Republik"
  
- CAR_EMR: "Schari-Emirat"
- CAR_EMR_ADJ: "Scharisch"
- CAR_EMR_DEF: "das Schari-Emirat"
+ CAR_EMR: "Dar-al-Kuti"
+ CAR_EMR_ADJ: "Dar-al-Kutisch"
+ CAR_EMR_DEF: "das Sultanat Dar-al-Kuti"
 
  CHA: "Tschad"
  CHA_ADJ: "Tschadisch"
@@ -491,8 +491,17 @@
  CAR_Binyamin_I: "Binyamin I"
 
 ### Characters ###
+ CHA_ahmed_koulamallah: "Ahmed Koulamallah"
+ CHA_mohamed_bechir_sow: "Mohamed Bechir Sow"
+ CHA_gontchome_sahoulba: "Gontchome Sahoulba"
+ CHA_pierre_olivier_lapie: "Pierre Olivier Lapie"
+ CHA_tobio_dit_markinzaye: "Tobio dit Markinzaye"
  CHA_muhammad_urada_ibn_ibrahim: "Muhammad Urada ibn Ibrahim"
+ CHA_mahamat_abdelkader: "Mahamat Abdelkader"
+ CHA_yorgui_koli: "Yorgui Koli"
 
+ CHA_georges_koudoukou: "Georges Koudoukou"
+ 
 ### Characters ###
  CMR_Alexander_Duala_Bell: "Alexander Duala Bell"
  CMR_Karl_Atangana: "Karl Atangana"
@@ -612,10 +621,18 @@
  UGA_Andrew_Cohen: "Andrew Cohen"
 
 ### Characters ###
- VOL_nazi_boni: "Nazi Boni"
+ VOL_christophe_kalenzaga: "Christophe Kalenzaga"
  VOL_henri_guissou: "Henri Guissou"
  VOL_joseph_ouedraogo: "Joseph Ouédraogo"
- VOL_joseph_conombo: "Joseph Conombo"
+ VOL_nazi_boni: "Nazi Boni"
+ VOL_dim_delobsom: "Antoine Augustin Dim Delobsom"
+ VOL_phillipe_kabore: "Phillippe Zinda Kabore"
+ VOL_mogho_naaba: "Mogho Naaba Kom II"
+ VOL_joseph_conombo: "Joseph Issoufou Conombo"
+ VOL_robert_delavignette: "Robert Louis Delavignette"
+
+ VOL_aboubakar_sangoule: "Aboubakar Sangoule Lamizana"
+ VOL_sambo_sankara: "Sambo Joseph Sankara"
 
 ### Characters ###
  ZAM_Kanyanta: "Kanyanta"
@@ -624,3 +641,132 @@
 ### Characters ###
  ZZB_Khalifa_II_bin_Harub_Al_Said: "Khalifa II bin Harub Al-Said"
 
+### Focus Tree ###
+ african_minors_focus: "Fokusbaum der afrikanischen Kleinstaaten"
+
+ AFR_Independence_Conflict: "Bewahrung unserer Souveränität"
+ AFR_Independence_Conflict_desc: "Der Kollaps Mittelafrikas hat uns endlich die Chance gegeben, einen unabhängigen Staat zu etablieren - und wir werden diese nicht vergeuden."
+
+ AFR_the_German_Remnants: "Die [AFR_FormerOverlord_ADJ]en Überbleibsel"
+ AFR_the_German_Remnants_desc: "Das rasche Ende der Kolonialherrschaft hat viele Soldaten zurückgelassen. Es sind allerdings auch große Mengen an Waffen und sonstiger Ausrüstung in unserer Nation verblieben."
+
+ AFR_Analyse_their_Equipment: "Untersuchung [AFR_FormerOverlord_ADJ]er Ausrüstung"
+
+ AFR_Petition_French_Republic: "Die Französische Republik um Unterstützung beten"
+ AFR_Petition_French_Republic_desc: "Wir brauchen Waffen und die Französische Republik wird uns sicherlich einige liefern können."
+
+ AFR_Petition_French_Commune: "Die Französische Kommune um Unterstützung beten"
+ AFR_Petition_French_Commune_desc: "Die Kommune wird uns sicherlich sympathisch gesinnt sein."
+
+ AFR_Open_Recruitment_Program: "Verstärktes Rekrutierungsprogramm"
+ AFR_Open_Recruitment_Program_desc: "Wir benötigen an der Front jede Hilfe, die wir kriegen können!"
+
+ AFR_independence_push: "Erhalt unserer Unabhängigkeit"
+ AFR_independence_push_desc: "Wir sind zum ersten Mal auf den Geschmack der Freiheit gekommen und werden unsere Chance auf Unabhängigkeit nicht so leicht vorbeiziehen lassen!"
+
+ AFR_a_Homegrown_Industry: "Eine eigene Industrie"
+ AFR_a_Homegrown_Industry_2: "Ausbau der Infrastruktur"
+ AFR_a_Homegrown_Industry_3: "Maschinerie für die Industrie"
+ AFR_a_Homegrown_Industry_4: "Aufblühen der Militärindustrie"
+ AFR_a_Homegrown_Industry_5: "[ROOT.GetAdjective]e Waffen"
+
+ AFR_international_waters: "Internationale Gewässer"
+ AFR_join_international_community: "Der internationalen Gemeinschaft beitreten"
+
+ AFR_petition_BEL: "Unterstützung aus Belgien"
+ AFR_petition_BRA: "Unterstützung aus Brasilien"
+ AFR_petition_CAN: "Unterstützung aus Kanada"
+ AFR_petition_EGY: "Unterstützung aus Ägypten"
+ AFR_petition_ENG: "Unterstützung aus Britannien"
+ AFR_petition_FRA: "Unterstützung aus der Kommune"
+ AFR_petition_GER: "Unterstützung aus Deutschland"
+ AFR_petition_LIB: "Unterstützung aus Liberien"
+ AFR_petition_NFA: "Unterstützung aus der Französischen Republik"
+ AFR_petition_POR: "Unterstützung aus Portugal"
+ AFR_petition_RAJ: "Unterstützung aus Britisch-Indien"
+ AFR_petition_SAF: "Unterstützung aus Südafrika"
+
+ AFR_military_advisors_BEL: "[BEL.GetAdjective]e Militäraufsicht"
+ AFR_military_advisors_BRA: "[BRA.GetAdjective]e Militäraufsicht"
+ AFR_military_advisors_CAN: "[CAN.GetAdjective]e Militäraufsicht"
+ AFR_military_advisors_EGY: "[EGY.GetAdjective]e Militäraufsicht"
+ AFR_military_advisors_ENG: "[ENG.GetAdjective]e Militäraufsicht"
+ AFR_military_advisors_FRA: "[FRA.GetAdjective]e Militäraufsicht"
+ AFR_military_advisors_GER: "[GER.GetAdjective]e Militäraufsicht"
+ AFR_military_advisors_LIB: "[LIB.GetAdjective]e Militäraufsicht"
+ AFR_military_advisors_NFA: "[NFA.GetAdjective]e Militäraufsicht"
+ AFR_military_advisors_POR: "[POR.GetAdjective]e Militäraufsicht"
+ AFR_military_advisors_RAJ: "[RAJ.GetAdjective]e Militäraufsicht"
+ AFR_military_advisors_SAF: "[SAF.GetAdjective]e Militäraufsicht"
+
+ AFR_economy_BEL: "[BEL.GetAdjective]e Wirtschaftsunterstützung"
+ AFR_economy_BRA: "[BRA.GetAdjective]e Wirtschaftsunterstützung"
+ AFR_economy_CAN: "[CAN.GetAdjective]e Wirtschaftsunterstützung"
+ AFR_economy_EGY: "[EGY.GetAdjective]e Wirtschaftsunterstützung"
+ AFR_economy_ENG: "[ENG.GetAdjective]e Wirtschaftsunterstützung"
+ AFR_economy_FRA: "[FRA.GetAdjective]e Wirtschaftsunterstützung"
+ AFR_economy_GER: "[GER.GetAdjective]e Wirtschaftsunterstützung"
+ AFR_economy_LIB: "[LIB.GetAdjective]e Wirtschaftsunterstützung"
+ AFR_economy_NFA: "[NFA.GetAdjective]e Wirtschaftsunterstützung"
+ AFR_economy_POR: "[POR.GetAdjective]e Wirtschaftsunterstützung"
+ AFR_economy_RAJ: "[RAJ.GetAdjective]e Wirtschaftsunterstützung"
+ AFR_economy_SAF: "[SAF.GetAdjective]e Wirtschaftsunterstützung"
+
+ AFR_investment_BEL: "Das [BEL.GetAdjective]e Wunder"
+ AFR_investment_BRA: "Das [BRA.GetAdjective]e Wunder"
+ AFR_investment_CAN: "Das [CAN.GetAdjective]e Wunder"
+ AFR_investment_EGY: "Das [EGY.GetAdjective]e Wunder"
+ AFR_investment_ENG: "Das [ENG.GetAdjective]e Wunder"
+ AFR_investment_FRA: "Das [FRA.GetAdjective]e Wunder"
+ AFR_investment_GER: "Das [GER.GetAdjective]e Wunder"
+ AFR_investment_LIB: "Das [LIB.GetAdjective]e Wunder"
+ AFR_investment_NFA: "Das [NFA.GetAdjective]e Wunder"
+ AFR_investment_POR: "Das [POR.GetAdjective]e Wunder"
+ AFR_investment_RAJ: "Das [RAJ.GetAdjective]e Wunder"
+ AFR_investment_SAF: "Das [SAF.GetAdjective]e Wunder"
+
+### Ideas ###
+ AFR_military_advisors_from_BEL: "[BEL.GetAdjective]e Militärberater"
+ AFR_military_advisors_from_BRA: "[BRA.GetAdjective]e Militärberater"
+ AFR_military_advisors_from_CAN: "[CAN.GetAdjective]e Militärberater"
+ AFR_military_advisors_from_EGY: "[EGY.GetAdjective]e Militärberater"
+ AFR_military_advisors_from_ENG: "[ENG.GetAdjective]e Militärberater"
+ AFR_military_advisors_from_FRA: "[FRA.GetAdjective]e Militärberater"
+ AFR_military_advisors_from_GER: "[GER.GetAdjective]e Militärberater"
+ AFR_military_advisors_from_LIB: "[LIB.GetAdjective]e Militärberater"
+ AFR_military_advisors_from_NFA: "[NFA.GetAdjective]e Militärberater"
+ AFR_military_advisors_from_POR: "[POR.GetAdjective]e Militärberater"
+ AFR_military_advisors_from_RAJ: "[RAJ.GetAdjective]e Militärberater"
+ AFR_military_advisors_from_SAF: "[SAF.GetAdjective]e Militärberater"
+
+ AFR_economic_boost: "Rapides Wirtschaftswachstum"
+
+### Events ###
+ afr.1.t: "Unterstützung aus dem Ausland"
+ afr.1.d: "Unsere derzeitige Lage ist äußerst prekär und die deutsche Kolonialherrschaft hat uns nur schlecht auf unsere Unabhängigkeit vorbereitet. Wir sollten versuchen, auf internationaler Ebene Unterstützung zu finden."
+ afr.1.BEL: "Bittet [BEL.GetNameDef] um Unterstützung."
+ afr.1.BRA: "Bittet [BRA.GetNameDef] um Unterstützung."
+ afr.1.CAN: "Bittet [CAN.GetNameDef] um Unterstützung."
+ afr.1.EGY: "Bittet [EGY.GetNameDef] um Unterstützung."
+ afr.1.ENG: "Bittet [ENG.GetNameDef] um Unterstützung."
+ afr.1.FRA: "Bittet [FRA.GetNameDef] um Unterstützung."
+ afr.1.GER: "Bittet [GER.GetNameDef] um Unterstützung."
+ afr.1.LIB: "Bittet [LIB.GetNameDef] um Unterstützung."
+ afr.1.NFA: "Bittet [NFA.GetNameDef] um Unterstützung."
+ afr.1.POR: "Bittet [POR.GetNameDef] um Unterstützung."
+ afr.1.RAJ: "Bittet [RAJ.GetNameDef] um Unterstützung."
+ afr.1.SAF: "Bittet [SAF.GetNameDef] um Unterstützung."
+ afr.1.alone: "Wir kommen auch allein klar."
+
+ afr.2.t: "[FROM.GetNameDefCap] bittet um Unterstützung"
+ afr.2.d: "[FROM.GetNameDefCap] hat uns mit dem Angebot einer Partnerschaft kontaktiert. Die deutsche Kolonialherrschaft hat sie nur schlecht auf ihre jetzige Unabhängigkeit vorbereitet, weshalb sie uns nun um Kapital gebeten haben, um ihre Wirtschaft ankurbeln zu können."
+ afr.2.a: "Wir werden ihnen geben, was sie benötigen."
+ afr.2.b: "Sie sind auf sich allein gestellt."
+
+ afr.3.t: "[FROM.GetNameDefCap] gewährt uns Unterstützung"
+ afr.3.d: "[FROM.GetNameDefCap] hat unser Angebot einer Partnerschaft angenommen."
+ afr.3.a: "Ausgezeichnet."
+
+ afr.4.t: "[FROM.GetNameDefCap] verwehrt uns Unterstützung"
+ afr.4.d: "[FROM.GetNameDefCap] hat unser Angebot einer Partnerschaft abgelehnt."
+ afr.4.a: "Wir brauchen sie sowieso nicht!"

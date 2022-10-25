@@ -160,7 +160,7 @@
  LIT_national_populist_party_long: "Lietuvos aktyvistų frontas (Litauische Aktivistische Front)\n§gDie Litauische Aktivistische Front ist eine litauische nationalistische Untergrundbewegung, die 1930 im Gefolge des Memel-Aufstands gegründet wurde. Sie vereint die radikalen, militanten und reaktionären Kräfte des litauischen politischen Spektrums, die in keiner der legalen politischen Parteien eine Heimat finden. Über die Funktionsweise der Bewegung ist nur wenig bekannt, aber es wird vermutet, dass sie keinen allgemein anerkannten Führer hat und unter mehreren einflussreichen politischen Visionen gespalten ist - trotzdem hält sie ein verbindendes Gefühl des Hasses auf Deutschland, die Regierung in Vilnius und Nicht-Litauer davon ab, sich aufzulösen. Sie verbreiten ihre Ideologie über Zeitschriften wie Vairas, Naujoji Romuva und Tautos Kelias und organisieren Proteste, Razzien und gelegentliche terroristische Aktivitäten. Sie nimmt nicht an Wahlen teil und hat dies auch nie versucht, da sie glaubt, dass sie über der "Psychose der Demokratie" steht.§!"
  
  LIT_paternal_autocrat_PLECH: "Plechavičius' Clique"
- LIT_paternal_autocrat_PLECH_long: "Plechavičius' Clique\n§gNachdem es der Zivilregierung nicht gelungen ist, den Tod von König Vytautas zu verhindern, hat General Povilas Plechavičius die Führung der Regierung übernommen. Da er nur das Überleben und die Stabilität Litauens im Auge hat, kennt er keine Skrupel in Bezug auf Verbündete oder Methoden."
+ LIT_paternal_autocrat_PLECH_long: "Plechavičius' Clique\n§gNachdem es der Zivilregierung nicht gelungen ist, den Tod von König Vytautas zu verhindern, hat General Povilas Plechavičius die Führung der Regierung übernommen. Da er nur das Überleben und die Stabilität Litauens im Auge hat, kennt er keine Skrupel in Bezug auf Verbündete oder Methoden.§!"
 
  ### Leader Traits ###
  LIT_unpopular_monarch: "Unpopulärer Monarch"
@@ -640,7 +640,7 @@
  LIT_military_supply_2_desc: "Jetzt können deutsche Waffenteile nach entsprechender Investition leicht zusammengebaut und an litauische Einheiten, die im Krieg kämpfen, geliefert werden."
  
  LIT_asis_reg_0: "Vorübergehende Regentschaft"
- LIT_asis_reg_0_desc: "In einer Dringlichkeitssitzung des Seimas wurden [LIT.GetHeadOfGovernment] vorübergehend Regentschaftsbefugnisse übertragen, um das Land wieder auf Kurs zu bringen."
+ LIT_asis_reg_0_desc: "In einer Dringlichkeitssitzung des Seimas wurden [LIT.GetSecondInCommand] vorübergehend Regentschaftsbefugnisse übertragen, um das Land wieder auf Kurs zu bringen."
 
  LIT_asis_reg_1: "Regent Narutowicz"
  LIT_asis_reg_1_desc: "Da die Beseitigung der Bedrohung durch die LAF Vorrang hat, hat Narutowicz die entsprechenden Maßnahmen ergriffen, um einen ständigen Regenten einzusetzen, bis die Ordnung wiederhergestellt ist."
@@ -1224,7 +1224,7 @@
  LIT_Plech_eastern_threat_desc: "Die territorialen Ambitionen Russlands werden die Unabhängigkeit unserer Nation immer bedrohen. Einst war Litauen ein Teil Russlands, und das wollen wir nicht noch einmal erleben. Während der Bär im Osten erneut zu mobilisieren beginnt, um seine osteuropäische Hegemonie wiederherzustellen, muss sich Litauen darauf vorbereiten, in dem bevorstehenden Krieg alles zu geben oder in den Flammen unterzugehen, die sich daraus ergeben. Bereiten Sie sich auf den Kampf vor, oder gehen Sie im Sturm unter."
 
  LIT_Plech_vilnius_minsk: "[96.GetCapitalVictoryPointName] nach [206.GetCapitalVictoryPointName]"
- LIT_Plech_vilnius_minsk_desc: "[206.GetCapitalVictoryPointName], die Hauptstadt von [WHR.GetCapitalVictoryPointName], wird bei einem Krieg mit dem Russischen Bären an vorderster Front stehen. Es wurden Anstrengungen unternommen, die Nachschublinien nach [206.GetCapitalVictoryPointName] weiter auszubauen, um sicherzustellen, dass unsere Streitkräfte unsere weißrussischen Brüder unterstützen können."
+ LIT_Plech_vilnius_minsk_desc: "[206.GetCapitalVictoryPointName], die Hauptstadt von [WHR.GetCapitalVictoryPointName], wird bei einem Krieg mit dem Russischen Bären an vorderster Front stehen. Es wurden Anstrengungen unternommen, die Nachschublinien nach [WHR.GetNameDef] weiter auszubauen, um sicherzustellen, dass unsere Streitkräfte unsere weißrussischen Brüder unterstützen können."
  
  LIT_Plech_unity: "Symbol der Einheit"
  LIT_Plech_unity_desc: "Der König führt uns alle, die Litauer. Er ist einer von uns, egal welche Sprache wir sprechen oder welcher Religion wir folgen."
@@ -1978,7 +1978,7 @@
  LIT.257.a: "Sogar am helllichten Tag?"
 
  LIT.258.t: "Armee bleibt neutral"
- LIT.258.d: "Während der Bürgerkrieg im Königreich sein hässliches Haupt erhebt, werden die Königlichen Litauischen Verteidigungsstreitkräfte immer mehr gespalten. Es ist unbestreitbar, dass es im Offizierskorps, insbesondere in der radikaleren jungen Garde, Sympathien für Voldemaras gibt. Der Generalstabschef der Streitkräfte, Stasys Raštikis, hat jedoch versucht, das delikate Problem zu bewältigen, indem er die Sympathisanten der LAF im Hintergrund hielt, ohne ihnen das Kommando zu verweigern. Im Moment steht die Armee auf der Seite der rechtmäßigen Regierung, aber der schleichende Zweifel bleibt bestehen."
+ LIT.258.d: "Während der Bürgerkrieg im Königreich sein hässliches Haupt erhebt, werden die Königlichen Litauischen Verteidigungsstreitkräfte immer mehr gespalten. Es ist unbestreitbar, dass es im Offizierskorps, insbesondere in der radikaleren jungen Garde, Sympathien für Voldemaras gibt. Der angesehene Sprecher der Streitkräfte, Stasys Raštikis, hat jedoch versucht, das delikate Problem zu bewältigen, indem er die Sympathisanten der LAF im Hintergrund hielt, ohne ihnen das Kommando zu verweigern. Im Moment steht die Armee auf der Seite der rechtmäßigen Regierung, aber der schleichende Zweifel bleibt bestehen."
  LIT.258.a: "Nicht großartig, nicht schrecklich."
 
  LIT.259.t: "Minderheiten schikaniert"
@@ -1994,11 +1994,11 @@
  LIT.261.a: "Geben Sie grünes Licht für die Zerschlagung dieser Travestie!"
 
  LIT.262.t: "Radiosender überprüft"
- LIT.262.d: "Der Polizei ist es gelungen, eines der Verstecke der LAF zu stürmen, die ihre Radiopropaganda ausstrahlen. Nach einer langwierigen Durchsuchung wurden alle Informationen über die Partei zusammengetragen und an mehrere Mitglieder der Regierung, der Armee und an Šalkauskis selbst weitergegeben. Zu Šalkauskis' Entsetzen hat es den Anschein, dass einer seiner engsten Freunde, Antanas Maceina, mit den LAF-Terroristen in Verbindung gebracht wurde und dass Mitglieder seiner Naujoji Romuva die LAF-Terroranschläge unterstützt oder sich sogar daran beteiligt haben. Erschwerend kommt hinzu, dass Mitglieder der Ateitis, einer christlichen Jugendorganisation mit engen Verbindungen zu Šalkauskis, von der LAF kompromittiert wurden, die bereits einige interne Säuberungen durchführte. Mehrere Mitglieder wurden aus der Organisation entfernt, obwohl es scheint, dass der Einfluss der LAF durch Korruption und Unmoral tiefer geht, als irgendjemand gedacht hätte."
+ LIT.262.d: "Der Polizei ist es gelungen, eines der Verstecke der LAF zu stürmen, das ihre Radiopropaganda ausstrahlt. Nach einer langwierigen Durchsuchung wurden alle Informationen über die Partei zusammengetragen und an mehrere Mitglieder der Regierung und der Armee weitergegeben. Die pro-Voldemaras-Verschwörung scheint tiefer zu reichen als zunächst angenommen. Mehrere Organisationen, wie Antanas Maceinas Naujoji Romuva und die Ateitis, eine christliche Jugendorganisation mit engen Verbindungen zur LKDP, wurden von der LAF kompromittiert. Mehrere Mitglieder wurden aus der Ateitis entfernt, obwohl es den Anschein hat, dass die Korruption und der unmoralische Einfluss der LAF tiefer reichen, als irgendjemand gedacht hat."
  LIT.262.a: "Sie haben die falsche Seite gewählt."
 
  LIT.263.t: "Maceinas Kooperation gesichert"
- LIT.263.d: "Nachdem er sich den örtlichen Behörden gestellt hatte, wurde Antanas Maceina eilig in eine Gefängniszelle in Vilnius gebracht. Um mehr über die Führung, Bewegungen und Standorte der LAF zu erfahren, wurde Maceina von der litauischen Armee brutal verhört. Trotz Maceinas Widerstand scheinen die harten Methoden des litauischen Militärs Früchte getragen zu haben, denn Maceina ist schließlich zusammengebrochen. Er verriet, dass sich seine Anhänger seit seiner Gefangennahme in Scharen nach Voldemaras begeben haben und dass es offenbar zu internen Unruhen in der Führung der LAF gekommen ist. Er hat auch wichtige Bewegungen und Verstecke der LAF aufgedeckt und sogar den Aufenthaltsort von Vytautas Atlanta, seinem Rivalen, verraten. Dennoch war dies ein wichtiger Sieg im Kampf gegen die LAF, deren Führung immer schwächer zu werden scheint. Jetzt, da die Bewegungen der LAF aufgedeckt sind, kann das Militär endlich loslegen. Maceina hat für eine Amnestie plädiert und behauptet, er habe nie geglaubt, dass die LAF zur Gewalt greifen würde, und er sei innerhalb der LAF einer derjenigen gewesen, die sich am lautesten gegen den Terrorismus ausgesprochen hätten. Ob er aufrichtig ist oder nicht, werden die Geschworenen entscheiden, aber er wird in seiner kalten Zelle sitzen und über seine Taten und Entscheidungen nachdenken, die ihn hierher gebracht haben."
+ LIT.263.d: "Nachdem er sich den örtlichen Behörden gestellt hatte, wurde Antanas Maceina eilig in eine Gefängniszelle in Vilnius gebracht. Um mehr über die Führung, Bewegungen und Standorte der LAF zu erfahren, wurde Maceina von der litauischen Armee brutal verhört. Trotz Maceinas Widerstand scheinen die harten Methoden des litauischen Militärs Früchte getragen zu haben, denn Maceina ist schließlich zusammengebrochen. Er verriet, dass sich seine Anhänger seit seiner Gefangennahme in Scharen nach Voldemaras begeben haben und dass es offenbar zu internen Unruhen in der Führung der LAF gekommen ist. Er hat auch wichtige Bewegungen und Verstecke der LAF aufgedeckt und sogar den Aufenthaltsort von Vytautas Alantas, seinem Rivalen, verraten. Dennoch war dies ein wichtiger Sieg im Kampf gegen die LAF, deren Führung immer schwächer zu werden scheint. Jetzt, da die Bewegungen der LAF aufgedeckt sind, kann das Militär endlich loslegen. Maceina hat für eine Amnestie plädiert und behauptet, er habe nie geglaubt, dass die LAF zur Gewalt greifen würde, und er sei innerhalb der LAF einer derjenigen gewesen, die sich am lautesten gegen den Terrorismus ausgesprochen hätten. Ob er aufrichtig ist oder nicht, werden die Geschworenen entscheiden, aber er wird in seiner kalten Zelle sitzen und über seine Taten und Entscheidungen nachdenken, die ihn hierher gebracht haben."
  LIT.263.a: "Gute Information, wir werden sie schon noch erwischen."
 
  LIT.264.t: "Die Gefangennahme von Alantas"
@@ -2006,7 +2006,7 @@
  LIT.264.a: "Zeit, das Spiel zu beenden."
 
  LIT.265.t: "Ein eiserner Käfig für einen eisernen Wolf"
- LIT.265.d: "Die Führung der LAF war praktisch aufgelöst worden, und ihre Mitglieder waren größtenteils in alle Winde verstreut. Aus den Informationen von Maceina und Alantas ging hervor, dass die LAF aufgrund interner Führungskonflikte, die die Partei zu zerreißen drohten, schwächlich geworden war. Obwohl Voldemaras nun de facto der Anführer der LAF war und keinen Widerstand leistete, war sein zentraler Standort tief in den litauischen Wäldern aufgedeckt worden, und seine Kräfte wurden immer geringer und schwächer. Nachrichtendienstliche Berichte deuten darauf hin, dass Voldemaras' Kreis immer kleiner wird und er derzeit am verletzlichsten ist. Mit Zustimmung von Šalkauskis plante das Militär eine Operation mit handverlesenen Freiwilligen, die keine Verbindungen zu den LAF hatten. Endlich war es an der Zeit, Litauen von diesem schrecklichen Alptraum zu befreien und die abscheuliche Bedrohung durch die LAF ein für alle Mal zu beenden."
+ LIT.265.d: "Die Führung der LAF war praktisch aufgelöst worden, und ihre Mitglieder waren größtenteils in alle Winde verstreut. Aus den Informationen von Maceina und Alantas ging hervor, dass die LAF aufgrund interner Führungskonflikte, die die Partei zu zerreißen drohten, schwächlich geworden war. Obwohl Voldemaras nun de facto der Anführer der LAF war und keinen Widerstand leistete, war sein zentraler Standort tief in den litauischen Wäldern aufgedeckt worden, und seine Kräfte wurden immer geringer und schwächer. Nachrichtendienstliche Berichte deuten darauf hin, dass Voldemaras' Kreis immer kleiner wird und er derzeit am verletzlichsten ist. Mit Zustimmung von [GetSecondInCommand] plante das Militär eine Operation mit handverlesenen Freiwilligen, die keine Verbindungen zu den LAF hatten. Endlich war es an der Zeit, Litauen von diesem schrecklichen Alptraum zu befreien und die abscheuliche Bedrohung durch die LAF ein für alle Mal zu beenden."
  LIT.265.a: "Endlich können wir uns von diesen Ärgernissen befreien."
 
  LIT.266.t: "Voldemaras niedergeschlagen"
@@ -2202,7 +2202,7 @@
 
  LIT.353.t: "Wahlen in der Republik Litauen" 
  LIT.353.d: "Während die neuen Parteien und Bündnisse die Politik gestalten, finden die ersten Wahlen in der neuen litauischen Republik statt. Die Wähler sind zu den Urnen gegangen, und nun wartet das Land mit Spannung auf die Ergebnisse. Beide traditionellen Parteien haben Chancen auf den Sieg, aber die liberale Santara-Partei, die durch die Neuordnung der Politik gestärkt wurde, wird von vielen als Nachfolgerin der Politik von Narutowicz gesehen."
- LIT.353.a: "Die LKDP kommt unter Stasys Salkauskis an die Macht!"
+ LIT.353.a: "Die LKDP kommt unter Stasys Šalkauskis an die Macht!"
  LIT.353.b: "Die LSDP gewinnt, und Steponas Kairys ist der neue Führer Litauens!"
  LIT.353.c: "Zum Erstaunen aller gewinnt die Santara irgendwie."
 
@@ -2315,7 +2315,7 @@
 
  LIT_vaclovas_sidzikauskas: "Vaclovas Sidzikauskas"
  
- LIT_stasys_salkauskis: "Stasys Salkauskis"
+ LIT_stasys_salkauskis: "Stasys Šalkauskis"
  LIT_stasys_salkauskis_leader_desc: "Stasys Šalkauskis entstammte einer Familie des Kleinadels mit polnisch-litauischem Erbe und wuchs in bescheidenen Verhältnissen auf. Er gehörte zu einer neuen Generation litauischsprachiger Intellektueller aus den letzten Tagen des russischen Reiches. Er entschied sich für ein Jurastudium an der Moskauer Universität, eine Entscheidung, die seinen weiteren Lebensweg bestimmen sollte. Die Erfahrung der nihilistischen und atheistischen Atmosphäre der russischen Intelligenz zwang ihn, sich noch stärker an seinen katholischen Glauben zu klammern, da er erkannte, dass dessen Universalismus und Barmherzigkeit, gestützt auf eine reflektierende Philosophie, die beste Antwort auf die grundlegenden Fragen des Lebens ist. Diese Überzeugung wurde durch den Briefwechsel mit Adomas Jakštas und das Studium an der katholischen Universität Freiburg in der Schweiz gestärkt.\n\nŠalkauskis ist kein Politiker von Beruf und fühlt sich in der Philosophie viel wohler, aber seine komplexe Vision einer neuen, barmherzigen christlichen Gesellschaft hat viele in der Christdemokratischen Partei überzeugt. Das Streben nach einem "optimalen Regierungssystem", die Notwendigkeit einer von Solidarität und Antikapitalismus geleiteten Regierung und eine ganzheitliche Interpretation Litauens als eine Synthese aus östlicher und westlicher Kultur sind die Hauptpunkte seiner Ideologie."
 
  LIT_antanas_smetona: "Antanas Smetona"

@@ -3541,7 +3541,7 @@
  ICE_nav_bomber_equipment_2_short: "T.VIII"
 
 ###
-### INC - Indochinese Union ###
+### INC - Indochina ###
 ###
 
  INC_CAS_equipment_1: "Breguet Br.693"
@@ -6615,7 +6615,7 @@ LIT_transport_plane_equipment_1_short: "Ju 52"
 # Transport
  # Aero A.204, license-built:
  SIA_transport_plane_equipment_1: "Kruengbin Lamliang Baebthi-1 Phaichayont"
- SIA_transport_plane_equipment_1_desc: "KorLor.1 Phaichayont"
+ SIA_transport_plane_equipment_1_short: "KorLor.1 Phaichayont"
 
 # JET Interceptor
  # Never exists:

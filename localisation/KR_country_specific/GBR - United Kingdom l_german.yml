@@ -101,6 +101,12 @@
  GBR_overlord_not_capt: "Oberherr hat nicht kapituliert"
  NAME_THEME_ADMIRALS: "Berühmte Admirale"
 
+ ENT_king_george_v: "§Y$GBR_george_frederick_windsor$§! ist der Britische Monarch"
+ ENT_king_edward_viii: "§Y$GBR_edward_windsor$§! ist der Britische Monarch"
+ ENT_king_albert_i: "§Y$GBR_albert_windsor$§! ist der Britische Monarch"
+ ENT_king_henry_ix: "§Y$GBR_henry_windsor$§! ist der Britische Monarch"
+ ENT_king_george_vi: "§Y$GBR_george_windsor$§! ist der Britische Monarch"
+
 ### Companies ###
  UK_imperial_chemical_industries: "Imperial Chemical Industries"
  UK_english_electric: "English Electric"
@@ -185,8 +191,8 @@
  GBR_demand_england_desc: "[From.GetNameDefCap] besitzt derzeit Land von Großbritannien, Land, das eigentlich uns gehört. Sie sollten es sofort zurückgeben."
  GBR_demand_uk_state: "Forderung [From.GetNameDef]"
  GBR_demand_uk_state_desc: "[From.GetNameDefCap] ist ein Teil des Vereinigten Königreichs und sollte nicht außerhalb unserer Kontrolle sein. Wir müssen versuchen, es sofort wieder in den Schoß zu holen."
- GBR_restore_order_n_ireland: "Wiederherstellung der Ordnung in Nordirland"
- GBR_restore_order_n_ireland_desc: "Die Loyalisten in Nordirland sind froh, wieder unter britischer Kontrolle zu sein - aber sie sind nicht alle in Nordirland, und es bedarf einiger Anstrengungen, um die Ordnung in der Region wiederherzustellen und das Gebiet ordnungsgemäß in das Vereinigte Königreich einzugliedern."
+ GBR_restore_order_in_ireland: "Wiederherstellung der Ordnung in Nordirland"
+ GBR_restore_order_in_ireland_desc: "Die Loyalisten in Nordirland sind froh, wieder unter britischer Kontrolle zu sein - aber sie sind nicht alle in Nordirland, und es bedarf einiger Anstrengungen, um die Ordnung in der Region wiederherzustellen und das Gebiet ordnungsgemäß in das Vereinigte Königreich einzugliedern."
  GBR_restore_order_falklands: "Wiederherstellung der Ordnung auf den Falklandinseln"
  GBR_restore_order_gibraltar: "Wiederherstellung der Ordnung in Gibraltar"
  GBR_demand_northern_ireland: "Forderung Nordirland"
@@ -259,6 +265,7 @@
  GBR_parliamentary_reform_desc: "Unser derzeitiges Wahlsystem führt zu Parlamenten, die nicht repräsentativ für den Willen des Volkes sind. Eine Partei mit einer Minderheit von Stimmen kann eine Mehrheit im Unterhaus erlangen. Wir müssen daher das Wahlsystem so reformieren, dass die Wähler eine Liste von Vorzugskandidaten vorschlagen können, und sicherstellen, dass die Wahlen nicht die Reichen begünstigen, indem sie dem Staat die zusätzlichen Kosten des Wahlkampfes aufbürden."
  GBR_female_equality: "Die Gleichstellung der Frau in Britannien durchsetzen"
  GBR_female_equality_desc: "Die Familie ist die Grundlage unseres nationalen Lebens. Die Liberalen waren die ersten, die Familienbeihilfen forderten, und sie sind entschlossen, eine angemessene Versorgung für Mutterschaft und Kinderwohl sicherzustellen. Die Liberale Partei fordert für Frauen Chancen- und Statusgleichheit; sie steht für gleichen Lohn für gleiche Arbeit und für gleiche Chancen beim Zugang zum öffentlichen Dienst."
+ GBR_shipbuilding_program: "Modernisierungsprogramm für die Marine"
  GBR_canadian_shipbuilding_program_1: "1. kanadisches Sanierungsprogramm"
  GBR_canadian_shipbuilding_program_1_desc: "Wir haben mit der kanadischen Regierung vereinbart, eine Reihe von Zerstörern der älteren Klasse zu überholen, die im Hafen von Halifax umgerüstet werden sollen."
  GBR_canadian_shipbuilding_program_2: "2. kanadisches Sanierungsprogramm"
@@ -834,7 +841,27 @@
  uk.143.a: "Als ob wir nein sagen würden!"
 
 ### Characters ###
- GBR_houses_of_parliament: "Parlamentshäuser"
+ GBR_george_frederick_windsor: "George V"
+ GBR_george_frederick_windsor_leader_desc: "Der König-Imperator, wie er sich immer noch nennt, regiert seit 26 Jahren über das Britische Imperium. Er bestieg den Thron 1910 auf dem Höhepunkt des Ruhms seines Reiches, eines Reiches, über dem die Sonne nie unterging, aber seine Herrschaft überwachte den schnellen Niedergang der britischen Macht. Der Verlust des Weltkriegs an seinen eigenen Cousin, der Verlust seines jüngsten Sohnes John und der endgültige, verheerende Verlust Großbritanniens selbst haben Georg V. den Geist weitgehend gebrochen. Auch sein Gesundheitszustand hat sich seit der Flucht nach Kanada verschlechtert, das George privat als "ein gefrorenes Gefängnis" bezeichnet. Er hat jegliches Interesse daran verloren, sich an innenpolitischen Angelegenheiten zu beteiligen, und überlässt die zeremoniellen Aufgaben, die ihm möglich sind, seinem Sohn Prinz Edward. Er lebt nur noch für die Rückkehr nach Großbritannien, aber diese Aussicht wird von Tag zu Tag geringer."
+
+ GBR_edward_windsor: "Edward, Prinz von Wales"
+ GBR_edward_windsor_regnal: "Edward VIII"
+ GBR_edward_windsor_leader_desc: "Nach dem Tod seines Vaters, König-Imperator Georg V., wurde Edward von Windsor in einer aufwendigen Zeremonie in Ottawa gekrönt. Der junge Monarch, der bei seiner Inthronisierung besonders feierlich auftrat, erbte ein Reich, das zweifellos nur noch ein Schatten seines früheren Glanzes ist, und ein Königreich, das von syndikalistischen Revolutionären besetzt ist. Unbeirrt hält König Edward vor allem an dem Wunsch fest, dass die Fahne des Vereinigten Königreichs wieder stolz über den britischen Inseln weht."
+
+ GBR_albert_windsor: "Albert, Herzog von York"
+ GBR_albert_windsor_regnal: "Albert I"
+ GBR_albert_windsor_governor: "Prinz Albert"
+ GBR_albert_windsor_leader_desc: "Prinz Albert von Windsor, der jüngere Bruder des britischen Königs Edward VIII, wurde zum Generalgouverneur von Kanada ernannt. Obwohl er als Kind wegen seines auffälligen Stotterns verspottet wurde, entwickelte sich Albert zu einem besonnenen und pflichtbewussten Mann. Während die Kanadier Alberts Tugendhaftigkeit zu schätzen wissen, erwarteten viele in der Regierung, dass die Ernennung zum Generalgouverneur wieder in das Ermessen des Kanadischen Parlaments gestellt werden würde. Ungeachtet der Enttäuschung einiger, ist Albert jedoch sehr beliebt. Während Edward mit dem Wiederaufbau des kürzlich zurückeroberten Britanniens beschäftigt ist, bemüht sich Albert eifrig darum, dass Kanada ordnungsgemäß regiert wird."
+ GBR_albert_windsor_AST_leader_desc: "Prinz Albert von Windsor, der ältere Bruder des verstorbenen Prinz George, wurde zum Generalgouverneur von Australasien ernannt. Obwohl er als Kind wegen seines auffälligen Stotterns verspottet wurde, entwickelte sich Albert zu einem besonnenen und pflichtbewussten Mann. Während die Australier Alberts Tugendhaftigkeit zu schätzen wissen, erwarteten viele in der Regierung, dass die Ernennung zum Generalgouverneur wieder in das Ermessen des Australasiatischen Parlaments gestellt werden würde. Ungeachtet der Enttäuschung einiger ist Albert jedoch sehr beliebt. Während das Land noch immer um den tragischen Flugzeugabsturz trauert, arbeitet Albert eifrig daran, dass Australasien ordnungsgemäß regiert wird."
+
+ GBR_henry_windsor: "Henry, Herzog von Gloucester"
+ GBR_henry_windsor_regnal: "Henry IX"
+ GBR_henry_windsor_governor: "Prinz Henry"
+ GBR_henry_windsor_AST_leader_desc: "Prinz Henry von Windsor, der ältere Bruder des verstorbenen Prinz George, ist zum Generalgouverneur von Australasien ernannt worden. Obwohl er als äußerst nervöses Kind galt, entwickelte sich Henry zu einem aktiven und bescheidenen Mann. Während die Australier Henrys Tugendhaftigkeit zu schätzen wissen, erwarteten viele in der Regierung, dass die Ernennung zum Generalgouverneur wieder in das Ermessen des Australasiatischen Parlaments gestellt werden würde. Ungeachtet der Enttäuschung einiger ist Henry jedoch sehr beliebt. Während das Land noch immer um den tragischen Flugzeugabsturz trauert, arbeitet Henry eifrig daran, dass Australasien ordnungsgemäß regiert wird."
+
+ GBR_george_windsor: "George, Herzog von Kent"
+ GBR_george_windsor_regnal: "George VI"
+ GBR_george_windsor_governor: "Prinz George"
 
  GBR_hugh_gaitskell: "Hugh Gaitskell"
  GBP_hugh_gaitskell_leader_desc: "Als er 1924 in Oxford studierte, erlebte er die ersten Ausläufer der Revolution und unterstützte, anders als viele seiner Kommilitonen, den Generalstreik. Als die Revolution ausbrach, war Gaitskell schnell bereit, sie zu unterstützen und erlebte aus erster Hand die politische Unterdrückung der Arbeiterbewegung durch die konservative Regierung. Trotz seiner Unterstützung für die Revolution führte das brutale Vorgehen gegen 'reaktionäre Agitatoren' dazu, dass er sich bald den gemäßigteren Kräften anschloss und ein entschiedener Anhänger der wiedererstandenen fabianischen Labour Party wurde. Ein Gefängnisaufenthalt wegen konterrevolutionärer Aktivitäten führte zu einem weiteren Rechtsruck, so dass Gaitskell vor der Auflösung der Partei zu den gemäßigten Kräften gehörte. Jetzt, da die Union tot ist, ist es Gaitskell gelungen, die alte Labour-Partei unter den gemäßigtesten Elementen neu zu organisieren, in der Hoffnung, einen schmerzlosen Übergang vom Syndikalismus zu einer demokratischen und freien Gesellschaft zu schaffen."
@@ -858,12 +885,10 @@
  GBR_anthony_eden: "Robert Anthony Eden"
  GBR_robert_gascoyne_cecil: "Edgar Algernon Robert Gascoyne-Cecil"
  GBR_robert_vansittart: "Robert Gilbert Vansittart"
+ GBR_houses_of_parliament: "Parlamentshäuser"
  GBR_henry_page_croft: "Henry Page Croft"
  GBR_clement_attlee: "Clement Richard Attlee"
  GBR_john_simon: "John Allsebrook Simon"
-
- GBR_charles_henry_maxwell_knight: "Charles Henry Maxwell Knight"
- GBR_william_maxwell_aitken: "William Maxwell Aitken"
 
  GBR_joseph_kenworthy: "Joseph Kenworthy"
  GBR_philip_noel_baker: "Philip Noel Baker"
@@ -879,6 +904,33 @@
  GBR_gerald_wallop: "Gerald Wallop"
  GBR_john_anderson: "John Anderson"
  GBR_montagu_norman: "Montagu Norman"
+ GBR_charles_henry_maxwell_knight: "Charles Henry Maxwell Knight"
+ GBR_william_maxwell_aitken: "William Maxwell Aitken"
+
+ GBR_bernard_montgomery: "Bernard Law Montgomery"
+ GBR_harold_alexander: "Harold Rupert Alexander"
+ GBR_henry_maitland_wilson: "Henry Maitland Wilson"
+ GBR_adrian_carton_de_wiart: "Adrian Carton de Wiart"
+ GBR_orde_wingate: "Orde Charles Wingate"
+ GBR_robert_brooke_popham: "Robert Brooke-Popham"
+ GBR_philip_neame: "Philip Neame"
+ GBR_alan_brooke: "Alan Francis Brooke"
+ GBR_richard_o_connor: "Richard Nugent O'Connor"
+ GBR_john_dill: "John Greer Dill"
+ GBR_john_vereker: "John Vereker"
+
+ GBR_john_cunningham: "John Cunningham"
+ GBR_louis_mountbatten: "Louis Mountbatten"
+ GBR_roger_backhouse: "Roger Roland Charles Backhouse"
+ GBR_tom_phillips: "Tom Spencer Vaughan Phillips"
+ GBR_dudley_pound: "Alfred Dudley Pound"
+ GBR_james_somerville: "James Fownes Somerville"
+ GBR_john_tovey: "John Cronyn Tovey"
+
+ GBR_arthur_travers_harris: "Arthur Travers Harris"
+ GBR_charles_frederick_algernon_portal: "Charles Frederick Algernon Portal"
+ GBR_hugh_montague_trenchard: "Hugh Montague Trenchard"
+ GBR_john_frederick_charles_fuller: "John Frederick Charles Fuller"
 
 ### Traits ###
  GBR_british_pm_in_exile: "Britischer PM im Exil"
@@ -891,7 +943,21 @@
  GBR_little_hugh: "Kleiner Hugh"
  GBR_little_englander: "Kleiner Engländer"
 
+ GBR_cannot_replace_british_pm: "§YDer britische Premierminister kann nur durch ein Ereignis gewechselt werden.§!"
+
  GBR_diligent_judge: "Fleißiger Richter"
  GBR_germanophobic_businessman: "Deutschfeindlicher Geschäftsmann"
 
- GBR_cannot_replace_british_pm: "§YDer Britische Premierminister kann nur durch ein Ereignis gewechselt werden.§!"
+ GBR_autocratic_tendencies: "Autokratische Tendenzen"
+ GBR_unpopular_monarch: "Unpopulärer Monarch"
+ GBR_humble: "Demütig"
+ GBR_popular_figurehead: "Populäre Galionsfigur"
+ GBR_biddable: "Fügsam"
+ GBR_army_experience: "Armee-Erfahrung"
+ GBR_smooth_talking_charmer: "Redegewandter Charmeur"
+ GBR_hedonist: "Genussmensch"
+ GBR_returning_king: "Der zurückkehrende König"
+
+ GBR_british_exile_trait: "Britische Exilanten"
+ GBR_british_exile_trait_desc: "§LEiner der militärischen Führer, der der britischen Exilregierung gegenüber loyal ist und in das Vereinigte Königreich zurückkehren wird, wenn es wiederhergestellt ist.§!"
+

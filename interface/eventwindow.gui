@@ -237,6 +237,7 @@ guiTypes = {
 					Orientation = "UPPER_LEFT"
 					alwaystransparent = yes
 				}
+
 			}
 
 			containerWindowType = {
@@ -264,6 +265,7 @@ guiTypes = {
 					maxHeight = 230
 					format = left
 				}
+
 			}
 
 			instantTextBoxType = {
@@ -465,7 +467,7 @@ guiTypes = {
 	containerWindowType = {
 		name = "EventWindow_News"
 		position = { x=-282 y=-310 }	
-		size = { width = 700 height = 655 }
+		size = { width = 700 height = 655 } # Dt. Übersetzung, Default: width = 528 height = 595
 		moveable = yes
 		Orientation = CENTER
 		show_sound = world_news_effect
@@ -479,7 +481,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "top_Window"
 			position = { x=0 y=0 }	
-			size = { width = 700 height = 121 }
+			size = { width = 700 height = 121 } # Dt. Übersetzung, Default: width = 581
 			Orientation = UPPER_LEFT
 
 			iconType =
@@ -501,11 +503,11 @@ guiTypes = {
 			
 			instantTextBoxType = {
 				name = "Title"
-				position = { x = -90 y = 260 }
+				position = { x = 12 y = 260 } # Dt. Übersetzung, Default: x = -90
 				font = "hoi4_typewriter22"
 				borderSize = {x = 0 y = 0}
 				text = "Title text here!"	
-				maxWidth = 700
+				maxWidth = 700 # Dt. Übersetzung, Default: width = 490
 				maxHeight = 32
 				format = centre
 			}
@@ -520,8 +522,8 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "midsection"
-			position = { x=0 y=141 }	
-			size = { width = 580 height = 445 }
+			position = { x=0 y=141 } # Dt. Übersetzung, Default: y = 121
+			size = { width = 580 height = 445 } # Dt. Übersetzung, Default: height = 385
 			Orientation = UPPER_LEFT
 		
 			instantTextBoxType = {

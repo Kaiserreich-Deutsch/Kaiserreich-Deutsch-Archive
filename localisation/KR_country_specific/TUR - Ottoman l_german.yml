@@ -22,37 +22,13 @@
  TUR_paternal_autocrat_party: "SIF"
  TUR_paternal_autocrat_party_long: "Selamet-i Osmaniye Fırkası (Osmanische Sicherheitspartei)"
  TUR_national_populist_party: "Türk Ocakları"
- TUR_national_populist_party_long: "Türk Ocakları"
+ TUR_national_populist_party_long: "Türk Ocakları (Türkische Herde)"
 
  TUR_military_government: "AH"
  TUR_military_government_long: "Askerî Hükûmet (Militärregierung)"
 
  TUR_endeavour_front: "ÇC"
  TUR_endeavour_front_long: "Çalışma Cephesi (Volksarbeiterfront)"
- 
-######################
-# Republican Parties #
-######################
- TUR_republic_totalist_party: "DHP"
- TUR_republic_totalist_party_long: "Devrimci Halk Partisi"
- TUR_republic_syndicalist_party: "TSP"
- TUR_republic_syndicalist_party_long: "Türkiye Sendikalist Partisi"
- TUR_republic_radical_socialist_party: "HKP"
- TUR_republic_radical_socialist_party_long: "Halkın Kurtuluş Partisi"
- TUR_republic_social_democrat_party: "SDP"
- TUR_republic_social_democrat_party_long: "Sosyal Demokrat Parti"
- TUR_republic_social_liberal_party: "SCP"
- TUR_republic_social_liberal_party_long: "Serbest Cumhuriyet Partisi"
- TUR_republic_market_liberal_party: "DP"
- TUR_republic_market_liberal_party_long: "Demokrat Parti"
- TUR_republic_social_conservative_party: "MP"
- TUR_republic_social_conservative_party_long: "Millet Partisi"
- TUR_republic_authoritarian_democrat_party: "CHP"
- TUR_republic_authoritarian_democrat_party_long: "Cumhuriyet Halk Partisi"
- TUR_republic_paternal_autocrat_party: "MNP"
- TUR_republic_paternal_autocrat_party_long: "Millî Nizam Partisi"
- TUR_republic_national_populist_party: "Bozkurtlar"
- TUR_republic_national_populist_party_long: "Bozkurtlar Grubu"
 
 #################
 # Cosmetic Tags #
@@ -62,67 +38,64 @@
  TUR_ADJ: "Türkisch"
  TUR_DEF: "die Türkei"
 
- TUR_totalist: "Türkische Kommune"
- TUR_totalist_ADJ: "Türkisch"
- TUR_totalist_DEF: "die Türkische Kommune"
- TUR_syndicalist: "Türkische Kommune"
- TUR_syndicalist_ADJ: "Türkisch"
- TUR_syndicalist_DEF: "die Türkische Kommune"
- TUR_radical_socialist: "Türkische Kommune"
- TUR_radical_socialist_ADJ: "Türkisch"
- TUR_radical_socialist_DEF: "die Türkische Kommune"
+ TUR_totalist: "Türkische Republik"
+ TUR_totalist_DEF: "die Türkische Republik"
+ TUR_syndicalist: "Türkische Sozialistische Republik"
+ TUR_syndicalist_DEF: "die Türkische Sozialistische Republik"
+ TUR_radical_socialist: "Türkische Sozialistische Republik"
+ TUR_radical_socialist_DEF: "die Türkische Sozialistische Republik"
+ TUR_social_democrat: "Türkische Republik"
+ TUR_social_democrat_DEF: "die Türkische Republik"
+ TUR_social_liberal: "Türkische Republik"
+ TUR_social_liberal_DEF: "die Türkische Republik"
+ TUR_market_liberal: "Türkische Republik"
+ TUR_market_liberal_DEF: "die Türkische Republik"
+ TUR_social_conservative: "Türkische Republik"
+ TUR_social_conservative_DEF: "die Türkische Republik"
+ TUR_authoritarian_democrat: "Türkische Republik"
+ TUR_authoritarian_democrat_DEF: "die Türkische Republik"
+ TUR_paternal_autocrat: "Türkische Republik"
+ TUR_paternal_autocrat_DEF: "die Türkische Republik"
+ TUR_national_populist: "Türkische Republik"
+ TUR_national_populist_DEF: "die Türkische Republik"
 
- OTT: "Osmanen"
- OTT_ADJ: "Osmanisch"
- OTT_DEF: "die Osmanen"
+ TUR_ottoman_empire: "Osmanen"
+ TUR_ottoman_empire_ADJ: "Osmanisch"
+ TUR_ottoman_empire_DEF: "die Osmanen"
 
- OTT_social_democrat: "Osmanisches Reich"
- OTT_social_democrat_ADJ: "Osmanisch"
- OTT_social_democrat_DEF: "das Osmanische Reich"
- OTT_social_liberal: "Osmanisches Reich"
- OTT_social_liberal_ADJ: "Osmanisch"
- OTT_social_liberal_DEF: "das Osmanische Reich"
- OTT_market_liberal: "Osmanisches Reich"
- OTT_market_liberal_ADJ: "Osmanisch"
- OTT_market_liberal_DEF: "das Osmanische Reich"
- OTT_social_conservative: "Osmanisches Reich"
- OTT_social_conservative_ADJ: "Osmanisch"
- OTT_social_conservative_DEF: "das Osmanische Reich"
- OTT_authoritarian_democrat: "Osmanisches Reich"
- OTT_authoritarian_democrat_ADJ: "Osmanisch"
- OTT_authoritarian_democrat_DEF: "das Osmanische Reich"
- OTT_paternal_autocrat: "Osmanisches Reich"
- OTT_paternal_autocrat_ADJ: "Osmanisch"
- OTT_paternal_autocrat_DEF: "das Osmanische Reich"
- OTT_national_populist: "Osmanisches Reich"
- OTT_national_populist_ADJ: "Osmanisch"
- OTT_national_populist_DEF: "der osmanische Staat"
+ TUR_ottoman_empire_social_democrat: "Osmanisches Reich"
+ TUR_ottoman_empire_social_democrat_DEF: "das Osmanische Reich"
+ TUR_ottoman_empire_social_liberal: "Osmanisches Reich"
+ TUR_ottoman_empire_social_liberal_DEF: "das Osmanische Reich"
+ TUR_ottoman_empire_market_liberal: "Osmanisches Reich"
+ TUR_ottoman_empire_market_liberal_DEF: "das Osmanische Reich"
+ TUR_ottoman_empire_social_conservative: "Osmanisches Reich"
+ TUR_ottoman_empire_social_conservative_DEF: "das Osmanische Reich"
+ TUR_ottoman_empire_authoritarian_democrat: "Osmanisches Reich"
+ TUR_ottoman_empire_authoritarian_democrat_DEF: "das Osmanische Reich"
+ TUR_ottoman_empire_paternal_autocrat: "Osmanisches Reich"
+ TUR_ottoman_empire_paternal_autocrat_DEF: "das Osmanische Reich"
+ TUR_ottoman_empire_national_populist: "Osmanisches Reich"
+ TUR_ottoman_empire_national_populist_DEF: "der Osmanische Staat"
  
- OTT_federation: "Osmanen"
- OTT_federation_ADJ: "Osmanisch"
- OTT_federation_DEF: "die Osmanen"
+ TUR_ottoman_federation: "Osmanen"
+ TUR_ottoman_federation_ADJ: "Osmanisch"
+ TUR_ottoman_federation_DEF: "die Osmanen"
 
- OTT_federation_social_democrat: "Erhabene Osmanische Föderation"
- OTT_federation_social_democrat_ADJ: "Osmanisch"
- OTT_federation_social_democrat_DEF: "die Erhabene Osmanische Föderation"
- OTT_federation_social_liberal: "Erhabene Osmanische Föderation"
- OTT_federation_social_liberal_ADJ: "Osmanisch"
- OTT_federation_social_liberal_DEF: "die Erhabene Osmanische Föderation"
- OTT_federation_market_liberal: "Erhabene Osmanische Föderation"
- OTT_federation_market_liberal_ADJ: "Osmanisch"
- OTT_federation_market_liberal_DEF: "die Erhabene Osmanische Föderation"
- OTT_federation_social_conservative: "Erhabene Osmanische Föderation"
- OTT_federation_social_conservative_ADJ: "Osmanisch"
- OTT_federation_social_conservative_DEF: "die Erhabene Osmanische Föderation"
- OTT_federation_authoritarian_democrat: "Osmanisches Reich"
- OTT_federation_authoritarian_democrat_ADJ: "Osmanisch"
- OTT_federation_authoritarian_democrat_DEF: "das Osmanische Reich"
- OTT_federation_paternal_autocrat: "Osmanisches Reich"
- OTT_federation_paternal_autocrat_ADJ: "Osmanisch"
- OTT_federation_paternal_autocrat_DEF: "das Osmanische Reich"
- OTT_federation_national_populist: "Osmanisches Reich"
- OTT_federation_national_populist_ADJ: "Osmanisch"
- OTT_federation_national_populist_DEF: "das Osmanische Reich"
+ TUR_ottoman_federation_social_democrat: "Erhabene Osmanische Föderation"
+ TUR_ottoman_federation_social_democrat_DEF: "die Erhabene Osmanische Föderation"
+ TUR_ottoman_federation_social_liberal: "Erhabene Osmanische Föderation"
+ TUR_ottoman_federation_social_liberal_DEF: "die Erhabene Osmanische Föderation"
+ TUR_ottoman_federation_market_liberal: "Erhabene Osmanische Föderation"
+ TUR_ottoman_federation_market_liberal_DEF: "die Erhabene Osmanische Föderation"
+ TUR_ottoman_federation_social_conservative: "Erhabene Osmanische Föderation"
+ TUR_ottoman_federation_social_conservative_DEF: "die Erhabene Osmanische Föderation"
+ TUR_ottoman_federation_authoritarian_democrat: "Osmanisches Reich"
+ TUR_ottoman_federation_authoritarian_democrat_DEF: "das Osmanische Reich"
+ TUR_ottoman_federation_paternal_autocrat: "Osmanisches Reich"
+ TUR_ottoman_federation_paternal_autocrat_DEF: "das Osmanische Reich"
+ TUR_ottoman_federation_national_populist: "Osmanisches Reich"
+ TUR_ottoman_federation_national_populist_DEF: "das Osmanische Reich"
 
 #############
 # Companies #
@@ -191,6 +164,9 @@
  ott_cp_war_decisions_tt: "Bestimmte £decision_icon_small §YEntscheidungen§! werden freigeschalten."
  OTT_jews_tt: "£nato_unit_infantry_icon_small  Erhaltet 1 §YMiliz-Division§! mit dem Erfahrungslevel §CRekrut§! und Ausrüstung aus dem Jahre 1918 in §YKudus-I-Serif§!.\n£nato_unit_cavalry_icon_small  Erhaltet 1 §YKavallerie-Division§! mit dem Erfahrungslevel §CRekrut§! und Ausrüstung aus dem Jahre 1918 in §YKudus-I-Serif§!.\n\n"
 
+ OTT_has_centralist_government: "Hat eine §Yzentralistische§! Regierung"
+ OTT_has_centralist_government_NOT: "Hat keine §Yzentralistische§! Regierung"
+ 
  OTT_is_autonomous_region: "Ist eine §Y$autonomous_region$§!"
  OTT_is_autonomous_region_NOT: "Ist keine §Y$autonomous_region$§!"
 
@@ -226,7 +202,7 @@
  ott_penal_code_tt: "\nEs nicht zu schaffen, die §YAlīye-i Emniyet Hizmeti§! zu reformieren, könnte §Rernsthafte Konsequenzen§! haben."
  ott_edu_passed.tt: "Das §YBildungsdekret§! wird §Gverabschiedet§! werden."
  ott_edu_refused.tt: "Das §YBildungsdekret§! wird in der Meclis-i Âyân §Raufgehalten§! werden."
- ott_constitution_tt: "Das osmanische Parlament, der Großwesir und der Padischah [OTT.GetLeader] werden eine moderne Verfassung für das Osmanische Reich ausarbeiten.\n\n§YPluralistische Verfassung§!:\n§gEin Teil der derzeitigen Macht des Staates wird den Bürgern zugeschrieben, wodurch individuelle Freiheiten wie Rede- und Religionsfreiheit garantiert und geschützt werden. Der Sultan wird sein Recht aufgeben, sich direkt in die Angelegenheiten des Staates einzumischen, welches nun stattdessen von einem demokratisch gewählten Gremium gehalten wird.§!\nErhält Nationalgeist: §YPluralistische Verfassung§!, wodurch (Stabilität: §G+10%§!) gewährt wird.\n\n§YAutoritäre Verfassung§!:\n§gDie Macht wird von einer Partei zentralisiert, deren gewählter Anführer zum Großwesir ernannt werden wird. Alle anderen Parteien werden verboten. Der Sultan behält sein Recht, religiöse Angelegenheiten zu kontrollieren, muss sich in staatlichen Angelegenheiten jedoch mit der herrschenden Partei absprechen.§!\nErhält Nationalgeist: §YAutoritäre Verfassung§!, wodurch (Politischer Machtzuwachs: §G+10%§!, Nicht-Kern-Mannstärke: §G+10%§!) gewährt wird.\n\n"
+ ott_constitution_tt: "Das osmanische Parlament, der Großwesir und der Padischah [OTT.GetLeader] werden eine moderne Verfassung für das Osmanische Reich ausarbeiten.\n\n§YPluralistische Verfassung§!:\n§gEin Teil der derzeitigen Macht des Staates wird den Bürgern zugeschrieben, wodurch individuelle Freiheiten wie Rede- und Religionsfreiheit garantiert und geschützt werden. Der Sultan wird sein Recht aufgeben, sich direkt in die Angelegenheiten des Staates einzumischen, welches nun stattdessen von einem demokratisch gewählten Gremium gehalten wird.§!\nErhält Nationalgeist: §YPluralistische Verfassung§!, wodurch ($MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§!, $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5.00%§!) gewährt wird.\n\n§YAutoritäre Verfassung§!:\n§gDie Macht wird von einer Partei zentralisiert, deren gewählter Anführer zum Großwesir ernannt werden wird. Alle anderen Parteien werden verboten. Der Sultan behält sein Recht, religiöse Angelegenheiten zu kontrollieren, muss sich in staatlichen Angelegenheiten jedoch mit der herrschenden Partei absprechen.§!\nErhält Nationalgeist: §YAutoritäre Verfassung§!, wodurch ($MODIFIER_POLITICAL_POWER_FACTOR$: §G+10%§!, Nicht-Kern-Mannstärke: §G+10%§!) gewährt wird.\n\n"
  ott_religious_organisation_tt: "\nEs ist ein starker Widerstand der §RUlema§! und der §Rkonservativen Opposition§! zu erwarten."
  ott_maintenance_of_order_law_tt: "Dieser Irade wird dem §YGroßwesir§! §Cweitreichende exekutive Befugnisse§! gewähren, um gegen jeglichen Dissens und Anti-OHF-Elemente im Staatsapparat vorzugehen.\n\nErlaubt es, in §YVilayets§! das £manpower_texticon  §YKriegsrecht§! auszurufen."
  ott_maghrebi_frontier_tt: "Schaltet £decision_icon_small §YEntscheidungen§! frei, um §C [MOR.GetNameWithFlag], [ALG.GetNameWithFlag], [TUN.GetNameWithFlag], [SOM.GetNameWithFlag], [CHA.GetNameWithFlag], [MLI.GetNameWithFlag], [NGR.GetNameWithFlag], [MRT.GetNameWithFlag] und [ZZB.GetNameWithFlag] §! in den §YIstanbulpakt§! einzuladen.\n\nSchaltet £decision_icon_small §YEntscheidungen§! frei, um §C [MOR.GetNameWithFlag], [ALG.GetNameWithFlag], [TUN.GetNameWithFlag], [LBA.GetNameWithFlag], [EGY.GetNameWithFlag], [SUD.GetNameWithFlag], [SOM.GetNameWithFlag], [CHA.GetNameWithFlag], [MLI.GetNameWithFlag], [NGR.GetNameWithFlag], [MRT.GetNameWithFlag], [ZZB.GetNameWithFlag] und [CAR.GetNameWithFlag] §! in die §YAssoziation muslimischer Nationen§! einzuladen."
@@ -264,7 +240,7 @@
  free_press: "Die Pressefreiheit wird von der Verfassung garantiert"
  ott_millet_full_reform: "Die von der Millet geschützte Bildung wurde abgeschafft"
  separated_church_state: "Die Verfassung ist auf eine säkularistische Agenda ausgelegt"
- ott_sharif_abolished: "Das Scharifat wurde abgeschafft"
+ ott_sharif_abolished: "$has_completed_decision$ $OTT_ARA_Abolish_Sharif$§!"
  sharif_dead: "Der Großscharif von Mekka ist verstorben"
  ott_restructured_provincial_administration: "Die Verfassung ist auf eine Zentralisierung der Provinzen ausgelegt"
  ott_women_suffrage: "Die Verfassung hat ein universelles Wahlrecht eingeführt"
@@ -276,9 +252,8 @@
  retarded_legal_system: "Das Rechtssystem wurde dezentralisiert"
  ASY_got_an_ass_whooping: "Die assyrischen Truppen wurden aufgelöst"
  black_monday_yeet: "Die Auswirkungen des Schwarzen Montags sind vorüber"
- Mustafa_Kemal_Pasa_dead: "Mustafa Kemal Pasha ist verstorben"
- EGY_CONQ: "Hat Ägypten annektiert"
  AXIS_VICTORY: "Der Kairo-Pakt ist siegreich"
+ EGY_CONQ: "Hat Ägypten annektiert"
  expanded_millets: "Die Millets wurden ausgebaut"
  ziraat_bypass: "Die Ziraat Bankasi wurde gegründet"
  RUSSIAN_OTTOMAN_DEAL: "Das Russisch-Osmanische Abkommen wurde unterzeichnet"
@@ -286,7 +261,7 @@
  ott_millet_mektepleri_prereq_tt: "Hat den Fokus §YMillet Mektepleri§! abgeschlossen\n"
 
 ### Global Flags
- OTT_Surrender: "Die Osmanen wurden besiegt!"
+ OTT_Surrender: "Die Osmanen wurden besiegt."
  SUEZ_SUCCESS: "Das §GAbkommen von Port Said§! wurde unterzeichnet."
  SUEZ_CANAL_BLOCKED: "Der Suezkanal wird blockiert."
  SUEZ_REOPENED: "Der Suezkanal wird §Herneut geöffnet§! werden."
@@ -442,9 +417,9 @@
  Axis_Suez_Strait_Convention_OTT_desc: "Da der Krieg sowohl in Europa als auch auf der gesamten Welt schon in vollem Gange ist oder sich gerade zusammenbraut, sollten wir uns bald entscheiden, wie von nun an mit dem Suezkanal verfahren wird. Es muss möglichst schnell eine Lösung gefunden werden, die alle beteiligten Parteien zufriedenstellt und die Zukunft des Kanals ein für alle Mal festlegt."
  Axis_Suez_Commence_Reparations_OTT: "Mit der Reperatur des Kanals beginnen"
  Axis_Suez_Commence_Reparations_OTT_desc: "Sämtliche Schriftstücke bezüglich des Suez wurden von jedem Teilnehmer des Kongresses von Port Said unterzeichnet und die ersten Diplomaten kehren bereits in ihre Heimat zurück. Für uns beginnt nun jedoch erst die echte Arbeit, da wir einige Ressourcen und viel Zeit benötigen werden, um die vom Krieg verursachten Schäden am Kanal und seinen Einrichtungen zu reparieren."
- Axis_Suez_Reparations_small_effort: "Kleine Reperaturbemühung"
+ Axis_Suez_Reparations_small_effort: "Kleine Reperaturbemühungen"
  Axis_Suez_Reparations_small_effort_desc: "Obwohl es eigentlich hauptsächlich ein osmanisches Unterfangen war, hat die Reperatur des Suezkanals und seiner Einrichtungen die Aufmerksamkeit vieler Unternehmen und Investoren aus aller Welt auf sich gezogen, die den zerstörten Kanal als eine Möglichkeit betrachten, nahezu endlosen Profit zu scheffeln. Viele Regierungen wiederum betrachten den Kanal als essenziell für die Aufrechterhaltung ihrer Nachschublinien und dessen Reperatur als eine Propaganda-Möglichkeit, mit der sie die Einheit des anti-sozialistischen Blocks und die Macht der internationalen Kooperation zeigen wollen."
- Axis_Suez_Reparations_large_effort: "Große Reperaturbemühung"
+ Axis_Suez_Reparations_large_effort: "Große Reperaturbemühungen"
  Axis_Suez_Reparations_large_effort_desc: "Obwohl es eigentlich hauptsächlich ein osmanisches Unterfangen war, hat die Reperatur des Suezkanals und seiner Einrichtungen die Aufmerksamkeit vieler Unternehmen und Investoren aus aller Welt auf sich gezogen, die den zerstörten Kanal als eine Möglichkeit betrachten, nahezu endlosen Profit zu scheffeln. Viele Regierungen wiederum betrachten den Kanal als essenziell für die Aufrechterhaltung ihrer Nachschublinien und dessen Reperatur als eine Propaganda-Möglichkeit, mit der sie die Einheit des anti-sozialistischen Blocks und die Macht der internationalen Kooperation zeigen wollen."
  Axis_Suez_Reparations_mission: "Suez-Reperaturarbeiten"
  Axis_Suez_Reparations_mission_desc: "Obwohl es eigentlich hauptsächlich ein osmanisches Unterfangen war, hat die Reperatur des Suezkanals und seiner Einrichtungen die Aufmerksamkeit vieler Unternehmen und Investoren aus aller Welt auf sich gezogen, die den zerstörten Kanal als eine Möglichkeit betrachten, nahezu endlosen Profit zu scheffeln. Viele Regierungen wiederum betrachten den Kanal als essenziell für die Aufrechterhaltung ihrer Nachschublinien und dessen Reperatur als eine Propaganda-Möglichkeit, mit der sie die Einheit des anti-sozialistischen Blocks und die Macht der internationalen Kooperation zeigen wollen."
@@ -599,7 +574,7 @@
  OTT_congress_turkish_nationalists_desc: "Die Gruppierung der 'Türkischen Nationalisten' lässt sich nur schwer eingrenzen, da zwar ein Großteil von ihnen der OHF angehört, einige radikalere Abgeordnete, die eine Trennung der arabischen und türkischen Teile des Reiches fordern, sich allerdings von der Partei losgelöst haben. Diese Extremisten vertreten die Ideen des Turanismus und der Türkischen Einheit, was es schwer macht, mit ihnen zu verhandeln.\n\n§YProvinzinteraktionen§! in den türkischen Vilayets (§GEdirne, Kostantiniyye, Bursa, Izmir, Afyon, Mugla, Ankara, Kastamonu, Samsun, Adana, Westthrakien, Mestanli§!) können die Anzahl der £deputies_texticon §YAbgeordneten§!, die unsere Koalition unterstützen, entweder erhöhen oder verringern.\n\n§GUnterstützer§!: [?OTT.nat_tur_sup_deputies]/[?OTT.nat_tur_deputies]\n§ROpposition§!: [ OTT_congress_turkish_nationalist_opposition]/[?OTT.nat_tur_deputies]\n"
 
  OTT_con_halkevleri_program: "Das Halkevleri-Programm finanzieren"
- OTT_con_halkevleri_program_desc: "Die Halkevleri (Häuser des Volkes), die eng mit dem Verein Türk Ocağı (Türkischer Herd) zusammenarbeiten, werden von türkischen Nationalisten genutzt, um das wachsende türkische Nationalbewusstsein zu stärken. In ihren Versuchen zu beweisen, dass Anatolien schon immer von Türken bewohnt wurde, dass die Hethiter und die Sumer Türken waren und dass die gesamte menschliche Kultur irgendwie mit den Türken verbunden ist, verbreiten sie als Wahrheit verkaufte Abstraktionen, um ihren Glauben der Türkischen Einheit und des Pan-Turanismus zu begründen.\n\nDiese Institutionen haben zwar noch keinen großen Einfluss, da sie sich vollständig auf die Spenden des Volkes verlassen, allerdings beginnt ihr Netzwerk zu wachsen, da die Opposition der Bürger gegen die dezentralistierten Ideen der HIF ihre Ausbreitung begünstigen. Um dieses Problem zu lösen und hoffentlich mehr türkische Nationalisten von uns zu überzeugen, könnten wir diese Halkevleri finanziell unterstützen. Dies würde uns außerdem die Möglichkeit geben, einige 'Änderungen' an der dort verbreiteten Botschaft vorzunehmen und sie dazu zu bringen, den Menschen kulturelle Vielfalt statt einem kulturellen Überlegenheitsgefühl näher zu bringen."
+ OTT_con_halkevleri_program_desc: "Die Halkevleri (Häuser des Volkes), die eng mit dem Verein Türk Ocağı (Türkische Herde) zusammenarbeiten, werden von türkischen Nationalisten genutzt, um das wachsende türkische Nationalbewusstsein zu stärken. In ihren Versuchen zu beweisen, dass Anatolien schon immer von Türken bewohnt wurde, dass die Hethiter und die Sumer Türken waren und dass die gesamte menschliche Kultur irgendwie mit den Türken verbunden ist, verbreiten sie als Wahrheit verkaufte Abstraktionen, um ihren Glauben der Türkischen Einheit und des Pan-Turanismus zu begründen.\n\nDiese Institutionen haben zwar noch keinen großen Einfluss, da sie sich vollständig auf die Spenden des Volkes verlassen, allerdings beginnt ihr Netzwerk zu wachsen, da die Opposition der Bürger gegen die dezentralistierten Ideen der HIF ihre Ausbreitung begünstigen. Um dieses Problem zu lösen und hoffentlich mehr türkische Nationalisten von uns zu überzeugen, könnten wir diese Halkevleri finanziell unterstützen. Dies würde uns außerdem die Möglichkeit geben, einige 'Änderungen' an der dort verbreiteten Botschaft vorzunehmen und sie dazu zu bringen, den Menschen kulturelle Vielfalt statt einem kulturellen Überlegenheitsgefühl näher zu bringen."
  OTT_con_anatolian_relief_program: "Die Anatolische Agrarhilfe finanzieren"
  OTT_con_anatolian_relief_program_desc: "Eines der größten Opfer der globalen Wirtschaftskrise ist das Herzland Anatoliens. Dessen Wirtschaft ist zu großen Teilen von der Landwirtschaft abhängig und die Provinz versucht noch immer, sich von dem massiven Bevölkerungsverlust, den der Weltkrieg mit sich brachte, zu erholen. Viele Farmer sind nun in Armut gefallen, da das derzeit bestehende Unterstützungsnetzwerk nicht ausreicht, um sie vor dem wirtschaftlichen Ruin zu bewahren. Diese anatolischen Bauern, die außerdem auch das Rückgrat des osmanischen Militärs bilden, sind nun leichte Ziele für die OHF und andere zentralistische Parteien, die einfache Lösungen für alle Probleme versprechen, die die Farmer gerade plagen.\n\nDie 'Anatolische Agrarhilfe', welche von der Ziraat Bankasi (einem Bankunternehmen) finanziert wird, könnte hier vielleicht Abhilfe schaffen, der OHF einige Stimmen verwehren und dazu führen, dass größere Teile der Unterschicht unsere Regierung unterstützen."
  OTT_con_turkish_language_decree: "Osmanisches Türkisch in der Administration durchsetzen"
@@ -1011,6 +986,7 @@
  OTT_Increase_Ties_German_Empire_desc: "Viele Türken sind der Meinung, dass ein permanentes Bündnis mit dem deutschen Staat, mit dem wir bereits während des Weltkriegs Seite an Seite gekämpft haben, für beide Nationen von Vorteil wäre, weshalb sie ständig darum plädierten, dass die OHF auf dieses Ziel hinarbeiten sollte. Da die Armee nun an der Macht ist, ist nun endlich die Zeit gekommen, diesen Plan zu realisieren und unsere beiden Nationen näher aneinanderzubringen, als sie es je zuvor gewesen waren."
  OTT_Embargo_the_Internationale: "Embargo gegen die Internationale verhängen"
  OTT_Embargo_the_Internationale_desc: "Obwohl die Syndikalisten unseren Staat nicht direkt destabilisert haben, da wir nicht sonderlich viele gebildete Bürger oder Gewerkschaften besitzen, die sie verführen könnten, wird jedem langsam klar, dass wir bald mit ihnen konfrontiert werden. Deshalb wäre es wohl in unserem besten Interesse, dem deutschen Beispiel zu folgen und gegen die Syndikalisten vorzugehen."
+ OTT_embargo_INT_tt: "(Jedes Land, das sich in einem Bündnis mit §Y [FRA.GetFlag] [FRA.GetNameDef]§! befindet):\n   Handelsbeziehungen mit §Y[OTT.GetNameDef]§! verändert um §R-200§!.\n   §YHandeslsbeziehungen von [OTT.GetNameWithFlag]§! mit ihnen geändert um §R-200§!."
  OTT_Ottoman_German_Research_Fevzi: "Osmanisch-Deutsche Forschungsinitiative"
  OTT_Ottoman_German_Research_Fevzi_desc: "Die osmanische Forschungsabteilung ist mehr als nur mangelhaft. Ein Grund hierfür ist die erschreckend hohe Analphabetenrate unseres Reiches. Ein weiterer ist, dass unser Reich im Bereich der Militärtechnologie noch nie auf einem Level mit den westlichen Staaten war und sich seit jeher vor allem auf den Import von Ausrüstung fokussiert hat. Unsere neue Beziehung mit dem Deutschen Kaiserreich ermöglicht uns jedoch den Zugang zu modernerer Ausrüstung und hilft uns dabei, unsere Bürger zu bilden und so auf die Zukunft vorzubereiten."
  OTT_Vanguard_in_the_South_Fevzi: "Vorhut des Südens"
@@ -1234,7 +1210,7 @@
  ott_military_loyalty_desc: "Das Osmanische Reich folgt dem Beispiel Preußens, welches uns von der deutschen Militärmission kurz vor Beginn des Weltkriegs näher gebracht wurde, weshalb das Militär eine große Macht besitzt. Eine strenge Überwachung der Ausbildung und der Persönlichkeitskult um den Großwesir stellen sicher, dass die herrschende Ordnung innerhalb des Militärs nicht von innen heraus zerstört werden kann."
 
  ott_universal_suffrage: "Vorhut der Emanzipation"
- ott_universal_suffrage_desc: "Das Osmanische Reich ist ein Leuchtfeuer der Emanzipation. Fast nirgendwo sonst auf der Welt erfahren Frauen dieselben politischen Freiheiten, wie sie es innerhalb unserer Grenzen tun."
+ ott_universal_suffrage_desc: "Unsere Nation ist ein Leuchtfeuer der Emanzipation. Fast nirgendwo sonst auf der Welt erfahren Frauen dieselben politischen Freiheiten, wie sie es innerhalb unserer Grenzen tun."
 
  ott_varlik_vargisi: "Varlık Vergisi"
  ott_varlik_vargisi_desc: "Die Einführung der Varlık Vergisi, welche von vielen als Nachfolger der Dschizya angesehen wird (eine Steuer, welche Nicht-Muslimen innerhalb unseres Reiches auferlegt wurde), führt zu vielen politischen Problemen, da ihre diskriminierende Anwendung der Verfassung offen widerspricht. Dennoch bringt die Steuer uns enorme Einnahmen - auf die wir in Zeiten wie diesen leider nicht einfach verzichten können."
@@ -1348,6 +1324,8 @@
 
  ott_repealed_national_protection_law: "Lockerung der wirtschaftlichen Einschränkungen"
  ott_repealed_national_protection_law_desc: "Das nationale Wirtschaftsgesetz, eingeführt von den Kemalisten, um die inländische Industrie vor ausländischer Konkurrenz zu beschützen, wurde von der liberalen Regierung aufgehoben, da es die der Industrie zur Verfügung stehenden Ressourcen stark limitierte und dabei half, ineffiziente Industrien über Wasser zu halten."
+
+ after_300_days: "§7Nach 300 Tagen hat dies den folgenden Effekt:§!"
 
  ott_repealed_national_protection_law_2: "Nationales Schutzgesetz"
  ott_repealed_national_protection_law_2_desc: "Die Regierung ist der Meinung, dass ihre früheren Versuche, die osmanischen Importe aus dem Westen zu liberalisieren, einen negativen Einfluss auf die inländische Industrie hatten, was einen extrem großen Rückschlag zur Folge hatte. Um weitere Unterstützung zu erhalten, hat sie das neue 'Nationale Schutzgesetz' ausgearbeitet, welches der ausländischen Konkurrenz neue Beschränkungen auferlegt."
@@ -1593,7 +1571,7 @@
  ottpol.34.a: "Lasset uns trauern, für den Verteidiger von Gelibolu, den Löwen von Antep und den Ghazi von Maraş!" 
 
  ottpol.35.t: "Die OHF beginnt zu zerfallen"
- ottpol.35.d: "Innerhalb der durch den plötzlichen Tod ihres Anführers und seiner Weigerung, einen würdigen Nachfolger zu ernennen, schockierten OHF beginnen sich mehrere Fraktionen zu formen. Die Partei ist, grob gesagt, in drei Lager gespalten: die Hardliner unter Ismet Pascha, die Demokraten unter Ali Fuat Pascha und die Mitglieder des Militärs unter Fevzi Pascha. Ein Großteil der Mitglieder der Partei hat sich einem dieser Lager angeschlossen, viele von ihnen beobachten den Machtkampf jedoch lieber, als ihm aktiv beizuwohnen.\n\nAli Fuat Pascha, der den Staat durch die Einführung eines Mehrparteiensystems und der Demokratie auf jeder Ebene modernisieren will, wird von einigen Hardlinern als Verräter der Revolution angesehen, welche die Partei der Nation bringen soll. Dies ist vor allem seiner dezentralistischen Politik zu verdanken, in deren Zuge er die staatliche Kontrolle reduzieren will und der sich viele Mitglieder der Partei entgegenstellen. Der ehemalige Brigadegeneral Kazim Karabekir und andere wie Rauf Pascha sehen in ihm jedoch de Zukunft des Staates und den einzigen Weg, die Gründung einer vollständigen Diktatur zu verhindern.\n\nIm anderen Lager, unter der noch unsicheren Führung Ismet Paschas, will man den Plänen und Vorstellung des ehemaligen Großwesirs treu bleiben. Diese umfassen eine progressive Führung, welche die Nation in eine neue Ära führen kann, und den Staat als starke Hand, welche die osmanischen Bürger führt, bis sie dazu bereit sind, sich selbst zu regieren. Einige Quellen besagen, dass Ismets Kontrolle über sein Lager zwar noch fragwürdig ist, viele der militärischen Parteimitglieder sich jedoch eher auf seine Seite stellen würden."
+ ottpol.35.d: "Innerhalb der durch den plötzlichen Tod ihres Anführers und seiner Weigerung, einen würdigen Nachfolger zu ernennen, schockierten OHF beginnen sich mehrere Fraktionen zu formen. Die Partei ist, grob gesagt, in drei Lager gespalten: die Hardliner unter Ismet Pascha, die Demokraten unter Ali Fuat Pascha und die Mitglieder des Militärs unter Fevzi Pascha. Ein Großteil der Mitglieder der Partei hat sich einem dieser Lager angeschlossen, viele von ihnen beobachten den Machtkampf jedoch lieber, als ihm aktiv beizuwohnen.\n\nAli Fuat Pascha, der den Staat durch die Einführung eines Mehrparteiensystems und der Demokratie auf jeder Ebene modernisieren will, wird von einigen Hardlinern als Verräter der Revolution angesehen, welche die Partei der Nation bringen soll. Dies ist vor allem seiner dezentralistischen Politik zu verdanken, in deren Zuge er die staatliche Kontrolle reduzieren will und der sich viele Mitglieder der Partei entgegenstellen. Der ehemalige Brigadegeneral Kazim Karabekir und andere wie Rauf Pascha sehen in ihm jedoch de Zukunft des Staates und den einzigen Weg, die Gründung einer vollständigen Diktatur zu verhindern.\n\nIm anderen Lager, unter der noch unsicheren Führung Ismet Paschas, will man den Plänen und Vorstellungen des ehemaligen Großwesirs treu bleiben. Diese umfassen eine progressive Führung, welche die Nation in eine neue Ära führen kann, und den Staat als starke Hand, welche die osmanischen Bürger führt, bis sie dazu bereit sind, sich selbst zu regieren. Einige Quellen besagen, dass Ismets Kontrolle über sein Lager zwar noch fragwürdig ist, viele der militärischen Parteimitglieder sich jedoch eher auf seine Seite stellen würden."
  ottpol.35.a: "Ali Fuat Pascha übernimmt die Kontrolle über die Partei."
  ottpol.35.b: "Ismet Pascha tritt in Mustafa Kemals Fußstapfen."
 
@@ -1641,7 +1619,7 @@
  ottkem.3.a: "Früher oder später werden sie sich besinnen."
 
  ottkem.4.t: "Gründung der Türk Dil Kurumu"
- ottkem.4.d: "Die Türk Dil Kurumu (Türkische Sprachgesellschaft) wurde als Organisation gegründet, welche sich dem Schutz der türkischen Sprache verschrieben hat, ähnlich wie die Académie Française dem Schutz der französischen. Heute wurde sie offiziell vom Sultan in Kostantiniyye eröffnet. Die Führung dieser Institution, welche die Bemühungen des Komitees der türkischen Sprache fortführen soll, übernimmt Hagop Martayan. Der armenische Generalsekretär Hagop diente während des Weltkriegs in der osmanischen Armee und traf in dieser Zeit auch erstmals den Pascha. 1921 verließ er das Reich, um an der Universität von Sofia türkisch zu unterrichten, wurde jedoch später von Kemal zur Sprachkonferenz beordert, welche zu Beginn des Jahres in der Hauptstadt stattfand.\n\nAußerdem hat die Regierung Verhandlungen mit dem Türk Ocakları (Türkischen Herd), einer türkisch-nationalistische Organisation, begonnen, welche die neugegründete Institution und eine mögliche Zusammenarbeit der Türk Dil Kurumu mit dem Türk Ocakları betreffen, in deren Zuge die Wurzeln der türkischen Sprache und die Geschichte des türkischen Volkes näher erforscht werden sollen. Die Gespräche scheinen allerdings nicht sonderlich gut zu verlaufen, da Hamdullah Suphi, der Präsident der Organisation, vor Kurzem die Hohe Pforte sichtlich verärgert verließ und sich weigerte, mit der Presse zu sprechen."
+ ottkem.4.d: "Die Türk Dil Kurumu (Türkische Sprachgesellschaft) wurde als Organisation gegründet, welche sich dem Schutz der türkischen Sprache verschrieben hat, ähnlich wie die Académie Française dem Schutz der französischen. Heute wurde sie offiziell vom Sultan in Kostantiniyye eröffnet. Die Führung dieser Institution, welche die Bemühungen des Komitees der türkischen Sprache fortführen soll, übernimmt Hagop Martayan. Der armenische Generalsekretär Hagop diente während des Weltkriegs in der osmanischen Armee und traf in dieser Zeit auch erstmals den Pascha. 1921 verließ er das Reich, um an der Universität von Sofia türkisch zu unterrichten, wurde jedoch später von Kemal zur Sprachkonferenz beordert, welche zu Beginn des Jahres in der Hauptstadt stattfand.\n\nAußerdem hat die Regierung Verhandlungen mit dem Türk Ocakları (Türkische Herde), einer türkisch-nationalistische Organisation, begonnen, welche die neugegründete Institution und eine mögliche Zusammenarbeit der Türk Dil Kurumu mit dem Türk Ocakları betreffen, in deren Zuge die Wurzeln der türkischen Sprache und die Geschichte des türkischen Volkes näher erforscht werden sollen. Die Gespräche scheinen allerdings nicht sonderlich gut zu verlaufen, da Hamdullah Suphi, der Präsident der Organisation, vor Kurzem die Hohe Pforte sichtlich verärgert verließ und sich weigerte, mit der Presse zu sprechen."
  ottkem.4.a: "Ausgezeichnet."
 
  ottkem.5.t: "Höhere Bildung im Osmanischen Reich"
@@ -3040,7 +3018,14 @@
  ottfor.77.t: "Die Ratifizierung der russisch-osmanischen Konferenz"
  ottfor.77.d: "Nun, da die osmanischen und russischen Außenminister ihre Unterschrift unter das Abkommen der russisch-osmanischen Konferenz von [GetYear] gesetzt haben, scheint endlich ein bleibender Frieden im Kaukasus erreicht worden zu sein. Obwohl mehrere kleinere Probleme durch diesen Vertrag noch nicht gelöst wurden, da man sich diese für spätere Verhandlungen aufheben wollte, die erst stattfinden werden, wenn sich die Lage in Europa beruhigt hat, ist dieses Ereignis ein großer Schritt für die Beziehungen zwischen dem Russischen und dem Osmanischen Reich. Die Nationen Zentralasiens und des Kaukasus fürchten nun jedoch um ihre Zukunft, da über diese bei groben Gesprächen und oft unter dem Einfluss einiger Flaschen Rakı entschieden wurde."
  ottfor.77.a: "Ein Sieg für den Frieden!"
-
+ 
+ ottfor.771.t: "Das Ende der russisch-osmanischen Konferenz"
+ ottfor.771.d.TUR_war: "Unsere Diplomaten haben in Baku unermündlich daran gearbeitet, eine Vereinbarung mit den Russen auszuarbeiten, doch anscheinend war der rechten Hand nicht bewusst, was die linke tut. Der Ausbruch des Krieges mit unseren nördlichen Nachbarn hat zu einer hastigen Einstellung der Gespräche geführt, wenngleich der muslimische Klerus des nördlichen Kaukasus versuchte, dies zu verhindern. Unsere Einflusssphäre im Nahen Osten und im Kaukasus wird wohl oder übel auf dem Blut unserer tapferen Soldaten erbaut werden müssen - oder dem der Russen."
+ ottfor.771.d.TUR_russia_dead: "Aufgrund der Kapitulation des russischen Regimes haben die russischen Diplomaten, die mit uns in Baku über den Status des Irans und des Kaukasus verhandelten, nun damit begonnen, ihre Taschen zu packen, um sich der neuen Regierung in Moskau anzuschließen oder ins Exil zu fliehen. Die dramatische Änderung der geopolitischen Situation Russlands stellt für die Hohe Pforte jedoch eine Erleichterung dar, da wir zumindest in naher Zukunft keine Aggressionen zu unserem Norden mehr befürchten müssen."
+ ottfor.771.d.RUS_war: "Durch den Ausbruch des Krieges mit dem Osmanischen Reich erfüllt die russisch-osmanische Konferenz nun keinen Zweck mehr. Während unsere Diplomaten versuchen, eine sichere Heimkehr zu organisieren, haben unsere Armeen bereits damit begonnen, sich an der osmanischen Grenze zu mobilisieren. Aufgrund der Feindseligkeiten zwischen unseren beiden Nationen müssen wir uns nicht länger an die Abmachungen der Konferenz halten."
+ ottfor.771.d.RUS_turkey_dead: "Unsere Diplomaten haben in Baku unermündlich daran gearbeitet, eine Vereinbarung mit den Osmanen auszuarbeiten, doch anscheinend war der rechten Hand nicht bewusst, was die linke tut. Der osmanische Kriegsbeitritt hat den Wunsch der Kooperation zu einem entfernten Traum werden lassen. Auch der schnelle Eingriff einiger religiöser Persönlichkeiten konnte die Verhandlungen nicht retten und unsere Gesandtschaft ist nun in die Heimat zurückgekehrt - und wird die osmanischen Gesandten vor Ende des Krieges wohl nicht mehr zu Gesicht bekommen. Natürlich arbeiten russische Agenten dennoch weiterhin daran, Kontakte zu uns eventuell freundlich gesinnten osmanischen Politikern aufzubauen..."
+ ottfor.771.a: "Nun gut."
+ 
  ottfor.78.t: "Russland verlangt unsere Unterwerfung"
  ottfor.78.d: "Während der russische Bär marschiert und sich Deutschland auf allen Seiten von Feinden umgeben wiederfindet, haben uns die Russen nun einen Platz in ihrer neuen Weltordnung angeboten. Obwohl uns in diesem Angebot versprochen wird, dass sie die Interessen unseres Staates auf globaler Ebene verteidigen und unsere Souveränität achten werden, ist dies nichts anderes, als ein Ultimatum: Entweder wir unterwerfen uns oder wir müssen mit den Konsequenzen, wahrscheinlich einem russischen Einmarsch, rechnen."
  ottfor.78.a: "Wir unterwerfen uns dem russischen Bären!"
@@ -3399,97 +3384,207 @@
 
  TUR_abdulmecid_osmanoglu_leader_desc: "Abdülmecid II wurde am 19. Mai 1868 als Sohn des damaligen Sultans Abdulaziz geboren. Als ältester Sohn war Abdülmecid außerdem der Thronerbe. Dies änderte sich jedoch, als sein Vater ermordet und von Murad V, dessen jüngerer Bruder dadurch zum Thronerben wurde, ersetzt wurde. In seiner Kindheit und Jugend genoss Abdülmecid Privatunterricht innerhalb der Mauern des Palastes und entwickelte ein Interesse an der Welt der Musik und der Kunst. Aufgrund alter osmanischer Traditionen durfte er den Palast jedoch nicht verlassen, bis er das 40. Lebensjahr erreichte. Dennoch war er glücklich und wurde über die Zeit immer zufriedener mit der Tatsache, dass er wohl nie ein Sultan sein wird.\n\nIm Jahre 1908, in dem auch die Jungtürkenrevolution stattfand, war Abdülmecid endlich alt genug, um den Palast zu verlassen. Er nutzte seine neuen Freiheiten, um seine Liebe für Kunst und Musik mit der Welt zu teilen. Er wurde zum Vorsitzenden der Osmanischen Künstlergesellschaft, stellte seine Gemälde in ganz Europa aus, traf einige der bekanntesten Musiker des Kontinents und lernte neue Instrumente.\n\nObwohl Abdülmecid den Künsten und der Musik wahrscheinlich gern sein ganzes Leben geopfert hätte, hatte die Welt größere Pläne für ihn. Am 4. Juli 1918 wurde sein Cousin Mehmed VI zum Sultan gekrönt, was Abdülmecid erneut zum Thronerben des Reiches machte. Als Mehmed 8 Jahre später starb, trat Abdülmecid in dessen Fußstapfen und wurde zum Sultan des Osmanischen Reiches und zum Kalifen des Islams gekrönt. Für viele Menschen wäre dies wohl ein wahrgewordener Traum gewesen, doch für Abdülmecid war es etwas, was er nie wirklich wollte. Seine Apathie war einer von vielen Gründen dafür, dass es den Großwesiren, die während seiner Regierungszeit ernannt wurden, gelang, den bereits stark zurückgegangenen Einfluss des Sultans noch weiter zu reduzieren und ihn in eine Zeremonialfigur zu verwandeln, die sich größtenteils aus der Politik zurückhält und deren größte Aufgabe es ist, das Reich im Ausland zu repräsentieren. Mittlerweile hat die politische Macht des Sultans ihr Allzeittief erreicht - und es scheint unwahrscheinlich, wenn nicht gar unmöglich, dass sich dies in nächster Zeit ändern wird."
  TUR_osman_fuad_osmanoglu_leader_desc: "Wie die anderen Enkelkinder von Sultan Murad V wurde auch Osman Fuad Efendi dazu gezwungen, seine Kindheit im Çırağan-Palast zu verbringen. Diese Einschränkung wurde jedoch aufgehoben, als sein Großvater 1904 verstarb. Deshalb war es Osman möglich, sich 1911 während der italienischen Invasion Tripolitaniens dem Freiwilligenkorps anzuschließen. Obwohl er damals nur 16 Jahre alt war, gelang es Osman bereits, seine Fähigkeiten als Offizier und als Soldat unter Beweis zu stellen. Während seiner Zeit in Libyen traf er auch Mustafa Kemal, der damals noch nur ein Captain war und bald zu einem guten Freund Osmans werden würde.\n\nNachdem er einige Erfahrung auf dem Schlachtfeld gesammelt hatte, besuchte Osman die osmanische Militärakademie. Als er diese abgeschlossen hatte, wurde er zusammen mit einigen seiner Cousins zur deutschen Militärakademie in Potsdam entsandt. Daraufhin trat er dem 13. Kürassierregiment bei, in welchen er den Rang eines Hauptmanns hielt. Zu Beginn des Weltkrieges wurde er ins Reich zurückbeordert, um bei dessen Verteidigung helfen zu können. Im Verlauf des Krieges kämpfte er an vielen verschiedenen Fronten, wobei sich seine bedeutendsten Schlachten in Gallipoli und Bengasi zutrugen. Für seinen Mut, seine Courage und seine Kompetenz in der Schlacht verlieh man ihm mehrere Orden, darunter auch der Gallipoli-Stern und die Liakat-Medaille. Außerdem ernannte man ihn zum Major-General - eine wahrhaftig außergewöhnliche Beförderung für einen 23-Jährigen.\n\nNach dem Ende des Krieges blieb Osman in Kostantiniyye und fokussierte sich auf seine Militärkarriere. Dabei wurde er im ganzen Reich für seine Fähigkeiten als Offizier und vor allem seine Fertigkeiten als Kavalleriekommandant bekannt. Diese erwiesen sich nach dem Überfall auf die Hohe Pforte als äußerst nützlich und ermöglichten Osman die Vernichtung der Rebellen und die Rückeroberung der Hauptstadt. Aufgrund seiner schnellen Reaktion sehen die Menschen in ihm nun einen effizienten und vertrauenswürdigen Anführer, der, falls nötig, auch zur Tat schreiten kann. Einige fürchten jedoch, dass es sich bei Osman lediglich um eine weitere Marionette der OHF handelt und dass er zu stark von seinem lieben Freund Kemal beeinflusst wird. Der Sultan wird der Nation zeigen müssen, ob er alleine herrschen kann, oder ob er lediglich ein Bauer in einem viel größeren Spiel ist."
- TUR_ahmed_osmanoglu_leader_desc: "Ahmed IV, ein frommer und pflichtbewusster Mann, hat den Thron des Osmanischen Reiches bestiegen, ein Reich, welches nun schon seit über 600 Jahren existiert. Ahmed Nihad ist der Enkel des Sultans Murad V und verbrachte seine gesamte Kindheit und sein frühes Erwachsenenalter in den Schatten des Çırağan-Palasts. Er ist ein brillanter Architekt und Tischler (er hat sogar seine eigene Villa entworfen) und außerdem ein Oberst der Infanterie der osmanischen Armee. Wie sein Vorgänger ist auch Ahmed Nihad ein Mann der Kultur; er ist ein talentierter Komponist und ein anerkannter Musiker und Maler. Durch den Tod unseres Sultans wurde Ahmed Nihad nun jedoch zu Sultan Ahmed IV gekrönt. Die gesamte Nation befindet sich in einer kritischen Situation und Feinde lauern an jeder Ecke, sowohl innerhalb als auch außerhalb des Reiches, weshalb es einige Mühen kosten wird, dem erhabenen Staat seine Ordnung zurückzubringen."
+ TUR_ahmed_osmanoglu_leader_desc: "Ahmed IV, ein frommer und pflichtbewusster Mann, hat den Thron des Osmanischen Reiches bestiegen, ein Reich, welches nun schon seit über 600 Jahren existiert. Ahmed Nihad ist der Enkel des Sultans Murad V und verbrachte seine gesamte Kindheit und sein frühes Erwachsenenalter in den Schatten des Çırağan-Palasts. Er ist ein brillanter Architekt und Tischler (er hat sogar seine eigene Villa entworfen) und außerdem ein Oberst der Infanterie der osmanischen Armee. Wie sein Vorgänger ist auch Ahmed Nihad ein Mann der Kultur; er ist ein talentierter Komponist und ein anerkannter Musiker und Maler. Nun wurde Ahmed Nihad jedoch zu Sultan Ahmed IV gekrönt. Die gesamte Nation befindet sich in einer kritischen Situation und Feinde lauern an jeder Ecke, sowohl innerhalb als auch außerhalb des Reiches, weshalb es einige Mühen kosten wird, dem erhabenen Staat seine Ordnung zurückzubringen."
 
 ### Characters ###
  TUR_resad_fuad_baraner: "Reşad Fuat Bey"
- TUR_sefik_husnu_deymer: "Şefik Hüsnü Bey"
- TUR_hikmet_kivilcimli: "Hikmet Âli Bey"
- TUR_hasan_ali_yucel: "Hasan Âli Bey"
- TUR_ali_fethi_okyar: "Ali Fethi Paşa"
- TUR_adnan_menderes: "Adnan Bey"
- TUR_yusuf_hikmet_bayur: "Yusuf Hikmet Bey"
- TUR_ismet_resit: "İsmet Paşa"
- TUR_fevzi_cakmak: "Mustafa Fevzi Paşa"
- TUR_mehmet_kazim_orbay: "Mehmet Kâzım Paşa"
- TUR_mehmet_recep_peker: "Mehmet Recep Paşa"
-
  TUR_resad_fuad_baraner_surname: "Reşad Fuat Baraner"
+
+ TUR_sefik_husnu_deymer: "Şefik Hüsnü Bey"
  TUR_sefik_husnu_deymer_surname: "Şefik Hüsnü Deymer"
+
+ TUR_hikmet_kivilcimli: "Hikmet Âli Bey"
  TUR_hikmet_kivilcimli_surname: "Hikmet Âli Kıvılcımlı"
+
+ TUR_hasan_ali_yucel: "Hasan Âli Bey"
+ TUR_hasan_ali_yucel_surname: "Hasan Âli Yücel"
+
+ TUR_ali_fethi_okyar: "Ali Fethi Paşa"
  TUR_ali_fethi_okyar_surname: "Ali Fethi Okyar"
+
+ TUR_adnan_menderes: "Adnan Bey"
+ TUR_adnan_menderes_surname: "Adnan Menderes"
+
+ TUR_yusuf_hikmet_bayur: "Yusuf Hikmet Bey"
  TUR_yusuf_hikmet_bayur_surname: "Yusuf Hikmet Bayur"
+
+ TUR_ismet_resit: "İsmet Paşa"
  TUR_ismet_resit_surname: "İsmet Reşit"
+
+ TUR_fevzi_cakmak: "Mustafa Fevzi Paşa"
  TUR_fevzi_cakmak_surname: "Mustafa Fevzi Çakmak"
+
+ TUR_mehmet_kazim_orbay: "Mehmet Kâzım Paşa"
  TUR_mehmet_kazim_orbay_surname: "Mehmet Kâzım Orbay"
+
+ TUR_mehmet_recep_peker: "Mehmet Recep Paşa"
  TUR_mehmet_recep_peker_surname: "Mehmet Recep Peker"
 
  TUR_abdulmecid_osmanoglu: "Abdülmecid II"
  TUR_ahmed_osmanoglu: "Ahmed IV"
 
- TUR_mustafa_kemal: "Mustafa Kemal Paşa"
- TUR_sultanzade_mehmed_sabahaddin: "Sabahattin Efendi"
- TUR_musa_kazim_karabekir: "Kazim Karabekir Paşa"
- TUR_mahmud_celaleddin_bayar: "Mahmud Celâleddin Paşa"
- TUR_sevket_sureyya_aydemir: "Şevket Süreyya Bey"
- TUR_mustafa_sabri: "Mustafa Sabri Efendi"
- TUR_shakib_arslan: "Shakib Arslan"
-
- TUR_mehmet_nuri_conker: "Mehmet Nuri Paşa"
- TUR_falih_rifki_atay: "Falih Rıfkı Bey"
- TUR_mahmut_esat_bozkurt: "Mahmut Esat Bey"
- TUR_ali_kemal_kuneralp: "Ali Kemal Bey"
- TUR_mehmet_cavit_yalcin: "Mehmet Cavit Bey"
- TUR_mustafa_vasif_karakol: "Kara Vâsif Bey"
- TUR_yusuf_kemal_tengirsenk: "Yusuf Kemal Bey"
- TUR_yakup_kadri_karaosmanoglu: "Yakup Kadri Bey"
- TUR_ismail_hakki_canbulat: "Ismail Canbulat Bey"
- TUR_ahmet_naci_tinaz: "Ahmet Naci Paşa"
- TUR_fatin_rustu_zorlu: "Fatin Zorlu Paşa"
- TUR_halide_edip_adivar: "Halide Edip"
- TUR_riza_nur: "Rıza Nur Paşa"
- TUR_mehmed_sukru_saracoglu: "Mehmet Şükrü Paşa"
- TUR_resat_muhlis_erkmen: "Reşat Muhlis Bey"
- TUR_suleiman_sirri_aral: "Suleiman Sirri Bey"
- TUR_yunus_nadi_abalioglu: "Yunus Nadi Bey"
- TUR_husnu_bingol: "Hüsnü Paşa"
-
- TUR_cemal_mersinli: "Küçük Cemal Paşa"
- TUR_izzetin_calislar: "İzzettin Paşa"
- TUR_vecihi_hurkus: "Vecihi Paşa"
-
  TUR_osman_fuad_osmanoglu: "Osman Fuad Efendi"
  TUR_osman_fuad_osmanoglu_regnal: "Osman IV"
 
+ TUR_omer_faruk_osmanoglu: "Ömer Faruk Efendi"
+ TUR_omer_faruk_osmanoglu_regnal: "Ömer I"
+
+ TUR_mustafa_kemal: "Mustafa Kemal Paşa"
+ TUR_mustafa_kemal_surname: "Mustafa Kemal Öncü"
+
+ TUR_sultanzade_mehmed_sabahaddin: "Sabahattin Efendi"
+ TUR_sultanzade_mehmed_sabahaddin_surname: "Mehmed Sabâhaddin"
+
+ TUR_musa_kazim_karabekir: "Kâzım Karabekir Paşa"
+ TUR_musa_kazim_karabekir_surname: "Musa Kâzım Karabekir"
+
+ TUR_mahmud_celaleddin_bayar: "Mahmud Celâleddin Paşa"
+ TUR_mahmud_celaleddin_bayar_surname: "Mahmud Celâleddin Bayar"
+
+ TUR_shakib_arslan: "Shakib Arslan"
+
+ TUR_no_grand_vizier: "Kein Großwesir"
+
+ TUR_mehmet_nuri_conker: "Mehmet Nuri Paşa"
+ TUR_mehmet_nuri_conker_surname: "Mehmet Nuri Conker"
+
+ TUR_falih_rifki_atay: "Falih Rıfkı Bey"
+ TUR_falih_rifki_atay_surname: "Falih Rıfkı Atay"
+
+ TUR_mahmut_esat_bozkurt: "Mahmut Esat Bey"
+ TUR_mahmut_esat_bozkurt_surname: "Mahmut Esat Bozkurt"
+
+ TUR_ali_kemal_kuneralp: "Ali Kemal Bey"
+ TUR_ali_kemal_kuneralp_surname: "Ali Kemal Kuneralp"
+
+ TUR_mehmet_cavit_yalcin: "Mehmet Cavit Bey"
+ TUR_mehmet_cavit_yalcin_surname: "Mehmet Cavit Yalçın"
+
+ TUR_mustafa_vasif_karakol: "Kara Vâsıf Bey"
+ TUR_mustafa_vasif_karakol_surname: "Mustafa Vasıf Karakol"
+
+ TUR_yusuf_kemal_tengirsenk: "Yusuf Kemal Bey"
+ TUR_yusuf_kemal_tengirsenk_surname: "Yusuf Kemal Tengirşenk"
+
+ TUR_yakup_kadri_karaosmanoglu: "Yakup Kadri Bey"
+ TUR_yakup_kadri_karaosmanoglu_surname: "Yakup Kadri Karaosmanoğlu"
+
+ TUR_ismail_hakki_canbulat: "İsmail Hakkı Bey"
+ TUR_ismail_hakki_canbulat_surname: "İsmail Hakkı Canbulat"
+
+ TUR_ahmet_naci_tinaz: "Ahmet Naci Paşa"
+ TUR_ahmet_naci_tinaz_surname: "Ahmet Naci Tınaz"
+
+ TUR_halide_edip_adivar: "Halide Edib"
+ TUR_halide_edip_adivar_surname: "Halide Edib Adıvar"
+
+ TUR_riza_nur: "Rıza Nur Paşa"
+ TUR_riza_nur_surname: "Rıza Nur"
+
+ TUR_mehmed_sukru_saracoglu: "Mehmet Şükrü Paşa"
+ TUR_mehmed_sukru_saracoglu_surname: "Mehmet Şükrü Saracoğlu"
+
+ TUR_resat_muhlis_erkmen: "Reşat Muhlis Bey"
+ TUR_resat_muhlis_erkmen_surname: "Reşat Muhlis Erkmen"
+
+ TUR_suleiman_sirri_aral: "Suleiman Sirri Bey"
+ TUR_suleiman_sirri_aral_surname: "Suleiman Sirri Aral"
+
+ TUR_yunus_nadi_abalioglu: "Yunus Nadi Bey"
+ TUR_yunus_nadi_abalioglu_surname: "Yunus Nadi Abalıoğlu"
+
+ TUR_husnu_bingol: "Hüsnü Paşa"
+ TUR_husnu_bingol_surname: "Hüsnü Bingöl"
+
+ TUR_cemal_mersinli: "Küçük Cemal Paşa"
+ TUR_cemal_mersinli_surname: "Küçük Cemal Mersinli"
+
+ TUR_izzetin_calislar: "İzzettin Paşa"
+ TUR_izzetin_calislar_surname: "İzzettin Çalışlar"
+
+ TUR_vecihi_hurkus: "Vecihi Paşa"
+ TUR_vecihi_hurkus_surname: "Vecihi Hürkuş"
+
  TUR_omer_fahrettin_turkkan: "Ömer Fahrettin Paşa"
- TUR_nuri_yamut: "Nuri Paşa"
+ TUR_omer_fahrettin_turkkan_surname: "Ömer Fahrettin Türkkan"
+
+ TUR_nuri_yamut: "Mehmet Nuri Paşa"
+ TUR_nuri_yamut_surname: "Mehmet Nuri Yamut"
+
  TUR_hayrullah_fisek: "Hayrullah Paşa"
+ TUR_hayrullah_fisek_surname: "Hayrullah Fişek"
+
  TUR_abdurrahman_nafiz_gurman: "Abdurrahman Nafiz Paşa"
- TUR_mustafa_muglali: "Mustafa Muglali Paşa"
+ TUR_abdurrahman_nafiz_gurman_surname: "Abdurrahman Nafiz Gürman"
+
+ TUR_mustafa_muglali: "Mustafa Muğlalı Paşa"
+ TUR_mustafa_muglali_surname: "Mustafa Muğlalı"
+
  TUR_cemil_cahit_toydemir: "Cemil Cahit Paşa"
+ TUR_cemil_cahit_toydemir_surname: "Cemil Cahit Toydemir"
+
  TUR_asim_gunduz: "Asım Paşa"
+ TUR_asim_gunduz_surname: "Asım Gündüz"
+
  TUR_mehmet_hayri_tarhan: "Mehmet Hayri Paşa"
+ TUR_mehmet_hayri_tarhan_surname: "Mehmet Hayri Tarhan"
+
  TUR_nihat_anilmis: "Nihat Paşa"
+ TUR_nihat_anilmis_surname: "Nihat Anılmış"
+
  TUR_fahrettin_altay: "Fahrettin Paşa"
+ TUR_fahrettin_altay_surname: "Fahrettin Mutlu"
+
  TUR_tahsin_yazici: "Tahsin Paşa"
- TUR_omer_faruk: "Ömer Faruk Efendi"
+ TUR_tahsin_yazici_surname: "Tahsin Yazıcı"
+
  TUR_mehmet_ali_ulgen: "Mehmet Ali Paşa"
+ TUR_mehmet_ali_ulgen_surname: "Mehmet Ali Ülgen"
+
  TUR_sukru_okan: "Şükrü Paşa"
+ TUR_sukru_okan_surname: "Şükrü Okan"
+
  TUR_huseyin_rauf_orbay: "Hüseyin Rauf Paşa"
+ TUR_huseyin_rauf_orbay_surname: "Hüseyin Rauf Orbay"
+
  TUR_huseyin_husnu_erkilet: "Hüseyin Hüsnü Paşa"
- TUR_sefik_aker: "Şefik Paşa"
- TUR_selahattin_adil: "Selahattin Paşa"
+ TUR_huseyin_husnu_erkilet_surname: "Hüseyin Hüsnü Erkilet"
+
+ TUR_sefik_aker: "Mehmet Şefik Paşa"
+ TUR_sefik_aker_surname: "Mehmet Şefik Aker"
+
+ TUR_selahattin_adil: "Selâhattin Paşa"
+ TUR_selahattin_adil_surname: "Selâhattin Âdil"
+
  TUR_mahmud_muhtar_katircioglu: "Mahmud Muhtar Paşa"
+ TUR_mahmud_muhtar_katircioglu_surname: "Mahmud Muhtar Katırcıoğlu"
 
  TUR_refet_bele: "Refet Paşa"
+ TUR_refet_bele_surname: "Refet Bele"
+
  TUR_mehmet_rustu_sakarya: "Mehmet Rüştü Paşa"
- TUR_mehmet_sadik_altincan: "Mehmet Sadik Paşa"
+ TUR_mehmet_rustu_sakarya_surname: "Mehmet Rüştü Sakarya"
+
+ TUR_mehmet_sadik_altincan: "Mehmet Sadık Paşa"
+ TUR_mehmet_sadik_altincan_surname: "Mehmet Sadık Altıncan"
+
  TUR_muzaffer_goksenin: "Muzaffer Paşa"
+ TUR_muzaffer_goksenin_surname: "Muzaffer Göksenin"
+
  TUR_fevzi_ucaner: "Fevzi Uçaner Paşa"
+ TUR_fevzi_ucaner_surname: "Fevzi Uçaner"
+
  TUR_cemil_conk: "Cemil Paşa"
+ TUR_cemil_conk_surname: "Cemil Conk"
+
  TUR_ali_fuat_cebesoy: "Ali Fuat Paşa"
+ TUR_ali_fuat_cebesoy_surname: "Ali Fuat Cebesoy"
+
  TUR_mehmet_fahri_engin: "Mehmet Fahri Paşa"
+ TUR_mehmet_fahri_engin_surname: "Mehmet Fahri Engin"
+
  TUR_zeki_baraz_kolac_kilicoglu: "Mehmet Zeki Paşa"
+ TUR_zeki_baraz_kolac_kilicoglu_surname: "Zeki Baraz Kolaç Kılıçoğlu"
 
 ### Traits ###
  KR_aggressive_moderniser_sic: "Aggressiver Modernisierer"

@@ -451,7 +451,7 @@ PAN_training_the_masses_desc: "Wir sollten jeden einzelnen Zivilisten im Umgang 
 PAN_every_man_rifle: "Jeder Mann ein Gewehr"
 PAN_every_man_rifle_desc: "Wir sollten alle unsere Zivilisten mit älteren Gewehren ausstatten, damit sie, wenn wir sie rufen, bereit sind, ihre Pflicht zum Schutz Panamas zu erfüllen."
 PAN_static_defense: "Statische Verteidigung"
-PAN_static_defense_desc: "Wir werden fremden Eindringlingen keinen Zentimeter Boden überlassen.!"
+PAN_static_defense_desc: "Wir werden fremden Eindringlingen keinen Zentimeter Boden überlassen!"
 PAN_purchase_foreign_guns: "Kauf ausländischer Waffen"
 PAN_purchase_foreign_guns_desc: "Unsere heimische Waffenindustrie ist derzeit schwach. Wir sollten ausländische Waffen kaufen und sie zur Ausrüstung unserer Streitkräfte verwenden."
 PAN_support_artillery: "Investition in Unterstützungsartillerie"
@@ -596,6 +596,7 @@ PAN_investment_decision: "Erbittet [From.GetAdjective] Investitionen"
 #Flags
 
 ### Characters ###
+PAN_demetrio_augusto_porras_juarez: "Demetrio Augusto Porras Juárez"
 PAN_ricardo_alfaro_jovane: "Ricardo Alfaro Jované"
 
 PAN_juan_demostenes_arosemena: "Juan Demostenes Arosemena"

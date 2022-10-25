@@ -379,7 +379,7 @@ BEL_Fund_Cimentieres_desc: "Um die Nachwirkungen des Schwarzen Montags endlich l
 BEL_Solvay_Institute: "Förderung des Solvay-Instituts"
 BEL_Solvay_Institute_desc: "Seit dem frühen 20. Jahrhundert steht das Solvay-Institut an der Spitze der technologischen Innovation. Durch die Vergabe von Stipendien an vielversprechende belgische Wissenschaftler und die Finanzierung ausländischer Projekte konnten wir das Interesse von Wissenschaftlern wie Marie Curie, Albert Einstein und vielen anderen wecken."
 BEL_Sixth_Solvay_Congress: "Abhalten des sechsten Solvay-Kongresses"
-BEL_Sixth_Solvay_Congress_desc: "Nach dem großen Erfolg des Fünften Kongresses über Elektronen und Protonen hat das Solvay-Institut erneut die klügsten Wissenschaftler unserer Zeit eingeladen, um über Magnetismus zu debattieren."
+BEL_Sixth_Solvay_Congress_desc: "Nach dem großen Erfolg des Fünften Kongresses über Elektronen und Photonen hat das Solvay-Institut erneut die klügsten Wissenschaftler unserer Zeit eingeladen, um über Magnetismus zu debattieren."
 BEL_Baekelandt_Program: "Start des Baekelandt-Programms"
 BEL_Baekelandt_Program_desc: "Benannt nach einem unserer berühmtesten Wissenschaftler und Pionier auf dem Gebiet der Kunststoffe, haben wir beschlossen, ein eigenes großes militärisches Forschungsprojekt zu starten, das sich mit den Möglichkeiten eines schnelleren Transports und den Möglichkeiten der Raketentechnik beschäftigt."
 BEL_Antwerpse_Raffinage: "Antwerpen Raffinerien"
@@ -454,7 +454,7 @@ BEL_Trench_War_desc: "Das nationale Trauma, das auf die deutsche Kriegserklärun
 BEL_Increase_FN_Funding: "FN-Förderung erhöhen"
 BEL_Increase_FN_Funding_desc: "FN ist unser größter Waffenhersteller und hat bei unserer Regierung einen Kredit beantragt, um seine Kleinwaffenproduktion weiter zu innovieren und auszubauen."
 BEL_Mobilise_the_Reserves: "Mobilisierung der Reserven"
-BEL_Mobilise_the_Reserves_desc: "Der Moment, den wir seit vielen Jahren gefürchtet haben, ist endlich gekommen und der Krieg steht kurz bevor. Unsere Reserven, über 200.000 stark, sind unerfahren und schlecht ausgerüstet, aber sie sind unsere letzte Verteidigungslinie in diesen verzweifelten Zeiten."
+BEL_Mobilise_the_Reserves_desc: "Der Moment, den wir seit vielen Jahren gefürchtet haben, ist endlich gekommen und der Krieg steht kurz bevor. Unsere Reserven, über 100.000 stark, sind unerfahren und schlecht ausgerüstet, aber sie sind unsere letzte Verteidigungslinie in diesen verzweifelten Zeiten."
 BEL_Push_Forwards: "Offensiv-Planung"
 BEL_Push_Forwards_desc: "Die Gegenoffensive ist endlich da. Alle Truppen, sofort vorrücken!"
 
@@ -549,9 +549,6 @@ Choose_Syndicalist: "Jacquemotte hat die Kontrolle über die Partei übernommen"
 TOA_Refused: "Der Vertrag von Arel wurde abgelehnt"
 German_Investigation: "Deutsche Ermittlungen"
 Flemish_Council_Chosen: "Flämische Ermittlungen"
-chasseurs_ardennais.tt: "\nGründen £nato_unit_mountaineers_icon_small  §Y"Ardennenjäger"§! in §CWallonien§!"
-BEL.LC.tt: "Erstellt £light_cruiser_texticon §YBNS Adalbert§! in §CKiel§!\nErstellt £light_cruiser_texticon §YBNS Ambiorix§! in §CKiel§!"
-BEL_reservemob_tt: "\nMobilisieren Sie §Y20§! £nato_unit_infantry_icon_small §YInfanterie Divisionen§! aus der Reserve"
 
 ### Opinion Modifiers ###
 BEL_Arlon_Refused: "Vertrag von Arel abgelehnt"
@@ -620,8 +617,8 @@ BEL_authoritarian_democrat_party: "Deutsche Sympathisanten"
 Interim_Governement: "Übergangsregierung"
 
 ### Tech Sharing ###
-belgian_research_name: "Königliche Akademie"
-belgian_research_desc: "Eine kooperative akademische Forschungsgruppe, die aus allen belgischen und niederländischen Universitäten besteht und von der Führung beider Länder gefördert wird."
+belgian_research_name: "Niederländische Akademie"
+belgian_research_desc: ""
 belgian_german_naval_program: "Flämisch-wallonisches Marine-Kooperationsprogramm"
 belgian_german_naval_program_desc: ""
 
@@ -1072,14 +1069,13 @@ bel.463.a: "Das ist fantastisch!"
 bel.464.t: "Vertrag von Arlon"
 bel.464.d: "Mit einem offiziellen Waffenstillstand zwischen dem Reich und den belgischen Rebellen haben wir uns bereit erklärt, auf ihre Forderungen einzugehen. Sie fordern die volle Unabhängigkeit von Deutschland, versprechen aber, im Militärbündnis Reichspakt zu bleiben, um uns an der Westgrenze zu unterstützen. Während die Zustimmung zu diesen Forderungen als eine Schande für das mächtige deutsche Ungetüm angesehen werden könnte und vielleicht sogar Widerstand im Osten entfachen könnte, müssen wir es vermeiden, uns in diesen Zeiten der Krise zu überfordern."
 bel.464.a: "Der Vertrag ist unterzeichnet!"
-bel.464.b: "Deutschland wird sich nicht vor diesen Rebellen beugen!"
 
 bel.465.t: "Belgien lehnt den Kongress von Arlon ab"
-bel.465.d: "Es scheint, dass diese Emporkömmlinge "Belgier" unser großzügiges Angebot komplett abgelehnt und uns den Rücken gekehrt haben. Mit dieser klaren Ohrfeige haben unsere Kriegsfalken gefordert, dass das Kaiserreich die Dinge richtig stellt und einmarschiert, um diese Emporkömmlinge zu vernichten. Es scheint, dass sich kühlere Köpfe durchgesetzt haben und [GER.GetRulingParty] sich dafür entschieden hat, abzuwarten und sich mit dem "Belgien"-Problem zu einem späteren Zeitpunkt zu befassen, wenn diese Plage des Schwarzen Montags uns nicht mehr heimsucht."
+bel.465.d: "Es scheint, dass die aufstrebenden Belgier unser großzügiges Angebot vollständig abgelehnt und uns den Rücken gekehrt haben. Mit dieser klaren Ohrfeige haben unsere Kriegsfalken gefordert, dass das Kaiserreich die Dinge richtig stellt und einmarschiert, um diese Emporkömmlinge zu vernichten. Es scheint, dass sich kühlere Köpfe durchgesetzt haben und [GER.GetRulingParty] sich dafür entschieden hat, abzuwarten und sich mit dem Problem zu einem späteren Zeitpunkt zu befassen, wenn diese Plage des Schwarzen Montags uns nicht mehr heimsucht."
 bel.465.a: "Wir werden sie noch früh genug aufsuchen."
 
 bel.466.t: "Das deutsche Gegenangebot"
-bel.466.d: "Es scheint, dass die Deutschen in einem undeutschen Gegenangebot, nur die Region Wallon Luxemburg angeboten haben, aber Luxemburg selbst abgelehnt haben. Dies würde bedeuten, dass Arlon wieder zu Belgien gehören würde, was die extremeren Ränder des politischen Spektrums besänftigen würde und in den Augen der Öffentlichkeit ein Gewinn wäre. Natürlich würde dies bedeuten, dass Luxemburg offiziell unter dem Kaiserreich stehen würde, und obwohl dies eine kleinere Pille zu schlucken ist, gibt es diejenigen, die sagen, es geht um Alles oder Nichts"
+bel.466.d: "Es scheint, dass die Deutschen der Abtretung der Region Wallonisch-Luxemburg zugestimmt haben, die Abtretung von Luxemburg selbst aber abgelehnt haben. Dies würde bedeuten, dass Arlon wieder zu Belgien gehören würde, was die extremeren Ränder des politischen Spektrums besänftigen würde und in den Augen der Öffentlichkeit ein Gewinn wäre. Natürlich würde dies bedeuten, dass Luxemburg offiziell unter dem Kaiserreich stehen würde, und obwohl dies eine kleinere Pille zu schlucken ist, gibt es diejenigen, die sagen, es geht um Alles oder Nichts"
 bel.466.a: "Sehr wohl, wir akzeptieren."
 bel.466.b: "Luxemburg ist nicht verhandelbar."
 

@@ -112,6 +112,8 @@ AUS_stops_italian_revolts: "Wird verhindern, dass §YItalienische Revolten§W in
 AUS_ausgleich_kingdoms: "Alle Königreiche zum Ausgleich eingeladen."
 AUS_ausgleich_peoples: "Alle Nationalitäten zum Ausgleich eingeladen."
 
+ AUS_will_not_get_puppet_divisions: "§CAlle Divisionen werden §Raufgelöst§!, aber wir werden ihre Ausrüstung und ihr Personal übernehmen.§!"
+
 ### Companies ###
  austria_montage: "Alpen Montage Gesellschaft"
  puch: "Puch"
@@ -181,6 +183,16 @@ AUS_ausgleich_peoples: "Alle Nationalitäten zum Ausgleich eingeladen."
  aviatik_galizien: "Aviatik Galizien und Lodomerien"
  lwl: "LWL"
 
+### Illyria ###
+ ganz_kroatien_slawonien: "Ganz Kroatien-Slawonien"
+ koncar_elektroindustrija: "Končar Elektroindustrija"
+ ina: "INA"
+ prva_hrvatska_tvornica_rublja: "Prva Hrvatska Tvornica Rublja"
+ taz: "TAZ"
+ tzv_gredelj: "TŽV Gredelj"
+ aviatik_kroatien_slawonien: "Aviatik Kroatien-Slawonien"
+ brodosplit: "Brodosplit"
+
 ### Bosnia ###
  aluminij: "Aluminij"
  univerzitet_u_sarajevu: "Univerzitet u Sarajevu"
@@ -228,10 +240,7 @@ AUS_imperial_development_scheme: "Imperiales Entwicklungsschema"
 AUS_kaiser_faith: "Glaube an den Kaiser"
 AUS_kaiser_faith_desc: "Die Menschen haben Vertrauen in das neue Reich gewonnen. Gott erhalte unseren Kaiser!"
 
-AUS_k_u_k_armee_bonus: "Rekrutierung der Gemeinsamen Armee"
-AUS_k_u_k_armee_bonus_desc: "Rekrutierung der Gemeinsamen Armee"
-AUS_k_u_k_armee_bonus_2: "Rekrutierung der Gemeinsamen Armee"
-AUS_k_u_k_armee_bonus_2_desc: "Die Gemeinsame Armee ist der Hauptbestandteil der Streitmacht der Monarchie\"armed power\". Sie ist der größte und bestausgerüstete Teil der Armee, deren Rekruten aus allen Ecken Österreich-Ungarns kommen."
+ AUS_military_integration: "Militärische Integration"
 
 AUS_DNF_political_instability: "Politische Instabilität"
 AUS_DNF_political_instability_desc: "Das Prinzip der nationalen Autonomie der Bürger ist in Kraft. Die vielen Ethnien Österreichs sind derzeit dabei, sie in Nationalparteien neu zu organisieren, was die politische Landschaft in ein Chaos stürzt. Ein solch radikaler Wandel war sicher mit viel Instabilität verbunden, aber selbst Skeptiker hatten nicht damit gerechnet, dass es so schlimm kommen würde."
@@ -719,6 +728,10 @@ phoenix_fighters: "Phönix Jäger Werke"
 austria.1.t: "Die Lage Österreichs 1936"
 austria.1.d: "Obwohl er zu den Siegern des Weltkrieges gehörte, machte der Krieg die Spaltungen in Kultur, Klasse und Ideologie innerhalb des Reiches immer deutlicher sichtbar, und die inneren Unruhen setzten sich nach Kriegsende fort.\n\nKaiser Karl, der in die Fußstapfen des ermordeten Franz Ferdinand trat und versuchte, das multinationale österreichisch-ungarische Reich zu etwas zu reformieren, das im zwanzigsten Jahrhundert überleben konnte, leitete eine Reihe groß angelegter Reformen ein; seine Bemühungen wurden jedoch weitgehend durch den Adel der ungarischen Seite des Reiches blockiert - was dazu führte, dass seine Pläne zur Föderalisierung nur langsam und nur auf der cisleithanischen Seite des Reiches vorankamen.\n\nViele spüren jedoch, dass es Hoffnung für Österreich gibt - die letzten Jahrzehnte waren hart für das Kaiserreich, aber die Mühe hat sich gelohnt. Das cisleithanische Österreich, jetzt ein Föderationsstaat, hat sich beruhigt - aber dasselbe kann man von Transleithanien nicht sagen. Es ist jedoch unwahrscheinlich, dass das Karpatenbecken weiterhin in magyarischer Hand bleiben wird, da Ungarns Völker auf die Freiheiten jenseits der Leitha blicken und eine solche Autonomie für sich selbst wünschen. Ob die Reform den Weg nach Ungarn finden wird, weiß nur der Kaiser mit Sicherheit."
 austria.1.a: "Österreich wird im Finale sein."
+
+ austria.2.t: "Schwarzer Montag trifft Österreich"
+ austria.2.d: "Der Schwarze Montag hat Deutschland getroffen, und es wird nicht lange dauern, bis die Schockwelle über Europa schwappt. Aufgrund seiner unmittelbaren Nähe war Österreich als eines der ersten Länder betroffen. Die Wirtschaft hat zu kämpfen und es stehen schwierige Zeiten bevor."
+ austria.2.a: "Ach, Gott!"
 
 austria.3.t: "Der Tod von Kaiser Karl"
 austria.3.d: "Kaiser Karl, der an chronischer Bronchitis litt, ist heute gestorben."

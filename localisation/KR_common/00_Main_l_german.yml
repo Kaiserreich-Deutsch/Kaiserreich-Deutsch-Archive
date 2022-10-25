@@ -12,7 +12,7 @@
 
 ### Splash Screen Credits ###
 KR_SPLASH_TITLE: "Willkommen bei Kaiserreich"
-KR_SPLASH_CREDITS: "§YPräsentiert vom KR4-Team:§!\nAdrianator2  ·  Alpinia  ·  Arvidus  ·  Asratius  ·  Augenis  ·  Blackfalcon501  ·  Carmain\nChazem  ·  Conchobhar  ·  DSFDarker  ·  DuoDex  ·  El Daddy  ·  Flamefang  ·  Gaboemi\nGideones  ·  Hamfast  ·  Ido  ·  Igor050301  ·  JazzyHugh  ·  Jeankedezeehond  ·  Jonny BL\nJuliet Wehrwolf  ·  KFateweaver  ·  Kennedy  ·  kergely  ·  Klyntar King  ·  Krčo  ·  Luwofe\nMatoro  ·  McOmghall  ·  ~mw~ // miwaco.  ·  NukeGaming  ·  OperationsManagementDecisions\nOwenomaly  ·  PPsyrius  ·  Pelmen  ·  Purple Jinjo  ·  RagnoStrangeros  ·  Rei!  ·  Retrocognition\nRnk  ·  Rylock  ·  Shiroe  ·  Sonny O'Cad  ·  Story  ·  suzuha  ·  The Alpha Dog\nThe Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho, XYungeloest, Schmiddlon, _R4ze_, Thylon, Davideko, Hydrus, MartenDE, Chromsh, DickSharpe, Semarc, Wolf, Silent_Wolf, Alex S, DerEherneRächer, naskamo, Quatschtütenwürger, Omitier"
+KR_SPLASH_CREDITS: "§YPräsentiert vom KR4-Team:§!\nAdrianator2  ·  Alpinia  ·  Arvidus  ·  Asratius  ·  Augenis  ·  Blackfalcon501  ·  Carmain\nChazem  ·  Chiron29  ·  Conchobhar  ·  DSFDarker  ·  DuoDex  ·  El Daddy  ·  Fedex\nFlamefang  ·  Gaboemi  ·  Gideones  ·  Hamfast  ·  Ido  ·  Igor050301  ·  JazzyHugh\nJeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  KFateweaver  ·  Kennedy  ·  kergely\nKlyntar King  ·  Krčo  ·  Luwofe  ·  Matoro  ·  McOmghall  ·  ~mw~ // miwaco.  ·  NukeGaming\nOperationsManagementDecisions  ·  Owenomaly  ·  PPsyrius  ·  Pelmen  ·  RagnoStrangeros\nRei!  ·  Retrocognition  ·  Rnk  ·  Shiroe  ·  Sonny O'Cad  ·  Story  ·  suzuha  ·  The Alpha Dog\nThe Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko  ·  Hydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc, Wolf  ·  Silent_Wolf  ·  Alex S  ·  DerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier"
 
 ### Diplomacy Tooltips ###
 REQUEST_EXP_FORCE_BLOCKED_TT: "§RDieses Land erlaubt Ihnen nicht, ihre Streitkräfte anzufordern.§!"
@@ -74,7 +74,7 @@ is_actual_major_without_exceptions: "$is_actual_major_tooltip_base$$is_actual_ma
 toggle_renaming_button_tooltip: "[toggle_renaming_button_tooltip_loc]"
 toggle_renaming_button_tooltip_desc: "[toggle_renaming_button_tooltip_desc_loc]"
 toggle_renaming_button_tooltip_mp: "§RIm Mehrspieler-Modus deaktiviert§!"
-toggle_renaming_button_tooltip_enable: "§HCurrently in English Names Mode§!"
+toggle_renaming_button_tooltip_enable: "§HDerzeit im Modus - Deutsche Namen§!"
 toggle_renaming_button_tooltip_enable_desc: "Das Spiel verwendet derzeit deutsche Namen für Staaten und Siegpunkte (Exonyme), wobei deren dynamische Umbenennung deaktiviert ist.\n\nKlicken Sie hier, um zur Verwendung nativer Namen für Staaten und Siegpunkte (Endonyme) zu wechseln, wobei deren dynamische Umbenennung aktiviert ist."
 toggle_renaming_button_tooltip_disable: "§HDerzeit im Modus - Native Namen§!"
 toggle_renaming_button_tooltip_disable_desc: "Das Spiel verwendet derzeit native Namen für Staaten und Siegpunkte (Endonyme), wobei deren dynamische Umbenennung aktiviert ist.\n\nKlicken Sie hier, um zu deutsche Namen für Staaten und Siegpunkte (Exonyme) zu wechseln, wobei deren dynamische Umbenennung deaktiviert ist."
@@ -156,8 +156,10 @@ AL_avricourt_compensation_sent: "§Y[GER.GetNonIdeologyNameDefCap]§! kompensier
 AL_elfringen_compensation_sent: "§Y[FRA.GetNonIdeologyNameDefCap]§! kompensiert §Y[GER.GetNonIdeologyNameDef]§! für Elfringen"
 AL_uneasy_ceasefire: "Unruhiger §YFranco-Deutscher§! Waffenstillstand"
 AL_rally_for_war: "§Y[THIS.GetNonIdeologyNameDefCap]§! mobilisiert für den Krieg"
-second_weltkrieg_threat: "Zweiter Weltkrieg"
 country_joins_alliance_threat: "§Y[THIS.GetNonIdeologyNameDefCap]§! tritt der §Y[PREV.GetFactionName]§! bei"
+
+second_weltkrieg_threat: "Zweiter Weltkrieg"
+second_weltkrieg_has_started: "Der Zweite Weltkrieg hat begonnen"
 
 ### Operatives ###
 operation_infiltrate_armed_forces_army_outcome: "$operation_infiltrate_armed_forces_army$ Effektivität"
@@ -187,6 +189,31 @@ NAME_THEME_STATES_CITIES: "States & Cities"
 ### Second in Command ###
 second_in_command_slot: "Stellvertretender Befehlshaber"
 second_in_command: "Stellvertretender Befehlshaber"
+
+### Character Tooltips ###
+character_is_dead: "Ist verstorben"
+character_is_dead_NOT: "Ist nicht verstorben"
+
+is_second_in_command: "Ist der stellvertretende Befehlshaber"
+is_second_in_command_NOT: "Ist nicht der stellvertretende Befehlshaber"
+
+has_free_political_advisor_slot: "Mindestens eine freie Stelle für einen Politischen Berater"
+has_free_political_advisor_slot_NOT: "Keine freien Stellen für Politische Berater"
+
+has_two_political_advisors: "Mindestens §Yzwei§! angeheuerte Politische Berater"
+has_two_political_advisors_NOT: "Weniger als §Yzwei§! angeheuerte Politische Berater"
+
+has_any_political_advisor: "Hat mindestens einen Politische Berater angestellt"
+has_any_political_advisor_NOT: "Hat keine angeheuerten Politische Berater"
+
+character_event_only: "Hinzugefügt durch Ereignis"
+
+### Mobilisation Effects ###
+disband_ten_percent_units: "Löst §Y10%§! aller bestehenden Divisionen unter Beibehaltung ihrer Ausrüstung auf."
+disband_twenty_percent_units: "Löst §Y20%§! aller bestehenden Divisionen unter Beibehaltung ihrer Ausrüstung auf."
+disband_twenty_percent_units_delete_equipment: "Löst §Y20%§! aller bestehenden Divisionen auf."
+disband_fifty_percent_units: "Löst §Y50%§! aller bestehenden Divisionen unter Beibehaltung ihrer Ausrüstung auf."
+
 #empty - should be hidden
 second_in_command_trait: "   "
 
@@ -349,20 +376,15 @@ generic_research_advances: "Forschungsfortschritte"
 
 ### General ###
 fighter_techs: "Kampfflugzeug-Technologie"
-fighter_techs_research: "Kampfflugzeug-Technologie Forschungszeit"
 cat_strategic_destruction: "Strategische Zerstörungstechnik"
-marine_tech_research: "Marine Technologie Forschungszeit"
 early_fighter: "Zwischenkriegs-Jäger"
 signal_company_tech: "Fernmelde Kompanie"
 maintenance_company_tech: "Wartungs Kompanie"
 cat_line_artillery: "Linien-Artillerie"
-cat_light_armor_research: "Leichte Panzerung Forschung Geschwindigkeit"
 cat_light_spg: "Leichte Selbstfahrlafetten"
 cat_medium_spg: "Mittlere Selbstfahrlafetten"
 cat_heavy_spg: "Schwere Selbstfahrlafetten"
 tank_destroyer_tech: "Pak"
-excavation_tech_research: "Bergbautechnische Forschungsgeschwindigkeit"
-construction_tech_research: "Geschwindigkeit der Bauforschung"
 cat_gunnery: "Schiffsgeschütze"
 cr_tech: "Kreuzer Modelle"
 acr_tech: "Modelle von Panzerkreuzern"
@@ -373,14 +395,22 @@ capital_ship_tree: "Hauptschiffs Operationen"
 cat_armored_car: "Panzerwagen"
 cat_special_units: "Spezialeinheiten"
 
+fighter_techs_research: "Kampfflugzeug-Technologie Forschungszeit"
+marine_tech_research: "Marine Technologie Forschungszeit"
+cat_light_armor_research: "Leichte Panzerung Forschung Geschwindigkeit"
+excavation_tech_research: "Bergbautechnische Forschungsgeschwindigkeit"
+construction_tech_research: "Geschwindigkeit der Bauforschung"
+
 early_ship_hull_light: "$ship_hull_light_1$"
 basic_ship_hull_light: "$ship_hull_light_2$"
 improved_ship_hull_light: "$ship_hull_light_3$"
 advanced_ship_hull_light: "$ship_hull_light_4$"
 early_ship_hull_cruiser: "$ship_hull_cruiser_1$"
+#basic_ship_hull_cruiser: "$ship_hull_cruiser_2$" #in overide file
 improved_ship_hull_cruiser: "$ship_hull_cruiser_3$"
 advanced_ship_hull_cruiser: "$ship_hull_cruiser_4$"
 early_ship_hull_heavy: "$ship_hull_heavy_1$"
+#basic_ship_hull_heavy: "$ship_hull_heavy_2$" #in overide file
 improved_ship_hull_heavy: "$ship_hull_heavy_3$"
 advanced_ship_hull_heavy: "$ship_hull_heavy_4$"
 basic_ship_hull_carrier: "$ship_hull_carrier_1$"
@@ -390,6 +420,33 @@ early_ship_hull_submarine: "$ship_hull_submarine_1$"
 basic_ship_hull_submarine: "$ship_hull_submarine_2$"
 improved_ship_hull_submarine: "$ship_hull_submarine_3$"
 advanced_ship_hull_submarine: "$ship_hull_submarine_4$"
+
+early_destroyer: "$destroyer_1$"
+basic_destroyer: "$destroyer_2$"
+improved_destroyer: "$destroyer_3$"
+advanced_destroyer: "$destroyer_4$"
+early_light_cruiser: "$light_cruiser_1$"
+basic_light_cruiser: "$light_cruiser_2$"
+improved_light_cruiser: "$light_cruiser_3$"
+advanced_light_cruiser: "$light_cruiser_4$"
+early_heavy_cruiser: "$heavy_cruiser_1$"
+#basic_heavy_cruiser: "$heavy_cruiser_2$" #in overide file
+improved_heavy_cruiser: "$heavy_cruiser_3$"
+advanced_heavy_cruiser: "$heavy_cruiser_4$"
+early_battleship: "$battleship_1$"
+basic_battleship: "$battleship_2$"
+improved_battleship: "$battleship_3$"
+advanced_battleship: "$battleship_4$"
+early_battlecruiser: "$battle_cruiser_1$"
+basic_battlecruiser: "$battle_cruiser_2$"
+#early_carrier: "$carrier_1$" #in overide file
+basic_carrier: "$carrier_2$"
+improved_carrier: "$carrier_3$"
+advanced_carrier: "$carrier_4$"
+early_submarine: "$submarine_1$"
+basic_submarine: "$submarine_2$"
+improved_submarine: "$submarine_3$"
+advanced_submarine: "$submarine_4$"
 
 ### Hidden Techs ###
 camel_corps_tech: "Kamel-Korps"

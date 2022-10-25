@@ -288,6 +288,10 @@ lepwar.6.t: "Abtrünnige aus Anqing"
 lepwar.6.desc: "Es scheint, dass nach dem Zusammenbruch der Anqing-Clique eine Reihe von Kriegsherren, Generälen und kleinen Despoten, die durch Chen Tiaoyuans Zusammenarbeit mit den Japanern belastet sind, lieber auf [SQI.GetLeader] gesetzt haben, als Vergeltung von der Kuomintang zu riskieren. Ihre Fähigkeiten werden sich sicherlich als Vorteil für uns erweisen."
 lepwar.6.a: "Willkommen!"
 
+lepwar.7.t: "Die Folgen von Chen Yis Verrat"
+lepwar.7.d: "Der Übertritt von Gouverneur Chen Yi nach Anqing ist in den Reihen der Nanjing-Clique auf erhebliche Verachtung und Besorgnis gestoßen. Der ehemalige Bankier, Kommandeur und Gouverneur hatte in Zhejiang ein mächtiges Patronagenetz aufgebaut, und eine beträchtliche Anzahl von Truppen und Offizieren ist mit ihm übergelaufen. Durch diesen jüngsten Schlag gegen die südlichen Zhili wurde die Kommunikation mit dem Gebiet unterbrochen und wichtige Informationen gingen verloren. Doch nicht alle Offiziere aus Zhejiang haben sich Chen angeschlossen. Einer der wenigen Lichtblicke in diesen schwierigen Zeiten war der heldenhafte Rückzug von Tang Enbo, einem langjährigen Stabsoffizier und Schüler von Chen Yi. Trotz seines Studiums in Japan und seiner lokalen Verbindungen hat der junge Offizier beschlossen, Nanjing treu zu bleiben. Dank seiner langjährigen Erfahrung bei der Befriedung des Südens gegen die Kuomintang-Guerilla konnte er den Schaden, den Chen Yis Verrat angerichtet hatte, durch seinen Rückzug auf befreundete Linien etwas abmildern. Seine Fähigkeiten sind zweifellos Marschall Qi aufgefallen."
+lepwar.7.a: "Ein neuer Stern geht auf!"
+
 ### Ideas ###
 unite_china_justification_idea: "China vereint!"
 unite_china_justification_idea_desc: "Jetzt, wo wir die Hauptstadt erobert und eine neue chinesische Regierung gebildet haben, müssen wir die verbleibenden Warlords unterjochen."
@@ -296,7 +300,7 @@ league_collapse_idea_1_desc: "Nun, da die Liga zerbrochen ist und der offene Kri
 league_collapse_idea_2: "Nanjing neu organisiert"
 league_collapse_idea_2_desc: "Die Verräter haben es nicht geschafft, uns trotz unserer Schwäche zu brechen, jetzt ist die Zeit gekommen, dass wir zurückschlagen und zurückfordern, was uns gehört!"
 china_foreign_support: "Ausländische Unterstützung"
-china_foreign_support_desc: "Aufgrund unseres Erfolges im Krieg wurde eine Auslandsmission eingerichtet, die uns helfen soll, unseren Sieg zu realisieren.."
+china_foreign_support_desc: "Aufgrund unseres Erfolges im Krieg wurde eine Auslandsmission entsendet, die uns helfen soll, unseren Sieg zu realisieren.."
 china_desertions_common: "Desertionen üblich"
 china_desertions_common_desc: "Eine Reihe von Niederlagen hat dazu geführt, dass sich immer mehr Männer weigern, zu kämpfen. Manchmal treten sie der Armee bei, um ein neues Paar Kleider zu erhalten und sie auf dem nächsten Markt zu verkaufen.."
 china_morale_effects_tooltip: "§YLiga Kriegsmoral§!\nPolitischer Machtzuwachs: [?china_morale_dm_political_power_gain|+=%0]\nKriegsunterstützung: [?china_morale_dm_war_support_factor|+%=2]\nÜberlassungsgrenze: [?china_morale_dm_surrender_limit|+%=0]\nDurchschlagende Wirkung: [?china_morale_dm_breakthrough_factor|+%=1]"

@@ -52,6 +52,9 @@ GER_poli_temp_desc:0 "Zu lange haben die Menschen darum gekämpft, wo die Macht 
  vulcan_stettin:0 "Vulkan-Werke Hamburg & Stettin"
  siemens_schuckert:0 "Siemens-Schuckert"
 
+### World Tension ###
+ GER_black_monday_threat: "Schwarzer Montag"
+
 ### Ideas ###
  GER_ready_to_surrender: "Eingabe"
 
@@ -334,10 +337,6 @@ GER_puppet_core_germany:0 "Ordnung wiederherstellen in [From.GetName]"
  GER_integrate_austria: "Österreich integrieren"
  GER_integrate_switzerland: "Integrate Switzerland"
 
-GER_seize_morocco_decisions:0 "Beschlagnahme marokkanischer Gebiete"
-GER_seize_morocco_decisions_desc:0 "Seit dem zwanzigsten Jahrhundert haben wir die Ambitionen gegenüber Marokko gefördert. Jetzt, da die anderen Mächte, die dort ein Interesse haben, in Aufruhr sind, ist es an der Zeit, dieses Land für uns zu gewinnen."
-GER_seize_spanish_morocco:0 "Spanisches Marokko einnehmen"
-
  french_occupation_decisions: "Besetzung Frankreichs"
  GER_erode_cof_legitimacy: "Aushöhlung der Legitimität der Kommune"
  GER_invite_nfa_to_france: "Die Exilanten aus Algier nach Frankreich einladen"
@@ -505,8 +504,11 @@ GER_further_siemens_contracts_desc:0 "Da die Erholung unserer Produktion zu eine
 GER_arms_industry:0 "Industrieller Militärischer Komplex"
 GER_arms_industry_desc:0 "Angesichts der Unruhen im Westen und des Erwachens des Bären im Osten muss Deutschland heute mehr denn je auf die vor ihm liegenden Herausforderungen vorbereitet sein. Durch Investitionen in unsere heimischen Waffenproduzenten stellen wir sicher, dass der deutsche Soldat für die kommenden Herausforderungen gut gerüstet ist"
 
-GER_industry_finished:0 "Wirtschaftsaufschwung"
-GER_industry_finished_desc:0 "Da unsere Wirtschaftspolitik nach dem Schwarzen Montag weithin als durchschlagender Erfolg angesehen wird, haben private Investoren die Führung übernommen, und die Wirtschaft hat sich nicht nur stabilisiert, sondern erlebt derzeit eine Art Boom. Das wird nicht ewig so bleiben, aber zumindest für eine Minute können wir uns auf andere dringende Fragen konzentrieren."
+GER_industry_finished:0 "Wirtschaftlicher Aufschwung"
+ GER_industry_finished_desc: "Endlich, drei Jahre nach dem Schwarzen Montag, erholt sich unsere Wirtschaft langsam! Dies kann der Zeitpunkt sein, um mehr zu investieren, um unsere nationalen Interessen weiter zu sichern!"
+
+ GER_industrial_boom: "Industrieller Aufschwung"
+GER_industrial_boom_desc:0 "Da unsere Wirtschaftspolitik nach dem Schwarzen Montag weithin als durchschlagender Erfolg angesehen wird, haben private Investoren die Führung übernommen, und die Wirtschaft hat sich nicht nur stabilisiert, sondern erlebt derzeit eine Art Boom. Das wird nicht ewig so bleiben, aber zumindest für eine Minute können wir uns auf andere dringende Fragen konzentrieren."
 
 GER_siemens:0 "Subventionen für Siemens"
 GER_siemens_desc:0 "Siemens ist eines der vielen mittelgroßen bis großen Unternehmen, die das Herz der deutschen Wirtschaft bilden. Indem wir mit ihnen - und einigen anderen kleineren Industrieunternehmen - Verträge abschließen, können wir beginnen, den langsamen und stetigen Weg zur wirtschaftlichen Erholung zu beschreiten."
@@ -747,6 +749,37 @@ gerdom.4.t:0 "Die Getreidekrise"
 gerdom.4.d:0 "Da Teile unserer Getreideversorgung im Baltikum und in der Ukraine nicht mehr unter unserer Kontrolle stehen, sind wir allmählich auf ernsthafte Probleme gestoßen. Unsere aufblühende Stadtbevölkerung kann sich nicht allein auf die deutsche Landwirtschaft verlassen, und es gibt vereinzelte Berichte über leere staatliche Getreidespeicher. Hoffen wir, dass dies nicht so weit eskaliert, dass der schreckliche Hungerwinter 1916/17..."
  gerdom.4.a:0 "Scheiße!"
 
+### Schwarzer Montag ###
+
+ gerdom.5.t: "Schwarzer Montag"
+ gerdom.5.d: "Am 3. Februar 1936 hörte die Berliner Börse auf zu sinken - sie stürzte ab. Angeheizt durch die Instabilität des Marktes kam es zu Panikverkäufen, sobald die Börse am Montagmorgen öffnete. Es dauerte bis weit in die Nacht hinein, bis die Fernschreiber aufhörten, die Ergebnisse des so genannten Schwarzen Montags auszuspucken. Als die Ergebnisse ausgewertet waren, war klar, dass sich die Situation nur noch verschlimmert hatte.\n\nDer Schock dieser beispiellosen wirtschaftlichen Katastrophe wird zweifellos in der ganzen Welt zu spüren sein. Das goldene Zeitalter Deutschlands ist zu Ende - zumindest vorläufig..."
+ gerdom.5.a: "Mein Gott!"
+
+ gerdom.6.t: "Sturm auf die Banken"
+ gerdom.6.d: "Die deutschen Bürger, die durch den Zusammenbruch der Berliner Börse in Panik geraten sind, stürzen sich auf die Banken, um ihr Vermögen abzuheben. Die Banken können es sich nicht leisten, solche Summen auszugeben, und viele sind vom Zusammenbruch bedroht. Viele fordern ein sofortiges Eingreifen der Regierung, um diese beispiellose Finanzkrise zu stabilisieren!"
+ gerdom.6.a: "Vorübergehende Schließung der Banken."
+ gerdom.6.b: "Garantie für die Betriebe von Privatpersonen."
+ gerdom.6.c: "Nichts unternehmen."
+
+ gerdom.7.t: "Ende der Schwarzen Woche"
+ gerdom.7.d: "In den Tagen nach dem Schwarzen Montag, dem Beginn der so genannten Schwarzen Woche, verbesserte sich die Lage kaum. Die Panikverkäufe von Aktien erreichten einen historischen Höchststand, da die Menschen versuchten, ihre Aktien loszuwerden, bevor sie wertlos wurden. Als die Berliner Börse am Ende der Woche schloss, war der Markt so tot wie die 11 großen Wirtschaftsexperten und Spitzenmanager in Deutschland, die Selbstmord begangen hatten. Die deutsche Regierung musste handeln."
+ gerdom.7.a: "Die Wirtschaft muss reformiert werden."
+
+ gerdom.8.t: "Finanzielle Probleme in den Kolonien"
+ gerdom.8.d: "Einige eigenwillige Politiker schlugen vor, mehr Mittel an die Kolonien zu verteilen, zum Nachteil des deutschen Volkes, was natürlich nicht populär war..."
+ gerdom.8.a: "Stellen Sie den Kolonien so viele Ressourcen zur Verfügung, wie sie benötigen."
+ gerdom.8.b: "Decken Sie nur die wichtigsten Ausgaben ab."
+ gerdom.8.c: "Schnallen wir den Gürtel enger. Wir können ihnen in unseren schweren Zeiten nicht helfen."
+
+ gerdom.9.t: "Krieg stimuliert die Wirtschaft"
+ gerdom.9.d: "Infolge des Krieges ist die Industrieproduktion in mehreren Sektoren in die Höhe geschnellt, und die Arbeitskräfte haben sich bemüht, ihre patriotische Pflicht zu erfüllen. Dies hat sich positiv auf die Wirtschaft ausgewirkt, da die Folgen des Zusammenbruchs am Schwarzen Montag gemildert wurden. Es scheint, als ob die Wirtschaft endlich ein Lebenszeichen von sich gibt!"
+ gerdom.9.a: "Exzellent."
+
+ gerdom.10.t: "Schwarzer Montag"
+ gerdom.10.d: "Am 3. Februar 1936 hörte die Berliner Börse auf zu sinken - sie stürzte ab. Angeheizt durch die Instabilität der Marktpanik brach der Verkauf aus, sobald die Börse am Montagmorgen öffnete. Es dauerte bis weit in die Nacht hinein, bis die Fernschreiber aufhörten, die Ergebnisse des so genannten Schwarzen Montags auszuspucken. Als die Ergebnisse ausgewertet waren, war klar, dass sich die Lage nur noch verschlimmert hatte.\n\nDer Schock dieser beispiellosen wirtschaftlichen Katastrophe wird zweifellos in der ganzen Welt zu spüren sein. Das goldene Zeitalter Deutschlands ist zu Ende - zumindest vorläufig..."
+ gerdom.10.a: "Mein Gott!"
+ gerdom.10.b: "Marx hat diesen Tag vorhergesagt!"
+
 ### Agricultural crisis in Mitteleuropa ###
 
 gerdom.11.t:0 "Agrarkrise in Mitteleuropa"
@@ -880,6 +913,10 @@ gerdom.43.d:0 "Mit einem Katholiken als unserem neuen Reichskanzler können wir 
 gerdom.43.a:0 "Eine herzliche Beziehung ist ausreichend."
 gerdom.43.b:0 "Kündigen Sie unsere Unterstützung für den Papst an!"
 gerdom.43.c:0 "Unterstützen Sie die katholische Kirche und investieren Sie in unsere katholischen Regionen."
+ 
+ gerdom.44.t: "König Rupprecht erhält Armeekommando"
+ gerdom.44.d: "Nach der Ankündigung, dass Kronprinz Wilhelm für den Zweiten Weltkrieg an die Front zurückkehren wird, wurde auch König Rupprecht von Bayern wieder als Befehlshaber in die kaiserliche deutsche Armee berufen. Als Befehlshaber der Heeresgruppe Rupprecht von Bayern während des Weltkriegs erwies er sich als fähiger Befehlshaber, obwohl er seine Position durch den Adel erhalten hatte, und wurde von seinen Standesgenossen vielleicht als der einzige deutsche König angesehen, der während des gesamten Krieges ein militärisches Kommando verdient hatte. Da er der amtierende König ist und auf die 70 zugeht, kann Rupprecht vielleicht nicht mehr mit der gleichen Fähigkeit wie früher führen, aber er wurde dennoch von der OHL begrüßt."
+ gerdom.44.a: "Er wird die bayerischen Truppen zum Ruhm führen"
 
 gerdom.47.t:0 "Der Tod von Wilhelm II."
 gerdom.47.d_GER:0 "Unser Kaiser Wilhelm II. ist heute im Krankenhaus der Charité in Berlin an einer Lungenembolie gestorben. Es ist das Ende einer Ära.Wilhelm II. war der letzte europäische Monarch, der im 19. Jahrhundert regierte, und sein ganzes Leben lang versuchte er, die Werte, die er mit dieser Epoche identifizierte, aufrechtzuerhalten - manchmal mit Erfolg, oft ohne Erfolg. Mit seinem Tod wird das 20. Jahrhundert endlich voll und ganz auf uns zukommen.\n\nIm ganzen Kaiserreich wehen die Flaggen auf Halbmast, und es werden öffentliche Feiern zu Ehren des Weltkriegskaisers organisiert, der die Welt für Deutschland gewonnen hat. Einer der Gäste in Berlin ist Kronprinz Friedrich Wilhelm, der nun die Ehre des Kaiserreichs in der Welt hochhalten muss."
@@ -1182,11 +1219,6 @@ gerfor.24.a:0 "Nicht einen Schritt zurück!"
 gerfor.25.t:0 "Die Wacht am Rhein"
 gerfor.25.d:0 "Die Franzosen haben den Rhein erreicht. Unsere umfangreichen Grenzbefestigungen konnten ihren unaufhaltsamen Vormarsch scheinbar nicht aufhalten, und jetzt fallen unsere entscheidenden Industriestädte eine nach der anderen. Die Lage ist ziemlich schlimm, und es wird bereits verräterisch gemurmelt, dass die Kommunarden Berlin selbst erreichen könnten."
 gerfor.25.a:0 "Sie müssen aufgehalten werden!"
-
-gerfor.27.t:0 "Deutschland besetzt das spanische Marokko!"
-gerfor.27.d:0 "Das Deutsche Kaiserreich hat in einem Akt absoluter Arroganz und Respektlosigkeit gegenüber unserem Staat das spanische Marokko besetzt. Schockierenderweise sind ihre Streitkräfte sogar nach Ceuta und Melilla vorgedrungen, zwei Städte, die seit vielen Jahrhunderten unantastbares spanisches Territorium sind."
-gerfor.27.a:0 "Es gibt nichts, was wir tun können..."
-gerfor.27.b:0 "Eine solche Frechheit wird nicht toleriert!"
 
 gerfor.28.t:0 "Holzeinschlag in Madagaskar"
 gerfor.28.d:0 "Die Insel Madagaskar ist seit mehreren Jahrzehnten unter unserer Herrschaft, und sie ist eine unerschlossene Quelle seltener Hölzer wie Ebenholz und verschiedener Palisanderarten. Da diese Quellen nicht ausgebeutet wurden, haben mehrere Industrielle und Mitglieder der Kolonialregierung vorgeschlagen, dass wir eine Aktiengesellschaft mit Autorität über die Holzindustrie auf der Insel gründen. Sollen wir die Gründung einer solchen Gesellschaft anordnen?"
@@ -1904,6 +1936,7 @@ germit.14.a:0 "Irritierend."
  GER_erich_von_manstein:0 "Erich von Manstein"
  GER_erich_von_manstein_commander_desc: "§§YAllgemeine Beschreibung\n§YGeboren:§L\nNovember 24, 1887, in Berlin, Königreich Preußen, Deutsches Reich\n§YMilitärische Laufbahn:§L\nGeboren als von Lewinski, stammt Erich von Manstein aus der Familie eines preußischen Adelsgenerals mit kaschubischer Abstammung und ist der Neffe von Paul von Hindenburg. Ähnlich wie der Rest seiner Großfamilie verfolgte er eine Karriere beim Militär. Nach sechs Jahren im Kadettenkorps in Plön und Groß-Lichterfelde wurde er in das Dritte Fußtruppenregiment berufen - und erreichte den Weltkrieg als Infanterieleutnant, der an der Preußischen Kriegsakademie immatrikuliert war. Der Krieg beendete sein Studium und schickte ihn an die Front - sowohl im Osten als auch im Westen, an mehrere Fronten und in mehrere weltberühmte Feldzüge, die 1919 mit dem siegreichen Einmarsch in Frankreich endeten. Nach Kriegsende blieb Manstein in der Armee und stieg weiter auf, nachdem er in den Jahren zuvor sein Talent und seine Intelligenz unter Beweis gestellt hatte. Als neu eingetretenes Mitglied des Generalstabs bereiste er Länder in ganz Europa, um deren militärische Einrichtungen und Durchbrüche in neuen Taktiken zu studieren und gleichzeitig seine eigene zu entwickeln. Er gilt als innovativer Befehlshaber mit einem Gespür für unorthodoxe Strategien und ist einer der wichtigsten Befürworter der kombinierten und mobilen Kriegsführung mit kombinierten Waffen in der deutschen Armee."
 
+ GER_alfred_von_vollard_bockelberg: "Alfred von Vollard-Bockelberg"
  GER_heinz_guderian:0 "Heinz Guderian"
  GER_walter_model:0 "Walter Model"
  GER_werner_von_blomberg:0 "Werner von Blomberg"

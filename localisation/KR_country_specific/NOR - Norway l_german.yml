@@ -117,6 +117,8 @@
  NOR_idea_great_patriotic_war_desc: "Norwegen befindet sich erneut im Konflikt mit seinem schwedischen Nachbarn, und wenn es eine Sache gibt, über die sich alle Norweger einig sind, dann ist es die, dass jede Form einer einheimischen norwegischen Regierung einer Rückkehr zu der 1905 aufgelösten Union vorzuziehen ist."
  NOR_NBC: "Norwegischer Rundfunk"
  NOR_NBC_desc: "Die Norwegische Rundfunkgesellschaft soll, ähnlich wie ihr kanadisches Pendant, sicherstellen, dass den Bürgern unseres Landes gesunde und ausgewogene Radioprogramme geboten werden. Obwohl Syndikalismus und andere subversive Materialien verboten sind..."
+ NOR_aid_to_norway: "Hilfe für Norwegen"
+ NOR_aid_to_norway_desc: "Wir leisten derzeit industrielle Hilfe für unsere norwegischen Brüder."
 
 ### Focuses ###
  NOR_fund_nth: "NTH finanzieren"
@@ -173,8 +175,8 @@
  NOR_ruge_infantry: "Grundlegende Waffenkenntnisse"
  NOR_ruge_infantry_desc: "Quantität ist zwar eine Qualität für sich, aber wir brauchen trotzdem gute Soldaten. Sorgen wir dafür, dass alle unsere Soldaten gut an unseren Waffen ausgebildet sind."
 
- NOR_cruiser_question: "Die Panzerschiffsfrage"
- NOR_cruiser_question_desc: "Mehrere unserer "Panzerschiffe", Küstenschutzschiffe, die vor der Jahrhundertwende gebaut wurden, sind ziemlich veraltet und liegen seit einigen Jahren in der Reserve. Wir können sie jedoch recht schnell wieder in den aktiven Dienst stellen. Es gibt auch Stimmen, die fordern, dass wir unsere Panzerschiffe aufrüsten, was ihre Fähigkeiten drastisch verbessern könnte."
+ NOR_cruiser_question: "Aktivieren Sie das Panserskipen (Panzerschiffe)"
+ NOR_cruiser_question_desc: "Mehrere unserer "Panzerschiffe", Küstenschutzschiffe, die vor der Jahrhundertwende gebaut wurden, sind ziemlich veraltet und liegen seit einigen Jahren in der Reserve. Wir können sie jedoch recht schnell wieder in den aktiven Dienst stellen."
  NOR_nortraship: "Nortraship"
  NOR_nortraship_desc: "Die norwegische Schifffahrts- und Handelsmission ist die Regierungsbehörde, die für die Verwaltung unserer Handelsmarine im Kriegsfall zuständig ist."
  NOR_coastal_artillery: "Küstenartillerie ausbauen"
@@ -507,47 +509,6 @@
  norway.101.t: "Der Oslo-Analysator ist fertig."
  norway.101.d: "Heute hat Herr Rosseland in einer Zeremonie an der Universität von Oslo den Oslo-Analysator enthüllt. Der Oslo-Analysator basiert auf der Arbeit von Vannevar Bush und ist der derzeit leistungsfähigste Differentialanalysator der Welt. Er verfügt über zwölf Integratoren und wird unseren Wissenschaftlern eine konkurrenzlose Rechenleistung bieten."
  norway.101.a: "Wer braucht schon Konrad Zuse oder Alan Turing!"
-
- norway.102.t: "Die Panzerschiffsfrage"
- norway.102.d: "Der Stolz der norwegischen Marine sind ihre sechs "Panzerschiffe". Diese Panzerkreuzer, die auch als Küstenverteidigungsschiffe bekannt sind, sind schwer bewaffnet und gepanzert, haben aber nicht die Reichweite ihrer größeren Gegenstücke. Leider befinden sich vier unserer Panzerschiffe in einem ziemlich schlechten Zustand. Sie wurden zwischen 1897 und 1901 angeschafft und sind aufgrund mangelnder Modernisierung und angemessener Wartung nur noch sehr eingeschränkt einsatzfähig. Sie sind derzeit eingemottet, und die Marine wartet auf Nachricht über ihr Schicksal. Was sollen wir mit unseren Schiffen tun?"
- norway.102.a: "Wir brauchen die Schiffe! Nehmt sie wieder in Betrieb."
- norway.102.b: "Wir verbessern und modernisieren, was wir können."
-
- norway.103.t: "Die aufgerüsteten Panzerschiffe sind bereit"
- norway.103.d: "Die Renovierung unserer alten 'Panzerschiffe' ist abgeschlossen. Wir konnten die Schiffe zwar nicht vollständig auf den neuesten Stand bringen, aber ein neuer Antrieb, modernisierte Entfernungsmesser und verbesserte Flakfähigkeiten werden hoffentlich einen Unterschied machen."
- norway.103.a: "Großartig!"
-
- norway.104.t: "Konstruktion leichter Kreuzer"
- norway.104.d: "Im Rahmen von Der Flottenplan 1936 hat die Marinewerft Horten mit dem Bau von zwei leichten Kreuzern begonnen. Die mit sechs 152-mm-Geschützen ausgerüstete Falsen-Klasse könnte vielleicht als etwas veraltet gelten, sollte aber für unsere Bedürfnisse gut geeignet sein."
- norway.104.a: "Wir warten auf ihre Fertigstellung."
-
- norway.105.t: "Unsere Leichten Kreuzer sind fertig"
- norway.105.d: "Die Marinewerft Horten hat ihre neuen leichten Kreuzer fertiggestellt. Sie sollten uns gute Dienste leisten."
- norway.105.a: "Großartig!"
-
- norway.106.t: "Neue Panzerschiffe Konstruktion"
- norway.106.d: "Im Rahmen von Der Flottenplan 1936 hat die Marinewerft Horten mit dem Bau eines neuen Panzerschiffs begonnen. Mit einer Primärbatterie aus vier 203 mm Kanonen und einer Sekundärbatterie aus vier 120 mm Kanonen wird die KNM Kristiania in jeder Hinsicht auf dem neuesten Stand der Technik sein."
- norway.106.a: "Wir warten auf ihre Fertigstellung."
-
- norway.107.t: "Unser neues Panzerschiffe ist fertig."
- norway.107.d: "Heute hat die KNM Kristiania ihre Seeerprobung abgeschlossen. Sie wird nun als neues Flaggschiff der norwegischen Marine dienen."
- norway.107.a: "So ein schönes Schiff!"
-
- norway.108.t: "U-Boot-Konstruktion"
- norway.108.d: "Im Rahmen von Der Flottenplan 1936 hat die Marinewerft Horten mit dem Bau von drei neuen U-Booten begonnen. Diese modernen Schiffe werden die Fähigkeiten unserer Marine erheblich steigern."
- norway.108.a: "Wir warten auf ihre Fertigstellung."
-
- norway.109.t: "Unsere neuen U-Boote sind fertig"
- norway.109.d: "Die Marinewerft Horten hat ihre neuen U-Boote fertiggestellt. Sie sollten uns gute Dienste leisten."
- norway.109.a: "Großartig!"
-
- norway.110.t: "Zerstörerbau"
- norway.110.d: "Im Rahmen von Des Flottenplan 1936 hat die Marinewerft Horten mit dem Bau von drei neuen Zerstörern begonnen."
- norway.110.a: "Wir warten auf ihre Fertigstellung."
-
- norway.111.t: "Unsere neuen Zerstörer sind fertig"
- norway.111.d: "Die Marinewerft Horten hat ihre neuen Zerstörer fertiggestellt. Sie sollten uns gute Dienste leisten."
- norway.111.a: "Großartig!"
 
  norway.112.t: "Die DNL will expandieren"
  norway.112.d: "Unsere jüngsten Investitionen in 'Det Norske Luftfartselskap' haben unserem Flaggenunternehmen mehrere Möglichkeiten eröffnet. Wir könnten uns auf den Inlandsmarkt konzentrieren und versuchen, Norwegen auf dem Luftweg zu verbinden. Durch Investitionen in neue Flughäfen und Strecken können wir Menschen, Waren und Post viel schneller befördern. Wir könnten uns auch auf den skandinavischen und nordatlantischen Markt konzentrieren. Manche behaupten jedoch, dass die damit verbundenen Risiken zu groß und die möglichen Gewinne zu gering sind. Welchen Expansionskurs sollten wir einschlagen?"

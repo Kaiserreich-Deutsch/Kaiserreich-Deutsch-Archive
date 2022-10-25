@@ -95,8 +95,8 @@
  palestine_strike: "§YDie Unruhen im M.v.J. sind eskaliert§!"
  pal_haifa_concluded: "§YDer Kongress von Haifa hat stattgefunden§!"
 
- abu_raid_tt: "£heavy_cruiser_texticon Die §YSultan Abdulhamid-i Sani§! ist die nächsten §R6 Monate§! lang außer Betrieb.\n£light_cruiser_texticon Die §YIstanköy§! ist die nächsten §R6 Monate§! lang außer Betrieb.\n£SH_battleship_texticon Die §YYavuz Sultan Selim-i Evvel§! wurde §Rzerstört§!.\n£destroyer_texticon Ein §YZerstörer§! wurde §Rzerstört§!.\n£destroyer_texticon Ein §YZerstörer§! wurde §Rzerstört§!.\n\n"
- abu_repaired_tt: "£heavy_cruiser_texticon Die §YSultan Abdulhamid-i Sani§! kehrt zur Flotte zurück.\n£light_cruiser_texticon Die §YIstanköy§! kehrt zur Flotte zurück.\n"
+ abu_raid_tt: "£GFX_sgip_heavy_cruiser_icon_small Die §YSultan Abdulhamid-i Sani§! ist die nächsten §R6 Monate§! lang außer Betrieb.\n£GFX_sgip_light_cruiser_icon_small Die §YIstanköy§! ist die nächsten §R6 Monate§! lang außer Betrieb.\n£GFX_sgip_battleship_icon_small Die §YYavuz Sultan Selim-i Evvel§! wurde §Rzerstört§!.\n£GFX_sgip_destroyer_icon_small Ein §YZerstörer§! wurde §Rzerstört§!.\n£GFX_sgip_destroyer_icon_small Ein §YZerstörer§! wurde §Rzerstört§!.\n\n"
+ abu_repaired_tt: "£GFX_sgip_heavy_cruiser_icon_small Die §YSultan Abdulhamid-i Sani§! kehrt zur Flotte zurück.\n£GFX_sgip_light_cruiser_icon_small Die §YIstanköy§! kehrt zur Flotte zurück.\n"
 
 ### Traits
  PAL_fervent_educator: "Leidenschaftlicher Erzieher"
@@ -645,7 +645,6 @@
 
 ### Characters ###
  PAL_radwan_alhilu: "Radwan al-Hilu"
- PAL_raghib_alnashashibi: "Raghib al-Nashashibi"
  PAL_francois_charles_roux: "François Charles-Roux"
  PAL_musa_alalami: "Musa Al-Alami"
  PAL_awni_abd_alhadi: "Awni Abd al-Hadi"

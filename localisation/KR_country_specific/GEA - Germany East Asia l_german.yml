@@ -17,10 +17,10 @@ GEA_market_liberal_party: "NLP"
 GEA_market_liberal_party_long: "Nationalliberale Partei"
 GEA_social_conservative_party: "Die Sultans Liga"
 GEA_social_conservative_party_long: "Die Sultans Liga"
-GEA_authoritarian_democrat_party: "Hellmuths Clique"
-GEA_authoritarian_democrat_party_long: "Hellmuths Clique"
-GEA_paternal_autocrat_party: "Hellmuths Clique"
-GEA_paternal_autocrat_party_long: "Hellmuths Clique"
+GEA_authoritarian_democrat_party: "Kolonialverwaltung"
+GEA_authoritarian_democrat_party_long: "Kolonialverwaltung"
+GEA_paternal_autocrat_party: "Kolonialverwaltung"
+GEA_paternal_autocrat_party_long: "Kolonialverwaltung"
 GEA_national_populist_party: "MLN"
 GEA_national_populist_party_long: "Malaiische National Liga"
 
@@ -64,12 +64,14 @@ GEA_Xiamen_locked: "- §RXiamen§!"
 GEA_Wenzhou_locked: "- §RWenzhou§!"
 GEA_Nantong_locked: "- §RNantong§!"
 GEA_MAF_Advisors: "§CMittelafrikanische§! Berater sind eingetroffen"
-GEA_shandong_german_collaboration_tooltip: "Hat nationalen Geist §H$SQI_Tsingtau_Collaboration2$§!"
-GEA_shandong_german_collaboration_tooltip_NOT: "Hat nicht nationalen Geist §H$SQI_Tsingtau_Collaboration2$§!"
 
 ### Opinion Modifier ###
 LEP_refused_help_modifier: "Sie haben unsere Hilfe abgelehnt!"
 sinogerman_cooperation: "Deutsch-chinesische Zusammenarbeit"
+
+### State Modifiers ###
+ GER_east_asian_naval_yards: "Ostasiatische Marinewerften"
+ GER_east_asian_naval_yards_desc: "Eine Reihe von Werften in diesem Staat stehen unter der Kontrolle der Ostasiatischen Admiralität und betreuen deren Flotten."
 
 ### Focuses ###
 GEA_mission1: "Zustand der Admiralität"
@@ -340,7 +342,7 @@ Ostasien.17.a: "Sie kommen damit zurecht."
 Ostasien.17.b: "Schickt Verstärkung!"
 Ostasien.17.c: "Ein Landkrieg in Asien? Halali!"
 
-Ostasien.18.t: "Indochinesische Union sendet Friedensinitiative"
+Ostasien.18.t: "[INC.GetNameDefCap] Sendet ein Friedensangebot"
 Ostasien.18.d: "Die Aufstände in Indochina haben sich verschlimmert. Schlüsselpositionen sind an Vietminh-Banditen gefallen und wir haben Mühe, damit fertig zu werden. Nun schicken uns indochinesische Rebellen eine Initiative für Friedensgespräche. Trotz der Befürchtung, dass dies als Demütigung empfunden wird, könnte es ein kluger Schritt sein, die Kontrolle über die Region aufzugeben."
 Ostasien.18.a: "Nein, wir werden weiter gegen diese Rebellen kämpfen!"
 Ostasien.18.b: "Wir können es uns nicht mehr leisten zu kämpfen."
@@ -551,6 +553,11 @@ Ostasien.212.c: "Ein ständiger Marineattaché wäre von Vorteil."
  Ostasien.213.d.LEP: "Die deutsche ostasiatische Flotte, der Stolz des Deutschen Reiches und ein Symbol der deutschen militärischen und maritimen Stärke im Pazifik, ist gefallen. Mit dem Zusammenbruch von Deutsch-Ostasien werden die verbliebenen deutschen Berater, Techniker und Experten in China zurückgerufen, da sie keinen Anreiz mehr haben, in Asien zu bleiben. Dies stärkt zwar unsere nationale Unabhängigkeit und beseitigt unsere Abhängigkeit von Deutschland, bedeutet aber auch, dass die deutsch-chinesische Zusammenarbeit bis auf Weiteres beendet sein wird. Wir werden zwar weiterhin herzliche und freundschaftliche Beziehungen zu Deutschland unterhalten, aber wir werden nicht mehr in den Genuss der Vorteile kommen, die mit der Angleichung an Deutschland verbunden sind, und wir werden daher unseren eigenen Weg gehen müssen. Dank der Zusammenarbeit haben wir unsere Streitkräfte und unsere Wirtschaft erfolgreich modernisiert, aber alles muss einmal ein Ende haben."
  Ostasien.213.a: "Eine Ära endet... eine neue beginnt"
 
+ asiapeace.7.t: "Ostasiatische Kommandeure treffen ein"
+ asiapeace.7.d: "Nachdem unsere Kolonien in Ostasien von unseren Feinden überrannt worden sind, haben die Kommandeure ihrer Flotte und Garnison begonnen, in die Heimat zu strömen, indem sie waghalsige Fluchten in U-Booten und lange Reisen durch den Nahen Osten und Afrika unternahmen. Bei weitem nicht alle Kommandeure und Unteroffiziere der ostasiatischen Garnison haben es geschafft zu entkommen, aber diejenigen, die es geschafft haben, sind Veteranen des malaysischen und indochinesischen Dschungelkriegs und würden sich in den Reihen des Heers als nützlich erweisen.\n\n Andererseits haben sie ihre Pflicht in Ostasien nicht erfüllt..."
+ asiapeace.7.a: "Wir werden sie mit offenen Armen empfangen."
+ asiapeace.7.b: "Diese tapferen Männer haben ihre Pflicht getan - sie sollten in den Ruhestand gehen."
+
 #decisions
 GEA_indochina_war_decisions: "Der Indochinakrieg"
 GEA_indochina_war_decisions_desc: "Der indochinesische Aufstand hat sich zu einem ausgewachsenen Krieg ausgeweitet. Der Krieg gegen die Vietminh-Aufständischen hat jedoch keine konkrete Front. Überall ist eine Frontlinie und jeder Bauer, der einen Reishut trägt, könnte ein Vietminh sein. Wir müssen alles tun, was wir können, um den Sieg des Kaiserreichs zu sichern.\n\nGeschätzte §YAufstandsstärke§! in Indochina: §R[?INC.guerilla_activity|-0]§!\n"
@@ -560,7 +567,7 @@ GEA_maintain_Tonkin_control: "Behalten Sie unsere Kontrolle in Tonkin"
 GEA_reinforce_police: "Polizeieinheiten verstärken"
 GEA_Zeppelin_decision: "Einsatz von Zeppelin-Luftschiffen"
 GEA_Zeppelin_decision_desc: "Mit der Entwicklung der Marinefliegerei wurden die Zepplin-Luftschiffe im Arsenal Ostasiens allmählich durch fortschrittlichere Seeaufklärungsflugzeuge ersetzt. Aufgabe der Seeaufklärung. Der jüngste Krieg in Indochina brachte jedoch eine kühne Idee hervor: Zeppeline zur Patrouille über der indochinesischen Halbinsel einzusetzen. Diese Luftschiffe könnten auch Nachschub zu isolierten Garnisonen liefern. Bei der schwachen Anti-Luft-Feuerkraft der Rebellen sollte dies eine sichere Sache sein."
-GEA_Fernspaher_decision: "Bildung von Fernspäheinheiten"
+GEA_Fernspaher_decision: "Bildung von Fernspäher Einheiten"
 GEA_Fernspaher_decision_desc: "Der immer intensiver werdende Krieg in Indochina hat die Schwäche unserer Armee offengelegt. Während unsere Infanterieeinheiten gut ausgerüstet sind, um ihre Position gegen den Feind zu verteidigen, sind sie zu schwerfällig, um aggressiv und flexibel zu kämpfen. Es ist ratsam, Elitesoldaten aus unseren Streitkräften auszuwählen und die besonderen Fähigkeiten von Gebirgsjägern und Fallschirmjägern zu einer eigenen Elite-Fernspäh-Einheit zu kombinieren, um diese Art von Einsätzen besser durchführen zu können."
  GEA_reintegrate_indochina: "Indochinesen wiedereingliedern"
  GEA_reintegrate_indochina_desc: "Unseren Streitkräften ist es gelungen, die Vietminh zu besiegen, und sie sind vorerst eingedämmt. Dies ist jedoch nur eine vorübergehende Lösung, und es ist nur eine Frage der Zeit, bis die Guerillas zu einer Revanche bereit sind. Wir müssen unsere Kontrolle in diesen Regionen endgültig festigen und dürfen die Verwaltung nicht wie bisher den französischen Kolonialherren überlassen."
@@ -585,10 +592,10 @@ GEA_give_guns_to_lep_desc: "Wir werden dafür sorgen, dass eine beträchtliche L
 
 GEA_development_idea: "Bergbauarbeiten"
  #Änderung auf die deutsche Schreibweise 'Johore' für Lore-Konsistenz
-GEA_develop_aluminum_deposits: "Entwicklung des Bauxitabbaus in [846.GetCapitalVictoryPointName]"
-GEA_develop_aluminum_deposits_desc: "Unsere Prospektoren haben reiche Bauxitvorkommen im Bundesstaat [846.GetCapitalVictoryPointName] entdeckt, die sich perfekt für die Herstellung von Aluminium eignen. Während die anfänglichen Kosten für den Abbau erheblich sein werden, ist unsere prognostizierte Tonnage den Aufwand wert."
-GEA_develop_aluminum_deposits_wtt: "Entwicklung des Bauxitabbaus in [846.GetCapitalVictoryPointName]"
-GEA_develop_aluminum_deposits_wtt_desc: "Unsere Prospektoren haben reiche Bauxitvorkommen im Bundesstaat [846.GetCapitalVictoryPointName] entdeckt, die sich perfekt für die Herstellung von Aluminium eignen. Während die anfänglichen Kosten für den Abbau erheblich sein werden, ist unsere prognostizierte Tonnage den Aufwand wert."
+GEA_develop_aluminium_deposits: "Entwicklung des Bauxitabbaus in [846.GetCapitalVictoryPointName]"
+GEA_develop_aluminium_deposits_desc: "Unsere Prospektoren haben reiche Bauxitvorkommen im Bundesstaat [846.GetCapitalVictoryPointName] entdeckt, die sich perfekt für die Herstellung von Aluminium eignen. Während die anfänglichen Kosten für den Abbau erheblich sein werden, ist unsere prognostizierte Tonnage den Aufwand wert."
+GEA_develop_aluminium_deposits_wtt: "Entwicklung des Bauxitabbaus in [846.GetCapitalVictoryPointName]"
+GEA_develop_aluminium_deposits_wtt_desc: "Unsere Prospektoren haben reiche Bauxitvorkommen im Bundesstaat [846.GetCapitalVictoryPointName] entdeckt, die sich perfekt für die Herstellung von Aluminium eignen. Während die anfänglichen Kosten für den Abbau erheblich sein werden, ist unsere prognostizierte Tonnage den Aufwand wert."
  #Änderung auf die deutsche Schreibweise 'Johore' für Lore-Konsistenz
 GEA_develop_sarawak_oil: "Ölförderung in Sarawak"
 GEA_develop_sarawak_oil_desc: "Unser Ölverbrauch ist derzeit nicht in der Lage, unsere Flotte im Falle eines langfristigen Marineeinsatzes zu versorgen. Durch die Erhöhung unserer lokalen Ölproduktion in Borneo können wir jedoch beginnen, eine Reserve zu horten, um Treibstoffengpässe zu vermeiden."

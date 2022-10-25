@@ -54,7 +54,7 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
 
 ### Factions ###
 
- BUL_yugosphere: "Die Jugosphäre"
+ BUL_yugosphere: "Jugosphäre"
  BUL_third_empire_fac: "Bulgarische Hegemonie"
  BUL_balkan_union_fac: "Balkan Verteidigungskooperation"
 
@@ -841,11 +841,8 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
 
  BUL_curtail_military_league: "Die Militärische Liga zügeln"
  BUL_curtail_military_league_desc: "Die Militärische Liga manifestiert ihren politischen Einfluss in subversiven Organisationen wie der Zveno - wir müssen sie daran hindern, die Macht zu übernehmen und das zivile Regime zu stürzen, indem wir mit der Union verbündete Offiziere absetzen oder auf weniger wichtige Posten versetzen."
- BUL_curtail_military_league_5_left: "Diesen Schwerpunkt können Sie noch §Yfünf§! mal machen.\n\n"
- BUL_curtail_military_league_4_left: "Diesen Schwerpunkt können Sie noch §Yvier§! mal machen.\n\n"
- BUL_curtail_military_league_3_left: "Diesen Schwerpunkt können Sie noch §Ydrei§! mal machen.\n\n"
- BUL_curtail_military_league_2_left: "Diesen Schwerpunkt können Sie noch §Yzwei§! mal machen.\n\n"
- BUL_curtail_military_league_1_left: "Diesen Schwerpunkt können Sie noch §Ein§! mal machen.\n\n"
+ BUL_curtail_military_league_take_five: "Sie können diesen Fokus noch bis zu §Yfünfmal§! verwenden.\n"
+ BUL_curtail_military_league_amount_taken: "Wir haben den Fokus §Y[?BUL.BUL_curtail_focus_amount_var] mal§! bisher genutzt.\n\n"
 
  BUL_taming_the_powderkeg: "Das Pulverfass löschen"
  BUL_taming_the_powderkeg_desc: "Zwei Jahrzehnte lang haben wir uns auf unseren Lorbeeren ausgeruht - aber unsere Feinde in den Balkankriegen haben diese Zeit nicht verschwendet und mit der Wiederaufrüstung begonnen. Aus Serbien und Rumänien kommen besorgniserregende Nachrichten: Beide Staaten haben die in ihren Friedensverträgen festgelegten Beschränkungen aufgegeben, und Griechenland scheint diesem Beispiel zu folgen... Es liegt an uns, das Pulverfass des Balkans wieder zu löschen."
@@ -1615,7 +1612,6 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
  BUL_chetniks_decisions: "Halle des Bergkönigs"
  BUL_chetniks_decisions_desc: "\nDie serbische Tschetnik-Organisation, die einst im Kosovo und in Mazedonien gegen die osmanische Herrschaft kämpfte, ist wiedergeboren worden. Ehemalige Angehörige der serbischen Armee, denen sich rebellische Bauern und Jugendliche angeschlossen haben, haben sich entschlossen, den Kampf in den Bergen Serbiens fortzusetzen, unerkannt von Region zu Region zu ziehen, unsere Streitkräfte zu schikanieren und ihre Kräfte für einen Aufstand zu sammeln. Sie werden von §YDragoljub Mihailović§! angeführt, einem ehemaligen General der serbischen Armee, der zum Partisanenkommandanten wurde.\n\nZu jeder Zeit wird einer der serbischen Staaten (einschließlich Mazedonien), der uns direkt oder unseren Marionetten in §Y[SER.GetNameWithFlag]§! oder §Y[MNT.GetNameWithFlag]§! gehört, als §YTschetnik-Basis§! gekennzeichnet, was dem Staat schwere Schwächen verleiht, den Widerstand (falls vorhanden) erhöht und Gebäude beschädigt. Alle §Y90 Tage§! ziehen die Tschetniks in einen anderen Staat, und dort findet eine Begegnung statt - wenn dieser Staat §Ymehr§! Divisionen hat als die Tschetniks stark sind, werden sie zurückgeschlagen und verlieren an Stärke; wenn der Staat §Yweniger§! hat, gewinnen sie und gewinnen an Stärke.\n\nWenn man über Mihailovićs Gesicht schwebt, werden Statistiken über die Tschetnik-Bewegung angezeigt - ihre §YStandorte§! und §YStärke§!, gemessen auf einer Skala von 1 und 10 und gleich der Anzahl der §YDivisionen§! die sie besitzen. Wenn die Stärke der Tschetniks auf 1 sinkt, wird ihr Widerstand beendet - wenn sie jedoch 10 erreicht oder Bulgarien in den Krieg zieht, werden sie \n"
  BUL_chetniks_tooltip: "Die §YSerbische Tschetnik-Organisation§!\n\nDer Stützpunkt der Tschetniks befindet sich derzeit in §Y[BUL.BUL_chetnik_location]§!. Nach Abschluss der Wiederholungsmission §YBewegung der Tschetnik-Basis§! werden die Tschetniks in einen anderen Staat verlegt.\n\nDie Stärke der Tschetniks ist derzeit auf der Stufe §Y[?BUL.BUL_chetnik_strength]§! und entspricht der Anzahl der Divisionen, die bei einer Tschetnik-Rebellion entstehen würden."
- Draza_image: "£GFX_SER_Draza_texticon"
  BUL_chetnik_base_modifier: "Hauptquartier der Tschetniks"
  BUL_chetnik_movement: "£GFX_refitting  Tschetnik Basis Bewegung"
  BUL_chetnik_movement_tt: "Der Stützpunkt der Tschetniks befindet sich derzeit in §Y[BUL.BUL_chetnik_location]§! Nach Abschluss der Mission werden die Tschetniks in einen anderen Staat umziehen.\n"

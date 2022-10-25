@@ -737,44 +737,92 @@ AUS_rocket_artillery_equipment_2_short: "Schlägelwerfer"
 #Tanks
 AUS_gw_tank_equipment: "Burstyn Motorgeschütze"
 AUS_gw_tank_equipment_short: "Burstyn MtG"
-#AUS_gw_tank_equipment_desc: ""
-AUS_light_tank_equipment_1: "Škoda Kavalleriepanzer M.35"
-AUS_light_tank_equipment_1_short: "KPz M.35"
-AUS_light_tank_equipment_1_desc: "1933 erkannte die K.u.K. Armee, dass ihre unzusammenhängende Panzerflotte, die aus älteren ausländischen Panzerkonstruktionen und inländischen Panzerwagen bestand, gegen die neuen syndikalistischen und deutschen Konstruktionen schnell an Kampfkraft verlor. Als Notlösung beschloss sie, den neuen Exportpanzer Škoda Š-II zu übernehmen. Die moderne Konstruktion war mit einem Zwei-Mann-Turm mit 37-mm-Kanone und pneumatischem Getriebe und Fahrwerk ausgestattet, was aufgrund seiner Komplexität und geringen Zuverlässigkeit das größte Problem des Panzers darstellte."
-AUS_light_tank_equipment_2: "ČKD Kavalleriepanzer M.38"
-AUS_light_tank_equipment_2_short: "KPz M.38"
-AUS_light_tank_equipment_2_desc: "Noch während die ersten KPz M.35 vom Band liefen, suchte die Armee bereits nach einem neuen Kavalleriepanzer. Im anschließenden Konstruktionswettbewerb wurden mehrere in- und ausländische Entwürfe in Betracht gezogen, aber am Ende entschied sich die Armee für eines der TNH-Modelle von ČKD. Wie der M.35 verfügte der TNHP über einen Zwei-Mann-Turm und eine verbesserte 37-mm-Kanone, aber der M.38 verbesserte die Panzerung und den Motor des M.35 und besaß ein viel einfacheres und zuverlässigeres Fahrwerk. Leider wurden die ersten Einheiten wegen des Schwarzen Montags nicht vor 1938 in Dienst gestellt."
-AUS_light_tank_equipment_3: "ČKD Spähpanzer M.42"
-AUS_light_tank_equipment_3_short: "SpPz M.42"
+AUS_gw_tank_equipment_desc: ""
+AUS_light_tank_equipment_1: "Škoda Leichter Kampfwagen Modell 1935"
+AUS_light_tank_equipment_1_short: "leKpfW M.35"
+AUS_light_tank_equipment_1_desc: "1933 erkannte die k.u.k.-Armee, dass ihre unzusammenhängende Panzerflotte, die aus älteren ausländischen Panzerkonstruktionen und inländischen Panzerfahrzeugen bestand, gegen die neuen syndikalistischen und deutschen Konstruktionen schnell an Kampfkraft verlor. Als Notlösung beschloss sie, den neuen Exportpanzer Škoda Š-II zu übernehmen. Die moderne Konstruktion war mit einem Zwei-Mann-Turm mit 37-mm-Kanone und pneumatischem Getriebe und Fahrwerk ausgestattet, was aufgrund seiner Komplexität und geringen Zuverlässigkeit das größte Problem des Panzers darstellte."
+AUS_light_tank_destroyer_equipment_1: "Škoda Leichter Panzerjägerwagen Modell 1936"
+AUS_light_tank_destroyer_equipment_1_short: "lePzJgW M.36"
+AUS_light_tank_equipment_2: "ČKD Leichter Kampfwagen Modell 38"
+AUS_light_tank_equipment_2_short: "leKpfW M.38"
+AUS_light_tank_equipment_2_desc: "Noch während die ersten leKpfW M.35 vom Band liefen, suchte die Armee bereits nach einem neuen Kavalleriepanzer. Bei dem folgenden Wettbewerb wurden mehrere in- und ausländische Entwürfe in Betracht gezogen, aber am Ende entschied sich die Armee für eines der TNH-Modelle von ČKD. Wie der M.35 verfügte der TNHP über einen Zwei-Mann-Turm und eine verbesserte 37-mm-Kanone, aber der M.38 verbesserte die Panzerung und den Motor des M.35 und besaß ein viel einfacheres und zuverlässigeres Fahrwerk. Leider wurden die ersten Einheiten wegen des Schwarzen Montags nicht vor 1938 in Dienst gestellt."
+AUS_light_tank_artillery_equipment_2: "ČKD Leichter Geschützwagen Modell 38"
+AUS_light_tank_artillery_equipment_2_short: "leGW M.38"
+AUS_light_tank_destroyer_equipment_2: "ČKD Leichter Panzerjägerwagen Modell 38"
+AUS_light_tank_destroyer_equipment_2_short: "lePzJgW M.38"
+AUS_light_tank_aa_equipment_2: "ČKD Leichter Flugabwehrkanonewagen Modell 38"
+AUS_light_tank_aa_equipment_2_short: "leFlakW M.38"
+AUS_light_tank_equipment_3: "ČKD Leichter Kampfwagen Modell 42"
+AUS_light_tank_equipment_3_short: "leKpfW M.42"
 AUS_light_tank_equipment_3_desc: "Während der schwerere M.40 den M.38 in der Hauptkampffunktion ablöste, bestand weiterhin Bedarf an einem kleineren und leichteren Kettenaufklärungsfahrzeug. Um mit dem rasanten Entwicklungstempo des Krieges Schritt zu halten, gestaltete die ČKD den oberen Teil des TNHP-Designs komplett neu. Der neue Aufklärungspanzer verfügte über verbesserte Ketten, eine schräge Frontpanzerung und einen neuen Turm, in dem der Kommandant, der Richtschütze und die brandneue, von Škoda entwickelte 57-mm-Autoladekanone untergebracht waren."
+AUS_light_tank_artillery_equipment_3: "ČKD Leichter Geschützwagen Modell 42"
+AUS_light_tank_artillery_equipment_3_short: "leGW M.42"
+AUS_light_tank_destroyer_equipment_3: "ČKD Leichter Panzerjägerwagen Modell 42"
+AUS_light_tank_destroyer_equipment_3_short: "lePzJgW M.42"
+AUS_light_tank_aa_equipment_3: "ČKD Leichter Flugabwehrkanonewagen Modell 42"
+AUS_light_tank_aa_equipment_3_short: "leFlakW M.42"
 
-AUS_medium_tank_equipment_1: "Škoda-MÁVAG Kavalleriepanzer M.40"
-AUS_medium_tank_equipment_1_short: "KPz M.40"
-AUS_medium_tank_equipment_1_desc: "Die Erfahrungen aus dem Zweiten Amerikanischen Bürgerkrieg, aus China und Spanien veranlassten die K.u.K. Armeeführung, einen neuen Panzer mit einem größeren 3-Mann-Turm, einer 75-mm-Kanone und einer noch widerstandsfähigeren Frontpanzerung zu bestellen. Der endgültige Entwurf war ein Gemeinschaftsprojekt der tschechischen Firma Škoda, die die Wanne lieferte, und der ungarischen Firma MAVÁG, die den Turm und die Kanone baute."
-AUS_medium_tank_equipment_2: "Škoda-MÁVAG Kavalleriepanzer M.40/42"
-AUS_medium_tank_equipment_2_short: "KPz M.42"
-AUS_medium_tank_equipment_2_desc: "Zu Beginn des Krieges waren Bewaffnung und Panzerung des M.40 mehr als ausreichend, doch mit der Einführung von infanteriegestützten Panzerabwehrwaffen mit Hohlladungen und der zunehmenden Panzerstärke der gegnerischen Panzer war der M.40 Ende 1941 nahezu veraltet. Als Antwort darauf entwarfen die Škoda-Ingenieure eine neue Konstruktion mit ähnlicher Basis, aber mit einem völlig neuen Motor, gepanzerten Seitenschürzen und einer stärkeren Frontpanzerung. Der MAVÁG sollte einen völlig neuen Turm erhalten und gleichzeitig den Raum für die Besatzung und das Sichtfeld innerhalb des Fahrzeugs mit einer 75-mm-Langrohrkanone verbessern."
-AUS_medium_tank_equipment_3: "MTK Kavalleriepanzer M.44"
-AUS_medium_tank_equipment_3_short: "KPz M.44"
-AUS_medium_tank_equipment_3_desc: "Der stark von deutschen Kriegsengeln und russischen Obuchow-Panzern beeinflusste M.44 war die Antwort der MTK auf den Bedarf der Armee an Ersatz für die schnell alternden M.40/42-Panzer. Die Konstruktion umfasste eine schräge Front- und Seitenpanzerung, den Prototyp einer verbesserten Aufhängung von ČKD, den V12-Motor von Austro-Daimler und eine in Lizenz gebaute 80-mm-Bofors-Kanone, die den neuen Selbstlademechanismus von Škoda nutzte, der bereits bei der 57-mm-Kanone des SpPz M.42 und der 75-mm-Kanone der späteren Varianten des KPz M.40/42 verwendet wurde.."
+AUS_medium_tank_equipment_1: "Škoda-MÁVAG Mittlerer Kampfwagen Modell 40"
+AUS_medium_tank_equipment_1_short: "mKpfW M.40"
+AUS_medium_tank_equipment_1_desc: "Die Erfahrungen aus dem Zweiten Amerikanischen Bürgerkrieg, aus China und Spanien veranlassten die k.u.k.-Armeeführung, einen neuen Panzer mit einem größeren 3-Mann-Turm, einer 75-mm-Kanone und einer noch widerstandsfähigeren Frontpanzerung zu bestellen. Der endgültige Entwurf war ein Gemeinschaftsprojekt der tschechischen Firma Škoda, die die Wanne lieferte, und der ungarischen Firma MAVÁG, die den Turm und die Kanone baute."
+AUS_medium_tank_artillery_equipment_1: "Škoda-MÁVAG Mittlerer Geschützwagen Modell 40"
+AUS_medium_tank_artillery_equipment_1_short: "mGW M.40"
+AUS_medium_tank_destroyer_equipment_1: "Weiss Manfréd Mittlerer Panzerjägerwagen Modell 40"
+AUS_medium_tank_destroyer_equipment_1_short: "mPzJgW M.40"
+AUS_medium_tank_aa_equipment_1: "Weiss Manfréd Mittlerer Flugabwehrkanonewagen Modell 40"
+AUS_medium_tank_aa_equipment_1_short: "mFlakW M.40"
+AUS_medium_tank_equipment_2: "Škoda-MÁVAG Mittlerer Kampfwagen Modell 40/42"
+AUS_medium_tank_equipment_2_short: "mKpfW M.42"
+AUS_medium_tank_equipment_2_desc: "Zu Beginn des Krieges waren Bewaffnung und Panzerung des M.40 mehr als ausreichend, doch mit der Einführung von infanteriegestützten Panzerabwehrwaffen mit Hohlladungen und der zunehmenden Panzerung der gegnerischen Panzer war der M.40 bis Ende 1941 nahezu veraltet. Als Antwort darauf entwarfen die Škoda-Ingenieure eine neue Konstruktion mit ähnlicher Basis, aber mit einem völlig neuen Motor, gepanzerten Seitenschürzen und einer stärkeren Frontpanzerung. Der MAVÁG sollte einen völlig neuen Turm erhalten und gleichzeitig den Raum für die Besatzung und das Sichtfeld innerhalb des Fahrzeugs mit einer 75-mm-Langrohrkanone verbessern."
+AUS_medium_tank_artillery_equipment_2: "Škoda-MÁVAG Mittlerer Geschützwagen Modell 43"
+AUS_medium_tank_artillery_equipment_2_short: "mGW M.43"
+AUS_medium_tank_destroyer_equipment_2: "Škoda-MÁVAG Mittlerer Panzerjägerwagen Modell 43"
+AUS_medium_tank_destroyer_equipment_2_short: "mPzJgW M.43"
+AUS_medium_tank_aa_equipment_2: "Škoda-MÁVAG Mittlerer Flugabwehrkanonewagen Modell 40/42"
+AUS_medium_tank_aa_equipment_2_short: "mFlakW M.40/42"
+AUS_medium_tank_equipment_3: "Weiss Manfréd Mittlerer Kampfwagen Modell 44"
+AUS_medium_tank_equipment_3_short: "mKpfW M.44"
+AUS_medium_tank_equipment_3_desc: "Der stark von deutschen Kriegsengeln und russischen Obukhov-Panzern beeinflusste M.44 war die Antwort des Militärtechnischen Komitees auf den Bedarf der Armee, die schnell alternden M.40/42-Panzer zu ersetzen. Die Konstruktion umfasste eine schräge Front- und Seitenpanzerung, den verbesserten Aufhängungsprototyp von ČKD, den V12-Motor von Austro-Daimler und eine in Lizenz gebaute 80-mm-Bofors-Kanone. Die ungarische Firma Weiss Manfréd sollte die Wannen bauen und die Maschinen montieren."
+AUS_medium_tank_artillery_equipment_3: "Weiss Manfréd Mittlerer Geschützwagen Modell 44"
+AUS_medium_tank_artillery_equipment_3_short: "mGW M.44"
+AUS_medium_tank_destroyer_equipment_3: "Weiss Manfréd Mittlerer Panzerjägerwagen Modell 44"
+AUS_medium_tank_destroyer_equipment_3_short: "mPzJgW M.44"
+AUS_medium_tank_aa_equipment_3: "Weiss Manfréd Mittlerer Flugabwehrkanonewagen Modell 44"
+AUS_medium_tank_aa_equipment_3_short: "mFlakW M.44"
 
-AUS_heavy_tank_equipment_1: "Škoda Infanteriepanzer M.36"
+AUS_heavy_tank_equipment_1: "Škoda Infanteriepanzer Modell 36"
 AUS_heavy_tank_equipment_1_short: "IPz M.36"
-AUS_heavy_tank_equipment_1_desc: "Mit der Einführung des KPz M.35 beschloss die Armee auch die Anschaffung einer Infanteriepanzervariante, um Durchbrüche zu ermöglichen. Mehrere Modelle wurden in Betracht gezogen, jedes mit seinen eigenen Vor- und Nachteilen. Schließlich entschied sich das Militär für die Kombination des Mehrmannturms des Škoda Š-III mit der zuverlässigen Wanne des Tatra T-III."
-AUS_heavy_tank_equipment_2: "Austro-Daimler-Porsche Infanteriepanzer M.42"
+AUS_heavy_tank_equipment_1_desc: "Mit der Einführung des leKpfW M.35 beschloss das Heer auch die Anschaffung einer Infanteriepanzervariante, um Durchbrüche zu ermöglichen. Mehrere Modelle wurden in Betracht gezogen, jedes mit seinen eigenen Vor- und Nachteilen. Schließlich entschied sich das Militär für die Kombination des Mehrmannturms des Škoda Š-III mit der zuverlässigen Wanne des Tatra T-III."
+AUS_heavy_tank_artillery_equipment_1: "Škoda Geschützpanzer Modell 36"
+AUS_heavy_tank_artillery_equipment_1_short: "GPz M.36"
+AUS_heavy_tank_destroyer_equipment_1: "Škoda Jagdpanzer Modell 36"
+AUS_heavy_tank_destroyer_equipment_1_short: "JgPz M.36"
+AUS_heavy_tank_aa_equipment_1: "Škoda Flugabwehrkanonepanzer Modell 36"
+AUS_heavy_tank_aa_equipment_1_short: "FlakPz M.36"
+AUS_heavy_tank_equipment_2: "Austro-Daimler-Porsche Infanteriepanzer Modell 42"
 AUS_heavy_tank_equipment_2_short: "IPz M.42"
-AUS_heavy_tank_equipment_2_desc: "Als sich die Westfront nur wenige Wochen nach Kriegsbeginn in einer Patt-Situation befand, veröffentlichte die K.u.K. Armee ein Lastenheft und eröffnete eine Ausschreibung für einen neuen Infanteriepanzer. Da die verschiedenen tschechischen und ungarischen Firmen mit der Entwicklung von Kavalleriepanzern beschäftigt waren, war der Entwurf von Ferdinand Porsche der einzige, der rechtzeitig eingereicht wurde und von Austro-Daimler produziert werden sollte. Ausgestattet mit einer 100-mm-Frontpanzerung und einer 80-mm-Kanone von Bofors war dieser Panzer bei jedem, der gegen ihn kämpfen musste, gefürchtet. Da er mit unzuverlässigen elektrisch angetriebenen Rädern ausgestattet war, wurde er auch von seiner eigenen Besatzung gefürchtet."
-AUS_heavy_tank_equipment_3: "Austro-Daimler-Porsche Infanteriepanzer M.44"
+AUS_heavy_tank_equipment_2_desc: "Als sich die Westfront nur wenige Wochen nach Kriegsbeginn in einer Patt-Situation befand, gab die k.u.k.-Armee Spezifikationen und Angebote für einen neuen Infanteriepanzer heraus. Da die verschiedenen tschechischen und ungarischen Firmen mit Kavalleriepanzern beschäftigt waren, war der Entwurf von Ferdinand von Porsche der einzige, der rechtzeitig eingereicht wurde und von Austro-Daimler produziert werden sollte. Ausgestattet mit einer 100-mm-Frontpanzerung und einer 80-mm-Kanone von Bofors war dieser Panzer bei jedem, der gegen ihn kämpfen musste, gefürchtet. Da er mit unzuverlässigen elektrisch angetriebenen Rädern ausgestattet war, wurde er auch von seiner eigenen Besatzung gefürchtet."
+AUS_heavy_tank_artillery_equipment_2: "Austro-Daimler-Porsche Geschützpanzer Modell 42"
+AUS_heavy_tank_artillery_equipment_2_short: "GPz M.42"
+AUS_heavy_tank_destroyer_equipment_2: "Austro-Daimler-Porsche Jagdpanzer Modell 42"
+AUS_heavy_tank_destroyer_equipment_2_short: "JgPz M.42"
+AUS_heavy_tank_equipment_3: "Austro-Daimler-Porsche Infanteriepanzer Modell 44"
 AUS_heavy_tank_equipment_3_short: "IPz M.44"
-AUS_heavy_tank_equipment_3_desc: "Das Modell M.44 war eine allgemeine Verbesserung des Modells 42. Seine Frontpanzerung war nun schräg, der enge Turm wurde in einen neuen, viel größeren umgestaltet, der auch die neue 105-mm-Škoda-Kanone aufnehmen konnte. Darüber hinaus wurden die Probleme mit dem elektrischen Fahrwerk des Modells 42 angegangen und gelöst. Meistens."
+AUS_heavy_tank_equipment_3_desc: "Das Modell M.44 war eine allgemeine Verbesserung des M.42. Seine Frontpanzerung war nun schräg, der beengte Turm wurde zu einem neuen, viel größeren umgebaut, der auch die neue 105-mm-Škoda-Kanone aufnehmen konnte. Außerdem wurden die Probleme mit den elektrischen Fahrwerken des 42 angegangen und gelöst. Meistens."
+AUS_heavy_tank_artillery_equipment_3: "Austro-Daimler-Porsche Geschützpanzer Modell 44"
+AUS_heavy_tank_artillery_equipment_3_short: "GPz M.42"
+AUS_heavy_tank_destroyer_equipment_3: "Austro-Daimler-Porsche Jagdpanzer Modell 44"
+AUS_heavy_tank_destroyer_equipment_3_short: "JgPz M.42"
+AUS_heavy_tank_aa_equipment_3: "Austro-Daimler-Porsche Flugabwehrkanonepanzer Modell 44"
+AUS_heavy_tank_aa_equipment_3_short: "FlakPz M.44"
 
 AUS_super_heavy_tank_equipment_1: "Austro-Daimler-Porsche Landschlachtschiff Franzl"
 AUS_super_heavy_tank_equipment_1_short: "Franzl"
 AUS_super_heavy_tank_equipment_1_desc: "Während der Krieg in Europa tobte, machte sich der Technische Ausschuss des Militärs Gedanken über die Notwendigkeit eines durchschlagenden Panzers, der in der Lage war, schwere Befestigungen in Italien oder Frankreich einzunehmen. Ein monströser Entwurf der Österreich-Daimler-Ingenieure Ferdinand von Porsche und Skoda wurde vorgeschlagen, der ironischerweise den Spitznamen "Franzl" erhielt."
 
-AUS_modern_tank_equipment_1: "ČKD-Škoda Universalpanzer M.50"
-AUS_modern_tank_equipment_1_short: "UPz M.50"
-AUS_modern_tank_equipment_1_desc: "Die Wanne des TVP wurde von der ČKD zunächst als Konkurrenz zum MTK-Panzer M.44 im Rahmen des Wettbewerbs um den Ersatz für die alternde Flotte der M.40/42 entworfen, wo sie aufgrund ihrer größeren Abmessungen abgelehnt wurde. Im weiteren Verlauf des Krieges erließ das Oberkommando des Heeres jedoch eine Direktive, die den Einsatz der neuen selbstladenden 105-mm-Kanone von Škoda in leichteren Panzern als Antwort auf die schwer gepanzerten russischen T-120- und französischen M4-Panzer vorschrieb, und aufgrund seiner zuvor unglücklichen Größe war nur die Wanne des TVP groß genug für diese Aufgabe."
+AUS_modern_tank_equipment_1: "ČKD-Škoda Standardpanzer Modell 50"
+AUS_modern_tank_equipment_1_short: "StPz M.50"
+AUS_modern_tank_equipment_1_desc: "Die Wanne des TVP wurde von der ČKD zunächst als Konkurrenz zum Panzer M.44 von Weiss Manfréd im Rahmen des Konstruktionswettbewerbs für den Ersatz der alternden Flotte der M.40/42 entworfen, wo er aufgrund seiner größeren Abmessungen abgelehnt wurde. Im weiteren Verlauf des Krieges erließ das Oberkommando des Heeres jedoch eine Direktive, die den Einsatz der neuen selbstladenden 105-mm-Kanone von Škoda in leichteren Panzern als Antwort auf die schwer gepanzerten russischen T-120 und französischen M4-Panzer vorschrieb, und aufgrund seiner zuvor unglücklichen Größe war nur die Wanne des TVP groß genug für diese Aufgabe."
 
 AUS_amphibious_tank_equipment_1: "ČKD F-IV-H"
 AUS_amphibious_tank_equipment_1_short: "F-IV-H"
@@ -1590,6 +1638,10 @@ BOL_infantry_equipment_0_desc: "AAls die Spannungen im Gran Chaco zu Beginn des 
 BOL_infantry_equipment_1: "Zbrojovka Brno Mauser Modelo 1928"
 BOL_infantry_equipment_1_short: "Modelo 1928"
 BOL_infantry_equipment_1_desc: "Ende der 1920er Jahre, als Unruhen die Stabilität seiner Nachbarn zunehmend bedrohten, sah Bolivien die Notwendigkeit, seine Infanteriebewaffnung erneut zu aktualisieren. Schließlich entschied sich Bolivien für ein Derivat des Karabiners der Doppelmonarchie in der Version Brünn 1924 mit dem Kaliber 7,65×53 mm Mauser."
+BOL_infantry_equipment_2: "Thompson Modelo 1928A1"
+BOL_infantry_equipment_2_short: "Thompson M1928A1"
+BOL_infantry_equipment_3: "Fabrique Nationale Modelo 1943"
+BOL_infantry_equipment_3_short: "FN-43"
 
 ### Railroad ###
 BOL_train_equipment_1: "FC de Bolivia 2-8-0"
@@ -1758,7 +1810,7 @@ BRA_support_weapons3_desc: "Das Maschinengewehr Modell 39 (MG39) war eine Verbes
 BRA_support_weapons4: "Metralhadora Imbel M1 & Morteiro de 8cm"
 BRA_support_weapons4_desc: "Die Imbel-Modelle waren die ersten schweren Maschinengewehre, die von Brasilien für Brasilien hergestellt wurden. Sie zeichneten sich durch eine sehr hohe Feuerrate aus, waren aber auch relativ unzuverlässig und nicht sehr langlebig, da bei der Produktion an mehreren Stellen gespart wurde. Wenn es richtig funktionierte, war es jedoch eine der furchterregendsten Waffen im Arsenal des Landes."
 BRA_infantry_at: "Metralhadora Anti-Tanque Imbel .50"
-BRA_infantry_at_desc: ""
+BRA_infantry_at_desc: "Der Raketenwerfer Modell 44 ist, wie viele brasilianische Waffen seiner Zeit, eine eher uninspirierte Kopie der im Zweiten Weltkrieg verwendeten europäischen Ausrüstung, die später von Brasilien selbst hergestellt und verwendet wurde. Die Waffe basiert größtenteils auf der deutschen "Panzerschreck" und hat mit ihr die meisten Merkmale gemeinsam, einschließlich der 8,8-Zentimeter-Raketen und der massiven Rauchfahne, die beim Abschuss entsteht."
 BRA_infantry_at2: "Lança Rojão M44"
 BRA_infantry_at2_desc: "Der Raketenwerfer Modell 44 ist, wie viele brasilianische Waffen seiner Zeit, eine eher uninspirierte Kopie der im Zweiten Weltkrieg verwendeten europäischen Ausrüstung, die später von Brasilien selbst hergestellt und verwendet wurde. Die Waffe basiert größtenteils auf dem deutschen 'Panzerschreck' und hat die meisten Spezifikationen mit diesem gemeinsam, einschließlich der 8,8-Zentimeter-Raketen und der massiven Rauchfahne, die beim Abfeuern entsteht."
 
@@ -2421,6 +2473,10 @@ CHL_infantry_equipment_0_desc: "Als Reaktion auf ein aggressives argentinisches 
 CHL_infantry_equipment_1: "Carabina Steyr Modelo 1912/35"
 CHL_infantry_equipment_1_short: "Modelo 1912/35"
 CHL_infantry_equipment_1_desc: "Kurz vor dem Weltkrieg beauftragte Chile den österreichischen Waffenhersteller Steyr mit der Herstellung einer neuen Karabinervariante der deutschen Mauser 1898, die wie die älteren chilenischen Gewehre im Kaliber 7x57 mm geladen war. Viele dieser Karabiner fielen schließlich in die Hände der chilenischen Carabinieros, die das Gewehr als unzureichend empfanden und sich für dessen Ersatz einsetzten. Im Jahr 1935 wurde ein neues Modell mit verbesserter Ergonomie und einem neuen, größeren Magazin mit robusteren Zuführungslippen und Lader genehmigt und kurz darauf in Produktion genommen."
+CHL_infantry_equipment_2: "Steyr Maschinenpistole 1934"
+CHL_infantry_equipment_2_short: "MP 34"
+CHL_infantry_equipment_3: "MAS Modèle 1940/42"
+CHL_infantry_equipment_3_short: "MAS-40/42"
 
 ### Railroad ###
 CHL_train_equipment_1: "Empresa de los Ferrocarriles del Estado ALCo 2-8-2"
@@ -2635,6 +2691,10 @@ COL_infantry_equipment_0_short: "Modelo 1912"
 COL_infantry_equipment_0_desc: "Aufgrund von Komplikationen im Vertrag mit Chile, die Steyr zu einer Überproduktion des Modells 1912 Mauser 1898 veranlassten, kaufte Kolumbien einen Großteil des Überschusses billig auf. Anders als in Chile bleiben diese Gewehre jedoch in ihrer ursprünglichen Konfiguration ohne wesentliche Aufrüstungen."
 COL_infantry_equipment_1: "Fabrique Nationale Mauser Modelo 1924"
 COL_infantry_equipment_1_short: "FN-24"
+COL_infantry_equipment_2: "Thompson Model 1928A1"
+COL_infantry_equipment_2_short: "Thompson M1928A1"
+COL_infantry_equipment_3: "Fabrique Nationale Modèle 1943"
+COL_infantry_equipment_3_short: "FN-43"
 
 ### Railroad ###
 COL_train_equipment_1: "FCN Baldwin 2-6-0"
@@ -3041,8 +3101,8 @@ CUB_infantry_equipment_0_desc: "Das Modell 1903 wurde im Springfield Arsenal ent
 CUB_infantry_equipment_1: "Remington Modelo 1934"
 CUB_infantry_equipment_1_short: "Remington M34"
 CUB_infantry_equipment_1_desc: "Das Remington Modell 1934 ist ein Repetierkarabiner, der speziell für den mittel- und südamerikanischen Markt entwickelt wurde. Es handelt sich um ein verbessertes Enfield 1917 mit Konstruktionsmerkmalen sowohl des Springfield 1903 als auch des Remington 30 Sportgewehrs und ist in 7x57 mm Mauser gekammert."
-CUB_infantry_equipment_2: "Johnson Modelo 1941"
-CUB_infantry_equipment_2_short: "Johnson M1941"
+CUB_infantry_equipment_2: "Thompson Model 1928A1"
+CUB_infantry_equipment_2_short: "Thompson M1928A1"
 CUB_infantry_equipment_3: "Kiraly-Cristóbal Carbine"
 CUB_infantry_equipment_3_short: "Cristóbal Carbine"
 CUB_infantry_equipment_3_desc: "Die schweren Maschinenpistolen des ungarischen Waffenkonstrukteurs Pál Király wurden zwar von der Doppelmonarchie übernommen, blieben jedoch hinter Királys eigenen Erwartungen zurück. Die Cristóbal ist eine Weiterentwicklung dieser Maschinenpistolen, die mit einem neuen Mittelkaliber-Patronenlauf ausgestattet wurde. Während es von der Doppelmonarchie letztlich abgelehnt wurde, zeigte sich die Dominikanische Republik, in die Király einst auszuwandern erwog, aufgeschlossener und übernahm das Gewehr als 'Cristóbal'-Karabiner nach der Stadt San Cristóbal. Bald nach der Einführung in der Dominikanischen Republik nahm Kuba die Produktion in Lizenz auf."
@@ -3814,6 +3874,12 @@ DOM_train_equipment_1: "Ferrocarril Samaná-Santiago 1,067 mm"
 ECU_infantry_equipment_0: "Mauser Modelo 1895 Rifle Corto"
 ECU_infantry_equipment_0_short: "Mauser M1895"
 ECU_infantry_equipment_0_desc: "Das kurze Mauser-Modell 1895 ist eine verbesserte spanische Mauser in einer Konfiguration auf halbem Weg zwischen einem Vollgewehr und einem Karabiner. Die ecuadorianische Variante hat ein Kaliber von 7x57 mm Mauser."
+ECU_infantry_equipment_1: "Fabrique Nationale Mauser Modelo 1930"
+ECU_infantry_equipment_1_short: "Modelo 1930"
+ECU_infantry_equipment_2: "Thompson Model 1928A1"
+ECU_infantry_equipment_2_short: "Thompson M1928A1"
+ECU_infantry_equipment_3: "Fabrique Nationale Modèle 1943"
+ECU_infantry_equipment_3_short: "FN-43"
 
 ### Railroad ###
 ECU_train_equipment_1: "FC Henschel 2-6-0"
@@ -5668,11 +5734,11 @@ GEO_artillery_equipment_3: "15 cm Chavli modeli 1940"
 GEO_artillery_equipment_3_short: "15cm Chavli 40"
 
 GEO_anti_tank_equipment_1: "3.6 cm Tanksatsinaaghmdego Iaraghi modeli 1936"
-GEO_anti_tank_equipment_1_short: "2cm Iaraghi 36"
+GEO_anti_tank_equipment_1_short: "3.6cm Iaraghi 36"
 GEO_anti_tank_equipment_2: "7.5 cm Tanksatsinaaghmdego Iaraghi modeli 1940"
-GEO_anti_tank_equipment_2_short: "2cm Iaraghi 40"
+GEO_anti_tank_equipment_2_short: "7.5cm Iaraghi 40"
 GEO_anti_tank_equipment_3: "12.8 cm Tanksatsinaaghmdego Iaraghi modeli 1943"
-GEO_anti_tank_equipment_3_short: "2cm Iaraghi 43"
+GEO_anti_tank_equipment_3_short: "12.8cm Iaraghi 43"
 
 GEO_anti_air_equipment_1: "2 cm Sazenito Iaraghi modeli 1936"
 GEO_anti_air_equipment_1_short: "2cm Iaraghi 36"
@@ -7138,51 +7204,107 @@ HUN_anti_air_equipment_3_short: "9 cm 39M"
 #Tanks
 HUN_gw_tank_equipment: "Burstyn önjáró lövege"
 HUN_gw_tank_equipment_short: "Burstyn-ÖL"
-#HUN_gw_tank_equipment_desc: ""
-HUN_light_tank_equipment_1: "35M Škoda lovaspáncélos"
-HUN_light_tank_equipment_1_short: "35M LP"
-#HUN_light_tank_equipment_1_short_desc: ""
-HUN_light_tank_equipment_2: "38M ČKD lovaspáncélos"
-HUN_light_tank_equipment_2_short: "38M LP"
-#HUN_light_tank_equipment_2_desc: ""
-HUN_light_tank_equipment_3: "42M ČKD felderítő páncélos"
-HUN_light_tank_equipment_3_short: "42M FP"
-#HUN_light_tank_equipment_3_desc: ""
+HUN_gw_tank_equipment_desc: "$AUS_gw_tank_equipment_desc$"
+HUN_light_tank_equipment_1: "35M Škoda könnyű harckocsi"
+HUN_light_tank_equipment_1_short: "35M k. hk."
+HUN_light_tank_equipment_1_desc: "$AUS_light_tank_equipment_1_desc$"
+HUN_light_tank_destroyer_equipment_1: "36M Škoda könnyű harckocsivadász"
+HUN_light_tank_destroyer_equipment_1_short: "36M k. hkv."
+ 
+HUN_light_tank_equipment_2: "38M ČKD könnyű harckocsi"
+HUN_light_tank_equipment_2_short: "38M k. hk."
+HUN_light_tank_equipment_2_desc: "$AUS_light_tank_equipment_2_desc$"
+HUN_light_tank_artillery_equipment_2: "38M ČKD könnyű önjáró löveg"
+HUN_light_tank_artillery_equipment_2_short: "38M k. öl."
+HUN_light_tank_destroyer_equipment_2: "38M ČKD könnyű harckocsivadász"
+HUN_light_tank_destroyer_equipment_2_short: "38M k. hkv."
+HUN_light_tank_aa_equipment_2: "38M ČKD könnyű önjáró légvédelmi gépágyú"
+HUN_light_tank_aa_equipment_2_short: "38M k. ölg."
 
-HUN_medium_tank_equipment_1: "40M Škoda-MÁVAG lovaspáncélos"
-HUN_medium_tank_equipment_1_short: "40M LP"
-#HUN_medium_tank_equipment_1_desc: ""
-HUN_medium_tank_equipment_2: "40/42M Škoda-MÁVAG lovaspáncélos"
-HUN_medium_tank_equipment_2_short: "42M LP"
-#HUN_medium_tank_equipment_2_desc: ""
-HUN_medium_tank_equipment_3: "44M MTK lovaspáncélos"
-HUN_medium_tank_equipment_3_short: "44M LP"
-#HUN_medium_tank_equipment_3_desc: ""
+HUN_light_tank_equipment_3: "42M ČKD könnyű harckocsi"
+HUN_light_tank_equipment_3_short: "42M k. hk."
+HUN_light_tank_equipment_3_desc: "$AUS_light_tank_equipment_3_desc$"
+HUN_light_tank_artillery_equipment_3: "42M ČKD könnyű önjáró löveg"
+HUN_light_tank_artillery_equipment_3_short: "42M k. öl."
+HUN_light_tank_destroyer_equipment_3: "42M ČKD könnyű harckocsivadász"
+HUN_light_tank_destroyer_equipment_3_short: "42M k. hkv."
+HUN_light_tank_aa_equipment_3: "42M ČKD könnyű önjáró légvédelmi gépágyú"
+HUN_light_tank_aa_equipment_3_short: "42M k. ölg."
 
-HUN_heavy_tank_equipment_1: "Škoda gyalogsági páncélos M.36"
-HUN_heavy_tank_equipment_1_short: "36M GP"
-#HUN_heavy_tank_equipment_1_desc: ""
-HUN_heavy_tank_equipment_2: "Austro-Daimler-Porsche gyalogsági páncélos M.42"
-HUN_heavy_tank_equipment_2_short: "42M GP"
-#HUN_heavy_tank_equipment_2_desc: ""
-HUN_heavy_tank_equipment_3: "Austro-Daimler-Porsche gyalogsági páncélos M.44"
-HUN_heavy_tank_equipment_3_short: "44M GP"
-#HUN_heavy_tank_equipment_3_desc: ""
+HUN_medium_tank_equipment_1: "40M Škoda-MÁVAG közepes harckocsi"
+HUN_medium_tank_equipment_1_short: "40M kz. hk."
+HUN_medium_tank_equipment_1_desc: "$AUS_medium_tank_equipment_1_desc$"
+HUN_medium_tank_artillery_equipment_1: "40M Škoda-MÁVAG közepes önjáró löveg"
+HUN_medium_tank_artillery_equipment_1_short: "40M kz. öl."
+HUN_medium_tank_destroyer_equipment_1: "40M Weiss Manfréd közepes harckocsivadász"
+HUN_medium_tank_destroyer_equipment_1_short: "40M kz. hkv."
+HUN_medium_tank_aa_equipment_1: "40M Weiss Manfréd közepes harckocsivadás"
+HUN_medium_tank_aa_equipment_1_short: "40M kz. ölg."
 
-HUN_super_heavy_tank_equipment_1: "Austro-Daimler-Porsche szárazföldi cirkáló Ferenc"
-HUN_super_heavy_tank_equipment_1_short: "Ferenc"
-#HUN_super_heavy_tank_equipment_1_desc: ""
+HUN_medium_tank_equipment_2: "40/42M Škoda-MÁVAG közepes harckocsi"
+HUN_medium_tank_equipment_2_short: "40/42M kz. hk."
+HUN_medium_tank_equipment_2_desc: "$AUS_medium_tank_equipment_2_desc$"
+HUN_medium_tank_artillery_equipment_2: "43M Škoda-MÁVAG  közepes önjáró löveg"
+HUN_medium_tank_artillery_equipment_2_short: "43M kz. öl."
+HUN_medium_tank_destroyer_equipment_2: "43M Škoda-MÁVAG közepes harckocsivadász"
+HUN_medium_tank_destroyer_equipment_2_short: "43M kz. hkv."
+HUN_medium_tank_aa_equipment_2: "40/42M Škoda-MÁVAG önjáró légvédelmi gépágyú"
+HUN_medium_tank_aa_equipment_2_short: "40/42M kz. ölg."
 
-HUN_modern_tank_equipment_1: "50M Škoda általános páncélos"
+HUN_medium_tank_equipment_3: "44M Weiss Manfréd közepes harckocsi"
+HUN_medium_tank_equipment_3_short: "44M kz. hk."
+HUN_medium_tank_equipment_3_desc: "$AUS_medium_tank_equipment_3_desc$"
+HUN_medium_tank_artillery_equipment_3: "44M Weiss Manfréd közepes önjáró löveg"
+HUN_medium_tank_artillery_equipment_3_short: "44M kz. öl."
+HUN_medium_tank_destroyer_equipment_3: "44M Weiss Manfréd közepes harckocsivadász"
+HUN_medium_tank_destroyer_equipment_3_short: "43M kz. hkv."
+HUN_medium_tank_aa_equipment_3: "44M Weiss Manfréd önjáró légvédelmi gépágyú"
+HUN_medium_tank_aa_equipment_3_short: "44M kz. ölg."
+
+HUN_heavy_tank_equipment_1: "36M Škoda gyalogsági páncélos"
+HUN_heavy_tank_equipment_1_short: "36M GyP"
+HUN_heavy_tank_equipment_1_desc: "$AUS_heavy_tank_equipment_1_desc$"
+HUN_heavy_tank_artillery_equipment_1: "36M Škoda rohamlöveg"
+HUN_heavy_tank_artillery_equipment_1_short: "M36 rl."
+HUN_heavy_tank_destroyer_equipment_1: "36M Škoda nehéz harckocsivadász"
+HUN_heavy_tank_destroyer_equipment_1_short: "36M n. hkv."
+HUN_heavy_tank_aa_equipment_1: "36M Škoda nehéz önjáró légvédelmi gépágyú"
+HUN_heavy_tank_aa_equipment_1_short: "36M n. ölg."
+
+HUN_heavy_tank_equipment_2: "42M Austro-Daimler-Porsche gyalogsági páncélos"
+HUN_heavy_tank_equipment_2_short: "42M GyP"
+HUN_heavy_tank_equipment_2_desc: "$AUS_heavy_tank_equipment_2_desc$"
+HUN_heavy_tank_artillery_equipment_2: "42M Austro-Daimler-Porsche rohamlöveg"
+HUN_heavy_tank_artillery_equipment_2_short: "42M rl."
+HUN_heavy_tank_destroyer_equipment_2: "42M Austro-Daimler-Porsche nehéz harckocsivadász"
+HUN_heavy_tank_destroyer_equipment_2_short: "42M n. hkv."
+HUN_heavy_tank_aa_equipment_2: "42M Austro-Daimler-Porsche nehéz önjáró légvédelmi gépágyú"
+HUN_heavy_tank_aa_equipment_2_short: "42M n. ölg."
+
+HUN_heavy_tank_equipment_3: "44M Austro-Daimler-Porsche gyalogsági páncélos"
+HUN_heavy_tank_equipment_3_short: "44M GyP"
+HUN_heavy_tank_equipment_3_desc: "$AUS_heavy_tank_equipment_3_desc$"
+HUN_heavy_tank_artillery_equipment_3: "44M Austro-Daimler-Porsche rohamlöveg"
+HUN_heavy_tank_artillery_equipment_3_short: "44M rl."
+HUN_heavy_tank_destroyer_equipment_3: "44M Austro-Daimler-Porsche nehéz harckocsivadász"
+HUN_heavy_tank_destroyer_equipment_3_short: "44M n. hkv."
+HUN_heavy_tank_aa_equipment_3: "44M Austro-Daimler-Porsche nehéz önjáró légvédelmi gépágyú"
+HUN_heavy_tank_aa_equipment_3_short: "44M n. ölg."
+
+HUN_super_heavy_tank_equipment_1: "Austro-Daimler-Porsche szárazföldi cirkáló Ferencke"
+HUN_super_heavy_tank_equipment_1_short: "Ferencke"
+HUN_super_heavy_tank_equipment_1_desc: "$AUS_super_heavy_tank_equipment_1_desc$"
+
+HUN_modern_tank_equipment_1: "50M ČKD-Škoda alappáncélos"
 HUN_modern_tank_equipment_1_short: "50M AP"
-#HUN_modern_tank_equipment_1_desc: ""
+HUN_modern_tank_equipment_1_desc: "$AUS_modern_tank_equipment_1_desc$"
 
 HUN_amphibious_tank_equipment_1: "ČKD F-IV-H"
 HUN_amphibious_tank_equipment_1_short: "F-IV-H"
-#HUN_amphibious_tank_equipment_1_desc: ""
+HUN_amphibious_tank_equipment_1_desc: "$AUS_amphibious_tank_equipment_1_desc$"
 HUN_amphibious_tank_equipment_2: "Leták"
 HUN_amphibious_tank_equipment_2_short: "Leták"
-#HUN_amphibious_tank_equipment_2_desc: ""
+HUN_amphibious_tank_equipment_2_desc: "$AUS_amphibious_tank_equipment_2_desc$"
 
 ###
 ### Iceland ###
@@ -7220,7 +7342,7 @@ IKH_infantry_equipment_0: "Short Model Lee–Enfield Mk I"
 IKH_infantry_equipment_0_short: "SMLE Mk 1"
 
 ###
-### Indochinese Union ###
+### Indochina ###
 ###
 
 ### Land ###
@@ -10232,11 +10354,11 @@ TUR_infantry_equipment_0_desc: "Das Mauser T98 war das Hauptdienstgewehr der osm
 TUR_infantry_equipment_1: "Hümayun Tüfeği Yapım 1355"
 TUR_infantry_equipment_1_short: "Kırıkkale T55"
 TUR_infantry_equipment_1_desc: "Kırıkkale T55 war die Bezeichnung für die osmanische Modifikation des Mauser-Gewehrs 98. Ab 1933 modernisierte das Osmanische Reich seine alten Gewehre auf eine gemeinsame Konfiguration, die als Modell von 1936 bekannt ist und alle in der Mauser-Patrone 8x57. Die Vereinheitlichung aller Mauser-Gewehre im osmanischen Bestand trug dazu bei, den logistischen Alptraum der Versorgung aller Einheiten mit vier verschiedenen Arten von Gewehrmunition zu erleichtern."
-#Rifle on base of german G41:
+#Rifle on base of German G41:
 TUR_infantry_equipment_2: "Hümayun Yarı-Otomatik Tüfek Yapım 1360"
 TUR_infantry_equipment_2_short: "Kirikkale T60"
 TUR_infantry_equipment_2_desc: "Das Kırıkkale T60 Semi Automatic Rifle basiert auf dem Gehäuse des Gewehrs 41. Das T-60 hat eine leichtere Bauweise und einen verkürzten Schaft, wobei Zuverlässigkeit und Schnelligkeit gegenüber Reichweite und Genauigkeit im Vordergrund stehen. Dieses Gewehr wurde in allen Dienstzweigen des osmanischen Militärs eingesetzt."
-#Created by Ottos rifle on base of german colonial SMG:
+#Created by Ottos rifle on base of German colonial SMG:
 TUR_infantry_equipment_3: "Hümayun Makineli Karabina Yapım 1362"
 TUR_infantry_equipment_3_short: "'Yıldıray' MKb 62"
 TUR_infantry_at: "Zırhbasan Yapım 30 küçük"
@@ -10346,7 +10468,7 @@ TUR_light_tank_artillery_equipment_3_short: "I.HST 'Osmaniye'"
 TUR_light_tank_destroyer_equipment_1: "Muharebe Tankı Kalıp 1352 Zırhsavar"
 TUR_light_tank_destroyer_equipment_1_short: "MT-52ZS"
 TUR_light_tank_destroyer_equipment_2: "Muharebe Tankı Kalıp 1355 Zırhsavar"
-TUR_light_tank_destroyer_equipment_2_short: "MT-52ZS"
+TUR_light_tank_destroyer_equipment_2_short: "MT-55ZS"
 TUR_light_tank_destroyer_equipment_3: "I. Hafif Vasıtası Zırhsavar"
 TUR_light_tank_destroyer_equipment_3_short: "I.HVZS 'Sezercik'"
 TUR_light_tank_aa_equipment_1: "Muharebe Tankı Kalıp 1352 Uçaksavar"
@@ -10465,35 +10587,35 @@ PAL_EQUIPMENT_VERSION_23: "K23"
 
 #Infantry equip
 
- #Just Ottoman m1903:
+#Just Ottoman m1903:
 PAL_infantry_equipment_0: "$TUR_infantry_equipment_0$"
 PAL_infantry_equipment_0_short: "$TUR_infantry_equipment_0_short$"
 PAL_infantry_equipment_0_desc: "$TUR_infantry_equipment_0_desc$"
- #Standased Turkish mauser:
+#Standased Turkish mauser:
 PAL_infantry_equipment_1: "$TUR_infantry_equipment_1$"
 PAL_infantry_equipment_1_short: "$TUR_infantry_equipment_1_short$"
 PAL_infantry_equipment_1_desc: "$TUR_infantry_equipment_1_desc$"
- #Rifle on base of german G41:
+#Rifle on base of German G41:
 PAL_infantry_equipment_2: "$TUR_infantry_equipment_2$"
 PAL_infantry_equipment_2_short: "$TUR_infantry_equipment_2_short$"
 PAL_infantry_equipment_2_desc: "$TUR_infantry_equipment_2_desc$"
- #Created by Ottos rifle on base of german colonial SMG:
+#Created by Ottos rifle on base of German colonial SMG:
 PAL_infantry_equipment_3: "$TUR_infantry_equipment_3$"
 PAL_infantry_equipment_3_short: "$TUR_infantry_equipment_3_short$"
 PAL_infantry_at: "$TUR_infantry_at$"
 PAL_infantry_at_short: "$TUR_infantry_at_short$"
 PAL_infantry_at2: "$TUR_infantry_at2$"
 PAL_infantry_at2_short: "$TUR_infantry_at2_short$"
- #Maxim 08/15 & 7.58 cm leichter Minenwerfer:
+#Maxim 08/15 & 7.58 cm leichter Minenwerfer:
 PAL_support_weapons: "$TUR_support_weapons$"
 PAL_support_weapons_short: "$TUR_support_weapons_short$"
- #MG-30 & 7.5 cm leichtes Infanteriegeschütz 18:
+#MG-30 & 7.5 cm leichtes Infanteriegeschütz 18:
 PAL_support_weapons2: "$TUR_support_weapons2$"
 PAL_support_weapons2_short: "$TUR_support_weapons2_short$"
- #MG-34 & 10 cm Nebelwerfer 35:
+#MG-34 & 10 cm Nebelwerfer 35:
 PAL_support_weapons3: "$TUR_support_weapons3$"
 PAL_support_weapons3_short: "$TUR_support_weapons3_short$"
- #MG-42 & 12-cm Granatwerfer 42:
+#MG-42 & 12-cm Granatwerfer 42:
 PAL_support_weapons4: "$TUR_support_weapons4$"
 PAL_support_weapons4_short: "$TUR_support_weapons4_short$"
 PAL_night_vision: "$TUR_night_vision$"
@@ -10501,32 +10623,32 @@ PAL_night_vision_short: "$TUR_night_vision_short$"
 
 #Motorised
 
- #Opel Blitz:
+#Opel Blitz:
 PAL_motorized_equipment_1: "$TUR_motorized_equipment_1$"
 PAL_motorized_equipment_1_short: "$TUR_motorized_equipment_1_short$"
- #A-H mech1 modified by Ottos:
+#A-H mech1 modified by Ottos:
 PAL_mechanized_equipment_1: "$TUR_mechanized_equipment_1$"
 PAL_mechanized_equipment_1_short: "$TUR_mechanized_equipment_1_short$"
- #A-H mech_2 for export:
+#A-H mech_2 for export:
 PAL_mechanized_equipment_2: "$TUR_mechanized_equipment_2$"
 PAL_mechanized_equipment_2_short: "$TUR_mechanized_equipment_2_short$"
- #A-H mech_3:
+#A-H mech_3:
 PAL_mechanized_equipment_3: "$TUR_mechanized_equipment_3$"
 PAL_mechanized_equipment_3_short: "$TUR_mechanized_equipment_3_short$"
- #Opel Blitz with rockets:
+#Opel Blitz with rockets:
 PAL_motorized_rocket_equipment_1: "$TUR_motorized_rocket_equipment_1$"
 PAL_motorized_rocket_equipment_1_short: "$TUR_motorized_rocket_equipment_1_short$"
 
- #GER armcar 1:
+#GER armcar 1:
 PAL_gw_armored_car_equipment: "$TUR_gw_armored_car_equipment$"
 PAL_gw_armored_car_equipment_short: "$TUR_gw_armored_car_equipment_short$"
- #GER armcar 2:
+#GER armcar 2:
 PAL_armored_car_equipment_1: "$TUR_armored_car_equipment_1$"
 PAL_armored_car_equipment_1_short: "$TUR_armored_car_equipment_1_short$"
- #Created by ottos on base of A-H mech2 imported:
+#Created by ottos on base of A-H mech2 imported:
 PAL_armored_car_equipment_2: "$TUR_armored_car_equipment_2$"
 PAL_armored_car_equipment_2_short: "$TUR_armored_car_equipment_2_short$"
- #Modified Ottos armcar 3:
+#Modified Ottos armcar 3:
 PAL_armored_car_at_equipment: "$TUR_armored_car_at_equipment$"
 PAL_armored_car_at_equipment_short: "$TUR_armored_car_at_equipment_short$"
 
@@ -10565,7 +10687,7 @@ PAL_rocket_artillery_equipment_2_short: "$TUR_rocket_artillery_equipment_2_short
 
 #Tanks
 
- #MK V:
+#MK V:
 PAL_gw_tank_equipment: "$TUR_gw_tank_equipment$"
 PAL_gw_tank_equipment_short: "$TUR_gw_tank_equipment_short$"
 PAL_gw_tank_equipment_desc: "$TUR_gw_tank_equipment_desc$"
@@ -10733,6 +10855,10 @@ PAR_infantry_equipment_0_desc: "Als die Spannungen im Gran Chaco zu Beginn des 2
 PAR_infantry_equipment_1: "Oviedo Mauser Modelo 1927"
 PAR_infantry_equipment_1_short: "Modelo 1927"
 PAR_infantry_equipment_1_desc: "1927 erhielt das spanische Unternehmen Oviedo von der paraguayischen Regierung den Auftrag, eine aktualisierte Variante der argentinischen Mauser 1909 herzustellen. Während das Gewehr selbst für seine Zeit ein Spitzenprodukt war, erwies es sich für Paraguay als erstaunlich schwierig, genügend Munition für die Gewehre zu beschaffen."
+PAR_infantry_equipment_2: "Thompson Modelo 1928A1"
+PAR_infantry_equipment_2_short: "Thompson M1928A1"
+PAR_infantry_equipment_3: "Fabrique Nationale Modelo 1943"
+PAR_infantry_equipment_3_short: "FN-43"
 
 ### Railroad ###
 PAR_train_equipment_1: "FCCP 2-6-2T"
@@ -10865,10 +10991,10 @@ POL_amphibious_mechanized_equipment_2_short: "TOPAS"
 
 POL_gw_armored_car_equipment: "Landsverk L180"
 POL_gw_armored_car_equipment_short: "L180"
-POL_armored_car_equipment_1: "Samochód wz. 28"
-POL_armored_car_equipment_1_short: "Samochód pancerny wz. 28"
-POL_armored_car_equipment_2: "Samochód wz. 34"
-POL_armored_car_equipment_2_short: "Samochód pancerny wz. 28"
+POL_armored_car_equipment_1: "Samochód pancerny wz. 28"
+POL_armored_car_equipment_1_short: "Samochód wz. 28"
+POL_armored_car_equipment_2: "Samochód pancerny wz. 34"
+POL_armored_car_equipment_2_short: "Samochód wz. 34"
 POL_armored_car_at_equipment: "Samochód pancerny wz. 34 37mm"
 POL_armored_car_at_equipment_short: "Samochód wz. 34 37mm"
 
@@ -11007,6 +11133,10 @@ PRU_infantry_equipment_0_desc: "Im Jahr 1909 kaufte Peru eine große Anzahl deut
 PRU_infantry_equipment_1: "Fabrique Nationale Mauser Modelo 1935"
 PRU_infantry_equipment_1_short: "Modelo 1935"
 PRU_infantry_equipment_1_desc: "Das Fabrique Nationale Modell 1935 ist ein leicht verkürztes Modell 1889 Mauser mit einer Fülle von Verbesserungen, darunter ein neuer Verschluss und ein Verriegelungssystem, ein zuverlässigeres Magazin sowie eine verbesserte Ergonomie. Die peruanische Variante ist mit dem gleichen Spitzer-Geschoss 7,65×53 mm geladen wie die früheren peruanischen Gewehre. Peru kaufte zwar auch eine Reihe von böhmischen Karabinern des Modells 1932, aber das FN-35 war weitaus häufiger anzutreffen."
+PRU_infantry_equipment_2: "Steyr Maschinenpistole 1934"
+PRU_infantry_equipment_2_short: "MP 34"
+PRU_infantry_equipment_3: "Fabrique Nationale Modelo 1943"
+PRU_infantry_equipment_3_short: "FN-43"
 
 ### Railroad ###
 PRU_train_equipment_1: "FC Baldwin 2-6-0 d/w 44"
@@ -12879,6 +13009,44 @@ SRD_improved_infantry_weapons_2_desc: "Die Lanchester ist eine Maschinenpistole 
 SRD_advanced_infantry_weapons2: "De Lisle Carbine"
 SRD_advanced_infantry_weapons2_desc: "Der De Lisle-Karabiner ist ein fortschrittliches schallgedämpftes Gewehr, das dem Benutzer hilft, sowohl die Genauigkeit als auch die Tarnung aufrechtzuerhalten. Zur Unterstützung der sardischen Spezialeinheiten schickten die Kanadier Exemplare des De Lisle - ein Zeichen für die konsequente Unterstützung der Entente für Sardinien."
 
+###Artillery
+SRD_artillery_equipment_1: "Cannone da 75mm Modello 1897"
+SRD_artillery_equipment_1_short: "Cannone da 75mm"
+SRD_artillery_equipment_1_desc: "Das Matériel de 75mm Mle 1897, auch bekannt als französische 75 oder "Soixante-Quinze" ("Fünfundsiebzig"), gilt weithin als die erste moderne Artilleriewaffe. Die Soixante-Quinze, die seit 1898 in Dienst gestellt wurde, wurde im Zweiten Weltkrieg in großem Umfang als Personen-, Flugabwehr- und Panzerabwehrwaffe eingesetzt. Nach dem Rückzug nach Algerien setzte die französische Armee diese Waffen weiterhin ein, vor allem, weil sie immer noch weitgehend modernen Kriterien entsprechen."
+#Canon de 105 court mle 1934 Schneider:
+SRD_artillery_equipment_2: "Obice da 105mm Modello 1935 Schneider"
+SRD_artillery_equipment_2_short: "Obice da 105mm S"
+SRD_artillery_equipment_2_desc: "Das Matériel de 105mm Court Mle 1935 ist ein konservativer Entwurf von Schneider. Die Matériel de 105mm wurde als Ersatz für die Soixante-Quinze entwickelt. Sie ist eher eine Haubitze als eine Kanone und dient in erster Linie der Zerstörung feindlicher Befestigungen."
+SRD_artillery_equipment_3: "Cannone da 155mm Grande Potenza Filloux Modello 1917/1942"
+SRD_artillery_equipment_3_short: "Cannone da 155mm GPF"
+SRD_artillery_equipment_3_desc: "Die Canon de 155mm Grande Puissance Filloux Modèle 1917, auch bekannt als GPF, wurde während des Weltkriegs von Oberst Louis Filloux entwickelt, um den dringenden Bedarf an moderner schwerer Artillerie zu decken, und wurde sowohl von der kommunalen als auch von der nationalen Regierung eingesetzt. Aufgrund von Problemen bei der Produktion von GPFs in den Kolonien durch die französische Regierung war nur eine begrenzte Anzahl von GPFs bis 1942 im Einsatz, als das GPF-Design aktualisiert wurde, um die Produktion zu erleichtern und modernen Standards zu entsprechen."
+
+#25mm SA 34:
+SRD_anti_tank_equipment_1: "Cannone da 25mm Semiautomatico Modello 1934"
+SRD_anti_tank_equipment_1_short: "Cannone da 25mm SA"
+SRD_anti_tank_equipment_1_desc: "Anfang der 1920er Jahre war die französische Armee zu der Erkenntnis gelangt, dass die panzerbrechende Wirkung des 37-mm-Infanteriegeschützes TRP gegen moderne Panzer unzureichend sein würde. 1926 schlug Hotchkiss eine 25-mm-Kanone vor, die jedoch aus finanziellen Gründen und wegen der Verfügbarkeit des 75-mm-Materials nicht sofort übernommen wurde. Das 25-mm-Geschütz, das erst 1936 angesichts der bevorstehenden Schlacht um Frankreich in Dienst gestellt wurde, ist eine zuverlässige Waffe, die auf dem Konzept von Filloux basiert."
+#Modified Matériel de 75mm Modèle 1897:
+SRD_anti_tank_equipment_2: "Cannone controcarro da 75mm Modello 1897/1937"
+SRD_anti_tank_equipment_2_short: "Cannone da 75mm CC"
+SRD_anti_tank_equipment_2_desc: "Mit der Einführung des 105-mm-Matériels wurden die alten 75-mm-Matériels hauptsächlich zu Panzerabwehrkanonen mit modernisiertem Fahrgestell umgestaltet. Die Soixante-Quinze gelten als zu schwer für moderne Panzerabwehrkanonen und haben eine höhere Durchschlagskraft als ihre Gegenstücke."
+#Very modified Matériel de 75mm:
+SRD_anti_tank_equipment_3: "Cannone controcarro da 75mm Semiautomatico Modello 1943"
+SRD_anti_tank_equipment_3_short: "Cannone da 75mm CC SA"
+SRD_anti_tank_equipment_3_desc: "Das Matériel de 75mm SA ist ein neues halbautomatisches Geschütz, das auf der 75mm Kanone Matériel de 75mm AC basiert. Mit einer höheren Feuerrate ist das Matériel de 75mm CA SA immer noch eine leicht veraltete Waffe, kann aber dank eines modernisierten Mechanismus und eines neuen Ansatzes bei der Konstruktion des Fahrgestells mit seinen modernen Gegenstücken mithalten."
+
+#Hotchkiss 25mm:
+SRD_anti_air_equipment_1: "Cannone-Mitragliera da 25mm contraerea Modello 1936"
+SRD_anti_air_equipment_1_short: "Cannone-Mitragliera da 25mm CA"
+SRD_anti_air_equipment_1_desc: "Nach dem Rückzug nach Algerien meldete das französische Militär den Bedarf an einer speziellen Flugabwehrkanone an. Hotchkiss stellte 1936 das 25-mm-Projekt vor, das aufgrund der langsamen Entwicklung einer vielversprechenderen Schneider-Variante angenommen wurde. Obwohl die Mitrailleuse 25 mm CA in Dienst gestellt wurde, wurde das ursprüngliche Dreibein auf Wunsch der Armee durch eine dreieckige Basis mit einer zweirädrigen Lafette ersetzt."
+#Schneider 37 mm:
+SRD_anti_air_equipment_2: "Cannone-Mitragliera da 37 mm contraerea Modello 1939"
+SRD_anti_air_equipment_2_short: "Cannone-Mitragliera da 37mm CA"
+SRD_anti_air_equipment_2_desc: "Die seit 1930 entwickelte Mitrailleuse 37mm CA wurde schließlich 1939 zur Serienreife gebracht. Nach einer erbitterten Kontroverse mit dem französischen Militär, das bereits die Hotchkiss-Variante übernommen hatte, wurde die Mitrailleuse 37mm CA von Schneider nach ersten Tests als eine fortschrittlichere Variante als die 25mm-Kanone von Hotchkiss angenommen."
+#Canon de 75 CA modèle 1940 Schneider:
+SRD_anti_air_equipment_3: "Cannone da 75mm contraerea Modello 1940"
+SRD_anti_air_equipment_3_short: "Cannone da 75mm CA"
+SRD_anti_air_equipment_3_desc: "In den späten 1920er Jahren wurde erkannt, dass das Matériel de 75mm Modèle 1897 als Luftabwehrwaffe veraltet war, und 1931 wurde mit der Entwicklung eines neuen Geschützes begonnen. Das Matériel de 75mm Contre-Aérien Modèle 1940 von Schneider hat eine schnellere Feuerrate, eine höhere Mündungsgeschwindigkeit, eine größere vertikale Reichweite, eine moderne Feuerleitung und eine größere Mobilität mit neuen Lafetten als die alte Soixante-Quinze. Beeindruckt von der Leistung der früheren Mitrailleuse 37mm CA von Schneider, übernahm das französische Kommando schnell die neue 75mm Kanone."
+
 #Motorised
 
 SRD_motorized_equipment_1: "Laffly S-20"
@@ -13676,7 +13844,7 @@ TEX_anti_tank_equipment_3_short: "76-mm M1941 Gun"
 
 TEX_anti_air_equipment_1: "Anti-Aircraft Gun, Automatic, 37-mm, Model 1936"
 TEX_anti_air_equipment_1_short: "37-mm M1936 Gun"
-#german 2-cm Flakvierling 38:
+#German 2-cm Flakvierling 38:
 TEX_anti_air_equipment_2: "Anti-Aircraft Gun, Automatic, 40-mm, Model 1935A3"
 TEX_anti_air_equipment_2_short: "40-mm M1935A3 Gun"
 TEX_anti_air_equipment_3: "Anti-Aircraft Gun, 90-mm, Model 1938A2"
@@ -14257,6 +14425,10 @@ URG_infantry_equipment_0_desc: "Als Reaktion auf ein aggressives argentinisches 
 URG_infantry_equipment_1: "Zbrojovka Brno Mauser Modelo 1932"
 URG_infantry_equipment_1_short: "Modelo 1932"
 URG_infantry_equipment_1_desc: "Die Zbrojovka Brno Version 1932 ist eine erleichterte und vereinfachte Version des früheren Brünner Karabiners Version 1924 mit dem Kaliber 7,65×53 mm Mauser. Uruguay kaufte 1933 einige Tausend dieser Gewehre und begann schnell mit der Produktion in kleinem Maßstab."
+URG_infantry_equipment_2: "Steyr Maschinenpistole 1934"
+URG_infantry_equipment_2_short: "MP 34"
+URG_infantry_equipment_3: "Fabrique Nationale Modelo 1943"
+URG_infantry_equipment_3_short: "FN-43"
 
 ### Railroad ###
 URG_train_equipment_1: "Compañía del Ferrocarril Central del Uruguay Class H"
@@ -14502,7 +14674,7 @@ VEN_infantry_equipment_0_short: "Mauser M1895"
 VEN_infantry_equipment_0_desc: "Das kurze Mauser-Modell 1895 ist eine verbesserte spanische Mauser in einer Konfiguration auf halbem Weg zwischen einem Vollgewehr und einem Karabiner. Die costa-ricanische Variante ist im Kaliber 7x57 mm Mauser ausgeführt. Venezuela kaufte eine Reihe dieser Gewehre, um seine alternden Mauser 1871/84 zu ersetzen, und stellte sie auch im eigenen Land her."
 VEN_infantry_equipment_1: "Fabrique Nationale Mauser Modelo 1930"
 VEN_infantry_equipment_1_short: "Modelo 1930"
-VEN_infantry_equipment_2: "Thompson Modèle 1928A1"
+VEN_infantry_equipment_2: "Thompson Model 1928A1"
 VEN_infantry_equipment_2_short: "Thompson M1928A1"
 VEN_infantry_equipment_3: "Fabrique Nationale Modèle 1943"
 VEN_infantry_equipment_3_short: "FN-43"

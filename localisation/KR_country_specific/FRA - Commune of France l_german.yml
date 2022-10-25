@@ -3,7 +3,7 @@
 ### Tooltips ###
 FRA_ongoing_phalanstere_development: "§YHilft bei der Entwicklung eines anderen Landes.§!"
 CSA_redeagles_tt: "Neue freiwillige Piloten und Flugzeuge werden eintreffen."
-FRA_tank_division_tooltip: "Drei £nato_unit_light_armor_icon_small  §HLeichten Panzer§! Divisionen werden eingesetzt."
+FRA_tank_division_tooltip: "Drei £nato_unit_medium_armor_icon_small  §HMittlere Panzer§! Divisionen werden eingesetzt."
 
  INT_phalanstere: "Phalanstère Internationale"
 
@@ -13,8 +13,8 @@ KR_phalanstere_tooltip_desc: "§L[GetPhalanstereDesc]§!"
 KR_phalanstere_name_INT: "Führer des §H$INT_phalanstere$§!"
 KR_phalanstere_name: "Mitglieder of the des §H$INT_phalanstere$§!"
 
-KR_phalanstere_desc_INT: ""
-KR_phalanstere_desc: ""
+KR_phalanstere_desc_INT: "Die Phalanstère Internationale ist eine Organisation für wirtschaftliche Entwicklung und Zusammenarbeit zwischen den sozialistischen Staaten. Ziel der Phalanstère ist es, die Ressourcen zwischen den Mitgliedstaaten besser zu koordinieren, und sie verfügt über zahlreiche Förderprogramme zur Unterstützung der Industrialisierung in den weniger wohlhabenden Ländern."
+KR_phalanstere_desc: "Die Phalanstère Internationale ist eine Organisation für wirtschaftliche Entwicklung und Zusammenarbeit zwischen den sozialistischen Staaten. Ziel der Phalanstère ist es, die Ressourcen zwischen den Mitgliedstaaten besser zu koordinieren, und sie verfügt über zahlreiche Förderprogramme zur Unterstützung der Industrialisierung in den weniger wohlhabenden Ländern."
 
 FRA_syndicalist_agitation: "Syndicalist Agitation: §R40%§!"
 
@@ -179,13 +179,13 @@ Revolutionary_spirit_desc: "Das Überleben und Gedeihen der syndikalistischen We
 FRA_socialist_education_idea: "Sozialistische Bildung"
 FRA_socialist_education_idea_desc: "Die Bildung der Jugend ist eines der größten Ziele, die ein Land wie die Kommune angehen kann. Glücklicherweise war das alte Bildungssystem der Republik bereits revolutionär für seine Zeit und gibt uns eine gute Grundlage für das neue. Ein sozialistisches Bildungssystem, das sich auf die Wissenschaften und Künste konzentriert."
 
-FRA_phalanstere_NOR: "Hilfe für Norwegen"
-FRA_phalanstere_NOR_desc: "Wir leisten derzeit industrielle Hilfe für unsere norwegischen Brüder."
-
 COF_prodcsaplanes: "Herstellung von Flugzeugen für die CSA"
 
 FRA_avantgarde_idea: "Internationale Avant-Garde"
 FRA_avantgarde_idea_desc: "Ein einheitlicher sozialistischer Kunststil, von der Kunst bis zur Musik, könnte ein mächtiges Werkzeug sein, das den Massen in der nicht-syndikalistischen Welt helfen wird, sich für unsere Ideale zu interessieren - durch Unterhaltung."
+
+ FRA_efficient_industry_idea: "Effiziente Industrie"
+ FRA_principe_de_concentration_idea: "Prinzip der Konzentration"
 
 ### Parties ###
 FRA_totalist_party: "Jakobiner/Sorelianer"
@@ -507,9 +507,8 @@ comfrance.10.c: "Pierre Comert (Sorelianer)- Antideutscher Revanchismus."
 comfrance.10.e: "Fernand Desprès (Anarchist)- Europäischer Sozialismus."
 
 comfrance.12.t: "Die Ergebnisse: Arbeiter Mehrheit"
-comfrance.12.d: "Auch wenn viele in dieser Wahl den Sturz des von den Travailleurs geführten Konsenses sahen, der die Kommune seit dem Tod von Emile Pouget regiert hat, haben sie es geschafft, sich bei der Wahl eine feste Mehrheit zu sichern.\n\n Pivert könnte zwar zurückgerufen werden, um das Amt zu übernehmen, doch wäre dies sehr unwahrscheinlich. Die Arbeiter blicken nun auf den russischen Emigranten Boris Souvarine, der im Gegensatz zu Pivert sowohl als stark genug angesehen wird, um die radikalen Fraktionen auf Linie zu halten, als auch als fähig, die Kommune zu ihrem endgültigen Ruhm zu führen!"
+comfrance.12.d: "Auch wenn viele in dieser Wahl den Sturz des von den Travailleurs geführten Konsenses sahen, der die Kommune seit dem Tod von Emile Pouget regiert hat, haben sie es geschafft, sich bei der Wahl eine feste Mehrheit zu sichern.\n\nDie Arbeiter blicken nun auf den russischen Emigranten Boris Souvarine, der im Gegensatz zu Pivert sowohl als stark genug angesehen wird, um die radikalen Fraktionen auf Linie zu halten, als auch als fähig, die Kommune zu ihrem endgültigen Ruhm zu führen!"
 comfrance.12.a: "Herzlichen Glückwunsch, Kamarad Souvarine."
-comfrance.12.b: "Rückruf Pivert."
 
 comfrance.13.t: "Die Ergebnisse: Jakobinische Mehrheit"
 comfrance.13.d: "Die Wahlen haben endlich die Jakobiner an die Macht gebracht und erlauben die Rückkehr der leninistischen Werte, um die Kommune zur Weltrevolution zu führen! Die syndikalistischen Strukturen sind nun in jakobinischen Händen, während sorelianische Partisanen gejagt, verbannt oder erschossen werden. Nun wird die neu gegründete Kommunistische Partei Frankreichs zwischen General Jacques Duclos und dem Diplomaten Marcel Cachin wählen müssen, um Frankreich zu führen!"
@@ -954,16 +953,43 @@ comfrance.165.a: "Wir sind dabei!"
  comfrance.170.a: "Gemeinsam sind wir stärker!"
  comfrance.170.b: "Wenn ich es mir recht überlege, nein..."
 
- comfrance.171.t.accept: "[From.GetNameDefCap] Wurde akzeptiert!"
- comfrance.171.t.refuse: "[From.GetNameDefCap] hat abgelehnt!"
- comfrance.171.d.accept: "Zeit zu jubeln! [From.GetNameDefCap] hat unser Angebot angenommen, unserem Militärbündnis beizutreten, wie wir es uns sehnlichst erhofft hatten. Mit dieser Entscheidung haben sie sich unserer unendlichen Unterstützung als Verbündete im weltweiten Kampf für die Befreiung der Arbeiterklasse versichert, und wir haben einen wertvollen Verbündeten gegen unsere unbestreitbar mächtigen Feinde gewonnen. Bald werden ihnen viele andere folgen: "Die Internationale wird die Menschheit sein"!"
- comfrance.171.d.refuse: "Zu unserem Leidwesen hat [From.GetNameDef] unser Angebot, unserem Militärbündnis beizutreten, abgelehnt. Vielleicht zu eingeschüchtert von der unbestreitbaren Macht unserer Feinde, oder einfach nicht engagiert genug im Kampf für die Befreiung des Proletariats. In jedem Fall, auch wenn dies sicherlich ein bedauerliches Ergebnis unseres diplomatischen Vorstoßes ist, werden sich uns viele andere in diesem Kampf anschließen: "Die Internationale soll die Menschheit sein"!"
+ comfrance.171.t: "[From.GetNameDefCap] Wurde akzeptiert!"
+ comfrance.171.d: "Zeit zu jubeln! [From.GetNameDefCap] hat unser Angebot angenommen, unserem Militärbündnis beizutreten, wie wir es uns sehnlichst erhofft hatten. Mit dieser Entscheidung haben sie sich unserer unendlichen Unterstützung als Verbündete im weltweiten Kampf für die Befreiung der Arbeiterklasse versichert, und wir haben einen wertvollen Verbündeten gegen unsere unbestreitbar mächtigen Feinde gewonnen. Bald werden ihnen viele andere folgen: "Die Internationale wird die Menschheit sein"!"
  comfrance.171.a: "Exzellent!"
- comfrance.171.b: "Ihr Verlust."
+ 
+ comfrance.172.t: "[From.GetNameDefCap] Hat abgelehnt!"
+ comfrance.172.d: "Zu unserem Leidwesen hat [From.GetNameDef] unser Angebot, unserem Militärbündnis beizutreten, abgelehnt. Vielleicht zu eingeschüchtert von der unbestreitbaren Macht unserer Feinde, oder einfach nicht engagiert genug im Kampf für die Befreiung des Proletariats. In jedem Fall, auch wenn dies sicherlich ein bedauerliches Ergebnis unseres diplomatischen Vorstoßes ist, werden sich uns viele andere in diesem Kampf anschließen: "Die Internationale soll die Menschheit sein"!"
+ comfrance.172.a: "Ihr Verlust."
 
  comfrance.200.t: "Das Damokles-Projekt"
  comfrance.200.d: "Deutsche Spione haben vor kurzem die Unterlagen eines Forschungs- und Entwicklungsprogramms aufgedeckt, das von den Mitgliedern der Dritten Internationale finanziert wurde. Bei dem "Damokles-Projekt" handelt es sich um eine umfassende multinationale Studie über die zerstörerische Kraft der Kernspaltung mit dem Ziel, "Bomben mit einer Zerstörungskraft zu entwickeln, die alles bisher Bekannte bei weitem übertrifft". Der berühmte deutsche Physiker Albert Einstein hatte zuvor gewarnt, dass eine erfolgreiche "Atombombe" sogar in der Lage sein könnte, ganze Städte in Asche zu verwandeln.\n\nDie deutschen Geheimdienste haben die Informationen über dieses Projekt an ihre engsten Verbündeten weitergegeben, so dass nun natürlich die ganze Welt davon weiß. Einige haben das Projekt als kindische Fantasie abgetan, aber viele Experten befürchten einen Durchbruch."
  comfrance.200.a: "Wenn sie Erfolg haben sollten..."
+
+ comfrance.301.t: "Das Ende der Dritten Internationale"
+ comfrance.301.d: "Der Krieg hat sich ganz entschieden nicht zu unseren Gunsten entwickelt. Trotz der größten Anstrengungen von uns und unseren Soldaten haben sich die Kräfte der Reaktion als zu stark für die Macht des internationalen Proletariats erwiesen - durch eine lange Reihe von Rückschlägen und Niederlagen wurde die Kampfkraft des britischen und französischen Militärs im Laufe des Krieges immer weiter reduziert. Während wir bisher die Hoffnung hatten, dass sich die Arbeiter der Welt noch erheben werden, hat die Situation einen so kritischen Punkt erreicht, dass weder Großbritannien noch Frankreich den gegnerischen Kräften wirksamen Widerstand leisten können und kein überlebendes Mitglied der Internationale die nötige Stärke und das Prestige hat, um das Bündnis zusammenzuhalten - als solches hat die Dritte Internationale begonnen zu zerbrechen.\n\nDie Auswirkungen davon sind fast sofort spürbar - was früher eine unerschütterliche Entschlossenheit war, den Reaktionären niemals nachzugeben, ist jetzt schnell einer fast defätistischen Haltung gewichen, da sowohl die verbündeten Aufständischen als auch die Regierungen unsere Sache zunehmend als hoffnungslos betrachten und darüber nachdenken, entweder ihre Gewehre an den Nagel zu hängen oder irgendeine Art von Abkommen mit dem Feind zu suchen, und das Phalanstère und andere Organe der Internationale sind weitgehend außer Kraft gesetzt. Es ist zu erwarten, dass die ehemaligen Mitglieder des Bündnisses, die sich außerhalb der Reichweite der feindlichen Streitkräfte befinden, die offenen Feindseligkeiten bald einstellen werden, während der Rest schließlich gezwungen sein wird, sich bedingungslos zu ergeben ... oder andernfalls endgültig vernichtet zu werden.\n\nWährend die Flamme der Revolution erlischt und die Arbeiter verzweifelt weinen, bleibt uns nichts anderes übrig, als die Rettung zu finden, zu der wir fähig sind..."
+ comfrance.301.a: "Nicht so..."
+
+ INT_collapse_base: "Die aus der Asche des Ersten Weltkriegs geborene Dritte Internationale war über mehr als 20 Jahre hinweg gleichermaßen zur größten Hoffnung und zur größten Angst der Welt geworden - ein Bündnis der ersten sozialistischen Regierungen der Welt, das den großen Ehrgeiz hatte, den lang gehegten Traum von der globalen Arbeiterrevolution zu verwirklichen."
+
+ comfrance.302.t: "Die Internationale bricht zusammen"
+ comfrance.302.d.germany: "$INT_collapse_base$\n\nDie deutsche Weltordnung hat sich jedoch als zu mächtig erwiesen, um besiegt werden zu können - nach langen Kämpfen kontrollieren Deutschland und seine Verbündeten nun den größten Teil Großbritanniens und Frankreichs, und die Dritte Internationale und ihre Organe sind nicht mehr existent, da es keinen überlebenden Staat gibt, der stark genug wäre, um sie zu vereinen. Die Weltrevolution, die jahrelang als zunehmend realistische Aussicht galt, ist nun für Jahrzehnte oder länger unmöglich geworden - wenn nicht sogar für immer."
+ comfrance.302.d.entente: "$INT_collapse_base$\n\nDie Exilregierungen haben jedoch bewiesen, dass sie nicht bereit sind, zu sterben - nach einer monumentalen Kriegsanstrengung ist die Entente nun wieder weitgehend in der Hand Großbritanniens und Frankreichs, so dass die Dritte Internationale und ihre verschiedenen Organe nicht mehr existieren und es keinen überlebenden Staat mehr gibt, der stark genug wäre, sie zu vereinen. Die Weltrevolution, die jahrelang als zunehmend realistische Aussicht galt, ist nun für Jahrzehnte oder länger unmöglich geworden - wenn nicht sogar für immer."
+ comfrance.302.d.germany_entente: "$INT_collapse_base$\n\nDie Kräfte der alten Ordnung haben sich jedoch als zu mächtig erwiesen, um sie zu überwinden - sie stehen Feinden von allen Seiten gegenüber, Großbritannien und Frankreich sind beide den Deutschen und der Entente zum Opfer gefallen, und die Dritte Internationale und ihre Organe haben aufgehört zu funktionieren, ohne dass es einen überlebenden Staat gibt, der stark genug ist, sie zu versammeln. Die Weltrevolution, die jahrelang als zunehmend realistische Aussicht galt, ist nun für Jahrzehnte oder länger unmöglich geworden - wenn nicht sogar für immer."
+ comfrance.302.d.russia: "$INT_collapse_base$\n\nDoch während sie über Deutschland triumphierte, erwies sich das, was danach kam, als ihr Verhängnis: Nach einem zerstörerischen Krieg war die Internationale nicht in der Lage, über ihren neuen Feind in Russland zu triumphieren und fiel der Invasion zum Opfer, so dass die Dritte Internationale und ihre Organe nicht mehr existierten und es keinen überlebenden Staat gab, der stark genug gewesen wäre, um sie zu sammeln. Dennoch hat die Niederlage gegen Deutschland die Welt, wie wir sie kennen, für immer verändert - auch wenn die Weltrevolution für Jahrzehnte oder länger beendet sein mag, ist ihr Vermächtnis eine Welt, die sich radikal von der vorherigen unterscheidet."
+ comfrance.302.d.generic: "$INT_collapse_base$\n\nIhre Feinde haben sich jedoch als zu zahlreich und zu mächtig erwiesen, um sie zu überwinden - nachdem die sozialistischen Regierungen Großbritanniens und Frankreichs gründlich besiegt wurden und es keine Kraft mehr gibt, die stark genug wäre, um den Mantel zu übernehmen, haben die Dritte Internationale und ihre verschiedenen Organe aufgehört zu funktionieren. Die Weltrevolution, die jahrelang als eine zunehmend realistische Aussicht galt, ist nun für Jahrzehnte oder länger unmöglich geworden - wenn nicht sogar für immer."
+ comfrance.302.a: "Und was für ein Traum das war..."
+ comfrance.302.b: "Wir werden nie wieder eine Revolution fürchten."
+ comfrance.302.c: "Alles ist so, wie es sein soll."
+ comfrance.302.d: "Gib es zurück! Das ist nicht richtig! Das gehörte uns!"
+ comfrance.302.e: "Wir wussten, dass sie es tun würden. Aber sie hätten ein bisschen länger durchhalten können..."
+ comfrance.302.f: "Niemand kann mehr leugnen, dass wir unseren Platz in der Geschichte eingenommen haben."
+ comfrance.302.g: "Das verheißt... nichts Gutes."
+ comfrance.302.h: "Ein besseres Ergebnis hätten wir uns nicht wünschen können."
+ comfrance.302.i: "Der Tod kommt für alle, irgendwann."
+
+ comfrance.999.t: "Kapitalistische Volkswirtschaften brechen zusammen!"
+ comfrance.999.d: "In den letzten Tagen haben die Arbeiter und Bauern der Welt zugesehen, wie die Banker, Kapitalisten und Tyrannen sich abrackern, um die Früchte der Arbeit der Arbeiter für ihren eigenen Vorteil zu ernten. Sie nennen es den Schwarzen Montag, ein schreckliches Ereignis, sagen sie! Sie sagen, dass ein solcher Zusammenbruch völlig unvorhersehbar war, etwas, das kein Wirtschaftswissenschaftler hätte vorhersagen können! Natürlich sind die Arbeiter nicht dumm. Das Volk durchschaut ihre Lügen.\n\nWie der große Philosoph Karl Marx voraussagte, sind solche Zusammenbrüche eine unvermeidliche Folge des Kapitalismus. In dem Maße, in dem der Kapitalist die Arbeiter missbraucht und von ihnen profitiert, beginnt er, sich wie ein tollwütiger Hund bei lebendigem Leib zu verzehren. Und das alles, während sie ihre Arbeiter auf der Jagd nach dem letzten Stück Fleisch im Stich lassen und verrecken lassen.\n\nUnsere Nation hat sich jedoch von der kapitalistischen Welt abgekoppelt und mit dem Aufbau eines wahren Volksstaates begonnen. Daher bleiben wir unberührt und können nur zusehen, wie die Nationen der Welt von ihren kapitalistischen Oberherren bei lebendigem Leib aufgefressen werden. Dies ist ein großes Erwachen für die Bauern und Arbeiter der Welt, und bald werden die Arbeiter dieser Nationen beginnen, sich gegen ihre Unterdrücker zu organisieren. Wir müssen dabeistehen und als wahres Beispiel für die Arbeiter der Welt aufrecht stehen!"
+ comfrance.999.a: "Arbeiter der Welt, vereinigt euch!"
 
 comfrance.1000.t: "Gamelin marschiert auf Paris"
 comfrance.1000.d: "Vor ein paar Tagen startete General Maurice Gamelin einen erfolgreichen Putsch gegen das jakobinische Regime von Marcel Déat. Während dies wie ein entschiedener Angriff auf das demokratische System der Kommune erscheint, argumentieren viele, dass die Jakobiner das demokratische System zerstört hätten, wenn Gamelins Intervention nicht gewesen wäre. Gamelin hat versprochen, Frankreich zum traditionellen Syndikalismus zurückzuführen, und der Prozess der De-Jakobinisierung findet bereits statt. Es ist noch unbekannt, wie seine Pläne ausfallen werden. Wir können nur abwarten..."
@@ -1152,11 +1178,16 @@ FRA_Romandy_Hydroelectricity_decision: "Staudämme bauen in der Romandie"
  FRA_irene_and_frederic_joliot_curie: "Irène & Frédéric Joliot-Curie"
  FRA_robert_esnault_pelterie: "Robert Esnault-Pelterie"
 
- FRA_etienne_schlumberger: "Étienne Schlumberger"
+ FRA_louis_lazare_kahn: "Louis-Lazare Kahn"
+ 
  FRA_joseph_vuillemin: "Joseph Vuillemin"
  FRA_martial_henri_valin: "Martial Henri Valin"
  FRA_maryse_bastie: "Maryse Bastié"
  FRA_victor_leon_ernest_denain: "Victor Léon Ernest Denain"
+ FRA_jean_francois_jannekeyn: "Jean-François Jannekeyn"
+ FRA_alfred_heurtaux: "Alfred Heurtaux"
+ FRA_georges_guynemer: "Georges Guynemer"
+
  FRA_leon_blum: "Léon Blum"
  FRA_pierre_monatte: "Pierre Monatte"
  FRA_daniel_guerin: "Daniel Guérin"
@@ -1168,4 +1199,5 @@ FRA_Romandy_Hydroelectricity_decision: "Staudämme bauen in der Romandie"
  FRA_jacque_duclos: "Jacque Duclos"
  FRA_jean_zyromski: "Jean Zyromski"
  FRA_suzanne_girault: "Suzanne Girault"
+ 
  FRA_confederation_general_du_travail: "Confédération Générale du Travail (Allgemeiner Gewerkschaftsbund)"

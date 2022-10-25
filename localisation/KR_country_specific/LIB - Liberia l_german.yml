@@ -86,7 +86,7 @@ LIB_request_infantry_equipment: "Importiert amerikanische Gewehre"
 LIB_pull_strings_with_industrialists: "Lockt die amerikanische Schwerindustrie an"
 LIB_war_in_ivory_coast: "§REin solch aggressives Vorgehen kann durchaus zu einem totalen Krieg führen.§!"
 
-LIB_Not_Enough_Stuff: "Wir haben nicht genügend Ausrüstung, um diese Anfrage zu erfüllen, und müssen sie daher ablehnen.."
+LIB_Not_Enough_Stuff: "Wir haben nicht genügend Ausrüstung, um diese Anfrage zu erfüllen, und müssen sie daher ablehnen."
 LIB_Unlock_equipment_decision: "§YSchaltet die Entscheidung frei:§! £decision_icon_small Fordert Material an"
 LIB_refund_on_fail_decision_TT: "§GDie für die Entscheidung aufgewendete politische Macht wird Ihnen zurückerstattet§!, aber wir müssen warten, bis die Entscheidung wieder auftaucht."
 LIB_asking_more_wont_help_TT: "§RWenn Sie denselben Antrag noch einmal stellen, wird er höchstwahrscheinlich erneut abgelehnt, weil die Ausrüstung fehlt§!"
@@ -162,7 +162,7 @@ lib.14.a: "Die Loge besitzt die Republik Liberia."
 lib.14.b: "Ein Zweiparteiensystem ist Tradition."
 
 lib.20.t: "Der Beginn des afrikanischen Commonwealth!"
-lib.20.d: "Mit unserer totalen Kontrolle über Westafrika können wir nun ein Commonwealth freier Nationen bilden, nicht unähnlich dem, das von den Herrschaftsgebieten des ehemaligen britischen Reiches gebildet wurde. In dieser Welt der ideologischen Kriege und der wirtschaftlichen Ausbeutung müssen wir freien Menschen Westafrikas zusammenstehen. So können wir die Vielfalt Westafrikas am besten auf demokratische Weise repräsentieren.."
+lib.20.d: "Mit unserer totalen Kontrolle über Westafrika können wir nun ein Commonwealth freier Nationen bilden, nicht unähnlich dem, das von den Herrschaftsgebieten des ehemaligen britischen Reiches gebildet wurde. In dieser Welt der ideologischen Kriege und der wirtschaftlichen Ausbeutung müssen wir freien Menschen Westafrikas zusammenstehen. So können wir die Vielfalt Westafrikas am besten auf demokratische Weise repräsentieren."
 lib.20.a: "Ausgezeichnet."
 
 lib.21.t: "Freigabe von Guinea."
@@ -188,7 +188,7 @@ lib.52.a: "Dieses Land wird frei sein, DURCH GEWALT!"
 lib.52.b: "Wir haben keine Chance, sie auf dem Schlachtfeld zu bekämpfen."
 
 lib.53.t: "Sierra Leone gehört uns"
-lib.53.d: "Anscheinend hatte die [From.GetAdjective] Regierung zu viel Angst davor, in einen Krieg mit uns verwickelt zu werden - sie hat zugestimmt, uns Sierra Leone zu übergeben.."
+lib.53.d: "Anscheinend hatte die [From.GetAdjective] Regierung zu viel Angst davor, in einen Krieg mit uns verwickelt zu werden - sie hat zugestimmt, uns Sierra Leone zu übergeben."
 lib.53.a: "Ausgezeichnet."
 
 lib.54.t: "Die französische Niederlage"
@@ -207,7 +207,7 @@ lib.56.a: "Das werden sie noch bereuen."
 
 lib.57.t: "Liberia marschiert in die Elfenbeinküste ein"
 lib.57.d: "Liberia hat sich lange nach der Elfenbeinküste gesehnt und sieht die Region als verwandt an. Sie haben sich vorgemacht, dass sie die Elfenbeinküste befreien wollen und dass es sie zu Adeligen macht, wenn sie Familie in Amerika haben. Heute ist ihr Wahn jedoch zu weit gegangen; ohne Rücksicht auf unsere Grenzen haben sie Truppen in unser Land geschickt und erklären die Elfenbeinküste zu ihrem Besitz!"
-lib.57.a: "Gut, wenn sie es so sehr wollen, können sie es haben.."
+lib.57.a: "Gut, wenn sie es so sehr wollen, können sie es haben."
 lib.57.b: "Wie können sie es wagen! Wir werden sie über die Grenze und darüber hinaus zurückdrängen!"
 
 lib.58.t: "[From.GetNameDefCap] Has Refused"
@@ -235,7 +235,7 @@ lib.88.t: "Kein [From.GetAdjective] Bailout"
 lib.88.d: "Die [From.GetAdjective] Regierung hat sich rundheraus geweigert, uns die dringend benötigte Hilfe zukommen zu lassen, da sie offensichtlich mit ihren eigenen Problemen beschäftigt ist. An wen sollen wir uns jetzt wenden?"
 lib.88.a: "Die Amerikaner."
 lib.88.b: "Die Deutschen."
-lib.88.c: "Es scheint, dass Firestone unsere einzige Hoffnung ist.."
+lib.88.c: "Es scheint, dass Firestone unsere einzige Hoffnung ist."
 
 lib.89.t: "[From.GetNameDefCap] stimmt zu!"
 lib.89.d: "Die [From.GetAdjective] Regierung hat sich gnädigerweise bereit erklärt, Liberia mit einem wirtschaftlichen Rettungspaket zu helfen. Es scheint also doch noch Hoffnung zu geben!"
@@ -262,10 +262,10 @@ lib.93.t: "Amerika ist gefallen"
 lib.93.d: "Es scheint, dass die amerikanische Regierung angesichts ihres Bürgerkriegs zusammengebrochen ist. Wohl oder übel kann sie uns nicht mehr helfen."
 lib.93.a: "Wir werden aus eigener Kraft überleben!"
 lib.93.b: "Vielleicht sind die Deutschen langlebiger..."
-lib.93.c: "Es scheint, dass Firestone unsere einzige Hoffnung ist.."
+lib.93.c: "Es scheint, dass Firestone unsere einzige Hoffnung ist."
 
 lib.94.t: "Bitte um Hilfe von [from.GetNameDefCap]"
-lib.94.desc: "Bevor wir einen Antrag auf Hilfe stellen, müssen wir entscheiden, um welche Art von Hilfe es sich handelt - Ausrüstung für unsere Armee, Flugzeuge für die Luftstreitkräfte, Werften zum Bau neuer Schiffe für die Marine oder industrielle Investitionen.."
+lib.94.desc: "Bevor wir einen Antrag auf Hilfe stellen, müssen wir entscheiden, um welche Art von Hilfe es sich handelt - Ausrüstung für unsere Armee, Flugzeuge für die Luftstreitkräfte, Werften zum Bau neuer Schiffe für die Marine oder industrielle Investitionen."
 lib.94.a: "Bittet um Gewehre für unsere Armee."
 lib.94.b: "Bittet um eine Gruppe von Flugzeugen."
 lib.94.c: "Bittet um Pachtverträge für Werften."
@@ -331,7 +331,7 @@ lib.981.desc: "Es scheint, dass der Deal, den wir der Regierung [FROM.GetAdjecti
 lib.981.a: "Wir sollten diese Zeit gut nutzen."
 
 lib.982.t: "Unsere Bautrupps kehren aus Liberia zurück"
-lib.982.desc: "Die Bautrupps, die nach Liberia entsandt wurden, um die Infrastruktur zu verbessern, sind in ihre Heimat zurückgekehrt, um alles zu tun, was wir brauchen.."
+lib.982.desc: "Die Bautrupps, die nach Liberia entsandt wurden, um die Infrastruktur zu verbessern, sind in ihre Heimat zurückgekehrt, um alles zu tun, was wir brauchen."
 lib.982.a: "Trautes Heim, Glück allein."
 
 ### Focuses ###
@@ -417,7 +417,7 @@ LIB_freemason_coup: "Freimaurerputsch"
 LIB_freemason_coup_desc: "Es war der größte Fehler von Edwin Barclay, Geheimgesellschaften an die Öffentlichkeit zu lassen. Noch schlimmer als das Staatsbürgerschaftsgesetz, für das er bezahlen wird. Unsere Partei ist der wahre Geist der freien Menschen, die nach Liberia zurückgekehrt sind, und nicht jeder Liberianer hat die Freiheit verdient."
 
 LIB_ultimatum_to_foreigners: "Ultimatum an Ausländer"
-LIB_ultimatum_to_foreigners_desc: "Mit Frank Tolbert als unserem Großmeister haben wir die Autorität, jeden Menschen zu verurteilen. Die Ausländer in Liberia, die Plantagenbesitzer und Flüchtlinge, teilen vielleicht nicht unsere Liebe zum Liberalismus. Wir brauchen nur gute Arbeiter, um ein großes Land aufzubauen.."
+LIB_ultimatum_to_foreigners_desc: "Mit Frank Tolbert als unserem Großmeister haben wir die Autorität, jeden Menschen zu verurteilen. Die Ausländer in Liberia, die Plantagenbesitzer und Flüchtlinge, teilen vielleicht nicht unsere Liebe zum Liberalismus. Wir brauchen nur gute Arbeiter, um ein großes Land aufzubauen."
 
 LIB_no_democracy: "Freiheit ohne Demokratie"
 LIB_no_democracy_desc: "Der Grund für den Untergang der True Whigs war nicht, dass sie korrupt waren, sondern dass sie sich selbst überlisten mussten, um zu beweisen, dass sie die Macht hatten, die ihrem Status entsprach. Wahlen in Liberia haben nie das Vertrauen in die Regierung gestärkt. Ifa Mo, die Geheimhaltung, gewährleistet eine stabile Regierung."
@@ -576,7 +576,7 @@ LIB_war_for_africa: "Krieg um Afrika"
 LIB_war_for_africa_desc: "Die Franzosen haben Afrika schon viel zu lange mit eiserner Faust regiert. Jetzt, da sie in einen europäischen Konflikt verwickelt sind, haben wir die Chance, sie ein für alle Mal zu vertreiben."
 
 LIB_claim_sierra_leone: "Kampf für Sierra Leone"
-LIB_claim_sierra_leone_desc: "Sierra Leone ist zu Recht Teil des großen afrikanischen Gemeinwesens, und es ist unsere Aufgabe, es zurückzufordern.."
+LIB_claim_sierra_leone_desc: "Sierra Leone ist zu Recht Teil des großen afrikanischen Gemeinwesens, und es ist unsere Aufgabe, es zurückzufordern."
 
 LIB_liberation_of_west_africa: "Befreiung von Westafrika"
 LIB_liberation_of_west_africa_desc: ""

@@ -144,8 +144,6 @@ GXC_liberate_northeast_desc: "[FROM.GetName] hat die nordöstliche Regierung in 
 
 GXC_guangdong_guangxi_war_decisions: "Der Zweite Guangdong-Guangxi-Krieg"
 GXC_guangdong_guangxi_war_decisions_desc: "Die Provinzen Guangdong und Guangxi, auch bekannt als Yue-Gui, befinden sich erneut im Krieg. Der erste Krieg fand 1920 zwischen Lu Rongting und Chen Jiongming statt, nachdem ersterer mit Sun Yat-sen gebrochen hatte, den letzterer zu diesem Zeitpunkt noch unterstützte. Der Krieg war kurz, was dazu führte, dass Chen Jiongmings Streitkräfte Guangdong für die KMT sicherten und Lu Rongting nicht in der Lage war, einen Gegenangriff durchzuführen.\n\nDie Liangguang-Dyarchie war nur von kurzer Dauer, da die Führer zweier Provinzen nicht mehr auf Augenhöhe waren. Der Sieger kann sehr wohl über die Zukunft Südchinas entscheiden, wenn nicht das ganze Land."
-GXC_move_quickly: "Kampf um Momentum"
-GXC_move_quickly_desc: "Wir erwarten einen schnellen Krieg mit der rivalisierenden Clique. Sollten wir uns den Vorteil nicht schnell sichern können, werden unsere Kräfte schnell demoralisiert, da nur wenige bereit sind, gegen Landsleute zu kämpfen."
 GXC_mobilize_merchant_corps: "Die Händlerkorps mobilisieren"
 GXC_mobilize_merchant_corps_desc: "Die öffentliche Handelssicherheitsorganisation in Guangzhou, auch bekannt als die Händlerkorps, hat ihre Milizen mobilisiert, um uns bei der Niederschlagung der Guangxi-Rebellen zu helfen. Da ihre Interessen in beiden Provinzen gefährdet sind, haben die Kaufleute von Guangzhou ihr Los auf unsere Seite geworfen und uns die Kontrolle über eine der besten Truppen Südchinas gegeben."
 GXC_mobilize_gentry_militia: "Ländliche Milizen mobilisieren"
@@ -176,6 +174,7 @@ yueshen_electric_light_company: "Yueshen Elektrisches Beleuchtungsunternehmen"
 guangdong_arsenal: "Guangdong Arsenal"
 liuzhou_machinery_factory: "Liuzhou Maschinenfabrik"
 pajiang_artillery_factory: "Paijang Artilleriefabrik"
+hip_tung_wo_machinery_factory: "Hip Tung Wo Maschinenfabrik"
 liuzhou_aviation_machinery_factory: "Liuzhou Luftfahrtmaschinenfabrik"
 whampoa_dock_company: "Whampoa Werftgesellschaft"
 
@@ -322,18 +321,6 @@ GXC_RKMT_appeased_merchants: "Besänftigte Händler"
 GXC_RKMT_purged_merchants: "Händler beseitigen"
 GXC_RKMT_weary_gentry: "Ermüdeter Adel"
 GXC_RKMT_rent_caps: "Obergrenzen für die Landmiete"
-
-GXC_victory_imminent: "Der unmittelbare Sieg"
-GXC_victory_imminent_desc: "Wir haben den Vorteil im Krieg gegen [GXW.GetNameDef] erfolgreich genutzt. Wir erwarten, dass der Feind den Kampf in Kürze aufgibt."
-
-GXC_lost_momentum: "Verlorenes Momentum"
-GXC_lost_momentum_desc: "Gegen [GXW.GetNameDef] konnten wir keinen schnellen Sieg erzielen. Die Moral ist niedrig, wenn sie an Schwung gewinnen, werden unsere Streitkräfte schnell zerfallen."
-
-PRC_victory_imminent: "Der unmittelbare Sieg"
-PRC_victory_imminent_desc: "Wir haben den Vorteil im Krieg gegen [GXC.GetNameDef] erfolgreich genutzt. Wir erwarten, dass der Feind den Kampf in Kürze aufgibt."
-
-PRC_lost_momentum: "Verlorenes Momentum"
-PRC_lost_momentum_desc: "Gegen [GXC.GetNameDef] konnten wir keinen schnellen Sieg erzielen. Die Moral ist niedrig, wenn sie an Schwung gewinnen, werden unsere Streitkräfte schnell zerfallen."
 
 GXC_better_logistics: "Verbesserte Logistik"
 
@@ -1126,7 +1113,7 @@ lngcivilwar.14.d: "Der Anführer des Handelskorps, Chen Lianbo, hat sich nach de
 lngcivilwar.14.a: "Wohlstand zuerst."
 
 lngcivilwar.15.t: "Chen Mingshu sichert Liangguang"
-lngcivilwar.15.d: "Chen Mingshu, Vorsitzender der PVP (Produktiven Volkspartei) und ehemaliges Mitglied der Kuomintang, hat die Guangxi-Rebellen besiegt und die Kontrolle über Liangguang gesichert. Als Generalgouverneur wird Chen wahrscheinlich die Provinzen auf die KMT in Fujian ausrichten und ist dafür bekannt, die dortige Fraktion von Soong Ching-ling zu unterstützen."
+lngcivilwar.15.d: "Chen Mingshu, Vorsitzender der PVP (Produktiven Volkspartei) und ehemaliges Mitglied der Kuomintang, hat die Guangxi-Rebellen besiegt und die Kontrolle über Liangguang gesichert. Als Generalgouverneur wird Chen wahrscheinlich die Provinzen auf die KMT in Fujian ausrichten und ist dafür bekannt, die dortige Fraktion von Song Qingling zu unterstützen."
 lngcivilwar.15.a: "Ein weiterer Sieg für die KMT!"
 
 lngcivilwar.16.t: "Chen Jiongming sichert Liangguang"
@@ -1152,7 +1139,7 @@ lngcivilwar.20.d: "Li Zongren, einem entfremdeten Mitglied der Chinesischen Nati
 lngcivilwar.20.a: "Die echte KMT ist zurück."
 
 lngcivilwar.21.t: "Treffen der KMT-Führungskräfte der Provinz"
-lngcivilwar.21.d: "Mit Chen Mingshu als Gouverneur von Guangdong und Li Zongren, der die alte Guangxi-Clique verdrängt hat, haben sich die beiden Gouverneure getroffen, um über die Zukunft von Liangguang zu diskutieren. Die beiden Männer sind im Wesentlichen Mitglieder der Kuomintang, gehören aber verschiedenen Fraktionen innerhalb der Partei an. Chen ist mit Soongs Minquan-Fraktion verbunden, während Li de facto Führer des rechten Flügels ist. Obwohl die beiden unterschiedliche Ansichten darüber haben, wie die Nationale Revolution fortgeführt werden soll, sind sie sich beide einig, dass sie eine vereinte Regierung bilden müssen, um die Position der Partei in Südchina zu sichern, und haben ihre Mitglieder in den beiden Provinzen gebeten, ihren neuen regionalen Führer zu wählen."
+lngcivilwar.21.d: "Mit Chen Mingshu als Gouverneur von Guangdong und Li Zongren, der die alte Guangxi-Clique verdrängt hat, haben sich die beiden Gouverneure getroffen, um über die Zukunft von Liangguang zu diskutieren. Die beiden Männer sind im Wesentlichen Mitglieder der Kuomintang, gehören aber verschiedenen Fraktionen innerhalb der Partei an. Chen ist mit Songs Minquan-Fraktion verbunden, während Li de facto Führer des rechten Flügels ist. Obwohl die beiden unterschiedliche Ansichten darüber haben, wie die Nationale Revolution fortgeführt werden soll, sind sie sich beide einig, dass sie eine vereinte Regierung bilden müssen, um die Position der Partei in Südchina zu sichern, und haben ihre Mitglieder in den beiden Provinzen gebeten, ihren neuen regionalen Führer zu wählen."
 lngcivilwar.21.a: "Chen Mingshu wird für Demokratie kämpfen."
 lngcivilwar.21.b: "Vereinigung um jeden Preis mit Li Zongren."
 
@@ -1546,7 +1533,7 @@ GXC_ye_jianying_commander_desc: "§YGeneral Beschreibung\n§YGebornen:§L\nApril
 GXC_ye_ju: "Ye Ju"
 
 GXC_chen_mingshu: "Chen Mingshu"
-GXC_chen_mingshu_leader_desc: "Chen Mingshu wurde 1889 in Guangdong geboren und nahm an der Xinhai-Revolution von 1911 teil. Bis 1921 war er Kommandeur der Ersten Division der Guangdong-Armee und kämpfte im Norden, als Chen Jiongming sich gegen Sun Yat-sen auflehnte. 1925 wurde Chen Kommandeur der Zehnten Division der Vierten Armee der Nationalen Revolutionsarmee, auch bekannt als Eiserne Armee. Seine Division nahm 1926 an der gescheiterten Nordexpedition teil, bei der die Vierte Armee durch die deutsche Eingreiftruppe dezimiert wurde. Nach einem kurzen Exil in Hongkong kehrte Chen nach Guangdong zurück, wo er die Reste der KMT in der Provinz unter der Schirmherrschaft von Gouverneur Chen Jiongming reorganisieren sollte. Mit diesen Überresten gründete er seine eigene Partei, die Produktive Volkspartei (angeblich kaum mehr als eine KMT-Tarnorganisation), und beteiligte sich an der aufkeimenden Provinzdemokratie, wobei er ein wackeliges Bündnis mit dem Gouverneur einging, obwohl dieser von der KMT weithin als Verräter angesehen wurde.\nChen Mingshu erwies sich als fähiger Politiker, der die Präsenz der KMT in der südlichen Provinz und die Verbindungen zu Soong Qinglings Fraktion der Partei aufrechterhielt. Er bleibt jedoch misstrauisch gegenüber dem Zentralkomitee von Wang Jingwei, kritisiert dessen Exil in Frankreich und dessen mangelndes Engagement für Minquan oder die Demokratie nach Suns Drei Prinzipien."
+GXC_chen_mingshu_leader_desc: "Chen Mingshu wurde 1889 in Guangdong geboren und nahm an der Xinhai-Revolution von 1911 teil. Bis 1921 war er Kommandeur der Ersten Division der Guangdong-Armee und kämpfte im Norden, als Chen Jiongming sich gegen Sun Yat-sen auflehnte. 1925 wurde Chen Kommandeur der Zehnten Division der Vierten Armee der Nationalen Revolutionsarmee, auch bekannt als Eiserne Armee. Seine Division nahm 1926 an der gescheiterten Nordexpedition teil, bei der die Vierte Armee durch die deutsche Eingreiftruppe dezimiert wurde. Nach einem kurzen Exil in Hongkong kehrte Chen nach Guangdong zurück, wo er die Reste der KMT in der Provinz unter der Schirmherrschaft von Gouverneur Chen Jiongming reorganisieren sollte. Mit diesen Überresten gründete er seine eigene Partei, die Produktive Volkspartei (angeblich kaum mehr als eine KMT-Tarnorganisation), und beteiligte sich an der aufkeimenden Provinzdemokratie, wobei er ein wackeliges Bündnis mit dem Gouverneur einging, obwohl dieser von der KMT weithin als Verräter angesehen wurde.\nChen Mingshu erwies sich als fähiger Politiker, der die Präsenz der KMT in der südlichen Provinz und die Verbindungen zu Song Qinglings Fraktion der Partei aufrechterhielt. Er bleibt jedoch misstrauisch gegenüber dem Zentralkomitee von Wang Jingwei, kritisiert dessen Exil in Frankreich und dessen mangelndes Engagement für Minquan oder die Demokratie nach Suns Drei Prinzipien."
 GXC_chen_mingshu_commander_desc: "§YGeneral Beschreibung\n§YGebornen:§L\n1889\nHepu, Guangdong, Qing Reich\n§YMilitärische Laufbahn:§L\nDer aus Baoding stammende Chen Mingshu war ein frühes Mitglied der Kuomintang. Während der Nordexpedition war er Kommandeur der Vierten Armee der Nationalen Revolutionären Armee, der Eisernen Armee. Diese Armee steckte jedoch in der Schlacht von Wuhan, dem Wendepunkt der Nordexpedition, im Sumpf fest. Beim Rückzug nach Guangdong erwies er sich als fähig, aber es war umsonst, da die NRA zwischen den nördlichen Warlord-Truppen und der deutschen Expedition feststeckte. In der Folgezeit organisierte er die Reste der NRA in Guangdong unter der Schirmherrschaft von Chen Jiongming, der eine vereinte republikanische Front aufrechterhalten wollte, die vor der Restauration durch die Qing geschützt war. Chen Mingshu bleibt Kommandeur der NRA im Untergrund, auch wenn er weiterhin mit der Aufrechterhaltung des politischen Arms der Partei beschäftigt ist, um sicherzustellen, dass diese bereit ist, falls Chen Jiongming scheitert und die Revolution von neuem beginnt."
 
 GXC_chen_jiongming: "Chen Jiongming"

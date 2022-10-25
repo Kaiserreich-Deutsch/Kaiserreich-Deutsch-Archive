@@ -460,6 +460,10 @@ HAI_national_populist_party_long: "Parti de l'Unité Nationale(Partei der Nation
 
  HAI_modify_army_idea: "Änderung von §H$HAI_citizens_army$§! oder §H$HAI_professional_army$§! durch\n$MODIFIER_XP_GAIN_ARMY_FACTOR$: [?0.1|+=%1]\n$MODIFIER_TRAINING_TIME_FACTOR$: [?-0.1|-=%1]"
 
+ HAI_lescot_chosen_ENT: "§YLescot§! wählt die Seite der §CEntente§!"
+ HAI_Calixte_chosen_GER: "§YCalixte§! wählt die Seite des §CReichspakt§!"
+ HAI_Calixte_chosen_INT: "§YCalixte§! wählt die Seite der §CInternationale§!"
+
 ### Opinion Modifiers ###
 HAI_border_dispute: "Grenzstreitigkeiten"
 HAI_foreign_council: "Unsere Bürger in ihrem Rat"
@@ -611,11 +615,11 @@ HAI_sanctions: "Haitianische Sanktionen"
  hai.30.a: "Verdammt..."
 
  hai.52.t: "Chaos in der Regierung"
- hai.52.d: "Nachdem die Regierung den Forderungen der Dominikaner nachgegeben hat, sind sowohl die Armee als auch die Nationalversammlung in Aufruhr, weil [HAI.GetLeader] sie nicht zur Rechenschaft gezogen hat. Um einen vollständigen Zusammenbruch zu verhindern, haben General Franck Lavaud und eine Clique von Armeeoffizieren die Kontrolle über die Regierung übernommen und [HAI.GetLeaderName] verhaftet. Während die Demokratie vorübergehend ausgesetzt ist, verspricht General Lavaud, dass im Jahr 1940 reguläre Wahlen stattfinden werden, um eine neue Regierung zu wählen."
+ hai.52.d: "Nachdem die Regierung den Forderungen der Dominikaner nachgegeben hat, sind sowohl die Armee als auch die Nationalversammlung in Aufruhr, weil [HAI.GetLeader] sie nicht zur Rechenschaft gezogen hat. Um einen vollständigen Zusammenbruch zu verhindern, haben General Franck Lavaud und eine Clique von Armeeoffizieren die Kontrolle über die Regierung übernommen und [HAI.GetLeader] verhaftet. Während die Demokratie vorübergehend ausgesetzt ist, verspricht General Lavaud, dass im Jahr 1940 reguläre Wahlen stattfinden werden, um eine neue Regierung zu wählen."
  hai.52.a: "Wir können es uns nicht leisten, schwach auszusehen."
 
  hai.53.t: "Radikalisierung nimmt zu"
- hai.53.d: "Die politische Reaktion auf unseren Rückzieher in der Monte Cristi-Affäre war nicht positiv. Sowohl die Nationalisten von Stenio Vincent als auch die Syndikalisten von Jacques Romain haben an Popularität gewonnen."
+ hai.53.d: "Die politische Reaktion auf unseren Rückzieher in der Monte Cristi-Affäre war nicht positiv. Sowohl die Nationalisten von Stenio Vincent als auch die Syndikalisten von Jacques Roumain haben an Popularität gewonnen."
  hai.53.a: "Das ist nicht gut..."
 
  hai_civ.1.t: "Wahlen zur Nationalversammlung"
@@ -809,7 +813,7 @@ HAI_sanctions: "Haitianische Sanktionen"
  hai_les.3.a: "Lescot wird die Amtsgeschäfte der Calixte-Präsidentschaft weiterführen."
  hai_les.3.b: "Lescot verspricht, weitere Kompetenzen an die Legislative zu übertragen."
 
- hai_les.4.t: "Sollten wir Jean Price-Mars in die Regierung holen?"
+ hai_les.4.t: "Sollten wir Jean Price-Mars in die Regierung einladen?"
  hai_les.4.d: "Nach der Rede von Präsident Lescot haben einige in unserer Regierung vorgeschlagen, Jean Price-Mars, den Vorsitzenden der Fortschrittspartei, in die Regierung einzuladen. Als Liberaler, der autoritären Parteien gegenüber misstrauisch ist, können wir ihn vielleicht davon überzeugen, dass wir es gut meinen, und seine starke Stimme für unsere Regierung gewinnen."
  hai_les.4.a: "Er wäre ein würdiger Partner"
  hai_les.4.b: "Niemals!"
@@ -854,8 +858,8 @@ HAI_sanctions: "Haitianische Sanktionen"
 ### Characters ###
  HAI_joseph_jolibois_fils: "Joseph Jolibois Fils"
 
- HAI_jacques_romain: "Jacques Romain"
- HAI_jacques_romain_leader_desc: "Jacques Roumain, produktiver Dichter, einst ein enger Verbündeter sowohl liberaler als auch noiristischer Schriftsteller, gründete zusammen mit einer engen Gruppe gleichgesinnter Ideologen die Haitianische Syndikalistische Partei und begann die Formalisierung der zersplitterten haitianischen Linken. Während er seine liberalen und noiristischen einstigen Verbündeten in diesem Prozess entfremdete, katapultierte ihn die von ihm gegründete Bewegung an die Spitze der Opposition gegen das autoritäre Regime von Louis Borno."
+ HAI_jacques_roumain: "Jacques Roumain"
+ HAI_jacques_roumain_leader_desc: "Jacques Roumain, produktiver Dichter, einst ein enger Verbündeter sowohl liberaler als auch noiristischer Schriftsteller, gründete zusammen mit einer engen Gruppe gleichgesinnter Ideologen die Haitianische Syndikalistische Partei und begann die Formalisierung der zersplitterten haitianischen Linken. Während er seine liberalen und noiristischen einstigen Verbündeten in diesem Prozess entfremdete, katapultierte ihn die von ihm gegründete Bewegung an die Spitze der Opposition gegen das autoritäre Regime von Louis Borno."
 
  HAI_max_hudincourt: "Max Hudincourt"
 
@@ -879,7 +883,7 @@ HAI_sanctions: "Haitianische Sanktionen"
  HAI_john_russell_leader_desc: "General John Russells lange Amtszeit als Beauftragter der amerikanischen Marine für Haiti erlitt nur einen kleinen Schluckauf mit dem Abzug der amerikanischen Marines aus dem Land, wobei er weiterhin ein wachsames Auge auf die Angelegenheiten der haitianischen Zivilregierung hat. Obwohl er mit dem haitianischen Volk sympathisiert und erstaunlich tolerante rassistische Ansichten vertritt, ist Russell nur den Vereinigten Staaten gegenüber loyal."
 
  HAI_franck_lavaud: "Franck Lavaud"
- HAI_franck_lavaud_leader_desc: "Der im Westen Haitis geborene Franck Lavaud schloss die Militärakademie als einer der Besten ab und stieg schnell in der haitianischen Armee auf. Unter der Präsidentschaft von Elie Lescot erreichte er den Posten des Stabschefs der Garde und wurde dann zum Oberbefehlshaber der haitianischen Armee ernannt. Der Kommandeur hat sich stets von der Politik ferngehalten und sich vor allem dem Wohl seines Landes verschrieben. Das hat ihn dazu bewogen, gegen Präsident Lescot vorzugehen, nachdem dieser bei den Verhandlungen mit der Dominikanischen Republik gescheitert war. Die Schwäche des Präsidenten hätte zur Schwäche Haitis geführt, was Lavaud nicht akzeptieren kann./ Lavaud hat bereits angekündigt, dass er nicht vorhat, lange zu regieren, da er kein Politiker ist. Sein Hauptziel ist es, Wahlen zu organisieren und die friedliche Kontinuität des haitianischen Staates zu gewährleisten. / In ähnlicher Weise und trotz seiner unpolitischen Position verachtete Lavaud den Fraktionszwang, der die haitianische Politik durchzieht und das Land regelmäßig in die internationale Demütigung führt. Der General, der von den Streitkräften und einem großen Teil der Bevölkerung unterstützt wird, beabsichtigt daher, das politische Leben ruhen zu lassen, bis die Stabilität und Stärke Haitis wiederhergestellt ist."
+ HAI_franck_lavaud_leader_desc: "Der im Westen Haitis geborene Franck Lavaud schloss die Militärakademie als einer der Besten ab und stieg schnell in der haitianischen Armee auf. Unter der Präsidentschaft von Elie Lescot erreichte er den Posten des Stabschefs der Garde und wurde dann zum Oberbefehlshaber der haitianischen Armee ernannt. Der Kommandeur hat sich stets von der Politik ferngehalten und sich vor allem dem Wohl seines Landes verschrieben. Das hat ihn dazu bewogen, gegen Präsident Lescot vorzugehen, nachdem dieser bei den Verhandlungen mit der Dominikanischen Republik gescheitert war. Die Schwäche des Präsidenten hätte zur Schwäche Haitis geführt, was Lavaud nicht akzeptieren kann.\n\nLavaud hat bereits angekündigt, dass er nicht vorhat, lange zu regieren, da er kein Politiker ist. Sein Hauptziel ist es, Wahlen zu organisieren und die friedliche Kontinuität des haitianischen Staates zu gewährleisten. \n\nIn ähnlicher Weise und trotz seiner unpolitischen Position verachtete Lavaud den Fraktionszwang, der die haitianische Politik durchzieht und das Land regelmäßig in die internationale Demütigung führt. Der General, der von den Streitkräften und einem großen Teil der Bevölkerung unterstützt wird, beabsichtigt daher, das politische Leben ruhen zu lassen, bis die Stabilität und Stärke Haitis wiederhergestellt ist."
 
  HAI_carl_brouard: "Carl Brouard"
  HAI_alfred_auguste_nemours: "Alfred Auguste Nemours"

@@ -36,7 +36,7 @@ has_completed_decision: "Hat Entscheidung £decision_icon_small §H abgeschlosse
 # flag_loc_entry: "$has_completed_decision$$your_decision_here$§!"
 
 ### On Map Area Names ###
-integration_tooltip: "Zeigt nicht-integrierte Gebiete an"
+integration_tooltip: "Nicht-integrierte Gebiete"
 
 ### Decision Names ###
 integrate_state: "Integriert [From.GetName]"
@@ -86,6 +86,8 @@ colour_natpop_green: "n"
 offmap_military_factories_tooltip: "Militärfabriken außerhalb der Karte hinzufügen"
 offmap_civilian_factories_tooltip: "Zivilfabriken außerhalb der Karte hinzufügen"
 offmap_dockyards_tooltip: "Schiffswerften außerhalb der Karte hinzufügen"
+daily_popularity_drift: "Tägliche Unterstützung für die regierenden Partei"
+daily_non_ruling_popularity_drift: "Tägliche Unterstützung für die Nicht-Regierungsparteien"
 
 ### Modifiers (for use as tooltips in variable effects) ###
 consumer_goods_tooltip: "$MODIFIER_CONSUMER_GOODS_FACTOR$: $RIGHT|H=%1$"

@@ -500,6 +500,28 @@
  irqfor.6.d: "Da sie keine Partnerschaften mit dem Irak eingehen will, hat sich die [FROM.GetAdjective]e Regierung dazu entschlossen, unser Angebot abzulehnen und stattdessen alleine in die Zukunft zu schreiten."
  irqfor.6.a: "Äußerst schade."
  
+ irqfor.7.t: "[FROM.GetName] Challenges Egyptian Dominance" #Countries choose to align with IRQ or EGY
+ irqfor.7.d: "Die Beziehungen zwischen dem Irak und Ägypten haben sich nun schon seit geraumer Zeit verschlechtert. Während Ägypten seine entscheidende Rolle im Kampf gegen die Osmanen genutzt hat, um sich als \"Führer\" der arabischen Nationen zu etablieren, sieht der Irak darin eine Unterordnung der Interessen anderer arabischer Nationen gegenüber denen Ägyptens. Diese Streitigkeiten zwischen den beiden Nationen begannen als einfacher diplomatischer Zwischenfall, haben sich nun jedoch zu einem institutionellen Bruch zwischen den beiden Nationen entwickelt, zunächst durch den Zusammenbruch der Beziehungen innerhalb des Kairo-Paktes, daraufhin durch die Gründung der irakischen Liga Arabischer Staaten, welche von vielen als Versuch angesehen wird, dem Einfluss Kairos zu entkommen.\n\nNun ist der Irak einen Schritt weiter gegangen. Vor einigen Stunden hat die irakische Regierung den Kairo-Pakt über ihren sofortigen Rückzug aus dem Bündnis informiert, wobei sie als Grund die \"inakzeptable und fest in der Organisation verankerte Bevorzugung der Ägypter\" angaben. Kurz darauf hat die irakische Regierung uns und anderen Mitgliedern des Kairo-Paktes darum ersucht, ihnen in ihrem Kampf gegen die ägyptische Dominanz beizuwohnen und eine neue Allianz mit ihnen zu gründen. Diese Allianz wird, so wurde uns versichert, die bisher vom Kairo-Pakt übernommenen Aufgaben in einer angemesseneren Struktur übernehmen.\n\nDie Meinungen innerhalb unserer Regierung sind gemischt. Stimmen für und gegen den irakischen Plan haben bereits über die Notwendigkeit bzw. Narrheit des Plans diskutiert, wobei die einen behaupten, dass Ägypten uns bisher nur ausgenutzt habe, während andere sagen, dass der Irak nur auf Macht aus ist und uns mit Lügen auf seine Seite bewegen will. Man kann wohl nicht verneinen dass dieses irakische Manöver die Einheit der Araber gefährdet - und das zu einem schlechten Zeitpunkt - doch wir müssen uns dennoch entscheiden, auf wessen Seite wir lieber stehen würden, sollte es zu einem Konflikt kommen."
+ irqfor.7.a: "Sie haben recht!"
+ irqfor.7.b: "Sind sie denn wahnsinnig geworden?!"
+
+ irqfor.8.t: "[FROM.GetName] stellt sich auf unsere Seite"
+ irqfor.8.d: "Gute Neuigkeiten aus [FROM.GetName]! Sie haben sich uns in unserem Kampf gegen den ägyptischen Imperialismus angeschlossen und uns ihre weitere Unterstützung für unsere Sache versichert. Zusammen werden wir ein neues Zeitalter für alle Araber einläuten!" #Country sides with Iraq - Iraqi PoV.
+ irqfor.8.a: "Exzellent."
+
+ irqfor.9.t: "[FROM.GetName] stellt sich auf die Seite des Iraks"
+ irqfor.9.d: "Schockierende Neuigkeiten aus [FROM.GetName]! Sie scheinen auf die Täuschungen und Anschuldigungen des Iraks hereingefallen zu sein und haben sich nun aus unserer Allianz zurückgezogen! Der [FROM.GetAdjective]en Regierung fehlt es offensichtlich an logischem Denkvermögen..." #Country sides with Iraq - Egyptian PoV.
+ irqfor.9.a: "Bedauerlich."
+
+ irqfor.10.t: "[FROM.GetName] stellt sich auf die Seite Ägyptens"
+ irqfor.10.d: "Schlechte Neuigkeiten aus [FROM.GetName]! Unser Angebot blieb unbeantwortet und einige unserer Quellen haben uns darüber informiert, dass die [FROM.GetAdjective] nicht plant, mit Ägypten zu brechen. Stattdessen scheinen sie damit zufrieden zu sein, unter Kairos Stiefel zu leben." #Country sides with Egypt - Iraqi PoV.
+ irqfor.10.a: "Bedauerlich."
+
+ irqfor.11.t: "[FROM.GetName] stellt sich auf unsere Seite"
+ irqfor.11.d: "Gute Neuigkeiten aus [FROM.GetName]! Obwohl sich der Irak ihrer Regierung angenähert hat, hat sie uns insgeheim versichert, dass sie nicht auf der irakischen Seite steht und weiterhin ein Teil des Kairo-Paktes bleiben möchte. Zum Glück haben sie die Täuschungen der irakischen Regierung durchschaut!" #Country sides with Egypt - Egyptian PoV.
+ irqfor.11.a: "Exzellent."
+
+ 
  ### Characters ###
  IRQ_yasin_al_hashimi: "Yasin al-Hashimi"
  IRQ_taha_al_hashimi: "Taha al-Hashimi"

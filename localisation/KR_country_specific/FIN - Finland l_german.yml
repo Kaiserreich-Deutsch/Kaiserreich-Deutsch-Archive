@@ -353,7 +353,7 @@
  finland.4.a: "Verdammte Emporkömmlinge …"
  
  finland.5.t: "Die [Root.GetAdjective]e Volksdelegation protestiert!"
- finland.5.d: "Kullervo Manner wurde von der Regierung in Suomenlinna nach seiner Rolle als Leiter der [Root.GetAdjective]en Volksdelegation während des [Root.GetAdjective]en Bürgerkriegs eingesperrt und war für viele innerhalb von [Root.GetNameDef] eine kontroverse Persönlichkeit. Eine erhebliche Minderheit innerhalb der SDP und die Sozialisten, die von der Regierung in den Untergrund gezwungen wurden, möchten, dass Manner befreit wird, während einige der gemäßigteren Liberalen in [Root.GetNameDef] seine Verurteilung aus Gründen der Unparteilichkeit des Obersten Verratsgerichts ablehnen. \n\nIn jedem Fall ist es für viele überraschend, dass die Sozialisten, die weitgehend ausgerottet und in den Untergrund gezwungen worden waren, endlich aus ihrem Versteck herausgekommen sind, um für die Freilassung Manners zu protestieren und eine Petition einzureichen, da er immer noch als de jure Vorsitzender der [Root.GetAdjective]en Volksdelegation gilt. Viele der wütenderen antisozialistischen Politiker haben begonnen, die Namen der Syndikalisten zu verfluchen, weil sie die derzeitige finanzielle Instabilität innerhalb von [Root.GetNameDef] wegen bloßen politischen Opportunismus sabotiert haben."
+ finland.5.d: "Viele finnische Sozialisten befinden sich nach dem Bürgerkrieg immer noch im Exil. Niilo Wälläri gehört zu denen, die eine Petition zur Rückkehr nach Finnland eingereicht haben. Er ist mit den IWW und anderen ausländischen syndikalistischen Parteien verbunden, hat aber nicht persönlich am finnischen Bürgerkrieg teilgenommen. Ungeachtet dessen wurde diesem Agitator die Rückkehr verweigert, ebenso wie seinen Kollegen Oskari Tokoi und Otto Wille Kuusinen. Eine beträchtliche Minderheit innerhalb der SDP und der Sozialisten, die von der Regierung in den Untergrund gedrängt wurden, wünscht ihre Rückkehr, während einige der gemäßigteren Liberalen in [Root.GetNameDef] seine Verurteilung durch das Oberste Gericht für Hochverrat als unparteiisch ablehnen.\n\nIn jedem Fall ist es für viele überraschend, dass die Sozialisten, die weitgehend ausgerottet und in den Untergrund gezwungen worden waren, endlich aus ihrem Versteck herausgekommen sind, um für die Freilassung Manners zu protestieren. Viele der wütenderen antisozialistischen Politiker haben begonnen, die Namen der Syndikalisten zu verfluchen, weil sie die derzeitige finanzielle Instabilität innerhalb von [Root.GetNameDef] wegen bloßen politischen Opportunismus sabotiert haben."
  finland.5.a: "Wir werden diese Verräter noch einmal vernichten!"
  
  finland.6.t: "Die Rote Garde und die Lapua-Bewegung treffen aufeinander!"
@@ -472,8 +472,8 @@
  finland.32.a: "Die Finnlandschweden sind eine Bedrohung für das [Root.GetAdjective]e Volk."
  finland.32.b: "Wir können nicht die Rechte eines großen Teils unserer Bevölkerung verletzen."
  
- finland.33.t: "Befreiung von Kullervo Manier"
- finland.33.d: "Nach dem Sieg der [Root.GetAdjective]en Volksdelegation und ihrer anschließenden Säuberung der Reaktionäre in [Root.GetName] wurde Kullervo Manner, der einst die Rolle des Regierungsoberhauptes innehatte, nach fast zwei Jahrzehnten Haft in Suomenlinna offiziell freigelassen.\n\nNach der Überfahrt von der Insel zur Hauptstadt Helsinki, hielt Manner, ohne Zeit zu vergeuden, eine leidenschaftliche Rede vor Tausenden von Zuschauern, die hocherfreut waren, ihren ehemaligen Anführer wieder befreit zu sehen. Was dies für die Zukunft von [Root.GetName] bedeuten wird, wissen nur die [Root.GetAdjective]e Volksdelegation und ihre Verbündeten, die Rote Garde…"
+ finland.33.t: "Freigelassene politische Gefangene"
+ finland.33.d: "Nach dem Sieg der [Root.GetAdjective]-Volksdelegation und ihrer anschließenden Säuberung von Reaktionären innerhalb von [Root.GetName] wurden viele finnische Sozialisten, die sich nach dem Bürgerkrieg noch im Exil befanden oder von der Regierung inhaftiert worden waren, freigelassen und begnadigt. Zu ihnen gehört auch der prominente Syndikalist Niilo Wälläri, der die letzten zwei Jahrzehnte im Exil verbracht hat. Was das für die Zukunft von [Root.GetName] bedeutet, wissen nur die [Root.GetAdjective] Volksdelegation und ihre Verbündeten, die Rote Garde..."
  finland.33.a: "Ein wahrhaft freudiger Anlass!"
  
  finland.36.t: "Die [Root.GetAdjective]e Verfassung"
@@ -482,11 +482,11 @@
  finland.36.a: "Es scheint, dass Finnland in eine neue Ära eintritt."
  
  finland.37.t: "Die [Root.GetAdjective]e Volksdelegation"
- finland.37.d: "Die [Root.GetAdjective]e Volksdelegation, die einen bestimmten Teil der Wählerschaft der Sozialdemokratischen Partei darstellt, kam während des [Root.GetAdjective]en Bürgerkriegs an die Macht und sieht sich selbst als den legitimen Nachfolger von [Root.GetName]. Die Delegation, welche von Kullervo Manner angeführt wird, hatte sich hohe Ziele gesteckt und möchte die Stärkung der Arbeiterbewegung, sowie eine neue Verfassung für [Root.GetName].\n\nViele der Mitglieder der Delegation wurden entweder gesäubert, eingesperrt oder in den Untergrund gezwungen von der anti-syndikalistischen Nationalen Koalitionspartei, welche vom ehemaligen König Fredrik Kaarle I angeführt wurde. Die [Root.GetAdjective]e Volksdelegation, die eine Allianz mit Wille Kuusinens Roten Garde schmiedete, schwor die Macht wieder an sich zu reißen und [Root.GetName] auf den rechten Weg zu bringen.\n\nJetzt, wo sie an der Macht ist, bereitet die Delegation sich darauf vor ihre Direktiven durchzusetzen, was auch das Auflösen der gefährlichen Roten Garde beinhaltet, und [Root.GetName] auf einen neuen Pfad zu lenken…"
+ finland.37.d: "Die [Root.GetAdjective]e Volksdelegation, die einen bestimmten Teil der Wählerschaft der Sozialdemokratischen Partei darstellt, kam während des [Root.GetAdjective]en Bürgerkriegs an die Macht und sieht sich selbst als den legitimen Nachfolger von [Root.GetName]. Die von dem Syndikalisten und Gewerkschaftsorganisator Niilo Wälläri geleitete Delegation verfolgte sehr ehrgeizige Ziele und wollte neben der Ausarbeitung einer neuen Verfassung für [Root.GetName] auch die Arbeiterbewegung stärken.\n\nViele der Mitglieder der Delegation wurden entweder gesäubert, eingesperrt oder in den Untergrund gezwungen von der anti-syndikalistischen Nationalen Koalitionspartei, welche vom ehemaligen König Fredrik Kaarle I angeführt wurde. Die [Root.GetAdjective]e Volksdelegation, die eine Allianz mit Wille Kuusinens Roten Garde schmiedete, schwor die Macht wieder an sich zu reißen und [Root.GetName] auf den rechten Weg zu bringen.\n\nJetzt, wo sie an der Macht ist, bereitet die Delegation sich darauf vor ihre Direktiven durchzusetzen, was auch das Auflösen der gefährlichen Roten Garde beinhaltet, und [Root.GetName] auf einen neuen Pfad zu lenken…"
  finland.37.a: "Wir müssen der Opposition standhalten."
  
  finland.38.t: "Die Rote Garde schwächen"
- finland.38.d: "Noch bevor wir versuchen können, die widerspenstige und zerstörerische Rote Garde aufzulösen, müssen wir versuchen, sie auf jede mögliche Weise zu schwächen. Dies beinhaltet die langsame Reduzierung der Waffenlieferungen, die Blockierung ihrer Agenda durch gesetzgeberische Mittel und die prominentesten Führer zur Strecke zu bringen. Am wichtigsten ist jedoch, dass wir ihre Mitglieder gezielt ansprechen und sie durch subtile Propaganda davon überzeugen, die Organisation zu verlassen.\n\nOtto Wille Kuusinen ist jedoch ein kluger Mann, der im Gegensatz zu Kullervo Manner Gefangennahme und Hinrichtung vermeiden konnte. Wir müssen vorsichtig vorgehen und hoffen, dass die Rote Garde unsere Versuche, sie zu schwächen, nicht bemerkt…"
+ finland.38.d: "Noch bevor wir versuchen können, die widerspenstige und zerstörerische Rote Garde aufzulösen, müssen wir versuchen, sie auf jede mögliche Weise zu schwächen. Dies beinhaltet die langsame Reduzierung der Waffenlieferungen, die Blockierung ihrer Agenda durch gesetzgeberische Mittel und die prominentesten Führer zur Strecke zu bringen. Am wichtigsten ist jedoch, dass wir ihre Mitglieder gezielt ansprechen und sie durch subtile Propaganda davon überzeugen, die Organisation zu verlassen.\n\nHowever Otto Wille Kuusinen is a smart man, having been able to avoid capture, unlike Niilo Wälläri. Wir müssen vorsichtig vorgehen und hoffen, dass die Rote Garde unsere Versuche, sie zu schwächen, nicht bemerkt…"
  finland.38.a: "Langsam aber sicher schwächen wir die Rote Garde."
  finland.38.b: "Die Rote Garde hat es bemerkt!"
  
@@ -629,8 +629,8 @@
  finland.82.a: "Wir werden auf das Beste hoffen."
  
  finland.83.t: "[FIN.GetName] hat Getreide angefordert"
- finland.83.d: "Die Finnen haben sich an uns gewandt, um Getreidesendungen zu beschaffen, da ihr alter Getreidelieferant [UKR.GetNameDef] für die junge Nation keine tragfähige Option mehr ist. Zwar besitzen wir eine Fülle von Getreide, aber die Frage, ob wir den Finnen überhaupt helfen wollen oder nicht, müssen wir uns immer noch stellen."
- finland.83.a: "Wir werden sie verkaufen – was könnte schief gehen?"
+ finland.83.d: "Die [FIN.GetAdjective]-Regierung hat sich an uns gewandt, um Getreidelieferungen zu beschaffen, da ihr alter Getreidelieferant, [UKR.GetNameDef], für die junge Nation nicht länger eine brauchbare Option ist. Es stimmt zwar, dass wir Getreide im Überfluss besitzen, aber die Frage, ob wir den Finnen überhaupt helfen wollen, müssen wir uns trotzdem stellen."
+ finland.83.a: "Wir werden das Getreide verkaufen - was kann da schon schiefgehen?"
  finland.83.b: "Die Kosten überwiegen die Vorteile – wir werden ablehnen."
  
  finland.84.t: "[RUS.GetNameDefCap] hat zugestimmt!"
@@ -983,6 +983,7 @@
  fin_join_internationale_desc: "Der finnische Arbeiter hat sich befreit, aber unsere Feinde sind zahlreich und Millionen, wenn nicht Milliarden von Arbeitern schwitzen immer noch unter reaktionärer kapitalistischer Unterdrückung. Wir sollten uns um ihrer willen dem internationalen Kampf anschließen!"
  
  FIN_integration_decisions: "Territoriale Integration"
+ FIN_join_faction_decisions: "Außenpolitik"
 
 ### Country Names ###
  FIN: "Finnland"
@@ -1054,11 +1055,11 @@
 
 ### Characters ###
  FIN_otto_wille_kuusinen: "Otto Wille Kuusinen"
- FIN_kullervo_manner: "Kullervo Manner"
+ FIN_niilo_wallari: "Niilo Wälläri"
  FIN_oskari_tokoi: "Oskari Tokoi"
  FIN_vaino_tanner: "Väinö Tanner"
  FIN_kyosti_kallio: "Kyösti Kallio"
- FIN_kaarlo_juho_stahlberg: "Kaarlo Juho Ståhlberg"
+ FIN_heikki_ritavuori: "Heikki Ritavuori"
  FIN_pehr_evind_svinhufvud: "Pehr Evind Svinhufvud"
  FIN_carl_gustaf_mannerheim: "Carl Gustaf Mannerheim"
  FIN_juho_kusti_paasikivi: "Juho Kusti Paasikivi"
@@ -1093,7 +1094,7 @@
  FIN_svante_sundman: "Svante Sundman"
  FIN_tuomas_hyrskymurto: "Tuomas Hyrskymurto"
  FIN_adolf_taimi: "Adolf Taimi"
- FIN_karl-august_fagerholm: "Karl-August Fagerholm"
+ FIN_karl_august_fagerholm: "Karl-August Fagerholm"
  FIN_aimo_cajander: "Aimo Cajander"
  FIN_juho_sunila: "Juho Sunila"
  FIN_edwin_flinck: "Edwin Flinck"

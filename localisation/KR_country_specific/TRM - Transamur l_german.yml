@@ -116,7 +116,7 @@ tram.96.a: "Verdammt!"
 tram.97.t: "[FROM.GetNameDefCap] bricht weg!"
 tram.97.d: "[FROM.GetNameDefCap] hat beschlossen, unseren Einflussbereich zu verlassen und jeden Kontakt mit uns abzubrechen! Unser ausgeklügelter militärisch-industrieller Würgegriff über sie und ihr fauliges Regime liegt in Trümmern, und es scheint, dass unsere sorgfältig angelegten Ebenen für die Ausweitung unseres Einflusses im russischen Fernen Osten in Scherben liegen."
 tram.97.a: "Vernichtet sie!"
-tram.97.b: "Im Moment können wir nichts tun.."
+tram.97.b: "Im Moment können wir nichts tun."
 
 tram.98.t: "Putschversuch in [FROM.GetNameDef]"
 tram.98.d: "Vor kurzem erreichten uns Nachrichten über einen Putsch gegen Koltschak in [FROM.GetNameDef]. Offenbar haben die Rebellen versucht, Alexander Koltschak, unseren De-facto-Marionettenführer des Wladiwostok-Regimes, zu töten, aber ihre Bemühungen scheinen vergeblich gewesen zu sein, da der Putsch von loyalen Wachen niedergeschlagen wurde. Dennoch hat sich Koltschak in [FROM.GetNameDef] eine Reihe von Feinden gemacht und seine Verwundbarkeit wird immer deutlicher. Vielleicht sollten wir Koltschak zum Rücktritt auffordern und einen neuen, gefügigeren Anführer für [FROM.GetNameDef] bestimmen."
@@ -176,7 +176,7 @@ tram.125.a: "Starke Verbündete sind immer gut."
 
 tram.126.t: "Abgesandter aus Transamur"
 tram.126.d: "Heute ist ein Abgesandter der kleinen Militärjunta von Transamur gekommen, um Seine Majestät, [CAN_king_full_name], zu besuchen. In seiner Rede informierte uns der Gesandte über die frühere Unterstützung König Georgs V. für Koltschaks 1925 gescheiterten Putsch in Petrograd und versicherte uns, dass der schurkische Admiral dieses Mal triumphieren wird - allerdings bittet er erneut um Unterstützung durch die Entente. Wir schulden Koltschak nichts, aber vielleicht ist er doch nicht so nutzlos? Wie sollen wir antworten?"
-tram.126.a: "Versichert ihm, dass er alles bekommen wird, was er braucht.."
+tram.126.a: "Versichert ihm, dass er alles bekommen wird, was er braucht."
 tram.126.b: "Begrenzte Unterstützung wird ausreichen."
 tram.126.c: "Er ist einfach ein alter Possenreißer."
 
@@ -543,7 +543,7 @@ TRM_Major_Education_Reform: "Große Bildungsreform"
 TRM_Major_Education_Reform_desc: "Ganz gleich, ob es sich um eine Diktatur oder eine Demokratie handelt, die Aspekte der Bildung sind in beiden Fällen eindeutig. Weder Männer noch Frauen haben jemals einen Krieg gewonnen, sondern die Wissenschaft. Wir müssen so viel wie möglich investieren, um unseren Wissenschaftlern alles zu geben, was sie wollen."
 
 TRM_Occupy_The_Russian_Far_East: "Besetzt den russischen Fernen Osten"
-TRM_Occupy_The_Russian_Far_East_desc: "Russland befindet sich jetzt im Kriegszustand. Während sie im Westen beschäftigt sind, können wir sie im Osten unter Druck setzen. Wir müssen sie sofort von unserem rechtmäßigen Land vertreiben.."
+TRM_Occupy_The_Russian_Far_East_desc: "Russland befindet sich jetzt im Kriegszustand. Während sie im Westen beschäftigt sind, können wir sie im Osten unter Druck setzen. Wir müssen sie sofort von unserem rechtmäßigen Land vertreiben."
 
 TRM_The_Long_Road_To_Moscow: "Der lange Weg nach Moskau"
 TRM_The_Long_Road_To_Moscow_desc: "Die Zeit ist gekommen! Tag für Tag träumen wir von dem Zeitpunkt, an dem wir unsere Feinde in Moskau angreifen werden. Wir sind nicht mehr nur [Root.GetNameDef]. Nein, unser Anspruch auf den Mantel der Russischen Republik wird nicht mehr nur eine Behauptung sein, sondern eine solide Tatsache! Wir werden Mütterchen Russland von den Verrätern befreien, die es zerstört haben."
@@ -698,9 +698,9 @@ TRM_FE_national_populist: "Russische Fernöstliche Republik"
 TRM_FE_national_populist_ADJ: "Fernöstliche"
 TRM_FE_national_populist_DEF: "die Russische Fernöstliche Republik"
 
-TRM_totalist: "Russland"
-TRM_totalist_ADJ: "Russisch"
-TRM_totalist_DEF: "Russland"
+TRM_RUS: "Russland"
+TRM_RUS_ADJ: "Russisch"
+TRM_RUS_DEF: "Russland"
  
 TRM_RUS_totalist: "Russische Republik"
 TRM_RUS_totalist_ADJ: "Russisch"
@@ -733,6 +733,10 @@ TRM_RUS_national_populist: "Russische Republik"
 TRM_RUS_national_populist_ADJ: "Russisch"
 TRM_RUS_national_populist_DEF: "die Russische Republik"
 
+TRM_free_russia: "Freies Russland"
+TRM_free_russia_ADJ: "Russisch"
+TRM_free_russia_DEF: "Freies Russland"
+
 ### Characters ###
 RUS_aleksandr_krasnoshchyokov: "Aleksandr Krasnoshchyokov"
 
@@ -750,7 +754,7 @@ RUS_grigory_semyonov: "Grigory Semyonov"
 RUS_grigory_semyonov_leader_desc: "Semyonov, ein Ataman der Baikalkosaken, und seine Jungs hatten es geschafft, einen transbaikalischen Staat zu gründen, der heute unter dem Namen Transamur bekannt ist, um die Bolschewiken zu bekämpfen, die im russischen Fernen Osten agitiert hatten. Sein neugeborenes Land wurde bald von Japan unterjocht. Nachdem Koltschaks Putsch 1925 gescheitert war und der abtrünnige Admiral Russland in Richtung Transamur verlassen hatte, war Semjönow gezwungen, zurückzutreten und seine Karriere als Militärkommandant fortzusetzen. Dem 'Staatsvater' ist es jedoch gelungen, politisch einflussreich zurückzukehren. Semyonovs einziges Ziel ist das Gedeihen Transamurs, und um dies zu erreichen, ist er nicht bereit, ungewisse Kriege zu führen."
 
 RUS_aleksandr_kolchak: "Aleksandr Kolchak"
-RUS_aleksandr_kolchak_leader_desc: "Der einstige Polarforscher und Kommandeur der kaiserlich-russischen Marine, der auch im Russisch-Japanischen Krieg und im Weltkrieg gekämpft hatte, hatte versucht, sich zum 'Obersten Herrscher Russlands' zu ernennen, konnte aber nicht genügend Unterstützung gewinnen. Seine Beziehungen zur Regierung der neu gegründeten Russischen Republik waren aufgrund des Vertrags von Brest-Litowsk, dem sie zugestimmt und unterzeichnet hatten, recht feindselig und hatten sich 1925 nach Koltschaks erfolglosem Staatsstreich gegen die 'deutschen Schoßhunde' noch verschlechtert. Dem abtrünnigen Admiral gelang es, aus Russland zu fliehen und im pro-japanischen Staat Transamur Unterschlupf zu finden. Als Marionettenstaat von Tokio versucht Koltschak nun, genügend Macht und Unterstützung zu sammeln, um die Regierung in Petrograd zu stürzen und sich selbst zum Führer Russlands zu erklären."
+RUS_aleksandr_kolchak_leader_desc: "Der ehemalige Polarforscher und Kommandeur der kaiserlich-russischen Marine, der sowohl im Russisch-Japanischen Krieg als auch im Weltkrieg kämpfte, versuchte, sich zum "Obersten Herrscher Russlands" zu ernennen, fand jedoch nicht genügend Unterstützung. Sein Verhältnis zur Regierung der neu gegründeten Russischen Republik war aufgrund der Annahme des Vertrags von Brest-Litowsk durch diese sehr angespannt und gipfelte in seinem gescheiterten Putschversuch gegen die "deutschen Schoßhunde" im Jahr 1925. Dem abtrünnigen Admiral gelang es, aus Russland zu fliehen und im pro-japanischen Staat Transamur Unterschlupf zu finden. Jetzt ist Koltschak eine Marionette Tokios und versucht, genügend Macht und Unterstützung zu sammeln, um die Regierung in Petrograd zu stürzen und sich selbst zum Führer Russlands zu ernennen."
 
 RUS_sergey_wojciechowski: "Sergey Wojciechowski"
 RUS_sergey_wojciechowski_leader_desc: "Der Anführer der tschechoslowakischen Legion und Held des russischen Bürgerkriegs, Wojciechowski hat sich geweigert, den Vertrag von Brest-Litowsk als rechtmäßig anzuerkennen. Empört brach er jeden Kontakt mit der Regierung der Russischen Republik ab und ging nach Transamur, wo er viele Anhänger fand. Sergej, der früher die rechte Hand von Admiral Koltschak war, verriet und tötete seinen 'Freund'. Weniger aggressiv und ehrgeizig als der abtrünnige Admiral und als abgehärteter Veteran ist Wojciechowski nun bereit, nach Westen vorzustoßen."
@@ -766,7 +770,6 @@ RUS_georgiy_stark: "Georgy Stark"
 RUS_pyotr_nikiforov: "Pyotr Nikiforov"
 RUS_nikolay_uhtomski: "Nikolay Uhtomski"
 RUS_aleksey_sirodenko: "Aleksey Sirodenko"
-RUS_boris_bakhmetev: "Boris Bakhmetev"
 RUS_magomed_gasanovich: "Magomed Gasanovich"
 RUS_roman_basilievsky: "Roman Basiliavsky"
 RUS_dimitry_lebedev: "Dimitry Lebedev"

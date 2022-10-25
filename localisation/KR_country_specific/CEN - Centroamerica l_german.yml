@@ -420,7 +420,7 @@ cendem.7.c: "Die Kriminellen sollten sich ihre Vergebung verdienen können!"
 cendem.8.t: "Debatte über die Macht der Exekutive: Die Macht des Präsidenten"
 cendem.8.d: "Eine der größten Bedenken, die insbesondere von der salvadorianischen PT-Delegation geäußert wurden, besteht darin, dass eine zu große Machtfülle des Präsidenten der Konföderation auf lange Sicht schaden könnte, so dass der Kongress eine Entscheidung des Präsidenten mit Zweidrittelmehrheit aufheben kann. Die Unionisten hingegen argumentieren, dass eine starke Exekutive notwendig sei, um die Konföderation aufrechtzuerhalten, da die ineffiziente Herrschaft der vorherigen Konföderation zu ihrer Auflösung geführt habe. Nach mehrtägigen Debatten sind die Mitglieder des Konvents erneut bereit, über die Angelegenheit abzustimmen."
 cendem.8.a: "Der Präsident wird ein absolutes Vetorecht haben."
-cendem.8.b: "Der Kongress kann ein Veto mit einer Zweidrittelmehrheit umstoßen.."
+cendem.8.b: "Der Kongress kann ein Veto mit einer Zweidrittelmehrheit umstoßen."
 
 cendem.9.t: "Zur Frage der verfassungsrechtlichen Vorrangstellung"
 cendem.9.d: "Da die nationale Verfassung allmählich Gestalt annimmt, müssen wir über die Rolle entscheiden, die dieses Dokument für unsere Gewerkschaft spielen wird. Während der Konvent eine Vorrangklausel in das Dokument einbauen könnte, die alle lokalen Gesetze unbrauchbar macht, wenn sie der Verfassung widersprechen, argumentieren die Vertreter der Partido del Trabajo, dass dies die Autonomie der Provinzen auf ein gefährliches Maß reduzieren und gleichzeitig die Bundesregierung stärken würde. Stattdessen schlagen sie vor, die Verfassung als Richtschnur für die lokale Gesetzgebung zu verwenden, die frei agieren soll, solange sie einige Kernpunkte der Bundesverfassung respektiert. Was soll der Konvent beschließen?"
@@ -576,7 +576,7 @@ cendem.49.a: "Akzeptiert ihre Entscheidung und versucht, freundschaftliche Bezie
 cendem.49.b: "Ruft die Delegation zurück. Wir werden das Problem mit Gewalt lösen!"
 
 cendem.50.t: "Zentralamerika akzeptiert unsere Anfrage"
-cendem.50.d: "Unsere neuen zentralamerikanischen Brüder haben die Bedingungen unseres Abkommens akzeptiert, und wir machen uns nun daran, unsere Integration in ihre Nation zu vollenden.."
+cendem.50.d: "Unsere neuen zentralamerikanischen Brüder haben die Bedingungen unseres Abkommens akzeptiert, und wir machen uns nun daran, unsere Integration in ihre Nation zu vollenden."
 cendem.50.a: "Wir werden uns ihnen nun anschließen!"
 
 cendem.51.t: "Panama schließt sich Zentralamerika an!"
@@ -629,7 +629,7 @@ cendem.110.a: "Wir werden uns dann auf die Industrie konzentrieren müssen..."
 
 cendem.111.t: "Industriebericht über unsere letzten Reformen"
 cendem.111.d: "Unsere Industrieinvestitionen haben zwar begonnen, Gewinne auszuweisen, aber die Berichte sind im Vergleich zu den Prognosen, die wir zu Beginn des Projekts aufgestellt haben, nicht sehr überzeugend. Es scheint, dass wir trotz der hohen Investitionen in die Industrie und die Infrastruktur keine vollständige Autarkie erreichen können, da dies zum einen unserer Landbevölkerung schadet und zum anderen die Industrie auf die Einfuhr ausländischer Rohstoffe angewiesen ist, um zu funktionieren. Die industriellen Investitionen haben jedoch der Bevölkerung unserer Städte einen erheblichen Wohlstand beschert, und obwohl sich die Autarkie immer mehr als unmöglich erweist, profitieren wir immer noch von unseren Investitionen."
-cendem.111.a: "Nun, wir müssen unser System von nun an ausbalancieren.."
+cendem.111.a: "Nun, wir müssen unser System von nun an ausbalancieren."
 
 cendem.112.t: "Gleiche Gesetze für ein gleiches Volk"
 cendem.112.d: "Während wir auf neue Gesetze in unserem Land drängen, stellen wir fest, dass immer mehr regionale Gesetze die Lebensgrundlage der schwarzen und einheimischen Bevölkerung in unserem Land untergraben. Während wir in ein neues Zeitalter für unseren Subkontinent eintreten, bemühen wir uns, die Überreste dieser despotischen Gesetzgebungen zu beseitigen und die Ideale des bürgerlichen Nationalismus zu verwirklichen, damit diese Minderheiten wirklich an der Entscheidungsfindung und den alltäglichen Angelegenheiten unseres Landes teilhaben können. Um dies zu erreichen, hat Präsident [Root.GetLeader] verfügt, dass alle alten Vorurteile aus alten Gesetzen abgeschafft und in den einzelnen Regionen neue föderale Gesetze erlassen werden. In Anbetracht des dezentralisierten Ansatzes der PNR kam dies für die PT überraschend, aber es ist ein Schritt, der sowohl von der PL als auch von der PUD unterstützt wird, so dass die Gesetzgebung ohne weitere Probleme verabschiedet werden kann."
@@ -676,19 +676,19 @@ cendem.203.a: "Akzeptiert ihren Vorschlag."
 cendem.203.b: "Sagt ihnen, dass wir nicht akzeptieren können, da wir äh..."
 
 cendem.204.t: "Costa Rica akzeptiert den Freundschaftsvertrag"
-cendem.204.d: "Die costaricanische Regierung hat unserem Vorschlag zugestimmt und ist bereit, in naher Zukunft weitere Gespräche über bessere Beziehungen zwischen unseren Ländern zu führen.."
+cendem.204.d: "Die costaricanische Regierung hat unserem Vorschlag zugestimmt und ist bereit, in naher Zukunft weitere Gespräche über bessere Beziehungen zwischen unseren Ländern zu führen."
 cendem.204.a: "Wir schätzen es, unsere Brüder wieder in der Nähe zu haben."
 
 cendem.205.t: "Mexiko akzeptiert den Freundschaftsvertrag"
-cendem.205.d: "Die mexikanische Regierung hat unserem Vorschlag zugestimmt und ist bereit, in naher Zukunft weitere Gespräche über bessere Beziehungen zwischen unseren Ländern zu führen.."
+cendem.205.d: "Die mexikanische Regierung hat unserem Vorschlag zugestimmt und ist bereit, in naher Zukunft weitere Gespräche über bessere Beziehungen zwischen unseren Ländern zu führen."
 cendem.205.a: "Magnífico!"
 
 cendem.206.t: "Yucatan akzeptiert den Freundschaftsvertrag"
-cendem.206.d: "Die Regierung von Yucateca hat unserem Vorschlag zugestimmt und ist bereit, weitere Gespräche über bessere Beziehungen zwischen unseren Ländern in naher Zukunft zu führen.."
+cendem.206.d: "Die Regierung von Yucateca hat unserem Vorschlag zugestimmt und ist bereit, weitere Gespräche über bessere Beziehungen zwischen unseren Ländern in naher Zukunft zu führen."
 cendem.206.a: "Magnífico!"
 
 cendem.207.t: "Panama akzeptiert den Freundschaftsvertrag"
-cendem.207.d: "Die panamaische Regierung hat unserem Vorschlag zugestimmt und ist bereit, in naher Zukunft weitere Gespräche über bessere Beziehungen zwischen unseren Ländern zu führen.."
+cendem.207.d: "Die panamaische Regierung hat unserem Vorschlag zugestimmt und ist bereit, in naher Zukunft weitere Gespräche über bessere Beziehungen zwischen unseren Ländern zu führen."
 cendem.207.a: "Magnífico!"
 
 cendem.208.t: "Costa Rica lehnt den Freundschaftsvertrag ab"
@@ -765,7 +765,7 @@ cendem.224.a: "Wie bedauerlich."
 
 cendem.225.t: "Proteste gegen die Sozialisten"
 cendem.225.d: "Nach der Auszählung aller Stimmen wurde die sozialistische PNR als Wahlsiegerin ermittelt. Dies löste sofort Proteste der Unionista-Partei aus, die behauptete, die Wahlen seien gefälscht und die Sozialisten würden die Republik in die Katastrophe führen. Auch wenn ihre Proteste uns öffentlich schmerzen, haben wir mit Hilfe der PT immer noch eine schwache Kontrolle über die Abgeordnetenkammer, aber wir müssen vorsichtig sein, um zu vermeiden, dass sich die Unionista und die Liberalen gegen uns verbünden, denn das würde dazu führen, dass unsere Gesetze sowohl im Senat als auch in der Abgeordnetenkammer blockiert werden."
-cendem.225.a: "Wir haben die Volksabstimmung fair und ehrlich gewonnen, und sie sollten dies respektieren.."
+cendem.225.a: "Wir haben die Volksabstimmung fair und ehrlich gewonnen, und sie sollten dies respektieren."
 
 cendem.226.t: "Zentralamerika bittet um den Beitritt zur Entente"
 cendem.226.d: "Eine zentralamerikanische Delegation ist heute in unserer Hauptstadt eingetroffen und hat formell um den Beitritt zur Entente gebeten. Die zentralamerikanische Nation verfügt zwar nur über eine recht kleine Streitmacht und sehr wenig Ressourcen, aber ein weiterer Verbündeter in Zentralamerika könnte sich für unsere Sache als vorteilhaft erweisen, da wir mit ihrer Hilfe den Panamakanal umgehen könnten. Was sollen wir ihnen sagen?"
@@ -778,7 +778,7 @@ cendem.227.a: "Wir stehen jetzt zusammen."
 
 cendem.228.t: "Die Kanadier lehnen ab"
 cendem.228.d: "Die Kanadier haben unser Ersuchen abgelehnt, und obwohl sie gute diplomatische Beziehungen unterhalten wollen, sind sie nicht an weiteren militärischen Beziehungen zu uns interessiert."
-cendem.228.a: "Wir werden ohne sie auskommen müssen.."
+cendem.228.a: "Wir werden ohne sie auskommen müssen."
 
 cendem.232.t: "Das demokratische Zentralamerika bittet um Beitritt zum Amerikanischen Völkerbund"
 cendem.232.d: "Eine zentralamerikanische Delegation ist heute in unserer Hauptstadt eingetroffen und hat offiziell um den Beitritt zum Bund der Amerikanischen Nationen gebeten. Die zentralamerikanische Nation verfügt zwar nur über eine recht kleine Streitmacht und sehr wenig Ressourcen, aber ein weiterer Verbündeter in Zentralamerika könnte sich für unsere Sache als vorteilhaft erweisen, da wir mit ihrer Hilfe den Panamakanal umgehen könnten. Was sollen wir ihnen sagen?"
@@ -790,8 +790,8 @@ cendem.233.d: "Die Kanadier haben unserem Ersuchen zugestimmt, und wir werden in
 cendem.233.a: "Wir freuen uns, mit einer anderen Demokratie auf Augenhöhe zu sein."
 
 cendem.234.t: "Die Vereinigten Staaten lehnen unseren Antrag ab"
-cendem.234.d: "Die Amerikaner haben unser Ersuchen abgelehnt, und obwohl sie gute diplomatische Beziehungen unterhalten wollen, sind sie nicht an weiteren militärischen Beziehungen zu uns interessiert.."
-cendem.234.a: "Wir werden ohne sie auskommen müssen.."
+cendem.234.d: "Die Amerikaner haben unser Ersuchen abgelehnt, und obwohl sie gute diplomatische Beziehungen unterhalten wollen, sind sie nicht an weiteren militärischen Beziehungen zu uns interessiert."
+cendem.234.a: "Wir werden ohne sie auskommen müssen."
 
 cendem.235.t: "Zentralamerika bittet uns um Unterstützung seiner Neutralität"
 cendem.235.d: "Die zentralamerikanische Nation hat kürzlich ihre Neutralität in Weltangelegenheiten erklärt und unsere Regierung gebeten, ihre Haltung anzuerkennen und sie im Falle eines Konflikts zu schützen. Obwohl Zentralamerika relativ sicher auf dem zentralamerikanischen Subkontinent liegt, sollten wir die Aggressivität seiner Nachbarn nicht unterschätzen und diese Bitte sorgfältig prüfen..."
@@ -799,7 +799,7 @@ cendem.235.a: "Akzeptiert ihre Bitte."
 cendem.235.b: "Wir können uns nicht in zentralamerikanische Angelegenheiten einmischen und lehnen ihren Vorschlag ab."
 
 cendem.236.t: "Kanada erklärt sich bereit, unsere Neutralität zu unterstützen"
-cendem.236.d: "Kanada hat beschlossen, seine Neutralität anzuerkennen, und sich bereit erklärt, einzugreifen, falls eine ausländische Macht beschließt, unserem friedlichen Land den Krieg zu erklären.."
+cendem.236.d: "Kanada hat beschlossen, seine Neutralität anzuerkennen, und sich bereit erklärt, einzugreifen, falls eine ausländische Macht beschließt, unserem friedlichen Land den Krieg zu erklären."
 cendem.236.a: "Wir sind dankbar."
 
 cendem.237.t: "Kanada weigert sich, unsere Neutralität zu unterstützen"
@@ -812,8 +812,8 @@ cendem.238.a: "Akzeptiert ihren Vorschlag."
 cendem.238.b: "Wir können uns nicht in zentralamerikanische Angelegenheiten einmischen und lehnen ihren Vorschlag ab."
 
 cendem.239.t: "Die Vereinigten Staaten akzeptieren die Unterstützung unserer Neutralität"
-cendem.239.d: "Die Vereinigten Staaten haben beschlossen, ihre Neutralität anzuerkennen, und haben sich bereit erklärt, einzugreifen, falls eine ausländische Macht beschließt, unserer friedlichen Nation den Krieg zu erklären.."
-cendem.239.a: "Wir werden ohne sie auskommen müssen.."
+cendem.239.d: "Die Vereinigten Staaten haben beschlossen, ihre Neutralität anzuerkennen, und haben sich bereit erklärt, einzugreifen, falls eine ausländische Macht beschließt, unserer friedlichen Nation den Krieg zu erklären."
+cendem.239.a: "Wir werden ohne sie auskommen müssen."
 
 cendem.240.t: "Die Vereinigten Staaten weigern sich, unsere Neutralität zu unterstützen"
 cendem.240.d: "Die Vereinigten Staaten haben beschlossen, unsere Neutralität in Weltangelegenheiten nicht zu unterstützen, und obwohl sie ihre Bereitschaft dazu bekundet haben, haben sie erklärt, dass sie derzeit nicht die Kraft haben, uns zu garantieren."
@@ -836,7 +836,7 @@ CEN_DEM_Council_CON_desc: "Mit der Gründung der neuen Zentralamerikanischen Kon
 CEN_DEM_Soc_Con: "Die Unionistische Partei siegt!"
 CEN_DEM_Soc_Con_desc: "Die Partido Unionista hat bei den Wahlen einen Sieg errungen! Mit ihren Versprechungen einer stärker zentralisierten Nation werden ihre Reformen die Autonomie der einzelnen Nationen zugunsten einer effizienteren Zentralregierung einschränken."
 CEN_DEM_cen_man: "Unsere gemeinsame Kultur kultivieren"
-CEN_DEM_cen_man_desc: "Unsere Nationen wurden vor langer Zeit durch künstliche Grenzen geteilt, was zur Entstehung scheinbar getrennter Kulturen auf dem Subkontinent führte. Doch jetzt, da wir vereint sind, müssen solche künstlichen Kreationen beseitigt werden, um die Einheit unserer Nation zu fördern. Wir sollten damit beginnen, das Beste aus jeder Subkultur zu übernehmen und eine neue Kultur zu schaffen, die wir in unseren Schulen lehren und in den Medien verbreiten können.."
+CEN_DEM_cen_man_desc: "Unsere Nationen wurden vor langer Zeit durch künstliche Grenzen geteilt, was zur Entstehung scheinbar getrennter Kulturen auf dem Subkontinent führte. Doch jetzt, da wir vereint sind, müssen solche künstlichen Kreationen beseitigt werden, um die Einheit unserer Nation zu fördern. Wir sollten damit beginnen, das Beste aus jeder Subkultur zu übernehmen und eine neue Kultur zu schaffen, die wir in unseren Schulen lehren und in den Medien verbreiten können."
 CEN_DEM_kill_ufc: "Zerstörung des Einflusses der UFC"
 CEN_DEM_kill_ufc_desc: "Die United Fruit Company, ein langjähriger Feind der Partido Unionista in Guatemala, ist uns nun ausgeliefert. Mit der Hilfe unserer zentralamerikanischen Brüder werden wir diesem heimtückischen Unternehmen den Todesstoß versetzen und unser Land ein für alle Mal von seinem Einfluss befreien!"
 CEN_DEM_sideline_military: "The Military as a Unifying Factor"
@@ -1784,8 +1784,8 @@ CENmil_buy_tanks_desc: "Schon an der Somme hat der Panzer bewiesen, dass er im K
 CENmil_buy_planes: "Ausländische Flugzeuge kaufen"
 CENmil_buy_planes_desc: "Das Flugzeug hat die Kriegsführung revolutioniert, denn wir können jetzt nicht nur vom Boden und vom Meer aus angreifen, sondern auch aus der Luft. Wir brauchen moderne Flugzeuge für unsere neu gegründete Luftwaffe."
 
-CENmil_take_over_shit_decisions: "Wiederherstellung der alten Union"
-CENmil_take_over_shit_decisions_desc: "Im vergangenen Jahrhundert hat es viele Versuche gegeben, Mittelamerika unter einer einzigen Flagge zu vereinen, aber sie sind alle nach wenigen Jahren gescheitert. Unsere neue Union wird nicht demselben Glauben folgen! Wir werden richtig machen, was unsere Vorfahren falsch gemacht haben, und unsere Union wird sich von der mexikanischen Grenze bis zur kolumbianischen erstrecken, so wie es sein sollte!"
+CENmil_restoring_the_old_union_decisions: "Wiederherstellung der alten Union"
+CENmil_restoring_the_old_union_decisions_desc: "Im vergangenen Jahrhundert hat es viele Versuche gegeben, Mittelamerika unter einer einzigen Flagge zu vereinen, aber sie sind alle nach wenigen Jahren gescheitert. Unsere neue Union wird nicht demselben Glauben folgen! Wir werden richtig machen, was unsere Vorfahren falsch gemacht haben, und unsere Union wird sich von der mexikanischen Grenze bis zur kolumbianischen erstrecken, so wie es sein sollte!"
 CENmil_core_british_honduras: "Integriert Belize"
 CENmil_core_british_honduras_desc: "Die ehemalige britische Kolonie Belize hat sich unseren Integrationsversuchen bisher widersetzt. Da die Föderation der Westindischen Inseln nun jedoch anerkennt, dass sie ihre Kolonie nicht zurückerobern kann, hat die Bevölkerung von Belize keine andere Wahl, als sich unserer Verwaltung zu unterwerfen."
 CEN_core_matagalpa: "Wiedereingliederung des östlichen Nicaraguas"
@@ -2011,7 +2011,7 @@ cenmil.204.a: "Akzeptiert den Deal."
 cenmil.204.b: "Verrückte und inakzeptable Forderungen!"
 
 cenmil.205.t: "Die Föderation hat unsere Bedingungen abgelehnt!"
-cenmil.205.d: "Die Westindische Föderation hat sich geweigert, ihren Anspruch auf Belize aufzugeben und hat unsere Bedingungen als verrückt und inakzeptabel bezeichnet.!"
+cenmil.205.d: "Die Westindische Föderation hat sich geweigert, ihren Anspruch auf Belize aufzugeben und hat unsere Bedingungen als verrückt und inakzeptabel bezeichnet!"
 cenmil.205.a: "Gebt nach und haltet den Status-Quo aufrecht."
 cenmil.205.b: "Verhängt ein Embargo gegen die Föderation!"
 
@@ -2020,7 +2020,7 @@ cenmil.206.d: "Aus Verärgerung über unsere unnachgiebige Haltung bezüglich de
 cenmil.206.a: "Wir werden ihre Bedingungen akzeptieren müssen."
 cenmil.206.b: "Was gibt es überhaupt mit Zentralamerika zu handeln?"
 
-cenmil.207.t: "Die Föderation hat alle Verbindungen zu uns abgebrochen.!"
+cenmil.207.t: "Die Föderation hat alle Verbindungen zu uns abgebrochen!"
 cenmil.207.d: "Die Westindische Föderation hat unsere Warnungen ignoriert und ignoriert nun auch unser Embargo! Es scheint, als würde der Streit um Belize nie enden..."
 cenmil.207.a: "Haltet das Embargo aufrecht."
 
@@ -2402,8 +2402,8 @@ CENmil_economic_warfare: "Wirtschaftliche Kriegsführung"
 CENmil_economic_warfare_desc: "Eine starke Armee ist nicht eine Armee mit einer großen Anzahl von Soldaten, eine Armee mit einer mächtigen industriellen Basis, die sie unterstützt, oder eine Armee, die Zugang zu den modernsten und ausgefeiltesten Ausrüstungen und Taktiken hat, sondern eine Armee, die alle diese drei Elemente mit der Unterstützung der Wirtschaft und der Produktionskapazitäten der gesamten Nation nutzen kann."
 CENmil_arms_deals: "Waffendeals"
 CENmil_arms_deals_desc: "Angesichts unserer begrenzten militärisch-industriellen Kapazitäten müssen wir den größten Teil unserer Ausrüstung erst einmal importieren. Durch gute Verhandlungen und den Handel mit unseren engen Verbündeten wird unsere Armee in den Genuss moderner Ausrüstung zu einem niedrigen Preis kommen."
-CENmil_equi_developping: "Ausrüstung Entwicklung"
-CENmil_equi_developping_desc: "Wir können uns nicht ewig auf Importe verlassen, denn das politische Umfeld in der Welt kann sich von einem Tag auf den anderen ändern und unsere Verbündeten zu unseren Feinden machen. Wir müssen bei der Entwicklung und Produktion von Ausrüstung unabhängiger werden."
+CENmil_equi_developing: "Ausrüstung Entwicklung"
+CENmil_equi_developing_desc: "Wir können uns nicht ewig auf Importe verlassen, denn das politische Umfeld in der Welt kann sich von einem Tag auf den anderen ändern und unsere Verbündeten zu unseren Feinden machen. Wir müssen bei der Entwicklung und Produktion von Ausrüstung unabhängiger werden."
 
 ## Warfare with Central American Characteristics
 CENmil_army_ca: "Zentralamerikanische Doktrin"

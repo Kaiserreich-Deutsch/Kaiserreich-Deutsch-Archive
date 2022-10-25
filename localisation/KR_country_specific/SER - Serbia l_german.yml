@@ -84,9 +84,6 @@ SER_paternal_autocrat_party_long: "Bela ruka (Weiße Hand)"
  non_aligned_movement: "Blockfreie Bewegung"
  balkan_soc_federation: "Sozialistische Föderation des Balkans"
 
-### Resistance Modifiers ###
- resistance_imro: "Erfolgreiche Revolte"
-
 ### Companies ###
  sartid: "SARTID"
  univerzitet_beogradu: "Univerzitet u Beogradu"
@@ -833,6 +830,8 @@ SER_if_ENT_agrees: "Wenn §H[ENT.GetFlag] [ENT.GetNameDef]§! zustimmt:"
 
  SER_has_republic_tt: "Serbia is a non-socialist Republic"
 
+ SER_bulgaria_integration_tooltip: "Nicht integrierte bulgarische Staaten"
+
 ### Focuses ###
 
  SER_Moralistic_Democracy: "Mit der Speerspitze in die Zukunft"
@@ -1050,6 +1049,7 @@ SER_if_ENT_agrees: "Wenn §H[ENT.GetFlag] [ENT.GetNameDef]§! zustimmt:"
  SER_new_generals: "Förderungsrausch"
  SER_new_generals_desc: "Die Säuberungen der Vergangenheit haben die Offiziersränge unserer Armee geleert. Es ist an der Zeit, dass wir den jungen Offizieren, die uns unterstützt haben, endlich die gebührende Anerkennung zuteil werden lassen und auch den zurückgekehrten Revolutionsveteranen Führungsaufgaben übertragen."
  Markovic_stats_tt: "§RAngriffsfertigkeit§!: §Y2§!\n§YVerteidigungsfähigkeit§!: §Y2§!\n§GPlanungsfähigkeit§!: §Y1§!\n§CLogistische Kompetenz§!: §Y2§!\n"
+ Jovanovic_stats_tt: "§Y$MNT_blazo_jovanovic$§! wird ein $cc_leader$.\n§RAngriff Fähigkeit§!: §Y1§!\n§YVerteidigung Fähigkeit§!: §Y1§!\n§GPlanungs Fähigkeit§!: §Y1§!\n§CLogistik Fähigkeit§!: §Y1§!"
 
  SER_political_commissars: "Politische Kommissare"
  SER_political_commissars_desc: "Um die Loyalität der neuen serbischen Armee sicherzustellen, müssen alle militärischen Einheiten mit politischen Kommissaren ausgestattet werden. Diese Offiziere sollen dafür sorgen, dass die Befehle und Handlungen der Militäreinheiten den ideologischen Zielen folgen, und uns ein Rückgrat in den Reihen der Armee geben, mit dem wir eine Rebellion verhindern können."
@@ -1877,28 +1877,28 @@ serbia.33.d: "Wir haben beunruhigende Nachrichten aus Belgrad erhalten. Es schei
 serbia.33.a: "Wir werden sie wie beim letzten Mal besiegen."
 
 serbia.34.t: "Krieg gegen Österreich"
-serbia.34.d.normal: "Die Armee ist bereit, die Flugzeuge sind aufgetankt und eine formelle Kriegserklärung im Namen unserer Verbündeten innerhalb der [Root.GetFactionName] wurde verfasst. Der Krieg gegen Wien steht kurz bevor, ist fast sicher, aber nicht alle sind mit an Bord. In letzter Minute traf sich [Root.GetLeader] mit einer Gruppe von Ministern der [Root.GetRulingParty] unter vier Augen. Die Kader der Beamten teilen alle ähnliche Sorgen über unsere Chancen. [AUS.GetNameDefCap] ist eine gewaltige Militärmacht, Tausende unserer Männer werden sterben, und ein Sieg ist keineswegs sicher. Revanchismus ist eine Sache, aber ist es das wert, das Schicksal der [Root.GetAdjective] Nation aufs Spiel zu setzen?\n\nNach einem längeren Treffen und einem Briefwechsel mit dem Außenminister [GetForeignMinister] verließen die Beamten das Treffen mit klaren Absichten."
+serbia.34.d.normal: "Die Armee ist bereit, die Flugzeuge sind aufgetankt und eine formelle Kriegserklärung im Namen unserer Verbündeten innerhalb der [Root.GetFactionName] wurde verfasst. Der Krieg gegen Wien steht kurz bevor, ist fast sicher, aber nicht alle sind mit an Bord. In letzter Minute traf sich [Root.GetLeader] mit einer Gruppe von Ministern der [Root.GetRulingParty] unter vier Augen. Die Kader der Beamten teilen alle ähnliche Sorgen über unsere Chancen. [AUS.GetNameDefCap] ist eine gewaltige Militärmacht, Tausende unserer Männer werden sterben, und ein Sieg ist keineswegs sicher. Revanchismus ist eine Sache, aber ist es das wert, das Schicksal der [Root.GetAdjective] Nation aufs Spiel zu setzen?\n\nNach einem längeren Treffen und einem Briefwechsel mit dem Außenminister verließen die Beamten das Treffen mit klaren Absichten."
 serbia.34.d.already_at_war: "Mitten in unserem Krieg gegen [AUS.GetNameDef] haben wir Informationen erhalten, dass unsere Verbündeten endlich nachziehen. Für sie steht der Krieg gegen Wien unmittelbar bevor, auch wenn nicht alle mit an Bord sind, aber wir führen den Konflikt nun schon eine Weile und können daher nur darauf warten, dass ihre Unterstützung endlich kommt."
 serbia.34.a: "In den Krieg, Österreich muss zerstört werden!"
 serbia.34.b: "Wir werden heute nicht in den Krieg ziehen."
 serbia.34.c: "Vorwärts, zum Sieg!"
 
 serbia.35.t: "Die Balkan-Forschungsinitiative"
-serbia.35.d: "Kürzlich hat [From.GetNameDef] die "Balkan Forschungsinitiative" ins Leben gerufen, einen internationalen Zusammenschluss wissenschaftlicher und investigativer Köpfe, um die Region zu stärken. Obwohl nicht erklärt, ist es klar, dass das primäre Ziel der Initiative ist es, unsere militärischen Kapazitäten in Vorbereitung auf den Krieg gegen diejenigen, die uns bedrohen zu stärken.\n\nDie [From.GetAdjective]-Diplomaten haben uns eine formelle Einladung in die Gruppe gewährt, die von uns verlangen würde, militärische und industrielle Geheimnisse im Austausch gegen serbische Pläne und Informationen preiszugeben. Es könnte ein lukratives Unterfangen sein, allerdings könnte es auch dazu führen, dass sich die [From.GetAdjectiveDef]s einfach an unserer harten Arbeit bereichern. Wie sollten wir auf die Einladung reagieren?"
+serbia.35.d: "Kürzlich hat [From.GetNameDef] die "Balkan Forschungsinitiative" ins Leben gerufen, einen internationalen Zusammenschluss wissenschaftlicher und investigativer Köpfe, um die Region zu stärken. Obwohl nicht erklärt, ist es klar, dass das primäre Ziel der Initiative ist es, unsere militärischen Kapazitäten in Vorbereitung auf den Krieg gegen diejenigen, die uns bedrohen zu stärken.\n\nDie [From.GetAdjective]-Diplomaten haben uns eine formelle Einladung in die Gruppe gewährt, die von uns verlangen würde, militärische und industrielle Geheimnisse im Austausch gegen serbische Pläne und Informationen preiszugeben. Es könnte ein lukratives Unterfangen sein, allerdings könnte es auch dazu führen, dass sich die [From.GetAdjectiveCap]s einfach an unserer harten Arbeit bereichern. Wie sollten wir auf die Einladung reagieren?"
 serbia.35.a: "Natürlich werden wir mitmachen!"
 serbia.35.b: "Wir vertrauen ihnen nicht."
 
 serbia.36.t: "[From.GetNameDefCap] Weigert sich, der Forschungsinitiative beizutreten"
-serbia.36.d: "Heute erhielten wir eine Rückmeldung von [From.GetNameDef], die unsere Einladung zur Balkan Forschungs Initiative abgelehnt haben. In ihrer höflichen, aber entschiedenen Erklärung führten die Diplomaten von [From.GetAdjectiveDef] an, dass sie unseren Absichten hinter der Organisation nicht trauen können und sich daher nicht wohl dabei fühlen, ihre Staatsgeheimnisse mit Belgrad zu teilen."
+serbia.36.d: "Heute erhielten wir eine Rückmeldung von [From.GetNameCap], die unsere Einladung zur Balkan Forschungs Initiative abgelehnt haben. In ihrer höflichen, aber entschiedenen Erklärung führten die Diplomaten von [From.GetAdjectiveDef] an, dass sie unseren Absichten hinter der Organisation nicht trauen können und sich daher nicht wohl dabei fühlen, ihre Staatsgeheimnisse mit Belgrad zu teilen."
 serbia.36.a: "Ihr Verlust."
 
 serbia.37.t: "Ende der Balkan-Forschungsinitiative"
-serbia.37.d.war: "Heute hat uns die Botschaft von [From.GetAdjectiveDef] ein eher erwartetes Telegramm zukommen lassen. Nach unserer Kriegserklärung an ein Mitglied der Balkan Forschungs Initiative hat [From.GetNameDef] die exekutive Entscheidung getroffen, uns mit sofortiger Wirkung aus der Initiative zu entfernen, während er auch die militärischen und industriellen Pläne einbehält, die wir in der Vergangenheit mit ihnen geteilt hatten. Im Wesentlichen haben wir unsere ziemlich privilegierte Position eingebüßt."
-serbia.37.d.joined_other_faction: "Heute hat uns die Botschaft von [From.GetAdjectiveDef] ein eher erwartetes Telegramm zukommen lassen. Nach unserem Austritt aus der [From.GetFactionName] hat [From.GetNameDef] die exekutive Entscheidung getroffen, uns mit sofortiger Wirkung aus der Initiative zu entfernen, während sie auch die militärischen und industriellen Pläne einbehalten, die wir in der Vergangenheit mit ihnen geteilt hatten. Im Wesentlichen haben wir unsere ziemlich privilegierte Position eingebüßt."
+serbia.37.d.war: "Heute hat uns die Botschaft von [From.GetAdjectiveCap] ein eher erwartetes Telegramm zukommen lassen. Nach unserer Kriegserklärung an ein Mitglied der Balkan Forschungs Initiative hat [From.GetNameDef] die exekutive Entscheidung getroffen, uns mit sofortiger Wirkung aus der Initiative zu entfernen, während er auch die militärischen und industriellen Pläne einbehält, die wir in der Vergangenheit mit ihnen geteilt hatten. Im Wesentlichen haben wir unsere ziemlich privilegierte Position eingebüßt."
+serbia.37.d.joined_other_faction: "Heute hat uns die Botschaft von [From.GetAdjectiveCap] ein eher erwartetes Telegramm zukommen lassen. Nach unserem Austritt aus der [From.GetFactionName] hat [From.GetNameDef] die exekutive Entscheidung getroffen, uns mit sofortiger Wirkung aus der Initiative zu entfernen, während sie auch die militärischen und industriellen Pläne einbehalten, die wir in der Vergangenheit mit ihnen geteilt hatten. Im Wesentlichen haben wir unsere ziemlich privilegierte Position eingebüßt."
 serbia.37.a: "Verdammt."
 
 serbia.38.t: "[From.GetNameDefCap] Möchte dem [Root.GetFactionName] beitreten"
-serbia.38.d: "Wir haben eine Nachricht von [FROM.GetNameDef] erhalten, in der sie darum gebeten haben, der [ROOT.GetFactionName] beizutreten. In ihrer Nachricht zitieren sie die langjährigen Verbindungen zwischen [FROM.GetAdjectiveDef] und unseren Regierungen, während sie auch ihr Militär und ihre Luftwaffe für alle zukünftigen Konflikte zusagen, in denen sich [ROOT.GetFactionName] befindet. Wie sollten wir darauf reagieren?"
+serbia.38.d: "Wir haben eine Nachricht von [FROM.GetNameDef] erhalten, in der sie darum gebeten haben, der [ROOT.GetFactionName] beizutreten. In ihrer Nachricht zitieren sie die langjährigen Verbindungen zwischen [FROM.GetAdjectiveCap] und unseren Regierungen, während sie auch ihr Militär und ihre Luftwaffe für alle zukünftigen Konflikte zusagen, in denen sich [ROOT.GetFactionName] befindet. Wie sollten wir darauf reagieren?"
 serbia.38.a: "Weitere Verbündete sind immer willkommen."
 serbia.38.b: "Sie machen mehr Ärger als sie wert wären."
 
@@ -1911,7 +1911,7 @@ serbia.39.d.ENT: "Es scheint, dass unsere Versuche, sich der [From.GetFactionNam
  serbia.39.b: "Hoffen wir, dass die andere Seite der Schützengräben einladender ist..."
 
 serbia.40.t: "[From.GetNameDefCap] löst den Belgrader Pakt auf"
-serbia.40.d.default: "Wir haben heute eine dringende Nachricht von [From.GetNameDef] erhalten. Nach den jüngsten diplomatischen Verhandlungen haben [From.GetAdjectiveDef]-Beamte beschlossen, den Belgrader Pakt aufzulösen, mit der Begründung, dass sich die Situation in Europa unermesslich verändert hat und ein kleines regionales Bündnis den Balkan nicht mehr vor äußeren Bedrohungen schützen kann. Sie haben uns angefleht, ihrem Beispiel zu folgen und Schutz bei größeren Mächten zu suchen, und haben sich für die Situation entschuldigt."
+serbia.40.d.default: "Wir haben heute eine dringende Nachricht von [From.GetNameDef] erhalten. Nach den jüngsten diplomatischen Verhandlungen haben [From.GetAdjectiveCap]-Beamte beschlossen, den Belgrader Pakt aufzulösen, mit der Begründung, dass sich die Situation in Europa unermesslich verändert hat und ein kleines regionales Bündnis den Balkan nicht mehr vor äußeren Bedrohungen schützen kann. Sie haben uns angefleht, ihrem Beispiel zu folgen und Schutz bei größeren Mächten zu suchen, und haben sich für die Situation entschuldigt."
  serbia.40.d.russia: "Eine wichtige Nachricht hat uns heute erreicht - [From.GetNameDef] hat den Belgrader Pakt offiziell aufgelöst und ein Bündnis mit [RUS.GetNameDef] angekündigt. Es scheint, dass der Belgrader Pakt zwar nützlich war, um regionale Bedrohungen auf dem Balkan einzudämmen, dass er aber letztlich nicht in der Lage sein würde, sich allein gegen die Großmächte in Westeuropa zu behaupten, weshalb [From.GetNameDef] beschlossen hat, sich der [RUS.GetFactionName] anzuschließen. Die Frage, die sich nun stellt, ist, ob wir ihnen folgen oder stattdessen unseren eigenen Weg gehen."
  serbia.40.a: "Kontaktieren Sie [future_serbian_ally.Capital.GetCapitalVictoryPointName] und bitten Sie um ein Bündnis."
  serbia.40.b: "Es ist Zeit, unseren eigenen Weg zu gehen."
@@ -2305,7 +2305,7 @@ serbia.57.a: "Das werden wir uns merken."
  serflavor.29.b: "Versuchen Sie, ihre Handlungen zu behindern"
 
  serflavor.30.t: "Konspiracija fordert die Absetzung eines Ministers"
- serflavor.30.d: "General Borivoje Mirković, eines der führenden Mitglieder der Konspiracija-Organisation im Militär, hat sich an unser Kabinett gewandt und beunruhigende Nachrichten überbracht. Die Armee hat Probleme mit der Anwesenheit eines der weniger bedeutenden Minister in unserem Kabinett - wie uns General Mirković mitteilte, agitiert dieser Minister aktiv gegen die Remilitarisierung Serbiens und die "vorteilhaften Beziehungen", die die serbische Armee seit 1926 mit der zivilen Regierung aufgebaut hat.\n\nIn der Tat hat uns der General auch einen sofortigen Ersatz vorgeschlagen - einen loyalen Oberst der serbischen Armee, der mehr als qualifiziert ist, um die Aufgaben des Ministeriums zu erfüllen, und der nicht so problematisch sein wird. Es obliegt [GetHeadOfGovernment] und dem Rest des Kabinetts, zu entscheiden, ob sie der Forderung nachkommen werden."
+ serflavor.30.d: "General Borivoje Mirković, eines der führenden Mitglieder der Konspiracija-Organisation im Militär, hat sich an unser Kabinett gewandt und beunruhigende Nachrichten überbracht. Die Armee hat Probleme mit der Anwesenheit eines der weniger bedeutenden Minister in unserem Kabinett - wie uns General Mirković mitteilte, agitiert dieser Minister aktiv gegen die Remilitarisierung Serbiens und die "vorteilhaften Beziehungen", die die serbische Armee seit 1926 mit der zivilen Regierung aufgebaut hat.\n\nIn der Tat hat uns der General auch einen sofortigen Ersatz vorgeschlagen - einen loyalen Oberst der serbischen Armee, der mehr als qualifiziert ist, um die Aufgaben des Ministeriums zu erfüllen, und der nicht so problematisch sein wird. Es obliegt [GetSecondInCommand] und dem Rest des Kabinetts, zu entscheiden, ob sie der Forderung nachkommen werden."
  serflavor.30.a: "Natürlich wird es getan werden"
  serflavor.30.b: "Dieser Minister ist ein guter Mann und wird bleiben"
 
