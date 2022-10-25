@@ -5,7 +5,6 @@ dependencies={
 tags={
 	"Translation"
 }
-picture="Kaiserreich-Deutsch-0.22.2.png"
 name="Kaiserreich-Deutsch-0.22.2"
 supported_version="1.12.*"
 path="./mod/Kaiserreich-Deutsch-0.22.2"

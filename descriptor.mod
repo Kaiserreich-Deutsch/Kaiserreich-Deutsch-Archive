@@ -5,6 +5,5 @@ tags={
 dependencies={
 	"Kaiserreich"
 }
-picture="Kaiserreich-Deutsch-0.22.2.png"
 name="Kaiserreich-Deutsch-0.22.2"
 supported_version="1.12.*"
