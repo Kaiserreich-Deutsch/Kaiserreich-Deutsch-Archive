@@ -660,7 +660,7 @@ annexation_BUL_CONQ_desc: "Nach einem langen Kampf mit den Bulgaren haben wir ei
 annex.1077.b: "Setzen Sie den Zaren wieder auf seinen Thron."
 
 annexation_CONSTANTINOPLE_CONQ: "Das Schicksal von Konstantinopel"
-annexation_CONSTANTINOPLE_CONQ_desc: "Nach unserem erfolgreichen Feldzug in Konstantinopel haben wir nun die Aufgabe, eine neue lokale Verwaltungsbehörde einzurichten, um den Frieden wiederherzustellen, wobei wir mehrere Optionen zur Auswahl haben."
+annexation_CONSTANTINOPLE_CONQ_DESC: "Nach unserem erfolgreichen Feldzug in Konstantinopel haben wir nun die Aufgabe, eine neue lokale Verwaltungsbehörde einzurichten, um den Frieden wiederherzustellen, wobei wir mehrere Optionen zur Auswahl haben."
 annex.1078.a: "Übertragen Sie es auf [TUR.GetNonIdeologyNameDef]"
 annex.1078.b: "Übertragen Sie es auf [GRE.GetNonIdeologyNameDef]"
 
@@ -862,8 +862,7 @@ annex.1106.d: "Geben Sie es [AUS.GetNonIdeologyNameDef]"
  annexation_ROUSSILLON_CONQ_desc: "Die Region [817.GetName] ist nun unter unserer Kontrolle, wir müssen entscheiden, was wir mit ihr machen wollen."
  annex.1112.a: "Geben Sie es [spain.GetNonIdeologyNameDef]"
  annex.1112.b: "Geben Sie es [france.GetNonIdeologyNameDef]"
- 
- annexation_CHELM_CONQ: "Das Schicksal von [1088.GetName]"
+Das Schicksal von [1088.GetName]"
  annexation_CHELM_CONQ_desc: "Die Region [1088.GetName] ist nun unter unserer Kontrolle, wir müssen entscheiden, was wir mit ihr machen wollen."
  annex.1113.a: "Geben Sie es [POL.GetNonIdeologyNameDef]"
  annex.1113.b: "Geben Sie es [UKR.GetNonIdeologyNameDef]"

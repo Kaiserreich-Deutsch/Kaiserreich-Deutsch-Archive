@@ -10,38 +10,22 @@
 
 ### Division Numbering Schemes ###
 UNIT_GENERIC_NAME_GER: "$NR$. $NAME$"
-UNIT_GENERIC_NAME_GRU: "$NR$. $NAME$"
-UNIT_GENERIC_NAME_RHI: "$NR$. $NAME$"
-UNIT_GENERIC_NAME_NGF: "$NR$. $NAME$"
-UNIT_GENERIC_NAME_BAY: "$NR$. $NAME$"
-UNIT_GENERIC_NAME_DDR: "$NR$. $NAME$"
 UNIT_GENERIC_NAME_AUS: "$NR$. $NAME$"
-UNIT_GENERIC_NAME_BAT: "$NR$. $NAME$"
 
 #FRENCH
 UNIT_GENERIC_NAME_FRA: "$NR$ème $NAME$"
 UNIT_GENERIC_NAME_NFA: "$NR$ème $NAME$"
-UNIT_GENERIC_NAME_FRP: "$NR$ème $NAME$"
 UNIT_GENERIC_NAME_BEL: "$NR$ème $NAME$"
 
 #ITALIAN
 UNIT_GENERIC_NAME_ITA: "$NR$a $NAME$"
 UNIT_GENERIC_NAME_SRI: "$NR$a $NAME$"
-UNIT_GENERIC_NAME_PAP: "$NR$a $NAME$"
-UNIT_GENERIC_NAME_SIC: "$NR$a $NAME$"
-UNIT_GENERIC_NAME_SRD: "$NR$a $NAME$"
-UNIT_GENERIC_NAME_LOM: "$NR$a $NAME$"
-UNIT_GENERIC_NAME_VNC: "$NR$a $NAME$"
-UNIT_GENERIC_NAME_EMI: "$NR$a $NAME$"
 
 #SPANISH
-UNIT_GENERIC_NAME_SPR: "$NR$a $NAME$"
-UNIT_GENERIC_NAME_DOM: "$NR$a $NAME$"
-UNIT_GENERIC_NAME_CUB: "$NR$a $NAME$"
-UNIT_GENERIC_NAME_PUE: "$NR$a $NAME$"
+UNIT_GENERIC_NAME_SPA: "$NR$a $NAME$"
+UNIT_GENERIC_NAME_SWF: "$NR$a $NAME$"
+UNIT_GENERIC_NAME_CAR: "$NR$a $NAME$"
 UNIT_GENERIC_NAME_MEX: "$NR$a $NAME$"
-UNIT_GENERIC_NAME_YUC: "$NR$a $NAME$"
-UNIT_GENERIC_NAME_CEN: "$NR$a $NAME$"
 UNIT_GENERIC_NAME_GUA: "$NR$a $NAME$"
 UNIT_GENERIC_NAME_HON: "$NR$a $NAME$"
 UNIT_GENERIC_NAME_NIC: "$NR$a $NAME$"
@@ -57,31 +41,16 @@ UNIT_GENERIC_NAME_ARG: "$NR$a $NAME$"
 #PORTUGUESE
 UNIT_GENERIC_NAME_POR: "$NR$o $NAME$"
 UNIT_GENERIC_NAME_BRA: "$NR$o $NAME$"
-UNIT_GENERIC_NAME_AMA: "$NR$o $NAME$"
-UNIT_GENERIC_NAME_GRP: "$NR$o $NAME$"
-UNIT_GENERIC_NAME_GOY: "$NR$o $NAME$"
-UNIT_GENERIC_NAME_BAH: "$NR$o $NAME$"
-UNIT_GENERIC_NAME_VCR: "$NR$o $NAME$"
-UNIT_GENERIC_NAME_SPO: "$NR$o $NAME$"
-UNIT_GENERIC_NAME_PIR: "$NR$o $NAME$"
 
 #JAPANESE
 UNIT_GENERIC_NAME_JAP: "Dai $NR$ $NAME$"
 
 #CHINESE
 UNIT_GENERIC_NAME_QIE: "$NAME$ Di $NR$ Shi"
-UNIT_GENERIC_NAME_FNG: "$NAME$ Di $NR$ Shi"
-UNIT_GENERIC_NAME_LEP: "$NAME$ Di $NR$ Shi"
-UNIT_GENERIC_NAME_ANQ: "$NAME$ Di $NR$ Shi"
-UNIT_GENERIC_NAME_CHI: "$NAME$ Di $NR$ Shi"
 UNIT_GENERIC_NAME_SQI: "$NAME$ Di $NR$ Shi"
-UNIT_GENERIC_NAME_SZC: "$NAME$ Di $NR$ Shi"
-UNIT_GENERIC_NAME_YUN: "$NAME$ Di $NR$ Shi"
-UNIT_GENERIC_NAME_SHX: "$NAME$ Di $NR$ Shi"
 UNIT_GENERIC_NAME_XSM: "$NAME$ Di $NR$ Shi"
-UNIT_GENERIC_NAME_SIK: "$NAME$ Di $NR$ Shi"
-UNIT_GENERIC_NAME_KUM: "$NAME$ Di $NR$ Shi"
-UNIT_GENERIC_NAME_MAN: "$NAME$ Di $NR$ Shi"
+UNIT_GENERIC_NAME_YUN: "$NAME$ Di $NR$ Shi"
+UNIT_GENERIC_NAME_FNG: "$NAME$ Di $NR$ Shi"
 
 #RUSSIAN
 UNIT_GENERIC_NAME_RUS: "$NR$ya $NAME$"
@@ -6183,14 +6152,14 @@ GRE_infantry_equipment_2_short: "EPK"
 #Rigopoulos gun:
 GRE_infantry_equipment_3: "Tyfékion, Rigópoulo, 1941"
 GRE_infantry_equipment_3_short: "Rigópoulo"
-
+ 
 #PTRD:
 GRE_infantry_at: "Antiarmatikó touféki, Dektiáref, 1941"
 GRE_infantry_at_short: "Denktiáref, 1941"
 #ROM anti-tank 2:
 GRE_infantry_at2: "Antiarmatikó touféki, Máouzer, 1943"
 GRE_infantry_at2_short: "Máouzer, 1943"
-
+ 
 #Chauchat & Stokes:
 GRE_support_weapons: "Polyvólo, Monomáchos, 1915 & 81mm koníama, Stóouks"
 GRE_support_weapons_short: "Monomáchos, 1915 & 81mm Stóouks"
@@ -7241,7 +7210,7 @@ HUN_light_tank_equipment_1_short: "35M k. hk."
 HUN_light_tank_equipment_1_desc: "$AUS_light_tank_equipment_1_desc$"
 HUN_light_tank_destroyer_equipment_1: "36M Škoda könnyű harckocsivadász"
 HUN_light_tank_destroyer_equipment_1_short: "36M k. hkv."
-
+ 
 HUN_light_tank_equipment_2: "38M ČKD könnyű harckocsi"
 HUN_light_tank_equipment_2_short: "38M k. hk."
 HUN_light_tank_equipment_2_desc: "$AUS_light_tank_equipment_2_desc$"
@@ -7269,7 +7238,7 @@ HUN_medium_tank_artillery_equipment_1: "40M Škoda-MÁVAG közepes önjáró lö
 HUN_medium_tank_artillery_equipment_1_short: "40M kz. öl."
 HUN_medium_tank_destroyer_equipment_1: "40M Weiss Manfréd közepes harckocsivadász"
 HUN_medium_tank_destroyer_equipment_1_short: "40M kz. hkv."
-HUN_medium_tank_aa_equipment_1: "40M Weiss Manfréd közepes önjáró légvédelmi gépágyú"
+HUN_medium_tank_aa_equipment_1: "40M Weiss Manfréd közepes harckocsivadás"
 HUN_medium_tank_aa_equipment_1_short: "40M kz. ölg."
 
 HUN_medium_tank_equipment_2: "40/42M Škoda-MÁVAG közepes harckocsi"
@@ -7279,7 +7248,7 @@ HUN_medium_tank_artillery_equipment_2: "43M Škoda-MÁVAG  közepes önjáró l�
 HUN_medium_tank_artillery_equipment_2_short: "43M kz. öl."
 HUN_medium_tank_destroyer_equipment_2: "43M Škoda-MÁVAG közepes harckocsivadász"
 HUN_medium_tank_destroyer_equipment_2_short: "43M kz. hkv."
-HUN_medium_tank_aa_equipment_2: "40/42M Škoda-MÁVAG közepes önjáró légvédelmi gépágyú"
+HUN_medium_tank_aa_equipment_2: "40/42M Škoda-MÁVAG önjáró légvédelmi gépágyú"
 HUN_medium_tank_aa_equipment_2_short: "40/42M kz. ölg."
 
 HUN_medium_tank_equipment_3: "44M Weiss Manfréd közepes harckocsi"
@@ -7289,7 +7258,7 @@ HUN_medium_tank_artillery_equipment_3: "44M Weiss Manfréd közepes önjáró l�
 HUN_medium_tank_artillery_equipment_3_short: "44M kz. öl."
 HUN_medium_tank_destroyer_equipment_3: "44M Weiss Manfréd közepes harckocsivadász"
 HUN_medium_tank_destroyer_equipment_3_short: "43M kz. hkv."
-HUN_medium_tank_aa_equipment_3: "44M Weiss Manfréd közepes önjáró légvédelmi gépágyú"
+HUN_medium_tank_aa_equipment_3: "44M Weiss Manfréd önjáró légvédelmi gépágyú"
 HUN_medium_tank_aa_equipment_3_short: "44M kz. ölg."
 
 HUN_heavy_tank_equipment_1: "36M Škoda gyalogsági páncélos"
@@ -11375,7 +11344,7 @@ ROM_infantry_equipment_2_desc: "Die Orita M1941 ist eine 9x19mm Parabellum-Masch
 ROM_infantry_equipment_3: "Pistol-mitralieră 'Oriţa', model 1942"
 ROM_infantry_equipment_3_short: "Oriţa Carabină"
 ROM_infantry_equipment_3_desc: "Der Orita-Karabiner verschießt dieselbe 9x19 mm Parabellum wie die Maschinenpistole, ist aber eine halbautomatische Karabinervariante. Während die Waffe die Feuerrate eines halbautomatischen Gewehrs beibehält, wurde sie modifiziert, um die Genauigkeit und Zuverlässigkeit zu erhalten, was sie zu einer tödlichen Waffe in den Händen von Schützen macht."
-
+ 
 #Converted to AT rifle Mauser
 ROM_infantry_at: "Puscă antitanc 'Mauser', model 1942"
 ROM_infantry_at_short: "Mauser Md. 1942"
@@ -11384,7 +11353,7 @@ ROM_infantry_at_desc: "Das Modell 1943 ist ein Mauser-Gewehr, das für die Verfe
 ROM_infantry_at2: "Puscă antitanc 'Mauser', model 1943"
 ROM_infantry_at2_short: "Mauser Md. 1943"
 ROM_infantry_at2_desc: "Diese überarbeitete Version des Modells 1943 zeichnet sich durch einen geringeren Rückstoß und eine höhere Präzision aus, wodurch sie im Einsatz noch zuverlässiger ist als ihr Vorgänger."
-
+ 
 #MP 28:
 ROM_infantry_weapons2: "Pistol-mitralieră 'MP', model 1928"
 ROM_infantry_weapons2_short: "MP Md. 1928"
@@ -11397,7 +11366,7 @@ ROM_improved_infantry_weapons_2_desc: "Die M.P. 40, manchmal fälschlicherweise 
 ROM_advanced_infantry_weapons2: "Pistol-mitralieră 'Oriţa', model 1944"
 ROM_advanced_infantry_weapons2_short: "Oriţa Md. 1944"
 ROM_advanced_infantry_weapons2_desc: "Diese Variante der Orita-Maschinenpistole ist mit einem gefalteten Metallschaft ausgestattet und wurde hauptsächlich für die rumänischen Spezialeinheiten hergestellt. Diese spätere Version hat eine höhere Feuerrate als ihre Vorgängerin und einen geringeren Rückstoß."
-
+ 
 #Maxim & Negrei:
 ROM_support_weapons: "Mitralieră 'Maxim' Md. 1909 & 250 mm Mortier Negrei Md. 1916"
 ROM_support_weapons_short: "Maxim Md. 1909 & 250 mm Negrei Md. 1916"
@@ -12176,14 +12145,14 @@ SER_infantry_equipment_2_short: "M. 1938P"
 #M49 Zastava:
 SER_infantry_equipment_3: "Automat Model 1942"
 SER_infantry_equipment_3_short: "Automat M. 1942"
-
+ 
 #PTRD:
 SER_infantry_at: "Protivtenkovska puška Model 1941 Degtjarev"
 SER_infantry_at_short: "M. 1941PPD"
 #RRB M49:
 SER_infantry_at2: "Ručni protivtenkovski raketni bacač Model 1943"
 SER_infantry_at2_short: "RPRB M. 1943"
-
+ 
 #M1924ČK:
 SER_infantry_weapons2: "Karabin jurišnih odreda Model 1924"
 SER_infantry_weapons2_short: "M. 1924JK"
@@ -12193,7 +12162,7 @@ SER_improved_infantry_weapons_2_short: "M. 1940PT"
 #M56 Zastava:
 SER_advanced_infantry_weapons2: "Automat jurišnih odreda Model 1943"
 SER_advanced_infantry_weapons2_short: "JA M. 1943"
-
+ 
 #Chauchat & Stokes:
 SER_support_weapons: "Puškomitraljez M. 1915 & 80 mm srednji minobacač M. 1915"
 SER_support_weapons_short: "M. 1915 Šoša & M. 1915 Stoksa"

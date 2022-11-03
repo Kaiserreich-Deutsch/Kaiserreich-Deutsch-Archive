@@ -35,11 +35,11 @@ guiTypes = {
 		
 			instantTextBoxType = {
 				name = "Title"
-				position = { x = 0 y = 70 } # Dt. Übersetzung, Default: x = 14
+				position = { x = 14 y = 70 }
 				font = "hoi4_typewriter22"
 				borderSize = {x = 0 y = 0}
 				text = "Title text here!"	
-				maxWidth = 581 # Dt. Übersetzung, Default: x = 551
+				maxWidth = 551
 				maxHeight = 32
 				format = centre
 			}
@@ -237,6 +237,7 @@ guiTypes = {
 					Orientation = "UPPER_LEFT"
 					alwaystransparent = yes
 				}
+
 			}
 
 			containerWindowType = {
@@ -264,6 +265,7 @@ guiTypes = {
 					maxHeight = 230
 					format = left
 				}
+
 			}
 
 			instantTextBoxType = {
@@ -501,11 +503,11 @@ guiTypes = {
 			
 			instantTextBoxType = {
 				name = "Title"
-				position = { x = 0 y = 260 } # Dt. Übersetzung, Default: x = -90
+				position = { x = 12 y = 260 } # Dt. Übersetzung, Default: x = -90
 				font = "hoi4_typewriter22"
 				borderSize = {x = 0 y = 0}
 				text = "Title text here!"	
-				maxWidth = 520 # Dt. Übersetzung, Default: width = 490
+				maxWidth = 700 # Dt. Übersetzung, Default: width = 490
 				maxHeight = 32
 				format = centre
 			}
