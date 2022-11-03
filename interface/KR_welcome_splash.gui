@@ -17,7 +17,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "splash_backfill"
-			position = { x = 0 y = 178 } ##Mehr Zeilen für Übersetzer
+			position = { x = 0 y = 178 } ##148
 			size = { width = 720 height = 350 } ## INCREASE HERE IF MORE LINES ARE NEEDED
 			orientation = CENTER
 			origo = center
@@ -32,7 +32,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "splash_border"
-			position = { x = 0 y = 182 } ##Mehr Zeilen für Übersetzer
+			position = { x = 0 y = 182 } ##152
 			size = { width = 712 height = 350 } ## INCREASE HERE IF MORE LINES ARE NEEDED
 			orientation = CENTER
 			origo = center
@@ -55,11 +55,11 @@ guiTypes = {
 
 			buttonType = {
 				name = "mod_options_button"
-				position = { x = -144 y = -46 } ##Pos geändert
+				position = { x = -144 y = -46 }
 				orientation = center_down
 
 				quadTextureSprite = "GFX_main_lobby_button"
-				buttonText = "Weiter" ##Übersetzt nach Deutsch
+				buttonText = "Weiter" ##Deutsch
 				buttonFont = "hoi_24header"
 				clicksound = click_default
 				oversound = ui_menu_over

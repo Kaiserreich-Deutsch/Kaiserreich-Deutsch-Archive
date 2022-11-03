@@ -5,7 +5,7 @@
 #######################
 
  faction_joining_alert_title: "Übertragung von [?faction_joining_alerts.GetNameDef]"
- faction_joining_alert_message: "§Y[THIS.GetName]§! ist§Y[THIS.GetFactionName]§! beigetreten"
+ faction_joining_alert_message: "§Y[THIS.GetName]§! ist §Y[THIS.GetFactionName]§! beigetreten"
 
 #Generic
 
