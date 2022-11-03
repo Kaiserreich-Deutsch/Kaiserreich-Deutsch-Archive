@@ -689,7 +689,7 @@ RULE_OPTION_BEL_PATH_MONARCHY_SOCDEM_DESC: "Das belgische Volk stimmt für die R
  RULE_OPTION_BEL_PATH_REPUBLIC_MARLIB: "£KR_game_rule_flag_BEL   Republik ausgerufen - Liberale Partei
 RULE_OPTION_BEL_PATH_REPUBLIC_MARLIB_DESC: "Das belgische Volk stimmt für eine Republik und wählt die §mLiberale Partei.§!\n\n§RBenötigt:§!\nJede §CBelgien Unabhängigkeit§! bei §Y$BEL_FLAWAL_PATH$§!"
  RULE_OPTION_BEL_PATH_LEIDER: "£KR_game_rule_flag_BEL   Anführer"
- RULE_OPTION_BEL_PATH_LEIDER_DESC: "§PVan Severen§! übernimmt die Macht, erklärt sich zum \"Anführer\" und setzt eine Militärregierung ein.\n\n§RBenötigt:§!\nAbdankung - Belgiens Unabhängigkeit§! in §Y$BEL_FLAWAL_PATH$§!"
+ RULE_OPTION_BEL_PATH_LEIDER_DESC: "§PVan Severen§! übernimmt die Macht, erklärt sich zum \"Anführer\" und setzt eine Militärregierung ein.\n\n§RBenötigt:§!\n§CAbdankung - Belgiens Unabhängigkeit§! in §Y$BEL_FLAWAL_PATH$§!"
  RULE_OPTION_BEL_PATH_REPUBLIC_SYNDIE: "£KR_game_rule_flag_BEL_syndicalist   Syndikalistische Machtübernahme"
  RULE_OPTION_BEL_PATH_REPUBLIC_SYNDIE_DESC: "Das belgische Volk stimmt für eine Republik und wählt die Arbeiterpartei. §RJacquemotte§! übernimmt die Kontrolle über die von der Arbeiterpartei geführte Regierung und reformiert das Land zu einem syndikalistischen Staat.\n\n§RBenötigt:§!\nAlle §CBelgische Unabhängigkeit§! in §Y$BEL_FLAWAL_PATH$§!\n§RNicht§! §CBeitritt zum Reichspakt§! oder §CBeitritt zur Entente§! in §Y$BEL_FORPOL$§!"
 

@@ -802,9 +802,8 @@ POLITICS_LEADER:0 "§TLandesführer: $LEADER|H$§!"
  TRIGGER_HAS_RAILWAY_CONNECTION: "Hat Bahnverbindung zwischen $START|H$ und $GOAL|H$\n"
  TRIGGER_IS_FRIEND: "Ist Verbündeter von @$TAG$$OTHER|H$\n"
  TRIGGER_IS_NOT_FRIEND: "Ist kein Verbündeter von @$TAG$$OTHER|H$\n"
-
-#Missing altogether
- TRIGGER_OVERLORD: "Oberherr"
+ TRIGGER_HAS_RESOURCES_RIGHT: "Hat Ressourcenrechte an $RESOURCES|H$\n"
+ TRIGGER_HAS_NOT_RESOURCES_RIGHT: "Hat keine Ressourcenrechte an $RESOURCES|H$\n"
 
 #Changed from vanilla
  TRIGGER_IS_SUBJECT:0 "Ist ein Untertan eines anderen Landes"

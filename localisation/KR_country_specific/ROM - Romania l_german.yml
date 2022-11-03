@@ -46,6 +46,9 @@ ROM_social_liberal_party_PNT_long: "Aripa de Centru a Partidul National Taranesc
 ROM_social_conservative_party_PNT: "PNT-D"
 ROM_social_conservative_party_PNT_long: "Aripa de Dreapta a Partidul National Taranesc (Rechte Flügel der Nationalen Bauernpartei)"
 
+ROM_nat_pop_green_democracy_long: "Totul pentru Ţară (Alles für das Land)"
+ROM_nat_pop_green_democracy: "TpŢ"
+
 ### Companies ###
 malaxa: "Malaxa"
  malaxa_mechanized: "Malaxa"
@@ -596,7 +599,7 @@ ROM_sentinels_of_the_fatherland: "Wächter des Vaterlandes"
 ROM_sentinels_of_the_fatherland_desc: "In dem Bewusstsein, dass die Jugend die Zukunft des Landes ist, hat der König beschlossen, eine Jugendorganisation zu gründen, um sie besser auf das Erwachsensein vorzubereiten und ihnen die Werte und Tugenden unserer großen Nation zu vermitteln. Diese Wächter sollen nach ihrem Credo leben: Glaube an Gott, Glaube an den König, Glaube an Arbeit und Opfer und Glaube an die Wächter als Bindeglied der Einheit der Nation und ihres Volkes."
 
 ROM_prepare_the_grand_union: "Alles für das Land"
-ROM_prepare_the_grand_union_desc: "Der rumänische Ausdruck Totul pentru Ţara, wörtlich \"Alles für das Land\", ist der offizielle Name der Eisernen Garde. Es ist die Pflicht eines jeden Rumänen, sich für sein Land zu opfern, und wir müssen die Menschen daran erinnern."
+ROM_prepare_the_grand_union_desc: "Der rumänische Ausdruck Totul pentru Ţară, wörtlich \"Alles für das Land\", ist der offizielle Name der Eisernen Garde. Es ist die Pflicht eines jeden Rumänen, sich für sein Land zu opfern, und wir müssen die Menschen daran erinnern."
 ROM_across_the_carpathians: "Über die Karpaten"
 ROM_across_the_carpathians_desc: "Unsere Kriegspläne von vor über zwanzig Jahren waren zwar in der Theorie gut, wurden aber in der Praxis durch zahlreiche Faktoren behindert. Wir werden sie weiter verfeinern, um im Angesicht des feindlichen Feuers noch widerstandsfähiger zu sein, damit wir, wenn die Zeit gekommen ist, erfolgreich den gewagten Sprung über die Berge wagen und unsere Verwandten befreien können."
 ROM_transylvania_or_war: "Siebenbürgen oder Krieg"
