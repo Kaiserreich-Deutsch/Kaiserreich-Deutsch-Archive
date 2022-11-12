@@ -26,9 +26,16 @@ ACW_reinforcment_tooltip: "Verstärkungen müssen eintreffen"
 ACW_convert_destroyers_tooltip: "Wir sollten die Schiffe zu Zerstörern umwandeln"
 ACW_convert_cruisers_tooltip: "Wir sollten die Schiffe zu Kreuzern umwandeln"
 ACW_entente_support: "Entente Berater"
+
 ACW_support_usa: "Die Föderale Regierung unterstützen"
+ACW_support_usa_tt: "(§Y[USA.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$"
+
 ACW_support_psa: "Die Pazifik-Regierung unterstützen"
+ACW_support_psa_tt: "(§Y[PSA.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$"
+
 ACW_support_aus: "Die Longisten-Regierung unterstützen"
+ACW_support_aus_tt: "(§Y[TEX.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$"
+
 ACW_miss_ceasefire: "Mississippi Waffenstillstand"
 ACW_plains_ceasefire: "Great Plains Waffenstillstand"
 ACW_rocky_ceasefire: "Rocky Mountain Waffenstillstand"

@@ -1,35 +1,39 @@
 ﻿l_german:
-# Inhalt aus dem englischen Mod löschen
+
 # Translated by ~mw~
 
 ### Starting Events ###
-#kr.political.1.t:0 "Kaiserreich"
-#kr.political.1.d:0 "Wir bedaueren es Ihnen mitteilen zu müssen, dass die deutschsprachige Version von Kaiserreich noch nicht vollständig ist. Bitte beenden Sie daher das Spiel und stellen Sie HoI4 auf Englisch, um die Modifikation spielen zu können."
+#kr.political.1.t: "Kaiserreich"
+#kr.political.1.d: "Leider ist die deutsche Version von Kaiserreich noch nicht komplett übersetzt. Um den Mod zu spielen, schließen Sie das Spiel und stellen Sie HoI4 auf Englisch."
 
 ### Name and Description ###
-#BM_HISTORY_TITLE:0 "Brief History"
-#KR_SCENARIO_NAME:0 "Legacy of the Weltkrieg"
-#KR_SCENARIO_DESC:0 "Wir bedaueren es Ihnen mitteilen zu müssen, dass die deutschsprachige Version von Kaiserreich noch nicht vollständig ist. Bitte beenden Sie daher das Spiel und stellen Sie HoI4 auf Englisch, um die Modifikation spielen zu können."
+#KR_history_title: "Brief History"
+#KR_scenario_name: "Legacy of the Weltkrieg"
+#KR_scenario_desc: "Leider ist die deutsche Version von Kaiserreich noch nicht komplett übersetzt. Um den Mod zu spielen, schließen Sie das Spiel und stellen Sie HoI4 auf Englisch."
 
 ### Major Nations ###
 
-### Germany ###
-#GER_KR_GATHERING_STORM_DESC:0 "Wir bedaueren es Ihnen mitteilen zu müssen, dass die deutschsprachige Version von Kaiserreich noch nicht vollständig ist. Bitte beenden Sie daher das Spiel und stellen Sie HoI4 auf Englisch, um die Modifikation spielen zu können."
-
-### Commune of France ###
-#FRA_KR_GATHERING_STORM_DESC:0 "Wir bedaueren es Ihnen mitteilen zu müssen, dass die deutschsprachige Version von Kaiserreich noch nicht vollständig ist. Bitte beenden Sie daher das Spiel und stellen Sie HoI4 auf Englisch, um die Modifikation spielen zu können."
-
-### Union of Britain ###
-#ENG_KR_GATHERING_STORM_DESC:0 "Wir bedaueren es Ihnen mitteilen zu müssen, dass die deutschsprachige Version von Kaiserreich noch nicht vollständig ist. Bitte beenden Sie daher das Spiel und stellen Sie HoI4 auf Englisch, um die Modifikation spielen zu können."
+### United States ###
+#USA_KR_gathering_storm_desc: "Leider ist die deutsche Version von Kaiserreich noch nicht komplett übersetzt. Um den Mod zu spielen, schließen Sie das Spiel und stellen Sie HoI4 auf Englisch."
 
 ### Canada ###
-#CAN_KR_GATHERING_STORM_DESC:0 "Wir bedaueren es Ihnen mitteilen zu müssen, dass die deutschsprachige Version von Kaiserreich noch nicht vollständig ist. Bitte beenden Sie daher das Spiel und stellen Sie HoI4 auf Englisch, um die Modifikation spielen zu können."
+#CAN_KR_gathering_storm_desc: "Leider ist die deutsche Version von Kaiserreich noch nicht komplett übersetzt. Um den Mod zu spielen, schließen Sie das Spiel und stellen Sie HoI4 auf Englisch."
+
+### Union of Britain ###
+#ENG_KR_gathering_storm_desc: "Leider ist die deutsche Version von Kaiserreich noch nicht komplett übersetzt. Um den Mod zu spielen, schließen Sie das Spiel und stellen Sie HoI4 auf Englisch."
+
+### Commune of France ###
+#FRA_KR_gathering_storm_desc: "Leider ist die deutsche Version von Kaiserreich noch nicht komplett übersetzt. Um den Mod zu spielen, schließen Sie das Spiel und stellen Sie HoI4 auf Englisch."
+
+### Germany ###
+#GER_KR_gathering_storm_desc: "Leider ist die deutsche Version von Kaiserreich noch nicht komplett übersetzt. Um den Mod zu spielen, schließen Sie das Spiel und stellen Sie HoI4 auf Englisch."
+
+### Austria ###
+#AUS_KR_gathering_storm_desc: "Leider ist die deutsche Version von Kaiserreich noch nicht komplett übersetzt. Um den Mod zu spielen, schließen Sie das Spiel und stellen Sie HoI4 auf Englisch."
 
 ### Russia ###
-#RUS_KR_GATHERING_STORM_DESC:0 "Wir bedaueren es Ihnen mitteilen zu müssen, dass die deutschsprachige Version von Kaiserreich noch nicht vollständig ist. Bitte beenden Sie daher das Spiel und stellen Sie HoI4 auf Englisch, um die Modifikation spielen zu können."
-
-### United States ###
-#USA_KR_GATHERING_STORM_DESC:0 "Wir bedaueren es Ihnen mitteilen zu müssen, dass die deutschsprachige Version von Kaiserreich noch nicht vollständig ist. Bitte beenden Sie daher das Spiel und stellen Sie HoI4 auf Englisch, um die Modifikation spielen zu können."
+#RUS_KR_gathering_storm_desc: "Leider ist die deutsche Version von Kaiserreich noch nicht komplett übersetzt. Um den Mod zu spielen, schließen Sie das Spiel und stellen Sie HoI4 auf Englisch."
 
 ### Japan ###
-#JAP_KR_GATHERING_STORM_DESC:0 "Wir bedaueren es Ihnen mitteilen zu müssen, dass die deutschsprachige Version von Kaiserreich noch nicht vollständig ist. Bitte beenden Sie daher das Spiel und stellen Sie HoI4 auf Englisch, um die Modifikation spielen zu können."
+#JAP_KR_gathering_storm_desc: "Leider ist die deutsche Version von Kaiserreich noch nicht komplett übersetzt. Um den Mod zu spielen, schließen Sie das Spiel und stellen Sie HoI4 auf Englisch."
+

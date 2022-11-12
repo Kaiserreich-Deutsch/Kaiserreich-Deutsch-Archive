@@ -17,10 +17,13 @@ HAI_social_conservative_party: "PL"
 HAI_social_conservative_party_long: "Liberale Partei(PL)"
 HAI_authoritarian_democrat_party: "PS"
 HAI_authoritarian_democrat_party_long: "Erlösungspartei"
-HAI_paternal_autocrat_party: "US Einfluss"
-HAI_paternal_autocrat_party_long: "Vereinigte Staaten Einfluss"
+HAI_paternal_autocrat_party: "Militärjunta"
+HAI_paternal_autocrat_party_long: "Militärjunta"
 HAI_national_populist_party: "PUN"
 HAI_national_populist_party_long: "Parti de l'Unité Nationale(Partei der Nationalen Einheit)"
+ 
+ HAI_nationalist_party: "PN"
+ HAI_nationalist_party_long: "Nationalistische Partei"
 
 ##Ideas
  HAI_precarious_governance: "Prekäre Regierungsführung"

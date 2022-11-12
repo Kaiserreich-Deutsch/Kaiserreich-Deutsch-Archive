@@ -51,6 +51,9 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
  BUL_YUG_hpss_party_long: "Khŭrvatska republikanska selska partiya (Kroatische Republikanische Bauernpartei)"
  BUL_YUG_zveno_party: "Obedinena Yugoslaviya"
  BUL_YUG_zveno_party_long: "Politicheski Krŭg "Obedinena Yugoslaviya" (Politischer Kreis "Vereinigtes Jugoslawien")"
+ 
+ BUL_albanian_military_administration: "Militärverwaltung"
+ BUL_albanian_military_administration_long: "Bŭlgarska Voenna Administratsiya (Bulgarische Militärverwaltung)"
 
 ### Factions ###
 
@@ -164,8 +167,6 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
  BUL_defender_of_balkans: "Der Wächter des Balkans"
  BUL_defender_of_balkans_oth: "Unter bulgarischen Obhut"
  BUL_balkans_peace: "Das gezähmte Pulverfass"
-
- BUL_OTT_Aliiance: "Osmanisch-bulgarische militärische Zusammenarbeit"
 
  BUL_old_guard_training: "Schulung der alten Garde"
  BUL_secret_rearmament_idea: "Geheimes Aufrüstungsprogramm"

@@ -56,8 +56,6 @@ GER_poli_temp_desc:0 "Zu lange haben die Menschen darum gekämpft, wo die Macht 
  GER_black_monday_threat: "Schwarzer Montag"
 
 ### Ideas ###
- GER_ready_to_surrender: "Eingabe"
-
 GER_black_monday:0 "Schwarzer Montag Effekt"
 GER_black_monday_desc:0 "Der Berliner Aktienmarkt ist zusammengebrochen und mit ihm die ohnehin stagnierende deutsche Wirtschaft. Wenn Deutschland seine hegemoniale Position behalten will, muss die Krise des "Schwarzen Montags" angegangen werden."
 
@@ -66,6 +64,15 @@ GER_black_monday1_desc:0 "Karl Helfferich, Präsident der Deutschen Bundesbank, 
 
 GER_black_monday2:0 "Schachtplan"
 GER_black_monday2_desc:0 "Hjalmar Schachts Politik der größeren fiskalischen Stabilität und der verstärkten Bankenkontrolle hat dazu beigetragen, den deutschen Finanzsektor wieder etwas zu stabilisieren."
+
+ GER_colonial_subsidies: "Koloniale Zuschüsse"
+ GER_colonial_subsidies_desc: "Wir haben uns entschlossen, die Kassen des Kaiserreichs zum Wohle unserer Kolonien zu belasten, um ihre weitere Loyalität zu sichern und gleichzeitig den Schaden des Schwarzen Montags auf ein Minimum zu reduzieren, selbst wenn dadurch dringend benötigte Ressourcen vom Vaterland abgezogen werden."
+
+ GER_partial_colonial_subsidies: "Teilweise Kolonialsubventionen"
+ GER_partial_colonial_subsidies_desc: "Aufgrund der katastrophalen Lage, in der sich unsere Kolonien befinden, haben wir beschlossen, taktisch einen Teil unseres wirtschaftlichen Spielraums zu nutzen, um den am stärksten betroffenen Gebieten in unserem Weltreich zu helfen, die Moral zu stärken und unsere Regierungskette sicher und funktionsfähig zu halten."
+
+ GER_agricultural_aid_to_eastern_europe: "Agrarbeihilfen für Osteuropa"
+ GER_agricultural_aid_to_eastern_europe_desc: "Da wir uns entschlossen haben, keine Mauer zwischen dem Kaiserreich und den osteuropäischen Kornkammern zu errichten, haben unsere einheimischen landwirtschaftlichen Unternehmer begonnen, ihre Enttäuschung über unsere Entscheidung zu zeigen, während ihre Grundstücke schnell in die roten Zahlen geraten."
 
 GER_address_reichstag:0 "Ansprache im Reichstag"
 GER_address_reichstag_desc:0 "Obwohl wir die ersten Schritte zur Lösung der Krise am Schwarzen Montag eingeleitet haben, ist die Lage immer noch schlimm. Trotz seiner Senilität und seiner angeschlagenen Gesundheit hat Kaiser Wilhelm II. in einer Ansprache vor dem Reichstag zum Ausdruck gebracht, dass ihre erste Priorität darin bestehen muss, die Wirtschaft so schnell wie möglich in Ordnung zu bringen. Welche Vorschläge angenommen werden, bleibt jedoch abzuwarten..."
@@ -257,7 +264,6 @@ GER_ruswar_tt:0 "Elf neue Reservedivisionen werden aufgestellt."
 GER_cannot_join_ally_war:0 "Kann diesem Krieg nicht beitreten"
 GER_colonial_resources_distribution_full_tt:0 "§RAcht§! unserer zivilen Fabriken werden §R365§! Tage lang für die Bedürfnisse unserer Kolonien arbeiten.\n"
 GER_colonial_resources_distribution_partly_tt:0 "§RFünf§! unserer zivilen Fabriken werden §R260§! Tage lang für die Bedürfnisse unserer Kolonien arbeiten.\n"
-GER_agricultural_mitteleuropa_help_tt:0 "§RUnser Land zerfällt.§!\n"
 GER_csavol_tt:0 "Zwei freiwillige Abteilungen werden eintreffen"
 GER_received_equipment_10000:0 "Wir werden 10000 Einheiten Infanterieausrüstung erhalten."
 GER_cannot_join_until_WK:0 "§R[From.GetName] kann vor dem Weltkrieg nicht der [ROOT.GetFactionName] beitreten.§!"
@@ -340,19 +346,6 @@ GER_puppet_core_germany:0 "Ordnung wiederherstellen in [From.GetName]"
  french_occupation_decisions: "Besetzung Frankreichs"
  GER_erode_cof_legitimacy: "Aushöhlung der Legitimität der Kommune"
  GER_invite_nfa_to_france: "Die Exilanten aus Algier nach Frankreich einladen"
-
-GER_black_monday_category:0 "Umgang mit Schwarzem Montag"
-
-GER_factories_for_colonies_full:0 "Erfüllung der Bedürfnisse unserer Kolonien"
-GER_factories_for_colonies_full_desc:0 "Wir haben beschlossen, die Staatskasse des Kaiserreichs für die Verbesserung unserer Kolonien zu belasten, um ihre weitere Loyalität zu sichern und gleichzeitig den Schaden vom Schwarzen Montag auf ein Minimum zu reduzieren, auch wenn dadurch dringend benötigte Ressourcen vom Vaterland weg geleitet werden."
-
-GER_factories_for_colonies_partly:0 "Begrenzte Hilfe für unsere Kolonien"
-GER_factories_for_colonies_partly_desc:0 "Aufgrund der katastrophalen Lage, in der sich unsere Kolonien befinden, haben wir beschlossen, taktisch einen Teil unseres wirtschaftlichen Spielraums zu nutzen, um den am stärksten betroffenen Gebieten in unserem Weltreich zu helfen, die Moral zu stärken und unsere Regierungskette sicher und funktionsfähig zu halten."
-
-GER_agricultural_help:0 "Der Preis des Geschäftslebens"
-GER_agricultural_help_desc:0 "Da wir beschlossen haben, keine Mauer zwischen dem Kaiserreich und den osteuropäischen Getreidespeichern zu errichten, haben unsere heimischen landwirtschaftlichen Betriebe begonnen, ihre Enttäuschung über unsere Wahl zu zeigen, während ihr Besitz schnell in die roten Zahlen gerät."
-
-GER_foreign_policy_decisions:0 "Deutschland mit Blick nach außen"
 
 ### Focuses ###
 GER_doctrine_new:0 "Militärische Reform"
@@ -1150,6 +1143,10 @@ gerdom.209.t:0 "Internationale Divisionen bieten ihren Dienst an"
 gerdom.209.d:0 "Nachdem sie tapfer für die Sache der Syndikalisten gekämpft haben, wurde den Genossen und Veteranen der Internationalen Divisionen feige die Einreise in ihre eigene Heimat in Deutschland verweigert. Nach monatelangem Abwandern haben sich viele der ehemaligen Mitglieder nun wieder versammelt und beschlossen, zu den Waffen zu greifen, um Deutschland von der Geißel des Imperialismus zu befreien. Obwohl ihre Zahl durch Kämpfe und Armut verringert wurde, sind sie kampferprobte Veteranen und würden eine würdige Ergänzung zu den Streitkräften der Internationale darstellen".
 gerdom.209.a:0 "Willkommen Genossen!"
 gerdom.209.b:0 "Ein unnötiger Aufwand."
+
+ gerdom.300.t: "Deutschland verstärkt seine Unterstützung für Mitteleuropa"
+ gerdom.300.d: ""
+ gerdom.300.a: "Wunderbar!"
 
 ### Foreign Events ###
 

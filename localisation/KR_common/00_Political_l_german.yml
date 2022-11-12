@@ -1,8 +1,8 @@
 ﻿l_german:
 ### Übersetzt von Proho ###
 ### Opening Event ###
-kr.political.1.t: "Kaiserreich Beta 0.22.3"
-kr.political.1.d: "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.22.3 für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\n\nDer Mod basiert auf der Annahme, dass der Spieler immer alle möglichen Staaten in Friedensverträgen annektiert, also stellen Sie sicher, dass Sie dies tun\n\nSie können die Häufigkeit von Nachrichtenereignissen ändern, indem Sie das Symbol oben auf der Registerkarte 'Entscheidungen' umschalten\n\nSie können auswählen, welche Namenssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Menü 'Erfolge' oben rechts ersetzt.\n\nSie können auswählen, welche Benennungssystemzustände und Siegpunkte verwendet werden, indem Sie das Symbol umschalten, das das Errungenschaftsmenü oben rechts ersetzt\n\nDenken Sie daran, dass sich dieser Mod noch in der Betaphase befindet, daher sind leider Fehler und Abstürze möglich Probleme, diese auf unserem GitHub Issue Tracker zu melden, ist eine große Hilfe und wird sie früher beheben\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
+kr.political.1.t: "Kaiserreich Beta 0.22.4"
+kr.political.1.d: "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.22.4 für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\n\nDiese Mod wurde unter der Annahme entwickelt, dass der Spieler alle möglichen Staaten während der Friedenskonferenzen annektiert, also stellen Sie bitte sicher, dass Sie das tun.\n\nDie Häufigkeit der Nachrichtenereignisse und das Namenssystem für Staaten und Siegpunkte können in einem Menü eingestellt werden, das durch Anklicken des Symbols, das das Menü der Erfolge oben rechts ersetzt, aufgerufen wird.\n\nDenkt daran, dass sich diese Mod noch in der Beta-Phase befindet, so dass Bugs und Abstürze leider möglich sind. Wenn ihr auf Probleme stoßt, ist es eine große Hilfe, sie auf unserem GitHub Issue Tracker zu melden, damit sie schneller behoben werden.\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
 kr.political.1.a: "Da bin ich sicher!"
 
 ### Generic Faction Joining ###
@@ -105,6 +105,38 @@ military_staff_available: "Dieser Angehörige des Militärstabs ist am Leben und
 
  KR_is_conservative: "$government_is_loc$§Y$social_conservative$§! oder §Y$authoritarian_democrat$§!"
  KR_is_conservative_NOT: "$government_is_not_loc$§Y$social_conservative$§! oder §Y$authoritarian_democrat$§!"
+ 
+### Party Popularity Tooltips ###
+ popularity_ideology_tooltip: "Ihre derzeitige Regierungspartei ist §H[?current_party_ideology_group.GetTokenLocalizedKey]§!"
+ popularity_ideology_desc: "§L[GetPopularityTooltipDesc]§!"
+ party_popularity_delayed_tooltip: "Die Popularität einer Partei steht für die Kontrolle der aktuellen Regierung über das Land und ihre Unterstützung durch die Bevölkerung. Politische Parteien mit hoher Popularität sind eher in der Lage, ihre politische Agenda durchzusetzen und die Nation zu stabilisieren."
+
+ party_popularity_tooltip: "§HPartei Popularität§![GetPopularityPPGain]"
+ party_popularity_tooltip_long: "§H\n\nAuswirkungen unserer derzeitigen Parteipopularität:§!\nTäglicher politischer Machtzuwachs: [GetPopularityPPGainValue][GetHasCoalition][GetCoalitionTotalist][GetCoalitionSyndicalist][GetCoalitionRadicalSocialist][GetCoalitionSocialDemocrat][GetCoalitionSocialLiberal][GetCoalitionMarketLiberal][GetCoalitionSocialConservative][GetCoalitionAuthoritarianDemocrat][GetCoalitionPaternalAutocrat][GetCoalitionNationalPopulist]"
+
+ party_popularity_dynamic_modifier: "Partei Popularität"
+ party_popularity_dynamic_modifier_ideology_mapped: "Partei Popularität"
+ party_popularity_dynamic_modifier_coalition: "Koalitionen"
+
+ party_pop_coalition: "\n\n§HKoalitionspartner:§!\n"
+ party_pop_coalition_totalist: "- [?token:totalist.GetTokenLocalizedKey]\n"
+ party_pop_coalition_syndicalist: "- [?token:syndicalist.GetTokenLocalizedKey]\n"
+ party_pop_coalition_radical_socialist: "- [?token:radical_socialist.GetTokenLocalizedKey]\n"
+ party_pop_coalition_social_democrat: "- [?token:social_democrat.GetTokenLocalizedKey]\n"
+ party_pop_coalition_social_liberal: "- [?token:social_liberal.GetTokenLocalizedKey]\n"
+ party_pop_coalition_market_liberal: "- [?token:market_liberal.GetTokenLocalizedKey]\n"
+ party_pop_coalition_social_conservative: "- [?token:social_conservative.GetTokenLocalizedKey]\n"
+ party_pop_coalition_authoritarian_democrat: "- [?token:authoritarian_democrat.GetTokenLocalizedKey]\n"
+ party_pop_coalition_paternal_autocrat: "- [?token:paternal_autocrat.GetTokenLocalizedKey]\n"
+ party_pop_coalition_national_populist: "- [?token:national_populist.GetTokenLocalizedKey]\n"
+
+ add_to_coalition: "Die §[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]s§! werden der Koalition beitreten."
+ remove_from_coalition: "Die §[GetCoalitionTooltipColour][?coalition_partner_var.GetTokenLocalizedKey]s§! werden die Koalition verlassen."
+
+ has_coalition_with_target: "Ist in Koalition mit  §H[?coalition_target.GetTokenLocalizedKey]s§!."
+ has_coalition_with_target_NOT: "Ist nicht in Koalition mit §H[?coalition_target.GetTokenLocalizedKey]s§!."
+
+ coalition_stability_tooltip: "Koalitionspartner bieten nun $RIGHT|G%0$ ihrer Popularität als zusätzlichen §HPolitischen Machtgewinn§!."
 
 ### At War Notice ###
 has_scripted_peace: "Wir führen Krieg"
@@ -150,6 +182,9 @@ unit_limit_tot_economic_mobilisation: "\n   - §H$tot_economic_mobilisation$§!:
  KR_party_pop_less_than_100: "Weniger als §Y100%§! Unterstützung für [Root.GetRulingParty]"
 is_ally_of_ROOT: "Ist ein Verbündeter von [ROOT.GetNameDef]"
 has_coalition_with: "Ist in einer Koalition mit §H[?coalition_partner_to_check.GetTokenLocalizedKey]§!"
+
+ KR_getting_faction_invite: "Wir werden derzeit in eine Fraktion eingeladen."
+ KR_getting_faction_invite_NOT: "Wir werden derzeit §Rnicht§! in eine Fraktion eingeladen."
 
 ### Decisions ###
  generic_raise_stability: "[generic_raise_stability_text]"

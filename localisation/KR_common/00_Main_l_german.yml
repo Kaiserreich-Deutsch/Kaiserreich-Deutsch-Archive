@@ -12,7 +12,10 @@
 
 ### Splash Screen Credits ###
 KR_SPLASH_TITLE: "Willkommen bei Kaiserreich"
-KR_SPLASH_CREDITS: "§YPräsentiert vom KR4-Team:§!\nAdrianator2  ·  Alpinia  ·  Arvidus  ·  Asratius  ·  Augenis  ·  Blackfalcon501  ·  Carmain\nChazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Conchobhar  ·  DSFDarker  ·  DuoDex  ·  El Daddy\nFedex  ·  Flamefang  ·  Gaboemi  ·  Gideones  ·  Hamfast  ·  Ido  ·  Igor050301  ·  JazzyHugh\nJeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  KFateweaver  ·  Kennedy\nkergely  ·  Klyntar King  ·  Krčo  ·  Luwofe  ·  Matoro  ·  McOmghall  ·  ~mw~ // miwaco.\nNukeGaming  ·  OperationsManagementDecisions  ·  Owenomaly  ·  PPsyrius  ·  Pelmen\nRagnoStrangeros  ·  Retrocognition  ·  Rnk  ·  Shiroe  ·  Sonny O'Cad  ·  Story  ·  suzuha\nThe Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko  ·  Hydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc, Wolf  ·  Silent_Wolf  ·  Alex S  ·  DerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier"
+KR_SPLASH_CREDITS: "§YPräsentiert vom KR4-Team:§!\nAdrianator2  ·  Alpinia  ·  Arvidus  ·  Asratius  ·  Augenis  ·  Blackfalcon501  ·  Carmain\nChazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Conchobhar  ·  DuoDex  ·  El Daddy\nFedex  ·  Flamefang  ·  Gaboemi  ·  Gideones  ·  Hamfast  ·  Ido  ·  Igor050301  ·  JazzyHugh\nJeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  KFateweaver  ·  Kennedy\nkergely  ·  Klyntar King  ·  Krčo  ·  Luwofe  ·  Matoro  ·  McOmghall  ·  ~mw~ // miwaco.\nNukeGaming  ·  OperationsManagementDecisions  ·  Owenomaly  ·  PPsyrius  ·  Pelmen\nRagnoStrangeros  ·  Retrocognition  ·  Rnk  ·  Shiroe  ·  Sonny O'Cad  ·  Story  ·  suzuha\nThe Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko  ·  Hydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc, Wolf  ·  Silent_Wolf  ·  Alex S  ·  DerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier"
+
+### Career Profile ###
+KAISERREICH_CAREER_PROFILE: "Kaiserreich Deutsch"
 
 ### Diplomacy Tooltips ###
 REQUEST_EXP_FORCE_BLOCKED_TT: "§RDieses Land erlaubt Ihnen nicht, ihre Streitkräfte anzufordern.§!"
@@ -53,6 +56,7 @@ is_in_europe: "Ist ein §HEuropäisches§! Land"
 is_in_africa: "Ist ein §HAfrikanisches§! Land"
 is_in_north_america: "Ist ein §HNordamerikanisches§! Land"
 is_in_central_america: "Ist ein §HZentralamerikanisches§! Land"
+is_in_caribbean: "Ist ein §HKaribisches§! Land"
 is_in_south_america: "Ist ein §HSüdamerikanisches§! Land"
 is_in_americas: "Ist ein §HAmerikanisches§! Land"
 is_in_middle_east: "Ist ein §HMittelöstliches§! Land"
@@ -89,13 +93,13 @@ is_indian_tag: "Ist ein indisches Land"
 is_farsi_speaking_tag: "Ist ein Farsi-sprachiges Land"
 is_danubian_tag: "Ist ein danubisches Land"
 is_balkan_tag: "Ist ein Balkanland"
-is_belgian_tag: "Ist in Belgien"
+is_belgian_tag: "Ist ein belgisches Land"
 is_uighur_tag: "Ist ein uigurisches Land"
 is_scandinavian_tag: "Ist ein skandinavisches Land"
 is_czechoslovak_tag: "Ist ein tschechoslowakisches Land"
-is_turkish_tag: "Ist ein türkisches Land"
-is_romanian_tag: "Ist ein rumänisches Land"
-is_greek_tag: "Ist ein griechisches Land"
+is_turkish_tag: "Ist ein türkischsprachiges Land"
+is_romanian_tag: "Ist ein rumänischsprachiges Land"
+is_greek_tag: "Ist ein griechischsprachiges Land"
 
 ### Actual Major Power Tooltip ###
 is_actual_major_tooltip_base:0" Ist eine wichtige Weltmacht:"
@@ -108,6 +112,9 @@ is_actual_major_tooltip_ENT: "\n          [THIS.MajorWorldPower_IsENT] Ist der A
 
 is_actual_major: "$is_actual_major_without_exceptions$$is_actual_major_tooltip_ENT$"
 is_actual_major_without_exceptions: "$is_actual_major_tooltip_base$$is_actual_major_tooltip_major$$is_actual_major_tooltip_OR$$is_actual_major_tooltip_seven_largest$$is_actual_major_tooltip_average$"
+
+### Political Tab UI ###
+power_balance_button_disabled: "Ihr Land hat kein aktives §YMachtgleichgewicht§!."
 
 ### Options GUI ###
 kr_options_title: "§YKaiserreich Optionen§!"
@@ -122,6 +129,13 @@ regional_news_tooltip: "§GKlicken§! Sie hier, um die Event-Popups für globale
 
 world_news_text: "Weltweite Nachrichten"
 world_news_tooltip: "§GKlicken§! Sie hier, um die Event-Popups für alle globalen Ereignisse einzuschalten, unabhängig von der Relevanz für das Land, das sie empfängt."
+
+### Static Modifiers ###
+volunteer_limit_plus_three: "Erhöhtes Limit für Freiwillige"
+volunteer_limit_plus_two: "$volunteer_limit_plus_three$"
+volunteer_limit_plus_one: "$volunteer_limit_plus_three$"
+volunteer_limit_plus_fifty_percent: "$volunteer_limit_plus_three$"
+volunteer_limit_plus_hundred_percent: "$volunteer_limit_plus_three$"
 
 ### Continents ###
 is_actually_an_island: "ist ein Inselstaat"
@@ -499,7 +513,23 @@ tech_arctic_commando_effect: "Ermöglicht §H$tech_arctic_commando$§!\n    $MOD
 tech_better_paratroopers: "Elite Fallschirmjäger"
 tech_better_paratroopers_effect: "Ermöglicht §H$tech_better_paratroopers$§!\n§H$paratrooper$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n      $STAT_ARMY_DEFAULT_MORALE$: §G+0.20§!\n      $MODIFIER_PARATROOPER_EXTRA_SUPPLY_GRACE$: [?24|G1=] $MOD_HOUR$"
 
-black_monday: "Schwarzer Montag"
+tech_irregulars: "Irreguläre Infanterie"
+tech_irregulars_effect: "Ermöglicht §Y$irregular_infantry$§! Bataillone"
+
+tech_militias: "Miliz"
+tech_militias_effect: "Ermöglicht §Y$militia$§! Bataillone"
+
+### Units ###
+rangers: "Ranger"
+rangers_desc: "Spezialeinheiten, die für den Einsatz bei normalen Divisionen ausgebildet und ausgerüstet sind."
+
+tech_rangers: "Rangers"
+tech_rangers_effect: "Ermöglicht §Y$rangers$§!:\n   $rangers_desc$"
+
+modifier_army_sub_unit_rangers_attack_factor: "$rangers$ Angriff"
+modifier_army_sub_unit_rangers_defence_factor: "$rangers$ Verteidigung"
+modifier_army_sub_unit_rangers_speed_factor: "$rangers$ Geschwindigkeit"
+modifier_army_sub_unit_rangers_max_org_factor: "$rangers$ Organisation"
 
 ### Debug Tag ###
 XXA: "Debug Tag"

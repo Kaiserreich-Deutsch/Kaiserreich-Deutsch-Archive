@@ -22,6 +22,9 @@ LIB_paternal_autocrat_party_long: "Military Junta"
 LIB_national_populist_party: "GLL"
 LIB_national_populist_party_long: "Grand Lodge of Liberia"
 
+LIB_german_liberian_federation: "DLB"
+LIB_german_liberian_federation_long: "Deutsch-Liberianische Bund"
+
 ### Cosmetic Tags ###
 LIB: "Liberia"
 LIB_ADJ: "Liberianisch"
@@ -34,9 +37,9 @@ LIB_syndicalist: "Sozialistische Republik Liberia"
 LIB_syndicalist_ADJ: "Liberianisch"
 LIB_syndicalist_DEF: "die Sozialistische Republik Liberia"
 
-LIB_AUTHDEM_subject: "Dominion Liberia"
-LIB_AUTHDEM_subject_ADJ: "Liberianisch"
-LIB_AUTHDEM_subject_DEF: "die Dominion Liberia"
+LIB_GER_subject: "Dominion Liberia"
+LIB_GER_subject_ADJ: "Liberianisch"
+LIB_GER_subject_DEF: "die Dominion Liberia"
 
 ### Ideas ###
 LIB_massive_debt: "Lähmende Schuldenkrise"

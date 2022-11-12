@@ -119,7 +119,6 @@ BEL_Abolish_Flemish_Council_idea: "Abgeschafftes Flämisches Konzil"
 BEL_Flemish_Council: "Privilegien für das Flämische Konzil"
 BEL_Create_VRT: "NIR"
 BEL_Create_VRT_desc: "Das NIR wird von nun an nur noch Radio- und Fernsehprogramme senden, die von einem Gremium aus deutschen und Regierungsberatern kuratiert werden."
-BEL_State_Funded_Research: "Staatlich geförderte Forschung"
 BEL_Lib_Science: "Freie Forschungsförderung"
 BEL_Cat_Science: "Katholische Bildungsreform"
 BEL_Economic_Regions: "Wirtschaftsregionen"
@@ -609,12 +608,19 @@ BEL_syndicalist_party_long: "Belgische Arbeiterpartei (Jacquemotte)"
 BEL_totalist_party: "KPB"
 BEL_totalist_party_long: "Kommunistische Partei Belgiens"
 BEL_national_populist_party: "Rex"
-BEL_national_populist_party_long: "Rex"
-BEL_paternal_autocrat_party: "Flämisches Konzil"
-BEL_paternal_autocrat_party_long: "Flämisches Konzil"
+BEL_national_populist_party_long: "Rexisten-Partei"
+BEL_paternal_autocrat_party: "Flämischer Rat"
+BEL_paternal_autocrat_party_long: "Flämischer Rat"
 BEL_authoritarian_democrat_party_long: "Unterstützer von König Adelbert"
 BEL_authoritarian_democrat_party: "Deutsche Sympathisanten"
-Interim_Governement: "Übergangsregierung"
+
+BEL_interim_government: "Übergangsregierung"
+ 
+ BEL_peoples_union: "Volksunion"
+
+ BEL_military_government: "Militärregierung"
+
+ BEL_verdinaso_party: "Verdinaso"
 
 ### Tech Sharing ###
 belgian_research_name: "Niederländische Akademie"

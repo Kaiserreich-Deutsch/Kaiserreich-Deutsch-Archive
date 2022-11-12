@@ -79,6 +79,23 @@ SER_paternal_autocrat_party_long: "Bela ruka (Weiße Hand)"
  SER_YUG_syndicalist_party_long: "Sindikalistička partija Jugoslavije (Syndikalistische Partei von Jugoslawien)"
  SER_YUG_social_democrat_party: "SPJ"
  SER_YUG_social_democrat_party_long: "Socijalistička partija Jugoslavije (Sozialistische Partei Jugoslawiens)"
+ 
+ SER_serbian_chetnik_organisation: "Četnici(Tschetniks)"
+ SER_serbian_chetnik_organisation_long: "Srpska četnička organizacija (Serbische Tschetnik Organisation)"
+ 
+ SER_slovene_liberation_front: "OFSN"
+ SER_slovene_liberation_front_long: "Osvobodilna fronta slovenskega naroda (Befreiungsfront der slowenischen Nation)"
+ 
+ SER_muslim_national_organisation: "MNO"
+ SER_muslim_national_organisation_long: "Muslimanska narodna organizacija (Muslimische Nationale Organisation)"
+ 
+ SER_asos_srp: "ASOS-SRP"
+ SER_asos_sps: "ASOS-SPS"
+ SER_asos_srs: "ASOS-SRS"
+ SER_asos_nrs: "ASOS-NRS"
+ SER_asos_zs: "ASOS-ZS"
+
+ SER_asos_long: "Antireakcionarima skupština oslobođenja Srbije (Antireaktionäre Versammlung für die Befreiung Serbiens)"
 
 ### Factions ###
  non_aligned_movement: "Blockfreie Bewegung"

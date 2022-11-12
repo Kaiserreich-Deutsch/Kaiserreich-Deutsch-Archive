@@ -41,6 +41,9 @@ WAL_national_populist_party_long: "Rexisten-Partei"
 
  WAL_monarchy_authoritarian_democrat_party: "Royalisten"
  WAL_monarchy_authoritarian_democrat_party_long: "Unterstützer des Königs"
+ 
+ WAL_national_union: "UNW"
+ WAL_national_union_long: "Nationale Wallonische Union"
 
 ### Tooltips ###
 WAL_constitution_monarchist: "If §H$WAL_Appoint_Royal_Councillor$§! wurde abgeschlossen:"

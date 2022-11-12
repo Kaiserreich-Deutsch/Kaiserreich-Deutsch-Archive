@@ -376,11 +376,8 @@ CENdem_joining_the_Entente: "Schließt sich der Entente an"
 CENdem_attack_country: "Angriff auf die Wehrlosen [From.GetName]!"
 
 ### TOOLTIPS ###
-CENdem_centralisation_idea: "§YDadurch werden andere nationale Geister, die mit der Zentralisierung zusammenhängen, beseitigt.§!"
-CENdem_taxation_idea: "§YDadurch werden andere nationale Geister im Zusammenhang mit der Besteuerung der Industrie und der Wohlfahrt beseitigt.§!"
 CEN_foreign_relations_tooltip: "Schaltet £decision_icon_small §HEntscheidungen§! frei, mit dem wir internationalen Fraktionen beitreten können."
 CEN_foreign_expansion_tooltip: "Schaltet £decision_icon_small §HEntscheidungen§! für opportunistische Expansionen frei."
-CEN_tech_slot_tooltip: "§YSie erhalten nur maximal 5 Technologie-Slots!§!"
 
 cendem_floaty_boats_expansion_base: "§CDieser Schwerpunkt wird zusätzliche versteckte Boni in Form von zusätzlichen Schiffen für die folgenden zwei Schwerpunkte bringen§!"
 
@@ -651,147 +648,35 @@ cendem.116.t: "Ende der Korruptionsprozesse"
 cendem.116.d: "Nachdem mehrere hundert Angestellte und besorgte Bürger ausgesagt haben und handfeste Beweise vorgelegt wurden, konnten rund 500 Personen, darunter hochrangige Politiker und Industrie- und Landbarone, der Veruntreuung und unrechtmäßigen Bereicherung überführt werden und wurden je nach Schwere ihrer Verbrechen zu einer Sperre von 4 Millionen Dollar und unterschiedlichen Haftzeiten verurteilt. Auch wenn es wahrscheinlich noch viel Korruption auf lokaler Ebene gibt, ist das Gesamtziel der Partei erreicht. Die Suche nach Korruption wird zwar weitergehen, aber in einem langsameren Tempo und delegiert an die einzelnen Staaten."
 cendem.116.a: "Die Zukunft ist ein bisschen heller geworden."
 
-cendem.199.t: "Freundschaft mit den mittelamerikanischen Staaten"
-cendem.199.d: "Da wir unseren Einfluss im Ausland ausbauen wollen, hat die Abgeordnetenkammer eine Reihe von diplomatischen Vorschlägen zur Verbesserung der Beziehungen zu unseren Nachbarländern vorgelegt. Wir wissen zwar nicht, was das Ergebnis dieser Maßnahmen sein wird, aber wir wissen, dass wir versuchen, unsere diplomatische Position auf dem Kontinent zu festigen und den künftigen Frieden unseres Landes zu sichern."
-cendem.199.a: "Nehmen wir Kontakt zu den Botschaften auf und übermitteln die Vorschläge."
-
-cendem.200.t: "Zentralamerika möchte einen Freundschaftsvertrag unterzeichnen"
-cendem.200.d: "Die zentralamerikanische Nation hat sich heute an unsere Botschaft gewandt, damit wir einen Freundschaftsvertrag prüfen, den ihre Abgeordnetenkammer angenommen hat. Der Vorschlag selbst enthält eine diplomatische Zusicherung, in der beide Länder versprechen, im Falle einer Invasion füreinander einzustehen, sowie eine Senkung der Zölle für den Handel zwischen unserem und ihrem Land und sogar die Absicht, im weiteren Verlauf eine Freihandelszone zu schaffen, wenn der Vertrag angenommen wird. Was sollten wir antworten?"
-cendem.200.a: "Akzeptiert ihren Vorschlag."
-cendem.200.b: "Sagt ihnen, dass wir nicht akzeptieren können, da wir äh..."
-
-cendem.201.t: "Zentralamerika möchte einen Freundschaftsvertrag unterzeichnen"
-cendem.201.d: "Die zentralamerikanische Nation hat sich heute an unsere Botschaft gewandt, damit wir einen Freundschaftsvertrag prüfen, den ihre Abgeordnetenkammer angenommen hat. Der Vorschlag selbst enthält eine diplomatische Zusicherung, in der beide Länder versprechen, im Falle einer Invasion füreinander einzustehen, sowie eine Senkung der Zölle für den Handel zwischen unserem und ihrem Land und sogar die Absicht, im weiteren Verlauf eine Freihandelszone zu schaffen, wenn der Vertrag angenommen wird. Was sollten wir antworten?"
+cendem.201.t: "[FROM.GetNonIdeologyName] möchte einen Freundschaftsvertrag unterzeichnen"
+cendem.201.d: "[FROM.GetNameDefCap] hat sich heute an unsere Botschaft gewandt, damit wir einen Freundschaftsvertrag prüfen, den ihre Abgeordnetenkammer angenommen hat. Der Vorschlag selbst enthält eine diplomatische Zusicherung, in der beide Länder versprechen, im Falle einer Invasion füreinander einzustehen, sowie eine Senkung der Zölle für den Handel zwischen unserem und ihrem Land und sogar die Absicht, im weiteren Verlauf eine Freihandelszone zu schaffen, wenn der Vertrag angenommen wird. Was sollten wir antworten?"
 cendem.201.a: "Akzeptiert ihren Vorschlag."
 cendem.201.b: "Sagt ihnen, dass wir nicht akzeptieren können, da wir äh..."
 
-cendem.202.t: "Zentralamerika möchte einen Freundschaftsvertrag unterzeichnen"
-cendem.202.d: "Die zentralamerikanische Nation hat sich heute an unsere Botschaft gewandt, damit wir einen Freundschaftsvertrag prüfen, den ihre Abgeordnetenkammer angenommen hat. Der Vorschlag selbst enthält eine diplomatische Zusicherung, in der beide Länder versprechen, im Falle einer Invasion füreinander einzustehen, sowie eine Senkung der Zölle für den Handel zwischen unserem und ihrem Land und sogar die Absicht, im weiteren Verlauf eine Freihandelszone zu schaffen, wenn der Vertrag angenommen wird. Was sollten wir antworten?"
-cendem.202.a: "Akzeptiert ihren Vorschlag."
-cendem.202.b: "Sagt ihnen, dass wir nicht akzeptieren können, da wir äh..."
+cendem.202.t: "Freundschaftsvertrag mit [FROM.GetNonIdeologyName] angenommen"
+cendem.202.d: "Die Regierung von [FROM.GetAdjective] hat unserem Vorschlag zugestimmt und ist bereit, weitere Gespräche über bessere Beziehungen zwischen unseren Ländern in naher Zukunft zu führen."
+cendem.202.a: "Wir schätzen es, unsere Brüder wieder in der Nähe zu haben."
 
-cendem.203.t: "Zentralamerika möchte einen Freundschaftsvertrag unterzeichnen"
-cendem.203.d: "Die zentralamerikanische Nation hat sich heute an unsere Botschaft gewandt, damit wir einen Freundschaftsvertrag prüfen, den ihre Abgeordnetenkammer angenommen hat. Der Vorschlag selbst enthält eine diplomatische Zusicherung, in der beide Länder versprechen, im Falle einer Invasion füreinander einzustehen, sowie eine Senkung der Zölle für den Handel zwischen unserem und ihrem Land und sogar die Absicht, im weiteren Verlauf eine Freihandelszone zu schaffen, wenn der Vertrag angenommen wird. Was sollten wir antworten?"
-cendem.203.a: "Akzeptiert ihren Vorschlag."
-cendem.203.b: "Sagt ihnen, dass wir nicht akzeptieren können, da wir äh..."
-
-cendem.204.t: "Costa Rica akzeptiert den Freundschaftsvertrag"
-cendem.204.d: "Die costaricanische Regierung hat unserem Vorschlag zugestimmt und ist bereit, in naher Zukunft weitere Gespräche über bessere Beziehungen zwischen unseren Ländern zu führen."
-cendem.204.a: "Wir schätzen es, unsere Brüder wieder in der Nähe zu haben."
-
-cendem.205.t: "Mexiko akzeptiert den Freundschaftsvertrag"
-cendem.205.d: "Die mexikanische Regierung hat unserem Vorschlag zugestimmt und ist bereit, in naher Zukunft weitere Gespräche über bessere Beziehungen zwischen unseren Ländern zu führen."
-cendem.205.a: "Magnífico!"
-
-cendem.206.t: "Yucatan akzeptiert den Freundschaftsvertrag"
-cendem.206.d: "Die Regierung von Yucateca hat unserem Vorschlag zugestimmt und ist bereit, weitere Gespräche über bessere Beziehungen zwischen unseren Ländern in naher Zukunft zu führen."
-cendem.206.a: "Magnífico!"
-
-cendem.207.t: "Panama akzeptiert den Freundschaftsvertrag"
-cendem.207.d: "Die panamaische Regierung hat unserem Vorschlag zugestimmt und ist bereit, in naher Zukunft weitere Gespräche über bessere Beziehungen zwischen unseren Ländern zu führen."
-cendem.207.a: "Magnífico!"
-
-cendem.208.t: "Costa Rica lehnt den Freundschaftsvertrag ab"
-cendem.208.d: "Die costaricanische Regierung hat unseren diplomatischen Vorschlag abgelehnt, und obwohl sie erklärt hat, dass sie bereit ist, die diplomatischen Beziehungen mit unserem Land fortzusetzen, hat ihre Ablehnung unseres Vorschlags unsere Beziehungen auf absehbare Zeit definitiv zurückgeworfen."
-cendem.208.a: "Wie bedauerlich."
-
-cendem.209.t: "Mexiko lehnt den Freundschaftsvertrag ab"
-cendem.209.d: "Die mexikanische Regierung hat unseren diplomatischen Vorschlag abgelehnt, und obwohl sie erklärt hat, dass sie bereit ist, die diplomatischen Beziehungen mit unserem Land fortzusetzen, hat ihre Ablehnung unseres Vorschlags unsere Beziehungen auf absehbare Zeit definitiv zurückgeworfen."
-cendem.209.a: "Wie bedauerlich."
-
-cendem.210.t: "Yucatan lehnt den Freundschaftsvertrag ab"
-cendem.210.d: "Die Regierung von Yucatec hat unseren diplomatischen Vorschlag abgelehnt, und obwohl sie erklärt hat, dass sie bereit ist, die diplomatischen Beziehungen mit unserem Land fortzusetzen, hat ihre Ablehnung unseres Vorschlags unsere Beziehungen für die absehbare Zukunft definitiv zurückgeworfen."
-cendem.210.a: "Wie bedauerlich."
-
-cendem.211.t: "Panama lehnt den Freundschaftsvertrag ab"
-cendem.211.d: "Die panamaische Regierung hat unseren diplomatischen Vorschlag abgelehnt, und obwohl sie erklärt hat, dass sie bereit ist, die diplomatischen Beziehungen mit unserem Land fortzusetzen, hat ihre Ablehnung unseres Vorschlags unsere Beziehungen auf absehbare Zeit definitiv zurückgeworfen."
-cendem.211.a: "Wie bedauerlich."
-
-cendem.212.t: "Freundschaftsverträge mit den Staaten der Karibik"
-cendem.212.d: "Da wir unseren Einfluss im Ausland ausbauen wollen, hat die Abgeordnetenkammer eine Reihe von diplomatischen Vorschlägen zur Verbesserung der Beziehungen zu den Ländern der Karibik vorgelegt. Wir wissen zwar nicht, was das Ergebnis dieser Aktion sein wird, aber wir wissen, dass wir versuchen, unsere diplomatische Position auf dem Kontinent zu festigen und den zukünftigen Frieden unserer Nation zu sichern."
-cendem.212.a: "Schicken wir unseren Vorschlag."
-
-cendem.213.t: "Zentralamerika möchte einen Freundschaftsvertrag unterzeichnen"
-cendem.213.d: "Die zentralamerikanische Nation hat sich heute an unsere Botschaft gewandt, damit wir einen Freundschaftsvertrag prüfen, den ihre Abgeordnetenkammer angenommen hat. Der Vorschlag selbst enthält eine diplomatische Zusicherung, in der beide Länder versprechen, im Falle einer Invasion füreinander einzustehen, sowie eine Senkung der Zölle für den Handel zwischen unserem und ihrem Land und sogar die Bereitschaft, im weiteren Verlauf eine Freihandelszone zu schaffen, wenn der Vertrag angenommen wird. Was sollten wir tun?"
-cendem.213.a: "Ein Vergnügen mit Ihnen Geschäfte zu machen."
-cendem.213.b: "Sagt ihnen, dass wir nicht akzeptieren können, da wir äh..."
-
-cendem.214.t: "Zentralamerika möchte einen Freundschaftsvertrag unterzeichnen"
-cendem.214.d: "Die zentralamerikanische Nation hat sich heute an unsere Botschaft gewandt, damit wir einen Freundschaftsvertrag prüfen, den ihre Abgeordnetenkammer angenommen hat. Der Vorschlag selbst enthält eine diplomatische Zusicherung, in der beide Länder versprechen, im Falle einer Invasion füreinander einzustehen, sowie eine Senkung der Zölle für den Handel zwischen unserem und ihrem Land und sogar die Bereitschaft, im weiteren Verlauf eine Freihandelszone zu schaffen, wenn der Vertrag angenommen wird. Was sollten wir tun?"
-cendem.214.a: "Ein Vergnügen mit Ihnen Geschäfte zu machen."
-cendem.214.b: "Sagt ihnen, dass wir nicht akzeptieren können, da wir äh..."
-
-cendem.215.t: "Zentralamerika möchte einen Freundschaftsvertrag unterzeichnen"
-cendem.215.d: "Die zentralamerikanische Nation hat sich heute an unsere Botschaft gewandt, damit wir einen Freundschaftsvertrag prüfen, den ihre Abgeordnetenkammer angenommen hat. Der Vorschlag selbst enthält eine diplomatische Zusicherung, in der beide Länder versprechen, im Falle einer Invasion füreinander einzustehen, sowie eine Senkung der Zölle für den Handel zwischen unserem und ihrem Land und sogar die Bereitschaft, im weiteren Verlauf eine Freihandelszone zu schaffen, wenn der Vertrag angenommen wird. Was sollten wir tun?"
-cendem.215.a: "Ein Vergnügen mit Ihnen Geschäfte zu machen."
-cendem.215.b: "Sagt ihnen, dass wir nicht akzeptieren können, da wir äh..."
-
-cendem.216.t: "Zentralamerika möchte einen Freundschaftsvertrag unterzeichnen"
-cendem.216.d: "Die zentralamerikanische Nation hat sich heute an unsere Botschaft gewandt, damit wir einen Freundschaftsvertrag prüfen, den ihre Abgeordnetenkammer angenommen hat. Der Vorschlag selbst enthält eine diplomatische Zusicherung, in der beide Länder versprechen, im Falle einer Invasion füreinander einzustehen, sowie eine Senkung der Zölle für den Handel zwischen unserem und ihrem Land und sogar die Bereitschaft, im weiteren Verlauf eine Freihandelszone zu schaffen, wenn der Vertrag angenommen wird. Was sollten wir tun?"
-cendem.216.a: "Ein Vergnügen mit Ihnen Geschäfte zu machen."
-cendem.216.b: "Sagt ihnen, dass wir nicht akzeptieren können, da wir äh..."
-
-cendem.217.t: "Kuba akzeptiert den Freundschaftsvertrag"
-cendem.217.d: "Die kubanische Regierung hat unserem Vorschlag zugestimmt und ist bereit, in naher Zukunft weitere Gespräche über bessere Beziehungen zwischen unseren Ländern zu führen."
-cendem.217.a: "Magnífico!"
-
-cendem.218.t: "Haiti akzeptiert den Freundschaftsvertrag"
-cendem.218.d: "Die haitianische Regierung hat unserem Vorschlag zugestimmt und ist bereit, in naher Zukunft weitere Gespräche über bessere Beziehungen zwischen unseren Ländern zu führen."
-cendem.218.a: "Magnífico!"
-
-cendem.219.t: "Die Dominikanische Republik akzeptiert den Freundschaftsvertrag"
-cendem.219.d: "Die dominikanische Regierung hat unserem Vorschlag zugestimmt und ist bereit, in naher Zukunft weitere Gespräche über bessere Beziehungen zwischen unseren Ländern zu führen."
-cendem.219.a: "Magnífico!"
-
-cendem.220.t: "Die Westindische Föderation akzeptiert den Freundschaftsvertrag"
-cendem.220.d: "Die westindische Regierung hat unserem Vorschlag zugestimmt und ist bereit, in naher Zukunft weitere Gespräche über bessere Beziehungen zwischen unseren Ländern zu führen."
-cendem.220.a: "Magnífico!"
-
-cendem.221.t: "Kuba lehnt den Freundschaftsvertrag ab"
-cendem.221.d: "Die kubanische Regierung hat unseren diplomatischen Vorschlag abgelehnt, und obwohl sie erklärt hat, dass sie bereit ist, die diplomatischen Beziehungen mit unserem Land fortzusetzen, hat ihre Ablehnung unseres Vorschlags unsere Beziehungen für die absehbare Zukunft definitiv zurückgeworfen."
-cendem.221.a: "Wie bedauerlich."
-
-cendem.222.t: "Haiti lehnt den Freundschaftsvertrag ab"
-cendem.222.d: "Die haitianische Regierung hat unseren diplomatischen Vorschlag abgelehnt, und obwohl sie erklärt hat, dass sie bereit ist, die diplomatischen Beziehungen mit unserem Land fortzusetzen, hat ihre Ablehnung unseres Vorschlags unsere Beziehungen auf absehbare Zeit definitiv zurückgeworfen."
-cendem.222.a: "Wie bedauerlich."
-
-cendem.223.t: "Die Dominikanische Republik lehnt den Freundschaftsvertrag ab"
-cendem.223.d: "Die dominikanische Regierung hat unseren diplomatischen Vorschlag abgelehnt, und obwohl sie erklärt hat, dass sie bereit ist, die diplomatischen Beziehungen mit unserem Land fortzusetzen, hat ihre Ablehnung unseres Vorschlags unsere Beziehungen auf absehbare Zeit definitiv zurückgeworfen."
-cendem.223.a: "Wie bedauerlich."
-
-cendem.224.t: "Die Westindische Föderation lehnt den Freundschaftsvertrag ab"
-cendem.224.d: "Die westindische Regierung hat unseren diplomatischen Vorschlag abgelehnt, und obwohl sie erklärt hat, dass sie bereit ist, die diplomatischen Beziehungen mit unserem Land fortzusetzen, hat ihre Ablehnung unseres Vorschlags unsere Beziehungen auf absehbare Zeit definitiv zurückgeworfen."
-cendem.224.a: "Wie bedauerlich."
-
+cendem.203.t: "Freundschaftsvertrag mit [FROM.GetNonIdeologyName] abgelehnt"
+cendem.203.d: "Die Regierung von [FROM.GetAdjective] hat unseren diplomatischen Vorschlag abgelehnt, und obwohl sie erklärt hat, dass sie bereit ist, die diplomatischen Beziehungen mit unserem Land fortzusetzen, hat ihre Ablehnung unseres Vorschlags unsere Beziehungen auf absehbare Zeit definitiv zurückgeworfen."
+cendem.203.a: "Wie bedauerlich."
+ 
 cendem.225.t: "Proteste gegen die Sozialisten"
 cendem.225.d: "Nach der Auszählung aller Stimmen wurde die sozialistische PNR als Wahlsiegerin ermittelt. Dies löste sofort Proteste der Unionista-Partei aus, die behauptete, die Wahlen seien gefälscht und die Sozialisten würden die Republik in die Katastrophe führen. Auch wenn ihre Proteste uns öffentlich schmerzen, haben wir mit Hilfe der PT immer noch eine schwache Kontrolle über die Abgeordnetenkammer, aber wir müssen vorsichtig sein, um zu vermeiden, dass sich die Unionista und die Liberalen gegen uns verbünden, denn das würde dazu führen, dass unsere Gesetze sowohl im Senat als auch in der Abgeordnetenkammer blockiert werden."
 cendem.225.a: "Wir haben die Volksabstimmung fair und ehrlich gewonnen, und sie sollten dies respektieren."
 
-cendem.226.t: "Zentralamerika bittet um den Beitritt zur Entente"
-cendem.226.d: "Eine zentralamerikanische Delegation ist heute in unserer Hauptstadt eingetroffen und hat formell um den Beitritt zur Entente gebeten. Die zentralamerikanische Nation verfügt zwar nur über eine recht kleine Streitmacht und sehr wenig Ressourcen, aber ein weiterer Verbündeter in Zentralamerika könnte sich für unsere Sache als vorteilhaft erweisen, da wir mit ihrer Hilfe den Panamakanal umgehen könnten. Was sollen wir ihnen sagen?"
+cendem.226.t: "[FROM.GetNonIdeologyName] bittet um den Beitritt zur [ROOT.GetFactionName]"
+cendem.226.d: "Eine zentralamerikanische Delegation ist heute in unserer Hauptstadt eingetroffen und hat formell um den Beitritt zur [ROOT.GetFactionName] gebeten. Die zentralamerikanische Nation verfügt zwar nur über eine recht kleine Streitmacht und sehr wenig Ressourcen, aber ein weiterer Verbündeter in Zentralamerika könnte sich für unsere Sache als vorteilhaft erweisen, da wir mit ihrer Hilfe den Panamakanal umgehen könnten. Was sollen wir ihnen sagen?"
 cendem.226.a: "Heißt sie willkommen."
 cendem.226.b: "Zentralamerika ist uns nicht von Nutzen."
 
-cendem.227.t: "Die Kanadier akzeptieren"
-cendem.227.d: "Die Kanadier haben unserem Ersuchen zugestimmt, und wir werden in die Reihen der Entente aufgenommen. Dies ist ein wichtiger diplomatischer Schritt für unsere neu entstandene Nation!"
+cendem.227.t: "[FROM.GetNonIdeologyNameDefCap] akzeptieren"
+cendem.227.d: "[FROM.GetNonIdeologyNameDefCap] hat unserem Ersuchen zugestimmt, und wir werden in die Reihen von [FROM.GetFactionName] aufgenommen. Dies ist ein wichtiger diplomatischer Schritt für unsere neu entstandene Nation!"
 cendem.227.a: "Wir stehen jetzt zusammen."
 
-cendem.228.t: "Die Kanadier lehnen ab"
-cendem.228.d: "Die Kanadier haben unser Ersuchen abgelehnt, und obwohl sie gute diplomatische Beziehungen unterhalten wollen, sind sie nicht an weiteren militärischen Beziehungen zu uns interessiert."
+cendem.228.t: "[FROM.GetNonIdeologyNameDefCap] lehnen ab"
+cendem.228.d: "[FROM.GetNonIdeologyNameDefCap] hat unser Ersuchen abgelehnt, und obwohl sie gute diplomatische Beziehungen unterhalten wollen, sind sie nicht an weiteren militärischen Beziehungen zu uns interessiert."
 cendem.228.a: "Wir werden ohne sie auskommen müssen."
-
-cendem.232.t: "Das demokratische Zentralamerika bittet um Beitritt zum Amerikanischen Völkerbund"
-cendem.232.d: "Eine zentralamerikanische Delegation ist heute in unserer Hauptstadt eingetroffen und hat offiziell um den Beitritt zum Bund der Amerikanischen Nationen gebeten. Die zentralamerikanische Nation verfügt zwar nur über eine recht kleine Streitmacht und sehr wenig Ressourcen, aber ein weiterer Verbündeter in Zentralamerika könnte sich für unsere Sache als vorteilhaft erweisen, da wir mit ihrer Hilfe den Panamakanal umgehen könnten. Was sollen wir ihnen sagen?"
-cendem.232.a: "Heißt sie willkommen."
-cendem.232.b: "Zentralamerika ist für uns nicht von Nutzen."
-
-cendem.233.t: "Die Vereinigten Staaten nehmen unseren Antrag an"
-cendem.233.d: "Die Kanadier haben unserem Ersuchen zugestimmt, und wir werden in die Reihen der Entente aufgenommen. Dies ist ein wichtiger diplomatischer Schritt für unsere neu entstandene Nation!"
-cendem.233.a: "Wir freuen uns, mit einer anderen Demokratie auf Augenhöhe zu sein."
-
-cendem.234.t: "Die Vereinigten Staaten lehnen unseren Antrag ab"
-cendem.234.d: "Die Amerikaner haben unser Ersuchen abgelehnt, und obwohl sie gute diplomatische Beziehungen unterhalten wollen, sind sie nicht an weiteren militärischen Beziehungen zu uns interessiert."
-cendem.234.a: "Wir werden ohne sie auskommen müssen."
 
 cendem.235.t: "Zentralamerika bittet uns um Unterstützung seiner Neutralität"
 cendem.235.d: "Die zentralamerikanische Nation hat kürzlich ihre Neutralität in Weltangelegenheiten erklärt und unsere Regierung gebeten, ihre Haltung anzuerkennen und sie im Falle eines Konflikts zu schützen. Obwohl Zentralamerika relativ sicher auf dem zentralamerikanischen Subkontinent liegt, sollten wir die Aggressivität seiner Nachbarn nicht unterschätzen und diese Bitte sorgfältig prüfen..."

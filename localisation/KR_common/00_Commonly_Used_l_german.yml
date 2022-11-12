@@ -16,7 +16,10 @@ tooltip_effect_upon_focus_completion: "\n§GAuswirkung bei Abschluss des Schwerp
 after_idea_expires: "Nach dem ablaufen des Nationalgeistes:"
 
 unlock_focuses: "§GDieser Fokus wird automatisch umgangen und schaltet die anderen Fokusse frei§!"
-unlocks_after_event: "§GDieser Fokus wird automatisch durch ein Ereignis entriegelt§!"
+tooltip_focus_unlocked_by_event: "§GDieser Fokus wird automatisch durch ein Ereignis freigeschaltet§!"
+
+tooltip_apply_one_of_effects_depending_on_ideas: "§gWendet einen der folgenden Effekte an, je nach dem aktuellen Nationalen Geist:§!"
+tooltip_apply_one_of_effects_depending_on_ruling_party: "§gWendet einen der folgenden Effekte an, je nachdem, welche Partei gerade regiert:§!"
 
 if_controlled_by_PREV: "wenn kontrolliert von §Y[PREV.GetNonIdeologyName]§!:"
 
@@ -47,6 +50,12 @@ cannot_train_units_tt: "§RSie können keine Einheiten ausbilden, Einheiten aufl
 cannot_mobilise_tt: "§RKann die Wehrpflicht und die Mobilisierungsgesetze nicht verschärfen.§!"
 cannot_build_armor_tt: "§RKann keine Panzer bauen.§!"
 cannot_replace_character: "§YDieser Berater kann nicht manuell ersetzt werden§!"
+
+volunteer_limit_plus_three_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?3|+=0]"
+volunteer_limit_plus_two_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?2|+=0]"
+volunteer_limit_plus_one_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?1|+=0]"
+volunteer_limit_plus_fifty_percent_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?0.5|+=%1]"
+volunteer_limit_plus_hundred_percent_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?0.1|+=%1]"
 
 ### Colours (for use in scripted loc) ###
 colour_cyan: "C"
