@@ -438,6 +438,7 @@ ALB_land_reform_tt: "§RDies wird die Progressiven und den Rest der Aristokraten
 ALB_stopping_land_reform_tt: "§RDies wird Bashkimi und den Rest der Unterschicht innerhalb unserer Nation verärgern.§!"
  ALB_gendarmerie_tt: "§RWird dies nicht beachtet, kann dies zu unbeabsichtigten und schlimmen Folgen führen.§!"
  ALB_will_join_BUL_factions: "Wenn Bulgarien eine Fraktion gründet, wird Albanien ihr beitreten."
+ ALB_turn_socialist: "Der Einfluss von §H[FROM.GetNameDef]§! wird dazu führen, dass §Rsozialistische§! Kräfte die derzeitige Regierung ablösen!"
 
 ### Opinion Modifiers ###
 ALB_bularian_relations_accepted: "Albanisch-Bulgarische Freundschaft"

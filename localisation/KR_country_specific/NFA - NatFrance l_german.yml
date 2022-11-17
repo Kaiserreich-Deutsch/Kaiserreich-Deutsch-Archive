@@ -3138,8 +3138,8 @@ nfa.631.c: "Verflucht!"
 
 nfa.632.t: "Der Zusammenbruch des französischen Kaiserreichs"
 nfa.632.d: "[NFA.GetNameDefCap] hat die Kontrolle verloren. Das Reich von Tausenden von Quadratkilometern, das sich über mehrere alte Königreiche und Tausende von Ökosystemen, Seen, Savannen und Wäldern erstreckt, die sie für sich in Afrika errichtet haben, ist nicht mehr unter ihrer Kontrolle. Ihre Armee wurde durch Aufstände der Eingeborenen zurückgedrängt, die sich als weitaus organisierter und effizienter erwiesen, als zunächst vermutet. Die erste Niederlage in der Sahara war ein furchtbarer Schlag, aber sie verblasste im Vergleich zu dem völligen Desaster weiter westlich, bis schließlich sogar ihr Kernland Algerien in Gefahr war. Die Lage ist für die Franzosen wirklich hoffnungslos. Ihre einzige Chance, mehr als ein paar Wochen zu überleben, besteht nun darin, die Unabhängigkeit aller Eingeborenenstaaten anzuerkennen und sich nach Algerien zurückzuziehen, wo sie hoffen können, sich neu zu organisieren und die Reste ihrer Nation zu verteidigen."
-nfa.632.a: "Und so verschwinden die Überreste des französischen Kaiserreichs!"
-nfa.632.b: "Es scheint, dass die Dritte Republik zum Sterben in der Wüste verurteilt war."
+nfa.632.a: "Und so verschwinden\ndie Überreste des französischen Kaiserreichs!"
+nfa.632.b: "Es scheint, dass die Dritte Republik zum Sterben\nin der Wüste verurteilt war."
 nfa.632.c: "Es scheint, dass ihr Griff nicht fest genug war."
 
 ###############################################

@@ -340,6 +340,19 @@
  ukraine.37.a: "Gemeinsam werden wir den verhassten Bosche umzingeln!"
  ukraine.37.b: "Ihr Zeugnis als Kettenbrecher ist... unwürdig."
 
+ ukraine.370.t: "[FROM.GetNameDefCap] lädt uns zur Internationale ein"
+ ukraine.370.d: "[FROM.GetNameDefCap] ist der Internationale beigetreten und hat uns in einer prekären Lage allein gelassen. Sollten wir ihrem Beispiel folgen und ebenfalls der Internationale beitreten?"
+ ukraine.370.a: "Gemeinsam sind wir stärker."
+ ukraine.370.b: "Allein sind wir stärker."
+
+ ukraine.371.t: "[FROM.GetNameDefCap] Nimmt unsere Einladung an"
+ ukraine.371.d: "[FROM.GetNameDefCap] hat unsere Einladung angenommen, unser Bündnis fortzusetzen, indem er sich der Internationale anschließt und unserem Beispiel folgt."
+ ukraine.371.a: "Das sollten sie auch!"
+
+ ukraine.372.t: "[FROM.GetNameDefCap] lehnt unsere Einladung ab"
+ ukraine.372.d: "[FROM.GetNameDefCap] hat erklärt, dass sie der Meinung sind, dass unser Bündnis seinen Lauf genommen hat und dass unser Beitritt zur Internationale weiter geht, als sie zu gehen bereit sind. Sie sollen allein stehen."
+ ukraine.372.a: "Das ist sicherlich ein Fehler."
+
  ukraine.38.t: "Beitritt zur Internationale"
  ukraine.38.d: "Die Internationale ist glücklich darüber, dass wir uns der gemeinsamen Sache anschließen, nämlich der Vernichtung der bösen Imperialisten. Jetzt, wo wir im syndikalistischen Block sind, sind wir Teil eines vereinten Kampfes, der sich von Luhanks bis London erstreckt. Nur gemeinsam können wir im Angesicht des reaktionären Terrors überleben."
  ukraine.38.a: "Wir werden unsere Freiheit und Unabhängigkeit verteidigen!"

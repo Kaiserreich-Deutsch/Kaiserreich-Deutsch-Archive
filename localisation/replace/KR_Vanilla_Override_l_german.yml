@@ -469,7 +469,9 @@ zero_island:0 "Winzige Insel"
  MODIFIER_TRADE_TO_TARGET_FACTOR: "Zusätzlicher Handel als Ziel"
  MODIFIER_TRADE_TO_TARGET_FACTOR_DESC: "Extra produzierte Ressourcen, die für den Handel mit dem Zielland zur Verfügung stehen"
  MODIFIER_BREAKTHROUGH_BONUS_AGAINST_A_COUNTRY:0 "Durchbruchsbonus gegen Land"
- 
+
+ large_plane_airframe_design_cost_factor: "Konstruktionskosten für große Flugzeuge"
+
 ### multiplayer_l_english
  HOST_LOADING_SAVEGAME:0 "Host beginnt mit dem Laden des Spielstands: $NAME|Y$."
  START_FILE_TRANSFER:0 "Spielstand senden an $NAME|H$."

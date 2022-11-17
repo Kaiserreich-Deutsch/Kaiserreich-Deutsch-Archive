@@ -1,5 +1,29 @@
 ﻿l_german:
 ###  Übersetzt von Proho  ###
+### Country Names ###
+ CAR: "Ubangi-Schari"
+ CAR_ADJ: "Ubangi"
+ CAR_DEF: "Ubangi-Shari"
+
+ CAR_totalist: "Bangui Republik"
+ CAR_totalist_ADJ: "Bangui"
+ CAR_totalist_DEF: "die Bangui Republik"
+ CAR_syndicalist: "Bangui Republik"
+ CAR_syndicalist_ADJ: "Bangui"
+ CAR_syndicalist_DEF: "die Bangui Republik"
+ CAR_radical_socialist: "Bangui Republik"
+ CAR_radical_socialist_ADJ: "Bangui"
+ CAR_radical_socialist_DEF: "die Bangui Republik"
+
+ CAR_EMR: "Dar El Kuti"
+ CAR_EMR_ADJ: "Dar El Kuti"
+ CAR_EMR_DEF: "das Sultanat von Dar El Kuti"
+
+### Characters ###
+ CAR_Barthelemy_Boganda: "Barthélemy Boganda"
+ CAR_Ben_Aissa: "Ben Aissa"
+ CAR_Binyamin_I: "Binyamin I"
+
 ### Events ###
  cea.1.t: "Ein Emirat von Chari?"
  cea.1.d: "Ben Aissa, der ehemalige Askari-Befehlshaber von Bangui, hat nach dem Zusammenbruch der Befehlskette die Kontrolle über die Stadt vollständig an sich gerissen. Er und seine marokkanischen Askari werden von deutschen und muslimischen Kräften in der Stadt unterstützt, und die Ernennung von Binyamin zum Emir von Ubanga Shari bedeutet nichts anderes, als dass vollendete Tatsachen geschaffen werden."

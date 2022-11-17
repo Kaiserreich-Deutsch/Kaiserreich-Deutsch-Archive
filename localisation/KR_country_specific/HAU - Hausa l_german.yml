@@ -1,6 +1,40 @@
 ﻿l_german:
 ### Übersetzt von Proho  ###
-### Ideas ###
+### Country Names ###
+ HAU: "Hausaland"
+ HAU_ADJ: "Hausa"
+ HAU_DEF: "Hausaland"
+
+ HAU_totalist: "Kombinierte Hausa-Kommunen"
+ HAU_totalist_ADJ: "Hausa"
+ HAU_totalist_DEF: "die Kombinierte Hausa-Kommunen"
+ HAU_syndicalist: "Kombinierte Hausa-Kommunen"
+ HAU_syndicalist_ADJ: "Hausa"
+ HAU_syndicalist_DEF: "die Kombinierte Hausa-Kommunen"
+ HAU_radical_socialist: "Kombinierte Hausa-Kommunen"
+ HAU_radical_socialist_ADJ: "Hausa"
+ HAU_radical_socialist_DEF: "die Kombinierte Hausa-Kommunen"
+ HAU_social_democrat: "Hausa Föderation"
+ HAU_social_democrat_ADJ: "Hausa"
+ HAU_social_democrat_DEF: "die Hausa Föderation"
+ HAU_social_liberal: "Hausa Föderation"
+ HAU_social_liberal_ADJ: "Hausa"
+ HAU_social_liberal_DEF: "die Hausa Föderation"
+ HAU_market_liberal: "Hausa Föderation"
+ HAU_market_liberal_ADJ: "Hausa"
+ HAU_market_liberal_DEF: "die Hausa Föderation"
+ HAU_social_conservative: "Hausa Föderation"
+ HAU_social_conservative_ADJ: "Hausa"
+ HAU_social_conservative_DEF: "die Hausa Föderation"
+ HAU_national_populist: "Sokoto Kalifat"
+ HAU_national_populist_ADJ: "Sokot"
+ HAU_national_populist_DEF: "die Sokoto Kalifat"
+
+### Characters ###
+ HAU_Malam_Jafar_ibn_Ishaq: "Malam Jafar ibn Ishaq"
+ HAU_Siddiq_Abubakar_III: "Siddiq Abubakar III"
+
+### Parties ###
 HAU_social_democrat_party: "JS"
 HAU_social_democrat_party_long: "Jam'iyyar Sadaka (Wohltätigkeitspartei)"
 HAU_social_conservative_party: "JM"
@@ -21,4 +55,3 @@ HAU_syndicalist_party: "JJ"
 HAU_syndicalist_party_long: "Jam'iyyar Juyi(Revolutionäre Partei)"
 HAU_totalist_party: "JK"
 HAU_totalist_party_long: "Jam'iyyar Kwaminis(Kommunistische Partei)"
-

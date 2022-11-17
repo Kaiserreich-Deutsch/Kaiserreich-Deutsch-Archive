@@ -292,13 +292,6 @@ delhi.7.d: "Der Imperial Durbar, der zuletzt 1911 zu Ehren des verstorbenen Geor
 delhi.7.d.nowar: "Der Imperial Durbar, der zuletzt 1911 zu Ehren des verstorbenen Georg V. stattfand, war eine Massenveranstaltung zur Krönung eines neuen britischen Monarchen sowie ein Moment für wichtige staatsrechtliche Bekanntmachungen. Viele erwarten, dass die Macht des neuen Monarchen, [CAN_king_first_name], durch eine ermächtigte Legislative weiter geschwächt wird. Er wird jedoch immer noch als verbindendes Element zwischen den verschiedenen ethnischen, kulturellen und religiösen Gruppen des Subkontinents gesehen."
 delhi.7.a: "Hoch lebe [CAN_king_full_name] und sein Vizekönig von Indien, Maharaja Ganga Singh!"
 
-delhi.8.t: "1936 Dominion Wahlen"
-delhi.8.d: "Jetzt, da Afghanistan besiegt und das Land gesichert ist, hat [CAN_king_first_name] beschlossen, Wahlen abzuhalten. Vier große Parteien konkurrieren um die Stimmen des Volkes. Die Indische Liberale Partei unter V. S. Srinivvasa Sastri, die sozialliberale Swaraj-Partei unter Narasimha Kelkar, die sozialdemokratische All-India Home Rule Party unter Muhammad Ali Jinnah und schließlich die eher konservative Unionistische Partei unter Sikander Hayat Khan."
-delhi.8.a: "Die Indische Liberale Partei gewinnt!"
-delhi.8.b: "Die Swaraj-Partei dominiert an der Wahlurne!"
-delhi.8.c: "Jinnahs Linke siegen bei den Wahlen!"
-delhi.8.e: "Die Unionisten bleiben an der Macht!"
-
 delhi.9.t: "1936 Dominion Wahlen"
 delhi.9.d: "Nun, da Afghanistan besiegt und das Land gesichert ist, hat der Vizekönig [ROOT.GetLeader] beschlossen, Wahlen abzuhalten. Vier große Parteien konkurrieren um die Stimmen des Volkes. Die Indische Liberale Partei unter V. S. Srinivvasa Sastri, die sozialliberale Swaraj-Partei unter Narasimha Kelkar, die sozialdemokratische All-India Home Rule Party unter Muhammad Ali Jinnah und schließlich die eher konservative Unionistische Partei unter Sikander Hayat Khan."
 delhi.9.a: "Die Indische Liberale Partei gewinnt!"
@@ -776,3 +769,7 @@ RAJ_hardit_malik: "Hardit Malik"
 RAJ_cecil_bouchier: "Cecil Bouchier"
 RAJ_mehar_singh: "Mehar Singh"
 RAJ_indra_lal_roy: "Indra Lal Roy"
+
+### Traits ###
+RAJ_british_commander: "Britischer Kommandeur"
+RAJ_british_commander_desc: "§LDieser Anführer ist ein britischer Offizier und wird uns nur so lange dienen, wie wir der Entente treu bleiben.§!"

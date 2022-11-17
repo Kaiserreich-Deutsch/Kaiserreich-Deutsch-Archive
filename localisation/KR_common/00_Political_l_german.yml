@@ -1,8 +1,8 @@
 ﻿l_german:
 ### Übersetzt von Proho ###
 ### Opening Event ###
-kr.political.1.t: "Kaiserreich Beta 0.22.4"
-kr.political.1.d: "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.22.4 für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\n\nDiese Mod wurde unter der Annahme entwickelt, dass der Spieler alle möglichen Staaten während der Friedenskonferenzen annektiert, also stellen Sie bitte sicher, dass Sie das tun.\n\nDie Häufigkeit der Nachrichtenereignisse und das Namenssystem für Staaten und Siegpunkte können in einem Menü eingestellt werden, das durch Anklicken des Symbols, das das Menü der Erfolge oben rechts ersetzt, aufgerufen wird.\n\nDenkt daran, dass sich diese Mod noch in der Beta-Phase befindet, so dass Bugs und Abstürze leider möglich sind. Wenn ihr auf Probleme stoßt, ist es eine große Hilfe, sie auf unserem GitHub Issue Tracker zu melden, damit sie schneller behoben werden.\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
+kr.political.1.t: "Kaiserreich Beta 0.23"
+kr.political.1.d: "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.23 für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\n\nDiese Mod wurde unter der Annahme entwickelt, dass der Spieler alle möglichen Staaten während der Friedenskonferenzen annektiert, also stellen Sie bitte sicher, dass Sie das tun.\n\nDie Häufigkeit der Nachrichtenereignisse und das Namenssystem für Staaten und Siegpunkte können in einem Menü eingestellt werden, das durch Anklicken des Symbols, das das Menü der Erfolge oben rechts ersetzt, aufgerufen wird.\n\nDenkt daran, dass sich diese Mod noch in der Beta-Phase befindet, so dass Bugs und Abstürze leider möglich sind. Wenn ihr auf Probleme stoßt, ist es eine große Hilfe, sie auf unserem GitHub Issue Tracker zu melden, damit sie schneller behoben werden.\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
 kr.political.1.a: "Da bin ich sicher!"
 
 ### Generic Faction Joining ###
@@ -162,7 +162,7 @@ unit_limit_desc_fake_intel: "(§HGefälschte Intel-Divisionen§! nicht auf die D
 
 unit_limit_desc_above_limit: "\n\n--------------\n\n§RWir haben derzeit unsere Kapazitäten überschritten, und die einzige Möglichkeit, den Stress für unser Land zu verringern, besteht darin, einige unserer Divisionen aufzulösen.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]"
 
- unit_limit_civil_war_desc: "\n\nIn einem §Bürgerkrieg§! werden auch die feindlichen Staaten zu unseren Grenzen gezählt und unsere zu ihren."
+ unit_limit_civil_war_desc: "\n\nIn §HBürgerkriegen§! werden die Basiswerte aus der Summe aller Staaten berechnet, die alle Teilnehmer besitzen."
 unit_limit_noncore_population_desc: "\n      (§H2%§! von Nicht-Kernstaaten: [?non_core_base|H1])"
  unit_limit_subject_population_bonus_desc: "\n      ([?subject_base_units|H1] von §HSubjects§!)"
  unit_limit_subject_state_bonus_desc: "\n      ([?subject_states|H1] von §HSubjects§!)"

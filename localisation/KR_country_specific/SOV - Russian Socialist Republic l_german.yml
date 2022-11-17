@@ -271,11 +271,9 @@ russoc.101.a: "Eine schlechte Entscheidung ihrerseits."
 
 russoc.102.t: "Konflikt in der Partei"
 russoc.102.d: "Die Partei ist inzwischen in drei Fraktionen gespalten, eine unter der Führung von Bucharin und Rykow, eine unter der von Kollontai und Schljapnikow und eine unter der von Radek. Die erste setzt sich für einen Sozialismus im Schneckentempo ein, bei dem eine vorsichtige Industrialisierung den Aufbau einer massiven Staatsbürokratie verhindert, die Smytschka um jeden Preis bewahrt und die allgemeine Kluft zwischen Stadt und Land überbrückt wird.\n\nDie syndikalistische Fraktion setzt sich für eine von den Gewerkschaften verwaltete Wirtschaft ein, da sie darin die beste Möglichkeit sieht, den Arbeitnehmern eine Stimme in der Wirtschaft und der Nation zu geben. Sie sind auch sehr gegen den wahrgenommenen Einfluss der Bauern und wollen daher unbedingt die Smytschka auflösen, um die weitere Arbeiterisierung der Partei zu unterstützen. Schließlich unterstützt die von Radek geführte Fraktion die Idee der primitiven sozialistischen Akkumulation - d.h. den Mehrwert der Bauern abzuschöpfen und ihn für die Entwicklung der Produktivkräfte der Nation zu verwenden, um Russland in einen für den Sozialismus bereiten Zustand zu überführen - was ihrer Meinung nach am besten durch Fünfjahrespläne erreicht werden kann."
-russoc.102.a: "Rykovs Führung wird fortgesetzt."
-russoc.102.b: "Bucharins Unterstützer gewinnen den Tag."
-russoc.102.c: "Schljapnikow wird Russland nach vorne führen."
-russoc.102.e: "Kollontai setzt sich als Sieger durch."
-russoc.102.f: "Radek erringt einen Überraschungssieg."
+russoc.102.a: "Die sozialistische Front wird fortgesetzt."
+russoc.102.b: "Anhänger des Syndikalismus siegen."
+russoc.102.c: "Radek erringt einen Überraschungssieg."
 
 russoc.103.t: "Die östliche Bedrohung"
 russoc.103.d: "Trotz ihrer größten Bemühungen und unserer großzügigen Unterstützung ist die republikanische Regierung Russlands angesichts des Ansturms der sozialistischen Kräfte zusammengebrochen. Das ist nichts weniger als eine Katastrophe - die neu ermächtigten russischen Sozialisten werden sich mit ziemlicher Sicherheit mit [FRA.GetNameDef] und der Dritten Internationale verbünden und das gefürchtete Schreckgespenst eines weiteren Zweifrontenkrieges wieder aufleben lassen. Allerdings wird [SOV.GetNameDef] Zeit brauchen, um sich von den Verwüstungen des Bürgerkriegs zu erholen, eine Zeit, die wir nutzen müssen, um unseren Schutz auf alle Länder auszudehnen, die durch das neue Regime gefährdet sind.\n\nPolen, Finnland und der Kaukasus stehen alle ungeschützt da - wir müssen alles in unserer Macht Stehende tun, um sie zu schützen, damit sie nicht an die ankommenden Russen fallen."
@@ -362,6 +360,16 @@ russoc.122.t: "[From.GetNameDefCap] bittet um Hilfe"
 russoc.122.d: "[From.GetAdjective] diplomats have approached us discreetly, asking us to join their wars in the name of shared struggle for the liberation of mankind. Given our close relations with this, such call is hardly unexpected. Still, we aren't bound to join their conflict - but such move would be hard to justify, given our aligned goals."
 russoc.122.a: "Und [ROOT.GetNonIdeologyName] qird antworten!" #LOTR
 russoc.122.b: "Sie können selbst damit umgehen."
+
+russoc.123.t: "Die Wahl eines Paares"
+russoc.123.d: "Das Paar vertritt alle russischen Gewerkschafter. Wenn ihre Partei gewählt wird, werden sie die Gewerkschaftsbewegung in Russland einführen. Doch wer von ihnen soll die Nation vertreten?"
+russoc.123.a: "Schljapnikow wird die Bewegung vertreten."
+russoc.123.b: "Kollontai scheint die beste Wahl zu sein."
+
+russoc.124.t: "Sozialistische Vorwahlen"
+russoc.124.d: "Die sozialistische Partei Russlands muss heute ihren Vertreter wählen, der das Land bei den kommenden Wahlen führen soll. Auf der einen Seite Rykow, der Gemäßigte, der ein Bündnis mit den Demokraten eingehen will. Auf der anderen Seite Bucharin, der die Linie von Lenin fortsetzen will."
+russoc.124.a: "Rykov ist die klügste Wahl."
+russoc.124.b: "Bucharine wird das Erbe der Bolschewiki weiterführen."
 
 ### Traits ###
 INT_russian_exile_trait: "Russisches Exil"

@@ -48,25 +48,7 @@
  BRT_radical_socialist: "Kommune Barotseland"
  BRT_radical_socialist_ADJ: "Barotsisch"
  BRT_radical_socialist_DEF: "die Kommune Barotseland"
-
- CAR: "Ubangi-Schari"
- CAR_ADJ: "Ubangisch"
- CAR_DEF: "Ubangi-Schari"
  
- CAR_totalist: "Bangui-Republik"
- CAR_totalist_ADJ: "Banguisch"
- CAR_totalist_DEF: "die Bangui-Republik"
- CAR_syndicalist: "Bangui-Republik"
- CAR_syndicalist_ADJ: "Banguisch"
- CAR_syndicalist_DEF: "die Bangui-Republik"
- CAR_radical_socialist: "Bangui-Republik"
- CAR_radical_socialist_ADJ: "Banguisch"
- CAR_radical_socialist_DEF: "die Bangui-Republik"
- 
- CAR_EMR: "Dar-al-Kuti"
- CAR_EMR_ADJ: "Dar-al-Kutisch"
- CAR_EMR_DEF: "das Sultanat Dar-al-Kuti"
-
  CHA: "Tschad"
  CHA_ADJ: "Tschadisch"
  CHA_DEF: "Tschad"
@@ -158,35 +140,6 @@
  GNA_national_populist_ADJ: "Dschalonisch"
  GNA_national_populist_DEF: "Futa Dschalon"
 
- HAU: "Hausaland"
- HAU_ADJ: "Hausa"
- HAU_DEF: "Hausaland"
-
- HAU_totalist: "Vereinigte Hausakommunen"
- HAU_totalist_ADJ: "Hausa"
- HAU_totalist_DEF: "die Vereinigten Hausakommunen"
- HAU_syndicalist: "Vereinigte Hausakommunen"
- HAU_syndicalist_ADJ: "Hausa"
- HAU_syndicalist_DEF: "die Vereinigten Hausakommunen"
- HAU_radical_socialist: "Vereinigte Hausakommunen"
- HAU_radical_socialist_ADJ: "Hausa"
- HAU_radical_socialist_DEF: "die Vereinigten Hausakommunen"
- HAU_social_democrat: "Hausa-Föderation"
- HAU_social_democrat_ADJ: "Hausa"
- HAU_social_democrat_DEF: "die Hausa-Föderation"
- HAU_social_liberal: "Hausa-Föderation"
- HAU_social_liberal_ADJ: "Hausa"
- HAU_social_liberal_DEF: "die Hausa-Föderation"
- HAU_market_liberal: "Hausa-Föderation"
- HAU_market_liberal_ADJ: "Hausa"
- HAU_market_liberal_DEF: "die Hausa-Föderation"
- HAU_social_conservative: "Hausa-Föderation"
- HAU_social_conservative_ADJ: "Hausa"
- HAU_social_conservative_DEF: "die Hausa-Föderation"
- HAU_national_populist: "Kalifat von Sokoto"
- HAU_national_populist_ADJ: "Sokotisch"
- HAU_national_populist_DEF: "das Kalifat von Sokoto"
-
  IVO: "Elfenbeinküste"
  IVO_ADJ: "Ivorisch"
  IVO_DEF: "die Elfenbeinküste"
@@ -268,32 +221,6 @@
  KEN_KIK: "Kikuyuland"
  KEN_KIK_ADJ: "Kikuisch"
  KEN_KIK_DEF: "Kikuyuland"
-
- KTG: "Katanga"
- KTG_ADJ: "Katangesisch"
- KTG_DEF: "Katanga"
-
- KTG_totalist: "Syndikale Republik Katanga"
- KTG_totalist_ADJ: "Katangesisch"
- KTG_totalist_DEF: "die Syndikale Republik Katanga"
- KTG_syndicalist: "Syndikale Republik Katanga"
- KTG_syndicalist_ADJ: "Katangesisch"
- KTG_syndicalist_DEF: "die Syndikale Republik Katanga"
- KTG_radical_socialist: "Syndikale Republik Katanga"
- KTG_radical_socialist_ADJ: "Katangesisch"
- KTG_radical_socialist_DEF: "die Syndikale Republik Katanga"
- KTG_social_conservative: "Garanganze"
- KTG_social_conservative_ADJ: "Katangesisch"
- KTG_social_conservative_DEF: "Garanganze"
- KTG_authoritarian_democrat: "Garanganze"
- KTG_authoritarian_democrat_ADJ: "Katangesisch"
- KTG_authoritarian_democrat_DEF: "Garanganze"
- KTG_paternal_autocrat: "Garanganze"
- KTG_paternal_autocrat_ADJ: "Katangesisch"
- KTG_paternal_autocrat_DEF: "Garanganze"
- KTG_national_populist: "Lundaer Staat"
- KTG_national_populist_ADJ: "Lunda"
- KTG_national_populist_DEF: "der Lundaer Staat"
 
  MAD: "Madagaskar"
  MAD_ADJ: "Madegassisch"
@@ -452,23 +379,6 @@
  UGA_ADJ: "Ugandisch"
  UGA_DEF: "Uganda"
 
- VOL: "Obervolta"
- VOL_ADJ: "Voltanisch"
- VOL_DEF: "Obervolta"
-
- VOL_totalist: "Voltanische Union"
- VOL_totalist_ADJ: "Voltanisch"
- VOL_totalist_DEF: "die Voltanische Union"
- VOL_syndicalist: "Voltanische Union"
- VOL_syndicalist_ADJ: "Voltanisch"
- VOL_syndicalist_DEF: "die Voltanische Union"
- VOL_radical_socialist: "Voltanische Union"
- VOL_radical_socialist_ADJ: "Voltanisch"
- VOL_radical_socialist_DEF: "die Voltanische Union"
- VOL_social_democrat: "Voltanische Union"
- VOL_social_democrat_ADJ: "Voltanisch"
- VOL_social_democrat_DEF: "die Voltanische Union"
-
  ZAM: "Sambesia"
  ZAM_ADJ: "Sambesisch"
  ZAM_DEF: "Sambesia"
@@ -488,11 +398,6 @@
 
 ### Characters ###
  BRT_Yeta_III: "Yeta III"
-
-### Characters ###
- CAR_Barthelemy_Boganda: "Barthélemy Boganda"
- CAR_Ben_Aissa: "Ben Aissa"
- CAR_Binyamin_I: "Binyamin I"
 
 ### Characters ###
  CHA_ahmed_koulamallah: "Ahmed Koulamallah"
@@ -518,13 +423,6 @@
  CVG_martinho_nobre_de_melo: "Martinho Nobre de Melo"
 
 ### Characters ###
- DAH_Agoli_Agbo: "Agoli-Agbo"
- DAH_Basile_Adjou_Moumouni: "Basile Adjou Moumouni"
- DAH_Christophe_Soglo: "Christophe Soglo"
- DAH_Justin_Ahomadegbe_Tometin: "Justin Ahomadégbé-Tomêtin"
- DAH_Sourou_Migan_M_J_Apithy: "Sourou-Migan M.J. Apithy"
-
-### Characters ###
  GHA_kojo_botsio: "Kojo Botsio"
  GHA_kwame_nkrumah: "Kwame Nkrumah"
  GHA_kofi_abrefa_busia: "Kofi Abrefa Busia"
@@ -543,10 +441,6 @@
  GNA_reymond_sarif_easmon: "Reymond Sarif Easmon"
 
 ### Characters ###
- HAU_Malam_Jafar_ibn_Ishaq: "Malam Jafar ibn Ishaq"
- HAU_Siddiq_Abubakar_III: "Siddiq Abubakar III"
-
-### Characters ###
  IVO_Felix_Houphouet_Boigny: "Félix Houphouët-Boigny"
 
 ### Characters ###
@@ -559,12 +453,6 @@
 
 ### Characters ###
  KIV_Louis_de_Gonzague_Bobozo: "Louis de Gonzague Bobozo"
-
-### Characters ###
- KTG_Kitanika_Mabumba_Mushalila: "Kitanika Mabumba Mushalila"
- KTG_Pierre_Ryckmans: "Pierre Ryckmans"
- KTG_Charles_Tombeur: "Charles Tombeur"
- KTG_Armand_Huyghe: "Armand Huyghé"
 
 ### Characters ###
  MLI_modibo_keita: "Modibo Keïta"
@@ -624,20 +512,6 @@
  UGA_Mutesa_II: "Mutesa II"
  UGA_Ignatius_K_Musaazi: "Ignatius K. Musaazi"
  UGA_Andrew_Cohen: "Andrew Cohen"
-
-### Characters ###
- VOL_christophe_kalenzaga: "Christophe Kalenzaga"
- VOL_henri_guissou: "Henri Guissou"
- VOL_joseph_ouedraogo: "Joseph Ouédraogo"
- VOL_nazi_boni: "Nazi Boni"
- VOL_dim_delobsom: "Antoine Augustin Dim Delobsom"
- VOL_phillipe_kabore: "Phillippe Zinda Kabore"
- VOL_mogho_naaba: "Mogho Naaba Kom II"
- VOL_joseph_conombo: "Joseph Issoufou Conombo"
- VOL_robert_delavignette: "Robert Louis Delavignette"
-
- VOL_aboubakar_sangoule: "Aboubakar Sangoule Lamizana"
- VOL_sambo_sankara: "Sambo Joseph Sankara"
 
 ### Characters ###
  ZAM_Kanyanta: "Makumba Kanyanta"

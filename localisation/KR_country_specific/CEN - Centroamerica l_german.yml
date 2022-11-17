@@ -307,7 +307,6 @@ CENdem_Soccon_identity2: "Eine neue zentralamerikanische Identität"
 CENdem_Soccon_identity3: "Eine neue zentralamerikanische Identität"
 CENdem_Soccon_identity4: "Eine neue zentralamerikanische Identität"
 CENdem_Soccon_UFC_Purged: "UFC-Einfluss ausgerottet"
-CENdem_Soccon_american_research_dream: "Der Traum von der zentralamerikanischen Zusammenarbeit"
 CENdem_spirit_of_reunification: "Geist der Wiedervereinigung"
 
 CENdem_trade_naval_thingy: "Große Handelsmarine"
@@ -376,6 +375,8 @@ CENdem_joining_the_Entente: "Schließt sich der Entente an"
 CENdem_attack_country: "Angriff auf die Wehrlosen [From.GetName]!"
 
 ### TOOLTIPS ###
+CENdem_centralisation_idea: "§YDadurch werden andere Nationalgeister, die mit der Zentralisierung zusammenhängen, entfernt.§!"
+CENdem_taxation_idea: "§YDadurch werden andere Nationalgeister im Zusammenhang mit der Besteuerung der Industrie und der Sozialhilfe entfernt.§!"
 CEN_foreign_relations_tooltip: "Schaltet £decision_icon_small §HEntscheidungen§! frei, mit dem wir internationalen Fraktionen beitreten können."
 CEN_foreign_expansion_tooltip: "Schaltet £decision_icon_small §HEntscheidungen§! für opportunistische Expansionen frei."
 

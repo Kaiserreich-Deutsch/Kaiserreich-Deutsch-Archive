@@ -208,70 +208,9 @@ tram.132.t: "Verlegung der Hauptstadt nach [195.GetName]"
 tram.132.d: "[195.GetCapitalVictoryPointName] has been the capital of a united Russian State since 1712 when Peter The Great created it from the ground up. Our government using the city as our capital is a sign of legitimacy and will allow the public see us a the legitimate Russian State."
 tram.132.a: "Es lebe Russland, eins und unteilbar!"
 
-tram.133.t: "Was sollen wir mit der Don-Kuban-Union tun?"
-tram.133.d: "Man hat der Don-Kuban-Union lange genug erlaubt, Politik zu machen, und da unsere Position als legitime russische Regierung unbestreitbar ist, ist es an der Zeit, ihre Wiedereingliederung zu fordern."
-tram.133.a: "Fordert sie auf, sich zu ergeben!"
-
-tram.134.t: "Die Russen klopfen an"
-tram.134.d: "Die Russische Republik hat unsere sofortige Kapitulation gefordert. Wir könnten diese Forderung zwar ablehnen, aber vielleicht ist es besser, wir schließen uns der Republik an, als uns den Flammen des Krieges auszusetzen."
-tram.134.a: "Für wen halten die uns eigentlich?"
-tram.134.b: "Wir werden unser Land aufgeben."
-
-tram.135.t: "[FROM.GetNameDefCap] gibt auf"
-tram.135.d: "Die Don-Kuban-Union hat ihre Lage erkannt und ihr Land an die Republik abgetreten."
-tram.135.a: "Ruhm für Russland."
-
-tram.136.t: "Aufbruch nach Zentralasien"
-tram.136.d: "Die Alash Orda ist ein wichtiger Teil Russlands, da sie es ermöglicht, Macht in die iranische Region und den indischen Subkontinent zu projizieren. Bevor wir uns mit der Nutzung des Landes befassen können, müssen wir zunächst unseren Umzug beschließen."
-tram.136.a: "Wird Alash Orda zur Vernunft kommen?"
-
-tram.137.t: "Russland macht seinen Zug"
-tram.137.d: "Russland hat uns ein Ultimatum gestellt und unsere Kapitulation gefordert. Die meisten Beamten sind zu dem Schluss gekommen, dass die Existenz unseres Landes so gut wie beendet ist, und sind aus der Region geflohen. Wir müssen nun entscheiden, ob wir uns wehren und den Beamten das Gegenteil beweisen oder uns der Republik ergeben."
-tram.137.a: "Es gibt eine Sache, die wir tun können..."
-tram.137.b: "Dies ist das Ende der Freiheit in der Region, gebt nach."
-
-tram.138.t: "[FROM.GetNameDefCap] gibt auf"
-tram.138.d: "Die lebenswichtigen Ländereien von Alash gehören endlich uns, wir werden nun daran arbeiten, die andere Hälfte der Region zu sichern, die der Emir von Turkestan unrechtmäßig besetzt hält."
-tram.138.a: "Ruhm für Russland"
-
-tram.139.t: "Einmarsch in Weißrussland"
-tram.139.d: "Die Länder von Weißrussland sind unser rechtmäßiges Land, das uns von den Deutschen im Weltkrieg gestohlen wurde. Nun sollen sie nicht länger in der Hand des Kaisers sein, wir werden sie uns durch Diplomatie oder Gewalt nehmen."
-tram.139.a: "Sendet die Männer!"
-tram.139.b: "Verlangt das Land direkt"
-
-tram.140.t: "Russland fordert unsere Unterwerfung"
-tram.140.d: "Die neu gegründete Republik hat uns aufgefordert, ihr beizutreten. Was sagen wir zu diesem Ultimatum?"
-tram.140.a: "Wir sind Deutsche..."
-tram.140.b: "Natürlich sind wir Russen!"
-
-tram.141.t: "Weißrussland gehört uns"
-tram.141.d: "Eine weitere Region ist eine endlich unsere, unsere Republik wird bald alle ehemaligen Ländereien des Staates haben."
-tram.141.a: "Ruhm für Russland"
-
-tram.142.t: "Lösung des ukrainischen Problems"
-tram.142.d: "Die Länder der Ukraine sind unser rechtmäßiges Land, das uns nach der Oktoberrevolution weggenommen wurde. Sie sollen nicht länger in der Hand des Kaisers sein, wir werden sie uns durch Diplomatie - oder Gewalt - nehmen!"
-tram.142.a: "Sendet die Männer!"
-tram.142.b: "Verlangt das Land direktt"
-
-tram.143.t: "Russland fordert unsere Unterwerfung"
-tram.143.d: "Die neu gegründete russische Republik hat uns aufgefordert, der Republik beizutreten, was sagen wir zu diesem Ultimatum?"
-tram.143.a: "Wir werden niemals nach Russland zurückkehren!"
-tram.143.b: "Wir gehören wirklich zu Russland"
-
-tram.144.t: "Die Ukraine gehört uns"
-tram.144.d: "Eine weitere Region ist endlich die unsere, unsere Republik wird bald alle ehemaligen Ländereien des Staates besitzen"
-tram.144.a: "Ruhm für Russland"
-
 tram.145.t: "Eine sich ändernde Einstellung"
 tram.145.d: "Die meisten Menschen in Russland sind der ständigen Kriege überdrüssig und wünschen sich ein Ende der Kämpfe. Nach dem jüngsten Sieg unseres Regimes glauben viele, dass wir den Menschen, die so lange gelitten haben, Frieden und Wohlstand bringen können."
 tram.145.a: "Russland darf sich nie wieder selbst bekämpfen"
-
-tram.146.t: "Sewastapol ist russisch"
-tram.146.d: "Wir haben jetzt die Krim in der Hand, und es liegt an uns zu entscheiden, was mit der ukrainischen Marine in Sewastapol geschehen soll."
-tram.146.a: "Wir werden alle Schiffe im Hafen beschlagnahmen und umwandeln!"
-tram.146.b: "Wir werden die ukrainischen Schiffe aufrüsten."
-tram.146.c: "Verkauft die ukrainischen Flotte und baut den Hafen für zivile Zwecke um."
-tram.146.e: "Verkauft die ukrainische Flotte und behaltet das Geld."
 
 tram.1000.t: "Ein Angebot von einem alten Verbündeten?"
 tram.1000.d: "Der Teilstaat Wladiwostok hat tatsächlich gesiegt, und nun wurde eine Regierung eingesetzt, die über Russland regiert. Da wir in ihrer trostlosen Lage etwas Hilfe geleistet haben, haben sie ihre Unterstützung für die Entente angeboten."
@@ -285,12 +224,6 @@ tram.1001.a: "Wir werden die Gefallenen des ersten Weltkriegs rächen"
 tram.1002.t: "Die Entente lehnt uns ab"
 tram.1002.d: "Die Entente versteht offensichtlich nicht, was wir für ihre Kriegsanstrengungen tun könnten. Stattdessen lehnen sie uns ab, weil sie befürchten, in einen Krieg mit Deutschland hineingezogen zu werden."
 tram.1002.a: "Treulose Freunde!"
-
-tram.1004.t: "Die Russische Republik hat sich einen unserer Vasallenstaaten geschnappt"
-tram.1004.d: "Russland hat kürzlich einen zweiten Bürgerkrieg hinter sich, aus dem ausgerechnet Transamur als Sieger hervorging. Dieses Regime ist offensichtlich der Meinung, dass es, nachdem es ganz Russland erobert hat, auch Osteuropa zurückerobern kann; was sollten wir gegenüber diesen Verrätern tun?"
-tram.1004.a: "Wir können nichts dagegen tun"
-tram.1004.b: "Wir werden sie zumindest mit einem Embargo belegen!"
-tram.1004.c: "Wir können sie wieder schlagen"
 
 ### Parties ###
 TRM_totalist_party: "FETP"
@@ -556,9 +489,6 @@ TRM_Secure_Kazakhstan_desc: "Kasachstan ist groß und wohlhabend. Wenn wir erst 
 
 TRM_Secure_Turkestan: "Sichert Turkestan"
 TRM_Secure_Turkestan_desc: "Turkestan ist nicht besonders wohlhabend oder gar bevölkerungsreich. Aber schon bald wird es uns gehören, und es wird uns hervorragend als Brückenkopf zu den wohlhabenden persischen und indischen Provinzen dienen, wenn wir es brauchen."
-
-TRM_Crisis_On_The_Don: "Krise am Don"
-TRM_Crisis_On_The_Don_desc: "Die Don-Kuban-Region ist so russisch wie Russland, zumindest behauptet das unser Militär. Sie behaupten auch, dass die dort ansässigen Kosaken zwar harte Männer sind, aber nicht hart genug, um vom Pferderücken aus gegen unsere modernen, unaufhaltsamen Armeen zu kämpfen."
 
 TRM_Secure_Armenia: "Sichert Armenien"
 TRM_Secure_Armenia_desc: "Das armenische Volk teilt unseren Glauben. Daher sollten sie nur glücklich sein, zu unserer Herrschaft zurückzukehren, oder?"

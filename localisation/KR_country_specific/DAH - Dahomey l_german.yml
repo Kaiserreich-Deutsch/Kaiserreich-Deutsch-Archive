@@ -4,7 +4,29 @@
 
 Dahomeyland: "Schwerpunktbaum von Dahomey"
 
-#Focuses
+### Country Names ###
+DAH: "Dahomey"
+DAH_ADJ: "Dahomey"
+DAH_DEF: "Dahomey"
+
+DAH_totalist: "Dahomey"
+DAH_totalist_ADJ: "Dahomeyan"
+DAH_totalist_DEF: "die Volksrepublik Dahomey"
+DAH_syndicalist: "Dahomey"
+DAH_syndicalist_ADJ: "Dahomeyan"
+DAH_syndicalist_DEF: "die Volksrepublik Dahomey"
+DAH_radical_socialist: "Dahomey"
+DAH_radical_socialist_ADJ: "Dahomeyan"
+DAH_radical_socialist_DEF: "die Volksrepublik Dahomey"
+
+### Characters ###
+DAH_Agoli_Agbo: "Agoli-Agbo"
+DAH_Basile_Adjou_Moumouni: "Basile Adjou Moumouni"
+DAH_Christophe_Soglo: "Christophe Soglo"
+DAH_Justin_Ahomadegbe_Tometin: "Justin Ahomadégbé-Tomêtin"
+DAH_Sourou_Migan_M_J_Apithy: "Sourou-Migan M.J. Apithy"
+
+### Focuses ###
 DAH_our_own: "Auf eigene Faust"
 DAH_our_own_desc: "Mittelafrika ist zusammengebrochen, wahrscheinlich für immer. Aus der Asche sind viele Nationen hervorgegangen, darunter auch Dahomey. Wir sind eine neue Nation, schwach und zerbrechlich. Deshalb haben wir beschlossen, uns zum Schutz mit unseren alten Kolonialherren in Algerien zu verbünden.\nGemeinsam werden wir eine hellere Zukunft aufbauen!"
 
@@ -77,7 +99,7 @@ DAH_normal_person_unlock: "Dahomey wird ein §H$kr_autonomous_puppet$§!."
 DAH_tech: "Die Universität von Porto Novo"
 DAH_tech_desc: "Wir werden die Universität von Porto Novo gründen, um höhere Bildung nach Dahomey zu bringen und unsere Forschung und Entwicklung zu beschleunigen."
 
-#Events
+### Events ###
 dah.001.t: "Französiches Wissen"
 #Oh Great Frenchie of The Lake, what is your wisdom?:
 dah.001.d: "Die Franzosen verfügen über viel Wissen über den Aufbau von Staaten, selbst in ihrem Exilstaat. Vielleicht sollten wir sie bitten, etwas von diesem Wissen weiterzugeben, damit wir ein stärkerer Verbündeter werden können?"
@@ -104,7 +126,7 @@ dah.007.d: "Wir haben eine Nachricht von [DAH_gun_target.GetNameDef] über die W
 dah.007.a: "Sie werden sie an uns verkaufen!"
 dah.007.b: "Verflucht, sie haben uns abgelehnt!"
 
-#Ideas
+### Ideas ###
 DAH_gold_mining: "Goldbergbau"
 DAH_toll: "Mautstraßen"
 #DAH_agaja: "Agaja's Dowry" already defined above as an idea
@@ -116,21 +138,6 @@ DAH_french_food: "Französisches Agrarwissen"
 DAH_french_war: "Französisches Militärwissen"
 DAH_french_civil: "Französisches Zivilwissen"
 
-#Decisions
+### Decisions ###
 DAH_General: "Dahomey's Entscheidungen"
 DAH_Import_Arms: "Import ausländischer Waffen"
-
-### Country Names ###
-DAH: "Dahomey"
-DAH_ADJ: "Dahomey"
-DAH_DEF: "Dahomey"
-
-DAH_totalist: "Dahomey"
-DAH_totalist_ADJ: "Dahomeyan"
-DAH_totalist_DEF: "die Volksrepublik Dahomey"
-DAH_syndicalist: "Dahomey"
-DAH_syndicalist_ADJ: "Dahomeyan"
-DAH_syndicalist_DEF: "die Volksrepublik Dahomey"
-DAH_radical_socialist: "Dahomey"
-DAH_radical_socialist_ADJ: "Dahomeyan"
-DAH_radical_socialist_DEF: "die Volksrepublik Dahomey"
