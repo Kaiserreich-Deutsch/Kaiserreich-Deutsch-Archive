@@ -135,6 +135,7 @@ BEL_Diamant_Sector: "Diamant Sektor"
 BEL_Solvay_Institute_idea: "Solvay Institut"
 BEL_Antwerp_Harbor_Blockaded: "Blockade des Antwerpener Hafens"
 BEL_German_Officers: "Deutsche Beamte"
+ BEL_State_Funded_Research: "Staatlich geförderte Forschung"
 BEL_Solvay_Institute2: "Solvay Institut"
 BEL_Small_Strike: "Streik"
 BEL_Royal_Naval_Academy: "Königliche Marine Akademie"
@@ -555,7 +556,7 @@ BEL_Arlon: "Vertrag von Arel angenommen"
 
 ### Traits ###
 Protest: "Großer Protest"
-Soldier_King: "Soldatenkönig"
+ BEL_soldier_king: "Soldatenkönig"
 
 ### Decisions ###
 BEL_Netherlands_decisions: "Politik gegenüber den Niederlanden"

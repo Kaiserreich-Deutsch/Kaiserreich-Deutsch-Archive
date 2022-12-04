@@ -114,8 +114,8 @@
  Hetman_army_desc: "Der von Deutschland unterstützte Hetman der Ukraine, General Pavlo Skoropadskyi, untergrub den österreichischen Einfluss in der Ukraine nach den Neuverhandlungen des österreichischen Ausgleichs von 1927. Der politische Streit zwischen dem vom Hetman dominierten Militär und der vom König geleiteten ukrainischen Rada hat das ukrainische Militär in ein solches Chaos gestürzt, dass selbst eine persönliche Versöhnung zwischen Hetman und Rada unzureichend erscheint; das ukrainische Militär ist dringend reformbedürftig."
  UKR_Reformed_Military: "Reformiertes Militär"
  UKR_Reformed_Military_desc: ""
- UKR_Lessons_of_the_Weltkrieg: "Lehren aus dem Weltkrieg"
- UKR_Lessons_of_the_Weltkrieg_desc: ""
+ UKR_lessons_of_the_weltkrieg_idea: "Lehren aus dem Weltkrieg"
+ UKR_lessons_of_the_weltkrieg_idea_desc: "$UKR_lessons_of_the_weltkrieg_focus_desc$"
  UKR_black_monday: "Schwarzer Montag"
  UKR_black_monday_desc: "Die Abhängigkeit der Ukraine von Deutschland bei den Agrarexporten machte das Land nach der Krise am Schwarzen Montag äußerst anfällig für Störungen. Aufgrund der gesunkenen deutschen Nachfrage nach ukrainischen Exporten und eines deutlichen Rückgangs der deutschen Investitionen stagniert die ukrainische Wirtschaft."
  increase_taxes: "Steuererhöhungen"
@@ -647,8 +647,8 @@
  UKR_deploy_new_tanks: "Einsatz neuer Panzerprototypen"
  UKR_deploy_new_tanks_desc: "In der Panzerabteilung (die in der Lokomotivfabrik in Charkiw angesiedelt ist) experimentieren wir nun schon seit fast einem Jahrzehnt, und es scheint, dass unsere Bemühungen unter der Leitung von Unteroffizier Ivan Cherniakhovskyi erste Früchte tragen. Wir sollten Maßnahmen ergreifen, um unsere Prototypen im Feld einzusetzen."
 
- UKR_lessons_of_the_weltkrieg: "Lehren aus dem Weltkrieg"
- UKR_lessons_of_the_weltkrieg_desc: "Ermutigt durch die zunehmenden globalen Spannungen hat der Oberbefehlshaber zur Festigung eines angemessenen Kurses für die Armee aufgerufen, der auf den Erfahrungen des Weltkriegs beruht. Für diese Aufgabe hat er sich an das Hohe Offizierskorps gewandt, das sich aus Spitzenoffizieren der ehemaligen kaiserlichen russischen Armee zusammensetzt - Mykhailo Omelianovych-Pavlenko, Oleksandr Hrekiv und Kostiantyn Prisovskyi."
+ UKR_lessons_of_the_weltkrieg_focus: "Lehren aus dem Weltkrieg"
+ UKR_lessons_of_the_weltkrieg_focus_desc: "Ermutigt durch die zunehmenden globalen Spannungen hat der Oberbefehlshaber zur Festigung eines angemessenen Kurses für die Armee aufgerufen, der auf den Erfahrungen des Weltkriegs beruht. Für diese Aufgabe hat er sich an das Hohe Offizierskorps gewandt, das sich aus Spitzenoffizieren der ehemaligen kaiserlichen russischen Armee zusammensetzt - Mykhailo Omelianovych-Pavlenko, Oleksandr Hrekiv und Kostiantyn Prisovskyi."
  UKR_refurbish_odessa_military_academy: "Modernisierung der Odesaer Militärakademie"
  UKR_refurbish_odessa_military_academy_desc: "Als eine der ältesten Militärakademien im ehemaligen Russischen Reich ist die Militärakademie von Odesa eine erstklassige Ausbildungsstätte für die Kriegskunst. Dennoch wurde die Akademie seit unserer Unabhängigkeit nie angemessen beaufsichtigt. Es ist an der Zeit, das zu ändern."
  UKR_adopt_new_infantry_designs: "Neue Infanteriedesigns einführen"
@@ -699,7 +699,7 @@
  UKR_tank_div_unit_tooltip: "\n§GErhalte §YPanzerdivision§! Vorlage mit der folgenden Zusammensetzung:\n - 4 £GFX_unit_light_armor_icon_small Bataillone;\n - 4 £GFX_unit_motorized_icon_small Bataillone;\n - £GFX_unit_mot_recon_icon_small  Unterstützungs-Kompanie;\n - £GFX_unit_engineer_icon_small Unterstützungs-Kompanie.§!\n"
 
 ### Characters ###
- UKR_yurii_lapchynsky: "Yurii Lapchynsky"
+ UKR_vlas_chubar: "Vlas Chubar"
  UKR_oleksander_shumsky: "Oleksander Shumsky"
  UKR_volodymyr_vynnychenko: "Volodymyr Vynnychenko"
  UKR_symon_petliura: "Symon Petliura"

@@ -1,0 +1,40 @@
+﻿l_german:
+
+##Übersetzt von Thylon##
+
+### Country Names ###
+PRE: "Preußen"
+PRE_ADJ: "Preußisch"
+PRE_DEF: "Preußen"
+
+PRE_totalist: "Ostdeutsche Union"
+PRE_totalist_ADJ: "Ostdeutsch"
+PRE_totalist_DEF: "die Ostdeutsche Union"
+PRE_syndicalist: "Ostdeutsche Union"
+PRE_syndicalist_ADJ: "Ostdeutsch"
+PRE_syndicalist_DEF: "die Ostdeutsche Union"
+PRE_radical_socialist: "Ostdeutsche Union"
+PRE_radical_socialist_ADJ: "Ostdeutsch"
+PRE_radical_socialist_DEF: "die Ostdeutsche Union"
+
+### Parties ###
+PRE_totalist_party: "KAPD"
+PRE_totalist_party_long: "Kommunistische Arbeiter-Partei Deutschlands - Ostdeutsche"
+PRE_syndicalist_party: "KAPD"
+PRE_syndicalist_party_long: "Kommunistische Arbeiter-Partei Deutschlands - Ostdeutsche"
+PRE_radical_socialist_party: "KAPD"
+PRE_radical_socialist_party_long: "Kommunistische Arbeiter-Partei Deutschlands - Ostdeutsche"
+PRE_social_democrat_party: "SPD"
+PRE_social_democrat_party_long: "Sozialdemokratische Partei Deutschlands - Ostdeutsche"
+PRE_social_liberal_party: "Grüne Front"
+PRE_social_liberal_party_long: "Grüne Front"
+PRE_market_liberal_party: "NLP"
+PRE_market_liberal_party_long: "Nationalliberale Partei"
+PRE_social_conservative_party: "KP"
+PRE_social_conservative_party_long: "Konservative Partei"
+PRE_authoritarian_democrat_party: "NFGS"
+PRE_authoritarian_democrat_party_long: "Nationale Front deutscher Stände"
+PRE_paternal_autocrat_party: "Militärregierung"
+PRE_paternal_autocrat_party_long: "Militärregierung"
+PRE_national_populist_party: "DvP"
+PRE_national_populist_party_long: "Deutschvölkische Partei"

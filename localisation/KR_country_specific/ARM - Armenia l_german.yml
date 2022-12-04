@@ -662,7 +662,7 @@
  arm.51.a: "Oh, oh..."
 
  arm.55.t: "[ARM.GetNameDefCap] Antrag auf Beitritt zum Reichspakt"
- arm.55.d: "Mit der Aufnahme von [TUR.GetNameDef] in den Reichspakt scheint [ARM.GetNameDef] eine Gelegenheit zu wittern, sich aus der politischen Einsamkeit zu befreien, unter der es seit seiner Unabhängigkeitserklärung gelitten hat. In der Hoffnung, neue Verbündete zu finden, die die armenische Nation vor jedem Land schützen können, das ihre Souveränität bedrohen könnte, hat sich [ARM.GetLeader] an unsere Regierung gewandt und darum gebeten, dass Armenien dem Reichspakt beitreten darf. Obwohl die Annahme der armenischen Bitte eine Belastung sein könnte, da sich die Nation gerade erst von einem blutigen Krieg erholt hat und wahrscheinlich etwas mehr Zeit für den Wiederaufbau gebrauchen könnte, würde es auch den russischen Einfluss im Kaukasus weiter untergraben, was wir einfach nicht ablehnen können, oder?"
+ arm.55.d: "In der Hoffnung, neue Verbündete zu finden, die die armenische Nation vor jedem Land schützen können, das ihre Souveränität bedrohen könnte, hat sich [ARM.GetLeader] an unsere Regierung gewandt und darum gebeten, dass Armenien dem Reichspakt beitreten darf. Obwohl die Annahme der armenischen Bitte eine Belastung sein könnte, da sich die Nation gerade erst von einem blutigen Krieg erholt hat und wahrscheinlich etwas mehr Zeit für den Wiederaufbau gebrauchen könnte, würde es auch den russischen Einfluss im Kaukasus weiter untergraben, was wir einfach nicht ablehnen können, oder?"
  arm.55.a: "Sie sind mehr als willkommen!"
  arm.55.b: "Brauchen wir sie wirklich?"
 
@@ -900,4 +900,5 @@
  ARM_hakub_bagratuni: "Hakub Bagratuni"
  ARM_sargis_mehrabyan: "Sargis Mehrabyan"
  ARM_smbat_boroyan: "Smbat Boroyan"
+ ARM_elisaveta_shahkhatuni: "Elizaveta Shahkhatuni"
  ARM_fedayi_council: "Fedayi Council"

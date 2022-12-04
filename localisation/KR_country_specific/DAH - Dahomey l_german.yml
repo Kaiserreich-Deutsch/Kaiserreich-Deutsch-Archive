@@ -129,14 +129,14 @@ dah.007.b: "Verflucht, sie haben uns abgelehnt!"
 ### Ideas ###
 DAH_gold_mining: "Goldbergbau"
 DAH_toll: "Mautstraßen"
-#DAH_agaja: "Agaja's Dowry" already defined above as an idea
-DAH_leading_leader: "Dahomey's Führungstraditionen"
 DAH_amazon_idea: "Die Ahosi"
-#DAH_salvage: "German Salvage" already defined above as an idea
 DAH_french_prod_id: "Französisches Ingenieurwissen"
 DAH_french_food: "Französisches Agrarwissen"
 DAH_french_war: "Französisches Militärwissen"
 DAH_french_civil: "Französisches Zivilwissen"
+
+### Traits ###
+DAH_leadership_traditions: "Traditionelle Führung"
 
 ### Decisions ###
 DAH_General: "Dahomey's Entscheidungen"

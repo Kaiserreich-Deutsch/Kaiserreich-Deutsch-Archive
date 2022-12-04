@@ -383,6 +383,10 @@
  ZAM_ADJ: "Sambesisch"
  ZAM_DEF: "Sambesia"
 
+ ZAM_bemba: "Bembaland"
+ ZAM_bemba_ADJ: "Bembisch"
+ ZAM_bemba_DEF: "Bembaland"
+ 
  ZZB: "Sansibar"
  ZZB_ADJ: "Sansibarisch"
  ZZB_DEF: "Sansibar"
@@ -674,7 +678,9 @@
  AFR_join_iedc_POR: "Der IEDC beitreten"
  AFR_join_iedc_POR_desc: "Ohne unsere portugiesischen Freunde hätte unsere Nation wohl kaum den Wohlstand erfahren, mit dem sie heute lebt. Aufgrund unserer fehlenden industriellen Kapazitäten ist es unwahrscheinlich, dass wir diese Schuld bald zurückzahlen können. Wir können jedoch offiziell ihrem wirtschaftlichen Bündnis, der IEDC, beitreten."
  AFR_join_iedc_CAN: "Der IEDC beitreten"
+ AFR_join_iedc_CAN_desc: "Ohne unsere kanadischen Freunde hätte unsere Nation wohl kaum den Wohlstand erfahren, mit dem sie heute lebt. Aufgrund unserer fehlenden industriellen Kapazitäten ist es unwahrscheinlich, dass wir diese Schuld bald zurückzahlen können. Wir können jedoch offiziell ihrem wirtschaftlichen Bündnis, der IEDC, beitreten."
  AFR_join_iedc_NFA: "Der IEDC beitreten"
+ AFR_join_iedc_NFA_desc: "Ohne unsere französischen Freunde hätte unsere Nation wohl kaum den Wohlstand erfahren, mit dem sie heute lebt. Aufgrund unserer fehlenden industriellen Kapazitäten ist es unwahrscheinlich, dass wir diese Schuld bald zurückzahlen können. Wir können jedoch offiziell ihrem wirtschaftlichen Bündnis, der IEDC, beitreten."
 
 ### Ideas ###
  AFR_military_advisors_from_BEL: "[BEL.GetAdjective]e Militärberater"

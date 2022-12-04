@@ -135,9 +135,9 @@
  NAME_THEME_SULTANS_OTT: "Osmanische Sultane"
 
 ### Traits
- warrior_prince: "Der Krieger"
- OTT_poet_artist: "Sultan der Künste"
- OTT_architect_sultan: "Sultan der Architektur"
+ TUR_sultan_of_the_arts: "Sultan der Künste"
+ TUR_sultan_of_architecture: "Sultan der Architektur"
+ TUR_the_warrior_sultan: "Der Kriegerische Sultan"
 
 ### Factions
  istanbul_pact: "Istanbulpakt"

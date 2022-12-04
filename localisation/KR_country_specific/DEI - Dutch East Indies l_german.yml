@@ -127,38 +127,6 @@ dei.28.t: "Die Niederländer lehnen ab!"
 dei.28.d: "Obwohl sie den republikanischen Streitkräften eindeutig unterlegen sind, weigern sich die sturen Niederländer immer noch, einen Vertrag mit 'Geächteten und Verbrechern' zu unterzeichnen. Es sieht so aus, als müssten wir unseren Kampf fortsetzen, bis sie endlich ihren Mut verlieren."
 dei.28.a: "Ein echter Rückschlag!"
 
-dei.29.t: "Freiwillige bei der insulinindischen Revolution"
-dei.29.d.sentvolunteers: "Wie wir wissen, ist in Niederländisch-Indien ein Aufstand ausgebrochen, bei dem die Eingeborenen versuchen, ihre Unabhängigkeit von ihren niederländischen Oberherren zu sichern. Wir haben ihnen bereits Militärattachés geschickt, aber es scheint, dass einige besorgte Bürger selbst nach Indien reisen wollen, um zu helfen. Sollten wir ihnen erlauben, unsere militärische Hilfe dort zu ergänzen?"
-dei.29.d.sentnovolunteers: "In Niederländisch-Indien ist ein Aufstand ausgebrochen, bei dem die einheimische Bevölkerung ihre Unabhängigkeit von ihren niederländischen Oberherren sichern will. Viele in unseren Ländern fühlen sich mit der Notlage der Insulaner verbunden und wollen helfen. Sollen wir eine Gruppe von Freiwilligen entsenden?"
-dei.29.a: "Natürlich!"
-dei.29.b: "Eher nicht!"
-
-dei.290.t: "Sendet Freiwillige nach Niederländisch-Indien"
-dei.290.d: "Wie wir wissen, ist in Niederländisch-Indien ein Aufstand ausgebrochen, bei dem die einheimische Bevölkerung versucht, ihre Unabhängigkeit von ihren niederländischen Oberherren zu sichern. Obwohl wir mit den Niederländern nie wirklich auf Augenhöhe waren, sorgten sie doch für ein gewisses Maß an Stabilität in der Region und sehen wie wir die Japaner als Bedrohung für diese Stabilität. Auch wenn wir uns nicht offen in den aktuellen Konflikt einmischen können, könnten wir Freiwillige entsenden, um die niederländische Regierung zu unterstützen und ihr die Hand zu halten, wie wir es in der Vergangenheit tun mussten."
-dei.290.a: "Natürlich wir werden nicht mit Spinnen Unzucht treiben."
-dei.290.b: "Sie haben ihr Bett gemacht, sie können darin liegen."
-
-dei.30.t: "[From.GetNameDefCap] Schickt Freiwillige"
-dei.30.d.INS: "Aus Verbundenheit mit der Notlage der Insulaner oder aus Opposition zu den niederländischen Imperialisten sind [From.GetAdjective] Freiwillige eingetroffen, um uns in unserem Kampf zu unterstützen."
-dei.30.d.DEI: "Zur Unterstützung ihrer niederländischen Verbündeten oder aus Angst vor der wachsenden insulindischen Revolution sind [From.GetAdjective] Freiwillige eingetroffen, um uns in unserem Kampf zu unterstützen."
-dei.30.a: "Wir können ihre Hilfe gebrauchen!"
-
-dei.31.t: "Ausländische Freiwillige kehren nach Hause zurück"
-dei.31.d: "Die insulindische Nationalrevolution ist nun wohl oder übel vorbei, und die Freiwilligen, die aus fernen Ländern nach Indien gekommen sind, um sich der TKR anzuschließen, kehren in ihre Heimatländer zurück."
-dei.31.a: "Auf Wiedersehen... Schätze Ich..."
-
-dei.310.t: "Ausländische Freiwillige kehren nach Hause zurück"
-dei.310.d: "Die Nationale Revolution der Insulaner ist nun wohl oder übel vorbei, und die Freiwilligen, die aus fernen Ländern nach Indien gekommen sind, um sich der KNIL anzuschließen, kehren in ihr Heimatland zurück."
-dei.310.a: "Auf Wiedersehen... Schätze Ich..."
-
-dei.32.t: "Insulindianische Freiwillige kehren nach Hause zurück"
-dei.32.d: "Die Freiwilligen, die wir zum insulindischen Aufstand entsandt haben, sind zurückgekehrt, jetzt, da der Frieden im insulindischen Archipel wiederhergestellt ist. Sie bringen einige Erfahrung im Kampf in unwegsamem Gelände mit..."
-dei.32.a: "Willkommen zurück!"
-
-dei.320.t: "Freiwillige aus Niederländisch-Indien kehren nach Hause zurück"
-dei.320.d: "Die Freiwilligen, die wir zum insulindischen Aufstand entsandt haben, sind zurückgekehrt, nachdem der Frieden im Niederländisch-Indischen Archipel wiederhergestellt wurde. Sie bringen einige Erfahrung im Kampf in unwegsamem Gelände mit..."
-dei.320.a: "Dinge, die wir für diese niederländischen Bastarde tun"
-
 dei.35.t: "The Netherlands Abandons the Indies"
 dei.35.d: "Aus Indien sind beunruhigende Nachrichten eingetroffen: Die Sozialisten, die in der Heimat an die Macht gekommen sind, haben durch ihre parlamentarische Stellung die alte Ordnung gestürzt und uns nun angewiesen, alle niederländischen Bürger in Insulindien zu schützen und ihnen bei der Übersiedlung in die Niederlande zu helfen, wenn sie dies wünschen, sowie einen geordneten Rückzug aus dem Gebiet zu gewährleisten. Es überrascht nicht, dass das Chaos ausbrach und der gerade aus dem Gefängnis entlassene Sukarno die Situation nutzte, um die Unabhängigkeit Insulindias auszurufen. Inzwischen ist der Generalgouverneur verschwunden, und Söldner haben die Kontrolle über einen Teil der Insel Borneo übernommen. Die indischen Inseln brechen gerade wegen dieser Erklärung zusammen."
 dei.35.a: "Spielt als Batavianischen Kommune."

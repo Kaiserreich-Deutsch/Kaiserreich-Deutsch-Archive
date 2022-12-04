@@ -326,8 +326,8 @@ LAT_national_populist_party_long: "Latviešu Tautas apvienība Ugunskrusts "(Ver
  LAT_latvia_for_latvians_desc: "Während die ethnischen Letten den Kern des Staates bilden müssen und an der Beseitigung der Hinterlassenschaften der imperialen Herrschaft gearbeitet werden muss, sollten wir darauf achten, Minderheiten - insbesondere Russen und Deutsche - angemessen zu bevormunden. Zu diesem Zweck müssen wir ethnische Klassifizierungen zugunsten einer bürgerlichen lettischen Identität gesetzlich aufheben und gleichzeitig dafür sorgen, dass ethnische Minderheiten in der Versammlung umfassend vertreten sind."
  LAT_organise_the_forest_brothers: "Organisieren Sie die Waldbrüder"
  LAT_organise_the_forest_brothers_desc: "Den verschiedenen ländlichen Partisanengruppen, die unter dem Namen "Waldbrüder" bekannt sind, fehlt eine hochrangige Organisation. Sie werden zwar für ihre Rolle bei der Erlangung der lettischen Unabhängigkeit respektiert, aber der Staat hat sie bisher auf Distanz gehalten. Wir sollten damit beginnen, die Waldbrüder, die ihrem Land noch dienen wollen, in die Armee zu integrieren, während andere demobilisiert werden."
- LAT_the_generalis: "Ehrung des Generalis"
- LAT_the_generalis_desc: "Jānis Kurelis, der Generalis, vertrieb die fremden Eroberer aus unserem schönen Land und befreite die Menschen von ihren Ketten. In vielen Dörfern wird sein edles Antlitz zu einem Objekt der Verehrung. Statuen und andere Kunstwerke werden spontan in Auftrag gegeben. Der Staat sollte diese Verehrung für unseren Führer fördern."
+ LAT_honour_the_generalis: "Ehrung des Generalis"
+ LAT_honour_the_generalis_desc: "Jānis Kurelis, der Generalis, vertrieb die fremden Eroberer aus unserem schönen Land und befreite die Menschen von ihren Ketten. In vielen Dörfern wird sein edles Antlitz zu einem Objekt der Verehrung. Statuen und andere Kunstwerke werden spontan in Auftrag gegeben. Der Staat sollte diese Verehrung für unseren Führer fördern."
  LAT_revise_the_national_territory: "Geografische Neuausrichtung"
  LAT_revise_the_national_territory_desc: "Riga ist seit jeher das Zentrum der baltischen Handelsnetze. Wir können nicht länger zulassen, dass eine Stadt dies dominiert. Es sollten optimale Strecken für ein neues Straßen- und Schienennetz unter Umgehung Rigas geschaffen und ein Plan für die Verwirklichung eines solchen entworfen werden."
  LAT_with_or_without_riga: "Mit oder ohne Riga"
@@ -623,12 +623,9 @@ LAT_remember_riga_desc: "Das schlagende Herz Lettlands, seine ewige Hauptstadt, 
 
 ### Traits ###
 
- the_generalis: "Der General"
-
-### Flags ###
+ LAT_the_generalis: "Der General"
 
 ### Tooltips ###
-
  Unlock_Daugavpils_shot_factory: "Ein neues Unternehmen für die Entwicklung von Kleinwaffen wird freigeschaltet.\n"
 LAT_will_attack_in_two_weeks: "Lettland wird in zwei Wochen angreifen!"
  LAT_socialist_desc: "Sie werden einen nationalen Geist freisetzen, der sich durch die durchgeführten Reformen verändern wird"
