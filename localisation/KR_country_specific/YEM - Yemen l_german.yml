@@ -51,7 +51,7 @@
  YEM_Devotion_desc: "Unsere Bemühungen, die untreuen Teile unserer Gesellschaft, die unsere Bevölkerung bedrohen, zu unterdrücken, haben einen Großteil unseres Volkes zufriedengestellt."
  YEM_Humane: "Beliebter König"
  YEM_Humane_desc: "Der König hat einen Teil seines Ansehens beim Volk wiedererlangt. Der Großteil der Jemeniten betrachtet den Imam als Notwendigkeit für ihr Leben, wodurch die Existenz des Imamats gesichert wurde."
- YEM_Eternal_Saana: "Machtbasis Sana'a"
+ YEM_Eternal_Saana: "Machtbasis San'ā"
  YEM_Eternal_Saana_desc: "Der Imam ist die höchste Autorität im ganzen Jemen, weshalb er in allen Angelegenheiten das letzte Wort hat."
  YEM_Common_Law: "Allgemeines Recht gestärkt"
  YEM_Common_Law_desc: "Das Allgemeine, auch als Scharia bekannte Recht wurde aufrechterhalten und wird fortan ein wichtiger Teil unserer Gesellschaft bleiben."
@@ -100,7 +100,7 @@
  YEM_SocLibs: "Die Shabab al-Amr wurden gewählt"
  YEM_SocCons: "Die Hait ad-Nadial wurden gewählt"
  YEM_Imam_Gone: "Der Imam wurde abgesetzt"
- YEM_flagship_tooltip: "Unser Flaggschiff, die "Yahya Sana'a Aden Arwa", wird vom Stapel gelassen"
+ YEM_flagship_tooltip: "Unser Flaggschiff, die "Yahya San'ā Aden Arwa", wird vom Stapel gelassen"
  YEM_JBS_invasion: "Die Rashiden sind im Jemen einmarschiert"
  YEM_rebel_OTT: "Wir haben gegen das Osmanische Reich rebelliert"
 
@@ -252,7 +252,7 @@
  yemen.38.b: "Wir wollen den Schrott behalten."
 
  yemen.39.t: "Deutschland verkauft uns ein Schiff"
- yemen.39.d: "Deutschland hat unser Angebot angenommen und uns ein Schiff verkauft! Sie haben uns das alte Schiff "SMS Kaiser Wilhelm der Große" übergeben, welches von nun an den Namen "Yahya Sana'a Aden Arwa" tragen wird. Dieses Schiff ist der Beginn einer großen jemenitischen Flotte!"
+ yemen.39.d: "Deutschland hat unser Angebot angenommen und uns ein Schiff verkauft! Sie haben uns das alte Schiff "SMS Kaiser Wilhelm der Große" übergeben, welches von nun an den Namen "Yahya San'ā Aden Arwa" tragen wird. Dieses Schiff ist der Beginn einer großen jemenitischen Flotte!"
  yemen.39.a: "Der Jemen herrscht über die Meere!"
 
  yemen.40.t: "Deutschland verweigert den Verkauf"
@@ -293,7 +293,7 @@
  YEM_Consolidate_Hinterlands: "Das Hinterland konsolidieren"
  YEM_Consolidate_Hinterlands_desc: "Der Jemen hat außerhalb seiner großen Städte und Küstengegenden nur eine sehr geringe Bevölkerungsdichte, vor allem im Süden. Wir müssen diese Regionen konsolidieren und den dortigen Lebensstandard verbessern."
  YEM_Teaboo_Problems_commith: "Umgang mit den Überresten der Rebellen"
- YEM_Teaboo_Problems_commith_desc: "Obwohl wir dachten, die Rebellengruppen bereits besiegt zu haben, wurden sie vor Kurzem erneut zum Problem, da die Rebellen, die von Sana'a nach Asir geflohen sind, durch die Flüchtlinge aus dem Hedschas erzürnt wurden. Nun, da Asir ein Teil unserer Nation ist und die Rebellen wieder aktiv sind, müssen wir uns auf die eine oder andere Weise um sie kümmern."
+ YEM_Teaboo_Problems_commith_desc: "Obwohl wir dachten, die Rebellengruppen bereits besiegt zu haben, wurden sie vor Kurzem erneut zum Problem, da die Rebellen, die von San'ā nach Asir geflohen sind, durch die Flüchtlinge aus dem Hedschas erzürnt wurden. Nun, da Asir ein Teil unserer Nation ist und die Rebellen wieder aktiv sind, müssen wir uns auf die eine oder andere Weise um sie kümmern."
  YEM_Live_and_let_live: "Religiöse Autonomie"
  YEM_Live_and_let_live_desc: "Schon bevor die Osmanen über uns herrschten, konnten die Menschen des Jemen eine große religiöse Autonomie genießen. Diese Freiheit ist nun aufgrund unserer territorialen Expansion von noch größerer Bedeutung."
  YEM_Support_Zaydi: "Das Zaiditentum fördern"
@@ -398,11 +398,11 @@
  YEM_Troop_Passage: "Militärstraßen"
  YEM_Troop_Passage_desc: "Der Wiederaufbau von Straßen für das Militär wird es unseren Truppen ermöglichen, schneller zu ihrem Einsatzort zu gelangen."
  YEM_All_Roads_To_Sanaa: "Das Herz des Jemens"
- YEM_All_Roads_To_Sanaa_desc: "Sana'a ist das Herz und die Heimat des jemenitischen Volkes, an dem alle Straßen beginnen und enden. Wir müssen die Stadt weiter ausbauen, damit ihr Ruhm auch weiterhin erhalten bleibt."
+ YEM_All_Roads_To_Sanaa_desc: "San'ā ist das Herz und die Heimat des jemenitischen Volkes, an dem alle Straßen beginnen und enden. Wir müssen die Stadt weiter ausbauen, damit ihr Ruhm auch weiterhin erhalten bleibt."
  YEM_Unified_Economy: "Vereinte Wirtschaft"
  YEM_Unified_Economy_desc: "Die Wirtschaft des Jemens wurde hart vom Schwarzen Montag getroffen, eine Lektion, aus der wir viel gelernt haben. Nun können wir versuchen, die Wirtschaft erneut zu vereinen."
  YEM_Advanced_Comms: "Fortschrittliche Kommunikation"
- YEM_Advanced_Comms_desc: "Das Radar ist eine noch recht junge Erfindung der westlichen Welt, die Truppen, Schiffen und Flugzeugen dabei hilft, Feindbewegungen zu entdecken. Diese Technologie könnte es uns ermöglichen, alle Winkel des Jemens von Sana'a aus im Auge zu behalten."
+ YEM_Advanced_Comms_desc: "Das Radar ist eine noch recht junge Erfindung der westlichen Welt, die Truppen, Schiffen und Flugzeugen dabei hilft, Feindbewegungen zu entdecken. Diese Technologie könnte es uns ermöglichen, alle Winkel des Jemens von San'ā aus im Auge zu behalten."
  #YEM_Prepared_Army: "Prepared Army" already defined above as an idea
  #YEM_Prepared_Army_desc: "With Yemen fully united and ready to face any foreign threats, we must have a proper army to defend it with." already defined above as an idea desc
  YEM_Centralize_Power: "Alleinige und endgültige Autorität"
@@ -429,7 +429,7 @@
  YEM_Modernize_laws: "Modernisierung der Gesetze"
  YEM_Modernize_laws_desc: "Die Gesetze des Jemens sind stellenweise noch immer autoritär oder imperialistisch und bedarfen einer Überarbeitung."
  YEM_Regional_Rulers: "Regionale Herrschaft"
- YEM_Regional_Rulers_desc: "Durch den Sieg der liberalen Partei können wir die Autokratie Sana'as endlich beenden und die Macht auf die gesamte Nation verteilen. Ein wichtiger Schritt hierbei wäre es, die Macht der Zentralregierung zu regionalen Regierungen zu verschieben."
+ YEM_Regional_Rulers_desc: "Durch den Sieg der liberalen Partei können wir die Autokratie San'ās endlich beenden und die Macht auf die gesamte Nation verteilen. Ein wichtiger Schritt hierbei wäre es, die Macht der Zentralregierung zu regionalen Regierungen zu verschieben."
  YEM_Electrification: "Elektrifizierung"
  YEM_Electrification_desc: "Nahezu der gesamte Jemen konnte noch nie die Vorteile von elektrischem Licht erfahren. Wenn wir unsere Bürger erleuchten wollen, müssen wir zuerst unserer Nation Licht bringen."
  YEM_New_Development: "Neue Entwicklung"
@@ -570,7 +570,7 @@
 
 ### Characters ###
  YEM_yahya_al_hamid: "Yahya al Hamid"
- YEM_yahya_al_hamid_leader_desc: "Seit 1934 hat Yahya sich vor allem auf die interne Konsolidierung seiner Autorität und die Gründung einer ordentlichen Zentralregierung, für die er persönlich verantwortlich ist, fokussiert. Deshalb will er nun seine Kontrolle über das jemenitische Hinterland ausweiten, ein modernes stehendes Heer aufbauen und klare Nachfolgeregeln für alle vererbbaren Regierungstitel einführen. Währenddessen muss er jedoch auch die turbulente politische Situation in Sana'a selbst im Auge behalten. Mit al-Hamid an seiner Spitze bewegt sich der Jemen nun in die Moderne, bleibt seinen semi-feudalen Traditionen allerdings dennoch treu."
+ YEM_yahya_al_hamid_leader_desc: "Seit 1934 hat Yahya sich vor allem auf die interne Konsolidierung seiner Autorität und die Gründung einer ordentlichen Zentralregierung, für die er persönlich verantwortlich ist, fokussiert. Deshalb will er nun seine Kontrolle über das jemenitische Hinterland ausweiten, ein modernes stehendes Heer aufbauen und klare Nachfolgeregeln für alle vererbbaren Regierungstitel einführen. Währenddessen muss er jedoch auch die turbulente politische Situation in San'ā selbst im Auge behalten. Mit al-Hamid an seiner Spitze bewegt sich der Jemen nun in die Moderne, bleibt seinen semi-feudalen Traditionen allerdings dennoch treu."
 
  YEM_ahmad_bin_yahya: "Ahmad bin Yahya"
  YEM_abdul_rahman_al_eryani: "Abdul Rahman al-Eryani"

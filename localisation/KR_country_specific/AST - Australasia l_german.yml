@@ -1384,6 +1384,31 @@ austral.370.t: "Wir sollen die Kolonien behalten"
 austral.370.d: "Mit einem herzlichen Dank für das Angebot hat die [From.GetAdjective] Regierung es abgelehnt, die Kolonien zurückzunehmen. [Root.GetNameDefCap], so sagen sie, kann diese Ländereien eindeutig besser schützen, als sie es jemals könnte, und sie vertrauen darauf, dass wir sie so verwalten werden, wie sie es tun würden."
 austral.370.a: "Oh? Das ist aber nett von ihnen."
 
+austral.371.t: "Syndikalistische Machtübernahme in [FROM.GetNonIdeologyName]"
+austral.371.d: "Die jüngste Revolution in [ROOT.GetNameDefCap] stellt eine unmittelbare Bedrohung für uns dar, jedoch haben wir die Möglichkeit zu handeln. Wenn wir schnell handeln, können unsere Streitkräfte in Neuguinea über die Owen-Stanley Berge hinwegfegen und das Territorium Papuas einnehmen, bevor sie die Möglichkeit haben zu reagieren."
+austral.371.a: "Die Internationale muss eingedämmt werden!"
+austral.371.b: "Wir können die Ressourcen nicht entbehren..."
+
+austral.372.t: "[FROM.GetNonIdeologyNameDefCap] Besetzt Papua!"
+austral.372.d: "Während die Nation nach unserer jüngsten Revolution im Chaos versinkt, hat die [FROM.GetAdjective] Regierung das Territorium von Papua unter dem Vorwand beschlagnahmt, die Ausbreitung des Syndikalismus einzudämmen. Sie hat sich unter Beteuerungen zurückgewiesen, und unser einziger Ausweg wäre ein Krieg, aber das könnte ein Krieg sein, den wir uns derzeit nicht leisten können."
+austral.372.a: "Sollen sie es doch nehmen."
+austral.372.b: "Das ist das rechtmäßiges [ROOT.GetNameDefCap] Land!"
+
+austral.373.t.new_guard_coup: "Coup der Neuen Garde in [FROM.GetNonIdeologyName]"
+austral.373.d.new_guard_coup: "Nach den jüngsten Nachrichten von [FROM.GetNonIdeologyName] ist es der Neuen Garde gelungen, die syndikalistische Regierung zu stürzen und das Land wieder in den Einflussbereich der Entente zu bringen. Da damit die Bedrohung für uns beseitigt ist, können wir ihnen Papua zurückgeben... wenn wir das tun wollen."
+austral.373.t.invaded: "[ENT.GetNonIdeologyNameDefCap] Stellt die Ordnung in [AST.GetNonIdeologyName] wieder her"
+austral.373.d.invaded: "Die Koalition der Entente-Kräfte hat es geschafft, das syndikalistische Regime zu stürzen und den Frieden in [AST.GetNonIdeologyName] wiederherzustellen. Da damit die Bedrohung für uns beseitigt ist, können wir ihnen Papua zurückgeben... wenn wir das tun wollen."
+austral.373.a: "Sie sind die rechtmäßigen Eigentümer."
+austral.373.b: "Wer's findet, dem gehört's!"
+
+austral.374.t: "[FROM.GetNonIdeologyNameDefCap] Gibt Papua zurück"
+austral.374.d: "Nachdem die Bedrohung durch das unrechtmäßige syndikalistische Regime beseitigt wurde, hat die [FROM.GetAdjective] Regierung beschlossen, uns unseren Teil Papuas zurückzugeben."
+austral.374.a: "Ausgezeichnet!"
+
+austral.375.t: "[FROM.GetNonIdeologyNameDefCap] Behält Papua"
+austral.375.d: "Obwohl der Frieden in unserem Land wiederhergestellt wurde, haben die [FROM.GetAdjective] Kräfte beschlossen, ihre illegale Besetzung unseres Teils von Papua aufrechtzuerhalten. Leider können wir nichts dagegen tun."
+austral.375.a: "Wir werden dies nicht vergessen!"
+
 ### Characters ###
 AST_john_bramwell_miles: "John Bramwell Miles"
 AST_lawrence_louis_sharkey: "Lawrence Louis Sharkey"

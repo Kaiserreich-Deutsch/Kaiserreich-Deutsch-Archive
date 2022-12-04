@@ -497,11 +497,11 @@ xinfd.17.a: "Hätte schlimmer kommen können."
 
 xin.110.t: "Berichte über Yang Zengxin in Yunnan"
 xin.110.desc: "Nach dem Verschwinden des weisen Gouverneurs von Xinjiang, Yang Zengxin, strömten Reporter nach Mengzi in Yunnan, um sich in seiner Heimatstadt zu informieren. Die Stadtbewohner von Mengzi bemerkten, dass es Yangs Familie immer noch gut geht und weigern sich, Hinweise zu geben, wohin Yang gegangen wäre. Die meisten Reporter kamen zu dem Schluss, dass Yang auf seinen Militärposten in Gansu zurückgekehrt ist und beendeten dort ihre Ermittlungen. Die Beamten mit Verbindungen in Gansu haben jedoch berichtet, dass Yang in Gansu nicht gesehen wurde, aber Spuren seines Goldes sind in den Händen von Händlern in Yunnan aufgetaucht. Obwohl es noch keine soliden Beweise gibt, scheint es, dass Yang entweder ausgeraubt worden sein könnte oder inkognito lebt."
-xin.110.a: "Ein amüsantes Rätsel"
+xin.110.a: "Ein amüsantes Rätsel."
 
 
 xin.111.t: "Die Xinjiang-Clique verfällt in Krieg"
-xin.111.d: "Es scheint, als sei das Westtor zwischen China und Zentralasien erneut in Gewalt versunken. Der jüngste Streit zwischen Gouverneur [SIK.GetLeader] und Kumul hat dazu geführt, dass sich ein großes Aufgebot freiwilliger Soldaten gegen die Armeegarnison erhoben hat. Gerüchte besagen, dass auch die Türken im äußersten Westen sich darauf vorbereiten, dem Gouverneur erneut die Stirn zu bieten. Der Gouverneur von Xinjiang, sollte er chinesisch bleiben, ist ein potenzieller Verbündeter der südlichen demokratischen Cliquen. Die Kumiliks scheinen jedoch zwischen Respekt vor Peking und rastloser Fremdenfeindlichkeit stark zu schwanken. Die Osttürken würden sich zweifellos vollständig von China trennen, sollten sie gewinnen."
+xin.111.d: "Es scheint, als sei das Westtor zwischen China und Zentralasien erneut in Gewalt versunken. Der jüngste Streit zwischen Gouverneur [SIK.GetLeader] und Kumul hat dazu geführt, dass sich ein großes Aufgebot freiwilliger Soldaten gegen die Armeegarnison erhoben hat. Gerüchte besagen, dass auch die Türken im äußersten Westen sich darauf vorbereiten, dem Gouverneur erneut die Stirn zu bieten.\n\nDer Gouverneur von Xinjiang, sollte er chinesisch bleiben, ist ein potenzieller Verbündeter der südlichen demokratischen Cliquen. Die Kumiliks scheinen jedoch zwischen Respekt vor Peking und rastloser Fremdenfeindlichkeit stark zu schwanken. Die Osttürken würden sich zweifellos vollständig von China trennen, sollten sie gewinnen."
 xin.111.a: "Yang Zengxins endgültiger Misserfolg"
 
 ### Focuses ###
@@ -688,6 +688,8 @@ SIK_xinjiang_railways_desc: "Das größte Ziel eines modernen Gouverneurs von Xi
 
 ### Characters ###
 SIK_yang_zengxin: "Yang Zengxin"
+SIK_yang_zengxin_leader_desc: "Seit der Nordexpedition und der darauf folgenden deutschen Intervention ist Yang Zengxin in großer Panik und kränklich im Alter. Er verbringt die meiste Zeit versteckt in seinem Haus und geht aus Angst vor einem Attentat oder seiner letzten schicksalhaften Krankheit kaum noch aus dem Haus. Abgesehen davon, dass er innerhalb Chinas politisch völlig isoliert ist, weiß man nicht, wie lange er in seinem jetzigen Zustand noch leben wird, aber er ist sicherlich nicht in einem stabilen Zustand."
+
 SIK_ishaq_bey: "Ishaq Bey"
 
 SIK_fan_yaonan: "Fan Yaonan"
@@ -733,4 +735,4 @@ SIK_jiang_deyu: "Jiang Deyu"
 SIK_chen_yufeng: "Chen Yufeng"
 
 ### Traits ###
-SIK_panicked_isolationism: "Panikhafter Isolationismus\n§gSeit der Nordexpedition und der darauf folgenden deutschen Intervention ist Yang Zengxin in großer Panik und kränklich im Alter. Er verbringt die meiste Zeit versteckt in seinem Haus und geht aus Angst vor einem Attentat oder seiner letzten schicksalhaften Krankheit kaum noch aus dem Haus. Abgesehen davon, dass er innerhalb Chinas politisch völlig isoliert ist, weiß man nicht, wie lange er in seinem jetzigen Zustand noch leben wird, aber er ist sicherlich nicht in einem stabilen Zustand.§!"
+SIK_panicked_isolationism: "Panikhafter Isolationismus"

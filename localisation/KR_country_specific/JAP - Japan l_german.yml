@@ -217,7 +217,6 @@
  JAP_ZAI: ""Unterstützung" der Zaibatsu"
  JAP_manpower_bonus: "Intensive Wehrpflicht"
  JAP_double_team_penalty: "Unstimmigkeiten über Befehle"
- JAP_Fading_Sun: "Japan ist nicht länger eine führende Nation in der Welt"
  JAP_no_army_focus: "Gegliederte Armee"
  JAP_no_army_focus_desc: "Der japanischen Armee fehlt es an Orientierung. Das Oberkommando ist zerstritten, und es gibt keine zentrale Militärdoktrin. All dies wird jede Offensivaktion erschweren, bis es gelöst ist."
  JAP_bad_land: "Unzureichende Landnutzung"
@@ -563,19 +562,21 @@
 
 ## Peace Deals ##
  JAP_fading_sun: "Die verblassende Sonne"
- JAP_fading_sun_desc: "Wir haben die Kontrolle über unsere Festlandeigentümer verloren! Zwar können wir einen solchen Krieg vorerst durchhalten, aber wir haben nur wenig Zeit zu verlieren. Die politische Unterstützung für den Krieg nimmt in der Elite rapide ab, und die Schande unserer wiederholten Niederlagen hat die Massen auf die Straße getrieben; wenn das Reich überleben soll, müssen wir bald wieder auf dem Festland Fuß fassen!"
+ 
+ JAP_fading_sun_timer: "Die verblassende Sonne"
+ JAP_fading_sun_timer_desc: "Wir haben die Kontrolle über unsere Festlandeigentümer verloren! Zwar können wir einen solchen Krieg vorerst durchhalten, aber wir haben nur wenig Zeit zu verlieren. Die politische Unterstützung für den Krieg nimmt in der Elite rapide ab, und die Schande unserer wiederholten Niederlagen hat die Massen auf die Straße getrieben; wenn das Reich überleben soll, müssen wir bald wieder auf dem Festland Fuß fassen!"
 
- JAP_we_are_losing: "Wir verlieren"
- JAP_we_are_losing_desc: "Der Verlust der koreanischen Halbinsel und von Port Arthur an ausländische Streitkräfte ist ein schwerer Schlag für unsere laufenden Kriegsanstrengungen. Zwar ist das Risiko einer Invasion auf den Heimatinseln gering, doch wenn wir auf dem Festland nicht wieder Fuß fassen können, werden uns die durch unsere zahlreichen Niederlagen ausgelösten inneren Unruhen bald an den Verhandlungstisch zwingen."
+ JAP_fading_sun_timer_enemy: "Die verblassende Sonne"
+ JAP_fading_sun_timer_enemy_desc: "Der Verlust der koreanischen Halbinsel und von Port Arthur an ausländische Streitkräfte ist ein schwerer Schlag für Japans laufende Kriegsanstrengungen. Wenn es ihnen nicht gelingt, auf dem Festland wieder Fuß zu fassen, werden die innenpolitischen Unruhen, die durch die zahlreichen Niederlagen ausgelöst wurden, die wir ihnen zugefügt haben, das Reich der aufgehenden Sonne bald an den Verhandlungstisch zwingen."
 
  JAP_offer_peace_to_china: "China Frieden anbieten"
  JAP_offer_peace_to_china_desc: "Die Chinesen haben unsere Armeen besiegt und kontrollieren nun die Mandschurei und Korea. Sie sind zwar nicht in der Lage, auf die Heimatinseln vorzudringen, aber die Schande und die Demütigung dieser Niederlage haben massive innere Unruhen ausgelöst. Die beste Vorgehensweise ist nun, einen Frieden auszuhandeln, ungeachtet der Schande, und sich der Bekämpfung unserer neuen internen Probleme zuzuwenden."
  JAP_offer_peace_to_russia: "Angebot Frieden an [From.GetNameDef]"
  JAP_offer_peace_to_russia_desc: "Die Russen haben unsere Armeen besiegt und kontrollieren nun unsere Gebiete auf dem Festland, um ihre Niederlage von 1905 ein für alle Mal zu rächen. Sie sind zwar nicht in der Lage, auf den Heimatinseln einzumarschieren, aber die Schande und Demütigung dieser Niederlage haben zu massiven internen Unruhen geführt. Die beste Vorgehensweise ist nun, einen Frieden auszuhandeln, ungeachtet der Schande, und sich der Bekämpfung unserer neuen internen Probleme zuzuwenden."
 
- JAP_all_chinese_allies_capitulated: "Wir haben keine chinesischen Verbündeten mehr auf dem asiatischen Festland."
-
- JAP_all_owned_chinese_states_occupied: "Wir kontrollieren unsere Territorien in China nicht mehr"
+ JAP_will_surrender_if_forced_out_of_china: "Auswirkungen, wenn Japan keine Staaten auf dem chinesischen Festland kontrolliert:"
+ JAP_all_chinese_allies_capitulated: "Alle chinesischen Verbündeten auf dem asiatischen Festland haben kapituliert"
+ JAP_all_owned_chinese_states_occupied: "Alle eigenen Staaten auf dem chinesischen Festland sind besetzt"
 
 ### War Decisions ###
  JAP_second_sino_japanese_war: "Der Zweite Chinesisch-Japanische Krieg"

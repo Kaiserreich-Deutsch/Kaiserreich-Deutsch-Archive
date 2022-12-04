@@ -174,7 +174,8 @@
  ### Leader Traits ###
  LIT_unpopular_monarch: "Unpopulärer Monarch"
  LIT_the_architect_king: "Der Architektenkönig"
- LIT_Warrior_King: "Der Kriegerkönig"
+ LIT_the_warrior_king: "Der Kriegerkönig"
+ 
  ### Tooltips ###
  LIT_acquire_tank_licences_tooltip: "Die Veranstaltung bietet die Möglichkeit, zwischen drei Varianten von §H$LIT_new_tank_blueprints_sweden$§! zu wählen:\n1. §HPanzer§!: Panzer: [?0.1|=+%0]\n2. §HPanzer§!: Weicher Angriff: [?0.1|=+%0], Harter Angriff: [?0.1|=+%0]\n3. §HPanzer§!: $STAT_COMMON_BUILD_COST_IC$[?-0.1|-=%]"
  LIT_airborne_detachment_tooltip: "Im Rahmen der Veranstaltung können Sie eine der folgenden Nationalen Geister wählen:\n\n§H$LIT_elite_infantry_formations$§!\n   $MODIFIER_SPECIAL_FORCES_ATTACK_FACTOR$: [?0.05|+=%1]\n   $MODIFIER_SPECIAL_FORCES_DEFENCE_FACTOR$: [?0.05|+=%1]\n   $MODIFIER_SPECIAL_FORCES_CAP$: [?0.1|+=%1]\n\n§H$LIT_jager_detachments$§!\n   $MODIFIER_ORG_LOSS_WHEN_MOVING$: [?-0.1|-=%1]\n   $MODIFIER_RECON_FACTOR$: [?0.1|+=%1]"

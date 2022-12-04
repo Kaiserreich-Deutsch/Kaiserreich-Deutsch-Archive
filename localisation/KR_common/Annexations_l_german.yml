@@ -145,8 +145,8 @@ annex.1005.a: "Geben Sie es an [99.owner.GetNonIdeologyNameDef]"
 annex.1005.b: "Geben Sie es an [58.owner.GetNonIdeologyNameDef]"
 annex.1005.c: "Integrieren Sie es in [Root.GetNonIdeologyNameDef]"
 
-annexation_DDR_CONQ: "Das Schicksal von Preußen"
-annexation_DDR_CONQ_desc: "Ein großer Teil Preußens ist unter unsere Kontrolle gebracht worden, da unsere Truppen die Region besetzen. Wir müssen nun entscheiden, was wir damit machen."
+annexation_PRE_CONQ: "Das Schicksal von Preußen"
+annexation_PRE_CONQ_desc: "Ein großer Teil Preußens ist unter unsere Kontrolle gebracht worden, da unsere Truppen die Region besetzen. Wir müssen nun entscheiden, was wir damit machen."
 annex.1006.a: "Einen loyalen preußischen Staat freilassen"
  annex.1006.b: "Krönung Großherzog Boris zum König von Preußen!"
 annex.1006.c: "Westliches Preußen an [NGF.GetNonIdeologyNameDef] geben, den Rest später entscheiden"
@@ -245,7 +245,6 @@ annexation_AUS_CONQ_desc: "Österreich wurde zur Kapitulation gezwungen und unse
 annex.1020.a: "Wir müssen sie befreien."
 annex.1020.b: "Anschluss Österreich an [52.owner.GetNonIdeologyNameDef]."
 annex.1020.c: "Wir werden die Donau vereinen, wieder einmal."
-annex.1020.d: "Wir werden eine alte Idee wieder aufgreifen..."
 
 annexation_CZE_CONQ: "Das Schicksal von Böhmen"
 annexation_CZE_CONQ_desc: "Das alte Kernland der Tschechen ist von unseren siegreichen Truppen erobert worden. Das ehrwürdige Kleinod an der Moldau, Prag, ist von unseren Truppen besetzt, die elegant über den Wenzelsplatz paradieren. Sollen wir eine tschechische Regierung stützen, die den Plänen unseres eigenen Staates treu ist, oder diese prächtige militärische Besetzung aufrechterhalten?"
@@ -1688,7 +1687,7 @@ annexation_OMA_CONQ_desc: "Nach einem langen Kampf mit den Omani haben wir eine 
 annex.4022.a: "Befreit den Oman!"
 
 annexation_YEM_CONQ: "Das Schicksal von Jemen"
-annexation_YEM_CONQ_desc: "Nach einem langen Kampf mit den Jemeniten haben wir eine volle Offensive gestartet und die jemenitische Armee zur Kapitulation gezwungen. Sana'a ist nun in unserer Hand!"
+annexation_YEM_CONQ_desc: "Nach einem langen Kampf mit den Jemeniten haben wir eine volle Offensive gestartet und die jemenitische Armee zur Kapitulation gezwungen. Sanaa ist jetzt in unserer Hand!"
 annex.4023.a: "Befreit Jemen!"
 
 annexation_ASIR_CONQ: "Das Schicksal von Asir"
