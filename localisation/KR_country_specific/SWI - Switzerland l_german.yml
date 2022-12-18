@@ -1521,7 +1521,6 @@ SWI_syndicalist_unions_tooltip: "§CDamit wird ein Referendum eingeleitet, das d
 SWI_army_reorganization_tooltip: "§CDies wird eine Volksabstimmung einleiten, die die Nation mit§!§Y Land Doctrine §! ausstattet, wenn sie verabschiedet wird.§!"
 SWI_freemasonry_tooltip: "§CDies wird ein Referendum einleiten, das die Nation mit§!§Y Politischer Macht §!§Cifversorgen wird, wenn es verabschiedet wird.§!"
 SWI_transport_of_goods_tooltip: "§CDies wird ein Referendum beginnen, das die Nation mit§!§Y Bauforschung §!§Cversorgt, wenn bestanden.§!"
-SWI_commerce_tooltip: "Ändert §YSchweizer Handelsmarine§! von\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+10.00%§!\n§YTrade Convoy§!: $STAT_COMMON_BUILD_COST_IC$§G-10.00%§!"
 
 ### Cosmetic Tags ###
  SWI: "Schweiz"

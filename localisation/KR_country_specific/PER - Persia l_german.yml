@@ -484,7 +484,8 @@
  pers.43.c: "Die rechte Koalition."
 
  pers.44.t: "Krieg gegen Aserbaidschan"
- pers.44.d: "Die Bevölkerung der nördlichen Provinz Täbris besteht zu einem großen Teil aus aserbaidschanischen Türken, was als Vorwand genutzt werden könnte, um das aserische Volk unter unserer Flagge zu einen. Einer unserer Nachbarn, Armenien, hat mit Aserbaidschan allerdings auch noch ein Hühnchen zu rupfen. Wir könnten Armenien eventuell ein militärisches Bündnis vorschlagen, um Aserbaidschan zwischen unseren Nationen zu beiderseitigem Vorteil aufzuspalten."
+ pers.44.d1: "Die Bevölkerung der nördlichen Provinz Täbris besteht zu einem großen Teil aus aserbaidschanischen Türken, was als Vorwand genutzt werden könnte, um das aserische Volk unter unserer Flagge zu einen. Einer unserer Nachbarn, Armenien, hat mit Aserbaidschan allerdings auch noch ein Hühnchen zu rupfen. Wir könnten Armenien eventuell ein militärisches Bündnis vorschlagen, um Aserbaidschan zwischen unseren Nationen zu beiderseitigem Vorteil aufzuspalten."
+ pers.44.d2: "Die Bevölkerung der nördlichen Provinz Täbris besteht zu einem großen Teil aus aserbaidschanischen Türken, was als Vorwand genutzt werden könnte, um das aserische Volk unter unserer Flagge zu einen.\n\nDie Armenier sind zwar seit unserem gemeinsamen Kampf gegen die Osmanen unsere Verbündeten, doch wer weiß, wie lang diese Vereinbarung Bestand haben wird? Wir könnten versuchen, unser temporäres Bündnis mit Armenien zu einem dauerhaften zu erweitern, indem wir den Armeniern anbieten, Aserbaidschan zwischen unseren beiden Staaten aufzuteilen."
  pers.44.a: "Wir brauchen Armeniens Hilfe nicht."
  pers.44.b: "Wir sollten die Armenier um Hilfe bitten."
 
@@ -551,9 +552,12 @@
  pers.57.b: "Wir werden uns unseren Feinden allein stellen."
 
  pers.58.t: "[PER.GetNameDefCap] bietet Land gegen Unterstützung an"
- pers.58.d: "[PER.GetNameDefCap] hat uns ein Angebot unterbreitet: Sie planen eine Invasion unseres Nachbarn Aserbaidschans, und sollten wir sie dabei unterstützen, werden sie uns mit neuen Territorien belohnen. Zusammen sollte es ein Leichtes sein, Aserbaidschan zu besiegen, und eine Expansion unserer Nation kann sicherlich ebenfalls nicht schaden."
+ pers.58.d1: "[PER.GetNameDefCap] hat uns ein Angebot unterbreitet: Sie planen eine Invasion unseres Nachbarn Aserbaidschans, und sollten wir sie dabei unterstützen, werden sie uns mit neuen Territorien belohnen. Zusammen sollte es ein Leichtes sein, Aserbaidschan zu besiegen, und eine Expansion unserer Nation kann sicherlich ebenfalls nicht schaden."
+ pers.58.d2: "[PER.GetNameDefCap] hat uns ein Angebot unterbreitet: Sie planen eine Invasion unseres Nachbarn Aserbaidschans, und sollten wir sie dabei unterstützen, werden sie uns mit neuen Territorien belohnen. Sollten wir diesem Vorschlag zustimmen, könnten wir aus unserer derzeitigen Allianz außerdem eine dauerhafte Vereinbarung formen."
  pers.58.a: "Wir werden sie unterstützen."
- pers.58.b: "Wir sollten uns besser nicht einmischen."
+ pers.58.b: "So lasset uns Verbündete bleiben."
+ pers.58.c: "Wir sollten uns nicht einmischen."
+ pers.58.e: "Wir sind nicht auf den Erhalt einer dauerhaften Allianz aus."
 
  pers.59.t: "Armenien lehnt unser Angebot ab"
  pers.59.d: "Armenien hat unser Bündnisangebot abgelehnt, doch auch ohne diese Tore sollten wir Aserbaidschan besiegen können. Wir könnten allerdings auch noch immer unseren Plan aufgeben und Aserbaidschan in Frieden lassen."

@@ -1,10 +1,5 @@
 ﻿l_german:
 ### Übersetzt von Proho ###
-### Debug Event ###
-mittel.0.t: "MAF Pop Debug Event"
-mittel.0.d: "Um das Testen des MAF-Pops zu erleichtern, hat Zankoas diese Debug Event ins Leben gerufen.\n\nDieses Ereignis bewirkt Folgendes:\n- Setzen des globalen Tags 'MAF_pop_testing'\n- Tag wechselt Sie zu MAF\n- Debug-Tag XXA (das keine Annexionsereignisse erhält)lässt sie jede Nation auf der Erde außer MAF und SOM annektieren.\n- Verhindert, dass XXA Widerstand bekommt\n- Die MAF soll alle Staaten annektieren, die sie bekommen kann\n- Schließlich wird das MAF in einer Woche kaputt gehen.\n\nViel Spaß beim Feuerwerk!"
-mittel.0.a: "Neato"
-
 ### Focus Tree ###
 mittleafrikan_focus: "Schwerpunktbaum von Mittelafrika"
 
@@ -67,7 +62,7 @@ mittleafrikan_focus: "Schwerpunktbaum von Mittelafrika"
 
 ### Characters ###
  MAF_Hermann_von_Goering: "Hermann von Göring"
- MAF_Hermann_von_Goering_leader_desc: "Von Göring wurde bekannt als einer der talentiertesten deutschen Jägerpiloten des Weltkriegs. Er erzielte mehr als 20 Siege bis zum Ende des Krieges, welche ihm zahllose Orden einbrachten.\n\nSeine Ambitionen wurden bald politisch, als er dem Alldeutschen Verband, dessen Vorsitzender er war einen 8%tigen Stimmenanteil bei der Wahl von 1928 sicherte . Daraufhin wurde er nach Mittelafrikas geschickt, durch Wilhelm II persönlich, welcher von Göring als einen fähigen Mann ansah. Von Göring sah dies als ein Sprungbrett und sein Ticket um die Kanzlerschaft nach einer erfolgreichen Wahl in den Kolonien zu erhalten."
+ MAF_Hermann_von_Goering_leader_desc: "Von Göring wurde bekannt als einer der talentiertesten deutschen Jägerpiloten des Weltkriegs. Er erzielte mehr als 20 Siege bis zum Ende des Krieges, welche ihm zahllose Orden einbrachten.\n\nSeine Ambitionen wurden bald politisch, als er Vorsitzender des Alldeutschen Verbandes wurde - den er 1928 zu einer Stimmenzahl von 8 % bei den Wahlen führte. Im Anschluss daran wurde er vom Kolonialamt nach Mittelafrika berufen. Viele vermuten, dass er damit nicht nur einen weiteren Unruhestifter loswerden wollte, sondern auch die ordnungsgemäße Verwaltung der afrikanischen Kolonien sicherstellen wollte. Von Göring hingegen sieht seine Ernennung als Sprungbrett und seine Eintrittskarte, um nach einer erfolgreichen Amtszeit in den Kolonien das Kanzleramt zu erobern."
  
  MAF_Ernst_Juenger: "Ernst Jünger"
  MAF_Franz_Ritter_von_Epp: "Franz Ritter von Epp"
@@ -158,13 +153,7 @@ MAF_Good_Supply: "Effizienter Versorgungsverbrauch"
 MAF_CtC_Rail: "Kap-Kairo Eisenbahn"
 MAF_Expanded_CtC_Rail: "Ausgebaute Kap-Kairo-Eisenbahn"
 
- MAF_belgian_investment_0: "Keinerlei Belgische Investitionen"
- MAF_belgian_investment_1: "Unbedeutende Belgische Investitionen"
- MAF_belgian_investment_2: "Sinkende Belgische Investitionen"
- MAF_belgian_investment_3: "Belgische Investitionen"
- MAF_belgian_investment_4: "Steigende Belgische Investitionen"
- MAF_belgian_investment_5: "Bedeutende Belgische Investitionen"
- MAF_belgian_investment_6: "Allgegenwärtige Belgische Investitionen"
+ MAF_belgian_investment: "Belgische Investitionen"
 
  MAF_selling_out_1: "Ausverkauf"
  MAF_selling_out_2: "Ausverkauf"
@@ -1348,16 +1337,12 @@ mittel.184.t: "Frieden in Afrika?"
 mittel.184.d: "Irgendwie hat von Görings verrücktes Schema funktioniert. Trotz aller Widrigkeiten haben die Askari der mittelafrikanischen Regierung die Rebellen niedergeschlagen und der Kolonie einen harten Frieden aufgezwungen. Der Schaden durch das Chaos ist schwerwiegend, aber die Position des souveränen Statthalters war noch nie so stark wie jetzt."
 mittel.184.a: "Gab es jemals Zweifel an von Görings Führung?"
 
-mittel.185.t: "Unsere Koloniale Administration"
-mittel.185.d: "Da [MAF.GetNameDef] weiterhin die Rechte zur Verwaltung unserer Kolonien in Mittelafrika besitzt, sollten unsere dort neu gewonnenen Kolonien an ihre Verwaltung übertragen werden."
-mittel.185.a: "Das ist das Vernünftigste."
-
 mittel.186.t: "Afrikanische Kolonien zurückerobert"
 mittel.186.d: "Nach dem dramatischen und totalen Zusammenbruch Mittelafrikas haben wir unsere ehemaligen afrikanischen Kolonien in unsere Nation zurückgebracht. Obwohl wir nie die offizielle Erlaubnis dazu erhielten, war die mittelafrikanische Regierung kaum in der Lage, sich zu wehren. In der Tat  haben wir in diesem Chaos keinerlei offizielle Beschwerden erhalten. Dies ist nichts anderes als süße Gerechtigkeit für den Diebstahl, durch den sie uns überhaupt genommen wurden."
 mittel.186.a: "Der Gerechtigkeit wurde gedient!"
 
 mmittel.187.t: "[transferred_state.GetName] gehört uns"
-mittel.187.d: "Nach dem dramatischen und totalen Zusammenbruch von Mittelafrika haben wir [892.GetName] zurück in unsere Nation geholt. Wir haben zwar nie eine offizielle Erlaubnis dafür bekommen, aber die Deutsche Kolonialverwaltung war kaum in der Lage, dies anzufechten. In der Tat, so groß ist das Chaos, haben wir keine offiziellen Beschwerden jeglicher Art erhalten."
+mittel.187.d: "Nach dem dramatischen und totalen Zusammenbruch von Mittelafrika haben wir [transferred_state.GetName] zurück in unsere Nation geholt. Wir haben zwar nie eine offizielle Erlaubnis dafür bekommen, aber die Deutsche Kolonialverwaltung war kaum in der Lage, dies anzufechten. In der Tat, so groß ist das Chaos, haben wir keine offiziellen Beschwerden jeglicher Art erhalten."
 mittel.187.a: "Wunderbar!"
 
 ## DKAEB Events ##

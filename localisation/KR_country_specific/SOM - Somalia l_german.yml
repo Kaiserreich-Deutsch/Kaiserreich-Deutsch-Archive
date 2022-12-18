@@ -220,11 +220,11 @@ SOM_royalarmy_desc: "Die Reform der Armee erfordert mehr als nur die Ernennung n
 SOM_reformsreorgan: "Beginn der Armeereform"
 SOM_reformsreorgan_desc: "Die Reformation einer Armee ist immer leichter gesagt als getan. Das erste Hindernis, das sich uns in den Weg stellt, ist die Frage, worauf wir unsere Bemühungen konzentrieren sollen. Darüber hinaus ist die Frage, ob man die Armee zentralisieren oder ihr eine gewisse Autonomie lassen soll, für ihre Modernisierung von entscheidender Bedeutung. Natürlich hätte eine solche Entscheidung politische Konsequenzen, egal wofür wir uns entscheiden, weshalb den weiteren Bemühungen tiefgreifende politische Reformen vorausgehen müssen."
 
-SOM_clanmilitiaarmament: "Bewaffnung lokaler Milizen"
-SOM_clanmilitiaarmament_desc: "Jeder Gliedstaat wird nun eine eigene Miliz benötigen, die unserer zentralen Kontrolle untersteht. Die Clans werden Waffen erhalten, wenn sie uns im Gegenzug Arbeitskräfte zur Verfügung stellen."
+SOM_arm_militias: "Bewaffnung lokaler Milizen"
+SOM_arm_militias_desc: "Jeder Gliedstaat wird nun eine eigene Miliz benötigen, die unserer zentralen Kontrolle untersteht. Die Clans werden Waffen erhalten, wenn sie uns im Gegenzug Arbeitskräfte zur Verfügung stellen."
 
-SOM_isthatamiltiagungiseewithabursa: "Ausbildung der Armee des Volkes"
-SOM_isthatamiltiagungiseewithabursa_desc: "Eine Armee, die aus Milizionären besteht, mag zwar großartig sein, aber sie wird gegen geschulte Gegner versagen, wenn sie untrainiert ist. Es ist von entscheidender Bedeutung, dass unsere Soldaten nach modernen Doktrinen und effizienten Verfahren ausgebildet werden."
+SOM_militia_training: "Ausbildung der Armee des Volkes"
+SOM_militia_training_desc: "Eine Armee, die aus Milizionären besteht, mag zwar großartig sein, aber sie wird gegen geschulte Gegner versagen, wenn sie untrainiert ist. Es ist von entscheidender Bedeutung, dass unsere Soldaten nach modernen Doktrinen und effizienten Verfahren ausgebildet werden."
 
 SOM_clancavreg: "Einbindung der Edlen Reiter in die Armee"
 SOM_clancavreg_desc: "Es ist bekannt, dass die in Somalia lebenden Adligen seit Jahrhunderten die Kunst des Reitens beherrschen. Wenn wir unser Land besser schützen wollen, müssen wir diesen modernen Rittern eine Aufgabe zur Verteidigung Somalias geben."
@@ -232,17 +232,17 @@ SOM_clancavreg_desc: "Es ist bekannt, dass die in Somalia lebenden Adligen seit 
 SOM_hobyoyards: "Die Schiffswerften von Hobyo"
 SOM_hobyoyards_desc: "Neben seinen Studien hat der Sultan von Hobyo sein Augenmerk auch auf die See gerichtet und große Investitionen in die Werften der Region getätigt. So hat er Hobyo zu einem der größten und modernsten Marinestützpunkte in Somalia gemacht. Natürlich ist noch mehr geplant, aber um weiter voranzukommen, benötigt der Sultan die Hilfe der Föderation."
 
-SOM_logisticsformilitoas: "Logistischer Aufwand"
-SOM_logisticsformilitoas_desc: "Die Versorgung einer so dezentralisierten Armee wie der unseren ist keine leichte Aufgabe. Es müssen logistische Routen gefunden und geplant werden, und wir müssen sicherstellen, dass die Lieferungen an unsere Truppen ihr Ziel sicher erreichen. Zum Glück haben wir Männer, die für diese Aufgabe qualifiziert sind."
+SOM_logistics_effort: "Logistischer Aufwand"
+SOM_logistics_effort_desc: "Die Versorgung einer so dezentralisierten Armee wie der unseren ist keine leichte Aufgabe. Es müssen logistische Routen gefunden und geplant werden, und wir müssen sicherstellen, dass die Lieferungen an unsere Truppen ihr Ziel sicher erreichen. Zum Glück haben wir Männer, die für diese Aufgabe qualifiziert sind."
 
-SOM_jointplanningteams: "Gemeinsame Planungsteams"
-SOM_jointplanningteams_desc: "Wir werden die besten Männer Somalias zusammentrommeln und durch den Einsatz zentralisierter gemeinsamer Planungsteams dafür sorgen, dass die Staaten als eine geschlossene Einheit zusammenarbeiten. Wir müssen das Mutterland verteidigen!"
+SOM_joint_planning_teams: "Gemeinsame Planungsteams"
+SOM_joint_planning_teams_desc: "Wir werden die besten Männer Somalias zusammentrommeln und durch den Einsatz zentralisierter gemeinsamer Planungsteams dafür sorgen, dass die Staaten als eine geschlossene Einheit zusammenarbeiten. Wir müssen das Mutterland verteidigen!"
 
 SOM_mobilization_effort: "Massenrekrutierung"
 SOM_mobilization_effort_desc: "Somalische Männer, hört auf den Ruf, denn euer Clan, eure Familie und euer Land brauchen euch! Kommt zur nächsten Rekrutierungsstelle, um euch zum Kampf zu melden, und arbeitet gemeinsam mit euren Brüdern hart dafür, dass Somalia nie wieder unter das Joch des Imperialismus fällt!"
 
-SOM_magarteenartillery: "Magarteen Waffenschmiede"
-SOM_magarteenartillery_desc: "Der Sultan von Majarteen wusste in seiner unendlichen Weisheit, dass unsere Sicherheit vergänglich ist, und hat daher viel in den Aufbau einer Waffenfabrik investiert, die in der Lage ist, die feinsten modernen Geschütze herzustellen. Auf der Grundlage osmanischer Entwürfe und finanziert aus der eigenen Tasche des Sultans dürfen wir diese Gelegenheit nicht ungenutzt verstreichen lassen. Lasst uns alle unsere Kräfte bündeln, um Somalia zu verteidigen!"
+SOM_mobility: "Magarteen Waffenschmiede"
+SOM_mobility_desc: "Der Sultan von Majarteen wusste in seiner unendlichen Weisheit, dass unsere Sicherheit vergänglich ist, und hat daher viel in den Aufbau einer Waffenfabrik investiert, die in der Lage ist, die feinsten modernen Geschütze herzustellen. Auf der Grundlage osmanischer Entwürfe und finanziert aus der eigenen Tasche des Sultans dürfen wir diese Gelegenheit nicht ungenutzt verstreichen lassen. Lasst uns alle unsere Kräfte bündeln, um Somalia zu verteidigen!"
 
 SOM_moblity: "Doktrin der mobilen Armee"
 SOM_moblity_desc: "Investitionen in fortschrittliche Technologien, wie Panzer und motorisierte Infanterie, sind wichtig, um mit dem aktuellen Stand der Kriegsführung Schritt zu halten. Wir werden unser Heimatland durch Schnelligkeit verteidigen, unsere Feinde ausmanövrieren und den Sieg erringen!"
@@ -253,17 +253,17 @@ SOM_advanced_naval_engagements_desc: "Indem wir die Marinedoktrin zusammen mit d
 SOM_onkod_warfare: "Hassans Kampfdoktrin"
 SOM_onkod_warfare_desc: "Die somalische Miliz ist seit langem unser Rückgrat und unser Stolz. Indem wir in die Fußstapfen von Hassan treten, den die besiegten Imperialisten den verrückten Mullah nennen, werden wir uns schnell durch die Länder bewegen, die wir kennen, und in den Ländern, die wir nicht kennen, mit aller Kraft zuschlagen. Wir müssen die Zukunft Somalias mit allen notwendigen Mitteln sichern."
 
-SOM_unfiedarmy: "Eine geeinte Armee"
-SOM_unfiedarmy_desc: "Die Armee ist ein unverzichtbarer Teil des Staates und muss die Ordnung aufrechterhalten, sich ständig modernisieren und nach dem Vorbild der europäischen Nationen zentral verwaltet werden."
+SOM_unified_army: "Eine geeinte Armee"
+SOM_unified_army_desc: "Die Armee ist ein unverzichtbarer Teil des Staates und muss die Ordnung aufrechterhalten, sich ständig modernisieren und nach dem Vorbild der europäischen Nationen zentral verwaltet werden."
 
 SOM_factory: "Sicherstellung der Kriegsvorräte"
 SOM_factory_desc: "Für das Überleben Somalias ist es von entscheidender Bedeutung, dass wir über genügend Fabriken verfügen, um ein modernes Militär zu versorgen. Eine solche Anstrengung wird jedoch viel von unserer Aufmerksamkeit und unseren Ressourcen in Anspruch nehmen."
 
-SOM_planning_strategically: "Strategische Planung"
-SOM_planning_strategically_desc: "Unsere Offiziere, die sich in den Methoden des modernen Krieges weiterbilden wollen, werden auf die Hilfe ausländischer Experten zurückgreifen können. Dies wird sicherstellen, dass die Niederlage der Feinde Somalias sowohl auf taktischer als auch auf strategischer Ebene unmittelbar bevorsteht."
+SOM_strategic_planning: "Strategische Planung"
+SOM_strategic_planning_desc: "Unsere Offiziere, die sich in den Methoden des modernen Krieges weiterbilden wollen, werden auf die Hilfe ausländischer Experten zurückgreifen können. Dies wird sicherstellen, dass die Niederlage der Feinde Somalias sowohl auf taktischer als auch auf strategischer Ebene unmittelbar bevorsteht."
 
-SOM_tankbuy: "Panzer anschaffen"
-SOM_tankbuy_desc: "Panzer sind kostspielig, schwer zu produzieren und noch viel schwieriger zu warten. Wenn es uns jedoch gelingt, sie herzustellen, werden sie in künftigen Kriegen von unschätzbarem Wert sein und uns einen klaren Vorteil gegenüber unseren Feinden verschaffen."
+SOM_acquire_tanks: "Panzer anschaffen"
+SOM_acquire_tanks_desc: "Panzer sind kostspielig, schwer zu produzieren und noch viel schwieriger zu warten. Wenn es uns jedoch gelingt, sie herzustellen, werden sie in künftigen Kriegen von unschätzbarem Wert sein und uns einen klaren Vorteil gegenüber unseren Feinden verschaffen."
 
 SOM_factory2: "Militärisch-industrielle Fähigkeiten"
 SOM_factory2_desc: "Unsere Fabriken müssen mit voller industrieller Kapazität arbeiten und militärische Güter produzieren, um unsere Armee besser versorgen und ausrüsten zu können. Schließlich ist die Versorgung ein äußerst wichtiger Faktor in jeder Art von Krieg und kann über den Ausgang eines Krieges oder, in kleinerem Maßstab, einer Schlacht entscheiden."
@@ -277,8 +277,8 @@ SOM_modern_guns_desc: "Artilleriegeschütze und Handfeuerwaffen, die sich in uns
 SOM_support_eq: "Unterstützungsausrüstung Fokus"
 SOM_support_eq_desc: "Wir werden uns auf die Produktion von Unterstützungsausrüstung konzentrieren und eine Ausbildung in logistischer Unterstützung einführen, um unsere Streitkräfte besser zu modernisieren."
 
-SOM_thatsthepointsarge: "Ausbildung von Spezialkräften"
-SOM_thatsthepointsarge_desc: "Die Besten der Besten, Männer, die vom Sultan persönlich aus Las Khorey ausgewählt wurden, sollen die Elitetruppen Somalias bilden. Diese Männer sind von allen unseren Untertanen am loyalsten und haben Somalia und dem Boqor ihre volle Unterstützung zugesichert."
+SOM_special_forces: "Ausbildung von Spezialkräften"
+SOM_special_forces_desc: "Die Besten der Besten, Männer, die vom Sultan persönlich aus Las Khorey ausgewählt wurden, sollen die Elitetruppen Somalias bilden. Diese Männer sind von allen unseren Untertanen am loyalsten und haben Somalia und dem Boqor ihre volle Unterstützung zugesichert."
 
 SOM_military_doctrine_effort: "Moderne Militärdoktrin"
 SOM_military_doctrine_effort_desc: "Weltweit herrscht Krieg, und die Länder stehen sich in einem verzweifelten Kampf um den Sieg gegenüber. Um uns bestmöglich auf dieses Szenario vorzubereiten, müssen wir die taktischen und strategischen Entwicklungen in diesen Zeiten im Auge behalten und Wege finden, sie für die Verteidigung des Mutterlandes zu nutzen."

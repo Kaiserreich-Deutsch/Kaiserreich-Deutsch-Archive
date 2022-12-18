@@ -3,7 +3,7 @@
 ### EE Cooperation Mechanics ###
 
  mie.0.t: "Die Russische Bedrohung"
- mie.0.d: "Russlands jahrzehntelanger Niedergang ist vorüber und die Russen beginnen mit dem Wiederaufbau. Schon jetzt beanspruchen sie die ehemaligen Territorien des Zarenreichs und die osteuropäischen Staaten werden sicher eines ihrer Ziele sein.\n\nUm die Eindämmung der russischen Bedrohung und die Souveränität der Staaten Osteuropas zu garantieren, haben sich Politiker und Generäle in [MIE_leader.Capital.GetCapitalVictoryPointName] versammelt, um ein Konzept der gegenseitigen Kooperation zu erarbeiten. Eine gemeinsame militärische Verteidigung wurde etabliert und [MIE_leader.GetNameDef] wurde damit anvertraut, die gemeinsamen Verteidigungsunternehmen der Region zu finanzieren."
+ mie.0.d: "Russlands jahrzehntelanger Niedergang ist vorüber und die Russen beginnen mit dem Wiederaufbau. Schon jetzt beanspruchen sie die ehemaligen Territorien des Zarenreiches und die osteuropäischen Staaten werden sicher eines ihrer Ziele sein.\n\nUm die Eindämmung der russischen Bedrohung und die Souveränität der Staaten Osteuropas zu garantieren, haben sich Politiker und Generäle in [MIE_leader.Capital.GetCapitalVictoryPointName] versammelt, um ein Konzept der gegenseitigen Kooperation zu erarbeiten. Eine gemeinsame militärische Verteidigung wurde etabliert und [MIE_leader.GetNameDef] wurde damit anvertraut, die gemeinsamen Verteidigungsunternehmen der Region zu finanzieren."
  mie.0.a: "Großartig!"
 
  MIE_decisions: "Osteuropäische Verteidigungskooperation"
@@ -63,6 +63,7 @@
  MIE_1500_sup_tooltip: "Es kostet $MIE_1000_sup_blocked$, diese Entscheidung zu treffen."
 
  MIE_build_forts_in_whr: "Der Ostwall"
+ MIE_build_forts_in_whr_tt: "§gErrichte Level 1 £GFX_land_fort_texticon §Y$bunker_plural$§! in jeder belarussischen Grenzprovinz.§!"
 
  mie.1.t: "Osteuropäische Kooperation"
  mie.1.d: "[MIE_leader.GetNameDefCap] hat sich dazu entschieden, einen Teil unserer gemeinschaftlichen Verteidigungsausgaben für Befestigungen an unserer russischen Grenze auszugeben. Diese Befestigungen wurden nun fertiggestellt und sind bereit, bemannt zu werden."

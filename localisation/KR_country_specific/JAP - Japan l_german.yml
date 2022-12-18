@@ -479,18 +479,11 @@
  JAP_harder_eco_int_tt: "£decision_icon_small §HInvestitionen fördern§! und £decision_icon_small §HÜbernehmen§! Entscheidungen werden die Kosten §Hverdoppeln§!. Die Abklingzeit für Investitionen wird um §H100§! Tage erhöht."
 
  JAP_korean_military_administration_tooltip: "Ändern Sie §H$JAP_korean_military_administration$§! um"
- JAP_korea_slots_tt: "$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: $RIGHT|+=%0$"
- JAP_korea_garrison_factor_tt: "$MODIFIER_REQUIRED_GARRISON_FACTOR$: $RIGHT|-=%0$"
- JAP_korea_manpower_tt: "$MODIFIER_LOCAL_MANPOWER$: $RIGHT|+=%0$"
  JAP_korean_autonomy: "Hat der §HChōsen§! Autonomie erfolgreich zugestimmt"
  JAP_koreans_strongly_oppose: "§oDie Chōsen-Delegation wird gehen!§!"
  JAP_koreans_dont_like: "§RDer Chōsen-Delegation wird das nicht gefallen§!"
 
  JAP_ichigo_tooltip: "Erhält '§H$JAP_ichigo$§!', mit zusätzlichen (Angriffsbonus gegen §HAlle Chinesischen Länder§! [?0.1|+=%1], Verteidigungsbonus gegen §HAlle Chinesischen Länder§! [?0.05|+=%1]) für §H100§! Tage."
-
-### Fixing a vanilla bug
- JAP_nav_mass_bug: "Ändern §HModularer Schiffbau§! von\n§H$ship_hull_submarine$§!: $STAT_COMMON_BUILD_COST_IC$[?-0.1|-=%]\nOberflächensichtbarkeit:  [?+0.05|-=%]\nSichtbarkeit:  [?+0.05|-=%]\n§H$ship_hull_light$§!: $STAT_COMMON_BUILD_COST_IC$[?-0.1|-=%]\nWeicher Angriff:  [?-0.05|+=%]\nWasserbomben:  [?-0.05|+=%]\n§H$ship_hull_cruiser$§!: $STAT_COMMON_BUILD_COST_IC$[?-0.1|-=%]\nPanzerung:  [?-0.1|+=%]\nWeicher Angriff:  [?-0.1|+=%]\nHarter Angriff:  [?-0.1|+=%]\nWasserbomben:  [?-0.1|+=%]\n§H$ship_hull_heavy$§!: $STAT_COMMON_BUILD_COST_IC$[?-0.1|-=%]\nPanzerung:  [?-0.1|+=%]\nWeicher Angriff:  [?-0.1|+=%]\nHarter Angriff:  [?-0.1|+=%]\n§H$ship_hull_carrier$§!: $STAT_COMMON_BUILD_COST_IC$[?-0.1|-=%]\nPanzerung:  [?-0.1|+=%]\nPlatz an Deck:  [?-0.1|+=%]"
- JAP_nav_qual_bug: "Ändern §HÜberlegene Technik§! von\n§H$ship_hull_submarine$§!: $STAT_COMMON_BUILD_COST_IC$[?+0.1|-=%]\nOberflächensichtbarkeit:  [?-0.05|-=%]\nSichtbarkeit:  [?-0.05|-=%]\n§H$ship_hull_light$§!: $STAT_COMMON_BUILD_COST_IC$[?+0.1|-=%]\nWeicher Angriff:  [?+0.1|+=%]\nWasserbomben:  [?+0.1|+=%]\n§H$ship_hull_cruiser$§!: $STAT_COMMON_BUILD_COST_IC$[?+0.1|-=%]\nPanzerung:  [?+0.05|+=%]\nWeicher Angriff:  [?+0.1|+=%]\nHarter Angriff:  [?+0.1|+=%]\nWasserbomben:  [?+0.1|+=%]\n§H$ship_hull_heavy$§!: $STAT_COMMON_BUILD_COST_IC$[?+0.1|-=%]\nPanzerung:  [?+0.1|+=%]\nWeicher Angriff:  [?+0.1|+=%]\nHarter Angriff:  [?+0.1|+=%]\n§H$ship_hull_carrier$§!: $STAT_COMMON_BUILD_COST_IC$[?+0.1|-=%]\nPanzerung:  [?+0.05|+=%]\nPlatz an Deck:  [?+0.05|+=%]"
 
 ### Scripted Loc ###
  JAP_ally1_name: "§Y[?global.asian_economic_sphere^0.GetFlag][?global.asian_economic_sphere^0.GetName]§!, "
@@ -2215,6 +2208,17 @@
  japfor.603.d: "Mit der Eskalation des Krieges in China sind unsere tapferen Truppen trotz ihrer hervorragenden Ausrüstung und Ausbildung in einen gewissen Nachteil geraten. Unsere Kommandeure vor Ort haben bereits begonnen, sich zu zanken und zu streiten und eigene, voneinander abweichende Initiativen zu ergreifen, die die Regierung in Tokio und manchmal sogar das kaiserliche Hauptquartier nicht einschränken können. Hinzu kommt, dass die seit langem bestehende Rivalität zwischen Heer und Marine bereits in den Chinakrieg übergegangen ist, da die Marine sich weigert, Ausrüstungsgegenstände zu verschiffen, oder sie sogar in den Häfen über Bord wirft, so dass sie von der Armee aus dem Wasser gefischt werden muss.\n\nJetzt, da wir weiter nach China vordringen und unsere Nachschublinien über schlammige Pfade und tückische Gebirgspässe verlaufen, kann sich dieses Problem nur noch verschärfen. Wir müssen uns bemühen, interne Konflikte zu lösen und unsere Kriegsmittel zu optimieren, sonst riskieren wir eine Niederlage gegen einen unterlegenen Feind."
  japfor.603.a: "Shō ga nai. (Es ist nicht zu ändern)..."
 
+ japfor.470.t: "Der Große Pazifikkrieg"
+ japfor.470.d: "Seit dem Zweiten Amerikanischen Bürgerkrieg stand das Kaiserreich Japan im Pazifik praktisch unangefochten da, und viele sagten voraus, dass es die führende Macht in der Region werden und seine amerikanischen und deutschen Rivalen an Einfluss in den Schatten stellen würde. Als die amerikanische Regierung nach dem Bürgerkrieg ihre militärische und industrielle Macht wieder aufbaute, richtete sie ihr Augenmerk erneut auf den Pazifik und forderte Japans Vorherrschaft offen heraus - mit Berichten über Seegefechte zwischen den beiden Großmächten. \n\nTrotz der durchschlagenden Erfolge Japans im Pazifik steht es nun vor seiner bisher größten Herausforderung, da der industrielle Moloch Amerika die Trümmer des Bürgerkriegs abschüttelt und seine Kriegsmaschinerie wieder zum Leben erwacht."
+ worldnews_japan_vs_america_JAP: "Die Sonne soll nicht untergehen!"
+ worldnews_japan_vs_america_JAP_allies: "Mögen wir siegen, und zwar schnell!"
+ worldnews_japan_vs_america_USA: "In einem Moment der Schwäche sind wir gestolpert, aber wir werden nicht wanken!"
+ worldnews_japan_vs_america_USA_allies: "Wir stehen mit dem Adler!"
+ worldnews_japan_vs_america_GER: "Es scheint, dass Japan zum letzten Mal seine Grenzen überschritten hat."
+ worldnews_japan_vs_america_INT: "Die Imperialisten raufen sich untereinander!"
+ worldnews_japan_vs_america_neutralasia: "Das Gleichgewicht der Kräfte wird so oder so geregelt."
+ worldnews_japan_vs_america_generic: "Kann der Moloch der japanischen Dominanz die Stirn bieten?"
+
 ### Fengtian Events ###
  japfeng.1.t: "Unser Einfluss in der Mandschurei"
  japfeng.1.d: "Seit vielen Jahren arbeiten wir daran, die Kontrolle über die Mandschurei und auf lange Sicht über ganz China zu erlangen, und zwar mit Hilfe einer Gruppe panasiatischer Interessen, die als Concordia Association bekannt ist. Dabei handelt es sich um eine politische Partei, die versucht, pro-japanische Ansichten in [FNG.GetNameDef] zu fördern und [FNG.GetLeader] unterwürfig zu halten. Langfristig zielt sie darauf ab, die wirtschaftliche Kontrolle Japans über die Mandschurei in Zusammenarbeit mit Mantetsu weiter auszudehnen und auch China langsam in unsere Umlaufbahn zu bringen.\n\nNeben der Politik der zivilen Behörden der Mandschurei steht unser eigenes Militär, die notorisch ehrgeizige Kwantung-Armee. Seit Jahrzehnten versucht die Armee, die Mandschurei zu erobern und zu annektieren, und ihre bevorzugten Methoden und ihre Geduld bei der Zusammenarbeit mit Leuten wie [FNG.GetLeader] sind berüchtigt brutal bzw. gering.\n\nIn letzter Zeit haben sich die politischen Ziele der Regierung geändert, und die Kriegssituation, in der wir uns befinden, macht die politische Unabhängigkeit von [FNG.GetNameDef] immer weniger geeignet, da bestimmte Verbündete immer wertvoller werden.\n\nWir stehen vor der Wahl: Vertrauen wir auf die Concordia Association und die Soft Power, die sie stetig aufgebaut hat, oder lassen wir die Armee von der Leine und bringen Zhang mit allen Mitteln zu Fall?"
@@ -2320,7 +2324,7 @@
  JAP_sugawara_michio: "Sugawara Michio"
  JAP_kanin_kotohito: "Kan'in Kotohito"
  JAP_sugiyama_hajime: "Sugiyama Hajime"
- JAP_nishi_yoshizaku: "Nishi Yoshizaku"
+ JAP_nishi_yoshikazu: "Nishi Yoshikazu"
  JAP_fushimi_hiroyasu: "Fushimi Hiroyasu"
  JAP_nagano_osami: "Nagano Osami"
  JAP_shimada_shigetaro: "Shimada Shigetarō"
@@ -2335,3 +2339,5 @@
 
 ### Traits ###
  JAP_imperial_regent: "Kaiserlicher Regent"
+ JAP_samurai_lineage: "Samurai Abstammung"
+ JAP_samurai_lineage_desc: "§LDieser Mann entstammt dem stolzen Geschlecht der Samurai und bleibt den alten Traditionen und Loyalitäten treu.§!"

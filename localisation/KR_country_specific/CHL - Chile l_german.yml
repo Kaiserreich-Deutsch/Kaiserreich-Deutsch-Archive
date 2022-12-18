@@ -577,7 +577,8 @@ chl.51.a: "Warum? Da sind nur Pinguine."
 chl.51.b: "Es gehört zu Chile!"
 
 chl.52.t: "Chile erobert die Galapagosinseln"
-chl.52.d: "Chile hat den Konflikt mit Peru ausgenutzt und versucht, die Inseln zu erobern, während wir von unserem Krieg abgelenkt sind."
+chl.52.d.ecu: "Chile hat den Konflikt mit Peru ausgenutzt und versucht, die Inseln zu erobern, während wir von unserem Krieg abgelenkt sind."
+ chl.52.d.not_ecu: "Unter Ausnutzung unserer kürzlichen Annexion Ecuadors hat Chile einen Vorstoß auf die Galapagos-Inseln unternommen und sie in Besitz genommen, bevor sie von uns besetzt werden konnten."
 chl.52.a: "Wir können nichts tun..."
 chl.52.b: "Befiehlt der Garnison, sie abzuwehren!"
 

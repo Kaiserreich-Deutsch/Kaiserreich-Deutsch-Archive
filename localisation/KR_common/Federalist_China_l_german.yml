@@ -96,7 +96,7 @@ UPC_public_works_tt: "Schaltet £decision_icon_small §Hweitere Entscheidungen§
 UPC_foreign_ministry_tt: "Schaltet £decision_icon_small §HAußenpolitik§! frei"
  
 UPC_will_join_faction_after_war: "§GWir werden der §H[FROM.GetFactionName]§! beitreten können, sobald unsere Kriege abgeschlossen sind.§!."
-UPC_will_join_faction_after_war_FROM: "§H[FROM.GetNameWithFlag] wird der §H[FROM.GetFactionName]§! beitreten, sobald ihre Kriege beendet sind§!."
+UPC_will_join_faction_after_war_FROM: "§G[FROM.GetNameWithFlag] wird der §H[ROOT.GetFactionName]§! beitreten, sobald ihre Kriege beendet sind§!."
 
 ### Flags ###
 UPC_built_to_nanning: "Hat die Entscheidung £decision_icon_small §H$UPC_guangzhou_nanning$§! absolviert"

@@ -264,7 +264,6 @@ GER_colonial_resources_distribution_partly_tt: "§RFünf§! unserer zivilen Fabr
 GER_csavol_tt: "Zwei freiwillige Abteilungen werden eintreffen"
 GER_received_equipment_10000: "Wir werden 10000 Einheiten Infanterieausrüstung erhalten."
 GER_cannot_join_until_WK: "§R[From.GetName] kann vor dem Weltkrieg nicht der [ROOT.GetFactionName] beitreten.§!"
- GER_doctrine_mobile_3_tooltip: "Ändern Sie §H$GER_invest_arms_industry$§! um\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?-0.05|=%1H]\n§HPanzerung§!: $STAT_COMMON_BUILD_COST_IC$[?-0.2|-=%]"
 GER_no_appointed_chancellors: "§HKaiser [Root.GetLeader]§! wird den Kanzler nicht mehr ernennen können."
 
  GER_women_suffrage_moderate: "Der Wahlrechtsbewegung wird kein Widerstand entgegengesetzt"
@@ -671,6 +670,8 @@ GER_mitteleuropa_brigades_desc: "In dem Bestreben, eine einheitliche Kommandostr
 
 GER_ostwall: "Ausbau des Ostwalls"
 GER_ostwall_desc: "Unsere östlichen Verbündeten sind anfällig für jede Aggression, die vom russischen Bären ausgeht. Wir müssen die Ostwall-Verteidigung ausbauen, um unseren Partnern eine Kampfchance zu geben, bevor unsere Streitkräfte eintreffen."
+
+ GER_ostwall_1_tt: "§gErrichten Sie in jeder Grenzprovinz im Baltikum £GFX_land_fort_texticon §Y$bunker_plural$§! der Stufe 2 und in jeder Grenzprovinz in Belarus £GFX_land_fort_texticon §Y$bunker_plural$§! der Stufe 1.§!"
 
  GER_poland_war: "Neue Ostpolitik"
  GER_poland_war_desc: "Wir müssen unsere Ostpolitik angesichts der wachsenden russischen Bedrohung und des zunehmenden Nationalismus in Osteuropa neu ausrichten. Deutschland wird diese von Natur aus untergeordnete Region befrieden und die Ordnung wiederherstellen, so oder so."
