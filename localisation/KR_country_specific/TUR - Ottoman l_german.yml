@@ -310,10 +310,7 @@
  ott_increase_tri_int_20: "Erhöht die §YIntegration der tripolitanischen Vilayets§! um §G20%§!"
  ott_increase_tri_int_50: "Erhöht die §YIntegration der tripolitanischen Vilayets§! um §G50%§!"
 
-# Millet Mektepleri
- millet_mektepleri_increase_4: "Modifiziert §YMillet Mektepleri (Osmanisches Reich)§! um $MODIFIER_RESEARCH_SPEED_FACTOR$: §G+4%§!" 
- millet_mektepleri_increase_2: "Modifiziert §YMillet Mektepleri (Osmanisches Reich)§! um $MODIFIER_RESEARCH_SPEED_FACTOR$: §G+2%§!" 
- millet_mektepleri_increase_1: "Modifiziert §YMillet Mektepleri (Osmanisches Reich)§! um $MODIFIER_RESEARCH_SPEED_FACTOR$: §G+1%§!" 
+ TUR_millet_mektepleri_tooltip: "Modifiziert §Y$ott_millet_mektepleri_idea$§! um"
 
  OTT_autonomous_regions: "Autonome Regionen"
  OTT_vilayets: "Vilayets"
@@ -348,10 +345,9 @@
 #####################
 # Dynamic Modifiers #
 #####################
- millet_mektepleri_dynamic_modifier: "£pol_idea Millet Mektepleri"
+ millet_mektepleri_dynamic_modifier: "£pol_idea $ott_millet_mektepleri_idea$"
  ott_millet_mektepleri_idea: "Millet Mektepleri"
- ott_millet_mektepleri_idea_desc: "§W$MODIFIER_RESEARCH_SPEED_FACTOR$: [?var_millet_mektepleri|+=%]§!"
- ott_millet_mektepleri_add_tooltip: "Fügt Modifikator hinzu: §H$ ott_millet_mektepleri_idea$§!"
+ ott_millet_mektepleri_modifier_tt: "$MODIFIER_RESEARCH_SPEED_FACTOR$: [?var_millet_mektepleri|+=%]§!"
 
  vilayet_stability_dynamic_modifier: "£pol_idea Stabilität des Reiches"
  ott_vilayet_stability_idea: "Stabilität des Reiches"

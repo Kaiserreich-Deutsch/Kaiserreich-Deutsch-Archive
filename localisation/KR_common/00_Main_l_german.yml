@@ -100,6 +100,7 @@ is_czechoslovak_tag: "Ist ein tschechoslowakisches Land"
 is_turkish_tag: "Ist ein türkischsprachiges Land"
 is_romanian_tag: "Ist ein rumänischsprachiges Land"
 is_greek_tag: "Ist ein griechischsprachiges Land"
+is_baltic_tag: "Ist ein baltisches Land"
 
 ### Actual Major Power Tooltip ###
 is_actual_major_tooltip_base:0" Ist eine wichtige Weltmacht:"

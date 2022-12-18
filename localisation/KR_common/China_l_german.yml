@@ -252,11 +252,6 @@ form_republic_china_decision: "Bildet die [GetROCvsUPC]"
 form_republic_china_decision_desc: "Jetzt, wo wir die Hauptstadt kontrollieren, können wir eine neue nationale Regierung für China ausrufen!"
 
 ### Misc Events
-china_shared.16.t: "Der Marsch der Freiwilligen"
-china_shared.16.d: "Von den linken Filmemachern Nie Er und Tian Han als Filmmusik zu ihrem antijapanischen patriotischen Film "Children of Troubled Times" geschrieben, hat der Marsch der Freiwilligen angesichts des letzten Kampfes gegen die japanische Aggression bei Chinesen aller Schichten Anklang gefunden."
-china_shared.16.a: "Lasst die Männer ihr Lied haben, bis der Krieg zu Ende ist."
-china_shared.16.b: "Eine mitreißende Melodie!"
-
 lepwar.1.t: "Unsere Männer desertieren!"
 lepwar.1.desc: "Tag für Tag bricht unsere Moral zusammen. Wir haben keine Siege vorzuweisen, keinen Ruhm und wurden in eine Todesspirale geschickt, aus der wir nicht mehr zurückkehren können. Enge Vertraute von [THIS.GetLeader] haben ihn dazu gedrängt, sich in Sicherheit zu bringen, aber während er sich weigert und am Glauben an den Sieg festhält, haben unsere Soldaten bereits begonnen zu verschwinden..."
 lepwar.1.a: "Wir brauchen einfach mehr Zeit!"

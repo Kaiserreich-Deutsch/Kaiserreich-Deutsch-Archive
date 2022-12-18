@@ -352,14 +352,20 @@ zero_island:0 "Winzige Insel"
  EFFECT_CHANGE_LAW_mobilization_laws:0 "Änderung des Mobilisierungsgesetzes zu '$NAME|Y, das ($DESC$) gewährt."
  EFFECT_UNLOCK_DECISION:0 "Schaltet die Entscheidung frei: £decision_icon_small $NAME|H$EFFECT$"
  EFFECT_UNLOCK_DECISION_CATEGORY:0 "Schaltet £decision_icon_small $NAME|H$ Entscheidungen frei."
- EFFECT_SET_STATE_CATEGORY:0 "wird zu $CATEGORY|Y$."
+ EFFECT_SET_STATE_CATEGORY:0 "Die Kategorie des Zustands ändert sich in $CATEGORY|Y$."
  EFFECT_ACTIVATE_TARGETED_DECISION:0 "Aktiviert Entscheidung: £decision_icon_small $NAME|H$"
  EFFECT_REMOVE_TARGETED_DECISION:0 "Deaktiviert Entscheidung: £decision_icon_small $NAME|H$"
+
+ EFFECT_ADD_CLAIM_BY: "@$TAG$$COUNTRY|H$ erhält Anspruch auf den Staat."
+ EFFECT_REMOVE_CLAIM_BY: "@$TAG$$COUNTRY|H$ verliert den Anspruch auf den Staat."
 
 # missing line breaks
  EFFECT_ADD_VP:0 "Füge $VALUE|H$£victory_points£ zu $PROVINCE|H$ hinzu.\n"
  EFFECT_SUBTRACT_VP:0 "Subtrahiere $VALUE|H$£victory_points£ von $PROVINCE|H$.\n"
  EFFECT_SET_VP:0 "Setzt die Siegpunkte von $PROVINCE|H$ auf $VALUE|H$£victory_points.\n"
+ EFFECT_ADD_DYMAMIC_MODIFIER: "Fügen Sie $NAME|H$ hinzu, das gewährt:\n$DESC$\n"
+ EFFECT_ADD_DYMAMIC_MODIFIER_WITH_DAYS: "Fügen Sie $NAME|H$ ($NUM|H$ Tage) hinzu, das gewährt:\n$DESC$\n"
+ EFFECT_REMOVE_DYMAMIC_MODIFIER: "Entfernen Sie $NAME|H$, die gewährt:\n$DESC$\n"
 
 ### frontend_l_english
  FE_COOP_LABEL:0 "Ko-operativ"

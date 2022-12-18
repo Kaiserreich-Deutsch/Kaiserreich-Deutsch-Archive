@@ -842,7 +842,7 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
 
  BUL_curtail_military_league: "Die Militärische Liga zügeln"
  BUL_curtail_military_league_desc: "Die Militärische Liga manifestiert ihren politischen Einfluss in subversiven Organisationen wie der Zveno - wir müssen sie daran hindern, die Macht zu übernehmen und das zivile Regime zu stürzen, indem wir mit der Union verbündete Offiziere absetzen oder auf weniger wichtige Posten versetzen."
- BUL_curtail_military_league_take_five: "Sie können diesen Fokus noch bis zu §Yfünfmal§! verwenden.\n"
+ BUL_curtail_military_league_take_five: "Dieser Fokus kann §Yfünf§! mal abgeschlossen werden (derzeit §Y[?BUL.BUL_curtail_focus_amount_var]§!/§Y5§!)."
  BUL_curtail_military_league_amount_taken: "Wir haben den Fokus §Y[?BUL.BUL_curtail_focus_amount_var] mal§! bisher genutzt.\n\n"
 
  BUL_taming_the_powderkeg: "Das Pulverfass löschen"
