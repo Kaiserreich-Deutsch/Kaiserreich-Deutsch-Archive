@@ -1,8 +1,8 @@
 ﻿l_german:
 ### Übersetzt von Proho ###
 ### Opening Event ###
-kr.political.1.t: "Kaiserreich Beta 0.23.2"
-kr.political.1.d: "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.23.2 für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\n\nDiese Mod wurde unter der Annahme entwickelt, dass der Spieler alle möglichen Staaten während der Friedenskonferenzen annektiert, also stellen Sie bitte sicher, dass Sie das tun.\n\nDie Häufigkeit der Nachrichtenereignisse und das Namenssystem für Staaten und Siegpunkte können in einem Menü eingestellt werden, das durch Anklicken des Symbols, das das Menü der Erfolge oben rechts ersetzt, aufgerufen wird.\n\nDenkt daran, dass sich diese Mod noch in der Beta-Phase befindet, so dass Bugs und Abstürze leider möglich sind. Wenn ihr auf Probleme stoßt, ist es eine große Hilfe, sie auf unserem GitHub Issue Tracker zu melden, damit sie schneller behoben werden.\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
+kr.political.1.t: "Kaiserreich Beta 0.23.3"
+kr.political.1.d: "Das Kaiserreich-Team ist stolz darauf, Kaiserreich Beta-Version 0.23.3 für Hearts of Iron 4 zu präsentieren.\n\nUnser Team hat von jedem Winkel der Welt aus hart gearbeitet, um Ihnen diese neue Version zu präsentieren, und wir könnten uns sehr geehrt fühlen, dass Sie sich dafür entscheiden, diese neue Version zu spielen.\n\nBitte beachten Sie Folgendes:\n\nDiese Mod wurde unter der Annahme entwickelt, dass der Spieler alle möglichen Staaten während der Friedenskonferenzen annektiert, also stellen Sie bitte sicher, dass Sie das tun.\n\nDie Häufigkeit der Nachrichtenereignisse und das Namenssystem für Staaten und Siegpunkte können in einem Menü eingestellt werden, das durch Anklicken des Symbols, das das Menü der Erfolge oben rechts ersetzt, aufgerufen wird.\n\nDenkt daran, dass sich diese Mod noch in der Beta-Phase befindet, so dass Bugs und Abstürze leider möglich sind. Wenn ihr auf Probleme stoßt, ist es eine große Hilfe, sie auf unserem GitHub Issue Tracker zu melden, damit sie schneller behoben werden.\n\nWir hoffen, Ihr werdet genauso gerne Kaiserreich spielen wie wir!"
 kr.political.1.a: "Da bin ich sicher!"
 
 ### Generic Faction Joining ###
@@ -155,23 +155,20 @@ unit_limit_factory_bonus: "Industriebonus auf Divisionslimit"
 unit_limit_bonus: "Divisions Limit"
  unit_limit_subject_bonus: "Division Limit"
 
-unit_limit_label: "§HMaximal unterstützte Divisionen§!"
-unit_limit_desc: "Jedes Land hat nur die Fähigkeit, eine bestimmte Anzahl einzelner militärischer Divisionen zu unterstützen, bevor seine Wirtschaft und Infrastruktur damit zu kämpfen hat, diese zu unterhalten.\n\nDie maximale Anzahl der geförderten Einheiten basiert auf der Gesamtbevölkerung und den Besitzständen des Landes und wird dann mit dem allgemeinen Industrialisierungsgrad des Landes multipliziert.[unit_limit_civil_war]\n\n§L   - Basis aus Gesamtbevölkerung: [?base_population|G1][unit_limit_noncore_population][unit_limit_subject_population_bonus]\n   - Basis aus eigenen Staaten: [?base_states|G0][unit_limit_subject_state_bonus]\n   - Gesamtbasis: [?base_units|G1]\n\n   - Industrialisierung Verändern: [?industry_factor_uncapped|H%][unit_limit_modifier_was_capped][unit_limit_extra_modifier_line_break][unit_limit_faction_leader][unit_limit_economy_law][unit_limit_was_capped][unit_limit_lower_limit_used][unit_limit_bonus_used]\n\n   ENDSUMME: [?max_divisions|H1]\n\nBitte beachten Sie, dass Änderungen an den obigen Angaben bis zu einer Woche im Spiel dauern, bevor sie in der Berechnung berücksichtigt werden.§![above_unit_limit_desc]"
+unit_limit_label: "§HMaximal unterstützte Divisionen§!\nDivisions: [?max_divisions|H0]\n\nBasiswert: [?base_units|G1]\n   - Von der Kernbevölkerung: [?core_base|G1][unit_limit_noncore_population][unit_limit_subject_population_bonus]\n   - Aus dem Besitz von Staaten: [?num_owned_states|G0][unit_limit_subject_state_bonus]\n\nMultiplikator der Fabrikzählung: [?industry_factor_uncapped|H%][unit_limit_modifier_was_capped][unit_limit_modified_by][unit_limit_faction_leader][unit_limit_economy_law]\n\nStandard: [?5|G=0][unit_limit_bonus_used]"
+unit_limit_desc: "Jedes Land hat nur die Fähigkeit, eine bestimmte Anzahl einzelner militärischer Divisionen zu unterstützen, bevor seine Wirtschaft und Infrastruktur damit zu kämpfen hat, diese zu unterhalten.\n\nDie maximale Anzahl der unterstützten Einheiten basiert auf der §HBevölkerung§! und §HAnzahl der in Besitz befindlichen Staaten§! und wird dann mit einem Verhältnis dieses Wertes zur §HAnzahl der Fabriken§! in den Staaten multipliziert.\n\nIn §HBürgerkriegen§! werden die Basiswerte aus der Summe aller Staaten im Besitz aller Teilnehmer berechnet.[above_unit_limit_desc]"
 
 unit_limit_desc_fake_intel: "(§HGefälschte Intel-Divisionen§! nicht auf die Divisionsgrenze angerechnet)"
 
 unit_limit_desc_above_limit: "\n\n--------------\n\n§RWir haben derzeit unsere Kapazitäten überschritten, und die einzige Möglichkeit, den Stress für unser Land zu verringern, besteht darin, einige unserer Divisionen aufzulösen.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]"
 
- unit_limit_civil_war_desc: "\n\nIn §HBürgerkriegen§! werden die Basiswerte aus der Summe aller Staaten berechnet, die alle Teilnehmer besitzen."
-unit_limit_noncore_population_desc: "\n      (§H2%§! von Nicht-Kernstaaten: [?non_core_base|H1])"
- unit_limit_subject_population_bonus_desc: "\n      ([?subject_base_units|H1] von §HSubjects§!)"
- unit_limit_subject_state_bonus_desc: "\n      ([?subject_states|H1] von §HSubjects§!)"
+ unit_limit_noncore_population_desc: "\n   - Von der Nicht-Kernbevölkerung: [?non_core_base|G1]"
+ unit_limit_subject_population_bonus_desc: "\n   - Von §HUntertan§! Bevölkerung: [?subject_base_units|G1]"
+ unit_limit_subject_state_bonus_desc: "\n   - Von §HUntertan§! Staaten: [?subject_states|G0]"
 unit_limit_modifier_was_capped_desc: "\n      (Begrenzt auf ein Minimum von [?0.5|H%])"
+ unit_limit_modified_by_desc: "\n\nWeiter geändert durch:"
 unit_limit_faction_leader_desc: "\n   - Fraktionsführer: §G+15%§!"
-unit_limit_was_capped_desc: "\n\n   - Unbegrenzt Gesamt: [?net_max_divisions|H0]"
-unit_limit_num_states_used_desc: "\n\n   Da die angegebene Gesamtzahl niedriger war als die Anzahl der besessenen Werte ([?num_owned_states|H0]), wurde diese stattdessen verwendet."
-unit_limit_default_used_desc: "\n\n   Da die bereitgestellte Summe kleiner war als der Standardwert (§H5§!)war, wurde stattdessen dieser verwendet."
-unit_limit_bonus_used_desc: "\n\n   - Zusätzliche Modifikatoren: [?modifier@unit_limit_bonus|=+0] to cap"
+ unit_limit_bonus_used_desc: "\nNationalgeiste: [?modifier@unit_limit_bonus|=+0]"
 
 unit_limit_low_economic_mobilisation: "\n   - §H$low_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"
 unit_limit_partial_economic_mobilisation: "\n   - §H$partial_economic_mobilisation$§!: [?modifier@unit_limit_factory_bonus|+=%0]"

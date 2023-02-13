@@ -432,9 +432,6 @@ ANQ_Hangzhou_Port_Line_desc: "Gesichert, zusammen mit der Allianz des verräteri
 ANQ_attack_SQI: "Greife Shandong an"
 ANQ_attack_SQI_desc: "Die Shandong-Regierung wird uns höchstwahrscheinlich jeden Moment den Krieg erklären. Wir können nicht zulassen, dass solch ein gefährliches Regime an der Macht bleibt!"
 
-ANQ_attack_CHI: "Greife die Kuomintang an"
-ANQ_attack_CHI_desc: "Die Kuomintang sind eine ernsthafte Bedrohung für unseren Sicherheit und kontrolliere einen Teil unserer integralen fünf Provinzen. Wir müssen handeln, das gesamte Wesen unserer Nation steht auf dem Spiel!"
-
 ANQ_attack_FNG: "Greife die Regierung von Fengtian an"
 ANQ_attack_FNG_desc: "Die Fengtian-Regierung ist nicht die, für die wir sie gehalten haben, und wir haben die Beziehungen zu ihnen unterbrochen. Wir müssen jetzt gegen sie vorgehen, um die Zukunft Chinas zu retten."
 
@@ -1204,12 +1201,6 @@ anq.14.d: "Die Grenzkonflikte sind zu einer vollständigen Invasion in unsere Ko
 anq.14.a: "...sofort die Grenzen [FROM.GetNameDef] überschreiten." 
 anq.14.b: "Dies sind unruhige Zeiten."
 
-anq.15.t: "Zusammenstöße mit der Anqing-Clique"
-anq.15.d1: "Berichte haben das Kommandohauptquartiers erreicht,das es begrenzte Einsätze mit Anqing Clique-Truppen in kürzlich befreitem Gebiet gab. Trotz seiner lobenswerten antideutschen Ziele ist Chen Tiaoyuan immer noch nichts anderes als ein Kriegsherr und vor allem ein Opportunist. Als reaktionäres Element muss er eliminiert werden.\n\nEin vorübergehender Waffenstillstand könnte jedoch zu unserem Vorteil sein, und wir könnten die NRA anweisen, offene Konflikte zu vermeiden. Wenn wir uns dazu entschließen, müssen wir wachsam bleiben; Anqing-Kräfte konnten jederzeit angreifen."
-anq.15.d2: "In der Nähe der Anqing-Linien sind erneut Scharmützel ausgebrochen. Die genaue Ursache der Kämpfe ist unklar, aber es scheint vorhersehbar, dass sie ohne ausdrückliche gegenteilige Anweisungen eskalieren wird. Sollten wir den Männern sagen, sie sollen sich engagieren oder ihre Zeit weiter abwarten?"
-anq.15.a: "Krieg erklären"
-anq.15.b: "Position halten!"
-
 anq.16.t: "5 Provinzen wieder Vereint"
 anq.16.d: "Wir haben die fünf Provinzen vereint, was bedeutet, dass unser Kernland wieder ganz ist. Wir haben uns mit der Liga und den Bedrohungen im Norden und Süden befasst. Es ist jetzt an der Zeit, unsere Gebiete wieder aufzubauen und zu konsolidieren, bevor wir weiter nach Hunan und Liangguang schauen, um die Liga wieder neu zu machen."
 anq.16.a: "Sieg!" 
@@ -1566,11 +1557,6 @@ anq.97.t: "Vorläufige Währungsunterstützung"
 anq.97.d: "Vor einiger Zeit haben wir eine vorläufige Währung eingerichtet, die in allen Provinzen geteilt wird. Es war ein großer Erfolg, den Handel zu verbessern und die Beschränkungen für die Fortbewegung in den Provinzen zu lockern. Aber jetzt hat sich [getanqally] an uns gewandt, wenn wir bereit sind, sie die Währung freizugeben, wobei ihre Zentralbank sie kontrolliert. Die Währung würde getrennt bleiben und technisch würde ihre Zentralbank Entscheidungen nur mit ihrer Zustimmung treffen, in Wirklichkeit würde dies immer noch bedeuten, die Kontrolle zu verlieren. Eine [getanqally] Unterstützung der Währung würde sie jedoch erheblich stabiler machen und auch die Einführung beschleunigen und ihre Verwendung weiter verbessern."
 anq.97.a: "Ja wir geben sie frei"
 anq.97.b: "Nein, wir wollen die volle Kontrolle"
-
-anq.98.t: "KMT-Bedrohung"
-anq.98.d: "Die Kuomintang, die in den südlichen Provinzen solch eine unglaubliche Instabilität verursacht haben, drohen, alles, was China zu China macht, rückgängig zu machen. Ihre 'Nationale Revolution' bedroht das gesamte Wesen unserer Nation und höchstwahrscheinlich bereiten sie sich darauf vor, uns anzugreifen, während wir sprechen. Wir müssen bald handeln, sonst werden sie zu stark, als dass wir sie besiegen könnten!"
-anq.98.a: "Wir werden uns vorbereiten"
-anq.98.b: "Erkläre jetzt den Krieg!"
 
 anq.99.t: "Wu trifft Chen"
 anq.99.d: "Wu Peifu ist gekommen, um Chen in einem streng vertraulichen Treffen zu treffen. Wu Peifu reiste nur mit einem kleinen Gefolge und es war klar, dass er nicht hier war, um Qing zu propagieren, sondern nur um Chen zu überzeugen. Wu erschien müde, aber er übte auch eine Aura der Macht aus, mit der selbst Chen nicht mithalten konnte.\n\nDas Treffen dauerte nicht mehr als zwei Stunden, wobei Chen Tiaoyuan ohne ein Lächeln aus dem Raum auftauchte, in Gedanken versunken. Es wurde schnell klar, dass Chen wenig Gegenargumente auf Wus Beredsamkeit und Argumente hatte. China musste geeint werden, und das bald."

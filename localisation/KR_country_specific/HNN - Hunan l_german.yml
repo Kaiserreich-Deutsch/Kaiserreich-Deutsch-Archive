@@ -1094,10 +1094,6 @@ hnn.102.t: "Tag der Verfassung"
 hnn.102.d: "Heute ist der Jahrestag der Wiederherstellung der Hunan-Verfassung. Während der Zeit der Neuimplementierung der Verfassung hat sie die Bürger von Hunan anscheinend erfolgreich vor zu viel Korruption und Fehlverhalten geschützt, und Hunans demokratisches Experiment hat gut funktioniert."
 hnn.102.a: "Auf ein weiteres erfolgreiches Jahr!"
 
-hnn.103.t: "Bounce Event"
-hnn.103.d: "This is a bounce event, you should not see this."
-hnn.103.a: "Boing"
-
 hnn.104.t: "'Eintrag Nr. 192 - Ein weiterer Tag in Changsha'"
 hnn.104.d: "'Man sagt, der buddhistische General sei zurückgekehrt. Das interessiert mich nicht, Zhao Hengti auch nicht. Das ist alles nur Unsinn – ich möchte nur meine Familie schützen, ohne Angst zu haben, dass diese Demonstranten in mein Haus stürmen. Verdammt, die Preise steigen durch den Zusammenbruch schnell und niemand möchte mehr, dass ich seine Klingen schärfe. Ich hasse das - ich werde nach Norden gehen und mit dem Geld, das ich noch habe, nach Wuchang ziehen.'"
 hnn.104.a: "'Das Leben heutzutage...'"
@@ -1128,6 +1124,27 @@ hnn.109.a: "Lass dich nicht von der Tür treffen."
 hnn.110.t: "He Jian kommt in Peking an"
 hnn.110.d: "He Jian floh nach der Niederlage seines Verbündeten Zhao Hengti aus Hunan. Er ist jetzt in Peking angekommen und hat unseren Schutz erhalten."
 hnn.110.a: "Willkommen."
+
+ hnn.111.t: "Der Buddhistische General ergreift die Macht!"
+ hnn.111.d_gxc: "Tang Shengzhi, der 'Buddhistische General' von Hunan, hat den Gouverneur Zhao Hengti abgesetzt und formell die Herrschaft über Hunan beansprucht. Tang ist ein strenger Republikaner, und obwohl seine Loyalität im Moment unklar ist, könnte er sich in Zukunft als Verbündeter erweisen. Zumindest wurde unseren Feinden in Peking ein Verbündeter vorenthalten."
+ hnn.111.d_szc: "Tang Shengzhi, der 'Buddhistische General' von Hunan, hat den Gouverneur Zhao Hengti abgesetzt und formell die Herrschaft über Hunan beansprucht. Tang ist ein strenger Republikaner, und seine Loyalitäten sind im Moment unklar. Er könnte sich in Zukunft als Verbündeter oder als Feind erweisen. Klar ist, dass Pekings Südflanke jetzt von einem Feind des Regimes gehalten wird."
+ hnn.111.a: "Wir werden ihn genau beobachten."
+
+ hnn.112.t: "Kuomintang übernimmt die Macht in Hunan!"
+ hnn.112.d_gxc: "[HNN.GetLeader], ein Rebellenführer der Kuomintang in Hunan, hat die Kontrolle über die Provinz übernommen und sich formell zu den Idealen von Dr. Sun bekannt. Dies ist eine besorgniserregende Entwicklung, da unsere Nordflanke nun einem Feind unseres Regimes ausgesetzt ist."
+ hnn.112.d_szc: "[HNN.GetLeader], ein Rebellenführer der Kuomintang in Hunan, hat die Kontrolle über die Provinz übernommen und sich formell zu den Idealen von Dr. Sun bekannt. Er wird sich sicherlich mit der KMT verbünden, was sich für uns als Problem erweisen könnte."
+ hnn.112.a: "Mehr KMT-Soldaten. Schoßhunde für den Parteistaat."
+ hnn.112.b: "Der Parteienstaat wird stärker."
+
+ hnn.113.t: "Zhao Hengti hält sich in Hunan"
+ hnn.113.d: "Zhao Hengti, der Gouverneur von Hunan, hat sich nach einer Wahl, die von vielen in der Provinz und in ganz China als manipuliert und unfair bezeichnet wird, an der Macht gehalten. Obwohl er behauptet, den Ideen des Föderalismus treu zu sein, ist es offensichtlich, dass er sich nicht stark für die Demokratie einsetzt."
+ hnn.113.a: "Hoffentlich erinnert sich Gouverneur Zhao an seine Loyalität..."
+ hnn.113.b: "Schwere Zeiten für Hunan."
+
+ hnn.114.t: "Zhao Hengti gewinnt die Wahlen in Hunan"
+ hnn.114.d_gxc: "Gouverneur Zhao Hengti hat die jüngsten Provinzwahlen in Hunan gewonnen. Das ist eine gute Nachricht für uns, denn Zhaos Wahlsieg bedeutet auch, dass er sein Bekenntnis zu seinen föderalen Werten bekräftigt hat und das, was er für die besten Interessen der Nation hält, über seine früheren Loyalitäten zu Wu Peifu stellt."
+ hnn.114.d_szc: "Gouverneur Zhao Hengti hat die jüngsten Provinzwahlen in Hunan gewonnen. Dies hat die Föderalisten gestärkt, denn Zhaos Wahlsieg bedeutet auch, dass er sein Bekenntnis zu seinen föderalen Werten bekräftigt hat und das, was er für die besten Interessen der Nation hält, über seine früheren Loyalitäten zu Wu Peifu stellt."
+ hnn.114.a: "Es ist selten, dass ein Mann seinen Prinzipien folgt."
 
 ### Cosmetic Tags ###
 HNN: "Hunan"

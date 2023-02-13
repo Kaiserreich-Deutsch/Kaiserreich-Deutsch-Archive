@@ -720,7 +720,8 @@ guiTypes = {
 			borderSize = {x = 5 y = 0}
 			text = "Description"
 			maxWidth = 485
-			maxHeight = 70
+			maxHeight = 115 ## Dt. Übersetzung: Default 115; Nötig damit der Text nicht "überläuft"
+			scrollbarType = standardtext_slider ## Dt. Übersetzung: Hinzugefügt damit ganzer Text lesbar ist
 			format = center
 		}
 

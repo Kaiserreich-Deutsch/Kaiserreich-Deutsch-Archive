@@ -807,15 +807,24 @@ russia.1901.a: "Es scheint, dass wir doch keine \"potenzielle Supermacht\" waren
 
 russia.1902.t: "Der Fall Russlands"
 russia.1902.d: "Vor nicht allzu langer Zeit befand sich [RUS.GetNameDef] auf dem Zenit seiner Macht - angeheizt durch revanchistische Gefühle stellte das Moskauer Abkommen eine der glaubwürdigsten Bedrohungen für die deutsche Weltordnung dar. Einige gingen sogar so weit zu sagen, dass Russland in wenigen Jahren den Platz Deutschlands als Welthegemon einnehmen würde. \n\nDie derzeitigen Kriegsanstrengungen des Landes haben sich jedoch als katastrophal erwiesen. Nach dem Fall mehrerer Großstädte ist die Lage so weit, dass die russische Regierung ihren Feinden keinen ernsthaften Widerstand mehr leisten kann und sich um Friedensbedingungen bemüht - und mit ihrer Niederlage ist auch das internationale Bündnis, das sie angeführt hat, zerbrochen. Die überlebenden Mitglieder müssen sich nun in einer ungewissen Zukunft alleine durchschlagen."
-russia.1902.a: "Einmal mehr setzt sich der deutsche Geist durch." # Germany (and allies?)
-russia.1902.b: "Die Revolution muss überleben, mit oder ohne ihnen." # Internationale, not at war
-russia.1902.c: "Nichts kann den Lauf der Geschichte aufhalten." # Internationale, at war
-russia.1902.e: "Ein trauriger, aber notwendiger Abschied." # Entente, not at war, INT is alive
-russia.1902.f: "Und sie nannten uns tote Reiche." # Entente, at war
-russia.1902.g: "Eine Schande. Wenn sie ein bisschen länger durchgehalten hätten, vielleicht..." # Entente, not at war, INT is dead
-russia.1902.h: "Sie waren nie so furchterregend, wie sie aussahen." # Japan, regardless of war status
-russia.1902.i: "China schläft etwas ruhiger." # Chinese tags
-russia.1902.j: "Der Bär fällt, vielleicht endgültig." # Generic
+russia.1902.a: "Einmal mehr setzt sich der deutsche Geist durch."
+# Germany (and allies?)
+russia.1902.b: "Die Revolution muss überleben, mit oder ohne ihnen."
+# Internationale, not at war
+russia.1902.c: "Nichts kann den Lauf der Geschichte aufhalten."
+# Internationale, at war
+russia.1902.e: "Ein trauriger, aber notwendiger Abschied."
+# Entente, not at war, INT is alive
+russia.1902.f: "Und sie nannten uns tote Reiche."
+# Entente, at war
+russia.1902.g: "Eine Schande. Wenn sie ein bisschen länger durchgehalten hätten, vielleicht..."
+# Entente, not at war, INT is dead
+russia.1902.h: "Sie waren nie so furchterregend, wie sie aussahen."
+# Japan, regardless of war status
+russia.1902.i: "China schläft etwas ruhiger."
+# Chinese tags
+russia.1902.j: "Der Bär fällt, vielleicht endgültig."
+# Generic
 
 russia.1917.t: "Revolution!"
 russia.1917.d.dmitriy: "Nach der \"russischen Konterrevolution\" rechnete niemand mit einer baldigen Beruhigung der Lage. Nur die zynischsten Pessimisten hätten sich vorstellen können, dass Russland innerhalb weniger Wochen erneut in den Flammen der Revolution stehen würde. Obwohl Kornilows Entscheidung, die Macht an eine zivile Verwaltung zu übertragen, ausreichte, um die Zentristen davon abzuhalten, mit den Rechten gemeinsame Sache zu machen, blieb die Tatsache bestehen, dass die brutalen Methoden der Armee mit ihren Massenverhaftungen dazu geführt hatten, dass die Linke im Lande sich überwiegend radikaleren Parteien zuwandte. Da jede Hoffnung auf Reformen so tot war wie Kerenski, war es nur eine Frage der Zeit, bis viele von ihnen auf die Straße gingen.\n\nWas als Aufstände von Radikalen in Petrograd und Moskau begann, gewann schnell an Fahrt, da die Polizei nicht in der Lage war, sie zu unterdrücken. Als die Armee, die angeblich auf Befehl Kornilows und nicht Dmitrys handelte, eingriff, verschlimmerte sie die Lage durch ihr hartes Durchgreifen nur noch. Im Laufe der Tage nahmen die Unruhen an Intensität zu und immer mehr Menschen schlossen sich den Roten an. Trotz aller Bemühungen der zivilen Regierung, die Lage unter Kontrolle zu halten, war sie nur dem Namen nach eine Regierung. Sie war kaum im Amt und hatte bereits jegliche Legitimität verloren, die sie einst bei einem großen Teil der Bevölkerung des Landes gehabt haben mochte, insbesondere bei denjenigen, die Opfer von Kornilows drakonischen Maßnahmen geworden waren.\n\nNoch einige Tage, nachdem die Unruhen in den westlichen Teilen des Landes ausgebrochen waren, sah sich die Armee gezwungen, Dmitri und sein Kabinett aus der Hauptstadt zu evakuieren. Im Osten wurde eine provisorische Hauptstadt eingerichtet, und es wurden bereits Vorbereitungen für den Kampf um die Rückeroberung der westlichen Landesteile getroffen. In der alten Hauptstadt mögen die Revolutionäre, die die Gunst der Stunde nutzten, ohne breite Unterstützung in der Bevölkerung gehandelt haben, doch sobald sie an der Macht waren, schlossen sich viele Regionen rund um Moskau und Petrograd ihnen bald an, da viele Bauern und Intellektuelle gleichermaßen die Chance ergriffen, durch eine Revolution das zu erreichen, was sie durch Reformen niemals erreichen konnten. Obwohl sich die neue sozialistische Regierung in einer prekären Lage befindet, hat sie bereits Maßnahmen ergriffen, um Milizen zu mobilisieren und die Unterstützung der Bevölkerung zu gewinnen, da Russland auf einen weiteren blutigen Bürgerkrieg zuzusteuern scheint."

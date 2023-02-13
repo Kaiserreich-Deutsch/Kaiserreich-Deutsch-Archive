@@ -617,7 +617,7 @@ peking_university: "Imperial University of Beijing"
 jingling_arsenal: "Jingling Arsenal"
 gongxian_arsenal: "Gongxian Arsenal" hanyang_arsenal: "Hanyang Arsenal"
  hanyang_arsenal: "Hanyang Arsenal"
-qishuyan_locomotive_works: "Qishuyan Locomotive Works"
+ wusong_locomotive_works: "Wusong Locomotive Works"
 china_aviation_corporation: "China National Aviation Corporation"
 eurasia_aviation_corporation: "Eurasia Aviation Corporation"
 kiangnan_works: "Kiangnan Dock and Engineering Works"
@@ -2485,8 +2485,10 @@ qiefor.109.d: "Liangguang, eine Koalition aus zwei der ehemaligen acht Provinzen
 qiefor.109.a: "Rebellen!"
 
 qiefor.110.t: "Zhao Hengti gewinnt Wahlen in Hunan"
-qiefor.110.d: "Wu Peifus alter Freund Zhao Hengti hat gerade die Provinzwahlen in Hunan gewonnen. Obwohl dies zunächst gut für uns erscheinen mag, bedeutet Zhaos Wahlsieg auch, dass er sein Bekenntnis zu seinen föderalen Werten bekräftigt und das, was er für die besten Interessen der Nation hält, über seine wahre Loyalität zu Wu stellt."
+qiefor.110.d.zhili: "Wu Peifus alter Freund Zhao Hengti hat gerade die Provinzwahlen in Hunan gewonnen. Obwohl dies zunächst gut für uns erscheinen mag, bedeutet Zhaos Wahlsieg auch, dass er sein Bekenntnis zu seinen föderalen Werten bekräftigt und das, was er für die besten Interessen der Nation hält, über seine wahre Loyalität zu Wu stellt."
+ qiefor.110.d.manchu: "Gouverneur Zhao Hengti hat gerade die jüngsten Provinzwahlen in Hunan gewonnen. Zhao, der die 'Barbarei' des Zongshe-Putsches anprangerte, hat sich geweigert, uns Loyalität zu schwören, und stattdessen seine Autonomie erklärt. Da der Gouverneur unserem Regime nun feindlich gesinnt ist, scheint eine weitere Bedrohung an unserer südlichen Flanke aufgetaucht zu sein."
 qiefor.110.a: "Deinen Prinzipien folgen? Ernsthaft?"
+ qiefor.110.b: "Verdammt!"
 
 qiefor.111.t: "Der buddhistische General übernimmt die Macht!"
 qiefor.111.d.zhili: "Tang Shengzhi, der „buddhistische General“ von Hunan, hat Wus alten Freund Zhao Hengti abgesetzt und offiziell die Herrschaft über Hunan beansprucht! Tang ist ein strenger Republikaner, und obwohl seine Loyalitäten im Moment unklar sind, ist er sicherlich kein Freund von uns. Das sind schlechte Nachrichten für uns, da unsere Südflanke jetzt von einem Feind unseres Regimes gehalten wird!"
@@ -2586,17 +2588,17 @@ qiefor.131.d_LEC: "Kanada hat die Gesandtschaftsstädte verlassen und uns freie 
 qiefor.131.a: "Super!"
 qiefor.131.b: "Mobilisiert die Truppen!"
 
-qiefor.132.t: "Die [QIE.GetName] kommt!"
-qiefor.132.d: "Laut unseren Spionen in [QIE.Capital.GetName] bereitet die [QIE.GetName] ihre Truppen auf eine Offensive gegen uns vor. Dieser Kampf wird ein Überlebenskampf sein."
+qiefor.132.t: "[QIE.GetNameDefCap] kommt!"
+qiefor.132.d: "Laut unseren Spionen in [QIE.Capital.GetCapitalVictoryPointName] bereitet [QIE.GetNameDef] seine Streitkräfte auf einen Angriff gegen uns vor. Dieser Kampf wird ein Kampf ums Überleben sein."
 qiefor.132.a: "Wir haben nicht viel Vorbereitungszeit."
 
 #Japanese event:
-qiefor.133.t: "Die [QIE.GetName] bereitet einen Angriff auf die [FNG.GetName] vor" #Japanese event
-qiefor.133.d: "Nach Tagen beunruhigender Berichte sind sich unsere Spione in [QIE.Capital.GetName] nun sicher: Die [QIE.GetName] bereitet sich auf den Krieg gegen unsere mandschurischen Verbündeten vor. Inwieweit wir [FNG.Capital.GetCapitalVictoryPointName] unterstützen sollten, wurde lange diskutiert, aber es besteht kein Zweifel, dass der Fall der Mandschurei eine ernsthafte Bedrohung für Korea bedeuten könnte. Möglicherweise müssen wir bald Maßnahmen erwägen."
+qiefor.133.t: "Die [QIE.GetName] bereitet einen Angriff auf die [FNG.GetName] vor"
+qiefor.133.d: "Nach tagelangen beunruhigenden Berichten sind sich unsere Spione in [QIE.Capital.GetCapitalVictoryPointName] nun sicher: [QIE.GetNameDef] bereitet einen Krieg gegen unsere mandschurischen Verbündeten vor. Inwieweit wir [FNG.Capital.GetCapitalVictoryPointName] unterstützen sollten, ist seit langem umstritten, aber es besteht kein Zweifel, dass der Fall der Mandschurei eine ernste Bedrohung für Korea bedeuten könnte. Wir müssen möglicherweise bald handeln."
 qiefor.133.a: "Sollten wir vielleicht eingreifen?"
 
 qiefor.134.t: "[FROM.GetName] benötigt Hilfe!"
-qiefor.134.d: "Beunruhigende Neuigkeiten erreichten uns heute aus [FROM.Capital.GetCapitalVictoryPointName]. Unsere Verbündeten in [FROM.GetName] werden von der [QIE.GetName] angegriffen! Ihre Streitkräfte mobilisieren bereits, aber sie können diesem Feind nicht allein entgegentreten."
+qiefor.134.d: "Per Telefon kam die Nachricht direkt von [FROM.Capital.GetCapitalVictoryPointName], dass unsere Verbündeten in [FROM.GetNameDef] kurz vor einem Angriff von [QIE.GetName] stehen! Ihre Streitkräfte werden bereits mobilisiert, aber sie können diesem Feind nicht allein entgegentreten."
 qiefor.134.a: "Wir müssen Vorbereitungen treffen!"
 
 qiefor.135.t: "Das Debakel um Ost-Shanxi"
@@ -2815,6 +2817,7 @@ QIE_AOG_bank: "D.A.B. Anteile"
 ### Cosmetic Tags ###
 QIE: "Qing"
 QIE_ADJ: "Qing"
+ QIE_DEF: "Qing"
 
 QIE_totalist: "Volksrepublik China"
 QIE_totalist_ADJ: "Chinesisch"

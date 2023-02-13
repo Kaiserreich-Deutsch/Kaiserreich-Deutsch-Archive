@@ -1049,6 +1049,9 @@ FRA_help_CHL_desc: "Auf dem Zweiten Kongress haben wir versprochen, unseren [FRO
 FRA_Sabotage: "Antikoloniale Aktion in [From.GetNameDef] einleiten"
 FRA_Sabotage_desc: "Die französischen verräterischen Imperialisten haben viel zu lange die einheimische Bevölkerung für ihre Kriegsmaschinerie und ihr Prestige ausgebeutet. Wir werden nicht zulassen, dass sie weitermachen. Mit Hilfe des Sozialistischen Antikolonialkomitees sind wir in der Lage, Operationen der Rebellion oder Sabotage in den französischen Kolonialgebieten einzuleiten."
 
+ FRA_end_the_algiers_regime: "Ende des Algier-Regimes"
+ FRA_end_the_algiers_regime_desc: "Endlich ist das verabscheuungswürdige imperialistische Regime, das Algerien besetzt hält, verwundbar - lasst uns diese Farce ein für alle Mal beenden."
+
 FRA_hydroelectricity_decisions: "Wasserkraft"
 FRA_Savoy_Hydroelectricity_decision: "Staudämme bauen in Savoyen"
 FRA_Haute_Savoie_Hydroelectricity_decision: "Staudämme bauen in Haute-Savoie"
@@ -1174,14 +1177,15 @@ FRA_Romandy_Hydroelectricity_decision: "Staudämme bauen in der Romandie"
  FRA_marcel_gensoul: "Marcel Gensoul"
  FRA_marcel_gensoul_admiral_desc: "§YAdmiral Description\n§YGeboren:§L\n12 October 1880, in Montpellier, Hérault, Dritte Französische Republik"
 
+ FRA_louis_lazare_kahn: "Louis-Lazare Kahn"
+ FRA_louis_lazare_kahn_desc: "§YAdmiral Beschreibung\n§YGeboren:§L\n13. Oktober 1895, in Versailles, Yvelines, Dritte Französische Republik"
+
  FRA_edouard_peisson: "Édouard Peisson"
  FRA_edouard_peisson_admiral_desc: "§YAdmiral Description\n§YGeboren:§L\n7 March 1896, in Marseille, Bouches-du-Rhône, Dritte Französische Republik"
 
  FRA_irene_and_frederic_joliot_curie: "Irène & Frédéric Joliot-Curie"
  FRA_robert_esnault_pelterie: "Robert Esnault-Pelterie"
 
- FRA_louis_lazare_kahn: "Louis-Lazare Kahn"
- 
  FRA_joseph_vuillemin: "Joseph Vuillemin"
  FRA_martial_henri_valin: "Martial Henri Valin"
  FRA_maryse_bastie: "Maryse Bastié"

@@ -577,20 +577,6 @@
  WHR_gengov: "Generalgouvernement Minsk"
  WHR_gengov_DEF: "das Generalgouvernement Minsk"
 
- ### Belarus (Russian puppet) ###
- WHR_SOV_totalist: "Weißrussische Volksrepublik"
- WHR_SOV_totalist_ADJ: "Weißrussisch"
- WHR_SOV_totalist_DEF: "die Weißrussische Volksrepublik"
- WHR_SOV_syndicalist: "Weißrussische Volksrepublik"
- WHR_SOV_syndicalist_ADJ: "Weißrussisch"
- WHR_SOV_syndicalist_DEF: "die Weißrussische Volksrepublik"
- WHR_SOV_radical_socialist: "Weißrussische Volksrepublik"
- WHR_SOV_radical_socialist_ADJ: "Weißrussisch"
- WHR_SOV_radical_socialist_DEF: "die Weißrussische Volksrepublik"
- WHR_SOV_social_democrat: "Weißrussische Volksrepublik"
- WHR_SOV_social_democrat_ADJ: "Weißrussisch"
- WHR_SOV_social_democrat_DEF: "die Weißrussische Volksrepublik"
-
 ### Super Secret Easter Egg go away code miners ###
  WHR_LITBEL: "Litauen-Weißrussland"
  WHR_LITBEL_ADJ: "Litauisch-Weißrussisch"
@@ -626,6 +612,14 @@
  WHR_LITBEL_national_populist: "Litauisch-Weißrussische Föderation"
  WHR_LITBEL_national_populist_ADJ: "Litauisch-Weißrussisch"
  WHR_LITBEL_national_populist_DEF: "die Litauisch-Weißrussische Föderation"
+
+ WHR_LITKRY: "Litauen-Kryvia"
+ WHR_LITKRY_ADJ: "Litauisch-Kryvia"
+ WHR_LITKRY_DEF: "Litauen-Kryvia"
+
+ WHR_LITKRY_national_populist: "Litauisch-Kriwanische Föderation"
+ WHR_LITKRY_national_populist_ADJ: "Litauisch-Kryvia"
+ WHR_LITKRY_national_populist_DEF: "die Litauisch-Kriwanische Föderation"
 
 ### Events ###
  whrpol.1.t: "Weißrussland - Ausgangssituation"
@@ -776,6 +770,24 @@
  whrpol.36.t: "Łastoŭskis Rede"
  whrpol.36.d: "Der weißrussische Politiker Vacłaŭ Łastoŭski, dessen Regierung nach Litauen ins Exil gegangen ist, weil sein Land von unserem gemeinsamen Feind überrannt wurde, wurde zur heutigen Sitzung des Seimas eingeladen, um in der Hoffnung auf eine Verbesserung der Beziehungen zwischen unseren beiden Nationen zu sprechen. \n\nŁastoŭski ist zwar als radikaler weißrussischer Nationalist bekannt, hegt aber eindeutig große Sympathien für die litauische Nation und lobte in seiner Rede wiederholt Litauen, sein Volk, die gemeinsame Geschichte und Kultur unserer Nationen und - was vielleicht noch wichtiger ist - unsere gemeinsamen Feinde. Da sein Heimatland überrannt wurde, rief er die litauische Nation dazu auf, den Mantel des alten Großherzogtums zu tragen und bei der Befreiung von Weißrussland zu helfen. Vielleicht noch überraschender war, dass er auch zu viel engeren Beziehungen aufrief, bis hin zum Vorschlag einer Union, um zu verhindern, dass Litauen und Weißrussland erneut an ausländische Feinde fallen.\n\n Seine Rede schloss mit einem letzten Aufruf zur Einheit: \"Es lebe die brüderliche Vereinigung des litauischen und des weißrussischen Volkes!\""
  whrpol.36.a: "Die brüderliche Vereinigung, hm?"
+
+ whrpol.59.t: "Die NDA Petitionen an die Regierung Kempf"
+ whrpol.59.d: "Es war von Anfang an klar, dass die Zentralrada in der weißrussischen Bevölkerung wenig Einfluss hat, und ohne das rechtzeitige Eingreifen der deutschen Armee stand sie kurz vor dem Zusammenbruch. Ohne die Autorität und den Einfluss von Kempf wäre unser Land wahrscheinlich den russischen Invasoren zum Opfer gefallen. Jetzt, da die Invasion abgewehrt und unsere östlichen Interessen geregelt sind, ist die Rede davon, das Generalgouvernement aufzulösen und die Macht wieder an zivile Behörden zu übertragen.\n\nDiese Gespräche haben die Nationale Demokratische Vereinigung, das Bündnis der gemäßigten Gegner der Sozialdemokraten und der zögerlichen Anhänger der Zentralen Rada, erreicht, die sich gegen eine Übertragung der Macht an die unpopuläre Rada ausgesprochen hat. Ihr Vorsitzender, Adam Stankievič, hat eine Petition direkt an das Büro des Generalgouverneurs gerichtet, in der er die Wiedereinsetzung des Sojm und die Rückübertragung der Macht an diesen fordert.\n\nGeneralgouverneur Kempf hat die Möglichkeit, die Petition an seine Vorgesetzten in Berlin weiterzuleiten, die dann entscheiden können, ob sie Weißrussland den Wiederaufbau seiner Demokratie gestatten oder ob sie von ihrer Autorität Gebrauch machen und die Militärregierung aufrechterhalten."
+ whrpol.59.a: "Leiten Sie die Petition an Berlin weiter."
+ whrpol.59.b: "Unfug. Hartes Durchgreifen gegen die NDA."
+
+ whrpol.60.t: "Ein Ersuchen des Minsker Generalgouvernements"
+ whrpol.60.d: "Werner Kempf, der Chef der Militärregierung von Weißrussland, hat uns eine von mehreren lokalen Führern unterzeichnete Petition übermittelt, in der die Wiedereinsetzung des gewählten Parlaments, des Sojm, anstelle der zutiefst unpopulären Zentralen Rada gefordert wird, die Kempf vor dem Krieg abgesetzt hatte. Die Hauptunterstützer der Petition sind eine Allianz der Gemäßigten unter der Führung von Adam Stankievič, der sich vor dem Putsch der Rada im Parlament gegen die sozialdemokratische Regierung gestellt hatte.\n\nWir haben wenig Grund, uns dieser Machtübergabe zu widersetzen; Stankievič hat ohne weiteres mehr Legitimität als die Rada, ganz zu schweigen davon, dass er anständig populär ist. Durch ihn können wir einen sicheren Übergang zurück zur Demokratie in unserem östlichen Verbündeten gewährleisten. Andererseits können wir Kempf anweisen, das Generalgouvernement aufrechtzuerhalten, da wir nicht darauf vertrauen können, dass die Demokratie in Weißrussland nicht zu einer weiteren potenziell verräterischen sozialistischen Regierung führen wird."
+ whrpol.60.a: "Nun gut, wir werden das Generalgouvernement auflösen."
+ whrpol.60.b: "Nein, natürlich nicht. Wir lassen uns nicht ein zweites Mal täuschen."
+
+ whrpol.61.t: "Ende des Generalgouvernements"
+ whrpol.61.d: "Nachdem er grünes Licht aus Berlin erhalten hat, hat Werner Kempf die Auflösung nicht nur des Minsker Generalgouvernements, sondern auch der Zentralrada angekündigt. Im Rahmen der Rückgabe der Macht an die lokale Zivilbevölkerung soll ein Rumpf-Sojm wieder einberufen, die Verfassung wiederhergestellt und Adam Stankievič zum Interimspräsidenten ernannt werden. Mit anderen Worten: Die Petition der NDA war ein voller Erfolg, und die Demokratie wurde wirklich wiederhergestellt, statt dass die verhasste Rada erneut an die Macht kam."
+ whrpol.61.a: "Lang lebe die Republik!"
+
+ whrpol.62.t: "Deutschland lehnt unsere Anfrage ab"
+ whrpol.62.d: "Schreckliche Nachrichten: Die Petition wurde nicht nur ignoriert, sondern mehrere \"Agitatoren\" der NDA wurden als Reaktion darauf von Kräften des Generalgouvernements verhaftet. Während Stankievič auf freiem Fuß bleibt, hat sich die letzte Hoffnung auf eine demokratische Wiederherstellung zerschlagen, und die Marionetten-Rada wird vorerst an der Macht bleiben."
+ whrpol.62.a: "Können die Deutschen wirklich für Ordnung sorgen?"
 
  whrpol.37.t: "Minsk bietet Frieden an"
  whrpol.37.d: "Mit dem Zusammenbruch des Deutschen Reiches ist klar, dass unsere [WHR.GetAdjective] Feinde in große Schwierigkeiten geraten sind. Ohne ihren Beschützer sind sie nun anfällig für einen Gegenangriff unserer Streitkräfte. Allerdings ist ein Abgesandter von [WHR.GetNameDef] mit einem interessanten Angebot eingetroffen: Ein Separatfrieden zwischen unseren Nationen.\n\nMan kann davon ausgehen, so der Diplomat, dass seine Regierung, obwohl sie diplomatisch isoliert ist, bereits die Dritte Internationale um Unterstützung bittet. Er scheint zuversichtlich zu sein, dass seine Regierung, die voller Sympathisanten für Paris und London ist, einen überzeugenden Appell an die syndikalistische Welt richten kann, nachdem sie sich von Berlin \"losgesagt\" hat. Vor allem aber ist er davon überzeugt, dass weitere Feindseligkeiten nur noch mehr unnötiges Blutvergießen und unzählige weitere tote Russen und Weißrussen zur Folge haben werden. Daher bietet seine Regierung nicht nur Frieden zwischen Weißrussland und Russland an, sondern auch, die Waffen gegen die Überreste des Reichspakts zu richten, im Gegenzug für die formelle Übergabe von \"rechtmäßig weißrussischem\" Land.\n\nWir zweifeln kaum daran, dass wir sie letztendlich vernichten können, aber die Idee, dass wir im Tausch gegen einige Grenzgebiete einen blutigen Weg nach Minsk vermeiden können, ist eine, die wir vielleicht in Betracht ziehen sollten, vor allem, wenn ihre Behauptungen über internationale Unterstützung wahr sind. Je nach der Lage an der Front können wir jedoch vielleicht auf einem besseren Abkommen bestehen. Die ethnische Situation in Krichev und Vitebsk ist ziemlich klar, in Smolensk, das sie ebenfalls für sich beanspruchen, jedoch weit weniger. Natürlich können wir auch auf dem Status quo der Vorkriegszeit beharren."

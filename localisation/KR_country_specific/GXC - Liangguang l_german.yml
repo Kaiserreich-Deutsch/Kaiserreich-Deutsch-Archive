@@ -18,7 +18,7 @@ GXC_military_effect_tooltip: "Ersetze §H$GXC_officer_vanguards_idea$§! oder §
 guangxi_rebels_tt: "Die Guangxi Clique rebelliert gegen unsere Herrschaft!\n"
 guangdong_loyalists_tt: "Loyalisten in Guangdong werden gegen uns einen Aufstand anzetteln!\n"
 civilian_guangxi: "Wir haben die zivile Autorität in Guangxi wiederhergestellt"
-GXC_ancap_merge: "Vereine §HHändlerkorps-Boni§!\nEffektive Veränderung:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_MORALE_FACTOR$: §G+10.00%§!\n"
+GXC_ancap_merge: "Vereine §HHändlerkorps-Boni§!\nEffektive Veränderung:\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§!\n$MODIFIER_STABILITY_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_MORALE_FACTOR$: §G+10.00%§!\n"
 GXC_had_civil_war: "Der Guangdong-Guangxi War hat begonnen"
 GXC_guangdong_victory: "Guangdong hat Guangxi besiegt"
 GXC_guangxi_victory: "Guangxi hat Guangdong besiegt"
@@ -1310,6 +1310,11 @@ lngkmt.22.t: "Gedenken an die Märtyrer"
 lngkmt.22.d: "Guangdong ... die Wiege der Revolution. Seit dem Zusammenbruch der Ming-Dynastie ist der Dissens gegenüber den Mandschu-Herrschern des Nordens in der südlichsten Provinz Chinas weit verbreitet. Guangdong ist in der Tat der Geburtsort der nationalen Revolution. Die Märtyrer der Revolution wurden in Guangdong geboren, wie die 72 Märtyrer, die im Zweiten Guangzhou-Aufstand ihr Leben ließen, um die Qing loszuwerden. Wie ein Selbstmordkommando schrieben sie Briefe an ihre Lieben, bevor sie ihre schicksalhaften Aktivitäten ausführten. Tatsächlich wurde der Geist des Martyriums in Form der Wagemutigen Divisionen weitergeführt. Patrioten, die bereit waren, ihr Leben für ein freieres China in der folgenden Revolution von 1911 und der Nordexpedition zu geben. Mit der Rückkehr der Qing wurden die Opfer der Märtyrer tatsächlich in Frage gestellt. Waren ihre Opfer umsonst?\n\n Nicht mehr. Mit der Rückkehr einer republikanischen Regierung in Guangzhou hat sich dies jedoch geändert. Wie der mythische Phönix ist die Bewegung zu einem freien China wiedergeboren! Wir haben uns neu gruppiert und sind gestärkter, um unsere gefallenen Brüder zu rächen und uns von der Verschmutzung der Qing-Dynastie zu befreien. Wir werden unsere Brüder rächen und eine neue Expedition in den Norden unternehmen. Die Märtyrer werden in Statuen und Prosa aus ganz China verherrlicht und erinnert. Wenn unsere Position gesichert ist, werden wir planen, üben und bereit sein, die Qing-Despoten ein für alle Mal abzusetzen."
 lngkmt.22.a: "Fan Qīng fù Míng!"
 
+ lngkmt.23.t: "Das Schicksal der Dritten NRA"
+ lngkmt.23.d: "Nach der gescheiterten Nordexpedition kehrten die verbliebenen Mitglieder der 3. NRA nach Yunnan zurück, um innerhalb der Verwaltung von Tang Jiyao eine neue Karriere aufzubauen, und da die Provinz nun unter unserer Kontrolle ist, haben wir die Möglichkeit, die verlorenen Mitglieder der KMT wieder in die NRA zu integrieren. Die Generäle Zhu Peide, He Yingqin und Kim Hong-il sind loyale Mitglieder der KMT und werden die Möglichkeit erhalten, ihre Talente in der NRA zu nutzen. Die Generäle Fan Shisheng, Jin Handing und Luo Binghui sind ebenfalls Kandidaten für die Aufnahme in die NRA, ihre Loyalität zur KMT ist jedoch ungewiss."
+ lngkmt.23.a: "Nur den zuverlässigen Generälen kann man trauen."
+ lngkmt.23.b: "Sie werden sich an uns für ihre Misserfolge rächen."
+
 ### Cosmetic Tags ###
 GXC: "Liangguang"
 GXC_ADJ: "Liangguang"
@@ -1491,6 +1496,7 @@ GXC_zhang_huichang: "Zhang Huichang"
 GXC_tan_gen: "Tan Gen"
 GXC_huang_zhenqiu: "Huang Zhenqiu"
 GXC_lin_weicheng: "Lin Weicheng"
+ GXC_chen_lianzhong: "Chen Lianzhong"
 
 GXC_ma_ji: "Ma Ji"
 GXC_ma_ji_leader_desc: "Ma Ji ist das Oberhaupt der Guangxi-Clique nach dem Tod von Lu Rongting. Als jüngerer Adoptivsohn von Lu wurden seine Ansichten und Einstellungen stark von seinem Adoptivvater beeinflusst. Als Lu Rongting während der Xinhai-Revolution Gouverneur von Guangxi wurde, war Ma sein Stellvertreter, und die beiden waren an der Nationalen Schutzbewegung beteiligt, die das Regime von Yuan Shikai stürzte. Nach einem kurzen Krieg mit Yunnan wurde die Guangxi-Clique von Lu durch die mit der KMT verbündete Neue Guangxi-Clique aus der Provinz vertrieben. Während Lu sich nach Hongkong zurückzog und sich mit Chen Jiongming verbündete, ging Ma Ji, der sich zu dieser Zeit in Hunan aufhielt, nach Norden und schloss sich der Zhili-Clique von Wu Peifu an. Zum Zeitpunkt der gescheiterten Nordexpedition der KMT führte er die Fünfzehnte Armee gegen die KMT an. Er errang einen Sieg gegen die sich zurückziehende Siebte Armee der Nationalisten, die sich ebenfalls aus Soldaten aus Guangxi zusammensetzte. Später überzeugte er sie davon, sich zurückzuziehen, indem er erklärte: "Das Volk von Guangxi kämpft nicht gegen das Volk von Guangxi". Nach der Nordexpedition schloss sich Ma Ji nach seiner Wiedereinsetzung in die Provinzregierung von Guangxi wieder Lu Rongting an. Von dort aus leitete er den Modernisierungsplan der Provinzarmee, was ihm viel Einfluss und Erfahrung bei der Verwaltung der Angelegenheiten der Clique verschaffte. Er bleibt der Provinz und ihrer Bevölkerung treu und setzt sich für den Regionalismus und das pluralistische Erbe von Lu Rongting ein."

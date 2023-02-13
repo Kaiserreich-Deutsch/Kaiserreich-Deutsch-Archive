@@ -2423,6 +2423,147 @@ CAN_train_equipment_3: "Canadian National Railway Confederation U-2-e"
 #CAN_railway_gun_equipment_1: "" #feel free to add if you find more stuff
 
 ###
+### Dominion of Canada (Entente) ###
+###
+
+### Land ###
+
+IMP_EQUIPMENT_VERSION_1: "Mk I"
+IMP_EQUIPMENT_VERSION_2: "Mk II"
+IMP_EQUIPMENT_VERSION_3: "Mk III"
+IMP_EQUIPMENT_VERSION_4: "Mk IV"
+IMP_EQUIPMENT_VERSION_5: "Mk V"
+IMP_EQUIPMENT_VERSION_6: "Mk VI"
+IMP_EQUIPMENT_VERSION_7: "Mk VII"
+IMP_EQUIPMENT_VERSION_8: "Mk VIII"
+IMP_EQUIPMENT_VERSION_9: "Mk IX"
+IMP_EQUIPMENT_VERSION_10: "Mk X"
+IMP_EQUIPMENT_VERSION_11: "Mk XI"
+IMP_EQUIPMENT_VERSION_12: "Mk XII"
+IMP_EQUIPMENT_VERSION_13: "Mk XIII"
+
+#Infantry Equip
+
+IMP_infantry_equipment_0: "Rifle, Long, Ross Mk III"
+IMP_infantry_equipment_0_short: "Ross Mk III"
+IMP_infantry_equipment_0_desc: "Das 1903 eingeführte Ross-Gewehr wurde vor dem Weltkrieg mehrfach verbessert und erreichte 1910 mit dem Mk III seinen Höhepunkt. Ursprünglich ein Symbol des Patriotismus unter den Kanadiern, da die Briten sich weigerten, ihnen eine Lizenz für das Lee-Enfield zu erteilen, erlangte das Gewehr im ersten Kriegsjahr einen schlechten Ruf, da es mit der minderwertigen britischen Munition nicht zurechtkam und mit den Grabenbedingungen deutlich schlechter zurechtkam als seine Zeitgenossen. 1916 wurde es offiziell aus dem Verkehr gezogen. Nichtsdestotrotz wurde das SMLE vor der britischen Revolution nie in Kanada produziert, was dazu führte, dass es ungewollt wieder in den Dienst gestellt wurde, als Überbrückung, bis die Produktion des SMLE in Long Branch, Ontario, beginnen konnte."
+IMP_infantry_equipment_1: "Rifle, Short, Magazine, Lee-Enfield Mk V"
+IMP_infantry_equipment_1_short: "SMLE Mk V"
+IMP_infantry_equipment_1_desc: "Nach dem Fall der Home Isles hatten die loyalen Dominions nur Zugang zu einem Arsenal, das in der Lage war, ihr Dienstgewehr zu produzieren. Einige britische Ingenieure aus Enfield flüchteten nach Ontario. Mit Hilfe der Lithgow-Fabrik in Australien setzten sie ihre Arbeit an der Verbesserung des altehrwürdigen SMLE fort. Das Ergebnis war das Mk V. Das aktualisierte Modell des klassischen Kurzmagazins weist ein neues und verbessertes Öffnungssystem am Gehäuse statt in der Mitte auf, das den Visierradius, die Genauigkeit und die Geschwindigkeit verbessert. Allerdings ist die Herstellung dieses neuen SMLE-Designs aufgrund der für die Konstruktion des Gewehrs erforderlichen Fällungs- und Bearbeitungsvorgänge relativ teuer."
+IMP_infantry_equipment_2: "Carbine, Machine, Owen Mk I"
+IMP_infantry_equipment_2_short: "Owen Gun"
+IMP_infantry_equipment_2_desc: "Angesichts des bevorstehenden Krieges fordert die Armee die Entwicklung einer Maschinenpistole für den Nah- und Stadtkrieg, insbesondere für die Zerstörungswut, die den amerikanischen Bürgerkrieg kennzeichnet. Die kanadische Armee übernahm offiziell eine vom jungen australischen Gefreiten Evelyn Owen entworfene Waffe. Der "Owen"-Maschinenkarabiner zeichnet sich durch eine beeindruckende Feuerrate und niedrige Herstellungskosten aus, ist aber auch unter rauen Bedingungen robust und damit ideal für den Stadtkampf. Im Vergleich zu anderen Maschinenpistolen hat sich die "Owen" in Tests immer wieder als die einzige erwiesen, die Schlamm, Sand und rauen Umgebungen standhält. Nach Abschluss der positiven Tests wurde die Owen in großen Mengen an die Dominions geliefert, um den kommenden Krieg vorzubereiten."
+IMP_infantry_equipment_3: "Rifle, Self-Loading, Long Branch Mk I"
+IMP_infantry_equipment_3_short: "SLR Mk I"
+IMP_infantry_equipment_3_desc: "Die Crown Corporation Small Arms Ltd in Long Branch reagierte auf die Anfrage der kanadischen Regierung nach einem Selbstladegewehr. Das Selbstladegewehr ist für 8-mm-Mauser-Patronen ausgelegt und verfügt über einen kippbaren Verschluss. Das Gewehr leidet zwar unter Zuverlässigkeitsproblemen und übermäßigem Rückstoß, wird aber mit einem Schulterpolster geliefert, um den Rückstoß zu kompensieren. Außerdem ist das Gewehr durch sein geringes Gewicht ideal für die Mobilität und den Kampf in der Stadt."
+IMP_infantry_at: "Grenade, Rifle, Anti-tank No. 68"
+IMP_infantry_at_desc: "Als eine kanadische Kommission in der Schweiz eine Vorführung der Panzerabwehrgranate von Henry Mohaupt sah, erkannte sie, dass die Waffe nach dem Prinzip der Hohlladung funktioniert, und begann mit der Arbeit an einem eigenen Entwurf. Die daraus resultierende hochexplosive Panzerabwehrgranate (HEAT) soll der Infanterie bessere Möglichkeiten zur Bekämpfung feindlicher Panzer mit den bereits im Einsatz befindlichen Becherwerfern bieten."
+IMP_infantry_at2: "Projector, Infantry, Anti Tank Mk I "
+IMP_infantry_at2_desc: "Aufgrund des Bedarfs an einer handgeführten Panzerabwehrwaffe für den Einsatz an der Front wurde der Projector, Infantry, Anti Tank Mk I (PIAT) entwickelt, der auf dem Design des Bombardiermörsers basiert. Mit einer effektiven Reichweite von 105 Metern im direkten Feuermodus ist das Gerät aufgrund des fehlenden Rückstoßes sehr beliebt - allerdings gab es Bedenken wegen des starken Rückstoßes."
+IMP_infantry_at2_short: "PIAT"
+IMP_support_weapons: "Vickers MG & Stokes mortar"
+IMP_support_weapons_desc: "Das wassergekühlte Vickers MG und der Stokes-Grabenmörser waren die Standardwaffen der kanadischen Armee während des Weltkriegs. Angesichts des drohenden Krieges hat die kanadische Armee sie wieder in Dienst gestellt."
+IMP_support_weapons2: "Lewis Mk III DEMS & SBML two-inch mortar"
+IMP_support_weapons2_desc: "Mit ihrem kultigen 'Pfannenmagazin' hat die Lewis dem Tommy seit den dunkelsten Tagen des Weltkriegs gedient. Angesichts des drohenden Krieges ist die MKIII-Variante mit einem Pistolengriff ausgestattet, der das Abfeuern von der Schulter aus auf jedem Teil des Schiffsdecks ermöglicht. Die SBML ist zwar klein, aber unglaublich handlich und hat eine größere Feuerkraft und Reichweite als die meisten Gewehrgranaten."
+IMP_support_weapons3: "Vickers M Mk II & ML 3 inch mortar"
+IMP_support_weapons3_desc: "Die Mark II-Variante des Vickers MG verfügt über eine selektive Feueroption und einen Pistolengriff. Es wurde hauptsächlich für gepanzerte Fahrzeuge verwendet. Der ML 3-Zoll-Mörser stellt eine erhebliche Verbesserung gegenüber dem Stokes dar, da er zuverlässig und robust für die Unterstützung der Artillerie im Nahbereich ist."
+IMP_support_weapons4: "Vickers M Mk III & ML 4.2 inch Mortar"
+IMP_support_weapons4_desc: "Die dritte Variante des geschätzten Vickers-Maschinengewehrs wurde für die Flugabwehr entwickelt und zeichnet sich durch eine leicht erhöhte Feuerrate gegenüber seinen Vorgängern aus. Ebenso ist der 4,2-Zoll-Mörser eine schwerere Verbesserung der früheren kanadischen Mörsermodelle und in der Lage, intensive und wirksame Unterstützung abzugeben."
+IMP_night_vision: "Tabby Scope"
+IMP_night_vision_desc: "Das Tabby Scope ist eines der am strengsten gehüteten Geheimnisse der kanadischen Regierung; der Entwicklungsprozess wird sogar vor den anderen Mitgliedern der Entente verborgen. Es ist eine zufällige Entdeckung von Wissenschaftlern des ISAC und hat die Form einer Feldflasche, enthält aber ein monokulares Infrarotsichtgerät und eine Batterie. Das Zielfernrohr ist nur für die Elite der Elite bestimmt und bietet den beispiellosen Vorteil, im Dunkeln sehen zu können."
+IMP_infantry_weapons2: "Carbine, Machine, Thompson Mk I"
+IMP_infantry_weapons2_desc: "Die britische Armee interessierte sich um 1925 vage für die amerikanischen Maschinenpistolen, als Auto-Ordnance versuchte, ein Lizenzabkommen mit Birmingham Small Arms zu schließen. Die britische Revolution sabotierte das Geschäft, aber das Interesse wurde von der kanadischen Armee wieder geweckt, die sich die Lizenz für die M1926 sicherte, um sie im eigenen Land zu produzieren, wenn auch nur in geringen Stückzahlen bis zum Ausbruch des Bürgerkriegs in den Vereinigten Staaten."
+IMP_improved_infantry_weapons_2: "Carbine, Machine, Lanchester Mk I"
+IMP_improved_infantry_weapons_2_desc: "Mit dem Ausbruch des Krieges in den Vereinigten Staaten und den sich abzeichnenden Kriegswolken in Europa benötigt die kanadische Armee dringend Waffen für die Heimkehr. Mit wenig Zeit für Vorbereitungen und Nachforschungen hat die kanadische Armee die 'Lanchester'-Maschinenpistole in Auftrag gegeben, eine nahezu perfekte Kopie der deutschen MP-28."
+IMP_advanced_infantry_weapons2: "Carbine, Commando, De Lisle Mk I"
+IMP_advanced_infantry_weapons2_desc: "Was als privates Projekt des Ingenieurs William Godfray de Lisle begann, erregte bald die Aufmerksamkeit der RCMP-Spezialabteilung, die ihre Agenten mit verbesserten Waffen ausstatten wollte. Bei dem De Lisle-Karabiner handelt es sich im Wesentlichen um eine verkürzte SMLE, die auf .45 ACP, eine Unterschallpatrone mit integriertem Schalldämpfer, umgerüstet wurde. Der Schalldämpfer und die Munition zusammen erzeugen beim Abfeuern nur 85,5 Dezibel, was ihn für Kommandoeinsätze sehr geeignet macht."
+
+#Motorised
+
+IMP_motorized_equipment_1: "GM Canada Commonwealth Military Pattern"
+IMP_motorized_equipment_1_short: "GM Canada CMP"
+
+IMP_mechanized_equipment_1: "Vickers Carrier LP"
+IMP_mechanized_equipment_1_short: "Vickers Carrier"
+IMP_mechanized_equipment_2: "Ram Kangaroo"
+IMP_mechanized_equipment_2_short: "Ram Kangaroo"
+IMP_mechanized_equipment_3: "King Kangaroo"
+IMP_mechanized_equipment_3_short: "King Kangaroo"
+
+#Armoured Car
+IMP_gw_armored_car_equipment: "Ruskin Rover"
+IMP_gw_armored_car_equipment_short: "Rover"
+IMP_armored_car_equipment_1: "GM Canada Otter"
+IMP_armored_car_equipment_1_short: "Otter"
+IMP_armored_car_equipment_2: "Ruskin Rhino"
+IMP_armored_car_equipment_2_short: "Rhino"
+IMP_armored_car_equipment_2_desc: "Nach dem Erfolg des Rover entwarf die Firma Ruskin Motor Bodies den Rhino als Antwort auf eine Anfrage der australischen Regierung nach einem wesentlich schwereren gepanzerten Fahrzeug auf der Grundlage des CMP-Fahrgestells. Obwohl erhebliche Änderungen am CMP-Fahrgestell vorgenommen wurden, war der Rhino nach intensiver Arbeit geboren, und obendrein waren viele Teile mit anderen CMP-Konstruktionen austauschbar."
+IMP_armored_car_at_equipment: "Ruskin Hippo"
+IMP_armored_car_at_equipment_short: "Hippo"
+IMP_armored_car_at_equipment_desc: "Um eine wesentlich größere Kanone unterzubringen, musste die Koaxialmaschine des Rhino entfernt und der Turm leicht vergrößert werden. Der 'Hippo', wie dieses Modell genannt wurde, bereitete dem Konstruktionsteam ziemliches Kopfzerbrechen, da diese Änderungen dazu führten, dass das ohnehin schon schwere Fahrzeug wie seine Vorgänger auf Gewichtsprobleme stieß, die vor der Einführung des Fahrzeugs langsam gelöst werden mussten."
+
+#Artillery
+
+IMP_artillery_equipment_1: "QF 18-pounder"
+IMP_artillery_equipment_1_short: "QF 18-pounder"
+IMP_artillery_equipment_2: "QF 25-pounder"
+IMP_artillery_equipment_3: "BL 5.5-inch"
+
+IMP_anti_tank_equipment_1: "QF 2-pounder"
+IMP_anti_tank_equipment_1_short: "QF 2-pounder"
+IMP_anti_tank_equipment_2: "QF 6-pounder"
+IMP_anti_tank_equipment_3: "QF 17-pounder"
+
+IMP_anti_air_equipment_1: "QF 3-inch 20 cwt"
+IMP_anti_air_equipment_1_short: "QF 3-inch"
+IMP_anti_air_equipment_2: "QF 40 mm Bofors"
+IMP_anti_air_equipment_3: "QF 3.7-inch"
+
+IMP_rocket_artillery_equipment_1: "RP-3"
+IMP_rocket_artillery_equipment_1_short: "RP-3"
+IMP_rocket_artillery_equipment_2: "RP-3 Land Mattress"
+IMP_rocket_artillery_equipment_2_short: "Land Mattress"
+
+#Tanks
+IMP_amphibious_tank_equipment_1: "Vickers Amphibious"
+
+IMP_gw_tank_equipment: "Mark V"
+IMP_gw_tank_equipment_short: "Mark V"
+IMP_light_tank_equipment_1: "Vickers A4 'Reliant'"
+IMP_light_tank_equipment_1_short: "A4 'Reliant'"
+IMP_light_tank_equipment_1_desc: "Der Vickers Mark E wurde 1932 in begrenztem Umfang von der kanadischen Armee unter der Bezeichnung 'A4' als Behelfspanzer eingesetzt, während modernere leichte Panzer entwickelt wurden. Er erhielt den eher ironischen Spitznamen 'Reliant' für seine gleichzeitige Zuverlässigkeit in unwegsamem Gelände und seine Neigung zu zufälligen Pannen in scheinbar harmlosen Situationen."
+IMP_light_tank_equipment_2: "Vickers A11 'Matilda'"
+IMP_light_tank_equipment_2_short: "A11 'Matilda'"
+IMP_light_tank_equipment_3: "Vickers A18 'Valentine'"
+IMP_light_tank_equipment_3_short: "A18 'Valentine'"
+
+IMP_medium_tank_equipment_1: "Montreal Locomotive Works A15 'Ram'"
+IMP_medium_tank_equipment_1_short: "A15 'Ram'"
+IMP_medium_tank_equipment_2: "Montreal Locomotive Works A27 'Grizzly'"
+IMP_medium_tank_equipment_2_short: "A27 'Grizzly'"
+IMP_medium_tank_equipment_3: "Chullora A34 'Thunderbolt'"
+IMP_medium_tank_equipment_3_short: "A34 'Thunderbolt'"
+
+IMP_heavy_tank_equipment_1: "Vickers A1 'Independent'"
+IMP_heavy_tank_equipment_1_short: "A1 'Independent'"
+IMP_heavy_tank_equipment_2: "Leyland A20 'King'"
+IMP_heavy_tank_equipment_2_short: "A20 'King'"
+IMP_heavy_tank_equipment_3: "Leyland A43 'Black Prince'"
+IMP_heavy_tank_equipment_3_short: "A43 'Black Prince'"
+
+IMP_super_heavy_tank_equipment_1: "Massey-Harris A39 'Tortoise'"
+IMP_super_heavy_tank_equipment_1_short: "A39 'Tortoise'"
+
+IMP_modern_tank_equipment_1: "Leyland A44 'Brock'"
+IMP_modern_tank_equipment_1_short: "A44 'Brock'"
+
+### Railroad ###
+IMP_train_equipment_1: "Canadian National Railway Confederation U-2-a"
+IMP_train_equipment_2: "Canadian National Railway Confederation U-2-d"
+IMP_train_equipment_3: "Canadian National Railway Confederation U-2-e"
+#IMP_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
+###
 ### Carlist Spain ###
 ###
 
@@ -12386,57 +12527,83 @@ SHX_motorized_equipment_1_desc: "Aufgrund der Niederlage im Vierten Zhili-Fengti
 ###
 
 ### Land ###
-
-SIA_EQUIPMENT_VERSION_1: "B1"
-SIA_EQUIPMENT_VERSION_2: "B2"
-SIA_EQUIPMENT_VERSION_3: "B3"
-SIA_EQUIPMENT_VERSION_4: "B4"
-SIA_EQUIPMENT_VERSION_5: "B5"
-SIA_EQUIPMENT_VERSION_6: "B6"
-SIA_EQUIPMENT_VERSION_7: "B7"
-SIA_EQUIPMENT_VERSION_8: "B8"
-SIA_EQUIPMENT_VERSION_9: "B9"
-SIA_EQUIPMENT_VERSION_10: "B10"
-SIA_EQUIPMENT_VERSION_11: "B11"
-SIA_EQUIPMENT_VERSION_12: "B12"
-SIA_EQUIPMENT_VERSION_13: "B13"
+# Kor. here is Kaekhai (Revision)
+SIA_EQUIPMENT_VERSION_1: "Kor.1"
+SIA_EQUIPMENT_VERSION_2: "Kor.2"
+SIA_EQUIPMENT_VERSION_3: "Kor.3"
+SIA_EQUIPMENT_VERSION_4: "Kor.4"
+SIA_EQUIPMENT_VERSION_5: "Kor.5"
+SIA_EQUIPMENT_VERSION_6: "Kor.6"
+SIA_EQUIPMENT_VERSION_7: "Kor.7"
+SIA_EQUIPMENT_VERSION_8: "Kor.8"
+SIA_EQUIPMENT_VERSION_9: "Kor.9"
+SIA_EQUIPMENT_VERSION_10: "Kor.10"
+SIA_EQUIPMENT_VERSION_11: "Kor.11"
+SIA_EQUIPMENT_VERSION_12: "Kor.12"
+SIA_EQUIPMENT_VERSION_13: "Kor.13"
 
 # Infantry Equip
-
-SIA_infantry_equipment_0: "Type 46/66 Siamese Mauser"
-SIA_infantry_equipment_0_short: "Type 46/66"
-SIA_infantry_equipment_0_desc: "Der Typ 46/66 ist ein einzigartiges Gewehr mit der siamesischen 8x52-mm-Randpatrone, das im Wesentlichen ein hybrides Mauser-96- und -98-System in ein Gehäuse integriert, das sowohl von Mauser- als auch von Arisaka-Designs inspiriert ist. Der Typ 46 war die Hauptbewaffnung der siamesischen Expeditionsstreitkräfte während des Weltkriegs."
-SIA_infantry_equipment_1: "Type 66 Siamese Mauser"
-SIA_infantry_equipment_1_short: "Type 66"
+# Historical
+SIA_infantry_equipment_0: "Puen Lek Yao Type 46/66 Siamesische Mauser"
+SIA_infantry_equipment_0_short: "PorLorYor.46/66"
+SIA_infantry_equipment_0_desc: "Der Typ 46/66 ist ein einzigartiges Gewehr mit der siamesischen 8x52-mm-Randpatrone, das im Wesentlichen ein hybrides Mauser-96- und -98-System in ein Gehäuse integriert, das sowohl von Mauser- als auch von Arisaka-Designs inspiriert ist. Der Typ 46 war die Hauptbewaffnung der siamesischen Streitkräfte während des Weltkriegs."
+# Historical
+SIA_infantry_equipment_1: "Puen Lek Yao Type 66 Siamesische Mauser"
+SIA_infantry_equipment_1_short: "PorLorYor.66"
 SIA_infantry_equipment_1_desc: "Streng genommen handelt es sich bei der Type 66 nicht um eine Mauser, sondern um ein verbessertes japanisches Exportgewehr des Typs 38 mit einem System, das dem des älteren siamesischen Typs 46 ähnelt. Es ist für die siamesische 8x52-mm-Randpatrone ausgelegt."
-SIA_infantry_equipment_2: "Type 84 Siamese Submachine Guns"
-SIA_infantry_equipment_2_short: "Type 84 SMG"
+# Bohemian ZK-383 SMG
+SIA_infantry_equipment_2: "Puen Kol Muea Type 84 Siamesische Maschinenpistole"
+SIA_infantry_equipment_2_short: "PorKorMor.84"
 SIA_infantry_equipment_2_desc: "Der Typ 84 ist die in siamesischer Lizenz hergestellte Variante der böhmischen Maschinenpistole ZK-383 mit dem Kaliber 9×19 mm Parabellum. Die Type 84 wurde nach der Entscheidung Siams, die alternde MP-18 auslaufen zu lassen, eingeführt; sie wurde sowohl wegen der gleichen 9x19mm Patrone wie die MP-18 als auch wegen ihrer Zuverlässigkeit im Dschungel ausgewählt."
-SIA_infantry_equipment_3: "Type 87 Semi-Automatic Rifle"
-SIA_infantry_equipment_3_short: "Type 87"
+# Fictional
+SIA_infantry_equipment_3: "Puen Lek Yao Bunchuu-aeng Type 87 Halbautomatisches Gewehr"
+SIA_infantry_equipment_3_short: "PorLorYorBor.87"
 SIA_infantry_equipment_3_desc: "Inspiriert durch den früheren Erfolg des Typ 84 (ZK-383) SMG und des Typ 66 (Madsen) LMG im Feld, gelang es einem einheimischen Designteam unter der Leitung von Generalmajor Vichian Suttantanon, das erste einheimische halbautomatische Gewehr zu entwickeln. Während sich die ersten Prototypen aufgrund des fehlenden technischen Know-hows als problematisch erwiesen, wurde das Gewehr nach seiner Einführung von allen Truppen, an die es ausgegeben wurde, gut angenommen."
 #JAP Type 97:
-SIA_infantry_at: "Type 84 Anti-Tank Rifle"
+SIA_infantry_at: "Puen Rai Raeng Sathorn Type 84 Panzerabwehrgewehr"
+SIA_infantry_at_short: "20mm PorRorSor.84"
 SIA_infantry_at2: "Type 86 Rocket Launcher"
 #Madsen:
 SIA_support_weapons: "Type 66 LMG & 25cm Minenwerfer"
 SIA_support_weapons2: "M1919A3 Browning MG & 8cm Granatwerfer 34"
 SIA_support_weapons3: "Type 82 HMG & 8cm Pk83 Mortar"
 SIA_support_weapons4: "Type 82B2 HMG & 120mm Pk85 Mortar"
-SIA_night_vision: "SL100 Sniperscope"
-SIA_night_vision2: "SL200 Sniperscope"
+# Klong Truajkan Klangkhuen -> Night Vision Scope, totally fictional
+SIA_night_vision: "Klong Truajkan Klangkhuen Type 88"
+SIA_night_vision_short: "KorTorKor.88"
+SIA_night_vision2: "Klong Truajkan Klangkhuen Type 92"
+SIA_night_vision2_short: "KorTorKor.92"
 
 # Motorised
+# Rotyon Bunthuk --> Truck, anachronistic naming
+SIA_motorized_equipment_1: "Rotyon Bunthuk Type 74 Chaiprakarn"
+SIA_motorized_equipment_1_short: "RorYorBor.74 Chaiprakarn"
+# Yarnkhor Lumliang Lhoryang --> Mechanized, Half-tracked, fictional
+SIA_mechanized_equipment_1: "Rot Humkhror Lhoryang Lumliangpon Type 81 Chaiseri Jhong-ang"
+SIA_mechanized_equipment_1_short: "RorHorLor.81 Jhong-ang"
+# Yarnkhor Lumliang Lhoryang --> Mechanized, Half-tracked, fictional
+SIA_mechanized_equipment_2: "Rot Humkhror Lhoryang Lumliangpon Type 87 Chaiseri Maew Sao"
+SIA_mechanized_equipment_2_short: "RorHorLor.87 Maew Sao"
+# Rot Saiphan Lumliangpon Humkhror --> Mechanized, Full-tracked Vehicle, anachronistic naming
+SIA_mechanized_equipment_3: "Rot Saiphan Lumliangpon Humkhror Chaiseri Type 90 Maemaidum"
+SIA_mechanized_equipment_3_short: "RorSorPor.90 Maemaidum"
+# Rot Jaruad Lhai-Lamklong --> Katyusha Truck, anachronistic naming based on Truck
+SIA_motorized_rocket_equipment_1: "Rot Jaruad Lhai-Lamklong Type 85 Santi Chaiprakarn"
+SIA_motorized_rocket_equipment_1_short: "RorJorLor.85 Santi Chaiprakarn"
 
-SIA_motorized_equipment_1: "M50 Chaiprakarn"
-SIA_mechanized_equipment_1: "Chaiseri Aekachai 100"
-SIA_mechanized_equipment_1_short: "Aekachai 100"
-SIA_mechanized_equipment_2: "Chaiseri Aekachai 101/44"
-SIA_mechanized_equipment_2_short: "Aekachai 101/44"
-SIA_mechanized_equipment_3: "Chaiseri Maemaidum"
-SIA_mechanized_equipment_3_short: "Maemaidum"
-SIA_motorized_rocket_equipment_1: "M51 Santi Chaiprakarn"
-SIA_motorized_rocket_equipment_1_short: "M51 Santi Chaiprakarn"
+#Armoured Car
+# Rotkhror Type 74 'Lawaek' Landsverk, OTL Type 74 Morris Armoured Car equivalent
+SIA_gw_armored_car_equipment: "Rotkhror Type 74 Lawaek"
+SIA_gw_armored_car_equipment_short: "Rotkhror.74 Lawaek"
+#Steyr ADGZ, local licensed (Chaiseri)
+SIA_armored_car_equipment_1: "Rotkhror Type 85 Latlumkaew"
+SIA_armored_car_equipment_1_short: "Rotkhror.85 Latlumkaew"
+#39.M Csaba, local licensed (Thairung)
+SIA_armored_car_equipment_2: "Rotkhror Type 92 Phasicharoen"
+SIA_armored_car_equipment_2_short: "Rotkhror.92 Phasicharoen"
+#39.M Csaba with AT gun, local licensed (Thairung)
+SIA_armored_car_at_equipment: "Rotkhror Torsu-RotThang Type 92/93 Phasicharoen"
+SIA_armored_car_at_equipment_short: "Rotkhror.TorThor.92/93 Phasicharoen"
 
 # Artillery
 
@@ -12475,13 +12642,12 @@ SIA_rocket_artillery_equipment_2: "Jaruad Lhai-Lamklong Type 85"
 SIA_rocket_artillery_equipment_2_short: "40mm JorHor.86"
 
 # Tanks
-
+# Prototype
 SIA_gw_tank_equipment: "Rotthang Bao Type 73"
 SIA_gw_tank_equipment_short: "ThorBao.73"
-
+# Škoda Š-II export tank, same as AUS_light_tank_equipment_1
 SIA_light_tank_equipment_1: "Rotthang Bao Type 76"
 SIA_light_tank_equipment_1_short: "ThorBao.76"
-
 SIA_light_tank_aa_equipment_1: "Rot Torsu Arkartsayarn Type 77"
 SIA_light_tank_aa_equipment_1_short: "PorTorOr.77"
 

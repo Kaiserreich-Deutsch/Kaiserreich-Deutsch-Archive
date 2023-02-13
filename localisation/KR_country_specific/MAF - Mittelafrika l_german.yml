@@ -113,15 +113,13 @@ mittleafrikan_focus: "Schwerpunktbaum von Mittelafrika"
  deutsche_ost_afrika_linie: "Deutsche Ost-Afrika Linie"
 
 ### Ideas ###
- MAF_colonial_budget_idea: "Haushalt [GetYear]\n§WSpenden von Industrieunternehmen §G+[?MAF_offmap_civs]§!\nSpenden von Militärbetrieben §G+[?MAF_offmap_mils]§!§!"
+ MAF_colonial_budget_idea: "Haushalt [GetYear]\n§WSpenden von Industrieunternehmen: §G+[?MAF_offmap_civs]§!\nSpenden von Militärbetrieben: §G+[?MAF_offmap_mils]§!\nWöchentlicher Personaleinsatz: §G+[?MAF_weekly_manpower]§!§!"
  MAF_colonial_budget_idea_desc: "Wir erhalten den größten Teil unseres Budgets durch Subventionen und Handel sowie frische Truppen aus Deutschland."
 
  MAF_colonial_budget_idea_dummy: "Haushalt [GetYear]"
  MAF_colonial_budget_idea_dummy_desc: "Wir erhalten den größten Teil unseres Budgets durch Subventionen und Handel sowie frische Truppen aus Deutschland."
 
  MAF_Black_Monday_idea: "Eine Wirtschaft in Trümmern"
- MAF_Black_Monday_Improved: "Bewältigung der Krise"
- MAF_Black_Monday_MoreImproved: "Bewältigung der Krise"
  MAF_Black_Monday_1937_mils: "2. Jahr: Schwerpunkt Militär"
  MAF_Black_Monday_1937_civs: "2. Jahr: Ziviler Schwerpunkt"
  MAF_Black_Monday_1938_mils: "3. Jahr: Schwerpunkt Militär"
@@ -281,9 +279,9 @@ MAF_Mau_Mau_Revolt: "§H[Root.GetNameDef]§! erklärt den Krieg gegen §H$KEN_KI
 
 MAF_Bush_War_start_tt: "§RDer Bush-Krieg wird beginnen.§!\n§H[Root.GetNameDef]§! erklärt Krieg gegen §H$POR_$§!."
 
-MAF_Bush_War_MAF_victory_requirement_tt: "§PMittelafrika§! §Lwird gewinnen, wenn es mehr als drei der folgenden Staaten kontrolliert, §! §CPortugal§!§L:§! §gZentral Angola, Zambezia, Süd Angola§! §Land§! §gInhambane-Gaza.§!"
+MAF_Bush_War_MAF_victory_requirement_tt: "§PMittelafrika§! §Lwird gewinnen, wenn es mehr als drei der folgenden Staaten kontrolliert, §! §CPortugal§!§L:§! §g[540.GetName], [544.GetName], [917.GetName]§! §Land§! §g[950.GetName].§!"
 
-MAF_Bush_War_POR_victory_requirement_tt: "§CPortugal§! §Lwird gewinnen, wenn Mittelafrika näher als§! §m50§!§g%§! an der §LKapitulation§! ist."
+MAF_Bush_War_POR_victory_requirement_tt: "§CPortugal§! §Lwird gewinnen, wenn es mehr als drei der folgenden Staaten kontrolliert,§! §CMittelafrika§!§L:§! §g[813.GetName], [871.GetName], [879.GetName]§! §Land§! §g[958.GetName].§!"
 
 MAF_Bush_War_POR_advantage_tt: ""§Chat derzeit einen Vorteil."
 MAF_Bush_War_MAF_advantage_tt: "§PMittelafrika§! hat derzeit einen Vorteil."
@@ -319,6 +317,19 @@ MAF_Bush_War_NO_advantage_tt: "§LNiemand§! hat einen Vorteil."
 
  MAF_CtC_Khartoum-Addis: "Von Khartum nach Addis Abeba"
  MAF_CtC_Khartoum-Addis_desc: "Es ist an der Zeit, die Eisenbahnlinie von Kapstadt nach Kairo auszubauen und sie mit Äthiopien zu verbinden, um eine neue Handelsroute in Afrika zu eröffnen. Einmal mehr müssen wir die Arbeitskräfte stellen, aber die wirtschaftlichen Vorteile werden sicherlich alle Nachteile überwiegen."
+
+ ### Resource Extraction Decisions ###
+ MAF_resource_extraction_1: "Kautschukplantagen ausweiten"
+ MAF_resource_extraction_1_desc: "Afrikas natürlicher Reichtum ist überwältigend, und wir müssen unsere Möglichkeiten, ihn zu nutzen, weiterentwickeln."
+
+ MAF_resource_extraction_2: "Ölförderung in Nigeria"
+ MAF_resource_extraction_2_desc: "Es ist an der Zeit, unsere Mittel zur Ressourcengewinnung noch weiter zu entwickeln."
+
+ MAF_resource_extraction_3: "Gewinnung seltener Metalle"
+ MAF_resource_extraction_3_desc: "Es ist an der Zeit, Afrika zu der Rohstoffmacht zu machen, die es schon immer sein sollte."
+
+ MAF_resource_extraction_4: "Bemühungen zur Verbesserung der Ressourcen"
+ MAF_resource_extraction_4_desc: "Wir müssen unsere Mittel zur Veredelung der zahlreichen Ressourcen, die der afrikanische Boden hervorbringt, weiterentwickeln."
 
  ###
 MAF_take_mittelafrikan_navy: "Übernehmen Sie die Kontrolle über die Mittelafrikanische Marine"
@@ -405,9 +416,6 @@ MAF_African_Breadbasket_desc: "Ein Großteil Afrikas hat nur wenig entwickelte L
 
 MAF_Strategic_Export: "Export von strategische Ressourcen"
 MAF_Strategic_Export_desc: "Im Kriegsfall muss Mittelafrika dazu dienen, die große deutsche Kriegsmaschine zu ernähren. Durch die Ausweitung unserer Produktion von strategischen Ressourcen können wir unsere Feinde übertreffen und das Vaterland stärken."
-
- MAF_vital_industries: "Wichtige Industrien"
- MAF_vital_industries_desc: "Es ist an der Zeit, einige der "unrentablen" Privatunternehmen zu "retten", die seit der Wirtschaftskrise von '36 in Schwierigkeiten geraten sind."
 
 MAF_Protect_Animals: "Schutz für gefährdete Spezien"
  MAF_Protect_Animals_desc: "Es ist kaum zu glauben, aber einige der bekanntesten Tierarten Afrikas, insbesondere der Löwe, sind in Gefahr, vollständig ausgerottet zu werden, so wie der Wolf in Europa. Im Jahr 1870 wurde der letzte Atlasbär von Jägern erschossen. Unser Statthalter hat ein besonderes Interesse daran, Gesetze durchzusetzen, die sicherstellen, dass dies nicht mit unseren heimischen Arten geschieht."
@@ -504,17 +512,8 @@ MAF_Airforce_Infantry_desc: "Ludwig von Bockholt, eines der Hauptmitglieder der 
  MAF_british_protectorates: "Der rechtliche Status der britischen Schutzgebiete"
  MAF_british_protectorates_desc: "Der Status Quo, der die britischen Kolonien und Schutzgebiete betrifft, stellt niemanden zufrieden. Wir sollten uns bemühen, dies so bald wie möglich zu ändern."
 
- MAF_Deal_With_Europeans: "Eine neue Siedlungspolitik"
-MAF_Deal_With_Europeans_desc: "Die belgischen und britischen Bürger unserer Kolonie sind überproportional einflussreich, und es ist an der Zeit, dass wir auf die eine oder andere Weise mit ihnen umgehen."
-
-MAF_Block_FW_Investment: "Blockiert Belgische Investitionen"
-MAF_Block_FW_Investment_desc: "Zu lange haben die Belgier eine unverhältnismäßig große Rolle in der Wirtschaft unserer Kolonie gespielt. Wir sollten Maßnahmen ergreifen, um sicherzustellen, dass nur deutsche Unternehmen Zugang zu diesen Möglichkeiten haben."
-
-MAF_Seize_FW_Industries: "Beschlagnahmt die Belgische Industrien"
-MAF_Seize_FW_Industries_desc: "Jetzt, da wir die Macht des belgischen Kapitals gebrochen haben, wollen ihre Investoren unbedingt gehen. Wir können jede Ausrede nutzen, um ihre Industrie als unsere eigene zu beanspruchen, oder sie für eine dürftige Summe kaufen."
-
-MAF_Expel_Alien_Nationals: "Belgische Staatsangehörige ausweisen"
-MAF_Expel_Alien_Nationals_desc: "Im Gegensatz zu den Briten kommen die Belgier selten hierher, um sich niederzulassen. Die meisten von ihnen sind Techniker und Facharbeiter, die hier arbeiten und dann einfach nach Europa zurückkehren, um später von ihren Landsleuten ersetzt zu werden. Daher ist es viel einfacher, sie einfach nach Belgien zurückzuschicken."
+MAF_vital_industries: "Beschlagnahmt die Belgische Industrien"
+MAF_vital_industries_desc: "Zu lange haben die Belgier eine unverhältnismäßig große Rolle in der Wirtschaft unserer Kolonie gespielt. Wir sollten Maßnahmen ergreifen, um sicherzustellen, dass nur deutsche Unternehmen Zugang zu diesen Möglichkeiten haben.\n\nJetzt, da wir die Macht des belgischen Kapitals gebrochen haben, wollen ihre Investoren unbedingt gehen. Wir können jede Ausrede nutzen, um ihre Industrie als unsere eigene zu beanspruchen, oder sie für eine dürftige Summe kaufen."
 
 MAF_Attract_Belgian_Investment: "Lockt Belgische Investitionen an"
 MAF_Attract_Belgian_Investment_desc: "Die Belgier waren lange vor uns als Kolonialmacht hier und sind nie wirklich gegangen. Wir arbeiten mit zahlreichen Bergbauunternehmen zusammen, die über ihre ursprünglichen Betriebe im Kongo hinaus expandiert haben. Wenn wir diese Politik fortsetzen, können wir die Vorteile ihres Kapitals nutzen."
@@ -556,29 +555,11 @@ MAF_Deal_With_British: "Umgang mit den Briten"
 MAF_Deal_With_British_desc: "Nachdem wir uns nun mit den Briten und ihren kleinen Jagdclubs befasst haben, ist es an der Zeit, unsere Vereinbarung mit ihnen dauerhaft zu machen."
 
  ### Black Monday
-MAF_Black_Monday: "Anpassungen an den Schwarzen Montag"
-MAF_Black_Monday_desc: "Angesichts dieser beispiellosen Wirtschaftskrise können wir mit allen möglichen wirtschaftlichen Rückschlägen rechnen ..."
-
-MAF_Float_Mark: "Lasst die Mark schweben"
-MAF_Float_Mark_desc: "Seit 1921 druckt unsere Kolonie ihre eigene Währung, die Afrikanische Mark, die an die Deutsche Mark gebunden ist. Indem wir zulassen, dass unsere Währung schwankt, können wir den Preis unserer Exporte senken und die Einnahmen wieder normalisieren."
-
-MAF_Fiscal_Austerity: "Steuerliche Sparmaßnahmen"
-MAF_Fiscal_Austerity_desc: "Die Zeiten sind hart und wir müssen alle unsere Gürtel enger schnallen. Es ist Zeit, für alle mittelafrikanischen Mitarbeitern eine Lohnkürzung einzuführen."
-
-MAF_1937_Budget: "1937 Budget"
-MAF_1937_Budget_desc: "Zu Beginn des Jahres 1937 müssen wir ein knappes Budget vorbereiten, das nur geringe Ausgaben und Wachstum außerhalb von lebenswichtigen Bereiche vorsieht."
-
-MAF_1938_Budget: "1938 Budget"
-MAF_1938_Budget_desc: "Für 1938 haben wir uns darauf vorbereitet, das verlorene Wachstum auszugleichen und einige Entwicklungsprojekte durchzuführen, die 1937 undenkbar waren."
-
 MAF_University_Kinshasa: "Lovanium Universität"
 MAF_University_Kinshasa_desc: "Die Belgier haben in der Hauptstadt des Kongo eine Berufsschule eingerichtet. Ihre formelle Integration in unsere Verwaltung wird das technologische Wachstum fördern."
 
-MAF_1939_Budget: "1939 Budget"
-MAF_1939_Budget_desc: "1939 steht die Welt in Flammen, wir müssen unser Budget auf den Krieg ausrichten."
-
-MAF_Post_War_Budget: "1940 Budget"
-MAF_Post_War_Budget_desc: "Das schlimmst ist hinter uns und nun können wir in eine neue Ära des wirtschaftlichen Wachstums eintreten."
+ MAF_rail_expansion: "Erweiterung des Fahrzeugparks"
+ MAF_rail_expansion_desc: "Während das Schienennetz, das den dunklen Kontinent durchzieht, seit dem Beginn des Kolonialismus exponentiell gewachsen ist, sind es die Züge selbst, die langsam veraltet sind. Wir werden das ändern, indem wir Züge aus Europa importieren."
 
 MAF_Cape_Cairo: "Kap-Kairo Eisenbahn"
 MAF_Cape_Cairo_desc: "Es ist Zeit zu beenden, was die Briten begonnen haben. Die Kap-Kairo Eisenbahn wird zu einem massiven Wirtschaftswachstum auf dem gesamten Kontinent führen. Zuerst müssen wir die Infrastruktur um Daressalam herum aufbauen."
@@ -594,18 +575,6 @@ MAF_Continue_Industrial_Research_desc: "Es ist Zeit, neue Industrietechnologien 
 
 MAF_War_Industries: "Kriegsindustrie"
 MAF_War_Industries_desc: "Die Welt nähert sich dem Krieg, und wir können bei der Entwicklung von Waffen nicht zurückbleiben."
-
-MAF_Resource_Extraction: "Ressourcenabbau"
-MAF_Resource_Extraction_desc: "Afrikas natürlicher Reichtum ist atemberaubend, wir müssen unsere Zugangsmöglichkeiten verbessern."
-
-MAF_Improved_Resource_Extraction: "Verbesserter Ressourcenabbau"
-MAF_Improved_Resource_Extraction_desc: "Es ist Zeit, unsere Mittel zum Ressourcenabbau weiterzuentwickeln."
-
-MAF_Superior_Resource_Extraction: "Überlegener Ressourcenabbau"
-MAF_Superior_Resource_Extraction_desc: "Es ist an der Zeit, Afrika zu dem Ressourcenzentrum zu machen, das es schon immer sein sollte."
-
-MAF_Resource_Refinement: "Ressourcenverfeinerung"
-MAF_Resource_Refinement_desc: "Wir müssen unsere Möglichkeiten weiterentwickeln, um die vielen Ressourcen des afrikanischen Bodens zu verfeinern."
 
  ### Military
 MAF_Military_Reforms: "Militärische Reformen"
@@ -1006,7 +975,7 @@ mittel.59.b: "Georg Kraut, der Lettow-Vorbecks 2. Befehlshaber im Weltkrieg war!
 mittel.59.c: "Rudolf Asmis, unser berühmter und erfahrener Administrator."
 
 mittel.60.t: "Ein neuer Statthalter"
-mittel.60.d: "Der Kaiser hat Kommodore Ludwig Bockholt zu unserem neuen Statthalter ernannt. Bockholt ist bekannt für seine gewagte Versorgung von General von Lettow-Vorbeck während des Weltkrieges. Der junge Kommandant Bockholt flog das Luftschiff L 59 "Afrika-Schiff" von der Jamboli Airstation in Bulgarien zum Mahange-Plateau in Ostafrika, nach einem zermürbenden 100-Stunden-Flug über die Wüsten Ägyptens und des Sudans. Diese Reise versorgte unsere Armeen in Afrika mit neuen Waffen, Munition und vor allem Chinin, welches dazu beitrug, dass unsere Armeen bis zum Frieden mit Ehre in guter Kampfverfassung blieben. Es war die einzige Nachschubversorgung nach Ostafrika während des Krieges und weist andere Rekorde auf, wie den längsten Militärflug oder die erste Nachschubmission aus der Luft. Da es sich bei der Mission um eine Einwegreise handelte, diente Buckholt den Rest des Krieges als Marineinfanterieoffizier im ostafrikanischen Kriegsschauplatz. Nach dem Krieg verfeinerte Kommodore Bockholt seine Taktik und Ausrüstung für die Luftversorgung weiter und schuf luftmobile und später Fallschirmjäger-Marineinfanterieeinheiten. Trotz dieses Innovationsgeistes ist er einer der führenden Offiziere der Deutschen Kolonialgesellschaft und erwies sich als ein Dorn im Auge von Statthalter von Göring, der häufig mit ihm über die Richtung und Befehlsgewalt der Luftwaffe Mittelafrikas zusammenstieß. Mit Bockholt als Statthalter können wir erwarten, dass Mittelafrika eine erstklassige Luftinfanterie erhält."
+mittel.60.d: "Der Kaiser hat Kommodore Ludwig Bockholt zu unserem neuen Statthalter ernannt. Bockholt ist bekannt für seine gewagte Versorgung von General von Lettow-Vorbeck während des Weltkrieges. Der junge Kommandant Bockholt flog das Luftschiff L 59 "Afrika-Schiff" von der Jamboli Airstation in Bulgarien zum Mahange-Plateau in Ostafrika, nach einem zermürbenden 100-Stunden-Flug über die Wüsten Ägyptens und des Sudans. Diese Reise versorgte unsere Armeen in Afrika mit neuen Waffen, Munition und vor allem Chinin, welches dazu beitrug, dass unsere Armeen bis zum Vertrag von Versailles in guter Kampfverfassung blieben. Es war die einzige Nachschubversorgung nach Ostafrika während des Krieges und weist andere Rekorde auf, wie den längsten Militärflug oder die erste Nachschubmission aus der Luft. Da es sich bei der Mission um eine Einwegreise handelte, diente Buckholt den Rest des Krieges als Marineinfanterieoffizier im ostafrikanischen Kriegsschauplatz. Nach dem Krieg verfeinerte Kommodore Bockholt seine Taktik und Ausrüstung für die Luftversorgung weiter und schuf luftmobile und später Fallschirmjäger-Marineinfanterieeinheiten. Trotz dieses Innovationsgeistes ist er einer der führenden Offiziere der Deutschen Kolonialgesellschaft und erwies sich als ein Dorn im Auge von Statthalter von Göring, der häufig mit ihm über die Richtung und Befehlsgewalt der Luftwaffe Mittelafrikas zusammenstieß. Mit Bockholt als Statthalter können wir erwarten, dass Mittelafrika eine erstklassige Luftinfanterie erhält."
 mittel.60.a: "Alle grüßen den neuen Statthalter!"
 
 mittel.61.t: "Ein neuer Statthalter"

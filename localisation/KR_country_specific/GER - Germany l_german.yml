@@ -691,7 +691,7 @@ GER_poland_alliance_desc: "Der polnische Staat ist innerlich zerrissen zwischen 
 GER_oil: "Das Öl muss fließen"
 GER_oil_desc: "Unser Kolonialreich ist der Körper, und Öl ist das Blut, das es antreibt. Wir müssen unsere Vorräte sichern und aufrechterhalten, wenn wir eine Katastrophe vermeiden wollen."
 
- GER_oil_venezuela_start: "Negotiate with Venezuela"
+ GER_oil_venezuela_start: "Verhandlung mit Venezuela"
  GER_oil_venezuela_start_desc: "Venezuela ist ein Land, das reich an unerschlossenem Öl und mit einer relativ stabilen Regierung gesegnet ist, beides Faktoren, die sie für uns von großem Interesse machen."
 
 GER_oil_caucasus: "Aus dem Kaukasus"
@@ -1223,24 +1223,6 @@ gerfor.31.t: "Aufstand in Madagaskar"
 gerfor.31.d: "Da ein Ende der steigenden Arbeitslosigkeit auf Madagaskar nicht in Sicht ist, haben sich viele madagassische Einheimische, vor allem die ehemaligen Holzfäller, gegen uns erhoben. Was als bloßer lokaler Aufstand begann, entwickelte sich schnell zu einer regelrechten Rebellion, in der sich ein Unabhängigkeitskrieg zusammenbraute."
 gerfor.31.a: "Wir brauchen das jetzt wirklich nicht..."
 
-gerfor.32.t: "Ein zweiter Frieden mit Ehre"
-gerfor.32.d: "Mit dem Fall Frankreichs haben unsere Streitkräfte erfolglos versucht, die Kontrolle über Großbritannien zu erlangen und den Krieg zu unseren Gunsten entschieden zu beenden. Leider hat sich der Widerstand der Republikaner als stärker erwiesen, als wir zuvor erwartet hatten, und die Versuche, eine umfassende Invasion der Marine zu starten, sind gescheitert. Wir können nun entweder den bewaffneten Kampf fortsetzen oder versuchen, diesen vergeblichen Konflikt durch einen Friedensvertrag zu beenden."
-gerfor.32.a: "Es ist Zeit für einen Waffenstillstand."
-gerfor.32.b: "Dies wird erst dann enden, wenn deutsche Stiefel durch London marschieren."
-
-gerfor.33.t: "Deutschland schlägt einen zweiten Frieden mit Ehre vor"
-gerfor.33.d: "Versuche des Reichspaktes, auf unserer Insel Fuß zu fassen und den Krieg entschieden zu beenden, sind kläglich gescheitert. Obwohl der Zusammenbruch der Commune ein schrecklicher Schlag für die revolutionäre Sache war, haben sich die britischen Waffen als zu viel für die Jerrys erwiesen. Jetzt bietet uns die Führung des Deutschen Reiches einen Vorschlag an - die Beendigung des Konflikts zwischen dem Reichspakt und den verbleibenden Mitgliedern der Internationale im Austausch gegen gegenseitige Anerkennung. Wie sollen wir darauf reagieren?"
-gerfor.33.a: "Überleben ist alles, was wir uns erhoffen können. Unterschreiben."
-gerfor.33.b: "Eine weitere Demütigung? Nie wieder!"
-
-gerfor.34.t: "Zweiter Frieden mit Ehre unterzeichnet"
-gerfor.34.d: "Endlich ist es geschafft. Obwohl wir auf die vollständige Auslöschung der britischen Union und das Ende des syndikalistischen Einflusses in Europa gehofft hatten, sollte es leider nicht sein. Stattdessen beschlossen die Briten in weiser Voraussicht, sich mit uns zu arrangieren, und unterzeichneten den Vertrag mit Blick auf eine umfassende deutsche Truppenaufstellung. Damit ist der größte Teil der Kämpfe vorbei und der Zweite Weltkrieg in Europa praktisch beendet."
-gerfor.34.a: "Endlich Frieden!"
-
-gerfor.35.t: "Die Briten verweigerten den Frieden!"
-gerfor.35.d: "In einer erschütternden Zurschaustellung britischer Sturheit lehnten die syndikalistischen Elenden unsere Forderungen nach einem Friedensvertrag rundweg ab. Anstatt ihren Stolz zu schlucken und das Unvermeidliche zu akzeptieren, sagte die republikanische Regierung, dass sie keinen zweiten Frieden mit Ehre haben und den Krieg durch einen Marsch durch Berlin beenden würden."
-gerfor.35.a: "Sie werden für diese Frechheit bezahlen."
-
 gerfor.36.t: "Ethnischer Konflikt in Sri Lanka"
 gerfor.36.d: "Die Insel Ceylon ist von Singhalesen und Tamilen besiedelt, die seit Ewigkeiten um die Vorherrschaft auf der Insel kämpfen. Mit dem Schwarzen Montag, der unsere Wirtschaft und Kolonialverwaltung ins Wanken bringt, wird der Ungehorsam der einheimischen Bevölkerung unerträglich. Unsere Präsenz auf Ceylon, die für die Kautschukversorgung des Landes von entscheidender Bedeutung ist, wird immer prekärer."
 gerfor.36.a: "Verdammt seien diese Nationalisten!"
@@ -1291,11 +1273,6 @@ gerfor.48.a: "Großartig!"
 gerfor.49.t: "Unsere Verpflichtungen aus dem irischen Vertrag"
 gerfor.49.d: "Leider musste das gesamte Programm abgebrochen werden, da Irland nicht mehr in der Lage oder willens war, unsere Hilfe zu erhalten. Glücklicherweise bleiben die bereits produzierten Ausrüstungen und Fahrzeuge in unseren Händen und sind einsatzbereit."
 gerfor.49.a: "Besser als nichts."
-
-gerfor.50.t: "Frieden mit [ENG.GetNameDef]?"
-gerfor.50.d: "[GER.GetNameDefCap] hat mit [ENG.GetNameDef] einen Zweiten Frieden mit Ehre ausgehandelt, da es klar ist, dass die [ENG.GetAdjective] ihren Willen verloren haben, den Krieg weiterzuführen. Dies könnte auch für uns eine Chance sein, unseren Krieg mit ihnen zu beenden. Sollten wir die Gelegenheit nutzen oder den Kampf fortsetzen?"
-gerfor.50.a: "Lassen Sie uns das jetzt beenden"
-gerfor.50.b: "Nein, wir setzen den Krieg fort!"
 
 gerfor.51.t: "Deutschland bittet Österreich um Unterstützung"
 gerfor.51.d: "Die Deutschen haben uns gebeten, uns ihnen in ihrem Krieg gegen den Syndikalismus und die Kräfte der Internationale anzuschließen. Konservative Elemente im Land sagen, es sei unsere heilige Pflicht, Europa gegen die gottlosen Roten zu verteidigen, während andere sagen, wir sollten Deutschlands Krieg nicht für sie führen. Immerhin hat uns Deutschland bei den Brest-Litowsker Teilungen eher schäbig behandelt, wobei Polen und die Ukraine durch das ruhmreiche Reich aus unserem Einflussbereich verdrängt wurden. Die Frage ist nun, ob wir die Deutschen in ihrem Kampf unterstützen sollten."

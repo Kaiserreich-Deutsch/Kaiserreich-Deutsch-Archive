@@ -2080,22 +2080,28 @@ entente.24.a: "Wie schrecklich!"
  entente.281.d: "Seit 1801 hat die Brooklyn Marinewerft den Interessen der amerikanischen Marine gedient, indem sie ihr moderne Werften, Anlagen und Trockendocks zur Verfügung gestellt hat, um einige der größten und leistungsfähigsten Kriegsschiffe der amerikanischen Flotte zu bauen und zu veredeln. In den Jahren vor dem Weltkreig trug die Brooklyn Marinewerft zum Bau der Schlachtschiffe der Connecticut-Klasse bei, obwohl die Belegschaft der Marinewerft infolge der Großen Depression erheblich zurückging.\n\nWährend des Zweiten Amerikanischen Bürgerkriegs wurde der Stadtbezirk Brooklyn zum Schlachtfeld für einige der intensivsten und heftigsten Kämpfe des Krieges. Als [FROM.GetNameDefCap] die volle Kontrolle über die Stadt New York erlangte, wurde die Brooklyn Marinewerft schließlich (trotz erheblicher Kriegsschäden) wiederaufgebaut und renoviert, um ihre Marinekapazitäten zu erfüllen. Aufgrund der Notwendigkeit, die Royal Navy aufrechtzuerhalten, hat sich unsere Regierung an [FROM.GetNameDef] gewandt, ob sie bereit ist, die Werft zu pachten. Leider ist unser Angebot abgelehnt worden. Die Regierung von [FROM.GetNameDefCap] hat sich auf ihre eigenen notwendigen Zwecke für ihre Werft berufen und unsere Regierung streng daran erinnert, dass sie trotz des Beitrags, den wir ihnen im amerikanischen Bürgerkrieg geleistet haben, nicht bereit ist, amerikanisches Land für unsere Nutzung zur Verfügung zu stellen. Dementsprechend müssen wir unsere eigenen Marinekapazitäten auf unserem eigenen Boden weiter ausbauen."
  entente.281.a: "Bedauerlich!"
 
- entente.282.t: "[FROM.GetNameDefCap] Gibt Brooklyn Werft zurück" #ACW - CAN ends lease
+ #ACW - CAN ends lease
+ entente.282.t: "[FROM.GetNameDefCap] Gibt Brooklyn Werft zurück"
  entente.282.d: "Nach dem Ende des Konflikts in Übersee hat sich die kanadische Regierung heute offiziell an uns gewandt, um den Status der Brooklyn Marinewerft zu klären. Sie ist äußerst dankbar für die Hilfe, die wir ihr gewährt haben, indem wir die Marineeinrichtungen für ihre eigenen Bauzwecke nutzen durften, und sie ist vor allem dankbar dafür, dass die Arbeitskräfte, die sie zur Unterstützung herangezogen hat, aus der amerikanischen Nation kamen. Da ihr Konflikt nun jedoch beendet ist, haben sie keinen Grund mehr, die Kontrolle über die Marinewerft zu behalten. Im Geiste unseres starken Bündnisses haben sie ihren Pachtvertrag mit der Brooklyn Marinewerft formell beendet und diese wertvolle Werft der amerikanischen Nation zurückgegeben."
  entente.282.a: "Eine bezahlte Schuld!"
 
- entente.283.t: "[FROM.GetNameDefCap] Beschlagnahmungen Der Brooklyn Werft" #CAN - ACW ends lease
+ #CAN - ACW ends lease
+ entente.283.t: "[FROM.GetNameDefCap] Beschlagnahmungen Der Brooklyn Werft"
  entente.283.d: "Die amerikanische Regierung hat uns heute mitgeteilt, dass unser Pachtvertrag mit der Brooklyn Marinewerft gekündigt worden ist. Dies ist eine Folge des derzeitigen Kriegszustands von [FROM.GetNameDef], der es erforderlich macht, dass alle ihre Marineeinrichtungen bis zum Äußersten ausgenutzt werden, um den Massenbau von Kriegsschiffen, U-Booten und Flugzeugträgern für die neu belebte amerikanische Marine zu erleichtern. Obwohl sie unsere Freundschaft und unser Bündnis schätzen, haben sie angeführt, dass ihre derzeitigen Bemühungen die Beendigung unseres Mietvertrags erfordern, da sie für ihren kommenden Sturm alle Mann an Deck brauchen. Wir bedauern dies zwar, wünschen ihnen aber viel Glück bei ihren Bemühungen und werden alles in unserer Macht Stehende tun, um sie in ihrem Konflikt zu unterstützen."
  entente.283.a: "Angesichts der Umstände ist das verständlich."
 
- CAN_request_brooklyn_yard_lease: "Anfrage Brooklyn Werft Pacht" #decision
+ #decision
+ CAN_request_brooklyn_yard_lease: "Anfrage Brooklyn Werft Pacht"
  CAN_cancel_brooklyn_yard_lease: "Brooklyn Werft Pacht kündigen"
  CAN_ACW_cancel_brooklyn_yard_lease: "Aufhebung des Pachtvertrags mit der Brooklyn Werft"
- CAN_backed_rebuilding: "Kanadische Unterstützung für den Wiederaufbau" #hidden idea
- CAN_leased_brooklyn_yard: "Kanadische Brooklyn Werft Pachtvertrag" #dynamic modifier
+ #hidden idea
+ CAN_backed_rebuilding: "Kanadische Unterstützung für den Wiederaufbau"
+ #dynamic modifier
+ CAN_leased_brooklyn_yard: "Kanadische Brooklyn Werft Pachtvertrag"
  CAN_lease_length: "\n§gFür die Dauer des §YBrooklyn Werft Pachtvertrag§! werden die oben genannten §Politische Macht§! und §CGehorsam-Gewinne§! in allen unseren Gebieten angewendet§!"
 
- CAN_create_naval_research_group: "Gemeinsames Marineprogramm erstellen" #decision
+ #decision
+ CAN_create_naval_research_group: "Gemeinsames Marineprogramm erstellen"
  entente.284.t: "Gemeinsames Marineprogramm erstellt"
  entente.284.d: "Sowohl die US-Navy als auch die Royal Navy zeichnen sich durch ihre langjährige Marinegeschichte und Erfahrung in der Welt aus. Die Royal Navy ist seit jeher die führende Marine der Welt, insbesondere was die Kontrolle und den Schutz des ehemaligen britischen Reiches betrifft. Als die britische Revolution ausbrach, gelang es den meisten der erfahrenen Marinekommandeure des ehemaligen Vereinigten Königreichs, mit einem großen Teil ihrer ehemaligen Flotte nach Kanada zu fliehen. Seitdem haben sie die Qualität und Tradition der Royal Navy aufrechterhalten und sind damit würdige Erben der ehemaligen Marine des Vereinigten Königreichs.\n\nDie Marine der Vereinigten Staaten ist seit langem das Aushängeschild der amerikanischen Streitkräfte. Sie wurde erstmals im Amerikanischen Revolutionskrieg gegründet und blieb bis zum Zweiten Amerikanischen Bürgerkrieg einer der größten und modernsten Teile der amerikanischen Streitkräfte. Die meisten der Marinekommandeure von [FROM.GetNameDefCap] sammelten unschätzbare Erfahrungen im Kampf auf hoher See oder bei Blockadeoperationen während des Bürgerkriegs.\n\nUm die Bande zwischen unseren beiden Ländern zu stärken und die jeweiligen Flotten beider Länder zu modernisieren, haben die kanadische Regierung und [FROM.GetNameDefCap] vereinbart, eine neue Denkfabrik für die Marine zu gründen. Ziel dieser Zusammenarbeit ist nicht nur die Modernisierung der Seestreitkräfte der Entente, sondern auch der Austausch von Ideen zur Entwicklung neuer Schiffe und Taktiken mit Hilfe der Beratung durch unsere Ingenieure und Schiffsbauer. Gemeinsam können wir die Grenzen des Machbaren verschieben und die Freiheit der Meere sichern."
  entente.284.a: "Gemeinsam zum Sieg!"
@@ -2271,7 +2277,7 @@ entente.24.a: "Wie schrecklich!"
 
  entente.343.t: "Friedensangebot an die Entente"
  entente.343.d: "Der Krieg um Hongkong tobt schon seit einiger Zeit. In Anbetracht der Tatsache, dass die Stadt seit Monaten unter unserer Kontrolle steht, hat das diplomatische Korps vorgeschlagen, dass die Entente bereit sein könnte, Frieden zu schließen. Dies würde uns den Zugang zu ihren Märkten wieder ermöglichen und unsere Kontrolle über Hongkong legitimieren."
- entente.343.a: "Holen wir uns [ENT.Capital.GetName] an die Strippe!"
+ entente.343.a: "Holen wir uns [ENT.Capital.GetCapitalVictoryPointName] an die Strippe!"
  entente.343.b: "Nein, wir werden den Krieg fortsetzen!"
 
  entente.344.t: "[FROM.GetNameDefCap] Bietet Frieden"
@@ -2289,7 +2295,7 @@ entente.24.a: "Wie schrecklich!"
 
  entente.347.t: "Friedensangebot an die Entente"
  entente.347.d: "Der Krieg um den Pazifik tobt schon seit einiger Zeit. In Anbetracht der Tatsache, dass Australien und Neuseeland seit Monaten unter unserer Kontrolle sind, hat das diplomatische Korps angedeutet, dass die Entente bereit sein könnte, den Frieden zu akzeptieren. Dies würde es uns ermöglichen, in Australien eine rechtmäßige Regierung einzusetzen und den pazifischen Handel wieder in Gang zu bringen."
- entente.347.a: "Holen wir uns [ENT.Capital.GetName] an die Strippe!"
+ entente.347.a: "Holen wir uns [ENT.Capital.GetCapitalVictoryPointName] an die Strippe!"
  entente.347.b: "Nein, wir werden den Krieg fortsetzen!"
 
  entente.348.t: "Japan bietet Frieden"

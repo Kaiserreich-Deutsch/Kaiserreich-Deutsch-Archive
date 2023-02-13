@@ -10,7 +10,7 @@ CHS_authoritarian_democrat_party_long: "Nationale Schutzallianz"
 ### Flags and Tooltips ###
 
 refused_npa: "Hat sich geweigert hat, der NSA beizutreten oder wurde von der NSA abgelehnt."
-NPA_secured: "Unsere Führung der NSA ist gesichert."
+NPA_secured: "Unsere Führung in der NPA ist gesichert, nachdem Peking gefallen ist und wir im Frieden sind."
 CHS_centralism_tt: "Ersetzt §H$CHS_empowered_legislative$§! oder §H$CHS_empowered_executive$§! mit §H$CHS_empowered_executive_centralist$§!\nEffektive Änderung:\nBaugeschwindigkeit: §G+10.00%§!\n"
 CHS_federalism_tt: "Ersetzt §H$CHS_empowered_legislative$§! oder §H$CHS_empowered_executive$§! mit §H$CHS_empowered_executive_federalist$§!\nEffektive Anderung:\nMaximale Fabriken pro Staat: §G+10.00%§!\n"
 CHS_merge_personality_cult: "Vereint §H$CHS_empowered_executive_centralist$§! oder §H$CHS_empowered_executive_federalist$§! mit §H$CHS_NPA_legacy$§!\nEffektive Anderung:\nTäglicher Politischer Machtzuwachs: §G+0.25§!\n$MODIFIER_WAR_SUPPORT_FACTOR$: §G+10.00%§!"
@@ -173,7 +173,7 @@ npa.6.d: "[From.GetLeader] hat unser Angebot angenommen und ist der Nationalen S
 npa.6.a: "Ausgezeichnet!"
 
 npa.7.t: "[From.GetLeader] lehnt ab"
-npa.7.d: "[From.GetLeader] hat sich geweigert, der Nationalen Schutzallianz beizutreten. Wir werden uns später mit ihm befassen oder ohne ihn auskommen müssen.."
+npa.7.d: "[From.GetLeader] hat sich geweigert, der Nationalen Schutzallianz beizutreten. Wir werden uns später mit ihm befassen oder ohne ihn auskommen müssen."
 npa.7.a: "Verräter!"
 
 npa.8.t: "Peking befreit"

@@ -234,8 +234,6 @@
  SRI_asymmetrical_warfare: "Guerilla-Kriegstraining"
  SRI_asymmetrical_warfare_effect: "Ermöglicht §H$SRI_asymmetrical_warfare$\nFuß-Infanterie\n    Stadt§!\n      Angriff: §G+10%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+5%§!"
 
- SRI_motorized_offensive_effects: "Ersetze §H$SRI_italian_auto_industry_idea$§! durch §H$SRI_motorized_offensive_idea$§!\nEffektive Änderung:\n$MODIFIER_ARMY_ARMOR_ATTACK_FACTOR$: [?0.05|+=%1]\n$MODIFIER_MOTORIZED_ATTACK_FACTOR$: [?0.05|+=%1]\n$MODIFIER_MOTORIZED_DEFENCE_FACTOR$: [?0.05|+=%1]"
-
 ### Fourth Congress Focuses ###
  SRI_4th_congress: "Der vierte Kongress beginnt"
  SRI_4th_congress_desc: "Nachdem alle Vorbereitungen endlich abgeschlossen sind, wollen wir den vierten Nationalkongress einberufen. Männer und Frauen aus allen Gewerkschaften der Sozialistischen Republik Italien werden in Turin zusammenkommen, um über die Zukunft unseres Landes zu diskutieren."

@@ -169,6 +169,7 @@ puppet_can_become_free: "Kann unabhängig werden"
 puppet_can_be_annexed: "Kann vom Oberherrn annektiert werden"
 may_raise_autonomy: "§Y[Root.GetNameDefCap]§! kann das Autonomie-Niveau erhöhen, sobald die Autonomie ausreichend gestiegen ist"
 may_become_free: "§Y[Root.GetNameDefCap]§! kann nun auf die Unabhängigkeit hinarbeiten"
+cannot_change_autonomy_manually: "§RAutonomie-Level kann nicht manuell geändert werden§!"
 clamour_for_independence: "Forderung nach Unabhängigkeit"
 clamour_for_autonomy: "Forderung nach Autonomie"
 
@@ -203,6 +204,7 @@ FROM_becomes_nominal_puppet: "§H[From.GetNameDefCap]§! wird zu einer §Nominal
 
 ### Compliance ###
 compliance_integration: "Integration"
+territorial_integration: "Integration"
 
 ### World Tension ##
 AL_avricourt_shelled: "Dorf Avricourt beschossen von §Y[GER.GetNonIdeologyNameDef]§!"
@@ -256,15 +258,6 @@ is_dead_NOT: "Ist nicht verstorben"
 is_second_in_command: "Ist der stellvertretende Befehlshaber"
 is_second_in_command_NOT: "Ist nicht der stellvertretende Befehlshaber"
 
-has_free_political_advisor_slot: "Mindestens eine freie Stelle für einen Politischen Berater"
-has_free_political_advisor_slot_NOT: "Keine freien Stellen für Politische Berater"
-
-has_two_political_advisors: "Mindestens §Yzwei§! angeheuerte Politische Berater"
-has_two_political_advisors_NOT: "Weniger als §Yzwei§! angeheuerte Politische Berater"
-
-has_any_political_advisor: "Hat mindestens einen Politische Berater angestellt"
-has_any_political_advisor_NOT: "Hat keine angeheuerten Politische Berater"
-
 character_event_only: "Hinzugefügt durch Ereignis"
 
 ### Mobilisation Effects ###
@@ -273,7 +266,7 @@ disband_twenty_percent_units: "Löst §Y20%§! aller bestehenden Divisionen unte
 disband_twenty_percent_units_delete_equipment: "Löst §Y20%§! aller bestehenden Divisionen auf."
 disband_fifty_percent_units: "Löst §Y50%§! aller bestehenden Divisionen unter Beibehaltung ihrer Ausrüstung auf."
 
-#empty - should be hidden
+#empty - should be hidden (the spaces are WAD, an empty string will cause CTDs)
 second_in_command_trait: "   "
 
 ### Events ###
@@ -519,6 +512,8 @@ tech_irregulars_effect: "Ermöglicht §Y$irregular_infantry$§! Bataillone"
 
 tech_militias: "Miliz"
 tech_militias_effect: "Ermöglicht §Y$militia$§! Bataillone"
+
+masterful_blitz_effect: "Ermöglicht Taktik: §Y$tactic_masterful_blitz$§!"
 
 ### Units ###
 rangers: "Ranger"

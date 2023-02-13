@@ -263,10 +263,10 @@ AUS_russian_threat: "Die russische Bedrohung"
 AUS_russian_threat_desc: "Der Große Russische Bär hat sich im Osten wieder erhoben und droht nicht nur mit der Rückeroberung des im Weltkrieg verlorenen Landes, sondern auch mit dem Einmarsch in Deutschland selbst. Es besteht wenig Zweifel daran, dass Russland, sollte es mit seinen Zielen Erfolg haben, seine Aufmerksamkeit schließlich auch uns zuwenden wird. Es scheint, dass wir wieder an die Ostfront einmarschieren müssen, ob es uns gefällt oder nicht."
 AUS_reform_faction: "Reform des Donau-Adriabunds"
 AUS_reform_faction_desc: "Nun, da der Krieg vorbei ist, ist es an der Zeit, die Führung zu unseren eigenen Bedingungen wieder zu übernehmen: als Oberhaupt des Donau-Adriabund-Bündnisses."
-AUS_germany_on_the_ropes: "[FRA.GetNameDefCap] ist zu weit nach Süddeutschland vorgedrungen"
+AUS_germany_on_the_ropes: "§Y[FRA.GetName]§!: ist zu weit nach Süddeutschland vorgedrungen"
 AUS_syndicalism_winning_Italy: "Französische Verbündete haben die Kontrolle über einen Großteil Italiens gewonnen"
-AUS_russia_penetrated_germany: "[RUS.GetNameDefCap] oder ihre Verbündeten haben die Kontrolle über [5.GetName]"
-AUS_poland_fallen_to_russia: "[POL.GetNameDefCap] befindet sich im Reichspakt und ist an [RUS.GetNameDef] gefallen"
+AUS_russia_penetrated_germany: "§Y[RUS.GetNameDefCap]§! oder ihre Verbündeten haben die Kontrolle über §Y[5.GetName]§!"
+AUS_poland_fallen_to_russia: "§Y[POL.GetNameDefCap]§! befindet sich im Reichspakt und ist an §Y[RUS.GetNameDef]§! gefallen"
 
 AUS_integration_of_germany: "Deutsche Länder integrieren"
 
