@@ -6,5 +6,5 @@ tags={
 	"Translation"
 }
 name="Kaiserreich-Deutsch-0.24"
-supported_version="1.12.7"
+supported_version="1.12.10"
 path="./mod/Kaiserreich-Deutsch-0.24"

@@ -4,7 +4,7 @@
 
 Vielen Dank für den Download der Deutschen Übersetzung von Kaiserreich für Hearts of Iron 4!
 Diese Version wurde für Hearts of Iron IV Version 1.12.7 entwickelt.
-Es muss mindestens 1.12.7 oder neuer verwendet werden.
+Es muss mindestens 1.12.10 oder neuer verwendet werden.
 
 Anleitung zur Manuellen Installation:
 1) Lade die Mod herunter
