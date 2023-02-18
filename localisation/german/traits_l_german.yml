@@ -377,6 +377,8 @@ naval_lineage: "Marinevergangenheit"
 naval_lineage_desc: "§LEs dauert 3 Jahre, ein Schiff zu bauen. Es dauert 300 Jahre, eine Tradition aufzubauen.§!"
 navy_media_personality: "Medienpersönlichkeit"
 navy_media_personality_desc: "§LDieser Admiral hat das Talent, der richtigen Person gegenüber das richtige Zitat fallen zu lassen.§!"
+dive_bomber: "Sturzkampfbomber"
+dive_bomber_desc: "§LEin Experte für den Einsatz von Sturzkampfbombern.§!"
 
 SEAWOLF_TRIGGER_TT: "Über 80% U-Boote in der Flotte"
 FLEET_PROTECTOR_TRIGGER_TT: "Über 50% Schutzschiffe in der Flotte"

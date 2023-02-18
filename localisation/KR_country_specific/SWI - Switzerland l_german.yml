@@ -844,6 +844,10 @@ swiss.75.t: "Deutschland hat gegen uns interveniert"
 swiss.75.d: "Obwohl die Schweizer nicht um ihre Hilfe gebeten haben, hat der deutsche Kaiser in seinem Machtwahn es für angebracht gehalten, seine Nation in den Krieg gegen unseren glorreichen Kreuzzug zu werfen. Sicherlich ist dies das Ende von Deutschlands Herrschaft über Europa."
 swiss.75.a: "Deutsche Hunde!"
 
+ swiss.76.t: "Das Ende der Schweizer Neutralität"
+ swiss.76.d: "Trotz aller Bemühungen, ausländische Verwicklungen zu vermeiden, ist die Schweiz in die Machenschaften fremder Mächte verwickelt worden. Unsere Neutralität, die wir über hundert Jahre lang aufrechterhalten haben, wurde schließlich gebrochen, als unsere Regierung auf die Seite von [SWI.faction_leader.GetNameDef] geriet."
+ swiss.76.a: "Werden sie uns besser schützen können als die Neutralität?"
+
 swiss.78.t: "Die Regierung zieht nach Genf"
 swiss.78.d: "Mit dem Zusammenbruch der Regierung in Bern nach dem Aufstand der Syndikalisten wurde eine lose Koalition von Unionisten gebildet, um die Regierungsangelegenheiten zu regeln. Es hat sich schmerzlich gezeigt, dass diese zufällige Gruppe von Unionisten nicht in der Lage ist, die Regierung und alle ihre Funktionen zu führen.\n\nStattdessen wurde eine neue Regierung unter der Leitung des Genfer Staatsrates gebildet, mit Unterstützung der französischen Kommune. Diese neue Regierung wird den Staat leiten, bis eine richtige Verfassung für die neue Schweiz gebildet werden kann."
 swiss.78.a: "Wir sind in ihren Händen."
@@ -1574,7 +1578,7 @@ SWI_transport_of_goods_tooltip: "§CDies wird ein Referendum beginnen, das die N
 
  SWI_eugen_bircher: "Eugen Bircher"
  SWI_eugen_bircher_leader_desc: "Eugen Bircher, ein Germanophiler und überzeugter Anti-Syndikalist, ist von Beruf Arzt und erfand mehrere bahnbrechende Verfahren für die Arthroskopie des Knies. Nach dem Aufkommen des Syndikalismus in Frankreich gab Bircher seine medizinische Tätigkeit weitgehend auf und gründete den SVV, der als Gegengewicht zum aufkommenden Sozialismus in der Schweiz schnell in militärische und politische Kreise vordrang."
- SWI_eugen_bircher_commander_desc: "§YAllgemeine Beschreibung\n§YGeboren:§L\n17. Februar 1882\nAarau, Aargau, Schweiz\n§YMilitärische Laufbahn:§L\nZusammen mit Henri Guisan bekleidet Bircher den höchsten Rang des Schweizer Militärs, der in Friedenszeiten zur Verfügung steht. Im Gegensatz zu seinem Kollegen verbringt er jedoch einen Großteil seiner Zeit in der Politik und steht an der Spitze einer halbgeheimen rechtsextremen Organisation mit großem Einfluss in der Schweizer Regierung"
+ SWI_eugen_bircher_commander_desc: "§YAllgemeine Beschreibung\nGeboren:§! §g17. Februar 1882, in Aarau, Aargau, Schweiz§!\n§YMilitärische Laufbahn:§! §gZusammen mit Henri Guisan bekleidet Bircher den höchsten Rang des Schweizer Militärs, der in Friedenszeiten zur Verfügung steht. Im Gegensatz zu seinem Kollegen verbringt er jedoch einen Großteil seiner Zeit in der Politik und steht an der Spitze einer halbgeheimen rechtsextremen Organisation mit großem Einfluss in der Schweizer Regierung"
 
  SWI_hans_heinrich_itschner: "Hans Heinrich Itschner"
  SWI_fritz_brupbacher: "Fritz Brupbacher"
@@ -1600,28 +1604,28 @@ SWI_transport_of_goods_tooltip: "§CDies wird ein Referendum beginnen, das die N
  SWI_hans_hausamann: "Hans Hausamann"
 
  SWI_henri_guisan: "Henri Guisan"
- SWI_henri_guisan_commander_desc: "§YAllgemeine Beschreibung\n§YGeboren:§L\n21. Oktober 1874\nMézières, Waadt, Schweiz\n§YMilitärische Laufbahn:§L\nGeboren in einem französischsprachigen Teil der Schweiz, besuchte Guisan ursprünglich die Schule und studierte Landwirtschaftsmedizin. Nachdem er jedoch 1894 in das Schweizer Militär eingetreten war, kletterte er allmählich die Ränge hinauf und wurde 1932 zum Generalleutnant befördert, dem höchsten Rang in Friedenszeiten. Guisan beteiligt sich weniger an der Politik als viele seiner Kollegen und sieht den besten Weg in die Zukunft in der Neutralität durch Abschreckung, indem er starke und ausgeklügelte Verteidigungsmaßnahmen unterstützt, die eine Eroberung der Schweiz zu einem langen und schmerzhaften Unterfangen machen."
+ SWI_henri_guisan_commander_desc: "§YAllgemeine Beschreibung\nGeboren:§! §g21. Oktober 1874, in Mézières, Waadt, Schweiz§!\n§YMilitärische Laufbahn:§! §gGeboren in einem französischsprachigen Teil der Schweiz, besuchte Guisan ursprünglich die Schule und studierte Landwirtschaftsmedizin. Nachdem er jedoch 1894 in das Schweizer Militär eingetreten war, kletterte er allmählich die Ränge hinauf und wurde 1932 zum Generalleutnant befördert, dem höchsten Rang in Friedenszeiten. Guisan beteiligt sich weniger an der Politik als viele seiner Kollegen und sieht den besten Weg in die Zukunft in der Neutralität durch Abschreckung, indem er starke und ausgeklügelte Verteidigungsmaßnahmen unterstützt, die eine Eroberung der Schweiz zu einem langen und schmerzhaften Unterfangen machen."
 
  SWI_gustave_combe: "Gustave Combe"
- SWI_gustave_combe_commander_desc: "§YAllgemeine Beschreibung\n§YGeboren:§L\n27. Mai 1882\nOrbe, Waadt, Schweiz\n"
+ SWI_gustave_combe_commander_desc: "§YAllgemeine Beschreibung\nGeboren:§! §g27. Mai 1882, in Orbe, Waadt, Schweiz§!"
 
  SWI_hermann_flueckiger: "Hermann Flückiger"
- SWI_hermann_flueckiger_commander_desc: "§YAllgemeine Beschreibung\n§YGeboren:§L\n30. April 1885\nBargen, Bern, Schweiz\n"
+ SWI_hermann_flueckiger_commander_desc: "§YAllgemeine Beschreibung\nGeboren:§! §g30. April 1885, in Bargen, Bern, Schweiz§!"
 
  SWI_jakob_labhardt: "Jakob Labhardt"
- SWI_jakob_labhardt_commander_desc: "§YAllgemeine Beschreibung\n§YGeboren:§L\n28. Januar 1881\nSteckborn, Thurgau, Schweiz\n"
+ SWI_jakob_labhardt_commander_desc: "§YAllgemeine Beschreibung\nGeboren:§! §g28. Januar 1881, in Steckborn, Thurgau, Schweiz§!"
 
  SWI_jean_de_muralt: "Jean de Muralt"
- SWI_jean_de_muralt_commander_desc: "§YAllgemeine Beschreibung\n§YGeboren:§L\n18. Juli 1877\nZürich, Zürich, Schweiz\n"
+ SWI_jean_de_muralt_commander_desc: "§YAllgemeine Beschreibung\nGeboren:§! §g18. Juli 1877, in Zürich, Zürich, Schweiz§!"
 
  SWI_jakob_huber: "Jakob Huber"
- SWI_jakob_huber_commander_desc: "§YAllgemeine Beschreibung\n§YGeboren:§L\n1. November 1883\nJonen, Aargau, Schweiz\n"
+ SWI_jakob_huber_commander_desc: "§YAllgemeine Beschreibung\nGeboren:§! §g1. November 1883, in Jonen, Aargau, Schweiz§!"
 
  SWI_louis_de_montmollin: "Louis de Montmollin"
- SWI_louis_de_montmollin_commander_desc: "§YAllgemeine Beschreibung\n§YGeboren:§L\n17. November 1893\nSavagnier, Neuenburg, Schweiz\n"
+ SWI_louis_de_montmollin_commander_desc: "§YAllgemeine Beschreibung\nGeboren:§! §g17. November 1893, in Savagnier, Neuenburg, Schweiz§!"
 
  SWI_hans_bandi: "Hans Bandi"
- SWI_hans_bandi_commander_desc: "§YAllgemeine Beschreibung\n§YGeboren:§L\n19. Juli 1882\nBern, Bern, Schweiz\n"
+ SWI_hans_bandi_commander_desc: "§YAllgemeine Beschreibung\nGeboren:§! §g19. Juli 1882, in Bern, Bern, Schweiz§!"
 
  SWI_fritz_rihner: "Fritz Rihner"
  SWI_etienne_primault: "Etienne Primault"

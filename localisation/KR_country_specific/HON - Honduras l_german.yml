@@ -438,13 +438,6 @@ HON_coast_protecc_desc: "Wir müssen sicherstellen, dass kein Eindringling jemal
 HON_border_conflict_time_until_cancelled: "Die Verfolgung der Meuterer: Zeit bis zum Rückzug"
 HON_clash: "Der Grenzkonflikt"
 
-##Army_Generals##
-
-HON_jose_maria_moncada_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\n§YMilitärkarriere:§L\n§YWichtige Hinweise:§L."
-NIC_federico_davidson_blanco_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\n§YMilitärkarriere:§L\n§YWichtige Hinweise:§L."
-HON_oswaldo_lopez_arellano_commander_desc: "§YGeneral Beschreibung\n§YGeboren:§L\n§YMilitärkarriere:§L\n§YWichtige Hinweise:§L."
-HON_juan_manuel_galvez_commander_desc: ""
-
 ### Country Names ###
 HON: "Honduras"
 HON_ADJ: "Honduranisch"

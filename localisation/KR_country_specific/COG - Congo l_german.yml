@@ -3,13 +3,22 @@
 ##Übersetzt von Thylon##
 
 ### Parties ###
-COG_paternal_autocrat_party: "Manikong-Clique"
-COG_paternal_autocrat_party_long: "Manikongs-Clique"
+COG_authoritarian_democrat_party: "ABAKO"
+COG_authoritarian_democrat_party_long: "Allianz von Bakongo"
+COG_paternal_autocrat_party: "Ne Mbanda-Mbanda"
+COG_paternal_autocrat_party_long: "Königlicher Rat des Königreichs Kongo"
+COG_national_populist_party: "Kimbangu"
+COG_national_populist_party_long: "Kirche Jesu Christi auf Erden durch seinen Sondergesandten Simon Kimbangu"
 
 ### Country Names ###
 COG: "Kongo"
 COG_ADJ: "Kongolesisch"
 COG_DEF: "Kongo"
+
+### Characters ###
+COG_Edmond_Nzeza_Nlandu: "Edmond Nzeza-Nlandu"
+COG_Pedro_VIII_Afonso: "Pedro VII Afonso"
+COG_Simon_Kimbangu: "Simon Kimbangu"
 
 ### Events ###
 cog.1.t: "Portugiesen fordern die Manikong, das Knie zu beugen"

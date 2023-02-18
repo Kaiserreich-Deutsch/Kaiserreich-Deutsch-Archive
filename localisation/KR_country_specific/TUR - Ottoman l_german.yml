@@ -137,7 +137,7 @@
 ### Traits
  TUR_sultan_of_the_arts: "Sultan der Künste"
  TUR_sultan_of_architecture: "Sultan der Architektur"
- TUR_the_warrior_sultan: "Der Kriegerische Sultan"
+ TUR_the_warrior_sultan: "Sultan des Krieges"
 
 ### Factions
  istanbul_pact: "Istanbulpakt"
@@ -195,6 +195,8 @@
 
  OTT_maintenance_of_order_law_tooltip: "$TRIGGER_OR_STARTS$:\n   Der Großwesir hat während des Balkankrieges die Macht übernommen\n   Der Großwesir hat nach einem fehlgeschlagenen Mordversuch die Macht übernommen\n   Dem Großwesir wurden die nötigen Befugnisse zur Beseitigung der Karakol-Gesellschaft gewährt\n   Die Araber haben sich in einer Revolte gegen das Reich erhoben"
  OTT_less_than_124_deputies: "Weniger als 124 Abgeordnete unterstützen die Koalition"
+ 
+ OTT_new_focus_ohf: "§GDies schaltet einen neuen Fokusbaum frei.§!"
  
 ### Focuses
  ott_education_decree_tt: "\nEs nicht zu schaffen, das §YBildungsdekret§! durchzusetzen, könnte §Rernsthafte Konsequenzen§! haben."
@@ -922,6 +924,16 @@
  OTT_Consolidate_Military_Dictatorship_desc: "Obwohl der Marschall die Kerngedanken der Demokratie unterstützt und eigentlich plante, bald wieder eine parlamentarische Herrschaftsform einzuführen, ist er sich mittlerweile nicht mehr sicher, ob die alten Institutionen denn wirklich das Beste für das Volk sind. Wie eine Krankheit hat sie das Reich von innen heraus geschwächt, weshalb viele den Marschall darum gebeten haben, die Militärdiktatur aufrechtzuerhalten, bis wir sicher sein können, dass unsere Interessen auch weiterhin geschützt werden."
  OTT_Lift_State_of_Emergency: "Aufhebung des nationalen Notstands"
  OTT_Lift_State_of_Emergency_desc: "Obwohl der Marschall offen gezeigt hat, dass ihn die Schwäche der Dezentralisten anwidert, was wiederum zu der Krise geführt hat, in die das Reich vor Kurzem gestürzt ist, unterstützt er noch immer die Kerngedanken der Demokratie. Nun, da sich die Wirtschaft erholt und die Nation stabilisiert, hat er, zusammen mit mehreren Politikern, sich dazu entschieden, seine Macht an die demokratischen Institutionen zurückzugeben und den nationalen Notstand aufzuheben."
+ OTT_reorganize_the_military: "Reorganisation des Militärs"
+ OTT_reorganize_the_military_desc: "Die osmanische Armee hat schon zu viele Rückschläge erleiden müssen. Die Inkompetenz des Heeres lässt sich jedoch zweifelsohne durch seine enge Verbindung zur Politik erklären. Nun, da der Marschall die Macht ergriffen hat, will er seine Herrschaft durch eine Reorganisation des Militärs festigen. Offiziere werden neue Strategien erlernen und Soldaten auf den Trainingsplatz zurückkehren."
+ OTT_infallible_army: "Eine unfehlbare Armee"
+ OTT_infallible_army_desc: "Das osmanische Heer wurde reformiert und die Effizienz unserer Soldaten dadurch erhöht. Sie sollten nun dazu in der Lage sein, das Reich im Falle eines Krieges zu verteidigen."
+ OTT_relinquish_some_powers: "Niederlegung gewisser Befugnisse"
+ OTT_relinquish_some_powers_desc: "Obwohl der Marschall die Nation mit eiserner Faust führt, ist er ein weiser Mann. Er weiß, dass ein so großes Reich nicht von einer kleinen Elite getragen werden kann, wenn es bestehen soll. Deshalb ist er dazu bereit, den Demokraten gegenüber gewisse Zugeständnisse zu machen, um so die Stabilität des Reiches zu gewährleisten."
+ OTT_cautious_progress: "Bedachter Fortschritt"
+ OTT_cautious_progress_desc: "Der Glaube an den Fortschritt war das Rückgrat der OHF-Regierung und ihrer Vorgänger. Nun sollte auch der Marschall sich an diesem Leitbild orientieren. Allerdings ist er sich auch bewusst, dass zu viele Reformen die Stabilität des Reiches gefährden könnten. Deshalb ist es wichtig, bedachtsam voranzuschreiten, um den Menschen Zeit zu geben, sich an das Neue zu gewöhnen."
+ OTT_new_military_dictatorship: "Eine neue Militärdiktatur"
+ OTT_new_military_dictatorship_desc: "20 Jahre nach dem Fall des Triumvirates der CUP herrscht nun eine neue Diktatur über das Reich. Diesmal wird sie jedoch von einem einzigen selbstbewussten Mann regiert. Er wird das Reich wieder auf den richtigen Weg bringen und die richtigen Entscheidungen für die Zukunft der Nation treffen."
 
  OTT_Enshrine_Endeavour_Front: "Verankerung der 'Volksarbeiterfront'"
  OTT_Enshrine_Endeavour_Front_desc: "Die Volksarbeiterfront, welche aus Politikern aller Fraktionen besteht, darunter sowohl Dezentralisten als auch Zentralisten, könnte eine stabile Übergangsregierung formen, bis alle ausländischen Bedrohungen abgewehrt wurden und die gesamte Welt sich wieder beruhigt hat. Viele ihrer Mitglieder sind militärische Befehlshaber, welche der OHF oder der DF treu ergeben sind, allerdings besteht die Volksarbeiterfront auch aus vielen Arabern und Mitgliedern anderer Minderheiten, wodurch der ewige Frieden gesichert werden könnte."
@@ -1228,6 +1240,15 @@
 
  ott_widespread_illiteracy_fevzi: "Weit verbreitetes Analphabetentum"
  ott_widespread_illiteracy_fevzi_desc: "Viele der einfachen Bürger unseres Reiches sind Analphabeten, da die perso-arabische Schrift nur schwer zu erlernen ist und viele Bürger der Unterschicht gar nicht den Wunsch verspüren, zu lernen, wie man liest und schreibt. Dies erschwert die Industrialisierung unserer großartigen Nation enorm."
+ 
+ ott_fevzi_reorganize_military: "Reorganisation des Militärs"
+ ott_fevzi_reorganize_military_desc: ""
+
+ ott_fevzi_military_einforced: "Eine unfehlbare Armee"
+ ott_fevzi_military_einforced_desc: ""
+
+ ott_fevzi_cautious_reforms: "Bedachtsame Reformen"
+ ott_fevzi_cautious_reforms_desc: ""
 
 ### Political (Sabahattin)
  ott_private_initiative: "Ermutigte Privatinitiative"
@@ -3260,8 +3281,8 @@
  OTT_Population_Lazistan: "Hauptkultur: §YLasisch§!, Türkisch\nHauptreligion: §YSunnitischer Islam§!"
  OTT_Population_Lazistan_desc: "Das Sandschak Lazistan, das von der südkaukasischen Lasen-Minderheit bewohnt wird, war einst die Heimat einer kosmopolitischen Gesellschaft, die aus Griechen, Türken, Kurden, Georgiern, Armeniern und Lasen bestand, weshalb die Region früher sogar von Armenien beansprucht wurde. Aufgrund des Völkermords an den Armeniern, in dessem Zuge tausende Armenier während des Weltkriegs abgeschlachtet wurden, ist von der nicht-muslimischen Bevölkerung der Region jedoch nur noch sehr wenig übrig. Vergeltungsmaßnahmen von russisch-armenischen Truppen vor der Revolution von 1917 haben die Situation nur noch verschlimmert, da die sowieso schon vom Krieg müden Menschen dadurch ein weiterer Schlag traf, der diesmal jedoch gegen die Sunniten gerichtet war. Als der Weltkrieg sich dem Ende neigte, war das Land der Lasen durch den Krieg und die konstante Migration verwüstet. Auch die Wirtschaft des Sandschaks, die auf der Landwirtschaft (vor allem dem Anbau von Haselnüssen) und dem Bergbau in den Zinkminen basiert, leidet immer mehr, da viele Menschen die Region auf der Suche nach einer neuen Heimat für immer verlassen.\n\nDie Lasen sind den Georgiern, die weiter nördlich leben, recht ähnlich, aufgrund der Religionsunterschiede zwischen dem christlichen Georgien und dem muslimischen Lazistan haben die beiden Regionen jedoch noch nicht miteinander kooperiert. In Lazistan hat man gar georgische Spione festgenommen, welche wahrscheinlich Unterstützung für einen anti-osmanischen Aufstand sammeln wollten. Diese Versuche sind bisher jedoch fehlgeschlagen, da die Lasen mit unserer Herrschaft recht zufrieden sind und nur wenig von Georgien halten."
 
- OTT_Population_Kars: "Hauptkultur: §YTürkisch§!, Kurdisch\nHauptreligion: §YSunnitischer Islam§!"
- OTT_Population_Kars_desc: "Das Vilayet Kars wurde uns vom Russischem Reich nach unserer Niederlage im Russisch-Osmanischen Krieg gestohlen und befindet sich erst seit wieder erneut unter unserer Kontrolle. Aufgrund der jahrzehntelangen Herrschaft durch die Russen und ihre armenischen Verbündeten sind die Armenier in Kars zu einer großen Minderheit geworden. Der Weltkrieg meinte es jedoch nicht gut mit den Armeniern: Einst machten sie 30% der Bevölkerung von Kars aus, jetzt sind ihre Prozentzahlen nur noch einstellig. Die Armenier, die noch immer in der Region leben, fürchten sich auch weiterhin vor Vergeltungsschlägen durch die osmanische Regierung. Viele der Überlebenden des Völkermords hat es in das nicht weit entfernte armenische Vilayet getrieben, wobei das Osmanische Reich nicht einmal versuchte, die Flüchtlinge aufzuhalten. Nun ist Kars eine muslimische Provinz, die von Türken und Kurden bewohnt wird, welche dem osmanischen Regime, das sie vor russischen Truppen und armenischen Vergeltungsmaßnahmen geschützt hat, treu ergeben sind.\n\nDie Wirtschaft der Region hängt gänzlich von der Landwirtschaft ab, da ein Großteil des Landes des Vilayets dem Anbau von Getreide oder der Tierhaltung gewidmet wurde. Nahe der Weiden von Ardahan und Kars haben sich außerdem große Imkereien entwickelt, ihr Einfluss auf die Wirtschaft ist allerdings nur gering."
+ OTT_Population_Kars: "Hauptkultur: §YTürkisch§!, Kurdisch, Armenisch\nHauptreligion: §YSunnitischer Islam§!, Orthodoxes Christentum"
+ OTT_Population_Kars_desc: "Das Vilayet Kars wurde uns vom Russischem Reich nach unserer Niederlage im Russisch-Osmanischen Krieg gestohlen und befindet sich erst seit wieder erneut unter unserer Kontrolle. Aufgrund der jahrzehntelangen Herrschaft durch die Russen und ihre armenischen Verbündeten sind die Armenier in Kars zu einer großen Minderheit geworden, die zu Beginn des Jahrtausends etwa 30% der lokalen Bevölkerung ausmachte.\nWährend der Weltkrieg es nicht gut mit der armenischen Bevölkerung des Reiches meinte, verbrachte Kars einen Großteil des Krieges unter russischer Besatzung und wurde dadurch größtenteils von den Gräueltaten des Konfliktes verschont. Der Ausbruch des Russischen Bürgerkrieges und die osmanische Rückeroberung der östlichen Territorien des Reiches schürten jedoch die Furcht der armenischen Bevölkerung Kars' und leiteten viele dazu, Zuflucht im Osten, in den Bergen ihrer Heimat, zu suchen. Da der Krieg sich jedoch bereits dem Ende neigte und der osmanische Sieg absehbar war, wurden diejenigen, die zurückblieben, größtenteils verschont. Deshalb machen Armenier auch heute noch, vor allem in den östlichen Teilen der Provinz, einen großen Teil der Bevölkerung aus, die sonst hauptsächlich aus Türken und Kurden besteht, welche dem osmanischen Regime, das sie vor russischen Truppen und armenischen Vergeltungsmaßnahmen geschützt hat, treu ergeben sind.\n\nDie Wirtschaft der Region hängt gänzlich von der Landwirtschaft ab, da ein Großteil des Landes des Vilayets dem Anbau von Getreide oder der Tierhaltung gewidmet wurde. Nahe der Weiden von Ardahan und Kars haben sich außerdem große Imkereien entwickelt, ihr Einfluss auf die Wirtschaft ist allerdings nur gering."
 
  OTT_Population_Diyarbakir: "Hauptkultur: §YKurdisch§!, Türkisch, Arabisch (Syrisch)\nHauptreligion: §YSunnitischer Islam§!"
  OTT_Population_Diyarbakir_desc: "Die Region Diyarbakir gehört zu den Kernregionen der Kurden und ist trotz ihrer agrarischen Wirtschaft wohlhabend, da die Hauptstadt der Region, die Stadt Diyarbakir, als wichtiges Lernzentrum bekannt und auch für den Islam sehr wichtig ist. Sie ist die Heimat der Diyarbakir Ulu Camii, der fünften der heiligen Stätten des Islams und eine der ältesten Kirchen der Welt. Die Bevölkerung der Region wurde hart vom Weltkrieg getroffen und war gegen Ende des Krieges von Krankheiten, Bränden und einem allgemeinen Elend geplagt.\n\nDa die Region für die osmanischen Streitkräfte, die den Osten des Reiches schützen, von strategischer Bedeutung ist, wird sie stark von unserer Regierung beaufsichtigt, in der Hoffnung, weiteren Konfrontrationen mit den Kurden aus dem Weg gehen zu können. Es gibt zwar derzeit nur geringen Widerstand gegen Kostantiniyye, allerdings fürchten sich viele Kurden vor der fortschreitenden Säkularisierung und den Zentralisierungsbemühungen durch die OHF, da sie glauben, dass die Türken sie Stück für Stück aus ihrem Land vertreiben werden, sollten sie nicht mehr durch das Kalifat vereint sein."
@@ -3381,7 +3402,8 @@
  OTT_Population_Yemen_desc: "Fern von der Küste, am südlichen Fuße der Sarawat-Berge, liegt das Herz des Jemens und der Brotkorb Arabiens. Im Gegensatz zum Rest der Region ist Niederschlag hier nicht allzu selten und die Berge formen das Land zu Terrassen, welche von der örtlichen Bevölkerung extensiv landwirtschaftlich genutzt werden können, weshalb die Region zu dem an dichtesten bevölkertsten Gebieten der Halbinsel gehört.\nDank der Berge und des Plateaus, welches nahezu drei Millionen ihre Heimat nennen, war das Herz des Jemens für ausländische Mächte schon immer schwer zu kontrollieren - und wir bilden dabei keine Ausnahme. Die Gebirge bieten eine ausgezeichnete Möglichkeit, Befestigungen zu errichten und Streitkräfte zu verstecken und sollten von uns genutzt werden, um unsere Kontrolle über das Rote Meer und die südliche Tihamah-Region zu sichern."
 
  OTT_Population_Aden: "Hauptkultur: §YArabisch (Jemenitisch)§!\nHauptreligion: §YSunnitischer Islam§!"
- OTT_Population_Aden_desc: "Der sichere Hafen Adens hat die Stadt im Verlauf der letzten tausend Jahre zu einem wichtigen Handelszentrum gemacht, wodurch der lokale Handel auch zur treibenden wirtschaftlichen Kraft der Region aufblühte. Aden wurde schon seit jeher von vielen Herrschern und Nationen beansprucht, doch im 19. Jahrhundert fiel es an die Briten, die versuchten, die osmanische Präsenz in der Region anzufechten und Handelsbeziehungen zu Britisch-Indien zu etablieren und zu stärken." # Being a key post travelling towards the Suez from their colonies in the east, the immediate surroundings of the city have seen substantial urban growth and economic prosperity, even after their retreat and the takeover of the local Sultan of Lahej under his Federation of Emirates, further demonstrating the economic importance of the harbour.
+ OTT_Population_Aden_desc: "Der sichere Hafen Adens hat die Stadt im Verlauf der letzten tausend Jahre zu einem wichtigen Handelszentrum gemacht, wodurch der lokale Handel auch zur treibenden wirtschaftlichen Kraft der Region aufblühte. Aden wurde schon seit jeher von vielen Herrschern und Nationen beansprucht, doch im 19. Jahrhundert fiel es an die Briten, die versuchten, die osmanische Präsenz in der Region anzufechten und Handelsbeziehungen zu Britisch-Indien zu etablieren und zu stärken."
+ # Being a key post travelling towards the Suez from their colonies in the east, the immediate surroundings of the city have seen substantial urban growth and economic prosperity, even after their retreat and the takeover of the local Sultan of Lahej under his Federation of Emirates, further demonstrating the economic importance of the harbour.
 
  OTT_Population_Hadhramaut: "Hauptkultur: §YArabisch (Hadhramisch)§!\nHauptreligion: §YSunnitischer Islam§!"
  OTT_Population_Hadhramaut_desc: "Hadhramaut ist eine nur spärlich bevölkerte und größtenteils isolierte Region, die sowohl von der Geschichte als auch von den meisten Eroberern vergessen wurde. Diese Isolation führte dazu, dass die hadhramische Sprache noch immer stark vom Süd-Semitischen beeinflusst wird, was im 19. Jahrhundert das Interesse britischer Entdecker weckte.\nGetrennt durch die Gebirge der Region leben die Hadhrami der Küste von der Landwirtschaft und die Hadhrami des Nordens von der Viehzucht, wobei sie ihre knappen Wasservorräte mit Bedacht nutzen. Außerdem lebt in der Region eine vergleichbar große Anzahl hadhramischer Juden, die sich aufgrund ihrer langen Isolation stark von den anderen jüdischen Gemeinden der Welt unterscheiden."
@@ -3491,7 +3513,7 @@
  TUR_resat_muhlis_erkmen: "Reşat Muhlis Bey"
  TUR_resat_muhlis_erkmen_surname: "Reşat Muhlis Erkmen"
 
- TUR_suleiman_sirri_aral: "Suleiman Sirri Bey"
+ TUR_suleiman_sirri_aral: "Süleyman Sırrı Bey"
  TUR_suleiman_sirri_aral_surname: "Suleiman Sirri Aral"
 
  TUR_yunus_nadi_abalioglu: "Yunus Nadi Bey"

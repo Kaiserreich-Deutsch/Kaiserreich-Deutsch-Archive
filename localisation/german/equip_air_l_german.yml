@@ -1,5 +1,4 @@
 ﻿l_german:
-###  Übersetzt von Proho  ###
  fighter: "Jäger"
  fighter_equipment_desc: "Jäger sind schnell und wendig und können viele Aufgaben erfüllen. Vom Kampf um die Luftüberlegenheit, über den Schutz Ihrer Bomber bis hin zum Abfangen der gegnerischen Bomber."
  cv_fighter: "Jäger (Träger)"
@@ -31,7 +30,8 @@
  transport_plane_equipment_desc: "Bringt Fallschirmjäger an ihr Ziel."
  guided_missile: "Rakete"
  fighter_equipment: "Jäger"
- cv_fighter_equipment: "Trägerjäger"
+ cv_fighter_equipment: "Trägergestützter Jäger"
+ cv_fighter_equipment_short: "Träger-Jäger"
  strat_bomber_equipment: "Strategische Bomber"
  rocket_interceptor_equipment: "Raketenabfangjäger"
  rocket_interceptor_equipment_desc: "Abfangjäger mit kurzer Reichweite, angetrieben von einem chemischen Raketentriebwerk."
@@ -89,7 +89,8 @@
  transport_plane_equipment_1_short: "Transporter"
  transport_plane_equipment_1_desc: "§LFlugzeuge, die für den Transport von Truppen bei Fallschirmjägereinsätzen verwendet werden.§!"
  nav_bomber_equipment: "Marinebomber"
- cv_nav_bomber_equipment: "CV Marinebomber"
+ cv_nav_bomber_equipment: "Trägergestützter Marinebomber"
+ cv_nav_bomber_equipment_short: "Träger-Marinebomber"
  nav_bomber_equipment_1: "Marinebomber I"
  nav_bomber_equipment_1_short: "NAV I"
  nav_bomber_equipment_1_desc: "Die Marinefliegerei wird im kommenden Jahrzehnt von entscheidender Bedeutung sein, um neuen Entwicklungen in der Seekriegsführung, wie der zunehmenden Bedeutung von U-Booten, zu begegnen. Wasserflugzeuge mit der Fähigkeit, als Sturzkampfbomber und Aufklärer zu arbeiten, werden von Nutzen sein."
@@ -100,7 +101,8 @@
  nav_bomber_equipment_3_short: "NAV III"
  nav_bomber_equipment_3_desc: "Ganzmetallkonstruktionen und leistungsfähige Bremsklappen ermöglichen eine komplexere Marinefliegerei. Die Flugzeuge der Zukunft werden jedoch eine größere Besatzung erfordern, um diese fortschrittlichen Systeme zu bedienen."
  CAS_equipment: "Luftnahunterstützung"
- cv_CAS_equipment: "Träger CAS"
+ cv_CAS_equipment: "Trägergestützter CAS"
+ cv_CAS_equipment_short: "Träger-CAS"
  CAS_equipment_1: "Luftnahunterstützung I"
  CAS_equipment_1_short: "CAS I"
  CAS_equipment_1_desc: "Unsere CAS-Doktrin erfordert ein Flugzeug, das in der Lage ist, Präzisionsangriffe über der Oberfläche durchzuführen. Obwohl diese Flugzeuge im Vergleich zu unseren größeren Taktischen Bombern eine geringere Nutzlast tragen, sind sie in der Lage, kleine Gelegenheitsziele durch Beschuss und Sturzbombenangriffe anzugreifen und zu zerstören."
@@ -171,3 +173,4 @@
  scout_plane_equipment_1_desc: "Das Sammeln von Informationen über feindliche Truppenbewegungen und das Erstellen von Berichten über feindliche Marineeinsätze war die ursprüngliche Aufgabe von Flugzeugen seit ihrem ersten Einsatz im Ersten Weltkrieg und ist immer noch eine wichtige Aufgabe."
  scout_plane_equipment_2: "Aufklärungsflugzeug II"
  scout_plane_equipment_2_desc: "Durch die Entwicklung spezieller Flugzeuge für die Luftüberwachung und Fernaufklärung stellen wir sicher, dass wir ein genaues Bild von den Absichten und Fähigkeiten unseres Gegners gewinnen und aufrechterhalten."
+###  Übersetzt von Proho  ###

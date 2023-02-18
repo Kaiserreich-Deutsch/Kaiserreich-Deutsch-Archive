@@ -2656,7 +2656,7 @@ CHL_train_equipment_3: "Empresa de los Ferrocarriles del Estado ALCo 4-8-2"
 #CHL_railway_gun_equipment_1: "" #feel free to add if you find more stuff
 
 ###
-### Left-Kuomintang ###
+### Left Kuomintang ###
 ###
 
 CHI_EQUIPMENT_VERSION_1: "A"
@@ -4221,6 +4221,12 @@ ENG_night_vision_desc: "Die Dunkelheit war schon immer einer der größten Feind
 #Motorised
 
 ENG_motorized_equipment_1: "Austin K5"
+ENG_mechanized_equipment_1: "Universal Carrier Mk I"
+ENG_mechanized_equipment_1_short: "Universal Mk I"
+ENG_mechanized_equipment_2: "Universal Carrier Mk II"
+ENG_mechanized_equipment_2_short: "Universal Mk II"
+ENG_mechanized_equipment_3: "Universal Carrier Mk III"
+ENG_mechanized_equipment_3_short: "Universal Mk III"
 
 #Trains
 
@@ -11140,6 +11146,10 @@ POL_support_weapons: "Ckm wz. 25 & Mozdzierz wz. 18"
 POL_support_weapons2: "Rkm Browning wz.1928 & Granatnik wz. 36"
 POL_support_weapons3: "Ckm wz.32 & Mozdzierz wz. 31"
 POL_support_weapons4: "Nkm wz. 38 FK & Mozdzierz wz. 40 ST"
+POL_night_vision: "Celownik noktowizyjny 1229 Upiór"
+POL_night_vision_short: "CN 1229 Upiór"
+POL_night_vision2: "Celownik noktowizyjny wz. 45"
+POL_night_vision2_short: "Cn wz. 45"
 
 POL_motorized_equipment_1: "Ursus A"
 POL_mechanized_equipment_1: "PZInż.222"
@@ -11149,6 +11159,8 @@ POL_mechanized_equipment_2_short: "Pawel Chrobok I"
 POL_mechanized_equipment_3: "Pawel Chrobok II"
 POL_mechanized_equipment_3_short: "Pawel Chrobok II"
 
+POL_amphibious_mechanized_equipment_1: "Gąsienicowy transporter pływający LWS"
+POL_amphibious_mechanized_equipment_1_short: "LWS"
 POL_amphibious_mechanized_equipment_2: "Transportér Obrněný Pásový"
 POL_amphibious_mechanized_equipment_2_short: "TOPAS"
 
@@ -11177,6 +11189,14 @@ POL_anti_tank_equipment_1: "Armata ppanc. 37mm wz. 36"
 POL_anti_tank_equipment_1_short: "37mm wz. 36"
 POL_anti_tank_equipment_2: "Armata ppanc. 47mm wz. 39"
 POL_anti_tank_equipment_3: "Armata ppanc. 76mm wz. 43"
+
+POL_rocket_artillery_equipment_1: "Wieloprowadnicowa wyrzutnia rakietowa 28/32-cm wz. 40"
+POL_rocket_artillery_equipment_1_short: "Wwr wz. 40"
+POL_rocket_artillery_equipment_2: "Wieloprowadnicowa wyrzutnia rakietowa 21-cm wz. 42"
+POL_rocket_artillery_equipment_2_short: "Wwr wz. 42"
+
+POL_motorized_rocket_equipment_1: "Ursus R"
+POL_motorized_rocket_equipment_1_short: "Ursus R"
 
 POL_train_equipment_1: "PKP class Ok1"
 POL_train_equipment_2: "PKP class Pm36"
@@ -12216,12 +12236,12 @@ SCO_support_weapons4: "Enfield-Berthier Mk V & ML 4.2 inch Mortar"
 #Motorised
 
 SCO_motorized_equipment_1: "Austin K5"
-SCO_mechanized_equipment_1: "Vickers Carrier"
-SCO_mechanized_equipment_1_short: "Vickers Carrier"
-SCO_mechanized_equipment_2: "Universal Carrier"
-SCO_mechanized_equipment_2_short: "Universal Carrier"
-SCO_mechanized_equipment_3: "Mosley Kangaroo"
-SCO_mechanized_equipment_3_short: "Mosley Kangaroo"
+SCO_mechanized_equipment_1: "Universal Carrier Mk I"
+SCO_mechanized_equipment_1_short: "Universal Mk I"
+SCO_mechanized_equipment_2: "Universal Carrier Mk II"
+SCO_mechanized_equipment_2_short: "Universal Mk II"
+SCO_mechanized_equipment_3: "Universal Carrier Mk III"
+SCO_mechanized_equipment_3_short: "Universal Mk III"
 
 #Amphibious
 
@@ -12491,9 +12511,10 @@ SHX_infantry_equipment_0_desc: "Der Typ 6-5, benannt nach der Verwendung von 6,5
 SHX_infantry_equipment_1: "Taiyuan Type 26"
 SHX_infantry_equipment_1_short: "Taiyuan Type 26"
 SHX_infantry_equipment_1_desc: "Dieses ursprünglich als 'Xuantong Typ 27' bezeichnete Gewehr wurde 1935 mit deutscher Hilfe nach der Restauration in den Dienst der Qing gestellt. Die Waffe ist funktional eine nahezu identische Kopie der deutschen Mauser M1924 und stellt in Bezug auf Gewicht und Rückstoß eine erhebliche Verbesserung gegenüber dem viel älteren Typ 88 dar.\n.\nErstmals im Arsenal von Hanyang mit deutschen Werkzeugen hergestellt, haben sich die Fertigungsmethoden bereits nach Taiyuan ausgebreitet, auch wenn das Gewehr seine Vorgänger wohl noch eine Weile nicht vollständig ersetzen wird."
-SHX_infantry_equipment_2: "Tsingtao MP18"
-SHX_infantry_equipment_2_short: "Tsingtao MP18"
-SHX_infantry_equipment_2_desc: "Dank der Flut von Überschüssen aus dem Zweiten Weltkrieg, die in den frühen 1920er Jahren auf den Weltmarkt gelangten, wurde die MP18 einige Zeit in China eingesetzt, bevor eine modifizierte Version in Tsingtao produziert wurde. Mit Änderungen am Magazin und am Schaft wurde dieses besondere Produkt der deutsch-chinesischen Zusammenarbeit in ganz Nord- und Südchina verkauft, allerdings hauptsächlich an die Qing-Regierung."
+#Intentionally misspelt Thompson:
+SHX_infantry_equipment_2: "'Thampson' Model 1921 “Gezaolonglong”"
+SHX_infantry_equipment_2_short: "'Thampson' M1921"
+SHX_infantry_equipment_2_desc: "In den 1920er Jahren wurden viele Thompsons des Modells 1921 nach China eingeführt, obwohl die USA ein internationales Embargo gegen die Ausfuhr von Militärwaffen in dieses Land verhängten. In der Folge wurden von mindestens drei Provinzarsenalen Kopien hergestellt. Die in Shanxi hergestellten Kopien trugen den Stempel 'Thampson' als Anerkennung für den ursprünglichen Konstrukteur und hatten ein Kaliber von .45 ACP, was aufgrund ihrer Beliebtheit zu einer gewissen Munitionsknappheit führte."
 SHX_infantry_equipment_3: "Taiyuan Xuantong Type 35"
 SHX_infantry_equipment_3_short: "Taiyuan Type 35"
 SHX_infantry_equipment_3_desc: "Das Typ 35 ist ein halbautomatisches Gewehr, das auf dem General-Liu-Gewehr von 1914 basiert. Obwohl es ähnlich aussieht, ist das Typ 35 kürzer, die Rückseite des Gehäuses ist abgedeckt und das Gasfängersystem wurde durch eine einfache Gasöffnung ersetzt. Das neue Gewehr kann auch nicht mehr auf Handbetrieb umgestellt werden und verwendet die Magazine des böhmischen Gewehrs ZH-29 und des leichten Maschinengewehrs ZB-26."
@@ -12664,6 +12685,7 @@ SIA_train_equipment_2_desc: "Diese aus Japan importierten Lokomotiven, die auch 
 #JGR DX50 but armoured: Fictional
 SIA_train_equipment_3: "RSR 350 Mikado HorKor."
 SIA_train_equipment_3_short: "RSR 350 HorKor."
+SIA_train_equipment_3_desc: "Da die Eisenbahnen zunehmend von feindlichen Flugzeugen angegriffen werden, müssen neue Lokomotiven für den Einsatz an den Fronten in der Lage sein, Treffer von bis zu 20-mm-Kanonen einzustecken. Um die Lokomotive für den Einsatz gegen Luftangriffe zu schützen, sind einige RSR 350 Mikado-Lokomotiven mit drei Zoll dicken Panzerplatten entlang der Lokomotive ausgestattet, um die wichtigen Teile zu schützen."
 
 ###
 ### Siberia ###
@@ -13850,9 +13872,9 @@ SZC_infantry_equipment_1: "Sichuan Type 27"
 SZC_infantry_equipment_1_short: "Sichuan Type 27"
 SZC_infantry_equipment_1_desc: "Dieses ursprünglich als 'Xuantong Typ 27' bezeichnete Gewehr wurde 1935 mit deutscher Hilfe nach der Restauration in den Dienst der Qing gestellt. Die Waffe ist funktional eine nahezu vollständige Kopie der deutschen Mauser M1924 und stellt in Bezug auf Gewicht und Rückstoß eine erhebliche Verbesserung gegenüber der viel älteren Type 88 dar.\n.\nErstmals im Arsenal von Hanyang mit deutschen Werkzeugen hergestellt, haben sich die Fertigungsmethoden bereits nach Chengdu ausgebreitet, auch wenn die Waffe ihre Vorgänger wohl noch eine Weile nicht vollständig ersetzen wird."
 #Intentionally misspelt Thompson:
-SZC_infantry_equipment_2: "'Thampson' Model 1921 “Gezaolonglong”"
-SZC_infantry_equipment_2_short: "'Thampson' M1921"
-SZC_infantry_equipment_2_desc: "In den 1920er Jahren wurden viele Thompsons des Modells 1921 nach China importiert, obwohl die USA ein internationales Embargo gegen die Ausfuhr von Militärwaffen in dieses Land verhängten. In der Folge wurden von mindestens drei Provinzarsenalen Kopien hergestellt. Die in Sichuan hergestellten Kopien trugen den Stempel 'Thampson' in Anerkennung des ursprünglichen Designers."
+SZC_infantry_equipment_2: "$SHX_infantry_equipment_2$"
+SZC_infantry_equipment_2_short: "$SHX_infantry_equipment_2_short$"
+SZC_infantry_equipment_2_desc: "In den 1920er Jahren wurden viele Thompsons des Modells 1921 nach China eingeführt, obwohl die USA ein internationales Embargo gegen die Ausfuhr von Militärwaffen in dieses Land verhängten. In der Folge wurden von mindestens drei Provinzarsenalen Kopien hergestellt. Die in Shanxi hergestellten Kopien trugen den Stempel 'Thampson' als Anerkennung für den ursprünglichen Konstrukteur und hatten ein Kaliber von .45 ACP, was aufgrund ihrer Beliebtheit zu einer gewissen Munitionsknappheit führte."
 SZC_infantry_equipment_3: "Sichuan Xinhai Type 33"
 SZC_infantry_equipment_3_short: "Sichuan Type 33"
 SZC_infantry_equipment_3_desc: "Das Typ 33 ist ein halbautomatisches Gewehr, das auf dem General-Liu-Gewehr von 1914 basiert. Obwohl es ähnlich aussieht, ist das Typ 33 kürzer, die Rückseite des Gehäuses ist abgedeckt und das Gasfängersystem wurde durch eine einfache Gasöffnung ersetzt. Das neue Gewehr kann auch nicht mehr auf Handbetrieb umgestellt werden und verwendet die Magazine des böhmischen Gewehrs ZH-29 und des leichten Maschinengewehrs ZB-26."
@@ -14918,12 +14940,12 @@ WLS_support_weapons4: "Enfield-Berthier Mk V & ML 4.2 inch Mortar"
 #Motorised
 
 WLS_motorized_equipment_1: "Austin K5"
-WLS_mechanized_equipment_1: "Vickers Carrier"
-WLS_mechanized_equipment_1_short: "Vickers Carrier"
-WLS_mechanized_equipment_2: "Universal Carrier"
-WLS_mechanized_equipment_2_short: "Universal Carrier"
-WLS_mechanized_equipment_3: "Mosley Kangaroo"
-WLS_mechanized_equipment_3_short: "Mosley Kangaroo"
+WLS_mechanized_equipment_1: "Universal Carrier Mk I"
+WLS_mechanized_equipment_1_short: "Universal Mk I"
+WLS_mechanized_equipment_2: "Universal Carrier Mk II"
+WLS_mechanized_equipment_2_short: "Universal Mk II"
+WLS_mechanized_equipment_3: "Universal Carrier Mk III"
+WLS_mechanized_equipment_3_short: "Universal Mk III"
 
 #Amphibious
 

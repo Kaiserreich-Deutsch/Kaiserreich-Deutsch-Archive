@@ -217,13 +217,6 @@ npa.17.t: "Die Wahl von [GetYear] zur Nationalversammlung"
 npa.17.d: "Es ist an der Zeit, endlich Vertreter für die neue Legislative zu wählen. Aufgrund der politischen und verfassungsrechtlichen Lage treten die regierungsfreundlichen Kandidaten praktisch ohne Gegenkandidaten an, da die Wählerschaft relativ klein ist und die Wahl von den Radikalen boykottiert wird. Dies fördert zwar nicht den politischen Pluralismus, stellt aber sicher, dass die Legislative unsere Politik unterstützt und damit die Stabilität der Republik in den ersten Jahren gewährleistet ist."
 npa.17.a: "Lang lebe die Republik!"
 
-npa.18.t: "Die Wahl der Hauptstadt"
-npa.18.d: "Es ist an der Zeit, den Sitz der neuen Zentralregierung zu bestimmen. Nanjing und Peking bieten sich beide an, obwohl letzterer angesichts der bewegten Geschichte der ersten Republik relativ umstritten ist. Wuhan ist ebenfalls ein guter Kompromiss, da es das Zentrum der Xinhai-Revolution war, mit der die Qing zum ersten Mal gestürzt wurden. Guangzhou hingegen ist das wirtschaftliche Zentrum Südchinas und liegt gut in unserem Kernland."
-npa.18.a: "Nanjing"
-npa.18.b: "Peking"
-npa.18.c: "Wuhan"
-npa.18.e: "Guangzhou"
-
 npa.19.t: "Ultimatum der Zentralregierung"
 npa.19.d: "Die neue Zentralregierung hat verlangt, dass wir sie als rechtmäßige Regierung Chinas anerkennen. Dies würde eine Integration in die neue Republik und einen erheblichen Verlust an Autonomie bedeuten."
 npa.19.a: "Akzeptiert."
@@ -253,4 +246,3 @@ CHS_NPA_mopping_up: "Die Wiedervereinigung des Landes"
 CHS_NPA_mopping_up_desc: "Die Nationale Schutzallianz hat die Republik wiederhergestellt. Jetzt ist es an der Zeit, das Land zu konsolidieren und wieder zu integrieren, indem rebellische Provinzen zerstört und gegnerische Paramilitärs zerschlagen werden."
 
 CHS_NPA_mop_up_tag: "[From.GetFlag] Ultimatum an [From.GetNameDef]"
-CHS_NPA_integrate_allies: "[From.GetFlag] integriert [From.GetNameDef]"

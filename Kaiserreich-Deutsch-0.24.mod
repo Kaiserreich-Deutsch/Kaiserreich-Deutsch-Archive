@@ -1,0 +1,10 @@
+version="0.24"
+dependencies={
+	"Kaiserreich"
+}
+tags={
+	"Translation"
+}
+name="Kaiserreich-Deutsch-0.24"
+supported_version="1.12.7"
+path="./mod/Kaiserreich-Deutsch-0.24"

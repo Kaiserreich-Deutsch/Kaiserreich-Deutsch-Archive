@@ -172,8 +172,8 @@ ZIM_air: "Das südrhodesische Fliegerkorps"
 ### Decisions ###
 ZIM_hold_rhodesia_mission: "Verteidigt Südrhodesien"
 ZIM_hold_rhodesia_mission_desc: "Wenn wir unsere Unabhängigkeit von den Afrikanern Südafrikas behaupten wollen, müssen wir sicherstellen, dass unser Kernland, Südrhodesien, nicht an die Buren fällt. Wenn wir lange genug durchhalten, wird dies die Südafrikaner wahrscheinlich an den Friedenstisch zwingen."
-SAF_hold_rhodesia_mission: "Erobert Südrhodesien"
-SAF_hold_rhodesia_mission_desc: "Wir sollten die Rebellion in Südrhodesien schnell befrieden: Die Region ist unterentwickelt, und wenn wir den Rebellen die Chance geben, sich einzugraben, würde ihre Entwurzelung wahrscheinlich zu einem Kraftakt werden. Wenn wir uns in eine Situation bringen, in der wir nicht in der Lage sind, die Rhodesier zu besiegen, könnten wir an den Friedenstisch gezwungen werden und die Region dauerhaft verlieren."
+SAF_conquer_rhodesia_mission: "Erobert Südrhodesien"
+SAF_conquer_rhodesia_mission_desc: "Wir sollten die Rebellion in Südrhodesien schnell befrieden: Die Region ist unterentwickelt, und wenn wir den Rebellen die Chance geben, sich einzugraben, würde ihre Entwurzelung wahrscheinlich zu einem Kraftakt werden. Wenn wir uns in eine Situation bringen, in der wir nicht in der Lage sind, die Rhodesier zu besiegen, könnten wir an den Friedenstisch gezwungen werden und die Region dauerhaft verlieren."
 
 ZIM_rhodesian_expansion: "[ROOT.GetAdjective] Expansion"
 ZIM_form_central_african_federation: "Gründung der Zambesianischen Föderation"

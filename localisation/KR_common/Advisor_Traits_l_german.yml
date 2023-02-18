@@ -214,6 +214,21 @@ KR_parippu_mahathmaya_sic: "Parippu Mahathmaya"
 CEY_genteel_historian: "Edler Historiker"
 CEY_charismatic_opportunist_trait: "Charismatischer Opportunist"
 
+## CHI ###
+KR_dynamic_materialist_sic: "Dynamischer Materialist"
+
+KR_iron_necked_liberal_sic: "Eisenhut-Liberaler"
+
+KR_heir_to_the_revolution: "Erbe der chinesischen Revolution"
+
+KR_old_guard_of_kmt: "Alte Garde der KMT"
+
+KR_state_capitalist: "Staatskapitalist"
+
+KR_madame_wang: "Madame Wang"
+
+KR_chinese_feminist: "Chinesischer Feminist"
+
 ### ENG ###
 KR_the_minister_sic: "Der Minister"
 KR_red_ellen_sic: "Red Ellen"
@@ -342,6 +357,9 @@ KR_defender_of_monsanto: "Verteidiger von Monsanto"
 KR_gun_salute_legislature_sic: "Waffengruß Legislative"
 KR_dissolved_legislature_sic: "Aufgelöste Legislative"
 
+### QIE ###
+KR_army_chief_imperial_commissioner: "Kaiserlicher Kommissar"
+
 ### ROM ###
 KR_the_capitanul_sic: "Căpitanul"
 KR_marshal_of_the_palace: "Marschall des Palastes"
@@ -371,6 +389,9 @@ KR_republican_firebrand: "Republikanischer Hitzkopf"
 KR_serbian_cultural_club: "Der Klub"
 KR_political_survivor: "Politischer Überlebenskünstler"
 KR_machiavellian_schemer_sic: "Machiavellistischer Intrigant"
+
+### SHX ###
+KR_beijing_liason_sic: "Pekings Verbindung"
 
 ### SRD ###
 KR_iron_willed_invalid_sic: "Eisenharter Invalide"
@@ -443,6 +464,9 @@ KR_tireless_organiser: "Unermüdlicher Organisator"
 KR_gentleman_polymath: "Gentleman Polymath"
 KR_peoples_economist: "Volkswirtschaftler"
 KR_welsh_warrior: "Walisischer Krieger"
+
+### XSM ###
+KR_clan_council_sic: "Rat der Clans"
 
 ####################################################
 ### Generic Military Staff - ported from vanilla ###

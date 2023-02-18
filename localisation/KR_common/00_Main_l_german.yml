@@ -2,9 +2,9 @@
 
 ##Übersetzt von Thylon##
 
-###################
-### Bitte beachten ###
-###################
+######################
+### Bitte Beachten ###
+######################
 # Die Credits auf dem Startbildschirm sind eine Liste aller aktuellen Mitwirkenden an der Mod. Es ist keine vollständige Liste aller, die mithelfen, oder aller, die jemals geholfen haben
 # Eine vollständigere Liste finden Sie in \interface\credits.txt
 # Wenn Sie diese Liste aktualisieren, stellen Sie bitte sicher, dass Sie auch diese Credit-Liste aktualisieren, ebenso wie die anderen Credit-Listen, die wir führen (Änderungsnotizen, Steam-Workshop-Beschreibungen usw.)
@@ -12,7 +12,7 @@
 
 ### Splash Screen Credits ###
 KR_SPLASH_TITLE: "Willkommen bei Kaiserreich"
-KR_SPLASH_CREDITS: "§YPräsentiert vom KR4-Team:§!\nAdrianator2  ·  Alpinia  ·  Arvidus  ·  Asratius  ·  Augenis  ·  Blackfalcon501  ·  Carmain\nChazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Conchobhar  ·  DuoDex  ·  El Daddy\nFedex  ·  Flamefang  ·  Gaboemi  ·  Gideones  ·  Hamfast  ·  Ido  ·  Igor050301  ·  JazzyHugh\nJeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  KFateweaver  ·  Kennedy\nkergely  ·  Klyntar King  ·  Krčo  ·  Luwofe  ·  Matoro  ·  McOmghall  ·  ~mw~ // miwaco.\nNukeGaming  ·  OperationsManagementDecisions  ·  Owenomaly  ·  PPsyrius  ·  Pelmen\nRagnoStrangeros  ·  Retrocognition  ·  Rnk  ·  Shiroe  ·  Sonny O'Cad  ·  Story  ·  suzuha\nThe Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko  ·  Hydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc, Wolf  ·  Silent_Wolf  ·  Alex S  ·  DerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier"
+KR_SPLASH_CREDITS: "§YFrohes Jahr des Hasen vom Kaiserreich Team:§!\nAdrianator2  ·  Alpinia  ·  Arvidus  ·  Asratius  ·  Augenis  ·  Blackfalcon501  ·  Carmain\nChazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Conchobhar  ·  DuoDex  ·  El Daddy  ·  Fedex  ·  Flamefang  ·  Gaboemi  ·  Gideones  ·  hildagrim  ·  Hamfast  ·  Ido  ·  Igor050301  ·  JazzyHugh\nJeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  katieluka  ·  Kennedy  ·  kergely\nKFateweaver  ·  Klyntar King  ·  Krčo  ·  Luwofe  ·  Matoro  ·  McOmghall  ·  ~mw~ // miwaco.\nNukeGaming  ·  OperationsManagementDecisions  ·  Owenomaly  ·  PPsyrius  ·  Pelmen\nRagnoStrangeros  ·  Retrocognition  ·  Rnk  ·  Shiroe  ·  Sonny O'Cad  ·  Story  ·  suzuha\nThe Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko  ·  Hydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc, Wolf  ·  Silent_Wolf  ·  Alex S  ·  DerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier"
 
 ### Career Profile ###
 KAISERREICH_CAREER_PROFILE: "Kaiserreich Deutsch"
@@ -26,8 +26,10 @@ RECALL_VOLUNTEERS_ACTION_SEND_DESC: "Rufen Sie alle Freiwilligen zurück, die na
 ### Regular Tooltips ###
 returned_all_expeditionary_forces_of_puppets: "Hat alle von Marionetten entsandten Expeditionskräfte zurückgeschickt"
 puppet_but_keep_government_tt: "([to_be_overlord.GetFlag]§H[to_be_overlord.GetName]§!) §H[marked_country.GetName]§! wird zur Marionette von §H[to_be_overlord.GetName]§!, behält aber seine aktuellen Regierungs- und Beliebtheitseinstellungen."
+
 RULE_GUARANTEES_AFTER_WK2_TT: "§RBevor der Zweite Weltkrieg beginnt, können Garantien nur durch nationale Schwerpunkte, Ereignisse und Entscheidungen gegeben werden.§!"
 RULE_WARGOALS_AFTER_WK2_TT: "§RBevor der Zweite Weltkrieg beginnt, können Kriegsziele nur aus nationalen Schwerpunkten, Ereignissen und Entscheidungen gewonnen werden.§!"
+RULE_NO_WARGOALS_ON_ALLIED_PUPPETS_TT: "§R$DIPLOMACY_DEM_NO_THREAT_ON_DEPENDENDY$§!"
 
 ### Plurality Triggers ###
 totalist_plurality: "§o[?token:totalist.GetTokenLocalizedKey]§! haben die höchste Popularität"
@@ -37,7 +39,7 @@ social_democrat_plurality: "§S[?token:social_democrat.GetTokenLocalizedKey]§! 
 social_liberal_plurality: "§l[?token:social_liberal.GetTokenLocalizedKey]§! haben die höchste Popularität"
 market_liberal_plurality: "§m[?token:market_liberal.GetTokenLocalizedKey]§! haben die höchste Popularität"
 social_conservative_plurality: "§c[?token:social_conservative.GetTokenLocalizedKey]§! haben die höchste Popularität"
-authoritarian_democrat_plurality: "§L[?token:authoritarian_democrat.GetTokenLocalizedKey]§! haben die höchste Popularität"
+authoritarian_democrat_plurality: "§g[?token:authoritarian_democrat.GetTokenLocalizedKey]§! haben die höchste Popularität"
 paternal_autocrat_plurality: "§P[?token:paternal_autocrat.GetTokenLocalizedKey]§! haben die höchste Popularität"
 national_populist_plurality: "§N[?token:national_populist.GetTokenLocalizedKey]§! haben die höchste Popularität"
  
@@ -68,8 +70,7 @@ is_arabian_tag: "Ist ein arabisches Land"
 is_libya_tag: "Ist ein libysches Land"
 is_portuguese_tag: "Ist ein portugiesischsprachiges Land"
 is_brazilian_tag: "Ist ein brasilianisches Land"
-is_han_chinese_tag: "Ist ein mehrheitlich chinesisches Land"
-is_chinese_tag: "Ist in China"
+is_chinese_tag: "Ist ein chinesisches Land"
 is_dutch_tag: "Ist ein niederländischsprachiges Land"
 is_english_tag: "Ist ein englischsprachiges Land"
 is_commonwealth_tag: "Ist ein Land des Commonwealth"
@@ -120,7 +121,6 @@ power_balance_button_disabled: "Ihr Land hat kein aktives §YMachtgleichgewicht�
 ### Options GUI ###
 kr_options_title: "§YKaiserreich Optionen§!"
 kr_options_tooltip: "Kaiserreich-spezifische Spieloptionen ein- und ausschalten"
-kr_options_explanation: "§RWICHTIGER HINWEIS§!:\n\nMit Patch 0.22.2 wurden einige KR-Einstellungen wie Endonyme und Nachrichtenereignisse in ein eigenes Menü verschoben, das Sie in der oberen Leiste in der Nähe der Schaltfläche für die Weltspannung finden können."
 
 rename_text: "Staat/SP Umbenennung"
 rename_tooltip: "§GKlicken§! Sie hier, um die dynamische Umbenennung von Staaten und Siegpunkten auf Basis ihres aktuellen Landes zu aktivieren."
@@ -203,8 +203,23 @@ FROM_becomes_autonomous_puppet: "§H[From.GetNameDefCap]§! wird zu einer §auto
 FROM_becomes_nominal_puppet: "§H[From.GetNameDefCap]§! wird zu einer §Nominal-Marionette§!."
 
 ### Compliance ###
-compliance_integration: "Integration"
+compliance_integration_50: "Integration"
+compliance_integration_80: "Integration"
 territorial_integration: "Integration"
+territorial_integration_tt: "Wird zu einem Kernstaat beim Erreichen von §H50% oder 80%§! Gehorsam (Wert je nach Staat)."
+
+### Map Modes ###
+MAPMODE_CORES_CLAIMS_MAP_MODE: "§Y$MAPMODE_CORES_CLAIMS_MAP_MODE_NAME$§! map mode"
+MAPMODE_CORES_CLAIMS_MAP_MODE_NAME: "Kernstaat/Ansprüche"
+MAPMODE_CORES_CLAIMS_MAP_MODE_DESCRIPTION: "Zeigt die aktuellen Kernstaaten und Ansprüche."
+
+cores_claims_map_mode_tooltip: "§Y[FROM.GetName]§! ([FROM.Owner.GetFlag] [FROM.Owner.GetName])"
+cores_claims_map_mode_tooltip_delayed: "[FROM.GetCoreClaimMapModeTooltip]"
+
+cores_claims_map_mode_tooltip_core: "§Y[FROM.GetName]§! ist ein §YKernstaat§! von §Y[ROOT.GetNameWithFlag]§!."
+cores_claims_map_mode_tooltip_potential_core: "§Y[FROM.GetName]§! ist ein §Ypotenzieller Kernstaat§! von §Y[ROOT.GetNameWithFlag]§!.\n§GPotenzielle Kernstaaten werden zu Kernstaaten, wenn sie einen bestimmten Schwellenwert des Gehormsams erreichen, während sie unter dem §Y$territorial_integration$§! Besatzungsrecht stehen.§!"
+cores_claims_map_mode_tooltip_claim: "§Y[FROM.GetName]§! ist §Ybeansprucht§! durch §Y[ROOT.GetNameWithFlag]§!."
+cores_claims_map_mode_tooltip_owned: "§Y[FROM.GetName]§! ist §Ybesetzt§! durch §Y[ROOT.GetNameWithFlag]§!."
 
 ### World Tension ##
 AL_avricourt_shelled: "Dorf Avricourt beschossen von §Y[GER.GetNonIdeologyNameDef]§!"
@@ -266,8 +281,9 @@ disband_twenty_percent_units: "Löst §Y20%§! aller bestehenden Divisionen unte
 disband_twenty_percent_units_delete_equipment: "Löst §Y20%§! aller bestehenden Divisionen auf."
 disband_fifty_percent_units: "Löst §Y50%§! aller bestehenden Divisionen unter Beibehaltung ihrer Ausrüstung auf."
 
-#empty - should be hidden (the spaces are WAD, an empty string will cause CTDs)
-second_in_command_trait: "   "
+### Custom Triggers ###
+is_in_faction_but_not_leader: "Ist in der Fraktion, aber nicht ihr Anführer"
+is_in_faction_but_not_leader_NOT: "Ist Anführer der Fraktion oder nicht in einer Fraktion"
 
 ### Events ###
 kr.political.100.t: "Ordnung wiederhergestellt in [Root.GetNameDef]"
@@ -408,6 +424,10 @@ not_during_ceasefire: "Nicht solange der Waffenstillstand eingehalten wird"
 command_economy: "Kommando Ökonomie"
 asked_to_join: "Die Beteiligung wurde von einer anderen Nation beantragt."
 generic_research_advances: "Forschungsfortschritte"
+
+increase_state_category_by_one_level_tt: "Dies ermöglicht §G1§! zusätzlichen Bauplatz.\n"
+increase_state_category_by_two_levels_tt: "Dies ermöglicht §G2§! zusätzlichen Bauplatz.\n"
+decrease_state_category_by_one_level_tt: "Dies §Rentfernt§! einen Bauplatz vom Staat.\n"
 
 ### General ###
 fighter_techs: "Kampfflugzeug-Technologie"

@@ -106,18 +106,18 @@
  GHA_market_liberal: "Goldküste"
  GHA_market_liberal_ADJ: "Golden"
  GHA_market_liberal_DEF: "die Republik der Goldküste"
- GHA_social_conservative: "Aschanti"
- GHA_social_conservative_ADJ: "Aschantisch"
- GHA_social_conservative_DEF: "Aschanti"
- GHA_authoritarian_democrat: "Aschanti"
- GHA_authoritarian_democrat_ADJ: "Aschantisch"
- GHA_authoritarian_democrat_DEF: "Aschanti"
- GHA_paternal_autocrat: "Aschanti"
- GHA_paternal_autocrat_ADJ: "Aschantisch"
- GHA_paternal_autocrat_DEF: "Aschanti"
- GHA_national_populist: "Aschanti"
- GHA_national_populist_ADJ: "Aschantisch"
- GHA_national_populist_DEF: "Aschanti"
+ GHA_social_conservative: "Goldküste"
+ GHA_social_conservative_ADJ: "Golden"
+ GHA_social_conservative_DEF: "die Republik der Goldküste"
+ GHA_authoritarian_democrat: "Goldküste"
+ GHA_authoritarian_democrat_ADJ: "Golden"
+ GHA_authoritarian_democrat_DEF: "die Republik der Goldküste"
+ GHA_paternal_autocrat: "Goldküste"
+ GHA_paternal_autocrat_ADJ: "Golden"
+ GHA_paternal_autocrat_DEF: "die Republik der Goldküste"
+ GHA_national_populist: "Goldküste"
+ GHA_national_populist_ADJ: "Golden"
+ GHA_national_populist_DEF: "die Republik der Goldküste"
  
  GHA_ENG: "Goldküste"
  GHA_ENG_ADJ: "Golden"
@@ -269,10 +269,6 @@
  MZB_ADJ: "Mosambikanisch"
  MZB_DEF: "Mosambik"
 
- NBL: "Namibland"
- NBL_ADJ: "Namibisch"
- NBL_DEF: "Namibland"
-
  NGA: "Nigeria"
  NGA_ADJ: "Nigerisch"
  NGA_DEF: "Nigeria"
@@ -418,9 +414,6 @@
 ### Characters ###
  CMR_Alexander_Duala_Bell: "Alexander Duala Bell"
  CMR_Karl_Atangana: "Karl Atangana"
-
-### Characters ###
- COG_Pedro_VIII_Afonso: "Pedro VII Afonso"
 
 ### Characters ###
  CVG_sergio_frusoni: "Sérgio Frusoni"

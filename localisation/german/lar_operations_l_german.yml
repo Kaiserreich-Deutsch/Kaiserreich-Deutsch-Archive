@@ -241,6 +241,6 @@ preposition_units_outcome: "Unsere Einheiten in dem Land wurden so platziert, da
 launch_coup_exfiltration_outcome: "Nachdem sie das Startsignal erhalten haben, haben unsere Agenten mit ihren Einheiten ihre zugewiesenen Ziele eingenommen. Die Rebellen haben einiges an Territorium unter ihre Kontrolle gebracht."
 launch_coup_exfiltration_outcome_fail: "In dem allgemeinen Chaos des Aufstands haben wir den Kontakt zu unserem Agenten verloren. Wir werden vielleicht nie erfahren, was passiert ist."
 free_agency_upgrade_tt: "Sie erhalten ein zufälliges §YNachrichtendienst-Upgrade§!"
-nuclear_espionage: "Das Atomprogramm infiltrieren"
+nuclear_espionage: "Atomprogramm infiltrieren"
 nuclear_espionage_desc: "Wir hinken mit unserem Atomwaffenprogramm anderen Ländern hinterher. Wir sollten eine Operation planen, durch die wir ausländische Atomwaffenprogramme infiltrieren und wertvolle Baupläne und Daten beschaffen."
 nuclear_espionage_outcome_tt: "Wir schleusen einen Agenten im [FROM.GetAdjective]en Atomforschungsprogramm ein und versuchen so, an technische Unterlagen zu kommen, die wir für unser eigenes Atomprojekt nutzen können."

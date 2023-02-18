@@ -1336,7 +1336,7 @@
  ENG_eric_blair_leader_desc: "Eric Blair, der berühmte Schriftsteller, der seinem langjährigen Verbündeten Oswald Mosley zu politischem Ruhm verhalf, wurde allmählich zum Gegner Mosleys. Bei jeder Gelegenheit schien Mosley die Grundsätze der Union von Britannien und der Revolution, die sie hervorgebracht hatte, mit Füßen zu treten.\n\nBlair hat mit seinem politischen Triumph über seinen alten Freund geschworen, dem britischen Volk die Freiheiten wiederzugeben, die Mosley ihm auf so ungeheuerliche Weise genommen hat."
 
  ENG_fenner_brockway: "Fenner Brockway"
- ENG_j_t_murphy: "J.T. Murphy"
+ ENG_jt_murphy: "J.T. Murphy"
  ENG_george_hardy: "George Hardy"
  ENG_wilfred_risdon: "Wilfred Risdon"
  ENG_alexander_r_thomson: "Alexander Raven Thomson"
@@ -1344,9 +1344,9 @@
  ENG_harry_pollitt: "Harry Pollitt"
  ENG_abe_moffat: "Abe Moffat"
  ENG_manny_shinwell: "Manny Shinwell"
- ENG_r_h_tawney: "R.H. Tawney"
+ ENG_rh_tawney: "R.H. Tawney"
  ENG_alfred_salter: "Alfred Salter"
- ENG_g_d_h_cole: "G.D.H. Cole"
+  ENG_gdh_cole: "G.D.H. Cole"
  ENG_harold_nicolson: "Harold Nicolson"
  ENG_william_temple: "William Temple"
  ENG_aneurin_bevan: "Aneurin Bevan"
@@ -1379,8 +1379,8 @@
  ENG_giffard_le_quesne_martel: "Giffard Le Quesne Martel"
  ENG_william_slim: "William Slim"
 
- ENG_andrew_cunningham: "Andrew Browne Cunningham"
  ENG_max_horton: "Max Horton"
+ ENG_reginald_drax: "Reginald Drax"
  ENG_edward_evans: "Edward Evans"
  ENG_geoffrey_layton: "Geoffrey Layton"
  ENG_arthur_power: "Arthur Power"
@@ -1441,7 +1441,7 @@
 
  gbp.5.t: "Ein weiteres kleines Geschenk von Zim"
  gbp.5.d: "... Das sollst du nicht sehen."
- gbp.5.a: "Ja, was auch immer"
+ gbp.5.a: "Ja, was auch immer."
 
  gbp.6.t: "Verstecktes Ereignis #3"
  gbp.6.d: "...\n\nSpielen Sie ernsthaft Marionette Wales?"

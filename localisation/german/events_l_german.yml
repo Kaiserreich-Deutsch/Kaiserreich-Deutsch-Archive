@@ -9,7 +9,8 @@
  30_days_tt: "Die Umsetzung wird etwa §Y30 Tage§! in Anspruch nehmen."
  45_days_tt: "Die Umsetzung wird etwa §Y45 Tage§! in Anspruch nehmen."
  worrying: "Beunruhigend."
-
+ maybe_war_tt: "§RDies kann zu einem Krieg führen mit§! §Y[From.GetNameDef]§!"
+### Übersetzt von Proho  ###
  ace_promoted.1.t: "Pilot-Ass befördert"
  ace_promoted.2.t: "Ein Wildes Ass erscheint"
  ace_promoted.1.d: "Nur wenige gehen so viele Risiken ein wie die tapferen Piloten der [Root.GetAdjective] Luftwaffe. [From.GetName] [From.GetSurname], ein erfahrener Pilot, der unter dem Rufzeichen [From.GetCallsign] bekannt ist, hat sich [From.GetHerselfHimself] dadurch ausgezeichnet, dass er nicht nur lebend von der jüngsten Mission über [From.GetMissionRegion] zurückgekehrt ist, sondern auch in vielen kritischen Begegnungen bedeutende Siege errungen hat.\n\nDie jüngste Beförderung von [From.GetName], der als leuchtendes Beispiel für den Mut von [Root.GetAdjective] gilt, ist in der Öffentlichkeit stark beachtet worden. Auch wenn das Volk den Krieg eher als Hölle denn als Ruhm betrachtet, sind viele froh, dass es noch Helden gibt, hinter denen man sich versammeln kann."
@@ -52,4 +53,4 @@
  country_capitulated.0.a: "Großartige Neuigkeiten!"
  country_capitulated.0.b: "Dies sind dunkle Zeiten"
  country_capitulated.0.c: "Unsichere Zeiten"
-### Übersetzt von Proho  ###
+ 

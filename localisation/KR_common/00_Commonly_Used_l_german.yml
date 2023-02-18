@@ -17,11 +17,18 @@ after_idea_expires: "Nach dem ablaufen des Nationalgeistes:"
 
 unlock_focuses: "§GDieser Fokus wird automatisch umgangen und schaltet die anderen Fokusse frei§!"
 tooltip_focus_unlocked_by_event: "§GDieser Fokus wird automatisch durch ein Ereignis freigeschaltet§!"
+enables_new_focus_branches: "Ermöglicht neue Schwerpunktzweige"
 
 tooltip_apply_one_of_effects_depending_on_ideas: "§gWendet einen der folgenden Effekte an, je nach dem aktuellen Nationalen Geist:§!"
 tooltip_apply_one_of_effects_depending_on_ruling_party: "§gWendet einen der folgenden Effekte an, je nachdem, welche Partei gerade regiert:§!"
 
+tooltip_event_allows_choice: "Das Ereignis ermöglicht die Auswahl einer der folgenden Möglichkeiten:"
+tooltip_event_choice_or: "ODER"
+
 if_controlled_by_PREV: "wenn kontrolliert von §Y[PREV.GetNonIdeologyName]§!:"
+
+may_lead_to_war_with_FROM: "§RKann zu einem Krieg mit [From.GetNameDef] führen§!"
+may_lead_to_war_with_FROM_overlord: "§RKann zu einem Krieg mit [From.Overlord.GetNameDef] führen§!"
 
 # used to generate tooltips in dockyard or naval base foci when the country doesn't own any coastal states
 random_owned_controlled_coastal_state: "Ein zufällig besetzter und kontrollierter Küstenstaat"
@@ -50,7 +57,6 @@ cannot_enact_conscription_tt: "§RDas Wehrpflichtgesetz kann nicht verschärft w
 cannot_train_units_tt: "§RSie können keine Einheiten ausbilden, Einheiten auflösen oder Einheitenvorlagen bearbeiten.§!"
 cannot_mobilise_tt: "§RKann die Wehrpflicht und die Mobilisierungsgesetze nicht verschärfen.§!"
 cannot_build_armor_tt: "§RKann keine Panzer bauen.§!"
-cannot_replace_character: "§YDieser Berater kann nicht manuell ersetzt werden§!"
 
 volunteer_limit_plus_three_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?3|+=0]"
 volunteer_limit_plus_two_tt: "$MODIFIER_SEND_VOLUNTEER_SIZE$: [?2|+=0]"
@@ -92,7 +98,7 @@ colour_socdem: "S"
 colour_soclib: "l"
 colour_marlib: "m"
 colour_soccon: "c"
-colour_autdem: "c"
+colour_autdem: "g"
 colour_pataut: "P"
 colour_natpop: "N"
 colour_alt_green: "n"
@@ -135,7 +141,7 @@ war_support_weekly_tooltip: "$MODIFIER_WAR_SUPPORT_WEEKLY$: $RIGHT|=%+$"
 monthly_population_tooltip: "$MODIFIER_GLOBAL_MONTHLY_POPULATION$: $RIGHT|=%+1$"
 
 conscription_tooltip: "$MODIFIER_CONSCRIPTION_FACTOR$: $RIGHT|H%$"
-conscription_factor_tooltip: "$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: $RIGHT|%+0$"
+conscription_factor_tooltip: "$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: $RIGHT|%+=0$"
 weekly_manpower_tooltip: "$MODIFIER_WEEKLY_MANPOWER$: $RIGHT|+=0$"
 
 army_org_tooltip: "$MODIFIER_ARMY_ORG$: $RIGHT|+=1$"
@@ -172,8 +178,22 @@ local_building_slots_factor_tooltip: "$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: $R
 required_garrison_factor_tooltip: "$MODIFIER_REQUIRED_GARRISON_FACTOR$: $RIGHT|-=%0$"
 local_manpower_tooltip: "$MODIFIER_LOCAL_MANPOWER$: $RIGHT|+=%0$"
 
+totalist_drift_tooltip: "$totalist_drift$: $RIGHT|+=$"
+syndicalist_drift_tooltip: "$syndicalist_drift$: $RIGHT|+=$"
+radical_socialist_drift_tooltip: "$radical_socialist_drift$: $RIGHT|+=$"
+social_democrat_drift_tooltip: "$social_democrat_drift$: $RIGHT|+=$"
+social_liberal_drift_tooltip: "$social_liberal_drift$: $RIGHT|+=$"
+market_liberal_drift_tooltip: "$market_liberal_drift$: $RIGHT|+=$"
+social_conservative_drift_tooltip: "$social_conservative_drift$: $RIGHT|+=$"
+authoritarian_democrat_drift_tooltip: "$authoritarian_democrat_drift$: $RIGHT|+=$"
+paternal_autocrat_drift_tooltip: "$paternal_autocrat_drift$: $RIGHT|+=$"
+national_populist_drift_tooltip: "$national_populist_drift$: $RIGHT|+=$"
+
 ### Scripted Loc ###
 empty: ""
+
+loc_kingdom: "Königreich"
+loc_republic: "Republik"
 
 loc_royal: "königlich"
 loc_royal_cap: "Königlich"
