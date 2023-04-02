@@ -3285,7 +3285,8 @@ CUB_gw_tank_equipment_desc: "Da die Vereinigten Staaten zum Zeitpunkt der Kapitu
 CUB_artillery_equipment_1: "75 mm Gun M1897"
 CUB_artillery_equipment_1_short: "75 mm Gun M1897"
 
-### Railroad ###
+#Railways
+
 CUB_train_equipment_1: "Ferrocarriles Consolidados de Cuba 6-16D Class"
 #CUB_train_equipment_2: ""
 #CUB_train_equipment_3: ""
@@ -3801,7 +3802,7 @@ RAJ_EQUIPMENT_VERSION_12: "Mk XII"
 ### Land ###
 
 RAJ_infantry_equipment_0: "Rifle, Short, Magazine, Lee-Enfield Mk III"
-RAJ_infantry_equipment_0_short: "SMLE Mk III"
+RAJ_infantry_equipment_0_short: "Ishapore SMLE Mk III"
 RAJ_infantry_equipment_0_desc: "Die Ishapore Rifle Factory wurde 1904 gegründet und begann mit der Produktion des ehrwürdigen Lee-Enfield-Gewehrs (SMLE), das während des gesamten Ersten Weltkriegs eingesetzt wurde. Der Verlust eines Großteils von Britisch-Indien nach der britischen Revolution bedeutete jedoch auch den Verlust der Ishapore-Fabrik, einer der beiden einzigen Fabriken, die das SMLE außerhalb Großbritanniens herstellten, was die Gewehrproduktion für die Überreste des Empire jahrelang stark beeinträchtigte, bis das, was aus Ishapore gerettet werden konnte, in befreundeten Gebieten aufgebaut werden konnte."
 RAJ_infantry_equipment_1: "SMLE Mk V"
 RAJ_infantry_equipment_1_short: "SMLE Mk V"
@@ -5503,7 +5504,7 @@ GBR_infantry_equipment_2_desc: "Angesichts des bevorstehenden Krieges fordert di
 GBR_infantry_equipment_3: "Rifle, Self-Loading, Long Branch Mk I"
 GBR_infantry_equipment_3_short: "SLR Mk I"
 GBR_infantry_equipment_3_desc: "Die Crown Corporation Small Arms Ltd in Long Branch reagierte auf die Anfrage der kanadischen Regierung nach einem Selbstladegewehr. Das Selbstladegewehr ist für 8-mm-Mauser-Patronen ausgelegt und verfügt über einen kippbaren Verschluss. Das Gewehr leidet zwar unter Zuverlässigkeitsproblemen und übermäßigem Rückstoß, wird aber mit einem Schulterpolster geliefert, um den Rückstoß zu kompensieren. Außerdem ist das Gewehr durch sein geringes Gewicht ideal für die Mobilität und den Kampf in der Stadt."
-GBR_infantry_at: "Grenade, Rifle, Anti-Tan, Mk I"
+GBR_infantry_at: "Grenade, Rifle, Anti-Tank, Mk I"
 GBR_infantry_at_desc: "Als eine kanadische Kommission in der Schweiz eine Vorführung der Panzerabwehrgranate von Henry Mohaupt sah, erkannte sie, dass die Waffe nach dem Prinzip der Hohlladung funktioniert, und begann mit der Arbeit an einem eigenen Entwurf. Die daraus resultierende hochexplosive Panzerabwehrgranate (HEAT) soll der Infanterie bessere Möglichkeiten zur Bekämpfung feindlicher Panzer mit den bereits im Einsatz befindlichen Becherwerfern bieten."
 GBR_infantry_at2: "Projector, Infantry, Anti Tank Mk I "
 GBR_infantry_at2_desc: "Aufgrund des Bedarfs an einer handgeführten Panzerabwehrwaffe für den Einsatz an der Front wurde der Projector, Infantry, Anti Tank Mk I (PIAT) auf der Grundlage des Bombenmörsers entwickelt. Mit einer effektiven Reichweite von 105 Metern im direkten Feuermodus ist das Gerät aufgrund des fehlenden Rückstoßes sehr beliebt - allerdings gab es Bedenken wegen des starken Rückstoßes."
@@ -12675,7 +12676,6 @@ SIA_light_tank_aa_equipment_1_short: "PorTorOr.77"
 #Trains
 #SRS 260: built by Hanomag & Baldwin Locomotive Works; importerd 1928-1929
 SIA_train_equipment_1: "RSR 260 Hanomag"
-
 SIA_train_equipment_1_short: "RSR 260"
 SIA_train_equipment_1_desc: "Die RSR 260 wurde zwischen 1928 und 1929 von der Königlichen Staatsbahn von Siam in Auftrag gegeben und war eine von Hanomag gebaute 4-6-2-Lokomotive (Pazifik). Diese Lokomotiven, die die zwischen 1915 und 1921 in Auftrag gegebenen E-Klassen ablösten, dienten als neues Arbeitspferd des expandierenden Eisenbahnnetzes in Siam sowohl für Schnellzüge als auch für gemischten Verkehr."
 #JGR DX50: First Batch 1936-1945, 2nd Batch (CX50) 1942-1943 to replace Hanomags

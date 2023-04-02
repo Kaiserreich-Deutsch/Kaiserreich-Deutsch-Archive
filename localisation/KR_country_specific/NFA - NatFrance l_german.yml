@@ -711,7 +711,6 @@ NATFRA_Devoir_Idea_tt: "Kombiniert und verbesstert die Nationalgeister §Y$NATFR
 NATFRA_National_Narrative: "Nationale Narrative"
 NATFRA_National_Narrative_desc: "Die Republik hatte ihr eigenes Volk durch Bildung erobert: Von unseren Vorfahren, den Galliern, über die Könige des Mittelalters bis zur Revolution war das Schicksal Frankreichs klar: die Schaffung einer aufgeklärten Republik, ein strahlendes Leuchtfeuer der Freiheit, Gleichheit und Brüderlichkeit. Nun muss ein weiteres Kapitel dieser Erzählung geschrieben werden, gemeinsam, dank unserer Bemühungen: die Rückeroberung der Métropole."
 
-NATFRA_Sustain_Plates_tt: "Ersetzt §YSelbsterhaltung anstreben§! mit §YKrieg in unseren Tellern§!\nEffektive Änderung:\n$MODIFIER_NO_SUPPLY_GRACE$: §G+24.0§! $MOD_HOUR$"
 NFA_Full_Infra_tt: "In Algerien, Korsika und Oran kann keine Infrastruktur mehr gebaut werden"
 
 # Redressement #
@@ -1430,7 +1429,6 @@ NFA_Sahara_Understaff_cf: "Wir geben dem Projekt nicht die notwendigen Ressource
 nfa_transahara_almost_cf: "Die Trans-Sahara-Eisenbahn ist fast fertig"
 
 NFA_has_collapsed_natives: "Das Französische Reich brach zusammen"
-
 
 #####################
 ### Some Tooltips ###

@@ -286,7 +286,7 @@
  SWE_domestic_oil_shale: "Ölschiefer und die SSAB"
  SWE_domestic_oil_shale_desc: "Schweden verfügt über bedeutende Ölschiefervorkommen, eine Tatsache, die seit dem 18. Jahrhundert bekannt ist. Vor dem Weltkrieg haben wir diese Vorkommen ignoriert, aber in der heutigen Zeit gewinnt man Kriege nur durch Treibstoff. Lassen Sie uns den Abbau ausweiten."
  SWE_kth_focus: "[SWE.GetSWEprefixEN] Institut für Technologie"
- SWE_kth_focus_desc: "Die KTH ist die 1827 gegründete technische Universität von Stockholm. Indem wir sie unterstützen, können wir unseren Ertrag im Forschungsbereich steigern und uns einen Vorsprung in diesem Sektor sichern."
+ SWE_kth_focus_desc: "Die [KTH_abbreviation] ist die 1827 gegründete technische Universität von Stockholm. Indem wir sie unterstützen, können wir unseren Ertrag im Forschungsbereich steigern und uns einen Vorsprung in diesem Sektor sichern."
  SWE_bofors_focus: "Bofors unterstützen"
  SWE_bofors_focus_desc: "Bofor ist unser wichtigster Waffenkonzern, der sich auf die Nutzung unserer Eisenreserven für Artillerie und große Geschütze spezialisiert hat. Es wäre eine gute Idee, mehr mit ihnen zusammenzuarbeiten."
  SWE_husqvarna_focus: "Husqvarna Vapenfabriks Aktiebolag"
@@ -1024,7 +1024,7 @@
  swe.130.a: "Das Nordlicht verdunkelt sich Weiter."
 
  swe.131.t: "Schwedische Armee verhängt Kriegsrecht"
- swe.131.d: "Nach der Umwandlung Schwedens in eine sozialistische Republik unter der SAP-SVV-Koalition und der Abschaffung der Monarchie haben General Oscar Nygren und die schwedischen Streitkräfte heute Morgen im Schutz der Nacht Stockholm eilig besetzt und das Kriegsrecht über die Stadt verhängt. Bataillone der Militärpolizei haben den Befehl erhalten, alle sozialistischen Politiker, die mit dem Kabinett Hannson in Verbindung stehen, zu verhaften, während die nationalen Sicherheitskräfte mobilisiert wurden, um alle Bereiche des sozialistischen Widerstands zu sichern. Obwohl es Berichte über ein gewisses Blutvergießen gab, scheint der Putsch relativ ungehindert verlaufen zu sein. Eine der ersten Entscheidungen von General Nygren an der Spitze des schwedischen Staates war die Wiedereinführung der Titel der königlichen Familie und die Wiedereinladung von Gustaf Adolf, dem Enkel von Gustaf V. Schweden könnte wieder stabil sein, aber es bleibt abzuwarten, was die Zukunft bringt."
+ swe.131.d: "Nach der Umwandlung Schwedens in eine sozialistische Republik unter der SAP-SVV-Koalition und der Abschaffung der Monarchie haben General Oscar Nygren und die schwedischen Streitkräfte heute Morgen im Schutz der Nacht Stockholm eilig besetzt und das Kriegsrecht über die Stadt verhängt. Bataillone der Militärpolizei haben den Befehl erhalten, alle sozialistischen Politiker, die mit dem Kabinett Hansson in Verbindung stehen, zu verhaften, während die nationalen Sicherheitskräfte mobilisiert wurden, um alle Bereiche des sozialistischen Widerstands zu sichern. Obwohl es Berichte über ein gewisses Blutvergießen gab, scheint der Putsch relativ ungehindert verlaufen zu sein. Eine der ersten Entscheidungen von General Nygren an der Spitze des schwedischen Staates war die Wiedereinführung der Titel der königlichen Familie und die Wiedereinladung von Gustaf Adolf, dem Enkel von Gustaf V. Schweden könnte wieder stabil sein, aber es bleibt abzuwarten, was die Zukunft bringt."
  swe.131.a: "Auf die eine oder andere Weise kehrt die Ordnung nach Schweden zurück."
 
 ### Elections ###
@@ -1395,6 +1395,8 @@
  SWE_prefix_roy_sw: "Kungliga(Königlich)"
  SWE_prefix_rep_en: "Republican(Republikanisch)"
  SWE_prefix_roy_en: "Royal(Königlich)"
+ SWE_kth_loc: "KTH"
+ SWE_rth_loc: "RTH"
 
 ### Country Names ###
  SWE: "Schweden"
@@ -1475,7 +1477,7 @@
  SWE_zeth_hoglund: "Zeth Höglund"
  SWE_john_andersson: "John Andersson"
 
- SWE_ernst_wigforss: "Ernst Wingforss"
+ SWE_ernst_wigforss: "Ernst Wigforss"
  SWE_carlos_adlercreutz: "Carlos Adlercreutz"
  SWE_sigurd_erixon: "Sigurd Erixon"
  SWE_gustav_cassel: "Gustav Cassel"

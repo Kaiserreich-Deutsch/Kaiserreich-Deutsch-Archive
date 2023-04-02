@@ -5,8 +5,20 @@ mittleafrikan_focus: "Schwerpunktbaum von Mittelafrika"
 
 ### Country Names ###
  MAF: "Mittelafrika"
- MAF_ADJ: "Mittelafrikaner"
+ MAF_ADJ: "Mittelafrikanisch"
  MAF_DEF: "die Koloniale Föderation Mittelafrika"
+
+ MAF_SWA: "Südwestafrika"
+ MAF_SWA_ADJ: "Südwestafrikanisch"
+ MAF_SWA_DEF: "Südwestafrika"
+
+ MAF_GEA: "Deutsch Ostafrika"
+ MAF_GEA_ADJ: "Deutsch Ostafrikanisch"
+ MAF_GEA_DEF: "Deutsch Ostafrika"
+
+ MAF_GWA: "Deutsch Westafrika"
+ MAF_GWA_ADJ: "Deutsch Westafrikanisch"
+ MAF_GWA_DEF: "Deutsch Westafrika"
 
  MAF_germany_in_exile: "Exildeutschland"
  MAF_germany_in_exile_ADJ: "Deutsch"
@@ -62,11 +74,10 @@ mittleafrikan_focus: "Schwerpunktbaum von Mittelafrika"
 
 ### Characters ###
  MAF_Hermann_von_Goering: "Hermann von Göring"
- MAF_Hermann_von_Goering_leader_desc: "Von Göring wurde bekannt als einer der talentiertesten deutschen Jägerpiloten des Weltkriegs. Er erzielte mehr als 20 Siege bis zum Ende des Krieges, welche ihm zahllose Orden einbrachten.\n\nSeine Ambitionen wurden bald politisch, als er Vorsitzender des Alldeutschen Verbandes wurde - den er 1928 zu einer Stimmenzahl von 8 % bei den Wahlen führte. Im Anschluss daran wurde er vom Kolonialamt nach Mittelafrika berufen. Viele vermuten, dass er damit nicht nur einen weiteren Unruhestifter loswerden wollte, sondern auch die ordnungsgemäße Verwaltung der afrikanischen Kolonien sicherstellen wollte. Von Göring hingegen sieht seine Ernennung als Sprungbrett und seine Eintrittskarte, um nach einer erfolgreichen Amtszeit in den Kolonien das Kanzleramt zu erobern."
+ MAF_Hermann_von_Goering_leader_desc: "Von Göring wurde als einer der erfolgreichsten deutschen Jagdflieger des Weltkriegs bekannt, der bis Kriegsende mehr als zwanzig Siege errang und mit zahlreichen Orden ausgezeichnet wurde.\n\nSeine Ambitionen wurden bald politisch, und er wurde Vorsitzender des Alldeutschen Verbandes - den er bei den Wahlen 1928 zu einer Stimmenbeteiligung von 8 % führte. Dann wurde er von der Kolonialbehörde nach Mittelafrika berufen. Viele vermuten, dass er damit nicht nur einen weiteren Unruhestifter loswerden wollte, sondern auch die ordnungsgemäße Verwaltung der afrikanischen Kolonien sicherstellen wollte. Von Göring sieht seine Ernennung als Sprungbrett, um nach einer erfolgreichen Amtszeit in den Kolonien das Kanzleramt zu erobern."
  
  MAF_Ernst_Juenger: "Ernst Jünger"
  MAF_Franz_Ritter_von_Epp: "Franz Ritter von Epp"
- MAF_Fritz_Thyssen: "Fritz Thyssen"
  MAF_Georg_Kraut: "Georg Kraut"
  MAF_Ludwig_Bockholt: "Ludwig Bockholt"
  MAF_Rudolf_Asmis: "Rudolf Asmis"
@@ -236,34 +247,32 @@ MAF_DEM_paternal_autocrat_party: "AAP"
 MAF_DEM_paternal_autocrat_party_long: "Afrikanische Aktionspartei"
 
 ### Tooltips/Flags ###
- MAF_collapse_at_minus_forty: "§RDas Land wird zusammenbrechen, wenn die Stabilität -40% erreicht§!"
-MAF_NRG: "Die Neue Reformgruppe ist an der Macht"
-MAF_Ref: "Die Reformgruppe ist an der Macht"
-MAF_DKG: "Die DKG ist an der Macht"
-MAF_NKR: "Die NKR ist an der Macht"
+ MAF_collapse_at_minus_one_hundred: "§RDas Land wird zusammenbrechen, wenn die Stabilität -100% erreicht.§!"
+ MAF_all_african_reinforcements_tt: "§RAlle verbleibenden Revoluzzer werden stärker.§!"
+
 MAF_Sov: "Die Selbstverwalter sind an der Macht"
-MAF_noAnglos: "Den Anglos wurde die Selbstverwaltung gewährt"
+MAF_noAnglos: "Den Engländern wurde die Selbstbestimmung gewährt."
 
 MAF_SovState: "§RDies ist kein Weg, den wir leichtfertig beschreiten sollten. Mächtige Kräfte von innen und außen werden versuchen, uns aufzuhalten...§!\n"
-MAF_revolt_warning: "§RDie Autonomie, die den afrikanischen Königreichen gegeben wurde, wurde aus einem bestimmten Grund gegeben; unsere Berater raten dringend davon ab, sie zu widerrufen.§!\n"
-MAF_autonomy_warning: "Wir werden uns zu einer §Ynominalen Marionette§! von £KR_game_rule_flag_GER §Y[GER.GetNameDefCap]§! erklären, was uns größere Autonomie verleiht.\n§RDas wäre aber eine schwere Beleidigung für Berlin, und das bleibt nicht oft ungestraft.§!\n"
+MAF_revolt_warning: "§RDie den afrikanischen Königreichen gewährte Autonomie wurde nicht ohne Grund gewährt; unsere Berater raten dringend davon ab, sie aufzuheben.§!\n"
+MAF_autonomy_warning: "Wir werden uns zu einer §Ynominalen Marionette§! von £KR_game_rule_flag_GER §Y[GER.GetNameDefCap]§! erklären, was uns mehr Autonomie verschafft.\n§RDas wäre aber eine schwere Beleidigung für Berlin, und das bleibt nicht oft ungestraft.§!\n"
 MAF_collapse_tooltip: "§RMittelafrika wird kollabieren und in Dutzende neue Länder zerfallen.§!\n"
 MAF_collapse: "Mittelafrika ist kollabiert"
 
-kenyatta_solf_affair_bad: "§RMittelafrika wird sehr leiden, wenn das Gerichtsverfahren vorbei ist...§!\n"
+kenyatta_solf_affair_bad: "§RMittelafrika wird sehr darunter leiden, wenn das Gerichtsverfahren durchgeht...§!\n"
 maybe_dont_ignore_germany_MAF: "§RDie Worte des Kaisers zu ignorieren, ist ein gefährliches Spiel...§!\n"
 MAF_revolt_tooltip: "§RFast der gesamte Kontinent steht kurz vor dem Ausbruch einer offenen Revolte; dies ist sicherlich das Ende...§!\n"
-MAF_BM_Improvement_Tooltip: "§GWir werden unser Budget zu Beginn des Finanzjahres wählen können.§!\n"
+MAF_BM_Improvement_Tooltip: "§GWir werden zu Beginn des Haushaltsjahres über unseren Haushalt entscheiden können.§!\n"
 MAF_CAN_Vol_tooltip: "§GDrei Divisionen der kanadischen Truppen werden sich uns anschließen.§!"
 african_divisions_1: "§GDrei Divisionen der Eliteinfanterie werden aus Mittelafrika zu uns stoßen.§!\n"
 african_divisions_2: "§GZwei Elite Kavallerie Divisionen werden aus Mittelafrika zu uns stoßen.§!\n"
 african_divisions_3: "§GAus Mittelafrika kommen zwei motorisierte Elite-Divisionen zu uns.§!\n"
 
  MAF_BM_has_hit: "§RDeutschland befindet sich in einer Wirtschaftskrise!§!"
- MAF_BM_optional: "Rechtzeitig zum Haushalt 1937 sollte es besser aussehen, aber §YZusätzliche Maßnahmen§! könnten unsere Wirtschaft kurzfristig verbessern.\n"
+ MAF_BM_optional: "Bis zum Haushalt 1937 dürfte sich die Lage bessern, aber §Zusätzliche Maßnahmen§! könnten unsere Wirtschaft kurzfristig verbessern.\n"
 
 dividing_mozambique: "Wir haben vereinbart, Mosambik mit der Mittelafrika zu teilen"
-situation_out_of_hand: "Die Situation mit Portugal wächst auf ein unhaltbares Niveau"
+situation_out_of_hand: "Die Situation mit Portugal gerät außer Kontrolle"
 
 MAF_lk_take_north_MZB: "§B[POR.GetNameDefCap] tritt Nord-Mosambik an Mittelafrika ab.§!\n"
 MAF_lk_take_all_MZB: "§B[POR.GetNameDefCap] tritt Mosambik als Ganzes ab, das in Mittelafrika eingegliedert wird.§!\n"
@@ -279,9 +288,9 @@ MAF_Mau_Mau_Revolt: "§H[Root.GetNameDef]§! erklärt den Krieg gegen §H$KEN_KI
 
 MAF_Bush_War_start_tt: "§RDer Bush-Krieg wird beginnen.§!\n§H[Root.GetNameDef]§! erklärt Krieg gegen §H$POR_$§!."
 
-MAF_Bush_War_MAF_victory_requirement_tt: "§PMittelafrika§! §Lwird gewinnen, wenn es mehr als drei der folgenden Staaten kontrolliert, §! §CPortugal§!§L:§! §g[540.GetName], [544.GetName], [917.GetName]§! §Land§! §g[950.GetName].§!"
+MAF_Bush_War_MAF_victory_requirement_tt: "§PMittelafrika§! §L wird gewinnen, wenn es mindestens drei der folgenden Staaten kontrolliert, von§! §CPortugal§!§L:§! §g[540.GetName], [544.GetName], [917.GetName]§! §Land§! §g[950.GetName].§!"
 
-MAF_Bush_War_POR_victory_requirement_tt: "§CPortugal§! §Lwird gewinnen, wenn es mehr als drei der folgenden Staaten kontrolliert,§! §CMittelafrika§!§L:§! §g[813.GetName], [871.GetName], [879.GetName]§! §Land§! §g[958.GetName].§!"
+MAF_Bush_War_POR_victory_requirement_tt: "§CPortugal§! §L wird gewinnen, wenn es mindestens drei der folgenden Staaten kontrolliert, von§! §PMittelafrika§!§L:§! §g[813.GetName], [871.GetName], [879.GetName]§! §Land§! §g[958.GetName].§!"
 
 MAF_Bush_War_POR_advantage_tt: ""§Chat derzeit einen Vorteil."
 MAF_Bush_War_MAF_advantage_tt: "§PMittelafrika§! hat derzeit einen Vorteil."
@@ -310,41 +319,41 @@ MAF_Bush_War_NO_advantage_tt: "§LNiemand§! hat einen Vorteil."
 
  ### CtC Decisions ###
  MAF_CtC_Daressalam-Kampala: "Von Daressalam nach Kampala"
- MAF_CtC_Daressalam-Kampala_desc: "Für die nächste Etappe der Eisenbahnlinie vom Kap nach Kairo müssen wir Daressalam und Kampala miteinander verbinden."
+ MAF_CtC_Daressalam-Kampala_desc: "Die nächste Etappe der Eisenbahnlinie vom Kap nach Kairo erfordert eine Verbindung zwischen Daressalam und Kampala."
 
  MAF_CtC_Kampala-Khartoum: "Von Kampala nach Khartum"
- MAF_CtC_Kampala-Khartoum_desc: "Die letzte Etappe der Kap-Kairo-Eisenbahn liegt im Sudan; wir müssen Kampala mit Khartum verbinden. Ein Teil der Arbeit liegt zwar außerhalb unserer Grenzen, aber solange wir bereit sind, die Arbeitskräfte zu stellen, wäre das kein Problem."
+ MAF_CtC_Kampala-Khartoum_desc: "Das letzte Teilstück der Eisenbahnlinie vom Kap nach Kairo liegt im Sudan; wir müssen Kampala mit Khartum verbinden. Ein Teil dieser Arbeiten liegt außerhalb unserer Grenzen, aber solange wir bereit sind, die Arbeitskräfte zu stellen, sollte dies kein Problem sein."
 
  MAF_CtC_Khartoum-Addis: "Von Khartum nach Addis Abeba"
- MAF_CtC_Khartoum-Addis_desc: "Es ist an der Zeit, die Eisenbahnlinie von Kapstadt nach Kairo auszubauen und sie mit Äthiopien zu verbinden, um eine neue Handelsroute in Afrika zu eröffnen. Einmal mehr müssen wir die Arbeitskräfte stellen, aber die wirtschaftlichen Vorteile werden sicherlich alle Nachteile überwiegen."
+ MAF_CtC_Khartoum-Addis_desc: "Es ist an der Zeit, die Eisenbahnlinie von Kap nach Kairo durch eine Verbindung mit Äthiopien zu erweitern und damit eine neue Handelsroute in Afrika zu eröffnen. Auch hier werden wir die Arbeitskräfte stellen müssen, aber der wirtschaftliche Nutzen wird die Kosten sicherlich überwiegen."
 
  ### Resource Extraction Decisions ###
- MAF_resource_extraction_1: "Kautschukplantagen ausweiten"
- MAF_resource_extraction_1_desc: "Afrikas natürlicher Reichtum ist überwältigend, und wir müssen unsere Möglichkeiten, ihn zu nutzen, weiterentwickeln."
+ MAF_resource_extraction_1: "Erweiterung der Kautschukplantagen"
+ MAF_resource_extraction_1_desc: "Afrikas natürlicher Reichtum ist atemberaubend, wir müssen unsere Mittel für den Zugang zu ihm entwickeln."
 
  MAF_resource_extraction_2: "Ölförderung in Nigeria"
- MAF_resource_extraction_2_desc: "Es ist an der Zeit, unsere Mittel zur Ressourcengewinnung noch weiter zu entwickeln."
+ MAF_resource_extraction_2_desc: "Es ist an der Zeit, unsere Mittel zur Ressourcengewinnung weiterzuentwickeln."
 
  MAF_resource_extraction_3: "Gewinnung seltener Metalle"
  MAF_resource_extraction_3_desc: "Es ist an der Zeit, Afrika zu der Rohstoffmacht zu machen, die es schon immer sein sollte."
 
  MAF_resource_extraction_4: "Bemühungen zur Verbesserung der Ressourcen"
- MAF_resource_extraction_4_desc: "Wir müssen unsere Mittel zur Veredelung der zahlreichen Ressourcen, die der afrikanische Boden hervorbringt, weiterentwickeln."
+ MAF_resource_extraction_4_desc: "Wir müssen unsere Mittel zur Veredelung der zahlreichen Ressourcen entwickeln, die der afrikanische Boden hervorbringt."
 
  ###
 MAF_take_mittelafrikan_navy: "Übernehmen Sie die Kontrolle über die Mittelafrikanische Marine"
-MAF_take_mittelafrikan_navy_desc: "Die kleine deutsche Mittelafrikanische Marine ist eine wertvolle Bereicherung für unsere Marinestrategie im Indischen Ozean. Sie wäre besser dran, wenn sie enger in die Berliner Kommandostruktur eingebunden wäre, als sie einfach der Laune von Dar es-Salaam zu überlassen."
+MAF_take_mittelafrikan_navy_desc: "Die kleine deutsche Mittelafrikanische Marine ist eine wertvolle Bereicherung für unsere Marinestrategie im Indischen Ozean. Es wäre besser, wenn sie enger in die Berliner Kommandostruktur eingebunden wäre, statt den Launen von Dar-es-Salaam ausgeliefert zu sein."
 
 MAF_Revolt_mission: "§RAufstand in Mittelafrika§!"
-MAF_Revolt_mission_desc: "Aufstand in Mittelafrika! Es scheint, dass die Aufhebung der Protektorate ein Schritt zu weit war; eine offene Revolte ist nun fast unvermeidlich. Wenn wir nur gewusst hätten, dass dies der Funke sein würde, der das Pulverfass zum Explodieren bringt...\n\nWährend viele denken, dass dies das Ende von Mittelafrika ist, wissen wir es besser; unsere tapferen Truppen werden sicherlich in der Lage sein, einige aufkeimende Revolten niederzuschlagen und die Dinge schnell zu lösen.\n\n§RWenn unsere Stabilität zu tief sinkt oder wir den Aufstand nicht rechtzeitig niederschlagen können, wird es tatsächlich das Ende von Mittelafrika sein.§!"
+MAF_Revolt_mission_desc: "Aufstand in Mittelafrika! Es scheint, dass die Aufhebung der Protektorate ein Schritt zu weit war; eine offene Revolte ist nun fast unvermeidlich. Wenn wir nur gewusst hätten, dass dies der Funke sein würde, der das Pulverfass zum Explodieren bringt...\n\nWährend viele denken, dass dies das Ende von Mittelafrika ist, wissen wir es besser; unsere tapferen Truppen werden sicherlich in der Lage sein, einige aufkeimende Revolten niederzuschlagen und die Dinge schnell zu lösen.\n\n§RWenn unsere Stabilität zu tief sinkt oder wir den Aufstand nicht rechtzeitig niederschlagen können, wird es tatsächlich das Ende von Mittelafrika sein.§!\n\nSie können zusätzliche Zeit gewinnen, indem Sie aufständische Nationen kapitulieren lassen."
 
 MAF_DKAEB_bailout_mission: "Sichern Sie das DKAEB"
 
 MAF_Bush_War_mission: "Der Bush-Krieg"
-MAF_Bush_War_mission_desc: "\n§LWe will win should we manage to take control over any three the following states owned by§! §CPortugal§!§L:§! §gCentral Angola, Zambezia, Southern Angola§! §Land§! §gInhambane-Gaza.§!"
+MAF_Bush_War_mission_desc: "\n§LWir werden gewinnen, wenn es uns gelingt, die Kontrolle über drei der folgenden Staaten zu übernehmen, die sich im Besitz befinden von§! §CPortugal§!§L:§! §g[540.GetName], [544.GetName], [917.GetName]§! §Land§! §g[950.GetName].§!"
 
 POR_Bush_War_mission: "Der Bush-Krieg"
-POR_Bush_War_mission_desc: "\n§LWir werden gewinnen, wenn wir Mittelafrika auf über§! §m50§!§g%§! §LKapitulationswert bringen.§!"
+POR_Bush_War_mission_desc: "\n§LWir werden gewinnen, wenn es uns gelingt, die Kontrolle über drei der folgenden Staaten zu übernehmen, die sich im Besitz befinden von§! §PMittelafrika§!§L:§! §g[813.GetName], [871.GetName], [879.GetName]§! §Land§! §g[958.GetName].§!"
 
 ### Opinion Modifies ###
 MAF_Refused_Explain: "Portugal weigerte sich, die Rebellen zu stoppen"
@@ -376,22 +385,10 @@ MAF_Refused_Explain: "Portugal weigerte sich, die Rebellen zu stoppen"
 ### Focuses ###
  ### Four Year Plan
 MAF_Four_Year_Plan: "Vier Jahresplan"
-MAF_Four_Year_Plan_desc: "In Europa und Asien braut sich Ungemach zusammen: Die Feinde Deutschlands werden jeden Tag mutiger, während unser eigenes Militär selbstgefällig geworden ist. Wir müssen einen Zeitplan für unsere wirtschaftliche und militärische Aufrüstung aufstellen, um sicherzustellen, dass wir bereit sind, das Vaterland in jeder Weise zu unterstützen."
+MAF_Four_Year_Plan_desc: "In Europa und Asien braut sich Ungemach zusammen: Deutschlands Feinde werden jeden Tag mutiger, während unser eigenes Militär selbstgefällig geworden ist. Wir müssen einen Zeitplan für unsere wirtschaftliche und militärische Aufrüstung aufstellen, um sicherzustellen, dass wir bereit sind, das Vaterland in jeder Weise zu unterstützen."
 
 MAF_Army_Reforms: "Reformierung der Armee"
-MAF_Army_Reforms_desc: "Der afrikanische Askari aus dem Jahr 1914 entsprach dem Standard des zeitgenössischen europäischen Soldaten. Heute entspricht er immer noch dem Standard von 1914. Er ist nicht bereit für die Art von mechanisierten, artillerieintensiven Schlachten, die wir am Ende des Krieges in Europa gesehen haben. Wir müssen das beheben."
-
-MAF_Port_Renovation: "Hafensanierung"
- MAF_Port_Renovation_desc: "Im Zeitalter der kohlebetriebenen Marine waren vorgeschobene Stützpunkte von entscheidender Bedeutung. Ein ausgedehntes Netz von Hafenanlagen ermöglichte es dem Reich, seine Macht auf die Meere auszudehnen.\n\nHeutzutage müssen Schiffe nicht mehr alle paar hundert Kilometer auftanken, was dazu führt, dass viele unserer Hafenanlagen auf der Strecke bleiben. Es ist Zeit für einige Renovierungen."
-
-MAF_Sailing_With_Marine: "Segeln mit der Kaiserlichen Marine"
-MAF_Sailing_With_Marine_desc: "Unsere Schiffe sollten nicht einfach in den örtlichen Gewässern patrouillieren. Wir sollten sie von Kiel nach Tsingtau zu Übungen mit der Kaiserlichen Marine schicken."
-
-MAF_Acquire_New_Blueprints: "Neue Entwürfe beschaffen"
-MAF_Acquire_New_Blueprints_desc: "Durch den Ankauf von Schiffen von deutschen Werften und den Kauf veralteter Schiffe von der Kaiserlichen Marine können wir die deutsche Wirtschaft ankurbeln und gleichzeitig unsere eigene Marineindustrie stärken."
-
-MAF_Our_Own_Dockyards: "Unsere eigenen Werften"
-MAF_Our_Own_Dockyards_desc: "Mit den richtigen Investitionen können wir unsere eigenen Marinewerften errichten und zu jedem neuen Wettrüsten der Marine beitragen."
+MAF_Army_Reforms_desc: "Der afrikanische Askari von 1914 entsprach dem Standard des zeitgenössischen europäischen Soldaten. Heute entspricht er immer noch dem Standard von 1914. Er ist nicht bereit für die Art von mechanisierten, artillerieintensiven Schlachten, wie wir sie in Europa gegen Ende des Krieges erlebt haben. Das müssen wir ändern."
 
 MAF_Heavy_Equipment: "Schwere Ausrüstung"
 MAF_Heavy_Equipment_desc: "Wenn unser Militär den Standards Deutschlands entsprechen soll, brauchen wir Ausrüstung: Panzer, Flugzeuge, Artilleriegeschütze, das sind die Waffen des modernen Krieges!"
@@ -408,14 +405,8 @@ MAF_War_Economy_desc: "Krieg ist unvermeidbar und Zeit ist kostbar. Im Weltkrieg
 MAF_African_War_Industries: "Afrikanische Kriegsindustrie"
 MAF_African_War_Industries_desc: "Afrikanische Arbeiter werden für weit weniger Gehalt als der durchschnittliche Deutsche arbeiten, wenn wir sie überhaupt bezahlen. Es ist daher sinnvoll, stattdessen die Entwicklung einfacher Herstellungsverfahren zu fördern, die für Afrika geeignet sind."
 
-MAF_African_Breadbasket: "Der Afrikanische Brotkorb"
-MAF_African_Breadbasket_desc: "Ein Großteil Afrikas hat nur wenig entwickelte Landwirtschaft, aber wir investieren in Exportpflanzen, die eigentlich nur in den Tropen wachsen. Der letzte Weltkrieg hat gezeigt, dass Deutschland anfällig für den Mangel an Lebensmitteln ist. Wenn wir uns also auf Grundnahrungsmittel wie Mais und Reis anstatt auf Tabak und Pfeffer konzentrieren, können wir zu dem Sieg beitragen."
-
  MAF_Kulturkampf: "Ein zweiter Kulturkampf"
  MAF_Kulturkampf_desc: "In den 1870er Jahren verabschiedete das deutsche Parlament 22 Gesetze, um die Macht der katholischen Kirche zu beschneiden. Indem wir diese Gesetze rücksichtslos durchsetzen, können wir fremde Elemente zurückdrängen - insbesondere die Belgier und ihren anhaltenden Einfluss im Kongo - und auch das Monopol unseres eigenen säkularen und deutschen Bildungssystems sicherstellen."
-
-MAF_Strategic_Export: "Export von strategische Ressourcen"
-MAF_Strategic_Export_desc: "Im Kriegsfall muss Mittelafrika dazu dienen, die große deutsche Kriegsmaschine zu ernähren. Durch die Ausweitung unserer Produktion von strategischen Ressourcen können wir unsere Feinde übertreffen und das Vaterland stärken."
 
 MAF_Protect_Animals: "Schutz für gefährdete Spezien"
  MAF_Protect_Animals_desc: "Es ist kaum zu glauben, aber einige der bekanntesten Tierarten Afrikas, insbesondere der Löwe, sind in Gefahr, vollständig ausgerottet zu werden, so wie der Wolf in Europa. Im Jahr 1870 wurde der letzte Atlasbär von Jägern erschossen. Unser Statthalter hat ein besonderes Interesse daran, Gesetze durchzusetzen, die sicherstellen, dass dies nicht mit unseren heimischen Arten geschieht."
@@ -441,9 +432,33 @@ MAF_End_Protectorates_desc: "Mittelafrika war schon immer ein Flickenteppich von
 MAF_Statthalter: "Übernahme des Titels 'Statthalter'"
 MAF_Statthalter_desc: "Der Statthalter ist nicht nur ein Bürokrat, der eine Regierungsrolle wahrnimmt. Wir haben bereits durchgesetzt, dass er Deutschland gegenüber nicht mehr rechenschaftspflichtig ist. Jetzt ist es wichtig durchzusetzten, dass er der höchsten Autorität in Afrika gleichgestellt ist. Der Kaiser hat dem Statthalter ein heiliges Vertrauen geschenkt. In Afrika ist das Wort des Statthalter dasselbe wie das des Kaisers."
 
+ MAF_british_protectorates: "Der rechtliche Status der britischen Schutzgebiete"
+ MAF_british_protectorates_desc: "Der Status Quo, der die britischen Kolonien und Schutzgebiete betrifft, stellt niemanden zufrieden. Wir sollten uns bemühen, dies so bald wie möglich zu ändern.
+ 
+ MAF_disarm_the_british: "Auflösung der Paramilitärs"
+ MAF_disarm_the_british_desc: "Schon vor unserer Ankunft bemühte sich die britische Bevölkerung in Kenia und Nordrhodesien, ihre Sicherheit durch "Schützenvereine", Hilfspolizeiverbände und paramilitärische Organisationen zu gewährleisten. Diese rüpelhaften Organisationen, die nicht den Anschein einer zentralen Führung haben, richten ebenso viel Schaden an wie sie Gutes tun. Es ist an der Zeit, ihrer Schreckensherrschaft ein Ende zu setzen."
+
+ MAF_end_british_protectorates: "Annektierung der britischen Kolonien"
+ MAF_end_british_protectorates_desc: "1925 wurde die britische Insel von der Plage des Sozialismus heimgesucht. Unsere Armeen rückten in britisches Gebiet ein, um zu verhindern, dass die Revolution Afrika erreicht, und errichteten eine Treuhandschaft über die britischen Kolonien, bis eine "verantwortungsvolle britische Regierung" wiederhergestellt werden konnte. Wir werden dieser Farce ein Ende setzen, die Kolonien gehören uns durch das Recht der Eroberung."
+
  ### New Administration
  MAF_New_Administration: "Eine neue Verwaltung"
  MAF_New_Administration_desc: "Um unsere Kontrolle über Afrika weiter auszubauen, ist es notwendig, eine Bestandsaufnahme unserer Verwalter und Mitarbeiter vorzunehmen und einen Aktionsplan zu koordinieren."
+
+ MAF_responsible_governance: "Rückkehr zu verantwortungsvollem Handeln"
+ MAF_responsible_governance_desc: "Es ist mehr als ein Jahrzehnt her, dass in den britischen Kolonien und Schutzgebieten neue Gouverneure und Verwalter ernannt wurden. Nach dem Zusammenbruch der Regierung in London haben die lokale Legislative und der Exekutivrat weiter bestanden. Sie wurden lange genug an den Rand gedrängt und sollen nun die Regierungsgeschäfte in den britischen Kolonien übernehmen."
+
+ MAF_a_german_administration: "Eine deutsche Verwaltung"
+ MAF_a_german_administration_desc: "Die Stellen in den noch nicht britischen Kolonien sind weiterhin mit Swahili sprechenden Briten besetzt. Wir sollten uns bemühen, sie zu vertreiben und die Verwaltung vollständig zu deutschifizieren."
+
+ MAF_arm_the_british: "Versöhnung mit den Paramilitärs"
+ MAF_arm_the_british_desc: "Während manche die paramilitärischen Einheiten der britischen Siedler als lästig empfinden, sehen wir sie als Chance. Eine große bewaffnete, konservative und weiße Bevölkerung kann unsere Herrschaft festigen und uns vor Aufständen der Eingeborenen schützen. Wir sollten diesen Organisationen unseren offiziellen Segen erteilen."
+
+ MAF_british_self_rule: "Wiederherstellung der britischen Selbstverwaltung"
+ MAF_british_self_rule_desc: "Der Versuch, die britischen Kolonien in unsere Kolonialunion zu integrieren, wäre nicht nur töricht - denn weder Berlin noch die Briten vor Ort wollen das -, sondern auch äußerst schwierig. Dennoch kann der Status Quo nicht fortbestehen. Wir sollten daher stattdessen ein gewisses Maß an Selbstverwaltung für diese Menschen wiederherstellen, als Teil unserer Treuhänderschaft zur Wiederherstellung einer verantwortungsvollen Regierung in diesen Gebieten."
+
+MAF_Bezirk: "Bezirksleiterrecht"
+MAF_Bezirk_desc: "Ein Großteil des Gesetzes, nach dem gewöhnliche Afrikaner arbeiten und vor Gericht gestellt werden, ist nicht deutsches Recht, sondern lokale Stammesgesetze, die von Stammesführern und Ältesten verhandelt werden. Anstatt zu versuchen, es auszumerzen und unsere begrenzte Anzahl akzeptabler Richter, Anwälte und Juroren zu überlasten, hat Rudolf Asmis vorgeschlagen, dass wir Teams von Rechtsexperten bilden, die sich mit den Einheimischen beraten, um ihre lokalen Gesetze schriftlich niederzulegen und zu modernisieren."
 
 MAF_African_Landtag: "Ein afrikanischer Landtag"
 MAF_African_Landtag_desc: "Anstelle ,dass alle Macht bei dem Statthalter liegt, werden wir zwei gesetzgebende Einheiten haben, ein Herrenhaus, das sich aus deutschen Adligen und afrikanischen Königen zusammensetzt, und ein Abgeordnetenhaus, über das hauptsächlich weiße Wähler entscheiden."
@@ -454,8 +469,8 @@ MAF_Autonomous_Kingdoms_desc: "Einige Gebiete Afrikas sind nicht für weiße Sie
 MAF_African_Studies: "Förderung von afrikanischen Studien in Deutschland"
 MAF_African_Studies_desc: "Die offizielle Sprache unserer Verwaltung ist Suaheli, aber es gibt nur wenige Möglichkeiten, es anderswo zu lernen, ganz zu schweigen von den Hunderten anderer Sprachen, die in Afrika verwendet werden. Um eine stetige Versorgung mit kompetenten Beamten zu gewährleisten, sollten wir die deutschen Universitäten ermutigen, Fachkräfte für afrikanische Sprachen und Kulturen auszubilden."
 
-MAF_Hold_Elections: "Haltet Wahlen ab"
-MAF_Hold_Elections_desc: "Es ist Zeit, die ersten Wahlen in Mittelafrika abzuhalten. Sie sollen in etwa einem halben Jahr beginnen, um alle Parteien Zeit zu geben einen Wahlkampf abzuhalten."
+MAF_Royal_Tours: "Königliche Touren"
+MAF_Royal_Tours_desc: "In Afrika regieren wir meistens durch lokale Vermittler, Könige und Häuptlinge, deren Herrschaft wir mit eiserner Autorität unterstützen. Wir können sie verwenden, um die Modernisierung von Grund auf zu unterstützen und sie gleichzeitig besser in das Imperium zu integrieren, indem wir ihnen die Gesellschaft der Könige, Herzöge und anderer Adliger vorstellen, aus denen unser größeres Imperium besteht."
 
 MAF_Back_To_Basics: "Zurück zu dem Ursprung"
 MAF_Back_To_Basics_desc: "Unsere Verwaltung stützt sich auf über 50 Jahre Erfahrung auf dem dunklen Kontinent. Unbesiegt gegen unmögliche Chancen im Weltkrieg verstehen wir, dass Afrika sich sehr von Europa unterscheidet, und sind uns unserer Grenzen bewusst. Dies ist unsere Stärke, nicht unsere Schwäche!"
@@ -466,51 +481,24 @@ MAF_Reform_Schutztruppe_desc: "Unsere Schutztruppe hat zu lange militärisch ope
 MAF_African_Army: "Eine Afrikanische Armee"
 MAF_African_Army_desc: "Wir sollten niemals vergessen, dass unsere Askari darauf trainiert sind, Afrika zu sichern und zu verteidigen. Zu diesem Zweck benötigen wir leichte Infanterie, die in der Lage ist, bei geringer Versorgung im Busch und im Dschungel zu operieren."
 
-MAF_Improve_Logistics: "Verbesseren der Logistik"
-MAF_Improve_Logistics_desc: "Während des Weltkriegs benötigten wir über 200.000 Träger, um 18.000 Soldaten zu versorgen. Dies erschöpfte unsere Nahrungsvorräte und reduzierte unsere Mobilität auf die Geschwindigkeit, mit der Menschen Artillerie tragen können. Wir können nicht zulassen, dass dies erneut geschieht."
-
-MAF_Royal_Tours: "Königliche Touren"
-MAF_Royal_Tours_desc: "In Afrika regieren wir meistens durch lokale Vermittler, Könige und Häuptlinge, deren Herrschaft wir mit eiserner Autorität unterstützen. Wir können sie verwenden, um die Modernisierung von Grund auf zu unterstützen und sie gleichzeitig besser in das Imperium zu integrieren, indem wir ihnen die Gesellschaft der Könige, Herzöge und anderer Adliger vorstellen, aus denen unser größeres Imperium besteht."
-
 MAF_Honorary_Officers: "Ehrenamtliche Offiziere"
 MAF_Honorary_Officers_desc: "Der Kern unserer Autorität sind die Askari, die ohne Fragen zu stellen gehorchen, und die lokalen Behörden, die unsere Gebiete effektiv verwalten. Wir sollten beides vermischen, indem wir Könige und Häuptlinge als ehrenamtliche Offiziere in unsere Streitkräfte aufnehmen."
 
-MAF_Bezirk: "Bezirksleiterrecht"
-MAF_Bezirk_desc: "Ein Großteil des Gesetzes, nach dem gewöhnliche Afrikaner arbeiten und vor Gericht gestellt werden, ist nicht deutsches Recht, sondern lokale Stammesgesetze, die von Stammesführern und Ältesten verhandelt werden. Anstatt zu versuchen, es auszumerzen und unsere begrenzte Anzahl akzeptabler Richter, Anwälte und Juroren zu überlasten, hat Rudolf Asmis vorgeschlagen, dass wir Teams von Rechtsexperten bilden, die sich mit den Einheimischen beraten, um ihre lokalen Gesetze schriftlich niederzulegen und zu modernisieren."
-
-MAF_Cottage_Industries: "Baumwollindustrie"
-MAF_Cottage_Industries_desc: "Es ist seltsam zu denken, aber selbst im 20. Jahrhundert kann viel Arbeit geleistet werden, indem die Arbeit an die große Anzahl qualifizierter Afrikaner auf dem gesamten Kontinent verteilt wird, von denen viele traditionell ausgebildete Schmiede sind, um unsere Produktion zu steigern."
-
- MAF_East_Asian_Exports: "Ostasien-Exporte"
- MAF_East_Asian_Exports_desc: "Wir sind nur ein Teil des riesigen deutschen Kolonialreichs. Wir sollten darauf achten, dass unser Handel nicht nur in die Metropole geht, sondern auch die Chancen im Osten nutzt."
+### Economy Tree
+MAF_African_Breadbasket: "Der Afrikanische Brotkorb"
+MAF_African_Breadbasket_desc: "Ein Großteil Afrikas hat nur wenig entwickelte Landwirtschaft, aber wir investieren in Exportpflanzen, die eigentlich nur in den Tropen wachsen. Der letzte Weltkrieg hat gezeigt, dass Deutschland anfällig für den Mangel an Lebensmitteln ist. Wenn wir uns also auf Grundnahrungsmittel wie Mais und Reis anstatt auf Tabak und Pfeffer konzentrieren, können wir zu dem Sieg beitragen."
 
 MAF_Cash_Crops: "Pflanzen für den Export"
 MAF_Cash_Crops_desc: "Es ist kein Geheimnis, dass die Suche nach exotischen Gütern schon immer ein Motor des Imperialismus war. In der Subsahara-Umgebung können viele tropische Pflanzen wie Kaffee und Kakao wachsen. Wir sollten uns eher auf diese als auf Grundnahrungsmittel konzentrieren und Lebensmittel aus der Ukraine oder Ostpreußen importieren, um etwaige Engpässe auszugleichen."
 
-MAF_Our_Shipyards: "Unsere eigenen Werften"
-MAF_Our_Shipyards_desc: "Unsere derzeitige Politik der Anpassung und Umrüstung veralteter Schiffe der Kaiserlichen Marine ist sowohl kostspielig als auch ineffektiv. Die Schiffe, die wir erhalten, sind im Vergleich zu modernen Schiffen zu langsam und benötigen häufig kostspielige Reparaturen. Anstelle von großen, rostigen Kreuzern sollten wir uns auf hochmoderne Zerstörer und U-Boote konzentrieren, um unsere Betriebskosten niedrig zu halten."
+MAF_Strategic_Export: "Export von strategische Ressourcen"
+MAF_Strategic_Export_desc: "Im Kriegsfall muss Mittelafrika dazu dienen, die große deutsche Kriegsmaschine zu ernähren. Durch die Ausweitung unserer Produktion von strategischen Ressourcen können wir unsere Feinde übertreffen und das Vaterland stärken."
 
-MAF_Spirit_Vorbeck: "Der Geist von Lettow-Vorbeck"
-MAF_Spirit_Vorbeck_desc: "Die wichtigste Lehre aus dem Weltkrieg findet sich in keinem technischen Handbuch. Dies zeigt sich in der bloßen Entschlossenheit von General von Lettow-Vorbeck, weiter zu kämpfen, egal wie schlimm die Situation gewesen sein mag. 1916 erklärte die Entente die Lage in Afrika für vorbei. 1919 standen wir immer noch und kämpften immer noch. Wir haben nie aufgegeben und werden es auch nie tun!"
+ MAF_rail_expansion: "Erweiterung des Fahrzeugparks"
+ MAF_rail_expansion_desc: "Während das Schienennetz, das den dunklen Kontinent durchzieht, seit dem Beginn des Kolonialismus exponentiell gewachsen ist, sind es die Züge selbst, die langsam veraltet sind. Wir werden das ändern, indem wir Züge aus Europa importieren."
 
-MAF_Konigsburg_Gunners: "Die Kanoniere von der SMS Königsberg"
-MAF_Konigsburg_Gunners_desc: "Abgesehen von einigen Schlachten in Flüssen und auf Seen, mit improvisierten Dampfern erlebte der Weltkrieg in Afrika nicht viel Seekrieg. Die Schlüsselschlacht war die Schlacht im Rufiji-Delta, in der die SMS Königsberg schwer beschädigt wurde. Die Besatzung rettete jedoch die Waffen, bevor sie das Schiff versenkte, und diente anschließend als Artillerie- und Infanterieoffiziere. Angesichts dieser einzigartigen Erfahrungen ist es kein Wunder, dass einige unserer Marineoffiziere, wie Richard Wenig, Experten für Marineinfanterietaktiken geworden sind."
-
-MAF_Electronic_Project: "Elektronisches Spionageprojekt"
-MAF_Electronic_Project_desc: "Mittelafrika ist nicht für eine große Marine geeignet, unsere Küsten sind zu groß, um sie zu beschützen, und unsere Industrie sollte besser für andere Dinge genutzt werden. Eine andere Sache ist die Investition in die Elektrotechnik, die es uns ermöglichen würde, Macht von Afrika aus zu projizieren und unserem Vaterland durch das Sammeln von Informationen zu helfen."
-
-MAF_Strategic_Reserve: "Strategische Ressourcen Reserve"
-MAF_Strategic_Reserve_desc: "Im letzten Krieg abgeschnitten von Deutschland, mussten wir unsere eigenen Vorräte improvisieren. Wir haben Wege gefunden, Torpedos, Artilleriegeschosse, Farbstoffe, Liköre und Lebensmittel aus praktisch nichts herzustellen. Wir sollten diese Tradition fortsetzen und Wege finden, die Herstellung von Waren zu improvisieren, wenn wir wieder vom Vaterland abgeschnitten sind."
-
-MAF_Naval_Aerial_Observation: "Marine Luftüberwachung"
-MAF_Naval_Aerial_Observation_desc: "Aufbauend auf der Stärke, viele Schiffsrouten zu kontrollieren, sollten wir unsere Beobachtungs- und Kontrollfähigkeit mit Marineflugzeugen verbessern. Früher wurden diese Operationen über Luftschiffe durchgeführt, die von Commodore Bockholt befohlen wurden. Dank der technologischen Fortschritte sind Langstreckenflugzeuge und Flugboote heute der Schlüssel. Herkömmliche deutsche Marineflugzeuge sind für die relativ kurzen Strecken der Nordsee ausgelegt. Wir müssen unsere Fabriken entwickeln, um Flugzeuge an unsere eigenen Bedürfnisse anzupassen."
-
- MAF_Airforce_Infantry: "Aufbau der Luftbeweglichen Infanterie"
-MAF_Airforce_Infantry_desc: "Ludwig von Bockholt, eines der Hauptmitglieder der DKG-Administration, war schon immer ein mutiger Wegbereiter des Luftkampfs. Seine neueste Innovation: Einsatz von Einheiten aus der Luft und Nachschub für ganze Divisionen."
-
- ### Settler Policy
- MAF_british_protectorates: "Der rechtliche Status der britischen Schutzgebiete"
- MAF_british_protectorates_desc: "Der Status Quo, der die britischen Kolonien und Schutzgebiete betrifft, stellt niemanden zufrieden. Wir sollten uns bemühen, dies so bald wie möglich zu ändern."
+MAF_Cape_Cairo: "Kap-Kairo Eisenbahn"
+MAF_Cape_Cairo_desc: "Es ist Zeit zu beenden, was die Briten begonnen haben. Die Kap-Kairo Eisenbahn wird zu einem massiven Wirtschaftswachstum auf dem gesamten Kontinent führen. Zuerst müssen wir die Infrastruktur um Daressalam herum aufbauen."
 
 MAF_vital_industries: "Beschlagnahmt die Belgische Industrien"
 MAF_vital_industries_desc: "Zu lange haben die Belgier eine unverhältnismäßig große Rolle in der Wirtschaft unserer Kolonie gespielt. Wir sollten Maßnahmen ergreifen, um sicherzustellen, dass nur deutsche Unternehmen Zugang zu diesen Möglichkeiten haben.\n\nJetzt, da wir die Macht des belgischen Kapitals gebrochen haben, wollen ihre Investoren unbedingt gehen. Wir können jede Ausrede nutzen, um ihre Industrie als unsere eigene zu beanspruchen, oder sie für eine dürftige Summe kaufen."
@@ -518,51 +506,14 @@ MAF_vital_industries_desc: "Zu lange haben die Belgier eine unverhältnismäßig
 MAF_Attract_Belgian_Investment: "Lockt Belgische Investitionen an"
 MAF_Attract_Belgian_Investment_desc: "Die Belgier waren lange vor uns als Kolonialmacht hier und sind nie wirklich gegangen. Wir arbeiten mit zahlreichen Bergbauunternehmen zusammen, die über ihre ursprünglichen Betriebe im Kongo hinaus expandiert haben. Wenn wir diese Politik fortsetzen, können wir die Vorteile ihres Kapitals nutzen."
 
-MAF_Grant_Cons_FW: "Belgische Firmen"
-MAF_Grant_Cons_FW_desc: "Durch die Gewährung von Autonomie- und Sicherheitsrechte der belgischen Konglomerate über entlegene Teile des Kongo können wir eine diszipliniertere Belegschaft sicherstellen."
+MAF_Cottage_Industries: "Baumwollindustrie"
+MAF_Cottage_Industries_desc: "Es ist seltsam zu denken, aber selbst im 20. Jahrhundert kann viel Arbeit geleistet werden, indem die Arbeit an die große Anzahl qualifizierter Afrikaner auf dem gesamten Kontinent verteilt wird, von denen viele traditionell ausgebildete Schmiede sind, um unsere Produktion zu steigern."
 
- MAF_Integrate_FW: "Intergrierte belgische Offiziere"
- MAF_Integrate_FW_desc: "Wir haben im Weltkrieg gegen sie gekämpft, aber jetzt sind die Menschen in Belgien unsere Verbündeten. Viele ihrer Offiziere haben Erfahrung mit dem kommandieren von Truppen in Afrika. Wir können sie benutzen."
- 
-MAF_Deal_With_Belgians: "Umgang mit den Belgiern"
-MAF_Deal_With_Belgians_desc: "Jetzt, da wir uns mit den Belgiern und ihrem ACC befasst haben, ist es Zeit, unsere Vereinbarung mit ihnen dauerhaft zu machen."
+MAF_Our_Shipyards: "Unsere eigenen Werften"
+MAF_Our_Shipyards_desc: "Unsere derzeitige Politik der Anpassung und Umrüstung veralteter Schiffe der Kaiserlichen Marine ist sowohl kostspielig als auch ineffektiv. Die Schiffe, die wir erhalten, sind im Vergleich zu modernen Schiffen zu langsam und benötigen häufig kostspielige Reparaturen. Anstelle von großen, rostigen Kreuzern sollten wir uns auf hochmoderne Zerstörer und U-Boote konzentrieren, um unsere Betriebskosten niedrig zu halten."
 
- MAF_british_self_rule: "Wiederherstellung der britischen Selbstverwaltung"
- MAF_british_self_rule_desc: "Der Versuch, die britischen Kolonien in unsere Kolonialunion zu integrieren, wäre nicht nur töricht - denn weder Berlin noch die Briten vor Ort wollen das -, sondern auch äußerst schwierig. Dennoch kann der Status Quo nicht fortbestehen. Wir sollten daher stattdessen ein gewisses Maß an Selbstverwaltung für diese Menschen wiederherstellen, als Teil unserer Treuhänderschaft zur Wiederherstellung einer verantwortungsvollen Regierung in diesen Gebieten."
-
- MAF_responsible_governance: "Rückkehr zu verantwortungsvollem Handeln"
- MAF_responsible_governance_desc: "Es ist mehr als ein Jahrzehnt her, dass in den britischen Kolonien und Schutzgebieten neue Gouverneure und Verwalter ernannt wurden. Nach dem Zusammenbruch der Regierung in London haben die lokale Legislative und der Exekutivrat weiter bestanden. Sie wurden lange genug an den Rand gedrängt und sollen nun die Regierungsgeschäfte in den britischen Kolonien übernehmen."
-
- MAF_end_british_protectorates: "Annektierung der britischen Kolonien"
- MAF_end_british_protectorates_desc: "1925 wurde die britische Insel von der Plage des Sozialismus heimgesucht. Unsere Armeen rückten in britisches Gebiet ein, um zu verhindern, dass die Revolution Afrika erreicht, und errichteten eine Treuhandschaft über die britischen Kolonien, bis eine "verantwortungsvolle britische Regierung" wiederhergestellt werden konnte. Wir werden dieser Farce ein Ende setzen, die Kolonien gehören uns durch das Recht der Eroberung."
-
- MAF_a_german_administration: "Eine deutsche Verwaltung"
- MAF_a_german_administration_desc: "Die Stellen in den noch nicht britischen Kolonien sind weiterhin mit Swahili sprechenden Briten besetzt. Wir sollten uns bemühen, sie zu vertreiben und die Verwaltung vollständig zu deutschifizieren."
-
- MAF_arm_the_british: "Versöhnung mit den Paramilitärs"
- MAF_arm_the_british_desc: "Während manche die paramilitärischen Einheiten der britischen Siedler als lästig empfinden, sehen wir sie als Chance. Eine große bewaffnete, konservative und weiße Bevölkerung kann unsere Herrschaft festigen und uns vor Aufständen der Eingeborenen schützen. Wir sollten diesen Organisationen unseren offiziellen Segen erteilen."
-
- MAF_integrate_the_british: "Integration der angloamerikanischen Sicherheitskräfte"
- MAF_integrate_the_british_desc: "Wir können die Unzufriedenheit in unseren britischen Treuhandschaften verringern, indem wir ihren Offizieren die Übernahme in unsere Streitkräfte in einem gleichwertigen Rang anbieten. Sie werden sich weniger als Untertanen fühlen, und wir erhalten eine Fülle von gut ausgebildeten Offizieren."
-
- MAF_disarm_the_british: "Auflösung der Paramilitärs"
- MAF_disarm_the_british_desc: "Schon vor unserer Ankunft bemühte sich die britische Bevölkerung in Kenia und Nordrhodesien, ihre Sicherheit durch "Schützenvereine", Hilfspolizeiverbände und paramilitärische Organisationen zu gewährleisten. Diese rüpelhaften Organisationen, die nicht den Anschein einer zentralen Führung haben, richten ebenso viel Schaden an wie sie Gutes tun. Es ist an der Zeit, ihrer Schreckensherrschaft ein Ende zu setzen."
-
- MAF_british_volunteers: "Britische Freiwillige"
- MAF_british_volunteers_desc: "Der andauernde transatlantische Konflikt hat den Patriotismus unserer einst allzu sesshaften britischen Untertanen geweckt, und viele wollen für diese oder jene Sache zu den Waffen greifen. Da wir und ihr Exilvaterland auf der gleichen Seite des Konflikts stehen, dürfte es uns nicht schaden, eine Handvoll Truppentransporte zu organisieren, um sie näher an den Konflikt heranzuführen."
-
-MAF_Deal_With_British: "Umgang mit den Briten"
-MAF_Deal_With_British_desc: "Nachdem wir uns nun mit den Briten und ihren kleinen Jagdclubs befasst haben, ist es an der Zeit, unsere Vereinbarung mit ihnen dauerhaft zu machen."
-
- ### Black Monday
-MAF_University_Kinshasa: "Lovanium Universität"
-MAF_University_Kinshasa_desc: "Die Belgier haben in der Hauptstadt des Kongo eine Berufsschule eingerichtet. Ihre formelle Integration in unsere Verwaltung wird das technologische Wachstum fördern."
-
- MAF_rail_expansion: "Erweiterung des Fahrzeugparks"
- MAF_rail_expansion_desc: "Während das Schienennetz, das den dunklen Kontinent durchzieht, seit dem Beginn des Kolonialismus exponentiell gewachsen ist, sind es die Züge selbst, die langsam veraltet sind. Wir werden das ändern, indem wir Züge aus Europa importieren."
-
-MAF_Cape_Cairo: "Kap-Kairo Eisenbahn"
-MAF_Cape_Cairo_desc: "Es ist Zeit zu beenden, was die Briten begonnen haben. Die Kap-Kairo Eisenbahn wird zu einem massiven Wirtschaftswachstum auf dem gesamten Kontinent führen. Zuerst müssen wir die Infrastruktur um Daressalam herum aufbauen."
+ MAF_East_Asian_Exports: "Ostasien-Exporte"
+ MAF_East_Asian_Exports_desc: "Wir sind nur ein Teil des riesigen deutschen Kolonialreichs. Wir sollten darauf achten, dass unser Handel nicht nur in die Metropole geht, sondern auch die Chancen im Osten nutzt."
 
 MAF_Industrial_Development: "Industrielle Entwicklung"
 MAF_Industrial_Development_desc: "Mit unserem neuen Budget können wir die Industrien Mittelafrikas entwickeln."
@@ -573,13 +524,17 @@ MAF_Light_Industrial_Development_desc: "Um uns von unseren wirtschaftlichen Prob
 MAF_Continue_Industrial_Research: "Setzen Sie die industrielle Forschung fort"
 MAF_Continue_Industrial_Research_desc: "Es ist Zeit, neue Industrietechnologien zu erforschen und zu entwickeln."
 
-MAF_War_Industries: "Kriegsindustrie"
-MAF_War_Industries_desc: "Die Welt nähert sich dem Krieg, und wir können bei der Entwicklung von Waffen nicht zurückbleiben."
+MAF_Grant_Cons_FW: "Belgische Firmen"
+MAF_Grant_Cons_FW_desc: "Durch die Gewährung von Autonomie- und Sicherheitsrechte der belgischen Konglomerate über entlegene Teile des Kongo können wir eine diszipliniertere Belegschaft sicherstellen."
+
+MAF_University_Kinshasa: "Lovanium Universität"
+MAF_University_Kinshasa_desc: "Die Belgier haben in der Hauptstadt des Kongo eine Berufsschule eingerichtet. Ihre formelle Integration in unsere Verwaltung wird das technologische Wachstum fördern."
 
  ### Military
 MAF_Military_Reforms: "Militärische Reformen"
 MAF_Military_Reforms_desc: "Es ist Zeit, unsere Armee für ein neues Zeitalter der Kriegsführung zu modernisieren."
 
+ ## Air
 MAF_Establish_Airforce: "Afrikanisches Fliegerkorps"
 MAF_Establish_Airforce_desc: "Es ist Zeit, ein eigenes Luftkorp zu gründen, das von der deutschen Luftwaffe getrennt ist."
 
@@ -601,28 +556,60 @@ MAF_Afrikan_Air_Industry_desc: "Es ist an der Zeit, unsere eigene, einheimische 
 MAF_endurance_training: "Piloten Ausdauertraining"
 MAF_endurance_training_desc: "Reguläres Piloten-Training wird in Afrika nicht ausreichen. Die großen Entfernungen und extremen Bedingungen erfordern Piloten auf höchstem Niveau, die auch während der längsten Missionen effektiv arbeiten können. Training und Vorbereitung werden der Schlüssel sein."
 
-MAF_Undefeated_Army: "Eine unbesiegte Armee"
-MAF_Undefeated_Army_desc: "In 7 Jahren Krieg haben wir nie eine Niederlage erlebt. Wir müssen diese stolze militärische Tradition fortsetzen!"
+ ## Land
+MAF_Sturdy_Trucks: "Robuste LKW´s"
+MAF_Sturdy_Trucks_desc: "In den unwegsamen Gebieten Afrikas müssen unsere LKWs so robust und beständig wie möglich sein."
 
 MAF_Modern_Artillery: "Modernisierung der Artillerie"
 MAF_Modern_Artillery_desc: "Der Weltkrieg hat gezeigt, dass die Artillerie ein wichtiger Bestandteil der Kriegsführung ist, und unsere muss so gut sein wie jede andere."
 
-MAF_Sturdy_Trucks: "Robuste LKW´s"
-MAF_Sturdy_Trucks_desc: "In den unwegsamen Gebieten Afrikas müssen unsere LKWs so robust und beständig wie möglich sein."
+MAF_Modern_Support_Divs: "Moderne Unterstützungskompanien"
+MAF_Modern_Support_Divs_desc: "Wir müssen unsere Unterstützungskompanien modernisieren. Wir dürfen nicht hinter der Welt zurück gelassen werden."
 
 MAF_Modern_Tactics: "Moderne Taktiken"
 MAF_Modern_Tactics_desc: "Es ist Zeit, unsere Taktik für dieses neue Zeitalter der Kriegsführung zu modernisieren. Wir können uns nicht durch einen Mangel an strategischer Macht besiegen lassen."
 
-MAF_Modern_Support_Divs: "Moderne Unterstützungskompanien"
-MAF_Modern_Support_Divs_desc: "Wir müssen unsere Unterstützungskompanien modernisieren. Wir dürfen nicht hinter der Welt zurück gelassen werden."
+MAF_Improve_Logistics: "Verbesseren der Logistik"
+MAF_Improve_Logistics_desc: "Während des Weltkriegs benötigten wir über 200.000 Träger, um 18.000 Soldaten zu versorgen. Dies erschöpfte unsere Nahrungsvorräte und reduzierte unsere Mobilität auf die Geschwindigkeit, mit der Menschen Artillerie tragen können. Wir können nicht zulassen, dass dies erneut geschieht."
+
+MAF_Electronic_Project: "Elektronisches Spionageprojekt"
+MAF_Electronic_Project_desc: "Mittelafrika ist nicht für eine große Marine geeignet, unsere Küsten sind zu groß, um sie zu beschützen, und unsere Industrie sollte besser für andere Dinge genutzt werden. Eine andere Sache ist die Investition in die Elektrotechnik, die es uns ermöglichen würde, Macht von Afrika aus zu projizieren und unserem Vaterland durch das Sammeln von Informationen zu helfen."
 
 MAF_Light_Infantry: "Leichte Infanterie"
 MAF_Light_Infantry_desc: "Unsere Truppen müssen es gewohnt sein, über unwegsames Gelände zu marschieren und das härteste Klima zu überstehen."
 
+ MAF_Airforce_Infantry: "Aufbau der Luftbeweglichen Infanterie"
+MAF_Airforce_Infantry_desc: "Ludwig von Bockholt, eines der Hauptmitglieder der DKG-Administration, war schon immer ein mutiger Wegbereiter des Luftkampfs. Seine neueste Innovation: Einsatz von Einheiten aus der Luft und Nachschub für ganze Divisionen."
+
 MAF_White_Graveyard: "Friedhof des weiß´n Mannes"
 MAF_White_Graveyard_desc: "Unsere Armee ist auf taktischer Ebene auf den Dschungelkrieg vorbereitet, sowohl in Bezug auf die von uns ausgewählte Ausrüstung als auch in Bezug auf die Vertrautheit und den Widerstand unserer Truppen gegen Tropenkrankheiten. Während andere Armeen den Dschungel fürchten, begrüßen wir ihn."
 
-#Exiled Germany
+MAF_Konigsburg_Gunners: "Die Kanoniere von der SMS Königsberg"
+MAF_Konigsburg_Gunners_desc: "Abgesehen von einigen Schlachten in Flüssen und auf Seen, mit improvisierten Dampfern erlebte der Weltkrieg in Afrika nicht viel Seekrieg. Die Schlüsselschlacht war die Schlacht im Rufiji-Delta, in der die SMS Königsberg schwer beschädigt wurde. Die Besatzung rettete jedoch die Waffen, bevor sie das Schiff versenkte, und diente anschließend als Artillerie- und Infanterieoffiziere. Angesichts dieser einzigartigen Erfahrungen ist es kein Wunder, dass einige unserer Marineoffiziere, wie Richard Wenig, Experten für Marineinfanterietaktiken geworden sind."
+
+MAF_Spirit_Vorbeck: "Der Geist von Lettow-Vorbeck"
+MAF_Spirit_Vorbeck_desc: "Die wichtigste Lehre aus dem Weltkrieg findet sich in keinem technischen Handbuch. Dies zeigt sich in der bloßen Entschlossenheit von General von Lettow-Vorbeck, weiter zu kämpfen, egal wie schlimm die Situation gewesen sein mag. 1916 erklärte die Entente die Lage in Afrika für vorbei. 1919 standen wir immer noch und kämpften immer noch. Wir haben nie aufgegeben und werden es auch nie tun!"
+
+ ## Sea
+MAF_Port_Renovation: "Hafensanierung"
+ MAF_Port_Renovation_desc: "Im Zeitalter der kohlebefeuerten Seestreitkräfte waren vorgeschobene Stützpunkte von entscheidender Bedeutung. Ein ausgedehntes Netz von Hafenanlagen ermöglichte es dem Reich, seine Macht über die Meere zu projizieren.\n\nHeutzutage müssen Schiffe nicht mehr alle paar hundert Kilometer auftanken, so dass viele unserer Hafenanlagen auf der Strecke geblieben sind. Es ist Zeit für einige Renovierungen."
+
+MAF_Our_Own_Dockyards: "Unsere eigenen Werften"
+MAF_Our_Own_Dockyards_desc: "Mit den richtigen Investitionen können wir unsere eigenen Marinewerften errichten und zu jedem neuen Wettrüsten der Marine beitragen."
+
+MAF_Acquire_New_Blueprints: "Neue Entwürfe beschaffen"
+MAF_Acquire_New_Blueprints_desc: "Durch den Ankauf von Schiffen von deutschen Werften und den Kauf veralteter Schiffe von der Kaiserlichen Marine können wir die deutsche Wirtschaft ankurbeln und gleichzeitig unsere eigene Marineindustrie stärken."
+
+MAF_Naval_Aerial_Observation: "Marine Luftüberwachung"
+MAF_Naval_Aerial_Observation_desc: "Aufbauend auf der Stärke, viele Schiffsrouten zu kontrollieren, sollten wir unsere Beobachtungs- und Kontrollfähigkeit mit Marineflugzeugen verbessern. Früher wurden diese Operationen über Luftschiffe durchgeführt, die von Commodore Bockholt befohlen wurden. Dank der technologischen Fortschritte sind Langstreckenflugzeuge und Flugboote heute der Schlüssel. Herkömmliche deutsche Marineflugzeuge sind für die relativ kurzen Strecken der Nordsee ausgelegt. Wir müssen unsere Fabriken entwickeln, um Flugzeuge an unsere eigenen Bedürfnisse anzupassen."
+
+MAF_Strategic_Reserve: "Strategische Ressourcen Reserve"
+MAF_Strategic_Reserve_desc: "Im letzten Krieg abgeschnitten von Deutschland, mussten wir unsere eigenen Vorräte improvisieren. Wir haben Wege gefunden, Torpedos, Artilleriegeschosse, Farbstoffe, Liköre und Lebensmittel aus praktisch nichts herzustellen. Wir sollten diese Tradition fortsetzen und Wege finden, die Herstellung von Waren zu improvisieren, wenn wir wieder vom Vaterland abgeschnitten sind."
+
+MAF_Sailing_With_Marine: "Segeln mit der Kaiserlichen Marine"
+MAF_Sailing_With_Marine_desc: "Unsere Schiffe sollten nicht einfach in den örtlichen Gewässern patrouillieren. Wir sollten sie von Kiel nach Tsingtau zu Übungen mit der Kaiserlichen Marine schicken."
+
+### Exiled Germany
  MAF_darkest_hour: "Unsere dunkelste Stunde"
  MAF_darkest_hour_desc: "Wir wurden aus unserer Heimat vertrieben und mussten wie Ratten vor den syndikalistischen Horden fliehen. Dies ist wahrlich die dunkelste Stunde, die unser Land je erlebt hat. Lasst uns diejenigen um uns scharen, die unserer Sache treu bleiben, mit dem Versprechen, unser Land zurückzuerobern, als Schlachtruf."
  MAF_kili: "Der Schuss am Kilimandscharo"
@@ -667,11 +654,11 @@ MAF_White_Graveyard_desc: "Unsere Armee ist auf taktischer Ebene auf den Dschung
 ### Events ###
 ## Bush War Events ##
 mittel.1.t: "Die Mosambik-Situation"
-mittel.1.d: "Während des Weltkriegs war die Situation in Afrika wirklich paradox. Der Krieg in Ostafrika endete in einer Pattsituation, in der die Entente Deutsch-Ostafrika besetzte, während wir Mosambik besetzten. Beide Seiten rekrutierten tausende von Afrikanern aus "feindlichem" Gebiet als Träger, bewaffnete Wachen oder Soldaten. Nach dem Krieg mussten wir diejenigen bestrafen, die sich der Seite der Entente angeschlossen hatten. Jetzt sind viele dieser Eingeborenen über die Grenze nach Mosambik vertrieben worden, und es gibt Gerüchte, dass die neue extremistische Regierung in Portugal plant, sie gegen uns zu bewaffnen."
+mittel.1.d: "Während des Weltkriegs war die Situation in Afrika wirklich paradox. Der Krieg in Ostafrika endete in einer Pattsituation, wobei die Entente Deutsch-Ostafrika und wir Mosambik besetzten. Beide Seiten rekrutierten Tausende von Afrikanern aus dem "feindlichen" Gebiet als Träger, bewaffnete Wächter oder Soldaten, und nach dem Krieg mussten wir diejenigen bestrafen, die sich auf die Seite der Entente stellten. Jetzt sind viele dieser Eingeborenen über die mosambikanische Grenze vertrieben worden, und es gibt Gerüchte, dass die neue extremistische Regierung in Portugal plant, sie gegen uns zu bewaffnen."
 mittel.1.a: "Wir müssen uns vorbereiten."
 
 mittel.2.t: "Die Mosambik Situation"
-mittel.2.d: "Während des Weltkrieges war die Situation in Afrika wirklich paradox. Der Krieg in Ostafrika endete in einer Pattsituation, in der die Entente Deutsch-Ostafrika besetzte, während die Deutschen unser Mosambik besetzten. Beide Seiten rekrutierten Tausende von Afrikanern aus "feindlichem" Gebiet als Träger, bewaffnete Wachen oder Soldaten. Nach dem Krieg führten die Hunnen grausame Repressalien gegen die Eingeborenen durch, die sich unserer Seite anschlossen. Seitdem sind tausende dieser Eingeborenen über die Grenze nach Mosambik geflohen, wo sie jetzt in Lagern leben. Diese Eingeborenen sind eine gute Gelegenheit um in Mittelafrika Unheil zu stiften, da viele von ihnen immer noch Rache für das wollen, was die Hunnen ihnen angetan haben."
+mittel.2.d: "Während des Ersten Weltkriegs war die Situation in Afrika wirklich paradox. Der Krieg in Ostafrika endete in einer Pattsituation, wobei die Entente Deutsch-Ostafrika und die Deutschen unser Mosambik besetzten. Beide Seiten rekrutierten Tausende von Afrikanern aus dem 'Feindesland' als Träger, bewaffnete Wächter oder Soldaten, und nach dem Krieg führten die Hunnen grausame Vergeltungsangriffe auf die Eingeborenen durch, die sich auf unsere Seite gestellt hatten. Seitdem sind Tausende dieser Eingeborenen über die Grenze nach Mosambik geflohen, wo sie jetzt in Lagern leben. Diese Eingeborenen sind eine gute Gelegenheit, in Mittelafrika Unfrieden zu stiften, denn viele von ihnen wollen sich noch immer für das rächen, was die Hunnen ihnen angetan haben."
 mittel.2.a: "Lasst uns einen Plan entwerfen..."
 
 mittel.3.t: "Eine Chance für Unheil in unseren rechtmäßigen Gebieten"
@@ -680,28 +667,28 @@ mittel.3.a: "Bewaffne sie so weit wie möglich."
 mittel.3.b: "Kümmert euch um diese Unruhestifter."
 
 mittel.4.t: "Polizist erschossen in Lusaka!"
-mittel.4.d: "Ein Angehöriger des Stammes der Makonde hat einen unserer Polizisten in Lusaka erschossen! Die Stadt steht immer noch unter Schock, und der Täter sowie zahlreiche Unterstützer werden nun von der örtlichen Polizei zur Untersuchung festgenommen. Es wird vermutet, dass er die Waffe von jenseits der Grenze in Portugals Kolonien erworben hatte."
+mittel.4.d: "Ein Makonde-Stammesangehöriger hat einen unserer Polizeibeamten in Lusaka erschossen! Die Stadt steht immer noch unter Schock, und der Täter wird nun zusammen mit zahlreichen Anhängern von der örtlichen Polizei zur Untersuchung festgehalten. Es wird vermutet, dass er die Waffen jenseits der Grenze, in den portugiesischen Kolonien, erworben hat."
 mittel.4.a: "Schrecklich!"
 
 mittel.5.t: "Ein weiterer Polizist wurde erschossen!"
-mittel.5.d: "Ein anderer Polizist, diesmal aus Lilongwe, wurde von einem radikalisierten Eingeborenen erschossen, der Mitglied des Makonde-Stammes ist. Die Ursache seiner Radikalisierung und die Quelle seiner Waffe werden noch untersucht, es ist jedoch möglich, dass er sie aus Portugal erhalten hat."
+mittel.5.d: "Ein weiterer Polizist, diesmal aus Lilongwe, wurde von einem radikalisierten Einheimischen, einem Mitglied des Makonde-Stammes, erschossen. Die Ursache für seine Radikalisierung und die Herkunft seiner Waffen werden noch untersucht, aber es ist möglich, dass er sie aus Portugal erhalten hat."
 mittel.5.a: "Das ist ein Skandal!"
 
 mittel.6.t: "Ein dritter Polizist wurde erschossen!"
-mittel.6.d: "Die Tragödie hat Daressalam schwer getroffen! Zum dritten Mal wurde ein Polizist erschossen: diesmal wieder von einem Mitglied des Makonde-Stammes. Die Polizei von Daressalam sucht nun nach dem Mörder und der Ursache des Angriffs. Eine portugiesische Beteiligung wird vermutet."
+mittel.6.d: "Eine Tragödie hat Dar-es-Salaam heimgesucht! Zum dritten Mal wurde ein Polizeibeamter erschossen, dieses Mal von einem Angehörigen des Makonde-Stammes. Die Polizei von Dar-es-Salaam sucht nun nach dem Mörder und der Ursache des Anschlags; es wird eine portugiesische Beteiligung vermutet."
 mittel.6.a: "Das kann so nicht weitergehen!?"
 
-mittel.7.t: "Njassaland Plantage verbrannt!"
-mittel.7.d: "Eine Kaschuplantage in Njassaland wurde von Banditen niedergebrannt, die von jenseits der portugiesischen Grenze operieren. Sie haben so viel wie möglich von der kürzlich geernteten Ernte mitgenommen, den Rest verbrannt und sind zurück ins portugiesische Mosambik geflohen."
+mittel.7.t: "Njassaland Plantage niedergebrannt!"
+mittel.7.d: "Die 'Banditen' haben nicht einmal mehr Angst vor der berühmten Macht unserer Askari! Sie haben eines unserer Militärdepots überfallen und Vorräte gestohlen und sind mit den Vorräten zurück in ihr Lager in Mosambik geflohen."
 mittel.7.a: "Etwas muss unternommen werden!"
 
 mittel.8.t: "Militärdepot überfallen!"
-mittel.8.d: "Die 'Banditen' fürchten nicht einmal die berühmte Macht unserer Askari! Sie haben eines unserer Militärdepots überfallen und Vorräte gestohlen. Sie sind mit den Vorräten zurück in ihr Lager in Mosambik geflohen."
-mittel.8.a: "Portugal muss dem ein Ende setzen!"
+mittel.8.d: "Wir sollten eine formelle Beschwerde gegen Portugal einreichen. Das Fortbestehen dieser 'Banditenlager' ist eine klare Bedrohung für unsere Kolonie. Wenn sie nicht in der Lage sind, mit ein paar Banditen fertig zu werden, sind sie eindeutig nicht geeignet, eine Kolonialmacht zu sein."
+ mittel.8.a: "Portugal muss dem ein Ende setzen!"
 
 mittel.9.t: "Die portugiesische Frage"
 mittel.9.d: "Wir sollten eine formelle Beschwerde gegen Portugal einreichen. Das Fortbestehen dieser "Banditen" -Lager ist eine klare Bedrohung für unsere Kolonie. Wenn sie nicht mit ein paar Banditen umgehen können, sind sie eindeutig nicht dazu geeignet, eine Kolonialmacht zu sein."
-mittel.9.a: "Wir werden das bis nach Berlin bringen!"
+mittel.9.a: "Wir werden das bis nach Berlin tragen!"
 
 mittel.10.t: "Der portugiesisch-mittelafrikanische Streit"
 mittel.10.d: "Unser mittelafrikanischer Statthalter ist mit einer Bitte um Hilfe zu uns gekommen. Er spricht davon, dass Portugal Banditen unterstützt, die die deutsche und afrikanische Polizei ermorden und unsere Herrschaft in Afrika gefährden. Was sollen wir tun?"
@@ -727,7 +714,7 @@ mittel.13.a: "Wer wusste, dass Afrika so kompliziert ist, egal, fordern Sie, das
 
 mittel.14.t: "Das Auswärtige Amt erklärt die Angelegenheit für gelöst"
 mittel.14.d: "Die Portugiesen wurden von der Berliner Regierung zum Rücktritt gezwungen, es scheint der richtige Weg gewesen zu sein, mit ihnen zu sprechen."
-mittel.14.a: "Danke, mein Kaiser!"
+mittel.14.a: "Heil, Kaiser, Dir!"
 
 mittel.1401.t: "Wir müssen zurückweichen"
 mittel.1401.d: "Nachdem wir uns mit der deutschen Regierung in dieser Angelegenheit berateen haben, haben wir keine andere Wahl, als ihrer Bitte zu folgen und mit unseren Angriffen aufzuhören."
@@ -950,11 +937,14 @@ mittel.54.a: "Die neue Kolonialregierung bleibt!"
 mittel.54.b: "Die Alte Garde weiß es am besten!"
 mittel.54.c: "Reform ist der neue Weg nach vorne!"
 
+ mittel.541.t: "Cheat-Ereignis"
+ mittel.541.d: "Damit ist garantiert, dass ein Nicht-NatPop-MAF implodiert, wenn er in den Regeln so eingestellt ist."
+ mittel.541.a: "Kabumm."
+
 mittel.55.t: "Ein NKR Statthalter"
 mittel.55.d: "Während von Göring in Ungnade gefallen sein mag, bleibt unser größeres Kolonialprojekt für Mittelafrika bestehen. Wir brauchen immer noch eine starke, vorausschauende Führung, um die Kontrolle zu übernehmen. Wem können wir vertrauen?"
 mittel.55.a: "Ernst Jünger, der berühmte Autor und Soldat!"
 mittel.55.b: "Schicken sie den alten General, Franz Ritter von Epp."
-mittel.55.c: "Schicken sie Fritz Thyssen, um die Geschäftsinteressen in Afrika zu schützen."
 
 mittel.56.t: "Ein neuer Statthalter"
 mittel.56.d: "Der Kaiser hat Generalmajor Ernst Jünger zu unserem neuen Statthalter ernannt. Jünger wurde für seinen Dienst im Weltkrieg mit dem Pour le Mérite ausgezeichnet und ist so etwas wie ein Renaissance-Mann. Er ist sowohl ein versierter Autor mit seinem Bestseller "In Stahlgewittern" als auch ein ausgebildeter Entomologe, der seine Zeit in Afrika nutzt, um zahlreiche Arten zu entdecken und zu dokumentieren, während er unseren Askari in die "Sturmtruppen-Taktik" einführt. Jünger trennte sich von der deutschen Armee nach einem Streit, über eine Reihe von Artikeln, die in der Mitte der 20er Jahre in Militärzeitschriften veröffentlicht wurden.\n\nDa er den Generalstab nicht überzeugen konnte, seine Ansichten zu übernehmen, wechselte er nach Afrika, wo er seine Theorien über die Bedeutung der Psychologie in der modernen Kriegsführung freier umsetzen konnte. Als Mitglied der Neuen Kolonialregierung wird Ernst Jünger einen so genannten "neuen Abenteuergeist" in die Kolonialisierung Afrikas einbringen und uns bei der Reform unserer Infanterietaktik helfen."
@@ -963,10 +953,6 @@ mittel.56.a: "Alle grüßen den neuen Statthalter!"
 mittel.57.t: "Ein neuer Statthalter"
 mittel.57.d: "Der Kaiser hat Franz Ritter von Epp zu unserem Statthalter ernannt. Ritter von Epp, ein ehemaliger General und aktueller Politiker, kämpfte im Herero-Aufstand und der darauf folgenden Unterdrückung und verdiente sich den Pour le Mérite für seinen Dienst im Weltkrieg. Nach dem Krieg ernannte ihn Bundeskanzler Ludendorf zum ersten Nachkriegsgouverneur von Kamerun. Ritter von Epp kehrte nach dreijähriger Amtszeit als Gouverneur nach Deutschland zurück, wandte sich der Politik zu, finanzierte die Schaffung mehrerer patriotischer Zeitungen und diente in der bayerischen Kammer als kaiserlichen Ratgeber. Ritter von Epp hat nie versucht, seine enge Verbindung zur Ludendorfer-Diktatur zu verbergen, und bleibt ein ausgesprochener Entschuldiger für Ludendorf. Er ist eine umstrittene, fast kriegerische Figur, aber der Kaiser hat entschieden, dass ein kämpfender Mann das ist, was Afrika braucht. Als Unterstützer der Neuen Kolonialregierung bringt Franz Ritter jahrelange militärische Erfahrung und Dienst für seinen Posten mit."
 mittel.57.a: "Willkommen in Afrika, von Epp."
-
-mittel.58.t: "Ein neuer Statthalter"
-mittel.58.d: "Der Kaiser hat Fritz Thyssen zu unserem Statthalter ernannt. Der Eigentümer der Vereinigten Stahlwerke, Thyssen ist eine herausragende Persönlichkeit in der Welt des deutschen Handels. Er war Leiter des Verbandes der Deutschen Eisen- und Stahlindustrie und Vorstandsmitglied der Reichsbank. Er war auch in der Politik aktiv und unterstützte rechte Parteien und Zeitungen finanziell. Er bricht jedoch in seiner ausgesprochenen Unterstützung für höhere Löhne und Belohnungen für die Arbeitnehmer von rechts ab. Er glaubt, wie Bismarck vor ihm, dass die Bedrohung durch den Sozialismus durch die Gewährleistung eines angemessenen Lebensstandards für seine Arbeiter abgewendet werden kann. Thyssen behauptet, es habe den zusätzlichen Vorteil, dass gut bezahlte Arbeitnehmer mehr in Deutschland hergestellte Produkte kaufen können, was die Wirtschaft ankurbelt. Einige nennen dieses Modell der Bezahlung von Arbeitnehmern, die hoch genug sind, um Industrieproduktion zu kaufen und Loyalität zu gewährleisten, "Thyssenismus". Fritz Thyssen ist seit langem mit der Neuen Kolonialregierung verbunden, und es kursieren Gerüchte, dass er Hermann von Görings Aufstieg in der Politik mitfinanziert habe oder dass er an dem im „Schwarzen Dossier“ behaupteten finanziellen Bestechungsfond beteiligt war. Keine dieser Behauptungen wurde bisher bewiesen, und der Kaiser hat Thyssen zum Statthalter ernannt, mit besonderem Augenmerk auf die Steigerung der Bergbauproduktion im Kongo."
-mittel.58.a: "Wilkommen in Afrika, Thyssen."
 
 mittel.59.t: "Ein DKG Statthalter"
 mittel.59.d: "Die alte Garde sorgte für Stabilität und Ordnung in Afrika, wenn auch nicht für die radikale Veränderung, auf die die Menschen gehofft hatten. Nach dieser letzten Krise brauchen wir jemanden, der Afrika genau kennt und verantwortungsbewusst führen kann."
@@ -1268,7 +1254,7 @@ mittel.172.t: "[TZN.GetNameDef] lehnt das Friedensangebot ab"
 mittel.172.d: "[TZN.GetNameDef] hat das Friedensangebot abgelehnt; der Krieg wird weitergehen."
 mittel.172.a: "Das ist eine Schande..."
 
-mittel.173.t: "Deutschland akzeptiert Göring... gerade so"
+mittel.173.t: "Deutschland akzeptiert von Göring... Einfach"
 mittel.173.d: "Deutschland hat widerwillig zugestimmt, die Angelegenheit vorerst fallen zu lassen. Wahrscheinlich dachten sie, es sei die Mühe nicht wert, aber viele in unserer Regierung sind nicht glücklich und wir haben uns heute in Berlin Feinde gemacht. Immerhin; Wir bleiben an der Macht."
 mittel.173.a: "Natürlich tun wir das!"
 
@@ -1277,12 +1263,12 @@ mittel.174.d: "Es scheint, dass die Portugiesen der Macht unserer kombinierten A
 mittel.174.a: "Hervorragend!"
 
 mittel.176.t: "Das 1937er Budget"
-mittel.176.d: "Zu Beginn des Jahres 1937 stehen wir vor einer schwierigen Wahl. Unsere Wirtschaft war sowieso nicht sehr stark, und der Schwarze Montag hat unser Produktionspotential für den größten Teil des letzten Jahres zunichte gemacht. In Zukunft müssen wir uns stattdessen auf die militärische Produktion konzentrieren oder unsere begrenzten Ressourcen für die Reparatur der Zivilwirtschaft einsetzen."
+mittel.176.d: "Zu Beginn des Jahres 1937 stehen wir vor einer schwierigen Entscheidung. Unsere Wirtschaft war von Anfang an nicht stark, und die Rezession hat das Produktionspotenzial, das wir während des größten Teils des letzten Jahres hatten, zunichte gemacht. In Zukunft werden wir uns entscheiden müssen, ob wir uns auf die militärische Produktion konzentrieren oder unsere begrenzten Ressourcen stattdessen für den Wiederaufbau der zivilen Wirtschaft einsetzen."
 mittel.176.a: "Konzentrieren wir uns auf den militärischen Aufbau."
 mittel.176.b: "Eine langfristige Investition ist sinnvoller."
 
 mittel.178.t: "Das 1938er Budget"
-mittel.178.d: "Der Schwarze Montag war vor zwei Jahren, und dennoch sind seine Auswirkungen immer noch sichtbar. Die Wirtschaft kommt langsam wieder auf Kurs, aber wir befinden uns in der gleichen Situation wie zuvor. Sollen wir uns in diesem Jahr auf militärische oder zivile Angelegenheiten im Haushalt konzentrieren?"
+mittel.178.d: "Zwei Jahre sind seit dem Schwarzen Montag vergangen, und doch sind die Auswirkungen der Rezession noch immer spürbar. Die Wirtschaft kommt langsam wieder in Schwung, aber wir befinden uns in der gleichen Situation wie zuvor. Sollen wir uns dieses Jahr im Haushalt auf militärische oder zivile Angelegenheiten konzentrieren?"
 mittel.178.a: "Deutschland braucht unsere Armee!"
 mittel.178.b: "Setz mehr Ressourcen für die Verbesserung unserer Infrastruktur ein."
 
@@ -1295,7 +1281,7 @@ mittel.180.d: "Krieg ist gut fürs Geschäft, sagen manche, andere sagen, er sei
 mittel.180.a: "Lasst uns Deutschland stolz machen!"
 
 mittel.181.t: "Die Proklamation des souveränen Statthalters"
-mittel.181.d: "An diesem Abend sprach Hermann Göring in einer Rundfunkrede im Radio über ganz Mittelafrika, wobei Kopien schnell ihren Weg auf dem gesamten Kontinent fanden. Was als formelle, typische Ansprache begann, änderte sich schnell, und der Statthalter prangerte abrupt die "schädlichen partikularistischen Elemente" auf dem Kontinent an. Die Rede endete mit einer offiziellen Proklamation: Alle Verträge, Titel und Privilegien der afrikanischen Königreiche und ihrer Untertanen verfallen nun "bedingungslos", und alle ehemaligen Titelträger werden voraussichtlich innerhalb der Woche einen Treueid ablegen. Dies markiert eine scharfe Wende in der mittelafrikanischen Kolonialpolitik und wird mit Sicherheit schwerwiegende Folgen haben. Wir haben aufgehört, Mitteilungen vom größten Teil des Kontinents zu erhalten, vermutlich weil sie protestieren ..."
+mittel.181.d: "An diesem Abend sprach Hermann von Göring in einer Rundfunkrede im Radio über ganz Mittelafrika, wobei Kopien schnell ihren Weg auf dem gesamten Kontinent fanden. Was als formelle, typische Ansprache begann, änderte sich schnell, und der Statthalter prangerte abrupt die "schädlichen partikularistischen Elemente" auf dem Kontinent an. Die Rede endete mit einer offiziellen Proklamation: Alle Verträge, Titel und Privilegien der afrikanischen Königreiche und ihrer Untertanen verfallen nun "bedingungslos", und alle ehemaligen Titelträger werden voraussichtlich innerhalb der Woche einen Treueid ablegen. Dies markiert eine scharfe Wende in der mittelafrikanischen Kolonialpolitik und wird mit Sicherheit schwerwiegende Folgen haben. Wir haben aufgehört, Mitteilungen vom größten Teil des Kontinents zu erhalten, vermutlich weil sie protestieren ..."
 mittel.181.a: "Es ist Zeit, Ordnung zu schaffen, ob sie es mögen oder nicht!"
 
 mittel.182.t: "Afrika wird ruhig"
@@ -1315,13 +1301,15 @@ mittel.187.d: "Nach dem dramatischen und totalen Zusammenbruch von Mittelafrika 
 mittel.187.a: "Wunderbar!"
 
 ## DKAEB Events ##
-mittel.189.t: "Die DKAEB-Eisenbahn steht vor dem Bankrott"
-mittel.189.d: "Die Deutsche Kaiserliche Abessinien Eisenbahn (DKAEB) wurde Anfang des 20. Jahrhunderts gegründet und verbindet Addis Abeba in Äthiopien mit Dschibuti. Nach einer Reihe von Erweiterungen mit deutscher Unterstützung wird sie heute hauptsächlich für den Transport von Erzen aus dem Kongobecken in Mittelafrika nach Dschibuti genutzt. Der derzeitige wirtschaftliche Abschwung in der Welt hat dazu geführt, dass Erze nicht mehr in dem Maße gekauft werden wie früher, was zu weniger Transporten für die DKAEB führt. Die DKAEB hat finanzielle Schwierigkeiten, und einige Vorstandsmitglieder sind an die Regierung in Dar es-Salaam herangetreten, um ihre Anteile an unsere Kolonie zu verkaufen. Sollen wir akzeptieren?"
+ DKAEB_intro: "Die Anfang des 20. Jahrhunderts gegründete Deutsche Kaiserliche Abessinien Eisenbahn (DKAEB) ist eine Holdinggesellschaft, die die Eisenbahnlinie zwischen Addis Abeba in Äthiopien und Dschibuti betreibt. Nach einer Reihe von Erweiterungen mit deutscher Unterstützung wird die Strecke nun für den Transport von Erzen aus dem Kongobecken nach Dschibuti genutzt. Der derzeitige wirtschaftliche Abschwung hat dazu geführt, dass Erz nicht mehr in demselben Maße wie früher gekauft wird, so dass die DKAEB weniger Transporte durchführen muss.\n\n"
+
+ mittel.189.t: "DKAEB kurz vor dem Konkurs"
+ mittel.189.d: "$DKAEB_intro$Die DKAEB hat finanzielle Schwierigkeiten, und einige Vorstandsmitglieder haben sich an die Regierung in Dar-es-Salaam gewandt, um ihre Anteile an unsere Kolonie zu verkaufen. Sollten wir das annehmen?"
 mittel.189.a: "Wir müssen schnell handeln, wenn die deutsche Ordnung überleben soll."
 mittel.189.b: "Das Kolonialamt muss konsultiert werden."
 
 mittel.190.t: "Die Mittelafrika-Verwaltung kauft DKAEB-Aktien"
-mittel.190.d: "Die Deutsche Kaiserliche Abessinien Eisenbahn (DKAEB) wurde Anfang des 20. Jahrhunderts gegründet und verbindet Addis Abeba in Äthiopien mit Dschibuti. Nach einer Reihe von Erweiterungen mit deutscher Unterstützung wird sie heute hauptsächlich für den Transport von Erzen aus dem Kongobecken in Mittelafrika nach Dschibuti genutzt. Der derzeitige wirtschaftliche Abschwung in der Welt hat dazu geführt, dass Erze nicht mehr in dem Maße gekauft werden wie früher, was zu weniger Transporten für die DKAEB führt. Um zu verhindern, dass der äthiopische Staat die Kontrolle über die DKAEB erlangt und damit eine wertvolle Handelsverbindung verliert, hat der mittelafrikanische Staat viele Anteile an der Eisenbahn gekauft, um dem angeschlagenen Unternehmen etwas staatlichen Rückhalt zu geben. Mittelafrika jedoch so kurz nach dem Kenyatta-Solf-Fall zu erlauben, einseitig zu handeln, könnte den politisch gefährlichen [MAF.GetLeader] ermutigen."
+mittel.190.d: "$DKAEB_intro$Um zu verhindern, dass der äthiopische Staat die Kontrolle über das DKAEB-Vermögen erlangt, und um den Verlust einer wertvollen Handelsverbindung zu vermeiden, hat die Kolonialverwaltung in Mittelafrika einen großen Anteil an der Eisenbahn erworben, um dem angeschlagenen Unternehmen einen gewissen staatlichen Rückhalt zu geben. Ein einseitiges Vorgehen Mittelafrikas so kurz nach dem Fall Kenyatta-Solf könnte jedoch die politisch gefährlichen [MAF.GetLeader] ermutigen."
 mittel.190.a: "Fordern Sie, dass Mittelafrika die Aktien an Äthiopien verkauft!"
 mittel.190.b: "Sie hätten nicht handeln sollen, aber es war die richtige Aktion."
 
@@ -1330,14 +1318,14 @@ mittel.191.d: "The Colonial Office in Berlin has issued a formal complaint again
 mittel.191.a: "Wir halten den Zug am Laufen, und wenn es das Letzte ist, was wir tun!"
 mittel.191.b: "Nun gut, zurück."
 
-mittel.192.t: "Die DKAEB-Eisenbahn steht vor dem Bankrott"
-mittel.192.d: "Die Deutsche Kaiserliche Abessinien Eisenbahn (DKAEB) wurde Anfang des 20. Jahrhunderts gegründet und verbindet Addis Abeba in Äthiopien mit Dschibuti. Nach einer Reihe von Erweiterungen mit deutscher Unterstützung wird sie heute hauptsächlich für den Transport von Erzen aus dem Kongobecken in Mittelafrika nach Dschibuti genutzt. Der derzeitige wirtschaftliche Abschwung in der Welt hat dazu geführt, dass nicht mehr so viel Erz eingekauft wird wie früher, was zu weniger Transporten für die DKAEB führt. Um zu verhindern, dass Äthiopien uns entgleitet, hat Dar es-Salaam darum gebeten, tätig werden zu dürfen. Während die meisten in Berlin der Meinung sind, dass die Angelegenheit auf lokaler Ebene gehandhabt werden kann, würden andere es vorziehen, dass das Kolonialamt die Entscheidung trifft, was auch immer das sein mag."
+mittel.192.t: "DKAEB kurz vor dem Konkurs"
+mittel.192.d: "$DKAEB_intro$Um zu verhindern, dass Äthiopien unserem Zugriff entgleitet, hat Dar-es-Salaam darum gebeten, handeln zu dürfen. Während die meisten in Berlin der Meinung sind, dass die Angelegenheit vor Ort geregelt werden kann, würden andere es vorziehen, dass das Kolonialamt die Entscheidung trifft, wie auch immer diese ausfallen mag."
 mittel.192.a: "Ist Mittelafrika nicht für mittelafrikanische Angelegenheiten zuständig?"
 mittel.192.b: "Verkaufen Sie die Regierungsanteile an Äthiopien."
 mittel.192.c: "Mittelafrika soll die Aktien übernehmen."
 
 mittel.193.t: "Das Kolonialamt weigert sich, sich zu engagieren"
-mittel.193.d: "Es scheint, dass niemand in Berlin die Verantwortung für eine Entscheidung über den Kauf der DKAEB-Anteile übernehmen wollte. Sie haben das Problem an uns zurückgeschoben und uns gesagt, dass sie dem Urteil von Statthalter [MAF.GetLeader] in dieser Angelegenheit vertrauen. Wenn wir die Eisenbahn behalten würden, müssten wir wahrscheinlich Zeit damit verbringen, sie über Wasser zu halten, die wir sonst damit verbringen könnten, die Auswirkungen des Schwarzen Montags zu stoppen, aber wenn wir nichts tun, würden wir die Äthiopier als einen möglichen Verbündeten verlieren."
+mittel.193.d: "Es scheint, dass niemand in Berlin die Verantwortung für eine Entscheidung über den Kauf der DKAEB-Aktien übernehmen wollte. Sie haben das Problem auf uns abgewälzt und uns gesagt, dass sie dem Urteil des Gouverneurs [MAF.GetLeader] in dieser Angelegenheit vertrauen. Wenn wir die Kontrolle über die Eisenbahn behalten würden, müssten wir wahrscheinlich Ressourcen und Zeit aufwenden, um sie am Leben zu erhalten, die wir sonst für die Verbesserung unserer wirtschaftlichen Situation verwenden könnten, aber wenn wir nichts tun, würden wir die Äthiopier als möglichen Verbündeten verlieren."
 mittel.193.a: "Wir werden die Kontrolle über die Eisenbahn übernehmen."
 mittel.193.b: "Wir werden die staatliche Unterstützung für das DKAEB kürzen."
 
@@ -1357,7 +1345,7 @@ mittel.196.d: "Das Kolonialamt hat uns eine formelle Beschwerde über unsere Ent
 mittel.196.a: "Wir haben unsere Entscheidung bereits getroffen."
 
 mittel.197.t: "Die DKAEB-Eisenbahn meldet Gewinne"
-mittel.197.d: "Das Ende des dritten Quartals war für Mittelafrika insgesamt nicht gut - das Ausbleiben jeglicher wirtschaftlicher Gegenmaßnahmen zum Schwarzen Montag trifft die gesamte Kolonie hart. Allerdings meldet die DKAEB, dass das Aufkommen an Militär- und Handelswagen bei ihrer Bahn seit dem ersten Quartal gestiegen ist, und es scheint, dass die Investoren wieder Vertrauen in die Bahn haben. Der Plan von Statthalter [MAF.GetLeader] hat sich ausgezahlt."
+mittel.197.d: "Das Ende des dritten Quartals war für Mittelafrika im Allgemeinen nicht gut - das Ausbleiben wirtschaftlicher Heilmittel gegen die anhaltende Rezession trifft die Kolonie als Ganzes hart. Die DKAEB hat jedoch berichtet, dass das Volumen der Militär- und Handelswagen, die von ihrer Eisenbahn geladen werden, seit dem ersten Quartal gestiegen ist, und es scheint, dass die Investoren wieder Vertrauen in die Eisenbahn haben. Der Plan von Gouverneur [MAF.GetLeader] ist aufgegangen."
 mittel.197.a: "Unsere Exportverbindung ist sicher."
 
 mittel.198.t: "Die DKAEB-Bahn geht bankrott!"

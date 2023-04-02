@@ -63,87 +63,126 @@ GRP_defense_core_desc: "Die Armee Guararapes ist hauptsächlich als eine Sammlun
 
 ### National Focuses ###
 GRP_federal_navy: "Konföderierte Marine"
-GRP_dockyard: "Marineproduktion"
-GRP_dubmarina: "U-Boot Technologie"
-GRP_more_dockyards: "Verstärkte Marineproduktion"
-GRP_naval_doctrine_focus: "Konföderation Hohe Admiralität"
-GRP_destroyer: "Anti U-Boot Flottillen"
-GRP_base_air_sea: "Stützpunktbemühungen"
-GRP_castal_forts: "Küstenfestungen"
-GRP_the_federation: "Satzung der Konföderation"
-GRP_institutional_foundations: "Institutionelle Grundlagen"
-GRP_rebuilding_the_equatorial_legacy: "Der Wiederaufbau des ecuatorianischen Erbes"
-GRP_take_over_brs: "Übernahme von brasilianischen Unternehmen"
-GRP_land_redistribution: "Landumverteilung"
-GRP_railways_of_the_sertao: "Verbindet den Sertão"
-GRP_development_effort: "Entwicklungsbemühungen"
-GRP_psi_push: "Schlagt das PSI vor"
-GRP_prospecting: "Mineralienschürfung"
-GRP_battle_famine: "Bekämpft die Hungersnot"
-GRP_education: "Schwerpunkt Bildung"
-GRP_heavy_industrialization: "Schwerindustrialisierung"
-GRP_tanks: "Experimente zur Mobilität"
-GRP_logistical_expansion: "Logistische Erweiterung"
-GRP_sao_luis_paraiba: "São Luis-Parahyba Eisenbahn"
-GRP_desperado_blaster: "Artillerie Fortschritte"
-GRP_e_uma_cilada_bino: "Motorisierungsbemühungen"
-GRP_heavy_arms_industry_effort: "Investitionen in der Schwerindustrie"
-GRP_shining_future: "Unsere leuchtende Zukunft"
-GRP_federal_aiforce: "Konföderierte Luftstreitkräfte"
-GRP_air_academy: "Konföderale Luftakademie"
-GRP_fighter: "Luftüberlegenheit"
-GRP_bomber: "Bombereinsatz"
-GRP_navy_support_bigger_bases: "Unterstützung der Marine"
-GRP_naval_academy: "Marineakademie"
-GRP_federal_army: "Konföderierte Armee"
-GRP_guararepes_militia: "Guararapes Miliz"
-GRP_devend_what_is_ours: "Verteidigen, was uns gehört"
-GRP_recruits: "Rekrutierungsbemühungen"
-GRP_equipmentent_renewal: "Erneuerung der Ausrüstung"
-GRP_army_arty: "Artillerie Upgrades"
-GRP_army_doctrine: "Überarbeitung der Armeedoktrin"
-GRP_elite_forces: "Konföderierte Spezialeinheiten"
-
 GRP_federal_navy_desc: "Unsere neue Konföderation liegt an der Schnittstelle zwischen der alten und der neuen Welt. Um sicherzustellen, dass dieser geografische Vorteil nicht zu einer Belastung wird, sollten wir uns auf den Ausbau unserer Marine konzentrieren."
+
+GRP_dockyard: "Marineproduktion"
 GRP_dockyard_desc: "Um den Anforderungen unserer wachsenden Marine gerecht zu werden, müssen die bestehenden Werften ebenfalls ausgebaut werden."
+
+GRP_dubmarina: "U-Boot Technologie"
 GRP_dubmarina_desc: "Unterseeboote, auch als U-Boote bekannt, sind der große Ausgleich im Seekampf und waren entscheidend für den deutschen Sieg im Weltkrieg. Wir müssen unsere eigenen Modelle entwickeln."
+
+GRP_more_dockyards: "Verstärkte Marineproduktion"
 GRP_more_dockyards_desc: "Während unsere anfänglichen Bemühungen, den Bedürfnissen unserer wachsenden Marine gerecht zu werden, einen gewissen Erfolg gezeigt haben, werden immer noch weitere Anlagen benötigt."
+
+GRP_naval_doctrine_focus: "Konföderation Hohe Admiralität"
 GRP_naval_doctrine_focus_desc: "Alle Großmächte der Welt verfügen über koordinierte Oberkommandostrukturen der Marine. Wir müssen ein eigenes Marineoberkommando entwickeln."
+
+GRP_destroyer: "Anti U-Boot Flottillen"
 GRP_destroyer_desc: "Das Schicksal, das wir unseren Feinden mit unserer U-Boot-Flotte zufügen wollen, kann unsere eigene Überwasserflotte ereilen. Wir müssen fortschrittliche Zerstörer haben, die in der Lage sind, diese Bedrohung zu bekämpfen."
+
+GRP_base_air_sea: "Stützpunktbemühungen"
 GRP_base_air_sea_desc: "Unsere neue Marine wird Unterstützung aus der Luft benötigen, um wirklich effektiv zu sein. Wir sollten einen neuen zentralen Luftwaffenstützpunkt bauen, von dem aus wir sie betreiben können."
+
+GRP_castal_forts: "Küstenfestungen"
 GRP_castal_forts_desc: "An jenem schwarzen Tag, an dem ein Feind unsere Flotte besiegt hat, können nur Festungen zwischen unserer Nation und der Zerstörung stehen. Wir müssen unser System von Küstenfestungen ausbauen, um uns vor einem solchen Schicksal zu schützen."
+
+GRP_the_federation: "Satzung der Konföderation"
 GRP_the_federation_desc: "Die konföderale Regierungsform, die wir anstreben und die am besten zum Nordosten passt, ist unglaublich schwierig zu realisieren. Wo Länder wie die Vereinigten Staaten versagt haben, soll es unserer eigenen Nation gelingen, eine funktionierende Konföderation zu entwickeln."
+
+GRP_institutional_foundations: "Institutionelle Grundlagen"
 GRP_institutional_foundations_desc: "Ein solch komplexes Regierungssystem erfordert eine ebenso komplexe Verwaltung. Wir müssen eine konzertierte Anstrengung unternehmen, um eine funktionierende Bürokratie im Einklang mit unseren Idealen zu entwickeln."
+
+GRP_rebuilding_the_equatorial_legacy: "Der Wiederaufbau des ecuatorianischen Erbes"
 GRP_rebuilding_the_equatorial_legacy_desc: "Der Nordosten war das wirtschaftliche Kraftzentrum Brasiliens und sogar des gesamten portugiesischen Reiches. So soll es wieder sein, wenn unsere Regierung mit Verstand auf ein solches Ziel hinarbeitet."
+
+GRP_take_over_brs: "Übernahme von brasilianischen Unternehmen"
 GRP_take_over_brs_desc: "Mit dem Auseinanderbrechen Brasiliens wurden viele Unternehmen auf mehrere unabhängige Regionen aufgeteilt. Diese neuen transnationalen Konzerne müssen ihr Vermögen beschlagnahmt und für die Nation nutzbar gemacht werden."
+
+GRP_land_redistribution: "Landumverteilung"
 GRP_land_redistribution_desc: "Wir müssen nicht nur sicherstellen, dass Unternehmen mit Sitz in anderen Teilen Brasiliens nicht unsere Wirtschaft kontrollieren, sondern die Bevölkerung und einheimische Organisationen müssen die volle Kontrolle über das Land haben, auf dem unsere Lebensmittel angebaut werden."
+
+GRP_railways_of_the_sertao: "Verbindet den Sertão"
 GRP_railways_of_the_sertao_desc: "Im Sertão gibt es keine kommerziellen Eisenbahnen, was viele Gemeinden auf der anderen Seite isoliert. Wir überziehen das Land mit Schienen und bringen Modernität in diese Gemeinden."
+
+GRP_development_effort: "Entwicklungsbemühungen"
 GRP_development_effort_desc: "Ein großer Teil des Sertão könnte erschlossen werden, wenn nur die Infrastruktur vorhanden wäre. Lassen Sie uns ausländische Methoden zur Überwindung solch widriger Bedingungen studieren und sie auf dieses riesige Land anwenden."
+
+GRP_psi_push: "Schlagt das PSI vor"
 GRP_psi_push_desc: "Um die Investitionstätigkeit zu fördern, wurde vorgeschlagen, ein von der Zentralbank verwaltetes Kreditprogramm einzuführen. Lasst uns das Programm umsetzen."
+
+GRP_prospecting: "Mineralienschürfung"
 GRP_prospecting_desc: "Während Städte wie Fortaleza über Stahlgießereien verfügen, muss Eisen oft aus der Ferne importiert werden. Lasst uns Expeditionen finanzieren, um Eisenvorkommen im Nordosten zu finden."
+
+GRP_battle_famine: "Bekämpft die Hungersnot"
 GRP_battle_famine_desc: "Während die Hungersnot in Bahia weitaus schlimmer ist, sind auch unsere eigenen ländlichen Gemeinden häufig von Nahrungsmittelknappheit betroffen. Lasst uns dieser schrecklichen Realität ein Ende setzen."
+
+GRP_education: "Schwerpunkt Bildung"
 GRP_education_desc: "Der Nordosten hat eine erschreckend niedrige Alphabetisierungsrate im Vergleich zum Rest des urbanisierten Brasiliens. Lasst uns eine neue Schulverwaltung einrichten, die sich an den ärmsten Regionen orientiert, um damit zu beginnen, die Lücke zu schließen."
+
+GRP_heavy_industrialization: "Schwerindustrialisierung"
 GRP_heavy_industrialization_desc: "Mit dem nötigen Know-how sollten wir versuchen, den wichtigsten Sektor unserer Konföderation zu entwickeln: die Schwerindustrie."
+
+GRP_tanks: "Experimente zur Mobilität"
 GRP_tanks_desc: "Im Laufe der Entwicklung des Krieges war die Mobilität immer der Schlüssel zum Erfolg. Panzer sind die Ritter der Neuzeit, und wenn wir auf dem Schlachtfeld gewinnen wollen, brauchen wir einige von ihnen."
+
+GRP_logistical_expansion: "Logistische Erweiterung"
 GRP_logistical_expansion_desc: "Um unsere Streitkräfte über einen langen Feldzug hinweg zu versorgen, müssen erhebliche Verbesserungen an unserem logistischen System vorgenommen werden. Unsere Armeen sollen nicht mit leerem Magen kämpfen!"
+
+GRP_sao_luis_paraiba: "São Luis-Parahyba Eisenbahn"
 GRP_sao_luis_paraiba_desc: "Ein Großteil des Zentrums des Landes hat immer noch keine Eisenbahn, selbst nach unseren Bemühungen, die Infrastruktur des Sertão zu verbessern. Lasst uns diese letzte Lücke schließen und die gesamte Konföderation miteinander verbinden."
+
+GRP_desperado_blaster: "Artillerie Fortschritte"
 GRP_desperado_blaster_desc: "Der Weltkrieg hat der Welt die Bedeutung der Artillerie gelehrt. Wir werden diese Lektion nicht vergessen. Wir müssen noch fortschrittlichere Modelle haben."
+
+GRP_e_uma_cilada_bino: "Motorisierungsbemühungen"
 GRP_e_uma_cilada_bino_desc: "Um unsere Panzer zu unterstützen, muss die Infanterie in der Lage sein, sich schnell zu bewegen. Wir werden eine große Anzahl von Ketten benötigen, die auch in unwegsamem Gelände operieren können. Das wird erhebliche Investitionen erfordern."
+
+GRP_heavy_arms_industry_effort: "Investitionen in der Schwerindustrie"
 GRP_heavy_arms_industry_effort_desc: "Die ersten Standorte der Schwerindustrie sind errichtet worden, aber wir brauchen noch mehr. Eine weitere Investitionsrunde ist nötig."
+
+GRP_shining_future: "Unsere leuchtende Zukunft"
 GRP_shining_future_desc: "Die Zukunft ist so hell wie die Köpfe der Menschen, die sie schmieden werden. Wir müssen Mittel für experimentelle Forschung bereitstellen und neue Waffen für Krieg und Frieden gleichermaßen entwickeln."
+
+GRP_federal_aiforce: "Konföderierte Luftstreitkräfte"
 GRP_federal_aiforce_desc: "Während die Luftstreitkräfte früher zur Unterstützung der Marine gegründet wurden, ist die Notwendigkeit eines unabhängigen Arms des Militärs, der eine Vielzahl von Aufgaben erfüllt, offensichtlich geworden."
-GRP_air_academy_desc: "Unsere neue Marineakademie hat Wunder getan, um unsere Doktrin zu fördern. Sie muss erweitert werden, um zukünftige Offiziere für unsere neue Luftwaffe auszubilden."
+
+GRP_air_academy: "Konföderale Luftakademie"
+GRP_air_academy_desc: "Unsere neue Marineakademie hat Wunder getan, um unsere Doktrin zu fördern. Sie muss erweitert werden, um zukünftige Offiziere für unsere neue Luftstreitkraft auszubilden."
+
+GRP_fighter: "Luftüberlegenheit"
 GRP_fighter_desc: "Unsere Luftstreitkräfte sind auf Kampfflugzeuge angewiesen, die denen unserer Feinde völlig unterlegen sind. Wir müssen alles tun, um das zu ändern."
+
+GRP_bomber: "Bombereinsatz"
 GRP_bomber_desc: "Sollten wir jemals jenseits unserer Grenzen mit einer gewissen Effektivität zuschlagen müssen, werden wir entsprechende Bomberdesigns entwickeln müssen. Obwohl dies für eine Nation wie die unsere schwierig sein mag, muss es getan werden."
+
+GRP_navy_support_bigger_bases: "Unterstützung der Marine"
 GRP_navy_support_bigger_bases_desc: "Es werden größere Stützpunkte benötigt, von denen aus unsere zunehmend robuster werdende Flotte von Marineunterstützungsflugzeugen starten kann."
+
+GRP_naval_academy: "Marineakademie"
 GRP_naval_academy_desc: "Nachdem die Marine gut etabliert und die politische Situation geklärt ist, müssen wir die Leistungsfähigkeit unserer Admiralität erhöhen. Um dies zu tun, sollten wir eine zentrale Marineakademie einrichten."
+
+GRP_federal_army: "Konföderierte Armee"
 GRP_federal_army_desc: "In Übereinstimmung mit unserer zutiefst prinzipiellen und einzigartigen Struktur muss unsere Armee auf eine Art und Weise aufgebaut sein, die sich völlig von der Brasiliens oder irgendeiner anderen Nation unterscheidet."
+
+GRP_guararepes_militia: "Guararapes Miliz"
 GRP_guararepes_militia_desc: "Jede Region der Konföderation muss die Freiheit haben, ihre eigenen regionalen Milizen zu rekrutieren, wobei die Ortschaften, in denen sie tätig sind, für die Ausbildung verantwortlich sind. Diese Milizen müssen jedoch unserer zentralen Kommandostruktur unterstellt sein und einen Loyalitätseid nur gegenüber der Zentralregierung ablegen."
+
+GRP_devend_what_is_ours: "Verteidigen, was uns gehört"
 GRP_devend_what_is_ours_desc: "Die Milizen, die sich eher aus dem einfachen Volk als aus einer militärischen Klasse wie in der Vergangenheit rekrutieren, besitzen ein tiefes Wissen über das Land. Dieses Wissen und ihr Wunsch, ihre Heimat vor allem zu verteidigen, werden sie umso effektiver machen, wenn Feinde an unsere Küste kommen."
+
+GRP_recruits: "Rekrutierungsbemühungen"
 GRP_recruits_desc: "Um den Ausbau der Armee in Gang zu bringen, werden wir Freiwillige brauchen. Wir sollten einen Aufruf zum Dienst an die Bevölkerung mit großzügiger Bezahlung veröffentlichen."
+
+GRP_equipmentent_renewal: "Erneuerung der Ausrüstung"
 GRP_equipmentent_renewal_desc: "Die veraltete Ausrüstung, die wir von Brasilien geerbt haben, reicht nicht aus, um die Bedürfnisse einer modernen Armee zu erfüllen. Um die Generalüberholung unserer Ausrüstung anzustoßen, sollten wir unsere kleinen Waffen verbessern."
+
+GRP_army_arty: "Artillerie Upgrades"
 GRP_army_arty_desc: "Die riesigen Geschütze des Weltkriegs waren für die überwiegende Mehrheit der Todesopfer in diesem Krieg verantwortlich. Wir müssen unsere eigenen solchen Geräte haben."
+
+GRP_army_doctrine: "Überarbeitung der Armeedoktrin"
 GRP_army_doctrine_desc: "Unsere sich schnell entwickelnde Armee muss richtig eingesetzt werden. Wir müssen die verschiedenen Doktrinen anderer Länder untersuchen und eine für unsere eigenen Zwecke anpassen."
+
+GRP_elite_forces: "Konföderierte Spezialeinheiten"
 GRP_elite_forces_desc: "Die Regionen der Konföderation vermitteln ihren Menschen jeweils unterschiedliche Fähigkeiten. Ausgehend von dieser Vielfalt sollten wir in den Aufbau von Elite-Kommandoeinheiten zur Unterstützung der Milizen investieren."
 
 ### Country Names ###

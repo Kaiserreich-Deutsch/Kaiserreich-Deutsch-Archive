@@ -57,6 +57,8 @@
  ARM_mountaineer: "§7 Erhalten Sie die Vorlage §YArmenische Bergsteiger§! mit der folgenden Zusammensetzung:\n - 6 £GFX_unit_mountaineers_icon_small Bataillone;\n - £GFX_unit_artillery_icon_small  Unterstützungs Kompanie.\n\nErstellen Sie §YEine§! Division mit der neu erstellten Vorlage.§!\n"
  ARM_unlock_Nzdeh_path_tt: "Der Schwerpunkt §Y$ARM_armenia_above_all$§! wird freigeschaltet!"
  ARM_Nzhdeh_entrenched: "Die Macht von Nzhdeh hat sich gefestigt."
+ ARM_Internationale_accepts: "\nSollten sie unser Ersuchen annehmen, werden wir §YMilitärische Berater§! erhalten und in der Lage sein, §YIndustrielle Unterstützung§! von der Internationalen anzufordern."
+ ARM_western_fortifications_tooltip: "§YBefestigungen§! werden entlang unserer Westgrenze errichtet."
 
 ### Factions ###
  Tabriz_accord: "Tabriz-Abkommen"
@@ -71,7 +73,7 @@
  ARM_nationalist_educator: "Nationalistischer Pädagoge"
  ARM_returned_ideologue: "Der zurückgekehrte Ideologe"
 
-### Focus tree ###
+### Focus Tree ###
  armenia_focus: "Armenischer Schwerpunktbaum"
  armenia_initial: "Armenischer Schwerpunktbaum"
 
@@ -112,14 +114,18 @@
  ### Army and Air Force
  ARM_national_army: "Die Armenische Armee"
  ARM_national_army_desc: "Wir sind von Feinden auf praktisch allen Seiten umgeben. Es gibt nur eine Sache, die uns vor unseren Feinden retten kann: die armenischen Streitkräfte. Unsere stolzen Soldaten werden unser Land verteidigen und unsere Feinde das Fürchten lehren! Sie werden nicht aufgeben und kämpfen, bis ihre Knochen zu Staub werden!"
+ ARM_specialised_training: "Verbesserte Trainingsprogramme"
+ ARM_specialised_training_desc: "Was unserer Armee an Quantität fehlt, muss sie durch Qualität wettmachen. Zwar haben unsere Männer auf den Schlachtfeldern bereits ihre Tapferkeit und Stärke bewiesen, doch das allein reicht nicht aus. Wenn unsere Nation dem Sand der Zeit standhalten soll, dann müssen wir in die Ausbildung unserer Soldaten investieren und sicherstellen, dass sie in der Lage sind, ihre Heimat zu verteidigen, egal in welchem Gelände, bei welchem Wetter oder gegen welchen Feind sie antreten müssen."
  ARM_mountain_corp: "Gebirgsausbildung"
- ARM_mountain_corp_desc: "Ein großer Teil unseres Landes ist von Bergen bedeckt, die das umliegende Hochland überragen. Das hat zwar einige Nachteile, macht es aber auch mehr oder weniger unmöglich, in Armenien einzudringen, ohne große Verluste zu erleiden. Wir sollten eine Division schaffen, die auf den Kampf in diesem nahezu unwegsamen Gelände spezialisiert ist, damit der Feind es sich zweimal überlegt, ob er unsere Berge besteigt."
+ ARM_mountain_corp_desc: "Ein großer Teil unseres Landes ist von Bergen bedeckt, die das umliegende Hochland überragen. Das hat zwar einige Nachteile, aber es verbessert auch unsere Verteidigungsmöglichkeiten enorm. Indem wir unsere Männer darauf trainieren, dieses nahezu unwegsame Gelände gegen unsere Feinde zu nutzen, können wir sicherstellen, dass unsere Nachbarn es sich zweimal überlegen, ob sie einen Fuß in unser Heimatland setzen."
  ARM_heal_our_men: "Krankenhäuser für Verwundete"
  ARM_heal_our_men_desc: "Es gibt eine Ressource, die in Armenien extrem rar geworden ist: Arbeitskräfte. Für uns ist ein einzelner Soldat so wertvoll wie für die Deutschen ein Dutzend Bataillone. Wir können die Verwundeten nicht einfach zum Sterben auf den Feldern liegen lassen. Wir müssen uns um sie kümmern, ihre Wunden heilen und sie wieder fit machen. Zu diesem Zweck sollten wir unsere Krankenhäuser ausbauen und eine bessere Ausrüstung für sie anschaffen."
  ARM_veteran_knowledge: "Das Wissen von Veteranen nutzen"
  ARM_veteran_knowledge_desc: "Ein großer Teil unserer Armee besteht aus neuen Freiwilligen, die sich während unseres Unabhängigkeitskrieges gemeldet haben, aber es gibt auch einige in unseren Reihen, die schon seit Jahrzehnten zu den Fedayi gehören. Ihr Wissen und ihre Erfahrung könnten sich in den kommenden Kriegen als ein entscheidender Vorteil erweisen."
  ARM_officer_school: "Die armenische Militärschule"
  ARM_officer_school_desc: "Eine Armee ist nur so kompetent wie ihre Befehlshaber. Unsere Generäle und Feldmarschälle müssen in der Lage sein, bestimmte Strategien effizient anzuwenden. Zu diesem Zweck sollten wir eine Militärschule einrichten, in der unseren Offizieren moderne Strategien beigebracht werden, die, wenn sie auf dem Schlachtfeld angewandt werden, potenziell unzählige Menschenleben retten können."
+ ARM_armenian_werewolves: "Werwölfe von Armenien"
+ ARM_armenian_werewolves_desc: "Alte Sagen erzählen von lykanthropischen Bestien, die schnell durch die Nacht streifen, ihre Beute ungesehen erlegen und genauso schnell wieder in die Dunkelheit entkommen, wie sie aufgetaucht sind. Auch unsere Soldaten sollten lernen, die Dunkelheit der Nacht zu ihrem Vorteil zu nutzen, damit sie unseren Feinden Angst einjagen können, wenn sie es am wenigsten erwarten."
  ARM_develop_our_artillery: "Entwicklung unserer Artillerie"
  ARM_develop_our_artillery_desc: "Eine der effizientesten Formen der Unterstützungsausrüstung ist die Artillerie. Im Laufe der Jahre hat sich diese Fernkampfwaffe in Bezug auf Größe, Form und Tödlichkeit ständig verändert. Unsere Artillerie darf nicht hinter der anderer Länder zurückbleiben, damit unsere Armeen nicht von den Soldaten des Gegners in den Schatten gestellt werden und unterlegen sind."
  ARM_a_necessary_force: "Eine notwendige Kraft"
@@ -204,6 +210,8 @@
  ARM_mountainous_stronghold_desc: "Die Berge unseres Landes bieten uns zwar eine natürliche Verteidigungslinie, aber sie reichen nicht aus. Wir können uns nicht vollständig auf die Natur verlassen, um unsere Feinde in Schach zu halten. Wir brauchen starke Befestigungen, die dem feindlichen Beschuss und den Bombardierungen standhalten und die Sicherheit des armenischen Volkes gewährleisten können."
  ARM_integrate_military_in_the_government: "ntegration des Militärs in die Regierung"
  ARM_integrate_military_in_the_government_desc: "Unser Militär ist ein natürlicher Teil unserer Regierung geworden. Diese beiden Institutionen sollen nicht länger getrennt bleiben, es ist an der Zeit, sie zu vereinen. Dies wird es der Armee ermöglichen, noch mehr Einfluss auf unsere Politik zu nehmen, aber es wird auch für den Daschnak-Teil der Koalition einfacher sein, diesen Einfluss zu kontrollieren."
+ ARM_sponsor_military_research: "Erhöhung der Mittel für militärische Forschung"
+ ARM_sponsor_military_research_desc: "Mit dem wachsenden Einfluss des Militärs werden auch innerhalb der Regierung die Stimmen lauter, die eine höhere Zuweisung von Mitteln an unsere Institute für militärische Forschung fordern. Da es unbestreitbar ist, dass fortschrittliche Technologien und Ausrüstungen die Fähigkeiten unserer Streitkräfte erheblich steigern würden, sollten wir ihre Forderungen beherzigen und unsere Haushaltspläne entsprechend ändern."
  ARM_dashnak_support: "Sichere Dashnak-Unterstützung"
  ARM_dashnak_support_desc: "Während ein großer Teil der Dashnaktsutyun die Überlebenspartei unterstützt, gibt es immer noch einige Mitglieder, die sich einen Regierungswechsel und die Errichtung einer echten Republik wünschen. Wir sollten diesen Menschen unseren guten Willen zeigen und sie davon überzeugen, dass wir die einzige Kraft sind, die stark genug ist, die Unabhängigkeit des armenischen Staates zu garantieren."
  ARM_revolutionary_idea: "Der revolutionäre Gedanke"
@@ -227,7 +235,7 @@
  ARM_arrest_criminals: "Hartes Durchgreifen gegen Kriminelle"
  ARM_arrest_criminals_desc: "Die soziale Unordnung und das allgemeine Chaos, die durch den plötzlichen Ausbruch unseres Unabhängigkeitskrieges verursacht wurden, machten es unserer Regierung nahezu unmöglich, sich auf die Verfolgung von Gesetzesbrechern zu konzentrieren, was bedeutete, dass Kriminelle, vor allem Kleinkriminelle, in den meisten Fällen unbestraft blieben. Dies führte zu einer Welle der Kriminalität in unserem Land - ein Problem, das bekämpft werden muss, wenn nötig auch mit Hilfe des Militärs."
  ARM_reform_the_military: "Reform des Militärs"
- ARM_reform_the_military_desc: "Unser Militär mag zwar kompetent genug gewesen sein, um unseren Unabhängigkeitskrieg zu gewinnen, aber das war nur der Fall, weil die Osmanen stark geschwächt waren und einen Krieg an vielen verschiedenen Fronten führten. Wenn wir in der Lage sein wollen, auf eigenen Füßen zu stehen und einen Krieg ohne ausländische Hilfe zu gewinnen, müssen wir unser Militär reformieren und seine Fähigkeiten verbessern."
+ ARM_reform_the_military_desc: "Unser Militär mag zwar kompetent genug gewesen sein, um unseren Unabhängigkeitskrieg zu gewinnen, aber das war nur der Fall, weil die Osmanen stark geschwächt waren und einen Krieg an vielen verschiedenen Fronten führten. Wenn wir auf eigenen Beinen stehen wollen, dann müssen wir unser Militär reformieren, angefangen bei der Führung und dem Oberkommando unserer Streitkräfte."
  ARM_end_the_state_of_emergency: "Beendigung des Ausnahmezustands"
  ARM_end_the_state_of_emergency_desc: "Der Ausnahmezustand wurde verhängt, um Bey und seinen Anhängern die Möglichkeit zu geben, ihre neue Position als Regierung des armenischen Volkes zu sichern. Da die gerechte Herrschaft von Bey offenbar nicht mehr bedroht ist, sollte das Ende des Ausnahmezustands ausgerufen und andere demokratische Parteien wieder zugelassen werden."
  ARM_call_for_democrats: "Liberalisierung der Nation"
@@ -264,6 +272,14 @@
  ARM_export_the_revolution_desc: "Während unser Volk im Himmel auf Erden lebt, gibt es in anderen Teilen der Welt Menschen, die noch immer unter ihren Unterdrückungsregimen leiden. Wir sind nicht besser als diejenigen, die diese Menschen ausbeuten und unterdrücken, wenn wir tatenlos zusehen. Wir müssen diejenigen, die unserer Hilfe bedürfen, von ihren Ketten befreien! Diese Revolution soll eine globale sein!"
  ARM_revolutionary_ideal: "Das revolutionäre Ideal"
  ARM_revolutionary_ideal_desc: "Wir haben die ideale Revolution erreicht. Ohne Blutvergießen ist es uns gelungen, unsere Gesellschaft vollständig zu verändern. Unser Volk kann ein glückliches und unbeschwertes Leben führen, ohne dass eine kapitalistische Oberschicht es zu ihrem eigenen Vorteil ausbeutet. Wir sind zu einem Vorbild für Nationen aus der ganzen Welt geworden."
+ ARM_security_through_isolation: "Die einsame Hochburg des Sozialismus"
+ ARM_security_through_isolation_desc: "Unsere Freiheit wurde mit dem Blut der Söhne Armeniens bezahlt. Zu viele sind bereits umgekommen, und wenn wir uns mit der internationalen Gemeinschaft verbünden, riskieren wir, in einen noch tödlicheren Konflikt hineingezogen zu werden, der unser Land auf Jahre hinaus verwüsten könnte. Deshalb sollten wir uns nach innen wenden und unsere Revolution sichern, ohne den Zorn der reaktionären Kräfte um unseren Staat herum auf uns zu ziehen."
+ ARM_internal_dissent_crackdown: "Hartes Durchgreifen gegen antisozialistische Hetzer"
+ ARM_internal_dissent_crackdown_desc: "Obwohl die armenische Revolution ihre Legitimität im Willen des Volkes findet, lauern in unseren Grenzen noch zahlreiche Verräter, die auf einen günstigen Moment warten, um sich zu erheben und unsere Regierung zu stürzen. Die Bedrohung, die sie darstellen, muss ausgelöscht werden, damit sich die reaktionäre Glut nicht in eine alles verzehrende Flamme verwandelt, der wir nicht zu entkommen hoffen."
+ ARM_rapid_industrialisation: "Rasche Industrialisierung"
+ ARM_rapid_industrialisation_desc: "Obwohl die Verstaatlichung und Kollektivierung unserer Wirtschaft die industriellen Kapazitäten unseres Landes bereits erheblich verbessert hat, können wir jetzt nicht aufhören. Wir müssen die uns zur Verfügung stehenden Mittel sammeln und sie für unseren Wirtschaftssektor, den Bau neuer Industrieanlagen und die Verbesserung des Verkehrssystems unseres Landes einsetzen, um Armenien in das wirtschaftliche Kraftzentrum des Kaukasus zu verwandeln."
+ ARM_unconquerable_stronghold: "Vorbereiten auf das Unvermeidliche"
+ ARM_unconquerable_stronghold_desc: "Es ist kein Geheimnis, dass unsere Nachbarn schon lange ein Auge auf unser Land geworfen haben. Ob sie nun nach territorialer Eroberung streben oder die revolutionäre Regierung zerschlagen wollen, sie stellen eine ernsthafte Bedrohung für unsere Unabhängigkeit und unseren Wohlstand dar. Wir müssen unsere Verteidigung verstärken und unsere Soldaten auf den bevorstehenden Angriff vorbereiten, denn die Zeit drängt und alles steht auf dem Spiel."
 
  ### Armenian Republican Tree
  ARM_first_armenian_elections: "Die ersten armenischen Wahlen"
@@ -380,8 +396,8 @@
  ARM_armenian_pride: "Armenischer Stolz"
  ARM_armenian_pride_desc: "Boghos Bey hat es geschafft, den jahrhundertelang unterdrückten Stolz des armenischen Volkes zu stärken und neu zu entfachen. Indem er die reiche Geschichte und die Traditionen, die die armenische Kultur ausmachen, hervorhebt, haben seine Bemühungen erfolgreich zur Entstehung eines Nationalgefühls geführt, das sich nicht so leicht aus den Köpfen der Armenier vertreiben lässt."
 
- ARM_specialised_army: "Spezialisierte Armee"
- ARM_specialised_army_desc: "Heutzutage bestehen Armeen nicht mehr nur aus Fußsoldaten mit Standardausrüstung. Moderne Militärs spezialisieren sich immer mehr - ein Trend, dem wir folgen sollten, wenn wir unser Land gegen ausländische Invasoren verteidigen wollen. Vor allem Gebirgsjäger, aber auch Fallschirmjäger könnten bei der Verteidigung unseres Landes von großem Nutzen sein."
+ ARM_reformed_military_command: "Reformiertes Militärkommando"
+ ARM_reformed_military_command_desc: "In der modernen Kriegsführung wird eine Schlacht nur selten durch die Fähigkeiten des einzelnen Soldaten entschieden, sondern vielmehr durch das taktische Wissen seiner Vorgesetzten und die Effizienz der Befehlskette. Während die militärische Führung unserer jungen Nation lange Zeit ein eher chaotisches Durcheinander war, haben sich die Bemühungen der Regierung um eine Rationalisierung der militärischen Hierarchie und die Organisation der Kommandostrukturen als recht wirksam erwiesen und die Fähigkeiten unserer Streitkräfte erheblich verbessert."
 
  ARM_school_expansion: "Ausbau von Schulen"
  ARM_school_expansion_desc: "Unsere Nation ist auf qualifizierte Arbeiter, Wissenschaftler und Landwirte angewiesen. Um das Ziel einer gebildeten Bevölkerung zu erreichen, hat unsere Regierung beschlossen, die öffentlichen Schulen auszubauen. Bald werden armenische Innovationen und Fortschritte in der ganzen Welt bekannt sein!"
@@ -401,7 +417,7 @@
  ARM_collectivisation_idea: "Voranschreiten der Kollektivierung"
  ARM_collectivisation_idea_desc: "Da der Prozess der Kollektivierung schnell voranschreitet, kann der Staat die Ressourcen, die früher von den Unternehmern missbraucht wurden, zur Unterstützung der Bedürftigen und zur Entwicklung des Landes insgesamt einsetzen."
 
- ARM_socialism_stronghold: "Bastion des Sozialismus"
+ ARM_socialism_stronghold: "Leuchtfeuer des Sozialismus"
  ARM_socialism_stronghold_desc: "Unser Land hat mehr als nur einen Regierungswechsel erlebt. Es wurde vollständig umgestaltet und repräsentiert nun alles, wofür der Sozialismus steht: Freiheit, Gleichheit, Wohlfahrt und Frieden. Wir sind zu einem Leuchtfeuer geworden, zu einem Wegweiser für alle, die in der Dunkelheit leben."
 
  ARM_market_auto_regulation: "Selbstregulierender Markt"
@@ -445,14 +461,27 @@
 
  ARM_independence_fervour_1: "Begeisterung für die Freiheit"
  ARM_independence_fervour_1_desc: "Das armenische Volk hat einen Vorgeschmack auf die Freiheit bekommen, nach der es seit Jahren lechzt. Wir dürfen die neu gewonnenen Freiheiten unseres Volkes nicht so leicht aufgeben! Wir werden den Traum von einem armenischen Staat frei von türkischer Herrschaft verwirklichen, oder wir werden bei dem Versuch sterben!"
+ 
+ ARM_specialised_army: "Eine Qualitätsarmee"
+ ARM_specialised_army_desc: "Unserem Land fehlt die Bevölkerung, um endlose Horden von Soldaten zu unterhalten, die sich gedankenlos in die Stellungen des Feindes stürzen. Stattdessen müssen wir dafür sorgen, dass unsere Männer klug und fähig sind, und dank unserer neu verbesserten Ausbildungsprogramme kann jeder einzelne unserer Soldaten mit Stolz verkünden, dass er bereit ist, sein Heim und seine Familie zu verteidigen, ganz gleich, wo der Angreifer zuschlägt."
+ 
+ ARM_specialised_army_2: "Werwölfe von Armenien"
+ ARM_specialised_army_2_desc: "Unsere Bemühungen, unsere Soldaten für den Kampf in der Nacht auszubilden, haben Früchte getragen. Wie die Bestien der alten Mythen beginnen sie, sich in der Dunkelheit der Nacht zu Hause zu fühlen und können sich schnell und leise bewegen, was ihnen erlaubt, ihre Feinde zu überraschen und so einen entscheidenden Vorteil auf den Schlachtfeldern zu erlangen."
+ 
+ ARM_isolationism: "Armenischer Isolationismus"
+ ARM_isolationism_desc: "Es ist genug Blut vergossen worden! Die Söhne Armeniens sollen nicht in fremden Ländern für eine Sache sterben, die ihnen völlig fremd ist! Wenn wir unsere Männer opfern müssen, dann im Namen Armeniens, und nur im Namen Armeniens!"
+ 
+ ARM_isolationism_2: "Die uneinnehmbare Festung"
+ ARM_isolationism_2_desc: "Wir wissen, dass früher oder später fremde Soldaten versuchen werden, unser Land zu erobern. Unsere Nachbarn mögen stark, für manche sogar unbesiegbar erscheinen, aber wir werden ihnen zeigen, dass sie bluten können! Wir werden jeden Zentimeter unseres Landes bis zum letzten Mann verteidigen, und wir werden dafür sorgen, dass diese Tyrannen ihre Entscheidung, unseren Frieden zu stören, bereuen!"
 
 ### Decisions ###
  ARM_foreign_policy: "Außenpolitik Armeniens"
  ARM_join_reichspakt: "Beitritt zum Reichspakt"
+ ARM_request_industrial_support: "Anfrage [FROM.GetAdjective] Industrielle Unterstützung"
 
  ARM_war_of_independence: "Der Unabhängigkeitskrieg"
  ARM_war_of_independence_desc: "Dieser Krieg ist unsere letzte Chance, den Traum von einem unabhängigen armenischen Staat frei vom osmanischen Terror zu verwirklichen. Wir werden im Namen der Freiheit kämpfen, wir werden im Namen unseres Volkes bluten, und wir werden im Namen unserer Vorfahren sterben. Aber wir werden nicht aufgeben, ganz gleich, welche Entbehrungen wir ertragen müssen - denn wenn wir jetzt scheitern, wird Armenien für immer verloren sein."
- ARM_request_russian_guns: "Anfrage [RUS.GetFlag] Russische Ausrüstung"
+ ARM_request_russian_guns: "Anfrage Russische Ausrüstung"
  ARM_request_russian_guns_desc: "Wir brauchen dringend mehr Gewehre. Es ist ein recht einfaches Problem, aber eines, das wir unmöglich allein lösen können, da die junge und in Unordnung geratene armenische Nation nicht über die industriellen Kapazitäten verfügt, um die Männer, die für unsere Freiheit kämpfen, mit der dringend benötigten Ausrüstung zu versorgen. Daher müssen wir uns an andere Nationen wenden, um Unterstützung zu erhalten - und die Russen könnten unsere beste Wahl sein. Schon während des Weltkriegs hat unser Volk Seite an Seite mit russischen Soldaten gegen die türkischen Unterdrücker gekämpft - warum sollten sie uns also nicht erneut bei unseren Bemühungen helfen?"
  ARM_capture_Kars: "Kars befreien"
  ARM_capture_Kars_desc: "Obwohl ihre Zahl nach den Massakern des Weltkriegs erheblich zurückgegangen ist, leben in den Bergen von Kars immer noch viele Armenier, und es ist unsere Pflicht, diese armen Seelen von den Schrecken des türkischen Jochs zu befreien!"

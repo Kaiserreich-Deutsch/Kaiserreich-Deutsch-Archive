@@ -344,8 +344,7 @@ som.2.a: "Oh oh..."
 som.3.t: "Die Wahlen wurden abgehalten!"
 som.3.d: "Die Wahlen zum Unterhaus sind hilfreich, um den Einfluss und die Macht der verschiedenen Fraktionen innerhalb des Clan-Hauses zu ermitteln, gefolgt vom Oberhaus. Der Premierminister der siegreichen Partei wird von Bogor ernannt, wie es die Verfassung vorsieht. Drei Parteien haben eine realistische Chance auf den Sieg: Die Somalische Jugendliga, die Liberale Partei und die Königliche Partei. Das Volk hat seine Stimme abgegeben, und der Gewinner ist..."
 som.3.a: "Die Königliche Partei hat die Wahlen gewonnen."
-som.3.b: "Die Liberale Partei hat die Wahlen gewonnen."
-som.3.c: "Die Somalische Jugendliga hat die Wahlen gewonnen."
+som.3.b: "Die Somalische Jugendliga hat die Wahlen gewonnen."
 
 som.4.t: "Der Hangash hat subversive Elemente gefangen genommen"
 som.4.d: "Es wäre unklug, weitere Einzelheiten zu nennen, mein Herr, aber es genügt zu sagen, dass diese Terroristen planten, Somalia von innen heraus zu ruinieren und sein Vermögen an ausländische Invasoren zu verkaufen. Aber keine Sorge, die Gefahr ist gebannt."
@@ -383,27 +382,6 @@ som.13.t: "Khat Steuer?!"
 som.13.d: "Khat ist eine wichtige Pflanze in Somalia. Überall sieht man Männer, die auf Basaren, in Moscheen und sogar in Schulen die Blätter kauen. Einige haben argumentiert, dass wir, da wir nun die Kontrolle darüber haben, was angepflanzt werden darf, die Pflanze besteuern sollten, um von ihr zu profitieren und ihre Ausfuhr ins Ausland zu kontrollieren. Dies wird jedoch mit Sicherheit eine äußerst unpopuläre Maßnahme sein, insbesondere in unseren ländlichen Regionen."
 som.13.a: "Besteuert es und exportiert es; es ist nicht so, als ob die Nachfrage sinken würde!"
 som.13.b: "Die Besteuerung einer so wichtigen Pflanze kann uns nur schaden."
-
-#som.14.t: "Requesting Support from our Comrades"
-#som.14.d: "War, chaos, and imperialism threaten everything held dear by Somalis. In these turbulent times, we must turn to the Commune of France and approach them so as to join their alliance and receive assistance."
-#som.14.a: "Break the chains!"
-#som.14.b: "We can handle ourselves."
-
-#som.15.t: "Somalia Wants to Join the Internationale"
-#som.15.d: "The efforts of the Internationale's Muslim Committee have brought upon us great success as the Somali Revolution has turned Somalia into a socialist nation. Siad Barre and the Somali people have now requested our aid, citing the turbulence their nation faces. Having an ally in the Horn could greatly assist us in future endeavours. What say we?"
-#som.15.a: "We welcome our African brothers!"
-#som.15.b: "This is wholly unneeded. Politely decline."
-
-
-### Leaders ###
-POLITICS_ALI_SHIRE_DESC: "Maxamuud Cali Shiire bestieg 1897 nach einem langwierigen Machtkampf mit seinem Vater Gerad Cali Shiire den Thron des Sultanats Warsangali und entstammt damit einer fast 600 Jahre alten Königslinie am Horn von Afrika. Obwohl Maxamuud Cali Shiire nominell den britischen Interessen unterworfen war, trug seine Unterstützung für Abdullah Hassan, den verrückten Mullah, entscheidend dazu bei, Italien während des Weltkriegs in Afrika zu besiegen. Als geschickter politischer Navigator hat Maxamuud die Sultanate Somalias unter seiner nominellen Führung zu einer föderalen Monarchie vereint. Aber kann man einem Mann, der seinem eigenen Vater den Krieg um die Macht erklärt hat, zutrauen, dass er die verfassungsmäßigen Vorrechte nicht verletzt?"
-POLITICS_BARRE_DESC: "Der aus dem Ogaden stammende Marehan Darod Siad Barre war immer ein kompetenter und engagierter Offizier. Er ist ungewöhnlich jung und überraschend bösartig gegenüber seinen Feinden, und seine ideologische Unnachgiebigkeit ist sicherlich auf seine Ausbildung durch Mitglieder des Muslim Socialist Committee zurückzuführen. Seine Vision eines über Clan-Bindungen hinweg geeinten Somalias ist eine, die auf allen Ebenen der somalischen Gesellschaft auf Widerstand stoßen wird."
-POLITICS_HAAJI_MAHAMMAD_DESC: "Haaji Mohammed ist der Anführer einer Gruppe von Offizieren und Intellektuellen, die das Konzept eines Großsomalias und die Vereinigung des Volkes unter einem Ziel über alles andere stellen. Trotz seiner tiefen Bewunderung für Abdullah Hassan strebt seine Gruppe eine völlige Loslösung des Islam vom Staat an, und eine solche Maßnahme ist auf vielen Ebenen der Gesellschaft unpopulär."
-POLITICS_JAMA_QUALIB_DESC: "Jama Abdullahi Qalib ist ein junger Liberaler, der aus Hargeisa stammt. Sein Glaube an den Liberalismus als Weg in die Zukunft Somalias ist bewundernswert, aber seine Bereitschaft, mit Ausländern zusammenzuarbeiten, hat in der Bevölkerung Bedenken ausgelöst, ebenso wie seine liberalen Vorstellungen von einer vollständigen Säkularisierung des Staates."
-POLITICS_ADEN_ADDE_DESC: "Der 1909 in Beledweyne geborene Aden Abdullah erinnert sich noch sehr gut daran, wie es ist, unter der Herrschaft des Kolonialismus aufzuwachsen. Während seines Studiums nähert er sich immer mehr den syndikalistischen Ideologien an, die seiner Meinung nach gut zu Somalia passen: Jeder Clan ist eine Gewerkschaft, die am besten autonom arbeitet, aber die meisten kooperieren mit ihren Nachbarn. In letzter Zeit wurde er stark von der französischen Wissenschaft zu Fragen der dezentralen Führung beeinflusst und hofft, dass er dafür sorgen kann, dass Somalias harte Jahre der letzten Jahre langfristig in etwas Gutes münden."
-POLITICS_SHERMAKE_DESC: "Ali Shermarke, ein Majarteen aus Mudog, ist ein kompetenter junger Gelehrter, der sich sowohl im islamischen als auch im föderalen und ausländischen Recht gut auskennt. Er wünscht sich eine bündnisfreie und friedliche Außenpolitik, aber seine Wünsche könnten durch die Einflüsse, die ausländische Mächte derzeit auf Somalia ausüben, zunichte gemacht werden."
-POLITICS_BASHIR_YUSUF_SOM_DESC: 
-
 
 ### Characters ###
 SOM_aden_abdulle_osman_daar: "Aden Abdulle Osman Daar"

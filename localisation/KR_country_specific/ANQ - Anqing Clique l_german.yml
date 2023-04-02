@@ -73,6 +73,27 @@ Anqing_Clique: "Schwerpunktbaum von Anqing Clique"
  ANH_national_populist_ADJ: "Anhui"
  ANH_national_populist_DEF: "die Anhui Provinz
 
+ ANQ_government_totalist: "Nanjing Regierung"
+ ANQ_government_totalist_DEF: "die Nanjing Regierung"
+ ANQ_government_syndicalist: "Nanjing Regierung"
+ ANQ_government_syndicalist_DEF: "die Nanjing Regierung"
+ ANQ_government_radical_socialist: "Nanjing Regierung"
+ ANQ_government_radical_socialist_DEF: "die Nanjing Regierung"
+ ANQ_government_social_democrat: "Nanjing Regierung"
+ ANQ_government_social_democrat_DEF: "die Nanjing Regierung"
+ ANQ_government_social_liberal: "Nanjing Regierung"
+ ANQ_government_social_liberal_DEF: "die Nanjing Regierung"
+ ANQ_government_market_liberal: "Nanjing Regierung"
+ ANQ_government_market_liberal_DEF: "die Nanjing Regierung"
+ ANQ_government_social_conservative: "Nanjing Regierung"
+ ANQ_government_social_conservative_DEF: "die Nanjing Regierung"
+ ANQ_government_authoritarian_democrat: "Nanjing Regierung"
+ ANQ_government_authoritarian_democrat_DEF: "die Nanjing Regierung"
+ ANQ_government_paternal_autocrat: "Nanjing Regierung"
+ ANQ_government_paternal_autocrat_DEF: "die Nanjing Regierung"
+ ANQ_government_national_populist: "Nanjing Regierung"
+ ANQ_government_national_populist_DEF: "die Nanjing Regierung"
+
 ### Parties ###
  ANQ_totalist_party: "Kuomintang"
  ANQ_syndicalist_party: "Kuomintang"
@@ -89,22 +110,26 @@ ANQ_national_populist_party: "Yiguandao"
 ### Characters ###
  ANQ_chen_tiaoyuan: "Chen Tiaoyuan"
  ANQ_chen_tiaoyuan_leader_desc: "1916, im Alter von 30 Jahren, war Chen Tiaoyuan Oberbefehlshaber der Militärpolizei in der Provinz Jiangsu. Diese bescheidene Karriere wurde durch die kurzlebige Regierungszeit von Yuan Shikai unterbrochen, dessen militärisches Abenteuer ein Machtvakuum für jüngere Offiziere wie ihn hinterließ. In diesen frühen Jahren diente Chen zusammen mit Zhang Zongchang, dessen Freundschaft endete, als die mangelnde Disziplin des späteren offensichtlich wurde. Chens Loyalität wanderte auf die gleiche Weise von der Fengtian-Clique zu Sun Chuanfang, wofür Sun seine Dankbarkeit zeigte, indem er Chen das Kommando über die Anhui-Armee erteilte.\nUnter dem Regime von Chen wurden der Provinz Anhui vom deutschen Aufsichtsrat Investitionen verweigert. Im Vergleich zu ihren Landsleuten in Jiangsu und Fujian galt die Provinz Anhui als verarmt und hilflos für industrielle Innovationen. Chen hat Respekt und Prestige für seinen Antagonismus gegenüber Sun Chuanfangs pro-deutscher Politik gewonnen. In den letzten Jahren haben die verflochtenen Interessen mit den Deutschen und Sun Chens Vertrauen in die Liga und Sun gebrochen.\n Chens Armee bemüht sich, die Bundesländer von der deutschen Abhängigkeit abzuwenden und entweder eine innere Erneuerung oder ein erneutes Bündnis mit antiimperialistischen Kräften zu erreichen."
- ANQ_chen_tiaoyuan_commander_desc: "§YGeneralbeschreibung\n§YGeboren:§L\n12. November 1886\nAnxin, Zhili, Qing Empire\n§YMilitärkarriere:§L\n1916, im Alter von 30 Jahren, war Chen Tiaoyuan Oberbefehlshaber der Militärpolizei in der Provinz Jiangsu. Diese bescheidene Karriere wurde durch die kurzlebige Regierungszeit von Yuan Shikai unterbrochen, dessen militärisches Abenteuer ein Machtvakuum für jüngere Offiziere wie ihn hinterließ. In diesen frühen Jahren diente Chen zusammen mit Zhang Zongchang, dessen Freundschaft endete, als die mangelnde Disziplin des späteren offensichtlich wurde. Chens Loyalität wanderte auf die gleiche Weise von der Fengtian Clique zu Sun Chuanfang, wofür Sun seine Dankbarkeit zeigte, indem er Chen das Kommando über die Anhui-Armee erteilte.\nUnter dem Regime von Chen wurden der Provinz Anhui vom deutschen Aufsichtsrat Investitionen verweigert. Im Vergleich zu ihren Landsleuten in Jiangsu und Fujian galt die Provinz Anhui als verarmt und hilflos für industrielle Innovationen. Chen hat Respekt und Prestige für seinen Antagonismus gegenüber Sun Chuanfangs pro-deutscher Politik gewonnen. In den letzten Jahren haben die verflochtenen Interessen mit den Deutschen und Sun Chens Vertrauen in die Liga und Sun gebrochen.\n Chens Armee bemüht sich, die Bundesländer von der deutschen Abhängigkeit abzuwenden und entweder eine innere Erneuerung oder ein erneutes Bündnis mit antiimperialistischen Kräften zu erreichen."
+ ANQ_chen_tiaoyuan_commander_desc: "§YGeneralbeschreibung\nGeboren:§! §12. November 1886, in Anxin, Zhili, Qing Reich§!\n§YMilitärkarriere:§! §g1916, im Alter von 30 Jahren, war Chen Tiaoyuan Oberbefehlshaber der Militärpolizei in der Provinz Jiangsu. Diese bescheidene Karriere wurde durch die kurzlebige Regierungszeit von Yuan Shikai unterbrochen, dessen militärisches Abenteuer ein Machtvakuum für jüngere Offiziere wie ihn hinterließ. In diesen frühen Jahren diente Chen zusammen mit Zhang Zongchang, dessen Freundschaft endete, als die mangelnde Disziplin des späteren offensichtlich wurde. Chens Loyalität wanderte auf die gleiche Weise von der Fengtian Clique zu Sun Chuanfang, wofür Sun seine Dankbarkeit zeigte, indem er Chen das Kommando über die Anhui-Armee erteilte.\nUnter dem Regime von Chen wurden der Provinz Anhui vom deutschen Aufsichtsrat Investitionen verweigert. Im Vergleich zu ihren Landsleuten in Jiangsu und Fujian galt die Provinz Anhui als verarmt und hilflos für industrielle Innovationen. Chen hat Respekt und Prestige für seinen Antagonismus gegenüber Sun Chuanfangs pro-deutscher Politik gewonnen. In den letzten Jahren haben die verflochtenen Interessen mit den Deutschen und Sun Chens Vertrauen in die Liga und Sun gebrochen.\n Chens Armee bemüht sich, die Bundesländer von der deutschen Abhängigkeit abzuwenden und entweder eine innere Erneuerung oder ein erneutes Bündnis mit antiimperialistischen Kräften zu erreichen."
 
  ANQ_zhang_zhongli: "Zhang Zhongli"
- ANQ_zhang_zhongli_commander_desc: "§YGeneralbeschreibung\n§YGeboren:§L\n1883\nXiaoxian, Jiangsu, Qing Empire\n§YMilitärkarriere:§L\nZhang Zhongli trat in der Ära der Beiyang-Republik in die Armee ein, zunächst als Brigadekommandeur und dann als Divisionskommandeur in Sun Chuanfangs Armee. Nach der Nordexpedition begann er im Finanzwesen zu arbeiten und wurde Regierungsbeamter in der Abteilung für zivile Angelegenheiten der Provinz Jiangsu und diente dann als Polizeihauptmann für die Salzsteuer in der LEP, wo er bewundernswerte Leistungen erbrachte. Weil jemand kritisierte, dass Zhang Zhongli erwog, der KMT beizutreten, vermittelte Sun Chuanfang ihn von Jiangsu nach Anhui, wodurch er mit Chen Tiaoyuan bekannt wurde und zum Partner der Anqing-Clique wurde."
+ ANQ_zhang_zhongli_commander_desc: "§YGeneralbeschreibung\nGeboren:§! §1883, in Xiaoxian, Jiangsu, Qing-Reich§!\n§YMilitärkarriere:§! §gZhang Zhongli trat in der Ära der Beiyang-Republik in die Armee ein, zunächst als Brigadekommandeur und dann als Divisionskommandeur in Sun Chuanfangs Armee. Nach der Nordexpedition begann er im Finanzwesen zu arbeiten und wurde Regierungsbeamter in der Abteilung für zivile Angelegenheiten der Provinz Jiangsu und diente dann als Polizeihauptmann für die Salzsteuer in der LEP, wo er bewundernswerte Leistungen erbrachte. Weil jemand kritisierte, dass Zhang Zhongli erwog, der KMT beizutreten, vermittelte Sun Chuanfang ihn von Jiangsu nach Anhui, wodurch er mit Chen Tiaoyuan bekannt wurde und zum Partner der Anqing-Clique wurde."
 
  ANQ_peng_xuefeng: "Peng Xuefeng"
- ANQ_peng_xuefeng_commander_desc: "§YGeneralbeschreibung\n§YGeboren:§L\n9. September 1907\nQili, Pingren, Qing Empire"
+ ANQ_peng_xuefeng_commander_desc: "§YGeneralbeschreibung\nGeboren:§! §9. September 1907, in Qili, Pingren, Qing Reich§!"
 
  ANQ_liu_heding: "Liu Heding"
- ANQ_liu_heding_commander_desc: "§YGeneralbeschreibung\n§YGeboren:§L\n13. Dezember 1894\nHefei, Anhui, Qing Empire\n§YMilitärkarriere:§L\nLiu Heding ist ein Nachkomme der Huai-Armee und auch Stabschef der Chen Tiaoyuan-Armee. Er war der Klassenkamerad von Bai Chongxi in der Baoding Military Academy. Nach seinem Abschluss an der Akademie wurde er in Ni Sichongs Armee ausgebildet und dann nach Hunan und Sichuan geschickt. 1925 wurde er Offizier in der verbleibenden Armee der Anhui-Clique, die von Ma Xiangbin kommandiert wurde und am Krieg gegen Zhang Zongchang und an der Unterdrückungsaktion gegen Daohui in Luan teilnahm. Mehrere Jahre vergingen seit dem Ende der Nordexpedition und auf Befehl von Sun Chuanfang wurde er geschickt, um die Belagerung des von Zhou Yinren beherschten Jiangfu-Basisgebiets zu unterstützen. Aber seine Armee erlitt wegen des schlechten Wetters große Verluste. In Anbetracht des Scheiterns der Belagerung stufte Sun Chuanfang ihn herab und machte ihn zum Offizier in der Armee von Chen Tiaoyuan."
+ ANQ_liu_heding_commander_desc: "§YGeneralbeschreibung\nGeboren:§! §13. Dezember 1894, in Hefei, Anhui, Qing-Reich§!\n§YMilitärkarriere:§! §gLiu Heding ist ein Nachkomme der Huai-Armee und auch Stabschef der Chen Tiaoyuan-Armee. Er war der Klassenkamerad von Bai Chongxi in der Baoding Military Academy. Nach seinem Abschluss an der Akademie wurde er in Ni Sichongs Armee ausgebildet und dann nach Hunan und Sichuan geschickt. 1925 wurde er Offizier in der verbleibenden Armee der Anhui-Clique, die von Ma Xiangbin kommandiert wurde und am Krieg gegen Zhang Zongchang und an der Unterdrückungsaktion gegen Daohui in Luan teilnahm. Mehrere Jahre vergingen seit dem Ende der Nordexpedition und auf Befehl von Sun Chuanfang wurde er geschickt, um die Belagerung des von Zhou Yinren beherschten Jiangfu-Basisgebiets zu unterstützen. Aber seine Armee erlitt wegen des schlechten Wetters große Verluste. In Anbetracht des Scheiterns der Belagerung stufte Sun Chuanfang ihn herab und machte ihn zum Offizier in der Armee von Chen Tiaoyuan."
 
  ANQ_shi_zhongcheng: "Shi Zhongcheng"
-  ANQ_shi_zhongcheng_commander_desc: "§YAllgemeine Beschreibung\n§YGeboren:§L\n25. Januar 1897\nTongcheng, Anhui, Qing Reich\n§YMilitärische Karriere:§L\nShi Zhongcheng verlor seinen Vater, als er noch jung war. Er suchte Zuflucht bei seinem Onkel Shi Congbin und trat 1921 in die Militärakademie von Baoding ein. Zwei Jahre später schloss er die Akademie ab und wurde Praktikant in der Armee von Shi Congbin. Während des zweiten Zhili-Fengtian-Krieges wurde Shi Congbin, der unter der Führung von Zhang Zongchang stand, von Sun Chuanfang gefangen genommen und hingerichtet. Shi Zhongcheng diente weiterhin in der Armee von Zhang Zongchang und war für die Wachen in der Gegend von Yantai verantwortlich. Während seines Dienstes in der Shandong-Armee wurde er Zeuge der Schamlosigkeit und Sünde der Zongchang-Clique. Er war völlig enttäuscht von Zhang Zongchang. Er lernte Feng Anbang kennen, der dieselbe Meinung vertrat und sich seitdem von den Mitgliedern der Zongchang-Clique fernhielt."
+  ANQ_shi_zhongcheng_commander_desc: "§YAllgemeine Beschreibung\nGeboren:§! §25. Januar 1897, in Tongcheng, Anhui, Qing-Reich§!\n§YMilitärische Karriere:§L\nShi Zhongcheng verlor seinen Vater, als er noch jung war. Er suchte Zuflucht bei seinem Onkel Shi Congbin und trat 1921 in die Militärakademie von Baoding ein. Zwei Jahre später schloss er die Akademie ab und wurde Praktikant in der Armee von Shi Congbin. Während des zweiten Zhili-Fengtian-Krieges wurde Shi Congbin, der unter der Führung von Zhang Zongchang stand, von Sun Chuanfang gefangen genommen und hingerichtet. Shi Zhongcheng diente weiterhin in der Armee von Zhang Zongchang und war für die Wachen in der Gegend von Yantai verantwortlich. Während seines Dienstes in der Shandong-Armee wurde er Zeuge der Schamlosigkeit und Sünde der Zongchang-Clique. Er war völlig enttäuscht von Zhang Zongchang und hat sich seitdem von den Mitgliedern der Zongchang-Clique ferngehalten."
 
  ANQ_li_shengchun: "Li Shengchun"
- ANQ_li_shengchun_commander_desc: "§YAllgemeine Beschreibung\n§YMilitärische Karriere:§L\nLi Shengchun ist stellvertretender Befehlshaber der Provinz Fujian und steht unter dem Kommando von Zhou Yinren, dem Militärgouverneur von Fujian. Unter Zhou kämpfte er während der Nordexpedition gegen die 17. Armee der NRA unter der Führung von He Yinqing.\n Doch Lis Verhältnis zu seinem Vorgesetzten ist schlecht. Er hat häufig Befehle missachtet, und wiederholte Misserfolge bei der Säuberung der Kuomintang-Kräfte in der aufständischen Zone Jiangfu haben seine Kompetenz in Frage gestellt."
+ ANQ_li_shengchun_commander_desc: "§YAllgemeine Beschreibung\nMilitärische Karriere:§L\nLi Shengchun ist stellvertretender Befehlshaber der Provinz Fujian und steht unter dem Kommando von Zhou Yinren, dem Militärgouverneur von Fujian. Unter Zhou kämpfte er während der Nordexpedition gegen die 17. Armee der NRA unter der Führung von He Yinqing.\n Doch Lis Verhältnis zu seinem Vorgesetzten ist schlecht. Er hat häufig Befehle missachtet, und wiederholte Misserfolge bei der Säuberung der Kuomintang-Kräfte in der aufständischen Zone Jiangfu haben seine Kompetenz in Frage gestellt."
+
+ ANQ_ma_dengying: "Ma Dengying"
+ ANQ_ma_dengying_sic: "Ma Dengying"
+ ANQ_ma_dengying_sic_desc: "§YBerater Beschreibung\nGeboren§! §g1890, Gaomi, Provinz Shandong, Qing-Reich§!\n§YPolitische Karriere:§! §gMa Dengying, auch bekannt als Ma Haiqiao, begann seine Karriere beim chinesischen Militär, nachdem er eine Faszination für die Kampfkünste und das körperliche Wohlbefinden entwickelt hatte. Er trat 1906 in die Akademie von Baoding ein und wurde 1908 zum Studium des Militärwesens nach Japan geschickt. Während dieser Zeit knüpfte er Kontakte zur Tongmenghui und kehrte 1912 kurz nach China zurück, um in Qingdao eine revolutionäre Zelle zu gründen. Dengying kämpfte mit einem kleinen Kader für die Eroberung der Jiaoji-Eisenbahn in Shandong, wurde jedoch von den Truppen Yuan Shikais vertrieben und kehrte nach Japan zurück. Sein Exil war jedoch nur von kurzer Dauer, da ihn sympathisierende Mitglieder der Anhui-Clique nur ein Jahr später wieder ins Land holten.\n\nDengying stieg dann in den Reihen der Streitkräfte auf und wurde 1923 zum Stabschef einer Brigade befördert, die das Banditentum in Shandong unterdrücken sollte. Er machte sich auch einen Namen als tugendhafter Mann, der sich für eine saubere und gesunde Lebensweise einsetzte und sich Berichten zufolge weigerte, Bestechungsgelder anzunehmen und sich vielen anderen Lastern hinzugeben, die damals in der Armee weit verbreitet waren. Im Jahr 1925 brach er mit der Anhui-Clique und schloss sich der Südlichen Zhili-Clique von Sun Dianying an. Hier lernte er den \"Würfel rollenden General\", Chen Tiaoyuan, kennen, als sie Seite an Seite in Jiangxi kämpften, um die Nordexpedition der Kuomintang zurückzuschlagen.\n\nDengying knüpfte ein kameradschaftliches Band zu Chen und bewunderte ihn für seine starken Prinzipien und seine Weigerung, sich ausländischen Imperialisten zu beugen. Nach der Xuantong-Restauration bekleidete er im Namen von Sun Chuanfangs Liga der Acht Provinzen eine Reihe von Verwaltungsposten, stieß jedoch auf die tief verwurzelte Korruption in den Ostprovinzen. Seine kompromisslose Haltung gegenüber Bestechung, Banditentum und Drogenkonsum trieb Dengying in die Provinz Anhui, wo Chen ihn als stellvertretenden Befehlshaber der Armee von Anhui rekrutierte und ihm erlaubte, die körperliche Ertüchtigung und sportliche Aktivitäten des Militärs zu leiten.§!\n\n§YWichtige Hinweise:§!\n§gDengying ist ein begeisterter Kunstsammler und Amateurdichter, der vor allem Verse wie diese verfasst:\n\"An einem Ort der Abgeschiedenheit in den Bergen, ohne offizielle Stellung oder Status, muss man dennoch die Beredsamkeit besitzen, den Staat zu sichern und die Nation zu regeln.\"\n\nEr ist eine führende Persönlichkeit in der Anti-Opium-Bewegung in Ostchina.§!"
 
  ANQ_wang_pu: "Wang Pu"
  ANQ_wu_yinchan: "Wu Yinchan"
@@ -318,22 +343,9 @@ anq_join_front_profengtian_tt: "§RWenn wir uns der Vereinigten Front anschließ
 
 anq_change_gov_pataut: "Die Regierung wechselt zum Paternal Autokraten.\n"
 
-#Integration and governor tooltips
-anq_integration_time_down_tt: "Die Entscheidung, die Provinz als Kernstaat von [ANQ.GetNameDef] wird §G20§! Tage schneller beendet.\n"
-anq_integration_cost_down_tt: "Die Entscheidung, die Provinz als Kernstaat von [ANQ.GetNameDef] zu integrieren, kostet §G30§! £pol_power Politische Macht weniger.\n"
-anq_integration_cost_up_tt: "Die Entscheidung, die Provinz als Kernstaat von [ANQ.GetNameDef] zu integrieren, kostet §R30§! £pol_power Politische Macht mehr.\n"
-anq_integration_costspeed_down_chenyzhe_tt: "Die Entscheidung, die Provinz als Kernstaat von [ANQ.GetNameDef] zu integrieren, kostet §G50§! £pol_power Politische Macht weniger und wird §G70§! Tage schneller vollendet.\n"
-anq_integration_costspeed_down_shangyzhe_tt: "Die Entscheidung, die Provinz als Kernstaat von [ANQ.GetNameDef] zu integrieren, kostet §G35§! £pol_power Politische Macht weniger und nimmt §G50§! Tage weniger in Anspruch.\n"
-anq_integration_costspeed_down_tt: "Die Entscheidung, die Provinz als Kernstaat von [ANQ.GetNameDef] zu integrieren, kostet §G20§! £pol_power Political Politische Macht weniger und nimmt §G30§! Tage weniger in Anspruch.\n"
-anq_integration_costspeed_up_tt: "Die Entscheidung, die Provinz als Kernstaat von [ANQ.GetNameDef] zu integrieren, kostet §R30§! £pol_power Politische Macht mehr und nimmt §R20§! Tage mehr in Anspruch.\n"
-anq_integration_costspeed_up_all_tt: "Die Entscheidung, die fünf Provinzen als Kernstaaten von [ANQ.GetNameDef] zu integrieren, kostet §R10§! £pol_power Politische Macht mehr und nehmen §R5§! Tage mehr in Anspruch.\n"
-
+#Governor tooltips
 anq_new_governor_jiangsu_tt: "Wir müssen warten, bis wir einen besseren Kandidaten finden."
 anq_has_installed_all_governors_tt: "Hat alle Provinzgouverneure ernannt. §gBis ein neuer Kandidat gefunden werden wird, kann dies ein oder zwei Monate dauern.§!"
-anq_can_integrate_tt: "Entsperrt £decision_icon_small §YProvinz Integrations§! Entscheidungen.\n"
-anq_can_integrate_five_provinces_tt: "Vollenden Sie das §Ychicksal der Gouverneure§! Ernennen Sie die neuen Gouverneure und dann die §YNeuen Provinz Regierungen§! konzentrieren Sie sich, um diese Entscheidung abzuschließen."
-anq_has_relocated_capital_tt: "Die Hauptstadt muss nach Nanjing verlegt worden sein. Schließe die §YNanjing Säuberungen§! Fokus für Ereignisse, um die Kosten und Zeit dieser Entscheidung bedeutsam zu reduzieren."
-anq_nanjing_purge_integration_tt: "§gDiese Bereinigung wird die Zeit bedeutsam reduzieren,die gebraucht wird, um §! §YNanjing zu integrieren!§!\n"
 
 #KMT/Yiguandao tooltips
 anq_can_suppress_tt: "Unterdrückung kann die Unruhestufe nur auf ein Minimum von 1 reduzieren!"
@@ -380,9 +392,6 @@ ANQ_redirect_criticism_japan_desc: "Unser Umgang mit Japan wurde von radikalen N
 
 ANQ_internal_decisions: "Notfall-Kriegsanfragen"
 ANQ_internal_decisions_desc: "Um in dem begrenzten Raum zu arbeiten, den wir haben, sind wir stark auf Hilfe aus dem Ausland angewiesen, insbesondere vom japanischen Reich und den Qing in unserem Nordwesten. Sie sind bereit, zu unseren Aktionen in den Kriegsländern der Liga beizutragen, werden uns aber auch weiterhin Ausrüstung schicken, wenn eine Kapitalrendite wahrscheinlich ist."
-
-ANQ_hastened_doctrine_adoption: "Beschleunigte Annahme der Doktrin"
-ANQ_hastened_doctrine_adoption_desc: "Wir haben keine Zeit, die beste Lehre richtig zu untersuchen. Wir müssen diesen Prozess beschleunigen und Andere anschauen, um die beste Vorgehensweise zu bestimmen und die Wirksamkeit unserer Streitkräfte zu erhöhen."
 
 ANQ_chens_propaganda: "Propaganda für Chen"
 
@@ -497,21 +506,6 @@ ANQ_temp_suppress_yiguandao_desc: "Die Yiguandao-Kultisten toben im Norden, grei
 ANQ_decision_lower_yiguandao_unrest: "Anti-Yiguandao-Razzien"
 ANQ_decision_lower_yiguandao_unrest_desc: "Jetzt, da wir begonnen haben, die Situation in Jiangsu zu verbessern und die meisten Anstifter loszuwerden, ist die Zeit für ein hartes Durchgreifen gekommen. Wir müssen die Zusammenkünfte von Yiguandao-Anhängern finden und verfolgen und sie mit Nachdruck beenden, um die Moral unseres Landes zu schützen."
 
-#Integrate provinces
-anq_integrate_hunan_province: "Installation der Zivilregierung in der Provinz Hunan"
-anq_integrate_guangdong_province: "Installation der Zivilregierung in der Provinz Guangdong"
-anq_integrate_guangxi_province: "Installation der Zivilregierung in der Provinz Guangxi"
-anq_integrate_shandong_province: "Installation der Zivilregierung in der Provinz Shandong"
-anq_integrate_jiangsu_province: "Installation der Zivilregierung in der Provinz Jiangsu"
-anq_integrate_jiangxi_province: "Installation der Zivilregierung in der Provinz Jiangxi"
-anq_integrate_zhejiang_province: "Installation der Zivilregierung in der Provinz Zhejiang"
-anq_integrate_fujian_province: "Installation der Zivilregierung in der Provinz Fujian"
-anq_integrate_nanjing: "Stellen Sie die volle Kontrolle über Nanjing her"
-
-anq_remove_lep_gvmt: "Beseitige die Nanjing Clique"
-anq_remove_sqi_gvmt: "Beseitige die Shandong-Clique"
-anq_purge_kmt_gvmt: "Beseitige die Kuomintang"
-
 #Influence System
 ANQ_influence_decisions: "Alliierte Diplomatie"
 ANQ_influence_decisions_desc: "[getanqinfluencesystem]"
@@ -538,9 +532,6 @@ ANQ_canal_dikes_qing_desc: "Nachdem wir Qing beim Bau von Kanälen und Deichen i
 
 ANQ_develop_wuchanganqing: "Entwickle Wuchang-Anqing"
 ANQ_develop_wuchanganqing_desc: "Die Region Wuchang-Anqing ist ein idealer Entwicklungsstandort, von dem sowohl [QIE.GetName] als auch Anqing profitieren. Wir werden erhebliche Ressourcen in die Verbesserung und Industrialisierung der Region investieren."
-
-ANQ_join_QIE_alliance: "Treten Sie der Qing Allianz bei"
-ANQ_join_QIE_alliance_desc: "Qing führt Krieg gegen Fengtian. Wir können nicht untätig zusehen, während souveränes chinesisches Territorium, das der Regierung gehört, die wir als das einzig legitime anerkennen, besetzt wird. Der fengtianische Staat mag chinesisch sein, er kämpft aber nicht für chinesische Interessen. Wir müssen jetzt handeln."
 
 ANQ_join_war_vs_FNG: "Schließe dich dem Krieg gegen Fengtian an"
 ANQ_join_war_vs_FNG_desc: "Jetzt, da wir mit Qing verbündet sind, ist es Zeit für uns, uns ihrem Krieg gegen die Invasoren der Fengtianer anzuschließen und China vor ihrem Bösen zu verteidigen."
@@ -570,7 +561,7 @@ ANQ_steel_prospect_for_resources: "Aussicht auf Eisenvorkommen"
 ANQ_steel_prospect_for_resources_desc: "Wir haben gute Informationen, die darauf hindeuten, dass es eine Reihe von wahrscheinlichen Eisenvorkommen in unserem Gebiet gibt. Wir sollten Expeditionen finanzieren, um diese Vorkommen zu finden."
 
 steel_huainan_find: "Entwicklung von Huainan-Minen"
-steel_changsa_find: "Entwickle Changsa-Minen"
+steel_changsa_find: "Entwickle Changsha-Minen"
 steel_nhunan_find: "Entwickle Minen im Norden von Hunan"
 steel_nanjing_find: "Entwicklung von Nanjing-Minen"
 steel_jinan_find: "Jinan-Minen entwickeln"
@@ -1137,11 +1128,11 @@ anq.1.d: "Empörung hallt in den Straßen von Anhui-Gerechtigkeit für Wuhu wide
 anq.1.a: "Es lebe der Gouverneur!"
 
 anq.2.t: "Eine Anfrage an Wu Peifu?"
-anq.2.d: "Mit dem Chaos in allen acht Provinzen ist sich Chen völlig bewusst, dass seine eigene Situation bald ebenfalls bedroht sein könnte. Um einen sofortigen Zusammenbruch oder ein entschlossenes militärisches Vorgehen eines unserer Feinde zu vermeiden, brauchen wir daher Verbündete. Der Jade-Marschall, der die Qing regiert und die größte Streitmacht in Ostchina besitzt, könnte sich hier als Vorteil erweisen, da gemunkelt wird, dass er verborgene Loyalitäten besitzt und unserer anti-konzessionistischen Sache helfen möchte. Es ist möglicherweise nicht ratsam, sofort um seine volle Unterstützung zu bitten. Stattdessen sollten wir ihn einfach bitten, bei der Finanzierung unserer Truppen mitzuwirken."
+anq.2.d: "Mit dem Chaos in allen acht Provinzen ist sich Chen völlig bewusst, dass seine eigene Situation bald ebenfalls bedroht sein könnte. Um einen sofortigen Zusammenbruch oder ein entschlossenes militärisches Vorgehen eines unserer Feinde zu vermeiden, brauchen wir daher Verbündete. Wu Peifu, der Jademarschall und eigentliche Chef der Qing-Regierung, verfügt über die größte Streitmacht in Ostchina und könnte sich als Vorteil erweisen, denn es wird gemunkelt, dass er verborgene Loyalitäten hegt und unsere antikonzessionistische Sache unterstützen will. Es ist möglicherweise nicht ratsam, sofort um seine volle Unterstützung zu bitten. Stattdessen sollten wir ihn einfach bitten, bei der Finanzierung unserer Truppen mitzuwirken."
 anq.2.a: "Senden Sie das Telegramm."
 
 anq.3.t: "Wu akzeptiert unsere Anfrage"
-anq.3.d: "Marschall Wu Peifu hat unser jüngstes Telegramm zurückgesandt, in dem er sein tiefes Mitgefühl für die Menschen in Anhui und seine Bewunderung für ihr Engagement für den chinesischen Ausnahmezustand zum Ausdruck bringt. In diesem grandiosen Brief gibt Marschall Wu jedoch niemals verbindlich an, ob Peking Anqing helfen wird. Gouverneur Chen hat ein Dilemma und wenig Zeit, sich zu entscheiden. Lohnt es sich, weiterhin mit Marschall Wu zusammenzuarbeiten, oder werden unsere kostbaren Tage in Frieden besser für einen anderen Plan für das diplomatische Überleben aufgewendet?"
+anq.3.d: "Marschall Wu Peifu hat unser jüngstes Telegramm zurückgesandt, in dem er sein tiefes Mitgefühl für die Menschen in Anhui und seine Bewunderung für ihr Engagement für den chinesischen Ausnahmezustand zum Ausdruck bringt. In diesem grandiosen Brief gibt Marschall Wu jedoch niemals verbindlich an, ob Peking Anqing helfen wird. Gouverneur Chen hat ein Dilemma und wenig Zeit, sich zu entscheiden. Lohnt es sich, weiter mit Marschall Wu zu verhandeln, oder sollten wir die wenigen kostbaren Tage des Friedens besser für einen anderen Plan zum diplomatischen Überleben nutzen?"
 anq.3.a: "Sieh? Was habe ich dir gesagt!"
 anq.3.b: "Kein Punkt. Er ist kaum mehr als ein deutscher Schoßhund."
 
@@ -1171,25 +1162,25 @@ anq.8.d: "Wahrscheinlich hat Wu Peifu, nachdem er von unseren Verbindungen nach 
 anq.8.a: "Wer sagt, dass er uns kein zweites Mal verraten wird?"
 anq.8.b: "Wir sind dankbar für seine Unterstützung"
 
-anq.9.t: "Chen Tiaoyuan tadelt unser Angebot"
+anq.9.t: "Chen Tiaoyuan lehnt unser Angebot ab"
 anq.9.d: "Wahrscheinlich frustriert von unserem früheren Verrat, hat sich der Gouverneur von Anqing geweigert, unseren Forderungen nachzukommen, und hat deutlich darauf hingewiesen, dass die Interessen seines Volkes bei der Fengtian-Regierung liegen. Um seinen Worten Kraft zu verleihen, hat er auch auf das Bestechungsgeld verzichtet, das wir geschickt haben, um ihn in Einklang zu bringen, um sicherzustellen, dass er keine Verpflichtung mehr gegenüber dem Qing hat."
-anq.9.a: "Das ist bedauerlich"
+anq.9.a: "Das ist bedauerlich."
 
-anq.10.t: "Qing verspricht seine Unterstützung"
-anq.10.d: "Die Liga liegt da nieder, schwelenden Ruinen, wo einst deutsche Fatcats mit Nanjing-Funktionären dinierten, während ihre Armee unorganisiert ist und untereinander streitet. Unsere Truppen haben nicht nur den Mut und die Hingabe, unsere Ziele zu einem erfolgreichen Abschluss zu bringen, sondern wir haben auch die Unterstützung des großen Wu Peifu selbst und mit ihm der Kaiserlichen Armee. Alles wurde in Bewegung gesetzt, es ist an der Zeit, die Liga aus ihrem Elend zu befreien, und als Phönix, der aus der Asche aufsteigt, wird Chen auch über die Wiedergeburt Chinas wachen!"
+anq.10.t: "[QIE.GetNameDefCap] sagt Unterstützung zu"
+anq.10.d: "Die Liga ist schwach; schwelende Ruinen zeigen, wo deutsche Bonzen einst mit Nanjing-Beamten dinierten, deren Armeen unorganisiert sind und sich untereinander streiten. Unsere Truppen haben nicht nur den Mut und die Hingabe, unsere Ziele zu einem erfolgreichen Abschluss zu bringen, sondern wir haben auch die Unterstützung des großen Wu Peifu selbst und mit ihm die Kaiserliche Armee. Alle Weichen sind gestellt, die Zeit ist gekommen, die Liga aus ihrem Elend zu befreien. Wie ein Phönix aus der Asche, so wird Chen über die Wiedergeburt Chinas wachen!"
 anq.10.a: "Mobilisiere die Truppen!" 
 
 anq.11.t_1: "Shangguan erhebt sich in Zhejiang"
 anq.11.t_2: "Chen Yi erhebt sich in Zhejiang"
 anq.11.d_1: "Gouverneur Chen Yi von Zhejiang hat sich in dieser verzweifeltsten Stunde auf die Seite des Anqing gestellt. Seine Streitkräfte haben sich um Jinhua versammelt und marschieren nach Norden, um die Provinzhauptstadt Hangzhou einzunehmen und die Streitkräfte von [LEP.GetLeader] auszuschalten. Shangguan schließt sich unserer Sache an!"
 anq.11.d_2: "Wie er uns versprochen hat, hat sich der Gouverneur der Provinz Zhejiang, Chen Yi, erhoben und sich unseren Kräften angeschlossen! Mit seiner Hilfe kontrollieren wir nun Hangzhou, das uns einen Hafen zur Aufnahme von Fengtian und verdeckten japanischen Lieferungen bietet. Dennoch ist der Korridor Anqing-Hangzhou alles andere als sicher, denn er ist eine leichte Beute für die überlegenen Kräfte von [LEP.GetLeader]."
-anq.11.a: "Unser Verbündeter schließt sich uns an"
+anq.11.a: "Unser Verbündeter schließt sich uns an."
 
 anq.12.t: "Sieg gegen Nanjing!"
-anq.12.d1: "Ein Anschein von Ordnung wurde in der ehemaligen Liga wiederhergestellt. Der Fall von Nanjing und der anschließende Abzug pro-deutscher Verräter haben gezeigt, dass ein China, das frei von Einmischung des Westens ist, immer noch eine Möglichkeit ist und der Anti-Konzessions-Bewegung einen erheblichen moralischen Schub verliehen hat. Darüber hinaus sind viele der ehemaligen Truppen von Nanjing zu uns übergelaufen!\n\nDer Weg ist jedoch lang und obwohl [ANQ.GetLeader] nun den Machtsitz seines ehemaligen Feindes kontrollieren kann, ist die Stabilität noch weit entfernt. Um eine starke Grundlage für die Regierung zu schaffen und die anhaltende Bedrohung durch die Yiguandao- und die Kuomintang-Bewegung zu bekämpfen, muss Chen alle Register ziehen, aber sollte er Erfolg haben, wird China in eine bessere und stärkere Zukunft gehen!"
+anq.12.d1: "In der ehemaligen Liga ist ein Anschein von Ordnung wiederhergestellt worden. Der Fall von Nanjing und der anschließende Abzug der pro-deutschen Verräter hat gezeigt, dass ein China ohne westliche Einmischung immer noch möglich ist, und hat der antikonzessionistischen Bewegung einen erheblichen moralischen Auftrieb gegeben. Darüber hinaus sind viele der ehemaligen Truppen von Nanjing zu uns übergelaufen!\n\nDer Weg, der vor uns liegt, ist jedoch lang, und obwohl [ANQ.GetLeader] jetzt den Sitz der Macht seines ehemaligen Feindes kontrollieren kann, ist Stabilität noch weit entfernt. Um eine solide Regierungsbasis zu schaffen und die anhaltende Bedrohung durch die Yiguandao und die Kuomintang zu bekämpfen, wird Chen alle Register ziehen müssen. Sollte ihm dies gelingen, so wird China wieder Hoffnung auf eine bessere und stärkere Zukunft haben!"
 anq.12.d2: "Die Nanjing Clique mag besiegt worden sein, aber wir haben noch nicht ihre Machtbasis, die südliche Hauptstadt Nanjing. Die Niederlage der Liga hat jedoch zu einer Welle erhöhter Moral unter allen chinesischen Freiheitskämpfern geführt und unserer Regierung eine wesentlich größere Unterstützung gegeben. Darüber hinaus sind viele der ehemaligen Truppen von Nanjing zu uns übergelaufen! Wir müssen gegen unsere verbleibenden Feinde vorgehen und alle fünf Provinzen sichern. Nur dann können wir an die Zukunft denken."
 anq.12.d3: "Ein Anschein von Ordnung wurde in der ehemaligen Liga wiederhergestellt. Der Fall von Nanjing und der anschließende Abzug pro-deutscher Verräter haben gezeigt, dass ein China, das frei von Einmischung des Westens ist, immer noch eine Möglichkeit ist und der Anti-Konzessions-Bewegung einen erheblichen moralischen Schub verliehen hat. Darüber hinaus sind viele der ehemaligen Truppen von Nanjing zu uns übergelaufen!\n\nDer Weg ist jedoch lang und obwohl [ANQ.GetLeader] nun den Machtsitz seines ehemaligen Feindes kontrollieren kann, sind die Bedrohungen für Norden und Süden immer noch sehr real. Wir müssen schnell handeln und sicherstellen, dass wir alle fünf Provinzen kontrollieren."
-anq.12.a: "Frieden ist nah" 
+anq.12.a: "Frieden ist nah." 
 
 anq.13.t: "Grenzscharmützel zwischen [ANQ.GetName] und [FROM.GetNameDef]"
 anq.13.d: "Das Regime in Nanjing war nicht die einzige Bedrohung, mit der unsere Streitkräfte zu kämpfen hatten, in den letzten Wochen haben wir versucht, die Sondierungen [FROM.GetNameDefs] in unserem Territorium zu ignorieren, aber [ANQ.GetLeader] hat entschieden, dass es durchaus notwendig sein könnte, zu handeln. Würden wir so weitermachen, würde unsere Untätigkeit als Zeichen der Schwäche gewertet werden, was uns später sehr schaden könnte, aber eine schwache Darstellung ist vielleicht genau das, was wir wollen, wenn wir uns für eine Falle entscheiden. [ANQ.GetLeader] hat eine Wahl zu treffen, er favorisiert..."
@@ -1216,11 +1207,11 @@ anq.18.d: "Da unser Einfluss auf die ehemaligen Gebiete von [LEP.GetLeader] etwa
 anq.18.a: "Beginnen Sie mit den Vorbereitungen"
 
 anq.19.t: "Aufständische auf der Anqing-Nanjing-Linie"
-anq.19.d: "Obwohl die Übertragung der Macht größtenteils reibungslos verlief, leiden die Versorgungslinien, die für die Verstärkung unserer Garnisonen an der Küste mit Arbeitskräften und Ausrüstung von Anqing verantwortlich sind, unter zunehmenden Angriffen der Aufständischen und Banditen, was zum Verlust einer erheblichen Menge dringend benötigter Unterstützung führt. Abteilungen der Armee wurden geschickt, um diese Unruhestifter niederzuschlagen, aber ihre Aktionen kosten uns sowohl Zeit als auch Geld."
+anq.19.d: "Obwohl die Machtübergabe größtenteils reibungslos verlief, leiden die Nachschublinien, die unsere Garnisonen an der Küste mit Personal und Ausrüstung aus Anqing verstärken sollen, unter zunehmenden Angriffen von Aufständischen und einfachem Banditentum, wodurch eine beträchtliche Menge dringend benötigter Unterstützung verloren geht. Es wurden Abordnungen der Armee entsandt, um diese Unruhestifter niederzuschlagen, aber ihre Aktionen kosten uns sowohl Zeit als auch Geld."
 anq.19.a: "Sehr Unglücklich"
 
 anq.20.t: "Bombenanschlag in Nanjing"
-anq.20.d: "Die Hauptstadt wurde heute von einem weiteren Aufstand erschüttert, als ein Munitionsdepot von vermutlich Kuomintang-Terroristen in die Luft gesprengt wurde. Obwohl es keinen eindeutigen Beweis dafür gibt, dass die sozialistische Organisation verantwortlich war, wurde der Angriff von unserer Regierung als barbarischer Akt zur Bedrohung der chinesischen Souveränität gesponnen. Die Kuomintang verkaufte sich nicht nur an die Imperialisten in Frankreich, sie fungieren nun auch als ihre Kumpane, um die legitime chinesische Regierung zu Fall zu bringen, um das Jahrhundert der Demütigung für weitere 100 Jahre dauern zu lassen."
+anq.20.d: "Die Hauptstadt wurde heute von einem weiteren Akt des Aufruhrs erschüttert, als ein Munitionsdepot von - vermutlich - Kuomintang-Terroristen in die Luft gesprengt wurde. Zwar gibt es keine stichhaltigen Beweise dafür, dass die sozialistische Organisation dafür verantwortlich ist, doch wurde der Anschlag von unserer Regierung als barbarischer Akt dargestellt, der die chinesische Souveränität bedrohen soll. Die Kuomintang hat sich nicht nur an die Imperialisten in Frankreich verkauft, sondern agiert jetzt auch als deren Kumpane in dem Versuch, die rechtmäßige chinesische Regierung zu stürzen und das Jahrhundert der Demütigung noch weitere 100 Jahre andauern zu lassen."
 anq.20.a: "Zumindest Chen wurde nicht verletzt "
 
 # Nanjing Purge
@@ -1288,8 +1279,8 @@ anq.33.a: "Wir beginnen beim ersten Licht!"
 
 # Happenings on the ground
 anq.34.t: "Zügellose Kriegs-Profiteure"
-anq.34.d: "Während unsere Truppen die Kämpfe um die Zukunft Chinas führen, schwänken Kriminelle und Banditen das Zepter in den riesigen Agrarregionen des Hinterlandes. Die jüngsten Engpässe haben die lokale Bevölkerung erpresst und durch ihre Kontrolle über die Versorgung mit Nahrungsmitteln ganze Städte als Lösegeld, hat zu vielen Aufrufen zur Intervention der Armee geführt. Overstretched and barely capable of harvesting enough for themselves, there seems to be little hope for the time being."
-anq.34.a: "Das ist weniger ideal"
+anq.34.d: "Während unsere Truppen die Schlachten schlagen, die über die Zukunft Chinas entscheiden, haben Kriminelle und Banditen in den weiten Agrarregionen des Hinterlandes das Sagen. Sie erpressen die örtliche Bevölkerung und halten ganze Städte durch ihre Kontrolle über die Lebensmittelversorgung in Atem. Die jüngsten Engpässe haben die Situation nur noch verschlimmert, so dass viele ein Eingreifen der Armee fordern. Überfordert und kaum in der Lage, genug für sich selbst zu ernten, scheint es im Moment wenig Hoffnung zu geben."
+anq.34.a: "Das ist alles andere als ideal."
 
 anq.35.t: "Einnahmensteuermarken"
 anq.35.d: "Eine alte aber vertraute Weise, Extraeinnahmen zu erzeugen, ist der Gebrauch von Einnahmensteuermarken. Diese Marken, die für eine Vielzahl von Rechtsdokumenten erforderlich sind, wurden auch auf allgemeineren Waren wie Alkohol, Drogen, Tabak und einer Vielzahl anderer Waren angebracht.\n\nDa sich die Staatskasse in einer praktisch endlosen Abwärtsspirale befindet, hat die Regierung die Notwendigkeit erkannt, die Kosten zu erhöhen, um mehr Einnahmen zu erzielen. Proteste und zivile Unzufriedenheit sind fast unmittelbar nach der Ankündigung ausgebrochen, aber wir können wenig tun, um ihre Probleme zu vermitteln."
@@ -1451,63 +1442,63 @@ anq.74.a: "Beeindruckend"
 anq.75.t: "Banditen Problem"
 anq.75.d: "Während wir das Land von den ungeheuerlichsten Unruhestiftern befreit haben, bleiben Banditen auf den Straßen ein häufiges Problem, wir können wenig tun , da wir eine enorme Bevölkerung haben, von der viele arm sind. Obwohl wir möglicherweise nicht in der Lage sind, die Anzahl der Banditen zu verringern, können wir den Handel und friedliche Reisende schützen. Ein Problem ist, dass unser Land riesig und unsere Verwaltung begrenzt ist. Der Chinesische Rat der Einheit  ist mit einer Lösung auf uns zugekommen. Wenn wir Qing-Truppen und lokalen Milizen erlauben, die Grenze zu überqueren, um Reisende zu begleiten, wird dies den Druck unserer Streitkräfte erheblich verringern."
 anq.75.a: "Gute Idee"
-anq.75.b: "Wir werden keine Qing-Truppen hereinlassen"
+anq.75.b: "Wir werden keine Qing-Truppen hereinlassen."
 
 anq.76.t: "Sichere Eisenbahnen"
 anq.76.d: "Nicht nur unsere Straßen sind gefährlich, auch unsere Eisenbahnen können es sein. Zu oft zwingen Banditen Züge zum Halten und rauben sie aus. Da zwischen unserem Land und Qing viel Zugverkehr herrscht, sollten wir den Qing-Truppen erneut erlauben, in den Zügen zu bleiben, um ihre Bewachung wesentlich effizienter zu gestalten."
 anq.76.a: "Gute Idee"
-anq.76.b: "Wir werden keine Qing-Truppen hereinlassen"
+anq.76.b: "Wir werden keine Qing-Truppen hereinlassen."
 
-anq.77.t: "Staaten des Landes"
-anq.77.d: "Während wir tatsächlich die fünf Provinzen zusammengebracht und die verräterische Nanjing-Clique besiegt haben, sieht dieses schöne Land nicht mehr danach aus. Stattdessen sind Krieg und Zerstörung darauf niedergegangen, und ja, wir müssen zugeben, dass wir dabei eine Rolle gespielt haben. Aber jetzt ist es an der Zeit, wieder aufzubauen, die derzeit militärisch besetzten Provinzen wieder unter zivile Herrschaft zu bringen und die fünf Provinzen wirklich zu einem Ganzen zu machen. Wir müssen mit dem Wiederaufbau und der Instandsetzung der zerbrochenen Landschaft beginnen, aber auch mit unserer Industrie, die jetzt infolge der Flucht der Westler und der Schäden im Krieg verfallen ist. Es gibt viel zu tun."
-anq.77.a: "Wir werden dieses Land wieder aufbauen"
+anq.77.t: "Zustand der fünf Provinzen"
+anq.77.d: "Wir haben zwar die Fünf Provinzen zusammengeführt und die verräterische Nanjing-Clique besiegt, aber diese schöne Region Chinas sieht nicht mehr so aus wie früher. Stattdessen sind Krieg und Zerstörung über sie hereingebrochen, und wir müssen zugeben, dass wir eine Rolle dabei gespielt haben, diese Verwüstung über das Land zu bringen. Doch nun ist die Zeit des Wiederaufbaus gekommen - eine Zeit, in der die derzeit militärisch besetzten Provinzen wieder unter zivile Herrschaft gestellt werden und die Fünf Provinzen wirklich ganz werden. Wir müssen mit dem Wiederaufbau beginnen und nicht nur die verwüstete Landschaft instand setzen, sondern auch unsere Industrie, die durch die Flucht der Menschen aus dem Westen und die Kriegsschäden brach liegt. Es gibt eine Menge Arbeit zu tun."
+anq.77.a: "Wir werden dieses Land wieder aufbauen."
 
 anq.78.t: "Kuomintang und Yiguandao"
 anq.78.d: "Wir haben die staatlichen Bedrohungen für unseren Norden und Süden neutralisiert, aber leider endeten die Probleme damit nicht. Die Kuomintang, obwohl sie auf dem Feld besiegt wurden, sind zu ihren ehemaligen Stützpunkten zurückgekehrt, die in Fujian versteckt waren. Sie werden weiterhin Chaos anrichten, wenn wir nicht schnell handeln.\n\nDie Yiguandao haben möglicherweise nicht mehr Zhang Tianran, die Fanatiker versuchen aber weiterhin, eine umfassende religiöse Revolution zu inspirieren, und sind immer noch stark in unserem Gebiet aktiv. Wir werden uns auch mit ihnen befassen müssen."
-anq.78.a: "Wir werden beide Bewegungen ausrotten"
+anq.78.a: "Wir werden beide Bewegungen ausrotten."
 
 anq.79.t: "Neue Ressourcennutzung"
 anq.79.d: "Jetzt, da wir die volle Kontrolle über unser Territorium haben, haben Geschäfte und Unternehmen begonnen zu florieren, ebenso wie unsere Industrie. Bergbauunternehmen und Prospektoren haben berichtet, dass es eine Reihe von Gebieten geben könnte, in denen zusätzliche Mineralien gefunden werden könnten, insbesondere Eisen und Kohle. Diese Bereiche sind jedoch schwer zu entwickeln. Eine Partnerschaft mit dem Qing wäre in diesem Fall sehr vorteilhaft, da es viele Qing-Unternehmen gibt, die auf die Suche und Entwicklung von Ressourcen spezialisiert sind."
-anq.79.a: "Zusammenarbeiten"
-anq.79.b: "Mach es alleine"
+anq.79.a: "Zusammenarbeiten."
+anq.79.b: "Mach es alleine."
 
 anq.80.t: "Mineralrechte"
 anq.80.d: "Nachdem wir die Qing in unser Mineralprojekt aufgenommen haben, haben sie begonnen, Forderungen zu stellen. Tatsächlich fordern sie die Rechte an einigen unserer wertvollsten Eisenminen, nämlich denen in Wuhu. Natürlich haben wir bereits Ja zu diesem Projekt gesagt, und was sie anbieten, könnte uns mehr Mineralproduktion als bisher, aber müssen wir wirklich auch etwas verschenken?"
-anq.80.a: "ib ihnen die Ressourcen in Wuhu"
-anq.80.b: "Verweigere sie, sie werden uns trotzdem helfen"
+anq.80.a: "ib ihnen die Ressourcen in Wuhu."
+anq.80.b: "Verweigere sie, sie werden uns trotzdem helfen."
 
 anq.81.t: "Qing-Gerichtsrechtsprechung"
 anq.81.d: "Der Verbindungsrat von Peking hat eine neue Anfrage an Chens Regierung gestellt. Sie sagen, um die Zusammenarbeit zu erleichtern und die Sicherheit der Bürger in beiden Ländern zu gewährleisten, sollte es jetzt möglich sein, von Qing-Gerichten in der Anqing-Clique als Qing-Bürger vor Gericht gestellt zu werden. Ja zu sagen würde bedeuten, das alle unsere Bürger technisch gesehen auch Qing-Bürger sind. Es würde bedeuten, dass am Ende die Qing-Gerichte die höchste Zuständigkeit haben. Wenn wir jedoch Nein sagen, sind die Qing möglicherweise nicht bereit, wertvolle Hilfe zu leisten, da sie sich der gesetzlichen Rechte ihrer Unternehmen und Bürger nicht sicher sind."
-anq.81.a: "Geben Sie den Qing-Gerichten Macht"
-anq.81.b: "Lehne sie ab"
+anq.81.a: "Geben Sie den Qing-Gerichten Macht."
+anq.81.b: "Lehne sie ab."
 
 anq.82.t: "Qing gesetzliche Rechte" 
 anq.82.d: "Während wir kürzlich den Qing-Antrag zurückgewiesen haben, die oberste Zuständigkeit ihrer Gerichte in unserem Hoheitsgebiet zuzulassen, haben sie gefordert, dass wir die Rechte ihrer Bürger und Unternehmen auf andere Weise garantieren. Wir müssen spezielle Definitionen für sie vornehmen und ihnen besondere Rechte gewähren, die sie normalerweise nicht hätten, da ihr Justizsystem weit fortgeschrittener ist als unser. Dies wird höchstwahrscheinlich bei unserer Bevölkerung nicht gut ankommen."
-anq.82.a: "Gewähren Sie spezielle Rechte"
+anq.82.a: "Gewähren Sie spezielle Rechte."
 
 anq.83.t: "Qing-Unternehmen" 
 anq.83.d: "Qing-Unternehmen werden immer eifriger, auch in unserem Land zu investieren. Sie sagen uns jedoch auch, dass sie oft von lokalen Regierungen und Hürden auf lokaler Ebene zurückgewiesen wurden. Der Verbindungsrat von Peking setzt sich jetzt dafür ein, dass wir Systeme einrichten, damit die Unternehmen diese lokalen Regierungen umgehen und teilweise nach dem Qing-Gesetz arbeiten können. Dies könnte zwar die Investitionstätigkeit anregen, birgt jedoch das Risiko, den lokalen Unternehmen den Wettbewerb zu erschweren."
-anq.83.a: "Akzeptieren Sie den Vorschlag"
-anq.83.b: "Wir werden nicht unfair sein"
+anq.83.a: "Akzeptieren Sie den Vorschlag."
+anq.83.b: "Wir werden nicht unfair sein."
 
 anq.84.t: "Qing-Investitionen steigen" 
 anq.84.d1: "Obwohl dies möglicherweise zweifelhaft und sehr wahrscheinlich unfair ist, hat es sich als sehr vorteilhaft erwiesen, Qing-Unternehmen die Möglichkeit zu geben, in unserem ressourcenreichen Land leichter Geschäfte zu tätigen, da wir kürzlich einen erheblichen Zustrom von Investitionen aus dem Norden festgestellt haben. Es scheint, als hätte die Zusammenarbeit ihre Vorteile."
 anq.84.d2: "Auch wenn uns die Art und Weise, wie es geschehen ist, vielleicht nicht gefällt, müssen wir zugeben, dass die besonderen Überlegungen, die für Qing-Unternehmen gemacht wurden, zu einer erheblichen Erhöhung ihrer Investitionen geführt haben. Vielleicht hätten wir das erste Mal akzeptieren sollen."
-anq.84.a: "Immerhin gute Nachrichten"
+anq.84.a: "Immerhin gute Nachrichten."
 
 anq.85.t: "Qing sendet ein weiteres Angebot" 
 anq.85.d: "Wir hatten gehofft, dass die Qing das Thema nicht weiter verfolgen würden, aber leider taten sie es. Der Verbindungsrat von Peking hat sein sehr ernstes Missfallen über unsere jüngsten Maßnahmen zum Ausdruck gebracht. Sie haben auch eine weitere Anfrage gestellt, diesmal noch weitreichender. Sie wollen nicht nur, dass Qing-Unternehmen die lokalen Regierungen umgehen, sondern auch, dass wir ein spezielles Komitee einrichten, das ihre Interessen vertritt und ihnen eine formelle Stimme in der Regierung gibt. Sie haben uns auch mitgeteilt, dass die Konsequenzen für die Ablehnung diesmal weitaus bedeutender sein werden."
-anq.85.a: "Wir müssen akzeptieren"
-anq.85.b: "Wir können das immer noch nicht akzeptieren"
+anq.85.a: "Wir müssen akzeptieren."
+anq.85.b: "Wir können das immer noch nicht akzeptieren."
 
 anq.86.t: "Qing bestraft Unternehmen" 
 anq.86.d: "Qing war mit unseren Maßnahmen überhaupt nicht zufrieden und hat infolgedessen einige vorübergehende Sanktionen gegen in ihrem Hoheitsgebiet tätige Unternehmen verhängt. Dies wird höchstwahrscheinlich für eine Weile weh tun."
-anq.86.a: "Das ist nicht schön"
+anq.86.a: "Das ist nicht schön."
 
 anq.87.t: "Puyi besucht Nanjing" 
 anq.87.d: "Der Kaiser Puyi selbst hat Nanjing in einer großen Zeremonie besucht. Sowohl Wu Peifu als auch Chen Tiaoyuan waren anwesend und bekräftigten öffentlich die Nord-Süd-Freundschaft und Anqings anhaltende Anerkennung von Qings Vormachtstellung über China. Während das chinesische Volk in den letzten Jahrzehnten Schwierigkeiten hatte zu akzeptieren, dass ein Kaiser erneut über sie regierte, wächst die Akzeptanz Seiner Majestät. Wie wird Nanjing auf seine Anwesenheit reagieren?"
-anq.87.a: "Nanjing begrüßt ihn mit offenen Armen"
-anq.87.b: "Proteste verwüsten die Straßen"
+anq.87.a: "Nanjing begrüßt ihn mit offenen Armen."
+anq.87.b: "Proteste verwüsten die Straßen."
 
 anq.88.t: "Der Verbindungsrat von Peking rügt Chen" 
 anq.88.d: "Chen Tiaoyuan wurde zu einer Audienz beim Abgesandten des Verbindungsrates von Peking gerufen, wo er wegen seiner unzureichenden Reaktion auf die Proteste gerügt wurde, als der Kaiser Nanjing besuchte. Der Rat fordert eine Entschuldigung sowie Anqing finanziert ein Projekt zum Bau eines großen kaiserlichen Palastes, den Puyi in Nanjing besuchen kann."
@@ -1516,77 +1507,77 @@ anq.88.b: "Das können sie nicht verlangen!"
 
 anq.89.t: "Kaiserpalast in Nanjing" 
 anq.89.d: "Der Verbindungsrat von Peking hat eine Botschaft des Kaisers Puyi selbst weitergeleitet, in der er um Erlaubnis bittet, einen Palastkomplex in Nanjing zu errichten, damit er Nanjing häufiger besuchen und seine südlichen Untertanen sehen kann. Er sagt, dass wir aufgrund unserer ausgezeichneten Handhabung seines Besuchs nichts selbst bezahlen müssen."
-anq.89.a: "Es ist nicht so, dass wir nein sagen können"
+anq.89.a: "Es ist nicht so, dass wir nein sagen können."
 
 anq.90.t: "Versammlung von Intellektuellen" 
 anq.90.d: "Auf Initiative des Verbindungsrates von Peking haben sich verschiedene chinesische Intellektuelle aus dem ganzen Land, insbesondere Nanjing und Peking, versammelt und sind zu demselben Ergebnis gekommen: China muss sich jetzt und nicht später vereinen. Obwohl sie zugeben, dass politische Differenzen schwer zu überwinden sein könnten und dass eine Qing-Monarchie nicht ideal ist, sagen sie, dass Reformen immer später kommen können. Die Regierung Qing hat so weit und breit Verbreitet und gesagt, dass es jetzt an der Zeit ist, sich zu vereinen. Chen Tiaoyuan, der von nationalistischen Gruppen unter Druck gesetzt wurde, hat folgende Erklärung abgegeben:"
 anq.90.a: "Wir werden den Prozess beschleunigen!"
-anq.90.b: "Lokale Autonomie übertrumpft Vereinigung"
+anq.90.b: "Lokale Autonomie übertrumpft Vereinigung."
 
 anq.91.t: "Qing verbreitet Gegenbotschaft" 
 anq.91.d: "Leider hat Qing Chens Worte über Autonomie nicht sehr gut aufgenommen. Sie hielten sie sogar für so schlecht, dass sie eine aktive Informationskampagne in unserem Land, eigentlich in ganz China, starteten. Ihre Botschaft bestand hauptsächlich aus Argumenten, die Chens Worte "entlarvten". Diese Nachrichten bestanden hauptsächlich aus Argumenten, die Chens Worte 'entlarvten'. Es wird schwer zu verhindern sein, dass es sich ausbreitet."
-anq.91.a: "Bedauerlich"
+anq.91.a: "Bedauerlich."
 
 anq.92.t: "Kanal- und Flussbehörde" 
 anq.92.d: "Unsere jüngsten Erfahrungen mit der Entwicklung von Deichen und unsere Bemühungen, den Subei-Kanal fertigzustellen, haben den Verbindungsrat von Peking veranlasst, sich an uns zu wenden, um Projekte in einer Größenordnung durchzuführen, die nicht nur auf unser derzeitiges Gebiet beschränkt ist, sondern auch die Qing-Länder einschliest. Akzeptieren wir ihr Angebot und arbeiten mit Qing zusammen, um zusätzliche Kanäle zu bauen? Wenn wir das tun, werden wir ihnen zuerst helfen. Nachdem sie fertig sind, werden sie uns bei zusätzlichen Bauarbeiten in Jinhua und Qiantang helfen."
-anq.92.a: "Ja, hilf ihnen"
-anq.92.b: "Nein, das können wir uns nicht leisten"
+anq.92.a: "Ja, hilf ihnen."
+anq.92.b: "Nein, das können wir uns nicht leisten."
 
 anq.93.t: "Vertiefung der Armeekooperation" 
 anq.93.d1: "Jetzt, da wir gemeinsame Ziele haben und mit Qing in einer Allianz vereint sind, ist es an der Zeit, dass unsere Armeen enger zusammenarbeiten. Der Verbindungsrat von Peking in Nanjing hat eine neue Abteilung eingerichtet, die als Armee-Kooperationskommission bekannt ist und auf das Ziel hinarbeiten wird, unsere Streitkräfte weiter zu integrieren. Die ersten Schritte sind bereits getan. Nun ist diese Kommission erneut zu Chen gekommen und hat um zusätzliche Zusammenarbeit gebeten. Sind wir interessiert?"
 anq.93.d2: "Während wir das letzte Mal die Bitte der Army Cooperation Commission um zusätzliche Zusammenarbeit mit Qing zurückgewiesen haben, sind sie jetzt wieder gekommen und haben gefragt, ob wir unsere Militärs weiter integrieren wollen. Sie sagen, dass wir uns keine Sorgen machen müssen und dass die Einheiten weiterhin in erster Linie auf Chen Tiaoyuan höhren werden."
-anq.93.a: "Nein, was wir getan haben, ist genug"
-anq.93.b: "Wir können die nächsten Schritte unternehmen"
+anq.93.a: "Nein, was wir getan haben, ist genug."
+anq.93.b: "Wir können die nächsten Schritte unternehmen."
 
 anq.94.t: "Integrierte Befehlsstruktur" 
 anq.94.d: "Die Armee-Kooperationskommission hat ihren Plan zur Vertiefung der militärischen Beziehungen zwischen den Armeen Qing und Anqing vorgelegt. Zunächst haben sie eine begrenzte Integration der Kommandostruktur beider Länder vorgeschlagen. Es geht insbesondere darum, die moderne Qing-Struktur in die veralteten Kriegsherren-Armeen von Anqing einzuführen. Während dies Qing mehr Macht über unsere Armeen geben kann, können die Vorteile nicht geleugnet werden."
-anq.94.a: "Ja, führen Sie die Integration aus"
-anq.94.b: "Nein, wir wollen die Kontrolle nicht abgeben"
+anq.94.a: "Ja, führen Sie die Integration aus."
+anq.94.b: "Nein, wir wollen die Kontrolle nicht abgeben."
 
 anq.95.t: "Geteilte Offiziersausbildung" 
 anq.95.d: "Vor kurzem hat die Army Cooperation Commission festgestellt, dass Missverständnisse in den neu integrierten Kommandostrukturen ein häufiges Problem sind. Um hier Abhilfe zu schaffen und den Anqing-Offizieren eine dringend benötigte taktische Auffrischung zu ermöglichen, wurde ein gemeinsames Ausbildungsprogramm für Offiziere vorgeschlagen, das von Qing-Generälen durchgeführt wird. Dies dürfte die Ergebnisse sicherlich weiter verbessern."
-anq.95.a: "Gute Idee"
-anq.95.b: "Wir wollen das nicht"
+anq.95.a: "Gute Idee."
+anq.95.b: "Wir wollen das nicht."
 
 anq.96.t: "Verteidigungsausbildung" 
 anq.96.d: "Jetzt, da es eine angemessene Integration zwischen unseren Armeen gibt, ist es an der Zeit, sie in Aktion zu testen. Die Armee-Kooperationskommission plante große Militärübungen, die sich in erster Linie auf die Verteidigung gegen unseren Feind Fengtian konzentrierten. Dies sollte unsere Divisionen hoffentlich besser auf die anstrengende Arbeit der Verteidigung gegen die feindliche Invasion vorbereiten."
-anq.96.a: "Ja, nehmen Sie an den Übungen teil"
-anq.96.b: "Nein, wir werden nicht teilnehmen"
+anq.96.a: "Ja, nehmen Sie an den Übungen teil."
+anq.96.b: "Nein, wir werden nicht teilnehmen."
 
 anq.97.t: "Vorläufige Währungsunterstützung" 
 anq.97.d: "Vor einiger Zeit haben wir eine vorläufige Währung eingerichtet, die in allen Provinzen geteilt wird. Es war ein großer Erfolg, den Handel zu verbessern und die Beschränkungen für die Fortbewegung in den Provinzen zu lockern. Aber jetzt hat sich [getanqally] an uns gewandt, wenn wir bereit sind, sie die Währung freizugeben, wobei ihre Zentralbank sie kontrolliert. Die Währung würde getrennt bleiben und technisch würde ihre Zentralbank Entscheidungen nur mit ihrer Zustimmung treffen, in Wirklichkeit würde dies immer noch bedeuten, die Kontrolle zu verlieren. Eine [getanqally] Unterstützung der Währung würde sie jedoch erheblich stabiler machen und auch die Einführung beschleunigen und ihre Verwendung weiter verbessern."
-anq.97.a: "Ja wir geben sie frei"
-anq.97.b: "Nein, wir wollen die volle Kontrolle"
+anq.97.a: "Ja wir geben sie frei."
+anq.97.b: "Nein, wir wollen die volle Kontrolle."
 
 anq.99.t: "Wu trifft Chen"
 anq.99.d: "Wu Peifu ist gekommen, um Chen in einem streng vertraulichen Treffen zu treffen. Wu Peifu reiste nur mit einem kleinen Gefolge und es war klar, dass er nicht hier war, um Qing zu propagieren, sondern nur um Chen zu überzeugen. Wu erschien müde, aber er übte auch eine Aura der Macht aus, mit der selbst Chen nicht mithalten konnte.\n\nDas Treffen dauerte nicht mehr als zwei Stunden, wobei Chen Tiaoyuan ohne ein Lächeln aus dem Raum auftauchte, in Gedanken versunken. Es wurde schnell klar, dass Chen wenig Gegenargumente auf Wus Beredsamkeit und Argumente hatte. China musste geeint werden, und das bald."
-anq.99.a: "Wir können Wu vertrauen"
+anq.99.a: "Wir können Wu vertrauen."
 
 anq.101.t: "Öffentliche Qing-Anqing-Konferenz?"
 anq.101.d1: "Die Qing haben sich mit dem Vorschlag an uns gewandt, eine große öffentliche Konferenz zwischen unseren Führern in Nanjing abzuhalten. Puyis Besuch in Nanjing war ein großer Erfolg und als solcher haben die Qing gefragt, ob wir Puyi noch einmal einen Besuch gestatten. Sie erwähnten auch, dass es schön wäre, die Veranstaltung in Puyis neuem Palast in Nanjing abzuhalten. Nun stellt sich die Frage, stimmen wir zu, die Veranstaltung abzuhalten?"
 anq.101.d2: "Die Qing haben sich mit dem Vorschlag an uns gewandt, eine große öffentliche Konferenz zwischen unseren Führern in Nanjing abzuhalten. Puyis Besuch in Nanjing war ein massiver Fehlschlag und als dieses Mal haben die Qing beschlossen, Puyi zu Hause bleiben zu lassen. Sie hoffen, dass wir diesen unglücklichen Vorfall überwinden können. Sie erwähnten, dass sein neuer Palast in Nanjing als Standort verwendet werden könnte. Nun stellt sich die Frage, stimmen wir zu, die Veranstaltung abzuhalten?"
-anq.101.a: "Ja, halten Sie die Veranstaltung ab"
-anq.101.b: "Nein, sie müssen zu Hause bleiben"
+anq.101.a: "Ja, halten Sie die Veranstaltung ab."
+anq.101.b: "Nein, sie müssen zu Hause bleiben."
 
 anq.102.t: "Ergebnis der Konferenz"
 anq.102.d: "Die Konferenz dauerte mehrere Tage. Zehntausende von Menschen besuchten uns, um einen Blick auf die nationalen Führer Chinas zu werfen. Wu Peifu und Chen Tiaoyuan schienen freundlich und konnten häufig händeschüttelnd für ein Foto gesichtet werden. Aber jetzt kommt die große Frage. Wurden echte Fortschritte erzielt? Hat Chen neuen Zugeständnissen an Wu zugestimmt?"
 anq.102.a: "Die Vereinigung ist jetzt viel näher"
-anq.102.b: "Der Fortschritt war angemessen"
-anq.102.c: "Es wurden fast keine Fortschritte erzielt"
+anq.102.b: "Der Fortschritt war angemessen."
+anq.102.c: "Es wurden fast keine Fortschritte erzielt."
 
 anq.103.t: "Qing und die Dalu Yinhang Kredite"
 anq.103.d1: "Die Qing haben sich mit dem folgenden verlockenden Angebot an uns gewandt: Sie sagen, dass sie die Kreditbedingungen, die uns durch die Dalu Yinhang-Kredite auferlegt werden, erheblich lockern werden, wodurch der Schuldendienst praktisch so niedrig wird, dass er fast kostenlos ist. Im Gegenzug wollen sie, dass wir einige zusätzliche Schritte zur Integration und zur künftigen Vereinigung unternehmen. Lohnt sich das?"
 anq.103.d2: "Die jüngsten Kredite von Dalu Yinhang, die wir aufgenommen haben, haben dringend benötigtes Kapital für die industrielle Expansion bereitgestellt. Jetzt kommen die Qing mit einem Angebot für zusätzliche Kredite auf uns zu, ähnlich wie wir es von Dalu Yinhang erhalten haben. Dies erfordert, dass wir eine Entscheidung treffen. Sind die Kredite die zusätzliche Erwartung wert, die die Qing von uns in Bezug auf die Vereinigung erwarten wird?"
-anq.103.a: "Ja, akzeptieren"
-anq.103.b: "Nein, es lohnt sich nicht"
+anq.103.a: "Ja, akzeptieren."
+anq.103.b: "Nein, es lohnt sich nicht."
 
 anq.104.t: "Wu trifft Anti-Konzessionisten"
 anq.104.d: "Der wahre Führer der Qing-Regierung, Wu Peifu, traf sich kürzlich mit verschiedenen Führern der Anti-Konzessions-Liga. Diese Nachricht kam Chen durch einen der pro-republikanischeren Anti-Konzessions-Führer zu Ohren, der Chen gebeten hat, eine starke Haltung gegen Qing einzunehmen und eine unabhängige Republik zu proklamieren. Natürlich weiß Chen sehr gut, dass er weder Rückendeckung noch Unterstützung hat, die für einen solchen Schritt erforderlich sind, und sich stattdessen viel enger mit dem Qing verbunden hat. Chen verzeiht auch Wu Peifu, denn er respektiert den Mann. Dennoch ist es bedauerlich, dass Wu Peifu ihm den Rücken zugewand hat."
-anq.104.a: "Hinterhältiger Bastard"
+anq.104.a: "Hinterhältiger Bastard."
 
 anq.105.t: "Zusätzliche Hilfe von Qing"
 anq.105.d: "Unser kooperativer Ansatz für den Wiederaufbau hat bereits zu einem Zustrom von Unterstützung aus Qing geführt, aber ein Großteil davon wurde von den lokalen Regierungen und durch kleinere Initiativen geleistet. Ihre Regierung hat jedoch beschlossen, zusätzliche Unterstützung zu leisten, damit der Wiederaufbau schneller und mit weniger Hindernissen abgeschlossen werden kann."
-anq.105.a: "Jede Hilfe ist willkommen"
+anq.105.a: "Jede Hilfe ist willkommen."
 
 anq.106.t: "Notfall-Kriegsproduktion"
 anq.106.d: ""
@@ -1615,25 +1606,25 @@ anq.111.a: ""
 anq.113.t: "Qing Regierung unzufrieden"
 anq.113.d1: "Unsere Qing-Wohltäter haben uns mitgeteilt, dass sie sehr unzufrieden sind mit dem Verlauf der Beziehung zwischen uns.Wir haben zwar hart daran gearbeitet, zusammenzuarbeiten und uns anzunähern, aber in letzter Zeit haben wir viele ihrer Vorschläge abgelehnt. Sie haben begonnen, ihre Agenten gegen uns einzusetzen, und sabotieren uns jetzt aktiv, wenn wir keine Reue zeigen."
 anq.113.d2: "Während ihre Wut in letzter Zeit etwas nachgelassen hat, ist die Qing-Regierung weiterhin unzufrieden mit unseren Handlungen und wir können es uns definitiv nicht leisten, sie mehr zu verärgern. Wir müssen vorsichtig sein."
-anq.113.a: "Das ist nicht gut"
+anq.113.a: "Das ist nicht gut."
 
 anq.114.t: "Eskalierter Qing-Konflikt"
 anq.114.d1: "Der Konflikt mit unseren Qing-Wohltätern ist eskaliert, da wir sie mit unseren jüngsten Aktionen nur noch mehr verärgert haben. Ihre Sabotage hat ein höheres Niveau erreicht und es ist schwierig geworden, unter diesen Umständen die normale Regierungsgeschäfte fortzusetzen, auch weil wir so abhängig von Qing geworden sind. Wir müssen bald etwas tun."
 anq.114.d2: "Die Regierung Qing ist nicht mehr wütend, aber der Konflikt zwischen unseren Regierungen ist nach wie vor sehr eskaliert. Es ist von größter Bedeutung, dass wir daran arbeiten, die Probleme untereinander zu lösen. Wir können uns keinen Fehler leisten."
-anq.114.a: "Dies kann nicht gut enden"
+anq.114.a: "Dies kann nicht gut enden."
 
 anq.115.t: "Qing ist wütend"
 anq.115.d1: "Unsere Qing-Partner haben uns mitgeteilt, dass sie absolut wütend sind. Die Anqing Clique hat alle ihre Erwartungen nicht erfüllt und mehrere Versprechen zurückgenommen. Unsere Regierung ist mit zunehmenden Spannungen zunehmend instabil geworden."
 anq.115.d2: "Die Qing haben die größten Hindernisse für unsere Regierung beseitigt und die Beziehungen haben sich etwas normalisiert, aber sie sind weiterhin äußerst angespannt. Es wird noch viel Mühe von unserer Seite erfordern, bevor sich die Dinge wieder verbessern."
-anq.115.a: "Wir sollten uns wahrscheinlich zurückziehen"
+anq.115.a: "Wir sollten uns wahrscheinlich zurückziehen."
 
 anq.116.t: "Qing behindert unsere Regierung"
 anq.116.d: "Da der Konflikt noch weiter eskaliert ist, hat Qing nun begonnen, alle Elemente unserer Regierungen zu behindern. Sie haben Truppen und Agenten direkt in unser Territorium geschickt, um unsere Kommunikation zu stören, und sie haben begonnen, sich an unsere Gouverneure zu wenden, wenn sie vielleicht die Loyalität wechseln wollen. Wenn sie sie kennen, könnten sie sogar bereit sein. Wir müssen die Kontrolle zurückerobern oder Qing-Forderungen akzeptieren."
-anq.116.a: "Sie zu beschwichtigen wäre besser"
+anq.116.a: "Sie zu beschwichtigen wäre besser."
 
 anq.117.t: "Qing-Beziehungen wiederhergestellt"
 anq.117.d: "Der Konflikt mit der Qing ist gelöst, daher sind sie nicht mehr mehr so wütend wie zuvor. Wir müssen aufpassen, dass sich dies nicht wiederholt."
-anq.117.a: "Zurück zur Normalität"
+anq.117.a: "Zurück zur Normalität."
 
 anq.118.t: "Chen und die Anti-Konzessionisten"
 anq.118.d: "Chen Tiaoyuan ist der unbestrittene Anführer der Anqing-Clique. Er regiert an oberster Stelle, wobei seine Freunde und Verbündeten alle Regierungspositionen innehaben. Chen hat jedoch weder die persönlichen Beziehungen noch die militärische Unterstützung, um vollständig autokratisch zu regieren. Nein, der einzige Grund, warum er dort ist, wo er jetzt ist, ist seine Unterstützung für die Anti-Konzessionsbewegung. Diese Unterstützung war ein Glücksspiel, das sich sehr gut ausgezahlt hat. Es bedeutet aber auch, dass er für seine politische Unterstützung auf sie angewiesen ist. Sollte er es verlieren, werden seine Gouverneure und das Militär leicht jemand anderen finden.\n\nDeshalb muss Chen mit der Bewegung befreundet bleiben. Aber das ist keine leichte Aufgabe, denn sie ist zersplittert, bestehend aus zahlreichen Organisationen und Koalitionen. Der mit Abstand größte Spieler ist die Anti-Konzessions-Liga, die in ganz Ostchina aktiv ist, aber jetzt einen besonderen Einfluss auf die Anqing-Clique hat. Diese Liga selbst ist gespalten, wobei zwei Gruppen die prominentesten sind, nämlich die Republikaner und die Monarchisten. Beide Gruppen befürworten eine rasche Wiedervereinigung Chinas, jedoch nur mit der Regierung ihrer Wahl. Innerhalb der republikanischen Gruppe gibt es auch eine kleine Minderheit, die weder die [QIE.GetName] noch die Fengtian-Regierung unterstützt und sich stattdessen dafür einsetzt, dass Chen sich selbst zum nationalen Führer erklärt.\n\nChen wird viele Interessen ausgleichen müssen, wenn seine Regierung erfolgreich sein soll. Einerseits muss er die ehemaligen Militärs und lokalen Führer, die die ländliche Ordnung untermauern, als Freunde behalten, aber dies bedeutet, mit denen zusammenzuarbeiten, die Sun Chuanfangs verräterische Regierung unterstützten. Er muss auch bedeutende Reformen durchführen, um die antikonzessionistischen Radikalen zu besänftigen, was wiederum mit seinen eigenen Problemen einhergeht. Aber es ist sicher, dass mit einem Großteil Ostchinas unter seiner Kontrolle niemand Chen ignorieren kann."
@@ -1641,7 +1632,7 @@ anq.118.a: "Interessant."
 
 anq.119.t: "Fengtian erwägt Strategie"
 anq.119.d: "Unsere Wohltäter, die Fengtian-Regierung, überlegen, wie sie ihre Strategie ändern können, jetzt, da sie uns als ihre Verbündeten haben. Sie bereiten ihren Rückgewinnungskrieg gegen die Regierung von Peking vor und müssen nun entscheiden, wie sie uns in ihren Plänen einsetzen wollen. Chen Tiaoyuan würde lieber nicht in den Krieg ziehen, insbesondere angesichts des Schadens, der den fünf Provinzen zugefügt wurde, und des derzeit schwachen Zustands des Militärs. Aber in dem Wissen, dass er nicht sofort auf seine Wohltäter zurückrudern kann, wird Fengtian, sowie ihrem Wohltäter, Japan, Folgendes vorgeschlagen: Wir werden uns am Krieg beteiligen, bitten aber um sehr umfangreiche Wiederaufbauhilfe und großzügige Unterstützung durch die Regierung Fengts. Sonst können wir es uns nicht leisten, einen langwierigen Krieg zu führen."
-anq.119.a: "Das klingt gut"
+anq.119.a: "Das klingt gut."
 
 anq.120.t: "Fengtian wartet"
 anq.120.d: "Die Fengtian Regierung hat dass wegen unseres gegenwärtigen schwachen Zustands entschieden"
@@ -1653,45 +1644,45 @@ anq.121.a: "Großartige Neuigkeiten"
 
 anq.122.t: "Fengtian will bald zuschlagen"
 anq.122.d: "Die Regierung von Fengtian hat entschieden, dass ein schneller Schlag gegen Peking, zu Monatsbegin, die beste Vorgehensweise ist. Das bedeutet natürlich, dass wir uns einem anderen Krieg anschließen müssten, nachdem wir erst einen hatten. [getanqshandongreclamation] Werden wir ihre Strategie ablehnen oder akzeptieren und auf das Beste hoffen?"
-anq.122.a: "Das ist eine schlechte Idee"
-anq.122.b: "Wir können es schaffen"
+anq.122.a: "Das ist eine schlechte Idee."
+anq.122.b: "Wir können es schaffen."
 anq_shandong_participatesreclamation: "Shandong würde sich möglicherweise auch Fengtians Seite anschließen, was uns einen zusätzlichen Vorteil verschafft."
 
 anq.123.t: "Fengtian ändert seine Strategie nicht"
 anq.123.d: "Die Fengtian-Regierung war nicht in der Lage, sich mit uns auf eine richtige Strategie zu einigen, oder ihre Strategie wurde nicht von Japan unterstützt. Das bedeutet, dass sie sich an ihre bestehende Zeitleiste halten werden."
-anq.123.a: "Das klingt gut"
+anq.123.a: "Das klingt gut."
 
 anq.124.t: "Der Wiederaufbauplan"
 anq.124.d: "Wie vereinbart haben die Regierung von Fengtian und Japan erhebliche Mittel für den Wiederaufbauplan bereitgestellt, um die fünf Provinzen so schnell wie möglich wieder aufzubauen. Sie haben auch Arbeiter und Truppen verpflichtet, sich gegen mögliche Aufstände in Kuomintang und Yiguandao zu schützen. Dies sollte es uns ermöglichen, unsere Probleme viel schneller zu lösen, als wenn wir allein gewesen wären."
-anq.124.a: "Das klingt gut"
+anq.124.a: "Das klingt gut."
 
 anq.125.t: "18 Monate sind vergangen"
 anq.125.d: "Es ist etwas mehr als 18 Monate her, seit dem wir die fünf Provinzen übernommen haben. Die Regierung von Fengtian wird erwarten, dass wir jetzt bereit sind."
-anq.125.a: "Wir werden uns vorbereiten"
+anq.125.a: "Wir werden uns vorbereiten."
 
 anq.126.t: "Fengtian zieht in den Krieg!"
 anq.126.d: "Shanxi hat Fengtian überzeugt, zu ihrer sofortigen Verteidigung zu kommen. Fengtian hat entschieden, dass dies wichtiger ist, als ihr Engagement für den Plan zu würdigen, den wir beschlossen haben, Qing anzugreifen. Das ist inakzeptabel!"
-anq.126.a: "Bedauerlich"
+anq.126.a: "Bedauerlich."
 
 anq.127.t: "Proklamation des Großmarschalls"
 anq.127.d: "[FNG.GetLeader] hat seine große Proklamation gemacht und den Beginn des Reklamationskrieges für nächsten Monat angekündigt. Wie in unserer Strategie vereinbart, werden wir uns mit ihm dem Krieg anschließen."
-anq.127.a: "Wir halten uns an unser Engagement"
+anq.127.a: "Wir halten uns an unser Engagement."
 
 anq.128.t: "Proklamation des Großmarschalls"
 anq.128.d: "[FNG.GetLeader] hat seine große Proklamation gemacht und den Beginn des Reklamationskrieges für nächsten Monat angekündigt. Wie in unserer Strategie vereinbart, werden wir uns mit ihm dem Krieg anschließen."
-anq.128.a: "Wir halten uns an unser Engagement"
+anq.128.a: "Wir halten uns an unser Engagement."
 
 anq.129.t: "Zongchang regiert Shandong"
 anq.129.d: "Zhang Zongchang, auch bekannt als Hundefleisch General und in China weithin geschmäht und gehasst, regiert Shandong. Er ist ein alter Verbündeter von Fengtian, was bedeutet, dass wir in gewisser Weise auch verbündet sind. Zhang hat jedoch sicherlich Ambitionen innerhalb der fünf Provinzen. Während seine Schritte gegen die Liga unseren Krieg vorerst einfacher machen, müssen wir uns am Ende irgendwie mit ihm auseinandersetzen."
-anq.129.a: "Okay"
+anq.129.a: "Okay."
 
 anq.130.t: "Keine Intervention"
 anq.130.d: "Fengtian hat sich vollständig aus dem Streit zwischen Shandong und uns heraus gehalten. Dies lässt uns keine andere Möglichkeit, als uns selbst sofort um Shandong zu kümmern. Worte werden im Umgang mit Zhang Zongchang nicht helfen."
-anq.130.a: "Es ist Krieg"
+anq.130.a: "Es ist Krieg."
 
 anq.131.t: "Gespräche werden beendet"
 anq.131.d: "Fengtians Vermittlung ist gescheitert und jede Diplomatie mit Zhang ist beendt. Wir müssen jetzt handeln und gegen ihn vorgehen!"
-anq.131.a: "Dann ist Krieg"
+anq.131.a: "Dann ist Krieg."
 
 anq.132.t: "Ein Deal wird gemacht"
 anq.132.d: "Mit Shandong wurde erfolgreich ein Deal ausgehandelt, was bedeutet, dass wir zumindest bis zur Niederlage der Kuomintang Frieden im Norden haben. Aber die Situation ist definitiv nicht dauerhaft gelöst."
@@ -1965,7 +1956,7 @@ anq.215.a: "Mehr können wir nicht tun."
 
 anq.216.t: "Die Spaltung reparieren"
 anq.216.d: "Mit unseren Bemühungen bei den Verhandlungen ist die Spaltung zwischen Anqing und Fengtian endlich zu einem Ende gekommen. Diese Beziehung mag brüchig sein, aber zumindest für den Moment werden wir zusammenstehen und gegen einen gemeinsamen Feind kämpfen."
-anq.216.a: "Großartig"
+anq.216.a: "Großartig."
 
 anq.217.t: "Aussöhnung mit Fengtian"
 anq.217.d: "Obwohl Fengtian uns in unserem Krieg gegen Shandong verraten hatte, sind wir immer noch in einer schlimmen, isolierten Situation und könnten ihre Hilfe gebrauchen. Der Generalstab und die Gouverneure haben tagelang über diese Frage debattiert, aber sie konnten sich nicht einigen. Die Last der Entscheidung liegt allein auf Chen Tiaoyuan, als ob er den ganzen bröckelnden Berg Tai tragen würde. Die Zeit ist gekommen, in der er die Würfel des Schicksals noch einmal werfen muss."
@@ -1995,10 +1986,10 @@ anq.231.b: "China bleibt gespalten."
  anq.232.t: "Die Marinemeuterei von Mawěi!"
  anq.232.d.wubacking: "Wir haben eine Nachricht aus Fuzhou erhalten, dass während des Chaos des Zusammenbruchs der Liga eine Rebellion von Kadetten der Marineschule Mawěi kurzzeitig die Kontrolle über die dortigen Docks übernommen hat. Angestachelt von Wu Peifus Unterstützung für den verräterischen Gouverneur Chen und der Verurteilung der fehlenden Mittel für eine Seestreitkraft als Zeichen unseres übermäßigen Vertrauens auf ausländischen Schutz, wurde eine Flottille von Schiffen von der Muntiny beschlagnahmt und zuletzt beim Verlassen der Stadt gesehen, zweifellos in der Hoffnung, Anqing zu erreichen. Es wird vermutet, dass der Aufstand von zwei führenden Mitgliedern des Lehrkörpers angestachelt wurde: Sa Benxin und Shen Jingchen. Beide sind jüngere Admirale mit einer Geschichte nationalistischen Denkens und langjähriger Abneigung gegen das derzeitige System in China. Wahrscheinlich kriechen sie in diesem Moment vor Chens Füßen und betteln um einen besseren Job in seinem Lager. Verrat jeglicher Art wird nicht hingenommen, und sie müssen vor Gericht gestellt werden!"
  anq.232.d.wurefused: "Wir haben die Nachricht aus Fuzhou erhalten, dass im Chaos des Zusammenbruchs der Liga ein kleines Kontingent von Lehrern und Studenten der Marineschule Mawěi verschwunden ist! Zunächst wurde befürchtet, dass die Kuomintang für ihr Verschwinden verantwortlich sei, doch eine Untersuchung ergab bald, dass es sich nicht um eine Entführung, sondern um eine Überläuferin handelte! Es scheint, dass eine kleine Clique von Marineoffizieren desillusioniert ist, weil wir zur Stabilisierung des Landes weiterhin auf ausländische Unterstützung angewiesen sind, und stattdessen unter Chen Tiaoyangs Warlord-Staat grünere Weiden sucht. Offenbar hatten sie versucht, einige unserer Schiffe zu kapern, wurden aber von unseren Loyalisten zurückgewiesen, die zweifellos durch die Anerkennung unserer Regierung durch Wu Peifu in ihrer Moral gestärkt wurden. Während die meisten der Verschwundenen keine Namen trugen und für unsere kleine Küstenverteidigungsflotte von geringer Bedeutung sind, ragten zwei Namen heraus: Sa Benxin und Shen Jingchen. Diese beiden jungen Männer waren führende Mitglieder des Lehrkörpers und wahrscheinlich die Rädelsführer dieses Komplotts. Wahrscheinlich kriechen sie in diesem Moment vor Chens Füßen und betteln um einen besseren Job in seinem Lager. Verrat jeglicher Art wird nicht hingenommen, und sie müssen vor Gericht gestellt werden!"
- anq.232.a: "Ein unfassbarer Verrat"
+ anq.232.a: "Ein unfassbarer Verrat."
 
  anq.233.t: "Die Abkehr der jungen Admirale"
- anq.233.d.wubacking: "Es scheint, dass die Worte von Wu Peifu in der Liga immer noch Gewicht haben. Die Unterstützung von Marschall Wu hat sich heute Morgen ausgezahlt, als eine Flottille von Schiffen mit weißer Flagge den Jangtse-Fluss hinauffuhr. Zum Entsetzen unserer Wachen in Anqing haben diese Patrioten darum gebeten, auf unsere Seite überzulaufen! Inspiriert von unserer nationalistischen Sache und ermutigt durch die Worte des Jademarschalls, wurden diese Matrosen von zwei führenden Mitgliedern der Mawěi Marineschule in Fuzhou organisiert. Diese Männer, Sa Benxin und Shen Jingchen, verfügen trotz ihres jungen Alters über mehrere Jahrzehnte Marineerfahrung und - was noch wichtiger ist - über das nötige Wissen, um beim Aufbau einer neuen Flotte zur Verteidigung des chinesischen Südens sinnvoll mitzuhelfen. Darüber hinaus stammen beide aus etablierten Marinestämmen und können uns helfen, unsere Beziehungen zur Admiralität in Peking zu vertiefen. Alles in allem ist dies ein gutes Omen für die Zukunft unserer Anti-Konzessionsbewegung!"
+ anq.233.d.wubacking: "Es scheint, dass die Worte von Wu Peifu in der Liga immer noch Gewicht haben. Die Unterstützung von Marschall Wu hat sich heute Morgen ausgezahlt, als eine Flottille von Schiffen mit weißer Flagge den Jangtse-Fluss hinauffuhr. Zum Entsetzen unserer Wachen in Anqing haben diese Patrioten darum gebeten, auf unsere Seite überzulaufen! Inspiriert von unserer nationalistischen Sache und ermutigt durch die Worte des Jademarschalls, wurden diese Matrosen von zwei führenden Mitgliedern der Mawěi Marineschule in Fuzhou organisiert. Diese beiden Männer, Sa Benxin und Shen Jingchen, verfügen trotz ihres jungen Alters über mehrere Jahrzehnte Marineerfahrung und vor allem über das nötige Wissen, um beim Aufbau einer neuen Flotte zur Verteidigung Südchinas sinnvoll mitzuwirken. Darüber hinaus stammen beide aus etablierten Marinestämmen und können uns helfen, unsere Beziehungen zur Admiralität in Peking zu vertiefen. Alles in allem ist dies ein gutes Omen für die Zukunft unserer Anti-Konzessionsbewegung!"
  anq.233.d.wurefused: "Die steigende Flut des Antikonzessionismus hat heute Früchte getragen, als unsere Botschaft die Ohren einiger der führenden Lehrkräfte der Marineschule Mawěi in Fuzhou erreichte. Desillusioniert durch den chronischen Mangel an finanziellen Mitteln während der Regierung Sun Chuanfangs und angewidert von Qi Xieyuans fortgesetzter Unterwerfung unter die deutschen Auslandsinteressen, hat sich heute Morgen eine kleine Gruppe von Dozenten der Marineschule zu unserer Sache bekannt. Unter ihnen befinden sich Sa Benxin und Shen Jingchen, die beide über jahrelange Erfahrung mit dem Studium ausländischer Schiffskonstruktionen im Ausland und der Lehre an Marineakademien verfügen. Obwohl einige sich Sorgen über ihre familiären Bindungen zum Pekinger Marine-Establishment machen, hat Gouverneur Chen beschlossen, sie in seinem neu gegründeten Marineministerium willkommen zu heißen. Obwohl die modernisierte Flotte, von der sie träumen, noch in weiter Ferne liegt, ist klar, dass unsere Bewegung eine neue Generation von Offizieren für eine bessere Zukunft inspiriert hat!"
  anq.233.a: "Willkommen an Bord!"
 

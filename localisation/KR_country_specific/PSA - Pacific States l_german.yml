@@ -117,8 +117,6 @@ PSA_the_big_push_westwards: "Operation Glacier"
 PSA_the_big_push_westwards_desc: "Nach monatelangen Vorbereitungen und logistischen Planungen hat die Operation Glacier begonnen mit dem Ziel, die Rocky Mountains zu überqueren und so viel Land wie möglich einzunehmen, um einen möglichen feindlichen Sieg zu verhindern."
 PSA_military_industrial_production_1: "Militärische Industrieproduktion"
 PSA_military_industrial_production_1_desc: "Da sich viele der nationalen Waffenfabriken in der Kontrolle unserer Feinde befinden, sind wir gezwungen, neue Verträge mit unseren lokalen Unternehmen auszuarbeiten, um die Nachfrage von unserer Armee zu decken. Zu unserem Glück haben sich viele Fabriken in unserem Gebiet unserer Sache angeschlossen und sind mehr als fähig, die Produktion zu erhöhen, wenn die richtigen Anreize gegeben werden. Indem wir Gelder aus anderen Bereichen umleiten, können wir diesen Unternehmen die besagten Anreize bieten und sicherstellen, dass unsere Männer für den Krieg bereit und ausgerüstet sind."
-
-
 PSA_military_industrial_production_3: "Militärische Industrieproduktion"
 PSA_military_industrial_production_3_desc: "Mit unserem durchschlagenden Sieg im Bürgerkrieg, zählen wir jetzt mit einem formidablen militärisch-industriellen Komplex. Während es normalerweise in Friedenszeiten an der Zeit wäre, unsere Finanzierung wieder auf zivile Zwecke umzulenken, ziehen weltweit Sturmwolken auf, und unsere mächtige Nation könnte erneut in einen Krieg verwickelt werden. Eine Ausweitung der Verträge, die wir unterzeichnet haben, und eine Erhöhung unserer Finanzmittel für den militärischen Sektor werden uns helfen, für den nächsten Konflikt gewappnet zu sein, wenn er anklopft."
 PSA_defense_logistics_agency_idea: "Defence Logistics Agency"
@@ -461,7 +459,6 @@ pacificstates.1.a: "Den kalifornische Senator, Hiram Johnson."
 pacificstates.1.b: "Der Gouverneur von Kalifornien, Frank Merriam."
 
 ### Domestic Policy Events 40 - 75 ###
-
 pacificstates.40.t: "Ein neues Kapitol für Amerika?"
 pacificstates.40.d: "Mit der Wiedervereinigung Amerikas wurde die Frage, was das Kapitol von Amerika sein sollte, vor den Kongress gebracht. Welche Stadt soll der Kongress zur Hauptstadt von Amerika machen?"
 pacificstates.40.a: "Washington, D.C."
