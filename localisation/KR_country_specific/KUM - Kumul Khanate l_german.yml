@@ -367,7 +367,7 @@ KUM_kumul_consitutionalism_idea: "Kumuls Konstitutionalismus"
 KUM_kumul_loyalty_idea: "Loyalität zu Kumul"
 KUM_kumul_loyalty_idea2: "Loyalität zu Kumul"
 KUM_exploit_nationalism_idea: "Nationalismus ausnutzen"
-KUM_hojas_republic_idea: "Hojas Republik"
+KUM_hojas_republic_idea: "Hoja-Niyaz Republik"
 KUM_beijing_administrators_idea: "Beamte aus Peking"
 KUM_open_the_gates_idea: "Die Tore öffnen"
 KUM_open_the_gates_idea3: "Stabilität macht Wohlstand"
@@ -720,7 +720,7 @@ KUM_working_advisory_desc: "Die beiden Generalberater Yulbars Khan und Hoja-Niya
 KUM_opening_reform: "Machtangleichung"
 KUM_opening_reform_desc: "Masqud Shah hinterließ seinen Militärberatern eine provisorische Rolle, die er nach Belieben verteilte. Eine konkretere Rolle der Berater wird es Yulbars Khan und Hoja-Niyaz ermöglichen, Kumul zu beschützen."
 
-KUM_niyaz_ideals: "Niyazs Ideale"
+KUM_niyaz_ideals: "Hoja-Niyazs Ideale"
 KUM_niyaz_ideals_desc: "Hoja-Niyaz erinnert sich während seiner gescheiterten Revolte gegen Nasīrs Vater daran, dass seine Kämpfer besser kämpften, als sie von einem Imam beaufsichtigt wurden und sich jeden Tag Zeit zum Beten nahmen. Hoja-Niyaz glaubt, dass diese Politik die Verteidiger von Kumul dazu bringen wird, mit dem Geist der alten Krieger zu kämpfen."
 
 KUM_sideline_begs: "Die Begs ins Abseits treiben"
@@ -894,7 +894,7 @@ KUM_matters_of_state_desc: "Jahre der inkompetenten und faulen Auslandsdiplomati
 KUM_cast_off_ideology: "Ideologie ablegen"
 KUM_cast_off_ideology_desc: "Obwohl die Möchtegern-Führer Zentralasiens ihr Volk mit Ideologie befehligen, ist es im Grunde dieselbe Botschaft. Um darauf zu reagieren, sind wir bereit, uns mit jeder Macht in der Region zu verbünden, die eine größere Autonomie garantiert, als Xinjiang uns gegeben hat."
 
-KUM_hojas_republic: "Hojas Republik"
+KUM_hojas_republic: "Hoja-Niyazs Republik"
 KUM_hojas_republic_desc: "Als Hoja-Niyaz gegen Masqud Shah kämpfte, wusste er nicht, wofür er kämpfte. Mit dem Alter kommt die Weisheit, und jetzt hat [KUM.GetLeader] erkannt, dass er angesichts der absoluten Macht als Präsident einer Republik dienen sollte."
 
 KUM_flexible_diplomacy: "Flexible Diplomatie"
@@ -972,7 +972,7 @@ KUM_nasir_shah_leader_desc: "Nasir wurde geboren und erzogen, um sein ganzes Leb
 
 KUM_bashir_shah: "Bashir Shah"
 KUM_yulbars_khan: "Yulbars Khan"
-KUM_khoja_niyaz_haji: "Khoja Niyaz Haji"
+KUM_hoja_niyaz_haji: "Hoja-Niyaz Haji"
 KUM_mahmut_muhiti: "Mahmut Muhiti"
 
 KUM_khans_court: "Khan's Court"

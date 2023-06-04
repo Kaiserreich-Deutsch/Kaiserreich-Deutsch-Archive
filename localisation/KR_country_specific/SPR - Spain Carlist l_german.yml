@@ -133,8 +133,8 @@ SPR_french_advisors: "Französische Berater"
 SPR_french_advisors_desc: "Wir sollten einige französische Berater einladen, die uns bei der Ausbildung in militärischen Angelegenheiten unterstützen."
 SPR_canadian_advisors: "Kanadische Berater"
 SPR_canadian_advisors_desc: "Wir sollten einige kanadische Berater einladen, um uns bei der Ausbildung in Marineangelegenheiten zu unterstützen."
-SPR_latin_economic_union: "Lateinische Wirtschaftsunion"
-SPR_latin_economic_union_desc: "Es wurde ein Plan vorgelegt, um die wirtschaftliche Zusammenarbeit mit den lateinamerikanischen Ländern in der Entente zu fördern. Diese wirtschaftliche Allianz, die offiziell als lateinische Wirtschaftsunion, manchmal auch als Mittelmeerpakt bezeichnet wird, fördert das Wirtschaftswachstum und die Unterstützung der Mitglieder, die sich ihr anschließen."
+SPR_latin_economic_union: "Mediterrane Wirtschaftsunion"
+SPR_latin_economic_union_desc: "Es wurde ein Plan vorgelegt, um die wirtschaftliche Zusammenarbeit mit den Mediterranen Ländern in der Entente zu fördern. Diese wirtschaftliche Allianz, die offiziell als Mediterrane Wirtschaftsunion, (manchmal auch als Mediterran Pakt) bezeichnet wird, fördert das Wirtschaftswachstum und die Unterstützung der Mitglieder, die sich ihr anschließen."
 SPR_joint_military_training: "Gemeinsame militärische Ausbildung"
 SPR_joint_military_training_desc: "Wir sollten einige gemeinsame Trainingseinheiten mit unseren Verbündeten in der Entente abhalten. Dies wird dazu beitragen, unsere Koordination bei der Zusammenarbeit mit ihnen als Verbündete zu verbessern und unser Militär zu verbessern."
 SPR_join_isac: "ISAC beitreten"
@@ -219,6 +219,11 @@ SPR_colonial_air_ports: "Kolonialflughäfen"
 SPR_colonial_air_ports_desc: "Wir sollten unsere Flughäfen innerhalb unserer Kolonien erweitern. Dies soll es der Luftwaffe ermöglichen, schnell von Spanien in die Kolonien zu gelangen, um die Kolonien vor allen zu verteidigen, die versuchen würden, sie uns abzunehmen."
 SPR_rule_the_skies: "Den Himmel beherrschen"
 SPR_rule_the_skies_desc: "Die Luftstreitkräfte sind keine sprichwörtliche Flickenteppichsammlung mehr, sondern ein voll funktionsfähiges Organ unseres Militärs. Lasst uns den Himmel Italiens und darüber hinaus beherrschen!"
+
+### Events ###
+ sprf.6.t: "Spanien schlägt Mediterrane-Zollunion vor"
+ sprf.6.d: "Spanien schenkt Ihnen etwas"
+ sprf.6.a: "Exzellent."
 
 ### Cosmetic Tags ###
  SPA_carlists: "Karlistisches Spanien"

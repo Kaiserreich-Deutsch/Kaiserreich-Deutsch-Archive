@@ -30,6 +30,10 @@ if_controlled_by_PREV: "wenn kontrolliert von §Y[PREV.GetNonIdeologyName]§!:"
 may_lead_to_war_with_FROM: "§RKann zu einem Krieg mit [From.GetNameDef] führen§!"
 may_lead_to_war_with_FROM_overlord: "§RKann zu einem Krieg mit [From.Overlord.GetNameDef] führen§!"
 
+state_integration_at_fifty_compliance: "Kann bei Erreichen von §H50% durchschnittlichem Gehorsam§! zum Kernstaat gemacht werden."
+state_integration_at_eighty_compliance: "Kann bei Erreichen von §H80% durchschnittlichem Gehorsam§! zum Kernstaat gemacht werden."
+state_integration_law_unlocked: "Schaltet das §H$territorial_integration$§! Besatzungsrecht frei."
+
 # used to generate tooltips in dockyard or naval base foci when the country doesn't own any coastal states
 random_owned_controlled_coastal_state: "Ein zufällig besetzter und kontrollierter Küstenstaat"
 
@@ -135,6 +139,7 @@ pp_cost_tooltip: "$MODIFIER_POLITICAL_POWER_COST$: $RIGHT|-=$"
 pp_factor_tooltip: "$MODIFIER_POLITICAL_POWER_FACTOR$: $RIGHT|+=%0$"
 stability_tooltip: "$MODIFIER_STABILITY_FACTOR$: $RIGHT|=%+$"
 stability_weekly_tooltip: "$MODIFIER_STABILITY_WEEKLY$: $RIGHT|=%+$"
+party_popularity_stability_factor_tooltip: "$MODIFIER_STABILITY_POPULARITY_FACTOR$: $RIGHT|=%+$"
 war_support_tooltip: "$MODIFIER_WAR_SUPPORT_FACTOR$: $RIGHT|=%+$"
 war_support_weekly_tooltip: "$MODIFIER_WAR_SUPPORT_WEEKLY$: $RIGHT|=%+$"
 

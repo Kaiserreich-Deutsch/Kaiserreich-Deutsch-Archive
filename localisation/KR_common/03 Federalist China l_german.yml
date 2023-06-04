@@ -98,6 +98,7 @@ UPC_will_join_faction_after_war: "§GWir werden der §H[FROM.GetNameDef]§! beit
 UPC_will_join_faction_after_war_FROM: "§G[FROM.GetNameWithFlag] wird der §H[FROM.GetNameDef]§! beitreten, sobald ihre Kriege beendet sind§!."
 
 ### Flags ###
+UPC_reconstruction_plan_unlocked: "Hat den Wiederaufbauplan freigeschaltet"
 UPC_built_to_nanning: "Hat die Entscheidung £decision_icon_small §H$UPC_guangzhou_nanning$§! absolviert"
 UPC_built_to_guiyang: "Hat die Entscheidung £decision_icon_small §H$UPC_nanning_guiyang$§! absolviert"
 UPC_built_to_changsha: "Hat die Entscheidung £decision_icon_small §H$UPC_guangzhou_changsha$§! absolviert"

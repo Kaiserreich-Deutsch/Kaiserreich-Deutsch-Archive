@@ -213,7 +213,6 @@ l_german:
  POL_boleslaw_wieniawa_dlugoszowski_desc: "§YGeneral Beschreibung\nGeboren:§! §g22. Juli 1881, in Maksymówka, Russisches Reich§!\n§YMilitärische Karriere:§! §gBolesław Wieniawa-Długoszowski ist ein bunter Offizier. Arzt, Dichter, ein Mann, dessen zwei Leidenschaften Frauen und Pferde sind. In seiner Jugend verkehrte der junge Spross der angesehenen Familie Wieniawa lieber in der Boheme der Kunstszene, als sich auf sein Studium zu konzentrieren. Seine zahlreichen Beziehungen und seine Konversion zum Protestantismus machten ihn in der polnischen Gesellschaft bereits ziemlich unbeliebt. Seine militärische Karriere hingegen begann ähnlich wie die vieler anderer. Er trat dem Schützenverein bei und folgte Józef Piłsudski als dessen persönlicher Adjutant durch die Schützengräben Osteuropas, wo er für seine waghalsigen Kavallerieeinsätze mit den höchsten Tapferkeitsauszeichnungen geehrt wurde.\n\nWieniawa-Długoszowski verbrachte einige Zeit an der Seite von Piłsudski im Gefängnis, durfte aber weiterhin in der neu gegründeten polnischen Armee dienen. Er begeisterte sich für die Kavallerie und fungierte als Ausbilder und Inspekteur, wenn er nicht gerade als Militärattaché ins Ausland entsandt wurde oder in Schwierigkeiten geriet - so wurde er zum Beispiel wegen eines Duells zu fünf Tagen Gefängnis verurteilt. Die Kunst blieb seine wahre Leidenschaft, und er verbrachte wohl mehr Zeit mit dem Übersetzen von Literatur ins Polnische und dem Schreiben eigener Werke als mit militärischen Übungen.§!"
 
  POL_jozef_unrug_desc: "§YAdmiral Beschreibung\nGeboren:§! §g7. Oktober 1884, in Brandenburg an der Havel, Deutsches Kaiserreich§!\n§YMarine Karriere:§! §gDer als Joseph von Unruh geborene Unrug wuchs in einer wohlhabenden preußischen Aristokratie auf, die auf eine lange militärische Tradition zurückblicken konnte. Er machte 1907 seinen Abschluss an der Marineschule und kommandierte im Weltkrieg ein U-Boot. Von Unruh war schon vor dem Krieg vom modernen Deutschland enttäuscht und entwickelte eine seltsame Form der Polonophilie, da er glaubte, dass die Polen die Romantik und die Leidenschaft besaßen, die in Deutschland fehlten. Dies wurde dadurch unterstützt, dass er väterlicherseits teilweise polnischer Abstammung war. Er war nicht einverstanden mit Deutschlands neuer mahanistischer Doktrin einer Blauwasserflotte. Als Romantiker, der von der Kaiserlichen Marine enttäuscht war, wurde er meist zu Ausbildungszwecken in der Ostsee eingesetzt. Nach dem Krieg diente er in der deutschen Ostseeflotte, bevor die turbulenten Ereignisse des Zweiten Weltkriegs und die Wiedergründung der polnischen Marine nach zwei Jahrhunderten begannen. Als Józef Unrug konnte der Admiral zwei seiner Leidenschaften miteinander verbinden: das Segeln und die polnische Kultur.§!"
- POL_jerzy_swirski_desc: "§YAdmiral Beschreibung\nGeboren:§! §g5. April 1884, in Kalisz, Russisches Reich§!\n§YMarine Karriere:§! §gJerzy Świrski wurde durch die militärische Tradition seiner Familie zu einer militärischen Laufbahn gedrängt. Er schloss 1902 die Schule des kaiserlich-russischen Marinekadettenkorps ab und diente in der Schwarzmeerflotte. Als die Ukrainische Volksrepublik 1918 die Kontrolle über einen Großteil der russischen Schwarzmeerflotte übernahm, schlossen sich auch viele Offiziere wie Świrski der Flotte des neuen Staates an und wurden schnell zum Vizeadmiral befördert. In der Ukraine wurde er aktives Mitglied der polnischen Kulturorganisationen in Sewastopol. Świrski gilt als kreativer und unabhängiger Befehlshaber, der sich auf die Zusammenarbeit zwischen der Marineinfanterie und der Flotte versteht.§!"
 
 ### Companies ###
  cop: "COP"
@@ -1140,7 +1139,7 @@ l_german:
  POL_GER_lobby: "Pro-Monarchistische Kampagne"
 
  POL_GER_promises: "Autonomie für Polen versprechen"
- POL_promise_tt: "§CDie Loyalität der Polen wird drastisch zunehmen.$!"
+ POL_promise_tt: "§CDie Loyalität der Polen wird drastisch zunehmen.§!"
  POL_GER_agricultural_exports: "Landwirtschaftliche Waren umleiten"
  POL_promises1: "Hat Polen Unabhängigkeit versprochen"
 
@@ -2208,6 +2207,22 @@ l_german:
  poland.281.d: "Es begann mit der Forderung der Regierung von [RUS.GetLeader], Kollaborateure und radikale Sozialisten aus der Regierung und aus öffentlichen Ämtern zu entfernen, da sonst friedliche Beziehungen zu Moskau \"nicht selbstverständlich seien\". In dieser unmöglichen Lage wurden auf Wunsch Russlands Neuwahlen anberaumt.\n\nIn dieser neuen Situation herrschten die Nationaldemokraten. Die Regierungsparteien aus der Kriegszeit wurden für all den Tod und die Zerstörung, die der Krieg verursacht hatte, verantwortlich gemacht, und die Endecja-Politiker stellten sich selbst als die einzige vernünftige Option dar, die Polen vor dem aus dem Westen heranrückenden Sozialismus schützen und die Zusammenarbeit mit Russland sicherstellen würde.\n\nIn einer bedrückenden Wahl unter immensem ausländischem Druck errang die Nationalpartei einen Erdrutschsieg, und Adam Doboszyński wurde zum Präsidenten mit starken Exekutivbefugnissen gewählt. Trotz des Anscheins eines demokratischen Machtwechsels ist jedem klar, dass eine Wahl mit Waffengewalt keine Demokratie ist, sondern lediglich ein legalisierter Staatsstreich."
  poland.281.a: "Moskau zu vertrauen war ein Fehler."
 
+ poland.283.t: "Verrücktes Wien"
+ poland.283.d: "Nach einem verheerenden ultranationalistischen Putsch gegen Kaiser Karl hat sich in Wien ein höchst autoritäres und deutsch-chauvinistisches Regime an die Macht geputscht. Das hat in den Ländern der Doppelmonarchie große Unruhe ausgelöst, vor allem in den slawischen Kronländern, in denen sich eine rebellische Stimmung breit gemacht hat. Unter diesen Umständen können wir unser Bündnis mit Wien nicht mit gutem Gewissen aufrechterhalten."
+ poland.283.a: "Informiert Wien über unsere Entscheidung..."
+ poland.283.b: "... und fragt, ob Galizier sich uns anschließen wollen."
+
+ poland.284.t: "Deutschland kommt mit einem Bündnis auf uns zu"
+ poland.284.d: "Nun, da wir uns als bündnisfrei betrachten, hat Deutschland schnell wieder ein Auge auf uns geworfen. Wenn auch in einem höflicheren Ton als beim letzten Mal, haben sie uns erneut ein Militärbündnis angeboten. Angesichts der derzeitigen Instabilität in der Donauregion würde uns dies zumindest vor möglichen feindlichen Handlungen des österreichischen ultranationalistischen Regimes schützen. Allerdings erinnert ein solches Bündnis viele an die Unterwerfung Polens unter Deutschland während der Herrschaft Augusts IV. und so wurde auch eine offenere Beziehung vorgeschlagen. Es scheint, dass auch die Deutschen dies verstanden haben und bereit sind, einen einfacheren Freundschaftsvertrag zu akzeptieren."
+ poland.284.a: "Verbünden wir uns mit ihnen - dieses Mal aus freien Stücken."
+ poland.284.b: "Halten wir die Deutschen auf Abstand."
+
+ poland.285.t: "Gemeinsam mit Polen?"
+ poland.285.d: "Die polnische Regierung ist mit dem Vorschlag an uns herangetreten, unsere beiden Länder endlich zu vereinen und den Wohlstand des polnischen Volkes inmitten des zerfallenden österreichisch-ungarischen Reiches zu garantieren."
+ poland.285.a: "Wir schließen uns an!"
+ poland.285.b: "Niemals."
+
+ #Black Monday & Economy
  poland.297.t: "Verschuldung von Kleinbauern explodiert"
  poland.297.d.text: "Der polnische ländliche Raum ist stark polarisiert zwischen sehr großen Gütern, die sich im Besitz des Adels befinden, und Kleinbauern, die sich kaum selbst versorgen können und deren Grundstücke zu klein sind, um Kapital für Mechanisierung oder Expansion zu beschaffen. Dies hat dazu geführt, dass sich viele Kleinbauern stark verschuldet haben, um den Kauf von Traktoren und anderen landwirtschaftlichen Maschinen für ihre Dörfer zu finanzieren.\n\nWährend des Wirtschaftsbooms war dies ein wirksames Mittel, um die Produktivität des Landes zu steigern und schließlich die Schulden zurückzuzahlen, aber als die Preise für landwirtschaftliche Erzeugnisse nach dem Schwarzen Montag einbrachen, sahen sich Tausende von Landwirten unter einem Berg immer höherer Schulden erdrückt und sahen sich mit der Möglichkeit konfrontiert, ihr Land an ebenso verzweifelte Banken zu verlieren."
  poland.297.d.no_coop: "$poland.297.d.text$\n\nDies hat natürlich dazu geführt, dass sich die Bauernschaft zunehmend für das radikale Programm der PSL interessiert, das ihre Befreiung predigt."
@@ -2581,25 +2596,25 @@ l_german:
  poland.466.d: "Historisch gesehen war die Alphabetisierungsrate im ehemals russisch kontrollierten bzw. im \"Kongress\" Polen miserabel. Lange Zeit gab es keine obligatorische Bildung, und wenn es sie gab, war sie von den Zielen der Russifizierung geprägt. Dies stand in krassem Gegensatz zu \"Deutsch-Polen\" und \"Österreich-Polen\", die beide seit dem 19. Jahrhundert relativ gute Alphabetisierungs- und organisierte Bildungssysteme hatten.\n\nDank der stark bildungsfreundlichen Politik unserer früheren Regierungen, der Einwanderung gebildeter Polen aus Weißrussland und Deutschland und der unermüdlichen Arbeit der polnischen Kulturelite nähert sich unser unabhängiges Polen endlich der Alphabetisierung von Posen oder Krakau an."
  poland.466.a: "Exzellent."
 
- poland.490.t: "Revision der polnisch-rumänischen Grenze"
- poland.490.d: "Nach der Annexion von Galizien und Lodomerien erhielt Polen das Gebiet des Herzogtums Bukowina. In diesem Gebiet leben eine kleine polnische Minderheit und viele Ukrainer, während der südliche Teil eine große rumänische Bevölkerung beherbergt.\n\nWir könnten die polnische Regierung bitten, uns die Bukowina zu verkaufen, aber wir müssen bereit sein, ihnen eine hohe Summe für das neue Gebiet zu zahlen."
+ poland.490.t: "Revision der [713.owner.GetAdjective]-rumänischen Grenze"
+ poland.490.d: "Nach der Teilung von Galizien und Lodomerien erhielt [713.owner.GetName] das Gebiet des ehemaligen Herzogtums Bukowina. Dieses Gebiet wurde traditionell von der moldawischen Elite regiert, obwohl sich die demografischen Verhältnisse im letzten Jahrhundert stark verschoben haben. Die südlichen Teile sind immer noch stark rumänisch geprägt und würden sich uns wahrscheinlich anschließen, wenn eine Volksabstimmung durchgeführt wird. Wir könnten die [713.owner.GetAdjective]-Regierung bitten, ein regionales Referendum im Gegenzug für einige für sie vorteilhafte Handelsabkommen zuzulassen."
  poland.490.a: "Tun Sie es."
- poland.490.b: "Wir werden es nicht kaufen."
+ poland.490.b: "Ignoriere es."
 
- poland.491.t: "Revision der polnisch-rumänischen Grenze"
- poland.491.d: "Nach der Annexion von Galizien und Lodomerien haben wir die Kontrolle über das Herzogtum Bukowina übernommen. In diesem Gebiet leben eine kleine polnische Minderheit und viele Ukrainer, während im südlichen Teil dieses Herzogtums eine große rumänische Bevölkerung lebt.\n\nDie rumänische Regierung hat uns gebeten, ihr die Bukowina zu verkaufen, und sie hat sich bereits bereit erklärt, uns eine beträchtliche Geldsumme zu zahlen."
- poland.491.a: "Wenn die Rumänen zahlen, können sie die Bukowina haben."
+ poland.491.t: "Revision der [713.owner.GetAdjective]-rumänischen Grenze"
+ poland.491.d: "Nach der Annexion von Galizien und Lodomerien haben wir die Kontrolle über das ehemalige Herzogtum Bukowina übernommen. Dieses Gebiet wurde traditionell von der moldawischen Elite regiert, obwohl sich die demografischen Verhältnisse im letzten Jahrhundert stark verschoben haben. Die südlichen Teile sind immer noch stark rumänisch geprägt und würden sich im Falle einer Volksabstimmung wahrscheinlich Rumänien anschließen. Bukarest hat uns gebeten, ein regionales Referendum im Gegenzug für einige für uns vorteilhafte Handelsabkommen zuzulassen."
+ poland.491.a: "Klingt fair."
  poland.491.b: "Wir werden die gesamte Bukowina behalten!"
 
- poland.492.t: "Die Revision der polnisch-rumänischen Grenze"
- poland.492.d: "Die polnische Regierung hat zugestimmt, die Bukowina an uns zu verkaufen. Das ist ein großer Tag für Rumänien!"
- poland.492.a: "Hurra!"
+ poland.492.t: "Vereinigung mit Bukowina"
+ poland.492.d: "Der [89.owner.GetAdjective] hat den Menschen in Bucovina die Möglichkeit gegeben, darüber abzustimmen, welcher Nation sie angehören wollen, und viele haben sich für uns entschieden. Im Einvernehmen haben wir einen Vertrag ausgearbeitet, der die Wünsche der Einheimischen respektiert - und [89.owner.GetName] ein recht vorteilhaftes Handelsabkommen beschert, auch wenn dieser Teil etwas verschwiegen wird."
+ poland.492.a: "Willkommen, Brüder!"
 
- poland.493.t: "Polen lehnt Revision der Grenze ab"
- poland.493.d: "Die polnische Regierung hat sich geweigert, die Bukowina an uns zu verkaufen. Wir werden etwas anderes versuchen müssen."
+ poland.493.t: "[713.owner.GetAdjective] lehnt Revision der Grenze ab"
+ poland.493.d: "Die [713.owner.GetAdjective] Regierung hat sich geweigert, die Bukowina an uns zu verkaufen. Wir werden etwas anderes versuchen müssen."
  poland.493.a: "Eines Tages werden wir sie mit Gewalt nehmen!"
- sell_bucovina: "Verkauft Bucovina"
- buy_bucovina: "Bucovina gekauft"
+ sell_bucovina: "Vertrag von Suczawa"
+ buy_bucovina: "Vertrag von Suczawa"
 
 ###### Uprising events #######
 
@@ -2888,6 +2903,10 @@ l_german:
  poland.709.t: "Der Traum von der Union"
  poland.709.d: "Die Westslawen bilden eine natürliche Gruppe von Völkern mit gemeinsamen Interessen. Zwischen den imperialistischen Großmächten gelegen, hängt ihre Existenz von ihrer Zusammenarbeit ab. Und nach dieser Definition sind die Westslawen nicht nur die Polen, Tschechen und Slowaken. Nein, sie sind der gesamte Kulturraum zwischen deutschem und russischem Druck, zu dem auch der natürliche Verbündete Polens, Litauen, und sogar die Ukraine und Weißrussland gehören, deren nationale Identität von den Russen bedroht ist.\n\nRussland kann unter keinen Umständen zu den slawischen Staaten gezählt werden - es ist eine Bastardisierung von Slawen und byzantophilen Kleinfürsten, deren Kultur der der Mongolen und anderer turanischer Steppenvölker näher steht als alten Kulturzentren wie Krakau oder Prag.\n\nAuch wenn es kurzfristig notwendig sein mag, mit einer der Teilungsmächte verbündet zu sein, so kann die westslawische Sphäre niemals gedeihen, solange sie existiert."
  poland.709.a: "Wünschen wir uns, dass dies eines Tages geschieht!"
+
+ poland.710.t: "$POL_konstanty_rokossowski$ Aufbruch nach Polen"
+ poland.710.d: "Genosse Rokossowski hat all diese Jahre der Sache der internationalen Befreiung gedient - und schließlich hat sie auch für ihn persönlich Früchte getragen, da ein neuer polnischer sozialistischer Staat aus der Tyrannei der Könige und Kaiser hervorgegangen ist. Er hat darum gebeten, von seinen derzeitigen Aufgaben in den Streitkräften der Internationale entbunden zu werden, um an der polnischen Revolution teilzunehmen. Wir haben nichts dagegen, denn jemand wie Rokossowski, der so loyal und ideologisch ist wie er, würde uns bei der Führung des polnischen Sozialismus gute Dienste leisten, und es ist klar, dass noch viel Blut vergossen werden muss, bevor sich die Polen wirklich frei nennen können."
+ poland.710.a: "Leb wohl, Kamerad."
 
 #SOV Russia
  poland.730.t: "Katastrophe in Russland"

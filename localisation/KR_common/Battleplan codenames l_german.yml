@@ -449,6 +449,25 @@ o_lion: "Lion"
 o_tiger: "Tiger"
 o_shield: "Shield"
 
+### NFA
+o_strat_offensive_nfa: ""
+o_strat_defensive_nfa: ""
+o_strat_naval_nfa: ""
+
+o_adolphe: "Adolphe"
+o_atlante: "Atlante"
+o_bretagne: "Bretagne"
+o_brochet: "Brochet"
+o_camargue: "Camargue"
+o_castor: "Castor"
+o_ceinture: "Ceinture"
+o_condor: "Condor"
+o_hirondelle: "Hirondelle"
+o_lea: "Léa"
+o_lorraine: "Lorraine"
+o_mouette: "Mouette"
+o_papillon: "Papillon"
+o_pollux: "Pollux"
 
 ### CHI - Left Kuomintang
 o_strat_offensive_chi: "Strategische Offensivoperation der NRA"
@@ -472,6 +491,4 @@ o_heart_strike: "Schlag ins Herz"
 o_duty: "Pflicht"
 o_red_sword: "Rotes Schwert"
 0_united: "Vereint"
-
-
 

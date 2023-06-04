@@ -20,6 +20,7 @@ DAH_radical_socialist_ADJ: "Dahomeyan"
 DAH_radical_socialist_DEF: "die Volksrepublik Dahomey"
 
 ### Characters ###
+DAH_Hubert_Maga: "Hubert Maga"
 DAH_Agoli_Agbo: "Agoli-Agbo"
 DAH_Basile_Adjou_Moumouni: "Basile Adjou Moumouni"
 DAH_Christophe_Soglo: "Christophe Soglo"
@@ -46,8 +47,8 @@ DAH_exploit_nature: "Ausbeutung unserer natürlichen Ressourcen"
 DAH_exploit_nature_desc: "Die Natur birgt viele Schätze, besonders tief unter der Erde. Unsere Bergwerke können und sollten verbessert werden, um die Reichtümer, die darin zu finden sind, besser zu nutzen."
 DAH_exploit_more: "Weitere Ressourcenausbeutung"
 DAH_exploit_more_desc: "Die Minen von Dahomey haben viel Reichtum hervorgebracht, aber wir können noch tiefer graben und noch mehr finden.\nNatürlich können auch unsere Plantagen besser finanziert, besser geführt und besser ausgerüstet werden, um eine größere Ernte zu erzielen."
-DAH_Overlord_Help: "Bittet die Franzosen um Hilfe"
-DAH_Overlord_Help_desc: "Wir sind eine kleine Nation und müssen daher sorgfältig mit unseren Ressourcen umgehen. Vielleicht könnten wir die Franzosen in dieser Angelegenheit um industrielle oder militärische Unterstützung bitten."
+DAH_Overlord_Help: "Bittet um [ROOT.overlord.GetAdjective] Hilfe"
+DAH_Overlord_Help_desc: "Wir sind eine kleine Nation und müssen daher sorgfältig mit unseren Ressourcen umgehen. Vielleicht könnten wir die [ROOT.overlord.GetAdjective] in dieser Angelegenheit um industrielle oder militärische Unterstützung bitten."
 DAH_Overlord_Help2: "Steuerliche Anreize"
 DAH_Overlord_Help2_desc: "Französische Investitionen in die Wirtschaft können für Dahomey nur von Vorteil sein, und im Gegenzug auch für sie. Für französische Unternehmen wäre es ein Anreiz zu kommen und zu investieren, wenn wir ihnen einige Steuererleichterungen gewähren würden."
 
@@ -134,9 +135,6 @@ DAH_french_prod_id: "Französisches Ingenieurwissen"
 DAH_french_food: "Französisches Agrarwissen"
 DAH_french_war: "Französisches Militärwissen"
 DAH_french_civil: "Französisches Zivilwissen"
-
-### Traits ###
-DAH_leadership_traditions: "Traditionelle Führung"
 
 ### Decisions ###
 DAH_General: "Dahomey's Entscheidungen"

@@ -57,10 +57,6 @@
  OMA_national_populist: "Muscat"
  OMA_national_populist_ADJ: "Muscatisch"
  OMA_national_populist_DEF: "Muscat"
- 
-### Decisions ###
- OMA_Saudi_Invasion: "Krieg in der Wüste"
- OMA_Saudi_Invasion_desc: "Die sture Weigerung des Imams, mit Muscat zusammenzuarbeiten, und das Fehlen einer kohäsiven Führungsebene auf beiden Seiten unserer Nation hat uns zu einem leichten Ziel für die Ikhwan gemacht. Da viele den unglaublichen Machtaufstieg der saudischen Dynastie mitverfolgt haben, fragen sich mittlerweile selbst einige Stämme in unserem Land, ob Ibn Saud vielleicht wirklich von Allah gesandt wurde, um alle Araber wiederzuvereinen..."
 
 ### Ideas ###
  OMA_tribal_army: "Desorganisierte Streitkräfte"
@@ -174,14 +170,6 @@
  OMA_finish_economical_plan_desc: "Endlich können wir die Früchte der jahrelangen Reformbemühungen unseres Landes ernten. Durch die verbesserten Transportmöglichkeiten, die Unterstützung für den Ausbau von Zivil- und Militärfabriken und unseren gesteigerten Handel hat unsere Wirtschaft neue Höhen erreicht und wird mit der Zeit noch stärker werden."
  OMA_compromises_for_our_independence: "Kompromisse für unsere Freiheit"
  OMA_compromises_for_our_independence_desc: "Wir sind auf der gesamten Halbinsel von feindlichen Streitkräften umgeben. Wenn wir das kommende Jahrzehnt überleben wollen, müssen wir wohl oder übel einige Kompromisse eingehen."
- OMA_persian_protection: "Persischer Schutz"
- OMA_persian_protection_desc: "Persien hat Interesse an einem Verbündeten auf der arabischen Halbinsel, weshalb es wohl eine gute Idee wäre, die Perser um Schutz vor unseren Feinden zu bitten. Es ist besser, einen nahen Verbündeten zu haben, als einen, der weit entfernt liegt."
- OMA_imperial_army_officers: "Imperiale Offiziere"
- OMA_imperial_army_officers_desc: "Die Perser haben verlangt, dass wir ihnen, im Gegenzug für ihren Schutz, erlauben, einige ihrer Offiziere in unsere Armee zu integrieren. Dies würde unserer Armee zwar erfahrene Generäle zur Verfügung stellen, doch unser Volk ist von der Idee nicht sonderlich angetan. Dennoch müssen wir Opfer bringen, wenn wir den kommenden Sturm überstehen wollen."
- OMA_equipment_efforts: "Ausrüstungsbemühungen"
- OMA_equipment_efforts_desc: "Eine enge Beziehung zu einer regionalen Großmacht hat den Vorteil, dass wir gemeinsame Militärübungen durchführen und ihre militärische Ausrüstung näher betrachten können. Wir sollten die dabei gewonnenen Erfahrungen an unsere Forschungsabteilung weiterleiten, damit diese unsere derzeitigen Entwürfe für militärische Fahrzeuge verbessern kann."
- OMA_prepare_for_resistance: "Vorbereitung auf den Widerstand"
- OMA_prepare_for_resistance_desc: "Wir wissen, dass sie kommen. Jetzt besteht nur noch die Frage, wann sie uns angreifen werden. Wir müssen jeden Mann darauf vorbereiten, das Land zu verteidigen, an dessen Entwicklung wir so hart gearbeitet haben. Für den Imam!"
  OMA_call_upon_the_raj: "Bittet Indien um Hilfe"
  OMA_call_upon_the_raj_desc: "Indien hat mit der Entente zusammengearbeitet, um den Rest seines Landes zu sichern. Da wir schon einige Erfahrungen mit den Indern gesammelt haben und einst eine enge Bindung zu den Briten pflegten, sollten wir die Entente darum bitten, uns vor unseren Feinden zu beschützen, welche sich darauf vorbereiten, gegen uns vorzugehen."
  OMA_join_the_isac: "Indische Handelsbeziehungen"
@@ -190,14 +178,6 @@
  OMA_royal_navy_cooperation_desc: "Kanada, der Anführer der Entente, fokussiert sich derzeit auf den Bau von Großschiffen. Die Kanadier haben uns Hilfe bei der Konstruktion von Zerstörern angeboten und sind bereit, uns Wege zu zeigen, diese billiger und effizienter zu bauen, als wir es je für möglich gehalten hätten. Auch wir sollten unseren Beitrag leisten und das Bündnis unterstützen, welches uns vor unserem Untergang bewahrt."
  OMA_a_special_relationship: "Eine spezielle Beziehung"
  OMA_a_special_relationship_desc: "Indien hat uns angeboten, uns bei unseren Regierungstätigkeiten zu unterstützen, da dies auch für die Entente von Vorteil wäre. Uns bleibt nicht viel anderes übrig, als dieses Angebot anzunehmen, da die Alternative, unsere totale Vernichtung, keine wirkliche Option ist. Also lasset uns vor Indien auf die Knie gehen und dafür unsere Freiheit behalten! Andere wären nicht so gütig, zumal unsere alten und neuen Herren es dem Imam erlauben werden, auch weiterhin als Regierungschef zu agieren."
- OMA_egyptian_mediation: "Ägyptische Vermittlung"
- OMA_egyptian_mediation_desc: "Wir sollten einige unserer arabischen Freunde darum bitten, uns bei der Lösung unserer Probleme mit dem Rest der arabischen Halbinsel zu helfen. Dies würde unser Volk beruhigen und ihm nicht große Sorgen bereiten, was wiederum die Folge davon wäre, Unterstützung von Ungläubigen anzunehmen."
- OMA_solve_issues_with_yemen: "Lösung der Probleme mit dem Jemen"
- OMA_solve_issues_with_yemen_desc: "Der Jemen erhebt schon lange einen Anspruch auf die Grenzregion Dhofar. Wir sollten Verhandlungen beginnen, um dieses Problem zu lösen, wobei Ägypten als gerechter Vermittler dienen wird. Wir werden zwar wahrscheinlich einige kleinere Zugeständnisse machen müssen, über die die Bevölkerung der Grenzregion nicht gerade erfreut sein wird, doch immerhin werden wir dadurch unsere territoriale Integrität wahren können."
- OMA_solve_arabian_issues: "Lösung der arabischen Grenzkonflikte"
- OMA_solve_arabian_issues_desc: "Die Araber aus dem Zentrum der Halbinsel planen schon lange, unsere Häfen und Handelswege zu übernehmen. Ägypten hat uns deshalb angeboten, bei der Ausarbeitung eines Abkommens zu helfen, durch das wir unsere territoriale Integrität im Austausch gegen einige kleinere Zugeständnisse wahren könnten. Obwohl dieses Angebot nicht gerade perfekt ist, müssen wir es akzeptieren, wenn wir uns Ägyptens Unterstützung sichern wollen."
- OMA_cairo_pact_arms_deal: "Waffenhandel mit Kairo"
- OMA_cairo_pact_arms_deal_desc: "Die Unterstützung Ägyptens, von der wir geradezu abhängig sind, hat bereits riesige Dividenden ausgeschüttet. Die Ägypter senden uns große Mengen militärischer Ausrüstung und die Maschinen und Baupläne, die nötig sind, um diese selbst zu produzieren. Dieses Geschenk ist für unser Militär ein regelrechter Schatz, der unsere Freiheit in den kommenden Jahren sichern sollte."
  OMA_porte_assistance: "Die Mission von Rauf Pascha"
  OMA_porte_assistance_desc: "Es ist die traurige Realität, dass wir uns der Stärke der Saudis nicht allein gegenüberstellen können. Wenn wir nicht wollen, dass Muscat an die Invasoren fällt, dann müssen wir das Angebot der Hohen Pforte, eine Militärexpedition in unser Land zu entsenden, annehmen, egal, wie schwer es ist, sich vorzustellen, dass die Osmanen nur Gutes im Sinn haben."
  OMA_military_reform: "Osmanische Militärreformen einführen"
@@ -223,10 +203,6 @@
  oma.12.t: "Der Schwarze Montag trifft den Oman"
  oma.12.d: "Eine Katastrophe! Der Berliner Aktienmarkt ist vollständig zusammengebrochen! Die Auswirkungen dieses Desasters sind auf der ganzen Welt spürbar und viele Wirtschaften und Geschäfte wurden ruiniert. Während unsere kleine Nation, deren Wirtschaft fast gänzlich von der Landwirtschaft abhängt, von den Auswirkungen größtenteils verschont wurde, gilt dies nicht für Investoren und Unternehmen aus dem Ausland, welche uns nun mit sich herunterziehen."
  oma.12.a: "Hoffentlich kann diese Krise schnell wieder gelöst werden."
-
- oma.13.t: "Den Oman beschützen"
- oma.13.d: "Wie bereits in früheren Vereinbarungen bestimmt, hat das omanische Regime uns einen Teil der Kontrolle über seine Außen- und Verteidigungspolitik gewährt. Nun üben wir einen großen Einfluss auf das Sultanat aus."
- oma.13.a: "Großartig!"
 
  oma.14.t: "Ibn Saud marschiert in Richtung al-Buraimi Oase"
  oma.14.d: "Die al-Buraimi Oase befindet sich an der Grenze zwischen Muscat und dem ehemaligen Vertragsoman. Schon seit vielen Generationen haben sich die Sultane von Muscat und die Emire weiter nördlich darüber gestritten, wer ihr rechtmäßiger Herrscher ist. Da diese Emire nun jedoch von Ibn Saud unterworfen wurden, hat er auch ihre Ansprüche auf dieses Gebiet übernommen und nutzt sie nun für seine eigenen Machenschaften.\n\nEs ist jedoch kein Geheimnis, dass Ibn Saud nicht nur die Oase erobern will. Mit der Begründung, dass unsere ganze Nation einst Teil eines großen wahhabitischen Staates war, wird er seine Offensive wohl erst stoppen, wenn die Stadt Muscat brennt und die grausame Ikhwan alle abgeschlachtet hat, die sich ihm in den Weg stellen.\n\nDie Bedrohung, die Ibn Saud darstellt, hat jedoch die Beziehung des Imams und des Sultans verbessert, da sie zwar ihre Differenzen haben, sich allerdings auch beide für den omanischen Partikularismus einsetzen und vor nichts zurückschrecken werden, um ihre Heimat vor den Invasoren zu verteidigen."

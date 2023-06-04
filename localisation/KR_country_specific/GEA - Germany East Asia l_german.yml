@@ -45,6 +45,8 @@ GEA_Nantong_locked: "- §RNantong§!"
  GEA_if_fiscal_austerity_completed: "Wenn §Y$GEA_fiscal_austerity$§! abgeschlossen ist:"
  GEA_if_collaborate_with_local_elites_completed: "Wenn §Y$GEA_collaborate_with_local_elites$§! abgeschlossen ist:"
 
+ GEA_capitulation_conditions: "§R[GER.GetNameDefCap] wird den Frieden nur dann in Betracht ziehen, wenn [GEA.GetName] keinen seiner Kerne oder Claims mit einer Bevölkerung von mehr als 200.000 Einwohnern mehr kontrolliert.§!"
+
 ### Opinion Modifier ###
 LEP_refused_help_modifier: "Sie haben unsere Hilfe abgelehnt!"
 sinogerman_cooperation: "Deutsch-chinesische Zusammenarbeit"
@@ -705,11 +707,9 @@ GEA_vietcong_killer_idea_desc: "Jeder, der rennt, ist ein Vietminh! Jeder, der s
 GEA_AOG_BONUS: "A.O.G."
 GEA_AOG_bonus_idea: "Ausfsichtsrat der Ostasialischen Generalverwaltung"
 GEA_AOG_bonus_idea_desc: "Durch die A.O.G. haben wir wichtige wirtschaftliche Rechte in §Y[?GEA_AOG_CITIES_NUMBER]§! wichtigen chinesischen Küstenstädten:\n[GEA_Guangzhou]\n[GEA_Xiamen]\n[GEA_Wenzhou]\n[GEA_Nantong]\n§W$MODIFIER_CONSUMER_GOODS_FACTOR$:§! [?GEA_AOG_CITIES|Y%1]"
-GEA_Protecting_GER_interest: "Schutz deutscher Interessen"
-GEA_Protecting_GER_interest_desc: "Das Hauptziel von [GEA.GetName] ist es, sicherzustellen, dass der Handel weiterhin in den [GER.GetName] fließt, und ein Teil dieses Ziels ist es, sicherzustellen, dass deutsche Interessen geschützt werden..."
-GEA_naval_attache_idea: "Ostasien Marinemission"
 
-legation_council_member: "Mitglied des Gesandtschaftsrates"
+ GEA_arm_of_the_german_empire: "Arm des Deutschen Reiches"
+GEA_naval_attache_idea: "Ostasien Marinemission"
 
 ### Country Names ###
  GEA: "Deutsch Ostasien"

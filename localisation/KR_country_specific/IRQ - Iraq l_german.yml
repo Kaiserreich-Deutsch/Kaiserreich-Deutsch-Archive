@@ -13,7 +13,7 @@
  irq_family_law: "Modifiziert §YKonfessionelle Spaltungen§! durch \n$MODIFIER_STABILITY_FACTOR$: §G+5%§!\n\nModifiziert §YZügellose Korruption§! durch \nFabriken für Konsumgüter: §Y-5%§!"
  irq_program_redistribution_land: "\nModifiziert §YSchwere Armut§! durch \n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+10%§!\n$MODIFIER_STABILITY_FACTOR$: §G+20%§!\n"
  irq_parks_and_hospitals: "Modifiziert §YSchwere Armut§! durch \n$MODIFIER_STABILITY_FACTOR$: §G+10%§!\n"
- irq_tribal_civil_and_criminal_disputes_regulation: "\nModifiziert §YZügellose Korruption§! durch \n$MODIFIER_POLITICAL_POWER_GAIN$: §G+0.25§!\n$MODIFIER_STABILITY_FACTOR$: §G+10%§!\n"
+ irq_tribal_civil_and_criminal_disputes_regulation: "\nModifiziert §YZügellose Korruption§! durch \n$MODIFIER_POLITICAL_POWER_GAIN$: §G+0.25§!\nFabriken für Konsumgüter: §Y-5%§!\n$MODIFIER_STABILITY_FACTOR$: §G+10%§!\n"
  irq_shiite_parliamentary_representation: "Modifiziert §YKonfessionelle Spaltungen§! durch \n$MODIFIER_STABILITY_FACTOR$: §G+10%§!\n"
  irq_fight_sectarian_propaganda: "Modifiziert §YKonfessionelle Spaltungen§! durch \n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G+5%§!\n\nModifiziert §YSchwere Armut§! durch \n$MODIFIER_STABILITY_FACTOR$: §G+5%§!\n"
  irq_law_governing_cultivators: "Modifiziert §YSchwere Armut§! durch \nStabilität: §R-15%§!\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+25%§!\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+10%§!\n"

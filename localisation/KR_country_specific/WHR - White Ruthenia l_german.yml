@@ -407,8 +407,10 @@
  WHR_Mozyr_Assault: "Nehmen Sie [194.GetCapitalVictoryPointName]"
  WHR_Final_Blow: "Verbleibende Aufwiegler zusammentreiben"
 
- WHR_arms_import: "Rüstungsimport"
+ WHR_arms_import: "Verteidigung Vorbereitungen"
  WHR_arms_import_desc: "Die weißrussische Industrie liegt irgendwo zwischen mangelhaft und nicht vorhanden, was bedeutet, dass wir Schwierigkeiten haben, die Ausrüstung zu produzieren, die die Volksarmee benötigt, um ihre Aufgabe zu erfüllen. Glücklicherweise hat unser Verbündeter eine Menge alter Ausrüstung, die er bereit ist, uns relativ billig zu verkaufen, so dass wir zusätzliche Ausrüstung erwerben können, während sich unsere magere Militärindustrie auf das konzentrieren kann, was sie tatsächlich produzieren kann."
+ WHR_dnipro_line: "Dnipro Linie"
+ WHR_dvina_line: "Düna Linie"
  WHR_import_small_arms: "Gewehre importieren"
  WHR_import_small_arms_desc: "Unsere Fähigkeit, selbst das Standardgewehr der Infanteristen herzustellen, ist begrenzt. Sicherlich hat Deutschland noch genug alte Mauser aus dem Weltkrieg übrig..."
  WHR_import_artillery: "Artillerie importieren"
@@ -440,7 +442,7 @@
  WHR_equal_RP_membership_desc: "Unsere Nation ist seit ihrer Gründung gewachsen, und wir sind nicht mehr so sehr auf die deutsche Hilfe angewiesen wie damals. Vielleicht ist es an der Zeit, unsere Beschützer um eine größere Unabhängigkeit als Belohnung für unsere bisherige Loyalität zu bitten."
 
  RUS_secret_deal_with_belarus: "Vorschlag für ein Geheimabkommen mit [FROM.GetNameDef]"
- RUS_secret_deal_with_belarus_desc: "Die [WHR.GetAdjective]s haben sich seit dem Ende des Weltkriegs unter der deutsche Herrschaft gewehrt.\nDiese verarmte Region, die lange Zeit von den Zaren vernachlässigt wurde, hat ihr Bestes getan, um einen sozialdemokratischen Staat aufzubauen und ihre nationale Identität unter der Nase der Deutschen zu entwickeln, die ihnen nach der Bildung des Ostwalls ihre Autonomie gaben. Ihre Loyalität zu Deutschland und ihr rigoroses Vorgehen gegen Radikalismus haben dazu geführt, dass ein vordergründig sozialistisches Regime an der Macht geblieben ist, aber vielleicht können wir ihnen etwas mehr bieten als die Deutschen...\n\n§YWenn [WHR.GetNameDef] diesen Vorschlag annimmt, werden sie zu Beginn eines eventuellen Krieges mit Deutschland den Reichspakt verlassen und der Internationale beitreten, um an unserer Seite zu kämpfen. Sie werden zu unserer autonomen Marionette und erhalten außerdem die Staaten [95.GetName] und [194.GetName].§!"
+ RUS_secret_deal_with_belarus_desc: "Die [WHR.GetAdjective]s haben sich seit dem Ende des Weltkriegs unter der deutsche Herrschaft gewehrt.\nDiese verarmte Region, die lange Zeit von den Zaren vernachlässigt wurde, hat ihr Bestes getan, um einen sozialdemokratischen Staat aufzubauen und ihre nationale Identität unter der Nase der Deutschen zu entwickeln, die ihnen nach der Bildung des Ostwalls ihre Autonomie gaben. Ihre Loyalität zu Deutschland und ihr rigoroses Vorgehen gegen Radikalismus haben dazu geführt, dass ein vordergründig sozialistisches Regime an der Macht geblieben ist, aber vielleicht können wir ihnen etwas mehr bieten als die Deutschen...\n\n§YWenn [WHR.GetNameDef] diesen Vorschlag annimmt, werden sie zu Beginn eines eventuellen Krieges mit Deutschland den Reichspakt verlassen und der Internationale beitreten, um an unserer Seite zu kämpfen. Sie werden zu unserer Marionette und erhalten außerdem die Staaten [243.GetName] und [755.GetName].§!"
 
  WHR_establish_LIT_autonomy: "Autonomie für die Litauer"
  WHR_establish_LIT_autonomy_desc: "In unserem Bestreben, Vilnja zu sichern, haben wir die Kontrolle über das litauische Kernland übernommen. Wir haben keinen Grund, unsere litauischen Brüder zu unterdrücken, daher wäre es klug, ihnen eine weitgehende Autonomie in inneren Angelegenheiten einzuräumen und vielleicht die Gesamtverwaltung unseres Staates zu überdenken."
@@ -487,8 +489,6 @@
  WHR_unlock_maav: "Schaltet das Unternehmen §HMahilioŭ Automobilwerk§! frei"
  WHR_unlock_mav: "Schaltet das Unternehmen §HMiensk Automobilwerk§! frei"
  WHR_unlock_baranavicy: "Schaltet das Unternehmen §HBaranavičy Luftfahrt-Reparaturwerk§! frei"
-
- WHR_faster_coring_tt: "Reduziert Kosten und Zeit für Entscheidung £decision_icon_small §HStaatliche Integration§!"
 
  WHR_Unlock_Industrial: "Die Beschlüsse zur Industrialisierung von Weißrussland werden freigeschaltet."
 

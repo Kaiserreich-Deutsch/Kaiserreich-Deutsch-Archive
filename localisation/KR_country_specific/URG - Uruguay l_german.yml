@@ -298,6 +298,7 @@ URG_how_does_navy_work_desc: "Mit der Einrichtung einer angemessenen Marineakade
 
 ### Decisions ###
 URG_call_for_brazilian_aid: "Bittet um brasilianische Unterstützung"
+URG_already_requesting_help: "Ersucht bereits um Hilfe von [BRA.GetName]"
 
 URG_military_decisions: "Militärische Angelegenheiten"
 URG_military_decisions_desc: "Unsere Verteidigungsfähigkeiten sind nicht sehr gut, und wir müssen in dieser Hinsicht etwas tun. Die Verstärkung unserer Grenzen und der Kauf ausländischer Ausrüstung ist unsere beste Chance, uns erfolgreich zu verteidigen."
@@ -357,11 +358,6 @@ urg.7.t: "Rat beibehalten"
 urg.7.d: "Trotz der Anarchie und der Kritik am Nationalen Verwaltungsrat haben wir die Herrschaft des Rates fortgesetzt, und es scheint, dass sich dies ausgezahlt hat. Die Gewalt auf den Straßen ist wieder auf ein normales Maß zurückgegangen, denn das Vertrauen in die Regierung nimmt wieder zu. Die Menschen vertrauen nun darauf, dass der Rat in der Lage ist, die richtigen Entscheidungen für Uruguay zu treffen, auch wenn es länger dauert als bei einem Präsidenten."
 urg.7.a: "Unsere Demokratie ist stark!"
 
-urg.8.t: "Antisyndikalistischer Pakt mit Paraguay"
-urg.8.d: "Es scheint, dass einige unserer größten Befürchtungen Wirklichkeit geworden sind. Die Syndikalisten in Patagonien haben die argentinische Armee besiegt und das Land übernommen. Plötzlich haben wir Nachbarn, die ideologisch anders sind als wir und die gezeigt haben, dass sie bereit sind, für ihre Überzeugungen zu kämpfen. Wir sollten jetzt versuchen, so viele Verbündete wie möglich zu finden, und unsere beste Wahl ist wahrscheinlich ein Land, das sich in genau der gleichen Situation befindet wie wir: Paraguay. Obwohl wir in der Vergangenheit unsere Meinungsverschiedenheiten hatten, ist es jetzt nicht an der Zeit, in der Vergangenheit zu schwelgen.\n\nViele in unserer Regierung sind der Meinung, dass es an der Zeit ist, mit Paraguay über Pläne für einen gegenseitigen Verteidigungspakt zwischen uns zu sprechen."
-urg.8.a: "Paraguay annähern."
-urg.8.b: "Wir können allein bestehen."
-
 urg.10.t: "Sozialistische Proteste im ganzen Land"
 urg.10.d: "Aufgrund des wirtschaftlichen Zusammenbruchs, der das Land heimsucht, ist die Popularität der Partido Socialista de Uruguay, der wichtigsten sozialistischen Partei Uruguays, dramatisch gestiegen, und sie haben im ganzen Land Proteste organisiert. Sie nutzen das Versagen der Regierung bei der Bewältigung dieses Absturzes als Beweis dafür, dass die Regierung fehlerhaft ist und durch ein sozialistisches System ersetzt werden muss. Die sozialistische Botschaft ist für die Massen Uruguays, die derzeit mit der Tatsache fertig werden müssen, dass viele von ihnen alles verloren haben, sehr ansprechend.\n\nZum Glück handelt es sich nur um Proteste, ohne Gewalt. Das zeigt, dass die sozialistische Botschaft zwar jetzt ansprechend ist, dass sie aber verstehen, dass sie keine große Unterstützung oder Legitimität erlangen würden, wenn sie einen Fehler machen würden, wie z. B. politische Gewalt zu verursachen."
 urg.10.a: "Wenigstens war es friedlich."
@@ -385,19 +381,6 @@ urg.15.a: "Hoffentlich kommt Terra nicht auf dumme Gedanken..."
 urg.16.t: "Pax Uruguaia"
 urg.16.d: "Wieder einmal ist die Welt im Krieg versunken. Die Schrecken des Weltkriegs wiederholen sich in Europa, und auch hier auf unserem Kontinent wütet der Krieg unter den Menschen. Und doch herrscht bei uns in Uruguay Frieden. Die Tatsache, dass wir so lange friedlich geblieben sind, auch wenn wir von äußeren Bedrohungen umgeben waren, erfüllt die Menschen in Uruguay mit Freude und Zuversicht."
 urg.16.a: "In was für einem guten Land wir leben."
-
-urg.17.t: "Antisyndikalistischer Pakt mit Uruguay?"
-urg.17.d: "Die Führer Uruguays sind mit dem Vorschlag an uns herangetreten, einen Pakt zur gegenseitigen Verteidigung zu schließen. Der Grund dafür ist die Tatsache, dass die syndikalistische Bedrohung jetzt direkt vor unserer Haustür steht und wir beide in der Schusslinie stehen. In diesen Zeiten der Not wäre es für uns vielleicht von Vorteil, einen Verbündeten zu haben."
-urg.17.a: "Stimmt dem Pakt zu."
-urg.17.b: "Wir brauchen keine Verbündeten."
-
-urg.18.t: "Paraguay stimmt dem Pakt zu"
-urg.18.d: "Paraguay hat geantwortet, indem es dem antisyndikalistischen Pakt zugestimmt hat. Wenn nun einer von uns angegriffen wird, kann der andere einschreiten und helfen."
-urg.18.a: "Es ist gut, in dieser gefährlichen Zeit Freunde zu haben."
-
-urg.19.t: "Paraguay hat den Pakt abgelehnt"
-urg.19.d: "Paraguay hat unser Angebot abgelehnt, angesichts der syndikalistischen Bedrohung einen gegenseitigen Verteidigungsvertrag mit uns abzuschließen. Es ist möglich, dass die Syndikalisten jetzt teilen und erobern können, und wir können nichts tun, um zu helfen."
-urg.19.a: "Wir sind auf uns allein gestellt."
 
 urg.20.t: "Ratswahlen von 1938"
 urg.20.d: "Nachdem der Rat während der Krise von 1936 die Macht behalten hat, sind die Wahlen zum Nationalrat angesetzt. Erneut sind die beiden wichtigsten Parteien vertreten: die Colorado-Partei und die Nacional-Partei, und sie sind die beiden wichtigsten Optionen. Wenn jedoch keine der beiden Parteien eine Mehrheit im Rat erhält, müssen die Parteien gemäßigt handeln und in einem ausgewogenen Rat zusammenarbeiten."

@@ -178,7 +178,6 @@
  JBS_national_populist_party_long: "al-Rashid"
 
 ### Tooltips ###
- jbs_TPC_deal: "§GWir werden reich belohnt werden, sollten unsere Ölquellen in der Zukunft auf mehr schwarzes Gold stoßen.§!"
  jbs_peacefire: "§gSollte die Zeit ablaufen, §Rannektiert§! die Nation mit §Gpositiven Kriegspunkten§! die Andere.§!"
  jbs_abdullah_goes_woop: "§RDüstere Mächte beginnen, gegen [JBS.GetLeader] zu handeln.§!" 
  
@@ -659,10 +658,6 @@
  jbs.70.t: "Ha'il lehnt unsere Forderungen ab!"
  jbs.70.d: "Obwohl das geheime Abkommen, welches wir in Dschidda trafen, vorsieht, dass, sollten die rashidischen Prinzen ihren Thron zurückerobern, die Kontrolle über den Küstenstreifen al-Hasa wieder an die Hohe Pforte übertragen wird, weigert sich der Emir Ha'ils nun, sich an seinen Teil der Abmachung zu halten und verstärkt seine Kontrolle über al-Hasa, indem er es von Männern verwalten lässt, die ihm treu ergeben sind. Er wird sich zwar sicherlich im Klaren sein, dass er mit dieser Entscheidung den Zorn des Osmanischen Reiches auf sich ziehen wird, doch durch seine grenzenlose Tollkühnheit ist er bereit, dieses Risiko einzugehen."
  jbs.70.a: "Er spielt ein gefährliches Spiel..."
-
- jbs.100.t: "Die Hutaim folgen unserem Ruf zu den Waffen!"
- jbs.100.d: "Aus Angst vor der Ikhwan und der wahhabitischen Rhetorik der Saudis, hat sich Dulaim ibn Barrak dazu entschlossen, sein Versprechen den Prinzen Ha'ils gegenüber einzuhalten, und persönlich eine Untergruppe seines Stammes in unsere Hauptstadt angeführt, um uns bei ihrer Verteidigung zu helfen.\n\nObwohl wir ihre Unterstützung in den kommenden Schlachten definitiv benötigen werden, betrachten viele Mitglieder anderer Stämme die Hutaim als minderwertig und für den Kampf unzureichend."
- jbs.100.a: "Willkommen Freunde!"
 
 ### Characters ###
  JBS_saud_bin_abd_al_aziz: "Saūd bin Abd al-Azīz"

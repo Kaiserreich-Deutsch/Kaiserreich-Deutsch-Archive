@@ -176,9 +176,6 @@ ALG_infantry_equipment_0: "Fusil Lebel Modèle 1886 M93"
 ALG_infantry_equipment_0_short: "Lebel Mle M93"
 ALG_support_weapons: "Darne M1919 & Stokes mortar"
 
-ALG_gw_tank_equipment: "Renault FT"
-ALG_gw_tank_equipment_short: "FT"
-
 ###
 ### Alash Autonomy ###
 ###
@@ -188,9 +185,6 @@ ALO_infantry_equipment_0: "Vintovka Mosina obr.1891"
 ALO_infantry_equipment_0_short: "Mosina 1891"
 ALO_infantry_equipment_1: "Vintovka Mosina 1891 obr.1891/1930"
 ALO_infantry_equipment_1_short: "Mosina 1891/1930"
-
-ALO_gw_tank_equipment: "Reno-Putilov"
-ALO_gw_tank_equipment_short: "Reno-Putilov"
 
 ###
 ### Grão Pará (AMA) ###
@@ -339,19 +333,6 @@ ARG_mechanized_equipment_1: "Vickers Carrier LP"
 ARG_mechanized_equipment_1_short: "Vickers Carrier"
 ARG_gw_armored_car_equipment: "Bash Armoured Car"
 ARG_gw_armored_car_equipment_short: "Bash Armoured Car"
-
-#Tanks
-ARG_gw_tank_equipment: "Renault FT"
-ARG_gw_tank_equipment_short: "FT"
-
-ARG_light_tank_equipment_1: "Vickers A4 'Reliant'"
-ARG_light_tank_equipment_1_short: "A4 'Reliant'"
-ARG_light_tank_equipment_1_desc: "Der Vickers Mark E wurde 1932 in begrenztem Umfang von der kanadischen Armee unter der Bezeichnung 'A4' als Behelfspanzer eingesetzt, während modernere leichte Panzer entwickelt wurden. Er erhielt den eher ironischen Spitznamen 'Reliant' für seine gleichzeitige Zuverlässigkeit in unwegsamem Gelände und seine Neigung zu zufälligen Pannen in scheinbar harmlosen Situationen."
-ARG_light_tank_equipment_2_short: "KPz M.38"
-ARG_light_tank_equipment_2_desc: "Noch während die ersten KPz M.35 vom Band liefen, war das österreichische Heer bereits auf der Suche nach einem neuen Kavalleriepanzer. Bei dem folgenden Wettbewerb wurden mehrere in- und ausländische Entwürfe in Betracht gezogen, aber letztendlich entschied sich das Heer für eines der TNH-Modelle von ČKD. Wie der M.35 verfügte auch der TNHP über einen Zwei-Mann-Turm und eine verbesserte 37-mm-Kanone, aber der M.38 verbesserte die Panzerung und den Motor des M.35 und besaß ein viel einfacheres und zuverlässigeres Fahrwerk. Obwohl die ersten Einheiten aufgrund des Schwarzen Montags erst 1938 in Dienst gestellt wurden, sicherte sich die argentinische Armee noch im selben Jahr das Recht, die Konstruktion im eigenen Land zu produzieren."
-
-ARG_medium_tank_equipment_2: "Nahuel D.L. 43"
-ARG_medium_tank_equipment_2_short: "Nahuel"
 
 ### Railroad ###
 ARG_train_equipment_1: "Ferrocarril Buenos Aires al Pacífico  Class 2351"
@@ -1080,107 +1061,6 @@ BAT_rocket_artillery_equipment_2: "21-cm Raketenwerfer Modell 42"
 BAT_rocket_artillery_equipment_2_short: "R.W. 42"
 BAT_rocket_artillery_equipment_2_desc: "Der 21-cm-Raketenwerfer 42 ist ein fünfschüssiger Mehrfachraketenwerfer, der auf einer gezogenen Lafette montiert ist, die von der des 3,7-cm-Panzerabwehrgeschützes Pa.K. 36 abgeleitet ist. Die Raketenwerfer sind in Sechser-Batterien mit drei Batterien pro Bataillon organisiert. Die R.W. 42 sind für die Feuerunterstützung und die Nebelabwehr vorgesehen und werden hauptsächlich als Raketenartillerie eingesetzt und nehmen fast nicht an der chemischen Kriegsführung teil."
 
-#Tanks
-BAT_gw_tank_equipment: "$GER_gw_tank_equipment$"
-BAT_gw_tank_equipment_short: "$GER_gw_tank_equipment_short$"
-BAT_light_tank_equipment_1: "$GER_light_tank_equipment_1$"
-BAT_light_tank_equipment_1_short: "$GER_light_tank_equipment_1_short$"
-BAT_light_tank_equipment_2: "$GER_light_tank_equipment_2$"
-BAT_light_tank_equipment_2_short: "$GER_light_tank_equipment_2_short$"
-BAT_light_tank_equipment_3: "$GER_light_tank_equipment_3$"
-BAT_light_tank_equipment_3_short: "$GER_light_tank_equipment_3_short$"
-BAT_light_tank_artillery_equipment_1: "$GER_light_tank_artillery_equipment_1$"
-BAT_light_tank_artillery_equipment_1_short: "$GER_light_tank_artillery_equipment_1_short$"
-BAT_light_tank_artillery_equipment_2: "$GER_light_tank_artillery_equipment_2$"
-BAT_light_tank_artillery_equipment_2_short: "$GER_light_tank_artillery_equipment_2_short$"
-BAT_light_tank_artillery_equipment_3: "$GER_light_tank_artillery_equipment_3$"
-BAT_light_tank_artillery_equipment_3_short: "$GER_light_tank_artillery_equipment_3_short$"
-BAT_light_tank_destroyer_equipment_1: "$GER_light_tank_destroyer_equipment_1$"
-BAT_light_tank_destroyer_equipment_1_short: "$GER_light_tank_destroyer_equipment_1_short$"
-BAT_light_tank_destroyer_equipment_2: "$GER_light_tank_destroyer_equipment_2$"
-BAT_light_tank_destroyer_equipment_2_short: "$GER_light_tank_destroyer_equipment_2_short$"
-BAT_light_tank_destroyer_equipment_3: "$GER_light_tank_destroyer_equipment_3$"
-BAT_light_tank_destroyer_equipment_3_short: "$GER_light_tank_destroyer_equipment_3_short$"
-BAT_light_tank_aa_equipment_1: "$GER_light_tank_aa_equipment_1$"
-BAT_light_tank_aa_equipment_1_short: "$GER_light_tank_aa_equipment_1_short$"
-BAT_light_tank_aa_equipment_2: "$GER_light_tank_aa_equipment_2$"
-BAT_light_tank_aa_equipment_2_short: "$GER_light_tank_aa_equipment_2_short$"
-BAT_light_tank_aa_equipment_3: "$GER_light_tank_aa_equipment_3$"
-BAT_light_tank_aa_equipment_3_short: "$GER_light_tank_aa_equipment_3_short$"
-
-BAT_medium_tank_equipment_1: "$GER_medium_tank_equipment_1$"
-BAT_medium_tank_equipment_1_short: "$GER_medium_tank_equipment_1_short$"
-BAT_medium_tank_equipment_2: "$GER_medium_tank_equipment_2$"
-BAT_medium_tank_equipment_2_short: "$GER_medium_tank_equipment_2_short$"
-BAT_medium_tank_equipment_3: "$GER_medium_tank_equipment_3$"
-BAT_medium_tank_equipment_3_short: "$GER_medium_tank_equipment_3_short$"
-BAT_medium_tank_artillery_equipment_1: "$GER_medium_tank_artillery_equipment_1$"
-BAT_medium_tank_artillery_equipment_1_short: "$GER_medium_tank_artillery_equipment_1_short$"
-BAT_medium_tank_artillery_equipment_2: "$GER_medium_tank_artillery_equipment_2$"
-BAT_medium_tank_artillery_equipment_2_short: "$GER_medium_tank_artillery_equipment_2_short$"
-BAT_medium_tank_artillery_equipment_3: "$GER_medium_tank_artillery_equipment_3$"
-BAT_medium_tank_artillery_equipment_3_short: "$GER_medium_tank_artillery_equipment_3_short$"
-BAT_medium_tank_destroyer_equipment_1: "$GER_medium_tank_destroyer_equipment_1$"
-BAT_medium_tank_destroyer_equipment_1_short: "$GER_medium_tank_destroyer_equipment_1_short$"
-BAT_medium_tank_destroyer_equipment_2: "$GER_medium_tank_destroyer_equipment_2$"
-BAT_medium_tank_destroyer_equipment_2_short: "$GER_medium_tank_destroyer_equipment_2_short$"
-BAT_medium_tank_destroyer_equipment_3: "$GER_medium_tank_destroyer_equipment_3$"
-BAT_medium_tank_destroyer_equipment_3_short: "$GER_medium_tank_destroyer_equipment_3_short$"
-BAT_medium_tank_aa_equipment_1: "$GER_medium_tank_aa_equipment_1$"
-BAT_medium_tank_aa_equipment_1_short: "$GER_medium_tank_aa_equipment_1_short$"
-BAT_medium_tank_aa_equipment_2: "$GER_medium_tank_aa_equipment_2$"
-BAT_medium_tank_aa_equipment_2_short: "$GER_medium_tank_aa_equipment_2_short$"
-BAT_medium_tank_aa_equipment_3: "$GER_medium_tank_aa_equipment_3$"
-BAT_medium_tank_aa_equipment_3_short: "$GER_medium_tank_aa_equipment_3_short$"
-
-BAT_heavy_tank_equipment_1: "$GER_heavy_tank_equipment_1$"
-BAT_heavy_tank_equipment_1_short: "$GER_heavy_tank_equipment_1_short$"
-BAT_heavy_tank_equipment_2: "$GER_heavy_tank_equipment_2$"
-BAT_heavy_tank_equipment_2_short: "$GER_heavy_tank_equipment_2_short$"
-BAT_heavy_tank_equipment_3: "$GER_heavy_tank_equipment_3$"
-BAT_heavy_tank_equipment_3_short: "$GER_heavy_tank_equipment_3_short$"
-BAT_heavy_tank_artillery_equipment_1: "$GER_heavy_tank_artillery_equipment_1$"
-BAT_heavy_tank_artillery_equipment_1_short: "$GER_heavy_tank_artillery_equipment_1_short$"
-BAT_heavy_tank_artillery_equipment_2: "$GER_heavy_tank_artillery_equipment_2$"
-BAT_heavy_tank_artillery_equipment_2_short: "$GER_heavy_tank_artillery_equipment_2_short$"
-BAT_heavy_tank_artillery_equipment_3: "$GER_heavy_tank_artillery_equipment_3$"
-BAT_heavy_tank_artillery_equipment_3_short: "$GER_heavy_tank_artillery_equipment_3_short$"
-BAT_heavy_tank_destroyer_equipment_1: "$GER_heavy_tank_destroyer_equipment_1$"
-BAT_heavy_tank_destroyer_equipment_1_short: "$GER_heavy_tank_destroyer_equipment_1_short$"
-BAT_heavy_tank_destroyer_equipment_2: "$GER_heavy_tank_destroyer_equipment_2$"
-BAT_heavy_tank_destroyer_equipment_2_short: "$GER_heavy_tank_destroyer_equipment_2_short$"
-BAT_heavy_tank_destroyer_equipment_3: "$GER_heavy_tank_destroyer_equipment_3$"
-BAT_heavy_tank_destroyer_equipment_3_short: "$GER_heavy_tank_destroyer_equipment_3_short$"
-BAT_heavy_tank_aa_equipment_1: "$GER_heavy_tank_aa_equipment_1$"
-BAT_heavy_tank_aa_equipment_1_short: "$GER_heavy_tank_aa_equipment_1_short$"
-BAT_heavy_tank_aa_equipment_2: "$GER_heavy_tank_aa_equipment_2$"
-BAT_heavy_tank_aa_equipment_2_short: "$GER_heavy_tank_aa_equipment_2_short$"
-BAT_heavy_tank_aa_equipment_3: "$GER_heavy_tank_aa_equipment_3$"
-BAT_heavy_tank_aa_equipment_3_short: "$GER_heavy_tank_aa_equipment_3_short$"
-
-BAT_super_heavy_tank_equipment_1: "$GER_super_heavy_tank_equipment_1$"
-BAT_super_heavy_tank_equipment_1_short: "$GER_super_heavy_tank_equipment_1_short$"
-BAT_super_heavy_tank_artillery_equipment_1: "$GER_super_heavy_tank_artillery_equipment_1$"
-BAT_super_heavy_tank_artillery_equipment_1_short: "$GER_super_heavy_tank_artillery_equipment_1_short$"
-BAT_super_heavy_tank_destroyer_equipment_1: "$GER_super_heavy_tank_destroyer_equipment_1$"
-BAT_super_heavy_tank_destroyer_equipment_1_short: "$GER_super_heavy_tank_destroyer_equipment_1_short$"
-BAT_super_heavy_tank_aa_equipment_1: "$GER_super_heavy_tank_aa_equipment_1$"
-BAT_super_heavy_tank_aa_equipment_1_short: "$GER_super_heavy_tank_aa_equipment_1_short$"
-
-BAT_modern_tank_equipment_1: "$GER_modern_tank_equipment_1$"
-BAT_modern_tank_equipment_1_short: "$GER_modern_tank_equipment_1_short$"
-BAT_modern_tank_artillery_equipment_1: "$GER_modern_tank_artillery_equipment_1$"
-BAT_modern_tank_artillery_equipment_1_short: "$GER_modern_tank_artillery_equipment_1_short$"
-BAT_modern_tank_destroyer_equipment_1: "$GER_modern_tank_destroyer_equipment_1$"
-BAT_modern_tank_destroyer_equipment_1_short: "$GER_modern_tank_destroyer_equipment_1_short$"
-BAT_modern_tank_aa_equipment_1: "$GER_modern_tank_aa_equipment_1$"
-BAT_modern_tank_aa_equipment_1_short: "$GER_modern_tank_aa_equipment_1_short$"
-
-BAT_amphibious_tank_equipment_1: "$GER_amphibious_tank_equipment_1$"
-BAT_amphibious_tank_equipment_1_short: "$GER_amphibious_tank_equipment_1_short$"
-BAT_amphibious_tank_equipment_2: "$GER_amphibious_tank_equipment_2$"
-BAT_amphibious_tank_equipment_2_short: "$GER_amphibious_tank_equipment_2_short$"
-
 ###
 ### Bavaria ###
 ###
@@ -1508,110 +1388,6 @@ BEL_artillery_equipment_3_desc: "Die Canon de 105 mle 41 ist im Wesentlichen ein
 BEL_anti_air_equipment_1: "2-cm Flugzeugabwehrkanone Modell 36"
 BEL_anti_air_equipment_1_short: "2-cm Fla.K. 36"
 
-#Tanks
-BEL_gw_tank_equipment: "Renault FT"
-BEL_gw_tank_equipment_short: "FT"
-
-BEL_light_tank_equipment_1: "CLR T15"
-BEL_light_tank_equipment_1_short: "T15"
-BEL_light_tank_equipment_1_desc: "Während Deutschland zunächst verärgert darüber war, dass Flandro-Walloon einen stark modifizierten kanadischen Vicker's Mark III für seinen ersten leichten Panzer seit dem FT aus der Zeit des Zweiten Weltkriegs ausgewählt hatte, wurden die Befürchtungen eines schleichenden kanadischen Einflusses zerstreut, als das Land umfangreiche Bestellungen für deutsche Bewaffnung, Motoren und mehr für das neue Fahrzeug aufgab. Nach einigen anfänglichen Enttäuschungen wurde das Fahrzeug als T15 in Dienst gestellt."
-BEL_light_tank_destroyer_equipment_1: "T13"
-BEL_light_tank_destroyer_equipment_1_short: "T13"
-BEL_light_tank_destroyer_equipment_1_desc: "Aufgrund der positiven Resonanz auf die kanadischen Vickers-Panzer und des deutschen Drucks auf die flämisch-wallonische Regierung, die Beziehungen zu den kanadischen Herstellern abzubrechen, wurde, als die Notwendigkeit bestand, einen Panzerzerstörer einzuführen, ein Entwurf eines Kleinwaffenherstellers in der Nähe des Hennegaus ausgewählt, der vor allem wegen seiner Ähnlichkeiten mit bekannten kanadischen Entwürfen ausgewählt wurde. Das Fahrzeug ist mit der gleichen 47-mm-Panzerabwehrkanone bewaffnet, die bereits bei der Armee im Einsatz ist."
-BEL_light_tank_artillery_equipment_1: "SA F.R.C. 76mm"
-BEL_light_tank_artillery_equipment_1_short: "SA 76mm"
-BEL_light_tank_artillery_equipment_1_desc: "Der SA 76 ist ein seltsam anmutendes Fahrzeug, wenn es je eines gab. Dieses hässliche Entlein ist kaum mehr als eine kanadische Vickers-Panzerkanone mit einer komisch überdimensionierten 76-mm-Kanone und hat trotz eklatanter Schwächen eine gewaltige Schlagkraft."
-BEL_light_tank_destroyer_equipment_2: "T13 B3"
-BEL_light_tank_destroyer_equipment_2_short: "T13 B3"
-BEL_light_tank_destroyer_equipment_2_desc: "Der T13 B3 ist zwar eine Weiterentwicklung älterer T13-Konstruktionen, hat aber wenig Ähnlichkeit mit diesen Fahrzeugen. Mit einem Turm und einer neuen 75-mm-Kanone auf einem völlig neu gestalteten Fahrgestell könnte der B3 auch ein völlig neues Fahrzeug sein."
-BEL_light_tank_equipment_3: "$GER_light_tank_equipment_3$"
-BEL_light_tank_equipment_3_short: "$GER_light_tank_equipment_3_short$"
-BEL_light_tank_artillery_equipment_2: "$GER_light_tank_artillery_equipment_2$"
-BEL_light_tank_artillery_equipment_2_short: "$GER_light_tank_artillery_equipment_2_short$"
-BEL_light_tank_artillery_equipment_3: "$GER_light_tank_artillery_equipment_3$"
-BEL_light_tank_artillery_equipment_3_short: "$GER_light_tank_artillery_equipment_3_short$"
-BEL_light_tank_destroyer_equipment_3: "$GER_light_tank_destroyer_equipment_3$"
-BEL_light_tank_destroyer_equipment_3_short: "$GER_light_tank_destroyer_equipment_3_short$"
-BEL_light_tank_aa_equipment_1: "$GER_light_tank_aa_equipment_1$"
-BEL_light_tank_aa_equipment_1_short: "$GER_light_tank_aa_equipment_1_short$"
-BEL_light_tank_aa_equipment_2: "$GER_light_tank_aa_equipment_2$"
-BEL_light_tank_aa_equipment_2_short: "$GER_light_tank_aa_equipment_2_short$"
-BEL_light_tank_aa_equipment_3: "$GER_light_tank_aa_equipment_3$"
-BEL_light_tank_aa_equipment_3_short: "$GER_light_tank_aa_equipment_3_short$"
-
-BEL_medium_tank_equipment_1: "$GER_medium_tank_equipment_1$"
-BEL_medium_tank_equipment_1_short: "$GER_medium_tank_equipment_1_short$"
-BEL_medium_tank_equipment_2: "$GER_medium_tank_equipment_2$"
-BEL_medium_tank_equipment_2_short: "$GER_medium_tank_equipment_2_short$"
-BEL_medium_tank_equipment_3: "$GER_medium_tank_equipment_3$"
-BEL_medium_tank_equipment_3_short: "$GER_medium_tank_equipment_3_short$"
-BEL_medium_tank_artillery_equipment_1: "$GER_medium_tank_artillery_equipment_1$"
-BEL_medium_tank_artillery_equipment_1_short: "$GER_medium_tank_artillery_equipment_1_short$"
-BEL_medium_tank_artillery_equipment_2: "$GER_medium_tank_artillery_equipment_2$"
-BEL_medium_tank_artillery_equipment_2_short: "$GER_medium_tank_artillery_equipment_2_short$"
-BEL_medium_tank_artillery_equipment_3: "$GER_medium_tank_artillery_equipment_3$"
-BEL_medium_tank_artillery_equipment_3_short: "$GER_medium_tank_artillery_equipment_3_short$"
-BEL_medium_tank_destroyer_equipment_1: "$GER_medium_tank_destroyer_equipment_1$"
-BEL_medium_tank_destroyer_equipment_1_short: "$GER_medium_tank_destroyer_equipment_1_short$"
-BEL_medium_tank_destroyer_equipment_2: "$GER_medium_tank_destroyer_equipment_2$"
-BEL_medium_tank_destroyer_equipment_2_short: "$GER_medium_tank_destroyer_equipment_2_short$"
-BEL_medium_tank_destroyer_equipment_3: "$GER_medium_tank_destroyer_equipment_3$"
-BEL_medium_tank_destroyer_equipment_3_short: "$GER_medium_tank_destroyer_equipment_3_short$"
-BEL_medium_tank_aa_equipment_1: "$GER_medium_tank_aa_equipment_1$"
-BEL_medium_tank_aa_equipment_1_short: "$GER_medium_tank_aa_equipment_1_short$"
-BEL_medium_tank_aa_equipment_2: "$GER_medium_tank_aa_equipment_2$"
-BEL_medium_tank_aa_equipment_2_short: "$GER_medium_tank_aa_equipment_2_short$"
-BEL_medium_tank_aa_equipment_3: "$GER_medium_tank_aa_equipment_3$"
-BEL_medium_tank_aa_equipment_3_short: "$GER_medium_tank_aa_equipment_3_short$"
-
-BEL_heavy_tank_equipment_1: "$GER_heavy_tank_equipment_1$"
-BEL_heavy_tank_equipment_1_short: "$GER_heavy_tank_equipment_1_short$"
-BEL_heavy_tank_equipment_2: "$GER_heavy_tank_equipment_2$"
-BEL_heavy_tank_equipment_2_short: "$GER_heavy_tank_equipment_2_short$"
-BEL_heavy_tank_equipment_3: "$GER_heavy_tank_equipment_3$"
-BEL_heavy_tank_equipment_3_short: "$GER_heavy_tank_equipment_3_short$"
-BEL_heavy_tank_artillery_equipment_1: "$GER_heavy_tank_artillery_equipment_1$"
-BEL_heavy_tank_artillery_equipment_1_short: "$GER_heavy_tank_artillery_equipment_1_short$"
-BEL_heavy_tank_artillery_equipment_2: "$GER_heavy_tank_artillery_equipment_2$"
-BEL_heavy_tank_artillery_equipment_2_short: "$GER_heavy_tank_artillery_equipment_2_short$"
-BEL_heavy_tank_artillery_equipment_3: "$GER_heavy_tank_artillery_equipment_3$"
-BEL_heavy_tank_artillery_equipment_3_short: "$GER_heavy_tank_artillery_equipment_3_short$"
-BEL_heavy_tank_destroyer_equipment_1: "$GER_heavy_tank_destroyer_equipment_1$"
-BEL_heavy_tank_destroyer_equipment_1_short: "$GER_heavy_tank_destroyer_equipment_1_short$"
-BEL_heavy_tank_destroyer_equipment_2: "$GER_heavy_tank_destroyer_equipment_2$"
-BEL_heavy_tank_destroyer_equipment_2_short: "$GER_heavy_tank_destroyer_equipment_2_short$"
-BEL_heavy_tank_destroyer_equipment_3: "$GER_heavy_tank_destroyer_equipment_3$"
-BEL_heavy_tank_destroyer_equipment_3_short: "$GER_heavy_tank_destroyer_equipment_3_short$"
-BEL_heavy_tank_aa_equipment_1: "$GER_heavy_tank_aa_equipment_1$"
-BEL_heavy_tank_aa_equipment_1_short: "$GER_heavy_tank_aa_equipment_1_short$"
-BEL_heavy_tank_aa_equipment_2: "$GER_heavy_tank_aa_equipment_2$"
-BEL_heavy_tank_aa_equipment_2_short: "$GER_heavy_tank_aa_equipment_2_short$"
-BEL_heavy_tank_aa_equipment_3: "$GER_heavy_tank_aa_equipment_3$"
-BEL_heavy_tank_aa_equipment_3_short: "$GER_heavy_tank_aa_equipment_3_short$"
-
-BEL_super_heavy_tank_equipment_1: "$GER_super_heavy_tank_equipment_1$"
-BEL_super_heavy_tank_equipment_1_short: "$GER_super_heavy_tank_equipment_1_short$"
-BEL_super_heavy_tank_artillery_equipment_1: "$GER_super_heavy_tank_artillery_equipment_1$"
-BEL_super_heavy_tank_artillery_equipment_1_short: "$GER_super_heavy_tank_artillery_equipment_1_short$"
-BEL_super_heavy_tank_destroyer_equipment_1: "$GER_super_heavy_tank_destroyer_equipment_1$"
-BEL_super_heavy_tank_destroyer_equipment_1_short: "$GER_super_heavy_tank_destroyer_equipment_1_short$"
-BEL_super_heavy_tank_aa_equipment_1: "$GER_super_heavy_tank_aa_equipment_1$"
-BEL_super_heavy_tank_aa_equipment_1_short: "$GER_super_heavy_tank_aa_equipment_1_short$"
-
-BEL_modern_tank_equipment_1: "$GER_modern_tank_equipment_1$"
-BEL_modern_tank_equipment_1_short: "$GER_modern_tank_equipment_1_short$"
-BEL_modern_tank_artillery_equipment_1: "$GER_modern_tank_artillery_equipment_1$"
-BEL_modern_tank_artillery_equipment_1_short: "$GER_modern_tank_artillery_equipment_1_short$"
-BEL_modern_tank_destroyer_equipment_1: "$GER_modern_tank_destroyer_equipment_1$"
-BEL_modern_tank_destroyer_equipment_1_short: "$GER_modern_tank_destroyer_equipment_1_short$"
-BEL_modern_tank_aa_equipment_1: "$GER_modern_tank_aa_equipment_1$"
-BEL_modern_tank_aa_equipment_1_short: "$GER_modern_tank_aa_equipment_1_short$"
-
-BEL_amphibious_tank_equipment_1: "$GER_amphibious_tank_equipment_1$"
-BEL_amphibious_tank_equipment_1_short: "$GER_amphibious_tank_equipment_1_short$"
-BEL_amphibious_tank_equipment_2: "$GER_amphibious_tank_equipment_2$"
-BEL_amphibious_tank_equipment_2_short: "$GER_amphibious_tank_equipment_2_short$"
-
 ###
 ### Upper Volta ###
 ###
@@ -1620,9 +1396,6 @@ BEL_amphibious_tank_equipment_2_short: "$GER_amphibious_tank_equipment_2_short$"
 VOL_infantry_equipment_0: "Fusil Lebel Modèle 1886 M93"
 VOL_infantry_equipment_0_short: "Lebel Mle M93"
 VOL_support_weapons: "Darne M1919 & Stokes mortar"
-
-VOL_gw_tank_equipment: "Renault FT"
-VOL_gw_tank_equipment_short: "FT"
 
 ###
 ### Bharatiya Commune ###
@@ -1844,10 +1617,6 @@ BRA_infantry_at_desc: "Der Raketenwerfer Modell 44 ist, wie viele brasilianische
 BRA_infantry_at2: "Lança Rojão M44"
 BRA_infantry_at2_desc: "Der Raketenwerfer Modell 44 ist, wie viele brasilianische Waffen seiner Zeit, eine eher uninspirierte Kopie der im Zweiten Weltkrieg verwendeten europäischen Ausrüstung, die später von Brasilien selbst hergestellt und verwendet wurde. Die Waffe basiert größtenteils auf dem deutschen 'Panzerschreck' und hat die meisten Spezifikationen mit diesem gemeinsam, einschließlich der 8,8-Zentimeter-Raketen und der massiven Rauchfahne, die beim Abfeuern entsteht."
 
-BRA_gw_tank_equipment: "Ford M1921"
-BRA_gw_tank_equipment_short: "M1921"
-BRA_gw_tank_equipment_desc: "Da die Vereinigten Staaten zum Zeitpunkt der Kapitulation Frankreichs im Weltkrieg über keine Panzer verfügten, bemühten sie sich angesichts der sich rasch verändernden internationalen Ordnung um die Entwicklung eines Behelfsfahrzeugs. Letztendlich wurde eine von Ford entworfene, nahezu identische Kopie des französischen FT-Panzers mit der Bezeichnung Modell von 1921 verwendet. Brasilien übernahm diesen amerikanischen FT als seinen ersten Panzer."
-
 BRA_artillery_equipment_1: "Obuseiro Rheinmetall de 10,5 cm"
 BRA_artillery_equipment_1_desc: "Nach einer Reihe von Militäreinsätzen von und nach Deutschland begann die brasilianische Regierung, ausländische Artillerie aus diesem Land zu importieren. Dabei handelte es sich um Modelle von Rheinmetall, die für die damalige Zeit relativ modern waren, aber das Land hatte nur eine sehr begrenzte Kapazität für die Massenproduktion im eigenen Land. Diese Geschütze stellten eine erhebliche Verbesserung gegenüber den von Deutschland verwendeten Vorgängermodellen dar, insbesondere wenn es darum ging, bewegliche Ziele zu treffen."
 BRA_artillery_equipment_2: "Obuseiro Modelo 41 de 11,5cm"
@@ -1970,16 +1739,6 @@ BUL_infantry_equipment_3_short: "FN-43"
 BUL_motorized_equipment_1: "Ursus A"
 BUL_gw_armored_car_equipment: "Leichter Panzerspähwagen, Sonderkraftfahrzeug 222"
 BUL_gw_armored_car_equipment_short: "Sd.Kfz. 222"
-
-BUL_gw_tank_equipment: "Renault FT"
-BUL_gw_tank_equipment_short: "FT"
-BUL_gw_tank_equipment_desc: "Bulgarien erbeutete während des großen Krieges mehrere Panzer des Typs Renault FT und begann bald nach dem Krieg mit der Produktion von nicht lizenzierten Kopien des FT im eigenen Land."
-BUL_light_tank_equipment_1: "Škoda Kavalleriepanzer M.35"
-BUL_light_tank_equipment_1_short: "KPz M.35"
-BUL_light_tank_equipment_1_desc: "1933 erkannte die K.u.K. Armee, dass ihre unzusammenhängende Panzerflotte, die aus älteren ausländischen Panzerkonstruktionen und inländischen Panzerwagen bestand, gegen die neuen syndikalistischen und deutschen Konstruktionen schnell an Kampfkraft verlor. Als Notlösung beschloss sie, den neuen Exportpanzer Škoda Š-II zu übernehmen. Die moderne Konstruktion war mit einem Zwei-Mann-Turm mit 37-mm-Kanone und pneumatischem Getriebe und Fahrwerk ausgestattet, was aufgrund seiner Komplexität und geringen Zuverlässigkeit das größte Problem des Panzers darstellte."
-BUL_light_tank_equipment_2: "ČKD Kavalleriepanzer M.38"
-BUL_light_tank_equipment_2_short: "KPz M.38"
-BUL_light_tank_equipment_2_desc: "Noch während die ersten KPz M.35 vom Band liefen, suchte die Armee bereits nach einem neuen Kavalleriepanzer. Im anschließenden Konstruktionswettbewerb wurden mehrere in- und ausländische Entwürfe in Betracht gezogen, aber am Ende entschied sich die Armee für eines der TNH-Modelle von ČKD. Wie der M.35 verfügte der TNHP über einen Zwei-Mann-Turm und eine verbesserte 37-mm-Kanone, aber der M.38 verbesserte die Panzerung und den Motor des M.35 und besaß ein viel einfacheres und zuverlässigeres Fahrwerk. Leider wurden die ersten Einheiten wegen des Schwarzen Montags nicht vor 1938 in Dienst gestellt."
 
 BUL_anti_air_equipment_1: "2-cm Flugzeugabwehrkanone Modell 36"
 BUL_anti_air_equipment_1_short: "2-cm Fla.K. 36"
@@ -2224,44 +1983,6 @@ PSA_rocket_artillery_equipment_1: "M8 Rocket"
 PSA_rocket_artillery_equipment_1_short: "M8"
 PSA_rocket_artillery_equipment_2: "M16 Rocket"
 PSA_rocket_artillery_equipment_2_short: "M16"
-
-#Tanks
-PSA_gw_tank_equipment: "Light Tank, Model 1921"
-PSA_gw_tank_equipment_short: "M1921"
-PSA_gw_tank_equipment_desc: "Da die Vereinigten Staaten zum Zeitpunkt der Kapitulation Frankreichs im Weltkrieg über keine Panzer verfügten, bemühten sie sich angesichts der sich rasch verändernden internationalen Ordnung um die Entwicklung eines Behelfsfahrzeugs. Letztendlich wurde eine von Ford entworfene, nahezu identische Kopie des französischen FT-Panzers mit der Bezeichnung Modell von 1921 verwendet."
-
-PSA_light_tank_equipment_1: "Light Tank, Model 2, Mae West"
-PSA_light_tank_equipment_1_short: "M2 'Mae West'"
-PSA_light_tank_equipment_1_desc: "Beunruhigt durch die rasante Entwicklung von Panzern während des Weltkriegs, entwickelten die Vereinigten Staaten während und unmittelbar nach dem Krieg mehrere experimentelle leichte Panzer. Auch wenn diese Entwürfe letztlich ins Leere liefen, bildeten die daraus gezogenen Lehren die Grundlage für die Entwicklung des M2. Der M2 verfügt über viele Merkmale, die direkt von kanadischen Panzern übernommen wurden, und ist mit einer einzigen 37-mm-Hochgeschwindigkeitskanone bewaffnet."
-PSA_light_tank_equipment_2: "Light Tank, Model 3, Sheridan"
-PSA_light_tank_equipment_2_short: "M3 'Sheridan'"
-#nicknamed in honour Isaac D. White:
-PSA_light_tank_equipment_3: "Light Tank, Model 5, White"
-PSA_light_tank_equipment_3_short: "M5 'White'"
-
-PSA_medium_tank_equipment_1: "Medium Tank, Model 3, Grant"
-PSA_medium_tank_equipment_1_short: "M3 'Grant'"
-PSA_medium_tank_equipment_2: "Medium Tank, Model 4, Sherman"
-PSA_medium_tank_equipment_2_short: "M4 'Sherman'"
-PSA_medium_tank_equipment_3: "Medium Tank, Model 20, Doolittle"
-PSA_medium_tank_equipment_3_short: "M20 'Doolittle'"
-
-#delete eventually when we get a new icon:
-PSA_heavy_tank_equipment_1: "Medium Tank, Model 1, Bulldog"
-PSA_heavy_tank_equipment_1_short: "M1 'Bulldog'"
-#delete eventually when we get a new icon:
-PSA_heavy_tank_equipment_2: "Medium Tank, Model 6, Cruiser"
-PSA_heavy_tank_equipment_2_short: "M6 'Cruiser'"
-#M26 Pershing:
-PSA_heavy_tank_equipment_3: "Heavy Tank, Model 1, Marshal"
-PSA_heavy_tank_equipment_3_short: "M1 'Marshal'"
-
-#M28:
-PSA_super_heavy_tank_equipment_1: "Heavy Tank, Model 5, Washington"
-PSA_super_heavy_tank_equipment_1_short: "M5 'Washington'"
-
-PSA_modern_tank_equipment_1: "Medium Tank, Model 9, DeWitt"
-PSA_modern_tank_equipment_1_short: "M46 'DeWitt'"
 
 ### Railroad ###
 PSA_train_equipment_1: "Pennsylvania I1s Class"
@@ -2680,7 +2401,7 @@ CHI_EQUIPMENT_VERSION_16: "P"
 CHI_infantry_equipment_0: "Jiangfu Type 88"
 CHI_infantry_equipment_0_short: "Jiangfu Type 88"
 CHI_infantry_equipment_0_desc: "Ursprünglich ein Produkt der späten Guangxu-Ära zur 'Selbstverstärkung', wurde der Typ 88 als enge Kopie des deutschen Gewehrs 88 mit Exportmodifikationen entworfen. Obwohl sie trotz Verbesserungen neueren Gewehren kollektiv unterlegen ist und oft schlecht gewartet wird, gilt die Waffe als robust und zuverlässig, wenn auch unhandlich.\n\n Diese Variante wird in den kleinen Werkstätten der aufständischen Zone von Jiangfu hergestellt, obwohl sie aufgrund von Ausrüstungsmangel und persönlichen Vorlieben oft neben einer Vielzahl anderer Waffen wie dem Daodao verwendet wird."
-CHI_infantry_equipment_1: "Huadaong Type 27"
+CHI_infantry_equipment_1: "Huadong Type 27"
 CHI_infantry_equipment_1_short: "Huadong Type 27"
 CHI_infantry_equipment_1_desc: "Dieses ursprünglich als 'Xuantong Typ 27' bezeichnete Gewehr wurde 1935 mit deutscher Hilfe nach der Restauration in den Dienst der Qing gestellt. Die Waffe ist funktional eine nahezu identische Kopie der deutschen Mauser M1924 und stellt in Bezug auf Gewicht und Rückstoß eine erhebliche Verbesserung gegenüber dem viel älteren Typ 88 dar.\n.\nErstmals im Arsenal von Hanyang mit deutschen Werkzeugen hergestellt, haben sich die Herstellungsmethoden bereits auf die von der KMT kontrollierten Gebiete ausgeweitet, auch wenn das Gewehr seine Vorgänger wohl noch eine Weile nicht vollständig ersetzen wird."
 CHI_infantry_equipment_2: "Tsingtao MP18"
@@ -3216,50 +2937,6 @@ CSA_rocket_artillery_equipment_1_short: "CA-22 Rocket Launcher"
 #T66:
 CSA_rocket_artillery_equipment_2: "CA, Rocket Launcher, Multiple, 4.5-inch, Model 66"
 CSA_rocket_artillery_equipment_2_short: "CA-66 Rocket Launcher"
-
-#Tanks
-#Ford M1921:
-CSA_gw_tank_equipment: "Rock Island Arsenal, Light Tank, Model 1921"
-CSA_gw_tank_equipment_short: "RIA-L1921"
-CSA_gw_tank_equipment_desc: "Da die Vereinigten Staaten zum Zeitpunkt der Kapitulation Frankreichs im Weltkrieg über keine Panzer verfügten, bemühten sie sich angesichts der sich rasch verändernden internationalen Ordnung um die Entwicklung eines Behelfsfahrzeugs. Letztendlich wurde eine von Ford entworfene, nahezu identische Kopie des französischen FT-Panzers mit der Bezeichnung Modell von 1921 verwendet."
-
-CSA_light_tank_equipment_1: "Rock Island Arsenal, Light Tank, Model 2"
-CSA_light_tank_equipment_1_short: "RIA-L2"
-CSA_light_tank_equipment_1_desc: "Beunruhigt durch die rasante Entwicklung von Panzern während des Weltkriegs, entwickelten die Vereinigten Staaten während und unmittelbar nach dem Krieg mehrere experimentelle leichte Panzer. Auch wenn diese Entwürfe letztlich ins Leere liefen, bildeten die daraus gezogenen Lehren die Grundlage für die Entwicklung des M2. Der M2 verfügt über viele Merkmale, die direkt von kanadischen Panzern übernommen wurden, und ist mit einer einzigen 37-mm-Hochgeschwindigkeitskanone bewaffnet. Obwohl er der erste leichte Panzer im Dienst der Combined Syndicates war, wurde das Fahrzeug bei der Gründung der Armee der neuen Nation als L2 (L für leicht) bezeichnet."
-CSA_light_tank_equipment_2: "Rock Island Arsenal, Light Tank, Model 3"
-CSA_light_tank_equipment_2_short: "RIA-L3"
-CSA_light_tank_equipment_2_desc: "Während die Bundesregierung und der Unionsstaat verbesserte Varianten des leichten Panzers M2 nach ähnlichem Muster entwickelten, bemühten sich die Kombinierten Syndikate darum, das Profil des M2 beizubehalten und gleichzeitig jedes einzelne Element zu verbessern. Der daraus resultierende L3 war das erste Fahrzeug, das vollständig vom sozialistischen Regime in Chicago entwickelt und produziert wurde."
-CSA_light_tank_equipment_3: "Continental Army, Light Tank, Model 5"
-CSA_light_tank_equipment_3_short: "CA-L5"
-CSA_light_tank_equipment_3_desc: "Der L5 war im Wesentlichen eine verkleinerte Version des vom Pech verfolgten M8-Panzers und der erste von den Combined Syndicates produzierte leichte Panzer, der nicht auf dem Vorkriegspanzer M2 basierte. Bewaffnet mit einer neuen, in Frankreich entwickelten 75-mm-Hochgeschwindigkeits-Kanone, erwarb sich der L5 bei seinen Betreibern und Gegnern gleichermaßen einen hervorragenden Ruf."
-
-CSA_medium_tank_equipment_1: "Continental Army, Medium Tank, Model 4"
-CSA_medium_tank_equipment_1_short: "CA-M4"
-CSA_medium_tank_equipment_1_desc: "Die anfänglichen Bemühungen der CSA, einen mittleren Panzer zu entwickeln, scheiterten an den heftigen Rivalitäten zwischen den Gewerkschaften. Mit Hilfe der sozialistischen Länder im Ausland gelang es den Combined Syndicates jedoch schließlich, einen im Wesentlichen vergrößerten L2-Panzer zu entwickeln. Der M4 ist zwar kein außergewöhnliches Fahrzeug, leistet aber in einer Vielzahl von Situationen hervorragende Dienste."
-CSA_medium_tank_equipment_2: "Continental Army, Medium Tank, Model 5"
-CSA_medium_tank_equipment_2_short: "CA-M5"
-CSA_medium_tank_equipment_2_desc: "Der M5, der stark von französischen Entwürfen und dem 'Hood'-Panzer des Unionsstaates inspiriert war, sollte über weite Strecken des amerikanischen Bürgerkriegs das Rückgrat der Panzerdivisionen des Syndikats bilden. Schnell und mit einer dicken Frontpanzerung ausgestattet, erwies sich der M5 für seine Gegner als harte Nuss, die es zu knacken galt."
-CSA_medium_tank_equipment_3: "Continental Army, Medium Tank, Model 9"
-CSA_medium_tank_equipment_3_short: "CA-M9"
-CSA_medium_tank_equipment_3_desc: "Nachdem das Werk, das für die Entwicklung des von der CSA vorgeschlagenen mittleren Panzers M8 verantwortlich war, an die föderalen Streitkräfte gefallen war, wurde der Entwurf direkt vom Zentralen Konstruktionsbüro der Streitkräfte der Vereinigten Syndikate übernommen und weiterentwickelt. Wie sein föderales Gegenstück ist der M9 mit einer 90-mm-Hauptkanone ausgestattet."
-
-CSA_heavy_tank_equipment_1: "Continental Army, Heavy Tank, Model 1"
-CSA_heavy_tank_equipment_1_short: "CA-H1"
-CSA_heavy_tank_equipment_1_desc: "Die Entwicklung des schweren Panzers H1 begann nicht als Panzer, sondern als kommerzieller Traktor. Mit dem Ausbruch des Amerikanischen Bürgerkriegs wurde die neue Gewerkschaft, die für die Entwicklung des noch nicht freigegebenen Traktors verantwortlich war, angewiesen, sich auf die militärische Produktion umzustellen. Auf der Grundlage dieses fast vergessenen Traktors wurde schließlich der H1 entwickelt. Obwohl er mit Motorproblemen zu kämpfen hatte und die Panzerung für seine Aufgabe gerade noch ausreichte, war der H1 der erste schwere Traktor, der während des Krieges in großen Stückzahlen eingesetzt wurde und eine große Wirkung hatte."
-CSA_heavy_tank_equipment_2: "Continental Army, Heavy Tank, Model 2"
-CSA_heavy_tank_equipment_2_short: "CA-H2"
-CSA_heavy_tank_equipment_2_desc: "Obwohl es äußerlich dem H1 ähnelt, ist das H2-Projekt eigentlich älter als der H1. Als Produkt des Zentralen Militärischen Konstruktionsbüros der Kombinierten Syndikate wurde der Vorläufer des H2 nach der erfolgreichen Einführung des H1 neu konstruiert, um die Besatzungen des H1 mit ihm vertraut zu machen. Obwohl der H2 zuweilen langsam und schwer zu manövrieren ist, hat seine Hauptkanone eine beeindruckende Durchschlagskraft und seine Panzerung war zur Zeit seiner ersten Einführung unvergleichlich."
-CSA_heavy_tank_equipment_3: "Continental Army, Heavy Tank, Model 4"
-CSA_heavy_tank_equipment_3_short: "CA-H4"
-CSA_heavy_tank_equipment_3_desc: "Der H4 entstand aus dem Bedarf an einem schweren Panzer, der wendig genug war, um effektiver mit leichteren Fahrzeugen zusammenzuarbeiten. Die Panzerung des H4 war zwar nicht viel dicker als die des H2, aber das Fahrzeug war in der Tat wesentlich schneller, insbesondere unter schwierigen Bedingungen, und mit einer Kanone ausgestattet, die es mit Leichtigkeit mit gegnerischen schweren Panzern aufnehmen konnte."
-
-CSA_super_heavy_tank_equipment_1: "Continental Army, Heavy Tank, Model 5"
-CSA_super_heavy_tank_equipment_1_short: "CA-H5"
-CSA_super_heavy_tank_equipment_1_desc: "Der schwere Panzer H2 erfüllte zwar seine Aufgabe hervorragend, doch seine Bewaffnung und Panzerung erwiesen sich als unzureichend, insbesondere für den Einsatz in städtischen Gebieten. Um einen größeren Motor, eine neue 105-mm-Kanone und eine dickere Panzerung unterzubringen, wurde das Fahrgestell verlängert und ein neuer Turm entworfen. Die Aufrüstung des Fahrzeugs war beträchtlich, und obwohl der H5 direkten Treffern von großkalibrigen Geschützen standhalten konnte, war er recht schwerfällig."
-
-CSA_modern_tank_equipment_1: "Continental Army, Medium Tank, Model 12"
-CSA_modern_tank_equipment_1_short: "CA-M12"
-CSA_modern_tank_equipment_1_desc: "Ursprünglich eine Weiterentwicklung des mittleren Panzers M9, wurde der M12 aufgrund der radikalen Änderungen schließlich als völlig neuer Panzertyp eingestuft, der sowohl die Rolle eines mittleren als auch eines schweren Panzers erfüllen kann. Der M12 ist der Stolz der Syndikate und hinterlässt nur die zerstörten Überreste seiner Feinde in seinem Kielwasser."
 
 ###
 ### Cuba ###
@@ -3961,22 +3638,6 @@ DEI_mechanized_equipment_2_short: "Psw. M.42"
 DEI_mechanized_equipment_3: "Pantserwagen M.44"
 DEI_mechanized_equipment_3_short: "Psw. M.44"
 
-DEI_gw_tank_equipment: "Carden Loyd Mk VI"
-DEI_gw_tank_equipment_short: "V-CL Mk VI"
-DEI_gw_tank_equipment_desc: "Die Königliche Niederländische Armee verfügte nur über eine Handvoll entweder veralteter oder abgenutzter Panzerwagen, zwölf ausgezeichnete DAF M39 Sechsrad-Panzerwagen und fünf Carden Loyd Mark VI Panzerwagen mit den Namen Lynx, Poema, Jaguar, Panter und Luipaard."
-DEI_light_tank_equipment_1: "DAF M39 Pantserwagen"
-DEI_light_tank_equipment_1_short: "DAF M39"
-DEI_light_tank_equipment_1_desc: "Für seine Zeit war der DAF M39 ein modernes Design mit einer komplett geschweißten Monocoque-Konstruktion der Wanne und einer umfangreichen Verwendung von Schrägpanzerung. Der Turm, der mit einer relativ starken 37-mm-Kanone ausgestattet war, wurde in Schweden von Landsverk hergestellt. Der Typ war leicht gepanzert und relativ schnell, mit einer guten Geländegängigkeit."
-DEI_light_tank_equipment_2: "CTMS-1TB1"
-DEI_light_tank_equipment_2_short: "CTMS-1TB1"
-DEI_light_tank_equipment_2_desc: "Das Projekt CTMS-1TB1 wurde von Marmon-Herrington gestartet, um einen leichten Dreimann-Panzer für die niederländische Armee herzustellen. Er war mit einer 37 mm Maschinenkanone und einem koaxialen M1919-Maschinengewehr bewaffnet. Ursprünglich sollten 600 Exemplare nach Niederländisch-Ostindien geschickt werden. Der Feldzug endete jedoch zu früh, als dass Prototypen verschickt werden konnten."
-DEI_light_tank_equipment_3: "MTLS-1G14"
-DEI_light_tank_equipment_3_short: "MTLS-1G14"
-DEI_light_tank_equipment_3_desc: "Das Projekt MTLS-1G14 wurde zeitgleich mit dem CTMS-1TB1 gestartet, um einen mittleren Vier-Mann-Panzer für die niederländische Armee zu bauen. Er war mit zwei 37 mm Maschinenkanonen bewaffnet. Außerdem war er mit fünf M1919-Maschinengewehren ausgestattet, von denen drei auf der Wanne, eines koaxial und eines oben auf dem Turm montiert waren. Die Panzerung war verschraubt und betrug zwischen 13-38 mm."
-DEI_light_tank_aa_equipment_3: "Braat AA"
-DEI_light_tank_aa_equipment_3_short: "Braat AA"
-DEI_light_tank_aa_equipment_3_desc: "Eine Luftabwehrkanone auf dem Fahrgestell eines Braat Overvalwagens."
-
 ###
 ### Denmark ###
 ###
@@ -4136,10 +3797,6 @@ EGY_rocket_artillery_equipment_1: "28/32-cm Schweres Wurfgerät Modell 40"
 EGY_rocket_artillery_equipment_1_short: "s.W.G. 40"
 EGY_rocket_artillery_equipment_2: "21-cm Raketenwerfer Modell 42"
 EGY_rocket_artillery_equipment_2_short: "R.W. 42"
-
-#Tanks
-EGY_gw_tank_equipment: "Mark V"
-EGY_gw_tank_equipment_short: "Mark V"
 
 ###
 ### El Salvador ###
@@ -4413,153 +4070,6 @@ EST_rocket_artillery_equipment_1_short: "Arsenal M40"
 EST_rocket_artillery_equipment_2: "Donauwörth-Arsenal Mudel 1942 210mm Raketikahur"
 EST_rocket_artillery_equipment_2_short: "Donauwörth-Arsenal M42"
 
-#Oberschlesien:
-EST_gw_tank_equipment: "Mudel 1919 Kergetank"
-EST_gw_tank_equipment_short: "M19"
-#Pz 1D:
-EST_light_tank_equipment_1: "Mudel 1932 Kergetank"
-EST_light_tank_equipment_1_short: "M32"
-#Pz II L (luchs):
-EST_light_tank_equipment_2: "Mudel 1936 Kergetank"
-EST_light_tank_equipment_2_short: "M36"
-#Pz II/Leopard:
-EST_light_tank_equipment_3: "Mudel 1940 Kergetank"
-EST_light_tank_equipment_3_short: "M40"
-#Sturmpanzer I Bison:
-EST_light_tank_artillery_equipment_1: "Mudel 1932 150mm Liikursuurtükk"
-EST_light_tank_artillery_equipment_1_short: "150mm M32"
-#Sturmpanzer II Bison:
-EST_light_tank_artillery_equipment_2: "Mudel 1936 105mm Liikursuurtükk"
-EST_light_tank_artillery_equipment_2_short: "105mm M36"
-#Sturmpanzer II Bison:
-EST_light_tank_artillery_equipment_3: "Mudel 1941 105mm Liikursuurtükk"
-EST_light_tank_artillery_equipment_3_short: "105mm M41"
-#PzJg 1:
-EST_light_tank_destroyer_equipment_1: "Mudel 1932 50mm Tankihävitaja"
-EST_light_tank_destroyer_equipment_1_short: "50mm M32"
-#Marder 2 75mm:
-EST_light_tank_destroyer_equipment_2: "Mudel 1936 75mm Tankihävitaja"
-EST_light_tank_destroyer_equipment_2_short: "75mm M36"
-#Stug Leopard:
-EST_light_tank_destroyer_equipment_3: "Mudel 1941 75mm Tankihävitaja"
-EST_light_tank_destroyer_equipment_3_short: "75mm M41"
-#Flakpanzer 1:
-EST_light_tank_aa_equipment_1: "Mudel 1932 20mm Õhutõrjesoomuk"
-EST_light_tank_aa_equipment_1_short: "20mm M32"
-#37mm FlaK 43 Sfi. auf Pz.Kpfw. II Ausf. L 'Luchs':
-EST_light_tank_aa_equipment_2: "Mudel 1936 37mm Õhutõrjesoomuk"
-EST_light_tank_aa_equipment_2_short: "37mm M36"
-#fake:
-EST_light_tank_aa_equipment_3: "Mudel 1941 20mm Õhutõrjesoomuk"
-EST_light_tank_aa_equipment_3_short: "20mm M41"
-
-#PZ 3:
-EST_medium_tank_equipment_1: "Mudel 1936 Keskmine Tank"
-EST_medium_tank_equipment_1_short: "M36"
-#PZ 4 H/L:
-EST_medium_tank_equipment_2: "Mudel 1939 Keskmine Tank"
-EST_medium_tank_equipment_2_short: "M39"
-#Panther:
-EST_medium_tank_equipment_3: "Mudel 1942 Keskmine Tank"
-EST_medium_tank_equipment_3_short: "M42"
-#Heuschrecke:
-EST_medium_tank_artillery_equipment_1: "Mudel 1936 105mm Liikursuurtükk"
-EST_medium_tank_artillery_equipment_1_short: "105mm M36"
-#Hummel:
-EST_medium_tank_artillery_equipment_2: "Mudel 1939 150mm Liikursuurtükk"
-EST_medium_tank_artillery_equipment_2_short: "150mm M39"
-#WT Panther:
-EST_medium_tank_artillery_equipment_3: "Mudel 1942 150mm Liikursuurtükk"
-EST_medium_tank_artillery_equipment_3_short: "150mm M42"
-#Stug4:
-EST_medium_tank_destroyer_equipment_1: "Mudel 1936 75mm Tankihävitaja"
-EST_medium_tank_destroyer_equipment_1_short: "75mm M36"
-#JgPz4:
-EST_medium_tank_destroyer_equipment_2: "Mudel 1939 75mm Tankihävitaja"
-EST_medium_tank_destroyer_equipment_2_short: "75mm M39"
-#Jagdpanther:
-EST_medium_tank_destroyer_equipment_3: "Mudel 1942 88mm Tankihävitaja"
-EST_medium_tank_destroyer_equipment_3_short: "75mm M42"
-#Ostwind:
-EST_medium_tank_aa_equipment_1: "Mudel 1936 37mm Õhutõrjesoomuk"
-EST_medium_tank_aa_equipment_1_short: "37mm M36"
-#Kugelblitz:
-EST_medium_tank_aa_equipment_2: "Mudel 1939 37mm Õhutõrjesoomuk"
-EST_medium_tank_aa_equipment_2_short: "37mm M39"
-#Coelian:
-EST_medium_tank_aa_equipment_3: "Mudel 1942 55mm Õhutõrjesoomuk"
-EST_medium_tank_aa_equipment_3_short: "55mm M42"
-
-#VK 30.01 H:
-EST_heavy_tank_equipment_1: "Mudel 1935 Raske Tank"
-EST_heavy_tank_equipment_1_short: "M35"
-#Tiger:
-EST_heavy_tank_equipment_2: "Mudel 1941 Raske Tank"
-EST_heavy_tank_equipment_2_short: "M41"
-#Tiger:
-EST_heavy_tank_equipment_3: "Mudel 1943 Raske Tank"
-EST_heavy_tank_equipment_3_short: "M43"
-#fake:
-EST_heavy_tank_artillery_equipment_1: "Mudel 1935 150mm Liikursuurtükk"
-EST_heavy_tank_artillery_equipment_1_short: "150mm M35"
-#GW Tiger mit 17cm:
-EST_heavy_tank_artillery_equipment_2: "Mudel 1941 170mm Liikursuurtükk"
-EST_heavy_tank_artillery_equipment_2_short: "170mm M41"
-#GW Tiger mit 21cm:
-EST_heavy_tank_artillery_equipment_3: "Mudel 1943 210mm Liikursuurtükk"
-EST_heavy_tank_artillery_equipment_3_short: "210mm M43"
-#St. Emil with dicker max:
-EST_heavy_tank_destroyer_equipment_1: "Mudel 1935 105mm Tankihävitaja"
-EST_heavy_tank_destroyer_equipment_1_short: "105mm M35"
-#Ferdinand/tiger Hybrid with dicker max:
-EST_heavy_tank_destroyer_equipment_2: "Mudel 1941 105mm Tankihävitaja"
-EST_heavy_tank_destroyer_equipment_2_short: "105mm M41"
-#Jagdtiger:
-EST_heavy_tank_destroyer_equipment_3: "Mudel 1943 128mm Tankihävitaja"
-EST_heavy_tank_destroyer_equipment_3_short: "128mm M43"
-#fake, icon reference from Pz.Sfl. IVc:
-EST_heavy_tank_aa_equipment_1: "Mudel 1935 88mm Õhutõrjesoomuk"
-EST_heavy_tank_aa_equipment_1_short: "88mm M35"
-#fake, icon reference from Pz.Sfl. IVc:
-EST_heavy_tank_aa_equipment_2: "Mudel 1941 105mm Õhutõrjesoomuk"
-EST_heavy_tank_aa_equipment_2_short: "105mm M41"
-#fake:
-EST_heavy_tank_aa_equipment_3: "Mudel 1943 128mm Õhutõrjesoomuk"
-EST_heavy_tank_aa_equipment_3_short: "128mm M43"
-
-#E100:
-EST_super_heavy_tank_equipment_1: "Mudel 1943 Üliraske Tank"
-EST_super_heavy_tank_equipment_1_short: "M43"
-#GWE 100:
-EST_super_heavy_tank_artillery_equipment_1: "Mudel 1943 305mm Liikursuurtükk"
-EST_super_heavy_tank_artillery_equipment_1_short: "305mm M43"
-#JGPZ 100:
-EST_super_heavy_tank_destroyer_equipment_1: "Mudel 1943 170mm Tankihävitaja"
-EST_super_heavy_tank_destroyer_equipment_1_short: "170mm M43"
-#fake:
-EST_super_heavy_tank_aa_equipment_1: "Mudel 1943 128mm Õhutõrjesoomuk"
-EST_super_heavy_tank_aa_equipment_1_short: "128mm M43"
-
-#E50:
-EST_modern_tank_equipment_1: "Mudel 1945 Keskmine Tank"
-EST_modern_tank_equipment_1_short: "M45"
-#fake:
-EST_modern_tank_artillery_equipment_1: "Mudel 1945 150mm Liikursuurtükk"
-EST_modern_tank_artillery_equipment_1_short: "150mm M45"
-#JGpanther mit 10,5:
-EST_modern_tank_destroyer_equipment_1: "Mudel 1945 105mm Tankihävitaja"
-EST_modern_tank_destroyer_equipment_1_short: "105mm M45"
-#fake:
-EST_modern_tank_aa_equipment_1: "Mudel 1945 55mm Õhutõrjesoomuk"
-EST_modern_tank_aa_equipment_1_short: "55mm M45"
-
-#Pz.2 modified, i.e. Schwimmpanzer II:
-EST_amphibious_tank_equipment_1: "Mudel 1941 Amfiibtank"
-EST_amphibious_tank_equipment_1_short: "M41"
-#Panzerfahre with tower:
-EST_amphibious_tank_equipment_2: "Mudel 1943 Amfiibtank"
-EST_amphibious_tank_equipment_2_short: "M43"
-
 ###
 ### Abyssinia ###
 ###
@@ -4654,38 +4164,6 @@ FIN_anti_air_equipment_1_short: "20 Itk/36"
 #Polish Bofors wz. 36 anti-tank gun:
 FIN_anti_tank_equipment_1: "37mm Panssarintorjuntakanuuna Malli 36"
 FIN_anti_tank_equipment_1_short: "37 Pstk/36"
-
-FIN_gw_tank_equipment: "Renault FT"
-FIN_gw_tank_equipment_short: "FT"
-FIN_light_tank_equipment_1: "Vickers Mark E Type B"
-FIN_light_tank_equipment_1_short: "Mk E Type B"
-FIN_light_tank_equipment_1_desc: "Der Vickers Mark E wurde 1932 in begrenztem Umfang von der kanadischen Armee unter der Bezeichnung 'A4' als Behelfspanzer eingesetzt, während modernere leichte Panzer entwickelt wurden. Er erhielt den eher ironischen Spitznamen 'Reliant' für seine gleichzeitige Zuverlässigkeit in unwegsamem Gelände und seine Neigung zu zufälligen Pannen in scheinbar harmlosen Situationen."
-FIN_light_tank_equipment_2: "AMO-Sisu BT-10"
-FIN_light_tank_equipment_2_short: "BT-10"
-FIN_light_tank_equipment_2_desc: "Aufgrund eines Produktionsfehlers und der finanziellen Probleme Russlands wurde 1935 eine kleine Anzahl defekter russischer BT-10-Panzer nach Finnland verkauft, wo sie umgerüstet und vervollständigt wurden. Der finnische BT-10 ist mit der gleichen 37-mm-Bofors-Kanone bewaffnet wie der Mk E, der nur wenige Monate zuvor eingeführt wurde."
-FIN_light_tank_destroyer_equipment_2: "Sisu BT-42"
-FIN_light_tank_destroyer_equipment_2_short: "BT-42"
-FIN_light_tank_destroyer_equipment_2_desc: "Der Sisu BT-42 ist ein finnischer BT-10, der mit einem neuen Turm ausgestattet ist, der eine kanadische 4,5-Zoll-Haubitze neueren Datums aufnehmen kann."
-FIN_light_tank_equipment_3: "$GER_light_tank_equipment_3$"
-FIN_light_tank_equipment_3_short: "$GER_light_tank_equipment_3_short$"
-FIN_medium_tank_equipment_1: "$GER_medium_tank_equipment_1$"
-FIN_medium_tank_equipment_1_short: "$GER_medium_tank_equipment_1_short$"
-FIN_medium_tank_equipment_2: "$GER_medium_tank_equipment_2$"
-FIN_medium_tank_equipment_2_short: "$GER_medium_tank_equipment_2_short$"
-FIN_medium_tank_equipment_3: "$GER_medium_tank_equipment_3$"
-FIN_medium_tank_equipment_3_short: "$GER_medium_tank_equipment_3_short$"
-FIN_heavy_tank_equipment_1: "$GER_heavy_tank_equipment_1$"
-FIN_heavy_tank_equipment_1_short: "$GER_heavy_tank_equipment_1_short$"
-FIN_heavy_tank_equipment_2: "$GER_heavy_tank_equipment_2$"
-FIN_heavy_tank_equipment_2_short: "$GER_heavy_tank_equipment_2_short$"
-FIN_heavy_tank_equipment_3: "$GER_heavy_tank_equipment_3$"
-FIN_heavy_tank_equipment_3_short: "$GER_heavy_tank_equipment_3_short$"
-FIN_super_heavy_tank_equipment_1: "Putilov T-107"
-FIN_super_heavy_tank_equipment_1_short: "T-107"
-FIN_super_heavy_tank_equipment_1_desc: "Nach dem Erfolg des T-75 begann das Unternehmen Putilow mit der Arbeit an einer Reihe neuer schwerer Panzer mit einem Turm. Einer dieser Entwürfe war der massive T-107. Die Pläne für dieses Fahrzeug wurden schließlich von deutschen Agenten in Russland gestohlen und das Projekt wurde neu ausgerichtet. Die Deutschen bauten ein Versuchsfahrzeug, um die russischen Panzerfähigkeiten zu beurteilen, und nach zufriedenstellenden Tests fand das Fahrzeug schließlich seinen Weg nach Finnland. Die Finnen begannen fast sofort mit der Produktion neuer T-107."
-FIN_modern_tank_equipment_1: "E-50 Standardpanzer"
-FIN_modern_tank_equipment_1_short: "E-50"
-FIN_modern_tank_equipment_1_desc: "Die Entwicklung der Serie 'Standardpanzer' war von Anfang an auf Modularität ausgelegt. Die Panzer dieser Serie sollen mit ihrer hochmodernen Bewaffnung nicht nur das Schlachtfeld dominieren, sondern dies auch effizient tun."
 
 ###
 ### Flanders ###
@@ -4861,15 +4339,6 @@ FOP_infantry_at2: "LRAC de 73mm Mle 1943"
 FOP_support_weapons: "Hotchkiss M.1914(Chilean Model)"
 FOP_support_weapons2: "Fabrique Nationale FN GP35"
 FOP_support_weapons3: "Hotchkiss 26/37, Brandt Mle 35/38"
-FOP_gw_tank_equipment: "Renault FT"
-FOP_gw_tank_equipment_short: "FT"
-FOP_light_tank_equipment_1: "Brandt H35"
-FOP_light_tank_equipment_1_short: "H35"
-FOP_light_tank_equipment_2: "FCM 36"
-FOP_light_tank_equipment_2_short: "FCM 36"
-
-FOP_medium_tank_equipment_2: "Nahuel D.L. 43"
-FOP_medium_tank_equipment_2_short: "Nahuel"
 
 ### Railroad ###
 FOP_train_equipment_1: "Ferrocarril Buenos Aires al Pacífico  Class 2351"
@@ -4989,68 +4458,6 @@ FRA_anti_air_equipment_1_short: "Brandt 25 mm"
 FRA_anti_air_equipment_2: "Schneider 37 mm"
 FRA_anti_air_equipment_3: "Canon de 75 CA modèle 1940"
 
-#Tanks
-
-FRA_gw_tank_equipment: "Renault FT"
-FRA_gw_tank_equipment_short: "FT"
-FRA_light_tank_equipment_1: "Brandt H35"
-FRA_light_tank_equipment_1_short: "H35"
-FRA_light_tank_equipment_2: "FCM 36"
-FRA_light_tank_equipment_2_short: "FCM 36"
-FRA_light_tank_equipment_3: "SOMUA 12t"
-FRA_light_tank_equipment_3_short: "SOMUA 12t"
-FRA_light_tank_destroyer_equipment_3: "Chasseur de Chars Lorraine"
-FRA_light_tank_destroyer_equipment_3_short: "CDC Lorraine"
-FRA_light_tank_artillery_equipment_3: "Canon de 155 mm Mle F3 Automoteur"
-FRA_light_tank_artillery_equipment_3_short: "F3 155 mm"
-FRA_light_tank_aa_equipment_3: "AMX DCA Canon de 40mm"
-FRA_light_tank_aa_equipment_3_short: "AMX DCA 40"
-
-FRA_medium_tank_equipment_1: "Lorraine AMC 35"
-FRA_medium_tank_equipment_1_short: "AMC 35"
-FRA_medium_tank_artillery_equipment_1: "Lorraine V39"
-FRA_medium_tank_artillery_equipment_1_short: "Lorraine V39"
-FRA_medium_tank_equipment_2: "SOMUA S35"
-FRA_medium_tank_equipment_2_short: "S35"
-FRA_medium_tank_artillery_equipment_2: "AMX 13 105 AM"
-FRA_medium_tank_artillery_equipment_2_short: "105 AM"
-FRA_medium_tank_equipment_3: "Lorraine 42"
-FRA_medium_tank_equipment_3_short: "Lorraine 42"
-FRA_medium_tank_destroyer_equipment_3: "Canon D’Assaut Lorraine de 100mm"
-FRA_medium_tank_destroyer_equipment_3_short: "CA Lorraine 100"
-
-FRA_heavy_tank_equipment_1: "Lorraine B1"
-FRA_heavy_tank_equipment_1_short: "B1"
-FRA_heavy_tank_artillery_equipment_1: "Canon de 194 mle GPF"
-FRA_heavy_tank_artillery_equipment_1_short: "Canon de 194"
-FRA_heavy_tank_equipment_2: "ARL-44"
-FRA_heavy_tank_equipment_2_short: "ARL-44"
-FRA_heavy_tank_equipment_3: "SOMUA-M4"
-FRA_heavy_tank_equipment_3_short: "SOMUA-M4"
-FRA_heavy_tank_destroyer_equipment_3: "AMX 50 Foch"
-FRA_heavy_tank_destroyer_equipment_3_short: "Foch"
-
-FRA_super_heavy_tank_equipment_1: "ARL tracteur C"
-FRA_super_heavy_tank_equipment_1_short: "ARL tracteur C"
-FRA_super_heavy_tank_artillery_equipment_1: "FCM-2C bis"
-FRA_super_heavy_tank_artillery_equipment_1_short: "FCM-2C bis"
-FRA_super_heavy_tank_aa_equipment_1: "FCM-F1 bis"
-FRA_super_heavy_tank_aa_equipment_1_short: "FCM-F1 bis"
-
-FRA_modern_tank_equipment_1: "SOMUA 50t"
-FRA_modern_tank_equipment_1_short: "SOMUA 50t"
-FRA_modern_tank_destroyer_equipment_1: "AMX Chasseur de Char"
-FRA_modern_tank_destroyer_equipment_1_short: "AMX CDC"
-FRA_modern_tank_artillery_equipment_1: "Lorraine 155"
-FRA_modern_tank_artillery_equipment_1_short: "Lorraine 155"
-FRA_modern_tank_aa_equipment_1: "AMX 50 DCA Canon de 40"
-FRA_modern_tank_aa_equipment_1_short: "AMX 50 DCA 40"
-
-FRA_amphibious_tank_equipment_1: "Batignolles-Châtillon DP 2"
-FRA_amphibious_tank_equipment_1_short: "DP 2"
-FRA_amphibious_tank_equipment_2: "Batignolles-Châtillon DP 3"
-FRA_amphibious_tank_equipment_2_short: "DP 3"
-
 ###
 ### Puppet France ###
 ###
@@ -5127,68 +4534,6 @@ FRP_anti_air_equipment_1: "Brandt 25mm"
 FRP_anti_air_equipment_1_short: "Brandt 25 mm"
 FRP_anti_air_equipment_2: "Schneider 37 mm"
 FRP_anti_air_equipment_3: "Canon de 75 CA modèle 1940"
-
-#Tanks
-
-FRP_gw_tank_equipment: "Renault FT"
-FRP_gw_tank_equipment_short: "FT"
-FRP_light_tank_equipment_1: "Brandt H35"
-FRP_light_tank_equipment_1_short: "H35"
-FRP_light_tank_equipment_2: "FCM 36"
-FRP_light_tank_equipment_2_short: "FCM 36"
-FRP_light_tank_equipment_3: "SOMUA 12t"
-FRP_light_tank_equipment_3_short: "SOMUA 12t"
-FRP_light_tank_destroyer_equipment_3: "Chasseur de Chars Lorraine"
-FRP_light_tank_destroyer_equipment_3_short: "CDC Lorraine"
-FRP_light_tank_artillery_equipment_3: "Canon de 155 mm Mle F3 Automoteur"
-FRP_light_tank_artillery_equipment_3_short: "F3 155 mm"
-FRP_light_tank_aa_equipment_3: "AMX DCA Canon de 40mm"
-FRP_light_tank_aa_equipment_3_short: "AMX DCA 40"
-
-FRP_medium_tank_equipment_1: "Lorraine AMC 35"
-FRP_medium_tank_equipment_1_short: "AMC 35"
-FRP_medium_tank_artillery_equipment_1: "Lorraine V39"
-FRP_medium_tank_artillery_equipment_1_short: "Lorraine V39"
-FRP_medium_tank_equipment_2: "SOMUA S35"
-FRP_medium_tank_equipment_2_short: "S35"
-FRP_medium_tank_artillery_equipment_2: "AMX 13 105 AM"
-FRP_medium_tank_artillery_equipment_2_short: "105 AM"
-FRP_medium_tank_equipment_3: "Lorraine 42"
-FRP_medium_tank_equipment_3_short: "Lorraine 42"
-FRP_medium_tank_destroyer_equipment_3: "Canon D’Assaut Lorraine de 100mm"
-FRP_medium_tank_destroyer_equipment_3_short: "CA Lorraine 100"
-
-FRP_heavy_tank_equipment_1: "Lorraine B1"
-FRP_heavy_tank_equipment_1_short: "B1"
-FRP_heavy_tank_artillery_equipment_1: "Canon de 194 mle GPF"
-FRP_heavy_tank_artillery_equipment_1_short: "Canon de 194"
-FRP_heavy_tank_equipment_2: "ARL-44"
-FRP_heavy_tank_equipment_2_short: "ARL-44"
-FRP_heavy_tank_equipment_3: "SOMUA-M4"
-FRP_heavy_tank_equipment_3_short: "SOMUA-M4"
-FRP_heavy_tank_destroyer_equipment_3: "AMX 50 Pouget"
-FRP_heavy_tank_destroyer_equipment_3_short: "Pouget"
-
-FRP_super_heavy_tank_equipment_1: "ARL tracteur C"
-FRP_super_heavy_tank_equipment_1_short: "ARL tracteur C"
-FRP_super_heavy_tank_artillery_equipment_1: "FCM-2C bis"
-FRP_super_heavy_tank_artillery_equipment_1_short: "FCM-2C bis"
-FRP_super_heavy_tank_aa_equipment_1: "FCM-F1 bis"
-FRP_super_heavy_tank_aa_equipment_1_short: "FCM-F1 bis"
-
-FRP_modern_tank_equipment_1: "SOMUA 50t"
-FRP_modern_tank_equipment_1_short: "SOMUA 50t"
-FRP_modern_tank_destroyer_equipment_1: "AMX Chasseur de Char"
-FRP_modern_tank_destroyer_equipment_1_short: "AMX CDC"
-FRP_modern_tank_artillery_equipment_1: "Lorraine 155"
-FRP_modern_tank_artillery_equipment_1_short: "Lorraine 155"
-FRP_modern_tank_aa_equipment_1: "AMX 50 DCA Canon de 40"
-FRP_modern_tank_aa_equipment_1_short: "AMX 50 DCA 40"
-
-FRP_amphibious_tank_equipment_1: "Batignolles-Châtillon DP 2"
-FRP_amphibious_tank_equipment_1_short: "DP 2"
-FRP_amphibious_tank_equipment_2: "Batignolles-Châtillon DP 3"
-FRP_amphibious_tank_equipment_2_short: "DP 3"
 
 ###
 ### Gabon ###
@@ -5749,107 +5094,6 @@ GEA_railway_gun_equipment_1: "$GER_railway_gun_equipment_1$"
 GEA_railway_gun_equipment_1_short: "$GER_railway_gun_equipment_1_short$"
 GEA_railway_gun_equipment_1_desc: "$GER_railway_gun_equipment_1_desc$"
 
-#Tanks
-GEA_gw_tank_equipment: "$GER_gw_tank_equipment$"
-GEA_gw_tank_equipment_short: "$GER_gw_tank_equipment_short$"
-GEA_light_tank_equipment_1: "$GER_light_tank_equipment_1$"
-GEA_light_tank_equipment_1_short: "$GER_light_tank_equipment_1_short$"
-GEA_light_tank_equipment_2: "$GER_light_tank_equipment_2$"
-GEA_light_tank_equipment_2_short: "$GER_light_tank_equipment_2_short$"
-GEA_light_tank_equipment_3: "$GER_light_tank_equipment_3$"
-GEA_light_tank_equipment_3_short: "$GER_light_tank_equipment_3_short$"
-GEA_light_tank_artillery_equipment_1: "$GER_light_tank_artillery_equipment_1$"
-GEA_light_tank_artillery_equipment_1_short: "$GER_light_tank_artillery_equipment_1_short$"
-GEA_light_tank_artillery_equipment_2: "$GER_light_tank_artillery_equipment_2$"
-GEA_light_tank_artillery_equipment_2_short: "$GER_light_tank_artillery_equipment_2_short$"
-GEA_light_tank_artillery_equipment_3: "$GER_light_tank_artillery_equipment_3$"
-GEA_light_tank_artillery_equipment_3_short: "$GER_light_tank_artillery_equipment_3_short$"
-GEA_light_tank_destroyer_equipment_1: "$GER_light_tank_destroyer_equipment_1$"
-GEA_light_tank_destroyer_equipment_1_short: "$GER_light_tank_destroyer_equipment_1_short$"
-GEA_light_tank_destroyer_equipment_2: "$GER_light_tank_destroyer_equipment_2$"
-GEA_light_tank_destroyer_equipment_2_short: "$GER_light_tank_destroyer_equipment_2_short$"
-GEA_light_tank_destroyer_equipment_3: "$GER_light_tank_destroyer_equipment_3$"
-GEA_light_tank_destroyer_equipment_3_short: "$GER_light_tank_destroyer_equipment_3_short$"
-GEA_light_tank_aa_equipment_1: "$GER_light_tank_aa_equipment_1$"
-GEA_light_tank_aa_equipment_1_short: "$GER_light_tank_aa_equipment_1_short$"
-GEA_light_tank_aa_equipment_2: "$GER_light_tank_aa_equipment_2$"
-GEA_light_tank_aa_equipment_2_short: "$GER_light_tank_aa_equipment_2_short$"
-GEA_light_tank_aa_equipment_3: "$GER_light_tank_aa_equipment_3$"
-GEA_light_tank_aa_equipment_3_short: "$GER_light_tank_aa_equipment_3_short$"
-
-GEA_medium_tank_equipment_1: "$GER_medium_tank_equipment_1$"
-GEA_medium_tank_equipment_1_short: "$GER_medium_tank_equipment_1_short$"
-GEA_medium_tank_equipment_2: "$GER_medium_tank_equipment_2$"
-GEA_medium_tank_equipment_2_short: "$GER_medium_tank_equipment_2_short$"
-GEA_medium_tank_equipment_3: "$GER_medium_tank_equipment_3$"
-GEA_medium_tank_equipment_3_short: "$GER_medium_tank_equipment_3_short$"
-GEA_medium_tank_artillery_equipment_1: "$GER_medium_tank_artillery_equipment_1$"
-GEA_medium_tank_artillery_equipment_1_short: "$GER_medium_tank_artillery_equipment_1_short$"
-GEA_medium_tank_artillery_equipment_2: "$GER_medium_tank_artillery_equipment_2$"
-GEA_medium_tank_artillery_equipment_2_short: "$GER_medium_tank_artillery_equipment_2_short$"
-GEA_medium_tank_artillery_equipment_3: "$GER_medium_tank_artillery_equipment_3$"
-GEA_medium_tank_artillery_equipment_3_short: "$GER_medium_tank_artillery_equipment_3_short$"
-GEA_medium_tank_destroyer_equipment_1: "$GER_medium_tank_destroyer_equipment_1$"
-GEA_medium_tank_destroyer_equipment_1_short: "$GER_medium_tank_destroyer_equipment_1_short$"
-GEA_medium_tank_destroyer_equipment_2: "$GER_medium_tank_destroyer_equipment_2$"
-GEA_medium_tank_destroyer_equipment_2_short: "$GER_medium_tank_destroyer_equipment_2_short$"
-GEA_medium_tank_destroyer_equipment_3: "$GER_medium_tank_destroyer_equipment_3$"
-GEA_medium_tank_destroyer_equipment_3_short: "$GER_medium_tank_destroyer_equipment_3_short$"
-GEA_medium_tank_aa_equipment_1: "$GER_medium_tank_aa_equipment_1$"
-GEA_medium_tank_aa_equipment_1_short: "$GER_medium_tank_aa_equipment_1_short$"
-GEA_medium_tank_aa_equipment_2: "$GER_medium_tank_aa_equipment_2$"
-GEA_medium_tank_aa_equipment_2_short: "$GER_medium_tank_aa_equipment_2_short$"
-GEA_medium_tank_aa_equipment_3: "$GER_medium_tank_aa_equipment_3$"
-GEA_medium_tank_aa_equipment_3_short: "$GER_medium_tank_aa_equipment_3_short$"
-
-GEA_heavy_tank_equipment_1: "$GER_heavy_tank_equipment_1$"
-GEA_heavy_tank_equipment_1_short: "$GER_heavy_tank_equipment_1_short$"
-GEA_heavy_tank_equipment_2: "$GER_heavy_tank_equipment_2$"
-GEA_heavy_tank_equipment_2_short: "$GER_heavy_tank_equipment_2_short$"
-GEA_heavy_tank_equipment_3: "$GER_heavy_tank_equipment_3$"
-GEA_heavy_tank_equipment_3_short: "$GER_heavy_tank_equipment_3_short$"
-GEA_heavy_tank_artillery_equipment_1: "$GER_heavy_tank_artillery_equipment_1$"
-GEA_heavy_tank_artillery_equipment_1_short: "$GER_heavy_tank_artillery_equipment_1_short$"
-GEA_heavy_tank_artillery_equipment_2: "$GER_heavy_tank_artillery_equipment_2$"
-GEA_heavy_tank_artillery_equipment_2_short: "$GER_heavy_tank_artillery_equipment_2_short$"
-GEA_heavy_tank_artillery_equipment_3: "$GER_heavy_tank_artillery_equipment_3$"
-GEA_heavy_tank_artillery_equipment_3_short: "$GER_heavy_tank_artillery_equipment_3_short$"
-GEA_heavy_tank_destroyer_equipment_1: "$GER_heavy_tank_destroyer_equipment_1$"
-GEA_heavy_tank_destroyer_equipment_1_short: "$GER_heavy_tank_destroyer_equipment_1_short$"
-GEA_heavy_tank_destroyer_equipment_2: "$GER_heavy_tank_destroyer_equipment_2$"
-GEA_heavy_tank_destroyer_equipment_2_short: "$GER_heavy_tank_destroyer_equipment_2_short$"
-GEA_heavy_tank_destroyer_equipment_3: "$GER_heavy_tank_destroyer_equipment_3$"
-GEA_heavy_tank_destroyer_equipment_3_short: "$GER_heavy_tank_destroyer_equipment_3_short$"
-GEA_heavy_tank_aa_equipment_1: "$GER_heavy_tank_aa_equipment_1$"
-GEA_heavy_tank_aa_equipment_1_short: "$GER_heavy_tank_aa_equipment_1_short$"
-GEA_heavy_tank_aa_equipment_2: "$GER_heavy_tank_aa_equipment_2$"
-GEA_heavy_tank_aa_equipment_2_short: "$GER_heavy_tank_aa_equipment_2_short$"
-GEA_heavy_tank_aa_equipment_3: "$GER_heavy_tank_aa_equipment_3$"
-GEA_heavy_tank_aa_equipment_3_short: "$GER_heavy_tank_aa_equipment_3_short$"
-
-GEA_super_heavy_tank_equipment_1: "$GER_super_heavy_tank_equipment_1$"
-GEA_super_heavy_tank_equipment_1_short: "$GER_super_heavy_tank_equipment_1_short$"
-GEA_super_heavy_tank_artillery_equipment_1: "$GER_super_heavy_tank_artillery_equipment_1$"
-GEA_super_heavy_tank_artillery_equipment_1_short: "$GER_super_heavy_tank_artillery_equipment_1_short$"
-GEA_super_heavy_tank_destroyer_equipment_1: "$GER_super_heavy_tank_destroyer_equipment_1$"
-GEA_super_heavy_tank_destroyer_equipment_1_short: "$GER_super_heavy_tank_destroyer_equipment_1_short$"
-GEA_super_heavy_tank_aa_equipment_1: "$GER_super_heavy_tank_aa_equipment_1$"
-GEA_super_heavy_tank_aa_equipment_1_short: "$GER_super_heavy_tank_aa_equipment_1_short$"
-
-GEA_modern_tank_equipment_1: "$GER_modern_tank_equipment_1$"
-GEA_modern_tank_equipment_1_short: "$GER_modern_tank_equipment_1_short$"
-GEA_modern_tank_artillery_equipment_1: "$GER_modern_tank_artillery_equipment_1$"
-GEA_modern_tank_artillery_equipment_1_short: "$GER_modern_tank_artillery_equipment_1_short$"
-GEA_modern_tank_destroyer_equipment_1: "$GER_modern_tank_destroyer_equipment_1$"
-GEA_modern_tank_destroyer_equipment_1_short: "$GER_modern_tank_destroyer_equipment_1_short$"
-GEA_modern_tank_aa_equipment_1: "$GER_modern_tank_aa_equipment_1$"
-GEA_modern_tank_aa_equipment_1_short: "$GER_modern_tank_aa_equipment_1_short$"
-
-GEA_amphibious_tank_equipment_1: "$GER_amphibious_tank_equipment_1$"
-GEA_amphibious_tank_equipment_1_short: "$GER_amphibious_tank_equipment_1_short$"
-GEA_amphibious_tank_equipment_2: "$GER_amphibious_tank_equipment_2$"
-GEA_amphibious_tank_equipment_2_short: "$GER_amphibious_tank_equipment_2_short$"
-
 ###
 ### Georgia ###
 ###
@@ -5916,33 +5160,6 @@ GEO_anti_air_equipment_2: "3,7 cm Sazenito Iaraghi modeli 1937"
 GEO_anti_air_equipment_2_short: "3,7 cm Iaraghi 37"
 GEO_anti_air_equipment_3: "8.8 cm Sazenito Iaraghi modeli 1941"
 GEO_anti_air_equipment_3_short: "8.8cm Iaraghi 41"
-
-#Tanks
-GEO_gw_tank_equipment: "Javshansatanko Sabrdzolo Mankana modeli 1919"
-GEO_gw_tank_equipment_short: "JSM 19"
-GEO_light_tank_equipment_1: "Sheteviti Javshanmankana modeli 1932"
-GEO_light_tank_equipment_1_short: "ShJ 32"
-GEO_light_tank_equipment_2: "Sheteviti Javshanmankana modeli 1936"
-GEO_light_tank_equipment_2_short: "ShJ 36"
-GEO_light_tank_equipment_3: "Sheteviti Javshanmankana modeli 1941"
-GEO_light_tank_equipment_3_short: "ShJ 41"
-
-GEO_medium_tank_equipment_1: "Sashualo Javshanmankana modeli 1936"
-GEO_medium_tank_equipment_1_short: "SJ 36"
-GEO_medium_tank_equipment_2: "Sashualo Javshanmankana modeli 1939"
-GEO_medium_tank_equipment_2_short: "SJ 39"
-GEO_medium_tank_equipment_3: "Sashualo Javshanmankana modeli 1942"
-GEO_medium_tank_equipment_3_short: "SJ 42"
-
-GEO_heavy_tank_equipment_1: "Mdzime Javshanmankana modeli 1935"
-GEO_heavy_tank_equipment_1_short: "MJ 35"
-GEO_heavy_tank_equipment_2: "Mdzime Javshanmankana modeli 1941"
-GEO_heavy_tank_equipment_2_short: "MJ 41"
-GEO_heavy_tank_equipment_3: "Mdzime Javshanmankana modeli 1943"
-GEO_heavy_tank_equipment_3_short: "MJ 43"
-
-GEO_modern_tank_equipment_1: "Standartuli Avzi modeli 1945"
-GEO_modern_tank_equipment_1_short: "SA 45"
 
 ###
 ### German Empire ###
@@ -6127,154 +5344,6 @@ GER_rocket_artillery_equipment_2: "21-cm Raketenwerfer Modell 42"
 GER_rocket_artillery_equipment_2_short: "R.W. 42"
 GER_rocket_artillery_equipment_2_desc: "Der 21-cm-Raketenwerfer 42 ist ein fünfschüssiger Mehrfachraketenwerfer, der auf einer gezogenen Lafette montiert ist, die von der des 3,7-cm-Panzerabwehrgeschützes Pa.K. 36 abgeleitet ist. Die Raketenwerfer sind in Sechser-Batterien mit drei Batterien pro Bataillon organisiert. Die R.W. 42 sind für die Feuerunterstützung und die Nebelabwehr vorgesehen und werden hauptsächlich als Raketenartillerie eingesetzt und nehmen fast nicht an der chemischen Kriegsführung teil."
 
-#Tanks
-#Oberschlesien:
-GER_gw_tank_equipment: "Sturmpanzerwagen II"
-GER_gw_tank_equipment_short: "St.Pzw. II"
-#Pz 1:
-GER_light_tank_equipment_1: "Spähpanzer I"
-GER_light_tank_equipment_1_short: "Sp.Pz. I"
-#Pz II:
-GER_light_tank_equipment_2: "Spähpanzer II"
-GER_light_tank_equipment_2_short: "Sp.Pz. II"
-#Pz II M / Vk 16 Leopard:
-GER_light_tank_equipment_3: "Spähpanzer III"
-GER_light_tank_equipment_3_short: "Sp.Pz. III"
-#Sturmpanzer I Bison:
-GER_light_tank_artillery_equipment_1: "Geschützwagen I"
-GER_light_tank_artillery_equipment_1_short: "G.W. I"
-#Wespe:
-GER_light_tank_artillery_equipment_2: "Geschützwagen II"
-GER_light_tank_artillery_equipment_2_short: "G.W. II"
-#Sturmpanzer II Bison:
-GER_light_tank_artillery_equipment_3: "Geschützwagen III"
-GER_light_tank_artillery_equipment_3_short: "G.W. III"
-#PzJg 1:
-GER_light_tank_destroyer_equipment_1: "Jagdpanzer I"
-GER_light_tank_destroyer_equipment_1_short: "Jg.Pz. I"
-#Marder 2 75mm:
-GER_light_tank_destroyer_equipment_2: "Jagdpanzer II"
-GER_light_tank_destroyer_equipment_2_short: "Jg.Pz. II"
-#Stug Leopard:
-GER_light_tank_destroyer_equipment_3: "Sturmgeschütz III"
-GER_light_tank_destroyer_equipment_3_short: "Stu.G. III"
-#Flakpanzer 1:
-GER_light_tank_aa_equipment_1: "Fla.K. auf Sp.Pz. I"
-GER_light_tank_aa_equipment_1_short: "Fla.K.Pz. I"
-#37mm FlaK 43 Sfi. auf Pz.Kpfw. II Ausf. L 'Luchs':
-GER_light_tank_aa_equipment_2: "Fla.K. auf Sp.Pz. II Ausführung"
-GER_light_tank_aa_equipment_2_short: "Fla.K.Pz. II"
-#fake:
-GER_light_tank_aa_equipment_3: "Fla.K. auf Sp.Pz. III Ausführung"
-GER_light_tank_aa_equipment_3_short: "Fla.K.Pz. III"
-
-#PZ 3:
-GER_medium_tank_equipment_1: "Sturmpanzerkampfwagen III"
-GER_medium_tank_equipment_1_short: "St.Pz.Kpfw. III"
-#PZ 4:
-GER_medium_tank_equipment_2: "Sturmpanzerkampfwagen IV"
-GER_medium_tank_equipment_2_short: "St.Pz.Kpfw. IV"
-#Panther:
-GER_medium_tank_equipment_3: "Sturmpanzerkampfwagen VI"
-GER_medium_tank_equipment_3_short: "St.Pz.Kpfw. VI"
-#Heuschrecke:
-GER_medium_tank_artillery_equipment_1: "Waffenträger IV"
-GER_medium_tank_artillery_equipment_1_short: "W.T. IV"
-#Hummel:
-GER_medium_tank_artillery_equipment_2: "Waffenträger III"
-GER_medium_tank_artillery_equipment_2_short: "W.T. III"
-#WT Panther:
-GER_medium_tank_artillery_equipment_3: "Waffenträger VI"
-GER_medium_tank_artillery_equipment_3_short: "W.T. VI"
-#Stug4:
-GER_medium_tank_destroyer_equipment_1: "Sturmgeschütz IV"
-GER_medium_tank_destroyer_equipment_1_short: "Stu.G. IV"
-#JgPz4:
-GER_medium_tank_destroyer_equipment_2: "Jagdpanzer IV"
-GER_medium_tank_destroyer_equipment_2_short: "Jg.Pz. IV"
-#Jagdpanther:
-GER_medium_tank_destroyer_equipment_3: "Jagdpanzer VI"
-GER_medium_tank_destroyer_equipment_3_short: "Jg.Pz. VI"
-#Ostwind:
-GER_medium_tank_aa_equipment_1: "Fla.K. auf Stu.Pz.Kpfw. III Ausführung"
-GER_medium_tank_aa_equipment_1_short: "Fla.K.Pz. III"
-#Kugelblitz:
-GER_medium_tank_aa_equipment_2: "Fla.K. auf Stu.Pz.Kpfw. IV Ausführung"
-GER_medium_tank_aa_equipment_2_short: "Fla.K.Pz. IV"
-#Coelian:
-GER_medium_tank_aa_equipment_3: "Fla.K. auf Stu.Pz.Kpfw. VI Ausführung"
-GER_medium_tank_aa_equipment_3_short: "Fla.K.Pz. VI"
-
-#VK 30.01 H:
-GER_heavy_tank_equipment_1: "Heerpanzerwagen III"
-GER_heavy_tank_equipment_1_short: "H.Pz.Kpfw. III"
-#Tiger:
-GER_heavy_tank_equipment_2: "Sturmpanzerkampfwagen V"
-GER_heavy_tank_equipment_2_short: "Stu.Pz.Kpfw. V"
-#Tiger:
-GER_heavy_tank_equipment_3: "Sturmpanzerkampfwagen VII"
-GER_heavy_tank_equipment_3_short: "Stu.Pz.Kpfw. VII"
-#fake:
-GER_heavy_tank_artillery_equipment_1: "Geschützwagen III"
-GER_heavy_tank_artillery_equipment_1_short: "G.W. III"
-#GW Tiger mit 17cm:
-GER_heavy_tank_artillery_equipment_2: "Geschützwagen V"
-GER_heavy_tank_artillery_equipment_2_short: "G.W. V"
-#GW Tiger mit 21cm:
-GER_heavy_tank_artillery_equipment_3: "Geschützwagen VII"
-GER_heavy_tank_artillery_equipment_3_short: "G.W. VII"
-#St. Emil with dicker max:
-GER_heavy_tank_destroyer_equipment_1: "Jagdpanzer III"
-GER_heavy_tank_destroyer_equipment_1_short: "Jg.Pz. III"
-#Ferdinand/tiger Hybrid with dicker max:
-GER_heavy_tank_destroyer_equipment_2: "Sturmgeschütz V"
-GER_heavy_tank_destroyer_equipment_2_short: "Stu.G. V"
-#Jagdtiger:
-GER_heavy_tank_destroyer_equipment_3: "Sturmgeschütz VII"
-GER_heavy_tank_destroyer_equipment_3_short: "Stu.G. VII"
-#fake, icon reference from Pz.Sfl. IVc:
-GER_heavy_tank_aa_equipment_1: "Fla.K. auf Stu.Pz.Kpfw. III Ausführung"
-GER_heavy_tank_aa_equipment_1_short: "Fla.K.Pz. III"
-#fake, icon reference from Pz.Sfl. IVc:
-GER_heavy_tank_aa_equipment_2: "Fla.K. auf Stu.Pz.Kpfw. V Ausführung"
-GER_heavy_tank_aa_equipment_2_short: "Fla.K.Pz. V"
-#fake:
-GER_heavy_tank_aa_equipment_3: "Fla.K. auf Stu.Pz.Kpfw. VII Ausführung"
-GER_heavy_tank_aa_equipment_3_short: "Fla.K.Pz. VII"
-
-#E100:
-GER_super_heavy_tank_equipment_1: "Grosspanzerkampfwagen VIII"
-GER_super_heavy_tank_equipment_1_short: "G.Pz.Kpfw. VIII"
-#GWE 100:
-GER_super_heavy_tank_artillery_equipment_1: "Grossgeschützwagen VIII"
-GER_super_heavy_tank_artillery_equipment_1_short: "G.G.W. VII"
-#JGPZ 100:
-GER_super_heavy_tank_destroyer_equipment_1: "Grosssturmgeschütz VIII"
-GER_super_heavy_tank_destroyer_equipment_1_short: "G.Stu.G. VIII"
-#fake:
-GER_super_heavy_tank_aa_equipment_1: "Fla.K. auf G.Pz.Kpfw. VIII Ausführung"
-GER_super_heavy_tank_aa_equipment_1_short: "G.Fla.K.Pz. VIII"
-
-#E50:
-GER_modern_tank_equipment_1: "Kampfpanzer 1"
-GER_modern_tank_equipment_1_short: "KPz-1"
-#fake:
-GER_modern_tank_artillery_equipment_1: "Panzerhaubitze 1"
-GER_modern_tank_artillery_equipment_1_short: "PzH-1"
-#JGpanther mit 10,5:
-GER_modern_tank_destroyer_equipment_1: "Kampfjagdpanzer 1"
-GER_modern_tank_destroyer_equipment_1_short: "KJgPz-1"
-#fake:
-GER_modern_tank_aa_equipment_1: "FlaK auf Flakpanzer 1"
-GER_modern_tank_aa_equipment_1_short: "FlaKPz-1"
-
-#Pz.2 modified, i.e. Schwimmpanzer II:
-GER_amphibious_tank_equipment_1: "Panzerfähre III"
-GER_amphibious_tank_equipment_1_short: "Pz.F. III"
-#Panzerfähre with tower:
-GER_amphibious_tank_equipment_2: "Panzerfähre V"
-GER_amphibious_tank_equipment_2_short: "Pz.F. V"
-
 ###
 ### Ghana ###
 ###
@@ -6299,9 +5368,6 @@ GHA_support_weapons2_short: "$GER_support_weapons2_short$"
 GNA_infantry_equipment_0: "Fusil Lebel Modèle 1886 M93"
 GNA_infantry_equipment_0_short: "Lebel Mle M93"
 GNA_support_weapons: "Darne M1919 & Stokes mortar"
-
-GNA_gw_tank_equipment: "Renault FT"
-GNA_gw_tank_equipment_short: "FT"
 
 ###
 ### Greece ###
@@ -6422,9 +5488,9 @@ GRE_rocket_artillery_equipment_2_short: "RNII 302chil."
 
 #Tanks
 
-#FT-17
-GRE_gw_tank_equipment: "Elafrý Arma Máchis, FT, 1917"
-GRE_gw_tank_equipment_short: "FT-17"
+#FT-17 variant
+GRE_gw_tank_equipment: "Elafrý Arma Máchis, NC, 1927"
+GRE_gw_tank_equipment_short: "NC-27"
 
 #British Mk E (CAN Light tank 1)
 GRE_light_tank_equipment_1: "Elafrý Arma Máchis, A4, 1928"
@@ -6437,14 +5503,14 @@ GRE_light_tank_equipment_3: "Elafrý Arma Máchis, BT-10, 1939"
 GRE_light_tank_equipment_3_short: "BT-20"
 
 #Russian Medium Tank 1 Need to replace later
-GRE_medium_tank_equipment_1: "Méso Arma Máchis, T-28, 1933"
-GRE_medium_tank_equipment_1_short: "T-28"
+GRE_medium_tank_equipment_1: "Méso Arma Máchis, T-32, 1933"
+GRE_medium_tank_equipment_1_short: "T-32"
 #Russian Medium Tank 2 Need to replace later
 GRE_medium_tank_equipment_2: "Méso Arma Máchis, T-43, 1942"
 GRE_medium_tank_equipment_2_short: "T-43"
 #Russian Medium Tank 3
-GRE_medium_tank_equipment_3: "Méso Arma Máchis, T-43-2, 1943"
-GRE_medium_tank_equipment_3_short: "T-43-2"
+GRE_medium_tank_equipment_3: "Méso Arma Máchis, T-44, 1943"
+GRE_medium_tank_equipment_3_short: "T-44"
 
 #Skoda S-III
 GRE_heavy_tank_equipment_1: "Varý Arma Máchis, R-3, 1936"
@@ -7046,19 +6112,6 @@ HAW_anti_air_equipment_1: "37 mm Gun M1"
 HAW_anti_air_equipment_1_short: "37 mm Gun M1"
 HAW_anti_air_equipment_2: "40 mm M1"
 
-#Tanks
-HAW_gw_tank_equipment: "Ford M1921"
-HAW_gw_tank_equipment_short: "M1921"
-HAW_gw_tank_equipment_desc: "Da die Vereinigten Staaten zum Zeitpunkt der Kapitulation Frankreichs im Weltkrieg über keine Panzer verfügten, bemühten sie sich angesichts der sich rasch verändernden internationalen Ordnung um die Entwicklung eines Behelfsfahrzeugs. Letztendlich wurde eine von Ford entworfene, nahezu identische Kopie des französischen FT-Panzers mit der Bezeichnung Modell von 1921 verwendet."
-
-HAW_light_tank_equipment_1: "M2"
-HAW_light_tank_equipment_1_short: "M2"
-HAW_light_tank_equipment_1_desc: "Beunruhigt durch die rasante Entwicklung von Panzern während des Weltkriegs, entwickelten die Vereinigten Staaten während und unmittelbar nach dem Krieg mehrere experimentelle leichte Panzer. Auch wenn diese Entwürfe letztlich ins Leere liefen, bildeten die daraus gezogenen Lehren die Grundlage für die Entwicklung des M2. Der M2 verfügt über viele Merkmale, die direkt von kanadischen Panzern übernommen wurden, und ist mit einer einzigen 37-mm-Hochgeschwindigkeitskanone bewaffnet."
-
-#delete eventually when we get a new icon:
-HAW_heavy_tank_equipment_1: "M1"
-HAW_heavy_tank_equipment_1_short: "M1"
-
 ###
 ### Hunan Clique ###
 ###
@@ -7167,65 +6220,6 @@ HOL_train_equipment_3_desc: "$GER_train_equipment_3_desc$"
 HOL_railway_gun_equipment_1: "$GER_railway_gun_equipment_1$"
 HOL_railway_gun_equipment_1_short: "$GER_railway_gun_equipment_1_short$"
 HOL_railway_gun_equipment_1_desc: "$GER_railway_gun_equipment_1_desc$"
-
-#Tanks
-HOL_gw_tank_equipment: "Carden Loyd Mk VI"
-HOL_gw_tank_equipment_short: "V-CL Mk VI"
-HOL_gw_tank_equipment_desc: "Die Königliche Niederländische Armee verfügte nur über eine Handvoll entweder veralteter oder abgenutzter Panzerwagen, zwölf ausgezeichnete DAF M39 Sechsrad-Panzerwagen und fünf Carden Loyd Mark VI Panzerwagen mit den Namen Lynx, Poema, Jaguar, Panter und Luipaard."
-HOL_light_tank_equipment_1: "DAF M39 Pantserwagen"
-HOL_light_tank_equipment_1_short: "DAF M39"
-HOL_light_tank_equipment_1_desc: "Für seine Zeit war der DAF M39 ein modernes Design mit einer komplett geschweißten Monocoque-Konstruktion der Wanne und einer umfangreichen Verwendung von Schrägpanzerung. Der Turm, der mit einer relativ starken 37-mm-Kanone ausgestattet war, wurde in Schweden von Landsverk hergestellt. Der Typ war leicht gepanzert und relativ schnell, mit einer guten Geländegängigkeit."
-HOL_light_tank_aa_equipment_3: "Braat AA"
-HOL_light_tank_aa_equipment_3_short: "Braat AA"
-HOL_light_tank_aa_equipment_3_desc: "Eine Luftabwehrkanone auf dem Fahrgestell eines Braat Overvalwagens."
-
-HOL_light_tank_equipment_2: "Pantservoertuig 2"
-HOL_light_tank_equipment_2_short: "PVT-2"
-HOL_light_tank_equipment_3: "Pantservoertuig 5"
-HOL_light_tank_equipment_3_short: "PVT-5"
-HOL_medium_tank_equipment_1: "Gevechtstank 3"
-HOL_medium_tank_equipment_1_short: "GVT-3"
-HOL_medium_tank_equipment_2: "Gevechtstank 4"
-HOL_medium_tank_equipment_2_short: "GVT-4"
-HOL_medium_tank_equipment_3: "Gevechtstank 6"
-HOL_medium_tank_equipment_3_short: "GVT-6"
-HOL_heavy_tank_equipment_1: "Zware Tank I"
-HOL_heavy_tank_equipment_1_short: "ZT-I"
-HOL_heavy_tank_equipment_2: "Zware Tank II"
-HOL_heavy_tank_equipment_2_short: "ZT-II"
-HOL_heavy_tank_equipment_3: "Zware Tank III"
-HOL_heavy_tank_equipment_3_short: "ZT-III"
-HOL_modern_tank_equipment_1: "Gevechtstank 8"
-HOL_modern_tank_equipment_1_short: "GVT-8"
-HOL_light_tank_destroyer_equipment_1: "Tankjager 1"
-HOL_light_tank_destroyer_equipment_1_short: "TJ-1"
-HOL_light_tank_destroyer_equipment_2: "Tankjager 2"
-HOL_light_tank_destroyer_equipment_2_short: "TJ-2"
-HOL_light_tank_destroyer_equipment_3: "Tankjager 5"
-HOL_light_tank_destroyer_equipment_3_short: "TJ-5"
-HOL_medium_tank_destroyer_equipment_1: "Tankjager 3"
-HOL_medium_tank_destroyer_equipment_1_short: "TJ-3"
-HOL_medium_tank_destroyer_equipment_2: "Tankjager 4"
-HOL_medium_tank_destroyer_equipment_2_short: "TJ-4"
-HOL_medium_tank_destroyer_equipment_3: "Tankjager 6"
-HOL_medium_tank_destroyer_equipment_3_short: "TJ-6"
-HOL_light_tank_artillery_equipment_1: "Pantsergeschut 1"
-HOL_light_tank_artillery_equipment_1_short: "PTG-1"
-HOL_light_tank_artillery_equipment_2: "Pantsergeschut 2"
-HOL_light_tank_artillery_equipment_2_short: "PTG-2"
-HOL_light_tank_artillery_equipment_3: "Pantsergeschut 5"
-HOL_light_tank_artillery_equipment_3_short: "PTG-5"
-HOL_medium_tank_artillery_equipment_1: "Pantserhouwitser 3"
-HOL_medium_tank_artillery_equipment_1_short: "PTH-3"
-HOL_medium_tank_artillery_equipment_2: "Pantserhouwitser 4"
-HOL_medium_tank_artillery_equipment_2_short: "PTH-4"
-HOL_medium_tank_artillery_equipment_3: "Pantserhouwitser 5"
-HOL_medium_tank_artillery_equipment_3_short: "PTH-6"
-
-HOL_amphibious_mechanized_equipment_1: "DAF MC-139 Amfibie"
-HOL_amphibious_mechanized_equipment_1_short: "DAF MC-139"
-HOL_amphibious_mechanized_equipment_2: "DAF MC-143 Amfibie"
-HOL_amphibious_mechanized_equipment_2_short: "DAF MC-143"
 
 ###
 ### Honduras ###
@@ -7559,42 +6553,6 @@ INC_anti_air_equipment_1_short: "Hotchkiss 25 mm"
 INC_anti_air_equipment_2: "Schneider 37 mm"
 INC_anti_air_equipment_3: "Canon de 75 CA modèle 1940"
 
-#Tanks
-
-INC_gw_tank_equipment: "Renault FT"
-INC_gw_tank_equipment_short: "FT"
-INC_light_tank_equipment_1: "Hotchkiss H35"
-INC_light_tank_equipment_1_short: "H35"
-INC_light_tank_equipment_2: "FCM 36"
-INC_light_tank_equipment_2_short: "FCM 36"
-INC_light_tank_equipment_3: "AMX 12t"
-INC_light_tank_equipment_3_short: "AMX 12t"
-INC_light_tank_artillery_equipment_3: "Canon de 155 mm Mle F3 Automoteur"
-INC_light_tank_artillery_equipment_3_short: "F3 155 mm"
-
-INC_medium_tank_equipment_1: "Renault AMC 35"
-INC_medium_tank_equipment_1_short: "AMC 35"
-INC_medium_tank_artillery_equipment_1: "ARL V39"
-INC_medium_tank_artillery_equipment_1_short: "ARL V39"
-INC_medium_tank_equipment_2: "SOMUA S35"
-INC_medium_tank_equipment_2_short: "S35"
-INC_medium_tank_equipment_3: "SARL 42"
-INC_medium_tank_equipment_3_short: "SARL 42"
-
-INC_heavy_tank_equipment_1: "Renault B1"
-INC_heavy_tank_equipment_1_short: "B1"
-INC_heavy_tank_artillery_equipment_1: "Canon de 194 mle GPF"
-INC_heavy_tank_artillery_equipment_1_short: "Canon de 194"
-INC_heavy_tank_equipment_2: "ARL 44"
-INC_heavy_tank_equipment_2_short: "ARL 44"
-INC_heavy_tank_equipment_3: "AMX-M4"
-INC_heavy_tank_equipment_3_short: "AMX-M4"
-
-INC_super_heavy_tank_equipment_1: "FCM-F1"
-INC_super_heavy_tank_equipment_1_short: "FCM-F1"
-INC_modern_tank_equipment_1: "AMX 50t"
-INC_modern_tank_equipment_1_short: "AMX 50t"
-
 ###
 ### Insulindia ###
 ###
@@ -7698,21 +6656,6 @@ IRE_gw_armored_car_equipment_short: "L180"
 
 IRE_artillery_equipment_1: "QF 18-pounder"
 IRE_artillery_equipment_1_short: "QF 18-pounder"
-
-#Motorised
-
-#Tanks
-
-IRE_gw_tank_equipment: "$GER_gw_tank_equipment$"
-IRE_gw_tank_equipment_short: "$GER_gw_tank_equipment_short$"
-
-IRE_light_tank_equipment_1: "Škoda vz. 35"
-IRE_light_tank_equipment_1_short: "vz. 35"
-IRE_light_tank_equipment_2: "Stridsvagn m/38"
-IRE_light_tank_equipment_2_short: "Strv m/38"
-IRE_light_tank_equipment_3: "M.A.N. 'Leopard'"
-IRE_light_tank_equipment_3_short: "Leopard"
-IRE_light_tank_equipment_3_desc: "Der Leopard war ein vorwärtsgerichteter Aufklärungswagen, der mit einer einzigartigen 50-mm-Hochgeschwindigkeitskanone bewaffnet war. Im Gegensatz zu älteren deutschen Konstruktionen verfügte er über eine schräge Frontpanzerung und besonders breite, geländegängige Ketten. Der Leopard erfüllt heute eine einzigartige Kampffunktion, sowohl als Unterstützungs- als auch als Aufklärungsfahrzeug."
 
 ###
 ### Goyaz ###
@@ -7856,63 +6799,28 @@ ITA_gw_armored_car_equipment_short: "Škoda PA-II"
 ITA_artillery_equipment_1: "Cannone da 75/27 modello 06"
 ITA_artillery_equipment_1_short: "Cannone da 75/27"
 ITA_artillery_equipment_2: "Cannone da 149/40 modello 35"
-ITA_artillery_equipment_2_short: "Cannone da 149/40 m/35"
+ITA_artillery_equipment_2_short: "Cannone da 149/40"
 ITA_artillery_equipment_3: "Obice da 210/22 modello 35"
+ITA_artillery_equipment_3_short: "Obice da 210/22"
 
 ITA_anti_tank_equipment_1: "Cannone da 47/32"
 ITA_anti_tank_equipment_1_short: "Cannone da 47/32"
 ITA_anti_tank_equipment_2: "Cannone da 75/46"
+ITA_anti_tank_equipment_2_short: "Cannone da 75/46"
+ITA_anti_tank_equipment_3: "Cannone da 90/65"
+ITA_anti_tank_equipment_3_short: "Cannone da 90/65"
 
 ITA_anti_air_equipment_1: "Breda Modello 35"
 ITA_anti_air_equipment_1_short: "Breda Modello 35"
 ITA_anti_air_equipment_2: "Cannone-Mitragliera da 37/54"
+ITA_anti_air_equipment_2_short: "Cannone da 37/54"
 ITA_anti_air_equipment_3: "Cannone da 90/53"
+ITA_anti_air_equipment_3_short: "Cannone da 90/53"
 
-#Tanks
-
-ITA_gw_tank_equipment: "Fiat 3000"
-ITA_gw_tank_equipment_short: "Fiat 3000"
-ITA_light_tank_equipment_1: "L3"
-ITA_light_tank_equipment_1_short: "L3"
-ITA_light_tank_equipment_2: "L6"
-ITA_light_tank_equipment_2_short: "L6"
-ITA_light_tank_equipment_3: "L8"
-ITA_light_tank_equipment_3_short: "L8"
-ITA_light_tank_destroyer_equipment_1: "L3 controcarro"
-ITA_light_tank_destroyer_equipment_1_short: "L3 cc"
-ITA_light_tank_destroyer_equipment_2: "Semovente 47/32"
-ITA_light_tank_destroyer_equipment_2_short: "Semovente 47/32"
-
-ITA_medium_tank_equipment_1: "Fiat M11/39"
-ITA_medium_tank_equipment_1_short: "M11/39"
-ITA_medium_tank_equipment_2: "M16 Sahariano"
-ITA_medium_tank_equipment_2_short: "M16"
-ITA_medium_tank_equipment_3: "M20/43"
-ITA_medium_tank_equipment_3_short: "M20/43"
-ITA_medium_tank_artillery_equipment_2: "Semovente M41 75/18"
-ITA_medium_tank_artillery_equipment_2_short: "Semovente M 41 75/18"
-ITA_medium_tank_artillery_equipment_3: "Semovente M42L 105/25"
-ITA_medium_tank_artillery_equipment_3_short: "Semovente M42L 105/25"
-ITA_medium_tank_destroyer_equipment_2: "Semovente 75/34"
-ITA_medium_tank_destroyer_equipment_2_short: "Semovente 75/34"
-ITA_medium_tank_destroyer_equipment_3: "Semovente M41M 90/53"
-ITA_medium_tank_destroyer_equipment_3_short: "Semovente M41M 90/53"
-ITA_medium_tank_aa_equipment_3: "Semovente M15/42 contraereo"
-ITA_medium_tank_aa_equipment_3_short: "Semovente M15/42"
-
-ITA_heavy_tank_equipment_1: "P75"
-ITA_heavy_tank_equipment_1_short: "P75"
-ITA_heavy_tank_equipment_2: "P26"
-ITA_heavy_tank_equipment_2_short: "P26"
-ITA_heavy_tank_equipment_3: "P43"
-ITA_heavy_tank_equipment_3_short: "P43"
-ITA_heavy_tank_artillery_equipment_2: "Semovente da 149/40"
-ITA_heavy_tank_artillery_equipment_2_short: "Semovente da 149/40"
-
-ITA_super_heavy_tank_equipment_1: "Il Duce"
-ITA_super_heavy_tank_equipment_1_short: "Il Duce"
-ITA_modern_tank_equipment_1: "M31/45"
-ITA_modern_tank_equipment_1_short: "M31/45"
+ITA_rocket_artillery_equipment_1: "Lanciarazzi da 100/16"
+ITA_rocket_artillery_equipment_1_short: "Lanciarazzi da 100/16"
+ITA_rocket_artillery_equipment_2: "Lanciarazzi da 210/16"
+ITA_rocket_artillery_equipment_2_short: "Lanciarazzi da 210/16"
 
 #Railway
 ITA_train_equipment_1: "FS Gruppo 740"
@@ -8550,153 +7458,6 @@ LAT_rocket_artillery_equipment_1_short: "40. 280-mm palaidējs"
 LAT_rocket_artillery_equipment_2: "1942. g. 210-mm raķešu lielgabals"
 LAT_rocket_artillery_equipment_2_short: "42. 210-mm lielgabals"
 
-#Oberschlesien:
-LAT_gw_tank_equipment: "1919. g. modeļa armijas bruņumašīna 'Leikhtraktor'"
-LAT_gw_tank_equipment_short: "19. Leikhtraktor"
-#Pz 1D:
-LAT_light_tank_equipment_1: "1932. g. modeļa vieglais tanks 'Kleinpanzer 1b'"
-LAT_light_tank_equipment_1_short: "32. Kleinpanzer 1b"
-#Pz II L (luchs):
-LAT_light_tank_equipment_2: "1936. g. modeļa vieglais tanks 'Kleinpanzer 2'"
-LAT_light_tank_equipment_2_short: "36. Kleinpanzer 2"
-#Pz II modified:
-LAT_light_tank_equipment_3: "1940. g. modeļa vieglais tanks 'Vairogs 2'"
-LAT_light_tank_equipment_3_short: "40. Vairogs 2"
-#Sturmpanzer I Bison:
-LAT_light_tank_artillery_equipment_1: "1932. g. modeļa 150-mm pašpiedziņas haubice"
-LAT_light_tank_artillery_equipment_1_short: "32. 150-mm haubice"
-#Sturmpanzer II Bison:
-LAT_light_tank_artillery_equipment_2: "1936. g. modeļa 105-mm pašpiedziņas haubice"
-LAT_light_tank_artillery_equipment_2_short: "36. 105-mm haubice"
-#Sturmpanzer II Bison:
-LAT_light_tank_artillery_equipment_3: "1941. g. modeļa 105-mm pašpiedziņas lielgabals"
-LAT_light_tank_artillery_equipment_3_short: "41. 105-mm lielgabals"
-#PzJg 1:
-LAT_light_tank_destroyer_equipment_1: "1932. g. modeļa 50-mm prettanku pašpiedziņas"
-LAT_light_tank_destroyer_equipment_1_short: "32. 50-mm pašpiedziņas"
-#Marder 2 75mm:
-LAT_light_tank_destroyer_equipment_2: "1936. g. modeļa 75-mm prettanku pašpiedziņas"
-LAT_light_tank_destroyer_equipment_2_short: "36. 75-mm pašpiedziņas"
-#Stug Leopard:
-LAT_light_tank_destroyer_equipment_3: "1941. g. modeļa 75-mm prettanku pašpiedziņas"
-LAT_light_tank_destroyer_equipment_3_short: "41. 75-mm pašpiedziņas"
-#Flakpanzer 1:
-LAT_light_tank_aa_equipment_1: "1932. g. modeļa 20-mm zenītartilērijas pašpiedziņas"
-LAT_light_tank_aa_equipment_1_short: "32. 20-mm zenītartilērijas"
-#37mm FlaK 43 Sfi. auf Pz.Kpfw. II Ausf. L 'Luchs':
-LAT_light_tank_aa_equipment_2: "1936. g. modeļa 37-mm zenītartilērijas pašpiedziņas"
-LAT_light_tank_aa_equipment_2_short: "36. 37-mm zenītartilērijas"
-#fake:
-LAT_light_tank_aa_equipment_3: "1941. g. modeļa 20-mm zenītartilērijas pašpiedziņas"
-LAT_light_tank_aa_equipment_3_short: "41. 20-mm zenītartilērijas"
-
-#PZ 2 with T-34 tower:
-LAT_medium_tank_equipment_1: "1936. g. modeļa armijas tanks ''Vairogs 1'"
-LAT_medium_tank_equipment_1_short: "36. 'Vairogs 1"
-#PZ 4 H/L:
-LAT_medium_tank_equipment_2: "1939. g. modeļa armijas tanks 'KW'"
-LAT_medium_tank_equipment_2_short: "39. KW"
-#Panther:
-LAT_medium_tank_equipment_3: "1942. g. modeļa armijas tanks 'VK 30'"
-LAT_medium_tank_equipment_3_short: "42. VK 30"
-#Heuschrecke:
-LAT_medium_tank_artillery_equipment_1: "1936. g. modeļa 105-mm pašpiedziņas lielgabals"
-LAT_medium_tank_artillery_equipment_1_short: "36. 105-mm lielgabals"
-#Hummel:
-LAT_medium_tank_artillery_equipment_2: "1939. g. modeļa 150-mm pašpiedziņas haubice"
-LAT_medium_tank_artillery_equipment_2_short: "39. 150-mm haubice"
-#WT Panther:
-LAT_medium_tank_artillery_equipment_3: "1942. g. modeļa 150-mm pašpiedziņas lielgabals"
-LAT_medium_tank_artillery_equipment_3_short: "42. 150-mm lielgabals"
-#Stug4:
-LAT_medium_tank_destroyer_equipment_1: "1936. g. modeļa 75-mm prettanku pašpiedziņas 'ZW'"
-LAT_medium_tank_destroyer_equipment_1_short: "36. 75-mm pašpiedziņas 'ZW'"
-#JgPz4:
-LAT_medium_tank_destroyer_equipment_2: "1939. g. modeļa 75-mm prettanku pašpiedziņas"
-LAT_medium_tank_destroyer_equipment_2_short: "39. 75-mm pašpiedziņas"
-#Jagdpanther:
-LAT_medium_tank_destroyer_equipment_3: "1942. g. modeļa 88-mm prettanku pašpiedziņas"
-LAT_medium_tank_destroyer_equipment_3_short: "42. 88-mm pašpiedziņas"
-#Ostwind:
-LAT_medium_tank_aa_equipment_1: "1936. g. modeļa 37-mm zenītartilērijas pašpiedziņas 'ZW'"
-LAT_medium_tank_aa_equipment_1_short: "36. 37-mm zenītartilērijas 'ZW'"
-#Kugelblitz:
-LAT_medium_tank_aa_equipment_2: "1939. g. modeļa 37-mm zenītartilērijas pašpiedziņas"
-LAT_medium_tank_aa_equipment_2_short: "39. 37-mm zenītartilērijas"
-#Coelian:
-LAT_medium_tank_aa_equipment_3: "1942. g. modeļa 55-mm zenītartilērijas pašpiedziņas"
-LAT_medium_tank_aa_equipment_3_short: "42. 55-mm zenītartilērijas"
-
-#VK 30.01 H:
-LAT_heavy_tank_equipment_1: "1935. g. modeļa armijas smags tanks 'DW'"
-LAT_heavy_tank_equipment_1_short: "35. DW"
-#Tiger:
-LAT_heavy_tank_equipment_2: "1941. g. modeļa armijas smags tanks 'DW 2'"
-LAT_heavy_tank_equipment_2_short: "41. DW 2"
-#Tiger:
-LAT_heavy_tank_equipment_3: "1943. g. modeļa armijas smags tanks 'VK 45'"
-LAT_heavy_tank_equipment_3_short: "43. VK 45"
-#fake:
-LAT_heavy_tank_artillery_equipment_1: "1935. g. modeļa 150-mm pašpiedziņas haubice"
-LAT_heavy_tank_artillery_equipment_1_short: "35. 150-mm haubice"
-#GW Tiger mit 17cm:
-LAT_heavy_tank_artillery_equipment_2: "1941. g. modeļa 170-mm pašpiedziņas haubice"
-LAT_heavy_tank_artillery_equipment_2_short: "41. 170-mm haubice"
-#GW Tiger mit 21cm:
-LAT_heavy_tank_artillery_equipment_3: "1943. g. modeļa 210-mm pašpiedziņas haubice"
-LAT_heavy_tank_artillery_equipment_3_short: "43. 210-mm haubice"
-#St. Emil with dicker max:
-LAT_heavy_tank_destroyer_equipment_1: "1935. g. modeļa 105-mm prettanku pašpiedziņas"
-LAT_heavy_tank_destroyer_equipment_1_short: "35. 105-mm pašpiedziņas"
-#Ferdinand/tiger Hybrid with dicker max:
-LAT_heavy_tank_destroyer_equipment_2: "1941. g. modeļa 105-mm prettanku pašpiedziņas"
-LAT_heavy_tank_destroyer_equipment_2_short: "41. 105-mm pašpiedziņas"
-#Jagdtiger:
-LAT_heavy_tank_destroyer_equipment_3: "1943. g. modeļa 128-mm prettanku pašpiedziņas"
-LAT_heavy_tank_destroyer_equipment_3_short: "43. 128-mm pašpiedziņas"
-#fake, icon reference from Pz.Sfl. IVc:
-LAT_heavy_tank_aa_equipment_1: "1935. g. modeļa 88-mm zenītartilērijas pašpiedziņas"
-LAT_heavy_tank_aa_equipment_1_short: "35. 88-mm zenītartilērijas"
-#fake, icon reference from Pz.Sfl. IVc:
-LAT_heavy_tank_aa_equipment_2: "1941. g. modeļa 105-mm zenītartilērijas pašpiedziņas"
-LAT_heavy_tank_aa_equipment_2_short: "41. 105-mm zenītartilērijas"
-#fake:
-LAT_heavy_tank_aa_equipment_3: "1943. g. modeļa 128-mm zenītartilērijas pašpiedziņas"
-LAT_heavy_tank_aa_equipment_3_short: "43. 128-mm zenītartilērijas"
-
-#E100:
-LAT_super_heavy_tank_equipment_1: "1943. g. modeļa armijas smags tanks 'E 100'"
-LAT_super_heavy_tank_equipment_1_short: "43. E 100"
-#GWE 100:
-LAT_super_heavy_tank_artillery_equipment_1: "1943. g. modeļa 305-mm pašpiedziņas haubice"
-LAT_super_heavy_tank_artillery_equipment_1_short: "305-mm 43 SH"
-#JGPZ 100:
-LAT_super_heavy_tank_destroyer_equipment_1: "1943. g. modeļa 170-mm prettanku pašpiedziņas"
-LAT_super_heavy_tank_destroyer_equipment_1_short: "170-mm 43 PS"
-#fake:
-LAT_super_heavy_tank_aa_equipment_1: "1943. g. modeļa 128-mm zenītartilērijas pašpiedziņas 'E 100'"
-LAT_super_heavy_tank_aa_equipment_1_short: "128-mm 43 ZS 'E 100'"
-
-#E50:
-LAT_modern_tank_equipment_1: "1945. g. modeļa armijas tanks 'E 50'"
-LAT_modern_tank_equipment_1_short: "E 50"
-#fake:
-LAT_modern_tank_artillery_equipment_1: "1945. g. modeļa 150-mm pašpiedziņas haubice"
-LAT_modern_tank_artillery_equipment_1_short: "45. 150-mm haubice"
-#JGpanther mit 10,5:
-LAT_modern_tank_destroyer_equipment_1: "1945. g. modeļa 105-mm prettanku pašpiedziņas"
-LAT_modern_tank_destroyer_equipment_1_short: "45. 105-mm pašpiedziņas"
-#fake:
-LAT_modern_tank_aa_equipment_1: "1945. g. modeļa 55-mm zenītartilērijas pašpiedziņas"
-LAT_modern_tank_aa_equipment_1_short: "45. 55-mm zenītartilērijas"
-
-#Pz.2 modified, i.e. Schwimmpanzer II:
-LAT_amphibious_tank_equipment_1: "1941. g. modeļa armijas peldošs tanks 'Schwimmpanzer'"
-LAT_amphibious_tank_equipment_1_short: "41. Schwimmpanzer"
-#Panzerfahre with tower:
-LAT_amphibious_tank_equipment_2: "1943. g. modeļa armijas peldošs tanks 'Panzerfahre 5'"
-LAT_amphibious_tank_equipment_2_short: "43. Panzerfahre 5"
-
 ###
 ### Legation Cities ###
 ###
@@ -8879,153 +7640,6 @@ LIT_rocket_artillery_equipment_1: "1940 m. 280 mm reaktyvines artilerijos irengi
 LIT_rocket_artillery_equipment_1_short: "280 mm 40 pabuklas"
 LIT_rocket_artillery_equipment_2: "1942 m. 210 mm reaktyvines artilerijos irenginys"
 LIT_rocket_artillery_equipment_2_short: "210 mm 42 pabuklas"
-
-#Oberschlesien:
-LIT_gw_tank_equipment: "1919 m. modelio lengvasis tankas 'Leikhtraktor'"
-LIT_gw_tank_equipment_short: "Leikhtraktor"
-#Pz 1D:
-LIT_light_tank_equipment_1: "1932 m. modelio lengvasis tankas 'Kleinpanzer 1'"
-LIT_light_tank_equipment_1_short: "Kleinpanzer 1"
-#Pz II L (luchs):
-LIT_light_tank_equipment_2: "1936 m. modelio lengvasis tankas 'Kleinpanzer 2'"
-LIT_light_tank_equipment_2_short: "Kleinpanzer 2"
-#Pz II M / Vk 16 Leopard:
-LIT_light_tank_equipment_3: "1941 m. modelio lengvasis tankas 'Kleinpanzer 3'"
-LIT_light_tank_equipment_3_short: "Kleinpanzer 3"
-#Sturmpanzer I Bison
-LIT_light_tank_artillery_equipment_1: "1932 m. modelio 150 mm šturmo savaeige"
-LIT_light_tank_artillery_equipment_1_short: "150 mm 32 savaeige"
-#Sturmpanzer II Bison:
-LIT_light_tank_artillery_equipment_2: "1936 m. modelio 105 mm šturmo savaeige"
-LIT_light_tank_artillery_equipment_2_short: "105 mm 36 savaeige"
-#Sturmpanzer II Bison:
-LIT_light_tank_artillery_equipment_3: "1941 m. modelio 105 mm šturmo savaeige"
-LIT_light_tank_artillery_equipment_3_short: "105 mm 41 savaeige"
-#PzJg 1:
-LIT_light_tank_destroyer_equipment_1: "1932 m. modelio 50 mm prieštankine savaeige"
-LIT_light_tank_destroyer_equipment_1_short: "50 mm 32 savaeige"
-#Marder 2 75mm:
-LIT_light_tank_destroyer_equipment_2: "1936 m. modelio 75 mm prieštankine savaeige"
-LIT_light_tank_destroyer_equipment_2_short: "75 mm 36 savaeige"
-#Stug Leopard:
-LIT_light_tank_destroyer_equipment_3: "1941 m. modelio 75 mm prieštankine savaeige"
-LIT_light_tank_destroyer_equipment_3_short: "75 mm 41 savaeige"
-#Flakpanzer 1:
-LIT_light_tank_aa_equipment_1: "1932 m. modelio 20 mm priešlektuvine savaeige"
-LIT_light_tank_aa_equipment_1_short: "20 mm 32 savaeige"
-#37mm FlaK 43 Sfi. auf Pz.Kpfw. II Ausf. L 'Luchs':
-LIT_light_tank_aa_equipment_2: "1936 m. modelio 37 mm priešlektuvine savaeige"
-LIT_light_tank_aa_equipment_2_short: "37 mm 36 savaeige"
-#fake:
-LIT_light_tank_aa_equipment_3: "1941 m. modelio 20 mm priešlektuvine savaeige"
-LIT_light_tank_aa_equipment_3_short: "20 mm 41 savaeige"
-
-#PZ 3:
-LIT_medium_tank_equipment_1: "1936 m. modelio vidutinis tankas 'ZW'"
-LIT_medium_tank_equipment_1_short: "ZW"
-#PZ 4 H/L:
-LIT_medium_tank_equipment_2: "1939 m. modelio vidutinis tankas 'KW'"
-LIT_medium_tank_equipment_2_short: "KW"
-#Panther:
-LIT_medium_tank_equipment_3: "1942 m. modelio vidutinis tankas 'VK 30'"
-LIT_medium_tank_equipment_3_short: "VK 30"
-#Heuschrecke:
-LIT_medium_tank_artillery_equipment_1: "1936 m. modelio 105 mm šturmo savaeige"
-LIT_medium_tank_artillery_equipment_1_short: "105 mm 36 savaeige"
-#Hummel:
-LIT_medium_tank_artillery_equipment_2: "1939 m. modelio 150 mm šturmo savaeige"
-LIT_medium_tank_artillery_equipment_2_short: "150 mm 39 savaeige"
-#WT Panther:
-LIT_medium_tank_artillery_equipment_3: "1942 m. modelio 150 mm šturmo savaeige"
-LIT_medium_tank_artillery_equipment_3_short: "150 mm 42 savaeige"
-#Stug4:
-LIT_medium_tank_destroyer_equipment_1: "1936 m. modelio 75 mm prieštankine savaeige 'ZW'"
-LIT_medium_tank_destroyer_equipment_1_short: "75 mm 36 savaeige 'ZW'"
-#JgPz4:
-LIT_medium_tank_destroyer_equipment_2: "1939 m. modelio 75 mm prieštankine savaeige"
-LIT_medium_tank_destroyer_equipment_2_short: "75 mm 39 savaeige"
-#Jagdpanther:
-LIT_medium_tank_destroyer_equipment_3: "1942 m. modelio 88 mm prieštankine savaeige"
-LIT_medium_tank_destroyer_equipment_3_short: "75 mm 42 savaeige"
-#Ostwind:
-LIT_medium_tank_aa_equipment_1: "1936 m. modelio 37 mm priešlektuvine savaeige 'ZW'"
-LIT_medium_tank_aa_equipment_1_short: "37 mm 37 savaeige 'ZW'"
-#Kugelblitz:
-LIT_medium_tank_aa_equipment_2: "1939 m. modelio 37 mm priešlektuvine savaeige"
-LIT_medium_tank_aa_equipment_2_short: "37 mm 39 savaeige"
-#Coelian:
-LIT_medium_tank_aa_equipment_3: "1942 m. modelio 55 mm priešlektuvine savaeige"
-LIT_medium_tank_aa_equipment_3_short: "55 mm 42 savaeige"
-
-#VK 30.01 H:
-LIT_heavy_tank_equipment_1: "1935 m. modelio sunkusis tankas 'DW'"
-LIT_heavy_tank_equipment_1_short: "DW"
-#Tiger:
-LIT_heavy_tank_equipment_2: "1941 m. modelio sunkusis tankas 'DW 2'"
-LIT_heavy_tank_equipment_2_short: "DW 2"
-#Tiger:
-LIT_heavy_tank_equipment_3: "1943 m. modelio sunkusis tankas 'VK 45'"
-LIT_heavy_tank_equipment_3_short: "VK 45"
-#fake:
-LIT_heavy_tank_artillery_equipment_1: "1935 m. modelio 150 mm šturmo savaeige"
-LIT_heavy_tank_artillery_equipment_1_short: "150 mm 35 savaeige"
-#GW Tiger mit 17cm:
-LIT_heavy_tank_artillery_equipment_2: "1941 m. modelio 170 mm šturmo savaeige"
-LIT_heavy_tank_artillery_equipment_2_short: "170 mm 41 savaeige"
-#GW Tiger mit 21cm:
-LIT_heavy_tank_artillery_equipment_3: "1943 m. modelio 210 mm šturmo savaeige"
-LIT_heavy_tank_artillery_equipment_3_short: "210 mm 43 savaeige"
-#St. Emil with dicker max:
-LIT_heavy_tank_destroyer_equipment_1: "1935 m. modelio 105 mm prieštankine savaeige"
-LIT_heavy_tank_destroyer_equipment_1_short: "105 mm 35 savaeige"
-#Ferdinand/tiger Hybrid with dicker max:
-LIT_heavy_tank_destroyer_equipment_2: "1941 m. modelio 105 mm prieštankine savaeige"
-LIT_heavy_tank_destroyer_equipment_2_short: "105 mm 41 savaeige"
-#Jagdtiger:
-LIT_heavy_tank_destroyer_equipment_3: "1943 m. modelio 128 mm prieštankine savaeige"
-LIT_heavy_tank_destroyer_equipment_3_short: "128 mm 43 savaeige"
-#fake, icon reference from Pz.Sfl. IVc:
-LIT_heavy_tank_aa_equipment_1: "1935 m. modelio 88 mm priešlektuvine savaeige"
-LIT_heavy_tank_aa_equipment_1_short: "88 mm 35 savaeige"
-#fake, icon reference from Pz.Sfl. IVc:
-LIT_heavy_tank_aa_equipment_2: "1941 m. modelio 105 mm priešlektuvine savaeige"
-LIT_heavy_tank_aa_equipment_2_short: "105 mm 41 savaeige"
-#fake:
-LIT_heavy_tank_aa_equipment_3: "1943 m. modelio 128 mm priešlektuvine savaeige"
-LIT_heavy_tank_aa_equipment_3_short: "128 mm 43 savaeige"
-
-#E100:
-LIT_super_heavy_tank_equipment_1: "1943 m. modelio supersunkusis tankas 'E 100'"
-LIT_super_heavy_tank_equipment_1_short: "E 100"
-#GWE 100:
-LIT_super_heavy_tank_artillery_equipment_1: "1943 m. modelio 305 mm šturmo savaeige"
-LIT_super_heavy_tank_artillery_equipment_1_short: "305 mm 43 savaeige"
-#JGPZ 100:
-LIT_super_heavy_tank_destroyer_equipment_1: "1943 m. modelio 170 mm prieštankine savaeige"
-LIT_super_heavy_tank_destroyer_equipment_1_short: "170 mm 43 savaeige"
-#fake:
-LIT_super_heavy_tank_aa_equipment_1: "1943 m. modelio 128 mm priešlektuvine savaeige 'E 100'"
-LIT_super_heavy_tank_aa_equipment_1_short: "128 mm 43 savaeige 'E 100'"
-
-#E50:
-LIT_modern_tank_equipment_1: "1945 m. modelio kovinis tankas 'E 50'"
-LIT_modern_tank_equipment_1_short: "E 50"
-#fake:
-LIT_modern_tank_artillery_equipment_1: "1945 m. modelio 150 mm šturmo savaeige"
-LIT_modern_tank_artillery_equipment_1_short: "150 mm 45 savaeige"
-#JGpanther mit 10,5:
-LIT_modern_tank_destroyer_equipment_1: "1945 m. modelio 105 mm prieštankine savaeige"
-LIT_modern_tank_destroyer_equipment_1_short: "105 mm 45 savaeige"
-#fake:
-LIT_modern_tank_aa_equipment_1: "1945 m. modelio 55 mm priešlektuvine savaeige"
-LIT_modern_tank_aa_equipment_1_short: "55 mm 45 savaeige"
-
-#Pz.2 modified, i.e. Schwimmpanzer II:
-LIT_amphibious_tank_equipment_1: "1941 m. modelio desantinis tankas 'Schwimmpanzer'"
-LIT_amphibious_tank_equipment_1_short: "Schwimmpanzer"
-#Panzerfahre with tower:
-LIT_amphibious_tank_equipment_2: "1943 m. modelio desantinis tankas 'Panzerfahre 5'"
-LIT_amphibious_tank_equipment_2_short: "Panzerfahre 5"
 
 ###
 ### Lombardia ###
@@ -9289,107 +7903,6 @@ MAF_rocket_artillery_equipment_2: "21-cm Raketenwerfer Modell 42"
 MAF_rocket_artillery_equipment_2_short: "R.W. 42"
 MAF_rocket_artillery_equipment_2_desc: "Der 21-cm-Raketenwerfer 42 ist ein fünfschüssiger Mehrfachraketenwerfer, der auf einer gezogenen Lafette montiert ist, die von der des 3,7-cm-Panzerabwehrgeschützes Pa.K. 36 abgeleitet ist. Die Raketenwerfer sind in Sechser-Batterien mit drei Batterien pro Bataillon organisiert. Die R.W. 42 sind für die Feuerunterstützung und die Nebelabwehr vorgesehen und werden hauptsächlich als Raketenartillerie eingesetzt und nehmen fast nicht an der chemischen Kriegsführung teil."
 
-#Tanks
-MAF_gw_tank_equipment: "$GER_gw_tank_equipment$"
-MAF_gw_tank_equipment_short: "$GER_gw_tank_equipment_short$"
-MAF_light_tank_equipment_1: "$GER_light_tank_equipment_1$"
-MAF_light_tank_equipment_1_short: "$GER_light_tank_equipment_1_short$"
-MAF_light_tank_equipment_2: "$GER_light_tank_equipment_2$"
-MAF_light_tank_equipment_2_short: "$GER_light_tank_equipment_2_short$"
-MAF_light_tank_equipment_3: "$GER_light_tank_equipment_3$"
-MAF_light_tank_equipment_3_short: "$GER_light_tank_equipment_3_short$"
-MAF_light_tank_artillery_equipment_1: "$GER_light_tank_artillery_equipment_1$"
-MAF_light_tank_artillery_equipment_1_short: "$GER_light_tank_artillery_equipment_1_short$"
-MAF_light_tank_artillery_equipment_2: "$GER_light_tank_artillery_equipment_2$"
-MAF_light_tank_artillery_equipment_2_short: "$GER_light_tank_artillery_equipment_2_short$"
-MAF_light_tank_artillery_equipment_3: "$GER_light_tank_artillery_equipment_3$"
-MAF_light_tank_artillery_equipment_3_short: "$GER_light_tank_artillery_equipment_3_short$"
-MAF_light_tank_destroyer_equipment_1: "$GER_light_tank_destroyer_equipment_1$"
-MAF_light_tank_destroyer_equipment_1_short: "$GER_light_tank_destroyer_equipment_1_short$"
-MAF_light_tank_destroyer_equipment_2: "$GER_light_tank_destroyer_equipment_2$"
-MAF_light_tank_destroyer_equipment_2_short: "$GER_light_tank_destroyer_equipment_2_short$"
-MAF_light_tank_destroyer_equipment_3: "$GER_light_tank_destroyer_equipment_3$"
-MAF_light_tank_destroyer_equipment_3_short: "$GER_light_tank_destroyer_equipment_3_short$"
-MAF_light_tank_aa_equipment_1: "$GER_light_tank_aa_equipment_1$"
-MAF_light_tank_aa_equipment_1_short: "$GER_light_tank_aa_equipment_1_short$"
-MAF_light_tank_aa_equipment_2: "$GER_light_tank_aa_equipment_2$"
-MAF_light_tank_aa_equipment_2_short: "$GER_light_tank_aa_equipment_2_short$"
-MAF_light_tank_aa_equipment_3: "$GER_light_tank_aa_equipment_3$"
-MAF_light_tank_aa_equipment_3_short: "$GER_light_tank_aa_equipment_3_short$"
-
-MAF_medium_tank_equipment_1: "$GER_medium_tank_equipment_1$"
-MAF_medium_tank_equipment_1_short: "$GER_medium_tank_equipment_1_short$"
-MAF_medium_tank_equipment_2: "$GER_medium_tank_equipment_2$"
-MAF_medium_tank_equipment_2_short: "$GER_medium_tank_equipment_2_short$"
-MAF_medium_tank_equipment_3: "$GER_medium_tank_equipment_3$"
-MAF_medium_tank_equipment_3_short: "$GER_medium_tank_equipment_3_short$"
-MAF_medium_tank_artillery_equipment_1: "$GER_medium_tank_artillery_equipment_1$"
-MAF_medium_tank_artillery_equipment_1_short: "$GER_medium_tank_artillery_equipment_1_short$"
-MAF_medium_tank_artillery_equipment_2: "$GER_medium_tank_artillery_equipment_2$"
-MAF_medium_tank_artillery_equipment_2_short: "$GER_medium_tank_artillery_equipment_2_short$"
-MAF_medium_tank_artillery_equipment_3: "$GER_medium_tank_artillery_equipment_3$"
-MAF_medium_tank_artillery_equipment_3_short: "$GER_medium_tank_artillery_equipment_3_short$"
-MAF_medium_tank_destroyer_equipment_1: "$GER_medium_tank_destroyer_equipment_1$"
-MAF_medium_tank_destroyer_equipment_1_short: "$GER_medium_tank_destroyer_equipment_1_short$"
-MAF_medium_tank_destroyer_equipment_2: "$GER_medium_tank_destroyer_equipment_2$"
-MAF_medium_tank_destroyer_equipment_2_short: "$GER_medium_tank_destroyer_equipment_2_short$"
-MAF_medium_tank_destroyer_equipment_3: "$GER_medium_tank_destroyer_equipment_3$"
-MAF_medium_tank_destroyer_equipment_3_short: "$GER_medium_tank_destroyer_equipment_3_short$"
-MAF_medium_tank_aa_equipment_1: "$GER_medium_tank_aa_equipment_1$"
-MAF_medium_tank_aa_equipment_1_short: "$GER_medium_tank_aa_equipment_1_short$"
-MAF_medium_tank_aa_equipment_2: "$GER_medium_tank_aa_equipment_2$"
-MAF_medium_tank_aa_equipment_2_short: "$GER_medium_tank_aa_equipment_2_short$"
-MAF_medium_tank_aa_equipment_3: "$GER_medium_tank_aa_equipment_3$"
-MAF_medium_tank_aa_equipment_3_short: "$GER_medium_tank_aa_equipment_3_short$"
-
-MAF_heavy_tank_equipment_1: "$GER_heavy_tank_equipment_1$"
-MAF_heavy_tank_equipment_1_short: "$GER_heavy_tank_equipment_1_short$"
-MAF_heavy_tank_equipment_2: "$GER_heavy_tank_equipment_2$"
-MAF_heavy_tank_equipment_2_short: "$GER_heavy_tank_equipment_2_short$"
-MAF_heavy_tank_equipment_3: "$GER_heavy_tank_equipment_3$"
-MAF_heavy_tank_equipment_3_short: "$GER_heavy_tank_equipment_3_short$"
-MAF_heavy_tank_artillery_equipment_1: "$GER_heavy_tank_artillery_equipment_1$"
-MAF_heavy_tank_artillery_equipment_1_short: "$GER_heavy_tank_artillery_equipment_1_short$"
-MAF_heavy_tank_artillery_equipment_2: "$GER_heavy_tank_artillery_equipment_2$"
-MAF_heavy_tank_artillery_equipment_2_short: "$GER_heavy_tank_artillery_equipment_2_short$"
-MAF_heavy_tank_artillery_equipment_3: "$GER_heavy_tank_artillery_equipment_3$"
-MAF_heavy_tank_artillery_equipment_3_short: "$GER_heavy_tank_artillery_equipment_3_short$"
-MAF_heavy_tank_destroyer_equipment_1: "$GER_heavy_tank_destroyer_equipment_1$"
-MAF_heavy_tank_destroyer_equipment_1_short: "$GER_heavy_tank_destroyer_equipment_1_short$"
-MAF_heavy_tank_destroyer_equipment_2: "$GER_heavy_tank_destroyer_equipment_2$"
-MAF_heavy_tank_destroyer_equipment_2_short: "$GER_heavy_tank_destroyer_equipment_2_short$"
-MAF_heavy_tank_destroyer_equipment_3: "$GER_heavy_tank_destroyer_equipment_3$"
-MAF_heavy_tank_destroyer_equipment_3_short: "$GER_heavy_tank_destroyer_equipment_3_short$"
-MAF_heavy_tank_aa_equipment_1: "$GER_heavy_tank_aa_equipment_1$"
-MAF_heavy_tank_aa_equipment_1_short: "$GER_heavy_tank_aa_equipment_1_short$"
-MAF_heavy_tank_aa_equipment_2: "$GER_heavy_tank_aa_equipment_2$"
-MAF_heavy_tank_aa_equipment_2_short: "$GER_heavy_tank_aa_equipment_2_short$"
-MAF_heavy_tank_aa_equipment_3: "$GER_heavy_tank_aa_equipment_3$"
-MAF_heavy_tank_aa_equipment_3_short: "$GER_heavy_tank_aa_equipment_3_short$"
-
-MAF_super_heavy_tank_equipment_1: "$GER_super_heavy_tank_equipment_1$"
-MAF_super_heavy_tank_equipment_1_short: "$GER_super_heavy_tank_equipment_1_short$"
-MAF_super_heavy_tank_artillery_equipment_1: "$GER_super_heavy_tank_artillery_equipment_1$"
-MAF_super_heavy_tank_artillery_equipment_1_short: "$GER_super_heavy_tank_artillery_equipment_1_short$"
-MAF_super_heavy_tank_destroyer_equipment_1: "$GER_super_heavy_tank_destroyer_equipment_1$"
-MAF_super_heavy_tank_destroyer_equipment_1_short: "$GER_super_heavy_tank_destroyer_equipment_1_short$"
-MAF_super_heavy_tank_aa_equipment_1: "$GER_super_heavy_tank_aa_equipment_1$"
-MAF_super_heavy_tank_aa_equipment_1_short: "$GER_super_heavy_tank_aa_equipment_1_short$"
-
-MAF_modern_tank_equipment_1: "$GER_modern_tank_equipment_1$"
-MAF_modern_tank_equipment_1_short: "$GER_modern_tank_equipment_1_short$"
-MAF_modern_tank_artillery_equipment_1: "$GER_modern_tank_artillery_equipment_1$"
-MAF_modern_tank_artillery_equipment_1_short: "$GER_modern_tank_artillery_equipment_1_short$"
-MAF_modern_tank_destroyer_equipment_1: "$GER_modern_tank_destroyer_equipment_1$"
-MAF_modern_tank_destroyer_equipment_1_short: "$GER_modern_tank_destroyer_equipment_1_short$"
-MAF_modern_tank_aa_equipment_1: "$GER_modern_tank_aa_equipment_1$"
-MAF_modern_tank_aa_equipment_1_short: "$GER_modern_tank_aa_equipment_1_short$"
-
-MAF_amphibious_tank_equipment_1: "$GER_amphibious_tank_equipment_1$"
-MAF_amphibious_tank_equipment_1_short: "$GER_amphibious_tank_equipment_1_short$"
-MAF_amphibious_tank_equipment_2: "$GER_amphibious_tank_equipment_2$"
-MAF_amphibious_tank_equipment_2_short: "$GER_amphibious_tank_equipment_2_short$"
-
 ###
 ### Madagascar ###
 ###
@@ -9414,9 +7927,6 @@ MAD_support_weapons2_short: "$GER_support_weapons2_short$"
 MLI_infantry_equipment_0: "Fusil Lebel Modèle 1886 M93"
 MLI_infantry_equipment_0_short: "Lebel Mle M93"
 MLI_support_weapons: "Darne M1919 & Stokes mortar"
-
-MLI_gw_tank_equipment: "Renault FT"
-MLI_gw_tank_equipment_short: "FT"
 
 ###
 ### Mexico ###
@@ -9575,9 +8085,6 @@ MOR_infantry_equipment_2_short: "MP-28"
 MRT_infantry_equipment_0: "Fusil Lebel Modèle 1886 M93"
 MRT_infantry_equipment_0_short: "Lebel Mle M93"
 MRT_support_weapons: "Darne M1919 & Stokes mortar"
-
-MRT_gw_tank_equipment: "Renault FT"
-MRT_gw_tank_equipment_short: "FT"
 
 ###
 ### Mysore ###
@@ -9757,49 +8264,6 @@ NEE_rocket_artillery_equipment_1_short: "M12 Rocket Launcher"
 NEE_rocket_artillery_equipment_2: "Rocket Launcher, Multiple, 4.5-inch, Model 20"
 NEE_rocket_artillery_equipment_2_short: "M20 Rocket Launcher"
 
-#Tanks
-NEE_amphibious_tank_equipment_1: "Vickers Amphibious"
-
-NEE_gw_tank_equipment: "Light Tank, Model 1921"
-NEE_gw_tank_equipment_short: "M1921"
-NEE_gw_tank_equipment_desc: "Da die Vereinigten Staaten zum Zeitpunkt der Kapitulation Frankreichs im Weltkrieg über keine Panzer verfügten, bemühten sie sich angesichts der sich rasch verändernden internationalen Ordnung um die Entwicklung eines Behelfsfahrzeugs. Letztendlich wurde eine von Ford entworfene, nahezu identische Kopie des französischen FT-Panzers mit der Bezeichnung Modell von 1921 verwendet."
-
-NEE_light_tank_equipment_1: "Light Tank, Model 2"
-NEE_light_tank_equipment_1_short: "M2"
-NEE_light_tank_equipment_1_desc: "Beunruhigt durch die rasante Entwicklung von Panzern während des Weltkriegs, entwickelten die Vereinigten Staaten während und unmittelbar nach dem Krieg mehrere experimentelle leichte Panzer. Auch wenn diese Entwürfe letztlich ins Leere liefen, bildeten die daraus gezogenen Lehren die Grundlage für die Entwicklung des M2. Der M2 verfügt über viele Merkmale, die direkt von kanadischen Panzern übernommen wurden, und ist mit einer einzigen 37-mm-Hochgeschwindigkeitskanone bewaffnet."
-NEE_light_tank_equipment_2: "Light Tank, Model 3"
-NEE_light_tank_equipment_2_short: "M3 Stuart"
-NEE_light_tank_equipment_2_desc: "Die Unzulänglichkeiten des M2 wurden von den amerikanischen Streitkräften schnell erkannt, und schon bald wurde mit der Arbeit an einer neuen, völlig neu konzipierten Variante begonnen. Das Projekt wurde zwar durch den Amerikanischen Bürgerkrieg unterbrochen, aber die der Bundesregierung treuen Ingenieure konnten das Projekt schließlich abschließen."
-NEE_light_tank_equipment_3: "Light Tank, Model 24"
-NEE_light_tank_equipment_3_short: "M24"
-NEE_light_tank_equipment_3_desc: "Der M24 ist zwar vom M3 inspiriert, wurde aber mit besonderem Augenmerk auf die Leistung in unwegsamem Gelände entwickelt."
-
-NEE_medium_tank_equipment_1: "Medium Tank, Model 3"
-NEE_medium_tank_equipment_1_short: "M3 Grant"
-NEE_medium_tank_equipment_1_desc: "Während die amerikanischen Bemühungen um die Entwicklung eines modernen mittleren Panzers auf der Grundlage einer vergrößerten Variante des M2 mit dem Ausbruch des Bürgerkriegs scheiterten, brachte die provisorische Regierung von Neuengland, motiviert durch den Krieg, solche Pläne danach schnell zur Verwirklichung. Der M3 war vom kanadischen mittleren Panzer A15 Ram inspiriert und verfügte über ein in Kanada entwickeltes Laufrad. Der M3 Grant verfügt außerdem über eine Halterung für ein mobiles Funkgerät an der Rückseite seines Turms."
-NEE_medium_tank_equipment_2: "Medium Tank, Model 4"
-NEE_medium_tank_equipment_2_short: "M4 Sherman"
-NEE_medium_tank_equipment_2_desc: "Inspiriert von der Panzerdoktrin der Kanadier und von eigenen Erfahrungen opferten die amerikanischen Militärs die seitliche Lafette des M3 für eine 75-mm-Kanone in einem vollständig durchfahrbaren zentralen Turm. Die Konstrukteure des M4 legten großen Wert auf die mechanische Zuverlässigkeit des Panzers, seine einfache Herstellung, Wartung, Langlebigkeit, Standardisierung und die Begrenzung von Gewicht und Größe. Die relativ einfache Produktion des M4 in Verbindung mit der industriellen Stärke Amerikas wird es ermöglichen, den M4 in kurzer Zeit zu produzieren und mit Hilfe von Reparatureinheiten die beschädigten Fahrzeuge schnell zu reparieren."
-NEE_medium_tank_equipment_3: "Medium Tank, Model 20"
-NEE_medium_tank_equipment_3_short: "M20 Clark"
-NEE_medium_tank_equipment_3_desc: "Der M20, benannt nach dem General Mark Clark aus Neuengland, ist die neueste Entwicklung in der amerikanischen Panzerkriegsführung. Der M20 ist eine Verbesserung gegenüber dem M4 und verfügt über eine stärkere Wannenpanzerung (0,5 Zoll/13 mm dicker) sowie eine leistungsstarke 76-mm-Kanone. Der M20 wiegt zwar genauso viel wie der M4, aber dank seiner Panzerung, Feuerkraft und Mobilität ist er in der Lage, Panzer zu bekämpfen, die selbst als schwer eingestuft werden."
-
-#delete eventually when we get a new icon:
-NEE_heavy_tank_equipment_1: "Medium Tank, Model 1"
-NEE_heavy_tank_equipment_1_short: "M1"
-#delete eventually when we get a new icon:
-NEE_heavy_tank_equipment_2: "Heavy Tank, Model 1941"
-NEE_heavy_tank_equipment_2_short: "M1941 Tecumseh"
-NEE_heavy_tank_equipment_3: "Heavy Tank, Model 1943"
-NEE_heavy_tank_equipment_3_short: "M1943 Metacomet"
-
-NEE_super_heavy_tank_equipment_1: "Super-Heavy Tank, Model 1943"
-NEE_super_heavy_tank_equipment_1_short: "M1943 Hiawatha"
-NEE_super_heavy_tank_equipment_1_desc: "Der M28 Super Heavy Tank wurde um eine experimentelle 105-mm-Kanone herum konstruiert, die mit einem hochmodernen Autoloader-System ausgestattet war. Mit einer Panzerung von bis zu etwas mehr als zwölf Zoll Dicke an der Front war der M28 recht langsam, konnte aber selbst relativ starken Panzerabwehrkanonen zuverlässig widerstehen."
-
-NEE_modern_tank_equipment_1: "Modern Tank, Model 46"
-NEE_modern_tank_equipment_1_short: "M1946 Kenney"
-
 ### Railroad ###
 NEE_train_equipment_1: "Pennsylvania I1s Class"
 NEE_train_equipment_2: "USATC S160 Class"
@@ -9822,9 +8286,6 @@ NEP_infantry_equipment_0_short: "No.1 Mk III"
 NGR_infantry_equipment_0: "Fusil Lebel Modèle 1886 M93"
 NGR_infantry_equipment_0_short: "Lebel Mle M93"
 NGR_support_weapons: "Darne M1919 & Stokes mortar"
-
-NGR_gw_tank_equipment: "Renault FT"
-NGR_gw_tank_equipment_short: "FT"
 
 ###
 ### French Republic ###
@@ -9962,71 +8423,6 @@ NFA_anti_air_equipment_2_desc: "Developed since 1930, the Mitrailleuse 37mm CA w
 NFA_anti_air_equipment_3: "Matériel de 75mm Contre-Aérien Modèle 1940"
 NFA_anti_air_equipment_3_short: "Matériel de 75mm CA"
 NFA_anti_air_equipment_3_desc: "During the late 1920s, it was realised that the Matériel de 75mm Modèle 1897 was outdated as an anti-aircraft weapon and development of a new gun was begun in 1931. The Matériel de 75mm Contre-Aérien Modèle 1940 by Schneider has faster rate of fire, higher muzzle velocity, increased vertical range, modern fire control and greater mobility with new gun carriages, than the old Soixante-Quinze. Impressed by the performance of the former Mitrailleuse 37mm CA from Schneider, the French command quickly adopted the new 75mm gun."
-
-#Tanks
-
-#FT-31:
-NFA_gw_tank_equipment: "Char d'Assaut Renault FT Modèle 1917 Modifié 29"
-NFA_gw_tank_equipment_short: "FT-29"
-NFA_gw_tank_equipment_desc: "Der FT war der erste Serienpanzer, bei dem die Bewaffnung in einem vollständig drehbaren Turm untergebracht war, und revolutionierte die Panzerkonstruktion, die später von anderen Ländern kopiert wurde. Der 1917 von Renault entwickelte Entwurf war technisch weitaus fortschrittlicher als die beiden anderen französischen Panzer des Weltkriegs. Nach dem Rückzug nach Algerien rüstete die französische Armee 1929 die verbliebenen Panzer mit dem Hotchkiss Mle 26-Maschinengewehr aus, aber im Allgemeinen wurden viele der FTs an andere Länder verkauft, um den französischen Haushalt zu entlasten."
-
-#D1:
-NFA_light_tank_equipment_1: "Char de Manœuvre Renault Modèle 1930"
-NFA_light_tank_equipment_1_short: "CMR-30"
-NFA_light_tank_equipment_1_desc: "1926 erhielt Renault den Auftrag, zwei neue Prototypen als paralleles Modifikationsprojekt zu bauen, mit der Werksbezeichnung Renault NC. 1930 gelang es Renault, seinen Renault NC als Grundlage für die weitere Entwicklung des leichten Infanteriepanzers durchzusetzen, dessen Endergebnis 1932 von der Armee unter der Bezeichnung Char de Manœuvre Renault Modèle 1930 übernommen wurde. Ein neuer Panzer, der weitgehend auf einer Überarbeitung des ursprünglichen Entwurfs des Renault FT basiert und mit einer Kanone Puteaux SA Mle 18 und zwei Maschinengewehren Hotchkiss Mle 26 bewaffnet ist. Auf Wunsch der französischen Armee verfügen die Panzer über einen Funkerplatz und sind mit einer riesigen und charakteristischen Doppelauslegerantenne ausgestattet. Aufgrund dieser Besonderheit hat der Turm eine reduzierte Neigung von etwa 345°."
-#D2:
-NFA_light_tank_equipment_2: "Char de Manœuvre d'Ensemble Renault Modèle 1935"
-NFA_light_tank_equipment_2_short: "CMER-35"
-NFA_light_tank_equipment_2_desc: "Mit der Entwicklung des Panzers CMR-30, der bereits von der reinen Infanterieunterstützung abgewichen war, bestellte die französische Armee einen neuen Panzer, der gegen feindliche Kontrahenten kämpfen konnte. Renault beantragte eine Finanzierung für die Entwicklung des neuen Panzers, die abgelehnt wurde, bis man einen Prototyp vorstellte. Der Renault UZ-Prototyp wurde 1935 vorgestellt und aufgrund finanzieller Probleme der französischen Regierung sofort als Char de Manœuvre d'Ensemble Renault Modèle 1935 in Dienst gestellt, allerdings in begrenzter Stückzahl. In vielerlei Hinsicht ist der CMER-35 ein leicht vergrößertes Modell des CMR-30, das viele der Merkmale des vorherigen Fahrzeugs beibehält, jedoch stärker gepanzert und mit einer 47-mm-Kanone bewaffnet ist."
-#ELC Even:
-NFA_light_tank_equipment_3: "Char Léger de Combat Citroën"
-NFA_light_tank_equipment_3_short: "CLC-C"
-NFA_light_tank_equipment_3_desc: "Der Char Léger de Combat Citroën ist ein leichter Panzer, der auf Wunsch der französischen Armee für ein leicht gepanzertes schweres Kampffahrzeug entwickelt wurde. Der CLC-C hat einen schwenkbaren Turm mit einer Kuppel für den Richtschützen, die entlang der Mittellinie des Turms angeordnet ist. Der Turm selbst ist nach links versetzt, um Platz für eine Fahrerkabine in der Wanne zu schaffen, und ist auf der rechten Seite mit einer 90-mm-Magazinkanone bewaffnet. Zu den wesentlichen Nachteilen des neuen Panzers gehört, dass sich der Verschluss außerhalb des Turms befindet, was bedeutet, dass der Kanonier ihn nur nachladen kann, wenn er sich außerhalb des Panzers bewegt."
-
-#AMX-Tracteur B:
-NFA_medium_tank_equipment_1: "Char de Bataille Peugeot Modèle 1939"
-NFA_medium_tank_equipment_1_short: "CBP-39"
-NFA_medium_tank_equipment_1_desc: "Der Char de Bataille Peugeot Modèle 1939 ist eine verbesserte Kombination aus dem CMER-35 und dem CRP-37S. Der CBP-39 wurde von Peugeot in Vorbereitung auf die Rückkehr nach Frankreich entwickelt. Er ist mit zwei Kanonen bewaffnet: einer 75-mm-Kanone im Rumpf und einer 47-mm-Kanone im Turm, und hat eine Vielzahl von taktischen Zielen auf dem Schlachtfeld. Der CBP-39 hat jedoch keine spezielle Nische und wird hauptsächlich dazu verwendet, Lücken in den taktischen und strategischen Plänen des französischen Kommandos zu füllen."
-#G1R:
-NFA_medium_tank_equipment_2: "Char de Combat Général-1 Renault"
-NFA_medium_tank_equipment_2_short: "CdC G1-R"
-NFA_medium_tank_equipment_2_desc: "Der CdC G1-R ist ein 20 Tonnen schwerer Ersatzpanzer für den CMER-35. Der CdC G1-R ist einer der fortschrittlichsten französischen Panzer, der über eine gute Bewaffnung und Mobilität verfügt und für mehrere Aufgaben geeignet ist. Der mit 75-mm- und 47-mm-Kanonen bewaffnete Panzer entsprach nicht den ursprünglichen Standards der französischen Armee, aber nach mehreren Änderungen der Spezifikationen wurde der CdC G1-R in den Dienst gestellt. Als Mehrzweckpanzer verfügt der CdC G1-R über mehrere innovative Teile, wie z. B. ein Geschützstabilisierungs- und halbautomatisches Ladesystem sowie einen optischen Entfernungsmesser."
-#AMX CdC:
-NFA_medium_tank_equipment_3: "Char de Combat Général-2 Peugeot"
-NFA_medium_tank_equipment_3_short: "CdC G2-P"
-NFA_medium_tank_equipment_3_desc: "Der CdC G2-P ist ein Panzer der nächsten Generation, der den CdC G1-R ersetzen soll. Der leistungsstarke Motor und das geringe Gewicht verleihen dem neuen Fahrzeug eine ausgezeichnete Mobilität, und die 90-mm-Kanone mit mechanisiertem Munitionsgestell sorgt für eine gute Feuerrate. Allerdings sind die beträchtliche Größe bei eher schwacher Panzerung sowie die sehr komplexe und teure Konstruktion die Hauptnachteile des neuen Panzers."
-
-#Char Lourd AMX 37:
-NFA_heavy_tank_equipment_1: "Char de Rupture Peugeot Modèle 1937 tourelle S"
-NFA_heavy_tank_equipment_1_short: "CRP-37S"
-NFA_heavy_tank_equipment_1_desc: "Der Char de Rupture Peugeot Modèle 1937 wurde entwickelt, um die Verteidigungsanlagen der Kommunarden zu durchbrechen, und ist mit zwei Hauptbewaffnungen ausgestattet: einer 75-mm-Kanone im Aufbau und einer 47-mm-Kanone im Turm. Der Turm wurde während der Entwicklung stark verändert, und die endgültige Version, die als 'tourelle S' bekannt ist, ähnelt dem CMR-30-Turm. Trotz der Kosten und des Gewichts des neuen Panzers wurde der CRP-37S in den Dienst gestellt und wird in den Plänen des französischen Kommandos als notwendig erachtet."
-#FCM-F4:
-NFA_heavy_tank_equipment_2: "Char d'Attaque des Fortifications Citroën Modèle 1941"
-NFA_heavy_tank_equipment_2_short: "CAFC-41"
-NFA_heavy_tank_equipment_2_desc: "Der nach den gleichen Spezifikationen wie der CRP-37S entworfene CAFC-41 wurde aufgrund seiner hohen Kosten und seines hohen Gewichts, auch im Vergleich zum CRP-37S, abgelehnt. Ausgestattet mit der gleichen Bewaffnung wie der CRP-37S, wurde der neue Panzer erst 1941 nach mehreren Änderungen in Dienst gestellt. Das Modell von 1941 ist fast identisch mit dem von 1937, aber das Getriebe und der Auspuff wurden in die Mitte verlegt und die 47-mm-Kanone im Turm wurde durch eine 75-mm-Kanone ersetzt."
-#Citroën; BDR G1B:
-NFA_heavy_tank_equipment_3: "Platforme Blindée d'Attaque des Fortifications Standardisé"
-NFA_heavy_tank_equipment_3_short: "PBAFS"
-NFA_heavy_tank_equipment_3_desc: "Die PBAFS, offiziell Platforme Blindée d'Attaque des Fortifications Standardisé-Citroën genannt, war ursprünglich als Konkurrenz zum CdC G1-R gedacht, wurde aber als zu schwer abgelehnt. Der PBAFS wurde 2 Jahre später nach erheblichen Änderungen, wie dem Austausch der 75-mm-Turmkanone durch eine 90-mm-Kanone und der Erhöhung der Panzerung, angenommen. Das Ziel des PBAFS ist es, feindliche Befestigungen zu durchbrechen und leichtere Panzer aus der Ferne zu unterstützen, da seine Panzerung für den direkten Kampf mit gegnerischen schweren Panzern immer noch zu schwach ist."
-
-#ARL Tracteur C:
-NFA_super_heavy_tank_equipment_1: "Char Forteresse Peugeot Modèle 1943"
-NFA_super_heavy_tank_equipment_1_short: "CFP-43"
-NFA_super_heavy_tank_equipment_1_desc: "Der Char Forteresse Peugeot Modèle 1943 ist ein extrem schwerer und langer Panzer mit 120 mm Panzerung, 8 Mann Besatzung und der Fähigkeit, bis zu 7 m breite Gräben zu durchqueren. Die Entwicklung des CFP-43, der mit einer 105-mm-Hauptkanone und einer 47-mm-Sekundärkanone ausgestattet ist, war äußerst anspruchsvoll, da sich die Anforderungen ständig änderten. Die endgültige Version wurde 1943 eingeführt und in Dienst gestellt, als es notwendig wurde, noch größere feindliche Befestigungen zu durchbrechen, als es andere Panzer konnten."
-
-#AMX 30:
-NFA_modern_tank_equipment_1: "Char de Combat Général-3"
-NFA_modern_tank_equipment_1_short: "CdC G3"
-NFA_modern_tank_equipment_1_desc: "Im Rahmen der Diskussion über die Standardisierung der französischen Panzer und die Ablösung der Panzer CdC G2-P und CdC G1-R wurde der Entwurf des Char de Combat Général-3 vorgeschlagen. Der CdC G3 ist als Angriffspanzer konzipiert, der auf der Schiene transportiert werden kann, und weist trotz der guten 105-mm-Hauptkanone und einer Geschwindigkeit von 50 km/h zahlreiche Mängel wie eine schwache Panzerung und geringe Zuverlässigkeit auf."
-
-#Very Modified SCHNEIDER-LAURENT (note: shitty tech):
-NFA_amphibious_tank_equipment_1: "Char Léger Amphibie Schneider-Citroën"
-NFA_amphibious_tank_equipment_1_short: "CLA-SC"
-NFA_amphibious_tank_equipment_1_desc: "Der CLA-SC wurde auf dem Fahrgestell des C-40 entwickelt und ist ein eher schwacher amphibischer Panzer mit einem gemischten Ketten- und Radfahrgestell und einem CMR-30-Turm. Der CLA-SC wurde aufgrund des Bedarfs an amphibischen Panzern in Vorbereitung auf die Rückkehr Frankreichs in den Dienst gestellt, hat eine schwache Panzerung und eine geringe Geschwindigkeit, ist aber recht zuverlässig."
-#Modified CHASSEUR DE CHAR HENRY:
-NFA_amphibious_tank_equipment_2: "Char de Manœuvre Amphibie Modèle 1942"
-NFA_amphibious_tank_equipment_2_short: "CdMA-42"
-NFA_amphibious_tank_equipment_2_desc: "Der CdMA-42 wurde im Auftrag der französischen Armee entwickelt und ist in erster Linie ein amphibischer 'Panzerjäger', der mit einer 90-mm-Kanone bewaffnet ist. Unter dem Rumpf angebrachte hydraulische Skier sorgen für eine gute Manövrierfähigkeit in Sümpfen und verschneitem Gelände, während umlaufende Ballons dem Fahrzeug die Fähigkeit zum Schwimmen verleihen. Trotz einiger Mängel ist der CdMA-42 ein fähiger amphibischer Panzer mit guter Geschwindigkeit und Feuerkraft, der den CLA-SC im Dienst ablöste."
 
 ###
 ### NGF ###
@@ -10614,117 +9010,6 @@ TUR_rocket_artillery_equipment_1_short: "FH 58"
 TUR_rocket_artillery_equipment_2: "Fişek Havan Yapım 1361"
 TUR_rocket_artillery_equipment_2_short: "FH 61"
 
-#Tanks
-
-#MK V:
-TUR_gw_tank_equipment: "Zırhlı V"
-TUR_gw_tank_equipment_short: "Z-V"
-TUR_gw_tank_equipment_desc: "Während des Weltkriegs erbeutete die osmanische Armee die Panzer Mark V und FT und rüstete sie für den Einsatz um und nannte sie 'Zırhlı V' und 'MT-17'. Nach der Kapitulation der britischen Streitkräfte erhielt das Osmanische Reich eine große Anzahl von Mark V als Kriegsbeute. Der Z-V-Panzer war ein Hauptpanzer im osmanischen Panzerkorps. Obwohl fortschrittlichere Panzer die Z-Vs mit der Zeit ersetzten, werden sie von der Armee immer noch für die Ausbildung ihrer Panzerbesatzungen verwendet."
-TUR_light_tank_equipment_1: "Muharebe Tankı Kalıp 1352"
-TUR_light_tank_equipment_1_short: "MT-52 'Sekban'"
-TUR_light_tank_equipment_1_desc: "Das MT-52 Sekban-Projekt ist der erste Versuch, das osmanische Panzerkorps im Rahmen der Harb-i Yıldırım-Militärreformen zu reorganisieren und zu reformieren. Zu diesem Zweck erwarb das Osmanische Reich eine Lizenz für den deutschen Spähpanzer II und entwarf eine Produktionslinie, die von osmanischen Fabriken bedient werden konnte. Ursprünglich sollte der MT-52 die alten Z-Vs ersetzen, doch Feldtests zeigten, dass der MT-52 nicht mit der deutschen Produktion mithalten konnte. Dennoch wurde die Qualität des neuen Panzers als gut genug anerkannt."
-TUR_light_tank_equipment_2: "Muharebe Tankı Kalıp 1355"
-TUR_light_tank_equipment_2_short: "MT-55 'Beylik'"
-TUR_light_tank_equipment_2_desc: "Der MT-55 Beylik ist der zweite bedeutende Versuch, das osmanische Panzerkorps zu modernisieren. Die Fehler und Zuverlässigkeitsprobleme des MT-52 wurden größtenteils behoben, während mit Hilfe der deutschen Berater zusätzliche Änderungen an der Kanone, der Wanne und dem Motor vorgenommen wurden."
-TUR_light_tank_equipment_3: "I. Hafif Zırhlı Muharebe Vasıtası"
-TUR_light_tank_equipment_3_short: "I.HZMV 'Tatar'"
-TUR_light_tank_equipment_3_desc: "I. Hafif Zırhlı Muharebe Vasıtası 'Tatar' ist eine leichtere Variante des II. ZMV Uygur, die in der gleichen Zeit entwickelt wurde. Er wurde für Aufklärungs- und Flankierungszwecke auf der Basis des deutschen Sturmpanzerkampfwagens IV und anderer deutscher Panzer konzipiert, wobei die Erfahrungen aus der Entwicklung des MT-55 genutzt wurden."
-TUR_light_tank_artillery_equipment_1: "Hafif Seyyar Topçu Kalıp 1352"
-TUR_light_tank_artillery_equipment_1_short: "HST-52"
-TUR_light_tank_artillery_equipment_2: "Hafif Seyyar Topçu Kalıp 1355"
-TUR_light_tank_artillery_equipment_2_short: "HST-55"
-TUR_light_tank_artillery_equipment_3: "I. Hafif Seyyar Topçu"
-TUR_light_tank_artillery_equipment_3_short: "I.HST 'Osmaniye'"
-TUR_light_tank_destroyer_equipment_1: "Muharebe Tankı Kalıp 1352 Zırhsavar"
-TUR_light_tank_destroyer_equipment_1_short: "MT-52ZS"
-TUR_light_tank_destroyer_equipment_2: "Muharebe Tankı Kalıp 1355 Zırhsavar"
-TUR_light_tank_destroyer_equipment_2_short: "MT-55ZS"
-TUR_light_tank_destroyer_equipment_3: "I. Hafif Vasıtası Zırhsavar"
-TUR_light_tank_destroyer_equipment_3_short: "I.HVZS 'Sezercik'"
-TUR_light_tank_aa_equipment_1: "Muharebe Tankı Kalıp 1352 Uçaksavar"
-TUR_light_tank_aa_equipment_1_short: "MT-52US"
-TUR_light_tank_aa_equipment_2: "Muharebe Tankı Kalıp 1355 Uçaksavar"
-TUR_light_tank_aa_equipment_2_short: "MT-55US"
-TUR_light_tank_aa_equipment_3: "I. Hafif Motorlu Uçaksavar"
-TUR_light_tank_aa_equipment_3_short: "I.HMUS 'Tuva'"
-
-TUR_medium_tank_equipment_1: "I. Zırhlı Muharebe Vasıtası"
-TUR_medium_tank_equipment_1_short: "I.ZMV 'Uygur'"
-TUR_medium_tank_equipment_1_desc: "Der I. Zırhlı Muharebe Vasıtası (Erster gepanzerter Kampfwagen) 'Uygur' ist ein Panzer, der auf der Grundlage des deutschen Sturmpanzerkampfwagens IV zusammen mit der MT-Reihe entwickelt wurde. Er verfügt über eine dickere Wanne und hat im Vergleich zum MT-55 auch eine verbesserte Kanonen- und Panzerungskonstruktion. I. ZMV hat viele Varianten dank der Tatsache, dass sein Fahrgestell leicht aufrüstbar ist, wie von Kommissar Ömer Fahrettin Pascha gefordert, der wollte, dass sein Design und seine Teile einfach und leicht austauschbar sind."
-TUR_medium_tank_equipment_2: "II. Zırhlı Muharebe Vasıtası"
-TUR_medium_tank_equipment_2_short: "II.ZMV 'Kuman'"
-TUR_medium_tank_equipment_2_desc: "Der II. ZMV 'Kuman' ist eine aktualisierte Version des I. ZMV. Er wurde entwickelt, um den härtesten Bedingungen zu widerstehen und gleichzeitig eine angemessene Kampfeffizienz beizubehalten. Er verfügt über eine 7,7 cm ÇVT-Hauptbewaffnung und M1358-Koaxial-MGs. Experimentelle Schrägpanzerung und Panzerschürzen wurden ebenfalls eingeführt, um ankommende feindliche AT-Granaten abzuwehren."
-TUR_medium_tank_equipment_3: "III. Zırhlı Muharebe Vasıtası"
-TUR_medium_tank_equipment_3_short: "III.ZMV 'Altay'"
-TUR_medium_tank_equipment_3_desc: "Altay ist der allgemeine Name eines mittelschweren Panzers, der vom Osmanischen Reich während des Zweiten Weltkriegs und in der Spätphase des Zweiten Arabischen Aufstands entwickelt wurde. Er sollte die Panzerproduktion standardisieren und als Ersatz für den I. ZMV und II. ZMV. Obwohl er zu komplex konstruiert ist, um sie auf den Schlachtfeldern zu ersetzen, fand der Altay-Panzer schnell eine Nische in der Kampftaktik des osmanischen Militärs. Die Deutschen nannten den Altay-Panzer "Clausewitz Pascha", weil sein Design stark vom deutschen Panzerkampfwagen V von Clausewitz beeinflusst war."
-TUR_medium_tank_artillery_equipment_1: "I. Kendinden Tahrikli Top"
-TUR_medium_tank_artillery_equipment_1_short: "I.KTT 'Cihadiye'"
-TUR_medium_tank_artillery_equipment_1_desc: "I. Kendinden Tahrikli Top 'Cihadiye' ist eine selbstfahrende 125-mm-Kanone auf einem I. ZMV-Fahrgestell. Die I. ZKMT SPG verfügt über eine beachtliche Feuerkraft und ist dennoch recht mobil."
-TUR_medium_tank_artillery_equipment_2: "II. Kendinden Tahrikli Top"
-TUR_medium_tank_artillery_equipment_2_short: "II.KTT 'Mehmediye'"
-TUR_medium_tank_artillery_equipment_2_desc: "Mehmediye ist ein SPG mit einer verbesserten 128-mm-Kanone auf dem II. ZMV-Fahrgestell. Die Produktion begann in der Frühphase des arabischen Aufstands."
-TUR_medium_tank_artillery_equipment_3: "III. Kendinden Tahrikli Top"
-TUR_medium_tank_artillery_equipment_3_short: "III.KTT 'Hamidiye'"
-TUR_medium_tank_artillery_equipment_3_desc: "Hamidiye ist ein Prototyp eines mittelschweren Panzerabwehrsystems auf dem Fahrgestell eines Altay-Panzers, ein fortschrittliches mittelschweres Panzerabwehrsystem mit guter Reichweite und Feuerkraft. Aufgrund der Komplexität seiner Konstruktion musste das Altay-Projekt jedoch zusammen mit den anderen Varianten aufgegeben werden."
-TUR_medium_tank_destroyer_equipment_1: "I. Motorlu Zırhsavar"
-TUR_medium_tank_destroyer_equipment_1_short: "I.MZS 'Tevfik'"
-TUR_medium_tank_destroyer_equipment_2: "II. Motorlu Zırhsavar"
-TUR_medium_tank_destroyer_equipment_2_short: "II.MZS 'Kemal'"
-TUR_medium_tank_destroyer_equipment_3: "III. Motorlu Zırhsavar"
-TUR_medium_tank_destroyer_equipment_3_short: "III.MZS 'Selçuk'"
-TUR_medium_tank_aa_equipment_1: "I. Motorlu Tayyare Topu"
-TUR_medium_tank_aa_equipment_1_short: "I.MTT Yörük"
-TUR_medium_tank_aa_equipment_1_desc: "I. Motorlu Tayyare Topu Yörük ist ein mittleres SPAA, das während der Militärreformen von Harb-i Yıldırım entwickelt wurde. Es sollte gepanzerte Angriffsbataillone gegen ankommende feindliche Flugzeuge eskortieren und bei Bedarf auch Feuerunterstützung für die eigenen Truppen leisten."
-TUR_medium_tank_aa_equipment_2: "II. Motorlu Tayyare Topu"
-TUR_medium_tank_aa_equipment_2_short: "II.MTT 'Çerkez'"
-TUR_medium_tank_aa_equipment_2_desc: "Çerkez ist eine mobile Luftabwehrartillerie, die auf einem II. ZMV-Fahrgestell. Seine Hauptbewaffnung besteht aus vier 30-mm-Kuşçu-Luftabwehrkanonen auf offenem Turm und M35 als Koaxial-MG."
-TUR_medium_tank_aa_equipment_3: "III. Motorlu Tayyare Topu"
-TUR_medium_tank_aa_equipment_3_short: "III.MTT 'Türkmen'"
-TUR_medium_tank_aa_equipment_3_desc: "Prototyp der SP-Luftabwehrartillerie, die im Rahmen des Altay-Projekts entwickelt wurde. Das Projekt selbst musste jedoch aufgrund seiner kostspieligen und komplexen Konstruktion abgebrochen werden."
-
-TUR_heavy_tank_equipment_1: "Ağır Vasıta Kalıp 1341"
-TUR_heavy_tank_equipment_1_short: "AV-41 'Gazi'"
-TUR_heavy_tank_equipment_2: "II. Ağır Zırhlı Muharebe Vasıtası"
-TUR_heavy_tank_equipment_2_short: "II.AZMV 'Arslan'"
-TUR_heavy_tank_equipment_3: "III. Ağır Zırhlı Muharebe Vasıtası"
-TUR_heavy_tank_equipment_3_short: "III.AZMV 'Azap'"
-TUR_heavy_tank_artillery_equipment_1: "Ağır Seyyar Topçu Kalıp 1341"
-TUR_heavy_tank_artillery_equipment_1_short: "AST-41"
-TUR_heavy_tank_artillery_equipment_2: "II. Ağır Seyyar Topçu"
-TUR_heavy_tank_artillery_equipment_2_short: "II.AST"
-TUR_heavy_tank_artillery_equipment_3: "III. Ağır Seyyar Topçu"
-TUR_heavy_tank_artillery_equipment_3_short: "III.AST"
-TUR_heavy_tank_destroyer_equipment_1: "Ağır Vasıta Kalıp 1341 Zırhsavar"
-TUR_heavy_tank_destroyer_equipment_1_short: "AV-41ZS"
-TUR_heavy_tank_destroyer_equipment_2: "II. Ağır Motorlu Zırhsavar"
-TUR_heavy_tank_destroyer_equipment_2_short: "II.AMZS"
-TUR_heavy_tank_destroyer_equipment_3: "III. Ağır Motorlu Zırhsavar"
-TUR_heavy_tank_destroyer_equipment_3_short: "III.AMZS"
-TUR_heavy_tank_aa_equipment_1: "Ağır Vasıta Kalıp 1341 Uçaksavar"
-TUR_heavy_tank_aa_equipment_1_short: "AV-41US"
-TUR_heavy_tank_aa_equipment_2: "II. Ağır Motorlu Uçaksavar"
-TUR_heavy_tank_aa_equipment_2_short: "II.AMUS"
-TUR_heavy_tank_aa_equipment_3: "III. Ağır Motorlu Uçaksavar"
-TUR_heavy_tank_aa_equipment_3_short: "III.AMUS"
-
-TUR_super_heavy_tank_equipment_1: "I. Aşırı Ağır Zırhlı Muharebe Vasıtası"
-TUR_super_heavy_tank_equipment_1_short: "I.AAZMV 'Sangal'"
-TUR_super_heavy_tank_artillery_equipment_1: "I. Aşırı Ağır Seyyar Topçu'"
-TUR_super_heavy_tank_artillery_equipment_1_short: "I.AAST 'Şahi'"
-TUR_super_heavy_tank_destroyer_equipment_1: "I. Aşırı Ağır Motorlu Zırhsavar"
-TUR_super_heavy_tank_destroyer_equipment_1_short: "I.AAMZS 'Tepegöz'"
-TUR_super_heavy_tank_aa_equipment_1: "I. Aşırı Ağır Motorlu Uçaksavar"
-TUR_super_heavy_tank_aa_equipment_1_short: "I.AAMUS 'Kumay'"
-TUR_modern_tank_equipment_1: "IV. Zırhlı Muharebe Vasıtası"
-TUR_modern_tank_equipment_1_short: "IV.ZMV 'Altınorda'"
-TUR_modern_tank_artillery_equipment_1: "IV. Kendinden Tahrikli Top"
-TUR_modern_tank_artillery_equipment_1_short: "IV.KTT 'Altınsapan'"
-TUR_modern_tank_destroyer_equipment_1: "IV. Zırhlı Motorlu Zırhsavar"
-TUR_modern_tank_destroyer_equipment_1_short: "IV.ZMZS 'Altınmızrak'"
-TUR_modern_tank_destroyer_equipment_1_desc: "Als aktualisierte Version des III. ZMZS 'Selçuk', der Altınmızrak ist schneller und besser gepanzert"
-TUR_modern_tank_aa_equipment_1: "IV. Zırhlı Motorlu Uçaksavar"
-TUR_modern_tank_aa_equipment_1_short: "IV.ZMUS 'Altınok'"
-
 ###
 ### Palestine ###
 ###
@@ -10855,117 +9140,6 @@ PAL_rocket_artillery_equipment_1_short: "$TUR_rocket_artillery_equipment_1_short
 PAL_rocket_artillery_equipment_2: "$TUR_rocket_artillery_equipment_2$"
 PAL_rocket_artillery_equipment_2_short: "$TUR_rocket_artillery_equipment_2_short$"
 
-#Tanks
-
-#MK V:
-PAL_gw_tank_equipment: "$TUR_gw_tank_equipment$"
-PAL_gw_tank_equipment_short: "$TUR_gw_tank_equipment_short$"
-PAL_gw_tank_equipment_desc: "$TUR_gw_tank_equipment_desc$"
-PAL_light_tank_equipment_1: "$TUR_light_tank_equipment_1$"
-PAL_light_tank_equipment_1_short: "$TUR_light_tank_equipment_1_short$"
-PAL_light_tank_equipment_1_desc: "$TUR_light_tank_equipment_1_desc$"
-PAL_light_tank_equipment_2: "$TUR_light_tank_equipment_2$"
-PAL_light_tank_equipment_2_short: "$TUR_light_tank_equipment_2_short$"
-PAL_light_tank_equipment_2_desc: "$TUR_light_tank_equipment_2_desc$"
-PAL_light_tank_equipment_3: "$TUR_light_tank_equipment_3$"
-PAL_light_tank_equipment_3_short: "$TUR_light_tank_equipment_3_short$"
-PAL_light_tank_equipment_3_desc: "$TUR_light_tank_equipment_3_desc$"
-PAL_light_tank_artillery_equipment_1: "$TUR_light_tank_artillery_equipment_1$"
-PAL_light_tank_artillery_equipment_1_short: "$TUR_light_tank_artillery_equipment_1_short$"
-PAL_light_tank_artillery_equipment_2: "$TUR_light_tank_artillery_equipment_2$"
-PAL_light_tank_artillery_equipment_2_short: "$TUR_light_tank_artillery_equipment_2_short$"
-PAL_light_tank_artillery_equipment_3: "$TUR_light_tank_artillery_equipment_3$"
-PAL_light_tank_artillery_equipment_3_short: "$TUR_light_tank_artillery_equipment_3_short$"
-PAL_light_tank_destroyer_equipment_1: "$TUR_light_tank_destroyer_equipment_1$"
-PAL_light_tank_destroyer_equipment_1_short: "$TUR_light_tank_destroyer_equipment_1_short$"
-PAL_light_tank_destroyer_equipment_2: "$TUR_light_tank_destroyer_equipment_2$"
-PAL_light_tank_destroyer_equipment_2_short: "$TUR_light_tank_destroyer_equipment_2_short$"
-PAL_light_tank_destroyer_equipment_3: "$TUR_light_tank_destroyer_equipment_3$"
-PAL_light_tank_destroyer_equipment_3_short: "$TUR_light_tank_destroyer_equipment_3_short$"
-PAL_light_tank_aa_equipment_1: "$TUR_light_tank_aa_equipment_1$"
-PAL_light_tank_aa_equipment_1_short: "$TUR_light_tank_aa_equipment_1_short$"
-PAL_light_tank_aa_equipment_2: "$TUR_light_tank_aa_equipment_2$"
-PAL_light_tank_aa_equipment_2_short: "$TUR_light_tank_aa_equipment_2_short$"
-PAL_light_tank_aa_equipment_3: "$TUR_light_tank_aa_equipment_3$"
-PAL_light_tank_aa_equipment_3_short: "$TUR_light_tank_aa_equipment_3_short$"
-
-PAL_medium_tank_equipment_1: "$TUR_medium_tank_equipment_1$"
-PAL_medium_tank_equipment_1_short: "$TUR_medium_tank_equipment_1_short$"
-PAL_medium_tank_equipment_1_desc: "$TUR_medium_tank_equipment_1_desc$"
-PAL_medium_tank_equipment_2: "$TUR_medium_tank_equipment_2$"
-PAL_medium_tank_equipment_2_short: "$TUR_medium_tank_equipment_2_short$"
-PAL_medium_tank_equipment_2_desc: "$TUR_medium_tank_equipment_2_desc$"
-PAL_medium_tank_equipment_3: "$TUR_medium_tank_equipment_3$"
-PAL_medium_tank_equipment_3_short: "$TUR_medium_tank_equipment_3_short$"
-PAL_medium_tank_equipment_3_desc: "$TUR_medium_tank_equipment_3_desc$"
-PAL_medium_tank_artillery_equipment_1: "$TUR_medium_tank_artillery_equipment_1$"
-PAL_medium_tank_artillery_equipment_1_short: "$TUR_medium_tank_artillery_equipment_1_short$"
-PAL_medium_tank_artillery_equipment_1_desc: "$TUR_medium_tank_artillery_equipment_1_desc$"
-PAL_medium_tank_artillery_equipment_2: "$TUR_medium_tank_artillery_equipment_2$"
-PAL_medium_tank_artillery_equipment_2_short: "$TUR_medium_tank_artillery_equipment_2_short$"
-PAL_medium_tank_artillery_equipment_2_desc: "$TUR_medium_tank_artillery_equipment_2_desc$"
-PAL_medium_tank_artillery_equipment_3: "$TUR_medium_tank_artillery_equipment_3$"
-PAL_medium_tank_artillery_equipment_3_short: "$TUR_medium_tank_artillery_equipment_3_short$"
-PAL_medium_tank_artillery_equipment_3_desc: "$TUR_medium_tank_artillery_equipment_3_desc$"
-PAL_medium_tank_destroyer_equipment_1: "$TUR_medium_tank_destroyer_equipment_1$"
-PAL_medium_tank_destroyer_equipment_1_short: "$TUR_medium_tank_destroyer_equipment_1_short$"
-PAL_medium_tank_destroyer_equipment_2: "$TUR_medium_tank_destroyer_equipment_2$"
-PAL_medium_tank_destroyer_equipment_2_short: "$TUR_medium_tank_destroyer_equipment_2_short$"
-PAL_medium_tank_destroyer_equipment_3: "$TUR_medium_tank_destroyer_equipment_3$"
-PAL_medium_tank_destroyer_equipment_3_short: "$TUR_medium_tank_destroyer_equipment_3_short$"
-PAL_medium_tank_aa_equipment_1: "$TUR_medium_tank_aa_equipment_1$"
-PAL_medium_tank_aa_equipment_1_short: "$TUR_medium_tank_aa_equipment_1_short$"
-PAL_medium_tank_aa_equipment_1_desc: "$TUR_medium_tank_aa_equipment_1_desc$"
-PAL_medium_tank_aa_equipment_2: "$TUR_medium_tank_aa_equipment_2$"
-PAL_medium_tank_aa_equipment_2_short: "$TUR_medium_tank_aa_equipment_2_short$"
-PAL_medium_tank_aa_equipment_2_desc: "$TUR_medium_tank_aa_equipment_2_desc$"
-PAL_medium_tank_aa_equipment_3: "$TUR_medium_tank_aa_equipment_3$"
-PAL_medium_tank_aa_equipment_3_short: "$TUR_medium_tank_aa_equipment_3_short$"
-PAL_medium_tank_aa_equipment_3_desc: "$TUR_medium_tank_aa_equipment_3_desc$"
-
-PAL_heavy_tank_equipment_1: "$TUR_heavy_tank_equipment_1$"
-PAL_heavy_tank_equipment_1_short: "$TUR_heavy_tank_equipment_1_short$"
-PAL_heavy_tank_equipment_2: "$TUR_heavy_tank_equipment_2$"
-PAL_heavy_tank_equipment_2_short: "$TUR_heavy_tank_equipment_2_short$"
-PAL_heavy_tank_equipment_3: "$TUR_heavy_tank_equipment_3$"
-PAL_heavy_tank_equipment_3_short: "$TUR_heavy_tank_equipment_3_short$"
-PAL_heavy_tank_artillery_equipment_1: "$TUR_heavy_tank_artillery_equipment_1$"
-PAL_heavy_tank_artillery_equipment_1_short: "$TUR_heavy_tank_artillery_equipment_1_short$"
-PAL_heavy_tank_artillery_equipment_2: "$TUR_heavy_tank_artillery_equipment_2$"
-PAL_heavy_tank_artillery_equipment_2_short: "$TUR_heavy_tank_artillery_equipment_2_short$"
-PAL_heavy_tank_artillery_equipment_3: "$TUR_heavy_tank_artillery_equipment_3$"
-PAL_heavy_tank_artillery_equipment_3_short: "$TUR_heavy_tank_artillery_equipment_3_short$"
-PAL_heavy_tank_destroyer_equipment_1: "$TUR_heavy_tank_destroyer_equipment_1$"
-PAL_heavy_tank_destroyer_equipment_1_short: "$TUR_heavy_tank_destroyer_equipment_1_short$"
-PAL_heavy_tank_destroyer_equipment_2: "$TUR_heavy_tank_destroyer_equipment_2$"
-PAL_heavy_tank_destroyer_equipment_2_short: "$TUR_heavy_tank_destroyer_equipment_2_short$"
-PAL_heavy_tank_destroyer_equipment_3: "$TUR_heavy_tank_destroyer_equipment_3$"
-PAL_heavy_tank_destroyer_equipment_3_short: "$TUR_heavy_tank_destroyer_equipment_3_short$"
-PAL_heavy_tank_aa_equipment_1: "$TUR_heavy_tank_aa_equipment_1$"
-PAL_heavy_tank_aa_equipment_1_short: "$TUR_heavy_tank_aa_equipment_1_short$"
-PAL_heavy_tank_aa_equipment_2: "$TUR_heavy_tank_aa_equipment_2$"
-PAL_heavy_tank_aa_equipment_2_short: "$TUR_heavy_tank_aa_equipment_2_short$"
-PAL_heavy_tank_aa_equipment_3: "$TUR_heavy_tank_aa_equipment_3$"
-PAL_heavy_tank_aa_equipment_3_short: "$TUR_heavy_tank_aa_equipment_3_short$"
-
-PAL_super_heavy_tank_equipment_1: "$TUR_super_heavy_tank_equipment_1$"
-PAL_super_heavy_tank_equipment_1_short: "$TUR_super_heavy_tank_equipment_1_short$"
-PAL_super_heavy_tank_artillery_equipment_1: "$TUR_super_heavy_tank_artillery_equipment_1$"
-PAL_super_heavy_tank_artillery_equipment_1_short: "$TUR_super_heavy_tank_artillery_equipment_1_short$"
-PAL_super_heavy_tank_destroyer_equipment_1: "$TUR_super_heavy_tank_destroyer_equipment_1$"
-PAL_super_heavy_tank_destroyer_equipment_1_short: "$TUR_super_heavy_tank_destroyer_equipment_1_short$"
-PAL_super_heavy_tank_aa_equipment_1: "$TUR_super_heavy_tank_aa_equipment_1$"
-PAL_super_heavy_tank_aa_equipment_1_short: "$TUR_super_heavy_tank_aa_equipment_1_short$"
-PAL_modern_tank_equipment_1: "$TUR_modern_tank_equipment_1$"
-PAL_modern_tank_equipment_1_short: "$TUR_modern_tank_equipment_1_short$"
-PAL_modern_tank_artillery_equipment_1: "$TUR_modern_tank_artillery_equipment_1$"
-PAL_modern_tank_artillery_equipment_1_short: "$TUR_modern_tank_artillery_equipment_1_short$"
-PAL_modern_tank_destroyer_equipment_1: "$TUR_modern_tank_destroyer_equipment_1$"
-PAL_modern_tank_destroyer_equipment_1_short: "$TUR_modern_tank_destroyer_equipment_1_short$"
-PAL_modern_tank_destroyer_equipment_1_desc: "$TUR_modern_tank_destroyer_equipment_1_desc$"
-PAL_modern_tank_aa_equipment_1: "$TUR_modern_tank_aa_equipment_1$"
-PAL_modern_tank_aa_equipment_1_short: "$TUR_modern_tank_aa_equipment_1_short$"
-
 ###
 ### Panama ###
 ###
@@ -10999,6 +9173,34 @@ PAP_infantry_equipment_1_short: "Mauser 98b"
 PAP_infantry_equipment_2: "SME M38"
 PAP_infantry_equipment_2_short: "SME M38"
 PAP_infantry_equipment_2_desc: "Nach der Ablehnung ihres halbautomatischen Gewehrs nach dem Muster von 1938 versuchte die Firma CZ, die Konstruktion an eine Reihe ausländischer Nationen zu vermarkten. Die Beiden Sizilien testeten das Gewehr und stellten ebenso wie die Österreicher fest, dass das Gewehr unter harten Bedingungen unzuverlässig und schwer zu zerlegen war, bemühten sich aber um eine Neukonstruktion, um die Mängel zu beheben. Das staatliche Elektrounternehmen SME, das erst wenige Jahre zuvor mit der Herstellung und Entwicklung von Handfeuerwaffen begonnen hatte, wurde mit dieser Aufgabe betraut. Das Endergebnis, das nach seiner Einführung als SME M38 bezeichnet wurde, war zwar besser als sein tschechisches Vorgängermodell, wies aber immer noch viele dessen Konstruktionsmängel auf."
+
+#Artillery
+
+PAP_artillery_equipment_1: "Cannone da 75/27 modello 06"
+PAP_artillery_equipment_1_short: "Cannone da 75/27"
+PAP_artillery_equipment_2: "Cannone da 149/40 modello 35"
+PAP_artillery_equipment_2_short: "Cannone da 149/40"
+PAP_artillery_equipment_3: "Obice da 210/22 modello 35"
+PAP_artillery_equipment_3_short: "Obice da 210/22"
+
+PAP_anti_tank_equipment_1: "Cannone da 47/32"
+PAP_anti_tank_equipment_1_short: "Cannone da 47/32"
+PAP_anti_tank_equipment_2: "Cannone da 75/46"
+PAP_anti_tank_equipment_2_short: "Cannone da 75/46"
+PAP_anti_tank_equipment_3: "Cannone da 90/65"
+PAP_anti_tank_equipment_3_short: "Cannone da 90/65"
+
+PAP_anti_air_equipment_1: "Breda Modello 35"
+PAP_anti_air_equipment_1_short: "Breda Modello 35"
+PAP_anti_air_equipment_2: "Cannone-Mitragliera da 37/54"
+PAP_anti_air_equipment_2_short: "Cannone da 37/54"
+PAP_anti_air_equipment_3: "Cannone da 90/53"
+PAP_anti_air_equipment_3_short: "Cannone da 90/53"
+
+PAP_rocket_artillery_equipment_1: "Lanciarazzi da 100/16"
+PAP_rocket_artillery_equipment_1_short: "Lanciarazzi da 100/16"
+PAP_rocket_artillery_equipment_2: "Lanciarazzi da 210/16"
+PAP_rocket_artillery_equipment_2_short: "Lanciarazzi da 210/16"
 
 #Railway
 PAP_train_equipment_1: "FS Gruppo 740"
@@ -11203,47 +9405,6 @@ POL_train_equipment_1: "PKP class Ok1"
 POL_train_equipment_2: "PKP class Pm36"
 POL_train_equipment_3: "PKP class Ty2"
 POL_railway_gun_equipment_1: "Pociąg Pancerny"
-
-#Tank
-
-POL_gw_tank_equipment: "Renault FT"
-POL_gw_tank_equipment_short: "Renault FT"
-POL_light_tank_equipment_1: "TKS"
-POL_light_tank_equipment_1_short: "TKS"
-POL_light_tank_destroyer_equipment_1: "TKS-NKM/20 mm"
-POL_light_tank_destroyer_equipment_1_short: "NKM"
-POL_light_tank_artillery_equipment_1: "TKD"
-POL_light_tank_artillery_equipment_1_short: "TKD"
-POL_light_tank_equipment_2: "8TP"
-POL_light_tank_equipment_2_short: "8TP"
-POL_light_tank_destroyer_equipment_2: "PZInż.160"
-POL_light_tank_destroyer_equipment_2_short: "PZInż.160"
-POL_light_tank_equipment_3: "9TP Chart"
-POL_light_tank_equipment_3_short: "9TP"
-
-POL_medium_tank_equipment_1: "10TP"
-POL_medium_tank_equipment_1_short: "10TP"
-POL_medium_tank_equipment_2: "14TP"
-POL_medium_tank_equipment_2_short: "14TP"
-POL_medium_tank_equipment_3: "41TP Husarz"
-POL_medium_tank_equipment_3_short: "Husarz"
-
-POL_heavy_tank_equipment_1: "25TP"
-POL_heavy_tank_equipment_1_short: "25TP"
-POL_heavy_tank_equipment_2: "32TP"
-POL_heavy_tank_equipment_2_short: "32TP"
-POL_heavy_tank_equipment_3: "53TP Markowskiego"
-POL_heavy_tank_equipment_3_short: "53TP"
-
-POL_super_heavy_tank_equipment_1: "220TP Lem"
-POL_super_heavy_tank_equipment_1_short: "220TP"
-POL_modern_tank_equipment_1: "57TP Ułan"
-POL_modern_tank_equipment_1_short: "Ułan"
-
-POL_amphibious_tank_equipment_1: "PZInż.130"
-POL_amphibious_tank_equipment_1_short: "PZInż.130"
-POL_amphibious_tank_equipment_2: "Pawel Chrobok III"
-POL_amphibious_tank_equipment_2_short: "Pawel Chrobok III"
 
 ###
 ### Portugal ###
@@ -11636,82 +9797,6 @@ ROM_rocket_artillery_equipment_1_short: "132mm Md. 1940"
 ROM_rocket_artillery_equipment_2: "Aruncător de proiectile reactive, 302mm, model 1943, UDR"
 ROM_rocket_artillery_equipment_2_short: "302mm Md. 1943"
 
-#Tanks
-
-#FT-17:
-ROM_gw_tank_equipment: "Tanc 'FT', model 1917, Renault"
-ROM_gw_tank_equipment_short: "FT"
-
-#R-1:
-ROM_light_tank_equipment_1: "Tanc 'R-1', model 1935, ČKD-Malaxa"
-ROM_light_tank_equipment_1_short: "R-1"
-#Combined R-1 and VCR-35:
-ROM_light_tank_destroyer_equipment_1: "Vânătorul de care 'R-35', model 1935, Leonida"
-ROM_light_tank_destroyer_equipment_1_short: "VCR-35" 
-#R-2:
-ROM_light_tank_equipment_2: "Tanc 'R-2', model 1936, ČKD-Malaxa"
-ROM_light_tank_equipment_2_short: "R-2"
-#TACAM R-2:
-ROM_light_tank_destroyer_equipment_2: "Tun Anticar pe Afet Mobil 'R-2', model 1939, Leonida"
-ROM_light_tank_destroyer_equipment_2_short: "TACAM R-2" 
-#Modified Light tank 2
-ROM_light_tank_equipment_3: "Tanc, model 1940, Leonida"
-ROM_light_tank_equipment_3_short: "T-40"
-#TACAM T-60:
-ROM_light_tank_destroyer_equipment_3: "Tun Anticar pe Afet Mobil 'T-60', model 1942, Leonida"
-ROM_light_tank_destroyer_equipment_3_short: "TACAM T-60" 
-#Mareşal M-00:
-ROM_light_tank_artillery_equipment_3: "Vânătorul de tancuri Maresal 'M-00', model 1942, Malaxa"
-ROM_light_tank_artillery_equipment_3_short: "VTM-00"
-
-##Modified Heavy tank 1
-ROM_medium_tank_equipment_1: "Tanc, model 1939, CFR"
-ROM_medium_tank_equipment_1_short: "T-39"
-#TACAM T-38
-ROM_medium_tank_destroyer_equipment_1: "Tun Anticar pe Afet Mobil 'T-38', model 1939, Leonida"
-ROM_medium_tank_destroyer_equipment_1_short: "TACAM T-38" 
-#Mareşal M-03
-ROM_medium_tank_artillery_equipment_1: "Vânătorul de tancuri Maresal 'M-03', model 1942, Malaxa"
-ROM_medium_tank_artillery_equipment_1_short: "VTM-03"
-#Russian Medium Tank 2 Need to replace later
-ROM_medium_tank_equipment_2: "Tanc 'T-43', model 1941, CFR"
-ROM_medium_tank_equipment_2_short: "T-43"
-#Mareşal M-05
-ROM_medium_tank_destroyer_equipment_2: "Vânătorul de tancuri Maresal 'M-05', model 1942, Malaxa"
-ROM_medium_tank_destroyer_equipment_2_short: "VTM-05"
-#Russian Medium Tank 3
-ROM_medium_tank_equipment_3: "Tanc 'T-43-2', model 1943, CFR"
-ROM_medium_tank_equipment_3_short: "T-43-2"
-#Mareşal M-06
-ROM_medium_tank_destroyer_equipment_3: "Vânătorul de tancuri Maresal 'M-06', model 1944, Malaxa"
-ROM_medium_tank_destroyer_equipment_3_short: "VTM-06"
-
-#Skoda S-III:
-ROM_heavy_tank_equipment_1: "Tanc 'R-3', model 1936, Škoda-Malaxa"
-ROM_heavy_tank_equipment_1_short: "R-3"
-#RUS Heavy Tank 2:
-ROM_heavy_tank_equipment_2: "Tanc 'T-85', model 1941, CFR"
-ROM_heavy_tank_equipment_2_short: "T-85"
-#RUS Heavy Tank 3:
-ROM_heavy_tank_equipment_3: "Tanc 'T-120', model 1943, CFR"
-ROM_heavy_tank_equipment_3_short: "T-120"
-
-#RUS modern tank:
-ROM_modern_tank_equipment_1: "Tanc 'T-45', model 1945, CFR"
-ROM_modern_tank_equipment_1_short: "T-45"
-
-#RUS Super Heavy Tank:
-ROM_super_heavy_tank_equipment_1: "Tanc 'T-107', model 1942, Malaxa"
-ROM_super_heavy_tank_equipment_1_short: "T-107"
-
-#Amphibious
-#Russian Amtank 1
-ROM_amphibious_tank_equipment_1: "Tanc 'T-40', model 1940, Leonida"
-ROM_amphibious_tank_equipment_1_short: "T-40"
-#Russian Amtank 2 
-ROM_amphibious_tank_equipment_2: "Tanc 'PT-20', model 1943, CFR"
-ROM_amphibious_tank_equipment_2_short: "PT-20"
-
 ###
 ### Russia ###
 ###
@@ -11774,10 +9859,6 @@ RUS_amphibious_mechanized_equipment_1_short: "PB-2"
 RUS_amphibious_mechanized_equipment_2: "Plavayushchiy Bronetransportyer obr.1943"
 RUS_amphibious_mechanized_equipment_2_short: "PB-43"
 
-#Amphibious
-RUS_amphibious_tank_equipment_1: "T-40"
-RUS_amphibious_tank_equipment_2: "PT-20"
-
 #Armoured Car
 RUS_gw_armored_car_equipment: "Bronevoy Avtomobil obr.27"
 RUS_gw_armored_car_equipment_short: "BA-27"
@@ -11834,38 +9915,6 @@ RUS_rocket_artillery_equipment_1: "132mm M-8-24"
 RUS_rocket_artillery_equipment_1_short: "132mm M-8-24"
 RUS_rocket_artillery_equipment_2: "302mm M-20-12"
 RUS_rocket_artillery_equipment_2_short: "302mm M-20-12"
-
-#Tanks
-
-RUS_gw_tank_equipment: "Putilov T-19"
-RUS_gw_tank_equipment_short: "T-19"
-
-RUS_light_tank_equipment_1: "Obukhov T-26"
-RUS_light_tank_equipment_1_short: "T-26"
-RUS_light_tank_equipment_2: "AMO BT-10"
-RUS_light_tank_equipment_2_short: "BT-10"
-RUS_light_tank_equipment_3: "AMO BT-20"
-RUS_light_tank_equipment_3_short: "BT-20"
-
-RUS_medium_tank_equipment_1: "Putilov T-28"
-RUS_medium_tank_equipment_1_short: "T-28"
-RUS_medium_tank_equipment_2: "Obukhov T-43"
-RUS_medium_tank_equipment_2_short: "T-43"
-RUS_medium_tank_equipment_3: "Obukhov T-43-2"
-RUS_medium_tank_equipment_3_short: "T-43-2"
-
-RUS_heavy_tank_equipment_1: "Putilov T-76"
-RUS_heavy_tank_equipment_1_short: "T-76"
-RUS_heavy_tank_equipment_2: "ChTZ T-85"
-RUS_heavy_tank_equipment_2_short: "T-85"
-RUS_heavy_tank_equipment_3: "ChTZ T-120"
-RUS_heavy_tank_equipment_3_short: "T-120"
-
-RUS_modern_tank_equipment_1: "Obukhov T-45"
-RUS_modern_tank_equipment_1_short: "T-45"
-
-RUS_super_heavy_tank_equipment_1: "Putilov T-107"
-RUS_super_heavy_tank_equipment_1_short: "T-107"
 
 ###
 ### Rwanda ###
@@ -12308,9 +10357,6 @@ SEN_infantry_equipment_0: "Fusil Lebel Modèle 1886 M93"
 SEN_infantry_equipment_0_short: "Lebel Mle M93"
 SEN_support_weapons: "Darne M1919 & Stokes mortar"
 
-SEN_gw_tank_equipment: "Renault FT"
-SEN_gw_tank_equipment_short: "FT"
-
 ###
 ### Serbia ###
 ###
@@ -12438,58 +10484,6 @@ SER_rocket_artillery_equipment_1_short: "LR 128 mm M. 8"
 #Russian M-20-12:
 SER_rocket_artillery_equipment_2: "Lanser raketa 302 mm Model 20"
 SER_rocket_artillery_equipment_2_short: "LR 302 mm M. 20"
-
-#Tanks
-
-#FT-27
-SER_gw_tank_equipment: "Ratna kola Model 1927"
-SER_gw_tank_equipment_short: "RK M.1927"
-
-#Russian Light Tank 1 Need to replace later
-SER_light_tank_equipment_1: "Pokretan kola Model 1926"
-SER_light_tank_equipment_1_short: "PK M. 1926"
-#Russian Light Tank 2 Need to replace later
-SER_light_tank_equipment_2: "Pokretan kola Model 1935"
-SER_light_tank_equipment_2_short: "PK M. 1935"
-#Russian Light Tank 3 Need to replace later
-SER_light_tank_equipment_3: "Pokretan kola Model 1939"
-SER_light_tank_equipment_3_short: "PK M. 1939"
-
-#Russian Medium Tank 1 Need to replace later
-SER_medium_tank_equipment_1: "Ratna kola Model 1933"
-SER_medium_tank_equipment_1_short: "RK M. 1933"
-#Russian Medium Tank 2 Need to replace later
-SER_medium_tank_equipment_2: "Ratna kola Model 1942"
-SER_medium_tank_equipment_2_short: "RK M. 1942"
-#French Medium Tank 3
-SER_medium_tank_equipment_3: "Ratna kola Model 1943"
-SER_medium_tank_equipment_3_short: "RK-43"
-
-#French Heavy Tank 1
-SER_heavy_tank_equipment_1: "Jurišna kola Model 1934"
-SER_heavy_tank_equipment_1_short: "JK M. 1934"
-#French Heavy Tank 2
-SER_heavy_tank_equipment_2: "Jurišna kola Model 1941"
-SER_heavy_tank_equipment_2_short: "JK M. 1941"
-#French Heavy Tank 3
-SER_heavy_tank_equipment_3: "Jurišna kola Model 1943"
-SER_heavy_tank_equipment_3_short: "JK-43"
-
-#Tenk borbeno vozilo A
-SER_modern_tank_equipment_1: "Tenk borbeno vozilo Model 1945"
-SER_modern_tank_equipment_1_short: "TBV-45"
-
-#French Super Heavy Tank
-SER_super_heavy_tank_equipment_1: "Jurišna kola Model 1942"
-SER_super_heavy_tank_equipment_1_short: "JK-42"
-
-#Amphibious
-#Russian Amtank 1
-SER_amphibious_tank_equipment_1: "Plutajuca kola Model 1940"
-SER_amphibious_tank_equipment_1_short: "PK M. 1940"
-#Russian Amtank 2 
-SER_amphibious_tank_equipment_2: "Plutajuca kola Model 1943"
-SER_amphibious_tank_equipment_2_short: "PK-43"
 
 ###
 ### Shan ###
@@ -12715,6 +10709,34 @@ SIC_infantry_equipment_2_desc: "Nach der Ablehnung ihres halbautomatischen Geweh
 SIC_infantry_equipment_3: "Selbstladegewehr Modell 40"
 SIC_infantry_equipment_3_short: "S.G. 40"
 SIC_infantry_equipment_3_desc: "Das Selbstladegewehr 40 wurde von der Firma Mauser als Antwort auf den Wunsch des deutschen Heeres nach einem Selbstladegewehr mit Repetierverschluss entwickelt und stellt einen großen Fortschritt in der deutschen Kleinwaffenkonstruktion dar. Während die ersten Prototypen sehr ungenau, schwer und anfällig für Ladehemmungen waren, ließ das deutsche Heer schließlich einige seiner anderen spezifischen Anforderungen an das Gewehr fallen. Das Endergebnis war der ursprüngliche Prototyp mit nur wenigen Konstruktionsänderungen, und er erwies sich als effektiv. Als Reaktion auf die wachsenden Spannungen auf der italienischen Halbinsel wurde eine große Anzahl dieser Gewehre an die sizilianischen Streitkräfte geliefert."
+
+#Artillery
+
+SIC_artillery_equipment_1: "Cannone da 75/27 modello 06"
+SIC_artillery_equipment_1_short: "Cannone da 75/27"
+SIC_artillery_equipment_2: "Cannone da 149/40 modello 35"
+SIC_artillery_equipment_2_short: "Cannone da 149/40"
+SIC_artillery_equipment_3: "Obice da 210/22 modello 35"
+SIC_artillery_equipment_3_short: "Obice da 210/22"
+
+SIC_anti_tank_equipment_1: "Cannone da 47/32"
+SIC_anti_tank_equipment_1_short: "Cannone da 47/32"
+SIC_anti_tank_equipment_2: "Cannone da 75/46"
+SIC_anti_tank_equipment_2_short: "Cannone da 75/46"
+SIC_anti_tank_equipment_3: "Cannone da 90/65"
+SIC_anti_tank_equipment_3_short: "Cannone da 90/65"
+
+SIC_anti_air_equipment_1: "Breda Modello 35"
+SIC_anti_air_equipment_1_short: "Breda Modello 35"
+SIC_anti_air_equipment_2: "Cannone-Mitragliera da 37/54"
+SIC_anti_air_equipment_2_short: "Cannone da 37/54"
+SIC_anti_air_equipment_3: "Cannone da 90/53"
+SIC_anti_air_equipment_3_short: "Cannone da 90/53"
+
+SIC_rocket_artillery_equipment_1: "Lanciarazzi da 100/16"
+SIC_rocket_artillery_equipment_1_short: "Lanciarazzi da 100/16"
+SIC_rocket_artillery_equipment_2: "Lanciarazzi da 210/16"
+SIC_rocket_artillery_equipment_2_short: "Lanciarazzi da 210/16"
 
 #Railway
 SIC_train_equipment_1: "FS Gruppo 740"
@@ -12986,9 +11008,6 @@ SOV_armored_car_equipment_2_short: "BA-64"
 SOV_armored_car_at_equipment: "KSP-76"
 SOV_armored_car_at_equipment_short: "KSP-76"
 
-#Amphibious
-SOV_amphibious_tank_equipment_1: "T-40"
-
 #Trains
 # Soviet Class FD:
 SOV_train_equipment_1: "Parovoz tip Leninsky"
@@ -13033,38 +11052,6 @@ SOV_rocket_artillery_equipment_1: "132mm M-8-24"
 SOV_rocket_artillery_equipment_1_short: "132mm M-8-24"
 SOV_rocket_artillery_equipment_2: "302mm M-20-12"
 SOV_rocket_artillery_equipment_2_short: "302mm M-20-12"
-
-#Tanks
-
-SOV_gw_tank_equipment: "Putilov T-19"
-SOV_gw_tank_equipment_short: "T-19"
-
-SOV_light_tank_equipment_1: "Obukhov T-26"
-SOV_light_tank_equipment_1_short: "T-26"
-SOV_light_tank_equipment_2: "AMO BT-10"
-SOV_light_tank_equipment_2_short: "BT-10"
-SOV_light_tank_equipment_3: "AMO BT-20"
-SOV_light_tank_equipment_3_short: "BT-20"
-
-SOV_medium_tank_equipment_1: "Putilov T-28"
-SOV_medium_tank_equipment_1_short: "T-28"
-SOV_medium_tank_equipment_2: "Obukhov T-43"
-SOV_medium_tank_equipment_2_short: "T-43"
-SOV_medium_tank_equipment_3: "Obukhov T-43-2"
-SOV_medium_tank_equipment_3_short: "T-43-2"
-
-SOV_heavy_tank_equipment_1: "Putilov T-76"
-SOV_heavy_tank_equipment_1_short: "T-76"
-SOV_heavy_tank_equipment_2: "ChTZ T-85"
-SOV_heavy_tank_equipment_2_short: "T-85"
-SOV_heavy_tank_equipment_3: "ChTZ T-120"
-SOV_heavy_tank_equipment_3_short: "T-120"
-
-SOV_modern_tank_equipment_1: "Obukhov T-45"
-SOV_modern_tank_equipment_1_short: "T-45"
-
-SOV_super_heavy_tank_equipment_1: "Putilov T-107"
-SOV_super_heavy_tank_equipment_1_short: "T-107"
 
 ###
 ### Sao Paulo ###
@@ -13161,6 +11148,22 @@ SPA_light_tank_equipment_2_desc: "Der Typ 1936 wurde von einem Militärbüro von
 SPA_light_tank_equipment_3: "Tipo 1941 'Verdeja'"
 SPA_light_tank_equipment_3_short: "T-41 'Verdeja'"
 SPA_light_tank_equipment_3_desc: "Der Typ 1941 war der erfolgreichste Entwurf des jungen Majors Félix Verdeja Bardales. Das Fahrzeug wurde unter besonderer Berücksichtigung des Schutzes des Motorraums konstruiert und verfügte über eine im Inland entwickelte 45-mm-Hauptkanone."
+SPA_medium_tank_equipment_1: "Carro de Combate 39"
+SPA_medium_tank_equipment_1_short: "CDC 39"
+SPA_medium_tank_equipment_2: "Carro de Combate 41"
+SPA_medium_tank_equipment_2_short: "CDC 41"
+SPA_medium_tank_equipment_3: "Carro de Combate 44"
+SPA_medium_tank_equipment_3_short: "CDC 44"
+SPA_heavy_tank_equipment_1: "Tanque Pesado 1"
+SPA_heavy_tank_equipment_1_short: "TP 1"
+SPA_heavy_tank_equipment_2: "Tanque Pesado 2"
+SPA_heavy_tank_equipment_2_short: "TP 2"
+SPA_heavy_tank_equipment_3: "Tanque Pesado 3"
+SPA_heavy_tank_equipment_3_short: "TP 3"
+SPA_super_heavy_tank_equipment_1: "Tanque Pesado 5"
+SPA_super_heavy_tank_equipment_1_short: "TP 5"
+SPA_modern_tank_equipment_1: "Carro de Combate 52"
+SPA_modern_tank_equipment_1_short: "CDC 52"
 
 ###
 ### Shandong Clique/Shangqing Tianguo ###
@@ -13275,10 +11278,6 @@ SRD_armored_car_equipment_1_short: "AMC-60"
 SRD_armored_car_equipment_2: "Citroën AMC-60-H20"
 SRD_armored_car_equipment_2_short: "AMC-60-H20"
 
-#Tank
-SRD_gw_tank_equipment: "Renault FT"
-SRD_gw_tank_equipment_short: "FT"
-
 #Railway
 SRD_train_equipment_1: "FS Gruppo 740"
 SRD_train_equipment_1_short: "FS Gr. 740"
@@ -13371,63 +11370,28 @@ SRI_armored_car_at_equipment_short: "AS.42 47/32"
 SRI_artillery_equipment_1: "Cannone da 75/27 modello 06"
 SRI_artillery_equipment_1_short: "Cannone da 75/27"
 SRI_artillery_equipment_2: "Cannone da 149/40 modello 35"
-SRI_artillery_equipment_2_short: "Cannone da 149/40 m/35"
+SRI_artillery_equipment_2_short: "Cannone da 149/40"
 SRI_artillery_equipment_3: "Obice da 210/22 modello 35"
+SRI_artillery_equipment_3_short: "Obice da 210/22"
 
 SRI_anti_tank_equipment_1: "Cannone da 47/32"
 SRI_anti_tank_equipment_1_short: "Cannone da 47/32"
 SRI_anti_tank_equipment_2: "Cannone da 75/46"
+SRI_anti_tank_equipment_2_short: "Cannone da 75/46"
+SRI_anti_tank_equipment_3: "Cannone da 90/65"
+SRI_anti_tank_equipment_3_short: "Cannone da 90/65"
 
-SRI_anti_air_equipment_1: "Breda modello 35"
-SRI_anti_air_equipment_1_short: "Breda modello 35"
+SRI_anti_air_equipment_1: "Breda Modello 35"
+SRI_anti_air_equipment_1_short: "Breda Modello 35"
 SRI_anti_air_equipment_2: "Cannone-Mitragliera da 37/54"
+SRI_anti_air_equipment_2_short: "Cannone da 37/54"
 SRI_anti_air_equipment_3: "Cannone da 90/53"
+SRI_anti_air_equipment_3_short: "Cannone da 90/53"
 
-#Tanks
-
-SRI_gw_tank_equipment: "Fiat 3000"
-SRI_gw_tank_equipment_short: "Fiat 3000"
-SRI_light_tank_equipment_1: "L3"
-SRI_light_tank_equipment_1_short: "L3"
-SRI_light_tank_equipment_2: "L6"
-SRI_light_tank_equipment_2_short: "L6"
-SRI_light_tank_equipment_3: "L8"
-SRI_light_tank_equipment_3_short: "L8"
-SRI_light_tank_destroyer_equipment_1: "L3 controcarro"
-SRI_light_tank_destroyer_equipment_1_short: "L3 cc"
-SRI_light_tank_destroyer_equipment_2: "Semovente 47/32"
-SRI_light_tank_destroyer_equipment_2_short: "Semovente 47/32"
-
-SRI_medium_tank_equipment_1: "Fiat M11/39"
-SRI_medium_tank_equipment_1_short: "M11/39"
-SRI_medium_tank_equipment_2: "M16 Sahariano"
-SRI_medium_tank_equipment_2_short: "M16"
-SRI_medium_tank_equipment_3: "M20/43"
-SRI_medium_tank_equipment_3_short: "M20/43"
-SRI_medium_tank_artillery_equipment_2: "Semovente M41 75/18"
-SRI_medium_tank_artillery_equipment_2_short: "Semovente M 41 75/18"
-SRI_medium_tank_artillery_equipment_3: "Semovente M42L 105/25"
-SRI_medium_tank_artillery_equipment_3_short: "Semovente M42L 105/25"
-SRI_medium_tank_destroyer_equipment_2: "Semovente 75/34"
-SRI_medium_tank_destroyer_equipment_2_short: "Semovente 75/34"
-SRI_medium_tank_destroyer_equipment_3: "Semovente M41M 90/53"
-SRI_medium_tank_destroyer_equipment_3_short: "Semovente M41M 90/53"
-SRI_medium_tank_aa_equipment_3: "Semovente M15/42 contraereo"
-SRI_medium_tank_aa_equipment_3_short: "Semovente M15/42"
-
-SRI_heavy_tank_equipment_1: "P75"
-SRI_heavy_tank_equipment_1_short: "P75"
-SRI_heavy_tank_equipment_2: "P26"
-SRI_heavy_tank_equipment_2_short: "P26"
-SRI_heavy_tank_equipment_3: "P43"
-SRI_heavy_tank_equipment_3_short: "P43"
-SRI_heavy_tank_artillery_equipment_2: "Semovente da 149/40"
-SRI_heavy_tank_artillery_equipment_2_short: "Semovente da 149/40"
-
-SRI_super_heavy_tank_equipment_1: "Il Duce"
-SRI_super_heavy_tank_equipment_1_short: "Il Duce"
-SRI_modern_tank_equipment_1: "M31/45"
-SRI_modern_tank_equipment_1_short: "M31/45"
+SRI_rocket_artillery_equipment_1: "Lanciarazzi da 100/16"
+SRI_rocket_artillery_equipment_1_short: "Lanciarazzi da 100/16"
+SRI_rocket_artillery_equipment_2: "Lanciarazzi da 210/16"
+SRI_rocket_artillery_equipment_2_short: "Lanciarazzi da 210/16"
 
 #Railway
 SRI_train_equipment_1: "FS Gruppo 625"
@@ -14066,49 +12030,6 @@ TEX_rocket_artillery_equipment_1_short: "M1941A1 Rocket Launcher"
 TEX_rocket_artillery_equipment_2: "Rocket Launcher, Multiple, 4.5-inch, Model 1943"
 TEX_rocket_artillery_equipment_2_short: "M1943 Rocket Launcher"
 
-#Tanks
-TEX_gw_tank_equipment: "Light Tank, Model 1921"
-TEX_gw_tank_equipment_short: "M1921 Light"
-TEX_gw_tank_equipment_desc: "Da die Vereinigten Staaten zum Zeitpunkt der Kapitulation Frankreichs im Weltkrieg über keine Panzer verfügten, bemühten sie sich angesichts der sich rasch verändernden internationalen Ordnung um die Entwicklung eines Behelfsfahrzeugs. Letztendlich wurde eine von Ford entworfene, nahezu identische Kopie des französischen FT-Panzers mit der Bezeichnung Modell von 1921 verwendet."
-
-TEX_light_tank_equipment_1: "Light Tank, Model 1935"
-TEX_light_tank_equipment_1_short: "M1935 Light"
-TEX_light_tank_equipment_1_desc: "Beunruhigt durch die rasante Entwicklung von Panzern während des Weltkriegs, entwickelten die Vereinigten Staaten während und unmittelbar nach dem Krieg mehrere experimentelle leichte Panzer. Auch wenn diese Entwürfe letztlich ins Leere liefen, bildeten die daraus gezogenen Lehren die Grundlage für die Entwicklung des M1935. Der M1935 weist viele Merkmale auf, die direkt von kanadischen Panzern übernommen wurden, und ist mit einer einzigen 37-mm-Hochgeschwindigkeitskanone bewaffnet."
-TEX_light_tank_equipment_2: "Light Tank, Model 1939"
-TEX_light_tank_equipment_2_short: "M1939 Light"
-TEX_light_tank_equipment_2_desc: "Die Unzulänglichkeiten des M1935 wurden von den amerikanischen Streitkräften schnell erkannt, und schon bald wurde mit der Arbeit an einer neuen, völlig neu konzipierten Variante begonnen. Das Projekt wurde zwar durch den amerikanischen Bürgerkrieg unterbrochen, aber die Ingenieure im amerikanischen Unionsstaat konnten das Projekt schließlich abschließen. Die inoffizielle Bezeichnung 'Stuart', nach dem konföderierten General J.E.B. Stuart, wurde vom Unionsstaat beibehalten."
-TEX_light_tank_equipment_3: "Light Tank, Model 1941"
-TEX_light_tank_equipment_3_short: "M1941 Light"
-TEX_light_tank_equipment_3_desc: "Der M1941 wurde um die überarbeitete Drei-Zoll-Kanone herum konstruiert, die mit dem M1940-Panzer eingeführt wurde, und war von Grund auf auf Geschwindigkeit und Beweglichkeit ausgelegt. Obwohl Probleme mit dem hochmodernen Motor des Panzers das Projekt verzögerten, wurde der M1941 schließlich zum leichten Standardpanzer des Unionsstaates."
-
-TEX_medium_tank_equipment_1: "Medium Tank, Model 1939"
-TEX_medium_tank_equipment_1_short: "M1939 Medium"
-TEX_medium_tank_equipment_1_desc: "Die amerikanischen Bemühungen um die Entwicklung eines modernen mittleren Panzers auf der Grundlage einer vergrößerten Variante des M2-Panzers wurden durch den Bürgerkrieg unterbrochen. Während sich der Unionsstaat mit der Entwicklung des Panzers ,1940 abmühte, baute er als Notlösung erbeutete M3-Panzer der Bundesregierung um."
-#Sherman:
-TEX_medium_tank_equipment_2: "Medium Tank, Model 1940"
-TEX_medium_tank_equipment_2_short: "M1940 Medium"
-TEX_medium_tank_equipment_2_desc: "Der M1940 war eine gewaltige Leistung für die noch jungen Streitkräfte des Unionsstaates. Obwohl der M4 nicht besonders wendig oder schwer gepanzert war, zeichnete er sich durch eine Vielzahl von Einsatzmöglichkeiten aus, und sein neues Drei-Zoll-Hauptgeschütz erwies sich sowohl gegen Infanterie als auch gegen Panzer als außergewöhnlich."
-TEX_medium_tank_equipment_3: "Medium Tank, Model 1940A6"
-TEX_medium_tank_equipment_3_short: "M1940A6 Medium"
-TEX_medium_tank_equipment_3_desc: "Der M1940A6 ist das Ergebnis einer Reihe von Verbesserungen am M1940-Panzer und entstand durch die Anpassung einer neuen 105-mm-Panzerabwehrkanone an die M1940-Plattform. Das Geschütz erwies sich im amerikanischen Bürgerkrieg zwar als mehr als fähig, selbst die am stärksten gepanzerten Fahrzeuge zu besiegen, war aber für die Besatzungen des M1940A6 ebenfalls schwierig zu bedienen, was seine Effektivität schmälerte."
-
-TEX_heavy_tank_equipment_1: "Heavy Tank, Model 1937"
-TEX_heavy_tank_equipment_1_short: "M1937 Heavy"
-TEX_heavy_tank_equipment_1_desc: "Die Entwicklung des schweren Panzers M1937 war von Rückschlägen geprägt, da sich der Unionsstaat schwer tat, einen schweren Panzer von Grund auf zu entwickeln. Das schließlich produzierte Fahrzeug erwies sich jedoch als fähig, und die daraus gezogenen Lehren waren für den Erfolg späterer Projekte der damals noch jungen AUS von entscheidender Bedeutung."
-TEX_heavy_tank_equipment_2: "Heavy Tank, Model 1941"
-TEX_heavy_tank_equipment_2_short: "M1941 Heavy"
-TEX_heavy_tank_equipment_2_desc: "Das als völlig neuer Fahrzeugtyp für den Angriff auf befestigte Stellungen konzipierte Fahrzeug war der erste und einzige 'Angriffspanzer', den der Unionsstaat einführte. Im Wesentlichen ein leicht vergrößerter mittlerer Panzer mit wesentlich verbesserter Panzerung, insbesondere an den Seiten und am Heck, erwies sich der M1941 für andere Aufgaben als die, für die er konzipiert war, als unzureichend."
-TEX_heavy_tank_equipment_3: "Heavy Tank, Model 1942"
-TEX_heavy_tank_equipment_3_short: "M1942 Heavy"
-
-TEX_super_heavy_tank_equipment_1: "Heavy Tank, Model 1943"
-TEX_super_heavy_tank_equipment_1_short: "M1943 Heavy"
-TEX_super_heavy_tank_equipment_1_desc: "Schwere feste Befestigungen erwiesen sich für andere gepanzerte Fahrzeuge der Unionsstaaten als schwer zu überwinden. Der M105-2 wurde speziell für die Zerstörung von Befestigungen und Panzern gebaut, die direkten Treffern von großen stationären Geschützen standhalten konnten. Die 105-mm-Kanone des Fahrzeugs war zwar langsam, erwies sich aber gegen Strukturen und weiche Ziele gleichermaßen als geeignet."
-
-TEX_modern_tank_equipment_1: "Medium Tank, Model 1946"
-TEX_modern_tank_equipment_1_short: "M1946 Medium"
-TEX_modern_tank_equipment_1_desc: "Der M1946 wurde als kleiner, schwerer Panzer konzipiert, der in Auto- und Eisenbahntunnel passt, und erfüllte nach und nach eine Vielzahl von Aufgaben. Der M1946 ist schnell und mit einer massiven 120-mm-Kanone ausgestattet, die ihm im Vergleich zu den schwereren Fahrzeugen der gleichen Epoche nur beim Schutz fehlt."
-
 ### Railroad ###
 TEX_train_equipment_1: "Pennsylvania I1s Class"
 TEX_train_equipment_2: "USATC S160 Class"
@@ -14451,9 +12372,6 @@ TUN_infantry_equipment_0: "Fusil Lebel Modèle 1886 M93"
 TUN_infantry_equipment_0_short: "Lebel Mle M93"
 TUN_support_weapons: "Darne M1919 & Stokes mortar"
 
-TUN_gw_tank_equipment: "Renault FT"
-TUN_gw_tank_equipment_short: "FT"
-
 ###
 ### Tuscany ###
 ###
@@ -14570,46 +12488,6 @@ UKR_rocket_artillery_equipment_1_desc: "Das schwere Wurfgerät 40, das ursprüng
 UKR_rocket_artillery_equipment_2: "21-cm Raketenwerfer Modell 42"
 UKR_rocket_artillery_equipment_2_short: "R.W. 42"
 UKR_rocket_artillery_equipment_2_desc: "Der 21-cm-Raketenwerfer 42 ist ein fünfschüssiger Mehrfachraketenwerfer, der auf einer gezogenen Lafette montiert ist, die von der des 3,7-cm-Panzerabwehrgeschützes Pa.K. 36 abgeleitet ist. Die Raketenwerfer sind in Sechser-Batterien mit drei Batterien pro Bataillon organisiert. Die R.W. 42 sind für die Feuerunterstützung und die Nebelabwehr vorgesehen und werden hauptsächlich als Raketenartillerie eingesetzt und nehmen fast nicht an der chemischen Kriegsführung teil."
-
-#Tanks
-UKR_gw_tank_equipment: "Leikhtraktor"
-UKR_gw_tank_equipment_short: "Leikhtraktor"
-UKR_light_tank_equipment_1: "Panz 1934"
-UKR_light_tank_equipment_1_short: "P-34"
-UKR_light_tank_equipment_1_desc: "Mit der deutschen Vorherrschaft kam es zu einer Anpassung der ukrainischen Sprache, wobei sich der Begriff 'Panz', eine Abkürzung des deutschen Begriffs 'Panzer', schließlich als ukrainisches Wort für 'Panzer' durchsetzte.\n\nDas Modell Panz von 1934 war der erste inländisch konstruierte ukrainische Panzer, der in Dienst gestellt wurde. Er lehnte sich stark an den kanadischen Vickers Mark E sowie an deutsche Konstruktionen der Zwischenkriegszeit an und war mit einer 20-mm-Kanone ausgestattet, die von der italienischen Firma Breda hergestellt wurde. Wegen seiner unzureichenden Hauptbewaffnung und der mäßigen Störanfälligkeit des Getriebes wurde das Fahrzeug von den Soldaten im Einsatz unterschiedlich beurteilt."
-UKR_light_tank_equipment_2: "Panz I Vasyl"
-UKR_light_tank_equipment_2_short: "P-I Vasyl"
-UKR_light_tank_equipment_2_desc: "Bald nach der Einführung des P-34 gab das ukrainische Militär die chronologische Panzernomenklatur zugunsten eines Systems auf, das an das der deutschen Armee erinnerte, und bezeichnete den nächsten Panzer, der eingeführt werden sollte, als P-I. Der Vasyl, der zu Ehren des Königs selbst benannt wurde, sollte schließlich diesen Namen erhalten. Der P-I Vasyl war eine Weiterentwicklung des früheren P-34 und behob die Unzulänglichkeiten seines Vorgängers mit einem verlängerten Fahrgestell und zahlreichen Überarbeitungen an fast allen Komponenten. Das Fahrzeug verfügte auch über eine neue deutsche 20-mm-Kanone, die zwar das gleiche Kaliber wie die ältere Breda-Kanone hatte, sich aber sowohl in der Ausbildung als auch im Kampf als wesentlich effektiver erwies."
-UKR_light_tank_equipment_3: "Shvydkokhidnyj Panz II Stanyslaviv"
-UKR_light_tank_equipment_3_short: "SP-II Stanyslaviv"
-UKR_light_tank_equipment_3_desc: "Da das russische Konzept des schnellen Panzers für das Wiederaufrüstungsprogramm des Landes so wichtig war und neue schwerere Fahrzeuge entwickelt wurden, begann die ukrainische Armee mit der Entwicklung eines eigenen, wendigen neuen leichten Panzers. Der Shvydkokhidnyj Panz II, wie das Fahrzeug im ukrainischen Dienst genannt wurde, konnte aufgrund seiner bemerkenswerten Geschwindigkeit und Handhabung eine Vielzahl von Aufgaben auf dem Schlachtfeld erfüllen. Der Name 'Stanyslaviv' wurde auf dem Fahrzeug angebracht, als Ausdruck des unter der Habsburger Herrschaft in der Ukraine seltenen Irredentismus gegenüber dem von Österreich gehaltenen Galizien."
-
-UKR_medium_tank_equipment_1: "Panz IV Kyiv"
-UKR_medium_tank_equipment_1_short: "P-IV Kyiv"
-#UKR_medium_tank_equipment_1_desc: ""
-UKR_medium_tank_equipment_2: "Panz-VII Knyaz"
-UKR_medium_tank_equipment_2_short: "P-VII Knyaz"
-#UKR_medium_tank_equipment_2_desc: ""
-UKR_medium_tank_equipment_3: "Panz IX Kit"
-UKR_medium_tank_equipment_3_short: "P-IX Kit"
-#UKR_medium_tank_equipment_3_desc: ""
-
-UKR_heavy_tank_equipment_1: "Kaiserlichepanzer 1933"
-UKR_heavy_tank_equipment_1_short: "KP-33"
-UKR_heavy_tank_equipment_1_desc: "Der aus der Versuchskonstruktion hervorgegangene 'Kaiserliche Panzer', wie ihn die Firma Krupp in Anspielung auf die Eitelkeit des Kaisers selbst nannte, wurde 1931 von der deutschen Armee vollständig abgelehnt. Davon ließ man sich jedoch nicht beirren und bot der ukrainischen Regierung nur wenige Monate später einen zweiten Prototyp mit einem wesentlich weniger störanfälligen Aufhängungssystem an. Die Ukraine kaufte das Fahrzeug, und nach einer kleinen Überarbeitung der immer noch etwas problematischen Aufhängung wurde das Fahrzeug unter dem deutschen Namen 'Kaiserlichepanzer' übernommen."
-UKR_heavy_tank_equipment_2: "Panz VI Hetman"
-UKR_heavy_tank_equipment_2_short: "P-VI Hetman"
-#UKR_heavy_tank_equipment_2_desc: ""
-UKR_heavy_tank_equipment_3: "Panz X Sobaka"
-UKR_heavy_tank_equipment_3_short: "P-X Sobaka"
-#UKR_heavy_tank_equipment_3_desc: ""
-
-UKR_super_heavy_tank_equipment_1: "Panz VIII Cherepakha"
-UKR_super_heavy_tank_equipment_1_short: "P-VIII Cherepakha"
-#UKR_super_heavy_tank_equipment_1_desc: ""
-UKR_modern_tank_equipment_1: "Modulnyj Panz I Horlytsia"
-UKR_modern_tank_equipment_1_short: "MP-I Horlytsia"
-#UKR_modern_tank_equipment_1_desc: ""
 
 ###
 ### Northern Ireland ###
@@ -14803,49 +12681,6 @@ USA_rocket_artillery_equipment_1_short: "M12 Rocket Launcher"
 USA_rocket_artillery_equipment_2: "Rocket Launcher, Multiple, 4.5-inch, Model 20"
 USA_rocket_artillery_equipment_2_short: "M20 Rocket Launcher"
 
-#Tanks
-USA_gw_tank_equipment: "Light Tank, Model 1921"
-USA_gw_tank_equipment_short: "M1921"
-USA_gw_tank_equipment_desc: "Da die Vereinigten Staaten zum Zeitpunkt der Kapitulation Frankreichs im Weltkrieg über keine Panzer verfügten, bemühten sie sich angesichts der sich rasch verändernden internationalen Ordnung um die Entwicklung eines Behelfsfahrzeugs. Letztendlich wurde eine von Ford entworfene, nahezu identische Kopie des französischen FT-Panzers mit der Bezeichnung Modell von 1921 verwendet."
-
-USA_light_tank_equipment_1: "Light Tank, Model 2"
-USA_light_tank_equipment_1_short: "M2"
-USA_light_tank_equipment_1_desc: "Beunruhigt durch die rasante Entwicklung von Panzern während des Weltkriegs, entwickelten die Vereinigten Staaten während und unmittelbar nach dem Krieg mehrere experimentelle leichte Panzer. Auch wenn diese Entwürfe letztlich ins Leere liefen, bildeten die daraus gezogenen Lehren die Grundlage für die Entwicklung des M2. Der M2 verfügt über viele Merkmale, die direkt von kanadischen Panzern übernommen wurden, und ist mit einer einzigen 37-mm-Hochgeschwindigkeitskanone bewaffnet."
-USA_light_tank_equipment_2: "Light Tank, Model 3"
-USA_light_tank_equipment_2_short: "M3"
-USA_light_tank_equipment_2_desc: "Die Unzulänglichkeiten des M2 wurden von den amerikanischen Streitkräften schnell erkannt, und schon bald wurde mit der Arbeit an einer neuen, völlig neu konzipierten Variante begonnen. Das Projekt wurde zwar durch den Amerikanischen Bürgerkrieg unterbrochen, aber die der Bundesregierung treuen Ingenieure konnten das Projekt schließlich abschließen."
-USA_light_tank_equipment_3: "Light Tank, Model 24"
-USA_light_tank_equipment_3_short: "M24"
-USA_light_tank_equipment_3_desc: "Der M24 ist zwar vom M3 inspiriert, wurde aber mit besonderem Augenmerk auf die Leistung in unwegsamem Gelände entwickelt."
-
-USA_medium_tank_equipment_1: "Medium Tank, Model 3"
-USA_medium_tank_equipment_1_short: "M3"
-USA_medium_tank_equipment_1_desc: "Während die amerikanischen Bemühungen um die Entwicklung eines modernen mittleren Panzers auf der Grundlage einer vergrößerten Variante des M2 mit dem Ausbruch des Bürgerkriegs scheiterten, brachte die Bundesregierung, motiviert durch den Krieg, solche Pläne in der Folgezeit rasch zur Verwirklichung. Der daraus resultierende M3-Panzer war der erste vollständig im Inland entwickelte mittlere Panzer, der bei allen Parteien des amerikanischen Bürgerkriegs zum Einsatz kam."
-USA_medium_tank_equipment_2: "Medium Tank, Model 10"
-USA_medium_tank_equipment_2_short: "M10"
-USA_medium_tank_equipment_2_desc: "Ursprünglich als Panzerjäger auf der Basis des M3 konzipiert, wurde der M10 mehrfach überarbeitet, wobei der Schutz und der vollständig geschlossene Turm verbessert wurden, und er wurde als mittlerer Panzer umbenannt."
-USA_medium_tank_equipment_3: "Medium Tank, Model 25"
-USA_medium_tank_equipment_3_short: "M25"
-USA_medium_tank_equipment_3_desc: "Der Turm des M25 wurde um die 90-mm-Fliegerabwehrkanone M3 herum konstruiert und hat eine einzigartige Form. Trotz seiner umfangreichen Bewaffnung erwies sich der M25 im amerikanischen Einsatz als wendig, und verbesserte Modelle seiner 90-mm-Kanone sollten die Grundlage für eine lange Reihe künftiger amerikanischer Panzerkanonen werden."
-
-#delete eventually when we get a new icon:
-USA_heavy_tank_equipment_1: "Medium Tank, Model 1"
-USA_heavy_tank_equipment_1_short: "M1"
-#delete eventually when we get a new icon:
-USA_heavy_tank_equipment_2: "Medium Tank, Model 6"
-USA_heavy_tank_equipment_2_short: "M6"
-USA_heavy_tank_equipment_3: "Medium Tank, Model 26"
-USA_heavy_tank_equipment_3_short: "M26"
-USA_heavy_tank_equipment_3_desc: "Der M26 entstand als vergrößerte Variante des M8-Panzers der Combined Syndicates, nachdem die für seine Entwicklung verantwortliche Fabrik von föderalen Truppen eingenommen worden war. Er ist mit der gleichen Ableitung der 90-mm-Kanone M3 ausgestattet, die auch im mittleren Panzer M25 der Föderation verwendet wurde."
-
-USA_super_heavy_tank_equipment_1: "Heavy Tank, Model 28"
-USA_super_heavy_tank_equipment_1_short: "M28"
-USA_super_heavy_tank_equipment_1_desc: "Der M28 Super Heavy Tank wurde um eine experimentelle 105-mm-Kanone herum konstruiert, die mit einem hochmodernen Autoloader-System ausgestattet war. Mit einer Panzerung von bis zu etwas mehr als zwölf Zoll Dicke an der Front war der M28 recht langsam, konnte aber selbst relativ starken Panzerabwehrkanonen zuverlässig widerstehen."
-
-USA_modern_tank_equipment_1: "Medium Tank, Model 46"
-USA_modern_tank_equipment_1_short: "M46"
-USA_modern_tank_equipment_1_desc: "Der M46 ist eine etwas kleinere Variante des M26 und behebt viele der Zuverlässigkeitsprobleme dieses Panzers. Der wendige, stark gepanzerte und mit einer 105-mm-Hochgeschwindigkeits-Kanone ausgestattete M46 war der König auf dem Schlachtfeld."
-
 ###
 ### Vietnam ###
 ###
@@ -14895,9 +12730,6 @@ VNC_infantry_equipment_0_short: "Carcano M91"
 CHA_infantry_equipment_0: "Fusil Lebel Modèle 1886 M93"
 CHA_infantry_equipment_0_short: "Lebel Mle M93"
 CHA_support_weapons: "Darne M1919 & Stokes mortar"
-
-CHA_gw_tank_equipment: "Renault FT"
-CHA_gw_tank_equipment_short: "FT"
 
 ###
 ### Wales ###
@@ -15328,153 +13160,6 @@ WHR_rocket_artillery_equipment_1_short: "RPU-40"
 WHR_rocket_artillery_equipment_2: "210-mm Rakietnaja Puskavaja Ustaliouka uz.1942"
 WHR_rocket_artillery_equipment_2_short: "RPU-42"
 
-#Oberschlesien:
-WHR_gw_tank_equipment: "Liohki Tank uz.1919"
-WHR_gw_tank_equipment_short: "LT-19"
-#Pz 1D:
-WHR_light_tank_equipment_1: "Liohki Tank uz.1932"
-WHR_light_tank_equipment_1_short: "LT-32"
-#Pz II L (luchs):
-WHR_light_tank_equipment_2: "Liohki Tank uz.1936"
-WHR_light_tank_equipment_2_short: "LT-36"
-#Pz II M / Vk 16 Leopard:
-WHR_light_tank_equipment_3: "Liohki Tank uz.1941"
-WHR_light_tank_equipment_3_short: "LT-41"
-#Sturmpanzer I Bison:
-WHR_light_tank_artillery_equipment_1: "150-mm Samachodnaja Ustanouka uz.1932"
-WHR_light_tank_artillery_equipment_1_short: "SU-150"
-#Sturmpanzer II Bison:
-WHR_light_tank_artillery_equipment_2: "105-mm Samachodnaja Ustanouka uz.1936"
-WHR_light_tank_artillery_equipment_2_short: "SU-105"
-#Sturmpanzer II Bison:
-WHR_light_tank_artillery_equipment_3: "105-mm Samachodnaja Ustanouka uz.1941"
-WHR_light_tank_artillery_equipment_3_short: "SU-41"
-#PzJg 1:
-WHR_light_tank_destroyer_equipment_1: "50-mm Procitankavaja Samachodnaja Ustanouka uz.1932"
-WHR_light_tank_destroyer_equipment_1_short: "PTSU-50"
-#Marder 2 75mm:
-WHR_light_tank_destroyer_equipment_2: "75-mm Procitankavaja Samachodnaja Ustanouka uz.1936"
-WHR_light_tank_destroyer_equipment_2_short: "PTSU-75"
-#Stug Leopard:
-WHR_light_tank_destroyer_equipment_3: "75-mm Procitankavaja Samachodnaja Ustanouka uz.1941"
-WHR_light_tank_destroyer_equipment_3_short: "PTSU-41"
-#Flakpanzer 1:
-WHR_light_tank_aa_equipment_1: "20-mm Zienitnaja Samachodnaja Ustanouka uz.1932"
-WHR_light_tank_aa_equipment_1_short: "ZSU-20"
-#37mm FlaK 43 Sfi. auf Pz.Kpfw. II Ausf. L 'Luchs':
-WHR_light_tank_aa_equipment_2: "37-mm Zienitnaja Samachodnaja Ustanouka uz.1936"
-WHR_light_tank_aa_equipment_2_short: "ZSU-37"
-#fake:
-WHR_light_tank_aa_equipment_3: "20-mm Zienitnaja Samachodnaja Ustanouka uz.1941"
-WHR_light_tank_aa_equipment_3_short: "ZSU-41"
-
-#PZ 3:
-WHR_medium_tank_equipment_1: "Siaredni Tank uz.1936"
-WHR_medium_tank_equipment_1_short: "ST-36"
-#PZ 4 H/L:
-WHR_medium_tank_equipment_2: "Siaredni Tank uz.1939"
-WHR_medium_tank_equipment_2_short: "ST-39"
-#Panther:
-WHR_medium_tank_equipment_3: "Siaredni Tank uz.1942"
-WHR_medium_tank_equipment_3_short: "ST-42"
-#Heuschrecke:
-WHR_medium_tank_artillery_equipment_1: "105-mm Samachodnaja Ustanouka uz.1936"
-WHR_medium_tank_artillery_equipment_1_short: "SU-36"
-#Hummel:
-WHR_medium_tank_artillery_equipment_2: "150-mm Samachodnaja Ustanouka uz.1939"
-WHR_medium_tank_artillery_equipment_2_short: "SU-39"
-#WT Panther:
-WHR_medium_tank_artillery_equipment_3: "105-mm Samachodnaja Ustanouka uz.1942"
-WHR_medium_tank_artillery_equipment_3_short: "SU-42"
-#Stug4: 75-mm Šturmavaja Samachodnaja Ustanouka uz.1936
-WHR_medium_tank_destroyer_equipment_1: "75-mm Šturmavaja Samachodnaja Ustanouka uz.1936"
-WHR_medium_tank_destroyer_equipment_1_short: "ŠSU-75"
-#JgPz4:
-WHR_medium_tank_destroyer_equipment_2: "75-mm Procitankavaja Samachodnaja Ustanouka uz.1939"
-WHR_medium_tank_destroyer_equipment_2_short: "PTSU-39"
-#Jagdpanther:
-WHR_medium_tank_destroyer_equipment_3: "88-mm Procitankavaja Samachodnaja Ustanouka uz.1942"
-WHR_medium_tank_destroyer_equipment_3_short: "PTSU-88"
-#Ostwind:
-WHR_medium_tank_aa_equipment_1: "37-mm Zienitnaja Tankavaja Ustanouka uz.1936"
-WHR_medium_tank_aa_equipment_1_short: "ZTU-37"
-#Kugelblitz:
-WHR_medium_tank_aa_equipment_2: "37-mm Zienitnaja Samachodnaja Ustanouka uz.1939"
-WHR_medium_tank_aa_equipment_2_short: "ZSU-39"
-#Coelian:
-WHR_medium_tank_aa_equipment_3: "55-mm Zienitnaja Samachodnaja Ustanouka uz.1942"
-WHR_medium_tank_aa_equipment_3_short: "ZSU-55"
-
-#VK 30.01 H:
-WHR_heavy_tank_equipment_1: "Ciažki Tank uz.1935"
-WHR_heavy_tank_equipment_1_short: "CT-35"
-#Tiger:
-WHR_heavy_tank_equipment_2: "Ciažki Tank uz.1941"
-WHR_heavy_tank_equipment_2_short: "CT-41"
-#Tiger:
-WHR_heavy_tank_equipment_3: "Ciažki Tank uz.1943"
-WHR_heavy_tank_equipment_3_short: "CT-43"
-#fake:
-WHR_heavy_tank_artillery_equipment_1: "150-mm Šturmavaja Samachodnaja Ustanouka uz.1935"
-WHR_heavy_tank_artillery_equipment_1_short: "ŠSU-150"
-#GW Tiger mit 17cm:
-WHR_heavy_tank_artillery_equipment_2: "170-mm Šturmavaja Samachodnaja Ustanouka uz.1941"
-WHR_heavy_tank_artillery_equipment_2_short: "ŠSU-170"
-#GW Tiger mit 21cm:
-WHR_heavy_tank_artillery_equipment_3: "210-mm Šturmavaja Samachodnaja Ustanouka uz.1943"
-WHR_heavy_tank_artillery_equipment_3_short: "ŠSU-210"
-#St. Emil with dicker max:
-WHR_heavy_tank_destroyer_equipment_1: "105-mm Ciažkaja Procitankavaja Samachodnaja Ustanouka uz.1935"
-WHR_heavy_tank_destroyer_equipment_1_short: "CPTSU-105"
-#Ferdinand/tiger Hybrid with dicker max:
-WHR_heavy_tank_destroyer_equipment_2: "105-mm Ciažkaja Procitankavaja Samachodnaja Ustanouka uz.1941"
-WHR_heavy_tank_destroyer_equipment_2_short: "CPTSU-41"
-#Jagdtiger:
-WHR_heavy_tank_destroyer_equipment_3: "128-mm Ciažkaja Procitankavaja Samachodnaja Ustanouka uz.1943"
-WHR_heavy_tank_destroyer_equipment_3_short: "CPTSU-128"
-#fake, icon reference from Pz.Sfl. IVc:
-WHR_heavy_tank_aa_equipment_1: "88-mm Zienitnaja Samachodnaja Ustanouka uz.1935"
-WHR_heavy_tank_aa_equipment_1_short: "ZSU-88"
-#fake, icon reference from Pz.Sfl. IVc:
-WHR_heavy_tank_aa_equipment_2: "105-mm Zienitnaja Samachodnaja Ustanouka uz.1941"
-WHR_heavy_tank_aa_equipment_2_short: "ZSU-105"
-#fake:
-WHR_heavy_tank_aa_equipment_3: "128-mm Zienitnaja Samachodnaja Ustanouka uz.1943"
-WHR_heavy_tank_aa_equipment_3_short: "ZSU-128"
-
-#E100:
-WHR_super_heavy_tank_equipment_1: "Ciažki Šturmavoj Tank uz.1943"
-WHR_super_heavy_tank_equipment_1_short: "CŠT-43"
-#GWE 100:
-WHR_super_heavy_tank_artillery_equipment_1: "305-mm Šturmavaja Samachodnaja Ustanouka uz.1943"
-WHR_super_heavy_tank_artillery_equipment_1_short: "CŠSU-305"
-#JGPZ 100:
-WHR_super_heavy_tank_destroyer_equipment_1: "170-mm Ciažkaja Procitankavaja Samachodnaja Ustanouka uz.1943"
-WHR_super_heavy_tank_destroyer_equipment_1_short: "CPTSU-170"
-#fake:
-WHR_super_heavy_tank_aa_equipment_1: "128-mm Ciažkaja Zienitnaja Samachodnaja Ustanouka uz.1943"
-WHR_super_heavy_tank_aa_equipment_1_short: "CZSU-128"
-
-#E50:
-WHR_modern_tank_equipment_1: "Šturmavoj Tank uz.1945"
-WHR_modern_tank_equipment_1_short: "ŠT-45"
-#fake:
-WHR_modern_tank_artillery_equipment_1: "150-mm Šturmavaja Samachodnaja Ustanouka uz.1945"
-WHR_modern_tank_artillery_equipment_1_short: "ŠSU-45"
-#JGpanther mit 10,5:
-WHR_modern_tank_destroyer_equipment_1: "105-mm Šturmavaja Procitankavaja Samachodnaja Ustanouka uz.1945"
-WHR_modern_tank_destroyer_equipment_1_short: "ŠPTSU-105"
-#fake:
-WHR_modern_tank_aa_equipment_1: "55-mm Zienitnaja Samachodnaja Ustanouka uz.1943"
-WHR_modern_tank_aa_equipment_1_short: "ZSU-45"
-
-#Pz.2 modified, i.e. Schwimmpanzer II:
-WHR_amphibious_tank_equipment_1: "Plyvučy Liohki Tank uz.1941"
-WHR_amphibious_tank_equipment_1_short: "PLT-41"
-#Panzerfahre with tower:
-WHR_amphibious_tank_equipment_2: "Plyvučy Siaredni Tank uz.1943"
-WHR_amphibious_tank_equipment_2_short: "PST-43"
-
 ###
 ### Wallonia ###
 ###
@@ -15621,13 +13306,13 @@ ZIM_infantry_equipment_1_short: "SMLE Mk V"
 ###
 
 ### Land ###
-ZZB_infantry_equipment_0: "Short Model Lee–Enfield Mk I"
-ZZB_infantry_equipment_0_short: "SMLE Mk 1"
-ZZB_infantry_equipment_1: "$MAF_infantry_equipment_1$"
-ZZB_infantry_equipment_1_short: "$MAF_infantry_equipment_1_short$"
-ZZB_infantry_equipment_1_desc: "$MAF_infantry_equipment_1_desc$"
+ZAN_infantry_equipment_0: "Short Model Lee–Enfield Mk I"
+ZAN_infantry_equipment_0_short: "SMLE Mk 1"
+ZAN_infantry_equipment_1: "$MAF_infantry_equipment_1$"
+ZAN_infantry_equipment_1_short: "$MAF_infantry_equipment_1_short$"
+ZAN_infantry_equipment_1_desc: "$MAF_infantry_equipment_1_desc$"
 
-ZZB_support_weapons: "$GER_support_weapons$"
-ZZB_support_weapons_short: "$GER_support_weapons_short$"
-ZZB_support_weapons2: "$GER_support_weapons2$"
-ZZB_support_weapons2_short: "$GER_support_weapons2_short$"
+ZAN_support_weapons: "$GER_support_weapons$"
+ZAN_support_weapons_short: "$GER_support_weapons_short$"
+ZAN_support_weapons2: "$GER_support_weapons2$"
+ZAN_support_weapons2_short: "$GER_support_weapons2_short$"

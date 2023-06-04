@@ -692,14 +692,14 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
 
  bulfor.35.t: "Vertrag von Edirne"
  bulfor.35.d: "So demütigend es auch erscheinen mag, die Bulgaren haben das von ihnen beanspruchte Land besetzt und sind uns gegenüber stark im Nachteil. Vielleicht ist es an der Zeit, ihnen zu geben, was sie begehren?"
- bulfor.35.d.cairo_pact: "Umgeben von Feinden auf allen Seiten und einem vorrückenden Bulgarien in der Nähe der Hauptstadt von [773.GetCapitalVictoryPointName], sehen wir keine andere Wahl, als alle beanspruchten Gebiete an Bulgarien abzutreten und zu hoffen, dass sie uns in Ruhe lassen, damit wir alle Anstrengungen auf die Südfront konzentrieren können."
+ bulfor.35.d.cairo_pact: "Umgeben von Feinden auf allen Seiten und einem vorrückenden Bulgarien in Ostthrakien, sehen wir keine andere Wahl, als alle beanspruchten Gebiete an Bulgarien abzutreten und zu hoffen, dass sie uns in Ruhe lassen, damit wir uns ganz auf die Südfront konzentrieren können."
  bulfor.35.a: "Wir kommen eines Tages zurück!"
  bulfor.35.b: "Das Imperium verneigt sich nicht vor balkanischen Heuchlern!"
 
  bulfor.36.t: "Vertrag von Edirne"
  bulfor.36.d: "Wir haben den [From.GetAdjective]-Widerstand zermürbt, und jetzt sind sie endlich eingeknickt und haben uns angeboten, uns unser beanspruchtes Land zu überlassen."
- bulfor.36.d.cairo_pact: "Zermürbt durch den Krieg an der Nahostfront und in dem Bewusstsein, dass sie unseren Streitkräften auf der Grundlage des Kairoer Paktes nicht widerstehen können, hat das Kaiserreich zugestimmt, uns die von uns beanspruchten Gebiete abzutreten, wenn wir den Krieg verlassen. Es wäre jedoch klug, dieses Angebot anzunehmen, bevor sie das Blatt wenden und uns angreifen."
- bulfor.36.a: "Wir akzeptieren den Vertrag"
+ bulfor.36.d.cairo_pact: "Zermürbt durch den Krieg an der Nahostfront und in dem Bewusstsein, dass sie unseren Streitkräften auf der Grundlage des Kairoer Paktes nicht widerstehen können, hat das Kaiserreich zugestimmt, uns die von uns beanspruchten Gebiete abzutreten, wenn wir den Krieg verlassen. Es wäre klug, dieses Angebot anzunehmen, um einen kostspieligen Feldzug in Anatolien zu vermeiden, der für uns möglicherweise nach hinten losgehen könnte."
+ bulfor.36.a: "Wir akzeptieren den Vertrag."
  bulfor.36.b: "Vertreiben Sie die Osmanen aus dem gesamten Balkan!"
 
  bulfor.37.t: "Bulgarien lehnt ab"

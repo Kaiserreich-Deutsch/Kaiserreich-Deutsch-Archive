@@ -207,7 +207,7 @@
  ott_constitution_tt: "Das osmanische Parlament, der Großwesir und der Padischah [OTT.GetLeader] werden eine moderne Verfassung für das Osmanische Reich ausarbeiten.\n\n§YPluralistische Verfassung§!:\n§gEin Teil der derzeitigen Macht des Staates wird den Bürgern zugeschrieben, wodurch individuelle Freiheiten wie Rede- und Religionsfreiheit garantiert und geschützt werden. Der Sultan wird sein Recht aufgeben, sich direkt in die Angelegenheiten des Staates einzumischen, welches nun stattdessen von einem demokratisch gewählten Gremium gehalten wird.§!\nErhält Nationalgeist: §YPluralistische Verfassung§!, wodurch ($MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§!, $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5.00%§!) gewährt wird.\n\n§YAutoritäre Verfassung§!:\n§gDie Macht wird von einer Partei zentralisiert, deren gewählter Anführer zum Großwesir ernannt werden wird. Alle anderen Parteien werden verboten. Der Sultan behält sein Recht, religiöse Angelegenheiten zu kontrollieren, muss sich in staatlichen Angelegenheiten jedoch mit der herrschenden Partei absprechen.§!\nErhält Nationalgeist: §YAutoritäre Verfassung§!, wodurch ($MODIFIER_POLITICAL_POWER_FACTOR$: §G+10%§!, Nicht-Kern-Mannstärke: §G+10%§!) gewährt wird.\n\n"
  ott_religious_organisation_tt: "\nEs ist ein starker Widerstand der §RUlema§! und der §Rkonservativen Opposition§! zu erwarten."
  ott_maintenance_of_order_law_tt: "Dieser Irade wird dem §YGroßwesir§! §Cweitreichende exekutive Befugnisse§! gewähren, um gegen jeglichen Dissens und Anti-OHF-Elemente im Staatsapparat vorzugehen.\n\nErlaubt es, in §YVilayets§! das £manpower_texticon  §YKriegsrecht§! auszurufen."
- ott_maghrebi_frontier_tt: "Schaltet £decision_icon_small §YEntscheidungen§! frei, um §C [MOR.GetNameWithFlag], [ALG.GetNameWithFlag], [TUN.GetNameWithFlag], [SOM.GetNameWithFlag], [CHA.GetNameWithFlag], [MLI.GetNameWithFlag], [NGR.GetNameWithFlag], [MRT.GetNameWithFlag] und [ZZB.GetNameWithFlag] §! in den §YIstanbulpakt§! einzuladen.\n\nSchaltet £decision_icon_small §YEntscheidungen§! frei, um §C [MOR.GetNameWithFlag], [ALG.GetNameWithFlag], [TUN.GetNameWithFlag], [LBA.GetNameWithFlag], [EGY.GetNameWithFlag], [SUD.GetNameWithFlag], [SOM.GetNameWithFlag], [CHA.GetNameWithFlag], [MLI.GetNameWithFlag], [NGR.GetNameWithFlag], [MRT.GetNameWithFlag], [ZZB.GetNameWithFlag] und [CAR.GetNameWithFlag] §! in die §YAssoziation muslimischer Nationen§! einzuladen."
+ ott_maghrebi_frontier_tt: "Schaltet £decision_icon_small §YEntscheidungen§! frei, um §C [MOR.GetNameWithFlag], [ALG.GetNameWithFlag], [TUN.GetNameWithFlag], [SOM.GetNameWithFlag], [CHA.GetNameWithFlag], [MLI.GetNameWithFlag], [NGR.GetNameWithFlag], [MRT.GetNameWithFlag] und [ZAN.GetNameWithFlag] §! in den §YIstanbulpakt§! einzuladen.\n\nSchaltet £decision_icon_small §YEntscheidungen§! frei, um §C [MOR.GetNameWithFlag], [ALG.GetNameWithFlag], [TUN.GetNameWithFlag], [LBA.GetNameWithFlag], [EGY.GetNameWithFlag], [SUD.GetNameWithFlag], [SOM.GetNameWithFlag], [CHA.GetNameWithFlag], [MLI.GetNameWithFlag], [NGR.GetNameWithFlag], [MRT.GetNameWithFlag], [ZAN.GetNameWithFlag] und [CAR.GetNameWithFlag] §! in die §YAssoziation muslimischer Nationen§! einzuladen."
  ott_arab_peninsula_tt: "Schaltet £decision_icon_small §YEntscheidungen§! frei, um §C [JBS.GetNameWithFlag] und [OMA.GetNameWithFlag] §! in den §YIstanbulpakt§! einzuladen.\n\nSchaltet £decision_icon_small §YEntscheidungen§! frei, um §C [JBS.GetNameWithFlag], [OMA.GetNameWithFlag] und [YEM.GetNameWithFlag] §! in die §YAssoziation muslimischer Nationen§! einzuladen."
  ott_orient_tt: "Schaltet £decision_icon_small §YEntscheidungen§! frei, um §C [AZR.GetNameWithFlag] und [AFG.GetNameWithFlag] §! in den §YIstanbulpakt§! einzuladen.\n\nSchaltet £decision_icon_small §YEntscheidungen§! frei, um §C [AZR.GetNameWithFlag], [PER.GetNameWithFlag], [TRK.GetNameWithFlag], [BUK.GetNameWithFlag], [KHI.GetNameWithFlag], [ALO.GetNameWithFlag], [AFG.GetNameWithFlag], [KUM.GetNameWithFlag], [ETS.GetNameWithFlag], [INS.GetNameWithFlag], [MAL.GetNameWithFlag] und [SAR.GetNameWithFlag] §! in die §YAssoziation muslimischer Nationen§! einzuladen."
  ott_gamble_caucasus_tt: "§C[AZR.GetNameWithFlag]§! wird ein Teil unserer Einflusssphäre, als Austausch für unsere Mitgliedschaft im §YReichspakt§!."
@@ -220,7 +220,6 @@
  ott_but_purging_is_cooler_tt: "Aktiviert die Provinzinteraktion §YGegen illoyale Elemente vorgehen§!\n\n"
  ott_centralisation_army: "$ ott_centralisation_add_tooltip$\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+1%§!\nOrganisationsregeneration (Armee): §G+1%§!\n$MODIFIER_ARMY_ORG_FACTOR$: §G+1%§!\nLuftüberlegenheit: §G+1%§!\n$modifier_production_speed_arms_factory_factor$: §G+1%§!\n\n"
  ott_reorganisation_commision: "\n§RDeaktiviert§! die Provinzinteraktion §YSenkung der Steuern§!\n§RDeaktiviert§! die Provinzinteraktion §YErhöhung der Steuern§!\n§GAktiviert§! die Provinzinteraktion §YVernichtet die Korruption§!\n§GAktiviert§! die Provinzinteraktion §YHilfsmaßnahmen fokussieren§!"
- OTT_desert_tt: "Das §GOsmanische Wüstenkorps§! wird uns bei der Kontrolle von Wüstenregionen unterstützen.\n§ROsmanische Wüsten-Ranger§! patrouillieren von nun an die Wüste.\n"
  ott_army_tree_tt: "Hat den Fokus §YAusgleich unseres Budgets§! abgeschlossen"
  OTT_every_islamic_country: "Jedes islamische Land"
  OTT_armor_division_template_gained: "Erhaltet 2 £nato_unit_light_armor_icon_small  §YZirhli Alayi§! mit 4 §YLeichten Panzer-§! und 2 §YMotorisierten§! Bataillonen, §YUnterstützungs-Artillerie§!, §YPionieren§!, und einer §Ymotorisierten Aufklärungskompanie§!.\n\n"
@@ -240,7 +239,6 @@
 
 ### Country Flags
  free_press: "Die Pressefreiheit wird von der Verfassung garantiert"
- ott_millet_full_reform: "Die von der Millet geschützte Bildung wurde abgeschafft"
  separated_church_state: "Die Verfassung ist auf eine säkularistische Agenda ausgelegt"
  ott_sharif_abolished: "$has_completed_decision$ $OTT_ARA_Abolish_Sharif$§!"
  sharif_dead: "Der Großscharif von Mekka ist verstorben"
@@ -249,12 +247,10 @@
  ott_abolished_royal_pardon: "Die Verfassung wurde durch ein königliches Pardon abgeschafft"
  ott_language_reformed_flag: "Die Türk Dil Kurumu wurde gegründet"
  ott_halkevleri_created: "Die Halkevleri wurde eingeführt"
- ott_aze_arrangement: "§YDas Abkommen von Baku wurde unterzeichnet§!"
  mecelle_kept: "Die Mecelle bleibt das Zentrum des osmanischen Gesetzes"
  retarded_legal_system: "Das Rechtssystem wurde dezentralisiert"
  ASY_got_an_ass_whooping: "Die assyrischen Truppen wurden aufgelöst"
  black_monday_yeet: "Die Auswirkungen des Schwarzen Montags sind vorüber"
- AXIS_VICTORY: "Der Kairo-Pakt ist siegreich"
  EGY_CONQ: "Hat Ägypten annektiert"
  expanded_millets: "Die Millets wurden ausgebaut"
  ziraat_bypass: "Die Ziraat Bankasi wurde gegründet"
@@ -263,7 +259,6 @@
  ott_millet_mektepleri_prereq_tt: "Hat den Fokus §YMillet Mektepleri§! abgeschlossen\n"
 
 ### Global Flags
- OTT_Surrender: "Die Osmanen wurden besiegt."
  SUEZ_SUCCESS: "Das §GAbkommen von Port Said§! wurde unterzeichnet."
  SUEZ_CANAL_BLOCKED: "Der Suezkanal wird blockiert."
  SUEZ_REOPENED: "Der Suezkanal wird §Herneut geöffnet§! werden."
@@ -276,13 +271,11 @@
  ott_increase_syr_int_5: "Erhöht die §YIntegration der syrischen Vilayets§! um §G5%§!"
  ott_increase_syr_int_10: "Erhöht die §YIntegration der syrischen Vilayets§! um §G10%§!"
  ott_increase_syr_int_20: "Erhöht die §YIntegration der syrischen Vilayets§! um §G20%§!"
- ott_increase_syr_int_40: "Erhöht die §YIntegration der syrischen Vilayets§! um §G40%§!"
  ott_set_integration_syr_100: "Erhöht die §YIntegration der syrischen Vilayets§! auf §G100%§!"
 
 # Greek Islands
  ott_increase_gre_int_5: "Erhöht die §YIntegration der griechischen Insel-Vilayets§! um §G5%§!"
  ott_increase_gre_int_10: "Erhöht die §YIntegration der griechischen Insel-Vilayets§! um §G10%§!"
- ott_increase_gre_int_15: "Erhöht die §YIntegration der griechischen Insel-Vilayets§! um §G15%§!"
  ott_increase_gre_int_20: "Erhöht die §YIntegration der griechischen Insel-Vilayets§! um §G20%§!"
 
 # Kurdistan
@@ -292,17 +285,13 @@
 
 # Hejaz
  ott_decrease_hej_int_5: "Verringert die §YIntegration der Vilayets der arabischen Halbinsel§! um §R5%§!"
- ott_decrease_hej_int_15: "Verringert die §YIntegration der Vilayets der arabischen Halbinsel§! um §R15%§!"
  ott_increase_hej_int_5: "Erhöht die §YIntegration der Vilayets der arabischen Halbinsel§! um §G5%§!"
- ott_increase_hej_int_10: "Erhöht die §YIntegration der Vilayets der arabischen Halbinsel§! um §G10%§!"
- ott_increase_hej_int_15: "Erhöht die §YIntegration der Vilayets der arabischen Halbinsel§! um §G15%§!"
  ott_increase_hej_int_20: "Erhöht die §YIntegration der Vilayets der arabischen Halbinsel§! um §G20%§!"
 
 # Iraq
  ott_increase_irq_int_5: "Erhöht die §YIntegration der mesopotamischen Vilayets§! um §G5%§!"
  ott_decrease_irq_int_5: "Verringert die §YIntegration der mesopotamischen Vilayets§! um §R5%§!"
  ott_increase_irq_int_10: "Erhöht die §YIntegration der mesopotamischen Vilayets§! um §G10%§!"
- ott_increase_irq_int_15: "Erhöht die §YIntegration der mesopotamischen Vilayets§! um §G15%§!"
  ott_increase_irq_int_20: "Erhöht die §YIntegration der mesopotamischen Vilayets§! um §G20%§!"
  ott_set_integration_irq_100: "Erhöht die §YIntegration der irakischen Vilayets§! auf §G100%§!"
 
@@ -617,15 +606,11 @@
  OTT_t_nat_support_header: "§Türkische Nationalisten§!: §G[?OTT.nat_tur_sup_deputies]§!/[?OTT.nat_tur_deputies]"
  OTT_ind_support_header: "§CUnabhängige§!: §G[?OTT.ind_sup_deputies]§!/[?OTT.ind_deputies]"
 
- ott_small_support_congress_tt: "Mehr als §Y124 Abgeordnete§! unterstützen uns im §CMeclis-i Mebusân§!"
- ott_plurality_congress_tt: "Mehr als §Y249 Abgeordnete§! unterstützen uns im §CMeclis-i Mebusân§!"
-
  ott_small_support_congress_deficit_tt: "§gDa uns weniger als §Y124 £deputies_texticon Abgeordnete§! des §CMeclis-i Mebusân§! unterstützen (§Wderzeit : §Y[?OTT.representatives_support]§! £deputies_texticon §!), erhalten wir den folgenden Effekt:§!\n"
  ott_plurality_congress_deficit_tt: "§gDa uns weniger als §Y249 £deputies_texticon Abgeordnete§! des §CMeclis-i Mebusân§! unterstützen (§Wderzeit : §Y[?OTT.representatives_support]§! £deputies_texticon §!), erhalten wir den folgenden Effekt:§!\n"
 
  more_tur_than_ara_tt: "mehr £deputies_texticon §YAbgeordnete§! der türkischen Nationalisten als £deputies_texticon §YAbgeordnete§! der arabischen Nationalisten"
 
- 75_con_opp_tt: "\n§Y75 £deputies_texticon Abgeordnete§! der Konservativen treten der §ROpposition§! bei"
  50_con_opp_tt: "\n§Y50 £deputies_texticon Abgeordnete§! der Konservativen treten der §ROpposition§! bei"
  30_con_opp_tt: "\n§Y30 £deputies_texticon Abgeordnete§! der Konservativen treten der §ROpposition§! bei"
  30_con_sup_tt: "\n§Y30 £deputies_texticon Abgeordnete§! der Konservativen treten der §GKoalition§! bei"
@@ -1569,9 +1554,8 @@
  ottpol.30.a: "Sie haben sich also doch abgespalten!"
 
  ottpol.31.t: "Notwahlen von [GetYear]"
- ottpol.31.d: "Aufgrund des Falls der OHF-Regierung wurden die Bürger des Reichs erneut dazu aufgerufen, wählen zu gehen, um über die Zukunft unseres ewigen Staates zu entscheiden. Der OHF scheint dank ihrer internen Spaltung eine große Niederlage bevorzustehen, wobei viele ihrer ehemaligen Wähler wohl die neugegründete DP wählen werden. Allerdings schlägt sich auch die OHF in den Umfragen gut, da große Teile der Oberschicht fürchten, die DP sei nur ein weiterer Wolf im Schafspelz."
- ottpol.31.a: "Die DP gewinnt!"
- ottpol.31.b: "Die HIF gewinnt!"
+ ottpol.31.d: "Aufgrund des Falls der OHF-Regierung wurden die Bürger des Reichs erneut dazu aufgerufen, wählen zu gehen, um über die Zukunft unseres ewigen Staates zu entscheiden. Der OHF scheint dank ihrer internen Spaltung eine große Niederlage bevorzustehen, wobei viele ihrer ehemaligen Wähler wohl die neugegründete DF wählen werden. Allerdings schlägt sich auch die HIF in den Umfragen gut, da große Teile der Oberschicht fürchten, die DF sei nur ein weiterer Wolf im Schafspelz."
+ ottpol.31.a: "Die HIF gewinnt!"
 
 ### Successful Assassination Attempt
  ottpol.32.t: "Ein sonniger Tag in Izmir"
@@ -1610,8 +1594,7 @@
 
  ottpol.40.t: "Osmanische Wahlen von [GetYear]"
  ottpol.40.d: "Aufgrund des frühzeitigen Todes unseres ehemaligen Großwesirs und dem daraus entstandenen Machtkampf innerhalb der OHF hat Sultan [OTT.GetLeader] neue Wahlen organisiert, um eine stabile und demokratisch gewählte Nachfolge zu garantieren. Die militärische Einmischung im Prozess der Wahl eines Nachfolgers zeigt jedoch, dass die Armee, nun, da Mustafa Kemal tot ist, wohl bald eine direktere Rolle in der Politik übernehmen und die Nation somit auf einen aus ihrer Sicht besseren Kurs leiten könnte. Viele fürchten, diese Wahlen seien nur der Anfang und dass die Situation auch in naher Zukunft noch instabil bleiben könnte."
- ottpol.40.a: "Die OHF kann ihre Dominanz beibehalten."
- ottpol.40.b: "Die Liberale Entente erringt die Mehrheit."
+ ottpol.40.a: "Die Liberale Entente erringt die Mehrheit."
 
  ottpol.41.t: "Das Militär startet einen Putsch"
  ottpol.41.d: "Heute ist die Angst vieler zur Realität geworden: Fevzi Pascha hat offiziell den staatlichen Notstand ausgerufen, Wahlen auf unbestimmte Zeit verschoben und das Parlament bis auf Weiteres aufgelöst. Da sowohl die Armee als auch ein Großteil der OHF hinter ihm stehen, scheint es recht unwahrscheinlich, dass diese Maßnahmen nur von kurzer Dauer sein werden, weshalb viele fürchten, dass nun, nur einige Wochen nach der Ermordung des Großwesirs, eine Militärdiktatur etabliert werden könnte. Um gegen möglichen Widerstand in den äußeren Vilayets vorzugehen, wurden alle Walis in die Hauptstadt berufen, wo die zukünftige Politik diskutiert werden soll - und viele von ihnen wohl durch dem Regime loyale Mitglieder des Militärs ersetzt werden. In Kostantiniyye wiederum wurde Ismet Pascha zum neuen Großwesir ernannt, welcher sich vor allem um einen reibungslosen Ablauf der alltäglichen Angelegenheiten kümmern soll. In den politischen Kreisen ist den meisten jedoch klar, dass er lediglich eine Marionette des neuen Regimes ist."
@@ -1689,7 +1672,6 @@
  ottkem.15.t: "Osmanische Verfassung - Hoheitliche Rechte des Sultans"
  ottkem.15.d: "Artikel 7: Zu den heiligen Vorrechten des Sultans gehören: Die Erwähnung seines Namens in Gebeten; die Prägung von Münzen; die Vergabe hoher öffentlicher Ämter und Titel, gemäß der zu diesem Zweck verfassten Gesetze; die Anerkennung von Orden; die Auswahl und Ernennung des Großwesirs und des Seyhülislams; die Bestätigung der Ämter der Mitglieder des vom Großwesir geformten und vorgeschlagenen Kabinetts und, falls nötig, die Entlassung und Ersetzung der Minister nach üblicher Praxis."
  ottkem.15.a: "Angenommen."
- ottkem.15.b: "Schränkt die imperialen Vorrechte ein."
 
  ottkem.16.t: "Osmanische Verfassung - Grundlegende Menschenrechte"
  ottkem.16.d: "Artikel 10: Alle Bürger des Reiches werden als Osmanen bezeichnet, ohne Unterscheidung, zu welchem Glauben sie sich bekennen.\n\nArtikel 11: Jeder Osmane genießt persönliche Freiheit, solange er nicht die Freiheit anderer einschränkt.\n\nArtikel 12: Die persönliche Freiheit ist unantastbar. Niemand darf Bestrafungen erfahren, egal, unter welchem Vorwand dies auch geschehen mag, außer in vom Gesetz vorgeschriebenen Fällen, in denen sie in der Form ausgeübt werden müssen, wie im Gesetz festgehalten wurde.\n\nArtikel 13: Alle Osmanen sind vor dem Gesetz gleich. Sie haben dieselben Rechte und dieselben Pflichte gegenüber ihrem Land, ohne Unterscheidung zwischen verschiedenen Religionsgruppen.\n\nArtikel 14: Alle Osmanen sind für öffentliche Ämter zugelassen und dürfen diese basierend auf ihrer Fitness, ihren Verdiensten und ihren Fähigkeiten bekleiden."
@@ -1809,7 +1791,6 @@
  ottkem.40.t: "Berichte einer Verschwörung gegen den Sultan"
  ottkem.40.d: "Anfangs der Woche erreichten uns beunruhigende Neuigkeiten: Die Milli Emniyet Hizmeti hat eine Verschwörung gegen den Sultan und die gesamte Regierung entdeckt, welche wohl vor allem aus radikalisierten Unterstützern der ehemaligen CUP besteht. Die Polizei in Kostantiniyye erhielt einen anonymen Hinweis, welcher sie vor einem geplanten Attentat auf den Sultan und den Großwesir warnte, woraufhin die Verschwörer die Hohe Pforte übernehmen und einen neuen Sultan, der ihrer Weltanschauung folgt, krönen wollten. Unter den Verschwörern befinden sich mehrere ehemalige Mitglieder der alten CUP Teskilât-i Mahsusa (Spezialorganisation) von Enver Pascha, von denen noch immer viele hohe Positionen in der Armee oder der Sicherheit innehaben. Die Größe ihres Netzwerks lässt sich nur schwer abschätzen, da eine schlechte Kommunikation mit den östlichen Provinzen, in denen sich noch immer mehrere Gruppen, die Envers ehemaliger Armee des Islams treu sind, umhertreiben, die Gendarmerie daran hindert, eine vollständige Untersuchung durchzuführen."
  ottkem.40.a: "Ordnet die Verhaftung von Kara Kemal an und stellt die Verdächtigen unter Hausarrest!"
- ottkem.40.b: "Das würde nur für unnötigen Ärger sorgen, stellt die Untersuchung ein."
 
  ottkem.41.t: "Das Korps von Konstantinopel verhindert Verhaftungen"
  ottkem.41.d: "Heute wurden Polizeioffiziere, welche Kara Kemal und sieben andere Politiker verhaften sollten, von Soldaten des Korps von Konstantinopel daran gehindert. Daraufhin wurden Kara Kemal und die anderen von den Soldaten in ein sicheres Versteck an einem noch unbekannten Ort gebracht. Es besteht eine große Verwirrung, da niemand wirklich weiß, was hier gerade los ist."
@@ -2571,18 +2552,6 @@
  ottfla.22.d: "Obwohl die großsyrische Revolte ein für alle Mal niedergeschlagen wurde, haben die Unruhen um Jerusalem noch kein Ende gefunden. Dies liegt vor allem an den kleinen Gruppen von Rebellen, die noch immer Gefechte mit Truppen der Regierung und den zionistischen Milizen austragen. Deshalb wurde Fahrettin Pascha, ein relativ unkontroverser Militäroffizier, der mit der OHF in Verbindung steht, zum regionalen Gouverneur ernannt und mit der Aufgabe betraut, den Gehorsam Jerusalems und seiner umliegenden Gebiete zu sichern."
  ottfla.22.a: "Viel Glück!"
 
-###########
-# REVOLTS #
-###########
-# Loss of Tripolitania
- ottrev.3.t: "Ärger in [LBA.GetName]"
- ottrev.3.d: "Obwohl osmanische Truppen während des Weltkriegs Seite an Seite mit den Senussis gekämpft haben, hat sich die Region seit dem türkisch-italienischen Krieg immer weiter von Kostantiniyye entfernt. Die Ägypter, denen das bewusst ist, haben diese Spaltung in den letzten Jahrzehnten ausgenutzt. Während die Hohe Pforte einen säkularistischen und zentralistischen Kurs eingeschlagen hat, hat [LBA.GetName] damit begonnen, nach einer Alternative zu suchen. Aufgrund der steigenden Spannungen im Maschrek und den Ambitionen Ägyptens, die immer deutlicher zum Vorschein kommen, kommt es nun stetig zu Grenzüberschreitungen von bewaffneten Revolutionären und anti-osmanischen Rebellengruppen."
- ottrev.3.a: "Äußerst beunruhigend."
-
- ottrev.4.t: "[LBA.GetName] bricht mit der Hohen Pforte"
- ottrev.4.d: "Unser alter Verbündeter Ahmed Sharif I Al Senoussi wurde anfangs der Woche abgesetzt, nachdem der von Ägypten unterstützte Idris triumphierend in seine Heimat zurückkehrte. Dieser neue Anführer versucht nicht, seine Intentionen zu verstecken, sondern hat heute eine offizielle Allianz zwischen seinem Königreich und dem Sultanat Ägypten verkündet. Die osmanische Militärmission, die die libyschen Streitkräfte außerhalb der Stadt Tobruk trainierte, wurde daraufhin sofort aus dem Land verwiesen. Dadurch wurde unsere Regierung erzürnt, welche in dieser kürzlichen Entwicklung nichts als ägyptischen Imperialismus sieht."
- ottrev.4.a: "Dafür werden sie bezahlen!"
-
 ##################
 # FOREIGN POLICY #
 ##################
@@ -2671,7 +2640,6 @@
  ottfor.20.t: "Die Geschichte zweier Nationen"
  ottfor.20.d: "Es gab nur wenige, die sich als würdigere Rivalen für das österreichische Kaiserreich herausgestellt haben als die Osmanen. Wieder und wieder haben Kriege zwischen unseren beiden Reichen zu Grenzverschiebungen im Balkan geführt, deren Konsequenzen noch heute erkennbar sind. Dennoch haben sich die Zeiten geändert - und was einst unmöglich schien, ist heute in greifbarer Nähe.\n\nAufgrund einer von der Konstantinopolis Macar Bilim Enstitüsü (Ungarischen Universität in [773.GetCapitalVictoryPointName]) propagierten Idee und mit der Zustimmung des Großwesirs arbeiten Botschafter in Wien und [TUR.Capital.GetCapitalVictoryPointName] nun rund um die Uhr daran, die Beziehungen zwischen den beiden Reichen zu verbessern, während die preußische Dominanz und radikale politische Änderungen die restliche Welt auf den Kopf stellen. Obwohl die erste Reaktion auf die Idee der Kameradschaft der beiden Reichen positiv war, fragen sich viele, wie weit diese gehen sollte. Einige schlagen lediglich einen Austausch von Höflichkeiten vor, während andere auf viel mehr aus sind.\n\nDer Balkan, früher das größte Schlachtfeld unserer beiden Reiche, ist noch immer ein schwieriges Thema, da die fehlenden österreichischen und osmanischen Reaktionen auf die dortigen politischen Entwicklungen der letzten Jahre unseren Einfluss und unsere Fähigkeit, den Status Quo aufrechtzuerhalten, reduziert haben. Obwohl sich [ OTT_ConstantinopleFallback] und Wien noch uneinig sind, wie ein idealer und stabiler Balkan aussehen sollte, wollen beide den Frieden in der Region wahren, damit es dort nicht zum Aufstieg neuer Nationen kommt, die ihre Position infrage stellen können."
  ottfor.20.a: "Befehlt unserem Botschafter, sich für weitere Kooperation einzusetzen."
- ottfor.20.b: "Einige Wunden können nie verheilen..."
 
  ottfor.21.t: "Die Geschichte zweier Nationen"
  ottfor.21.d: "Es gab nur wenige, die sich als würdigere Rivalen für das österreichische Kaiserreich herausgestellt haben als die Osmanen. Wieder und wieder haben Kriege zwischen unseren beiden Reichen zu Grenzverschiebungen im Balkan geführt, deren Konsequenzen noch heute erkennbar sind. Dennoch haben sich die Zeiten geändert - und was einst unmöglich schien, ist heute in greifbarer Nähe.\n\nAufgrund einer von der Konstantinopolis Macar Bilim Enstitüsü (Ungarischen Universität in [773.GetCapitalVictoryPointName]) propagierten Idee und mit der Zustimmung des Großwesirs arbeiten Botschafter in Wien und [TUR.Capital.GetCapitalVictoryPointName] nun rund um die Uhr daran, die Beziehungen zwischen den beiden Reichen zu verbessern, während die preußische Dominanz und radikale politische Änderungen die restliche Welt auf den Kopf stellen. Obwohl die erste Reaktion auf die Idee der Kameradschaft der beiden Reichen positiv war, fragen sich viele, wie weit diese gehen sollte. Einige schlagen lediglich einen Austausch von Höflichkeiten vor, während andere auf viel mehr aus sind.\n\nDer Balkan, früher das größte Schlachtfeld unserer beiden Reiche, ist noch immer ein schwieriges Thema, da die fehlenden österreichischen und osmanischen Reaktionen auf die dortigen politischen Entwicklungen der letzten Jahre unseren Einfluss und unsere Fähigkeit, den Status Quo aufrechtzuerhalten, reduziert haben. Obwohl sich [ OTT_ConstantinopleFallback] und Wien noch uneinig sind, wie ein idealer und stabiler Balkan aussehen sollte, wollen beide den Frieden in der Region wahren, damit es dort nicht zum Aufstieg neuer Nationen kommt, die ihre Position infrage stellen können."
@@ -3142,6 +3110,10 @@
  ottfor.98.t: "[From.Owner.GetName] greift Persien nicht an"
  ottfor.98.d: "Aserbaidschan hat sich törichterweise dazu entschieden, unsere bitte um Unterstützung gegen den Iran zu ignorieren, mit der Begründung, dass ein Kriegsbeitritt zu große Gefahren mit sich bringe. Dieser Verrat wird, nach allem was wir für Aserbaidschan getan haben, nicht vergessen werden. Nun müssen wir uns dem iranischen Biest wohl oder übel allein entgegenstellen..."
  ottfor.98.a: "Wird uns denn niemand beistehen?!"
+ 
+ ottfor.100.t: "[From.Owner.GetName] plant einen Angriff!"
+ ottfor.100.d: "Die Osmanen, welche sich stetig weiter zurückgedrängt sehen, haben laut Geheimdienstberichten Gespräche mit dem Aserbaidschan aufgenommen und versuchen nun, diesen dazu bewegen, eine zweite Front in unserem Norden zu eröffnen, wobei sie den Aseris die iranischen Teile Aserbaidschans als Entschädigung versprechen. Wir müssen sofort damit beginnen, uns auf diese potenzielle Invasion vorzubereiten!"
+ ottfor.100.a: "Diese Schweinehunde!"
 
 ####################
 ### GUI Elements ###
@@ -3169,7 +3141,7 @@
  OTT_Action_Calm_Down_Local_Leaders_desc: "Die derzeitige Administration des Vilayets ist nur schwer zu kontrollieren, da viele der lokalen Bürokraten und andere Mitglieder des Verwaltungspersonals stark von der Oppostion beeinflusst werden. Um die Loyalität des Vilayets zu sichern, sollten wir den derzeitigen Gouverneur zurückrufen und ihn und die Führungsebene der Verwaltung ersetzen, was in der Zukunft eine schnellere Integration ermöglichen würde.\n\n[THIS. OTT_ACTION_CALM_DOWN_LOCAL_LEADERS_complete_check] Alle folgenden Bedingungen müssen erfüllt sein:\n   [THIS. OTT_ACTION_CALM_DOWN_LOCAL_LEADERS_focus_check] Hat den Fokus §YPrämien für Mitgliedschaft in der OHF§! abgeschlossen\n   [THIS. OTT_ACTION_CALM_DOWN_LOCAL_LEADERS_pp_check] Mehr Politische Macht als §Y20§!\n\n§YEffekt§!:\n§Y[THIS.GetName]§!: £resistance_texticon  §YUnruhe§! §Gsinkt§!\nPolitische Macht: §R-20§!"
 
  OTT_Action_Recruit_Local_Troops: "§YRekrutiert lokale Truppen§!"
- OTT_Action_Recruit_Local_Troops_desc: "Das Schicksal des Kalifats hängt am seidenen Faden, denn der Krieg hat unsere Küsten erneut erreicht. Jeder Bürger muss sich unter dem Banner des Sultanats vereinen, um seine Ehre und seine territoriale Integrität zu schützen!\n\n[THIS. OTT_ACTION_RECRUIT_LOCAL_TROOPS_complete_check] Alle folgenden Bedingungen müssen erfüllt sein:\n   [THIS. OTT_ACTION_RECRUIT_LOCAL_TROOPS_war_check] Im Krieg\n   [THIS. OTT_ACTION_RECRUIT_LOCAL_TROOPS_focus_check] Hat den Fokus §YReform des Wehrpflichtsystems§! nicht abgeschlossen\n   [THIS. OTT_ACTION_RECRUIT_LOCAL_TROOPS_xp_check] Mehr als §Y30§! Armeeerfahrung\n   [THIS. OTT_ACTION_RECRUIT_LOCAL_TROOPS_control_check] Kontrolliert von §H[From.GetNameDef]§!\n   [THIS. OTT_ACTION_RECRUIT_LOCAL_TROOPS_flag_check] Nicht: Hat bereits Irreguläre in dieser Provinz ausgehoben\n\n§YEffekt§!:\n§Y[THIS.GetName]§! Erschaffe eine §Yosmanische§! Division\nArmeeerfahrung: §R-30§!"
+ OTT_Action_Recruit_Local_Troops_desc: "Das Schicksal des Kalifats hängt am seidenen Faden, denn der Krieg hat unsere Küsten erneut erreicht. Jeder Bürger muss sich unter dem Banner des Sultanats vereinen, um seine Ehre und seine territoriale Integrität zu schützen!\n\n[!OTT_Action_Recruit_Local_Troops_button_click_enabled]\n§YEffekt§!:\n§Y[THIS.GetName]§!: [!OTT_Action_Recruit_Local_Troops_button_click]"
 
  OTT_Loosen_Tax_Burden: "§YSteuern senken§! [THIS.Corruption_Check]"
  OTT_Loosen_Tax_Burden_desc: "Unsere Unterstützung im osmanischen Parlament hängt von vielen Faktoren ab, der einfachste Weg, die Stimme eines Wählers zu ergattern, ist es jedoch, sein Portemonnaie zu füllen, zumal auch Abgeordnete vor allem Sonderrechte für ihre Leute wollen. Dies kann durch Steuerfreiheiten oder durch den Ausschluss von der Wehrpflicht "arrangiert" werden, würde jedoch die Kapazitäten unserer Regierung stark beeinträchtigen und auch die Korruption enorm ansteigen lassen.\n\n[! OTT_Loosen_Tax_Burden_button_click_enabled]\n§YEffekt§!:\n§Y[?THIS.deputy_calculator] £deputies_texticon Abgeordnete§!  der [THIS. OTT_LOOSEN_TAX_BURDEN_party] werden der §GKoalition§! beitreten.\n§Y[THIS.GetName]§! Lokale Mannstärke: §R-25%§!\n§Y[THIS.GetName]§!: £resistance_texticon  §YUnruhe§! wird §Gsinken§!\nPolitische Macht: §R-10§!"

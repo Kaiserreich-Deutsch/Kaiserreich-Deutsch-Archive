@@ -11,8 +11,8 @@
 # Einige davon können nur von einem Kaiserdev aktualisiert werden, wenn Sie also keiner sind, sagen Sie es bitte, wenn Sie diese Liste aktualisieren
 
 ### Splash Screen Credits ###
-KR_SPLASH_TITLE: "Willkommen bei Kaiserreich"
-KR_SPLASH_CREDITS: "§YFrohes Jahr des Hasen vom Kaiserreich Team:§!\nAdrianator2  ·  Alpinia  ·  Arvidus  ·  Asratius  ·  Augenis  ·  Blackfalcon501  ·  Carmain\nChazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Conchobhar  ·  DuoDex  ·  El Daddy  ·  Fedex  ·  Flamefang  ·  Gaboemi  ·  Gideones  ·  hildagrim  ·  Hamfast  ·  Ido  ·  Igor050301  ·  JazzyHugh\nJeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  katieluka  ·  Kennedy  ·  kergely\nKFateweaver  ·  Klyntar King  ·  Krčo  ·  Luwofe  ·  Matoro  ·  McOmghall  ·  ~mw~ // miwaco.\nNukeGaming  ·  OperationsManagementDecisions  ·  Owenomaly  ·  PPsyrius  ·  Pelmen\nRagnoStrangeros  ·  Retrocognition  ·  Rnk  ·  Shiroe  ·  Sonny O'Cad  ·  Story  ·  suzuha\nThe Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko  ·  Hydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc, Wolf  ·  Silent_Wolf  ·  Alex S  ·  DerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier  ·  Itzy"
+KR_SPLASH_TITLE: "§YLiebevoll gestaltet vom Kaiserreich Team:§!"
+KR_SPLASH_CREDITS: "84F8DB  ·  Alpinia  ·  Arvidus  ·  Asratius  ·  Augenis  ·  Blackfalcon501  ·  Carmain  ·  Chazem\nChiang Kai-shrek  ·  Chiron29  ·  Conchobhar  ·  DuoDex  ·  El Daddy  ·  Fedex\nFlamefang  ·  Gaboemi  ·  Gideones  ·  hildagrim  ·  Hamfast  ·  hildagrim  ·  Ido  ·  Igor050301\nJazzyHugh  ·  Jeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  katieluka\nKennedy  ·  kergely  ·  KFateweaver  ·  Klyntar King  ·  Krčo  ·  Luwofe  ·  Matoro\nMcOmghall  ·  ~mw~ // miwaco.  ·  NukeGaming  ·  OperationsManagementDecisions  ·  Owenomaly  ·  Pelmen  ·  PPsyrius\nRagnoStrangeros  ·  Retrocognition  ·  Rnk  ·  Shiroe  ·  Sonny O'Cad  ·  SuperGreenBeans  ·  suzuha\nThe Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko\nHydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc, Wolf  ·  Silent_Wolf  ·  Alex S\nDerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier  ·  Itzy"
 
 ### Career Profile ###
 KAISERREICH_CAREER_PROFILE: "Kaiserreich Deutsch"
@@ -216,7 +216,8 @@ cores_claims_map_mode_tooltip: "§Y[FROM.GetName]§! ([FROM.Owner.GetFlag] [FROM
 cores_claims_map_mode_tooltip_delayed: "[FROM.GetCoreClaimMapModeTooltip]"
 
 cores_claims_map_mode_tooltip_core: "§Y[FROM.GetName]§! ist ein §YKernstaat§! von §Y[ROOT.GetNameWithFlag]§!."
-cores_claims_map_mode_tooltip_potential_core: "§Y[FROM.GetName]§! ist ein §Ypotenzieller Kernstaat§! von §Y[ROOT.GetNameWithFlag]§!.\n§GPotenzielle Kernstaaten werden zu Kernstaaten, wenn sie einen bestimmten Schwellenwert des Gehormsams erreichen, während sie unter dem §Y$territorial_integration$§! Besatzungsrecht stehen.§!"
+cores_claims_map_mode_tooltip_potential_core_50: "§Y[FROM.GetName]§! ist ein §Ypotenzieller Kernstaat§! von §Y[ROOT.GetNameWithFlag]§!. Es wird zu einem Kernstaat, sobald §Y50%§! Gehorsam erreicht wurde."
+cores_claims_map_mode_tooltip_potential_core_80: "§Y[FROM.GetName]§! ist ein §Ypotenzieller Kernstaat§! von §Y[ROOT.GetNameWithFlag]§!. Es wird zu einem Kernstaat, sobald §Y80%§! Gehorsam erreicht wurde."
 cores_claims_map_mode_tooltip_claim: "§Y[FROM.GetName]§! ist §Ybeansprucht§! durch §Y[ROOT.GetNameWithFlag]§!."
 cores_claims_map_mode_tooltip_owned: "§Y[FROM.GetName]§! ist §Ybesetzt§! durch §Y[ROOT.GetNameWithFlag]§!."
 
@@ -506,7 +507,7 @@ tech_integrated_specialists: "Integrierte Spezialeinheiten"
 tech_integrated_specialists_effect: "Ermöglicht §H$tech_integrated_specialists$§!\n$MODIFIER_SPECIAL_FORCES_CAP$: §G+5%§!\n§H$category_special_forces$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!"
 
 tech_at_cavalry: "Kavallerie-Panzerbüchsen"
-tech_at_cavalry_effect: "Enables §H$tech_at_cavalry$\n$cavalry$§!\n      $STAT_COMMON_PIERCING$§G+3§!"
+tech_at_cavalry_effect: "Ermöglicht §H$tech_at_cavalry$\n$cavalry$§!\n      $STAT_COMMON_PIERCING$§G+3§!"
 
 tech_dragoon_tactics: "Dragoner-Taktik"
 tech_dragoon_tactics_effect: "Ermöglicht §H$tech_dragoon_tactics$\n$cavalry$§!\n      $STAT_COMMON_MAX_ORG$: §G+5§!\n      $STAT_ARMY_DEFAULT_MORALE$: §G+0.10§!\n      $STAT_ADJUSTER_MOVEMENT$§G+10%§!\n      Night $STAT_ADJUSTER_ATTACK$§G+10§!"
@@ -534,12 +535,15 @@ tech_militias_effect: "Ermöglicht §Y$militia$§! Bataillone"
 
 masterful_blitz_effect: "Ermöglicht Taktik: §Y$tactic_masterful_blitz$§!"
 
-### Units ###
-rangers: "Ranger"
-rangers_desc: "Spezialeinheiten, die für den Einsatz bei normalen Divisionen ausgebildet und ausgerüstet sind."
+tech_anti-partisan: "Aufstandsbekämpfungstaktiken"
+tech_anti-partisan_effect: "Ermöglicht §H$tech_anti-partisan$§!\n§H$infantry$§!\n      $STAT_ARMY_SUPRESSION_FACTOR$§G+15%§!\n§H$cavalry$§!\n      $STAT_ARMY_SUPRESSION_FACTOR$§G+15%§!\n"
 
-tech_rangers: "Rangers"
-tech_rangers_effect: "Ermöglicht §Y$rangers$§!:\n   $rangers_desc$"
+### Units ###
+rangers: "Ranger Kompanie"
+rangers_desc: "Leichte Elite-Infanteriedivisionen, die so ausgebildet und ausgerüstet sind, dass sie in Verbindung mit normalen Divisionen operieren können."
+
+tech_rangers: "$rangers$"
+tech_rangers_effect: "Ermöglicht §Y$rangers$§!\n   $rangers_desc$\n\n   $DESIGNER_MANPOWER$[?1000|R0]\n   $STAT_ARMY_DEFAULT_MORALE$[?0.2|G1]\n   $STAT_ARMY_SOFT_ATTACK$[?0.1|G1]\n   $STAT_ARMY_SUPRESSION$[?1.5|G1]\n   $STAT_COMMON_MAX_STRENGTH$[?40|G1]\n   $DESIGNER_TRAINING_TIME$[?120|R0]\n   $STAT_ARMY_BREAKTHROUGH$[?0.3|G1]\n   $STAT_ARMY_SUPPLY_CONSUMPTION$[?0.06|R2]\n   $STAT_COMMON_MAX_ORG$[?10|G0]\n   $STAT_COMMON_WEIGHT$[?0.4|R1]"
 
 modifier_army_sub_unit_rangers_attack_factor: "$rangers$ Angriff"
 modifier_army_sub_unit_rangers_defence_factor: "$rangers$ Verteidigung"
@@ -547,6 +551,6 @@ modifier_army_sub_unit_rangers_speed_factor: "$rangers$ Geschwindigkeit"
 modifier_army_sub_unit_rangers_max_org_factor: "$rangers$ Organisation"
 
 ### Debug Tag ###
-XXA: "Debug Tag"
-XXA_ADJ: "Debug"
-XXA_DEF: "den Debug-Tag"
+XXA: "Integrierbare Territorien"
+XXA_ADJ: "Integrierbar"
+XXA_DEF: "die Integrierbare Territorien"

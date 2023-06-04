@@ -18,7 +18,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "splash_backfill"
 			position = { x = 0 y = 178 } ##Mehr Zeilen für Übersetzer
-			size = { width = 728 height = 350 } ## INCREASE HERE IF MORE LINES ARE NEEDED
+			size = { width = 728 height = 370 } ## INCREASE HERE IF MORE LINES ARE NEEDED
 			orientation = CENTER
 			origo = center
 
@@ -33,7 +33,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "splash_border"
 			position = { x = 0 y = 182 } ##Mehr Zeilen für Übersetzer
-			size = { width = 720 height = 350 } ## INCREASE HERE IF MORE LINES ARE NEEDED
+			size = { width = 720 height = 370 } ## INCREASE HERE IF MORE LINES ARE NEEDED
 			orientation = CENTER
 			origo = center
 
@@ -43,16 +43,27 @@ guiTypes = {
 			}
 
 			instantTextboxType = {
-				name = "tab_1_cont3_text"
+				name = "KR_splash_title"
 				position = { x = -330 y = 8 }
+				orientation = center_up
+
+				font = "hoi_20bs"
+				text = "KR_SPLASH_TITLE"
+				format = centre
+				maxWidth = 660
+			}
+
+			instantTextboxType = {
+				name = "KR_splash_credits"
+				position = { x = -350 y = 32 }
 				orientation = center_up
 
 				font = "hoi_20bs"
 				text = "KR_SPLASH_CREDITS"
 				format = centre
-				maxWidth = 660
+				maxWidth = 700
 			}
-
+			
 			buttonType = {
 				name = "mod_options_button"
 				position = { x = -144 y = -46 } ##Pos geändert

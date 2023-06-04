@@ -1,9 +1,9 @@
-version="0.24.1"
+version="0.24.2"
 tags={
 	"Translation"
 }
 dependencies={
 	"Kaiserreich"
 }
-name="Kaiserreich-Deutsch-0.24.1"
-supported_version="1.12.10"
+name="Kaiserreich-Deutsch-0.24.2"
+supported_version="1.12.12"

@@ -51,7 +51,7 @@
  
  CHA: "Tschad"
  CHA_ADJ: "Tschadisch"
- CHA_DEF: "Tschad"
+ CHA_DEF: "der Tschad"
 
  CHA_totalist: "Tschadische Föderation"
  CHA_totalist_ADJ: "Tschadisch"
@@ -299,7 +299,7 @@
 
  SUD: "Sudan"
  SUD_ADJ: "Sudanesisch"
- SUD_DEF: "Sudan"
+ SUD_DEF: "der Sudan"
 
  TKE: "Tshuapa-Clique"
  TKE_ADJ: "Tshuapanisch"
@@ -366,6 +366,10 @@
  TZN: "Asania"
  TZN_ADJ: "Asanisch"
  TZN_DEF: "Asania"
+ 
+ TZN_fed: "Ostafrika"
+ TZN_fed_ADJ: "Ostafrikanisch"
+ TZN_fed_DEF: "die Ostafrikanische Föderation"
 
  TZN_GER: "Ostafrika"
  TZN_GER_ADJ: "Ostafrikanisch"
@@ -383,9 +387,9 @@
  ZAM_bemba_ADJ: "Bembisch"
  ZAM_bemba_DEF: "Bembaland"
  
- ZZB: "Sansibar"
- ZZB_ADJ: "Sansibarisch"
- ZZB_DEF: "Sansibar"
+ ZAN: "Sansibar"
+ ZAN_ADJ: "Sansibarisch"
+ ZAN_DEF: "Sansibar"
 
 ### Characters ###
  ANG_monsenhor_alves_da_cunha: "Monsenhor Alves da Cunha"
@@ -515,7 +519,7 @@
  ZAM_Ronald_Storrs: "Ronald Storrs"
 
 ### Characters ###
- ZZB_Khalifa_II_bin_Harub_Al_Said: "Khalifa II bin Harub Al-Said"
+ ZAN_Khalifa_II_bin_Harub_Al_Said: "Khalifa II bin Harub Al-Said"
 
 ### Focus Tree ###
  african_minors_focus: "Fokusbaum der afrikanischen Kleinstaaten"

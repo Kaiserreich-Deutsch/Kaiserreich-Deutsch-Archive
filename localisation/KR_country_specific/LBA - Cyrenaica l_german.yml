@@ -223,8 +223,6 @@
  LBA_Siwa_Open_Trade_Route_desc: "Die Kafiren denken, dass sie die Wüstenschiffe aufhalten können, aber sie haben die Wüste nicht so angenommen wie wir. Sie ist rau, sie ist rau, aber sie ist das Lebenselixier unserer Gesellschaft, und wir werden bis zum Ende kämpfen, um sie zu erhalten!"
 
 ### Tooltips ###
- LBA_turktroops_tt: "Drei osmanische Divisionen werden in Tripolis aufgestellt"
- LBA_idris_bacc: "Idris sitzt wieder auf dem Thron"
  LBA_idris_btfo: "Die Senussi-Prinzen sind entmachtet worden"
 
  LBA_trans_sahara_map_category_name: "Zeigt die wichtigsten Stationen der Transsaharahandelsroute"
@@ -302,8 +300,6 @@
  LBA_equipments_tactics_desc: "In der beduinischen Tradition sind Pferd und Kamel die Hauptbestandteile der Armee und werden nur dann von der Infanterie begleitet, wenn die Situation es erfordert. Unsere Erfahrungen im Weltkrieg haben jedoch die Schwäche dieser Strategie und die gravierende Unterlegenheit unserer Infanterie während der ägyptischen Offensive gezeigt. Wir brauchen einen regulären Infanteriekern, wenn wir unsere Unabhängigkeit bewahren wollen."
  LBA_guns_butter: "Erwerb von Gewehren"
  LBA_guns_butter_desc: "Die Verbesserung der Qualität der Waffen, die unsere Soldaten benutzen, ist eine grundlegende Priorität der Landesverteidigung; der derzeitige Mangel an einheimischen Industriekapazitäten erschwert die Sache jedoch. Wir müssen sicherstellen, dass wir über die bestmöglichen Handfeuerwaffen verfügen."
- LBA_trucks: "Motorisierte Kampfführung"
- LBA_trucks_desc: "Unser Heimatland wird durch seine Geographie bestimmt, und die Fähigkeit, den Feind durch Berge und Wüsten schnell zu überlisten, ist der Schlüssel zum Sieg in der modernen Kriegsführung; allerdings ist die Infanterie oft zu langsam, um unsere Reiter einzuholen. Aber in diesem neuen Zeitalter der Kriegsführung werden sie vielleicht zu schnell für die Pferde sein?"
  LBA_bedouins: "Reiter der Kyrenaika"
  LBA_bedouins_desc: "Der Senussi-Orden und die Männer, die für ihn gekämpft haben, haben immer die treuen Rösser dieser Länder zu unserem Schutz eingesetzt. Seit Jahrhunderten sind die Reiter der Nation dem Ruf in den Krieg gefolgt, und da ein neues Zeitalter des Krieges naht, werden sie es wieder tun. Sie mögen jetzt anders bewaffnet sein, aber nicht in Bezug auf Geist und Tapferkeit."
  LBA_planning: "Geplante Angriffe"
@@ -498,8 +494,6 @@
  LBA_ottoaid_desc: "Die Pforte hat große Mengen an Hilfe geschickt, um sicherzustellen, dass wir den Kampf gegen ihre Feinde fortsetzen können."
  LBA_independence_war: "Libyscher Unabhängigkeitskrieg"
  LBA_independence_war_desc: "Aufstehen! Brüder! Nie wieder werden uns die Türken oder irgendein anderes europäisches Reich versklaven! Gott ist groß! Auf in den Kampf, für unsere Heimat!"
- LBA_oasis_tribe_loyalty_asusred: "Loyalität der Stämme gesichert"
- LBA_oasis_tribe_loyalty_asusred_desc: "Als Anerkennung für unsere Bemühungen, ihnen zu helfen, unterstützen die Stammesführer die Regierung in vielen Angelegenheiten."
  LBA_farmers: "Landwirtschaftliche Fortschritte"
  LBA_farmers_desc: "Mehr als Pflugscharen, aber auch Traktoren und Düngemittel; unsere Landwirte verfügen jetzt über echte Fähigkeiten eines modernen Landwirtschaftsexperten."
  LBA_support_eq_cheap: "Improvisierte Ausrüstung"
@@ -705,8 +699,8 @@
  libya.35.a: "Ganz Kyrenaika grüßt seinen Helden!"
 
  libya.36.t: "Zusammenbruch des französischen Kolonialreichs"
- libya.36.d: "Der reaktionäre französische Staat wurde von einer Koalition aus arabischen Staaten, Stämmen und nationalistischen Bewegungen getroffen, die das jüngste Machtvakuum nutzten, um ihre Unabhängigkeit zu behaupten. Obwohl die französische Kolonialarmee einen anständigen Kampf führen konnte, sah sich die Regierung gezwungen, sich vom afrikanischen Kontinent zurückzuziehen, nachdem ihre europäischen Zentren Oran, Algier, Konstantin und Tunis an die feindlichen Kräfte gefallen waren.\n\nDieser Tag, der bereits als einer der schwärzesten in der französischen Geschichte gilt, scheint das Schicksal der Franzosen, die nach der Revolution, die 1919 die Französische Republik stürzte, bereits am seidenen Faden hingen, endgültig besiegelt zu haben."
- libya.36.a: "Wird sich Frankreich jemals erholen?"
+ libya.36.d: "Der reaktionäre französische Staat ist nach seiner Niederlage in Afrika gegen uns und andere verbündete Kräfte in eine Katastrophe gestürzt. Obwohl die französische Kolonialarmee einen anständigen Kampf führen konnte, sah sich die Regierung gezwungen, sich vom afrikanischen Kontinent zurückzuziehen, nachdem ihre europäischen Zentren Oran, Algier, Konstantin und Tunis an die feindlichen Kräfte gefallen waren.\n\nDieser Tag, der bereits als einer der schwärzesten in der französischen Geschichte gilt, scheint das endgültige und hoffentlich endgültige Ende des französischen Kolonialismus in Nordwestafrika zu markieren."
+ libya.36.a: "Die Imperialisten sind endlich weg!"
 
  libya.37.t: "Sieg des Senussi-Ordens!"
  libya.37.d: "So wie wir mit den italienischen Invasoren verfahren sind, wurden die osmanischen Türken ins Meer zurückgedrängt und die Kyrenaika von ihrer Einmischung befreit. Dies ist wahrlich ein großer Tag für alle Libyer und insbesondere für den Orden. Einige fragen sich jedoch, ob wir den Kampf fortsetzen und sicherstellen sollten, dass die Türken auch aus dem Maschrik vertrieben werden."

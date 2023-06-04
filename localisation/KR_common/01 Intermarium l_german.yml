@@ -18,8 +18,8 @@
  MIE_spend_support: "Sendet 250 £support_texticon  Zusatzausrüstung"
  MIE_spend_artillery: "Sendet 250 £unit_artillery_icon_small  Artillerie"
  
- MIE_spend_guns_self: "Nehmt 500 £rifle_texticon  Infanterieausrüstung"
- MIE_spend_support_self: "Nehmt 150 £support_texticon  Zusatzausrüstung"
+ MIE_spend_guns_self: "Nehmt 1000 £rifle_texticon  Infanterieausrüstung"
+ MIE_spend_support_self: "Nehmt 250 £support_texticon  Zusatzausrüstung"
  MIE_spend_artillery_self: "Nehmt 250 £unit_artillery_icon_small  Artillerie"
 
  MIE_invest_guns: "Investiert 500 £rifle_texticon  Infanterieausrüstung"

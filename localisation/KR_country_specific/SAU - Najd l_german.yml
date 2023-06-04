@@ -15,23 +15,16 @@
  SAU_market_liberal_party_long: "Hizb Hura Alearab"
  SAU_social_conservative_party: "Hizb Altahaluf"
  SAU_social_conservative_party_long: "Hizb Altahaluf"
- SAU_authoritarian_democrat_party: "Al-Imarat Al-Arabiyah Al-Muttahidah"
- SAU_authoritarian_democrat_party_long: "Al-Imarat Al-Arabiyah Al-Muttahidah"
+ SAU_authoritarian_democrat_party: "Al-Saud"
+ SAU_authoritarian_democrat_party_long: "Al-Saud"
  SAU_paternal_autocrat_party: "Al-Saud"
  SAU_paternal_autocrat_party_long: "Al-Saud"
- SAU_national_populist_party: "Hizb Alearabiu"
- SAU_national_populist_party_long: "Hizb Alearabiu"
- 
-### Opinion Modifiers ###
- ott_jabalshammar: "Verrat"
- sau_rebuild: "Respektierte unsere Souveränität"
+ SAU_national_populist_party: "Al-Saud"
+ SAU_national_populist_party_long: "Al-Saud"
 
 ### Tooltips ###
- IKH_revolt: "Die Ikhwan-Revolte ist ausgebrochen"
- joined_cairo_pact: "Versprach, dem Kairopakt beizutreten"
  SAU_ikhwan_provoking: "§RDieser Fokus trägt zum Ausbruch der Ikhwan-Revolte bei.§!"
  SAU_sole_caliphate_is_a_bad_idea: "§RDen Titel des Kalifen zu beanspruchen wird wahrscheinlich einige unserer Nachbarn erzürnen, weshalb wir in dieser Sache vorsichtig handeln sollten...§!\n"
- sau_conquer_imamate_tt: "§gSollte der Beschützer Muscats nicht auf unsere Vorstöße reagieren, können wir vorrücken und §Y[OMA.GetNameWithFlag]§! permanent ausschalten.§!"
  SAU_ongoing_ikhwan_raid: "Die Ikhwan befinden sich bereits auf einem Raubzug!"
  SAU_arabian_tribes_mobilized_tooltip: "£nato_unit_cavalry_icon_small Erhaltet 2 §YKavallerie-Divisionen§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YRiad§!"
 
@@ -45,7 +38,7 @@
 
 ### Decisions ###
  SAU_JBS_Power_Struggle: "Vorbereitungen für den Vereinigungskrieg"
- SAU_JBS_Power_Struggle_desc: "Seit Jahren haben wir auf die Gelegenheit gewartet, die arabische Halbinsel unter dem Haus Saud zu vereinen. Leider ließen uns die Osmanen nie aus den Augen und als das Britische Imperium 1925 auseinanderfiel, haben sie ihre rashidischen Schoßhündchen für ihre 'Loyalität' während des Weltkriegs mehr als reichlich belohnt. Da uns nichts blieb, keine Verbündeten und keine neuen Territorien, wurde Abdulaziz immer ruheloser und rachsüchtiger.\n\nSaud bin Abd Al-Aziz genießt zwar zurzeit die Unterstützung seiner osmanischen Verbündeten, aber es ziehen dunkle Wolken auf, und sollte sein mächtiger Wohltäter sich um interne Probleme kümmern müssen, werden seine erbärmlichen Streitkräfte sich allein gegen den Zorn der Ikhwan behaupten müssen...\n\n§gDie Stärke unserer £in_combat §GVerbündeten§! wird die Größe unserer Armee zu Beginn des Krieges mit [JBS.GetNameWithFlag] bestimmen. Die zentralarabischen Stämme zu umwerben und uns die Unterstützung der Ikhwan zu sichern könnte uns einen entscheidenden Vorteil verschaffen.§!\n      [JBS.GetNameWithFlag] : [?JBS.num_divisions|H0] ([?JBS.tribes|H0])\n      [SAU.GetNameWithFlag] : [?SAU.num_divisions|H0] ([?SAU.tribes|H0])\n" 
+ SAU_JBS_Power_Struggle_desc: "Seit Jahren haben wir auf die Gelegenheit gewartet, die arabische Halbinsel unter dem Haus Saud zu vereinen. Leider ließen uns die Osmanen nie aus den Augen und als das Britische Imperium 1925 auseinanderfiel, haben sie ihre rashidischen Schoßhündchen für ihre \"Loyalität\" während des Weltkriegs mehr als reichlich belohnt. Da uns nichts blieb, keine Verbündeten und keine neuen Territorien, wurde Abdulaziz immer ruheloser und rachsüchtiger.\n\nSaud bin Abd Al-Aziz genießt zwar zurzeit die Unterstützung seiner osmanischen Verbündeten, aber es ziehen dunkle Wolken auf, und sollte sein mächtiger Wohltäter sich um interne Probleme kümmern müssen, werden seine erbärmlichen Streitkräfte sich allein gegen den Zorn der Ikhwan behaupten müssen...\n\n§gDie Stärke unserer £in_combat §GVerbündeten§! wird die Größe unserer Armee zu Beginn des Krieges mit [JBS.GetNameWithFlag] bestimmen. Die zentralarabischen Stämme zu umwerben und uns die Unterstützung der Ikhwan zu sichern könnte uns einen entscheidenden Vorteil verschaffen.§!\n      [JBS.GetNameWithFlag] : [?JBS.num_divisions|H0] ([?JBS.tribes|H0])\n      [SAU.GetNameWithFlag] : [?SAU.num_divisions|H0] ([?SAU.tribes|H0])\n" 
 
  SAU_War_of_Unification: "Arabischer Vereinigungskrieg"
  SAU_War_of_Unification_desc: "Die finale Schlacht um die Kontrolle Zentralarabiens steht bevor, da die Osmanen aufgrund der weltweiten Wirtschaftskrise kurz vor dem Zusammenbruch stehen, was es ihnen unmöglich macht, den Frieden auf der Halbinsel zu wahren. Alle Emire werden eine Seite wählen müssen, denn die Zukunft der arabischen Welt wird mit Blut geschrieben und die Verlierer entehert oder auf dem Schlachtfeld niedergestreckt werden."
@@ -54,7 +47,6 @@
  SAU_Sway_Ruwala: "Beeinflusst die §YRuwala§!"
  SAU_Sway_Anizzah: "Beeinflusst die §YAnizzah§!"
  SAU_Sway_Dhafir: "Beeinflusst die §YDhafir§!"
- SAU_Sway_Mutair_Dawish: "Beeinflusst die §YMutair§! (Faisal al Duwaish)"
  SAU_Sway_Mutair_Busayis: "Beeinflusst die §YMutair§! (Mishari ibn Busayis)"
  SAU_Sway_Utaibah_Ikh: "Beeinflusst die §YUtaibah§! (Sultan ibn Humaid ibn Bijad)"
  SAU_Sway_Utaibah: "Beeinflusst die §YUtaibah§! (Abd al-Rahman ibn Rubayin)"
@@ -63,8 +55,7 @@
  SAU_Ikhwan_Rides_Out: "Die Ikhwan reiten aus"
  SAU_Ikhwan_Rides_Out_desc: "Die Ikhwan (oder 'Die Brüder') sind eine Stammesmiliz, welche Ibn Saud als eine der Schlüsselkomponenten seiner Armee benutzt. Als eifrig religiöse Krieger haben sie nicht Ibn Saud, sondern den Lehren und der Moral der islamischen Gesellschaft die Treue geschworen. Sie lehnen alle westlichen Fortschritte ab, wollen die islamische Welt von ihrer Dekadenz befreien und alle Muslime in einem einzigen Staat vereinen.\n\nTrotzdem sind sie unbeugsame und barbarische Krieger, die mit Schwertern und Lanzen kämpfen und jedem männlichen ihrer Gefangenen die Kehlen aufschlitzen. Dies macht sie für Ibn Saud allerdings umso wertvoller, da ihr Blutdurst und ihr religiöser Eifer in ihren Überfällen auf unsere Nachbarstaaten nützliche Eigenschaften sind."
 
- SAU_Ikwhan_Qatar: "Überfallt Qatar"
- SAU_Ikwhan_Muscat: "Überfallt Muscat"
+ SAU_Ikwhan_Qatar: "Überfallt Katar"
  SAU_Ikwhan_UAE: "Überfallt den Vertragsoman"
  SAU_Ikwhan_Asir: "Überfallt Asir"
  SAU_Ikwhan_Hejaz: "Überfallt Hedschas"
@@ -299,7 +290,6 @@
  saud.31.d.india: "In ganz Indien feiern die Muslime das neue Kalifat, welches vom Sultan Arabiens ausgerufen wurde. Ein Großteil der indischen Oberschicht hat zwar nicht an den Feierlichkeiten teilgenommen, die meisten einfachen Bürger allerdings schon."
  saud.31.d.insulindia: "Die Neuigkeiten, dass der Sultan Arabiens sich zum Kalifen des gesamten Islams ernannt hat, haben Insulindia erreicht. Die meisten der Muslime der Inseln empfinden diesen Anspruch als unrechtmäßig und akzeptieren ihn nicht als ihr neues Glaubensoberhaupt."
  saud.31.d.OTT: "Uns haben Neuigkeiten aus Arabien erreicht, welche besagen, dass die dortige Bevölkerung unseren Anspruch auf den Titel des Kalifen nicht länger anerkennt! Dies werden wir ihnen niemals vergessen!"
- saud.31.d.RUS: "Der Sultan Arabiens hat sich zum Kalifen des gesamten Islams ernannt, was eine offensichtliche List ist, um mehr Macht zu erlangen. Ein Großteil der russischen Muslime akzeptiert ihn jedoch nicht als ihr neues Glaubensoberhaupt und es gibt keinen Grund für uns, den saudischen Anspruch anzuerkennen."
  saud.31.d.other: "Der Sultan Arabiens hat sich zum Kalifen des gesamten Islams ernannt, was eine offensichtliche List ist, um mehr Macht zu erlangen. Wir sollten den saudischen Anspruch nicht anerkennen, da eine solch groteske Heuchelei nicht unterstützt werden darf."
 
  saud.31.a.PER: "Wen interessieren die saudischen Ansprüche schon."

@@ -7,16 +7,6 @@ LOAS_Arab_League_desc: "Die arabischen Völker, die durch ihre Sprache verbunden
 
 LOAS_Invite_Country: "Ladet [FROM.GetName] zur Arabischen Liga ein"
 
-LOAS_Integrate_Egypt: "Integriert Ägypten"
-LOAS_Integrate_Iraq: "Integriert Irak"
-LOAS_Integrate_Syria: "Integriert Syrien"
-LOAS_Integrate_Hejaz: "Integriert Hejaz"
-LOAS_Integrate_Central_Arabia: "Integriert Zentralarabien"
-LOAS_Integrate_Yemen: "Integriert Yemen"
-LOAS_Integrate_Oman: "Integriert Oman"
-
-LOAS_average_compliance_tooltip: "Durchschnittlicher Gehorsam in §Y[From.GetName]§! ist höher als §H80%§!"
-
 LOA_every_member_state: "Jedes Mitglied der §Y$LOAS_faction$§!"
 LOA_three_random_states: "Drei zufällige gültige Staaten"
 
