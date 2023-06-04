@@ -4,11 +4,7 @@
 Version 0.25 von Kaiserreich Deutsch ist nicht vollständig und kann daher einige größere Fehler enthalten.
 Diese Version wurde nur der Vollständigkeit halber veröffentlicht.
 
-<br>
-
 ***
-
-<br>
 
 ## Kaiserreich Beta 0.25
 
@@ -28,7 +24,7 @@ Anleitung zur Manuellen Installation:
 ### Hinweis:
 Für diesen Mod muss Kaiserreich installiert sein.<br>
 Die älternen Versionen von Kaiserreich können hier heruntergeladen werden:<br>
-https://github.com/Kaiserreich/Kaiserreich-4-Archive/tags<br><br>
+https://github.com/Kaiserreich/Kaiserreich-4-Archive/tags<br>
 
 Kaiserreich Deutsch Discord:<br>
 https://discord.gg/RTFRPDBpUb<br>
