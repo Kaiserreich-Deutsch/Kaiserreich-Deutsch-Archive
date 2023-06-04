@@ -1,7 +1,5 @@
 ﻿l_german:
-
 ##Übersetzt von Thylon##
-
 #######################
 ### Faction Joining ###
 #######################
@@ -42,8 +40,6 @@ faction_joining_BEL_ENT: "Die Van Belgiës, die während des Weltkriegs auf der 
 faction_joining_BEL_INT: "Die alte Ordnung zerbröckelt, der [GER.GetName] zerfällt, erhebt euch, ihr Opfer der Unterdrückung, und stürzt den Riesen zur Vergeltung für 1914!"
 
 faction_joining_POR_ENT: "Aufgrund der langjährigen Beziehungen von [POR.GetName] zur königlichen Familie in Ottawa sind sie offiziell der Entente beigetreten, was Kanada ein Sprungbrett in Europa für die geplante Rückeroberung ihrer Heimatinseln verschafft."
-
-faction_joining_IRE_GER: "Aufgrund britischer Provokationen hat sich [IRE.GetName] der [GER.GetFactionName] angeschlossen, in der Hoffnung, dass der Kaiser sie vor den syndikalistischen Machenschaften schützen kann."
 
 #Northern Europe
 faction_joining_SWE_GER: "Mit einer langen Geschichte wirtschaftlicher Beziehungen zu Berlin und zunehmendem Radikalismus in der Region ist [SWE.GetName] offiziell dem Reichspakt beigetreten."
@@ -106,3 +102,16 @@ state_integration_alert_message: "§Y[?integrated_state.GetName]§! ist jetzt ei
 
 country_integration_alert_title: "Integration des Landes abgeschlossen"
 country_integration_alert_message: "Alle kontrollierten Kernstaaten von §Y[?integrated_country.GetFlag][?integrated_country.GetNameDef]§! sind jetzt Kernstaaten von §Y[ROOT.GetFlag][ROOT.GetNameDef]§!"
+
+#########################
+### Incoming War-ning ###
+#########################
+
+ incoming_war_alert_title: "DROHENDE KRIEGSERKLÄRUNG"
+ incoming_war_alert_message: "[GetIncomingWarAlertMessage]"
+
+ incoming_war_alert_message_self: "§Y[THIS.GetNameDefCap]§! bereitet sich darauf vor, uns den Krieg zu erklären!"
+ incoming_war_alert_message_puppet: "§Y[THIS.GetNameDefCap]§! bereitet sich darauf vor, unserem Oberherrn §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§! den Krieg zu erklären!"
+ incoming_war_alert_message_guarantor: "§Y[THIS.GetNameDefCap]§! schickt sich an, §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§! den Krieg zu erklären, dessen Unabhängigkeit wir garantieren!"
+ incoming_war_alert_message_civil_war: "§Y[THIS.GetNameDefCap]§! schickt sich an, §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§! den Krieg zu erklären!"
+ incoming_war_alert_message_ally: "§Y[THIS.GetNameDefCap]§! bereitet sich darauf vor, unserem Verbündeten §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§! den Krieg zu erklären!"

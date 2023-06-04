@@ -301,8 +301,6 @@
  ott_increase_tri_int_20: "Erhöht die §YIntegration der tripolitanischen Vilayets§! um §G20%§!"
  ott_increase_tri_int_50: "Erhöht die §YIntegration der tripolitanischen Vilayets§! um §G50%§!"
 
- TUR_millet_mektepleri_tooltip: "Modifiziert §Y$ott_millet_mektepleri_idea$§! um"
-
  OTT_autonomous_regions: "Autonome Regionen"
  OTT_vilayets: "Vilayets"
  OTT_provinces: "Osmanische Provinzen"
@@ -336,9 +334,9 @@
 #####################
 # Dynamic Modifiers #
 #####################
- millet_mektepleri_dynamic_modifier: "£pol_idea $ott_millet_mektepleri_idea$"
- ott_millet_mektepleri_idea: "Millet Mektepleri"
- ott_millet_mektepleri_modifier_tt: "$MODIFIER_RESEARCH_SPEED_FACTOR$: [?var_millet_mektepleri|+=%]§!"
+ millet_mektepleri_dynamic_modifier: "Millet Mektepleri"
+ TUR_add_millet_mektepleri: "§Y$millet_mektepleri_dynamic_modifier$§!. Effekt: ($MODIFIER_RESEARCH_SPEED_FACTOR$: [?TUR_millet_mektepleri_temp|+=%]) hinzufügen."
+ TUR_modify_millet_mektepleri: "Modifiziert §Y$millet_mektepleri_dynamic_modifier$§! um"
 
  vilayet_stability_dynamic_modifier: "£pol_idea Stabilität des Reiches"
  ott_vilayet_stability_idea: "Stabilität des Reiches"
@@ -373,7 +371,6 @@
  OTT_war_for_thrace: "Krieg um Thrakien"
  OTT_war_for_thrace_desc: "Die Ländereien Westthrakiens, welche noch immer vor allem von Türken bevölkert werden, wurden uns nach dem katastrophalen Balkankrieg gestohlen. Mehrere Berichte davon, dass die dort wohnhaften türkischen Bürger von der bulgarischen Regierung unterdrückt und misshandelt werden, und die anti-bulgarische Einstellung des gesamten Balkans bieten der osmanischen Regierung nun die Möglichkeit, zu intervenieren, um die Türken wieder unter den Schutz der Hohen Pforte zu stellen."
  OTT_leave_edirne_accords: "Verlasst das Abkommen von Edirne"
- OTT_Join_Russia: "Bündnis mit Russland"
 
 ### AMN
  OTT_AMN_Category: "Die Assoziation muslimischer Nationen"
@@ -948,6 +945,16 @@
  OTT_Enact_Separation_Church_State_desc: "Wenn unser Reich jemals zu einer säkularistischen Institution werden soll, müssen wir damit beginnen, gegen die religiösen Organisationen vorzugehen, die ihre Ablehnung gegenüber unseren Reformen offen kundtun. Die größte Hürde hierbei sind wohl die sufistischen Orden, welche nicht nur de facto Ostanatolien kontrollieren, sondern auch direkte Verbindungen zum Kalifen haben, die sie nutzen, um ihre Macht aufrechtzuerhalten. Dies wird nicht länger geduldet werden!"
  OTT_Union_Party_State: "Verwirklichung der Union von Partei und Staat"
  OTT_Union_Party_State_desc: "Wir sollten dem Beispiel der russischen Populisten folgen - es darf keinen Unterschied mehr zwischen unserer Partei und dem Staat selbst geben. Die Partei wird von nun an als Staat agieren und ein komplettes Gewaltenmonopol über alle staatlichen Angelegenheiten besitzen. Dem Kalifen, einer Marionette, die bald fallen wird, wird es erlaubt sein, seine Krone zu behalten, aber alle Reaktionäre, die noch im Amt sind, werden sich vor Gericht verantworten müssen."
+ OTT_A_New_State: "Ein neuer Staat"
+ OTT_A_New_State_desc: "Durch die kadroistische Revolution können wir nun dringendst benötigte Reformen einführen, von denen die Einrichtung eines Einparteienstaates nur den ersten Schritt darstellt. Die Kader, die nun an der Macht sind, müssen der auf Traditionen basierenden Diskriminierung innerhalb der Bevölkerung den Garaus zu machen. Unser neuer Staat soll zu einem Leuchtfeuer werden, das die Menschen durch die Dunkelheit führt."
+ OTT_Turn_Towards_Etatism: "Ausweitung des Etatismus"
+ OTT_Turn_Towards_Etatism_desc: "Eine nur halbfertig umgesetzte etatistische Politik ist noch gefährlicher als der Liberalismus. Die staatliche Kontrolle über die Wirtschaft muss ausgeweitet werden. Indem wir die wirtschaftliche und finanzielle Planung in die Hände des Staates legen, können wir verhindern, dass der Markt weiterhin zur Erschaffung von Ungleichheiten beiträgt."
+ OTT_Achieve_the_Classless_society: "Eine klassenlose Gesellschaft"
+ OTT_Achieve_the_Classless_society_desc: "Die Theorie des Klassenkampfes kann nicht direkt auf das Reich angewandt werden, da in diesem Klassen nicht als solche existieren. Stattdessen unterscheidet man zwischen Stadt- und Landbewohnern. Unsere Gesellschaft muss zur Ausmerzung aller Ungleichheiten vereint werden. Dafür muss der Staat jedoch zunächst weitreichende soziale Reformen einführen."
+ OTT_Socialist_Biased_Neutrality: "Pro-Sozialistische Neutralität"
+ OTT_Socialist_Biased_Neutrality_desc: "Das Osmanische Reich wird die Schrecken des Weltkrieges niemals vergessen. Aufgrund der zahlreichen Revolten in unserer Nation und dem Versuch unserer Nachbarstaaten, die osmanische Vormachtstellung aufzubrechen, müssen neue Maßnahmen ergriffen werden. Das Reich wird seine Neutralität bewahren, jedoch dort intervenieren, wo es die eigenen Interessen und der Wunsch der Selbsterhaltung gebieten. Alles im Namen der Revolution."
+ OTT_Solidarism_Between_People: "Solidarität der Völker"
+ OTT_Solidarism_Between_People_desc: "Das Osmanische Reich ist die Heimat vieler Völker. Die OHF und auch die Kadroisten versuchen, die verschiedenen Bevölkerungsgruppen verstärkt zu integrieren, indem sie die nationalen Ungleichheiten und nationalistischen Bestrebungen eliminieren und die Menschen in der osmanischen Modernität einen. Mittels des Solidarismus werden wir die traditionellen Barrieren zwischen unseren Bürgern aufsprengen und ein unzertrennbares Volk erschaffen."
  OTT_Encourage_Private_Initiative_FEV: "Privatinitiativen ermutigen"
  OTT_Encourage_Private_Initiative_FEV_desc: "Das Konzept der teşebbüs-ü Şahsi (Privatinitiativen) wurde unter anderem im Diskurs von Sabahattin aufgegriffen, welcher das Fehlen der Privatinitiativen als einen der Hauptgründe des osmanischen Niedergangs ansah. Der Wesir, welcher sich dabei auf die Gedanken Demolins beruft, bittet die Leute darum, sich selbst mehr Vertrauen zu schenken und selbst nach Erfolg zu streben, statt sich auf Unterstützung durch den Staat oder die Familie zu verlassen. Dadurch unterstützt er die Idee des Privatbesitzes, welche er als äußerst wichtig für die soziale und wirtschaftliche Entwicklung unseres Reiches ansieht."
  OTT_Break_Up_State_Monopolies_FEV: "Zerschlagung der Staatsmonopole"
@@ -1339,6 +1346,10 @@
  ott_basic_industries: "Nationalisierte Grundindustrie"
  ott_social_nationalism: "Sozialer Nationalismus"
  ott_union_party_state: "Union von Partei und Staat"
+ ott_defence_etatism: "Defensiver Etatismus"
+ ott_welfare_state: "Kadroistischer Wohlfahrtsstaat"
+ ott_classless_society: "Klassenlose Gesellschaft"
+ ott_biased_neutrality: "Parteiische Neutralität"
  ott_principles_people: "Prinzipien des Volkes"
 
 ### Diplomatic
@@ -2252,8 +2263,12 @@
  ottars.10.a: "Die Frau steht unter dem Mann!"
 
  ottars.11.t: "Staatsstreich in Kostantiniyye"
- ottars.11.d: "Unter der Führung von Feldmarschall Fevzi Pascha hat die 42. osmanische Division heute den Dolmabahçe-Palast und die Hohe Pforte gestürmt, um die Kontrolle über die Regierung zu übernehmen. Sultan Ahmed IV wurde unter Hausarrest gestellt und das Kabinett Arslans sowie viele bedeutende Persönlichkeiten der islamistischen Bewegung in ein noch geheim gehaltenes Militärgefängnis gebracht, wo sie sich vor einem Militärgericht verantworten müssen.\n\nDurch den erneuten Regimewechsel befindet sich das Reich nun im Chaos, da dieser so kurz nach dem Letzten erfolgte, dass jegliche politische Stabilität des Reiches verloren scheint. Auch die Medien wurden unter die Kontrolle des Militärs gebracht und der Befehl gegeben, mehrere hohe Offiziere des Militärs zu inhaftieren, um die Möglichkeit, dass die Islamisten die Kontrolle zurückerlangen, zu eliminieren. Wie es scheint, wird die Junta von Fevzi Pascha wohl noch lange an der Macht bleiben."
- ottars.11.a: "Was wird die Zukunft wohl bringen?"
+ ottars.11.d: "[TUR_arslan_coup_fevzi_status] heute den Dolmabahçe-Palast und die Hohe Pforte gestürmt, um die Kontrolle über die Regierung zu übernehmen. Sultan Ahmed IV wurde unter Hausarrest gestellt und das Kabinett Arslans sowie viele bedeutende Persönlichkeiten der islamistischen Bewegung in ein noch geheim gehaltenes Militärgefängnis gebracht, wo sie sich vor einem Militärgericht verantworten müssen.\n\nDurch den erneuten Regimewechsel befindet sich das Reich nun im Chaos, da dieser so kurz nach dem Letzten erfolgte, dass jegliche politische Stabilität des Reiches verloren scheint. Auch die Medien wurden unter die Kontrolle des Militärs gebracht und der Befehl gegeben, mehrere hohe Offiziere des Militärs zu inhaftieren, um die Möglichkeit, dass die Islamisten die Kontrolle zurückerlangen, zu eliminieren. Wie es scheint, wird die Junta von Fevzi Pascha wohl noch lange an der Macht bleiben."
+ ottars.11.a: "Was wird wohl die Zukunft bringen?"
+ 
+ TUR_arslan_coup_fevzi_exiled: "Scheinbar verfügen Fevzi Pasha und seine Verschwörer, die nach einem fehlgeschlagenen Staatsstreich ins Exil verbannt wurden, noch immer über einige Unterstützer in der osmanischen Armee. Die 42. Osmanische Division, die ehemals unter Fevzis Kommando stand, hat"
+ TUR_arslan_coup_fevzi_marshal: "Unter der Führung von Feldmarschall Fevzi Pascha hat die 42. Osmanische Division"
+
 
  ottars.12.t: "Der Tod von [OTT.GetLeader]"
  ottars.12.d: "Der alte Sultan erlitt einen Schlaganfall, nachdem er ein Waisenhaus nahe Bursa besuchte, und wurde daraufhin sofort für medizinische Hilfe nach Kostantiniyye gebracht. Als er in der Stadt ankam, konnte man jedoch nichts mehr für ihn tun. Kurz darauf nahm der Kalif seinen letzten Atemzug.\n\nDer Sultan war ein Symbol der Demokratie des Reiches und damit eines der letzten Hindernisse für die Panislamisten, welche den Kalifen erneut umfangreiche Befugnisse gewähren wollen. Viele sind zwar der Meinung, dass der alte Sultan sich lediglich bewusst war, dass die Armee keine autoritären Aktionen gutheißen würde, aber es gelang ihm dennoch, den Extremismus durch seinen lockeren Regierungsstil zurückzuhalten.\n\nAhmed IV, ein jüngerer und weniger standhafter Mann, ist ihm auf den Thron gefolgt und will das Reich durch die kommenden turbulenten Zeiten bringen."

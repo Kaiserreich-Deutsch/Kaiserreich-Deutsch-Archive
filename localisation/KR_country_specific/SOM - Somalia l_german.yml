@@ -1,7 +1,5 @@
 ﻿l_german:
-
 ##Übersetzt von Thylon##
-
 somalia_focus: "Schwerpunktbaum von Somalia"
 
 ### Country Names ###
@@ -9,18 +7,15 @@ SOM: "Somalia"
 SOM_ADJ: "Somalisch"
 SOM_DEF: "Somalia"
 
-SOM_totalist: "Somalische Revolutionäre Föderation"
+SOM_totalist: "Somalia"
 SOM_totalist_ADJ: "Somalisch"
 SOM_totalist_DEF: "die Somalische Revolutionäre Föderation"
-SOM_syndicalist: "Somalische Revolutionäre Föderation"
+SOM_syndicalist: "Somalia"
 SOM_syndicalist_ADJ: "Somalisch"
 SOM_syndicalist_DEF: "die Somalische Revolutionäre Föderation"
-SOM_radical_socialist: "Somalische Revolutionäre Föderation"
+SOM_radical_socialist: "Somalia"
 SOM_radical_socialist_ADJ: "Somalisch"
 SOM_radical_socialist_DEF: "die Somalische Revolutionäre Föderation"
-SOM_national_populist: "Staat Somalia"
-SOM_national_populist_ADJ: "Somalisch"
-SOM_national_populist_DEF: "der Staat Somalia"
 
 ### Parties ###
 SOM_totalist_party: "GWM"

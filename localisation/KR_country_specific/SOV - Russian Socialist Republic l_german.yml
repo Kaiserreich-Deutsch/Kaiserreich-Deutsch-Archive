@@ -1,7 +1,5 @@
 ﻿l_german:
-
 ##Übersetzt von Thylon##
-
 ### Country Names ###
 SOV: "Russland"
 SOV_ADJ: "Russisch"
@@ -43,6 +41,7 @@ SOV_Spreading_The_Revolution_decisions: "Verbreitung der Revolution"
 SOV_Join_The_Internationale: "Beitritt zur Internationalen"
 SOV_Join_The_Internationale_desc: "Anstatt dass wir alle versuchen, den deutschen Imperialisten im Alleingang die Stirn zu bieten, sollten wir uns mit unseren Genossen in Großbritannien, Frankreich, Italien und darüber hinaus zusammenschließen."
 SOV_Protect_The_Baltics: "Beschützt [FROM.GetNameDef]"
+SOV_Protect_Ukraine: "Freundschaftsvertrag mit [FROM.GetNameDef]"
 
 RUS_invited_country: "Wir haben dieses Land bereits in unsere Fraktion eingeladen"
 

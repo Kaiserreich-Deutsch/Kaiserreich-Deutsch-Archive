@@ -150,10 +150,6 @@ worldnews.28.a: "Interessant."
 worldnews.31.d: "Die Kommune Frankreichs ist die führende syndikalistische Nation der Welt, vereint als Föderation von Stadtkommunen und geleitet vom Comité de Salut Public, der primären Exekutive. Die Zweite Kommune war jedoch von Anfang an nicht einheitlich in ihrer Politik - es entstanden zahlreiche Fraktionen, jede mit ihrer eigenen Vorstellung, welchen Weg Frankreich einschlagen sollte. Da die Zeit der Rache gegen Deutschland und die Weltrevolution näher rückt, wird die CGT-Wahl von 1936 sehr wichtig sein...\n\nDer Ersatz für den in Ungnade gefallenen Marceau Pivert ergab sich aus seiner eigenen Fraktion, den Arbeitern, die nun die führende Position in der CSP innehaben. Sie stehen für eine Ausweitung der Demokratie und lassen sich von den Briten inspirieren, um die Kommune zu dezentralisieren."
 worldnews.31.a: "Interessant."
 
-worldnews.32.t: "Syndikalismus setzt sich in der Ukraine durch"
-worldnews.32.d: "Nach dem Weltkrieg wurde die Ukraine zu einem Schlachtfeld zwischen dem pro-deutschen Hetmanat, den Bolschewiken, Makhnos Freies Gebiet und vielen anderen bewaffneten Gruppen. Das Hetmanat setzte sich durch, aber es erwies sich als unpopulär unter den Ukrainern, und nach einer Agrarkrise und dem berüchtigten Schwarzen Montag erreichte dieser Hass eine kritische Grenze.\n\nDer berühmte ukrainische Syndikalistenführer Oleksander Schumski hat seine Roten Milizen angeführt, um das Königreich aufzulösen und die Ukrainische Sozialistische Republik auszurufen. Die Zeit wird zeigen, ob dieses neue Gebilde eine deutsche Reaktion überstehen wird, aber dieser Sieg hat die linksradikalen Positionen im gesamten Reichspakt gestärkt."
-worldnews.32.a: "Auch der Reichspakt ist nicht sicher."
-
 worldnews.33.t: "Jakobiner werden in Frankreich gewählt"
 worldnews.33.d: "Die Kommune Frankreichs ist die führende syndikalistische Nation der Welt, vereint als Föderation von Stadtkommunen und geleitet vom Comité de Salut Public, dem Hauptvorstand. Die Zweite Kommune war jedoch von Anfang an nicht einheitlich in ihrer Politik - es entstanden zahlreiche Fraktionen, jede mit ihrer eigenen Vorstellung, welchen Weg Frankreich einschlagen sollte. Da die Zeit der Rache gegen Deutschland und der Weltrevolution näher rückt, wird die CGT-Wahl von 1936 sehr wichtig sein...\n\nDer Ersatz für den in Ungnade gefallenen Marceau Pivert kam von den Jakobinern, einer extremistischen Fraktion, die für eine verstärkte Zentralisierung eintrat und Frankreich zu einem Vorreiterstaat machte, dem alle Syndikalisten folgen sollten. Sie halten nun die Mehrheit in der CSP."
 worldnews.33.a: "Interessant."
@@ -986,7 +982,7 @@ worldnews.263.d.can: "Die [FROM.GetAdjective]-Armee ist auf die symbolische Haup
 worldnews.263.d.other: "Die [FROM.GetAdjective]-Armee ist auf die symbolische Hauptstadt der Vereinigten Staaten, Washington D.C., vorgerückt und hat sie erobert. Sie stürmten das Capitol-Gebäude und stießen auf starken Widerstand, aber schließlich brachen sie durch und die Flagge von [FROM.GetLeader] weht nun über dem US-Kapitol.\n\nDies führte zu einer großen Razzia gegen die dortigen Regierungsbeamten, wobei von Massenverhaftungen und sogar Gerüchten über summarische Hinrichtungen im Kapitol selbst berichtet wurde, obwohl unbestätigte Quellen behaupten, dass die meisten wichtigen Persönlichkeiten der Bundesregierung während der Schlacht evakuiert wurden, wobei ihr derzeitiger Aufenthaltsort unbekannt ist."
  
  #Loser Responses
- worldnews.263.a: "[FROM.USA_fall_of_washington_event_option_old_controller]"
+ worldnews.263.a: "[THIS.USA_fall_of_washington_event_option_old_controller]"
  worldnews.263.a.csa: "Wir können nicht zulassen, dass Reed und sein syndikalistischer Mob gewinnen!"
  worldnews.263.a.tex: "Wir können nicht zulassen, dass Long und seine Minutemen-Schläger die Nation kontrollieren."
  worldnews.263.a.psa_nee: "Die Pazifikaner haben Washington eingenommen? Wie kann das sein?!"
@@ -994,7 +990,7 @@ worldnews.263.d.other: "Die [FROM.GetAdjective]-Armee ist auf die symbolische Ha
  worldnews.263.a.other: "Der Krieg ist noch lange nicht vorbei!"
  
  #Winner Responses
- worldnews.263.b: "[ROOT.USA_fall_of_washington_event_option_new_controller]"
+ worldnews.263.b: "[THIS.USA_fall_of_washington_event_option_new_controller]"
  worldnews.263.b.csa: "Die Zentralregierung ist von ihrem goldenen Thron gestürzt worden."
  worldnews.263.b.tex: "Wir werden den Gründervätern Ehre machen."
  worldnews.263.b.psa_nee: "Wir werden die Demokratie in Washington wiederherstellen!"
@@ -1002,11 +998,11 @@ worldnews.263.d.other: "Die [FROM.GetAdjective]-Armee ist auf die symbolische Ha
  worldnews.263.b.other: "Washington ist unser!"
  
  #Neutral Responses
- worldnews.263.c: "[ROOT.USA_fall_of_washington_event_option_neutral]"
+ worldnews.263.c: "[THIS.USA_fall_of_washington_event_option_neutral]"
  worldnews.263.c.can_csa: "Die Lage im Süden wird immer dringlicher."
  worldnews.263.c.can_tex: "Die Situation im Süden scheint außer Kontrolle zu geraten."
  worldnews.263.c.can_psa_nee: "Hoffentlich stellen die [FROM.GetAdjective]-Führer endlich die Ordnung wieder her."
- worldnews.263.c.american_csa: "Die syndikalistischen Verräter haben es nach\nWashington D.C. geschafft?"
+ worldnews.263.c.american_csa: "Die Syndikalisten haben es nach Washington D.C. geschafft?"
  worldnews.263.c.american_tex: "Die Reaktionäre haben es bis nach Washington D.C. geschafft?"
  worldnews.263.c.american_psa_nee: "Die [FROM.GetAdjective] haben Mut, das steht fest."
  worldnews.263.c.american_can: "Die Kanadier wagen es? Das ist nicht zu ertragen."
@@ -1383,7 +1379,7 @@ worldnews.292.g: "Der Bosporus hat einen neuen Meister."
 
 worldnews.309.t: "Zhang wird aus Jinan vertrieben!"
 worldnews.309.d_Zongchang: "Seit 1925 ist die Stadt Jinan zum Spiegelbild ihres Herrschers geworden: korrupt und korpulent, voller Laster und Schurkerei. Von seinem \"Hof\" aus förderte Zhang Zongchang jeden, von Künstlern und Schriftstellern bis hin zu Playboys und Prostituierten, und ließ jeden hinrichten, der ihm in die Quere kam, und spaltete Köpfe, wie man Melonen spalten würde. Alles war zu Ende, als die Verteidigungsanlagen von Jinan heute zusammenbrachen.\n\nBerichten zufolge konnte man Zhang selbst über dem Lärm brüllen hören, vielleicht um die Evakuierung seines ungezählten Reichtums zu überwachen. Jetzt ist er nirgends mehr zu finden, sein Harem ist verlassen, seine weitläufige Villa ist ein Raub der Flammen. Manche sagen, Zhang werde zurückkehren, entweder als Sieger oder in einem Sarg - eine Vorstellung, die nicht ohne Beispiel ist. Einmal zog er trotz seiner Niederlage durch Jinan, in einem Sarg sitzend und eine große Zigarre rauchend."
-worldnews.309.d_Tianran: "Hoch oben auf dem Berg Tai schien Zhang Tianran die Welt da unten zu meiden, doch in Wahrheit reichte sein Einfluss weit über Shandong hinaus. Durch den Yiguandao-Glauben waren seine Augen und Ohren überall, und oft das scharfe Ende eines Messers.\n\nAllerdings sind seine Anhänger nun auf dem Rückzug, und sogar der Berg Tai selbst ist durch eine entschlossene [FROM.GetnameDef]-Offensive verloren gegangen. Der Schrein der Blauen Morgenröte, der Tempel des Jadekönigs und zahlreiche andere sakrale Stätten befinden sich nun in den Händen respektloser Soldaten, die durch die heiligen Räume trampeln, Statuen, Opfergaben und Weihrauch verstreuen und wahllos plündern. Taishan wird sich vielleicht erst in einer Generation erholen, aber das Schicksal von Tianran ist alles andere als sicher. Dieser Verlust wird seine Anhänger zweifellos verärgern, und er war noch nie ohne Plan."
+worldnews.309.d_Tianran: "Hoch oben auf dem Berg Tai schien Zhang Tianran die Welt da unten zu meiden, doch in Wahrheit reichte sein Einfluss weit über Shandong hinaus. Durch den Yiguandao-Glauben waren seine Augen und Ohren überall, und oft das scharfe Ende eines Messers.\n\nAllerdings sind seine Anhänger nun auf dem Rückzug, und sogar der Berg Tai selbst ist durch eine entschlossene [FROM.GetName]-Offensive verloren gegangen. Der Schrein der Blauen Morgenröte, der Tempel des Jadekönigs und zahlreiche andere sakrale Stätten befinden sich nun in den Händen respektloser Soldaten, die durch die heiligen Räume trampeln, Statuen, Opfergaben und Weihrauch verstreuen und wahllos plündern. Taishan wird sich vielleicht erst in einer Generation erholen, aber das Schicksal von Tianran ist alles andere als sicher. Dieser Verlust wird seine Anhänger zweifellos verärgern, und er war noch nie ohne Plan."
 worldnews.309.a: "Gut, dass wir ihn los sind!"
 worldnews.309.b: "Dies ist nichts anderes als ein taktischer Rückzug!"
 worldnews.309.c: "Das Ende des niederträchtigsten Warlords Chinas?"

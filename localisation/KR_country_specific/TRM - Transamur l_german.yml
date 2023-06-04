@@ -1,7 +1,5 @@
 ﻿l_german:
-
 ##Übersetzt von Thylon##
-
 TRM_focus: "Schwerpunktbaum von Transamur"
 
 ### Leader Traits ###
@@ -666,6 +664,10 @@ TRM_RUS_national_populist_DEF: "die Russische Republik"
 TRM_free_russia: "Freies Russland"
 TRM_free_russia_ADJ: "Russisch"
 TRM_free_russia_DEF: "Freies Russland"
+
+TRM_GU: "Grüne Ukraine"
+TRM_GU_ADJ: "Grün-Ukrainisch"
+TRM_GU_DEF: "die Grüne Ukraine"
 
 ### Characters ###
 RUS_aleksandr_krasnoshchyokov: "Aleksandr Krasnoshchyokov"

@@ -140,7 +140,7 @@ AUS_ausgleich_peoples: "Alle Nationalitäten zum Ausgleich eingeladen."
  hirtenberger: "Hirtenberger"
 
 ### Bohemia ###
- skodove_zavody: "Škodove Závody"
+ skodovy_zavody: "Škodovy Závody"
  bata: "Baťa"
  elektro_praga: "Elektro Praga"
  spolchemie: "Spolchemie"
@@ -152,7 +152,7 @@ AUS_ausgleich_peoples: "Alle Nationalitäten zum Ausgleich eingeladen."
  praga: "Praga"
  aero: "Aero"
  letov: "Letov"
- trinecke_zelezarny: "Třinecké Zlévarny"
+ trinecke_slevarny: "Třinecké Slévarny"
  c_k_d: "Českomoravská Kolben a Daněk"
  skoda_pilsen: "Škoda Plzeň"
  zbrojovka_brno: "Zbrojovka Brno"
@@ -1098,95 +1098,6 @@ ausgleich.new.702.d: "Die Geier in [FROM.GetNameDef] haben beschlossen, unsere i
 ausgleich.new.702.a: "Wir müssen unsere territoriale Integrität schützen!"
 ausgleich.new.702.b: "Wir können nichts tun..."
 
-ausgleich.new.800.t: "Der Untergang Österreichs"
-ausgleich.new.800.d: "Sowohl beim Armee-Oberkommando als auch im Außenministerium ist in Panik ausgebrochen, und es wird immer deutlicher, dass sich der Krieg mit unseren neuen Nachbarn verschlechtert hat. Angesichts des bedrohten Kerns der Monarchie befürchtet selbst die einst selbstbewusste AOK das Schlimmste und dass nicht nur die territoriale Integrität des Reiches nicht mehr zu retten ist, sondern dass es bereits vor der Tür des völligen Zusammenbruchs stehen könnte. Um das Gesicht zu wahren und diesen potentiellen Zusammenbruch zu verhindern, ist dem Kaiser vorgeschlagen worden, dass wir auf Frieden bitten oder der Zerschlagung der Habsburgermonarchie entgegensehen müssen."
-ausgleich.new.800.d.germany: "Sowohl beim Armee-Oberkommando als auch im Außenministerium ist in Panik ausgebrochen, und es wird immer deutlicher, dass sich der Krieg mit unseren neuen Nachbarn verschlechtert hat.Da der Kern der Monarchie bedroht ist, befürchtet selbst die einst selbstbewusste AOK, dass wir vor dem völligen Zusammenbruch stehen. Man hat dem Kaiser vorgeschlagen, dass wir um Frieden bitten müssen... obwohl wir möglicherweise um eine deutsche Intervention bitten könnten, um sicherzustellen, dass der Kern Österreichs intakt bleibt. Wenn wir das tun, werden die Deutschen zweifellos darum bitten, daß wir ihr dauerhaftes Bündnis und ihren Schutz akzeptieren. Unsere einzige Alternative ist, uns der Gnade [AUS_belgrad_pact_leader.GetAdjective] zu überlassen."
-ausgleich.new.800.a: "Wir sind geschlagen. Bitte um Frieden."
-ausgleich.new.800.b: "Wir werden nicht aufgeben!"
-ausgleich.new.800.c: "Wir müssen uns an [GER.GetNameDef] um Hilfe wenden."
-ausgleich.new.800.e: "Keine Deutschen - gebt unseren Feinden einfach, was sie wollen."
-ausgleich.new.800.f: "Wir brauchen Deutschland nicht - wir kämpfen weiter!"
-
-ausgleich.new.801.t: "Österreich bittet um Frieden"
-ausgleich.new.801.t.germany: "Österreich und Deutschland bitten um Frieden"
-ausgleich.new.801.d.main: "Die Truppen der tyrannischen Habsburgermonarchie sind auf dem Feld von unseren glorreichen befreienden Armeen geschlagen worden. Selbst das altersschwache Oberhaupt des verrotteten Reiches sieht seinen unausweichlichen Untergang und hat um Frieden ersucht. Sie sind bereit, alle unsere Ansprüche abzutreten, da sie verzweifelt versuchen, das zu retten, was noch übrig ist. Wenn unsere Ziele erreicht sind, gibt es wenig Grund, dieses großzügige Angebot abzulehnen, auch wenn die Aussicht, über den Wiener Heldenplatz zu marschieren und den sterbenden Leichnam eines Imperiums zu entsorgen, in der Tat verlockend ist."
-augleich.new.801.d.main.faction1: "Die Truppen der tyrannischen Habsburgermonarchie sind auf dem Feld von unseren glorreichen befreienden Armeen geschlagen worden. Selbst das altersschwache Oberhaupt des verrotteten Reiches sieht seinen unausweichlichen Untergang und hat um Frieden ersucht. Sie sind bereit, alle unsere Ansprüche abzutreten, da sie verzweifelt versuchen, das zu retten, was noch übrig ist. Da wir unsere Ziele erreicht haben und [From.GetNameDef] ihrem Angebot bereits zugestimmt haben, gibt es wenig Grund, es abzulehnen, auch wenn die Aussicht, über den Wiener Heldenplatz zu marschieren und den sterbenden Leichnam eines Imperiums zu entsorgen, in der Tat verlockend ist."
-augleich.new.801.d.main.faction2: "Die Truppen der tyrannischen Habsburgermonarchie sind auf dem Feld von unseren glorreichen befreienden Armeen geschlagen worden. Selbst das altersschwache Oberhaupt des verrotteten Reiches sieht seinen unausweichlichen Untergang und hat um Frieden ersucht. Sie sind bereit, alle unsere Ansprüche abzutreten, da sie verzweifelt versuchen, das zu retten, was noch übrig ist. Da wir unsere Ziele erreicht haben, gibt es wenig Grund zur Ablehnung - obwohl [From.GetNameDef] uns mitgeteilt hat, dass sie den Krieg fortsetzen werden. Offenbar ist der Gedanke, dass ihre Truppen über den Wiener Heldenplatz marschieren und den sterbenden Leichnam eines Imperiums beseitigen, zu verlockend."
-ausgleich.new.801.d.germany.main1: "Die Truppen der tyrannischen Habsburgermonarchie wurden auf dem Feld von unseren glorreichen befreienden Armeen geschlagen, so sehr, dass sie nicht nur um Frieden klagen wollen, sondern auch zu den Deutschen um Schutz rennen. [GER.GetNameDefCap] hat zugestimmt, uns alle Ansprüche zu gestatten, die das, was sie als österreichische 'Kernlande' betrachten, nicht beeinträchtigen, solange wir Frieden schließen. Wenn wir das nicht tun, bedeutet das Krieg mit dem gesamten Reichspakt."
-ausgleich.new.801.d.germany.main2: "Die Truppen der tyrannischen Habsburgermonarchie wurden auf dem Feld von unseren glorreichen befreienden Armeen geschlagen, so sehr, dass sie nicht nur um Frieden bitten wollen, sondern auch bei den Deutschen Schutz suchen. [GER.GetNameDefCap] hat diktiert, daß kein österreichisches Kernland annektiert wird... was bedeutet, daß wir *nichts* aus dem Vertrag bekommen würden. Das allein ist schon ein Skandal, aber wenn wir uns weigern, bedeutet das Krieg mit dem gesamten Reichspakt."
-ausgleich.new.801.d.germany.main.faction1: "Die Truppen der tyrannischen Habsburgermonarchie wurden auf dem Feld von unseren glorreichen befreienden Armeen geschlagen, so sehr, dass sie nicht nur um Frieden bitten wollen, sondern auch bei den Deutschen Schutz suchen. [GER.GetNameDefCap] hat zugestimmt, uns alle Ansprüche zu gestatten, die das, was sie als österreichische Kernlande betrachten, nicht beeinträchtigen, solange wir uns [From.GetNameDef] anschließen, der dem Arrangement bereits zugestimmt hat. Wenn wir das nicht tun, bedeutet das Krieg mit dem gesamten Reichspakt."
-ausgleich.new.801.d.germany.main.faction2: "Die Truppen der tyrannischen Habsburgermonarchie wurden auf dem Feld von unseren glorreichen befreienden Armeen geschlagen, so sehr, dass sie nicht nur um Frieden bitten wollen, sondern auch bei den Deutschen Schutz suchen. [GER.GetNameDefCap] hat zugestimmt, uns alle Ansprüche zu gewähren, die das, was sie als österreichische Kernlande betrachten, nicht beeinträchtigen - ein Angebot, das [From.GetNameDef] bereits heftig abgelehnt hat. Schließen wir uns [From.GetNameDef] an und ziehen mit dem Reichspakt selbst in den Krieg, oder brechen wir mit ihnen und akzeptieren den von Deutschland diktierten Frieden?"
-ausgleich.new.801.a: "Wir stimmen ihren Bedingungen zu."
-ausgleich.new.801.b: "Nein, wir werden die Habsburger ein für alle Mal vernichten!"
-
- #AUS POV
-ausgleich.new.802.t: "Der Vertrag von [AUS_treaty_name]"
-ausgleich.new.802.d.germany: "Delegierte aus der Habsburgermonarchie und [GER.GetNameDef] trafen sich in Budapest mit Kollegen aus verfeindeten Nationen, um die Friedensbedingungen auszuhandeln. Österreich hat zugestimmt, alle Ansprüche seiner Feinde auf kaiserliche und königliche Länder im Austausch für den Frieden abzutreten. Diese demütigende Niederlage markiert ein neues Kapitel in der habsburgischen Geschichte, da sich Österreich nicht mehr als Großmacht betrachten kann. Es kann jedoch vielleicht retten, was übrig geblieben ist, und die vollständige Demontage seiner Monarchie vermeiden, da es nun unter deutschem Schutz steht."
-ausgleich.new.802.d: "Delegierte der Habsburgermonarchie trafen sich in Budapest mit ihren feindlichen Amtskollegen, um die Friedensbedingungen auszuhandeln. Wir haben vereinbart, im Austausch für den Frieden alle Ansprüche, die sie auf kaiserliche und königliche Länder haben, abzutreten. Diese demütigende Niederlage markiert ein neues Kapitel in der Geschichte der Habsburger, da wir uns nicht mehr als Großmacht betrachten können. Aber vielleicht können wir das, was übrig geblieben ist, retten und die vollständige Demontage der Monarchie vermeiden."
-ausgleich.new.802.a: "Endlich Frieden."
-ausgleich.new.802.b: "Gut, dann ist es erledigt."
-
- AUS_treaty_name_budapest: "[43.GetCapitalVictoryPointName]"
- AUS_treaty_name_vienna: "[4.GetCapitalVictoryPointName]"
-
- #SER/ROM/POL/ITA POV
-ausgleich.new.803.t: "Der Vertrag von [AUS_treaty_name]"
-ausgleich.new.803.d.balkan: "Delegierte von [Root.GetNameDef] trafen sich in Budapest mit ihren habsburgischen Amtskollegen, um die Friedensbedingungen auszuhandeln. In dem darauf folgenden Vertrag haben die Österreicher alle unsere Ansprüche im Austausch für den Frieden abgetreten. Dies ist in der Tat ein glorreicher Tag, denn der Balkan ist endlich frei von fremder Einmischung und unsere ethnischen Brüder sind endlich wieder mit dem Heimatland vereint."
-ausgleich.new.803.d.germany.balkan: "Delegierte von [Root.GetNameDef] trafen sich in Budapest mit ihren deutschen und habsburgischen Amtskollegen, um die Friedensbedingungen auszuhandeln. In dem darauf folgenden Vertrag haben die Österreicher alle unsere Ansprüche - mit Ausnahme jener in den österreichischen Kernländern - im Austausch für den Frieden abgetreten. Dies ist in der Tat ein glorreicher Tag, denn der Balkan ist endlich frei von fremder Einmischung und unsere ethnischen Brüder sind endlich wieder mit dem Heimatland vereint."
-ausgleich.new.803.d.italy: "Delegierte von [Root.GetNameDef] trafen sich in Budapest mit ihren habsburgischen Amtskollegen, um die Friedensbedingungen auszuhandeln. In dem darauf folgenden Vertrag haben die Österreicher alle unsere Ansprüche im Austausch für den Frieden abgetreten. Dies ist in der Tat ein glorreicher Tag, denn Italien ist endlich frei vom Stigma unseres Weltkriegsverlustes, und unsere italienischen Brüder sind endlich wieder mit dem Heimatland vereint."
-ausgleich.new.803.d.germany.italy: "Delegierte von [Root.GetNameDef] trafen sich in Budapest mit ihren deutschen und habsburgischen Amtskollegen, um die Friedensbedingungen auszuhandeln. Unsere Gewinne im folgenden Vertrag werden begrenzt sein, da Deutschland entschlossen ist, "Kern"-Österreichische Länder im Litoral und in Südtirol zu schützen, die größtenteils ebenfalls Italiener sind. Dennoch bedeutet dies Frieden für den Augenblick und keinen Krieg mit dem Reichspakt."
-ausgleich.new.803.a: "Ein großartiger Sieg!"
-ausgleich.new.803.b: "Ein letzter Schritt zum Sieg."
-
-ausgleich.new.804.t: "[FROM.GetNameDefCap] Verweigert Frieden"
-ausgleich.new.804.d: "Unser Friedensangebot an [FROM.GetNameDef] ist kurzerhand abgelehnt worden. Der Krieg wird so lange andauern, bis eine Seite der bedingungslosen Kapitulation zustimmt. Um diesen gnadenlosen Krieg zu beenden, muss mehr Blut vergossen werden."
-ausgleich.new.804.a: "Also ein Kampf bis zum bitteren Ende."
-
-ausgleich.new.805.t: "[FROM.GetNameDefCap] Verweigert Frieden"
-ausgleich.new.805.d: "Unsere Entscheidung, das Friedensangebot der Österreicher anzunehmen, scheint unsere einstigen Verbündeten in [FROM.GetNameDef] sehr verärgert zu haben. Ihr Botschafter hat unsere Annahme als "Verrat" an der Existenzberechtigung des Paktes erklärt und geschworen, den Krieg bis zum bitteren Ende fortzusetzen. Es scheint, dass unser Bündnis mit [FROM.GetNameDef] am Ende ist."
-ausgleich.new.805.a: "Sie werden es bedauern, wenn sich die Österreicher ihnen zuwenden."
-
- #global news event:
-ausgleich.new.806.t: "Der Vertrag von [AUS_treaty_name]"
-ausgleich.new.806.d: "Für die Habsburgermonarchie beginnt ein neues Kapitel, da ihre Streitkräfte von [AUS_belgrad_pact_leader.GetNameDef] und ihren Verbündeten besiegt wurden. Einst eine der dominierenden Kräfte auf dem Balkan, hat Österreich jahrzehntelang einen kontinuierlichen Niedergang erlebt, und während ihr hohler Sieg im Weltkrieg eine kurze Atempause brachte, hat dieser Krieg das einst stolze Kaiserreich vielleicht endgültig zu Fall gebracht. Die Landkarte des Balkans und Mitteleuropas wurde erneut neu gezeichnet; Österreich kann sich nicht länger als Großmacht betrachten, während seine Nachbarn sich mit ihren nationalen Brüdern wiedervereinigt haben, die einst fest unter habsburgischer Kontrolle standen."
-ausgleich.new.806.d.germany: "Für die Habsburgermonarchie beginnt ein neues Kapitel, da ihre Streitkräfte von [AUS_belgrad_pact_leader.GetNameDef] und ihren Verbündeten besiegt wurden. Einst eine der dominierenden Kräfte auf dem Balkan, hat Österreich jahrzehntelang einen kontinuierlichen Niedergang erlebt, und während ihr hohler Sieg im Weltkrieg eine kurze Atempause brachte, hat dieser Krieg das einst stolze Kaiserreich vielleicht endgültig zu Fall gebracht. Die Karte des Balkans und Mitteleuropas wurde noch einmal neu gezeichnet, und Österreich hat sich [GER.GetNameDef] um Schutz gebeten. Es kann nicht länger als Großmacht betrachtet werden und wird sich glücklich schätzen, wenn seine Monarchie nach dieser Demütigung intakt bleibt."
-ausgleich.new.806.a: "Österreich ist tief gefallen..."
-
-ausgleich.new.807.t: "Die Bedingungen des Vertrags von [AUS_treaty_name]"
-ausgleich.new.807.d: "Gemäß den Bestimmungen des Vertrags von [AUS_treaty_name], den wir unterzeichnet haben, müssen wir nun die Kontrolle über alle österreichischen Länder, die nicht durch den Vertrag aufgegeben wurden, zurückgeben."
-ausgleich.new.807.a: "Sehr gut."
-
-ausgleich.new.808.t: "Die Bedingungen des Vertrags von [AUS_treaty_name]"
-ausgleich.new.808.d: "Gemäß den Bestimmungen des Vertrags von [AUS_treaty_name], den wir unterzeichnet haben, müssen wir alle Länder evakuieren, die im Belgrader Pakt an unsere Feinde abgetreten wurden."
-ausgleich.new.808.a: "Sehr gut."
-
-ausgleich.new.820.t: "Die Österreicher vor dem Zusammenbruch"
-ausgleich.new.820.d: "Der österreichische Krieg gegen [AUS_belgrad_pact_leader.GetNameDef] hat eine Wendung zum Schlechten genommen, und nun stehen sie kurz vor dem Zusammenbruch. Ihren Stolz schluckend, sind sie zu [Root.GetNameDef] gekommen, um unsere Intervention und unseren Schutz zu erbitten. Mit uns bei den Friedensgesprächen können wir sicherstellen, dass die Österreicher nicht völlig demontiert werden, und im Gegenzug werden sie und ihre verbliebenen Untertanen dem Reichspakt-Bündnis beitreten. Das könnte bedeuten, in einen Balkankrieg verwickelt zu werden, aber wenn wir die Situation ignorieren, könnten die Balkanstaaten ihre aggressive Expansion fortsetzen... und wer weiß, auf welche Seite sie sich in Zukunft stellen werden?"
-ausgleich.new.820.a: "Wir werden eingreifen."
-ausgleich.new.820.b: "Die Österreicher sind auf sich allein gestellt."
-
-ausgleich.new.821.t: "Die Deutschen sollen eingreifen"
-ausgleich.new.821.d: "Die [From.GetAdjective]-Regierung hat sich bereit erklärt, in unsere Friedensverhandlungen einzugreifen. Sollte [AUS_belgrad_pact_leader.GetNameDef] sich weigern, Frieden zu schließen, wird sie sich dem Krieg anschließen, aber ansonsten wird ihre Präsenz dazu dienen, sicherzustellen, dass uns unser Kerngebiet nicht entrissen wird. Im Gegenzug werden wir die [Root.GetFactionName] auflösen und der [GER.GetFactionName] beitreten, sobald die Gespräche abgeschlossen sind."
-ausgleich.new.821.a: "Was für eine Erleichterung! Lasst die Friedensgespräche beginnen!"
-
-ausgleich.new.822.t: "Die Deutschen werden nicht eingreifen"
-ausgleich.new.822.d: "Die Regierung [From.GetAdjective] ist nicht bereit, sich in einen potenziellen Balkan-Konflikt hineinziehen zu lassen, und hat es abgelehnt, sich an unseren Friedensgesprächen mit [AUS_belgrad_pact_leader.GetNameDef] zu beteiligen. Wir sind auf uns allein gestellt."
-ausgleich.new.822.a: "Dann haben wir keine Wahl - geben Sie ihnen, was sie wollen."
-ausgleich.new.822.b: "Dann kämpfen wir bis zum bitteren Ende weiter!"
-
-ausgleich.new.823.t: "[FROM.GetNameDefCap] Stimmt dem Frieden zu"
-ausgleich.new.823.d: "Unsere Entscheidung, das Friedensangebot der Österreicher abzulehnen, scheint unsere einstigen Verbündeten in [FROM.GetNameDef] sehr verärgert zu haben. Ihr Botschafter hat unsere Ablehnung als  \"Verrat \" an der Existenzberechtigung des Paktes erklärt und gesagt, dass es keinen Sinn hat, den Krieg fortzusetzen, jetzt, da unsere Ziele erreicht sind. Es scheint, dass unser Bündnis mit [FROM.GetNameDef] am Ende ist."
-ausgleich.new.823.a: "Das werden sie bereuen."
-
-ausgleich.new.824.t: "Österreich tritt dem Reichspakt bei"
-ausgleich.new.824.d: "Infolge des gescheiterten Krieges haben sich die Österreicher an [GER.GetNameDef] um Schutz gewandt. Sie werden dem Reichspakt-Bündnis in vollem Umfang beitreten, und sie haben uns gebeten, ihnen beizutreten. Sollten wir uns weigern, werden wir auf uns allein gestellt sein."
-ausgleich.new.824.a: "Natürlich werden wir uns ihnen anschließen!"
-ausgleich.new.824.b: "Wir wären lieber auf uns allein gestellt."
-
-ausgleich.new.825.t: "Dem Reichspakt beitreten"
-ausgleich.new.825.d: "Jetzt, da unser Reich weitgehend zerschlagen ist, müssen wir uns wie versprochen an die Deutschen zwecks Bündnis und Schutz wenden."
-ausgleich.new.825.a: "So soll es sein!"
-
 ### New Military Occupation events ###
 
 ausgleich.new.900.t.CRO: "Österreichischer Verrat"
@@ -1527,7 +1438,7 @@ AUS_danubia_radical_socialist_DEF: "die Donau-Republik der Räte"
  AUS_karl_albrecht_von_habsburg_POL_leader_desc: "Karol Olbracht von Habsburg-Lothringen, gebürtiger Österreicher, ist ein entschiedener Verfechter der Polen. Als Kaiser Karl plante, polnische Gebiete an Österreich anzugliedern, setzte sich Karol Olbracht vehement dagegen ein. Obwohl er seiner Heimat Österreich freundschaftlich verbunden ist, kämpft Karol als König von Polen weiterhin für das polnische Volk."
 
  AUS_joseph_august_von_habsburg: "Joseph August von Habsburg-Lothringen"
- AUS_joseph_august_von_habsburg_hungarian: "József Ágost Habsburg–Lotaringiai"
+ AUS_joseph_august_von_habsburg_hungarian: "József Ágost Habsburg-Lotaringiai"
 
  AUS_alfred_jansa_von_tannenau: "Alfred Jansa von Tannenau"
  AUS_erhard_raus: "Erhard Raus"

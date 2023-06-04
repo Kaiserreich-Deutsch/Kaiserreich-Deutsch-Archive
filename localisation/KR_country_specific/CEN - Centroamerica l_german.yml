@@ -1,7 +1,5 @@
 ﻿l_german:
-
 ##Übersetzt von Thylon##
-
 ### Country Names ###
 CEN: "Zentralamerika"
 CEN_ADJ: "zentralamerikanische"
@@ -649,8 +647,8 @@ cendem.116.t: "Ende der Korruptionsprozesse"
 cendem.116.d: "Nachdem mehrere hundert Angestellte und besorgte Bürger ausgesagt haben und handfeste Beweise vorgelegt wurden, konnten rund 500 Personen, darunter hochrangige Politiker und Industrie- und Landbarone, der Veruntreuung und unrechtmäßigen Bereicherung überführt werden und wurden je nach Schwere ihrer Verbrechen zu einer Sperre von 4 Millionen Dollar und unterschiedlichen Haftzeiten verurteilt. Auch wenn es wahrscheinlich noch viel Korruption auf lokaler Ebene gibt, ist das Gesamtziel der Partei erreicht. Die Suche nach Korruption wird zwar weitergehen, aber in einem langsameren Tempo und delegiert an die einzelnen Staaten."
 cendem.116.a: "Die Zukunft ist ein bisschen heller geworden."
 
-cendem.201.t: "[FROM.GetNonIdeologyName] möchte einen Freundschaftsvertrag unterzeichnen"
-cendem.201.d: "[FROM.GetNameDefCap] hat sich heute an unsere Botschaft gewandt, damit wir einen Freundschaftsvertrag prüfen, den ihre Abgeordnetenkammer angenommen hat. Der Vorschlag selbst enthält eine diplomatische Zusicherung, in der beide Länder versprechen, im Falle einer Invasion füreinander einzustehen, sowie eine Senkung der Zölle für den Handel zwischen unserem und ihrem Land und sogar die Absicht, im weiteren Verlauf eine Freihandelszone zu schaffen, wenn der Vertrag angenommen wird. Was sollten wir antworten?"
+cendem.201.t: "[FROM.FROM.GetNonIdeologyNameDef] möchte einen Freundschaftsvertrag unterzeichnen"
+cendem.201.d: "[FROM.FROM.GetNameDefCap] hat sich heute an unsere Botschaft gewandt, damit wir einen Freundschaftsvertrag prüfen, den ihre Abgeordnetenkammer angenommen hat. Der Vorschlag selbst enthält eine diplomatische Zusicherung, in der beide Länder versprechen, im Falle einer Invasion füreinander einzustehen, sowie eine Senkung der Zölle für den Handel zwischen unserem und ihrem Land und sogar die Absicht, im weiteren Verlauf eine Freihandelszone zu schaffen, wenn der Vertrag angenommen wird. Was sollten wir antworten?"
 cendem.201.a: "Akzeptiert ihren Vorschlag."
 cendem.201.b: "Sagt ihnen, dass wir nicht akzeptieren können, da wir äh..."
 
@@ -1252,7 +1250,6 @@ CEN_naval_carrier_desc: "Wenn man endlich das Fachwissen hat, um einen Flugzeugt
 CEN_join_internationale: "Beitritt zur Internationalen"
 CEN_join_internationale_desc: "Wir haben endlich alle nationalen Angelegenheiten in Ordnung gebracht und können schauen, was wir für den Rest der Welt tun können. Die Internationale unterstützt unsere Werte und wir müssen uns ihnen anschließen, wenn wir wollen, dass der Sozialismus in diesen turbulenten Zeiten Erfolg hat!"
 
-
 ### Events
 
 centro.001.t: "Gründung des Zentralamerikanischen Kongresses"
@@ -1438,13 +1435,11 @@ CEN_spread_light_idea: "Das Licht Gottes verbreiten"
 CEN_small_man_idea: "Für den kleinen Mann"
 CEN_edu_reform_idea: "Bildungsreformen"
 CEN_agri_reform_idea: "Agrarreformen"
-CEN_trade_idea: "Förderung des Handels"
 CEN_cash_crop_idea: "Der Exportfrüchte-Boom"
 CEN_self_suff_idea: "Selbstversorgung"
 CEN_pop_defense_idea: "Verteidigung des Volkes"
 CEN_agri_reform_idea2: "Agrarreformen"
 CEN_agri_reform_idea3: "Agrarreformen"
-CEN_trade_idea: "Förderung des Handels"
 CEN_cash_crop_idea2: "Der Exportfrüchte-Boom"
 CEN_budget_idea: "Angepasster Haushalt"
 CEN_farm_to_fact_idea: "Von den Bauernhöfen zu den Fabriken"
@@ -1695,6 +1690,7 @@ CENmil_embargo_trade: "Unter Embargo"
 CENmil_somoza_visited: "Offizieller Besuch von Präsident Somoza"
 
 ### TOOLTIPS ###  ### Yes, I accidently switched from . to _ mid-way through, oops
+
 cenmil_congress_events_tt: "§CWährend dieses Schwerpunkts wird der Militärkongress über die Zukunft der Union debattieren, Minister und Politiker wählen und den ersten Präsidenten bestimmen.§!\n"
 cenmil_people_not_happy.tt: "§RDas Volk ist mit unserer Entscheidung nicht einverstanden.§!\n"
 CENmil_laissez_faire.tt: "§CDie Regierung wird eine Laissez-faire-Wirtschaftspolitik verfolgen, die die Vorteile ausländischer und unternehmerischer Investitionen auf Kosten der Fähigkeit der Regierung, entscheidend in die Wirtschaft einzugreifen, erhöhen wird.§!\n"
@@ -2456,3 +2452,4 @@ cafla.19.a: "¡Feliz Día de la Independencia!"
 cafla.20.t: "Veröffentlichung des Buches 'Archaeology of the North Coast of Honduras'"
 cafla.20.d: "Die amerikanische Archäologin und Ethnografin Doris Zemurray Stone hat ihr Buch veröffentlicht, in dem sie die Erkenntnisse verschiedener Archäologen über mehrere mittelamerikanische Ausgrabungsstätten in Honduras zusammenfasst. Als eines der besten Werke der archäologischen Forschung in diesem Bereich konzentriert sich ihr Buch vor allem auf die Aufzeichnungen von George Clapp Vaillant und Dorothy Popenoe über die Playa de los Muertos und wie diese das neue Bild der mesoamerikanischen Kulturen prägen. Das Buch ist schnell zur Pflichtlektüre für jeden Liebhaber präkolumbischer mesoamerikanischer Geschichte geworden und hat das Ansehen der jungen Direktorin des Nationalmuseums von Costa Rica in neue Höhen getrieben."
 cafla.20.a: "Ihre Arbeit macht uns alle stolz."
+

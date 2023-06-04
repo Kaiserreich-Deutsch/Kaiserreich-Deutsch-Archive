@@ -1,5 +1,6 @@
 ﻿l_german:
-
+### Übersetzt von DerEherneRächer ###
+### ADA: Adamawa
  ADA: "Adamawa"
  ADA_ADJ: "Adamawisch"
  ADA_DEF: "Adamawa"
@@ -23,18 +24,31 @@
  ADA_national_populist_ADJ: "Adamawisch"
  ADA_national_populist_DEF: "die Adamawa-Clique"
 
+### ANG: Angola
  ANG: "Angola"
  ANG_ADJ: "Angolanisch"
  ANG_DEF: "Angola"
+ 
+ ### Characters ###
+ ANG_monsenhor_alves_da_cunha: "Monsenhor Alves da Cunha"
 
+### BOT: Bechuanaland
  BOT: "Betschuanaland"
  BOT_ADJ: "Betschuanisch"
  BOT_DEF: "Betschuanaland"
+ 
+ ### Characters ###
+ BOT_seretse_khama: "Seretse Khama"
 
+### BRD: Urundi
  BRD: "Urundi"
  BRD_ADJ: "Urundisch"
  BRD_DEF: "Urundi"
 
+ ### Characters ###
+ BRD_Mwambutsa_IV: "Mwambutsa IV"
+
+### BRT: Barotseland
  BRT: "Barotseland"
  BRT_ADJ: "Barotsisch"
  BRT_DEF: "Barotseland"
@@ -49,136 +63,19 @@
  BRT_radical_socialist_ADJ: "Barotsisch"
  BRT_radical_socialist_DEF: "die Kommune Barotseland"
  
- CHA: "Tschad"
- CHA_ADJ: "Tschadisch"
- CHA_DEF: "der Tschad"
+ ### Characters ###
+ BRT_Yeta_III: "Yeta III"
 
- CHA_totalist: "Tschadische Föderation"
- CHA_totalist_ADJ: "Tschadisch"
- CHA_totalist_DEF: "die Tschadische Föderation"
- CHA_syndicalist: "Tschadische Föderation"
- CHA_syndicalist_ADJ: "Tschadisch"
- CHA_syndicalist_DEF: "die Tschadische Föderation"
- CHA_radical_socialist: "Tschadische Föderation"
- CHA_radical_socialist_ADJ: "Tschadisch"
- CHA_radical_socialist_DEF: "die Tschadische Föderation"
- CHA_authoritarian_democrat: "Reich Wadai"
- CHA_authoritarian_democrat_ADJ: "Wadaiisch"
- CHA_authoritarian_democrat_DEF: "das Reich Wadai"
-
+### CMR: Cameroon
  CMR: "Kamerun"
  CMR_ADJ: "Kamerunisch"
  CMR_DEF: "Kamerun"
 
- CVG: "Kap Verde-Guinea"
- CVG_ADJ: "Kapverdisch"
- CVG_DEF: "Kap Verde-Guinea"
+ ### Characters ###
+ CMR_Alexander_Duala_Bell: "Alexander Duala Bell"
+ CMR_Karl_Atangana: "Karl Atangana"
 
- CVG_totalist: "Westafrikanische Kommune"
- CVG_totalist_ADJ: "Kapverdisch"
- CVG_totalist_DEF: "die Westafrikanische Kommune"
- CVG_syndicalist: "Westafrikanische Kommune"
- CVG_syndicalist_ADJ: "Kapverdisch"
- CVG_syndicalist_DEF: "die Westafrikanische Kommune"
- CVG_radical_socialist: "Westafrikanische Kommune"
- CVG_radical_socialist_ADJ: "Kapverdisch"
- CVG_radical_socialist_DEF: "die Westafrikanische Kommune"
-
- GHA: "Goldküste"
- GHA_ADJ: "Golden"
- GHA_DEF: "die Goldküste"
-
- GHA_totalist: "Goldküste"
- GHA_totalist_ADJ: "Golden"
- GHA_totalist_DEF: "die Republik der Goldküste"
- GHA_syndicalist: "Goldküste"
- GHA_syndicalist_ADJ: "Golden"
- GHA_syndicalist_DEF: "die Republik der Goldküste"
- GHA_radical_socialist: "Goldküste"
- GHA_radical_socialist_ADJ: "Golden"
- GHA_radical_socialist_DEF: "die Republik der Goldküste"
- GHA_social_democrat: "Goldküste"
- GHA_social_democrat_ADJ: "Golden"
- GHA_social_democrat_DEF: "die Republik der Goldküste"
- GHA_social_liberal: "Goldküste"
- GHA_social_liberal_ADJ: "Golden"
- GHA_social_liberal_DEF: "die Republik der Goldküste"
- GHA_market_liberal: "Goldküste"
- GHA_market_liberal_ADJ: "Golden"
- GHA_market_liberal_DEF: "die Republik der Goldküste"
- GHA_social_conservative: "Goldküste"
- GHA_social_conservative_ADJ: "Golden"
- GHA_social_conservative_DEF: "die Republik der Goldküste"
- GHA_authoritarian_democrat: "Goldküste"
- GHA_authoritarian_democrat_ADJ: "Golden"
- GHA_authoritarian_democrat_DEF: "die Republik der Goldküste"
- GHA_paternal_autocrat: "Goldküste"
- GHA_paternal_autocrat_ADJ: "Golden"
- GHA_paternal_autocrat_DEF: "die Republik der Goldküste"
- GHA_national_populist: "Goldküste"
- GHA_national_populist_ADJ: "Golden"
- GHA_national_populist_DEF: "die Republik der Goldküste"
- 
- GHA_ENG: "Goldküste"
- GHA_ENG_ADJ: "Golden"
- GHA_ENG_DEF: "die Goldküste"
-
- GNA: "Guinea"
- GNA_ADJ: "Guineisch"
- GNA_DEF: "Guinea"
- 
- GNA_totalist: "Guineische Union"
- GNA_totalist_ADJ: "Guineisch"
- GNA_totalist_DEF: "die Guineische Union"
- GNA_syndicalist: "Guineische Union"
- GNA_syndicalist_ADJ: "Guineisch"
- GNA_syndicalist_DEF: "die Guineische Union"
- GNA_radical_socialist: "Guineische Union"
- GNA_radical_socialist_ADJ: "Guineisch"
- GNA_radical_socialist_DEF: "die Guineische Union"
- GNA_national_populist: "Futa Dschalon"
- GNA_national_populist_ADJ: "Dschalonisch"
- GNA_national_populist_DEF: "Futa Dschalon"
-
- IVO: "Elfenbeinküste"
- IVO_ADJ: "Ivorisch"
- IVO_DEF: "die Elfenbeinküste"
-
- KBR: "Bornu"
- KBR_ADJ: "Bornu"
- KBR_DEF: "Bornu"
-
- KBR_totalist: "Bornu-Union"
- KBR_totalist_ADJ: "Bornu"
- KBR_totalist_DEF: "die Bornu-Union"
- KBR_syndicalist: "Bornu-Union"
- KBR_syndicalist_ADJ: "Bornu"
- KBR_syndicalist_DEF: "die Bornu-Union"
- KBR_radical_socialist: "Bornu-Union"
- KBR_radical_socialist_ADJ: "Bornu"
- KBR_radical_socialist_DEF: "die Bornu-Union"
- KBR_social_democrat: "Republik Bornu"
- KBR_social_democrat_ADJ: "Bornu"
- KBR_social_democrat_DEF: "die Republik Bornu"
- KBR_social_liberal: "Republik Bornu"
- KBR_social_liberal_ADJ: "Bornu"
- KBR_social_liberal_DEF: "die Republik Bornu"
- KBR_market_liberal: "Republik Bornu"
- KBR_market_liberal_ADJ: "Bornu"
- KBR_market_liberal_DEF: "die Republik Bornu"
- KBR_social_conservative: "Republik Bornu"
- KBR_social_conservative_ADJ: "Bornu"
- KBR_social_conservative_DEF: "die Republik Bornu"
- KBR_authoritarian_democrat: "Bornu-Emirat"
- KBR_authoritarian_democrat_ADJ: "Bornu"
- KBR_authoritarian_democrat_DEF: "das Bornu-Emirat"
- KBR_paternal_autocrat: "Bornu-Emirat"
- KBR_paternal_autocrat_ADJ: "Bornu"
- KBR_paternal_autocrat_DEF: "das Bornu-Emirat"
- KBR_national_populist: "Bornu-Emirat"
- KBR_national_populist_ADJ: "Bornu"
- KBR_national_populist_DEF: "das Bornu-Emirat"
-
+### KIV: Kivu
  KIV: "Kivu"
  KIV_ADJ: "Kivu"
  KIV_DEF: "Kivu"
@@ -213,7 +110,11 @@
  KIV_national_populist: "Kivuer Staat"
  KIV_national_populist_ADJ: "Kivu"
  KIV_national_populist_DEF: "der Kivuer Staat"
+ 
+ ### Characters ###
+ KIV_Louis_de_Gonzague_Bobozo: "Louis de Gonzague Bobozo"
 
+### KEN: Kenya
  KEN: "Kenia"
  KEN_ADJ: "Kenianisch"
  KEN_DEF: "Kenia"
@@ -221,148 +122,42 @@
  KEN_KIK: "Kikuyuland"
  KEN_KIK_ADJ: "Kikuisch"
  KEN_KIK_DEF: "Kikuyuland"
+ 
+ ### Characters ###
+ KEN_Stanley_Mathenge: "Stanley Mathenge"
+ KEN_Thomas_Cholmondeley: "Tom Delamere"
+ KEN_Philip_Euen_Mitchell: "Philip Euen Mitchell"
 
+### MAD: Madagascar
  MAD: "Madagaskar"
  MAD_ADJ: "Madegassisch"
  MAD_DEF: "Madagaskar"
 
- MLI: "Mali"
- MLI_ADJ: "Malisch"
- MLI_DEF: "Mali"
-
- MLI_totalist: "Malische Kommune"
- MLI_totalist_ADJ: "Malisch"
- MLI_totalist_DEF: "die Malische Kommune"
- MLI_syndicalist: "Malische Kommune"
- MLI_syndicalist_ADJ: "Malisch"
- MLI_syndicalist_DEF: "die Malische Kommune"
- MLI_radical_socialist: "Malische Kommune"
- MLI_radical_socialist_ADJ: "Malisch"
- MLI_radical_socialist_DEF: "die Malische Kommune"
-
- MLW: "Njassaland"
- MLW_ADJ: "Njassisch"
- MLW_DEF: "Njassaland"
-
- MLW_totalist: "Malawi"
- MLW_totalist_ADJ: "Malawisch"
- MLW_totalist_DEF: "die Sozialistische Republik Malawi"
- MLW_syndicalist: "Malawi"
- MLW_syndicalist_ADJ: "Malawisch"
- MLW_syndicalist_DEF: "die Sozialistische Republik Malawi"
- MLW_radical_socialist: "Malawi"
- MLW_radical_socialist_ADJ: "Malawisch"
- MLW_radical_socialist_DEF: "die Sozialistische Republik Malawi"
- MLW_national_populist: "Maravier Staat"
- MLW_national_populist_ADJ: "Maravi"
- MLW_national_populist_DEF: "der Maravier Staat"
-
- MRT: "Mauretanien"
- MRT_ADJ: "Mauretanisch"
- MRT_DEF: "Mauretanien"
-
- MRT_national_populist: "Trarza"
- MRT_national_populist_ADJ: "Trarzanisch"
- MRT_national_populist_DEF: "das Trarzan-Emirat"
-
+### MZB: Mozambique
  MZB: "Mosambik"
  MZB_ADJ: "Mosambikanisch"
  MZB_DEF: "Mosambik"
-
- NGA: "Nigeria"
- NGA_ADJ: "Nigerisch"
- NGA_DEF: "Nigeria"
  
- NGA_BWA: "Britisch-Westafrika"
- NGA_BWA_ADJ: "Britisch-Westafrikanisch"
- NGA_BWA_DEF: "Britisch-Westafrika"
+ ### Characters ###
+ MZB_jose_augusto_da_costa_almeida: "José Augusto da Costa Almeida"
 
- NGR: "Niger"
- NGR_ADJ: "Nigrisch"
- NGR_DEF: "Niger"
-
+### RWA: Ruanda
  RWA: "Ruanda"
  RWA_ADJ: "Ruandisch"
  RWA_DEF: "Ruanda"
 
- SEN: "Senegambien"
- SEN_ADJ: "Senegambisch"
- SEN_DEF: "Senegambien"
+ ### Characters ###
+ RWA_Yuhi_V: "Yuhi V"
 
- SEN_national_populist: "Jolof-Staat"
- SEN_national_populist_ADJ: "Jolofisch"
- SEN_national_populist_DEF: "der Jolof-Staat"
-
- SIE: "Sierra Leone"
- SIE_ADJ: "Sierra-Leonisch"
- SIE_DEF: "Sierra Leone"
-
- SUD: "Sudan"
- SUD_ADJ: "Sudanesisch"
- SUD_DEF: "der Sudan"
-
+### TKE: Tshuapa Clique
  TKE: "Tshuapa-Clique"
  TKE_ADJ: "Tshuapanisch"
  TKE_DEF: "die Tshuapa-Clique"
-
- TOG: "Togoland"
- TOG_ADJ: "Togoisch"
- TOG_DEF: "Togoland"
-
- TOG_totalist: "Togo"
- TOG_totalist_ADJ: "Togoisch"
- TOG_totalist_DEF: "die Togoische Republik"
- TOG_syndicalist: "Togo"
- TOG_syndicalist_ADJ: "Togoisch"
- TOG_syndicalist_DEF: "die Togoische Republik"
- TOG_radical_socialist: "Togo"
- TOG_radical_socialist_ADJ: "Togoisch"
- TOG_radical_socialist_DEF: "die Togoische Republik"
  
- TOG_national_populist: "Togo"
- TOG_national_populist_ADJ: "Togoisch"
- TOG_national_populist_DEF: "Togo"
+ ### Characters ###
+ TKE_Justin_Kokolo: "Justin Kokolo"
 
- TRP: "Tripolitanien"
- TRP_ADJ: "Tripolitanisch"
- TRP_DEF: "Tripolitanien"
-
- TRP_totalist: "Tripolitanische Union"
- TRP_totalist_ADJ: "Tripolitanisch"
- TRP_totalist_DEF: "die Tripolitanische Union"
- TRP_syndicalist: "Tripolitanische Sozialistische Republik"
- TRP_syndicalist_ADJ: "Tripolitanisch"
- TRP_syndicalist_DEF: "die Tripolitanische Sozialistische Republik"
- TRP_radical_socialist: "Tripolitanische Republik"
- TRP_radical_socialist_ADJ: "Tripolitanisch"
- TRP_radical_socialist_DEF: "die Tripolitanische Republik"
- TRP_social_democrat: "Tripolitanische Republik"
- TRP_social_democrat_ADJ: "Tripolitanisch"
- TRP_social_democrat_DEF: "die Tripolitanische Republik"
- TRP_social_liberal: "Tripolitanische Republik"
- TRP_social_liberal_ADJ: "Tripolitanisch"
- TRP_social_liberal_DEF: "die Tripolitanische Republik"
- TRP_market_liberal: "Tripolitanische Republik"
- TRP_market_liberal_ADJ: "Tripolitanisch"
- TRP_market_liberal_DEF: "die Tripolitanische Republik"
- TRP_social_conservative: "Tripolitanische Republik"
- TRP_social_conservative_ADJ: "Tripolitanisch"
- TRP_social_conservative_DEF: "die Tripolitanische Republik"
-
- TUN: "Tunesien"
- TUN_ADJ: "Tunesisch"
- TUN_DEF: "Tunesien"
-
- TUN_totalist: "Tunesische Kommune"
- TUN_totalist_ADJ: "Tunesisch"
- TUN_totalist_DEF: "die Tunesische Kommune"
- TUN_syndicalist: "Tunesische Kommune"
- TUN_syndicalist_ADJ: "Tunesisch"
- TUN_syndicalist_DEF: "die Tunesische Kommune"
- TUN_radical_socialist: "Tunesische Kommune"
- TUN_radical_socialist_ADJ: "Tunesisch"
- TUN_radical_socialist_DEF: "die Tunesische Kommune"
-
+### TZN: Azania
  TZN: "Asania"
  TZN_ADJ: "Asanisch"
  TZN_DEF: "Asania"
@@ -374,11 +169,21 @@
  TZN_GER: "Ostafrika"
  TZN_GER_ADJ: "Ostafrikanisch"
  TZN_GER_DEF: "Ostafrika"
+ 
+ ### Characters ###
+ TZN_Muhamed_Husan: "Muhamed Husan"
 
+### UGA: Uganda
  UGA: "Uganda"
  UGA_ADJ: "Ugandisch"
  UGA_DEF: "Uganda"
+ 
+ ### Characters ###
+ UGA_Mutesa_II: "Mutesa II"
+ UGA_Ignatius_K_Musaazi: "Ignatius K. Musaazi"
+ UGA_Andrew_Cohen: "Andrew Cohen"
 
+### ZAM: Zambesia
  ZAM: "Sambesia"
  ZAM_ADJ: "Sambesisch"
  ZAM_DEF: "Sambesia"
@@ -387,138 +192,16 @@
  ZAM_bemba_ADJ: "Bembisch"
  ZAM_bemba_DEF: "Bembaland"
  
- ZAN: "Sansibar"
- ZAN_ADJ: "Sansibarisch"
- ZAN_DEF: "Sansibar"
-
-### Characters ###
- ANG_monsenhor_alves_da_cunha: "Monsenhor Alves da Cunha"
-
-### Characters ###
- BOT_seretse_khama: "Seretse Khama"
-
-### Characters ###
- BRD_Mwambutsa_IV: "Mwambutsa IV"
-
-### Characters ###
- BRT_Yeta_III: "Yeta III"
-
-### Characters ###
- CHA_ahmed_koulamallah: "Ahmed Koulamallah"
- CHA_mohamed_bechir_sow: "Mohamed Bechir Sow"
- CHA_gontchome_sahoulba: "Gontchome Sahoulba"
- CHA_pierre_olivier_lapie: "Pierre Olivier Lapie"
- CHA_tobio_dit_markinzaye: "Tobio dit Markinzaye"
- CHA_muhammad_urada_ibn_ibrahim: "Muhammad Urada ibn Ibrahim"
- CHA_mahamat_abdelkader: "Mahamat Abdelkader"
- CHA_yorgui_koli: "Yorgui Koli"
-
- CHA_georges_koudoukou: "Georges Koudoukou"
- 
-### Characters ###
- CMR_Alexander_Duala_Bell: "Alexander Duala Bell"
- CMR_Karl_Atangana: "Karl Atangana"
-
-### Characters ###
- CVG_sergio_frusoni: "Sérgio Frusoni"
- CVG_martinho_nobre_de_melo: "Martinho Nobre de Melo"
-
-### Characters ###
- GHA_kojo_botsio: "Kojo Botsio"
- GHA_kwame_nkrumah: "Kwame Nkrumah"
- GHA_kofi_abrefa_busia: "Kofi Abrefa Busia"
- GHA_joseph_kwame_kyeretwie_boakye_danquah: "Joseph Kwame Kyeretwie Boakye Danquah"
- GHA_henley_coussey: "Henley Coussey"
- GHA_edward_akufo_addo: "Edward Akufo-Addo"
- GHA_komla_agbeli_gbedemah: "Komla Agbeli Gbedemah"
- GHA_prempeh_ii: "Prempeh II"
- GHA_william_ofori_atta: "William Ofori Atta"
-
-### Characters ###
- GNA_louis_placide_blacher: "Louis-Placide Blacher"
- GNA_yacine_diallo: "Yacine Diallo"
- GNA_tierno_abdourahmani: "Tierno Abdourahmani"
- GNA_karamoko_dalen: "Karamoko Dalen"
- GNA_reymond_sarif_easmon: "Reymond Sarif Easmon"
-
-### Characters ###
- IVO_Felix_Houphouet_Boigny: "Félix Houphouët-Boigny"
-
-### Characters ###
- KBR_shehu_sanda_kyarimi: "Shehu Sanda Kyarimi"
-
-### Characters ###
- KEN_stanley_mathenge: "Stanley Mathenge"
- KEN_Thomas_Cholmondeley: "Tom Delamere"
- KEN_Philip_Euen_Mitchell: "Philip Euen Mitchell"
-
-### Characters ###
- KIV_Louis_de_Gonzague_Bobozo: "Louis de Gonzague Bobozo"
-
-### Characters ###
- MLI_modibo_keita: "Modibo Keïta"
- MLI_mamadou_konate: "Mamadou Konaté"
- MLI_mamby_sidibe: "Mamby Sidibé"
- MLI_emile_belime: "Émile Bélime"
- MLI_hamallah_bin_muhammad_al_tishiti: "Hamallah bin Muhammad al-Tishiti"
- MLI_noukoun_kone: "Noukoun Kone"
-
-### Characters ###
- MLW_James_Frederick_Sangala: "James Frederick Sangala"
- MLW_Hastings_Banda: "Hastings Banda"
- MLW_Elliott_Kenan_Kamwana_Achirwa: "Elliott Kenan Kamwana Achirwa"
- MLW_George_Simeon_Mwase: "George Simeon Mwase"
-
-### Characters ###
- MZB_jose_augusto_da_costa_almeida: "José Augusto da Costa Almeida"
-
-### Characters ###
- NGA_Benjamin_Nnamdi_Azikiwe: "Benjamin Nnamdi Azikiwe"
- NGA_Humphrey_Chukwuka: "Humphrey Chukwuka"
- NGA_Christopher_Earle_Welby_Everard: "Christopher Earle Welby-Everard"
- NGA_Obafemi_Awolowo: "Obafemi Awolowo"
- NGA_Funmilayo_Ransome_Kuti: "Funmilayo Ransome Kuti"
- NGA_Francis_Akanu_Ibiam: "Francis Akanu Ibiam"
- NGA_Hezekiah_Oladipo_Davies: "Hezekiah Oladipo Davies"
- NGA_Michael_Athokhamien_Imoudu: "Michael Athokhamien Imoudu"
- NGA_Samuel_Akisanya: "Samuel Akisanya"
- NGA_Edward_Twining: "Edward Twining"
-
-### Characters ###
- NGR_boubou_hama: "Boubou Hama"
-
-### Characters ###
- RWA_Yuhi_V: "Yuhi V"
-
-### Characters ###
- SIE_banja_tejan_sie: "Banja Tejan-Sie"
- SIE_george_giffard: "George Giffard"
- SIE_lashmer_whistler: "Lashmer Whistler"
- SIE_john_karefasmart: "John Karefa-Smart"
- SIE_amadu_wurie: "Amadu Wurie"
- SIE_mohammad_sanusi_mustapha: "Mohammad Sanusi Mustapha"
-
-### Characters ###
- SUD_abd_al_rahman_al_mahdi: "Abd al-Rahman al-Mahdi"
- SUD_ali_abd_al_latif: "Ali Abd al Latif"
- SUD_el_ferik_ibrahim_abboud: "El Ferik Ibrahim Abboud"
-
-### Characters ###
- TKE_Justin_Kokolo: "Justin Kokolo"
-
-### Characters ###
- TZN_Muhamed_Husan: "Muhamed Husan"
-
-### Characters ###
- UGA_Mutesa_II: "Mutesa II"
- UGA_Ignatius_K_Musaazi: "Ignatius K. Musaazi"
- UGA_Andrew_Cohen: "Andrew Cohen"
-
-### Characters ###
+ ### Characters ###
  ZAM_Kanyanta: "Makumba Kanyanta"
  ZAM_Ronald_Storrs: "Ronald Storrs"
 
-### Characters ###
+### ZAN: Zanzibar
+ ZAN: "Sansibar"
+ ZAN_ADJ: "Sansibarisch"
+ ZAN_DEF: "Sansibar"
+ 
+ ### Characters ###
  ZAN_Khalifa_II_bin_Harub_Al_Said: "Khalifa II bin Harub Al-Said"
 
 ### Focus Tree ###

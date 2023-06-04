@@ -265,20 +265,7 @@
  GBR_parliamentary_reform_desc: "Unser derzeitiges Wahlsystem führt zu Parlamenten, die nicht repräsentativ für den Willen des Volkes sind. Eine Partei mit einer Minderheit von Stimmen kann eine Mehrheit im Unterhaus erlangen. Wir müssen daher das Wahlsystem so reformieren, dass die Wähler eine Liste von Vorzugskandidaten vorschlagen können, und sicherstellen, dass die Wahlen nicht die Reichen begünstigen, indem sie dem Staat die zusätzlichen Kosten des Wahlkampfes aufbürden."
  GBR_female_equality: "Die Gleichstellung der Frau in Britannien durchsetzen"
  GBR_female_equality_desc: "Die Familie ist die Grundlage unseres nationalen Lebens. Die Liberalen waren die ersten, die Familienbeihilfen forderten, und sie sind entschlossen, eine angemessene Versorgung für Mutterschaft und Kinderwohl sicherzustellen. Die Liberale Partei fordert für Frauen Chancen- und Statusgleichheit; sie steht für gleichen Lohn für gleiche Arbeit und für gleiche Chancen beim Zugang zum öffentlichen Dienst."
- GBR_shipbuilding_program: "Modernisierungsprogramm für die Marine"
- GBR_canadian_shipbuilding_program_1: "1. kanadisches Sanierungsprogramm"
- GBR_canadian_shipbuilding_program_1_desc: "Wir haben mit der kanadischen Regierung vereinbart, eine Reihe von Zerstörern der älteren Klasse zu überholen, die im Hafen von Halifax umgerüstet werden sollen."
- GBR_canadian_shipbuilding_program_2: "2. kanadisches Sanierungsprogramm"
- GBR_canadian_shipbuilding_program_2_desc: "Wir haben mit der kanadischen Regierung vereinbart, eine Reihe von leichten und schweren Kreuzern zu überholen, die im Hafen von Halifax wiederaufgebaut werden."
- GBR_australian_shipbuilding_program_1: "1. Australasiatisches Sanierungsprogramm"
- GBR_australian_shipbuilding_program_1_desc: "Wir haben mit der australischen Regierung vereinbart, eine Reihe älterer U-Boote zu überholen, die im Hafen von Sydney umgebaut werden sollen."
- GBR_australian_shipbuilding_program_2: "2. Australasiatisches Sanierungsprogramm"
- GBR_australian_shipbuilding_program_2_desc: "Wir haben mit der australischen Regierung vereinbart, eine Reihe von schweren Kreuzern zu überholen, die im Hafen von Sydney wiederaufgebaut werden sollen."
- GBR_combined_shipbuilding_program_1: "Endgültiges Sanierungsprogramm"
- GBR_combined_shipbuilding_program_1_desc: "Es hat einige Anstrengungen gekostet, aber die kanadische und die australische Regierung haben sich auf eine Zusammenarbeit geeinigt, um einen alten Flugzeugträger und mehrere Schlachtschiffe zu renovieren und wieder einsatzfähig zu machen."
- GBR_deploy_new_ships: "Einsatz der überholten Schiffe"
- GBR_deploy_new_ships_desc: "Unsere Schiffe sind bereit, im Londoner Hafen eingesetzt zu werden."
-
+ 
 ### Focuses ###
  GBR_british_reconstruction_authority: "Die Behörde für Wiederaufbau"
  GBR_british_reconstruction_authority_desc: "Die Wirtschaft ist auf den Kopf gestellt worden. Viele sind obdachlos. Das ganze Land ist durch den Krieg verwüstet worden, und jetzt brauchen wir schnelle Entscheidungen, um alles wieder aufzubauen. Die Britische Wiederaufbaubehörde wird mit genau dieser Aufgabe betraut werden."
@@ -570,15 +557,35 @@
  uk.55.b: "Birmingham Small Arms Company"
  uk.55.c: "Morris Motors"
  uk.55.e: "Sterling Armaments Company"
+ 
+ uk.56.t: "[FROM.GetNameDefCap] Fordert die Rückgabe britischer Schiffe"
+ uk.56.d: ""
+ uk.56.a: "Ja, es ist soweit."
+ uk.56.b: "Wir würden sie lieber behalten."
 
- uk.56.t: "Nationaler Schiffbauvertrag"
- uk.56.d: "Der Wiederaufbau der britischen Marine in ihrem früheren glorreichen Zustand wird ein gewaltiges Unterfangen sein, und es gibt eine Reihe britischer Schiffbauunternehmen, die sich um einen Platz als unser wichtigster Auftragnehmer bewerben. Der erste nationale Auftrag sollte vergeben werden an..."
- uk.56.a: "Cammell Laird"
- uk.56.b: "John Brown Company"
- uk.56.c: "Swan Hunter"
+ uk.57.t: "[FROM.GetNameDefCap] gibt britische Schiffe zurück"
+ uk.57.d: ""
+ uk.57.a: "Exzellent."
+
+ uk.58.t: "[FROM.GetNameDefCap] Weigert sich, britische Schiffe zurückzugeben"
+ uk.58.d: ""
+ uk.58.a: "Verdammter Mist."
+
+ uk.59.t: "[FROM.GetNameDefCap] Fordert die formale Kontrolle über die [ROOT.GetFactionName]"
+ uk.59.d: ""
+ uk.59.a: "Sicherlich."
+ uk.59.b: "Ihre Zeit an der Spitze ist vorbei."
+
+ uk.60.accepted.t: "[FROM.GetNameDefCap] Überträgt die Kontrolle über den [ROOT.GetFactionName]"
+ uk.60.accepted.d: ""
+ uk.60.accepted.a: "Exzellent."
+
+ uk.60.refused.t: "[FROM.GetNameDefCap] Behält die Kontrolle über den [ROOT.GetFactionName]"
+ uk.60.refused.d: ""
+ uk.60.refused.a: "Verdammter Mist."
 
  uk.61.t: "[From.GetNameDefCap] übernimmt die Führung der Entente"
- uk.61.d: "Nach der Wiederherstellung seiner Regierung und seines Militärs hat [From.GetNameDef] seinen Platz an der Spitze der Entente wieder eingenommen. Britische Beamte trafen sich mit der militärischen Führung von [old_leader.GetAdjective], um die Übergabe zu erleichtern, und in London wurde eine aufwendige Zeremonie abgehalten, bei der [CAN_king_full_name] dem [old_leader.GetNameDef] für seine Dienste und die Opfer dankte, die es gebracht hat, um das Vereinte Königreich wieder dorthin zu bringen, wo es jetzt steht."
+ uk.61.d: "Nach der Wiederherstellung seiner Regierung und seines Militärs hat [From.GetNameDef] seinen Platz an der Spitze der Entente wieder eingenommen. Britische Beamte trafen sich mit der militärischen Führung von [From.From.GetAdjective], um die Übergabe zu erleichtern, und in London wurde eine aufwendige Zeremonie abgehalten, bei der [CAN_king_full_name] dem [From.From.GetNameDef] für seine Dienste und die Opfer dankte, die es gebracht hat, um das Vereinte Königreich wieder dorthin zu bringen, wo es jetzt steht."
  uk.61.a: "Wir begrüßen die Rückkehr der Briten"
 
  uk.62.t: "The Fünf-Augen-Programm"

@@ -1503,8 +1503,14 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
  BUL_opportunism_desc: "Wenn wir unsere verlorenen Gebiete zurückerobern wollen, müssen wir unsere Nachbarn ständig wie ein Falke ausspähen. Wir müssen in einem Moment der Schwäche zuschlagen, wenn sie diplomatisch isoliert und auf einen Angriff von hinten nicht vorbereitet sind. Wenn wir uns an eine Fraktion binden, wird uns das nur von solchen Gelegenheiten abhalten."
  BUL_opportunism_tt: "Schaltet Entscheidung frei: £decision_icon_small §HUmkämpfte Gebiete angreifen§!"
 
- BUL_anti_belgrade_pact: "Der Anti-Belgrad Pakt"
- BUL_anti_belgrade_pact_desc: "Nachdem sie unsere Armee im Feld besiegt haben, hat der Belgrader Pakt sein Augenmerk nach Norden gerichtet. Törichterweise hoffen sie, es mit dem österreichischen Kaiserreich aufnehmen zu können - und da wir sicher mit einem Sieg Wiens rechnen, können wir dies vielleicht ausnutzen und ein Bündnis gegen Serbien und Rumänien eingehen. Schließlich muss der Belgrader Pakt eingedämmt werden."
+ BUL_anti_belgrade_pact: "[BUL_anti_belgrade_pact_title]"
+ BUL_anti_belgrade_pact_desc: "[BUL_anti_belgrade_pact_desc]"
+
+ BUL_anti_belgrade_pact_default: "Der Anti-Belgrad Pakt"
+ BUL_anti_belgrade_pact_default_desc: "Nachdem sie unsere Armee im Feld besiegt haben, hat der Belgrader Pakt sein Augenmerk nach Norden gerichtet. Törichterweise hoffen sie, es mit dem österreichischen Kaiserreich aufnehmen zu können - und da wir sicher mit einem Sieg Wiens rechnen, können wir dies vielleicht ausnutzen und ein Bündnis gegen Serbien und Rumänien eingehen. Schließlich muss der Belgrader Pakt eingedämmt werden."
+
+ BUL_anti_belgrade_pact_alternate: "Eine Allianz mit dem Adler"
+ BUL_anti_belgrade_pact_alternate_desc: "Die Dominanz der Deutschen und Österreicher auf dem Balkan zwingt uns, unsere frühere Distanz zum Block zu überdenken. Vielleicht können wir, nachdem wir vor einigen Jahren im Krieg gedemütigt wurden, unsere alten Bindungen wiederherstellen, wenn dies bedeutet, dass wir nicht völlig am Rande der Geschichte stehen."
 
  BUL_restore_lost_cores: "Wiederherstellung der bulgarischen Verwaltung"
  BUL_restore_lost_cores_desc: "Nachdem wir unsere verlorenen Gebiete zurückgewonnen haben, können wir endlich die früheren Verwalter und Behörden wieder einsetzen, die durch den Pakt vertrieben wurden. Bald werden wir sie wieder in unseren Staat integrieren und uns vom Vierten Balkankrieg erholen."

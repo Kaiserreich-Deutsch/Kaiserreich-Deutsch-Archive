@@ -8,28 +8,28 @@
 
  ### Parties ###
  FIN_totalist_party: "Punakaarti"
- FIN_totalist_party_long: "Punakaarti"
+ FIN_totalist_party_long: "Punakaarti (Rote Garde)"
  FIN_syndicalist_party: "Suomen Kansanvaltuuskunta"
- FIN_syndicalist_party_long: "Suomen Kansanvaltuuskunta"
+ FIN_syndicalist_party_long: "Suomen Kansanvaltuuskunta (Finnische Volksdelegation)"
  FIN_radical_socialist_party: "SSTP"
- FIN_radical_socialist_party_long: "Suomen Sosialistinen Työväenpuolue"
+ FIN_radical_socialist_party_long: "Suomen Sosialistinen Työväenpuolue (Sozialistische Arbeiterpartei Finnlands)"
  FIN_social_democrat_party: "SDP"
- FIN_social_democrat_party_long: "Suomen Sosialidemokraattinen Puolue"
+ FIN_social_democrat_party_long: "Suomen Sosialidemokraattinen Puolue (Sozialdemokratische Partei Finnlands)"
  FIN_social_liberal_party: "ML"
- FIN_social_liberal_party_long: "Maalaisliitto"
+ FIN_social_liberal_party_long: "Maalaisliitto (Bauernbund)"
  FIN_market_liberal_party: "Kansallinen Edistyspuolue"
- FIN_market_liberal_party_long: "Kansallinen Edistyspuolue"
+ FIN_market_liberal_party_long: "Kansallinen Edistyspuolue (Nationale Fortschrittspartei)"
  FIN_social_conservative_party: "Kok."
- FIN_social_conservative_party_long: "Kansallinen Kokoomus"
+ FIN_social_conservative_party_long: "Kansallinen Kokoomus (Partei der Nationalen Koalition)"
  FIN_authoritarian_democrat_party: "Mannerheimin Klikki"
- FIN_authoritarian_democrat_party_long: "Mannerheimin Klikki"
+ FIN_authoritarian_democrat_party_long: "Mannerheimin Klikki (Mannerheim Clique)"
  FIN_paternal_autocrat_party: "Kok."
- FIN_paternal_autocrat_party_long: "Kansallinen Kokoomus"
+ FIN_paternal_autocrat_party_long: "Kansallinen Kokoomus (Partei der Nationalen Koalition)"
  FIN_national_populist_party: "Lapuan Liike"
- FIN_national_populist_party_long: "Lapuan Liike"
+ FIN_national_populist_party_long: "Lapuan Liike (Lapua-Bewegung)"
 
  FIN_party_patriotic_peoples_movement: "IKL"
- FIN_party_patriotic_peoples_movement_long: "Isänmaallinen Kansanliike"
+ FIN_party_patriotic_peoples_movement_long: "Isänmaallinen Kansanliike (Patriotische Volksbewegung)"
 
 ### Focuses ###
  FIN_democracy_triumphant: "Demokratie triumphiert"
@@ -335,11 +335,14 @@
  FIN_proclaim_greater_finland: "Proklamieren Sie Groß-Finnland"
  FIN_proclaim_greater_finland_desc: "Mit dem gesamten Gebiet, das wir einst offiziell für uns beanspruchten, können wir die Idee von Großfinnland endlich in die Tat umsetzen."
 
-### Events ###
+### Intro Screen ###
+
  finland.1.t: "Das Königreich Finnland"
  finland.1.d: "Nach der [Root.GetAdjective]en Unabhängigkeitserklärung seitens Pehr Svinhufvud am vierten Dezember 1917 und der folgenden Unabhängigkeitserklärung von [RUS.GetNameDef] seitens Finnland am sechsten Dezember, sah sich die [Root.GetAdjective]e Gesellschaft zwischen zwei Gruppierungen gespalten: Der Roten Garde, angeführt von Ali Aaltonen, und der Weißen Garde unter Karl Gustaf Emil Mannerheim. \n\nBald schon brach ein Bürgerkrieg aus zwischen dem Roten Finnland, welches hauptsächlich aus Mitgliedern der Sozialdemokratischen Partei Finnlands bestand, und dem Weißen Finnland, bestehend aus Streitkräften des Svinhufvud-Senats und deutschen Jäger-Truppen. \n\nNach drei Monaten grausamen Kriegs schafften es die Weißen, mit deutscher Unterstützung, die Roten und die Volksdelegation aus Helsinki zu vertreiben und schließlich die sich zurückziehenden Streitkräfte zu umzingeln, die sich daraufhin zur Kapitulation gezwungen sahen. \n\nAus der Asche des [Root.GetAdjective]en Bürgerkriegs entstieg [Root.GetNameDef], eine fanatisch anti-sozialistische Nation, angeführt von Prinz Friedrich Karl von Hessen, nach seiner Krönung König Fredrik Kaarle I. \n\nTrotz des Friedens und des Schutzes als inoffizielles [GER.GetAdjective]es Protektorat, entwickelte sich im [Root.GetAdjective]en Volk eine Art Feindseligkeit wegen der Ausbreitung Deutschlands und [GER.GetAdjective]-angehöriger Offiziere und Firmen in [Root.GetNameDef]. Außerdem festigen rechts- und linksradikale langsam aber sicher ihre Macht, nachdem sie jahrelang vom König und der Nationalen Koalition vernachlässigt wurden…"
  finland.1.a: "Vaikeuksien kautta voittoon(Über Schwierigkeiten zum Sieg)."
  
+### Events ###
+
  finland.2.t: "Schwarzer Montag trifft Finnland!"
  finland.2.d: "Es scheint, als ob [Root.GetNameDef] die wirtschaftliche Notlage von [GER.GetNameDef] und den anderen Mitgliedern von Mitteleuropa nicht umgehen konnte. Mit dem Einbruch der Berliner Börse am 3. Februar geriet die Wirtschaft von [GER.GetNameDef] in den freien Fall und brachte einen erheblichen Teil der Welt mit sich. \n\nDieser wirtschaftliche Abschwung trifft [Root .GetNameDef] zu einem sehr unglücklichen Zeitpunkt der Probleme im In- und Ausland. Für viele ist es kein Geheimnis, dass Finnland, obwohl es eine landwirtschaftliche Nation ist, nicht viel Ackerland besitzt und daher Schwierigkeiten hat, seine Bevölkerung selbst zu ernähren. Dies hat [Root.GetNameDef] in eine Position gebracht, in der es gezwungen ist, [UKR.GetAdjective]es Getreide zu kaufen, um seine Bevölkerung ausreichend zu ernähren und weiteren Dissens zu vermeiden. \n\nDazu kommt allerdings die Unzufriedenheit der [Root.GetAdjective]en Bevölkerung, die sich langsam radikalisiert und sich ein Ende des [GER.GetAdjective]en Einflusses wünscht. Der Schwarze Montag hat radikalen Bewegungen wie der Lapua-Bewegung und der [Root.GetAdjective]en Volksdelegation nur weitere Legitimität verliehen. In vielen Bereichen sind bereits Demonstrationen aufgetaucht. Es scheint, als ob d. [Root.GetNameDef] an einem dünnen Faden hängt …"
  finland.2.a: "Jumalauta(Verdammt)!"
@@ -628,7 +631,7 @@
  finland.82.d: "Da wir nach unserem ziemlich abrupten Rückzug vom Mitteleuropa-Markt nicht mehr die Gunst der [GER.GetAdjective]en haben, ist es klar, dass wir eine andere Nation finden müssen, um unseren Getreidebedarf zu decken, um den Hunger unserer Bevölkerung zu vermeiden. Da [RUS.GetNameDef] unser Nachbar ist und eine Fülle von Getreide besitzt, ist es nur natürlich, dass wir uns an sie wenden, um das Getreide zu beschaffen, das wir uns so wünschen."
  finland.82.a: "Wir werden auf das Beste hoffen."
  
- finland.83.t: "[FIN.GetName] hat Getreide angefordert"
+ finland.83.t: "[FIN.GetNameDefCap] hat Getreide angefordert"
  finland.83.d: "Die [FIN.GetAdjective]-Regierung hat sich an uns gewandt, um Getreidelieferungen zu beschaffen, da ihr alter Getreidelieferant, [UKR.GetNameDef], für die junge Nation nicht länger eine brauchbare Option ist. Es stimmt zwar, dass wir Getreide im Überfluss besitzen, aber die Frage, ob wir den Finnen überhaupt helfen wollen, müssen wir uns trotzdem stellen."
  finland.83.a: "Wir werden das Getreide verkaufen - was kann da schon schiefgehen?"
  finland.83.b: "Die Kosten überwiegen die Vorteile – wir werden ablehnen."

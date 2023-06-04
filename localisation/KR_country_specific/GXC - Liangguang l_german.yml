@@ -1,7 +1,5 @@
 ﻿l_german:
-
 ##Übersetzt von Thylon##
-
 KR_Liangguang_Federalist: "Schwerpunktbaum von Föderalistisches Liangguang"
 KR_federalist_china: "Schwerpunktbaum von Föderalistisches China"
 KR_Guangxi_Clique: "Schwerpunktbaum von Guangxi Clique"
@@ -17,7 +15,8 @@ KR_RKMT: "Schwerpunktbaum von Rechte Kuomintang"
 GXC_merge_eco_spirit_dummy: "die fusionierte Nationalgeist"
 GXC_guangxi_merge_ideas: "Dieser Schwerpunkt wird §Halle Guangxi-bezogenen Nationalgeister§! zu einem einzigen Nationalgeist verschmelzen, der auf unseren Reformen beruht!"
 GXC_guangdong_merge_ideas: "Vereint §Halle Guangdong-bezogenen Nationalgeister§!"
-GXC_military_effect_tooltip: "Ersetze §H$GXC_officer_vanguards_idea$§! oder §H$GXC_professional_officers$§! mit §H$GXC_liangguang_NRA$§!\nEffektive Veränderung:\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+5.0%§!\n$MODIFIER_ARMY_ORG_FACTOR$: §G+5.0%§!\n"
+ GXC_if_seventh_army_chosen: "Wenn §H$GXC_seventh_army$§! gewählt wurde:"
+ GXC_if_fourth_army_chosen: "Wenn §H$GXC_fourth_army$§! gewählt wurde:"
 guangxi_rebels_tt: "Die Guangxi Clique rebelliert gegen unsere Herrschaft!\n"
 guangdong_loyalists_tt: "Loyalisten in Guangdong werden gegen uns einen Aufstand anzetteln!\n"
 civilian_guangxi: "Wir haben die zivile Autorität in Guangxi wiederhergestellt"
@@ -75,7 +74,7 @@ GXC_rkmt_navy_prep_tt: "§LWir werden damit beginnen, unsere Küsten und die Kü
 
 GXC_national_monopoly_tt: "§LWenn wir den Wirtschaftsberater §YSong Ziwen (TV Song)§! einstellen, erhalten wir zusätzliche Verbesserungen für diesen Schwerpunkt!§!"
 
-GXC_hh_kung_helpful_tt: "§LWenn wir den Wirtschaftsberater §YHH Kung§! einstellen, erhalten wir zusätzliche Verstärkungen für diesen Schwerpunkt!§!"
+  GXC_kong_xiangxi_political_advisor_helpful_tt: "§LWenn wir den Wirtschaftsberater §YKong Xiangxi§! beauftragen, erhalten wir zusätzliche Verstärkungen für diesen Schwerpunkt!§!"
 
 GXC_warlord_integration_tt: "§LWir werden in der Lage sein, Generäle aus den ehemaligen Warlord-Cliquen zu rekrutieren, sollten diese gründlich besiegt werden!§!"
 
@@ -1435,15 +1434,12 @@ lngkmt.22.t: "Gedenken an die Märtyrer"
 lngkmt.22.d: "Guangdong ... die Wiege der Revolution. Seit dem Zusammenbruch der Ming-Dynastie ist der Dissens gegenüber den Mandschu-Herrschern des Nordens in der südlichsten Provinz Chinas weit verbreitet. Guangdong ist in der Tat der Geburtsort der nationalen Revolution. Die Märtyrer der Revolution wurden in Guangdong geboren, wie die 72 Märtyrer, die im Zweiten Guangzhou-Aufstand ihr Leben ließen, um die Qing loszuwerden. Wie ein Selbstmordkommando schrieben sie Briefe an ihre Lieben, bevor sie ihre schicksalhaften Aktivitäten ausführten. Tatsächlich wurde der Geist des Martyriums in Form der Wagemutigen Divisionen weitergeführt. Patrioten, die bereit waren, ihr Leben für ein freieres China in der folgenden Revolution von 1911 und der Nordexpedition zu geben. Mit der Rückkehr der Qing wurden die Opfer der Märtyrer tatsächlich in Frage gestellt. Waren ihre Opfer umsonst?\n\n Nicht mehr. Mit der Rückkehr einer republikanischen Regierung in Guangzhou hat sich dies jedoch geändert. Wie der mythische Phönix ist die Bewegung zu einem freien China wiedergeboren! Wir haben uns neu gruppiert und sind gestärkter, um unsere gefallenen Brüder zu rächen und uns von der Verschmutzung der Qing-Dynastie zu befreien. Wir werden unsere Brüder rächen und eine neue Expedition in den Norden unternehmen. Die Märtyrer werden in Statuen und Prosa aus ganz China verherrlicht und erinnert. Wenn unsere Position gesichert ist, werden wir planen, üben und bereit sein, die Qing-Despoten ein für alle Mal abzusetzen."
 lngkmt.22.a: "Fan Qīng fù Míng!"
 
-lngkmt.23.t: "Das Schicksal der Dritten NRA"
-lngkmt.23.d: "Nach der gescheiterten Nordexpedition kehrten die verbliebenen Mitglieder der 3. NRA nach Yunnan zurück, um innerhalb der Verwaltung von Tang Jiyao eine neue Karriere aufzubauen, und da die Provinz nun unter unserer Kontrolle ist, haben wir die Möglichkeit, die verlorenen Mitglieder der KMT wieder in die NRA zu integrieren. Die Generäle Zhu Peide, He Yingqin und Kim Hong-il sind loyale Mitglieder der KMT und werden die Möglichkeit erhalten, ihre Talente in der NRA zu nutzen. Die Generäle Fan Shisheng, Jin Handing und Luo Binghui sind ebenfalls Kandidaten für die Aufnahme in die NRA, ihre Loyalität zur KMT ist jedoch ungewiss."
+ lngkmt.23.t.annexed: "Das Schicksal der Dritten NRA"
+ lngkmt.23.t.long_yun: "Die NRA flieht aus Yunnan"
+ lngkmt.23.d.annexed: "Nach der gescheiterten Nordexpedition kehrten die verbliebenen Mitglieder der 3. NRA nach Yunnan zurück, um innerhalb der Verwaltung von Tang Jiyao eine neue Karriere aufzubauen, und da die Provinz nun unter unserer Kontrolle ist, haben wir die Möglichkeit, die verlorenen Mitglieder der KMT wieder in die NRA zu integrieren. Die Generäle Zhu Peide, He Yingqin und Kim Hong-il sind loyale Mitglieder der KMT und werden die Möglichkeit erhalten, ihre Talente in der NRA zu nutzen. Die Generäle Fan Shisheng, Jin Handing und Luo Binghui sind ebenfalls Kandidaten für die Aufnahme in die NRA, ihre Loyalität zur KMT ist jedoch ungewiss."
+ lngkmt.23.d.long_yun: "Nach der gescheiterten Nordexpedition kehrten die verbliebenen Mitglieder der 3. NRA nach Yunnan zurück, um innerhalb der Verwaltung von Tang Jiyao eine neue Karriere aufzubauen. Nachdem General Long Yun Yunnan nach dem blutigen Bürgerkrieg gesichert hatte, beschlossen die Generäle der Kuomintang, aus Angst um ihr Leben aus der Provinz zu fliehen. Die Generäle Zhu Peide, He Yingqin und Kim Hong-il sind loyale Mitglieder der KMT und werden die Möglichkeit erhalten, ihre Talente in der NRB einzusetzen. Die Generäle Fan Shisheng, Jin Handing und Luo Binghui sind ebenfalls Kandidaten für die Eingliederung in die NRB, ihre Loyalität zur KMT ist jedoch ungewiss."
 lngkmt.23.a: "Nur den zuverlässigen Generälen kann man trauen."
 lngkmt.23.b: "Sie werden sich an uns für ihre Misserfolge rächen."
-
-lngkmt.24.t: "Die NRA flieht aus Yunnan"
-lngkmt.24.d: "Nach der gescheiterten Nordexpedition kehrten die verbliebenen Mitglieder der 3. NRA nach Yunnan zurück, um innerhalb der Verwaltung von Tang Jiyao eine neue Karriere aufzubauen, und da die Provinz nun unter unserer Kontrolle ist, haben wir die Möglichkeit, die verlorenen Mitglieder der KMT wieder in die NRA zu integrieren. Nachdem General Long Yun Yunnan nach dem blutigen Bürgerkrieg gesichert hatte, beschlossen die Generäle der Kuomintang, aus Angst um ihr Leben aus der Provinz zu fliehen. Die Generäle Zhu Peide, He Yingqin und Kim Hong-il sind loyale Mitglieder der KMT und erhalten die Möglichkeit, ihre Talente in der NRB einzusetzen. Die Generäle Fan Shisheng, Jin Handing und Luo Binghui sind ebenfalls Kandidaten für die Eingliederung in die NRB, ihre Loyalität zur KMT ist jedoch ungewiss."
-lngkmt.24.a: "Nur den zuverlässigen Generälen kann man trauen."
-lngkmt.24.b: "Sie werden ihr Versagen an uns rächen."
 
 lngkmt.30.t: "Zhang Fakui und Xue Yue kommen in Guangzhou an"
 lngkmt.30.d: "Heute Morgen trafen die ehemaligen Generäle der Nationalen Revolutionsarmee, Zhang Fakui und Xue Yue, mit ihrer bescheidenen Bitte um Aufnahme in Liangguangs NRA in Guangzhou ein. Nachdem sie die letzten Jahre nach dem Scheitern der Nordexpedition im Exil verbracht hatten, flohen die beiden Männer nach Indien, wo sie als Berater und Mentoren für eine chinesisch-indische Militärmission in Übersee tätig waren. Nach ihrer Rückkehr nach China im Anschluss an den Liga-Krieg verpflichteten sie sich, dem von der Linken dominierten Zentralkomitee ihre Dienste anzubieten. Es hat jedoch den Anschein, dass sie sich für die falsche Seite entschieden haben. Der linke Flügel der Partei, der wie immer durch ständige Fraktionskämpfe zerrüttet ist, hat sich nach der jüngsten Niederlage im Bruderkrieg erneut ins Exil geflüchtet. Beide Männer teilen nicht die linke Gesinnung von Zhang, da sie einst die Vierte Armee der Kuomintang an der Seite von Generälen wie Chen Jitang und Li Jishen geführt haben. Vertrauen wir unseren ehemaligen Kameraden, oder sollten wir sie erneut ins Exil schicken?"
@@ -1807,7 +1803,7 @@ GXC_zhang_gongquan: "Zhang Gongquan"
 GXC_chen_lianzhong: "Chen Lianzhong"
 GXC_tan_yankai: "Tan Yankai"
 
-GXC_hh_kung: "HH Kung"
+ GXC_kong_xiangxi: "Kong Xiangxi" ##HH Kung
 
 GXC_ma_ji: "Ma Ji"
 GXC_ma_ji_leader_desc: "§YBerater Beschreibung\nGeboren:§! §g1888, in Baise, Guangxi, Qing-Reich§!\n§YPolitische Karriere:§! Ma Ji ist das Oberhaupt der Guangxi-Clique nach dem Tod von Lu Rongting. Als jüngerer Adoptivsohn von Lu wurden seine Ansichten und Einstellungen stark von seinem Adoptivvater beeinflusst. Als Lu Rongting während der Xinhai-Revolution Gouverneur von Guangxi wurde, war Ma sein Stellvertreter, und die beiden waren an der Nationalen Schutzbewegung beteiligt, die das Regime von Yuan Shikai stürzte. Nach einem kurzen Krieg mit Yunnan wurde die Guangxi-Clique von Lu durch die mit der KMT verbündete Neue Guangxi-Clique aus der Provinz vertrieben. Während Lu sich nach Hongkong zurückzog und sich mit Chen Jiongming verbündete, ging Ma Ji, der sich zu dieser Zeit in Hunan aufhielt, nach Norden und schloss sich der Zhili-Clique von Wu Peifu an. Zum Zeitpunkt der gescheiterten Nordexpedition der KMT führte er die Fünfzehnte Armee gegen die KMT an. Er errang einen Sieg gegen die sich zurückziehende Siebte Armee der Nationalisten, die sich ebenfalls aus Soldaten aus Guangxi zusammensetzte. Später überzeugte er sie davon, sich zurückzuziehen, indem er erklärte: "Das Volk von Guangxi kämpft nicht gegen das Volk von Guangxi". Nach der Nordexpedition schloss sich Ma Ji nach seiner Wiedereinsetzung in die Provinzregierung von Guangxi wieder Lu Rongting an. Von dort aus leitete er den Modernisierungsplan der Provinzarmee, was ihm viel Einfluss und Erfahrung bei der Verwaltung der Angelegenheiten der Clique verschaffte. Er bleibt der Provinz und ihrer Bevölkerung treu und setzt sich für den Regionalismus und das pluralistische Erbe von Lu Rongting ein."

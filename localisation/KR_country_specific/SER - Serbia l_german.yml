@@ -788,6 +788,7 @@ SER_The_Road_To_Unification_decisions: "Der Weg zur Einheit"
  SER_Attack_Austria: "Angriff [AUS.GetNameDef]"
  SER_has_stabilized_macedonia_tt: "Unsere Kontrolle über Mazedonien wurde konsolidiert"
  SER_Form_Yugoslavia: "Jugoslawien bilden"
+ SER_Dusan_Proclamation: "Die Dušan Proklamation"
 
 SER_Balkan_Research_Initiative_decisions: "Balkan-Forschungsinitiative"
 SER_Invite_Country: "Einladung [From.GetNameDef]"
@@ -2005,6 +2006,7 @@ serbia.41.d: "Es scheint, dass unsere Versuche, der [From.GetFactionName] beizut
  serbia.51.d: "Mit dem Ziel, unsere nicht vorhandene Luftflotte von Grund auf neu aufzubauen, wenden wir uns wieder einmal an unsere ausländischen Vertragspartner. Die russische Luftwaffe, die in Massenproduktion hergestellt wird, verfügt über genügend alte Kampfflugzeuge, um damit eine völlig neue Luftwaffe aufzubauen, während unsere Kameraden im Westen in dieser Hinsicht weniger gut ausgestattet sind. Andererseits ist die französische Luftwaffe bereit, mit serbischen Herstellern bei der Produktion lokaler, französisch geprägter Kampfflugzeuge zusammenzuarbeiten."
  serbia.51.a: "Die Russen anzapfen."
  serbia.51.b: "Die Franzosen anzapfen."
+ serbia.51.c: "Fokus auf lokale Modelle."
 
  serbia.52.t: "Beschaffung von Kampfflugzeugen"
  serbia.52.d: "Eine Flotte von Kampfflugzeugen nützt wenig, wenn wir unsere Luftwaffe nicht zur Unterstützung der Truppen am Boden einsetzen können - zum Glück haben wir mehrere Möglichkeiten zur Auswahl. Aufgrund der enormen Größe Russlands ist die russische Luftflotte auf taktische Bomber spezialisiert, die große Entfernungen zurücklegen, feindliche Formationen in Hunderten von Kilometern Entfernung angreifen und sicher zurückkehren können. Die Franzosen hingegen verlassen sich auf kleinere, schnellere Jagdbomber, die für den Angriff auf die deutschen Streitkräfte über der Grenze entwickelt wurden und die im Nahkampf überlegen sind und die feindlichen Truppen viel genauer treffen können."
@@ -2696,7 +2698,6 @@ SER_republic_syndicalist_DEF: "die Serbische Sozialistische Republik"
  SER_milan_grol: "Milan Grol"
  SER_milan_grol_leader_desc: "Der 1876 geborene Milan Grol erhielt eine multidisziplinäre Ausbildung in den Bereichen Philosophie, Literatur, Theater und Kunst. Nach einem Aufenthalt in Paris kehrte er 1902 nach Serbien zurück, wo er als Lehrer und Schriftsteller tätig war und in der Presse häufig König Alexander I. und die Obrenovic-Dynastie anprangerte. Zu dieser Zeit begann er, sich der Linken anzuschließen und trat der Unabhängigen Radikalen Partei bei. Seine Theaterkarriere endete mit dem Ausbruch des Weltkriegs. Während des Konflikts zog er nach Genf und widmete sein Leben wieder seinen politischen Schriften und seinem Aktivismus.\n\nAm Ende des Krieges war Serbien besetzt und gedemütigt. Grol kehrte in sein Heimatland zurück, wo er ein verwüstetes Land vorfand, und half bald bei der Gründung der Serbischen Republikanischen Partei. Nach dem Sieg bei den Wahlen von 1931 übernahm Grol das Amt des Premierministers unter Dragisa Vasic. Infolgedessen wurde er als natürlicher Nachfolger von Vasic angesehen und gewann auch das Präsidentenamt. Mit dem Erbe von Ljubomir Stojanovic auf den Schultern sind Milan Grol und seine Partei nun in der Lage, die Reformen zu verwirklichen, von denen sie im ganzen Land geträumt haben."
 
- SER_srdan_budisavljevic: "Srđan Budisavljević"
  SER_albert_kramer: "Albert Kramer"
  SER_dimitrije_ljotic: "Dimitrije Ljotić"
  SER_mirko_korolija: "Mirko Korolija"

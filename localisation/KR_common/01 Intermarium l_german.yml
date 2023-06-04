@@ -9,6 +9,50 @@
  MIE_decisions: "Osteuropäische Verteidigungskooperation"
  MIE_decisions_desc: "[219.owner.GetNameDefCap] wurde wieder aufgebaut - und die Souveränität der osteuropäischen Staaten ist bedroht. Wenn der Zweite Weltkrieg beginnt, werden wir uns gegen den russischen Ansturm behaupten müssen-und wenn wir nicht zusammenarbeiten, werden wir einer nach dem anderen untergehen.\n\n Nachdem [RUS.GetNameDef] seinen Außenpolitik-Fokusbaum freischaltet,erhalten alle östlichen Mitglieder des Reichspakts die Fähigkeit, §YRessourcen zusammenzulegen§! und sie unter den Mitgliedsstaaten zu verteilen, um Schwachstellen auszumerzen. Die Nation, die für die Verteilung der Ressourcen verantwortlich ist, kann in andere Mitgliedsstaaten investieren, um §YBefestigungen zu bauen§!, §YDivisionen auszuheben§! und vorteilhafte §YNationalgeister§! zu verteilen.\n\nDerzeit gesammelte Ressourcen:\n    £rifle_texticon  Infanterieausrüstung: §Y[?global.MIE_infantry_equipment]§!\n    £support_texticon  Zusatzausrüstung: §Y[?global.MIE_support_equipment]§!\n    £unit_artillery_icon_small  Artillerie: §Y[?global.MIE_artillery_equipment]§!\n\n[MIE_leader.GetNameWithFlag] ist derzeit dafür verantwortlich, die Ressourcen zu verteilen."
 
+ MIE_decisions_GER: "Ostpolitik"
+ MIE_decisions_GER_desc: "Der Osten unseres Reiches erstreckt sich von der Ostsee bis zum Schwarzen Meer. Die Oststaaten, unsere de facto Satellitenstaaten, werden zur einen Hälfte durch unsere militärische Stärke und zur anderen durch ihre Angst vor den Russen im Zaum gehalten. Wir sollten ihre politische Entwicklungen stets im Auge behalten und, falls nötig, entsprechend reagieren.\n\n[POL_in_RP]"
+
+ POL_in_RP_yes: "Polen mag zurzeit zwar einer unserer loyaleren Untertanen sein, doch es ist unsicher, wie lange dies auch so bleiben wird. Wir sollten Investitionen in die polnische Nation in Betracht ziehen, um uns ihre Loyalität und Bereitwilligkeit zur wirtschaftlichen Kooperation auf Dauer zu sichern.\n\n[POL_GER_polish_loyalty]\n"
+
+ POL_early: "Erwarteter Wahlausgang für die Unterstützer von August IV: [POL_circle_chance]"
+ POL_status_stable: "§GPolen ist loyal und stabil.§!"
+ POL_status_restless: "§YPolen ist stabil, doch die Situation könnte sich jederzeit ändern.§!"
+ POL_status_uprising_ready: "§YPolen ist instabil und militärische Rückschläge könnten einen Aufstand provozieren.§!"
+ POL_status_uprising_imminent: "Ein Aufstand in Polen steht kurz bevor!"
+ POL_status_rebellious: "§RPolen rebelliert!§!"
+
+ MIE_intermarium_formed: "Das Osteuropäische Verteidigungskooperations-Programm wurde ins Leben gerufen."
+
+ GER_sponsor_MIE: "Fördert die OEVK"
+ GER_sponsor_MIE_desc: "Die Osteuropäische Verteidigungskooperation wurde ins Leben gerufen, um die militärische Aufrüstung der Oststaaten zu koordinieren. Unsere militärische Industrie ist zwar bereits involviert, eine direkte Unterstützung durch unsere Regierung könnte die Organisation jedoch noch weiter stärken."
+ GER_fight_forest_brothers: "Formt die Baltische Feldgendarmerie"
+ GER_fight_forest_brothers_desc: "Die zeitweilige Entsendung einer Militärpolizei-Einheit in das Vereinigte Baltische Herzogtum könnte diesem dabei helfen, die baltischen Separatistenbewegungen niederzuschlagen."
+ GER_fight_LAF: "Verstärkt die litauische Polizei"
+ GER_fight_LAF_desc: "Die Regierung Litauens tut sich schwer im Kampf gegen die Litauische Aktivistische Front, eine angeblich von Russland unterstützte terroristische Organisation, die für zahlreiche Schreckenstaten verantwortlich ist. Wir könnten eine Spezialeinheit aus Preußen entsenden, um Litauen beim Kampf gegen die Aufständigen zu unterstützen."
+ GER_WHR_coup: "Setzt die BSDP-Regierung ab"
+ GER_WHR_coup_desc: "Wir haben Weißrutheniens Experiment einer linksgerichteten Demokratie nun schon seit Langem toleriert, doch dies scheint ein Fehler gewesen zu sein. Unsere Agenten haben uns über ihr Geheimabkommen mit Moskau und die weißruthenischen Pläne, uns im Kriegsfall in den Rücken zu fallen, in Kenntnis gesetzt. Wir sollten handeln, bevor es zu spät ist."
+ GER_UKR_support: "Unterstützt das Hetmanat"
+ GER_UKR_support_desc: "Die Ukraine ist unser wichtigster Verbündeter im Osten, doch die Kontrolle von Skoropadskyis Verwaltung über die Nation wurde aufgrund ihrer Inkompetenz im Umgang mit der Wirtschaftskrise stark geschwächt. Durch eine Bevorzugung der ukrainischen Wirtschaft könnten wir die dortige Situation ein wenig stabilisieren."
+
+ POL_GER_buy: "Investitionen in Polen"
+ POL_GER_buy_desc: "Durch eine Ausweitung unserer wirtschaftlichen Kontrolle über Polen können wir unseren Einfluss auf die polnische Nation festigen und sicherstellen, dass die polnische Außenpolitik in der Zukunft unseren Interessen entsprechen wird."
+ POL_GER_sell: "Verkauft unsere polnischen Besitztümer"
+ POL_GER_sell_desc: "Einige unserer wirtschaftlichen Erwerbe in Polen waren nicht so nützlich, wie wir uns anfangs erhofften. Glücklicherweise gibts es zahlreiche österreichische, tschechische und polnische Geschäftsmänner, die sie uns nur allzu gern abkaufen würden."
+ POL_GER_lobby: "Pro-Monarchistische Kampagne in Polen"
+ POL_GER_lobby_desc: "[POL.GetLeader] ist zwar nicht gerade der beliebteste aller Könige, doch es gibt nichts, was unsere Werbespezialisten nicht beheben können."
+
+ POL_GER_promises: "Versprecht Polen Autonomie"
+ POL_promise_tt: "§CPolens Loyalität wird stark erhöht werden.§!"
+ POL_GER_agricultural_exports: "Exportiert landwirtschaftliche Produkte"
+ POL_promises1: "Hat Polen Unabhängigkeit versprochen"
+
+ POL_GER_recruit_poland: "Verstärkt die Rekrutierungsbemühungen in Polen"
+ POL_GER_recruit_poland_reduce: "Verringert die Rekrutierungsbemühungen in Polen"
+ POL_GER_recruitment: "Rekrutierung polnischer Arbeiter"
+
+ POL_invest_tt: "Durch die Finanzierung der Unterstützer von August IV, können wir uns die polnische Loyalität sichern."
+ POL_exploit_tt: "Eine Ausbeutung Polens wird die anti-deutschen und revolutionären Bewegungen des Landes stärken."
+
  MIE_refuse_equipment_shipments: "Lehnt Ausrüstungslieferungen ab"
  MIE_refuse_equipment_shipments_desc: "Wir sollten unseren Verbündeten mitteilen, dass wir derzeit keine Ausrüstungslieferungen benötigen und die Ressourcen andernorts besser genutzt werden können."
  MIE_allow_equipment_shipments: "Nehmt Ausrüstungslieferungen an"
@@ -50,9 +94,10 @@
  MIE_250_artilleryeq_blocked: "£unit_artillery_icon_small  §R250§!"
  MIE_250_artilleryeq_tooltip: "Es kostet $MIE_250_artilleryeq_blocked$, diese Entscheidung zu treffen."
 
- MIE_2000_guns_1000_sup_1000_art: "£rifle_texticon  §H2000§! £support_texticon §H1000§!  £unit_artillery_icon_small  §H1000§!"
- MIE_2000_guns_1000_sup_1000_art_blocked: "£rifle_texticon  §R2000§!  £support_texticon §R1000§!  £unit_artillery_icon_small  §R1000§!"
- MIE_2000_guns_1000_sup_1000_art_tooltip: "Es kostet $MIE_2000_guns_1000_sup_1000_art_blocked$, diese Entscheidung zu treffen."
+ MIE_2000_guns_500_sup: "£rifle_texticon  §H2000§! £support_texticon §H500§!"
+ MIE_2000_guns_500_sup_blocked: "£rifle_texticon  §R2000§!  £support_texticon §R500§!"
+ MIE_2000_guns_500_sup_tooltip: "Diese Entscheidung kostet $MIE_2000_guns_500_sup_blocked$."
+ MIE_2000_guns_tt: "£rifle_texticon  §H2000§! und £support_texticon §H500§! werden dem Pool hinzugefügt."
 
  MIE_1000_sup: "£support_texticon  §H1000§!"
  MIE_1000_sup_blocked: "£support_texticon  §R1000§!"
@@ -62,7 +107,11 @@
  MIE_1500_sup_blocked: "£support_texticon  §R1500§!"
  MIE_1500_sup_tooltip: "Es kostet $MIE_1000_sup_blocked$, diese Entscheidung zu treffen."
 
- MIE_build_forts_in_whr: "Der Ostwall"
+ air_xp_50: "£air_experience §H50§!"
+ air_xp_50_blocked: "£air_experience §R50§!"
+ air_xp_50_tooltip: "Diese Entscheidung kostet $air_xp_50_blocked$."
+ 
+ MIE_build_forts_in_whr: "Ausbau des Ostwalls"
  MIE_build_forts_in_whr_tt: "§gErrichte Level 1 £GFX_land_fort_texticon §Y$bunker_plural$§! in jeder belarussischen Grenzprovinz.§!"
 
  mie.1.t: "Osteuropäische Kooperation"
@@ -137,4 +186,27 @@
  mie.12.t: "Die russische Bedrohung neutralisiert!"
  mie.12.d: "Russland ist der Macht des Reichspakts anheim gefallen, wodurch das osteuropäische Kooperationsprojekt nun seinen primären Zweck erfüllt hat und nicht mehr benötigt wird. Jetzt können wir uns ausruhen und die Tatsache genießen, dass Russland unsere Unabhängigkeit nie wieder bedrohen kann."
  mie.12.a: "Ein guter Tag."
+ 
+ mie.13.t: "Deutschland spendet Ausrüstung"
+ mie.13.d: "Das deutsche Kriegsministerium hat der Osteuropäischen Verteidigungskooperations-Initiative einige Ausrüstung zukommen lassen. Diese alten aber zuverlässigen Mauser werden sich in den Händen von baltischen und slawischen Patrioten, die ihre Heimat gegen die russischen Aggressoren verteidigen, als äußerst nützlich erweisen."
+ mie.13.a: "Deutschland über alles."
+
+ mie.14.t: "Ankunft der Baltischen Feldgendarmerie"
+ mie.14.d: "Eine Spezialeinheit der Militärpolizei des Kaiserreichs ist eingetroffen, um unsere Sicherheitskräfte zu verstärken. Aufgrund ihrer Erfahrung im Umgang mit Guerilla-Streitkräften könnten diese Männer in der Bekämpfung des Aufstandes, der durch das Baltikum fegt, eine große Hilfe darstellen."
+ mie.14.a: "Entsendet sie nach Lettland."
+ mie.14.b: "Entsendet sie nach Estland."
+ mie.14.c: "Lasst sie die Drecksarbeit verrichten."
+
+ mie.15.t: "Deutschland offeriert Unterstützung beim Gesetzesvollzug"
+ mie.15.d: "Berlin hat eine Zusammenarbeit unserer Nationen bei der Bekämpfung der Litauischen Aktivistischen Front vorgeschlagen. Die Deutschen sind dazu bereit, einige militärische Polizeieinheiten aus Ostpreußen nach Litauen zu entsenden, um dort gemeinsame Schläge gegen die LAF zu organisieren. Zusammen sollten wir dazu in der Lange sein, einigen Druck auf die Kräfte der LAF auszuüben."
+ mie.15.a: "Gut."
+
+ mie.17.t: "Pro-deutscher Staatsstreich in Weißruthenien!"
+ mie.17.d: "Wie es scheint, hat der deutsche Geheimdienst unsere Zusammenarbeit mit der belarussischen Regierung aufgedeckt. Auf deutschen Befehl hin haben die reaktionären Elemente der belarussischen Armee die Kontrolle über Minsk übernommen, Ratsvorsitzenden Taraškievič des Hochverrates angeklagt und diesen festgenommen. Schon jetzt werden Sozialisten in ganz Weißruthenien verhaftet, während das bourgeoisie Militär die Freiheit des belarussischen Volkes weiter einschränkt. Sie können sich uns zwar nicht länger direkt im Falle eines Krieges anschließen, doch werden weiterhin ihr Bestes geben, um die Bemühungen der Militärregierung, sich uns zu widersetzen, zu sabotieren. Es ist unsere brüderliche Pflicht, die Belarussen von der preußischen Schreckensherrschaft zu befreien!"
+ mie.17.a: "Auf nach Minsk!"
+ GER_coup_WHR: "Pro-deutscher Staatsstreich in Weißruthenien"
+
+ mie.18.t: "Deutsches Entlastungs-Abkommne"
+ mie.18.d: "Unsere Freunde in Berlin haben uns nicht allein gelassen! Trotz ihrer eigenen wirtschaftlichen Misere hat die deutsche Regierung verkündet, dass unsere Getreideexporte von den verstärkt-protektionistischen Richtlinien der deutschen Handelspolitik, welche dem Schutze ihres eigenen landwirtschaftlichen Sektors dienen, ausgenommen werden. Zudem waren sie dazu bereit, einige unserer Kredite bei deutschen Banken umzuschulden, was uns das Tragen der finanziellen Last auf unseren Schultern etwas erleichtert. Insgesamt sollten die Entscheidungen der Deutschen unsere wirtschaftliche Lage und vor allem das Lot unserer Bauernschaft etwas verbessern."
+ mie.18.a: "Welch wohltätige Verbündete wir doch haben."
  

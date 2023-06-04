@@ -464,11 +464,13 @@ FRA_protect_coastlines_desc: "Schließlich kann unsere Marine nicht jeden einzel
 FRA_Phalanstere_internationale: "Gründung der Phalansteriesche Internationale"
 FRA_Phalanstere_internationale_desc: "Die Notwendigkeit der Geheimhaltung bedingt gewisse Ineffizienzen in der militärischen Forschung. Indem man eng mit anderen syndikalistischen Nationen zusammenarbeitet und den Forschern Zugang zu den am strengsten gehüteten Geheimnissen der anderen gewährt, kann dieses grundlegende Problem überwunden werden. Die Phalansteriesche Internationale soll als zentrale Instanz für den Austausch solcher Geheimnisse dienen."
 
-### Events ###
+### Intro Screen ###
 
 comfrance.1.t: "Die Kommune Frankreichs"
 comfrance.1.d: "Die Dritte Republik endete so, wie sie begann: besiegt von deutschen Waffen und konfrontiert mit der kommunistischen Revolution im eigenen Land. Im November 1919 rief die CGT einen revolutionären Generalstreik aus, der das Land lahmlegte und den Sturz der bürgerlichen Regierung verursachte. Die Partei der Ordnung" war nicht stark genug, um den Unruhen ein Ende zu setzen, und in den folgenden Monaten wurde das französische Establishment von einer Koalition linker Kräfte in einem kurzen, aber brutalen Bürgerkrieg aus Frankreich vertrieben.\n\n In den letzten fünfzehn Jahren hat sich die selbsternannte Kommune Frankreichs" hinter einer gemeinsamen Plattform des syndikalistisch-sozialistischen Konsenses vereinigt, an deren Spitze der regierende Ausschuss für öffentliche Sicherheit stand. Doch 1936 wird der Konsens, der erreicht wurde, um das zerrüttete Land wieder aufzubauen und die Früchte der Revolution gegen die Bedrohung von außen zu verteidigen, von vielen Kritikern als zunehmend überholt angesehen, und der Ruf nach einer radikaleren Politik wird lauter. Frankreich ist zunehmend zuversichtlich in Bezug auf seine Sicherheit und seine Mission, aber die französische revolutionäre Tradition ist disparat, und es ist unklar, welche ideologischen Stränge in den kommenden Jahren dominant werden sollen..."
 comfrance.1.a: "Aux armes, citoyens!(An die Waffen, Bürger!)"
+
+### Events ###
 
 comfrance.5.t: "Der Sturz von Marceau Pivert"
 comfrance.5.d: "Trotz der erfolgreichen Organisation des Syndikalistenkongresses im Mai wurde die Regierung Pivert für ihre mangelnde Reaktion auf das harte Vorgehen gegen die Gewerkschaften in Deutschland kritisiert. Heute hat die Opposition in der Allgemeinen Arbeitsvermittlung einem Misstrauensvotum gegen Pivert zugestimmt, der angekündigt hat, dass Neuwahlen vorgezogen werden sollen, um ein neues Comité zu wählen. Seine Aufgaben werden vorübergehend vom Ausschuss für öffentliche Sicherheit übernommen, bis die letzten Ergebnisse vorliegen."
@@ -577,7 +579,6 @@ comfrance.29.a: "Verschicken Sie die Einladungen!"
 comfrance.30.t: "Die Dritte Internationale"
 comfrance.30.d: "Frankreich ist mit seinen Plänen, den ersten Kongress der Dritten Internationale abzuhalten, durchgekommen, und wir haben, wie erwartet, eine Einladung erhalten. Es wäre töricht, keine Delegation zu entsenden."
 comfrance.30.a: "Fangen Sie an zu packen!"
-comfrance.30.b: "Sagen Sie den Franzosen, wir schaffen es nicht, wir sind äh..."
 
 comfrance.41.t: "Alle Delegierten sind eingetroffen"
 comfrance.41.d: "Die Chefs der sozialistischen, syndikalistischen und bolschewistischen Parteien, die Staats- und Regierungschefs, die Außenminister und die Journalisten sind alle zur Eröffnung des Ersten Kongresses der Dritten Internationale in Paris eingetroffen. Es ist an der Zeit, die Türen zu öffnen und die Bühne zu betreten."
@@ -704,7 +705,6 @@ comfrance.71.a: "Es wäre eine Ehre, Gastgeber des Kongresses zu sein."
 comfrance.72.t: "Der zweite internationale Kongress"
 comfrance.72.d: "Unsere britischen Kameraden haben ihre Bereitschaft bestätigt, Der zweite internationale Kongress in London auszurichten. Es ist Zeit für [ROOT.GetNameDef], seine Teilnahme zu bestätigen."
 comfrance.72.a: "Wir nehmen teil."
-comfrance.72.b: "Wir haben kein Interesse."
 
 comfrance.86.t: "Eröffnung des zweiten internationalen Kongresses"
 comfrance.86.d: "Mit allen Delegierten in London begann der Zweite Kongress der Internationale mit einer Rede von Genosse Eric Blair. In seiner sogenannten "Schild-und-Schwert-Rede" unterstrich er die Notwendigkeit, dass die Internationale ihre Anstrengungen verdoppelt, um das "Damoklesschwert" zu schmieden - eine Waffe, die in der Lage ist, die Reaktionäre in der ganzen Welt ein für alle Mal zu vernichten."
@@ -1102,61 +1102,73 @@ FRA_Romandy_Hydroelectricity_decision: "Staudämme bauen in der Romandie"
 
  FRA_maurice_gamelin: "Maurice Gamelin"
  FRA_maurice_gamelin_leader_desc: "General Maurice Gamelin hat das jakobinische Regime von Marcel Déat gestürzt. Während sein Putsch ein offensichtlicher Affront gegen den ohnehin fragwürdigen demokratischen Prozess der Kommunarden ist, betrachten viele Gamelin nun als Retter der Kommune und sogar des Syndikalismus selbst."
- FRA_maurice_gamelin_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g20. September 1872, in Paris, Seine, Dritte Französische Republik"
+ FRA_maurice_gamelin_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g20. September 1872, in Paris, Seine, Dritte Französische Republik§!"
 
  FRA_georges_catroux: "Georges Catroux"
- FRA_georges_catroux_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g29. Januar 1877, in Limoges, Haute-Vienne, Dritte Französische Republik"
+ FRA_georges_catroux_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g29. Januar 1877, in Limoges, Haute-Vienne, Dritte Französische Republik§!"
 
  FRA_gaston_billotte: "Gaston Billotte"
- FRA_gaston_billotte_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g10. Februar 1875, in Sommeval, Aube, Dritte Französische Republik"
+ FRA_gaston_billotte_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g10. Februar 1875, in Sommeval, Aube, Dritte Französische Republik§!"
 
  FRA_charles_delestraint: "Charles Delestraint"
- FRA_charles_delestraint_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g12. März 1879, in Biache-Saint-Vaast, Pas-de-Calais, Dritte Französische Republik"
+ FRA_charles_delestraint_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g12. März 1879, in Biache-Saint-Vaast, Pas-de-Calais, Dritte Französische Republik§!"
 
  FRA_marie_pierre_koenig: "Marie-Pierre Koenig"
- FRA_marie_pierre_koenig_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g10. Oktober 1898, in Caen, Calvados, Dritte Französische Republik"
+ FRA_marie_pierre_koenig_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g10. Oktober 1898, in Caen, Calvados, Dritte Französische Republik§!"
 
  FRA_ernest_petit: "Ernest Petit"
- FRA_ernest_petit_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g20 February 1888, in Paimbœuf, Loire-Inférieure, Dritte Französische Republik"
+ FRA_ernest_petit_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g20 February 1888, in Paimbœuf, Loire-Inférieure, Dritte Französische Republik§!"
 
  FRA_henri_tanguy: "Henri Tanguy"
- FRA_henri_tanguy_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g12. Juni 1908 in Morlaix, Finistère, Dritte Französische Republik"
+ FRA_henri_tanguy_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g12. Juni 1908 in Morlaix, Finistère, Dritte Französische Republik§!"
 
  FRA_rene_olry: "René Olry"
- FRA_rene_olry_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g28. Juni 1880, in Lille, Nord, Dritte Französische Republik"
+ FRA_rene_olry_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g28. Juni 1880, in Lille, Nord, Dritte Französische Republik§!"
 
  FRA_diego_brosset: "Diego Brosset"
- FRA_diego_brosset_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g3. Oktober 1898, in Buenos Aires, Argentinische Republik"
+ FRA_diego_brosset_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g3. Oktober 1898, in Buenos Aires, Argentinische Republik§!"
+
+ FRA_jean_edouard_verneau: "Jean-Édouard Verneau"
+ FRA_jean_edouard_verneau_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g29. August 1890, in Vignot, Maas, Dritte Französische Republik§!"
+
+ FRA_georges_revers: "Georges Revers"
+ FRA_georges_revers_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g30. Juli 1891, in Saint-Malo, Ille-et-Villaine, Dritte Französische Republik§!"
 
  FRA_nestor_makhno: "Nestor Makhno"
  FRA_nestor_makhno_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g8. November 1888, in Huliaipole, Gouvernement Jekaterinoslaw, Russisches Reich§!\n§YMilitärische Karriere:§! §gNestor Makhno wurde in extremer Armut in der ländlichen Ostukraine geboren und erlebte das Schlimmste des späten Russischen Reiches - er verlor seinen Vater, als er zehn Monate alt war, und jede Chance auf eine Ausbildung im Alter von zehn Jahren, als er die Schule verlassen musste, um mit Gelegenheitsarbeiten seine Familie zu ernähren. Er entwickelte eine Urwut auf den Gutsherrn und die Fabrikbesitzer, führte mit zwölf Jahren einen wilden Streik gegen seinen Gutsherrn an und widmete sich seit seinem siebzehnten Lebensjahr, nachdem er die Revolution von 1905 miterlebt hatte, ganz der bevorstehenden Revolution. Er leitete anarchistische Studiengruppen, lieferte sich Scharmützel mit der Polizei und wurde schließlich zu lebenslanger Zwangsarbeit verurteilt.\n\nNach der Februarrevolution wurde Makhno kränklich, aber voller Energie entlassen und reiste sofort in die Ukraine, um seine Arbeit fortzusetzen. Nun war er kein Propagandist mehr, sondern ein Revolutionsführer. Nachdem er wegen der deutschen Besatzung kurzzeitig aus Huliapole verbannt worden war, erlebte er den Aufstieg der Bolschewiki, den er als "Papierrevolution" anprangerte, und kehrte im Juli 1918 nach Hause zurück. Dort gründete er die Revolutionäre Aufständische Armee und begann einen einjährigen Widerstandskrieg gegen die Deutschen und ukrainischen Nationalisten. Obwohl er brutal war und über keinerlei militärische Ausbildung verfügte, erwarb sich Makhno die Gunst des Landes und lieferte dem Hetman einen viel härteren Kampf als erwartet, bevor er zur Flucht gezwungen wurde. Schließlich landete er in der französischen Kommune, die er sofort als eine weitere Papierrevolution anprangerte. Ohne sich für ihre intellektuellen Grundlagen zu interessieren, sah Makhno lediglich Uneinigkeit, Untätigkeit und Oligarchie, die die Errungenschaften der Revolution durch die Schaffung einer weiteren Aristokratie zunichte zu machen drohten. Ähnlich wie die bolschewistischen Exilanten wurde er in die föderale Armee integriert und erwarb sich mit Erzählungen über seine Heldentaten eine Anhängerschaft - im Offizierskorps war er jedoch ein Außenseiter, der sich mit seinen Vorgesetzten anlegte und seine Pflichten vernachlässigte. Weder er noch die Armee waren zufrieden, und so zog es Makhno in die weite Welt - er diente in der Nachkriegszeit in revolutionären Freiwilligenkorps, um die Weltrevolution voranzutreiben. Dieser Weg hat ihn nach Patagonien geführt, wo er der Sache dienen kann, ohne an die Kommunarden zu denken."
 
+ FRA_henri_adeline: "Henri Adeline"
+ FRA_henri_adeline_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g8. Mai 1898, in Verdun, Maas, Dritte Französische Republik§!"
+
  FRA_raoul_magrin_vernerey: "Raoul Magrin Vernerey"
- FRA_raoul_magrin_vernerey_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g7 February 1892, in Budapest, Pest-Pilis-Solt-Kiskun, Österreichisch-Ungarisches Kaiserreich"
+ FRA_raoul_magrin_vernerey_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g7 February 1892, in Budapest, Pest-Pilis-Solt-Kiskun, Österreichisch-Ungarisches Kaiserreich§!"
 
  FRA_joseph_putz: "Joseph Putz"
- FRA_joseph_putz_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g24 April 1895, in Brussels, Königreich Belgien"
+ FRA_joseph_putz_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g24 April 1895, in Brussels, Königreich Belgien§!"
 
  FRA_andre_marty: "André Marty"
- FRA_andre_marty_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g6 November 1886, in Perpignan, Pyrénées-Orientales, Dritte Französische Republik"
+ FRA_andre_marty_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g6 November 1886, in Perpignan, Pyrénées-Orientales, Dritte Französische Republik§!"
 
  FRA_georges_blanchard: "Georges Blanchard"
- FRA_georges_blanchard_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g9 December 1877, in Orléans, Loiret, Dritte Französische Republik"
+ FRA_georges_blanchard_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g9 December 1877, in Orléans, Loiret, Dritte Französische Republik§!"
 
  FRA_clement_blanc: "Clément Blanc"
- FRA_clement_blanc_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1 October 1897, in Perpignan, Pyrénées-Orientales, Dritte Französische Republik"
+ FRA_clement_blanc_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1 October 1897, in Perpignan, Pyrénées-Orientales, Dritte Französische Republik§!"
 
  FRA_paul_legentilhomme: "Paul Legentilhomme"
- FRA_paul_legentilhomme_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g26 March 1884, in Valognes, Manche, Dritte Französische Republik"
+ FRA_paul_legentilhomme_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g26 March 1884, in Valognes, Manche, Dritte Französische Republik§!"
+
+ FRA_florimond_bonte: "Florimond Bonte"
+ FRA_florimond_bonte_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g22. Januar 1890, in Tourcoing, Nord, Dritte Französische Republik§!"
+
+ FRA_aubert_frere: "Aubert Frère"
+ FRA_aubert_frere_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g21. August 1881, in Grévillers, Pas-de-Calais, Dritte Französische Republik§!\n§YMilitary Career:§! §gEr wurde als 6. von 11 Kindern geboren und erhielt eine christliche Erziehung, bevor er im Alter von 19 Jahren die Militärschule von Saint-Cyr besuchte. Die meiste Zeit seiner frühen Karriere verbrachte er in Marokko, bevor er 1912 nach Frankreich zurückkehrte. Seine erste Erfahrung während des Weltkriegs machte er in der Schlacht von Charleroi, und später kämpfte er sowohl in Verdun als auch an der Somme. Er wird zunächst zum Bataillonskommandeur des ersten Infanterieregiments und später zum Chef eines Bataillons der Alpentruppen befördert. Bis zum Ende des Krieges wurde er dreimal verwundet und achtmal ausgezeichnet."
 
  FRA_henri_frenay: "Henri Frenay"
  FRA_henri_frenay_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g11 November 1905, in Lyon, Rhône, Dritte Französische Republik"
 
  FRA_louis_buisson: "Louis Buisson"
  FRA_louis_buisson_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g14 December 1889, in Le Bourget-du-Lac, Savoie, Dritte Französische Republik"
-
- FRA_jacques_sadoul: "Jacques Sadoul"
- FRA_jacques_sadoul_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §gMay 22. Mai 1881, in Paris, Seine, Dritte Französische Republik"
 
  FRA_francois_darlan: "François Darlan"
  FRA_francois_darlan_admiral_desc: "§YAdmiral Beschreibung\nGeboren:§! §g7. August 1881, in Nérac, Lot-et-Garonne, Dritte Französische Republik§!\n§YMarine Karriere:§! §gJean Louis Xavier François Darlan wurde in eine Familie geboren, die seit langem mit der Marine verbunden war. Er machte 1902 seinen Abschluss an der École Navale(Marineschule) und diente während des Weltkriegs vor allem in einer Artilleriebatterie in der Schlacht von Verdun. In den Wirren der Revolution und aufgrund seines Patriotismus und seiner gemäßigten linken Gesinnung verschmäht, trat Darlan wieder in die Marine der Kommunarden ein und stieg in den folgenden Jahren rasch auf. Heute ist er einer der angesehensten Männer der französischen Marine und stolz auf die Institution, zu deren Wiederaufbau er beigetragen hat.§!"
@@ -1202,6 +1214,7 @@ FRA_Romandy_Hydroelectricity_decision: "Staudämme bauen in der Romandie"
  FRA_joseph_paul_boncour: "Joseph Paul Boncour"
  FRA_jacque_duclos: "Jacque Duclos"
  FRA_jean_zyromski: "Jean Zyromski"
+ FRA_jacques_sadoul: "Jacques Sadoul"
  FRA_suzanne_girault: "Suzanne Girault"
  
  FRA_confederation_general_du_travail: "Confédération Générale du Travail (Allgemeiner Gewerkschaftsbund)"

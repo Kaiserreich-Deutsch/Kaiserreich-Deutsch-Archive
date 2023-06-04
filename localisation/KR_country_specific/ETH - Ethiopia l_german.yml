@@ -31,9 +31,11 @@
  ETH_public_rail: "Die DKAEB befindet sich im Besitz des äthiopischen Staates"
  ETH_private_rail: "Die DKAEB ist im Besitz von internationalen Unternehmen"
  ETH_mittelafrika_rail: "Die DKAEB ist Eigentum von Mittelafrika"
+ ETH_mantetsu_rail: "Die DKAEB ist im Besitz von Mantetsu"
  ETH_DKAEB_maybe_RIP: "Die §YDKAEB-Eisenbahn§! gibt derzeit deutschen Gütern Vorrang vor unseren eigenen Interessen. Dieser Staat-Modifikator verringert die lokale Versorgung um §R10%§!, die Geschwindigkeit der Divisionen um §R10%§! und §Rdeaktiviert§! strategische Verlegungen.\n"
  ETH_upgrade_DKAEB_tooltip: "Der Modifikator §YDKAEB Eisenbahn§! wird aufgewertet und erhöht die lokale Versorgung um §G15%§!, die Geschwindigkeit der Division um §G15%§! und §Gaktiviert§! die strategische Verlagerung.\n"
  ETH_german_aligned: "Unsere Nation hat sich an das Deutsche Reich gebunden."
+ ETH_japanese_aligned: "Unsere Nation hat Japan ein Angebot gemacht."
  ETH_Haile_Reforms: "Haile Selassie hat seine Reformen begonnen"
  ETH_Constitucion_tt: "Wir werden §Eine neue Verfassung§! auf der Grundlage der bisher beschlossenen Reformen schaffen."
  ETH_Eritrea_tt: "§RWenn Eritrea bis zum Eintritt in den Konflikt nicht richtig integriert ist, sollten wir nicht erwarten, dass es loyal bleibt!§!\n"
@@ -81,6 +83,9 @@
  ETH_advisors_germany: "Deutsche Militärberater"
  ETH_advisors_germany_desc: "Unsere Offiziere arbeiten eng mit dem Deutschen Militärberater zusammen, um unsere Streitkräfte zu modernisieren und besser zu disziplinieren."
  
+ ETH_advisors_japan: "Japanische Militärberater"
+ ETH_advisors_japan_desc: "Unsere Offiziere arbeiten eng mit Japanischen Militärberatern zusammen, um bei der Modernisierung und besseren Disziplinierung unserer Streitkräfte zu helfen."
+
  ETH_Food: "Surplus of Food"
  ETH_Food_desc: "Da das Problem der Hungersnot nun gelöst ist, wird mittelfristig mit einem Wachstum unserer Bevölkerung und Wirtschaft gerechnet."
  
@@ -180,7 +185,22 @@
  
  ETH_German_Military_Mission: "Deutsche Militärmission" 
  ETH_German_Military_Mission_desc: "Da wir uns bereits an Deutschland gewandt haben, um Investitionen und Hilfe zu erhalten, wäre es auch in unserem besten Interesse, Militärberater anzufordern, um zu lernen, wie wir unsere Soldaten besser ausbilden, unsere Taktik verbessern und unsere Armee insgesamt modernisieren können."
- 
+  
+ ETH_A_German_Partner: "Ein deutscher Partner"
+ ETH_A_German_Partner_desc: "Jetzt, da unsere Industrie boomt und unsere lokalen Feinde erledigt sind, ist es an der Zeit, uns der Welt zuzuwenden und vielleicht den Deutschen in diesem Weltkrieg zu helfen, wie wir es im letzten getan haben."
+
+ ETH_Japanese_Investment: "Japanische Investitionen"
+ ETH_Japanese_Investment_desc: "Vielleicht könnte Japan damit beginnen, in Äthiopien zu investieren, um die Auswirkungen des Schwarzen Montags zu bekämpfen und dabei zu einer besseren Entwicklung Äthiopiens beizutragen."
+
+ ETH_Japanese_Aid: "Japanische Hilfe"
+ ETH_Japanese_Aid_desc: "Japanische Investoren, private und staatliche, werden dazu beitragen, Äthiopien zu Wohlstand zu verhelfen."
+
+ ETH_Japanese_Military_Mission: "Japanische Militärmission"
+ ETH_Japanese_Military_Mission_desc: "Da wir uns bereits an Japan gewandt haben, um Investitionen und Hilfe zu erhalten, wäre es auch in unserem besten Interesse, Militärberater anzufordern, um zu lernen, wie wir unsere Soldaten besser ausbilden, unsere Taktik verbessern und unsere Armee insgesamt modernisieren können."
+
+ ETH_A_Japanese_Partner: "Ein Japanischer Partner"
+ ETH_A_Japanese_Partner_desc: "Jetzt, da unsere Branche boomt und die lokalen Feinde beseitigt sind, ist es an der Zeit, sich der Welt zuzuwenden."
+
  ETH_Debt: "Umgang mit unseren Schulden"
  ETH_Debt_desc: "Nach dem Ende des Weltkriegs war unsere Staatsverschuldung außer Kontrolle geraten und hat sich weiter erhöht. Die dringend notwendigen Reformen können erst dann durchgeführt werden, wenn das Problem der Schulden vollständig gelöst ist."
  
@@ -390,13 +410,10 @@
  
  ETH_Finish_Modernisation: "Vollendung der Modernisierung"
  ETH_Finish_Modernisation_desc: "Unsere Bemühungen um die Industrialisierung haben endlich Früchte getragen. Die Zukunft ist nun zum Greifen nah, wir müssen sie nur noch ergreifen!"
- 
- ETH_A_German_Partner: "Ein deutscher Partner"
- ETH_A_German_Partner_desc: "Jetzt, da unsere Industrie boomt und unsere lokalen Feinde erledigt sind, ist es an der Zeit, uns der Welt zuzuwenden und vielleicht den Deutschen in diesem Weltkrieg zu helfen, wie wir es im letzten getan haben."
 
 ### Events ###
  ethiopia.1.t: "Äthiopien, ein Reich am Scheideweg"
- ethiopia.1.d: "Abessinien, auch unter dem Namen Äthiopien bekannt, war der einzige afrikanische Staat, der im 19. Jahrhundert seine Unabhängigkeit bewahren konnte, nachdem er 1896 eine italienische Invasion erfolgreich abgewehrt hatte. Dieser Sieg war symbolisch für den Modernisierungsprozess des abessinischen Reiches, der darauf abzielte, das Land wirtschaftlich, militärisch und verwaltungstechnisch an die europäischen Standards anzupassen. 1918 trat Abessinien unter der Kaiserin Zewditu auf der Seite der Deutschen in den Weltkrieg ein, annektierte erfolgreich die italienische Kolonie Eritrea und ging gegen den Prätendenten Kaiser Iyasu vor. Gegen die italienischen Garnisonen und die wenigen Überfälle der Entente auf das Reich hatte die Armee jedoch nur wenig Erfolg. Die Kontrolle über das umstrittene Gebiet von Harar konnte nicht durchgesetzt werden, da die somalischen Truppen, die einen großen Teil des Gebiets hielten, nicht vertrieben werden konnten und dies auch bis heute nicht getan haben. Als die alte Kaiserin Zewditu ohne überlebende Kinder starb, bestieg ihr Cousin, Regent und oftmaliger Rivale Ras Tafari Makonnen den Thron als Kaiser Haile Selassie. Der neue Monarch kündigte seine Absicht an, eine Reihe neuer Reformen durchzuführen, um Abessinien zu verwestlichen, da der Hauptführer der reaktionären Fraktion, sein Vorgänger, nicht mehr im Amt war. Diese Initiativen stießen jedoch auf den erbitterten Widerstand des konservativen Adels der Nation, kleinerer Könige und Herzöge, die in Zewditu jemanden sahen, der ihrer Vision für das Reich viel näher stand. Die Beziehungen zu Deutschland, dem neuen Besitzer des nahe gelegenen Dschibuti, wurden durch den Bau einer Eisenbahnlinie zwischen dem Außenposten, Addis Abeba und Kenia (hauptsächlich mit deutschem Kapital) gestärkt. Die Beziehungen sind seitdem positiv, trotz Berichten über das exzentrische Verhalten des neuen mittelafrikanischen Gouverneurs. Die Beziehungen zu Somalia und seinen osmanischen Unterstützern sind jedoch weiterhin bestenfalls angespannt, und eine Konfrontation scheint unvermeidlich. Der Kaiser weiß, dass ein solcher Krieg ein geeintes Reich unter einem Banner und einer Sache erfordert, da sich die ehrgeizigen Herzöge durchaus auf die Seite des Feindes schlagen könnten, wenn sie ihre Macht unkontrolliert behalten."
+ ethiopia.1.d: "Abessinien, auch Äthiopien genannt, ist der einzige afrikanische Staat, der im 19. Jahrhundert unabhängig geblieben ist, nachdem er 1896 eine italienische Invasion erfolgreich abgewehrt hatte. Dieser Sieg war symbolisch für den Modernisierungsprozess im abessinischen Reich, der darauf abzielte, das Land wirtschaftlich, militärisch und verwaltungstechnisch auf europäisches Niveau zu bringen.\n\n1918 trat Abessinien unter Kaiserin Zewditu auf der Seite der Deutschen in den Weltkrieg ein, annektierte erfolgreich die italienische Kolonie Eritrea und ging gegen den Prätendenten Kaiser Iyasu vor. Gegen die italienischen Garnisonen und die wenigen Überfälle der Entente auf das Reich hatte die Armee jedoch nur wenig Erfolg. Die Kontrolle über das umstrittene Gebiet von Harar konnte nicht durchgesetzt werden, da die somalischen Streitkräfte, die einen Großteil des Gebietes hielten, nicht vertrieben werden konnten und bis heute nicht vertrieben wurden.\n\nAls die alte Kaiserin Zewditu ohne hinterbliebene Kinder starb, bestieg ihr Cousin, Regent und häufiger Rivale Ras Tafari Makonnen als Kaiser Haile Selassie den Thron. Der neue Monarch kündigte an, dass er eine Reihe neuer Reformen einleiten wolle, um Abessinien zu verwestlichen, da der wichtigste Anführer der reaktionären Fraktion, sein Vorgänger, nun nicht mehr im Amt sei. Diese Initiativen stoßen jedoch auf den erbitterten Widerstand des konservativen Adels der Nation, der kleineren Könige und Herzöge, die in Zewditu jemanden sehen, der ihrer Vision für das Reich wesentlich näher steht.\n\nDie Beziehungen zu Deutschland, dem neuen Besitzer des nahe gelegenen Dschibuti, wurden durch den Bau einer Eisenbahnlinie (größtenteils mit deutschem Kapital) zwischen diesem Außenposten, Addis Abeba, und Kenia gestärkt. Die Beziehungen sind seither positiv, trotz Berichten über das exzentrische Verhalten des neuen mittelafrikanischen Gouverneurs. Aber die Beziehungen zu Somalia und seinen osmanischen Unterstützern bleiben bestenfalls angespannt, und eine Konfrontation scheint unvermeidlich. Der Kaiser weiß, dass ein solcher Krieg ein geeintes Reich unter einem Banner und einer Sache erfordern würde, da die ehrgeizigen Herzöge sich durchaus auf die Seite des Feindes schlagen könnten, wenn man sie nicht unter Kontrolle hält, und daher müssen zuerst die inneren Angelegenheiten geregelt werden."
  ethiopia.1.a: "Wir sind stark!"
 
  ethiopia.2.t: "Die DKAEB steht kurz vor dem Konkurs"
@@ -421,13 +438,19 @@
  ethiopia.6.t: "Die DKAEB geht in Konkurs!"
  ethiopia.6.d: "Die Deutsche Kaiserliche Abessinien Eisenbahn ist in Konkurs gegangen! Diese wichtige Verkehrsverbindung, die vom Kongo über Äthiopien nach Dschibuti führt, musste stillgelegt werden. Viele Menschen sind nun arbeitslos, und unsere Beziehungen zu Mittelafrika haben Schaden genommen."
  ethiopia.6.a: "Wir werden die Bahnlinie übernehmen."
+ ethiopia.6.b: "Finden Sie einen anderen ausländischen Investor!"
 
  ethiopia.7.t: "Der Platz Äthiopiens auf der Weltbühne"
  ethiopia.7.d.germanyatwar: "Nach der Niederlage in Somalia hat Kaiser Haile Selassie erklärt, es sei an der Zeit, die diplomatische Position Äthiopiens zu überdenken. Die Deutschen, unsere Freunde, kämpfen jetzt für das Überleben der Monarchie - das heißt der gerechten Herrschaft - gegen die Verwüstungen des Anarchismus der dekadenten Westeuropäer. Sollen wir uns dem Kampf gegen diese gottlosen Radikalen anschließen, oder neutral bleiben?"
  ethiopia.7.d.germanyvictorious: "Nach der Niederlage in Somalia hat Kaiser Haile Selassie erklärt, es sei an der Zeit, die diplomatische Position Äthiopiens zu überdenken. Die Deutschen, unsere Freunde, haben die gottlosen Anarchisten in Frankreich und Großbritannien besiegt. Vielleicht ist es das Beste, sich dem Reichspakt anzuschließen und unsere Sicherheit in einer deutschen Welt zu gewährleisten. Sollen wir uns unseren Freunden anschließen, oder neutral bleiben?"
+ ethiopia.7.d.japanatwar: "Nach der Niederlage in Somalia hat Kaiser Haile Selassie erklärt, es sei an der Zeit, die diplomatische Position Äthiopiens zu überdenken. Die Japaner, unsere Freunde, kämpfen jetzt für das Überleben der Monarchie - d.h. der gerechten Herrschaft - gegen den Anarchismus der dekadenten Westmächte. Sollen wir uns dem Kampf gegen diese Imperialisten anschließen oder neutral bleiben?"
+ ethiopia.7.d.japanvictorious: "Nach der Niederlage in Somalia hat Kaiser Haile Selassie erklärt, es sei an der Zeit, die diplomatische Position Äthiopiens zu überdenken. Die Japaner, unsere Freunde, haben die imperialistischen Deutschen in Asien besiegt. Vielleicht ist es das Beste, sich der Ko-Wohlstandssphäre anzuschließen, um unsere Sicherheit in einer freien Welt zu gewährleisten. Sollen wir uns unseren Freunden anschließen oder neutral bleiben?"
  ethiopia.7.a: "Wir müssen zum weltweiten Kampf gegen den Syndikalismus beitragen!"
+ ethiopia.7.a1: "Wir müssen uns am weltweiten Kampf gegen den westlichen Imperialismus beteiligen!"
  ethiopia.7.b: "Wir sollten dem Reichspakt beitreten!"
+ ethiopia.7.b1: "Wir sollten uns der Ko-Wohlstandssphäre anschließen!"
  ethiopia.7.c: "Wir werden nur eine deutsche Garantie verlangen."
+ ethiopia.7.c1: "Wir werden nur eine japanische Garantie verlangen."
 
  ethiopia.8.t: "Dürre!"
  ethiopia.8.d: "Der Osten Äthiopiens ist von einer großen Dürre heimgesucht worden. Da die Wirtschaft durch den Niedergang der DKAEB bereits geschwächt ist, droht nun eine Massenhungersnot, da die Ernten ständig ausfallen."
@@ -512,37 +535,53 @@
 
  ethiopia.24.t: "Das Kaiserreich Äthiopien bittet um eine Militärmission"
  ethiopia.24.d: "Seit Mittelafrika 1936 unsere Anteile an der DKAEB-Eisenbahn gekauft hat, ist das Reich Äthiopien näher an Deutschland herangerückt und bittet nun um eine Deutsche Militärmission zur Modernisierung seiner Armee. Im Falle eines Sieges im bevorstehenden Krieg gegen die somalischen Feinde könnte es sogar dem Reichspakt beitreten."
+ ethiopia.24.d2: "Das Kaiserreich Äthiopien ist enger mit Japan verbunden, seit wir 1936 die DKAEB-Eisenbahn unter unsere Verwaltung gebracht haben, und es bittet jetzt um eine japanische Militärmission zur Modernisierung seiner Armee. Wenn sie im bevorstehenden Krieg gegen ihre somalischen Feinde siegreich sind, könnten sie sogar der Ko-Wohlstandssphäre beitreten."
  ethiopia.24.a: "Ein kleines Opfer für einen Verbündeten!"
  ethiopia.24.b: "Brauchen wir Äthiopien wirklich?"
 
  ethiopia.25.t: "Deutschland erklärt sich bereit, eine Militärmission zu entsenden"
+ ethiopia.25.t2: "Japan erklärt sich bereit, eine Militärmission zu entsenden"
  ethiopia.25.d: "Die Deutschen sind mit unseren Freundschaftsanträgen einverstanden und haben eine militärische Mission entsandt, um uns in unserem Kampf mit unseren regionalen Gegnern zu unterstützen. Wieder einmal haben uns unsere christlichen Brüder die Hilfe gegeben, die wir brauchen."
+ ethiopia.25.d2: "Die Japaner sind mit unseren Freundschaftsanträgen einverstanden und haben eine militärische Mission entsandt, um uns in unserem Kampf gegen unsere regionalen Gegner zu unterstützen. Sie haben die Vorteile unseres gemeinsamen Kampfes gegen den westlichen Imperialismus klar erkannt."
  ethiopia.25.a: " Noch besser als die Portugiesen."
 
+ JAP_foreign_missions: "Japanische Hilfe"
+
  ethiopia.26.t: "Deutschland verweigert uns die Hilfe"
+ ethiopia.26.t2: "Japan verweigert uns Hilfe"
  ethiopia.26.d: "Die imperialistischen und eurozentristischen Deutschen haben sich geweigert, unsere Armee in irgendeiner Weise zu organisieren. Es scheint, dass unsere Partnerschaft mit dem Deutschen Reich zu einem abrupten Ende gekommen ist."
+ ethiopia.26.d2: "Die doppelzüngigen und arroganten Japaner haben sich geweigert, uns bei der Organisation unserer Armee in irgendeiner Weise zu unterstützen. Es scheint, dass unsere Partnerschaft mit dem japanischen Kaiserreich zu einem abrupten Ende gekommen ist."
  ethiopia.26.a: "Dann eben allein!"
 
  ethiopia.27.t: "Das Kaiserreich Äthiopien bittet um Bündnis"
  ethiopia.27.d.ethiopiaatwar: "Unser Brudermonarch in Addis Abeba hat unsere Notlage in Westeuropa bemerkt und den gottlosen Syndikalisten bereits den Krieg erklärt. Sollten wir zustimmen, unseren alten Kriegsverbündeten in unser Bündnis aufzunehmen?"
  ethiopia.27.d.ethiopianotatwar: "Unser Partner in Äthiopien ist an uns herangetreten und hat um ein Bündnis zwischen Äthiopien und Deutschland gebeten. Da der Sudan und Somalia keine Bedrohung mehr für Äthiopien darstellen, würden wir mit einem Bündnis mit ihnen nur wenige Risiken eingehen, aber sie könnten uns auch nicht viel bieten."
+ ethiopia.27.d.ethiopiaatwar2: "Unser Brudermonarch in Addis Abeba hat unsere Notlage in Großasien bemerkt und den deutschen Imperialisten bereits den Krieg erklärt. Sollten wir zustimmen, Äthiopien in unser Bündnis aufzunehmen?"
+ ethiopia.27.d.ethiopianotatwar2: "Unser Partner in Äthiopien ist an uns herangetreten und hat um ein Bündnis zwischen Äthiopien und Japan gebeten. Da der Sudan und Somalia keine Bedrohung mehr für Äthiopien darstellen, würden wir mit einem Bündnis mit ihnen nur wenige Risiken eingehen, aber sie könnten uns auch nicht viel bieten."
  ethiopia.27.a: "Akzeptieren Sie ihr Angebot!"
  ethiopia.27.b: "Wer braucht Äthiopien?"
 
  ethiopia.28.t: "Deutschland akzeptiert!"
+ ethiopia.28.t2: "Japan akzeptiert!"
  ethiopia.28.d: "Die Deutschen haben zugestimmt, dass wir dem Reichspakt beitreten! Unsere Zukunft in einer deutsch dominierten Welt ist gesichert."
+ ethiopia.28.d2: "Die Japaner haben zugestimmt, uns in die Ko-Wohlstandssphäre aufzunehmen! Unsere Zukunft in einer vom westlichen Imperialismus befreiten Welt ist gesichert."
  ethiopia.28.a: "Ein Hoch auf die Diplomatie!"
 
  ethiopia.29.t: "Deutschland lehnt Allianz ab"
+ ethiopia.29.t2: "Japan lehnt Allianz ab"
  ethiopia.29.d: "Die Deutschen haben deutlich zu verstehen gegeben, dass sie unsere Hilfe und Freundschaft nicht brauchen. Wir werden zwar eine Partnerschaft aufrechterhalten, aber es scheint, dass die Deutschen nicht unsere Verbündeten sein werden."
+ ethiopia.29.d2: "Die Japaner haben deutlich zu verstehen gegeben, dass sie unsere Hilfe und Freundschaft nicht brauchen. Wir werden zwar eine Partnerschaft aufrechterhalten, aber es scheint, dass die Japaner nicht unsere Verbündeten sein werden."
  ethiopia.29.a: "Dann eben allein!"
 
  ethiopia.30.t: "Äthiopien fordert eine Garantie"
  ethiopia.30.d: "Nachdem sie Somalia besiegt haben, haben unsere Partner in Äthiopien beschlossen, sich nicht in weitere Kriege zu verwickeln. Sie fordern eine deutsche Garantie für ihre territoriale Integrität, bieten dafür aber außer Versprechungen wenig."
+ ethiopia.30.d2: "Nachdem unsere Partner in Äthiopien Somalia besiegt haben, haben sie beschlossen, sich nicht in weitere Kriege zu verwickeln. Sie fordern eine japanische Garantie für ihre territoriale Integrität, bieten dafür aber außer Versprechungen wenig."
  ethiopia.30.a: "Das ist besser als nichts."
 
  ethiopia.31.t: "Deutschland garantiert uns"
+ ethiopia.31.t2: "Japan garantiert uns"
  ethiopia.31.d: "Die Deutschen haben unsere Unabhängigkeit garantiert - unsere Position ist sicher, solange die Deutschen in Europa triumphieren."
+ ethiopia.31.d2: "Die Japaner haben unsere Unabhängigkeit garantiert - unsere Position ist sicher, solange die Japaner in Asien triumphieren."
  ethiopia.31.a: "Das war der beste Schritt, den wir hätten machen können."
 
  ethiopia.32.t: "Schwarzer Montag!"

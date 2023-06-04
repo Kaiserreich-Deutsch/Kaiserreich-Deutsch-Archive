@@ -412,12 +412,15 @@
  ENG_tuc2_internal: "Bürokratieabbau"
  ENG_tuc2_internal_desc: "Die Führung eines Krieges ermöglicht es oft einigen unappetitlichen Elementen der Bürokratie, ihre eigenen kleinen Imperien aufzubauen, während die Regierung mit der Verteidigung des Heimatlandes beschäftigt ist. Wir müssen diese Kriegsprofiteure mit aller gebotenen Eile ausschalten."
 
-### Events ###
+### Intro Screen ###
 
-### 0 - 100: TUC and TUC and Show of Force ###
  uob.0.t: "Das neue Britannien"
  uob.0.d: "Nach der Niederlage Frankreichs sollte der Krieg des Vereinigten Königreichs mit Deutschland nicht lange dauern - die erschöpften Großmächte einigten sich Ende 1919 im Vertrag von Versailles auf einen formellen Frieden, der in Britannien informell als Lloyd-George's \"Frieden mit Ehre\" bekannt wurde. Während die britischen Überseegebiete weitgehend unangetastet blieben, war das Vertrauen der Bevölkerung nicht ungetrübt.\n\n1925 kam es zur Katastrophe: Ein kleiner Arbeitskonflikt in den Kohlefeldern von Südwales eskalierte schnell, und nach sechs Wochen Aufruhr, Plünderungen und Pamphletismus war der Großteil des "Establishments", einschließlich der königlichen Familie, nach Kanada geflohen. Eine provisorische Regierung aus revolutionären Gruppen löste das verbliebene Parlament auf und rief eine neue "Union von Britannien" aus.\n\nElf Jahre später bildet der Gewerkschaftskongress immer noch das Herzstück der Politik der föderalen und demokratischen Union. Das britische Volk ist auf seiner Insel sicher, hat einen sozialistischen Traum aufgebaut, der von der starken republikanischen Luftwaffe und Marine geschützt wird, und jede Grafschaft wird von ihrer eigenen Volksmiliz beschützt, die sowohl als Reservemilitär als auch als neue Polizei fungiert.\n\nDoch angesichts der Tatsache, dass die Welt scheinbar bereit ist, ins Chaos zu stürzen, und die Verbündeten auf dem Kontinent zum Krieg aufrufen, beginnen sich viele zu fragen, ob Britannien die Pflicht hat, die Revolution auf seine ehemaligen Kolonialgebiete auszuweiten. Schließlich kann man den Monarchisten in Kanada nicht ewig erlauben, gegen die Union zu intrigieren..."
  uob.0.a: "Faszinierend."
+
+### Events ###
+
+### 0 - 100: TUC and TUC and Show of Force ###
 
  uob.1.t: "Der Gewerkschaftsrat von 1936 beginnt"
  uob.1.d: "Nach wochenlangen Vorbesprechungen und Vorbereitungen hat heute der Hauptteil des Gewerkschaftskongresses von 1936 begonnen. Die verschiedenen Fraktionen des Kongresses haben ihre Delegierten und ihre Führer nach London entsandt, um für ihre Positionen zu streiten. Wir werden sehen, was geschehen wird."
@@ -1371,7 +1374,7 @@
  ENG_herbert_lumsdon: "Herbert Lumsdon"
  ENG_kenneth_strong: "Kenneth Strong"
  ENG_fred_copeman: "Fred Copeman"
- ENG_george_sutherland_aitken: "George Sutherland Aitken"
+ ENG_george_nathan: "George Nathan"
  ENG_james_brewer: "James Brewer"
  ENG_bill_alexander: "Bill Alexander"
  ENG_david_stirling: "David Stirling"

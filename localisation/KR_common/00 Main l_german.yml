@@ -1,7 +1,5 @@
 ﻿l_german:
-
 ##Übersetzt von Thylon##
-
 ######################
 ### Bitte Beachten ###
 ######################
@@ -10,9 +8,30 @@
 # Wenn Sie diese Liste aktualisieren, stellen Sie bitte sicher, dass Sie auch diese Credit-Liste aktualisieren, ebenso wie die anderen Credit-Listen, die wir führen (Änderungsnotizen, Steam-Workshop-Beschreibungen usw.)
 # Einige davon können nur von einem Kaiserdev aktualisiert werden, wenn Sie also keiner sind, sagen Sie es bitte, wenn Sie diese Liste aktualisieren
 
-### Splash Screen Credits ###
-KR_SPLASH_TITLE: "§YLiebevoll gestaltet vom Kaiserreich Team:§!"
-KR_SPLASH_CREDITS: "84F8DB  ·  Alpinia  ·  Arvidus  ·  Asratius  ·  Augenis  ·  Blackfalcon501  ·  Carmain  ·  Chazem\nChiang Kai-shrek  ·  Chiron29  ·  Conchobhar  ·  DuoDex  ·  El Daddy  ·  Fedex\nFlamefang  ·  Gaboemi  ·  Gideones  ·  hildagrim  ·  Hamfast  ·  hildagrim  ·  Ido  ·  Igor050301\nJazzyHugh  ·  Jeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  katieluka\nKennedy  ·  kergely  ·  KFateweaver  ·  Klyntar King  ·  Krčo  ·  Luwofe  ·  Matoro\nMcOmghall  ·  ~mw~ // miwaco.  ·  NukeGaming  ·  OperationsManagementDecisions  ·  Owenomaly  ·  Pelmen  ·  PPsyrius\nRagnoStrangeros  ·  Retrocognition  ·  Rnk  ·  Shiroe  ·  Sonny O'Cad  ·  SuperGreenBeans  ·  suzuha\nThe Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko\nHydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc, Wolf  ·  Silent_Wolf  ·  Alex S\nDerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier  ·  Itzy"
+### Nation Selection Screen ###
+ new_this_patch: "DIESER PATCH IST NEU"
+
+### Splash Screen ###
+ KR_welcome_splash_tab_1: "Country"
+ KR_welcome_splash_tab_2: "Mechanics"
+ KR_welcome_splash_tab_3: "How to Play"
+ KR_welcome_splash_tab_4: "Credits"
+ mod_options_button_text: "Continue"
+
+ ## TAB 1 ##
+ KR_welcome_splash_tab_1_header: "[ROOT.GetNameDefCap]"
+ KR_welcome_splash_tab_1_content: "[ROOT.GetCountryIntro]"
+
+ ## TAB 2 ##
+
+ ## TAB 3 ##
+ KR_welcome_splash_tab_3_content: "§YBitte beachten Sie Folgendes:§!\n£white_dot \n£white_dot \n£white_dot \n\n£white_dot \n\n£white_dot \n\n\n\n§YFragen zur Problemmeldung:§!\nDieser Mod befindet sich noch in der Entwicklung, daher sind Bugs und Abstürze möglich. Wenn ihr auf Probleme stoßt, meldet sie bitte an unseren §YGitHub issue tracker§!, damit wir sie schnell beheben können. Ein Link findet sich im Pausenmenü."
+ KR_welcome_splash_tab_3_content_0: "Das Kaiserreich legt Beschränkungen für diplomatische Aktionen wie §Frühe Kriege§!, §RFraktionen§! und §RAutonomiestufen§! fest.\nKaiserreich enthält auch §CDivisionsgrenzen§! und eine §CDemobilisierung§! Mechanik, um die Spielbarkeit im späten Spiel zu verbessern.\nAchten Sie bei §YFriedenskonferenzen§! darauf, dass Sie alle möglichen Staaten annektieren. Sie können später Länder aus den annektierten Gebieten durch §Entscheidungen§! freigeben.\nIm Einstellungsmenü §YBenutzerdefinierte Spielregeln§! können Sie viele Optionen einstellen, darunter §CLänderpfad§!, §CSpielervorrang bei Friedenskonferenzen§! und das §CStaaten- und Länderübertragungswerkzeug§!.\nDas §YIngame-Optionsmenü§! wird durch einen Klick auf das Adlersymbol in der rechten oberen Ecke geöffnet. Hier können Sie die §CHäufigkeit der Nachrichtenereignisse§! einstellen und die §CDynamische Umbenennung§! von Staaten und Siegpunkten aktivieren."
+
+ ## TAB 4 ##
+ KR_welcome_splash_tab_4_header: "§YWillkommen bei Kaiserreich(Deutsch) BETA 0.25 "In der weiten Steppe"\n\n\n\n\n\nLiebevoll gestaltet vom Kaiserreich Team:§!"
+ KR_welcome_splash_tab_4_content: "84F8DB  ·  Alpinia  ·  Arvidus  ·  Asratius  ·  Augenis  ·  Blackfalcon501  ·  Carmain  ·  Chazem\nChiang Kai-shrek  ·  Chiron29  ·  Cody  ·  Conchobhar  ·  DuoDex  ·  El Daddy  ·  Fedex\nFlamefang  ·  Gaboemi  ·  Gideones  ·  hildagrim  ·  Hamfast  ·  hildagrim  ·  Ido  ·  Igor050301\nJazzyHugh  ·  Jeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  Kano  ·  katieluka\nKennedy  ·  kergely  ·  KFateweaver  ·  Klyntar King  ·  Krčo  ·  Luwofe  ·  Matoro\nMcOmghall  ·  ~mw~ // miwaco.  ·  NukeGaming  ·  OperationsManagementDecisions  ·  Owenomaly  ·  Pelmen  ·  PPsyrius\nRagnoStrangeros  ·  Retrocognition  ·  Rnk  ·  Shiroe  ·  Sonny O'Cad  ·  SuperGreenBeans  ·  suzuha\nThe Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko\nHydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc, Wolf  ·  Silent_Wolf  ·  Alex S\nDerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier  ·  Itzy"
+ KR_welcome_splash_tab_4_content_0: "Unser Team hat an allen Ecken und Enden der Welt hart gearbeitet, um euch diese neue Version zu präsentieren, und wir fühlen uns sehr geehrt, dass ihr sie spielen wollt.\n\nWir hoffen, Sie haben genauso viel Spaß beim Spielen von Kaiserreich wie wir bei der Erstellung.!"
 
 ### Career Profile ###
 KAISERREICH_CAREER_PROFILE: "Kaiserreich Deutsch"
@@ -260,11 +279,15 @@ NAME_THEME_ROYAL_BARGE: "Königliche Barke"
 NAME_THEME_ROYAL_HOUSES: "Königshäuser und Adelige"
 NAME_THEME_MOUNTAINS: "Berge"
 NAME_THEME_INSPIRATIONAL: "Inspirierend"
-NAME_THEME_STATES_CITIES: "States & Cities"
+NAME_THEME_STATES_CITIES: "Staaten & Städte"
+ NAME_THEME_GENERALS: "Generäle"
+ NAME_THEME_CALIPHS: "Kalifen"
 
 ### Second in Command ###
 second_in_command_slot: "Stellvertretender Befehlshaber"
 second_in_command: "Stellvertretender Befehlshaber"
+ second_in_command_cost_factor: "Kosten Stellvertretender Befehlshaber"
+ second_in_command_cost_factor_tooltip: "$second_in_command_cost_factor$: $RIGHT|-=%0$"
 
 ### Character Tooltips ###
 is_dead: "Ist verstorben"
@@ -274,6 +297,15 @@ is_second_in_command: "Ist der stellvertretende Befehlshaber"
 is_second_in_command_NOT: "Ist nicht der stellvertretende Befehlshaber"
 
 character_event_only: "Hinzugefügt durch Ereignis"
+
+ is_monarch: "Ist ein Monarch"
+ is_monarch_NOT: "Ist kein Monarch"
+
+ is_regent: "Ist als Regent tätig"
+ is_regent_NOT: "Ist nicht als Regent tätig"
+
+ is_monarchy: "§Y[ROOT.GetNameWithFlag]§! ist eine §YMonarchie§!"
+ is_monarchy_NOT: "[ROOT.GetNameWithFlag] ist keine §YMonarchie§!"
 
 ### Mobilisation Effects ###
 disband_ten_percent_units: "Löst §Y10%§! aller bestehenden Divisionen unter Beibehaltung ihrer Ausrüstung auf."

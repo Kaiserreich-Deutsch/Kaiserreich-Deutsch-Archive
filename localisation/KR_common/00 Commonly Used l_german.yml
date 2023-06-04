@@ -1,7 +1,5 @@
 ﻿l_german:
-
 ##Übersetzt von Thylon##
-
 ### Regular Tooltips (for use in custom_effect_tooltip) ###
 tooltip_white_line: "   \n"
 
@@ -115,6 +113,9 @@ offmap_dockyards_tooltip: "Schiffswerften außerhalb der Karte hinzufügen"
 daily_popularity_drift: "Tägliche Unterstützung für die regierenden Partei"
 daily_non_ruling_popularity_drift: "Tägliche Unterstützung für die Nicht-Regierungsparteien"
 
+ cic_from_target_factor_tooltip: "Zivile Industrie aus dem Zielland"
+ mic_from_target_factor_tooltip: "Militärindustrie aus dem Zielland"
+
 ### Modifiers (for use as tooltips in variable effects) ###
 consumer_goods_tooltip: "$MODIFIER_CONSUMER_GOODS_FACTOR$: $RIGHT|H=%1$"
 factory_output_tooltip: "$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: $RIGHT|+=%$"
@@ -127,7 +128,7 @@ research_speed_factor_tooltip: "$MODIFIER_RESEARCH_SPEED_FACTOR$: $RIGHT|%=+$"
 
 max_efficiency_tooltip: "$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: $RIGHT|=%+$"
 start_efficiency_tooltip: "$MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR$: $RIGHT|=%+$"
-efficiency_gain_tooltip: "$MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR$: $RIGHT|=%+$"
+efficiency_gain_tooltip: "$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: $RIGHT|=%+$"
 line_change_efficiency_tooltip: "$MODIFIER_LINE_CHANGE_PRODUCTION_EFFICIENCY_FACTOR$: $RIGHT|=%+$"
 
 industrial_factory_donations_tooltip: "$MODIFIER_INDUSTRIAL_FACTORY_DONATIONS$: $RIGHT|+=0$"
@@ -142,6 +143,18 @@ stability_weekly_tooltip: "$MODIFIER_STABILITY_WEEKLY$: $RIGHT|=%+$"
 party_popularity_stability_factor_tooltip: "$MODIFIER_STABILITY_POPULARITY_FACTOR$: $RIGHT|=%+$"
 war_support_tooltip: "$MODIFIER_WAR_SUPPORT_FACTOR$: $RIGHT|=%+$"
 war_support_weekly_tooltip: "$MODIFIER_WAR_SUPPORT_WEEKLY$: $RIGHT|=%+$"
+
+ political_advisor_cost_factor_tooltip: "$political_advisor_cost_factor$: $RIGHT|-=%0$"
+ army_chief_cost_factor_tooltip: "$army_chief_cost_factor$: $RIGHT|-=%0$"
+ navy_chief_cost_factor_tooltip: "$navy_chief_cost_factor$: $RIGHT|-=%0$"
+ air_chief_cost_factor_tooltip: "$air_chief_cost_factor$: $RIGHT|-=%0$"
+ high_command_cost_factor_tooltip: "$high_command_cost_factor$: $RIGHT|-=%0$"
+ theorist_cost_factor_tooltip: "$theorist_cost_factor$: $RIGHT|-=%0$"
+ tank_manufacturer_cost_factor_tooltip: "$tank_manufacturer_cost_factor$: $RIGHT|-=%0$"
+ naval_manufacturer_cost_factor_tooltip: "$naval_manufacturer_cost_factor$: $RIGHT|-=%0$"
+ aircraft_manufacturer_cost_factor_tooltip: "$aircraft_manufacturer_cost_factor$: $RIGHT|-=%0$"
+ materiel_manufacturer_cost_factor_tooltip: "$materiel_manufacturer_cost_factor$: $RIGHT|-=%0$"
+ industrial_concern_cost_factor_tooltip: "$industrial_concern_cost_factor$: $RIGHT|-=%0$"
 
 monthly_population_tooltip: "$MODIFIER_GLOBAL_MONTHLY_POPULATION$: $RIGHT|=%+1$"
 
@@ -292,6 +305,10 @@ CP_95_tooltip: "Es kostet $CP_95_blocked$ die Entscheidung zu treffen"
 CP_100: "£command_power §H100§!"
 CP_100_blocked: "£command_power §R100§!"
 CP_100_tooltip: "Es kostet $CP_100_blocked$ die Entscheidung zu treffen"
+
+ CP_80_PP_20: "£command_power §H80§! £pol_power §H20§!"
+ CP_80_PP_20_blocked: "£command_power §R80§! £pol_power §R20§!"
+ CP_80_PP_20_tooltip: "Es kostet $CP_80_PP_20_blocked$, die Entscheidung zu treffen"
 
 army_xp_5: "£army_experience §H5§!"
 army_xp_5_blocked: "£army_experience §R5§!"

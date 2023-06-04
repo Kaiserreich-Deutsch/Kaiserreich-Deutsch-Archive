@@ -1,8 +1,6 @@
 ﻿l_german:
 #§YGeneral Description\nBorn:§! §gMonth day, year, in place, Croatia-Slavonia, Austria-Hungary§!\n§YMilitary Career:§! §gtext
-
 ##Übersetzt von Thylon##
-
 ### Country Names ###
 CRO: "Croatia"
 CRO_ADJ: "Croatian"
@@ -93,6 +91,7 @@ illyria.5.a: "Wir haben gearbeitet, wir arbeiten und wir werden noch mehr arbeit
 
 ### Characters ###
 CRO_stjepan_radic: "Stjepan Radić"
+ CRO_srdan_budisavljevic: "Srđan Budisavljević"
 CRO_ivo_pillar: "Ivo Pillar"
 CRO_vitomir_korac: "Vitomir Korać"
 CRO_vladimir_copic: "Vladimir Ćopić"

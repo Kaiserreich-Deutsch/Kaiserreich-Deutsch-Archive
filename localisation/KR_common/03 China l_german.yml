@@ -58,8 +58,7 @@ china_demand_submission_desc: "Die regionalen Behörden in [FROM.Capital.GetCapi
 china_integrate_subjects: "Stärkere Integration von [FROM.GetNameDef]"
 china_integrate_subjects_desc: "Obwohl die Führung in [FROM.Capital.GetCapitalVictoryPointName] dankenswerterweise Einsicht gezeigt und beschlossen hat, sich uns anzuschließen, müssen wir noch weiter gehen, wenn wir die Ära der Warlords wirklich beenden wollen. Wir werden uns bemühen, die Verwaltung in [FROM.GetAdjective] näher an die unsere heranzuführen."
 
-china_integration_timer: "PLACEHOLDER: [Overlord.GetNameDef] Stärkt die Integration"
-china_integration_timer_desc: "PLACEHOLDER"
+china_integration_timer: "[ROOT.overlord.GetNameDef] Stärkt die Integration"
 
 china_demand_annexation: "Fordert die Annexion von [FROM.GetNameDef]"
 china_demand_annexation_desc: "Da unsere eigenen Magistrate bereits in [FROM.Capital.GetCapitalVictoryPointName] und in den Reihen von [FROM.GetAdjective] eingebettet sind, müssen wir nur noch die endgültige Unterwerfung von [FROM.GetLeader] unter unsere Sache sicherstellen. Ihre Autonomie, die nur noch auf dem Papier besteht, soll beendet werden."
@@ -145,6 +144,9 @@ all_chinese_countries_tt_cap: "Alle chinesischen Staaten"
 china_can_core_through_compliance: "Chinesische Länder können zu Kernstaaten werden, wenn sie §Hdurschnittlich 50% Gehorsam haben§!.\nDie §H$territorial_integration$§! Besetzungsrichtlinien kann in besetzten chinesischen Staaten verwendet werden."
 china_compliance_gain_plus_one: "(§Y$all_chinese_countries_tt_cap$§!) $MODIFIER_COMPLIANCE_GAIN_ADD$: [?0.01|+=%%]"
 china_resistance_target_minus_ten_percent: "(§Y$all_chinese_countries_tt_cap$§!) $MODIFIER_RESISTANCE_TARGET$: [?-0.1|-=%0]"
+
+ owner_of_beijing_has_wargoal_against_ROOT: "§YBesitzer§! von §Y[608.GetName]§!: Hat ein Kriegsziel gegen §Y[ROOT.GetNameWithFlag]§!"
+ owner_of_beijing_has_war_with_wargoal_against_ROOT: "§YBesitzer§! von §Y[608.GetName]§!: Hat einen Krieg mit aktivem Kriegsziel gegen §Y[ROOT.GetNameWithFlag]§!"
 
 ### Army Reform
 china_army_decisions: "Armeereform"

@@ -114,6 +114,7 @@
  IRE_ASKJOINME_desc: "Deutschland ist unser natürlicher Verbündeter, ohne den wir immer noch unter britischer Herrschaft stehen würden. Wir sind es ihnen schuldig, sie in ihrem Kampf zu unterstützen."
  IRE_KAISERFRIEND: "Eine Pragmatische Freundschaft"
  IRE_KAISERFRIEND_desc: "Wir sind zwar nicht bereit, in den Krieg zu ziehen und die Unabhängigkeit Irlands oder den Tod vieler junger Iren zu riskieren, aber wir könnten Deutschland erlauben, seine Streitkräfte in Irland zu stationieren und im Gegenzug Schutz zu gewähren."
+ faction_joining_IRE_GER: "Aufgrund britischer Provokationen hat sich [IRE.GetName] der [GER.GetFactionName] angeschlossen, in der Hoffnung, dass der Kaiser sie vor syndikalistischen Machenschaften schützen kann."
 
  IRE_ALONE: "Weder König noch Kaiser"
  IRE_ALONE_desc: "'Wir dienen weder König noch Kaiser' stand auf dem Banner an der Liberty Hall, und obwohl wir den Deutschen für ihre Hilfe bei der Sicherung unserer Freiheit dankbar sind, müssen wir unsere Neutralität wahren."
@@ -1245,7 +1246,7 @@
 
 # Introduction Events
  ireland.2.t: "Der Zustand der Republik, 1936"
- ireland.2.d: "Nach zahllosen Jahren mühsamer Rebellion und unterdrückerischer Britischer Herrschaft hat das Irische Volk seine Freiheit und sein Land zurückgewonnen. Doch als ein Feind besiegt war, erhob sich an seiner Stelle ein anderer, der vielleicht noch gefährlicher ist. Michael Collins ist ein Diktator wider Willen, der die Unabhängigkeit seines Landes um jeden Preis verteidigen will, doch seine politischen Feinde sind zahlreich, denn die Wahlen von 1937 rücken näher. Irland ist ein Pulverfass, und es ist nur eine Frage der Zeit, bis es explodiert."
+ ireland.2.d: "Nach zahllosen Jahren mühsamer Rebellion und unterdrückerischer Britischer Herrschaft hat das Irische Volk seine Freiheit und sein Land zurückgewonnen. Doch als ein Feind besiegt war, erhob sich an seiner Stelle ein anderer, der vielleicht noch gefährlicher ist.\n\nMichael Collins ist ein Diktator wider Willen, der die Unabhängigkeit seines Landes um jeden Preis verteidigen will, doch seine politischen Feinde sind zahlreich, denn die Wahlen von 1937 rücken näher.\n\nIrland ist ein Pulverfass, und es ist nur eine Frage der Zeit, bis es explodiert."
  ireland.2.a: "Es sind turbulente Zeiten."
 
  ireland.53.t: "Probleme im Norden"

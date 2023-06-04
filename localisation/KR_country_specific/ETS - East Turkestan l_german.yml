@@ -1,7 +1,5 @@
 ﻿l_german:
-
 ##Übersetzt von Thylon##
-
 ETS_focus: "Schwerpunktbaum von Ostturkestan"
 
 ### Parties ###
@@ -650,20 +648,6 @@ ETS_radical_socialist: "Volksrepublik Ostturkestan"
 ETS_radical_socialist_ADJ: "Ostturkestanisch"
 ETS_radical_socialist_DEF: "die Volksrepublik Ostturkestan"
 
-ETS_puppet: "Xinjiang"
-ETS_puppet_ADJ: "Xinjiang"
-ETS_puppet_DEF: "Xinjiang"
-
-ETS_puppet_totalist: "Volksrepublik Xinjiang"
-ETS_puppet_totalist_ADJ: "Xinjiang"
-ETS_puppet_totalist_DEF: "die Volksrepublik Xinjiang"
-ETS_puppet_syndicalist: "Volksrepublik Xinjiang"
-ETS_puppet_syndicalist_ADJ: "Xinjiang"
-ETS_puppet_syndicalist_DEF: "die Volksrepublik Xinjiang"
-ETS_puppet_radical_socialist: "Volksrepublik Xinjiang"
-ETS_puppet_radical_socialist_ADJ: "Xinjiang"
-ETS_puppet_radical_socialist_DEF: "die Volksrepublik Xinjiang"
-
 ### Characters ###
 ETS_ishaq_bey: "Ishaq Bey"
 ETS_isa_alptekin: "Isa Alptekin"
@@ -687,3 +671,4 @@ ETS_id_mirab: "Id Mirab"
 ETS_li_huanzhang: "Li Huanzhang"
 ETS_gheni_batur: "Gheni Batur"
 ETS_abdul_niyaz_sijiang: "Abdul Niyaz Sijiang"
+

@@ -1,7 +1,5 @@
 ﻿l_german:
-
 ##Übersetzt von Thylon##
-
 dei_focus: "Schwerpunktbaum von Niederländisch-Indien"
 
 ### Events ###
@@ -1154,7 +1152,7 @@ dei_palar_appointed: "Nico Palar wurde zu unserem Generalgouverneur ernannt."
 dei_long_name_appointed: "Alidius Tjarda van Starkenborgh-Stachouwer wurde zu unserem Generalgouverneur ernannt."
 dei_furstner_appointed: "Johannes Furstner wurde zu unserem Generalgouverneur ernannt."
 sutardjo_petition_rejected: "Die Petition von Sutardjo wurde abgelehnt."
-insulindian_revolution_fired: "Die Nationale Revolution der Insulaner ist noch nicht abgeschlossen."
+insulindian_revolution_fired: "Die insulindische Nationale Revolution hat stattgefunden."
 insulindian_revolution_crushed: "Die insulindische Nationale Revolution wurde niedergeschlagen."
 DEI_merc_more_pay: "Lockt sie mit höheren Gehältern."
 DEI_merc_longer_c: "Lockt sie mit längeren Verträgen."
@@ -1190,6 +1188,7 @@ dei_rebel_hit_strength_nap_desc: "Die Verhaftung willkürlicher Anführer, stren
 dei_rebel_hit_strength_ap_desc: "Wir lassen uns nicht länger von den \"liberalen\" Regeln der Vergangenheit aufhalten und werden jeden finden und vernichten, der es wagt, unsere Rechte auf diese Inseln in Frage zu stellen."
 
 ### Tooltips ###
+ dei_activates_INS_mission_tt: "\n§RSollte die Bewegung des Nationalen Erwachens der Insulinder stark genug werden, werden sie sich bald gegen uns auflehnen. Entscheidungen, die helfen, den wachsenden Widerstand der Eingeborenen einzudämmen, sind jetzt freigeschaltet.§!"
 dei_strength_up: "Die §YStärke§! der Unabhängigkeitsbewegungen §Rwächst§! leicht.\n"
 dei_strength_upup: "Die §YStärke§! der Unabhängigkeitsbewegungen §Rwächst§!.\n"
 dei_unity_up: "Die §YEinheit§! der Unabhängigkeitsbewegungen §Rwächst§! leicht.\n"

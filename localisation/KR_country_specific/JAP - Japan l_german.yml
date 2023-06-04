@@ -521,6 +521,7 @@
  JAP_invest_timer: "War in den letzten zwölf Monaten Ziel von Investitionen"
  JAP_controls_korea: "§YKorea§!: ist im Besitz von §Y[JAP.GetNameDef]§! oder eines Verbündeten"
  JAP_controls_korea_NOT: "§YKorea§!: ist nicht im Besitz von §Y[JAP.GetNameDef]§! oder einem Verbündeten"
+ JAP_economic_sphere_member: "Ist Mitglied des japanischen Wirtschaftsraums"
 
 ### Decisions ###
  JAP_part_one_land_reform: "$has_completed_decision$$JAP_land_reform_1$§!"
@@ -1122,11 +1123,13 @@
  KR_co_prosperity_sphere_effects_JAP: "$MODIFIER_CONSUMER_GOODS_FACTOR$: [?global.sphere_goods_boost|=%H]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?global.sphere_industry_boost|+=%]\nn$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: [?global.sphere_industry_boost|+=%]"
  KR_co_prosperity_sphere_effects: "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?0.2|+=%]\nRessourcengewinn-Effizienz: [?global.sphere_resources_boost_member|+=%]\nn$MODIFIER_CONSUMER_GOODS_FACTOR$: [?global.sphere_goods_boost_member|=%1H]"
 
-### Events ###
+### Intro Screen ###
 
  japdom.1.t: "Das verlorene Jahrzehnt hinter sich lassen"
  japdom.1.d: "Die 1920er Jahre waren in Japan von wirtschaftlicher Depression und politischer Instabilität geprägt und werden als das "verlorene Jahrzehnt" bezeichnet. Die Notlage war in der Landwirtschaft besonders groß und führte zu einem massiven demografischen Wandel, da die Landwirte aus den ländlichen Gebieten in die Städte flohen, was den Arbeitsmarkt überschwemmte und die Löhne weiter drückte.\n\nNachdem Inukai die von der Kenseikai geführte "Konstitutionelle Koalition" verlassen und die Regierung übernommen hatte, dehnten er und sein Kabinett den japanischen Einflussbereich erfolgreich auf die Mandschurei und die Randgebiete Sibiriens aus und erwarben damit einen wichtigen Exportmarkt für die japanische Wirtschaft, doch die Lage in der Landwirtschaft verschlechterte sich weiter, da billige Agrarimporte aus der Mandschurei auf das Land übergriffen. Zu Beginn des Jahres 1936 haben die fortgesetzte Wiederaufrüstung und die Investitionen des Staates die industrielle Wirtschaft vollständig wieder aufgebaut, doch das Problem der ländlichen Armut bleibt chronisch und ungelöst."
  japdom.1.a: "Gaman shiyou."
+
+### Events ###
 
  japdom.2.t: "Auflösung des Reichstags"
  japdom.2.d: "Die vierjährige Amtszeit des 1932 gewählten Reichstags läuft aus. Premierminister Inukai Tsuyoshi hat dazu aufgerufen, so bald wie möglich allgemeine Wahlen abzuhalten."

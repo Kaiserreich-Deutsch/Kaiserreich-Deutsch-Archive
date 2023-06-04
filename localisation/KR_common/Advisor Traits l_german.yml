@@ -1,14 +1,9 @@
 ﻿l_german:
-
 ##Übersetzt von Thylon##
 
-##################################
 ### Generic Political Advisors ###
-##################################
 
 ### Placeholder Generic Characters ###
-generic_leader: ""
-
 KR_generic_parliament_sic: "Ermächtigte Legislative"
 KR_generic_authoritarian_sic: "Ermächtigte Exekutive"
 KR_generic_socialist_sic: "Ermächtigte Gewerkschaften"
@@ -413,12 +408,44 @@ KR_foreign_buddhist: "Ausländischer Buddhist"
 ### UKR ###
 KR_socialist_moderate: "Sozialistischer Moderater"
 KR_red_divine: "Rot Göttlich"
-KR_chaplain_of_the_ukrainian_revolution: "Geistlicher der Revolution"
 KR_geopolitical_theorist: "Geopolitischer Theoretiker"
 KR_natiocrat: "Natiocrat"
 KR_cooperatives_proponent: "Genossenschaften Antragsteller"
 KR_man_of_the_centre: "Mann der Mitte"
-KR_radical_thinker: "Radikaler Denker"
+ KR_voices_of_our_rebirth: "Die Stimmen unserer Wiedergeburt"
+ KR_council_of_jurors: "Vorsitzender des Rates der Juroren"
+ KR_millii_fyrka_frontman: "Millii Fyrka's Frontmann"
+ KR_representatives_of_protofis_1: "Vertreter von Protofis"
+ KR_representatives_of_protofis_2: "Vertreter von Protofis"
+ KR_evil_genius: "Teuflisches Genie"
+ KR_radical_firebrand: "Radikaler Brandstifter"
+ KR_idealistic_communard: "Idealistischer Kommunarde"
+ KR_charming_romantic: "Ein charmanter Romantiker"
+ KR_autarkist_revolutionary: "Autarker Revolutionär"
+ KR_cooperative_organiser: "Kooperativer Organisator"
+ KR_exceptional_acamedician: "Außergewöhnlicher Akademiker"
+ KR_fading_forebearer: "Verblassender Vorbote"
+ KR_establishment_navigator: "Establishment Navigator"
+ KR_marxist_doctrinaire: "Marxistischer Doktrinär"
+ KR_cinema_genius: "Genie des Films"
+ UKR_metropolitan_of_kyiv_and_all_ukraine: "Metropolit von Kiew und der ganzen Ukraine"
+ KR_MHC_maknovite: "Makhnovite\n(Experte)"
+ KR_MHC_propaganda: "Propaganda\n(Experte)"
+ KR_commissioner_of_poale_zion: "Kommissar von Poale Zion"
+ KR_mathematical_pioneer: "Mathematischer Pionier"
+ KR_incendiary_demagogue: "Aufrührerischer Demagoge"
+ KR_idealistic_communard1: "Idealistischer Kommunarde"
+ KR_idealistic_communard2: "$KR_idealistic_communard1$"
+ KR_idealistic_communard3: "$KR_idealistic_communard1$"
+ KR_idealistic_communard4: "$KR_idealistic_communard1$"
+ KR_idealistic_communard5: "$KR_idealistic_communard1$"
+ KR_hetman_in_all_but_name_sic: "Hetman in allen außer dem Namen"
+ KR_faithful_lieutenant_sic: "Treuer Leutnant"
+ KR_pedantic_polymath_sic: "Pedantischer Polymath"
+ KR_devoted_progressivist_sic: "Engagierter Progressivist"
+ KR_soldier_orator_sic: "Soldaten-Orator"
+ KR_mass_offensive_school: "Theoretiker der Massenoffensive"
+ KR_mechanised_wave_school: "Theoretiker der Mechanisierten Welle"
 
 ### USA ###
 KR_agrarian_expert: "Landwirtschaftsexperte"
@@ -644,3 +671,4 @@ KR_MHC_airborne_3: "Luftlandung\n(Genie)"
 KR_MHC_pilot_training_1: "Pilotenausbildung\n(Spezialist)"
 KR_MHC_pilot_training_2: "Pilotenausbildung\n(Experte)"
 KR_MHC_pilot_training_3: "Pilotenausbildung\n(Genie)"
+

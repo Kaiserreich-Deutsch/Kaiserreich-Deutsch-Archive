@@ -1,7 +1,5 @@
 ﻿l_german:
-
 ##Übersetzt von Thylon##
-
 ### Companies ###
 putilov: "Putilovskiy Zavod"
 oktava: "Oktava"
@@ -654,7 +652,7 @@ RUS_Empower_The_Duma_tooltip: "§CDamit wird die Republik in ihrer jetzigen Form
 RUS_The_Second_Revolution_tooltip: "§CDies wird zu einer proletarischen Diktatur führen, ähnlich derjenigen, die vor mehr als 15 Jahren verschwunden ist.§!\n"
 RUS_A_Firm_Hand_savinkov_tooltip: "§CSawinkow wird offiziell zum neuen Vozhd der Republik ernannt.§!\n"
 RUS_A_Firm_Hand_military_tooltip: "§CRussland soll eine Militärdiktatur sein!§!\n"
-RUS_Expansion_Of_The_Rumyantsev_Library_tooltip: "Modifiziert §HEine konstitutionelle Monarchie§! oder §HImperialer Ruhm§! um\n$MODIFIER_RESEARCH_SPEED_FACTOR$: [?0.03|+=%]"
+RUS_Expansion_Of_The_Rumyantsev_Library_tooltip: "Modifiziert §HEine konstitutionelle Monarchie§! oder §HImperialer Ruhm§! um\n$MODIFIER_RESEARCH_SPEED_FACTOR$: [?0.05|+=%]"
 
 RUS_paratrooper_tooltip: "Eine £nato_unit_paratrooper_icon_small  §HFallschirmjäger§! Division wird eingesetzt werden."
 
@@ -1789,8 +1787,8 @@ RUS_mikhail_kedrov: "Mikhail Kedrov"
 RUS_nestor_monastyrev: "Nestor Monastyrev"
 
 RUS_aleksandr_nemits: "Aleksandr Nemits"
-RUS_sergey_rudenko: "Sergey Rudenko"
-RUS_sergey_korolyov: "Sergey Korolyov"
+RUS_aleksandr_novikov: "Aleksandr Novikov"
+RUS_mikhail_yangel: "Mikhail Yangel"
 RUS_igor_kurchatov: "Igor Kurchatov"
 
 RUS_vyacheslav_tkachov: "Vyacheslav Tkachov"
