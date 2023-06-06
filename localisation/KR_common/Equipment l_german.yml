@@ -1,7 +1,9 @@
 ﻿l_german:
 
 #Reorganised painfully by Beelzebub and Zankoas
+
 ##Übersetzt von Thylon##
+
 ###################################
 ### Country-Specific Unit Names ###
 ###################################
@@ -253,6 +255,7 @@ AMA_train_equipment_1: "Class 238 Armstrong Whitworth 2-6-2"
 AMA_train_equipment_2: "Class 1015 Alco-Schenectady 4-10-2"
 AMA_train_equipment_3: "Class 400 Beyer, Peacock 2-4-2"
 #AMA_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Angola ###
 ###
@@ -336,6 +339,7 @@ ARG_train_equipment_1: "Ferrocarril Buenos Aires al Pacífico  Class 2351"
 ARG_train_equipment_2: "Ferrocarril Buenos Aires al Pacífico  2-8-2T 'Mikado'"
 ARG_train_equipment_3: "Ferrocarril Buenos Aires al Pacífico  4-6-4T"
 #ARG_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Anqing Clique ###
 ###
@@ -559,45 +563,45 @@ ASY_rocket_artillery_equipment_2_short: "Land Mattress"
 ### Land ###
 
 #Infantry Equip
- #Mannlicher M1895
+#Mannlicher M1895
 AUS_infantry_equipment_0: "Karabiner Modell 1895/30"
 AUS_infantry_equipment_0_short: "Mannlicher M.95/30"
 AUS_infantry_equipment_0_desc: "Das Mannlicher Modell 1895/1930 (deutsch: Infanterie Repetier-Gewehr M.95) war das Dienstgewehr der österreichisch-ungarischen Streitkräfte während des Weltkriegs. Es wurde von Ferdinand von Mannlicher entwickelt und verfügte über einen Bolzenverschluss mit geradem Zug, der im Vergleich zu seinen Zeitgenossen eine höhere Feuergeschwindigkeit ermöglichte, was ihm bei den österreichischen Truppen den Spitznamen Ruck-Zuck und bei den Italienern den Spitznamen Ta-Pum einbrachte. Das italienische Lied \"Ta pum!\" aus dem Weltkrieg bezieht sich auf dieses Gewehr. Später, nach dem Krieg, wurden die meisten Gewehre zu Karabinern umgebaut."
- #FÉG 35M
+#FÉG 35M
 AUS_infantry_equipment_1: "Karabiner Modell 1935"
 AUS_infantry_equipment_1_short: "FÉG M.35"
 AUS_infantry_equipment_1_desc: "Der Weltkrieg machte die Unzulänglichkeiten des M.95 nur allzu deutlich, vor allem die relativ leistungsschwache Rundkopfpatrone und die erforderliche Wartung für das Geradezugsystem. Steyr entwickelte die 8x56mm \"Spitzer\"-Patrone, die als Grundlage für eine neue Waffengeneration dienen und das M.95 zu seiner vollen Leistungsfähigkeit bringen sollte. Bei der Gewehrprüfung 1935 setzte sich die ungarische FÉG-Konstruktion, die auf dem ausgezeichneten Drehverschluss der Mannlicher-Schönauer basierte, durch und wurde angenommen."
- #Danuvia 39M
+#Danuvia 39M
 AUS_infantry_equipment_2: "Maschinenpistole Modell 1939"
 AUS_infantry_equipment_2_short: "Danuvia M.39"
- AUS_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
- #ZK 412/MK SS-42
- AUS_infantry_equipment_3: "Maschinenkarabiner Modell 1942"
- AUS_infantry_equipment_3_short: "Zbrojovka Brno M.42"
- AUS_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-\"Rapid\"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
- #MP 34:
- AUS_infantry_weapons2: "Maschinenpistole Modell 1934"
- AUS_infantry_weapons2_short: "Steyr-Solothurn M.34"
- AUS_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
- #ZK 383:
- AUS_improved_infantry_weapons_2: "Maschinenpistole Modell 38"
- AUS_improved_infantry_weapons_2_short: "Zbrojovka Brno M.38"
- AUS_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
- #Danuvia 43M:
- AUS_advanced_infantry_weapons2: "Maschinenpistole Modell 1943"
- AUS_advanced_infantry_weapons2_short: "Danuvia M.43"
- AUS_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren, klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dass die Feuerkraft darunter litt."
- #M.SS.41
+AUS_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
+#ZK 412/MK SS-42
+AUS_infantry_equipment_3: "Maschinenkarabiner Modell 1942"
+AUS_infantry_equipment_3_short: "Zbrojovka Brno M.42"
+AUS_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-\"Rapid\"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
+#MP 34:
+AUS_infantry_weapons2: "Maschinenpistole Modell 1934"
+AUS_infantry_weapons2_short: "Steyr-Solothurn M.34"
+AUS_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
+#ZK 383:
+AUS_improved_infantry_weapons_2: "Maschinenpistole Modell 38"
+AUS_improved_infantry_weapons_2_short: "Zbrojovka Brno M.38"
+AUS_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
+#Danuvia 43M:
+AUS_advanced_infantry_weapons2: "Maschinenpistole Modell 1943"
+AUS_advanced_infantry_weapons2_short: "Danuvia M.43"
+AUS_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dabei an Feuerkraft einzubüßen."
+#M.SS.41
 AUS_infantry_at: "Panzerjägerbüchse M.38"
- #44M kézi páncéltörő vető
+#44M kézi páncéltörő vető
 AUS_infantry_at2: "Raketenpanzerjägerbüchse M.42"
- #Schwarzlose + Minenwerfer M.14
+#Schwarzlose + Minenwerfer M.14
 AUS_support_weapons: "MG M.07/12 & MW M.14"
- #ZB-26 + Brandt mortar
+#ZB-26 + Brandt mortar
 AUS_support_weapons2: "MG M.26 & GrW M.33"
- #ZB-30 + minomet vz. 36
+#ZB-30 + minomet vz. 36
 AUS_support_weapons3: "MG M.30 & GrW M.36"
- #Vz. 52 + 43 M. 12 cm aknavető
+#Vz. 52 + 43 M. 12 cm aknavető
 AUS_support_weapons4: "MG M.45 & GrW M.43"
 
 #Motorised
@@ -790,6 +794,7 @@ BAH_train_equipment_1: "Class 238 Armstrong Whitworth 2-6-2"
 BAH_train_equipment_2: "Class 1015 Alco-Schenectady 4-10-2"
 BAH_train_equipment_3: "Class 400 Beyer, Peacock 2-4-2"
 #AMA_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Vasconia ###
 ###
@@ -1204,6 +1209,7 @@ BOL_train_equipment_1: "FC de Bolivia 2-8-0"
 BOL_train_equipment_2: "FC de Bolivia 2-8-2"
 #BOL_train_equipment_3: "FC de Bolivia"
 #BOL_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Bosnia ###
 ###
@@ -1211,25 +1217,25 @@ BOL_train_equipment_2: "FC de Bolivia 2-8-2"
 ### Land ###
 BOS_infantry_equipment_0: "Karabin Model 1895/30"
 BOS_infantry_equipment_0_short: "Mannlicher M.95/30"
-BOS_infantry_equipment_0_desc: "Das Mannlicher Karabin Model 1895/1930 (deutsch: Infanterie Repetier-Gewehr M.95) war das Dienstgewehr der österreichisch-ungarischen Streitkräfte während des Weltkriegs. Das von Ferdinand von Mannlicher entworfene Gewehr hatte einen Geradezugbolzenverschluss, der im Vergleich zu seinen Zeitgenossen eine höhere Feuergeschwindigkeit ermöglichte, was ihm bei den österreichischen Truppen den Spitznamen Ruck-Zuck und bei den Italienern den Spitznamen Ta-Pum einbrachte. Das italienische Lied \"Ta pum!\" aus dem Weltkrieg bezieht sich auf dieses Gewehr. Später, nach dem Krieg, wurden die meisten Gewehre in die Karabinerform umgewandelt."
+BOS_infantry_equipment_0_desc: "Das Mannlicher Karabin Modell 1895/1930 (deutsch: Infanterie Repetier-Gewehr M.95) war das Dienstgewehr der österreichisch-ungarischen Streitkräfte während des Weltkriegs. Das von Ferdinand von Mannlicher entworfene Gewehr hatte einen Geradezugbolzenverschluss, der im Vergleich zu seinen Zeitgenossen eine höhere Feuergeschwindigkeit ermöglichte, was ihm bei den österreichischen Truppen den Spitznamen \"Ruck-Zuck\" und bei den Italienern den Spitznamen \"Ta-Pum\" einbrachte. Das italienische Lied \"Ta pum!\" aus dem Weltkrieg bezieht sich auf dieses Gewehr. Später, nach dem Krieg, wurden die meisten Gewehre zu Karabinern umgebaut."
 BOS_infantry_equipment_1: "Karabin Model 1935"
 BOS_infantry_equipment_1_short: "FÉG M.35"
-BOS_infantry_equipment_1_desc: "Der Weltkrieg machte die Unzulänglichkeiten des M.95 nur allzu deutlich, vor allem die relativ leistungsschwache Rundkopfpatrone und die erforderliche Wartung für das Geradezugsystem. Steyr entwickelte die 8x56mm \"Spitzer\"-Patrone, die als Grundlage für eine neue Waffengeneration dienen und das M.95 zu seiner vollen Leistungsfähigkeit bringen sollte. Bei der Gewehrprüfung 1935 setzte sich die ungarische FÉG-Konstruktion durch, die auf dem ausgezeichneten Drehverschluss der Mannlicher-Schönauer basierte und angenommen wurde."
- BOS_infantry_equipment_2: "Kratka strojnica Model 1939"
- BOS_infantry_equipment_2_short: "Danuvia M.39"
- BOS_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
- BOS_infantry_equipment_3: "Strojokarabin Model 1942"
- BOS_infantry_equipment_3_short: "Zbrojovka Brno M.42"
- BOS_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-\"Rapid\"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
- BOS_infantry_weapons2: "Kratka strojnica Model 1934"
- BOS_infantry_weapons2_short: "Steyr-Solothurn M.34"
- BOS_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
- BOS_improved_infantry_weapons_2: "Kratka strojnica Model 38"
- BOS_improved_infantry_weapons_2_short: "Zbrojovka Brno M.38"
- BOS_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
- BOS_advanced_infantry_weapons2: "Kratka strojnica Model 1943"
- BOS_advanced_infantry_weapons2_short: "Danuvia M.43"
- BOS_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren, klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dass die Feuerkraft darunter litt."
+BOS_infantry_equipment_1_desc: "Der Weltkrieg machte die Unzulänglichkeiten des M.95 nur allzu deutlich, insbesondere die relativ leistungsschwache Rundkopfpatrone und die erforderliche Wartung des Geradezugsystems. Steyr entwickelte die 8x56mm \"Spitzer\"-Patrone, die als Grundlage für eine neue Waffengeneration dienen und das M.95 zu seiner vollen Leistungsfähigkeit bringen sollte. Bei der Gewehrprüfung 1935 setzte sich die ungarische FÉG-Konstruktion, die auf dem ausgezeichneten Drehverschluss der Mannlicher-Schönauer basierte, durch und wurde angenommen."
+BOS_infantry_equipment_2: "Kratka strojnica Model 1939"
+BOS_infantry_equipment_2_short: "Danuvia M.39"
+BOS_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
+BOS_infantry_equipment_3: "Strojokarabin Model 1942"
+BOS_infantry_equipment_3_short: "Zbrojovka Brno M.42"
+BOS_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-\"Rapid\"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
+BOS_infantry_weapons2: "Kratka strojnica Model 1934"
+BOS_infantry_weapons2_short: "Steyr-Solothurn M.34"
+BOS_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
+BOS_improved_infantry_weapons_2: "Kratka strojnica Model 38"
+BOS_improved_infantry_weapons_2_short: "Zbrojovka Brno M.38"
+BOS_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
+BOS_advanced_infantry_weapons2: "Kratka strojnica Model 1943"
+BOS_advanced_infantry_weapons2_short: "Danuvia M.43"
+BOS_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dabei an Feuerkraft einzubüßen."
 
 BOS_infantry_at: "Protioklop puška M.38"
 BOS_infantry_at2: "Protioklop Bacači Raketa M.42"
@@ -1368,6 +1374,7 @@ BRA_train_equipment_1: "Class 238 Armstrong Whitworth 2-6-2"
 BRA_train_equipment_2: "Class 1015 Alco-Schenectady 4-10-2"
 BRA_train_equipment_3: "Class 400 Beyer, Peacock 2-4-2"
 #AMA_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Urundi ###
 ###
@@ -1566,6 +1573,7 @@ WIF_train_equipment_1: "British Guiana Government Railway Sharp Stewart 0-6-0"
 WIF_train_equipment_2: "British Guiana Government Railway Sharp Stewart 2-4-2"
 #WIF_train_equipment_3: ""
 #WIF_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Pacific States ###
 ###
@@ -2229,19 +2237,19 @@ CRO_infantry_equipment_1_short: "FÉG M.35"
 CRO_infantry_equipment_1_desc: "Der Weltkrieg machte die Unzulänglichkeiten des M.95 nur allzu deutlich, vor allem die relativ leistungsschwache Rundkopfpatrone und die erforderliche Wartung für das Geradezugsystem. Steyr entwickelte die 8x56mm \"Spitzer\"-Patrone, die als Grundlage für eine neue Waffengeneration dienen und das M.95 zu seiner vollen Leistungsfähigkeit bringen sollte. Bei der Gewehrprüfung 1935 setzte sich die ungarische FÉG-Konstruktion, die auf dem ausgezeichneten Drehverschluss des Mannlicher-Schönauer basiert, durch und wurde angenommen."
 CRO_infantry_equipment_2: "Kratka strojnica Model 1939"
 CRO_infantry_equipment_2_short: "Danuvia M.39"
- CRO_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
- CRO_infantry_equipment_3: "Strojokarabin Model 1942"
- CRO_infantry_equipment_3_short: "Zbrojovka Brno M.42"
- CRO_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-\"Rapid\"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
- CRO_infantry_weapons2: "Kratka strojnica Model 1934"
- CRO_infantry_weapons2_short: "Steyr-Solothurn M.34"
- CRO_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
- CRO_improved_infantry_weapons_2: "Kratka strojnica Model 38"
- CRO_improved_infantry_weapons_2_short: "Zbrojovka Brno M.38"
- CRO_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
- CRO_advanced_infantry_weapons2: "Kratka strojnica Model 1943"
- CRO_advanced_infantry_weapons2_short: "Danuvia M.43"
- CRO_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren, klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dass die Feuerkraft darunter litt."
+CRO_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
+CRO_infantry_equipment_3: "Strojokarabin Model 1942"
+CRO_infantry_equipment_3_short: "Zbrojovka Brno M.42"
+CRO_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-\"Rapid\"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
+CRO_infantry_weapons2: "Kratka strojnica Model 1934"
+CRO_infantry_weapons2_short: "Steyr-Solothurn M.34"
+CRO_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
+CRO_improved_infantry_weapons_2: "Kratka strojnica Model 38"
+CRO_improved_infantry_weapons_2_short: "Zbrojovka Brno M.38"
+CRO_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
+CRO_advanced_infantry_weapons2: "Kratka strojnica Model 1943"
+CRO_advanced_infantry_weapons2_short: "Danuvia M.43"
+CRO_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dabei an Feuerkraft einzubüßen."
 
 CRO_infantry_at: "Protioklop puška M.38"
 CRO_infantry_at2: "Protioklop Bacači Raketa M.42"
@@ -2416,6 +2424,7 @@ CSA_train_equipment_1: "Pennsylvania I1s Class"
 CSA_train_equipment_2: "CSATC S160 Class"
 CSA_train_equipment_3: "American Locomotive Union FEF-3 'Working Man' Class"
 CSA_railway_gun_equipment_1: "8-inch Mk. VI"
+
 #Motorised
 
 #Dodge 1/2-ton 4x4 improved to GCKW 353 standard:
@@ -2557,19 +2566,19 @@ CZE_infantry_equipment_1_short: "FÉG vz. 35"
 CZE_infantry_equipment_1_desc: "Der Weltkrieg machte die Unzulänglichkeiten des M.95 nur allzu deutlich, vor allem die relativ leistungsschwache Rundkopfpatrone und die erforderliche Wartung für das Geradezugsystem. Steyr entwickelte die 8x56mm \"Spitzer\"-Patrone, die als Grundlage für eine neue Waffengeneration dienen und das M.95 zu seiner vollen Leistungsfähigkeit bringen sollte. Bei der Gewehrprüfung 1935 setzte sich die ungarische FÉG-Konstruktion, die auf dem ausgezeichneten Drehverschluss des Mannlicher-Schönauer basiert, durch und wurde angenommen."
 CZE_infantry_equipment_2: "Kulometná pistole vzor 1939"
 CZE_infantry_equipment_2_short: "Danuvia vz. 39"
- CZE_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
- CZE_infantry_equipment_3: "Kulometná karabina vzor 1942"
- CZE_infantry_equipment_3_short: "Zbrojovka Brno vz. 42"
- CZE_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-\"Rapid\"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
- CZE_infantry_weapons2: "Kulometná pistole vzor 1934"
- CZE_infantry_weapons2_short: "Steyr-Solothurn vz. 34"
- CZE_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
- CZE_improved_infantry_weapons_2: "Kulometná pistole vzor 38"
- CZE_improved_infantry_weapons_2_short: "Zbrojovka Brno vz. 38"
- CZE_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
- CZE_advanced_infantry_weapons2: "Kulometná pistole vzor 1943"
- CZE_advanced_infantry_weapons2_short: "Danuvia vz. 43"
- CZE_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren, klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dass die Feuerkraft darunter litt."
+CZE_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
+CZE_infantry_equipment_3: "Kulometná karabina vzor 1942"
+CZE_infantry_equipment_3_short: "Zbrojovka Brno vz. 42"
+CZE_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-\"Rapid\"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
+CZE_infantry_weapons2: "Kulometná pistole vzor 1934"
+CZE_infantry_weapons2_short: "Steyr-Solothurn vz. 34"
+CZE_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
+CZE_improved_infantry_weapons_2: "Kulometná pistole vzor 38"
+CZE_improved_infantry_weapons_2_short: "Zbrojovka Brno vz. 38"
+CZE_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
+CZE_advanced_infantry_weapons2: "Kulometná pistole vzor 1943"
+CZE_advanced_infantry_weapons2_short: "Danuvia vz. 43"
+CZE_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dabei an Feuerkraft einzubüßen."
 
 CZE_infantry_at: "Protipancéřová puška vzor 38"
 CZE_infantry_at2: "Protipancéřová Raketomet vzor 42"
@@ -3012,6 +3021,7 @@ DOM_train_equipment_1: "Ferrocarril Samaná-Santiago 1,067 mm"
 #DOM_train_equipment_2: ""
 #DOM_train_equipment_3: ""
 #DOM_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Ecuador ###
 ###
@@ -3032,6 +3042,7 @@ ECU_train_equipment_1: "FC Henschel 2-6-0"
 ECU_train_equipment_2: "FC Beyer Peacock 2-6-2"
 ECU_train_equipment_3: "FC Baldwin 2-8-0 d/w 54"
 #ECU_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Sultanate of Egypt ###
 ###
@@ -3795,19 +3806,19 @@ GAL_infantry_equipment_1_short: "FÉG wz. 35"
 GAL_infantry_equipment_1_desc: "Der Weltkrieg machte die Unzulänglichkeiten des M.95 nur allzu deutlich, vor allem die relativ leistungsschwache Rundkopfpatrone und die erforderliche Wartung für das Geradezugsystem. Steyr entwickelte die 8x56mm \"Spitzer\"-Patrone, die als Grundlage für eine neue Waffengeneration dienen und das M.95 zu seiner vollen Leistungsfähigkeit bringen sollte. Bei der Gewehrprüfung 1935 setzte sich die ungarische FÉG-Konstruktion, die auf dem ausgezeichneten Drehverschluss des Mannlicher-Schönauer basiert, durch und wurde angenommen."
 GAL_infantry_equipment_2: "Pistolet maszynowy wzór 1939"
 GAL_infantry_equipment_2_short: "Danuvia wz. 39"
- GAL_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
- GAL_infantry_equipment_3: "Karabinek maszynowy wzór 1942"
- GAL_infantry_equipment_3_short: "Zbrojovka Brno wz. 42"
- GAL_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-"Rapid"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
- GAL_infantry_weapons2: "Pistolet maszynowy wzór 1934"
- GAL_infantry_weapons2_short: "Steyr-Solothurn wz. 34"
- GAL_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
- GAL_improved_infantry_weapons_2: "Pistolet maszynowy wzór 38"
- GAL_improved_infantry_weapons_2_short: "Zbrojovka Brno wz. 38"
- GAL_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
- GAL_advanced_infantry_weapons2: "Pistolet maszynowy wzór 1943"
- GAL_advanced_infantry_weapons2_short: "Danuvia wz. 43"
- GAL_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren, klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dass die Feuerkraft darunter litt."
+GAL_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
+GAL_infantry_equipment_3: "Karabinek maszynowy wzór 1942"
+GAL_infantry_equipment_3_short: "Zbrojovka Brno wz. 42"
+GAL_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-\"Rapid\"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
+GAL_infantry_weapons2: "Pistolet maszynowy wzór 1934"
+GAL_infantry_weapons2_short: "Steyr-Solothurn wz. 34"
+GAL_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
+GAL_improved_infantry_weapons_2: "Pistolet maszynowy wzór 38"
+GAL_improved_infantry_weapons_2_short: "Zbrojovka Brno wz. 38"
+GAL_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
+GAL_advanced_infantry_weapons2: "Pistolet maszynowy wzór 1943"
+GAL_advanced_infantry_weapons2_short: "Danuvia wz. 43"
+GAL_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dabei an Feuerkraft einzubüßen."
 
 GAL_infantry_at: "Karabin przeciwpancerny wzór 38"
 GAL_infantry_at2: "Rakietowy przeciwpancerny wzór 42"
@@ -4715,6 +4726,7 @@ GRP_train_equipment_1: "Class 238 Armstrong Whitworth 2-6-2"
 GRP_train_equipment_2: "Class 1015 Alco-Schenectady 4-10-2"
 GRP_train_equipment_3: "Class 400 Beyer, Peacock 2-4-2"
 #GRP_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### German Union ###
 ###
@@ -4847,95 +4859,96 @@ GUA_infantry_equipment_3_short: "FN-43"
 GUA_train_equipment_2: "IRCA 2-8-2 Steam Locomotive"
 GUA_train_equipment_3: "IRCA Sumpter Valley 2-6-6-2"
 #GUA_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Guyana ###
 ###
 
- GYA_EQUIPMENT_VERSION_1: "Mk I"
- GYA_EQUIPMENT_VERSION_3: "Mk III"
- GYA_EQUIPMENT_VERSION_2: "Mk II"
- GYA_EQUIPMENT_VERSION_4: "Mk IV"
- GYA_EQUIPMENT_VERSION_5: "Mk V"
- GYA_EQUIPMENT_VERSION_6: "Mk VI"
- GYA_EQUIPMENT_VERSION_7: "Mk VII"
- GYA_EQUIPMENT_VERSION_8: "Mk VIII"
- GYA_EQUIPMENT_VERSION_9: "Mk IX"
- GYA_EQUIPMENT_VERSION_10: "Mk X"
- GYA_EQUIPMENT_VERSION_11: "Mk XI"
- GYA_EQUIPMENT_VERSION_12: "Mk XII"
- GYA_EQUIPMENT_VERSION_13: "Mk XIII"
+GYA_EQUIPMENT_VERSION_1: "Mk I"
+GYA_EQUIPMENT_VERSION_3: "Mk III"
+GYA_EQUIPMENT_VERSION_2: "Mk II"
+GYA_EQUIPMENT_VERSION_4: "Mk IV"
+GYA_EQUIPMENT_VERSION_5: "Mk V"
+GYA_EQUIPMENT_VERSION_6: "Mk VI"
+GYA_EQUIPMENT_VERSION_7: "Mk VII"
+GYA_EQUIPMENT_VERSION_8: "Mk VIII"
+GYA_EQUIPMENT_VERSION_9: "Mk IX"
+GYA_EQUIPMENT_VERSION_10: "Mk X"
+GYA_EQUIPMENT_VERSION_11: "Mk XI"
+GYA_EQUIPMENT_VERSION_12: "Mk XII"
+GYA_EQUIPMENT_VERSION_13: "Mk XIII"
 
 ### Land ###
- GYA_infantry_equipment_0: "Rifle, Short, Magazine, Lee-Enfield Mk III"
- GYA_infantry_equipment_0_short: "SMLE Mk III"
- GYA_infantry_equipment_0_desc: "Das ehrwürdige Lee-Enfield-Gewehr (SMLE), das dem Kaiserreich während des Großen Krieges diente, ist auch nach dem Zusammenbruch des Kaiserreichs die Standardwaffe der Dominions. Das SMLE-Gewehr ist in den Arsenalen vieler Dominions in großer Zahl zu finden. Da die Gewehrproduktion durch den Verlust der englischen Waffenfabriken ernsthaft unterbrochen wurde, haben sich die Dominions dem alten, zuverlässigen Three-Oh-Three als Standardwaffe zugewandt, bis geeignete Ersatzwaffen entwickelt oder gekauft werden."
- GYA_infantry_equipment_1: "SMLE Mk V"
- GYA_infantry_equipment_1_short: "SMLE Mk V"
- GYA_infantry_equipment_1_desc: "Nach dem Fall der Heimatinseln wurde die Notwendigkeit, die Reste des Empire wieder aufzurüsten, immer dringlicher. Britische Ingenieure der RSAF (Royal Small Arms Factory) begannen, sich nach Ontario zu flüchten, um an einem bestehenden Lee-Enfield zu arbeiten. Das aktualisierte Modell der klassischen Kurzmagazingewehre weist ein neues und verbessertes Blendensystem an der Seite statt in der Mitte auf, das den Visierradius, die Visiergenauigkeit und die Visiergeschwindigkeit verbessert. Allerdings ist die Herstellung dieses neuen SMLE-Designs aufgrund der für die Konstruktion des Gewehrs erforderlichen Hau- und Bearbeitungsvorgänge relativ teuer."
- GYA_infantry_equipment_2: "Owen Mk 1"
- GYA_infantry_equipment_2_short: "Owen Machine Carbine"
- GYA_infantry_equipment_2_desc: "Angesichts des bevorstehenden Krieges fordert die Armee die Entwicklung einer Maschinenpistole für den Nahkampf und den Krieg in den Städten, insbesondere angesichts der Zerstörungswut, die den amerikanischen Bürgerkrieg kennzeichnet. Die kanadische Armee übernahm offiziell eine von dem jungen australischen Gefreiten Evelyn Owen entworfene Waffe. Der "Owen"-Maschinenkarabiner zeichnet sich durch eine beeindruckende Feuerrate und niedrige Herstellungskosten aus, ist aber auch unter rauen Bedingungen robust und damit ideal für den Stadtkampf. Im Vergleich mit anderen Maschinenpistolen hat sich die Owen in Tests immer wieder als die einzige erwiesen, die Schlamm, Sand und rauen Umgebungen standhält. Nach Abschluss der positiven Tests wurde die Owen in großen Mengen an die Dominions geliefert, um den kommenden Krieg vorzubereiten."
- GYA_infantry_equipment_3: "Long Branch Mk 1"
- GYA_infantry_equipment_3_short: "SLR Mk 1"
- GYA_infantry_equipment_3_desc: "Die Crown Corporation Small Arms Ltd in Long Branch reagierte auf die Anfrage der kanadischen Regierung nach einem Selbstladegewehr. Das Selbstladegewehr ist für 8-mm-Mauser-Patronen ausgelegt und verfügt über einen kippbaren Verschluss. Obwohl das Gewehr Probleme mit der Zuverlässigkeit und dem übermäßigen Rückstoß hat, wird es mit einem Schulterpolster geliefert, um den Rückstoß zu kompensieren. Außerdem ist das Gewehr aufgrund seines geringen Gewichts ideal für die Mobilität und den Kampf in der Stadt. Viele Exemplare wurden zur Bewaffnung der Dominions des Imperiums in Vorbereitung auf die spätere Heimkehr verschickt."
- GYA_night_vision: "Receivers, Tabby, Periscope Mk 1"
- GYA_night_vision_short: "Tabby Scope"
- GYA_night_vision_desc: "Das Tabby Scope ist eines der am strengsten gehüteten Geheimnisse der kanadischen Regierung; der Entwicklungsprozess ist sogar vor den anderen Mitgliedern der Entente verborgen. Es ist eine zufällige Entdeckung von Wissenschaftlern des ISAC und hat die Form einer Feldflasche, enthält aber ein monokulares Infrarotsichtgerät und eine Batterie. Das Zielfernrohr ist nur für die Elite der Elite bestimmt und bietet den beispiellosen Vorteil, im Dunkeln sehen zu können."
- GYA_infantry_weapons2: "BSA Thompson M1926"
- GYA_infantry_weapons2_desc: "Die kanadische Armee hat offiziell die kultige amerikanische Maschinenpistole übernommen, die mit Verbrechen und Laster in Verbindung gebracht wird. Die M1928A1 ist die Dienstvariante des klassischen M1921 Thompson-Maschinengewehrs, und obwohl die Herstellung teuer ist, ist die Waffe bei den Truppen im Feld sehr beliebt, die ihre Effizienz und Zuverlässigkeit loben. Während die meisten Varianten mit kleineren 'Kastenmagazinen' ausgestattet sind, verfügen einige andere Varianten über große und sperrige Trommelmagazine mit fünfzig Schuss."
- GYA_improved_infantry_weapons_2: "Lanchester Submachine Gun"
- GYA_improved_infantry_weapons_2_desc: "Mit dem Ausbruch des Krieges in den Vereinigten Staaten und den sich abzeichnenden Kriegswolken in Europa benötigt die kanadische Armee dringend Waffen für die Heimkehr. Mit wenig Zeit für Vorbereitungen und Nachforschungen hat die kanadische Armee die 'Lanchester'-Maschinenpistole in Auftrag gegeben, eine nahezu perfekte Kopie der deutschen MP-28."
- GYA_advanced_infantry_weapons2: "Canadian Machine Carbine Mk 1"
- GYA_advanced_infantry_weapons2_desc: "In weiterer Zusammenarbeit mit der Small Arms Ltd. in Long Branch hat das kanadische Militär offiziell eine neue Ergänzung und möglicherweise den Nachfolger des Owen eingeführt. Der Maschinenkarabiner Mk 1 verfügt über einen selektiven Abzug und ein innovatives horizontales Magazin, das Schmutz, Staub und Sand standhält. Durch Druck auf den oberen Teil des Abzugs wird die Waffe vollautomatisch abgefeuert, während der Druck auf den unteren Teil die Halbautomatik auslöst. Der neue Maschinenkarabiner hat zwar eine geringere Feuerrate als der Owen, doch seine Zuverlässigkeit und die Fähigkeit, selektiv zu schießen, machen ihn zu einem potenziellen Nachfolger. Viele Exemplare fanden ihren Weg in das Arsenal der Dominions."
- GYA_infantry_at: "Grenade, Rifle, Anti-tank No. 68"
- GYA_infantry_at_desc: "Als eine kanadische Kommission in der Schweiz eine Vorführung der Panzerabwehrgranate von Henry Mohaupt sah, erkannte sie, dass die Waffe nach dem Prinzip der Hohlladung funktioniert, und begann mit der Arbeit an einem eigenen Entwurf. Die daraus resultierende hochexplosive Panzerabwehrgranate (HEAT) soll der Infanterie bessere Möglichkeiten zur Bekämpfung feindlicher Panzer mit den bereits im Einsatz befindlichen Becherwerfern bieten."
- GYA_infantry_at2: "Projector, Infantry, Anti Tank Mk I "
- GYA_infantry_at2_desc: "Aufgrund des Bedarfs an einer handgeführten Panzerabwehrwaffe für den Einsatz an der Front wurde der Projector, Infantry, Anti Tank Mk I (PIAT) auf der Grundlage des Bombenmörsers entwickelt. Mit einer effektiven Reichweite von 105 Metern im direkten Feuermodus ist das Gerät aufgrund des fehlenden Rückstoßes sehr beliebt - allerdings gab es Bedenken wegen des starken Rückstoßes."
- GYA_infantry_at2_short: "PIAT"
- GYA_support_weapons: "Vickers MG & Stokes mortar"
- GYA_support_weapons_desc: "Das wassergekühlte Vickers MG und der Stokes-Grabenmörser waren die Standardwaffen der kanadischen Armee während des Weltkriegs. Angesichts des drohenden Krieges hat die kanadische Armee sie wieder in Dienst gestellt."
- GYA_support_weapons2: "Lewis Mk III DEMS & SBML two-inch mortar"
- GYA_support_weapons2_desc: "Mit ihrem kultigen 'Pfannenmagazin' hat die Lewis dem Tommy seit den dunkelsten Tagen des Ersten Weltkriegs gedient. Angesichts des drohenden Krieges ist die MKIII-Variante mit einem Pistolengriff ausgestattet, der das Abfeuern von der Schulter aus auf jedem Teil des Schiffsdecks ermöglicht. Die SBML ist zwar klein, aber unglaublich handlich und hat eine größere Feuerkraft und Reichweite als die meisten Gewehrgranaten."
- GYA_support_weapons3: "Vickers M Mk II & ML 3 inch mortar"
- GYA_support_weapons3_desc: "Die Mark II-Variante des Vickers MG verfügt über eine selektive Feueroption und einen Pistolengriff. Es wurde hauptsächlich für gepanzerte Fahrzeuge verwendet. Der ML 3-Zoll-Mörser stellt eine erhebliche Verbesserung gegenüber dem Stokes dar, da er zuverlässig und robust für die Unterstützung der Artillerie im Nahbereich ist."
- GYA_support_weapons4: "Vickers M Mk III & ML 4.2 inch Mortar"
- GYA_support_weapons4_desc: "Die dritte Variante des geschätzten Vickers-Maschinengewehrs wurde für die Flugabwehr entwickelt und zeichnet sich durch eine leicht erhöhte Feuerrate gegenüber seinen Vorgängern aus. Ebenso ist der 4,2-Zoll-Mörser eine schwerere Verbesserung der früheren kanadischen Mörsermodelle und in der Lage, intensive und effektive Unterstützung abzuwerfen."
+GYA_infantry_equipment_0: "Rifle, Short, Magazine, Lee-Enfield Mk III"
+GYA_infantry_equipment_0_short: "SMLE Mk III"
+GYA_infantry_equipment_0_desc: "Das ehrwürdige Lee-Enfield-Gewehr (SMLE), das dem Kaiserreich während des Großen Krieges diente, ist auch nach dem Zusammenbruch des Kaiserreichs die Standardwaffe der Dominions. Das SMLE-Gewehr ist in den Arsenalen vieler Dominions in großer Zahl zu finden. Da die Gewehrproduktion durch den Verlust der englischen Waffenfabriken ernsthaft unterbrochen wurde, haben sich die Dominions dem alten, zuverlässigen Three-Oh-Three als Standardwaffe zugewandt, bis geeignete Ersatzwaffen entwickelt oder gekauft werden."
+GYA_infantry_equipment_1: "SMLE Mk V"
+GYA_infantry_equipment_1_short: "SMLE Mk V"
+GYA_infantry_equipment_1_desc: "Nach dem Fall der Heimatinseln wurde die Notwendigkeit, die Reste des Empire wieder aufzurüsten, immer dringlicher. Britische Ingenieure der RSAF (Royal Small Arms Factory) begannen, sich nach Ontario zu flüchten, um an einem bestehenden Lee-Enfield zu arbeiten. Das aktualisierte Modell der klassischen Kurzmagazingewehre weist ein neues und verbessertes Blendensystem an der Seite statt in der Mitte auf, das den Visierradius, die Visiergenauigkeit und die Visiergeschwindigkeit verbessert. Allerdings ist die Herstellung dieses neuen SMLE-Designs aufgrund der für die Konstruktion des Gewehrs erforderlichen Hau- und Bearbeitungsvorgänge relativ teuer."
+GYA_infantry_equipment_2: "Owen Mk 1"
+GYA_infantry_equipment_2_short: "Owen Machine Carbine"
+GYA_infantry_equipment_2_desc: "Angesichts des bevorstehenden Krieges fordert die Armee die Entwicklung einer Maschinenpistole für den Nahkampf und den Krieg in den Städten, insbesondere angesichts der Zerstörungswut, die den amerikanischen Bürgerkrieg kennzeichnet. Die kanadische Armee übernahm offiziell eine von dem jungen australischen Gefreiten Evelyn Owen entworfene Waffe. Der "Owen"-Maschinenkarabiner zeichnet sich durch eine beeindruckende Feuerrate und niedrige Herstellungskosten aus, ist aber auch unter rauen Bedingungen robust und damit ideal für den Stadtkampf. Im Vergleich mit anderen Maschinenpistolen hat sich die Owen in Tests immer wieder als die einzige erwiesen, die Schlamm, Sand und rauen Umgebungen standhält. Nach Abschluss der positiven Tests wurde die Owen in großen Mengen an die Dominions geliefert, um den kommenden Krieg vorzubereiten."
+GYA_infantry_equipment_3: "Long Branch Mk 1"
+GYA_infantry_equipment_3_short: "SLR Mk 1"
+GYA_infantry_equipment_3_desc: "Die Crown Corporation Small Arms Ltd in Long Branch reagierte auf die Anfrage der kanadischen Regierung nach einem Selbstladegewehr. Das Selbstladegewehr ist für 8-mm-Mauser-Patronen ausgelegt und verfügt über einen kippbaren Verschluss. Obwohl das Gewehr Probleme mit der Zuverlässigkeit und dem übermäßigen Rückstoß hat, wird es mit einem Schulterpolster geliefert, um den Rückstoß zu kompensieren. Außerdem ist das Gewehr aufgrund seines geringen Gewichts ideal für die Mobilität und den Kampf in der Stadt. Viele Exemplare wurden zur Bewaffnung der Dominions des Imperiums in Vorbereitung auf die spätere Heimkehr verschickt."
+GYA_night_vision: "Receivers, Tabby, Periscope Mk 1"
+GYA_night_vision_short: "Tabby Scope"
+GYA_night_vision_desc: "Das Tabby Scope ist eines der am strengsten gehüteten Geheimnisse der kanadischen Regierung; der Entwicklungsprozess ist sogar vor den anderen Mitgliedern der Entente verborgen. Es ist eine zufällige Entdeckung von Wissenschaftlern des ISAC und hat die Form einer Feldflasche, enthält aber ein monokulares Infrarotsichtgerät und eine Batterie. Das Zielfernrohr ist nur für die Elite der Elite bestimmt und bietet den beispiellosen Vorteil, im Dunkeln sehen zu können."
+GYA_infantry_weapons2: "BSA Thompson M1926"
+GYA_infantry_weapons2_desc: "Die kanadische Armee hat offiziell die kultige amerikanische Maschinenpistole übernommen, die mit Verbrechen und Laster in Verbindung gebracht wird. Die M1928A1 ist die Dienstvariante des klassischen M1921 Thompson-Maschinengewehrs, und obwohl die Herstellung teuer ist, ist die Waffe bei den Truppen im Feld sehr beliebt, die ihre Effizienz und Zuverlässigkeit loben. Während die meisten Varianten mit kleineren 'Kastenmagazinen' ausgestattet sind, verfügen einige andere Varianten über große und sperrige Trommelmagazine mit fünfzig Schuss."
+GYA_improved_infantry_weapons_2: "Lanchester Submachine Gun"
+GYA_improved_infantry_weapons_2_desc: "Mit dem Ausbruch des Krieges in den Vereinigten Staaten und den sich abzeichnenden Kriegswolken in Europa benötigt die kanadische Armee dringend Waffen für die Heimkehr. Mit wenig Zeit für Vorbereitungen und Nachforschungen hat die kanadische Armee die 'Lanchester'-Maschinenpistole in Auftrag gegeben, eine nahezu perfekte Kopie der deutschen MP-28."
+GYA_advanced_infantry_weapons2: "Canadian Machine Carbine Mk 1"
+GYA_advanced_infantry_weapons2_desc: "In weiterer Zusammenarbeit mit der Small Arms Ltd. in Long Branch hat das kanadische Militär offiziell eine neue Ergänzung und möglicherweise den Nachfolger des Owen eingeführt. Der Maschinenkarabiner Mk 1 verfügt über einen selektiven Abzug und ein innovatives horizontales Magazin, das Schmutz, Staub und Sand standhält. Durch Druck auf den oberen Teil des Abzugs wird die Waffe vollautomatisch abgefeuert, während der Druck auf den unteren Teil die Halbautomatik auslöst. Der neue Maschinenkarabiner hat zwar eine geringere Feuerrate als der Owen, doch seine Zuverlässigkeit und die Fähigkeit, selektiv zu schießen, machen ihn zu einem potenziellen Nachfolger. Viele Exemplare fanden ihren Weg in das Arsenal der Dominions."
+GYA_infantry_at: "Grenade, Rifle, Anti-tank No. 68"
+GYA_infantry_at_desc: "Als eine kanadische Kommission in der Schweiz eine Vorführung der Panzerabwehrgranate von Henry Mohaupt sah, erkannte sie, dass die Waffe nach dem Prinzip der Hohlladung funktioniert, und begann mit der Arbeit an einem eigenen Entwurf. Die daraus resultierende hochexplosive Panzerabwehrgranate (HEAT) soll der Infanterie bessere Möglichkeiten zur Bekämpfung feindlicher Panzer mit den bereits im Einsatz befindlichen Becherwerfern bieten."
+GYA_infantry_at2: "Projector, Infantry, Anti Tank Mk I "
+GYA_infantry_at2_desc: "Aufgrund des Bedarfs an einer handgeführten Panzerabwehrwaffe für den Einsatz an der Front wurde der Projector, Infantry, Anti Tank Mk I (PIAT) auf der Grundlage des Bombenmörsers entwickelt. Mit einer effektiven Reichweite von 105 Metern im direkten Feuermodus ist das Gerät aufgrund des fehlenden Rückstoßes sehr beliebt - allerdings gab es Bedenken wegen des starken Rückstoßes."
+GYA_infantry_at2_short: "PIAT"
+GYA_support_weapons: "Vickers MG & Stokes mortar"
+GYA_support_weapons_desc: "Das wassergekühlte Vickers MG und der Stokes-Grabenmörser waren die Standardwaffen der kanadischen Armee während des Weltkriegs. Angesichts des drohenden Krieges hat die kanadische Armee sie wieder in Dienst gestellt."
+GYA_support_weapons2: "Lewis Mk III DEMS & SBML two-inch mortar"
+GYA_support_weapons2_desc: "Mit ihrem kultigen 'Pfannenmagazin' hat die Lewis dem Tommy seit den dunkelsten Tagen des Ersten Weltkriegs gedient. Angesichts des drohenden Krieges ist die MKIII-Variante mit einem Pistolengriff ausgestattet, der das Abfeuern von der Schulter aus auf jedem Teil des Schiffsdecks ermöglicht. Die SBML ist zwar klein, aber unglaublich handlich und hat eine größere Feuerkraft und Reichweite als die meisten Gewehrgranaten."
+GYA_support_weapons3: "Vickers M Mk II & ML 3 inch mortar"
+GYA_support_weapons3_desc: "Die Mark II-Variante des Vickers MG verfügt über eine selektive Feueroption und einen Pistolengriff. Es wurde hauptsächlich für gepanzerte Fahrzeuge verwendet. Der ML 3-Zoll-Mörser stellt eine erhebliche Verbesserung gegenüber dem Stokes dar, da er zuverlässig und robust für die Unterstützung der Artillerie im Nahbereich ist."
+GYA_support_weapons4: "Vickers M Mk III & ML 4.2 inch Mortar"
+GYA_support_weapons4_desc: "Die dritte Variante des geschätzten Vickers-Maschinengewehrs wurde für die Flugabwehr entwickelt und zeichnet sich durch eine leicht erhöhte Feuerrate gegenüber seinen Vorgängern aus. Ebenso ist der 4,2-Zoll-Mörser eine schwerere Verbesserung der früheren kanadischen Mörsermodelle und in der Lage, intensive und effektive Unterstützung abzuwerfen."
 
- GYA_motorized_equipment_1: "GM Canada Commonwealth Military Pattern"
- GYA_motorized_equipment_1_short: "GM Canada CMP"
+GYA_motorized_equipment_1: "GM Canada Commonwealth Military Pattern"
+GYA_motorized_equipment_1_short: "GM Canada CMP"
 
- GYA_mechanized_equipment_1: "Vickers Carrier LP"
- GYA_mechanized_equipment_1_short: "Vickers Carrier"
- GYA_mechanized_equipment_2: "Ram Kangaroo"
- GYA_mechanized_equipment_2_short: "Ram Kangaroo"
- GYA_mechanized_equipment_3: "King Kangaroo"
- GYA_mechanized_equipment_3_short: "King Kangaroo"
+GYA_mechanized_equipment_1: "Vickers Carrier LP"
+GYA_mechanized_equipment_1_short: "Vickers Carrier"
+GYA_mechanized_equipment_2: "Ram Kangaroo"
+GYA_mechanized_equipment_2_short: "Ram Kangaroo"
+GYA_mechanized_equipment_3: "King Kangaroo"
+GYA_mechanized_equipment_3_short: "King Kangaroo"
 
 #Armoured Car
- GYA_gw_armored_car_equipment: "Ruskin Rover"
- GYA_gw_armored_car_equipment_short: "Rover"
- GYA_armored_car_equipment_1: "GM Canada Otter"
- GYA_armored_car_equipment_1_short: "Otter"
- GYA_armored_car_equipment_2: "Ruskin Rhino"
- GYA_rocket_artillery_equipment_1: "RP-3"
- GYA_rocket_artillery_equipment_1_short: "RP-3"
- GYA_rocket_artillery_equipment_2: "RP-3 Land Mattress"
- GYA_rocket_artillery_equipment_2_short: "Land Mattress"
+GYA_gw_armored_car_equipment: "Ruskin Rover"
+GYA_gw_armored_car_equipment_short: "Rover"
+GYA_armored_car_equipment_1: "GM Canada Otter"
+GYA_armored_car_equipment_1_short: "Otter"
+GYA_armored_car_equipment_2: "Ruskin Rhino"
+GYA_rocket_artillery_equipment_1: "RP-3"
+GYA_rocket_artillery_equipment_1_short: "RP-3"
+GYA_rocket_artillery_equipment_2: "RP-3 Land Mattress"
+GYA_rocket_artillery_equipment_2_short: "Land Mattress"
 
- GYA_artillery_equipment_1: "QF 18-pounder"
- GYA_artillery_equipment_1_short: "QF 18-pounder"
- GYA_artillery_equipment_2: "QF 25-pounder"
- GYA_artillery_equipment_3: "BL 5.5-inch"
+GYA_artillery_equipment_1: "QF 18-pounder"
+GYA_artillery_equipment_1_short: "QF 18-pounder"
+GYA_artillery_equipment_2: "QF 25-pounder"
+GYA_artillery_equipment_3: "BL 5.5-inch"
 
- GYA_anti_air_equipment_1: "QF 3-inch 20 cwt"
- GYA_anti_air_equipment_1_short: "QF 3-inch"
- GYA_anti_air_equipment_2: "QF 40 mm Bofors"
- GYA_anti_air_equipment_3: "QF 3.7-inch"
+GYA_anti_air_equipment_1: "QF 3-inch 20 cwt"
+GYA_anti_air_equipment_1_short: "QF 3-inch"
+GYA_anti_air_equipment_2: "QF 40 mm Bofors"
+GYA_anti_air_equipment_3: "QF 3.7-inch"
 
- GYA_anti_tank_equipment_1: "QF 2-pounder"
- GYA_anti_tank_equipment_1_short: "QF 2-pounder"
- GYA_anti_tank_equipment_2: "QF 6-pounder"
- GYA_anti_tank_equipment_3: "QF 17-pounder"
+GYA_anti_tank_equipment_1: "QF 2-pounder"
+GYA_anti_tank_equipment_1_short: "QF 2-pounder"
+GYA_anti_tank_equipment_2: "QF 6-pounder"
+GYA_anti_tank_equipment_3: "QF 17-pounder"
 
 ###
 ### Liangguang Clique ###
@@ -5202,6 +5215,7 @@ HON_infantry_equipment_3_short: "FN-43"
 #HON_train_equipment_2: ""
 #HON_train_equipment_3: ""
 #HON_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Kingdom of Hungary ###
 ###
@@ -5218,26 +5232,26 @@ HUN_infantry_equipment_1_short: "FÉG 35.M"
 HUN_infantry_equipment_1_desc: "Der Weltkrieg machte die Unzulänglichkeiten des M.95 nur allzu deutlich, vor allem die relativ leistungsschwache Rundkopfpatrone und die erforderliche Wartung für das Geradezugsystem. Steyr entwickelte die 8x56mm \"Spitzer\"-Patrone, die als Grundlage für eine neue Waffengeneration dienen und das M.95 zu seiner vollen Leistungsfähigkeit bringen sollte. Bei der Gewehrprüfung 1935 setzte sich die ungarische FÉG-Konstruktion, die auf dem ausgezeichneten Drehverschluss des Mannlicher-Schönauer basiert, durch und wurde angenommen."
 HUN_infantry_equipment_2: "1939 Minta Géppisztoly"
 HUN_infantry_equipment_2_short: "Danuvia 39.M"
- HUN_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
- HUN_infantry_equipment_3: "1942 Minta Gépkarabély"
- HUN_infantry_equipment_3_short: "Zbrojovka Brno 42.M"
- HUN_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-\"Rapid\"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
- HUN_infantry_weapons2: "1934 Minta Géppisztoly"
- HUN_infantry_weapons2_short: "Steyr-Solothurn 34.M"
- HUN_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
- HUN_improved_infantry_weapons_2: "1938 Minta Géppisztoly"
- HUN_improved_infantry_weapons_2_short: "Zbrojovka Brno 38.M"
- HUN_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
- HUN_advanced_infantry_weapons2: "1943 Minta Géppisztoly"
- HUN_advanced_infantry_weapons2_short: "Danuvia 43.M"
- HUN_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren, klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dass die Feuerkraft darunter litt."
+HUN_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
+HUN_infantry_equipment_3: "1942 Minta Gépkarabély"
+HUN_infantry_equipment_3_short: "Zbrojovka Brno 42.M"
+HUN_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-\"Rapid\"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
+HUN_infantry_weapons2: "1934 Minta Géppisztoly"
+HUN_infantry_weapons2_short: "Steyr-Solothurn 34.M"
+HUN_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
+HUN_improved_infantry_weapons_2: "1938 Minta Géppisztoly"
+HUN_improved_infantry_weapons_2_short: "Zbrojovka Brno 38.M"
+HUN_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
+HUN_advanced_infantry_weapons2: "1943 Minta Géppisztoly"
+HUN_advanced_infantry_weapons2_short: "Danuvia 43.M"
+HUN_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dabei an Feuerkraft einzubüßen."
 
- HUN_infantry_at: "38.M páncéltörő puska"
- HUN_infantry_at2: "42.M Páncéltörő rakétavető"
- HUN_support_weapons: "07/12.M géppuska & 14.M aknavető"
- HUN_support_weapons2: "26.M géppuska & 33.M aknavető"
- HUN_support_weapons3: "30.M géppuska & 36.M aknavető"
- HUN_support_weapons4: "45.M géppuska & 43.M aknavető"
+HUN_infantry_at: "38.M páncéltörő puska"
+HUN_infantry_at2: "42.M Páncéltörő rakétavető"
+HUN_support_weapons: "07/12.M géppuska & 14.M aknavető"
+HUN_support_weapons2: "26.M géppuska & 33.M aknavető"
+HUN_support_weapons3: "30.M géppuska & 36.M aknavető"
+HUN_support_weapons4: "45.M géppuska & 43.M aknavető"
 
 #Motorised
 
@@ -5591,6 +5605,7 @@ GOY_train_equipment_1: "Class 238 Armstrong Whitworth 2-6-2"
 GOY_train_equipment_2: "Class 1015 Alco-Schenectady 4-10-2"
 GOY_train_equipment_3: "Class 400 Beyer, Peacock 2-4-2"
 #GOY_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Republic of Italy ###
 ###
@@ -7361,6 +7376,7 @@ NIC_infantry_equipment_3_desc: "Das MAS-40/42 ist das jüngste Modell einer Seri
 #NIC_train_equipment_2: ""
 #NIC_train_equipment_3: ""
 #NIC_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Norway ###
 ###
@@ -7781,6 +7797,7 @@ PAN_train_equipment_1: "Ferrocarril de Panamá 0-4-0"
 #PAN_train_equipment_2: ""
 #PAN_train_equipment_3: ""
 #PAN_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Papal State ###
 ###
@@ -7857,6 +7874,7 @@ PAR_train_equipment_1: "FCCP 2-6-2T"
 PAR_train_equipment_2: "FCCP 2-6-0"
 PAR_train_equipment_3: "FCCP 2-4-0"
 #PAR_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Persia (Iran) ###
 ###
@@ -7948,6 +7966,7 @@ PIR_train_equipment_1: "Class 238 Armstrong Whitworth 2-6-2"
 PIR_train_equipment_2: "Class 1015 Alco-Schenectady 4-10-2"
 PIR_train_equipment_3: "Class 400 Beyer, Peacock 2-4-2"
 #PIR_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Poland ###
 ###
@@ -8106,6 +8125,7 @@ PRU_train_equipment_1: "FC Baldwin 2-6-0 d/w 44"
 PRU_train_equipment_2: "FC Hunslet 0-6-0ST d/w 45"
 PRU_train_equipment_3: "FC Beyer Peacock 2-8-0 d/w 56"
 #PRU_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Qing ###
 ###
@@ -8187,6 +8207,7 @@ QUE_train_equipment_1: "Canadian National Railway Confederation U-2-a"
 QUE_train_equipment_2: "Canadian National Railway Confederation U-2-d"
 QUE_train_equipment_3: "Canadian National Railway Confederation U-2-e"
 #QUE_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Vera Cruz (VCR) ###
 ###
@@ -8256,6 +8277,7 @@ VCR_train_equipment_1: "Class 238 Armstrong Whitworth 2-6-2"
 VCR_train_equipment_2: "Class 1015 Alco-Schenectady 4-10-2"
 VCR_train_equipment_3: "Class 400 Beyer, Peacock 2-4-2"
 #VCR_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Romania ###
 ###
@@ -9296,27 +9318,27 @@ SIK_motorized_equipment_1_desc: "Im November 1931 traf die große, von Citroën 
 ###
 
 ### Land ###
- SLV_infantry_equipment_0: "Karabin Model 1895/30"
+SLV_infantry_equipment_0: "Karabin Model 1895/30"
 SLV_infantry_equipment_0_short: "Mannlicher M.95"
-SLV_infantry_equipment_0_desc: "Das Mannlicher M1895 (deutsch: Infanterie Repetier-Gewehr M.95) war das Dienstgewehr der österreichisch-ungarischen Streitkräfte während des Weltkriegs. Das von Ferdinand von Mannlicher entworfene Gewehr hatte einen Geradezugbolzenverschluss, der im Vergleich zu seinen Zeitgenossen eine höhere Feuergeschwindigkeit ermöglichte, was ihm bei den österreichischen Truppen den Spitznamen Ruck-Zuck und bei den Italienern den Spitznamen Ta-Pum einbrachte. Das italienische Lied \"Ta pum!\" aus dem Weltkrieg bezieht sich auf dieses Gewehr. Später im Krieg wurden die meisten Gewehre in die kurze \"Stutzen\"-Konfiguration umgewandelt."
- SLV_infantry_equipment_1: "Karabin Model 1935"
- SLV_infantry_equipment_1_short: "FÉG M.35"
-SLV_infantry_equipment_1_desc: "Der Weltkrieg machte die Unzulänglichkeiten des M.95 nur allzu deutlich, vor allem die relativ leistungsschwache Rundkopfpatrone und die erforderliche Wartung für das Geradezugsystem. Steyr entwickelte die 8x56mm \"Spitzer\"-Patrone, die als Grundlage für eine neue Waffengeneration dienen und das M.95 zu seiner vollen Leistungsfähigkeit bringen sollte. Bei der Gewehrprüfung 1924 setzte sich die ungarische FÉG-Konstruktion durch, die auf dem ausgezeichneten Drehverschluss der Mannlicher-Schönauer basierte und angenommen wurde."
- SLV_infantry_equipment_2: "Brzostrelka Model 1939"
- SLV_infantry_equipment_2_short: "Danuvia M.39"
- SLV_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
- SLV_infantry_equipment_3: "Strojokarabin Model 1942"
- SLV_infantry_equipment_3_short: "Zbrojovka Brno M.42"
- SLV_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-\"Rapid\"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
- SLV_infantry_weapons2: "Brzostrelka Model 1934"
- SLV_infantry_weapons2_short: "Steyr-Solothurn M.34"
- SLV_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
- SLV_improved_infantry_weapons_2: "Brzostrelka Model 1938"
- SLV_improved_infantry_weapons_2_short: "Zbrojovka Brno M.38"
- SLV_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
- SLV_advanced_infantry_weapons2: "Brzostrelka Model 1943"
- SLV_advanced_infantry_weapons2_short: "Danuvia M.43"
- SLV_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren, klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dass die Feuerkraft darunter litt."
+SLV_infantry_equipment_0_desc: "Das Mannlicher M1895 (deutsch: Infanterie Repetier-Gewehr M.95) war das Dienstgewehr der österreichisch-ungarischen Streitkräfte während des Weltkriegs. Das von Ferdinand von Mannlicher entworfene Gewehr verfügte über einen Bolzenverschluss mit geradem Zug, der im Vergleich zu seinen Zeitgenossen eine höhere Feuergeschwindigkeit ermöglichte, was ihm bei den österreichischen Truppen den Spitznamen \"Ruck-Zuck\" und bei den Italienern den Spitznamen \"Ta-Pum\" einbrachte. Das italienische Lied \"Ta pum!\" aus dem Weltkrieg bezieht sich auf dieses Gewehr. Später im Krieg wurden die meisten Gewehre in die kurze \"Stutzen\"-Konfiguration umgewandelt."
+SLV_infantry_equipment_1: "Karabin Model 1935"
+SLV_infantry_equipment_1_short: "FÉG M.35"
+SLV_infantry_equipment_1_desc: "Der Weltkrieg machte die Unzulänglichkeiten des M.95 nur allzu deutlich, insbesondere die relativ leistungsschwache Rundkopfpatrone und die erforderliche Wartung des Geradezugsystems. Steyr entwickelte die 8x56mm \"Spitzer\"-Patrone, die als Grundlage für eine neue Waffengeneration dienen und das M.95 zu seinem vollen Potenzial bringen sollte. Bei der Gewehrprüfung 1924 setzte sich die ungarische FÉG-Konstruktion durch, die auf dem ausgezeichneten Drehverschluss der Mannlicher-Schönauer basierte und angenommen wurde."
+SLV_infantry_equipment_2: "Brzostrelka Model 1939"
+SLV_infantry_equipment_2_short: "Danuvia M.39"
+SLV_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
+SLV_infantry_equipment_3: "Strojokarabin Model 1942"
+SLV_infantry_equipment_3_short: "Zbrojovka Brno M.42"
+SLV_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-"Rapid"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
+SLV_infantry_weapons2: "Brzostrelka Model 1934"
+SLV_infantry_weapons2_short: "Steyr-Solothurn M.34"
+SLV_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
+SLV_improved_infantry_weapons_2: "Brzostrelka Model 1938"
+SLV_improved_infantry_weapons_2_short: "Zbrojovka Brno M.38"
+SLV_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
+SLV_advanced_infantry_weapons2: "Brzostrelka Model 1943"
+SLV_advanced_infantry_weapons2_short: "Danuvia M.43"
+SLV_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dabei an Feuerkraft einzubüßen."
 
 SLV_infantry_at: "Protioklop puška M.38"
 SLV_infantry_at2: "Protioklop Bacači Raketa M.42"
@@ -9482,6 +9504,7 @@ SOV_train_equipment_3_desc: "$RUS_train_equipment_3$"
 SOV_railway_gun_equipment_1: "$RUS_railway_gun_equipment_1$"
 SOV_railway_gun_equipment_1_short: "$RUS_railway_gun_equipment_1_short$"
 SOV_railway_gun_equipment_1_desc: "$RUS_railway_gun_equipment_1_desc$"
+
 #Artillery
 
 SOV_artillery_equipment_1: "76mm obr.1902/1930"
@@ -9579,6 +9602,7 @@ SPO_train_equipment_1: "Class 238 Armstrong Whitworth 2-6-2"
 SPO_train_equipment_2: "Class 1015 Alco-Schenectady 4-10-2"
 SPO_train_equipment_3: "Class 400 Beyer, Peacock 2-4-2"
 #AMA_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Kingdom of Spain ###
 ###
@@ -9947,27 +9971,27 @@ SUR_light_tank_aa_equipment_3_desc: "An anti-air cannon mounted on the chassis o
 ###
 
 ### Land ###
- SLO_infantry_equipment_0: "Karabina vzor 1895/30"
- SLO_infantry_equipment_0_short: "Mannlicher vz. 95/30"
- SLO_infantry_equipment_0_desc: "Das Mannlicher Karabina vzor 1895/1930 (deutsch: Infanterie Repetier-Gewehr M.95) war das Dienstgewehr der österreichisch-ungarischen Streitkräfte während des Weltkriegs. Das von Ferdinand von Mannlicher entworfene Gewehr verfügte über einen Zylinderverschluss mit geradem Zug, der im Vergleich zu seinen Zeitgenossen eine höhere Feuergeschwindigkeit ermöglichte, was ihm bei den österreichischen Truppen den Spitznamen \"Ruck-Zuck\" und bei den Italienern den Spitznamen \"Ta-Pum\" einbrachte. Das italienische Lied \"Ta pum!\" aus dem Weltkrieg bezieht sich auf dieses Gewehr. Später, nach dem Krieg, wurden die meisten Gewehre zu Karabinern umgebaut."
- SLO_infantry_equipment_1: "Karabina vzor 1935"
- SLO_infantry_equipment_1_short: "FÉG vz. 35"
- SLO_infantry_equipment_1_desc: "Der Weltkrieg machte die Unzulänglichkeiten des M.95 nur allzu deutlich, vor allem die relativ leistungsschwache Rundkopfpatrone und die erforderliche Wartung für das Geradezugsystem. Steyr entwickelte die 8x56mm \"Spitzer\"-Patrone, die als Grundlage für eine neue Waffengeneration dienen und das M.95 zu seiner vollen Leistungsfähigkeit bringen sollte. Bei der Gewehrprüfung 1935 setzte sich die ungarische FÉG-Konstruktion, die auf dem ausgezeichneten Drehverschluss des Mannlicher-Schönauer basierte, durch und wurde angenommen."
- SLO_infantry_equipment_2: "Kulometná pistole vzor 1939"
- SLO_infantry_equipment_2_short: "Danuvia vz. 39"
- SLO_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
- SLO_infantry_equipment_3: "Kulometná karabina vzor 1942"
- SLO_infantry_equipment_3_short: "Zbrojovka Brno vz. 42"
- SLO_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-\"Rapid\"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
- SLO_infantry_weapons2: "Kulometná pistole vzor 1934"
- SLO_infantry_weapons2_short: "Steyr-Solothurn vz. 34"
- SLO_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
- SLO_improved_infantry_weapons_2: "Kulometná pistole vzor 38"
-  SLO_improved_infantry_weapons_2_short: "Zbrojovka Brno vz. 38"
- SLO_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
- SLO_advanced_infantry_weapons2: "Kulometná pistole vzor 1943"
- SLO_advanced_infantry_weapons2_short: "Danuvia vz. 43"
- SLO_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren, klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dass die Feuerkraft darunter litt."
+SLO_infantry_equipment_0: "Karabin Model 1895/30"
+SLO_infantry_equipment_0_short: "Mannlicher M.95"
+SLO_infantry_equipment_0_desc: "Das Mannlicher M1895 (deutsch: Infanterie Repetier-Gewehr M.95) war das Dienstgewehr der österreichisch-ungarischen Streitkräfte während des Weltkriegs. Das von Ferdinand von Mannlicher entworfene Gewehr verfügte über einen Bolzenverschluss mit geradem Zug, der im Vergleich zu seinen Zeitgenossen eine höhere Feuergeschwindigkeit ermöglichte, was ihm bei den österreichischen Truppen den Spitznamen \"Ruck-Zuck\" und bei den Italienern den Spitznamen \"Ta-Pum\" einbrachte. Das italienische Lied \"Ta pum!\" aus dem Weltkrieg bezieht sich auf dieses Gewehr. Später im Krieg wurden die meisten Gewehre in die kurze \"Stutzen\"-Konfiguration umgewandelt."
+SLO_infantry_equipment_1: "Karabin Model 1935"
+SLO_infantry_equipment_1_short: "FÉG M.35"
+SLO_infantry_equipment_1_desc: "Der Weltkrieg machte die Unzulänglichkeiten des M.95 nur allzu deutlich, insbesondere die relativ leistungsschwache Rundkopfpatrone und die erforderliche Wartung des Geradezugsystems. Steyr entwickelte die 8x56mm \"Spitzer\"-Patrone, die als Grundlage für eine neue Waffengeneration dienen und das M.95 zu seinem vollen Potenzial bringen sollte. Bei der Gewehrprüfung 1924 setzte sich die ungarische FÉG-Konstruktion durch, die auf dem ausgezeichneten Drehverschluss der Mannlicher-Schönauer basierte und angenommen wurde."
+SLO_infantry_equipment_2: "Brzostrelka Model 1939"
+SLO_infantry_equipment_2_short: "Danuvia M.39"
+SLO_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
+SLO_infantry_equipment_3: "Strojokarabin Model 1942"
+SLO_infantry_equipment_3_short: "Zbrojovka Brno M.42"
+SLO_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-"Rapid"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
+SLO_infantry_weapons2: "Brzostrelka Model 1934"
+SLO_infantry_weapons2_short: "Steyr-Solothurn M.34"
+SLO_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
+SLO_improved_infantry_weapons_2: "Brzostrelka Model 1938"
+SLO_improved_infantry_weapons_2_short: "Zbrojovka Brno M.38"
+SLO_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
+SLO_advanced_infantry_weapons2: "Brzostrelka Model 1943"
+SLO_advanced_infantry_weapons2_short: "Danuvia M.43"
+SLO_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dabei an Feuerkraft einzubüßen."
 
 SLO_infantry_at: "Protipancéřová puška vzor 38"
 SLO_infantry_at2: "Protipancéřová Raketomet vzor 42"
@@ -10411,6 +10435,7 @@ TEX_train_equipment_1: "Pennsylvania I1s Class"
 TEX_train_equipment_2: "USATC S160 Class"
 TEX_train_equipment_3: "ALCO FEF-3 'Living Legend' Class"
 TEX_railway_gun_equipment_1: "8-inch Mk. VI"
+
 ###
 ### Tibet ###
 ###
@@ -10568,27 +10593,28 @@ TRM_infantry_equipment_1_short: "Type 99"
 ### Land ###
 
 #Infantry Equip
- TRS_infantry_equipment_0: "Karabiner Modell 1895/30"
- TRS_infantry_equipment_0_short: "Mannlicher M.95/30"
-TRS_infantry_equipment_0_desc: "Das Mannlicher Modell 1895/1930 (deutsch: Infanterie Repetier-Gewehr M.95) war das Dienstgewehr der österreichisch-ungarischen Streitkräfte während des Weltkriegs. Das von Ferdinand von Mannlicher entworfene Gewehr hatte einen Geradezugbolzenverschluss, der im Vergleich zu seinen Zeitgenossen eine höhere Feuergeschwindigkeit ermöglichte, was ihm bei den österreichischen Truppen den Spitznamen Ruck-Zuck und bei den Italienern den Spitznamen Ta-Pum einbrachte. Das italienische Lied \"Ta pum!\" aus dem Weltkrieg bezieht sich auf dieses Gewehr. Später, nach dem Krieg, wurden die meisten Gewehre in die Karabinerform umgewandelt."
- TRS_infantry_equipment_1: "Karabiner Modell 1935"
- TRS_infantry_equipment_1_short: "FÉG M.35"
-TRS_infantry_equipment_1_desc: "Der Weltkrieg machte die Unzulänglichkeiten des M.95 nur allzu deutlich, vor allem die relativ leistungsschwache Rundkopfpatrone und die erforderliche Wartung für das Geradezugsystem. Steyr entwickelte die 8x56mm \"Spitzer\"-Patrone, die als Grundlage für eine neue Waffengeneration dienen und das M.95 zu seiner vollen Leistungsfähigkeit bringen sollte. Bei der Gewehrprüfung 1935 setzte sich die ungarische FÉG-Konstruktion durch, die auf dem ausgezeichneten Drehverschluss der Mannlicher-Schönauer basierte und angenommen wurde."
- TRS_infantry_equipment_2: "Maschinenpistole Modell 1939"
- TRS_infantry_equipment_2_short: "Danuvia M.39"
- TRS_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
- TRS_infantry_equipment_3: "Maschinenkarabiner Modell 1942"
- TRS_infantry_equipment_3_short: "Zbrojovka Brno M.42"
- TRS_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-\"Rapid\"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
- TRS_infantry_weapons2: "Maschinenpistole Modell 1934"
- TRS_infantry_weapons2_short: "Steyr-Solothurn M.34"
- TRS_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
- TRS_improved_infantry_weapons_2: "Maschinenpistole Modell 38"
- TRS_improved_infantry_weapons_2_short: "Zbrojovka Brno M.38"
- TRS_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
- TRS_advanced_infantry_weapons2: "Maschinenpistole Modell 1943"
- TRS_advanced_infantry_weapons2_short: "Danuvia M.43"
- TRS_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren, klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dass die Feuerkraft darunter litt."
+TRS_infantry_equipment_0: "Karabin Model 1895/30"
+TRS_infantry_equipment_0_short: "Mannlicher M.95"
+TRS_infantry_equipment_0_desc: "Das Mannlicher M1895 (deutsch: Infanterie Repetier-Gewehr M.95) war das Dienstgewehr der österreichisch-ungarischen Streitkräfte während des Weltkriegs. Das von Ferdinand von Mannlicher entworfene Gewehr verfügte über einen Bolzenverschluss mit geradem Zug, der im Vergleich zu seinen Zeitgenossen eine höhere Feuergeschwindigkeit ermöglichte, was ihm bei den österreichischen Truppen den Spitznamen \"Ruck-Zuck\" und bei den Italienern den Spitznamen \"Ta-Pum\" einbrachte. Das italienische Lied \"Ta pum!\" aus dem Weltkrieg bezieht sich auf dieses Gewehr. Später im Krieg wurden die meisten Gewehre in die kurze \"Stutzen\"-Konfiguration umgewandelt."
+TRS_infantry_equipment_1: "Karabin Model 1935"
+TRS_infantry_equipment_1_short: "FÉG M.35"
+TRS_infantry_equipment_1_desc: "Der Weltkrieg machte die Unzulänglichkeiten des M.95 nur allzu deutlich, insbesondere die relativ leistungsschwache Rundkopfpatrone und die erforderliche Wartung des Geradezugsystems. Steyr entwickelte die 8x56mm \"Spitzer\"-Patrone, die als Grundlage für eine neue Waffengeneration dienen und das M.95 zu seinem vollen Potenzial bringen sollte. Bei der Gewehrprüfung 1924 setzte sich die ungarische FÉG-Konstruktion durch, die auf dem ausgezeichneten Drehverschluss der Mannlicher-Schönauer basierte und angenommen wurde."
+TRS_infantry_equipment_2: "Brzostrelka Model 1939"
+TRS_infantry_equipment_2_short: "Danuvia M.39"
+TRS_infantry_equipment_2_desc: "Diese von Pál Király entworfene \"schwere\" Maschinenpistole verwendete speziell geladene 9x25-mm-Munition in einem Klappmagazin für Transport und Lagerung. Dadurch war es im Vergleich zu seinen Zeitgenossen sehr leistungsfähig und zuverlässig und erinnerte an spätere Sturmgewehrkonstruktionen."
+TRS_infantry_equipment_3: "Strojokarabin Model 1942"
+TRS_infantry_equipment_3_short: "Zbrojovka Brno M.42"
+TRS_infantry_equipment_3_desc: "Als klar wurde, dass sich die Gefechtsdistanzen seit dem Weltkrieg erheblich verkürzt hatten, interessierte sich die Monarchie für die Entwicklung einer Zwischenpatrone und die Idee der \"Maschinenkarabiner\". Die Gebrüder Koucký von Zbrojovka Brno präsentierten ihren Entwurf ZK 412 mit der 8x35-mm-"Rapid"-Patrone, die eine ähnliche Leistung wie die deutsche 8x33-mm-Kurz hat."
+TRS_infantry_weapons2: "Brzostrelka Model 1934"
+TRS_infantry_weapons2_short: "Steyr-Solothurn M.34"
+TRS_infantry_weapons2_desc: "Die MP 34 war zwar eine deutsche Konstruktion von Louis Stange, wurde aber hauptsächlich von Steyr hergestellt und von der österreichisch-ungarischen Armee übernommen. Wie bei frühen Maschinenpistolen üblich, war diese Konstruktion schwer, teuer, aber zuverlässig, mit einem horizontalen Magazin, das die starke 9x25mm Mauser-Patrone verwendete."
+TRS_improved_infantry_weapons_2: "Brzostrelka Model 1938"
+TRS_improved_infantry_weapons_2_short: "Zbrojovka Brno M.38"
+TRS_improved_infantry_weapons_2_desc: "Die Monarchie erkannte den Bedarf an einer Maschinenpistole mit der Standard-Pistolenpatrone der Armee und übernahm die ZK 383, die von den Brüdern Josef und František Koucký in Zbrojovka Brno entwickelt wurde, als MP 38. Die ZK 383 verwendet ein horizontales Magazin wie die MP 34 und ist dafür bekannt, dass sie ein leichtes Zweibein hat, wodurch sie als automatische Ersatzwaffe für die Truppe verwendet werden kann. Spätere Modelle wurden aus Gründen der billigeren und schnelleren Produktion stark vereinfacht und mit einem vertikal klappbaren Magazin wie die Danuvia SMGs ausgestattet."
+TRS_advanced_infantry_weapons2: "Brzostrelka Model 1943"
+TRS_advanced_infantry_weapons2_short: "Danuvia M.43"
+TRS_advanced_infantry_weapons2_desc: "Die Danuvia 39M erwies sich zwar als erfolgreich, aber ihr klappbares Magazin reichte nicht aus, um das sperrige Design für die Fahrzeugbesatzung zu kompensieren. Die Neukonstruktion der 43M mit einem klappbaren Metallschaft und einem neuen, zuverlässigeren klappbaren Magazin ermöglichte es, die Waffe beim Transport oder bei der Lagerung viel kompakter zu machen, ohne dabei an Feuerkraft einzubüßen."
+
 TRS_infantry_at: "Panzerjägerbüchse M.38"
 TRS_infantry_at2: "Raketenpanzerjägerbüchse M.42"
 TRS_support_weapons: "MG M.07/12 & MW M.14"
@@ -10699,66 +10725,66 @@ UGA_support_weapons2_short: "$GER_support_weapons2_short$"
 ###
 
 #Land
- UKR_infantry_equipment_0: "Hvyntivka Mosina-Nagana zr.91"
- UKR_infantry_equipment_0_short: "Hvyntivka zr.91"
- UKR_infantry_equipment_0_desc: "Die bewährte Mosin-Nagant mit Bajonett. Damit kann man nichts falsch machen."
- UKR_infantry_equipment_1: "Karabin Mosina-Nagana zr.91/30, 7,62x57-mm"
- UKR_infantry_equipment_1_short: "Karabin zr.91/30"
- UKR_infantry_equipment_1_desc: "Die 1930er Variante der Mosin-Nagant ist im Wesentlichen eine modernisierte Version mit besserer Visierung und geeignet für die Verwendung deutscher Mauser-Munition."
- UKR_infantry_equipment_2: "Samozariadna Hvyntivka zr.1939"
- UKR_infantry_equipment_2_short: "SH-39"
- UKR_infantry_equipment_2_desc: "Ein halbautomatisches Gewehr auf Basis des deutschen SG40."
- UKR_infantry_equipment_3: "Samozariadnyi Karabin zr.1943"
- UKR_infantry_equipment_3_short: "SK-43"
- UKR_infantry_equipment_3_desc: "Höhepunkt der ukrainischen Kleinwaffenproduktion: halbautomatisches Gewehr der zweiten Generation mit verlängertem Magazin und umgeklapptem Schaft."
+UKR_infantry_equipment_0: "Hvyntivka Mosina-Nagana zr.91"
+UKR_infantry_equipment_0_short: "Hvyntivka zr.91"
+UKR_infantry_equipment_0_desc: "Die bewährte Mosin-Nagant mit Bajonett. Damit kann man nichts falsch machen."
+UKR_infantry_equipment_1: "Karabin Mosina-Nagana zr.91/30, 7,62x57-mm"
+UKR_infantry_equipment_1_short: "Karabin zr.91/30"
+UKR_infantry_equipment_1_desc: "Die 1930er-Variante der Mosin-Nagant ist im Wesentlichen eine modernisierte Version, mit besserer Visierung und geeignet für die Verwendung deutscher Mauser-Munition."
+UKR_infantry_equipment_2: "Samozariadna Hvyntivka zr.1939"
+UKR_infantry_equipment_2_short: "SH-39"
+UKR_infantry_equipment_2_desc: "Ein halbautomatisches Gewehr auf Basis des deutschen SG40."
+UKR_infantry_equipment_3: "Samozariadnyi Karabin zr.1943"
+UKR_infantry_equipment_3_short: "SK-43"
+UKR_infantry_equipment_3_desc: "Höhepunkt der ukrainischen Kleinwaffenproduktion: halbautomatisches Gewehr der zweiten Generation mit verlängertem Magazin und umgeklapptem Schaft."
 
- UKR_infantry_at: "Vazhka Protypantserna Hvyntivka Ur zr.1939"
- UKR_infantry_at_short: "PH-39"
- UKR_infantry_at2: "Ruchnyi Protypantsernyi Hranatomet zr.1944"
- UKR_infantry_at2_short: "RPH-44"
- UKR_support_weapons: "Kulemet Maxyma zr.1910 & 9-cm Vazhkyi Minomet GR"
- UKR_support_weapons_short: "K-10 & 9-cm VM"
- UKR_support_weapons2: "Yedynyi Kulemet Mausera zr.1934 & 8,2-cm Lehkyi Minomet"
- UKR_support_weapons2_short: "EK-34 & 8,1-cm LM"
- UKR_support_weapons3: "Yedynyi Kulemet zr.1934/40 & 9,7-cm Hirskyi Minomet"
- UKR_support_weapons3_short: "EK-34/40 & 9,7-cm HM"
- UKR_support_weapons4: "Ruchnyi Kulemet zr.1943 & 12-cm Vazhkyi Minomet"
- UKR_support_weapons4_short: "RK-43 & 12-cm VM"
+UKR_infantry_at: "Vazhka Protypantserna Hvyntivka Ur zr.1939"
+UKR_infantry_at_short: "PH-39"
+UKR_infantry_at2: "Ruchnyi Protypantsernyi Hranatomet zr.1944"
+UKR_infantry_at2_short: "RPH-44"
+UKR_support_weapons: "Kulemet Maxyma zr.1910 & 9-cm Vazhkyi Minomet GR"
+UKR_support_weapons_short: "K-10 & 9-cm VM"
+UKR_support_weapons2: "Yedynyi Kulemet Mausera zr.1934 & 8,2-cm Lehkyi Minomet"
+UKR_support_weapons2_short: "EK-34 & 8,1-cm LM"
+UKR_support_weapons3: "Yedynyi Kulemet zr.1934/40 & 9,7-cm Hirskyi Minomet"
+UKR_support_weapons3_short: "EK-34/40 & 9,7-cm HM"
+UKR_support_weapons4: "Ruchnyi Kulemet zr.1943 & 12-cm Vazhkyi Minomet"
+UKR_support_weapons4_short: "RK-43 & 12-cm VM"
 
 UKR_night_vision: "$GER_night_vision$"
 UKR_night_vision_short: "$GER_night_vision_short$"
 
 #Motorised
- UKR_motorized_equipment_1: "OAZ V301"
- UKR_motorized_equipment_1_short: "V301"
- UKR_motorized_rocket_equipment_1: "Samokhidna Reaktyvna Systema Zalpovoho Vohniu zr.1940"
- UKR_motorized_rocket_equipment: "SRSZV Zr.40"
+UKR_motorized_equipment_1: "OAZ V301"
+UKR_motorized_equipment_1_short: "V301"
+UKR_motorized_rocket_equipment_1: "Samokhidna Reaktyvna Systema Zalpovoho Vohniu zr.1940"
+UKR_motorized_rocket_equipment: "SRSZV Zr.40"
 
- UKR_mechanized_equipment_1: "Napivhusenychnyi Bronetransporter zr.1938"
- UKR_mechanized_equipment_1_short: "NBTR-38"
- UKR_mechanized_equipment_2: "Napivhusenychnyi Bronetransporter zr.1942"
- UKR_mechanized_equipment_2_short: "NBTR-42"
- UKR_mechanized_equipment_3: "Bronetransporter zr.1945"
- UKR_mechanized_equipment_3_short: "BTR-45"
- UKR_amphibious_mechanized_equipment_1: "Bronetransporter-Amfibiia zr.1940"
- UKR_amphibious_mechanized_equipment_1_short: "BTRA-40"
- UKR_amphibious_mechanized_equipment_2: "Bronetransporter-Amfibiia zr.1943"
- UKR_amphibious_mechanized_equipment_2_short: "BTRA-43"
+UKR_mechanized_equipment_1: "Napivhusenychnyi Bronetransporter zr.1938"
+UKR_mechanized_equipment_1_short: "NBTR-38"
+UKR_mechanized_equipment_2: "Napivhusenychnyi Bronetransporter zr.1942"
+UKR_mechanized_equipment_2_short: "NBTR-42"
+UKR_mechanized_equipment_3: "Bronetransporter zr.1945"
+UKR_mechanized_equipment_3_short: "BTR-45"
+UKR_amphibious_mechanized_equipment_1: "Bronetransporter-Amfibiia zr.1940"
+UKR_amphibious_mechanized_equipment_1_short: "BTRA-40"
+UKR_amphibious_mechanized_equipment_2: "Bronetransporter-Amfibiia zr.1943"
+UKR_amphibious_mechanized_equipment_2_short: "BTRA-43"
 
 #Armoured Car
- UKR_gw_armored_car_equipment: "Broneavtomobil zr.1935"
- UKR_gw_armored_car_equipment_short: "BA-35"
- UKR_armored_car_equipment_1: "Broneavtomobil zr.1939"
- UKR_armored_car_equipment_1_short: "BA-39"
- UKR_armored_car_equipment_2: "Broneavtomobil zr.1942"
- UKR_armored_car_equipment_2_short: "BA-42"
- UKR_armored_car_at_equipment: "Broneavtomobil zr.1942/40"
- UKR_armored_car_at_equipment_short: "BA-42/40"
+UKR_gw_armored_car_equipment: "Broneavtomobil zr.1935"
+UKR_gw_armored_car_equipment_short: "BA-35"
+UKR_armored_car_equipment_1: "Broneavtomobil zr.1939"
+UKR_armored_car_equipment_1_short: "BA-39"
+UKR_armored_car_equipment_2: "Broneavtomobil zr.1942"
+UKR_armored_car_equipment_2_short: "BA-42"
+UKR_armored_car_at_equipment: "Broneavtomobil zr.1942/40"
+UKR_armored_car_at_equipment_short: "BA-42/40"
 
 #Trains
 UKR_train_equipment_1: "K.Bay.Sts.B. S 3/6 Ukr."
 UKR_train_equipment_1_short: "Bayern S 3/6 Ukr."
-UKR_train_equipment_1_desc: "Die Lokomotive, eine modifizierte Variante der Bayern S 3/6 L, sollte größtenteils von der Ukrainischen Machinenbaugesellschaft Hartmann in Lugansk hergestellt werden."
+UKR_train_equipment_1_desc: "Die Lokomotive, eine modifizierte Variante der Bayern S 3/6 L, sollte größtenteils von der Ukrainischen Machinenbaugesellschaft Hartmann in Luhanske hergestellt werden."
 UKR_train_equipment_2: "Preu. Sts.B. G 13 Ukr."
 UKR_train_equipment_2_short: "Prussian G 13 Ukr."
 #UKR_train_equipment_2_desc: ""
@@ -10771,31 +10797,31 @@ UKR_railway_gun_equipment_1: "TM-3-12"
 UKR_railway_gun_equipment_1_desc: "Die aus den geborgenen Geschützen der Imperatritsa Mariya gebauten Kanonen wurden auf eine Geschützplattform gesetzt und in Dienst gestellt."
 
 #Artillery
- UKR_artillery_equipment_1: "10,5-cm Lehka Haubytsia zr.1933"
- UKR_artillery_equipment_1_short: "10,5-cm LH-33"
- UKR_artillery_equipment_2: "15-cm Vazhka Haubytsia zr.1936"
- UKR_artillery_equipment_2_short: "15-cm VH-36"
- UKR_artillery_equipment_3: "17-cm Harmata zr.1940"
- UKR_artillery_equipment_3_short: "17-cm H-40"
+UKR_artillery_equipment_1: "10,5-cm Lehka Haubytsia zr.1933"
+UKR_artillery_equipment_1_short: "10,5-cm LH-33"
+UKR_artillery_equipment_2: "15-cm Vazhka Haubytsia zr.1936"
+UKR_artillery_equipment_2_short: "15-cm VH-36"
+UKR_artillery_equipment_3: "17-cm Harmata zr.1940"
+UKR_artillery_equipment_3_short: "17-cm H-40"
 
- UKR_anti_tank_equipment_1: "3,7-cm Protytankova Harmata zr.1936"
- UKR_anti_tank_equipment_1_short: "3,7-cm PTH-36"
- UKR_anti_tank_equipment_2: "7,5-cm Protytankova Harmata zr.1940"
- UKR_anti_tank_equipment_2_short: "7,5-cm PTH-40"
- UKR_anti_tank_equipment_3: "7,6-cm Protypantserna Harmata zr.1943"
- UKR_anti_tank_equipment_3_short: "7,6-cm PTH-43"
+UKR_anti_tank_equipment_1: "3,7-cm Protytankova Harmata zr.1936"
+UKR_anti_tank_equipment_1_short: "3,7-cm PTH-36"
+UKR_anti_tank_equipment_2: "7,5-cm Protytankova Harmata zr.1940"
+UKR_anti_tank_equipment_2_short: "7,5-cm PTH-40"
+UKR_anti_tank_equipment_3: "7,6-cm Protypantserna Harmata zr.1943"
+UKR_anti_tank_equipment_3_short: "7,6-cm PTH-43"
 
- UKR_anti_air_equipment_1: "2-cm Zenitna Harmata zr.1936"
- UKR_anti_air_equipment_1_short: "2-cm ZH-36"
- UKR_anti_air_equipment_2: "4-cm Zenitna Harmata zr.1939"
- UKR_anti_air_equipment_2_short: "4-cm AZH-39"
- UKR_anti_air_equipment_3: "8,8-cm Zenitna Harmata zr.1943"
- UKR_anti_air_equipment_3_short: "8,8-cm ZH-43"
+UKR_anti_air_equipment_1: "2-cm Zenitna Harmata zr.1936"
+UKR_anti_air_equipment_1_short: "2-cm ZH-36"
+UKR_anti_air_equipment_2: "4-cm Zenitna Harmata zr.1939"
+UKR_anti_air_equipment_2_short: "4-cm AZH-39"
+UKR_anti_air_equipment_3: "8,8-cm Zenitna Harmata zr.1943"
+UKR_anti_air_equipment_3_short: "8,8-cm ZH-43"
 
- UKR_rocket_artillery_equipment_1: "28/32-cm Reaktyvna Systema Zalpovoho Vohniu zr.1940"
- UKR_rocket_artillery_equipment_1_short: "RSZV-40"
- UKR_rocket_artillery_equipment_2: "21-cm Reaktyvna Systema Zalpovoho Vohniu zr.1942"
- UKR_rocket_artillery_equipment_2_short: "RSZV-42"
+UKR_rocket_artillery_equipment_1: "28/32-cm Reaktyvna Systema Zalpovoho Vohniu zr.1940"
+UKR_rocket_artillery_equipment_1_short: "RSZV-40"
+UKR_rocket_artillery_equipment_2: "21-cm Reaktyvna Systema Zalpovoho Vohniu zr.1942"
+UKR_rocket_artillery_equipment_2_short: "RSZV-42"
 
 ###
 ### Northern Ireland ###
@@ -10857,6 +10883,7 @@ USA_train_equipment_1: "Pennsylvania I1s Class"
 USA_train_equipment_2: "USATC S160 Class"
 USA_train_equipment_3: "ALCO FEF-3 'Living Legend' Class"
 USA_railway_gun_equipment_1: "8-inch Mk. VI"
+
 #Infantry Equip
 
 USA_infantry_equipment_0: "Rifle, Calibre .30-06, Model 1903"
@@ -11020,6 +11047,7 @@ VEN_train_equipment_1: "Gran Ferrocarril de Venezuela Schwartzkopff 2-8-2T"
 VEN_train_equipment_2: "FC Central de Venezuela 2-6-2T ‘PAO’"
 #VEN_train_equipment_3: ""
 #VEN_railway_gun_equipment_1: "" #feel free to add if you find more stuff
+
 ###
 ### Venice ###
 ###
@@ -11254,11 +11282,11 @@ WHR_infantry_equipment_3: "Samazaradnaja Vintouka uz.1942 Barnickia"
 WHR_infantry_equipment_3_short: "SV-42"
 WHR_infantry_equipment_3_desc: "Als die deutschen Maschinenkarabiner mit ihren Zwischenpatronen und Selektivfeuer-Fähigkeiten auf dem Schlachtfeld immer präsenter wurden, bot Karl Barnitzke von der Waffenfabrik Suhl eine neue Konstruktion als billigere, massenproduzierbare Alternative zum M.Kb. 42. Der Entwurf ist sehr einfach und leicht zu produzieren, mechanisch eine vergrößerte Pistole, die aus einer Vielzahl von gestanzten Blechen besteht und die gleiche Zwischenpatrone und 30-Schuss-Magazine verwendet. Dieses halbautomatische Gewehr konnte die deutsche Armee zwar nicht beeindrucken, weckte aber das Interesse der Oststaaten, insbesondere Weißrusslands, die nach einer billigen Alternative zum M.Kb. 42 suchten, da die Deutschen nicht bereit waren, sie zu teilen. Die Waffenfabrik Suhl ist gerne bereit, das Design zu produzieren und für die lokale Produktion zu lizenzieren, wodurch die Feuerkraft der ansonsten leichten Infanterie der östlichen Verbündeten Deutschlands erheblich gesteigert wird."
 
- # RMN-50
- WHR_improved_infantry_weapons_2: "Ruchny Minamiot uz.1943 Najmana"
- WHR_improved_infantry_weapons_2_short: "RMN-43"
- WHR_improved_infantry_weapons_2_desc: "Die RMN-43 wurde von dem weißrussischen Chemiker Isaak Markovich Najman entwickelt, als die weißrussischen Partisanen eine tragbare Waffe benötigten, die in der Lage war, Sprengstoff zu verschießen, der schwerer als eine Gewehrgranate, aber leichter als ein Mörser war. Najmans \"Handmörser\" war ein Mosin-Gewehr, bei dem der Lauf durch ein verkürztes Rohr einer 5-cm-LeGrW 36 ersetzt wurde. Mit der weit verbreiteten Munition dieses Gewehrs konnte der Najman-Handmörser bei "Hit-and-Run"-Angriffen schwere Schäden anrichten, was den Angreifern einen schnellen Rückzug ermöglichte und Leben rettete, da die Waffe nicht eingesetzt werden musste."
- 
+# RMN-50
+WHR_improved_infantry_weapons_2: "Ruchny Minamiot uz.1943 Najmana"
+WHR_improved_infantry_weapons_2_short: "RMN-43"
+WHR_improved_infantry_weapons_2_desc: "Die RMN-43 wurde von dem weißrussischen Chemiker Isaak Markovich Najman entwickelt, als die weißrussischen Partisanen eine tragbare Waffe benötigten, die in der Lage war, Sprengstoff zu verschießen, der schwerer als eine Gewehrgranate, aber leichter als ein Mörser war. Najmans \"Handmörser\" war ein Mosin-Gewehr, bei dem der Lauf durch ein verkürztes Rohr einer 5-cm-LeGrW 36 ersetzt wurde. Mit der weit verbreiteten Munition dieses Gewehrs konnte der Najman-Handmörser bei \"Hit-and-Run\"-Angriffen schwere Schäden anrichten, was den Angreifern einen schnellen Rückzug ermöglichte und Leben rettete, da die Waffe nicht eingesetzt werden musste."
+
 #Panzerbuchse 39:
 WHR_infantry_at: "Procitankavaja Strelbu Braujera uz.1939"
 WHR_infantry_at_short: "PTS-39"

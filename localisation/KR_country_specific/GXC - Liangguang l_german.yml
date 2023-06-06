@@ -1,5 +1,7 @@
 ﻿l_german:
+
 ##Übersetzt von Thylon##
+
 KR_Liangguang_Federalist: "Schwerpunktbaum von Föderalistisches Liangguang"
 KR_federalist_china: "Schwerpunktbaum von Föderalistisches China"
 KR_Guangxi_Clique: "Schwerpunktbaum von Guangxi Clique"
@@ -15,8 +17,9 @@ KR_RKMT: "Schwerpunktbaum von Rechte Kuomintang"
 GXC_merge_eco_spirit_dummy: "die fusionierte Nationalgeist"
 GXC_guangxi_merge_ideas: "Dieser Schwerpunkt wird §Halle Guangxi-bezogenen Nationalgeister§! zu einem einzigen Nationalgeist verschmelzen, der auf unseren Reformen beruht!"
 GXC_guangdong_merge_ideas: "Vereint §Halle Guangdong-bezogenen Nationalgeister§!"
- GXC_if_seventh_army_chosen: "Wenn §H$GXC_seventh_army$§! gewählt wurde:"
- GXC_if_fourth_army_chosen: "Wenn §H$GXC_fourth_army$§! gewählt wurde:"
+GXC_if_seventh_army_chosen: "Wenn §H$GXC_seventh_army$§! gewählt wurde:"
+GXC_if_fourth_army_chosen: "Wenn §H$GXC_fourth_army$§! gewählt wurde:"
+GXC_military_effect_tooltip: "Ersetze §H$GXC_officer_vanguards_idea$§! oder §H$GXC_professional_officers$§! mit §H$GXC_liangguang_NRA$§!\nEffektive Veränderung:\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+5.0%§!\n$MODIFIER_ARMY_ORG_FACTOR$: §G+5.0%§!\n"
 guangxi_rebels_tt: "Die Guangxi Clique rebelliert gegen unsere Herrschaft!\n"
 guangdong_loyalists_tt: "Loyalisten in Guangdong werden gegen uns einen Aufstand anzetteln!\n"
 civilian_guangxi: "Wir haben die zivile Autorität in Guangxi wiederhergestellt"
@@ -74,7 +77,7 @@ GXC_rkmt_navy_prep_tt: "§LWir werden damit beginnen, unsere Küsten und die Kü
 
 GXC_national_monopoly_tt: "§LWenn wir den Wirtschaftsberater §YSong Ziwen (TV Song)§! einstellen, erhalten wir zusätzliche Verbesserungen für diesen Schwerpunkt!§!"
 
-  GXC_kong_xiangxi_political_advisor_helpful_tt: "§LWenn wir den Wirtschaftsberater §YKong Xiangxi§! beauftragen, erhalten wir zusätzliche Verstärkungen für diesen Schwerpunkt!§!"
+GXC_kong_xiangxi_political_advisor_helpful_tt: "§LWenn wir den Wirtschaftsberater §YKong Xiangxi§! einstellen, erhalten wir zusätzliche Verstärkungen für diesen Schwerpunkt!§!"
 
 GXC_warlord_integration_tt: "§LWir werden in der Lage sein, Generäle aus den ehemaligen Warlord-Cliquen zu rekrutieren, sollten diese gründlich besiegt werden!§!"
 
@@ -500,7 +503,7 @@ GXC_three_year_plan: "Der Dreijahres-Verwaltungsplan"
 GXC_three_year_plan_desc: "Unsere Zeit ist begrenzt, wenn wir das Land tatsächlich vereinigen oder die Autonomie unserer Provinz erhalten wollen. Unsere Ingenieure und Investoren haben einen radikalen Dreijahresplan zur raschen Modernisierung der Musterprovinz Chinas vorgeschlagen, wenn wir auch nur von einer nationalen Vereinigung unter unserer Flagge zu träumen wagen."
 
 GXC_grand_construction_scheme: "Großes Bauprogramm"
-GXC_grand_construction_scheme_desc: "Da Guangdong nach wie vor der industriellere Teil von Liangguang ist, müssen wir es als Teil der nationalen Revolution auf uns nehmen, auch Guangxi zu industrialisieren und zu entwickeln. Im Einklang mit Sun Yat-sens Idealen des nationalen Wiederaufbaus werden wir die Bauanstrengungen in der gesamten Provinz fördern, um sie zu entwickeln und unseren Bedürfnissen anzupassen."
+GXC_grand_construction_scheme_desc: "Da Guangdong nach wie vor der industriellere Teil von Liangguang ist, müssen wir es im Rahmen der nationalen Revolution auf uns nehmen, auch Guangxi zu industrialisieren und zu entwickeln. Um unsere Provinz mit der spärlichen Industrie, die wir haben, schnell zu entwickeln, werden wir die Bauanstrengungen in der ganzen Provinz fördern, damit sie sich entwickeln und unseren Bedürfnissen entsprechen."
 
 GXC_rapid_industrialisation: "Rasche Industrialisierung"
 GXC_rapid_industrialisation_desc: "Mehr, mehr, immer mehr. Unsere Provinz ächzt unter der Müdigkeit unseres großen Militärs, aber um unsere Rüstungsproduktion und -quoten zu erfüllen, müssen wir unsere Industrie zu noch mehr Wachstum herausfordern. Wir müssen die Bauanstrengungen für unsere Eisenbahnen, unsere zivilen Industrien und unsere Militärindustrien verstärken, wenn wir Liangguang zu seinem vollen Potenzial entwickeln wollen."
@@ -1434,10 +1437,10 @@ lngkmt.22.t: "Gedenken an die Märtyrer"
 lngkmt.22.d: "Guangdong ... die Wiege der Revolution. Seit dem Zusammenbruch der Ming-Dynastie ist der Dissens gegenüber den Mandschu-Herrschern des Nordens in der südlichsten Provinz Chinas weit verbreitet. Guangdong ist in der Tat der Geburtsort der nationalen Revolution. Die Märtyrer der Revolution wurden in Guangdong geboren, wie die 72 Märtyrer, die im Zweiten Guangzhou-Aufstand ihr Leben ließen, um die Qing loszuwerden. Wie ein Selbstmordkommando schrieben sie Briefe an ihre Lieben, bevor sie ihre schicksalhaften Aktivitäten ausführten. Tatsächlich wurde der Geist des Martyriums in Form der Wagemutigen Divisionen weitergeführt. Patrioten, die bereit waren, ihr Leben für ein freieres China in der folgenden Revolution von 1911 und der Nordexpedition zu geben. Mit der Rückkehr der Qing wurden die Opfer der Märtyrer tatsächlich in Frage gestellt. Waren ihre Opfer umsonst?\n\n Nicht mehr. Mit der Rückkehr einer republikanischen Regierung in Guangzhou hat sich dies jedoch geändert. Wie der mythische Phönix ist die Bewegung zu einem freien China wiedergeboren! Wir haben uns neu gruppiert und sind gestärkter, um unsere gefallenen Brüder zu rächen und uns von der Verschmutzung der Qing-Dynastie zu befreien. Wir werden unsere Brüder rächen und eine neue Expedition in den Norden unternehmen. Die Märtyrer werden in Statuen und Prosa aus ganz China verherrlicht und erinnert. Wenn unsere Position gesichert ist, werden wir planen, üben und bereit sein, die Qing-Despoten ein für alle Mal abzusetzen."
 lngkmt.22.a: "Fan Qīng fù Míng!"
 
- lngkmt.23.t.annexed: "Das Schicksal der Dritten NRA"
- lngkmt.23.t.long_yun: "Die NRA flieht aus Yunnan"
- lngkmt.23.d.annexed: "Nach der gescheiterten Nordexpedition kehrten die verbliebenen Mitglieder der 3. NRA nach Yunnan zurück, um innerhalb der Verwaltung von Tang Jiyao eine neue Karriere aufzubauen, und da die Provinz nun unter unserer Kontrolle ist, haben wir die Möglichkeit, die verlorenen Mitglieder der KMT wieder in die NRA zu integrieren. Die Generäle Zhu Peide, He Yingqin und Kim Hong-il sind loyale Mitglieder der KMT und werden die Möglichkeit erhalten, ihre Talente in der NRA zu nutzen. Die Generäle Fan Shisheng, Jin Handing und Luo Binghui sind ebenfalls Kandidaten für die Aufnahme in die NRA, ihre Loyalität zur KMT ist jedoch ungewiss."
- lngkmt.23.d.long_yun: "Nach der gescheiterten Nordexpedition kehrten die verbliebenen Mitglieder der 3. NRA nach Yunnan zurück, um innerhalb der Verwaltung von Tang Jiyao eine neue Karriere aufzubauen. Nachdem General Long Yun Yunnan nach dem blutigen Bürgerkrieg gesichert hatte, beschlossen die Generäle der Kuomintang, aus Angst um ihr Leben aus der Provinz zu fliehen. Die Generäle Zhu Peide, He Yingqin und Kim Hong-il sind loyale Mitglieder der KMT und werden die Möglichkeit erhalten, ihre Talente in der NRB einzusetzen. Die Generäle Fan Shisheng, Jin Handing und Luo Binghui sind ebenfalls Kandidaten für die Eingliederung in die NRB, ihre Loyalität zur KMT ist jedoch ungewiss."
+lngkmt.23.t.annexed: "Das Schicksal der Dritten NRA"
+lngkmt.23.t.long_yun: "Die NRA flieht aus Yunnan"
+lngkmt.23.d.annexed: "Nach der gescheiterten Nordexpedition kehrten die verbliebenen Mitglieder der 3. NRA nach Yunnan zurück, um innerhalb der Verwaltung von Tang Jiyao eine neue Karriere aufzubauen, und da die Provinz nun unter unserer Kontrolle ist, haben wir die Möglichkeit, die verlorenen Mitglieder der KMT wieder in die NRA zu integrieren. Die Generäle Zhu Peide, He Yingqin und Kim Hong-il sind loyale Mitglieder der KMT und werden die Möglichkeit erhalten, ihre Talente in der NRA zu nutzen. Die Generäle Fan Shisheng, Jin Handing und Luo Binghui sind ebenfalls Kandidaten für die Aufnahme in die NRA, ihre Loyalität zur KMT ist jedoch ungewiss."
+lngkmt.23.d.long_yun: "Nach der gescheiterten Nordexpedition kehrten die verbliebenen Mitglieder der 3. NRA nach Yunnan zurück, um innerhalb der Verwaltung von Tang Jiyao eine neue Karriere aufzubauen. Nachdem General Long Yun Yunnan nach dem blutigen Bürgerkrieg gesichert hatte, beschlossen die Generäle der Kuomintang, aus Angst um ihr Leben aus der Provinz zu fliehen. Die Generäle Zhu Peide, He Yingqin und Kim Hong-il sind loyale Mitglieder der KMT und werden die Möglichkeit erhalten, ihre Talente in der NRB einzusetzen. Die Generäle Fan Shisheng, Jin Handing und Luo Binghui sind ebenfalls Kandidaten für die Eingliederung in die NRB, ihre Loyalität zur KMT ist jedoch ungewiss."
 lngkmt.23.a: "Nur den zuverlässigen Generälen kann man trauen."
 lngkmt.23.b: "Sie werden sich an uns für ihre Misserfolge rächen."
 
@@ -1733,6 +1736,31 @@ united_china_guangxi_paternal_autocrat_DEF: "die Republik China"
 united_china_guangxi_national_populist: "Republik China"
 united_china_guangxi_national_populist_DEF: "die Republik China"
 
+united_china_kuomintang_guangdong: "China"
+united_china_kuomintang_guangdong_ADJ: "Chinesisch"
+united_china_kuomintang_guangdong_DEF: "China"
+
+united_china_kuomintang_guangdong_totalist: "Republik China"
+united_china_kuomintang_guangdong_totalist_DEF: "die Republik China"
+united_china_kuomintang_guangdong_syndicalist: "Republik China"
+united_china_kuomintang_guangdong_syndicalist_DEF: "die Republik China"
+united_china_kuomintang_guangdong_radical_socialist: "Republik China"
+united_china_kuomintang_guangdong_radical_socialist_DEF: "die Republik China"
+united_china_kuomintang_guangdong_social_democrat: "Republik China"
+united_china_kuomintang_guangdong_social_democrat_DEF: "die Republik China"
+united_china_kuomintang_guangdong_social_liberal: "Republik China"
+united_china_kuomintang_guangdong_social_liberal_DEF: "die Republik China"
+united_china_kuomintang_guangdong_market_liberal: "Republik China"
+united_china_kuomintang_guangdong_market_liberal_DEF: "die Republik China"
+united_china_kuomintang_guangdong_social_conservative: "Republik China"
+united_china_kuomintang_guangdong_social_conservative_DEF: "die Republik China"
+united_china_kuomintang_guangdong_authoritarian_democrat: "Republik China"
+united_china_kuomintang_guangdong_authoritarian_democrat_DEF: "die Republik China"
+united_china_kuomintang_guangdong_paternal_autocrat: "Republik China"
+united_china_kuomintang_guangdong_paternal_autocrat_DEF: "die Republik China"
+united_china_kuomintang_guangdong_national_populist: "Republik China"
+united_china_kuomintang_guangdong_national_populist_DEF: "die Republik China"
+
 ### KMT Parties ###
 GXC_kmt_whampoa_clique: "Whampoa Clique"
 GXC_kmt_whampoa_clique_long: "Whampoa Clique (Huángpŭ jítuan)\n\n§LWährend seiner Amtszeit als Direktor der Whampoa-Militärakademie schuf der verstorbene Generalissimus Chiang Kai-shek unter seinen rechtsgerichteten Studenten eine Kultanhängerschaft. Sie stehen auch unter dem starken Einfluss des rechten Ideologen der Kuomintang, Dai Jitao, und gelten als die rechtsextreme Gruppe der Kuomintang. Mit dem Erstarken des rechten Flügels der Kuomintang-Organisation gewinnt die Whampoa-Clique täglich an Stärke, da immer mehr radikale Studenten den Verlockungen ihres militaristischen Tons der Revolution erliegen.§!\n"
@@ -1803,7 +1831,7 @@ GXC_zhang_gongquan: "Zhang Gongquan"
 GXC_chen_lianzhong: "Chen Lianzhong"
 GXC_tan_yankai: "Tan Yankai"
 
- GXC_kong_xiangxi: "Kong Xiangxi" ##HH Kung
+GXC_kong_xiangxi: "Kong Xiangxi" ##HH Kung
 
 GXC_ma_ji: "Ma Ji"
 GXC_ma_ji_leader_desc: "§YBerater Beschreibung\nGeboren:§! §g1888, in Baise, Guangxi, Qing-Reich§!\n§YPolitische Karriere:§! Ma Ji ist das Oberhaupt der Guangxi-Clique nach dem Tod von Lu Rongting. Als jüngerer Adoptivsohn von Lu wurden seine Ansichten und Einstellungen stark von seinem Adoptivvater beeinflusst. Als Lu Rongting während der Xinhai-Revolution Gouverneur von Guangxi wurde, war Ma sein Stellvertreter, und die beiden waren an der Nationalen Schutzbewegung beteiligt, die das Regime von Yuan Shikai stürzte. Nach einem kurzen Krieg mit Yunnan wurde die Guangxi-Clique von Lu durch die mit der KMT verbündete Neue Guangxi-Clique aus der Provinz vertrieben. Während Lu sich nach Hongkong zurückzog und sich mit Chen Jiongming verbündete, ging Ma Ji, der sich zu dieser Zeit in Hunan aufhielt, nach Norden und schloss sich der Zhili-Clique von Wu Peifu an. Zum Zeitpunkt der gescheiterten Nordexpedition der KMT führte er die Fünfzehnte Armee gegen die KMT an. Er errang einen Sieg gegen die sich zurückziehende Siebte Armee der Nationalisten, die sich ebenfalls aus Soldaten aus Guangxi zusammensetzte. Später überzeugte er sie davon, sich zurückzuziehen, indem er erklärte: "Das Volk von Guangxi kämpft nicht gegen das Volk von Guangxi". Nach der Nordexpedition schloss sich Ma Ji nach seiner Wiedereinsetzung in die Provinzregierung von Guangxi wieder Lu Rongting an. Von dort aus leitete er den Modernisierungsplan der Provinzarmee, was ihm viel Einfluss und Erfahrung bei der Verwaltung der Angelegenheiten der Clique verschaffte. Er bleibt der Provinz und ihrer Bevölkerung treu und setzt sich für den Regionalismus und das pluralistische Erbe von Lu Rongting ein."

@@ -477,7 +477,7 @@
 
 ### Decisions ###
  ARM_foreign_policy: "Außenpolitik Armeniens"
- ARM_join_reichspakt: "Beitritt zum Reichspakt"
+  ARM_join_faction: "Beitritt [FROM.GetFactionName]"
  ARM_request_industrial_support: "Anfrage [FROM.GetAdjective] Industrielle Unterstützung"
 
  ARM_war_of_independence: "Der Unabhängigkeitskrieg"

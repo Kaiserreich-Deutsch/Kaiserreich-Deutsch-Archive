@@ -1,5 +1,7 @@
 ﻿l_german:
+
 ##Übersetzt von Thylon##
+
 new_england_focus: "Schwerpunktbaum von Neuengland"
 
 ### Parties ###
@@ -911,7 +913,7 @@ NEE_The_Gate_Between_The_Oceans_desc: "1914 wurde unser großes Bauprojekt endli
 NEE_Form_The_San_Francisco_Accord: "Gründet den San Francisco Akkord"
 NEE_Form_The_San_Francisco_Accord_desc: "Um eine stärkere Zusammenarbeit zwischen den Nationen des Pazifiks unter der Führung von [NEE.GetNameDef] zu fördern, werden wir einen kooperativen Forschungspakt mit Sitz in San Francisco bilden. Wir werden die Nationen Südostasiens einladen, sich unserer Kooperation anzuschließen, damit wir gemeinsam durch den Austausch von Forschungsergebnissen stärker werden und den Fortbestand demokratischer Ideen im gesamten Pazifikraum gewährleisten können."
 
-unlock_SFA_decisions: "Dadurch werden £GFX_decision_icon_small §YEntscheidungen§! freigeschaltet, um §CAsiatische Nationen§! einzuladen, dem £GFX_research_icon §GSan Francisco Akkords§! beizutreten!"
+unlock_SFA_decisions: "Dadurch werden £GFX_decision_icon_small §YEntscheidungen§! freigeschaltet, um §CAsiatische Nationen§! einzuladen, der Wirtschaftssphäre £GFX_research_icon §GSan Francisco Akkords§! beizutreten!"
 
 NEE_American_Industrial_Aid: "Amerikanische Industriehilfe"
 NEE_American_Industrial_Aid_desc: "Die Macht der amerikanischen Industrie sollte mit dem Rest der Welt geteilt werden. Da weite Teile Asiens im Vergleich zu unserem Land bei der Industrialisierung noch hinterherhinken, werden wir Berater und Finanzinvestitionen entsenden, um das weitere Wachstum und die Entwicklung der asiatischen Nationen zu unterstützen. Dies wird nicht nur ihre Produktion fördern, sondern auch ihr Vertrauen in die Demokratie stärken."
@@ -1706,7 +1708,7 @@ newengland.166.a: "Handel bringt Wohlstand!"
 
 # Cross Parkway
 newengland.167.t: "Wilbur Cross Parkway"
-newengland.167.d: "Die Arbeiten am \"Wilbur Cross Parkway"\", einem vierspurigen Parkway, der den Merritt Parkway über dem Housatonic River an der Stadtgrenze zwischen Milford und Stanford verbindet, sind zügig vorangekommen. Das nach dem ehemaligen Gouverneur von Connecticut und der provisorischen Regierung von Neuengland, Wilbur Cross, benannte Projekt soll die Infrastruktur des Bundesstaates Connecticut erweitern und die Verkehrsbelastung verringern. Das ehrgeizige Projekt soll der längste Fahrzeugtunnel in ganz Neuengland werden.\n\nDer erste Abschnitt dieses Parkways, der als Fortsetzung des Merritt Parkway fungiert, wurde am Labour Day des vergangenen Jahres eröffnet und bei Milford direkt an die Boston Post Road angeschlossen. Mit dem Beginn der Bauarbeiten zur Verbindung zwischen dem Nutmeg State und dem Bay State hoffen Ingenieure und Berater, dass die Autofahrer diesen berühmten Parkway nutzen werden. Seit der Eröffnung des ersten Abschnitts des Merritt Parkway hat die Zahl der Autos, die die Strecke passieren, stetig zugenommen. Man hofft und erwartet, dass mehr Fahrgäste die Autobahn voll ausnutzen werden, um einen sicheren Hochgeschwindigkeitsverkehr zu ermöglichen."
+newengland.167.d: "Die Arbeiten am \"Wilbur Cross Parkway"\", einem vierspurigen Parkway, der den Merritt Parkway über den Housatonic River an der Stadtgrenze zwischen Milford und Stanford verbindet, sind zügig vorangekommen. Das nach dem ehemaligen Gouverneur von Connecticut und der provisorischen Regierung von Neuengland, Wilbur Cross, benannte Projekt soll die Infrastruktur des Bundesstaates Connecticut erweitern und die Verkehrsbelastung verringern. Das ehrgeizige Projekt soll der längste Fahrzeugtunnel in ganz Neuengland werden.\n\nDer erste Abschnitt dieses Parkways, der als Fortsetzung des Merritt Parkway fungiert, wurde am Labour Day des vergangenen Jahres eröffnet und bei Milford direkt an die Boston Post Road angeschlossen. Mit dem Beginn der Bauarbeiten zur Verbindung zwischen dem Nutmeg State und dem Bay State hoffen Ingenieure und Berater, dass die Autofahrer diesen berühmten Parkway nutzen werden. Seit der Eröffnung des ersten Abschnitts des Merritt Parkway hat die Zahl der Autos, die die Strecke passieren, stetig zugenommen. Man hofft und erwartet, dass mehr Fahrgäste die Autobahn voll ausnutzen werden, um einen sicheren Hochgeschwindigkeitsverkehr zu ermöglichen."
 newengland.167.a: "Zu Ehren von Gouverneur Cross!"
 
 # Dulles Rails TI

@@ -1,5 +1,7 @@
 ﻿l_german:
+
 ##Übersetzt von Thylon##
+
 ### Operative Traits ###
 operative_bold: "Kühn"
 operative_bold_desc: "Der Agent ist ausgezeichnet darin, schnelle Entscheidungen zu treffen und den besten Zeitpunkt zum Zuschlagen zu berechnen."
@@ -29,7 +31,7 @@ operative_master_saboteur_desc: "Wenn dieser Agent in die Nähe kommt, kann er e
 ### Unit Leader Traits ###
 artillery_officer: "Artillerie Offizier"
 artillery_officer_desc: "§LAusgebildet als Artillerieoffizier.§!"
-artillery_specialist: "Artillerie-Führer"
+artillery_specialist: "Artillerieführer"
 artillery_specialist_desc: "§LGeschickt im Lenken von Artillerie im Kampf.§!"
 artillery_expert: "Artillerie Experte"
 artillery_expert_desc: "Ein wahrer Experte im Lenken von Artillerie."

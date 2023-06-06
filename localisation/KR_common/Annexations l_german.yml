@@ -1111,7 +1111,9 @@ annex.2019.b: "Geben Sie es unserem westindischen Verbündeten"
 
 annexation_BOL_CONQ: "Das Schicksal von Bolivien"
 annexation_BOL_CONQ_desc: "Nach einem Feldzug durch die Dschungel und Wüsten Boliviens haben wir es endlich geschafft, die Tore zu den Anden zu erreichen. La Paz ist nun in unserer Hand! Wir müssen nun über die Zukunft Boliviens entscheiden."
-annex.2020.a: "Befreien Sie Bolivien unter einer freundlichen Regierung!"
+ annex.2020.a: "Freigabe eines unabhängigen Boliviens."
+ annex.2020.b: "[PRU.GetGrantTerritoryEventOption]"
+ annex.2020.c: "Peru und Bolivien wiedervereinigen."
 
 annex.2021.t: "Die Exklave von Arica"
 annex.2021.d: "Die chilenische Exklave Arica befindet sich zwischen unserem Hoheitsgebiet und dem peruanischen Staat Arequipa. Wir sind auf den Anspruch Perus auf diesen Staat aufmerksam gemacht worden und könnten dies nutzen, um unsere Bindungen mit ihnen zu verstärken. Wir könnten das Gebiet auch Chile überlassen, trotz seiner ungünstigen geografischen Lage.\n\nOder wir könnten es natürlich für uns annektieren."

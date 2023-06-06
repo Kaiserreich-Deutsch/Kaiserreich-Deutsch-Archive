@@ -145,8 +145,14 @@ china_can_core_through_compliance: "Chinesische Länder können zu Kernstaaten w
 china_compliance_gain_plus_one: "(§Y$all_chinese_countries_tt_cap$§!) $MODIFIER_COMPLIANCE_GAIN_ADD$: [?0.01|+=%%]"
 china_resistance_target_minus_ten_percent: "(§Y$all_chinese_countries_tt_cap$§!) $MODIFIER_RESISTANCE_TARGET$: [?-0.1|-=%0]"
 
- owner_of_beijing_has_wargoal_against_ROOT: "§YBesitzer§! von §Y[608.GetName]§!: Hat ein Kriegsziel gegen §Y[ROOT.GetNameWithFlag]§!"
- owner_of_beijing_has_war_with_wargoal_against_ROOT: "§YBesitzer§! von §Y[608.GetName]§!: Hat einen Krieg mit aktivem Kriegsziel gegen §Y[ROOT.GetNameWithFlag]§!"
+owner_of_beijing_has_wargoal_against_ROOT: "§YBesitzer§! von §Y[608.GetName]§!: Hat ein Kriegsziel gegen §Y[ROOT.GetNameWithFlag]§!"
+owner_of_beijing_has_war_with_wargoal_against_ROOT: "§YBesitzer§! von §Y[608.GetName]§!: Hat einen Krieg mit aktivem Kriegsziel gegen §Y[ROOT.GetNameWithFlag]§!"
+
+china_gets_event_109_from_china_refused_autonomy: "$gets_event_start$$china_events.109.t.from_china_refused_autonomy$$gets_event_end$"
+china_gets_event_109_from_china_refused_lands: "$gets_event_start$$china_events.109.t.from_china_refused_lands$$gets_event_end$"
+china_gets_event_109_from_china_refused_both: "$gets_event_start$$china_events.109.t.from_china_refused_both$$gets_event_end$"
+china_gets_event_109_from_russia: "$gets_event_start$$china_events.109.t.from_russia$$gets_event_end$"
+china_gets_event_109_from_india: "$gets_event_start$$china_events.109.t.from_india$$gets_event_end$"
 
 ### Army Reform
 china_army_decisions: "Armeereform"

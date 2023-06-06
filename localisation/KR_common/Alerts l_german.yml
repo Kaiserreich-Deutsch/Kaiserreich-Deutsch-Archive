@@ -1,5 +1,7 @@
 ﻿l_german:
+
 ##Übersetzt von Thylon##
+
 #######################
 ### Faction Joining ###
 #######################
@@ -107,11 +109,11 @@ country_integration_alert_message: "Alle kontrollierten Kernstaaten von §Y[?int
 ### Incoming War-ning ###
 #########################
 
- incoming_war_alert_title: "DROHENDE KRIEGSERKLÄRUNG"
- incoming_war_alert_message: "[GetIncomingWarAlertMessage]"
+incoming_war_alert_title: "DROHENDE KRIEGSERKLÄRUNG"
+incoming_war_alert_message: "[GetIncomingWarAlertMessage]"
 
- incoming_war_alert_message_self: "§Y[THIS.GetNameDefCap]§! bereitet sich darauf vor, uns den Krieg zu erklären!"
- incoming_war_alert_message_puppet: "§Y[THIS.GetNameDefCap]§! bereitet sich darauf vor, unserem Oberherrn §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§! den Krieg zu erklären!"
- incoming_war_alert_message_guarantor: "§Y[THIS.GetNameDefCap]§! schickt sich an, §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§! den Krieg zu erklären, dessen Unabhängigkeit wir garantieren!"
- incoming_war_alert_message_civil_war: "§Y[THIS.GetNameDefCap]§! schickt sich an, §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§! den Krieg zu erklären!"
- incoming_war_alert_message_ally: "§Y[THIS.GetNameDefCap]§! bereitet sich darauf vor, unserem Verbündeten §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§! den Krieg zu erklären!"
+incoming_war_alert_message_self: "§Y[THIS.GetNameDefCap]§! bereitet sich darauf vor, uns den Krieg zu erklären!"
+incoming_war_alert_message_puppet: "§Y[THIS.GetNameDefCap]§! bereitet sich darauf vor, unserem Overlord den Krieg zu erklären §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§!!"
+incoming_war_alert_message_guarantor: "§Y[THIS.GetNameDefCap]§! bereitet sich darauf vor §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§!, den Krieg zu erklären, deren Unabhängigkeit wir garantieren!"
+incoming_war_alert_message_civil_war: "§Y[THIS.GetNameDefCap]§! bereitet sich darauf vor, §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§! den Krieg zu erklären!"
+incoming_war_alert_message_ally: "§Y[THIS.GetNameDefCap]§! bereitet sich darauf vor, unserem Verbündeten §Y[?ROOT.alert_war_target_@THIS.GetNameDef]§! den Krieg zu erklären!"

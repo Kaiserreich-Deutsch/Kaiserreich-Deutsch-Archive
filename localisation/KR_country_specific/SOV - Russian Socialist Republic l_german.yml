@@ -1,5 +1,7 @@
 ﻿l_german:
+
 ##Übersetzt von Thylon##
+
 ### Country Names ###
 SOV: "Russland"
 SOV_ADJ: "Russisch"
@@ -396,7 +398,7 @@ russoc.123.b: "Kollontai scheint die beste Wahl zu sein."
 russoc.124.t: "Sozialistische Vorwahlen"
 russoc.124.d: "Die sozialistische Partei Russlands muss heute ihren Vertreter wählen, der das Land bei den kommenden Wahlen führen soll. Auf der einen Seite Rykow, der Gemäßigte, der ein Bündnis mit den Demokraten eingehen will. Auf der anderen Seite Bucharin, der die Linie von Lenin fortsetzen will."
 russoc.124.a: "Rykov ist die klügste Wahl."
-russoc.124.b: "Bucharine wird das Erbe der Bolschewiki weiterführen."
+russoc.124.b: "Bukharin wird das Erbe der Bolschewiki weiterführen."
 
 ### Traits ###
 INT_russian_exile_trait: "Russisches Exil"

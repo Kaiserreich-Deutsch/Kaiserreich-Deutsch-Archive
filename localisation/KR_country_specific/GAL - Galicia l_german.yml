@@ -1,5 +1,7 @@
 ﻿l_german:
+
 ##Übersetzt von Thylon##
+
 ### Political Parties ###
 GAL_totalist_party: "$GAL_radical_socialist_party$"
 GAL_totalist_party_long: "$GAL_radical_socialist_party_long$"
@@ -40,7 +42,7 @@ gal.1.b: "Galizien soll unabhängig bleiben."
 gal.2.t: "Galizien sucht den Anschluss an unsere Nation"
 gal.2.d: "Nach Jahrhunderten unter habsburgischer Herrschaft, die mit der ersten Teilung des polnisch-litauischen Commonwealth im Jahr 1772 begann, sieht sich Galizien und Lodomerien unabhängig. Doch als schwacher Staat, umgeben von beeindruckenden Nachbarn, fühlt sich die neue unabhängige Nation in ihrer Existenz bedroht. Heute ist ein diplomatischer Gesandter eingetroffen, um über eine Eingliederung Galiziens in das polnische und rumänische Staatsgebiet zu beraten."
 gal.2.a: "Willkommen zuhause, Brüder."
- gal.2.b: "Die ukrainischen Galizier schließen sich der Ukraine an."
+gal.2.b: "Die ukrainischen Galizier schließen sich der Ukraine an."
 
 gal.3.t: "Galizien wünscht sich eine Union mit Polen"
 gal.3.d: "Das ehemalige österreichische Gebiet Galizien-Lodomerien scheint sich in letzter Zeit in einem Schwebezustand zu befinden. Die 1772 von den Habsburgern im Zuge der Teilung Polens erworbene Region wird von einer Mischung aus Polen und Ukrainern bewohnt, die keine große Bindung an eine galizische Identität entwickelt haben - stattdessen haben sie es vorgezogen, sich stärker mit ihren jeweiligen Landsleuten anderswo zu identifizieren. Daher betrachten nur wenige den Satellitenstaat, den wir in der Region errichtet haben, als etwas anderes als eine vorübergehende Maßnahme, die mit der Zeit in einer anderen Nation aufgehen wird.\n\nNun, da Polen unter der Kontrolle einer verbündeten Regierung steht, haben die Polen von Galizien beschlossen, dass die Zeit reif ist - wir haben eine Anfrage von [From.Capital.GetCapitalVictoryPointName] erhalten, in der er uns bittet, einer Vereinigung zwischen Polen und Galizien-Lodomerien zuzustimmen. Während die meisten in unserer Regierung diesem Antrag wohlwollend gegenüberstehen, gibt es eine Komplikation: Diese Union würde auch eine beträchtliche Anzahl von Ukrainern unter die polnische Flagge bringen, eine Aussicht, die nicht jeder gerne sieht. Die Regierung in Warschau besteht ihrerseits darauf, dass die Ukrainer als Landsleute willkommen geheißen werden, aber einige Diplomaten sind der Meinung, dass unseren Bedürfnissen besser entsprochen wird, wenn die Staaten trotzdem getrennt bleiben. Sollten wir den Zusammenschluss zulassen?"
@@ -108,7 +110,7 @@ GAL_stanislaw_szeptycki: "Stanisław Szeptycki"
 GAL_franciszek_kleeberg: "Franciszek Kleeberg"
 GAL_tadeusz_kutrzeba: "Tadeusz Kutrzeba"
 GAL_wladyslaw_sikorski: "Władysław Sikorski"
- GAL_dmytro_vitovskyi: "Dmytro Vitovskyi"
+GAL_dmytro_vitovskyi: "Dmytro Vitovskyi"
 GAL_hnat_stefaniv: "Hnat Stefaniv"
 GAL_stanislaw_jasinski: "Stanisław Jasiński"
 GAL_jan_rozwadowski: "Jan Rozwadowski"
@@ -128,7 +130,7 @@ GAL_wincenty_witos: "Wincenty Witos"
 GAL_ignacy_moscicki: "Ignacy Mościcki"
 GAL_adam_romer: "Adam Romer"
 GAL_adam_sapieha: "Adam Sapieha"
- GAL_kost_levytskyi: "Kost Levytskyi"
+GAL_kost_levytskyi: "Kost Levytskyi"
 GAL_yevhen_petrushevych: "Yevhen Petrushevych"
 GAL_eugeniusz_kwiatkowski: "Eugeniusz Kwiatkowski"
 GAL_franciszek_pokorny: "Franciszek Pokorny"

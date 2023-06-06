@@ -1,26 +1,28 @@
 ﻿l_german:
-##Übersetzt von Thylon##
-### Der Zweck dieser Datei ist es, Tags, die dieselben Panzersymbole verwenden, zusammenzufassen
-### Es reduziert die Zeit für Wartung und Refactoring erheblich.
-### Bitte formatieren Sie es nicht mit Skripten.
-### Inhalt:
-### 1. Russische Panzer
-### 2. USA Panzer
-### 3. Italienische Panzer
-### 4. Französische Panzer
-### 5. Deutsche Panzer
-### 6. Deutsche Panzer - EE-Edition
-### 7. Französische Exil-Panzer
-### 8. Deutsch-Amerikanischer Mix
-### 9. Commonwealth-Panzer
-### 10. Donau-Panzer
-### 11. Britische Panzer
-### 12. Chinesischer Mix (Deutsch-Italienisch-Russisch)
-### 13. Japanische Panzer
 
-### 1. Russische Panzer
-	 ### RUS, SOV, SIB, MON, PER, ALO, ARM, ETS, BUK, KHI, TRK - direktes Kopieren/Einfügen
-	 ### ROM - einige einzigartige loc
+##Übersetzt von Thylon##
+
+### The purpose of this file is to group tags that use the same tank icons together
+### It greatly reduces maintenance and refactoring time
+### Do not format it with any scripts, please
+### Contents:
+### 1. Russian tanks
+### 2. USA tanks
+### 3. Italian tanks
+### 4. French tanks
+### 5. German tanks
+### 6. German tanks - EE edition
+### 7. French Exiles tanks
+### 8. German-American mix
+### 9. Commonwealth tanks
+### 10. Danubian tanks
+### 11. British tanks
+### 12. Chinese Mix (German-Italian-Russian)
+### 13. Japanese tanks
+
+### 1. Russian tanks
+	 ### RUS, SOV, SIB, MON, PER, ALO, ARM, ETS, BUK, KHI, TRK - direct copypaste
+	 ### ROM - some unique loc
   ### Russia ###
    RUS_gw_tank_equipment: "Putilov T-19"
    RUS_light_tank_equipment_0: "Putilov T-19"
@@ -2141,9 +2143,9 @@
    ROM_super_heavy_tank_equipment_1: "Tanc 'T-107', model 1942, Malaxa"
    ROM_super_heavy_tank_equipment_1_short: "T-107"
 
-### 2. USA Panzer
+### 2. USA tanks
    ### USA, HAW, LIB - direct copypaste
-	### PSA, NEE, CSA, TEX - einige lokale Änderungen
+	### PSA, NEE, CSA, TEX - some loc changes
   ### United States ###
    USA_gw_tank_equipment: "Light Tank, Model 1921"
    USA_light_tank_equipment_0: "Light Tank, Model 1921"
@@ -3368,7 +3370,7 @@
    TEX_amphibious_tank_equipment_2: "Medium Tank M1940 DWG"
    TEX_amphibious_tank_equipment_2_short: "M1940 DWG"
 
-### 3. Italenische Panzer
+### 3. Italian tanks
    ### ITA, SRI, SIC, SRD, PAP, VNC, LOM, EMI, TUS - direct copypaste
   ### Italian Republic ###
    ITA_gw_tank_equipment: "Fiat 3000"
@@ -5036,7 +5038,7 @@
    TUS_amphibious_tank_equipment_2: "$ITA_amphibious_tank_equipment_2$"
    TUS_amphibious_tank_equipment_2_short: "$ITA_amphibious_tank_equipment_2_short$"
 
-### 4. Französische Panzer
+### 4. French tanks
    ### FRA, ALG, EGY, CHL, INC, FOP, FRP, CHI - direct copypaste
 	### SER - mix w.RUS and some unique loc
   ### France ###
@@ -6664,90 +6666,90 @@
    CHI_amphibious_tank_equipment_2: "$FRA_amphibious_tank_equipment_2$"
    CHI_amphibious_tank_equipment_2_short: "$FRA_amphibious_tank_equipment_2_short$"
 
-### 5. Deutsche Panzer
+### 5. German tanks
    ### GER, AZR, GEA, ICE, IRE, MAF, NMB, BAT, VIN, FLA, WAL, MOR, LEP, QIE, SWI, GRU, NGF, PRE, RHI, BAY - direct copypaste
    ### BEL, BUL, FIN - some loc changes
    ### HOL, DEI - unique loc for tanks
    ### TUR, PAL, SYR, IRQ - unique loc
    ### SWE, SCA, DEN - unique loc for tanks
   ### Germany ###
-    # Welche Panzer basieren auf welchen IRL-Panzern
-      # Leichte Panzer
+    # What tanks are based on what IRL tanks
+      # Light Tanks
        #Oberschlesien
        #Pz 1
        #Pz II
        #Pz II M / Vk 16 Leopard
-      # Leichte Panzer ART
+      # Light tanks ART
        #Sturmpanzer I Bison
        #Wespe
        #Sturmpanzer II Bison
-      # Leichte Panzer TD
+      # Light tanks TD
        #PzJg 1
        #Marder 2 75mm
        #Stug Leopard
-      # Leichte Panzer AA
+      # Light tanks AA
        #Flakpanzer 1
        #37mm FlaK 43 Sfi. auf Pz.Kpfw. II Ausf. L 'Luchs'
        #fake
 
-      # Mittlere Panzer
-       #Begleitwagen
+      # Medium tanks
+       #begleitwagen
        #Pz.III
        #Pz.IV
        #Panther
 
-      # Mittlere Panzer ART
+      # Medium tanks ART
        #fake
        #Heuschrecke
        #Hummel
        #WT Panther
-      # Mittlere Panzer TD
+      # Medium tanks TD
        #fake
        #Stug.IV
        #JgPz4
        #JgPanther
-      # Mittlere Panzer AA
+      # Medium tanks AA
        #fake
        #Ostwind:
        #Kugelblitz
        #Coelian
 
-      # Schwere Panzer
+      # Heavy tanks
        #Neubaufahrzeug
        #VK 30.01 H
        #Tiger
        #Tiger II
 
-      # Schwere Panzer ART
+      # Heavy tanks ART
        #fake
        #fake
        #GW Tiger mit 17cm
        ##GW Tiger mit 21cm
-      # Schwere Panzer TD
+      # Heavy tanks TD
        #fake
        #St. Emil with dicker max
        #Ferdinand/tiger Hybrid with dicker max
        #Jagdtiger
-      # Schwere Panzer AA
+      # Heavy tanks AA
        #fake
        #fake, icon reference from Pz.Sfl. IVc
        #fake, icon reference from Pz.Sfl. IVc
        #fake
 
-      # SH Panzer
+      # SH tanks
        #E100
        #GWE 100
        #JgPz 100
        #fake
 
-      # Moderne Panzer
+      # Modern tanks
        #E50
        #fake
        #JGpanther mit 10,5
        #fake
 
-      #Pz.2 modifiziert, i.R. Schwimmpanzer II
-      #Panzerfähre mit Turm
+      #Pz.2 modified, i.e. Schwimmpanzer II
+      #Panzerfähre with tower
    GER_gw_tank_equipment: "Sturmpanzerwagen II"
    #GER_light_tank_equipment_0: "Sturmpanzerwagen II"
    GER_gw_tank_equipment_short: "St.Pzw. II"
@@ -6789,7 +6791,7 @@
    GER_light_tank_flame_equipment_3_short: "Flamm.Pz. III"
 
    #GER_light_tank_amphibious_equipment_1: "Schwimmpanzer I"  - defined in vanilla override
-   GER_light_tank_amphibious_equipment_1_short: "Schwimm.Pz. I"
+   GER_light_tank_amphibious_equipment_1_short: "Schwimm.Pz. II"
    #GER_light_tank_amphibious_equipment_2: "Schwimmpanzer II"  - defined in vanilla override
    GER_light_tank_amphibious_equipment_2_short: "Schwimm.Pz. II"
    #GER_light_tank_amphibious_equipment_3: "Schwimmpanzer III"  - defined in vanilla override
@@ -12762,7 +12764,7 @@
    DEN_amphibious_tank_equipment_2: "$SWE_amphibious_tank_equipment_2$"
    DEN_amphibious_tank_equipment_2_short: "$SWE_amphibious_tank_equipment_2_short$"
 
-### 6. Deutsche Panzer - EE Edition
+### 6. German tanks - EE edition
    ### WHR, LIT, LAT, EST, GEO, BRM - direct copypaste
    ### POL - unique tank icons
    ### UKR - unique tank icons
@@ -14069,7 +14071,7 @@
    POL_amphibious_tank_equipment_2: "Pawel Chrobok III"
    POL_amphibious_tank_equipment_2_short: "Pawel Chrobok III"
   ### Ukraine ###
-     UKR_gw_tank_equipment: "Lehkyi Tank zr.1919"
+   UKR_gw_tank_equipment: "Lehkyi Tank zr.1919"
    UKR_light_tank_equipment_0: "Lehkyi Tank zr.1919"
    UKR_gw_tank_equipment_short: "LT-19"
    UKR_light_tank_equipment_0_short: "LT-19"
@@ -14077,12 +14079,12 @@
    UKR_light_tank_equipment_1: "Lehkyi Tank zr.1932"
    UKR_light_tank_equipment_1_short: "LT-32"
    UKR_light_tank_equipment_2: "Lehkyi Tank zr.1936 Lys"
-  UKR_light_tank_equipment_2_short: "LT-36 Lys"
+   UKR_light_tank_equipment_2_short: "LT-36 Lys"
    UKR_light_tank_equipment_3: "Lehkyi Tank zr.1941"
    UKR_light_tank_equipment_3_short: "LT-41"
 
    UKR_light_tank_artillery_equipment_1: "15-cm Samokhidna Artyleriiska Ustanovka zr.1932"
-    UKR_light_tank_artillery_equipment_1_short: "SAU-150"
+   UKR_light_tank_artillery_equipment_1_short: "SAU-150"
    UKR_light_tank_artillery_equipment_2: "10,5-cm Samokhidna Artyleriiska Ustanovka zr.1936"
    UKR_light_tank_artillery_equipment_2_short: "SAU-105"
    UKR_light_tank_artillery_equipment_3: "10,5-cm Samokhidna Artyleriiska Ustanovka zr.1941"
@@ -14246,20 +14248,20 @@
    UKR_amphibious_tank_equipment_2: "Plavaiuchyi Serednii Tank zr.1943"
    UKR_amphibious_tank_equipment_2_short: "PST-43"
 
-### 7. Französische Exil-Panzer
+### 7. French Exiles tanks
 	### NFA, DAH, GNA, VOL, CHA, IVO, MLI, MRT, NGR, SEN, TUN - direct coypaste
   ### Sand France ###
-    ### Leichte Panzer
+    ### Light tanks
      #FT-31
      #D1
      #D2
      #ELC Even
-    ### Mittlere Panzer
+    ### Medium tanks
      #AMX-Tracteur B
      #G1R
      #AMX CdC
      #AMX 30
-    ### Schwere Panzer
+    ### Heavy tanks
      #Char Lourd AMX 37
      #FCM-F4
      #Citroën; BDR G1B
@@ -16398,9 +16400,9 @@
    TUN_amphibious_tank_equipment_2_short: "$NFA_amphibious_tank_equipment_2_short$"
    TUN_amphibious_tank_equipment_2_desc: "$NFA_amphibious_tank_equipment_2_desc$"
 
-### 8. Deutsch-Amerikanischer Mix
+### 8. German - American mix
 	### ARG, BRA, BOL, COL, PAR, PRU, AMA, BAH, CEN, COS, CUB, DOM, ECU, ELS, GOY, GRP, GUA, HAI, HON, LEC, NIC, PAN, PHI, PIR, PUE, URG, VCR, SPO - direct copypaste
-	 ### Leicht 0/1/2, Mittel 0/1, Schwer 1 - US, Rest - GER
+	 ### Ligt 0/1/2, Medium 0/1, Heavy 1 - US, rest - GER
   ### Argentina ###
    ARG_gw_tank_equipment: "$USA_gw_tank_equipment$"
    ARG_light_tank_equipment_0: "$USA_gw_tank_equipment$"
@@ -19968,7 +19970,7 @@
    HON_modern_tank_flame_equipment_1_short: "$GER_modern_tank_flame_equipment_1_short$"
    HON_modern_tank_amphibious_equipment_1: "$GER_modern_tank_amphibious_equipment_1$"
    HON_modern_tank_amphibious_equipment_1_short: "$GER_modern_tank_amphibious_equipment_1_short$"
-   
+
    HON_amphibious_tank_equipment_1: "$GER_amphibious_tank_equipment_1$"
    HON_amphibious_tank_equipment_1_short: "$GER_amphibious_tank_equipment_1_short$"
    HON_amphibious_tank_equipment_2: "$GER_amphibious_tank_equipment_2$"
@@ -21666,7 +21668,7 @@
    SPO_amphibious_tank_equipment_2: "$GER_amphibious_tank_equipment_2$"
    SPO_amphibious_tank_equipment_2_short: "$GER_amphibious_tank_equipment_2_short$"
 
-### 9. Commonwealth Panzer
+### 9. Commonwealth tanks
 	### IMP, AFG, ANG, ASY, AST, RAJ, GRE, MZB, NZL, POR, ZIM, SIE, SAF, WIF, PRF, PAK, BHU, NEP, GYA, JAM, TRI, QUE  - direct copypaste
   ### Canada/UK ###
    IMP_gw_tank_equipment: "Mark V"
@@ -21676,7 +21678,7 @@
 
    IMP_light_tank_equipment_1: "Vickers A4 'Reliant'"
    IMP_light_tank_equipment_1_short: "A4 'Reliant'"
-   IMP_light_tank_equipment_1_desc: "Der Vickers Mark E wurde 1932 in begrenztem Umfang von der kanadischen Armee unter der Bezeichnung "A4" als Behelfspanzer eingesetzt, während modernere leichte Panzer entwickelt wurden. Er erhielt den eher ironischen Spitznamen 'Reliant' für seine gleichzeitige Zuverlässigkeit in unwegsamem Gelände und seine Neigung zu zufälligen Pannen in scheinbar harmlosen Situationen."
+   IMP_light_tank_equipment_1_desc: "The Vickers Mark E entered limited service with the Canadian Army in 1932 with the designation 'A4' as a stopgap tankette while more advanced light tanks were developed. It was given the rather ironic nickname 'Reliant' for its simultaneous reliability in harsh terrain and tendency to breakdown randomly in seemingly innocuous situations."
    IMP_light_tank_equipment_2: "Vickers A11 'Matilda'"
    IMP_light_tank_equipment_2_short: "A11 'Matilda'"
    IMP_light_tank_equipment_3: "Vickers A18 'Valentine'"
@@ -25783,7 +25785,7 @@
    QUE_amphibious_tank_equipment_2: "$IMP_amphibious_tank_equipment_2$"
    QUE_amphibious_tank_equipment_2_short: "$IMP_amphibious_tank_equipment_2_short$"
 
-### 10. Donau Panzer
+### 10. Danubian tanks
    ### AUS, ALB - direct copypaste
    ### CZE, BOS, GAL, CRO, SLO, SLV, TRS, SIA - some unique loc
    ### HUN - unique loc
@@ -25795,13 +25797,13 @@
 
    AUS_light_tank_equipment_1: "Škoda Leichter Kampfwagen Modell 1935"
    AUS_light_tank_equipment_1_short: "leKpfW M.35"
-   AUS_light_tank_equipment_1_desc: "1933 erkannte die k.u.k.-Armee, dass ihre unzusammenhängende Panzerflotte, bestehend aus älteren ausländischen Panzerkonstruktionen und einheimischen Panzerketten, gegenüber den neuen syndikalistischen und deutschen Konstruktionen schnell an Kampfkraft verlor. Als Notlösung beschloss sie, den neuen Exportpanzer Škoda Š-II zu übernehmen. Die moderne Konstruktion war mit einem Zwei-Mann-Turm mit 37-mm-Kanone und pneumatischem Getriebe und Fahrwerk ausgestattet, was aufgrund seiner Komplexität und geringen Zuverlässigkeit das größte Problem des Panzers darstellte."
+   AUS_light_tank_equipment_1_desc: "In 1933, the k.u.k. Army realised that its incoherent tank fleet consisting of older foreign tank designs and domestic tankettes is rapidly losing combat effectiveness against new syndicalist and German designs. As a stop-gap measure, it decided to adopt the new Škoda Š-II export tank. The modern design was equipped with a two-man turret with 37mm gun and pneumatic gearbox and running gears, which was the tanks biggest problem due to its complexity and low reliability."
    AUS_light_tank_equipment_2: "ČKD Leichter Kampfwagen Modell 38"
    AUS_light_tank_equipment_2_short: "leKpfW M.38"
-   AUS_light_tank_equipment_2_desc: "Noch während die ersten leKpfW M.35 vom Band liefen, suchte die Armee bereits nach einem neuen Kavalleriepanzer. Bei dem folgenden Wettbewerb wurden mehrere in- und ausländische Entwürfe in Betracht gezogen, aber letztendlich entschied sich die Armee für eines der TNH-Modelle von ČKD. Wie der M.35 verfügte der TNHP über einen Zwei-Mann-Turm und eine verbesserte 37-mm-Kanone, aber der M.38 verbesserte die Panzerung und den Motor des M.35 und besaß ein viel einfacheres und zuverlässigeres Fahrwerk. Leider wurden die ersten Einheiten wegen des Schwarzen Montags nicht vor 1938 in Dienst gestellt."
+   AUS_light_tank_equipment_2_desc: "Even as the first leKpfW M.35 were coming off the production line, the army was already looking for new cavalry tank. In the following design competition multiple domestic and foreign designs were considered, but in the end, the army chose one of the TNH models from ČKD. Just as with the M.35, TNHP had a two-man turret and an improved 37mm gun, but the M.38 improved on the M.35's armour, engine and possessed much simpler and reliable running gears. Unfortunately due to Black-Monday, the first units wouldn't enter service until 1938."
    AUS_light_tank_equipment_3: "ČKD Leichter Kampfwagen Modell 42"
    AUS_light_tank_equipment_3_short: "leKpfW M.42"
-   AUS_light_tank_equipment_3_desc: "Während der schwerere M.40 den M.38 in der Hauptkampffunktion ablöste, bestand weiterhin Bedarf an einem kleineren und leichteren Kettenaufklärungsfahrzeug. Um mit dem rasanten Entwicklungstempo des Krieges Schritt zu halten, überarbeitete die ČKD den oberen Teil des TNHP-Designs komplett. Der neue Aufklärungspanzer verfügte über verbesserte Ketten, eine schräge Frontpanzerung und einen neuen Turm, in dem der Kommandant, der Richtschütze und die brandneue, von Škoda entwickelte 57-mm-Autoladekanone untergebracht waren."
+   AUS_light_tank_equipment_3_desc: "While the heavier M.40 replaced M.38 in the main combat role, there was still a need for a smaller and lighter tracked reconnaissance vehicle. To keep track with the quick pace of war development, ČKD completely redesigned the upper part of the TNHP design. The new reconnaissance tank had improved tracks, sloped frontal armour and new turret housing the commander, gunner and the brand new autoloading 57mm gun developed by Škoda."
 
    AUS_light_tank_destroyer_equipment_1: "Škoda Leichter Panzerjägerwagen Modell 36"
    AUS_light_tank_destroyer_equipment_1_short: "lePzJgW M.36"
@@ -25842,13 +25844,13 @@
    AUS_medium_tank_equipment_0_short: "mKpfW M.34"
    AUS_medium_tank_equipment_1: "Škoda-MÁVAG Mittlerer Kampfwagen Modell 40"
    AUS_medium_tank_equipment_1_short: "mKpfW M.40"
-   AUS_medium_tank_equipment_1_desc: "Die Erfahrungen aus dem Zweiten Amerikanischen Bürgerkrieg, aus China und Spanien veranlassten die k.u.k.-Armeeführung, einen neuen Panzer mit einem größeren 3-Mann-Turm, einer 75-mm-Kanone und einer noch widerstandsfähigeren Frontpanzerung zu bestellen. Der endgültige Entwurf war ein Gemeinschaftsprojekt der tschechischen Firma Škoda, die die Wanne lieferte, und der ungarischen Firma MAVÁG, die den Turm und die Kanone baute."
+   AUS_medium_tank_equipment_1_desc: "Experience from Second American civil war, China and Spain would lead the K.u.K. army command to order a new tank with larger 3 man turret, a 75mm gun and further resilient frontal armour. The final project design was a joint venture of the Czech Škoda providing hull and the Hungarian MAVÁG building the turret and gun."
    AUS_medium_tank_equipment_2: "Škoda-MÁVAG Mittlerer Kampfwagen Modell 40/42"
    AUS_medium_tank_equipment_2_short: "mKpfW M.42"
-   AUS_medium_tank_equipment_2_desc: "Zu Beginn des Krieges waren Bewaffnung und Panzerung des M.40 mehr als ausreichend, doch mit der Einführung von infanteriegestützten Panzerabwehrwaffen mit Hohlladungen und der zunehmenden Panzerung der gegnerischen Panzer war der M.40 bis Ende 1941 nahezu veraltet. Als Antwort darauf entwarfen die Škoda-Ingenieure eine neue Konstruktion mit ähnlicher Basis, aber mit einem völlig neuen Motor, gepanzerten Seitenschürzen und einer stärkeren Frontpanzerung. Der MAVÁG sollte einen völlig neuen Turm erhalten und gleichzeitig den Raum für die Besatzung und das Sichtfeld innerhalb des Fahrzeugs mit einer 75-mm-Langrohrkanone verbessern."
+   AUS_medium_tank_equipment_2_desc: "While at the start of the war the armament and armour of M.40 were more than sufficient, the introduction of infantry held AT weapons using shaped charges and the increasing armour thickness of enemy tanks marked the M.40 as nearly obsolete by the end of 1941. In response, Škoda's engineers drew up a new design with a similar base but possessing an entirely new engine, armoured side skirts and stronger frontal armour. MAVÁG would provide a completely new turret while also improving crew space and the field of vision within the vehicle altogether with long barrel 75 mm gun."
    AUS_medium_tank_equipment_3: "Weiss Manfréd Mittlerer Kampfwagen Modell 44"
    AUS_medium_tank_equipment_3_short: "mKpfW M.44"
-   AUS_medium_tank_equipment_3_desc: "Der stark von deutschen Kriegsengeln und russischen Obuchow-Panzern beeinflusste M.44 war die Antwort des Militärtechnischen Komitees auf den Bedarf der Armee an Ersatz für die schnell alternden M.40/42-Panzer. Die Konstruktion umfasste eine schräge Front- und Seitenpanzerung, den Prototyp einer verbesserten Aufhängung von ČKD, den V12-Motor von Austro-Daimler und eine in Lizenz gebaute 80-mm-Bofors-Kanone. Die ungarische Firma Weiss Manfréd sollte die Wannen bauen und die Maschinen montieren."
+   AUS_medium_tank_equipment_3_desc: "Heavily influenced by German Kriegsengel and Russian Obukhov tanks, the M.44 was the Military Technical Committee's response to the army's need for replacement of the quickly ageing M.40/42 tanks. The design included sloped frontal and side armour, ČKD's improved suspension prototype, Austro-Daimler's V12 engine and a licence-built 80mm Bofors gun. The Hungarian Weiss Manfréd firm would build the hulls and assemble the machines."
 
    AUS_medium_tank_destroyer_equipment_0: "Weiss Manfréd Mittlerer Panzerjägerwagen Modell 34"
    AUS_medium_tank_destroyer_equipment_0_short: "mPzJgW M.34"
@@ -25899,13 +25901,13 @@
    AUS_heavy_tank_equipment_0_short: "IPz M.32"
    AUS_heavy_tank_equipment_1: "Škoda Infanteriepanzer Modell 36"
    AUS_heavy_tank_equipment_1_short: "IPz M.36"
-   AUS_heavy_tank_equipment_1_desc: "Mit der Einführung des leKpfW M.35 beschloss das Heer auch die Anschaffung einer Infanteriepanzervariante, um Durchbrüche zu ermöglichen. Mehrere Modelle wurden in Betracht gezogen, jedes mit seinen eigenen Vor- und Nachteilen. Schließlich entschied sich das Militär für die Kombination des Mehrmannturms des Škoda Š-III mit der zuverlässigen Wanne des Tatra T-III."
+   AUS_heavy_tank_equipment_1_desc: "With the introduction of the leKpfW M.35, the army also decided to acquire an infantry tank variant to aid breakthroughs. Multiple models were considered, each with its own pros and cons. In the end, the military settled on combining the multi-crew turret from the Škoda Š-III with the reliable hull of the Tatra T-III."
    AUS_heavy_tank_equipment_2: "Austro-Daimler-Porsche Infanteriepanzer Modell 42"
    AUS_heavy_tank_equipment_2_short: "IPz M.42"
-   AUS_heavy_tank_equipment_2_desc: "Als sich die Westfront nur wenige Wochen nach Kriegsbeginn in einer Patt-Situation befand, gab die k.u.k.-Armee Spezifikationen und Angebote für einen neuen Infanteriepanzerentwurf heraus. Da die verschiedenen tschechischen und ungarischen Firmen mit Kavalleriepanzern beschäftigt waren, war der Entwurf von Ferdinand von Porsche der einzige, der rechtzeitig eingereicht wurde und von Austro-Daimler produziert werden sollte. Ausgestattet mit einer 100-mm-Frontpanzerung und einer 80-mm-Kanone von Bofors war dieser Panzer bei jedem, der gegen ihn kämpfen musste, gefürchtet. Da er mit unzuverlässigen elektrisch angetriebenen Rädern ausgestattet war, war er auch bei seiner eigenen Besatzung sehr gefürchtet."
+   AUS_heavy_tank_equipment_2_desc: "As western front settled into a stalemate just a few weeks after the start of the war, the K.u.K. army posted specifications and opened offers for a new infantry tank design. With the various Czech and Hungarian companies being busy with cavalry tanks, Ferdinand von Porsche's design was the only one submitted in time and would be produced by Austro-Daimler. Equipped with 100mm frontal armour and an 80mm gun from Bofors this tank was feared by any who had to fight against it. Due to the design's use of unreliable electric-powered wheels, it was also much feared by its own crew."
    AUS_heavy_tank_equipment_3: "Austro-Daimler-Porsche Infanteriepanzer Modell 44"
    AUS_heavy_tank_equipment_3_short: "IPz M.44"
-   AUS_heavy_tank_equipment_3_desc: "Das Modell M.44 war eine allgemeine Verbesserung des M.42. Seine Frontpanzerung war nun schräg, der beengte Turm wurde zu einem neuen, viel größeren umgebaut, der auch die neue 105-mm-Škoda-Kanone aufnehmen konnte. Außerdem wurden die Probleme mit den elektrischen Fahrwerken des 42 angegangen und gelöst. Meistens."
+   AUS_heavy_tank_equipment_3_desc: "Model M.44 was an overall improvement of M.42. Its frontal armour was now sloped, the cramped turret was redesigned into a new much larger one, which was also able to fit the new 105mm Škoda gun. In addition, the problems with the 42's electric running gears would be tackled and solved. Mostly."
 
    AUS_heavy_tank_destroyer_equipment_0: "Škoda Jagdpanzer Modell 32"
    AUS_heavy_tank_destroyer_equipment_0_short: "JgPz M.32"
@@ -25954,7 +25956,7 @@
 
    AUS_super_heavy_tank_equipment_1: "Austro-Daimler-Porsche Landschlachtschiff Franzl"
    AUS_super_heavy_tank_equipment_1_short: "Franzl"
-   AUS_super_heavy_tank_equipment_1_desc: "Während der Krieg in Europa tobte, machte sich der Technische Ausschuss des Militärs Gedanken über die Notwendigkeit eines durchschlagenden Panzers, der in der Lage war, schwere Befestigungen in Italien oder Frankreich einzunehmen. Ferdinand von Porsche von Österreich-Daimler und Skoda-Ingenieure schlugen einen monströsen Entwurf vor, der ironischerweise den Spitznamen \"Franzl\" erhielt."
+   AUS_super_heavy_tank_equipment_1_desc: "With the war raging across Europe, the Military Technical Committee worried about the necessity of a breakthrough tank capable of taking on heavy fortifications in Italy or France. A monstrous design by Austro-Daimler's Ferdinand von Porsche and Skoda engineers was proposed, ironically gaining the diminutive nickname of \"Franzl\"."
    AUS_super_heavy_tank_destroyer_equipment_1: "Jagdpanzer Franzl"
    AUS_super_heavy_tank_destroyer_equipment_1_short: "JgPz Franzl"
    AUS_super_heavy_tank_artillery_equipment_1: "Geschützpanzer Franzl"
@@ -25968,7 +25970,7 @@
 
    AUS_modern_tank_equipment_1: "ČKD-Škoda Standardpanzer Modell 50"
    AUS_modern_tank_equipment_1_short: "StPz M.50"
-   AUS_modern_tank_equipment_1_desc: "Die Wanne des TVP wurde von der ČKD zunächst als Konkurrenz zum Panzer M.44 von Weiss Manfréd im Rahmen des Konstruktionswettbewerbs für den Ersatz der alternden Flotte der M.40/42 entworfen, wo sie aufgrund ihrer größeren Abmessungen abgelehnt wurde. Im weiteren Verlauf des Krieges erließ das Oberkommando des Heeres jedoch eine Direktive, die den Einsatz der neuen selbstladenden 105-mm-Kanone von Škoda in leichteren Panzern als Antwort auf die schwer gepanzerten russischen T-120- und französischen M4-Panzer vorschrieb, und aufgrund seiner zuvor unglücklichen Größe war nur die Wanne des TVP groß genug für diese Aufgabe."
+   AUS_modern_tank_equipment_1_desc: "The TVP hull was first designed by ČKD as a competitor to Weiss Manfréd's M.44 tank during the design competition for the contract to replace the ageing fleet of M.40/42s, where it would be rejected due to its larger dimensions. However, as the war progressed, army high command would issue a directive mandating the adoption of Škoda's new autoloading 105mm gun by lighter tanks in response to the heavily armoured series Russian T-120 and French M4 tanks and, as a result of its previously unfortunate size, only the TVP hull was sufficiently large enough for the role."
    AUS_modern_tank_destroyer_equipment_1: "Jagdpanzer Modell 50"
    AUS_modern_tank_destroyer_equipment_1_short: "JgPz M.50"
    AUS_modern_tank_artillery_equipment_1: "Geschützpanzer Modell 50"
@@ -25982,10 +25984,10 @@
 
    AUS_amphibious_tank_equipment_1: "ČKD F-IV-H"
    AUS_amphibious_tank_equipment_1_short: "F-IV-H"
-   AUS_amphibious_tank_equipment_1_desc: "In den 1930er Jahren interessierte sich das Technische Militärkomitee für einen amphibischen Panzer, der über die vielen Flüsse der Monarchie und an der Adria eingesetzt werden konnte. Die ČKD stellte eine Variante ihres AH-IV-Panzers, den F-IV-H, für diese Aufgabe zur Verfügung. Sie verfügte nur über ein Maschinengewehr als Bewaffnung, aber die Konstruktion sollte erst 1940 durch das revolutionäre \"Doppelantriebs\"-System von Miklos Straussler übertroffen werden."
+   AUS_amphibious_tank_equipment_1_desc: "In the 1930s, the Military Technical Committee became interested in an amphibious tank capable of operating across the Monarchy's many rivers and around the Adriatic. ČKD would provide a variant of its AH-IV tankette, the F-IV-H, for the role. It only had a machine gun for armament, but the design would only be surpassed in 1940 by Miklos Straussler's revolutionary \"Doppelantriebe\" (duplex-drive) system."
    AUS_amphibious_tank_equipment_2: "Leták"
    AUS_amphibious_tank_equipment_2_short: "Leták"
-   AUS_amphibious_tank_equipment_2_desc: "Die Analyse der Luftlandeoperationen während des Krieges zeigte deutlich den Bedarf an gepanzerter Unterstützung für die Fallschirmjäger. Frühe Versuche befassten sich mit den Größen- und Gewichtsbeschränkungen, die für den Einbau in Frachtflugzeuge erforderlich waren, wurden jedoch durch neue Anforderungen an amphibische Fähigkeiten verzögert. Das Ergebnis war ein schlanker, leichter Panzer mit niedrigem Profil und einer leistungsfähigen 57-mm-Autokanone."
+   AUS_amphibious_tank_equipment_2_desc: "Analysis of airborne operations during the war clearly demonstrated the need for armoured support for paratroopers. Early attempts addressed the size and weight constraints necessary to fit cargo planes, only to be delayed by new demands for amphibious capabilities. The resulting design was a sleek, low-profile light tank with a capable 57mm autocannon."
   ### Albania ###
    ALB_gw_tank_equipment: "$AUS_gw_tank_equipment$"
    ALB_gw_tank_equipment_short: "$AUS_gw_tank_equipment_short$"
@@ -27977,7 +27979,7 @@
    SIA_amphibious_tank_equipment_2_short: "$AUS_amphibious_tank_equipment_2_short$"
    SIA_amphibious_tank_equipment_2_desc: "$AUS_amphibious_tank_equipment_2_desc$"
 
-### 11. Britische Panzer
+### 11. British tanks
    ### ENG, HND, MEX, NOR, VEN, YUC, GBP, WLS, SCO - direct copypaste
   ### Union of Britain ###
    ENG_gw_tank_equipment: "Mark V"
@@ -29654,7 +29656,7 @@
    SCO_amphibious_tank_equipment_2: "$ENG_amphibious_tank_equipment_2$"
    SCO_amphibious_tank_equipment_2_short: "$ENG_amphibious_tank_equipment_2_short$"
 
-### 12. Chinesischer Mix (Deutsch-Italienisch-Russisch)
+### 12. Chinese Mix (German-Italian-Russian)
    ### ANQ, HNN, GXC, XSM, SQI, SHX, SZC, TIB, SIK, YUN, KUM - direct copypaste
   ### Anqing Clique ###
    ANQ_gw_tank_equipment: "$ITA_gw_tank_equipment$"
@@ -31703,7 +31705,7 @@
    KUM_amphibious_tank_equipment_2: "$GER_amphibious_tank_equipment_2$"
    KUM_amphibious_tank_equipment_2_short: "$GER_amphibious_tank_equipment_2_short$"
 
-### 13. Japanische Panzer
+### 13. Japanese tanks
    ### JAP, CAM, FNG, INS, KOR, LAO, MAL, TRM - direct copypaste
   ### Japan ###
    JAP_gw_tank_equipment: "Ko-Gata Sensha"

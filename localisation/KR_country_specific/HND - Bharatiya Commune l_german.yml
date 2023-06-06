@@ -1,5 +1,7 @@
 ﻿l_german:
+
 ##Übersetzt von Thylon##
+
 KR_Bharatiya_Commune: "Schwerpunktbaum von Bharatiya"
 
 ### Country Names ###
@@ -95,26 +97,26 @@ HND_ships_sold: "Die Marine wird um ein Schlachtschiff und drei Zerstörer erwei
 
 ### Parties ###
 HND_totalist_party: "INC (Maximisten)"
-HND_totalist_party_long: "Indischer Nationalkongress (Maximisten)"
+HND_totalist_party_long: "Indian National Congress (Maximisten)"
 
-HND_syndicalist_party: "INC (Linke)"
-HND_syndicalist_party_long: "Indischer Nationalkongress (Linke)"
+HND_syndicalist_party: "INC (Links)"
+HND_syndicalist_party_long: "Indian National Congress (Links)"
 
 HND_radical_socialist_party: "INC (Agrarier)"
-HND_radical_socialist_party_long: "Indischer Nationalkongress (Agrarier)"
+HND_radical_socialist_party_long: "Indian National Congress (Agrarier)"
 
-HND_anarcho_syndicalist_party: "Junges Indien (HSRA)"
-HND_anarcho_syndicalist_party_long: "Naujawan Bharat Sabha (Sozialistisch-Republikanischer Bund Hindustans)"
+HND_anarcho_syndicalist_party: "Young India (HSRA)"
+HND_anarcho_syndicalist_party_long: "Naujawan Bharat Sabha (Hindustan Socialist Republican Alliance)"
 
 HND_social_democrat_party: "INC (Zentrum)"
-HND_social_democrat_party_long: "Indischer Nationalkongress (Zentrum)"
+HND_social_democrat_party_long: "Indian National Congress (Zentrum)"
 
-HND_social_liberal_party: "Swaraj-Partei"
+HND_social_liberal_party: "Swaraj Party"
 
-HND_market_liberal_party: "Gerechtigkeitspartei"
+HND_market_liberal_party: "Justice Party"
 
-HND_social_conservative_party: "INC (Rechte)"
-HND_social_conservative_party_long: "Indischer Nationalkongress (Rechte)"
+HND_social_conservative_party: "INC (Rechts)"
+HND_social_conservative_party_long: "Indian National Congress (Rechts)"
 
 HND_authoritarian_democrat_party: "Nationale Freiwillige"
 HND_authoritarian_democrat_party_long: "Rashtriya Swayamsevak Sangh"
@@ -292,9 +294,9 @@ HND_unite_india: "Indien vereinigt"
 HND_unite_india_desc: "Jai Hind! Der Subkontinent ist wieder unser! Was nun?"
 HND_special_INC_meeting: "Einberufung einer INC-Sitzung"
 HND_special_INC_meeting_desc: "Nach der Vereinigung Indiens wird als erstes eine Sondersitzung des Indischen Nationalkongresses einberufen, um festzulegen, wie die Nation als Ganzes regiert werden soll. Damit verbunden ist eine Neuwahl des Staatsoberhauptes. Es wird ein wichtiger Tag sein, an dem sich entscheidet, wie die künftige Richtung eines vereinigten Indiens aussehen wird."
-HND_bhutan: "Um Bhutan kümmern"
+HND_bhutan: "Umgang mit Bhutan"
 HND_bhutan_desc: "Nachdem wir die Kontrolle über den indischen Subkontinent gesichert haben, ist es an der Zeit, sich um unsere Nordgrenze zu kümmern. In China entstehen neue Großmächte, und wir müssen unsere Kontrolle über das Königreich Bhutan als Pufferstaat im Himalaya sichern. Wir werden diesen reaktionären Rückstau in einen neuen sozialistischen Staat verwandeln, wenn nötig mit Gewalt."
-HND_nepal: "Um Nepal kümmern"
+HND_nepal: "Umgang mit Nepal"
 HND_nepal_desc: "In den Wirren des Weltkriegs expandierte Nepal in das indische Tiefland. Es ist an der Zeit, unsere Herrschaft über diese Gebiete zurückzuerobern."
 HND_madras: "Integration der Dekkan-Staaten"
 HND_madras_desc: "Die Völker Südindiens müssen sich entweder freiwillig Indien anschließen oder erobert werden - sie haben die Wahl."
@@ -605,9 +607,9 @@ beng.93.d: "Nirmal Kumar Bose und seine Agrarier wurden besiegt, und viele ihrer
 beng.93.a: "Sie werden diese Chance nie wieder bekommen."
 
 beng.100.t: "Das Gesetz zur Neuordnung des Staates"
-beng.100.d: "Die Provinzen der besiegten reaktionären Staaten waren in vorhersehbar feudaler Weise organisiert. Einige wurden von Fürsten verwaltet, während andere unter bürgerliche Kontrolle fielen. Bevor wir uns an die Diskussion über konkrete politische Veränderungen in der Gesellschaftsstruktur unserer neuen Gebiete wagen, muss der Kongress zunächst entscheiden, wie die neuen Gebiete verwaltet werden sollen. Boses Maximisten plädieren für große Blöcke kohärenter ethnolinguistischer Provinzen, die zusammen das Rückgrat des zentralisierten Staates bilden, während die Agrarier den gegenteiligen Standpunkt vertreten und kleinere substaatliche Einheiten empfehlen, die von lokalen Dorfgemeinschaften kontrolliert werden. Die Industriellen von Nehru bevorzugen mittelgroße Sprachstaaten nach dem Vorbild traditioneller Provinzeinteilungen, während die Mitglieder des Jungen Indien unter Dange einen Zusammenschluss von rätegesteuerten Provinzen vorschlagen, die durch Volksabstimmungen geschaffen werden. Wenn die Delegierten das Wort ergreifen, steht die erste Debatte über die Zukunft Indiens bevor!"
-beng.100.d.nomax: "Die Provinzen der besiegten reaktionären Staaten waren in vorhersehbar feudaler Weise organisiert. Einige wurden von Fürsten verwaltet, während andere unter bürgerliche Kontrolle fielen. Bevor wir uns an eine Debatte über die konkreten politischen Veränderungen in der Gesellschaftsstruktur unserer neuen Gebiete wagen, muss der Kongress zunächst entscheiden, wie die neuen Bezirke verwaltet werden sollen. Die Agrarier empfehlen kleinere substaatliche Einheiten, die von lokalen Dorfgemeinschaften kontrolliert werden. Die Industriellen von Nehru bevorzugen dagegen mittelgroße Sprachstaaten nach dem Vorbild der traditionellen Provinzeinteilungen, während die Mitglieder des Jungen Indien unter Dange einen Zusammenschluss von rätegesteuerten Provinzen vorschlagen, die durch Volksabstimmungen geschaffen werden. Während die Delegierten das Wort ergreifen, beginnt die erste Debatte über die Zukunft Indiens!"
-beng.100.d.noagr: "Die Provinzen der besiegten reaktionären Staaten waren in vorhersehbar feudaler Weise organisiert. Einige wurden von Fürsten verwaltet, während andere unter bürgerliche Kontrolle fielen. Bevor wir uns an die Diskussion über konkrete politische Veränderungen in der Gesellschaftsstruktur unserer neuen Gebiete wagen, muss der Kongress zunächst entscheiden, wie die neuen Gebiete verwaltet werden sollen. Boses Maximisten plädieren für große Blöcke zusammenhängender ethnolinguistischer Provinzen, die zusammen das Rückgrat des zentralisierten Staates bilden. Nehrus Industrielle bevorzugen dagegen mittelgroße Sprachstaaten nach dem Vorbild traditioneller Provinzeinteilungen, während die Mitglieder des Jungen Indien unter Dange einen Zusammenschluss von rätegesteuerten Provinzen vorschlagen, die durch Volksabstimmungen geschaffen werden. Während die Delegierten das Wort ergreifen, beginnt die erste Debatte über die Zukunft Indiens!"
+beng.100.d: "Die Provinzen der besiegten reaktionären Staaten waren in vorhersehbar feudaler Weise organisiert. Einige wurden von Fürsten verwaltet, während andere unter bürgerliche Kontrolle fielen. Bevor wir uns an die Diskussion über konkrete politische Veränderungen in der Gesellschaftsstruktur unserer neuen Gebiete wagen, muss der Kongress zunächst entscheiden, wie die neuen Gebiete verwaltet werden sollen. Boses Maximisten plädieren für große Blöcke kohärenter ethnolinguistischer Provinzen, die zusammen das Rückgrat des zentralisierten Staates bilden, während die Agrarier den gegenteiligen Standpunkt vertreten und kleinere substaatliche Einheiten empfehlen, die von lokalen Dorfgemeinschaften kontrolliert werden. Die Industriellen von Nehru bevorzugen mittelgroße Sprachstaaten nach dem Vorbild traditioneller Provinzeinteilungen, während die Young India von Dange einen Zusammenschluss von rätegesteuerten Provinzen vorschlagen, die durch Volksabstimmungen geschaffen werden. Wenn die Delegierten das Wort ergreifen, steht die erste Debatte über die Zukunft Indiens bevor!"
+beng.100.d.nomax: "Die Provinzen der besiegten reaktionären Staaten waren in vorhersehbar feudaler Weise organisiert. Einige wurden von Fürsten verwaltet, während andere unter bürgerliche Kontrolle fielen. Bevor wir uns an eine Debatte über die konkreten politischen Veränderungen in der Gesellschaftsstruktur unserer neuen Gebiete wagen, muss der Kongress zunächst entscheiden, wie die neuen Bezirke verwaltet werden sollen. Die Agrarier empfehlen kleinere substaatliche Einheiten, die von lokalen Dorfgemeinschaften kontrolliert werden. Die Industriellen von Nehru bevorzugen dagegen mittelgroße Sprachstaaten nach dem Vorbild der traditionellen Provinzeinteilungen, während die Young India von Dange einen Zusammenschluss von rätegesteuerten Provinzen vorschlagen, die durch Volksabstimmungen geschaffen werden. Während die Delegierten das Wort ergreifen, beginnt die erste Debatte über die Zukunft Indiens!"
+beng.100.d.noagr: "Die Provinzen der besiegten reaktionären Staaten waren in vorhersehbar feudaler Weise organisiert. Einige wurden von Fürsten verwaltet, während andere unter bürgerliche Kontrolle fielen. Bevor wir uns an die Diskussion über konkrete politische Veränderungen in der Gesellschaftsstruktur unserer neuen Gebiete wagen, muss der Kongress zunächst entscheiden, wie die neuen Gebiete verwaltet werden sollen. Boses Maximisten plädieren für große Blöcke zusammenhängender ethnolinguistischer Provinzen, die zusammen das Rückgrat des zentralisierten Staates bilden. Nehrus Industrielle bevorzugen dagegen mittelgroße Sprachstaaten nach dem Vorbild traditioneller Provinzeinteilungen, während Danges Young India einen Zusammenschluss von rätegesteuerten Provinzen vorschlagen, die durch Volksabstimmungen geschaffen werden. Während die Delegierten das Wort ergreifen, beginnt die erste Debatte über die Zukunft Indiens!"
 beng.100.a: "Große ethnolinguistische Blöcke sollen den Staat zentralisieren."
 beng.100.b: "Die Befugnisse werden den Dorfgemeinschaften übertragen."
 beng.100.c: "Traditionelle mittelgroße Provinzen sollen den Übergang sichern."
@@ -742,9 +744,9 @@ beng.126.c: "Ein starkes oberstes Gericht ist notwendig, um unsere Freiheit zu s
 beng.126.e: "Eine Liga von Gewerkschaftstribunalen sollte den Zweck erfüllen."
 
 beng.127.t: "Die Staaten und die Zentralregierung"
-beng.127.d: "Fünf Jahre sind vergangen, seit der Kongress das Gesetz zur Neuordnung der Provinzen verabschiedet hat, und noch immer gibt es Reibereien zwischen den Provinzen und der Zentralregierung darüber, wer den größten Einfluss in den Dörfern und Städten Indiens ausüben soll. Die Maximisten wollen, dass die Provinzen vollständig den Entscheidungen der Exekutive unterworfen werden und nur eine unbedeutende administrative Macht behalten. Der Agrarflügel hingegen vertritt die Auffassung, dass die komplexe Natur der indischen Nation einen lockeren Staatenbund erfordert, in dem die Exekutive nur die oberste Kontrolle über Verteidigungsfragen und die gesamtindische Industrie ausüben darf. Die Mitglieder des Jungen Indien unter Dange teilen das Misstrauen gegenüber einer starken Zentralregierung, schlagen aber die Schaffung eines von den lokalen Gewerkschaften gewählten Koordinierungsausschusses der Bundesstaaten vor, um eine gewisse Kohärenz zwischen den indischen Provinzen zu gewährleisten. Nehru schlägt eine quasi-föderale Struktur vor, bei der jede Provinz eine symbolische Legislative sowie Ministerpräsidenten und Gouverneure hat, die wiederum der Zentralregierung unterstehen."
-beng.127.d.nomax: "Fünf Jahre sind vergangen, seit der Kongress das Gesetz zur Neuordnung der Provinzen verabschiedet hat, und noch immer gibt es Reibereien zwischen den Provinzen und der Zentralregierung über die Frage, wer den größten Einfluss in den Dörfern und Städten Indiens ausüben soll. Der Agrarflügel vertritt die Auffassung, dass die komplexe Natur der indischen Nation einen lockeren Staatenbund erfordert, in dem die Exekutive nur die oberste Kontrolle über Verteidigungsfragen und die gesamtindische Industrie ausüben darf. Die Mitglieder des Jungen Indien unter Dange teilen das Misstrauen gegenüber einer starken Zentralregierung, schlagen jedoch die Schaffung eines von den lokalen Gewerkschaften gewählten Koordinierungsausschusses der Bundesstaaten vor, um eine gewisse Kohärenz zwischen den indischen Provinzen zu gewährleisten. Nehru schlägt eine quasi-föderale Struktur vor, bei der jede Provinz eine symbolische Legislative sowie Ministerpräsidenten und Gouverneure hat, die wiederum der Zentralregierung unterstehen."
-beng.127.d.noagr: "Fünf Jahre sind vergangen, seit der Kongress das Gesetz zur Neuordnung der Provinzen verabschiedet hat, und noch immer gibt es Reibereien zwischen den Provinzen und der Zentralregierung darüber, wer den größten Einfluss in den Dörfern und Städten Indiens ausüben soll. Die Maximisten wollen, dass die Provinzen vollständig den Entscheidungen der Exekutive unterworfen werden und nur eine unbedeutende administrative Macht behalten. Die Mitglieder des Jungen Indien unter Dange teilen das Misstrauen gegenüber einer starken Zentralregierung, schlagen aber die Schaffung eines von den lokalen Gewerkschaften gewählten Koordinierungsausschusses für die Bundesstaaten vor, um eine gewisse Kohärenz zwischen den indischen Provinzen zu gewährleisten. Nehru schlägt eine quasi-föderale Struktur vor, bei der jede Provinz eine symbolische Legislative sowie Ministerpräsidenten und Gouverneure hat, die wiederum der Zentralregierung unterstehen."
+beng.127.d: "Fünf Jahre sind vergangen, seit der Kongress das Gesetz zur Neuordnung der Provinzen verabschiedet hat, und noch immer gibt es Reibereien zwischen den Provinzen und der Zentralregierung darüber, wer den größten Einfluss in den Dörfern und Städten Indiens ausüben soll. Die Maximisten wollen, dass die Provinzen vollständig den Entscheidungen der Exekutive unterworfen werden und nur eine unbedeutende administrative Macht behalten. Der Agrarflügel hingegen vertritt die Auffassung, dass die komplexe Natur der indischen Nation einen lockeren Staatenbund erfordert, in dem die Exekutive nur die oberste Kontrolle über Verteidigungsfragen und die gesamtindische Industrie ausüben darf. Die Young India von Dange teilen das Misstrauen gegenüber einer starken Zentralregierung, schlagen aber die Schaffung eines von den lokalen Gewerkschaften gewählten Koordinierungsausschusses der Bundesstaaten vor, um eine gewisse Kohärenz zwischen den indischen Provinzen zu gewährleisten. Nehru schlägt eine quasi-föderale Struktur vor, bei der jede Provinz eine symbolische Legislative sowie Ministerpräsidenten und Gouverneure hat, die wiederum der Zentralregierung unterstehen."
+beng.127.d.nomax: "Fünf Jahre sind vergangen, seit der Kongress das Gesetz zur Neuordnung der Provinzen verabschiedet hat, und noch immer gibt es Reibereien zwischen den Provinzen und der Zentralregierung über die Frage, wer den größten Einfluss in den Dörfern und Städten Indiens ausüben soll. Der Agrarflügel vertritt die Auffassung, dass die komplexe Natur der indischen Nation einen lockeren Staatenbund erfordert, in dem die Exekutive nur die oberste Kontrolle über Verteidigungsfragen und die gesamtindische Industrie ausüben darf. Die Young India von Dange teilen das Misstrauen gegenüber einer starken Zentralregierung, schlagen jedoch die Schaffung eines von den lokalen Gewerkschaften gewählten Koordinierungsausschusses der Bundesstaaten vor, um eine gewisse Kohärenz zwischen den indischen Provinzen zu gewährleisten. Nehru schlägt eine quasi-föderale Struktur vor, bei der jede Provinz eine symbolische Legislative sowie Ministerpräsidenten und Gouverneure hat, die wiederum der Zentralregierung unterstehen."
+beng.127.d.noagr: "Fünf Jahre sind vergangen, seit der Kongress das Gesetz zur Neuordnung der Provinzen verabschiedet hat, und noch immer gibt es Reibereien zwischen den Provinzen und der Zentralregierung darüber, wer den größten Einfluss in den Dörfern und Städten Indiens ausüben soll. Die Maximisten wollen, dass die Provinzen vollständig den Entscheidungen der Exekutive unterworfen werden und nur eine unbedeutende administrative Macht behalten. Die Young India von Dange teilen das Misstrauen gegenüber einer starken Zentralregierung, schlagen aber die Schaffung eines von den lokalen Gewerkschaften gewählten Koordinierungsausschusses für die Bundesstaaten vor, um eine gewisse Kohärenz zwischen den indischen Provinzen zu gewährleisten. Nehru schlägt eine quasi-föderale Struktur vor, bei der jede Provinz eine symbolische Legislative sowie Ministerpräsidenten und Gouverneure hat, die wiederum der Zentralregierung unterstehen."
 beng.127.a: "Die Staaten müssen sich der Zentralregierung unterordnen!"
 beng.127.b: "Eine lose Konföderation autonomer Staaten."
 beng.127.c: "Eine quasi-föderale Struktur soll unsere Freiheit sichern."
@@ -833,7 +835,7 @@ HND_sarojini_naidu: "Sarojini Naidu"
 HND_madan_mohan_malaviya: "Madan Mohan Malaviya"
 HND_madhav_sadashivrao_golwalkar: "Madhav Sadashivrao Golwalkar"
 HND_vinayak_damodar_savarkar: "Vinayak Damodar Savarkar"
- 
+
 HND_hemanta_kumar_sarkar: "Hemanta Kumar Sarkar"
 HND_rajendra_prasad: "Rajendra Prasad"
 HND_chandra_shekhar_azad: "Chandra Shekhar Azad"
