@@ -51,14 +51,14 @@ guiTypes = {
 						clicksound = click_default
 					}
 
-					#buttonType = {
-					#	name = "tab_2"
-					#	position = { x = 170 y = 0 }
-					#	quadTextureSprite ="GFX_strategic_air_sort"
-					#	buttonText = "KR_welcome_splash_tab_2"
-					#	font = "hoi_18mbs"
-					#	clicksound = click_default
-					#}
+					buttonType = {
+						name = "tab_2"
+						position = { x = 170 y = 0 }
+						quadTextureSprite ="GFX_strategic_air_sort"
+						buttonText = "KR_welcome_splash_tab_2"
+						font = "hoi_18mbs"
+						clicksound = click_default
+					}
 
 					buttonType = {
 						name = "tab_3"
@@ -118,8 +118,9 @@ guiTypes = {
 	containerWindowType = {
 		name = KR_welcome_splash_tab_1_container
 		position = { x = 0 y = 436 }
-		size = { width = 720 height = 292 }
+		size = { width = 720 height = 450 } # Dt.Übsetzung Default: height = 352
 		margin = { left = 16 right = 16 }
+		clipping = yes
 
 		## backdrop texticon scripted loc textbox
 		containerWindowType = {
@@ -157,29 +158,55 @@ guiTypes = {
 				maxHeight = 375 # Dt.Übsetzung Default: maxHeight = 292
 				scrollbartype = "standardtext_slider"
 			}
+			
+			buttonType = {
+				name = "flip_back"
+				quadTextureSprite = "GFX_browser_back"
+				position = { x = 280 y = 410 }  # Dt.Übsetzung Default: y = 320
+			}
+
+			buttonType = {
+				name = "flip_forward"
+				quadTextureSprite = "GFX_browser_forward"
+				position = { x = 320 y = 410 } # Dt.Übsetzung Default: y = 320
+			}
 		}
 	}
 
 	containerWindowType = {
 		name = KR_welcome_splash_tab_2_container
 		position = { x = 0 y = 440 }
-		size = { width = 720 height = 292 }
+		size = { width = 720 height = 352 }
+		margin = { left = 40 right = 40 }
+		clipping = yes
+		
+		buttonType = {
+			name = "KR_welcome_splash_tab_2_reveal_spoilers_button"
+			quadTextureSprite = "GFX_checkbox_button_264"
+			position = { x = -132 y = -78 }
+			orientation = center_down
 
+			buttonText = "KR_welcome_splash_tab_2_reveal_spoilers_button"
+			buttonFont = "hoi_18mbs"
+			clicksound = click_default
+			oversound = ui_menu_over
+		}
+		
 		instantTextboxType = {
 			name = "KR_welcome_splash_tab_2_header"
 			text = "KR_welcome_splash_tab_2_header"
-			position = { x = 35 y = 0 }
+			position = { x = 0 y = 6 }
 			font = "hoi_20bs"
-			maxWidth = 650
+			maxWidth = 642
 		}
 
 		instantTextboxType = {
 			name = "KR_welcome_splash_tab_2_content"
 			text = "KR_welcome_splash_tab_2_content"
-			position = { x = 35 y = 32 }
+			position = { x = 0 y = 28 }
 			font = "hoi_18b"
-			maxWidth = 650
-			maxHeight = 185
+			maxWidth = 642
+			maxHeight = 350 # Dt.Übsetzung Default: maxHeight = 285
 			scrollbartype = "standardtext_slider"
 		}
 	}
@@ -187,8 +214,9 @@ guiTypes = {
 	containerWindowType = {
 		name = KR_welcome_splash_tab_3_container
 		position = { x = 0 y = 440 }
-		size = { width = 720 height = 375 } #Dt. Übersetzung Default: height = 292
+		size = { width = 720 height = 375 } #Dt. Übersetzung Default: height = 352
 		margin = { left = 40 right = 40 }
+		clipping = yes
 
 		verticalScrollbar = "right_vertical_slider"
 		smooth_scrolling = yes
@@ -215,15 +243,16 @@ guiTypes = {
 	containerWindowType = {
 		name = KR_welcome_splash_tab_4_container
 		position = { x = 0 y = 440 }
-		size = { width = 720 height = 292 }
+		size = { width = 720 height = 352 }
 		margin = { left = 40 right = 40 }
+		#clipping = yes #Dt.Übersetzung: entfernt für die Übersetzung
 
 		#verticalScrollbar = "right_vertical_slider"
 
 		instantTextboxType = {
 			name = "KR_welcome_splash_tab_4_header"
 			text = "KR_welcome_splash_tab_4_header"
-			position = { x = -320 y = 4 }
+			position = { x = -320 y = 6 }
 			orientation = center_up
 			format = centre
 			font = "hoi_20bs"
@@ -244,7 +273,7 @@ guiTypes = {
 		instantTextboxType = {
 			name = "KR_welcome_splash_tab_4_content_0"
 			text = "KR_welcome_splash_tab_4_content_0"
-			position = { x = -320 y = 32 }
+			position = { x = -320 y = 28 }
 			orientation = center_up
 			format = centre
 			font = "hoi_18b"

@@ -319,9 +319,9 @@ anti_tank_equipment_1: "Gezogene Pak"
 anti_tank_equipment_1_short: "Pak"
 anti_tank_equipment_1_desc: "Diese auf den Abschuss von gepanzerten Zielen wie zum Beispiel Panzern spezialisierte Artillerie verschießt allgemein panzerbrechende Granaten."
 
-artillery_equipment_1: "Gezogene Artillerie"
-artillery_equipment_1_short: "Artillerie"
-artillery_equipment_1_desc: "Artillerie bezieht sich auf großkalibrige Waffen wie Kanonen und Haubitzen, die von Geschützbesatzungen bedient werden. Die effektive Reichweite dieser Geschütze übertrifft die von Kleinwaffen bei weitem."
+artillery_equipment: "Gezogene Artillerie"
+artillery_equipment_short: "Artillerie"
+artillery_equipment_desc: "Artillerie bezieht sich auf großkalibrige Waffen wie Kanonen und Haubitzen, die von Geschützbesatzungen bedient werden. Die effektive Reichweite dieser Geschütze übertrifft die von Kleinwaffen bei weitem."
 
 rocket_artillery_equipment: "Gezogene Raketenartillerie"
 rocket_artillery_equipment_short: "Raketenartillerie"
