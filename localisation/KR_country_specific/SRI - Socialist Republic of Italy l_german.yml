@@ -925,12 +925,9 @@
  socitaly.123.a: "Der Film wird eine neue Kultur hervorbringen."
 
  socitaly.124.t: "Abschluss der Kulturrevolution"
- socitaly.124.d: "Auf tragische und etwas mysteriöse Weise ist Mussolini bei einem Flugzeugabsturz ums Leben gekommen. Mit seinem Tod hat Michele Bianchi die Kontrolle über die Republik übernommen. Bianchi hat erklärt, dass die Kulturrevolution siegreich war und als solche zu Ende gehen sollte. Mit dem Ende der Kulturrevolution hat er begonnen, einige der "Reformen", die während der Revolution verabschiedet wurden, langsam wieder zurückzunehmen, insbesondere die Durchsetzung des Futuristischen Essens."
- socitaly.124.a: "Die Revolution ist beendet."
-
- socitaly.125.t: "Das Ende der Revolution"
- socitaly.125.d: "Mussolini hat in Rom erklärt, dass die Kulturrevolution nun zu Ende ist. Die reaktionäre Kultur, die Italien seit der Ausrufung der Republik befallen hat, ist verschwunden. Heute scheint die Sonne auf ein neues Italien, und die Gewalt und das Chaos, die in Italien geherrscht haben, haben begonnen, sich zu legen. Das Leben hat sich verändert, aber die Republik ist gestärkt worden; zumindest sagt das Genosse Mussolini. Es ist jedoch klar, dass seine Macht jetzt absolut ist."
- socitaly.125.a: "Die Revolution ist beendet."
+  socitaly.124.d: "Heute Nachmittag erwarteten viele, dass Genosse Mussolini der Menge in Rom verkünden würde, dass die Kulturrevolution ihr Ende erreicht hat und die reaktionäre Kultur, die Italien und sein Volk infiziert hatte, endgültig zerstört ist. In einer schockierenden Wendung der Ereignisse gab Michele Bianchi stattdessen bekannt, dass das Flugzeug, in dem sich Mussolini befand, abgestürzt war und sowohl der Pilot als auch ein Teil der Besatzung ums Leben gekommen waren, während medizinische Teams verzweifelt versuchten, das Leben des Vorsitzenden zu retten. Bianchi beendete seine Ankündigung mit der Aussage, dass er, sollte das Schlimmste eintreten, dafür sorgen werde, dass Mussolinis Vision die Zukunft Italiens weiterhin präge. Privat hat Bianchi jedoch seinen Wunsch geäußert, viele der Reformen der Kulturrevolution zurückzunehmen, falls Mussolini wirklich umgekommen ist, insbesondere die Durchsetzung futuristischer Lebensmittel. Das ganze Land wartet nun mit angehaltenem Atem auf Nachrichten über das Schicksal des Vorsitzenden."
+ socitaly.124.a: "Mussolini ist tot, und seine Kulturrevolution ist es auch."
+ socitaly.124.b: "Der Genosse Mussolini hat die Trümmer überlebt und lebt noch heute."
 
  socitaly.126.t: "Syndikalistische Partisanen erheben sich"
  socitaly.126.d: "Wir hatten schon immer den Verdacht, dass es ein Untergrundnetzwerk von Syndikalisten gibt, das sich auf den Tag vorbereitet, an dem wir und [SRI.GetNameDef] in den Krieg ziehen. Ihre Zahl ist nicht überwältigend, aber ihr Auftauchen hinter unseren Linien ist unerwartet, und sie haben im ganzen Land ziemlich viel Unruhe verursacht."

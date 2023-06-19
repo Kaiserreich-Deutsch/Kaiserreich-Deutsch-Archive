@@ -876,7 +876,7 @@ csa.66.a: "Die Reaktionären werden ihr Schicksal erfüllen."
  csa.67.b: "Die Streitkräfte von [CSA_GetButlerOrCarlson] werden aufgerieben."
 
 csa.68.t: "Wiederherstellung der Demokratie"
- csa.68.d: "'Die Amerikaner haben in der Revolution nicht gekämpft und sind nicht gestorben, um eine kapitalistische Diktatur zu stürzen, nur um eine sozialistische Diktatur zu errichten. Der Präsident jedoch hat die Revolution korrumpiert und befleckt. Ich habe ihn entmachtet, nicht um mich zum Diktator zu machen, sondern um einen Tyrannen zu stoppen. Innerhalb eines Jahres werden neue und freie Wahlen abgehalten". Mit diesen Worten von Smedley Butler im Radio wurde in Amerika mit Entsetzen festgestellt, dass die Regierung gestürzt worden war. Vielleicht war aber auch ein gewisses Maß an Freiheit wiederhergestellt worden - jetzt stellt sich nur noch die Frage, wer die schwierige Übergangsphase leiten soll."
+ csa.68.d: "'Die Amerikaner haben in der Revolution nicht gekämpft und sind nicht gestorben, um eine kapitalistische Diktatur zu stürzen, nur um eine sozialistische Diktatur zu errichten. Der Präsident jedoch hat die Revolution korrumpiert und befleckt. Ich habe ihn entmachtet, nicht um mich zum Diktator zu machen, sondern um einen Tyrannen zu stoppen. Innerhalb eines Jahres werden neue und freie Wahlen abgehalten". Mit diesen Worten von [CSA_GetButlerOrCarlsonName] im Radio wurde in Amerika mit Entsetzen festgestellt, dass die Regierung gestürzt worden war. Vielleicht war aber auch ein gewisses Maß an Freiheit wiederhergestellt worden - jetzt stellt sich nur noch die Frage, wer die schwierige Übergangsphase leiten soll."
  csa.68.a: "Elizabeth Gurley Flynn."
  csa.68.b: "Norman Thomas."
 

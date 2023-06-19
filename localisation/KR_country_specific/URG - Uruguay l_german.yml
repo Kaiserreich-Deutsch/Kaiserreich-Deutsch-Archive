@@ -1,5 +1,7 @@
 ﻿l_german:
+
 ##Übersetzt von Thylon##
+
 uruguay_focus: "Schwerpunktbaum von Uruguay"
 
 ### Parties ###
@@ -306,7 +308,7 @@ URG_economic_decisions: "Wirtschaftliche Angelegenheiten"
 URG_economic_decisions_desc: "Unsere Wirtschaft ist trotz ihrer relativen inneren Stabilität nicht groß und unterliegt ausländischen Einflüssen. Wenn wir wirklich unabhängig bleiben wollen, müssen wir etwas dagegen tun."
 URG_improve_agriculture_dec: "Verbessert den Agrarsektor"
 URG_improve_cattle_ranches_dec: "Rinderfarmen verbessern"
- URG_arms_industry_investments: "Improve the Arms Industry"
+URG_arms_industry_investments: "Waffenindustrie verbessern"
 URG_dockyards_dec: "Werftkapazitäten erhöhen"
 URG_improve_resource_extraction_dec: "Ressourcenextraktion verbessern"
 
@@ -326,11 +328,12 @@ URG_arg_fort_13: "Befestigung der Rio-Negro-Linie"
 URG_arg_fort_14: "Weitere Befestigungen an der Unteren Rio-Negro-Linie"
 URG_arg_fort_15: "Weitere Befestigungen an der Oberen Rio-Negro-Linie"
 
-### Events ###
-urg.1.t: "Die Republik Östlich des Uruguay"
-urg.1.d: "Die Republik Östlich des Uruguay war während des größten Teils ihrer Geschichte tief gespalten. Selbst nach dem Ende des uruguayischen Bürgerkriegs gab es noch starke Unruhen zwischen den beiden wichtigsten politischen Parteien, der Colorado und der Nationalen Partei. Es konnte kein Mittelweg gefunden werden, und die Spaltung schien kein Ende zu nehmen, aber die Nation funktionierte noch. Als der Weltkrieg die Welt erschütterte, blieb Uruguay neutral, denn sowohl Deutschland als auch Großbritannien waren wichtige Handelspartner. Obwohl Uruguay den Handel während des Konflikts aufrechterhalten konnte, hatte der Krieg keine großen Auswirkungen auf das Land, und Uruguay existierte weiterhin als schwache und instabile Nation. Das war jedoch nur bis 1919 der Fall, als eine neue Verfassung geschaffen wurde, auf die sich beide Parteien einigten. Die Verfassung erlaubte es der Colorado-Partei, das Amt des Präsidenten beizubehalten, aber ihre Befugnisse wurden eingeschränkt und mit dem Nationalen Verwaltungsrat geteilt, der sich aus gewählten Vertretern sowohl der Colorado-Partei als auch der Nationalen Partei zusammensetzt. Dieses Machtgleichgewicht hat für Uruguay ein goldenes Zeitalter eingeläutet und der Bevölkerung Frieden und Stabilität gebracht. Im Jahr 1928 wurden die Befugnisse des Rates sogar noch erweitert, so dass er heute mehr Einfluss hat als der Präsident. Der Rat ist für die uruguayische Politik von grundlegender Bedeutung geworden. Dank dieser politischen Blütezeit hat sich die Wirtschaft drastisch verbessert, so dass die Regierung Uruguay zu einem starken Sozialstaat machen konnte. Die Politik Uruguays ist jedoch so unbeständig wie eh und je. Sollte eine Katastrophe eintreten, wie der plötzliche Zusammenbruch der Agrarindustrie, könnten die Risse im Rat sichtbar werden, und einige Politiker, die glauben, dass der Präsident mehr Macht haben muss, könnten versuchen, dies als Gelegenheit zu nutzen, um die Herrschaft des Rates zu beenden."
+### Intro Screen ###
+URG_country_intro_header: "Die Republik Östlich des Uruguay"
+URG_country_intro_content: "Die Republik Östlich des Uruguay war während des größten Teils ihrer Geschichte tief gespalten. Selbst nach dem Ende des uruguayischen Bürgerkriegs gab es noch starke Unruhen zwischen den beiden wichtigsten politischen Parteien, der Colorado und der Nationalen Partei. Es konnte kein Mittelweg gefunden werden, und die Spaltung schien kein Ende zu nehmen, aber die Nation funktionierte noch.\n\nAls der Weltkrieg die Welt erschütterte, blieb Uruguay neutral, denn sowohl Deutschland als auch Großbritannien waren wichtige Handelspartner. Obwohl Uruguay den Handel während des Konflikts aufrechterhalten konnte, hatte der Krieg keine großen Auswirkungen auf das Land, und Uruguay existierte weiterhin als schwache und instabile Nation. Das war jedoch nur bis 1919 der Fall, als eine neue Verfassung geschaffen wurde, auf die sich beide Parteien einigten. Die Verfassung erlaubte es der Colorado-Partei, das Amt des Präsidenten beizubehalten, aber ihre Befugnisse wurden eingeschränkt und mit dem Nationalen Verwaltungsrat geteilt, der sich aus gewählten Vertretern sowohl der Colorado-Partei als auch der Nationalen Partei zusammensetzt.\n\nDieses Machtgleichgewicht hat für Uruguay ein goldenes Zeitalter eingeläutet und der Bevölkerung Frieden und Stabilität gebracht. Im Jahr 1928 wurden die Befugnisse des Rates sogar noch erweitert, so dass er heute mehr Einfluss hat als der Präsident. Der Rat ist für die uruguayische Politik von grundlegender Bedeutung geworden. Dank dieser politischen Blütezeit hat sich die Wirtschaft drastisch verbessert, so dass die Regierung Uruguay zu einem starken Sozialstaat machen konnte.\n\nDie Politik Uruguays ist jedoch so unbeständig wie eh und je. Sollte eine Katastrophe eintreten, wie der plötzliche Zusammenbruch der Agrarindustrie, könnten die Risse im Rat sichtbar werden, und einige Politiker, die glauben, dass der Präsident mehr Macht haben muss, könnten versuchen, dies als Gelegenheit zu nutzen, um die Herrschaft des Rates zu beenden."
 urg.1.a: "Libertad o Muerte!"
 
+### Events ###
 urg.2.t: "Der Schwarze Montag trifft die River Plate!"
 urg.2.d: "Während des Weltkriegs exportierten wir tonnenweise Lebensmittel und Viehprodukte auf alle Seiten, vor allem in das Vereinigte Königreich und nach Deutschland. Dies setzte sich auch nach dem Weltkrieg fort, bis zur Revolution in Großbritannien 1925, als unsere Exporte an die Briten fast vollständig eingestellt wurden. Seitdem ist unsere Wirtschaft mehr und mehr von der deutschen abhängig geworden. Dies kam uns aufgrund der Stärke der deutschen Wirtschaft zugute und bescherte uns jahrelang ein konstantes Wirtschaftswachstum.\n\nPlötzlich stagnierte unsere Wirtschaft jedoch. Unternehmen haben aufgrund der Auswirkungen der Krise des Schwarzen Montags begonnen, zu schließen. Glücklicherweise haben unsere beiden wichtigsten Handelspartner, Deutschland und Brasilien, weiterhin unsere Lebensmittelvorräte und andere Exporte importiert. Viele Ökonomen befürchten jedoch, dass Deutschland gezwungen sein wird, seine Importe einzustellen, was zu einer ausgewachsenen Staatskrise führen würde.\n\nVorerst scheint das goldene Zeitalter Uruguays vorbei zu sein."
 urg.2.a: "Oh nein!"

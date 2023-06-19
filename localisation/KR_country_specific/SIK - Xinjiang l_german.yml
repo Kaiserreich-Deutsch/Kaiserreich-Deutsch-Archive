@@ -101,7 +101,6 @@ ETS_uprising_tooltip: "§RAksu und Hotan werden unter rebellische Kontrolle fall
 KUM_uprising_tooltip: "§RKumul wird gegen uns rebellieren.§!\n"
 SIK_control_shaowu_divisions: "§GWir werden Kontrolle über Shaowus Armee erhalten.§!\n"
 SIK_yarkand_deployment: "§GDie Garnison in Yarkand wird mobilisiert werden, um gegen die Uiguren zu kämpfen.§!"
-SIK_dzungaria_open_for_business_tooltip: "§RDzungaria ist offen und kann von anderen erobert werden.§!"
 SIK_white_russian_tooltips: "Eine kleine Garnison weißrussischer Truppen wird in Dihua mobilisiert werden."
 SIK_turfan_defection: "Die Turfan-Garnison unter Ma Fuming wird zu den Kumuliken desertieren."
 SIK_beiyuan_defection: "§RZhang Beiyuans Dihua Garnison wird zu den Kumuliken desertieren.§!"
@@ -212,7 +211,7 @@ SIK_setup_policing_dzungaria_desc: "Obwohl die Beseitigung von Lagern die Häufi
 SIK_remove_mongol_mission: "Nördliche Gaunerei ausrotten"
 SIK_remove_mongol_mission_desc: "Mit der Eskalation des mongolischen Problems wächst auch unser Bedürfnis, endlich etwas zu unternehmen. Wenn wir das Problem ignorieren, könnte es dazu kommen, dass die Region in Zukunft völlig außerhalb unserer Kontrolle liegt wird."
 
-TIB_intervene_mongolia: "Grenzkonflikte mit der Mongolei"
+SIK_attack_mongolia: "Grenzkonflikte mit der Mongolei"
 
 SIK_xinjiang_war_category: "Der Xinjiang-Krieg"
 SIK_xinjiang_war_category_desc: "Xinjiang ist aufgrund von Jins Politik in eine Krise geraten, mit den uigurischen Rebellen im Süden und den Kumulik-Verrätern im Osten. Obwohl Sheng Shicai, Ma Shaowu und Jin Shuren vorerst eine vereinte Kraft sind, unternehmen sie alle ihre eigenen Schritte, um das Problem zu lösen, das ihre eigenen Interessen befeuert. Ohne sorgfältiges Manövrieren könnte das Gouvernement Xinjiang noch schneller fallen als gedacht."

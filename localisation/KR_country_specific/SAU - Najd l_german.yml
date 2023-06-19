@@ -28,19 +28,19 @@
  SAU_ongoing_ikhwan_raid: "Die Ikhwan befinden sich bereits auf einem Raubzug!"
  SAU_arabian_tribes_mobilized_tooltip: "£nato_unit_cavalry_icon_small Erhaltet 2 §YKavallerie-Divisionen§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YRiad§!"
 
- sau_ruwala_tt: "£nato_unit_cavalry_icon_small Erhaltet 1 §YKavallerie-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YAnizzah§!, sobald der §RVereinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n"
- sau_anizzah_tt: "£nato_unit_cavalry_icon_small Erhaltet 2 §YKavallerie-Divisionen§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YAnizzah§!, sobald der §RVereinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n\n£nato_unit_militia_icon_small Erhaltet 1 §YMiliz-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YAnizzah§!, sobald der §RVereinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n"
- sau_dhafir_tt: "£nato_unit_cavalry_icon_small Erhaltet 1 §YKavallerie-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YAnizzah§!, sobald der §RVereinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n"
- sau_mutair_busayis_tt: "£nato_unit_cavalry_icon_small Erhaltet 1 §YKavallerie-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YQasim§!, sobald der §RVereinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n"
- sau_utaibah_sultan_tt: "£nato_unit_cavalry_icon_small Erhaltet 2 §YKavallerie-Divisionen§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YQasim§!, sobald der §RVereinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n"
- sau_utaibah_rubayin_tt: "£nato_unit_cavalry_icon_small Erhaltet 1 §YKavallerie-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YQasim§!, sobald der §RVereinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n\n£nato_unit_militia_icon_small Erhaltet 1 §YMiliz-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YQasim§!, sobald der §RVereinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n"
- sau_duwasir_tt: "£nato_unit_militia_icon_small Erhaltet 2 §YMiliz-Divisionen§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YNadschd§!, sobald der §RVereinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n"
+ sau_ruwala_tt: "£nato_unit_cavalry_icon_small Erhaltet 1 §YKavallerie-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YAnizzah§!, sobald der §REinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n"
+ sau_anizzah_tt: "£nato_unit_cavalry_icon_small Erhaltet 2 §YKavallerie-Divisionen§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YAnizzah§!, sobald der §REinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n\n£nato_unit_militia_icon_small Erhaltet 1 §YMiliz-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YAnizzah§!, sobald der §REinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n"
+ sau_dhafir_tt: "£nato_unit_cavalry_icon_small Erhaltet 1 §YKavallerie-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YAnizzah§!, sobald der §REinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n"
+ sau_mutair_busayis_tt: "£nato_unit_cavalry_icon_small Erhaltet 1 §YKavallerie-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YQasim§!, sobald der §REinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n"
+ sau_utaibah_sultan_tt: "£nato_unit_cavalry_icon_small Erhaltet 2 §YKavallerie-Divisionen§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YQasim§!, sobald der §REinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n"
+ sau_utaibah_rubayin_tt: "£nato_unit_cavalry_icon_small Erhaltet 1 §YKavallerie-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YQasim§!, sobald der §REinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n\n£nato_unit_militia_icon_small Erhaltet 1 §YMiliz-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YQasim§!, sobald der §REinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n"
+ sau_duwasir_tt: "£nato_unit_militia_icon_small Erhaltet 2 §YMiliz-Divisionen§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YNadschd§!, sobald der §REinigungskrieg§! gegen §G[JBS.GetNameWithFlag]§! beginnt.\n"
 
 ### Decisions ###
- SAU_JBS_Power_Struggle: "Vorbereitungen für den Vereinigungskrieg"
+ SAU_JBS_Power_Struggle: "Vorbereitungen für den Einigungskrieg"
  SAU_JBS_Power_Struggle_desc: "Seit Jahren haben wir auf die Gelegenheit gewartet, die arabische Halbinsel unter dem Haus Saud zu vereinen. Leider ließen uns die Osmanen nie aus den Augen und als das Britische Imperium 1925 auseinanderfiel, haben sie ihre rashidischen Schoßhündchen für ihre \"Loyalität\" während des Weltkriegs mehr als reichlich belohnt. Da uns nichts blieb, keine Verbündeten und keine neuen Territorien, wurde Abdulaziz immer ruheloser und rachsüchtiger.\n\nSaud bin Abd Al-Aziz genießt zwar zurzeit die Unterstützung seiner osmanischen Verbündeten, aber es ziehen dunkle Wolken auf, und sollte sein mächtiger Wohltäter sich um interne Probleme kümmern müssen, werden seine erbärmlichen Streitkräfte sich allein gegen den Zorn der Ikhwan behaupten müssen...\n\n§gDie Stärke unserer £in_combat §GVerbündeten§! wird die Größe unserer Armee zu Beginn des Krieges mit [JBS.GetNameWithFlag] bestimmen. Die zentralarabischen Stämme zu umwerben und uns die Unterstützung der Ikhwan zu sichern könnte uns einen entscheidenden Vorteil verschaffen.§!\n      [JBS.GetNameWithFlag] : [?JBS.num_divisions|H0] ([?JBS.tribes|H0])\n      [SAU.GetNameWithFlag] : [?SAU.num_divisions|H0] ([?SAU.tribes|H0])\n" 
 
- SAU_War_of_Unification: "Arabischer Vereinigungskrieg"
+ SAU_War_of_Unification: "Arabischer Einigungskrieg"
  SAU_War_of_Unification_desc: "Die finale Schlacht um die Kontrolle Zentralarabiens steht bevor, da die Osmanen aufgrund der weltweiten Wirtschaftskrise kurz vor dem Zusammenbruch stehen, was es ihnen unmöglich macht, den Frieden auf der Halbinsel zu wahren. Alle Emire werden eine Seite wählen müssen, denn die Zukunft der arabischen Welt wird mit Blut geschrieben und die Verlierer entehert oder auf dem Schlachtfeld niedergestreckt werden."
  SAU_War_of_Unification_Peace: "Bevorstehender Zusammenbruch"
  SAU_War_of_Unification_Peace_desc: "Der Krieg ist den Wüsten Arabiens zwar nichts Neues, die Wirtschaft und Landwirtschaft der Halbinsel ist jedoch nicht dafür ausgelegt, lange Konflikte unterstützen zu können. Sollte das Haus der Rashiden oder das der Saudis kurz vor dem Sieg stehen, wird die andere Seite keine Wahl mehr haben, als ihre Niederlage zuzugeben, da sich der Verlierer keinen Materialkrieg leisten könnte." 
@@ -107,7 +107,7 @@
  SAU_moral_police_desc: "Die Befolgung religiöser Richtlinien und die Sittlichkeit des Volkes muss durchgesetzt werden, damit unser Land rein bleibt."
  SAU_muslim_universities: "Islamische Bildung"
  SAU_muslim_universities_desc: "Mithilfe finanzieller Fördermittel konnten wir unsere Hochschulen expandieren."
- SAU_arabian_war_of_unification: "Vereinigungskrieg"
+ SAU_arabian_war_of_unification: "Einigungskrieg"
  SAU_allah_triumphant: "Allahs Wille hat triumphiert!"
 
  SAU_Saudi_revolt: "Krieg um die Halbinsel"
