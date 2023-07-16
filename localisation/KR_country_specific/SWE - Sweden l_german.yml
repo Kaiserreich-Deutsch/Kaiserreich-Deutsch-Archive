@@ -462,10 +462,10 @@
 
 ### Events ###
 
-### Intro Events ###
+### Intro Screen ###
 
- swe.0.t: "Schweden 1936"
- swe.0.d: "Nach dem Sieg der Deutschen im Weltkrieg musste sich Schweden auf eine neue Weltordnung einstellen. Daher überraschte es kaum jemanden, als die schwedische Regierung ankündigte, dass Schweden der deutschen Organisation Mitteleuropa beitreten würde. Arvid Lindman und seinen Konservativen gelang es, die Versuche der Sozialdemokraten, die Macht an sich zu reißen, durch einen Wahlsieg abzuwehren und Schweden als konservatives Bollwerk in Skandinavien zu etablieren.\n\nDies könnte sich jedoch ändern, da Lindman vor zwei Jahren in den Ruhestand ging. In diesem Jahr wird der neue Regierungschef Gösta Bagge, der Lindman auch als Ministerpräsident abgelöst hat, seine ersten Wahlen leiten. Wird auch er in der Lage sein, sich gegen seinen Erzfeind in der Opposition, Per Albin Hansson, durchzusetzen?"
+ SWE_country_intro_header: "Schweden 1936"
+ SWE_country_intro_content: "Nach dem Sieg der Deutschen im Weltkrieg musste sich Schweden auf eine neue Weltordnung einstellen. Daher überraschte es kaum jemanden, als die schwedische Regierung ankündigte, dass Schweden der deutschen Organisation Mitteleuropa beitreten würde. Arvid Lindman und seinen Konservativen gelang es, die Versuche der Sozialdemokraten, die Macht an sich zu reißen, durch einen Wahlsieg abzuwehren und Schweden als konservatives Bollwerk in Skandinavien zu etablieren.\n\nDies könnte sich jedoch ändern, da Lindman vor zwei Jahren in den Ruhestand ging. In diesem Jahr wird der neue Regierungschef Gösta Bagge, der Lindman auch als Ministerpräsident abgelöst hat, seine ersten Wahlen leiten. Wird auch er in der Lage sein, sich gegen seinen Erzfeind in der Opposition, Per Albin Hansson, durchzusetzen?"
  swe.0.a: "Für Schweden!"
 
 ### 1936 Events ###

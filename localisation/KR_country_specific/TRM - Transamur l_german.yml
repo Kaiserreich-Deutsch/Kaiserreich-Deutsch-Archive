@@ -1,16 +1,19 @@
 ﻿l_german:
+
 ##Übersetzt von Thylon##
+
 TRM_focus: "Schwerpunktbaum von Transamur"
 
 ### Leader Traits ###
 TRM_shaky_rule: "Wackelige Herrschaft"
 TRM_admiral_dictator: "Admiral-Diktator"
 
-### Events ###
-tram.intro.t: "Transamur - Provisorischer russischer Staat in Wladiwostok"
-tram.intro.d: "Sibirien und der Ferne Osten Russlands waren während des Russischen Bürgerkriegs ein Hauptkonfliktgebiet, da sich dort eine kurzlebige demokratische Republik, der Aufstieg der 'Tschechischen Legion' und die japanische Intervention befanden. Obwohl die Japaner aufgrund des deutschen Drucks (und des heftigen Widerstands der örtlichen Kosaken) gezwungen waren, ihre Truppen zu evakuieren, waren sie weiterhin bestrebt, ihren Einfluss auszuweiten, und drängten 1922 auf die Gründung eines unabhängigen Staates in der Region Transamur. Dieser Antrag fand die Unterstützung der Wladiwostoker Geschäftswelt, obwohl er sie in eine wirtschaftliche Abhängigkeit von Japan bringen konnte. Die Mehrheit der Geschäftsleute sah jedoch in den wirtschaftlichen und diplomatischen Beziehungen mit der aufstrebenden Macht im Osten einen großen Vorteil, vor allem im Vergleich zu der Alternative, weiter in die Unruhen im übrigen Russland hineingezogen zu werden. Mit Admiral Koltschak, einem der erfolgreicheren Weißen Generäle des Bürgerkriegs und dem einstigen selbsternannten 'Obersten Herrscher von ganz Russland', der nach seinem erfolglosen Versuch, die Macht zu übernehmen, 1925 aus Russland fliehen musste, erhielt der neue Staat eine prominente Galionsfigur. Im Jahr 1936 ist die Republik Transamur zu einem korporativen und militaristischen Staat geworden und steht politisch, wirtschaftlich und militärisch unter der Fuchtel des japanischen Kaiserreichs. Und doch hat Koltschak eigene Ambitionen. Könnte es sein, dass er ein sehr gefährliches Spiel treibt, indem er den Schutz Japans nutzt, um seine eigene Herrschaft zu errichten, zunächst über Sibirien und dann über ganz Russland?"
+### Intro Screen ###
+TRM_country_intro_header: "Transamur - Provisorischer russischer Staat in Wladiwostok"
+TRM_country_intro_content: "Sibirien und der Ferne Osten Russlands waren während des Russischen Bürgerkriegs ein Hauptkonfliktgebiet, da sich dort eine kurzlebige demokratische Republik, der Aufstieg der 'Tschechischen Legion' und die japanische Intervention befanden. Obwohl die Japaner aufgrund des deutschen Drucks (und des heftigen Widerstands der örtlichen Kosaken) gezwungen waren, ihre Truppen zu evakuieren, waren sie weiterhin bestrebt, ihren Einfluss auszuweiten, und drängten 1922 auf die Gründung eines unabhängigen Staates in der Region Transamur. Dieser Antrag fand die Unterstützung der Wladiwostoker Geschäftswelt, obwohl er sie in eine wirtschaftliche Abhängigkeit von Japan bringen konnte. Die Mehrheit der Geschäftsleute sah jedoch in den wirtschaftlichen und diplomatischen Beziehungen mit der aufstrebenden Macht im Osten einen großen Vorteil, vor allem im Vergleich zu der Alternative, weiter in die Unruhen im übrigen Russland hineingezogen zu werden. Mit Admiral Koltschak, einem der erfolgreicheren Weißen Generäle des Bürgerkriegs und dem einstigen selbsternannten 'Obersten Herrscher von ganz Russland', der nach seinem erfolglosen Versuch, die Macht zu übernehmen, 1925 aus Russland fliehen musste, erhielt der neue Staat eine prominente Galionsfigur. Im Jahr 1936 ist die Republik Transamur zu einem korporativen und militaristischen Staat geworden und steht politisch, wirtschaftlich und militärisch unter der Fuchtel des japanischen Kaiserreichs. Und doch hat Koltschak eigene Ambitionen. Könnte es sein, dass er ein sehr gefährliches Spiel treibt, indem er den Schutz Japans nutzt, um seine eigene Herrschaft zu errichten, zunächst über Sibirien und dann über ganz Russland?\n\n§CAlle 90 Tage werden die Japaner Transamur besuchen, um ihren Einfluss zu vergrößern.§!"
 tram.intro.a: "Interessant..."
 
+### Events ###
 tram.1.t: "Transamur bricht weg!"
 tram.1.d: "Die Republik Transamur hat großen Anstoß an unseren Versuchen genommen, ihre inneren Angelegenheiten zu regeln, und bricht alle politischen Beziehungen zu uns ab!"
 tram.1.a: "Zerstört sie!"
@@ -666,8 +669,8 @@ TRM_free_russia_ADJ: "Russisch"
 TRM_free_russia_DEF: "Freies Russland"
 
 TRM_GU: "Grüne Ukraine"
-TRM_GU_ADJ: "Grün-Ukrainisch"
-TRM_GU_DEF: "die Grüne Ukraine"
+TRM_GU_ADJ: "Grün Ukrainisch"
+TRM_GU_DEF: "Grüne Ukraine"
 
 ### Characters ###
 RUS_aleksandr_krasnoshchyokov: "Aleksandr Krasnoshchyokov"

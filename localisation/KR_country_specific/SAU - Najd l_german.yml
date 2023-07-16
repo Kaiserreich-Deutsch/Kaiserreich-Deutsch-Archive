@@ -269,13 +269,15 @@
  SAU_war_of_resistance: "Krieg der Beständigkeit"
  SAU_war_of_resistance_desc: "Wir leben in einem Zeitalter des totalen Kriegs, in dem selbst kleine Konflikte große Zerstörung auslösen können. Unsere Nation könnte genauso schnell wieder fallen, wie sie auferstanden ist. Wir müssen Widerstand leisten! Arabien wird auf ewig frei sein!"
 
-### Events
- saud.1.t: "Das Emirat Nadschd"
- saud.1.d: "Der Weltkrieg war eines der vielen Zeichen dafür, dass wir, das Hause Saud, dazu bestimmt sind, über dieses Land zu herrschen. In der Stunde ihres größten Hochmuts wurden die Haschimiten von ihrem ungläubigen Herren aufgegeben und waren daraufhin den Türken schutzlos ausgeliefert. Unsere Inaktivität während des darauffolgenden Krieges hat sich als höchst vorteilhaft herausgestellt, da wir so einem türkischen Vergeltungsschlag entgehen konnten, wenngleich die Osmanen keinen wirklichen Einfluss auf uns haben. Nun müssen wir die Zeit abwarten, Krieger und Geld sammeln und unsere Industrie ausbauen, um die Rashiden anzugreifen, welche denken, auf beiden Seiten stehen zu können, indem sie sowohl haschimitische Krieger aufnahmen als auch den Osmanen die Treue schworen. Wenn wir über sie triumphieren, können wir endlich ganz Arabien unter einem Banner vereinen!"
+
+## Intro Screen ##
+ SAU_country_intro_header: "Das Emirat Nadschd"
+ SAU_country_intro_content: "Der Weltkrieg war eines der vielen Zeichen dafür, dass wir, das Hause Saud, dazu bestimmt sind, über dieses Land zu herrschen. In der Stunde ihres größten Hochmuts wurden die Haschimiten von ihrem ungläubigen Herren aufgegeben und waren daraufhin den Türken schutzlos ausgeliefert. Unsere Inaktivität während des darauffolgenden Krieges hat sich als höchst vorteilhaft herausgestellt, da wir so einem türkischen Vergeltungsschlag entgehen konnten, wenngleich die Osmanen keinen wirklichen Einfluss auf uns haben. Nun müssen wir die Zeit abwarten, Krieger und Geld sammeln und unsere Industrie ausbauen, um die Rashiden anzugreifen, welche denken, auf beiden Seiten stehen zu können, indem sie sowohl haschimitische Krieger aufnahmen als auch den Osmanen die Treue schworen. Wenn wir über sie triumphieren, können wir endlich ganz Arabien unter einem Banner vereinen!"
  saud.1.a: "Lang lebe das Hause Saud!"
 
+### Events
  saud.2.t: "Saudi-Arabien"
- saud.2.d: "Heute, durch unseren Sieg über die Rashiden und der Eroberung Hedschas', stehen die Saudis triumphierend. Durch diesen Sieg werden wir endlich über ganz Arabien herrschen!"
+ saud.2.d: "Heute, durch unseren Sieg über die Rashiden und der Eroberung des Hedschas, stehen die Saudis triumphierend. Durch diesen Sieg werden wir endlich über ganz Arabien herrschen!"
  saud.2.a: "Lang lebe das Hause Saud!"
 
 ### Reactions to the Caliph Event ###

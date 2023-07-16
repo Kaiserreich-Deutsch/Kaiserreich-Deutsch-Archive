@@ -4,11 +4,12 @@
 
 dei_focus: "Schwerpunktbaum von Niederländisch-Indien"
 
-### Events ###
-dei.1.t: "Niederländisch-Indien im Jahr 1936"
-dei.1.d: "Abgesehen von der syndikalistischen Revolte im Jahr 1925 war das Kronjuwel des niederländischen Reiches ein Leuchtturm der Stabilität, der den Aufstieg der Niederlande in Mitteleuropa nutzte, um seine Waren (Zucker, Kaffee, Öl) auf den neu erschlossenen Märkten zu verkaufen. Trotz der Konkurrenz durch die nun gut aufgestellte und wieder aufgebaute deutsche Konkurrenz konnte dieses Wirtschaftswachstum mithalten, und die Stabilität ging damit einher.\n\nTrotz dessen unterdrücken die niederländischen Behörden jeden Ruf nach Unabhängigkeit, da die niederländische Regierung glaubt, dass sie ohne 'de oost' nicht überleben kann, aber trotzdem wachsen die Bewegungen. Viele in der Kolonialverwaltung befürchten, dass sich Ereignisse wie 1925 wiederholen könnten, wenn es erneut zu wirtschaftlicher Not käme, oder noch schlimmer..."
+### Intro Screen ###
+DEI_country_intro_header: "Niederländisch-Indien im Jahr 1936"
+DEI_country_intro_content: "Abgesehen von der syndikalistischen Revolte im Jahr 1925 war das Kronjuwel des niederländischen Reiches ein Leuchtturm der Stabilität, der den Aufstieg der Niederlande in Mitteleuropa nutzte, um seine Waren (Zucker, Kaffee, Öl) auf den neu erschlossenen Märkten zu verkaufen. Trotz der Konkurrenz durch die nun gut aufgestellte und wieder aufgebaute deutsche Konkurrenz konnte dieses Wirtschaftswachstum mithalten, und die Stabilität ging damit einher.\n\nTrotz dessen unterdrücken die niederländischen Behörden jeden Ruf nach Unabhängigkeit, da die niederländische Regierung glaubt, dass sie ohne 'de oost' nicht überleben kann, aber trotzdem wachsen die Bewegungen. Viele in der Kolonialverwaltung befürchten, dass sich Ereignisse wie 1925 wiederholen könnten, wenn es erneut zu wirtschaftlicher Not käme, oder noch schlimmer..."
 dei.1.a: "But economic hardship seems miles away!"
 
+### Events ###
 dei.2.t: "Der Schwarze Montag trifft die Indies"
 dei.2.d: "Die Folgen der wirtschaftlichen Not, die Europa nach dem Schwarzen Montag traf, waren bald auch in Niederländisch-Indien zu spüren, das seine Waren seit dem Ende des Weltkriegs auf dem mitteleuropäischen Markt verkaufte. Da sich der einfache Mann in Europa den Kauf von Waren wie Zucker und Kaffee nicht mehr leisten konnte, brachen die Preise für diese Waren ein, was für die hiesigen Bauern schwerwiegende Folgen hatte."
 dei.2.a: "Oh nein!"

@@ -884,11 +884,12 @@ MAF_Sailing_With_Marine_desc: "Unsere Schiffe sollten nicht einfach in den örtl
  bushwar.47.a: "Ein Ende dieses Krieges wäre für uns von Vorteil."
  bushwar.47.b: "Wir werden weiterkämpfen!"
 
-## Flavour Events ##
- mittel.000.t: "Im Herzen Afrikas"
- mittel.000.d: "Mittelafrika, das nach der Übernahme der französischen und belgischen Kolonien entstanden ist, ist ein riesiger Landstrich, der sich aus Städten, Häuptlingstümern, Königreichen, Ackerland, Dschungel, Savanne, Wüsten und mehr zusammensetzt; denn es erstreckt sich über die Hälfte des Schwarzen Kontinents. Die Kolonie ist ein komplexes Geflecht aus Verträgen, Vereinbarungen und stillschweigenden Absprachen, das zwar stabil, aber bemerkenswert unrentabel ist; etwas, das der neue Verantwortliche, Hermann von Göring, und seine Männer um jeden Preis ändern wollen. Aber könnten diese Kosten für Mittelafrika zu hoch sein? Und wird der Kaiser von Göring erlauben, ein solches Risiko einzugehen?"
+## Intro Screen ##
+ MAF_country_intro_header: "Im Herzen Afrikas"
+ MAF_country_intro_content: "Mittelafrika, das nach der Übernahme der französischen und belgischen Kolonien entstanden ist, ist ein riesiger Landstrich, der sich aus Städten, Häuptlingstümern, Königreichen, Ackerland, Dschungel, Savanne, Wüsten und mehr zusammensetzt; denn es erstreckt sich über die Hälfte des Schwarzen Kontinents. Die Kolonie ist ein komplexes Geflecht aus Verträgen, Vereinbarungen und stillschweigenden Absprachen, das zwar stabil, aber bemerkenswert unrentabel ist; etwas, das der neue Verantwortliche, Hermann von Göring, und seine Männer um jeden Preis ändern wollen. Aber könnten diese Kosten für Mittelafrika zu hoch sein? Und wird der Kaiser von Göring erlauben, ein solches Risiko einzugehen?"
  mittel.000.a: "Klingt spannend!"
 
+## Flavour Events ##
  mittel.001.t: "Jahrestag von Mahiwa"
  mittel.001.d: "Heute ist der Jahrestag der Schlacht von Mahiwa, der entscheidendsten Schlacht des Ostafrika-Feldzugs. In dieser Schlacht wurden die King's African Rifles von den Armeen von Paul von Lettow-Vorbeck im Süden und Osten und von Kurt Wahle im Norden und Westen eingekesselt und mussten kapitulieren. Die Briten verloren bei dieser Operation fast 4.000 Mann, während die deutschen Askari weniger als 200 Mann verloren.\n\nDie Schlacht ebnete den Weg für unsere Invasion und Eroberung von Mosambik im Jahr 1918. Seit 1922 ist er in Mittelafrika ein staatlicher Feiertag. Er wird in der gesamten Kolonie, vor allem aber in Dar-es-Salaam, mit Paraden und militärischen Übungen begangen, da er alle Bürger und Untertanen an unsere Notwendigkeit und Fähigkeit zu militärischen Höchstleistungen erinnert."
  mittel.001.a: "Heia Safari!"

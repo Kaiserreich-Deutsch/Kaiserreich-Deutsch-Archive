@@ -1,7 +1,5 @@
 ﻿l_german:
-
 ##Übersetzer: Itzylol#2163 ##
-
  dominican_focus: "Schwerpunktbaum von Dominikanische Republik"
 
 ### Parties ###
@@ -400,11 +398,12 @@
  DOM_integration_category: "Haitianische Integrationsentscheidungen"
  DOM_integratedecision: "Assimilierung der zivilen Verwaltung"
 
-### Events ###
- domrep.0.t: "Eine Beunruhigende Zeit"
- domrep.0.d: "Zwischen 1916 bis 1924, war die Dominikanische Republik von Amerika besetzt worden. Während die Besatzung weniger streng war als im benachbarten Haiti, war das Land nichts desto trotz umgewandelt. Das alte politische Organ wurde auf den Kopf gestellt und die linke Mitte völlig zerstört; viel Macht wurde von den Besatzern an machthungrige Militärführer vergeben, insbesondere an den ehrgeizigen Rafael Trujillo.\n\nIm Jahr 1924 wurde eine neue demokratische Verfassung ausgearbeitet, und das Land erlangte bald darauf seine Unabhängigkeit zurück, wobei die Amerikaner einige Jahre später die volle finanzielle Kontrolle wieder übernahmen. Zunächst blühte der neue Staat auf und seine Institutionen wurden wieder aufgebaut, doch dies sollte nicht lange anhalten. Präsident Horacio Vásquez versuchte, die Verfassung zu seinem eigenen Vorteil zu ändern, und obwohl er von Vizepräsident Federico Velázquez knapp aus dem Amt gedrängt wurde, war die Demokratie des Landes für immer geschwächt. Nach mehreren glanzlosen Präsidentschaften aus den Reihen der Roten Partei besiegte der konservative Populist Virgilio Martínez Reyna den wirtschaftsfreundlichen Rafael Estrella Ureña in einem Wahlkampf, der die Rote Partei erschütterte und die Erholung der nationalen Stabilität weiter behinderte. Während Präsident Martínez bei den unteren Schichten beliebt ist, haben seine ständige Zentralisierung der Macht und seine Bereitschaft, die Verfassung zu ändern, die den Handlungen von Vásquez selbst unheimlich ähnlich sind, die Wohlhabenden verprellt. Angesichts der bevorstehenden Wahlen könnte die Verzweiflung einen Umsturz herbeiführen."
+### Intro Screen ###
+ DOM_country_intro_header: "Eine Beunruhigende Zeit"
+ DOM_country_intro_content: "Zwischen 1916 bis 1924, war die Dominikanische Republik von Amerika besetzt worden. Während die Besatzung weniger streng war als im benachbarten Haiti, war das Land nichts desto trotz umgewandelt. Das alte politische Organ wurde auf den Kopf gestellt und die linke Mitte völlig zerstört; viel Macht wurde von den Besatzern an machthungrige Militärführer vergeben, insbesondere an den ehrgeizigen Rafael Trujillo.\n\nIm Jahr 1924 wurde eine neue demokratische Verfassung ausgearbeitet, und das Land erlangte bald darauf seine Unabhängigkeit zurück, wobei die Amerikaner einige Jahre später die volle finanzielle Kontrolle wieder übernahmen. Zunächst blühte der neue Staat auf und seine Institutionen wurden wieder aufgebaut, doch dies sollte nicht lange anhalten. Präsident Horacio Vásquez versuchte, die Verfassung zu seinem eigenen Vorteil zu ändern, und obwohl er von Vizepräsident Federico Velázquez knapp aus dem Amt gedrängt wurde, war die Demokratie des Landes für immer geschwächt. Nach mehreren glanzlosen Präsidentschaften aus den Reihen der Roten Partei besiegte der konservative Populist Virgilio Martínez Reyna den wirtschaftsfreundlichen Rafael Estrella Ureña in einem Wahlkampf, der die Rote Partei erschütterte und die Erholung der nationalen Stabilität weiter behinderte. Während Präsident Martínez bei den unteren Schichten beliebt ist, haben seine ständige Zentralisierung der Macht und seine Bereitschaft, die Verfassung zu ändern, die den Handlungen von Vásquez selbst unheimlich ähnlich sind, die Wohlhabenden verprellt. Angesichts der bevorstehenden Wahlen könnte die Verzweiflung einen Umsturz herbeiführen."
  domrep.0.a: "Vorwärts!"
 
+### Events ###
  domrep.1.t: "Ein Geheimes Meeting"
  domrep.1.d: "In einem nichtbeschrifteten Gebäude am Rande von Santo Domingo, saßen 2 der mächtigsten Männer in der Dominikanischen Republik um einen Tisch herum. Rafael Estrella Ureña, Kandidat in den kommenden Präsidentschaftswahlen und Kopf der Republicano-Partei, und Rafael Trujillo Molina, Führer der Streitkräfte - Beide streben nach demselben, immer knapper werdenden Gut: Macht. Die beiden Männer haben jedoch völlig unterschiedliche Visionen für das Land, und in der kurzen Zeit seit dem Beginn des Treffens ist Estrella zunehmend misstrauisch gegenüber Trujillo und der Rolle geworden, die ihm abverlangt wird, sollten sie sich gemeinsam um die Macht bemühen."
  domrep.1.a: "Estrella Stürmt Raus."

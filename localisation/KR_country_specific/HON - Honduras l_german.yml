@@ -183,11 +183,14 @@ HON_stronghold_desc: "Honduras wird auch in den kommenden Jahren ein Bollwerk de
 HON_motto: "Souverän, unabhängig und frei"
 HON_motto_desc: "Wir werden nie wieder unser Haupt vor Tyrannen beugen, wir sind jetzt und für immer souverän, unabhängig und frei."
 
-#Events
-honduras.1.t: "Die ursprüngliche Bananenrepublik"
-honduras.1.d: "Nachdem Honduras unter die Herrschaft verschiedener US-amerikanischer Fruchtkonzerne geraten war, die das Land in eine wirtschaftliche Enklave verwandelt hatten, kam es 1933 zu einem Zusammenbruch. Ein Bauernaufstand stürmte die Hauptstadt und führte zum Selbstmord des amtierenden Präsidenten, aber auch nach dieser Katastrophe wurde die nach der Revolution eingesetzte Regierung erneut von US-Interessen und einer Clique von Intellektuellen beherrscht. Was jetzt vom honduranischen Staatsapparat übrig geblieben ist, ist ein Chaos, das von Andersdenkenden gesäubert wurde und sich auf militärische Gewalt stützt, um die Eisenbahnlinien zu den Häfen offen zu halten."
+### Intro Screen ####
+HON_country_intro_header: "Die ursprüngliche Bananenrepublik"
+HON_country_intro_content: "Nachdem Honduras unter die Herrschaft verschiedener US-amerikanischer Fruchtkonzerne geraten war, die das Land in eine wirtschaftliche Enklave verwandelt hatten, kam es 1933 zu einem Zusammenbruch. Ein Bauernaufstand stürmte die Hauptstadt und führte zum Selbstmord des amtierenden Präsidenten, aber auch nach dieser Katastrophe wurde die nach der Revolution eingesetzte Regierung erneut von US-Interessen und einer Clique von Intellektuellen beherrscht. Was jetzt vom honduranischen Staatsapparat übrig geblieben ist, ist ein Chaos, das von Andersdenkenden gesäubert wurde und sich auf militärische Gewalt stützt, um die Eisenbahnlinien zu den Häfen offen zu halten."
 honduras.1.a: "Es ist nicht viel, aber es ist ein Zuhause."
 
+HON_guide: "§MGeneral Castro§! (§PPaternal Autokratisch§!)\n£white_dot General Castro soll den Vorsitz im Rat führen und während der Dringlichkeitssitzung das Kriegsrecht verhängen.\n\n§MVorsitzender Galvez / Vorsitzender Morales§! (§cSozialkonservative §!/ §SSozialdemokraten §!)\n£white_dot Weisen Sie alle Anträge zum Vorsitz zurück und beginnen Sie mit dem Druck von Stimmzetteln während der Dringlichkeitssitzung.\n£white_dot Wählen Sie die Partei, die nach den Wahlen gewinnen soll.\n\n§MPremierminister Callejas§! (§oTotalistisch§!)\n£white_dot Stadtrat Callejas soll den Vorsitz im Rat übernehmen und die Revolution während der Dringlichkeitssitzung vorantreiben."
+
+#Events
 honduras.2.t: "Desertionen in der Armee"
 honduras.2.d: "Seit langem verlassen wir uns auf das Militär, um die schmalen Eisenbahnlinien zu schützen, die die Plantagen mit den Häfen verbinden, um unsere Wirtschaft am Laufen zu halten. Doch mit der anhaltenden Wirtschaftskrise und der politischen Unzufriedenheit ist die Loyalität der Armee unsicher geworden, und Hunderte von Männern haben ihren Posten verlassen, um sich der einen oder anderen Miliz anzuschließen."
 honduras.2.a: "Sie kommen zurück, wenn sie hungrig sind."

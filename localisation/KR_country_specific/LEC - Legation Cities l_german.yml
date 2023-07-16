@@ -627,6 +627,11 @@ LEC_remove_germany_motion: "Entfernung des Deutschen Reiches aus dem Gesandtscha
 LEC_restore_america_motion: "Wiederherstellung des amerikanischen Wahlrechts im Gesandtschaftsrat"
 LEC_belgium_vote: "Entfernen von [BEL.GetNameDef] aus dem Gesandtschaftsrat"
 
+
+### Intro Screen ###
+ LEC_country_intro_header: "$lec.1.t$"
+ LEC_country_intro_content: "$lec.1.d$"
+
 ### Events ###
  lec.observer: "Mal sehen, wie es läuft..."
  lec.vote_yes: "Den Antrag genehmigen"

@@ -205,9 +205,9 @@ zero_island: "Abgelegene Insel(n)"
  AIR_VIEW_AIR_ATTACK_HIGHER: "Unser durchschnittlicher §Luftangriff§! ist §Höher§! als ihre §Luftverteidigung§!"
  AIR_VIEW_AIR_ATTACK_LOWER: "Unser durchschnittlicher §Luftangriff§! ist §Niedriger§! als ihre §Luftverteidigung§!"
  AIR_VIEW_AIR_ATTACK_EQUAL: "Unser durchschnittlicher §Luftangriff§! ist der §Gleiche§! wie ihre §Luftverteidigung§!"
- AIR_VIEW_AIR_DEFENSE_HIGHER: "Unsere durchschnittliche §Luftverteidigung§! ist §Höher§! als ihr §Luftangriff§!"
- AIR_VIEW_AIR_DEFENSE_LOWER: "Unsere durchschnittliche §Luftverteidigung§! ist §Niedriger§! als ihr §Luftangriff§!"
- AIR_VIEW_AIR_DEFENSE_EQUAL: "Unsere durchschnittliche §Luftverteidigung§! ist die §Gleiche§! wie ihr §Luftangriff§!"
+ AIR_VIEW_AIR_DEFENSE_HIGHER: "Unsere durchschnittliche §HLuftverteidigung§! ist §GHöher§! als ihr §HLuftangriff§!"
+ AIR_VIEW_AIR_DEFENSE_LOWER: "Unsere durchschnittliche §HLuftverteidigung§! ist §RNiedriger§! als ihr §HLuftangriff§!"
+ AIR_VIEW_AIR_DEFENSE_EQUAL: "Unsere durchschnittliche §HLuftverteidigung§! ist die §HGleiche§! wie ihr §HLuftangriff§!"
  AIR_MORE_GROUND_CREWS_CANCEL_DESC: "§Abbrechen§! der Effizienzsteigerung bei $NAME|H$"
 
 ### alerts_l_english

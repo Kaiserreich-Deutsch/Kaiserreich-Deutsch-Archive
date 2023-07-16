@@ -126,12 +126,13 @@
  YEM_national_populist_party: "YAR"
  YEM_national_populist_party_long: "Arabische Republik Jemen"
 
-### Events ###
+### Intro Screen ###
 
- yemen.1.t: "Das Imamat Jemen"
- yemen.1.d: "Aufgrund der osmanischen Siege in Südarabien und im Weltkrieg und des Zusammenbruchs des Britischen Imperiums 1920 hat der Jemen große Landgewinne verzeichnen können. Da die Osmanen jedoch noch immer über die Sunniten unserer Nation herrschen, und dies extremst nachlässig, kam es im ganzen Reich zu Unruhen. Der zaiditisch-schiitische Imam, das Regierungsoberhaupt, will deshalb seine Kontrolle über den Jemen ausweiten, seine Freiheit von den Osmanen erringen und die Nation verteidigen, über die er rechtmäßig herrscht."
+ YEM_country_intro_header: "Das Imamat Jemen"
+ YEM_country_intro_content: "Aufgrund der osmanischen Siege in Südarabien und im Weltkrieg und des Zusammenbruchs des Britischen Imperiums 1920 hat der Jemen große Landgewinne verzeichnen können. Da die Osmanen jedoch noch immer über die Sunniten unserer Nation herrschen, und dies extremst nachlässig, kam es im ganzen Reich zu Unruhen. Der zaiditisch-schiitische Imam, das Regierungsoberhaupt, will deshalb seine Kontrolle über den Jemen ausweiten, seine Freiheit von den Osmanen erringen und die Nation verteidigen, über die er rechtmäßig herrscht."
  yemen.1.a: "Großjemen muss verteidigt werden!"
 
+### Events ###
  yemen.2.t: "Der Schwarze Montag trifft den Jemen!"
  yemen.2.d: "Die Auswirkungen des deutschen Börsenkraches haben bereits der schwachen Wirtschaft des Osmanischen Reiches und der jungen Wirtschaft Ägyptens große Schäden zugefügt. Nun wurde auch die kleine Wirtschaft des Jemens vom Schwarzen Montag getroffen und befindet sich aufgrund der Krise in einem Konjunkturtief."
  yemen.2.a: "Wir müssen bald reagieren!"

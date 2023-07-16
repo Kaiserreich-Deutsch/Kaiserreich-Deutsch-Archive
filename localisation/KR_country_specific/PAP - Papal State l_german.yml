@@ -143,9 +143,9 @@
  PAP_julius_iv_focus_desc: "Alfredo Schuster ist ein Mann, der von vielen als ideologisch zu weit rechts stehend bezeichnet wird. Er warnt vor den Übeln des radikalen Sozialismus und erklärt, er sei bereit, zu den Waffen zu greifen, um das Christentum mit allen Mitteln zu verteidigen."
  PAP_promote_order: "Ordnung fördern"
  PAP_promote_order_desc: "Die neue katholische Regierungsform wird sicherstellen, dass jeder Mensch aus jedem Beruf entsprechend vertreten ist, was zu einer wesentlich stabileren Regierung führen wird."
- PAP_call_faithful: "A Appell an die Gläubigen"
+ PAP_call_faithful: "Ein Appell an die Gläubigen"
  PAP_call_faithful_desc: "Das Herz des Christentums selbst wird von den gottlosen Syndikalisten bedroht. Da der Feind dem Heiligen Stuhl so nahe ist, müssen die Gläubigen Roms und die päpstlichen Zouaven mit aller Kraft kämpfen, um sicherzustellen, dass der Lateranpalast von unseren abscheulichen Feinden unberührt bleibt."
- PAP_holy_war: "Holy War"
+ PAP_holy_war: "Heiliger Krieg"
  PAP_holy_war_desc: "Es ist an der Zeit, dass der päpstliche Staat seine Rolle als Verteidiger Gottes und der Tugend übernimmt und dass sich das Volk in einem Elften Kreuzzug gegen den Syndikalismus in seinen Dienst stellt."
  PAP_temporal_power: "Weltliche Macht verstärken"
  PAP_temporal_power_desc: "Die zunehmende Säkularisierung der Gesellschaft bedeutet, dass der Einfluss des Papstes abnimmt. Es gibt jedoch Wege, wie wir seinen Einfluss innerhalb seiner eigenen Grenzen stärken können."
@@ -301,6 +301,11 @@
  PAP_did_not_denounce_coughlin: "Hat Pater Coughlin nicht denunziert"
  PAP_denounced_coughlin: "Denunzierte Pater Coughlin"
 
+### Intro Screen ###
+ PAP_country_intro_header: "Der Zustand des Kirchenstaates"
+ PAP_country_intro_content: "Nach dem Zusammenbruch Italiens nach dem Weltkrieg drohte Rom von den republikanischen Rebellen gegen das alte Königreich eingenommen zu werden. Die verschwommenen Kampflinien des Bürgerkriegs verschonten Rom größtenteils durch den Schutz der südlichen royalistischen Kräfte, die zusammen mit lokalen rechten Milizen Aufstände in Rom niederschlugen. Der Papst verließ bald den Vatikan, um die Verwaltung seines gottgewollten Reiches wieder aufzunehmen, doch der geschwächte Staat verfügte über keine ihm treu ergebenen Streitkräfte und hatte kaum eine Chance, einer Offensive der Syndikalisten zu widerstehen. Die weißen Generäle im Süden wollten jedoch nicht tatenlos zusehen, wie das Zentrum des Katholizismus dem Syndikalismus zum Opfer fiel, und führten eine Gegenoffensive an, um Rom zu sichern. Sie stellten den Kirchenstaat unter den Schutz der Royalisten, später der Sizilianer, und erhielten Unterstützung von ausländischen Freiwilligen in Rom, dem wiedergeborenen Zouave-Korps.\n\nNach dem Ende des Krieges trat der Kirchenstaat zusammen mit seinen Schutzherren in Neapel der Italienischen Föderation bei, kontrollierte aber nur einen kleinen Teil des nominellen Territoriums und war und ist in den meisten Belangen ein Rumpfstaat, eine Marionette der Sizilianer. Nachdem er 1926 zusammen mit Sardinien und den Beiden Sizilien seine Unabhängigkeit erklärt hatte, wurde er von den meisten Staaten der Welt als unabhängiger Staat anerkannt, auch wenn er in seinen diplomatischen Möglichkeiten stark eingeschränkt ist.\n\nIn der Kurienpolitik ist die schwindende Gesundheit von Pius in aller Munde, und es bleibt abzuwarten, wer seine Nachfolge antreten wird, sollte er in den kommenden Jahren sterben."
+ papalstate.40.a: "Interessant."
+
 ### Events ###
  papalstate.1.t: "Der Schwarze Montag trifft den Kirchenstaat!"
  papalstate.1.d: "Vor fast zwei Wochen stürzte die Berliner Börse ins Bodenlose und stürzte die deutsche Wirtschaft in eine noch nie dagewesene Krise. Nun haben die Schockwellen des Absturzes auch uns erreicht. Unternehmen in deutschem und österreichischem Besitz haben geschlossen oder entlassen, unsere Währung verliert an Wert, die Industrieexporte schrumpfen und unsere Staatsverschuldung gerät außer Kontrolle..."
@@ -427,10 +432,6 @@
  papalstate.39.t: "Die päpstliche Konklave"
  papalstate.39.d: "Nach dem Tod von Pius XI. haben sich die Kardinäle der katholischen Kirche in der Sixtinischen Kapelle versammelt, um den neuen Papst zu wählen. Sie werden so lange in Klausur bleiben, bis ein Konsens erreicht ist und ein neuer Nachfolger des Heiligen Peter von den Wählern bestimmt wurde."
  papalstate.39.a: "Lasst uns beten, dass sie weise wählen."
-
- papalstate.40.t: "Der Zustand des Kirchenstaates"
- papalstate.40.d: "Nach dem Zusammenbruch Italiens nach dem Weltkrieg drohte Rom von den republikanischen Rebellen gegen das alte Königreich eingenommen zu werden. Die verschwommenen Kampflinien des Bürgerkriegs verschonten Rom größtenteils durch den Schutz der südlichen royalistischen Kräfte, die zusammen mit lokalen rechten Milizen Aufstände in Rom niederschlugen. Der Papst verließ bald den Vatikan, um die Verwaltung seines gottgewollten Reiches wieder aufzunehmen, doch der geschwächte Staat verfügte über keine ihm treu ergebenen Streitkräfte und hatte kaum eine Chance, einer Offensive der Syndikalisten zu widerstehen. Die weißen Generäle im Süden wollten jedoch nicht tatenlos zusehen, wie das Zentrum des Katholizismus dem Syndikalismus zum Opfer fiel, und führten eine Gegenoffensive an, um Rom zu sichern. Sie stellten den Kirchenstaat unter den Schutz der Royalisten, später der Sizilianer, und erhielten Unterstützung von ausländischen Freiwilligen in Rom, dem wiedergeborenen Zouave-Korps.\n\nNach dem Ende des Krieges trat der Kirchenstaat zusammen mit seinen Schutzherren in Neapel der Italienischen Föderation bei, kontrollierte aber nur einen kleinen Teil des nominellen Territoriums und war und ist in den meisten Belangen ein Rumpfstaat, eine Marionette der Sizilianer. Nachdem er 1926 zusammen mit Sardinien und den Beiden Sizilien seine Unabhängigkeit erklärt hatte, wurde er von den meisten Staaten der Welt als unabhängiger Staat anerkannt, auch wenn er in seinen diplomatischen Möglichkeiten stark eingeschränkt ist.\n\nIn der Kurienpolitik ist die schwindende Gesundheit von Pius in aller Munde, und es bleibt abzuwarten, wer seine Nachfolge antreten wird, sollte er in den kommenden Jahren sterben."
- papalstate.40.a: "Interessant."
 
  papalstate.41.t: "Der gemeinsame Sizilianisch-Päpstliche Planungsstab"
  papalstate.41.d: "Der Kirchenstaat hat soeben vorgeschlagen, dass unsere Nation und die ihrige einen gemeinsamen Planungsstab einrichten, um unsere künftigen Kriege gegen die Bedrohungen, die Italien plagen, besser zu koordinieren."
