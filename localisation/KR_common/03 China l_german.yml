@@ -602,8 +602,8 @@ china_events.41.a: "Eine neue Generation von Offizieren für ein neues China."
 
 ### Capital Event ###
 china_events.50.t: "Die neue Hauptstadt"
-china_events.50.d: "Es ist an der Zeit, den Sitz der neuen Zentralregierung zu bestimmen. Nanjing und Beijing bieten sich beide an, obwohl letzterer angesichts der bewegten Geschichte der ersten Republik relativ umstritten ist. Wuhan ist ebenfalls ein guter Kompromiss, da es das Zentrum der Xinhai-Revolution war, mit der die Qing zum ersten Mal gestürzt wurden. Guangzhou hingegen ist das wirtschaftliche Zentrum Südchinas."
-china_events.50.a: "Beijing."
+china_events.50.d: "Es ist an der Zeit, den Sitz der neuen Zentralregierung zu bestimmen. Nanjing und [GetVictoryPointName_9843] bieten sich beide an, obwohl letzterer angesichts der bewegten Geschichte der ersten Republik relativ umstritten ist. Wuhan ist ebenfalls ein guter Kompromiss, da es das Zentrum der Xinhai-Revolution war, mit der die Qing zum ersten Mal gestürzt wurden. Guangzhou hingegen ist das wirtschaftliche Zentrum Südchinas."
+china_events.50.a: "[GetVictoryPointName_9843]."
 china_events.50.b: "Nanjing."
 china_events.50.c: "Wuhan."
 china_events.50.e: "Guangzhou."
@@ -1114,6 +1114,22 @@ china_events.314.t: "[FROM.GetNameDefCap] vollendet die chinesische Vereinheitli
 china_events.314.d: "Im Zeitalter ständiger Kriege und Auseinandersetzungen in der sich ständig verändernden politischen Landschaft ist es nicht verwunderlich, dass kleinere Cliquen und Provinzen über ihre Grenzen hinausgehen, um Macht und Ruhm zu erlangen. Zur Überraschung vieler hat sich [FROM.GetNameDef] aus seiner Provinz erhoben, um rivalisierende Regierungen zu besiegen, und hat in seiner Hauptstadt [FROM.Capital.GetCapitalVictoryPointName] die Republik China ausgerufen.\n\nDas lange Zeit geteilte Land China ist unter der Führung von [ROOT.GetLeader] endlich wieder vereint worden. Nur die Zeit wird zeigen, ob China zum Rest der Welt aufschließen wird oder nicht, aber für den Moment kann sich das chinesische Volk endlich ausruhen, da es weiß, dass die chaotische Warlord-Periode zu einem Ende gekommen ist."
 china_events.314.a: "Das chinesische Volk hat sich endlich erhoben!"
 
+china_events.340.t: "Vorsitzender Wang hält durch"
+china_events.340.d: "Obwohl der Vorsitzende [CHI.GetLeader] die Kuomintang aus dem Exil und der Beinahe-Zerstörung zu durchschlagenden nationalen Erfolgen mit dem Abschluss der Zweiten Nördlichen Expedition geführt hat, schien die Herrschaft des Vorsitzenden [CHI.GetLeader] durch die wachsende fraktionelle Opposition des Provisorischen Aktionskomitees der Kuomintang zu zerfallen. Trotz der Angriffe von allen Seiten scheint es jedoch, dass der Vorsitzende seine Kontrolle und seine Herrschaft über die Partei tatsächlich gefestigt und die Opposition effektiv zerschlagen hat.\n\nNun ist zum ersten Mal seit Jahrzehnten endlich wieder Frieden in China eingekehrt, und der Vorsitzende Wang wird versuchen, das chinesische Land zu modernisieren und wiederzubeleben, um die von seinem Mentor, dem verstorbenen Dr. Sun Yat-sen, formulierten Grundsätze in den kommenden Jahren zu erfüllen."
+china_events.340.a: "Wang Jingwei ist wirklich der Erbe von Dr. Suns Revolution."
+
+china_events.341.t: "Song's PAC sichert sich die Führung der KMT"
+china_events.341.d: "Während die Kuomintang während der Exilzeit der Partei nach der Nordexpedition nominell von Wang Jingwei geführt wurde, organisierten sich die in China Verbliebenen als autonome MinGan-Aufstandsregierung. Auf dieser Grundlage wurde das Provisorische Aktionskomitee (PAC) der Kuomintang gebildet, das in seiner Erklärung an das revolutionäre Volk in China und der Welt von 1932 eine populistische, sozialistische Plattform ankündigte, die dem Volk näher zu stehen schien. Jahre später hat die Vorsitzende [CHI.GetLeader] erklärt, dass das PAC in ein neues Revolutionskomitee umgewandelt werden soll, um die einfachen Massen zur Ausrottung der Klasse und zu einer neuen revolutionären Zukunft für die Bauern und Arbeiter Chinas zu führen."
+china_events.341.a: "Das Volk hat sich erhoben!"
+
+china_events.342.t: "Die Reorganisationsfraktion übernimmt die KMT"
+china_events.342.d: "Während es der Kuomintang gelang, das Land unter ihrer Parteiflagge zu vereinen, stürzte die Partei nach der Ermordung und dem Tod ihres ehemaligen Vorsitzenden Wang Jingwei in einen Bürgerkrieg ab. Die Partei zersplitterte daraufhin in mehrere Fraktionen, während das Land erneut in einen großen Bürgerkrieg stürzte. Von seiner Regierung in Beiping aus haben der Vorsitzende Zeng Zhongming und Premierminister Chen Gongbo zusammen mit der Vereinigung der Reorganisierten Genossen offenbar den Sieg über alle anderen Fraktionen ausgerufen. Da die Reorganisationsfraktion nun die totale Kontrolle sowohl über das Land als auch über die Partei hat, glauben ausländische Beobachter, dass China auf eine autoritäre sozialistische Zukunft zusteuert, die von einigen der radikalsten Sozialisten Chinas bestimmt wird."
+china_events.342.a: "Ein neues China ist geboren..."
+
+china_events.343.t: "Die Chinesische Wiederbelebungsgesellschaft erklärt den Sieg"
+china_events.343.d: "Während es der Kuomintang gelang, das Land unter ihrer Parteiflagge zu vereinen, versank die Partei nach der Ermordung und dem Tod ihres ehemaligen Vorsitzenden Wang Jingwei in einen Bürgerkrieg. Als die zerstrittenen Fraktionen begannen, sich gegenseitig zu bekämpfen, gelang es der radikalen China Revival Society (CRS), die Macht an sich zu reißen und das Land in einen Ausnahmezustand zu versetzen. In einer großen Rede von [FROM.Capital.GetCapitalVictoryPointName] erklärte Generalissmo Hu Zongnan, dass alle inneren und äußeren Feinde Chinas im Rahmen einer neuen Richtung der nationalen Revolution vernichtet werden sollen. Das Gerede der CRS von einer totalitären Revolution nach dem Vorbild von Sawinkow, Mussolini und Mosley wird sicherlich jede Chance auf Demokratie in China trüben."
+china_events.343.a: "Dunkelheit hat die Nationale Revolution befallen."
+
 ### Cosmetic Tags ###
 national_protection_alliance: "NSA"
 national_protection_alliance_ADJ: "NSA"
@@ -1221,8 +1237,8 @@ united_china_kuomintang_yunnan_DEF: "China"
 
 united_china_kuomintang_yunnan_totalist: "Republik China"
 united_china_kuomintang_yunnan_totalist_DEF: "die Republik China"
-united_china_kuomintang_yunnan_syndicalist: "Republik China"
-united_china_kuomintang_yunnan_syndicalist_DEF: "die Republik China"
+united_china_kuomintang_yunnan_syndicalist: "Volkskommunen von China"
+united_china_kuomintang_yunnan_syndicalist_DEF: "die Volkskommunen von China"
 united_china_kuomintang_yunnan_radical_socialist: "Republik China"
 united_china_kuomintang_yunnan_radical_socialist_DEF: "die Republik China"
 united_china_kuomintang_yunnan_social_democrat: "Republik China"
@@ -1266,6 +1282,7 @@ united_china_kuomintang_guangxi_national_populist: "Republik China"
 united_china_kuomintang_guangxi_national_populist_DEF: "die Republik China"
 
 # Provinces
+chinese_province_title: "[THIS.ChinaGetStateProvinceTitle] Provinz"
 anhui_province_state: "Anhui"
 chahar_province_state: "Chahar"
 fengtian_province_state: "Fengtian"
@@ -1289,6 +1306,7 @@ shandong_province_state: "Shandong"
 shanxi_province_state: "Shanxi"
 sichuan_province_state: "Sichuan"
 suiyuan_province_state: "Suiyuan"
+taiwan_province_state: "Taiwan"
 xinjiang_province_state: "Xinjiang"
 yunnan_province_state: "Yunnan"
 zhejiang_province_state: "Zhejiang"

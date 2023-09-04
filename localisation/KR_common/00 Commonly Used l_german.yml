@@ -110,6 +110,15 @@ colour_natpop: "N"
 colour_alt_green: "n"
 colour_mustard: "M"
 
+### Day of the Week ### (for use in scripted loc)
+day_sunday: "Sonntag"
+day_monday: "Montag"
+day_tuesday: "Dienstag"
+day_wednesday: "Mittwoch"
+day_thursday: "Donnerstag"
+day_friday: "Freitag"
+day_saturday: "Samstag"
+
 ### KR-added Modifiers ###
 offmap_military_factories_tooltip: "Militärfabriken außerhalb der Karte hinzufügen"
 offmap_civilian_factories_tooltip: "Zivilfabriken außerhalb der Karte hinzufügen"

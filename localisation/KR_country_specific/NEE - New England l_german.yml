@@ -1551,6 +1551,11 @@ newengland.127.a: "Gemeinsam werden wir Amerika für die Entente zurückgewinnen
 CSA_delay_new_england_intervention: "Intervention von New England verzögern"
 CSA_delay_new_england_intervention_desc: "Wir können die Amerikaner in Neuengland nicht daran hindern, in den Bürgerkrieg einzugreifen... aber wir können sie verzögern. Wenn wir landesweite Streiks mit einer klaren syndikalistischen Verbindung sponsern, werden sie zu Hause gefesselt und zu paranoid sein, um etwas zu unternehmen. Wir können dies jedoch nur so oft tun, bis die Amerikaner in Neuengland herausfinden, woher die Mittel kommen."
 
+CSA_extend_yankee_rebellion: "Ausweitung der Yankee-Rebellion"
+CSA_extend_yankee_rebellion_desc: "Kanada hat die Arbeiter in Neuengland weiterhin unterdrückt, und wir müssen ihnen weiterhin helfen, damit sie sich mit ihren amerikanischen Brüdern vereinigen können. Wenn wir weiterhin Unzufriedenheit in Neuengland säen, wird das Kanada ablenken und weiterhin ein Band mit den Arbeitern Neuenglands knüpfen."
+CSA_increase_pp_cost: "Die Kosten für die Provokation weiterer Unruhen werden §Rerhöht§!\n"
+CSA_encouraged_rebellion: "Die [CSA.GetNamewithFlag] haben hier Unruhen ausgelöst"
+
 newengland.128.t: "[NEE.GetAdjective] Intervention zeichnet sich ab"
 newengland.128.d: "Aus Angst vor einem syndikalistischen Amerika vor ihrer Haustür bereiten die Kanadier und Amerikaner im Nordosten - zusammen mit ihren britischen Herren - derzeit eine Intervention vor. Wir können sie nicht verhindern, aber einige glauben, dass es möglich sein könnte, sie zu verzögern. Wenn wir im Stillen Kontakt zu den Arbeiterbewegungen in Neuengland aufnehmen und sie finanzieren und sie dazu bringen, sich in Streiks zu erheben, die offensichtlich syndikalistische Verbindungen haben, könnten die Amerikaner zu paranoid sein, um Maßnahmen zu ergreifen, bis die Streiks niedergeschlagen sind. Das würde uns allenfalls ein paar Monate Zeit verschaffen, wenn wir so weitermachen. Und sonst? Wir sollten uns auf eine baldige Invasion aus dem Norden vorbereiten."
 newengland.128.a: "So sei es"

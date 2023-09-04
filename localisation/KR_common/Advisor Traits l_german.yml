@@ -213,19 +213,65 @@ CEY_genteel_historian: "Edler Historiker"
 CEY_charismatic_opportunist_trait: "Charismatischer Opportunist"
 
 ## CHI ###
-KR_dynamic_materialist_sic: "Dynamischer Materialist"
-
-KR_iron_necked_liberal_sic: "Eisenhut-Liberaler"
-
+KR_heir_to_the_revolution_sic: "Erbe der chinesischen Revolution"
 KR_heir_to_the_revolution: "Erbe der chinesischen Revolution"
 
-KR_old_guard_of_kmt: "Alte Garde der KMT"
+KR_mouthpiece_of_rca_sic: "Sprachrohr der RCA"
+KR_mouthpiece_of_rca_2_sic: "Sprachrohr der RCA"
+KR_mouthpiece_of_rca_3_sic: "Sprachrohr der RCA"
+KR_mouthpiece_of_rca_4_sic: "Sprachrohr der the RCA"
+
+KR_hero_of_the_chinese_revolution_sic: "Held der chinesischen Revolution"
+KR_hero_of_the_chinese_revolution_2_sic: "Held der chinesischen Revolution"
+KR_hero_of_the_chinese_revolution_3_sic: "Held der chinesischen Revolution"
+KR_hero_of_the_chinese_revolution_4_sic: "Held der chinesischen Revolution"
+
+KR_the_pursuit_of_datong_sic: "Die Verfolgung von Datong"
+KR_the_pursuit_of_datong_2_sic: "Die Verfolgung von Datong"
+KR_the_pursuit_of_datong_3_sic: "Die Verfolgung von Datong"
+
+KR_realising_datong_sic: "Verwirklichung von Datong"
+KR_realising_datong_sic_tt: "Die Auswirkungen dieser Eigenschaft werden mit dem Modifikator §YVerwirklichung von Datong§! auf der Registerkarte Nationale Ideen dargestellt."
+
+KR_the_red_napoleon_sic: "Der rote Napoleon"
+KR_the_red_napoleon_sic_tt: "Die Auswirkungen dieser Eigenschaft werden mit dem Modifikator §YDer rote Napoleon§! auf der Registerkarte Nationale Ideen dargestellt."
+
+KR_dynamic_materialist_sic: "Dynamischer Materialist"
+
+KR_proponent_of_the_united_front_sic: "Befürworter der Einheitsfront"
+KR_proponent_of_the_united_front_2_sic: "Befürworter der Einheitsfront"
+KR_kuomintang_stalwart: "Kuomintang-Verfechter"
 
 KR_state_capitalist: "Staatskapitalist"
+KR_pen_of_the_chairman_sic: "Feder des Vorsitzenden"
+KR_pen_of_the_chairman_2_sic: "Feder des Vorsitzenden"
+KR_pen_of_the_chairman_3_sic: "Feder des Vorsitzenden"
+KR_eyes_and_ears_of_the_chairman_sic: "Augen und Ohren des Vorsitzenden"
+
+KR_moderate_reorganisation_sic: "Moderate Reorganisation"
+KR_moderate_reorganisation_2_sic: "Moderate Reorganisation"
+KR_democracy_with_chinese_characterstics_sic: "Demokratie mit chinesischen Merkmalen"
+
+KR_anti_imperialist_crusader: "Anti-imperialistischer Kämpfer"
+
+KR_chinese_feminist: "Chinesischer Feminist"
+
+KR_iron_necked_liberal: "Der Liberale mit dem eisernen Kragen"
+KR_iron_necked_liberal_tt: "Die Auswirkungen dieser Eigenschaft werden mit dem Modifikator §Y$CHI_iron_necked_liberal_effect$§! in der Registerkarte Nationale Ideen dargestellt."
 
 KR_madame_wang: "Madame Wang"
 
-KR_chinese_feminist: "Chinesischer Feminist"
+KR_kuomintang_crown_prince: "Kronprinz der Kuomintang"
+KR_kuomintang_crown_prince_sic: "$KR_kuomintang_crown_prince$"
+
+KR_blueshirt_harbinger_sic: "Vorbote der Blauhemden"
+KR_blueshirt_harbinger_sic_tt: "Die Auswirkungen dieser Eigenschaft werden mit dem Modifikator §Y$CHI_blueshirt_harbinger_modifier$§! auf der Registerkarte Nationale Ideen dargestellt."
+
+KR_shadowy_laoban_lar: "Schattenlaoban"
+KR_shadowy_laoban: "Schattenlaoban"
+
+KR_shadowy_junta: "Schatten-Junta"
+KR_shadowy_junta_lar: "Schatten-Junta"
 
 ### ENG ###
 KR_the_minister_sic: "Der Minister"
@@ -504,6 +550,7 @@ KR_clan_council_sic: "Rat der Clans"
 
 ### Theorists ###
 KR_council_of_theorists: "Rat der Theoretiker"
+KR_mmic_2: "MMIC"
 KR_military_theorist: "Armee-Theoretiker"
 KR_armour_theorist: "Panzer Experte"
 KR_mobile_warfare_expert: "Mobile Kriegsführung Experte"

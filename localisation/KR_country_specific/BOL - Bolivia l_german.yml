@@ -78,6 +78,13 @@ BOL_moritz_hochschild: "Moritz Hochschild"
 BOL_hugo_ballivian: "Hugo Ballivian"
 BOL_amalia_villa_de_la_tapia: "Amalia Villa de la Tapia"
 BOL_ronan_monje_roca: "Ronan Monje Roca"
+BOL_david_toro: "David Toro"
+BOL_gabriel_gosalvez: "Gabriel Gosálvez"
+BOL_tomas_monje: "Tomás Monje"
+BOL_petronila_infantes: "Petronila Infantes"
+BOL_martin_cardenas_hermosa: "Martín Cárdenas Hermosa"
+BOL_arthur_posnansky: "Arthur Posnansky"
+BOL_maria_luisa_sanchez_bustamente: "María Luisa Sánchez Bustamante"
 
 BOL_palacio_quemado: "Palacio Quemado"
 
@@ -195,7 +202,7 @@ BOL_The_Times_They_Are_A_Changing_desc: "Bolivien hat noch einen langen Weg vor 
 
 BOL_Fresh_Blood: "Doktrinelle Innovation"
 BOL_Fresh_Blood_desc: "Die alte Doktrin hat nur zum Verlust des Chaco geführt, wir brauchen eine neue! Bolivien ist reich an natürlichen Ressourcen, die beim Bau von großen Waffen wie Artillerie benötigen werden, lasst uns diese nutzen."
-#BOL_Concentrated_Fire: "Konzentriertes Feuer" bereits als eine oben definierte Idee
+#BOL_Concentrated_Fire: "Concentrated Fire" already defined above as an idea
 BOL_Concentrated_Fire_desc: "Eine einzelne Artillerieeinheit, die den Feind bombardiert, hat keine große Wirkung auf ihn. Wenn wir hundert Artilleriegeschütze haben, die den Feind bombardieren, wird die Wirkung gewaltig sein."
 BOL_Foreign_Advice: "Ausländische Berater"
 BOL_Foreign_Advice_desc: "Wir müssen unser Militär schnell reformieren, bevor wir noch mehr Land verlieren. Wir haben keine andere Wahl, als ausländische Berater einzuladen, um die notwendigen Reformen effizient durchzuführen."
@@ -218,7 +225,7 @@ BOL_Cavalry_Chaco_desc: "Manche sagen, dass Kavallerie veraltet ist. Wir sagen, 
 BOL_Honoring_the_Fallen: "Aus unseren Fehlern lernen"
 BOL_Honoring_the_Fallen_desc: "Unsere glorreiche Nation begeht nie Fehler... nun, wir haben während des Chaco-Krieges einige Fehler gemacht... ziemlich viele Fehler sogar. Wir müssen aus unseren Fehlern lernen, damit wir sie nicht wiederholen."
 BOL_Never_Again: "Subordinación y Constancia"
-BOL_Never_Again_desc: "'Unterordnung und Beständigkeit' ist das Motto der bolivianischen Streitkräfte. Es verlangt von unseren Soldaten nicht nur Loyalität gegenüber ihren Befehlshabern und gegenüber Bolivien, sondern auch Demut im Angesicht des Sieges, Geduld in einer Pattsituation und Ausdauer in der Niederlage. Wir werden versuchen, diese Ideale mit verbessertem Drill und Training durchzusetzen, das uns die schlagkräftigste Armee Südamerikas verschaffen soll!"
+BOL_Never_Again_desc: "'Unterordnung und Beharrlichkeit' ist das Motto der bolivianischen Streitkräfte. Es verlangt von unseren Soldaten nicht nur Loyalität gegenüber ihren Befehlshabern und gegenüber Bolivien, sondern auch Demut im Angesicht des Sieges, Geduld in einer Pattsituation und Ausdauer in der Niederlage. Wir werden versuchen, diese Ideale mit verbessertem Drill und Training durchzusetzen, das uns die schlagkräftigste Armee Südamerikas verschaffen soll!"
 BOL_Legacy_of_the_Chaco: "Das Vermächtnis des Chaco Krieges"
 BOL_Legacy_of_the_Chaco_desc: "Der Chaco-Krieg war das größte Ereignis in unserer jüngeren Geschichte... nicht unser stolzester Moment, um es vorsichtig auszudrücken. Unsere Armee ist in völliger Unordnung und es fehlt uns an allem, was eine professionelle Armee braucht. Das müssen wir ändern!"
 BOL_Artillery_Innovation: "Artillerie-Innovationen"
@@ -392,8 +399,8 @@ BOL_social_conservative_party: "PUR"
 BOL_social_conservative_party_long: "Partido de la Union Republicana"
 BOL_authoritarian_democrat_party: "PNC"
 BOL_authoritarian_democrat_party_long: "Partido Nacional de Concordancia"
-BOL_paternal_autocrat_party: "Junta de Salvación Nacional"
-BOL_paternal_autocrat_party_long: "Junta de Salvación Nacional"
+BOL_paternal_autocrat_party: "Junta de Salvacion Nacional"
+BOL_paternal_autocrat_party_long: "Junta de Salvacion Nacional"
 BOL_national_populist_party: "PNB"
 BOL_national_populist_party_long: "Partido Nacional Boliviano"
 BOL_social_liberal_party: "PL"
@@ -411,6 +418,8 @@ BOL_totalist_party_long: "Movimento Revolucionario Totalista"
 BOL_country_intro_header: "Einführung zu Bolivien"
 BOL_country_intro_content: "Seit seiner Gründung hat Bolivien außenpolitisch nicht gut abgeschnitten und viele schmerzhafte Verluste erlitten. Ein Grenzkonflikt mit Chile führte zum "Salpeterkrieg" (1879 - 1883), den Bolivien trotz eines Bündnisses mit Peru verlor und an dessen Ende die Nation gezwungen war, die Küstenprovinz Antofagasta abzutreten und so ihren Zugang zum Meer zu verlieren. Später, im Jahr 1903, unterzeichneten Brasilien und Bolivien den Vertrag von Petrópolis, der die wichtige Kautschuk produzierende Provinz Acre an Brasilien abtrat - ein beschämendes Abkommen, das die Bolivianer bis heute verärgert.\n\nWährend Boliviens Bergbaureichtum im Laufe der Jahre zunahm, wuchs auch der Einfluss der Bergbauunternehmen in der Regierung und ihre Fähigkeit, die Politik zu beeinflussen. Dann kam es zum Chaco-Krieg, in dem Bolivien trotz des flüchtigen Ruhmes einiger Siege, die den Krieg verlängerten, gründlich besiegt wurde und Paraguay nur auf Bitten Brasiliens und Perus um Frieden bat, da beide einen vollständigen Zusammenbruch des bolivianischen Staates befürchteten. Die apokalyptische Niederlage gegen Paraguay war nicht nur ein vernichtender Schlag für den bolivianischen Nationalstolz, sondern auch ein schwerer Schlag für die bolivianische Demokratie und Wirtschaft, da ein Großteil der Bevölkerung nun glaubt, dass der Chaco-Krieg das Werk besagter Bergbaukonzerne war, die sich in öffentliche Angelegenheiten einmischten: Der Chaco östlich des Parapeti-Flusses, nördlich des Pilcomayo und östlich der Anden sollte in seiner Gesamtheit und auf Dauer an Paraguay abgetreten werden; sein Ölreichtum für immer in fremden Händen. \n\nDie korrupte Zivilregierung wurde schnell für die Demütigung verantwortlich gemacht, da viele Generäle und Offiziere öffentlich die Einmischung des Präsidenten Daniel Salamanca und seiner liberalen Verbündeten beklagten. Germán Busch und David Toro, zwei dekorierte Kriegshelden, putschten Anfang 1934 die Regierung und bildeten eine ''Regierung der nationalen Befreiung'' mit einer breiten Unterstützungsbasis, aber keiner definierten Ideologie außer der, die Bedürfnisse der Armee zu erfüllen, das vom Krieg hinterlassene fiskalische Chaos zu bereinigen und zu versuchen, die Situation der Armen in den Städten zu verbessern. Obwohl Germán umfangreiche Änderungen an der Verfassung vorgenommen hat, bleibt die Situation so verzweifelt wie eh und je und es wird nicht viel brauchen, damit die bolivianische Wirtschaft zusammenbricht, sollten die Zinnpreise noch weiter fallen. Trotz alledem blicken die Bolivianer immer noch nach außen, erinnern sich an die alten glorreichen Zeiten und warten gespannt auf den Tag, an dem Gerechtigkeit geschaffen wird und ihnen Chaco und eine Küste zurückgegeben werden!"
 bol.1.a: "En las buenas y en las malas, ¡Viva Bolivia!"
+
+BOL_guide: "§MBusch behält die Macht§! (§PPaternal Autokratisch§!)\n£white_dot In dem Ereignis, \"Das Schicksal Boliviens\", wählen Sie \"Es lebe El Presidente!\"\n£white_dot Wenn die Radikalen einen Putschversuch unternehmen, soll Busch die Kontrolle wieder übernehmen.\n\n§MDie Demokratie kehrt zurück - Syndikalismus auf dem Stimmzettel / MNR / PLP / PUR§! (§rSyndikalisten§! / §SSozialdemokraten§! / §mMarktliberale§! / §cSozialkonservative§!)\n£white_dot Wie oben, aber wählen Sie stattdessen \"Die Wahlen sollten für alle fair sein.\"\n£white_dot Ermächtigen Sie die gewünschte Partei bei der folgenden Wahl und bei allen folgenden Wahlen.\nAnmerkung: Wenn die Syndikalisten gewählt werden, wird es zu einem nationalistischen Putschversuch kommen; wählen Sie \"die Demokratie muss respektiert werden\", um zu verhindern, dass dies gelingt.\nAnmerkung: Die §cPUR§! hat keinen Kandidaten für die Wahlen 1948 und ist somit nicht wählbar.\n\n§MNationalistischer Putsch§! (§NNationalpopulisten§!)\n£white_dot Dasselbe wie bei Busch behält die Macht (siehe oben), aber wenn die Nationalisten einen Putschversuch unternehmen, soll er gelingen.\n£white_dot Oder, wenn die Demokratie zurückkehrt und die Syndikalisten gewählt werden, wenn die Nationalisten einen Staatsstreich inszenieren, dann lassen Sie diesen gelingen."
 
 ### Events ###
 bol.2.t: "Die Wahlen von [GetYear]"

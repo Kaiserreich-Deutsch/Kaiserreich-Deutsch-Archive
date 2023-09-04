@@ -298,11 +298,11 @@ MAF_TT_supply_germany: "Unsere Kolonie wird damit beginnen, Deutschland mit einh
 
 MAF_Mau_Mau_Revolt: "§H[Root.GetNameDef]§! erklärt den Krieg gegen §H$KEN_KIK$§!."
 
-MAF_Bush_War_start_tt: "§RDer Bush-Krieg wird beginnen.§!\n§H[Root.GetNameDef]§! erklärt Krieg gegen §H$POR_$§!."
+MAF_Bush_War_start_tt: "§RDer Bush-Krieg wird beginnen.§!\n§H[MAF.GetNameDef]§! erklärt Krieg gegen §H$POR_$§!."
 
 MAF_Bush_War_MAF_victory_requirement_tt: "§PMittelafrika§! §L wird gewinnen, wenn es mindestens drei der folgenden Staaten kontrolliert, von§! §CPortugal§!§L:§! §g[540.GetName], [544.GetName], [917.GetName]§! §Land§! §g[950.GetName].§!"
 
-MAF_Bush_War_POR_victory_requirement_tt: "§CPortugal§! §L wird gewinnen, wenn es mindestens drei der folgenden Staaten kontrolliert, von§! §PMittelafrika§!§L:§! §g[813.GetName], [871.GetName], [879.GetName]§! §Land§! §g[958.GetName].§!"
+MAF_Bush_War_POR_victory_requirement_tt: "§CPortugal§! §L wird gewinnen, wenn es mindestens drei der folgenden Staaten kontrolliert, von§! §PMittelafrika§!§L:§! §g[813.GetName], [871.GetName], [879.GetName]§! §Land§! §g[958.GetName]§!, §Loder wir sind§! §G40%§! §oder mehr in Richtung Kapitulation.§!"
 
 MAF_Bush_War_POR_advantage_tt: ""§Chat derzeit einen Vorteil."
 MAF_Bush_War_MAF_advantage_tt: "§PMittelafrika§! hat derzeit einen Vorteil."
@@ -1216,7 +1216,7 @@ mittel.187.a: "Wunderbar!"
 
 ## Kenyan Events ##
  mittel.400.t: "Die Kikuyu Zentralvereinigung"
- mittel.400.d: "Als wir 1925 in das britische Territorium einzogen, war die britische Herrschaft über das Gebiet nach sieben Jahren Krieg bedrohlich schwach. Im selben Jahr fielen britische Streiks mit einer Reihe von Protesten der Eingeborenen in Britisch-Ostafrika zusammen. Die fortgesetzte Enteignung des ertragreichsten Landes durch britische Siedler im zentralen Hochland hat die Kikuyu dazu veranlasst, sich zu organisieren, um mit der kenianischen Verwaltung kollektiv zu verhandeln. Angesichts der anhaltend harten Haltung des kenianischen Legislativrats sind ihre Bitten auf taube Ohren gestoßen, was die Organisation dazu veranlasst hat, andere Wege zu suchen, um ihre Ziele zu erreichen. Ihre Radikalisierung scheint rasch zugenommen zu haben, denn täglich kommt es zu Zusammenstößen zwischen ihnen und den englischen Sicherheitskräften. Die kenianische Verwaltung hat uns gebeten, uns darauf vorzubereiten, sie zu unterstützen, falls die Situation weiter eskaliert."
+ mittel.400.d: "Als wir 1925 in Britisch-Kenia einzogen, war die britische Kontrolle über das Gebiet nach fünf Jahren Krieg gefährlich schwach. Im selben Jahr fielen britische Streiks mit einer Reihe von Protesten der Eingeborenen in Britisch-Ostafrika zusammen. Die fortgesetzte Enteignung des ertragreichsten Landes durch britische Siedler im zentralen Hochland hat die Kikuyu dazu veranlasst, sich zu organisieren, um mit der kenianischen Verwaltung kollektiv zu verhandeln. Angesichts der anhaltend harten Haltung des kenianischen Legislativrats sind ihre Bitten auf taube Ohren gestoßen, was die Organisation dazu veranlasst hat, andere Wege zu suchen, um ihre Ziele zu erreichen. Ihre Radikalisierung scheint rasch zugenommen zu haben, denn täglich kommt es zu Zusammenstößen zwischen ihnen und den englischen Sicherheitskräften. Die kenianische Verwaltung hat uns gebeten, uns darauf vorzubereiten, sie zu unterstützen, falls die Situation weiter eskaliert."
  mittel.400.a: "Können sie das nicht selbst regeln?"
 
  mittel.401.t: "Die Siedlungspolitik im kenianischen Hochland"
@@ -1230,8 +1230,8 @@ mittel.187.a: "Wunderbar!"
  mittel.402.b: "Rückführung der deutschen Siedler."
  mittel.402.c: "Einsatz von Kikuyu-Arbeitskräften für Landgewinnungsprojekte."
 
- mittel.403.t: "Der Tod von Oberhäuptling Waruhiu"
- mittel.403.d: "In einer schockierenden Situation haben unbekannte Schützen heute Nachmittag am helllichten Tag Ober-Häuptling Waruhiu wa Kung'u angeschossen und getötet. Waruhiu war unser ranghöchster Mitarbeiter bei den Kikuyu. Unsere Sicherheitsbeamten haben die Zunahme religiöser, auf Schwüren basierender Gewalt unter den Kikuyu festgestellt. Angeblich führen sie im Schutz der Dunkelheit 'magische Rituale' durch und schwören, die weißen Siedler zu töten. Mit der Ermordung von Ober-Häuptling Waruhiu, der einen Leibwächter hatte und bei unserer Regierung in hohem Ansehen stand, haben sie gezeigt, dass es im kenianischen Hochland fast niemanden gibt, den sie nicht töten könnten."
+ mittel.403.t: "Der Tod von Josslyn Hay"
+ mittel.403.d: "In einer schockierenden Wendung der Ereignisse wurde Josslyn Hay, der 22. Earl of Erroll, heute Nachmittag am helllichten Tag erschossen. Hay war eine entschiedene pro-deutsche Stimme in der weißen kenianischen Elite, was darauf schließen lässt, dass dies ein gezielter Angriff auf unsere Regierung war.\n\nKenianische Behörden haben eine Zunahme religiöser, auf Schwüren basierender Gewalt unter den Kikuyu festgestellt. Angeblich führen sie im Schutz der Dunkelheit 'magische Rituale' durch und schwören, die weißen Siedler zu töten.\n\nUnseren eigenen Quellen zufolge hat sich Hay durch sein unkonventionelles Verhalten und seinen unorthodoxen politischen Ansatz mehr als nur ein paar Feinde in seinem Privatleben gemacht."
  mittel.403.a: "Verhängung des Ausnahmezustands in Kenia."
 
  mittel.404.t: "Landgewinnung abgeschlossen"
@@ -1245,10 +1245,6 @@ mittel.187.a: "Wunderbar!"
  mittel.406.t: "Die Mau-Mau sind besiegt"
  mittel.406.d: "Nach einem hart geführten Guerillakrieg gegen die Mau-Mau-Rebellion in Kenia ist es uns endlich gelungen, die meisten der rebellierenden Krieger niederzuschlagen und die meisten Anführer der Rebellion entweder zu verhaften, zu töten oder hinzurichten. Kenia sollte jetzt für eine Weile friedlich sein..."
  mittel.406.a: "Ein dreifaches Hoch auf Mittelafrika!"
-
- mittel.407.t: "Ein weiterer Mau-Mau-Aufstand!"
- mittel.407.d: "Das Volk der Kikuyu, das wir schon einmal besiegt haben, hat erneut revoltiert! Wir dachten, wir hätten die Probleme in Kenia bereits in den Griff bekommen... Wir müssen unsere Truppen erneut entsenden, sonst könnte es ihnen dieses Mal tatsächlich gelingen, mehr als nur ein Massaker anzurichten..."
- mittel.407.a: "Schickt die Armee!"
 
 ## Collapse Events ##
  mittel.20001.t: "Nigeria trennt sich von Mittelafrika"

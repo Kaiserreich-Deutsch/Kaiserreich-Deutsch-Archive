@@ -46,11 +46,12 @@ PAN_radical_socialist: "Sozialistische Republik Panama"
 PAN_radical_socialist_ADJ: "Panamaisch"
 PAN_radical_socialist_DEF: "die Sozialistische Republik Panama"
 
-###Events
-panama.1.t: "Status von Panamá"
-panama.1.d: "Nach Vorwürfen der Korruption und der Unfähigkeit der Regierung, die wirtschaftliche Depression zu bewältigen, erhob sich 1931 die Öffentlichkeit, angeführt von der Acción Comunal, einer nationalistischen Bewegung, und ernannte Harmodio Arias Madrid und seine aus der Acción Comunal hervorgegangene Nationale Revolutionäre Partei (NRP) zum Führer der provisorischen Regierung. Ein Jahr später wurden Wahlen abgehalten, aus denen die von Madrid geführte NRP leicht als Sieger hervorging. Die Madrider Regierung begann sofort, die Wirtschaft mit öffentlichen Arbeitsprogrammen anzukurbeln, um die wirtschaftlichen Bedingungen zu verbessern und Arbeitsplätze zu schaffen. Doch trotz der wirtschaftlichen Erholung hat die panamaische Wirtschaft immer noch zu kämpfen. Die nächsten Wahlen sind für April 1936 angesetzt, vier Jahre nach der ersten Wahl, und sowohl die Parteien als auch die Wähler haben die wirtschaftliche Erholung im Blick."
+### Intro Screen ###
+PAN_country_intro_header: "Status von Panamá"
+PAN_country_intro_content: "Nach Vorwürfen der Korruption und der Unfähigkeit der Regierung, die wirtschaftliche Depression zu bewältigen, erhob sich 1931 die Öffentlichkeit, angeführt von der Acción Comunal, einer nationalistischen Bewegung, und ernannte Harmodio Arias Madrid und seine aus der Acción Comunal hervorgegangene Nationale Revolutionäre Partei (NRP) zum Führer der provisorischen Regierung. Ein Jahr später wurden Wahlen abgehalten, aus denen die von Madrid geführte NRP leicht als Sieger hervorging. Die Madrider Regierung begann sofort, die Wirtschaft mit öffentlichen Arbeitsprogrammen anzukurbeln, um die wirtschaftlichen Bedingungen zu verbessern und Arbeitsplätze zu schaffen. Doch trotz der wirtschaftlichen Erholung hat die panamaische Wirtschaft immer noch zu kämpfen. Die nächsten Wahlen sind für April 1936 angesetzt, vier Jahre nach der ersten Wahl, und sowohl die Parteien als auch die Wähler haben die wirtschaftliche Erholung im Blick."
 panama.1.a: "Hoffen wir, dass die Erholung anhält."
 
+###Events
 panama.2.t: "Parlamentswahlen 1936"
 panama.2.d: "Angesichts des endlich erreichten wirtschaftlichen Aufschwungs sind die Wahlen von 1936 möglicherweise die wichtigsten Wahlen in der Geschichte Panamas. Die beiden größten Parteien sind die Nationale Liberale Partei unter der Führung von Ricardo Joaquín Alfaro Jované und die Nationale Revolutionäre Partei unter der Führung von Harmodio Arias Madrid."
 panama.2.a: "Nationale Revolutionäre Partei."

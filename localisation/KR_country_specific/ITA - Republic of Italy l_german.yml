@@ -133,6 +133,7 @@ NAME_THEME_HISTORICAL_SEI_SUBMARINES: "U-Boote der historischen 'SEI'-Klasse"
 NAME_THEME_POPES: "Päpste"
 ITA_generals_still_remain: "Hat noch Generäle\n"
  italy_generic_neighbor_state_is_core: "Jeder §YNachbarstaat§! ist unser §YKern§!"
+ ITA_replacing_naval_ideas: "Kombiniere §Y$ITA_republican_navy$§! und §Y$ITA_merchant_marine$§! zu §Y$ITA_rule_the_seas$§!\nEffektive Änderung:\nFlottenkoordinierung: §G+5%§!"
 
 ### Opinion Modifiers ###
 ITA_austrian_no_freindship: "Keine österreichische Freundschaft"

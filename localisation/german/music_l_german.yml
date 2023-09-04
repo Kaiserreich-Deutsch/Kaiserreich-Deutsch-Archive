@@ -1,23 +1,23 @@
 ﻿l_german:
  #Diese Datei wird benötigt, damit das Vanille-Hauptthema neben dem Kr-Theme funktioniert. Das Spiel scheint es nicht zu mögen, das Thema zu laden, es zu überschreiben und dann den gleichen Song unter einem neuen Namen zu laden. Dies führt zu einer fehlerhaften Lokalisierung des Songs. ### Übersetzt von Proho ###
- maintheme: "Valse "La separation""
+ maintheme: "The Banners Are Fluttering"
 
  # HOI4 Soundtrack
  main_vanilla: "Main Theme - Allies"
- axis_war_1: "Axis Theme"
+ # axis_war_1: "Axis Theme" - overridden
  allies_peace_1: "Morning of D-day"
  general_war_1: "Bring Forth the Tanks"
  axis_peace_1: "Krakow"
  general_war_2: "The Attack"
- comintern_war_1: "The Might of the Soviet Union"
- comintern_war_2: "Comintern Theme"
+ # comintern_war_1: "The Might of the Soviet Union" - overridden
+ # comintern_war_2: "Comintern Theme" - overridden
  axis_war_4: "Days of Thunder"
  general_peace_1: "Hearts of Men"
  allies_war_2: "The Royal Air Force"
  axis_war_2: "Heavy Water"
  comintern_war_3: "The Great Patriotic War"
  general_peace_3: "A Song For the Children of WW2"
- comintern_peace_2: "The Red Army"
+ # comintern_peace_2: "The Red Army" - overridden
  allies_war_1: "We Are Soldiers"
  comintern_peace_1: "Mother Russia"
  axis_peace_2: "Luftwaffe March - Reprise"

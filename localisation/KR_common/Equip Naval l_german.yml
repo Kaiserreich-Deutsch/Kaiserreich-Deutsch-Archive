@@ -39,14 +39,72 @@ TASK_FORCE_NAME_OTT: "$NUMMER$. Marinekommando"
 
 ### German Empire (GER) ###
 # Module
+# Das Deutsche Reich verwendete L/XX (Lauflänge) anstelle des nationalsozialistischen Deutschen C/XX (Einführungsjahr).
+ GER_ship_light_battery_1: "10.5 cm SK L/45"
+# 12.7 cm SK C/34
+ GER_ship_light_battery_2: "12.7 cm SK L/43"
+ GER_ship_light_battery_3: "Zwilling 12.7 cm SK L/43"
+# Kreuzer-Geschütz, aber auf einem Zerstörer montiert, nach dem Vorbild des Spahkreuzers
+ GER_ship_light_battery_4: "Zwilling 15 cm SK L/55"
+
+ GER_dp_light_battery_1: "Zwilling 10.5 cm SK L/65"
+# 12.8 cm FlaK 40
+ GER_dp_light_battery_2: "Zwilling 12.8 cm SK L/61"
+# fiktive Aufwertung der 12,8 cm FlaK 40 mit längerem Lauf
+ GER_dp_light_battery_3: "Zwilling 12.8 cm SK L/65"
+# fiktive Kreuzer-Geschütze, aber auf einem Zerstörer montiert, nach dem Vorbild der Spähkreuzer
+ GER_dp_light_battery_4: "Zwilling 15 cm SK L/45"
+
+ GER_ship_secondaries_1: "15 cm SK L/45"
+ GER_ship_secondaries_2: "15 cm SK L/55"
+# fiktiv
+ GER_ship_secondaries_3: "17 cm SK L/45"
+# ja, wir setzen CA-Waffen auf BB
+ GER_ship_secondaries_4: "20 cm SK L/60"
+
+ GER_ship_light_medium_battery_1: "15 cm SK L/45"
+ GER_ship_light_medium_battery_2: "15 cm SK L/55"
+ GER_ship_light_medium_battery_3: "17 cm SK L/45"
+ GER_ship_light_medium_battery_4: "20 cm SK L/60"
+
+# fiktiv, ähnlich der USN 6"/47
+ GER_dp_ship_medium_1: "Zwilling 15 cm L/45"
+
+# fiktive Herabstufung von 20,3 cm SK C/34
+ GER_ship_medium_battery_1: "Zwilling 20.3 cm SK L/50"
+# 20.3 cm SK C/34
+ GER_ship_medium_battery_2: "Zwilling 20.3 cm SK L/60"
+ GER_ship_medium_battery_3: "Dreifach 20.3 cm SK L/60"
+# fiktiver Ausbau der 21 cm SK L/45, eines Panzerkreuzer-Geschützes aus dem Ersten Weltkrieg
+ GER_ship_medium_battery_4: "Dreifach 21 cm SK L/55"
+
+ GER_ship_heavy_battery_1: "38 cm SK L/45"
+# fiktiv
+ GER_ship_heavy_battery_2: "42 cm SK L/45"
+# fiktiv
+ GER_ship_heavy_battery_3: "46 cm SK L/45"
+# fiktiv
+ GER_ship_heavy_battery_4: "46 cm SK L/50"
+
+# fiktiv
+ GER_ship_super_heavy_battery_1: "46 cm SK L/45"
+
+ GER_ship_torpedo_1: "Dreifach 533mm Torpedos"
+ GER_ship_torpedo_2: "Vierfach 533mm Torpedos"
+ GER_ship_torpedo_3: "Vierfach 533mm Torpedos"
+ GER_ship_torpedo_4: "Vierfach 610mm Torpedos"
+
  GER_ship_fire_control_system_1: "Typ 1935 (C. 35)"
+ 
  GER_ship_anti_air_1: "Vierfach 2cm Flakvierling"
  GER_ship_anti_air_2: "Zwilling 3,7cm AA (SK C/30)"
  GER_ship_anti_air_3: "Zwilling 8,8cm AA (SK C/32)"
  GER_ship_anti_air_4: "Zwilling 3,7cm Flak M43"
  GER_ship_anti_air_5: "Zwilling 10,5cm AA (SK C/33 na)"
+ 
  GER_ship_sub_snorkel_1: "Schwimmer-Ventil Schnorchel"
  GER_ship_sub_snorkel_2: "Verbesserte Schnorchel"
+ 
  GER_ship_sonar_1: "Atlas-Werke GHG"
  GER_ship_sonar_2: "S-Gerät"
  GER_ship_radar_1: "FuMO 22 Radar"
@@ -56,35 +114,48 @@ TASK_FORCE_NAME_OTT: "$NUMMER$. Marinekommando"
  
 ### Japan (JAP) ###
 # Module
- JAP_ship_light_battery_1: "120mm/45 Typ 3"
- JAP_ship_light_battery_2: "127mm/50 Typ 3"
- JAP_ship_light_battery_3: "Zwilling 127mm/50 Typ 3"
- JAP_ship_light_battery_4: "Zwilling 127mm/50 Typ 3 Kai"
- JAP_dp_light_battery: "Zwilling 100mm/65 Typ 98"
+ JAP_ship_light_battery_1: "12 cm/45 Typ 3"
+ JAP_ship_light_battery_2: "12.7 cm/50 Typ 3"
+ JAP_ship_light_battery_3: "Zwilling 12.7 cm/50 Typ 3"
+ JAP_ship_light_battery_4: "Zwilling 12.7 cm/50 Typ 3 Kai"
+
+ JAP_dp_light_battery_1: "12 cm/40 10. Jahr Typ"
+ JAP_dp_light_battery_2: "12.7 cm/40 Type 89"
+ JAP_dp_light_battery_3: "10 cm/65 Type 98"
+ JAP_dp_light_battery_4: "12.7 cm/40 Type 3, Model D turret"
+
  JAP_ship_light_medium_battery_1: "14cm/50 3. Jahr Typ"
- JAP_ship_light_medium_battery_2: "Zwilling 152mm Typ 41"
- JAP_ship_light_medium_battery_3: "Triple 155mm/60 3. Jahr Typ"
- JAP_ship_light_medium_battery_4: "Triple 155mm/60 3. Jahr Typ Kai"
+ JAP_ship_light_medium_battery_2: "15 cm/50 41. Jahr Typ"
+ JAP_ship_light_medium_battery_3: "15.5 cm/60 3. Jahr Typ"
+ JAP_ship_light_medium_battery_4: "15.5 cm/60 3. YJahr Typ Kai"
+
  JAP_ship_medium_battery_1: "20 cm/50 3. Jahr Typ Mk 1"  
  JAP_ship_medium_battery_2: "20 cm/50 3. Jahr Typ Mk 2"
- # Fake design, a overall improved version of the 20cm/50 3. Jahr Typ:
+ # Fake-Design, eine insgesamt verbesserte Version des 20cm/50 3. Jahr Typ:
  JAP_ship_medium_battery_3: "20 cm/50 Typ 98"
- # Design B-65's gun, but you can now put it on a cruiser:
+ # Design B-65's Geschütz, aber man kann es jetzt auf einen Kreuzer montieren:
  JAP_ship_medium_battery_4: "31 cm/50 Typ 0"
- # British gun, used on Japan's early Battlecruisers/Battleships:
- JAP_ship_heavy_battery_1: "Vickers 14 inch/45"
+ 
+ # Britisches Geschütz, verwendet auf Japans frühen Schlachtkreuzern/Schlachtschiffen:
+ JAP_ship_heavy_battery_1: "Vickers 14 Zoll/45"
  JAP_ship_heavy_battery_2: "41cm/45 3. Jahr Typ"
  JAP_ship_heavy_battery_3: "46cm/45 3. Jahr Typ"     
- # Really just the 46cm/45 Typ 94, but the Typ designation changed :
+ # Eigentlich nur der 46cm/45 Typ 94, aber die Typbezeichnung wurde geändert :
  JAP_ship_heavy_battery_4: "46cm/45 Typ 2"
- JAP_ship_secondaries_1: "15cm/50 41. Jahrgang Typ"
+ 
+ JAP_ship_secondaries_1: "15cm/50 41. Jahr Typ"
  JAP_ship_secondaries_2: "14cm/45 3. Jahr Typ"
- JAP_dp_ship_secondaries: "Zwilling 100mm/65 Typ 98"
- # Yamato gun but it's invented a decade earlier:
+
+ JAP_dp_ship_secondaries_1: "12 cm/40 10. Jahr Typ"
+ JAP_dp_ship_secondaries_2: "12.7 cm/40 Typ 89"
+ JAP_dp_ship_secondaries_3: "10 cm/65 Typ 98"
+ JAP_dp_ship_secondaries_4: "12.7 cm/40 Typ 3, Model D turret"
+
+ # Yamato-Geschütz, aber es wurde ein Jahrzehnt früher erfunden:
  JAP_ship_super_heavy_battery_1: "46cm/45 Typ 94"
 
  JAP_ship_torpedo_1: "Zwilling 533mm Torpedo Rohre"
- JAP_ship_torpedo_2: "Triple 610mm Torpedo Rohre"
+ JAP_ship_torpedo_2: "Dreifach 610mm Torpedo Rohre"
  JAP_ship_torpedo_3: "Vierfach 610mm Torpedo Rohre"
  JAP_ship_torpedo_4: "Quintuple 610mm Torpedo Rohre"
  

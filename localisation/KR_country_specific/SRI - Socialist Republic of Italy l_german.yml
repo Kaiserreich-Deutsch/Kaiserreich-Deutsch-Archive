@@ -436,8 +436,8 @@
  SRI_expand_shipbuilding_1_desc: "Unsere erste Etappe beim Ausbau unserer Schiffbauanlagen sollte die Werft in Genua sein."
  SRI_merchant_marine: "Ausbau der Transportflotte"
  SRI_merchant_marine_desc: "Da unsere Zerstörerflotte nun bereit ist, erweitert zu werden, können wir das Gleiche mit unserer Transportflotte tun, indem wir Schiffe aus der gesamten Handelsmarine hinzuziehen."
- SRI_expand_shipbuilding_2: "Ausbau der La Spezia-Werften"
- SRI_expand_shipbuilding_2_desc: "Unsere erste Station für den Ausbau unserer Schiffbauanlagen sollte die Werft in La Spezia sein, die nach den genuesischen Docks die zweitbeste Qualität aufweist."
+ SRI_expand_red_admiralty: "Die Rote Admiralität ausbauen"
+ SRI_expand_red_admiralty_desc: "Bei der weiteren Modernisierung unserer Seestreitkräfte müssen wir ständig nach Möglichkeiten suchen, unsere Taktik zu erneuern und die Seeleute zu fördern. Außerdem sollten wir unsere Schiffbauanlagen in La Spezia ausbauen, deren Werften nach den genuesischen Docks die zweitbeste Qualität aufweisen."
  SRI_battle_ships: "Dreadnoughts favorisieren"
  SRI_battle_ships_desc: "Wir sollten Dreadnoughts als das zentrale Herzstück der Marine favorisieren."
  SRI_battle_cruisers: "Schlachtkreuzer"
@@ -483,7 +483,7 @@
  SRI_air_training_school: "Flugschulen"
  SRI_air_training_school_desc: "Bevor wir mit der Aufrüstung unserer Flugzeuge beginnen, müssen wir unsere Ausbildungsmethoden verbessern. Wir brauchen die besten Piloten, wenn wir experimentelle Flugzeuge testen wollen."
 
-### Events ###
+### Intro Screen ###
  SRI_country_intro_header: "Die Sozialistische Republik Italien"
  SRI_country_intro_content: "1919 unterzeichneten die Italiener einen Waffenstillstand mit den Österreichern und beendeten damit den Krieg für das Königreich Italien. Doch die tapferen Sozialisten und Nationalisten in Italien erhoben sich gegen die zerstörerischen Savoyarden und waren entschlossen, ihr System durch etwas Besseres zu ersetzen. Selbst die Abdankung von König Viktor Emanuel und seinem Sohn reichte nicht aus, um den Willen des Volkes aufzuhalten, und in ganz Italien brach ein Bürgerkrieg aus. Doch selbst als wir die Royalisten aus Norditalien vertrieben, gab es Verräter in unseren eigenen Reihen. Die "Weißen" im republikanischen Aufstand, die die Unausweichlichkeit der Revolution nicht akzeptieren wollten, brachen mit unserer Bewegung und verkauften sich bald vollständig an die Österreicher. Da sich unsere Feinde gegen uns verbündeten, wurden unsere Vorstöße am Po und an der Abruzzenlinie aufgehalten, und der Krieg war zu Ende.\n\nSeit dem Waffenstillstand von 1920 sind drei Kongresse gekommen und gegangen, und der revolutionäre Eifer hat sich in jeden Winkel Norditaliens ausgebreitet. Es wurde viel getan, um die italienische Bauernschaft aus ihren früheren Verhältnissen zu erheben, aber es bleibt noch viel zu tun."
  socitaly.1.a: "Vorwärts!"
@@ -492,6 +492,9 @@
  SRI_country_intro_content_1: "Italienische Nationalisten haben bereits den Ruf nach einem zweiten Risorgimento laut werden lassen, um Italien wieder zu vereinen. Die Ausbreitung der Revolution wird jedoch keine einfache Angelegenheit sein. Die Halbinsel befindet sich in einem unruhigen Gleichgewicht: Deutschland und Österreich sind misstrauisch gegenüber jeder formellen Allianz zwischen der SRI und der Dritten Internationale. Sie wissen, dass ein Bündnis unvermeidlich ist, aber jeder Versuch unsererseits, die Franzosen und Briten in einen Krieg zu verwickeln, um Italien wieder unter syndikalistischer Herrschaft zu vereinen, würde eine Intervention nach sich ziehen und einen neuen Weltkrieg auslösen. Die Republik Italien im Osten steht unter dem Schutz Österreichs, aber unter einem ähnlichen Verbot, einen Krieg gegen uns zu beginnen. Solange die Aussicht auf eine deutsche und österreichische Einmischung besteht, müssen wir uns darüber im Klaren sein, dass ein Krieg, um Italien zu vereinen, nur mit begrenzter Unterstützung der Dritten Internationale geführt werden kann. Wir haben noch nichts unternommen, aber wir können nicht mehr lange untätig bleiben - Italien muss wiedervereinigt werden!"
  socitaly.200.a: "Viva l'Italia!"
 
+ SRI_guide: "§MSozialistische Partei Italiens / Syndikalistische Union / Nationalistische Union§! (§Radikal sozialistisch§! / §rSyndikalistisch§! / §oTotalistisch§!)\n£white_dot Im 4. Kongress muss eine Fraktion die Mehrheit erlangen, indem sie 2 Mal oder öfter unterstützt wird.\n\n§MKeine Mehrheit bei Wahlen§! (§RRadikal Sozialistisch§! / §rSyndikalistisch§! / §oTotalistisch§!)\n£white_dot Im 4. Kongress darfst du keine Fraktion mehr als einmal unterstützen.\n£white_dot Die Französische Kommune kann eine der drei Parteien für die Bildung der neuen Regierung vorschlagen.\n£white_dot Wenn der Vorschlag der Kommune nicht angenommen wird, wird ein Kompromiss gefunden und die §rUnione Sindacalista§! wird die neue Regierung bilden.\nAnmerkung: Die französische Kommune kann keine Partei vorschlagen, wenn sie bei ihren eigenen Wahlen keine Mehrheit erlangt hat."
+
+### Events ###
 ### Fourth Congress ###
  socitaly.2.t: "Vierter Kongress der Sozialistischen Republik Italien"
  socitaly.2.d: "Heute beginnt der Vierte Kongress der Sozialistischen Republik Italien. Die verschiedenen Fraktionen des Kongresses werden über die Wirtschafts-, Innen- und Militärpolitik diskutieren. Die Unione Sindacalista versucht, den orthodoxen Syndikalismus voranzutreiben und die derzeitige Politik des Kongresses voranzutreiben, während der Partito Socialista Italiano eine Regierung anstrebt, die einen gemäßigteren Ansatz zur Einführung des Sozialismus im Land unterstützt. Benito Mussolinis neue Fraktion, die Unione Nazionalista, vertritt derweil die neue Ideologie des Garibaldismo, die für absolute Staatsgewalt und eine aggressive militärische Expansion plädiert. Die Zukunft der Republik steht auf dem Spiel."

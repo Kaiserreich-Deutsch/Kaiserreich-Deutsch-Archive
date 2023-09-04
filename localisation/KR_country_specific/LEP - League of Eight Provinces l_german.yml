@@ -151,6 +151,9 @@ LEP_collapse_threat: "Zusammenbruch der Liga der Acht Provinzen"
 LEP_Conspicuous_Kleptocracy: "Auffällige Kleptokratie"
 LEP_Conspicuous_Kleptocracy_desc: "Ende des letzten Jahrzehnts öffnete Sun Chuanfang weite Teile Ost- und Südchinas für die exklusive wirtschaftliche Ausbeutung durch Deutschland. Soldaten und Beamte auf fast allen Ebenen, von denen viele bereits zur Korruption neigten, sind in alles verwickelt, vom Waffenschmuggel bis zum Handel mit gestohlenen Antiquitäten. Dies wirft ein schlechtes Licht auf die Liga als Ganzes."
 
+LEP_Conspicuous_Kleptocracy_2: "Verschwörerische Kleptokratie"
+LEP_Conspicuous_Kleptocracy_2_desc: "$LEP_Conspicuous_Kleptocracy_desc$"
+
 LEP_Provincial_Armies: "Provinziale Armeen"
 LEP_Provincial_Armies_desc: "Die Liga ist groß, aber ihre große Armee ist in Wirklichkeit eine Ansammlung von halbautonomen Provinzstreitkräften, die durch die persönliche Loyalität ihrer Anführer zu Marschall Sun vereint sind. Dies erleichtert die Rekrutierung, bringt jedoch erhebliche logistische und organisatorische Probleme mit sich."
 
@@ -1062,7 +1065,7 @@ lepcollapse.7.d: "Explosionen haben mehrere Bahnhöfe und Bahnstrecken erschütt
 lepcollapse.7.a: "Terrorismus!"
 
 lepcollapse.8.t: "Berichte aus Nord und Süd"
-lepcollapse.8.d: "Beunruhigende Berichte haben Nanjing sowohl aus Xuzhou als auch aus Quanzhou erreicht.\n\nIn der aufständischen Zone von Jiangfu haben KMT-Guerillas eine Reihe von immer kühneren Überfällen durchgeführt, die in der Nähe der Städte Yongding und Longyan im Landesinneren stattfanden. Gouverneur Zhou Yinren hat lange darum gekämpft, die Kontrolle über seine gebirgige Provinz zu behalten, die oft auf die Küste und die größeren Städte im Landesinneren beschränkt war, und jetzt wird sein Griff immer unsicherer.\n\nIn Jiangsu berichtet Gouverneur Zheng Junyan von einer zunehmenden Agitation der Yiguandao-Anhänger, die sich von Shandong aus über die Grenze ausbreiten. Diese religiösen Fanatiker sind für den Gouverneur schon seit langem ein Grund zur Frustration, aber ihre Beteiligung könnte die zunehmenden Unruhen noch verstärken."
+lepcollapse.8.d: "Beunruhigende Berichte haben Nanjing sowohl aus Xuzhou als auch aus Quanzhou erreicht.\n\nIn der aufständischen Zone von MinGan haben KMT-Guerillas eine Reihe von immer kühneren Überfällen durchgeführt, die in der Nähe der Städte Yongding und Longyan im Landesinneren stattfanden. Gouverneur Zhou Yinren hat lange darum gekämpft, die Kontrolle über seine gebirgige Provinz zu behalten, die oft auf die Küste und die größeren Städte im Landesinneren beschränkt war, und jetzt wird sein Griff immer unsicherer.\n\nIn Jiangsu berichtet Gouverneur Zheng Junyan von einer zunehmenden Agitation der Yiguandao-Anhänger, die sich von Shandong aus über die Grenze ausbreiten. Diese religiösen Fanatiker sind für den Gouverneur schon seit langem ein Grund zur Frustration, aber ihre Beteiligung könnte die zunehmenden Unruhen noch verstärken."
 lepcollapse.8.a: "Vorübergehende Rückschläge..."
 
 lepcollapse.9.t: "Ein Telegramm aus Beijing"
@@ -1118,7 +1121,7 @@ lepcollapse.17.b: "China ist endlich geteilt."
 lepcollapse.17.c: "Das Ende einer Ära."
 
 lepcollapse.18.t: "Aufstände in Fujian!"
-lepcollapse.18.d: "Die Kuomintang-Rebellen, die bereits in der gesamten Liga einen Aufstand angezettelt haben, haben in der Provinz Fujian einen allgemeinen Aufstand begonnen und sind aus den Bergen aufgestiegen, um eine Reihe von Dörfern im Inneren der Provinz einzunehmen. Die aufständische Zone von Jiangfu war bereits als Gefahr bekannt, aber angesichts des Chaos, das die Liga jetzt erfasst, besteht die Möglichkeit, dass sie sich einen Weg zur Küste bahnen und damit den Weg für die Hilfe ihrer syndikalistischen Verbündeten freimachen.\n\nZurzeit ist bekannt, dass Gouverneur Zhou Yinren mehrere Divisionen in und um Quanzhou hat, aber das wird wahrscheinlich nicht ausreichen, um die Flut aufzuhalten. Außerdem haben sich entlang der Grenze zur Shanghai-Konzession Kuomintang-treue Truppen erhoben, die das Herz unserer Macht bedrohen."
+lepcollapse.18.d: "Die Kuomintang-Rebellen, die bereits in der gesamten Liga einen Aufstand angezettelt haben, haben in der Provinz Fujian einen allgemeinen Aufstand begonnen und sind aus den Bergen aufgestiegen, um eine Reihe von Dörfern im Inneren der Provinz einzunehmen. Die aufständische Zone von MinGan war bereits als Gefahr bekannt, aber angesichts des Chaos, das die Liga jetzt erfasst, besteht die Möglichkeit, dass sie sich einen Weg zur Küste bahnen und damit den Weg für die Hilfe ihrer syndikalistischen Verbündeten freimachen.\n\nZurzeit ist bekannt, dass Gouverneur Zhou Yinren mehrere Divisionen in und um Quanzhou hat, aber das wird wahrscheinlich nicht ausreichen, um die Flut aufzuhalten. Außerdem haben sich entlang der Grenze zur Shanghai-Konzession Kuomintang-treue Truppen erhoben, die das Herz unserer Macht bedrohen."
 lepcollapse.18.a: "Syndikalistischer Abschaum!"
 lepcollapse.18.b: "(Spielt als die Kuomintang)"
 

@@ -127,6 +127,8 @@ ship_hull_carrier_desc: "Ein großes Schiff, das in der Lage ist, Geschwader von
  ship_hull_submarine_2: "Verbesserter U-Boot-Rumpf"
  ship_hull_submarine_3: "Fortgeschrittener U-Boot-Rumpf"
  ship_hull_submarine_4: "Moderner U-Boot-Rumpf"
+# Verwende den folgenden custom_effect_tooltip, wenn du die Kreuzer-U-Boot-Technologie hinzufügst. Das Spiel ist so programmiert, dass Kreuzer-U-Boote als Verbesserte U-Boot-Rümpfe aufgeführt werden
+ unlock_cruiser_submarine_tech: "Technologie hinzufügen: §YKreuzer-U-Boot§!."
  
  ship_hull_pre_dreadnought: "Vor-Dreadnought-Rumpf"
  ship_hull_pre_dreadnought_desc: "Nach dem Vorbild der britischen Majestic-Klasse aus den späten 1890er Jahren lösten die Vor-Dreadnought-Schlachtschiffe die Panzerschiffe der 1870er und 1880er Jahre ab. Die aus Stahl gebauten und durch eine Panzerung aus gehärtetem Stahl geschützten Vor-Dreadnought-Schlachtschiffe verfügen über eine Hauptbatterie mit sehr schweren Kanonen in Barbetten, die von einer oder mehreren Sekundärbatterien mit leichteren Waffen unterstützt werden.\n\nDa die Dreadnought-Konstruktion sie schon vor dem Zweiten Weltkrieg überflüssig gemacht hat und in den letzten drei Jahrzehnten die Zahl der auf Dreadnought-Konstruktionen basierenden Schiffe enorm gestiegen ist, sind nur noch wenige von ihnen im Einsatz."

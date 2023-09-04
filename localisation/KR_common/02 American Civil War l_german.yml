@@ -100,7 +100,7 @@ ACW_federal_deadline_looms_desc: "Die Forderung des Präsidenten war klar: Die R
 ACW_move_quickly: "Wir müssen uns schnell bewegen"
 ACW_move_quickly_desc: "Die Föderale Regierung kontrolliert viel mehr Territorium als wir, und unsere Mission scheint - für einige - von Anfang an untergegangen zu sein. Und doch kämpfen wir weiter. Wir müssen bald Fortschritte machen und in das Herz des Bundesgebiets eindringen, sobald wir uns trauen, damit wir nicht in einem Krieg gefangen sind, auf den wir nicht hoffen können, ihn zu gewinnen."
 
-ACW_rocky_mountain_ceasefire_decisions: "Der [ACW_ceasefire_name] Waffenstillstand"
+ACW_rocky_mountain_ceasefire_decisions: "Der [ACW_ceasefire_name]"
 ACW_break_ceasefire: "Brecht den Waffenstillstand"
 ACW_break_ceasefire_desc: "Wir haben lange genug gewartet. Die Zeit ist gekommen um [From.GetNameDef] anzugreifen und den Bürgerkrieg ein für alle Mal beenden."
 ACW_ceasefire_six_months: "Der Waffenstillstand wurde vor mindestens sechs Monaten vereinbart"
@@ -133,8 +133,8 @@ ACW_recruit_in_state: "Rekrutiere [From.GetACWDivisionCount] Militia in [From.Ge
 ACW_gets_event_uprising: "Erhält Event '§HResistance Uprising in [?revolt_state_var.GetName]§!'."
 
 ### ACW Mobilization Decisions ###
-ACW_mobilization_decisions: "Mobilisierung im Amerikanischen Bürgerkrieg"
-ACW_mobilization_decisions_desc: "Der Tag, den viele befürchtet haben, ist nun gekommen. Zum zweiten Mal innerhalb von 75 Jahren hat sich der Bruder gegen den Bruder gewendet. Wenn wir eine Chance haben wollen, müssen wir die Bevölkerung und unsere industrielle Macht zusammenbringen, um diejenigen zu besiegen, die uns ihr Ideal von Amerika aufzwingen wollen!"
+ACW_mobilisation_decisions: "Mobilisierung im Amerikanischen Bürgerkrieg"
+ACW_mobilisation_decisions_desc: "Der Tag, den viele befürchtet haben, ist nun gekommen. Zum zweiten Mal innerhalb von 75 Jahren hat sich der Bruder gegen den Bruder gewendet. Wenn wir eine Chance haben wollen, müssen wir die Bevölkerung und unsere industrielle Macht zusammenbringen, um diejenigen zu besiegen, die uns ihr Ideal von Amerika aufzwingen wollen!"
 ACW_mobilize_economy: "Mobilisiert die Wirtschaft"
 ACW_raise_conscription: "Verschärfung der Wehrpflicht"
 ACW_convert_heartland_factories: "Verwendet £GFX_half_factory §Y[FROM.GetName]§! zur militärischen Produktion"

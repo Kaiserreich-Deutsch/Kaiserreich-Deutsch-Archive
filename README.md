@@ -1,4 +1,4 @@
-## Kaiserreich Beta 0.25.4
+## Kaiserreich Beta 0.26
 
 Vielen Dank für den Download der Deutschen Übersetzung von Kaiserreich für Hearts of Iron 4!<br>
 Diese Version wurde für Hearts of Iron IV Version 1.12.14 entwickelt.<br>
@@ -9,7 +9,7 @@ Es sollte mit allen neueren Hotfixes kompatibel sein, obwohl dies nicht garantie
     <li>Lade die Mod herunter</li>
     <li>Lösche alle vorherigen manuell installiert Versionen von Kaiserreich Deutsch</li>
     <li>Entpacke die .zip-Datei nach 'Documents\Paradox Interactive\Hearts of Iron IV\mod'</li>
-    <li>Verschiebe die Datei Kaiserreich-Deutsch-0.25.4.mod aus dem Ordner 'Hearts of Iron IV\mod\Kaiserreich-4-Deutsch-0.25.4' in den Ordner 'Hearts of Iron IV\mod'</li>
+    <li>Verschiebe die Datei Kaiserreich-Deutsch-0.26.mod aus dem Ordner 'Hearts of Iron IV\mod\Kaiserreich-4-Deutsch-0.26' in den Ordner 'Hearts of Iron IV\mod'</li>
     <li>Aktiviere den Mod im Launcher-Mod-Menü und viel Spaß!</li>
 </ol>
 

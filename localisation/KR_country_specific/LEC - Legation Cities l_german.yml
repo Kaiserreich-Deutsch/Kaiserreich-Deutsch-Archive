@@ -113,8 +113,8 @@ LEC_kaiserliche_sailing: "Deutsch-Schanghai Marineplanung"
 LEC_german_shanghai2: "Shanghai unter den Deutschen"
 
 ### Parties ###
-LEC_totalist_party: "ZhongTeJu"
-LEC_totalist_party_long: "Büro für Nachrichtendienst und Sondermethoden (Zhongteju)\n§gDai Lis ideologische Enklave in Shanghai dominiert die nachrichtendienstlichen Operationen der Kuomintang und bildet eine informelle Strömung innerhalb der Partei. Wo immer Sabotage und syndikalistische Unruhen auftauchen, sind die Agenten von Zhongteju sicher nicht weit entfernt."
+LEC_totalist_party: "BIS"
+LEC_totalist_party_long: "Ermittlungen und Statistik (BIS)\n§gDai Lis ideologische Enklave in Shanghai dominiert die nachrichtendienstlichen Operationen der Kuomintang und bildet eine informelle Strömung innerhalb der Partei. Wo immer Sabotage und syndikalistische Unruhen stattfinden, sind BIS- oder Juntong-Agenten sicher nicht weit entfernt."
 LEC_syndicalist_party: "CSP"
 LEC_syndicalist_party_long: "Chinesische Syndikalistische Partei\n§gAls kleine und im Großen und Ganzen irrelevante Partei ist sie zwar in der Lage, eine kleine Präsenz in Shanghai und den anderen Mandatsstädten aufrechtzuerhalten, hinterlässt aber nur einen kleinen Fußabdruck.§!"
 LEC_radical_socialist_party: "KMT-RCA"
@@ -627,7 +627,6 @@ LEC_remove_germany_motion: "Entfernung des Deutschen Reiches aus dem Gesandtscha
 LEC_restore_america_motion: "Wiederherstellung des amerikanischen Wahlrechts im Gesandtschaftsrat"
 LEC_belgium_vote: "Entfernen von [BEL.GetNameDef] aus dem Gesandtschaftsrat"
 
-
 ### Intro Screen ###
  LEC_country_intro_header: "$lec.1.t$"
  LEC_country_intro_content: "$lec.1.d$"
@@ -952,7 +951,7 @@ lec.69.d: "[FROM.GetNameDefCap] has occupied Tianjin, unwilling to let such a ma
 lec.69.a: "Schrecklich!"
 
 lec.70.t: "Die Besetzung von Hongkong"
- lec.70.d.AST: "Australasien, der frühere Beschützer Hongkongs, hat sich entschlossen, seine Beziehungen zur Entente abzubrechen, was die Stadt verwundbar macht und uns die Möglichkeit gibt, das Unrecht von vor hundert Jahren wiedergutzumachen. Sollten wir endlich die britische Präsenz in China beenden?"
+ lec.70.d.AST: "In den maroden Tagen ihres Reiches versuchten die britischen Behörden verzweifelt, die kaiserliche Kontrolle über den wertvollen Hafen von Hongkong aufrechtzuerhalten, indem sie die Gesandtschaftsstädte gründeten. Im Gegensatz dazu hatte sich die Australasiatische Regierung im Namen der Entente die Kontrolle über die Stadt von den Legationen gesichert.\n\nDiese Vereinbarung scheint ebenso brüchig zu sein wie die vorherige, da Australasien, das früher die Interessen der Entente im Osten schützte, sich entschlossen hat, seine Verbindungen zur Allianz zu kappen, was die Stadt verwundbar macht und uns die Gelegenheit gibt, das Unrecht von vor hundert Jahren wieder gut zu machen. Sollten wir endlich die Britische Präsenz in China beenden?"
  lec.70.d.LEC: "Der Gesandtschaftsrat ist bankrott gegangen, das Ende des Internationalen Mandats ist besiegelt. Während Schanghai in Straßenkämpfen und Chaos versinkt, sind die entlegenen Städte des Mandats ungeschützt. In Hongkong haben die Briten und die Vermillion Gesellschaft zusammengearbeitet, um die Stabilität auf den Straßen zu gewährleisten, und beide Seiten streben nach einer Angliederung an Großbritannien bzw. an unsere Nation. Die Briten sind jedoch noch nicht da, und wir haben die Möglichkeit, einzumarschieren. Sollten wir Hongkong für China zurückfordern?"
 lec.70.a: "Es ist verletzlich, nehmen Sie es!"
 lec.70.b: "Wir können die Ressourcen im Moment nicht entbehren."
@@ -1390,7 +1389,7 @@ lecgreengangclash.9.a: "Faszinierend..."
 
 lecgreengangclash.10.t: "Dokumente gefunden!"
 lecgreengangclash.10.d: "Die Hongkonger Polizei hat heute bei einer Razzia in einer Bar, die als Fassade für die Interessen der Grünen Bande in Hongkong diente, zahlreiche Dokumente sichergestellt. Aufgrund eines ähhh... bürokratischen Durcheinanders, das dadurch verursacht wurde, dass die Steuerzahlungen von einigen verschiedenen Personen bearbeitet werden mussten, konnte jedoch nur eine Information aufbewahrt werden..."
-lecgreengangclash.10.a: "Die Namen einiger ZhongTeJu-Agenten."
+lecgreengangclash.10.a: "Die Namen einiger Juntong-Agenten."
 lecgreengangclash.10.b: "Einige interessante Notizen über Herrn Du Yuesheng."
 
 lecgreengangclash.11.t: "Die Untersuchung stürzt ein!"
@@ -2152,7 +2151,7 @@ lechotung.7.d: "Großartige Neuigkeiten! Es scheint, als hätten unsere Verbünd
 lechotung.7.a: "Hurra!"
 
 lechotung.8.t: "Eine Sackgasse"
-lechotung.8.d: "Es scheint, dass die China Agentur nicht so einfallsreich war, wie wir erwartet hatten. Während einer Operation in Shanghai konnten KMT-ZhongTeJu-Agenten mit wichtigen Dokumenten entkommen und zerstörten, was zurückgelassen wurde. Während dies der Vermillion Gesellschaft und der Kuomintang Auftrieb gibt, schadet es zumindest den Japanern, deren Köpfe in Tokio zu rollen beginnen."
+lechotung.8.d: "Es scheint, dass die China Agentur nicht so einfallsreich war, wie wir erwartet hatten. Während einer Operation in Shanghai konnten KMT-Juntong-Agenten mit wichtigen Dokumenten entkommen und zerstörten, was zurückgelassen wurde. Während dies der Vermillion Gesellschaft und der Kuomintang Auftrieb gibt, schadet es zumindest den Japanern, deren Köpfe in Tokio zu rollen beginnen."
 lechotung.8.a: "Verflixt!"
 
 lechotung.9.t: "In die Drachenhöhle"

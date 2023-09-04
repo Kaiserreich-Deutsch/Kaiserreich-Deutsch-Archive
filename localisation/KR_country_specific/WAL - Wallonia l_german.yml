@@ -298,7 +298,7 @@ wallonia.712.a: "Eine neue Ära steht bevor!"
 
 #Downfall of Degrelle
 wallonia.713.t: "Degrelle Erschossen!"
-wallonia.713.d: "Während eines Besuchs in der FN Herstal Fabrik wurde Léon Degrelle von einem Fabrikarbeiter erschossen. Obwohl seine Leibwächter sofort das Feuer erwiderten und den Angreifer töteten, wurde Degrelle in das nächstgelegene Krankenhaus gebracht, doch die medizinische Versorgung kam zu spät und gegen 16:00 Uhr starb unser großer Führer. Aufgrund seiner Machtkonsolidierung in den letzten Jahren scheint es keinen klaren Nachfolger für sein Erbe zu geben und während die Führer von REX sich gegenseitig bekämpfen, wittern die anderen Parteien eine Chance, ihre verlorene Popularität wiederzuerlangen. Ob REX in der Lage sein wird, nach dem Verlust ihres charismatischen Führers die Macht zu behalten, bleibt abzuwarten, aber dunkle Wolken brauen sich definitiv über Wallonien zusammen."
+wallonia.713.d: "Während eines Besuchs in der Fabrik von FN Herstal wurde Léon Degrelle von einem Fabrikarbeiter erschossen. Obwohl seine Leibwächter sofort das Feuer erwiderten und den Angreifer töteten, wurde Degrelle in das nächstgelegene Krankenhaus gebracht, doch die medizinische Versorgung kam zu spät und gegen 16:00 Uhr starb unser großer Führer. Aufgrund seiner Machtkonsolidierung in den letzten Jahren scheint es keinen klaren Nachfolger für sein Erbe zu geben und während die Führer von REX sich gegenseitig bekämpfen, wittern die anderen Parteien eine Chance, ihre verlorene Popularität wiederzuerlangen. Ob REX in der Lage sein wird, nach dem Verlust ihres charismatischen Führers die Macht zu behalten, bleibt abzuwarten, aber dunkle Wolken brauen sich definitiv über Wallonien zusammen."
 wallonia.713.a: "Kein Zweifel, REX wird sich jetzt zerfleischen."
 
 wallonia.714.t: "Machtkämpfe innerhalb von REX"
@@ -508,8 +508,8 @@ WAL_Form_A_Government_desc: "Die erste Verhandlungsrunde hat sich als erfolgreic
 
 WAL_Syndicalist_Revolution: "Syndikalistische Revolution"
 WAL_Syndicalist_Revolution_desc: "Die syndikalistische Revolution ist da und fegt durch die Industriezentren des Industriefurche. Eine ruhige Hand wird notwendig sein, um Blutvergießen und Gewalt zu vermeiden."
-WAL_Peacefull_Transition: "Friedlicher Übergang"
-WAL_Peacefull_Transition_desc: "Der einzige Weg, das Herz der Arbeiterklasse wirklich zu erobern, sind faire und demokratische Wahlen. Durch eine solide parlamentarische Machtbasis werden wir beginnen, Wallonien nach unserem sozialistischen Ideal zu reformieren und zu formen."
+WAL_Peaceful_Transition: "Friedlicher Übergang"
+WAL_Peaceful_Transition_desc: "Der einzige Weg, das Herz der Arbeiterklasse wirklich zu erobern, sind faire und demokratische Wahlen. Durch eine solide parlamentarische Machtbasis werden wir beginnen, Wallonien nach unserem sozialistischen Ideal zu reformieren und zu formen."
 WAL_A_BWP_President: "A POB [BEL_HOS]"
 WAL_A_BWP_President_desc: "Fernand Dehousse hat die Partei durch die Wahlen geführt und sollte der unangefochtene Vorsitzende der Partei sein. Als erster wallonischer [BEL_HOS] wird er die Wallonie in die Zukunft führen."
 WAL_A_Syndicalist_Chairman: "Ein syndikalistischer Vorsitzender"
