@@ -279,7 +279,9 @@ zero_island: "Abgelegene Insel(n)"
 
 ### core_l_english
  UNLOCK_COMPLETE_EFFECT: "$WHO|H$ vervollständigt den Schwerpunkt $LIST|H$\n"
- FE_HISTORICAL: "Historische KI - §RBitte deaktivieren§!"
+ FE_IRONMAN: "Ironman Modus - §RKann Spiele brechen§!"
+ FE_IRONMAN_TOOLTIP: "Im Ironman-Modus sind die Konsolen-Cheats deaktiviert und das Spiel wird automatisch regelmäßig in einer einzigen Datei gespeichert. Bei Spielen, die mit dieser Einstellung gespielt werden, gibt es kein Zurück mehr.\n\n§RWARNUNG\nDie Verwendung des Ironman-Modus macht es unmöglich, zu einem älteren Spielstand zurückzukehren, wenn ein spielzerstörender Fehler auftritt, und kann ganze Spieldurchgänge dauerhaft ruinieren.§!"
+ FE_HISTORICAL: "Historische KI - §RNicht unterstützt§!"
  FE_HISTORICAL_TOOLTIP: "§RDiese Funktion wird in KR überhaupt nicht genutzt, aber wenn sie aktiviert ist, kann es zu Problemen mit der KI kommen. Bitte stellen Sie sicher, dass diese Funktion beim Spielen von Kaiserreich immer deaktiviert bleibt.§!"
  NAVAL_COMBAT_SHIP_ORGANIZATION_FACTOR: " - Organisation: $ORG|%Y$"
  UNITS_TOO_WEAK_TO_ATTACK: "§RDie Organisation der Einheit ist zu niedrig, um voranzukommen.§!\nBitte warten Sie, bis sie sich neu organisiert haben, oder überlegen Sie, ob Sie die §YAggressivität§! der Schlachtpläne ändern wollen."

@@ -625,8 +625,9 @@
  norway.138.a: "Lasst uns Schweden in Flammen setzen."
 
  norway.139.t: "Komando Linge in Sweden"
- norway.139.d: "Eine Bande von Saboteuren und Terroristen ist seit kurzem in Schweden aktiv. Komando Linge", benannt nach einem obskuren ehemaligen Schauspieler, hat bereits mehrere Eisenbahnlinien und Munitionsdepots in die Luft gesprengt."
+ norway.139.d: "Eine Bande von Saboteuren und Terroristen ist seit kurzem in Schweden aktiv. 'Komando Linge', benannt nach einem obskuren ehemaligen Schauspieler, hat bereits mehrere Eisenbahnlinien und Munitionsdepots in die Luft gesprengt."
  norway.139.a: "Man wird sich um sie kümmern müssen..."
+ norway.139.b: "Das ist genug!"
 
  norway.140.t: "Komando Linge hat eine Brücke gesprengt!"
  norway.140.d: "Gestern Abend wurde eine Brücke von Komando Linge gesprengt. Zum Glück wurde niemand verletzt, aber das wird unsere Versorgungslage in dem Gebiet für einige Zeit beeinträchtigen."
@@ -899,8 +900,8 @@
  norway.323.a: "Wenigstens ist der Krieg vorbei..."
 
  norway.324.t: "Die Konterrevolution von Vidkun Quisling"
- norway.324.d: "Heute Morgen hat Vidkun Quisling, ein freimütiger norwegischer Nationalist, mit Hilfe der Armee einen Gegenputsch gegen die kürzlich eingesetzte norwegische syndikalistische Regierung durchgeführt. Quisling ist seit langem ein offener Kritiker jeglicher sozialistischer Überzeugungen und hat seine Gedanken über den Zustand der Nation und seine Schritte zur Zerstörung des Sozialismus in einer wichtigen Radiosendung dargelegt. Einheiten der Armee, die der syndikalistischen Sache treu sind, haben sich sporadische Kämpfe mit den norwegischen Streitkräften geliefert, die ihrem neuen Führer die Treue geschworen haben. Man geht zwar davon aus, dass es noch erheblichen Widerstand gegen Quislings Regime geben wird, aber eine Eskalation zu einem Bürgerkrieg wird als unwahrscheinlich erachtet. Die Welt kann nur zusehen, wie das Wahrzeichen der europäischen liberalen Demokratie in Vergessenheit gerät, während Norwegen endlich seinem nationalistischen Unterleib nachgibt."
- norway.324.a: "Ob im Guten oder im Schlechten, Norwegens Weg ist sein eigener"
+ norway.324.d: "Heute Morgen hat Vidkun Quisling, ein freimütiger norwegischer Nationalist, mit Hilfe der Armee einen Gegenputsch gegen die kürzlich eingesetzte norwegische syndikalistische Regierung durchgeführt. Quisling ist seit langem ein offener Kritiker jeglicher sozialistischer Überzeugungen und hat seine Gedanken über den Zustand der Nation und seine Schritte zur Zerstörung des Sozialismus in einer wichtigen Radiosendung dargelegt. Einheiten der Armee, die der syndikalistischen Sache treu sind, haben sich sporadische Kämpfe mit den norwegischen Streitkräften geliefert, die ihrem neuen Führer die Treue geschworen haben.\nMan geht zwar davon aus, dass es noch erheblichen Widerstand gegen Quislings Regime geben wird, aber eine Eskalation zu einem Bürgerkrieg wird als unwahrscheinlich erachtet. Die Welt kann nur zusehen, wie das Wahrzeichen der europäischen liberalen Demokratie in Vergessenheit gerät, während Norwegen endlich seinem nationalistischen Unterleib nachgibt."
+ norway.324.a: "Ob im Guten oder im Schlechten, Norwegens Weg ist sein\neigener"
 
 ### Norwegian Socialism elections ###
  nor_syncon.1.t: "Landesorganisationen - Außenpolitik"

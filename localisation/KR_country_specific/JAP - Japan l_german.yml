@@ -483,8 +483,6 @@
  JAP_koreans_strongly_oppose: "§oDie Chōsen-Delegation wird gehen!§!"
  JAP_koreans_dont_like: "§RDer Chōsen-Delegation wird das nicht gefallen§!"
 
- JAP_ichigo_tooltip: "Erhält '§H$JAP_ichigo$§!', mit zusätzlichen (Angriffsbonus gegen §H$all_chinese_countries_tt$§!: [?0.1|+=%1], Verteidigungsbonus gegen §H$all_chinese_countries_tt$§!: [?0.05|+=%1]) für §H100§! Tage."
-
 ### Scripted Loc ###
  JAP_ally1_name: "§Y[?global.asian_economic_sphere^0.GetFlag][?global.asian_economic_sphere^0.GetName]§!, "
  JAP_ally2_name: "§Y[?global.asian_economic_sphere^1.GetFlag][?global.asian_economic_sphere^1.GetName]§!, "

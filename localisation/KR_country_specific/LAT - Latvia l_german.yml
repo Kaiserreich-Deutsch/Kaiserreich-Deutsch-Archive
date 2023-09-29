@@ -78,7 +78,7 @@ LAT_national_populist_party_long: "Latviešu Tautas apvienība Ugunskrusts "(Ver
  KRLAT.12.a: "Riga ist unsere Hauptstadt."
  KRLAT.12.b: "Erkennen Sie die Realität der Situation - Libau."
 
- KRLAT.13.t: "Der Ģenerālis"
+ KRLAT.13.t: "Der Generālis"
  KRLAT.13.d: "Die außergewöhnlichen Herausforderungen, vor denen Lettland derzeit steht, haben in der Bevölkerung breite Unterstützung für Kurelis' autoritäres Handeln hervorgerufen. Während Kurelis mindestens bis zum Ende der gegenwärtigen Krise Präsident bleiben soll, haben einige gefordert, dass seine Herrschaft in der Verfassung festgeschrieben werden sollte - Präsident auf Lebenszeit."
  KRLAT.13.a: "Schreiben Sie es in das Dokument."
  KRLAT.13.b: "Er wird nur so lange bleiben, bis die Krise vorüber ist."
@@ -86,7 +86,7 @@ LAT_national_populist_party_long: "Latviešu Tautas apvienība Ugunskrusts "(Ver
  KRLAT.14.t: "Außenpolitik"
  KRLAT.14.d: "Lettland befindet sich auf der Weltbühne in einer schwierigen Lage. Das Land steht sowohl von Deutschland als auch von Russland unter diplomatischem Druck, und die Gefahr einer Invasion durch eine dieser beiden Mächte ist groß. Die provisorische Verfassung räumt der Saeima eine Rolle bei der Ausarbeitung von Verträgen und der Ernennung von Diplomaten ein, wobei die Zustimmung des Gremiums für die Ratifizierung von Verträgen und die Besetzung von Posten erforderlich ist. Obwohl dies umständlich und angesichts der Kontrolle der Saeima durch Kurelis eine Farce ist, fordern einige, dass diese Besonderheit der Verfassung beibehalten wird."
  KRLAT.14.a: "Der Saeima muss die Entscheidungen der Regierung genehmigen"
- KRLAT.14.b: "Nur der Ģenerālis weiß, was gut ist"
+ KRLAT.14.b: "Nur der Generālis weiß, was gut ist"
 
  KRLAT.15.t: "Zuständigkeiten und Befugnisse"
  KRLAT.15.d: "Die letzte große Debatte der verfassungsgebenden Versammlung betrifft die Frage, ob der Präsident die Legislative einseitig und für immer auflösen kann oder nicht. Ein solches Vorgehen wäre zwar höchst ineffizient und würde die Verwaltung übermäßig belasten, doch wenn es unter den richtigen Umständen möglich wäre, würde die Unabhängigkeit der Legislative zumindest für die restliche Zeit der Krise nahezu aufgehoben."
@@ -421,8 +421,8 @@ LAT_national_populist_party_long: "Latviešu Tautas apvienība Ugunskrusts "(Ver
  LAT_latvia_for_latvians_desc: "Während die ethnischen Letten den Kern des Staates bilden müssen und an der Beseitigung der Hinterlassenschaften der imperialen Herrschaft gearbeitet werden muss, sollten wir darauf achten, Minderheiten - insbesondere Russen und Deutsche - angemessen zu bevormunden. Zu diesem Zweck müssen wir ethnische Klassifizierungen zugunsten einer bürgerlichen lettischen Identität gesetzlich aufheben und gleichzeitig dafür sorgen, dass ethnische Minderheiten in der Versammlung umfassend vertreten sind."
  LAT_organise_the_forest_brothers: "Organisieren Sie die Waldbrüder"
  LAT_organise_the_forest_brothers_desc: "Den verschiedenen ländlichen Partisanengruppen, die unter dem Namen "Waldbrüder" bekannt sind, fehlt eine hochrangige Organisation. Sie werden zwar für ihre Rolle bei der Erlangung der lettischen Unabhängigkeit respektiert, aber der Staat hat sie bisher auf Distanz gehalten. Wir sollten damit beginnen, die Waldbrüder, die ihrem Land noch dienen wollen, in die Armee zu integrieren, während andere demobilisiert werden."
- LAT_honour_the_generalis: "Ehrung des Ģenerālis"
- LAT_honour_the_generalis_desc: "Jānis Kurelis, der Ģenerālis, vertrieb die fremden Eroberer aus unserem schönen Land und befreite die Menschen von ihren Ketten. In vielen Dörfern wird sein edles Antlitz zu einem Objekt der Verehrung. Statuen und andere Kunstwerke werden spontan in Auftrag gegeben. Der Staat sollte diese Verehrung für unseren Führer fördern."
+ LAT_honour_the_generalis: "Ehrung des Generālis"
+ LAT_honour_the_generalis_desc: "Jānis Kurelis, der Generālis, vertrieb die fremden Eroberer aus unserem schönen Land und befreite die Menschen von ihren Ketten. In vielen Dörfern wird sein edles Antlitz zu einem Objekt der Verehrung. Statuen und andere Kunstwerke werden spontan in Auftrag gegeben. Der Staat sollte diese Verehrung für unseren Führer fördern."
  LAT_revise_the_national_territory: "Geografische Neuausrichtung"
  LAT_revise_the_national_territory_desc: "Riga ist seit jeher das Zentrum der baltischen Handelsnetze. Wir können nicht länger zulassen, dass eine Stadt dies dominiert. Es sollten optimale Strecken für ein neues Straßen- und Schienennetz unter Umgehung Rigas geschaffen und ein Plan für die Verwirklichung eines solchen entworfen werden."
  LAT_with_or_without_riga: "Mit oder ohne Riga"
@@ -595,7 +595,7 @@ LAT_national_populist_party_long: "Latviešu Tautas apvienība Ugunskrusts "(Ver
  rigas_autobusu_fabrika_lat: "Rīgas Autobusu Fabrika"
  sef_lat: "Valsts Elektrotehniskā Fabrika"
  liepajas_kara_lat: "Libaus Karaosta Darbnīcas"
- riga_shipyard_lat: "Rīgas Kuģu Būvētava"
+ riga_shipyard_lat: "Rīgas Kugu Būvētava"
 
 ### Ideas ###
 
@@ -719,7 +719,7 @@ LAT_remember_riga_desc: "Das schlagende Herz Lettlands, seine ewige Hauptstadt, 
  LAT_internationale_advisors_idea_desc: "Die Französische Kommune hat Militärberater in die Lettische Sozialistische Republik entsandt."
 
 ### Traits ###
- LAT_the_generalis: "Der General"
+ LAT_the_generalis: "Der Generālis"
 
 ### Tooltips ###
  Unlock_Daugavpils_shot_factory: "Ein neues Unternehmen für die Entwicklung von Kleinwaffen wird freigeschaltet.\n"
@@ -816,8 +816,8 @@ LAT_join_internationale: "Beitritt zur Dritten Internationale"
  LAT_constitutional_assembly_desc: "Die Verfassungsversammlung ist ein vorübergehendes Gremium, das gemeinsam als vorläufiges Staatsoberhaupt des neuen lettischen Staates fungiert. Was oder wer sie ersetzen wird, ist ungewiss, aber sie wird sicherlich abgelöst werden."
  LAT_pauls_kalnins: "Pauls Kalniņš"
  LAT_pauls_kalnins_desc: "Pauls Kalniņš wurde 1872 in Kurland geboren. Während des russischen Bürgerkriegs wurde er de facto Führer des rechten Flügels der lettischen sozialdemokratischen Arbeiterpartei, die sich weigerte, sich an der Iskolat-Republik zu beteiligen, selbst im Angesicht der deutschen Vorherrschaft. Kalniņš führte seine Fraktion stattdessen in ein zaghaftes Bündnis mit der kurzlebigen gemäßigt-konservativen Unabhängigkeitsbewegung unter Führung von Kārlis Ulmanis und fügte sich gemeinsam mit Ulmanis der deutschen politischen Kontrolle. Selbst nachdem Ulmanis das entstehende baltische Herzogtum verlassen hatte, um sich in Kerenskis Russland erneut für die baltische Unabhängigkeit einzusetzen, blieb Kalniņš und wurde zu einer führenden Stimme für die einheimischen Balten - Letten und Esten gleichermaßen - gegenüber einem feindseligen deutschstämmigen Adel.\n\nAls Oppositionsführer im baltischen Landtag, dem Demokratischen Block, war Kalniņš in der Regel bereit, mit den deutschen Liberalen unter Paul Schiemann zusammenzuarbeiten, obwohl er Schiemanns wirtschaftliche und politische Reformagenda oft als unzureichend bezeichnete. Als das baltische Herzogtum nach dem Schwarzen Montag schnell im Chaos versank, schlug sich Kalniņš schließlich auf die Seite der baltischen Unabhängigkeitsbewegungen, stärkte sie erheblich und ließ seinen Stern im lettischen Lager schnell steigen. Mit der Gründung der freien lettischen Republik wurde Kalniņš zu deren provisorischem Präsidenten ernannt."
- LAT_margers_skujenieks: "Marģers Skujenieks"
- LAT_margers_skujenieks_desc: "Marģers Skujenieks wurde 1886 in Riga geboren. Er verließ die lettische sozialdemokratische Arbeiterpartei noch vor der Gründung der Republik Iskolat, und obwohl ihn dieser Schritt einen Großteil seines Einflusses in der lettischen linken Mitte kostete, baute er schließlich eine Machtbasis unter den ethnischen Letten in Riga und der umliegenden Region auf."
+ LAT_margers_skujenieks: "Margers Skujenieks"
+ LAT_margers_skujenieks_desc: "Margers Skujenieks wurde 1886 in Riga geboren. Er verließ die lettische sozialdemokratische Arbeiterpartei noch vor der Gründung der Republik Iskolat, und obwohl ihn dieser Schritt einen Großteil seines Einflusses in der lettischen linken Mitte kostete, baute er schließlich eine Machtbasis unter den ethnischen Letten in Riga und der umliegenden Region auf."
  LAT_peteris_jurasevskis: "Pēteris Juraševskis"
  LAT_peteris_jurasevskis_desc: "Pēteris Juraševskis wurde 1872 in Kurland geboren. Er war zusammen mit Ulmanis an der gescheiterten lettischen Rechtsregierung während des russischen Bürgerkriegs beteiligt. Im Vereinigten baltischen Herzogtum wurde er zu einem prominenten Fürsprecher des lettischen Bürgertums in Kurland und erwirkte einige hochrangige Zugeständnisse von der deutsch dominierten Regierung, obwohl ihm diese Siege nur begrenzte Anerkennung in der lettischen Bevölkerung einbrachten. Als Staatsoberhaupt Lettlands ist er nun bestrebt, das neue Land in eine stabile Demokratie zu verwandeln, in der die Rechte aller im Rahmen eines geordneten Rechtsprozesses geachtet werden."
  LAT_karlis_ulmanis: "Kārlis Ulmanis"

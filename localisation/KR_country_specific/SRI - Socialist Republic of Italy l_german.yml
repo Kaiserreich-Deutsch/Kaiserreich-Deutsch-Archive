@@ -171,6 +171,8 @@
  SRI_economic_miracle_idea: "Wirtschaftswunder"
  SRI_cultural_revolution_idea: "Kulturrevolution"
  SRI_cultural_revolution_idea_desc: "Die Republik befindet sich derzeit im Griff einer Bewegung, die als Kulturrevolution bekannt ist und deren Ziel es ist, die Gesellschaft Italiens vollständig zu revolutionieren und die alte korrupte und dekadente kapitalistische Kultur zu zerstören."
+ SRI_cultural_revolution_over_idea: "Vermächtnis der Kulturrevolution"
+ SRI_cultural_revolution_over_idea_desc: "Die italienische Kulturrevolution hat ihr offizielles Ende erreicht, und ihre Auswirkungen sind noch immer in der italienischen Gesellschaft spürbar. Die Nation als Ganzes wurde schließlich radikal umgestaltet, um der Vision von Benito Mussolini zu entsprechen."
  SRI_motorized_offensive_idea: "Motorisierte Offensive"
  SRI_crime_problem: "Organisierte Kriminalität"
  SRI_crime_problem_desc: "In der seit dem Bürgerkrieg herrschenden Unordnung ist die Macht der Familien der Organisierten Kriminalität in der Republik nur gewachsen. Trotz aller Bemühungen der Regierung haben sie begonnen, die Legitimität und die Wirtschaft der Republik zu untergraben."
@@ -213,6 +215,8 @@
  SRI_defense_of_state: "Landesverteidigung"
  SRI_army_resistance: "Militärischer Widerstand"
  SRI_republic_strengthened_1_idea: "Italienischer Sozialistenkongress"
+ SRI_recent_military_exercises_idea: "Aktuelle Militärübungen"
+ SRI_recent_naval_exercises_idea: "Aktuelle Marineübungen"
 
 ### Tooltips ###
  SRI_had_fourth_congress: "Vierter Kongress beendet\n"

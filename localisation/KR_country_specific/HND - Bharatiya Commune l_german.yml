@@ -74,7 +74,6 @@ HND_navy_production: "Nationale Marineversorgung"
 HND_army_focus: "Herrschaft über den Boden"
 HND_air_focus: "Herrschaft über den Himmel"
 HND_navy_focus: "Herrschaft über das Meer"
-HND_unitedindia: "Indien vereinigt!"
 
 ### Opinion Modifiers ###
 HND_cautious_support: "Vorsichtige Unterstützung"
@@ -518,7 +517,7 @@ beng.71.d: "Wir hatten große Hoffnungen, dass [RAJ.GetAdjective] Vernunft walte
 beng.71.a: "Dann ist unser Weg leider vorgezeichnet."
 
 beng.72.t: "Eine Anfrage aus Lahore"
-beng.72.d: "Kuriose Nachrichten aus Lahore: Beamte von [RAJ.GetNameDef] haben uns mitgeteilt, dass [HND.GetNameDef] sich an ihre Regierung gewandt hat, um Gespräche über eine friedliche Wiedervereinigung aufzunehmen. Es ist nicht bekannt, was der Mahatma verlangen würde, oder ob Delhi überhaupt zustimmen würde, aber die meisten glauben, dass es zumindest einen Rückzug aus der Entente bedeuten würde. Dies würde jedoch niemals geschehen, ohne dass zuvor die [HND.GetAdjective] Extremisten unterdrückt werden... das Ergebnis wäre also ein Indien, das nicht unser Verbündeter, aber auch nicht unser Feind ist. Wenn wir uns weigern würden, ihnen die Erlaubnis zu erteilen, ist nicht bekannt, wie Delhi reagieren würde... oder was wir überhaupt tun könnten, wenn sie sich weigern würden."
+beng.72.d: "Kuriose Nachrichten aus Lahore: Beamte von [RAJ.GetNameDef] haben uns mitgeteilt, dass [HND.GetNameDef] sich an ihre Regierung gewandt hat, um Gespräche über eine friedliche Wiedervereinigung aufzunehmen. Es ist nicht bekannt, was der Mahatma verlangen würde, oder ob Lahore überhaupt zustimmen würde, aber die meisten glauben, dass es zumindest einen Rückzug aus der Entente bedeuten würde. Dies würde jedoch niemals geschehen, ohne dass zuvor die [HND.GetAdjective] Extremisten unterdrückt werden... das Ergebnis wäre also ein Indien, das nicht unser Verbündeter, aber auch nicht unser Feind ist. Wenn wir uns weigern würden, ihnen die Erlaubnis zu erteilen, ist nicht bekannt, wie Lahore reagieren würde... oder was wir überhaupt tun könnten, wenn sie sich weigern würden."
 beng.72.a: "Wir geben diesem Treffen unseren Segen."
 beng.72.b: "Nein, sie sind zu wichtig für die Interessen des Imperiums."
 

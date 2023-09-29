@@ -859,8 +859,8 @@ QIE_anqing_reconstruction_aid: "Wiederaufbauhilfe für Anqing"
 QIE_anqing_reconstruction_aid_desc: "Anqing wurde vom Ligakrieg schwer getroffen, wobei ein Großteil des Landes erheblich beschädigt wurde. Wir sind ihnen jedoch zu Hilfe gekommen und leisten zusätzliche Hilfe beim Wiederaufbau."
 
 ### Peking-Kommission Level ###
-QIE_german_influence_dynamic_modifier: "Einfluss der Pekinger Komission\n§gDie Pekinger Komission ist Deutschlands Vertretung in China, die Kontrolle über Gebiete ausübt, die direkt von Peking kontrolliert werden. Sie finanzieren die Wohlstandsliga, eine Lobbyistengruppe, die auch in der Nationalversammlung einge Sitze hat. Sie befürworten den Freihandel und wirtschaftliche Öffnung Chinas, insbesondere gegenüber Deutschland.\n\n(Dieser Modifikator ist abhängig von der Unterstützung für die Marktliberalen.)§!\n\nAktualisiert alle 24 Stunden"
-#QIE_german_influence_dynamic_modifier_desc: "The Peking-Kommission is Germany's primary agent for exerting control over areas directly controlled by Beijing. They directly fund the Prosperity League, a lobbying group that pushes for adoption of German industrial methods and free trade while also holding several seats in the Assembly.\n\n(This modifier is tied to the popularity of the Market Liberal party. Should it get too high, expect decreased industrial efficiency and resentment from those who dislike the Germans!)"
+QIE_german_influence_dynamic_modifier: "Peking-Kommission Influence Level"
+QIE_german_influence_dynamic_modifier_desc: "Die Peking-Kommission ist Deutschlands wichtigstes Instrument, um die Kontrolle über die von Beijing direkt kontrollierten Gebiete auszuüben. Sie finanziert direkt die Wohlstandsliga, eine Lobbygruppe, die sich für die Übernahme deutscher Industriemethoden und den Freihandel einsetzt und gleichzeitig mehrere Sitze in der Versammlung innehat.\n\n(Dieser Modifikator ist an die Popularität der marktliberalen Partei gebunden.)§Y\n\nAktualisierung alle 24 Stunden"
 
 #yiguandao influence
 QIE_yiguandao_influence_dynamic_modifier: "Yiguandao Einfluss\n§gNachdem Zhang Tianran und seine Anhänger uns geholfen haben die Zhili zu beseitigen, haben sie begonnen die Strukturen unserer Regierungsorganisation zu infiltrieren. Sie mögen uns zwar einige Vorteile verschaffen, jedoch würde zu viel Einfluss unserer Nation mehr an politischer Stabilität rauben.\n\n(Dieser Modifikator ist abhängig von der Unterstützung für die Nationalpopulisten.)§!\n\nAktualisiert alle 24 Stunden"
@@ -1342,6 +1342,7 @@ QIE_meet_assembly_parties_decisions: "Treffen mit den Versammlungsparteien"
 QIE_hire_mercenaries_decisions: "Berater einstellen"
 QIE_bandits_hired: "Die 'Soldaten des Waldes' werden in 2 Wochen in Luoyang eintreffen"
 QIE_foreign_hired: "Die ausländischen Einheiten werden in wenigen Wochen in Luoyang eintreffen"
+QIE_manchu_restoration: "§Y[QIE.Getname]§!: Mandschu-Adlige haben die Macht in Beijing übernommen."
 QIE_manchu_restoration_tooltip: "§YDieser Schwerpunkt tauscht den Schwerpunktbaum aus mit dem der Manchu-Restauration.§!"
 QIE_sic_ships_warning: "Es muss §GFrieden§! zwischen China und den Japanern herrschen! Planen sie ihre Strategie im Voraus."
 QIE_kriegsmarine_tooltip: "Schaltet £decision_icon_small §HEntscheidungen§! frei, um §YDeutsche Schiffe zu kaufen§!"

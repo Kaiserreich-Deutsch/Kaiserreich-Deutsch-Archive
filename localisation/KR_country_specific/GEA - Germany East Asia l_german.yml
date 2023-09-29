@@ -34,14 +34,6 @@ german_alligned_chinese_tag_controlled_tooltip: "Im Besitz und unter der Kontrol
 GEA_try_to_give_guns_to_LEP_tooltip: "Wir werden versuchen, der Regierung in Nanjing §Y2500§! Infanterieausrüstungen zu geben, aber es könnte sein, dass sie sich in einem Akt des Ungehorsams weigern."
 GEA_try_to_give_factories_to_LEP_tooltip: "Wir werden versuchen, die §Y2§!-Militärfabriken vorübergehend der Regierung in Nanjing zu überlassen, aber sie könnten sich in einer Show des Ungehorsams weigern."
 GEA_no_factory_lease: "LEP hat den Mietvertrag abgelehnt."
-GEA_Guangzhou_unlocked: "- §GGuangzhou§!"
-GEA_Xiamen_unlocked: "- §GXiamen§!"
-GEA_Wenzhou_unlocked: "- §GWenzhou§!"
-GEA_Nantong_unlocked: "- §GNantong§!"
-GEA_Guangzhou_locked: "- §RGuangzhou§!"
-GEA_Xiamen_locked: "- §RXiamen§!"
-GEA_Wenzhou_locked: "- §RWenzhou§!"
-GEA_Nantong_locked: "- §RNantong§!"
  GEA_if_fiscal_austerity_completed: "Wenn §Y$GEA_fiscal_austerity$§! abgeschlossen ist:"
  GEA_if_collaborate_with_local_elites_completed: "Wenn §Y$GEA_collaborate_with_local_elites$§! abgeschlossen ist:"
 
@@ -706,7 +698,8 @@ GEA_vietcong_killer_idea_desc: "Jeder, der rennt, ist ein Vietminh! Jeder, der s
 
 GEA_AOG_BONUS: "A.O.G."
 GEA_AOG_bonus_idea: "Ausfsichtsrat der Ostasialischen Generalverwaltung"
-GEA_AOG_bonus_idea_desc: "Durch die A.O.G. haben wir wichtige wirtschaftliche Rechte in §Y[?GEA_AOG_CITIES_NUMBER]§! wichtigen chinesischen Küstenstädten:\n[GEA_Guangzhou]\n[GEA_Xiamen]\n[GEA_Wenzhou]\n[GEA_Nantong]\n§W$MODIFIER_CONSUMER_GOODS_FACTOR$:§! [?GEA_AOG_CITIES|Y%1]"
+GEA_AOG_bonus_idea_desc: "Durch die A.O.G. haben wir wichtige wirtschaftliche Rechte in §Y[?GEA_AOG_CITIES_NUMBER]§! wichtigen chinesischen Küstenstädten:\n- §[592.GEA_GetStateControllerAllyStatus][592.GetName]§!\n- §[802.GEA_GetStateControllerAllyStatus][802.GetName]§!\n- §[803.GEA_GetStateControllerAllyStatus][803.GetName]§!\n- §[1075.GEA_GetStateControllerAllyStatus][1075.GetName]§!"
+ GEA_AOG_bonus_idea_tt: "$MODIFIER_CONSUMER_GOODS_FACTOR$: [?GEA_AOG_CITIES|Y%1]"
 
  GEA_arm_of_the_german_empire: "Arm des Deutschen Reiches"
 GEA_naval_attache_idea: "Ostasien Marinemission"

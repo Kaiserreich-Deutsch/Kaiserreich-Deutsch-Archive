@@ -373,7 +373,7 @@ assyria_events.5.a: "Schickt die Armee!"
 assyria_events.5.b: "Assyrien soll nicht fallen! (Spielt als Assyria)"
 
 assyria_events.6.t: "Assyrischer Aufstand niedergeschlagen"
-assyria_events.6.d: "Es überrascht nicht, dass der assyrische Aufstand von unserer weit überlegenen Armee niedergeschlagen wurde. Patriarch Shimun XXI Eshai hat seiner Regierung befohlen, die Waffen niederzulegen. Unsere Quellen berichten, dass er kurz vor dem Fall von Basra an Bord eines unmarkierten indischen Schiffes in Richtung Delhi gesichtet wurde. Mit dieser Aktion gibt es im Südirak keinen organisierten Widerstand mehr, und die osmanische Macht ist wieder einmal siegreich."
+assyria_events.6.d: "Es überrascht nicht, dass der assyrische Aufstand von unserer weit überlegenen Armee niedergeschlagen wurde. Patriarch Shimun XXI Eshai hat seiner Regierung befohlen, die Waffen niederzulegen. Unsere Quellen berichten, dass er kurz vor dem Fall von Basra an Bord eines unmarkierten indischen Schiffes in Richtung Lahore gesichtet wurde. Mit dieser Aktion gibt es im Südirak keinen organisierten Widerstand mehr, und die osmanische Macht ist wieder einmal siegreich."
 assyria_events.6.a: "Gelobt sei Allah!"
 
 # Entente Mediation
@@ -389,7 +389,7 @@ assyria_events.8.a: "Wir werden nicht nachgeben!"
 assyria_events.8.b: "Wir haben keine andere Wahl als nachzugeben..."
 
 assyria_events.9.t: "[OTT.GetName] weist die Forderungen zurück"
-assyria_events.9.d: "Es überrascht nicht, dass die Erhabene Pforte unser Ultimatum abgelehnt und ihre Operationen in Basra verstärkt hat, um dem assyrischen Aufstand ein schnelles und entscheidendes Ende zu bereiten. Von Ottawa bis Delhi mobilisieren sich inoffiziell die Truppen der Entente, um noch einmal an der Seite der assyrischen Leviten zu kämpfen und sowohl ihre Unabhängigkeit als auch, was noch wichtiger ist, die lebenswichtigen Ölvorkommen des Irak zu sichern."
+assyria_events.9.d: "Es überrascht nicht, dass die Erhabene Pforte unser Ultimatum abgelehnt und ihre Operationen in Basra verstärkt hat, um dem assyrischen Aufstand ein schnelles und entscheidendes Ende zu bereiten. Von Ottawa bis [RAJ.Capital.GetCapitalVictoryPointName] mobilisieren sich inoffiziell die Truppen der Entente, um noch einmal an der Seite der assyrischen Leviten zu kämpfen und sowohl ihre Unabhängigkeit als auch, was noch wichtiger ist, die lebenswichtigen Ölvorkommen des Irak zu sichern."
 assyria_events.9.a: "Hoffentlich kann unser Unterstützung helfen, bevor es zu spät ist..." 
 
 assyria_events.10.t: "[OTT.GetName] gibt unseren Forderungen nach"
@@ -491,6 +491,30 @@ assyria_events.31.a: "Vielen Dank, Kanada!"
 assyria_events.32.t: "Übertragung der [812.GetName]-Konzession"
 assyria_events.32.d: "Delegationen aus Großbritannien und [CAN.GetNameDef] haben sich an uns gewandt, um eine Anpassung der Ölkonzession zu erreichen, die ihnen in [812.GetName] gehört. Während die Kontrolle über die Konzession nach der britischen Revolution in kanadische Hände überging, ist es nun an der Zeit, die ursprüngliche Pacht an Großbritannien zurückzugeben. Da London seine wiederhergestellten Muskeln spielen lässt, haben sie beantragt, dass die Konzessionen wieder von London und nicht von Ottawa aus kontrolliert werden sollen."
 assyria_events.32.a: "Sehr gut."
+
+assyria_events.33.t: "[ASY.GetName] fordert unser Öl!"
+assyria_events.33.d: "Heute haben wir eine Nachricht von [ASY.GetName] erhalten, einem Land, das erst vor kurzem seine Unabhängigkeit erlangt hat, aber bereits in die Abhängigkeit von den Entente-Ländern geraten ist.\nIn der Nachricht teilt die Regierung von [ASY.GetNameDef] mit, dass sie sehr gerne einen großen Teil unserer Ölfelder in den Regionen [676.GetName] und [349.GetName] \"pachten\" würde. Sollten wir uns weigern, würden unsere Nachbarn dies als einen unfreundlichen Schritt gegen sie betrachten und \"Maßnahmen ergreifen\".\nEs besteht kein Zweifel daran, dass hinter den Kulissen der [ASY.GetNameDef]-Regierung die Männer der Entente stehen, die fast offen alle wichtigen Posten besetzen. Sie brauchen unser Öl, um für einen neuen europäischen Krieg gerüstet zu sein, und deshalb werden sie ihre unverhohlene Erpressung nicht umsonst aufgeben. Wir haben jedoch nicht genügend Kräfte in unserer Armee, um gegen einen so mächtigen Feind zu kämpfen..."
+assyria_events.33.a: "Die Entente ist zu stark für uns!"
+assyria_events.33.b: "Fragen wir unsere Verbündeten."
+assyria_events.33.c: "Wir werden nicht aufgeben!"
+
+assyria_events.34.t: "[FROM.GetName] gibt uns die Ölfelder!"
+assyria_events.34.d: "Unsere Drohungen hatten Erfolg, und die [IRQ.GetNameDef]-Regierung erklärte sich bereit, ihre Ölfelder an uns zu verpachten.\nWir sind sehr zufrieden mit diesem Ergebnis und wissen bereits, wie wir die neuen Reserven des schwarzen Goldes nutzen können."
+assyria_events.34.a: "Ausgezeichnete Nachrichten!"
+
+assyria_events.35.t: "Die Entente fordert Öl von [FROM.GetName]"
+assyria_events.35.d: "Wir haben soeben eine Nachricht von [IRQ.Capital.GetCapitalVictoryPointName] mit einer Kopie des jüngsten Angebots von [ASY.GetNameDef] erhalten, den Großteil der Ölfelder in den Gebieten [676.GetName] und [349.GetName] zu pachten.\nEs wäre eine interne Angelegenheit von [FROM.GetName], wenn die Worte am Ende des Angebots nicht eindeutig die Androhung eines Krieges enthielten, falls der Irak ablehnt. Da die [ASY.GetNameDef]-Regierung vollständig unter der Kontrolle der Entente steht, kann diese Drohung nur eines bedeuten - Krieg mit der gesamten Allianz.\nDie [FROM.GetNameDef]-Regierung warnt uns, dass sie nicht genügend Streitkräfte hat, um zu kämpfen, und bittet uns daher, unsere Garantien zu erfüllen, die wir früher in Bezug auf die Unabhängigkeit von [FROM.GetNameDef] gegeben haben. Sind wir jedoch zu einer solchen ehrenhaften Antwort bereit, oder ist es besser, auf einen anderen Zeitpunkt zu warten, wenn der Feind abgelenkt ist?"
+assyria_events.35.a: "Wir sind bereit, den Irak zu schützen."
+assyria_events.35.b: "Wir sind nicht vorbereitet."
+
+assyria_events.36.t: "Der Kairoer Pakt hat uns im Stich gelassen"
+assyria_events.36.d: "Eine Nachricht von [FROM.Capital.GetCapitalVictoryPointName] ist eingetroffen, und unsere schlimmsten Befürchtungen haben sich bewahrheitet: [FROM.GetName] lässt uns im Stich! In ihrem Brief teilen unsere Verbündeten traurig mit, dass sie auf einen möglichen Krieg mit den Entente-Ländern nicht vorbereitet sind und uns mit der kommenden Bedrohung allein lassen."
+assyria_events.36.a: "Wir werden allein kämpfen!"
+assyria_events.36.b: "Wir sind zu schwach!"
+
+assyria_events.37.t: "[FROM.GetName] weist das Ultimatum zurück!"
+assyria_events.37.d: "Wir haben eine Antwort von der Regierung [FROM.GetNameDef] erhalten, die besagt, dass sie unseren Bedingungen nicht zustimmen kann und sich weigert, die Ölfelder zu pachten. Da wir und unsere Verbündeten dieses Öl brauchen, bleibt uns nur eine Möglichkeit - unseren Nachbarn viel angenehmer zu machen."
+assyria_events.37.a: "Wir brauchen Öl."
 
 ### Characters ###
 ASY_shimun_xxi_eshai: "Shimun XXI Eshai"

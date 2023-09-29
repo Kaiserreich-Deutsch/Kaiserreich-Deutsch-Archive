@@ -870,7 +870,6 @@
  FIN_ukrainian_grain_imports_idea: "Ukrainische Getreideimporte"
  FIN_ukrainian_grain_imports_idea_desc: "Da Finnland sich für den Anbau bestimmter Grasarten nicht eignet, war Finnland gezwungen, sich bei Getreideimporten auf die Ukraine zu verlassen, um nicht mit einem Mangel an Nahrungsmitteln für seine Bevölkerung konfrontiert zu werden. Und während die Ukraine oft als "Brotkorb Europas" bezeichnet wird und über die Ressourcen im Überfluss verfügt, ist unser Vertrauen in ihr Getreide bestenfalls ungewiss, da unvorhergesehene zukünftige Umstände die Nation dazu zwingen könnten, die Getreidetransporte zu verlangsamen oder ganz einzustellen, was uns in eine schlechte Situation bringt."
  FIN_reduced_ukrainian_grain_imports_idea: "Reduzierte ukrainische Getreideimporte"
- FIN_reduced_ukrainian_grain_imports_idea2: "Reduzierte ukrainische Getreideimporte"
  FIN_black_monday_idea: "Schwarzer Montag"
  FIN_labour_strike_idea: "Arbeitsstreiks"
  FIN_finnish_sovereignty_idea: "Finnische Souveränität"
@@ -945,7 +944,6 @@
  FIN_red_guard_weakening_success: "Die Rote Garde wurde geschwächt"
  FIN_red_guard_weakening_fail: "Die Rote Garde bleibt stark"
  FIN_black_monday_flag: "Der Schwarze Montag hat Finnland getroffen"
- FIN_ukrainian_grain_shipments_again: "Getreidesendungen aus der Ukraine haben das Niveau von vor dem Schwarzen Montag erreicht"
 
 ### Tooltips ### 
  FIN_democracy_triumphant_tooltip: "§GDie Sozialdemokraten, Agrarier oder eine Koalitionsregierung müssen an der Macht sein, damit dieser Fokus aktiviert wird§!."
@@ -965,6 +963,7 @@
  FIN_civships_tt: "In Helsinki werden drei Schiffe aus der Zeit des Bürgerkriegs erschaffen."
  FIN_oldswe_tt: "50 veraltete Kampfflugzeuge werden empfangen."
  FIN_ger_blueprints_tt: "Deutsche Marine Blaupausen"
+ FIN_remilitarise_bonus_tt: "§CWenn wir die Åland-Inseln remilitarisiert haben, erhalten wir zusätzliche Boni§!"
 
 ### Opinion Modifiers ### 
  FIN_curtailed_swedish_rights: "Eingeschränkte schwedische Rechte"

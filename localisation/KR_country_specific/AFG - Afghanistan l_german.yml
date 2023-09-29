@@ -12,12 +12,12 @@ afg.0.a: "Die Zeit ist reif! Wiederholen wir unsere Siege!"
 afg.0.b: "Was hat Indien außer Kühen?"
 
 afg.1.t: "Der dritte Vertrag von Rawalpindi"
-afg.1.d: "Katastrophe! Unsere Kampagne gegen die Regierung von Delhi war von einem spektakulären Misserfolg gekrönt und unsere Armeen fliehen panisch durch den Pass von Khyber. Der Vizekönig Ganga Singh hat Frieden geboten und die Wiederherstellung der Grenzen vor 1926 gefordert. Leider können wir nicht ablehnen, damit unsere Nation nicht zerstört wird ..."
-afg.1.d.puppet: "Katastrophe! Unsere Kampagne gegen die Regierung von Delhi war von einem spektakulären Misserfolg gekrönt und unsere Armeen fliehen panisch durch den Pass von Khyber. Der Vizekönig Ganga Singh hat Frieden geboten und die Wiederherstellung der Grenzen vor 1926 gefordert. Leider können wir nicht ablehnen, damit unsere Nation nicht zerstört wird ..."
+afg.1.d: "Katastrophe! Unsere Kampagne gegen [RAJ.GetNameDef] war von einem spektakulären Misserfolg gekrönt und unsere Armeen fliehen panisch durch den Pass von Khyber. Ihr Anführer, [RAJ.GetLeader], hat Frieden angeboten und fordert die Wiederherstellung der Grenzen von vor 1926. Leider können wir dieses Angebot nicht ablehnen, da sonst unsere Nation zerstört wird..."
+afg.1.d.puppet: "Katastrophe! Unsere Kampagne gegen die [RAJ.GetNameDef] war von einem spektakulären Misserfolg gekrönt und unsere Armeen fliehen panisch durch den Pass von Khyber. Der Vizekönig GaDer Anführer [RAJ.GetLeader] hat Frieden angeboten - er fordert die Wiederherstellung der Grenzen von vor 1926 und die dauerhafte Unterwerfung unserer Regierung unter die ihre. Leider können wir dieses Angebot nicht ablehnen, da sonst unsere Nation zerstört wird...nga Singh hat Frieden geboten und die Wiederherstellung der Grenzen vor 1926 gefordert. Leider können wir nicht ablehnen, damit unsere Nation nicht zerstört wird ..."
 afg.1.a: "Wir geben nach, weil wir keine andere Wahl haben..."
 
 afg.2.t: "Der dritte Vertrag von Rawalpindi"
-afg.2.d: "Der Sieg ist unser! Wir haben die dekadenten britischen Schoßhunde in Delhi völlig in die Flucht geschlagen, und unsere Streitkräfte sind in den schwelenden Überresten ihrer Hauptstadt Verschanzt. Jetzt ist vielleicht der beste Zeitpunkt, um Zugeständnisse zu fordern, solange wir noch die Geschicke führen."
+afg.2.d: "Der Sieg ist unser! Wir haben die dekadenten britischen Schoßhunde völlig in die Flucht geschlagen, und unsere Streitkräfte sind in den schwelenden Überresten ihrer Hauptstadt Verschanzt. Jetzt ist vielleicht der beste Zeitpunkt, um Zugeständnisse zu fordern, solange wir noch die Geschicke führen."
 afg.2.a: "Lassen Sie uns Kaschmir beanspruchen und einen Weg zur Mündung des Indus bahnen!"
 afg.2.b: "Ich werde der Emanzipator und Befreier aller Mohammedaner im Industal sein!"
 afg.2.c: "Kein Frieden mit Götzenanbetern, lasst uns unsere Eroberung vollenden!"
@@ -27,7 +27,7 @@ afg.3.d: "Verflucht! Die afghanischen Hunde haben uns völlig überwältigt und 
 afg.3.a: "Wir geben nach, weil wir keine andere Wahl haben ..."
 afg.3.b: "Sie müssen scherzen! Hindustan Zindabad!"
 
-afg.4.t: "Die Regierung von Delhi lehnt ab!"
+afg.4.t: "[RAJ.GetNameDef] lehnt ab!"
 afg.4.d: "Dummerweise haben die britischen Schoßhunde unsere berechtigten Ansprüche abgelehnt."
 afg.4.a: "Der Krieg geht weiter!"
 
@@ -79,7 +79,7 @@ afg.17.b: "Geben Sie den Traditionalisten nach und geben Sie jeden Anspruch der 
 afg.17.c: "Ich werde dort Erfolg haben, wo Amanullah versagt hat, und Afghanistan in die moderne Welt bringen!"
 
 afg.18.t: "Sarrafs verlassen Afghanistan"
-afg.18.d: "Sarrafs sind eine Gruppe indischer Kaufleute, die zwischen Afghanistan und Delhi reisen, Geld austauschen und in beiden Waren handeln. Unsere Wirtschaft hängt kaum von ihren Besuchen ab. Jetzt ist der Krieg gekommen und die Grenzen sind nicht mehr sicher. Nur wenige dieser Sarrafs sind mutig genug, um weiterhin mit uns zu handeln. Da die meisten ihrer Wohnwagen weg sind, leiden wir jetzt unter einer Wirtschaftskrise."
+afg.18.d: "Sarrafs sind eine Gruppe indischer Kaufleute, die zwischen Afghanistan und [RAJ.GetNameDef] reisen, Geld austauschen und in beiden Waren handeln. Unsere Wirtschaft hängt kaum von ihren Besuchen ab. Jetzt ist der Krieg gekommen und die Grenzen sind nicht mehr sicher. Nur wenige dieser Sarrafs sind mutig genug, um weiterhin mit uns zu handeln. Da die meisten ihrer Wohnwagen weg sind, leiden wir jetzt unter einer Wirtschaftskrise."
 afg.18.a: "Wir brauchen diese indischen Hunde sowieso nicht!"
 
 afg.19.t: "Sarrafs Rückkehr"

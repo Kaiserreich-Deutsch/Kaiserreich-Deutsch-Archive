@@ -188,10 +188,10 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
 
 ### Tooltips ###
  BUL_integrate_ohrana_tt: "£nato_unit_infantry_icon_small  Stellen Sie drei §YOhrana-Freiwilligen-Abteilungen§! mit 6 §YInfantrie§!Bataillonen auf."
- BUL_armor_division_template_gained: "£nato_unit_light_armor_icon_small  Heben Sie eine §YExperimentelle Panzerbrigade§! mit 4 §YLeichten Panzern§! und 2 §YMotorisierten§! Bataillonen, 1 §YUnterstützung Artillerie§! Unterstützungsgruppe, 1 §YPionier§! Unterstützungsgruppe, and 1 §YMotorisierte Aufklärungs§! Unterstützungsgruppe.\n\n"
+ BUL_armor_division_template_gained: "£nato_unit_light_armor_icon_small  Heben Sie eine §YReorganisierte Panzerbrigade§! mit 4 §YLeichten Panzern§! und 2 §YMotorisierten§! Bataillonen, 1 §YUnterstützung Artillerie§! Unterstützungsgruppe, 1 §YPionier§! Unterstützungsgruppe, and 1 §YMotorisierte Aufklärungs§! Unterstützungsgruppe.\n\n"
  BUL_second_nishava_tt: "Niederschlagung des Widerstands: §G-20%§!"
  BUL_OTT_accepted_danube_commission_tt: "Beeinflusst das Ergebnis des §YErneuerung der Donaumündung Kommission§! Schwerpunkts.\n"
- BUL_reconciliation_available_tt: "Eine Aussöhnung zwischen Serbien und Bulgarien ist derzeit möglich."
+ BUL_reconciliation_available_tt: "Eine Aussöhnung zwischen §YSerbien§! und §YBulgarien§! ist derzeit möglich."
  BUL_first_etatist_project_year_tt: "Mindestens ein Jahr des §YDas große etatistische Projekt§! ist vergangen."
  BUL_transylvanian_claims_tt: "£nato_unit_infantry_icon_small  Aufstellen von drei §YRumänischen Freiwilligendivisionen§! mit 9 §YInfanterie§! Bataillonen."
  BUL_YUG_increase_rt_tt: "Widerstand gegen Jugoslawien: §R20%§!"
@@ -1344,7 +1344,7 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
  BUL_integrate_territories_tt: "Schaltet Entscheidung frei: £decision_icon_small §HIntegriert [767.GetName]§!\nSchaltet Entscheidung frei: £decision_icon_small §HIntegriert [731.GetName]§!\nSchaltet Entscheidung frei: £decision_icon_small §HIntegriert [772.GetName]§!"
 
  BUL_international_alliances: "Unser Platz in Europa"
- BUL_international_alliances_desc: "In der Zwischenkriegszeit hat sich Bulgarien von den Geschehnissen in Europa entfernt, in der Erwartung, sich auf die deutsche Hegemonie verlassen zu können, um über Generationen hinweg in Frieden zu leben. Diese Hegemonie wird jedoch in Frage gestellt, und wir müssen erneut eine Entscheidung treffen: Auf welcher Seite des Kampfes stehen wir, mit wem sollen wir uns im Zweiten Weltkrieg verbünden?"
+ BUL_international_alliances_desc: "In der Zwischenkriegszeit distanzierte sich Bulgarien von den Geschehnissen in Europa, in der Erwartung, dass die deutsche Hegemonie den Frieden für Generationen sichern würde. Diese Hegemonie wird jedoch in Frage gestellt, und wir müssen erneut eine Entscheidung treffen: Auf welcher Seite des Kampfes stehen wir, mit wem sollen wir uns im Zweiten Weltkrieg verbünden?"
 
  BUL_hijack_yugoslavism: "Ergreifung des Jugoslawismus"
  BUL_hijack_yugoslavism_desc: "Seit der entscheidenden Niederlage Serbiens im Jahr 1918 ist ihre Rolle als Einiger der Südslawen ins Wanken geraten, und nun ist sie endgültig zerschlagen. Wir Bulgaren dominieren seitdem den Balkan und sind der einzige freie südslawische Staat, der existiert. Viele Zveno-Offiziere glauben, dass wir an der Reihe sind, die Fackel zu ergreifen..."

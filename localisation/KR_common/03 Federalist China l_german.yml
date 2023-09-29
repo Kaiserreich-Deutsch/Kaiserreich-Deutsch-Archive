@@ -451,11 +451,7 @@ lngupc.6.t: "Die provisorische Verfassung der Vereinten Provinzen"
 lngupc.6.d: "Ein Ausschuss von Delegierten aus den Provinzen hat nun die offizielle Verabschiedung einer provisorischen Verfassung für die Vereinten Provinzen verkündigt, welche bald von den lokalen Parlamenten ratifiziert wird. Ein vereintes demokratisches China ist zum Greifen nahe - zumindest im Süden."
 lngupc.6.a: "Lang lebe die Chinesische Republik!"
 
-lngupc.7.t: "Die neue Hauptstadt"
-lngupc.7.d: "Die provisorische Regierung befindet sich zwar in [Root.Capital.GetCapitalVictoryPointName], jedoch diskutiert die Nationalversammlung über eine neue Hauptstadt für China. Peking war keine Option. Die Verbindung der Stadt mit der korrupten ersten Republik und der Monarchie ist zu stark. Drei potentielle Städte wurden ausgewählt: Nanjing, ehemalige Hauptstadt der Ming-Dynastie und provisorische Hauptstadt der ersten Republik vor Yuan Shikais Machtübernahme, hat eine symbolische Bedeutung für Nationalisten und Republikaner; Wuhan, die Stadt, wo die Xinhai-Revolution begang, wird wertgeschätzt von den revolutionären Kräften; oder [Root.Capital.GetCapitalVictoryPointName], provisorische Hauptstadt und das Machtzentrum der föderalistische Partei."
-lngupc.7.a: "Nanjing, wo die Republik ausgerufen wurde."
-lngupc.7.b: "Wuhan, wo die Revolution begang."
-lngupc.7.c: "Bleiben wir in [Root.Capital.GetCapitalVictoryPointName]."
+#Used to house the new capital event, turned in a generic
 
 lngupc.8.t: "Die Flagge Chinas"
 lngupc.8.d: "Die Nationalversammlung diskutierte heute über die Nationalflagge Chinas. Viele stimmen für die Wiedereinführung der 5-Farben-Flagge, als ein Symbol für nationale Einheit. Viele Revolutionäre möchten jedoch eine Verbindung mit den Beiyang-,Fengtian-und Zhili-Regimen vermeiden und setzen sich daher für die Flagge der CZGP ein (Das weiße \"Jing\" Symbol auf dem blauen Kanton auf dem roten Feld)."

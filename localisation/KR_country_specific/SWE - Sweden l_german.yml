@@ -98,6 +98,12 @@
  SWE_kompani_linge_idea: "Kompani Linge"
  SWE_kompani_linge_idea_desc: "Kompani Linge ist eine Kommandogruppe, die vom ehemaligen Schauspieler Martin Linge angeführt wird. Sie sind derzeit mit verschiedenen Formen der Sabotage in Schweden beschäftigt."
 
+ SWE_kompani_linge_tooltip: "§HWird entfernt, wenn:§!\n$TRIGGER_OR_STARTS$\n   $SWE_kompani_linge_SWE_is_socialist$\n   $SWE_kompani_linge_NOR_does_not_exist$\n   $SWE_kompani_linge_NOR_has_capitulated$\n   $SWE_kompani_linge_NOR_is_not_socialist$\n"
+ SWE_kompani_linge_SWE_is_socialist: "[SWE_kompani_linge_SWE_is_socialist] $KR_is_socialist$"
+ SWE_kompani_linge_NOR_does_not_exist: "[SWE_kompani_linge_NOR_does_not_exist] §H[NOR.GetNameWithFlag]§! $TRIGGER_DOES_NOT_EXIST$"
+ SWE_kompani_linge_NOR_has_capitulated: "[SWE_kompani_linge_NOR_has_capitualted] §H[NOR.GetName]§!: $TRIGGER_HAS_CAPITULATED$"
+ SWE_kompani_linge_NOR_is_not_socialist: "[SWE_kompani_linge_NOR_is_not_socialist] §H[NOR.GetName]§!: $KR_is_socialist_NOT$"
+
  SWE_public_health_care_idea: "Öffentliches Gesundheitssystem"
  SWE_education_reforms_idea: "Reformierte Bildung"
 
@@ -361,7 +367,7 @@
  SWE_military_summit: "Der Luftwaffen-Gipfel"
  SWE_military_summit_desc: "Bedauerlicherweise können wir es uns nicht leisten, sowohl eine Marine als auch eine Luftwaffe von Weltklasse zu unterhalten. Es sollte eine endgültige Entscheidung darüber getroffen werden, ob die Marine oder die Luftwaffe zusammen mit dem Landheer zum Hauptbestandteil des schwedischen Militärs werden soll, oder ob sie nur eine Nebenrolle zur Unterstützung des jeweils anderen übernehmen soll."
  SWE_navy_supremacy: "Vormachtstellung der Marine"
- SWE_navy_supremacy_desc: "Wir haben uns dafür entschieden, der Marine den Vorrang zu geben, die Schweden in der Vergangenheit mit Stolz gedient hat und die es uns auch in Zukunft ermöglichen wird, unseren Teil der Ostsee zu verteidigen und vielleicht sogar zu beherrschen."
+ SWE_navy_supremacy_desc: "Unabhängig davon, wo die Prioritäten bei der Finanzierung gesetzt werden, ist die Aufrechterhaltung der Marine für die nationale Sicherheit unerlässlich. Die schwedische Marine hat die Nation jahrhundertelang geschützt und wird es uns auch weiterhin ermöglichen, unseren Teil der Ostsee zu verteidigen und in Zukunft vielleicht sogar zu beherrschen."
  SWE_pansarskep: "Baltische Schlachtkreuzer"
  SWE_pansarskep_desc: "Wir sollten in 'Pansarskep'-Schlachtkreuzer investieren, um unsere Präsenz in den Meeren, die unsere Heimat umgeben, zu sichern. Diese größeren Schiffe werden sicherstellen, dass wir auch in Zukunft eine Macht sind, mit der man rechnen muss."
  SWE_swedish_cruisers: "Begleitkreuzer"
@@ -375,7 +381,7 @@
  SWE_marines_focus: "Amfibiekåren(Amphibische Korps)"
  SWE_marines_focus_desc: "Durch die Aufstellung eines speziell für die amphibische Kriegsführung ausgebildeten amphibischen Korps können wir uns einen Vorsprung auf dem Schlachtfeld in Situationen sichern, die sich normalerweise als schwierig erweisen würden, wie z.B. Flussüberquerungen und Seelandungen."
  SWE_airforce_supremacy: "Vormachtstellung der Luftwaffe"
- SWE_airforce_supremacy_desc: "Wir haben beschlossen, der Luftwaffe Vorrang einzuräumen. Unsere Marine hat uns in der Vergangenheit gute Dienste geleistet, aber wenn uns die Konflikte der letzten drei Jahrzehnte etwas gelehrt haben, dann, dass der moderne Konflikt in der Luft und nicht auf hoher See gewonnen wird."
+ SWE_airforce_supremacy_desc: "WNur wenige Jahrzehnte nach der Erfindung des Motorflugs haben Flugzeuge den Luftraum zu einem der wichtigsten Kriegsschauplätze gemacht. Unabhängig davon, wo die Prioritäten bei der Finanzierung gesetzt werden, muss Schweden eine Luftwaffe unterhalten, die in der Lage ist, seinen Luftraum zu verteidigen und seine Macht über ihn hinaus auszudehnen."
  SWE_fighter_1: "FFVS J-22"
  SWE_fighter_1_desc: "Die FFVS J-22 ist ein einmotoriges Kampfflugzeug, das speziell für die schwedischen Luftstreitkräfte entwickelt wurde und uns einen Vorteil verschafft, falls der Krieg in Nahkämpfe ausartet, bei denen andere auf minderwertige Flugzeuge zurückgreifen müssen."
  SWE_saab_focus: "Svenska Aeroplan AB"
@@ -759,7 +765,7 @@
  swe.64.a: "Schweden wird das überleben!"
 
  swe.65.t: "Die Krise ist vorbei!"
- swe.65.d: "Mit einer Arbeitslosenquote von unter 12 % hat die schwedische Wirtschaft wieder das Tempo erreicht, das sie vor den beunruhigenden Ereignissen des Schwarzen Montags hatte. Wir haben den Wirtschaftsabschwung erfolgreich überwunden!"
+ swe.65.d: "Mit einer Arbeitslosenquote von 12 % oder weniger hat die schwedische Wirtschaft wieder das Tempo erreicht, das sie vor den beunruhigenden Ereignissen des Schwarzen Montags hatte. Wir haben den Wirtschaftsabschwung erfolgreich überwunden!"
  swe.65.a: "Hurra!"
 
  swe.67.t: "Die Krisenkommission berichtet!"

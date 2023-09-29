@@ -136,7 +136,8 @@ mittleafrikan_focus: "Schwerpunktbaum von Mittelafrika"
  deutsche_ost_afrika_linie: "Deutsche Ost-Afrika Linie"
 
 ### Ideas ###
- MAF_colonial_budget_idea: "Haushalt [GetYear]\n§WSpenden von Industrieunternehmen: §G+[?MAF_offmap_civs]§!\nSpenden von Militärbetrieben: §G+[?MAF_offmap_mils]§!\nWöchentlicher Personaleinsatz: §G+[?MAF_weekly_manpower]§!§!"
+ MAF_colonial_budget_idea: "Haushalt [GetYear]"
+ MAF_colonial_budget_modifier_tt: "Spenden von Industrieunternehmen: §G+[?MAF_offmap_civs]§!\nSpenden von Militärbetrieben: §G+[?MAF_offmap_mils]§!\nWöchentlicher Personaleinsatz: §G+[?MAF_weekly_manpower]§!"
  MAF_colonial_budget_idea_desc: "Wir erhalten den größten Teil unseres Budgets durch Subventionen und Handel sowie frische Truppen aus Deutschland."
 
  MAF_colonial_budget_idea_dummy: "Haushalt [GetYear]"
@@ -1282,3 +1283,15 @@ mittel.187.a: "Wunderbar!"
  mittel.2505.t: "Die Ostafrika Askari"
  mittel.2505.d: "Während unseres kleinen Exodus nach Südwest ist es den Ostafrika Askari gelungen, Ostafrika trotz aller Widrigkeiten zusammenzuhalten. Jetzt geben sie die Kontrolle über die Kolonie wieder an uns ab."
  mittel.2505.a: "Exzellent!"
+
+ mittel.2600.t: "Die Dünne Rote Linie"
+ mittel.2600.d: "Als das Britische Empire zusammenbrach, hatten die wenigen Garnisonen in [FROM.GetName] wenig bis gar keine andere Wahl, als Schutz bei den deutschen Kolonisten nebenan zu suchen. Obwohl diese Regelung unserem britischen Kolonialverwalter nicht gefiel, wurde sie beibehalten, solange die deutschen Forderungen nicht unverschämt waren. Doch heute wurden wir von Dar-Es-Salaam informiert, dass wir Truppen an die Front schicken müssen, um gegen unsere Landsleute zu kämpfen. Diesem entsetzlichen Befehl können wir nicht nachkommen!"
+ mittel.2600.a: "Meine Treue gilt dem König! Dem Britischen Empire!"
+
+ mittel.2601.t: "[FROM.getName] Revolte!"
+ mittel.2601.d: "Truppen in der Nähe von [FROM.getName] haben Scharmützel zwischen ihnen und Britischen Garnisons- und Hilfstruppen gemeldet. Deutsche Offiziere haben versucht, ihnen zu befehlen, das Feuer einzustellen und sich zurückzuziehen, aber ohne Erfolg. Außerdem hat die Britische Kolonialverwaltung alle Forderungen nach einer Erklärung der aktuellen Ereignisse ignoriert. Es scheint, dass [FROM.getName] in einen Kriegszustand gegen uns eingetreten ist."
+ mittel.2601.a: "Sie haben ihr wahres Gesicht gezeigt."
+
+ mittel.2602.t: "[FROM.getName] kehrt zur Britischen Herrschaft zurück"
+ mittel.2602.d: "Nach dem Ausbruch des Krieges zwischen Deutschland und uns hat sich die ehemalige Britische Kolonie [FROM.getName] von ihren deutschen Oberherren losgesagt und sich wieder dem Britischen Empire angeschlossen. Obwohl ihre Rückkehr ein Erfolg ist, ist die Kolonie nicht stark genug, um der Mittelafrikanischen Bedrohung zu widerstehen. Sie braucht dringend militärische Verstärkung, wenn wir hoffen, sie vor dem deutschen Angriff schützen zu können."
+ mittel.2602.a: "Willkommen zurück!"

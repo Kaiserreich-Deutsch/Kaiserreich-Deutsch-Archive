@@ -221,7 +221,7 @@ AST_navy_default: "AN"
 
 ### Ideas ###
 AST_oversized_fleet: "Überdimensionierte Flotte"
-AST_oversized_fleet_desc: "In den chaotischen Zuständen nach dem Untergang Großbritanniens flohen viele Schiffe nach Australasien, um Zuflucht zu finden - weit mehr, als in den kargen Häfen des Landes gewartet werden konnten. Selbst wenn viele Schiffe eingemottet werden (4 Schlachtschiffe, 2 Schlachtkreuzer und fast 50 kleinere Schiffe), ist dies für Australien immer noch zu viel. Es muss eine Lösung gefunden werden."
+AST_oversized_fleet_desc: "In den chaotischen Zuständen nach dem Untergang Großbritanniens flohen viele Schiffe nach Australasien, um Zuflucht zu finden - weit mehr, als in den kargen Häfen des Landes gewartet werden konnten. Selbst wenn viele Schiffe eingemottet werden, ist dies für Australien immer noch zu viel. Es muss eine Lösung gefunden werden."
 AST_upgrading_reserve: "Verbesserung der Marinereserve"
 AST_depression_1: "Wirtschaftliche Depression"
 AST_depression_1_desc: "Die Wirtschaft Australasiens war noch nie besonders stark, und die Folgen des Weltkriegs haben sie noch viel, viel schlimmer gemacht. Es gibt keine Möglichkeiten, und die Menschen finden keine Arbeit. Die Radikalisierung beginnt im ganzen Land Wurzeln zu schlagen, da immer extremere Lösungen in Betracht gezogen werden."
@@ -553,6 +553,7 @@ AST_increase_reserves: "Erhöhung der Reserven"
 AST_increase_reserves_desc: "Es wurden Einberufungsgesetze erlassen, aber sie sind unzureichend. Im Namen unserer Verteidigung müssen wir dafür sorgen, dass sich alle an der Verteidigung von König und Land beteiligen."
 AST_anderson_doctrine: "Umsetzung der Anderson-Doktrin"
 AST_anderson_doctrine_desc: "Der ehemalige Admiral David Murray Anderson fordert seit langem ein erneutes Engagement, um das zu vollenden, wozu er 1925 nicht in der Lage war: die Rückeroberung und den Schutz der britischen Gebiete in Asien und im Pazifik. Diese 'Anderson-Doktrin' ist zwar gefährlich revanchistisch, gewinnt aber schnell an Popularität."
+AST_anderson_doctrine_non_ent_desc: "Der ehemalige Admiral David Murray Anderson fordert seit langem die Sicherung des australasiatischen Raums durch die Rückgewinnung britischer Gebiete in Asien und im Pazifik, die unter seiner Führung im Jahr 1925 verloren gingen. Obwohl diese 'Anderson-Doktrin' gefährlich revanchistisch ist, gewinnt sie schnell an Popularität."
 
 ### Decisions ###
 AST_anderson_policy_decisions: "Anderson Doktrin"

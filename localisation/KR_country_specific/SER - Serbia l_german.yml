@@ -850,6 +850,8 @@ SER_if_ENT_agrees: "Wenn §H[ENT.GetFlag] [ENT.GetNameDef]§! zustimmt:"
 
  SER_bulgaria_integration_tooltip: "Nicht integrierte bulgarische Staaten"
 
+ SER_in_faction: "ist ein unabhängiges Mitglied einer Fraktion"
+
 ### Focuses ###
 
  SER_Moralistic_Democracy: "Mit der Speerspitze in die Zukunft"
@@ -1939,7 +1941,7 @@ serbia.39.t: "[From.GetNameDefCap] Akzeptiert Allianz"
  serbia.39.d.INT: "Es scheint, dass unsere Versuche, sich der [From.GetFactionName] anzuschließen, Früchte getragen haben. Heute trafen sich Diplomaten der [From.GetNameDef] mit unseren Beamten und akzeptierten formell unsere Bitte, sich unseren ehemaligen Waffenbrüdern in ihren zukünftigen Konflikten gegen die Kapitalisten anzuschließen. In den kommenden Tagen wird ein formeller Vertrag zwischen [Root.GetNameDef] und Mitgliedern der [From.GetFactionName] unterzeichnet werden, der unsere wiederhergestellten diplomatischen Bande festigt."
 serbia.39.d.ENT: "Es scheint, dass unsere Versuche, sich der [From.GetFactionName] anzuschließen, Früchte getragen haben. Heute trafen sich Diplomaten der [From.GetNameDef] mit dem Premierminister und akzeptierten formell unsere Bitte, sich unseren ehemaligen Waffenbrüdern in ihren zukünftigen Konflikten gegen die Syndikalisten anzuschließen. In den kommenden Tagen wird ein formeller Vertrag zwischen [Root.GetNameDef] und Mitgliedern der [From.GetFactionName] unterzeichnet werden, der unsere neu geschmiedeten diplomatischen Bande festigt."
  serbia.39.d.RUS: "Es scheint, dass unsere Versuche, sich der [From.GetFactionName] anzuschließen, Früchte getragen haben.Heute trafen sich Diplomaten von [From.GetNameDef] mit unseren Beamten und akzeptierten formell unser Ersuchen, unseren kulturellen Brüdern in ihren zukünftigen Konflikten gegen den Hegemon von Europa beizustehen. In den kommenden Tagen wird ein formeller Vertrag zwischen [Root.GetNameDef] und [From.GetNameDef] unterzeichnet werden, der unsere neu geschmiedeten diplomatischen Bande festigt."
- serbia.39.d.GER: "Es scheint, dass unsere Versuche, sich der [From.GetFactionName] anzuschließen, Früchte getragen haben. Heute trafen sich Diplomaten der [From.GetNameDef] mit dem Premierminister, der unser Ersuchen offiziell annahm, sich unseren ehemaligen Waffenbrüdern in ihren künftigen Konflikten gegen die Syndikalisten anzuschließen. In den kommenden Tagen wird ein formeller Vertrag zwischen [Root.GetNameDef] und Mitgliedern der [From.GetFactionName] unterzeichnet werden, der unsere wiederhergestellten diplomatischen Bande festigt."
+ serbia.39.d.GER: "Es scheint, dass unsere Versuche, sich der [From.GetFactionName] anzuschließen, Früchte getragen haben. Heute trafen sich Diplomaten von [From.GetNameDef] mit dem Premierminister, der unser Ersuchen, unsere ehemaligen Feinde in ihren zukünftigen Konflikten gegen die Syndikalisten zu unterstützen, formell akzeptierte. In den kommenden Tagen wird ein formeller Vertrag zwischen [Root.GetNameDef] und Mitgliedern der [From.GetFactionName] unterzeichnet werden, der unsere wiederhergestellten diplomatischen Bande festigt."
  serbia.39.a: "Wieder einmal Verbündete!"
  serbia.39.b: "Hoffen wir, dass die andere Seite der Schützengräben einladender ist..."
 

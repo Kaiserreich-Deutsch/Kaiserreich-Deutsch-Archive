@@ -86,8 +86,8 @@ l_german:
  POL_kingdom_ADJ: "Polnisch"
  POL_kingdom_DEF: "Polen"
 
- POL_gengov_paternal_autocrat: "Generalgouvernement Warschau"
- POL_gengov_paternal_autocrat_DEF: "das Generalgouvernement Warschau"
+ POL_gengov: "Generalgouvernement Warschau"
+ POL_gengov_DEF: "das Generalgouvernement Warschau"
 
  POL_AUS_kingdom: "Königreich Polen"
  POL_AUS_kingdom_ADJ: "Polnisch"
@@ -752,8 +752,9 @@ l_german:
  POL_polish_control_desc: ""
 
  POL_issues_at_hand: "Die Zurückgelassenen"
+ POL_issues_at_hand_modifier_tt: "[POL_Issues_MonthlyPopulation]\n[POL_Issues_ConsumerGoods]\n[POL_Issues_MaxEfficiency]\n[POL_Issues_ResearchSpeed]"
  POL_issues_at_hand_modifier: "£pol_idea Die Zurückgelassenen"
- POL_issues_at_hand_desc: "Die polnische Gesellschaft hat mit vielen Problemen zu kämpfen - Armut, ungleicher Wohlstand, Analphabetismus -, aber das größte Problem ist das Land, auf dem es steht. Der Grundbesitz in Polen ist sehr ungleich verteilt - einige sehr große Ländereien haben die russische Vorherrschaft überlebt und kontrollieren den Agrarmarkt, während Zehntausende - vielleicht Hunderttausende - kleiner Familienbetriebe verarmt bleiben. Begrenzte Landreformen wurden versucht, blieben aber ohne Erfolg, was vor allem an der Unentschlossenheit der Regierung und fehlenden Mitteln lag. Der Bevölkerungsboom des letzten Jahrzehnts hat die Probleme nur noch weiter verschärft und sie immer näher an die Belastungsgrenze gebracht.\n--------------\n[POL_Issues_MonthlyPopulation]\n[POL_Issues_ConsumerGoods]\n[POL_Issues_MaxEfficiency]\n[POL_Issues_ResearchSpeed]"
+ POL_issues_at_hand_desc: "Die polnische Gesellschaft hat mit vielen Problemen zu kämpfen - Armut, ungleicher Wohlstand, Analphabetismus -, aber das größte Problem ist das Land, auf dem es steht. Der Grundbesitz in Polen ist sehr ungleich verteilt - einige sehr große Ländereien haben die russische Vorherrschaft überlebt und kontrollieren den Agrarmarkt, während Zehntausende - vielleicht Hunderttausende - kleiner Familienbetriebe verarmt bleiben. Begrenzte Landreformen wurden versucht, blieben aber ohne Erfolg, was vor allem an der Unentschlossenheit der Regierung und fehlenden Mitteln lag. Der Bevölkerungsboom des letzten Jahrzehnts hat die Probleme nur noch weiter verschärft und sie immer näher an die Belastungsgrenze gebracht."
 
  POL_issues_at_hand_monthly_population_text: "$MODIFIER_GLOBAL_MONTHLY_POPULATION$: [?POL_issues_at_hand_monthly_population|+=%1]"
  POL_issues_at_hand_monthly_population_text_last: "$MODIFIER_GLOBAL_MONTHLY_POPULATION$: [?POL_issues_at_hand_monthly_population|+=%1]"
@@ -2577,26 +2578,6 @@ l_german:
  poland.466.t: "Verbesserung der Alphabetisierung im ländlichen Raum"
  poland.466.d: "Historisch gesehen war die Alphabetisierungsrate im ehemals russisch kontrollierten bzw. im \"Kongress\" Polen miserabel. Lange Zeit gab es keine obligatorische Bildung, und wenn es sie gab, war sie von den Zielen der Russifizierung geprägt. Dies stand in krassem Gegensatz zu \"Deutsch-Polen\" und \"Österreich-Polen\", die beide seit dem 19. Jahrhundert relativ gute Alphabetisierungs- und organisierte Bildungssysteme hatten.\n\nDank der stark bildungsfreundlichen Politik unserer früheren Regierungen, der Einwanderung gebildeter Polen aus Weißrussland und Deutschland und der unermüdlichen Arbeit der polnischen Kulturelite nähert sich unser unabhängiges Polen endlich der Alphabetisierung von Posen oder Krakau an."
  poland.466.a: "Exzellent."
-
- poland.490.t: "Revision der [713.owner.GetAdjective]-rumänischen Grenze"
- poland.490.d: "Nach der Teilung von Galizien und Lodomerien erhielt [713.owner.GetName] das Gebiet des ehemaligen Herzogtums Bukowina. Dieses Gebiet wurde traditionell von der moldawischen Elite regiert, obwohl sich die demografischen Verhältnisse im letzten Jahrhundert stark verschoben haben. Die südlichen Teile sind immer noch stark rumänisch geprägt und würden sich uns wahrscheinlich anschließen, wenn eine Volksabstimmung durchgeführt wird. Wir könnten die [713.owner.GetAdjective]-Regierung bitten, ein regionales Referendum im Gegenzug für einige für sie vorteilhafte Handelsabkommen zuzulassen."
- poland.490.a: "Tun Sie es."
- poland.490.b: "Ignoriere es."
-
- poland.491.t: "Revision der [713.owner.GetAdjective]-rumänischen Grenze"
- poland.491.d: "Nach der Annexion von Galizien und Lodomerien haben wir die Kontrolle über das ehemalige Herzogtum Bukowina übernommen. Dieses Gebiet wurde traditionell von der moldawischen Elite regiert, obwohl sich die demografischen Verhältnisse im letzten Jahrhundert stark verschoben haben. Die südlichen Teile sind immer noch stark rumänisch geprägt und würden sich im Falle einer Volksabstimmung wahrscheinlich Rumänien anschließen. Bukarest hat uns gebeten, ein regionales Referendum im Gegenzug für einige für uns vorteilhafte Handelsabkommen zuzulassen."
- poland.491.a: "Klingt fair."
- poland.491.b: "Wir werden die gesamte Bukowina behalten!"
-
- poland.492.t: "Vereinigung mit Bukowina"
- poland.492.d: "Der [89.owner.GetAdjective] hat den Menschen in Bucovina die Möglichkeit gegeben, darüber abzustimmen, welcher Nation sie angehören wollen, und viele haben sich für uns entschieden. Im Einvernehmen haben wir einen Vertrag ausgearbeitet, der die Wünsche der Einheimischen respektiert - und [89.owner.GetName] ein recht vorteilhaftes Handelsabkommen beschert, auch wenn dieser Teil etwas verschwiegen wird."
- poland.492.a: "Willkommen, Brüder!"
-
- poland.493.t: "[713.owner.GetAdjective] lehnt Revision der Grenze ab"
- poland.493.d: "Die [713.owner.GetAdjective] Regierung hat sich geweigert, die Bukowina an uns zu verkaufen. Wir werden etwas anderes versuchen müssen."
- poland.493.a: "Eines Tages werden wir sie mit Gewalt nehmen!"
- sell_bucovina: "Vertrag von Suczawa"
- buy_bucovina: "Vertrag von Suczawa"
 
 ###### Uprising events #######
 

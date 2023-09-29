@@ -180,7 +180,7 @@ TIB_expand_tip_arsenal: "Erweitert das Tipp-Arsenal"
 TIB_expand_tip_arsenal_desc: "Das Arsenal in Tip ist seit der letzten britischen Inspektion zu einem Lager für konfiszierte Schusswaffen verkommen, anstatt ein geeignetes Werkzeug für die Verteidigung zu sein. Wenn unsere Armee Tibet gegen eine stärkere Bedrohung verteidigen soll, müssen wir Metallurgen heranziehen, die das Arsenal in Tip reinigen und reparieren."
 
 TIB_domestic_artillery: "Inländische Artillerieproduktion"
-TIB_domestic_artillery_desc: "Es ist an der Zeit, dass wir die Ratschläge der britischen Inspektoren verinnerlichen und unsere eigene Artillerie entwickeln. Die Entwürfe werden sich natürlich an den Modellen in Delhi orientieren und mit deren Munition kompatibel sein, aber die Produktion wird bei uns liegen."
+TIB_domestic_artillery_desc: "Es ist an der Zeit, dass wir die Ratschläge der britischen Inspektoren verinnerlichen und unsere eigene Artillerie entwickeln. Die Entwürfe werden sich natürlich an den Modellen in [RAJ.Capital.GetCapitalVictoryPointName] orientieren und mit deren Munition kompatibel sein, aber die Produktion wird bei uns liegen."
 
 TIB_reinforce_army: "Verstärkung der Armee"
 TIB_reinforce_army_desc: "Da unser Generalstab endlich zum Handeln angespornt wird, sind eine Reihe von übereilten Plänen in unserem Büro gelandet, von denen viele offensichtlich Kopien von in Indien und China verkauften Ausbildungshandbüchern sind. Nichtsdestotrotz sollten sie in der Lage sein, das von uns gewählte Programm zuverlässig umzusetzen."
@@ -306,7 +306,7 @@ TIB_russian_sector: "Weiße Tara oder Roter Mahatma?"
 TIB_russian_sector_desc: "Die russischen Verbündeten in Tibet werden von zwei radikalen Persönlichkeiten symbolisiert, Agvan Dorzhiev und Nicholas Roerich. Agvan, ein Tutor des Dalai Lama, behauptet, das Russische Reich sei der wahre Beschützer des Buddhismus in Asien. Roerich, der kurz nach seiner Ankunft ins Exil geschickt wurde, glaubt, dass die Sowjets diese Rolle erfüllen."
 
 TIB_qing_collaboration: "Monarchistische Zusammenarbeit"
-TIB_qing_collaboration_desc: "Tsarong Dzasas Außenpolitik ist die einer Zusammenarbeit sowohl mit der Krone in Delhi als auch in Peking. Tsarong hat seinen Status als Held der Xinhai-Revolution genutzt, um diese unorthodoxe Annäherung an die Qing voranzutreiben und den Tibetern zu versichern, dass die Qing beseitigt werden können, wenn sie Tibet verraten."
+TIB_qing_collaboration_desc: "Tsarong Dzasas Außenpolitik ist die einer Zusammenarbeit sowohl mit der Krone in [RAJ.Capital.GetCapitalVictoryPointName] als auch in Peking. Tsarong hat seinen Status als Held der Xinhai-Revolution genutzt, um diese unorthodoxe Annäherung an die Qing voranzutreiben und den Tibetern zu versichern, dass die Qing beseitigt werden können, wenn sie Tibet verraten."
 
 TIB_kmt_collaboration: "Zusammenarbeit zwischen KMT und Bharat"
 TIB_kmt_collaboration_desc: "Die Häuser der Revolution in Ostasien, Longyan und Kalkutta, werden Tibet in die Zukunft führen. Sie lassen sich nicht von imperialen Ambitionen ablenken, und ihr Engagement für die Vereinigung der Banner Asiens ist edel."
@@ -441,7 +441,7 @@ tib.28.d: "Jahrzehnte nachdem das erste Dmag-Sgar-Regiment unter dem 13. Dalai L
 tib.28.a: "Endlich"
 
 tib.29.t: "Die Junge Tibetische Partei verlässt Lhasa"
-tib.29.d: "Nach seiner Degradierung ist General Tsarong Dzasa ein Dorn im Auge von [TIB.GetLeader] gewesen. Tsarong Dzasa hat sich in Lhasa dafür eingesetzt, unsere diplomatischen Beziehungen zu den Briten in Delhi zu intensivieren, auch wenn deren Macht nach der syndikalistischen Revolution geschwunden ist. Zum Glück haben Tsarong Dzasa und seine Partei Junges Tibet nicht den blinden Lungshar unterstützt, der seine revolutionären Absichten in Kham bekannt gemacht hat und seine Blindheit verdient hat."
+tib.29.d: "Nach seiner Degradierung ist General Tsarong Dzasa ein Dorn im Auge von [TIB.GetLeader] gewesen. Tsarong Dzasa hat sich in Lhasa dafür eingesetzt, unsere diplomatischen Beziehungen zu den Briten in [RAJ.Capital.GetCapitalVictoryPointName] zu intensivieren, auch wenn deren Macht nach der syndikalistischen Revolution geschwunden ist. Zum Glück haben Tsarong Dzasa und seine Partei Junges Tibet nicht den blinden Lungshar unterstützt, der seine revolutionären Absichten in Kham bekannt gemacht hat und seine Blindheit verdient hat."
 tib.29.a: "Vielleicht müssen wir auch Dzasa blenden."
 
 tib.30.t: "Tibetische Verbesserungspartei in Shigatse gesichtet"

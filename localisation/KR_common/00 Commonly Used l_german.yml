@@ -27,12 +27,17 @@ tooltip_event_choice_or: "ODER"
 
 if_controlled_by_PREV: "wenn kontrolliert von §Y[PREV.GetNonIdeologyName]§!:"
 
-may_lead_to_war_with_FROM: "§RKann zu einem Krieg mit [From.GetNameDef] führen§!"
-may_lead_to_war_with_FROM_overlord: "§RKann zu einem Krieg mit [From.Overlord.GetNameDef] führen§!"
+may_lead_to_war_with_THIS: "§RKann zu einem Krieg mit [This.GetNameDef] führen!§!"
+may_lead_to_war_with_FROM: "§RKann zu einem Krieg mit [From.GetNameDef] führen!§!"
+may_lead_to_war_with_FROM_overlord: "§RKann zu einem Krieg mit [From.Overlord.GetNameDef] führen!§!"
+may_lead_to_war_with_FROM_FROM: "§RKann zu einem Krieg mit [From.From.GetNameDef] führen!§!"
+may_lead_to_war_with_FROM_FROM_overlord: "§RKann zu einem Krieg mit [From.From.Overlord.GetNameDef] führen!§!"
 
 state_integration_at_fifty_compliance: "Kann bei Erreichen von §H50% durchschnittlichem Gehorsam§! zum Kernstaat gemacht werden."
 state_integration_at_eighty_compliance: "Kann bei Erreichen von §H80% durchschnittlichem Gehorsam§! zum Kernstaat gemacht werden."
 state_integration_law_unlocked: "Schaltet das §H$territorial_integration$§! Besatzungsrecht frei."
+
+kill_character_tt: "stirbt."
 
 # used to generate tooltips in dockyard or naval base foci when the country doesn't own any coastal states
 random_owned_controlled_coastal_state: "Ein zufällig besetzter und kontrollierter Küstenstaat"
@@ -44,6 +49,8 @@ received_equipment_2000: "Sie erhielten §G2000§! Infanterieausrüstung aus die
 received_equipment_5000: "Sie erhielten §G5000§! Infanterieausrüstung aus diesem Land"
 
 ### Flag Loc segments ###
+has_completed_focus: "Hat den Schwerpunkt abgeschlossen §H"
+
 has_completed_decision: "Hat Entscheidung £decision_icon_small §H abgeschlossen"
 gets_event_start: "Erhält das Ereignis '§H"
 gets_event_end: "§!'."
@@ -225,6 +232,37 @@ empty: ""
 
 loc_kingdom: "Königreich"
 loc_republic: "Republik"
+
+loc_king: "König"
+loc_queen: "Königin"
+loc_duke: "Herzog"
+loc_duchess: "Herzogin"
+loc_emperor: "Emperor"
+loc_empress: "Empress"
+loc_kaiser: "Kaiser"
+loc_kaiserin: "Kaiserin"
+loc_tsar: "Zar"
+loc_tsarina: "Zarin"
+loc_hetman: "Hetman"
+loc_hetmanka: "Hetmanka"
+loc_emir: "Emir"
+loc_emira: "Emira"
+loc_sultan: "Sultan"
+loc_sultana: "Sultana"
+loc_shah: "Shah"
+loc_shahbanu: "Shahbanu"
+loc_khan: "Khan"
+loc_khatun: "Khatun"
+loc_nizam: "Nizam"
+loc_mwami: "Mwami"
+loc_boqor: "Boqor"
+loc_boqorad: "Boqorad"
+
+loc_pope: "Papst"
+loc_catholicos: "Katholikos"
+loc_imam: "Imam"
+
+loc_regent: "Regent"
 
 loc_royal: "königlich"
 loc_royal_cap: "Königlich"
