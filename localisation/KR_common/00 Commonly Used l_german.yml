@@ -25,6 +25,9 @@ tooltip_apply_one_of_effects_depending_on_ruling_party: "§gWendet einen der fol
 tooltip_event_allows_choice: "Das Ereignis ermöglicht die Auswahl einer der folgenden Möglichkeiten:"
 tooltip_event_choice_or: "ODER"
 
+#scoped to the country joining
+tooltip_joins_faction: "Tritt der Fraktion bei."
+
 if_controlled_by_PREV: "wenn kontrolliert von §Y[PREV.GetNonIdeologyName]§!:"
 
 may_lead_to_war_with_THIS: "§RKann zu einem Krieg mit [This.GetNameDef] führen!§!"

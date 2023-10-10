@@ -34,9 +34,9 @@ KR_welcome_splash_tab_3_content: "§YBitte beachten Sie Folgendes:§!\n£white_d
 KR_welcome_splash_tab_3_content_0: "Kaiserreich legt Beschränkungen für diplomatische Aktionen wie §Rfrühe Kriege§!, §RFraktionen§! und §RAutonomiestufen§! fest.\nKaiserreich enthält §CDivisionsgrenzen§! und eine §CDemobilisierung§! Mechanik, um die Spielbarkeit im späteren Spiel zu verbessern.\nBei §YFriedenskonferenzen§! sollten Sie darauf achten, dass Sie alle Staaten annektieren. Sie können später Länder aus den annektierten Gebieten durch §CEntscheidungen§! entlassen.\nIm Menü §YIndividuelle Spielregeln§! können Sie viele Optionen einstellen, darunter §CLänderpfade§!, §CVorrang für Spieler bei Friedenskonferenzen§!, und das §CStaat und Land Transfer Tool§!.\nDas £kr_options_icon  §YOptionsmenu im Spiel§! wird durch einen Klick auf das Symbol in der rechten oberen Ecke geöffnet. Hier können Sie die §CHäufigkeit der Nachrichtenereignisse§! einstellen und die §CDynamische Umbenennung§! von Staaten und Siegpunkten aktivieren.\n§YDieses Fenster§! kann jederzeit wieder geöffnet werden, indem Sie auf das Symbol £help_button  oben rechts klicken."
 
 ## TAB 4 ##
-KR_CURRENT_VERSION: "0.26.1"
+KR_CURRENT_VERSION: "0.26.2"
 KR_welcome_splash_tab_4_header: "§YWillkommen bei Kaiserreich BETA $KR_CURRENT_VERSION$ "Blue Sky, White Sun"\n\n\n\n\n\nLiebevoll gestaltet vom Kaiserreich Team:§!"
-KR_welcome_splash_tab_4_content: "Alpinia  ·  Arvidus  ·  Augenis  ·  Blackfalcon501  ·  Blackleaf  ·  Carmain  ·  Cazadorian\nChazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Cody  ·  Conchobhar  ·  DuoDex  ·  El Daddy\nfalling_robin  ·  Fedex  ·  Flamefang  ·  Gaboemi  ·  Hamfast  ·  hildagrim  ·  Ido  ·  Igor050301\nJazzyHugh  ·  Jeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  Kano  ·  katieluka\nKennedy  ·  kergely  ·  KFateweaver  ·  Klyntar King  ·  Krčo  ·  Luwofe  ·  Matoro\nMcOmghall  ·  MrMano  ·  ~mw~ // miwaco.  ·  NukeGaming  ·  Pelmen  ·  PPsyrius\nRagnoStrangeros  ·  Rnk  ·  Shiroe  ·  Sonny O'Cad  ·  SuperGreenBeans  ·  suzuha\nThe Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko\nHydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc  ·  Wolf  ·  Silent_Wolf  ·  Alex S\nDerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier  ·  Itzy"
+KR_welcome_splash_tab_4_content: "Alpinia  ·  Arvidus  ·  Augenis  ·  Blackfalcon501  ·  Blackleaf  ·  Carmain  ·  Cazadorian\nChazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Cody  ·  Conchobhar  ·  DuoDex  ·  El Daddy\nfalling_robin  ·  Fedex  ·  Flamefang  ·  Gaboemi  ·  Hamfast  ·  hildagrim  ·  Ido\nIgor050301  ·  JazzyHugh  ·  Jeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  Kano  ·  katieluka  ·  Kennedy\nkergely  ·  KFateweaver  ·  Klyntar King  ·  Krčo  ·  Luwofe  ·  Matoro  ·  McOmghall\nMrMano  ·  ~mw~ // miwaco.  ·  NukeGaming  ·  Pelmen  ·  PPsyrius  ·  Purple Jinjo\nRagnoStrangeros  ·  Rnk  ·  Shiroe  ·  Shōta  ·  Sonny O'Cad  ·  SuperGreenBeans  ·  suzuha\nThe Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko\nHydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc  ·  Wolf  ·  Silent_Wolf  ·  Alex S\nDerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier  ·  Itzy"
 KR_welcome_splash_tab_4_content_0: "Unser Team hat an allen Ecken und Enden der Welt hart gearbeitet, um euch diese neue Version zu präsentieren, und wir fühlen uns sehr geehrt, dass ihr sie spielen wollt.\n\nWir hoffen, Sie haben genauso viel Spaß beim Spielen von Kaiserreich wie wir beim Erstellen!"
  
 ### Career Profile ###
@@ -248,6 +248,17 @@ cores_claims_map_mode_tooltip_potential_core_50: "§Y[FROM.GetName]§! ist ein �
 cores_claims_map_mode_tooltip_potential_core_80: "§Y[FROM.GetName]§! ist ein §Ypotenzieller Kernstaat§! von §Y[ROOT.GetNameWithFlag]§!. Es wird zu einem Kernstaat, sobald §Y80%§! Gehorsam erreicht wurde."
 cores_claims_map_mode_tooltip_claim: "§Y[FROM.GetName]§! ist §Ybeansprucht§! durch §Y[ROOT.GetNameWithFlag]§!."
 cores_claims_map_mode_tooltip_owned: "§Y[FROM.GetName]§! ist §Ybesetzt§! durch §Y[ROOT.GetNameWithFlag]§!."
+
+MAPMODE_OPINION_MAP_MODE: "§Y$MAPMODE_OPINION_MAP_MODE_NAME$§! Kartenmodus"
+MAPMODE_OPINION_MAP_MODE_NAME: "Meinung"
+MAPMODE_OPINION_MAP_MODE_DESCRIPTION: "Zeigt die Meinung anderer Länder über uns."
+
+opinion_map_mode_tooltip: "§Y[FROM.controller.GetNameWithFlag]§!"
+opinion_map_mode_tooltip_delayed: "[FROM.GetOpinionMapModeTooltip]"
+
+opinion_map_mode_tooltip_delayed2: "ROOT ist [ROOT.GetName]\nFROM ist [FROM.GetName]\nFROM.FROM ist [FROM.FROM.GetName]"
+
+opinion_map_mode_tooltip_delayed_desc: "Ihre Meinung über uns: [?FROM.controller:opinion@ROOT|+=0]\nUnsere Meinung über sie: [?ROOT.opinion@FROM.controller|+=0]"
 
 ### World Tension ##
 AL_avricourt_shelled: "Dorf Avricourt beschossen von §Y[GER.GetNonIdeologyNameDef]§!"
@@ -466,6 +477,9 @@ command_economy: "Kommando Ökonomie"
 asked_to_join: "Die Beteiligung wurde von einer anderen Nation beantragt."
 generic_research_advances: "Forschungsfortschritte"
 
+generic_neutral_foreign_policy: "Neutrale Außenpolitik"
+generic_neutral_foreign_policy_desc: "Ob aus Pazifismus, Notwendigkeit oder einfachem Eigeninteresse, die außenpolitischen Ziele dieses Staates sind derzeit von dem Wunsch geprägt, ausländische Verwicklungen zu vermeiden. Die militärischen Aktivitäten konzentrieren sich auf defensive Überlegungen, und alle Aktionen auf der internationalen Bühne sind darauf ausgerichtet, sich so wenige Feinde wie möglich zu machen."
+
 increase_state_category_by_one_level_tt: "Dies ermöglicht §G1§! zusätzlichen Bauplatz.\n"
 increase_state_category_by_two_levels_tt: "Dies ermöglicht §G2§! zusätzlichen Bauplatz.\n"
 decrease_state_category_by_one_level_tt: "Dies §Rentfernt§! einen Bauplatz vom Staat.\n"
@@ -578,6 +592,9 @@ masterful_blitz_effect: "Ermöglicht Taktik: §Y$tactic_masterful_blitz$§!"
 
 tech_anti-partisan: "Aufstandsbekämpfungstaktiken"
 tech_anti-partisan_effect: "Ermöglicht §H$tech_anti-partisan$§!\n§H$infantry$§!\n      $STAT_ARMY_SUPRESSION_FACTOR$§G+15%§!\n§H$cavalry$§!\n      $STAT_ARMY_SUPRESSION_FACTOR$§G+15%§!\n"
+
+tech_improved_logistics: "Verbesserte Logistikkompanie"
+tech_improved_logistics_effect: "Schaltet §H$tech_improved_logistics$\n$logistics_company$§! frei\n      Nachschubbedarf: [?-.10|=-%0]\n      Treibstoffverbrauch: [?-.05|=-%0]"
 
 ### Units ###
 rangers: "Ranger Kompanie"

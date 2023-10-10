@@ -6833,16 +6833,90 @@ MON_infantry_equipment_2: "PPSh-41"
 MON_infantry_equipment_2_short: "PPSh-41"
 MON_infantry_equipment_3: "Pistolet-Pulemyet Shpagina mod.2"
 MON_infantry_equipment_3_short: "PPSh-2"
+MON_infantry_at: "PTRS-41"
+MON_infantry_at2: "RPG-42"
+MON_support_weapons: "Maxim-Tokarev obr.1924 & Dyakonov 40,5mm GV"
+MON_support_weapons2: "Degtyarev DP-29M & 82mm BM obr.1938"
+MON_support_weapons3: "Degtyarev DS-39 & Taubin 40,5mm AG-2"
+MON_support_weapons4: "Goryunov SG-43 & 120mm PM obr.1943"
+MON_night_vision: "Ts-3"
+MON_night_vision2: "NSP-2"
 
-MON_artillery_equipment_1: "75mm Hanyang Xuantong Type 13 Field Gun"
-MON_artillery_equipment_1_short: "Hanyang Type 13"
-MON_artillery_equipment_1_desc: "Als die meistproduzierte Artillerie der Beiyang-Ära wurde sie in vielen Armeen Chinas eingesetzt.\n\nNach der Restauration der Qing kündigte die neue Regierung an, dass sie in 'Xuantong Typ 13' umbenannt werden würde, aber die republikanischen Streitkräfte bezeichnen sie immer noch als 'Xinhai Typ 10'."
+#Motorised
+MON_motorized_equipment_1: "AMO mod.6"
+MON_motorized_equipment_1_short: "AMO-6"
 
-MON_anti_air_equipment_1: "57mm Shanghai M1927 Gun"
-MON_anti_air_equipment_1_short: "Shanghai M1927 Gun"
+MON_motorized_rocket_equipment_1: "Boyevaya Mashina M-13-16"
+MON_motorized_rocket_equipment_1_short: "BM-13"
 
-MON_anti_tank_equipment_1: "37mm Hanyang Xuantong Type 21 Flat Trajectory Gun"
-MON_anti_tank_equipment_1_short: "Hanyang Type 21"
+MON_mechanized_equipment_1: "Bronevoy Avtomobil Lebedev-6 obr.39"
+MON_mechanized_equipment_1_short: "BA-39"
+MON_mechanized_equipment_2: "Tyazhely Bronetransportyer obr.1942"
+MON_mechanized_equipment_2_short: "TB-42"
+MON_mechanized_equipment_3: "Bronetransportyer mod.3"
+MON_mechanized_equipment_3_short: "B-3"
+
+MON_amphibious_mechanized_equipment_1: "Plavayushchiy Broneavtomobil mod.2"
+MON_amphibious_mechanized_equipment_1_short: "PB-2"
+MON_amphibious_mechanized_equipment_2: "Plavayushchiy Bronetransportyer obr.1943"
+MON_amphibious_mechanized_equipment_2_short: "PB-43"
+
+#Armoured Car
+MON_gw_armored_car_equipment: "Bronevoy Avtomobil obr.27"
+MON_gw_armored_car_equipment_short: "BA-27"
+MON_armored_car_equipment_1: "Bronevoy Avtomobil mod.10"
+MON_armored_car_equipment_1_short: "BA-10"
+MON_armored_car_equipment_2: "Bronevoy Avtomobil NAZ-64"
+MON_armored_car_equipment_2_short: "BA-64"
+MON_armored_car_at_equipment: "Kolyesnaya Samokhodnaya Pushka NAZ-76"
+MON_armored_car_at_equipment_short: "KSP-76"
+
+#Trains
+# Soviet Class FD # Der Name bedeutet "Dampflokomotive Typ 1":
+MON_train_equipment_1: "Paravoz Tip 1"
+MON_train_equipment_1_short: "Type P1"
+MON_train_equipment_1_desc: "Die 1931 entworfene Baureihe P1 ersetzte viele der in Amerika gebauten Lokomotiven der Klasse Ye, die auf dem russischen Streckennetz eingesetzt wurden. Im Jahr 1936 wurde die Lokomotive mit einem Überhitzer ausgestattet, um die Leistung zu erhöhen, wodurch die Variante P1-21 entstand. Die solide Leistung der Baureihe führte schnell zu massiven Aufträgen und wurde zur beliebtesten Lokomotive auf dem russischen Streckennetz, so dass Werkstätten ausschließlich für die Produktion dieses Typs errichtet wurden."
+# Soviet Class L # Der Name bedeutet "Februar-Straßen-Dampflokomotive":
+MON_train_equipment_2: "Paravoz Fevralskaya doroga"
+MON_train_equipment_2_short: "Class F"
+MON_train_equipment_2_desc: "Die im Kolomna-Werk entwickelten und nach der Februar-Eisenbahnlinie zwischen Moskau und Petrograd benannten Lokomotiven der Baureihe F sind wirtschaftlich und für den Einsatz auf dem ausgedehnten russischen Eisenbahnnetz geeignet. Durch den Verzicht auf einen Schleppradsatz und komplizierte Bauteile war die Serienproduktion des Typs schneller und billiger als bei der Baureihe P1."
+# PR-43 armoured train :
+MON_train_equipment_3: "Broneparovoz Obrezets 1940"
+MON_train_equipment_3_short: "BPR-40"
+MON_train_equipment_3_desc: "Die gepanzerten Züge der Klasse BP-35 wurden entwickelt, um die Infanterie bei der Sicherung der Bahnstrecken zu unterstützen, die eine wichtige Verbindung zwischen dem riesigen Russland darstellen. Angesichts des absehbaren Krieges wurden neue Klassen gepanzerter Züge und Lokomotiven entwickelt: der PR-40 Panzerzug und die BPR-40 Lokomotive. Der Zug war mit einer drei Zoll dicken Panzerung versehen und verfügte über getrennte Panzerabteile für Flugabwehr- und Panzerabwehrkanonen. Er erforderte eine Besatzung von bis zu 200 Mann und wog über 350 Tonnen."
+
+# TM-3-12 :
+MON_railway_gun_equipment_1: "Transportyer Artilleriysky Tip 3 Kalibr 12"
+MON_railway_gun_equipment_1_short: "TA-3-12"
+MON_railway_gun_equipment_1_desc: "Überzählige Marinegeschütze wurden auf Eisenbahnwaggons montiert und in den Dienst der russischen Armee gestellt."
+
+#Artillery
+
+MON_artillery_equipment_1: "76mm obr.1902/1930"
+MON_artillery_equipment_1_short: "76mm obr.1902/1930"
+MON_artillery_equipment_2: "107mm obr.1940"
+MON_artillery_equipment_2_short: "107mm obr.1940"
+MON_artillery_equipment_3: "152mm MT-1 obr.1944"
+MON_artillery_equipment_3_short: "152mm MT-1"
+
+MON_anti_tank_equipment_1: "45mm 19-K obr.1931"
+MON_anti_tank_equipment_1_short: "45mm 19-K"
+MON_anti_tank_equipment_2: "57mm AMO-2 obr.1940"
+MON_anti_tank_equipment_2_short: "57mm AMO-2"
+MON_anti_tank_equipment_3: "100mm OB-3 obr.1943"
+MON_anti_tank_equipment_3_short: "100mm OB-3"
+
+MON_anti_air_equipment_1: "37mm 61-K obr.1932"
+MON_anti_air_equipment_1_short: "37mm 61-K"
+MON_anti_air_equipment_2: "85mm 52-K obr.1938"
+MON_anti_air_equipment_2_short: "85mm 52-K"
+MON_anti_air_equipment_3: "100mm VT-19 obr.1943"
+MON_anti_air_equipment_3_short: "100mm VT-19"
+
+MON_rocket_artillery_equipment_1: "132mm M-8-24"
+MON_rocket_artillery_equipment_1_short: "132mm M-8-24"
+MON_rocket_artillery_equipment_2: "302mm M-20-12"
+MON_rocket_artillery_equipment_2_short: "302mm M-20-12"
 
 ###
 ### Morocco ###
@@ -10958,11 +11032,11 @@ USA_mechanized_equipment_3_desc: "Der M9 Carrier wurde auf dem Fahrgestell des M
 #CCKW T27:
 USA_motorized_rocket_equipment: "GMC ACKW, M14"
 USA_motorized_rocket_equipment_short: "ACKW 'Xylophone'"
-USA_motorized_rocket_equipment_desc: "Der ACKW-LKW mit dem darauf montierten M14-Raketenwerfer (Modifikation des M12-Raketenwerfers mit der Möglichkeit der Montage auf LKWs), allgemein als 'Xylophon' bekannt, ist ein Modell, das entwickelt wurde, um die schlechte Genauigkeit des M12 durch den Einbau eines zusätzlichen Raketenwerfers zu verbessern. Obwohl er nach Ansicht der Soldaten immer noch nicht sehr effektiv ist, hat sich der M14 bei den Tests gut bewährt und wurde als mobiler Standardraketenwerfer der US-Armee akzeptiert."
+USA_motorized_rocket_equipment_desc: "Der ACKW-Lastwagen mit dem M14-Raketenwerfer - eine Modifikation des M12-Raketenwerfers mit der Möglichkeit der Montage auf Lastwagen - auf dem Dach montiert. Er ist allgemein als 'Xylophon' bekannt und wurde entwickelt, um die schlechte Treffsicherheit des M12 durch einen zusätzlichen Raketenwerfer zu verbessern. Obwohl der M14 nach Ansicht der Soldaten immer noch nicht sehr nützlich war, erwies er sich bei Testversuchen als effektiv und wurde als mobiler Standard-Raketenwerfer der US-Armee akzeptiert."
 #CCKW T27:
 USA_motorized_rocket_equipment_1: "GMC ACKW, M14"
 USA_motorized_rocket_equipment_1_short: "ACKW 'Xylophone'"
-USA_motorized_rocket_equipment_1_desc: "Der ACKW-LKW mit dem darauf montierten M14-Raketenwerfer (Modifikation des M12-Raketenwerfers mit der Möglichkeit der Montage auf LKWs), allgemein als 'Xylophon' bekannt, ist ein Modell, das entwickelt wurde, um die schlechte Genauigkeit des M12 durch den Einbau eines zusätzlichen Raketenwerfers zu verbessern. Obwohl er nach Ansicht der Soldaten immer noch nicht sehr effektiv ist, hat sich der M14 bei den Tests gut bewährt und wurde als mobiler Standardraketenwerfer der US-Armee akzeptiert."
+USA_motorized_rocket_equipment_1_desc: "Der ACKW-Lastwagen mit dem M14-Raketenwerfer - eine Modifikation des M12-Raketenwerfers mit der Möglichkeit der Montage auf Lastwagen - auf dem Dach montiert. Er ist allgemein als 'Xylophon' bekannt und wurde entwickelt, um die schlechte Treffsicherheit des M12 durch einen zusätzlichen Raketenwerfer zu verbessern. Obwohl der M14 nach Ansicht der Soldaten immer noch nicht sehr nützlich war, erwies er sich bei Testversuchen als effektiv und wurde als mobiler Standard-Raketenwerfer der US-Armee akzeptiert."
 
 #Amphibious
 

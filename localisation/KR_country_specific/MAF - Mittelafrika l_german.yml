@@ -301,10 +301,6 @@ MAF_Mau_Mau_Revolt: "§H[Root.GetNameDef]§! erklärt den Krieg gegen §H$KEN_KI
 
 MAF_Bush_War_start_tt: "§RDer Bush-Krieg wird beginnen.§!\n§H[MAF.GetNameDef]§! erklärt Krieg gegen §H$POR_$§!."
 
-MAF_Bush_War_MAF_victory_requirement_tt: "§PMittelafrika§! §L wird gewinnen, wenn es mindestens drei der folgenden Staaten kontrolliert, von§! §CPortugal§!§L:§! §g[540.GetName], [544.GetName], [917.GetName]§! §Land§! §g[950.GetName].§!"
-
-MAF_Bush_War_POR_victory_requirement_tt: "§CPortugal§! §L wird gewinnen, wenn es mindestens drei der folgenden Staaten kontrolliert, von§! §PMittelafrika§!§L:§! §g[813.GetName], [871.GetName], [879.GetName]§! §Land§! §g[958.GetName]§!, §Loder wir sind§! §G40%§! §oder mehr in Richtung Kapitulation.§!"
-
 MAF_Bush_War_POR_advantage_tt: ""§Chat derzeit einen Vorteil."
 MAF_Bush_War_MAF_advantage_tt: "§PMittelafrika§! hat derzeit einen Vorteil."
 MAF_Bush_War_NO_advantage_tt: "§LNiemand§! hat einen Vorteil."
@@ -1288,10 +1284,10 @@ mittel.187.a: "Wunderbar!"
  mittel.2600.d: "Als das Britische Empire zusammenbrach, hatten die wenigen Garnisonen in [FROM.GetName] wenig bis gar keine andere Wahl, als Schutz bei den deutschen Kolonisten nebenan zu suchen. Obwohl diese Regelung unserem britischen Kolonialverwalter nicht gefiel, wurde sie beibehalten, solange die deutschen Forderungen nicht unverschämt waren. Doch heute wurden wir von Dar-Es-Salaam informiert, dass wir Truppen an die Front schicken müssen, um gegen unsere Landsleute zu kämpfen. Diesem entsetzlichen Befehl können wir nicht nachkommen!"
  mittel.2600.a: "Meine Treue gilt dem König! Dem Britischen Empire!"
 
- mittel.2601.t: "[FROM.getName] Revolte!"
- mittel.2601.d: "Truppen in der Nähe von [FROM.getName] haben Scharmützel zwischen ihnen und Britischen Garnisons- und Hilfstruppen gemeldet. Deutsche Offiziere haben versucht, ihnen zu befehlen, das Feuer einzustellen und sich zurückzuziehen, aber ohne Erfolg. Außerdem hat die Britische Kolonialverwaltung alle Forderungen nach einer Erklärung der aktuellen Ereignisse ignoriert. Es scheint, dass [FROM.getName] in einen Kriegszustand gegen uns eingetreten ist."
+ mittel.2601.t: "[FROM.GetName] Revolte!"
+ mittel.2601.d: "Truppen in der Nähe von [FROM.GetName] haben Scharmützel zwischen ihnen und Britischen Garnisons- und Hilfstruppen gemeldet. Deutsche Offiziere haben versucht, ihnen zu befehlen, das Feuer einzustellen und sich zurückzuziehen, aber ohne Erfolg. Außerdem hat die Britische Kolonialverwaltung alle Forderungen nach einer Erklärung der aktuellen Ereignisse ignoriert. Es scheint, dass [FROM.GetName] in einen Kriegszustand gegen uns eingetreten ist."
  mittel.2601.a: "Sie haben ihr wahres Gesicht gezeigt."
 
- mittel.2602.t: "[FROM.getName] kehrt zur Britischen Herrschaft zurück"
- mittel.2602.d: "Nach dem Ausbruch des Krieges zwischen Deutschland und uns hat sich die ehemalige Britische Kolonie [FROM.getName] von ihren deutschen Oberherren losgesagt und sich wieder dem Britischen Empire angeschlossen. Obwohl ihre Rückkehr ein Erfolg ist, ist die Kolonie nicht stark genug, um der Mittelafrikanischen Bedrohung zu widerstehen. Sie braucht dringend militärische Verstärkung, wenn wir hoffen, sie vor dem deutschen Angriff schützen zu können."
+ mittel.2602.t: "[FROM.GetName] kehrt zur Britischen Herrschaft zurück"
+ mittel.2602.d: "Nach dem Ausbruch des Krieges zwischen Deutschland und uns hat sich die ehemalige Britische Kolonie [FROM.GetName] von ihren deutschen Oberherren losgesagt und sich wieder dem Britischen Empire angeschlossen. Obwohl ihre Rückkehr ein Erfolg ist, ist die Kolonie nicht stark genug, um der Mittelafrikanischen Bedrohung zu widerstehen. Sie braucht dringend militärische Verstärkung, wenn wir hoffen, sie vor dem deutschen Angriff schützen zu können."
  mittel.2602.a: "Willkommen zurück!"

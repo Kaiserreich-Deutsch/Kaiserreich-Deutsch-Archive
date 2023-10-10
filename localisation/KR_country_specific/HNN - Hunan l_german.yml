@@ -58,6 +58,9 @@ HNN_he_long_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g22. März 1
 HNN_teng_daiyuan: "Teng Daiyuan"
 HNN_teng_daiyuan_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g2. November 1904, im Kreis Mayang, Hunan, Qing-Reich§!\n§YMilitärkarriere:§! §gTeng Daiyuan, ein Schüler der Provinzschule von Changde in Hunan, trat im Frühjahr 1925, am Vorabend der Nordexpedition, der Kuomintang bei. Als eifriger Sozialist und Mitglied der Syndikalistischen Partei Chinas wurde er Vorsitzender des Bauernverbands der Provinz Hunan. Das Scheitern der Nordexpedition trieb den jungen Offizier in den Untergrund, wo er kurzzeitig Widerstand leistete, bevor er ein allgemeines Amnestieangebot annahm und sich der lokalen Armee von Hunan unter Peng Dehuai anschloss. Als vielversprechender Offizier erlangte Teng trotz seiner früheren Verbindungen zu revolutionären Gruppen regionale Bekanntheit. Teng ist auch als Angehöriger des Miao-Volkes, einer Minderheit in Hunan, bekannt.§!"
 
+HNN_ye_kaixin: "Ye Kaixin"
+HNN_ye_kaixin_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1885, im Kreis Ningxiang, Hunan, Qing-Reich§!\n§YMilitärkarriere:§! §gYe Kaixin wurde in Hunan geboren und wuchs dort auf. 1903 besuchte er die Jiangnan-Universität in Wuxi. Nach seinem Abschluss kehrte er nach Hunan zurück und befehligte 1913 die zweite Division der Hunan-Armee. In dieser Zeit lernte er Zhao Hengti kennen und wurde ein enger Vertrauter von ihm. 1923 übertrug Zhao Ye das Kommando über die dritte Division in Hunan. Als die nördliche Expedition nach Hunan kam, war es Ye Kaixin, der seine Armee sofort gegen Tang Shengzhi führte, aber aus Hunan vertrieben wurde und mit Zhao zu Wu Peifu und den Zhili floh. Wu machte Ye zum Oberbefehlshaber der Armee von Hunan, und als sich die nördliche Expedition zu Gunsten der Zhili wandte, waren es Yes Truppen, die Changsha zurückeroberten und es damit offiziell unter die Kontrolle der Zhili brachten, aber es war ein offenes Geheimnis, dass Ye Zhao wieder an die Macht in Hunan bringen wollte.\n\nZum Glück für den General beschloss Wu Peifu, Zhao zum Gouverneur von Hunan zu ernennen, und die zivile Kontrolle über die Provinz wurde bald wiederhergestellt, als die KMT-Truppen vertrieben wurden. Obwohl er nicht der größte Fan von Sun Chuanfang ist, akzeptierte er den Beitritt Hunans zur Liga der Acht Provinzen, obwohl er es vorzog, seine Armee an der Ostgrenze zu halten, da er nicht darauf vertraute, dass Sun die Autonomie Hunans akzeptieren oder den Aufstand in der Min-Gan-Zone niederschlagen würde.\n\nSeit fast einem Jahrzehnt ist Ye Kaixin mit dem Status Quo zufrieden, er ist loyal zu Zhao und freundschaftlich mit den Nördlichen Zhili verbunden. Er ist einer der wichtigsten Generäle, auf die sich Zhao unbesorgt verlassen kann, und genießt die Unterstützung des Gouverneurs von Hunan.§!"
+
 HNN_hu_shuhua: "Hu Shuhua"
 HNN_luo_shujia: "Luo Shujia"
 HNN_zhang_renmin: "Zhang Renmin"
@@ -967,6 +970,14 @@ hnn.114.t: "Zhao Hengti gewinnt die Wahlen in Hunan"
 hnn.114.d_gxc: "Gouverneur Zhao Hengti hat die jüngsten Provinzwahlen in Hunan gewonnen. Das ist eine gute Nachricht für uns, denn Zhaos Wahlsieg bedeutet auch, dass er sein Bekenntnis zu seinen föderalen Werten bekräftigt hat und das, was er für die besten Interessen der Nation hält, über seine früheren Loyalitäten zu Wu Peifu stellt."
 hnn.114.d_szc: "Gouverneur Zhao Hengti hat die jüngsten Provinzwahlen in Hunan gewonnen. Dies hat die Föderalisten gestärkt, denn Zhaos Wahlsieg bedeutet auch, dass er sein Bekenntnis zu seinen föderalen Werten bekräftigt hat und das, was er für die besten Interessen der Nation hält, über seine früheren Loyalitäten zu Wu Peifu stellt."
 hnn.114.a: "Es ist selten, dass ein Mann seinen Prinzipien folgt."
+
+hnn.115.t: "Ye Kaixin flieht"
+hnn.115.d: "Einer von Zhaos loyalsten Befehlshabern, Ye Kaixin, ist aus Hunan geflohen, wahrscheinlich aufgrund seiner erbitterten Rivalität mit Tang Shengzhi. Die beiden trafen während der Nordexpedition zweimal auf entgegengesetzten Seiten aufeinander. In dem Glauben, dass Tang die Rechnung für Yes Rückeroberung von Changsha begleichen wollte, floh der General aus Changsha und Hunan."
+hnn.115.a: "Wir brauchen sowieso keine Deserteure!"
+
+hnn.116.t: "Ye Kaixin trifft in Beijing ein"
+hnn.116.d: "Ye Kaixin ist aus Hunan geflohen, nachdem Zhao Hengti dort seine Macht verloren hat. Aus Angst vor der Vergeltung von Tang Shengzhi für seine Handlungen während der nördlichen Expedition hat er seine anstrengenden Zhili-Bindungen erneuert und ist in Peking angekommen, um unseren Schutz zu suchen."
+hnn.116.a: "Dein Kampf ist noch nicht vorbei!"
 
 ### Cosmetic Tags ###
 HNN: "Hunan"

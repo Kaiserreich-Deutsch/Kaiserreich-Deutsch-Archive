@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 ### Parties ###
 SAF_totalist_party: "ICU"
@@ -964,14 +964,14 @@ SAF_zimbabwe_modifier: "§HRhodesien§!:\n   $MODIFIER_LOCAL_BUILDING_SLOTS_FACT
 SAF_removed_if_advisor_removed: "§YDieser Modifikator wird deaktiviert, wenn $ZIM_godfrey_martin_huggins$ nicht mehr als Berater tätig ist§!"
 
 ### Decisions ###
-SAF_Decision_Group_Nuweveld: "Das Nuweveld Projekt"
-SAF_Decision_Group_Nuweveld_desc: "Das wilde Land Bechuanaland ist von der Zivilisation weitgehend unberührt geblieben, nicht zuletzt, weil sich das Volk der Tswana den Schutz des Vereinigten Königreichs gesichert hat. Nun hat die südafrikanische Regierung beschlossen, sich von diesen Vereinbarungen zu distanzieren und das Bechuanaland für weiße Siedler zu öffnen: §G[?SAF_whites_in_botswana]§!\nAttraktivität für Siedler: [SAF_getSettlerAttractiveness]\nAufstandsrisiko: [SAF_getTswanaInsurgency]"
-SAF_Decision_Group_Boer_War: "Der dritte Burenkrieg"
-SAF_Decision_Group_Boer_War_desc: "Wieder einmal sind die Interessen der britischen Kolonisten und der afrikanischen Nachfahren der niederländischen Kolonisten Südafrikas aufeinandergeprallt, und Südafrika steht wieder einmal in Flammen. In einer grausamen Umkehrung des Schicksals sind es nun die Briten, die sich von der von ihnen geschaffenen Herrschaft losgesagt haben, die unter dem Einfluss der afrikanischen Nationalisten versucht, den imperialen Schoß zu verlassen."
-SAF_Decision_Group_Smuts_Doctrine: "Ryneveld Doktrin"
-SAF_Decision_Group_Smuts_Doctrine_desc: "Die von den Generälen Jan Smuts und Pierre van Ryneveld formulierte Ryneveld Doktrin besagt, dass die ehemaligen Kolonien des Vereinigten Königreichs, die nach ihrem Zusammenbruch am Ende des Weltkriegs verloren gingen, nicht in Anarchie belassen werden dürfen, bis sich eine kohärente einheimische Kraft bildet, die die westliche Zivilisation in Südafrika bedrohen könnte. Im Namen unserer nationalen Sicherheit ist es unerlässlich, dass wir diese Kolonien zurückerhalten und unsere Herrschaft über das südliche und östliche Afrika ausweiten."
-SAF_fix_black_monday_category: "Reaktion auf den Schwarzen Montag"
-SAF_fix_black_monday_category_desc: "In den 1920er Jahren entschied sich die südafrikanische Regierung, ihre wirtschaftlichen Beziehungen zum Kaiserreich zu intensivieren, in der Hoffnung, die schlechten Auswirkungen der Weltwirtschaftskrise zu lindern - mit nur begrenztem Erfolg. Nun, da Deutschland von seiner eigenen nationalen Krise betroffen ist, haben sich die Auswirkungen schnell auf den südafrikanischen Produktionssektor ausgeweitet. Nach nur wenigen Jahren relativen Wohlstands liegt die Wirtschaft des Landes wieder einmal in Trümmern: [saffaBudgetAmount] SA Pfund.\nInflation: [?saf_var_inflation|%-0].\nArbeitslosigkeit: [?saf_var_unemployment|%R0].\nVerbundene Schulden: [saffaDebtAmount] SA Pfund."
+SAF_nuweveld_decisions: "Das Nuweveld Projekt"
+SAF_nuweveld_decisions_desc: "Das wilde Land Bechuanaland ist von der Zivilisation weitgehend unberührt geblieben, nicht zuletzt, weil sich das Volk der Tswana den Schutz des Vereinigten Königreichs gesichert hat. Nun hat die südafrikanische Regierung beschlossen, sich von diesen Vereinbarungen zu distanzieren und das Bechuanaland für weiße Siedler zu öffnen: §G[?SAF_whites_in_botswana]§!\nAttraktivität für Siedler: [SAF_getSettlerAttractiveness]\nAufstandsrisiko: [SAF_getTswanaInsurgency]"
+SAF_third_boer_war_decisions: "Der dritte Burenkrieg"
+SAF_third_boer_war_decisions_desc: "Wieder einmal sind die Interessen der britischen Kolonisten und der afrikanischen Nachfahren der niederländischen Kolonisten Südafrikas aufeinandergeprallt, und Südafrika steht wieder einmal in Flammen. In einer grausamen Umkehrung des Schicksals sind es nun die Briten, die sich von der von ihnen geschaffenen Herrschaft losgesagt haben, die unter dem Einfluss der afrikanischen Nationalisten versucht, den imperialen Schoß zu verlassen."
+SAF_ryneveld_doctrine_decisions: "Ryneveld Doktrin"
+SAF_ryneveld_doctrine_decisions_desc: "Die von den Generälen Jan Smuts und Pierre van Ryneveld formulierte Ryneveld Doktrin besagt, dass die ehemaligen Kolonien des Vereinigten Königreichs, die nach ihrem Zusammenbruch am Ende des Weltkriegs verloren gingen, nicht in Anarchie belassen werden dürfen, bis sich eine kohärente einheimische Kraft bildet, die die westliche Zivilisation in Südafrika bedrohen könnte. Im Namen unserer nationalen Sicherheit ist es unerlässlich, dass wir diese Kolonien zurückerhalten und unsere Herrschaft über das südliche und östliche Afrika ausweiten."
+SAF_black_monday_decisions: "Reaktion auf den Schwarzen Montag"
+SAF_black_monday_decisions_desc: "In den 1920er Jahren entschied sich die südafrikanische Regierung, ihre wirtschaftlichen Beziehungen zum Kaiserreich zu intensivieren, in der Hoffnung, die schlechten Auswirkungen der Weltwirtschaftskrise zu lindern - mit nur begrenztem Erfolg. Nun, da Deutschland von seiner eigenen nationalen Krise betroffen ist, haben sich die Auswirkungen schnell auf den südafrikanischen Produktionssektor ausgeweitet. Nach nur wenigen Jahren relativen Wohlstands liegt die Wirtschaft des Landes wieder einmal in Trümmern: [saffaBudgetAmount] SA Pfund.\nInflation: [?saf_var_inflation|%-0].\nArbeitslosigkeit: [?saf_var_unemployment|%R0].\nVerbundene Schulden: [saffaDebtAmount] SA Pfund."
 SAF_geopolitical_actions: "Geopolitische Aktionen"
 SAF_campaign_against_tswana_insurgents: "Bekämpfung des Tswana-Aufstandes"
 SAF_campaign_against_tswana_insurgents_desc: "Die Tswana haben sich bewaffnet und rebellieren gegen das Eindringen der Weißen in das Land, das seit jeher ihrem Stamm gehört. Um zu verhindern, dass sie unseren Kolonisierungsbemühungen schaden, müssen wir die UDF nutzen, um den Aufstand einzudämmen."
@@ -1658,7 +1658,7 @@ saf.124.t: "Südafrikanische Wahl von [GetYear]"
 saf.124.d: "Die Amtszeit des derzeitigen Volksraads ist abgelaufen, und die Südafrikaner, die auf den gemeinsamen Listen stehen - in erster Linie Weiße, aber jetzt auch Farbige -, gehen heute an die Urnen, um den Vertreter ihres Wahlkreises zu wählen, der die Zusammensetzung der südafrikanischen Regierung für die kommenden fünf Jahre bestimmen wird, sofern nicht schon früher Wahlen angesetzt werden. Der Ausgang dieser Wahlen wird mit Sicherheit die politische Ordnung für die kommenden fünf Jahre bestimmen."
 saf.124.b: "Die Labour Party ist siegreich."
 saf.124.c: "Die [getSAPorUnited] bildet eine Koalition mit der Volksparty."
-saf.124.a: "Die Liberale Partei erringt wieder einmal den Sieg."
+saf.124.f: "Die Liberale Partei erringt wieder einmal den Sieg."
 
 saf.125.t: "Wahl von Cissie Gool"
 saf.125.d_normal: "Das aktive Wahlrecht der 'farbigen' Gemeinschaft ging mit dem passiven Wahlrecht einher. Dies hat dazu geführt, dass das erste nicht-weiße Mitglied des Volksraads für die [getSAPorUnited] gewählt wurde: Zainunnisa Gool, Tochter des prominenten kap-malaiischen Politikers für die Rechte der 'Farbigen' Abdullah Abdurahman und seiner weißen Ehefrau, hat das Recht erlangt, den Kapstädter Wahlkreis Cape Town Gardens zu vertreten, indem sie den nationalen Kandidaten H.H. Broodryk besiegte.\n\nGool, die sich zuvor den Titel des ersten weiblichen nicht-weißen Stadtratsmitglieds der Nation gesichert hatte, wird heute als Mitglied des Volksraad vereidigt. Auch wenn der Rest des Volksraad derzeit noch aus weißen Südafrikanern besteht, ist ihre Wahl ein entscheidender Sieg für Hofmeyrs reformorientierten Flügel der [getSAPorUnited] und sicherlich ein Präzedenzfall für weitere nicht-weiße Mitglieder des Volksraad, die in Zukunft folgen werden."

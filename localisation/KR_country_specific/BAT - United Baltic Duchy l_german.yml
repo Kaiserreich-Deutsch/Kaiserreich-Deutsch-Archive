@@ -613,6 +613,25 @@
  KRBAT.120.d: "Das Gebiet südlich von Dünaburg, die Ilūkste-Region, ist die Heimat einer beträchtlichen polnischen Minderheit, die dort seit der Zeit des Commonwealth lebt. Bis zur Teilung Polens waren Dünaburg und seine Umgebung integraler Bestandteil des polnisch-litauischen Commonwealth: Die katholische Kirche hatte hier einen starken Einfluss, der zu einer bedeutenden Polonisierung der Region und insbesondere ihrer Eliten beitrug.\n\nDer polnische Adel hat die lettische Unabhängigkeit traditionell unterstützt. Sie halfen bei der Bewaffnung der lettischen Milizen während der Revolution von 1905 gegen den Zaren, den beide als Feind betrachteten. Aufgrund ihrer Lage am Rande des Herzogtums und an der Grenze zum russisch kontrollierten Dünaburg hat der Waffenschmuggel zugenommen, und es wird Unterstützung für den Aufstand der Waldbrüder organisiert, den wir bekämpfen.\n\nEinigen Berichten zufolge erhoffen sich die polnischen Minderheiten, dass das unabhängige Lettland ihnen das Recht einräumt, das polnische soziale, kulturelle, religiöse und politische Leben weiterzuentwickeln und den polnischen Adelssitz zu erhalten."
  KRBAT.120.a: "Dieses Gezänk der Narren geht mich nichts an."
 
+ KRBAT.121.t: "Konservative stürzen Baltische Regierung"
+ KRBAT.121.d.forest_brothers: "Eilmeldung aus Riga: Friedrich von Samson-Himmelstjerna ist nach einer monatelangen Kampagne der Konservativen zu seiner Absetzung als Ministerpräsident des Vereinigten Baltischen Herzogtums, abgesetzt worden. Seine Absetzung ist der Höhepunkt einer langwierigen Auseinandersetzung, in der seine Regierung durch die Opposition weitgehend gelähmt wurde. Nach dem politischen System des Herzogtums kann jedoch nur der weitgehend neutrale Herzog Adolf Friedrich die Regierung tatsächlich absetzen, was zu einem langwierigen Zermürbungskrieg zwischen den beiden Lagern führt.\n\nAb sofort haben die konservativen Ritterschaften und der Deutschbaltische Adel die Kontrolle über das Herzogtum zurückerobert. Es wird erwartet, dass sie die liberalen Reformpläne aufgeben - und eine härtere Strategie gegen die Waldbrüder verfolgen, die immer noch in den baltischen Landen kämpfen."
+ KRBAT.121.d.no_forest_brothers: "Eilmeldung aus Riga: Friedrich von Samson-Himmelstjerna ist nach einer monatelangen Kampagne der Konservativen zu seiner Absetzung als Ministerpräsident des Vereinigten Baltischen Herzogtums abgesetzt worden. Seine Absetzung ist der Höhepunkt einer langwierigen Auseinandersetzung, in der seine Regierung durch die Opposition weitgehend gelähmt wurde. Nach dem politischen System des Herzogtums kann jedoch nur der weitgehend neutrale Herzog Adolf Friedrich die Regierung tatsächlich absetzen, was zu einem langwierigen Zermürbungskrieg zwischen den beiden Lagern führt.\n\nDie konservativen Ritterschaften und der Deutschbaltische Adel haben die Kontrolle über das Herzogtum wiedererlangt. Nachdem die jüngsten Unruhen vorbei zu sein scheinen, haben die Ritterschaften begonnen, die Übertragung der Macht an sie als Mittel zur Rationalisierung der Regierung des Herzogtums zu betrachten."
+ KRBAT.121.a: "Sie haben die richtige Idee."
+ KRBAT.121.b: "Tragisch."
+ KRBAT.121.c: "Solange sie ihre Verteidigungsverpflichtungen erfüllen können."
+ KRBAT.121.e: "Und irgendwie findet das Herzogtum einen Weg, weiter rückwärts zu marschieren."
+ KRBAT.121.f: "Das einzig mögliche Ergebnis im Umgang mit Deutschen."
+ KRBAT.121.g: "Ein wirklich kurioser Ort."
+
+ KRBAT.122.t: "Riga unter Kriegsrecht"
+ KRBAT.122.d: "Monate nach dem Ausbruch der bewaffneten Rebellion im Vereinigten Baltischen Herzogtum ist dessen Zivilregierung ein Opfer geworden: Heute früh zogen Einheiten der Baltischen Landeswehr in Riga ein und lösten den Landtag gewaltsam auf. Es wird vermutet, dass die Landeswehr die liberale Regierung des Herzogtums als zu sehr auf ihren andauernden Streit mit der konservativen Opposition konzentriert ansah, und dass der Staatsstreich ein Versuch war, Ressourcen gegen die Waldbrüder zu lenken.\n\nDa Herzog Adolf Friedrich auffällig fehlt, ist der berühmte deutsche General Rüdiger von der Goltz als Gesicht einer ultra-reaktionären Regierung aufgetaucht. Gerüchte besagen, dass diese Entwicklungen von der Baltischen Bruderschaft vorangetrieben werden, einem Geheimbund, der eine radikalere Umgestaltung des Herzogtums anstrebt..."
+ KRBAT.122.a: "Krieg ist keine Zeit für Formalitäten."
+ KRBAT.122.b: "..."
+ KRBAT.122.c: "Irgendwie fühle ich mich nicht sicherer..."
+ KRBAT.122.e: "Ein Ausmaß an Schurkerei, das selbst wir nicht für möglich gehalten hätten."
+ KRBAT.122.f: "Wer kann auf die Baltikum schauen und trotzdem das Deutsche Reich unterstützen?"
+ KRBAT.122.g: "Eine beunruhigende Entwicklung..."
+
 ### Focuses ###
 
  BAT_eliminate_honorifics: "Unnötige Ehrentitel abschaffen"
@@ -844,6 +863,7 @@
  BAT_military_innovation_institute_desc: "Um ein Offizierskorps heranzubilden, das unseren Gegnern immer einen Schritt voraus ist, müssen wir Kurse zu innovativen Militärtechnologien einführen, wie z.B. mobile Kriegsführung und Spezialkräfte."
  BAT_armor_research_division: "FzSdB"
  BAT_armor_research_division_desc: "Die Forschungsdivision zur Studie des Bewegungskrieges ist eine Abteilung der Akademie, die Kadetten für die Führung von Panzerdivisionen, die Anwendung von Taktiken der kombinierten Waffen und die Entwicklung neuer, innovativer Panzermodelle ausbildet."
+ BAT_armor_research_division_tt: "\n§PSie erhalten eine Panzervariante, die auf Ihrer höchst erforschten Panzerungstechnologie basiert.§!"
  BAT_special_forces: "Integration von Spezialkräften"
  BAT_special_forces_desc: "Spezialkräfte, die für besondere Aufgaben ausgebildet werden, entwickeln sich rasch zu einem wichtigen Bestandteil der modernen Streitkräfte. Auch wenn das baltische Herzogtum zu klein ist, um eine nennenswerte Zahl von Spezialeinheiten aufzustellen, so ist ihre Integration in die Armeestruktur dennoch unerlässlich."
  BAT_generals_school: "Militärische Planungskurse"

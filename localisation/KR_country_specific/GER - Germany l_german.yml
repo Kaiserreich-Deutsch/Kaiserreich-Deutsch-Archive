@@ -59,11 +59,11 @@ GER_poli_temp_desc: "Zu lange haben die Menschen darum gekämpft, wo die Macht i
 GER_black_monday: "Schwarzer Montag Effekt"
 GER_black_monday_desc: "Der Berliner Aktienmarkt ist zusammengebrochen und mit ihm die ohnehin stagnierende deutsche Wirtschaft. Wenn Deutschland seine hegemoniale Position behalten will, muss die Krise des "Schwarzen Montags" angegangen werden."
 
-GER_black_monday1: "Helfferichplan"
-GER_black_monday1_desc: "Karl Helfferich, Präsident der Deutschen Bundesbank, hat ein umstrittenes Konjunkturprogramm umgesetzt. Mit seinen Bemühungen scheint es ihm gelungen zu sein, die Krise am Schwarzen Montag zumindest teilweise zu lindern, und die öffentlichen Märkte haben bereits begonnen, langsam nach oben zu tendieren."
+GER_helferrichplan: "Helfferichplan"
+GER_helferrichplan_desc: "Karl Helfferich, Präsident der Deutschen Bundesbank, hat ein umstrittenes Konjunkturprogramm umgesetzt. Mit seinen Bemühungen scheint es ihm gelungen zu sein, die Krise am Schwarzen Montag zumindest teilweise zu lindern, und die öffentlichen Märkte haben bereits begonnen, langsam nach oben zu tendieren."
 
-GER_black_monday2: "Schachtplan"
-GER_black_monday2_desc: "Hjalmar Schachts Politik der größeren fiskalischen Stabilität und der verstärkten Bankenkontrolle hat dazu beigetragen, den deutschen Finanzsektor wieder etwas zu stabilisieren."
+GER_schacht_plan: "Schachtplan"
+GER_schacht_plan_desc: "Hjalmar Schachts Politik der größeren fiskalischen Stabilität und der verstärkten Bankenkontrolle hat dazu beigetragen, den deutschen Finanzsektor wieder etwas zu stabilisieren."
 
  GER_colonial_subsidies: "Koloniale Zuschüsse"
  GER_colonial_subsidies_desc: "Wir haben uns entschlossen, die Kassen des Kaiserreichs zum Wohle unserer Kolonien zu belasten, um ihre weitere Loyalität zu sichern und gleichzeitig den Schaden des Schwarzen Montags auf ein Minimum zu reduzieren, selbst wenn dadurch dringend benötigte Ressourcen vom Vaterland abgezogen werden."
@@ -77,20 +77,20 @@ GER_black_monday2_desc: "Hjalmar Schachts Politik der größeren fiskalischen St
 GER_address_reichstag: "Ansprache im Reichstag"
 GER_address_reichstag_desc: "Obwohl wir die ersten Schritte zur Lösung der Krise am Schwarzen Montag eingeleitet haben, ist die Lage immer noch schlimm. Trotz seiner Senilität und seiner angeschlagenen Gesundheit hat Kaiser Wilhelm II. in einer Ansprache vor dem Reichstag zum Ausdruck gebracht, dass ihre erste Priorität darin bestehen muss, die Wirtschaft so schnell wie möglich in Ordnung zu bringen. Welche Vorschläge angenommen werden, bleibt jedoch abzuwarten..."
 
-german_eco_finished: "Wirtschaftliche Wiederbelebung"
-german_eco_finished_desc: "Unsere Wirtschaft hat neue Anreize erhalten, und wieder hat die Liquidität zu fließen begonnen. Dieser Boom wird uns sehr dabei helfen, uns von den enormen Verlusten, die wir durch den Schwarzen Montag erlitten haben, zu erholen."
+ GER_economic_resurgence_idea: "Wirtschaftliche Wiederbelebung"
+ GER_economic_resurgence_idea_desc: "Unsere Wirtschaft hat neue Anreize erhalten, und wieder hat die Liquidität zu fließen begonnen. Dieser Boom wird uns sehr dabei helfen, uns von den enormen Verlusten, die wir durch den Schwarzen Montag erlitten haben, zu erholen."
 
-GER_Sie_Contracts: "Siemens Günstlingswirtschaft"
-GER_Sie_Contracts_desc: "Unsere Wirtschaft hat neue Anreize erhalten, und wieder hat die Liquidität begonnen zu fließen, wobei uns Siemens in hohem Maße unterstützt hat. Wir werden ihnen diese Freundlichkeit in Form von Sachleistungen zurückgeben, indem wir ihnen bei Industrieverträgen die erste Präferenz einräumen."
+ GER_siemens_contracts: "Siemens Günstlingswirtschaft"
+ GER_siemens_contracts_desc: "Unsere Wirtschaft hat neue Anreize erhalten, und wieder hat die Liquidität begonnen zu fließen, wobei uns Siemens in hohem Maße unterstützt hat. Wir werden ihnen diese Freundlichkeit in Form von Sachleistungen zurückgeben, indem wir ihnen bei Industrieverträgen die erste Präferenz einräumen."
 
-GER_invest_arms_industry: "Industrieller Militärischer Komplex"
-GER_invest_arms_industry_desc: "Mit weiteren Investitionen in unsere Rüstungsindustrie haben wir uns die Mittel gesichert, um die Waffen zu produzieren, die wir für die Herausforderungen, vor denen Deutschland steht, brauchen werden."
+ GER_industrial_military_complex: "Industrieller Militärischer Komplex"
+ GER_industrial_military_complex_desc: "Mit weiteren Investitionen in unsere Rüstungsindustrie haben wir uns die Mittel gesichert, um die Waffen zu produzieren, die wir für die Herausforderungen, vor denen Deutschland steht, brauchen werden."
 
-GER_rhine_unrest: "Rheinländischer Arbeiterstreik"
-GER_rhine_unrest_desc: "Wir erleben massive Streiks in der Arbeiterklasse im Rheinland."
+ GER_rhineland_workers_strike: "Rheinländischer Arbeiterstreik"
+ GER_rhineland_workers_strike_desc: "Wir erleben massive Streiks in der Arbeiterklasse im Rheinland."
 
-GER_kill_workers: "Rheinland-Arbeiter unterdrückt"
-GER_kill_workers_desc: "Unsere Armee weiß, wie sie am besten mit widerspenstigen Roten umzugehen hat."
+ GER_rhineland_workers_suppressed: "Rheinland-Arbeiter unterdrückt"
+ GER_rhineland_workers_suppressed_desc: "Unsere Armee weiß, wie sie am besten mit widerspenstigen Roten umzugehen hat."
 
 GER_strike_negot: "Rheinische Streikende verhandeln"
 GER_strike_negot_desc: "Wir konnten uns mit den Streikenden arrangieren. Das war der einzige Weg."
@@ -112,14 +112,14 @@ GER_research_boost_desc: "Der einzige Weg, wie wir Wissenschaftler aus ihren Hö
 GER_victors_of_wwi: "Die Sieger des Weltkrieges"
 GER_victors_of_wwi_desc: "Wir waren die unangefochtenen Sieger des Weltkrieges und unser Platz an der Sonne war so gut wie garantiert. Leider ist das 20 Jahre her, und unsere Arroganz mag uns seitdem überholt haben..."
 
-GER_tank_idea: "Investition in Panzer"
-GER_tank_idea_desc: "Einige betrachten den Panzer als die Waffe, mit der alle zukünftigen Kriege entschieden werden. Weitere Investitionen in das Gebiet sind für die Fortsetzung der deutschen Hegemonie unerlässlich."
+ GER_investment_in_panzers: "Investition in Panzer"
+ GER_investment_in_panzers_desc: "Einige betrachten den Panzer als die Waffe, mit der alle zukünftigen Kriege entschieden werden. Weitere Investitionen in das Gebiet sind für die Fortsetzung der deutschen Hegemonie unerlässlich."
 
 GER_tirpitz_idea: "Tirpitzprogramm"
 GER_tirpitz_idea_desc: "Großadmiral Tirpitz war der Titan seiner Zeit, und seine Investitionen in die Kaiserliche Marine vor dem Weltkrieg sorgten dafür, dass wir über eine Flotte verfügten, die in der Lage war, gegen die Königliche Marine anzutreten. Eine solche Vision ist wieder gefragt."
 
-GER_junkers_lost_idea: "Probleme mit der Getreideversorgung"
-GER_junkers_lost_idea_desc: "Mit dem Bevölkerungswachstum in Deutschland nach dem Weltkrieg und während der goldenen Zeit Tirpitz waren wir auf das Getreide unserer mitteleuropäischen Partner angewiesen. Da es nun ein Loch in unserem östlichen Randgebiet gibt, sind die Lebensmittelvorräte zurückgegangen."
+ GER_problems_with_grain_supply: "Probleme mit der Getreideversorgung"
+ GER_problems_with_grain_supply_desc: "Mit dem Bevölkerungswachstum in Deutschland nach dem Weltkrieg und während der goldenen Zeit Tirpitz waren wir auf das Getreide unserer mitteleuropäischen Partner angewiesen. Da es nun ein Loch in unserem östlichen Randgebiet gibt, sind die Lebensmittelvorräte zurückgegangen."
 
 GER_easter_promises_idea: "Osterversprechen"
 GER_easter_promises_idea_desc: "Als Deutschland nach dem Rübenwinter 1916-1917 an seinem Tiefpunkt angelangt war, versprach der Kaiser nach dem Ende des Weltkriegs eine Verfassungsreform. Jetzt, da sich unsere Stagnation immer deutlicher abzeichnet, könnten sich die Dinge vielleicht ändern."
@@ -127,14 +127,14 @@ GER_easter_promises_idea_desc: "Als Deutschland nach dem Rübenwinter 1916-1917 
 GER_bundesrat_idea: "Wiederhergestellte Bundesrat"
 GER_bundesrat_idea_desc: "Das Ludendorff-Regime hat viele der Privilegien, die die deutschen Staaten vor dem Weltkrieg hatten, mit Füßen getreten, unter anderem die Vertretung im Bundesrat. Die Wiederherstellung dieses alten Rechts ist ein großes Zeichen für die Zukunft."
 
-GER_post_idea: "Deutsche Post"
-GER_post_idea_desc: "Auch wenn es lächerlich erscheinen mag, eines der letzten Bollwerke gegen die vollständige föderale Integration unter dem Reich war die Existenz getrennter Postdienste. Mit dieser Maßnahme ist Deutschland nun wirklich vereint."
+ GER_post_office_idea: "Deutsche Post"
+ GER_post_office_idea_desc: "Auch wenn es lächerlich erscheinen mag, eines der letzten Bollwerke gegen die vollständige föderale Integration unter dem Reich war die Existenz getrennter Postdienste. Mit dieser Maßnahme ist Deutschland nun wirklich vereint."
 
-GER_embrace_FAUD_idea: "Freie Arbeiterunion Deutschlands"
-GER_embrace_FAUD_idea_desc: "Der beste Weg, die syndikalistische Bedrohung zu entwaffnen, ist die Zusammenarbeit mit weniger ideologischen Linken. Die Duldung der Hauptgewerkschaft sollte den Roten in Deutschland weniger Beistand geben."
+ GER_freie_arbeiterunion_deutschlands: "Freie Arbeiterunion Deutschlands"
+ GER_freie_arbeiterunion_deutschlands_desc: "Der beste Weg, die syndikalistische Bedrohung zu entwaffnen, ist die Zusammenarbeit mit weniger ideologischen Linken. Die Duldung der Hauptgewerkschaft sollte den Roten in Deutschland weniger Beistand geben."
 
-GER_dcgb_idea: "Deutscher Christlicher Gewerkschaftsbund"
-GER_dcgb_idea_desc: "Eine neue staatlich geförderte Gewerkschaft kann die Energien unserer Arbeiterklasse in die richtige Bahnen lenken."
+ GER_deutscher_christlicher_gewerkschaftsbund: "Deutscher Christlicher Gewerkschaftsbund"
+ GER_deutscher_christlicher_gewerkschaftsbund_desc: "Eine neue staatlich geförderte Gewerkschaft kann die Energien unserer Arbeiterklasse in die richtige Bahnen lenken."
 
 GER_institut_idea: "Institut für Luftfahrttechnik"
 GER_institut_idea_desc: "Mit einem neuen Luftfahrtforschungsinstitut kann Deutschland seine Luftwaffe modernisieren und sich von der besten Luftwaffe Europas zum unangefochtenen globalen Kraftzentrum entwickeln."
@@ -171,23 +171,23 @@ GER_mil_support_idea_desc: "Im Rahmen unseres hart umkämpften Vertrags mit dem 
 GER_two_front_idea: "Krieg an zwei Fronten"
 GER_two-front_idea_desc: "Wir befinden uns sowohl mit Frankreich als auch mit Russland im Krieg, eine alptraumhafte Situation, die wir um jeden Preis vermeiden wollten. Wir haben einmal gewonnen, und wir werden es wieder tun!"
 
-GER_FVP1: "Die Vierzig-Stunden-Woche"
-GER_FVP1_desc: "Die Einführung der Vierzig-Stunden-Woche hat eine Situation geschaffen, in der die Arbeitgeber nicht mehr erwarten können, dass sie Erfolg haben, wenn sie ihre Arbeitnehmer endlos arbeiten lassen. Das Ergebnis dieser neuen Regelung ist ein Wettlauf von Innovation und Produktivität, einen Wettlauf, den wir nutzen und von dem wir profitieren können, indem wir parallel dazu die Infrastrukturinvestitionen erhöhen."
+ GER_forty_hour_week: "Die Vierzig-Stunden-Woche"
+ GER_forty_hour_week_desc: "Die Einführung der Vierzig-Stunden-Woche hat eine Situation geschaffen, in der die Arbeitgeber nicht mehr erwarten können, dass sie Erfolg haben, wenn sie ihre Arbeitnehmer endlos arbeiten lassen. Das Ergebnis dieser neuen Regelung ist ein Wettlauf von Innovation und Produktivität, einen Wettlauf, den wir nutzen und von dem wir profitieren können, indem wir parallel dazu die Infrastrukturinvestitionen erhöhen."
 
-GER_NLP2: "Politik des leichten Geldes"
-GER_NLP2_desc: "Ein einfacher und risikoarmer Zugang zu Krediten sowohl für die allgemeine Bevölkerung als auch für Unternehmen führt zu einem gewissen Wirtschaftswachstum im privaten Sektor."
+ GER_easy_money_policy: "Politik des leichten Geldes"
+ GER_easy_money_policy_desc: "Ein einfacher und risikoarmer Zugang zu Krediten sowohl für die allgemeine Bevölkerung als auch für Unternehmen führt zu einem gewissen Wirtschaftswachstum im privaten Sektor."
 
-GER_DKP2: "Agrar-Subventionen"
-GER_DKP2_desc: "Die Subventionierung der Landwirtschaft macht sowohl unserer Verwaltung bei den Bauern beliebt und erhöht auch das Nahrungsmittelangebot. Was gibt es da nicht zu lieben?"
+ GER_agricultural_subsidies: "Agrar-Subventionen"
+ GER_agricultural_subsidies_desc: "Die Subventionierung der Landwirtschaft macht sowohl unserer Verwaltung bei den Bauern beliebt und erhöht auch das Nahrungsmittelangebot. Was gibt es da nicht zu lieben?"
 
-GER_ZEN2: "Die Gesundschrumpfung"
-GER_ZEN2_desc: "Die Unternehmen schließen und konsolidieren sich nach dem Schwarzen Montag und verursachen kurzfristig ein gewisses Chaos."
+ GER_the_shakeout: "Die Gesundschrumpfung"
+ GER_the_shakeout_desc: "Die Unternehmen schließen und konsolidieren sich nach dem Schwarzen Montag und verursachen kurzfristig ein gewisses Chaos."
 
-GER_ZEN1: "Deutsche Sparsamkeit"
-GER_ZEN1_desc: "Vergeude nichts, wünsche nichts. Durch die Kürzung der Staatsausgaben, wo immer wir können, und die Sicherung des Haushaltsvertrauens ist unsere Stabilität auch in Krisenzeiten gewährleistet."
+ GER_austerity: "Deutsche Sparsamkeit"
+ GER_austerity_desc: "Vergeude nichts, wünsche nichts. Durch die Kürzung der Staatsausgaben, wo immer wir können, und die Sicherung des Haushaltsvertrauens ist unsere Stabilität auch in Krisenzeiten gewährleistet."
 
-GER_ZEN22: "Konsolidierte Industrie"
-GER_ZEN22_desc: "Nach Brünings Programm, der deutschen Industrie die Ansiedlung mit minimalen Eingriffen zu ermöglichen, scheint es, als hätten sich Effizienz und Produktion infolgedessen erhöht."
+ GER_consolidated_industry: "Konsolidierte Industrie"
+ GER_consolidated_industry_desc: "Nach Brünings Programm, der deutschen Industrie die Ansiedlung mit minimalen Eingriffen zu ermöglichen, scheint es, als hätten sich Effizienz und Produktion infolgedessen erhöht."
 
 GER_grain_and_steel_idea: "Getreide und Stahl-Programm"
 GER_grain_and_steel_idea_desc: "Dieses Programm, das sich auf lokale Initiativen gegen das Ausland konzentriert, hofft, mit ein wenig Autarkie innerhalb des Kaiserreichs, eine geringere Abhängigkeit von ausländischen Waren zu erreichen."
@@ -218,7 +218,7 @@ eco_reco: "Wirtschaft erholt sich vom Schwarzen Montag"
 GER_unlocks_junkers: "Wird die Firma Junkers aufwerten."
 GER_krupp_steel_unlock: "§GWird Krupp aufwerten.§!"
 GER_siemens_unlock: "§GWird Siemens freischalten.§!"
-GER_hahn_meitner_unlock: "Wird Hahn & Meitner aufwerten."
+ GER_support_hahn_meitner_unlock: "Wird Hahn & Meitner aufwerten."
 DEN_ENG_ultimatum: "Gesendetes Ultimatum"
 DEN_abandon: "Beendeter Konflikt"
 DEN_ENG_back_down: "Waffenstillstand"
@@ -317,7 +317,7 @@ GER_social_conservative_party_long: "Zentrumspartei\n§gDas 1870 gegründete Zen
  GER_paternal_autocrat_party: "DRP"
  GER_paternal_autocrat_party_long: "Deutsche Reichspartei\n§gFounded in 1866, the DRP (German Imperial Party) is a liberal conservative party in das Deutsches Kaiserreich. For most of its existence, the DRP tried to act as a compromiser between NLP and DkP, however with the begin of the 20th century it began drawing closer to the DkP. It opposed the democratic alliance of SPD, FVP, and Zentrum in the Reichstag together with the DkP during the First World War. The party was a silent supporter of the Ludendorff dictatorship, with it becoming the smallest member of the Great Coalition of von Tirpitz. The party is a strong supporter of colonialism, fleet expansion, while opposing electoral reform in Prussia strongly. The DRP has been seeing a slight resurgence since the death of the Tirpitz and the subsequent collapse of the DVLP as a political heavy-weight.§!"
 GER_authoritarian_democrat_party: "DkP"
- GER_SCH_authoritarian_democrat_party: "Kamarilla"
+ GER_SCH_authoritarian_democrat_party: "Schleicher's Kamarilla"
  GER_SCH_authoritarian_democrat_party_long: "Schleichers Kamarilla\n§gDie Kamarilla um Kurt von Schleicher ist eine Clique von ihm nahestehenden Offizieren, die sich in ihrer Unterstützung für Schleicher einig sind; sie unterstützen auch generell die Stärkung des Militärs in der Zivilgesellschaft - obwohl sie nicht völlig gegen die Demokratie sind, da Schleicher selbst dafür bekannt ist, dass er sowohl mit progressiven als auch mit konservativen Parteien zusammenarbeitet, wenn es ihm passt.§!"
 GER_AFR_paternal_autocrat_party: "Notstandsregierung"
  GER_authoritarian_democrat_party_long: "Deutschkonservative Partei\n§gDie DkP (Deutsche Konservative Partei) wurde 1876 gegründet und war während der Bismarck-Ära äußerst einflussreich, da sie den Übergang zum Protektionismus anführte. Nach 1912 war die Partei jedoch nicht mehr in der Lage, die führende Partei der Rechten zu werden, was zur Gründung der DVLP führte, die viele DkP-Mitglieder an sich riss. Die DkP unterstützte zunächst die Ludendorff-Diktatur, wandte sich aber in den 1920er Jahren gegen sie.\n\nNach den Wahlen von 1923 trat die DkP unter Ernst von Heydebrand und der Lasa und Kuno Graf von Westarp widerwillig der Großen Koalition von Tirpitz bei. Nach den Wahlen von 1928 begann Kuno von Westarp unter dem Druck der wachsenden DVLP, die DkP zu modernisieren, um auch städtische Rechtswähler anzuziehen und sich zu einer konservativen Zeltpartei zu reformieren. Sie befürwortet sogar eine Ausweitung des Sozialstaates, ist aber auch für Ausgabenkürzungen, außer bei den Agrarsubventionen. Nach dem überraschenden Tod von Tirpitz im Jahr 1930 wählte der Kaiser von Westarp zu seinem Nachfolger. Nach dem überraschenden Tod von Tirpitz im Jahr 1930 wählte der Kaiser die DkP zu seinem Nachfolger. Nach zwei Jahren ereignisloser Herrschaft stimmten die deutschen Wähler dafür, dass sie der neue Verwalter und Hüter des Reichtums sein sollte. Die konservativen Regierungen taten, was von ihnen verlangt wurde, und die letzten Jahre verliefen ruhig und mit so wenig Veränderungen wie möglich. Die Partei unterstützt weiterhin die Zentralisierung des Reiches und lehnt Wahlreformen strikt ab."
@@ -340,23 +340,20 @@ GER_join_kaiser_wilhelm_society: "Werden Sie Mitglied der Kaiser-Wilhelm-Gesells
  GER_invite_nfa_to_france: "Die Exilanten aus Algier nach Frankreich einladen"
 
 ### Focuses ###
-GER_doctrine_new: "Militärische Reform"
-GER_doctrine_new_desc: "Mit dem Tod von Hans von Seeckt und der Pensionierung von August von Mackensen ist der Generalstabschef in eine heftige Debatte darüber verwickelt worden, welche Militärdoktrin angenommen werden soll. Wir sollten einen unparteiischen Ausschuss von Militäroffizieren einsetzen, der die Annahme der neuen Doktrin überwacht.."
+ GER_military_reform: "Militärische Reform"
+ GER_military_reform_desc: "Mit dem Tod von Hans von Seeckt und der Pensionierung von August von Mackensen ist der Generalstabschef in eine heftige Debatte darüber verwickelt worden, welche Militärdoktrin angenommen werden soll. Wir sollten einen unparteiischen Ausschuss von Militäroffizieren einsetzen, der die Annahme der neuen Doktrin überwacht.."
 
-GER_doctrine_great_war: "Mannschaftstaktiken"
-GER_doctrine_great_war_desc: "Die chinesische Intervention und die jüngsten Konflikte haben unsere Offiziere von der Bedeutung der Koordination innerhalb der einzelnen Truppen überzeugt. Wir sollten so genannte "Gruppentaktiken" in unser Infanterieausbildungssystem integrieren."
+ GER_modern_art_of_war: "Die Moderne Kunst des Krieges"
+ GER_modern_art_of_war_desc: "Es gibt ein Buch, das jeder Mann, der Offizier in der Reichsarmee werden will, lesen muss - Clausewitz 'Die Kunst des Krieges'. Wenn wir unsere besten Militärtheoretiker mit dem Thema betrauen, können sie die immer noch gültigen Grundsätze aus dem jahrhundertealten Buch an die Anforderungen der modernen Kriegsführung anpassen."
 
-GER_doctrine_great_war_2: "Die moderne Kriegskunst"
-GER_doctrine_great_war_2_desc: "Es gibt ein Buch, das jeder Mann, der Offizier in der Armee des Reiches werden will, lesen muss - Clausewitz' "Die Kunst des Krieges". Wenn wir unsere besten Militärtheoretiker auf dieses Thema ansetzen, können sie die noch immer gültigen Prinzipien aus dem jahrhundertealten Buch an die Erfordernisse der modernen Kriegsführung anpassen."
+ GER_new_artillery_guns: "Neue Artilleriegeschütze"
+ GER_new_artillery_guns_desc: "Im Jahr 1914 war unsere Artillerie die modernste der Welt. Doch mit der Entwicklung des Bombers und des Panzers wurde sie immer schwerfälliger und untauglich für die moderne, rasante Kriegsführung. Es wurde ein Modernisierungsprogramm eingeleitet, um die Mobilität unserer Artillerie zu erhöhen und die modernen Funktechnologien bei der Zielerfassung besser zu nutzen."
 
- GER_doctrine_artillery: "Neue Artilleriegeschütze"
- GER_doctrine_artillery_desc: "Im Jahr 1914 war unsere Artillerie die modernste der Welt. Doch mit der Entwicklung des Bombers und des Panzers wurde sie immer schwerfälliger und untauglich für die moderne, rasante Kriegsführung. Es wurde ein Modernisierungsprogramm eingeleitet, um die Mobilität unserer Artillerie zu erhöhen und die modernen Funktechnologien bei der Zielerfassung besser zu nutzen."
+ GER_a_new_doctrine: "Eine Neue Doktrin"
+ GER_a_new_doctrine_desc: "Einige der radikaleren Erneuerer in unserem Oberkommando, darunter unter anderem Heinz von Guderian und Erich von Manstein, setzen sich für die Erforschung einer völlig neuen Doktrin ein. Sie wollen sich auf die schnelle Bewegung von gepanzerten Speerspitzen konzentrieren, um feste Fronten aufzubrechen."
 
-GER_doctrine_mobile_2: "Eine neue Doktrin"
-GER_doctrine_mobile_2_desc: "Einige der radikaleren Innovatoren in unserer Führungsspitze, darunter unter anderem Heinz von Guderian und Erich von Manstein, setzen sich für die Erforschung einer völlig neuen Doktrin ein. Sie wollen sich auf die schnelle Bewegung von gepanzerten Speerspitzen konzentrieren, um feste Fronten aufzubrechen."
-
-GER_doctrine_mobile: "Motorisierte Infiltrierung"
-GER_doctrine_mobile_desc: "Unser militärisches Oberkommando ist zwar in vielen Fragen gespalten, aber in einem Punkt sind sie sich einig: dass die Möglichkeiten, die die Massenmotorisierung unserer Infanterie bietet, genutzt werden können, um auf operativer Ebene entscheidende und schnelle Siege zu erringen, die an den Sieg von 1870/71 anknüpfen."
+ GER_motorised_infiltration: "Motorisierte Infiltration"
+ GER_motorised_infiltration_desc: "Unser militärisches Oberkommando ist zwar in vielen Fragen gespalten, aber in einem Punkt sind sie sich einig: dass die Möglichkeiten, die die Massenmotorisierung unserer Infanterie bietet, genutzt werden können, um auf operativer Ebene entscheidende und schnelle Siege zu erringen, die an den Sieg von 1870/71 anknüpfen."
 
 GER_mil_expansion: "Militärische Expansion"
 GER_mil_expansion_desc: "Der Generalstabschef ist in eine heftige Debatte darüber verwickelt worden, welche Militärdoktrin angenommen werden soll. Wir sollten einen unparteiischen Ausschuss von Militäroffizieren einsetzen, der die Annahme der neuen Doktrin überwacht."
@@ -364,62 +361,62 @@ GER_mil_expansion_desc: "Der Generalstabschef ist in eine heftige Debatte darüb
 GER_squad_tactics: "Mannschaftstaktiken"
 GER_squad_tactics_desc: "Die chinesische Intervention und die jüngsten Konflikte haben unsere Offiziere von der Bedeutung der Koordination innerhalb der einzelnen Truppen überzeugt. Wir sollten die so genannten "Gruppentaktiken" in unser Infanterieausbildungssystem integrieren und dafür sorgen, dass sie über die Ausrüstung verfügen, um sie optimal nutzen zu können."
 
-GER_doctrine_mobile_3: "In Panzerfabriken investieren"
-GER_doctrine_mobile_3_desc: "Mit ein wenig gezielten Investitionen könnten wir die Produktivität unserer Rüstungsfabriken ganz erheblich steigern. Es ist jedoch unwahrscheinlich, dass einige unserer eher konservativ gesinnten Generäle dieser Investition zustimmen werden."
+ GER_invest_in_panzer_factories: "In Panzerfabriken investieren"
+ GER_invest_in_panzer_factories_desc: "Mit ein wenig gezielten Investitionen könnten wir die Produktivität unserer Rüstungsfabriken ganz erheblich steigern. Es ist jedoch unwahrscheinlich, dass einige unserer eher konservativ gesinnten Generäle dieser Investition zustimmen werden."
 
-GER_mil_expansion_naval_1: "Abschluss des Marineplans von 1934"
-GER_mil_expansion_naval_1_desc: "Die Kaiserliche Marine steht vorerst unangefochten auf allen Meeren. Die Union Großbritanniens, die französische Kommune, die Amerikaner und die Japaner versuchen alle eifersüchtig, uns einzuholen, und wenn wir sie nicht unter Kontrolle bringen, wird unsere Seeherrschaft so schnell enden, wie sie begonnen hat. Wir sollten das 1934 eingeleitete große Modernisierungsprojekt der Marine fortsetzen, damit unsere Flotte unseren Rivalen immer einen Schritt voraus ist."
+ GER_finish_navy_plan: "Abschluss des Marineplans von 1934"
+ GER_finish_navy_plan_desc: "Die Kaiserliche Marine steht vorerst unangefochten auf allen Meeren. Die Union Großbritanniens, die französische Kommune, die Amerikaner und die Japaner versuchen alle eifersüchtig, uns einzuholen, und wenn wir sie nicht unter Kontrolle bringen, wird unsere Seeherrschaft so schnell enden, wie sie begonnen hat. Wir sollten das 1934 eingeleitete große Modernisierungsprojekt der Marine fortsetzen, damit unsere Flotte unseren Rivalen immer einen Schritt voraus ist."
 
-GER_global1: "Versorgungsleitungen nach Singapur"
-GER_global1_desc: "Ein Imperium auf der ganzen Welt zu haben, hat den kleinen Nachteil, dass man die Kontrolle über diese Gebiete tatsächlich ausüben muss, und das bedeutet, dass man nicht nur Soldaten, sondern auch Steuereintreiber und anderes Ungeziefer entsenden muss. Unsere Beamten brauchen Steuerformulare und Rechnungsdokumente, bürokratische Elemente, die den ganzen Weg von Deutschland aus geschickt werden müssen. Wir müssen sicherstellen, dass unsere Lieferkette angemessen unterstützt wird, um dieser Realität Rechnung zu tragen."
+ GER_supply_lines_singapur: "Versorgungsleitungen nach Singapur"
+ GER_supply_lines_singapur_desc: "Ein Imperium auf der ganzen Welt zu haben, hat den kleinen Nachteil, dass man die Kontrolle über diese Gebiete tatsächlich ausüben muss, und das bedeutet, dass man nicht nur Soldaten, sondern auch Steuereintreiber und anderes Ungeziefer entsenden muss. Unsere Beamten brauchen Steuerformulare und Rechnungsdokumente, bürokratische Elemente, die den ganzen Weg von Deutschland aus geschickt werden müssen. Wir müssen sicherstellen, dass unsere Lieferkette angemessen unterstützt wird, um dieser Realität Rechnung zu tragen."
 
-GER_global2: "Ausbau des Hafens von Singapur"
-GER_global2_desc: "Jetzt, da wir in der Lage sind, unsere Kontrolle über die Versorgungslinien nach Ostasien wirksamer auszuüben, brauchen wir einen angemessenen Endpunkt in der Kette. Der Hafen von Singapur ist der verkehrsreichste in der östlichen Hemisphäre, mit deutschen Schiffen auf dem Weg zu den chinesischen KonzDa wir nun in der Lage sind, unsere Kontrolle über die Versorgungslinien nach Ostasien wirksamer auszuüben, brauchen wir einen angemessenen Endpunkt für die Kette. Der Hafen von Singapur ist der geschäftigste in der östlichen Hemisphäre, mit deutschen Schiffen auf dem Weg zu den chinesischen Konzessionen, Australiern auf dem Weg nach Indien und gelegentlich Amerikanern oder Russen. Handel ist gut; wir sollten den Hafen ausbauen.essionen, mit Australasiern auf dem Weg nach Delhi und gelegentlich mit amerikanischen oder russischen Schiffen. Der Handel ist gut; wir sollten den Hafen ausbauen."
+ GER_expand_singapur_harbour: "Ausbau des Hafens von Singapur"
+ GER_expand_singapur_harbour_desc: "Jetzt, da wir in der Lage sind, unsere Kontrolle über die Versorgungslinien nach Ostasien wirksamer auszuüben, brauchen wir einen angemessenen Endpunkt in der Kette. Der Hafen von Singapur ist der verkehrsreichste in der östlichen Hemisphäre, mit deutschen Schiffen auf dem Weg zu den chinesischen KonzDa wir nun in der Lage sind, unsere Kontrolle über die Versorgungslinien nach Ostasien wirksamer auszuüben, brauchen wir einen angemessenen Endpunkt für die Kette. Der Hafen von Singapur ist der geschäftigste in der östlichen Hemisphäre, mit deutschen Schiffen auf dem Weg zu den chinesischen Konzessionen, Australiern auf dem Weg nach Indien und gelegentlich Amerikanern oder Russen. Handel ist gut; wir sollten den Hafen ausbauen.essionen, mit Australasiern auf dem Weg nach Delhi und gelegentlich mit amerikanischen oder russischen Schiffen. Der Handel ist gut; wir sollten den Hafen ausbauen."
 
-GER_north_sea1: "Wilhelmshaven erweitern"
-GER_north_sea1_desc: "Wir brauchen einen erweiterten Hafen als Stützpunkt sowohl für unsere U-Boote als auch für unsere größeren Flotten. Die Investition in den wichtigen Stützpunkt der Kaiserlichen Marine in Wilhelmshaven ist ein guter Anfang, um dies zu erreichen."
+ GER_expand_wilhelmshaven: "Wilhelmshaven erweitern"
+ GER_expand_wilhelmshaven_desc: "Wir brauchen einen erweiterten Hafen als Stützpunkt sowohl für unsere U-Boote als auch für unsere größeren Flotten. Die Investition in den wichtigen Stützpunkt der Kaiserlichen Marine in Wilhelmshaven ist ein guter Anfang, um dies zu erreichen."
 
-GER_north_sea2: "Marinestützpunkte Flanders-Wallonien"
-GER_north_sea2_desc: "Wir brauchen mehr Häfen in der Nordsee, um sicherzustellen, dass wir den Handel unserer Feinde im Würgegriff haben, und um eine Wiederholung der Weltkriegsblockade zu verhindern. Der Ausbau unserer Marinestützpunkte innerhalb Flandern-Walloniens wie z.B. in Antwerpen wird dieses Ziel unterstützen."
+ GER_fla_wal_naval_bases: "Marinestützpunkte Flanders-Wallonien"
+ GER_fla_wal_naval_bases_desc: "Wir brauchen mehr Häfen in der Nordsee, um sicherzustellen, dass wir den Handel unserer Feinde im Würgegriff haben, und um eine Wiederholung der Weltkriegsblockade zu verhindern. Der Ausbau unserer Marinestützpunkte innerhalb Flandern-Walloniens wie z.B. in Antwerpen wird dieses Ziel unterstützen."
 
-GER_north_sea3: "Den Skagerrak sichern"
-GER_north_sea3_desc: "Der Skagerrak ist die lebenswichtige Meerenge zwischen Dänemark, Norwegen und Schweden. Wir müssen ihn sichern, um zu verhindern, dass unsere Flotten im Falle einer Blockade des Nord-Ostsee-Kanals in der Ostsee eingeschlossen werden."
+ GER_secure_the_skagerrak: "Den Skagerrak sichern"
+ GER_secure_the_skagerrak_desc: "Der Skagerrak ist die lebenswichtige Meerenge zwischen Dänemark, Norwegen und Schweden. Wir müssen ihn sichern, um zu verhindern, dass unsere Flotten im Falle einer Blockade des Nord-Ostsee-Kanals in der Ostsee eingeschlossen werden."
 
-GER_generic_navy1: "Die Nordseeküste befestigen"
-GER_generic_navy1_desc: "Die Nordseeküste muss verteidigt werden. Für den unwahrscheinlichen Fall, dass unsere gesamte Flotte verloren geht, wären unsere Flanken gefährlich exponiert, und deshalb müssen wir sofort mit der Befestigung der Küstenlinie beginnen."
+ GER_fortify_north_sea: "Die Nordseeküste befestigen"
+ GER_fortify_north_sea_desc: "Die Nordseeküste muss verteidigt werden. Für den unwahrscheinlichen Fall, dass unsere gesamte Flotte verloren geht, wären unsere Flanken gefährlich exponiert, und deshalb müssen wir sofort mit der Befestigung der Küstenlinie beginnen."
 
-GER_generic_navy2: "Unsere Marinestützpunkte befestigen"
-GER_generic_navy2_desc: "Im Einklang mit den Befestigungen an der Küste sollten wir versuchen, unsere lebenswichtigen Marinestützpunkte besser vor einer amphibischen Invasion zu schützen."
+ GER_fortify_naval_bases: "Unsere Marinestützpunkte befestigen"
+ GER_fortify_naval_bases_desc: "Im Einklang mit den Befestigungen an der Küste sollten wir versuchen, unsere lebenswichtigen Marinestützpunkte besser vor einer amphibischen Invasion zu schützen."
 
-GER_doctrine_fleet_in_beeing: "Wegeners Worte beherzigen"
-GER_doctrine_fleet_in_beeing_desc: "Der hochangesehene und talentierte Wolfgang Wegener erinnert uns daran, dass der Erfolg der Hochsee-Marinen davon abhängt, dass sie die Meere aktiv kontrollieren. Unsere Flotten sollten sich zu großen, entscheidenden Schlachten durchringen und unseren Gegner vernichten, bevor sie eine Chance haben, unsere Versorgungswege abzufangen. Diese Doktrin wurde als "Präsenzflotte" bezeichnet."
+ GER_heed_wegeners_words: "Wegeners Worte beherzigen"
+ GER_heed_wegeners_words_desc: "Der hochangesehene und talentierte Wolfgang Wegener erinnert uns daran, dass der Erfolg der Hochsee-Marinen davon abhängt, dass sie die Meere aktiv kontrollieren. Unsere Flotten sollten sich zu großen, entscheidenden Schlachten durchringen und unseren Gegner vernichten, bevor sie eine Chance haben, unsere Versorgungswege abzufangen. Diese Doktrin wurde als "Präsenzflotte" bezeichnet."
 
-GER_doctrine_fleet_in_beeing2: "U-Boot-Kriegsführung"
-GER_doctrine_fleet_in_beeing2_desc: "Wir haben während des gesamten Weltkriegs U-Boot-Kriege geführt, aber wir haben unsere Angriffe eingeschränkt, um eine internationale Verurteilung zu vermeiden. Diese Politik wird fortgesetzt, aber mit einer neuen Reihe von U-Boot-Modellen, die uns zur Verfügung stehen."
+ GER_u_boat_warfare: "U-Boot-Kriegsführung"
+ GER_u_boat_warfare_desc: "Wir haben während des gesamten Weltkriegs U-Boot-Kriege geführt, aber wir haben unsere Angriffe eingeschränkt, um eine internationale Verurteilung zu vermeiden. Diese Politik wird fortgesetzt, aber mit einer neuen Reihe von U-Boot-Modellen, die uns zur Verfügung stehen."
 
-GER_doctrine_fleet_in_beeing3: "Größer, schneller, schwerer"
-GER_doctrine_fleet_in_beeing3_desc: "Größer, schneller, schwerer. Das sind die Worte, nach denen unsere Marine bei der Konstruktion neuer Kriegsschiffe leben sollte. Wir werden es so machen."
+ GER_larger_faster_heavier: "Größer, schneller, schwerer"
+ GER_larger_faster_heavier_desc: "Größer, schneller, schwerer. Das sind die Worte, nach denen unsere Marine bei der Konstruktion neuer Kriegsschiffe leben sollte. Wir werden es so machen."
 
-GER_doctrine_base_strike: "Hören Sie Patzig und Raeder zu"
-GER_doctrine_base_strike_desc: "Patzig und Raeder haben in enger Zusammenarbeit mit Sperrle von der [GER_GetAirForceName] eine Art Marinestrategie entwickelt, die sich auf mobile Luftwaffenstützpunkte in Form von Trägerschiffen stützt. Diese Männer sind davon überzeugt, dass auf offener See, wo Hilfe tagelang dauern kann, Schiffe nur dann gefährdet werden sollten, wenn sie als eine Gruppe mit Luftdeckung unter einer Doktrin, die als Operative Manövergruppen bekannt ist, zusammen kämpfen."
+ GER_listen_to_patzig_raeder: "Hören Sie Patzig und Raeder zu"
+ GER_listen_to_patzig_raeder_desc: "Patzig und Raeder haben in enger Zusammenarbeit mit Sperrle von der [GER_GetAirForceName] eine Art Marinestrategie entwickelt, die sich auf mobile Luftwaffenstützpunkte in Form von Trägerschiffen stützt. Diese Männer sind davon überzeugt, dass auf offener See, wo Hilfe tagelang dauern kann, Schiffe nur dann gefährdet werden sollten, wenn sie als eine Gruppe mit Luftdeckung unter einer Doktrin, die als Operative Manövergruppen bekannt ist, zusammen kämpfen."
 
-GER_doctrine_base_strike2: "Marine-Luftwaffe Forschung"
-GER_doctrine_base_strike2_desc: "Die [GER_GetAirForceName] hat zusätzliche Mittel gefordert, wenn sie die neue Marinedoktrin der Manövergruppen umsetzen soll. Wir sollten diese Mittel in der Erwartung solider Ergebnisse gewähren."
+ GER_naval_air_force_research: "Marine-Luftwaffe Forschung"
+ GER_naval_air_force_research_desc: "Die [GER_GetAirForceName] hat zusätzliche Mittel gefordert, wenn sie die neue Marinedoktrin der Manövergruppen umsetzen soll. Wir sollten diese Mittel in der Erwartung solider Ergebnisse gewähren."
 
-GER_doctrine_base_strike3: "Trägerforschung ausweiten"
-GER_doctrine_base_strike3_desc: "Manövergruppen benötigt neue Träger. Wir werden diese starken Neuzugänge zu unserer Großen Flotte sofort konstruieren."
+ GER_extend_carrier_research: "Trägerforschung ausweiten"
+ GER_extend_carrier_research_desc: "Manövergruppen benötigt neue Träger. Wir werden diese starken Neuzugänge zu unserer Großen Flotte sofort konstruieren."
 
-GER_doctrine_fleet1: "Unsere Kreuzer modernisieren"
-GER_doctrine_fleet1_desc: "Kreuzer, sowohl leichte als auch schwere, bilden das Rückgrat unserer Seestreitkräfte. Wir müssen unsere Kreuzer sofort modernisieren, um wettbewerbsfähig zu bleiben."
+ GER_modernise_our_cruisers: "Unsere Kreuzer modernisieren"
+ GER_modernise_our_cruisers_desc: "Kreuzer, sowohl leichte als auch schwere, bilden das Rückgrat unserer Seestreitkräfte. Wir müssen unsere Kreuzer sofort modernisieren, um wettbewerbsfähig zu bleiben."
 
-GER_doctrine_fleet2: "Neue Zerstörer Flotte"
-GER_doctrine_fleet2_desc: "Die Zerstörer können sich dem Blick unseres neuen Modernisierungsprogramms nicht entziehen. Wir werden eine neue moderne Zerstörerflotte entwerfen und bauen."
+ GER_new_destroyer_fleet: "Neue Zerstörer Flotte"
+ GER_new_destroyer_fleet_desc: "Die Zerstörer können sich dem Blick unseres neuen Modernisierungsprogramms nicht entziehen. Wir werden eine neue moderne Zerstörerflotte entwerfen und bauen."
 
 GER_tirpitzprogramm: "Tirpitzprogramm erneuern"
 GER_tirpitzprogramm_desc: "Bis 1914 hatte Deutschland durch das Tirpitzprogramm die zweitgrößte Seestreitkraft der Welt erhalten. Das ist lange her, und die britische Flotte ist nicht mehr die größte der Welt. Trotzdem dürfen wir nicht untätig sein. Deutschland muss seine umfangreichen Anstrengungen im Schiffbau fortsetzen, wenn wir Herr der hohen See bleiben wollen."
 
-GER_naval_plans: "Deutschland beherrscht die Meere"
-GER_naval_plans_desc: "Deutschland beherrscht die Meere sind die Worte, nach denen unsere Marine lebt und stirbt. Wir werden eine neue Serie von Trainingsübungen an der Nordseeküste starten, um unseren Seeleuten mehr Erfahrung auf See zu vermitteln."
+ GER_deutschland_beherrscht_die_meere: "Deutschland beherrscht die Meere"
+ GER_deutschland_beherrscht_die_meere_desc: "Deutschland beherrscht die Meere sind die Worte, nach denen unsere Marine lebt und stirbt. Wir werden eine neue Serie von Trainingsübungen an der Nordseeküste starten, um unseren Seeleuten mehr Erfahrung auf See zu vermitteln."
 
 GER_independent_seebataillons: "Unabhängige Seebatallione"
 GER_independent_seebataillons_desc: "Wir müssen unser Marinekorps umschulen und erweitern, um neuen Herausforderungen gegen Feinde in Übersee begegnen zu können. Indem wir ihnen mehr Autonomie innerhalb des Marinekommandos gewähren, sollten wir bessere Ergebnisse erzielen."
@@ -427,142 +424,142 @@ GER_independent_seebataillons_desc: "Wir müssen unser Marinekorps umschulen und
 GER_marine_transports: "Schiffstransporte"
 GER_marine_transports_desc: "Uns fehlen spezielle Landungsboote für unsere Seebataillone. Das muss sich ändern, wenn wir die britische Küste stürmen und unseren Kampf zu Nationen auf fernen Meeren tragen wollen. Wir werden ein neues spezielles amphibisches Landungsboot entwerfen und bauen, um dieser Herausforderung gerecht zu werden."
 
-GER_doctrine_last: "Neue Lehrbücher"
-GER_doctrine_last_desc: "Seit 1810 ist die berühmte Preußische Kriegsakademie unbestreitbar die prestigeträchtigste militärische Hochschule für höhere Bildung in der Welt. Prestige bedeutet jedoch nicht unbedingt zeitgemäß. Unsere Militärdoktrin hat sich in den letzten Jahren gründlich verändert, und während einige Klassiker nie alt werden - Clausewitz rettet immer noch gestresste Studenten - sind andere veraltet. Es ist an der Zeit, sie zu ersetzen."
+ GER_new_textbooks: "Neue Lehrbücher"
+ GER_new_textbooks_desc: "Seit 1810 ist die berühmte Preußische Kriegsakademie unbestreitbar die prestigeträchtigste militärische Hochschule für höhere Bildung in der Welt. Prestige bedeutet jedoch nicht unbedingt zeitgemäß. Unsere Militärdoktrin hat sich in den letzten Jahren gründlich verändert, und während einige Klassiker nie alt werden - Clausewitz rettet immer noch gestresste Studenten - sind andere veraltet. Es ist an der Zeit, sie zu ersetzen."
 
-GER_security: "Institut der Verdeckte Reichspolizei"
-GER_security_desc: "Die Commune von Frankreich und ihre Vertreter sind in den letzten Jahren immer aktiver geworden, haben Kontakt zu unseren eigenen sozialistischen Organisationen aufgenommen und deren Wachstum gefördert Damals brachte ein landesweites hartes Durchgreifen ein gewisses Maß an Frieden, doch heute scheinen die Sicherheitskräfte machtlos. Es gab Vorschläge zur Gründung einer neuen Polizei, der "Verdeckten Reichspolizei". Die "Verpo" würde im geheimen arbeiten, um uns alle aus der Dunkelheit des Radikalismus zu retten."
+ GER_institute_verdeckte_reichspolizei: "Institut der Verdeckte Reichspolizei"
+ GER_institute_verdeckte_reichspolizei_desc: "Die Commune von Frankreich und ihre Vertreter sind in den letzten Jahren immer aktiver geworden, haben Kontakt zu unseren eigenen sozialistischen Organisationen aufgenommen und deren Wachstum gefördert Damals brachte ein landesweites hartes Durchgreifen ein gewisses Maß an Frieden, doch heute scheinen die Sicherheitskräfte machtlos. Es gab Vorschläge zur Gründung einer neuen Polizei, der "Verdeckten Reichspolizei". Die "Verpo" würde im geheimen arbeiten, um uns alle aus der Dunkelheit des Radikalismus zu retten."
 
 GER_security_prerequisite: "Entweder §YFranz von Papen§! oder §YKurt von Schleicher§! ist der Regierungschef."
 
-GER_security_2: "Französische Organisationen verbieten"
-GER_security_2_desc: "Die ehemals französisch kontrollierten Regionen in Westdeutschland sind seit langem widerspenstig. Der französische Nationalismus ist weit verbreitet, und die kulturellen und politischen Organisationen Frankreichs sind auch heute noch stark in der Region verwurzelt. Ein Verbot könnte den französischen Nationalismus unterdrücken, oder es könnte dazu dienen, die Spannungen zu schüren und die Bevölkerung zu radikalisieren. Die französische Kommune wird so oder so nicht glücklich darüber sein."
+ GER_ban_french_organisations: "Französische Organisationen verbieten"
+ GER_ban_french_organisations_desc: "Die ehemals französisch kontrollierten Regionen in Westdeutschland sind seit langem widerspenstig. Der französische Nationalismus ist weit verbreitet, und die kulturellen und politischen Organisationen Frankreichs sind auch heute noch stark in der Region verwurzelt. Ein Verbot könnte den französischen Nationalismus unterdrücken, oder es könnte dazu dienen, die Spannungen zu schüren und die Bevölkerung zu radikalisieren. Die französische Kommune wird so oder so nicht glücklich darüber sein."
 
-GER_security_3: "Armee Ausbildungsmanöver"
-GER_security_3_desc: "Unsere Erfahrungen im Fleischwolf des Weltkrieges haben gezeigt, dass der traditionelle Bewegungskrieg nicht mehr durchführbar ist. Zu diesem Zweck werden wir im Truppenübungsplatz Grafenwöhr in Bayern massive Übungen durchführen, um eine moderne Methode der Kriegsführung zu entwickeln! Die Integration unserer Luft- und Panzerkräfte wird der Schlüssel zu unserem Sieg sein!"
+ GER_army_training_manoeuvres: "Armee Ausbildungsmanöver"
+ GER_army_training_manoeuvres_desc: "Unsere Erfahrungen im Fleischwolf des Weltkrieges haben gezeigt, dass der traditionelle Bewegungskrieg nicht mehr durchführbar ist. Zu diesem Zweck werden wir im Truppenübungsplatz Grafenwöhr in Bayern massive Übungen durchführen, um eine moderne Methode der Kriegsführung zu entwickeln! Die Integration unserer Luft- und Panzerkräfte wird der Schlüssel zu unserem Sieg sein!"
 
-GER_IRE_deal: "Vertrag mit Irland"
-GER_IRE_deal_desc: "Von allen Seiten angegriffen, haben sich die Iren an das Reich um Schutz gewandt. Wir sollten ihnen einen vollständigen Vertrag anbieten, damit wir einen loyalen Verbündeten im Kampf gegen die britische Union haben."
+ GER_deal_with_ireland: "Vertrag mit Irland"
+ GER_deal_with_ireland_desc: "Von allen Seiten angegriffen, haben sich die Iren an das Reich um Schutz gewandt. Wir sollten ihnen einen vollständigen Vertrag anbieten, damit wir einen loyalen Verbündeten im Kampf gegen die britische Union haben."
 
-GER_Mauser_werke: "Mauser Verträge"
-GER_Mauser_werke_desc: "Gegründet unter der Schirmherrschaft des mächtigen Friedrich selbst, hat Mauser im vergangenen Jahrhundert maßgeblich zum Wachstum der deutschen Macht beigetragen. Indem wir sie direkter fördern, können wir unsere Kleinwaffenproduktion steigern und verbessern."
+ GER_mauser_contracts: "Mauser Verträge"
+ GER_mauser_contracts_desc: "Gegründet unter der Schirmherrschaft des mächtigen Friedrich selbst, hat Mauser im vergangenen Jahrhundert maßgeblich zum Wachstum der deutschen Macht beigetragen. Indem wir sie direkter fördern, können wir unsere Kleinwaffenproduktion steigern und verbessern."
 
-GER_Luftwaffe_airbases_1: "Weitere Luftwaffenstützpunkte bauen"
-GER_Luftwaffe_airbases_1_desc: "Bau von Luftwaffenstützpunkten sowohl in der Heimat als auch in den Außenprovinzen, damit wir die Infrastruktur für eine bessere Verteidigung und Offensive am Himmel schaffen können."
+ GER_build_more_airbases: "Weitere Luftwaffenstützpunkte bauen"
+ GER_build_more_airbases_desc: "Bau von Luftwaffenstützpunkten sowohl in der Heimat als auch in den Außenprovinzen, damit wir die Infrastruktur für eine bessere Verteidigung und Offensive am Himmel schaffen können."
 
-GER_Henschel_Albatros: "Marine-Fliegerkorps"
-GER_Henschel_Albatros_desc: "Ein weiteres Ergebnis der Entflechtung der Luftkriegsführung von der Bodenkriegsführung war die Gründung einer Gruppe von Fliegern, die sich auf die Marinefliegerei konzentriert. Diese Piloten, die in speziellen Kursen ausgebildet wurden, verlangen nun nach Flugzeugen, die ihren speziellen Anforderungen entsprechen."
+ GER_naval_aviation_corps: "Marine-Fliegerkorps"
+ GER_naval_aviation_corps_desc: "Ein weiteres Ergebnis der Entflechtung der Luftkriegsführung von der Bodenkriegsführung war die Gründung einer Gruppe von Fliegern, die sich auf die Marinefliegerei konzentriert. Diese Piloten, die in speziellen Kursen ausgebildet wurden, verlangen nun nach Flugzeugen, die ihren speziellen Anforderungen entsprechen."
 
-GER_Junkers_Fogger: "Langstreckenjäger"
-GER_Junkers_Fogger_desc: "Infolge der Bombergruppen-Doktrin haben sich die Anforderungen an die Reichweite der Operationen vervielfacht. Theoretiker und Forscher fordern neue Flugzeugmodelle, um mit ihren immer aggressiveren Bombardierungsplänen Schritt halten zu können. Nach dem Pariser Bomber kommt der Londoner Bomber, danach der Moskauer Bomber - und es scheint kein Ende zu geben!"
+ GER_long_range_fighters: "Langstreckenjäger"
+ GER_long_range_fighters_desc: "Infolge der Bombergruppen-Doktrin haben sich die Anforderungen an die Reichweite der Operationen vervielfacht. Theoretiker und Forscher fordern neue Flugzeugmodelle, um mit ihren immer aggressiveren Bombardierungsplänen Schritt halten zu können. Nach dem Pariser Bomber kommt der Londoner Bomber, danach der Moskauer Bomber - und es scheint kein Ende zu geben!"
 
-GER_mil_expansion_land_1: "Militaristische Wiedergeburt"
-GER_mil_expansion_land_1_desc: "Das deutsche Volk ist für seine Kriegslust und seinen Nationalstolz bekannt. Der Weltkrieg kam uns jedoch teuer zu stehen, und so manche Familie wurde von ihren Männern entblößt. Es ist für uns an der Zeit, den militaristischen Geist der preußischen Ära wieder aufleben zu lassen, im Namen des Reiches und des Kaisers!"
+ GER_militarist_revival: "Militaristische Wiedergeburt"
+ GER_militarist_revival_desc: "Das deutsche Volk ist für seine Kriegslust und seinen Nationalstolz bekannt. Der Weltkrieg kam uns jedoch teuer zu stehen, und so manche Familie wurde von ihren Männern entblößt. Es ist für uns an der Zeit, den militaristischen Geist der preußischen Ära wieder aufleben zu lassen, im Namen des Reiches und des Kaisers!"
 
-GER_Infantry_divs: "Neue Waffen"
-GER_Infantry_divs_desc: "Die deutsche Armee hat zwar die größten Soldaten der Welt, darf aber in der Ausrüstung nicht zurückbleiben. Selbst die größten Soldaten werden es schwer haben, einen besser ausgerüsteten Feind zu besiegen, und es wäre nicht gut für die herausragende Weltmacht, Truppen mit Besenstielen bewaffnet zu haben."
+ GER_new_weapons: "Neue Waffen"
+ GER_new_weapons_desc: "Die deutsche Armee hat zwar die größten Soldaten der Welt, darf aber in der Ausrüstung nicht zurückbleiben. Selbst die größten Soldaten werden es schwer haben, einen besser ausgerüsteten Feind zu besiegen, und es wäre nicht gut für die herausragende Weltmacht, Truppen mit Besenstielen bewaffnet zu haben."
 
-GER_political_1: "Kaiserliche Neustrukturierung"
-GER_political_1_desc: "Obwohl es eine unbestreitbare Tatsache ist, dass das Deutsche Reich die größte Nation ist, die jemals die Seiten der Geschichte ziert hat, gibt es immer Raum für Verbesserungen. Angesichts der jüngsten "Unzulänglichkeiten" in unserer Verwaltung sollten wir verschiedene politische Veränderungen und Reformen für eine bessere Zukunft in Betracht ziehen."
+ GER_imperial_restructuring: "Kaiserliche Neustrukturierung"
+ GER_imperial_restructuring_desc: "Obwohl es eine unbestreitbare Tatsache ist, dass das Deutsche Reich die größte Nation ist, die jemals die Seiten der Geschichte ziert hat, gibt es immer Raum für Verbesserungen. Angesichts der jüngsten "Unzulänglichkeiten" in unserer Verwaltung sollten wir verschiedene politische Veränderungen und Reformen für eine bessere Zukunft in Betracht ziehen."
 
 GER_black_monday_aftermath: "Folgen des Schwarzen Montags"
 GER_black_monday_aftermath_desc: "Der große Börsenkrach von 1936, weithin bekannt als "Schwarzer Montag", hat bereits massive Auswirkungen auf die deutsche Politik, Kultur und Gesellschaft gehabt. Auch wenn der Schaden vielleicht nie wirklich bekannt wird, geschweige denn behoben werden kann, sollten wir Reformen und Sanierungsmaßnahmen ergreifen, um einen Teil unserer verlorenen Fähigkeiten wiederzuerlangen."
 
-GER_mil_industry_2: "PEkI I"
-GER_mil_industry_2_desc: "Der Schwarze Montag hat die zivile Industrie schrecklich getroffen, und die militärische Industrie wurde noch schlimmer in Mitleidenschaft gezogen. Unsere militärischen Zulieferspezialisten drängen auf ein Programm für die Erweiterung kriegswichtiger Industrien, um sicherzustellen, dass unser Militär Kugeln zum Kämpfen hat."
+ GER_peki_i: "PEkI I"
+ GER_peki_i_desc: "Der Schwarze Montag hat die zivile Industrie schrecklich getroffen, und die militärische Industrie wurde noch schlimmer in Mitleidenschaft gezogen. Unsere militärischen Zulieferspezialisten drängen auf ein Programm für die Erweiterung kriegswichtiger Industrien, um sicherzustellen, dass unser Militär Kugeln zum Kämpfen hat."
 
-GER_mil_industry_3: "PEkI II"
-GER_mil_industry_3_desc: "Das Programm für die Erweiterung kriegswichtiger Industrien - oder abgekürzt PEkI, aber wer würde schon ein so gutes, deutsches Wort abkürzen wollen - macht Fortschritte. Wenigstens müssen unsere Arsenale nicht mehr ihre letzten Reserven öffnen, wenn eine Einheit ausrücken will. Es ist noch ein weiter Weg, aber immerhin sind wir auf dem richtigen Weg."
+ GER_peki_ii: "PEkI II"
+ GER_peki_ii_desc: "Das Programm für die Erweiterung kriegswichtiger Industrien - oder abgekürzt PEkI, aber wer würde schon ein so gutes, deutsches Wort abkürzen wollen - macht Fortschritte. Wenigstens müssen unsere Arsenale nicht mehr ihre letzten Reserven öffnen, wenn eine Einheit ausrücken will. Es ist noch ein weiter Weg, aber immerhin sind wir auf dem richtigen Weg."
 
-GER_civ_industry_1: "ZIP I"
-GER_civ_industry_1_desc: "Unsere Schwerindustrie liegt in Trümmern, viele Arbeitnehmer sind arbeitslos, nachdem ihre früheren Arbeitgeber gezwungen waren, sich der Krise zu unterwerfen. Einige unserer führenden Wirtschaftsforscher haben einen Plan für die zivile Industrialisierung, den Zivilindustrialisierungsplan, vorgeschlagen, um den zivilen Industriesektor wiederzubeleben."
+ GER_zip_i: "ZIP I"
+ GER_zip_i_desc: "Unsere Schwerindustrie liegt in Trümmern, viele Arbeitnehmer sind arbeitslos, nachdem ihre früheren Arbeitgeber gezwungen waren, sich der Krise zu unterwerfen. Einige unserer führenden Wirtschaftsforscher haben einen Plan für die zivile Industrialisierung, den Zivilindustrialisierungsplan, vorgeschlagen, um den zivilen Industriesektor wiederzubeleben."
 
-GER_civ_industry_2: "ZIP II"
-GER_civ_industry_2_desc: "Die erste Phase des Zivilindustrialisierungsplans hat sich als vielversprechend erwiesen, aber es wird noch mehr kommen. Zumindest ein Teil der schlimmsten sozialen und wirtschaftlichen Katastrophe ist jedoch gemildert worden."
+ GER_zip_ii: "ZIP II"
+ GER_zip_ii_desc: "Die erste Phase des Zivilindustrialisierungsplans hat sich als vielversprechend erwiesen, aber es wird noch mehr kommen. Zumindest ein Teil der schlimmsten sozialen und wirtschaftlichen Katastrophe ist jedoch gemildert worden."
 
-GER_civ_industry_3: "ZIP III"
-GER_civ_industry_3_desc: "Da unsere zivile Industrie wieder stark ist, aber noch nicht boomt, müssen wir nur noch ein paar weitere Schritte unternehmen. Schon bald wird die deutsche Industrie wieder den Rest der Welt überragen, da der stetige Zufluss von Ressourcen aus den Kolonien für einen massiven Produktionsschub sorgt."
+ GER_zip_iii: "ZIP III"
+ GER_zip_iii_desc: "Da unsere zivile Industrie wieder stark ist, aber noch nicht boomt, müssen wir nur noch ein paar weitere Schritte unternehmen. Schon bald wird die deutsche Industrie wieder den Rest der Welt überragen, da der stetige Zufluss von Ressourcen aus den Kolonien für einen massiven Produktionsschub sorgt."
 
-GER_further_siemens_contracts: "Siemens Günstlingswirtschaft"
-GER_further_siemens_contracts_desc: "Da die Erholung unserer Produktion zu einem großen Teil den Bemühungen von Siemens zu verdanken ist, hat die Regierung dafür gesorgt, dass sie bei allen neuen Bauaufträgen weiter "bevorzugt" wird."
+ GER_siemens_favouritism: "Siemens Günstlingswirtschaft"
+ GER_siemens_favouritism_desc: "Da die Erholung unserer Produktion zu einem großen Teil den Bemühungen von Siemens zu verdanken ist, hat die Regierung dafür gesorgt, dass sie bei allen neuen Bauaufträgen weiter "bevorzugt" wird."
 
-GER_arms_industry: "Industrieller Militärischer Komplex"
-GER_arms_industry_desc: "Angesichts der Unruhen im Westen und des Erwachens des Bären im Osten muss Deutschland heute mehr denn je auf die vor ihm liegenden Herausforderungen vorbereitet sein. Durch Investitionen in unsere heimischen Waffenproduzenten stellen wir sicher, dass der deutsche Soldat für die kommenden Herausforderungen gut gerüstet ist"
+ GER_military_industrial_complex: "Industrieller Militärischer Komplex"
+ GER_military_industrial_complex_desc: "Angesichts der Unruhen im Westen und des Erwachens des Bären im Osten muss Deutschland heute mehr denn je auf die vor ihm liegenden Herausforderungen vorbereitet sein. Durch Investitionen in unsere heimischen Waffenproduzenten stellen wir sicher, dass der deutsche Soldat für die kommenden Herausforderungen gut gerüstet ist"
 
-GER_industry_finished: "Wirtschaftlicher Aufschwung"
- GER_industry_finished_desc: "Endlich, drei Jahre nach dem Schwarzen Montag, erholt sich unsere Wirtschaft langsam! Dies kann der Zeitpunkt sein, um mehr zu investieren, um unsere nationalen Interessen weiter zu sichern!"
+ GER_economic_resurgence: "Wirtschaftlicher Aufschwung"
+ GER_economic_resurgence_desc: "Endlich, drei Jahre nach dem Schwarzen Montag, erholt sich unsere Wirtschaft langsam! Dies kann der Zeitpunkt sein, um mehr zu investieren, um unsere nationalen Interessen weiter zu sichern!"
 
  GER_industrial_boom: "Industrieller Aufschwung"
 GER_industrial_boom_desc: "Da unsere Wirtschaftspolitik nach dem Schwarzen Montag weithin als durchschlagender Erfolg angesehen wird, haben private Investoren die Führung übernommen, und die Wirtschaft hat sich nicht nur stabilisiert, sondern erlebt derzeit eine Art Boom. Das wird nicht ewig so bleiben, aber zumindest für eine Minute können wir uns auf andere dringende Fragen konzentrieren."
 
-GER_siemens: "Subventionen für Siemens"
-GER_siemens_desc: "Siemens ist eines der vielen mittelgroßen bis großen Unternehmen, die das Herz der deutschen Wirtschaft bilden. Indem wir mit ihnen - und einigen anderen kleineren Industrieunternehmen - Verträge abschließen, können wir beginnen, den langsamen und stetigen Weg zur wirtschaftlichen Erholung zu beschreiten."
+ GER_subsidies_for_siemens: "Subventionen für Siemens"
+ GER_subsidies_for_siemens_desc: "Siemens ist eines der vielen mittelgroßen bis großen Unternehmen, die das Herz der deutschen Wirtschaft bilden. Indem wir mit ihnen - und einigen anderen kleineren Industrieunternehmen - Verträge abschließen, können wir beginnen, den langsamen und stetigen Weg zur wirtschaftlichen Erholung zu beschreiten."
 
 GER_krupp_steel_focus: "Krupp Stahl"
 GER_krupp_steel_focus_desc: "All dieses Gerede über Infrastruktur und die Hilfe für unsere Bürger ist nett, ja, aber was ist mit der Artillerie? Panzer? Flugzeugen? Die Welt ist nicht sicher, und die Friedrich Krupp AG hat die Lösungen, die wir brauchen! Sie haben Deutschland seit Generationen gedient, und es ist an der Zeit, sie wieder aufzurufen."
 
-GER_infra_1: "Deutsche Reichsbahn"
-GER_infra_1_desc: "Deutschland ist ein großes, vielbeschäftigtes Land, und die praktischste Lösung für den Transport von Waren und Gütern sind zweifellos Lokomotiven. Die Finanzierung eines schnellen Projekts, um unser Eisenbahnsystem zu verbessern und auf einige ländlichere Teile des Landes auszudehnen, wird die Wirtschaft ankurbeln und dazu beitragen, die Nation ein bisschen mehr zu verbinden."
+ GER_deutsche_bahn: "Deutsche Reichsbahn"
+ GER_deutsche_bahn_desc: "Deutschland ist ein großes, vielbeschäftigtes Land, und die praktischste Lösung für den Transport von Waren und Gütern sind zweifellos Lokomotiven. Die Finanzierung eines schnellen Projekts, um unser Eisenbahnsystem zu verbessern und auf einige ländlichere Teile des Landes auszudehnen, wird die Wirtschaft ankurbeln und dazu beitragen, die Nation ein bisschen mehr zu verbinden."
 
-GER_infra_2: "Reichsautobahn"
-GER_infra_2_desc: "Züge sind heute, aber Autos sind die Zukunft. Reichskanzler Tirpitz ordnete den Bau mehrerer Autobahnen in ganz Deutschland an, aber die Projekte bleiben unvollendet - der Fortschritt ist nach dem Schwarzen Montag fast zum Stillstand gekommen. Wir müssen dieses Projekt nicht nur vollenden, sondern noch größer denken..."
+ GER_reichsautobahn: "Reichsautobahn"
+ GER_reichsautobahn_desc: "Züge sind heute, aber Autos sind die Zukunft. Reichskanzler Tirpitz ordnete den Bau mehrerer Autobahnen in ganz Deutschland an, aber die Projekte bleiben unvollendet - der Fortschritt ist nach dem Schwarzen Montag fast zum Stillstand gekommen. Wir müssen dieses Projekt nicht nur vollenden, sondern noch größer denken..."
 
-GER_infra_3: "Europabahn"
-GER_infra_3_desc: "Mitteleuropa ist groß und beeindruckend auf dem Papier, aber wir machen einfach nicht das Beste daraus. Mehrere Regionen, vor allem Osteuropa, sind nicht richtig mit Deutschland verbunden. Ein Hauptgrund dafür sind die unterentwickelten und schlecht gewarteten Schienensysteme, die zu ständigen logistischen Engpässen führen. Wir können das beheben, und das werden wir auch tun."
+ GER_europabahn: "Europabahn"
+ GER_europabahn_desc: "Mitteleuropa ist groß und beeindruckend auf dem Papier, aber wir machen einfach nicht das Beste daraus. Mehrere Regionen, vor allem Osteuropa, sind nicht richtig mit Deutschland verbunden. Ein Hauptgrund dafür sind die unterentwickelten und schlecht gewarteten Schienensysteme, die zu ständigen logistischen Engpässen führen. Wir können das beheben, und das werden wir auch tun."
 
-GER_economy: "Stand der Wirtschaft"
-GER_economy_desc: "Es ist gut, wirklich. Die Industrie brummt vor sich hin, das Getreide kommt aus den östlichen Mitgliedsländern des Reichspaktes, viele Bürger haben Arbeit. Es blickt auf zum Kaiserreich, und es scheint, als könne nichts die Blütezeit des verstorbenen Reichskanzlers Tirpitz aufhalten..."
+ GER_state_of_the_economy: "Stand der Wirtschaft"
+ GER_state_of_the_economy_desc: "Es ist gut, wirklich. Die Industrie brummt vor sich hin, das Getreide kommt aus den östlichen Mitgliedsländern des Reichspaktes, viele Bürger haben Arbeit. Es blickt auf zum Kaiserreich, und es scheint, als könne nichts die Blütezeit des verstorbenen Reichskanzlers Tirpitz aufhalten..."
 
-GER_research_expansion: "Zusätzliche Forschungsfinanzierung"
-GER_research_expansion_desc: "Investitionen in Wissenschaft und Technologie, um Fortschritte sowohl in militärischen als auch in zivilen Angelegenheiten zu fördern. Ist das nicht ein schrecklich guter Satz? Er sagt eigentlich nichts aus, aber er klingt sicher gut. Jedenfalls, die Labors sind dort drüben..."
+ GER_extra_research_funding: "Zusätzliche Forschungsfinanzierung"
+ GER_extra_research_funding_desc: "Investitionen in Wissenschaft und Technologie, um Fortschritte sowohl in militärischen als auch in zivilen Angelegenheiten zu fördern. Ist das nicht ein schrecklich guter Satz? Er sagt eigentlich nichts aus, aber er klingt sicher gut. Jedenfalls, die Labors sind dort drüben..."
 
-GER_ig_farben: "Synthesekautschuk umarmen"
-GER_ig_farben_desc: "Angesichts der steigenden Nachfrage nach Kautschuk, dessen Preise in die Höhe schnellen, sollten wir die Welt daran erinnern, dass der erste synthetische Kautschuk in den Bayer-Laboratorien in Elberfeld hergestellt wurde, und als solches können wir den Verstand unserer Chemiker einsetzen, um die Methoden seiner Herstellung weiter zu verfeinern und unsere Quellen von Naturkautschuk zu erweitern."
+ GER_embrace_synthetic_rubber: "Synthesekautschuk umarmen"
+ GER_embrace_synthetic_rubber_desc: "Angesichts der steigenden Nachfrage nach Kautschuk, dessen Preise in die Höhe schnellen, sollten wir die Welt daran erinnern, dass der erste synthetische Kautschuk in den Bayer-Laboratorien in Elberfeld hergestellt wurde, und als solches können wir den Verstand unserer Chemiker einsetzen, um die Methoden seiner Herstellung weiter zu verfeinern und unsere Quellen von Naturkautschuk zu erweitern."
 
-GER_krupp_focus: "Krupp AG Verträge"
-GER_krupp_focus_desc: "Die Krupps sind eine fast 400 Jahre alte Dynastie von fleißigen Deutschen, die seit dem Dreißigjährigen Krieg die Kriegsmaschinerie des Reiches gespeist haben! Es ist an der Zeit, sie wieder in Staatsdienst zu stellen, denn ihre Talente werden dringend gebraucht, da ein neuer Weltkrieg bevorsteht."
+ GER_krupp_ag_contracts: "Krupp AG Verträge"
+ GER_krupp_ag_contracts_desc: "Die Krupps sind eine fast 400 Jahre alte Dynastie von fleißigen Deutschen, die seit dem Dreißigjährigen Krieg die Kriegsmaschinerie des Reiches gespeist haben! Es ist an der Zeit, sie wieder in Staatsdienst zu stellen, denn ihre Talente werden dringend gebraucht, da ein neuer Weltkrieg bevorsteht."
 
 GER_artillery_research: "Artillerie Forschung"
 GER_artillery_research_desc: "Ein Bereich, in dem die deutsche Armee eine lange Tradition des Rückstands hat, ist der Bereich der leichten Unterstützungsartillerie. Während die Erfolge beim Bau riesiger, unhandlicher und unpraktischer Prestigeobjekte wie dem "Pariser Geschütz" nicht angezweifelt werden können, ist es an der Zeit, in einige der praktischeren - und effizienteren - Alternativen zu investieren."
 
-GER_doctrine_armor: "Panzer-Durchbruch"
-GER_doctrine_armor_desc: "Ein weiterer entscheidender Punkt der neuen Doktrin von Guderian und Manstein ist der sogenannte Schwerpunkt. Sie glauben, dass die Panzertechnologie so weit fortgeschritten ist, dass massive, mobile Panzerkräfte mit entsprechend ausgerüsteten Unterstützungstruppen in der Lage sein sollten, jede Offensive zum Sieg zu führen. Jetzt brauchen sie neue Panzer, die dieser Idee entsprechen."
+ GER_armoured_breakthrough: "Panzer-Durchbruch"
+ GER_armoured_breakthrough_desc: "Ein weiterer entscheidender Punkt der neuen Doktrin von Guderian und Manstein ist der sogenannte Schwerpunkt. Sie glauben, dass die Panzertechnologie so weit fortgeschritten ist, dass massive, mobile Panzerkräfte mit entsprechend ausgerüsteten Unterstützungstruppen in der Lage sein sollten, jede Offensive zum Sieg zu führen. Jetzt brauchen sie neue Panzer, die dieser Idee entsprechen."
 
-GER_hahn_meitner: "Hahn & Meitner unterstützen"
-GER_hahn_meitner_desc: "Herr Hahn und Fräulein Meitner sind beide äußerst begabte Physiker; Hahn wird regelmäßig in wissenschaftlichen Zeitschriften veröffentlicht, sogar im Syndikalistenblock, und Meitner ist Abteilungsleiter am Kaiser-Wilhelm-Institut! Zusammen, so glauben wir, können die beiden dazu beitragen, extrem leistungsfähige Werkzeuge für die Gesellschaft zu schaffen. Und noch mächtigere Waffen."
+ GER_support_hahn_meitner: "Hahn & Meitner unterstützen"
+ GER_support_hahn_meitner_desc: "Herr Hahn und Fräulein Meitner sind beide äußerst begabte Physiker; Hahn wird regelmäßig in wissenschaftlichen Zeitschriften veröffentlicht, sogar im Syndikalistenblock, und Meitner ist Abteilungsleiter am Kaiser-Wilhelm-Institut! Zusammen, so glauben wir, können die beiden dazu beitragen, extrem leistungsfähige Werkzeuge für die Gesellschaft zu schaffen. Und noch mächtigere Waffen."
 
-GER_rocket: "Unterstützung von Braun"
-GER_rocket_desc: "Von Braun ist ein berüchtigter Befürworter der "Raketentechnik" und weltweit der anerkannteste Wissenschaftler auf diesem Gebiet. Er kommt zu uns mit dem Angebot neuer waffenfähiger Konstruktionen im Gegenzug für Sponsorengelder. Wir sollten dies intensiv prüfen."
+ GER_support_von_braun: "Unterstützung von Braun"
+ GER_support_von_braun_desc: "Von Braun ist ein berüchtigter Befürworter der "Raketentechnik" und weltweit der anerkannteste Wissenschaftler auf diesem Gebiet. Er kommt zu uns mit dem Angebot neuer waffenfähiger Konstruktionen im Gegenzug für Sponsorengelder. Wir sollten dies intensiv prüfen."
 
-GER_zuse: "Konrad Zuse unterstützen"
-GER_zuse_desc: "Konrad Zuse hat bereits mehrere Patente für ein, wie er es nennt, "Rechengerät" eingereicht. Mit entsprechender Förderung könnte sein Geist vom Staat für den Staat genutzt werden."
+ GER_support_konrad_zuse: "Konrad Zuse unterstützen"
+ GER_support_konrad_zuse_desc: "Konrad Zuse hat bereits mehrere Patente für ein, wie er es nennt, "Rechengerät" eingereicht. Mit entsprechender Förderung könnte sein Geist vom Staat für den Staat genutzt werden."
 
-GER_black_monday_radio: "Der Kanzler und das Radio"
-GER_black_monday_radio_desc: "Die Krise hat den Glauben der Deutschen an ihr Land erschüttert. Das Vertrauen der Öffentlichkeit ist der Schlüssel. Wöchentliche Radioansprachen, in denen bekannt gegeben wird, welche Schritte die Regierung zur Bekämpfung der Krise unternommen hat, werden dazu beitragen, Panik zu vermeiden und das Vertrauen in unsere Verwaltung zu erhalten."
+ GER_the_kanzler_and_the_radio: "Der Kanzler und das Radio"
+ GER_the_kanzler_and_the_radio_desc: "Die Krise hat den Glauben der Deutschen an ihr Land erschüttert. Das Vertrauen der Öffentlichkeit ist der Schlüssel. Wöchentliche Radioansprachen, in denen bekannt gegeben wird, welche Schritte die Regierung zur Bekämpfung der Krise unternommen hat, werden dazu beitragen, Panik zu vermeiden und das Vertrauen in unsere Verwaltung zu erhalten."
 
-GER_groener1: "Unrentable Hinterlassenschaften liquidieren"
-GER_groener1_desc: "Der Staatsmann Hjalmar Schacht hat kürzlich einen Aufsatz mit dem Titel "Die schwarze Null: die Notwendigkeit von Sparmaßnahmen" veröffentlicht, in dem er absolute Bilanzdisziplin fordert, auch wenn dies bedeutet, dass einige von Subventionen abhängige Unternehmen verloren gehen. Der Aufsatz hat in der Bevölkerung viele Anhänger gefunden, und die Liquidierung einiger unprofitabler Unternehmen könnte genau das sein, was wir brauchen, um unsere Ausgaben zu mindern."
+ GER_liquidate_unprofitable_estates: "Unrentable Hinterlassenschaften liquidieren"
+ GER_liquidate_unprofitable_estates_desc: "Der Staatsmann Hjalmar Schacht hat kürzlich einen Aufsatz mit dem Titel "Die schwarze Null: die Notwendigkeit von Sparmaßnahmen" veröffentlicht, in dem er absolute Bilanzdisziplin fordert, auch wenn dies bedeutet, dass einige von Subventionen abhängige Unternehmen verloren gehen. Der Aufsatz hat in der Bevölkerung viele Anhänger gefunden, und die Liquidierung einiger unprofitabler Unternehmen könnte genau das sein, was wir brauchen, um unsere Ausgaben zu mindern."
 
-GER_groener2: "Reichsarbeitsdienst"
-GER_groener2_desc: "Die Kontakte und Freunde von Schacht in militärischen Kreisen haben nun eine radikale Neuerung vorgeschlagen. Für die Dauer der Krise werden die Rekruten die Möglichkeit haben, stattdessen ein halbes Jahr Militärdienst als Arbeiter im Staatsdienst zu leisten. Dies ist zwar schlecht für die Rekrutierungszahlen, wird aber unserer Wirtschaft dringend benötigte Arbeitskräfte zuführen."
+ GER_reichsarbeitsdienst: "Reichsarbeitsdienst"
+ GER_reichsarbeitsdienst_desc: "Die Kontakte und Freunde von Schacht in militärischen Kreisen haben nun eine radikale Neuerung vorgeschlagen. Für die Dauer der Krise werden die Rekruten die Möglichkeit haben, stattdessen ein halbes Jahr Militärdienst als Arbeiter im Staatsdienst zu leisten. Dies ist zwar schlecht für die Rekrutierungszahlen, wird aber unserer Wirtschaft dringend benötigte Arbeitskräfte zuführen."
 
-GER_groener3: "Gehaltskürzung"
-GER_groener3_desc: "Die Kürzung der enormen Gehälter jener "Beamten", die sich das mehr als leisten können, ist nicht mit offenen Armen aufgenommen worden. Viele haben Schacht als einen Syndikalisten im Schafspelz bezeichnet, aber schnell ihre Aussagen über die drohende Freigabe ihrer "Ausgaben" während der Krise zurückgenommen. Obwohl es den Anschein hat, dass der Schacht eine ganze Weile lang nicht zu gesellschaftlichen Zusammenkünften der Aristokratie eingeladen wird."
+ GER_gehaltskurzung: "Gehaltskürzung"
+ GER_gehaltskurzung_desc: "Die Kürzung der enormen Gehälter jener "Beamten", die sich das mehr als leisten können, ist nicht mit offenen Armen aufgenommen worden. Viele haben Schacht als einen Syndikalisten im Schafspelz bezeichnet, aber schnell ihre Aussagen über die drohende Freigabe ihrer "Ausgaben" während der Krise zurückgenommen. Obwohl es den Anschein hat, dass der Schacht eine ganze Weile lang nicht zu gesellschaftlichen Zusammenkünften der Aristokratie eingeladen wird."
 
-GER_schacht1: "Rettung von Junker-Siedlungen"
-GER_schacht1_desc: "Der Präsident der Reichsbank, Karl Helfferich, hat grünes Licht für sein Wirtschaftsprogramm, den sogenannten Helfferichplan, gefordert. Seiner Ansicht nach müssen wir die hoch verschuldeten Junker-Siedlungen retten, wenn wir nicht einen weiteren Absturz ins Chaos auslösen wollen."
+ GER_bail_out_junker_estates: "Rettung von Junker-Siedlungen"
+ GER_bail_out_junker_estates_desc: "Der Präsident der Reichsbank, Karl Helfferich, hat grünes Licht für sein Wirtschaftsprogramm, den sogenannten Helfferichplan, gefordert. Seiner Ansicht nach müssen wir die hoch verschuldeten Junker-Siedlungen retten, wenn wir nicht einen weiteren Absturz ins Chaos auslösen wollen."
 
-GER_schacht2: "Investitionsprogramm"
-GER_schacht2_desc: "Der nächste Teil des Helfferichplan wäre ein massives Programm zur Förderung privater Investitionen, sowohl in mittelständische Unternehmen als auch in Konsumgüter. Auch wenn dies schwer zu erreichen sein wird, sollte es den Produzenten ermöglichen, wieder einen Markt für ihre Produkte zu finden, was hoffentlich zur Wiederbelebung der Wirtschaft beitragen wird."
+ GER_investitionsprogramm: "Investitionsprogramm"
+ GER_investitionsprogramm_desc: "Der nächste Teil des Helfferichplan wäre ein massives Programm zur Förderung privater Investitionen, sowohl in mittelständische Unternehmen als auch in Konsumgüter. Auch wenn dies schwer zu erreichen sein wird, sollte es den Produzenten ermöglichen, wieder einen Markt für ihre Produkte zu finden, was hoffentlich zur Wiederbelebung der Wirtschaft beitragen wird."
 
-GER_schacht3: "Goldstandard"
-GER_schacht3_desc: "Indem der Strang des Goldes innerhalb des Reiches fallen gelassen wird, wird die Produktivität aufgrund der weiteren Abhängigkeit von der Mark wachsen können. Obwohl viele dagegen argumentiert und erklärt haben, dass die Auswirkungen des Schwarzen Montags eher kurzfristiger als langfristiger Natur sind, antwortet Helfferich, dass die kurzfristigen Auswirkungen das Imperium lähmen und es seiner Konkurrenz ermöglichen, voranzukommen."
+ GER_goldstandard: "Goldstandard"
+ GER_goldstandard_desc: "Indem der Strang des Goldes innerhalb des Reiches fallen gelassen wird, wird die Produktivität aufgrund der weiteren Abhängigkeit von der Mark wachsen können. Obwohl viele dagegen argumentiert und erklärt haben, dass die Auswirkungen des Schwarzen Montags eher kurzfristiger als langfristiger Natur sind, antwortet Helfferich, dass die kurzfristigen Auswirkungen das Imperium lähmen und es seiner Konkurrenz ermöglichen, voranzukommen."
 
-GER_zollverein: "Reform Mitteleuropa"
-GER_zollverein_desc: "Zu lange hat Mitteleuropa nur dem Namen nach existiert. Es ist an der Zeit, eine Reform in Angriff zu nehmen, von der seine Mitglieder ... und wir tatsächlich profitieren. Der erste Schritt sind einheitliche Tarife."
+ GER_reform_mitteleuropa: "Reform Mitteleuropa"
+ GER_reform_mitteleuropa_desc: "Zu lange hat Mitteleuropa nur dem Namen nach existiert. Es ist an der Zeit, eine Reform in Angriff zu nehmen, von der seine Mitglieder ... und wir tatsächlich profitieren. Der erste Schritt sind einheitliche Tarife."
 
-GER_synthetic: "Forschung in Kunststoffen"
-GER_synthetic_desc: "In Zusammenarbeit mit Mitgliedern der Kaiser-Wilhelm-Gesellschaft konnten die Forscher der IG Farben bereits erstaunliche Durchbrüche auf dem Gebiet der Kunststoffproduktion erzielen. Indem wir ihnen Zugang zu mehr Finanzmitteln verschaffen, können wir ihre Forschung vielleicht für die Massenanwendung reif machen."
+ GER_research_in_synthetics: "Forschung in Kunststoffen"
+ GER_research_in_synthetics_desc: "In Zusammenarbeit mit Mitgliedern der Kaiser-Wilhelm-Gesellschaft konnten die Forscher der IG Farben bereits erstaunliche Durchbrüche auf dem Gebiet der Kunststoffproduktion erzielen. Indem wir ihnen Zugang zu mehr Finanzmitteln verschaffen, können wir ihre Forschung vielleicht für die Massenanwendung reif machen."
 
 GER_experimental_research: "Experimentelle Forschung"
 GER_experimental_research_desc: "Während wir in einigen der traditionelleren, für die Industrie relevanten Bereiche - Ingenieurwesen, Chemie, Physik - bereits gute Fortschritte gemacht haben, wollen einige unserer Wissenschaftler Mittel für die Forschung in einigen eher esoterischen Bereichen erhalten. Auch wenn der Gewinn nicht so unmittelbar sein mag, ist das langfristige Potenzial immens!"
@@ -576,47 +573,47 @@ GER_organise_the_youth_desc: "Einige Experten haben vorgeschlagen, dass die best
 GER_a_christian_trade_union: "Eine christliche Gewerkschaft"
 GER_a_christian_trade_union_desc: "Mit der Gründung des Deutschen Christlichen Gewerkschaftsbundes als staatlich geführte Gewerkschaft werden wir hoffentlich ein Bollwerk gegen Angriffe auf die Loyalität der Arbeitnehmer von links und rechts errichten. Unter der moralischen Autorität der Priester und der leitenden Hand des "summus episcopus", des Kaisers, werden die Arbeiter ihre Anliegen vorbringen können."
 
-GER_jet: "Kult der Fliegerei"
-GER_jet_desc: "Das Bild des Fliegers hat sich im aktuellen Konflikt verändert. Sie haben die Kavallerie als das Bild des glorreichen und galanten Krieges abgelöst. Jedes Kind strebt danach, ein Flieger zu sein und in seiner glänzenden Rüstung über den Himmel zu streifen. Indem wir dieses Image weiter fördern, können wir unsere Flieger motivieren, ihr Bestes im Dienste des Reiches zu geben."
+ GER_cult_of_aviation: "Kult der Fliegerei"
+ GER_cult_of_aviation_desc: "Das Bild des Fliegers hat sich im aktuellen Konflikt verändert. Sie haben die Kavallerie als das Bild des glorreichen und galanten Krieges abgelöst. Jedes Kind strebt danach, ein Flieger zu sein und in seiner glänzenden Rüstung über den Himmel zu streifen. Indem wir dieses Image weiter fördern, können wir unsere Flieger motivieren, ihr Bestes im Dienste des Reiches zu geben."
 
-GER_linie1: "Reaktivieren Sie die Ludendorfflinie"
-GER_linie1_desc: "Die syndikalistische Bedrohung droht dunkler denn je. Aus Angst, unvorbereitet in den nächsten Krieg zu ziehen, wird die Reaktivierung der alten Ludendorfflinie an unserer Westgrenze als lebenswichtig angesehen. Einst eines der vielen kostspieligen Prestigeprojekte des Diktators, ist die Bunker- und Festungslinie in den letzten Jahren außer Gebrauch gekommen. Dies ist nichts, was sich nicht mit ein wenig technischem Einfallsreichtum lösen ließe!"
+ GER_reactivate_ludendorfflinie: "Reaktivieren Sie die Ludendorfflinie"
+ GER_reactivate_ludendorfflinie_desc: "Die syndikalistische Bedrohung droht dunkler denn je. Aus Angst, unvorbereitet in den nächsten Krieg zu ziehen, wird die Reaktivierung der alten Ludendorfflinie an unserer Westgrenze als lebenswichtig angesehen. Einst eines der vielen kostspieligen Prestigeprojekte des Diktators, ist die Bunker- und Festungslinie in den letzten Jahren außer Gebrauch gekommen. Dies ist nichts, was sich nicht mit ein wenig technischem Einfallsreichtum lösen ließe!"
 
-GER_linie2_full: "Über die Maas und in der Ferne"
-GER_linie2_full_desc: "Unser Marionettenregime in Brüssel schreit um Hilfe gegen die Syndikalisten. Eine Verlängerung der Reaktivierung der Ludendorfflinie über die Maas bis zur Nordseeküste wäre kostspielig und würde kostbare Zeit in Anspruch nehmen - aber sie könnte uns in die Lage versetzen, auf fremdem Boden Widerstand zu leisten, so dass kein einziger deutscher Zivilist bedroht wird."
+ GER_over_the_meuse: "Über die Maas und in der Ferne"
+ GER_over_the_meuse_desc: "Unser Marionettenregime in Brüssel schreit um Hilfe gegen die Syndikalisten. Eine Verlängerung der Reaktivierung der Ludendorfflinie über die Maas bis zur Nordseeküste wäre kostspielig und würde kostbare Zeit in Anspruch nehmen - aber sie könnte uns in die Lage versetzen, auf fremdem Boden Widerstand zu leisten, so dass kein einziger deutscher Zivilist bedroht wird."
 
-GER_linie2_small: "Allein Bastenach befestigen"
-GER_linie2_small_desc: "Unsere Ressourcen sind knapp bemessen und Zeit ist von entscheidender Bedeutung. Auch wenn Flandern-Wallonien im Vergleich zur deutsch-französischen Grenze vielleicht etwas unverteidigt liegt, können wir es uns nicht leisten, Zeit zu verschwenden, um fremdes Territorium zu verteidigen, das früher oder später sowieso verloren gehen wird."
+ GER_fortify_bastenach_alone: "Allein Bastenach befestigen"
+ GER_fortify_bastenach_alone_desc: "Unsere Ressourcen sind knapp bemessen und Zeit ist von entscheidender Bedeutung. Auch wenn Flandern-Wallonien im Vergleich zur deutsch-französischen Grenze vielleicht etwas unverteidigt liegt, können wir es uns nicht leisten, Zeit zu verschwenden, um fremdes Territorium zu verteidigen, das früher oder später sowieso verloren gehen wird."
 
-GER_linie3: "Das Rheinland befestigen"
-GER_linie3_desc: "Das Rheinland ist die am stärksten industrialisierte Region der ganzen Welt und für unsere Wirtschaft sowohl im Frieden als auch im Krieg absolut lebenswichtig. Immerhin liegt es nur wenige Kilometer von einer Grenze entfernt, die in den letzten Monaten von vielen nervös beäugt wurde. Um uns auf alle Eventualitäten vorzubereiten, sollten wir mit der Erweiterung der Ludendorflinie nach Norden beginnen."
+ GER_fortify_the_rhineland: "Das Rheinland befestigen"
+ GER_fortify_the_rhineland_desc: "Das Rheinland ist die am stärksten industrialisierte Region der ganzen Welt und für unsere Wirtschaft sowohl im Frieden als auch im Krieg absolut lebenswichtig. Immerhin liegt es nur wenige Kilometer von einer Grenze entfernt, die in den letzten Monaten von vielen nervös beäugt wurde. Um uns auf alle Eventualitäten vorzubereiten, sollten wir mit der Erweiterung der Ludendorflinie nach Norden beginnen."
 
-GER_schule: "Paderborner Luftkriegsschule"
-GER_schule_desc: "Die Einrichtung einer formalisierten Schule für unsere Flieger würde immens dazu beitragen, dieses derzeit etwas unorganisierte Gebiet zu vereinheitlichen und zu fördern. Es gibt viele Helden der Luftkriegsführung aus dem Weltkrieg, der berühmteste ist natürlich der Rote Baron selbst, dessen Erkenntnisse für neue Rekruten noch wertvoll sein können. Dort könnten sie ihre Weisheit an eine neue Generation von deutschen Piloten weitergeben."
+ GER_paderborner_luftkriegsschule: "Paderborner Luftkriegsschule"
+ GER_paderborner_luftkriegsschule_desc: "Die Einrichtung einer formalisierten Schule für unsere Flieger würde immens dazu beitragen, dieses derzeit etwas unorganisierte Gebiet zu vereinheitlichen und zu fördern. Es gibt viele Helden der Luftkriegsführung aus dem Weltkrieg, der berühmteste ist natürlich der Rote Baron selbst, dessen Erkenntnisse für neue Rekruten noch wertvoll sein können. Dort könnten sie ihre Weisheit an eine neue Generation von deutschen Piloten weitergeben."
 
-GER_institut: "Institut für Luftfahrttechnik"
-GER_institut_desc: "Eine unabhängige Forschungsorganisation für Luftfahrttechnik, das Institut für Luftfahrttechnik, könnte ein wichtiges Sprungbrett auf dem Weg zur Sicherung der deutschen Vorherrschaft nicht nur am Boden und auf See, sondern auch in der Luft sein."
+ GER_institut_fur_luftfahrttechnik: "Institut für Luftfahrttechnik"
+ GER_institut_fur_luftfahrttechnik_desc: "Eine unabhängige Forschungsorganisation für Luftfahrttechnik, das Institut für Luftfahrttechnik, könnte ein wichtiges Sprungbrett auf dem Weg zur Sicherung der deutschen Vorherrschaft nicht nur am Boden und auf See, sondern auch in der Luft sein."
 
-GER_heerflieger: "Keep the Fliegertruppe"
-GER_heerflieger_desc: "Unsere Flieger sind derzeit als Teil unserer Heeresstruktur organisiert, ohne ein unabhängiges Luftwaffenkommando. Dies fördert die Zusammenarbeit zwischen Fliegern und Bodentruppen und führt dazu, dass sich die derzeitige Doktrin ausschließlich darauf konzentriert: Luftunterstützung mit dem Primat der Bodentruppen. Diese Spezialisierung ist angemessen und sollte unsere Politik bleiben."
+ GER_keep_the_fliegertruppe: "Keep the Fliegertruppe"
+ GER_keep_the_fliegertruppe_desc: "Unsere Flieger sind derzeit als Teil unserer Heeresstruktur organisiert, ohne ein unabhängiges Luftwaffenkommando. Dies fördert die Zusammenarbeit zwischen Fliegern und Bodentruppen und führt dazu, dass sich die derzeitige Doktrin ausschließlich darauf konzentriert: Luftunterstützung mit dem Primat der Bodentruppen. Diese Spezialisierung ist angemessen und sollte unsere Politik bleiben."
 
-GER_luftwaffe: "Eine unabhängige Luftwaffe"
-GER_luftwaffe_desc: "Seit dem Weltkrieg hat sich der Rote Baron, Manfred Freiherr von Richthofen, für die Schaffung einer unabhängigen Luftwaffe - der Luftwaffe, wie er sie gerne nennt - eingesetzt. Bis vor kurzem konnten die konservativen Elemente in den traditionell prestigeträchtigeren Bodentruppen dies noch vereiteln, aber da wieder einmal ein Krieg droht, könnte es an der Zeit sein, über die Idee des Barons nachzudenken."
+ GER_independent_luftwaffe: "Eine unabhängige Luftwaffe"
+ GER_independent_luftwaffe_desc: "Seit dem Weltkrieg hat sich der Rote Baron, Manfred Freiherr von Richthofen, für die Schaffung einer unabhängigen Luftwaffe - der Luftwaffe, wie er sie gerne nennt - eingesetzt. Bis vor kurzem konnten die konservativen Elemente in den traditionell prestigeträchtigeren Bodentruppen dies noch vereiteln, aber da wieder einmal ein Krieg droht, könnte es an der Zeit sein, über die Idee des Barons nachzudenken."
 
 GER_sturzflieger: "Sturzkampfflieger"
 GER_sturzflieger_desc: "Ein Konzept, das in letzter Zeit viele Anhänger unter den Luftfahrtforschern gefunden hat, ist das eines Flugzeugs, das aus großer Höhe auf das Schlachtfeld stürzt, um seine Nutzlast abzuladen, und seinen Schwung nutzt, um unmittelbar danach wieder zu steigen. Dieses Konzept, das Sturzflieger genannt wird, würde die Zeit, die unser kostbares Flugzeug in unmittelbarer Gefahr wäre, auf ein Minimum reduzieren."
 
-GER_cas_focus: "Koordinierte Luftnahunterstützung"
-GER_cas_focus_desc: "Die Anforderungen und Einsatzmöglichkeiten von Luftunterstützungsflugzeugen für den Nahbereich unterscheiden sich erwiesenermaßen erheblich von denen der gängigen Kampfflugzeuge. Wenn wir unsere Luftforschungskapazitäten auf die Identifizierung und Nutzung der Feinheiten dieser speziellen Form der Luftkriegsführung konzentrieren, sollten wir in der Lage sein, weitaus bessere Ergebnisse im Flugzeugbau zu erzielen."
+ GER_coordinated_cas: "Koordinierte Luftnahunterstützung"
+ GER_coordinated_cas_desc: "Die Anforderungen und Einsatzmöglichkeiten von Luftunterstützungsflugzeugen für den Nahbereich unterscheiden sich erwiesenermaßen erheblich von denen der gängigen Kampfflugzeuge. Wenn wir unsere Luftforschungskapazitäten auf die Identifizierung und Nutzung der Feinheiten dieser speziellen Form der Luftkriegsführung konzentrieren, sollten wir in der Lage sein, weitaus bessere Ergebnisse im Flugzeugbau zu erzielen."
 
-GER_para: "Gründet die Luftlandetruppe"
-GER_para_desc: "Da wir uns weiterhin auf die Zusammenarbeit zwischen Boden und Luft konzentrieren, gab es Vorschläge, unsere Fallschirmjägerabteilung, die derzeit noch in den Kinderschuhen steckt, stark auszubauen. Dies könnte etwas damit zu tun haben, dass das Abspringen aus einem fliegenden Flugzeug nicht sehr glorreich oder unterhaltsam erscheint - oder wirklich überlebensfähig. Wir sollten das Image des Fallschirmjägers als Speerspitze des kaiserlichen Militärs fördern."
+ GER_found_luftlandetruppe: "Gründet die Luftlandetruppe"
+ GER_found_luftlandetruppe_desc: "Da wir uns weiterhin auf die Zusammenarbeit zwischen Boden und Luft konzentrieren, gab es Vorschläge, unsere Fallschirmjägerabteilung, die derzeit noch in den Kinderschuhen steckt, stark auszubauen. Dies könnte etwas damit zu tun haben, dass das Abspringen aus einem fliegenden Flugzeug nicht sehr glorreich oder unterhaltsam erscheint - oder wirklich überlebensfähig. Wir sollten das Image des Fallschirmjägers als Speerspitze des kaiserlichen Militärs fördern."
 
 GER_bombergruppen: "Bombergruppen Doktrin"
 GER_bombergruppen_desc: "Eines der ersten Ergebnisse der Gründung von Richthofens Luftwaffe war die Erfindung einer neuen Doktrin. Diese Doktrin behauptet, dass die Möglichkeiten der Bomber-Massenkriegsführung aufregend genug sind, um den Vorrang vor der traditionellen Bodenunterstützung zu rechtfertigen. Kampfflugzeuge sollten nicht am Boden eingesetzt werden, wo sie Luftabwehrangriffen ausgesetzt werden können, sondern am Himmel, wo sie Bomberstaffeln eskortieren können."
 
-GER_singapore_airstrips: "Erweiterung der Start- und Landebahnen von Singapur"
-GER_singapore_airstrips_desc: "Singapur ist das Zentrum des deutschen Ostasiens. Als Festungsstadt hat es einen großen Bedarf an zivilen und militärischen Flugplätzen. Wir sollten diesem dringenden Bedarf gerecht werden, indem wir in den Bau investieren, um unsere Marinestation vor ausländischen Rivalen in der Region zu schützen."
+ GER_singapur_airstrips: "Erweiterung der Start- und Landebahnen von Singapur"
+ GER_singapur_airstrips_desc: "Singapur ist das Zentrum des deutschen Ostasiens. Als Festungsstadt hat es einen großen Bedarf an zivilen und militärischen Flugplätzen. Wir sollten diesem dringenden Bedarf gerecht werden, indem wir in den Bau investieren, um unsere Marinestation vor ausländischen Rivalen in der Region zu schützen."
 
 GER_finalise_centralisation: "Zentralisierung abschließen"
 GER_finalise_centralisation_desc: "Die unabhängigen Postdienste der Königreiche Baden, Württemberg und Bayern in Süddeutschland sind einige der letzten Überbleibsel der alten föderalen Struktur Deutschlands. Indem wir endlich die Zuständigkeiten der nationalen deutschen Post auf diese Länder ausweiten, könnten wir dazu beitragen, diese schädlichen partikularistischen Tendenzen zu unterdrücken. Aus Deutschland kann man nicht aussteigen!"
@@ -633,31 +630,31 @@ GER_embrace_faud_desc: "Die Freie Arbeiterunion Deutschlands ist eine lästige O
 GER_women_suffrage: "Frauenwahlrecht"
 GER_women_suffrage_desc: "Während die Preußen nun endlich ihr allgemeines, geheimes und gleichberechtigtes Wahlrecht haben, sind die Frauen in Deutschland nach wie vor von der Abstimmung ausgenommen. Das Bewusstsein für dieses Thema ist stetig gewachsen, und Clubs nach dem Vorbild der britischen Suffragetten werben um neue Mitglieder. Wenn wir die öffentliche Peinlichkeit vermeiden wollen, unter der die Briten in dieser Affäre gelitten haben, sollten wir vielleicht in Erwägung ziehen, ihren Forderungen nachzukommen."
 
-GER_schleicher: "Schleicher's Kamarilla"
-GER_schleicher_desc: "Der Kaiser machte von Schleicher zum Reichskanzler wegen seiner Versprechen, Deutschland gegen Bedrohungen sowohl von Seiten der Demokraten als auch der Junker zu sichern. Doch seit er sein Amt innehat, hat Schleicher wichtige Ämter neu besetzt und Verträge mit Junker-Firmen abgeschlossen, und einige Leute flüstern über einen finsteren Plan, den Junker doch noch an die Macht zu verhelfen..."
+ GER_schleichers_kamarilla: "Schleicher's Kamarilla"
+ GER_schleichers_kamarilla_desc: "Der Kaiser machte von Schleicher zum Reichskanzler wegen seiner Versprechen, Deutschland gegen Bedrohungen sowohl von Seiten der Demokraten als auch der Junker zu sichern. Doch seit er sein Amt innehat, hat Schleicher wichtige Ämter neu besetzt und Verträge mit Junker-Firmen abgeschlossen, und einige Leute flüstern über einen finsteren Plan, den Junker doch noch an die Macht zu verhelfen..."
 
 GER_schleicher_prerequisite: "Erfordert §YKurt von Schleicher§! als Regierungschef."
 
-GER_restore_country_rights: "Den Bundesrat wieder einsetzen"
-GER_restore_country_rights_desc: "Unter dem Ludendorff-Regime wurden viele der Privilegien der deutschen Gliedstaaten abgeschafft. Die größte dieser Beleidigungen war die formelle Auflösung des Bundesrates, der Kammer, in der Delegierte aus allen Ländern ihre Bedenken äußern und über die Reichsgesetzgebung abstimmen können. Mit der Wiedereinsetzung dieser Organisation würden wir ein starkes und positives Signal an die deutschen Staaten senden."
+ GER_restore_bundesrat: "Den Bundesrat wieder einsetzen"
+ GER_restore_bundesrat_desc: "Unter dem Ludendorff-Regime wurden viele der Privilegien der deutschen Gliedstaaten abgeschafft. Die größte dieser Beleidigungen war die formelle Auflösung des Bundesrates, der Kammer, in der Delegierte aus allen Ländern ihre Bedenken äußern und über die Reichsgesetzgebung abstimmen können. Mit der Wiedereinsetzung dieser Organisation würden wir ein starkes und positives Signal an die deutschen Staaten senden."
 
-GER_babelsberg: "Babelsberg erweitern"
-GER_babelsberg_desc: "Die Babelsberger Filmstudios haben Hollywood längst als einflussreichste Filmindustrie der Welt abgelöst. Doch auf Filme, die so weit wie möglich von der Politik entfernt sind, ist alles andere als staatstragend. Einige Produzenten, namentlich Leni Riefenstahl, haben einige Projekte vorgeschlagen, die mit unserer Finanzierung dazu beitragen könnten, die Deutschen an ihre glorreiche Vergangenheit und Zukunft zu erinnern."
+ GER_expand_babelsberg: "Babelsberg erweitern"
+ GER_expand_babelsberg_desc: "Die Babelsberger Filmstudios haben Hollywood längst als einflussreichste Filmindustrie der Welt abgelöst. Doch auf Filme, die so weit wie möglich von der Politik entfernt sind, ist alles andere als staatstragend. Einige Produzenten, namentlich Leni Riefenstahl, haben einige Projekte vorgeschlagen, die mit unserer Finanzierung dazu beitragen könnten, die Deutschen an ihre glorreiche Vergangenheit und Zukunft zu erinnern."
 
-GER_gibraltar: "Gibraltar sichern"
-GER_gibraltar_desc: "Der Felsen ist das wichtigste Tor zum Mittelmeer vom Atlantik aus. Wir werden die Spanier auffordern, ihn uns zu übergeben, damit wir unsere südlichen Gebiete besser schützen können."
+ GER_secure_gibraltar: "Gibraltar sichern"
+ GER_secure_gibraltar_desc: "Der Felsen ist das wichtigste Tor zum Mittelmeer vom Atlantik aus. Wir werden die Spanier auffordern, ihn uns zu übergeben, damit wir unsere südlichen Gebiete besser schützen können."
 
-GER_spain: "Spanien besänftigen"
-GER_spain_desc: "Warum sollten wir Spanien über sein eigenes Schicksal entscheiden lassen? Sie sind entweder für uns oder gegen uns, und wenn sie sich für Letzteres entschieden haben, dann verdienen sie alles, was wir ihnen liefern."
+ GER_pacify_spain: "Spanien besänftigen"
+ GER_pacify_spain_desc: "Warum sollten wir Spanien über sein eigenes Schicksal entscheiden lassen? Sie sind entweder für uns oder gegen uns, und wenn sie sich für Letzteres entschieden haben, dann verdienen sie alles, was wir ihnen liefern."
 
-GER_europakammer: "Europarat"
-GER_europakammer_desc: "In letzter Zeit gab es immer wieder Vorschläge für ein neues Gremium, das die Integration Mitteleuropas fördern soll. Der Europarat, oder der "Europäischer Rat", würde als effektive Überwachung des europaweiten Handels fungieren und den Verwaltungsaufwand für ganz Mitteleuropa verringern."
+ GER_europarat: "Europarat"
+ GER_europarat_desc: "In letzter Zeit gab es immer wieder Vorschläge für ein neues Gremium, das die Integration Mitteleuropas fördern soll. Der Europarat, oder der "Europäischer Rat", würde als effektive Überwachung des europaweiten Handels fungieren und den Verwaltungsaufwand für ganz Mitteleuropa verringern."
 
 GER_europakommission: "Europakommission"
 GER_europakommission_desc: "Mit dem durchschlagenden Erfolg der ersten Mitteleuropa-Reformen werden wir sie ausweiten und um weitere industrielle Maßnahmen unter einer einzigen Europakommission erweitern. Dieses Gremium würde sich darauf konzentrieren, die industriellen Regelungen in Mitteleuropa zu harmonisieren und die Volkswirtschaften aller Mitglieder im Laufe der Zeit zu vereinheitlichen."
 
-GER_erasmus: "Europäisches Austauschprogramm"
-GER_erasmus_desc: "Der Europarat hat genügend Erträge erbracht, um seine Gesamtkontrolle auch auf Angelegenheiten unserer Forschungsprogramme auszudehnen."
+ GER_european_exchange_programme: "Europäisches Austauschprogramm"
+ GER_european_exchange_programme_desc: "Der Europarat hat genügend Erträge erbracht, um seine Gesamtkontrolle auch auf Angelegenheiten unserer Forschungsprogramme auszudehnen."
 
 GER_grain_and_steel: "Getreide und Stahl"
 GER_grain_and_steel_desc: "Getreide und Stahl sind das Lebenselixier unserer großen Nation, und wir sollten dafür sorgen, dass dies auch so bleibt. Wir müssen in die industrielle Entwicklung und unsere Landwirtschaft investieren."
@@ -665,22 +662,22 @@ GER_grain_and_steel_desc: "Getreide und Stahl sind das Lebenselixier unserer gro
 GER_border_regions: "Grenzregionen entwickeln"
 GER_border_regions_desc: "In den Grenzregionen unseres Imperiums mangelt es derzeit an Infrastruktur und Investitionen, beides werden wir mit einem raschen Schritt beheben."
 
-GER_mitteleuropa_brigades: "Paktbrigaden"
-GER_mitteleuropa_brigades_desc: "In dem Bestreben, eine einheitliche Kommandostruktur unter deutscher Kontrolle zu schaffen, wurde die Bildung von Paktbrigaden mit Truppen aus Deutschland und allen Reichspaktmitgliedern beschlossen."
+ GER_paktbrigaden: "Paktbrigaden"
+ GER_paktbrigaden_desc: "In dem Bestreben, eine einheitliche Kommandostruktur unter deutscher Kontrolle zu schaffen, wurde die Bildung von Paktbrigaden mit Truppen aus Deutschland und allen Reichspaktmitgliedern beschlossen."
 
 GER_ostwall: "Ausbau des Ostwalls"
 GER_ostwall_desc: "Unsere östlichen Verbündeten sind anfällig für jede Aggression, die vom russischen Bären ausgeht. Wir müssen die Ostwall-Verteidigung ausbauen, um unseren Partnern eine Kampfchance zu geben, bevor unsere Streitkräfte eintreffen."
 
  GER_ostwall_1_tt: "§gErrichten Sie in jeder Grenzprovinz im Baltikum £GFX_land_fort_texticon §Y$bunker_plural$§! der Stufe 2 und in jeder Grenzprovinz in Belarus £GFX_land_fort_texticon §Y$bunker_plural$§! der Stufe 1.§!"
 
- GER_poland_war: "Neue Ostpolitik"
- GER_poland_war_desc: "Wir müssen unsere Ostpolitik angesichts der wachsenden russischen Bedrohung und des zunehmenden Nationalismus in Osteuropa neu ausrichten. Deutschland wird diese von Natur aus untergeordnete Region befrieden und die Ordnung wiederherstellen, so oder so."
- GER_russia_strategy: "Anti-Russische Außenpolitik"
- GER_russia_strategy_desc: ""
+ GER_new_eastern_policy: "Neue Ostpolitik"
+ GER_new_eastern_policy_desc: "Wir müssen unsere Ostpolitik angesichts der wachsenden russischen Bedrohung und des zunehmenden Nationalismus in Osteuropa neu ausrichten. Deutschland wird diese von Natur aus untergeordnete Region befrieden und die Ordnung wiederherstellen, so oder so."
+ GER_anti_russian_forpol: "Anti-Russische Außenpolitik"
+ GER_anti_russian_forpol_desc: ""
  KR_mitteleuropa_advocate_tt: "§HCZivile Fabriken§! Baugeschwindigkeit in §HMitteleuropa§! Mitglieder: §G+10.00%§!"
 
-GER_poland_alliance: "Polnische Bande vertiefen"
-GER_poland_alliance_desc: "Der polnische Staat ist innerlich zerrissen zwischen Republikanern, Sozialisten und Nationalisten - eine strategische Zusammenarbeit zwischen dem Privatsektor und dem deutschen Auswärtigen Amt wird jedoch nicht nur die Unruhe der polnischen Bürger besänftigen, sondern auch große Investitionen in die Heimat bringen."
+ GER_deepen_polish_ties: "Polnische Bande vertiefen"
+ GER_deepen_polish_ties_desc: "Der polnische Staat ist innerlich zerrissen zwischen Republikanern, Sozialisten und Nationalisten - eine strategische Zusammenarbeit zwischen dem Privatsektor und dem deutschen Auswärtigen Amt wird jedoch nicht nur die Unruhe der polnischen Bürger besänftigen, sondern auch große Investitionen in die Heimat bringen."
 
  GER_destroy_internationale: "Die Internationale zerstören"
  GER_destroy_internationale_desc: "Die bei weitem größte Bedrohung für die Stabilität in der Welt sind die Syndikalisten, und sie haben keine größere Hochburg als die Internationale. Seit Jahren träumt das Oberkommando davon, wieder Truppen nach Paris zu führen, die Ordnung in Europa wiederherzustellen und die abscheuliche Rote Bedrohung für immer auszurotten. Es gibt keinen besseren Zeitpunkt als jetzt, um zuzuschlagen. Lasst die Kommunarden zittern, denn der Reichspakt kommt!"
@@ -688,29 +685,29 @@ GER_poland_alliance_desc: "Der polnische Staat ist innerlich zerrissen zwischen 
  GER_subjugate_russia: "Unterwerfung Russlands"
  GER_subjugate_russia_desc: "Während wir dem russischen Bären im Weltkrieg einen vernichtenden Schlag versetzt haben, hat die jahrelange verdeckte und offene Aufrüstung das russische Volk auf Krieg und Rache gegen das Deutsche Reich erpicht gemacht. Solange die russische Bedrohung an der Ostgrenze besteht, sind Deutschland und seine Verbündeten nicht sicher. Wir können nicht länger zulassen, dass die Bedrohung aus dem Osten allmählich an Stärke gewinnt; es ist an der Zeit, Russlands Ehrgeiz zu zügeln und dem Osten ein für alle Mal Frieden und Ordnung zu bringen."
 
-GER_oil: "Das Öl muss fließen"
-GER_oil_desc: "Unser Kolonialreich ist der Körper, und Öl ist das Blut, das es antreibt. Wir müssen unsere Vorräte sichern und aufrechterhalten, wenn wir eine Katastrophe vermeiden wollen."
+ GER_the_oil_must_flow: "Das Öl muss fließen"
+ GER_the_oil_must_flow_desc: "Unser Kolonialreich ist der Körper, und Öl ist das Blut, das es antreibt. Wir müssen unsere Vorräte sichern und aufrechterhalten, wenn wir eine Katastrophe vermeiden wollen."
 
- GER_oil_venezuela_start: "Verhandlung mit Venezuela"
- GER_oil_venezuela_start_desc: "Venezuela ist ein Land, das reich an unerschlossenem Öl und mit einer relativ stabilen Regierung gesegnet ist, beides Faktoren, die sie für uns von großem Interesse machen."
+ GER_negotiate_with_venezuela: "Verhandlung mit Venezuela"
+ GER_negotiate_with_venezuela_desc: "Venezuela ist ein Land, das reich an unerschlossenem Öl und mit einer relativ stabilen Regierung gesegnet ist, beides Faktoren, die sie für uns von großem Interesse machen."
 
-GER_oil_caucasus: "Aus dem Kaukasus"
-GER_oil_caucasus_desc: "Der Kaukasus ist eine erdölreiche Region mit vielen kleinen Regimes, von denen viele in unserem Einflussbereich liegen. Diesen Einfluss sollten wir bei der Suche nach Öl geltend machen."
+ GER_from_the_caucasus: "Aus dem Kaukasus"
+ GER_from_the_caucasus_desc: "Der Kaukasus ist eine erdölreiche Region mit vielen kleinen Regimes, von denen viele in unserem Einflussbereich liegen. Diesen Einfluss sollten wir bei der Suche nach Öl geltend machen."
 
-GER_oil_georgia: "Georgien absichern"
-GER_oil_georgia_desc: "Im Rahmen unserer Operation, die darauf abzielt, die Kontrolle über die Ölfelder von Baku in Aserbaidschan zu erlangen, ist es von entscheidender Bedeutung, dass wir die Kontrolle über Georgien erlangen, indem wir eine Invasion über das Schwarze Meer starten. Als diplomatisches Kuriosum in der Region wird ihr Ende nicht betrauert werden."
+ GER_secure_georgia: "Georgien absichern"
+ GER_secure_georgia_desc: "Im Rahmen unserer Operation, die darauf abzielt, die Kontrolle über die Ölfelder von Baku in Aserbaidschan zu erlangen, ist es von entscheidender Bedeutung, dass wir die Kontrolle über Georgien erlangen, indem wir eine Invasion über das Schwarze Meer starten. Als diplomatisches Kuriosum in der Region wird ihr Ende nicht betrauert werden."
 
-GER_oil_caucasus_treaty: "Die Konferenz von Baku"
-GER_oil_caucasus_treaty_desc: "Es ist an der Zeit, dass wir unseren Hauptpreis, das aserbaidschanische Öl, erwerben. Wenn wir ein Treffen mit hochrangigen aserbaidschanischen Diplomaten in Baku arrangieren, können wir uns vielleicht mit ihnen arrangieren. Wenn wir ihnen ihre Unabhängigkeit garantieren, könnten sie bereit sein, sich kampflos unserer Oberhoheit zu unterstellen."
+ GER_baku_conference: "Die Konferenz von Baku"
+ GER_baku_conference_desc: "Es ist an der Zeit, dass wir unseren Hauptpreis, das aserbaidschanische Öl, erwerben. Wenn wir ein Treffen mit hochrangigen aserbaidschanischen Diplomaten in Baku arrangieren, können wir uns vielleicht mit ihnen arrangieren. Wenn wir ihnen ihre Unabhängigkeit garantieren, könnten sie bereit sein, sich kampflos unserer Oberhoheit zu unterstellen."
 
-GER_Settling_Old_Disputes: "Beilegung alter Streitigkeiten"
-GER_Settling_Old_Disputes_desc: "Es gibt eine Zeit des Schmerzes und eine Zeit der Heilung. Nachdem die Schuldenfrage mit den Osmanen geklärt ist, ist die Zeit der Heilung gekommen. Wir sollten die Vergangenheit ruhen lassen und auf eine engere Freundschaft mit unseren türkischen Verbündeten hinarbeiten."
+ GER_settling_old_disputes: "Beilegung alter Streitigkeiten"
+ GER_settling_old_disputes_desc: "Es gibt eine Zeit des Schmerzes und eine Zeit der Heilung. Nachdem die Schuldenfrage mit den Osmanen geklärt ist, ist die Zeit der Heilung gekommen. Wir sollten die Vergangenheit ruhen lassen und auf eine engere Freundschaft mit unseren türkischen Verbündeten hinarbeiten."
 
-GER_Research_Cooperation: "Forschungskooperation"
-GER_Research_Cooperation_desc: "Die osmanische wissenschaftliche Kompetenz ist äußerst mangelhaft, denn zum einen ist die Alphabetisierungsrate des "Sublime Porte" abscheulich. Darüber hinaus war das Sublime Porte nie wirklich in der Lage, den Westen in Bezug auf die militärische Entwicklung einzuholen und ist seither hauptsächlich auf importierte Güter angewiesen. Durch unsere neu gewonnenen Verbindungen zum Osmanischen Reich können wir ihnen sowohl beim Zugang zu besserer Ausrüstung als auch bei der Ausbildung ihrer eigenen Bevölkerung für die Zukunft helfen."
+ GER_research_cooperation: "Forschungskooperation"
+ GER_research_cooperation_desc: "Die osmanische wissenschaftliche Kompetenz ist äußerst mangelhaft, denn zum einen ist die Alphabetisierungsrate des "Sublime Porte" abscheulich. Darüber hinaus war das Sublime Porte nie wirklich in der Lage, den Westen in Bezug auf die militärische Entwicklung einzuholen und ist seither hauptsächlich auf importierte Güter angewiesen. Durch unsere neu gewonnenen Verbindungen zum Osmanischen Reich können wir ihnen sowohl beim Zugang zu besserer Ausrüstung als auch bei der Ausbildung ihrer eigenen Bevölkerung für die Zukunft helfen."
 
-GER_Vanguard_In_The_South: "Vorhut im Süden"
-GER_Vanguard_In_The_South_desc: "Genau wie Belgien im Westen und Litauen im Osten bilden die Sublime Porte die Südgrenze Deutschlands und haben als solche eine wichtige Rolle bei der Sicherung unseres Besitzes in der Region. Von geographischen Merkmalen wie dem Suez zum Kaukasus bis hin zu strategischen wie den Ölfeldern des Irak und den Chromit-Minen in Anatolien ist das Osmanische Reich ein unschätzbares Rädchen in der großen Maschinerie des Kaisers."
+ GER_vanguard_in_the_south: "Vorhut im Süden"
+ GER_vanguard_in_the_south_desc: "Genau wie Belgien im Westen und Litauen im Osten bilden die Sublime Porte die Südgrenze Deutschlands und haben als solche eine wichtige Rolle bei der Sicherung unseres Besitzes in der Region. Von geographischen Merkmalen wie dem Suez zum Kaukasus bis hin zu strategischen wie den Ölfeldern des Irak und den Chromit-Minen in Anatolien ist das Osmanische Reich ein unschätzbares Rädchen in der großen Maschinerie des Kaisers."
 
 ### Decisions ###
 GER_appeal_to_old_friends: "Aufruf an [From.GetNameDef] für Hilfe"

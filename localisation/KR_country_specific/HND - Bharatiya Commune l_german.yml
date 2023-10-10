@@ -76,23 +76,23 @@ HND_air_focus: "Herrschaft über den Himmel"
 HND_navy_focus: "Herrschaft über das Meer"
 
 ### Opinion Modifiers ###
-HND_cautious_support: "Vorsichtige Unterstützung"
 HND_approves_government: "Befürwortet die neue Regierung"
 
 ### Traits ###
 HND_the_mahatma: "Mahatma"
 
 ### Tooltips ###
-HND_INC_meeting_done: "INC-Sitzung wurde vertagt\n"
-HND_ENG_intl_aid: "§Y[ENG.GetName]§! hat auf der Dritten Internationalen Konferenz Hilfe zugesagt\n"
-HND_FRA_intl_aid: "§Y[FRA.GetName]§! hat auf der Dritten Internationalen Konferenz Hilfe zugesagt\n"
-HND_summit_refused: "Das Gipfeltreffen kann nicht mehr stattfinden\n"
-HND_summit_agreed: "Der Vorschlag des Gipfels wurde angenommen\n"
-HND_summit_called_off: "Der Gipfel in Lucknow wird abgesagt\n"
-HND_surrender_to_totalists: "Kapitulation vor den Maximisten!\n"
-HND_surrender_to_agrarians: "Kapitulation vor den Agrariern!\n"
-HND_gandhi_assassinated: "§YMohandas Karamchand Gandhi§! wird ermordet\n"
-HND_ships_sold: "Die Marine wird um ein Schlachtschiff und drei Zerstörer erweitert\n"
+HND_INC_meeting_done: "INC-Sitzung wurde vertagt"
+HND_ENG_intl_aid: "§Y[ENG.GetName]§! hat auf der Dritten Internationalen Konferenz Hilfe zugesagt"
+HND_FRA_intl_aid: "§Y[FRA.GetName]§! hat auf der Dritten Internationalen Konferenz Hilfe zugesagt"
+HND_summit_refused: "Das Gipfeltreffen kann nicht mehr stattfinden"
+HND_summit_agreed: "Der Vorschlag des Gipfels wurde angenommen"
+HND_summit_called_off: "Der Gipfel in Lucknow wird abgesagt"
+HND_surrender_to_totalists: "Kapitulation vor den Maximisten!"
+HND_surrender_to_agrarians: "Kapitulation vor den Agrariern!"
+HND_gandhi_assassinated: "§YMohandas Karamchand Gandhi§! wird ermordet"
+HND_ships_sold: "Die Marine wird um ein Schlachtschiff und drei Zerstörer erweitert"
+HND_elections_suspended_until_unification: "Die Wahlen werden bis zum Abschluss von §Y$HND_special_INC_meeting$§! nicht abgehalten."
 
 ### Parties ###
 HND_totalist_party: "INC (Maximisten)"

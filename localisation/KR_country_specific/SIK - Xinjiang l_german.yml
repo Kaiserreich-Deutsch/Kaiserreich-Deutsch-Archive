@@ -1,6 +1,6 @@
 ﻿l_german: 
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 Xinjiang_Clique: "Schwerpunktbaum von Xinjiang Clique"
 
@@ -193,6 +193,9 @@ SIK_closer_desc: "Nach der Reihe von Verrat, die Xinjiang zu ruinieren drohte, h
 
 SIK_tradeing_allies: "Das Tor zum Westen"
 SIK_tradeing_allies_desc: "Um nicht zur Schachfigur mehrerer imperialer Mächte zu werden, haben wir Polizeikräfte engagiert, um sicherzustellen, dass die Handelsrouten in Xinjiang offen und sicher vor Banditen sind."
+
+SIK_new_diplomatic_corps: "Neues Diplomatisches Korps"
+SIK_new_diplomatic_corps_desc: "In der Hoffnung, dem Außenministerium von Xinjiang wieder zu altem Glanz zu verhelfen, hat der Gouverneur ein neues Team von Bürokraten eingestellt, das das vorherige Team ersetzen und hoffentlich die Ära der offenen Korruption und Erpressung hinter sich lassen wird."
 
 ### Decisions ###
 SIK_killing_mongol_decision_category: "Mongolische Gaunerei"

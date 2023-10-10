@@ -1341,7 +1341,6 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
 
  BUL_integrate_territories: "Integration der Grenzgebiete vollenden"
  BUL_integrate_territories_desc: "Mit der Niederlage der Serben, Griechen und Rumänen hat der separatistische Widerstand in unseren Grenzregionen seine Profiteure verloren und verliert damit rapide an Rückhalt. Das ist die Chance, die wir brauchen, um sie endlich in unseren Staat zu integrieren und den Widerstand in diesen Regionen Geschichte werden zu lassen."
- BUL_integrate_territories_tt: "Schaltet Entscheidung frei: £decision_icon_small §HIntegriert [767.GetName]§!\nSchaltet Entscheidung frei: £decision_icon_small §HIntegriert [731.GetName]§!\nSchaltet Entscheidung frei: £decision_icon_small §HIntegriert [772.GetName]§!"
 
  BUL_international_alliances: "Unser Platz in Europa"
  BUL_international_alliances_desc: "In der Zwischenkriegszeit distanzierte sich Bulgarien von den Geschehnissen in Europa, in der Erwartung, dass die deutsche Hegemonie den Frieden für Generationen sichern würde. Diese Hegemonie wird jedoch in Frage gestellt, und wir müssen erneut eine Entscheidung treffen: Auf welcher Seite des Kampfes stehen wir, mit wem sollen wir uns im Zweiten Weltkrieg verbünden?"
@@ -1357,7 +1356,6 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
 
  BUL_montenegrin_identity: "Förderung der Montenegrinischen Identität"
  BUL_montenegrin_identity_desc: "Montenegro wurde in Serbien integriert, und die serbische Regierung verfolgte eine Politik der Serbisierung des Staates, um die lokale montenegrinische Identität auszulöschen und durch das Serbentum zu ersetzen. Dies soll rückgängig gemacht werden, und wir werden den montenegrinischen Intellektuellen erhebliche Zugeständnisse machen - im Gegenzug für ihre Unterstützung des jugoslawischen Projekts."
- BUL_montenegrin_identity_tt: "Schaltet Entscheidung frei: £decision_icon_small §HIntegriert Montenegro§!\nSchaltet Entscheidung frei: £decision_icon_small §HIntegriert Kosovo§!"
 
  BUL_transylvanian_claims: "Rumänische Ansprüche auf Siebenbürgen unterstützen"
  BUL_transylvanian_claims_desc: "Unser Marionettenstaat in Bukarest mag um seine Legitimität ringen, aber die nationalistischen Rumänen in Siebenbürgen würden immer noch lieber in einem nominell unabhängigen Rumänien leben, als ungarisiert zu werden. Wir werden die Pläne der rumänischen Regierung, Siebenbürgen für sich zu beanspruchen, unterstützen und zu gegebener Zeit einen rumänischen Aufstand dort vorbereiten."
@@ -1379,7 +1377,6 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
 
  BUL_YUG_integral_yugoslavism: "Den integralen Jugoslawismus annehmen"
  BUL_YUG_integral_yugoslavism_desc: "Der integrale Jugoslawismus ist eine Theorie, die dazu aufruft, den jugoslawischen Staat zwangsweise zu zentralisieren, damit die durch die historische Trennung entstandenen Unterschiede zwischen den verschiedenen Gruppen von Jugoslawen rasch verschwinden. Sie wird ein nützlicher Leitfaden für unseren neuen Staat sein - zumal wir es sein werden, die definieren, was jugoslawisch ist und was nicht."
- BUL_YUG_integral_yugoslavism_unlock_tt: "Schaltet Entscheidung frei: £decision_icon_small §HIntegriert illyrische Staaten§!"
 
  BUL_YUG_curtail_catholic_church: "Beschneidung der kroatischen katholischen Kirche"
  BUL_YUG_curtail_catholic_church_desc: "Während die Serben ebenso wie die Bulgaren orthodox sind, sind die Kroaten und Slowenen Katholiken, und die kroatische katholische Kirche hat bereits begonnen, sich als Gegner unserer Integrationsbestrebungen zu positionieren. Wir werden sie so behandeln, wie wir alle unsere Feinde behandeln - mit äußerster Effizienz ausrotten und unterdrücken."
@@ -1440,7 +1437,6 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
 
  BUL_thrace_integration: "Initiierung der Integration von Thrakien"
  BUL_thrace_integration_desc: "Die Region Thrakien ist historisch gesehen bulgarisches Land, und Tausende von thrakischen Bulgaren wurden nach 1913 aus dieser Region vertrieben. Diese brutale Politik soll rückgängig gemacht werden - wir werden die thrakischen Bulgaren und ihre Nachkommen wieder in ihre Heimat zurückbringen und mit der Integration von Adrianopel beginnen."
- BUL_thrace_integration_tt: "Schaltet Entscheidung frei: £decision_icon_small §HIntegriert Adrianopel§!"
 
  BUL_renew_1904_treaties: "Erneuern der Verträge von 1904"
  BUL_renew_1904_treaties_desc: "Mit den geheimen Verträgen von 1904 sollte der Konflikt zwischen Serbien und Bulgarien beigelegt und ein gesundes Maß an wirtschaftlicher Integration zwischen den beiden Staaten hergestellt werden, z. B. durch die Schaffung einer Zollunion und die Zusammenlegung der Telegrafenlinien der beiden Staaten. Vielleicht können diese Abkommen als Vorbild für den Frieden auf dem Balkan dienen?"
@@ -1517,7 +1513,6 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
 
  BUL_restore_lost_cores: "Wiederherstellung der bulgarischen Verwaltung"
  BUL_restore_lost_cores_desc: "Nachdem wir unsere verlorenen Gebiete zurückgewonnen haben, können wir endlich die früheren Verwalter und Behörden wieder einsetzen, die durch den Pakt vertrieben wurden. Bald werden wir sie wieder in unseren Staat integrieren und uns vom Vierten Balkankrieg erholen."
- BUL_restore_lost_cores_tt: "Schaltet Entscheidung frei: £decision_icon_small §HVerlorene Territorien wieder eingliedern§!"
 
  BUL_seek_factions_wk: "Unsere Rolle im Weltkrieg"
  BUL_seek_factions_wk_desc: "Europa befindet sich im Chaos. Bis wir uns von unserer Katastrophe erholt haben, ist klar geworden, dass der Kontinent auf einen neuen Weltkrieg zusteuert - oder vielleicht hat er sogar schon begonnen. Um sicherzustellen, dass Bulgarien in der Nachkriegszeit in einem Stück bleibt, wird es für uns von Vorteil sein, uns mit einer der Fraktionen zu verbünden."
@@ -1614,8 +1609,6 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
  BUL_Third_Bulgarian_Empire_desc: "Innerhalb weniger Wochen sind unsere Feinde auf dem Balkan zusammengebrochen. In nur wenigen Tagen haben wir bewiesen, dass nicht nur die Gerüchte über unsere Schwäche übertrieben waren, sondern dass wir stärker sind als je zuvor. Heute stehen wir an der Küste von Konstantinopel, und anders als 1913 gibt es keine hegemoniale Großmacht, sei es Russland oder Großbritannien, die unseren Vormarsch aufhalten könnte. Simeon der Große ist erlöst worden!"
  BUL_Balkan_Union: "Die Balkanunion erschaffen"
  BUL_Balkan_Union_desc: "Vielleicht gibt es einen Weg zum Frieden auf dem Balkan, der nicht mit harter Unterdrückung oder der Ausbeutung unserer Nachbarn durch massive Reparationen verbunden ist. Vielleicht können wir einen Schritt zurückgehen und eine gerechtere Balkanunion schaffen, die unsere Volkswirtschaften zusammenführt und verhindert, dass jemals wieder ein Krieg ausbricht?"
-
- BUL_integration_decisions: "Territoriale Integration"
 
 ## Chetniks content ##
 

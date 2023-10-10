@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 TRM_focus: "Schwerpunktbaum von Transamur"
 
@@ -38,14 +38,8 @@ tram.24.a: "Dann ist es Krieg!"
 
 tram.42.t: "Transamurische Expansion in Sibirien"
 tram.42.d: "Unser Vassalenstaat, die Republik Transamur, hat die Kontrolle über mehrere Teile Sibiriens erlangt. Dies ist zwar eine schöne Ergänzung zur Ko-Wohlstandssphäre, aber es ist möglich, dass Transamur zu mächtig wird und zurückgedrängt werden muss."
-tram.42.a: "Fordert Kamtschatka und Ochotsk!"
-tram.42.b: "Es ist gut, starke Vasallenstaaten zu haben!"
-tram.42.c: "[TRM.GetLeader] ist zu gierig für sein eigenes Wohl, es ist an der Zeit, ihn zu ersetzen."
-
-tram.47.t: "Japan fordert Stützpunkte"
-tram.47.d: "Die Japaner haben uns zur Eroberung Sibiriens beglückwünscht, aber der Vertreter des Mikado erklärt, dass wir Japan erlauben sollten, Kamtschatka zu verwalten und einen Flottenstützpunkt im Ochotskischen Meer zu errichten."
-tram.47.a: "Ja, wir brauchen immer noch japanischen Schutz."
-tram.47.b: "Es ist an der Zeit, das japanische Joch abzuwerfen!"
+tram.42.a: "Es ist gut, starke Vasallenstaaten zu haben!"
+tram.42.b: "[TRM.GetLeader] ist zu gierig für sein eigenes Wohl, es ist an der Zeit, ihn zu ersetzen."
 
 tram.48.t: "Japan plant einen Putsch gegen [TRM.GetLeader]!"
 tram.48.d: "Die Japaner sind der Meinung, dass [TRM.GetLeader] nicht mehr von Nutzen ist, und haben sich an die Elite von Transamur gewandt, um einen Staatsstreich zu unterstützen und ihn durch einen gefügigeren Rat von Wirtschafts- und Militärführern zu ersetzen."

@@ -33,6 +33,8 @@
 ### Ideas ###
  PAP_holy_see: "Der Heilige Stuhl"
  PAP_holy_see_desc: "[PAP.GetNameDefCap] ist der weltliche Machtsitz der katholischen Kirche und wird vom Papst, dem Bischof von Rom und amtlichen Oberhaupt der Kirche, geleitet. Mit mehr als 300 Millionen Gläubigen in der ganzen Welt haben die Handlungen und Worte des Papstes ein einzigartiges Gewicht, das nirgendwo sonst auf der Welt zu finden ist."
+ PAP_exiled_holy_see: "Der Heilige Stuhl"
+ PAP_exiled_holy_see_desc: "Nachdem Papst [PAP.GetLeader] und der Rest der päpstlichen Konklave von der SRI aus ihrem traditionellen Machtsitz verbannt wurden, sind sie nach [FROM.GetNameDef] gezogen, um dort vorübergehend oder dauerhaft Zuflucht zu finden. Trotzdem haben die Taten und Worte des Papsttums mit mehr als 300 Millionen Gläubigen auf der ganzen Welt immer noch ein einzigartiges Gewicht, das nirgendwo sonst auf der Erde zu finden ist."
  PAP_black_monday_1: "Schwarzer Montag"
  PAP_blackmonday_1_desc: "Der Zusammenbruch der Wirtschaft in Deutschland hat Auswirkungen auf die ganze Welt, aber auch auf unseren Staat, wo Unternehmen in deutschem und österreichischem Besitz ihre Türen geschlossen haben und unsere Staatsverschuldung unkontrollierbar gestiegen ist."
  PAP_black_monday_2: "Schwarzer Montag"

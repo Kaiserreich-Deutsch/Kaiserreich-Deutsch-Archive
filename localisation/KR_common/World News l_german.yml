@@ -772,7 +772,7 @@ worldnews.225.a: "Viel Glück, Eure Heiligkeit."
 worldnews.225.b: "Eine interessante Entwicklung."
 
 worldnews.226.t: "Julius IV. wird zum neuen Papst gewählt"
-worldnews.226.d: "Die katholischen Gläubigen in Rom atmeten erleichtert auf, als aus dem Schornstein der Sixtinischen Kapelle weißer Rauch aufstieg und die Wahl eines neuen Papstes ankündigte.\n\nKurze Zeit später wurde bekannt gegeben, dass der Hardliner Alfredo Ildefonso Schuster, ein echter politischer Spieler und entschiedener Gegner des Syndikalismus, seine Heiligkeit Papst Julius IV. geworden ist, Oberhaupt der katholischen Kirche und Staatsoberhaupt des Kirchenstaates.\n\nEs wird erwartet, dass seine Wahl die Kluft zwischen dem Norden und dem Süden des geteilten Italiens vertiefen wird."
+worldnews.226.d: "Die katholischen Gläubigen in Rom atmeten erleichtert auf, als aus dem Schornstein der Sixtinischen Kapelle weißer Rauch aufstieg und die Wahl eines neuen Papstes ankündigte.\n\nKurze Zeit später wurde bekannt gegeben, dass der Hardliner Alfredo Ildefonso Schuster, ein echter politischer Spieler und entschiedener Gegner des Syndikalismus, seine Heiligkeit Papst Julius IV. geworden ist, Oberhaupt der katholischen Kirche und Staatsoberhaupt des Kirchenstaates.\n\nMan geht davon aus, dass seine Wahl die ideologische Kluft in Italien noch weiter vertiefen wird... als sie es ohnehin schon ist."
 worldnews.226.a: "Viel Glück, Eure Heiligkeit"
 worldnews.226.b: "Und so zeigt sich ihr wahres Gesicht"
 
@@ -855,9 +855,10 @@ worldnews.244.b: "Was soll der Unsinn?"
 worldnews.244.c: "Blasphemie!"
 worldnews.244.e: "Solidarität für immer!"
 
-worldnews.245.t: "Ende des japanischen Kaiserhauses"
+worldnews.245.t: "Schicksal der Japanischen Kaiserfamilie"
  worldnews.245.d.exile: "Nach dem Regimewechsel im ehemaligen Kaiserreich Japan wurde das Schicksal der kaiserlichen Familie Yamato ungewiss - bis gestern. Mit dem Abschluss des ersten Kongresses der Volksrepublik Japan wurde beschlossen, dass die Familie Yamato nicht in Japan bleiben darf. Heute verließ die Familie Yamato Tokio mit einem Ozeandampfer in Richtung Amerika, um ein Leben im Exil zu führen.\n\nDieser Schritt hat einen Streik im Hafen von Tokio sowie Proteste in den meisten größeren Städten ausgelöst, aber es wird erwartet, dass sich die Situation in einigen Monaten normalisiert."
  worldnews.245.d.abolish: "Nach dem Regimewechsel im ehemaligen Kaiserreich Japan war das Schicksal der kaiserlichen Familie Yamato ungewiss - bis gestern. Mit dem Abschluss des ersten Kongresses der Volksrepublik Japan wurde beschlossen, dass die Titel und der Status der kaiserlichen Familie abgeschafft werden sollten - ab heute hat die Familie Yamato den Status eines Bürgers und unterscheidet sich damit nicht von ihren früheren Untertanen.\n\nDieser Schritt hat einen Streik im Zentrum von Tokio sowie kleinere Proteste in Osaka und Nagasaki ausgelöst, aber es wird erwartet, dass sich die Situation in einem Monat normalisiert."
+ worldnews.245.d.symbol: "Following the regime change in the former Empire of Japan, the fate of the Yamato Imperial Family became uncertain - until yesterday. With the conclusion of the special Diet session of the [JAP.GetName], it has been decided that the Emperor, as the symbol of the State and the Japanese people, and in wider sense, the Imperial Family could carry out public and official duties, but not have any role in the new government.\n\nTo emphasise this, in an extraordinary radio speech, Emperor [JAP.GetLeader] publicly renounced his own divinity, stressing that the ties between the Throne and the people have always stood upon mutual trust and affection, not upon mere myths or legends."
 worldnews.245.a: "Eine Ära endet, eine andere beginnt."
 
 worldnews.247.t: "Republikanischer Sieg in Brasilien"

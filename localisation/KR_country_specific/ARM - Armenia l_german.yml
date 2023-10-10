@@ -60,6 +60,9 @@
  ARM_Nzhdeh_entrenched: "Die Macht von Nzhdeh hat sich gefestigt."
  ARM_Internationale_accepts: "\nSollten sie unser Ersuchen annehmen, werden wir §YMilitärische Berater§! erhalten und in der Lage sein, §YIndustrielle Unterstützung§! von der Internationalen anzufordern."
  ARM_western_fortifications_tooltip: "§YBefestigungen§! werden entlang unserer Westgrenze errichtet."
+ ARM_once_coast_controlled: "§G2 Werften§! werden in einem zufälligen Küstenstaat errichtet, den wir besitzen und kontrollieren."
+ ARM_trade_proposal_ongoing: "Bereits Verhandlungen über ein Handelsabkommen"
+ ARM_three_trade_agreements: "Wir haben mindestens drei Handelsabkommen ausgehandelt."
 
 ### Factions ###
  Tabriz_accord: "Tabriz-Abkommen"
@@ -74,9 +77,12 @@
  ARM_nationalist_educator: "Nationalistischer Pädagoge"
  ARM_returned_ideologue: "Der zurückgekehrte Ideologe"
 
+### Ship Name Lists
+ NAME_THEME_PROVINCES_ARM: "Großarmenische Provinzen"
+ NAME_THEME_KINGDOMS_ARM: "Armenische Königreiche"
+
 ### Focus Tree ###
  armenia_focus: "Armenischer Schwerpunktbaum"
- armenia_initial: "Armenischer Schwerpunktbaum"
 
  ### Economic Tree
  ARM_rebuild_erivan: "Wiederaufbau der Hauptstadt"
@@ -145,6 +151,34 @@
  ARM_fortress_without_sky_desc: "Bisher haben wir unsere Verteidigungsanstrengungen vor allem auf den Bodenkrieg konzentriert und vor allem Befestigungen gegen Infanterie, Artillerie, Panzer und dergleichen gebaut. Wir müssen aber auch den Himmel beobachten und unsere Städte gegen Luftangriffe verteidigen, was den Einsatz von stationären Luftabwehrkanonen erfordert."
  ARM_aerial_reconnaissance: "Augen am Himmel"
  ARM_aerial_reconnaissance_desc: "Einer der größten Vorteile moderner Flugzeuge besteht darin, dass sie den Feind aus sicherer Entfernung ausspähen können. Aufklärungsflugzeuge sind beispielsweise in der Lage, wichtige Informationen zu sammeln, ohne in Schussweite des Feindes am Boden zu kommen. Wie Sun Tzu einst sagte: "Derjenige wird gewinnen, der weiß, wann er kämpfen und wann er nicht kämpfen muss." - Und mit unseren Augen am Himmel werden wir immer wissen, wann wir kämpfen müssen."
+
+ ### Naval Tree
+ ARM_armenian_navy: "Die Armenische Marine"
+ ARM_armenian_navy_desc: "Es ist uns nicht nur gelungen, unsere Unabhängigkeit gegen die Macht des osmanischen Riesen zu behaupten, sondern wir haben uns auch eine Küstenlinie gesichert. Von potenziellen Handelspartnern bis hin zu einer verstärkten militärischen Präsenz hat dies unserem jungen Staat eine Fülle von Möglichkeiten eröffnet und unsere Abhängigkeit von unseren Nachbarn erheblich verringert. Wir haben zwar noch viel Arbeit vor uns, aber schon bald wird die armenische Marine die Meere erobern!"
+ ARM_protect_black_sea: "Schutz Unserer Gewässer"
+ ARM_protect_black_sea_desc: "Wir haben unsere Küste und beanspruchen unsere Gewässer für uns. Jetzt ist es an der Zeit, dass wir uns darauf konzentrieren, das zu verteidigen, was wir gewonnen haben. Der Bau einiger Küstenbefestigungen dürfte bereits viel bewirken, aber wenn wir unsere Interessen wirklich schützen und unser militärisches Können auf den Meeren zur Geltung bringen wollen, dann müssen wir eine starke und fähige Flotte aufbauen. Dies wird zweifellos ein kostspieliges und zeitaufwändiges Unterfangen sein, aber je früher wir damit beginnen, desto eher werden wir die Früchte ernten können."
+ ARM_naval_research: "Auf dem Weg zur modernen Flotte"
+ ARM_naval_research_desc: "Zwar konnten wir nach unserer Unabhängigkeitserklärung zahlreiche osmanische Marinepläne in unseren Besitz bringen, doch auch sie sind veraltet. Sie bieten uns lediglich eine Grundlage, auf der wir aufbauen müssen, und unsere Pläne zur Verteidigung unseres kleinen Teils der Meere können nicht verwirklicht werden, wenn unsere Schiffe Jahrzehnte hinter denen unserer Nachbarn zurückbleiben. Damit unsere Marine eine Chance hat, müssen wir unbedingt mit der rasanten technologischen Entwicklung im Bereich der Seekriegsführung Schritt halten."
+ ARM_request_foreign_vessels: "Anforderung von ausländischen Schiffen"
+ ARM_request_foreign_vessels_desc: "Was uns an industrieller Kapazität fehlt, können unsere vertrauenswürdigen Verbündeten leicht wettmachen. Im Gegensatz zu uns haben sie eine lange Geschichte auf dem Meer und stolze Seetraditionen, warum sollten wir also ihr Wissen, ihre Erfahrung und ihre Industrie nicht zu unserem Vorteil nutzen? Schließlich wären schon einige einfache Entwürfe und Schiffe eine große Hilfe für den Aufbau der armenischen Marine, und es würde unseren Verbündeten sicher nicht schaden, sie uns zur Verfügung zu stellen."
+ ARM_commercial_navy: "Die armenische Handelsmarine"
+ ARM_commercial_navy_desc: "In Anbetracht der Größe unseres Landes und unserer Wirtschaft können wir nicht hoffen, mit den Seemächten unserer Zeit zu konkurrieren, und würden nur kostspielige Ressourcen für die Produktion von Kriegsschiffen verschwenden. Stattdessen sollten wir versuchen, unser wirtschaftliches Wachstum zu fördern, indem wir die Handelsmöglichkeiten auf der anderen Seite des Meeres erkunden. Dazu müssen wir eine schiffs- und handelstaugliche Marine aufbauen - eine Investition, die sich schon bald auszahlen wird."
+ ARM_open_up_market: "Unseren Markt öffnen"
+ ARM_open_up_market_desc: "Wenn ausländische Unternehmer an Armenien denken, dann denken sie an einen jungen und noch unberührten Markt, der voll von Investitionsmöglichkeiten ist. In ähnlicher Weise werden die Nationen der Welt in uns einen vertrauenswürdigen Partner sehen, mit dem sie gerne Geschäfte machen würden. Indem wir die Beschränkungen für Handel und Investitionen lockern, können wir den Weg für eine wirtschaftliche Zusammenarbeit ebnen, die über unsere Grenzen hinausgeht und unserer Wirtschaft zugute kommt."
+ ARM_refurbish_batumi: "Batums Infrastruktur sanieren"
+ ARM_refurbish_batumi_desc: "Angesichts der Nähe zur Front ist es nicht verwunderlich, dass Batum unter der Last des jüngsten Krieges gelitten hat. Teile des Hafens sind verfallen, die Straßen haben schon bessere Tage gesehen, und die Entwicklung der Stadt ist zum Stillstand gekommen. Da sich Batum in kurzer Zeit zu einer der wichtigsten Städte des Landes entwickelt hat, sollten wir die notwendigen Mittel zur Linderung dieser Probleme bereitstellen und die Gelegenheit nutzen, die Stadt mit dem Rest unseres Landes zu verbinden."
+ ARM_develop_dockyards: "Eine Marine aus eigener Produktion"
+ ARM_develop_dockyards_desc: "Bei einem so wichtigen Projekt wie dem Aufbau einer eigenen Marine können wir uns nur auf uns selbst verlassen. Da die Mittel bereits in die Erforschung neuer Entwürfe und Technologien geflossen sind, muss jetzt nur noch die Produktion der von unseren Ingenieuren erdachten Schiffe realisiert werden. Durch den Ausbau unserer Werften können wir bald mit dem Aufbau einer kleinen, aber mächtigen Flotte beginnen."
+ ARM_naval_bombers: "Zu Lande und zu Wasser"
+ ARM_naval_bombers_desc: "Die Luftüberlegenheit spielt eine immer größere Rolle, nicht nur in der Kriegsführung zu Lande, sondern auch auf dem Meer. Wenn wir unsere Gewässer vor fremden Eindringlingen schützen wollen, können wir uns nicht allein auf unsere Marine verlassen, damit unsere Schiffe nicht durch einen schnellen Angriff von oben in den Tiefen des Ozeans versinken. Daher müssen wir unsere Luftwaffe ausbauen, um sowohl unsere eigenen Schiffe zu schützen als auch die unserer Feinde anzugreifen, damit wir wirklich über die Wellen herrschen können."
+ ARM_batumi_academy: "Die Batum Marineakademie"
+ ARM_batumi_academy_desc: "Die armenische Marine ist noch jung und unsere Admiralität daher recht unerfahren. Dieses Problem lässt sich zwar nicht im Handumdrehen lösen, aber die Eröffnung einer Marineakademie wird dafür sorgen, dass die armenischen Admirale von morgen auf alles vorbereitet sind, was die See von ihnen verlangen könnte. Schließlich sind es nicht nur unsere Schiffe, sondern auch die Köpfe hinter ihnen, die unsere Interessen verteidigen und unserem Namen Ehre machen müssen."
+ ARM_trade_agreements: "Foster Trade Relations Across the Sea"
+ ARM_trade_agreements_desc: "Selbst wenn wir uns auf das Schwarze Meer beschränken, hat der Seehandel so viel für uns zu bieten. Vom rumänischen Öl über das ukrainische Getreide bis hin zu den Reichtümern Russlands - unsere neue Küste verschafft uns Zugang zu Märkten von großem Wert, mit dem Potenzial, sowohl den Lebensstandard als auch die industriellen Kapazitäten unseres Landes erheblich zu steigern. Alles, was wir noch tun müssen, ist, mit unseren Meeresnachbarn ein Abkommen zu schließen, das den ungehinderten Fluss von Waren über das Meer ermöglicht."
+ ARM_humble_profits: "Füllen der Kassen"
+ ARM_humble_profits_desc: "Wir sind vielleicht nicht so reich an natürlichen Ressourcen und auch nicht so ein industrielles Kraftzentrum wie andere Länder, aber wir haben es dennoch geschafft, aus dem, was wir haben, Gewinn zu machen. Durch die Erschließung neuer Märkte für den Verkauf unserer landwirtschaftlichen Erzeugnisse und der Erze, die einst unter armenischer Erde schlummerten, haben wir einen stetigen Strom von Einnahmen geschaffen - und solange dieser Strom anhält, werden die finanziellen Reserven unserer Nation nie wieder versiegen!"
+ ARM_scourge_of_the_black_sea: "Die Geißel des Schwarzen Meeres"
+ ARM_scourge_of_the_black_sea_desc: "Die moderne Seekriegsführung hat viele Gesichter. Während der Bau größerer Schiffe eine unerträgliche Belastung für unsere Wirtschaft wäre und uns daran hindern würde, eine Flotte aufzubauen, ist die Handelskriegsführung eine Strategie, die wir verfolgen können. Kleinere Schiffe, die unsere Feinde dort treffen, wo sie am verwundbarsten sind, und sich zurückziehen, bevor der Feind einen Gegenschlag ausführen kann. Schon bald werden wir unsere Feinde dazu bringen, die Gewässer zu fürchten, die sie umgeben!"
 
  ### Independence War
  ARM_War_of_Liberation: "Der Befreiungskrieg"
@@ -475,6 +509,21 @@
  ARM_isolationism_2: "Die uneinnehmbare Festung"
  ARM_isolationism_2_desc: "Wir wissen, dass früher oder später fremde Soldaten versuchen werden, unser Land zu erobern. Unsere Nachbarn mögen stark, für manche sogar unbesiegbar erscheinen, aber wir werden ihnen zeigen, dass sie bluten können! Wir werden jeden Zentimeter unseres Landes bis zum letzten Mann verteidigen, und wir werden dafür sorgen, dass diese Tyrannen ihre Entscheidung, unseren Frieden zu stören, bereuen!"
 
+ ARM_merchant_marine: "Die armenische Handelsflotte"
+ ARM_merchant_marine_desc: "Obwohl es teilweise notwendig war, weil wir keine Werften haben, wurde beschlossen, dass die junge armenische Marine ihren Schwerpunkt auf den Handel und nicht auf die Kriegsführung legen soll. Dies mag unsere Küstenlinie zwar etwas verwundbar machen, aber es erlaubt uns auch, nach anderen Dingen zu suchen."
+
+ ARM_trading_profits: "Handelsgewinne"
+ ARM_trading_profits_desc: "Ein offener Markt, Zugang zu den Volkswirtschaften der Welt und der Wille, aus allem und jedem Profit zu schlagen - das ist ein Erfolgsrezept, wie unser jüngstes Wirtschaftswachstum beweist."
+
+ ARM_batumi_naval_academy: "Die Batum Marineakademie"
+ ARM_batumi_naval_academy_desc: "Unsere tapferen Männer sind zur See gefahren, haben ihr Bestes getan, um zu lernen und sich anzupassen, und nun muss ihr Wissen an die jungen Kadetten weitergegeben werden, die sich in der armenischen Marine einen Namen machen wollen. Deshalb wird die Marineakademie Batum den Rekruten die Theorie beibringen, die erforderlich ist, um die Wellen wirklich zu beherrschen, so dass unsere Seeleute eines Tages denen der großen Seemächte unserer Zeit in nichts nachstehen werden."
+
+ ARM_black_sea_scourge: "Die Geißel des Schwarzen Meeres"
+ ARM_black_sea_scourge_desc: "Zahlreiche Handelsrouten verlaufen durch das Schwarze Meer und bieten unserer Marine eine verwundbare Beute, die bald in den Tiefen des Ozeans versinken wird. Mit Entschlossenheit und Eile werden wir unseren Feinden zeigen, was Furcht bedeutet, denn sie können nur hilflos zusehen, wie wir ihre schwächsten Glieder eines nach dem anderen ausschalten, bevor wir wieder in den weiten Wellen des Meeres verschwinden."
+
+ ARM_trade_agreements_1: "Dividenden des Schwarzmeer-Handelsabkommens"
+ ARM_trade_agreements_1_desc: "Die Zusammenarbeit zwischen den Nationen hat schon immer große Erfolge gezeitigt, und unsere Bemühungen um die Förderung des Freihandels mit den Ländern jenseits des Schwarzen Meeres bilden da sicherlich keine Ausnahme. Die Schifffahrt ist billiger geworden, unsere Exporte haben zugenommen und unsere Meeresnachbarn beginnen, uns als vertrauenswürdigen Partner zu betrachten. Was hätten wir uns mehr erhoffen können?"
+
 ### Decisions ###
  ARM_foreign_policy: "Außenpolitik Armeniens"
   ARM_join_faction: "Beitritt [FROM.GetFactionName]"
@@ -488,6 +537,13 @@
  ARM_capture_Kars_desc: "Obwohl ihre Zahl nach den Massakern des Weltkriegs erheblich zurückgegangen ist, leben in den Bergen von Kars immer noch viele Armenier, und es ist unsere Pflicht, diese armen Seelen von den Schrecken des türkischen Jochs zu befreien!"
  ARM_capture_Batumi: "Weiter nach Batumi!"
  ARM_capture_Batumi_desc: "Die Stadt Batumi ist eines der wichtigsten Handelszentren der Region, und obwohl die Armenier in der Stadt nur eine Minderheit bilden, wäre die Übernahme der Kontrolle über die Stadt für unsere Nation sicherlich sehr vorteilhaft, denn sie würde uns Zugang zum Schwarzen Meer verschaffen und uns somit die Möglichkeit geben, Handelsbeziehungen zu pflegen, die über die Berge des Kaukasus hinausgehen. Da die Georgier untätig in ihren Bergen sitzen und die osmanische Armee nach der jüngsten Kaskade von Aufständen immer noch in Aufruhr ist, ist es an der Zeit, unseren Zug zu machen und in Richtung Meer vorzustoßen!"
+
+ ARM_black_sea_trade: "Schwarzmeerhandel"
+ ARM_propose_trade_agreement: "Vorschlag für ein Handelsabkommen an [FROM.GetNameDef]"
+
+ ARM_acquire_navy: "Erwerb ausländischer Schiffe"
+ ARM_purchase_submarines: "U-Boote kaufen von [FROM.GetNameDef]"
+ ARM_purchase_destroyers: "Zerstörer kaufen von [FROM.GetNameDef]"
 
 ### Intro Screen ###
  ARM_country_intro_header: "$arm.1.t$"
@@ -932,6 +988,19 @@
  arm.115.c: "Ramgavar gewinnt!"
  arm.115.e: "Armenische Populistische Partei gewinnt!"
 
+ arm.116.t: "[FROM.GetNameDefCap] Vorschlag für ein Handelsabkommen"
+ arm.116.d: "Eine armenische Delegation ist soeben in [THIS.Capital.GetCapitalVictoryPointName] eingetroffen und hofft, mit unserer Regierung ein Handelsabkommen aushandeln zu können. Ihr Vorschlag sieht insbesondere vor, dass sowohl die Zölle als auch die Grenzkontrollen für Einfuhren aus und Ausfuhren nach Armenien erheblich gesenkt werden, um so einen ungehinderten Handelsfluss zwischen unseren beiden Nationen zu ermöglichen.\n\nDas würde uns zwar Zugang zu einem neuen Markt verschaffen, auf dem wir unsere Produkte verkaufen könnten, aber es ist auch nicht zu leugnen, dass die Armenier von einer solchen Vereinbarung viel mehr profitieren würden als wir. Dennoch wäre ein neuer Handelspartner, unabhängig von seiner Größe, für unsere Wirtschaft von Vorteil, wie sollten wir also reagieren?"
+ arm.116.a: "Wir akzeptieren gerne."
+ arm.116.b: "Dafür haben wir keine Zeit."
+
+ arm.117.t: "[FROM.GetNameDefCap] hat unseren Vorschlag angenommen"
+ arm.117.d: "Gute Nachrichten von [FROM.Capital.GetCapitalVictoryPointName]! Die Regierung von [FROM.GetAdjective] hat sich entschlossen, das von uns vorgeschlagene Abkommen zu unterzeichnen, was eine Ausweitung des Handels zwischen unseren beiden Ländern ermöglicht. Mit neuen Ressourcen, die unserer Industrie zur Verfügung stehen, neuen Waren in den Regalen und dem Zugang zu einem völlig neuen Markt, kann man mit Sicherheit sagen, dass dies sowohl unserer Wirtschaft als auch der armenischen Nation als Ganzes zugute kommen wird!"
+ arm.117.a: "Gemeinsam werden wir erfolgreich sein!"
+
+ arm.118.t: "[FROM.GetNameDefCap] hat unseren Vorschlag abgelehnt"
+ arm.118.d: "Die Regierung [FROM.GetAdjective] hat unser Angebot einer verstärkten Zusammenarbeit im Bereich des Handels mit der Begründung abgelehnt, dass sie von unserem vorgeschlagenen Abkommen nichts zu gewinnen hätte. Auch wenn dies sicherlich ein Rückschlag ist, gibt es für uns immer noch andere Märkte, die wir erkunden können und die unseren Ansätzen möglicherweise offener gegenüberstehen."
+ arm.118.a: "Wir wollten ihre minderwertigen Produkte sowieso nicht!"
+
  ### Characters ###
  ARM_anastas_mikoyan: "Anastas Mikoyan"
  ARM_ruben_ter_minassian: "Ruben Ter Minassian"
@@ -950,6 +1019,8 @@
  ARM_hamazasp_babadzhanian: "Hamazasp Babadzhanian"
  ARM_hamazasp_srvandztyan: "Hamazasp Srvandztyan"
 
+ ARM_yervand_gasparyan: "Yervand Gasparyan"
+
  ARM_grigor_jaghetyan: "Grigor Jaghetyan"
  ARM_sargis_araratyan: "Sargis Araratyan"
  ARM_nikol_aghbalian: "Nikol Aghbalian"
@@ -962,4 +1033,4 @@
  ARM_sargis_mehrabyan: "Sargis Mehrabyan"
  ARM_smbat_boroyan: "Smbat Boroyan"
  ARM_elisaveta_shahkhatuni: "Elizaveta Shahkhatuni"
- ARM_fedayi_council: "Fedayi Council"
+ ARM_fedayi_council: "Fidayi Council"

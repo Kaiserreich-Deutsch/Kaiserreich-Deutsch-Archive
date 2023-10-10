@@ -5,6 +5,9 @@ FRA_ongoing_phalanstere_development: "§YHilft bei der Entwicklung eines anderen
 CSA_redeagles_tt: "Neue freiwillige Piloten und Flugzeuge werden eintreffen."
 FRA_tank_division_tooltip: "Drei £nato_unit_medium_armor_icon_small  §HMittlere Panzer§! Divisionen werden eingesetzt."
 
+ FRA_will_build_in_savoy_if_owned: "§Y[735.GetName]§! wird auch §Y1 $industrial_complex$§! erhalten, wenn er von §Y[ROOT.GetNameWithFlag]§! kontrolliert wird."
+ FRA_will_build_in_upper_savoy_if_owned: "§Y[943.GetName]§! wird auch §Y1 $industrial_complex$§! und §Y1 $infrastructure$§! erhalten, wenn er von §Y[ROOT.GetNameWithFlag]§! kontrolliert wird."
+
  INT_phalanstere: "Phalanstère Internationale"
 
 KR_phalanstere_tooltip: "[GetPhalanstereName]"
@@ -173,11 +176,11 @@ FRA_waves_of_syndicalism_idea_desc: "Die Marine der Kommune ist mächtig, und ih
 FRA_cut_off_capitalists_idea: "Den Kapitalisten den Weg abschneiden"
 FRA_cut_off_capitalists_idea_desc: "Die Kapitalisten sind immer noch stolz auf ihre kolonialen Territorien. Die Früchte ihrer Plünderungen fließen immer noch frei über die hohe See. Aber wenn wir ein Wörtchen mitzureden haben, werden wir dafür sorgen, dass das gestohlene Eigentum der afrikanischen, asiatischen und amerikanischen Arbeiter sie nicht bereichern wird."
 
-French_Revanchism_idea: "Französischer Revanchismus"
-French_Revanchism_idea_desc: "Wir haben uns lange auf diesen unvermeidlichen Krieg vorbereitet. Wir haben Pétain und sein Glaubensbekenntnis längst verworfen, aber das bedeutet nicht, dass wir vergessen werden, wofür unsere Brüder in den Ardennen, in Verdun, am Chemin des Dames gestorben sind. Wir werden sie rächen und ein für alle Mal zurückgewinnen, was wir durch unseren Kampf verdient haben."
+ FRA_revanchism_idea: "Französischer Revanchismus"
+ FRA_revanchism_idea_desc: "Wir haben uns lange auf diesen unvermeidlichen Krieg vorbereitet. Wir haben Pétain und sein Glaubensbekenntnis längst verworfen, aber das bedeutet nicht, dass wir vergessen werden, wofür unsere Brüder in den Ardennen, in Verdun, am Chemin des Dames gestorben sind. Wir werden sie rächen und ein für alle Mal zurückgewinnen, was wir durch unseren Kampf verdient haben."
 
-Revolutionary_spirit: "Revolutionäre Stimmung"
-Revolutionary_spirit_desc: "Das Überleben und Gedeihen der syndikalistischen Welt wird nur dann gesichert sein, wenn die letzte reaktionäre Bastion beseitigt ist. Wir müssen bereit sein, zu mobilisieren und jede reaktionäre Regierung auf der ganzen Welt zu zerschlagen. Eines Tages wird sich die Internationale über alle Meere und Kontinente erstrecken!"
+ FRA_revolutionary_spirit: "Revolutionäre Stimmung"
+ FRA_revolutionary_spirit_desc: "Das Überleben und Gedeihen der syndikalistischen Welt wird nur dann gesichert sein, wenn die letzte reaktionäre Bastion beseitigt ist. Wir müssen bereit sein, zu mobilisieren und jede reaktionäre Regierung auf der ganzen Welt zu zerschlagen. Eines Tages wird sich die Internationale über alle Meere und Kontinente erstrecken!"
 
 FRA_socialist_education_idea: "Sozialistische Bildung"
 FRA_socialist_education_idea_desc: "Die Bildung der Jugend ist eines der größten Ziele, die ein Land wie die Kommune angehen kann. Glücklicherweise war das alte Bildungssystem der Republik bereits revolutionär für seine Zeit und gibt uns eine gute Grundlage für das neue. Ein sozialistisches Bildungssystem, das sich auf die Wissenschaften und Künste konzentriert."
@@ -1053,11 +1056,6 @@ FRA_Sabotage_desc: "Die französischen verräterischen Imperialisten haben viel 
 
  FRA_end_the_algiers_regime: "Ende des Algier-Regimes"
  FRA_end_the_algiers_regime_desc: "Endlich ist das verabscheuungswürdige imperialistische Regime, das Algerien besetzt hält, verwundbar - lasst uns diese Farce ein für alle Mal beenden."
-
-FRA_hydroelectricity_decisions: "Wasserkraft"
-FRA_Savoy_Hydroelectricity_decision: "Staudämme bauen in Savoyen"
-FRA_Haute_Savoie_Hydroelectricity_decision: "Staudämme bauen in Haute-Savoie"
-FRA_Romandy_Hydroelectricity_decision: "Staudämme bauen in der Romandie"
 
 ### Cosmetic Tags ###
  FRA: "Frankreich"

@@ -26,8 +26,6 @@
  MONTHLY_LL_FREEDOM_TO_MASTER: "$VALUE|+2$"
  MONTHLY_LL_FREEDOM_VALUE_DESC: "Monatliche Auswirkungen auf die Autonomie im Falle einer vollständigen Lieferung"
  MONTHLY_LL_FREEDOM_DESC: "Monatlich nach vollständiger Lieferung erhält $COUNTRY|H$ £autonomy_texticon $VALUE|+=2$ "
- MONTHLY_REQUEST_LL_TO_MASTER: "§RDie Beantragung eines Leihvertrags bei Marionette kann ihnen mehr Autonomie geben§!"
- MONTHLY_REQUEST_LL_TO_PUPPET: "§RDie Beantragung eines Leihvertrags beim Herrscher kann zum Verlust der Autonomie führen§!"
  EXPORT_FREEDOM_EFFECT: "Untertan exportiert an Herrscher"
  WAR_SCORE_FREEDOM_EFFECT: "Untertan trug Kriegspunktzahl bei"
  EFFECT_FREEDOM_EFFECT: "Untertan erhalten"

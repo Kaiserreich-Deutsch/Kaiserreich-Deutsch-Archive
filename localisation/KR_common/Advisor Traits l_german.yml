@@ -328,8 +328,14 @@ KR_air_chief_air_council: "Luftreformrat"
 ### JAP ###
 KR_imperial_prince_sic: "Reichsfürst"
 KR_reformist_socialist_sic: "Reformistischer Sozialist"
+KR_man_with_thousand_friends_sic: "Mann mit tausend Freunden"
+KR_man_with_thousand_friends2_sic: "Mann mit tausend Freunden"
+KR_scion_of_fujiwara_sic: "Nachkomme von Fujiwara"
 KR_long_war_advocate: "Zentralist"
 KR_short_war_advocate: "Restaurator"
+KR_lord_keeper_of_the_privy_seal: "Lordsiegelbewahrer des Geheimen Siegels"
+KR_nationalist_ideologue: "Nationalistischer Ideologe"
+KR_governor_of_bank_of_japan: "Gouverneur der Bank von Japan"
 
 ### KUM ###
 KUM_royal_advisory_sic: "Königliche Beratung"
@@ -456,7 +462,7 @@ KR_foreign_buddhist: "Ausländischer Buddhist"
 
 ### UKR ###
 KR_socialist_moderate: "Sozialistischer Moderater"
-KR_red_divine: "Rot Göttlich"
+KR_red_divine: "Roter Geistlicher"
 KR_geopolitical_theorist: "Geopolitischer Theoretiker"
 KR_natiocrat: "Natiocrat"
 KR_cooperatives_proponent: "Genossenschaften Antragsteller"
