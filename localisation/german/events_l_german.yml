@@ -8,6 +8,8 @@
  15_days_tt: "Die Umsetzung wird etwa §Y15 Tage§! in Anspruch nehmen."
  30_days_tt: "Die Umsetzung wird etwa §Y30 Tage§! in Anspruch nehmen."
  45_days_tt: "Die Umsetzung wird etwa §Y45 Tage§! in Anspruch nehmen."
+ if_they_accept: "Wenn sie akzeptieren:\n"
+ if_they_reject: "Wenn sie akzeptieren:\n"
  worrying: "Beunruhigend."
  maybe_war_tt: "§RDies kann zu einem Krieg führen mit§! §Y[From.GetNameDef]§!"
 ### Übersetzt von Proho  ###

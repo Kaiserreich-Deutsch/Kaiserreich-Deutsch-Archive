@@ -12,24 +12,24 @@
  generic_events.11.a: "Exzellent!"
 
  generic_events.12.t: "[FROM.GetNonIdeologyNameDefCap] schlägt ein Bündnis mit [FROM.GetNonIdeologyNameDef] vor"
- generic_events.12.d: "FROM wurde von FROM.FROM kontaktiert, um über ein Bündnis zu verhandeln. FROM hat die Anfrage an den Fraktionsvorsitzenden weitergeleitet."
+ generic_events.12.d: "Soeben ist eine dringende Mitteilung des Außenministeriums eingetroffen: [FROM.GetNonIdeologyNameDef] hat uns gebeten, die Aufnahme von [FROM.FROM.GetNonIdeologyNameDef] in unser Militärbündnis zu prüfen. Offensichtlich hat [FROM.FROM.GetNonIdeologyNameDef] die Idee ursprünglich [FROM.GetNonIdeologyNameDef] vorgeschlagen, der der Meinung war, dass die Idee genug Wert hat, um sie an uns weiterzugeben.\n\nDie Vorteile sind ziemlich offensichtlich. In der Strategie ist es praktisch immer eine gute Sache, mehr Streitkräfte zur Verfügung zu haben, und [FROM.FROM.GetNonIdeologyNameDef] hat eingeräumt, dass er wahrscheinlich gezwungen wäre, sich an allen Konflikten zu beteiligen, in die wir verwickelt sein könnten, unabhängig von deren Ursprung. Die Idee ist jedoch nicht ohne Risiko - von uns würde in ähnlicher Weise erwartet, dass wir uns an den Kriegen von [FROM.FROM.GetNonIdeologyNameDef] beteiligen, und der Eintritt in ein Bündnis mit ihnen könnte unseren bestehenden strategischen Zielen zuwiderlaufen. Solche Fragen müssen immer in Betracht gezogen werden, wenn ein neues Bündnis zur Debatte steht.\n\nWie lautet nun unsere Entscheidung?"
  generic_events.12.a: "Lasst sie beitreten."
  generic_events.12.b: "Wir wollen sie nicht."
 
  generic_events.13.t: "[FROM.GetNonIdeologyNameDefCap] Hat akzeptiert!"
- generic_events.13.d: "Der Fraktionsführer hat das Bündnis akzeptiert. ROOT ist das potenzielle Mitglied, FROM der Fraktionsführer, FROM.FROM das verhandelnde Land."
+ generic_events.13.d: "Gute Nachrichten! Nach Prüfung des Vorschlags von [FROM.FROM.GetNonIdeologyNameDef] hat [FROM.GetNonIdeologyNameDef] unsere Bitte angenommen, ihrem Bündnis beizutreten. Mit Freunden wie diesen werden wir sicherlich viel sicherer schlafen."
  generic_events.13.a: "Exzellent."
 
  generic_events.14.t: "[FROM.GetNonIdeologyNameDefCap] Hat akzeptiert!"
- generic_events.14.d: "Der Fraktionsführer hat das Bündnis akzeptiert. ROOT ist das verhandelnde Land, FROM das potenzielle Mitglied, FROM.FROM der Fraktionsvorsitzende."
+ generic_events.14.d: "Gute Nachrichten! Nach Prüfung unseres Vorschlags hat [FROM.FROM.GetNonIdeologyNameDef] zugestimmt, [FROM.GetNonIdeologyNameDef] in die Allianz aufzunehmen. Wir werden sicherlich beide von dieser Vereinbarung profitieren."
  generic_events.14.a: "Exzellent."
 
  generic_events.15.t: "[FROM.GetNonIdeologyNameDefCap] hat abgelehnt!"
- generic_events.15.d: "Der Fraktionsführer hat das Bündnis abgelehnt. ROOT ist das potenzielle Mitglied, FROM der Fraktionsführer, FROM.FROM das verhandelnde Land."
+ generic_events.15.d: "Bedauerliche Nachricht: Trotz der Unterstützung durch [FROM.FROM.GetNonIdeologyNameDef] hat [FROM.GetNonIdeologyNameDef] unser Angebot, ihrem Bündnis beizutreten, abgelehnt. Es scheint, dass ihre Ziele nicht so übereinstimmen, wie wir einst dachten."
  generic_events.15.a: "Ihr Verlust."
 
  generic_events.16.t: "[FROM.GetNonIdeologyNameDefCap] hat abgelehnt!"
- generic_events.16.d: "Der Fraktionsführer hat das Bündnis abgelehnt. ROOT ist das verhandelnde Land, FROM das potentielle Mitglied, FROM.FROM der Fraktionsführer."
+ generic_events.16.d: "Schockierende Neuigkeiten: Trotz unserer Argumentation in ihrem Namen hat sich [FROM.FROM.GetNonIdeologyNameDef] geweigert, [FROM.GetNonIdeologyNameDef] in das Bündnis aufzunehmen. Unser Außenministerium wurde von dieser Entwicklung völlig unvorbereitet getroffen - man hatte geglaubt, unser strategisches Denken sei viel näher, als es zu sein scheint."
  generic_events.16.a: "Was?"
 
  generic_events.17.t: "[FROM.GetNonIdeologyNameDefCap] hat abgelehnt!"
@@ -164,21 +164,16 @@ mobilisation_penalty_modifier: "Über Divisions Limit"
 
 unit_limit_count: "[unit_limit_count_loc]/[?max_divisions|H0]"
 
-unit_limit_count_red: "[?num_actual_divisions|R0]"
-unit_limit_count_yellow: "[?num_actual_divisions|H0]"
-unit_limit_count_green: "[?num_actual_divisions|G0]"
-
 unit_limit_factory_bonus: "Industriebonus auf Divisionslimit"
 unit_limit_bonus: "Divisions Limit"
  unit_limit_subject_bonus: "Division Limit"
 
-unit_limit_label: "§HMaximal unterstützte Divisionen§!\nDivisions: [?max_divisions|H0]\n\nBasiswert: [?base_units|G1]\n   - Von der Kernbevölkerung: [?core_base|G1][unit_limit_noncore_population][unit_limit_subject_population_bonus]\n   - Aus dem Besitz von Staaten: [?num_owned_states|G0][unit_limit_subject_state_bonus]\n\nMultiplikator der Fabrikzählung: [?industry_factor_uncapped|H%][unit_limit_modifier_was_capped][unit_limit_modified_by][unit_limit_faction_leader][unit_limit_economy_law]\n\nStandard: [?global.base_unit_limit_bonus|G=0][unit_limit_bonus_used]"
-unit_limit_desc: "Jedes Land hat nur die Fähigkeit, eine bestimmte Anzahl einzelner militärischer Divisionen zu unterstützen, bevor seine Wirtschaft und Infrastruktur damit zu kämpfen hat, diese zu unterhalten.\n\nDie maximale Anzahl der unterstützten Einheiten basiert auf der §HBevölkerung§! und §HAnzahl der in Besitz befindlichen Staaten§! und wird dann mit einem Verhältnis dieses Wertes zur §HAnzahl der Fabriken§! in den Staaten multipliziert.\n\nIn §HBürgerkriegen§! werden die Basiswerte aus der Summe aller Staaten im Besitz aller Teilnehmer berechnet.[above_unit_limit_desc]"
+unit_limit_label: "§HMaximal unterstützte Divisionen§!\n [?uncapped_max_divisions|H0][unit_limit_reached_cap]\n\nBasiswert: [?base_units|G1]\n   - Von der Kernbevölkerung: [?core_base|G1][unit_limit_noncore_population][unit_limit_subject_population_bonus]\n   - Aus dem Besitz von Staaten: [?num_owned_states|G0][unit_limit_subject_state_bonus]\n\nMultiplikator der Fabrikzählung: [?industry_factor_uncapped|H%][unit_limit_modifier_was_capped][unit_limit_modified_by][unit_limit_faction_leader][unit_limit_economy_law]\n\nStandard: [?global.base_unit_limit_bonus|G=0][unit_limit_bonus_used]"
+unit_limit_desc: "Jedes Land hat nur die Fähigkeit, eine bestimmte Anzahl einzelner militärischer Divisionen zu unterstützen, bevor seine Wirtschaft und Infrastruktur damit zu kämpfen hat, diese zu unterhalten.\n\nDie maximale Anzahl der unterstützten Einheiten basiert auf der §HBevölkerung§! und §HAnzahl der in Besitz befindlichen Staaten§! und wird dann mit einem Verhältnis dieses Wertes zur §HAnzahl der Fabriken§! in den Staaten multipliziert.\n\nIn §HBürgerkriegen§! werden die Basiswerte aus der Summe aller Staaten im Besitz aller Teilnehmer berechnet.[unit_limit_above_limit]"
 
-unit_limit_desc_fake_intel: "(§HGefälschte Intel-Divisionen§! nicht auf die Divisionsgrenze angerechnet)"
+ unit_limit_above_limit_desc: "\n\n--------------\n\n§RWir haben derzeit unsere Kapazitäten überschritten, und die einzige Möglichkeit, den Stress für unser Land zu verringern, besteht darin, einige unserer Divisionen aufzulösen.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]"
 
-unit_limit_desc_above_limit: "\n\n--------------\n\n§RWir haben derzeit unsere Kapazitäten überschritten, und die einzige Möglichkeit, den Stress für unser Land zu verringern, besteht darin, einige unserer Divisionen aufzulösen.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]"
-
+ unit_limit_reached_cap_desc: "\n(Begrenzung auf maximal [?300|H0])"
  unit_limit_noncore_population_desc: "\n   - Von der Nicht-Kernbevölkerung: [?non_core_base|G1]"
  unit_limit_subject_population_bonus_desc: "\n   - Von §HUntertan§! Bevölkerung: [?subject_base_units|G1]"
  unit_limit_subject_state_bonus_desc: "\n   - Von §HUntertan§! Staaten: [?subject_states|G0]"

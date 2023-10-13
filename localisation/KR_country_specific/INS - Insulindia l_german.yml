@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 ins_focus: "Schwerpunktbaum von Insulindia"
 
@@ -778,16 +778,12 @@ ins.invade_sarawak: "Eroberung von Sarawak"
 ins.invade_sarawak_desc: "Die winzige Nation Sarawak wird von unsachgemäßer Herrschaft geplagt. Wir sollten so gnädig sein, zu intervenieren und sie in unsere Nation einzugliedern, wobei die örtliche malaiische Bevölkerung uns sicherlich als Befreier sehen wird, richtig??"
 
 ### Companies ###
-shell_ins: "Shell Insulinde"
 permina: "Permina"
-machinefabriek_braat_ins: "Machinefabriek Braats"
-billiton_ins: "Billiton"
+barata: "Barata"
 pabrik_senjata_dan_mesiu: "Pabrik Senjata dan Mesiu"
-spyker_ins: "Spyker Singapur"
-nakajima_ins: "Nakajima Insulindia"
-yokosuka_ins: "Yokosuka Jakarta"
 kerata_api: "Kerata Api"
 pelni: "Pelni"
+biro_rencana_dan_konstruksi: "Biro Rencana dan Konstruksi"
 
 ### Custom Tooltips ###
 ins.manpower_more_than_5000: "£manpower_icon §H5000§!"

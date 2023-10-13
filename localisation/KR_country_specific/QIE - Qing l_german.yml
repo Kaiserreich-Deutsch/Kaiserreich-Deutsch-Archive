@@ -361,8 +361,8 @@ QIE_grant_foreign_licenses_desc: "Wir können zwar problemlos eigene Fabriken ba
 QIE_seek_german_RR_capital: "Deutsche Eisenbahningenieure einstellen"
 QIE_seek_german_RR_capital_desc: "Ein Großteil unseres Schienennetzes wurde von europäischen Firmen gebaut. Während einige sich sträuben mögen, sie weiterhin zum Bau unserer Eisenbahnen zu verwenden, sind sie die unbestrittenen Meister ihres Handwerks. Wir sollten deutsche Eisenbahningenieure suchen und direkt einstellen, um unsere Infrastruktur zu verbessern."
 
-QIE_krupp: "Krupp Stahl importieren"
-QIE_krupp_desc: "Während es den meisten im Inland produzierten Stählen an Qualität mangelt, steht Krupp international für Qualität. Wir sollten große Mengen davon importieren, um unser Industrienetzwerk aufzubauen, anstatt uns auf minderwertiges einheimisches Material zu verlassen."
+QIE_import_krupp_steel: "Krupp Stahl importieren"
+QIE_import_krupp_steel_desc: "Während es den meisten im Inland produzierten Stählen an Qualität mangelt, steht Krupp international für Qualität. Wir sollten große Mengen davon importieren, um unser Industrienetzwerk aufzubauen, anstatt uns auf minderwertiges einheimisches Material zu verlassen."
 
 QIE_siemens: "Siemens Radios kaufen"
 QIE_siemens_desc: "Funkgeräte sind ein Glücksfall in einem riesigen Land wie China, die dafür sorgen, dass unsere Truppen ihre Kampftaktiken koordinieren können. Siemens ist der deutsche König der Radios, und wir sollten welche importieren, um unsere Truppen auszurüsten."
@@ -663,6 +663,7 @@ eurasia_aviation_corporation: "Eurasia Aviation Corporation"
 kiangnan_works: "Kiangnan Dock and Engineering Works"
 china_navigation_company: "China Merchants Steam Navigation Company"
 aviation_weapons_technical: "Aviation Weapons Technology Research Organisation"
+QIE_AOG_bank: "D.A.B. Anteile"
 
 ### National Spirits / Ideas ###
 QIE_fractured_empire: "Geteiltes Reich"
@@ -2733,15 +2734,6 @@ qieflavor.28.a: "Luoyang muss gerächt werden!"
 qieflavor.100.t: "Aisin-Gioro Xianyu"
 qieflavor.100.d: "Aisin-Gioro Xianyu, auf Japanisch besser bekannt als Yoshio Kawashima, ist eine Mandschu-Adlige und entfernte Cousine von Puyi, die in den letzten Jahren am Qing-Hof zu großer Bedeutung aufgestiegen ist. Trotz ihres jungen Alters hat sie sich als geschickte Intrigantin erwiesen und hat mit der Zongshe-Partei zusammengearbeitet, um die Ziele des Mandschu-Adels voranzutreiben.\n\nAufgewachsen in einer japanischen Familie, nachdem sie 1915 zur Adoption freigegeben wurde, haben einige um Puyi ihre Loyalität gegenüber unserer Nation in Frage gestellt. Während des Exils des Kaisers in Tianjin drängte die junge Xianyu darauf, dass Puyi mit den Japanern statt mit den Deutschen zusammenarbeitete, eine Haltung, die sie mit vielen der engeren Familie des Kaisers in Konflikt brachte. Fast ein Jahrzehnt später sind viele jedoch bereit, das aus jugendlicher Unwissenheit zu verzeihen, und sie hat sich schnell zu einer wichtigen Person gemacht, mit der man rechnen muss."
 qieflavor.100.a: "Interessant"
-
-### Companies ###
-QIE_schantung_eisenbahn_gesellschaft: "Schantung-Eisenbahn-Gesellschaft"
-QIE_focke_wulf_LEP: "Focke Wulf Ost-Asien"
-QIE_Rumpler_Flugzeugwerke_Ostasien: "Rumpler Flugzeugwerke Ostasien"
-QIE_Norddeutscher_Lloyd: "Norddeutscher Lloyd Singapur"
-QIE_Opel: "Opel Südostasien"
-QIE_krupp_ost_asien: "Krupp Ost-Asien"
-QIE_AOG_bank: "D.A.B. Anteile"
 
 ### Cosmetic Tags ###
 QIE: "Zhili"

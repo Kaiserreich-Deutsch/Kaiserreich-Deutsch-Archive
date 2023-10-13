@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 KR_Liangguang_Federalist: "Schwerpunktbaum von Föderalistisches Liangguang"
 KR_federalist_china: "Schwerpunktbaum von Föderalistisches China"
@@ -19,7 +19,6 @@ GXC_guangxi_merge_ideas: "Dieser Schwerpunkt wird §Halle Guangxi-bezogenen Nati
 GXC_guangdong_merge_ideas: "Vereint §Halle Guangdong-bezogenen Nationalgeister§!"
 GXC_if_seventh_army_chosen: "Wenn §H$GXC_seventh_army$§! gewählt wurde:"
 GXC_if_fourth_army_chosen: "Wenn §H$GXC_fourth_army$§! gewählt wurde:"
-GXC_military_effect_tooltip: "Ersetze §H$GXC_officer_vanguards_idea$§! oder §H$GXC_professional_officers$§! mit §H$GXC_liangguang_NRA$§!\nEffektive Veränderung:\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+5.0%§!\n$MODIFIER_ARMY_ORG_FACTOR$: §G+5.0%§!\n"
 guangxi_rebels_tt: "Die Guangxi Clique rebelliert gegen unsere Herrschaft!\n"
 guangdong_loyalists_tt: "Loyalisten in Guangdong werden gegen uns einen Aufstand anzetteln!\n"
 civilian_guangxi: "Wir haben die zivile Autorität in Guangxi wiederhergestellt"
@@ -154,6 +153,9 @@ GXC_negotiate_with_Zhili_desc: "Während viele Republikaner den Jade-Marschall m
 
 GXC_Purge_the_Party_State: "Säubert den Parteienstaat"
 GXC_Purge_the_Party_State_desc: "Die Kuomintang ist seit langem unser größter Rivale. Auch wenn die Nationalisten behaupten, für Demokratie und Wohlfahrt einzutreten - die Kuomintang, sowohl die Linke als auch die Rechte, sind nichts anderes als Anhänger eines Parteienstaates mit ihren Idealen der 'politischen Vormundschaft'. Es ist an der Zeit, sie ein für alle Mal auszurotten!"
+
+GXC_Attack_Qing: "[GXC_GetAttackQingFocus]"
+GXC_Attack_Qing_desc: "[GXC_GetAttackQingFocusDesc]"
 
 GXC_Overthrow_the_Monarchy: "Die Monarchie stürzen"
 GXC_Overthrow_the_Monarchy_desc: "Die vielleicht schärfste Erinnerung an das Scheitern der Xinhai-Revolution ist die Tatsache, dass Puyi weiterhin auf dem Thron sitzt, nachdem er am Ende der Nordexpedition zur Besänftigung der Ausländer wieder eingesetzt wurde. Dies war vielleicht der größte Verrat der Zhili-Clique am Erbe der Xinhai-Revolution und steht für das Versagen der Republikaner, sich gegen die Tyrannei zu vereinen. Damit ist jetzt Schluss - wir marschieren nach Norden und beenden, was wir Jahrzehnte zuvor begonnen haben."

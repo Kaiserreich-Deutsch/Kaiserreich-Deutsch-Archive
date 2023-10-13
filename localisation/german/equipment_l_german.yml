@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 submarine: "U-Boote"
 submarine_desc: "U-Boote sind getarnte Angriffsschiffe. Schwere U-Boote sind größer und leistungsfähiger, haben eine größere Reichweite und verfügen über eine gewisse Fähigkeit zur Boden-Boden-Beschießung und zur Bombardierung von Land."
@@ -41,6 +41,8 @@ armored_car_equipment: "Panzerwagen"
 armored_car_equipment_desc: "Leichte gepanzerte Radfahrzeuge. Üblich für Aufklärung und Widerstandsunterdrückung, kann aber auch mit schwereren Waffen ausgestattet werden."
 motorized_equipment: "LKW"
 motorized_equipment_desc: "Lastwagen für den Transport von Truppen, Nachschub und für die Motorisierung der Division."
+motorized_equipment_0: "Früher LKW"
+motorized_equipment_0_desc: "Während des Ersten Weltkriegs begannen die Armeen, einfache zivile Lastwagen für den Transport von Nachschub und Ausrüstung zu verwenden. Seitdem sind sie ein fester Bestandteil der meisten Armeen."
 motorized_equipment_1: "LKW"
 motorized_equipment_1_desc: "Die Motorisierung der Infanterie ist der erste Schritt zur Mechanisierung einer Armee. Zivile Lastkraftwagen lassen sich leicht an militärische Zwecke wie den Transport von Soldaten, das Ziehen von Geschützen und den Transport von Ausrüstung und Nachschub anpassen. Dadurch wird die strategische Mobilität von Infanterieeinheiten, die ansonsten auf den Marsch angewiesen wären, erheblich gesteigert."
 support_equipment_short: "Zusatzausr."

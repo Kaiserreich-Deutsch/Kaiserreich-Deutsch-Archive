@@ -130,7 +130,6 @@ china_is_unaligned: "Ist eine unausgerichtete Clique"
 china_is_unaligned_NOT: "Ist §Rnicht§! eine unausgerichtete Clique"
 
 china_morale_will_change_by: "£GFX_pol_violence §YMorale§! wird sich ändern um [?change_league_war_morale_by|+0]."
-china_has_sixty_morale: "Hat mehr als §Y60§! £GFX_pol_violence §YMoral§!"
 
 china_mobilize_1_units_tt: "Erhöht £manpower_texticon §Y1 Division§! in der befreiten Zone."
 china_mobilize_2_units_tt: "Erhöht £manpower_texticon §Y2 Divisions§! in der befreiten Zone."
@@ -257,7 +256,7 @@ GetLeagueWarMorale0: "§oZerstört§!"
 
 china_morale_dm: "Liga Kriegsmoral"
 
-china_has_thirty_morale: "Hat mehr als §Y30§! £GFX_pol_violence §YMorale§!"
+china_check_morale_tt: "Hat mehr als $RIGHT|Y0$ £GFX_pol_violence §YMoral§!"
 
 china_morale_sink_danger: "£GFX_pol_violence §YMoral§! wird §ogefährlich niedrig!§! sinken"
 
@@ -486,9 +485,9 @@ china_events.11.a: "Der Wandel kommt unweigerlich."
 china_events.12.t: "Unsere Bemühungen um [FROM.GetNameDef] zu integrieren "
 china_events.12.intro: "In den letzten Wochen haben wir Schritte unternommen, um die [FROM.GetAdjective]-Verwaltung weiter in unsere eigene zu integrieren, und dabei langsame, aber stetige Fortschritte gemacht. Dies ist natürlich von [FROM.GetLeader] und der [FROM.GetRulingParty] nicht unbemerkt geblieben, aber es scheint, dass sie unseren Forderungen im Allgemeinen nachgegeben haben, sei es aus echter ideologischer Loyalität oder weil sie die Vereinigung als vollendete Tatsache betrachten."
 
-china_events.12.d.integration_level_1: "$china_events.11.intro$\n\nUm solche Angelegenheiten vorzubereiten, sollten wir ihrer Regierung verkünden, dass sie von nun an in allen Formen der öffentlichen Kommunikation unseren Dialekt verwenden muss. Dies wird nicht nur dazu beitragen, die Dialektbarrieren in den Provinzen einzureißen, sondern auch dazu, Mittel des lokalen Dissenses zu verhindern. Auf jeden Fall hat sich unsere Kontrolle über [FROM.GetNameDef] im Vergleich zu früher stark verbessert."
-china_events.12.d.integration_level_2: "$china_events.11.intro$\n\nWir müssen auch die Massen Chinas erreichen und darüber informieren, dass wir China in ein modernes Zeitalter, eine neue Ära für die chinesische Nation, führen werden. In einer so entscheidenden Zeit der nationalen Einigung müssen wir sie wissen lassen, dass ihre lokalen und rückständigen Bräuche im Vergleich zum modernen Wissen nicht mehr bestehen können."
-china_events.12.d.integration_level_3: "$china_events.11.intro$\n\nDie Zukunft Chinas gehört der neuen Jugend, und die Jugend muss unsere Sitten und Gebräuche lernen und unsere Autorität verstehen, wenn unser Einfluss auf China über Generationen hinweg bestehen bleiben soll. Lasst uns die Schulen anweisen, unsere Sprachen im Unterricht und in der Konversation zu verwenden."
+china_events.12.d.integration_level_1: "$china_events.12.intro$\n\nUm solche Angelegenheiten vorzubereiten, sollten wir ihrer Regierung verkünden, dass sie von nun an in allen Formen der öffentlichen Kommunikation unseren Dialekt verwenden muss. Dies wird nicht nur dazu beitragen, die Dialektbarrieren in den Provinzen einzureißen, sondern auch dazu, Mittel des lokalen Dissenses zu verhindern. Auf jeden Fall hat sich unsere Kontrolle über [FROM.GetNameDef] im Vergleich zu früher stark verbessert."
+china_events.12.d.integration_level_2: "$china_events.12.intro$\n\nWir müssen auch die Massen Chinas erreichen und darüber informieren, dass wir China in ein modernes Zeitalter, eine neue Ära für die chinesische Nation, führen werden. In einer so entscheidenden Zeit der nationalen Einigung müssen wir sie wissen lassen, dass ihre lokalen und rückständigen Bräuche im Vergleich zum modernen Wissen nicht mehr bestehen können."
+china_events.12.d.integration_level_3: "$china_events.12.intro$\n\nDie Zukunft Chinas gehört der neuen Jugend, und die Jugend muss unsere Sitten und Gebräuche lernen und unsere Autorität verstehen, wenn unser Einfluss auf China über Generationen hinweg bestehen bleiben soll. Lasst uns die Schulen anweisen, unsere Sprachen im Unterricht und in der Konversation zu verwenden."
 china_events.12.d.integration_final: "Unsere Bemühungen, die [FROM.GetAdjective] Provinzverwaltung in unsere eigene zu integrieren, waren ein voller Erfolg. Ihre Bevölkerung ist nun zufrieden und hat Verständnis für unsere Herrschaft, und wöchentlich treffen positive Berichte von unseren ernannten Magistraten ein. Außerdem hören wir, dass ihre Gesellschaft jetzt die Kultur unserer Hauptstadtregion annimmt und dass ihre Schulen unseren Dialekt in allen Formen des Dialogs verwenden. Wir brauchen uns keine Sorgen über Meinungsverschiedenheiten zu machen, da ihre lokalen Medien nicht mehr in ihren Provinzdialekten senden und ihre Armee nun vollständig in unsere integriert ist."
 china_events.12.a: "Ein weiterer Schritt auf dem Weg zur Wiedervereinigung."
 

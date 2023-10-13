@@ -219,27 +219,13 @@
  PER_swenavaltext_no: "Obwohl Schweden gefallen ist, wird seine Marinetradition von vielen Nationen der Welt als Modell genutzt. Wir sollten einige unserer Ressourcen dazu nutzen, die Doktrin der schwedischen Flotte genauer zu studieren."
 
 ### Companies ###
- krupp_PER: "Krupp Irān"
- aeg_PER: "AEG Irān"
- solvay_PER: "Solvay Irān"
- imperial_oil_PER: "Imperiales Öl"
- aga_PER: "AGA Irān"
- zbrojovka_brno_PER: "Zbrojovka Brno Irān"
- steyr_PER: "Steyr Irān"
- walther_PER: "Walther Irān"
- dominion_cartridge_PER: "Dominion Cartridge Irān"
- krupp2_PER: "Krupp Irān"
- skoda_PER: "Skoda Irān"
- scania_vabis_PER: "Scania Vabis"
- volvo_PER: "Volvo"
- general_motors_iran: "General Motors Irān"
- svenska_aeroplan_PER: "Svenska Aeroplan Irān"
- wilton_fijenoord_PER: "Wilton-Fijenoord"
  shabaz_aircraft_manufacturer: "Flugzeugbau Shabaz"
- imperial_arms_company: "Imperiale Waffenhersteller"
- imperial_artillery_company: "Imperiales Artillerieunternehmen"
- blohm_voss_PER: "Blohm & Voss Irān"
- 
+ imperial_arms_company: "[ROOT.PER_GetArmsCompanyPrefix] Waffenhersteller"
+ imperial_artillery_company: "[ROOT.PER_GetArmsCompanyPrefix] Artillerieunternehmen"
+
+ PER_imperial_arms_company_organisation: "[THIS.Owner.PER_GetArmsCompanyPrefix] Waffenhersteller"
+ PER_imperial_artillery_company_organisation: "[THIS.Owner.PER_GetArmsCompanyPrefix] Artillerieunternehmen"
+
 ### Ideas ###
  PER_mandatory_education: "Schulpflicht"
  PER_fighter_production: "Erhöhte Flugzeugproduktion"
@@ -315,7 +301,7 @@
  PER_country_intro_content_2: "Im Jahre 1925, nach dem Fall des Britischen Imperiums und dem Rückzug der Briten aus Chuzestan, feierten die Madschlis die Wiedervereinigung mit Chuzestan, indem sie die dortige Öl-Industrie nationalisierten. Nun wird dieses Ereignis jedes Jahr von unseren Bürgen gefeiert, da es unseren Willen zeigt, uns weder unser Land, noch unser Öl wegnehmen zu lassen."
  pers.96.a: "[PER.GetNameDefCap] wird stark bleiben!"
  
- PER_guide: "§MZorn des kadscharischen Löwen§! (§PPaternal Autokratisch§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza die Flucht ergreifen.\n£white_dot Entsendet im nachfolgenden Event Loyalisten in die Madschlis.\n\n§MVerstärkter Konstitutionalismus§! (§gAutoritäre Demokratie§! / §SSozialdemokraten§! / §cSozialkonservative§! / §lSozialliberale§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza im Land bleiben.\n£white_dot Tut im nachfolgenden Event nichts.\n£white_dot Für Schah Hamid Mirza: Anstatt nichts zu tun, entsendet Loyalisten in die Madschlis, ermordet den Schah und schließt dann Frieden.\n\n§MLang lebe die Revolution!§! (§RRadikale Sozialisten§! / §SSozialdemokraten§! / §cSozialkonservative§! / §lSozialliberale§! / §mMarktliberale§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza die Flucht ergreifen.\n£white_dot Tut im nachfolgenden Event nichts.\n£white_dot Für eine radikal-sozialistische Republik: Wählt eine sozialistische Republik.\n£white_dot Für eine demokratische Republik: Erlaubt den Demokraten, eine Republik zu formen."
+ PER_guide: "§MZorn des kadscharischen Löwen§! (§PPaternale Autokraten§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza die Flucht ergreifen.\n£white_dot Entsendet im nachfolgenden Event Loyalisten in die Madschlis.\n\n§MVerstärkter Konstitutionalismus§! (§gAutoritäre Demokratie§! / §SSozialdemokraten§! / §cSozialkonservative§! / §lSozialliberale§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza im Land bleiben.\n£white_dot Tut im nachfolgenden Event nichts.\n£white_dot Für Schah Hamid Mirza: Anstatt nichts zu tun, entsendet Loyalisten in die Madschlis, ermordet den Schah und schließt dann Frieden.\n\n§MLang lebe die Revolution!§! (§RRadikale Sozialisten§! / §SSozialdemokraten§! / §cSozialkonservative§! / §lSozialliberale§! / §mMarktliberale§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza die Flucht ergreifen.\n£white_dot Tut im nachfolgenden Event nichts.\n£white_dot Für eine radikal-sozialistische Republik: Wählt eine sozialistische Republik.\n£white_dot Für eine demokratische Republik: Erlaubt den Demokraten, eine Republik zu formen."
 
 
 ### Events ###

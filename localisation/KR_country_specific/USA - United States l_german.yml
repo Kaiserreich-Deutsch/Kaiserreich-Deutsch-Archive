@@ -438,14 +438,12 @@ us_research_desc: "Das Inter-Amerikanische Verteidigungskolleg dient der Verbess
 USA_join_tech_sharing_tooltip: "§CWir werden versuchen, unseren Verbündeten technologische Unterstützung zu geben.§!\n"
 USA_color_war_plans_tooltip: "§CWir werden eine Reihe von farbcodierten Plänen ausarbeiten, um mit Amerikas Feinden umzugehen§!\n"
 USA_pan_american_confrence_tooltip: "§CWir werden in Zukunft eine Konferenz mit anderen Ländern einberufen, mit denen wir innerhalb Amerikas verbunden sind§!\n"
-USA_trial_of_american_companies_tooltip: "§CDie Prozesse gegen die Unternehmen, die Rebellen und Verräter unterstützt haben, sollen beginnen§!\n"
 USA_military_cooperation_tooltip: "§CWir werden einige gemeinsame militärische Trainingsoperationen mit unseren Verbündeten durchführen§!\n"
 USA_arsenal_of_democracy_tooltip: "§CWir müssen das große Arsenal der Demokratie sein, um unsere Verbündeten auf dem amerikanischen Kontinent zu schützen!§!\n"
 USA_military_defense_tooltip: "§CDer Interamerikanische Verteidigungsausschuss soll uns helfen, uns militärisch besser mit unseren Verbündeten abzustimmen.§!\n"
 USA_technological_cooperation_tooltip: "§CWir teilen die Technologie mit unseren Verbündeten§!\n"
 USA_intel_sharing_tooltip: "§CDer Interamerikanische Nachrichtendienst hilft bei der Koordinierung der nachrichtendienstlichen Tätigkeiten mit den Mitgliedern des LOAS.§!\n"
 USA_pax_americana_tooltip: "§CDie westliche Hemisphäre wird eine Ära des Friedens unter dem wachsamen Blick des Amerikanischen Adlers erleben§!\n"
-USA_allow_companies_tooltip: "§GNeue Firmen sollen verfügbar sein§!\n"
 USA_dollar_diplomacy_tooltip: "§CDie Macht des Amerikanischen Dollars soll unsere Beziehungen zum Ausland verbessern§!\n"
 USA_new_diplomatic_corps_tooltip: "§CWir sollten neue Diplomaten und Konsulate in die ganze Welt entsenden, um unsere Beziehungen zur Welt zu verbessern§!\n"
 USA_subject_of_foreign_power: "untersteht einer fremden Macht"
@@ -2771,6 +2769,7 @@ kr_white_motor: "White Motor"
 kr_baldwin_locomotive_works: "Baldwin Locomotive Works"
 kr_ford: "Ford"
 kr_general_motors: "General Motors"
+ kr_detroit_arsenal: "Detroit Arsenal"
 
 kr_ingalls_shipbuilding: "[kr_ingalls_shipbuilding_text] Shipbuilding"
 kr_newport_news_shipbuilding: "Newport News Shipbuilding"
@@ -2800,6 +2799,9 @@ kr_vought: "Vought"
 kr_boeing: "Boeing"
 kr_douglas: "Douglas"
 kr_glenn_l_martin_company: "Glenn L. Martin Company"
+
+ ### Verwendet als Artillerieexporteur MIO zu anderen Tags
+ us_ordnance_export: "American Ordnance Exports"
 
 # Traits
 us_motorized_companies_buick: "Mechanised Equipment Manufacturer"

@@ -297,6 +297,10 @@ TRAIT_UNLOCKED_BY: "Freigeschaltet durch: §Y$TRAITNAME$§!\n\n"
 TRAIT_UNLOCKED_BY_MIN_RANK: "Erfordert eine Fähigkeitsstufe von mindestens §Y$RANK$§!, um zum Berater zu werden."
 TRAIT_UNLOCKS_ADVISOR_ROLE: "Scahltet Rolle §Y$ADVISORSLOT$§! frei: §Y$ADVISORNAME$§!\n"
 TRAIT_MODIFIER_FOR_ADVISOR_RANK: "Bei Fähigkeit §Y$RANK$§!:\n\n$TEXT$"
+TRAIT_PARENT_PRECONDITION_ALL_OF_TITLE: "§YBenötigt alle folgenden Punkte:§!"
+TRAIT_PARENT_PRECONDITION_N_OF_TITLE: "§YErfordert $NUMBER$ der folgenden Punkte:§!"
+TRAIT_PARENT_PRECONDITION_OR_SUB_ENTRY: "- eines der folgenden Punkte:"
+TRAIT_PARENT_PRECONDITION_PARENT: "- $NAME$"
 expert_improviser_movement_bonus_on_land: "Bewegungsbonus zu Land: §G+10.0%§!"
 
 exiled_leader: "Anführer im Exil"
@@ -432,3 +436,6 @@ pick_advisor_role: "Verfügbare Beraterrolle"
 
 promoted_from_the_ranks: "Aus den unteren Rängen befördert"
 promoted_from_the_ranks_desc: "TODO"
+
+guerilla_officer: "Guerilla Offizier"
+guerilla_officer_desc: "§LExperte für Guerilla-Kriegsführung und Sabotageaktionen hinter den feindlichen Linien.§!"

@@ -444,11 +444,11 @@ amcivwar.162.d: "Es ist über ein Jahr her, seit die neue Regierung in [america_
 amcivwar.162.a: "Natürlich"
 amcivwar.162.b: "Sie sind noch nicht bereit"
 
-amcivwar.163.t: "Friede mit Kanada?"
+amcivwar.163.t: "Frieden mit Kanada?"
 amcivwar.163.d: "Wir haben Ottawa besetzt und haben derzeit die Kanadier auf der Flucht. Vielleicht ist es an der Zeit, Frieden zu schließen, damit wir nicht in ihr weitläufiges Gebiet hineingezogen werden."
-amcivwar.163.a: "Sehr gut, lasst es uns beenden"
-amcivwar.163.b: "Nur wenn sie uns Landkonzessionen geben"
-amcivwar.163.c: "Wir wollen ihnen eine Lektion erteilen"
+amcivwar.163.a: "Wir werden ihnen eine Lektion erteilen"
+amcivwar.163.b: "Nun gut, lasst uns das beenden"
+amcivwar.163.c: "Nur wenn sie uns Zugeständnisse für Land machen"
 
 amcivwar.164.t: "[From.GetNameDefCap] bittet um Frieden"
 amcivwar.164.d: "Wir haben einen Gesandten von der Regierung [From.GetAdjective] erhalten, der sagt, sie hätten genug von Kanada besetzt und hoffen, dass wir eine böse Lektion gelernt haben. Sie sind bereit, über Frieden nachzudenken, warnen uns jedoch ernsthaft, dass sie das nächste Mal nicht so nachsichtig sein werden. "

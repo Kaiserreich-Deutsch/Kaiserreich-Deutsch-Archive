@@ -632,6 +632,14 @@
  KRBAT.122.f: "Wer kann auf die Baltikum schauen und trotzdem das Deutsche Reich unterstützen?"
  KRBAT.122.g: "Eine beunruhigende Entwicklung..."
 
+ KRBAT.123.t: "Der Aufstand der Waldbrüder"
+ KRBAT.123.d: "Die Lähmung der Zentralregierung in Riga und der wirtschaftliche Zusammenbruch haben lettischen und estnischen Partisanen im Vereinigten Baltischen Herzogtum die Gelegenheit gegeben, gegen das Herzogtum zu rebellieren. Livland hat die Hauptlast der sich entwickelnden Rebellion zu tragen, und die dortigen Landverwalter berichten, dass sie das Land nicht kontrollieren können, da die Strafverfolgungsbehörden von Ad-hoc-Partisanenorganisationen und Widerstandsgruppen im Untergrund überrannt wurden.\n\nUnterstützt von örtlichen Bauern und Überläufern aus der Armee des Herzogtums richten diese so genannten "Waldbrüder" Verwüstungen an und versuchen, die deutsche Herrschaft im Baltikum vollständig zu stürzen. Riga hat uns gebeten, eine vorübergehende Militärpolizei in das Herzogtum zu entsenden, um sie bei ihrem Kampf gegen die baltischen Separatisten zu unterstützen. Sollte das Herzogtum zusammenbrechen, wäre das nicht nur für den deutschen Stolz und die Stellung in Europa, sondern auch für unsere Verteidigungspläne gegen Russland katastrophal."
+ KRBAT.123.a: "In Fragen der nationalen Sicherheit ist nichts zu kostspielig."
+ KRBAT.123.a.tt: "Durch unsere Unterstützung werden wir §Gsicherstellen§! dass das Herzogtum überlebt."
+ KRBAT.123.b: "Gewähren Sie ihnen begrenzte Unterstützung."
+ KRBAT.123.b.tt: "Unsere Hilfe wird von Nutzen sein, aber sie wird §Onicht§! das Überleben des Herzogtums garantieren."
+ KRBAT.123.c: "Sicherlich kann der Herzog mit ein paar Partisanen umgehen."
+
 ### Focuses ###
 
  BAT_eliminate_honorifics: "Unnötige Ehrentitel abschaffen"
@@ -1454,7 +1462,7 @@
  BAT_Knight_academies_safeguard_tooltip: "Sie werden den nationalen Schwerpunkt §YAbschaffung der Ritter-Schulen§! nicht mehr wählen können."
  BAT_forest_brothers_tooltip: "Der Aufstand der £pol_violence §YWaldbrüder§! beginnt.\n"
  BAT_estcour_brothers_tooltip: "Gewinn von 25% £pol_violence §YWiderstand§! in Estland und Kurland.\n"
- BAT_low_resistance_tooltip: "Mindestens zwei überparteiliche £Entscheidungen_icon_small §YEntscheidungen§! abgeschlossen\n"
+ BAT_low_resistance_tooltip: "Hat mehr als $RIGHT|Y0$ überparteiliche £decision_icon_small §YEntscheidungen§! abgeschlossen"
  BAT_ongoing_partisan_action_tt: "Derzeit läuft eine Anti-Partisanen-Aktion"
  BAT_flight_to_riga_tooltip: "Spielen Sie weiter als die Überreste des Vereinigten Baltischen Herzogtums - §YStadt Riga§!."
  BAT_play_latvia_tooltip: "Wechseln Sie zur Republik Lettland - §YLettland§!."

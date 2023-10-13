@@ -133,6 +133,14 @@
  MAD_ADJ: "Madegassisch"
  MAD_DEF: "Madagaskar"
 
+ MAD_kingdom: "Königreich Imerina"
+ MAD_kingdom_ADJ: "Madegassisch"
+ MAD_kingdom_DEF: "das Königreich Imerina"
+
+ ### Characters ###
+ MAD_marie_louise_razinkeriefo: "Marie-Louise Razafinkeriefo"
+ MAD_marie_louise_razinkeriefo_regnal: "Marie-Louise I"
+
 ### MZB: Mozambique
  MZB: "Mosambik"
  MZB_ADJ: "Mosambikanisch"

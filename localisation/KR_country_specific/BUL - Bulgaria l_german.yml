@@ -67,6 +67,7 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
  su_kliment_ohridski: "SU Kliment Ohridski"
  petrol_ad: "Petrol AD"
  vmz_sopot: "VMZ Sopot"
+ varnenska_korabostroitelnitsa: "Varnenska Korabostroitelnitsa" #Varna Shipuard
  darzhavna_voenna_fabrika: "Darzhavna Voenna Fabrika"
  darzhavna_aeroplanna_rabotilnitsa: "Darzhavna Aeroplanna Rabotilnitsa"
  kaproni_bulgarski: "Kaproni Bulgarski"
@@ -206,7 +207,7 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
  BUL_possible_zvenoslavia_tt: "§RDie Opposition gegen den deutsch-österreichischen Einfluss ist eine der ideologischen Säulen von Zveno. Vielleicht können wir diesen ideologischen Pfeiler in einen neuen Weg für Bulgarien verwandeln, wenn wir jegliche Hilfe des deutsch-österreichischen Blocks ablehnen, sei es materielle Hilfe oder Freiwillige?\n\n"
 
  BUL_balkan_union: "Die Balkanunion"
- BUL_balkan_union_starting: "$modifier_production_speed_industrial_complex_factor$: §G+10.00%§!"
+ BUL_modifies_balkan_union: "Ändern Sie §Y$BUL_balkan_union$§! durch"
 
 ### Intro Screen ###
  BUL_country_intro_header: "Der schwankende San-Stefanische Traum"
@@ -1590,7 +1591,6 @@ bulgaria_focus: "Schwerpunktbaum Bulgarien"
  BUL_angry_bureaucracy_flag: "Dieser Schwerpunkt wurde nicht deaktiviert."
 
  BUL_great_etatist_project_mission: "£civ_factory_output  Das große Etatistenprojekt abschließen"
- BUL_factory_goals_tt: "Mehr als §Y[?BUL_factory_goals]§! Fabriken insgesamt"
  BUL_belgium_of_the_balkans: "Das Belgien des Balkans"
  BUL_belgium_of_the_balkans_desc: "In wenigen Jahren haben wir den Traum verwirklicht, den Konstantin Stoilov vor so vielen Jahren hatte: Bulgarien zu modernisieren und zum wohlhabendsten Staat auf dem Balkan zu machen. Stoilov sah Belgien, einen modernen Industriestaat und die Wiege der Industrie in Kontinentaleuropa, als seinen Traum an - und wir haben ihn konsequent verfolgt."
 

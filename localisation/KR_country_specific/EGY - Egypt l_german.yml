@@ -55,15 +55,6 @@
  EGY_camel_corps_tech: "Königliches Kamelkorps"
  EGY_camel_corps_tech_effect: "Schaltet §H$EGY_camel_corps_tech$§! frei\n§HKamele\n    Wüste§!\n      Angriff: §G+15%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+3%§!\n\n"
 
- egy_german_companies_tt: "Schaltet Konstrukteur frei: §YHanomag Ägypten§!\nSchaltet Konstrukteur frei: §YDeutsche Ostafrika-Linie§!\nSchaltet Konstrukteur frei: §YMauser Ägypten§!\nSchaltet Konstrukteur frei: §YWalther Ägypten§!\nSchaltet Konstrukteur frei: §YOpel El Sakkakini§!\nSchaltet Konstrukteur frei: §YKrupp Ägypten§!"
- egy_red_sea_companies_tt: "Schaltet Konstrukteur frei: §YHafenbehörden des Roten Meeres§!\n"
- egy_alexandria_companies_tt: "Schaltet Konstrukteur frei: §YSchiffswerft von Alexandria§!\n"
- egy_airports_companies_tt: "Schaltet Konstrukteur frei: §YÄgyptische Fluggesellschaft§!\n"
- egy_airports_sud_companies_tt: "Schaltet Konstrukteur frei: §YSudanesische Fluggesellschaft§!\n"
- egy_domestic_gunsmiths_companies_tt: "Schaltet Konstrukteur frei: §YShoubra Maschinenbau§!\nSchaltet Konstrukteur frei: §YÄgyptische Ingenieursagenturen§!"
- egy_civilian_investment_companies_tt: "Schaltet Konstrukteur frei: §YChemische Industrie von Heliopolis§!\nSchaltet Konstrukteur frei: §YMaadi Maschinenbauindustrie§!"
- egy_radio_companies_tt: "Schaltet Konstrukteur frei: §YÄgyptisches Telefon- und Telegraphenunternehmen§!"
-
 ### Flags ###
  EGY_farouks_reforms_begun: "Sultan Farouk hat seine Reformen begonnen"
  EGY_black_monday_has_hit_egypt: "Der Schwarze Montag hat Ägypten getroffen"

@@ -36,6 +36,7 @@ BEL_focus: "Belgisch Deutscher Schwerpunkt Baum"
  brossel: "Brossel"
  miesse: "Miesse"
  cockerill_scheepwerfen: "Cockerill Scheepwerfen"
+ acec: "ACEC"
 
 ### Ideas ###
 BEL_Antwerp_Harbor: "Niederländische Kontrolle über Westerschelde"
@@ -347,9 +348,9 @@ BEL_Repair_Leuven_Library: "Wiederaufbau der Leuvener Bibliothek"
 BEL_Repair_Leuven_Library_desc: "In den ersten Wochen des Weltkriegs niedergebrannt, gaben deutsche Investoren der Universität Gent den Vorzug vor derjenigen in Leuven, was zu einer langsamen Erholung ihrer Sammlung führte. Durch einen großen Zuschuss und Werke von Spendern sind wir in der Lage, die Regale wieder zu füllen."
 BEL_FN_Herstal: "FN Herstal Erweiterung"
 BEL_FN_Herstal_desc: "Um den steigenden Bedarf unseres Militärs zu decken, müssen wir in den Kleinwaffenhersteller FN investieren"
-BEL_Brossel: "Wählen Sie Brossel Trucks"
+BEL_Brossel: "Investition in Brossel Trucks"
 BEL_Brossel_desc: "Spezialisiert auf zivile Transporte wie Busse und Züge, können wir mit den richtigen Mitteln und der Unterstützung durch unsere Regierung ihre militärischen Lkw-Kapazitäten weiter ausbauen."
-BEL_Minerva: "Minerva wählen"
+BEL_Minerva: "Investition in Minerva"
 BEL_Minerva_desc: "Unser Luxus-Automobilhersteller hat den Wunsch geäußert, den Lkw-Bauauftrag von unserer Regierung zu erhalten und wäre definitiv in der Lage, unsere Anforderungen zu erfüllen, obwohl die Kosten hoch sein könnten."
 BEL_FRC_Investements: "FRC Investitionen"
 BEL_FRC_Investements_desc: "Wir brauchen eine größere Produktion von Artillerie- und Panzerabwehrwaffen und mit der Expertise von FRC werden wir in der Lage sein, diesen Bedarf zu decken."
@@ -1825,6 +1826,47 @@ belind.14.c: "Der KP/DC erringt den Sieg."
 belind.15.t: "Volksunie verkündet ihren Sieg"
 belind.15.d: "Gestärkt durch die Unzufriedenheit der Bürger, die an der Sprachgrenze wohnen und Wähler von der viel radikaleren Verdinaso und VNV anziehen, hat die Volksunie die Wahl mit knappem Vorsprung gewonnen. Sie behaupten, dass sie ihre Wahlversprechen umsetzen und Belgien in eine Konföderation umwandeln wollen, in der die flämische und wallonische Regierung von den Beschränkungen Brüssels befreit sind und nach eigenem Ermessen handeln können."
 belind.15.a: "Dies wird ein langer und harter Prozess sein."
+
+ belind.30.t: "Zusammenbruch von [ROOT.GetFactionName]"
+ belind.30.desc: "Das niederländische Volk ist von einer schweren Katastrophe heimgesucht worden: Sozialistische Elemente haben sich erhoben, um sowohl die Regierung als auch die Monarchie des Landes zu stürzen. Während die niederländische Königin und ihre Familie in Sicherheit sind und aus dem Land fliehen konnten, werden die Nachrichten immer schlimmer. Die Radikalen, die die Kontrolle über das Land übernommen haben, haben sich der revolutionären Sache verschrieben und jeden Gedanken an Neutralität aufgegeben.\n\nEs überrascht nicht, dass diese Nachricht die Auflösung des [ROOT.GetFactionName]-Bündnisses zur Folge hatte und die Nation zwischen feindlichen Mächten ohne Verbündete, an die sie sich wenden könnte, gefangen hielt. Mit der Angst vor einer möglichen Invasion und dem Schrecken einer möglichen Teilung von [BEL.GetName], die folgen könnte, hat ein Großteil der Regierung langsam begonnen zu akzeptieren, dass die einzige echte Option, die auf dem Tisch liegt, eine Rückkehr in die deutsche Sphäre ist. Auch wenn [BEL.GetName] im Vergleich zu früher zumindest gleichberechtigter mit den Deutschen sein wird, ist der Gedanke, sich ihnen wieder anzuschließen, sicherlich einer, den sich nur wenige gewünscht haben."
+ belind.30.a: "Wir müssen unseren Stolz überwinden und Deutschland um Schutz bitten."
+ belind.30.b: "Der belgische Löwe wird allein stehen, zum Teufel mit den Deutschen."
+
+ belind.31.t: "Zusammenbruch von BeNeSam"
+ belind.31.desc: "Das niederländische Volk ist von einer schweren Katastrophe heimgesucht worden: Sozialistische Elemente haben sich erhoben, um sowohl die Regierung als auch die Monarchie des Landes zu stürzen. Während die niederländische Königin und ihre Familie in Sicherheit sind und aus dem Land fliehen konnten, werden die Nachrichten immer schlimmer. Die Radikalen, die die Kontrolle über das Land übernommen haben, haben sich der revolutionären Sache verschrieben und jeden Gedanken an Neutralität aufgegeben.\n\nEs überrascht nicht, dass diese Nachricht die Auflösung des Bündnisses [ROOT.GetFactionName] zur Folge hatte und [BEL.GetName] zwischen feindlichen Mächten ohne Verbündete, an die es sich wenden könnte, gefangen hielt. Angesichts der Furcht vor einer möglichen Invasion und dem Schrecken einer möglichen Teilung von [BEL.GetName] wird erwartet, dass [BEL.GetName] Schutz von außen sucht, koste es, was es wolle."
+ belind.31.a: "Dies ist nicht gut."
+
+ belind.32.t: "[FROM.GetNameDef] Fordert Schutz"
+ belind.32.desc: "Die niederländische Revolution hat nicht nur die metaphorischen Brücken des Landes niedergebrannt, sondern auch den Kooperationsvertrag der Nation mit [BEL.GetName]. Die [BEL.GetName]s, die sich nach dem Bruch mit dem Reichspakt zusammengeschlossen hatten, um die Neutralität zu wahren, haben anscheinend wieder einmal gelernt, dass die Neutralität nicht funktioniert.\n\nUm zu verhindern, dass sie von ihren sozialistischen Nachbarn auseinandergerissen werden, haben sie Delegierte nach [GER.Capital.GetCapitalVictoryPointName] entsandt, um hoffentlich über den Beitritt von [BEL.GetName] zum Reichspakt als unabhängiges Mitglied zu verhandeln. Ihr Wiedereintritt würde es natürlich ermöglichen, wieder Truppen in ihrer Nation zu stationieren und einen bedeutenden strategischen Vorteil gegen die Internationale zu erlangen, aber ihre frühere antideutsche Haltung hat viele dazu veranlasst, sie einfach ihrem Schicksal überlassen zu wollen.\n\nWenn ihr Angebot jedoch abgelehnt wird, ist es unmöglich zu wissen, zu welchen Maßnahmen ihre Verzweiflung sie führen wird. Da sie keine anderen Optionen mehr haben, könnten sie sogar das Undenkbare tun und stattdessen eine Angleichung an [INT.Capital.GetCapitalVictoryPointName] suchen. Es ist daher von entscheidender Bedeutung, dass die möglichen Konsequenzen durchdacht werden, bevor eine Entscheidung in dieser Angelegenheit getroffen wird."
+ belind.32.a: "Der verlorene Sohn kehrt zurück, nicht wahr?"
+ belind.32.b: "Sie haben ihre Entscheidung getroffen - jetzt können sie damit leben."
+
+ belind.33.t: "[ROOT.GetNameDefCap] Verbindet sich erneut mit [FROM.GetFactionName]"
+ belind.33.desc: "Von den Vertretern, die nach [GER.Capital.GetCapitalVictoryPointName] geschickt wurden, sind wunderbare Nachrichten eingegangen: Die Deutschen haben zugestimmt, [BEL.GetAdjective] wieder in den Reichspakt aufzunehmen. Mit dem vollen Schutz der deutschen Armeen gegen die sozialistische Bedrohung können die Menschen der Nation wieder ruhig schlafen."
+ belind.33.a: "Wer hätte gedacht, dass die unter einem Stiefel so sicher sein kann?"
+
+ belind.34.t: "[FROM.GetNameDefCap] Verweigert den Schutz"
+ belind.34.desc: "Es scheint, dass das Team von Vertretern, das nach [GER.Capital.GetCapitalVictoryPointName] geschickt wurde, mit leeren Händen nach Hause zurückgekehrt ist. Scheinbar als Strafe für die früheren Vergehen gegen sie, haben die Deutschen beschlossen, [BEL.GetName] seinem Schicksal zu überlassen.\n\nEs mag zwar undenkbar erscheinen, aber der Gedanke, auf [INT.Capital.GetCapitalVictoryPointName] zuzugehen und über Schutz zu verhandeln, hat in den letzten Tagen langsam immer mehr Unterstützung gefunden. Dies würde mit ziemlicher Sicherheit die Einsetzung einer Regierung bedeuten, die mit den Interessen von [INT.GetAdjective] übereinstimmt, aber in wirklich verzweifelten Zeiten wie diesen könnte alles, was das Überleben der Nation sichert, den Preis wert sein."
+ belind.34.a: "Wir haben keine Wahl - Verhandlungen mit [INT.Capital.GetCapitalVictoryPointName] aufnehmen."
+ belind.34.b: "We will protect ourselves - on our own, if we must."
+
+ belind.35.t: "[FROM.GetNameDefCap] Beantragt [ROOT.GetFactionName] Mitgliedschaft"
+ belind.35.desc: "Diplomatie ist zwar selten einfach, aber die heutige Anfrage von [BEL.GetNameDef] ist besonders ungewöhnlich. Nachdem der fantastische Erfolg der niederländischen Revolution zur diplomatischen Isolierung von [BEL.GetName] geführt hatte, versuchte das Land zunächst, sich bei [GER.GetAdjective] einzuschmeicheln, in der Hoffnung auf Schutz vor der unvermeidlichen Flut des Sozialismus. Aus welchen Gründen auch immer, mit ziemlicher Sicherheit aus Bosheit, weigerten sich die Deutschen, [BEL.GetAdjective] den Wiedereintritt in den Reichspakt zu gestatten und überließen sie stattdessen ihrem Schicksal.\n\nDie verzweifelten [BEL.GetAdjective]s können sich an nichts anderes mehr wenden und haben sogar den Beitritt zur [ROOT.GetFactionName] beantragt, in der Hoffnung, ihre Unabhängigkeit zu bewahren. Es liegt auf der Hand, dass eine [BEL.GetAdjective]-Mitgliedschaft die Absetzung der bestehenden Regierung und die Einsetzung einer Regierung erfordert, die dem Volk wirklich dient, was ihnen mit Sicherheit bewusst ist. Ob die [BEL.GetAdjective]s das Privileg verdienen, der [ROOT.GetFactionName] beizutreten, ist jedoch eine Frage, die bedacht werden muss, und es muss eine Entscheidung darüber getroffen werden, wie auf diese Anfrage zu antworten ist."
+ belind.35.a: "Gerne, aber sie müssen eine syndikalistische Regierung einsetzen."
+ belind.35.b: "Auf keinen Fall."
+
+ belind.36.t: "Die [FROM.GetFactionName] präsentiert die Mitgliedsbedingungen"
+ belind.36.desc: "Im Gegensatz zu den gescheiterten Verhandlungen mit [GER.Capital.GetCapitalVictoryPointName] gibt es gute Nachrichten von den Verhandlungen mit [INT.Capital.GetCapitalVictoryPointName], und sie haben der Mitgliedschaft von [BEL.GetAdjective] in der [FROM.GetFactionName] zugestimmt. Leider wurde diese gute Nachricht, wie befürchtet, von der Forderung nach der Einsetzung einer sozialistischen Regierung begleitet, die den Interessen von [INT.GetAdjective] entspricht. Obwohl dies immer das wahrscheinlichste Ergebnis war, ist es nun endlich an der Zeit, sich der schwierigen Entscheidung zu stellen, ob dies akzeptiert werden soll."
+ belind.36.a: "Wenn es sein muss..."
+ belind.36.b: "Auf keinen Fall!"
+
+ belind.37.t: "[FROM.GetNameDefCap] Verweigert Bedingungen"
+ belind.37.desc: "Die [BEL.GetAdjective]s haben eine Antwort erhalten, ein schallendes \"Nein\" bezüglich der Einsetzung einer sozialistischen Regierung. Obwohl sie mit Sicherheit wussten, dass diese Forderungen gestellt werden würden, bevor sie ihr ursprüngliches Angebot übermittelten, waren sie offenbar nicht in der Lage, der Realität ins Auge zu sehen, als sie schließlich damit konfrontiert wurden."
+ belind.37.a: "Für Reaktionäre kaum eine Überraschung."
+
+ belind.38.t: "[FROM.GetNameDefCap] Verweigert Schutz"
+ belind.38.desc: "Es scheint, dass wie bei [GER.Capital.GetCapitalVictoryPointName] auch die Versuche, mit [INT.Capital.GetCapitalVictoryPointName] zu verhandeln, völlig gescheitert sind. Selbst mit dem potenziellen Versprechen der Einsetzung einer sozialistischen Regierung lässt sich [INT.GetAdjective] anscheinend nicht umstimmen. [BEL.GetName] muss sich der Welt allein stellen, auch wenn es vielleicht nicht mehr lange mit ihr zu tun hat."
+ belind.38.a: "Mag uns denn niemand auf diesem Kontinent!?"
 
 ### Flags ###
 Small_Vlaamse_Wacht: "Hat die Rechte der Flämischen Wache nicht wiederhergestellt"

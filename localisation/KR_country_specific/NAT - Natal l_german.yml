@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 ### Country Names ###
 SAF_natal: "Natal"
@@ -443,3 +443,7 @@ natal.61.a: "Sag es mit mir, Bure, Gott schütze den König!"
 natal.62.t: "[From.GetNameDefCap] lehnt uns wieder einmal ab!"
 natal.62.d: "Unglaublich! Erst hat uns [From.GetAdjective] im Kampf gegen die Buren im Stich gelassen. Trotz mangelnder Verstärkung in einem zuvor aussichtslos erscheinenden Kampf konnten wir uns in unserer Loyalität zum Empire durchsetzen, von dem wir erwarteten, dass es sich uns nach unserem Sieg sofort wieder anschließen würde. Leider ist das nicht der Fall, denn aus welchen Gründen auch immer, wollen sie uns einfach nicht haben. Wir waren nichts als loyal, und das ist unser Dank?!"
 natal.62.a: "Vielleicht sollten wir uns Amerika anschließen!"
+
+natal.63.t: "Die Föderation wiederbelebt"
+natal.63.d: "Ereignis für einen Frieden in Natal nach dem Burenkrieg - jemand anderes hat die Buren besiegt und ihnen die Kontrolle über das restliche Südafrika übertragen, so dass Natal sich zur Föderation formiert."
+natal.63.a: "Der Sieg, dem Rachen der Niederlage entrissen."

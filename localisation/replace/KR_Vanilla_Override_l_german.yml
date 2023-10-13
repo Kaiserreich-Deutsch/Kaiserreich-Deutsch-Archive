@@ -161,6 +161,9 @@ werwolf_guerillas_desc: "Geplante Widerstandsgruppen sind unsere letzte Hoffnung
  improved_submarine: "$submarine_3$"
  advanced_submarine: "$submarine_4$"
 
+ #in Vanille nicht übereinstimmend
+ special_forces: "Spezialeinheiten"
+
 ### rules_l_english
 CAN_JOIN_FACTIONS: "Kann nicht in Fraktionen eintreten"
 
@@ -183,6 +186,22 @@ wasteland: "Einöde"
  minor_port: "Kleiner Hafen"
 one_island: "Überseeterritorium"
 zero_island: "Abgelegene Insel(n)"
+
+### military_industrial_organization_l_english
+ generic_tank_organization: "Allgemeiner Panzerhersteller"
+ generic_mio_initial_trait_standardized_production: "Allgemeiner Panzer Konstrukteur"
+ generic_mio_initial_trait_infantry_tanks_designer: "Infanterie Panzer Konstrukteur"
+ generic_mio_initial_trait_fast_tanks_designer: "Schneller Panzer Konstrukteur"
+
+ generic_mio_initial_trait_task_force_ship_builders: "Träger Einsatzgruppe"
+ generic_mio_initial_trait_battle_line_ship_builders: "Schwere Geschütze Flotte"
+ generic_mio_initial_trait_submarine_designer: "U-Boot Flotte"
+ generic_small_fleet_organization: "Grün-Wasser Marine Hersteller"
+ generic_mio_initial_trait_small_fleet_designer: "Grün-Wasser Marine"
+ generic_refurbishment_repair_organization: "Instandsetzung und Reparatur Werft"
+
+ generic_cas_aircraft_organization: "Leichte Bomber Hersteller"
+ generic_mio_initial_trait_cas_aircraft_designer: "Leichte Bomber Konstrukteur"
 
 ######################################################################
 ### Part Two - Nur geringfügige Änderungen im Vergleich zu Vanilla ###

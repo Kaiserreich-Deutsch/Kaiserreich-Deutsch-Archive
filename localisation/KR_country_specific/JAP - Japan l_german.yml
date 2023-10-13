@@ -169,7 +169,7 @@
 ### Companies ###
  Nippon_Electric_Company: "Nippon Electric Company"
  Ishikawajima_Heavy_Industries: "Ishikawajima Heavy Industries"
- Mitsui_Zaibatsu: "Mitsui"
+ mitsui_zaibatsu: "Mitsui"
  Furukawa_Siemens: "Furukawa Siemens"
  Nihon_Musen: "Nihon Musen"
  Nippon_Oil: "Nippon Oil"
@@ -184,7 +184,6 @@
  toyota: "Toyota"
  hitachi: "Hitachi"
  nissan: "Nissan"
- tokyo_gas: "Tokyo Gas & Electrik"
  mitsubishi: "Mitsubishi"
  kyushu_hikoki: "Kyushu Hikoki"
  aichi: "Aichi"
@@ -202,43 +201,35 @@
  JAP_sino_japanese_war_threat: "Zweiter Chinesisch-Japanischer Krieg"
  JAP_claim_colonies_threat: "Japans Ansprüche auf Deutsch-Ostasien"
 
+### Global Flags ###
+ JAP_defeated_by_china: "Japan hat sich aus China zurückgezogen"
+
 ### Ideen ###
  JAP_narrow_rail: "Schmalspur-Eisenbahnen"
  JAP_narrow_rail_desc: "Japans Eisenbahnen wurden mit einer ungewöhnlich schmalen Spurweite gebaut, die während der Meiji-Ära vom britischen Empire übernommen wurde. Sie erleichtert zwar den Bau in Japans gebirgigem Terrain, doch die Geschwindigkeitsbegrenzung hat sich negativ auf unsere Industrie ausgewirkt. Experten streiten darüber, ob eine Umstellung die Zeit der Regierung wert ist."
  JAP_NSA_idea: "Nationales Sicherheitsgesetz"
  JAP_great_drought: "Die große Dürre"
-
+ JAP_change_rail: "Änderung der Schienenspur"
+ JAP_bad_land: "Zügellose Landpacht"
+ JAP_bad_land_desc: "Die Landnutzung in Japan ist äußerst ineffizient. Ein großer Teil des Ackerlandes ist im Besitz von Grundbesitzern, die es zu exorbitanten Preisen an Pächter verpachten. Dies führt zu einem stagnierenden Sozialsystem, das sowohl zur politischen Polarisierung des ländlichen Raums als auch zur massenhaften Abwanderung von Pachtbauern in die Städte auf der Suche nach besseren Verhältnissen beigetragen hat."
+ 
+ # Militärischer Zentralismus Ideen
  JAP_nationalist_education: "Nationalist Education"
  JAP_mass_propaganda: "Massenpropaganda-Aktion"
- JAP_will_grant_1: "§gWenn wir einen Kompromiss mit der Abgeordnetenversammlung eingehen, werden wir gewinnen:§!"
- JAP_will_grant_2: "§gUnd wenn wir unsere Pläne energisch durchsetzen, werden wir gewinnen:§!"
- JAP_merge_small_ministries_1: "Verringerung der Kosten von §YInvestitionsförderung§! Entscheidungen um £GFX_pol_power 35 und Verringerung der und Senkung der Abwicklungszeit von §YLand Reform§! Entscheidungen um 25."
- JAP_merge_small_ministries_2: "Senkung der Kosten von §YInvestitionsförderung§! Entscheidungen um £GFX_pol_power 50 und Senkung der Abwicklungszeit von §YLand Reform§! Entscheidungen um 50."
  JAP_new_policy_organ_1: "Neues Haushalts- und Forschungsorgan"
  JAP_new_industrial_policy: "Neue Industriepolitik"
  JAP_japanese_investments: "Japanische Investitionen"
  JAP_aerial_reorganisation: "Reorganisation des Luftraumes"
  JAP_zaibatsu_contracts: "Zaibatsu Verträge"
  JAP_railway_nationalisation: "Verstaatlichung der Eisenbahn"
- JAP_national_defence_state_1: "Der Nationale Verteidigungszustand"
- JAP_national_defence_state_tt: "§gDie Auswirkungen des nationalen Geistes werden davon abhängen, inwieweit wir zuvor Kompromisse eingegangen sind oder unsere Pläne durchgesetzt haben.§!"
- JAP_national_defence_state_compromise_tt: "§gWenn wir einen Kompromiss mit der Abgeordnetenversammlung eingehen, werden wir gewinnen:§!"
- JAP_national_defence_state_force_tt: "§gWenn wir unsere Pläne durchsetzen, werden wir gewinnen:§!"
- JAP_national_defence_state_idea_merge_tt: "§GDie bisherigen Nationalgeiste werden zu einem einzigen zusammengeführt.§!"
- JAP_Curtail_Zaibatsu_tt: "Wir werden die Möglichkeit haben, entweder unsere Konstruktionsgeschwindigkeit zu steigern, aber auch unsere Konstruktionskosten zu erhöhen, oder wir gewinnen einfach Fabriken!"
- JAP_ennoble_the_national_spirit_tt_1: "§gNach Abschluss von §Y$JAP_continue_zaibatsu_ties$§!§!:"
- JAP_ennoble_the_national_spirit_tt_2: "§gNach Abschluss von §Y$JAP_curtail_the_zaibatsu$§!:§!"
- JAP_divert_workers_towards_production_unlock_tt: "Nach Abschluss des Schwerpunkt §Y$JAP_national_mobilisation_law$§!:"
- JAP_divert_workers_towards_production_cost_tt: "£pol_power §Y40§! £manpower_texticon §H75000§!"
- JAP_divert_workers_towards_production_cost_tt_blocked: "£pol_power §R40§! £manpower_texticon §R75000§!"
-
+ JAP_national_defence_state: "Der Nationale Verteidigungszustand"
+ 
+ # Showa Restaurations Ideen
  JAP_state_controlled_banking: "Staatlich kontrolliertes Bankwesen und Landwirtschaft"
  JAP_independent_nation: "Eine Unabhängige Nation"
  JAP_cooperative_elites: "Kooperative Eliten"
  JAP_unbroken_zaibatsu_ties: "Ungebrochene Zaibatsu-Bindungen"
  JAP_a_new_way: "Ein Neuer Weg"
- JAP_a_new_way_tt: "Wenn §YSynthetische Ölexperimente§! erforscht wurde, werden zwei Raffinerien in Japan gebaut."
- JAP_destroy_degenerative_individualism_tt: "Die Annahme dieses Schwerpunkts wird die anderen Fraktionen in unserer Regierung vorübergehend §Ggefällig§! machen, so dass wir einen Reformschwerpunkt verabschieden können, ohne Stabilitätseinbußen in Kauf nehmen zu müssen."
  JAP_shison_danran_idea: "Shison Danran"
  JAP_curtailed_Zaibatsu: "Eingeschränkte Zaibatsu"
  JAP_the_showa_restoration_idea_1: "Die Shōwa Restauration"
@@ -248,6 +239,7 @@
  JAP_the_great_struggle: "Der Große Kampf"
  JAP_divert_workers_towards_production: "Arbeiter in die Produktion umleiten"
 
+ # Demokratische Ideen
  JAP_eastern_democracy: "Östliche Demokratie"
  JAP_unstable_democracy_idea: "Weitverbreitete Instabilität"
  JAP_unstable_democracy_2: "Anhaltende Instabilität"
@@ -261,137 +253,52 @@
  JAP_japan_for_the_masses: "Japan für die Massen"
  JAP_state_controlled_economy: "Staatlich gelenkte Wirtschaft"
 
- JAP_showa_restoration_mechanic_tt: "Obwohl sich die Restaurationisten zum §RTaisei Yokusankai§! zusammengeschlossen haben, sind sie noch lange nicht geeint. Konoe muss zwischen den Forderungen der Fraktionen §YKōdōha§!, §YSeidō§! und §YDōjinkai§! hin und her manövrieren.\n\nWenn wir §Yeine Fraktion bevorzugen, indem wir mehrere ihrer Schwerpunkte nacheinander einnehmen§!, werden wir §Spezifische Boni erhalten§!, die auf diese Fraktion zugeschnitten sind, aber zunehmend §Stabilität verlieren§!.\n\nIm Gegensatz dazu führt eine §YAusgleichung der Reihenfolge, in der man den Shōwa-Restaurationsbaum§! vervollständigt, zu einer §Gstabileren Koalition§!, auch wenn wir dabei §Robengenannte Boni verlieren§! können.\n\nDiese Boni erhalten Sie, wenn Sie Prioritäten setzen:\n£white_dot Die §YDōjinkai§!, links, ergibt §YZivile Fabriken§!.\n£white_dot Die §YSeidō§!, in der Mitte, gibt §YPolitische Mach.\n£white_dot Die §YKōdōha§!, rechts, gibt §YKriegsunterstützung§!"
- JAP_dojinkai_bonuses_tt: "Die §YDōjinkai§! behauptet ihre Dominanz. Das wird das Gleichgewicht in unserer Koalition stören."
- JAP_seido_bonuses_tt: "Die §YSeidō§! behauptet ihre Dominanz. Das wird das Gleichgewicht in unserer Koalition stören."
- JAP_kodoha_bonuses_tt: "Die §YKōdōha§! behauptet ihre Dominanz. Das wird das Gleichgewicht in unserer Koalition stören."
-
- JAP_change_rail: "Änderung der Schienenspur"
-
- JAP_bad_land: "Zügellose Landpacht"
- JAP_bad_land_desc: "Die Landnutzung in Japan ist äußerst ineffizient. Ein großer Teil des Ackerlandes ist im Besitz von Grundbesitzern, die es zu exorbitanten Preisen an Pächter verpachten. Dies führt zu einem stagnierenden Sozialsystem, das sowohl zur politischen Polarisierung des ländlichen Raums als auch zur massenhaften Abwanderung von Pachtbauern in die Städte auf der Suche nach besseren Verhältnissen beigetragen hat."
-
- JAP_rising_sun_idea: "Kaiserlicher Ruhm"
- JAP_rising_sun_idea_desc: "Japan hat nicht immer den Respekt erhalten, der ihm gebührt. In den letzten 30 Jahren hat sich zwar einiges geändert, aber vieles ist gleich geblieben. Vor diesem Hintergrund vertrauen wir darauf, dass jeder Bürger seine patriotische Pflicht erfüllen wird; niemand wird uns aufhalten.\n\nWir sind die mächtigste Nation in Asien, und die Früchte des Krieges sollten uns gehören und nur uns."
+ # China Ideen
  JAP_fengtian_bailout: "Fengtian Rettung"
  JAP_fengtian_bailout_desc: "Wir helfen der Fengian Regierung aus der Patsche, indem wir genügend Silber kaufen, um ihre Reserven aufzufüllen."
  JAP_MANTETSU_COLLAPSE: "Mantetsu Zusammenbruch"
  JAP_MANTETSU_COLLAPSE_desc: "Da die beträchtlichen Gewinne von Mantetsu eine wichtige Triebkraft der japanischen Wirtschaft sind und fast ein Viertel der jährlichen Einnahmen der Regierung ausmachen, hat die Beschlagnahmung und Zerstörung der Mantetsu-Betriebe in China das Land erschüttert."
-
  JAP_ANQ_Reconstruction_Plan: "Wiederaufbauplan für Anqing"
  JAP_ANQ_Reconstruction_Plan_desc: "Damit sich Anqing schnell erholen kann, um Fengtian von Nutzen zu sein, schicken wir umfangreiche Hilfe dorthin."
-
  JAP_china_training: "Japanisches Ausbildungsprogramm"
  JAP_china_training_desc: "Um die Armeen ihrer Verbündeten auf Vordermann zu bringen, haben die Japaner Offiziere zur Ausbildung neuer Soldaten zur Verfügung gestellt."
  JAP_china_attack_support: "Japanische Offensivunterstützung"
  JAP_chinese_separatist_support: "Japanische Unabhängigkeit - Unterstützung"
-
  JAP_sabotage_1: "Japanische Sabotage-Kampagne"
 
- JAP_jpel_influence_idea: "Abwanderung zur JPEL"
- JAP_jpel_influence_idea_desc: "Die Japanische Volksemanzipationsliga (JPEL) besteht aus japanischen Soldaten, die beschlossen haben, sich der Kuomintang zu ergeben, und aus Flüchtlingen, die aus unserem Land fliehen. Die JPEL steht allen offen und vereint viele verärgerte Bürger unseres Landes mit dem Versprechen eines neuen Aufbruchs in Japan, der das Ende des Militarismus einläuten wird. Die Übertritte zur JPEL haben unsere Moral und Entschlossenheit gebrochen."
-
- JAP_asian_economic_sphere: "Asiatische Ko-Wohlstandssphäre"
- JAP_asian_economic_sphere_desc: "Dies entspricht dem Gesamtimpuls, den unsere zentrale Stellung innerhalb der Ko-Wohlstandssphäre für unsere Wirtschaft bedeutet. Je mehr Mitglieder wir aufnehmen und je größer deren Industrie ist, desto besser geht es uns."
-
- JAP_asian_economic_sphere_member: "Asiatische Ko-Wohlstandssphäre"
- JAP_asian_economic_sphere_member_desc: "Dies entspricht dem Gesamtimpuls, den unsere Mitgliedschaft in der Asiatischen Ko-Wohlstandssphäre Japans für unsere Wirtschaft bedeutet. Je mehr Mitglieder in der Sphäre sind und je größer ihre kollektive Industrie ist, desto besser geht es uns allen."
-
- JAP_member_integration_1: "Wirtschaftliche Durchdringung: Niedrig"
- JAP_member_integration_1_desc: "Die japanischen Investitionen in unserem Land sind eine gewaltige Kraft, die dazu beiträgt, unser Wirtschaftswachstum anzukurbeln ... aber je mehr sich ihr Einfluss ausbreitet, desto mehr werden wir den Bedürfnissen ihrer ständig wachsenden Wirtschaft unterworfen."
-
- JAP_member_integration_2: "Wirtschaftliche Durchdringung: Mäßig"
- JAP_member_integration_2_desc: "Die japanischen Investitionen in unserem Land sind eine gewaltige Kraft, die dazu beiträgt, unser Wirtschaftswachstum anzukurbeln ... aber je mehr sich ihr Einfluss ausbreitet, desto mehr werden wir den Bedürfnissen ihrer ständig wachsenden Wirtschaft unterworfen."
-
- JAP_member_integration_3: "Wirtschaftliche Durchdringung: Hoch"
- JAP_member_integration_3_desc: "Die japanischen Investitionen in unserem Land sind eine gewaltige Kraft, die dazu beiträgt, unser Wirtschaftswachstum anzukurbeln ... aber je mehr sich ihr Einfluss ausbreitet, desto mehr werden wir den Bedürfnissen ihrer ständig wachsenden Wirtschaft unterworfen."
-
- ### Puppet Ideas - Suzuha ####
- 	JAP_shattered_people_idea: "Zerrüttete Menschen"
- 	JAP_shattered_people_idea_desc: "Seit Jahrhunderten hat das japanische Volk seinem Kaiser unerschütterliche Unterstützung und Vertrauen entgegengebracht. Das Land Japan war nie zuvor untergegangen, aber all diese Überzeugungen sind in einer Kaskade zerbrochener Träume und des Vertrauens zerbrochen, da die japanischen Heimatinseln nun zum ersten Mal vollständig besetzt sind, und das von einer sozialistischen Nation. Es wird großer Anstrengungen bedürfen, um das Vertrauen des japanischen Volkes wiederherzustellen und die Gefühle von Defätismus und Pessimismus zu bekämpfen."
-
-  JAP_shattered_people_idea2: "Zerrüttete Menschen"
-  JAP_shattered_people_idea2_desc: "$JAP_shattered_people_idea_desc$"
-
-  JAP_shattered_people_idea3: "Zerrüttete Menschen"
-  JAP_shattered_people_idea3_desc: "$JAP_shattered_people_idea_desc$"
-
-  JAP_shattered_people_idea4: "Zerrüttete Menschen"
-  JAP_shattered_people_idea4_desc: "$JAP_shattered_people_idea_desc$"
- 	JAP_sister_republic_idea: "Schwester Republik"
- 	JAP_sister_republic_idea_desc: "Trotz des Terrors, den die Japaner über das chinesische Volk gebracht haben, haben die Jahre der Vormundschaft durch die Chinesen die Japaner inspiriert, ihre eigene Form der nationalen Revolution zu verwirklichen. Indem sie den Drei Grundsätzen des Volkes folgen, werden auch sie zu Kameraden im großen panasiatischen Kampf gegen den Imperialismus. Nach dem Chaos und der Demütigung der Niederlage befindet sich Japan nun auf dem Weg zu einem neuen Schicksal - einem Schicksal, das sich vom Imperialismus lossagt und die Solidarität mit seinen sozialistischen Schwestern und Brüdern sucht."
- JAP_communist_republic_of_japan_idea: "Kommunistische Republik Japan"
- JAP_communist_republic_of_japan_idea_desc: "Allen Widrigkeiten zum Trotz haben die Kommunisten in Japan eine echte Volksrepublik geschaffen - eine Volksregierung, die den Arbeitern und Bauern Japans verpflichtet ist. Sie werden nicht länger durch die feudalen Ketten des Kaisers und seines Hofes gefesselt sein, noch sind sie gezwungen, den Launen der kapitalistischen Militaristen zu dienen. Eine neue Morgendämmerung und eine neue Sonne gehen über Asien auf, denn das Volk hat sich wirklich erhoben!"
-
- JAP_the_revolution_successful_idea: "Die Revolution: Erfolgreich"
- JAP_the_revolution_successful_idea_desc: "Gegen alle Widerstände haben die Sozialisten und Sozialdemokraten zusammengearbeitet und eine Einheitsfront gebildet, die sich dem wahren Proletariat Japans verschrieben hat. Jetzt werden wir unser Bestes tun, um sicherzustellen, dass die Revolution erfolgreich bleibt und die Rote Fahne nicht aufhört zu wehen! Gedenkt der Märtyrer von 1911 und derer, die vor uns kamen, Genossen, lang lebe der japanische Sozialismus!"
-
- JAP_devastated_national_economy_idea: "Zerstörte Volkswirtschaft"
- JAP_devastated_national_economy_idea_desc: "Japans beispiellose Niederlage und totale Kapitulation vor einem ausländischen Besatzer hat zum Zusammenbruch der gesamten japanischen Wirtschaft geführt. Trotz des wirtschaftlichen Chaos, das auf den Fall von Mantetsu folgte, gibt es in der japanischen Geschichte keine größere wirtschaftliche Katastrophe als die vollständige Besetzung und die Aussetzung aller wirtschaftlichen Aktivitäten. Die Wirtschaft des Landes taumelt und stöhnt unter der Last der Schulden und der fehlenden Investitionen, und es wird lange dauern, bis sich die japanische Wirtschaft vollständig erholt hat."
-
- JAP_devastated_national_economy_idea2: "Zerstörte Volkswirtschaft"
- JAP_devastated_national_economy_idea2_desc: "$JAP_devastated_national_economy_idea_desc$"
-
- JAP_devastated_national_economy_idea3: "Zerstörte Volkswirtschaft"
- JAP_devastated_national_economy_idea3_desc: "$JAP_devastated_national_economy_idea_desc$"
-
- JAP_rising_new_economy_idea: "Wiederauflebende Neue Wirtschaft"
-
- JAP_disarmed_nation_idea: "Entwaffnete Nation"
- JAP_disarmed_nation_idea_desc: "Als Strafe für die imperialistischen Kriege, die Japan in ganz Asien geführt hat, hat der neue ausländische Besatzer die Auflösung der gesamten Armee, der Marine und der Luftstreitkräfte des Kaiserreichs Japan angeordnet. Erst wenn das Vertrauen Japans in den Augen seines Oberherrn wiederhergestellt ist, hat das Land vorerst keine Zukunft mehr mit Streitkräften."
-
- JAP_chinese_construction_crews_idea: "Chinesisch-Japanisches Bauprojekt"
- JAP_chinese_construction_crews_idea_desc: "Aufgrund der verheerenden Auswirkungen des Krieges haben sich die Chinesen bereit erklärt, uns zu helfen, indem sie Tausende von chinesischen Arbeitern zum Wiederaufbau der japanischen Zivil- und sogar der Militärindustrie entsenden. Ziel ist es, die japanische Industrie nicht um des Krieges willen wieder aufzubauen, sondern um die Lebensqualität in Japan vor dem Krieg wiederherzustellen."
-
- JAP_five_year_plan_idea: "Fünfjahrplan"
-
- JAP_war_reparations_chi_overlord_idea: "Kriegsreparationsverordnung"
- JAP_war_reparations_chi_overlord_idea_desc: "Als Teil des Schmerzes und des Leids, das die Japaner über das chinesische Volk gebracht haben, hat die japanische Regierung demütigenden Bedingungen der Rückzahlung und Entschädigung in Form von Kriegsreparationen für einen bestimmten Zeitraum zugestimmt."
- JAP_war_reparations_overlord_idea: "Kriegsreparationen"
-
- JAP_sino_japanese_study_programme_idea: "Gemeinsames Chinesisch-Japanisches Studienprogramm"
-
- JAP_chi_sino_japanese_study_programme_idea: "Gemeinsames Chinesisch-Japanisches Studienprogramm"
-
- JAP_revolutionary_education_programme_idea: "Revolutionäres Japanisches Bildungsprogramm in Übersee"
- JAP_maritime_sdf_idea_1: "Küstenschutztruppe"
- JAP_maritime_sdf_idea_4: "Maritime Selbstverteidigungskräfte"
-
- JAP_create_the_national_police_reserve_tt: "§rDurch diese Schwerpunktsetzung werden alle verfügbaren Polizeieinheiten zur Selbstverteidigung mobilisiert.§!"
-
- JAP_self_defense_corps_idea_1: "Neue Offiziere"
- JAP_self_defense_corps_idea_2: "Selbstverteidigungskorps"
-
- JAP_modern_air_force_11: "Luftselbstverteidigungskorps"
-
- JAP_overlord_military_excercise_idea: "Übungen im Pazifik"
- JAP_overlord_military_excercise_idea_desc: "Nach gemeinsamen Übungen mit [JAP.GetName] hat unser Militär umfangreiche Kenntnisse über amphibische Invasionen und deren Planung erworben."
-
- JAP_subversive_activities_prevention_law_idea: "Gesetz zur Verhinderung subversiver Aktivitäten"
-
- ### Foreign Policy ###
- JAP_india_support: "Japanische Berater"
- JAP_trade_embargoed: "Japanisches Embargo"
-
-### Global Flags ###
- JAP_defeated_by_china: "Japan hat sich aus China zurückgezogen"
-
-### Country Flags ###
-
-### army
-
-### navy
- JAP_nav_tra_idea: "Wohlfahrtsschiffe"
-
- JAP_Imperial_Family_dead: "Kaiserfamilie hingerichtet"
- JAP_Imperial_Family_dead_desc: "Mit der Hinrichtung der kaiserlichen Familie haben wir die Nation vollständig vom kaiserlichen Einfluss und der Vergangenheit befreit. Wie erwartet, war das japanische Volk mit dieser Entscheidung absolut nicht einverstanden. Zu ihrem Leidwesen musste es aber so kommen."
+### Marionette Ideen - Suzuha ###
  JAP_Imperial_Family_exiled: "Kaiserfamilie im Exil"
  JAP_Imperial_Family_exiled_desc: "Der Kaiser und seine Familie wurden ins Exil geschickt und sollten auf den Heimatinseln nie wieder gesehen werden. Obwohl die wütenden Stimmen der Bevölkerung auf den Straßen zu hören waren, kam es nicht zu größeren Gewaltausbrüchen. Unser nationales Prestige und die Fähigkeiten der Armee litten jedoch spürbar."
  JAP_Imperial_Family_powerless: "Abschaffung der Kaiserfamilie"
  JAP_Imperial_Family_powerless_desc: "Der Kongress hat beschlossen, die kaiserlichen Titel der Familie Yamato abzuschaffen. Der Kaiser und seine Familie besitzen nun den Status eines Bürgers wie wir alle. Dieser Schritt hat einen großen Teil unserer Bevölkerung davon überzeugt, den Sozialismus und das neue Regime zu unterstützen."
  JAP_country_unrest: "Landesweite Unruhen"
  JAP_country_unrest_desc: "Die Abschaffung der Monarchie hat Teile der japanischen Gesellschaft empört: Einige Städte sind ins Chaos gestürzt, und das Militär weigert sich, das neue Regime zu akzeptieren. Hoffentlich wird die Zeit alle Wunden heilen."
+ 	JAP_shattered_people_idea: "Zerrüttete Menschen"
+ 	JAP_shattered_people_idea_desc: "Seit Jahrhunderten hat das japanische Volk seinem Kaiser unerschütterliche Unterstützung und Vertrauen entgegengebracht. Das Land Japan war nie zuvor untergegangen, aber all diese Überzeugungen sind in einer Kaskade zerbrochener Träume und des Vertrauens zerbrochen, da die japanischen Heimatinseln nun zum ersten Mal vollständig besetzt sind, und das von einer sozialistischen Nation. Es wird großer Anstrengungen bedürfen, um das Vertrauen des japanischen Volkes wiederherzustellen und die Gefühle von Defätismus und Pessimismus zu bekämpfen."
+ JAP_devastated_national_economy_idea: "Zerstörte Volkswirtschaft"
+ JAP_devastated_national_economy_idea_desc: "Japans beispiellose Niederlage und totale Kapitulation vor einem ausländischen Besatzer hat zum Zusammenbruch der gesamten japanischen Wirtschaft geführt. Trotz des wirtschaftlichen Chaos, das auf den Fall von Mantetsu folgte, gibt es in der japanischen Geschichte keine größere wirtschaftliche Katastrophe als die vollständige Besetzung und die Aussetzung aller wirtschaftlichen Aktivitäten. Die Wirtschaft des Landes taumelt und stöhnt unter der Last der Schulden und der fehlenden Investitionen, und es wird lange dauern, bis sich die japanische Wirtschaft vollständig erholt hat."
+ JAP_disarmed_nation_idea: "Entwaffnete Nation"
+ JAP_disarmed_nation_idea_desc: "Als Strafe für die imperialistischen Kriege, die Japan in ganz Asien geführt hat, hat der neue ausländische Besatzer die Auflösung der gesamten Armee, der Marine und der Luftstreitkräfte des Kaiserreichs Japan angeordnet. Erst wenn das Vertrauen Japans in den Augen seines Oberherrn wiederhergestellt ist, hat das Land vorerst keine Zukunft mehr mit Streitkräften."
+ JAP_jpel_influence_idea: "Abwanderung zur JPEL"
+ JAP_jpel_influence_idea_desc: "Die Japanische Volksemanzipationsliga (JPEL) besteht aus japanischen Soldaten, die beschlossen haben, sich der Kuomintang zu ergeben, und aus Flüchtlingen, die aus unserem Land fliehen. Die JPEL steht allen offen und vereint viele verärgerte Bürger unseres Landes mit dem Versprechen eines neuen Aufbruchs in Japan, der das Ende des Militarismus einläuten wird. Die Übertritte zur JPEL haben unsere Moral und Entschlossenheit gebrochen."
 
+ # Sozialistisch & CHI KMT
+ 	JAP_sister_republic_idea: "Schwester Republik"
+ 	JAP_sister_republic_idea_desc: "Trotz des Terrors, den die Japaner über das chinesische Volk gebracht haben, haben die Jahre der Vormundschaft durch die Chinesen die Japaner inspiriert, ihre eigene Form der nationalen Revolution zu verwirklichen. Indem sie den Drei Grundsätzen des Volkes folgen, werden auch sie zu Kameraden im großen panasiatischen Kampf gegen den Imperialismus. Nach dem Chaos und der Demütigung der Niederlage befindet sich Japan nun auf dem Weg zu einem neuen Schicksal - einem Schicksal, das sich vom Imperialismus lossagt und die Solidarität mit seinen sozialistischen Schwestern und Brüdern sucht."
+ JAP_communist_republic_of_japan_idea: "Kommunistische Republik Japan"
+ JAP_communist_republic_of_japan_idea_desc: "Allen Widrigkeiten zum Trotz haben die Kommunisten in Japan eine echte Volksrepublik geschaffen - eine Volksregierung, die den Arbeitern und Bauern Japans verpflichtet ist. Sie werden nicht länger durch die feudalen Ketten des Kaisers und seines Hofes gefesselt sein, noch sind sie gezwungen, den Launen der kapitalistischen Militaristen zu dienen. Eine neue Morgendämmerung und eine neue Sonne gehen über Asien auf, denn das Volk hat sich wirklich erhoben!"
+ JAP_the_revolution_successful_idea: "Die Revolution: Erfolgreich"
+ JAP_the_revolution_successful_idea_desc: "Gegen alle Widerstände haben die Sozialisten und Sozialdemokraten zusammengearbeitet und eine Einheitsfront gebildet, die sich dem wahren Proletariat Japans verschrieben hat. Jetzt werden wir unser Bestes tun, um sicherzustellen, dass die Revolution erfolgreich bleibt und die Rote Fahne nicht aufhört zu wehen! Gedenkt der Märtyrer von 1911 und derer, die vor uns kamen, Genossen, lang lebe der japanische Sozialismus!"
+ JAP_chinese_construction_crews_idea: "Chinesisch-Japanisches Bauprojekt"
+ JAP_chinese_construction_crews_idea_desc: "Aufgrund der verheerenden Auswirkungen des Krieges haben sich die Chinesen bereit erklärt, uns zu helfen, indem sie Tausende von chinesischen Arbeitern zum Wiederaufbau der japanischen Zivil- und sogar der Militärindustrie entsenden. Ziel ist es, die japanische Industrie nicht um des Krieges willen wieder aufzubauen, sondern um die Lebensqualität in Japan vor dem Krieg wiederherzustellen."
+ JAP_five_year_plan_idea: "Fünfjahrplan"
+ JAP_war_reparations_chi_overlord_idea: "Kriegsreparationsverordnung"
+ JAP_war_reparations_chi_overlord_idea_desc: "Als Teil des Schmerzes und des Leids, das die Japaner über das chinesische Volk gebracht haben, hat die japanische Regierung demütigenden Bedingungen der Rückzahlung und Entschädigung in Form von Kriegsreparationen für einen bestimmten Zeitraum zugestimmt."
+ JAP_war_reparations_overlord_idea: "Kriegsreparationen"
+ JAP_sino_japanese_study_programme_idea: "Gemeinsames Chinesisch-Japanisches Studienprogramm"
+ JAP_revolutionary_education_programme_idea: "Revolutionäres Japanisches Bildungsprogramm in Übersee"
+
+ # Liberal & Autoritär
  JAP_depolicization_of_the_throne_idea: "Depolarisierung des Throns"
  JAP_forced_abdication_idea: "Erzwungene Abdankung des Kaisers"
  JAP_emergency_relief_idea: "Nothilfe der Regierung"
@@ -402,12 +309,17 @@
  JAP_railway_expansion_idea: "Ausbau der Eisenbahn"
  JAP_independency_from_foreign_research_idea: "Unabhängigkeit von Auslandsforschung"
  JAP_emancipation_of_women_idea: "Emanzipation der Frauen"
+ JAP_rising_new_economy_idea: "Wiederauflebende Neue Wirtschaft"
 
- JAP_mantetsu_projects_tt: "Diese Entscheidungen werden es uns ermöglichen, Kollaborateure in China industriell und militärisch und §mMarktliberalität§! Beliebtheit im §Y[FNG.GetName]§! zu erhöhen."
- JAP_influence_china_tt: "Diese Entscheidungen werden der Bewaffnung von verbündeten Warlords Vorrang einräumen, die als unsere Stellvertreter in China dienen sollen, und sie werden es uns ermöglichen, die Popularität von §Marktliberalität§! im §Y[FNG.GetName]§! zu erhöhen."
- JAP_sow_chaos_tt_1: "Diese Entscheidungen werden es uns ermöglichen, nicht-han-chinesische Staaten in ihren Kriegen gegen China zu unterstützen."
- JAP_sow_chaos_tt_2: "Dieser Fokus verbessert den §YNationalgeist§!, der im Fokus §YKontinentale Kriegsführung§! gegeben wird, indem er §G10%§! Angriff gegen §Yalle chinesischen Länder§! gewährt und ihn doppelt so lange dauern lässt."
- JAP_victory_with_vision_tt: "Die durch den Nationalgeist von §YMantetsu Gewinne§! erzielten Effekte werden §Gverdoppelt§! werden."
+ # Armee & Marine
+ JAP_maritime_sdf_idea_1: "Küstenschutztruppe"
+ JAP_maritime_sdf_idea_4: "Maritime Selbstverteidigungskräfte"
+ JAP_self_defense_corps_idea_1: "Neue Offiziere"
+ JAP_self_defense_corps_idea_2: "Selbstverteidigungskorps"
+ JAP_modern_air_force_11: "Luftselbstverteidigungskorps"
+ JAP_overlord_military_excercise_idea: "Übungen im Pazifik"
+ JAP_overlord_military_excercise_idea_desc: "Nach gemeinsamen Übungen mit [JAP.GetName] hat unser Militär umfangreiche Kenntnisse über amphibische Invasionen und deren Planung erworben."
+ JAP_subversive_activities_prevention_law_idea: "Gesetz zur Verhinderung subversiver Aktivitäten"
 
 ###################
 ### Armee-Reform ###
@@ -415,8 +327,6 @@
 
 ### N/A
  # Entscheidungen
- JAP_long_war_cat: "Kaiserliche Japanische Streitkräfte"
- JAP_long_war_cat_desc: "Seit der Meiji-Restauration haben sich die kaiserliche japanische Armee und die kaiserliche japanische Marine zu mächtigen Kampftruppen entwickelt, die nicht nur in der Lage sind, die japanischen Interessen auf dem asiatischen Kontinent zu verteidigen, sondern auch durch eine Kombination aus schierer Willenskraft und brillanter Führung über Feinde zu triumphieren, die in Bezug auf Ressourcen und Bevölkerung überlegen sind.\n\nDie Armee ist gespalten in diejenigen, die die Nation auf einen langen, totalen Krieg vorbereiten wollen, und diejenigen, die sicherstellen wollen, dass Japan jeden Krieg, in den es eintritt, in einer Reihe von schnellen, entscheidenden Schlachten beenden kann. Die Marine prüft ihre Strategie angesichts der sich verändernden amerikanischen Situation genauer. Dies ist eine Angelegenheit, die durch eine besonders starke Rivalität zwischen den Diensten noch komplizierter wird, die die beiden Dienste dazu ermutigt, sich auf unterschiedliche Kriege vorzubereiten, um mehr Mittel zu erhalten, und die die Festlegung einer einheitlichen nationalen Verteidigungsstrategie erschwert. Was auch immer geschehen mag, die Streitkräfte müssen für den Krieg gerüstet werden."
  JAP_expand_tamano_shipyards: "Tamano-Werften ausbauen"
  JAP_expand_kure_naval_arsenal: "Marinearsenal Kure ausbauen"
  JAP_expand_yokosuka_naval_arsenal: "Marinearsenal Tokosuka ausbauen"
@@ -438,6 +348,7 @@
  # Entscheidungen
  JAP_short_war_cat: "Kaiserlich Japanische Streitkräfte"
  JAP_short_war_cat_desc: "Seit der Meiji-Restauration haben sich die kaiserliche japanische Armee und die kaiserliche japanische Marine zu mächtigen Kampftruppen entwickelt, die nicht nur in der Lage sind, die japanischen Interessen auf dem asiatischen Kontinent zu verteidigen, sondern auch durch eine Kombination aus schierer Willenskraft und brillanter Führung über Feinde zu triumphieren, die in Bezug auf Ressourcen und Bevölkerung überlegen sind.\n\nDie Armee ist gespalten in diejenigen, die die Nation auf einen langen, totalen Krieg vorbereiten wollen, und diejenigen, die sicherstellen wollen, dass Japan jeden Krieg, in den es eintritt, in einer Reihe von schnellen, entscheidenden Schlachten beenden kann. Die Marine prüft ihre Strategie angesichts der sich verändernden amerikanischen Situation genauer. Dies ist eine Angelegenheit, die durch eine besonders starke Rivalität zwischen den Diensten noch komplizierter wird, die die beiden Dienste dazu ermutigt, sich auf unterschiedliche Kriege vorzubereiten, um mehr Mittel zu erhalten, und die die Festlegung einer einheitlichen nationalen Verteidigungsstrategie erschwert. Was auch immer geschehen mag, die Streitkräfte müssen für den Krieg gerüstet werden."
+ 
  JAP_show_war_plans_china: "Kriegsplanungsziele in China anzeigen"
  JAP_show_war_plans_sea: "Kriegsplanungsziele in Südostasien anzeigen"
  JAP_war_planning_against_from: "Kriegsplanung gegen [FROM.Owner.GetNameWithFlag]"
@@ -473,8 +384,8 @@
 
 ### Langer Krieg
  # Entscheidungen
- JAP_development_target: "Entwicklungsziel: Jahr [?JAP_development_target?1]"
- JAP_development_target_desc: "Mit Konoes Wahl von Minami Jirō zum Heeresminister haben die Reformer innerhalb der IJA ein ehrgeiziges Modernisierungsprogramm in Angriff genommen, das die Armee in eine moderne, schlagkräftige Kampftruppe verwandeln soll. Im Rahmen dieses Programms haben sich die Planer eine Reihe von Zielen für die nächsten vier Jahre gesetzt, deren Erreichung als notwendig erachtet wird, damit die Armee ihr volles Potenzial ausschöpfen kann. Das Erreichen dieser Ziele wird das Heer mit Sicherheit stärken, ein Scheitern hingegen wird nur Kritik hervorrufen und zu Desorganisation führen."
+ JAP_long_war_cat: "Kaiserliche Japanische Streitkräfte"
+ JAP_long_war_cat_desc: "Seit der Meiji-Restauration haben sich die kaiserliche japanische Armee und die kaiserliche japanische Marine zu mächtigen Kampftruppen entwickelt, die nicht nur in der Lage sind, die japanischen Interessen auf dem asiatischen Kontinent zu verteidigen, sondern auch durch eine Kombination aus schierer Willenskraft und brillanter Führung über Feinde zu triumphieren, die in Bezug auf Ressourcen und Bevölkerung überlegen sind.\n\nDie Armee ist gespalten in diejenigen, die die Nation auf einen langen, totalen Krieg vorbereiten wollen, und diejenigen, die sicherstellen wollen, dass Japan jeden Krieg, in den es eintritt, in einer Reihe von schnellen, entscheidenden Schlachten beenden kann. Die Marine prüft ihre Strategie angesichts der sich verändernden amerikanischen Situation genauer. Dies ist eine Angelegenheit, die durch eine besonders starke Rivalität zwischen den Diensten noch komplizierter wird, die die beiden Dienste dazu ermutigt, sich auf unterschiedliche Kriege vorzubereiten, um mehr Mittel zu erhalten, und die die Festlegung einer einheitlichen nationalen Verteidigungsstrategie erschwert. Was auch immer geschehen mag, die Streitkräfte müssen für den Krieg gerüstet werden."
 
  JAP_war_ready_industries_1: "Kriegsbereite Industrie I"
  JAP_war_ready_industries_2: "Kriegsbereite Industrie II"
@@ -511,23 +422,7 @@
  JAP_war_ready_equipment_3_complete: "Hat die Modernisierung der Ausrüstung abgeschlossen."
  JAP_merge_into_modern_army: "Verschmelzen von §H$JAP_equipment_modernisation$§!, §H$JAP_research_modernisation_lw$§!, und §H$JAP_staff_modernisation_lw$§! zu §H$JAP_long_war_army_lw$§!\nEffektive Veränderung:\n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G10%§!\n$MODIFIER_STABILITY_WAR_FACTOR$: [?0.10|+=%]"
 
-### Marine
- JAP_third_circle_tt: "§YZwei Flugzeugträger§! und §YZwei Schlachtschiffe§! werden mit ihrem Bau beginnen, mit §G40%§! Fortschritt."
- JAP_the_zero_tt: "Technologie hinzufügen: §H$JAP_cv_fighter_equipment_2$§!"
- JAP_the_zero_bba_tt: "Wenn §YVerbesserte kleine Flugzeugzelle§! vor Abschluss dieses Schwerpunkts erforscht wurde, erhalten wir stattdessen eine §H1940 Jäger (Trägervariante)§! Vorlage und einen Forschungsbonus für zukünftige §HTriebwerks§! Technologie."
- JAP_the_zero_not_bba_tt: "Wenn §YA6M Rei-sen§! vor Abschluss dieses Schwerpunkts erforscht wurde, erhalten wir stattdessen einen verbesserten §H1940 Jäger (Trägervariante)§!."
- JAP_complete_the_fourth_circle_plan: "Vervollständigen Sie die Mission"
- JAP_to_complete_plan: "Um die Mission zu erfüllen, müssen wir über eine Flotte verfügen, die mindestens folgende Schiffe enthält: §H8 Träger§! Schiffe, §H8 Schlachtschiff§! Schiffe, §H6 Schlachtkreuzer§! Schiffe, §H20 Kreuzer§! Schiffe, §H20 Begleitkreuzer§! Schiffe und §H150 Zerstörer§! Schiffe."
- JAP_effects_upon_successful_completion: "§HAuswirkungen bei erfolgreichem Abschluss der Mission:§!"
- 
-### Marine Tooltips ###
- JAP_naval_investment: "£decision_icon_small Neue Beschlüsse zur Entwicklung von §YKapazitäten im Schiffbau§! unserer Verbündeten werden freigeschaltet."
- JAP_naval_prosperity_ships: "\n£decision_icon_small Neue Entscheidungen zur Entwicklung der §YMarine-Transportkapazitäten§! unserer Verbündeten werden freigeschaltet."
- JAP_naval_advisors: "£decision_icon_small Neue Entscheidungen zur Entwicklung der §YMarine-Kampfkapazitäten§! sowohl von uns als auch von unseren Verbündeten werden freigeschaltet."
- JAP_naval_seize_docks: "£decision_icon_small Neue Entscheidungen zur §YBeschlagnahme von Werften§! von unseren Verbündeten während des Krieges werden freigeschaltet."
- JAP_invest_docks: "Hat Werften in [From.GetNameDef] gebaut"
-
-### Andere Tooltips ###
+### Tooltips ###
  JAP_NSA: "Das Nationale Sicherheitsgesetz wird verabschiedet."
  JAP_NO_NSA: "Das Nationale Sicherheitsgesetz wurde nicht verabschiedet."
  JAP_showa_tree: "Nachdem das Gesetz nicht verabschiedet wurde, führten restauratorische Armeeoffiziere einen Putsch durch."
@@ -537,26 +432,67 @@
  failed_coup_weak_government: "§GDas Parlament wird in den kommenden Wochen über eine Lösung zur Stabilisierung der Regierung beraten.§!"
  JAP_democratic_unlocked: "Die japanische Demokratie hat die militärische Einmischung überlebt."
  JAP_security_debate: "Die Sicherheitsdebatte nach dem Vorfall vom 15. Mai hat begonnen."
- JAP_upgrade_zaibatsu_tt: "Bestimmte Unternehmen werden §Gaufgewertet§!:\nÄndern von §H$Mitsubishi$§! durch\nKosten: £GFX_pol_power  [?-50|=-0]\nLuftforschungsgeschwindigkeit: [?0.05|+=%]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?0.05|+=%]\n\nÄndern von §H$Mitsui_Zaibatsu$§! durch\nKosten: £GFX_pol_power  [?-50|=-0]\n$industry_research$: [?0.05|+=%]\n$modifier_production_speed_industrial_complex_factor$: [?0.05|+=%]\n$modifier_production_speed_arms_factory_factor$: [?0.05|+=%]\n\nÄndern von §H$sumitomo$§! durch\nKosten: £GFX_pol_power  [?-50|=-0]\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: [?0.10|+=%]\n$modifier_production_speed_infrastructure_factor$: [?0.10|+=%]"
+ 
  JAP_land_reform_in_progress: "Laufende Landreform"
  JAP_land_reform_idea: "\nMit unseren derzeitigen §HLand-Reformfortschritten§! werden wir dieses Ergebnis erreichen:\n"
  JAP_land_reform_over_2: "Der §HLand-Reformfortschritt§! ist zu Ende §H2§!."
  JAP_land_reform_progress: "Dies wird unsere §HLand-Reformfortschritte§! moderat vorantreiben."
  JAP_land_reform_progress_large: "Dies wird unsere §HLand-Reformfortschritte§! erheblich voranbringen."
  JAP_land_reform_fail: "Keine Wirkung."
- JAP_unlock_nippon_oil: "Schaltet das Unternehmen §YNippon Oil§! frei.\n"
- FNG_relations_JAP_broke: "Fengtian hat mit Japan gebrochen"
+ 
  JAP_great_drought_active: "erlebt eine schreckliche Dürre"
  JAP_food_shipments_continue: "Die Lieferungen von Nahrungsmitteln und Hilfsgütern an §Y[JAP.GetNameDef]§! werden fortgesetzt.\n"
  JAP_food_shipments_cut: "Die Lieferungen von Nahrungsmitteln und Hilfsgütern an §Y[JAP.GetNameDef]§! werden sofort eingestellt!\n"
+ 
+ JAP_line: "§W--------------§!"
+
+ # Ökonomie Tooltips
+ JAP_upgrade_zaibatsu_tt: "Bestimmte Unternehmen werden §Gaufgewertet§!:\nÄnderung §H$mitsui_zaibatsu$§! durch\nKosten: £GFX_pol_power  [?-50|=-0]\n$industry_research$: [?0.05|+=%]\n$modifier_production_speed_industrial_complex_factor$: [?0.05|+=%]\n$modifier_production_speed_arms_factory_factor$: [?0.05|+=%]\n\nÄnderung §H$sumitomo$§! durch\nKosten: £GFX_pol_power  [?-50|=-0]\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: [?0.10|+=%]\n$modifier_production_speed_infrastructure_factor$: [?0.10|+=%]"
+ JAP_upgrade_zaibatsu_non_AAT_tt: "\n\nÄnderung §H$mitsubishi$§! durch\nKosten: £GFX_pol_power  [?-50|=-0]\nAir Forschungsgeschwindigkeit: [?0.05|+=%]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?0.05|+=%]"
+ JAP_has_taken_zaibatsu_eco_tt: "Wenn wir uns für §YUnterstütze die Zaibatsu§! entschieden haben, werden wir gewinnen:"
+ JAP_has_taken_bureaucratic_eco_tt: "Wenn wir uns stattdessen für eine §YBürokratische Wirtschaft§! entschieden haben, werden wir gewinnen:"
  JAP_the_shinkansen_proposal_tt: "Fügen Sie ein Maximum an §YEisenbahn§! in §YKantō§!, §YChūgoku§!, §YKansai§! und §YTōkai§! hinzu"
+ JAP_unlock_nippon_oil: "Schaltet das Unternehmen §YNippon Oil§! frei.\n"
+ 
+ # Militärischer Zentralismus Tooltips
+ JAP_cabinet_planning_board_tt: "§GAbnahme§! §PVäterlicher Autokrat§! §YPolitischer Berater§! und §YChef der Armee§! Kosten um £GFX_pol_power 30."
+ 
+ JAP_will_grant_1: "§gWenn wir einen Kompromiss mit der Abgeordnetenversammlung eingehen, werden wir gewinnen:§!"
+ JAP_will_grant_2: "§gUnd wenn wir unsere Pläne energisch durchsetzen, werden wir gewinnen:§!"
+ 
+ JAP_merge_small_ministries_1: "Verringerung der Kosten von §YInvestitionsförderung§! Entscheidungen um £GFX_pol_power 35 und Verringerung der und Senkung der Abwicklungszeit von §YLand Reform§! Entscheidungen um 25."
+ JAP_merge_small_ministries_2: "Senkung der Kosten von §YInvestitionsförderung§! Entscheidungen um £GFX_pol_power 50 und Senkung der Abwicklungszeit von §YLand Reform§! Entscheidungen um 50."
+ 
+ JAP_national_defence_state_tt: "§gDie Auswirkungen des nationalen Geistes werden davon abhängen, inwieweit wir zuvor Kompromisse eingegangen sind oder unsere Pläne durchgesetzt haben.§!"
+ JAP_national_defence_state_compromise_tt: "§gWenn wir einen Kompromiss mit der Abgeordnetenversammlung eingehen, werden wir gewinnen:§!"
+ JAP_national_defence_state_force_tt: "§gWenn wir unsere Pläne durchsetzen, werden wir gewinnen:§!"
+ JAP_national_defence_state_idea_merge_tt: "§GDie bisherigen Nationalgeiste werden zu einem einzigen zusammengeführt.§!"
+ 
+ # Showa Restoration Tooltips
+ JAP_showa_restoration_mechanic_tt: "Obwohl sich die Restaurationisten zum §RTaisei Yokusankai§! zusammengeschlossen haben, sind sie noch lange nicht geeint. Konoe muss zwischen den Forderungen der Fraktionen §YKōdōha§!, §YSeidō§! und §YDōjinkai§! hin und her manövrieren.\n\nWenn wir §Yeine Fraktion bevorzugen, indem wir mehrere ihrer Schwerpunkte nacheinander einnehmen§!, werden wir §Spezifische Boni erhalten§!, die auf diese Fraktion zugeschnitten sind, aber zunehmend §Stabilität verlieren§!.\n\nIm Gegensatz dazu führt eine §YAusgleichung der Reihenfolge, in der man den Shōwa-Restaurationsbaum§! vervollständigt, zu einer §Gstabileren Koalition§!, auch wenn wir dabei §Robengenannte Boni verlieren§! können.\n\nDiese Boni erhalten Sie, wenn Sie Prioritäten setzen:\n£white_dot Die §YDōjinkai§!, links, ergibt §YPolitische Macht§!.\n£white_dot Die §YSeidō§!, in der Mitte, gibt §YPartei Popularität§!.\n£white_dot Die §YKōdōha§!, rechts, gibt §YArmee Erfahrung§!"
+ 
+ JAP_dojinkai_bonuses_tt: "Die §YDōjinkai§! behauptet ihre Dominanz. Das wird das Gleichgewicht in unserer Koalition stören."
+ JAP_seido_bonuses_tt: "Die §YSeidō§! behauptet ihre Dominanz. Das wird das Gleichgewicht in unserer Koalition stören."
+ JAP_kodoha_bonuses_tt: "Die §YKōdōha§! behauptet ihre Dominanz. Das wird das Gleichgewicht in unserer Koalition stören."
+
+ JAP_a_new_way_tt: "Wenn §YSynthetische Ölexperimente§! erforscht wurde, werden zwei Raffinerien in Japan gebaut."
+ JAP_destroy_degenerative_individualism_tt: "Die Annahme dieses Schwerpunkts wird die anderen Fraktionen in unserer Regierung vorübergehend §Ggefällig§! machen, so dass wir einen Reformschwerpunkt verabschieden können, ohne Stabilitätseinbußen in Kauf nehmen zu müssen."
+ JAP_Curtail_Zaibatsu_tt: "Wir werden die Möglichkeit haben, entweder unsere Konstruktionsgeschwindigkeit zu steigern, aber auch unsere Konstruktionskosten zu erhöhen, oder wir gewinnen einfach Fabriken!"
+ 
+ JAP_ennoble_the_national_spirit_tt_1: "§gNach Abschluss von §Y$JAP_continue_zaibatsu_ties$§!§!:"
+ JAP_ennoble_the_national_spirit_tt_2: "§gNach Abschluss von §Y$JAP_curtail_the_zaibatsu$§!:§!""
+ 
+ JAP_divert_workers_towards_production_cost_tt: "£pol_power §Y40§! £manpower_texticon §H200000§!"
+ JAP_divert_workers_towards_production_cost_tt_blocked: "£pol_power §R40§! £manpower_texticon §R200000§!"
+ 
  JAP_all_states_with_less_than_three_infra: "Jeder eigene Kernstaat mit weniger als §H3 Infrastruktur§!"
+ 
  JAP_man_with_thousand_friends_sic_tt_1: "Ersetze §YKaiserlicher Prinz§! durch §YMann mit tausend Freunden§!\nEffektive Veränderung:\n$MODIFIER_STABILITY_FACTOR$: §G+5.00%§!\n$political_advisor_cost_factor$: §G-33%§!\n$industrial_concern_cost_factor$: §G-33%§!"
  JAP_man_with_thousand_friends_sic_tt_2: "Ändern Sie §YMann mit tausend Freunden§! durch\n$max_efficiency_tooltip$§G+5.00%§!"
  JAP_scion_of_fujiwara_sic_tt: "Ersetze §YKaiserlicher Prinz§! durch §YNachfahre von Fujiwara§!\nEffektive Veränderung:\n$MODIFIER_POLITICAL_POWER_GAIN$: §G+0.10§!\n$MODIFIER_STABILITY_FACTOR$: §G+10.00%§!"
- JAP_has_taken_zaibatsu_eco_tt: "Wenn wir uns für §YUnterstütze die Zaibatsu§! entschieden haben, werden wir gewinnen:"
- JAP_has_taken_bureaucratic_eco_tt: "Wenn wir uns stattdessen für eine §YBürokratische Wirtschaft§! entschieden haben, werden wir gewinnen:"
 
+ # Demokratie Tooltips
+ 
  JAP_elected_marlib: "Die §mMinseitō§! siegen bei den vorgezogenen Wahlen"
  JAP_elected_soccon: "Die §cSeiyūkai§! stehen weiterhin an der Spitze der Regierung"
  JAP_elected_autdem: "Die §gRegierung der Nationalen Einheit§! wurde von den großen Parteien gebildet."
@@ -568,32 +504,34 @@
  JAP_final_focus_autdem_seiyukai_tt: "Die Verabschiedung von §Y3§! oder mehr §cSeiyūkai§! Reformschwerpunkte wird uns gewähren:"
  JAP_more_minseito_focus_taken: "§Y3§! oder mehr Schwerpunkte von der §mMinseitō§! Seite sind abgeschlossen."
  JAP_more_seiyukai_focus_taken: "§Y3§! oder mehr Schwerpunkte von der §cSeiyūkai§! Seite sind abgeschlossen."
+ 
  JAP_minseito_land_reform_tt: "Landreformbeschlüsse werden weniger §YPolitische Macht§! kosten."
  JAP_seiyukai_land_reform_tt: "Die erfolgreiche Durchführung der Landreform wird zusätzliche §YStabilität§! und §YKriegsunterstützung§! gewähren."
 
- JAP_cabinet_planning_board_tt: "§GAbnahme§! §PVäterlicher Autokrat§! §YPolitischer Berater§! und §YChef der Armee§! Kosten um £GFX_pol_power 30."
-
+ # Außenpolitik Tooltips
  JAP_gain_claim_southern_islands: "§Y[JAP.GetNameDefCap]§! erhebt Anspruch auf §HSingapur§!, §H[1020.GetCapitalVictoryPointName]§! und alle nicht-amerikanischen §YPazifischen Inseln§!, die nicht im Besitz eines Verbündeten oder eines Mitglieds ihrer Wirtschaftssphäre sind.\n"
-
- japanese_economic_influence_cost: "£pol_power [?From.japanese_economic_influence|H0]"
- japanese_economic_influence_cost_blocked: "£pol_power [?From.japanese_economic_influence|R0]"
- japanese_economic_influence_cost_tooltip: "Dies kostet £pol_power Politische Macht in Höhe des bestehenden Einflusses"
-
- JAP_may_now_invite_sphere: "Blockfreie und unterworfene ostasiatische Staaten können nun in Japans wirtschaftliche Einflusssphäre eingeladen werden\n"
- JAP_may_now_invest_sphere: "Kann nun Entscheidungen zur Förderung von Investitionen in Sphärenmitgliedern treffen, was mit der Zeit zu einer japanischen Kontrolle über das Land führen kann.\n"
- JAP_withdraws_from_sphere: "§Y[Root.GetNameDefCap]§! wird sich aus dem japanischen Wirtschaftsraum zurückziehen\n"
- JAP_THIS_withdraws_from_sphere: "§Y[This.GetNameDefCap]§! wird sich aus dem japanischen Wirtschaftsraum zurückziehen\n"
- JAP_not_member_of_sphere: "ist nicht Mitglied der wirtschaftlichen Ko-Wohlstandssphäre Japans"
- JAP_member_of_sphere: "ist Mitglied in Japans wirtschaftlicher Ko-Wohlstandssphäre"
- JAP_AST_joins_sphere: "§Y[AST.GetNameDef]§! wird dem japanischen Wirtschaftsraum beitreten\n"
- AST_has_ties_with_japan: "unterhält Beziehungen zu Japan"
+ JAP_backed_down_pacific: "Rückzieher bei Ansprüchen auf die pazifischen Inseln"
+ 
  JAP_may_war_with_indochina: "Wird Entscheidungen erhalten, gegen gültige Ziele in §YIndochina§ in den Krieg zu ziehen!\n"
  JAP_can_attack_india: "Wird Beschlüsse erhalten, gegen gültige Ziele in §YIndien§! in den Krieg zu ziehen\n"
  JAP_may_war_with_siam: "Wird die Entscheidung erhalten, gegen §Y[SIA.GetNameDef]§! in den Krieg zu ziehen\n"
- JAP_no_training_help: "hat Japans Hilfe abgelehnt"
- JAP_returns_land: "§Japan wird jedes Land zurückgeben, auf das wir Anspruch erheben und das sie nicht besitzen!\n"
 
  is_working_with_JAP: "Diese Nation ist zur Zusammenarbeit mit Japan verpflichtet"
+
+ # China tooltips
+ FNG_relations_JAP_broke: "Fengtian hat mit Japan gebrochen"
+ JAP_mantetsu_projects_tt: "Diese Entscheidungen werden es uns ermöglichen, Kollaborateure in China industriell und militärisch und §mMarktliberalität§! Beliebtheit im §Y[FNG.GetName]§! zu erhöhen."
+ JAP_influence_china_tt: "Diese Entscheidungen werden der Bewaffnung von verbündeten Warlords Vorrang einräumen, die als unsere Stellvertreter in China dienen sollen, und sie werden es uns ermöglichen, die Popularität von §Marktliberalität§! im §Y[FNG.GetName]§! zu erhöhen."
+ JAP_no_training_help: "hat Japans Hilfe abgelehnt"
+ JAP_sow_chaos_tt_1: "Diese Entscheidungen werden es uns ermöglichen, nicht-han-chinesische Staaten in ihren Kriegen gegen China zu unterstützen."
+ JAP_sow_chaos_tt_2: "Dieser Fokus verbessert den §YNationalgeist§!, der im Fokus §YKontinentale Kriegsführung§! gegeben wird, indem er §G10%§! Angriff gegen §Yalle chinesischen Länder§! gewährt und ihn doppelt so lange dauern lässt."
+ JAP_victory_with_vision_tt: "Die durch den Nationalgeist von §YMantetsu Gewinne§! erzielten Effekte werden §Gverdoppelt§! werden."
+ JAP_returns_land: "§Japan wird jedes Land zurückgeben, auf das wir Anspruch erheben und das sie nicht besitzen!\n"
+ JAP_ichigo_tooltip: "Angriffsbonus gegen §H$all_chinese_countries_tt$§!: [?0.1|+=%1]"
+ 
+ japanese_economic_influence_Kosten: "£pol_power [?From.japanese_economic_influence|H0]"
+ japanese_economic_influence_cost_blocked: "£pol_power [?From.japanese_economic_influence|R0]"
+ japanese_economic_influence_cost_tooltip: "Dies kostet £pol_power Politische Macht in Höhe des bestehenden Einflusses"
 
  chinese_tag_must_agree: "[From.GetNameDefCap] muss zustimmen, damit dies wirksam wird!\n"
  JAP_you_get_the_mils_back: "Sie bekommen die Fabriken zurück!"
@@ -601,17 +539,22 @@
  army_xp_more_than_10: "£army_experience §H10§!"
  army_xp_more_than_10_blocked: "£army_experience §R10§!"
  army_xp_more_than_10_tooltip: "Es kostet $army_xp_more_than_10_blocked$, die Entscheidung zu treffen"
- JAP_backed_down_pacific: "Rückzieher bei Ansprüchen auf die pazifischen Inseln"
 
- JAP_tokyo_conference_tt: "Durch Auswahl dieses Schwerpunkts wird die Ereigniskette der Tokio-Konferenz gestartet.""
- JAP_80_chance_of_agreeing_tt: "Die Teilnehmer werden §Gwahrscheinlich§! zustimmen."
- JAP_95_chance_of_agreeing_tt: "Die Teilnehmer werden §Gsehr wahrscheinlich§! zustimmen."
- JAP_100_chance_of_agreeing_tt: "Die Teilnehmer werden §Ggewiss§! zustimmen."
- JAP_nerf_copro_bonuses_tt: "Unsere wirtschaftlichen Boni aus der Ko-Wohlstandssphäre werden um §H10%§! reduziert, und die unserer Mitglieder werden um den gleichen Betrag erhöht."
- JAP_harder_eco_int_tt: "£decision_icon_small §Investitionen förden§! und £decision_icon_small §HÜbernahme§! Entscheidungen erhöhen die Kosten."
+ # Navy tooltips
+ JAP_third_circle_tt: "§YZwei Flugzeugträger§! und §YZwei Schlachtschiffe§! werden mit ihrem Bau beginnen, mit §G40%§! Fortschritt."
+ JAP_the_zero_tt: "Technologie hinzufügen: §H$JAP_cv_fighter_equipment_2$§!"
+ JAP_the_zero_bba_tt: "Wenn §YVerbesserte kleine Flugzeugzelle§! vor Abschluss dieses Schwerpunkts erforscht wurde, erhalten wir stattdessen eine §H1940 Jäger (Trägervariante)§! Vorlage und einen Forschungsbonus für zukünftige §HTriebwerks§! Technologie."
+ JAP_the_zero_not_bba_tt: "Wenn §YA6M Rei-sen§! vor Abschluss dieses Schwerpunkts erforscht wurde, erhalten wir stattdessen einen verbesserten §H1940 Jäger (Trägervariante)§!."
+ JAP_complete_the_fourth_circle_plan: "Vervollständigen Sie die Mission"
+ JAP_to_complete_plan: "Um die Mission zu erfüllen, müssen wir über eine Flotte verfügen, die mindestens folgende Schiffe enthält: §H8 Träger§! Schiffe, §H8 Schlachtschiff§! Schiffe, §H6 Schlachtkreuzer§! Schiffe, §H20 Kreuzer§! Schiffe, §H20 Begleitkreuzer§! Schiffe und §H150 Zerstörer§! Schiffe."
+ JAP_effects_upon_successful_completion: "§HAuswirkungen bei erfolgreichem Abschluss der Mission:§!"
+ JAP_naval_investment: "£decision_icon_small Neue Beschlüsse zur Entwicklung von §YKapazitäten im Schiffbau§! unserer Verbündeten werden freigeschaltet."
+ JAP_naval_prosperity_ships: "\n£decision_icon_small Neue Entscheidungen zur Entwicklung der §YMarine-Transportkapazitäten§! unserer Verbündeten werden freigeschaltet."
+ JAP_naval_advisors: "£decision_icon_small Neue Entscheidungen zur Entwicklung der §YMarine-Kampfkapazitäten§! sowohl von uns als auch von unseren Verbündeten werden freigeschaltet."
+ JAP_naval_seize_docks: "£decision_icon_small Neue Entscheidungen zur §YBeschlagnahme von Werften§! von unseren Verbündeten während des Krieges werden freigeschaltet."
+ JAP_invest_docks: "Hat Werften in [From.GetNameDef] gebaut"
 
- JAP_ichigo_tooltip: "Angriffsbonus gegen §H$all_chinese_countries_tt$§!: [?0.1|+=%1]"
-
+### Marionette JAP Tooltips ###
  JAP_question_of_the_imperial_family_default_tt: "§LNach der Niederlage Japans im Krieg mehren sich die Stimmen, die die Absetzung Hirohitos fordern oder sogar die Funktion des Kaisers in Frage stellen. Außerdem wird die Frage nach den Plänen unseres Oberherrn für unser Land erschwert.§!"
  JAP_question_of_the_imperial_family_hirohito_stayed_tt: "§LObwohl unser Oberherr das politische Potenzial und die Bedeutung des Verbleibs Hirohitos auf dem Thron erkannt hat, ist diese Frage noch lange nicht gelöst. Über das Schicksal des Kaisers und der kaiserlichen Familie wird in der nächsten Sondersitzung des Parlaments entschieden werden.§!"
  JAP_question_of_the_imperial_family_hirohito_abdicated_tt: "§LNach der erzwungenen Abdankung Hirohitos scheint die Position der kaiserlichen Familie und des neuen Kaisers so schwach wie nie zuvor. Über ihr Schicksal wird in der nächsten Sondersitzung des Landtages entschieden werden.§!"
@@ -619,8 +562,10 @@
  JAP_election_in_four_months_tt: "Die ersten Nachkriegswahlen werden in vier Monaten abgehalten.\n"
  JAP_imperial_to_national_diet_tt: "Die §Y$JAP_imperial_diet$§! wird umbenannt in §Y$JAP_national_diet$§!\n"
  JAP_appoint_naruhiko_sic: "Berater §YHigashikuni Naruhiko§ ernennen!"
-
- JAP_line: "§W--------------§!"
+ JAP_purge_military_socialist_tt: "§REs wird eine gründliche Säuberung des militärischen Oberkommandos durchgeführt.§!"
+ JAP_purge_military_kmt_tt: "§RDas Oberkommando der kaiserlichen japanischen Armee und Marine wird für seine Verbrechen vor Gericht gestellt werden.§!"
+ JAP_create_the_national_police_reserve_tt: "§rDurch diese Schwerpunktsetzung werden alle verfügbaren Polizeieinheiten zur Selbstverteidigung mobilisiert.§!"
+ 
 
 ### Scripted Loc ###
  JAP_ally1_name: "§Y[?global.asian_economic_sphere^0.GetFlag][?global.asian_economic_sphere^0.GetName]§!, "
@@ -679,10 +624,7 @@
  JAP_finish_land_reform: "Abschluss des Landreformprogramms"
  JAP_finish_land_reform_desc: "Wir werden unser Landreformprogramm abschließen und sehen, was dabei herauskommt..."
  
- JAP_merge_army_ideas: "Abschluss der Armeereform"
- JAP_merge_army_ideas_desc: "Unsere Armeereform ist endlich abgeschlossen, und unsere Armee ist bereit, mit allem fertig zu werden."
-
-##Ressourcen-Entscheidungen##
+### Ressource Entscheidungen ###
  JAP_develop_chosen_tungsten_mines: "Wolframminen in Korea ausbauen"
  JAP_develop_chosen_tungsten_mines1_desc: "Wir haben mit dem Ausbau unserer Wolframvorkommen in [527.GetName] begonnen, und es wird einige Zeit und Mühe kosten, unsere Minen dort zu erweitern."
  JAP_develop_chosen_tungsten_mines2_desc: "Wir haben mit einer zweiten Erweiterung unserer Wolframminen in [527.GetName] begonnen, und es wird einige Zeit und Mühe kosten, unsere Minen dort zu erweitern."
@@ -690,7 +632,25 @@
  JAP_develop_chosen_tungsten_mines4_desc: "Wir haben Berichte über mehrere neue Wolframvorkommen in [525.GetName] erhalten. Während wir diese Berichte überprüfen, werden wir eine vierte Erweiterung in [527.GetName] durchführen."
  JAP_develop_chosen_tungsten_mines5_desc: "Unsere Prospektoren sind aus [525.GetName] zurückgekehrt und haben bestätigt, dass es dort ein großes Wolframvorkommen gibt. Wir werden sofort mit der Erschließung dieses neuen Vorkommens beginnen und gleichzeitig die Minen in [527.GetName] ausbauen."
 
-## Friedensabkommen ##
+ ### Ökonomie Entscheidungen ###
+ JAP_economy_cat: "The Japanese Economy"
+ JAP_support_yokohama_auto_industries: "Support Yokohama Auto Industries"
+ JAP_support_ota_jidosha: "Support Ota Jidosha"
+ JAP_support_kurasiki_kensyoku: "Support Kurasiki Kensyoku"
+ JAP_support_mitsubishi: "Support Mitsubishi"
+ JAP_subisidies_for_nakajima: "Subsidies for Nakajima"
+ JAP_support_nippon_soda: "Support Nippon Sōda"
+ JAP_aid_for_chugoku_arms_industries: "Aid for Chūgoku Arms Industry"
+ JAP_support_nissan: "Support Nissan"
+ JAP_industrial_partnership_with_sumitomo: "Industrial Partnership with Sumitomo"
+ JAP_support_nichitsu_expansion: "Sponsor Nichitsu Expansion in Korea"
+ JAP_back_isuzu: "Back Isuzu APC Projects"
+ JAP_fund_nec_plant: "Fund Nippon Electric Research Plant"
+ JAP_invest_in_mitsui: "Invest in Mitsui"
+ JAP_aid_toyo_rayon: "Aid Toyo Rayon"
+ JAP_kawasaki_aircraft_plant: "Construct Kawasaki Aircraft Plant"
+ 
+### Friedensabkommen ###
  JAP_fading_sun: "Die verblassende Sonne"
  
  JAP_fading_sun_timer: "Die verblassende Sonne"
@@ -709,7 +669,6 @@
  JAP_all_owned_chinese_states_occupied: "Alle eigenen Staaten auf dem chinesischen Festland sind besetzt"
 
 ### Kriegsentscheidungen ###
-
  JAP_threaten_philippines: "Bedrohung der Philippinen"
  JAP_threaten_philippines_desc: "Jetzt, wo die Amerikaner weg sind, können wir unsere Kanonenboote schicken, um den Archipel für die Ko-Wohlstandssphäre zu sichern und den Inseln Stabilität zu bringen. Natürlich sehen die Filipinos das vielleicht nicht so."
  JAP_attack_indochina: "Angriff [From.GetNameDef]"
@@ -758,15 +717,11 @@
  harbin_chemical_research: "Chemische Forschung in Harbin"
  changchun_industry_investment: "Die Industrieregion Jilin"
 
-### Schwerpunkte - Politik (NEU)
-
 ### Schwerpunkte - Politik - Basis ###
  JAP_NSA_focus: "Das Nationales Sicherheitsgesetz"
  JAP_NSA_focus_desc: "Seit einigen Wochen tobt im Landtag eine Debatte über das Nationale Sicherheitsgesetz, und es ist an der Zeit zu entscheiden, welchen Kurs unser Land einschlagen wird. Einige konservative Mitglieder des Parlaments befürchten, dass radikale Elemente in der Gesellschaft versuchen werden, die Macht zu übernehmen, wenn das Gesetz nicht verabschiedet wird. Die Zukunft Japans liegt in unseren Händen."
- JAP_defend_democracy: "Verteidigt die Demokratie!"
- JAP_defend_democracy_desc: "Nachdem er das Angebot der intriganten Armeeoffiziere erhalten hatte, weigerte sich General Hayashi Senjuro, den Putschversuch zu unterstützen, und berief sich dabei auf seine Verantwortung gegenüber dem bestehenden Regime. Nachdem der Prozess um den Vorfall vom 15. Mai hinter uns liegt, ist es nun an der Zeit, die Demokratie in den Augen des Volkes zu sichern."
  
-### Schwerpunkte - Politik - Demokratisch (NEU) ###
+### Schwerpunkte - Politik - Demokratie ###
  JAP_protect_constitutional_government: "Schutz der verfassungsmäßigen Regierung"
  JAP_protect_constitutional_government_desc: "Japan ist ein Leuchtturm der Modernität in Asien, und unser Volk erfreut sich seit langem einer Stabilität, um die es von vielen auf dem ganzen Kontinent beneidet und inspiriert wird. Leider haben die jüngsten Ereignisse Risse in unseren jungen Institutionen offenbart. Wir müssen daran arbeiten, das Vertrauen der Menschen in unsere Regierung wiederherzustellen... und die gewählten Volksvertreter besser zu schützen, damit sich Ereignisse wie der Zwischenfall vom 15. Mai nicht wiederholen."
  JAP_civil_servant_purge: "Säuberung des öffentlichen Dienstes"
@@ -777,6 +732,7 @@
  JAP_investigate_corruption_desc: "Nach eingehender Prüfung scheint es, dass viele in unserer lokalen Verwaltung anderen Parteien im Austausch für Geschenke oder Gefälligkeiten entgegengekommen sind. Schlimmer noch, die vorherige Seiyūkai-Regierung war offensichtlich sehr kooperativ gegenüber mächtigen Leuten, mit denen einige ihrer höheren Angestellten persönlich bekannt waren, und drückte bei einigen zwielichtigen Geschäften ein Auge zu, im Austausch für ihre weitere Unterstützung. Eine solche Unehrlichkeit kann nicht hingenommen werden, und wir müssen jetzt damit beginnen, dagegen vorzugehen."
  JAP_peace_preservation_laws: "Gesetze zur Wahrung des Friedens"
  JAP_peace_preservation_laws_desc: "Während die liberalen Parteien vor mehr als einem Jahrzehnt General Tanakas Gesetz zur Erhaltung des Friedens abwehren konnten, haben die jüngsten Ereignisse gezeigt, dass selbst in einem demokratischen System eine starke Hand erforderlich ist, um die Institutionen vor radikalen Bedrohungen zu schützen. Als letzter Schritt zum Schutz des japanischen Parlamentarismus wird das Gesetz über die nationale Sicherheit geändert, um ein hartes Durchgreifen gegen jeden zu ermöglichen, der Japans nationales Wesen bedroht, angefangen natürlich bei bekannten Syndikalisten und Anarchisten."
+ 
  JAP_rebuild_public_faith: "Öffentliches Vertrauen wiederherstellen"
  JAP_rebuild_public_faith_desc: "Da das Land von Instabilität und wirtschaftlicher Not geplagt wird, ist es nicht verwunderlich, dass die Menschen das Vertrauen in das Establishment verloren haben. Wir müssen unbedingt daran arbeiten, die Unterstützung für die demokratische Institution wiederherzustellen, nicht durch Einschüchterung oder Zensur, sondern durch Diplomatie. Interviews in der Presse, die Einhaltung von Wahlversprechen und die Ermutigung gewählter Amtsträger, auf ihre Gemeinden zuzugehen, werden sicherstellen, dass mit der Zeit ein gesundes politisches Klima wiederhergestellt wird."
  JAP_rural_outreach: "Ländliche Öffentlichkeitsarbeit"
@@ -785,6 +741,7 @@
  JAP_elite_mediation_desc: "Um die Macht unserer Regierung wiederherzustellen, müssen wir irgendwo Verbündete finden. Glücklicherweise hat die Seiyūkai in ihren Reihen viele Männer mit guten Verbindungen zu den Reichen und Mächtigen Japans. Manche mögen es Klientelismus nennen, aber diese Leute sind Patrioten, die hart für die japanische Nation arbeiten und sicherlich dankbar sein werden, wenn wir ihnen einige Zugeständnisse machen."
  JAP_ties_to_the_zaibatsu: "Verbindungen zu den Zaibatsu"
  JAP_ties_to_the_zaibatsu_desc: "Wenn die japanische Industrie floriert, so ist dies zum großen Teil der Zaibatsu zu verdanken. Dank der Verbindungen, die viele von ihnen zu unserer Partei haben, können wir eine für beide Seiten vorteilhafte Beziehung pflegen, die uns Legitimität verschafft, während sich im Gegenzug unsere fortgesetzte Schirmherrschaft als vorteilhaft für das weitere Wachstum unserer Wirtschaft erweisen wird."
+ 
  JAP_reorganise_public_finance: "Neuordnung der öffentlichen Finanzen"
  JAP_reorganise_public_finance_desc: "Das so genannte "verlorene Jahrzehnt" forderte einen hohen Tribut von unseren Staatsfinanzen. Die Sparmaßnahmen führten zu einem Verlust an öffentlichen Mitteln für Investitionen und öffentliche Dienstleistungen. Von nun an werden wir versuchen, träge Industrien zu stützen, Krankenhäuser zu bauen und das verarbeitende Gewerbe im ganzen Land zu subventionieren."
  JAP_support_from_unions: "Unterstützung durch die Gewerkschaften"
@@ -793,6 +750,7 @@
  JAP_protection_for_tenants_desc: "Viele Landarbeiter auf dem japanischen Land sind nach wie vor landlos und können kaum über die Runden kommen. Eine gründliche Landreform wird zwar viel Zeit in Anspruch nehmen, aber wenn wir die Rechte der Landarbeiter schützen und sicherstellen, dass sie bei Streitigkeiten mit den Grundbesitzern angemessen unterstützt werden, können wir die Unterstützung eines Großteils der Landbevölkerung gewinnen."
  JAP_building_the_mass_party: "Aufbau der Massenpartei"
  JAP_building_the_mass_party_desc: "Mit ihrem jüngsten Popularitätsschub und ihrem erwiesenen diplomatischen Geschick wollen sich die Minseitō zu einer echten Massenpartei entwickeln. Im Gegensatz zu den korrupten und elitären Seiyūkai vertreten sie das einfache Volk Japans und nicht die korrupten Eliten, die dessen Rechte beschneiden wollen. Folglich werden die Verhandlungen über die Unterstützung anderer Organisationen und das Drängen auf einen größeren Aktivismus innerhalb der Partei zu ihrem weiteren Wachstum beitragen."
+ 
  JAP_parliamentary_socialism: "Parlamentarischer Sozialismus"
  JAP_parliamentary_socialism_desc: "Aus den Parlamentswahlen ist die Shakai Taishūtō als großer Sieger hervorgegangen, was von vielen als unglaubliche Überraschung bezeichnet wird. Die Partei versucht, die japanische Arbeiterklasse und die Bauernschaft zu vertreten, da das Land die Unterstützung der werktätigen Massen braucht. Von den Konservativen als reine Syndikalisten verunglimpft, ist ihr Ziel nur der Aufbau eines Japans für die vielen, nicht für die wenigen."
  JAP_utilise_the_peace_preservation_laws: "Nutzung der Gesetze zur Wahrung des Friedens"
@@ -805,6 +763,7 @@
  JAP_entrench_bureaucracy_desc: "Mit ihren Gewinnen bei den letzten Wahlen hat die Minseitō endlich genug Einfluss, um weitreichende Änderungen in der Verwaltung vorzunehmen. Viele Ämter, die von Konservativen besetzt sind, werden stattdessen mit Beamten aus unseren Reihen besetzt, die bereit sind, sich unermüdlich für das Gedeihen der Demokratie in Japan einzusetzen. Hoffentlich wird dies auch unseren Gegnern in der Seiyūkai einen schweren Schlag versetzen."
  JAP_primacy_of_the_diet: "Vorrang der Versammlung (Diäten)"
  JAP_primacy_of_the_diet_desc: "Japan kann stolz darauf sein, ein leuchtendes Beispiel für Demokratie in Asien zu sein, und um die Fackel des Liberalismus am Leben zu erhalten, müssen wir dafür sorgen, dass das Parlament das Herzstück der staatlichen Entscheidungsfindung bleibt. Die Beamten, denen die Japaner ihr Vertrauen schenken, müssen in der Lage sein, sie angemessen zu vertreten und dürfen nicht durch konservative Aristokraten oder eine aufgeblähte Bürokratie gefesselt werden."
+ 
  JAP_divert_funding_to_military: "Umleitung von Mitteln für das Militär"
  JAP_divert_funding_to_military_desc: "Obwohl das letzte Jahrzehnt größtenteils von wirtschaftlichen Schwierigkeiten geprägt war, kann man mit Sicherheit sagen, dass unsere Wirtschaft nun endlich wieder auf Kurs ist. Eines der ersten Dinge, die die siegreiche Seiyūkai tun wird, ist, einen größeren Teil des Haushalts für die Verteidigung bereitzustellen, um sicherzustellen, dass unser Platz als größte Macht in Ostasien für die nächsten Jahre gesichert ist."
  JAP_loosen_economic_regulations: "Wirtschaftliche Vorschriften lockern"
@@ -818,7 +777,7 @@
  JAP_dirigiste_economics: "Dirigistische Wirtschaft"
  JAP_dirigiste_economics_desc: "Während Japan auf der Weltbühne zu einer aufstrebenden Macht wird, ist klar geworden, dass es sich nicht darauf verlassen kann, dass andere auf dem Weltmarkt als ehrliche, dauerhafte Partner auftreten. Schlimmer noch, viele unserer eigenen Landsleute haben das Füllen ihrer eigenen Taschen über die Bedürfnisse der Nation gestellt. Um sicherzustellen, dass wir nie wieder den Launen des Marktes überlassen werden, ist ein hohes Maß an staatlichen Eingriffen in Industrie und Bankwesen erforderlich, damit die Wirtschaft wie eine gut geölte Maschine läuft."
 
-### Schwerpunkte - Politik - Zentralismus (NEW) ###
+### Focuses - Political - Centralism ###
  JAP_military_centralism: "Militärischer Zentralismus"
  JAP_military_centralism_desc: "Die Ära der Pöbelherrschaft ist vorbei, nie wieder werden hinterhältige Politiker unsere Nation zu ihrem eigenen Vorteil beeinflussen, jetzt wird Japan unter unserer Führung mit den Großmächten konkurrieren, die einst auf uns herabblickten."
  JAP_create_cabinet_planning_board: "Einrichtung des Kabinettsplanungsausschusses"
@@ -846,7 +805,7 @@
  JAP_national_defence_state: "Nationalistische Bildung"
  JAP_national_defence_state_desc: "Auch wenn die Armee viele ihrer Vorschläge durchgesetzt hat, so ist es doch eine Tatsache, dass Regierungen kommen und gehen, und unsere Fortschritte könnten in Zukunft wieder zunichte gemacht werden. Um uns gegen diese Möglichkeit abzusichern, werden wir eine politische Partei gründen, die das japanische Volk offiziell vereinigen und als Instrument dienen wird, um das Parlament auf Linie zu halten."
 
-### Schwerpunkte - Politik - Shōwa-Restauration (NEU) ###
+### Focuses - Political - Shōwa Restoration ###
  JAP_showa_restoration: "Die Shōwa Restauration"
  JAP_showa_restoration_desc: "With His Majesty officially sanctioning the coup, the restoration was a success! However, the groundwork has yet to be truly laid - taking power is one thing, but governance is another. The Restorationist factions are already bickering, and to ease the tension, Premier Konoe will ensure that the restorationist cause shall be a unifying one for all of Japan."
  JAP_destroy_degenerative_individualism: "Destroy Degenerative Individualism"
@@ -854,7 +813,7 @@
  JAP_eliminate_party_politics: "Eliminate Party Politics"
  JAP_eliminate_party_politics_desc: "We believe in the unity of thought and action, not the endless, divisive bickering that has brought ruin. The economy may grow and the state prospers, but it will mean nothing if the nation dies. Only the Restorationist cause can nurture life back to the nation."
 
- JAP_work_through_the_dojinkai: "Work through the Dōjinkai"
+ JAP_work_through_the_dojinkai: "Work Through the Dōjinkai"
  JAP_work_through_the_dojinkai_desc: "A political movement cannot live on words alone, and to ensure that ours doesn't end up as an ineffectual flash in the pan, we need to make make it clear to the businessmen, bureaucrats and career politicians who keep the country running that there is a place at the table for them.\n\nThankfully, the Shōwa Dōjinkai has been doing exactly that."
  JAP_one_country_one_party: "One Country, One Party"
  JAP_one_country_one_party_desc: "There is nothing more petty than provincial party politics. It would be much more efficient if we had a system in which all former political parties and their members were absorbed into the Taisei Yokusankai, even in the most remote villages."
@@ -864,7 +823,7 @@
  JAP_work_with_the_elite_desc: "The populist rhetoric of many in our coalition, calling for the curbing of the influence of businessmen and landlords and the wholesale nationalisation of industries, has alienated some of the most powerful and brightest men in our country. We must make it clear that their help is still needed in our efforts to build a new Japan."
  JAP_development_of_a_new_way: "Ein Neuer Weg"
  JAP_development_of_a_new_way_desc: "One effect of getting the who's who of Japan's business world in the same room is that they eventually realise that it's more efficient to work together than to compete. Collective petitions to get rid of this or that regulation, or to get so-and-so many more workers into their factories, are much more effective than the under-the-table bribery they are used to."
- JAP_continue_zaibatsu_ties: "A Favour between Friends"
+ JAP_continue_zaibatsu_ties: "A Favour Between Friends"
  JAP_continue_zaibatsu_ties_desc: "The Zaibatsu are key to maintaining Japan's continued growth, and their compliance should be proof enough of their goodwill. It is in the country's best interest that we continue this partnership and show willingness to make concessions to them, so long as they continue to support our endeavours.\n\nAfter all, what's a favour or two between friends?"
 
  JAP_appease_the_kodoha: "Appease the Kōdōha"
@@ -872,7 +831,7 @@
  JAP_shison_danran: "Shison Danran"
  JAP_shison_danran_desc: "Es gibt vor allem ein großes Fundament des japanischen Staates: die Beziehung zwischen dem Kaiser und seinen Untertanen, die auf königliche Weise organisiert ist. Diese Grundlage hat Japan seit mehr als tausend Jahren jeder anderen Nation überlegen gemacht, und sie wird es auch weiterhin tun."
  JAP_revere_imperial_power: "Revere Imperial Power"
- JAP_revere_imperial_power_desc: "The nation was always constrained by plotting bureaucrats and squabbling politicians who claimed to work in the Emperor's name, yet they only sought greed and to strengthen their own power to the detriment of His Majesty. Now that true partiots are in charge, it is time to restore power to who deserves it."
+ JAP_revere_imperial_power_desc: "The nation was always constrained by plotting bureaucrats and squabbling politicians who claimed to work in the Emperor's name, yet they only sought greed and to strengthen their own power to the detriment of His Majesty. Now that true patriots are in charge, it is time to restore power to who deserves it."
  JAP_enact_economic_controls: "Enact Economic Controls"
  JAP_enact_economic_controls_desc: "While industry has undeniably helped Japan become powerful, the domination of the private sector over our economy has had horrific side effects. The growth of an urbanite class, full of corrupt, American-inspired ideas aiming at curtailing the government's power, could outright jeopardise the future of Japan as a leading nation in the world. The Kōdōha pushes for curtailing capitalism's excesses, and instead focus our economy towards the war effort."
  JAP_colonial_investments: "Colonial Industry"
@@ -922,6 +881,7 @@
  JAP_build_new_aircraft_facilities_desc: "The aircraft industry is a vital part of national defence. As wars are likely do be decided in the air, our industry must be able to supply our pilots with many quality, home-built aircrafts. Building new aircraft factories will ensure our growing demands are met in the coming years."
  JAP_invest_in_heavy_industry: "Invest in Heavy Industry"
  JAP_invest_in_heavy_industry_desc: "For Japan to remain a competitive economic power, it is necessary that we invest further into large scale industrial projects. Said industrial projects will in turn allow us to adequately supply the state when it comes to defence."
+ 
  JAP_riken_north: "RIKEN North"
  JAP_riken_north_desc: "RIKEN North is the codename for a soon-to-be-established key facility in our Ni-Go Project, located in the Fukushima prefecture.\nThe Ni-Go Project is our top-secret endeavour in atomic research, aiming at separating uranium-235 by thermal diffusion.\nThe other facilities taking part in this project are at the Tokyo RIKEN complex and in Kōnan, Northern Korea."
  JAP_rocket_science: "Rocket Science"
@@ -941,7 +901,7 @@
  JAP_the_shinkansen_proposal: "The Shinkansen Proposal"
  JAP_the_shinkansen_proposal_desc: "It is time to enact the Shinkansen proposal: create a connect set of high speed railways then combine them with new steam and electric locomotives. These lines would be able to carry passengers and freight at speeds never seen before."
 
-### Focuses - Military ### (NEW)
+### Focuses - Military ###
  JAP_revise_imperial_defence_policy: "Revise Imperial Defense Policy"
  JAP_revise_imperial_defence_policy_desc: "Jakuniku Kyōshoku or 'Survival of the Fittest' is a fundamental understanding in our military philosophy; the Western imperialists have greatly expanded their air forces and navies and if we do not do the same we will surely fall victim to their forces. Factionalism in the army has remained and so our armed forces have been unable to reach their full potential, so deciding on our doctrine is of utmost importance."
  JAP_long_war_doctrine: "Long War Doctrine"
@@ -992,6 +952,8 @@
  JAP_expand_the_engineer_corps_desc: "Given the varied terrain we will be fighting in, combined with the often lacking infrastructure in Asia, the creation of a specialised engineer corps would be a great boon to our armed forces. We will put funds towards just such a unit."
  JAP_update_the_imperial_war_college: "Update the Imperial War College"
  JAP_update_the_imperial_war_college_desc: "The Army War College trains the very best of our country’s officer corps. Originally inspired by the Prussian Staff College, its instructional techniques have hardly changed in fifty years. It is time this revered institution has been brought up to modern standards."
+
+### Focuses - Navy ###
  JAP_start_the_third_circle_plan: "Start the Third Circle Plan"
  JAP_start_the_third_circle_plan_desc: "As we can't fight a prolonged war with the enemy, our only option is to continue with current naval build-up and focus on an ultimate victory in a decisive battle."
  JAP_expand_the_snlf: "Expand the SNLF"
@@ -1227,7 +1189,6 @@
  JAP_focus_on_range_capabilities: "Focus on Range Capabilities"
  JAP_the_air_war_of_future: "The Air War of the Future"
  JAP_install_island_defenses: "Install Island Defenses"
-
  JAP_create_the_coastal_security_force: "Create the Küstenschutztruppe"
  JAP_transport_ship_programme: "Transport Ship Programme"
  JAP_create_the_mine_warfare_force: "Create the Mine Warfare Force"
@@ -1235,6 +1196,10 @@
  JAP_organise_the_maritime_self_defense_force: "Organise the Maritime Selbstverteidigungskräfte"
 
 ### Co-Prosperity Sphere ###
+ KR_co_prosperity_sphere_desc_JAP: "Die §HOstasiatische Ko-Wohlstandssphäre§! ist ein wirtschaftliches und politisches Bündnis, das gemeinsam daran arbeitet, den Einfluss des westlichen Imperialismus in Asien zurückzudrängen. Als Anführer der ostasiatischen Ko-Wohlstandssphäre stellt Japan den Mitgliedern der Sphäre Investitionen, Technologien und Fachkräfte zur Verfügung, um deren Ressourcen auszubeuten und seinen politischen Einfluss zu festigen.\n\nDie derzeitigen Mitglieder der Ostasiatischen Ko-Wohlstandssphäre: §H[JAP.GetNameWithFlag]§!, [JAP_ally0][JAP_ally1][JAP_ally2][JAP_ally3][JAP_ally4][JAP_ally5][JAP_ally6][JAP_ally7][JAP_ally8][JAP_ally9][JAP_ally10][JAP_ally11][JAP_ally12][JAP_ally13][JAP_ally14]"
+ KR_co_prosperity_sphere_desc: "Die §HOstasiatische Ko-Wohlstandssphäre§! ist ein wirtschaftliches und politisches Bündnis, das gemeinsam daran arbeitet, den Einfluss des westlichen Imperialismus in Asien zurückzudrängen. Japan als ihr Anführer unterstützt die anderen Mitglieder wirtschaftlich, um den Preis der Ausbeutung seiner natürlichen Ressourcen und der Festigung seines politischen Einflusses.\n\nDie derzeitigen Mitglieder der Ostasiatische Ko-Wohlstandssphäre: §H[JAP.GetNameWithFlag]§!, [JAP_ally0][JAP_ally1][JAP_ally2][JAP_ally3][JAP_ally4][JAP_ally5][JAP_ally6][JAP_ally7][JAP_ally8][JAP_ally9][JAP_ally10][JAP_ally11][JAP_ally12][JAP_ally13][JAP_ally14]"
+
+ # Decisions
  JAP_co_prosperity_decisions: "Die japanische Ko-Wohlstandssphäre"
  JAP_co_prosperity_decisions_desc: "Unsere Nationale Allianz ist eine Allianz der Asiaten, die zusammenarbeiten, um den Einfluss des westlichen Imperialismus zu überwinden. Gemeinsam werden wir Erfolg haben, und Japan wird mit diesen Verbündeten, die uns immer weiter nach oben bringen, noch mehr Erfolg haben.\n\nDerzeitige Mitglieder unseres Wirtschaftsbereichs: [JAP_ally0][JAP_ally1][JAP_ally2][JAP_ally3][JAP_ally4][JAP_ally5][JAP_ally6][JAP_ally7][JAP_ally8][JAP_ally9][JAP_ally10][JAP_ally11][JAP_ally12][JAP_ally13][JAP_ally14]"
  JAP_invite_into_faction: "Laden Sie [From.GetNameDef] in unsere Allianz ein"
@@ -1269,40 +1234,56 @@
  JAP_nationalize_japanese_investments: "Verstaatlichung japanischer Investitionen"
  JAP_nationalize_japanese_investments_desc: "Die wachsende Präsenz japanischer Investoren in [Root.GetNameDef] gibt Anlass zu großer Sorge. Obwohl der Preis dafür hoch sein wird und wir uns auch vollständig aus der japanischen Wirtschaft zurückziehen müssen, sollten wir ihre Investitionen verstaatlichen und verhindern, dass sie ihre Kontrolle über die Wirtschaft von [Root.GetAdjective] so weit ausdehnen, dass wir nur noch eine Marionette für ihre Interessen werden."
 
+ # Ideas
+ JAP_rising_sun_idea: "Kaiserlicher Ruhm"
+ JAP_rising_sun_idea_desc: "Japan hat nicht immer den Respekt erhalten, der ihm gebührt. In den letzten 30 Jahren hat sich zwar einiges geändert, aber vieles ist gleich geblieben. Vor diesem Hintergrund vertrauen wir darauf, dass jeder Bürger seine patriotische Pflicht erfüllen wird; niemand wird uns aufhalten.\n\nWir sind die mächtigste Nation in Asien, und die Früchte des Krieges sollten uns gehören und nur uns."
+ 
+ JAP_asian_economic_sphere: "Asiatische Ko-Wohlstandssphäre"
+ JAP_asian_economic_sphere_desc: "Dies entspricht dem Gesamtimpuls, den unsere zentrale Stellung innerhalb der Ko-Wohlstandssphäre für unsere Wirtschaft bedeutet. Je mehr Mitglieder wir aufnehmen und je größer deren Industrie ist, desto besser geht es uns."
+ JAP_asian_economic_sphere_member: "Asiatische Ko-Wohlstandssphäre"
+ JAP_asian_economic_sphere_member_desc: "Dies entspricht dem Gesamtimpuls, den unsere Mitgliedschaft in der Asiatischen Ko-Wohlstandssphäre Japans für unsere Wirtschaft bedeutet. Je mehr Mitglieder in der Sphäre sind und je größer ihre kollektive Industrie ist, desto besser geht es uns allen."
+
+ JAP_member_integration_1: "Wirtschaftliche Durchdringung: Niedrig"
+ JAP_member_integration_1_desc: "Die japanischen Investitionen in unserem Land sind eine gewaltige Kraft, die dazu beiträgt, unser Wirtschaftswachstum anzukurbeln ... aber je mehr sich ihr Einfluss ausbreitet, desto mehr werden wir den Bedürfnissen ihrer ständig wachsenden Wirtschaft unterworfen."
+ JAP_member_integration_2: "Wirtschaftliche Durchdringung: Mäßig"
+ JAP_member_integration_2_desc: "Die japanischen Investitionen in unserem Land sind eine gewaltige Kraft, die dazu beiträgt, unser Wirtschaftswachstum anzukurbeln ... aber je mehr sich ihr Einfluss ausbreitet, desto mehr werden wir den Bedürfnissen ihrer ständig wachsenden Wirtschaft unterworfen."
+ JAP_member_integration_3: "Wirtschaftliche Durchdringung: Hoch"
+ JAP_member_integration_3_desc: "Die japanischen Investitionen in unserem Land sind eine gewaltige Kraft, die dazu beiträgt, unser Wirtschaftswachstum anzukurbeln ... aber je mehr sich ihr Einfluss ausbreitet, desto mehr werden wir den Bedürfnissen ihrer ständig wachsenden Wirtschaft unterworfen."
+
+ JAP_india_support: "Japanische Berater"
+ JAP_trade_embargoed: "Japanisches Embargo"
+ JAP_nav_tra_idea: "Wohlfahrtsschiffe"
+
+ # Tooltips
  JAP_member_of_co_prosperity_sphere: "Wird Mitglied der §HOst-Asiatischen Ko-Wohlstandssphäre§!\n     $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?0.2|+=%]\n     Ressourcengewinn-Effizienz: [?global.sphere_resources_boost_member|+=%]\n     $MODIFIER_CONSUMER_GOODS_FACTOR$: [?global.sphere_goods_boost_member|=%1H]"
 
  KR_co_prosperity_sphere_tooltip: "[GetCoProsperitySphereName]\n[GetCoProsperitySphereEffects]"
  KR_co_prosperity_sphere_tooltip_desc: "[GetCoProsperitySphereDesc]§!"
 
- KR_co_prosperity_sphere_name_JAP: "Anführer der §HOst-Asiatischen Ko-Wohlstandssphäre§!"
- KR_co_prosperity_sphere_name: "Mitglied der §HOst-Asiatischen Ko-Wohlstandssphäre§!"
-
- KR_co_prosperity_sphere_desc_JAP: "Die §HOstasiatische Ko-Wohlstandssphäre§! ist ein wirtschaftliches und politisches Bündnis, das gemeinsam daran arbeitet, den Einfluss des westlichen Imperialismus in Asien zurückzudrängen. Als Anführer der ostasiatischen Ko-Wohlstandssphäre stellt Japan den Mitgliedern der Sphäre Investitionen, Technologien und Fachkräfte zur Verfügung, um deren Ressourcen auszubeuten und seinen politischen Einfluss zu festigen.\n\nDie derzeitigen Mitglieder der Ostasiatischen Ko-Wohlstandssphäre: §H[JAP.GetNameWithFlag]§!, [JAP_ally0][JAP_ally1][JAP_ally2][JAP_ally3][JAP_ally4][JAP_ally5][JAP_ally6][JAP_ally7][JAP_ally8][JAP_ally9][JAP_ally10][JAP_ally11][JAP_ally12][JAP_ally13][JAP_ally14]"
- KR_co_prosperity_sphere_desc: "Die §HOstasiatische Ko-Wohlstandssphäre§! ist ein wirtschaftliches und politisches Bündnis, das gemeinsam daran arbeitet, den Einfluss des westlichen Imperialismus in Asien zurückzudrängen. Japan als ihr Anführer unterstützt die anderen Mitglieder wirtschaftlich, um den Preis der Ausbeutung seiner natürlichen Ressourcen und der Festigung seines politischen Einflusses.\n\nDie derzeitigen Mitglieder der Ostasiatische Ko-Wohlstandssphäre: §H[JAP.GetNameWithFlag]§!, [JAP_ally0][JAP_ally1][JAP_ally2][JAP_ally3][JAP_ally4][JAP_ally5][JAP_ally6][JAP_ally7][JAP_ally8][JAP_ally9][JAP_ally10][JAP_ally11][JAP_ally12][JAP_ally13][JAP_ally14]"
-
  KR_co_prosperity_sphere_effects_JAP: "$MODIFIER_CONSUMER_GOODS_FACTOR$: [?global.sphere_goods_boost|=%H]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?global.sphere_industry_boost|+=%]\nn$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: [?global.sphere_industry_boost|+=%]"
  KR_co_prosperity_sphere_effects: "$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?0.2|+=%]\nRessourcengewinn-Effizienz: [?global.sphere_resources_boost_member|+=%]\nn$MODIFIER_CONSUMER_GOODS_FACTOR$: [?global.sphere_goods_boost_member|=%1H]"
 
- ### Economy ###
- JAP_economy_cat: "The Japanese Economy"
- JAP_support_yokohama_auto_industries: "Support Yokohama Auto Industries"
- JAP_support_ota_jidosha: "Support Ota Jidosha"
- JAP_support_kurasiki_kensyoku: "Support Kurasiki Kensyoku"
- JAP_support_mitsubishi: "Support Mitsubishi"
- JAP_subisidies_for_nakajima: "Subsidies for Nakajima"
- JAP_support_nippon_soda: "Support Nippon Sōda"
- JAP_aid_for_chugoku_arms_industries: "Aid for Chūgoku Arms Industry"
- JAP_support_nissan: "Support Nissan"
- JAP_industrial_partnership_with_sumitomo: "Industrial Partnership with Sumitomo"
- JAP_support_nichitsu_expansion: "Sponsor Nichitsu Expansion in Korea"
- JAP_back_isuzu: "Back Isuzu APC Projects"
- JAP_fund_nec_plant: "Fund Nippon Electric Research Plant"
- JAP_invest_in_mitsui: "Invest in Mitsui"
- JAP_aid_toyo_rayon: "Aid Toyo Rayon"
- JAP_kawasaki_aircraft_plant: "Construct Kawasaki Aircraft Plant"
+ KR_co_prosperity_sphere_name_JAP: "Anführer der §HOst-Asiatischen Ko-Wohlstandssphäre§!"
+ KR_co_prosperity_sphere_name: "Mitglied der §HOst-Asiatischen Ko-Wohlstandssphäre§!"
+
+ JAP_may_now_invite_sphere: "Blockfreie und unterworfene ostasiatische Staaten können nun in Japans wirtschaftliche Einflusssphäre eingeladen werden\n"
+ JAP_may_now_invest_sphere: "Kann nun Entscheidungen zur Förderung von Investitionen in Sphärenmitgliedern treffen, was mit der Zeit zu einer japanischen Kontrolle über das Land führen kann.\n"
+ JAP_withdraws_from_sphere: "§Y[Root.GetNameDefCap]§! wird sich aus dem japanischen Wirtschaftsraum zurückziehen\n"
+ JAP_THIS_withdraws_from_sphere: "§Y[This.GetNameDefCap]§! wird sich aus dem japanischen Wirtschaftsraum zurückziehen\n"
+ JAP_not_member_of_sphere: "ist nicht Mitglied der wirtschaftlichen Ko-Wohlstandssphäre Japans"
+ JAP_member_of_sphere: "ist Mitglied in Japans wirtschaftlicher Ko-Wohlstandssphäre"
+ 
+ JAP_tokyo_conference_tt: "Durch Auswahl dieses Schwerpunkts wird die Ereigniskette der Tokio-Konferenz gestartet.""
+ JAP_80_chance_of_agreeing_tt: "Die Teilnehmer werden §Gwahrscheinlich§! zustimmen."
+ JAP_95_chance_of_agreeing_tt: "Die Teilnehmer werden §Gsehr wahrscheinlich§! zustimmen."
+ JAP_100_chance_of_agreeing_tt: "Die Teilnehmer werden §Ggewiss§! zustimmen."
+ JAP_nerf_copro_bonuses_tt: "Unsere wirtschaftlichen Boni aus der Ko-Wohlstandssphäre werden um §H10%§! reduziert, und die unserer Mitglieder werden um den gleichen Betrag erhöht."
+ JAP_harder_eco_int_tt: "£decision_icon_small §Investitionen förden§! und £decision_icon_small §HÜbernahme§! Entscheidungen erhöhen die Kosten."
+
+ JAP_AST_joins_sphere: "§Y[AST.GetNameDef]§! wird dem japanischen Wirtschaftsraum beitreten\n"
+ AST_has_ties_with_japan: "unterhält Beziehungen zu Japan"
 
 ### Intro Screen ###
-
  JAP_country_intro_header: "Das verlorene Jahrzehnt hinter sich lassen"
  JAP_country_intro_content: "Die 1920er Jahre waren in Japan von wirtschaftlicher Depression und politischer Instabilität geprägt und werden als das "verlorene Jahrzehnt" bezeichnet. Die Notlage war in der Landwirtschaft besonders groß und führte zu einem massiven demografischen Wandel, da die Landwirte aus den ländlichen Gebieten in die Städte flohen, was den Arbeitsmarkt überschwemmte und die Löhne weiter drückte.\n\nNachdem Inukai die von der Kenseikai geführte "Konstitutionelle Koalition" verlassen und die Regierung übernommen hatte, dehnten er und sein Kabinett den japanischen Einflussbereich erfolgreich auf die Mandschurei und die Randgebiete Sibiriens aus und erwarben damit einen wichtigen Exportmarkt für die japanische Wirtschaft, doch die Lage in der Landwirtschaft verschlechterte sich weiter, da billige Agrarimporte aus der Mandschurei auf das Land übergriffen. Zu Beginn des Jahres 1936 haben die fortgesetzte Wiederaufrüstung und die Investitionen des Staates die industrielle Wirtschaft vollständig wieder aufgebaut, doch das Problem der ländlichen Armut bleibt chronisch und ungelöst."
  japdom.1.a: "Gaman shiyou."
@@ -1310,7 +1291,6 @@
  JAP_guide: "§MWahlrechtsreform§! (§mMarktliberale§!/ §cSozialkonservative§!/ §SSozialdemokraten§!/ §gAutoritär Demokratisch§!)\n£white_dot Setzen Sie das Gesetz über die nationale Sicherheit durch.\n£white_dot Wenn die §cSeiyūkai§! bei der Wahl 1936 ihre Mehrheit behalten hat, wird der Kaiser sie immer unterstützen, andernfalls muss man \"Er ist aus der Reihe getanzt!\" wählen, wenn er sich weigert, die Regierung zu unterstützen. \n£white_dot Wenn die §cSeiyūkai§! ihre Mehrheit im Parlament verloren hat, können sich die Parteien vorübergehend bis zur nächsten Wahl unter der §gRegierung der Nationalen Einheit§! zusammenschließen, andernfalls kommt es zu vorgezogenen Neuwahlen, bei denen die §cSeiyūkai§! oder die §mMinseitō§! gewinnen können.\n£white_dot Bei zukünftigen Wahlen können Sie auch zwischen der Wahl von §gKokumin Dōmei§! oder §SShakai Taishūtō§! wählen.\n\n§MZentralistische Machtübernahme§! (§PPaternal Autokraten§!)\n£white_dot Wenn die §cSeiyūkai§! bei den Wahlen von 1936 ihre Mehrheit verlieren und das Nationale Sicherheitsgesetz durchgesetzt wird, kann das Militär einen Putschversuch unternehmen.\n£white_dot Wenn sich der Kaiser zum Nationalen Sicherheitsgesetz äußert, entscheiden Sie sich gegen die Regierung, was einen Militärputsch auslöst, der dazu führt, dass die §PIJA - Zentralisten§! die Macht ergreifen.\n\n§MRestaurationistischer Putsch - Hirohito§! (§NNationale Populisten§!)\n£white_dot Wenn das Nationale Sicherheitsgesetz abgelehnt wird, wird das Militär die Regierung putschen und als §PIJA - Zentralisten§! vorübergehend die Macht übernehmen.\n£white_dot Bald darauf werden die radikaleren Elemente der Armee einen Gegenputsch starten, was dazu führt, dass stattdessen die §NIJA - Restaurationisten§! die Macht übernehmen.\n\n"
 
 ### Events ###
-
  japdom.2.t: "Auflösung des Reichstags"
  japdom.2.d: "Die vierjährige Amtszeit des 1932 gewählten Reichstags läuft aus. Premierminister Inukai Tsuyoshi hat dazu aufgerufen, so bald wie möglich allgemeine Wahlen abzuhalten."
  japdom.2.a: "Nun gut."
@@ -1437,10 +1417,6 @@
  japdom.34.t: "Die Regierung der nationalen Einheit zerbricht"
  japdom.34.d: "Obwohl sie ursprünglich gebildet wurde, um der parlamentarischen Politik ein starkes Gesicht zu geben, das sie sowohl der Armee als auch dem Volk präsentieren konnte, war von Anfang an klar, dass die Hauptnutznießer der Regierung der Nationalen Einheit die gegen den Mainstream gerichteten Fraktionen von Adachi und Nakajima der Minseitō bzw. Seiyūkai sein würden. In den letzten Jahren haben die Spannungen zwischen den beiden Parteien immer mehr zugenommen. Die Koalition ist zerbrochen, Adachi und Kuhara haben ihre Parteien verlassen, um die neue Kokumin Dōmei (Nationale Allianz) zu gründen, während die konservativen Fraktionen der Minseitō und Seiyūkai wieder die Kontrolle übernommen haben."
  japdom.34.a: "Es ist an der Zeit, unseren eigenen Weg zu finden"
-
- japdom.35.t: "Der Kabinettsplanungsausschuss" ### Unbenutzt
- japdom.35.d: "Angesichts der Rezession des Schwarzen Montags und der allgemeinen wirtschaftlichen und politischen Turbulenzen, die die japanischen Exportmärkte im Pazifik bedrohen, hat die Regierung begonnen, ihre Wirtschaftspolitik zu überprüfen. Wir exportieren hauptsächlich Rohseide und andere Konsumgüter - unsere Industriegüter sind im Vergleich zu den meisten westlichen Ländern immer noch unzureichend. Es wurden verschiedene Maßnahmen zur Verbesserung der Situation vorgeschlagen, und es wurde ein Kabinettsplanungsausschuss (Kikakuin) eingerichtet, der die künftige Wirtschaftspolitik untersuchen und planen soll."
- japdom.35.a: "Gut."
 
  japdom.45.t: "Der Vorfall an der Volksfront"
  japdom.45.d: "446 linke Akademiker, Intellektuelle und Politiker (darunter zwei amtierende Landtagsabgeordnete) wurden heute verhaftet und nach dem Nationalen Sicherheitsgesetz angeklagt. Allen wurde vorgeworfen, eine "Volksfront" zu organisieren und die Kokutai zu bedrohen."
@@ -1810,46 +1786,6 @@
  japfor.92.d: "Eine schockierende Erklärung kam von [FROM.GetNameDef]. Angeblich besorgt über die "aggressiven Handlungen" gegenüber [LEC.GetNameDef] hat der [FROM.GetAdjective]-Außenminister unsere jüngsten Schritte verurteilt und erklärt, dass die Verpflichtungen seiner Nation gegenüber Shanghai nicht ignoriert werden. Gegen jede Vernunft ist [FROM.GetNameDef] bereit, für die Verteidigung von [LEC.GetNameDef] zu kämpfen."
  japfor.92.a: "Sie bekommen ihren Krieg."
 
- japfor.176.t: "Japanische Forderungen"
- japfor.176.d.HOL: "Das japanische Konsulat hat sich heute Morgen mit einer einfachen Forderung an uns gewandt: Übergebt die ostindischen Inseln oder tragt die Konsequenzen. Wir haben keine Möglichkeit, ihren Flotten allein entgegenzutreten, was können wir denn tun?"
- japfor.176.d.INS: "We have received a message from the Japanese demanding our full surrender to their armed forces and transfer of administration of our territories to their military high command. We've received reports their navy is being deployed to our shores. There is no way we can fight them off on our own, what should we do?"
- japfor.176.a: "Bitten Sie den Kaiser, uns zu helfen!"
- japfor.176.b: "Ignorieren Sie die Forderungen! Wir können es mit ihnen aufnehmen!"
- japfor.176.c: "Erfüllen Sie ihre Forderungen!"
-
- japfor.177.t: "[FROM.GetNameDefCap] Bittet um Hilfe!"
- japfor.177.d.HOL: "Letzte Woche haben die Japaner [FROM.GetNameDefCap] aufgefordert, ihnen die Ostindischen Inseln zu überlassen. Die [FROM.GetAdjective] sind zu uns gekommen und haben uns angefleht, sie vor der japanischen Aggression zu schützen. Sollten die Japaner bekommen, was sie wollen, kaemen sie unseren Bestaenden in Malaya und Papua-Neuguinea gefaehrlich nahe. Was sollten wir tun?"
- japfor.177.d.INS: "Last week the Japanese have demanded [FROM.GetNameDefCap] fully capitulate to them in formal annexation. The [FROM.GetAdjective] ambassador have come begging to us to protect them from the Japanese aggression. Should the Japanese get what they want they would be dangerously close to our holdings in Malaya and Papua new Guinea. What should we do?"
- japfor.177.a: "Wir stehen zu unseren [FROM.GetAdjective] Brüdern!"
- japfor.177.b: "Wir können es uns nicht leisten, die Japaner zu verärgern."
-
- japfor.178.t: "Deutschland setzt auf die Niederlande!"
- japfor.178.d: "[FROM.GetNameDefCap] sind zu den Deutschen gerannt, um Schutz zu suchen, und sind nun Teil ihrer Allianz. Diese Frechheit kann nicht ungestraft bleiben!"
- japfor.178.a: "Wir werden sie beide vernichten!"
- japfor.178.b: "Vorerst wieder zurück."
-
- japfor.179.t: "Die Japaner geben nach!"
- japfor.179.d: "Nach der Kriegsdrohung gegen das Deutsche Reich sind die feigen Japaner mit ihren Forderungen zurückgerudert. Dies ist ein glorreicher Sieg für den gesamten Reichspakt!"
- japfor.179.a: "Hurra!"
-
- japfor.180.t: "Die Deutschen weigern sich!"
- japfor.180.d: "Trotz unserer verzweifelten Hilferufe haben sich die Deutschen geweigert, uns vor Japan zu schützen. Wir stehen nun allein gegen die Macht des japanischen Kaiserreichs. Was sollen wir tun?"
- japfor.180.a: "Wir müssen uns ergeben."
- japfor.180.b: "Wir müssen kämpfen!"
-
- japfor.181.t: "[FROM.GetNameDefCap] knickt ein!"
- japfor.181.d: "Die bedauernswerte [FROM.GetAdjective] Regierung ist vor unseren glorreichen Armeen eingeknickt und hat sich unseren Forderungen ergeben! Insulindia steht nun unter unserer vollen Kontrolle, und die Ablösung des Kolonialregimes hat begonnen."
- japfor.181.a: "Banzai!"
-
- japfor.182.t: "[FROM.GetNameDefCap] Widersteht!"
- japfor.182.d: "Die unverschämte [FROM.GetAdjective] Regierung hat unsere Forderungen abgelehnt und bereitet sich nun darauf vor, unseren mächtigen Armeen allein gegenüberzutreten! Wir müssen unsere Seestreitkräfte aussenden und sie an ihren Platz zurückweisen!"
- japfor.182.a: "Vernichtet sie!"
- japfor.182.b: "Eigentlich war es nicht unsere Absicht, in den Krieg zu ziehen..."
-
- japfor.183.t: "Die Japaner geben nach!"
- japfor.183.d: "Ein Wunder ist geschehen! Die Japaner, aufgeschreckt durch unsere unnachgiebige Weigerung, haben beschlossen, ihre Forderungen zurückzuziehen und uns in Ruhe zu lassen! Das ist ein Grund zum Feiern!"
- japfor.183.a: "Hurra!"
-
  japfor.200.t: "Die Deutschen bitten um Frieden!"
  japfor.200.d: "Überwältigt von unserer überlegenen Armee kommen die Deutschen zu uns und betteln um Frieden. Sie bieten uns ganz Inselindien und einige ihrer eigenen Kolonien als Gegenleistung an. Wie sollen wir darauf reagieren?"
 
@@ -1975,7 +1911,6 @@
  japfor.252.a: "Die Sonne ist verblasst."
  
 # Involving Anqing #
-
  japfor.257.t: "Anqing und Fengtian bitten uns um Hilfe"
  japfor.257.d: "Die Anqing-Clique, die vor kurzem dank unserer Hilfe einen Sieg gegen die Liga errungen hat, hat uns um Hilfe gebeten. Die Regierung von Fengtian hat sich verpflichtet, Anqing beim Wiederaufbau zu unterstützen, in der Hoffnung, dass sie dadurch überzeugt werden kann, sich am Rückeroberungskrieg zu beteiligen, um Peking zurückzuerobern. Wenn wir uns ebenfalls engagieren, wird dies sicherlich ihre Chancen verbessern."
  japfor.257.a: "Wir werden Ressourcen bereitstellen."
@@ -1998,7 +1933,6 @@
  japfor.261.a: "Nun, das war sinnlos."
 
 ### New Foreign Policy Events ###
-
  japfor.316.t: "Japaner auf dem Weg in den Pazifik"
  japfor.316.d: "Der japanische Botschafter betrat in aller Ruhe das Büro von [Root.GetLeader] mit einem Telegramm. Eine japanische Flotte ist nach Hawaii entsandt worden und wird in wenigen Stunden landen, um einen "Sicherheitskordon" zu errichten.  Er hat erklärt, dass es im besten Interesse der Völker des Pazifiks sei, dass sich die Instabilität, das in Amerika herrscht, nicht über seine Grenzen hinaus ausbreitet, und dass die Japaner die Initiative ergreifen werden, um Stabilität und Frieden zu schaffen. Er sagt, er hoffe, dass Amerika im Interesse des Friedens auf der anderen Seite des Ozeans kooperieren werde, und lädt uns ein, Vertreter zu entsenden, um einen friedlichen Machtwechsel zu gewährleisten Dieser unverhohlene Machtmissbrauch ist nicht unbemerkt geblieben, aber angesichts der gegenwärtigen Unruhen in Amerika stellen unsere führenden Offiziere die Fähigkeit der Garnison in Honolulu in Frage, die Invasionstruppe aufzuhalten. Die Falken im Kabinett beharren darauf, dass die interne Situation nicht lange anhalten wird und dass unsere Männer durchhalten können, bis Verstärkung eintrifft. Und dass die Japaner angesichts des amerikanischen Vertrauens wahrscheinlich nachgeben würden. Andere haben zur Ruhe aufgerufen und hoffen, [Root.GetLeader] davon zu überzeugen, mit der Rache zu warten, bis Amerika stabilisiert ist. Es ist nun Sache des Präsidenten zu entscheiden, ob er unsere pazifischen Garnisonen anweist, sich zurückzuziehen oder nicht. Es ist klar, dass seine Entscheidung sehr wohl die Zukunft der Gewässer beeinflussen kann."
  japfor.316.a: "Wir werden zurückkehren..."
@@ -2115,10 +2049,6 @@
  japfor.453.d: "Die feige [From.GetAdjective]-Regierung hat beschlossen, auf unser Embargo nicht zu reagieren. Sie beabsichtigt, es einfach zu ertragen. Wenn wir sie in einen Krieg verwickeln wollen, müssen wir das auf die harte Tour tun."
  japfor.453.a: "So sei es!"
 
- japfor.454.t: "Japan bereitet sich auf einen Angriff vor"
- japfor.454.d: "Die immer häufigeren Berichte aus Tokio, Yokohama und Nagasaki zeichnen ein beunruhigendes Bild: Pläne werden geschmiedet, Schiffe ausgerüstet und Munition gelagert. Dies sind die Vorbereitungen für einen Krieg. In wenigen Wochen könnten wir mit der ganzen Macht des kaiserlichen japanischen Militärs konfrontiert werden."
- japfor.454.a: "Wir haben nur wenig Zeit zur Vorbereitung"
-
  japfor.455.t: "Japan scheint einen Angriff zu planen"
  japfor.455.d: "Wir haben Informationen erhalten, die darauf hindeuten, dass Japan versucht, unsere Kolonie in Niederländisch-Ostindien zu erobern. Unsere Militärexperten warnen, dass wir angesichts des vergleichbaren Zustands der japanischen und der Regierungsflotte sowie der Größe des japanischen Militärs möglicherweise nicht in der Lage sind, eine solche Invasion abzuwehren.\n\nSie schlagen vor, dass wir zum Kaiser gehen und ihn um Hilfe bitten: Ihr Interesse, den Status quo zu erhalten, deckt sich mit dem unseren, und eine japanische Übernahme würde auch ihre Besitztümer bedrohen. Dies könnte unsere beste Chance sein, unseren kolonialen Besitz zu erhalten."
  japfor.455.a: "Nachricht Berlin!"
@@ -2224,20 +2154,6 @@
  japfor.471.a: "Beunruhigend."
 
 ### Fengtian Events ###
- japfeng.1.t: "Unser Einfluss in der Mandschurei" ### Nicht benutzt
- japfeng.1.d: "Seit vielen Jahren arbeiten wir daran, die Kontrolle über die Mandschurei und auf lange Sicht über ganz China zu erlangen, und zwar mit Hilfe einer Gruppe panasiatischer Interessen, die als Concordia Association bekannt ist. Dabei handelt es sich um eine politische Partei, die versucht, pro-japanische Ansichten in [FNG.GetNameDef] zu fördern und [FNG.GetLeader] unterwürfig zu halten. Langfristig zielt sie darauf ab, die wirtschaftliche Kontrolle Japans über die Mandschurei in Zusammenarbeit mit Mantetsu weiter auszudehnen und auch China langsam in unsere Umlaufbahn zu bringen.\n\nNeben der Politik der zivilen Behörden der Mandschurei steht unser eigenes Militär, die notorisch ehrgeizige Kwantung-Armee. Seit Jahrzehnten versucht die Armee, die Mandschurei zu erobern und zu annektieren, und ihre bevorzugten Methoden und ihre Geduld bei der Zusammenarbeit mit Leuten wie [FNG.GetLeader] sind berüchtigt brutal bzw. gering.\n\nIn letzter Zeit haben sich die politischen Ziele der Regierung geändert, und die Kriegssituation, in der wir uns befinden, macht die politische Unabhängigkeit von [FNG.GetNameDef] immer weniger geeignet, da bestimmte Verbündete immer wertvoller werden.\n\nWir stehen vor der Wahl: Vertrauen wir auf die Concordia Association und die Soft Power, die sie stetig aufgebaut hat, oder lassen wir die Armee von der Leine und bringen Zhang mit allen Mitteln zu Fall?"
- japfeng.1.a: "Wenn der Vogel nicht singen will..."
-
- japfeng.2.t: "Eine grundlegende Veränderung..." ### Nicht benutzt
- japfeng.2.d: "Auf den ersten Blick ist es schwer zu erkennen: Kälte der Beamten, knappe diplomatische Mitteilungen, verstärkte Aktivitäten der Kwantung-Garnison, aber kein wirklicher Hinweis darauf, was sie vorhaben. Alles deutet darauf hin, dass sich in der japanischen Regierung etwas tut, das für uns nichts Gutes verheißt. Hoffen wir, dass wir die Kraft haben, diesen kommenden Sturm zu überstehen."
- japfeng.2.a: "China kann nicht ewig nach ihrer Pfeife tanzen."
-
- japfeng.3.t: "Drängen auf Entscheidung" ### Nicht benutzt
- japfeng.3.d: "Es ist an der Zeit, eine Entscheidung zu treffen: Welche Absichten verfolgen wir gegenüber der Regierung Fengtian, die wir so lange unterstützt haben? Ihre Loyalität uns gegenüber war immer zweifelhaft. Was werden wir mit ihr machen?"
- japfeng.3.a: "... zerstören."
- japfeng.3.b: "... überreden."
- japfeng.3.c: "... warten Sie ab."
-
  japfeng.4.t: "Japan startet die Operation Ichi-gō"
  japfeng.4.d: "Heute morgen verkündete der Leiter der japanischen Militärmission in unserem Land, dass sich die nominelle chinesische Regierung im Kriegszustand befindet, was bedeutet, dass Japan im Begriff ist, eine aktive Rolle in der instabilen politischen Sphäre Chinas zu spielen. Da die Kwantung-Armee in der Mandschurei operiert und japanische Interessen verteidigt, wurde unsere Regierung angewiesen, sofortige Maßnahmen zu ergreifen, um sicherzustellen, dass der japanische Bedarf an Nachschub und militärischen Mitteln gedeckt wird.\n\nAußerdem sollen wir uns an Japans Krieg gegen China beteiligen. Die japanische Regierung hat sich über ihre Auswirkungen auf die japanischen Pläne in Bezug auf China nur vage geäußert, aber sie hat uns eingeladen, sich an ihrer Großasiatischen Allianz zu beteiligen. Um den Frieden und die Sicherheit in Asien zu fördern und zu verhindern, dass die westlichen Imperialisten China weiter ausnutzen, hat Japan uns aufgefordert, uns dem Kampf gegen die chinesische Regierung anzuschließen. Das bedeutet zwar, dass wir gemeinsam mit den Japanern gegen unsere chinesischen Landsleute kämpfen werden, aber angesichts der Präsenz und der Bedrohung durch Japan in unserer Nähe haben wir wohl keine andere Wahl."
  japfeng.4.a: "Sehr gut."
@@ -2282,17 +2198,11 @@
  
  JAP_takamatsu_nobuhito: "Takamatsu Nobuhito"
 
- JAP_regent_trait: "Sesshō\n§LAfter Hirohito's forced abdication, Prince Takamatasu was named to act on behalf of Crown Prince Akihito until the latter becomes of age.§!"
-
  JAP_hirohito: "Hirohito"
  JAP_hirohito_leader_desc: "§YLeader Description§!\n§YBorn:§! April 29th, 1901, in Tōgū Palace, Aoyama, Tokyo, Empire of Japan\n§YPolitical Career:§! Entrusted with the duties befitting of Tenno, Hirohito assumed the throne after his father died on December 25th 1926, reigning as the 124th emperor to sit the Chrysanthemum throne. Prior to this, the then prince regent was almost met with a terrible fate when he was nearly assassinated following the failed anarchist uprising of 1923, which sought to emulate those occuring in Europe. This traumatic experience left a deep scar within Hirohito and he will not easily forgive anyone who would try to lead Japan astray. Hirohito is a strong and stern man who will not shy away from ensuring that his nation of Japan is guided into a bright future under his reign. However, with the rise of tension internally and externally, it is uncertain as to what will aid in leading Japan to glory and greatness."
  JAP_hirohito_defeat_desc: "§YLeader Description§!\n§YBorn:§! April 29th, 1901, in Tōgū Palace, Aoyama, Tokyo, Empire of Japan\n§YPolitical Career:§! Entrusted with the duties befitting of Tenno, Hirohito assumed the throne after his father died on December 25th 1926, reigning as the 124th emperor to sit the Chrysanthemum throne. Prior to this, the then prince regent was almost met with a terrible fate when he was nearly assassinated following the failed anarchist uprising of 1923, which sought to emulate those occuring in Europe. This traumatic experience left a deep scar within Hirohito and he will not easily forgive anyone who would try to lead Japan astray. Hirohito is a strong and stern man who will not shy away from ensuring that his nation of Japan is guided into a bright future under his reign.\n\nIt would appear that harsh and uncertain times have befallen the once formerly great Japanese power. Once regarded as the strongest naval power in all of East Asia, one worthy of competing with the Kaiserliche Marine, the Japanese Empire's daring ambition would soon prove to be their downfall. After a victorious land and sea campagin by their enemy forces, Japan has become completely occupied for the first time in its history. While Hirohito continues to remain the nominal head of state and the Emperor of the Japanese people, only time will tell whether or not this arrangement is permanent."
-
  JAP_hirohito_symbol_desc: "§YLeader Description§!\n§YBorn:§! April 29th, 1901, in Tōgū Palace, Aoyama, Tokyo, Empire of Japan\n§YPolitical Career:§! Entrusted with the duties befitting of Tenno, Hirohito assumed the throne after his father died on December 25th 1926, reigning as the 124th emperor to sit the Chrysanthemum throne. Prior to this, the then prince regent was almost met with a terrible fate when he was nearly assassinated following the failed anarchist uprising of 1923, which sought to emulate those occuring in Europe. This traumatic experience left a deep scar within Hirohito and he will not easily forgive anyone who would try to lead Japan astray. Hirohito is a strong and stern man who will not shy away from ensuring that his nation of Japan is guided into a bright future under his reign.\n\nIt would appear that harsh and uncertain times have befallen the once formerly great Japanese power. Once regarded as the strongest naval power in all of East Asia, one worthy of competing with the Kaiserliche Marine, the Japanese Empire's daring ambition would soon prove to be their downfall. After a victorious land and sea campagin by their enemy forces, Japan has become completely occupied for the first time in its history. With the creation of a new Japanese state it was decided for good that the emperor's role should be being the symbol of the Japanese state and the unity of the Japanese people without even nominal political powers."
- JAP_hirohito_defeat_trait: "Emperor in Defeat\n§g\"Let the entire nation continue as one family from generation to generation, ever firm in its faith in the imperishability of its sacred land, and mindful of its heavy burden of responsibility, and of the long road before it.\"§!"
-
- JAP_hirohito_symbol_trait: "Symbol of Japan\n§g\"Let the entire nation continue as one family from generation to generation, ever firm in its faith in the imperishability of its sacred land, and mindful of its heavy burden of responsibility, and of the long road before it.\"§!"
-
+ 
  JAP_terauchi_hisaichi: "Terauchi Hisaichi"
  JAP_hata_shunroku: "Hata Shunroku"
  JAP_ishiwara_kanji: "Ishiwara Kanji"
@@ -2395,3 +2305,8 @@
 ### Traits ###
  JAP_samurai_lineage: "Samurai Abstammung"
  JAP_samurai_lineage_desc: "§LDieser Mann entstammt dem stolzen Geschlecht der Samurai und bleibt den alten Traditionen und Loyalitäten treu.§!"
+
+ JAP_hirohito_defeat_trait: "Emperor in Defeat\n§g\"Let the entire nation continue as one family from generation to generation, ever firm in its faith in the imperishability of its sacred land, and mindful of its heavy burden of responsibility, and of the long road before it.\"§!"
+ JAP_hirohito_symbol_trait: "Symbol of Japan\n§g\"Let the entire nation continue as one family from generation to generation, ever firm in its faith in the imperishability of its sacred land, and mindful of its heavy burden of responsibility, and of the long road before it.\"§!"
+
+ JAP_regent_trait: "Sesshō\n§LAfter Hirohito's forced abdication, Prince Takamatasu was named to act on behalf of Crown Prince Akihito until the latter becomes of age.§!"

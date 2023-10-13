@@ -106,7 +106,6 @@
  tpc: "Türk Petrol Şirketi"
  ankara_tufek: "Ankara Tüfek Fabrikası"
  sarsilmaz: "Sarsılmaz"
- zeytinburnu_fabrika: "Zeytinburnu Fabrika-i Hümayun"
  mke: "MKE Top Fabrikası"
  opel_osmanen: "Opel Tophane"
  uzel_traktor: "Uzel Traktör Fabrikası"
@@ -118,10 +117,8 @@
  golcuk_tersanesi: "Gölcük Tersanesi"
  taskizak_tersanesi: "Taşkızak Tersanesi"
  ddum: "Devlet Demiryolları Umum Müdürlüğü"
- nuri_killigil: "Nuri KİLLİGİL"
  postahane: "Postahane-i Amire"
  sadolin: "Sadolin ve Yaşarin A.Ş"
- turkish_airlines: "Devlet Hava Yolları"
  basak: "Başak Traktör"
  
 ### Ship Name Listss
@@ -798,8 +795,8 @@
  OTT_directorate_military: "Generaldirektion für Militärfabriken"
  OTT_directorate_military_desc: "Wir müssen unsere militärischen Produktionseinrichtungen reorganisieren, um ein organisiertes Fabriknetzwerk zu erschaffen. Die Gründung der Askeri Fabrikalar Umum Müdürlüğü (der Generaldirektion für Militärfabriken) wird garantieren, dass alle Produzenten gut koordinierte Aufträge erhalten und dass unsere Truppen vom Hedschas bis hin zu Gallipoli gut ausgerüstet sind."
  OTT_edok: "Restrukturierung der Erkân-ı Harbiye Mektebi"
- OTT_edok_desc: "Die Erkân-ı Harbiye Mektebi (die osmanische Militärakademie) ist die höchste Bildungseinrichtung für Offiziere unserer Armee und soll die besten Schüler, welche bereits damit begonnen haben, die Rangleiter emporzusteigen, entsprechend ihrer Talente fördern. Dennoch muss die Akademie unbedingt restrukturiert werden: Die Lehrpläne wurden seit dem Weltkrieg kaum geändert und auch über die Taktik des 'Gefechts der verbundenen Waffen' wird kaum etwas gelehrt."
- OTT_army_engineers: "SChulen für Armeeingenieure"
+ OTT_edok_desc: "Die Erkân-ı Harbiye Mektebi (die Militärstabsakademie) ist die höchste Bildungseinrichtung für Offiziere unserer Armee und soll die besten Schüler, welche bereits damit begonnen haben, die Rangleiter emporzusteigen, entsprechend ihrer Talente fördern. Dennoch muss die Akademie unbedingt restrukturiert werden: Die Lehrpläne wurden seit dem Weltkrieg kaum geändert und auch über die Taktik des \"Gefechts der verbundenen Waffen\" wird kaum etwas gelehrt."
+ OTT_army_engineers: "Schulen für Armeeingenieure"
  OTT_army_engineers_desc: "Die 1795 während der Herrschaft von Selim III gegründete Mühendishâne-i Berrî-i Hümâyun ist eine der wichtigsten Schulen unseres Reiches und unterrichtet sowohl zivile als auch militärische Ingenieurskunst. Die Schule wurde zwar während des Krieges kurzzeitig geschlossen, da ihre Schüler der Armee beitreten mussten, wurde allerdings schon kurz darauf wieder eröffnet und sogar durch eine anatolische Schule, welche die Artilleriekriegsführung unterrichtet, erweitert."
  OTT_desert_forces: "Spezialisierte Wüstenregimenter"
  OTT_desert_forces_desc: "Es wurde zwar bereits oft versucht, spezialisierte Regimenter in Libyen und Zentralarabien bestehend aus Beduinen und lokalen Stammesmitgliedern zu kreieren, bislang allerdings ohne große Erfolge. Dies änderte sich jedoch nach dem Weltkrieg, da die Wichtigkeit der Verteidigung unserer Südflanke zur Gründung des irakischen Kamelkorps führte und schon bald darauf in ganz Arabien ähnliche Verbände zusammengeschlossen wurden."
@@ -3180,7 +3177,7 @@
  OTT_Revolt_Risk_Medium: "§YDurchschnittlich§!"
  OTT_Revolt_Risk_High: "§RHoch§!"
  OTT_Revolt_Risk_Very_High: "§RSehr hoch§!"
- OTT_Revolt_Risk_Error: "§BUnbekannt§!"
+ OTT_Revolt_Risk_Error: "§LUnbekannt§!"
 
  OTT_CENTRALISE_SYRIA: "§YIntegration der syrischen Vilayets§! ([?OTT.syr_integration_factor|G0%%])"
  OTT_CENTRALISE_GREEK: "§YIntegration der griechischen Insel-Vilayets§! ([?OTT.gre_integration_factor|G0%%])"
