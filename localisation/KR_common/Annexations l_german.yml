@@ -710,10 +710,10 @@ annexation_NIIS_CONQ_desc: "Die Region Nis ist schon lange von Serbien und Bulga
 
 annexation_SER_MACED_CONQ: "Das Schicksal von Mazedonien"
 annexation_SER_MACED_CONQ_desc: "Der kleine Staat Mazedonien ist jetzt unter unserer Kontrolle, wir müssen entscheiden, was wir mit ihm machen."
- annex.1075.a: "[SER.GetGrantTerritoryEventOption]"
- annex.1075.b: "[BUL.GetGrantTerritoryEventOption]"
- annex.1075.c: "Bieten Sie es [SER.GetNameDef] im Austausch für ein Bündnis an."
- annex.1075.d: "Bieten Sie es [BUL.GetNameDef] im Austausch für ein Bündnis an."
+ annex.1075.a: "[serbia.GetGrantTerritoryEventOption]"
+ annex.1075.b: "[bulgaria.GetGrantTerritoryEventOption]"
+ annex.1075.c: "Bieten Sie es [can_offer_macedonia_to_serbia.GetNameDef] im Austausch für ein Bündnis an."
+ annex.1075.d: "Bieten Sie es [can_offer_macedonia_to_bulgaria.GetNameDef] im Austausch für ein Bündnis an."
 
 annexation_ROM_CONQ: "Das Schicksal von Rumänien"
 annexation_ROM_CONQ_desc: "Die rumänischen Streitkräfte haben endlich vor unserer Übermacht kapituliert. Die Zeit ist gekommen, um zu entscheiden, was mit ihrem Land geschehen soll. "

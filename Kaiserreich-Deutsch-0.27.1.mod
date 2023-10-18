@@ -1,9 +1,10 @@
 version="0.27.1"
-tags={
-	"Translation"
-}
 dependencies={
 	"Kaiserreich"
 }
+tags={
+	"Translation"
+}
 name="Kaiserreich-Deutsch-0.27.1"
 supported_version="1.13.*"
+path="./mod/Kaiserreich-Deutsch-0.27.1"

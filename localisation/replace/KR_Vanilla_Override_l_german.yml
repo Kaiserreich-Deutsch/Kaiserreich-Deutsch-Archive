@@ -240,6 +240,8 @@ zero_island: "Abgelegene Insel(n)"
  ALLOW_COOP_REQUEST_DESC: "$SPIELER$ bittet darum, Ihnen als Ko-op-Partner beitreten zu dürfen?"
  alert_port_strike_results_delayed_click: "§GKlicken Sie hier, um das nächste Ergebnis zu erhalten.\nKlicken Sie auf das Symbol £mapicon_port_strike_result_text in der Region, um den Bericht zu lesen.\n§!"
 
+ ALERT_ENEMY_GENERATE_WARGOAL: "$COUNTRY|Y$ bereitet den Krieg gegen §Yuns§! vor."
+
 ### army_l_english
  ARMY_DIVISIONS_THEATRES: "Aktiv in $N$ Kriegsgebiet(en)"
  ARMY_DIVISONS_FILTER_DESC: "Geben Sie einen Teil des Einheitsnamens, des Divisionstyps, des Kriegsgebiets, des Staates, des Führernamens, des Ausrüstungsnamens oder des Levelnamens ein."

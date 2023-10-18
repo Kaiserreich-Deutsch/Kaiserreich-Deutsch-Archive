@@ -963,7 +963,7 @@
  FIN_civships_tt: "In Helsinki werden drei Schiffe aus der Zeit des Bürgerkriegs erschaffen."
  FIN_oldswe_tt: "50 veraltete Kampfflugzeuge werden empfangen."
  FIN_ger_blueprints_tt: "Deutsche Marine Blaupausen"
- FIN_remilitarise_bonus_tt: "§CWenn wir die Åland-Inseln remilitarisiert haben, erhalten wir zusätzliche Boni§!"
+ FIN_remilitarise_bonus_tt: "§CWenn [145.GetName] nicht mehr §Ydemilitarisiert§! ist, erhalten wir außerdem die folgenden Boni:§!"
 
 ### Opinion Modifiers ### 
  FIN_curtailed_swedish_rights: "Eingeschränkte schwedische Rechte"
