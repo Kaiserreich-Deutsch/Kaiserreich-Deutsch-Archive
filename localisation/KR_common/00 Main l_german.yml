@@ -34,7 +34,7 @@ KR_welcome_splash_tab_3_content: "§YBitte beachten Sie Folgendes:§!\n£white_d
 KR_welcome_splash_tab_3_content_0: "Kaiserreich legt Beschränkungen für diplomatische Aktionen wie §Rfrühe Kriege§!, §RFraktionen§! und §RAutonomiestufen§! fest.\nKaiserreich enthält §CDivisionsgrenzen§! und eine §CDemobilisierung§! Mechanik, um die Spielbarkeit im späteren Spiel zu verbessern.\nBei §YFriedenskonferenzen§! sollten Sie darauf achten, dass Sie alle Staaten annektieren. Sie können später Länder aus den annektierten Gebieten durch §CEntscheidungen§! entlassen.\nIm Menü §YIndividuelle Spielregeln§! können Sie viele Optionen einstellen, darunter §CLänderpfade§!, §CVorrang für Spieler bei Friedenskonferenzen§!, und das §CStaat und Land Transfer Tool§!.\nDas £kr_options_icon  §YOptionsmenu im Spiel§! wird durch einen Klick auf das Symbol in der rechten oberen Ecke geöffnet. Hier können Sie die §CHäufigkeit der Nachrichtenereignisse§! einstellen und die §CDynamische Umbenennung§! von Staaten und Siegpunkten aktivieren.\n§YDieses Fenster§! kann jederzeit wieder geöffnet werden, indem Sie auf das Symbol £help_button  oben rechts klicken."
 
 ## TAB 4 ##
-KR_CURRENT_VERSION: "0.27.1"
+KR_CURRENT_VERSION: "0.27.2"
 KR_CURRENT_VERSION_NAME: "Calling All Workers"
 KR_welcome_splash_tab_4_header: "§YWillkommen bei Kaiserreich BETA $KR_CURRENT_VERSION$ \"$KR_CURRENT_VERSION_NAME$\"\n\n\n\n\n\nLiebevoll gestaltet vom Kaiserreich Team:§!"
 KR_welcome_splash_tab_4_content: "Alpinia  ·  Arvidus  ·  Augenis  ·  Blackfalcon501  ·  Blackleaf  ·  Carmain  ·  Cazadorian\nChazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Cody  ·  Conchobhar  ·  DuoDex  ·  El Daddy\nfalling_robin  ·  Fedex  ·  Flamefang  ·  Gaboemi  ·  Hamfast  ·  hildagrim  ·  Ido\nIgor050301  ·  JazzyHugh  ·  Jeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  Kano  ·  katieluka  ·  Kennedy\nkergely  ·  KFateweaver  ·  Klyntar King  ·  Krčo  ·  Luwofe  ·  Matoro  ·  McOmghall\nMrMano  ·  ~mw~ // miwaco.  ·  NukeGaming  ·  Pelmen  ·  PPsyrius  ·  Purple Jinjo\nRagnoStrangeros  ·  Rnk  ·  Shiroe  ·  Shōta  ·  Sonny O'Cad  ·  SuperGreenBeans  ·  suzuha\nThe Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko\nHydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc  ·  Wolf  ·  Silent_Wolf  ·  Alex S\nDerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier  ·  Itzy"
@@ -331,8 +331,8 @@ is_monarch_NOT: "Ist kein Monarch"
 is_regent: "Handelt als Regent"
 is_regent_NOT: "Handelt nicht als Regent"
 
-is_monarchy: "§Y[ROOT.GetNameWithFlag]§! ist eine §YMonarchie§!"
-is_monarchy_NOT: "§Y[ROOT.GetNameWithFlag]§! ist §Rnicht§! eine §YMonarchie§!"
+is_monarchy: "§Y[THIS.GetNameWithFlag]§! ist eine §YMonarchie§!"
+is_monarchy_NOT: "§Y[THIS.GetNameWithFlag]§! ist §Rnicht§! eine §YMonarchie§!"
 
 ### Mobilisation Effects ###
 disband_ten_percent_units: "Löst §Y10%§! aller bestehenden Divisionen unter Beibehaltung ihrer Ausrüstung auf."
@@ -349,6 +349,8 @@ is_in_faction_but_not_leader_NOT: "Ist Anführer der Fraktion oder nicht in eine
 
 has_guarantor: "Wird garantiert"
 has_guarantor_NOT: "Wird nicht garantiert"
+
+all_enemy_country_workaround_trigger: "$TRIGGER_ALL_enemy_COUNTRY_STARTS$:\n   Ist im Krieg mit §Y[?target.GetFlag][?target.GetName]§!"
 
 ### Events ###
 generic_events.100.t: "Ordnung wiederhergestellt in [Root.GetNameDef]"

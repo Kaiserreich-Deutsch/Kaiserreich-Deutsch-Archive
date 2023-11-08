@@ -784,8 +784,8 @@
  finland.116.d: "Dummerweise scheint es, als ob die [From.GetAdjective]e Armee die Absicht hat, den Kampf fortzusetzen."
  finland.116.a: "So sei es."
  
- finland.117.t: "Finnland bittet um Beitritt zur Skandinavischen Verteidigungsunion"
- finland.117.d: "Finnland hat die Bildung der Skandinavischen Verteidigungsunion beobachtet und sieht es als günstig an, sich dem Bündnis für unsere gemeinsame Verteidigung anzuschließen und feindliche Nationen, die sich nicht unseren gemeinsamen Werten anschließen, davon abzuhalten, sich in die Region einzumischen."
+ finland.117.t: "Finnland bittet um Beitritt zur [ROOT.GetFactionName]"
+ finland.117.d: "Finnland hat die Bildung der [ROOT.GetFactionName] beobachtet und sieht es als günstig an, sich dem Bündnis für unsere gemeinsame Verteidigung anzuschließen und feindliche Nationen, die sich nicht unseren gemeinsamen Werten anschließen, davon abzuhalten, sich in die Region einzumischen."
  finland.117.a: "Eine weitere nordische Nation schließt sich der Gruppe an!"
  finland.117.b: "Sie wären lediglich eine Schutzlast."
  
@@ -978,8 +978,8 @@
 ### Decisions ###
  FIN_reinforce_the_mannerheim_line: "Verstärkung der Mannerheim-Linie"
  FIN_reinforce_the_mannerheim_line_desc: "Die Mannerheim-Linie, eine während des russischen Bürgerkriegs errichtete Verteidigungslinie, war von zentraler Bedeutung für die Abschreckung der Russen im Osten. Sie wurde jedoch seit geraumer Zeit nicht mehr modernisiert, und ihr Alter macht sich langsam bemerkbar. Wir sollten ihre Modernisierung in Betracht ziehen."
- fin_join_sdu: "Der Skandinavischen Verteidigungsunion beitreten"
- fin_join_sdu_desc: "Die Skandinavische Verteidigungsunion wurde von den Demokratien Dänemarks, Norwegens und Schwedens gegründet, um externe Mächte davon abzuhalten, in die Region einzudringen. Sollten wir uns bewerben, um der Allianz beizutreten, da wir den Wunsch teilen, ausländische Akteure wie Russland außerhalb der skandinavischen Region zu halten?"
+ FIN_join_nordic_council: "[FROM.GetFactionName] beitreten"
+ FIN_join_nordic_council_desc: "[FROM.GetFactionName] wurde von den Demokratien Dänemarks, Norwegens und Schwedens gegründet, um externe Mächte davon abzuhalten, in die Region einzudringen. Sollten wir uns bewerben, um der Allianz beizutreten, da wir den Wunsch teilen, ausländische Akteure wie Russland außerhalb der skandinavischen Region zu halten?"
  fin_join_nordic_federation: "Beitritt zur Nordischen Föderation ersuchen"
  fin_join_nordic_federation_desc: "Unsere dänischen, norwegischen und schwedischen Brüder haben sich zusammengeschlossen. Als nordisches Land können wir jederzeit einen Antrag auf Beitritt zur Föderation stellen, obwohl dies dazu führen wird, dass ein Teil unserer Souveränität aufgegeben wird."
  FIN_join_reichspakt: "Dem Reichspakt beitreten"

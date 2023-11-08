@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 scandinavia_focus: "Schwerpunktbaum von Skandinavien"
 
@@ -34,6 +34,9 @@ SCA_authoritarian_democrat: "Nordische Föderation"
 SCA_authoritarian_democrat_ADJ: "Nordisch"
 SCA_authoritarian_democrat_DEF: "die Nordische Föderation"
 
+### Factions ###
+SCA_nordic_council_faction: "Nordischer Rat"
+
 ### Opinion Modifiers ###
 SCA_nordic_friendship: "Nordische Freundschaft"
 SCA_nordic_irredentism: "Nordischer Irredentismus"
@@ -44,24 +47,12 @@ scandinavian_research_name: "Skandinavische Wissenschaftlerkonferenz"
 scandinavian_research_desc: "Die Skandinavische Wissenschaftlerkonferenz ist eine Organisation, die sich der wissenschaftlichen Zusammenarbeit zwischen den skandinavischen Staaten widmet."
 
 ### Flags ###
-SCA_treaty_of_stockholm: "Der Vertrag von Stockholm"
-SCA_nordic_council_accepted: "Gründete den Nordischen Rat"
-SCA_scandinavian_defense_union_accepted: "Gründung der Skandinavischen Verteidigungsunion"
-SCA_passport_convention_accepted: "Unterzeichnung des Nordischen Passübereinkommens"
-SCA_monetary_union_accepted: "Wiedereinführung der Skandinavischen Währungsunion"
-SCA_single_market_accepted: "Gründung eines einheitlichen nordischen Marktes"
-SCA_research_cooperation_accepted: "Beteiligt sich an der skandinavischen Wissenschaftskooperation"
 SCA_elections_socdem_victory: "Die Sozialdemokraten siegten bei den Wahlen"
 SCA_elections_liberal_victory: "Die Liberalen siegten bei den Wahlen"
 SCA_elections_conservative_victory: "Die Konservativen siegten bei den Wahlen"
 
-sca_no_nordic_council: "Wir haben den Nordischen Rat bereits früher abgelehnt."
-sca_no_defense_union: "Wir haben die Verteidigungsunion früher abgelehnt."
-sca_no_passport_convention: "Wir haben das Passübereinkommen bereits abgelehnt."
-sca_no_monetary_union: "Wir haben die Währungsunion früher abgelehnt."
-sca_no_customs_union: "Wir haben den Binnenmarkt früher abgelehnt."
-sca_no_science_cooperation: "Wir haben die wissenschaftliche Zusammenarbeit früher abgelehnt."
-sca_no_federation: "Wir haben den nordischen Föderalismus früher abgelehnt."
+SCA_nordic_council_refused: "Der Nordische Rat wurde abgelehnt"
+SCA_federation_refused: "Die Nordische Föderation wurde abgelehnt"
 
 SCA_mobile_warfare_flag: "Mobile Kriegsführung"
 SCA_superior_firepower_flag: "Feuerüberlegenheit"
@@ -151,7 +142,6 @@ SCA_tt_is_valid_nordic_member: "Gültige skandinavische Länder:"
 SCA_tt_no_outside_inf: "Keinem Einfluss außerhalb Skandinaviens unterworfen"
 SCA_tt_mid_research: "Kein anderes nordisches Land ist derzeit für uns in dieser Frage federführend."
 SCA_development_decisions_tt: "§YDieser Schwerpunkt wird mehrere Entscheidungen für den Beginn des Projekts§! §CNordischer Wirtschafts- und Entwicklungsplan.§! ermöglichen."
-SCA_designers_unlock_tt: "§YDieser Schwerpunkt wird die verbleibenden Designer aus den einzelnen Ländern freischalten, die derzeit nicht verfügbar sind.§!"
 SCA_developed_states_tt: "Erhöht das Level des §CNordischer Wirtschafts- und Entwicklungsplan§! um §Y1§!"
 SCA_activate_resource_extraction_decisions: "§GVerschiedene Entscheidungen zum Abbau von Ressourcen werden aktiviert werden!§!"
 
@@ -272,6 +262,35 @@ SCA_radical_socialist_established_party: "NLO"
 SCA_radical_socialist_established_party_long: "Nordiske Landsorganisationen\nNordiske Landsorganisasjonen\nNordiska Landsorganisationen"
 
 ### Focus Tree ###
+
+SCANDINAVIA_treaty_of_stockholm: "Ratifizierung des Vertrags von Stockholm"
+SCANDINAVIA_treaty_of_stockholm_desc: "Der Vertrag von Stockholm muss vom Parlament gebilligt werden, um in Kraft zu treten. Seine Ratifizierung wird es uns ermöglichen, die Zusammenarbeit mit unseren skandinavischen Freunden offiziell zu beginnen.\n§YDer Vertrag von Stockholm wird in Kraft treten, wenn Dänemark, Norwegen und Schweden im Juni 1937 alle demokratisch sind.§!"
+SCANDINAVIA_nordic_council: "Gründung des Nordischen Rates"
+SCANDINAVIA_nordic_council_desc: "Die politischen Aspekte der nordischen Integration sollten in einer eigenen politischen Institution organisiert werden. Lasst uns zu diesem Zweck den Nordischen Rat gründen."
+SCANDINAVIA_defense_union: "Skandinavische Verteidigungsunion"
+SCANDINAVIA_defense_union_desc: "Keines der skandinavischen Länder ist militärisch besonders stark. Nur durch einen kollektiven Verteidigungsvertrag können wir eine glaubwürdige Bedrohung für potenzielle Aggressoren darstellen."
+SCANDINAVIA_material_cooperation: "Gemeinsames militärisches Beschaffungswesen"
+SCANDINAVIA_material_cooperation_desc: "Unsere einzelnen Streitkräfte sind relativ klein. Wenn wir alle nordischen militärischen Anschaffungen koordinieren, werden wir von größeren Aufträgen und niedrigeren Kosten profitieren."
+SCANDINAVIA_military_volunteers: "Militärisches Austauschprogramm"
+SCANDINAVIA_military_volunteers_desc: "Die verstärkte Zusammenarbeit zwischen den nordischen Armeen erfordert Offiziere mit einer besonderen Denkweise und bestimmten Fähigkeiten. Wir sollten Generäle austauschen, um dies zu unterstützen."
+SCANDINAVIA_passport_union: "Nordisches Passübereinkommen"
+SCANDINAVIA_passport_union_desc: "Warum sollten die nordischen Bürger Visa und Genehmigungen benötigen, um sich gegenseitig zu besuchen? Wir werden eine Konvention zur Beseitigung der Binnengrenzen Skandinaviens unterzeichnen."
+SCANDINAVIA_joint_sessions: "Gemeinsame parlamentarische Sitzungen"
+SCANDINAVIA_joint_sessions_desc: "Die nordische Integration wurde bisher von den nationalen Regierungen vorangetrieben. Um dies zu ändern, werden wir gemeinsame interparlamentarische Sitzungen vorschlagen, um allen Stimmen Gehör zu verschaffen."
+SCANDINAVIA_investments: "Nordische Investitionen"
+SCANDINAVIA_investments_desc: "Skandinavien ist unsere natürliche Umgebung für Investitionen. Es könnte eine gute Idee sein, in weitere Industrieprojekte zu investieren."
+SCANDINAVIA_monetary_union: "Skandinavische Währungsunion"
+SCANDINAVIA_monetary_union_desc: "Von 1873 bis 1914 hatte Skandinavien eine gemeinsame Währung. Wir werden die skandinavische Währungsunion wieder einführen und alle Währungen in Skandinavien frei fließen lassen."
+SCANDINAVIA_found_sas: "Gründung von Scandinavian Airlines"
+SCANDINAVIA_found_sas_desc: "Warum sollten die nordischen Staaten ihre eigenen Fluggesellschaften haben? Wir sollten den Luftverkehr zu einem Symbol der nordischen Zusammenarbeit machen und Scandinavian Airlines gründen."
+SCANDINAVIA_custom_union: "Einen einheitlichen Markt vorschlagen"
+SCANDINAVIA_custom_union_desc: "Die natürliche Fortsetzung der wirtschaftlichen Zusammenarbeit ist die Abschaffung der Zölle zwischen den nordischen Ländern. Der skandinavische Handel soll nicht mehr eingeschränkt werden."
+SCANDINAVIA_common_tech: "Skandinavische Wissenschaftlerkonferenz"
+SCANDINAVIA_common_tech_desc: "Skandinavische Wissenschaftler haben sich seit 1839 in unregelmäßigen Abständen getroffen. Wir sollten diese Treffen formalisieren, um unsere technischen Entwicklungen effizienter austauschen zu können."
+SCANDINAVIA_common_tech_2: "Technologische Zusammenarbeit"
+SCANDINAVIA_common_tech_2_desc: "Der Erfolg der Skandinavischen Wissenschaftlerkonferenz bedeutet, dass wir unsere Zusammenarbeit weiter ausbauen könnten. Wenn wir ein festes System für den Wissensaustausch einrichten, würden wir langfristig alle davon profitieren."
+SCANDINAVIA_form_federation: "Die Nordische Föderation"
+SCANDINAVIA_form_federation_desc: "Die nordische Integration und Zusammenarbeit hat sich als erstaunlicher Erfolg erwiesen. Lasst uns nun unsere Kräfte bündeln und die Nordische Föderation als ein leuchtendes Beispiel für Demokratie und Freiheit in einer unruhigen Welt gründen."
 
 SCA_Nordic_Constitution: "Die nordische Verfassung"
 SCA_Nordic_Constitution_desc: "Bei der Schaffung eines einheitlichen nordischen Staates ist es von größter Wichtigkeit, dass eine Verfassung verabschiedet wird, die für alle Mitgliedsstaaten der Föderation gilt und die Stärke der föderalen Regierung unterstreicht."
@@ -403,66 +422,23 @@ SCA_Nationalism_fades_away: "Der Nationalismus verblasst!"
 SCA_Nationalism_fades_away_desc: "Unsere Bemühungen um eine Ausweitung der Interaktionen zwischen den nordischen Völkern in kultureller und wirtschaftlicher Hinsicht zahlen sich aus; auch wenn einige natürlich immer eingefleischte Nationalisten bleiben werden, ist zumindest die Zahl derer, die sich als nordische Bürger und nicht als schwedische Bürger identifizieren, geringer denn je."
 
 ### Events ###
+nordic_formation.1.t: "Gründung eines Nordischen Rates?"
+nordic_formation.1.d: "Vertreter und Diplomaten aller drei großen skandinavischen Länder haben sich in [SCA_nordic_council_leader.Capital.GetCapitalVictoryPointName] zu einem Vertrag versammelt, um eine engere Zusammenarbeit zwischen den nordischen Ländern einzuleiten. Wir teilen Werte, die nicht jeder auf der Welt mit uns teilt, und gegen eine feindselige Welt sollten die skandinavischen Nationen zusammenarbeiten, argumentieren sie. Es wurden keine festen Vereinbarungen getroffen, aber es sieht so aus, als ob die Folgemaßnahmen dieses Treffens eher instrumenteller Natur sein könnten."
+nordic_formation.1.a: "Ein Hoch auf unsere Brüder!"
 
-nordic_formation.1.t: "Gründung des Nordischen Rates"
-nordic_formation.1.d: "Der Nordische Rat wurde als ein Instrument für die nordische Zusammenarbeit und Integration gegründet."
-nordic_formation.1.a: "Tretet dem Nordischen Rat bei"
+nordic_formation.2.t: "Der Vertrag von [SCA_nordic_council_leader.Capital.GetCapitalVictoryPointName]"
+nordic_formation.2.d: "Wir haben Diplomaten und Vertreter von Norwegen und Dänemark nach [SCA_nordic_council_leader.Capital.GetCapitalVictoryPointName] eingeladen, um einen - vorerst unverbindlichen - Vertrag auszuhandeln, der eine engere Zusammenarbeit zwischen den nordischen Ländern in Gang bringen soll. Wir teilen Werte, die nicht jeder in der Welt mit uns teilt, und gegen eine feindselige Welt sollten die Nationen Skandinaviens zusammenarbeiten! Zwar werden hier nur wenige verbindliche Vereinbarungen getroffen, aber die ersten Eindrücke sind positiv, und es scheint, dass die Folgemaßnahmen zu diesem Treffen eher instrumentell sein könnten."
+nordic_formation.2.a: "Ein Hoch auf unsere Brüder!"
+nordic_formation.2.b: "Das ist reine Zeitverschwendung."
 
-nordic_formation.2.t: "Gründung des Nordischen Rates"
-nordic_formation.2.d: "Der Nordische Rat wurde als ein Instrument für die nordische Zusammenarbeit und Integration gegründet."
-nordic_formation.2.a: "Tretet dem Nordischen Rat bei"
-nordic_formation.2.b: "Wir sind nicht interessiert"
+nordic_formation.3.t: "[From.GetNameDefCap] lehnt unseren Vorschlag ab"
+nordic_formation.3.d: "[From.GetNameDefCap] hat uns wissen lassen, dass sie keine Vorteile in der von uns vorgeschlagenen Reform sehen. Es scheint, dass zumindest in diesem Bereich der Politik der Höhepunkt der skandinavischen Zusammenarbeit erreicht ist."
+nordic_formation.3.a: "Enttäuschend, aber so soll es sein..."
 
-nordic_formation.3.t: "Gründung der Skandinavischen Verteidigungsunion"
-nordic_formation.3.d: "Die Zusammenarbeit in Skandinavien hat in letzter Zeit zugenommen, und da Bedrohungen von außen die Freiheit der skandinavischen Nationen gefährden, wird der Ruf nach der Gründung eines Militärbündnisses laut, das sich ausschließlich auf diese Region konzentriert."
-nordic_formation.3.a: "Wir werden das Herzstück dieser Union sein!"
-nordic_formation.3.b: "Dies ist nicht in unserem Interesse"
-
-nordic_formation.4.t: "Gründung der Skandinavischen Verteidigungsunion"
-nordic_formation.4.d: "Die skandinavischen Nationen haben beschlossen, in einem Militärbündnis zusammenzuarbeiten, um ausländische Gegner davon abzuhalten, Skandinavien die Freiheit zu nehmen."
-nordic_formation.4.a: "Wir werden dieser Verteidigungsunion beitreten!"
-nordic_formation.4.b: "Dies ist nicht in unserem Interesse"
-
-nordic_formation.5.t: "Das Nordische Passübereinkommen"
-nordic_formation.5.d: "Heute Morgen kamen Vertreter aller skandinavischen Länder in Stockholm zusammen, um das Nordische Passübereinkommen zu unterzeichnen. Alle unsere Bürgerinnen und Bürger können nun unbesorgt durch die skandinavischen Königreiche reisen."
-nordic_formation.5.a: "Unterzeichnet das Übereinkommen"
-
-nordic_formation.6.t: "Das Nordische Passübereinkommen"
-nordic_formation.6.d: "Heute Morgen kamen Vertreter aller skandinavischen Länder in Stockholm zusammen, um das Nordische Passübereinkommen zu unterzeichnen. Alle unsere Bürgerinnen und Bürger können nun unbesorgt durch die skandinavischen Königreiche reisen."
-nordic_formation.6.a: "Unterzeichnet das Übereinkommen"
-nordic_formation.6.b: "Von dem Vorschlag abrücken"
-
-nordic_formation.7.t: "Wiedereinführung der Skandinavischen Währungsunion"
-nordic_formation.7.d: "Die skandinavischen Länder haben ihre Währungen zwischen 1873 und 1914 aneinander gekoppelt, was als Skandinavische Währungsunion bekannt wurde. Da die skandinavische Zusammenarbeit wieder zunimmt, ist es an der Zeit, die skandinavische Währungsunion wieder einzuführen."
-nordic_formation.7.a: "Eine neue Währungsunion für eine neue Ära!"
-
-nordic_formation.8.t: "Wiedereinführung der Skandinavischen Währungsunion"
-nordic_formation.8.d: "Die skandinavischen Länder haben ihre Währungen zwischen 1873 und 1914 aneinander gekoppelt, was als Skandinavische Währungsunion bekannt wurde. Da die skandinavische Zusammenarbeit wieder zunimmt, ist es an der Zeit, die skandinavische Währungsunion wieder einzuführen."
-nordic_formation.8.a: "Eine neue Währungsunion für eine neue Ära!"
-nordic_formation.8.b: "Eigentlich würden wir steuerliche Unabhängigkeit vorziehen."
-
-nordic_formation.9.t: "Ein nordischer Binnenmarkt"
-nordic_formation.9.d: "Bei unserer immer engeren Integration haben sich die verbleibenden Zollgrenzen als wirtschaftliches Hindernis erwiesen. Daher wurde beschlossen, die verbleibenden Zölle abzuschaffen und einen einheitlichen skandinavischen Binnenmarkt zu schaffen."
-nordic_formation.9.a: "Schafft einen gemeinsamen Markt"
-
-nordic_formation.10.t: "A Nordic Single Market"
-nordic_formation.10.d: "Bei unserer immer engeren Integration haben sich die verbleibenden Zollgrenzen als wirtschaftliches Hindernis erwiesen. Daher wurde beschlossen, die verbleibenden Zölle abzuschaffen und einen einheitlichen skandinavischen Binnenmarkt zu schaffen."
-nordic_formation.10.a: "Schafft einen gemeinsamen Markt"
-nordic_formation.10.b: "Hmm, das ist ein bisschen zu viel Integration!"
-
-nordic_formation.11.t: "Die Skandinavische Wissenschaftlerkonferenz"
-nordic_formation.11.d: "Die Formalisierung unserer wissenschaftlichen Zusammenarbeit im Rahmen der Skandinavischen Wissenschaftlerkonferenz wird es unseren Forschungsgemeinschaften ermöglichen, wichtiges Wissen auszutauschen. Die erste Konferenz wird nächste Woche in Kopenhagen zusammenkommen, um diesen Prozess mit unseren besten Köpfen an der Spitze zu beginnen."
-nordic_formation.11.a: "Wissen ist Macht"
-
-nordic_formation.12.t: "Die Skandinavische Wissenschaftlerkonferenz"
-nordic_formation.12.d: "Die Formalisierung unserer wissenschaftlichen Zusammenarbeit im Rahmen der Skandinavischen Wissenschaftlerkonferenz wird es unseren Forschungsgemeinschaften ermöglichen, wichtiges Wissen auszutauschen. Die erste Konferenz wird nächste Woche in Kopenhagen zusammenkommen, um diesen Prozess mit unseren besten Köpfen an der Spitze zu beginnen."
-nordic_formation.12.a: "Wissen ist Macht"
-nordic_formation.12.b: "Die anderen würden bei unserer Arbeit nur faulenzen!"
-
-nordic_formation.13.t: "[From.GetNameDefCap] schlägt eine Nordische Föderation vor"
-nordic_formation.13.d: "[From.GetNameDefCap] hat vorgeschlagen, alle skandinavischen Länder in einer demokratischen Föderation zu vereinen. Dies würde zur Integration unseres Landes in die Nordische Föderation führen."
-nordic_formation.13.a: "Stimmt der Förderation zu"
-nordic_formation.13.b: "Lehnt die Föderation ab"
+nordic_formation.13.t: "[SCA_federation_initiator.GetNameDefCap] schlägt eine Nordische Föderation vor"
+nordic_formation.13.d: "[SCA_federation_initiator.GetNameDefCap] hat vorgeschlagen, alle skandinavischen Länder in einer demokratischen Föderation zu vereinen. Dies würde zur Integration unseres Landes in die Nordische Föderation führen."
+nordic_formation.13.a: "Stimmt dem Zusammenschluss zu."
+nordic_formation.13.b: "Wir lehnen dieses Projekt ab."
 
 nordic_formation.14.t: "[From.GetNameDefCap] nimmt unseren Vorschlag an"
 nordic_formation.14.d: "[From.GetNameDefCap] hat Interesse bekundet, sich unserem Vorschlag anzuschließen, alle skandinavischen Länder in einer demokratischen Föderation zu vereinen. Wir sind der Schaffung eines vereinten Skandinaviens einen Schritt näher gekommen."
@@ -475,18 +451,6 @@ nordic_formation.15.a: "Enttäuschend, aber nicht völlig unerwartet..."
 nordic_formation.16.t: "Gründung der Nordischen Föderation"
 nordic_formation.16.d: "Die anderen skandinavischen Länder haben unserem Vorschlag zur Föderation zugestimmt. Gemäß ihrer Verfassung wird die Nordische Föderation vorerst, bis sie von einer richtigen föderalen Regierung angegangen werden kann, natürlich eine demokratische, föderale Monarchie sein. Die Exekutive wird aus einer föderalen Regierung bestehen, die im Auftrag eines Rates, bestehend aus den schwedischen, norwegischen und dänischen Monarchen, die Macht ausübt. Das föderale Parlament wird seinen Sitz in Göteborg haben, aber alle konstituierenden Königreiche behalten ihre individuellen Institutionen und ihre Autonomie."
 nordic_formation.16.a: "Großartig!"
-
-nordic_formation.17.t: "Der Vertrag von Stockholm"
-nordic_formation.17.d: "Wir haben Diplomaten und Vertreter aus Norwegen und Dänemark nach Stockholm eingeladen, um einen - vorerst unverbindlichen - Vertrag auszuhandeln, der eine engere Zusammenarbeit zwischen den nordischen Ländern in Gang bringen soll. Wir teilen Werte, die nicht jeder in der Welt mit uns teilt, und gegen eine feindselige Welt sollten die Nationen Skandinaviens zusammenarbeiten! Zwar werden hier keine verbindlichen Vereinbarungen getroffen, aber die ersten Eindrücke sind positiv, und es scheint, dass die Folgeveranstaltungen zu diesem Treffen eher instrumentell sein könnten."
-nordic_formation.17.a: "Ein Toast auf unsere Brüder und Schwestern!"
-
-nordic_formation.18.t: "Der Vertrag von Stockholm"
-nordic_formation.18.d: "Vertreter und Diplomaten aller drei großen skandinavischen Länder sind in Stockholm zusammengekommen, um einen Vertrag zu schließen, der eine engere Zusammenarbeit zwischen den nordischen Ländern in Gang bringen soll. Wir teilen Werte, die nicht jeder in der Welt mit uns teilt, und gegen eine feindselige Welt sollten die skandinavischen Länder zusammenarbeiten, so ihre Argumentation. Es wurden keine festen Vereinbarungen getroffen, aber es sieht so aus, als ob die Folgemaßnahmen dieses Treffens eher instrumenteller Natur sein könnten."
-nordic_formation.18.a: "Ein Toast auf unsere Brüder und Schwestern!"
-
-nordic_formation.19.t: "[From.GetNameDefCap] lehnt unseren Vorschlag ab"
-nordic_formation.19.d: "[From.GetNameDefCap] hat uns wissen lassen, dass sie keine Vorteile in der von uns vorgeschlagenen Reform sehen. Es scheint, dass zumindest in diesem Bereich der Politik der Höhepunkt der skandinavischen Zusammenarbeit erreicht ist."
-nordic_formation.19.a: "Enttäuschend, aber so soll es sein..."
 
 scandinavia.1.t: "Die Gründung der Nordischen Föderation"
 scandinavia.1.d: "Nach der Unterzeichnung des Skandinavischen Vertrages wurde eine Übergangsregierung eingesetzt, die sich hauptsächlich aus Beamten mit wenig aktiven Befugnissen zusammensetzt und die die Föderation gemeinsam mit den nationalen Regierungen regieren wird, bis wir die Bundesverfassung erfolgreich ratifiziert haben, die dann als höchstes Gesetz innerhalb der Föderation über denen der Mitgliedsstaaten stehen wird, was dann koordinierte Wahlen zur Einsetzung einer vom Volk gewählten Regierung ermöglichen wird."

@@ -285,7 +285,8 @@
 
  JBS_fighting_revolt: "Unterdrückung der Revolten"
 
- JBS_ATF_factories: "Ankara Tufek"
+ JBS_ATF_factories: "Ankara Tufek Importe"
+ JBS_ATF_factories_tt: "\n§YWird entfernt wenn:§!\n [ROOT.GetATFRemovalTrigger] Ist kein Verbündeter von §Y[OTT.GetNameWithFlag]§!\n"
 
 ### Companies ###
  jbs_ankara_tufek: "ATF"

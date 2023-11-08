@@ -51,7 +51,6 @@ ROM_nat_pop_green_democracy: "TpŢ"
 
 ### Companies ###
 malaxa: "Malaxa"
- malaxa_mechanized: "Malaxa"
 universitatea_bucuresti: "Universität von Bukarest"
 rafinaria_steaua_romana: "Raffinerie Steaua Română"
 fabrica_de_arme_cugir: "Fabrica de Arme Cugir"
@@ -269,11 +268,6 @@ ROM_eco_captain_strong: "Starke Annäherung an §HCodreanu's Wirtschaftspolitik�
 ROM_eco_king: "Bewegung in Richtung §König Carols Wirtschaftspolitik§!.\n"
 ROM_eco_king_strong: "Starke Annäherung an §HKing Carol's economic policy§!.\n"
 ROM_eco_finish_explainer: "§CSie erhalten einen Nationalgeist, abhängig von Ihren bisherigen wirtschaftlichen Entscheidungen. Codreanus Reform wird Ihnen eine starke Arbeitskräftebasis und Stabilität gewähren, während Carols Vision auf Industrie und technologischen Fortschritt ausgerichtet ist.§!\n"
-
-ROM_malaxa_tooltip: "Schaltet §gMALAXA§! als Konstruktionsfirma frei."
-ROM_udr_tooltip: "Schaltet §gUDR§! als Konstruktionsfirma frei."
-ROM_galati_tt: "Schaltet §gSanterul Naval Constanta§! als Konstruktionsfirma frei."
-ROM_iar_tooltip: "Schaltet §gIndustria Aeronautica Romana§! als Konstruktionsfirma frei."
 
 ROM_tech_ski_infantry: "Gebirgstraining"
 

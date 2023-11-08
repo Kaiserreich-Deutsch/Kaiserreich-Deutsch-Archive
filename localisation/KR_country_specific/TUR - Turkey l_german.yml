@@ -617,7 +617,8 @@
  TUR_liberal_majority_tooltip: "Der Liberale Flügel der OSP ist es gelungen, die Mehrheit zu erlangen."
  TUR_reconquer_our_lands: "§YDieser Schwerpunkt wird es uns ermöglichen, Länder zu beanspruchen, die eine große türkische Bevölkerung haben oder von Natur aus mit dem Reich verbunden waren.§!"
  TUR_has_proclaimed_republic: "Die §YRepublik Türkei§! wurde verkündet."
- TUR_traditionalist_resistance_tooltip: "Traditionalistischer Widerstand ändert sich um $RIGHT|%%0$."
+ TUR_traditionalist_resistance_increases: "§YTraditionalistischer Widerstand§! wird um $RIGHT|%%R0$ erhöht.\n"
+ TUR_traditionalist_resistance_decreases: "§YTraditionalisten-Widerstand§! wird um $RIGHT|%%G0$ verringert.\n"
  TUR_Kemal_calcul: "§CWir werden einen Bonus erhalten, je nachdem, ob Kemals Testament respektiert wurde oder nicht.§!"
  TUR_two_event_options: "Dieses Event wird uns eins der folgenden Optionen geben:"
  TUR_unlock_tree: "§GDies schaltet einen weiteren Schwerpunktbaum frei.§!"
@@ -650,7 +651,7 @@
 
  ###Entscheidungen###
  TUR_kemalists: "Kemalistische Reformen"
- TUR_kemalists_desc: "Die kemalistischen Reformen zielen darauf ab, den Visionen Mustafa Kemals von einer modernen türkischen Nation zu folgen, und basieren auf dem Testament, das der Gazi seinem treuen Freund Ismet Pascha hinterlassen hat. In seinem Testament hat Kemal alle seine Wünsche für den neuen türkischen Staat niedergeschrieben. Seine Reformen beruhen auf sechs Grundprinzipien: Republikanismus, Nationalismus, Populismus, Laizismus, Revolutionismus und Etatismus. Kemals Wille ist jedoch komplex, extremistisch und zutiefst antireligiös. Er hätte sich eine vollständige Trennung von Kirche und Staat gewünscht und hatte noch düsterere Vorstellungen vom Padischah. Ismet Pascha wird sich mit dem Widerstand der Traditionalisten auseinandersetzen müssen, wenn er diese Reformen durchsetzen will..\n\nGegenwärtiger Traditionalistenwiderstand: [?TUR_traditionalist_resistance|%%R]\n\nWenn es uns jedoch gelingt, die Menschen von unseren guten Absichten zu überzeugen, oder wenn wir den Traditionalisten einige Zugeständnisse machen, sollten wir in der Lage sein, ihren Widerstand zu verringern."
+ TUR_kemalists_desc: "Die kemalistischen Reformen zielen darauf ab, den Visionen Mustafa Kemals von einer modernen türkischen Nation zu folgen, und basieren auf dem Testament, das der Gazi seinem treuen Freund Ismet Pascha hinterlassen hat. In seinem Testament hat Kemal alle seine Wünsche für den neuen türkischen Staat niedergeschrieben. Seine Reformen beruhen auf sechs Grundprinzipien: Republikanismus, Nationalismus, Populismus, Laizismus, Revolutionismus und Etatismus. Kemals Wille ist jedoch komplex, extremistisch und zutiefst antireligiös. Er hätte sich eine vollständige Trennung von Kirche und Staat gewünscht und hatte noch düsterere Vorstellungen vom Padischah. Ismet Pascha wird sich mit dem Widerstand der Traditionalisten auseinandersetzen müssen, wenn er diese Reformen durchsetzen will..\n\n§YTraditionalistischer Widerstand§!: [?TUR_traditionalist_resistance|%%R0]\n\nWenn es uns jedoch gelingt, die Menschen von unseren guten Absichten zu überzeugen, oder wenn wir den Traditionalisten einige Zugeständnisse machen, sollten wir in der Lage sein, ihren Widerstand zu verringern."
  TUR_loyal_administrators: "Aktuelle Loyale Administratoren"
  TUR_install_loyalists: "Installiere Loyale Adminsitratoren in §Y[From.GetName]§!"
  TUR_deal_with_traditionalist_rebels: "Kümmere dich um Traditionalistische Rebellen"

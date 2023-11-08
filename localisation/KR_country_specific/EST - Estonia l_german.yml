@@ -364,8 +364,8 @@ LAT_EST_roads_to_riga: "Alle Straßen führen nach Riga"
  EST_expand_mechanisation: "Erweitern Sie die Mechanisierung in [FROM.GetName]"
  EST_develop_communal_farming_in_livonia: "Entwicklung der kommunalen Landwirtschaft in [191.getname]"
 
- EST_join_scandinavian_defense_union: "Beitritt zur Skandinavischen Verteidigungsunion"
- EST_join_scandinavian_defense_union_desc: "Die Skandinavische Verteidigungsunion wurde von den Demokratien Dänemark, Norwegen und Schweden gegründet, um fremde Mächte von einer Invasion in der Region abzuhalten. Unsere Brüder in Finnland haben es bereits für angebracht gehalten, sich ihnen in diesem Bestreben anzuschließen, also wäre es vielleicht klug, dass wir dasselbe tun?"
+ EST_join_nordic_council: "Beitritt zu [FROM.GetFactionName]"
+ EST_join_nordic_council_desc: "Die [FROM.GetFactionName] wurde von den Demokratien Dänemark, Norwegen und Schweden gegründet, um fremde Mächte von einer Invasion in der Region abzuhalten. Unsere Brüder in Finnland haben es bereits für angebracht gehalten, sich ihnen in diesem Bestreben anzuschließen, also wäre es vielleicht klug, dass wir dasselbe tun?"
 
  EST_join_nordic_federation: "Beitritt zur Nordischen Föderation"
  EST_join_nordic_federation_desc: "Unsere dänischen, finnischen, norwegischen und schwedischen Genossen haben sich in einer Föderation zusammengeschlossen. Estland ist zwar nicht skandinavisch, aber wir haben die gleichen demokratischen Ideale wie unsere Nachbarn. Wir können jederzeit beantragen, der Föderation beizutreten, auch wenn wir dafür einen Teil unserer Souveränität aufgeben müssen."

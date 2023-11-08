@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 NFA_focus: "Schwerpunktbaum von Französische Republik"
 
@@ -368,7 +368,6 @@ NFA_henri_vi_leader_desc: "Der 1908 geborene junge Henri d'Orléans hat sein gan
 kr_schneider: "Schneider"
 machines_bull: "Compagnie des Machines Bull"
 compagnie_petroles: "Compagnie Française des Pétroles"
-brandt_armament: "Établissements Brandt"
 darne: "Darne"
 manufacture_armes_tunis: "Manufacture Nationale d'Armes de Tunis"
 hotchkiss: "Hotchkiss"
@@ -515,8 +514,6 @@ NATFRA_Char_de_Rupture_idea: "Char de Rupture"
 NATFRA_Char_Forteresse_idea: "Festung Char"
 NATFRA_Primacy_of_the_Manoeuver_idea: "Vorrang des Manövers"
 NATFRA_Queen_of_the_Battlefield_idea: "Königin des Schlachtfelds"
-NATFRA_Brandt_Armament_idea: "Brandt Bewaffnung"
-NATFRA_Ammunition_Innovations_idea: "Innovationen bei der Munition"
 NATFRA_New_Colonial_Force: "Moderne Kolonialmacht"
 NATFRA_Infiltration_Tactics: "Infiltrationstaktiken"
 NATFRA_New_Air_Tactics_idea: "Taktik aus der Luft"
@@ -979,13 +976,12 @@ NATFRA_Primacy_of_the_Manoeuver_desc: "Der kommende Krieg wird ein Krieg der Bew
 NATFRA_Primacy_of_the_Manoeuver_tt: "Ersetzt die vorherige Idee durch §Y$NATFRA_Primacy_of_the_Manoeuver$§!\nEffektive Änderung:\n§Y$EQUIPMENT_ARMOR$§!:\n    $MODIFIER_BREAKTHROUGH$: §G+10%§!\n"
 NATFRA_Queen_of_the_Battlefield: "Königin des Schlachtfelds"
 NATFRA_Queen_of_the_Battlefield_desc: "Die Infanterie ist die Königin des Schlachtfelds, ohne sie könnte nichts erreicht werden: Zum Glück ist der französische Infanterist der beste der Welt, motiviert durch seinen \"élan\", den brennenden Wunsch, für die Patrie zu kämpfen. Um die Métropole zurückzuerobern, müssen unsere Truppen also perfekt gedrillt, tadellos ausgerüstet und von der heiligen Sache, für die sie kämpfen, überzeugt sein."
-NATFRA_Brandt_Armament: "Brandt Bewaffnung"
-NATFRA_Brandt_Armament_desc: "Die Brandt-Etablissements sind ein großes Industriekonglomerat, das sich vor allem auf die Produktion von Granaten und Artillerie konzentriert. Als langjähriger Ausrüster unserer Streitkräfte hat sich das Unternehmen nach dem Exil in Algerien erfolgreich wieder etabliert: Ihre Mitarbeit bei den kommenden Kriegsanstrengungen wird uns helfen, unsere Ausrüstung zu modernisieren."
+NATFRA_Investments_in_Hotchkiss: "Investitionen in Hotchkiss"
+NATFRA_Investments_in_Hotchkiss_desc: "Hotchkiss ist ein großes Industriekonglomerat, das sich vor allem auf die Produktion von Granaten und Artillerie konzentriert. Als langjähriger Ausrüster unserer Streitkräfte hat sich das Unternehmen nach dem Exil in Algerien erfolgreich wieder etabliert: Ihre Mitarbeit bei den kommenden Kriegsanstrengungen wird uns helfen, unsere Ausrüstung zu modernisieren."
 NATFRA_Heir_to_the_old_75: "Erbe der alten 75"
 NATFRA_Heir_to_the_old_75_desc: "Das 75-mm-Feldgeschütz, seit 1898 im Dienst, war die Wunderwaffe, das perfekte leichte Artilleriegeschütz und der ganze Stolz unserer Armeen. Der Weltkrieg zeigte jedoch seine Grenzen auf, da sich schwerere Geschütze im Grabenkrieg als kritisch erwiesen, und obwohl sie leicht ist, eignet sie sich nicht für die motorisierte Kriegsführung: ein würdiger Nachfolger wird entwickelt."
 NATFRA_Ammunition_Innovations: "Innovationen bei der Munition"
 NATFRA_Ammunition_Innovations_desc: "Das Kriegsministerium hat in Zusammenarbeit mit der Rüstungsindustrie eine weitreichende Forschungs- und Entwicklungsarbeit begonnen, die auf eine schnellere Produktion von Granaten und Munition abzielt, die im Idealfall weniger Ressourcen benötigt, da die benötigten Metalle im Reich selten sind, und generell Munition, die besser für unsere Bedürfnisse geeignet ist. Unsere Arbeitskraft ist kostbar, und jeder Vorteil, den unsere Männer im Feld erlangen können, wird entscheidend sein."
-NATFRA_Ammunition_Innovations_tt: "Ersetzt §YBrandt Bewaffnung§! durch §YInnovationen bei der Munition§!\nEffektive Änderung:\n§YInfanterieausrüstung§!    Weicher Angriff: §G+10%§!\n    Harter Angriff: §G+5%§!\n"
 NATFRA_Colonial_Special_Force: "Koloniale Spezialeinheit"
 NATFRA_Colonial_Special_Force_desc: "Unsere Kolonialtruppe, die allgemein als "la Coloniale" bezeichnet wird, meist aus Franzosen besteht und normalerweise als erste in Übersee eingesetzt wird, wurde im Weltkrieg dezimiert. Aber sie waren die Speerspitze der Eroberungen des letzten Jahrhunderts, und ihre stolze Tradition ist sehr lebendig: Mit einigen Umstrukturierungs- und Rekrutierungsbemühungen werden sie eines Tages die ersten sein, die an den Stränden des französischen Festlandes landen."
 NATFRA_Tactical_Studies_Center: "Zentrum für taktische Studien"
@@ -1513,7 +1509,6 @@ refused_referendum: "Weigerte sich, das Volk an einem Referendum zur nationalen 
 NFA_Metropole_Cored_tt: "Alle Staaten im Besitz von der §CMetropolregion Frankreich§!: \n   Ist eine Kernprovinz von §Y[NFA.GetNameWithFlag]§!"
 nfa_rebuild_north_tt: "Dies wird §Yeine Entscheidung freischalten§! zum Wiederaufbau von §CNordfrankreich§!"
 nfa_rebuild_south_tt: "Dies wird §Yeine Entscheidung freischalten§! zum Wiederaufbau von §CSüdfrankreich§!"
-NFA_upgrade_brandt: "§H$brandt_armament$§! wird §Gverbessert§!."
 NFA_if_owned: "Wenn §H[?target.GetName]§! im Besitz und unter Kontrolle ist:"
 
 # CP PP Custom Costs #

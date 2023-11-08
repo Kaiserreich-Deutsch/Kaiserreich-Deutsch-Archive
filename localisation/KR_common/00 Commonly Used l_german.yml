@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 ### Regular Tooltips (for use in custom_effect_tooltip) ###
 tooltip_white_line: "   \n"
@@ -24,6 +24,9 @@ tooltip_apply_one_of_effects_depending_on_ruling_party: "§gWendet einen der fol
 
 tooltip_event_allows_choice: "Das Ereignis ermöglicht die Auswahl einer der folgenden Möglichkeiten:"
 tooltip_event_choice_or: "ODER"
+
+improves_designer_tt: "§GVerbessert§! §YDesign Unternehmen§!:"
+improves_industrial_concern_tt: "§GVerbessert§! §YIndustriekonzern§!:"
 
 #scoped to the country joining
 tooltip_joins_faction: "Tritt der Fraktion bei."
@@ -57,6 +60,8 @@ has_completed_focus: "Hat den Schwerpunkt abgeschlossen §H"
 has_completed_decision: "Hat Entscheidung £decision_icon_small §H abgeschlossen"
 gets_event_start: "Erhält das Ereignis '§H"
 gets_event_end: "§!'."
+
+tooltip_event_pauses_focus: "Ein Ereignis im Zusammenhang mit diesem Schwerpunkt wartet auf eine Entscheidung"
 
 # example of the above
 # flag_loc_entry: "$has_completed_decision$$your_decision_here$§!"

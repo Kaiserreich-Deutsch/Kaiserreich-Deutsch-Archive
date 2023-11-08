@@ -1574,10 +1574,10 @@ canada.322.d: "Der kanadische Nationalismus war nie wie der ihrer amerikanischen
 canada.322.a: "Wir wollen es nicht übertreiben, oder?"
 
 canada.323.t: "Kanada zieht sich aus der Entente zurück"
-canada.323.d: "Nachdem die kanadische Regierung die Beziehungen zur britischen Monarchie gekappt hatte, war es nur eine Frage der Zeit, bis sie sich mit ihrer Rolle in der Entente-Allianz befassen würde - und das hat sie nun getan, und zwar endgültig, indem sie ihren Rückzug aus allen Rollen in der Entente mit Wirkung von heute ankündigte. In Anbetracht der Tatsache, dass es Kanada war, das die Entente so viele Jahre lang angeführt hat, fragen sich die militärischen Führer der Allianz, was dies für ihre Zukunft bedeutet... und, in der Tat, ob die Bindungen zu Kanada jemals wirklich gelöst werden können. Während britische Offizielle über die "törichte Isolierung" Kanadas gespottet haben, scheinen die Kanadier zuversichtlich, dass ihre Rolle als unabhängige und starke Nation nur weiteren Wohlstand bringen kann."
-canada.323.a: "Es war an der Zeit"
+canada.323.d: "Nachdem die kanadische Regierung die Beziehungen zur britischen Monarchie gekappt hatte, war es nur eine Frage der Zeit, bis sie sich mit ihrer Rolle in der Entente-Allianz befassen würde - und das hat sie nun getan, und zwar endgültig, indem sie ihren Rückzug aus allen Rollen in der Entente mit Wirkung von heute ankündigte. In Anbetracht der Tatsache, dass es Kanada war, das die Entente so viele Jahre lang angeführt hat, fragen sich die militärischen Führer der Allianz, was dies für ihre Zukunft bedeutet... und, in der Tat, ob die Bindungen zu Kanada jemals wirklich gelöst werden können.\n\nWährend britische Offizielle über die "törichte Isolierung" Kanadas gespottet haben, scheinen die Kanadier zuversichtlich, dass ihre Rolle als unabhängige und starke Nation nur weiteren Wohlstand bringen kann."
+canada.323.a: "Es war an der Zeit."
 canada.323.b: "Es ist ihre Entscheidung, so dumm sie auch sein mag."
-canada.323.c: "Die Entente ohne Kanada ist schwer vorstellbar"
+canada.323.c: "Die Entente ohne Kanada ist schwer vorstellbar."
 
 canada.324.t: "[From.GetNameDefCap] beansprucht [claimed_state.GetName]"
 canada.324.d: "Mit einer Welle des Nationalismus seit dem Abbruch der Beziehungen zu [GBR.GetNameDef] hat [From.GetNameDef] Anspruch auf den Staat [claimed_state.GetName] erhoben, der derzeit von [Root.GetNameDef] gehalten wird. Er ist laut der [From.GetAdjective]-Regierung Teil ihres "größeren Schicksals". Ob sie beabsichtigen, ihren Anspruch zu untermauern, bleibt abzuwarten."
