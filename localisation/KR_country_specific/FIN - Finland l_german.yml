@@ -851,18 +851,27 @@
  finland.132.a: "Unsere Sicherheit ist gewährleistet."
 
 ### Companies ###
- nokia: "Nokia"
- salora: "Salora"
- rikkihappo: "Rikkihappo"
- lapua: "Lapua"
- tikkakoski: "Tikkakoski"
- vihtavuori: "Vihtavuori"
- tampella: "Tampella"
- vanajan_autotehdas: "Vanajan Autotehdas"
- kr_sisu: "SAT"
- valtion_company: "Valtion Lentokonetehdas"
- veljekset_karhumaki: "Veljekset Karhumaki"
- crichton_vulcan: "Crichton-Vulcan"
+ FIN_outokumpu: "Outokumpu"
+ FIN_tampella: "Tampella"
+ FIN_pohjolan_voima: "Pohjolan Voima"
+ FIN_nokia: "Nokia"
+ FIN_valtionrautatiet: "Valtionrautatiet (Staatsbahnen)"
+
+ FIN_valtion_panssaritehdas: "Valtion Panssaritehdas (Staatliche Panzerfabrik)"
+
+ FIN_crichton_vulcan: "Crichton-Vulcan"
+
+ FIN_valtion_lentokonetehdas: "Valtion Lentokonetehdas (Staatliche Flugzeugfabrik)"
+
+ FIN_valtion_kivaaritehdas: "Valtion Kivääritehdas (Staatliche Gewehrfabrik)"
+ FIN_valtion_tykkitehdas: "Valtion Tykkitehdas (Staatliche Kanonenfabrik)"
+ FIN_sisu_auto: "Sisu Auto"
+
+### MIO Traits ###
+ FIN_rapid_raiders: "Schnelle Raider"
+ FIN_deep_sea_raiders: "Tiefsee Raider"
+ FIN_wartsila_engine_production: "Wärtsilä Motorenproduktion"
+ FIN_mio_trait_modernization_program: "Modernisierungs Programme"
 
 ### Ideas ### 
  FIN_mounting_dissent_idea: "Zunehmender Dissens"

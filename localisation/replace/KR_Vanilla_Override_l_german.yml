@@ -188,8 +188,7 @@ one_island: "Überseeterritorium"
 zero_island: "Abgelegene Insel(n)"
 
 ### military_industrial_organization_l_english
- generic_tank_organization: "Allgemeiner Panzerhersteller"
- generic_mio_initial_trait_standardized_production: "Allgemeiner Panzer Konstrukteur"
+ generic_mio_initial_trait_general_tank_designer: "Allgemeiner Panzer Konstrukteur"
  generic_mio_initial_trait_infantry_tanks_designer: "Infanterie Panzer Konstrukteur"
  generic_mio_initial_trait_fast_tanks_designer: "Schneller Panzer Konstrukteur"
 

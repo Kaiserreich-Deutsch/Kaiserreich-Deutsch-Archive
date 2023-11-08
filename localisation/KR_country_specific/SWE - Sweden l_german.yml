@@ -17,27 +17,32 @@
  SWE_revolution_threat: "Revolution in Sweden"
 
 ### Companies ###
- lkab: "LKAB"
- ericsson: "Ericsson"
- aga: "AGA"
- carl_gustavs_stad: "Carl Gustafs Stads Gevärsfaktori"
- husqvarna_vapenfabriks: "Husqvarna Vapenfabriks Aktiebolag"
- swe_bofors: "Bofors"
- swe_scania_vabis: "Scania-Vabis"
- volvo: "Volvo"
- asea: "ASEA"
- swe_landsverk: "Landsverk"
- tidaholms_bruk: "Tidaholms Bruk"
- hagglunds: "Hägglund & Söner"
- svenska_aeroplan: "Svenska Aeroplan AB"
- thulinverken: "AB Thulinverken"
- sweden_sas_company: "Scandinavian Airlines"
- gotaverken: "Götaverken"
- kockums: "Kockums"
- lindholmen: "Lindholmen"
+ SWE_lkab: "LKAB"
+ SWE_ericsson: "Ericsson"
+ SWE_aga: "AGA"
+ SWE_carl_gustavs_stad: "Carl Gustafs Stads Gevärsfaktori"
+ SWE_husqvarna_vapenfabriks: "Husqvarna Vapenfabriks Aktiebolag"
+ SWE_bofors: "Bofors"
+ SWE_scania_vabis: "Scania-Vabis"
+ SWE_volvo: "Volvo"
+ SWE_landsverk: "Landsverk"
+ SWE_svenska_aeroplan_ab: "Svenska Aeroplan AB"
+ SWE_thulinverken: "AB Thulinverken"
+ SWE_gotaverken: "Götaverken"
+ SWE_kockums: "Kockums"
+
+### MIO Traits ###
+ SWE_mio_trait_state_subsidies: "Staatliche Subventionen"
+
+ SWE_mio_trait_bofors_fly_swatter: "Bofors Fly Swatter"
+ SWE_mio_trait_bofors_anti_tank_gun: "Bofors Anti-Tank Gun"
+ SWE_mio_trait_advanced_armour_piercing_rounds: "Fortgeschrittene Panzerbrechende Munition"
+
+ SWE_mio_trait_forefront_of_aeroplane_development: "Vorreiter der Flugzeugentwicklung"
+
+ SWE_mio_trait_high_capacity_dockyards: "Hochleistungswerften"
 
 ### Ideas ###
-
  SWE_statare_idea: "Statare"
  SWE_statare_idea_desc: "Statare sind Vertragsarbeiter auf Jahresbasis aus der untersten Schicht der schwedischen Gesellschaft. Sie werden nicht mit Geld, sondern mit Lebensmitteln entlohnt, und ihr Fortbestehen als Relikt der Vormoderne ist aufgrund ihrer schlechten Arbeitsbedingungen zu einer Art nationaler Peinlichkeit geworden."
  SWE_political_instability_idea: "Politische Instabilität"

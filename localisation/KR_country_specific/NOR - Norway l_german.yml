@@ -58,6 +58,9 @@
  marinens_hovedverft: "Marinens Hovedverft"
  nylands_verksted: "Nylands Verksted"
 
+### MIO Traits ###
+ NOR_mio_trait_convoy_production: "Konvoi Produktion"
+
 ### Ideas ###
  NOR_labour_conflicts: "Arbeitskonflikte"
  NOR_labour_conflicts_desc: "Die norwegische Wirtschaft wird von ständigen Arbeitskonflikten geplagt. Infolgedessen gehen jedes Jahr Millionen von Arbeitsstunden aufgrund von Streiks und Versorgungsproblemen verloren."

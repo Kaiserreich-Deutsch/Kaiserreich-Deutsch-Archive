@@ -253,7 +253,7 @@
  LBA_idris_btfo: "Die Senussi-Prinzen sind entmachtet worden"
 
  LBA_trans_sahara_map_category_name: "Zeigt die wichtigsten Stationen der Transsaharahandelsroute"
- LBA_senussi_network_map_category_name: "Shows the Senussi Network"
+ LBA_senussi_network_map_category_name: "Zeigt das Senussi Netzwerk"
  cyr_siwa_blocked: "£trigger_no §RSiwa§! (blockiert durch [452.owner.GetFlag])"
  cyr_siwa_open: "£trigger_yes Siwa"
  cyr_murzuq_blocked: "£trigger_no §RMurzuk§! (blockiert durch [273.owner.GetFlag])"
