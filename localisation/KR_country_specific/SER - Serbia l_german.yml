@@ -1287,10 +1287,10 @@ SER_New_Army_Tactics_desc: "Der Krieg hat sich verändert. Was vor zwei Jahrzehn
 SER_Begin_Mechanisation: "Mechanisierung starten"
 SER_Begin_Mechanisation_desc: "Bis heute ist die serbische Armee auf die Stärke des Soldaten aufgebaut. Doch mit dem unaufhaltsamen Vormarsch der Technologie sind Kraftfahrzeuge zu einem wichtigen Mittel geworden, um die Effektivität der Soldaten zu erhöhen. Von nun an werden wir unsere Streitkräfte motorisieren, was sie sowohl schneller als auch ausgeruhter macht."
 
- SER_Import_Russian_Armor: "Russische Rüstung importieren"
+ SER_Import_Russian_Armor: "Russische Panzer importieren"
  SER_Import_Russian_Armor_desc: "In den weiten Ebenen Osteuropas ist der schnelle und wendige russische Panzer hervorragend, und wir haben die Möglichkeit, seine Panzer zu importieren, um sie in den serbischen Streitkräften zu verwenden."
 
- SER_Import_French_Armor: "Französische Rüstung importieren"
+ SER_Import_French_Armor: "[INT.GetAdjective] Panzer importieren"
  SER_Import_French_Armor_desc: "Syndikalistische Panzer, die zur Unterstützung von Infanterieverbänden und zum Durchstoßen deutscher Schützengräben entwickelt wurden, sind gewaltige Ungetüme, die nicht aufzuhalten sind. Wir haben die Möglichkeit, ihre Panzer zu importieren, um sie in den serbischen Streitkräften zu verwenden."
 
  SER_Lessons_Of_The_War: "Lehren des Krieges"

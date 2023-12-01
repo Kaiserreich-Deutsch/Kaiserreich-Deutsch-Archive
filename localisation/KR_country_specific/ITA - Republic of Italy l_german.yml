@@ -43,13 +43,19 @@ ITA_national_populist_party_long: "Associazione Nazionalista Italiana (Italienis
  accademia_aeronautica_brescia: "Accademia Aeronautica di Brescia"
  caproni: "Caproni"
  aeronautica_macchi: "Aeronautica Macchi"
- kr_savoia_marchetti: "Savoia Marchetti"
+ savoia_marchetti: "Savoia Marchetti"
  fratelli_nardi: "Fratelli Nardi"
  universita_milano: "Università di Milano"
  astaldi: "Astaldi"
  societa_edison: "Società Edison"
  societa_pont_saint_martin: "Società Pont Saint Martin"
  pirelli: "Pirelli"
+
+### MIO Traits ###
+ ITALY_mio_trait_air_race_pedigree: "Luftrennen-Ahnentafel"
+ ITALY_mio_trait_special_aerotorpedoes_unit: "Spezielle Luft-Torpedo-Einheit"
+ ITALY_mio_trait_remote_operated: "Ferngesteuert"
+ ITALY_mio_trait_high_altitude_fighter_development: "Entwicklung von Höhenjägern"
 
 ### World Tension ###
  italian_wars_threat: "Italienischer Bürgerkrieg"

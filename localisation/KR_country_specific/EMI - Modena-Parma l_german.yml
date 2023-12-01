@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 emilia_focus: "Schwerpunktbaum von Herzogtum Emilia"
 
@@ -11,9 +11,9 @@ EMI_social_conservative_party: "LC"
 EMI_social_conservative_party_long: "Lega Cattolica"
 EMI_authoritarian_democrat_party: "PA"
 EMI_authoritarian_democrat_party_long: "Partito Agrario"
-EMI_paternal_autocrat_party: "Casa D'Asburgo-Este"
-EMI_paternal_autocrat_party_long: "Casa D'Asburgo-Este"
-EMI_national_populist_party: "LA"
+EMI_paternal_autocrat_party: "GE"
+EMI_paternal_autocrat_party_long: "Guardia Emiliana"
+EMI_national_populist_party: "GE"
 EMI_national_populist_party_long: "Guardia Emiliana"
 EMI_social_liberal_party: "PSL"
 EMI_social_liberal_party_long: "Partito Social Liberale"
@@ -204,23 +204,22 @@ EMI: "Modena"
 EMI_ADJ: "Modenesisch"
 EMI_DEF: "Modena"
 
-EMI_authoritarian_democrat: "Herzogtum Modena"
-EMI_authoritarian_democrat_ADJ: "Modenesisch"
-EMI_authoritarian_democrat_DEF: "das Herzogtum Modena"
-
-EMI_PAR: "Parma"
-EMI_PAR_ADJ: "Parmesisch"
-EMI_PAR_DEF: "Parma"
+EMI_parma: "Parma"
+EMI_parma_ADJ: "Parmesisch"
+EMI_parma_DEF: "Parma"
 
 ### Characters ###
 EMI_giuseppe_castagnetti: "Giuseppe Castagnetti"
 EMI_odoardo_focherini: "Odoardo Focherini"
 
 EMI_enzo_ferrari: "Enzo Ferrari"
-EMI_elia_borbone_leader_desc: "Der 1880 geborene Elia von Bourbon-Parma hat nie auf einem Thron gesessen, denn wie die meisten Monarchen der Föderation war er nicht in der Lage, während der Kriegswirren im Zuge des Vertrags von Rom zurückzukehren. Nachdem er die meiste Zeit seines Lebens im Exil auf den Gütern seiner Familie gelebt hatte, war er nach der Revolution gezwungen, seinen Geburtsort in Frankreich zu verlassen, aber auch schon vorher hatte der französische Staat seine Familie wegen ihrer Verbindungen zu Österreich-Ungarn während des Weltkriegs verfolgt. Während er technisch gesehen als Regent für seine dementen Brüder fungierte, ist Elias seit langem de facto das Oberhaupt des Hauses, und seine Besteigung des nun wiederhergestellten Throns ist kaum mehr als eine dynastiepolitische Selbstverständlichkeit. Es mangelt ihm jedoch nicht an Kritik für das, was manche als schamlosen Ehrgeiz ansehen, der über das Wohlergehen seines eigenen Bruders gestellt wird."
 
-EMI_roberto_este: "Roberto I"
+EMI_roberto_este: "Roberto D'Asburgo-Este"
+EMI_roberto_este_regnal: "Roberto I"
 EMI_roberto_este_leader_desc: "Roberto D'Asburgo-Este, Erzherzog von Österreich, wurde noch im Kindesalter das Amt des Herzogs von Modena versprochen. Er hat sein Herzogtum nie betreten, da es einer der ersten Orte war, aus dem sich die Bundesstreitkräfte während des chaotischen Bürgerkriegs in Italien zurückziehen mussten. Roberto, der zweite Sohn von Karl I., wuchs in Österreich an der Seite der königlichen Familie auf und dachte, obwohl er Italienisch gelernt hatte, die meiste Zeit seines Lebens nur selten an seine Pflichten als Oberhaupt des Hauses Österreich-Este. Doch nun ist er Herzog, und nur wenige können behaupten, dass seine Position nicht gerade beneidenswert ist, denn die Wiederherstellung des vom Syndikalismus verwüsteten Landes und die Bewältigung einer völlig neuen politischen Landschaft ohne jegliche politische Erfahrung ist eine ziemlich schwierige Aufgabe."
 
-EMI_elia_borbone: "Elia I"
+EMI_elia_borbone: "Elia di Borbone-Parma"
+EMI_elia_borbone_regnal: "Elia I"
+EMI_elia_borbone_leader_desc: "Der 1880 geborene Elia von Bourbon-Parma hat nie auf einem Thron gesessen, denn wie die meisten Monarchen der Föderation war er nicht in der Lage, während der Kriegswirren im Zuge des Vertrags von Rom zurückzukehren. Nachdem er die meiste Zeit seines Lebens im Exil auf den Gütern seiner Familie gelebt hatte, war er nach der Revolution gezwungen, seinen Geburtsort in Frankreich zu verlassen, aber auch schon vorher hatte der französische Staat seine Familie wegen ihrer Verbindungen zu Österreich-Ungarn während des Weltkriegs verfolgt. Während er technisch gesehen als Regent für seine dementen Brüder fungierte, ist Elias seit langem de facto das Oberhaupt des Hauses, und seine Besteigung des nun wiederhergestellten Throns ist kaum mehr als eine dynastiepolitische Selbstverständlichkeit. Es mangelt ihm jedoch nicht an Kritik für das, was manche als schamlosen Ehrgeiz ansehen, der über das Wohlergehen seines eigenen Bruders gestellt wird."
+
 EMI_giuseppe_boriani: "Giuseppe Boriani"

@@ -134,6 +134,7 @@ AUS_ausgleich_peoples: "Alle Nationalitäten zum Ausgleich eingeladen."
  bayer_austria: "Bayer Austria"
  bohler: "Böhler AG"
  simmering_graz_pauker: "Simmering-Graz-Pauker"
+ trinecke_zelezarny: "Třinecké Železárny"
  wiener_neu_lokomotiv: "Wiener Neustädter Lokomotivfabrik"
  wiener_neu_flugzeug: "Wiener Neustädter Flugzeugwerke"
  oeffag: "Oesterreichische Flugzeugfabrik AG"
@@ -1290,7 +1291,7 @@ aus.tree.4026.d: "Ohne sich die Mühe zu machen, ein Gegenangebot zu unterbreite
 aus.tree.4026.a: "Nun denn"
 
  aus.tree.4030.t: "Erweiterung des Wiener Kreises"
- aus.tree.4030.d: "[From.GetNameDefCap], ein Land, mit dem wir viele Verbindungen haben, hat zum Wiener Kreis eingeladen - eine angesehene Gruppe von Spitzenwissenschaftlern, Mathematikern und anderen Denkern, die zusammenkommen, um die großen Themen des Tages zu diskutieren und die Forschung auch mit praktischen Mitteln voranzubringen. In dem offiziellen Papier heißt es, man freue sich auf die Zusammenarbeit mit den Intellektuellen von [Root.GetNameDef]. Unsere Aufnahme würde zu einer erheblichen Stärkung unserer eigenen technologischen Kapazitäten führen, auch wenn einige anmerken, dass es sich dabei um einen weiteren Versuch handeln könnte, die [From.GetAdjective]-Sphäre um ihr namensgebendes Mitglied zu konsolidieren.\n\nAuch diese Zyniker können nicht leugnen, dass es ein großer Schritt für den wissenschaftlichen Sektor und das internationale Ansehen unseres Landes ist, in eine Organisation von so großem Ruf aufgenommen zu werden."
+ aus.tree.4030.d: "[From.GetNameDefCap], ein Land, mit dem wir viele Verbindungen haben, hat uns in den Wiener Kreis eingeladen - eine angesehene Gruppe von Spitzenwissenschaftlern, Mathematikern und anderen Denkern, die zusammenkommen, um die großen Themen des Tages zu diskutieren und die Forschung auch mit praktischen Mitteln voranzubringen. In dem offiziellen Papier heißt es, man freue sich auf die Zusammenarbeit mit den Intellektuellen von [Root.GetNameDef]. Unsere Aufnahme würde zu einer erheblichen Stärkung unserer eigenen technologischen Kapazitäten führen, auch wenn einige anmerken, dass es sich dabei um einen weiteren Versuch handeln könnte, die [From.GetAdjective]-Sphäre um ihr namensgebendes Mitglied zu konsolidieren.\n\nAuch diese Zyniker können nicht leugnen, dass es ein großer Schritt für den wissenschaftlichen Sektor und das internationale Ansehen unseres Landes ist, in eine Organisation von so großem Ruf aufgenommen zu werden."
  aus.tree.4030.a: "Exzellent"
 
 ### Country Names ###

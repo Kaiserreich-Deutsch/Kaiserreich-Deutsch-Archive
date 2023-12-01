@@ -60,4 +60,4 @@ RHI_national_populist_party_long: "Völkische Werkgemeinschaft"
  ### Nationale Ideen ###
 
  RHI_rhenish_reparations: "Rheinische Reparationen"
- RHI_rhenish_reparations_desc: "Als Teil ihrer Nachkriegsforderungen hat die französische Regierung den größten Teil der Industrie im Rheinland beschlagnahmt, um der siegreichen Seite Reparationen zu zahlen. Die meisten arbeitsfähigen Männer werden in den Fabriken erwartet, nur ein kleiner Teil wird für die Polizei und die örtlichen Verteidigungskräfte eingesetzt."
+ RHI_rhenish_reparations_desc: "Als Teil ihrer Nachkriegsforderungen hat die [ROOT.overlord.GetAdjective] Regierung den größten Teil der Industrie im Rheinland beschlagnahmt, um der siegreichen Seite Reparationen zu zahlen. Die meisten arbeitsfähigen Männer werden in den Fabriken erwartet, nur ein kleiner Teil wird für die Polizei und die örtlichen Verteidigungskräfte eingesetzt."

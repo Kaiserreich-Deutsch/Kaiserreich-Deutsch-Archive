@@ -63,6 +63,10 @@ icar: "ICAR"
 fabrica_avioane_set: "Fabrica de Avioane SET"
 santierul_naval_constanta: "Şantierul Naval Constanţa"
 
+### MIO Traits ###
+ ROM_mio_trait_coastal_defense_production: "Küstenschutz Herstellung"
+ ROM_mio_trait_mobile_tank_destroyers: "Mobile Panzerjäger"
+
 ### Name Lists ###
 NAME_THEME_LITERARY_FIGURES: "Literarische Figuren"
 

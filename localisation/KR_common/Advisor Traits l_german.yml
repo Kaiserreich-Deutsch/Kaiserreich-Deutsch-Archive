@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 ##################################
 ### Generic Political Advisors ###
@@ -153,13 +153,25 @@ KR_young_guard_sic: "$KR_young_guard$"
 ### Unique Political Advisors & Seconds in Command ###
 ######################################################
 
-### AUS ###
-KR_paneuropean: "Herausragender Paneuropäer"
-KR_genius_cryptologist: "Genialer Kryptologe"
+### ARM ###
+KR_emergency_government_sic: "Notstandsregierung"
+KR_dashnak_pragmatist_sic: "Daschnak Pragmatiker"
+KR_nzhdehs_protege_sic: "Nzhdeshs Schützling"
+KR_patriotic_visionary_sic: "Patriotischer Visionär"
+KR_diligent_reformer_sic: "Eifriger Reformer"
+KR_resolute_activist_sic: "Entschlossener Aktivist"
+KR_harbiye_officer_sic: "Harbiye Offizier"
+KR_son_of_spartak_sic: "Sohn von Spartak"
+KR_free_thinking_intellectual_sic: "Freigeistiger Intellektueller"
+KR_face_of_the_military_sic: "Gesicht des militärischen Establishments"
 
 ### ASY ###
 KR_supportive_metropolitan: "Unterstützende Metropole"
 KR_gray_eminence_sic: "Graue Eminenz"
+
+### AUS ###
+KR_paneuropean: "Herausragender Paneuropäer"
+KR_genius_cryptologist: "Genialer Kryptologe"
 
 ### AZR ###
 KR_ottoman_attache: "Osmanischer Attaché"
@@ -395,9 +407,9 @@ KR_the_comissionaire: "Der Kommissar"
 POL_polish_machiavelli_sic: "Polnischer Machiavelli"
 
 ### POR ###
-KR_organic_doctrinaire: "Organischer Doktrinär"
+KR_organic_doctrinaire_sic: "Organischer Doktrinär"
+KR_the_kings_lieutenant_sic: "Der Leutnant des Königs"
 KR_militant_reactionary: "Militanter Reaktionär"
-KR_the_kings_lieutenant: "Der Leutnant des Königs"
 KR_veteran_democrat: "Demokratischer Veteran"
 KR_the_paladin: "Der Paladin"
 KR_charismatic_blueshirt: "Charismatisches Blueshirt"

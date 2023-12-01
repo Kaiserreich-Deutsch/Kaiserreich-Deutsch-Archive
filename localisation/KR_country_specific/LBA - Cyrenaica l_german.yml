@@ -683,7 +683,7 @@
  libya.25.c: "Gewährung der Unabhängigkeit Tripolitaniens (Als Tripolitanien spielen)"
 
  libya.26.t: "Gründung politischer Parteien"
- libya.26.d: "Während die Kyrenaika aufgrund ihrer streng theokratischen Struktur von den parteipolitischen Verrücktheiten weitgehend verschont geblieben ist, war die Region Tripolitanien viel enger mit dem osmanischen Zentrum verbunden und besonders anfällig für die Veränderungen, die durch die jungtürkische Revolution von 1908 und die anschließende Demokratisierung des Staates ausgelöst wurden. Liberale, Konservative, Sozialisten und viele andere hatten Zeit, sich zu entwickeln und den Grundstein für eine moderne libysche Versammlung zu legen.\n\nDiese Landschaft hat zur Bildung von drei großen Machtblöcken geführt, die zumeist aus ehemaligen osmanischen Bürokraten und mächtigen städtischen Familien bestehen. Die Nationalistische Partei unter der Führung von Ahmad Faqih Hasan hat viele Anleihen bei der kemalistischen Bewegung genommen und plädiert für einen einheitlichen libyschen Staat, in dem die Religion von der politischen Bühne verschwindet. Sie lehnen die Senussis als Institution ab, da sie sie als schädlich für das Wohlergehen der Nation ansehen, haben aber kaum Mittel, um sie anzufechten. Der Nationalkongress unter der Führung von Bashir al-Saadawi ist ihre wichtigste Opposition und symbolisiert eine zerbrechliche Vereinigung berberischer und arabischer Interessen, die bereit ist, mit den Senussis zum Wohle Libyens zusammenzuarbeiten. Auch sie befürworten einen Einheitsstaat, sind aber bereit, diesen vorübergehend fallen zu lassen, um die Stabilität des Landes zu gewährleisten. Schließlich gibt es noch die Arbeiterpartei, die von Bashir bin Hamza angeführt wird. Sie lehnt jeden Kompromiss mit den Senussis ab, die sie als dekadente, anti-libysche Institution ansieht. Ihre Mitgliederzahl ist zwar im Vergleich zu den beiden anderen Blöcken unbedeutend, aber viele fürchten sich vor dem Kapital, das die Internationale der Organisation verliehen hat, und vor dem Einfluss französischer und italienischer Aktivisten in den Städten Tripolitaniens."
+ libya.26.d: "Während die Kyrenaika aufgrund ihrer streng theokratischen Struktur von den parteipolitischen Verrücktheiten weitgehend verschont geblieben ist, war die Region Tripolitanien viel enger mit dem osmanischen Zentrum verbunden und besonders anfällig für die Veränderungen, die durch die jungtürkische Revolution von 1908 und die anschließende Demokratisierung des Staates ausgelöst wurden. Liberale, Konservative, Sozialisten und viele andere hatten Zeit, sich zu entwickeln und den Grundstein für eine moderne libysche Versammlung zu legen.\n\nDiese Landschaft hat zur Bildung von drei großen Machtblöcken geführt, die zumeist aus ehemaligen osmanischen Bürokraten und mächtigen städtischen Familien bestehen. Die Nationalistische Partei unter der Führung von Ahmad Faqih Hasan hat viele Anleihen bei der kemalistischen Bewegung genommen und plädiert für einen einheitlichen libyschen Staat, in dem die Religion von der politischen Bühne verschwindet. Sie lehnen die Senussis als Institution ab, da sie sie als schädlich für das Wohlergehen der Nation ansehen, haben aber kaum Mittel, um sie anzufechten. Der Nationalkongress unter der Führung von Bashir al-Saadawi ist ihre wichtigste Opposition und symbolisiert eine zerbrechliche Vereinigung berberischer und arabischer Interessen, die bereit ist, mit den Senussis zum Wohle Libyens zusammenzuarbeiten. Auch sie befürworten einen Einheitsstaat, sind aber bereit, diesen vorübergehend fallen zu lassen, um die Stabilität des Landes zu gewährleisten. Schließlich gibt es noch die Arbeiterpartei, die von Bashir ibn Hamza angeführt wird. Sie lehnt jeden Kompromiss mit den Senussis ab, die sie als dekadente, anti-libysche Institution ansieht. Ihre Mitgliederzahl ist zwar im Vergleich zu den beiden anderen Blöcken unbedeutend, aber viele fürchten sich vor dem Kapital, das die Internationale der Organisation verliehen hat, und vor dem Einfluss französischer und italienischer Aktivisten in den Städten Tripolitaniens."
  libya.26.a: "Die Dolche sind gezückt"
 
  libya.27.t: "Lokale Behörden erhöhen die Steuern"
@@ -804,7 +804,7 @@
  trp.10.c: "al-Suwayhili übernimmt die Macht"
 
 ### Characters ###
- LBA_az_zubayr_bin_ahmad_as_sharif: "az-Zubayr bin Ahmad as-Sharif"
+ LBA_az_zubayr_bin_ahmad_as_sharif: "az-Zubayr ibn Ahmad as-Sharif"
  LBA_senussi_regency_council: "Senussi Regency Council"
  LBA_idris: "Idris I"
  LBA_umar_al_mukhtar: "Umar al-Mukhtār"
@@ -821,10 +821,10 @@
  LBA_yousef_borheil_al_massari: "Yousef Borheil al-Massari"
 
 ### Characters ###
- TRP_bashir_bin_hamza: "Bashir Bin Hamza"
+ TRP_bashir_bin_hamza: "Bashir ibn Hamza"
  TRP_ahmad_faqih_hasan: "Ahmad Faqih Hasan"
  TRP_bashir_saadawi: "Bashir Saadawi"
- TRP_sadiq_bin_zarra: "Sadiq bin Zarra"
+ TRP_sadiq_bin_zarra: "Sadiq ibn Zarra"
  TRP_salim_bey_al_muntasir: "Salim Bey al-Muntasir"
  TRP_ramadan_al_suwayhili: "Ramadan al-Suwayhili"
  TRP_ali_rajab: "'Ali Rajab"

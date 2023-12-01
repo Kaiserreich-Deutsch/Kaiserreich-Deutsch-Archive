@@ -59,6 +59,8 @@
  nylands_verksted: "Nylands Verksted"
 
 ### MIO Traits ###
+ NOR_mio_initial_trait_mechanical_workshop: "Werkstatt für Schwermaschinen"
+ NOR_mio_initial_trait_convoy_and_escort_fleet: "Konstrukteur von Handels- und Begleitschiffen"
  NOR_mio_trait_convoy_production: "Konvoi Produktion"
 
 ### Ideas ###
@@ -259,7 +261,7 @@
  NOR_SYN_new_norway_in_new_world: "Ein neues Norwegen in einer neuen Welt"
  NOR_SYN_new_norway_in_new_world_desc: "Das neue sozialistische Norwegen wird seinen eigenen Platz in der neuen Weltordnung des Syndikalismus einnehmen, eine der führenden Nationen neben Italien, Großbritannien und Frankreich, die am Kampf der Internationale teilgenommen haben."
  NOR_SYN_phalanstere: "Petition an die Phalanster"
- NOR_SYN_phalanstere_desc: "Die Phalanstere Internationale ist ein Programm zur industriellen Unterstützung der weniger industrialisierten sozialistischen Länder. Lasst uns eine Petition an die französische Kommune richten und um industrielle Hilfe und Expertise bitten!"
+ NOR_SYN_phalanstere_desc: "Die Phalanstere International ist ein Programm zur industriellen Unterstützung der weniger industrialisierten sozialistischen Länder. Lasst uns eine Petition an die französische Kommune richten und um industrielle Hilfe und Expertise bitten!"
  NOR_SYN_military_aid: "Militärische Hilfe anstreben"
  NOR_SYN_military_aid_desc: "Wenn wir unsere schwedischen Brüder und Schwestern befreien wollen, brauchen wir militärische Hilfe von unseren Freunden."
  NOR_SYN_swedish_unions: "Schwedische Gewerkschaften unterstützen"

@@ -214,8 +214,8 @@ QIE_expatairtraining_desc: "Es gibt zwar eine junge einheimische Flugausbildungs
 QIE_supportcompanies: "Zhili-Pioniercorps entwickeln"
 QIE_supportcompanies_desc: "Chinas zerklüftetes Terrain erfordert, dass jede Militärmacht ein starkes Ingenieurkorps hat, um sie zu unterstützen. Leider verhindert die Ad-hoc- und Amateurqualität vieler unserer Abteilungen, dass die technische Unterstützung wirklich effektiv ist. Wir müssen unsere eigenen Militäringenieurschulen aufbauen, um sicherzustellen, dass unsere Truppen ausreichend unterstützt werden."
 
-QIE_reorganise_divisions: "Reorganisation von Kriegsherrarmeen"
-QIE_reorganise_divisions_desc: "Jeder Kriegsherr, der etwas wert ist, hat seine eigene persönliche Miliz, um das Territorium zu kontrollieren, das er regiert. Leider unterscheiden sich diese Truppen in ihrer Qualität stark von halbprofessionellen Truppen bis hin zu Mobs, die eher daran gewöhnt sind, die Dörfer auszurauben und zu verbrennen, die sie theoretisch schützen. Indem wir beträchtliche Ressourcen für die Standardisierung und Modernisierung dieser Divisionen aufwenden, können wir sie zu wertvollen Einheiten auf dem Schlachtfeld machen."
+QIE_reorganize_divisions: "Reorganisation von Kriegsherrarmeen"
+QIE_reorganize_divisions_desc: "Jeder Kriegsherr, der etwas wert ist, hat seine eigene persönliche Miliz, um das Territorium zu kontrollieren, das er regiert. Leider unterscheiden sich diese Truppen in ihrer Qualität stark von halbprofessionellen Truppen bis hin zu Mobs, die eher daran gewöhnt sind, die Dörfer auszurauben und zu verbrennen, die sie theoretisch schützen. Indem wir beträchtliche Ressourcen für die Standardisierung und Modernisierung dieser Divisionen aufwenden, können wir sie zu wertvollen Einheiten auf dem Schlachtfeld machen."
 
 QIE_zhili_flood_dams: "Dammbrechungspläne"
 QIE_zhili_flood_dams_desc: "Ein schockierender Plan wurde von hochrangigen Zhili-Strategen entwickelt - das Brechen großer Dämme entlang des Gelben Flusses. Dies würde zu weit verbreiteten Überschwemmungen führen und alle feindlichen Vorstöße stoppen. Die zivilen und wirtschaftliche Kosten wären jedoch immens."
@@ -253,11 +253,11 @@ QIE_liumenggengplan_desc: "Der Plan von General Liu Menggeng konzentriert sich a
 QIE_expandmines: "Das Bergbauamt von Kailuan reorganisieren"
 QIE_expandmines_desc: "Das Kailuan Bergbauam wurde 1878 als Gemeinschaftsunternehmen zwischen der Regierung der Qing und einer Vielzahl britischer Geschäftsinteressen gegründet. Während der Kämpfe der Kriegsherren-Ära weitgehend zerstört, müssen wir die Minen wieder aufbauen und reorganisieren, um unsere Kriegsanstrengungen voranzutreiben."
 
-QIE_develop_tangshan_steel_decision: "Die [614.GetName] Minen neuaufbauen"
-QIE_develop_tangshan_steel_decision_desc: "Während der Kämpfe der Kriegsherren-Ära weitgehend zerstört, müssen wir die Minen wieder aufbauen und reorganisieren, um unsere Kriegsanstrengungen voranzutreiben."
+QIE_expandmines1: "Die [614.GetName] Minen neuaufbauen"
+QIE_expandmines1_desc: "Während der Kämpfe der Kriegsherren-Ära weitgehend zerstört, müssen wir die Minen wieder aufbauen und reorganisieren, um unsere Kriegsanstrengungen voranzutreiben."
 
-QIE_develop_hebei_steel_decision: "Die [1060.GetName] Minen neuaufbauen"
-QIE_develop_hebei_steel_decision_desc: "Während der Kämpfe der Kriegsherren-Ära weitgehend zerstört, müssen wir die Minen wieder aufbauen und reorganisieren, um unsere Kriegsanstrengungen voranzutreiben."
+QIE_expandmines2: "Die [1060.GetName] Minen neuaufbauen"
+QIE_expandmines2_desc: "Während der Kämpfe der Kriegsherren-Ära weitgehend zerstört, müssen wir die Minen wieder aufbauen und reorganisieren, um unsere Kriegsanstrengungen voranzutreiben."
 
 QIE_devscheme: "Daye-Hanyang Entwicklungsplan"
 QIE_devscheme_desc: "Der Daye-Hanyang-Korridor beherbergt den Großteil unserer Industriekapazitäten außerhalb von Peking, doch die Infrastruktur und die Stadtplanung in der Region lassen zu wünschen übrig. Indem wir in die Rodung von neuem Land für Fabriken und den Aufbau zusätzlicher ziviler Industrie zur Unterstützung der Militärarsenale investieren, können wir die Region modernisieren."
@@ -655,7 +655,7 @@ QIE_civil_military_relationship: "Ausgeglichene Zivil-Militär Sektoren"
 kaiping_mines: "Kaiping Mines"
 peking_university: "Imperial University of Beijing"
 jingling_arsenal: "Jingling Arsenal"
-gongxian_arsenal: "Gongxian Arsenal"
+gongxian_arsenal: "Gongxian Arsenal" hanyang_arsenal: "Hanyang Arsenal"
 hanyang_arsenal: "Hanyang Arsenal"
 wusong_locomotive_works: "Wusong Locomotive Works"
 china_aviation_corporation: "China National Aviation Corporation"
@@ -1819,7 +1819,7 @@ qiecoup.29.d: "Nach unseren jüngsten Umwälzungen hat sich die Wohlstandsliga a
 qiecoup.29.a: "Wir brauchen sie nicht!"
 
 qiecoup.30.t: "Blut im Wasser"
-qiecoup.30.d: "Nachdem die Hauptstadt in Flammen aufgegangen ist, ist klar geworden, dass sogar das Herz des Qing-Reiches ins Wanken geraten ist. Unerwartet wird die Fengtian-Regierung in Shenyang in der Zeit unserer größten Schwäche eine totale Offensive anordnen. Unter keinen Umständen dürfen unsere Männer an der Grenze angesichts der fengtianischen Vorstöße entlang der Grenze zurückweichen."
+qiecoup.30.d: "Nachdem die Hauptstadt in Flammen aufgegangen ist, ist klar geworden, dass sogar das Herz des Qing-Reiches ins Wanken geraten ist. Unerwartet wird die Fengtian-Regierung in Shenyang in der Zeit unserer größten Schwäche eine Großoffensive anordnen. Unter keinen Umständen dürfen unsere Männer an der Grenze angesichts der fengtianischen Vorstöße entlang der Grenze zurückweichen."
 qiecoup.30.a: "Bewacht die Grenzen, Zuolin darf nicht eingelassen werden."
 
 qiecoup.31.t: "Unsere Verbündeten schicken Hilfe!"

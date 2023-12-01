@@ -60,6 +60,11 @@ FRA_wave_of_dissent: "Welle der Unzufriedenheit"
  ateliers_de_saint_nazaire: "Ateliers et Chantiers de Saint-Nazaire Penhoët"
  fcm: "FCM"
 
+### MIO Traits ###
+ FRA_mio_trait_automitrailleuses: "Automitrailleuses"
+ FRA_mio_trait_b1_bis_suspension: "B1 bis Suspension"
+ FRA_mio_trait_l_35: "L/35"
+
 ### Ideas ###
 FRA_communard_spirit: "Kommunarder Geist"
 FRA_communard_spirit_desc: "Wir sind das Erbe der Pariser Kommune, des ersten sozialistischen Staates, der jemals geschaffen und dann von den republikanischen Reaktionären brutal unterdrückt wurde. Im Jahr 1920 rächten sich die Arbeiter schließlich und stürzten die Militärjunta der 'Partei der Ordnung'. Wir, Söhne und Töchter der Kommunarden, müssen unseren Staat und unseren Geist schützen, wir lassen uns nicht mehr von Tyrannen kommandieren!"
@@ -648,8 +653,8 @@ comfrance.57.d: "Die Bharatiya-Kommune bat um Unterstützung in ihrem Kampf gege
 comfrance.57.a: "Schickt Militärberater, um ihre Armee auszubilden!"
 comfrance.57.b: "Wir können unsere Ressourcen nicht verschwenden."
 
-comfrance.58.t: "Genosse Sail Mohammed möchte sprechen"
-comfrance.58.d: "Genosse Sail Mohammed, ein prominenter algerischer Sozialist, durfte vor dem versammelten Kongress sprechen. Er hat eine mitreißende Rede über die Situation in Marokko und Französisch-Afrika gehalten, wo die arabische Arbeit zum Nutzen der Reichen und des kolonialen Establishments missbraucht und ausgebeutet wird. Sail forderte den Kongress auf, der Situation sofort Einhalt zu gebieten. Er schlug die Schaffung eines sozialistischen antikolonialen Komitees vor, das daran arbeiten wird, lokale syndikalistische antikoloniale Verschwörer in Nordafrika zu versorgen."
+comfrance.58.t: "Genosse Saïl Mohamed möchte sprechen"
+comfrance.58.d: "Genosse Saïl Mohamed, ein prominenter algerischer Sozialist, durfte vor dem versammelten Kongress sprechen. Er hat eine mitreißende Rede über die Situation in Marokko und Französisch-Afrika gehalten, wo die arabische Arbeit zum Nutzen der Reichen und des kolonialen Establishments missbraucht und ausgebeutet wird. Sail forderte den Kongress auf, der Situation sofort Einhalt zu gebieten. Er schlug die Schaffung eines sozialistischen antikolonialen Komitees vor, das daran arbeiten wird, lokale syndikalistische antikoloniale Verschwörer in Nordafrika zu versorgen."
 comfrance.58.a: "Wir werden die Einrichtung des Ausschusses gerne unterstützen."
 
 comfrance.59.t: "Das Ende des ersten Kongresses"
@@ -825,7 +830,7 @@ comfrance.131.d: "Die syndikalistischen Strukturen des nachrevolutionären Frank
 comfrance.131.a: "Eine Verbesserung, kein Zweifel."
 
 comfrance.132.t: "Auflösung der CGT"
-comfrance.132.d: "Jetzt wenden wir uns gegen die letzte Stütze des Syndikalismus in Frankreich, der Allgemeiner Arbeitsbund - das dominierende Syndikat, das uns lange daran gehindert hat, die Macht in der Kommune zu übernehmen. Wir können endlich ihre Macht brechen, um zu verhindern, dass unser Rivale sich unserer kommunistischen Doktrin weiter widersetzt."
+comfrance.132.d: "Jetzt wenden wir uns gegen den letzten Pfeiler des Syndikalismus in Frankreich, die Confédération Générale du Travail - das dominierende Syndikat, das uns lange daran gehindert hat, die Macht in der Kommune zu übernehmen. Wir können endlich ihre Macht brechen, um zu verhindern, dass unser Rivale sich weiter gegen unsere kommunistische Doktrin wehrt."
 comfrance.132.a: "Sie sind gegen unsere Revolution."
 
 comfrance.133.t: "Berichte über Unruhen beim Militär"

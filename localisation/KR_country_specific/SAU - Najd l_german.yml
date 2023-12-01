@@ -38,7 +38,7 @@
 
 ### Decisions ###
  SAU_JBS_Power_Struggle: "Vorbereitungen für den Einigungskrieg"
- SAU_JBS_Power_Struggle_desc: "Seit Jahren haben wir auf die Gelegenheit gewartet, die arabische Halbinsel unter dem Haus Saud zu vereinen. Leider ließen uns die Osmanen nie aus den Augen und als das Britische Imperium 1925 auseinanderfiel, haben sie ihre rashidischen Schoßhündchen für ihre \"Loyalität\" während des Weltkriegs mehr als reichlich belohnt. Da uns nichts blieb, keine Verbündeten und keine neuen Territorien, wurde Abdulaziz immer ruheloser und rachsüchtiger.\n\nSaud bin Abd Al-Aziz genießt zwar zurzeit die Unterstützung seiner osmanischen Verbündeten, aber es ziehen dunkle Wolken auf, und sollte sein mächtiger Wohltäter sich um interne Probleme kümmern müssen, werden seine erbärmlichen Streitkräfte sich allein gegen den Zorn der Ikhwan behaupten müssen...\n\n§gDie Stärke unserer £in_combat §GVerbündeten§! wird die Größe unserer Armee zu Beginn des Krieges mit [JBS.GetNameWithFlag] bestimmen. Die zentralarabischen Stämme zu umwerben und uns die Unterstützung der Ikhwan zu sichern könnte uns einen entscheidenden Vorteil verschaffen.§!\n      [JBS.GetNameWithFlag] : [?JBS.num_divisions|H0] ([?JBS.tribes|H0])\n      [SAU.GetNameWithFlag] : [?SAU.num_divisions|H0] ([?SAU.tribes|H0])\n" 
+ SAU_JBS_Power_Struggle_desc: "Seit Jahren haben wir auf die Gelegenheit gewartet, die arabische Halbinsel unter dem Haus Saud zu vereinen. Leider ließen uns die Osmanen nie aus den Augen und als das Britische Imperium 1925 auseinanderfiel, haben sie ihre rashidischen Schoßhündchen für ihre \"Loyalität\" während des Weltkriegs mehr als reichlich belohnt. Da uns nichts blieb, keine Verbündeten und keine neuen Territorien, wurde Abdulaziz immer ruheloser und rachsüchtiger.\n\nSaud ibn Abd Al-Aziz genießt zwar zurzeit die Unterstützung seiner osmanischen Verbündeten, aber es ziehen dunkle Wolken auf, und sollte sein mächtiger Wohltäter sich um interne Probleme kümmern müssen, werden seine erbärmlichen Streitkräfte sich allein gegen den Zorn der Ikhwan behaupten müssen...\n\n§gDie Stärke unserer £in_combat §GVerbündeten§! wird die Größe unserer Armee zu Beginn des Krieges mit [JBS.GetNameWithFlag] bestimmen. Die zentralarabischen Stämme zu umwerben und uns die Unterstützung der Ikhwan zu sichern könnte uns einen entscheidenden Vorteil verschaffen.§!\n      [JBS.GetNameWithFlag] : [?JBS.num_divisions|H0] ([?JBS.tribes|H0])\n      [SAU.GetNameWithFlag] : [?SAU.num_divisions|H0] ([?SAU.tribes|H0])\n" 
 
  SAU_War_of_Unification: "Arabischer Einigungskrieg"
  SAU_War_of_Unification_desc: "Die finale Schlacht um die Kontrolle Zentralarabiens steht bevor, da die Osmanen aufgrund der weltweiten Wirtschaftskrise kurz vor dem Zusammenbruch stehen, was es ihnen unmöglich macht, den Frieden auf der Halbinsel zu wahren. Alle Emire werden eine Seite wählen müssen, denn die Zukunft der arabischen Welt wird mit Blut geschrieben und die Verlierer entehert oder auf dem Schlachtfeld niedergestreckt werden."
@@ -379,26 +379,26 @@
 
 ### Characters ###
  SAU_abdulaziz_ibn_saud: "Abdulaziz Ibn Saud"
- SAU_abdulaziz_ibn_saud_leader_desc: "Abdulaziz Ibn Saud, der Erzfeind vieler toter Männer, richtet seinen Fokus nun auf Saud bin Abdulaziz Al-Rashid. Diese Rivalität begann, als der junge Ibn Saud von den Rashiden aus der Stadt Riad geworfen wurde. Da er sich nie von den Emiren hat unterwerfen lassen, hat Ibn Sauds Vater die verarmten Männer der Küstenemirate unter einem Banner vereint, um das große Ziel seiner Dynastie, den Wahhabismus, zu erreichen. Dadurch gelang es ihnen, die Rashiden aus Riad zu verbannen, was jedoch vielen Männern das Leben kostete, darunter auch dem einzigen westlichen Verbündeten der Saudsis. Ibn Saud startete viele Fehden, die nun von den Saudis weitergeführt werden, da er seinen Hass gegen jeden Araber ausdrückte, der den Beduinen gegenüber negativ eingestellt war. Diese Saat der Wut hat er an seine Männer weitergegeben, welche seine Wildheit erbten und seinen jugendlichen Zorn vielleicht eines Tages gegen ihn verwenden könnten..."
+ SAU_abdulaziz_ibn_saud_leader_desc: "Abdulaziz Ibn Saud, der Erzfeind vieler toter Männer, richtet seinen Fokus nun auf Saud ibn Abdulaziz Al-Rashid. Diese Rivalität begann, als der junge Ibn Saud von den Rashiden aus der Stadt Riad geworfen wurde. Da er sich nie von den Emiren hat unterwerfen lassen, hat Ibn Sauds Vater die verarmten Männer der Küstenemirate unter einem Banner vereint, um das große Ziel seiner Dynastie, den Wahhabismus, zu erreichen. Dadurch gelang es ihnen, die Rashiden aus Riad zu verbannen, was jedoch vielen Männern das Leben kostete, darunter auch dem einzigen westlichen Verbündeten der Saudsis. Ibn Saud startete viele Fehden, die nun von den Saudis weitergeführt werden, da er seinen Hass gegen jeden Araber ausdrückte, der den Beduinen gegenüber negativ eingestellt war. Diese Saat der Wut hat er an seine Männer weitergegeben, welche seine Wildheit erbten und seinen jugendlichen Zorn vielleicht eines Tages gegen ihn verwenden könnten..."
 
- SAU_saud_bin_abdulaziz_al_saud: "Saud bin Abdulaziz al-Saud"
- SAU_rashid_bin_abdul_aziz_bin_saud_bin_mohammed_al_saud: "Rashid bin Abdul-Aziz bin Saud bin Mohammed al-Saud"
- SAU_abdallah_bin_abdul_rahman_al_saud: "Abdullah bin Abdul Rahman al-Saud"
- SAU_saad_bin_abdulaziz_al_saud: "Sa'ad bin Abdulaziz al-Saud"
- SAU_khalid_bin_abdulaziz_al_Saud: "Khalid bin Abdulaziz al-Saud"
+ SAU_saud_bin_abdulaziz_al_saud: "Saud ibn Abdulaziz al-Saud"
+ SAU_rashid_bin_abdul_aziz_bin_saud_bin_mohammed_al_saud: "Rashid ibn Abdul-Aziz ibn Saud ibn Mohammed al-Saud"
+ SAU_abdallah_bin_abdul_rahman_al_saud: "Abdullah ibn Abdul Rahman al-Saud"
+ SAU_saad_bin_abdulaziz_al_saud: "Sa'ad ibn Abdulaziz al-Saud"
+ SAU_khalid_bin_abdulaziz_al_Saud: "Khalid ibn Abdulaziz al-Saud"
 
  SAU_sultain_otaibi_leader_desc: "Als analphabetisches Mitglied des Otaiba-Stammes wurde der Sultan zum Anführer der sogenannten Ikhwan, welche einen großen Teil der saudischen Streitkräfte ausmachen. Aufgrund seines Glaubens daran, dass er die gottgegebene Aufgabe hat, den sunnitischen Fundamentalismus zu verbreiten, war er nicht gerade erfreut, als das Haus Saud versuchte, seine Überfälle der Nachbarländer zu limitieren. Der Sultan greift nun zu den Waffen, sowohl gegen seine alten Verbündeten, die Saudis, als auch gegen die gesamte ungläubige Welt."
 
- SAU_muhammad_bin_abdul_rahman_al_saud: "Muhammad bin Abdul Rahman al-Saud"
- SAU_abdullah_bin_jiluwi_al_saud: "Abdullah bin Jiluwi al-Saud"
- SAU_faisal_bin_abdulaziz_al_saud: "Faisal bin Abdulaziz al-Saud"
- SAU_khalid_bin_muhammad_al_saud: "Khalid bin Muhammad al-Saud"
- SAU_saad_bin_abdul_rahman_al_saud: "Sa'ad bin Abdul Rahman al-Saud"
+ SAU_muhammad_bin_abdul_rahman_al_saud: "Muhammad ibn Abdul Rahman al-Saud"
+ SAU_abdullah_bin_jiluwi_al_saud: "Abdullah ibn Jiluwi al-Saud"
+ SAU_faisal_bin_abdulaziz_al_saud: "Faisal ibn Abdulaziz al-Saud"
+ SAU_khalid_bin_muhammad_al_saud: "Khalid ibn Muhammad al-Saud"
+ SAU_saad_bin_abdul_rahman_al_saud: "Sa'ad ibn Abdul Rahman al-Saud"
  SAU_noura_bint_abdul_rahman_al_saud: "Noura bint Abdul Rahman al-Saud"
- SAU_muhammad_bin_abdulaziz_al_saud: "Muhammad bin Abdulaziz al-Saud"
- SAU_mansour_bin_abdulaziz_al_saud: "Mansour bin Abdulaziz al-Saud"
- SAU_abdullah_bin_faisal_al_saud: "Abdullah bin Faisal al-Saud"
- SAU_muhammad_bin_abdullah_bin_aiban_al_nasiri: "Muhammad bin Abdullah al-Aiban"
+ SAU_muhammad_bin_abdulaziz_al_saud: "Muhammad ibn Abdulaziz al-Saud"
+ SAU_mansour_bin_abdulaziz_al_saud: "Mansour ibn Abdulaziz al-Saud"
+ SAU_abdullah_bin_faisal_al_saud: "Abdullah ibn Faisal al-Saud"
+ SAU_muhammad_bin_abdullah_bin_aiban_al_nasiri: "Muhammad ibn Abdullah al-Aiban"
  SAU_yusuf_yasin: "Yusuf Yasin"
  SAU_muhammad_ibn_ibrahim_al_ash_sheikh: "Muhammad ibn Ibrahim Al ash-Sheikh"
  SAU_army_council: "Armeerat"

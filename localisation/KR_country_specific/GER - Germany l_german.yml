@@ -34,7 +34,7 @@ GER_poli_temp_desc: "Zu lange haben die Menschen darum gekämpft, wo die Macht i
  vomag: "Vomag"
  benz: "Benz & Cie."
  fokker_ger: "Fokker"
- kr_dornier: "Dornier"
+ dornier: "Dornier"
  fieseler_company: "Fieseler"
  focke_wulf: "Focke-Wulf"
  gothaer_waggonfabrik: "Gothaer Waggonfabrik"
@@ -51,6 +51,14 @@ GER_poli_temp_desc: "Zu lange haben die Menschen darum gekämpft, wo die Macht i
  schichau_werke: "Schichau-Werke"
  vulcan_stettin: "Vulkan-Werke Hamburg & Stettin"
  siemens_schuckert: "Siemens-Schuckert"
+
+### MIO Traits ###
+ GER_mio_trait_hotrolled_armor: "Warmgewalzte Panzerung"
+ GER_mio_trait_multilayer_armour: "Mehrschichtige Panzerung"
+ GER_mio_trait_maintenance_first_design: "Designs mit einfacher Wartung"
+ GER_mio_trait_fuselage_based_weapons: "Rumpfgestützte Waffen"
+ GER_mio_trait_early_jet_engine_adopter: "Früher Einsatz von Strahltriebwerken"
+ GER_mio_trait_psychological_warfare: "Psychologische Kriegsführung"
 
 ### World Tension ###
  GER_black_monday_threat: "Schwarzer Montag"

@@ -42,6 +42,17 @@
  john_brown_company: "John Brown Union"
  kr_cammell_laird: "Cammell Laird"
 
+### MIO Traits ###
+ ENG_mio_trait_flared_bow: "Flared Bow"
+ ENG_mio_trait_super_charges: "Super Charges"
+ ENG_mio_trait_seaplane_origins: "Seaplane Origins"
+ ENG_mio_trait_elliptical_wings: "Elliptical Wings"
+ ENG_mio_trait_supercharger: "Supercharger"
+ ENG_mio_trait_piat: "PIAT"
+ ENG_mio_trait_sten_submachine_guns: "STEN Submachine Guns"
+ ENG_mio_trait_expanded_turret_capacity: "Expanded Turret Capacity"
+ ENG_mio_trait_expanded_production_facilities: "Expanded Production Facilities"
+
 ### Ideas ###
  ENG_naval_devotion: "Marine Hingabe"
  ENG_naval_devotion_desc: "Britannien war schon immer bestrebt, die größte Marine in Europa, ja fast in der ganzen Welt zu haben. Von der Vernichtung der spanischen Armada über die Schlacht von Trafalgar bis hin zur fast kriegsentscheidenden Aushungerung der teutonischen Horden in Mitteleuropa war die Beherrschung der Meere stets die Priorität der Streitkräfte unseres Landes. Doch obwohl wir viele reaktionäre Traditionen abgelegt haben, ist unsere Liebe zur Marine geblieben, und wir müssen immer an der Spitze der Forschung und Entwicklung der Marine stehen. Wir müssen immer über die Wellen herrschen."

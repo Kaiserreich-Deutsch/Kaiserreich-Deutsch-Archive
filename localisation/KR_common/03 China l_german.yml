@@ -6,19 +6,19 @@
 chinese_united_front: "Chinesische Einheitsfront"
 
 ### Autonomy Levels
-kr_associated_governorate: "Assoziiertes Gouvernement"
-kr_autonomous_governorate: "Autonomes Gouvernement"
-kr_governorate: "Gouvernement"
-kr_integrated_governorate: "Integriertes Gouvernement"
+associated_governorate: "Assoziiertes Gouvernement"
+autonomous_governorate: "Autonomes Gouvernement"
+governorate: "Gouvernement"
+integrated_governorate: "Integriertes Gouvernement"
 
-COUNTRY_kr_associated_governorate: "$NONIDEOLOGY$"
-COUNTRY_kr_associated_governorate_DEF: "$NONIDEOLOGYDEF$"
-COUNTRY_kr_autonomous_governorate: "$NONIDEOLOGY$"
-COUNTRY_kr_autonomous_governorate_DEF: "$NONIDEOLOGYDEF$"
-COUNTRY_kr_governorate: "$NONIDEOLOGY$"
-COUNTRY_kr_governorate_DEF: "$NONIDEOLOGYDEF$"
-COUNTRY_kr_integrated_governorate: "$NONIDEOLOGY$"
-COUNTRY_kr_integrated_governorate_DEF: "$NONIDEOLOGYDEF$"
+COUNTRY_associated_governorate: "$NONIDEOLOGY$"
+COUNTRY_associated_governorate_DEF: "$NONIDEOLOGYDEF$"
+COUNTRY_autonomous_governorate: "$NONIDEOLOGY$"
+COUNTRY_autonomous_governorate_DEF: "$NONIDEOLOGYDEF$"
+COUNTRY_governorate: "$NONIDEOLOGY$"
+COUNTRY_governorate_DEF: "$NONIDEOLOGYDEF$"
+COUNTRY_integrated_governorate: "$NONIDEOLOGY$"
+COUNTRY_integrated_governorate_DEF: "$NONIDEOLOGYDEF$"
 
 ### Decisions ###
 

@@ -187,21 +187,6 @@ wasteland: "Einöde"
 one_island: "Überseeterritorium"
 zero_island: "Abgelegene Insel(n)"
 
-### military_industrial_organization_l_english
- generic_mio_initial_trait_general_tank_designer: "Allgemeiner Panzer Konstrukteur"
- generic_mio_initial_trait_infantry_tanks_designer: "Infanterie Panzer Konstrukteur"
- generic_mio_initial_trait_fast_tanks_designer: "Schneller Panzer Konstrukteur"
-
- generic_mio_initial_trait_task_force_ship_builders: "Träger Einsatzgruppe"
- generic_mio_initial_trait_battle_line_ship_builders: "Schwere Geschütze Flotte"
- generic_mio_initial_trait_submarine_designer: "U-Boot Flotte"
- generic_small_fleet_organization: "Grün-Wasser Marine Hersteller"
- generic_mio_initial_trait_small_fleet_designer: "Grün-Wasser Marine"
- generic_refurbishment_repair_organization: "Instandsetzung und Reparatur Werft"
-
- generic_cas_aircraft_organization: "Leichte Bomber Hersteller"
- generic_mio_initial_trait_cas_aircraft_designer: "Leichte Bomber Konstrukteur"
-
 ######################################################################
 ### Part Two - Nur geringfügige Änderungen im Vergleich zu Vanilla ###
 ######################################################################
@@ -264,8 +249,6 @@ zero_island: "Abgelegene Insel(n)"
  THEATER_GROUP_DISBAND_TITLE: "Kriegsgebiet auflösen"
 
 ### autonomy_l_english
- FOREIGN_TEMPLATE_DESC: "Dies ist eine $COUNTRY|H$-Vorlage, die unser Thema ist. Wir können diese Vorlage duplizieren und auf ihrer Basis Kolonialtruppen erstellen. Koloniale Vorlagen verwenden ihre übergeordneten Truppen, je nach Autonomiestufe."
- COLONIAL_TEMPLATE_DESC: "Dies ist $COUNTRY|H$ koloniale Vorlage. Koloniale Vorlagen verwenden ihre übergeordneten Truppen, je nach Autonomiestufe."
  CONSTRUCTION_MASTER_BUILDING_REDUCE_LEVELS: "Wir dürfen diese Konstruktionsebene nur reduzieren um $LVL|R$."
 
 ### buildings_l_english

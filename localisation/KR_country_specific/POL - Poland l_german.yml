@@ -232,6 +232,10 @@ l_german:
  sto_gdansk: "Stocznia Gdańska (Danziger Werft)"
  huta_stalowa_wola: "HSW SA"
 
+### MIO Traits ###
+ POL_mio_trait_cruiser_tanks: "Kreuzerpanzer"
+ POL_mio_trait_multi_role_tank_designer: "Mehrzweck-Panzerkonstrukteur"
+
 ### Scripted Loc ###
  POL_supported_party_pps: "Polnische Sozialistische Partei"
  POL_supported_party_national_union: "Die Nationale Union"
@@ -1038,9 +1042,15 @@ l_german:
  pol_ger_eco_texticon: "[GER.GetFlag] §Y5%§!"
  pol_ger_eco_texticon_blocked: "[GER.GetFlag] §R5%§!"
  pol_ger_eco_texticon_tooltip: "Es kostet $pol_ger_eco_texticon_blocked$ wirtschaftlichen Einfluss, diese Entscheidung zu treffen."
+ pol_ger_eco_texticon_ten: "[GER.GetFlag] §Y10%§!"
+ pol_ger_eco_texticon_ten_blocked: "[GER.GetFlag] §R10%§!"
+ pol_ger_eco_texticon_ten_tooltip: "Es kostet $pol_ger_eco_texticon_ten_blocked$ wirtschaftlichen Einfluss, diese Entscheidung zu treffen."
  pol_aus_eco_texticon: "[AUS.GetFlag] §Y5%§!"
  pol_aus_eco_texticon_blocked: "[AUS.GetFlag] §R5%§!"
  pol_aus_eco_texticon_tooltip: "Es kostet $pol_aus_eco_texticon_blocked$ wirtschaftlichen Einfluss, diese Entscheidung zu treffen."
+ pol_aus_eco_texticon_ten: "[AUS.GetFlag] §Y10%§!"
+ pol_aus_eco_texticon_ten_blocked: "[AUS.GetFlag] §R10%§!"
+ pol_aus_eco_texticon_ten_tooltip: "Es kostet $pol_aus_eco_texticon_ten_blocked$ wirtschaftlichen Einfluss, diese Entscheidung zu treffen."
 
  POL_influence_decreasing: "[POL.GetFlag] wirtschaftlicher Einfluss nimmt ab!"
  POL_GER_influence_decreasing: "[GER.GetFlag] wirtschaftlicher Einfluss nimmt ab!"
@@ -1331,7 +1341,7 @@ l_german:
  POL_ongoing_exercise: "Hat keine laufende militärische Übung."
  POL_INTERMARIUM: "Intermarium"
  POL_scales_with_eco_tt: "Der Effekt skaliert mit @POL wirtschaftlichen Einfluss."
- kr_slavic_union_member: "Slawische Union Unterzeichner"
+ slavic_union_member: "Slawische Union Unterzeichner"
  POL_slavic_union_member: "Slawische Union Unterzeichner"
  POL_no_parasol: "§RDieser Weg ist versperrt, wenn Russland sozialistisch ist.§!"
 
@@ -1898,7 +1908,7 @@ l_german:
  poland.206.e: "Gabriel Narutowicz"
 
  poland.207.t: "Zusammenbruch der Doppelmonarchie"
- poland.207.d: "Der Untergang des Habsburgerreichs hat seine Nachwehen in Polen hinterlassen. Viele Wirtschaftsverträge und diplomatische Abkommen wurden über Nacht annulliert, und die pro-österreichische Ausrichtung unserer Politik wurde ins Wanken gebracht. Wir werden sehen, wie das neue Mitteleuropa aussehen wird."
+ poland.207.d: "Der Untergang des Habsburgerreichs hat seine Nachwehen in Polen hinterlassen. Viele Wirtschaftsverträge und diplomatische Abkommen wurden über Nacht annulliert, und die pro-österreichische Ausrichtung unserer Politik ist ins Wanken geraten. Wir werden sehen, wie das neue Mitteleuropa aussehen wird."
  poland.207.a: "Turbulente Zeiten..."
 
 #not triggered anywhere yet
@@ -2706,11 +2716,11 @@ l_german:
  poland.561.c: "Lokale Wirtschaft fördern"
 #
  poland.562.t: "König August flieht nach Deutschland!"
- poland.562.d: "Im Dunkel der Nacht brach eine Gruppe von Loyalisten und deutschen Agenten in den Königspalast ein, in dem der König unter Verschluss gehalten wurde. Die Militärpolizei nahm die Verfolgung auf, jedoch ohne Erfolg. Der Gruppe des Königs gelang es, in kleinen Gruppen aus Warschau zu entkommen, wobei sie den chaotischen Zustand unserer Polizei und die Zahl der Kollaborateure ausnutzten, die zweifellos an den deutschen Sieg glauben und in Zukunft belohnt werden wollen.\n\nEinige Tage nach dem Ausbruch kam die Nachricht aus dem Westen, dass der ehemalige König mit einem kleinen Zivilflugzeug, das offenbar in der polnischen Landschaft versteckt war, sicher auf die deutsche Seite der Grenze gelangt war. Es scheint, dass die Rettungsaktion gut geplant und noch besser durchgeführt wurde. Mehrere Beamte der Strafverfolgungsbehörden und des Geheimdienstes in Warschau wurden wegen Inkompetenz ersetzt, aber das half uns nicht, unser Gesicht zu wahren."
+ poland.562.d: "Im Dunkel der Nacht brach eine Gruppe von Loyalisten und deutschen Agenten in den Königspalast ein, in dem der König unter Verschluss gehalten wurde. Die Militärpolizei nahm die Verfolgung auf, jedoch ohne Erfolg. Der Partei des Königs gelang es, in kleinen Gruppen aus Warschau zu entkommen, wobei sie den chaotischen Zustand der polnischen Polizei und die Zahl der Kollaborateure ausnutzten, die zweifellos an den deutschen Sieg glaubten und in Zukunft belohnt werden wollten.\n\nEinige Tage nach dem Ausbruch kam die Nachricht aus dem Westen, dass der ehemalige König mit einem kleinen Zivilflugzeug, das offenbar in der polnischen Landschaft versteckt war, sicher auf die deutsche Seite der Grenze gelangt war. Es scheint, dass die Rettungsaktion gut geplant und noch besser durchgeführt wurde. Mehrere Beamte der Strafverfolgungsbehörden und des Geheimdienstes in Warschau wurden wegen Inkompetenz ausgetauscht, aber das half nicht, das Gesicht zu wahren."
  poland.562.a: "So endet die Herrschaft von August IV."
 #
  poland.563.t: "Die Ermordung von König August IV."
- poland.563.d: "In der Dunkelheit der Nacht brach eine Gruppe von Loyalisten und deutschen Agenten in den Königspalast in Warschau ein, wo sich der König zurückgezogen hatte. Die Militärpolizei nahm die Verfolgung auf, aber ohne Erfolg. Der Gruppe des Königs gelang es, in kleinen Gruppen aus Warschau zu entkommen, wobei sie den chaotischen Zustand unserer Polizei und die Zahl der Kollaborateure ausnutzten, die zweifellos an den deutschen Sieg glauben und in Zukunft belohnt werden wollen.\n\nDas Glück des deutschen Rettungstrupps verließ sie jedoch auf dem Land, als sie nachts auf eine Patrouille stießen. Die patrouillierenden Soldaten hielten die Gruppe für deutsche Saboteure und eröffneten das Feuer, nachdem die Forderungen nach ihrer Kapitulation nicht akzeptiert worden waren. Die Deutschen waren zahlen- und waffenmäßig unterlegen, kämpften aber erbittert, um zu entkommen. Schließlich wurden die verbliebenen Deutschen gefangen genommen - und die polnischen Soldaten glaubten kaum, dass es sich bei einem der schwer verwundeten Gefangenen um keinen anderen als einen verkleideten August Wilhelm von Hohenzollern handelte. Es ist unklar, ob er zu schwer verwundet war oder ob die Soldaten es einfach versäumt hatten, die Wunden des verhassten Königs zu versorgen, aber am nächsten Morgen ging in Warschau ein Telegramm ein: Der Tyrann ist tot."
+ poland.563.d: "In der Dunkelheit der Nacht brach eine Gruppe von Loyalisten und deutschen Agenten in den Königspalast in Warschau ein, wo sich der König zurückgezogen hatte. Die Militärpolizei nahm die Verfolgung auf, aber ohne Erfolg. Der Partei des Königs gelang es, in kleinen Gruppen aus Warschau zu entkommen, wobei sie den chaotischen Zustand der polnischen Polizei und die Zahl der Kollaborateure ausnutzten, die zweifellos an den deutschen Sieg glaubten und in Zukunft belohnt werden wollten.\n\nDas Glück des deutschen Rettungstrupps verließ sie jedoch auf dem Land, als sie nachts auf eine Patrouille stießen. Die patrouillierenden Soldaten hielten die Gruppe für deutsche Saboteure und eröffneten das Feuer, nachdem die Forderungen nach ihrer Kapitulation nicht akzeptiert worden waren. Die Deutschen waren zahlen- und waffenmäßig unterlegen, kämpften aber erbittert, um zu entkommen. Schließlich wurden die verbliebenen Deutschen gefangen genommen - und die polnischen Soldaten glaubten kaum, dass es sich bei einem der schwer verwundeten Gefangenen um keinen anderen als einen verkleideten August Wilhelm von Hohenzollern handelte. Es ist unklar, ob er zu schwer verwundet war oder ob die Soldaten es einfach versäumt hatten, die Wunden des verhassten Königs zu versorgen, aber am nächsten Morgen ging in Warschau ein Telegramm ein: Der Tyrann ist tot."
  poland.563.a: "Die Deutschen werden uns das nicht verzeihen."
  poland.563.b: "Wir werden ihnen das nicht verzeihen."
 #

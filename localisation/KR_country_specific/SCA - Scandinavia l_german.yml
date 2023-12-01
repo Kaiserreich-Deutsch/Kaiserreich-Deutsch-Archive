@@ -34,9 +34,6 @@ SCA_authoritarian_democrat: "Nordische Föderation"
 SCA_authoritarian_democrat_ADJ: "Nordisch"
 SCA_authoritarian_democrat_DEF: "die Nordische Föderation"
 
-### Factions ###
-SCA_nordic_council_faction: "Nordischer Rat"
-
 ### Opinion Modifiers ###
 SCA_nordic_friendship: "Nordische Freundschaft"
 SCA_nordic_irredentism: "Nordischer Irredentismus"
@@ -136,6 +133,9 @@ SCA_construct_the_oresund_bridge: "Bau der Øresundbrücke"
 SCA_railway_to_german_border: "Modernisierung der Eisenbahnverbindung mit Europa"
 SCA_connect_finland_railway: "Ausbau des finnischen Eisenbahnnetzes"
 
+SCA_join_scandinavian_research: "Tretet der Skandinavischen Wissenschaftlerkonferenz bei"
+SCA_join_scandinavian_research_desc: "Unsere nordischen Verbündeten haben die Skandinavische Wissenschaftlerkonferenz ins Leben gerufen, eine gemeinsame Forschungsinitiative mit dem Ziel, den Technologieaustausch zwischen den Mitgliedern der [FROM.GetFactionName] zu erleichtern. Als Mitglied dieser Fraktion ist es an der Zeit, dass wir unsere Partnerschaft stärken, indem wir uns auch der Skandinavischen Wissenschaftlerkonferenz anschließen."
+
 ### Tooltips ###
 SCA_tt_effect_will_come: "Die Wirkung dieses Schwerpunkts wird sich zeigen, wenn entweder der Schwerpunkt §CFederal Army§! oder §CNational Army§! abgeschlossen ist."
 SCA_tt_is_valid_nordic_member: "Gültige skandinavische Länder:"
@@ -162,7 +162,7 @@ sca_svenska_aeroplan: "SAAB"
 sca_kjeller: "Kjeller Flyfabrikk"
 sca_sas_company: "Scandinavian Airlines"
 sca_kockums: "Kockums"
-sca_odense_staalskib: "Odense Staalskibsværft"
+sca_odense_staalskibsverft: "Odense Staalskibsværft"
 sca_marinens_hovedverft: "Marinens Hovedverft"
 
 ### Ideas ###
