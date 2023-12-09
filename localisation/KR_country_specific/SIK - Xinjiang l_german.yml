@@ -120,7 +120,7 @@ SIK_shaowu_rule: "Ma Shaowu Jin Shuren hat seine Macht in Xinjiang gesichert."
 SIK_sheng_rule: "Sheng Shicai Jin Shuren hat seine Macht in Xinjiang gesichert."
 SIK_camp_destroyed: "Die mongolischen Seperatisten wurden besiegt."
 #KUM_annexation_flag: "Jin Shuren has schemed his way into Kumul."
-SIK_aksu_army_demobilized: "Die Aksu Garnison wurde demobilisiert."
+SIK_aksu_army_demobilised: "Die Aksu Garnison wurde demobilisiert."
 SIK_turfan_troubles: "Turfans Loyalität ist ungewiss."
 #SIK_turfan_defection: "Turfans' loyalties have changed."
 SIK_turfan_deployment: "Turfans Garnison wurde mobilisiert."
@@ -513,7 +513,6 @@ xin.110.t: "Berichte über Yang Zengxin in Yunnan"
 xin.110.desc: "Nach dem Verschwinden des weisen Gouverneurs von Xinjiang, Yang Zengxin, strömten Reporter nach Mengzi in Yunnan, um sich in seiner Heimatstadt zu informieren. Die Stadtbewohner von Mengzi bemerkten, dass es Yangs Familie immer noch gut geht und weigern sich, Hinweise zu geben, wohin Yang gegangen wäre. Die meisten Reporter kamen zu dem Schluss, dass Yang auf seinen Militärposten in Gansu zurückgekehrt ist und beendeten dort ihre Ermittlungen. Die Beamten mit Verbindungen in Gansu haben jedoch berichtet, dass Yang in Gansu nicht gesehen wurde, aber Spuren seines Goldes sind in den Händen von Händlern in Yunnan aufgetaucht. Obwohl es noch keine soliden Beweise gibt, scheint es, dass Yang entweder ausgeraubt worden sein könnte oder inkognito lebt."
 xin.110.a: "Ein amüsantes Rätsel."
 
-
 xin.111.t: "Die Xinjiang-Clique verfällt in Krieg"
 xin.111.d: "Es scheint, als sei das Westtor zwischen China und Zentralasien erneut in Gewalt versunken. Der jüngste Streit zwischen Gouverneur [SIK.GetLeader] und Kumul hat dazu geführt, dass sich ein großes Aufgebot freiwilliger Soldaten gegen die Armeegarnison erhoben hat. Gerüchte besagen, dass auch die Türken im äußersten Westen sich darauf vorbereiten, dem Gouverneur erneut die Stirn zu bieten.\n\nDer Gouverneur von Xinjiang, sollte er chinesisch bleiben, ist ein potenzieller Verbündeter der südlichen demokratischen Cliquen. Die Kumiliks scheinen jedoch zwischen Respekt vor Peking und rastloser Fremdenfeindlichkeit stark zu schwanken. Die Osttürken würden sich zweifellos vollständig von China trennen, sollten sie gewinnen."
 xin.111.a: "Yang Zengxins endgültiger Misserfolg"
@@ -687,7 +686,6 @@ SIK_northern_gold_desc: "Die Gerüchte über Gold in West-Xinjiang haben ihren W
 SIK_khotan_carpet_factory: "Die Hotan-Teppichfabrik erweitern"
 SIK_khotan_carpet_factory_desc: "Hotan ist berühmt für seine robusten Wollteppiche, so dass Sie Märkte in Afghanistan und Indien finden, die sie als unsere ausgeben. Es könnte dem Gouverneur anstehen, in eine große Teppichfabrik in Hotan zu investieren, und sei es nur, um den Markt zu manipulieren und ihren Wert zu steigern."
 
-
 SIK_kashgar_investment: "In Kashgar investieren"
 SIK_kashgar_investment_desc: "Die Zerstörung in Kashgar muss mit Besorgnis beantwortet werden. Der Gouverneur hat Mittel für die Reparatur und den Aufbau der Kleinindustrie in Kahsgar genehmigt."
 
@@ -718,6 +716,7 @@ SIK_sheng_shicai_leader_desc: "Sheng wurde als Sohn einer geschäftstüchtigen, 
 SIK_jin_shuren: "Jin Shuren"
 SIK_jin_shuren_leader_desc: "Jin Shurens Karriere begann in Gansu, wo er als Direktor der mit Qing verbündeten Gansu Normal School tätig war. Jin nutzte diese Position, um die Prüfungen für den kaiserlichen Staatsdienst zu bestehen, wodurch er die Aufmerksamkeit von Yang Zengxin auf sich zog. Als Yang 1908 zum Gouverneur von Xinjiang ernannt wurde, wurde Jin sein Bezirksmagistrat. In den darauf folgenden Revolutionsjahren wurde Yangs Verwaltungspersonal dezimiert, so dass Jin immer weiter aufstieg, bis er 1927 zum Kommissar für zivile Angelegenheiten in Urmuqi ernannt wurde. Jin begann, seine Position als Kommissar zu nutzen, um sich bei verschiedenen Propagandabewegungen aus Südchina beliebt zu machen. Die KMT-Bewegung im Untergrund und die entstehenden föderalistischen Bewegungen sahen in Jin einen vorbildlichen Han-Bürokraten, der den ihrer Meinung nach unwürdigen Provinzbewohnern diente."
 
+#龍協麟
 SIK_long_xielin: "Long Xielin"
 
 SIK_burhan_shahidi: "Burhan Shahidi"

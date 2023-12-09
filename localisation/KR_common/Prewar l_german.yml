@@ -3,34 +3,7 @@
 ### Tooltips ###
  can_demand_romandy: "Unruhen in Haute-Savoie"
  SWI_white: "Wir können jetzt Haute-Savoie verlangen"
- loth_armed: "Bewaffnete Zwischenfälle in Lothringen"
  romandydivs_tt: "Zwei Freiwilligendivisionen werden sich in der Romandie formen"
- fravoldivs_tt: "Zwei ausländische Freiwilligendivisionen werden sich formen"
-
-### Tensions ###
- FRA_damand_romandy_threat: "Die französischen Forderungen"
- FRA_damand_romandy_threat_no: "Verringerte Spannungen"
- FRA_SWI_neutral: "Neutralität"
- FRA_annex_romandy: "Annektierte Haute-Savoie"
- FRA_SWI_back_down: "Gab nach"
- FRA_SWI_ignore_ultimatum: "Ignorierte deutsches Ultimatum"
- FRA_SWI_ignore_ultimatum_AUS: "Ignorierte österreichisches Ultimatum"
- SWI_FRA_war: "Schweizerisch-Französischer Krieg"
- Romandie_annex: "Annexion von Haute-Savoie"
- IIweltkrieg: "Zweiter Weltkrieg"
- join_eng: "Rote Bedrohung"
- abandon_eng: "Hielt Frieden aufrecht"
- ger_cult_gen: "Kulturelles Genozid"
- loth_armed_1: "Armeemanöver in Elsass-Lothringen"
- fra_manuver: "Manöver in Franche-Comte"
- fra_manuver_no: "Keine Manöver"
- leval_forget: "Ein harmloser Zwischenfall"
- pulled_back_leval: "Zog sich zurück"
- alsace_back_down: "Gab nach"
- alsac_annex: "Annexion von Elsass-Lothringen"
-
-### Ideas ###
- SWI_cave_in: "Schweizer Kapitulation"
 
 ### Events ###
  prewar.1.t: "Das 5-jähringe Jubiläum des Genfer Streiks von 1932"
@@ -135,23 +108,7 @@
  prewar.25.d: "Die Armee des Schweizer Bundes und ihr abstoßendes reaktionäres Hilfspersonal haben die heroischen Verteidiger der sozialistischen Revolution in der Romandie und in Haute-Savoie besiegt. Tausende überqueren die Grenze und bitten um Asyl in Frankreich, während französisch-sprachige Milizsoldaten nach Scheinprozessen exekutiert werden und Rechtsextreme und die Bourgeoisie die Sozialisten, Anarchisten und Syndikalisten jagen, ihre Häuser plündern und ihren Groll gegen die Revolutionäre an deren Familien auslassen. Derartige Verbrechen, von denen unsere Rundfunkanstalten berichten, sorgen für einen Aufruhr in Frankreich und jeder wahre Syndikalist bereitet sich nun nicht nur auf die Befreiung von Haute-Savoie, sondern auch die der Romandie vor. Die Bevölkerung dieser Provinzen wird nicht länger von den Schweizern unterjocht werden! Unsere Luftstreitkräfte sind bereit, Operationen auf Schweizer Gebiet durchzuführen und unsere Truppen sammeln sich nahe der Grenze. Das Comité de Salut Public hat Bern informiert, dass, sollte die Schweizer Armee nicht aus Haute-Savoie evakuieren, die Kontrolle der Provinz an die Kommune übergeben und den Politikern der Romandie ihre Positionen zurückgegeben werden, der Krieg unausweichlich sei."
  prewar.25.a: "Bereitet die Truppen vor!"
 
- prewar.31.t: "Bewaffnete Zwischenfälle in Lothringen"
- prewar.31.d: "Die Rebellion der französisch-sprechenden Minderheit nahe Metz hat sich noch verschlimmert. Diese Leute, deren absurde Forderung nach kultureller Autonomie trotz der französischen Niederlage und der fortgeschrittenen Germanisierung der Gegend nie zurückgezogen wurde, sind nun, da die Schweizer gegenüber den Franzosen eingeknickt sind und die Romandie an die Kommune abgetreten haben, noch hochmütiger geworden. Als die Wiedervereinigung von Lothringen und dem Deutschen Kaiserreich in Metz mit einer großen Militärparade und Reden von hochdekorierten Generälen gefeiert werden sollte, kam es in der Stadt zu Aufständen, welche die Zeremonie unterbrachen, obwohl wir Dutzende Syndikalisten und Revolutionäre bereits vor Beginn der Feier eingesperrt hatten. Regierungsgebäude gingen in Flammen auf, auf dem Platz des Kaisers eröffneten bewaffnete Trupps das Feuer auf Polizisten und dem Statthalter gelang es nur mit Glück, ein versuchtes Attentat im Rathaus zu überleben. Währenddessen wurden die Häuser, Fabriken und Geschäfte der deutsch-sprachigen Bevölkerung der Stadt geplündert und viele deutsche Bürger angegriffen oder sogar getötet. Sowohl in den Industriestädten als auch in den ländlicheren Gegenden sind die Repräsentanten des Reichs zum Ziel von Terroristenzellen geworden und die Minenarbeiter im französisch-sprachigen Teils von Lothringen haben mit einem Streik begonnen. Trotz des schnellen und rücksichtslosen Unterdrückungsversuchs scheint die Situation außer Kontrolle zu geraten. Unterstützt von der nationalistischen Einstellung des Volkes, fordern Mitglieder der DVNP im Reichstag nun die Deportation der Franzosen von Lothringen nach Schlesien oder Ostpreußen. In Lothringen und Teilen des Elsass wurde das Kriegsrecht ausgerufen und Truppen aus dem ganzen Reich rücken an, um die Rebellion im Keim zu ersticken, da der Kaiser die sofortige Wiederherstellung der Ordnung in den aufständischen Provinzen angeordnet hat."
- prewar.31.a: "Stellt die Ordnung wieder her!"
-
- prewar.32.t: "Bewaffnete Zwischenfälle in Metz"
- prewar.32.d: "Als Deutschland das 20. Jubiläum ihres Sieges und der Wiedervereinigung Lothringens mit dem Rest des Kaiserreichs zelebrieren wollte, wurden die Feierlichkeiten in der Stadt Metz durch gewalttätige Demonstrationen der französisch-sprachigen Minderheit der Provinz unterbrochen, da sich diese niemals vollständig als Teil des Reiches angesehen hat und sich noch immer über ihre wirtschaftliche und soziale Unterdrückung beschwert. Nachdem die Militärparade und die Rede des Statthalters mit Beleidigungen und Buhrufen beantwortet wurden, haben sich die Demonstrationen recht schnell in einen regelrechten Aufstand verwandelt: Regierungsgebäude wurden gestürmt, wobei zwei Polizisten getötet wurden, und auch einige der deutschen Zivilisten wurden von der wütenden Menge angegriffen. Die Polizei hat zwar die Kontrolle über die Straßen wiedererlangt und viele Demonstranten, darunter auch Anführer der pro-französischen Miliz, verhaftet, die Lage bleibt jedoch angespannt. Währenddessen haben die Minenarbeiter des französisch-sprechenden Teils von Lothringen mit einem Streik begonnen und die französische Propaganda sorgt weiterhin für Unruhen. In Berlin, wo ein Großteil des Volkes drastische Maßnahmen fordert, hat sich das Kabinett dazu entschlossen, Lothringen unter militärische Verwaltung zu stellen, bis die Ordnung wiederhergestellt wurde."
-
- prewar.34.t: "Bewaffnete Zwischenfälle in Metz"
- prewar.34.d: "Trotz der unterjochenden Politik der Germanisierung und der Unterdrückung jeglicher syndikalistischer Aktivitäten, haben sich unsere Kameraden in Lothringen gegen die Herrschaft des Kaisers aufgelehnt! Während einer provokativen Feier des 20. Jubiläums der deutschen Besatzung Lothringens haben Tausende der französisch-sprechenden Lothringer die Kontrolle über Metz und andere Gegenden übernommen, die rote Flagge über den Rathäusern gehisst und jede Mine und Fabrik geschlossen. Die Deutschen unterdrücken nun jedoch noch stärker den Wunsch der Lothringer nach Freiheit und sozialer Gerechtigkeit und trotz der Hilfe unseres Geheimdienstes konnte die deutsche Polizei, unterstützt von der Armee, bereits Hunderte unter Arrest stellen. Währenddessen wurden in Longwy widerrechtliche Exekutionen gemeldet und in vielen Berbaustädten das Kriegsrecht ausgerufen. Das französische Volk setzt das Comité de Salut Public nun unter Druck, welches über den Vorschlag des Generalstabs diskutiert, eine Machtdemonstration an der deutschen Grenze abzuhalten, um zur Rettung der französisch-sprachigen Milizen zu eilen."
- prewar.34.a: "Denunziert die deutschen Handlungen!"
- prewar.34.b: "Wir sollten Deutschland nicht provozieren..."
- prewar.34.c: "KRIEG! Wir werden es den deutschen Schweinen noch zeigen!"
-
- prewar.35.t: "Bewaffnete Zwischenfälle in Metz"
- prewar.35.d: "Trotz der unterjochenden Politik der Germanisierung und der Unterdrückung jeglicher syndikalistischer Aktivitäten, haben sich unsere Kameraden in Lothringen gegen die Herrschaft des Kaisers aufgelehnt! Während einer provokativen Feier des 20. Jubiläums der deutschen Besatzung Lothringens haben Tausende der französisch-sprechenden Lothringer die Kontrolle über Metz und andere Gegenden übernommen, die rote Flagge über den Rathäusern gehisst und jede Mine und Fabrik geschlossen. Die Deutschen unterdrücken nun jedoch noch stärker den Wunsch der Lothringer nach Freiheit und sozialer Gerechtigkeit und trotz der Hilfe unseres Geheimdienstes konnte die deutsche Polizei, unterstützt von der Armee, bereits Hunderte unter Arrest stellen. Währenddessen wurden in Longwy widerrechtliche Exekutionen gemeldet und in vielen Berbaustädten das Kriegsrecht ausgerufen. Das französische Volk setzt das Comité de Salut Public nun unter Druck, welches über den Vorschlag des Generalstabs diskutiert, eine Machtdemonstration an der deutschen Grenze abzuhalten, um zur Rettung der französisch-sprachigen Milizen zu eilen."
-
- prewar.36.t: "Das deutsche Kaiserreich plant Manöver in Elsass-Lothringen"
+ prewar.36.t: "Das Deutsche Kaiserreich plant Manöver in Elsass-Lothringen"
  prewar.36.d: "Unsere Agenten in Berlin und Straßburg haben uns darüber informiert, dass eine von der Größe her beispiellose Sammlung deutscher Truppen in Elsass-Lothringen geplant ist, welche als 'militärische Übung' verdeckt wird. Ein solch aggressives Handeln der Deutschen, während die Lothringer noch immer verzweifelt um ihre Freiheit kämpfen, soll wahrscheinlich nur unsere Entschlossenheit testen. Ein solcher Plan jedoch kann nur nach hinten losgehen: Um weitere Provokationen der Deutschen zu verhindern, wurde die Teilmobilmachung der kommunalen Streitkräfte in den östlichen Regionen angeordnet. Nun kann eine Machtprojektion in Franche-Comté, nahe der Grenze zu Deutschland, stattfinden, in der unsere neuen gepanzerten Einheiten zusammen mit Infanteriedivisionen und unseren Luftstreitkräften exerzieren können."
  prewar.36.a: "Wir werden eigene Manöver in Franche-Comte durchführen!"
  prewar.36.b: "Wir sollten die Deutschen nicht provozieren..."
@@ -172,7 +129,7 @@
  prewar.40.d: "Die blutrünstigen Franzosen haben den Vorhang fallen gelassen und ihre Intention, Elsass-Lothringen zu erobern, offenbart! Heute Morgen um 6:30 hat eine Einheit französischer Panzer die Grenze nahe Metz überquert, das Feuer auf das friedliche und unbewachte Dorf Elfringen eröffnet und sich daraufhin wieder zurückgezogen. Sowohl die örtliche Kirche als auch mehrere Häuser wurden von dem Beschuss oder dem folgenden Feuer zerstört, wobei mindestens 19 Menschen ums Leben kamen. Prinz Wilhelm wurde nach Berlin zurückbeordert, um dem Kaiser so bald wie möglich Bericht zu erstatten, während das Kabinett darüber berät, wie man am besten auf ein solches Verbrechen antworten sollte."
 
  prewar.41.t: "Bombardierung von Avricourt"
- prewar.41.d: "Während unserer militärischen Übung in Elsass-Lothringen fand ein unglücklicher Zwischenfall statt. Zwei der neuen Langstreckenartillerie-Batterien, bemannt von jungen Rekruten, haben versehentlich, aufgrund fehlerhafter Einschätzung ihrer Feuerreichweite, das kleine französische Dorf Avricourt beschossen. Laut dem französischen Rundfunk wurden bei diesem Zwischenfall mehrere Zivilisten getötet. Die Militärpolizei befragt zurzeit den betroffenen Offizier und dessen Unteroffiziere, die Franzosen nutzen diese Situation jedoch schamlos aus und verlangen eine offizielle Entschuldigung des Kaisers und des Kabinetts. Sie drohen sogar mit 'unvorhersehbaren Konsequenzen', sollten wir uns weigern, ihren Forderungen zu entsprechen."
+ prewar.41.d: "Während unserer militärischen Übung in Elsass-Lothringen fand ein unglücklicher Zwischenfall statt. Zwei der neuen Langstreckenartillerie-Batterien, bemannt von jungen Rekruten, haben versehentlich, aufgrund fehlerhafter Einschätzung ihrer Feuerreichweite, das kleine französische Dorf Avricourt beschossen. Laut dem französischen Rundfunk wurden bei diesem Zwischenfall mehrere Zivilisten getötet. Die Militärpolizei befragt zurzeit den betroffenen Offizier und dessen Unteroffiziere, die Franzosen nutzen diese Situation jedoch schamlos aus und verlangen eine offizielle Entschuldigung des Kaisers und des Kabinetts. Sie drohen sogar mit 'unvorhersehbaren Konsequenzen', sollten wir uns weigern, ihren Forderungen zu entsprechen."
  prewar.41.a: "Sendet eine formale Entschuldigung!"
  prewar.41.b: "Das ist ungeheuerlich! Mobilisiert die Truppen!"
 
@@ -254,6 +211,7 @@
  prewar.59.t: "Eine Einigung in [escalation_treaty_location.Capital.GetCapitalVictoryPointName]"
  prewar.59.d: "Nach mehreren Tagen intensiver Debatten und zahlreichen Drohungen der französischen Delegation, die Verhandlungen zu verlassen, konnte endlich ein Kompromiss erzielt werden. Die kontroverse Einigung wird in ganz Europa mit Erleichterung betrachtet, wenngleich nur wenige daran glauben, dass sie einen bleibenden Frieden heraufbeschwören wird. Dennoch ist auch ein kleiner Schritt in Richtung Frieden besser als gar keiner.\n\nWie zu erwarten wird dieses Abkommen jedoch sowohl in Frankreich als auch in Deutschland durch einige Parteien denunziert. Stimmen innerhalb der DVLP haben die deutsche Delegation als einen Haufen sozialistischer Sympathisanten und Verräter gebrandmarkt und auch die radikaleren Kräfte der Syndikalisten zeigen sich alles andere als zufrieden. Dennoch scheinen beide Seiten dazu bereit, zumindest zu versuchen, den deeskalierenden Maßnahmen des Abkommens Folge zu leisten."
  prewar.59.a: "Überraschend vernünftig von ihnen."
+ KR_copenhagen_conference_success: "Die Kopenhagener Konferenz brachte die weltweite Spannung unter 75%."
 
  prewar.100.t: "Das Bombardement von Avricourt"
  prewar.100.d: "Chaos in Avricourt! Schon seit Wochen haben sich die Spannungen entlang der französisch-deutschen Grenze aufgrund der militärischen Übungen des Deutsches Heeres in Elsass-Lothringen zugespitzt. Heute Morgen um 06:00 Uhr hat deutsche Artillerie das Feuer auf das französische Dorf Avricourt eröffnet, wobei 16 Zivilisten ums Leben kamen. W#hrend die Deutschen behaupten, dass es sich dabei um einen Umfall handle, haben sich bereits erzürnte Menschenmengen vor der deutschen Botschaft in Paris versammelt - und das Kriegsfieber scheint erneut ausgebrochen zu sein. Sowohl in Frankreich als auch in Deutschland verspäten sich zunehmend die Züge, da beide Seiten damit begonnen haben, eine große Anzahl an Truppen an die Grenze zu verlagern.\n\nEs wird zwar bereits der Beginn von diplomatischen Gesprächen erwartet, doch die Möglichkeit eines Krieges besteht noch immer. Die Welt schaut mit angehaltenem Atem zu, während in Europa erneut der Ausbruch eines militärischen Konfliktes droht."
@@ -267,7 +225,7 @@
  prewar.101.b: "Sozialistische Barbaren!"
  prewar.101.c: "Nicht noch eine Juli-Krise!"
 
- prewar.102.t: "Erfolg der Kopenhagener Konferenz"
- prewar.102.d: "In Kopenhagen konnte durch intensive Gespräche zwischen dem Deutschen Kaiserreich, der Britischen Union und der Französischen Kommune eine überraschende Einigung erzielt werden. Mit dem Ziel, einen weiteren Weltkrieg zu verhindern, wurde eine Konferenz der Großmächte organisiert. Unter österreichischer Vermittlung erklärten sich beide Seiten dazu bereit, ihre Aufrüstungsmaßnahmen entlang der französisch-deutschen Grenze zu limitieren und die Anzahl operierender U-Boote und strategischer Bombenflugzeuge zu reduzieren. Außerdem hat die Internationale versprochen, ihre Unterstützung für revolutionäre Bewegungen innerhalb Deutschlands zu verringern, während Deutschland versprach, weniger stark mit den Mächten der Entente zu kooperieren. Russland hat die Verhandlungen bereits als deutsche Zeitschinderei denunziert und die eigenen Aufrüstungsbemühungen verstärkt."
+ prewar.102.t: "Erfolg der [escalation_treaty_location.Capital.GetCapitalVictoryPointName]er Konferenz"
+ prewar.102.d: "In [escalation_treaty_location.Capital.GetCapitalVictoryPointName] konnte durch intensive Gespräche zwischen dem Deutschen Kaiserreich, der Britischen Union und der Französischen Kommune eine überraschende Einigung erzielt werden. Mit dem Ziel, einen weiteren Weltkrieg zu verhindern, wurde eine Konferenz der Großmächte organisiert. Unter österreichischer Vermittlung erklärten sich beide Seiten dazu bereit, ihre Aufrüstungsmaßnahmen entlang der französisch-deutschen Grenze zu limitieren und die Anzahl operierender U-Boote und strategischer Bombenflugzeuge zu reduzieren. Außerdem hat die Internationale versprochen, ihre Unterstützung für revolutionäre Bewegungen innerhalb Deutschlands zu verringern, während Deutschland versprach, weniger stark mit den Mächten der Entente zu kooperieren. Russland hat die Verhandlungen bereits als deutsche Zeitschinderei denunziert und die eigenen Aufrüstungsbemühungen verstärkt."
  prewar.102.a: "[GetYear] - ein Jahr des Friedens, hoffentlich."
  

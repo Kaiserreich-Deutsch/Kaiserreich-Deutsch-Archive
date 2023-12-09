@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 ###Tooltips###
 PUE_CONVENTION_TT: "§GWir werden einen Kongress mit den puertorikanischen Legislativparteien einberufen, um über die Stabilität auf der Insel zu verhandeln.§!"
@@ -21,6 +21,9 @@ PUE_antilles_yes_tt: "Sowohl §YKuba§! und die §Dominikanische Republik§! hab
 PUE_antilles2_yes_tt: "Sowohl §YKuba§! und die §YDominikanische Republik§! haben der Antillischen Union zugestimmt und die Integration ist bei 10."
 PUE_antilles_integration_tt: "Die Integration ist mindestens 4."
 PUE_Antillean_Decisions_tt: "§GNeue Entscheidungen, die die Integration der Antillen betreffen, werden freigeschaltet§!"
+
+PUE_CAN_ATTACKED: "Führte einen Krieg mit [CAN.GetName]"
+PUE_WIF_ATTACKED: "Führte einen Krieg mit [WIF.GetName]"
 
 ### Parties ###
 PUE_totalist_party: "Partido Comunista"

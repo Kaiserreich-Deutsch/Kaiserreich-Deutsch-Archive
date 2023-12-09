@@ -213,9 +213,6 @@
  SWF_civil_war_fervor: "£pol_violence Auswirkungen von Zustimmung"
 
 ### Opinions Modifiers ###
- mediterranean_economic_block: "Mitglied des Wirtschaftsblocks im Mittelmeerraum"
- iberian_pact: "Iberischer Pakt"
- spanish_italian_treaty: "Spanisch-Italienischer Vertrag"
  cntfai_supported: "Unterstützung der CNT-FAI"
  cntfai_given_refuge: "Zuflucht für die CNT-FAI"
  cntfai_kicked_out: "Verweigerte CNT-FAI Zuflucht"
@@ -293,7 +290,7 @@
  SPA_army_of_africa: "Rückruf der Afrikanischen Armee"
  SPA_army_of_africa_desc: "Das Ejército de África, das Heer Afrikas, war von grundlegender Bedeutung für unseren Erfolg bei der Niederschlagung des Eingeborenenaufstandes im Rif. Da es unwahrscheinlich ist, dass es in der Region kurzfristig zu weiteren Aufständen kommen wird, bietet sich die Gelegenheit, die Truppen von General Franco nach Cádiz zurückzurufen, um sich auf einen eventuellen Aufstand auf dem Festland vorzubereiten."
  SPA_german_assistance: "Deutsche Materielle Unterstützung"
- SPA_german_assistance_desc: "Während es der spanischen Armee an Panzerdivisionen fehlen mag, sind unsere Freunde in Berlin weltweit führend in der Panzerproduktion und -entwicklung. Wenn wir die Deutschen um direkte materielle Unterstützung in Form von schweren Panzern bitten, haben wir einen erheblichen technologischen Vorsprung vor den Rebellen, der uns bei der Wiederherstellung der Ordnung im Reich sicherlich helfen wird."
+ SPA_german_assistance_desc: "Während es der spanischen Armee an Panzerdivisionen fehlen mag, sind unsere Freunde in Berlin weltweit führend in der Panzerproduktion und -entwicklung. Wenn wir die Deutschen um direkte materielle Unterstützung in Form von Panzerwagen bitten, haben wir einen erheblichen technologischen Vorsprung vor den Rebellen, der uns bei der Wiederherstellung der Ordnung im Reich sicherlich helfen wird."
  SPA_rally_kingdom: "Das Königreich versammeln"
  SPA_rally_kingdom_desc: "Trotz unserer Bemühungen, den Frieden zu bewahren, ist in Spanien ein Bürgerkrieg ausgebrochen. Jetzt ist es an der Zeit, die Königstreuen zu versammeln, die verbleibenden Spaltungen zu beseitigen und dafür zu sorgen, dass unser Land nicht den Radikalen zum Opfer fällt."
 

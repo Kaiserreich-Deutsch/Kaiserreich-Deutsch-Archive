@@ -17,55 +17,31 @@
  IRE_radical_socialist_ADJ: "Irisch"
  IRE_radical_socialist_DEF: "die Irische Sozialistische Republik"
 
- IRE_gbr_social_democrat: "Irischer Freistaat"
- IRE_gbr_social_democrat_ADJ: "Irisch"
- IRE_gbr_social_democrat_DEF: "der Irischer Freistaat"
- IRE_gbr_social_liberal: "Irischer Freistaat"
- IRE_gbr_social_liberal_ADJ: "Irisch"
- IRE_gbr_social_liberal_DEF: "der Irischer Freistaat"
- IRE_gbr_market_liberal: "Irischer Freistaat"
- IRE_gbr_market_liberal_ADJ: "Irisch"
- IRE_gbr_market_liberal_DEF: "der Irischer Freistaat"
- IRE_gbr_social_conservative: "Irischer Freistaat"
- IRE_gbr_social_conservative_ADJ: "Irisch"
- IRE_gbr_social_conservative_DEF: "der Irischer Freistaat"
- IRE_gbr_authoritarian_democrat: "Irischer Freistaat"
- IRE_gbr_authoritarian_democrat_ADJ: "Irisch"
- IRE_gbr_authoritarian_democrat_DEF: "der Irischer Freistaat"
- IRE_gbr_paternal_autocrat: "Irischer Freistaat"
- IRE_gbr_paternal_autocrat_ADJ: "Irisch"
- IRE_gbr_paternal_autocrat_DEF: "der Irischer Freistaat"
- IRE_gbr_national_populist: "Irischer Freistaat"
- IRE_gbr_national_populist_ADJ: "Irisch"
- IRE_gbr_national_populist_DEF: "der Irischer Freistaat"
-
 ### Parties ###
- IRE_totalist_party: "RWG"
- IRE_totalist_party_long: "Revolutionäre Arbeitergruppe"
- IRE_syndicalist_party: "IWL"
- IRE_syndicalist_party_long: "Irische Arbeiterliga"
- IRE_radical_socialist_party: "SÉ"
- IRE_radical_socialist_party_long: "Saor Éire (Freies Irland)"
- IRE_social_democrat_party: "SF"
- IRE_social_democrat_party_long: "Sinn Féin"
- IRE_social_liberal_party: "FF"
- IRE_social_liberal_party_long: "Fianna Fáil"
- IRE_market_liberal_party: "CPnaÉ"
- IRE_market_liberal_party_long: "Cumann Poblachta na hÉireann (Republikanische Gesellschaft von Irland)"
- IRE_social_conservative_party: "NCP"
- IRE_social_conservative_party_long: "Nationale Zentrumspartei"
- IRE_authoritarian_democrat_party: "FG"
- IRE_authoritarian_democrat_party_long: "Fine Gael"
- IRE_authoritarian_democrat_party2: "Provisorische Regierung"
- IRE_authoritarian_democrat_long2: "Provisorische Regierung"
- IRE_paternal_autocrat_party: "AnaA"
- IRE_paternal_autocrat_party_long: "Ailtirí na hAiséirghe (Architekten der Auferstehung)"
- IRE_paternal_autocrat_party2: "Collins' Regierung"
- IRE_paternal_autocrat_party_long2: "Collins' Regierung"
- IRE_paternal_autocrat_party3: "Rat von Irland"
- IRE_paternal_autocrat_party_long3: "Rat von Irland"
- IRE_national_populist_party: "ICF"
- IRE_national_populist_party_long: "Irische Christliche Front"
+ IRE_totalist_party: "SÉ"
+ IRE_totalist_party_long: "Saor Éire (Freies Irland)"
+ IRE_syndicalist_party: "ISP"
+ IRE_syndicalist_party_long: "Irish Syndicalist Party (Irische Syndikalistische Partei)"
+ IRE_radical_socialist_party: "PLP"
+ IRE_radical_socialist_party_long: "Progressive Labour Party (Progressive Arbeiterpartei)"
+ IRE_social_democrat_party: "Labour"
+ IRE_social_democrat_party_long: "Labour Party (Arbeiterpartei)"
+ IRE_social_liberal_party: "CnaT"
+ IRE_social_liberal_party_long: "Clann na Talmhan (Kinder der Erde)"
+ IRE_market_liberal_party: "NDP"
+ IRE_market_liberal_party_long: "National Development Party (Nationale Entwicklungspartei)"
+ IRE_market_liberal_party2: "NCP"
+ IRE_market_liberal_party_long2: "National Centre Party (Nationale Zentrumspartei)"
+ IRE_social_conservative_party: "SC"
+ IRE_social_conservative_party_long: "An Saorstát Críostúil (Der christliche Freistaat)"
+ IRE_authoritarian_democrat_party: "SF"
+ IRE_authoritarian_democrat_party_long: "Sinn Féin (Uns selbst)"
+ IRE_paternal_autocrat_party: "AN"
+ IRE_paternal_autocrat_party_long: "Aontas Náisiúnta (Nationale Union)"
+ IRE_paternal_autocrat_party2: "Militärregierung"
+ IRE_paternal_autocrat_party_long2: "Militärregierung"
+ IRE_national_populist_party: "AnaA"
+ IRE_national_populist_party_long: "Ailtirí na hAiséirghe (Architekten der Auferstehung)"
 
 ### Tooltips ###
  chose_forpol: "Wir haben unseren außenpolitischen Weg gewählt."
@@ -185,45 +161,45 @@
 
 # IEAA event - Collins in charge
  ireland.9.t: "Der Dáil berät über die Wirtschaft"
- ireland.9.d: "Mit der Verabschiedung des irischen Wirtschaftsförderungsgesetzes (IEAA) hat sich die irische Regierung zu einer raschen und vollständigen Überholung der Wirtschaft verpflichtet. Wie in dem Gesetz vorgesehen, muss die Regierung nun einen jährlichen Schwerpunkt zur Verbesserung der Wirtschaft festlegen. Michael Collins, Präsident der Republik und Vorsitzender der Fine Gael, sowie Frank MacDermot von der Nationalen Zentrumspartei sind der Meinung, dass Irland sich auf den schnellstmöglichen Aufbau seiner Industrie konzentrieren sollte. Eine von Jim Larkin angeführte syndikalistische Koalition vertritt die Auffassung, dass die Stärkung der Gewerkschaften der beste Weg ist, um die Produktivität unseres Landes zu steigern. Die Sinn Féin schließlich schlägt vor, den Schwerpunkt auf die industrielle Forschung und Entwicklung zu legen."
- ireland.9.a: "Collins und die NCP haben die richtige Idee."
- ireland.9.b: "Stellen Sie sich auf die Seite der Demokraten und der Liberalen."
+ ireland.9.d: "Mit der Verabschiedung des irischen Wirtschaftsförderungsgesetzes (IEAA) hat sich die irische Regierung zu einer raschen und vollständigen Überholung der Wirtschaft verpflichtet. Wie in dem Gesetz vorgesehen, muss die Regierung nun einen jährlichen Schwerpunkt zur Verbesserung der Wirtschaft festlegen. Michael Collins, Präsident der Republik und Vorsitzender der Sinn Féin, sowie Seán Lemass von der National Development Party sind der Meinung, dass Irland sich auf den schnellstmöglichen Aufbau seiner Industrie konzentrieren sollte. Eine von Jim Larkin angeführte syndikalistische Koalition vertritt die Auffassung, dass die Stärkung der Gewerkschaften der beste Weg ist, um die Produktivität unseres Landes zu steigern. SC und Labour schließlich schlagen vor, den Schwerpunkt auf die industrielle Forschung und Entwicklung zu legen."
+ ireland.9.a: "Collins und die NDP haben die richtige Idee."
+ ireland.9.b: "Auf die Seite von SC und Labour."
  ireland.9.c: "Die Syndikalisten sind an etwas dran."
 
 # IEAA repeat event - Collins still in charge
  ireland.10.t: "Der Dáil berät über die Wirtschaft"
- ireland.10.d: "Wie in den vergangenen Jahren tritt der Dáil zusammen, um über die jährlichen wirtschaftlichen Schwerpunkte für die Nation zu entscheiden. Die Positionen der Hauptakteure in der irischen Politik haben sich nicht geändert. Präsident Collins plädiert für eine rasche Industrialisierung, die von der NCP unterstützt wird, die Syndikalisten fordern mehr Anerkennung und eine bessere Behandlung der Arbeitnehmer, während die Liberaldemokratische Koalition der Ansicht ist, dass Irland mit industrieller Forschung und Entwicklung am besten gedient ist."
+ ireland.10.d: "Wie in den vergangenen Jahren tritt das Dáil zusammen, um über die jährlichen wirtschaftlichen Schwerpunkte für die Nation zu entscheiden. Die Positionen der Hauptakteure in der irischen Politik haben sich nicht geändert. Präsident Collins plädiert für eine rasche Industrialisierung, die von der NDP unterstützt wird, die Syndikalisten fordern mehr Anerkennung und eine bessere Behandlung der Arbeitnehmer, während Labour, SC und CnaT der Ansicht sind, dass Irland mit industrieller Forschung und Entwicklung am besten gedient ist."
  ireland.10.a: "Collins hat immer Recht."
- ireland.10.b: "Sinn Féin und Fianna Fáil haben Recht."
+ ireland.10.b: "SC und Labour haben Recht."
  ireland.10.c: "Vielleicht haben die Roten ausnahmsweise eine gute Idee..."
 
 # IEAA event - Collins ousted
  ireland.11.t: "Der Dáil berät über die Wirtschaft"
- ireland.11.d: "Mit der Verabschiedung des irischen Wirtschaftsförderungsgesetzes (IEAA) hat sich die irische Regierung zu einer raschen und vollständigen Überholung der Wirtschaft verpflichtet. Wie in dem Gesetz festgelegt, muss die Regierung nun jährlich einen Schwerpunkt zur Verbesserung der Wirtschaft beschließen. Die autoritäre frühere Regierung, Fine Gael, sowie ihre gemäßigten Partner, die Nationale Zentrumspartei, sind der Ansicht, dass Irland sich auf den schnellstmöglichen Aufbau seiner Industrie konzentrieren sollte. Die syndikalistische Koalition unter der Führung von Jim Larkin vertritt die Auffassung, dass die Stärkung der Gewerkschaften der beste Weg ist, um die Produktivität des Landes zu steigern. Die Sinn Féin schließlich schlägt vor, den Schwerpunkt auf die industrielle Forschung und Entwicklung zu legen."
- ireland.11.a: "Stellen Sie sich auf die Seite der Demokraten und der Liberalen."
- ireland.11.b: "Fine Gael und die NCP haben die richtige Idee."
+ ireland.11.d: "Mit der Verabschiedung des irischen Wirtschaftsförderungsgesetzes (IEAA) hat sich die irische Regierung zu einer raschen und vollständigen Überholung der Wirtschaft verpflichtet. Wie in dem Gesetz festgelegt, muss die Regierung nun jährlich einen Schwerpunkt zur Verbesserung der Wirtschaft beschließen. Die autoritäre frühere Regierung, Sinn Féin, sowie die National Development Party sind der Ansicht, dass Irland sich auf den schnellstmöglichen Aufbau seiner Industrie konzentrieren sollte. Die syndikalistische Koalition unter der Führung von Jim Larkin vertritt die Auffassung, dass die Stärkung der Gewerkschaften der beste Weg zur Steigerung der Produktivität des Landes ist. SC und Labour schließlich schlagen vor, den Schwerpunkt auf die industrielle Forschung und Entwicklung zu legen."
+ ireland.11.a: "Auf die Seite von SC und Labour."
+ ireland.11.b: "Sinn Féin und die NDP haben die richtige Idee."
  ireland.11.c: "Die Syndikalisten sind an etwas dran."
 
 # IEAA repeat event - Collins ousted
  ireland.12.t: "Der Dáil berät über die Wirtschaft"
- ireland.12.d: "Wie in den vergangenen Jahren tritt der Dáil zusammen, um über die jährlichen wirtschaftlichen Schwerpunkte für die Nation zu entscheiden. Die Positionen der Hauptakteure in der irischen Politik haben sich nicht geändert. Fine Gael und die NCP treten für eine rasche Industrialisierung ein, während die Syndikalisten mehr Anerkennung und eine bessere Behandlung der Arbeitnehmer fordern. Die liberal-demokratische Koalition ist der Ansicht, dass Irland am besten mit industrieller Forschung und Entwicklung gedient ist."
- ireland.12.a: "Sinn Féin und Fianna Fáil haben Recht."
- ireland.12.b: "Fine Gael und die NCP haben Recht."
+ ireland.12.d: "Wie in den vergangenen Jahren tritt das Dáil zusammen, um über die jährlichen wirtschaftlichen Schwerpunkte für die Nation zu entscheiden. Die Positionen der Hauptakteure in der irischen Politik haben sich nicht geändert. Sinn Féin und die NDP treten für eine rasche Industrialisierung ein, während die Syndikalisten mehr Anerkennung und eine bessere Behandlung der Arbeitnehmer fordern. SC und Labour sind der Ansicht, dass Irland mit industrieller Forschung und Entwicklung am besten gedient ist."
+ ireland.12.a: "SC und Labour haben Recht."
+ ireland.12.b: "Sinn Féin und die NDP haben nicht unrecht."
  ireland.12.c: "Vielleicht haben die Roten ausnahmsweise eine gute Idee..."
 
 # IEAA event - Collins ousted (syndicalist)
  ireland.13.t: "Der Dáil berät über die Wirtschaft"
- ireland.13.d: "Mit der Verabschiedung des irischen Wirtschaftsförderungsgesetzes (IEAA) hat sich die irische Regierung zu einer raschen und vollständigen Überholung der Wirtschaft verpflichtet. Wie in dem Gesetz vorgesehen, muss die Regierung nun jährlich einen Schwerpunkt zur Verbesserung der Wirtschaft festlegen. Die Revolutionäre Arbeitergruppe ist der Ansicht, dass Irland sich auf den schnellstmöglichen Aufbau seiner Industrie konzentrieren sollte. Die Irische Arbeiterliga argumentiert, dass die Förderung der Gewerkschaften der beste Weg ist, um die Produktivität unseres Landes zu steigern. Saor Éire (Freies Irland) schließlich schlägt vor, den Schwerpunkt auf die industrielle Forschung und Entwicklung zu legen."
- ireland.13.a: "Auf der Seite von Saor Éire (Freies Irland)."
- ireland.13.b: "Die Revolutionäre Arbeitergruppe hat die richtige Idee."
- ireland.13.c: "Die Irische Arbeiterliga ist auf dem richtigen Weg."
+ ireland.13.d: "Mit der Verabschiedung des irischen Wirtschaftsförderungsgesetzes (IEAA) hat sich die irische Regierung zu einer raschen und vollständigen Überholung der Wirtschaft verpflichtet. Wie in dem Gesetz vorgesehen, muss die Regierung nun jährlich einen Schwerpunkt zur Verbesserung der Wirtschaft festlegen. Saor Éire ist der Ansicht, dass Irland sich darauf konzentrieren sollte, seine Industrie so schnell wie möglich aufzubauen. Die Irish Syndicalist Party argumentiert, dass die Förderung der Gewerkschaften der beste Weg ist, um die Produktivität unseres Landes zu steigern. Die PLP schließlich schlägt vor, den Schwerpunkt auf die industrielle Forschung und Entwicklung zu legen."
+ ireland.13.a: "Auf die Seite der PLP."
+ ireland.13.b: "Saor Éire hat die richtige Idee."
+ ireland.13.c: "Die Irish Syndicalist Party hat etwas vor."
 
 # IEAA repeat event - Collins ousted (syndicalist)
  ireland.242.t: "Der Dáil berät über die Wirtschaft"
- ireland.242.d: "Wie in den vergangenen Jahren tritt das Dáil zusammen, um über die jährlichen wirtschaftlichen Schwerpunkte für die Nation zu entscheiden. Die Positionen der Hauptakteure in der irischen Politik haben sich nicht geändert. Die Revolutionäre Arbeitergruppe plädiert für eine rasche Industrialisierung, während die Irische Arbeiterliga eine stärkere Anerkennung der Arbeiterkollektive fordert. Saor Éire (Freies Irland) ist der Ansicht, dass Irland mit industrieller Forschung und Entwicklung am besten gedient ist."
- ireland.242.a: "Saor Éire (Freies Irland) hat Recht."
- ireland.242.b: "Die Revolutionäre Arbeitergruppe hat die richtige Idee."
- ireland.242.c: "Die Irische Arbeiterliga hat eine gute Idee."
+ ireland.242.d: "Wie in den vergangenen Jahren tritt das Dáil zusammen, um über die jährlichen wirtschaftlichen Schwerpunkte für die Nation zu entscheiden. Die Positionen der Hauptakteure in der irischen Politik haben sich nicht geändert. Saor Éire tritt für eine rasche Industrialisierung ein, während die Irish Syndicalist Party eine stärkere Anerkennung der Arbeiterkollektive fordert. Die PLP ist der Ansicht, dass Irland am besten durch industrielle Forschung und Entwicklung gedient ist."
+ ireland.242.a: "Die PLP hat Recht."
+ ireland.242.b: "Saor Éire hat nicht ganz unrecht."
+ ireland.242.c: "Die Irish Syndicalist Party hat eine gute Idee."
 
 # Agri/Infra Wing
  IRE_agricultural_reform_drive: "Initiative zur Agrarreform"
@@ -490,7 +466,7 @@
 # RTN ideas + events
 
  IRE_revitalise_the_north: "Wiederbelebung des Nordens"
- IRE_revitalise_the_north_desc: "Nach dem Waffenstillstand von 1925 befand sich die nördlichste Region von Ulster im Vergleich zum Rest des Landes in einem industriellen Niedergang. Belfast war einst eine blühende Industriestadt, und andere Städte wie Derry und Coleraine schienen dem Beispiel zu folgen. Die Wiederaufnahme dieses Themas und die Belebung des Nordens durch industrielle Investitionen werden der Region zu einem Aufschwung verhelfen."
+ IRE_revitalise_the_north_desc: "Nach dem Beitritt zur Republik hat die nördlichste Region von Ulster im Vergleich zum Rest der Nation eine industrielle Flaute erlebt. Belfast war einst eine blühende Industriestadt, und andere Städte wie Derry und Coleraine schienen dem Beispiel zu folgen. Die Wiederaufnahme dieses Themas und die Belebung des Nordens durch industrielle Investitionen werden der Region zu einem Aufschwung verhelfen."
 
  ireland.67.t: "Die Harland & Wolff Werft"
  ireland.67.d: "In den frühen 1900er Jahren hatte die Harland & Wolff Werft in Belfast die prestigeträchtige Ehre, die größte Schiffswerft der Welt zu sein. Nach der Kapitulation des britischen Weltreichs im Ersten Weltkrieg und der zweiten Kapitulation kurz danach vor den Gewerkschaften ist die Werft verfallen und wurde von anderen Werften in der ganzen Welt überholt. Nach ihrer Renovierung könnte sie wieder ein großer Gewinn sein, aber dieses Mal für Irland und nicht für die britischen Imperialisten."
@@ -684,7 +660,7 @@
  ireland.126.a.paddy: "Besser als nichts..."
 
  IRE_steel_city: "Die Stahlstadt"
- IRE_steel_city_desc: "Stahl ist ein wichtiger Rohstoff und einer der wenigen, die Irland dank seiner natürlichen Ressourcen und Handelsverbindungen zuverlässig produzieren kann. Belfast verfügte früher über eine ansehnliche Stahlindustrie, die jedoch nach dem Waffenstillstand von 1925 größtenteils stillgelegt und nach Dublin verlagert wurde. Wir könnten die Stahlwerke wiederbeleben und von den Vorteilen profitieren."
+ IRE_steel_city_desc: "Stahl ist ein wichtiger Rohstoff und einer der wenigen, die Irland dank seiner natürlichen Ressourcen und Handelsverbindungen zuverlässig produzieren kann. Belfast hatte früher eine anständige Stahlindustrie, aber ein Großteil der Unternehmen wurde nach dem Anschluss des Nordens an die Republik geschlossen und nach Dublin verlegt. Wir könnten die Stahlwerke wiederbeleben und von den Vorteilen profitieren."
 
  ireland.112.t: "Die Stahlindustrie in Belfast"
  ireland.112.d: "Die Stahlindustrie in Belfast befand sich jahrelang im Niedergang, bis die Regierung kürzlich versuchte, sie durch die Verabschiedung des IEAA zu verjüngen. Es gibt Raum für eine erhebliche Ausweitung unserer Stahlunternehmen in Belfast, wenn die Mittel für die Erweiterung der bestehenden Stahlwerke zur Verfügung gestellt und Subventionen für die Einstellung neuer Arbeitskräfte gewährt werden könnten. Dies würde uns mit wesentlich mehr Stahl versorgen, als unsere derzeitigen Investitionen zulassen, würde aber auch die Staatsverschuldung in die Höhe treiben."
@@ -715,7 +691,7 @@
  IRE_uniting_the_nation: "Vereinigung der Nation"
  IRE_uniting_the_nation_desc: "Einige der größten Spaltungen unserer Nation könnten durch ein Programm kultureller Reformen behoben werden. Die Verbreitung der irischen Sprache wird dazu beitragen, unsere Landsleute zu vereinen, während es ein fortschrittlicher Schritt wäre, sich mit dem langjährigen Einfluss der katholischen Kirche auf die irischen Werte und die Moral auseinanderzusetzen. Unsere Jugend könnte von einem Pfadfinderprogramm profitieren, und vielleicht kann unsere eingewanderte Bevölkerung mit etwas Mühe besser integriert werden."
  IRE_dealing_with_church: "Umgang mit der Kirche"
- IRE_dealing_with_church_desc: "Der Status der Kirche ist seit der irischen Unabhängigkeitserklärung lange umstritten gewesen. Angeblich ist die Republik Irland eine säkulare Nation, aber einige haben in Frage gestellt, ob das wirklich so ist. Es ist an der Zeit, die Frage der Kirche ein für alle Mal gesetzlich zu regeln und damit die Zukunft der Nation zu bestimmen."
+ IRE_dealing_with_church_desc: "Der Status der Kirche ist seit der irischen Unabhängigkeitserklärung lange umstritten gewesen. Angeblich ist die Irische Republik eine säkulare Nation, aber einige haben in Frage gestellt, ob das wirklich so ist. Es ist an der Zeit, die Frage der Kirche ein für alle Mal gesetzlich zu regeln und damit die Zukunft der Nation zu bestimmen."
  ireland.dwtc.tt: "\nEntscheiden Sie über die §YReligiöse Richtung§! der irischen Nation."
 
  ireland.129.t: "Das Schicksal der Kirche"
@@ -724,7 +700,7 @@
  ireland.129.b: "Die Kirche und der Staat sind untrennbar, zwei Hälften eines Ganzen. Nár laga Dia thú.(Gott ist nicht schwach.)"
 
  IRE_secular_supremacy: "Weltliche Vorherrschaft"
- IRE_secular_supremacy_desc: "Die Regierung hat sich entschieden, offiziell zu bestätigen, dass die Republik Irland in erster Linie eine säkulare Nation ist, die politische Macht der Kirche zu zerstören und die Nation hinter den Versprechungen von 1925 zu spalten."
+ IRE_secular_supremacy_desc: "Die Regierung hat sich entschieden, offiziell zu bestätigen, dass die Irische Republik in erster Linie eine säkulare Nation ist, die politische Macht der Kirche zu zerstören und die Nation hinter den Versprechungen von 1925 zu spalten."
  IRE_catholic_supremacy: "Katholische Vorherrschaft"
  IRE_catholic_supremacy_desc: "Die irische Regierung hat sich den Katholizismus wieder zu eigen gemacht, die Rolle der Kirche in der Regierung gefestigt und gläubige Katholiken für die Verteidigung der Nation gegen ausländische Unmoral und Habgier gewonnen."
  IRE_promote_irish_language: "Förderung der Irischen Sprache."
@@ -756,8 +732,8 @@
  IRE_reinforce_ulster_gardai: "Verstärkung der Ulster Gardaí (Polizei)"
  IRE_reinforce_ulster_gardai_desc: "Verstärkung der Ulster Gardaí (Wache) Da die Spannungen in der Region weiter zunehmen, liegt es auf der Hand, dass in Ulster eine größere Polizeitruppe, die Gardaí (Wache), benötigt wird. Wir sollten die Polizei in Belfast unterstützen, indem wir die lokalen Polizeikräfte erheblich aufstocken, um die gesamte Region besser abzudecken."
  ireland.rtug.tt: "Aufstockung von §Y5§! Divisionen der Gardaí (Wache) in Belfast.\n"
- IRE_re_occupy_belfast: "Wiederbesetzung von Belfast"
- IRE_re_occupy_belfast_desc: "Die Loyalisten haben in der Vergangenheit mit Bürgerkrieg und Sezession gedroht, und wenn sie dies tun sollten, dürfen wir ihnen Belfast unter keinen Umständen überlassen. Belfast hat sich zu unserer zweitgrößten Industriestadt entwickelt und ist viel zu wertvoll, um sie an den Feind zu verlieren, ganz zu schweigen von einem strategischen Hafen, von dem aus die Loyalisten Hilfe erhalten könnten. Sie muss militärisch besetzt werden."
+ IRE_occupy_belfast: "Besetzung von Belfast"
+ IRE_occupy_belfast_desc: "Die Loyalisten haben in der Vergangenheit mit Bürgerkrieg und Sezession gedroht, und wenn sie dies tun sollten, dürfen wir ihnen Belfast unter keinen Umständen überlassen. Belfast hat sich zu unserer zweitgrößten Industriestadt entwickelt und ist viel zu wertvoll, um sie an den Feind zu verlieren, ganz zu schweigen von einem strategischen Hafen, von dem aus die Loyalisten Hilfe erhalten könnten. Sie muss militärisch besetzt werden."
  IRE_destroy_ulster_volunteer_force: "Zerstörung der Ulster Freiwilligentruppe"
  IRE_destroy_ulster_volunteer_force_desc: "Die Ulster Freiwilligengruppe, diese sogenannten Freiheitskämpfer, sind nichts anderes als eine Bande von Terroristen. Wir müssen die Bewegung infiltrieren und sie vollständig zerstören, wenn Ulster irgendeine Art von dauerhaftem Frieden haben soll. Wir werden ihre Anführer zur Strecke bringen und ihrer Rekrutierung ein Ende setzen, wodurch der Aspekt der physischen Gewalt der loyalistischen Bewegung erheblich geschwächt wird."
 
@@ -777,7 +753,7 @@
 
 ### Focus Tree - Eire and the World (Foreign Policy)
  IRE_on_the_world_stage: "Irland auf der Weltbühne"
- IRE_on_the_world_stage_desc: "Elf Jahre lang, seit dem Ende des Irischen Freistaats, hat Irland in einer verschlafenen Isolation gelebt und die Politik der Außenwelt nicht als wichtig angesehen. Nun aber, da sich ein zweiter Weltkrieg abzeichnet, muss sich Irland auf der Weltbühne behaupten oder erneut untergehen."
+ IRE_on_the_world_stage_desc: "Elf Jahre lang, seit dem Ende der britischen Revolution, hat Irland in einer verschlafenen Isolation gelebt und die Politik der Außenwelt nicht als wichtig angesehen. Nun aber, da sich ein zweiter Weltkrieg abzeichnet, muss sich Irland auf der Weltbühne behaupten oder erneut untergehen."
 
 # Dealing with Our Enemies
  IRE_dealing_with_our_enemies: "Umgang mit unseren Feinden"
@@ -812,7 +788,8 @@
 
 #Socialist
  IRE_an_chomhdhail_siondacaiteach: "An Chomhdháil Siondacáiteach (Die Syndikatskonferenz)"
- IRE_an_chomhdhail_siondacaiteach_desc: "Nun, da der Traum von James Connolly Wirklichkeit geworden ist, werden wir die Provisorische Regierung ablösen. Die drei Fraktionen sind die radikalen sozialistischen Nationalisten von Saor Éire (Freies Irland) unter der Führung von Peadar O'Donnell, die syndikalistische Irische Arbeiterliga unter der Führung von Jim Larkin und seinem ehemaligen Rivalen William X. O'Brien und die Revolutionäre Arbeitergruppe unter der Führung des Totalisten Sean Murray."
+ IRE_an_chomhdhail_siondacaiteach_desc: "Nun, da der Traum von James Connolly Wirklichkeit geworden ist, werden wir die Provisorische Regierung ablösen. Die beiden Fraktionen sind die Nationalisten von Saor Éire unter Führung von Peadar O'Donnell und die orthodoxe syndikalistische Irish Syndicalist Party unter Führung von Jim Larkin."
+ IRE_an_chomhdhail_siondacaiteach_tt: "§CEs wird ein Kongress abgehalten, um über die künftige Führung der Nation zu entscheiden.§!"
  IRE_join_internationale: "Beitritt zur Internationale"
 
  ireland.243.t: "Beitritt zur Internationale?"
@@ -822,7 +799,7 @@
 
 #Foreign Polcy
  ireland.170.t: "Irische diplomatische Vertretung in Britannien"
- ireland.170.d: "Wir haben beschlossen, dass der beste Weg zur Sicherung der künftigen Unabhängigkeit Irlands darin besteht, mit den Briten in Kontakt zu treten und ein Abkommen mit ihnen zu schließen. Unter der Leitung des Außenministers Éamon de Valera und unter Beteiligung eines der Unterzeichner des ersten Anglo-Irischen Vertrags, Robert Barton, hat sich unsere diplomatische Mission nach London begeben."
+ ireland.170.d: "Wir haben beschlossen, dass der beste Weg zur Sicherung der künftigen Unabhängigkeit Irlands darin besteht, mit den Briten zu verhandeln und ein Abkommen mit ihnen zu schließen. Unter der Leitung von Éamon de Valera und einem der Unterzeichner des ersten Englisch-Irischen Vertrags, Robert Barton, ist unsere diplomatische Mission nach London aufgebrochen."
  ireland.170.a: "Viel Glück!"
 
  ireland.171.t: "Irische diplomatische Vertretung in Britannien trifft ein"
@@ -886,11 +863,11 @@
  ireland.183.a: "Exzellent!"
 
  ireland.184.t: "Ende des Handelskriegs"
- ireland.184.d: "Seit der Unterzeichnung des ersten Anglo-Irischen Vertrags im Jahr 1922, mit dem der irische Freistaat innerhalb des Britischen Imperiums gegründet wurde, gab es einen wirtschaftlichen Konflikt zwischen dem Vereinigten Königreich und Irland. Auf Ein- und Ausfuhren wurden Zölle in Höhe von 20 % erhoben, um dem entstehenden Irischen Staat zu schaden und als protektionistische Maßnahme die Britische Wirtschaft zu unterstützen, die unter den Verlusten des Weltkriegs zu leiden hatte. Die Iren reagierten darauf in gleicher Weise, um ihre Unabhängigkeit von Britannien zu bekräftigen. Die Situation änderte sich auch nach der Revolution von 1925 und der Gründung der Union von Britannien nicht, was zu einem großen Teil auf die ideologischen Differenzen zwischen den Loyalisten und Collins' Fine Gael zurückzuführen war. Mit der Unterzeichnung des 2. Anglo-Irischen Vertrages ist der Handelskrieg nun jedoch beendet, und beide Parteien werden die wirtschaftlichen Vorteile daraus ziehen."
+ ireland.184.d: "Seit der Unterzeichnung des ersten anglo-irischen Vertrags im Jahr 1922, mit dem die irische Republik innerhalb des britischen Empire gegründet wurde, gab es einen wirtschaftlichen Konflikt zwischen dem Vereinigten Königreich und Irland. Auf Ein- und Ausfuhren wurden Zölle in Höhe von 20 % erhoben, um dem entstehenden Irischen Staat zu schaden und als protektionistische Maßnahme die Britische Wirtschaft zu unterstützen, die unter den Verlusten des Weltkriegs zu leiden hatte. Die Iren reagierten darauf in gleicher Weise, um ihre Unabhängigkeit von Britannien zu bekräftigen. Die Situation änderte sich durch die britische Revolution und die Gründung der Union of Britain nicht, was zu einem großen Teil auf die ideologischen Differenzen zwischen den Loyalisten und Collins' Sinn Féin zurückzuführen ist. Mit der Unterzeichnung des 2. Anglo-Irischen Vertrages ist der Handelskrieg nun jedoch beendet, und beide Parteien werden die wirtschaftlichen Vorteile daraus ziehen."
  ireland.184.a: "Großartig!"
 
  ireland.185.t: "Ende des Handelskriegs"
- ireland.185.d: "Seit der Unterzeichnung des ersten Anglo-Irischen Vertrags im Jahr 1922, mit dem der irische Freistaat innerhalb des Britischen Imperiums gegründet wurde, gab es einen wirtschaftlichen Konflikt zwischen dem Vereinigten Königreich und Irland. Auf Ein- und Ausfuhren wurden Zölle in Höhe von 20 % erhoben, um dem entstehenden Irischen Staat zu schaden und als protektionistische Maßnahme die Britische Wirtschaft zu unterstützen, die unter den Verlusten des Weltkriegs zu leiden hatte. Die Iren reagierten darauf in gleicher Weise, um ihre Unabhängigkeit von Britannien zu bekräftigen. Die Situation änderte sich auch nach der Revolution von 1925 und der Gründung der Union von Britannien nicht, was zu einem großen Teil auf die ideologischen Differenzen zwischen den Loyalisten und Collins' Fine Gael zurückzuführen war. Mit der Unterzeichnung des 2. Anglo-Irischen Vertrages ist der Handelskrieg nun jedoch beendet, und beide Parteien werden die wirtschaftlichen Vorteile daraus ziehen."
+ ireland.185.d: "Seit der Unterzeichnung des ersten Anglo-Irischen Vertrags im Jahr 1922, mit dem der Irische Republik innerhalb des Britischen Imperiums gegründet wurde, gab es einen wirtschaftlichen Konflikt zwischen dem Vereinigten Königreich und Irland. Auf Ein- und Ausfuhren wurden Zölle in Höhe von 20 % erhoben, um dem entstehenden Irischen Staat zu schaden und als protektionistische Maßnahme die Britische Wirtschaft zu unterstützen, die unter den Verlusten des Weltkriegs zu leiden hatte. Die Iren reagierten darauf in gleicher Weise, um ihre Unabhängigkeit von Britannien zu bekräftigen. Die Situation änderte sich durch die britische Revolution und die Gründung der Union of Britain nicht, was zu einem großen Teil auf die ideologischen Differenzen zwischen den Loyalisten und Collins' Sinn Féin zurückzuführen ist. Mit der Unterzeichnung des 2. Anglo-Irischen Vertrages ist der Handelskrieg nun jedoch beendet, und beide Parteien werden die wirtschaftlichen Vorteile daraus ziehen."
  ireland.185.a: "Großartig!"
 
  ireland.186.t: "Zugangsabkommen mit Irland?"
@@ -1012,50 +989,37 @@
  ireland.218.a: "Ihr Verlust!"
 
  ireland.219.t: "ACS Wirtschaftspolitik"
- ireland.219.d: "Das erste Thema ist die Wirtschaft: Saor Éire (Freies Irland) befürwortet den Bau von Infrastrukturen in den ärmsten Gebieten Irlands, um den Menschen dort zu helfen, die Irische Arbeiterliga unterstützt die weitere Industrialisierung der wichtigsten Städte Irlands unter der Kontrolle der Arbeiter, während die Revolutionäre Arbeitergruppe öffentliche Bauprojekte vorschlägt, um die irische Wirtschaft wiederzubeleben und die Unterstützung für die neue revolutionäre Regierung zu stärken."
- ireland.219.a: "RWG: Öffentliche Bauvorhaben!"
- ireland.219.b: "IWL: Weitere Industrialisierung!"
- ireland.219.c: "SÉ: Wir müssen unseren ärmsten Regionen helfen!"
+ ireland.219.d: "Das erste Thema ist die Wirtschaft. Saor Éire (Freies Irland) setzt sich für den Aufbau von Infrastrukturen in den ärmsten Gebieten Irlands ein, um den Menschen dort zu helfen, während die Irish Syndicalist Party die weitere Industrialisierung der wichtigsten Städte Irlands unter der Kontrolle der Arbeiter unterstützt."
+ ireland.219.a: "ISP: Weitere Industrialisierung!"
+ ireland.219.b: "SÉ: Wir müssen unseren ärmsten Regionen helfen!"
 
  ireland.220.t: "ACS Sprachpolitik"
- ireland.220.d: "Saor Éire (Freies Irland) plädiert für eine umfassende Kampagne zur Wiederbelebung der Irischen Sprache, während die Irische Arbeiterliga der Meinung ist, dass man, wie James Connolly einmal sagte, "einem hungernden Mann kein Gälisch beibringen kann" und dass dies für eine andere Zeit aufgeschoben werden sollte, während die Revolutionäre Arbeitergruppe der Meinung ist, dass einige Anstrengungen unternommen werden sollten, dass es aber höhere Prioritäten gibt."
- ireland.220.a: "RWG: Geben Sie sich etwas Mühe."
- ireland.220.b: "IWL: Es gibt andere Prioritäten."
- ireland.220.c: "SÉ: Wir müssen eine Erweckungskampagne starten!"
+ ireland.220.d: "Saor Éire (Freies Irland) setzt sich für eine umfassende Kampagne zur Wiederbelebung der irischen Sprache ein, während die Irish Syndicalist Party der Meinung ist, dass, wie James Connolly einst sagte, \"man einem hungernden Mann kein Gälisch beibringen kann\" und dass dies für eine andere Zeit aufgehoben werden sollte."
+ ireland.220.a: "ISP: Es gibt andere Prioritäten."
+ ireland.220.b: "SÉ: Wir müssen eine Erweckungskampagne starten!"
 
  ireland.221.t: "ACS Religionspolitik"
- ireland.221.d: "Das nächste Thema auf der Tagesordnung ist das Schicksal der Religion. Saor Éire (Freies Irland) ist der Meinung, dass die Religion in Ruhe gelassen werden sollte, da sie viele, sowohl Katholiken als auch Protestanten, verärgern würde, die Irische Arbeiterliga befürwortet die Verstaatlichung des irischen Schulsystems, während die Revolutionäre Arbeitergruppe der Meinung ist, dass alle Spuren der Religion aus dem Staat entfernt werden sollten."
- ireland.221.a: "RWG: Jegliche Religion muss aus den offiziellen Angelegenheiten entfernt werden!"
- ireland.221.b: "IWL: Verstaatlicht das Schulsystem!"
- ireland.221.c: "SÉ: Die Angelegenheit sollte in Ruhe gelassen werden."
+ ireland.221.d: "Das nächste Thema auf der Tagesordnung ist das Schicksal der Religion. Die Irish Syndicalist Party ist der Meinung, dass die Religion in Ruhe gelassen werden sollte, da sie viele, sowohl Katholiken als auch Protestanten, verärgern würde, während Saor Éire (Freies Irland) der Meinung ist, dass alle Spuren der Religion aus dem Staat entfernt werden sollten."
+ ireland.221.a: "SE: Jegliche Religion muss aus den offiziellen Angelegenheiten entfernt werden!"
+ ireland.221.b: "ISP: Die Angelegenheit sollte in Ruhe gelassen werden."
 
  ireland.222.t: "ACS Außenpolitik"
- ireland.222.d: "Das nächste Thema sind die Außenbeziehungen: Saor Éire (Freies Irland) strebt ein ausgewogenes Verhältnis zur Internationale an, die Irische Arbeiterliga möchte die Beziehungen zu den Briten ausbauen, während die Revolutionäre Arbeitergruppe sich den Franzosen anschließen möchte."
- ireland.222.a: "RWG: Wir müssen uns mit unseren revolutionären Verbündeten in Europa, Frankreich, anfreunden!"
- ireland.222.b: "IWL: Wir haben engere Verbindungen mit der Arbeiterbewegung in Großbritannien."
- ireland.222.c: "SÉ: Ausgewogene Beziehungen, wir sitzen alle im selben Boot!"
+ ireland.222.d: "Das nächste Thema sind die Außenbeziehungen: Saor Éire (Freies Irland) möchte die Beziehungen zu den Briten ausbauen, während die irischen Syndikalisten sich den Franzosen anschließen wollen."
+ ireland.222.a: "ISP: Wir müssen uns mit unseren revolutionären Verbündeten in Europa, Frankreich, anfreunden!"
+ ireland.222.b: "SÉ: Wir haben engere Verbindungen mit der Arbeiterbewegung in Großbritannien."
 
  ireland.223.t: "ACS Militärpolitik"
- ireland.223.d: "Die letzte Frage ist, auf welchen Bereich des Militärs man sich am meisten konzentrieren sollte. Saor Éire (Freies Irland) argumentiert, dass Irland sich aus der Luft verteidigen und die Luftstreitkräfte der Internationalen unterstützen muss, während die Irische Arbeiterliga eine Volksarmee befürwortet, um Irland gegen eine Invasion zu verteidigen und die Revolution im Ausland zu unterstützen, während die Revolutionäre Arbeitergruppe der Meinung ist, dass Irland sich auf seine Marine konzentrieren muss, um sich gegen die Schiffe der Deutschen und der Kanadischen Marine zu verteidigen und die Französisch-Britische Marine zu unterstützen."
- ireland.223.a: "RWG: Konzentration auf die Marine!"
- ireland.223.b: "IWL: Konzentration auf die Armee!"
- ireland.223.c: "SÉ: Konzentration auf die Luftwaffe!"
+ ireland.223.d: "Die letzte Frage ist, auf welchen Zweig des Militärs man sich am meisten konzentrieren sollte. Saor Éire (Freies Irland) befürwortet eine Volksarmee zur Verteidigung Irlands gegen Invasionen und zur Unterstützung der Revolution im Ausland, während die Irish Syndicalist Party der Meinung ist, dass Irland sich auf seine Marine konzentrieren muss, um sich gegen die Schiffe der deutschen und kanadischen Marine zu verteidigen und die französisch-britische Marine zu unterstützen."
+ ireland.223.a: "ISP: Konzentration auf die Marine!"
+ ireland.223.b: "SÉ: Konzentration auf die Armee!"
 
- ireland.224.t: "RWG sichert die Mehrheit"
- ireland.224.d: "Der Syndikalistische Kongress hat beschlossen, mehrheitlich für die Revolutionäre Arbeitergruppe von Sean Murray zu stimmen."
- ireland.224.a: "Herzlichen Glückwunsch, Comrádaí Murray."
+ ireland.224.t: "SÉ sichert die Mehrheit"
+ ireland.224.d: "Der Syndikalistische Kongress hat beschlossen, mit einer Mehrheit für Peadar O'Donnells Saor Éire zu stimmen"
+ ireland.224.a: "Herzlichen Glückwunsch, Comrádaí O'Donnell."
 
- ireland.225.t: "SÉ sichert die Mehrheit"
- ireland.225.d: "Der Syndikalistische Kongress hat beschlossen, mit einer Mehrheit für Peadar O'Donnells Saor Éire (Freies Irland) zu stimmen."
- ireland.225.a: "Herzlichen Glückwunsch, Comrádaí O'Donnell."
-
- ireland.226.t: "IWL sichert die Mehrheit"
- ireland.226.d: "Der Syndikalistenkongress hat beschlossen, mit einer Mehrheit für Jim Larkins Irische Arbeiterliga zu stimmen."
- ireland.226.a: "Herzlichen Glückwunsch, Comrádaí Larkin."
-
- ireland.227.t: "ACS endet unentschieden"
- ireland.227.d: "Der Kongress endete mit einem Unentschieden, was zur Aufrechterhaltung der revolutionären Provisorischen Regierung führte, und O'Donnell übernahm die Rolle des Stellvertreters von Larkin."
- ireland.227.a: "Behalten Sie die revolutionäre Regierung bei!"
+ ireland.225.t: "ISP sichert sich eine Mehrheit"
+ ireland.225.d: "Der Syndikalistenkongress hat beschlossen, die Irische Syndikalistische Partei von James Larkin mit einer Mehrheit zu wählen."
+ ireland.225.a: "Glückwunsch, Comrádaí Larkin."
 
 ### FP Ideas ###
  IRE_irish_american_trade: "Irisch-Amerikanischer Handel"
@@ -1074,7 +1038,7 @@
 # Focus Tree - Military
 
  IRE_reforming_armed_forces: "Reform der Streitkräfte"
- IRE_reforming_armed_forces_desc: "Seit dem Ende des Nordfeldzugs ist das Irische Militär in eine Stagnation verfallen und hat unter einer Verkleinerung gelitten, da die Union von Britannien und Kanada weniger bedrohlich erschien. Da die internationalen Spannungen zunehmen, muss das Militär wiederbelebt werden."
+ IRE_reforming_armed_forces_desc: "Seit dem Ende des Britische Revolution ist das Irische Militär in eine Stagnation verfallen und hat unter einer Verkleinerung gelitten, da die Union von Britannien und Kanada weniger bedrohlich erschien. Da die internationalen Spannungen zunehmen, muss das Militär wiederbelebt werden."
 
 # Military Industry
  IRE_military_industry: "Militärische Industrie"
@@ -1153,9 +1117,9 @@
 
 # Army
  IRE_an_tarm: "An tArm (Die Armee)"
- IRE_an_tarm_desc: "Militärische Taktiken und Doktrinen haben sich seit dem Ende des Nordfeldzuges 1926 geändert. Die irische Armee hingegen hat sich nicht verändert. Es ist wichtig, dass wir auf dem Laufenden bleiben, da der Ausbruch eines Krieges in Europa von Tag zu Tag wahrscheinlicher wird."
+ IRE_an_tarm_desc: "Militärische Taktiken und Doktrinen haben sich seit dem Unabhängigkeitskrieg geändert. Die irische Armee hingegen hat sich nicht verändert. Es ist wichtig, dass wir auf dem Laufenden bleiben, da der Ausbruch eines Krieges in Europa von Tag zu Tag wahrscheinlicher wird."
  IRE_direction_of_the_army: "Leitung der Armee"
- IRE_direction_of_the_army_desc: "Derzeit ist unser Militär uneins, wie es weitergehen soll. Sollen wir die Standardarmeen anderer Nationen nachahmen, wie wir es im Nordfeldzug getan haben, oder sollen wir die Taktiken und Strukturen, die wir während unseres Unabhängigkeitskrieges entwickelt haben, an die konventionelle Kriegsführung anpassen?"
+ IRE_direction_of_the_army_desc: "Derzeit ist unser Militär uneins, wie es weitergehen soll. Sollen wir die Standardarmeen anderer Nationen nachahmen oder die Taktiken und Strukturen, die wir während unseres Unabhängigkeitskrieges entwickelt haben, an die konventionelle Kriegsführung anpassen?"
  IRE_mobile_warfare: "Mobile Kriegsführung"
  IRE_mobile_warfare_desc: "Die militärische Strategie ändert sich: Mobilität und Panzerkrieg werden immer beliebter. Auch wir müssen mit der Zeit gehen und uns mit Mobilitätsdoktrinen befassen."
  IRE_motorising_the_saighdiuri: "Motorisierung der Saighdiúirí (Soldaten)"
@@ -1169,7 +1133,7 @@
  IRE_dublin_arsenal: "Das Dubliner Arsenal"
  IRE_dublin_arsenal_desc: "Unsere Doktrin hängt von der Herstellung von Artillerie ab, um das Leben unserer Männer zu schützen. Da wir uns nicht darauf verlassen können, nur von internationalen Munitionsfirmen zu kaufen, müssen wir lernen, wie wir selbst Artillerie herstellen können."
  IRE_honourable_army: "Eine Ruhmreiche Armee"
- IRE_honourable_army_desc: "Unsere Armee muss auf Ordnung, Disziplin und Verteidigung ausgerichtet sein. Diese Taktik mag zwar während des Osteraufstands gescheitert sein, hat aber während des Nordfeldzugs gut funktioniert und eignet sich besser für die konventionelle Kriegsführung."
+ IRE_honourable_army_desc: "Unsere Armee muss auf Ordnung, Disziplin und Verteidigung ausgerichtet sein. Diese Taktiken mögen zwar während des Osteraufstandes gescheitert sein, sind aber für die konventionelle Kriegsführung besser geeignet."
  IRE_peoples_army: "Eine Volksarmee"
  IRE_peoples_army_desc: "Unsere Armee muss sich auf Geschwindigkeit und schnelle Planung konzentrieren und einige der Taktiken, mit denen wir die Briten im Irischen Unabhängigkeitskrieg besiegen konnten, auf die konventionelle Kriegsführung übertragen."
  IRE_patriotic_movement: "Patriotische Bewegung"
@@ -1248,12 +1212,12 @@
 
 # Introduction Events
  IRE_country_intro_header: "Der Zustand der Republik, 1936"
- IRE_country_intro_content: "Nach zahllosen Jahren mühsamer Rebellion und unterdrückerischer Britischer Herrschaft hat das Irische Volk seine Freiheit und sein Land zurückgewonnen. Doch als ein Feind besiegt war, erhob sich an seiner Stelle ein anderer, der vielleicht noch gefährlicher ist.\n\nMichael Collins ist ein Diktator wider Willen, der die Unabhängigkeit seines Landes um jeden Preis verteidigen will, doch seine politischen Feinde sind zahlreich, denn die Wahlen von 1937 rücken näher.\n\nIrland ist ein Pulverfass, und es ist nur eine Frage der Zeit, bis es explodiert."
+ IRE_country_intro_content: "Nach zahllosen Jahren mühsamer Rebellion und unterdrückerischer Britischer Herrschaft hat das Irische Volk seine Freiheit und sein Land zurückgewonnen. Doch als ein Feind besiegt war, erhob sich an seiner Stelle ein anderer, der vielleicht noch gefährlicher ist.\n\nMichael Collins ist ein vorsichtiger Herrscher, der die Unabhängigkeit seines Landes um jeden Preis verteidigen will, doch seine politischen Feinde sind zahlreich, denn die Wahlen von 1937 rücken näher.\n\nIrland ist ein Pulverfass, und es ist nur eine Frage der Zeit, bis es explodiert."
 
- IRE_guide: "§MCollins hält durch§! (§gAutoritär Demokratisch§!)\n£white_dot Michael Collins soll die Wahl von 1937 gewinnen und den Status quo beibehalten.\n\n§MDie Demokratie siegt§! (§lSozialliberal §!/ §mMarktliberal §!/ §cSozialkonservativ §!/ §SSozialdemokratisch §!)\n£white_dot Lassen Sie Michael Collins die Wahl von 1937 gegen die demokratische Opposition verlieren.\n£white_dot Nach der Niederlage soll Collins seinem Rücktritt zustimmen.\n£white_dot Richard Mulcahy wird dann einen Monat später vorgezogene Neuwahlen ansetzen, bei denen Sie zwischen §lFianna Fáil (Fianna scheitert)§!, §mCumann Poblachta na hÉireann (Verband der Republik Irland)§!, der §cNationale Zentrumspartei§! oder §SSinn Féin (Uns selbst)§! wählen können.\n\n§MGearóid Ó Cuinneagáin kommt an die Macht§! (§PPaternal Autokrat§!)\n£white_dot Lassen Sie eine beliebige demokratische Partei außer der §cNationalen Zentrumspartei§! die oben beschriebenen Schnellwahlen gewinnen.\n£white_dot Im Jahr 1942 werden Sie §PAiltirí na hAiséirghe (Architekten der Auferstehung)§! wählen können.\n\n§MCollins löst das Oireachtas (Büro)§! auf (§PPaternal Autokrat§!)\n£white_dot Lassen Sie Michael Collins die Wahlen von 1937 gegen die demokratische Opposition verlieren.\n£white_dot Lösen Sie nach der Niederlage die Oireachtas (Büros) auf, um Collins voll und ganz zum Diktator zu machen, und ändern Sie die regierende Partei in §PCollins' Regierung§!.\n£white_dot Lassen Sie Collins überleben, wenn ein Attentat auf ihn verübt wird.\n\n§MDie Zweite Irische Revolution§! (§RRadikal Sozialisten§!/ §rSyndikalisten§!/ §oTotalisten§!)\n£white_dot Michael Collins soll die Wahl 1937 gegen die demokratische Opposition verlieren und das Oireachtas auflösen.\n£white_dot Wenn das Attentat auf Collins verübt wird, soll es gelingen, dass die ICA das Leinster House stürmt und die §rIrish Workers League§! stärkt.\n£white_dot In der folgenden Ereigniskette können §RSaor Éire (Freies Irland)§! und die §oRevolutionary Workers Group§! gewählt werden, wenn Mehrheiten für ihre Politik gewonnen werden.\n"
+ IRE_guide: "§MSinn Féin§! (§gAutoritäre Demokraten§!)\n£white_dot Michael Collins gewinnt die Wahl von 1937 und erhält den Status quo aufrecht.\n\n§MDie Opposition siegt§! (§cSozial-Konservativ§!/ §SSozialdemokratisch§!/ §mMarktliberal§!)\n£white_dot Michael Collins verliert die Wahl 1937 an die Opposition.\n£white_dot Wählen Sie nach einer Niederlage die gewünschte Partei und sorgen Sie dafür, dass die Machtübergabe im Falle einer Niederlage reibungslos verläuft. \"$ireland.251.t$\".\n£white_dot Die möglichen Parteien für die nächste Regierung sind §cAn Saorstát Críostúil§!, die §SLabour Party§! und die §mNational Development Party§!.\n\n§MBlauhemd Putsch§! (§PPaternal-Autokrat§!)\n£white_dot Michael Collins verliert die Wahl 1937 an die Opposition.\n£white_dot Wählen Sie nach der Niederlage eine beliebige Partei, die die Wahl gewinnt\n£white_dot Nach einer Niederlage geht ein Raunen der Entrüstung durch die Straßen \"$ireland.251.t$\"\n£white_dot Bei der folgenden Veranstaltung soll Eoin O'Duffy mit §PAontas Náisiúnta§! übernehmen.\n\n§MDie Zweite Irische Revolution§! (§rSyndikalisten§!/ §oTotalisten§!)\n£white_dot Michael Collins verliert die Wahl 1937 an die Opposition.\n£white_dot Wählen Sie nach der Niederlage eine beliebige Partei, die die Wahl gewinnt\n£white_dot Nach einer Niederlage geht ein Raunen der Entrüstung durch die Straßen \"$ireland.251.t$\"\n£white_dot Im folgenden Fall soll das ICA das Leinster House stürmen.\n£white_dot In der folgenden Ereigniskette können die §rIrish Syndicalist Party§! und §oSaor Éíre§! gewählt werden, wenn mehr ihrer Politiken gewählt werden.\n"
 
  ireland.53.t: "Probleme im Norden"
- ireland.53.d: "Edward Carson, der ehemalige Vorsitzende der Loyalist Party, ist im vergangenen Jahr im Alter von 81 Jahren gestorben. Zu Lebzeiten war er eine äußerst zwiespältige Figur und floh nach England, als Irland seine Unabhängigkeit erlangte und den Rest von Ulster zurückerhielt. Außerhalb von Ulster wurde er vor allem für seine Verfolgung des beliebten Irischen Dichters und Schriftstellers Oscar Wilde geschmäht.\nNach der Britischen Revolution kehrte er nach Ulster zurück und unternahm große Anstrengungen, um die "Loyalisten" von Ulster, die damals "Unionisten" genannt wurden, von dem verachtenswerten Gesindel der "Gewerkschaften" abzugrenzen, das in Britannien das Sagen hatte. Zu diesem Zweck wurde die Ulster Unionism-Bewegung umbenannt, die durch die Revolution in dem, was sie als "Festland" betrachteten, einen schweren Schlag erlitten hatte.\n\nSein Andenken wurde heute von Loyalisten im Norden Irlands verehrt, die in Belfast eine Gedenkfeier abhielten, bei der mehrere führende Mitglieder der ULP in seinem Namen sprachen. Die Gedenkfeier zog eine große Menschenmenge an, was zeigt, dass Carson selbst im Tod noch Macht hat. Sein Gespenst geht um in Ulster, ebenso wie die Spannungen und die Gefahr einer Rebellion in Ulster."
+ ireland.53.d: "Edward Carson, der frühere Vorsitzende der Loyalist Party, später der Ulster Democratic Party, starb letztes Jahr im Alter von 81 Jahren. Zu Lebzeiten war er eine äußerst zwiespältige Figur und floh nach England, als Irland seine Unabhängigkeit erlangte und den Rest von Ulster zurückerhielt. Außerhalb von Ulster wurde er vor allem für seine Verfolgung des beliebten Irischen Dichters und Schriftstellers Oscar Wilde geschmäht.\nNach der Britischen Revolution kehrte er nach Ulster zurück und unternahm große Anstrengungen, um die "Loyalisten" von Ulster, die damals "Unionisten" genannt wurden, von dem verachtenswerten Gesindel der "Gewerkschaften" abzugrenzen, das in Britannien das Sagen hatte. Zu diesem Zweck wurde die Ulster Unionism-Bewegung umbenannt, die durch die Revolution in dem, was sie als "Festland" betrachteten, einen schweren Schlag erlitten hatte.\n\nSein Andenken wurde heute von Loyalisten im Norden Irlands verehrt, die in Belfast eine Gedenkfeier abhielten, bei der mehrere führende Mitglieder der ULP in seinem Namen sprachen. Die Gedenkfeier zog eine große Menschenmenge an, was zeigt, dass Carson selbst im Tod noch Macht hat. Sein Gespenst geht um in Ulster, ebenso wie die Spannungen und die Gefahr einer Rebellion in Ulster."
  ireland.53.a: "Er ist selbst im Grab ein Problem."
 
 # Loyalist Tensions (and debug)
@@ -1297,56 +1261,37 @@
 
 # Election Events
  ireland.14.t: "Die Wahlen 1937"
- ireland.14.d: "Wie jede Wahl seit 1921 war auch diese von Korruption, Einschüchterung der Wähler und Wahlfälschung geprägt. Die Unzufriedenheit mit der Regierung Collins ist jedoch aufgrund der Krise des Schwarzen Montags gewachsen, und viele Wahlzähler haben sich entschieden, ihre Arbeit etwas ernster zu nehmen. Da die Opposition an einer taktischen Wahlkampagne teilnimmt, steht Collins vor der größten Herausforderung für seine Führung."
- ireland.14.a: "Die Partei Fine Gael gewinnt einmal mehr."
- ireland.14.b: "Die demokratische Opposition gewinnt!"
+ ireland.14.d: "Wie bei jeder Wahl seit 1921 ist die Bevölkerung von der Sorge um den Fortbestand der unabhängigen irischen Demokratie geplagt.\n\nNach einer Zeit der Opposition in den späten 20er Jahren wäre dies der dritte Sieg der Sinn Féin in Folge, doch die Unzufriedenheit mit Collins' Herrschaft ist aufgrund der Krise am Schwarzen Montag gewachsen. Da die Opposition an einer taktischen Wahlkampagne teilnimmt, steht Collins vor der größten Herausforderung für seine Führung."
+ ireland.14.a: "Sinn Féin gewinnt einmal mehr!"
+ ireland.14.b: "Die Opposition gewinnt!"
 
- ireland.15.t: "Die Opposition gewinnt!"
- ireland.15.d: "Es scheint, dass die Krise des Schwarzen Montags für Collins zu stürmisch war und die Opposition trotz aller Widrigkeiten einen Sieg errungen hat. Das führende Mitglied der Fine Gael, Richard Mulcahy, hat Collins geraten, etwas Würde zu bewahren und zurückzutreten, obwohl Premierminister O'Duffy ihn aufgefordert hat, "extreme Maßnahmen" zu ergreifen, um im Amt zu bleiben."
- ireland.15.a: "Collins löst das Oireachtas (Parlament) auf!"
- ireland.15.b: "Collins tritt in Ungnade zurück und verschwindet in der Versenkung."
+ ireland.250.t: "Die Opposition gewinnt!"
+ ireland.250.d: "Es ist klar, dass die Mehrheit der Sinn Féin im Dáil zerbrochen ist, aber da die Stimmen ausgezählt werden, ist es nur eine Frage der Zeit, wer das nächste Dáil anführen wird.\n\nDieses Ausmaß an Unentschlossenheit und potenzieller Ungewissheit wurde von rechtsgerichteten Elementen im Militär und in der Politik festgestellt, insbesondere von General Eoin O'Duffy, der einen hohen Rang in der IRA innehat und auch seine eigene rechtsextreme Partei Aontas Náisiúnta führt. Die größte Befürchtung, die im Stillen geäußert wird, ist, dass das politische Vakuum von syndikalistischen Elementen gefüllt werden könnte, die von Großbritannien unterstützt werden und auf ihren Moment warten, um zuzuschlagen und die Revolution nach Irland zu bringen.\n\nWenn man die Zahlen zusammenzählt und die Stimmenthaltung der loyalistischen Ulster Democratic Party berücksichtigt, sieht die Presse nur drei wahrscheinliche Regierungschefs: de Valeras Saorstát Críostúil, die Labour Party in Koalition mit dem agrarischen Clann na Talmhan oder die National Development Party von Seán Lemass, die zusammen mit einigen verärgerten Hinterbänklern der Sinn Féin, Unabhängigen und einer Handvoll handgeschmierter Loyalisten eine Regierung bilden könnte. Wer wird die Wahl gewinnen?"
+ ireland.250.a: "An Saorstát Críostúil! (Der Christliche Freistaat)"
+ ireland.250.b: "Labour and Clann na Talmhan! (Arbeit und Kinder des Landes!)"
+ ireland.250.c: "The National Development Party! (Die Nationale Entwicklungspartei!)"
 
- ireland.16.t: "Attentat auf Collins?"
- ireland.16.d: "Nach Collins' Auflösung des Oireachtas (Parlament) kam es unmittelbar danach zu wütenden Ausschreitungen der sozialistischen Opposition. In dem Chaos hat ein verärgerter FF-Anhänger versucht, unseren Präsidenten zu ermorden! Sollte er stürzen, werden die Sozialisten zweifellos versuchen, die Regierung zu stürzen!"
- ireland.16.a: "Collins ist tot und die ICA stürmt das Leinster House!"
- ireland.16.b: "Der Möchtegern-Attentäter wird getötet und Collins lebt!"
+ ireland.15.t: "Ein Kurswechsel"
+ ireland.15.d: "Es scheint, dass die Krise des Schwarzen Montags für Collins zu viel des Guten war und die Opposition trotz aller Widrigkeiten einen Sieg erringen konnte. Sein ehemaliger Príomh Aire Richard Mulcahy hat Collins geraten, etwas Würde zu bewahren und von seiner Rolle als Vorsitzender der Sinn Féin zurückzutreten, damit ein neuer Führer die Partei bei den kommenden Wahlen leiten kann."
+ ireland.15.a: "Lebe wohl, Mick!"
 
- ireland.250.t: "Endlich Wahlen!"
- ireland.250.d: "Wie versprochen hat Mulcahy endlich Wahlen abgehalten, die im Gegensatz zu den letzten Wahlen nach allgemeiner Auffassung frei und fair waren, ohne dass "außergesetzliche" Mittel im Spiel waren. Im Rennen sind Sinn Fein unter Führung von Cathal Brugha, Fianna Fail unter Führung von Éamon de Valera, Cumann Poblachta na hÉireann (Republikanische Gesellschaft von Irland) unter Führung von Sean Lemass und die Nationale Zentrumspartei unter Führung von Frank MacDermot. Wer wird die Wahl gewinnen?"
- ireland.250.a: "Brugha und Sinn Fein!"
- ireland.250.b: "de Valera und Fianna Fail!"
- ireland.250.c: "Lemass und Cumann Poblachta na hÉireann (Republikanische Gesellschaft von Irland)!"
- ireland.250.e: "MacDermot und die NCP!"
+ ireland.251.t: "Die neue Regierung"
+ ireland.251.d: "Während [ROOT.GetLeader] und seine neue Regierung zum ersten Mal zusammentreffen und beginnen, ein Kabinett zusammenzustellen, ist in Dublin nicht alles so, wie es scheint.\n\nDie frühere Sinn-Féin-Regierung hat ihre harte Haltung zum Syndikalismus aufgegeben, und mit dem Regierungswechsel nehmen linke Kräfte, die von der Union of Britain unterstützt werden, dies zum Anlass, die verbotenen Gewerkschaften der ISP sowie die Irish Citizen's Army von Saor Éire zu organisieren.\n\nDie Armee und die militanten Mitglieder der paramilitärischen Gruppe der Nationalgarde von Aontas Náisiúnta sind wachsam wie eh und je, aber viele vermuten, dass es sich bei den angeblichen syndikalistischen Aktivitäten nur um eine Verschwörung handelt."
+ ireland.251.a: "Die Machtübergabe erfolgt reibungslos."
+ ireland.251.b: "Auf den Straßen werden Stimmen des Widerspruchs laut..."
 
- ireland.17.t: "Die Wahlen 1942"
- ireland.17.d: "Mit den Wahlen im Jahr 1942 ist die Zeit gekommen, in der Irland wieder einmal an die Urnen gehen muss. Da die demokratische Opposition seit der letzten Wahl mehr oder weniger vernichtet wurde, ist Fine Gael ohne Gegenkandidaten angetreten, und in vielen Sitzen steht nur die FG auf dem Stimmzettel. Nach den Umfragen haben Collins und die FG jeden einzelnen Sitz im Dail gewonnen und seine Herrschaft über Irland ist zementiert."
- ireland.17.a: "Ein weiterer überwältigender Sieg für unseren Helden."
+ ireland.16.t: "Die Zweite Irische Revolution?"
+ ireland.16.d: "Der Regierungswechsel war zu viel für die Stabilität der Nation, und mit der Unterstützung ihrer syndikalistischen Kameraden im Ausland ist die Irish Citizen Army von Saor Éire zusammen mit der Irish Syndicalist Party bereit, die Hauptstadt einzunehmen, während sie in Unordnung liegt.\n\nDie Blueshirts von Eoin O'Duffy und Teile des Offizierskorps der IRA, die mit den Deutschen sympathisieren, ahnen, dass dies geschehen könnte, aber es ist noch nicht sicher, ob sie genügend Unterstützung in der Armee oder im Land selbst finden werden, um den vom Ausland unterstützten sozialistischen Aufstand zu überwinden..."
+ ireland.16.a: "Die ICA stürmt das Leinster House und bringt das Eigentum an Irland zu den Menschen!"
+ ireland.16.b: "O'Duffy ruft die Nation zur Verteidigung gegen den gottlosen Syndikalismus auf und errichtet eine Diktatur!"
 
- ireland.18.t: "Die Wahlen 1942"
- ireland.18.d: "Nachdem die Demokratie nach Irland zurückgekehrt ist, finden alle fünf Jahre freie und faire Wahlen statt. Wie bei der letzten Wahl sind die wichtigsten Parteien Sinn Fein, Fianna Fail, die CPNH und die NCP im Rennen, aber eine Koalition aus Gearóid Ó Cuinneagáins ANH und Patrick Beltons ICF könnte den Sieg davontragen und unsere kostbare Demokratie erschüttern, vorausgesetzt, sie sind in der Lage, die Stimmen der NCP auf sich zu vereinen."
- ireland.18.a: "Sinn Fein gewinnt!"
- ireland.18.b: "Fianna Fail triumphiert!"
- ireland.18.c: "Die CPNH gewinnt!"
- ireland.18.e: "Die NCP kann eine weitere Amtszeit erreichen!"
- ireland.18.f: "ANH und die ICF erringen einen Überraschungssieg!"
-
- ireland.19.t: "Der Tod von Eoin O'Duffy"
- ireland.19.d: "Eoin O'Duffy, der Taoiseach unserer Nation, ist heute im Schlaf gestorben. Collins ernannte Richard Mulcahy zu seinem Nachfolger."
- ireland.19.a: "Memento mori (Gedenke des Todes)."
-
- ireland.20.t: "Der Tod von Eoin O'Duffy"
- ireland.20.d: "Eoin O'Duffy, ehemaliger Taoiseach (Chef) unseres Landes während der Regierungszeit von Collins, ist heute im Schlaf gestorben."
- ireland.20.a: "Memento mori (Gedenke des Todes)."
-
- ireland.21.t: "Die Wahlen 1947"
- ireland.21.d: "Die Wahlen 1947 sind endlich da, und es ist an der Zeit, dass Irland wieder einmal zu den Wahlen geht. Die Fine Gael hat praktisch ohne Gegenkandidaten erneut alle Sitze im Dail gewonnen, und Collins hat eine bedeutsame Rede zum Gedenken an seinen Sieg gehalten."
- ireland.21.a: "Am Anfang war es lustig, aber jetzt ist es ein bisschen albern."
-
- ireland.22.t: "Die Wahlen 1947"
- ireland.22.d: "Nachdem die Demokratie nach Irland zurückgekehrt ist, werden alle fünf Jahre freie und faire Wahlen abgehalten. Mit der Zeit sind die NCP und die ANH keine politischen Kräfte mehr, so dass Sinn Fein, Fianna Fail und die CPNH die wichtigsten Kräfte bei den Wahlen sind. Wer wird die Wahl gewinnen?"
- ireland.22.a: "Sinn Fein gewinnt!"
- ireland.22.b: "Fianna Fail gewinnt!"
- ireland.22.c: "Die CPNH holt den Sieg!"
+ ireland.17.t: "Die [GetYear] Wahlen"
+ ireland.17.d: "Es ist wieder einmal an der Zeit, dass die Demokratie in Irland wieder zum Tragen kommt.\n\nWas auch immer auf dem Kontinent geschieht, Irland wird wohl oder übel eine demokratische Regierung in der einen oder anderen Form beibehalten.\n\nKann die Führung von [ROOT.GetLeader] bestehen bleiben, oder wird er gezwungen sein, die Zügel der Macht an die Opposition zu übergeben?"
+ ireland.17.a: "Collins hat immer Recht."
+ ireland.17.b: "Die Sinn Féin von Mulcahy bildet eine Regierung mit der NDP."
+ ireland.17.c: "SC sind bei den Menschen sehr beliebt."
+ ireland.17.e: "Labour gewinnt die Massen für sich."
+ ireland.17.f: "Die NDP triumphiert!"
 
 # MacNeill Commission
 
@@ -1378,7 +1323,7 @@
 
 #Banning the March
  ireland.63.t: "Mord in Nordirland"
- ireland.63.d: "Die örtliche Parteisekretärin der Fine Gael, Sinead O'Connell, wurde heute Morgen an der Küste von Whiteabby, nur wenige Kilometer von der Regionalhauptstadt entfernt, tot aufgefunden. Ihre Leiche war offensichtlich in einiger Entfernung vom eigentlichen Tatort abgelegt worden. Im Hauptquartier der Gardaí (Wache) in Belfast ging ein Schreiben ein, in dem die Ulster Freiwilligen-Truppe für den Mord verantwortlich gemacht wird. Der Mord scheint ein Racheakt für die jüngste Entscheidung der Regierung gewesen zu sein, einen versuchten Protestmarsch der Loyalisten zu verbieten. Die Nachricht von dem Mord hat sich wie ein Lauffeuer im ganzen Land verbreitet, und die Bevölkerung ist schockiert."
+ ireland.63.d: "Die örtliche Parteisekretärin der Sinn Féin, Sinead O'Connell, wurde heute Morgen an der Küste von Whiteabby, nur wenige Kilometer von der Regionalhauptstadt entfernt, tot aufgefunden. Ihre Leiche war offensichtlich in einiger Entfernung vom eigentlichen Tatort abgelegt worden. Im Hauptquartier der Gardaí (Wache) in Belfast ging ein Schreiben ein, in dem die Ulster Freiwilligen-Truppe für den Mord verantwortlich gemacht wird. Der Mord scheint ein Racheakt für die jüngste Entscheidung der Regierung gewesen zu sein, einen versuchten Protestmarsch der Loyalisten zu verbieten. Die Nachricht von dem Mord hat sich wie ein Lauffeuer im ganzen Land verbreitet, und die Bevölkerung ist schockiert."
  ireland.63.a: "Das ist furchtbar. Es muss etwas gegen Ulster unternommen werden."
 
 # Loyalist Protest March 2
@@ -1452,7 +1397,7 @@
  ireland.44.d: "Die Leiche eines jungen Mannes wurde heute Morgen in einer kalten und trostlosen Gasse in der Nähe des Zentrums von Derry gefunden. Einem späteren Polizeibericht zufolge wurde er mit mehreren Messerstichen niedergestochen und dem Tod überlassen. Der Mann war der örtlichen Polizei zuvor als prominentes Mitglied einer Loyalistischen Freiwilligengruppe mit lokalen Verbindungen in der Wasserseite bekannt. Es wurden bereits Stimmen laut, dass der Mord von einem Katholiken begangen wurde und dass die Polizei ein Auge zudrücken wird. Wie berechtigt oder unberechtigt diese Behauptungen auch sein mögen, die Lage in Nordirland ist nach wie vor brisant."
  ireland.44.a: "Beängstigende Zeiten für Derry."
 
- ireland.45.t: "Ulster Loyalistische Partei hält Kundgebung ab"
+ ireland.45.t: "Ulster Demokratische Partei hält Kundgebung ab"
  ireland.45.d: "Heute Nachmittag fand im Stadtzentrum von Belfast eine Kundgebung der UUP statt, an der zahlreiche Menschen teilnahmen. Tausende von Bürgern aus Ulster kamen bei strahlendem Sonnenschein nach draußen, um prominenten Rednern der Loyalisten zuzuhören. Es gab viel Zeit für Gesang und Tanz, aber ebenso viel Zeit für zunehmend gewalttätige Rhetorik in Bezug auf den Status von Ulster im Verhältnis zum übrigen Irland. Die Worte 'Revolte' oder 'Aufstand' wurden vielleicht nicht laut ausgesprochen, aber sie wurden sicherlich gedacht. Große Sorge bereitet der Irischen Regierung die schiere Zahl der Teilnehmer an der Kundgebung. Offensichtlich genießt die Loyalistische Bewegung eine breite Unterstützung in der Bevölkerung."
  ireland.45.a: "Diese Bewegung wird immer populärer."
 
@@ -1465,11 +1410,11 @@
  ireland.47.a: "Der Kreislauf der Gewalt geht weiter."
 
  ireland.48.t: "Craig äußert sich"
- ireland.48.d: "Nach mehreren Jahren der Untätigkeit und des Schweigens hat sich der Führer der Ulster Loyalisten Partei zu Der Status von Ulster in der Republik Irland geäußert. James Craig, von dem manche sagen, er sei im Alter senil geworden, wirkte lebhaft und gut gelaunt, als er in seiner ersten großen Rede dieser Art seit dem Waffenstillstand von 1925 die irische Regierung scharf angriff. Er prangerte insbesondere das derzeitige Regime und die wirtschaftliche Vernachlässigung Nordirlands im letzten Jahrzehnt an und forderte, dass jeder Sohn und jede Tochter Ulsters bereit sein müsse, für den Wohlstand und, wenn nötig, die Freiheit der Region zu kämpfen."
+ ireland.48.d: "Nach mehreren Jahren der Untätigkeit und des Schweigens hat sich der Führer der Ulster Demokratische Partei zu Der Status von Ulster in der Irische Republik geäußert. James Craig, von dem manche behaupten, er sei im Alter senil geworden, wirkte lebhaft und gut gelaunt, als er in seiner ersten großen Rede dieser Art seit dem Anschluss Nordirlands an die Republik nach der britischen Revolution die irische Regierung scharf angriff.\n\nEr prangerte insbesondere das derzeitige Regime und die wirtschaftliche Vernachlässigung Nordirlands im letzten Jahrzehnt an und forderte, dass jeder Sohn und jede Tochter Ulsters bereit sein müsse, für den Wohlstand und, wenn nötig, die Freiheit der Region zu kämpfen."
  ireland.48.a: "Er hätte den Mund halten sollen."
 
  ireland.49.t: "Bombenanschlag auf das Belfaster Rathaus"
- ireland.49.d: "In Belfast herrschte Entsetzen, als auf das Rathaus ein massiver Bombenanschlag verübt wurde, bei dem über fünfzig Menschen getötet und viele weitere verletzt wurden. Der schockierende Anschlag scheint der letzte in einer langen Reihe eskalierender UVF-Anschläge zu sein und wurde während einer Sitzung lokaler politischer Vertreter verübt. Unter den Getöteten befand sich auch Thomas Carlin, der lokale Parteichef der Nationalen Zentrumspartei. Dieser Anschlag hat die ganze Nation in Angst und Schrecken versetzt, und die Spannungen in Ulster haben sich erneut entladen, dieses Mal jedoch mit verheerenden Folgen."
+ ireland.49.d: "In Belfast herrschte Entsetzen, als auf das Rathaus ein massiver Bombenanschlag verübt wurde, bei dem über fünfzig Menschen getötet und viele weitere verletzt wurden. Der schockierende Anschlag scheint der letzte in einer langen Reihe eskalierender UVF-Anschläge zu sein und wurde während einer Sitzung lokaler politischer Vertreter verübt. Unter den Getöteten befand sich auch Thomas Carlin, der lokale Parteichef der Nationale Entwicklungspartei. Dieser Anschlag hat die ganze Nation in Angst und Schrecken versetzt, und die Spannungen in Ulster haben sich erneut entladen, dieses Mal jedoch mit verheerenden Folgen."
  ireland.49.a: "Die Zeit, in der wir leben."
 
  ireland.50.t: "Brand der Großen Oper"
@@ -1493,7 +1438,7 @@
 ######################
 
  ireland.133.t: "Die Loyalisten erklären ihre Unabhängigkeit"
- ireland.133.d: "Nach Monaten wachsender Spannungen ist das Unvermeidliche eingetreten. Die Ulster-Loyalisten haben sich unter der Führung des Protestantischen Demagogen James Craig in Massen erhoben und fordern die Trennung von der Republik Irland. Basil Brooke wurde zum Vorsitzenden des so genannten 'Ulster Defence and Restoration Committee' (Komitee zur Verteidigung und Wiederherstellung von Ulster) gewählt, und die Loyalisten haben erklärt, dass sie ihre neugewonnene Freiheit bis zum Tod verteidigen werden, ganz gleich, wie viel Blut dabei vergossen wird. In Belfast wurden Barrikaden errichtet, und viele Protestantische Milizen haben sich der Sache der Loyalisten angeschlossen. Irland steht vor einem Bürgerkrieg, und dieses Mal wird es keinen Waffenstillstand geben, wie es ihn 1925 gab. Das Schicksal von Ulster wird für immer entschieden sein, so oder so."
+ ireland.133.d: "Nach Monaten wachsender Spannungen ist das Unvermeidliche eingetreten. Die Ulster-Loyalisten haben sich unter der Führung des Protestantischen Demagogen James Craig in Massen erhoben und fordern die Trennung von der Irische Republik. Basil Brooke wurde zum Vorsitzenden des so genannten 'Ulster Defence and Restoration Committee' (Komitee zur Verteidigung und Wiederherstellung von Ulster) gewählt, und die Loyalisten haben erklärt, dass sie ihre neugewonnene Freiheit bis zum Tod verteidigen werden, ganz gleich, wie viel Blut dabei vergossen wird. In Belfast wurden Barrikaden errichtet, und viele Protestantische Milizen haben sich der Sache der Loyalisten angeschlossen. Irland steht vor einem Bürgerkrieg, und das Schicksal von Ulster wird sich für immer entscheiden, so oder so."
  ireland.133.a: "Sie sind Feinde des Staates, und wir werden sie vernichten."
  ireland.133.b: "Lang lebe das freie Ulster!"
 
@@ -1551,17 +1496,17 @@
 # Ulster warnings
 
  ireland.142.t: "Die Deutschen schicken Hilfe nach Irland"
- ireland.142.d: "Ernste Nachrichten. Wie es scheint, hat das Deutsche Reich beschlossen, seinen langjährigen Freund zu stärken, und mehrere Deutsche Divisionen sind in der Republik Irland stationiert worden. Zweifellos wird die tyrannische Regierung im Süden des Landes nur wenig Zeit damit verschwenden, die Deutschen Waffen gegen die guten Menschen in Ulster einzusetzen."
+ ireland.142.d: "Ernste Nachrichten. Wie es scheint, hat das Deutsche Reich beschlossen, seinen langjährigen Freund zu stärken, und mehrere Deutsche Divisionen sind in der Irische Republik stationiert worden. Zweifellos wird die tyrannische Regierung im Süden des Landes nur wenig Zeit damit verschwenden, die Deutschen Waffen gegen die guten Menschen in Ulster einzusetzen."
  ireland.142.a: "Das kann nicht gut sein."
 
  ireland.143.t: "Die Kanadier schicken Hilfe nach Irland"
- ireland.143.d: "Verrat, wo er am tiefsten sitzt. Das Britische Imperium, oder das, was davon übrig ist, dem wir so viele Jahre lang unsere Loyalität geschworen haben, hat beschlossen, die Republik Irland in ihrem Krieg zur Rückgewinnung unseres kostbaren Ulster zu unterstützen. Kanadische Truppen sind in Dublin eingetroffen und werden bald an der Front sein. Dieser Tag wird von der Loyalistengemeinschaft nie vergessen werden."
+ ireland.143.d: "Verrat, wo er am tiefsten sitzt. Das Britische Imperium, oder das, was davon übrig ist, dem wir so viele Jahre lang unsere Loyalität geschworen haben, hat beschlossen, die Irische Republik in ihrem Krieg zur Rückgewinnung unseres kostbaren Ulster zu unterstützen. Kanadische Truppen sind in Dublin eingetroffen und werden bald an der Front sein. Dieser Tag wird von der Loyalistengemeinschaft nie vergessen werden."
  ireland.143.a: "Als ob die Dinge nicht schon schlimm genug wären."
 
 # UoB warnings
 
  ireland.144.t: "Die Deutschen schicken Hilfe nach Irland"
- ireland.144.d: "Wahrscheinlich als Reaktion auf die Bemühungen unserer eigenen Freiwilligen hat das Deutsche Reich zugesagt, die Republik Irland in ihrem Kampf zu unterstützen, und eine beträchtliche Anzahl von Freiwilligen in den Konflikt entsandt. Es scheint, dass unsere Bemühungen zur Unterstützung der Sache von Ulster in der internationalen Gemeinschaft nicht unbemerkt geblieben sind, was den Kampf um Ulster noch schwieriger macht."
+ ireland.144.d: "Wahrscheinlich als Reaktion auf die Bemühungen unserer eigenen Freiwilligen hat das Deutsche Reich zugesagt, die Irische Republik in ihrem Kampf zu unterstützen, und eine beträchtliche Anzahl von Freiwilligen in den Konflikt entsandt. Es scheint, dass unsere Bemühungen zur Unterstützung der Sache von Ulster in der internationalen Gemeinschaft nicht unbemerkt geblieben sind, was den Kampf um Ulster noch schwieriger macht."
  ireland.144.a: "Verdammt."
 
  ireland.145.t: "Die Kanadier schicken Hilfe nach Irland"
@@ -1571,7 +1516,7 @@
 # Irish Victory
 
  ireland.146.t: "Ulster-Aufstand niedergeschlagen"
- ireland.146.d: "In einer mitreißenden Rede vor einer begeisterten Menge in Dublin verkündeten Regierungs- und Armeevertreter, dass die Republik Irland einen vernichtenden und vollständigen Sieg über die Loyalistischen Rebellen in Ulster errungen hat. Obwohl der Bürgerkrieg blutig war und der Sieg durch harte Arbeit und Opfer errungen wurde, hat die Regierung versprochen, dass die Ulster-Frage das Irische Volk nie wieder belasten wird und dass die Sache der Loyalisten ausgerottet und die Erde in ihrem Kielwasser gesalzen ist. Es scheint, dass eines der am meisten spaltenden Themen in der modernen Irischen Geschichte nun endlich zur Ruhe gekommen ist."
+ ireland.146.d: "In einer mitreißenden Rede vor einer begeisterten Menge in Dublin verkündeten Regierungs- und Armeevertreter, dass die Irische Republik einen vernichtenden und vollständigen Sieg über die Loyalistischen Rebellen in Ulster errungen hat. Obwohl der Bürgerkrieg blutig war und der Sieg durch harte Arbeit und Opfer errungen wurde, hat die Regierung versprochen, dass die Ulster-Frage das Irische Volk nie wieder belasten wird und dass die Sache der Loyalisten ausgerottet und die Erde in ihrem Kielwasser gesalzen ist. Es scheint, dass eines der am meisten spaltenden Themen in der modernen Irischen Geschichte nun endlich zur Ruhe gekommen ist."
  ireland.146.a: "Lang lebe Irland!"
 
 # GER/CAN/ENG Notifications about Irish Victory (if volunteers sent)
@@ -1585,14 +1530,14 @@
  ireland.148.a: "Man nennt sie nicht umsonst Die Kämpferischen Iren."
 
  ireland.149.t: "Ulster besiegt"
- ireland.149.d: "Trotz unserer Bemühungen ist der Aufstand in Ulster von der Republik Irland entscheidend niedergeschlagen worden. Heute Morgen wurde uns berichtet, dass die Irisch-Republikanische Armee die wichtigsten Städte Derry und Belfast vollständig besetzt hat. Wir wissen nicht, was mit den Anführern der Loyalisten geschehen ist, aber zweifellos hat die tyrannische Irische Regierung sie hinrichten lassen. Unsere Versuche, uns in Irlands Angelegenheiten einzumischen, haben unsere Nation in Verlegenheit gebracht, und einige in unserer Regierung sind der Meinung, wir hätten die Ulsteraner ihre eigenen Kämpfe austragen lassen sollen."
+ ireland.149.d: "Trotz unserer Bemühungen ist der Aufstand in Ulster von der Irische Republik entscheidend niedergeschlagen worden. Heute Morgen wurde uns berichtet, dass die Irisch-Republikanische Armee die wichtigsten Städte Derry und Belfast vollständig besetzt hat. Wir wissen nicht, was mit den Anführern der Loyalisten geschehen ist, aber zweifellos hat die tyrannische Irische Regierung sie hinrichten lassen. Unsere Versuche, uns in Irlands Angelegenheiten einzumischen, haben unsere Nation in Verlegenheit gebracht, und einige in unserer Regierung sind der Meinung, wir hätten die Ulsteraner ihre eigenen Kämpfe austragen lassen sollen."
  ireland.149.a: "Die Union von Britannien wird sich am Ende trotzdem durchsetzen."
 
  IRE_loyalists_pacified: "Die Loyalisten wurden durch Bürgerkrieg oder Verhandlungen befriedet."
 
 # Loyalist option to offer Ireland peace if they've held out for long enough
  ireland.151.t: "Zeit für Frieden in Ulster?"
- ireland.151.d: "Es war ein langer und blutiger Kampf, aber Ulster hat der Aggression der Republik Irland ein Jahr lang standgehalten, und viele Männer, sowohl Katholiken als auch Protestanten, sind gestorben. Wir könnten auf einen Frieden mit der Republik drängen, wenn sie unser Recht auf Unabhängigkeit anerkennen würde. Dies wäre sicherlich die beste Vorgehensweise, wenn wir einen noch länger andauernden Konflikt vermeiden wollen."
+ ireland.151.d: "Es war ein langer und blutiger Kampf, aber Ulster hat der Aggression der Irische Republik ein Jahr lang standgehalten, und viele Männer, sowohl Katholiken als auch Protestanten, sind gestorben. Wir könnten auf einen Frieden mit der Republik drängen, wenn sie unser Recht auf Unabhängigkeit anerkennen würde. Dies wäre sicherlich die beste Vorgehensweise, wenn wir einen noch länger andauernden Konflikt vermeiden wollen."
  ireland.151.a: "Bieten Sie Dublin unsere Bedingungen an."
  ireland.151.b: "Wir werden den Kampf fortsetzen, keine Kapitulation!"
 
@@ -1648,7 +1593,7 @@
 
 # Ulster Victory
  ireland.161.t: "Freiheit für Ulster!"
- ireland.161.d: "Die tapferen Männer und Frauen von Ulster haben den Ruf der Freiheit gehört und waren bereit, ihn mit Blut und Waffengewalt zu beantworten. In einem hart geführten Kampf haben wir die Irisch-Republikanische Armee besiegt und den Bürgerkrieg gewonnen. Unsere Unabhängigkeit ist gesichert, und die Republik Irland wurde vernichtend geschlagen. Wir können nun unsere eigene Provisorische Regierung einsetzen und Ulster auf faire und gerechte Weise regieren, wobei die Protestanten immer an erster Stelle stehen werden und die Sache des Ulster-Loyalismus in Frieden vorangebracht werden kann."
+ ireland.161.d: "Die tapferen Männer und Frauen von Ulster haben den Ruf der Freiheit gehört und waren bereit, ihn mit Blut und Waffengewalt zu beantworten. In einem hart geführten Kampf haben wir die Irisch-Republikanische Armee besiegt und den Bürgerkrieg gewonnen. Unsere Unabhängigkeit ist gesichert, und die Irische Republik wurde vernichtend geschlagen. Wir können nun unsere eigene Provisorische Regierung einsetzen und Ulster auf faire und gerechte Weise regieren, wobei die Protestanten immer an erster Stelle stehen werden und die Sache des Ulster-Loyalismus in Frieden vorangebracht werden kann."
  ireland.161.a: "Wir haben es geschafft."
 
 # GER/CAN/ENG/ Notifications if Ulster won
@@ -1683,7 +1628,7 @@
 
 # Black Monday
  ireland.228.t: "Schwarzer Montag trifft Irland!"
- ireland.228.d: "Am 3. Februar brach der Deutsche Aktienmarkt zusammen und stürzte die Welt in eine Depression. Irland ist seit der Britischen Revolution, als wir uns zur Republik erklärten und die Beziehungen zum Britischen Imperium abbrachen, vom Handel mit Deutschland und seinem Einflussbereich abhängig. Die Krise hatte schwerwiegende Auswirkungen auf die Irische Wirtschaft, da auch Deutschland und unsere anderen Europäischen Handelspartner von der Krise betroffen sind. Viele ringen um Lösungen, wobei die meisten Parteien entweder die Wirtschaftliche Entwicklung Irlands oder die Aufrechterhaltung der Stabilität vorschlagen, während sich die Deutsche Wirtschaft erholt. Die anglophile Nationale Zentrumspartei befürwortet den Verzicht auf den Handel mit Kontinentaleuropa und die Öffnung der Beziehungen zur Entente, wobei ihre Reden oft von Antideutschen Tönen geprägt sind. Die Syndikalisten haben ebenfalls begonnen, für eine Revolution einzutreten, da sie behaupten, dass diese Krise ein Beweis für das Versagen des Kapitalismus ist."
+ ireland.228.d: "Am 3. Februar brach der Deutsche Aktienmarkt zusammen und stürzte die Welt in eine Depression. Irland ist seit der Britischen Revolution, als wir uns zur Republik erklärten und die Beziehungen zum Britischen Imperium abbrachen, vom Handel mit Deutschland und seinem Einflussbereich abhängig. Die Krise hatte schwerwiegende Auswirkungen auf die Irische Wirtschaft, da auch Deutschland und unsere anderen Europäischen Handelspartner von der Krise betroffen sind. Viele ringen um Lösungen, wobei die meisten Parteien entweder die Wirtschaftliche Entwicklung Irlands oder die Aufrechterhaltung der Stabilität vorschlagen, während sich die Deutsche Wirtschaft erholt. Die anglophile Nationale Entwicklungspartei befürwortet den Verzicht auf den Handel mit Kontinentaleuropa und die Öffnung der Beziehungen zur Entente, wobei ihre Reden oft von Antideutschen Tönen geprägt sind. Die Syndikalisten haben ebenfalls begonnen, für eine Revolution einzutreten, da sie behaupten, dass diese Krise ein Beweis für das Versagen des Kapitalismus ist."
  ireland.228.a: "Das könnte schlimm sein..."
 
  ireland.229.t: "Deutsche Wirtschaft erholt sich"
@@ -1699,7 +1644,7 @@
  ireland.231.a: "Wenigstens gibt es einen Vorteil..."
 
  ireland.232.t: "Handel mit der Entente"
- ireland.232.d: "Jetzt, da wir die Beziehungen zur Entente geöffnet haben, hat sich unsere Wirtschaft durch den Handel mit dem Britischen Imperium stark verbessert. Vielleicht hatte die Nationale Zentrumspartei die ganze Zeit recht."
+ ireland.232.d: "Jetzt, da wir die Beziehungen zur Entente geöffnet haben, hat sich unsere Wirtschaft durch den Handel mit dem Britischen Imperium stark verbessert. Vielleicht hatte die Nationale Entwicklungspartei die ganze Zeit recht."
  ireland.232.a: "Großartig!"
 
  ireland.233.t: "Handel mit den Briten"
@@ -1753,54 +1698,51 @@
 
 # News Events
  ireland.244.t: "Collins hält durch"
- ireland.244.d: "Die Amtszeit von Michael Collins als Präsident Irlands geht mit einem weiteren großen Erfolg bei den Parlamentswahlen weiter.\n\nCollins hat das Land seit seiner Unabhängigkeit im Jahr 1921 geführt. Ihm wird eine wichtige Rolle bei der Befreiung Irlands von Britannien und bei der Rückgewinnung Nordirlands während der Britischen Revolution zugeschrieben.\n\nBei der letzten Wahl gab es viele Anschuldigungen wegen Wahlfälschung und Wählerunterdrückung, aber seine überragende öffentliche Unterstützung war alles, was nötig war, um die kombinierte demokratische Opposition zu besiegen.\n\nNun, da er sich seiner vierten Amtszeit sicher ist, weiß nur Collins, was als Nächstes auf das Irische Volk zukommt."
- ireland.244.a: "Warum sollte man die Wahl überhaupt manipulieren\nwenn Sie sowieso gewinnen würden?"
+ ireland.244.d: "Die Amtszeit von Michael Collins als Präsident von Irland geht mit einem weiteren großen Erfolg bei den Parlamentswahlen weiter. Collins stand die meiste Zeit des letzten Jahrzehnts an der Spitze des Landes. Ihm wird eine wichtige Rolle bei der Befreiung Irlands von Großbritannien und bei der Wiederherstellung Nordirlands während der britischen Revolution zugeschrieben.\n\nVorwürfe der politischen Zensur, angeblich um Irland vor dem Syndikalismus zu schützen, waren während seiner letzten Amtszeit weit verbreitet, aber seine herausragende öffentliche Unterstützung war alles, was nötig war, um die kombinierte Opposition bei den Wahlen zu besiegen. Jetzt, da er für eine weitere Amtszeit gesichert ist, weiß nur Collins, was als nächstes auf das irische Volk zukommt."
+ ireland.244.a: "Der Big Fellow schafft es noch einmal, durchzuhalten."
 
  ireland.245.t: "Collins aus dem Amt gedrängt"
- ireland.245.d: "Die Zeit von Michael Collins als Präsident Irlands ist endgültig vorbei.\nCollins wurde eine wichtige Rolle bei der Erlangung der Unabhängigkeit Irlands von Britannien und bei der Rückgewinnung Nordirlands während der Britischen Revolution zugeschrieben. Seitdem hatte er sein Amt auf einer massiven Welle der öffentlichen Unterstützung inne, die nach dem Schwarzen Montag scheinbar abgeebbt ist.\nBei der letzten Wahl wurden Vorwürfe der Wahlfälschung und der Unterdrückung von Wählern laut, doch selbst wenn es zu Manipulationen gekommen sein sollte, sind diese Versuche gescheitert. Collins hat gegen seine Gegner verloren und ist in Schande zurückgetreten. Der Rest seiner Partei hat Neuwahlen ausgerufen und Irland zu einer Mehrparteiendemokratie zurückgeführt.\n\nDer Großer Kerl hat die Bühne verlassen, aber wer nimmt nun seinen Platz ein?"
- ireland.245.a: "Vielleicht hätte er den Kassierern mehr Geld geben sollen."
+ ireland.245.d: "Die Amtszeit von Michael Collins als Präsident von Irland ist beendet. Collins wurde eine wichtige Rolle bei der Erlangung der Unabhängigkeit Irlands von Großbritannien und bei der Wiederherstellung Nordirlands während der britischen Revolution zugeschrieben. Er konnte sich die meiste Zeit des letzten Jahrzehnts auf einer massiven Welle der öffentlichen Unterstützung halten, die nach dem Schwarzen Montag scheinbar abgeebbt ist.\n\nVorwürfe der politischen Zensur, die angeblich Irland vor dem Syndikalismus schützen sollte, waren in seiner letzten Amtszeit weit verbreitet und haben offenbar dazu beigetragen, dass er keine weitere Amtszeit gewinnen konnte, so dass Collins seinen Gegnern unterlag und in Schmach zurücktrat. Der Big Fellow hat die Bühne verlassen, aber wer nimmt nun seinen Platz ein?"
+ ireland.245.a: "Es scheint, dass sein Charisma endlich versiegt ist."
 
- ireland.246.t: "Collins löst das Oireachtas (Parlament) auf"
- ireland.246.d: "Aus Irland, wo der amtierende Präsident Michael Collins das Ergebnis der letzten Parlamentswahlen annulliert hat, wurden beispiellose Szenen gemeldet. Collins ist der Ansicht, dass die Möglichkeit, die Macht in diesen unruhigen Zeiten abzugeben, das Land in eine viel zu unsichere Lage bringen würde, und hat sich stattdessen dafür entschieden, das Oireachtas (Parlament) aufzulösen und durch ein persönliches Dekret zu regieren. Offiziell wird dies als eine vorübergehende Maßnahme angesichts der instabilen Lage bezeichnet, die sich weltweit allmählich entwickelt.\n\nUnabhängig davon, ob dies der Fall ist oder nicht, beschreiben die internationalen Medien dieses Ergebnis als das endgültige Resultat der verwundbaren Position Irlands neben der Union von Britannien. In welche Richtung Collins' feste Hand das Land von nun an führen wird, bleibt abzuwarten."
- ireland.246.a: "Ich dachte, er sei ein Demokrat?"
+ ireland.246.t: "The Blueshirts March on Dublin"
+ ireland.246.d: "Unprecedented scenes have been reported from Ireland, where newly-inaugurated President [IRE_leader_name] has been ousted from office. The previously democratic Republic fell into disarray following former President Michael Collins' loss in the elections, with a British-supported socialist coup being held in the capital.\n\nIn an attempt to prevent Ireland's fall to the \"red menace\", General Eoin O'Duffy has seized the apparatus of state with his Blueshirt militia, quashing the socialist uprising and solidifying his rule for the forseeable future."
+ ireland.246.a: "They should have kept Collins in charge."
 
  ireland.247.t: "Die Zweite Irische Revolution"
- ireland.247.d: "Irland ist ein weiteres Land in Europa, das dem Syndikalismus zum Opfer gefallen ist.\n\nSchockierende Ereignisse wurden aus Dublin gemeldet, wo Präsident Collins nach der Wahlniederlage versuchte, das Oireachtas (Parlament) aufzulösen und per Dekret zu regieren. Bei den Unruhen, die auf diese Ankündigung folgten, erschoss ein Anhänger einer rivalisierenden Partei den Präsidenten, woraufhin in den Straßen von Dublin ein Chaos ausbrach. Dieser Aufruhr endete schließlich damit, dass die sozialistische paramilitärische Gruppe, die Irische Bürgerarmee, das Leinster House und damit den gesamten Machtapparat in Besitz nahm.\n\nVon Irland wird nun erwartet, dass es eng mit seinen alten Feinden in Britannien zusammenarbeitet, um die Sache des Syndikalismus weltweit voranzutreiben."
+ ireland.247.d: "Aus Irland, wo der neu gewählte Präsident [IRE_leader_name] aus dem Amt gedrängt wurde, wurden beispiellose Szenen gemeldet. Die ehemals demokratische Republik geriet nach der Wahlniederlage des ehemaligen Präsidenten Michael Collins ins Wanken, als in der Hauptstadt ein von Großbritannien unterstützter sozialistischer Putsch stattfand.\n\nDer sozialistischen Miliz, der Irish Citizen Army, ist es zusammen mit Agitatoren des IGB und ihren ausländischen Verbündeten gelungen, das zu erreichen, was James Connolly 1916 versucht hat."
  ireland.247.a: "Angesichts ihrer Nähe zu Britannien und Frankreich,\nwar es nur eine Frage der Zeit."
 
 ### Characters ###
+ IRE_peadar_odonnell: "Peadar O'Donnell"
  IRE_sean_murray: "Seán Murray"
 
  IRE_jim_larkin: "Jim Larkin"
- IRE_jim_larkin_leader_desc: "James Larkin, der in England geboren wurde, bevor er mit seiner Familie nach Irland zog, wuchs in ärmlichen Verhältnissen auf, wurde Gewerkschaftsorganisator und gründete zusammen mit James Connolly die Arbeiterpartei, die vor allem durch seine Teilnahme an der gescheiterten Aussperrung in Dublin im Jahr 1913 bekannt wurde. Nach dem Scheitern der Aussperrung zog er nach Amerika und wurde Mitglied der Sozialistischen Partei von Amerika. Nach seiner Rückkehr nach Irland im Jahr 1923 wurde er von den Irischen Syndikalisten wie ein Held empfangen und übernahm die Kontrolle über die Arbeiterpartei, in der Hoffnung, nach der Enttäuschung über den Anglo-Irischen Vertrag einen syndikalistischen Aufstand wie in Frankreich zu starten. Der Aufstand scheiterte, da Informanten die Pläne der ICA-Rebellen im Vorfeld verrieten, und die Arbeiterpartei wurde verboten, was Larkin dazu veranlasste, mit Hilfe der Französischen Kommune unterzutauchen. Die Irische Bürgerarmee musste für ihre Loyalität teuer bezahlen: Ihre Rolle beim Osteraufstand wurde aus der offiziellen Geschichtsschreibung getilgt und die Rolle ihres Gründers James Connolly heruntergespielt."
+ IRE_jim_larkin_leader_desc: "James Larkin, der in England geboren wurde, bevor er mit seiner Familie nach Irland zog, wuchs in ärmlichen Verhältnissen auf, wurde Gewerkschaftsorganisator und gründete zusammen mit James Connolly die Arbeiterpartei, die vor allem durch seine Teilnahme an der gescheiterten Aussperrung in Dublin im Jahr 1913 bekannt wurde. Nach dem Scheitern der Aussperrung zog er nach Amerika und wurde Mitglied der Sozialistischen Partei von Amerika. Nach seiner Rückkehr nach Irland im Jahr 1923 knüpfte er Kontakte zu französischen Syndikalisten und reiste mit seinem Sohn nach Frankreich, um seine eigene Richtung des orthodoxen Syndikalismus weiterzuentwickeln. Als Mitbegründer der Labour Party hat er sich schon lange von deren Reformismus distanziert, und die Revolutionen in Frankreich und Großbritannien haben ihn in seinen Überzeugungen nur noch bestärkt."
 
- IRE_peadar_odonnell: "Peadar O'Donnell"
-
- IRE_cathal_brugha: "Cathal Brugha"
- IRE_cathal_brugha_leader_desc: "Der als Charles William St. John Burgess mit gemischter Katholischer und Protestantischer Abstammung geborene Cathal Brugha, der später seinen Namen änderte, nachdem er der Gälischen Liga beigetreten war, ist ein Kriegsheld des Osteraufstands und Führer der Sinn Féin nach dem Anglo-Irischen Vertrag. Er war bereits während des Unabhängigkeitskrieges ein entschiedener Gegner von Collins und wurde Führer der demokratischen Opposition, einer Koalition demokratischer Parteien, die sich gegen Collins stellte, obwohl er im Alter zunehmend zu einer Galionsfigur wird, um die sich eine neue Generation in der Republikanischen Bewegung sammelt. Er und seine Partei, die nach dem Verbot von 1923 nach Larkins gescheitertem Aufstand von vielen ehemaligen Labour-Anhängern gestärkt wurde, treten für ein sozialdemokratisches Irland im Sinne des Demokratischen Programms von 1919 und eine Pro-Deutsche Ausrichtung ein, um sich den Feinden Irlands in Britannien und Kanada entgegenzustellen."
-
- IRE_eamon_de_valera: "Éamon de Valera"
- IRE_eamon_de_valera_leader_desc: "Éamon de Valera, der als Sohn eines Spanischen Vaters und einer Irischen Mutter in New York geboren und im Alter von zwei Jahren nach Irland gebracht wurde, war ein Kommandeur im Osteraufstand und ein politischer Führer während des Unabhängigkeitskrieges, rutschte jedoch aufgrund einiger schlechter politischer Schachzüge und des Unglücks nach dem Anglo-Irischen Vertrag in die politische Bedeutungslosigkeit ab, Er schloss Michael Collins trotz dessen unglaublicher Popularität aus der Sinn Féin-Partei aus und verließ später selbst die SF aufgrund des Zustroms ehemaliger Arbeiter-Parteimitglieder nach dem Verbot der Arbeiterpartei 1923 sowie aufgrund von Streitigkeiten mit Nationalisten, die eine Pro-Deutsche-Ausrichtung bevorzugten, die im Gegensatz zu de Valeras Glauben an Isolationismus und Neutralität stand. Seine abtrünnige Partei, die Fianna Fáil, hatte letztlich keinen Erfolg und wurde zu einer kleinen Partei in der demokratischen Opposition..."
+ IRE_owen_sheehy_skeffington: "Owen Sheehy-Skeffington"
+ IRE_william_obrien: "William O'Brien"
+ IRE_michael_donnellan: "Michael Donnellan"
 
  IRE_sean_lemass: "Seán Lemass"
- IRE_sean_lemass_leader_desc: "Seán Lemass war ein Freiwilliger während des Osteraufstandes und des Unabhängigkeitskrieges und stieg zum Vorsitzenden der CPNH-Partei auf, einer weiteren abtrünnigen Partei nach dem Niedergang von Sinn Féin infolge des Anglo-Irischen Abkommens. Lemass ist ein Befürworter der Industrialisierung, und obwohl er an den Kapitalismus glaubt, ist er auch der Meinung, dass eine Normalisierung der Beziehungen zur Union von Britannien positive Auswirkungen auf den Irischen Handel und die Wirtschaft haben könnte. Er befürwortet eine flexible, von den Bedürfnissen der Nation abhängige Irische Außenpolitik, womit sich die CPNH von den anderen demokratischen Parteien unterscheidet, die in Bezug auf die Irische Außenpolitik ihre eigenen Vorstellungen haben."
+ IRE_sean_lemass_leader_desc: "Seán Lemass war ein Freiwilliger während des Osteraufstands und des Unabhängigkeitskriegs und stieg zum Vorsitzenden der National Development Party auf, die sich nach dem autoritären Kurs der Sinn Féin von dieser abspaltete. Lemass ist ein Befürworter der Industrialisierung, und obwohl er an den Kapitalismus glaubt, ist er auch der Meinung, dass eine Normalisierung der Beziehungen zur britischen Union positive Auswirkungen auf den irischen Handel und die Wirtschaft haben könnte. Er befürwortet eine flexible irische Außenpolitik, die sich nach den Bedürfnissen der Nation richtet, und unterscheidet sich damit von den anderen demokratischen Parteien, die in der irischen Außenpolitik ihre eigenen Vorurteile haben."
+
+ IRE_eamon_de_valera: "Éamon de Valera"
+ IRE_eamon_de_valera_leader_desc: "Éamon de Valera, der als Sohn eines spanischen Vaters und einer irischen Mutter in New York geboren und im Alter von zwei Jahren nach Irland gebracht wurde, war ein Befehlshaber im Osteraufstand und ein politischer Führer während des Unabhängigkeitskrieges, rutschte jedoch aufgrund einiger schlechter politischer Schachzüge und des Unglücks nach dem anglo-irischen Vertrag, wegen dem er Sinn Féin verließ, in die politische Bedeutungslosigkeit ab. Dies wurde ihm zum Verhängnis, denn der einstige Anführer der irischen Revolution fand sich in der Partei An Saorstát Críostúil (Christliche Republik) wieder, die sehr stark im Schatten der Sinn Féin stand. De Valera glaubt an Isolationismus und Neutralität und ist entschlossen genug, seine eigene neue Partei nach seinem Bild und seinen Überzeugungen zu gründen, in der Hoffnung, Irland eines Tages so zu gestalten, wie er es sich von Gott wünscht."
 
  IRE_frank_macdermot: "Frank MacDermot"
- IRE_frank_macdermot_leader_desc: "Frank MacDermot ist der jüngste Sohn von Hugh O'Rorke MacDermot, dem Prinzen von Coolavin. Er diente während des Weltkriegs im Königlichen Heeresdienstkorps. Danach wanderte er nach Amerika aus, kehrte aber nach dem Zusammenbruch der Amerikanischen Wirtschaft nach Irland zurück und schloss sich der anglophilen Nationalen Zentrumspartei an, deren Anführer er aufgrund seiner großen rednerischen Fähigkeiten schließlich wurde. Als hartnäckiger Kritiker sowohl der Collins-Regierung als auch der demokratischen Opposition mit ihren Sympathien für den Isolationismus oder die Germanophilie ist er ein starker Befürworter einer Pro-Entente-Politik und einer Annäherung an die Loyalistengemeinschaft."
+ IRE_frank_macdermot_leader_desc: "Frank MacDermot ist der jüngste Sohn von Hugh O'Rorke MacDermot, dem Prinzen von Coolavin. Er diente während des Weltkriegs im Königlichen Heeresdienstkorps. Danach wanderte er nach Amerika aus, kehrte aber nach dem Zusammenbruch der amerikanischen Wirtschaft nach Irland zurück und schloss sich der anglophilen National Centre Party an, deren Vorsitzender er aufgrund seiner großen rednerischen Fähigkeiten wurde, bevor er sich mit Lemass' Exilanten von Sinn Féin zusammenschloss und die National Development Party gründete. Als hartnäckiger Kritiker sowohl der Regierung Collins als auch jeglicher Sympathien für Isolationismus oder Germanophilie ist er ein starker Befürworter einer Pro-Entente-Politik und einer Annäherung an die Loyalistengemeinschaft."
 
  IRE_michael_collins: "Michael Collins"
- IRE_michael_collins_leader_desc: "Michael Collins ist der Retter und Nationalheld Irlands, der sich dank einer Kombination aus Popularität und manipulierten Wahlen an der Macht hält. Der in Cork geborene Collins kämpfte im Osteraufstand von 1916 und wurde danach Präsident der Irisch-Republikanischen Bruderschaft. Während des Krieges organisierte er die IRA zu einer effektiven Guerillatruppe und versuchte, die Fehler von 1916 zu vermeiden. Im Jahr 1921 wurde er zu den Verhandlungen über den Anglo-Irischen Vertrag entsandt. Durch die Drohung, den Krieg mit Deutscher Unterstützung fortzusetzen, gelang es ihm zwar, alle 32 Grafschaften in den Vertrag aufzunehmen, doch konnte er keine Republik durchsetzen, da die Briten befürchteten, dass eine unabhängige Irische Republik sofort zu einem Deutschen Stützpunkt werden würde. Als er von Éamon de Valera aus der Sinn Féin ausgeschlossen wurde, gelang es ihm, seine eigene Partei, Fine Gael, zu gründen, die die Sinn Féin schnell an Popularität überholte. Nach der Britischen Revolution rief er eine unabhängige Republik Irland aus und schlug einen Aufstand der Loyalisten in Ulster nieder. Nun, da der Zweite Weltkrieg bevorsteht, setzt sich Collins für die Wiederbelebung der Wirtschaft und des Militärs Irlands ein, um die Unabhängigkeit Irlands zu sichern."
+ IRE_michael_collins_leader_desc: "Michael Collins wird von vielen als Retter und Nationalheld Irlands angesehen. Der in Cork geborene Collins kämpfte im Osteraufstand von 1916 und wurde danach Präsident der Irisch-Republikanischen Bruderschaft. Während des Unabhängigkeitskrieges organisierte er die IRA zu einer effektiven Guerillatruppe und versuchte, die Fehler von 1916 zu vermeiden. Im Jahr 1921 wurde er zu den Verhandlungen über den anglo-irischen Vertrag entsandt, der zwar ein Erfolg war, aber zur Spaltung der Sinn Féin führte, auch wenn eine Republik mit 26 Grafschaften erreicht wurde. Die letzten sechs Grafschaften sollten später der Republik beitreten, was wohl Collins' größte Leistung war, als er unter der Regierung von Eoin MacNeill den Anschluss Nordirlands an die Republik nach der britischen Revolution aushandelte.\n\nNach einer Zeit der Opposition in den 20er Jahren führt Collins nun nicht nur die Sinn Féin, sondern auch Irland selbst, und angesichts des nahenden Zweiten Weltkriegs plädiert Collins für eine Wiederbelebung der irischen Wirtschaft und des Militärs, um die Unabhängigkeit Irlands zu behaupten."
 
- IRE_gearoid_o_cuinneagain: "Gearóid Ó Cuinneagáin"
- IRE_gearoid_o_cuinneagain_leader_desc: "Gearóid Ó Cuinneagáin ist ein radikaler Irischer Sprachwissenschaftler. Er wurde in Belfast in einer Katholischen Familie der Mittelschicht geboren, schloss sich der Verband der Heereskameraden an und schaffte es aufgrund seines Charismas, seiner Führungsqualitäten und seiner radikalen Ideen, die das Interesse des ACA-Führers Eoin O'Duffy auf sich zogen, bis zum Irischen Justizminister aufzusteigen. Als Justizminister erließ er Gesetze zur Unterdrückung des Syndikalismus sowie Gesetze gegen die Pavee-Gemeinschaft, die sich gegen die Ansiedlung von Einwanderern richteten, und nutzte seinen Einfluss zur Förderung der Irischen Sprache. Er unterhielt auch Beziehungen zur Rumänischen Eisernen Garde und äußerte seine Sympathie für die Errichtung eines ähnlichen Regimes in Irland. Zu diesem Zweck gründete er seine eigene Partei Ailtirí na hAiséirghe (Architekten der Auferstehung), die die Irische Sprache wiederbeleben, die Englische Sprache nach einer Frist von fünf Jahren verbieten und eine stark Antisyndikalistische und Antisemitische Politik betreiben sollte."
-
- IRE_padraic_o_maille: "Pádraic Ó Máille"
- IRE_padraic_o_maille_leader_desc: "Pádraic Ó Máille war eines der Gründungsmitglieder von Sinn Féin und Mitglied der Irischen Freiwilligen sowie Führer der radikal Katholischen und antisyndikalistischen Irischen Christlichen Front, die den Katholischen Korporatismus und ein Bündnis mit den Spanischen Carlisten unterstützte. Aufgrund seiner antisyndikalistischen Ansichten wurde er 1932 beinahe Opfer eines Attentats der ICA, überlebte aber trotz schwerer Verwundung."
-
- IRE_jorge_maria_oneill: "Jorge Maria O'Neill"
- IRE_liam_lynch: "Liam Lynch"
  IRE_richard_mulcahy: "Richard Mulcahy"
  IRE_eoin_oduffy: "Eoin O'Duffy"
+ IRE_gearoid_o_cuinneagain: "Gearóid Ó Cuinneagáin"
+ IRE_jorge_maria_oneill: "Jorge Maria O'Neill"
+ 
+ IRE_cathal_brugha: "Cathal Brugha"
+ IRE_liam_lynch: "Liam Lynch"
  IRE_hugo_macneill: "Hugo MacNeill"
  IRE_tom_barry: "Tom Barry"
  IRE_jj_oconnell: "J.J. O'Connell"
@@ -1809,22 +1751,22 @@
  IRE_seamus_o_muiris: "Seamus Ó Muiris"
 
  IRE_jim_gralton: "Jim Gralton"
- IRE_william_x_obrien: "William X. O'Brien"
- IRE_bill_gannon: "Bill Gannon"
+ IRE_roddy_connolly: "Roddy Connolly"
  IRE_thomas_johnson: "Thomas Johnson"
- IRE_sean_t_okelly: "Seán T. O'Kelly"
- IRE_wt_cosgrave: "WT Cosgrave"
  IRE_james_dillon: "James Dillon"
+ IRE_wt_cosgrave: "W.T. Cosgrave"
+ IRE_sean_t_okelly: "Seán T. O'Kelly"
  IRE_alexander_mccabe: "Alexander McCabe"
 
  IRE_john_charles_mcquaid: "John Charles McQuaid"
  IRE_ernest_blythe: "Ernest Blythe"
  IRE_douglas_hyde: "Douglas Hyde"
  IRE_eoin_macneill: "Eoin MacNeill"
+ IRE_bill_gannon: "Bill Gannon"
  IRE_benjamin_farrington: "Benjamin Farrington"
  IRE_noel_browne: "Noël Browne"
  IRE_george_gilmore: "George Gilmore"
- IRE_roddy_connolly: "Roddy Connolly"
+
  IRE_joseph_brennan: "Joseph Brennan"
  IRE_harry_ferguson: "Harry Ferguson"
  IRE_roy_c_geary: "Roy C. Geary"

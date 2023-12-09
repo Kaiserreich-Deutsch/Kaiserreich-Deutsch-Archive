@@ -22,8 +22,7 @@ tram.1.a: "Zerstört sie!"
 tram.1.b: "Wir können sie nur gehen lassen..."
 
 tram.21.t: "Transamur erobert den Fernen Osten!"
-tram.21.d.RUS: "Transamur hat die Unruhen in Sibirien ausgenutzt, um seine Kontrolle über die Region zu etablieren. Obwohl dies eine große Verletzung unserer Souveränität darstellt, sind wir derzeit sehr schwach und möglicherweise nicht in der Lage, einen Krieg zu gewinnen, um unser Land zurückzuerobern, zumal ein Kampf gegen Transamur auch einen Kampf gegen Japan bedeuten könnte."
-tram.21.d.SOV: "Transamur hat die Unruhen in Sibirien genutzt, um seine Kontrolle über die Region zu etablieren. Dies ist zwar eine große Verletzung unserer Souveränität, aber wir sind derzeit im Fernen Osten sehr schwach und können nicht darauf hoffen, einen Krieg zu gewinnen, um unser Land zurückzuerobern, zumal wir uns immer noch von dem tödlichen Bürgerkrieg erholen."
+tram.21.d: "Transamur hat die Unruhen in Sibirien ausgenutzt, um seine Kontrolle über die Region zu etablieren. Obwohl dies eine große Verletzung unserer Souveränität darstellt, sind wir derzeit sehr schwach und möglicherweise nicht in der Lage, einen Krieg zu gewinnen, um unser Land zurückzuerobern, zumal ein Kampf gegen Transamur auch einen Kampf gegen Japan bedeuten könnte."
 tram.21.a: "Es ist sinnlos, um eine eisige Einöde zu kämpfen."
 tram.21.b: "Kommt und nehmt es mit - wer glaubt schon an solche Tricks?"
 tram.21.c: "Verdammt noch mal!"
@@ -256,7 +255,7 @@ nakajima_factory_vladivostok: "Nakajima Factory Vladivostok"
 
 ### Ideas ###
 TRM_dream: "Großtransamurische Ambitionen"
-TRM_dream_desc: "Seit 1925 beansprucht die Regierung von Transamur für sich, die rechtmäßige Regierung von ganz Russland zu sein, die von den dreckigen Verrätern des Kabinetts von Kerenskij abgesetzt wurde. Obwohl das Land in keiner guten Verfassung ist, hofft seine Führung, dass Transamur eines Tages eine Großmacht werden könnte."
+TRM_dream_desc: "Seit 1925 behauptet die transamurische Regierung, die rechtmäßige Regierung ganz Russlands zu sein, die von dem dreckigen Verräter und damaligen Präsidenten Alexander Kerenski abgesetzt wurde. Obwohl das Land in keiner guten Verfassung ist, hofft seine Führung, dass Transamur eines Tages eine Großmacht werden könnte."
 
 TRM_legacy_of_transamur: "Das Vermächtnis von Transamur"
 

@@ -576,7 +576,7 @@ BEL_peace_with_germany: "Gegen Deutschland durchhalten"
 BEL_peace_with_belgium: "Niederschlagung der belgischen Revolte"
 
 BEL_Economic_decisions: "Wirtschaftspolitik"
-BEL_Economic_decisions_desc: "Während das Goldene Zeitalter von Tirpitz kein Ende zu kennen scheint, hat unsere Wirtschaft begonnen, sich drastisch zu verlangsamen, nachdem die Kohleminen Walloniens sich dem Ende ihrer Reserven zu nähern begannen, was große Teile der Stahlindustrie dazu veranlasste, sich auf staatliche Unterstützung zu verlassen. Während dieses System für den Moment funktioniert und den Syndikalismus in der Industriefurche in Schach hält, müssen Reformen durchgeführt werden, wenn wir einen Zusammenbruch aufgrund einer wirtschaftlichen Rezession verhindern wollen..."
+BEL_Economic_decisions_desc: "Unsere Wirtschaft hat sich drastisch verlangsamt, nachdem die Kohlebergwerke in Wallonien sich dem Ende ihrer Reserven näherten und große Teile der Stahlindustrie von staatlicher Unterstützung abhängig wurden. Während dieses System für den Moment funktioniert und den Syndikalismus in der Industriefurche in Schach hält, müssen Reformen durchgeführt werden, wenn wir einen Zusammenbruch aufgrund einer wirtschaftlichen Rezession verhindern wollen..."
 BEL_ARBED_Takeover: "Unterstützung für die ARBED-Übernahme bereitstellen"
 BEL_German_Expansion_Solvay: "Support für Solvay Deutschland bereitstellen"
 BEL_Wallonian_Electrification_Program: "Wallonisches Elektrifizierungsprogramm"
@@ -1868,6 +1868,10 @@ belind.15.a: "Dies wird ein langer und harter Prozess sein."
  belind.38.desc: "Es scheint, dass wie bei [GER.Capital.GetCapitalVictoryPointName] auch die Versuche, mit [INT.Capital.GetCapitalVictoryPointName] zu verhandeln, völlig gescheitert sind. Selbst mit dem potenziellen Versprechen der Einsetzung einer sozialistischen Regierung lässt sich [INT.GetAdjective] anscheinend nicht umstimmen. [BEL.GetName] muss sich der Welt allein stellen, auch wenn es vielleicht nicht mehr lange mit ihr zu tun hat."
  belind.38.a: "Mag uns denn niemand auf diesem Kontinent!?"
 
+ bel.500.t: "Der Blaue Lotus"
+ bel.500.d: "Der neueste Comic von Georges Rémi, oder Hergé, spielt im Qing-Reich, wo der Reporter Tintin ausgesandt wird, um den Drogenhandel zu zerschlagen. Es ist bekannt, dass Hergé bei seiner Arbeit von einem jungen Studenten aus der Gesandtschaftsstadt Shanghai namens Zhang Chongren unterstützt wurde, der nach [BEL.GetName] kam, um bildende Kunst zu studieren. Das Fachwissen von Zhang führte zu einer eindrucksvollen und realistischen Darstellung der chinesischen Gesellschaft und trug wesentlich zum enormen Erfolg des Buches sowohl in Europa als auch in China bei. Das Buch kritisiert die Schwäche und Korruption der Qing-Regierung sowie die japanische Präsenz in der Mandschurei und ist daher in beiden Ländern verboten."
+ bel.500.a: "So aufregend!"
+
 ### Flags ###
 Small_Vlaamse_Wacht: "Hat die Rechte der Flämischen Wache nicht wiederhergestellt"
 Feldgendarmerie: "Die Feldgendarmerie hat das Recht erhalten, in Flandern-Wallonien zu operieren"
@@ -1934,10 +1938,10 @@ BEL_radical_socialist_ADJ: "Belgisch"
  BEL_belgian_parliament: "Belgian Parliament"
  BEL_belgian_parliament_leader_desc: "Das belgische Parlament, Nachfolger des Flämischen Konzils, das die deutsch kontrollierte Regierung von Flandern-Wallonien beriet, hat die Macht im kürzlich wiederhergestellten Belgien übernommen. Während die Regierung umstrukturiert und Wahlen vorbereitet werden, agiert das Parlament nicht nur als Legislative, sondern kollektiv als vorläufiges Staatsoberhaupt."
 
- BEL_adelbert_von_hohenzollern: "Adelbert"
+ BEL_adelbert_von_hohenzollern: "Adelbert I."
  BEL_adelbert_von_hohenzollern_leader_desc: "Die Amtszeit von Adelbert von Hohenzollern als König der Flamen und Wallonen war recht eigenartig. Nicht durch Krönung, sondern durch einen Eid auf die Verfassung eingesetzt, hat Adelbert, der auch zum Katholizismus konvertierte, um sich mit der Bevölkerung seines Landes zu verbünden, lange Zeit den Respekt, wenn nicht gar die Bewunderung seines Volkes gesucht. Die jahrelange Unterdrückung unter dem deutschen Regime und die Tendenz Adelberts, an einer absolutistischeren Art von Monarchie als dem belgischen System festzuhalten, haben zu einer großen antideutschen Stimmung in der Bevölkerung geführt, die Adelbert verachtet und beim einfachen Volk verhasst macht."
 
- BEL_albert_van_belgie: "Albert"
+ BEL_albert_van_belgie: "Albert I."
  BEL_albert_van_belgie_leader_desc: "Albert von Sachsen-Coburg und Gotha, der König, der die einmarschierenden Deutschen am Yzer besiegt hat, ist aus dem kanadischen Exil nach Belgien zurückgekehrt. Als seine Wagenkolonne zum ersten Mal seit Ausbruch des Weltkriegs in Brüssel einfuhr, läuteten im ganzen Land die Kirchenglocken, und viele Belgier weinten vor Freude. Deutsche Kollaborateure und Syndikalisten beklagen jedoch den wiederhergestellten König und schmieden Pläne, um die neue belgische Regierung zu unterminieren. Albert muss nun die tiefen Wunden heilen, die Belgien gezeichnet haben, und dem Volk ein neues Gefühl der Hoffnung geben."
 
  BEL_leopold_van_belgie: "Prince Leopold"
@@ -1958,7 +1962,7 @@ BEL_radical_socialist_ADJ: "Belgisch"
  BEL_camille_huysmans: "Camille Huysmans"
  BEL_leo_frenssen: "Leo Frenssen"
  BEL_jef_rens: "Jef Rens"
- BEL_karel_van_vlaanderen: "Karel"
+ BEL_karel_van_vlaanderen: "Karel I."
 
  BEL_georges_theunis: "Georges Theunis"
  BEL_emile_francqui: "Emile Francqui"

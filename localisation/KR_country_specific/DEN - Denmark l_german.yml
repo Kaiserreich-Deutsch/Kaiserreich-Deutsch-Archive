@@ -26,29 +26,29 @@
  DEN_atlas_maskinfabrik: "Atlas Maskinfabrik A/S"
  DEN_bang_olufsen: "Bang & Olufsen"
  DEN_novo_terapeutisk_laboratorium: "Novo Terapeutisk Laboratorium"
- 
+
  DEN_disa: "Dansk Industri Syndikat A/S"
  DEN_danske_tekniske_korps: "Danske Tekniske Korps"
  DEN_de_forenede_motorfabriker: "De Forenede Motorfabrikker"
- 
+
  DEN_frichs_maskinfabrik: "Frichs Maskinfabrik"
- 
+
  DEN_flyvertroppernes: "Flyvertroppernes Værksteder"
  DEN_flyvemaskinevaerksted: "Flyvemaskineværksted"
- 
+
  DEN_odense_staalskibsverft: "Odense Staalskibsværft"
  DEN_burmeister_wain: "Burmeister & Wain"
  DEN_aalborg_verft: "Aalborg Værft"
 
 ### MIO Traits ###
  DEN_mio_trait_burmeister_wain_engines: "Burmeister & Wain-Motoren"
- DEN_mio_trait_coastal_defense_ship_modernization: "Modernisierung von Küstenschutzschiffen"
+ DEN_mio_trait_coastal_defense_ship_modernization: "Modernisierung von Küstenverteidigungsschiffen"
  DEN_mio_trait_weibel_development: "Verbesserung des Weibel-Prototyps"
- DEN_mio_trait_madsen_heavy_machine_gun: "Madsen Schwere Maschinengewehre"
- DEN_mio_trait_fodfolkskanoner: "Fodfolkskanoner - Handfeuerwaffen"
- DEN_mio_trait_feltkanoner: "Feldgeschütze"
+ DEN_mio_trait_madsen_heavy_machine_gun: "Schwere Madsen-Maschinengewehre"
+ DEN_mio_trait_fodfolkskanoner: "Fodfolkskanoner"
+ DEN_mio_trait_feltkanoner: "Feltkanoner"
  DEN_mio_trait_madsen_20_mm: "Madsen 20 mm Kanone"
- DEN_mio_trait_repurpose_triangel_factories: "Umgebaute Triangel-Fabriken"
+ DEN_mio_trait_repurpose_triangel_factories: "Umfunktionierung der Dreiecks-Fabriken"
  
 ### Ideas ###
  DEN_idea_black_monday: "Börsenkrach des Schwarzen Montags"
@@ -323,8 +323,8 @@
  DEN_kings_cabinet_desc: "Es ist das Recht, nein, die Pflicht des Königs sein Volk zu schützen, wenn die demokratische Regierung kurz davor steht, einen Fehler zu begehen, der die Nation zerstören würde: Sollte Deutschland fallen, wäre Dänemark den Revolutionären aus Frankreich und Großbritannien schutzlos ausgeliefert - und sie würden uns Dänen wohl kaum von ihrer syndikalistischen Tyrannei verschonen!"
  DEN_ban_fs: "Die FS verbieten"
  DEN_ban_fs_desc: "Die syndikalistische Gewerkschaft 'Fagoppositions Sammensluting' hat Dänemark nun schon viel zu viel Ärger eingebracht, unter Anderem durch die Angriffe der Syndikalisten und Anarchisten aus unsere Börse in 1918. Wir müssen diese Organisation sofort auflösen!"
- DEN_emphasize_loyalty_to_crown: "Die Loyalität zur Krone betonen"
- DEN_emphasize_loyalty_to_crown_desc: "Einige Menschen verstehen die Aktionen der Monarchie nicht, welche nominell nur die bestehende Demokratie einschränkt, allerdings auch der letzte Schutz des Volkes vor einer totalitären Regierung ist. Wir sollten betonen, dass wir nur die besten Absichten verfolgen und dass die Loyalität des Volkes gegenüber der Krone im Interesse aller ist."
+ DEN_emphasise_loyalty_to_crown: "Die Loyalität zur Krone betonen"
+ DEN_emphasise_loyalty_to_crown_desc: "Einige Menschen verstehen die Aktionen der Monarchie nicht, welche nominell nur die bestehende Demokratie einschränkt, allerdings auch der letzte Schutz des Volkes vor einer totalitären Regierung ist. Wir sollten betonen, dass wir nur die besten Absichten verfolgen und dass die Loyalität des Volkes gegenüber der Krone im Interesse aller ist."
  DEN_secure_military_loyalty: "Loyalität des Militärs sichern"
  DEN_secure_military_loyalty_desc: "Wir müssen sicherstellen, dass das dänische Hær unsere Aktionen unterstützt, damit sie sich in diesem Disput nicht auf die Seite des Rigsdags stellen und uns dazu zwingen, gegenüber seinen Bedingungen einzuknicken. Glücklicherweise stimmen uns die meisten dänischen Offiziere zu, dass Dänemark nicht allein gegen die Internationale bestehen könnte, sollte Deutschland durch die syndikalistischen Milizen zu Fall gebracht werden..."
  DEN_combat_syndie_bs: "Syndikalistische Propagande bekämpfen"

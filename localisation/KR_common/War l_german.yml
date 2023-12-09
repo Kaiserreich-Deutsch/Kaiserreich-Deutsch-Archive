@@ -84,10 +84,6 @@ WAR_NAME_ENG_CAN: "Entente-Internationale Krieg"
 WAR_NAME_NFA_FRA: "$ORDER$$FIRST$-$SECOND$ Krieg"
 WAR_NAME_FRA_NFA: "$ORDER$$FIRST$-$SECOND$ Krieg"
 
-### 2nd Russian Civil War ###
- CIVIL_WAR_NAME_RUS_SOV: "Zweiter Russischer Bürgerkrieg"
- CIVIL_WAR_NAME_SOV_RUS: "Zweiter Russischer Bürgerkrieg"
-
 ### The Second Weltkrieg ###
 WAR_NAME_GER_FRA: "Der Zweite Weltkrieg"
 WAR_NAME_FRA_GER: "Der Zweite Weltkrieg"

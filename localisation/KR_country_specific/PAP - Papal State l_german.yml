@@ -48,6 +48,7 @@
  PAP_tradition: "Traditionelle Werte"
  PAP_rome_patron: "Patron von Rom"
  PAP_virtue: "Kultur der Tugend"
+ PAP_order: "Kultur der Ordnung"
  PAP_calling_faithful: "Appell an die Gläubigen"
  PAP_crusade: "Heiliger Krieg"
  PAP_farmer_aid: "Hilfe für Landwirte"
@@ -104,6 +105,12 @@
  PAP_rally_neosanfedisti_desc: "Nun, da der Krieg mit [SRI.GetNameDef] endlich da ist, ist es an der Zeit, die NeoSanfedisti - die wir von Anfang an unterstützt haben - aufzurufen, sich zu erheben und unserer heiligen Sache zu helfen!"
  PAP_rally_faithful: "Versammeln Sie die Gläubigen"
  PAP_rally_faithful_desc: "Nun, da der Krieg mit [SRI.GetNameDef] endlich begonnen hat, ist es an der Zeit, die katholischen Gläubigen aufzurufen, sich zu erheben und unserer heiligen Sache beizustehen!"
+ PAP_unite_italy: "Italien vereinen"
+ PAP_unite_italy_desc: "Italien ist wieder geeint! Wir müssen daran arbeiten, unsere Nation wieder zu integrieren."
+ PAP_join_faction: "[From.GetFactionName] beitreten"
+ PAP_join_faction_desc: "Wir müssen einen Abgesandten nach [From.GetNameDef] schicken und um den Beitritt zur [From.GetFactionName] bitten. Es ist die beste Option, die wir zum Schutz und zur Erfüllung unserer nationalen Interessen haben."
+ PAP_clear_march: "Räumt die Pontinischen Marken"
+ PAP_clear_march_quicker: "Weitere Ressourcen für die Räumung einsetzen"
 
 ### Focuses ###
  PAP_conclave: "Päpstliches Konklave einberufen"
@@ -271,6 +278,26 @@
  PAP_per_aspera: "Durch Schwierigkeiten zu den Sternen"
  PAP_per_aspera_desc: "Die katholische Kirche ist seit jeher ein großer Förderer der Wissenschaft, trotz der Behauptungen der Syndikalisten und Antiklerikalisten, die uns mit den Lügen der Konfliktthese diffamieren. Glaube und Vernunft helfen sich gegenseitig, und um unsere derzeitigen Schwierigkeiten zu überwinden, müssen wir diese Vernunft und wissenschaftliche Denkweise auf die militärische Forschung übertragen."
 
+### Vereinigung ###
+ PAP_unification: "Beginn des Risorgimento"
+ PAP_unification_desc: "Die Zeit ist gekommen. Italien, dieses wunderbare Land des Überflusses, wird wieder vereint sein. Viva l'Italia!"
+ PAP_naval_exercises: "Marineübungen"
+ PAP_naval_exercises_desc: "Als Machtdemonstration und zur Förderung der Marinemoral sollten wir eine Reihe von Marineübungen im Adriatischen Meer veranstalten. Lasst die Feinde unserer Nation erzittern."
+ PAP_reenforce_po_line: "Aufbau der Po-Verteidigungslinie"
+ PAP_reenforce_po_line_desc: "Die zusammengewürfelten Verteidigungsanlagen, die die Syndikalisten 1920 aufgehalten haben, werden sie jetzt nicht aufhalten. Wir müssen unsere Grenzfestungen und Schützengräben ausbauen, um uns auf einen weiteren Angriff der Sozialisten vorzubereiten."
+ PAP_military_exercises: "Militärische Manöver"
+ PAP_military_exercises_desc: "Als Machtdemonstration und zur Förderung der Moral unserer Armee sollten wir eine Reihe von kampfnahen Übungen in der Nähe des Flusses Po veranstalten. Lasst die Feinde unserer Nation erzittern."
+ PAP_italy_is_united: "Italien ist vereinigt"
+ PAP_italy_is_united_desc: "Es ist geschafft, Italien, das schöne Italien, ist wieder vereint. In den Herzen aller Patrioten wird dieser Moment für immer in Erinnerung bleiben."
+ PAP_naples_officers: "Sizilianische Generäle rekrutieren"
+ PAP_naples_officers_desc: "Das sizilianische Offizierskorps, so verabscheuungswürdig sein ehemaliger König auch gewesen sein mag, verfügt zweifellos über viele fähige Generäle. Sollte man diesen Generälen erlauben, Italien zu dienen?"
+ PAP_sardinian_officers: "Sardische Generäle rekrutieren"
+ PAP_sardinian_officers_desc: "Viele gute Männer kämpften und starben für Sardinien. Jetzt, da die Wunden des Krieges zu heilen beginnen, muss über das Schicksal der sardischen Generäle entschieden werden."
+ PAP_italian_irredentism: "Italienische Irredentismuspolitik"
+ PAP_italian_irredentism_desc: "Wenn Italien geeint ist und einige der drängendsten innenpolitischen Fragen gelöst sind, können wir den Blick nach außen richten, vor allem auf die Länder, die von Rechts wegen italienisch sein sollten."
+ PAP_a_stable_italy: "Ein stabiles Italien"
+ PAP_a_stable_italy_desc: "Unsere Politik ist seit dem Ende des Bürgerkriegs instabil, aber jetzt, da eine Italienische Republik über ganz Italien herrscht, können wir endlich die Instabilität beenden, die uns seit Jahren plagt."
+
 ### Parties ###
  PAP_social_democrat_party: "ACD"
  PAP_social_democrat_party_long: "Alleanza Cristiana Democratica(Christlich-Demokratische Allianz)"
@@ -345,8 +372,8 @@
  papalstate.9.a: "Die Movimento Sociale Latino!(Lateinische Soziale Bewegung)"
  papalstate.9.b: "Die Alleanza Cristiana Democratica!(Christlich-Demokratische Allianz)"
 
- papalstate.10.t: "Die römischen Wahlen [GetYear]"
- papalstate.10.d: "Mit der Genehmigung des Papstes [Root.GetLeader] werden in Rom erneut Wahlen abgehalten."
+ papalstate.10.t: "Die [Root.GetAdjective] Wahlen [GetYear]"
+ papalstate.10.d: "Mit der Genehmigung des Papstes [Root.GetLeader] werden in [ROOT.GetName] erneut Wahlen abgehalten."
  papalstate.10.a: "Die Movimento Sociale Latino(Lateinische Soziale Bewegung) ist siegreich!"
  papalstate.10.b: "DieAlleanza Cristiana Democratica(Christlich-Demokratische Allianz) ist siegreich!"
 

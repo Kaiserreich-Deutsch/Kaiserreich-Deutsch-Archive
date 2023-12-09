@@ -9,7 +9,7 @@
  ### Parties ###
  FIN_totalist_party: "Punakaarti"
  FIN_totalist_party_long: "Punakaarti (Rote Garde)"
- FIN_syndicalist_party: "Suomen Kansanvaltuuskunta"
+ FIN_syndicalist_party: "Kansanvaltuuskunta"
  FIN_syndicalist_party_long: "Suomen Kansanvaltuuskunta (Finnische Volksdelegation)"
  FIN_radical_socialist_party: "SSTP"
  FIN_radical_socialist_party_long: "Suomen Sosialistinen Työväenpuolue (Sozialistische Arbeiterpartei Finnlands)"
@@ -17,13 +17,13 @@
  FIN_social_democrat_party_long: "Suomen Sosialidemokraattinen Puolue (Sozialdemokratische Partei Finnlands)"
  FIN_social_liberal_party: "ML"
  FIN_social_liberal_party_long: "Maalaisliitto (Bauernbund)"
- FIN_market_liberal_party: "Kansallinen Edistyspuolue"
+ FIN_market_liberal_party: "Edistyspuolue"
  FIN_market_liberal_party_long: "Kansallinen Edistyspuolue (Nationale Fortschrittspartei)"
- FIN_social_conservative_party: "Kok."
+ FIN_social_conservative_party: "Kokoomus"
  FIN_social_conservative_party_long: "Kansallinen Kokoomus (Partei der Nationalen Koalition)"
  FIN_authoritarian_democrat_party: "Mannerheimin Klikki"
  FIN_authoritarian_democrat_party_long: "Mannerheimin Klikki (Mannerheim Clique)"
- FIN_paternal_autocrat_party: "Kok."
+ FIN_paternal_autocrat_party: "Kokoomus"
  FIN_paternal_autocrat_party_long: "Kansallinen Kokoomus (Partei der Nationalen Koalition)"
  FIN_national_populist_party: "Lapuan Liike"
  FIN_national_populist_party_long: "Lapuan Liike (Lapua-Bewegung)"
@@ -191,149 +191,214 @@
  FIN_a_stable_finland: "Ein stabiles Finnland"
  FIN_a_stable_finland_desc: "Dem König und seinen engen Beratern ist es gelungen, unter schwierigen Umständen die Stabilität und den Frieden zu bewahren, die Finnland nach dem Bürgerkrieg ausgezeichnet hatten. Nun, da alle Bedrohungen kastriert oder gänzlich beseitigt sind, können wir sicher damit beginnen, uns wieder auf der Weltbühne zu behaupten."
 
- FIN_finnish_army: "Die finnische Armee"
- FIN_finnish_army_desc: "Wir müssen die finnische Armee überprüfen, um sicherzustellen, dass die Standards auf dem neuesten Stand sind und dass wir dem aufkommenden Sturm jeder Art von potenzieller Instabilität standhalten können. Die finnische Armee ist die erste und letzte Verteidigungslinie, wenn es darum geht, die Unabhängigkeit Finnlands zu bewahren."
- FIN_bombard_the_enemy: "Den Feind bombardieren"
- FIN_bombard_the_enemy_desc: "Wir sollten unsere Bemühungen nicht auf die Rekrutierung von mehr Männern konzentrieren, sondern auf die Massenproduktion neuer Waffen und die Schaffung einer neuen Doktrin, die dieser jüngsten Entwicklung Rechnung trägt."
- FIN_fund_the_taistelukoulu: "Finanzierung der Kampfschule"
- FIN_fund_the_taistelukoulu_desc: "Die Finanzierung der Taistelukoulu, einer eigens für die finnischen Streitkräfte geschaffenen Hochschule, ist von entscheidender Bedeutung, wenn wir qualifizierte und fähige Offiziere heranziehen wollen."
- FIN_valtion_kivaaritehdas_focus: "Staatliche Gewehrfabrik"
- FIN_valtion_kivaaritehdas_focus_desc: "Die Staatliche Gewehrfabrik, ein staatlicher Feuerwaffenhersteller, ist ein großer Segen für die Produktion neuer Waffen."
- FIN_artillery_production_effort: "Artillerie-Produktion"
- FIN_artillery_production_effort_desc: "Die Artillerie ist seit den napoleonischen Kriegen ein wichtiger Bestandteil des Krieges und spielte auch während des Weltkrieges eine entscheidende Rolle. Investitionen in diese Technologie wären äußerst hilfreich, da die Artillerie auf Entfernungen schießen kann, die für die Infanterie unerreichbar sind."
- FIN_increased_manufacturing_capacity: "Erhöhte Produktionskapazität"
- FIN_increased_manufacturing_capacity_desc: "Auch wenn unsere derzeitige Rüstungsproduktion ausreichend ist, müssen wir unser Augenmerk auch auf die kontinuierliche Entwicklung unserer Industrie richten, um in Zukunft noch höhere Produktionszahlen zu ermöglichen."
- FIN_retain_old_doctrines: "Alte Doktrinen beibehalten"
- FIN_retain_old_doctrines_desc: "Es besteht keine Notwendigkeit, unsere derzeitige Doktrin zu ändern. Die Planung einer Schlacht ist das Beste, was wir tun können, um uns auf den besten und den schlimmsten Fall vorzubereiten. Schließlich ist es besser, auf Nummer sicher zu gehen."
- FIN_emphasise_discipline: "Betonung der Disziplin"
- FIN_emphasise_discipline_desc: "Disziplin ist das Wichtigste in jeder Armee. Solange unsere Soldaten wie eine gut geölte Maschine zusammenarbeiten und unsere Offiziere diese gut geölte Maschine führen, können wir sicherstellen, dass praktisch jede Schlacht zu unseren Gunsten ausgeht."
- FIN_import_german_arms: "Deutsche Waffen importieren"
- FIN_import_german_arms_desc: "Es ist zwar von größter Wichtigkeit, dass wir uns auf die heimische Rüstungsproduktion konzentrieren, aber wir dürfen auch nicht vergessen, dass die Deutschen über Ersatzwaffen verfügen, mit denen sie uns versorgen können, und dass wir dumm sein müssten, wenn wir eine solche Aussicht nicht nutzen würden."
- FIN_continue_working_with_german_officers: "Fortsetzung der Zusammenarbeit mit deutschen Offizieren"
- FIN_continue_working_with_german_officers_desc: "Wenn wir die Qualität unserer Armee verbessern wollen, müssen wir uns von deutschen Offizieren unterrichten lassen, die sich während des Weltkrieges als überlegen erwiesen haben."
- FIN_prioritise_the_jager_troops: "Vorrang für die Jäger-Truppen"
- FIN_prioritise_the_jager_troops_desc: "Die Jägertruppen, die während des finnischen Bürgerkriegs unentbehrlich waren, und viele ehemalige Jäger, die später zu Spitzenoffizieren in der Armee aufstiegen, haben sich als äußerst qualifiziert erwiesen. Wir müssen den Schwerpunkt auf diese Truppen und die Weiterentwicklung des Jägerprogramms legen, um die Entwicklung eines Kerns gut ausgebildeter finnischer Soldaten fortzusetzen."
- FIN_reorganise_the_mobilisation_structure: "Reorganisation der Mobilisierungsstruktur"
- FIN_reorganise_the_mobilisation_structure_desc: "Für die Verteidigung der finnischen Nation ist es von zentraler Bedeutung, dass jederzeit eine schnelle und einfache Mobilisierung von einsatzfähigen Männern möglich ist. Wir müssen unter der Leitung des Oberkommandos einen neuen Mobilisierungsplan ausarbeiten, der die Rolle der Reservisten und Wehrpflichtigen deutlich macht und gleichzeitig das System der Altersklassen überarbeitet."
- FIN_cold_weather_training: "Training bei kaltem Wetter"
- FIN_cold_weather_training_desc: "Niemand kennt das finnische Terrain besser als Die finnische Armee selbst. Es ist jedoch auch klug, dass wir Maßnahmen ergreifen, um sicherzustellen, dass unser Militär in der Lage ist, jeder Art von kalten Temperaturen zu widerstehen, um uns einen größeren Vorteil in unserem Heimatgebiet zu verschaffen."
- FIN_total_defence: "Totale Verteidigung"
- FIN_total_defence_desc: "Wir müssen uns auf die Totale Verteidigung Finnlands konzentrieren und jeden ausländischen Eindringling um jeden Quadratzentimeter unseres Landes bekämpfen. Wir können kein Land, das dem finnischen Volk gehört, freiwillig aufgeben, um nicht in Kriegszeiten Schwäche zu zeigen."
- FIN_special_forces: "Spezialeinheiten"
- FIN_special_forces_desc: "Die Kultivierung unserer Spezialeinheiten wird der Schlüssel zur Führung und Durchführung eines Guerillakrieges sein und unseren Truppen außerdem ermöglichen, sich mit dem finnischen Terrain besser vertraut zu machen."
+ FIN_reinforce_the_mannerheim_line: "Verstärken Sie die [ROOT.FIN_GetMannerheimLineName] Linie"
+ FIN_reinforce_the_mannerheim_line_desc: "Die [ROOT.FIN_GetMannerheimLineName] Linie ist eine Verteidigungslinie, die während des russischen Bürgerkriegs gebaut wurde und eine wichtige Abschreckung für die Russen im Osten darstellte. Sie wurde jedoch seit geraumer Zeit nicht mehr aufgerüstet, und ihr Alter macht sich langsam bemerkbar. Wir sollten eine Aufrüstung in Betracht ziehen."
 
- FIN_finnish_navy: "Die finnische Flotte"
- FIN_finnish_navy_desc: "Um die Souveränität Finnlands zu schützen und unsere Kontrolle über die Ostsee zu wahren, müssen wir in unsere Marine investieren, um jegliche Bedrohung von außen abzuwehren."
- FIN_guard_aaland: "Bewachung Ålands"
- FIN_guard_aaland_desc: "Die Schweden bedrohen weiterhin unsere Kontrolle über Åland, obwohl das Gebiet durch deutsche Vermittlung rechtmäßig uns zugesprochen wurde. Die Verstärkung unserer Marine könnte ausreichen, um die Schweden von einem Angriff abzuhalten."
- FIN_coastal_fortifications: "Küstenbefestigungen"
- FIN_coastal_fortifications_desc: "Es ist von entscheidender Bedeutung, dass wir unsere Küstenlinie befestigen, um amphibische Invasionen von außen zu verhindern, falls wir die Kontrolle über die Ostsee verlieren sollten."
- FIN_turku_shipyard: "Turku Werft"
- FIN_turku_shipyard_desc: "Als Eckpfeiler der finnischen Schiffbauindustrie müssen wir unsere Anstrengungen darauf konzentrieren, den Aufbau von Turku fortzusetzen und unsere Schiffbaukapazität zu erhöhen."
+ FIN_mannerheim_line_socialist: "Manner"
+ FIN_mannerheim_line_monarchy: "Fredrik Kaarle"
+ FIN_mannerheim_line_socdem: "Tanner"
+ FIN_mannerheim_line_default: "Mannerheim"
 
- FIN_purchase_german_light_cruisers: "Deutsche Leichte Kreuzer kaufen"
- FIN_purchase_german_light_cruisers_desc: "Deutschland besitzt viele veraltete leichte Kreuzer, die möglicherweise zur Verstärkung der finnischen Flotte eingesetzt werden könnten. Wir sollten sie bitten, sie uns zu verkaufen."
- FIN_request_german_supplies: "Deutsche Lieferungen anfordern"
- FIN_request_german_supplies_desc: "Es ist kein Geheimnis, dass Deutschland in Bezug auf seine Marine viel fortschrittlicher ist. Vielleicht könnte die Anforderung von Marineplänen von ihnen uns dabei helfen, unsere eigene Marine besser zu machen."
- FIN_kaiserliche_werft_kiel: "Kaiserliche Werft Kiel"
- FIN_kaiserliche_werft_kiel_desc: "Durch die Zusammenarbeit mit der Kaiserlichen Werft Kiel können wir uns darauf verlassen, dass Deutschland uns bei der Erweiterung unserer Schiffbaukapazitäten unterstützt und unsere Anstrengungen auf andere Projekte umlenkt."
- FIN_protect_merchant_shipping: "Handelsschifffahrt schützen"
- FIN_protect_merchant_shipping_desc: "Um Finnland in Krisenzeiten zu versorgen und gleichzeitig die Kontrolle über die Ostsee zu behalten, müssen wir unsere Handelsschifffahrt um jeden Preis schützen."
- FIN_recommission_civil_war_era_ships: "Wiederinbetriebnahme von Schiffen aus der Zeit des Bürgerkriegs"
- FIN_recommission_civil_war_era_ships_desc: "Wir besitzen immer noch viele veraltete Schiffe, die von Nutzen sein können, sofern wir die Zeit und die Mühe aufwenden, sie zu modernisieren."
- FIN_build_uboats: "Bau von U-Booten"
- FIN_build_uboats_desc: "Unabhängig davon, wie fortschrittlich unsere Marine sein mag, ist es auch wichtig, unsere Industrie- und Schiffbaukapazitäten zu berücksichtigen. Finnland verfügt nämlich nicht über die Schiffbaukapazitäten von Ländern wie Großbritannien, den Vereinigten Staaten oder sogar Deutschland. Deshalb ist es von entscheidender Bedeutung, dass wir unsere Anstrengungen auf den Bau kleinerer, effektiverer Schiffe in großen Stückzahlen konzentrieren."
- FIN_wartsila: "Wärtsilä"
- FIN_wartsila_desc: "Wärtsilä ist ein seit langem bestehendes finnisches Unternehmen, das auf dem Schifffahrtsmarkt sehr einflussreich ist. Indem wir ihre enormen Ressourcen nutzen, können wir unsere Schiffbaukapazitäten vielleicht noch ausbauen."
+ FIN_state_arms_factories: "Staatliche Waffenfabriken"
+ FIN_state_arms_factories_desc: "Der finnische Privatsektor verfügt nur über begrenzte Ressourcen, so dass staatliche Unternehmen wie VKT und SAKO notwendig sind, um die ordnungsgemäße Versorgung unserer Armee mit Rüstungsgütern in Kriegszeiten sicherzustellen."
 
- FIN_white_air_force: "Weiße Luftwaffe"
- FIN_white_air_force_desc: "Da die Weiße Luftwaffe von den Schweden und den Deutschen unterstützt wurde, ist es nur natürlich, dass sie besser ausgerüstet ist und mehr Erfahrung im Umgang mit feindlichen Jägern hat. Wir müssen ihren Erfahrungsstand weiter ausbauen, um Finnland besser verteidigen zu können"
- FIN_ground_support: "Bodenunterstützung"
- FIN_ground_support_desc: "Durch den Bau von Luftnahunterstützungsflugzeugen können wir unsere Männer am Boden im Krieg besser schützen."
- FIN_airfield_construction: "Flugplatzbau"
- FIN_airfield_construction_desc: "Um eine größere Anzahl von Flugzeugen unterbringen zu können, ist es nur natürlich, dass wir mit dem Bau von neuen Flugplätzen beginnen."
- FIN_pilot_training: "Pilotenausbildung"
- FIN_pilot_training_desc: "Um eine höhere Qualität der Luftwaffenpiloten zu gewährleisten und die nächste Generation von Offizieren besser auf neue Fortschritte in der Luftkriegsführung vorzubereiten, müssen wir neue Methoden für die Ausbildung unserer Piloten einführen."
- FIN_purchase_foreign_planes: "Ausländische Flugzeuge kaufen"
- FIN_purchase_foreign_planes_desc: "Es ist völlig klar, dass Finnland nicht in der Lage ist, selbst neue Flugzeuge herzustellen. Deshalb müssen wir uns an eine befreundete Nation wenden und dort neue Flugzeugmodelle kaufen."
- FIN_red_air_force: "Rote Luftwaffe"
- FIN_red_air_force_desc: "Die Rote Luftwaffe war zwar weder sehr effektiv noch sehr erfolgreich in ihren Bemühungen während des Bürgerkriegs, aber sie besaß etwas, das den Weißen fehlte: Geist. Mit den Ressourcen des finnischen Staates, die uns jetzt zur Verfügung stehen, können wir diesen Geist in den Aufbau einer eigenen, motivierten Luftwaffe einbringen."
- FIN_invest_in_bombers: "In Bomber investieren"
- FIN_invest_in_bombers_desc: "Wenn wir uns präventiv vom Feind befreien und dabei nur minimale Verluste am Boden erleiden wollen, müssen wir zuerst Bomber einsetzen, um ihre Stellungen zu beschießen."
- FIN_female_pilots: "Pilotinnen"
- FIN_female_pilots_desc: "Die Zulassung von Frauen zum Dienst in der Luftwaffe verschafft uns einen größeren Pool an Arbeitskräften, aus dem wir auswählen können, und erhöht damit unsere Chancen, qualifizierte Piloten zu gewinnen"
- FIN_lentosotakoulu: "Lentosotakoulu"
- FIN_lentosotakoulu_desc: "Lentosotakoulu, das Ausbildungsgeschwader, wird es uns ermöglichen, unsere Piloten effektiver auszubilden und unsere eigenen Methoden weiterzuentwickeln, so dass wir die finnischen Piloten im eigenen Land ausbilden können, ohne von anderen Nationen abhängig zu sein."
- FIN_domestic_aircraft_industry: "Inländische Luftfahrtindustrie"
- FIN_domestic_aircraft_industry_desc: "Es ist wichtig, dass wir mit der Entwicklung und Kultivierung einer inländischen Luftfahrtindustrie beginnen, die unsere Eigenständigkeit erhöht und gleichzeitig die Schaffung von Arbeitsplätzen vor Ort ermöglicht."
- FIN_aerial_reconnaissance: "Luftaufklärung"
- FIN_aerial_reconnaissance_desc: "Wenn wir die finnischen Luftstreitkräfte wirklich weiterentwickeln wollen, dürfen wir den Bedarf an neuen Luftaufklärungstechniken und den steigenden Bedarf an besseren Kampfflugzeugen nicht außer Acht lassen."
- FIN_doctrinal_techniques: "Doktrinäre Techniken"
- FIN_doctrinal_techniques_desc: "Die Entscheidung über die Doktrin der finnischen Luftwaffe ist keine Kleinigkeit. Es ist auch wichtig, dass wir auf dem Gebiet der Luftwaffen-Doktrinen Fortschritte machen, um uns einen Vorteil gegenüber jedem potenziellen Feind zu verschaffen."
+ FIN_sponsor_lahti_and_saloranta: "Förderung von Lahti und Saloranta"
+ FIN_sponsor_lahti_and_saloranta_desc: "Wir sind ständig auf der Suche nach begabten Waffendesignern. Aimo Lahti und Arvo Saloranta haben mit ihren Entwürfen Eindruck gemacht und sollten in den Staatsdienst übernommen werden."
 
- FIN_the_finnish_economy: "Die finnische Wirtschaft"
- FIN_the_finnish_economy_desc: "Der Schwarze Montag hat Finnland getroffen und damit auch die finnische Wirtschaft in den Abgrund gestürzt. Es ist klar, dass wir unseren nächsten Schritt sorgfältig planen und dabei die verschiedenen Wünsche und Bedürfnisse der finnischen Bevölkerung berücksichtigen müssen, während wir gleichzeitig unsere Wirtschaft über Wasser halten müssen. Dies wird sicherlich eine harte Zeit für unser Land sein, die wir unbedingt versuchen müssen zu überstehen."
- FIN_economic_independence: "Wirtschaftliche Unabhängigkeit"
- FIN_economic_independence_desc: "Jetzt, da wir uns von dem allgegenwärtigen deutschen Einfluss, der einst die Wirtschaft unseres Landes beherrschte, befreit haben, ist es nur natürlich, dass wir beginnen können, eine unabhängige Wirtschaftspolitik zu betreiben."
- FIN_purchase_russian_grain: "Russisches Korn kaufen"
- FIN_purchase_russian_grain_desc: "Da ukrainisches Getreide nicht mehr in Frage kommt, müssen wir uns an unser Nachbarland Russland wenden, das über Getreide im Überfluss verfügt. Wenn wir das Getreide nicht beschaffen, stehen uns harte Zeiten und eine mögliche Hungersnot bevor."
- FIN_work_with_landowners: "Arbeit mit Grundbesitzern"
- FIN_work_with_landowners_desc: "Die Grundbesitzer haben in Finnland großen Einfluss, vor allem auf den Agrarsektor. Indem wir mit ihnen zusammenarbeiten, können wir auf die Produktion von heimischem Getreide hinarbeiten und gleichzeitig den finnischen Agrarsektor voranbringen."
- FIN_domestic_factory_construction: "Fabrikbau im Inland"
- FIN_domestic_factory_construction_desc: "Es ist wichtig, dass wir uns nicht nur auf den Außenhandel verlassen, sondern auch auf unsere eigenen industriellen Kapazitäten. Finnland ist in der Lage, sich zu industrialisieren, auch wenn dies lange dauern wird. Deshalb ist es am besten, wenn wir dieses Unterfangen eher früher als später in Angriff nehmen."
- FIN_urbanisation: "Urbanisation"
- FIN_urbanisation_desc: "Die zunehmende Verstädterung unseres Landes wird in hohem Maße zur Entwicklung der Wirtschaft beitragen, indem Arbeitsplätze für diejenigen geschaffen werden, die in den ländlicheren Teilen unseres Landes keine Arbeit finden konnten. Darüber hinaus wird sie bestimmte Wirtschaftszweige wie den Dienstleistungs- und den Bausektor ankurbeln."
- FIN_ahlstrom: "Ahlstrom"
- FIN_ahlstrom_desc: "Das 1851 gegründete Unternehmen Ahlstrom ist vor allem für seinen Holzhandel, seine Sägewerke und seine Schifffahrt bekannt. Indem wir aus dem Erfolg des Unternehmens Kapital schlagen, können wir hoffen, eine bessere Beziehung zu finnischen Geschäftsleuten aufzubauen und gleichzeitig einheimische Unternehmen in Finnland zu fördern."
- FIN_state_railways: "Staatliche Eisenbahnen"
- FIN_state_railways_desc: "Da die Regierung eine große Kontrolle über die Staatlichen Eisenbahnen hat, ist es nur logisch, dass wir diese Gelegenheit nutzen sollten, indem wir die Infrastruktur in Finnland ausbauen und modernisieren. Auf diese Weise können wir neben dem leichteren Transport von Gütern auch die Schaffung von Arbeitsplätzen ermöglichen."
- FIN_economic_dependence: "Wirtschaftliche Abhängigkeit"
- FIN_economic_dependence_desc: "Dem König ist es gelungen, die Macht zu sichern, und Finnland bleibt faktisch im deutschen Einflussbereich. Es wäre unglaublich unsinnig von uns, diese Gelegenheit nicht zu nutzen, indem wir den potenziellen Profit, der durch Deutschlands Kontrolle über die Nationen in Mitteleuropa erzielt werden kann, ausnutzen."
- FIN_continue_importing_ukrainian_grain: "Weiterer Import von ukrainischem Getreide"
- FIN_continue_importing_ukrainian_grain_desc: "Es stimmt zwar, dass die ukrainischen Getreideimporte unmittelbar nach dem Schwarzen Montag zurückgegangen sind, aber vielleicht können wir die Ukrainer davon überzeugen, die Getreidelieferungen wieder auf das Niveau von vor dem Schwarzen Montag anzuheben."
- FIN_provide_raw_materials: "Steigerung der Holzexporte"
- FIN_provide_raw_materials_desc: "Eine Sache, an der es in Finnland nicht mangelt, ist Holz und seine Folgeprodukte, nach denen Deutschland immer hungert. Wenn wir sie an die Deutschen schicken, können wir vielleicht in Form von Präferenzhandel davon profitieren."
- FIN_land_reform: "Landreform"
- FIN_land_reform_desc: "Die Untersuchung der Art und Weise, wie die Landbesitzer in Finnland arbeiten, und der von ihnen angewandten Methoden ist von entscheidender Bedeutung, wenn wir unser reichhaltiges Land voll ausschöpfen wollen."
- FIN_german_defence_contractors: "Deutsche Rüstungsfirmen"
- FIN_german_defence_contractors_desc: "Deutsche Rüstungsfirmen davon zu überzeugen, Produktionsstätten in Finnland zu betreiben und zu eröffnen, ist der Schlüssel zur weiteren Industrialisierung und zur Schaffung von Arbeitsplätzen im eigenen Land."
- FIN_wacker: "Wacker"
- FIN_wacker_desc: "Das 1848 gegründete Unternehmen Wacker ist bekannt für seine Baumaschinen und Innovationen im Bereich der Beton- und Bodenherstellung. Durch die Zusammenarbeit mit ihnen können wir vielleicht weiter an der erfolgreichen Industrialisierung Finnlands arbeiten."
- FIN_infrastructural_improvements: "Infrastrukturelle Verbesserungen"
- FIN_infrastructural_improvements_desc: "Die Verbesserung der Infrastruktur in Finnland ist von entscheidender Bedeutung, wenn wir die Schaffung von Arbeitsplätzen vorantreiben und gleichzeitig den Transport von Waren und Truppen verbessern wollen."
- FIN_customs_barriers: "Zollschranken"
- FIN_customs_barriers_desc: "Wir müssen uns weiter in den mitteleuropäischen Wirtschaftsraum integrieren. Das erhöht zwar unsere Abhängigkeit von Deutschland, gibt uns aber ein besseres Sicherheitsnetz für den Fall eines weiteren Schwarzen Montags."
- FIN_university_of_helsinki: "Universität Helsinki"
- FIN_university_of_helsinki_desc: "Die Umlenkung von Finanzmitteln auf die Universität Helsinki, die Finnlands Spitzenuniversität ist, ist von entscheidender Bedeutung, wenn wir ein Umfeld schaffen und fördern wollen, in dem sich die besten Köpfe Finnlands zusammenfinden und das Land mit Innovationen bereichern können."
- FIN_financial_strength: "Finanzielle Stärke"
- FIN_financial_strength_desc: "Finnland hat endlich seinen rechtmäßigen Platz eingenommen. Wir sind aus der Asche des Schwarzen Montags auferstanden und können die Welt nun in einer Position der Sicherheit betrachten, einer Position, in der wir etwas besitzen, was viele nicht haben: Finanzielle Stärke."
+ FIN_yhteissisu_vehicles: "Yhteissisu Vehicles"
+ FIN_yhteissisu_vehicles_desc: "Obwohl sich unsere Armee weitgehend auf Pferde und Fahrräder verlässt, wächst die Automobilindustrie stetig. Die lukrative Zusammenarbeit mit deutschen Unternehmen hat zur Entwicklung der Vanaja-LKW beigetragen."
 
- FIN_foreign_policy: "Außenpolitik"
- FIN_foreign_policy_desc: "Wir müssen unseren Blick nach außen, auf die Welt richten und entscheiden, welche Haltung wir bei der Erfüllung unserer außenpolitischen Ziele einnehmen und wie wir mit anderen Nationen umgehen werden."
- FIN_diplomacy: "Diplomatie"
- FIN_diplomacy_desc: "Die Diplomatie ist das Wichtigste, wenn es darum geht, dem Ziel eines friedlichen Finnlands näher zu kommen. Wir müssen die Unterstützung und Freundschaft unserer Nachbarn gewinnen, damit wir nicht in einen Krieg verwickelt werden."
- FIN_settle_the_russian_issue: "Beilegung der Russland-Frage"
- FIN_settle_the_russian_issue_desc: "Die Frage der finnischen Souveränität und des Eigentums an Karelien ist seit langem ein drängendes Problem für die finnische Nation. Es stimmt, dass Russland in seiner jetzigen Form eine Bedrohung für die Existenz Finnlands darstellt. Wir müssen uns damit abfinden und versuchen, eine Einigung zu erzielen, die es uns ermöglicht, unsere Souveränität zu bewahren."
- FIN_assert_neutrality: "Neutralität bekräftigen"
- FIN_assert_neutrality_desc: "Finnland soll nicht länger in Kriege verwickelt werden, die keinen nennenswerten Nutzen bringen, und es soll nicht länger mit dem Gedanken der Nichtexistenz bedroht werden. Wir werden eine Haltung der bewaffneten Neutralität einnehmen und bereit sein, jeden zu bekämpfen, der es wagt, sich unserem Recht, unparteiisch zu bleiben, zu widersetzen."
- FIN_ties_with_sweden: "Beziehungen zu Schweden"
- FIN_ties_with_sweden_desc: "Um unsere Beziehungen zu Schweden zu stärken, müssen wir auf sie zugehen und die Beziehungen zwischen unseren beiden Nationen verbessern."
- FIN_ties_with_norway: "Diplomatische Beziehungen zu Norwegen"
- FIN_ties_with_norway_desc: "Um unsere Beziehungen zu Norwegen zu stärken, müssen wir auf sie zugehen und die Beziehungen zwischen unseren beiden Nationen verbessern."
- FIN_ties_with_denmark: "Annäherung an Dänemark"
- FIN_ties_with_denmark_desc: "Um unsere Beziehungen zu Dänemark zu stärken, müssen wir auf sie zugehen und die Beziehungen zwischen unseren beiden Nationen verbessern."
- FIN_aggressive_expansionism: "Aggressiver Expansionismus"
- FIN_aggressive_expansionism_desc: "Wir können nicht abwarten und unsere Probleme mit Worten lösen. Um zu beweisen, dass Finnland sowohl eine starke Nation ist als auch gewillt, das zu bekommen, was es will, müssen wir damit beginnen, das Militär in Massen auf einen großen Kampf vorzubereiten."
- FIN_draw_upon_heimosodat: "Heimosodat heranziehen"
- FIN_draw_upon_heimosodat_desc: "Heimosodat (oder, auf Deutsch, Verwandtschaftskriege) ist die Idee, dass Finnland umsichtig und aktiv sein sollte, wenn es um den Status der finnischen Völker in der Welt geht. Wir müssen aus dieser Idee schöpfen und unser Volk motivieren, um Gebiete, die uns rechtmäßig gehören, zurückzuerobern oder zu gewinnen."
- FIN_attack_norway: "Angriff auf Norwegen"
- FIN_attack_norway_desc: "Das Volk der Sami und Kven gehört selbst zur finno-ugrischen Gruppe und ist damit rechtmäßiger Untertan Finnlands. Wir müssen die in Norwegen lebenden Sami befreien, denn sie sind schon viel zu lange schlecht behandelt worden."
- FIN_war_with_russia: "Krieg mit Russland"
- FIN_war_with_russia_desc: "Russland besitzt den größten Teil des rechtmäßigen finnischen Territoriums und hat sich stets geweigert, die Vorherrschaft der finnischen Völker anzuerkennen. Wir müssen ihnen zeigen, dass diese Gebiete wirklich zu uns gehören, und die Unabhängigkeit der dort lebenden Menschen herbeiführen."
- FIN_claim_tornedalen: "Tornedalen beanspruchen"
- FIN_claim_tornedalen_desc: "Das Torne-Tal ist seit jeher von finnischsprachigen Menschen besiedelt, und viele der Dörfer in diesem Gebiet haben ihren finnischen Namen beibehalten. Es stimmt, dass unser Volk bis heute in der Region lebt und damit Anspruch auf das Gebiet erhebt. Wir müssen es sofort befreien."
- FIN_proclaim_greater_finland: "Proklamieren Sie Groß-Finnland"
- FIN_proclaim_greater_finland_desc: "Mit dem gesamten Gebiet, das wir einst offiziell für uns beanspruchten, können wir die Idee von Großfinnland endlich in die Tat umsetzen."
+ FIN_artillery_production: "Artillerie Produktion"
+ FIN_artillery_production_desc: "Die finnische Doktrin stützt sich seit jeher auf Artillerie, und die können wir auch selbst herstellen. Mit der Bevorratung von Granaten für den schlechten Tag sollte man beginnen, bevor der schlechte Tag kommt."
+
+ FIN_panzers_in_the_snow: "Panzer im Schnee"
+ FIN_panzers_in_the_snow_desc: "Wir haben nur begrenzte Möglichkeiten zur Herstellung von Panzern, aber unsere Verbündeten in Berlin verfügen über mehr als genug Kapazitäten. Vereinbarungen mit Henschel und Krupp sollten unterzeichnet werden, um das für unsere eigene Panzertruppe benötigte Fachwissen zu sichern."
+
+ FIN_tank_design_department: "Valtion Panssaritehdas (Staatliche Panzerfabrik)"
+ FIN_tank_design_department_desc: "Das ist eine große Aufgabe, aber mit einer angemessenen Finanzierung kann Finnland über eigene Kapazitäten zum Bau einfacher gepanzerter Fahrzeuge verfügen."
+
+ FIN_anti_armour_weapons: "Anti-Panzerwaffen"
+ FIN_anti_armour_weapons_desc: "Unsere Feinde werden mit Wellen aus Stahl und Feuer auf uns zukommen, und wir müssen darauf vorbereitet sein. Wir haben nicht genug Rüstung, um sie zu bekämpfen, also müssen billigere Methoden erfunden werden."
+
+ FIN_integrate_suojeluskunta: "Integration der Weißen Garde"
+ FIN_integrate_suojeluskunta_desc: "Anstatt eine separate Organisation mit eigenem Kommandeur zu sein, sollten die Weißen Garde Teil des stehenden Heeres werden und als Reserve und Ausbildungsorganisation dienen."
+
+ FIN_national_mobilisation: "Nationale Mobilisierung"
+ FIN_national_mobilisation_desc: "Wenn es hart auf hart kommt, versteht jeder Finne, dass er sein Gewicht zur Verteidigung des Vaterlandes einsetzen muss."
+
+ FIN_lotta_svard: "Lotta Svärd"
+ FIN_lotta_svard_desc: "Eine Frauenhilfsorganisation wird junge, patriotische Frauen ausbilden, um Hilfsdienste in den Bereichen Signalwesen, Medizin und Versorgung zu leisten und so wertvolle Arbeitskräfte für die Front freizusetzen."
+
+ FIN_the_salpa_line: "Die Salpa Linie"
+ FIN_the_salpa_line_desc: "Wenn die [ROOT.FIN_GetMannerheimLineName] unsere erste Verteidigungslinie ist, ist die Salpa-Linie die letzte, und sie darf nicht durchbrochen werden!"
+
+ FIN_upgrade_sissi_units: "Sissi Einheiten aufrüsten"
+ FIN_upgrade_sissi_units_desc: "'Sissi', in seiner ursprünglichen Bedeutung ein Waldbandit, ist der härteste der Armee, die Guerilla, die in unerforschten Wäldern und hinter den feindlichen Linien operiert, schnell zuschlägt und keine Spuren hinterlässt."
+
+ FIN_support_jaeger_officers: "Unterstützung der Jäger-Offiziere"
+ FIN_support_jaeger_officers_desc: "Die jungen Patrioten des Königlich-Preußischen 27. Jägerbataillons haben mit den Deutschen trainiert und gekämpft, und sie haben einen Großteil der Armee zu dominieren. Ihr Geist ist aggressiv und beweglich und stammt von deutschen Militärschulen."
+
+ FIN_support_old_guard_officers: "Mannerheims Clique unterstützen"
+ FIN_support_old_guard_officers_desc: "Carl Gustaf Mannerheim und die ihm nahestehenden Personen sind im Allgemeinen Männer einer alten, eher technischen Schule der Kriegsführung, die die von den Jägern so sehr geschätzten unüberlegten Angriffe des großen Geistes vermeiden."
+
+ FIN_encircle_and_destroy: "Einkreisen und vernichten"
+ FIN_encircle_and_destroy_desc: "Die Wälder sind kein Hindernis für uns, sondern ein Weg. Unsere Feinde sind auf Straßen beschränkt, während unsere mobilen Kräfte sie in Stücke schneiden können, wie man ein Motti Brennholz schneidet."
+
+ FIN_create_the_sotakorkeakoulu: "Erweiterung der Sotakorkeakoulu (Militärakademie)"
+ FIN_create_the_sotakorkeakoulu_desc: "Eine Armee ist nur so gut wie ihre Führungskräfte, und die Ausbildung vorbildlicher Führungskräfte hat für uns Priorität."
+
+ FIN_salvage_captured_equipment: "Bergung erbeuteter Ausrüstung"
+ FIN_salvage_captured_equipment_desc: "Wir verfügen nicht über die industriellen Kapazitäten unserer Feinde, aber sie können unser Budget hilfreich ergänzen, indem sie uns erlauben, ihre Rüstungen und Waffen zu erbeuten und gegen sie einzusetzen."
+
+ FIN_the_white_death: "Der Weisse Tod"
+ FIN_the_white_death_desc: "\"Ich benutze kein Zielfernrohr zum Scharfschießen. Es kann die eigene Position durch den Schein verraten und wird bei Minusgraden leicht durch den Atem vereist.\" - Simo Häyhä"
+
+ FIN_erillinen_pataljoonat: "Kaukopartiot (Fernpatrouillen)"
+ FIN_erillinen_pataljoonat_desc: "Wenn wir einige unserer besten Einheiten für Operationen in den Flanken und im Rücken des Feindes abstellen, wird das seinen Zusammenhalt zerstören und uns die Informationen liefern, die wir für weitere Operationen benötigen."
+
+ FIN_dedicated_medical_units: "Lotta Feldkrankenhäuser"
+ FIN_dedicated_medical_units_desc: "Männer aus medizinischen Positionen können für dringendere Aufgaben freigesetzt werden, indem Lotta Svärd ganze Krankenhäuser in einiger Entfernung von der Frontlinie betreiben kann."
+
+ FIN_nenonen_doctrine: "Nenonen Doktrin"
+ FIN_nenonen_doctrine_desc: "Vilho Nenonen ist ein General, aber vor allem ist er ein mathematisches Genie. Der Feuerkorrekturkreis ist nur eine seiner Erfindungen, die es unserer Artillerie ermöglichen wird, schneller zu reagieren, besser zu zielen und mehr zu zerstören."
+
+ FIN_improve_radio_communications: "Abteilung für Funkaufklärung"
+ FIN_improve_radio_communications_desc: "Der Ausbau der Funkabhörstation in Lahti zu einer vollständigen Abteilung der Luftwaffe wird es ermöglichen, schneller mehr Informationen zu sammeln."
+
+ FIN_new_air_bases: "Neue Luftwaffenstützpunkte"
+ FIN_new_air_bases_desc: "In einem Land mit großen Entfernungen ist ein gutes Netz von Luftstützpunkten für die Verteidigung unerlässlich."
+
+ FIN_increase_airforce_budget: "Erhöhung des Luftwaffenhaushalts"
+ FIN_increase_airforce_budget_desc: "Die Luftwaffe wurde in der Regel zugunsten der Armee vernachlässigt, obwohl sie über ein großes Potenzial verfügt."
+
+ FIN_ace_pilots: "Piloten-Asse"
+ FIN_ace_pilots_desc: "Im Rahmen des Wehrdienstes sollte ein Auswahlverfahren durchgeführt werden, um potenzielle Piloten zu finden und auszubilden, auch wenn es sich um arme Bauernsöhne handelt."
+
+ FIN_modernise_lentosotakoulu: "Lentosotakoulu (Luftkriegsschule) modernisieren"
+ FIN_modernise_lentosotakoulu_desc: "Die Mittel der Luftkriegsführung ändern sich rasant, und wir müssen auf dem Laufenden bleiben, wenn wir unseren eigenen Himmel verteidigen wollen."
+
+ FIN_urban_aerial_defences: "Städtische Luftverteidigung"
+ FIN_urban_aerial_defences_desc: "Die wenigen Großstädte Finnlands sind leichte Ziele für Bombenangriffe und sollten angemessen verteidigt werden."
+
+ FIN_domestic_fighter_designs: "Inländische Kampfflugzeugdesigns"
+ FIN_domestic_fighter_designs_desc: "VLT wurde als staatliche Produktions- und Entwicklungsstätte für Flugzeuge gegründet. In kurzer Zeit werden wir unsere ersten in Finnland entwickelten und hergestellten Kampfflugzeuge haben."
+
+ FIN_fighter_supremacy: "Vorherrschaft der Jäger"
+ FIN_fighter_supremacy_desc: "Trotz der Befürworter von Bombenangriffen wie Väinö Vuori sollten Kampfflugzeuge die Priorität einer kleinen Luftwaffe wie der unseren sein."
+
+ FIN_wartsila_engines: "Wärtsilä-Motoren"
+ FIN_wartsila_engines_desc: "Die Herstellung eines hochwertigen Flugzeugtriebwerks ist keine kleine Leistung. Wenn wir das schaffen, ist der Himmel die Grenze!"
+
+ FIN_cutting_edge_production_lines: "Hochmoderne Produktionslinien"
+ FIN_cutting_edge_production_lines_desc: "Bei der Quantität können wir nicht mithalten, aber bei der Qualität schon."
+
+ FIN_twelve_squadron_plan: "Zwölf-Geschwader-Plan"
+ FIN_twelve_squadron_plan_desc: "Nach Angaben des Oberkommandos sollten 12 Jagdgeschwader in der Lage sein, den gesamten finnischen Luftraum zu schützen - setzen wir uns also dieses Ziel und streben einen erheblichen Ausbau der Luftstreitkräfte an."
+
+ FIN_vuoris_assault_wings: "Vuoris Angriffsflügel"
+ FIN_vuoris_assault_wings_desc: "Die Bomberlobby der finnischen Luftwaffe schlägt vor, Bomber als fliegende Artillerie einzusetzen, um sicherzustellen, dass wir Schlachten an Land gewinnen."
+
+ FIN_bomber_supremacy: "Bomber Vorherrschaft"
+ FIN_bomber_supremacy_desc: "Bomber werden immer durchkommen."
+
+ FIN_naval_bombers: "Marinebomber"
+ FIN_naval_bombers_desc: "Der Finnische Meerbusen ist ein wichtiger Seeweg, und mit geeigneten Flugzeugen können wir sicherstellen, dass kein Schiff ihn ohne unsere Erlaubnis passiert."
+
+ FIN_improve_coastal_defences: "Verbesserung der Küstenverteidigung"
+ FIN_improve_coastal_defences_desc: "Die finnische Küste ist lang und die finnische Marine klein, so dass Befestigungsanlagen das beste Mittel sind, um das Land angemessen zu verteidigen."
+
+ FIN_expand_export_fleets: "Exportflotten ausbauen"
+ FIN_expand_export_fleets_desc: "Der größte Teil der finnischen Wirtschaft basiert auf dem Export der Produkte unserer Forstindustrie. Ohne Schiffe gibt es keine Exporte."
+
+ FIN_cheap_cruisers: "Billige Kreuzer"
+ FIN_cheap_cruisers_desc: "Es ist schwer, [GetLeader] davon zu überzeugen, der Marine zusätzliche Mittel zur Verfügung zu stellen, also müssen wir versuchen, stattdessen billige Designs zu verwenden."
+
+ FIN_german_naval_cooperation: "Deutsche Marine Kooperation"
+ FIN_german_naval_cooperation_desc: "Die Seesupermacht der Ostsee ist Deutschland, und mit ihr können wir nicht scheitern."
+
+ FIN_expand_andree_rosenqvist: "Andrée & Rosenqvist ausbauen"
+ FIN_expand_andree_rosenqvist_desc: "Die Werften von A&R in Turku sind unser ganzer Stolz und müssen im Interesse der nationalen Sicherheit vom Staat unterstützt werden."
+
+ FIN_hit_and_run_tactics: "Hit and Run Taktiken"
+ FIN_hit_and_run_tactics_desc: "Eine kleinere Flotte sollte sich auf Mobilität und Esprit konzentrieren, statt auf Muskeln und Feuer."
+
+ FIN_prowl_the_waters: "Die Gewässer durchstreifen"
+ FIN_prowl_the_waters_desc: "U-Boote sind billig und tödlich, was sie ideal für eine Nation mit begrenztem Budget macht."
+
+ FIN_increase_torpedo_production: "Steigerung der Torpedoproduktion"
+ FIN_increase_torpedo_production_desc: "Ein einziger Torpedo kostet einige hundert Mark. Ein russischer Kreuzer kostet Millionen von Rubeln."
+
+ FIN_naval_expansion: "Ausbau der Flotte"
+ FIN_naval_expansion_desc: "Die erhebliche Aufstockung des Marinebudgets hat es uns ermöglicht, uns wirklich auf den Schiffbau zu konzentrieren. Das wirkt sich bereits positiv auf die Moral der Marineoffiziere aus."
+
+ FIN_baltic_naval_bases: "Marinestützpunkte in der Ostsee"
+ FIN_baltic_naval_bases_desc: "Unsere Ostsee verfügt über zahlreiche Inseln und Häfen, die sich gut für Militärstützpunkte eignen, die Helsinki und andere Großstädte schützen sollen."
+
+ FIN_expand_crichton_vulcan: "Crichton-Vulkan erweitern"
+ FIN_expand_crichton_vulcan_desc: "Crichton-Vulcan ist die größte Werft Finnlands, die auch von ausländischen Mächten häufig mit dem Bau von Schiffen beauftragt wird."
+
+ FIN_mines_in_the_baltic: "Minen in der Ostsee"
+ FIN_mines_in_the_baltic_desc: "Der Finnische Meerbusen und der Bottnische Meerbusen können beide an ihren engsten Stellen mit einem speziellen Minenleger geschlossen werden."
+
+ FIN_rannikkojaakari: "Die Küstenjäger"
+ FIN_rannikkojaakari_desc: "Die erste Einheit der finnischen Marine-Infanterie erhält eine spezielle Ausbildung und Ausrüstung für die Durchführung qualifizierter amphibischer Operationen."
+
+ FIN_modernise_the_transit_networks: "Modernisierung der Verkehrsnetze"
+ FIN_modernise_the_transit_networks_desc: "Finnland hat große Entfernungen, und ohne ein funktionierendes Transportsystem geht nichts. Was nützt es, mineralische Güter zu haben, wenn sie nicht in die Fabriken oder Häfen transportiert werden können?"
+
+ FIN_agricultural_subsidies: "Subventionen für Landwirtschaft"
+ FIN_agricultural_subsidies_desc: "Seien wir ehrlich: Finnland ist für den Anbau von Kulturpflanzen nicht geeignet. Die Sommer sind kurz und die Winter hart. Wenn wir eine große Ernährungssicherheit haben wollen, müssen wir sie subventionieren."
+
+ FIN_nationalise_alandsbanken: "Verstaatlichung der Ålandsbanken"
+ FIN_nationalise_alandsbanken_desc: "Die Ålandsbanken ist eine der großen Banken, die durch die Spekulationen im Zusammenhang mit der Krise des Schwarzen Montags stark in Mitleidenschaft gezogen wurden. Das Wirtschaftsministerium hat vorgeschlagen, die Bank zu verstaatlichen, um ihren finanziellen freien Fall zu stabilisieren."
+
+ FIN_expand_university_helsinki: "Erweiterung der Universität Helsinki"
+ FIN_expand_university_helsinki_desc: "Wie Anders Chydenius immer sagte, ist eine Nation nur so brillant, wie ihre jungen Männer und Frauen gebildet sind."
+
+ FIN_ahlstrom_forestry_exports: "Ahlstrom Forestry Exports"
+ FIN_ahlstrom_forestry_exports_desc: "It is said that Finland stands on a foundation of wood, and it is true. Planks, paper, cardboard, plywood, timber - all of it goes for export."
+
+ FIN_draw_on_oy_alkoholiliike: "Draw on Oy Alkoholiliike (Handels-Marke für Alkoholhol)"
+ FIN_draw_on_oy_alkoholiliike_desc: "Alkohol ist gut, aber die Menschen neigen dazu, ihn unverantwortlich zu konsumieren. Natürlich ist ein staatliches Monopol die richtige Lösung, und dass es uns mehr Gewinne bringt, ist nur das Tüpfelchen auf dem "i"."
+
+ FIN_expand_outukumpu_operations: "Outokumpu-Betrieb ausweiten"
+ FIN_expand_outukumpu_operations_desc: "Outokumpu - der seltsame Berg - verfügt über einige der größten Kupfervorkommen in den nordischen Ländern, und es gibt dort noch viel zu entdecken."
+
+ FIN_expand_kemi_mines: "Kemi-Minen erweitern"
+ FIN_expand_kemi_mines_desc: "Lappland verfügt über ein großes ungenutztes Bergbaupotenzial. Am besten beginnt man in der Nähe von Exporthäfen wie Kemi, über die das Erz nach Süden transportiert werden kann."
+
+ FIN_makola_mining_complex: "Bergbaukomplex Makola"
+ FIN_makola_mining_complex_desc: "Die Nickel- und Kupfervorkommen von Nivala wurden in den 1920er Jahren von einem deutschen Unternehmen entdeckt, aber aufgrund fehlender Mittel nie richtig genutzt."
+
+ FIN_petsamo_janiskoski_mines: "Petsamo-Kolosjoki Bergwerke"
+ FIN_petsamo_janiskoski_mines_desc: "Petsamo liegt auf riesigen Nickellagerstätten. Es gäbe dort jede Menge Reichtümer, wenn wir nur Zugang zu ihnen hätten."
+
+ FIN_steel_mills_in_tornio: "Nordischer Stahl"
+ FIN_steel_mills_in_tornio_desc: "Die Eisenerze aus den lappländischen Bergwerken können am effizientesten in Tornio und Kemi zu Stahl verarbeitet und dann in weiter entfernte Länder verschifft werden."
+
+ FIN_finnish_mineral_wealth: "Finnischer Mineralreichtum"
+ FIN_finnish_mineral_wealth_desc: "In Finnland können noch viele weitere Mineralienvorkommen gefunden werden, vorausgesetzt, es werden entsprechende geologische Untersuchungen durchgeführt und es wird genügend Geld zur Verfügung gestellt. Die Natur wird sich uns nicht in den Weg stellen!"
+
+ FIN_expand_harjavalta_mines: "Ore Refining"
+ FIN_expand_harjavalta_mines_desc: "Dank ausländischem Kapital und Fachwissen sind wir in der Lage, die südlichen Metallurgieanlagen auszubauen, die unsere Erze in eine verwertbare Form bringen."
+
+ FIN_expand_imatra: "Imatra erweitern"
+ FIN_expand_imatra_desc: "Imatra hat sich schnell zu einer der größten stahlproduzierenden Städte entwickelt. Der Transport durch den Saimaa-See bindet sie enger an unsere nationale Infrastruktur."
+
+ FIN_finlayson_textiles: "Finlayson Textilien"
+ FIN_finlayson_textiles_desc: "Das 'Manchester Finnlands' - Tampere - ist die größte Industriekonzentration in den nordischen Ländern und vor allem für seine große Textilindustrie bekannt."
+
+ FIN_create_pohjolan_voima: "Gründung von Pohjolan Voima (Nordkraft)"
+ FIN_create_pohjolan_voima_desc: "Die Flüsse und Bäche Finnlands warten nur darauf, für die Energieerzeugung angezapft zu werden. Pohjolan Voima Oy wird den wachsenden Bedarf der finnischen Industrie an Strom decken."
+
+ FIN_exploit_hydroelectric_power: "Nutzung der Wasserkraft"
+ FIN_exploit_hydroelectric_power_desc: "Weitere Investitionen in die Wasserkraftinfrastruktur dürften die Produktionskapazität der finnischen Industrie erheblich verbessern."
+
+ FIN_domestic_tire_production: "Inländische Reifenproduktion"
+ FIN_domestic_tire_production_desc: "Die Nokia Rubber Factory stellt inländische Gummiprodukte her, vor allem Schuhe und Reifen. Dies ist nur durch staatliche Subventionen möglich, die für den Erwerb von teurem Gummi verwendet werden."
+
+ FIN_radiosonde_experiments: "Radiosonden Experimente"
+ FIN_radiosonde_experiments_desc: "Die aufstrebende Elektronikproduktion des Landes braucht Geld und Fachwissen, und vielleicht wird sie eines Tages zu einem wichtigen Wirtschaftszweig im Norden."
 
 ### Intro Screen ###
 
@@ -348,10 +413,6 @@
  finland.2.t: "Schwarzer Montag trifft Finnland!"
  finland.2.d: "Es scheint, als ob [Root.GetNameDef] die wirtschaftliche Notlage von [GER.GetNameDef] und den anderen Mitgliedern von Mitteleuropa nicht umgehen konnte. Mit dem Einbruch der Berliner Börse am 3. Februar geriet die Wirtschaft von [GER.GetNameDef] in den freien Fall und brachte einen erheblichen Teil der Welt mit sich. \n\nDieser wirtschaftliche Abschwung trifft [Root .GetNameDef] zu einem sehr unglücklichen Zeitpunkt der Probleme im In- und Ausland. Für viele ist es kein Geheimnis, dass Finnland, obwohl es eine landwirtschaftliche Nation ist, nicht viel Ackerland besitzt und daher Schwierigkeiten hat, seine Bevölkerung selbst zu ernähren. Dies hat [Root.GetNameDef] in eine Position gebracht, in der es gezwungen ist, [UKR.GetAdjective]es Getreide zu kaufen, um seine Bevölkerung ausreichend zu ernähren und weiteren Dissens zu vermeiden. \n\nDazu kommt allerdings die Unzufriedenheit der [Root.GetAdjective]en Bevölkerung, die sich langsam radikalisiert und sich ein Ende des [GER.GetAdjective]en Einflusses wünscht. Der Schwarze Montag hat radikalen Bewegungen wie der Lapua-Bewegung und der [Root.GetAdjective]en Volksdelegation nur weitere Legitimität verliehen. In vielen Bereichen sind bereits Demonstrationen aufgetaucht. Es scheint, als ob d. [Root.GetNameDef] an einem dünnen Faden hängt …"
  finland.2.a: "Jumalauta(Verdammt)!"
- 
- finland.3.t: "Reduzierte [UKR.GetAdjective]e Getreideimporte"
- finland.3.d: "Da die Wirtschaft von [UKR.GetName] unter dem Schwarzen Montag leidet, mussten sie die Menge an Getreide reduzieren, die sie uns bisher geschickt haben. Dies ist mit Sicherheit eine unerwünschte Nachricht, da wir stark von Getreideimporten abhängig sind. Es scheint, als müssten die [Root.GetAdjective]en Bürger ihre Gürtel enger schnallen und die [Root.GetAdjective]en Bauern härter arbeiten, um den Getreidemangel auszugleichen."
- finland.3.a: "Als ob ein wirtschaftlicher Abschwung nicht genug wäre …"
  
  finland.4.t: "Der Bauernmarsch"
  finland.4.d: "Mit dem Ziel, die Nationale Koalition zu untergraben und den [Root.GetAdjective]en Nationalismus zu bekennen, hat die Lapua-Bewegung, die mit ihren bestehenden Beziehungen zur Partei bricht, in Helsinki einen sogenannten „Bauernmarsch“ begonnen, an dem Zehntausende Finnen teilgenommen haben. \n\nAngeführt von mehreren prominenten rechtsextremen [Root.GetAdjective]en Nationalisten, darunter auch Kurt Martti Wallenius, sangen die Demonstranten für die ’Emanzipation von [Root.GetNameDef]’ von den ’[GER.GetAdjective]en Unterdrückern’. \n\nKönig [Root.GetLeader] war besorgt über den jüngsten Anstieg der anti-monarchistischen/ultranationalistischen Stimmung und sah die Märsche als bloßen Opportunismus und als Trick der Rechten an, [Root.GetNameDef] zu destabilisieren. Tatsächlich war die Zusammenarbeit zwischen der Nationalen Koalition und der Lapua-Bewegung in den letzten Jahren bereits wackelig geworden. Dieser offensichtliche Angriff auf die Monarchie hat nur dazu beigetragen, die Verbindungen zwischen Monarchisten und Ultranationalisten zu lösen."
@@ -560,170 +621,6 @@
  finland.65.d: "Es scheint, als hätte [FROM.GetNameDef] sich geweigert, formelle Verbindungen zu unserer Nation herzustellen, am allerwenigsten die [Root.GetAdjective]e Staatlichkeit anzuerkennen."
  finland.65.a: "Verdammt!"
  
- finland.66.t: "[FIN.GetNameDefCap] fordert Waffen an"
- finland.66.d: "[FIN.GetNameDefCap], das seit kurzem einen Waffenmangel hat, ist zu uns gekommen, um Waffen zu beschaffen und die Lücke zu füllen, die durch jahrelange Vernachlässigung des Militärs entstanden ist. Sollen wir ihnen die notwendigen Waffen zur Verfügung stellen?"
- finland.66.a: "Natürlich, wir haben noch überflüssiges Material da."
- finland.66.b: "Wir können es uns derzeit nicht leisten, Ausrüstung zu versenden."
- 
- finland.67.t: "[GER.GetNameDefCap] hat zugestimmt!"
- finland.67.d: "Die [GER.GetAdjective]en haben zugestimmt, uns die notwendigen Waffen zur Stärkung unserer Armee zur Verfügung zu stellen und der [GER.GetAdjective]en Delegation die Erlaubnis gegeben, umgehend bei [Root.GetNameDef] einzutreffen, um die Waffen zu liefern. Dies hat dazu beigetragen, das Vertrauen in die [GER.GetAdjective]en zu stärken und so die Beziehungen zu stärken, während wir gleichzeitig die heimische Waffenproduktion etwas länger verzögern können."
- finland.67.a: "Hervorragend!"
- 
- finland.68.t: "[GER.GetNameDefCap] hat abgelehnt…"
- finland.68.d: "Die [GER.GetAdjective]en haben sich geweigert, uns die notwendigen Waffen zur Verfügung zu stellen, um unser Militär zu stärken, nachdem ein Waffenmangel in letzter Zeit angeführt wurde. Dies bedeutet, dass wir die heimische Waffenproduktion hochfahren müssen, was natürlich lange dauern wird. Darüber hinaus hat dies die Beziehungen zwischen unseren Nationen ein wenig beeinträchtigt, da wir unser Vertrauen in das [GER.GetAdjective]e Volk als unsere Verbündeten gesetzt hatten, um uns in unserer Zeit der Not zu helfen."
- finland.68.a: "Wie können sie es wagen!"
- 
- finland.69.t: "[FIN.GetNameDefCap] Kauft Leichter Kreuzer"
- finland.69.d: "Um ihre Marine zu stärken, haben die [FIN.GetAdjective] zwei veraltete leichte Kreuzer der Königsberg-Klasse gekauft, die eigentlich verschrottet oder als Ausbildungsschiffe behalten werden sollten. Während sie für die Kaiserliche Marine nutzlos sind, könnten sie für die finnische Marine ausreichend sein."
- finland.69.a: "Die Schiffe sind ohnehin veraltet."
- 
- finland.72.t: "[FIN.GetNameDefCap] Aufträge Blohm und Voss Designers"
- finland.72.d: "In dem Bemühen, ihre Marine zu stärken, hat die [FIN.GetAdjective] das deutsche Unternehmen Blohm und Voss beauftragt, den finnischen Werften von Vulcan-Crichton bei der Entwicklung fortschrittlicherer Schiffe zu helfen. Natürlich werden sie nicht die modernste Technologie der Kaiserlichen Marine nutzen, aber sie können trotzdem viel tun, um die Marinefähigkeit unseres Verbündeten zu verbessern."
- finland.72.a: "Das Geschäft boomt."
-
- finland.75.t: "Die Wiederherstellung von Schiffen aus der Zeit des Bürgerkriegs"
- finland.75.d: "Nach Monaten der Umleitung von Geldern, Arbeitern und staatlicher Unterstützung für die Wiederherstellung von drei Schiffen aus der Zeit des Bürgerkriegs – der AG-16, Jääkarhu und der Wäinämöinen – ist es uns endlich gelungen, die Verwirklichung unserer Bemühungen mitanzusehen. Die drei Schiffe selbst sind besonders nach ihrer Modernisierung kein Grund zum Lachen und werden die [Root.GetAdjective]e Marine definitiv stärken."
- finland.75.a: "Wunderbar!"
- 
- finland.76.t: "[FIN.GetName] erfragt Kauf von Flugzeugen"
- finland.76.d: "Es scheint, dass die Finnen, um ihre Luftwaffe zu stärken, Flugzeuge von uns kaufen möchten. Während Überlegungen zur Produktion und zum Zustand unserer eigenen Luftwaffe berücksichtigt werden müssen, ist es auch richtig, dass wir mit dem verkauften Flugzeug eine gute Menge Geld verdienen könnten. Was sagen wir?"
- finland.76.a: "Wir werden sie verkaufen."
- finland.76.b: "Die Kosten überwiegen die Vorteile."
- 
- finland.77.t: "[SWE.GetName] hat zugestimmt!"
- finland.77.d: "Von der [SWE.GetAdjective]en Delegation sind herausragende Neuigkeiten eingegangen: Anscheinend haben sie unserer Anfrage zugestimmt und beschlossen, uns die Flugzeuge, die wir so dringend brauchen, umgehend zu verkaufen. Dies wird sicherlich einen großen Beitrag zur Stärkung unserer Luftwaffe leisten!"
- finland.77.a: "Hervorragend!"
- 
- finland.78.t: "[SWE.GetName] hat abgelehnt…"
- finland.78.d: "Von der [SWE.GetAdjective]en Delegation sind schreckliche Neuigkeiten eingegangen: Anscheinend haben sie unsere Anfrage abgelehnt und beschlossen, uns die Flugzeuge, die wir so dringend brauchen, nicht zu verkaufen. Dies bedeutet, dass wir einen anderen Weg finden müssen, um unsere Luftwaffe zu stärken."
- finland.78.a: "Teufel noch mal."
- 
- finland.79.t: "[FIN.GetNameDefCap] hat den Kauf unserer Flugzeuge angefordert"
- finland.79.d: "Es scheint, dass die Finnen, um ihre Luftwaffe zu stärken, Flugzeuge von uns kaufen möchten. Während Überlegungen zur Produktion und zum Zustand unserer eigenen Luftwaffe berücksichtigt werden müssen, ist es auch richtig, dass wir mit dem verkauften Flugzeug eine gute Menge Geld verdienen könnten. Was sagen wir?"
- finland.79.a: "Wir werden sie verkaufen."
- finland.79.b: "Die Kosten überwiegen die Vorteile."
- 
- finland.80.t: "[GER.GetNameDefCap] hat zugestimmt!"
- finland.80.d: "Von der [GER.GetAdjective]en Delegation sind herausragende Neuigkeiten eingegangen: Anscheinend haben sie unserer Anfrage zugestimmt und beschlossen, uns die Flugzeuge, die wir so dringend brauchen, umgehend zu verkaufen. Dies wird sicherlich einen großen Beitrag zur Stärkung unserer Luftwaffe leisten!"
- finland.80.a: "Hervorragend!"
- 
- finland.81.t: "[GER.GetNameDefCap] hat abgelehnt…"
- finland.81.d: "Von der [GER.GetAdjective]en Delegation sind schreckliche Neuigkeiten eingegangen: Anscheinend haben sie unsere Anfrage abgelehnt und beschlossen, uns die Flugzeuge, die wir so dringend brauchen, nicht zu verkaufen. Dies bedeutet, dass wir einen anderen Weg finden müssen, um unsere Luftwaffe zu stärken."
- finland.81.a: "Teufel noch mal."
- 
- finland.82.t: "Beschaffung von Getreide aus Russland"
- finland.82.d: "Da wir nach unserem ziemlich abrupten Rückzug vom Mitteleuropa-Markt nicht mehr die Gunst der [GER.GetAdjective]en haben, ist es klar, dass wir eine andere Nation finden müssen, um unseren Getreidebedarf zu decken, um den Hunger unserer Bevölkerung zu vermeiden. Da [RUS.GetNameDef] unser Nachbar ist und eine Fülle von Getreide besitzt, ist es nur natürlich, dass wir uns an sie wenden, um das Getreide zu beschaffen, das wir uns so wünschen."
- finland.82.a: "Wir werden auf das Beste hoffen."
- 
- finland.83.t: "[FIN.GetNameDefCap] hat Getreide angefordert"
- finland.83.d: "Die [FIN.GetAdjective]-Regierung hat sich an uns gewandt, um Getreidelieferungen zu beschaffen, da ihr alter Getreidelieferant, [UKR.GetNameDef], für die junge Nation nicht länger eine brauchbare Option ist. Es stimmt zwar, dass wir Getreide im Überfluss besitzen, aber die Frage, ob wir den Finnen überhaupt helfen wollen, müssen wir uns trotzdem stellen."
- finland.83.a: "Wir werden das Getreide verkaufen."
- finland.83.b: "Die Kosten überwiegen die Vorteile."
- 
- finland.84.t: "[RUS.GetNameDefCap] hat zugestimmt!"
- finland.84.d: "Gute Nachrichten sind von der [RUS.GetAdjective]en Delegation eingetroffen: Anscheinend haben sie zugestimmt, uns das notwendige Getreide zu liefern, gegen eine jährliche Summe zum Ausgleich der Versandkosten plus ein bisschen mehr. Zum Glück scheinen wir den Hunger unserer Bürger vermeiden zu können."
- finland.84.a: "Hervorragend!"
- 
- finland.85.t: "[RUS.GetNameDefCap] hat abgelehnt…"
- finland.85.d: "Von der [RUS.GetAdjective]-Delegation sind schreckliche Nachrichten eingetroffen: Offenbar haben sie sich geweigert, uns das benötigte Getreide zu liefern, wobei sie neben innenpolitischen Problemen auch die angespannten Beziehungen zwischen unseren Nationen anführten. Leider scheint es, dass unsere Bevölkerung noch eine gewisse Zeit ausharren muss, bis wir einen Weg finden, die Getreidekrise auszugleichen."
- finland.85.a: "Teufel noch mal."
- 
- finland.86.t: "Beschaffung von Getreide von [UKR.GetNameDef]"
- finland.86.d: "Nachdem [UKR.GetNameDef] die Getreideimporte in unsere Nation abrupt eingestellt hat, leidet das [Root.GetAdjective]e Volk seit einiger Zeit und trotz der Stärkung der Macht durch den König scheint es, als könnten wir die Bevölkerung nicht für immer befrieden. Wir müssen uns an unseren alten Partner wenden und ihn erneut um Getreideimporte bitten, da er eine Fülle davon besitzt, und es ist nur natürlich, dass wir uns an ihn wenden, um das Getreide zu beschaffen, das wir uns so wünschen."
- finland.86.a: "Wir werden auf das Beste hoffen."
- 
- finland.87.t: "[FIN.GetName] hat Getreide angefordert"
- finland.87.d: "[FIN.GetNameDefCap] hat sich wegen fehlender Ressourcen an uns gewandt, um Getreide zu beschaffen. Aufgrund finanzieller Engpässe wegen des Schwarzen Montags waren wir ursprünglich zum Nachteil der Finnen gezwungen gewesen, Getreideimporte zu kürzen und die Nation von ihrer primären Nahrungsquelle abzuhalten. Da sich die Krise jedoch langsam entspannt, scheint es, dass wir wieder mit dem Export beginnen können. Andererseits ist es auch wahr, dass die Konservierung von Getreide für unser eigenes Volk zu Hause auch klug wäre, um andere potenzielle Krisen zu bekämpfen. Was sollen wir tun?"
- finland.87.a: "Wir werden das Getreide verkaufen."
- finland.87.b: "Die Kosten überwiegen die Vorteile."
- 
- finland.88.t: "[UKR.GetNameDefCap] hat zugestimmt!"
- finland.88.d: "Gute Nachrichten sind von der [UKR.GetAdjective]en Delegation eingetroffen: Anscheinend haben sie sich bereit erklärt, uns das erforderliche Getreide gegen eine jährliche Summe zum Ausgleich der Versandgebühr zuzüglich eines zusätzlichen Betrags zu liefern. Zum Glück scheinen wir den Hunger unserer Bürger vermeiden zu können."
- finland.88.a: "Hervorragend!"
- 
- finland.89.t: "[UKR.GetNameDefCap] hat abgelehnt…"
- finland.89.d: "Von der [UKR.GetAdjective]en Delegation sind schreckliche Neuigkeiten eingetroffen: Anscheinend haben sie sich geweigert, uns unter Berufung auf innenpolitische Fragen mit dem notwendigen Getreide zu versorgen. Leider scheint es, dass unsere Bevölkerung eine gewisse Zeit aushalten muss, bis wir einen Weg finden, die Getreidekrise auszugleichen."
- finland.89.a: "Teufel noch mal."
- 
- finland.90.t: "Beschaffung von Getreide von [UKR.GetNameDef]"
- finland.90.d: "Nachdem [UKR.GetNameDef] die Getreideimporte in unsere Nation abrupt eingestellt hat, leidet das [Root.GetAdjective]e Volk seit einiger Zeit und trotz der Stärkung der Macht durch den König scheint es, als könnten wir die Bevölkerung nicht für immer befrieden. Wir müssen uns an unseren alten Partner wenden und ihn erneut um Getreideimporte bitten, da er eine Fülle davon besitzt, und es ist nur natürlich, dass wir uns an ihn wenden, um das Getreide zu beschaffen, das wir uns so wünschen."
- finland.90.a: "Wir werden auf das Beste hoffen."
- 
- finland.91.t: "[FIN.GetName] hat Getreide angefordert"
- finland.91.d: "[FIN.GetNameDefCap] hat sich wegen fehlender Ressourcen an uns gewandt, um Getreide zu beschaffen. Aufgrund finanzieller Engpässe wegen des Schwarzen Montags waren wir ursprünglich zum Nachteil deer Finnen gezwungen gewesen, Getreideimporte zu kürzen und die Nation von ihrer primären Nahrungsquelle abzuhalten. Da die Krise jedoch kein Thema mehr ist, können wir offensichtlich wieder exportieren. Andererseits ist es auch richtig, dass die Konservierung von Getreide für unser eigenes Volk zu Hause auch sinnvoll wäre, um andere potenzielle zukünftige Krisen zu bekämpfen. Was sollen wir tun?"
- finland.91.a: "Wir werden das Getreide verkaufen."
- finland.91.b: "Die Kosten überwiegen die Vorteile."
- 
- finland.92.t: "[UKR.GetNameDefCap] hat zugestimmt!"
- finland.92.d: "Gute Nachrichten sind von der [UKR.GetAdjective]en Delegation eingetroffen: Anscheinend haben sie sich bereit erklärt, uns das erforderliche Getreide gegen eine jährliche Summe zum Ausgleich der Versandgebühr zuzüglich eines zusätzlichen Betrags zu liefern. Zum Glück scheinen wir den Hunger unserer Bürger vermeiden zu können."
- finland.92.a: "Hervorragend!"
- 
- finland.93.t: "[UKR.GetNameDefCap] hat abgelehnt…"
- finland.93.d: "Von der [UKR.GetAdjective]-Delegation sind schreckliche Nachrichten eingetroffen: Offenbar haben sie es abgelehnt, uns das benötigte Getreide zu liefern, und sich dabei auf innenpolitische Probleme berufen. Leider scheint es, dass unsere Bevölkerung noch eine gewisse Zeit ausharren muss, bis wir einen Weg finden, die Getreidekrise auszugleichen."
- finland.93.a: "Teufel noch mal."
- 
- finland.94.t: "Die [UKR.GetAdjective]en Getreideimporte sind auf das Niveau von vor dem schwarzen Montag zurückgekehrt!"
- finland.94.d: "Nachdem der wirtschaftliche Abschwung vom Schwarzen Montag endlich sowohl von [Root.GetNameDef] als auch [UKR.GetNameDef] überstanden wurde, hat die [UKR.GetAdjective]e Delegation auf unsere Anfrage reagiert und sogar das Interesse bekräftigt, das Getreideexportniveau wieder auf das Vorkrisenniveau zu bringen. Dies ist eine wunderbare Nachricht für unsere Nation, da wir dadurch mehr Getreide zu einem niedrigeren Preis erhalten können, wodurch die Ausgaben gesenkt und gleichzeitig die Moral im [Root.GetAdjective]en Volk gestärkt wird."
- finland.94.a: "Herrliche Neuigkeiten!"
- 
- finland.95.t: "[FIN.GetNameDefCap] möchte die Beziehungen verbessern"
- finland.95.d: "In einem von vielen unserer Top-Diplomaten und Politiker als überraschend angesehenen Schritt hat sich [FIN.GetNameDef] an uns gewandt, um die Beziehungen zu verbessern und den Ausbruch eines Krieges in Skandinavien zu vermeiden. Die Erwiderung ihrer Bemühungen mag zwar vorteilhaft sein und im Kriegsfall für eine potenzielle Front weniger sorgen, aber es ist auch offensichtlich, dass wir viel stärker sind als sie und sie bei Bedarf besiegen können. Davon abgesehen müssen wir aber so schnell wie möglich eine Antwort senden. Was sollen wir tun?"
- finland.95.a: "Wir werden ihre Annäherung akzeptieren."
- finland.95.b: "Wir werden ihre Annäherung akzeptieren."
- finland.95.c: "Wir werden ihre Annäherung ablehnen."
- 
- finland.96.t: "[RUS.GetNameDefCap] hat zugestimmt!"
- finland.96.d: "Unsere Diplomaten in [RUS.GetNameDef] sind mit wunderbaren Neuigkeiten angekommen: Anscheinend sind die Russen bereit, unser Angebot anzunehmen, den Frieden zwischen unseren beiden Nationen und die Erwärmung der Beziehungen zu fördern. Genauer gesagt haben sie dies zu einem Preis getan und verlangt, dass wir Karelien übergeben, um „die Sicherheit des [RUS.GetAdjective]en Staates zu gewährleisten“.\n\nObwohl es wahr ist, dass unsere Bürger unzufrieden wären mit der Abtretung des Landes, es ist auch wahr, dass ein feindliches Russland nicht etwas ist, was wir an unseren Grenzen wollen würden. Was sollen wir tun?"
- finland.96.a: "Ein solcher Deal ist nicht ideal, aber wir haben keine Wahl…"
- finland.96.b: "Wir werden niemals unser rechtmäßiges Territorium übergeben!"
- 
- finland.97.t: "[RUS.GetNameDefCap] hat zugestimmt!"
- finland.97.d: "Unsere Diplomaten in [RUS.GetNameDef] sind mit wunderbaren Neuigkeiten angekommen: Anscheinend sind die Russen bereit, unser Angebot anzunehmen, den Frieden zwischen unseren beiden Nationen und die Erwärmung der Beziehungen zu fördern."
- finland.97.a: "Wunderbare Neuigkeiten!"
- 
- finland.98.t: "[RUS.GetNameDefCap] hat abgelehnt!"
- finland.98.d: "Unsere Diplomaten in [RUS.GetNameDef] sind mit unglücklichen Nachrichten angekommen: Anscheinend sind die Russen nicht bereit, unser Angebot anzunehmen, den Frieden zwischen unseren beiden Nationen und die Erwärmung der Beziehungen zu fördern. Dies bedeutet, dass wir uns weiterhin mit einem feindlichen Russland an unserer Grenze auseinandersetzen und uns auf einen möglichen Angriff von unserer Ostgrenze aus vorbereiten müssen."
- finland.98.a: "Verdammt – bemannt die Forts unverzüglich!"
- 
- finland.99.t: "Versöhnung mit [FIN.GetName]?"
- finland.99.d: "In einem überraschenden Schritt hat [FIN.GetNameDef] in einem möglicherweise versöhnenden Ton versucht, Beziehungen zu pflegen und Beziehungen zwischen unseren beiden Nationen aufzubauen, wobei die Stabilität Skandinaviens als Hauptgrund für die Förderung von Beziehungen angeführt wurde. Obwohl wir nicht verpflichtet sind zu akzeptieren, wäre dies vielleicht ein großer Segen für [Root.GetNameDef]?"
- finland.99.a: "Wir werden akzeptieren."
- finland.99.b: "Absolut nicht."
- 
- finland.100.t: "[From.GetNameDefCap] hat akzeptiert!"
- finland.100.d: "Großartige Neuigkeiten! [From.GetNameDefCap] hat beschlossen, unser Angebot anzunehmen, die Beziehungen zwischen unseren Nationen zu fördern, und erklärt, dass Stabilität in Skandinavien ein wichtiges Ziel ist, das alle Nationen anstreben sollten. Es scheint, als hätten sich unsere Versöhnungsbemühungen ausgezahlt."
- finland.100.a: "Ein Toast an unsere [From.GetAdjective]en Freunde!"
- 
- finland.101.t: "[From.GetNameDefCap] hat abgelehnt!"
- finland.101.d: "Schlechte Nachrichten! [From.GetNameDefCap] hat unser Angebot rundweg abgelehnt und erklärt, dass unser Ziel, Stabilität in Skandinavien zu erreichen und aufrechtzuerhalten, ohne unsere Hilfe erreicht werden kann. Kurz gesagt, unsere Versöhnungsbemühungen sind gescheitert."
- finland.101.a: "Verdammt."
- 
- finland.102.t: "Versöhnung mit [FIN.GetName]?"
- finland.102.d: "In einem überraschenden Schritt hat [FIN.GetNameDef] in einem möglicherweise versöhnenden Ton versucht, Beziehungen zu pflegen und Beziehungen zwischen unseren beiden Nationen aufzubauen, wobei die Stabilität Skandinaviens als Hauptgrund für die Förderung von Beziehungen angeführt wurde. Obwohl wir nicht verpflichtet sind zu akzeptieren, wäre dies vielleicht ein großer Segen für [Root.GetNameDef]?"
- finland.102.a: "Wir werden akzeptieren."
- finland.102.b: "Absolut nicht."
- 
- finland.103.t: "[From.GetNameDefCap] hat akzeptiert!"
- finland.103.d: "Großartige Neuigkeiten! [From.GetNameDefCap] hat beschlossen, unser Angebot anzunehmen, die Beziehungen zwischen unseren Nationen zu fördern, und erklärt, dass Stabilität in Skandinavien ein wichtiges Ziel ist, das alle Nationen anstreben sollten. Es scheint, als hätten sich unsere Versöhnungsbemühungen ausgezahlt."
- finland.103.a: "Ein Toast an unsere [From.GetAdjective]en Freunde!"
- 
- finland.104.t: "[From.GetNameDefCap] hat abgelehnt!"
- finland.104.d: "Schlechte Nachrichten! [From.GetNameDefCap] hat unser Angebot rundweg abgelehnt und erklärt, dass unser Ziel, Stabilität in Skandinavien zu erreichen und aufrechtzuerhalten, ohne unsere Hilfe erreicht werden kann. Kurz gesagt, unsere Versöhnungsbemühungen sind gescheitert."
- finland.104.a: "Verdammt."
- 
- finland.105.t: "Versöhnung mit [FIN.GetNameDef]?"
- finland.105.d: "In einem überraschenden Schritt hat [FIN.GetNameDef] in einem möglicherweise versöhnenden Ton versucht, Beziehungen zu pflegen und Beziehungen zwischen unseren beiden Nationen aufzubauen, wobei die Stabilität Skandinaviens als Hauptgrund für die Förderung von Beziehungen angeführt wurde. Obwohl wir nicht verpflichtet sind zu akzeptieren, wäre dies vielleicht ein großer Segen für [Root.GetNameDef]?"
- finland.105.a: "Wir werden akzeptieren."
- finland.105.b: "Absolut nicht."
- 
- finland.106.t: "[From.GetNameDefCap] hat akzeptiert!"
- finland.106.d: "Großartige Neuigkeiten! [From.GetNameDefCap] hat beschlossen, unser Angebot anzunehmen, die Beziehungen zwischen unseren Nationen zu fördern, und erklärt, dass Stabilität in Skandinavien ein wichtiges Ziel ist, das alle Nationen anstreben sollten. Es scheint, als hätten sich unsere Versöhnungsbemühungen ausgezahlt."
- finland.106.a: "Ein Toast an unsere [From.GetAdjective]en Freunde!"
- 
- finland.107.t: "[From.GetNameDefCap] hat abgelehnt!"
- finland.107.d: "Schlechte Nachrichten! [From.GetNameDefCap] hat unser Angebot rundweg abgelehnt und erklärt, dass unser Ziel, Stabilität in Skandinavien zu erreichen und aufrechtzuerhalten, ohne unsere Hilfe erreicht werden kann. Kurz gesagt, unsere Versöhnungsbemühungen sind gescheitert."
- finland.107.a: "Verdammt."
- 
  finland.108.t: "Den Kampf beenden?"
  finland.108.d: "Da wir alle unsere Ziele in Schweden erreicht haben und Tornedalen erobert haben, ist es vielleicht an der Zeit, sie um einen weißen Frieden zu bitten."
  finland.108.a: "Ja – es ist Zeit, den Kampf zu beenden."
@@ -801,20 +698,6 @@
  finland.124.d: "Wir haben von Göteborg die Nachricht erhalten, dass unser Antrag auf Beitritt zur Nordischen Föderation abgelehnt wurde. Es scheint, dass die Mitgliedstaaten unsere Nation mit der Begründung abgelehnt haben, dass wir nicht wie sie einer germanischen Kultur angehören."
  finland.124.a: "Wann können wir Lappland haben, bevor es ihre germanische Reinheit ruiniert?!"
  
- finland.125.t: "Bürgerkrieg in Russland"
- finland.125.d: "Wieder einmal befindet sich der russische Bär im Krieg mit sich selbst und im Gegensatz zum letzten Mal befinden wir uns selbst nicht in einem Bürgerkrieg. Stimmen in Helsinki flüstern, dass dies die beste Gelegenheit sein könnte, nach Karelien zu ziehen und unsere karelischen Brüder vom russischen Joch zu befreien! Andere warnen jedoch vor Vorsicht, es ist unwahrscheinlich, dass ein solcher Akt der Tapferkeit deutsche Unterstützung erhält."
- finland.125.a: "Zu den Waffen!"
- finland.125.b: "Dies ist nicht der richtige Zeitpunkt!"
- 
- finland.126.t: "Die finnische Invasion in Karelien"
- finland.126.d: "Katastrophe! Als Zeuge des sozialistischen Aufstands haben die Finnen unsere Ablenkung ausgenutzt und eine Invasion in Karelien begonnen, von der sie behaupten, dass sie zu Recht Teil ihrer Nation sein sollten, da die Karelier eng mit den Finnen verwandt sind."
- finland.126.a: "Diese Verletzung unserer Souveränität kann nur Krieg bedeuten!"
- finland.126.b: "Wir werden uns um sie kümmern, nachdem wir die Heimatfront unter Kontrolle haben!"
- 
- finland.127.t: "Die Russen ziehen sich zurück!"
- finland.127.d: "Als unsere Streitkräfte nach Karelien zogen, zogen sich die russischen Streitkräfte zurück. Anscheinend haben sie erkannt, dass sie sich einen Konflikt mit uns nicht leisten können, während ihre Heimat unter der Herrschaft der scharlachroten Flagge steht."
- finland.127.a: "Hurra!"
- 
  finland.128.t: "Der Tod von Fredrik Kaarle I"
  finland.128.d: "Unser geliebter König, Fredrik Kaarle I von Finnland, ist im Alter von 72 Jahren an den Folgen einer Infektion einer Wunde aus dem ersten Weltkrieg verstorben und hat den finnischen Thron frei gelassen. An seiner Stelle soll sein zweitältester überlebender Sohn, Prinz Wolfgang, den Thron besteigen und bei seiner Krönung in der Kathedrale von Helsinki den regnalen Namen Väinö I annehmen, wo die finnische Krone zum ersten Mal von jemand anderem als seinem Vater getragen wird, wie 1919 vereinbart wurde, als er mit seinem Vater als Kronprinz von Finnland anstelle seines älteren Bruders Prinz Philipp, der in Deutschland blieb, herkam."
  finland.128.a: "Der König ist tot! Lang lebe der König!"
@@ -851,7 +734,6 @@
 
 ### MIO Traits ###
  FIN_mio_trait_recycled_materials: "Wiederverwertete Materialien"
- FIN_mio_trait_contract_with_yhteissisu: "Vertrag mit Yhteissisu"
  FIN_mio_trait_yhteissisus_modern_premises: "Yhteissisu's moderne Räumlichkeiten"
  FIN_mio_trait_alternative_materials: "Alternative Materialien"
  FIN_mio_trait_salvaged_and_retooled: "Gerettet und umgerüstet"
@@ -860,16 +742,16 @@
  FIN_mio_trait_andros_engines: "Andros-Triebwerke"
  FIN_mio_trait_rapid_raiders: "Schnelle Raider"
  FIN_mio_trait_deep_sea_raiders: "Tiefsee Raider"
- FIN_mio_trait_wartsila_engine_production: "Wärtsilä Motorenproduktion"
+ FIN_mio_trait_modernisation_programme: "Wärtsilä Motorenproduktion"
  FIN_mio_trait_modernization_program: "Modernisierungs Programme"
 
 ### Ideas ### 
+ FIN_sisu: "Sisu"
+ FIN_sisu_desc: "Sisu ist ein typisch finnischer Ausdruck für die Widerstandsfähigkeit der Menschen in diesem Land. Finnland hat harte Zeiten erlebt und wird sie wieder erleben."
+ 
  FIN_mounting_dissent_idea: "Zunehmender Dissens"
  FIN_mounting_dissent_idea_desc: "Das finnische Volk war Zeuge des raschen deutschen Einflusses, der sich seit der Gründung des Königreichs Finnland im Jahr 1918 nach dem Sieg der Weißen Garde im Bürgerkrieg im ganzen Land ausgebreitet hat. Dieser Einfluss zeigt sich in Form von Verträgen, deutschen Unternehmen der Privatwirtschaft, in Deutschland hergestellten Waffen und dem König selbst, der deutscher Abstammung ist. Infolgedessen hat das finnische Volk langsam begonnen, sich über den zunehmenden Einfluss des deutschen Molochs auf das Königreich zu ärgern, was zu Meinungsverschiedenheiten führte, die jeden Moment zu überkochen drohen."
- FIN_ukrainian_grain_imports_idea: "Ukrainische Getreideimporte"
- FIN_ukrainian_grain_imports_idea_desc: "Da Finnland sich für den Anbau bestimmter Grasarten nicht eignet, war Finnland gezwungen, sich bei Getreideimporten auf die Ukraine zu verlassen, um nicht mit einem Mangel an Nahrungsmitteln für seine Bevölkerung konfrontiert zu werden. Und während die Ukraine oft als "Brotkorb Europas" bezeichnet wird und über die Ressourcen im Überfluss verfügt, ist unser Vertrauen in ihr Getreide bestenfalls ungewiss, da unvorhergesehene zukünftige Umstände die Nation dazu zwingen könnten, die Getreidetransporte zu verlangsamen oder ganz einzustellen, was uns in eine schlechte Situation bringt."
- FIN_reduced_ukrainian_grain_imports_idea: "Reduzierte ukrainische Getreideimporte"
- FIN_black_monday_idea: "Schwarzer Montag"
+ 
  FIN_labour_strike_idea: "Arbeitsstreiks"
  FIN_finnish_sovereignty_idea: "Finnische Souveränität"
  FIN_favouring_the_workers_idea: "Begünstigte Arbeiter"
@@ -896,52 +778,29 @@
  FIN_educating_the_citizenry_idea: "Aufklärung der Bürger"
  FIN_economic_liberalism_idea: "Wirtschaftsliberalismus"
  FIN_expanded_state_police_idea: "Erweiterte Staatspolizei"
- FIN_military_costs_idea: "Militärkosten"
  FIN_the_white_guard_idea: "Die Weiße Garde"
  FIN_red_cross_idea: "Das Rote Kreuz"
- FIN_bank_of_finland_idea: "Bank von Finnland"
- FIN_taistelukoulu_idea: "Taistelukoulu"
- FIN_artillery_effort_idea: "Artillerie-Bemühung"
- FIN_a_disciplined_army_idea: "Eine disziplinierte Armee"
- FIN_jaeger_troops_idea: "Jäger-Truppen"
- FIN_reorganised_mobilisation_structure_idea: "Reorganisierte Mobilisierungsstruktur"
- FIN_cold_weather_training_idea: "Kaltwettertraining"
- FIN_sisu: "Sisu"
- FIN_sisu_desc: "Sisu ist ein typisch finnischer Ausdruck für die Widerstandsfähigkeit der Menschen in diesem Land. Finnland hat harte Zeiten erlebt und wird sie wieder erleben."
- FIN_total_defence_idea: "Totale Verteidigung"
- FIN_kaiserliche_werft_kiel_idea: "Kaiserliche Werft Kiel"
- FIN_naval_costs_idea: "Marinekosten"
- FIN_wartsila_idea: "Wärtsilä"
- FIN_pilot_training_idea: "Pilotenausbildung"
- FIN_aerial_costs_idea: "Flugkosten"
- FIN_finnish_aircraft_payments_idea: "Finnische Flugzeugzahlungen"
- FIN_lentosotakoulu_idea: "Lentosotakoulu"
- FIN_working_with_landowners_idea: "Arbeiten mit Landbesitzern"
- FIN_land_reform_idea: "Bodenreform"
- FIN_russian_grain_imports_idea: "Russische Getreideimporte"
- FIN_lack_of_grain_idea: "Mangel an Getreide"
- FIN_solving_the_grain_issue_idea: "Das Getreideproblem lösen"
- FIN_providing_raw_materials_idea: "Bereitstellung von Rohstoffen"
- FIN_assert_neutrality_idea: "Neutralität"
  FIN_progressive_taxation_idea: "Progressive Besteuerung"
  FIN_constitution_of_finland_idea: "Republikanische Verfassung"
- FIN_german_weapon_imports: "Deutsche Waffenimporte"
- FIN_state_railways_idea: "Staatliche Eisenbahninvestitionen"
+
+ FIN_grain_issue: "Die Getreidefrage"
+ FIN_black_monday_idea: "Schwarzer Montag"
+ FIN_relief_fortification_work_idea: "$FIN_relief_fortification_work$"
+ FIN_road_building_programme_idea: "$FIN_road_building_programme$"
+ FIN_nationalised_banking_system: "Nationalisiertes Bankensystem"
+ FIN_oy_alkoholiliike: "Oy Alkoholiliike"
+
+ FIN_suomen_maavoimat: "Suomen Maavoimat (Finnische Landstreitkräfte)"
+ FIN_suomen_ilmavoimat: "Suomen Ilmavoimat (Finnische Luftstreitkräfte)"
+ FIN_suomen_merivoimat: "Suomen Merivoimat (Finnische Marine)"
+ FIN_industrial_modernisation: "Industrielle Modernisierung"
+ FIN_merchant_marine: "Handelsmarine"
+ FIN_joint_german_finnish_naval_projects: "Gemeinsame Deutsch-Finnische Marineprojekte"
 
 ### Flags ### 
- FIN_rebellion_prevented: "Rebellion verhindert"
- FIN_lapua_movement_victory: "Die Lapua-Bewegung ist an der Macht"
- FIN_monarchist_victory: "Die Monarchisten sind an der Macht"
- FIN_national_coalition_victory: "Die Nationale Koalition ist an der Macht"
- FIN_socialist_victory_flag: "Die Sozialisten sind an der Macht"
- FIN_mannerheim_victory: "Mannerheim ist an der Macht"
- FIN_social_democrat_victory: "Die Sozialdemokraten sind an der Macht"
- FIN_red_earth_victory: "Die Rote-Erde-Regierung ist an der Macht"
- FIN_agrarian_victory: "Die Agrarier sind an der Macht"
- FIN_finland_is_stable: "Finnland ist wieder stabil"
  FIN_red_guard_weakening_success: "Die Rote Garde wurde geschwächt"
  FIN_red_guard_weakening_fail: "Die Rote Garde bleibt stark"
- FIN_black_monday_flag: "Der Schwarze Montag hat Finnland getroffen"
+ FIN_black_monday_decision_ongoing: "Eine weitere Maßnahme zum Schwarzen Montag läuft derzeit"
 
 ### Tooltips ### 
  FIN_democracy_triumphant_tooltip: "§GDie Sozialdemokraten, Agrarier oder eine Koalitionsregierung müssen an der Macht sein, damit dieser Fokus aktiviert wird§!."
@@ -949,19 +808,33 @@
  FIN_the_rebellion_succeeds_tooltip: "§RDie Lapua-Bewegung muss an der Macht sein, damit dieser Fokus aktiviert wird§!."
  FIN_the_old_order_tooltip: "§YDie Nationale Koalition muss an der Macht sein, damit dieser Fokus aktiviert wird§§!."
  FIN_mannerheims_ascendancy_tooltip: "§YMannerheim muss an der Macht sein, damit dieser Fokus aktiviert wird§!."
- FIN_proclaim_greater_finland_tooltip: "Alle unsere territorialen Ambitionen müssen erfüllt sein, um §YGroßfinnland§! zu proklamieren."
- FIN_unlock_foreign_policy_focus: "Dieser Fokus wird nach §Y1938§! und §YVervollständigung eines Politikbaumes§! freigeschaltet."
- FIN_greater_finland_tooltip: "Finnland wird jetzt als §YGroßfinnland§! bezeichnet.\n"
  FIN_disband_the_red_guard_tooltip: "§RWir werden versuchen, die Rote Garde aufzulösen§!."
  FIN_favour_workers_tooltip: "§YWir haben beschlossen, uns auf die Seite der Arbeiter zu stellen§!."
  FIN_favour_farmers_tooltip: "§YWir haben beschlossen, uns auf die Seite der Landwirte zu stellen§!."
- FIN_tt_finish_democratic_tree: "§RVervollständige „Ein stabiles Finnland“ oder “Ein gemäßigtes Finnland“, um die Außenpolitik freizuschalten§!."
- air_ace_generation_chance_factor_research: "Fliegerass Erzeugungschance"
- FIN_gercl_tt: "In Helsinki werden zwei Kreuzer erschaffen."
- FIN_civships_tt: "In Helsinki werden drei Schiffe aus der Zeit des Bürgerkriegs erschaffen."
- FIN_oldswe_tt: "50 veraltete Kampfflugzeuge werden empfangen."
- FIN_ger_blueprints_tt: "Deutsche Marine Blaupausen"
- FIN_remilitarise_bonus_tt: "§CWenn [145.GetName] nicht mehr §Ydemilitarisiert§! ist, erhalten wir außerdem die folgenden Boni:§!"
+
+ FIN_modify_maavoimat: "Ändern Sie §Y$FIN_suomen_maavoimat$§! um"
+ FIN_modify_ilmavoimat: "Ändern Sie §Y$FIN_suomen_ilmavoimat$§! um"
+ FIN_modify_merivoimat: "Ändern Sie §Y$FIN_suomen_merivoimat$§! um"
+
+ FIN_suomen_maavoimat_custom_modifier_tooltip: "[FIN_GetMaavoimatCustomModifierTooltip]"
+ FIN_maavoimat_custom_modifier_all: "$tech_strengthened_support_companies_effect_tooltip$\n$tech_extensive_reconaissance_effect_tooltip$\n$tech_anti_armour_tactics_effect_tooltip$"
+ FIN_maavoimat_custom_modifier_support_recon: "$tech_strengthened_support_companies_effect_tooltip$\n$tech_extensive_reconaissance_effect_tooltip$"
+ FIN_maavoimat_custom_modifier_support_tactics: "$tech_strengthened_support_companies_effect_tooltip$\n$tech_anti_armour_tactics_effect_tooltip$"
+ FIN_maavoimat_custom_modifier_recon_tactics: "$tech_extensive_reconaissance_effect_tooltip$\n$tech_anti_armour_tactics_effect_tooltip$"
+
+ FIN_suomen_merivoimat_custom_modifier_tooltip: "[FIN_GetMerivoimatCustomModifierTooltip]"
+ FIN_screen_production_bonus: "§Y$screen_ship$§!: £GFX_production_cost  Produktionskosten:  [?-0.1|=-%]"
+
+ FIN_increases_export_fleets_rewards: "§CDie Vervollständigung dieses Schwerpunktes erhöht die durch den Schwerpunkt gewährten Effekte §Y$FIN_expand_export_fleets$§!§!."
+ FIN_export_fleets_extra_rewards_andros: "§CDie Vervollständigung des Schwerpunktes §Y$FIN_expand_andree_rosenqvist$§! wird die Wirkung dieses Schwerpunktes auf erhöhen:§!"
+ FIN_export_fleets_extra_rewards_bases: "§CDie Vervollständigung des Schwerpunktes §Y$FIN_baltic_naval_bases$§! wird die Wirkung dieses Schwerpunktes auf erhöhen:§!"
+ FIN_export_fleets_extra_rewards_crichton: "§CDie Vervollständigung des Schwerpunktes §Y$FIN_expand_crichton_vulcan$§! wird die Wirkung dieses Schwerpunktes auf erhöhen:§!"
+ FIN_export_fleets_extra_rewards_bases_crichton: "§CDie Fertigstellung der Schwerpunkte §Y$FIN_baltic_naval_bases$§! und §Y$FIN_expand_crichton_vulcan$§! erhöht die Wirkung dieses Schwerpunkts jeweils auf ein Maximum von:§!"
+ FIN_export_fleets_extra_rewards_andros_bases: "§CDie Fertigstellung der Schwerpunkte §Y$FIN_expand_andree_rosenqvist$§! und §Y$FIN_expand_crichton_vulcan$§! erhöht die Wirkung dieses Schwerpunkts jeweils auf ein Maximum von:§!"
+ FIN_export_fleets_extra_rewards_all: "§CDie Fertigstellung der Schwerpunkte §Y$FIN_expand_andree_rosenqvist$§!, §Y$FIN_baltic_naval_bases$§! und §Y$FIN_expand_crichton_vulcan$§! erhöht die Wirkung dieses Schwerpunkts jeweils auf ein Maximum von:§!"
+ 
+### Dynamic Modifiers ###
+ FIN_karelian_fortifications_modifier: "Karelian Fortifications"
 
 ### Opinion Modifiers ### 
  FIN_curtailed_swedish_rights: "Eingeschränkte schwedische Rechte"
@@ -974,18 +847,23 @@
  FIN_economic_ties_reichspakt: "Wirtschaftliche Bande"
 
 ### Decisions ###
- FIN_reinforce_the_mannerheim_line: "Verstärkung der Mannerheim-Linie"
- FIN_reinforce_the_mannerheim_line_desc: "Die Mannerheim-Linie, eine während des russischen Bürgerkriegs errichtete Verteidigungslinie, war von zentraler Bedeutung für die Abschreckung der Russen im Osten. Sie wurde jedoch seit geraumer Zeit nicht mehr modernisiert, und ihr Alter macht sich langsam bemerkbar. Wir sollten ihre Modernisierung in Betracht ziehen."
  FIN_join_nordic_council: "[FROM.GetFactionName] beitreten"
  FIN_join_nordic_council_desc: "[FROM.GetFactionName] wurde von den Demokratien Dänemarks, Norwegens und Schwedens gegründet, um externe Mächte davon abzuhalten, in die Region einzudringen. Sollten wir uns bewerben, um der Allianz beizutreten, da wir den Wunsch teilen, ausländische Akteure wie Russland außerhalb der skandinavischen Region zu halten?"
   FIN_join_nordic_federation: "Beitritt zur Nordischen Föderation ersuchen"
  FIN_join_nordic_federation_desc: "Unsere dänischen, norwegischen und schwedischen Brüder haben sich zusammengeschlossen. Als nordisches Land können wir jederzeit einen Antrag auf Beitritt zur Föderation stellen, obwohl dies dazu führen wird, dass ein Teil unserer Souveränität aufgegeben wird."
  FIN_join_reichspakt: "Dem Reichspakt beitreten"
- fin_join_internationale: "Der Dritten Internationale beitreten"
- fin_join_internationale_desc: "Der finnische Arbeiter hat sich befreit, aber unsere Feinde sind zahlreich und Millionen, wenn nicht Milliarden von Arbeitern schwitzen immer noch unter reaktionärer kapitalistischer Unterdrückung. Wir sollten uns um ihrer willen dem internationalen Kampf anschließen!"
+ FIN_join_internationale: "Der Dritten Internationale beitreten"
+ FIN_join_internationale_desc: "Der finnische Arbeiter hat sich befreit, aber unsere Feinde sind zahlreich und Millionen, wenn nicht Milliarden von Arbeitern schwitzen immer noch unter reaktionärer kapitalistischer Unterdrückung. Wir sollten uns um ihrer willen dem internationalen Kampf anschließen!"
  
- FIN_integration_decisions: "Territoriale Integration"
- FIN_join_faction_decisions: "Außenpolitik"
+ FIN_attack_russia: "Angriff [FROM.GetName]"
+ FIN_attack_scandinavia: "Angriff [FROM.GetName]"
+
+ FIN_black_monday_decisions: "Schwarzer Montag erreicht Finnland"
+ FIN_relief_fortification_work: "Hilfsbefestigungsarbeiten"
+ FIN_road_building_programme: "Straßenbauprogramm"
+ FIN_forgive_farmer_debts: "Erlass von Bauernschulden"
+ FIN_seek_new_markets: "Suche nach neuen Märkten"
+ FIN_inflation_control_measures: "Maßnahmen zur Inflationskontrolle"
 
 ### Country Names ###
  FIN: "Finnland"

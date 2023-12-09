@@ -8,6 +8,7 @@
 
  MIE_decisions: "Osteuropäische Verteidigungskooperation"
  MIE_decisions_desc: "[219.owner.GetNameDefCap] wurde wieder aufgebaut - und die Souveränität der osteuropäischen Staaten ist bedroht. Wenn der Zweite Weltkrieg beginnt, werden wir uns gegen den russischen Ansturm behaupten müssen-und wenn wir nicht zusammenarbeiten, werden wir einer nach dem anderen untergehen.\n\n Nachdem [RUS.GetNameDef] seinen Außenpolitik-Fokusbaum freischaltet,erhalten alle östlichen Mitglieder des Reichspakts die Fähigkeit, §YRessourcen zusammenzulegen§! und sie unter den Mitgliedsstaaten zu verteilen, um Schwachstellen auszumerzen. Die Nation, die für die Verteilung der Ressourcen verantwortlich ist, kann in andere Mitgliedsstaaten investieren, um §YBefestigungen zu bauen§!, §YDivisionen auszuheben§! und vorteilhafte §YNationalgeister§! zu verteilen.\n\nDerzeit gesammelte Ressourcen:\n    £rifle_texticon  Infanterieausrüstung: §Y[?global.MIE_infantry_equipment]§!\n    £support_texticon  Zusatzausrüstung: §Y[?global.MIE_support_equipment]§!\n    £unit_artillery_icon_small  Artillerie: §Y[?global.MIE_artillery_equipment]§!\n\n[MIE_leader.GetNameWithFlag] ist derzeit dafür verantwortlich, die Ressourcen zu verteilen."
+ MIE_intermarium_active: "Die §YOsteuropäische Verteidigungskooperation§! ist aktiv."
 
  MIE_decisions_GER: "Ostpolitik"
  MIE_decisions_GER_desc: "Der Osten unseres Reiches erstreckt sich von der Ostsee bis zum Schwarzen Meer. Die Oststaaten, unsere de facto Satellitenstaaten, werden zur einen Hälfte durch unsere militärische Stärke und zur anderen durch ihre Angst vor den Russen im Zaum gehalten. Wir sollten ihre politische Entwicklungen stets im Auge behalten und, falls nötig, entsprechend reagieren.\n\n[POL_in_RP]"
@@ -37,7 +38,7 @@
  POL_GER_sell: "Verkauft unsere polnischen Besitztümer"
  POL_GER_sell_desc: "Einige unserer wirtschaftlichen Erwerbe in Polen waren nicht so nützlich, wie wir uns anfangs erhofften. Glücklicherweise gibts es zahlreiche österreichische, tschechische und polnische Geschäftsmänner, die sie uns nur allzu gern abkaufen würden."
  POL_GER_lobby: "Pro-Monarchistische Kampagne in Polen"
- POL_GER_lobby_desc: "[POL.GetLeader] ist zwar nicht gerade der beliebteste aller Könige, doch es gibt nichts, was unsere Werbespezialisten nicht beheben können."
+ POL_GER_lobby_desc: "[POL.GetLeader] ist zwar nicht gerade der beliebteste aller Könige, doch das ist nichts, was unsere Werbespezialisten nicht beheben könnten."
 
  POL_GER_promises: "Versprecht Polen Autonomie"
  POL_promise_tt: "§CPolens Loyalität wird stark erhöht werden.§!"

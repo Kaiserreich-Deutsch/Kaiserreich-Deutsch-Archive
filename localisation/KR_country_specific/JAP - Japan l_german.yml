@@ -156,6 +156,9 @@
  JAP_nihon_jiyuto: "Jiyūtō"
  JAP_nihon_jiyuto_long: "Nihon Jiyūtō (Liberale Partei Japans)"
 
+ JAP_nihon_shakaito: "Shakaitō"
+ JAP_nihon_shakaito_long: "Nihon Shakaitō (Japanische Sozialistische Partei)"
+
 ### Research Groups ###
  japan_research_name: "Rikagaku Kenkyūsho"
  japan_research_desc: "Rikagaku Kenkyūsho ist der wissenschaftliche Flügel der Ko-Wohlstandssphäre, der dazu beitragen soll, unsere Kolonien und Verbündeten zu entwickeln."
@@ -274,8 +277,8 @@
  JAP_Imperial_Family_powerless_desc: "Der Kongress hat beschlossen, die kaiserlichen Titel der Familie Yamato abzuschaffen. Der Kaiser und seine Familie besitzen nun den Status eines Bürgers wie wir alle. Dieser Schritt hat einen großen Teil unserer Bevölkerung davon überzeugt, den Sozialismus und das neue Regime zu unterstützen."
  JAP_country_unrest: "Landesweite Unruhen"
  JAP_country_unrest_desc: "Die Abschaffung der Monarchie hat Teile der japanischen Gesellschaft empört: Einige Städte sind ins Chaos gestürzt, und das Militär weigert sich, das neue Regime zu akzeptieren. Hoffentlich wird die Zeit alle Wunden heilen."
- 	JAP_shattered_people_idea: "Zerrüttete Menschen"
- 	JAP_shattered_people_idea_desc: "Seit Jahrhunderten hat das japanische Volk seinem Kaiser unerschütterliche Unterstützung und Vertrauen entgegengebracht. Das Land Japan war nie zuvor untergegangen, aber all diese Überzeugungen sind in einer Kaskade zerbrochener Träume und des Vertrauens zerbrochen, da die japanischen Heimatinseln nun zum ersten Mal vollständig besetzt sind. Es wird großer Anstrengungen bedürfen, um das Vertrauen des japanischen Volkes wiederherzustellen und die Gefühle von Defätismus und Pessimismus zu bekämpfen."
+ JAP_shattered_people_idea: "Zerrüttete Menschen"
+ JAP_shattered_people_idea_desc: "Seit Jahrhunderten hat das japanische Volk seinem Kaiser unerschütterliche Unterstützung und Vertrauen entgegengebracht. Das Land Japan war nie zuvor untergegangen, aber all diese Überzeugungen sind in einer Kaskade zerbrochener Träume und des Vertrauens zerbrochen, da die japanischen Heimatinseln nun zum ersten Mal vollständig besetzt sind. Es wird großer Anstrengungen bedürfen, um das Vertrauen des japanischen Volkes wiederherzustellen und die Gefühle von Defätismus und Pessimismus zu bekämpfen."
  JAP_devastated_national_economy_idea: "Zerstörte Volkswirtschaft"
  JAP_devastated_national_economy_idea_desc: "Japans beispiellose Niederlage und totale Kapitulation vor einem ausländischen Besatzer hat zum Zusammenbruch der gesamten japanischen Wirtschaft geführt. Trotz des wirtschaftlichen Chaos, das auf den Fall von Mantetsu folgte, gibt es in der japanischen Geschichte keine größere wirtschaftliche Katastrophe als die vollständige Besetzung und die Aussetzung aller wirtschaftlichen Aktivitäten. Die Wirtschaft des Landes taumelt und stöhnt unter der Last der Schulden und der fehlenden Investitionen, und es wird lange dauern, bis sich die japanische Wirtschaft vollständig erholt hat."
  JAP_disarmed_nation_idea: "Entwaffnete Nation"
@@ -284,8 +287,8 @@
  JAP_jpel_influence_idea_desc: "Die Japanische Volksemanzipationsliga (JPEL) besteht aus japanischen Soldaten, die beschlossen haben, sich der Kuomintang zu ergeben, und aus Flüchtlingen, die aus unserem Land fliehen. Die JPEL steht allen offen und vereint viele verärgerte Bürger unseres Landes mit dem Versprechen eines neuen Aufbruchs in Japan, der das Ende des Militarismus einläuten wird. Die Übertritte zur JPEL haben unsere Moral und Entschlossenheit gebrochen."
 
  # Sozialistisch & CHI KMT
- 	JAP_sister_republic_idea: "Schwester Republik"
- 	JAP_sister_republic_idea_desc: "Trotz des Terrors, den die Japaner über das chinesische Volk gebracht haben, haben die Jahre der Vormundschaft durch die Chinesen die Japaner inspiriert, ihre eigene Form der nationalen Revolution zu verwirklichen. Indem sie den Drei Grundsätzen des Volkes folgen, werden auch sie zu Kameraden im großen panasiatischen Kampf gegen den Imperialismus. Nach dem Chaos und der Demütigung der Niederlage befindet sich Japan nun auf dem Weg zu einem neuen Schicksal - einem Schicksal, das sich vom Imperialismus lossagt und die Solidarität mit seinen sozialistischen Schwestern und Brüdern sucht."
+ JAP_sister_republic_idea: "Schwester Republik"
+ JAP_sister_republic_idea_desc: "Trotz des Terrors, den die Japaner über das chinesische Volk gebracht haben, haben die Jahre der Vormundschaft durch die Chinesen die Japaner inspiriert, ihre eigene Form der nationalen Revolution zu verwirklichen. Indem sie den Drei Grundsätzen des Volkes folgen, werden auch sie zu Kameraden im großen panasiatischen Kampf gegen den Imperialismus. Nach dem Chaos und der Demütigung der Niederlage befindet sich Japan nun auf dem Weg zu einem neuen Schicksal - einem Schicksal, das sich vom Imperialismus lossagt und die Solidarität mit seinen sozialistischen Schwestern und Brüdern sucht."
  JAP_communist_republic_of_japan_idea: "Kommunistische Republik Japan"
  JAP_communist_republic_of_japan_idea_desc: "Allen Widrigkeiten zum Trotz haben die Kommunisten in Japan eine echte Volksrepublik geschaffen - eine Volksregierung, die den Arbeitern und Bauern Japans verpflichtet ist. Sie werden nicht länger durch die feudalen Ketten des Kaisers und seines Hofes gefesselt sein, noch sind sie gezwungen, den Launen der kapitalistischen Militaristen zu dienen. Eine neue Morgendämmerung und eine neue Sonne gehen über Asien auf, denn das Volk hat sich wirklich erhoben!"
  JAP_the_revolution_successful_idea: "Die Revolution: Erfolgreich"
@@ -330,7 +333,7 @@
  # Entscheidungen
  JAP_expand_tamano_shipyards: "Tamano-Werften ausbauen"
  JAP_expand_kure_naval_arsenal: "Marinearsenal Kure ausbauen"
- JAP_expand_yokosuka_naval_arsenal: "Marinearsenal Tokosuka ausbauen"
+ JAP_expand_yokosuka_naval_arsenal: "Marinearsenal Yokosuka ausbauen"
  JAP_expand_sasebo_naval_arsenal: "Marinearsenal Sasebo ausbauen"
  JAP_expand_maizuru_naval_arsenal: "Marinearsenal Maizuru ausbauen"
  # Ideen
@@ -427,6 +430,8 @@
  JAP_NSA: "Das Nationale Sicherheitsgesetz wird verabschiedet."
  JAP_NO_NSA: "Das Nationale Sicherheitsgesetz wurde nicht verabschiedet."
  JAP_showa_tree: "Nachdem das Gesetz nicht verabschiedet wurde, führten restauratorische Armeeoffiziere einen Putsch durch."
+ JAP_milcentralism_tree: "Die japanische Armee stürzte die Regierung nach der Verabschiedung des Nationalen Sicherheitsgesetzes."
+ JAP_dem_tree: "Japan war nach der Verabschiedung des Nationalen Sicherheitsgesetzes eine Demokratie geblieben."
  emperor_support_agree: "Der Kaiser unterstützte die Regierung."
  emperor_support_disagree: "Die Armee hat die Regierung gestürzt, da sie keine Unterstützung durch den Kaiser erhalten hat."
  democracy_failed_coup: "Ein Versuch, die Regierung zu putschen, war erfolglos."

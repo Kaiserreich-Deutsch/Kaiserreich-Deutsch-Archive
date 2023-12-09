@@ -291,7 +291,7 @@
  HOL_extend_unemployment_sub: "Arbeitslosenzuschüsse erhöhen"
  HOL_extend_unemployment_sub_desc: "Infolge des Schwarzen Montags sind mehr Menschen arbeitslos als je zuvor. Die konservativen und vor allem die liberalen Regierungen der letzten Jahrzehnte haben zwar eine Grundsubventionierung der Arbeitslosigkeit eingeführt, aber sie hatten Angst, die Arbeit zu erschweren, wenn sie die Sätze zu hoch ansetzten; in Verbindung mit der Inflation ist es unmöglich, von diesen Subventionen zu leben."
  HOL_rijksweg_12: "Reichsweg 12 fertigstellen"
- HOL_rijksweg_12_desc: "Bereits in der deutschen Glanzzeit unter Tirpitz gab es Pläne für den Bau einer Autobahn, die Den Haag mit der deutschen Grenze verbinden sollte, die jedoch nur bis Oudenrijn reichte. Die Verlängerung des Reichswegs bis zur deutschen Grenze wäre ein starkes Symbol für das Engagement unserer Regierung für andere nationale Infrastrukturprojekte."
+ HOL_rijksweg_12_desc: "Bevor der Schwarze Montag die goldene deutsche Ära beendete, gab es bereits Pläne für den Bau einer Autobahn, die Den Haag mit der deutschen Grenze verbinden sollte, die jedoch nur bis Oudenrijn reichte. Die Verlängerung des Reichswegs bis zur deutschen Grenze wäre ein starkes Symbol für das Engagement unserer Regierung für andere nationale Infrastrukturprojekte."
  HOL_trade_missions: "Handelsmissionen"
  HOL_trade_missions_desc: "Handelsmissionen, die darauf abzielen, eine Einigung mit ausländischen Regierungen und Unternehmen zu erzielen, sind eine gute Möglichkeit, die Reichweite der niederländischen Wirtschaft zu vergrößern und den derzeitigen wirtschaftlichen Abschwung möglicherweise zu mildern."
  HOL_loan_to_shell: "Darlehen an Shell"
@@ -2010,7 +2010,7 @@
  holfocus.68.a: "Kein Syndikalist darf einen Fuß jenseits des Rheins setzen!"
 
  holfocus.69.t: "[FROM.GetNameDefCap] Sucht eine Allianz"
- holfocus.69.d: "Die [FROM.GetAdjective] haben ihren Wunsch geäußert, der [ROOT.GetFactionName]. beizutreten. Wie sollen wir darauf reagieren?"
+ holfocus.69.d: "Die [FROM.GetAdjective] haben ihren Wunsch geäußert, der [ROOT.GetFactionName] beizutreten... wie sollen wir darauf reagieren?"
  holfocus.69.a: "Willkommen!"
  holfocus.69.b: "Wir brauchen sie nicht."
 

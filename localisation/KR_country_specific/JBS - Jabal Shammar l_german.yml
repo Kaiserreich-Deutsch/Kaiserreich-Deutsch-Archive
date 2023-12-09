@@ -198,8 +198,8 @@
  jbs_ajman_tt: "£nato_unit_cavalry_icon_small Erhaltet 1 §YKavallerie-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YSumman§!, sobald der §REinigungskrieg§! gegen §G[SAU.GetNameWithFlag]§! beginnt.\n\n£nato_unit_infantry_icon_small Erhaltet 1 §YMiliz-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YSumman§!, sobald der §REinigungskrieg§! gegen §G[SAU.GetNameWithFlag]§! beginnt.\n\n£army_experience Erhaltet einen §GStufe 1 General§! namens §YZaidan ibn Hithlain§!.\n"
  jbs_utaibah_tt: "£nato_unit_cavalry_icon_small Erhaltet 1 §YKavallerie-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YQasim§!, sobald der §REinigungskrieg§! gegen §G[SAU.GetNameWithFlag]§! beginnt.\n\n£nato_unit_infantry_icon_small Erhaltet 1 §YMiliz-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §YQasim§!, sobald der §REinigungskrieg§! gegen §G[SAU.GetNameWithFlag]§! beginnt.\n\n£army_experience Erhaltet einen §GStufe 1 General§! namens §YAbd al-Rahman ibn Rubayin§!.\n"
  jbs_awazim_tt: "£nato_unit_infantry_icon_small Erhaltet 1 §YMiliz-Division§! mit dem Erfahrungslevel Rekrut und Ausrüstung aus dem Jahre 1918 in §Yal-Hasa§!, sobald der §REinigungskrieg§! gegen §G[SAU.GetNameWithFlag]§! beginnt.\n"
- jbs_may_lose_atf_tt: "Deaktiviert Entscheidung: £decision_icon_small §Y$JBS_Ottoman_Weapons_Assistance$§!. Sollten wir diese Entscheidung bereits getroffen haben, wenn dieser Schwerpunkt gesetzt wird, verlieren wir die von ihm vorgesehene §YMilitärfabrik§! auserhalb der Karte."
- jbs_will_lose_atf_tt: "Da die ATF nicht bereit ist, mit den Feinden der Erhabenen Pforte Geschäfte zu machen, verlieren wir die §YMilitärfabrik§!, durch die £decision_icon_small §Y$JBS_Ottoman_Weapons_Assistance$§! Entscheidung."
+ jbs_may_lose_atf_tt: "Deaktiviert Entscheidung: £decision_icon_small §Y$JBS_Ottoman_Weapons_Assistance$§!. Sollten wir die Entscheidung zur Fertigstellung des Schwerpunkts bereits aktiviert haben, werden wir die §YMilitärfabrik§! verlieren, die sie uns gewährte."
+ jbs_will_lose_atf_tt: "Da die ATF keine Feinde der Hohen Pforte unterstützt, werden wir die §YMilitärfabrik§! verlieren, die uns die £decision_icon_small Entscheidung §Y$JBS_Ottoman_Weapons_Assistance$§! gewährte."
  
  JBS_effect_after_picking_company: "Wir erhalten den folgenden Effekt, nachdem wir uns für ein Unternehmen entschieden haben:"
 
@@ -263,6 +263,8 @@
  JBS_trading_expertise_idea: "Handelsprinzen von Ha'il"
  JBS_trading_expertise2_idea: "Handelsprinzen von Ha'il"
  JBS_radiant_prestige_idea: "Strahlendes Prestige"
+ JBS_defense_from_sau: "Verteidigung gegen Nadschd"
+ JBS_defense_from_sau_desc: "Ein Krieg gegen die Hunde im Süden scheint unausweichlich. Es ist an der Zeit, dass all unsere Männer zur Verteidigung ihres Heimatlandes zu den Waffen greifen."
  JBS_new_arabian_army: "Rashidische Direktion militärischer Angelegenheiten"
  JBS_arabian_horsemanship_idea: "Königliche Abteilung für Pferdezucht"
  JBS_arabian_horsemanship_idea_desc: "Unsere Reiter, ausgerüstet mit den stärksten Rossen und kampfgestählt durch mehrere Jahre der Überfälle, werden uns in unserem Krieg um die Welt beistehen."
@@ -407,10 +409,10 @@
  JBS_Motor_Transport_Radio_Department_desc: "Einen solch großen Staat wie den unseren zu regieren ist eine gigantische Aufgabe, vor allem, wenn dieser nahezu keine Straßen und die Regierung noch weniger Kontrolle über ihre Bürger besitzt. Durch die Erfindung des Trucks und des Radios können wir diese Aufgabe allerdings trotz aller Schwierigkeiten bewältigen. Um unsere Bemühungen in diesem Bereich weiter voranzutreiben, wurde das 'Ministerium für Kraftverkehr & Radios' als Zweig des Innenministeriums eingerichtet."
  JBS_General_Directorate_Police: "Generaldirektion der Polizei"
  JBS_General_Directorate_Police_desc: "Die Madschlis al Wukala hat die Schaffung einer Generaldirektion der Polizei angeordnet, welche auf dem generellen Sicherheitsausschuss Mekkas basieren soll, der während des Kriegs kreiert wurde und zu großen Teilen aus Überbleibseln der osmanischen Gendarmerie bestand. Um zu garantieren, dass immer genug Offiziere bereitstehen, die dazu in der Lage sind, die Ordung aufrechtzuerhalten, Pilger zu beschützen und gegen den Schmuggel vorzugehen, wird außerdem eine neue Polizeischule in Mekka eröffnet werden."
- JBS_Claim_Asir: "Sicherung unserer Südgrenze"
- JBS_Claim_Asir_desc: "Der Jemen, der sich hinter dem Asir-Gebirge versteckt, steht unserem aufstrebenden Sultanat weiterhin feindlich gegenüber. Aufgrund seiner Nähe zu Hejaz und den Heiligen Städten wird ein möglicher Angriff der Jemeniten immer eine Bedrohung für unsere Sicherheit darstellen. Um unsere neu erworbenen Herrschaftsgebiete angemessen zu verteidigen, müssen wir im Süden zuschlagen und den Jemen ein für alle Mal sichern."
+ JBS_Claim_Asir: "Sicherung der Südfront"
+ JBS_Claim_Asir_desc: "Versteckt hinter den Bergen Asirs macht Jemen noch immer einen Feind unseres aufsteigenden Sultanats aus. Durch seine Nähe zum Hedschas und den heiligen Städten stellt die Möglichkeit eines Angriffs der Jemeniten ein großes Sicherheitsrisiko für unseren Staat dar. Um unsere neuesten Eroberungen verteidigen zu können, müssen wir in den Süden ziehen und den Jemen ein für alle Mal befrieden."
  JBS_Integrate_South: "Integration des jemenitischen Hinterlandes"
- JBS_Integrate_South_desc: "Nach dem erfolgreichen Feldzug gegen den Jemen kontrolliert unser Sultanat nun das Asir-Gebirge und die Region Najran, beides Gebiete, die früher zu den Territorien des Imams gehörten. Während sich der Staub des Krieges legt, ist es von entscheidender Bedeutung, dass wir diese Regionen wirksam in unsere Nation integrieren, damit sie in Friedenszeiten gesichert sind."
+ JBS_Integrate_South_desc: "Durch unsere erfolgreiche Kampagne gegen den Jemen kontrolliert unser Sultanat nun die Berge Asirs und die Wüsten Nadschrans, zwei Regionen, welche ehemals zum Reich des Imams gehörten. Nun, da sich unsere Nation vom Krieg erholt, sollten wir uns bemühen, diese Regionen in unser Land einzugliedern, sodass Frieden und Stabilität herrschen möge."
  JBS_Mudiriya: "Gründung der Mudiriyah"
  JBS_Mudiriya_desc: "Um die wachsenden wirtschaftlichen Bedürfnisse unseres Reiches befriedigen zu können, hat die Regierung beschlossen, die Mudiriyah (eine Generaldirektion für Finanzen) als neue Institution zu etablieren, welche die selbe Autorität wie ein Wikala (Ministerium) besitzen würde. Außerdem wurden bereits einige Finanzexperten aus dem Ausland eingeladen, welche uns bei der Verwaltung unserer Finanzen unterstützen und die Ministerien für Pilgerfahrten, Versorgung, Landwirtschaft und öffentliche Arbeiten beaufsichtigen sollen."
  JBS_Mining_Department: "Ministerium für Petroleum & Bergbau"
@@ -467,7 +469,7 @@
  jbs.10.a: "Richtig so, Nadschds Volk muss wissen wo es hingehört!"
 
  jbs.11.t: "Riad vertreibt die schamamrische Garnison"
- jbs.11.d: "Verärgert von der tyrannischen Regierung des schammarischen Gouverneurs, hat eine kleine Gruppe saudischer Loyalisten unsere Garnison in Riad gestürmt und konnte so, nach einem kurzen Kampf, die Kontrolle über die Stadt an sich reißen. Daraufhin wurde Saud ibn Abdulaziz Al Saud zum neuen Imam Saudi-Arabiens ernannt, welcher sofort Botschafter auf den schnellsten Pferden entsandte, um Krieger von allen Stämmen, die den Saudis noch loyal sind, zu versammeln. Mit seiner neuen Streitmacht will Saud bin Abdulaziz den arabischen Thron an sich reißen und die Herrschaft der Rashiden ein für alle mal zu beenden."
+ jbs.11.d: "Verärgert von der tyrannischen Regierung des schammarischen Gouverneurs hat eine kleine Gruppe saudischer Loyalisten unsere Garnison in Riad gestürmt und konnte so, nach einem kurzen Kampf, die Kontrolle über die Stadt an sich reißen. Daraufhin wurde Saud ibn Abdulaziz Al Saud zum neuen Imam Saudi-Arabiens ernannt, welcher sofort Botschafter auf den schnellsten Pferden entsandte, um Krieger von allen Stämmen, die den Saudis noch loyal sind, zu versammeln. Mit seiner neuen Streitmacht will Saud ibn Abdulaziz den arabischen Thron an sich reißen und die Herrschaft der Rashiden ein für alle mal zu beenden."
  jbs.11.a: "Nicht schon wieder..."
 
  jbs.12.t: "Saudische Krieger folgen dem Ruf zu den Waffen!"

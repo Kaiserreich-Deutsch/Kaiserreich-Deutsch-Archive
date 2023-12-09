@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 ### Country Names ###
 ASY: "Assyrien"
@@ -391,10 +391,12 @@ assyria_events.8.b: "Wir haben keine andere Wahl als nachzugeben..."
 assyria_events.9.t: "[OTT.GetName] weist die Forderungen zurück"
 assyria_events.9.d: "Es überrascht nicht, dass die Erhabene Pforte unser Ultimatum abgelehnt und ihre Operationen in Basra verstärkt hat, um dem assyrischen Aufstand ein schnelles und entscheidendes Ende zu bereiten. Von Ottawa bis [RAJ.Capital.GetCapitalVictoryPointName] mobilisieren sich inoffiziell die Truppen der Entente, um noch einmal an der Seite der assyrischen Leviten zu kämpfen und sowohl ihre Unabhängigkeit als auch, was noch wichtiger ist, die lebenswichtigen Ölvorkommen des Irak zu sichern."
 assyria_events.9.a: "Hoffentlich kann unser Unterstützung helfen, bevor es zu spät ist..." 
+assyria_events.9.b: "Wir müssen dafür sorgen, dass Assyrien nicht fällt! (Spielt als Assyrien)"
 
 assyria_events.10.t: "[OTT.GetName] gibt unseren Forderungen nach"
 assyria_events.10.d: "Aus Angst vor einer weiteren ausgedehnten Militärkampagne in Mesopotamien hat die osmanische Regierung heute früh zurück telegrafiert, dass sie von einer weiteren Einmischung in die assyrische Angelegenheit absehen und den Assyrern ganz offiziell ihre Unabhängigkeit zugestehen wird. Auch wenn sie sich weigern, die Assyrer anzuerkennen, und behaupten, dass Basra Vilayet in seiner Gesamdieit Teil des Osmanischen Reiches bleibt, werden sich die Türken in der Praxis nicht mehr in Basra einmischen."
 assyria_events.10.a: "Ein freudiger Tag für alle!"
+assyria_events.10.b: "Ruhm für Assyrien! (Spielt als Assyrien)"
 
 assyria_events.11.t: "[CAN.GetName] fordert ein Ende der Feindseligkeiten in Basra"
 assyria_events.11.d: "In Fortsetzung ihrer jahrhundertealten Politik der Einmischung in die Angelegenheiten anderer Nationen hat der britische Botschafter die osmanische Regierung aufgefordert, eine friedliche Lösung des assyrischen Debakels zu erörtern.\n\nSie fordern einen sofortigen Rückzug aller osmanischen Streitkräfte aus Basra Vilayet und verlangen ein Ende der Feindseligkeiten mit dem neu ausgerufenen assyrischen Staat. Eine solch lächerliche Forderung kann nicht hingenommen werden, sie würde dem Ansehen der Pforte immensen Schaden zufügen und wahrscheinlich auch zu verstärktem Separatismus in anderen Teilen des Reiches führen, vor allem bei den Griechen und Arabern."
@@ -410,6 +412,9 @@ assyria_events.13.d: "Es überrascht nicht, dass die Erhabene Pforte unseren Vor
 assyria_events.13.a: "Wir sollten es unterlassen, uns einzumischen."
 assyria_events.13.b: "Wir werden senden, was wir können."
 assyria_events.13.c: "Noch einmal in die Bresche springen, liebe Freunde, noch einmal!"
+assyria_events.13.e: "Irgendetwas sagt mir, dass sie das ganz alleine schaffen können... (Spielt als Assyrien)"
+assyria_events.13.f: "Helft ihnen und sorgt für ihren Erfolg! (Spielt als Assyrien)"
+assyria_events.13.g: "Wir dürfen nichts unversucht lassen, um Assyrien zu retten! Alle Mann an Deck! (Spielt als Assyrien)"
 
 assyria_events.14.t: "[CAN.GetName] weigert sich, in unserem Namen einzugreifen"
 assyria_events.14.d: "Ungeachtet der Bitten des Patriarchen selbst hat die Regierung in Ottawa Basra mitgeteilt, "dass ein Konflikt mit der türkischen Regierung nicht erwünscht ist" und dass sie sich daher in keiner Weise in den Konflikt einmischen wird."

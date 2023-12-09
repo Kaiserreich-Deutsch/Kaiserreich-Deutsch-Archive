@@ -126,6 +126,9 @@ QIE_wei_yisan_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g25. Febru
 QIE_zhang_yinwu: "Zhang Yinwu"
 QIE_zhang_yinwu_commander_desc: ""
 
+QIE_tang_xiangming: "Tang Xiangming"
+QIE_tang_xiangming_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1885, in Huangzhou, Hubei, Qing-Reich§!\n§YMilitärkarriere:§! §gDie Karriere von Tang Xiangming begann als Admiral im Qing-Reich. Als 1911 die Xinhai-Revolution ausbrach, stand er unter dem Kommando von Qing-Loyalisten, erkannte aber, woher der Wind wehte, und schlug sich auf die Seite der Revolutionäre. Im Oktober 1913 wurde er von Yuan Shikai zum zivilen Gouverneur von Hunan ernannt und unterstützte dessen Versuche, sich zum Kaiser zu krönen. Da er Yuan unterstützte, musste Tang im Juli 1916 aus Hunan fliehen und schloss sich schließlich 1917 der Zhili-Clique an. Während des zweiten Zhili-Fengtian-Krieges diente er in der militärischen Strafverfolgung. Tang hat sowohl eine Vergangenheit als General als auch als Admiral, was ihm eine einzigartige Mischung von Erfahrungen verleiht, die nur wenige von sich behaupten können."
+
 ## Air Force
 
 ## Navy Staff
@@ -140,8 +143,6 @@ QIE_sa_zhenbing_admiral_desc: "§YAdmiral Beschreibung\nGeboren:§! §g30. März
 
 QIE_aisin_gioro_zaixun: "Aisin-Gioro Zaixun"
 QIE_aisin_gioro_zaixun_admiral_desc: "§YAdmiral Beschreibung\nGeboren:§! §g20. Mai 1885 in Peking, Qing-Reich§!\n§YMarinekarriere:§! §gZaixun wurde in die Linie seines Verwandten Yizhi (1827-1850) aufgenommen, weil Yizhi keinen Sohn hatte, der ihm nachfolgte. Im Jahr 1887 wurde er zum Buru Bafen Fuguo Gong ernannt und wurde 1889 zum Feng'en Fuguo Gong und 1890 zum Feng'en Zhenguo Gong befördert. Im Jahr 1900 wurde Zaixuns Vorgänger Zaiyi, der Yizhi als "Prinz Rui des Zweiter Rang“(später in „Prinz Duan des zweiten Ranges“ umbenannt) geadelt wurde, seinem Adelstitel entzogen und für seine Rolle in der Boxer-Rebellion nach Xinjiang verbannt. Zwei Jahre später folgte Zaixun Zaiyi als Beile des Prinzen Rui Adels. 1908 wurde er zum amtierenden Junwang (Prinz zweiten Ranges) ernannt, blieb aber nominell ein Beile. 1909 wurde Zaixun als amtierender Marineminister in das kaiserliche Kabinett unter der Leitung von Prinz Qing berufen. Später wurde er nach Europa und in die Vereinigten Staaten geschickt, um die Marinen der Westmächte zu studieren. Nach seiner Rückkehr nach China im Jahr 1911 wurde er zum vollen Marineminister. Nach dem Autocoup von Puyi ist er aus dem Ruhestand gekommen, um wieder als Marineminister zu dienen. Obwohl er in seinem Leben noch nie ein Kampfkommando innehatte, wurde ihm ein Admiralsamt zuerkannt. Es bleibt abzuwarten, ob er ein Kriegsschiff im Kampf kompetent kommandieren kann."
-
-QIE_tang_xiangming: "Tang Xiangming"
 
 ### Traits ###
 QIE_puppet_emperor: "Marionettenkaiser"

@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 bhutan_tree: "Schwerpunktbaum von Bhutan"
 
@@ -110,6 +110,7 @@ BHU_Lama_Legacy_desc: "Bhutan wurde von einem weisen Krieger-Lama gegründet, de
 BHU_Bhutan_Raiders: "Räuber von Bhutan"
 
 BHU_drukpa_renaissance: "Drukpa Renaissance"
+BHU_growing_pains: "Wachstumsschmerzen"
 
 ### Economic ###
 
@@ -266,6 +267,7 @@ bhu_feudal_unity_downdowndown: "£decrease_texticon £decrease_texticon £decrea
 bhu_econ_dev_up: "£increase_texticon  §YWirtschaftliche Entwicklung§!\n"
 bhu_econ_dev_down: "£decrease_texticon  §YWirtschaftliche Entwicklung§!\n"
 bhu_econ_dev_upup: "£increase_texticon £increase_texticon  §YWirtschaftliche Entwicklung§!\n"
+bhu_econ_dev_upupup: "£increase_texticon £increase_texticon £increase_texticon  §YWirtschaftliche Entwicklung§!\n"
 bhu_econ_dev_downdown: "£decrease_texticon £decrease_texticon  §YWirtschaftliche Entwicklung§!\n"
 bhu_mil_invest_up: "£increase_texticon  §YMilitärische Investitionen§!\n"
 bhu_mil_invest_down: "£decrease_texticon  §YMilitärische Investitionen§!\n"
@@ -278,9 +280,9 @@ bhu_authority_unlocked: "Schaltet £decision_icon_small §HEntscheidungen§! fre
 bhu_mil_invest_unlocked: "Schaltet £decision_icon_small §HEntscheidungen§! frei, um unsere §HMilitärische Investitionen zu verwalten.§!\n"
 bhu_econ_reform_unlocked: "Schaltet £decision_icon_small §HEntscheidungen§! frei, um unsere §HWirtschaftliche Entwicklung zu verwalten.§!\n"
 BHU_hunt_eu: "Verliert §R10§! Prestige.\n"
-BHU_tp_vic: "§YTshering Penjor§! und sein Kabinett von §RTraditionalistischen§! Verbündeten ergreifen die Macht\n"
-BHU_st_vic: "§YSonam Topgye Dorji§! und seine §RReformistischen§! Verbündeten krönen den Sohn des verstorbenen Königs, §YJigme Dorji Wangchuck§!\n"
-BHU_z_vic: "Der §RLhengye Zhuntshog§! erkennt Zhabdrung §YJigme Dorji§! als zeitweiliger Herrscher von Bhutan an\n"
+BHU_tp_vic: "§YTshering Penjor§! und sein Kabinett von §RTraditionalistischen§! Verbündeten ergreifen die Macht.\n"
+BHU_st_vic: "§YSonam Topgye Dorji§! und seine §RReformistischen§! Verbündeten krönen den Sohn des verstorbenen Königs, §YJigme Dorji Wangchuck§!.\n"
+BHU_z_vic: "Der §RLhengye Zhungtshog§! erkennt Zhabdrung §YJigme Dorji§! als zeitweiliger Herrscher von Bhutan an.\n"
 BHU_final_military_ideas: "Unsere §YMilizen§! oder §YArmee§! wird verbessert!"
 BHU_final_education_ideas: "Unsere §YAkademien§! werden verbessert!"
 BHU_raid_cost_tooltip_10: "£army_experience [?5|H0]"

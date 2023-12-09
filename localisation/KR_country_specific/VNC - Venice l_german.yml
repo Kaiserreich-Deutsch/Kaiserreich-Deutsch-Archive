@@ -1,13 +1,13 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 republic_of_venice: "Schwerpunktbaum von Venedig"
 
 ### Country Names ###
 VNC: "Venedig"
 VNC_ADJ: "Venezianisch"
-VNC_DEF: "Venedig"
+VNC_DEF: "die Durchlauchtigste Republik Venedig"
 
 ### Parties ###
 VNC_totalist_party: "Italia Unita"
@@ -31,21 +31,63 @@ VNC_paternal_autocrat_party_long: "Maggior Consiglio"
 VNC_national_populist_party: "LIV"
 VNC_national_populist_party_long: "Lega Integralisti Veneti"
 
+### Cosmetic Tags
+
+VNC_ITA: "Italien"
+VNC_ITA_ADJ: "Italienisch"
+VNC_ITA_DEF: "Italien"
+
+VNC_ITA_social_democrat: "Durchlauchtigste Republik von Italien"
+VNC_ITA_social_democrat_ADJ: "Italienisch"
+VNC_ITA_social_democrat_DEF: "die Durchlauchtigste Republik von Italien"
+VNC_ITA_social_liberal: "Durchlauchtigste Republik von Italien"
+VNC_ITA_social_liberal_ADJ: "Italienisch"
+VNC_ITA_social_liberal_DEF: "die Durchlauchtigste Republik von Italien"
+VNC_ITA_market_liberal: "Durchlauchtigste Republik von Italien"
+VNC_ITA_market_liberal_ADJ: "Italienisch"
+VNC_ITA_market_liberal_DEF: "die Durchlauchtigste Republik von Italien"
+VNC_ITA_social_conservative: "Durchlauchtigste Republik von Italien"
+VNC_ITA_social_conservative_ADJ: "Italienisch"
+VNC_ITA_social_conservative_DEF: "die Durchlauchtigste Republik von Italien"
+VNC_ITA_authoritarian_democrat: "Durchlauchtigste Republik von Italien"
+VNC_ITA_authoritarian_democrat_ADJ: "Italienisch"
+VNC_ITA_authoritarian_democrat_DEF: "die Durchlauchtigste Republik von Italien"
+VNC_ITA_paternal_autocrat: "Durchlauchtigste Republik von Italien"
+VNC_ITA_paternal_autocrat_ADJ: "Italienisch"
+VNC_ITA_paternal_autocrat_DEF: "die Durchlauchtigste Republik von Italien"
+VNC_ITA_national_populist: "Italienische Nationale Republik"
+VNC_ITA_national_populist_ADJ: "Italienisch"
+VNC_ITA_national_populist_DEF: "die Italienische Nationale Republik"
+
 ### Flags ###
 VNC_old_republic_is_restored: "Die Alte Republik ist wiederhergestellt"
 VNC_new_republic_is_established: "Eine neue Republik ist entstanden"
 
 ### ToolTips ###
 VNC_militia_tt: "Venezianische Rebellenmilizen werden entstehen"
+VNC_intervention: "Das Ausland könnte gegen die Italienische Nationalrepublik intervenieren."
+VNC_accepted_austrian_help_tt: "Es wird uns §Ynicht möglich sein, die Unabhängigkeit Venedigs zu bewahren§!, wenn die ANI besiegt ist."
 VNC_doge_selected_two_weeks: "Der neue Doge wird nach einem zweiwöchigen, komplizierten Wahlverfahren gewählt\n"
 VNC_irridentist_decisions: "Kann irredentistische Entscheidungen für die Staaten an der Adriaküste anwenden\n"
 VNC_may_join_factions: "Kann Entscheidungen nutzen, um Fraktionen beizutreten\n"
+VNC_old_republic_idea_tt: "Ersetzt §Y$VNC_state_inquistors$§!, §Y$VNC_nobility_idea$§! und §Y$VNC_culture_idea$§! durch §Y$VNC_old_republic_idea$§!\nEffektive Nettoveränderung:\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+10%§!\n$MODIFIER_POLITICAL_POWER_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_ORG_FACTOR$: §G+5%§!"
+VNC_new_republic_idea_tt: "Ersetzt §Y$VNC_meritocracy_idea$§!, §Y$VNC_together_idea$§! und §Y$VNC_venetian_welfare_idea$§! durch §Y$VNC_new_republic_idea$§!\nEffektive Nettoveränderung:\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5%§!\n$MODIFIER_STABILITY_FACTOR$: §G+10%§!\n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: §G+5%§!\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-5%§!"
 
 ### Decisions ###
 VNC_join_faction: "Tretet der [From.GetFactionName] bei"
 VNC_join_faction_desc: "Wir müssen einen Abgesandten nach [From.GetNameDef] schicken und um den Beitritt zur [From.GetFactionName] bitten. Es ist die beste Option, die wir zum Schutz und zur Erfüllung unserer nationalen Interessen haben."
 VNC_attack_austria: "Angriff auf die Österreicher"
 VNC_attack_austria_desc: "Die Österreicher klammern sich an die italienische Stadt Triest, die sie nach dem Weltkrieg nicht aufgeben wollten, was an sich schon eine Rechtfertigung für unseren Kriegseintritt ist."
+VNC_unite_italy: "Vereinigt Italien"
+VNC_unite_italy_desc: "Italien ist wieder geeint! Wir müssen daran arbeiten, unsere Nation wieder zu integrieren."
+VNC_attack_italy: "Greift [From.GetNameDef] an"
+VNC_attack_italy_desc: "Die Zeit ist reif für die Vollendung des Risorgimento - wir müssen [From.GetNameDef] vernichten und die unter ihrer Herrschaft lebenden Italiener befreien."
+VNC_invite_into_federation: "Ladt [From.GetNameDef] in [Root.GetNameDef] ein"
+VNC_invite_into_federation_desc: "Da die Bedrohung durch die sozialistische Republik nun gebannt ist, ist es vielleicht an der Zeit, die durch den Bürgerkrieg verursachten Gräben zu überwinden. Da wir auf der italienischen Halbinsel eine eindeutig dominante Position innehaben, ist es an uns, den Weg zu weisen."
+VNC_war_with_ita1: "Drohende Intervention"
+#VNC_war_with_ita1_desc: "The Venetians have risen up against the [Root.GetAdjective] government. We must prove that we are able to deal with them quickly, lest our neighbours grow confident that we are weak enough for them to step in and interfere."
+VNC_war_with_ita2: "Rebellion gegen die Tyrannei"
+#VNC_war_with_ita2_desc: "We have lost control of the situation in Venetia. Now we must deal with foreign intervention, on top of conquering the rebellion itself. If we fail to wrap this up within the next six months, it is likely that the ANI government will collapse."
 
 ### Companies ###
 accademia_navale_venezia_vnc: "Accademia Navale di Venezia"
@@ -60,6 +102,12 @@ sade: "SADE"
 universita_di_verona: "Università di Verona"
 
 ### Ideas ###
+VNC_venetian_welfare_idea: "Venezianische Wohlfahrt"
+VNC_together_idea: "Gemeinsam als Eins"
+VNC_meritocracy_idea: "Meritokratische Grundsätze"
+VNC_new_republic_idea: "Die Wiedergeburt der Republik"
+VNC_state_inquistors_idea: "Inquisitoren der Alten Republik"
+VNC_culture_idea: "Kulturelle Erneuerung"
 VNC_venetian_business_schools: "Venezianische Wirtschaftsschulen"
 VNC_economic_miracle_idea: "Wirtschaftswunder"
 VNC_merchant_marine_idea: "Handelsmarine"
@@ -67,19 +115,18 @@ VNC_aeronautica_militare_idea: "Aeronautica Militare"
 VNC_planning_schools_idea: "Planungsschulen"
 VNC_combined_arms: "Verbundene Waffen"
 VNC_aviation_industry: "Luftfahrtindustrie"
-VNC_venetian_welfare_idea: "Venezianische Wohlfahrt"
-VNC_state_inquistors_idea: "Staatsinquisitoren"
-VNC_state_inquistors_lar_idea: "Staatsinquisitoren"
 VNC_zara_policy_idea: "Wiel's Politik"
 VNC_zara_policy_idea_2: "Thalassokratie"
 VNC_fioravanzo_policy_idea: "Da Zara's Politik"
 VNC_fioravanzo_policy_idea_2: "Da Zara's Politik"
 VNC_riccardi_policy_idea: "Fioravanzo's Politik"
 VNC_riccardi_policy_idea_2: "Fioravanzo's Politik"
-VNC_culture_idea: "Kulturelle Erneuerung"
 VNC_sea_bounty_idea: "Der Reichtum des Meeres"
-VNC_together_idea: "Gemeinsam als Eins"
 VNC_military_confusion: "Militärische Verwirrung"
+VNC_defender_democracy: "Verteidiger der Demokratie"
+VNC_austrian_aid: "Österreichische Hilfe"
+VNC_desperate_defence_idea: "Verzweifelte Verteidigung"
+VNC_defeatist_sentiment: "Defeatistische Stimmung"
 
 ### Political Focuses ###
 VNC_great_council: "Öffnet den Großen Rat"
@@ -128,6 +175,26 @@ VNC_austria: "Seite an Seite mit Österreich"
 VNC_austria_desc: "Als Hegemon der kurzlebigen Republik wäre ein Bündnis mit Österreich natürlich von großem Vorteil."
 VNC_germany: "Seite an Seite mit Deutschland"
 VNC_germany_desc: "Die mächtigste Nation der Welt, Seite an Seite mit den Deutschen, unsere Nation wird sicher frei bleiben!"
+
+### Unification ###
+VNC_unification: "Beginn des Risorgimento"
+VNC_unification_desc: "Die Zeit ist gekommen. Italien, dieses wunderbare Land des Überflusses, wird wieder vereint sein. Viva l'Italia!"
+VNC_naval_exercises: "Marineübungen"
+VNC_naval_exercises_desc: "Als Machtdemonstration und zur Förderung der Seemoral sollten wir eine Reihe von Seemanövern in der Adria veranstalten. Lasst die Feinde unserer Nation erzittern."
+VNC_reenforce_po_line: "Aufbau der Po-Verteidigungslinie"
+VNC_reenforce_po_line_desc: "Die zusammengewürfelten Verteidigungsanlagen, die die Syndikalisten 1920 aufgehalten haben, werden sie jetzt nicht aufhalten. Wir müssen unsere Grenzfestungen und Schützengräben ausbauen, um uns auf einen weiteren Angriff der Sozialisten vorzubereiten."
+VNC_military_exercises: "Militärübungen"
+VNC_military_exercises_desc: "Als Machtdemonstration und zur Förderung der Moral unserer Armee sollten wir eine Reihe von kampfnahen Übungen in der Nähe des Flusses Po veranstalten. Lasst die Feinde unserer Nation erzittern."
+VNC_italy_is_united: "Italien ist vereint"
+VNC_italy_is_united_desc: "Es ist geschafft, Italien, das schöne Italien, ist wieder ganz. In den Herzen aller Patrioten wird dieser Moment für immer in Erinnerung bleiben."
+VNC_naples_officers: "Sizilianische Generäle rekrutieren"
+VNC_naples_officers_desc: "Das sizilianische Offizierskorps, so verabscheuungswürdig sein früherer König auch gewesen sein mag, verfügt zweifellos über viele fähige Generäle. Sollten diese Generäle Italien dienen dürfen?"
+VNC_sardinian_officers: "Sardische Generäle rekrutieren"
+VNC_sardinian_officers_desc: "Viele gute Männer kämpften und starben für Sardinien. Jetzt, da die Wunden des Krieges zu heilen beginnen, muss über das Schicksal der sardischen Generäle entschieden werden."
+VNC_italian_irredentism: "Italienische Irredentismus-Politik"
+VNC_italian_irredentism_desc: "Wenn Italien geeint ist und einige der drängendsten innenpolitischen Fragen gelöst sind, können wir den Blick nach außen richten, vor allem auf die Länder, die von Rechts wegen italienisch sein sollten."
+VNC_a_stable_italy: "Ein stabiles Italien"
+VNC_a_stable_italy_desc: "Unsere Politik ist seit dem Ende des Bürgerkriegs instabil, aber jetzt, mit einer italienischen Republik, die über ganz Italien regiert, können wir endlich die Instabilität beenden, die uns seit Jahren plagt."
 
 ### Economic Focuses ###
 VNC_asseses_the_economy: "Konsuln der Kaufleute"
@@ -234,6 +301,28 @@ VNC_commander_initative: "Befehlshaber-Initiative"
 VNC_commander_initative_desc: "Die Befehlshaber der Unterabteilungen müssen mehr Autonomie erhalten, um die Pläne auszulegen und nach eigenem Ermessen umzusetzen."
 VNC_planning_schools: "Planungsschulen"
 VNC_planning_schools_desc: "Das Zeichnen von Karten und Kampflinien ist eine Wissenschaft für sich. Dementsprechend sollten spezialisierte Akademien eingerichtet werden."
+
+### Venetian Revolt ###
+VNC_last_stand: "Das letzte Gefecht der Freiheit"
+VNC_last_stand_desc: "Die Aufhebung der Autonomie der Bundesstaaten und die Aussetzung der Wahlen durch die ANI war ein eklatanter Verstoß gegen das Recht. Es liegt an uns, gegen diese Tyrannei zu den Waffen zu greifen und für alles Gute in der Welt einzutreten. Der Krieg mit den Ultranationalisten wird kommen, und wir müssen uns darauf vorbereiten, indem wir alle verfügbaren Vorräte nutzen, um jeden zu bewaffnen, der bereit ist zu kämpfen."
+VNC_unite_rebel: "Vereint die rebellischen Truppen"
+VNC_unite_rebel_desc: "Der spontane Charakter unserer Rebellion und die Aufstellung von Miliztruppen haben dazu geführt, dass unser Oberkommando Schwierigkeiten hat, die Streitkräfte zu organisieren. Befehlsverwirrungen innerhalb des Militärs sind an der Tagesordnung und müssen so schnell wie möglich beseitigt werden."
+VNC_raise_militias: "Partisaneneinheiten aufstellen"
+VNC_raise_militias_desc: "Nach der Befreiung Friauls haben sich viele Freiwillige, die sich in den anfänglichen Wirren der Rebellion nicht anschließen konnten, gemeldet, um an der Seite unseres Militärs gegen die Tyrannen in Mailand zu kämpfen. Wir müssen die Gelegenheit ergreifen und diese Männer rekrutieren."
+VNC_rally_defectors: "Sympathisierende Überläufer versammeln"
+VNC_rally_defectors_desc: "Da die ANI immer mehr Verluste gegen die venezianischen Streitkräfte hinnehmen muss, wächst der Widerstand sowohl in der Zivilbevölkerung als auch bei den Streitkräften. Was als schneller Krieg versprochen wurde, hat sich nun in einen Sumpf verwandelt, während die Aussicht auf eine ausländische Intervention immer wahrscheinlicher wird. Wir können aus dieser Opposition Kapital schlagen, indem wir an unzufriedene Soldaten appellieren, überzulaufen und dabei zu helfen, den Tyrannen Balbo zu stürzen."
+VNC_promote_coordination: "Förderung der Armeekoordination"
+VNC_promote_coordination_desc: "Obwohl unsere Bemühungen, unsere zusammengewürfelten Streitkräfte zu einer richtigen Armee zu vereinigen, einige Erfolge gezeitigt haben, hat das Militär immer noch mit Problemen des Zusammenhalts zu kämpfen. Weitere Anstrengungen müssen unternommen werden, wenn wir die ANI besiegen wollen."
+VNC_desperate_defence: "Widerstand gegen die nationalistische Offensive"
+VNC_desperate_defence_desc: "Wir stehen am Rande einer Niederlage, die mit Sicherheit auch für den Rest Italiens gelten wird. Wir müssen Propaganda unter unseren Soldaten verbreiten, um sie daran zu erinnern, warum sie kämpfen. Leider werden wir zu verzweifelten Maßnahmen greifen müssen, um unser Überleben zu sichern."
+VNC_utilise_austrian_ties: "Österreichische Verbindungen nutzen"
+VNC_utilise_austrian_ties_desc: "Unsere Rebellion wurde von den Österreichern mit offenen Armen empfangen, da Balbo eine Bedrohung für ihre Interessen darstellt. Sie sind bereit, uns verdeckte Hilfe zukommen zu lassen, was wir nicht ablehnen können."
+VNC_import_arms: "Import ausländischer Waffen"
+VNC_import_arms_desc: "Unsere Armee braucht mehr Nachschub, wenn wir eine Chance gegen die Nationale Republik haben wollen. Zu unserem Glück sind die Österreicher bereit, ihre alten Vorräte zu einem günstigen Preis auszuleihen."
+VNC_final_push: "Der letzte Vorstoß"
+VNC_final_push_desc: "Auf dem Schlachtfeld ist ein Sieg nach dem anderen errungen worden, und die Niederlage von Balbo und seinesgleichen ist so gut wie sicher. Die Moral des Militärs ist so hoch wie nie zuvor, während die ANI mit Massendesertationen konfrontiert ist."
+VNC_propaganda: "Anti-Kriegs-Propaganda verbreiten"
+VNC_propaganda_desc: "Während in diesem Krieg Bruder gegen Bruder kämpft, sind die Rufe nach Frieden lauter geworden. Das Scheitern der ANI, einen raschen Sieg zu erringen, verursacht große moralische Probleme, die wir ausnutzen können. Mit Hilfe Österreichs können wir Propaganda schmuggeln, die zum Sturz von Balbo aufruft. Da viele bereits an der Fähigkeit der ANI zweifeln, den Krieg zu gewinnen, da bereits Tausende von Toten zu beklagen sind und die allgemeine Meinung vorherrscht, dass Balbo Italien den Sozialisten schutzlos ausgeliefert hat, wird dies mit Sicherheit Wirkung zeigen."
 
 ### Events ###
 venice.1.t: "Erste Sitzung des Großen Rates"

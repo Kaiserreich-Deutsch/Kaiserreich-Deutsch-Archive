@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 cc_leader: "General"
 fm_leader: "Feldmarschall"
@@ -437,5 +437,5 @@ pick_advisor_role: "Verfügbare Beraterrolle"
 promoted_from_the_ranks: "Aus den unteren Rängen befördert"
 promoted_from_the_ranks_desc: "TODO"
 
-guerilla_officer: "Guerilla Offizier"
-guerilla_officer_desc: "§LExperte für Guerilla-Kriegsführung und Sabotageaktionen hinter den feindlichen Linien.§!"
+light_infantry_officer: "Leichter Infanterie-Offizier"
+light_infantry_officer_desc: "§LExperte für asymmetrische Kriegsführung und Sabotageaktionen hinter den feindlichen Linien.§!"
