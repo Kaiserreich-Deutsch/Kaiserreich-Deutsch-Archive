@@ -85,9 +85,9 @@ VNC_attack_italy_desc: "Die Zeit ist reif für die Vollendung des Risorgimento -
 VNC_invite_into_federation: "Ladt [From.GetNameDef] in [Root.GetNameDef] ein"
 VNC_invite_into_federation_desc: "Da die Bedrohung durch die sozialistische Republik nun gebannt ist, ist es vielleicht an der Zeit, die durch den Bürgerkrieg verursachten Gräben zu überwinden. Da wir auf der italienischen Halbinsel eine eindeutig dominante Position innehaben, ist es an uns, den Weg zu weisen."
 VNC_war_with_ita1: "Drohende Intervention"
-#VNC_war_with_ita1_desc: "The Venetians have risen up against the [Root.GetAdjective] government. We must prove that we are able to deal with them quickly, lest our neighbours grow confident that we are weak enough for them to step in and interfere."
+VNC_war_with_ita1_desc: "Die Venezianer haben sich gegen die Regierung von [Root.GetAdjective] erhoben. Wir müssen beweisen, dass wir in der Lage sind, schnell mit ihnen fertig zu werden, damit unsere Nachbarn nicht glauben, dass wir so schwach sind, dass sie sich einmischen können."
 VNC_war_with_ita2: "Rebellion gegen die Tyrannei"
-#VNC_war_with_ita2_desc: "We have lost control of the situation in Venetia. Now we must deal with foreign intervention, on top of conquering the rebellion itself. If we fail to wrap this up within the next six months, it is likely that the ANI government will collapse."
+VNC_war_with_ita2_desc: "Wir haben die Kontrolle über die Situation in Venedig verloren. Jetzt müssen wir uns neben der Eroberung der Rebellion selbst auch noch um eine ausländische Intervention kümmern. Wenn es uns nicht gelingt, dies innerhalb der nächsten sechs Monate zu erledigen, wird die ANI-Regierung wahrscheinlich zusammenbrechen."
 
 ### Companies ###
 accademia_navale_venezia_vnc: "Accademia Navale di Venezia"
@@ -99,7 +99,7 @@ arsenale_di_verona: "Arsenale di Verona"
 olympia: "Olympia"
 consorzio_industrale_di_padova: "Consorzio Industrale di Padova"
 sade: "SADE"
-universita_di_verona: "Università di Verona"
+universita_di_verona: "Università di Padova" ## TODO: change id after the hotfix
 
 ### Ideas ###
 VNC_venetian_welfare_idea: "Venezianische Wohlfahrt"

@@ -1111,6 +1111,9 @@ FRA_Sabotage_desc: "Die französischen verräterischen Imperialisten haben viel 
  FRA_radical_socialist: "Kommune Frankreich"
  FRA_radical_socialist_ADJ: "Communard"
  FRA_radical_socialist_DEF: "die Kommune Frankreich"
+ FRA_neosocialist: "Französische Sozialrepublik"
+ FRA_neosocialist_DEF: "die Französische Sozialrepublik"
+ FRA_neosocialist_ADJ: "Neosozialistisch"
 
 ### Characters ###
  FRA_marcel_deat: "Marcel Déat"
@@ -1187,23 +1190,26 @@ FRA_Sabotage_desc: "Die französischen verräterischen Imperialisten haben viel 
  FRA_henri_adeline: "Henri Adeline"
  FRA_henri_adeline_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g8. Mai 1898, in Verdun, Maas, Dritte Französische Republik§!"
 
+ NFA_aime_doumenc: "Aimé Doumenc"
+ NFA_aime_doumenc_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g16. November 1880, in Grenoble, Isère§!"
+
  FRA_raoul_magrin_vernerey: "Raoul Magrin Vernerey"
- FRA_raoul_magrin_vernerey_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g7 February 1892, in Budapest, Pest-Pilis-Solt-Kiskun, Österreichisch-Ungarisches Kaiserreich§!"
+ FRA_raoul_magrin_vernerey_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g7. Februar 1892, in Budapest, Pest-Pilis-Solt-Kiskun, Österreich-Ungarn§!"
 
  FRA_joseph_putz: "Joseph Putz"
- FRA_joseph_putz_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g24 April 1895, in Brussels, Königreich Belgien§!"
+ FRA_joseph_putz_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g24. April 1895, in Brussels, Königreich Belgien§!"
 
  FRA_andre_marty: "André Marty"
- FRA_andre_marty_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g6 November 1886, in Perpignan, Pyrénées-Orientales, Dritte Französische Republik§!"
+ FRA_andre_marty_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g6. November 1886, in Perpignan, Pyrénées-Orientales, Dritte Französische Republik§!"
 
  FRA_georges_blanchard: "Georges Blanchard"
- FRA_georges_blanchard_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g9 December 1877, in Orléans, Loiret, Dritte Französische Republik§!"
+ FRA_georges_blanchard_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g9. Dezember 1877, in Orléans, Loiret, Dritte Französische Republik§!"
 
  FRA_clement_blanc: "Clément Blanc"
- FRA_clement_blanc_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1 October 1897, in Perpignan, Pyrénées-Orientales, Dritte Französische Republik§!"
+ FRA_clement_blanc_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1. Oktober 1897, in Perpignan, Pyrénées-Orientales, Dritte Französische Republik§!"
 
  FRA_paul_legentilhomme: "Paul Legentilhomme"
- FRA_paul_legentilhomme_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g26 March 1884, in Valognes, Manche, Dritte Französische Republik§!"
+ FRA_paul_legentilhomme_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g26. März 1884, in Valognes, Manche, Dritte Französische Republik§!"
 
  FRA_florimond_bonte: "Florimond Bonte"
  FRA_florimond_bonte_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g22. Januar 1890, in Tourcoing, Nord, Dritte Französische Republik§!"
@@ -1212,34 +1218,34 @@ FRA_Sabotage_desc: "Die französischen verräterischen Imperialisten haben viel 
  FRA_aubert_frere_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g21. August 1881, in Grévillers, Pas-de-Calais, Dritte Französische Republik§!\n§YMilitary Career:§! §gEr wurde als 6. von 11 Kindern geboren und erhielt eine christliche Erziehung, bevor er im Alter von 19 Jahren die Militärschule von Saint-Cyr besuchte. Die meiste Zeit seiner frühen Karriere verbrachte er in Marokko, bevor er 1912 nach Frankreich zurückkehrte. Seine erste Erfahrung während des Weltkriegs machte er in der Schlacht von Charleroi, und später kämpfte er sowohl in Verdun als auch an der Somme. Er wird zunächst zum Bataillonskommandeur des ersten Infanterieregiments und später zum Chef eines Bataillons der Alpentruppen befördert. Bis zum Ende des Krieges wurde er dreimal verwundet und achtmal ausgezeichnet."
 
  FRA_henri_frenay: "Henri Frenay"
- FRA_henri_frenay_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g11 November 1905, in Lyon, Rhône, Dritte Französische Republik"
+ FRA_henri_frenay_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g11. November 1905, in Lyon, Rhône, Dritte Französische Republik"
 
  FRA_louis_buisson: "Louis Buisson"
- FRA_louis_buisson_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g14 December 1889, in Le Bourget-du-Lac, Savoie, Dritte Französische Republik"
+ FRA_louis_buisson_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g14. Dezember 1889, in Le Bourget-du-Lac, Savoie, Dritte Französische Republik"
 
  FRA_francois_darlan: "François Darlan"
  FRA_francois_darlan_admiral_desc: "§YAdmiral Beschreibung\nGeboren:§! §g7. August 1881, in Nérac, Lot-et-Garonne, Dritte Französische Republik§!\n§YMarine Karriere:§! §gJean Louis Xavier François Darlan wurde in eine Familie geboren, die seit langem mit der Marine verbunden war. Er machte 1902 seinen Abschluss an der École Navale(Marineschule) und diente während des Weltkriegs vor allem in einer Artilleriebatterie in der Schlacht von Verdun. In den Wirren der Revolution und aufgrund seines Patriotismus und seiner gemäßigten linken Gesinnung verschmäht, trat Darlan wieder in die Marine der Kommunarden ein und stieg in den folgenden Jahren rasch auf. Heute ist er einer der angesehensten Männer der französischen Marine und stolz auf die Institution, zu deren Wiederaufbau er beigetragen hat.§!"
 
  FRA_raoul_castex: "Raoul Castex"
- FRA_raoul_castex_admiral_desc: "§YAdmiral Description\nGeboren:§! §g27 October 1878, in Saint-Omer, Pas-de-Calais, Dritte Französische Republik"
+ FRA_raoul_castex_admiral_desc: "§YAdmiral Description\nGeboren:§! §g27. Oktober 1878, in Saint-Omer, Pas-de-Calais, Dritte Französische Republik"
 
  FRA_andre_georges_lemmonier: "André-Georges Lemonnier"
- FRA_andre_georges_lemmonier_admiral_desc: "§YAdmiral Description\nGeboren:§! §g24 February 1896, in Guingamp, Côtes-du-Nord, Dritte Französische Republik"
+ FRA_andre_georges_lemmonier_admiral_desc: "§YAdmiral Description\nGeboren:§! §g24. Februar 1896, in Guingamp, Côtes-du-Nord, Dritte Französische Republik"
 
  FRA_gabriel_auphan: "Gabriel Auphan"
- FRA_gabriel_auphan_admiral_desc: "§YAdmiral Description\nGeboren:§! §g4 November 1894, in Alès, Gard, Dritte Französische Republik"
+ FRA_gabriel_auphan_admiral_desc: "§YAdmiral Description\nGeboren:§! §g4. November 1894, in Alès, Gard, Dritte Französische Republik"
 
  FRA_philippe_auboyneau: "Philippe Auboyneau"
- FRA_philippe_auboyneau_admiral_desc: "§YAdmiral Description\nGeboren:§! §g9 November 1899, in Constantinople, Osmanisches Reich"
+ FRA_philippe_auboyneau_admiral_desc: "§YAdmiral Description\nGeboren:§! §g9. November 1899, in Constantinople, Osmanisches Reich"
 
  FRA_marcel_gensoul: "Marcel Gensoul"
- FRA_marcel_gensoul_admiral_desc: "§YAdmiral Description\nGeboren:§! §g12 October 1880, in Montpellier, Hérault, Dritte Französische Republik"
+ FRA_marcel_gensoul_admiral_desc: "§YAdmiral Description\nGeboren:§! §g12. Oktober 1880, in Montpellier, Hérault, Dritte Französische Republik"
 
  FRA_louis_lazare_kahn: "Louis-Lazare Kahn"
  FRA_louis_lazare_kahn_desc: "§YAdmiral Beschreibung\nGeboren:§! §g13. Oktober 1895, in Versailles, Yvelines, Dritte Französische Republik"
 
  FRA_edouard_peisson: "Édouard Peisson"
- FRA_edouard_peisson_admiral_desc: "§YAdmiral Description\nGeboren:§! §g7 March 1896, in Marseille, Bouches-du-Rhône, Dritte Französische Republik"
+ FRA_edouard_peisson_admiral_desc: "§YAdmiral Description\nGeboren:§! §g7. März 1896, in Marseille, Bouches-du-Rhône, Dritte Französische Republik"
 
  FRA_irene_and_frederic_joliot_curie: "Irène & Frédéric Joliot-Curie"
  FRA_robert_esnault_pelterie: "Robert Esnault-Pelterie"

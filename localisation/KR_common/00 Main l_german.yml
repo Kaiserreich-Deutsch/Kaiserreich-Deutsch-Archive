@@ -34,13 +34,27 @@ KR_welcome_splash_tab_3_content: "§YBitte beachten Sie Folgendes:§!\n£white_d
 KR_welcome_splash_tab_3_content_0: "Kaiserreich legt Beschränkungen für diplomatische Aktionen wie §Rfrühe Kriege§!, §RFraktionen§! und §RAutonomiestufen§! fest.\nKaiserreich enthält §CDivisionsgrenzen§! und eine §CDemobilisierung§! Mechanik, um die Spielbarkeit im späteren Spiel zu verbessern.\nBei §YFriedenskonferenzen§! sollten Sie darauf achten, dass Sie alle Staaten annektieren. Sie können später Länder aus den annektierten Gebieten durch §CEntscheidungen§! entlassen.\nIm Menü §YIndividuelle Spielregeln§! können Sie viele Optionen einstellen, darunter §CLänderpfade§!, §CVorrang für Spieler bei Friedenskonferenzen§!, und das §CStaat und Land Transfer Tool§!.\nDas £kr_options_icon  §YOptionsmenu im Spiel§! wird durch einen Klick auf das Symbol in der rechten oberen Ecke geöffnet. Hier können Sie die §CHäufigkeit der Nachrichtenereignisse§! einstellen und die §CDynamische Umbenennung§! von Staaten und Siegpunkten aktivieren.\n§YDieses Fenster§! kann jederzeit wieder geöffnet werden, indem Sie auf das Symbol £help_button  oben rechts klicken."
 
 ## TAB 4 ##
-KR_CURRENT_VERSION: "1.0"
+KR_CURRENT_VERSION: "1.0.1"
 KR_CURRENT_VERSION_NAME: "The Empire Strikes Back"
 KR_CURRENT_VERSION_COMBINED: "Kaiserreich $KR_CURRENT_VERSION$ \"$KR_CURRENT_VERSION_NAME$\""
 KR_welcome_splash_tab_4_header: "§YWillkommen bei $KR_CURRENT_VERSION_COMBINED$\n\n\n\n\n\nLiebevoll gestaltet vom Kaiserreich Team:§!"
-KR_welcome_splash_tab_4_content: "Alpinia  ·  Arvidus  ·  Augenis  ·  Blackfalcon501  ·  Blackleaf  ·  Carmain  ·  Cazadorian\nChazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Cody  ·  Conchobhar  ·  DuoDex  ·  El Daddy\nfalling_robin  ·  Fedex  ·  Flamefang  ·  Gaboemi  ·  Hamfast  ·  hildagrim  ·  Ido  ·  Igor050301\nJazzyHugh  ·  Jeankedezeehond  ·  Jonny BL  ·  Juliet Wehrwolf  ·  Kano  ·  katieluka  ·  Kennedy  ·  kergely\nKFateweaver  ·  Klyntar King  ·  Krčo  ·  lehmannmo  ·  Luwofe  ·  Matoro  ·  McOmghall\nMrMano  ·  ~mw~ // miwaco.  ·  NukeGaming  ·  Pelmen  ·  PPsyrius  ·  Purple Jinjo\nRagnoStrangeros  ·  Rnk  ·  Shiroe  ·  Shōta  ·  Sonny O'Cad  ·  SuperGreenBeans  ·  suzuha\nThe Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co.\n\n§YDeutsches Übersetzungs-Team§!\nProho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko\nHydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc  ·  Wolf  ·  Silent_Wolf  ·  Alex S\nDerEherneRächer  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier  ·  Itzy"
+KR_welcome_splash_tab_4_content: "$KR_welcome_splash_tab_4_content_1$\n$KR_welcome_splash_tab_4_content_2$\n$KR_welcome_splash_tab_4_content_3$\n$KR_welcome_splash_tab_4_content_4$\n$KR_welcome_splash_tab_4_content_5$\n$KR_welcome_splash_tab_4_content_6$\n$KR_welcome_splash_tab_4_content_7$\n$KR_welcome_splash_tab_4_content_8$\n$KR_welcome_splash_tab_4_content_9$\n$KR_welcome_splash_tab_4_content_10$\n$KR_welcome_splash_tab_4_content_11$\n$KR_welcome_splash_tab_4_content_12$"
+
 KR_welcome_splash_tab_4_content_0: "Unser Team hat an allen Ecken und Enden der Welt hart gearbeitet, um euch diese neue Version zu präsentieren, und wir fühlen uns sehr geehrt, dass ihr sie spielen wollt.\n\nWir hoffen, Sie haben genauso viel Spaß beim Spielen von Kaiserreich wie wir beim Erstellen!"
- 
+KR_welcome_splash_tab_4_content_1: "Alpinia  ·  Arvidus  ·  Augenis  ·  Blackfalcon501  ·  Blackleaf  ·  Carmain  ·  Cazadorian"
+KR_welcome_splash_tab_4_content_2: "Chazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Cody  ·  Conchobhar  ·  DuoDex  ·  El Daddy"
+KR_welcome_splash_tab_4_content_3: "falling_robin  ·  Fedex  ·  Flamefang  ·  Gaboemi  ·  Hamfast  ·  hildagrim  ·  Ido"
+KR_welcome_splash_tab_4_content_4: "Igor050301  ·  JazzyHugh  ·  Jeankedezeehond  ·  Jonny BL  ·  Kano  ·  katieluka  ·  Kennedy"
+KR_welcome_splash_tab_4_content_5: "kergely  ·  KFateweaver  ·  Klyntar King  ·  Krčo  ·  lehmannmo  ·  Luwofe  ·  Matoro"
+KR_welcome_splash_tab_4_content_6: "McOmghall  ·  MrMano  ·  ~mw~ // miwaco.  ·  Pelmen  ·  PPsyrius  ·  Purple Jinjo"
+KR_welcome_splash_tab_4_content_7: "RagnoStrangeros  ·  Rnk  ·  Shiroe  ·  Shōta  ·  Sonny O'Cad  ·  SuperGreenBeans  ·  suzuha"
+KR_welcome_splash_tab_4_content_8: "The Alpha Dog  ·  The Irredentista  ·  The Italian Jojo  ·  Vidyaország  ·  Zimbabwe Salt Co."
+
+KR_welcome_splash_tab_4_content_9: "\n§YDeutsches Übersetzungs-Team:§!"
+KR_welcome_splash_tab_4_content_10: "Proho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko"
+KR_welcome_splash_tab_4_content_11: "Hydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc  ·  Wolf  ·  DerEherneRächer"
+KR_welcome_splash_tab_4_content_12: "Silent_Wolf  ·  Alex S  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier  ·  Itzy"
+
 ### Career Profile ###
 KAISERREICH_CAREER_PROFILE: "Kaiserreich Deutsch"
 

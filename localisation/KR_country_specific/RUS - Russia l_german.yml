@@ -182,6 +182,10 @@ RUS_Integrate_Country: "Integriert [From.GetNameDef]"
 RUS_Alliance_decisions: "Die Russische Sphäre"
 RUS_Invite_Country: "Ladet [From.GetNameWithFlag] ein"
 
+RUS_restart_war_against_germany: "Krieg gegen Deutschland wieder beginnen"
+RUS_restart_war_against_germany_desc: "Das Deutsche Reich liegt auf den Knien und erleidet immer weitere Verluste durch eindringende Armeen. Wir haben zwar schon einmal gegen sie verloren, aber jetzt ist ihre Kapitulation praktisch garantiert. Lasst uns ihren erbärmlichen Zustand ausnutzen und unsere gestohlenen Gebiete zurückerobern."
+second_moscow_accord: "Zweites Moskauer Abkommen"
+
 RUS_Invite_Mongolia_desc: "Die Mongolen haben sich unserem Einfluss gegenüber wohlwollend gezeigt. Vielleicht ist es an der Zeit, unsere beiden Nationen formell zusammenzuführen."
 RUS_Invite_East_Turkestan_desc: "Ostturkestan war schon immer Teil unserer natürlichen Einflusssphäre mit seinen engen Beziehungen zu Russisch-Turkestan. Ein Bündnis mit ihnen würde ihnen sowohl militärisch als auch wirtschaftlich sehr helfen..."
 RUS_Invite_Greece_desc: "Die Griechen, unsere Brüder in der Orthodoxie, haben Ambitionen auf strategische Schlüsselpositionen im Mittelmeerraum. Gemeinsam werden wir unseren beiden alten Nationen zu neuer Größe verhelfen."
@@ -1825,6 +1829,17 @@ russianews.12.e: "Die Zukunft gehört denen, die sie ergreifen."
 russianews.12.f: "Überwacht den gesamten Verkehr von und nach Russland..."
 russianews.12.g: "Es ist eine natürliche Reaktion auf die Ungerechtigkeiten von Versailles."
 russianews.12.h: "Endlich fällt der Schleier."
+
+russianews.13.t: "Deutschland schließt Frieden mit Russland"
+russianews.13.d: "Heute sind die letzten Hoffnungen der russischen Kriegsanstrengungen gegen Deutschland und seine Verbündeten zunichte gemacht worden. Die russischen Bemühungen, die ursprünglich eine der glaubwürdigsten Bedrohungen für die deutsche Hegemonie in ganz Europa darstellten, scheinen vergeblich gewesen zu sein. Beide Seiten trafen sich im von Deutschland besetzten Moskau, um eine bedingte Kapitulation Russlands auszuhandeln. Im anschließenden Vertrag wurde Russland gezwungen, weite Gebiete an Deutschlands Verbündete abzutreten und enorme Reparationszahlungen zu leisten. Es wird erwartet, dass sich Deutschland nach Westen wendet, um sich dem Rest der Internationale zu stellen. Bisher ist es der Internationale gelungen, eine totale Niederlage zu vermeiden. Ob Deutschland versuchen wird, das sozialistische Bündnis vollständig zu zerstören, oder einfach nur die kontinentale Vorherrschaft anstreben wird, bleibt offen."
+russianews.13.a: "Doppelter Stolz, doppelter Fall."
+russianews.13.b: "Ich dachte, sie wären stärker als das?"
+russianews.13.c: "Es ist so vorbei..."
+
+russianews.14.t: "Russland führt wieder Krieg gegen Deutschland"
+russianews.14.d: "Deutschlands Sieg über Russland im Zweiten Weltkrieg ließ viele glauben, dass Russland zu einer zweitklassigen Macht degradiert worden war, die sich von ihrer Niederlage nicht mehr erholen könnte. Doch die deutschen Kriegsanstrengungen bröckeln nun. Da die Niederlage so gut wie sicher war, war zu erwarten, dass Russland trotz seiner Schwäche einen Vorteil daraus ziehen würde.\n\nUnter Berufung auf die Notwendigkeit von Stabilität und Ordnung in Osteuropa kündigte [RUS.GetLeader] die Wiederaufnahme der militärischen Aktionen gegen Deutschland und seine Verbündeten an. Es wird erwartet, dass Russlands Wiedereintritt den einst stolzen Hegemon Europas noch schneller zu Fall bringen wird."
+russianews.14.a: "Aller guten Dinge sind drei."
+russianews.14.b: "Solange sie uns nicht in die Quere kommen."
 
 ### Country Names ###
 RUS: "Russland"

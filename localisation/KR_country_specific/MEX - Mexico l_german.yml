@@ -946,8 +946,8 @@ mexico.212.t: "Mexiko beansprucht Mittelamerika"
 mexico.212.d: "Die neue synarchistische Regierung in Mexiko hat ein Dekret erlassen, das die Souveränität über die gesamte mittelamerikanische Region beansprucht. Mit dem Anspruch, die wahren und rechtmäßigen Herrscher des Landes zu sein, dürfte es nur eine Frage der Zeit sein, bis die neue mexikanische Regierung in der Region militärisch tätig wird."
 mexico.212.a: "Verrückte, alle von ihnen."
 
-mexico.213.t: "Frieden mit [FROM.GetNameDef]?"
-mexico.213.d: "Nach dem [FROM.GetAdjective]-Sieg auf costaricanischem Gebiet haben uns unsere Marineoffiziere geraten, eine friedliche Lösung des Konflikts anzustreben, da ein Feldzug gegen Amerika für uns zu kostspielig wäre, ohne dass wir davon profitieren würden. Wie sollen wir darauf reagieren?"
+mexico.213.t: "Frieden mit [central_america_attacker.GetNameDef]?"
+mexico.213.d: "Nach dem [central_america_attacker.GetAdjective]-Sieg auf costaricanischem Gebiet haben uns unsere Marineoffiziere geraten, eine friedliche Lösung des Konflikts anzustreben, da ein Feldzug gegen Amerika für uns zu kostspielig wäre, ohne dass wir davon profitieren würden. Wie sollen wir darauf reagieren?"
 mexico.213.a: "Mittelamerika ist die Mühe nicht wert."
 mexico.213.b: "Blödsinn, die [ROOT.GetFactionName] schützt ihre Verbündeten!"
 

@@ -12,7 +12,7 @@
  DEN_SCA_formation_warning: "§RDurch die Fertigstellung dieses Fokus werden alle Mitglieder der skandinavischen Verteidungsunion zu einer einzigen Nation verschmelzen. Wir werden dadurch alle unsere Nationalgeister und derzeit angeheuerten Unternehmen verlieren.§!"
  DEN_idea_fortification_tooltip: "§CWir können diese Boni nur verlängern, solange sie noch aktiv sind!§!"
  
- DEN_tt_the_fs_will_elect_dominant_wing: "§RWährend des Ersetzungs-Prozesses wird die FS neue Beamte und Mitglieder wählen.§!"
+ DEN_tt_the_fs_will_elect_dominant_wing: "§RWährend des Ersetzungs-Prozesses wird die VSP neue Beamte und Mitglieder wählen.§!"
  DEN_tt_kanslergade_agreement_successful: "§RDas Kanslergade-Abkommen wird erfolgreich sein, was den Kanslergade-Teil des Fokusbaums freischaltet, um die Probleme des Schwarzen Montags zu lösen.§!"
  DEN_tt_no_more_lockouts: "§RStreiks und Aussperrungen werden ein Jahr lang verboten.§!"
  DEN_tt_no_black_monday: "§YDänemarks Krise durch den Schwarzen Montag legt sich.§!"
@@ -321,8 +321,8 @@
  DEN_destroyer_investment_desc: "Jeden Tag passieren zahlreiche Schiffe die dänischen Belte und Sunden, die die Ostsee von der Nordsee trennen, was sie zu perfekten Zielen für eventuelle U-Boot-Angriffen macht. Es ist von äußerster Wichtigkeit, dass die dänische Flotte dazu in der Lage ist, die Konvois nicht nur vor Angriffen zu schützen, sondern gleichermaßen potenziellen Bedrohungen zuvorzukommen."
  DEN_kings_cabinet: "Des Königs Kabinett"
  DEN_kings_cabinet_desc: "Es ist das Recht, nein, die Pflicht des Königs sein Volk zu schützen, wenn die demokratische Regierung kurz davor steht, einen Fehler zu begehen, der die Nation zerstören würde: Sollte Deutschland fallen, wäre Dänemark den Revolutionären aus Frankreich und Großbritannien schutzlos ausgeliefert - und sie würden uns Dänen wohl kaum von ihrer syndikalistischen Tyrannei verschonen!"
- DEN_ban_fs: "Die FS verbieten"
- DEN_ban_fs_desc: "Die syndikalistische Gewerkschaft 'Fagoppositions Sammensluting' hat Dänemark nun schon viel zu viel Ärger eingebracht, unter Anderem durch die Angriffe der Syndikalisten und Anarchisten aus unsere Börse in 1918. Wir müssen diese Organisation sofort auflösen!"
+ DEN_ban_fs: "Die VSP verbieten"
+ DEN_ban_fs_desc: "Das Syndikalistenbündnis 'Venstresocialistiske Parti' hat Dänemark unter der Führung von Anarchisten und Syndikalisten, die 1918 an dem Überfall auf unsere Börse beteiligt waren, zu viel Ärger gebracht. Wir müssen diese Organisation sofort auflösen!"
  DEN_emphasise_loyalty_to_crown: "Die Loyalität zur Krone betonen"
  DEN_emphasise_loyalty_to_crown_desc: "Einige Menschen verstehen die Aktionen der Monarchie nicht, welche nominell nur die bestehende Demokratie einschränkt, allerdings auch der letzte Schutz des Volkes vor einer totalitären Regierung ist. Wir sollten betonen, dass wir nur die besten Absichten verfolgen und dass die Loyalität des Volkes gegenüber der Krone im Interesse aller ist."
  DEN_secure_military_loyalty: "Loyalität des Militärs sichern"
@@ -353,8 +353,8 @@
  DEN_pride_in_traditions_desc: "Wir haben ein Recht darauf, stolz auf die langen Traditionen unserer Nation zu sein: Schon seit über 1000 Jahren existiert Dänemark als ein einheitlicher Staat mit einem kompetenten Monarchen als Oberhaupt - und wir werden noch mindestens ein weiteres Jahrtausend überstehen!"
  DEN_the_people_rule_our_nation: "Das Volk soll herrschen!"
  DEN_the_people_rule_our_nation_desc: "Das dänische Volk hat als einziges das Recht darauf, über unsere Nation zu herrschen. Ohne die Bestätigung der Bürger darf kein Politiker oder Monarch Befehle erteilen oder Gesetze verabschieden!"
- DEN_hybrid_regime: "Das Hybriden-Regime"
- DEN_hybrid_regime_desc: "Die kürzliche Situation war entsetzlich. Aufgrund des Konflikts mit den Deutschen, der vielleicht durch unsere negative Haltung ihnen gegenüber ausgelöst wurde, war die Kommune unsere einzige Wahl. Allerdings hatte auch sie einige Forderungen an uns, durch die nun eine sozialistischere Regierung über Dänemark herrscht. Dies ist zwar nicht optimal, allerdings immer noch besser als eine der beiden Alternativen: So zu enden wie Flandern-Wallonien oder von einem syndikalistischen Regime unterdrückt zu werden."
+ DEN_hybrid_regime: "Das Statsraad Regime"
+ DEN_hybrid_regime_desc: "Die kürzliche Situation war entsetzlich. Aufgrund des Konflikts mit den Deutschen, der vielleicht durch unsere negative Haltung ihnen gegenüber ausgelöst wurde, war die Kommune unsere einzige Wahl. Allerdings hatte auch sie einige Forderungen an uns, durch die nun eine sozialistischere Regierung über Dänemark herrscht. Ein viel sozialistischerer Wind soll nun durch Dänemark wehen, aber er ist wahrscheinlich der beste Kompromiss zwischen Staunings Idealen und einem vollständig syndikalistischen System."
  DEN_replace_the_rigsdag: "Den Rigsdag ersetzen"
  DEN_replace_the_rigsdag_desc: "Der erste Akt zur Etablierung unseres relativ liberalen Systems, welches allerdings einige Ähnlichkeiten zum Syndikalismus aufweist, sollte es sein, den Rigsdag (Reichstag) zu ersetzen und stattdessen den dänischen Gewerkschaftskongress zu erschaffen."
  DEN_ban_venstre_and_dkf: "Entrechtung von Rechtsabweichlern"
@@ -383,8 +383,8 @@
  den.3.b: "Sucht den Kompromiss!"
  den.3.c: "Schickt sie zurück auf Arbeit!"
 
- den.4.t: "Unruhen der FS"
- den.4.d: "Heute fanden Demonstrationen der 'Fagoppositions Sammensluting', angeführt vom bekannten Syndikalisten Christian Christensen, statt. Diese Ansammlung radikaler Gewerkschaften steht für den Syndikalismus und viele ihrer Anführer werden mit dem berüchtigten 'storm at Børsen' verbunden, den Angriff auf den Aktienmarkt Kopenhagens, welcher von Paris unterstützt wurde. Aufgrund der Auswirkungen des Schwarzen Montags betonen sie jetzt, dass es in der Kommune keine Krise gibt, was sie als Argument für den dänischen Syndikalismus ansehen.\n\nEs gab zwar einige Instanzen von Gewalt, die das Eingreifen der Polizei ermöglichten, vor allem im totalistischen Flügel der Organisation, angeführt von der ehemaligen Sozialdemokratin Baronesse Olga von Eggers, die meisten der Demonstrationen blieben allerdings friedlich, wahrscheinlich um die Intervention der Polizei zu verhindern. Solange wir im Rahmen unserer Konstitution handeln, gibt es nur wenig, was wir dagegen tun können."
+ den.4.t: "Unruhen der VSP"
+ den.4.d: "Heute fanden Demonstrationen der 'Venstresocialistiske Parti' (Sozialistische Linkspartei), angeführt vom bekannten Syndikalisten Christian Christensen, statt. Diese Ansammlung radikaler Gewerkschaften steht für den Syndikalismus und viele ihrer Anführer werden mit dem berüchtigten 'storm at Børsen' verbunden, den Angriff auf den Aktienmarkt Kopenhagens, welcher von Paris unterstützt wurde. Aufgrund der Auswirkungen des Schwarzen Montags betonen sie jetzt, dass es in der Kommune keine Krise gibt, was sie als Argument für den dänischen Syndikalismus ansehen.\n\nEs gab zwar einige Instanzen von Gewalt, die das Eingreifen der Polizei ermöglichten, vor allem im totalistischen Flügel der Organisation, angeführt von der ehemaligen Sozialdemokratin Baronesse Olga von Eggers, die meisten der Demonstrationen blieben allerdings friedlich, wahrscheinlich um die Intervention der Polizei zu verhindern. Solange wir im Rahmen unserer Konstitution handeln, gibt es nur wenig, was wir dagegen tun können."
  den.4.a: "Syndikalismus?! In Dänemark?!"
 
  den.5.t: "Der Konflikt zwischen der DS und der DFP"
@@ -541,8 +541,8 @@
  den.41.d: "Nachdem sich der friedliche Protest zu einem regelrechten Aufstand entwickelte, schickte die Regierung die Bereitschaftspolizei, um die Situation unter Kontrolle zu bringen. Diese sammelte sich auf beiden Seiten der Amaliegade-Straße und im Amaliehaven und trieb die Aufständigen dadurch langsam aus dem Hof des Schlosses in Richtung der Frederikskirche, wo sich der Protest dann auflöste. Es wurden keine Toten gemeldet, allerdings wurden mehrere Demonstranten von der Polizei verhaftet.\n\nEs wurden jedoch einige Fenster des Schlosses zerstört und auch die Rytterstatuen haben Schaden abbekommen, wodurch klar wird, dass der König nicht weiter in Amalienborg residieren darf, da sein Leben in Gefahr wäre, sollte es erneut zu einem derartigem Aufruhr kommen."
  den.41.a: "Evakuiert seine Majestät und nutzt die Bereitschaftspolizei zur Sicherung der Umgebung."
 
- den.42.t: "Die FS ruft einen Generalstreik aus"
- den.42.d: "Gerade als die Situation sich zu bessern schien, hat die 'Fagoppositions Sammensluting' (FS) den Generalstreik ausgerufen, um das zu erreichen, was die Protestierenden in Amalienborg nicht erreichen konnten. Bis jetzt haben sich dem Streik allerdings nur Syndikalisten angeschlossen, wodurch er fürs Erste nur ein kleineres Hindernis ist."
+ den.42.t: "Die VSP ruft einen Generalstreik aus"
+ den.42.d: "Gerade als die Situation sich zu bessern schien, hat die 'Venstresocialistiske Parti' (Sozialistische Linkspartei) den Generalstreik ausgerufen, um das zu erreichen, was die Protestierenden in Amalienborg nicht erreichen konnten. Bis jetzt haben sich dem Streik allerdings nur Syndikalisten angeschlossen, wodurch er fürs Erste nur ein kleineres Hindernis ist."
  den.42.a: "Nur Syndikalisten würden so etwas unterstützen..."
 
  den.43.t: "Der Generalstreik weitet sich aus"
@@ -564,11 +564,11 @@
  den.46.a: "Oh-oh..."
 
  den.47.t: "Ausrufung der Kopenhagener Kommune"
- den.47.d: "Nach der Eroberung des Schlosses hat Christian Christensen, mit der Unterstützung der FS, im Schlosshof die Kopenhagener Kommune ausgerufen, was von der Menge mit tobendem Applaus beantwortet wurde. Jedoch ist der Erfolg der Kommune noch nicht sicher, da dem König die Flucht gelungen ist und ein Großteil der Armee noch immer der alten Regierung treu ergeben ist. Das Volk jedoch beginnt, sich unter dem Banner der Kommune zu versammeln, und ihren 'Streitkräften' ist es gelungen, die Rosenberger Baracken zu übernehmen, wodurch sie nun das dortige Waffenarsenal nutzen können, um die einst friedliche Bevölkerung auf einen bewaffneten Widerstand vorzubereiten..."
+ den.47.d: "Nach der Eroberung des Schlosses hat Christian Christensen, mit der Unterstützung der VSP, im Schlosshof die Kopenhagener Kommune ausgerufen, was von der Menge mit tobendem Applaus beantwortet wurde. Jedoch ist der Erfolg der Kommune noch nicht sicher, da dem König die Flucht gelungen ist und ein Großteil der Armee noch immer der alten Regierung treu ergeben ist. Das Volk jedoch beginnt, sich unter dem Banner der Kommune zu versammeln, und ihren 'Streitkräften' ist es gelungen, die Rosenberger Baracken zu übernehmen, wodurch sie nun das dortige Waffenarsenal nutzen können, um die einst friedliche Bevölkerung auf einen bewaffneten Widerstand vorzubereiten..."
  den.47.a: "Oh-oh..."
 
  den.48.t: "Die Regierung der Kommune berät über den nächsten Schritt"
- den.48.d: "Die Regierung der Kommune hat sich heute in Schloss Amalienborg versammelt, um zu entscheiden, wie sie nun verfahren sollte. Der ehemalige Premierminister Stauning hat eine Rede gehalten, in der er dazu aufrief, mit der Armee zu verhandeln, statt den Konflikt auf dem Schlachtfeld auszutragen. Obwohl Stauning einer der populärsten Politiker Dänemarks ist, haben ihn viele Mitglieder der FS als konterrevolutionär und als Klassenverräter denunziert, einige verlangen sogar seine Verhaftung..."
+ den.48.d: "Die Regierung der Kommune hat sich heute in Schloss Amalienborg versammelt, um zu entscheiden, wie sie nun verfahren sollte. Der ehemalige Premierminister Stauning hat eine Rede gehalten, in der er dazu aufrief, mit der Armee zu verhandeln, statt den Konflikt auf dem Schlachtfeld auszutragen. Obwohl Stauning einer der populärsten Politiker Dänemarks ist, haben ihn viele Mitglieder der VSP als konterrevolutionär und als Klassenverräter denunziert, einige verlangen sogar seine Verhaftung..."
  den.48.a: "Stauning überzeugt die Mehrheit."
  den.48.b: "Stauning ist nicht überzeugend und wird verhaftet."
 
@@ -639,7 +639,7 @@
  den.63.b: "Setzt die DKF als größeren Koalitionspartner durch."
 
  den.64.t: "75 Jahre seit dem Verlust Slesvig-Holstens"
- den.64.d: "Vor einem Dreiviertel-Jahrhundert haben die Deutschen das Herzogtum Schleswig-Holstein für sich beansprucht und erobert, wodurch seitdem viele Dänen unter deutscher Herrschaft leben. Einige der radikaleren Parteien Dänemarks, zum Beispiel 'Danmarks Folkerepublikanske Parti', teilweise auch 'Dansk Samling' und der maximistische Flügel der syndikalisitischen 'Fagoppositions Sammensluting', wollen diesen Tag wieder rückgängig machen und das Herzogtum von der deutschen Unterjochung befreien.\n\nDie DFP hat sogar ein Fest organisiert, um die 'kommende Befreiung Slesvigs' zu feiern. Dieser wachsende Revanchismus ist...beunruhigend."
+ den.64.d: "Vor einem Dreiviertel-Jahrhundert haben die Deutschen das Herzogtum Schleswig-Holstein für sich beansprucht und erobert, wodurch seitdem viele Dänen unter deutscher Herrschaft leben. Es überrascht nicht, dass die dänischen Radikalen, vor allem die Danmarks Folkerepublikanske Parti, aber in gewissem Maße auch der Dansk Samling und der maximistische Flügel der Venstresocialistiske Parti, ihre Rhetorik an diesem Tag verschärft haben.\n\nDie DFP hat sogar ein Fest organisiert, um die 'kommende Befreiung Slesvigs' zu feiern. Dieser wachsende Revanchismus ist...beunruhigend."
  den.64.a: "So ist es..."
 
  den.65.t: "Die Befreiung von Christiansfeld"
@@ -673,35 +673,35 @@
  den.71.a: "Hurrah!"
 
  den.72.t: "Wahl des Außenministers"
- den.72.d: "Wie die Franzosen es verlangt haben, wird unsere Regierung radikal überholt. Von nun an werden die Aufgaben des Rigsdags vom neuen 'Fagoppositions Sammensluting' übernommen, in dem alle Arbeiter Dänemarks eine obligatorische Mitgliedschaft besitzen. Im Gegensatz zu vielen orthodox-syndikalistischen Systemen ist diese Institution offener für alle Meinungen, dadurch aber auch den radikaleren Stimmen gegenüber, wie denen der ehemaligen Mitglieder der Radikale Venstre. Heute findet die Wahl des nächsten Außenministers statt. Zur Wahl haben sich aufstellen lassen: Ib Nørlund von der orthodox-syndikalistischen Fraktion, der engere Beziehungen zur Internationale sucht, Hans Hedtoft von Staunings Fraktion, welcher eine pragmatischere Herangehensweise versuchen will und jetzt die volle Unterstützung der Internationale sucht und nach dem Krieg die Beziehung zur Internationale überdenken wird, und Otto Mohr, welcher sich nach dem Krieg wieder von der Internationale entfernen will. Es gibt zwar auch Kandidaten der Maximisten und Revolutionären, ihre Fraktionen sind aber sehr klein, wodurch sie keine echte Chance auf einen Wahlsieg haben."
+ den.72.d: "Wie die Franzosen es verlangt haben, wird unsere Regierung radikal überholt. Von nun an werden die Aufgaben des Rigsdags vom neuen Venstresocialistiske Parti (Sozialistische Linkspartei) übernommen, in dem alle Arbeiter Dänemarks eine obligatorische Mitgliedschaft besitzen. Im Gegensatz zu vielen orthodox-syndikalistischen Systemen ist diese Institution offener für alle Meinungen, dadurch aber auch den radikaleren Stimmen gegenüber, wie denen der ehemaligen Mitglieder der Radikale Venstre. Heute findet die Wahl des nächsten Außenministers statt. Zur Wahl haben sich aufstellen lassen: Ib Nørlund von der orthodox-syndikalistischen Fraktion, der engere Beziehungen zur Internationale sucht, Hans Hedtoft von Staunings Fraktion, welcher eine pragmatischere Herangehensweise versuchen will und jetzt die volle Unterstützung der Internationale sucht und nach dem Krieg die Beziehung zur Internationale überdenken wird, und Otto Mohr, welcher sich nach dem Krieg wieder von der Internationale entfernen will. Es gibt zwar auch Kandidaten der Maximisten und Revolutionären, ihre Fraktionen sind aber sehr klein, wodurch sie keine echte Chance auf einen Wahlsieg haben."
  den.72.a: "Der Kandidat der Orthodoxen, Nørlund"
  den.72.b: "Der Kandidat Staunings, Hedtoft"
  den.72.c: "Der Kandidat der Liberalen, Mohr"
 
  den.73.t: "Wahl des Wirtschaftsminsiters"
- den.73.d: "Heute wählt der Fagoppositions Sammensluting den neuen Wirtschaftsminsiter. Erneut haben nur die Kandidaten der drei größten Partei eine realistische Chance, die Wahl zu gewinnen. Diese sind der alteingesessene Poul Gissemann, welcher die Orthodoxen vertritt und sich für die Gewerkschaftsbildung in Dänemark einsetzt, Staunings Kandidat Viggo Kampmann, welcher den französischen Forderungen mit so wenigen Änderungen wie möglich nachkommen und die freie Marktwirtscahft behalten will, und Bertel Dahlgaard, welcher sich von den dreien am meisten für die freie Marktwirtschaft einsetzt, zumindest im Rahmen der Möglichkeiten, welche Frankreich uns einräumt."
+ den.73.d: "Heute wählt der Venstresocialistiske Parti (Sozialistische Linkspartei) den neuen Wirtschaftsminsiter. Erneut haben nur die Kandidaten der drei größten Partei eine realistische Chance, die Wahl zu gewinnen. Diese sind der alteingesessene Poul Gissemann, welcher die Orthodoxen vertritt und sich für die Gewerkschaftsbildung in Dänemark einsetzt, Staunings Kandidat Viggo Kampmann, welcher den französischen Forderungen mit so wenigen Änderungen wie möglich nachkommen und die freie Marktwirtscahft behalten will, und Bertel Dahlgaard, welcher sich von den dreien am meisten für die freie Marktwirtschaft einsetzt, zumindest im Rahmen der Möglichkeiten, welche Frankreich uns einräumt."
  den.73.a: "Der Kandidat der Orthodoxen, Gissemann"
  den.73.b: "Der Kandidat Staunings, Kampmann"
  den.73.c: "Der Kandidat der Liberalen, Dahlgaard"
 
  den.74.t: "Wahl des Innenministers"
- den.74.d: "Als nächstes wählt der Fagoppositions Sammensluting den Innenminister. Erneut haben nur die Kandidaten der drei größten Partei eine realistische Chance, die Wahl zu gewinnen. Einer von ihnen ist Poul Gissemann, welcher sich auch für diese Position hat aufstellen lassen und die dänische Revolution schützen will, indem er gegen die anti-syndikalistische Einstellung des Volkes vorgeht. Seine Konkurrenten sind Alsing Andersen und Jørgen Jørgensen, welche jeweils Stauning und die Liberalen vertreten. Sie sind gegen ein aggressives Vorgehen gegen die anti-syndikalistische Einstellung des Volkes, da dieses das Misstrauen der Bevölkerung dem neuen System gegenüber, welches sie als aufgezwungen betrachtet, nur stärken würde."
+ den.74.d: "Als nächstes wählt der Venstresocialistiske Parti (Sozialistische Linkspartei) den Innenminister. Erneut haben nur die Kandidaten der drei größten Partei eine realistische Chance, die Wahl zu gewinnen. Einer von ihnen ist Poul Gissemann, welcher sich auch für diese Position hat aufstellen lassen und die dänische Revolution schützen will, indem er gegen die anti-syndikalistische Einstellung des Volkes vorgeht. Seine Konkurrenten sind Alsing Andersen und Jørgen Jørgensen, welche jeweils Stauning und die Liberalen vertreten. Sie sind gegen ein aggressives Vorgehen gegen die anti-syndikalistische Einstellung des Volkes, da dieses das Misstrauen der Bevölkerung dem neuen System gegenüber, welches sie als aufgezwungen betrachtet, nur stärken würde."
  den.74.a: "Der Kandidat der Orthodoxen, Gissemann"
  den.74.b: "Der Kandidat Staunings, Andersen"
  den.74.c: "Der Kandidat der Liberalen, Jørgensen"
 
  den.75.t: "Wahl des Vorsitzenden"
- den.75.d: "Zuletzt muss der Sammensluting noch den Vorsitzenden wählen. Diese Position wurde schon lange von Christian Christensen gehalten, welcher auch kaum eine wirkliche Konkurrenz hatte, aufgrund des Zustroms neuer Mitglieder durch die Ernennung der FS zur offiziellen Regierungspartei jedoch wollen ihm nun Thorvald Stauning, dessen Sozialdemokraten ihn als Retter Dänemarks ansehen, da er das Bündnis mit den Franzosen erzielte, und Peter Munch, welcher von vielen Reaktionären, welche nun zur Mitwirkung im neuen System gezwungen sind, untersützt wird, seine Position streitig machen streitig machen."
+ den.75.d: "Zuletzt muss der Venstresocialistiske Parti (Sozialistische Linkspartei) noch den Ministerpräsident - Präsident wählen. Diese Position wurde schon lange von Christian Christensen gehalten, welcher auch kaum eine wirkliche Konkurrenz hatte, aufgrund des Zustroms neuer Mitglieder durch die Ernennung der VSP zur offiziellen Regierungspartei jedoch wollen ihm nun Thorvald Stauning, dessen Sozialdemokraten ihn als Retter Dänemarks ansehen, da er das Bündnis mit den Franzosen erzielte, und Peter Munch, welcher von vielen Reaktionären, welche nun zur Mitwirkung im neuen System gezwungen sind, untersützt wird, seine Position streitig machen streitig machen."
  den.75.a: "Christensen wird wiedergewählt"
  den.75.b: "Stauning übernimmt den Vorsitz"
  den.75.c: "Die Kryptoreaktionären verhelfen Munch zum Vorsitz"
 
  den.76.t: "Sieg der Orthodoxen"
- den.76.d: "Trotz des Zustroms an neuen Mitgliedern gelang es den Orthodoxen, die Kontrolle über den Sammensluting beizubehalten. Dänemarks Revolution wird wohl doch nicht so moderat bleiben..."
+ den.76.d: "Trotz des Zustroms an neuen Mitgliedern gelang es den Orthodoxen, die Kontrolle über den Venstresocialistiske Parti (Sozialistische Linkspartei) beizubehalten. Dänemarks Revolution wird wohl doch nicht so moderat bleiben..."
  den.76.a: "Immerhin werden die Franzosen glücklich sein..."
 
  den.77.t: "Sieg Staunings"
- den.77.d: "Der ehemalige Premierminister Stauning hat es aufgrund seiner persönlichen Popularität und seiner Reputation als Dänemarks Retter geschafft, die Kontrolle über den syndikalistischen Sammensluting zu erlangen. Dies stärkt die Anschauung des Volkes, dass, egal was auch passieren mag, die Sozialdemokraten eine Macht bleiben, mit der man rechnen muss."
+ den.77.d: "Der ehemalige Premierminister Stauning hat es aufgrund seiner persönlichen Popularität und seiner Reputation als Dänemarks Retter geschafft, die Kontrolle über den Venstresocialistiske Parti (Sozialistische Linkspartei) zu erlangen. Dies stärkt die Anschauung des Volkes, dass, egal was auch passieren mag, die Sozialdemokraten eine Macht bleiben, mit der man rechnen muss."
  den.77.a: "Das kam nicht sonderlich überraschend..."
 
  den.78.t: "Sieg der Liberalen"
@@ -709,7 +709,7 @@
  den.78.a: "Dies wird eine sehr moderate Revolution..."
 
  den.79.t: "Fehlende Mehrheit"
- den.79.d: "Der neue Zustrom an Mitgliedern sorgt dafür, dass der Fagoppositions Sammensluting nun zwischen vielen verschiedenen Parteien geteilt ist. Es kann keine Mehrheit erreicht werden, weshalb einige Parteien eine Koalition bilden müssten, um Dänemark eine stabile Regierung zu gewährleisten."
+ den.79.d: "Der neue Zustrom an Mitgliedern sorgt dafür, dass der Venstresocialistiske Parti (Sozialistische Linkspartei) nun zwischen vielen verschiedenen Parteien geteilt ist. Es kann keine Mehrheit erreicht werden, weshalb einige Parteien eine Koalition bilden müssten, um Dänemark eine stabile Regierung zu gewährleisten."
  den.79.a: "Stauning verbündet sich mit den Orthodoxen."
  den.79.b: "Stauning verbündet sich mit den Liberalen."
 
@@ -760,11 +760,11 @@
  den.92.a: "Wir haben doch schon fast gewonnen!"
 
  den.93.t: "Syndikalistloven"
- den.93.d: "Über den 'Paragraphen Nummer 349, zum Verbot der syndikalistischen Verbände und Gewerkschaften' wird bald im Folketing abgestimmt werden. Dieser soll jegliche syndikalistischen Aktivitäten verbieten, vor allem die der 'Fagoppositions Sammensluting', welche die Staatssicherheit gefährden und unseren Feinden in die Hände spielen.\n\nTrotz der Umstände ist dieses Gesetz äußerst kontrovers und einige Juristen bezeichnen es sogar als Verletzung der Assoziationsfreiheit, welche in unserer Konstitution verankert ist."
+ den.93.d: "Über den 'Paragraphen Nummer 349, zum Verbot der syndikalistischen Verbände und Gewerkschaften' wird bald im Folketing abgestimmt werden. Dieser soll jegliche syndikalistischen Aktivitäten verbieten, vor allem die der 'Venstresocialistiske Parti' (Sozialistische Linkspartei), welche die Staatssicherheit gefährden und unseren Feinden in die Hände spielen.\n\nTrotz der Umstände ist dieses Gesetz äußerst kontrovers und einige Juristen bezeichnen es sogar als Verletzung der Assoziationsfreiheit, welche in unserer Konstitution verankert ist."
  den.93.a: "Das Gesetz wird trotz der Kontroverse durchgesetzt"
  den.93.b: "Das Gesetz wird nicht durchgesetzt, die Syndikalisten dürfen weiterhin operieren."
 
- den.94.t: "Das dänische Hybriden-Regime"
+ den.94.t: "Das dänische Statsraad System"
  den.94.d: "Da der Weltkrieg für die Deutschen gerade nicht sonderlich gut verläuft, hat sich Dänemark, eine Nation, die viele als fest in der deutschen Sphäre verankert ansahen, an die Dritte Internationale angenähert, um das Überleben ihres eigenen Staates zu garantieren.\nNachdem der Versuch des dänischen Königs, ein autoritäres System in Dänemark zu etablieren, scheiterte, wurde die dortige Monarchie abgeschafft, um die Demokratie zu beschützen. Nun, da die Deutschen aufgrund der Vertreibung König Christians mit einer Invasion gedroht haben, hat die neue dänische Republik Schutz gesucht und offiziell darum gebeten, der Dritten Internationale beitreten zu dürfen. Als Bedingung für den dänischen Beitritt haben die Franzosen allerdings verlangt, dass Dänemark eine sozialistische Regierung etabliert.\nTrotz einiger Opposition hat die dänische Regierung sich dazu entschieden, diese Bedingungen zu erfüllen, solange ihre demokratischen Institutionen erhalten bleiben."
  den.94.a: "Ein Verrat wie kein anderer..."
 
@@ -773,32 +773,32 @@
  den.95.a: "Lang lebe der König!"
 
 ### Parties ###
- DEN_totalist_party: "FS"
- DEN_totalist_party_long: "Fagoppositions Sammensluting (Maksimister)"
- DEN_radical_socialist_party: "FS"
- DEN_radical_socialist_party_long: "Fagoppositions Sammensluting (Revolutionære)"
- DEN_syndicalist_party: "FS"
- DEN_syndicalist_party_long: "Fagoppositions Sammensluting (Ortodokse)"
+ DEN_totalist_party: "VSP-M"
+ DEN_totalist_party_long: "Venstresocialistiske Parti - Maksimister (Sozialistische Linkspartei - Maximisten)"
+ DEN_radical_socialist_party: "VSP-RKF"
+ DEN_radical_socialist_party_long: "Venstresocialistiske Parti - Råds Kommunistiske Faktion (Sozialistische Linkspartei - Kommunistische Ratsfraktion)"
+ DEN_syndicalist_party: "VSP-FF"
+ DEN_syndicalist_party_long: "Venstresocialistiske Parti - Fagforeningsfaktion (Sozialistische Linkspartei - Gewerkschaftsfraktion)"
  DEN_social_democrat_party: "Socialdemokraterne"
- DEN_social_democrat_party_long: "Socialdemokraterne"
+ DEN_social_democrat_party_long: "Socialdemokraterne (Sozialdemokraten)"
  DEN_market_liberal_party: "Venstre"
- DEN_market_liberal_party_long: "Venstre"
+ DEN_market_liberal_party_long: "Venstre (Liberale)"
  DEN_social_liberal_party: "Radikale Venstre"
- DEN_social_liberal_party_long: "Det Radikale Venstre"
+ DEN_social_liberal_party_long: "Det Radikale Venstre (Sozial-Liberale)"
  DEN_social_conservative_party: "KF"
- DEN_social_conservative_party_long: "Det Konservative Folkeparti (Constitutionalist)"
+ DEN_social_conservative_party_long: "Det Konservative Folkeparti - Constitutionalists (Konservative Volkspartei - Konstitutionalisten)"
  DEN_authoritarian_democrat_party: "KF"
- DEN_authoritarian_democrat_party_long: "Det Konservative Folkeparti (Autocratic)"
+ DEN_authoritarian_democrat_party_long: "Det Konservative Folkeparti - Autocratic (Konservative Volkspartei - Autokratisch)"
  DEN_paternal_autocrat_party: "DS"
- DEN_paternal_autocrat_party_long: "Dansk Samling"
+ DEN_paternal_autocrat_party_long: "Dansk Samling (Dänische Einheit)"
  DEN_national_populist_party: "DFP"
- DEN_national_populist_party_long: "Danmarks Folkerepublikanske Parti"
+ DEN_national_populist_party_long: "Danmarks Folkerepublikanske Parti (Republikanische Volkspartei Dänemarks)"
 
- DEN_syndiefaction_totalists: "Maksimister"
- DEN_syndiefaction_syndicalists: "Ortodokse"
- DEN_syndiefaction_radsoc: "Revolutionære"
- DEN_syndiefaction_socdem: "Stauningerne"
- DEN_syndiefaction_soclib: "Liberale"
+ DEN_syndiefaction_totalists: "Maksimister (Maximisten)"
+ DEN_syndiefaction_syndicalists: "Fagforenings (Gewerkschaften)"
+ DEN_syndiefaction_radsoc: "Ratskommunisten"
+ DEN_syndiefaction_socdem: "VSP-Stauningerne"
+ DEN_syndiefaction_soclib: "VSP-Liberale"
 
 ### Flags ###
  DEN_danish_republic: "Die dänische Monarchie wurde abgeschafft."

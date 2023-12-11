@@ -111,6 +111,9 @@ COL_emergency: "Ausnahmezustand"
 COL_conservative: "Conservador Regierung"
 COL_coffe_trade: "Kaffeehandel"
 
+### Decisions ###
+COL_join_international: "Tritt der [From.GetFactionName] bei"
+
 ### Focuses ###
 COL_the_mission: "Rückruf der Mission an den Reichspakt"
 COL_the_mission_desc: "Unsere Mission zum Reichspakt unter der Leitung von General Pinilla befindet sich schon seit einiger Zeit im Ausland, es ist höchste Zeit, dass wir sie endlich zurückrufen und sehen, was die führende Großmacht der Welt unseren Streitkräften beizubringen hat."
@@ -320,7 +323,7 @@ col.1.a: "Was auch immer die Zukunft bringt, wir stehen zusammen."
 
 COL_guide: "§MDie Demokratie siegt§! (§SSozialdemokraten§! / §cSozialkonservative§! / §lSozialliberale§!)\n£white_dot Wählen Sie bei den Wahlen entweder §SDie Liberalen§! oder §cDie Konversativen§!\n£white_dot Ab der zweiten Wahl werden die Liberalen zu den §lSozialliberalen§!\n\n§MAusnahmezustand§! (§PPaternal Autokratisch§!)\n£white_dot Wählen Sie bei den Wahlen von 1938 \"Die Armee soll dieser chaotischen Demokratie ein Ende setzen! Die Ordnung muss wiederhergestellt werden.\"\n\n§MSozialismus in den Anden§! (§RRadikale Sozialisten§! / §rSyndikalisten§!)\n£white_dot Bei den Wahlen von 1938 können Sie die UNIR wählen, um §RRadikale Sozialisten§! zu wählen.\n£white_dot Oder, wenn Sie demokratisch bleiben, können Sie bei den Präsidentschaftswahlen von 1946 die §rPartido Síndicalista Colombano§! wählen..\n"
 
-### Events ###
+### Election Events ###
 col.2.t: "Die Präsidentschaftswahlen 1938: Kolumbien am Scheideweg"
 col.2.d: "Die diesjährigen Präsidentschaftswahlen haben begonnen, und es wird zwar vorhergesagt, dass die Liberale Partei weiterhin die Präsidentschaft innehaben wird, aber die Konservative Partei kann das Amt ebenso gut gewinnen. Extremere Fraktionen beider Seiten haben sich abgespalten und kandidieren ebenfalls, vor allem die sozialistische UNIR unter der Führung des charismatischen Jorge Eliécer Gaitán, und es ist zu sporadischen Gewalttätigkeiten zwischen ihnen und der Rechten gekommen. Gustavo Rojas Pinilla, der gerade von seiner Reise nach Mitteleuropa zurückgekehrt ist, um sich Rüstungsaufträge zu sichern, ist besorgt darüber, dass die Struktur der Republik in Gefahr sein könnte..."
 col.2.a: "Die Liberalen gewinnen die Wahl!"
@@ -339,6 +342,17 @@ col.4.d: "Wird uns diese Wahl mehr Einigkeit bringen oder wird sie uns weiter sp
 col.4.a: "Die Liberalen, die einzig wahre Art zu regieren."
 col.4.b: "Die Konservativen werden den Weg vorgeben."
 col.4.c: "Für die Bauern, für die Arbeiter und für Kolumbien - Wählt die Syndikalisten."
+
+### Foreign Events ###
+
+col.5.t: "[From.GetNameDefCap] möchte der [Root.GetFactionName] beitreten"
+col.5.d: "[From.GetNameDefCap], haben einen Botschafter zu einem Treffen mit unserer Regierung geschickt, um [From.GetNameDefCap] in die [Root.GetFactionName] zu bringen. Sollen wir das Angebot der Kolumbianer annehmen?"
+col.5.a: "Natürlich können sie sich anschließen!"
+col.5.b: "Wir brauchen Kolumbien nicht."
+
+col.6.t: "[From.GetNameDefCap] lehnt  ab"
+col.6.d: "Die [From.GetAdjective]-Regierung hat unseren Antrag auf Beitritt zur [From.GetFactionName] abgelehnt. Vielleicht sind wir für ihre Verhältnisse nicht gut genug oder als Verbündete unwürdig. Wie auch immer, die Antwort war eindeutig nein."
+col.6.a: "Verflixt."
 
 ### Characters ###
 COL_gilberto_vieira: "Gilberto Vieira"
