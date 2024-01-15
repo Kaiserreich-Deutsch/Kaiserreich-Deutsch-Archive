@@ -41,6 +41,7 @@ annex.integration: "Pass euch unserem Territorium an."
  annex.africa.give_to_tzn: "[TZN.GetGrantTerritoryEventOption]"
  annex.africa.give_to_saf: "[SAF.GetGrantTerritoryEventOption]"
 
+ annex.asia.give_to_inc: "[INC.GetGrantTerritoryEventOption]"
  annex.asia.give_to_gea: "[GEA.GetGrantTerritoryEventOption]"
  annex.asia.give_to_dei: "[DEI.GetGrantTerritoryEventOption]"
 
@@ -1464,7 +1465,7 @@ annexation_CAM_CONQ_desc: "Unsere Armeen haben die Kontrolle über Phnom Penh ü
  annex.3025.a: "Gründung einer Kambodschanischen Republik."
  annex.3025.b: "Stärkung des Königshauses von Sisowath."
  annex.3025.c: "Stärkung des Königshauses von Norodom."
- annex.3025.e: "Übergeben Sie es zur Verwaltung an [INC.GetNameDef]."
+ annex.3025.d: "[INC.GetGrantTerritoryEventOption]"
 
 annexation_PHI_CONQ: "Das Schicksal der Philippinen"
 annexation_PHI_CONQ_desc: "Unsere Armeen haben es geschafft, die Kontrolle über die Philippinen zu übernehmen, und der Archipel ist nun von uns besetzt. Sollten wir eine Marionettenregierung organisieren?"
@@ -1695,9 +1696,8 @@ annex.3061.f: "Integrieren Sie das hawaiianische Archipel"
 
  annexation_SAMABURI_CONQ: "Das Schicksal von [882.GetName]"
  annexation_SAMABURI_CONQ_desc: "Das Gebiet von [882.GetName] wurde unter unsere Kontrolle gebracht, da unsere Truppen die Region besetzen. Wir müssen nun entscheiden, was wir damit tun wollen."
- annex.3065.a: "Geben Sie es [LAO.GetNameDef]"
- annex.3065.b: "Geben Sie es [SIA.GetNameDef]"
- annex.3065.c: "Geben Sie es [INC.GetNameDef]"
+ annex.3065.a: "[laos.GetGrantTerritoryEventOption]"
+ annex.3065.b: "[siam.GetGrantTerritoryEventOption]"
 
  annexation_BATTAMBANG_CONQ: "Das Schicksal von [825.GetName]"
  annexation_BATTAMBANG_CONQ_desc: "Das Gebiet von [825.GetName] ist unter unsere Kontrolle gebracht worden, da unsere Truppen die Region besetzt haben. Wir müssen nun entscheiden, was wir damit tun wollen."

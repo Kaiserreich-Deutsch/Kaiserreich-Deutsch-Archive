@@ -716,3 +716,80 @@ army_xp_175_tooltip: "Es kostet $army_xp_175_blocked$ diese Entscheidung zu tref
 army_xp_200: "£army_experience §H200§!"
 army_xp_200_blocked: "£army_experience §R200§!"
 army_xp_200_tooltip: "Es kostet $army_xp_200_blocked$ diese Entscheidung zu treffen"
+
+war_support3: "£war_support_texticon §H3%§!"
+war_support3_blocked: "£war_support_texticon §R3%§!"
+war_support3_blocked_tooltip: "Es kostet $war_support3_blocked$ diese Entscheidung zu treffen"
+
+war_support5: "£war_support_texticon §H5%§!"
+war_support5_blocked: "£war_support_texticon §R5%§!"
+war_support5_blocked_tooltip: "Es kostet $war_support5_blocked$ diese Entscheidung zu treffen"
+
+war_support10: "£war_support_texticon §H10%§!"
+war_support10_blocked: "£war_support_texticon §R10%§!"
+war_support10_blocked_tooltip: "Es kostet $war_support10_blocked$ diese Entscheidung zu treffen"
+
+war_support15: "£war_support_texticon §H15%§!"
+war_support15_blocked: "£war_support_texticon §R15%§!"
+war_support15_blocked_tooltip: "Es kostet $war_support15_blocked$ diese Entscheidung zu treffen"
+
+war_support20: "£war_support_texticon §H20%§!"
+war_support20_blocked: "£war_support_texticon §R20%§!"
+war_support20_blocked_tooltip: "Es kostet $war_support20_blocked$ diese Entscheidung zu treffen"
+
+stability3: "£GFX_stability_texticon §H3%§!"
+stability3_blocked: "£GFX_stability_texticon §R3%§!"
+stability3_blocked_tooltip: "Es kostet $stability3_blocked$ diese Entscheidung zu treffen"
+
+stability5: "£GFX_stability_texticon §H5%§!"
+stability5_blocked: "£GFX_stability_texticon §R5%§!"
+stability5_blocked_tooltip: "Es kostet $stability5_blocked$ diese Entscheidung zu treffen"
+
+stability10: "£GFX_stability_texticon §H10%§!"
+stability10_blocked: "£GFX_stability_texticon §R10%§!"
+stability10_blocked_tooltip: "Es kostet $stability10_blocked$ diese Entscheidung zu treffen"
+
+stability15: "£GFX_stability_texticon §H15%§!"
+stability15_blocked: "£GFX_stability_texticon §R15%§!"
+stability15_blocked_tooltip: "Es kostet $stability15_blocked$ diese Entscheidung zu treffen"
+
+stability20: "£GFX_stability_texticon §H20%§!"
+stability20_blocked: "£GFX_stability_texticon §R20%§!"
+stability20_blocked_tooltip: "Es kostet $stability20_blocked$ diese Entscheidung zu treffen"
+
+100_guns: "£rifle_texticon  §H100§!"
+100_guns_blocked: "£rifle_texticon  §R100§!"
+100_guns_tooltip: "Es kostet $100_guns_blocked$ diese Entscheidung zu treffen"
+
+150_guns: "£rifle_texticon  §H150§!"
+150_guns_blocked: "£rifle_texticon  §R150§!"
+150_guns_tooltip: "Es kostet $150_guns_blocked$ diese Entscheidung zu treffen"
+
+200_guns: "£rifle_texticon  §H200§!"
+200_guns_blocked: "£rifle_texticon  §R200§!"
+200_guns_tooltip: "Es kostet $200_guns_blocked$ diese Entscheidung zu treffen"
+
+250_guns: "£rifle_texticon  §H250§!"
+250_guns_blocked: "£rifle_texticon  §R250§!"
+250_guns_tooltip: "Es kostet $250_guns_blocked$ diese Entscheidung zu treffen"
+
+300_guns: "£rifle_texticon  §H300§!"
+300_guns_blocked: "£rifle_texticon  §R300§!"
+300_guns_tooltip: "Es kostet $300_guns_blocked$ diese Entscheidung zu treffen"
+
+500_guns: "£rifle_texticon  §H500§!"
+500_guns_blocked: "£rifle_texticon  §R500§!"
+500_guns_tooltip: "Es kostet $500_guns_blocked$ diese Entscheidung zu treffen"
+
+1000_guns: "£rifle_texticon  §H1000§!"
+1000_guns_blocked: "£rifle_texticon  §R1000§!"
+1000_guns_tooltip: "Es kostet $1000_guns_blocked$ diese Entscheidung zu treffen"
+
+2000_guns: "£rifle_texticon  §H2000§!"
+2000_guns_blocked: "£rifle_texticon  §R2000§!"
+2000_guns_tooltip: "Es kostet $2000_guns_blocked$ diese Entscheidung zu treffen"
+
+5000_guns: "£rifle_texticon  §H5000§!"
+5000_guns_blocked: "£rifle_texticon  §R5000§!"
+5000_guns_tooltip: "Es kostet $5000_guns_blocked$ diese Entscheidung zu treffen"
+

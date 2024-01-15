@@ -1119,31 +1119,9 @@ SHX_Feng_Favored_10_Year_tooltip: "Damit wird die Agenda von §gFeng Yuxiang for
 
 SHX_negotiate_econ_treaty_tt: "§cDie Vollendung dieses Schwerpunkts wird es uns ermöglichen, unseren wirtschaftlichen Status mit [QIE.GetNameDef] auszuhandeln. Wir werden uns zwar um ein günstiges Handelsabkommen bemühen, um die Folgen der Bindung unserer Wirtschaft an Beijing auszugleichen, doch wird dies auch bedeuten, dass wir nicht mehr in der Lage sein werden, Entscheidungen zu treffen, die mit dem Einfluss von Beijing zusammenhängen!§!"
 
-SHX_300_guns: "£rifle_texticon §H300§!"
-SHX_300_guns_blocked: "£rifle_texticon §R300§!"
-SHX_300_guns_tooltip: "Es kostet $SHX_300_guns_blocked$, diese Entscheidung zu treffen"
-SHX_500_guns: "£rifle_texticon §H500§!"
-SHX_500_guns_blocked: "£rifle_texticon §R500§!"
-SHX_500_guns_tooltip: "Es kostet $SHX_500_guns_blocked$, diese Entscheidung zu treffen"
-SHX_1000_guns: "£rifle_texticon §H1000§!"
-SHX_1000_guns_blocked: "£rifle_texticon §R1000§!"
-SHX_1000_guns_tooltip: "Es kostet $SHX_1000_guns_blocked$, diese Entscheidung zu treffen"
-
 SHX_army_exp_25_cp_25: "£army_experience [?25|H0] £command_power §Y15§!"
 SHX_army_exp_25_cp_25_blocked: "£army_experience [?25|R0] £command_power §R15§!"
 SHX_army_exp_25_cp_25_tt: "Es kostet $SHX_army_exp_25_cp_25_blocked$, diese Entscheidung zu treffen"
-
-SHX_war_support5: "£war_support_texticon §H5%§!"
-SHX_war_support5_blocked: "£war_support_texticon §R5%§!"
-SHX_war_support5_blocked_tooltip: "Es kostet $SHX_war_support5_blocked$, diese Entscheidung zu treffen"
-
-SHX_war_support10: "£war_support_texticon §H10%§!"
-SHX_war_support10_blocked: "£war_support_texticon §R10%§!"
-SHX_war_support10_blocked_tooltip: "Es kostet $SHX_war_support10_blocked$, diese Entscheidung zu treffen"
-
-SHX_stability10: "£GFX_stability_texticon §H10%§!"
-SHX_stability10_blocked: "£GFX_stability_texticon §R10%§!"
-SHX_stability10_blocked_tooltip: "Es kostet $SHX_stability10_blocked$, diese Entscheidung zu treffen"
 
 SHX_mobilisation_tt: "§LDiesen Schwerpunkt zu nehmen, wird es uns ermöglichen, das Stabsoffiziersausbildungsregiment zu rekrutieren und zusätzliche Entscheidungen zu treffen, um Shanxi auf einen Konflikt vorzubereiten.§!"
 

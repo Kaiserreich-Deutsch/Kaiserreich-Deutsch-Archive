@@ -561,7 +561,7 @@ guiTypes = {
 			maxHeight = 30
 			format = left
 		}
-		
+
 		instantTextBoxType = {
 			name = "bookmark_desc"
 			position = { x = 25 y = 330 }
@@ -776,7 +776,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "countries_mini"
 			position = { x = 24 y = 330 }
-			size = { width = -15 height = 120}
+			size = { width = -15 height = 120 }
 
 			gridboxType = {
 				name = "countries_grid"
@@ -831,7 +831,7 @@ guiTypes = {
 				}
 			}
 		}
-		
+
 		containerWindowType = {
 			name = "coverup_3"
 			position = { x = 526  y = 140 }
@@ -862,9 +862,10 @@ guiTypes = {
 			format = centre
 		}
 
+
 		containerWindowType = {
 			name = "coverup_5"
-			position = { x = 870 y = 235 }
+			position = { x = 870   y = 235 }
 			size = { width = 172  height = 96 }
 			clipping = yes
 
@@ -874,9 +875,9 @@ guiTypes = {
 				size = { width = 172 height = 380 }
 				background = { quadTextureSprite = "GFX_tiled_paper_bg2" }
 
-				containerWindowType = {
+				iconType = {
 					name = "backdrop_texture_5"
-					background = { quadTextureSprite = "GFX_RUS_intro" }
+					quadTextureSprite = "GFX_RUS_intro"
 					position = { x = 2  y = 2 }
 				}
 			}
@@ -901,7 +902,7 @@ guiTypes = {
 				}
 			}
 		}
-		
+
 	### END of SECTION ###
 
 		iconType = {
@@ -1680,6 +1681,12 @@ guiTypes = {
 			name = "background"
 			quadTextureSprite = "GFX_tiled_generic_bg_1"
 		}
+
+		#background = {
+		#	name = "on_indicator"
+		#	quadTextureSprite = "GFX_changed_slider_indicator"
+		#	position = { x = 602 y = 10 }
+		#}
 
 		iconType = {
 			name = "custom_difficulty_icon"
