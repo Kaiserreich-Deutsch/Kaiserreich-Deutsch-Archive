@@ -157,7 +157,7 @@ KTG_Diamonds_Are_Forever_desc: "Die Minen in Kivu sind zwar produktiver als unse
 KTG_Seize_Colonial_Expertise: "Koloniales Fachwissen nutzen"
 KTG_Seize_Colonial_Expertise_desc: "Auch wenn die meisten qualifizierten Ausländer aus der Region vertrieben worden sind. Die Ausrüstung und die Handbücher, die sie zurückgelassen haben, können immer noch genutzt werden, um Katanga selbst voranzubringen. Außerdem können wir unsere eigenen Experten ausbilden, wenn wir bestimmte qualifizierte Personen davon überzeugen, zu bleiben und ihr Wissen weiterzugeben."
 
-KTG_Colonial_Rule: "Kolonialherrschaft hält an"
+KTG_Colonial_Rule: "Kolonialherrschaft bleibt bestehen"
 KTG_Colonial_Rule_desc: "Die Mwami sind besiegt und die Kolonialherrschaft ist etabliert. Die Spannungen zwischen den flämischen Wallonen und der einheimischen Bevölkerung Katangas, die auf die Abschaffung der europäischen Bevormundung drängt, sind jedoch groß."
 KTG_Dominer_Pour_Servir: "Dominer pour Servir"
 KTG_Dominer_Pour_Servir_desc: "'Herrschen, damit wir dienen können'. Diese einfachen Worte definieren die Kolonialpolitik, die die alte belgische Regierung im Kongo verordnete. Die Kongolesen sind unsere Kinder, und wir müssen sie aufziehen und erziehen, damit auch sie in den Genuss der Tugenden des westlichen Fortschritts kommen können. Dies ist ein langsamer Prozess, und obwohl man hofft, dass die Kongolesen am Ende belohnt werden, soll die koloniale Herrschaft noch viele Jahre lang nicht verschwinden."
@@ -357,6 +357,10 @@ KTG_Sea_Connection: "Wiederhergestellte Meeresverbindung"
 KTG_TNZ_Land_Route: "Tangyanikan Landroute"
 KTG_POR_Land_Route: "Angolanische Landroute"
 KTG_Shinkolobwe: "Shinkolobwes Uran"
+
+### Introduction ###
+
+KTG_guide: "§MKolonialherrschaft bleibt bestehen§! (§gAutoritär Demokratisch§!)\n£white_dot Die flämisch-wallonische Verwaltung soll vor Ort bleiben, wenn die Mwami die Kontrolle übernehmen.\n£white_dot Wenn wir den Schwerpunkt \"Freie Wahlen von Elisabethville\" abschließen, können wir zwischen der §cCDC§!, der §lUMHK§! und der §SCDK§! wählen.\n\n§CAnmerkung: Nach Abschluss des Schwerpunkts \"Belgische Industrien beschlagnahmen\" können wir diesen Pfad nicht mehr wählen.§!\n\n§MDie Mwami übernehmen die Kontrolle§! (§PPaternal Autokratisch§!)\n£white_dot Ordnen Sie eine Massenevakuierung der Kolonie an, wenn die Mwami die Kontrolle übernehmen."
 
 ### Events ###
 

@@ -313,6 +313,10 @@ VNC_final_push_desc: "Auf dem Schlachtfeld ist ein Sieg nach dem anderen errunge
 VNC_propaganda: "Anti-Kriegs-Propaganda verbreiten"
 VNC_propaganda_desc: "Während in diesem Krieg Bruder gegen Bruder kämpft, sind die Rufe nach Frieden lauter geworden. Das Scheitern der ANI, einen raschen Sieg zu erringen, verursacht große moralische Probleme, die wir ausnutzen können. Mit Hilfe Österreichs können wir Propaganda schmuggeln, die zum Sturz von Ciano aufruft. Da viele bereits an der Fähigkeit der ANI zweifeln, den Krieg zu gewinnen, da bereits Tausende von Toten zu beklagen sind und die allgemeine Meinung vorherrscht, dass Ciano Italien den Sozialisten schutzlos ausgeliefert hat, wird dies mit Sicherheit Wirkung zeigen."
 
+### Introduction ###
+
+VNC_guide: "§MNeue Republik§! (§cSozialkonservative§! / §mMarktliberale§! / §lSozialliberale§! / §SSozialdemokraten§!)\n£white_dot Nach Abschluss des Schwerpunkts \"Öffnet den Großen Rat\", wählen Sie einen direkt gewählten und befristeten Dogen.\n£white_dot Die Wahlen finden alle 4 Jahre statt, wobei die §lPartito Cristiano Liberale§!, die §mPartito Repubblicano Veneto§!, die §cLega Cattolica§! und die §SPartito Popolare Veneto§! gewählt werden können.\n\n§MAlte Republik§! (§gAutoritär Demokratisch§! / §PPaternal Autokratisch§!)\n£white_dot Wählen Sie die alte Methode; in etwa 2 Wochen werden wir den neuen Dogen wählen, entweder unter Beibehaltung von Giuseppe Volpi und der §gConsiglio Ducale§! oder durch Wahl von Giovanni Ponti und der §PMaggior Consiglio§!."
+
 ### Events ###
 venice.1.t: "Erste Sitzung des Großen Rates"
 venice.1.d: "Zum ersten Mal seit über hundert Jahren tritt der Große Rat von Venedig wieder zusammen. Mitglieder aus der ganzen Republik versammeln sich in Venedig, um darüber zu diskutieren, wie die venezianische Republik strukturiert werden soll. Es haben sich bereits zwei Lager herausgebildet: diejenigen, die Venedig als moderne Republik sehen wollen, und diejenigen, die die alte Republik wiederherstellen wollen."

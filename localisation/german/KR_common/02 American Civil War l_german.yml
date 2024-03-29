@@ -305,6 +305,10 @@ amcivwar.62.d: "Mit dem Ausbruch des Bürgerkriegs wurde unsere Garnison in den 
 amcivwar.62.a: "Holen wir unsere Männer nach Hause!"
 amcivwar.62.b: "Wir sollten es nicht riskieren."
 
+amcivwar.63.t: "Notfallvorräte"
+amcivwar.63.d: "Während sich die Rebellen um die Bewaffnung ihrer Milizen bemühen, haben wir die strategischen Waffenlager geöffnet, deren Standorte nur wenigen bekannt waren. Auch wenn diese unterirdischen Lager absolut nicht die neueste Ausrüstung enthalten, so handelt es sich doch um Abertausende von Ausrüstungen für amerikanische Infanteristen, die für den schlimmsten Tag gedacht sind - und der schlimmste Tag ist wohl gekommen."
+amcivwar.63.a: "Los geht's!"
+
 amcivwar.64.t: "Not des Bürgerkriegs"
 amcivwar.64.d: "Der Bürgerkrieg bringt die Not nach Hause. Menschen in einer Reihe loyaler Städte hungern. Wir könnten uns darauf konzentrieren, ihr Leiden zu lindern, aber dies wird bedeuten, die Vorräte umzuleiten, die die Front benötigt, um den Bürgerkrieg zu führen. Kongress und Militär sind sich in dieser Hinsicht uneins. Was sollen wir machen?"
 amcivwar.64.a: "Das zivilie Leiden lindern."
@@ -587,8 +591,8 @@ amcivwar.320.b: "Verräter!"
 
 amcivwar.321.t: "Bundeskontrolle in Minnesota aufrechterhalten"
 amcivwar.321.d: "Die Gewalt durch syndikalistische Milizgruppen breitete sich auf die Stadt Minneapolis und die umliegende Region aus. Auf den Straßen und auf dem Flughafen von Minneapolis wurden Berichten zufolge mehrere bewaffnete Gruppen angegriffen. Bevor sich die Gewalt jedoch weiter ausbreiten konnte, erklärte der Gouverneur von Minnesota die Treue des Staates zum eigentlichen Land und widmete die loyale Nationalgarde des Staates erneut der Bekämpfung der Aufständischen. Während der Kampf weitergeht, bleibt der Staat vorerst in Bundeshand. Ein ähnlicher Aufstand in Iowa ist ebenfalls gescheitert - mit der von den Föderalisten gezähmten Brutstätte der ehemaligen Bauernarbeit-Partei ist es unwahrscheinlich, dass Iowas Sozialisten große Fortschritte machen. "
-amcivwar.321.a: "Gut"
-amcivwar.321.b: "Ich sehe es"
+amcivwar.321.a: "Gut."
+amcivwar.321.b: "Ich sehe es."
 
 amcivwar.322.t: "North Carolina erklärt Unterstützung für Huey Long"
 amcivwar.322.d: "Als Reaktion auf den zunehmenden Druck von Milizgruppen in Charlotte erklärte der Gouverneur von North Carolina heute, dass der Staat sich denjenigen anschließen werde, die mit Huey Long in Verbindung stehen. Zwar gibt es Berichte über Unruhen in mehreren Städten, doch der größte Teil des Staates scheint die Entscheidung des Gouverneurs zu unterstützen, und bereits ziehen sich die Bundeskräfte aus der Region zurück, bevor sie überwältigt werden. "
@@ -690,7 +694,7 @@ amcivwar.524.b: "Es macht keinen Unterschied - Sie werden beide verlieren"
 
 amcivwar.525.t: "Pakt mit dem Teufel"
 amcivwar.525.d: "Mit ihren Kräften hart durchgedrückt [enemy_country.GetNameDef], haben Vertreter von [truce_support.GetNameDef] und [truce_enemy.GetNameDef] einen temporären Frieden beschlossen. Da wir unsere Unterstützung für die erklärt haben [truce_support.GetAdjective], liegt es an uns, ihrem Deal zu folgen ... zumindest für den Moment."
-amcivwar.525.a: "So soll es sein"
+amcivwar.525.a: "So soll es sein."
 
 amcivwar.526.t: "Der Waffenstillstand ist vorbei"
 amcivwar.526.d: "Der temporäre Waffenstillstand zwischen [can_ally.GetNameDef] und [can_enemy.GetNameDef] ist vorbei. [can_ally.GetAdjective] ruft die Entente dazu auf, dem Krieg wieder beizutreten."
@@ -923,7 +927,7 @@ amcivwar.722.c: "Wir müssen zuschlagen! Zu den Waffen!"
 amcivwar.723.t: "New England unterwirft sich MacArthur"
 amcivwar.723.d: "Wir haben die Nachricht erhalten, dass die Gouverneure von New England Kanada um Schutz gebeten haben, aber die Regierung in Ottawa lehnte ab. Ohne kanadischen Schutz baten die Gouverneure General MacArthur um Schutz vor den syndikalistischen Kräften. Obwohl die Staaten möglicherweise nicht ganz hinter MacArthur stehen, sind sie zumindest entschlossen, ihn als ihre beste Chance zur Vermeidung eines Krieges zu sehen. "
 amcivwar.723.a: "Nachdem New England gesichert ist, können wir uns jetzt darauf konzentrieren, New York zu belagern."
-amcivwar.723.b: "Das ist nicht gut"
+amcivwar.723.b: "Das ist nicht gut..."
 amcivwar.723.c: "Verdammt."
 
 amcivwar.724.t: "CSA Partisanen in Buffalo"

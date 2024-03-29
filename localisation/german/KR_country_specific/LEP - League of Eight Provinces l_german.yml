@@ -5,61 +5,108 @@
 League_of_Eight: "Schwerpunktbaum von Liga der Acht Provinzen"
 
 ### Characters ###
+#孫傳芳
 LEP_sun_chuanfang: "Sun Chuanfang"
-LEP_sun_chuanfang_leader_desc: "Wie viele seiner Kollegen, die mit einer Vielzahl von farbenfrohen Spitznamen aufwarten, ist Marschall Sun Chuanfang als 'Der lächelnde Tiger' bekannt. Seine größte Stärke liegt in der sorgfältigen Pflege persönlicher Beziehungen, denn er versteht es meisterhaft, sich in den lokalen Einfluss- und Intrigengeflechten zurechtzufinden; er nutzt jeden, von alten Armeefreunden über reiche Bankiers bis hin zu ausländischen Würdenträgern. Gerade die letzte Kategorie hat sich als sein größter Trumpf erwiesen, und seine deutschen Verbindungen sind unentbehrlich geworden.\nAllerdings hat sein Spitzname auch einen unheilvollen Unterton. Unter einer Maske des Lächelns ist er schwer zu durchschauen, und er hat sowohl ehemalige Freunde als auch ehemalige Feinde nach gegenteiligen Beteuerungen hingerichtet. Diese Eigenschaften haben Sun an die Spitze einer riesigen bürokratischen Pyramide und zu einem der mächtigsten Männer Chinas gemacht."
-LEP_sun_chuanfang_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g17. April 1885, in Taian, Shandong, Qing-Reich§!\n§YMilitärkarriere:§! §g$LEP_sun_chuanfang_leader_desc$§!"
+LEP_sun_chuanfang_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 17. April 1885, in Taian, Provinz Shandong, Qing-Reich\n§YPolitkkarriere:§! Wie viele seiner Kollegen, die mit einer Vielzahl von farbenfrohen Spitznamen aufwarten, ist Marschall Sun Chuanfang als 'Der lächelnde Tiger' bekannt. Seine größte Stärke liegt in der sorgfältigen Pflege persönlicher Beziehungen, denn er versteht es meisterhaft, sich in den lokalen Einfluss- und Intrigengeflechten zurechtzufinden; er nutzt jeden, von alten Armeefreunden über reiche Bankiers bis hin zu ausländischen Würdenträgern. Gerade die letzte Kategorie hat sich als sein größter Trumpf erwiesen, und seine deutschen Verbindungen sind unentbehrlich geworden.\nAllerdings hat sein Spitzname auch einen unheilvollen Unterton. Unter einer Maske des Lächelns ist er schwer zu durchschauen, und er hat sowohl ehemalige Freunde als auch ehemalige Feinde nach gegenteiligen Beteuerungen hingerichtet. Diese Eigenschaften haben Sun an die Spitze einer riesigen bürokratischen Pyramide und zu einem der mächtigsten Männer Chinas gemacht."
+LEP_sun_chuanfang_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g17. April 1885, in Taian, Provinz Shandong, Qing-Reich§!\n§YMilitärkarriere:§! §g$LEP_sun_chuanfang_leader_desc$§!"
 
+#齊燮元
 LEP_qi_xieyuan: "Qi Xieyuan"
-LEP_qi_xieyuan_leader_desc: "An der Akademie erwarb sich Qi einen Ruf für seine geringe Körpergröße, seine meisterhafte Kalligraphie und seine Gerissenheit. Als Soldat diente ihm nur eines davon, aber es katapultierte ihn in Ostchina an die Spitze. Sein Aufstieg wurde nur durch eine Kombination aus Invasion und Verrat durch die Alliierten Ende 1924 unterbrochen.\n In den nächsten Jahren blieb Qi im Exil und plante seine Rückkehr, und nach der Konferenz von Shanghai sicherte er sich die deutsche Unterstützung, die ihm erlaubte, sich in der Stadt Wuxi niederzulassen. Sun Chuanfang duldete seine Anwesenheit, vielleicht weil er der Meinung war, dass Feinde am besten in der Nähe bleiben sollten; ein Gefühl, das er später vielleicht bedauerte."
-LEP_qi_xieyuan_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1879, in Ninghe, Zhili, Qing-Reich§!\n§YMilitärkarriere:§! §g$LEP_qi_xieyuan_leader_desc$§!"
+LEP_qi_xieyuan_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 1879, in Ninghe, Provinz Zhili, Qing-Reich\n§YPolitkkarriere:§! An der Akademie erwarb sich Qi einen Ruf für seine geringe Körpergröße, seine meisterhafte Kalligraphie und seine Gerissenheit. Als Soldat diente ihm nur eines davon, aber es katapultierte ihn in Ostchina an die Spitze. Sein Aufstieg wurde nur durch eine Kombination aus Invasion und Verrat durch die Alliierten Ende 1924 unterbrochen.\n In den nächsten Jahren blieb Qi im Exil und plante seine Rückkehr, und nach der Konferenz von Shanghai sicherte er sich die deutsche Unterstützung, die ihm erlaubte, sich in der Stadt Wuxi niederzulassen. Sun Chuanfang duldete seine Anwesenheit, vielleicht weil er der Meinung war, dass Feinde am besten in der Nähe bleiben sollten; ein Gefühl, das er später vielleicht bedauerte."
+LEP_qi_xieyuan_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1879, in Ninghe, Provinz Zhili, Qing-Reich§!\n§YMilitärkarriere:§! §g$LEP_qi_xieyuan_leader_desc$§!"
 
+#陳儀
 LEP_chen_yi: "Chen Yi"
-LEP_chen_yi_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g3. Mai 1883, in Shaoxing, Zhejiang, Qing-Reich§!\n§YMilitärkarriere:§! §gWie viele Offiziere seiner Generation hat auch Chen Yi die Rikugun Shikan Gakkō-Militärakademie in Japan absolviert. Noch ungewöhnlicher ist, dass er auch als Vorsitzender einer Bank tätig war. Chen Yi schloss sich 1924 der Südlichen Zhili-Fraktion von Sun Chuanfang an und erlangte durch seine brutale Unterdrückung der chinesischen Syndikalisten im Schanghaier Aufstand von 1932 große Bekanntheit. Als Belohnung für seine bedingungslosen Dienste wurde er zum Gouverneur der Provinz Zhejiang ernannt und löste damit Lu Xiangting ab. Unter seinem Regime könnte man Zhejiang als das geografische und wirtschaftliche Gegenstück zu Jiangsu betrachten, mit einem kleinen, aber wohlhabenden Norden und verzweifelt armen südlichen Regionen. Obwohl Chen selbst nicht besonders anfällig für Bestechungsgelder ist, ignoriert er routinemäßig die Übergriffe seiner Untergebenen, um abweichende Meinungen zu unterdrücken, und nur wenige Soldatenregimenter können trotz seines Rufs als strenger Zuchtmeister als wirklich loyal zu seiner Person angesehen werden."
+LEP_chen_yi_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g3. Mai 1883, in Shaoxing, Provinz Zhejiang, Qing-Reich§!\n§YMilitärkarriere:§! §gWie viele Offiziere seiner Generation hat auch Chen Yi die Rikugun Shikan Gakkō-Militärakademie in Japan absolviert. Noch ungewöhnlicher ist, dass er auch als Vorsitzender einer Bank tätig war. Chen Yi schloss sich 1924 der Südlichen Zhili-Fraktion von Sun Chuanfang an und erlangte durch seine brutale Unterdrückung der chinesischen Syndikalisten im Schanghaier Aufstand von 1932 große Bekanntheit. Als Belohnung für seine bedingungslosen Dienste wurde er zum Gouverneur der Provinz Zhejiang ernannt und löste damit Lu Xiangting ab. Unter seinem Regime könnte man Zhejiang als das geografische und wirtschaftliche Gegenstück zu Jiangsu betrachten, mit einem kleinen, aber wohlhabenden Norden und verzweifelt armen südlichen Regionen. Obwohl Chen selbst nicht besonders anfällig für Bestechungsgelder ist, ignoriert er routinemäßig die Übergriffe seiner Untergebenen, um abweichende Meinungen zu unterdrücken, und nur wenige Soldatenregimenter können trotz seines Rufs als strenger Zuchtmeister als wirklich loyal zu seiner Person angesehen werden."
 
+#鄭俊彥
 LEP_zheng_junyan: "Zheng Junyan"
-LEP_zheng_junyan_commander_desc: "§YGeneral Beschreibung\nMilitärkarriere:§! §gAls Gouverneur von Jiangsu hat Zheng Junyuan seine Hochburg in der Stadt Xuzhou errichtet, die an einem der wichtigsten Eisenbahnknotenpunkte Chinas und weit entfernt von Sun Chuanfangs Machtzentrale in Nanjing liegt. Dank seiner Positionierung ist es ihm gelungen, sich ein gewisses Maß an Autonomie zu sichern, indem er Sun, Wu Peifu und die Deutschen gegeneinander ausspielte, um einen sicheren und zuverlässigen Zugang zur Eisenbahnlinie zu erhalten. Außerdem rivalisiert er mit Zhang Zongchang um die Kontrolle der Nord-Süd-Linie und es ist bekannt, dass er eine Reihe von Mitteilungen über die beunruhigende Ausbreitung des Yiguandao-Glaubens nach Nanjing geschickt hat. Unter Zhengs Herrschaft ist Jiangsu als eine Provinz der Gegensätze bekannt, deren ärmste Regionen im Norden an Shandong grenzen, während einige der reichsten Bezirke Chinas im Süden an den Ufern des Jangtse liegen."
+LEP_zheng_junyan_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1883, im Kreis Ningjin, Provinz Zhili, Qing-Reich\nMilitärkarriere:§! §gAls Gouverneur von Jiangsu hat Zheng Junyuan seine Hochburg in der Stadt Xuzhou errichtet, die an einem der wichtigsten Eisenbahnknotenpunkte Chinas und weit entfernt von Sun Chuanfangs Machtzentrale in Nanjing liegt. Dank seiner Positionierung ist es ihm gelungen, sich ein gewisses Maß an Autonomie zu sichern, indem er Sun, Wu Peifu und die Deutschen gegeneinander ausspielte, um einen sicheren und zuverlässigen Zugang zur Eisenbahnlinie zu erhalten. Außerdem rivalisiert er mit Zhang Zongchang um die Kontrolle der Nord-Süd-Linie und es ist bekannt, dass er eine Reihe von Mitteilungen über die beunruhigende Ausbreitung des Yiguandao-Glaubens nach Nanjing geschickt hat. Unter Zhengs Herrschaft ist Jiangsu als eine Provinz der Gegensätze bekannt, deren ärmste Regionen im Norden an Shandong grenzen, während einige der reichsten Bezirke Chinas im Süden an den Ufern des Jangtse liegen."
 
+#鄧如琢
 LEP_deng_ruzhou: "Deng Ruzuo"
-LEP_deng_ruzhou_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1888, in Fuyang, Anhui, Qing Empire§!\n§YMilitärkarriere:§! §gUnter dem Regime von Deng hat Jiangxi eine Reihe von Merkmalen mit dem nördlich gelegenen Anhui gemeinsam, vor allem die überwiegend arme und ländliche Bevölkerung. Ein Großteil der Provinz hat sich nie wirklich von den weitreichenden Zerstörungen des Taiping-Aufstandes erholt, und selbst nach siebzig Jahren sind manchmal noch die Ruinen verlassener Städte in den Bergen zu sehen. Im Gegensatz zu Anhui ist Jiangxi der deutschen Aufmerksamkeit nicht ganz entgangen. Die Stadt Nanchang und ihre Umgebung sind die geplante Endstation der neuen Zhegan-Eisenbahn, die die Stadt mit Shanghai verbinden und neue Märkte und Ressourcen im chinesischen Hinterland erschließen wird. Von besonderem Interesse für die Deutschen ist die Stadt Jingdezhen, deren Porzellan in Berlin hohe Preise erzielen konnte, aber auch andere, weniger legale Geschäfte wie der Handel mit gestohlenen Antiquitäten. Bisher wurde die neue Eisenbahn hauptsächlich mit deutscher Finanzierung gebaut, obwohl es Gerüchte gibt, dass die Deutschen beabsichtigen, die Eisenbahn komplett zu kaufen; Gerüchte, die den Anhängern der KMT, die sich im Süden der Provinz verstecken, wahrscheinlich Kraft geben."
+LEP_deng_ruzhou_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1888, in Fuyang, Provinz Anhui, Qing-Reich§!\n§YMilitärkarriere:§! §gUnter dem Regime von Deng hat Jiangxi eine Reihe von Merkmalen mit dem nördlich gelegenen Anhui gemeinsam, vor allem die überwiegend arme und ländliche Bevölkerung. Ein Großteil der Provinz hat sich nie wirklich von den weitreichenden Zerstörungen des Taiping-Aufstandes erholt, und selbst nach siebzig Jahren sind manchmal noch die Ruinen verlassener Städte in den Bergen zu sehen. Im Gegensatz zu Anhui ist Jiangxi der deutschen Aufmerksamkeit nicht ganz entgangen. Die Stadt Nanchang und ihre Umgebung sind die geplante Endstation der neuen Zhegan-Eisenbahn, die die Stadt mit Shanghai verbinden und neue Märkte und Ressourcen im chinesischen Hinterland erschließen wird. Von besonderem Interesse für die Deutschen ist die Stadt Jingdezhen, deren Porzellan in Berlin hohe Preise erzielen konnte, aber auch andere, weniger legale Geschäfte wie der Handel mit gestohlenen Antiquitäten. Bisher wurde die neue Eisenbahn hauptsächlich mit deutscher Finanzierung gebaut, obwohl es Gerüchte gibt, dass die Deutschen beabsichtigen, die Eisenbahn komplett zu kaufen; Gerüchte, die den Anhängern der KMT, die sich im Süden der Provinz verstecken, wahrscheinlich Kraft geben."
 
+#周蔭人
 LEP_zhou_yinren: "Zhou Yinren"
-LEP_zhou_yinren_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1887, in Wuqiang, Zhili, Qing Empire§!\n§YMilitärkarriere:§! §gAls langjähriger Untergebener und ehemaliger Klassenkamerad von Sun Chuanfang sind Zhou Yinren und der Liga-Marschall persönlich miteinander verbunden. Vielleicht wurde Zhou deshalb die Gouverneurschaft über Fujian anvertraut, die gebirgigste und verarmteste der Acht Provinzen. Ein schmaler Küstenstreifen macht den größten Teil des Gebietes aus, das unter direkter Herrschaft steht, und in jedem Hafen von Fujian sind die Deutschen stark vertreten. Obwohl die großzügige Hilfe aus Nanjing Zhou geholfen hat, ein größeres Maß an Kontrolle über die Provinz zu erlangen, als er und seine Vorgänger im letzten Jahrzehnt hatten, befindet sich ein Großteil der Provinz nach wie vor in einem Zustand der Beinahe-Anarchie, und Teile sind an einen agrarsozialistischen Überrest der KMT gefallen. Diese Rebellen, die gelegentlich die Küstensiedlungen überfallen, haben bisher zwei Strafexpeditionen widerstanden, die sie vertreiben sollten."
+LEP_zhou_yinren_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1887, in Wuqiang, Provinz Zhili, Qing-Reich§!\n§YMilitärkarriere:§! §gAls langjähriger Untergebener und ehemaliger Klassenkamerad von Sun Chuanfang sind Zhou Yinren und der Liga-Marschall persönlich miteinander verbunden. Vielleicht wurde Zhou deshalb die Gouverneurschaft über Fujian anvertraut, die gebirgigste und verarmteste der Acht Provinzen. Ein schmaler Küstenstreifen macht den größten Teil des Gebietes aus, das unter direkter Herrschaft steht, und in jedem Hafen von Fujian sind die Deutschen stark vertreten. Obwohl die großzügige Hilfe aus Nanjing Zhou geholfen hat, ein größeres Maß an Kontrolle über die Provinz zu erlangen, als er und seine Vorgänger im letzten Jahrzehnt hatten, befindet sich ein Großteil der Provinz nach wie vor in einem Zustand der Beinahe-Anarchie, und Teile sind an einen agrarsozialistischen Überrest der KMT gefallen. Diese Rebellen, die gelegentlich die Küstensiedlungen überfallen, haben bisher zwei Strafexpeditionen widerstanden, die sie vertreiben sollten."
 
+#上官雲相
 LEP_shangguan_yunxiang: "Shangguan Yunxiang"
-LEP_shangguan_yunxiang_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1895, in Jinan, Shandong, Qing Empire§!\n§YMilitärkarriere:§! §gObwohl er in eine mäßig wohlhabende Familie hineingeboren wurde, verbrachte Shangguan Yunxiang seine Jugend inmitten von Entbehrungen, da das Geld unter seinen zahlreichen Geschwistern aufgeteilt wurde. Nach seinem Schulabschluss in Baoding im Jahr 1919 wurde er zu Sun Chuanfangs Armee in Hubei geschickt, und 1923 folgte er Sun nach Fujian. Shangguan erwarb sich bald den Ruf eines äußerst fähigen Generals. Sein größter Erfolg war die Niederlage der 4. Armee der NRA, die zuvor Wu Peifus Armee an der Tingsi-Brücke besiegt hatte. Noch heute sieht Sun Chuanfang dies als Beweis für die Überlegenheit seiner Koalition gegenüber den von Wu Peifu direkt kontrollierten Divisionen."
+LEP_shangguan_yunxiang_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1895, in Jinan, Provinz Shandong, Qing-Reich§!\n§YMilitärkarriere:§! §gObwohl er in eine mäßig wohlhabende Familie hineingeboren wurde, verbrachte Shangguan Yunxiang seine Jugend inmitten von Entbehrungen, da das Geld unter seinen zahlreichen Geschwistern aufgeteilt wurde. Nach seinem Schulabschluss in Baoding im Jahr 1919 wurde er zu Sun Chuanfangs Armee in Hubei geschickt, und 1923 folgte er Sun nach Fujian. Shangguan erwarb sich bald den Ruf eines äußerst fähigen Generals. Sein größter Erfolg war die Niederlage der 4. Armee der NRA, die zuvor Wu Peifus Armee an der Tingsi-Brücke besiegt hatte. Noch heute sieht Sun Chuanfang dies als Beweis für die Überlegenheit seiner Koalition gegenüber den von Wu Peifu direkt kontrollierten Divisionen."
 
+#周鳳岐
 LEP_zhou_fengqi: "Zhou Fengqi"
-LEP_zhou_fengqi_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1879, in Changxing, Zhejiang, Qing Empire§!\n§YMilitärkarriere:§! §gZhou Fengqi begann seine Karriere als konfuzianischer Gelehrter der späten Qing-Dynastie, wandte sich jedoch gegen die herrschende Dynastie, als er sich auf Vermittlung von Qiu Jin der Anti-Qing-Bewegung Guangfuhui anschloss. Er wandte sich konsequent gegen die Übervorteilung durch die Zentralregierung und unterstützte die Kampagnen "Zhejiang unter der Herrschaft des Volkes von Zhejiang" und "Unabhängigkeit von Ningbo". Nachdem er Sun Chuanfang bei der Übernahme von Zhejiang geholfen hatte, sicherte er sich eine Beförderung zum Garnisonskommandeur von Nanjing. Er kann als Loyalist von Sun Chuanfangs Nanjing-Fraktion betrachtet werden und schloss sich der Unterdrückung der Syndikalisten während des Aufstands in Shanghai 1932 an."
+LEP_zhou_fengqi_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1879, in Changxing, Provinz Zhejiang, Qing-Reich§!\n§YMilitärkarriere:§! §gZhou Fengqi begann seine Karriere als konfuzianischer Gelehrter der späten Qing-Dynastie, wandte sich jedoch gegen die herrschende Dynastie, als er sich auf Vermittlung von Qiu Jin der Anti-Qing-Bewegung Guangfuhui anschloss. Er wandte sich konsequent gegen die Übervorteilung durch die Zentralregierung und unterstützte die Kampagnen "Zhejiang unter der Herrschaft des Volkes von Zhejiang" und "Unabhängigkeit von Ningbo". Nachdem er Sun Chuanfang bei der Übernahme von Zhejiang geholfen hatte, sicherte er sich eine Beförderung zum Garnisonskommandeur von Nanjing. Er kann als Loyalist von Sun Chuanfangs Nanjing-Fraktion betrachtet werden und schloss sich der Unterdrückung der Syndikalisten während des Aufstands in Shanghai 1932 an."
 
+#湯恩伯
 LEP_tang_enbo: "Tang Enbo"
-LEP_tang_enbo_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §gSeptember 20th, 1900, in Jinhua, Zhejiang, Qing Empire§!\n§YMilitärkarriere:§! §gTang Enbo wurde von Chen Yi auf die Akademie der kaiserlich japanischen Armee geschickt, um Stabsoffizier zu werden, und die beiden können als Förderer und Schützling betrachtet werden. An der Akademie beschäftigte sich Tang intensiv mit der Infanteriedoktrin, und seine daraus resultierende Kompetenz hat ihm den Respekt von Sun Chuanfang eingebracht.\nVor allem zieht es Tang vor, seine Truppen mit Hilfe moderner Kommunikationsmittel statt von der Front aus zu führen."
+LEP_tang_enbo_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g20. September 1900, in Jinhua, Provinz Zhejiang, Qing-Reich§!\n§YMilitärkarriere:§! §gTang Enbo wurde von Chen Yi auf die Akademie der kaiserlich japanischen Armee geschickt, um Stabsoffizier zu werden, und die beiden können als Förderer und Schützling betrachtet werden. An der Akademie beschäftigte sich Tang intensiv mit der Infanteriedoktrin, und seine daraus resultierende Kompetenz hat ihm den Respekt von Sun Chuanfang eingebracht.\nVor allem zieht es Tang vor, seine Truppen mit Hilfe moderner Kommunikationsmittel statt von der Front aus zu führen."
 
+#石友三
 LEP_shi_yousan: "Shi Yousan"
-LEP_shi_yousan_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1891, in Jiutai, Jilin, Qing Empire§!\n§YMilitärkarriere:§! §gShi Yousan begann seine militärische Laufbahn 1908 unter dem Kommando von Wu Peifu, aber in den Wirren der Xinhai-Revolution wurde er in Beijing zurückgelassen. Im Jahr 1912 schloss er sich der Armee von Feng Yuxiang an und wurde ein zuverlässiger Untergebener. Kurze Zeit später desertierte er, nachdem ihn Yan Xishan dazu überredet hatte. Anschließend diente er in der Nationalen Revolutionsarmee, desertierte aber auch dort nach dem Scheitern der Nordexpedition. Anschließend nahm er am Vierten Zhili-Fengtian-Krieg teil, diesmal als Mitglied von Feng Yuxiangs Guominjun, aber auch hier wurde Fengs Vertrauen missbraucht. Sobald sich der Sieg der Zhili-Clique abzeichnete, desertierte er wie üblich und kehrte zu den Truppen von Wu Peifu zurück. Zu diesem Zeitpunkt war sein Trend zur Illoyalität jedoch nicht mehr zu übersehen. Wu Peifu wies ihn an, stattdessen unter Sun Chuanfang zu dienen. Innerhalb der LEP hat Shi Yousan die persönlichen Vorteile der Arbeit mit deutscher Unterstützung zu schätzen gelernt, aber wer weiß, wann er wieder desertieren wird..."
+LEP_shi_yousan_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1891, in Jiutai, Provinz Jilin, Qing-Reich§!\n§YMilitärkarriere:§! §gShi Yousan begann seine militärische Laufbahn 1908 unter dem Kommando von Wu Peifu, aber in den Wirren der Xinhai-Revolution wurde er in Beijing zurückgelassen. Im Jahr 1912 schloss er sich der Armee von Feng Yuxiang an und wurde ein zuverlässiger Untergebener. Kurze Zeit später desertierte er, nachdem ihn Yan Xishan dazu überredet hatte. Anschließend diente er in der Nationalen Revolutionsarmee, desertierte aber auch dort nach dem Scheitern der Nordexpedition. Anschließend nahm er am Vierten Zhili-Fengtian-Krieg teil, diesmal als Mitglied von Feng Yuxiangs Guominjun, aber auch hier wurde Fengs Vertrauen missbraucht. Sobald sich der Sieg der Zhili-Clique abzeichnete, desertierte er wie üblich und kehrte zu den Truppen von Wu Peifu zurück. Zu diesem Zeitpunkt war sein Trend zur Illoyalität jedoch nicht mehr zu übersehen. Wu Peifu wies ihn an, stattdessen unter Sun Chuanfang zu dienen. Innerhalb der LEP hat Shi Yousan die persönlichen Vorteile der Arbeit mit deutscher Unterstützung zu schätzen gelernt, aber wer weiß, wann er wieder desertieren wird..."
 
+#楊樹莊
 LEP_yang_shuzhuang: "Yang Shuzhuang"
-LEP_yang_shuzhuang_admiral_desc: "§YAdmiral Beschreibung\nGeboren:§! §g1882, in Fuzhou, Fujian, Qing Empire§!\n§YMarinekarriere:§! §g"
+LEP_yang_shuzhuang_admiral_desc: "§YAdmiral Beschreibung\nGeboren:§! §g1882, in Fuzhou, Provinz Fujian, Qing-Reich§!\n§YMarinekarriere:§! §g"
+
+#陳兆鏘
 LEP_chen_zhaoqiang: "Chen Zhaoqiang"
 
 LEP_board_of_directors: "Verwaltungsrat"
 
+#王克敏
 LEP_wang_kemin: "Wang Kemin"
+
+#馬玉仁
 LEP_ma_yuren: "Ma Yuren"
+
+#張心一
 LEP_zhang_xinyi: "Zhang Xinyi"
+
+#章太炎
 LEP_zhang_taiyan: "Zhang Taiyan"
+
+#陳陶遺
 LEP_chen_taoyi: "Chen Taoyi"
+
+#丁文江
 LEP_ding_wenjiang: "Ding Wenjiang"
+
+#危道豐
 LEP_wei_daofeng: "Wei Daofeng"
+
+#潘國綱
 LEP_pan_guogang: "Pan Guogang"
+
+#湯爾和
 LEP_tang_erhe: "Tang Erhe"
+
 LEP_hermann_kriebel: "Hermann Kriebel"
+
+#陳大慶
 LEP_chen_ta_ching: "Chen Ta-ching"
+
+#黃維
 LEP_huang_wei: "Huang Wei"
+
+#張定璠
 LEP_zhang_dingfan: "Zhang Dingfan"
+
+#邱清泉
 LEP_qiu_qingquan: "Qiu Qingquan"
+
+#錢宗澤
 LEP_qian_zongze: "Qian Zongze"
+
+#陳嘉尚
 LEP_chen_jia_shang: "Chen Jia-shang"
+
+#劉粹剛
 LEP_liu_cuigang: "Liu Cuigang"
+
+#程天放
 LEP_cheng_tienfong: "Chen Tienfong"
 
 # Multi-use scripted local

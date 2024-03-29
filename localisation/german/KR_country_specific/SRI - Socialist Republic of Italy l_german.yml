@@ -347,7 +347,7 @@ SRI_seven_points_manifesto_desc: "Wir werden den Prozess der Umsetzung des Siebe
  SRI_leggi_fascistissime: "Leggi Fascistissime (Faschistische Gesetze)"
  SRI_leggi_fascistissime_desc: "Es ist an der Zeit, unsere Herrschaft wirklich zu festigen, da kein Außenstehender mehr Einfluss auf die Regierung haben soll. Italien soll nur von einer einzigen Partei geführt werden, und die bürokratische Natur der vorherigen Regierung soll unseren Hoffnungen und Träumen von einem starken, unabhängigen Italien nicht mehr im Wege stehen!"
  SRI_reform_the_party: "Reform der Partei"
- SRI_reform_the_party_desc: "Es gibt Leute in unserer Partei, die ... die Loyalität Mussolinis gegenüber Italien nicht verstehen. Sie leugnen, dass Italien ohne ihn unter dem Stiefel der rückständigen Reaktionäre gewesen wäre. Im Gegenzug werden sie von der Macht entfernt, und die wahren Loyalisten werden ihre Posten erhalten. Die Partei wird als Partito Nazionale Fascista (Nationale Faschistische Partei) wiedergeboren und folgt Mussolini ohne Frage in die Hölle!"
+ SRI_reform_the_party_desc: "Es gibt in unserer Partei einige, die ... die Loyalität Mussolinis gegenüber Italien nicht verstehen. Sie leugnen, dass Italien ohne ihn unter dem Stiefel der rückständigen Reaktionäre gewesen wäre. Im Gegenzug werden sie von der Macht entfernt, und die wahren Loyalisten werden ihre Posten erhalten. Die Partei wird als Partito del Lavoro Fascista wiedergeboren und folgt Mussolini ohne Frage in die Hölle!"
  SRI_create_the_national_guard: "Gründung der Nationalgarde"
  SRI_create_the_national_guard_desc: "Die Schwarzhemden werden in die Nationale Republikanische Garde umgewandelt! Ein geistiger Nachfolger der Carabinieri des alten royalistischen Regimes, um gegen alle äußeren und vor allem inneren Kräfte zu kämpfen, die versuchen, Unruhe zu stiften und den neuen Wohlstand zu zerstören, den unser glorreicher Führer hervorgebracht hat."
  SRI_loyalty_to_mussolini: "[SRI.loyalty_to_mussolini_focus_name]"
@@ -986,7 +986,7 @@ SRI_seven_points_manifesto_desc: "Wir werden den Prozess der Umsetzung des Siebe
  socitaly.127.d.major: "Das Gleichgewicht auf der italienischen Halbinsel ist seit dem Ende des Bürgerkriegs empfindlich, da [SRI.GetNameDef] einen angespannten Frieden mit seinen Nachbarn aufrechterhält, weil er weiß, dass eine Einmischung der Franzosen mit Sicherheit eine Intervention der Deutschen und Österreicher nach sich ziehen würde. Daher musste jeder Konflikt in Italien ein eigenständiger sein. Mit dem Krieg, in den die Syndikalisten nun hineingezogen wurden, hat sich die Situation offiziell geändert: Das Gleichgewicht ist gestört."
  socitaly.127.a: "Wir können um Hilfe bitten!"
  socitaly.127.b: "Das bedeutet Ärger..."
- socitaly.127.c: "Ich verstehe"
+ socitaly.127.c: "Ich verstehe."
 
  socitaly.128.t: "Eine Einladung"
  socitaly.128.d: "Jetzt, da das so genannte "Gleichgewicht" in Italien nicht mehr gewährleistet ist, hat [From.GetNameDef] eine formelle Einladung an [SRI.GetNameDef] ausgesprochen, sich den Reihen der Dritten Internationale anzuschließen."

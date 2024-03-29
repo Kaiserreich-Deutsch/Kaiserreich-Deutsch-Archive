@@ -699,52 +699,96 @@ SIK_xinjiang_railways: "Xinjiang verbinden"
 SIK_xinjiang_railways_desc: "Das größte Ziel eines modernen Gouverneurs von Xinjiang ist eine Eisenbahn. Aufgrund der extremen Temperaturen, der Biegsamkeit und der Kosten für unmöglich gehalten, könnte es an der Zeit sein, den Traum wiederzubeleben."
 
 ### Characters ###
+#楊增新
 SIK_yang_zengxin: "Yang Zengxin"
-SIK_yang_zengxin_leader_desc: "Seit der Nordexpedition und der darauf folgenden deutschen Intervention ist Yang Zengxin in großer Panik und kränklich im Alter. Er verbringt die meiste Zeit versteckt in seinem Haus und geht aus Angst vor einem Attentat oder seiner letzten schicksalhaften Krankheit kaum noch aus dem Haus. Abgesehen davon, dass er innerhalb Chinas politisch völlig isoliert ist, weiß man nicht, wie lange er in seinem jetzigen Zustand noch leben wird, aber er ist sicherlich nicht in einem stabilen Zustand."
+SIK_yang_zengxin_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 4. März 1864, in Mengzi, Provinz Yunnan, Qing-Reich\n§YPolitikkarriere:§! Seit der Nordexpedition und der darauf folgenden deutschen Intervention ist Yang Zengxin in großer Panik und kränklich im Alter. Er verbringt die meiste Zeit versteckt in seinem Haus und geht aus Angst vor einem Attentat oder seiner letzten schicksalhaften Krankheit kaum noch aus dem Haus. Abgesehen davon, dass er innerhalb Chinas politisch völlig isoliert ist, weiß man nicht, wie lange er in seinem jetzigen Zustand noch leben wird, aber er ist sicherlich nicht in einem stabilen Zustand."
 
 SIK_ishaq_bey: "Ishaq Bey"
 
+#樊耀南
 SIK_fan_yaonan: "Fan Yaonan"
-SIK_fan_yaonan_leader_desc: "Fan Yaonan wurde zunächst vom Qing-Beamten Zhang Zhidong anerkannt und innerhalb von Hubei befördert. Er konnte genug Geld sparen, um an der Waseda-Universität in Japan Jura zu studieren. Nach seinem Abschluss war Fan bis zu seiner Ernennung zum Gerichtsdirektor als Lehrer an der Xinjiang Law School tätig. Im selben Jahr wurde das Gericht aufgelöst, und Fan reiste nach Peking, um der Beiyang-Regierung zu dienen. Da er für den Posten des Dao-Yin von Dihua nicht in Frage kam, wurde Fan zum Dao-Yin des ärmeren Aksu ernannt. Fan bildete sich weiter, lernte Russisch an der Russischen Rechtsschule von Xinjiang und bemühte sich, den Zusammenhalt zwischen den neu in Aksu angekommenen russischen Einwanderern zu fördern. 1920 ernannte Gouverneur Yang Zengxin Fan zum Vertreter Xinjiangs bei Russland, und Fan handelte ein Abkommen aus, das die russischen Zölle für Xinjiang bis 1940 abschaffte. Fan Yaonan ist bekannt für seine Bescheidenheit und seinen stillen Widerstand gegen die Überbesteuerung von Aksu durch Gouverneur Yang Zengxin."
+SIK_fan_yaonan_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 1879, im Kreis Gong'an, Provinz Hubei, Qing-Reich\n§YPolitikkarriere:§! Fan Yaonan wurde zunächst vom Qing-Beamten Zhang Zhidong anerkannt und innerhalb von Hubei befördert. Er konnte genug Geld sparen, um an der Waseda-Universität in Japan Jura zu studieren. Nach seinem Abschluss war Fan bis zu seiner Ernennung zum Gerichtsdirektor als Lehrer an der Xinjiang Law School tätig. Im selben Jahr wurde das Gericht aufgelöst, und Fan reiste nach Peking, um der Beiyang-Regierung zu dienen. Da er für den Posten des Dao-Yin von Dihua nicht in Frage kam, wurde Fan zum Dao-Yin des ärmeren Aksu ernannt. Fan bildete sich weiter, lernte Russisch an der Russischen Rechtsschule von Xinjiang und bemühte sich, den Zusammenhalt zwischen den neu in Aksu angekommenen russischen Einwanderern zu fördern. 1920 ernannte Gouverneur Yang Zengxin Fan zum Vertreter Xinjiangs bei Russland, und Fan handelte ein Abkommen aus, das die russischen Zölle für Xinjiang bis 1940 abschaffte. Fan Yaonan ist bekannt für seine Bescheidenheit und seinen stillen Widerstand gegen die Überbesteuerung von Aksu durch Gouverneur Yang Zengxin."
 
+#馬紹武
 SIK_ma_shaowu: "Ma Shaowu"
-SIK_ma_shaowu_leader_desc: "Ma Shaowus Ruf war bereits durch die Taten seines Sufi-Verwandten Ma Yuanzhang geprägt, der gegen die Regierung von Yang Zengxin und den hanafitischen Hui-Kriegsherrn Ma Fuxiang gearbeitet hatte. Dennoch verbrachte Ma Shaowu seine ersten Jahre in den Diensten der Qing und von Yang Zengxin. Yang Zengxin war von Ma Shaowus Loyalität beeindruckt und beauftragte ihn 1924 mit der Beseitigung des Kriegsherrn Ma Fuxing. Ma Shaowu erhielt als Belohnung das Dao-Yin von Hotan. Als Dao-Yin verfolgte Ma Shaowu eine Politik, die sich eher gegen die aggressive russische Einwanderung richtete, und brachte den Uiguren und den mongolischen Einwohnern wenig Achtung entgegen. Nach einem Mordanschlag durch einen kirgisischen Türken ließ Ma Shaowu seine gebrochenen Beine in Russland behandeln. Ma Shaowu erzählte seine Geschichte dem reisenden Journalisten Peter Fleming, der die Widerstandsfähigkeit des alten Mannes und seinen asketischen Lebensstil kommentierte."
+SIK_ma_shaowu_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 1874, im Kreis Tonghai, Provinz Yunnan, Qing-Reich\n§YPolitikkarriere:§! Ma Shaowus Ruf war bereits durch die Taten seines Sufi-Verwandten Ma Yuanzhang geprägt, der gegen die Regierung von Yang Zengxin und den hanafitischen Hui-Kriegsherrn Ma Fuxiang gearbeitet hatte. Dennoch verbrachte Ma Shaowu seine ersten Jahre in den Diensten der Qing und von Yang Zengxin. Yang Zengxin war von Ma Shaowus Loyalität beeindruckt und beauftragte ihn 1924 mit der Beseitigung des Kriegsherrn Ma Fuxing. Ma Shaowu erhielt als Belohnung das Dao-Yin von Hotan. Als Dao-Yin verfolgte Ma Shaowu eine Politik, die sich eher gegen die aggressive russische Einwanderung richtete, und brachte den Uiguren und den mongolischen Einwohnern wenig Achtung entgegen. Nach einem Mordanschlag durch einen kirgisischen Türken ließ Ma Shaowu seine gebrochenen Beine in Russland behandeln. Ma Shaowu erzählte seine Geschichte dem reisenden Journalisten Peter Fleming, der die Widerstandsfähigkeit des alten Mannes und seinen asketischen Lebensstil kommentierte."
 
+#盛世才
 SIK_sheng_shicai: "Sheng Shicai"
-SIK_sheng_shicai_leader_desc: "Sheng wurde als Sohn einer geschäftstüchtigen, aber armen Familie in der Mandschurei geboren, die ihm den Besuch der Forst- und Landwirtschaftsschule in Shenyang finanzierte. Sheng besuchte 1917 die Waseda-Universität, wo er eine Mischung aus der Rhetorik Sun Yat-Sens und dem Buch "ABC des Sozialismus" kennenlernte. Nach seiner Rückkehr im Jahr 1920 bezeichnete sich Sheng als Marxist und beschloss, dem Militärdienst beizutreten. Zunächst kämpfte er 1924 unter Zhang Zuolin, wurde aber über die anti-intellektuelle Politik Zhangs verärgert und ging erneut nach Japan, um eine weitere militärische Ausbildung zu erhalten. Nach dem Scheitern der Nordexpedition kehrte Sheng nach China zurück und schloss sich 1928 den Guominjun unter Feng Yuxiang an. Nach der Zerstörung von Gansu nahm Sheng ein Angebot von Fan Yaonan an, die Garnison von Aksu zu leiten. Sheng erfuhr 1935 von Jin Shurens Ausflug in die Untergrundpolitik und entschied sich, Yang Zengxin nicht zu alarmieren, da er latent marxistische Ideale hatte und gegen Yangs Despotismus war."
+SIK_sheng_shicai_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 8. Januar 1897, in Kaiyuan, Bezirk Shengjing, Reich der Qing\n§YPolitikkarriere:§! Sheng wurde als Sohn einer geschäftstüchtigen, aber armen Familie in der Mandschurei geboren, die ihm den Besuch der Forst- und Landwirtschaftsschule in Shenyang finanzierte. Sheng besuchte 1917 die Waseda-Universität, wo er eine Mischung aus der Rhetorik Sun Yat-Sens und dem Buch "ABC des Sozialismus" kennenlernte. Nach seiner Rückkehr im Jahr 1920 bezeichnete sich Sheng als Marxist und beschloss, dem Militärdienst beizutreten. Zunächst kämpfte er 1924 unter Zhang Zuolin, wurde aber über die anti-intellektuelle Politik Zhangs verärgert und ging erneut nach Japan, um eine weitere militärische Ausbildung zu erhalten. Nach dem Scheitern der Nordexpedition kehrte Sheng nach China zurück und schloss sich 1928 den Guominjun unter Feng Yuxiang an. Nach der Zerstörung von Gansu nahm Sheng ein Angebot von Fan Yaonan an, die Garnison von Aksu zu leiten. Sheng erfuhr 1935 von Jin Shurens Ausflug in die Untergrundpolitik und entschied sich, Yang Zengxin nicht zu alarmieren, da er latent marxistische Ideale hatte und gegen Yangs Despotismus war."
 
+#金樹仁
 SIK_jin_shuren: "Jin Shuren"
-SIK_jin_shuren_leader_desc: "Jin Shurens Karriere begann in Gansu, wo er als Direktor der mit Qing verbündeten Gansu Normal School tätig war. Jin nutzte diese Position, um die Prüfungen für den kaiserlichen Staatsdienst zu bestehen, wodurch er die Aufmerksamkeit von Yang Zengxin auf sich zog. Als Yang 1908 zum Gouverneur von Xinjiang ernannt wurde, wurde Jin sein Bezirksmagistrat. In den darauf folgenden Revolutionsjahren wurde Yangs Verwaltungspersonal dezimiert, so dass Jin immer weiter aufstieg, bis er 1927 zum Kommissar für zivile Angelegenheiten in Urmuqi ernannt wurde. Jin begann, seine Position als Kommissar zu nutzen, um sich bei verschiedenen Propagandabewegungen aus Südchina beliebt zu machen. Die KMT-Bewegung im Untergrund und die entstehenden föderalistischen Bewegungen sahen in Jin einen vorbildlichen Han-Bürokraten, der den ihrer Meinung nach unwürdigen Provinzbewohnern diente."
+SIK_jin_shuren_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 1879, im Kreis Yongjing, Provinz Gansu, Qing-Reich\n§YPolitikkarriere:§! Jin Shurens Karriere begann in Gansu, wo er als Direktor der mit Qing verbündeten Gansu Normal School tätig war. Jin nutzte diese Position, um die Prüfungen für den kaiserlichen Staatsdienst zu bestehen, wodurch er die Aufmerksamkeit von Yang Zengxin auf sich zog. Als Yang 1908 zum Gouverneur von Xinjiang ernannt wurde, wurde Jin sein Bezirksmagistrat. In den darauf folgenden Revolutionsjahren wurde Yangs Verwaltungspersonal dezimiert, so dass Jin immer weiter aufstieg, bis er 1927 zum Kommissar für zivile Angelegenheiten in Urmuqi ernannt wurde. Jin begann, seine Position als Kommissar zu nutzen, um sich bei verschiedenen Propagandabewegungen aus Südchina beliebt zu machen. Die KMT-Bewegung im Untergrund und die entstehenden föderalistischen Bewegungen sahen in Jin einen vorbildlichen Han-Bürokraten, der den ihrer Meinung nach unwürdigen Provinzbewohnern diente."
 
 #龍協麟
 SIK_long_xielin: "Long Xielin"
 
+#包爾漢·沙希迪
 SIK_burhan_shahidi: "Burhan Shahidi"
-SIK_burhan_shahidi_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g3. Oktober 1894, im Gouvernement Kasan, Russisches Reich\n§YPolitische Karriere:§! §gBurhan Shahidi wurde 1894 im russischen Gouvernement Kasan als Sohn einer Familie geboren, deren Vorfahren nach einem gescheiterten Bauernaufstand während der Qing-Dynastie aus Aksu geflohen waren. Seine Familie war arm und er erhielt in seinen frühen Jahren kaum Schulbildung. Nach der Xinhai-Revolution im Jahr 1912 begleitete Burhan tatarische Kaufleute nach Dihua in Xinjiang und arbeitete dort als Lehrling und Lagerist. 1914 konnte Burhan aufgrund der Abstammung seiner Familie die chinesische Staatsbürgerschaft bei der Republik China beantragen und erhalten. Er sprach Uigurisch, Mandarin-Chinesisch, Russisch, Türkisch und etwas Arabisch und fungierte als Dolmetscher für den Gouverneur von Xinjiang, Yang Zengxin. Durch die Arbeit unter Yang Zengxin verschlechterten sich Burhans Beziehungen zur türkischen Gemeinschaft, und die uigurischen Mitbürger begannen, Burhan zu ächten. Burhans bescheidene Position in Yangs Verwaltung bedeutete, dass er nicht in der Lage war, dieses Misstrauen zu überwinden, und das Abdriften der uigurischen Gemeinschaft in Richtung Rebellion entfremdete Burhan weiter. Schließlich entschied sich Burhan dafür, ab 1929 Kurse an der Armeeschule in Baoding zu besuchen, was es ihm ermöglichte, von Yang sowohl als Verwalter als auch als Offizier eingestellt zu werden. Als Burhan 1934 nach Xinjiang zurückkehrte, stellte er fest, dass sich die Verwaltung im Niedergang befand und nicht in der Lage war, die wachsende Kluft zwischen der uigurischen Gemeinschaft und dem Volk zu überwinden, und dass er sich damit abgefunden hatte, ein effektiver Beamter unter der seiner Meinung nach bestmöglichen Verwaltung zu sein, um Xinjiang zu industrialisieren."
+SIK_burhan_shahidi_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g3. Oktober 1894, im Gouvernement Kasan, Russisches Reich\n§YPolitikkarriere:§! §gBurhan Shahidi wurde 1894 im russischen Gouvernement Kasan als Sohn einer Familie geboren, deren Vorfahren nach einem gescheiterten Bauernaufstand während der Qing-Dynastie aus Aksu geflohen waren. Seine Familie war arm und er erhielt in seinen frühen Jahren kaum Schulbildung. Nach der Xinhai-Revolution im Jahr 1912 begleitete Burhan tatarische Kaufleute nach Dihua in Xinjiang und arbeitete dort als Lehrling und Lagerist. 1914 konnte Burhan aufgrund der Abstammung seiner Familie die chinesische Staatsbürgerschaft bei der Republik China beantragen und erhalten. Er sprach Uigurisch, Mandarin-Chinesisch, Russisch, Türkisch und etwas Arabisch und fungierte als Dolmetscher für den Gouverneur von Xinjiang, Yang Zengxin. Durch die Arbeit unter Yang Zengxin verschlechterten sich Burhans Beziehungen zur türkischen Gemeinschaft, und die uigurischen Mitbürger begannen, Burhan zu ächten. Burhans bescheidene Position in Yangs Verwaltung bedeutete, dass er nicht in der Lage war, dieses Misstrauen zu überwinden, und das Abdriften der uigurischen Gemeinschaft in Richtung Rebellion entfremdete Burhan weiter. Schließlich entschied sich Burhan dafür, ab 1929 Kurse an der Armeeschule in Baoding zu besuchen, was es ihm ermöglichte, von Yang sowohl als Verwalter als auch als Offizier eingestellt zu werden. Als Burhan 1934 nach Xinjiang zurückkehrte, stellte er fest, dass sich die Verwaltung im Niedergang befand und nicht in der Lage war, die wachsende Kluft zwischen der uigurischen Gemeinschaft und dem Volk zu überwinden, und dass er sich damit abgefunden hatte, ein effektiver Beamter unter der seiner Meinung nach bestmöglichen Verwaltung zu sein, um Xinjiang zu industrialisieren."
 
+#李溶
 SIK_li_rong: "Li Rong"
+
+#邱宗浚
 SIK_qiu_zongjun: "Qiu Zongjun"
+
+#金樹信
 SIK_jin_shuxin: "Jin Shuxin"
+
+#金繩武
 SIK_jin_shengwu: "Jin Shengwu"
 
+#俞秀松
 SIK_yu_xiusong: "Yu Xiusong"
+
+#烏靜彬
 SIK_wu_jingbin: "Wu Jingbin"
+
+#張鳳九
 SIK_zhang_fengjiu: "Zhang Fengjiu"
+
+#廣祿
 SIK_guanglu: "Guanglu"
+
+#劉文龍
 SIK_liu_wenlong: "Liu Wenlong"
+
+#閻毓善
 SIK_yan_yushan: "Yan Yushan"
+
 SIK_yibulayin: "Yibulayin"
+
 SIK_huashengmu: "Huashengmu"
+
 SIK_alen_zheniskhanovich: "Alen Zheniskhanovich"
 
+#張培元
 SIK_zhang_peiyuan: "Zhang Peiyuan"
+
+#周務學
 SIK_zhou_wuxue: "Zhou Wuxue"
+
+#呂黎平
 SIK_lu_liping: "Lu Liping"
+
+#李笑天
 SIK_li_xiaotian: "Li Xiaotian"
+
+#牛時
 SIK_niu_shi: "Niu Shi"
+
+#黎海如
 SIK_li_hairu: "Li Hairu"
+
+#盛世騏
 SIK_sheng_shiqi: "Sheng Shiqi"
+
+#蔣德裕
 SIK_jiang_deyu: "Jiang Deyu"
+
+#陳御風
 SIK_chen_yufeng: "Chen Yufeng"
 
 ### Traits ###

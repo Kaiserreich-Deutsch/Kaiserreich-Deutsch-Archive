@@ -207,4 +207,11 @@
  mie.18.t: "Deutsches Entlastungs-Abkommne"
  mie.18.d: "Unsere Freunde in Berlin haben uns nicht allein gelassen! Trotz ihrer eigenen wirtschaftlichen Misere hat die deutsche Regierung verkündet, dass unsere Getreideexporte von den verstärkt-protektionistischen Richtlinien der deutschen Handelspolitik, welche dem Schutze ihres eigenen landwirtschaftlichen Sektors dienen, ausgenommen werden. Zudem waren sie dazu bereit, einige unserer Kredite bei deutschen Banken umzuschulden, was uns das Tragen der finanziellen Last auf unseren Schultern etwas erleichtert. Insgesamt sollten die Entscheidungen der Deutschen unsere wirtschaftliche Lage und vor allem das Lot unserer Bauernschaft etwas verbessern."
  mie.18.a: "Welch wohltätige Verbündete wir doch haben."
- 
+
+ mie.19.t: "Die Stunde rückt näher"
+ mie.19.d: "Unsere Aufklärungseinheiten haben massive russische Truppenbewegungen entlang der Grenze beobachtet. Nach Jahren der zunehmenden Spannungen scheint [RUS.GetNameDef] nun die Eroberung Osteuropas und die Zerschlagung unserer Unabhängigkeit voranzutreiben. Die Osteuropäische Verteidigungskooperation hat die militärischen Kapazitäten sowohl unserer Nation als auch unserer Verbündeten gestärkt - wir blicken dem kommenden Sturm vorbereitet entgegen. Deutschland hat uns nun jedoch darüber informiert, dass sie es bevorzugen würden, wenn unsere Verteidigungsanlagen die Russen zurückhalten könnten, bis die deutsche Armee die Internationale im Westen zerschlagen hat, da eine Aufteilung des Heeres den Zweifrontenkrieg zweifelsohne erschweren würde."
+ mie.19.a: "Sind sie des Wahnsinns? Wir können uns Russland nicht einfach allein entgegenstellen!"
+ mie.19.b: "Wir sind dazu bereit, uns und unsere Nachbarstaaten zu verteidigen!"
+ mie.19.c: "Wir sind dazu bereit, uns selbst zu verteidigen!"
+ mie.19.b.tt: "Bis §H[FRA.GetNameDef]§! kapituliert hat, werden weder §HDeutschland§! noch seine Verbündeten Divisionen zur Verteidigung unserer Grenzen entsenden - wir werden den Russen allein gegenüberstehen.\nNationen der §HOsteuropäischen Verteidigungskooperation§! werden sich auch weiterhin gegenseitig verteidigen können.\n\n§RWARNUNG: Dies wird den Krieg gegen Russland schwieriger gestalten.§!"
+ mie.19.c.tt: "Bis §H[FRA.GetNameDef]§! kapituliert hat, werden weder §HDeutschland§! noch seine Verbündeten Divisionen zur Verteidigung der §HOsteuropäischen Verteidigungskooperation§! entsenden.\n\n§RWARNUNG: Dies wird den Krieg gegen Russland schwieriger gestalten. Außerdem wird Russland zusätzliche Infanterieausrüstung erhalten.§!"

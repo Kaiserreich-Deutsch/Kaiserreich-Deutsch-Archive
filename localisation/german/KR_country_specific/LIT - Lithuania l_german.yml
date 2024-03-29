@@ -354,7 +354,7 @@
  LIT_Plech_indiscriminate_arrests_desc: "Um die Litauische Aktivistenfront am besten abzuschrecken, muss man ihre gesamte Mitgliedschaft ins Visier nehmen. Durch das Zusammentreiben einer großen Anzahl von Personen kann das Militär zumindest einige Mitglieder festnehmen, auch wenn einige, die in das Netz geraten, unschuldig sein könnten."
  
  LIT_Plech_intensify_military_presence: "Verstärkung der Militärpräsenz"
- LIT_Plech_intensify_military_presence_def: "Durch die Stationierung von Soldaten in den Dörfern und die Einrichtung von Kontrollpunkten erhöht sich die Wahrscheinlichkeit, dass Transporte oder Mitglieder der LAF aufgegriffen werden."
+ LIT_Plech_intensify_military_presence_desc: "Durch die Stationierung von Soldaten in den Dörfern und die Einrichtung von Kontrollpunkten erhöht sich die Wahrscheinlichkeit, dass Transporte oder Mitglieder der LAF aufgegriffen werden."
 
  LIT_Naruto_rural_outreach: "Ländliche Aufklärungskampagnen"
  LIT_Naruto_rural_outreach_desc: "Um die Popularität der LAF bei der Landbevölkerung zu bekämpfen, wird das Asis-Regime eine Kampagne zur Kontaktaufnahme mit der Landbevölkerung starten und dabei die örtlichen Gemeindevorsteher einbeziehen."
@@ -2082,7 +2082,7 @@
 
  LIT.311.t: "Die Krönung des Königs"
  LIT.311.d: "Litauen scheint durch die Könige zu gehen wie ein Türke durch seine Zigaretten. Da es sich um den dritten innerhalb von zehn Jahren handelt, ist die Größe eines solchen Ereignisses dem litauischen Volk nicht bewusst, insbesondere in diesen dunklen Zeiten. Nichtsdestotrotz hat die Regierung Himmel und Erde in Bewegung gesetzt, um sicherzustellen, dass Eberhard eine Krönung erhält, die der eines Großherzogs gleichkommt. Die Straßen, die zur Kathedrale von Vilnius führen, waren mit großherzoglichen Utensilien gesäumt, und die Straßen waren mit Menschen gesäumt, denen ein kostenloser Feiertag versprochen wurde, falls sie an der Feier teilnehmen.\n\nAls der König öffentlich die Krone annahm und seinen Eid schwor, Litauen zu dienen, wandte er sich an die Tribüne und begann seine Rede. Im Gegensatz zu seinem verstorbenen Bruder hielt Eberhard, der nun als Mindaugas III. gekrönt wurde, seine Rede auf Litauisch, um dann mit Leichtigkeit ins Polnische und Jiddische zu wechseln. Er beendete seine Rede auf Weißrussisch, obwohl es offensichtlich war, dass er immer noch versucht, die Sprache zu lernen. Insgesamt ging es in seiner Rede darum, dass Litauen als Nation einen Schritt nach vorne machen muss und dass die wahre Bedrohung von außen kommt, die wahre Bedrohung ist Russland. Diese letzte Bemerkung führte zu einem mächtigen Gebrüll, bei dem die Menge Mindaugas Namen skandierte, während Plechavičius lächelnd seine Pfeife rauchte und man ihn sagen hörte..."
- LIT.311.a: "Er ist ganz und gar nicht wie sein Bruder... Der Bastard hat Eier"
+ LIT.311.a: "Er ist ganz und gar nicht wie sein Bruder... Der Bastard hat Eier."
 
  LIT.312.t: "Die Bedrohung aus dem Osten"
  LIT.312.d: "[LIT.GetLeader] hat eine Grundsatzrede über die wahre Bedrohung Litauens gehalten, nämlich die russische Bedrohung. Unabhängig von der Muttersprache eint das Litauisch-Sein das Land, und die Russen bedrohen die Existenz eines jeden Bürgers, so dass alles getan werden muss, um diese Bedrohung zu bekämpfen. Die Rede wurde sowohl von der Armee als auch vom kooperierenden Teil der zivilen Bürokratie gutgeheißen.\n\n Mit diesem Aufruf scheint es, dass das Volk ihm wie seinem Bruder einen Titel gegeben hat. Für Vytautas war es der Architektenkönig, aber für Mindaugas ist es der Kriegerkönig."

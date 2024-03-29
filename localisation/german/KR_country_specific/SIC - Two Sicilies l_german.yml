@@ -647,7 +647,7 @@
 
  sic.106.t: "Ansprüche über Norditalien"
  sic.106.d: "Jetzt, da der Krieg mit dem Norden vorüber ist, sind unsere Ansprüche auf Norditalien nicht mehr notwendig."
- sic.106.a: "So sei es"
+ sic.106.a: "So sei es."
 
  sic.107.t: "Österreichische Freundschaft"
  sic.107.d: "Ein habsburgischer Gesandter, Erzherzog Maximilian Eugen, ist im Rahmen eines diplomatischen Besuchs bei unserem König in Neapel eingetroffen. Er hat in privaten Audienzen Mitglieder unserer Regierung gebeten, sich um die Wiederherstellung der Beziehungen zwischen unseren beiden Nationen zu bemühen, die durch den Abzug des österreichischen Schutzes im Jahr 1925 sehr gelitten haben. Sollten wir einer Neubelebung der Beziehungen nachkommen?"
@@ -715,7 +715,7 @@
 
  sic.119.t: "[From.GetNameDefCap] verlässt [Root.GetFactionName]"
  sic.119.d: "Obwohl es keine leichte Entscheidung war, hat sich die [From.GetAdjective] Regierung dazu entschlossen, die [Root.GetFactionName] zu verlassen, trotz des Versuchs von [Root.GetNameDef], sie zum Verbleib zu bewegen. Sie beabsichtigt, den [Uniter.GetAdjective] Vorschlag anzunehmen."
- sic.119.a: "So sei es"
+ sic.119.a: "So sei es."
 
  sic.120.t: "[From.GetNameDefCap] macht Entscheidung rückgängig"
  sic.120.d: "Die Enttäuschung über unsere Weigerung, der [From.GetFactionName] beizutreten ist groß. [From.GetNameDef] hat uns nun mitgeteilt, dass sie unserem Vorschlag nicht zustimmen kann. Ihr Engagement für ihre Verbündeten ist zu groß. Sie haben uns jedoch die Möglichkeit offen gelassen, damit wir uns ihnen wieder annähern können, sobald ihr Krieg beendet ist."
@@ -724,7 +724,7 @@
 
  sic.121.t: "[From.GetNameDefCap] macht Entscheidung rückgängig"
  sic.121.d: "Die Enttäuschung über unsere Weigerung, der [From.GetFactionName] beizutreten ist groß. [From.GetNameDef] hat uns nun mitgeteilt, dass sie unserem Vorschlag nicht zustimmen kann. Sie behaupten, ihr Engagement für ihre Verbündeten ist zu groß. Außerdem haben sie nicht angedeutet, dass sie für weitere Diskussionen offen sind. Offenbar haben sie die Absicht, ihre Unabhängigkeit zu bewahren und die [From.GetFactionName] als Rückhalt zu haben."
- sic.121.a: "So sei es"
+ sic.121.a: "So sei es."
  sic.121.b: "Wir werden sehen!"
 
  sic.122.t: "[From.GetNameDefCap] stimmt unserem Vorschlag zu"
@@ -767,7 +767,7 @@
  sic.130.t: "[From.GetNameDefCap] lehnt ab"
  sic.130.d.ref: "Nach einem umstrittenen dreiwöchigen Referendum hat uns die [From.GetAdjective] Regierung mitgeteilt, dass die Abstimmung knapp gescheitert ist. Das [From.GetAdjective] Volk hat sich entschieden - ob aus Misstrauen gegenüber [Root.GetNameDef] oder aus dem Wunsch nach einem besseren Angebot, kann nicht beurteilt werden - und somit wird der Vorschlag von [Root.GetNameDef] abgelehnt. [From.GetNameDefCap] wird seine Unabhängigkeit beibehalten."
  sic.130.d.noref: "Nach wochenlangen Beratungen hat uns die [From.GetAdjective] Regierung mitgeteilt, dass der Vorschlag von [Root.GetNameDef] abgelehnt wurde. Ob aus Misstrauen gegenüber der [Root.GetAdjective] Regierung oder aus dem Wunsch nach einem besseren Angebot, können wir nicht sagen, jedoch haben sie die feste Absicht, ihre Unabhängigkeit zu wahren."
- sic.130.a: "So sei es"
+ sic.130.a: "So sei es."
  sic.130.b: "Ich fürchte, das wird nicht der Fall sein."
 
  sic.140.t: "Die Agrarfrage"

@@ -377,7 +377,7 @@
  SWE_pansarskep_desc: "Wir sollten in 'Pansarskep'-Schlachtkreuzer investieren, um unsere Präsenz in den Meeren, die unsere Heimat umgeben, zu sichern. Diese größeren Schiffe werden sicherstellen, dass wir auch in Zukunft eine Macht sind, mit der man rechnen muss."
  SWE_swedish_cruisers: "Begleitkreuzer"
  SWE_swedish_cruisers_desc: "Wenn wir unsere maritimen Ambitionen verwirklichen wollen, ist es von entscheidender Bedeutung, dass wir über genügend kleinere Kreuzer verfügen, um die größeren Schiffe in unserem Marinearsenal zu verteidigen. Wenn wir in Begleitkreuzer investieren, müssen unsere Besatzungen auf den größeren Schiffen keine Katastrophe befürchten!"
- SWE_hms_karl_xii: "HMS Karl XII"
+ SWE_hms_karl_xii: "HSwMS Karl XII"
  SWE_hms_karl_xii_desc: "Durch die Investition in den Bau eines neuen Schlachtkreuzers, der den Namen der legendären Carolus Rex trägt, wird die nahe Zukunft unserer Marinepräsenz sicherer denn je sein."
  SWE_naval_college: "[SWE.GetSWEprefixSW] Sjökrigsskolan(Seekriegsschule)"
  SWE_naval_college_desc: "Die [SWE.GetSWEprefixEN] Schwedische Marineakademie ist speziell auf die Ausbildung der unteren Offiziere ausgerichtet. Indem wir in diese Einrichtung investieren, fördern wir die Herausbildung einer Marinedoktrin, die der heutigen Zeit angemessen ist."
@@ -425,15 +425,15 @@
  SWE_social_liberal_party: "Bondeförbundet"
  SWE_social_liberal_party_long: "Bondeförbundet(Bauernverbund)"
  SWE_market_liberal_party: "Folkpartiet"
- SWE_market_liberal_party_long: "Folkpartiet(Volkspartei)"
+ SWE_market_liberal_party_long: "Folkpartiet(Liberale Partei)"
  SWE_social_conservative_party: "AV"
  SWE_social_conservative_party_long: "Allmänna Valmansförbundet(Allgemeiner Wahlverband)"
  SWE_authoritarian_democrat_party: "Fosterländska Stiftelsen"
- SWE_authoritarian_democrat_party_long: "Fosterländska Stiftelsen(Fosterland Stiftung)"
+ SWE_authoritarian_democrat_party_long: "Fosterländska Stiftelsen(Patriotische Stiftung)"
  SWE_paternal_autocrat_party: "AFV"
  SWE_paternal_autocrat_party_long: "Arméns Fosterlandsvänner(Freunde der Armee)"
  SWE_national_populist_party: "SRNS"
- SWE_national_populist_party_long: "Svea Rikes Nationella Samlingsparti(Svea Rikes Nationale Koalitionspartei)"
+ SWE_national_populist_party_long: "Svea Rikes Nationella Samlingsparti(Nationale Sammlungspartei des Königreichs Schweden)"
 
  SWE_authoritarian_democrat_alternate_party: "AV"
  SWE_authoritarian_democrat_alternate_party_long: "Allmänna Valmansförbundet(Allgemeiner Wahlverband)"
@@ -522,7 +522,7 @@
  swe.14.c: "Axel Gyllenkrok von der Extremistenfraktion!"
 
  swe.15.t: "Gescheiterter Putsch"
- swe.15.d: "Der Rest des Tages verlief unscharf und war von spärlichen Informationen geprägt. Immer mehr Milizen erhoben sich, immer mehr Soldaten liefen zur Sache der Arbeiter über und ließen ihre abtrünnigen Kompanien waffenlos zurück. Dies gipfelte natürlich in einem wilden Angriff auf das riksdaghuset am späten Nachmittag, das von den treuesten Putschisten besetzt wurde, und am Ende des Tages kontrollierten die Milizen alle größeren Städte in Schweden.\n\nAls sich der Staub zu legen begann, wurden zwei Dinge deutlich: Erstens war die sozialdemokratische Regierung während des Staatsstreichs völlig verbrannt. Dies wurde besonders deutlich, als eine totalistisch ausgerichtete Miliz die Leiche von Per Albin Hansson fand, der von den Militärs ermordet worden war, wie sie erklärten. Er wurde sofort zu einem Märtyrer der schwedischen Revolution erklärt. Zweitens wurde eine syndikalistische Republik nach dem Vorbild Großbritanniens und Frankreichs ins Leben gerufen. Zwar waren viele Milizionäre Liberale und Sozialdemokraten, doch der Tod Hanssons überzeugte viele von ihnen davon, dass eine härtere Hand nötig war, und diejenigen, die mit dieser Politik nicht einverstanden waren, fielen der ersten totalistischen Taktik bei der Jagd auf Konterrevolutionäre zum Opfer, mit stillschweigender Duldung der anderen Sozialisten."
+ swe.15.d: "Der Rest des Tages verlief unscharf und war von spärlichen Informationen geprägt. Immer mehr Milizen erhoben sich, immer mehr Soldaten liefen zur Sache der Arbeiter über und ließen ihre abtrünnigen Kompanien waffenlos zurück. Dies gipfelte natürlich in einem wilden Angriff auf das riksdaghuset am späten Nachmittag, das von den treuesten Putschisten besetzt wurde, und am Ende des Tages kontrollierten die Milizen alle größeren Städte in Schweden.\n\nAls sich der Staub zu legen begann, wurden zwei Dinge deutlich: Erstens war die sozialdemokratische Regierung während des Staatsstreichs völlig verbrannt. Dies wurde besonders deutlich, als eine totalistisch ausgerichtete Miliz die Leiche von Per Albin Hansson fand, der von den Militärs ermordet worden war, wie sie erklärten. Er wurde sofort zu einem Märtyrer der schwedischen Revolution erklärt. Zweitens wurde eine syndikalistische Republik nach dem Vorbild Großbritanniens und Frankreichs ins Leben gerufen. Zwar waren viele Milizionäre Liberale und Sozialdemokraten, doch der Tod Hanssons überzeugte viele von ihnen davon, dass eine härtere Hand nötig war, und diejenigen, die mit dieser Politik nicht einverstanden waren, fielen der ersten totalistischen Taktik bei der Jagd auf die Reaktionäre zum Opfer, mit stillschweigender Duldung der anderen Sozialisten.\n\nDie meisten Mitglieder der königlichen Familie flohen ins Ausland und suchten Asyl. In der Zwischenzeit zogen sich zahlreiche Anführer des versuchten Staatsstreichs, darunter General Oscar Nygren und die meisten seiner Mitarbeiter, in ländliche Gebiete zurück. Von dort aus begannen sie einen langwierigen Widerstandskrieg gegen das neu errichtete Regime."
  swe.15.a: "Heute wurde ein neues Schweden geboren!"
 
  swe.16.t: "Totalistische Terrorherrschaft"
@@ -536,11 +536,11 @@
  swe.17.b: "Weg da, schwedischer Abschaum!"
 
  swe.18.t: "Militante Sozialisten"
- swe.18.d: "Sie sind mit dem Auto auf dem Land in der Nähe von Stockholm unterwegs, als es plötzlich zum Stillstand kommt. Die Straße ist durch einen umgestürzten Baum blockiert, und der Fahrer erklärt Ihnen, dass Sie einen kleinen Umweg über einen abgelegenen Feldweg machen müssen."
- swe.18.a: "Nun gut, aber das sollte uns nicht aufhalten!"
+ swe.18.d: "Die Kutsche von General Oscar Nygren ist in der Umgebung von Stockholm unterwegs, als sie plötzlich zum Stillstand kommt. Die Straße ist durch einen umgestürzten Baum blockiert, und der Fahrer erklärt dem General, dass sie einen kleinen Umweg über einen abgelegenen Feldweg machen müssen."
+ swe.18.a: "Nun gut."
 
  swe.19.t: "Militante Sozialisten"
- swe.19.d: "Nach weniger als einer halben Meile auf dem schmalen Weg bleibt Ihre Kutsche im Schlamm stecken und Sie werden von militanten Sozialisten überfallen und umzingelt! Sie schicken Ihren Fahrer weg und erklären ihm, dass sie nur an Ihnen interessiert sind. Sie versuchen, nach Ihren Wachen zu rufen, aber die lachen nur darüber - auch sie wollen Ihr Blut."
+ swe.19.d: "Nach weniger als einer halben Meile auf dem schmalen Weg bleibt die Kutsche im Schlamm stecken und wird von militanten Sozialisten überfallen! Sie schicken den Fahrer auf den Weg und erklären, dass ihr Interesse bei General Oscar Nygren liegt. General Nygren versucht, seine Wachen herbeizurufen, aber die lachen nur darüber - auch seine Wachen wollen sein Blut."
  swe.19.a: "Sie sind keine Sozialisten!"
 
  swe.20.t: "Gyllenkrok erklärt sich zum nationalen Führer"
@@ -1271,8 +1271,8 @@
  SWE_tt_will_bypass2: "§GDieser Schwerpunkt wird umgangen, wenn die Wahlen von 1936 von den Sozialdemokraten gewonnen werden.§!"
  SWE_tt_will_bypass3: "§GDieser Schwerpunkt wird umgangen, wenn die Wahlen von 1936 von den Konservativen gewonnen werden.§!"
  SWE_tt_leftists_purged: "Der gesamte verbleibende Einfluss der §YTotalisten§!, §YSyndikalisten§!, §YRadikalsozialisten§! und §YSozialdemokraten§! wird ausgemerzt werden."
- SWE_tt_soccons_become_authdems: "Die Partei der §YSozialkonservativen§! wird fortan als §YAutoritärdemokraten§! bezeichnet."
- SWE_tt_effect_will_come: "§GDie Auswirkungen dieses Schwerpunkts werden sich zeigen, wenn entweder Holmquists oder Douglas' Zweig abgeschlossen ist.§!"
+ SWE_tt_soccons_become_authdems: "§RDie Partei der §YSozialkonservativen§! wird fortan als §YAutoritärdemokraten§! bezeichnet."
+ SWE_tt_effect_will_come: "§GDie Auswirkungen dieses Schwerpunkts werden sich zeigen, wenn entweder Holmquists oder Douglas' Zweig abgeschlossen ist§!§!."
  swe_tt_social_democrats_allowed_again_conservatives_no_longer_relevant: "Die SAP wird wieder an den Wahlen teilnehmen können, und dies wird fast sicherstellen, dass der rechte Flügel der Regierung in Zukunft von den Liberalen geführt wird."
  SWE_tt_fix_black_monday_decisions: "Eine Reihe von Entscheidungen zur Umkehrung des durch den Schwarzen Montag§! verursachten Wirtschaftsabschwungs wird verfügbar werden."
  SWE_tt_gold_standard_dropped: "Die Riksbank wird von ihrer Pflicht entbunden, Schwedische Kronen in Gold umzutauschen. Sie können nun beschließen, zusätzliches Geld zu drucken."
@@ -1325,7 +1325,7 @@
 
 ### Decisions ###
  SWE_fix_black_monday_category: "Reaktion auf Schwarzen Montag"
- SWE_fix_black_monday_category_desc: "Die schwedische Wirtschaft ist eng mit der deutschen verflochten, und so hat der wirtschaftliche Abschwung in Berlin schnell den Weg in die Geldbörsen der Durchschnittsschweden gefunden. Deshalb hat der Ministerpräsident eine Krisenkommission unter der Leitung des Finanzministers eingesetzt, um zu verhindern, dass Schweden unter den Auswirkungen der Krise leidet. Angesichts steigender Arbeitslosigkeit und schrumpfender Steuereinnahmen wird dies jedoch sicherlich eine schwierige Aufgabe sein.\n\nFree Haushalt: [swedishBudgetAmount] Kronen.\nInflation: [?swe_var_inflation|%-0].\nArbeitslosigkeit: [?swe_var_unemployment|%R0].\nVerwandte Schulden: [swedishDebtAmount] Kronen."
+ SWE_fix_black_monday_category_desc: "Die schwedische Wirtschaft ist eng mit der deutschen verflochten, und so hat der wirtschaftliche Abschwung in Berlin schnell den Weg in die Geldbörsen der Durchschnittsschweden gefunden. Deshalb hat der Ministerpräsident eine Krisenkommission unter der Leitung des Finanzministers eingesetzt, um zu verhindern, dass Schweden unter den Auswirkungen der Krise leidet. Angesichts steigender Arbeitslosigkeit und schrumpfender Steuereinnahmen wird dies jedoch sicherlich eine schwierige Aufgabe sein.\n\n§YHinweis: Black Monday will be over if the unemploment rate is 12% or lower.§!\n\nFree Haushalt: [swedishBudgetAmount] Kronen.\nInflation: [?swe_var_inflation|%-0].\nArbeitslosigkeit: [?swe_var_unemployment|%R0].\nVerwandte Schulden: [swedishDebtAmount] Kronen."
  SWE_drop_gold_standard: "Abschaffung des Goldstandards"
  SWE_drop_gold_standard_desc: "Die schwedische Nationalbank, die Riksbank, ist gesetzlich verpflichtet, die schwedischen Kronen zu einem standardisierten Wert in Gold umzutauschen. Wir können den Standard jedoch aussetzen, wie es den Instrumenten der Regierung in Zeiten des finanziellen Ruins entspricht, was den internationalen Verkauf schwedischer Waren erleichtert, aber auch Inflation verursacht."
  SWE_print_extra_money: "Extra Geld drucken"

@@ -11,7 +11,7 @@
  irq_baghdad_university: "\nModifiziert §YSchwere Armut§! durch \n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+5%§!\n"
  irq_reform_electoral_system: "\nModifiziert §YZügellose Korruption§! durch \n$MODIFIER_POLITICAL_POWER_GAIN$: §R-0.05§!\nFabriken für Konsumgüter: §Y-10%§!\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5%§!\n"
  irq_family_law: "Modifiziert §YKonfessionelle Spaltungen§! durch \n$MODIFIER_STABILITY_FACTOR$: §G+5%§!\n\nModifiziert §YZügellose Korruption§! durch \nFabriken für Konsumgüter: §Y-5%§!"
- irq_family_law2: "Änderung von §YRamtliche Korruption§! durch\nKonsumgüter: §Y-5%§!"
+ irq_family_law2: "Modifiziert §YZügellose Korruption§! durch\nFabriken für Konsumgüter: §Y-5%§!"
  irq_program_redistribution_land: "\nModifiziert §YSchwere Armut§! durch \n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+10%§!\n$MODIFIER_STABILITY_FACTOR$: §G+20%§!\n"
  irq_parks_and_hospitals: "Modifiziert §YSchwere Armut§! durch \n$MODIFIER_STABILITY_FACTOR$: §G+10%§!\n"
  irq_tribal_civil_and_criminal_disputes_regulation: "\nModifiziert §YZügellose Korruption§! durch \n$MODIFIER_POLITICAL_POWER_GAIN$: §G+0.25§!\nFabriken für Konsumgüter: §Y-5%§!\n$MODIFIER_STABILITY_FACTOR$: §G+10%§!\n"
@@ -341,6 +341,10 @@
  IRQ_Challenge_Persia_desc: "Wir mögen uns zwar von den Ketten nicht-arabischer Reiche losgesagt haben, doch viele unserer Brüder leiden noch immer unter der Herrschaft von Nationen, die schon längst hätten untergehen sollen."
  IRQ_Cooperate_Oman: "Kooperation mit Muscat & Oman"
  IRQ_Cooperate_Oman_desc: "Der Sultan von Muscat und Oman ist sicherlich daran interessiert, uns bei der Verwirklichung des panarabischen Traums zu unterstützen."
+
+### Introduction ###
+
+ IRQ_guide: "§MDer Kommandant der Nation§! (§gAutoritäre Demokraten§!)\n£white_dot Taha al-Hashimi muss Truppen zur Niederschlagung der Unruhen in Mesopotamien entsenden und die irregulären Rebellen müssen eine Niederlage erleiden und zerfallen.\n£white_dot Wenn al-Gaylani mit al-Hashimi bricht, muss ihm ein Ölzweig gereicht werden.\n£white_dot Entscheide während des Schwerpunktes \"Einführung eines Gestuften Steuersystems\", dass die Ideale al-Sha'biyas nicht sterben dürfen.\n\n§MAl-Gaylanis Staatsstreich§! (§NNationale Populisten§!) / §MTahas Vergeltung§! (§gAutoritäre Demokraten§!) / §MDas al-Ahali-Kabinett§! (§SSozialdemokraten§!)\n£white_dot Folge den Schritten des obigen Pfades, aber reiche al-Gaylani keinen Ölzweig.\n£white_dot Schließe die Schwerpunkte \"Gesellschaft zur Bekämpfung des Analphabetentums\" und \"Umverteilung des Miri-Landes\" ab.\n£white_dot Für eine §Nnationalpopulistische Regierung§!, lasse al-Hashimi eine Niederlage erleiden wenn dieser Baghdad angreift.\n£white_dot Für eine §gautoritärdemokratische§! / §Ssozialdemokratische§! Regierung, lasse Taha al-Hashimi Kamil Shabib besiegen.\n£white_dot Arbeite nach al-Hashimis Sieg mit al-Ahali zusammen für eine §Ssozialdemokratische§! Regierung oder nimm eine anti-sozialistische Haltung ein für eine §gautoritärdemokratische§! Regierung.\n\n§MDas Kabinett des Königs§! (§PPaternale Autokraten§! / §mMarktliberale§! / §SSozialdemokraten§!)\n£white_dot Lasse das al-Hashimi-Kabinett zerfallen, wenn die Stammesunruhen in Mesopotamien beginnen.\n£white_dot Ernenne Rashid al-Gaylani der HIW zum neuen Premierminister und verbiete Yasin al-Hashimi die Rückkehr für eine Regierung der §PPaternalen Autokraten§!.\n£white_dot \n£white_dot Ernenne Kamil al-Chadirchi der al-Ahali zum neuen Premierminister für eine §Ssozialdemokratische§! Regierung. Lasse al-Chadirchi durch den Schwerpunkt \"Einführung eines Gestuften Steuersystems\" zurücktreten, um zu einer §mmarktliberalen§! Regierung zu wechseln."
 
 ### Events ###
  irqrev.1.t: "Staatsstreich in Baghdad"

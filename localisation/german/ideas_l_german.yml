@@ -143,3 +143,5 @@ tactic_relentless_assault_preferred_weight_factor: "Zusätzliche Taktische Chanc
  ALREADY_HAS_ADVISOR_WITH_TRAIT: "Es gibt bereits einen ernannten Berater mit dieser Eigenschaft."
  CHANGE_ADVISOR: "\nSie können diesen Berater ersetzen, indem Sie hier klicken und einen Ersatz auswählen."
  GEN_cheaper_amphib: "Verbesserte amphibische Entwürfe"
+ will_turn_to: "Wird zu"
+ upon_timeout: "Nach Zeitüberschreitung"

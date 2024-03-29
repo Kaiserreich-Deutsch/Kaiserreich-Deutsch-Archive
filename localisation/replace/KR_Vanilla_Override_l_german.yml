@@ -165,7 +165,7 @@ werwolf_guerillas_desc: "Geplante Widerstandsgruppen sind unsere letzte Hoffnung
 
 ### rules_l_english
 CAN_JOIN_FACTIONS: "Kann nicht in Fraktionen eintreten"
-
+ CAN_USE_KAMIKAZE_PILOTS: "Kann Selbstmordpiloten einsetzen"
 ### state_l_english
 twelve: "Industrielles Kernland"
 eleven: "Großes Industriezentrum"
@@ -535,6 +535,9 @@ zero_island: "Abgelegene Insel(n)"
  modifier_army_sub_unit_military_police_max_org_factor: "$military_police$ Organisation"
  modifier_army_sub_unit_long_range_patrol_support_defence_factor: "$long_range_patrol_support$ Verteidigung"
  modifier_army_sub_unit_category_special_forces_max_org_factor: "$category_special_forces$ Organisation"
+
+ modifier_army_sub_unit_category_mobile_infantry_max_org_factor: "Kavallerie/Motoren/Mech-Organisation"
+ modifier_army_sub_unit_artillery_brigade_attack_factor: "Artillerie Angriff"
 
  modifier_unit_militia_design_cost_factor: "$militia$ Kosten der Designeinheit"
  modifier_unit_irregular_infantry_design_cost_factor: "$irregular_infantry$ Kosten der Designeinheit"

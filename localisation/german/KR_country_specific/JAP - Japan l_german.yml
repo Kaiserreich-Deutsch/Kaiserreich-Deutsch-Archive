@@ -569,7 +569,7 @@
  JAP_question_of_the_imperial_family_hirohito_stayed_tt: "§LObwohl unser Oberherr das politische Potenzial und die Bedeutung des Verbleibs Hirohitos auf dem Thron erkannt hat, ist diese Frage noch lange nicht gelöst. Über das Schicksal des Kaisers und der kaiserlichen Familie wird in der nächsten Sondersitzung des Parlaments entschieden werden.§!"
  JAP_question_of_the_imperial_family_hirohito_abdicated_tt: "§LNach der erzwungenen Abdankung Hirohitos scheint die Position der kaiserlichen Familie und des neuen Kaisers so schwach wie nie zuvor. Über ihr Schicksal wird in der nächsten Sondersitzung des Landtages entschieden werden.§!"
  JAP_hirohito_abdicate_tt: "§YHirohito§! wird abdanken, und sein Sohn, §YKronprinz Akihito§! wird den Thron besteigen, wobei §YPrinz Takamatsu Nobuhito§! zum Regenten ernannt wird.\n"
- JAP_election_in_four_months_tt: "Die ersten Nachkriegswahlen werden in vier Monaten abgehalten.\n"
+ JAP_elections_in_four_months_tt: "Die ersten Nachkriegswahlen werden in vier Monaten abgehalten.\n"
  JAP_imperial_to_national_diet_tt: "Die §Y$JAP_imperial_diet$§! wird umbenannt in §Y$JAP_national_diet$§!\n"
  JAP_appoint_naruhiko_sic: "Berater §YHigashikuni Naruhiko§ ernennen!"
  JAP_purge_military_socialist_tt: "§REs wird eine gründliche Säuberung des militärischen Oberkommandos durchgeführt.§!"
@@ -1554,9 +1554,9 @@
 
  japdom.239.t: "Parlamentswahlen von [GetYear]"
  japdom.239.d: "Die Zeit für eine neue Parlamentswahl ist gekommen. Mit den Haupt- und Oppositionsparteien, die jetzt antreten, ist die Auswahl vielfältiger als je zuvor seit Ende des 19. Jahrhunderts."
- japdom.239.a: "Rikken Seiyūkai (Konservative)"
- japdom.239.b: "Minseitō (Liberale)"
- japdom.239.c: "Shakai Taishūtō (Sozialisten)"
+ japdom.239.a: "Minshutō (Konservative)"
+ japdom.239.b: "Jiyūtō (Liberale)"
+ japdom.239.c: "Shakaitō (Sozialisten)"
 
  japdom.240.t: "Schicksal des Kaisers"
  japdom.240.d: "Mit der Fertigstellung der letzten Zweige des neuen Regierungssystems muss die Zukunft des japanischen Throns diskutiert werden. Zwar trägt Hirohito zweifellos die Verantwortung für die Verfolgung des Krieges gegen uns, doch würde die wahre Gerechtigkeit ihn wahrscheinlich tot oder lebenslänglich inhaftiert zurücklassen, und wir stünden vor einem unlösbaren Problem der öffentlichen Ordnung. Unsere Diplomaten und sogar die meisten Generäle bestehen darauf, dass wir stattdessen eine mildere Hand anwenden müssen. Wir können die theoretisch unbegrenzten Befugnisse des Kaisers nicht so belassen, wie sie jetzt sind, aber es gibt vielleicht noch einige Möglichkeiten."
@@ -2023,7 +2023,7 @@
 
  japfor.407.t: "[Root.GetAdjective] Unterwerfung unter Japan"
  japfor.407.d: "Wenn es Bedenken gab, dass Japans fortgesetzte Investitionen in [Root.GetNameDef] zu seiner Vorherrschaft führen könnten, so können sie beiseite gelegt werden - das ist bereits geschehen. Die Politik von [Root.GetAdjective] wird bereits routinemäßig so gestaltet, dass sie den japanischen Interessen entspricht, und jeder Gedanke, den wir an unsere Unabhängigkeit hatten, ist langsam zu einer höflichen Fiktion geworden. Die Ankunft mehrerer "Berater" von [From.GetNameDef] hat jeden Gedanken daran, dass wir innerhalb der Ko-Wohlstandssphäre handeln können, wie wir wollen, zu Grabe getragen."
- japfor.407.a: "So sei es"
+ japfor.407.a: "So sei es."
 
  japfor.408.t: "[From.GetNameDefCap] beendet Allianz"
  japfor.408.d: "Törichterweise hat die [From.GetAdjective]-Regierung beschlossen, ihr Militärbündnis mit uns zu beenden. Sie scheint zu glauben, dass sie es auch ohne unsere Hilfe schaffen kann."
