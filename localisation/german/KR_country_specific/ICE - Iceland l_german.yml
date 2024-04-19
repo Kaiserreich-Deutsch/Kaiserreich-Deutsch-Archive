@@ -491,29 +491,27 @@ ICE_Scout_tt: "Dadurch wird die Wahrscheinlichkeit, dass alle weiteren Operation
 ICE_ready_Canada_tt: "\n§CWiderstandsbeliebtheit§! ist größer als §Y85§! \n§RBesatzungstärkeh§! ist geringer als §Y15§!"
 ICE_weak_ENG_tt: "Der britische Einfluss auf die Insel schwindet."
 
+### Bookmark ###
+ICE_KR_gathering_storm_desc: "Ab 1874 hatte Island seinen ersten Eindruck von Unabhängigkeit, als Dänemark der Kolonie Selbstverwaltung gewährte. Als die Waffen nach dem Weltkrieg verstummten, schloss sich Island dem Mitteleuropa-Wirtschaftsblock an, der der Insel eine Periode des Wohlstands brachte. Dieser wirtschaftliche Wohlstand würde jedoch nicht ewig anhalten. Die britische Revolution von 1925 zerstörte das Wunder, das Island nach dem Weltkrieg erlebte. In den letzten zehn Jahren geriet Island ins Wanken, da sich seine Wirtschaft nach dem Verlust Großbritanniens nie vollständig erholte. Viele Politiker bringen jetzt weitere Pläne zur Wiederbelebung der Insel vor."
+
+### Intro Screen ###
+ICE_country_intro_header: "Island in 1922"
+ICE_country_intro_content: "Ab 1874 erlebte Island einen ersten Vorgeschmack auf die Unabhängigkeit, als Dänemark der Kolonie das Recht auf Selbstverwaltung und eine Verfassung gewährte. Als Teil Dänemarks blieb Island während des gesamten Weltkriegs neutral. Nach dem Ende des Weltkriegs trat Island an der Seite seines Herren Dänemark dem Wirtschaftsblock Mitteleuropa bei.\n\nDies brachte dem Inselstaat eine Zeit des Wohlstands, da Island nun zwei Märkte für sein Hauptexportgut, Fisch, erschließen konnte. Der britische Markt setzte seine lukrativen Fischimporte aus Island aufgrund der Entfernung zwischen den beiden Inseln fort. Gleichzeitig wurde der Zugang zum europäischen Markt für isländischen Kabeljau zu einer Quelle kleinerer zusätzlicher Mittel, um die isländische Wirtschaft anzukurbeln."
+
+ICE_country_intro_header_1: "Island in 1925"
+ICE_country_intro_content_1: "Der wirtschaftliche Wohlstand sollte jedoch nicht ewig anhalten. Die britische Revolution von 1925 zerstörte das Wunder, das Island nach dem Weltkrieg erlebte. Als die Royalisten in verschiedene Ecken des Empire flohen, versiegte die britisch-isländische Handelsroute augenblicklich. Die einzigen nahen Überlebenden des Kabeljauhandels waren die Royalisten, die nach Kanada flohen, aber sie hatten dringendere wirtschaftliche Probleme als die Wiederaufnahme des isländischen Handels.\n\nSo blieb Island im Kielwasser der britischen Revolution zurück, die die Ausfuhren des Landes nach Großbritannien völlig versiegen ließ. Der zentraleuropäische Markt hat den isländischen Fischern etwas geholfen, aber die Wirtschaft hat sich nur langsam angepasst."
+
+ICE_country_intro_header_2: "Island in 1932"
+ICE_country_intro_content_2: "Um der massiven Arbeitslosigkeit, die im Land zu steigen begann, Einhalt zu gebieten, schuf das Althing das städtische Arbeitsbeschaffungsprogramm, um die Menschen für handwerkliche Bauprojekte zu beschäftigen. Dies funktionierte eine Zeit lang, wurde aber schließlich zu einem Streitpunkt zwischen den Regierungsparteien.\n\nAuf einer Stadtratssitzung am 9. November 1932 diskutierte der Stadtrat darüber, das Projekt einzustellen. Die Nachricht davon erreichte die Bevölkerung, die in Scharen vor dem Gebäude randalierte und forderte, dass das Programm beibehalten werden sollte, da Island immer noch von der wirtschaftlichen Rezession heimgesucht wurde. Dieser Aufstand wurde als Gúttóslagurinn bekannt und sorgte dafür, dass das CWCS für die nahe Zukunft des Landes in Kraft bleibt."
+
+ICE_country_intro_header_3: "Island in 1936"
+ICE_country_intro_content_3: "Obwohl das vergangene Jahrzehnt für die Menschen in Island eine Katastrophe war, gibt es immer noch Hoffnung auf eine bessere Zukunft am Horizont. Angehende Regierungsbeamte haben mit der Ausarbeitung von Plänen für groß angelegte öffentliche Bauprojekte begonnen, um Arbeitsplätze zu schaffen, die Tourismusindustrie anzukurbeln oder sogar die geothermischen und hydroelektrischen Ressourcen anzuzapfen, die unsere Insel uns bietet. Vielleicht können wir diese Träume mit ein wenig Unterstützung aus Dänemark wahr werden lassen!"
+
 ### Events ###
 ice.x.t: "WIP"
 ice.x.d: "WIP"
 ice.x.a: "WIP"
 ice.x.b: "WIP"
-
-### Intro Screen ###
-
-ICE_country_intro_header: "Island in 1922"
-ICE_country_intro_content: "Ab 1874 erlebte Island einen ersten Vorgeschmack auf die Unabhängigkeit, als Dänemark der Kolonie das Recht auf Selbstverwaltung und eine Verfassung gewährte. Als Teil Dänemarks blieb Island während des gesamten Weltkriegs neutral. Nach dem Ende des Weltkriegs trat Island an der Seite seines Herren Dänemark dem Wirtschaftsblock Mitteleuropa bei.\n\nDies brachte dem Inselstaat eine Zeit des Wohlstands, da Island nun zwei Märkte für sein Hauptexportgut, Fisch, erschließen konnte. Der britische Markt setzte seine lukrativen Fischimporte aus Island aufgrund der Entfernung zwischen den beiden Inseln fort. Gleichzeitig wurde der Zugang zum europäischen Markt für isländischen Kabeljau zu einer Quelle kleinerer zusätzlicher Mittel, um die isländische Wirtschaft anzukurbeln."
-ice.9996.a: "Was einst war..."
-
-ICE_country_intro_header_1: "Island in 1925"
-ICE_country_intro_content_1: "Der wirtschaftliche Wohlstand sollte jedoch nicht ewig anhalten. Die britische Revolution von 1925 zerstörte das Wunder, das Island nach dem Weltkrieg erlebte. Als die Royalisten in verschiedene Ecken des Empire flohen, versiegte die britisch-isländische Handelsroute augenblicklich. Die einzigen nahen Überlebenden des Kabeljauhandels waren die Royalisten, die nach Kanada flohen, aber sie hatten dringendere wirtschaftliche Probleme als die Wiederaufnahme des isländischen Handels.\n\nSo blieb Island im Kielwasser der britischen Revolution zurück, die die Ausfuhren des Landes nach Großbritannien völlig versiegen ließ. Der zentraleuropäische Markt hat den isländischen Fischern etwas geholfen, aber die Wirtschaft hat sich nur langsam angepasst."
-ice.9997.a: "Ist nicht mehr..."
-
-ICE_country_intro_header_2: "Island in 1932"
-ICE_country_intro_content_2: "Um der massiven Arbeitslosigkeit, die im Land zu steigen begann, Einhalt zu gebieten, schuf das Althing das städtische Arbeitsbeschaffungsprogramm, um die Menschen für handwerkliche Bauprojekte zu beschäftigen. Dies funktionierte eine Zeit lang, wurde aber schließlich zu einem Streitpunkt zwischen den Regierungsparteien.\n\nAuf einer Stadtratssitzung am 9. November 1932 diskutierte der Stadtrat darüber, das Projekt einzustellen. Die Nachricht davon erreichte die Bevölkerung, die in Scharen vor dem Gebäude randalierte und forderte, dass das Programm beibehalten werden sollte, da Island immer noch von der wirtschaftlichen Rezession heimgesucht wurde. Dieser Aufstand wurde als Gúttóslagurinn bekannt und sorgte dafür, dass das CWCS für die nahe Zukunft des Landes in Kraft bleibt."
-ice.9998.a: "Wird diese Krise jemals enden?"
-
-ICE_country_intro_header_3: "Island in 1936"
-ICE_country_intro_content_3: "Obwohl das vergangene Jahrzehnt für die Menschen in Island eine Katastrophe war, gibt es immer noch Hoffnung auf eine bessere Zukunft am Horizont. Angehende Regierungsbeamte haben mit der Ausarbeitung von Plänen für groß angelegte öffentliche Bauprojekte begonnen, um Arbeitsplätze zu schaffen, die Tourismusindustrie anzukurbeln oder sogar die geothermischen und hydroelektrischen Ressourcen anzuzapfen, die unsere Insel uns bietet. Vielleicht können wir diese Träume mit ein wenig Unterstützung aus Dänemark wahr werden lassen!"
-ice.9999.a: "Vielleicht ist das Ende nah!"
 
 #Cod War Events#
 ice.1.t: "Island weitet seine Fischereizonen aus"
@@ -1163,7 +1161,7 @@ ICE_hannibal_valdimarsson: "Hannibal Valdimarsson"
 ICE_jon_baldvinsson: "Jón Baldvinsson"
 
 ICE_stefan_johann_stefansson: "Stefan Johann Stefansson"
-ICE_stefan_johann_stefansson_country_leader: "§YAnführer Beschreibung\nGeboren:§! 26. Juli 1894, in Dagverðareyri, Hörgársveit, Island\n§YPolitikkarriere:§! Der wirtschaftliche Niedergang, der durch den Zusammenbruch des britischen Empire ausgelöst wurde, hat Stefán Jóhann Stefánsson an die Spitze der isländischen Politik gebracht. Er hat große Pläne für die isländische Wirtschaft, die eine strenge Finanzdisziplin und tiefgreifende Reformen erfordern werden. Um dieses Ziel zu erreichen, sucht er intensiv nach Partnern im Ausland und zögert nicht, bestehende Verbindungen zu kappen."
+ICE_stefan_johann_stefansson_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 26. Juli 1894, in Dagverðareyri, Hörgársveit, Island\n§YPolitikkarriere:§! Der wirtschaftliche Niedergang, der durch den Zusammenbruch des britischen Empire ausgelöst wurde, hat Stefán Jóhann Stefánsson an die Spitze der isländischen Politik gebracht. Er hat große Pläne für die isländische Wirtschaft, die eine strenge Finanzdisziplin und tiefgreifende Reformen erfordern werden. Um dieses Ziel zu erreichen, sucht er intensiv nach Partnern im Ausland und zögert nicht, bestehende Verbindungen zu kappen."
 
 ICE_asgeir_asgeirsson: "Ásgeir Ásgeirsson"
 ICE_olafur_thors: "Ólafur Thors"

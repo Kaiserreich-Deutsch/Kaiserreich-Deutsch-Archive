@@ -154,6 +154,10 @@ PAR_fortify_paraguay: "Befestigung von Paraguay"
 PAR_fortify_northern_chaco: "Befestigung des Pilcomayo-Flusses"
 PAR_fortify_southern_chaco: "Befestigung des Bermejo-Flusses"
 PAR_fortify_railway: "Verstärkung der Eisenbahnlinie von Misiones"
+PAR_chaco_peace_timer: "Wachsende Unzufriedenheit"
+PAR_chaco_peace_timer_desc: "Angesichts unserer schwachen Leistungen beim Halten des Chaco verlieren immer mehr Menschen den Glauben an unsere Fähigkeit, den Krieg zu gewinnen. Wenn es so weitergeht, müssen wir vielleicht den Chaco im Austausch für den Frieden aufgeben, um weitere Unzufriedenheit zu vermeiden."
+PAR_chaco_peace_timer_enemy: "Wachsende Unzufriedenheit in Paraguay"
+PAR_chaco_peace_timer_enemy_desc: "Die fortgesetzte Besetzung des Chaco durch uns und die Unfähigkeit Paraguays, dort voranzukommen, scheint zu moralischen Problemen in der Bevölkerung zu führen. Sollte dies so weitergehen, werden sie vielleicht so unzufrieden sein, dass sie Frieden anbieten."
 
 ### Focuses ###
 
@@ -412,7 +416,7 @@ PAR_fighter_aircraft_desc: "Wenn wir Bomber und Luftnahunterstützungsflugzeuge 
 PAR_cooperation_with_URG: "Kooperation mit Uruguay"
 PAR_cooperation_with_URG_desc: "Nach dem Sieg gegen Argentinien haben wir nun mit den Sozialisten aus Patagonien, die in Buenos Aires sitzen, ein weiteres Problem. Eine Zusammenarbeit mit Uruguay ist zwar nicht jedermanns Sache, aber besser als ein Alleingang gegen die Roten im Süden."
 PAR_study_uruguays_forts: "Studium der Befestigungen Uruguays"
-PAR_study_uruguays_forts_desc: "Uruguay hat seit dem Putsch von Manuel Carles gegen die argentinische Regierung zu Weihnachten 1935 mit einem Befestigungsprogramm begonnen, und das könnte sich als wertvolle Erfahrung erweisen, die wir zur Befestigung unserer eigenen Grenze zu Argentinien nutzen könnten, falls sie uns angreifen sollten. Schließlich haben viele Schlachten in Hirsoty die Wirksamkeit von Kraftmultiplikatoren bewiesen, so dass wir besser so bald wie möglich mit der Arbeit daran beginnen sollten, um auf eine mögliche Invasion vorbereitet zu sein."
+PAR_study_uruguays_forts_desc: "Uruguay begann mit einem Befestigungsprogramm, als Manuel Carles zu Weihnachten 1935 die argentinische Regierung putschte. Es könnte sich als wertvolle Erfahrung erweisen, wenn wir sie anwenden und unsere eigene Grenze zu Argentinien für den Fall eines Angriffs befestigen könnten. Schließlich haben viele Schlachten in der Geschichte die Wirksamkeit von Kraftmultiplikatoren bewiesen, so dass wir besser so bald wie möglich damit beginnen sollten, um für eine mögliche Invasion gerüstet zu sein."
 PAR_help_uruguays_military: "Hilfe für das uruguayische Militär"
 PAR_help_uruguays_military_desc: "Die Zusammenarbeit ist in der Regel für beide Seiten von Vorteil, und dies ist keine Ausnahme: Schließlich herrscht in Uruguay seit dem Krieg des Dreibundes Frieden, und das Militär des Landes ist bei weitem nicht auf alles vorbereitet, was von der linken Seite des Rio Uruguay kommt. Außerdem wird dies die Beziehungen zwischen unseren Ländern und Militärs aufwerten."
 PAR_joint_military_exercises: "Gemeinsame Militärübungen"
@@ -489,11 +493,12 @@ PAR_control_the_military_desc: "Wir müssen Verräter aus dem Militär, unserer 
 PAR_paraguay_reborn: "Paraguay wiedergeboren"
 PAR_paraguay_reborn_desc: "Paraguay ist wiedergeboren, besser und stärker als zuvor. Keine Gemäßigten mehr, keine Ausländer werden uns diktieren, was wir tun können und was nicht. Wie ein Phönix aus der Asche ist Paraguay wiedergeboren und bereit, die Macht im Süden Amerikas zu werden."
 
+### Bookmark ###
+PAR_KR_gathering_storm_desc: "Obwohl Paraguay als Sieger aus dem Chaco-Krieg hervorgegangen ist, befindet es sich in keiner beneidenswerten Lage: extrem hohe Militärausgaben, eine sehr unterentwickelte Wirtschaft und die Tatsache, dass sich das Land noch nicht von dem Krieg von 1870 erholt hat, in dem mehr als die Hälfte der Bevölkerung getötet wurde, bedeuten, dass Paraguays Wirtschaft im Grunde nicht existiert; außerdem bedeuten eine instabile Lage an der südlichen Grenze und Bolivien, das sich für die demütigende Niederlage vor drei Jahren rächen will, dass die Guarani-Republik bald wieder um ihre eigene Existenz kämpfen könnte."
+
 ### Intro Screen ###
 PAR_country_intro_header: "Die Republik Paraguay"
 PAR_country_intro_content: "Nach dem verheerenden Krieg des Dreibundes war Paraguay fast bis zur Unkenntlichkeit zerrüttet und gebrochen; die große Mehrheit seiner männlichen Bevölkerung war tot oder verwaist. Der extreme demografische und wirtschaftliche Schaden war jedoch noch nicht alles, denn sowohl Brasilien als auch Argentinien nahmen der Guarani-Republik Teile ihres Landes weg und behielten ihre Souveränität praktisch nur als Pufferstaat zwischen den beiden Nationen. Der Wiederaufbau und die Erholung von dieser Katastrophe waren keine leichte Aufgabe, und die politische Instabilität zermürbte die Nation weiterhin. Im Jahr 1904 brach eine liberale Revolution gegen die Herrschaft der Colorados aus. Mit der Herrschaft der Liberalen begann eine Zeit großer politischer Instabilität, die 1922 in einem Bürgerkrieg zwischen rivalisierenden politischen Gruppierungen gipfelte.\n\nEnde 1929 wurde Paraguay von Bolivien erneut mit Krieg überzogen. Dieses Land, das unter wirtschaftlichem Druck stand, um sich die vermeintlichen Ölquellen in der Chaco-Region zu sichern, begann aggressiv, seine Ansprüche in dem umstrittenen Gebiet geltend zu machen. Der Chaco-Krieg dauerte vier grausame Jahre, und 1933 hatte Paraguay die bolivianischen Streitkräfte vollständig aufgerieben und begann, ihr Land zu besetzen. Der totale Sieg war jedoch nicht umsonst, denn die steigenden Schulden und Militärausgaben belasteten die Regierung weiterhin. Das bolivianische Militär war für den Kampf in der Region schlecht ausgerüstet und ausgebildet, und seine niedrige Moral führte dazu, dass die paraguayischen Verluste weitaus geringer waren.\n\nDie politische Lage verbesserte sich jedoch nicht, und die liberale Regierung geriet ins Wanken. Rafael Franco und andere radikale Führer starteten 1934 einen Staatsstreich, der auf linksautoritären Prinzipien beruhte, aber nach einer kurzen dreimonatigen Regierungszeit von José Félix Estigarribia, dem Helden des Chaco-Krieges, abgesetzt wurde. Heute ist das Zeitalter des liberalen Chaos vorbei, und die Herrschaft von José Félix ist von großem Frieden geprägt. Seine Aktionen gegen den "Syndikalisten" Franco und die bolivianischen Invasoren haben die Politik stark beeinflusst, denn er wird heute fast einhellig als nationaler Retter und Held gefeiert. Mit dem Aufstieg der Argentinischen Patriotischen Liga sind Estigarribia und sein Kabinett wieder in höchster Alarmbereitschaft, denn Manuel Carlés hat in seiner Rede bei seinem Amtsantritt kaum einen Hehl aus seinen expansionistischen Zielen gemacht. Bald könnte wieder Krieg in Paraguay herrschen."
-par.1.a: "Estigarribia hat Frieden und Gerechtigkeit in unsere neue Republik gebracht. Wir können nicht fallen!"
-par.1.b: "Ich würde gerne die Schwierigkeitseinstellungen ändern."
 
 PAR_guide: "§MDer Estigarribia§! / §MWiederaufstieg von Colorado§! (§gAutoritär Demokratisch§! / §mMarktliberale§! / §cSozialkonservative§!)\n£white_dot Wählen Sie bei den "Vorgezogene Wahlen" die Partei Ihrer Wahl.\n£white_dot Wenn Sie sich für den Schwerpunkt "Kürzung der militärischen Anreize" entscheiden, wählen Sie in der Folge die unterste Option, um eine kontinuierliche demokratische Regierungsführung zu gewährleisten.\n£white_dot Die §mMarktliberalen§! können bei den Wahlen 1946 gewählt werden.\n\n§MArmee mit Staat§! / §MAbrilismus kehrt zurück§! (§NNationalpopulisten§! / §oTotalisten§!)\n£white_dot Wählen Sie eine beliebige Partei bei den Vorgezogenen Wahlen.\n£white_dot Nachdem Sie den Schwerpunkt "Kürzung der militärischen Anreize" gewählt haben, nehmen Sie die oberste Option im darauf folgenden Ereignis, um §Nationalpopulistisch§! zu werden und Morinigo die Macht zu überlassen.\n£white_dot Alternativ können Sie auch die mittlere Option wählen, um §oTotalistisch§! zu werden und Francos Einheiten die Macht zu übertragen."
 
@@ -646,6 +651,24 @@ par.32.d: "Wir haben ein Ultimatum von [From.GetNameDef] erhalten - entweder wir
 par.32.a: "Wir müssen Chaco abtreten."
 par.32.b: "Wir werden unser Gebiet nicht aufgeben! Kommt und holt es euch!"
 
+par.322.t: "Aufrufe zum Frieden"
+par.322.d: "Die meisten im Militär und in der Regierung hatten auf eine Wiederholung des ersten Chaco-Krieges gehofft, aber es scheint, dass wir unsere Fähigkeit, einen Zweifrontenkrieg zu führen, unterschätzt hatten. Seit mehr als sechs Monaten ist der Chaco ununterbrochen besetzt, und es gibt keine Anzeichen dafür, dass sich das ändert, und in Verbindung mit den steigenden Preisen hat sich die öffentliche Meinung über den Krieg dramatisch verändert. Einige haben immer noch die leise Hoffnung, dass Bolivien einknickt und uns den Frieden anbietet, aber vielleicht ist es an der Zeit, unseren Stolz zu schlucken und unsere Unfähigkeit zu erkennen, zu gewinnen."
+par.322.a: "Schickt das Abkommen ab, wir können nichts mehr tun.."
+par.322.b: "Gebt niemals auf! Wir haben einmal gewonnen, wir werden wieder gewinnen!"
+
+par.323.t: "Paraguay bietet ein Friedensabkommen an"
+par.323.d: "Heute erwartete uns eine schockierende Nachricht aus Paraguay. Sie boten uns die gesamte Chaco-Region im Austausch für die Beendigung des Krieges an. Obwohl wir die Region militärisch fest unter Kontrolle haben, waren alle Versuche, ihre Hauptstadt zu erreichen, vergeblich. Es wäre klug von uns, dieses Angebot anzunehmen und zumindest mit der wichtigen Chaco-Region aus diesem Krieg herauszukommen."
+par.323.a: "Akzeptiert den Frieden, mit dem Chaco in unseren Händen haben sie nichts Nützliches für uns übrig.."
+par.323.b: "Lehnt es ab, wir werden nur mit [ROOT.GetAdjective]-Fahnen in Asunción zufrieden sein!"
+
+par.324.t: "Unser Frieden wird angenommen"
+par.324.d: "Unser Friedensabkommen wurde von [FROM.GetName] angenommen."
+par.324.a: "Lasst uns das so schnell wie möglich hinter uns bringen."
+
+par.325.t: "Der Frieden wurde unterzeichnet"
+par.325.d: "Der Friedensvertrag wurde ratifiziert und der Chaco an uns übergeben."
+par.325.a: "Unser Nationalstolz ist wiederhergestellt."
+
 par.33.t: "Sozialistischer Putsch in Paraguay!"
 par.33.d: "Beunruhigende Nachrichten aus Asunción! Wir haben einen Bericht erhalten, dass Rafael Franco aus seinem Exil zurückgekehrt ist und nun die paraguayische Regierung geputscht hat. Sie hat erklärt, dass sie kein Interesse daran hat, weiterhin Teil eines antisyndikalistischen Verteidigungspaktes zu sein, und der vorherige Vertrag ist nun hinfällig. Von nun an werden wir uns auf einen Verbündeten weniger verlassen müssen."
 par.33.a: "Sie machen Witze - nicht noch einer! Oh, um Himmels willen, ich kann nicht, das ist das zweite Mal, dass ein sozialistischer Putsch in Paraguay in weniger als einem Jahrzehnt stattfindet."
@@ -655,24 +678,24 @@ par.34.d: "Es gibt keinen heldenhafteren Menschen als den, der sich gegen Riesen
 par.34.a: "Hurra!"
 
 par.35.t: "Militärische Hilfe aus Paraguay"
-par.35.d: "Paraguay schickt eine Militärmission, um uns gegen die FOP zu helfen, da sie mehr Kriege geführt haben und daher mehr Erfahrung haben."
-par.35.a: "Ihre Hilfe wird entscheidend sein"
+par.35.d: "Paraguay hat eine Militärmission entsandt, um uns bei den Vorbereitungen gegen die FOP zu helfen. Da Paraguay an mehr Kriegen teilgenommen hat als wir und gerade erst gegen Argentinien gesiegt hat, verfügen sie über viel mehr Erfahrung. Unsere Streitkräfte sind völlig unvorbereitet auf einen Kampf gegen die FOP oder überhaupt auf einen anderen Konflikt. Die Mission Paraguays kann das ändern, aber wie sollen wir darauf reagieren?"
+par.35.a: "Ihre Hilfe wird entscheidend sein."
 par.35.b: "Danke, aber wir kommen gut allein zurecht."
 
-par.36.t: "Uruguay akzeptiert"
-par.36.d: "Uruguay akzeptiert unsere Militärmission"
+par.36.t: "Uruguay akzeptiert unsere Mission"
+par.36.d: "Uruguay hat auf die von uns vorgeschlagene Militärmission positiv reagiert und die Hilfe angenommen. Da Uruguay seit Jahrzehnten keinen Krieg mehr geführt hat, werden unsere bewährten Erfahrungen auf dem Schlachtfeld dem Land helfen, sich angemessen auf künftige Konflikte vorzubereiten. Diese neue Zusammenarbeit wird auch dazu beitragen, die regionalen Spannungen zwischen unseren beiden Ländern abzubauen und die gegenseitigen Beziehungen zu verbessern. Der Erfolg der Mission könnte sogar diejenigen in unserer Regierung überzeugen, die nicht glücklich darüber sind, dass wir Uruguay die Hand gereicht haben, dass dies eine notwendige Maßnahme ist."
 par.36.a: "Großartig!"
 
-par.37.t: "Uruguay lehnte ab"
-par.37.d: "Uruguay lehnt unsere Militärmission ab"
+par.37.t: "Uruguay lehnt unsere Mission ab"
+par.37.d: "Uruguay hat unser Angebot einer Militärmission abgelehnt und ist inzwischen nach Asunción zurückgekehrt. Das uruguayische Militär brauchte dringend Hilfe, aber die Spannungen zwischen unseren beiden Ländern waren anscheinend zu groß, um sie zu überwinden. Leider können wir nichts dagegen tun."
 par.37.a: "Aber, aber, ihr Militär ist Schrott!"
 
 par.38.t: "Paraguay schickt Berater zum Studium unserer Festungen"
-par.38.d: "Da wir Verbündete sind und Paraguay plant, seine Grenze mit der FOP zu verstärken, haben sie Leute geschickt, um zu untersuchen, wie man sich verschanzen kann."
+par.38.d: "Nachdem wir ihre militärische Mission akzeptiert haben, hat Paraguay weitere Berater entsandt, um unsere Befestigungen zu untersuchen. Seit dem Weihnachtsputsch von 1935 haben wir unsere Verteidigungsanlagen entlang der Grenze zu Argentinien ausgebaut, und nun plant Paraguay dasselbe zu tun. Unsere Ingenieure werden ihnen die Schlüssel zur Verschanzung beibringen und ihnen zeigen, wie Kraftverstärker das Blatt in einer Schlacht wenden können."
 par.38.a: "Wir erwarten, dass wir auch von ihrem Militär lernen."
 
 par.39.t: "Gemeinsame Übungen"
-par.39.d: "Paraguay hat zwei Infanteriebataillone geschickt, damit wir uns besser gegen die FOP koordinieren können."
+par.39.d: "Ein weiteres Beispiel für die verstärkte Zusammenarbeit zwischen unseren beiden Ländern sind die von Paraguay vorgeschlagenen gemeinsamen Militärübungen. Zur Vorbereitung hat Paraguay zwei Infanteriebataillone entsandt, damit wir unsere Planungen und Manöver zur besseren Verteidigung gegen die FOP koordinieren können."
 par.39.a: "Si vis pacem, para bellum."
 
 ### Tooltips ###

@@ -137,6 +137,7 @@ SCA_join_scandinavian_research: "Tretet der Skandinavischen Wissenschaftlerkonfe
 SCA_join_scandinavian_research_desc: "Unsere nordischen Verbündeten haben die Skandinavische Wissenschaftlerkonferenz ins Leben gerufen, eine gemeinsame Forschungsinitiative mit dem Ziel, den Technologieaustausch zwischen den Mitgliedern der [FROM.GetFactionName] zu erleichtern. Als Mitglied dieser Fraktion ist es an der Zeit, dass wir unsere Partnerschaft stärken, indem wir uns auch der Skandinavischen Wissenschaftlerkonferenz anschließen."
 
 ### Tooltips ###
+SCA_formation_warning: "Durch die Gründung der §YNordischen Föderation§! wird Ihr Land seine\n   £GFX_pol_power Politische Macht\n   £GFX_army_experience Armee-Erfahrung\n   £GFX_navy_experience Marine-Erfahrung\n   £GFX_air_experience Luftwaffe-Erfahrung\n   £GFX_command_power Befehlsmacht\n   Verabschiedet das Handelsgesetz §YExport-Fokus§!\n   Verabschiedet des Wirtschaftsgesetzes §YZivilwirtschaft§!\n   Alle aktiven Nationalgeister, politischen Berater, Designfirmen und militärischen Stäbe werden entfernt."
 SCA_tt_effect_will_come: "Die Wirkung dieses Schwerpunkts wird sich zeigen, wenn entweder der Schwerpunkt §CFederal Army§! oder §CNational Army§! abgeschlossen ist."
 SCA_tt_is_valid_nordic_member: "Gültige skandinavische Länder:"
 SCA_tt_no_outside_inf: "Keinem Einfluss außerhalb Skandinaviens unterworfen"

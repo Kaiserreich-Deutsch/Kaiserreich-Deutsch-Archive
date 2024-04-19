@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 o_strat_offensive_default: "Offensive Operation"
 o_strat_defensive_default: "Defensiver Befehl"
@@ -158,6 +158,13 @@ o_marwitz: "Marwitz"
 o_teutonburg: "Teutonburg"
 o_tannenberg: "Tannenberg"
 o_wagner: "Wagner"
+
+###Ireland
+o_skibbereen: "Operation Skibbereen"
+o_naomh_padraig: "Operation Naomh Pádraig"
+o_dal_riata: "Operation Dál Riata"
+o_tir_chonaill: "Operation Tír Chonaill"
+o_regicide: "Operation Regicide"
 
 ###Russia
 o_strat_offensive_ru: "Strategische Offensivoperation"

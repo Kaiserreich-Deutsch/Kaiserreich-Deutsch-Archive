@@ -63,6 +63,7 @@
  ARM_once_coast_controlled: "§G2 Werften§! werden in einem zufälligen Küstenstaat errichtet, den wir besitzen und kontrollieren."
  ARM_trade_proposal_ongoing: "Bereits Verhandlungen über ein Handelsabkommen"
  ARM_three_trade_agreements: "Wir haben mindestens drei Handelsabkommen ausgehandelt."
+ ARM_ottomans_have_lost_desert_war: "§Y[OTT.GetFlag][OTT.GetNameDefCap]§! wurde im Wüstenkrieg besiegt."
 
 ### Factions ###
  Tabriz_accord: "Tabriz-Abkommen"
@@ -510,7 +511,7 @@
  ARM_isolationism_2_desc: "Wir wissen, dass früher oder später fremde Soldaten versuchen werden, unser Land zu erobern. Unsere Nachbarn mögen stark, für manche sogar unbesiegbar erscheinen, aber wir werden ihnen zeigen, dass sie bluten können! Wir werden jeden Zentimeter unseres Landes bis zum letzten Mann verteidigen, und wir werden dafür sorgen, dass diese Tyrannen ihre Entscheidung, unseren Frieden zu stören, bereuen!"
 
  ARM_merchant_marine: "Die armenische Handelsflotte"
- ARM_merchant_marine_desc: "Obwohl es teilweise notwendig war, weil wir keine Werften haben, wurde beschlossen, dass die junge armenische Marine ihren Schwerpunkt auf den Handel und nicht auf die Kriegsführung legen soll. Dies mag unsere Küstenlinie zwar etwas verwundbar machen, aber es erlaubt uns auch, nach anderen Dingen zu suchen."
+ ARM_merchant_marine_desc: "Obwohl es teilweise notwendig war, weil wir keine Werften haben, wurde beschlossen, dass die junge armenische Marine ihren Schwerpunkt auf den Handel und nicht auf die Kriegsführung legen soll. Dies mag zwar unsere Küstenlinie etwas verwundbar machen, aber es erlaubt uns auch, effizienter nach Handelspartnern zu suchen."
 
  ARM_trading_profits: "Handelsgewinne"
  ARM_trading_profits_desc: "Ein offener Markt, Zugang zu den Volkswirtschaften der Welt und der Wille, aus allem und jedem Profit zu schlagen - das ist ein Erfolgsrezept, wie unser jüngstes Wirtschaftswachstum beweist."
@@ -526,8 +527,9 @@
 
 ### Decisions ###
  ARM_foreign_policy: "Außenpolitik Armeniens"
-  ARM_join_faction: "Beitritt [FROM.GetFactionName]"
+  ARM_join_faction: "Beitritt zu [FROM.GetFactionName]"
  ARM_request_industrial_support: "Anfrage [FROM.GetAdjective] Industrielle Unterstützung"
+ ARM_join_ESU: "Beitritt zur Ost-Syndikalistischen Union"
 
  ARM_war_of_independence: "Der Unabhängigkeitskrieg"
  ARM_war_of_independence_desc: "Dieser Krieg ist unsere letzte Chance, den Traum von einem unabhängigen armenischen Staat frei vom osmanischen Terror zu verwirklichen. Wir werden im Namen der Freiheit kämpfen, wir werden im Namen unseres Volkes bluten, und wir werden im Namen unserer Vorfahren sterben. Aber wir werden nicht aufgeben, ganz gleich, welche Entbehrungen wir ertragen müssen - denn wenn wir jetzt scheitern, wird Armenien für immer verloren sein."
@@ -714,8 +716,8 @@
  arm.45.d: "Die sieben Tseghakron-Kulte sind ein von Nzhdeh eingeführtes Konzept, das unserem Volk vermitteln soll, was es bedeutet, ein guter Armenier zu sein. Diese Kulte, die den Wert der armenischen Nation hervorheben, werden von nun an in den Schulen gelehrt und in Zeitungen und im Radio propagiert. Nzhdeh hofft, dass er auf diese Weise sowohl die jüngere als auch die ältere Generation in die richtige Richtung lenken und sie zu loyalen Untertanen seiner Sache machen kann.\n\nDiese sieben Kulte sind: 1. der Kult des Mutterlandes, der die Bedeutung des Landes hervorhebt, auf dem die armenische Kultur entstanden ist, und die Verehrung und Anbetung dieses Landes fördert. 2. der Blutkult, der die geistigen und körperlichen Merkmale hervorhebt, die das armenische Volk ausmachen und es von anderen Kulturen unterscheiden. 3. der Kult der Sprache, der unserem Volk verbietet, eine andere Sprache als seine Muttersprache zu lernen oder zu sprechen, da dies den Tod der schönen armenischen Sprache beschleunigen würde. 4. der Kult der Gefallenen, der besagt, dass man diejenigen nicht vergessen darf, die ihr Leben im Namen Armeniens und seines Volkes gegeben haben. Aufgrund unseres jüngsten Unabhängigkeitskrieges, in dem unzählige armenische Männer auf den Feldern der Ehre starben, ist dieser Kult für Nzhdeh besonders wichtig. 5. der Kult der Vorfahren. Dieser Kult erklärt, dass es eine geistige Verbindung zwischen den verschiedenen Generationen unseres Volkes gibt und dass diese Verbindung sicherstellt, dass die ewige Flamme der Nation und damit unsere heiligen Traditionen von einer Generation zur nächsten weitergegeben werden. 6. der Kult der Macht, der besagt, dass nur diejenigen, die stark und mutig sind, diese grausame Welt überleben werden. 7. der Kult um unseren Führer Nzhdeh. Das armenische Volk darf ihn und seine Entscheidungen nicht in Frage stellen, sondern soll ihm vertrauen, dass er sein Schicksal erfüllt."
  arm.45.a: "Diese Lehren sind der Weg nach vorn!"
 
- arm.46.t: "[ARM.GetNameDefCap] Möchte der Dritten Internationale beitreten"
- arm.46.d: "Es scheint, dass es dem armenischen Volk gelungen ist, sich nicht nur von den Fesseln zu befreien, die ihm die osmanischen Imperialisten auferlegt hatten, sondern auch von denen des kapitalistischen Systems, das die armenische Gesellschaft früher beherrschte. Da sich die neu gegründete revolutionäre armenische Regierung in einer relativ isolierten Position unter den ansonsten meist reaktionären Nationen des Orients befand, bat sie um Aufnahme in die Dritte Internationale und äußerte damit ihren Wunsch, die Arbeiterrevolution im globalen Maßstab zu unterstützen. Nun müssen wir entscheiden, ob wir dies zulassen wollen oder ob sie eine zu große Belastung darstellen, um ihren Beitritt zu unserer Fraktion zu rechtfertigen."
+ arm.46.t: "[ARM.GetNameDefCap] Möchte der [ROOT.GetFactionName] beitreten"
+ arm.46.d: "Es scheint, dass es dem armenischen Volk gelungen ist, sich nicht nur von den Fesseln zu befreien, die ihm die osmanischen Imperialisten auferlegt hatten, sondern auch von denen des kapitalistischen Systems, das die armenische Gesellschaft früher beherrschte. Da sich die neu gegründete revolutionäre armenische Regierung in einer relativ isolierten Position unter den ansonsten meist reaktionären Nationen des Orients befand, bat sie um Aufnahme in die [ROOT.GetFactionName] und äußerte damit ihren Wunsch, die Arbeiterrevolution im globalen Maßstab zu unterstützen. Nun müssen wir entscheiden, ob wir dies zulassen wollen oder ob sie eine zu große Belastung darstellen, um ihren Beitritt zu unserer Fraktion zu rechtfertigen."
  arm.46.a: "Alle sozialistischen Staaten sind in unserem Bündnis willkommen!"
  arm.46.b: "Sie wären nur Ballast."
 
@@ -1002,6 +1004,10 @@
  arm.118.d: "Die Regierung [FROM.GetAdjective] hat unser Angebot einer verstärkten Zusammenarbeit im Bereich des Handels mit der Begründung abgelehnt, dass sie von unserem vorgeschlagenen Abkommen nichts zu gewinnen hätte. Auch wenn dies sicherlich ein Rückschlag ist, gibt es für uns immer noch andere Märkte, die wir erkunden können und die unseren Ansätzen möglicherweise offener gegenüberstehen."
  arm.118.a: "Wir wollten ihre minderwertigen Produkte sowieso nicht!"
 
+ arm.119.t: "Konstantinopel ist unser!"
+ arm.119.d: "In einer außergewöhnlichen Wendung der Ereignisse, die Militärkommentatoren in aller Welt in Erstaunen versetzen wird, hat eine siegreiche Armee unter armenischer Flagge die alte Kaiserstadt Konstantinopel eingenommen. Die osmanischen Streitkräfte waren zwar über unsere Ankunft erstaunt, konnten die Stadt aber nicht gegen unseren Angriff verteidigen. Unser Heimatland Armenien, das von unseren Feinden unterdrückt wurde, ist nun wie ein Phönix aus der Asche auferstanden und hat das Juwel von Konstantinopel in seine Krallen genommen. Während sich unsere Truppen früher in den Hügeln und Bergen versteckten und nur nachts zuschlugen, marschieren sie jetzt die Prachtstraße von Pera entlang. Unser Flickenteppich von Guerillakämpfern hat sich nun zusammengeschlossen und in ganz Anatolien Siege errungen, aber nur wenige haben einen solchen Sieg erwartet! \n\nNach der Einnahme der Stadt scheinen unsere Truppen schockiert zu sein, denn selbst sie scheinen erstaunt zu sein, sich in der Hauptstadt zu befinden. Da sie sich der Unsicherheit ihrer Position bewusst sind, haben sie versucht, den Zorn der Einheimischen nicht zu erregen, und den Sieg so wenig wie möglich offenkundig demonstriert. Auch wenn die Angst vor einem möglichen Gegenangriff der kaiserlichen Truppen und die Sorge darüber, ob sie durch diese Anstrengungen verwundbar geworden sind, zu spüren ist, so strahlt doch zumindest die armenische Trikolore vom Topkapi-Palast aus hell gegen die Feinde, und unsere Nation schwebt wie ein Adler, was noch vor wenigen Monaten undenkbar gewesen wäre. \n\nWährend unser Volk noch immer unter brutaler Unterdrückung und falschen Liberalisierungsversprechen leidet, kann es sich mit dem Wissen trösten, dass unsere Streitkräfte der Welt gezeigt haben, wozu Armenier fähig sind."
+ arm.119.a: "Gesegnet ist, wer für die Freiheit seines Volkes stirbt"
+
  ### Characters ###
  ARM_anastas_mikoyan: "Anastas Mikoyan"
  ARM_ruben_ter_minassian: "Ruben Ter Minassian"
@@ -1024,7 +1030,7 @@
  ARM_aghasi_khanjian: "Aghasi Khanjian"
  ARM_arshag_chobanian: "Arshag Chobanian"
 
- ARM_christophor_araratov: "Christophor Araratov"
+ ARM_christophor_araratyan: "Christophor Araratyan"
  ARM_drastamat_kanayan: "Drastamat Kanayan"
  ARM_hamazasp_babadzhanian: "Hamazasp Babadzhanian"
  ARM_hamazasp_srvandztyan: "Hamazasp Srvandztyan"

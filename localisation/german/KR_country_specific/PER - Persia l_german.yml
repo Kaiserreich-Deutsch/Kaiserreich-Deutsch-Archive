@@ -78,6 +78,8 @@
  PER_mideast_communism_desc: "Wir sind die erste Nation des Nahen Ostens, die zum Sozialismus bekehrt ist. Deshalb ist es unsere Pflicht, unser neues Regierungssystem zu schützen und die Revolution in der Region zu verbreiten! Endlich ist für die Arbeiter und unterdrückten Minderheiten des Nahen Ostens die Zeit gekommen, sich gegen ihre tyrannischen Regierungen zu erheben!"
  PER_anti_imperialism: "Indien vom Imperialismus befreien"
  PER_anti_imperialism_desc: "Unsere Nation wurde endlich befreit - und nun ist es an der Zeit, die Revolution ins Ausland zu tragen. Das Dominion von Indien herrscht noch immer über Menschen unseres Volkes, die in Belutschistan leben, doch mit der Hilfe der Bharatiya-Kommune können wir die Arbeiter Indiens befreien."
+ PER_join_internationale: "Der Dritten Internationale beitreten"
+ PER_join_internationale_desc: "Während die Kräfte des Sozialismus im gesamten Nahen Osten auferstehen, kämpfen unsere europäischen Kameraden in Europa noch immer für die Befreieung der Arbeiter weltweit. Die Zeit ist gekommen, über die eigenen Grenzen hinauszublicken und uns dem internationalen Kampf für die Freiheit aller Arbeiter anzuschließen!"
  PER_tajik: "Die Befreiung Tadschikistans"
  PER_tajik_desc: "Die Bewohner Tadschikistans sind unsere Brüder. Unser Fleisch und Blut. Obwohl der Khan Turkestans durch uns beeinflusst wird, reicht dies noch nicht aus, um unsere tadschikischen Brüder vor allen Gefahren zu schützen. Wir müssen handeln."
  PER_afghanistan: "Die afghanische Frage"
@@ -289,20 +291,21 @@
  PER_military_cooperation: "Militärische Kooperation"
  PER_naval_cooperation: "Marinekooperation"
 
+### Bookmark ###
+ PER_KR_gathering_storm_desc: "Nach dem Weltkrieg konnte Persien seine vollständige Unabhängigkeit von den Russen und Briten erlangen, doch seither wurde das Land von Krisen geplagt.\n\nDer Schah, welcher sich seit dem Attentatsversuch vor einigen Jahren in schlechter Gesundheit befindet, hat nur noch wenig Zeit auf Erden und sein Bruder, Hassan Mirza, steht bereit, an seine Stelle zu treten. Royalisten glauben, dass er eine gestärkte Monarchie führten sollte, doch selbst seine Besteigung des Thrones ist noch nicht in Stein gemeißelt, da Republikaner und Sozialisten unaufhörlich eine Revolution fordern. Und natürlich besteht noch immer die Frage der persischen Lande unter osmanischer Kontrolle..."
+
 ### Intro Screen ###
  PER_country_intro_header: "Einführung: [PER.GetNameDef]"
  PER_country_intro_content: "In den letzten Jahrzehnten befand sich [PER.GetName] in einer Zeit des ständigen Wandels und der konstanten Instabilität. Nachdem es seine vollständige Unabhängigkeit von Russland und Großbritannien erzielen konnte, hatte es Schwierigkeiten dabei, seinen Platz in der Welt zu finden. In ganz [PER.GetName], von den kleinsten Dörfern am Rande der Nation bis hin zu den großen Städten wie [266.GetCapitalVictoryPointName], bildet sich eine Kluft zwischen den Menschen und ihren unterschiedlichen Ansichten. Vor einigen Jahren wurde der Schah selbst von einem sozialistischen Attentäter angeschossen. Obwohl er überlebte, verschlechterte dieser Vorfall seine Gesundheit immens. Es ist klar, dass die Nation so nicht überleben kann. Da der Tod des Schahs sich zu nähern scheint, befürchten viele, dass aus den ideologischen Differenzen eine organisierte Revolte hervorgehen könnte. Demokraten versuchen eine Republik zu errichten, Royalisten unterstützen eine Monarchie unter der Führung von Hassan Mirza, dem Bruder des Schahs, und Sozialisten wollen den ersten sozialistischen Staat im Nahen Osten gründen. Wir können nur hoffen, dass die Machtübernahme friedlich verlaufen wird...\n\nDas Militär unserer Nation ist ein Schatten seiner früheren Selbst und unsere Nation erholt sich noch immer von einer Hungersnot, die Millionen dahingerafft hat. Hinzu kommt, dass die Politik von der korrupten Aristokratie dominiert wird, was die politische Legitimität der derzeitigen Regierung entscheidend schwächt. Unsere Nation hat viele Probleme, die gelöst werden müssen, doch wenn wir dies schaffen, könnten wir zum großartigsten und mächtigsten Reich werden, das der Nahe Osten je gesehen hat."
- pers.1.a: "[PER.GetNameDefCap] wird zu alter Stärke zurückfinden!"
  
  PER_country_intro_header_1: "Die kadscharische Dynastie"
  PER_country_intro_content_1: "Die Dynastie der Kadscharen, welche von den oghusischen Türken, die einst im Nordwesten des Iranischen Hochlandes siedelten, abstammt, spielt nun schon seit Jahrhunderten eine große Rolle in den internen Angelegenheiten unserer Nation. Sie formte zusammen mit zahlreichen türkischen und nicht-türkischen Stämmen die Kizilbasch, diente dem Reich der Safawiden, welches auch als Viertes Persisches Reich bezeichnet wird, und wurde 1796 zur herrschen Dynastie Persiens. Agha Muhammad Khan Kadschar, der erste kadscharische Shahanshah unserer Nation, übernahm die Kontrolle, indem er seine politischen Rivalen nach dem Fall von Nader Shah Afshar und seiner Dynastie eliminierte. Da die politische Situation instabil war und die Nation bald schon in zahlreiche unabhängige Königreiche zerfiel, begann Muhammad damit, Persien unter seinem Banner wiederzuvereinen. Es ist nun schon viele Jahre her, dass Muhammad dieses Unterfangen abgeschlossen hat, und seitdem geht es mit der Dynastie der Kadscharen bergab. Zuerst hat sie ihre georgischen Territorien an die Russen verloren, dann Transoxianien und den Rest des Kaukasus. Daraufhin hat das Britische Imperium das Herz der Kadscharen gleich einem Dolche durchbohrt und der persischen Herrschaft über Afghanistan und Belutschistan ein Ende bereitet. Den Kadscharen, die mit jedem Tag schwächer wurden, blieb nichts anderes übrig, als die Russen und Briten mit Öl zu besänftigen. Doch diese Besänftigung brachte Korruption und Verrat mit sich - Faktoren, unter denen die Nation auch heute noch leidet.\n\nMit dem Fall des Russischen und des Britischen Reiches als Folgen des Weltkriegs ist nun endlich die Zeit der Kadscharen gekommen - und es ist an ihnen, ihren Platz unter der Sonne zu finden oder im Sande zu vergehen."
- pers.93.a: "Der Löwe soll erneut brüllen!"
 
  PER_country_intro_header_2: "Öl-Nationalisierung"
  PER_country_intro_content_2: "Im Jahre 1925, nach dem Fall des Britischen Imperiums und dem Rückzug der Briten aus Chuzestan, feierten die Madschlis die Wiedervereinigung mit Chuzestan, indem sie die dortige Öl-Industrie nationalisierten. Nun wird dieses Ereignis jedes Jahr von unseren Bürgen gefeiert, da es unseren Willen zeigt, uns weder unser Land, noch unser Öl wegnehmen zu lassen."
- pers.96.a: "[PER.GetNameDefCap] wird stark bleiben!"
  
  PER_guide: "§MZorn des kadscharischen Löwen§! (§PPaternale Autokraten§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza die Flucht ergreifen.\n£white_dot Entsendet im nachfolgenden Event Loyalisten in die Madschlis.\n\n§MVerstärkter Konstitutionalismus§! (§gAutoritäre Demokratie§! / §SSozialdemokraten§! / §cSozialkonservative§! / §lSozialliberale§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza im Land bleiben.\n£white_dot Tut im nachfolgenden Event nichts.\n£white_dot Für Schah Hamid Mirza: Anstatt nichts zu tun, entsendet Loyalisten in die Madschlis, ermordet den Schah und schließt dann Frieden.\n\n§MLang lebe die Revolution!§! (§RRadikale Sozialisten§! / §SSozialdemokraten§! / §cSozialkonservative§! / §lSozialliberale§! / §mMarktliberale§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza die Flucht ergreifen.\n£white_dot Tut im nachfolgenden Event nichts.\n£white_dot Für eine radikal-sozialistische Republik: Wählt eine sozialistische Republik.\n£white_dot Für eine demokratische Republik: Erlaubt den Demokraten, eine Republik zu formen."
+
 
 ### Events ###
  pers.2.t: "Der Schah ist tot!"
@@ -580,9 +583,9 @@
  pers.63.a: "Zusammen werden wir stärker sein!"
 
  pers.64.t: "[PER.GetNameDefCap] strebt ein Bündnis an"
- pers.64.d: "[PER.GetNameDefCap] hat sich uns mit der Idee eines Bündnisses genähert. Wir beide gehören zu den stärksten sozialistischen Nationen Asiens, und laut den Persern sollten wir uns deshalb gegenseitig dabei helfen, die Revolution zu verbreiten. Zuerst sollten wir dabei die Indische Dominion zu Fall bringen und das Land zwischen uns aufteilen, wobei die Perser allerdings lediglich Belutschistan beanspruchen würden."
+ pers.64.d: "[PER.GetNameDefCap] hat sich uns mit der Idee eines Bündnisses genähert. Wir beide gehören zu den stärksten sozialistischen Nationen Asiens, und laut den Persern sollten wir uns deshalb gegenseitig dabei helfen, die Revolution zu verbreiten."
  pers.64.a: "Zusammen werden wir stärker sein!"
- pers.64.b: "Dazu sind wir noch nicht bereit."
+ pers.64.b: "Wir brauchen sie nicht!"
 
  pers.65.t: "Die [HND.GetNameDefCap] nimmt unser Angebot an"
  pers.65.d: "Die [HND.GetNameDefCap] hat der Idee eines Bündnisses zugestimmt und sich für eine Zusammenarbeit gegen die Indische Dominion ausgesprochen. Nun ist die Zeit des Krieges gekommen!"
@@ -591,7 +594,7 @@
  pers.66.t: "Die [HND.GetNameDefCap] lehnt unser Angebot ab"
  pers.66.d: "Die [HND.GetNameDefCap] war von unserer Idee eines Bündnisses der sozialistischen Staaten Asiens nicht sonderlich angetan und hat unser Angebot abgelehnt. Wir könnten der Indischen Dominion zwar immer noch den Krieg erklären, dies wäre allerdings äußerst riskant."
  pers.66.a: "Wir kämpfen dennoch weiter!"
- pers.66.b: "Wir können es nicht allein mit den Briten aufnehmen."
+ pers.66.b: "Wir können es nicht allein mit der Welt aufnehmen."
 
  pers.67.t: "[PER.GetNameDefCap] fordert Bahrain"
  pers.67.d: "[PER.GetNameDefCap] hat uns ein Ultimatum gesandt, in welchem gefordert wurde, dass wir die Insel Bahrain sofort aufgeben und die Kontrolle an sie übertragen. Der [PER.GetAdjective]e Anspruch auf Bahrain ist nun schon Jahrhunderte alt, doch die [PER.GetAdjective]e Regierung spricht noch immer leidenschaftlich von der Rückeroberung "verlorenen Landes". Sollten wir ihnen die Insel nicht überlassen, werden sie wohl versuchen, unserer Herrschaft über Bahrain auf militärischem Wege ein Ende zu bereiten."
@@ -718,6 +721,19 @@
  pers.104.t: "Rostam wurde verkauft"
  pers.104.d: "Rostam der Bär wurde an einen polnischen Händler verkauft, welcher gerade durch unsere Nation zog. Wie es scheint hat der Militärbär die polnische Handelskarawane regelrecht entzückt und als die Händler herausfanden, dass er zu Verkauf stand, haben sie nicht lange gezögert, sondern sofort zugeschlagen. Mittlerweile haben sie ihm auch einen neuen Namen gegeben: Wojtek."
  pers.104.a: "Wie es scheint treibt Wojteks Schicksal ihn nach Polen."
+
+ pers.105.t: "[From.GetNameDefCap] will der [ROOT.GetFactionName] beitreten"
+ pers.105.d: "Während die revolutionären Feuer Asien verschlingen, wächst das Verlangen nach Solidarität zwischen den befreiten Völkern stetig weiter an. Unsere Kameraden in [From.GetNameDef], die sich der Gefahren der Neutralität bewusst sind, haben daher darum gebeten, der [ROOT.GetFactionName] beitreten zu dürfen. Würden wir diesen Vorschlag annehmen, könnten wir unseren Einfluss im Nahen Osten ausbauen, uns jedoch auch in auswärtige Angelegenheiten verstricken, denen wir lieber fernbleiben wollten."
+ pers.105.a: "Wir heißen unsere [From.GetAdjectiveCap]en Kameraden willkommen."
+ pers.105.b: "Wir brauchen sie nicht."
+
+ pers.106.t: "[From.GetNameDefCap] akzeptiert!"
+ pers.106.d: "Wie erwartet hat [FROM.GetNameDef] unser Angebot der [From.GetFactionName] beizutreten, angenommen und ist somit den ersten Schritt zu einer Vertiefung der Beziehungen zwischen unseren Nationen gegangen. Was auch immer die Zukunft für uns bereit erhält, wir werden uns diesem Sturm vereint entgegenstellen."
+ pers.106.a: "Wir stehen vereint."
+
+ pers.107.t: "[From.GetNameDefCap] lehnt ab"
+ pers.107.d: "In einer unerwarteten und äußerst enttäuschenden Wendung hat [FROM.GetNameDef] unser Angebot der [From.GetFactionName] beizutreten abgelehnt, wodurch wir uns nun in einer isolierten Position wiederfinden."
+ pers.107.a: "Dann stehen wir eben allein."
 
  pers.110.t: "Republikanische Revolution im Iran"
  pers.110.d: "Vor einigen Tagen haben die Neuigkeiten, dass der Schah verstorben ist, Teheran erreicht - und die Menschen sind auf die Straße gegangen, um die Einrichtung einer Republik zu fordern. Letzte Nacht ist es diesen Demonstranten anscheinend gelungen, die Kontrolle über Teheran zu übernehmen und die Kadscharen aus dem Land zu vertreiben. Persien, oder auch der Iran, wie die Nation mittlerweile heißt, ist nun schon seit langer Zeit ein Ort der Instabilität gewesen, vor allem aber nach dem Ende der russisch-britischen Besatzung der Nation.\n\nDa auch der Nahe Osten immer instabiler wird, fragen sich nun viele, wie die neue republikanische Regierung wohl auf die Herausforderungen und Bedrohungen der Zukunft reagieren wird."

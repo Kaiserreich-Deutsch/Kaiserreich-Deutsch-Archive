@@ -442,15 +442,16 @@
  SWE_social_conservative_alternate_party: "Högern"
  SWE_social_conservative_alternate_party_long: "Högerns Riksorganisation(Reichsorganisation)"
 
-### Events ###
+### Bookmark ###
+ SWE_KR_gathering_storm_desc: "Im letzten Jahrzehnt entwickelte sich Schweden unter der wohlhabenden Regierung von Ministerpräsident Arvid Lindman zu einer Bastion des Konservatismus und profitierte von den Früchten des Wirtschaftswachstums in Mitteleuropa in den späten 1920er und frühen 1930er Jahren. Doch über Stockholm ziehen Wolken auf: 1934 trat Arvid Lindman als Ministerpräsident zurück und wurde von dem weniger charismatischen Gösta Bagge abgelöst, während sich die sozialdemokratische Opposition um ihren populären Parteichef Per Albin Hansson scharte. In diesem Jahr finden Bagges erste Wahlen als Ministerpräsident statt. Kann er sich behaupten? Und wenn nicht, kann die schwedische Demokratie diesen plötzlichen Umschwung überleben?"
 
 ### Intro Screen ###
-
  SWE_country_intro_header: "Schweden 1936"
  SWE_country_intro_content: "Nach dem Sieg der Deutschen im Weltkrieg musste sich Schweden auf eine neue Weltordnung einstellen. Daher überraschte es kaum jemanden, als die schwedische Regierung ankündigte, dass Schweden der deutschen Organisation Mitteleuropa beitreten würde. Arvid Lindman und seinen Konservativen gelang es, die Versuche der Sozialdemokraten, die Macht an sich zu reißen, durch einen Wahlsieg abzuwehren und Schweden als konservatives Bollwerk in Skandinavien zu etablieren.\n\nDies könnte sich jedoch ändern, da Lindman vor zwei Jahren in den Ruhestand ging. In diesem Jahr wird der neue Regierungschef Gösta Bagge, der Lindman auch als Ministerpräsident abgelöst hat, seine ersten Wahlen leiten. Wird auch er in der Lage sein, sich gegen seinen Erzfeind in der Opposition, Per Albin Hansson, durchzusetzen?"
- swe.0.a: "Für Schweden!"
 
  SWE_guide: "§MDemokratie§! - §MSAP-Liberale Koalition§! / §MAV§! (§SSozialdemokratisch§! / §cSozialkonservativ§!)\n£white_dot Wählen Sie die §SSAP§! oder §cAV§! bei den Riksdagswahlen 1936.\nAnmerkung: Wenn Sie die SAP wählen und eine Koalition mit der §RSSV§! bilden, setzen Sie NICHT auf den \"Abdankung erzwingen\" Schwerpunkt.\n\n§MKönigliche Regierung§! (§gAutoritär Demokratisch§!)\n£white_dot Bei den Reichstagswahlen 1936 wird die SAP gewählt und bildet eine Koalition mit der §RSSV§!\n£white_dot Nehmen Sie den Schwerpunkt \"Abdankung erzwingen\".\n£white_dot Die Soldaten sollen die Milizen niederschlagen, anstatt sich ihnen anzuschließen.\n£white_dot Nimm den Fokus \"Rückkehr des Königs\" und entscheide dich für die Wiederherstellung der \"Demokratie\".\n£white_dot Gustav VI. wird gekrönt und die Wahlen werden unter dem reorganisierten §gAV§! wieder aufgenommen.\n\n§MJunta§! - §MKabinett Ehrensvard§! / §MJunge Junta§! / §MGyllenkrok Regime§! (§gAutoritär Demokratisch§! / §PPaternal Autocratisch§! / §NNational Populistisch§!)\n£white_dot Wie oben, jedoch NICHT mit dem Schwerpunkt \"Rückkehr des Königs?\".\n£white_dot Im weiteren Verlauf des Schwerpunktbaums wird derjenige, den Sie für die Leitung des vorläufigen Kabinetts ausgewählt haben, zum Anführer: §gCarl August Ehrensvärd§!, §PHelge Jung§!, oder §NAxel Gyllenkrok§!.\n\n§MSozialistische Revolution§! - §MRadikal Sozialistische Machtübernahme§! / §MSyndikalistische Machtübernahme§! / §MTotalistische Machtübernahme§! (§RRadikal Sozialistisch§! / §rSyndikalistisch§! / §oTotalistisch§!)\n£white_dot Wie bei der Königlichen Regierung, aber wenn das Militär putscht, lassen Sie die Soldaten revoltieren.\n£white_dot Durch Ereignisse aus dem Schwerpunktbereich \"Der Erste Kongress\", der sich mehrheitlich hinter die gewünschte Partei stellt, entweder die §RSSV§! / §rSAC§! / §oVPT§! kann an die Macht kommen."
+
+### Events ###
 
 ### 1936 Events ###
 
@@ -1321,7 +1322,6 @@
  SWE_tt_will_be_removed_redistribute_wealth: "§RDieser Modifikator wird entfernt, wenn wir Den Reichtum umverteilen.§!"
  SWE_douglasfocutext_alive: "Unser leitender Stabsoffizier Archibald Douglas schlägt vor, die schwedische Armee in eine mobile Truppe umzuwandeln, die in der Lage ist, die feindlichen Streitkräfte zu überlisten und unsere Feinde schnell zu neutralisieren."
  SWE_douglasfocutext_dead: "Der ehemalige Generalstabsoffizier Archibald Douglas schlug vor, die schwedische Armee in eine mobile Truppe umzuwandeln, die in der Lage ist, die feindlichen Streitkräfte zu überlisten und unsere Feinde schnell zu neutralisieren."
- SWE_SCA_formation_warning: "§RDurch die Vervollständigung dieses Schwerpunkts werden die Mitglieder der Skandinavischen Verteidigungsunion in ein einziges neues Zeichen eingegliedert. Alle Nationalgeiste und Designfirmen gehen dabei verloren.§!"
 
 ### Decisions ###
  SWE_fix_black_monday_category: "Reaktion auf Schwarzen Montag"

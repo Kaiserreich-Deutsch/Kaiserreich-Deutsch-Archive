@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 kachin_focus: "Schwerpunktbaum von Kachin"
 
@@ -48,7 +48,7 @@ KAC_Uniting_the_Factions_desc: "Da die konkurrierenden politischen Gruppierungen
 KAC_One_State_Under_the_Sun: "Ein Staat unter der Sonne"
 KAC_One_State_Under_the_Sun_desc: "Das Leben vieler Menschen, vor allem auf dem Land, wird durch traditionelle Verwaltungssysteme geregelt. Diese Verwaltungen müssen unter unsere direkte Kontrolle gebracht werden."
 KAC_The_Father_of_Kachin: "Der Vater von Kachin"
-KAC_The_Father_of_Kachin_desc: "Sama Duwa Sinwa Naw ist die große Kraft, um die die Befreiungsbewegung kreist. Wir sollten im Volk ein erhabenes Bild von ihm fördern."
+KAC_The_Father_of_Kachin_desc: "Sama Duwa Sinwa Nawng ist die große Kraft, um die die Befreiungsbewegung kreist. Wir sollten im Volk ein erhabenes Bild von ihm fördern."
 KAC_Eliminate_Chinese_Influence: "Beseitigung des chinesischen Einflusses"
 KAC_Eliminate_Chinese_Influence_desc: "Chinesische Händler und Landbesitzer dominieren die nationale Wirtschaft und haben weite Teile der Bevölkerung unter ihrem Stiefel. Wir sollten ihr Vermögen enteignen und sie alle wegschicken."
 KAC_An_End_to_the_Fight: "Endlich Unabhängigkeit"
@@ -120,11 +120,11 @@ kachin.2.d: "Die politische Lage in Kachin hat sich verschlechtert, und militär
 kachin.2.a: "Demütigend!"
 
 ### Characters ###
-KAC_sama_duwa_sinwa_naw: "Sama Duwa Sinwa Naw"
+KAC_sama_duwa_sinwa_naw: "Sama Duwa Sinwa Nawng"
 KAC_duwa_zau_lawn: "Duwa Zau Lawn"
 KAC_sabaw_tu: "Sabaw Tu"
 
 KAC_sao_shwe_thaik: "Sao Shwe Thaik"
-KAC_sao_shwe_thaik_leader_desc: "Sao Shwe Thaik (voller königlicher Name: Kambawsarahta Thiri Pawaramahawuntha Thudamaraza) wurde am 16. Oktober 1895 in Yawnghwe geboren. Er wurde an der Shan Chiefs' School in Taunggyi ausgebildet und trat während des Weltkriegs in den britischen Militärdienst ein. Er diente dann von 1920 bis 1923 im Nordost-Grenzdienst. Im September 1927 wurde er vom Ministerrat der Föderierten Shan-Staaten zum Nachfolger seines Onkels als Saopha von Yawnghwe gewählt und trat sein Amt offiziell am 8. März 1929 an.\n\nSao Shwe Thaik trat im post-britischen Burma in die Politik ein und wurde zu einem starken Befürworter der Demokratie und der Autonomie der Shan-Staaten, der bei anderen politischen Führern in Burma hohes Ansehen genoss. \n\nMit der Besetzung der Shan-Staaten und der schrecklichen Behandlung durch ihre Oberherren beschloss Sao Shwe Thaik, die Initiative zu ergreifen und sich von den unterdrückerischen Kontrolleuren der Shan-Staaten zu befreien, indem er mit einer Reihe anderer Saophas die Shan-Konföderation ausrief. Er steht nun an der Spitze seines neuen, unabhängigen Landes und hofft, es in ein neues Zeitalter zu führen."
+KAC_sao_shwe_thaik_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 16. Oktober 1895, in Yawnghwe, Britisch-Birma, Britisch Raj\n§YPolitikkarriere:§! Er wurde an der Shan Chiefs' School in Taunggyi ausgebildet und trat während des Weltkriegs in den britischen Militärdienst ein. Von 1920 bis 1923 diente Shwe Thaik im Nordöstlichen Grenzdienst. Im September 1927 wurde er vom Ministerrat der Föderierten Shan-Staaten zum Nachfolger seines Onkels als Saopha von Yawnghwe gewählt und trat sein Amt offiziell am 8. März 1929 an.\n\nSao Shwe Thaik trat im post-britischen Burma in die Politik ein und wurde zu einem starken Befürworter der Demokratie und der Autonomie der Shan-Staaten, der bei anderen politischen Führern in Burma hohes Ansehen genoss. \n\nMit der Besetzung der Shan-Staaten und der schrecklichen Behandlung durch ihre Oberherren beschloss Sao Shwe Thaik, die Initiative zu ergreifen und sich von den unterdrückerischen Kontrolleuren der Shan-Staaten zu befreien, indem er mit einer Reihe anderer Saophas die Shan-Konföderation ausrief. Er steht nun an der Spitze seines neuen, unabhängigen Landes und hofft, es in ein neues Zeitalter zu führen."
 
 KAC_sao_yang_wen_pin: "Sao Yang Wen Pin"

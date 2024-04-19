@@ -366,10 +366,12 @@
  NOR_NAT_alliance: "Auslandsbeziehungen stärken"
  NOR_NAT_alliance_desc: "In der Welt gibt es viele Nationen mit einer ähnlichen Weltsicht wie die unsere. Lassen Sie uns die Hand ausstrecken und versuchen, gute Beziehungen zu potenziellen Verbündeten aufzubauen."
 
+### Bookmark ###
+ NOR_KR_gathering_storm_desc: "Für Norwegen hätten die letzten beiden Jahrzehnte besser verlaufen können. Als neutrales Land, das die britischen Kriegsanstrengungen unterstützte, war die Hegemonialmacht Deutschland dem Land der Mitternachtssonne nicht wohlgesonnen, und die Nation wurde von dem Mitteleuropa-Projekt ausgeschlossen, zu dem auch Schweden und Dänemark gehörten. Als Großbritannien mit Hammer und Fackel fiel, war der letzte Handelspartner Norwegens, der nicht mit hohen Zöllen belegt war, einen Ozean entfernt. Seitdem befindet sich Norwegen in diplomatischer und wirtschaftlicher Isolation, und in dem Leid, das dies mit sich bringt, steigt die syndikalistisch orientierte Arbeiterpartei in den Umfragen immer weiter nach oben."
+
 ### Intro Screen ###
  NOR_country_intro_header: "Der Zustand Norwegens"
  NOR_country_intro_content: "Norwegen befindet sich an einem historischen Scheideweg. Während das Land relativ wohlhabend ist, wird die Zivilgesellschaft von politischen Machtkämpfen und Stagnation geplagt.\n\nDie Linke ist aufgrund von Spaltungen innerhalb der einst dominierenden Arbeiterpartei gespalten. Im Jahr 1921 spaltete sich die gemäßigte Fraktion ab und gründete die Sozialdemokratische Arbeiterpartei, während sich der radikale syndikalistische Flügel abspaltete und 1923 den Norwegischen Syndikalistenverband gründete. Auch die norwegische Kommunistische Partei ist in Schwierigkeiten, und es gibt Gerüchte über die Gründung einer neuen Avantgardepartei der extremen Linken, die auf den Grundsätzen des Nationalsyndikalismus beruht.\n\nAm anderen Ende des politischen Spektrums ringen mehrere nationalistische Organisationen um Macht und Einfluss. Während sie sich in ihrer Ablehnung des Sozialismus einig sind, unterscheiden sich ihre Mittel und Ziele. Die politischen Auseinandersetzungen haben zwar nicht zu Gewalt geführt, aber die regierende Liberale Partei ist aufgrund ihrer Minderheitsregierung weitgehend machtlos, wenn es darum geht, dringende Probleme zu lösen.\n\nDa sich erneut dunkle Wolken über Europa zusammenbrauen, warten die Menschen gespannt auf die Wahlen im Oktober 1936."
- norway.1.a: "Zustimmung und Glaube an Dovre fällt."
 
  NOR_guide: "§MDemokratie - NSA / Høyre§! (§SSozialdemokratisch§! / §mMarktliberal§!)\n£white_dot Wählen Sie bei den Wahlen 1936 die gewünschte Partei, entweder die Sozialdemokraten (§SNSA§!) oder die Konservativen (§mHøyre§!), und bei der folgenden Wahl.\n\n§MQuisling Regime§! (§PPaternal Autokratisch§!)\n£white_dot Stärkung der Radikalen Sozialisten (§RArbeiderpartiet§!) bei den Wahlen von 1936.\n£white_dot Während der Kämpfe in Oslo soll das Samfundsvernet das Parlament erobern und Quisling wird eine neue Regierung bilden.\n\n§MSozialistische Machtübernahme§! (§RRadikal Sozialistisch§! / §rSyndikalistisch§! / §oTotalistisch§!)\n£white_dot Wie oben, aber lassen Sie die Arbeitermilizen die Hauptstadt während der Kämpfe in Oslo einnehmen.\n£white_dot Während der Sitzung der Landsorganisasjonen muss eine Fraktion eine Mehrheit erhalten, indem sie 3 Mal oder öfter unterstützt wird."
 
@@ -934,7 +936,6 @@
  NOR_new_generals_tooltip: "Ein §Y1 Fähigkeiten General§! namens §YErik Leschly§! wird freigeschaltet.\nEin §Y2 Fähigkeiten General§! mit dem Namen §YIvar Holmquist§! wird freigeschaltet."
  NOR_rikshirden_tooltip: "\n§RDieser Schwerpunkt wird das Offizierskorps der Armee durch die Führung des §YRikshird§! ersetzen, den Armeebaum schließen und alle nationalen Geister der Armee entfernen.!§!"
  NOR_quisling_guard_tooltip: "Erhalten Sie eine §YElite-Infanteriedivision§! in Oslo."
- NOR_SCA_formation_warning: "§RDurch den Abschluss dieses Schwerpunkts werden die Mitglieder der Skandinavischen Verteidigungsunion zu einem einzigen neuen Tag zusammengefasst. Alle Nationalgeiste und Designfirmen werden verloren gehen.§!"
 
 ### Flags ###
  NOR_1936_elections_held: "Die Wahlen von 1936 haben stattgefunden"

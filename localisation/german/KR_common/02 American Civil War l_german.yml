@@ -132,14 +132,6 @@ ACW_recruit_in_state: "Rekrutiere [From.GetACWDivisionCount] Militia in [From.Ge
 
 ACW_gets_event_uprising: "Erhält Event '§HResistance Uprising in [?revolt_state_var.GetName]§!'."
 
-### ACW Mobilization Decisions ###
-ACW_mobilisation_decisions: "Mobilisierung im Amerikanischen Bürgerkrieg"
-ACW_mobilisation_decisions_desc: "Der Tag, den viele befürchtet haben, ist nun gekommen. Zum zweiten Mal innerhalb von 75 Jahren hat sich der Bruder gegen den Bruder gewendet. Wenn wir eine Chance haben wollen, müssen wir die Bevölkerung und unsere industrielle Macht zusammenbringen, um diejenigen zu besiegen, die uns ihr Ideal von Amerika aufzwingen wollen!"
-ACW_mobilize_economy: "Mobilisiert die Wirtschaft"
-ACW_raise_conscription: "Verschärfung der Wehrpflicht"
-ACW_convert_heartland_factories: "Verwendet £GFX_half_factory §Y[FROM.GetName]§! zur militärischen Produktion"
-ACW_convert_outlier_factories: "Verwendet £GFX_half_factory §Y[FROM.GetName]§! zur militärischen Produktion"
-
 ### Set Up Events ###
 amcivwar.1.t.president: "Präsident Reed flieht nach Chicago"
 amcivwar.1.t.not_president: "Jack Reed fordert zum Handeln auf"

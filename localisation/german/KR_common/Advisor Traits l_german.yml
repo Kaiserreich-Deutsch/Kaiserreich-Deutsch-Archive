@@ -22,6 +22,7 @@ KR_backroom_backstabber: "Hinterzimmer-Verräter"
 KR_compassionate_gentleman: "Mitfühlender Gentleman"
 KR_flamboyant_brute: "Flamboyant Brute"
 KR_great_compromiser: "Großer Kompromissler"
+KR_happy_amateur: "Fröhlicher Amateur"
 KR_iron_fisted_brute: "Eiserne-Faust-Brut"
 KR_man_of_the_people: "Mann des Volkes"
 KR_naive_optimist: "Naiver Optimist"
@@ -129,9 +130,9 @@ KR_corporate_suit_sic: "$KR_corporate_suit$"
 KR_economic_reformer_sic: "$KR_economic_reformer$"
 KR_flamboyant_brute_sic: "$KR_flamboyant_brute$"
 KR_great_compromiser_sic: "$KR_great_compromiser$"
-KR_happy_amateur_sic: "Happy Amateur"
+KR_happy_amateur_sic: "$KR_happy_amateur$"
 KR_iron_fisted_brute_sic: "$KR_iron_fisted_brute$"
-KR_local_tyrant_sic: "Local Tyrant"
+KR_local_tyrant_sic: "Lokaler Tyrann"
 KR_man_of_the_people_sic: "$KR_man_of_the_people$"
 KR_media_magnate_sic: "$KR_media_magnate$"
 KR_naive_optimist_sic: "$KR_naive_optimist$"
@@ -244,10 +245,10 @@ KR_the_pursuit_of_datong_2_sic: "Die Verfolgung von Datong"
 KR_the_pursuit_of_datong_3_sic: "Die Verfolgung von Datong"
 
 KR_realising_datong_sic: "Verwirklichung von Datong"
-KR_realising_datong_sic_tt: "Die Auswirkungen dieser Eigenschaft werden mit dem Modifikator §YVerwirklichung von Datong§! auf der Registerkarte Nationale Ideen dargestellt."
+KR_realising_datong_sic_tt: "Die Auswirkungen dieser Eigenschaft werden mit dem Modifikator §YVerwirklichung von Datong§! unter Nationalgeist dargestellt."
 
 KR_the_red_napoleon_sic: "Der rote Napoleon"
-KR_the_red_napoleon_sic_tt: "Die Auswirkungen dieser Eigenschaft werden mit dem Modifikator §YDer rote Napoleon§! auf der Registerkarte Nationale Ideen dargestellt."
+KR_the_red_napoleon_sic_tt: "Die Auswirkungen dieser Eigenschaft werden mit dem Modifikator §YDer rote Napoleon§! unter Nationalgeist dargestellt."
 
 KR_dynamic_materialist_sic: "Dynamischer Materialist"
 
@@ -270,7 +271,7 @@ KR_anti_imperialist_crusader: "Anti-imperialistischer Kämpfer"
 KR_chinese_feminist: "Chinesischer Feminist"
 
 KR_iron_necked_liberal: "Der Liberale mit dem eisernen Kragen"
-KR_iron_necked_liberal_tt: "Die Auswirkungen dieser Eigenschaft werden mit dem Modifikator §Y$CHI_iron_necked_liberal_effect$§! in der Registerkarte Nationale Ideen dargestellt."
+KR_iron_necked_liberal_tt: "Die Auswirkungen dieser Eigenschaft werden mit dem Modifikator §YDer Liberale mit dem eisernen Kragen§! unter Nationalgeist dargestellt."
 
 KR_madame_wang: "Madame Wang"
 
@@ -278,7 +279,7 @@ KR_kuomintang_crown_prince: "Kronprinz der Kuomintang"
 KR_kuomintang_crown_prince_sic: "$KR_kuomintang_crown_prince$"
 
 KR_blueshirt_harbinger_sic: "Vorbote der Blauhemden"
-KR_blueshirt_harbinger_sic_tt: "Die Auswirkungen dieser Eigenschaft werden mit dem Modifikator §Y$CHI_blueshirt_harbinger_modifier$§! auf der Registerkarte Nationale Ideen dargestellt."
+KR_blueshirt_harbinger_sic_tt: "Die Auswirkungen dieser Eigenschaft werden mit dem Modifikator §YVorbote der Blauhemden§! unter Nationalgeist dargestellt."
 
 KR_shadowy_laoban_lar: "Schattenlaoban"
 KR_shadowy_laoban: "Schattenlaoban"
@@ -329,6 +330,14 @@ INC_rent_maintained_egalitarian: "Mietpreisgebundene Egalitäre"
 
 ### IND ###
 KR_integration_proponent: "Integrationsbeauftragter"
+
+### IRE ###
+KR_big_fellow_3: "$IRE_big_fellow_1$"
+KR_the_chief_4: "$IRE_the_chief_1$"
+KR_agrarian_firebrand: "Landwirtschaftlicher Feuerbrand"
+KR_passionate_feminist: "Leidenschaftlicher Feminist"
+KR_passionate_feminist_2: "$KR_passionate_feminist$"
+KR_consummate_proceduralist: "Vollendeter Prozeduralist"
 
 ### IRQ ###
 KR_conniving_opportunist: "Hinterhältiger Opportunist"

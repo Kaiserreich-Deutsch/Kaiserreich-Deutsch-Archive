@@ -487,9 +487,6 @@ SWI_joint_command_idea_desc: "Die Lehren, die wir aus dem Zusammenschluss unsere
 SWI_nuclear_research_idea: "Studienkommission für Kernenergie"
 SWI_nuclear_research_idea_desc: "Die Studienkommission für Kernenergie hat die Aufgabe, die Machbarkeit der Aufnahme von Atomwaffen in unsere Streitkräfte zu untersuchen."
 
-SWI_tech_sharing_idea: "Technologiefreigabe"
-SWI_tech_sharing_idea_desc: "Wir teilen unsere Technologie mit unseren Verbündeten, und sie teilen sie wiederum mit uns."
-
 SWI_populist_fortress_idea: "Nationale Festungen"
 SWI_populist_fortress_idea_desc: "Unsere Nation ist mit einer Vielzahl von natürlichen Verteidigungsanlagen gesegnet. Die Einbindung dieser natürlichen Barrieren in neue Verteidigungsnetzwerke wird unsere Nation für jeden Möchtegern-Angreifer nahezu undurchdringlich machen."
 
@@ -1605,6 +1602,9 @@ SWI_transport_of_goods_tooltip: "§CDies wird ein Referendum beginnen, das die N
 
  SWI_ulrich_wille_jr: "Ulrich Wille junior"
  SWI_ulrich_wille_jr_desc: "§YGeneral Beschreibung\nGeboren:§! §g12. Oktober 1877, in Thun, Bern, Schweiz§!\n§YMilitärische Karriere:§! §gWille junior, Sohn eines Berufsoffiziers der Schweizer Armee, studierte zunächst Jura und schloss mit dem Doktorat ab. Dann entschied er sich, in die Fußstapfen seines Vaters zu treten und wurde 1901 Berufsoffizier in der Infanterie. In den folgenden Jahrzehnten stieg Wille junior auf und erreichte 1933 den höchsten Rang in Friedenszeiten, den eines Generalleutnants. Wie der Vater, so der Sohn: Wille ist ein Germanophiler, der sich besonders für den preußischen Militarismus begeistert und viele persönliche Beziehungen zur deutschen Elite pflegt."
+
+ SWI_jules_borel: "Jules Borel"
+ SWI_jules_borel_desc: "§YGeneral Beschreibung\nGeboren:§! §g18. August 1884, in Couvet, Neuchâtel, Schweiz§!"
 
  SWI_gustave_combe: "Gustave Combe"
  SWI_gustave_combe_commander_desc: "§YAllgemeine Beschreibung\nGeboren:§! §g27. Mai 1882, in Orbe, Waadt, Schweiz§!"

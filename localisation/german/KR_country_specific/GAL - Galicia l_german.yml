@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 ### Political Parties ###
 GAL_totalist_party: "$GAL_radical_socialist_party$"
@@ -134,3 +134,10 @@ GAL_kost_levytskyi: "Kost Levytskyi"
 GAL_yevhen_petrushevych: "Yevhen Petrushevych"
 GAL_eugeniusz_kwiatkowski: "Eugeniusz Kwiatkowski"
 GAL_franciszek_pokorny: "Franciszek Pokorny"
+
+### Traits ###
+GAL_polish_officer: "Polnischer Offizier"
+GAL_polish_officer_desc: "§LDieser Anführer ist ein polnischer galizischer Offizier. Im Falle einer Auflösung oder Abspaltung von Galizien-Lodomerien wird er sich auf die Seite des polnischen Regimes stellen.§!"
+
+GAL_ukrainian_officer: "Ukrainischer Offizier"
+GAL_ukrainian_officer_desc: "§LDieser Anführer ist ein ukrainischer galizischer Offizier. Im Falle einer Auflösung oder Abspaltung von Galizien-Lodomerien wird er sich auf die Seite des ukrainischen Regimes stellen.§!"

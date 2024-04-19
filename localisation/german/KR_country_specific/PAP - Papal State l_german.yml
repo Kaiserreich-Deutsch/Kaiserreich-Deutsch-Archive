@@ -326,6 +326,9 @@
  PAP_did_not_denounce_coughlin: "Hat Pater Coughlin nicht denunziert"
  PAP_denounced_coughlin: "Denunzierte Pater Coughlin"
 
+### Bookmark ###
+ PAP_KR_gathering_storm_desc: "Mit der Bildung des vereinigten Italiens schien die Zeit der weltlichen Macht des Kirchenstaates der Vergangenheit anzugehören. Dann kam der Zusammenbruch des Königreichs und der darauf folgende Bürgerkrieg, und die Mittelitaliener wandten sich erneut an das Papsttum und seine sizilianischen Verbündeten, um die Stabilität zu erhalten. Jetzt ist Papst Pius XI. krank und beklagt auf seinem Sterbebett ein Italien, das gespalten bleibt, während die Syndikalisten im Norden immer stärker werden. Wer auch immer sein Nachfolger sein wird, er wird Gott an seiner Seite brauchen, um sich durchzusetzen."
+
 ### Intro Screen ###
  PAP_country_intro_header: "Der Zustand des Kirchenstaates"
  PAP_country_intro_content: "Nach dem Zusammenbruch Italiens nach dem Weltkrieg drohte Rom von den republikanischen Rebellen gegen das alte Königreich eingenommen zu werden. Die verschwommenen Kampflinien des Bürgerkriegs verschonten Rom größtenteils durch den Schutz der südlichen royalistischen Kräfte, die zusammen mit lokalen rechten Milizen Aufstände in Rom niederschlugen. Der Papst verließ bald den Vatikan, um die Verwaltung seines gottgewollten Reiches wieder aufzunehmen, doch der geschwächte Staat verfügte über keine ihm treu ergebenen Streitkräfte und hatte kaum eine Chance, einer Offensive der Syndikalisten zu widerstehen. Die weißen Generäle im Süden wollten jedoch nicht tatenlos zusehen, wie das Zentrum des Katholizismus dem Syndikalismus zum Opfer fiel, und führten eine Gegenoffensive an, um Rom zu sichern. Sie stellten den Kirchenstaat unter den Schutz der Royalisten, später der Sizilianer, und erhielten Unterstützung von ausländischen Freiwilligen in Rom, dem wiedergeborenen Zouave-Korps.\n\nNach dem Ende des Krieges trat der Kirchenstaat zusammen mit seinen Schutzherren in Neapel der Italienischen Föderation bei, kontrollierte aber nur einen kleinen Teil des nominellen Territoriums und war und ist in den meisten Belangen ein Rumpfstaat, eine Marionette der Sizilianer. Nachdem er 1926 zusammen mit Sardinien und den Beiden Sizilien seine Unabhängigkeit erklärt hatte, wurde er von den meisten Staaten der Welt als unabhängiger Staat anerkannt, auch wenn er in seinen diplomatischen Möglichkeiten stark eingeschränkt ist.\n\nIn der Kurienpolitik ist die schwindende Gesundheit von Pius in aller Munde, und es bleibt abzuwarten, wer seine Nachfolge antreten wird, sollte er in den kommenden Jahren sterben."
@@ -523,10 +526,6 @@
  papalstate.62.t: "[From.GetNameDefCap] hat abgelehnt"
  papalstate.62.d: "Obwohl König [From.GetLeader] genau weiß, wie die Katholiken des Nordens durch das syndikalistische Regime, unter dem sie leben, unterdrückt werden, hat er die Bitte des Papstes mit der Begründung abgelehnt, dass [From.GetNameDef] es sich nicht leisten kann, einen Krieg mit [SRI.GetNameDef] zu provozieren."
  papalstate.62.a: "Wie enttäuschend"
-
- papalstate.63.t: "NeoSanfedisti-Führer verhaftet"
- papalstate.63.d: "Die Beamten von [SRI.GetNameDef] haben den Sieg über die NeoSanfedisti verkündet und die Verhaftung ihrer wichtigsten Rädelsführer im nationalen Fernsehen übertragen. Leider bedeutet dies, dass die Chance, dass [PAP.GetNameDef] sie während des Krieges zur Gewinnung von Partisanen einsetzt, nun dahin ist."
- papalstate.63.a: "Wie enttäuschend"
 
  papalstate.64.t: "Papst ruft die katholischen Gläubigen zusammen"
  papalstate.64.d: "Papst [PAP.GetLeader] hat einen Aufruf an die katholischen Gläubigen in [SRI.GetNameDef] gerichtet und sie aufgefordert, sich gegen die "gottlosen Syndikalisten" zu erheben ... und sie hilfreich mit Ausrüstung und Ausbildung versorgt. Die Partisanen sind zwar zahlenmäßig nicht überwältigend, aber sie könnten sich als lästig erweisen, wenn sie hinter unseren Linien auftauchen."

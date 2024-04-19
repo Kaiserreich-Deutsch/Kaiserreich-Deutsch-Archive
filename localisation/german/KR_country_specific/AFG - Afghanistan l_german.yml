@@ -101,11 +101,11 @@ AFG_market_liberal_party: "Händler"
 AFG_market_liberal_party_long: "Händler"
 AFG_social_conservative_party: "Behinderte"
 AFG_social_conservative_party_long: "Behinderte"
-AFG_authoritarian_democrat_party: "YA"
-AFG_authoritarian_democrat_party_long: "Junge Afghanen"
+AFG_authoritarian_democrat_party: "Modernisten"
+AFG_authoritarian_democrat_party_long: "Bewegung Junger Afghanen"
 AFG_paternal_autocrat_party: "Barakzai"
 AFG_paternal_autocrat_party_long: "Barakzai-Dynastie"
-AFG_national_populist_party: "TM"
+AFG_national_populist_party: "Stämme"
 AFG_national_populist_party_long: "Tribal Movements (Stammes-Bewegungen)"
 
 ### Country Names ###
@@ -157,4 +157,4 @@ AFG_chaos_tooltip: "§g\nDiese Wahl kann dazu führen §RChaos§! und §RUnruhe�
  AFG_abdul_ahad_wardak: "Abdul Ahad Wardak"
  AFG_abdul_majid_zabuli: "Abdul Majid Zabuli"
  ARG_sher_khan_nashir: "Sher Khan Nashir"
-
+ AFG_abdul_rahman_mahmoodi: "Abdul Rahman Mahmoodi"

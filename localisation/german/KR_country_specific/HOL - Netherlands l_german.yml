@@ -91,6 +91,16 @@
  HOL_idea_neutrality: "Batavische Neutralität"
  HOL_idea_neutrality_desc: "Nach dem Verlust Belgiens versuchten die ehemaligen Niederlande einst, ihre Beteiligung an brutalen europäischen Konflikten zu begrenzen, indem sie eine Politik der Neutralität erklärten. Die neue Batavian Kommune wird das Gleiche tun."
  HOL_idea_secret_police: "Geheimpolizei"
+ HOL_idea_martial_law: "Kriegsrecht"
+ HOL_idea_new_binnenhof: "Wiederaufgebauter Binnenhof"
+ HOL_idea_royal_fervour: "Royalistischer Eifer"
+ HOL_idea_nationalist_reforms: "Nationalistische Reformen"
+ HOL_idea_landwacht_reforms: "Reformierte Landwacht"
+ HOL_idea_entrenched_pillars: "Verankerte Säulen der Gesellschaft"
+ HOL_idea_disbanded_paramilitaries: "Aufgelöste Paramilitärs"
+ HOL_idea_extremists_quelled: "Gebändigte Extremisten"
+ HOL_idea_netherlands_united: "Vereinigte Niederlande"
+ HOL_idea_fixing_a_nation: "Die Nation in Ordnung bringen"
 
  HOL_idea_agreement_with_left_0: "Verhandlungen mit den Linken"
  HOL_idea_agreement_with_left_1: "Verhandlungen mit den Linken"
@@ -98,6 +108,8 @@
  HOL_idea_agreement_with_right_0: "Verhandlungen mit den Rechten"
  HOL_idea_agreement_with_right_1: "Verhandlungen mit den Rechten"
  HOL_idea_agreement_with_right_2: "Verhandlungen mit den Rechten"
+ HOL_idea_leftist_coalition: "Koalition mit der Linken"
+ HOL_idea_rightist_coalition: "Koalition mit der Rechten"
 
 ### Special ###
  HOL_idea_batavian_courage: "Batavianischer Widerstand"
@@ -828,9 +840,9 @@
  HOL_market_liberal_party_long: "Liberale Staatspartij"
  HOL_social_conservative_party: "ARP"
  HOL_social_conservative_party_long: "Anti-Revolutionaire Partij"
- HOL_authoritarian_democrat_party: "Military Junta"
- HOL_authoritarian_democrat_party_long: "Military Junta"
- HOL_junta_authoritarian_democrat_party: "Military Junta"
+ HOL_authoritarian_democrat_party: "Militärjunta"
+ HOL_authoritarian_democrat_party_long: "Militärjunta"
+ HOL_junta_authoritarian_democrat_party: "Militärjunta"
  HOL_paternal_autocrat_party: "VNH"
  HOL_paternal_autocrat_party_long: "Verbond voor Nationaal Herstel (Bündnis für nationale Erholung)"
  HOL_national_populist_party: "VNH Extremists"
@@ -870,12 +882,14 @@
  HOL_sdap_name: "SDAP"
  HOL_pvda_name: "PvdA"
 
+### Bookmark ###
+ HOL_KR_gathering_storm_desc: "Während die Niederlande in Europa ihre Neutralität bewahren, sehen sie sich in ihren Kolonien umso größeren Herausforderungen gegenüber. Die insulanische Unabhängigkeitsbewegung wird von Tag zu Tag mutiger, und die großen Zeiten der niederländischen Marine sind längst vorbei. Und auch in Europa könnte es besser laufen: Die Niederlande hatten schon immer eine besondere Beziehung zu Deutschland, vor allem in wirtschaftlicher Hinsicht - was bedeutet, dass sich die zunehmenden wirtschaftlichen Probleme in Deutschland auch auf die Niederlande ausweiten könnten. Und das alles in einer Zeit, in der immer mehr Niederländer dem französischen Syndikalismus oder den Träumen von den Großen Niederlanden nachhängen..."
+
 ### Intro Screen ###
  HOL_country_intro_header: "Die Niederlande 1936"
  HOL_country_intro_content: "Die Niederlande waren eines der wenigen Länder in Europa, das seine Neutralität im Weltkrieg bewahrte, obwohl es Diskussionen über einen Kriegseintritt auf der Seite Deutschlands gab. Obwohl die Niederlande stark vom wirtschaftlichen Aufschwung nach dem Weltkrieg profitiert haben, befindet sich ein beträchtlicher Teil der Wirtschaft in deutscher Hand, mit umfangreichen Investitionen deutscher Unternehmen.\n\nDarüber hinaus haben linke Ideen in den Niederlanden seit dem Fall Frankreichs und Großbritanniens durch den Syndikalismus in den 1920er Jahren ernsthaft an Boden gewonnen, wobei auch reaktionäre Ideologien im Aufwind sind. Die niederländische Demokratie wird sicherlich durch die zunehmenden globalen Spannungen und den Einbruch des wirtschaftlichen Wohlstands des Landes auf die Probe gestellt werden."
- holst.1.a: "Leve de koningin! (Es lebe die Königin!)"
 
- HOL_guide: "§MCNA§! - §MMehrheit§! / §MLSP-Koalition§! / §MVNH-Koalition§! (§cSozialkonservativ§!)\n£white_dot Wählen Sie die CNA entweder als Minderheitsregierung, in einer Koalition mit der LSP oder in einer Koalition mit dem VNH.\n\n§MSDAP§! - §MVDB-Koalition§! / §MKönigin Juliana§! / §MRepublik§! (§lSozialliberale§! / §SSozialdemokraten§!)\nEntweder:\n£white_dot Wählen Sie Lijst Links und bilden Sie eine Koalition mit der VDB.\n£white_dot Wählen Sie Lijst Links und bilden Sie eine Koalition mit der RSAP, und zwingen Sie Wilhelmina, abzudanken, wenn sie dazu aufgefordert wird.\n£white_dot Wählen Sie Lijst Links und bilden Sie eine Koalition mit der RSAP, und rufen Sie eine Republik aus.§!\n\n§MBatavische Kommune§!§!  (§rSyndikalisten§! / §RRadikale Sozialisten§! / §oTotalisten§!)\n£white_dot Nach der Wahl von Lijst Links, der Bildung einer Koalition mit der RSAP und der Ausrufung der Republik, wählen Sie den Schwerpunkt Sturz des Systems.\n\n§MMilitärjunta§! (§gAutoritärer Demokrat§!)\n£white_dot Setzen Sie die Spielregel auf \"Militärjunta\" und wählen Sie 1937 die SDAP-VDB-Koalition.\n\n§MVNH Diktatur§! - §MReaktionär§! / §MPopulist§! (§PPaternal Autokrat§! / §NNational Populist§!)\n£white_dot Wählen Sie den VNH in den Wahlen von 1937.\n£white_dot Behalten Sie den Gefangenen im provisorischen Lager und greifen Sie die mexikanische Botschaft an.\n£white_dot Später wird es zu einem Staatsstreich kommen, bei dem Sie wählen können, ob Sie Paternal Autokrat bleiben oder National Populist werden."
+ HOL_guide: "§MCNA§! - §MMehrheit§! / §MLSP Koalition§! / §MVNH Koalition§! (§cSozialkonservativ§!)\nWählen Sie die CNA:\n£white_dot Allein; und unsere Regierung wird ihre knappe Mehrheit verlieren und es wird Neuwahlen geben, wenn wir uns für die Fortsetzung der CNA-Herrschaft entscheiden, werden wir gezwungen sein, uns mit der §mLSP§! (und müssen mit der Rechten verhandeln) oder mit der §PVNH§!\n£white_dot In einer Koalition mit der §mLSP§! müssen wir uns entscheiden, ob wir mit der Linken oder der Rechten verhandeln wollen.\n£white_dot In einer Koalition mit der §PVNH§!\n\n£white_dot In all diesen Fällen kommt es Ende Februar 1938 zu einem Brand im Binnenhof. Sie entscheiden sich dafür, die Ruhe zu bewahren, lassen die Polizei in die antisyndikalistischen Unruhen eingreifen und erlauben der Landwacht nicht, sich zu rekrutieren.\n\n§MSDAP§! - §MVDB Koalition§! / §MKönigin Juliana§! / §MRepublik§! (§lSozialliberal§! / §SSozialdemokratisch§!)\nEntweder:\n£white_dot Lijst Links wählen und eine Koalition mit dem §lVDB§! bilden.\n£white_dot Wählen Sie Lijst Links und bilden Sie eine Koalition mit der §RRSAP§! und lassen Sie Juliana krönen.\n£white_dot Wählt Lijst Links und bildet eine Koalition mit der §RRSAP§! und ruft eine Republik aus!\n\n§MBatavische Kommune§!§!  (§rSyndikalistisch§! / §RRadikal-Sozialistisch§! / §oTotalistisch§!)\n£white_dot Nach der Wahl von Lijst Links, der Bildung einer Koalition mit der §RRSAP§! und der Ausrufung einer Republik, wähle den Schwerpunkt Sturz des Systems.\n£white_dot Oder man wählt bei den Wahlen den §cCNA§!, entscheidet sich für eine der Optionen beim Binnenhofbrand, lässt die Unruhen stattfinden und wählt \"Sie haben niemandem außer sich selbst die Schuld zu geben\". Zwei Monate später wird ein sozialistischer Putsch stattfinden.\n §CHinweis: In der zweiten spielen wir die Rolle der niederländischen Exilregierung in Ostindien.§!\n\n§MMilitärjunta§! (§gAutoritäre Demokraten§!)\n£white_dot Stellen Sie die Spielregel auf \"Militärjunta\" und wählen Sie 1937 die SDAP-VDB-Koalition.\n£white_dot Oder man wählt bei den Wahlen den §cCNA§! und erklärt den Notstand, nachdem der Binnenhof in Brand gesteckt wurde.\n£white_dot Befolgen Sie in beiden Fällen die gleichen Schritte wie beim CNA-Pfad.\n\n Die Wiederherstellung der Demokratie wird es uns ermöglichen, zwischen dem §cARP§! oder dem §SSDAP§! zu wählen.\n\n§MVNH Diktatur§! - §MReaktionär§! / §MPopulist§! (§PPaternalistischer Autokrat§! / §NNational Populist§!)\n£white_dot Wählen Sie die §PVNH§! bei den Wahlen von 1937.\n£white_dot Nach dem Brand auf dem Binnenhof wählen Sie: \"Wenn Sie niemanden finden, bringen Sie Ihre ganze Familie mit!\", \"Das ist doch nicht nötig!\" und greifen die mexikanische Botschaft an, wenn sie ihn dort aufnehmen.\n£white_dot Oder man wählt die §cCNA§! bei den Wahlen, entscheidet sich dafür, beim Binnenhofbrand die Ruhe zu bewahren, lässt die Polizei in die antisyndikalistischen Unruhen eingreifen, lässt die Landwacht rekrutieren und lässt das Militär beide Parteien eindämmen. Zwei Monate später wird die §PVNH§! einen Staatsstreich durchführen und auch die Königin absetzen.\n£white_dot Nachdem der Fokus \"Zonderlinge Zaterdag\" abgeschlossen ist, kommt es zu einem Coup-Ereignis, bei dem Sie wählen können, ob Sie §PPaternalistischer Autokrat§! bleiben oder §NNational Populist§! werden wollen."
 
 ### Events ###
  holst.2.t: "Berliner Aktienmarkt stürzt ab!"
@@ -2380,8 +2394,8 @@
  hol_negotiations_recognition_two: "Wir werden eine Vereinbarung mit den Kommunarden treffen müssen, um eine diplomatische Mission für die Welt zu bauen, um zu sehen, ob die Vereinbarung erfolgreich ist."
  hol_negotiations_protection_one: "Wir werden etwa 2000 Männer zum Schutz der Syndikalisten vor der extremen Rechten abstellen müssen, wenn der Deal zustande kommt."
  hol_negotiations_protection_two: "Wir werden etwa 4000 Mann zum Schutz der Syndikalisten vor der extremen Rechten abstellen müssen, wenn der Deal zustande kommt."
- hol_negotiations_rnf_limits_two: "Die Rote Front wird sich auflösen müssen, was sich positiv auf unsere nationale Einheit auswirken wird, wenn der Deal gelingt."
- hol_negotiations_rnf_limits_one: "Die Rote Front wird sich zurückhalten müssen, was sich leicht positiv auf unsere nationale Einheit auswirken wird, wenn der Deal gelingt."
+ hol_negotiations_rnf_limits_two: "Die Rotfront wird sich auflösen müssen, was sich positiv auf unsere Stabilität auswirken wird, wenn der Deal gelingt."
+ hol_negotiations_rnf_limits_one: "Die Rotfront wird sich zurückhalten müssen, was sich leicht positiv auf unsere Stabilität auswirken wird, wenn das Abkommen zustande kommt."
  hol_negotiations_nas_limits_two: "Die NAS wird sich auflösen müssen, was den politischen Einfluss des orthodoxen Syndikalismus in unserem Land stark einschränken wird, wenn der Deal gelingt."
  hol_negotiations_nas_limits_one: "Die NAS wird mit der NVV fusionieren müssen, was den politischen Einfluss des orthodoxen Syndikalismus in unserem Land stark einschränken wird, aber im Falle eines erfolgreichen Abschlusses zu einem Rückfluss in die Sozialdemokratie führen wird."
  hol_negotiations_rsap_limits_two: "Die RSAP wird sich auflösen müssen, was den politischen Einfluss des radikalen Sozialismus in unserem Land stark einschränken wird, wenn der Deal gelingt."
@@ -2407,6 +2421,7 @@
  HOL_merge_syndie_ideas: "Führt ausgewählte §RSyndikalistische§! Ideen zusammen."
  HOL_has_instability: "Hat Nationalgeist §H$HOL_idea_instability$§!"
  HOL_has_instability_NOT: "Hat nicht Nationalgeist §H$HOL_idea_instability$§!"
+ HOL_lose_ideas_tt: "§RDie Wiederherstellung der Demokratie wird bedeuten, dass die auf diesem Weg gewonnenen Nationalgeiste verwirkt werden!§!"
 
 ### Relations ###
  HOL_german_trade_tolerated: "Toleriert deutschen Handel"
@@ -2465,7 +2480,7 @@
  HOL_roelof_kranenburg: "Roelof Kranenburg"
  HOL_cornelis_lodewijk_van_der_bilt: "Cornelis Lodewijk van der Bilt"
  HOL_carel_goseling: "Carel Goseling"
- HOL_military_junta: "Military Junta"
+ HOL_military_junta: "Militärjunta"
  HOL_henri_nicolas_alfred_swart: "Henri Nicolas Alfred Swart"
  HOL_cornelis_van_geelkerken: "Cornelis van Geelkerken"
 

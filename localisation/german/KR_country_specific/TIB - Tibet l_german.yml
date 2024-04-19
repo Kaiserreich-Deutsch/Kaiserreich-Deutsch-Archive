@@ -58,6 +58,8 @@ TIB_restore_order_tibet: "Wiederherstellung der Ordnung in [From.GetName]"
 TIB_restore_order_tibet_desc: "Jetzt, da [From.GetName] unter der Kontrolle von [Root.GetAdjective] steht, müssen wir uns bemühen, jeden noch vorhandenen Widerstand zu überwinden und es in den Rest von [Root.GetNameDef] zu integrieren."
 TIB_KMT_oob_tt: "Wir erhalten eine neue KMT-Division.\n"
 TIB_British_regulars_oob_tt: "Wir erhalten 2 Grenztruppen-Divisionen.\n"
+TIB_join_ESU: "Beitritt zur Östlichen Syndikalistischen Union"
+TIB_join_ESCU_desc: "Nach dem Sieg der Heiligen Union sieht sich Tibet in internationalen Angelegenheiten zunehmend isoliert, eine prekäre Situation angesichts unserer unvorhersehbaren, wenn nicht geradezu antagonistischen Beziehungen zu unseren Nachbarn im Nordosten sowie der stets präsenten Gefahr eines imperialistischen Übergriffs auf unser Land. In Anbetracht dieser Umstände wurde von einigen Stimmen in unserer Regierung vorgeschlagen, dass wir uns unseren Genossen in der Östlichen Syndikalistischen Union anschließen sollten."
 
 ### Ideas ###
 TIB_struggle_tibet: "Der Kampf um Tibet"
@@ -553,6 +555,19 @@ tib.54.t: "Das Leiden der Frauen führt zur Spaltung der Heiligen Union"
 tib.54.d: "Das Votum des Kashag für das Frauenwahlrecht hat zu einem Bruch in der Partei der Heiligen Union geführt. Die Einführung dieser Politik erfolgte kurz nach dem Treffen von Nicholas Roerich mit dem Botschafter in Bharatiya. Die Versammlung der Heiligen Union endete Berichten zufolge in einem Aufruhr, als die tibetischen Mitglieder massenhaft die Versammlung verließen. Für Beobachter ist es offensichtlich, dass die Tibeter sich weigerten, über die Frage des Leidens der Frauen abzustimmen. Dies hat es der Tibetischen Verbesserungspartei ermöglicht, auf Kosten der Partei der Heiligen Union an Einfluss zu gewinnen."
 tib.54.a: "Tibetische Verbesserung unbestritten"
 
+tib.55.t: "[From.GetNameDefCap] bittet darum, der [ROOT.GetFactionName] beizutreten"
+tib.55.d: "Während die revolutionären Feuer durch Asien fegen, wird die Notwendigkeit von Solidarität und Zusammenarbeit unter den neu emanzipierten Völkern immer offensichtlicher. Da wir uns der Gefahr bewusst sind, in der sich schnell verändernden globalen Szene neutral zu bleiben, haben unsere Kameraden von [From.GetNameDef] darum gebeten, der [ROOT.GetFactionName] beizutreten. Die Annahme dieses Antrags würde unseren Einfluss im Himalaya ausweiten, einer für unsere strategischen Interessen wichtigen Region. Es gab jedoch auch Stimmen, die vor einer Verstrickung in unnötige ausländische Unternehmungen warnten."
+tib.55.a: "Wir begrüßen unsere [From.GetAdjectiveCap]-Kameraden."
+tib.55.b: "Das ist unnötig, lehnen wir ihren Antrag ab."
+
+tib.56.t: "[From.GetNameDefCap] akzeptiert!"
+tib.56.d: "Wie erwartet hat [FROM.GetNameDef] unser Ersuchen angenommen, der [From.GetFactionName] beizutreten, und damit die wachsende Verbundenheit zwischen unseren Nationen besiegelt. Was auch immer die Zukunft bringt, wir werden den Sturm gemeinsam überstehen."
+tib.56.a: "Wir stehen vereint."
+
+tib.57.t: "[From.GetNameDefCap] lehnt ab"
+tib.57.d: "In einem unerwarteten und enttäuschenden Schritt hat [FROM.GetNameDef] unseren Antrag auf Beitritt zur [From.GetFactionName] abgelehnt, und nun sind wir noch weiter von den globalen Angelegenheiten isoliert."
+tib.57.a: "Enttäuschend, aber vielleicht gibt es Alternativen."
+
 tib.62.t: "Druck auf den Regenten, seine Leibeigenen zu emanzipieren"
 tib.62.d: "Die Leibeigenschaft ist in Tibet weit verbreitet. Lange Zeit hatte niemand eine Alternative. Vor kurzem wurde jedoch dem tibetischen Regenten [TIB.GetLeader] ein Vorschlag unterbreitet, die Leibeigenen, die direkt in den verschiedenen Ganden Phodrang-Gütern arbeiten, zu befreien. Die Befürworter der Jungen Tibetischen Partei glauben, dass dieser Vorschlag ein allmähliches Ende der Leibeigenschaft in Tibet herbeiführen kann. Ihre Gegner hingegen bezeichnen den Vorschlag als weitere ausländische Einmischung in Tibet."
 tib.62.a: "Mit gutem Beispiel vorangehen"
@@ -721,11 +736,13 @@ TIB_ngapoi_ngawang_jigme: "Ngapoi Ngawang Jigme"
 TIB_dingja: "Dingja"
 TIB_dingja_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1896§!\n§YMilitärkarriere:§! §gDer mit dem persönlichen Namen Dorji Gyaltsen geborene Dingja war einer der potenziellen Kandidaten des berühmten \"Rugby Vier\", der zur Ausbildung nach Übersee geschickt werden sollte. Nachdem er nicht ausgewählt worden war, wurde Dingja 1917 Generalpostmeister von Tibet. Dingja verband sich mit dem aufsteigenden Stern Tsarong, indem er dessen Schwester heiratete. Dieser Status ermöglichte es ihm, eine fortgeschrittene Schießausbildung im britischen Raj sowie Unterricht in Englisch und Hindu zu erhalten. Dingja wurde 1923 zum General ernannt, 1925 aber wegen seiner liberalen Ansichten degradiert. Nach dem Tod des 13. Dalai Lama versuchte Dingja, den Kauf von Waffen aus dem Britischen Reich zu organisieren, wurde aber vom neuen Oberbefehlshaber Trimön abgewiesen. Um sicherzustellen, dass Dingja Lhasa nicht weiter verärgerte, beauftragte Trimön Dingja 1935 mit der Führung der Dob-Dobs von Shigatse, angeblich, um sie vor einer möglichen Rückkehr des Panchen Lama zu schützen."
 
+TIB_yuthok_tashi_dhondup: "Yuthok Tashi Dhondhup"
+TIB_yuthok_tashi_dhondup_commander_desc: "§YGeneral Beschreibung§!\n§nGeboren:§! §g1904§!\n§YMilitärkarriere:§! §gTashi Döndrub trat 1924 in jungen Jahren in die tibetische Armee ein und nutzte seinen aristokratischen Hintergrund, um eine Artillerieausbildung im Britischen Raj zu absolvieren. Nach seiner Rückkehr im Jahr 1930 erhielt Taishi den prestigeträchtigen Posten des Sekretärs des Kashag. Im Jahr 1932 erhielt Taishi eine zusätzliche Ausbildung zum Kommandeur von Maschinengewehrbedienern, ebenfalls im Britischen Raj. Dank seiner umfassenden Ausbildung wurde Taishi in die Leibwache des 13. Dalai Lama berufen. 1933 wurde Taishi zum General einer zweiten experimentellen Dmag-Sgar-Division ernannt, der zweiten nach der von Thuben Kunphela. Taishis Talent für neue Technologien wurde 1935 von Reting Rinpoche erkannt, der ihn zum Minister für Salz- und Teesteuer ernannte.§!"
+
 TIB_bondong: "Böndong"
 TIB_mondro: "Möndro"
 TIB_sangye_yeshi: "Sangye Yeshi"
 TIB_heinrich_harrer: "Heinrich Harrer"
-TIB_yuthok_tashi_dhondup: "Yuthok Tashi Dhondhup"
 TIB_tobgyal_pangdatsang: "Tobgyal Pangdatsang"
 TIB_gompo_tashi_andrutsang: "Gompo Tashi Andrutsang"
 BHU_tibetan_army_council: "Tibetan Army Council"

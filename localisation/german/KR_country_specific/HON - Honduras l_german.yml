@@ -183,10 +183,12 @@ HON_stronghold_desc: "Honduras wird auch in den kommenden Jahren ein Bollwerk de
 HON_motto: "Souverän, unabhängig und frei"
 HON_motto_desc: "Wir werden nie wieder unser Haupt vor Tyrannen beugen, wir sind jetzt und für immer souverän, unabhängig und frei."
 
+### Bookmark ###
+HON_KR_gathering_storm_desc: "Der Selbstmord von Präsident Andino im Jahr 1933 nach dem Sturm der Bauern auf die Hauptstadt löste in ganz Honduras eine Schockwelle aus, und bald darauf wurde eine Bauernrepublik gegründet, um den Einfluss der USA allmählich zurückzudrängen und die Pro-US-Elemente zu beseitigen. Im Jahr 1936 steht der Rat kurz vor dem Zusammenbruch und es gibt Gerüchte über eine Verschwörung innerhalb der Regierung..."
+
 ### Intro Screen ####
 HON_country_intro_header: "Die ursprüngliche Bananenrepublik"
 HON_country_intro_content: "Nachdem Honduras unter die Herrschaft verschiedener US-amerikanischer Fruchtkonzerne geraten war, die das Land in eine wirtschaftliche Enklave verwandelt hatten, kam es 1933 zu einem Zusammenbruch. Ein Bauernaufstand stürmte die Hauptstadt und führte zum Selbstmord des amtierenden Präsidenten, aber auch nach dieser Katastrophe wurde die nach der Revolution eingesetzte Regierung erneut von US-Interessen und einer Clique von Intellektuellen beherrscht. Was jetzt vom honduranischen Staatsapparat übrig geblieben ist, ist ein Chaos, das von Andersdenkenden gesäubert wurde und sich auf militärische Gewalt stützt, um die Eisenbahnlinien zu den Häfen offen zu halten."
-honduras.1.a: "Es ist nicht viel, aber es ist ein Zuhause."
 
 HON_guide: "§MGeneral Castro§! (§PPaternal Autokratisch§!)\n£white_dot General Castro soll den Vorsitz im Rat führen und während der Dringlichkeitssitzung das Kriegsrecht verhängen.\n\n§MVorsitzender Galvez / Vorsitzender Morales§! (§cSozialkonservative §!/ §SSozialdemokraten §!)\n£white_dot Weisen Sie alle Anträge zum Vorsitz zurück und beginnen Sie mit dem Druck von Stimmzetteln während der Dringlichkeitssitzung.\n£white_dot Wählen Sie die Partei, die nach den Wahlen gewinnen soll.\n\n§MPremierminister Callejas§! (§oTotalistisch§!)\n£white_dot Stadtrat Callejas soll den Vorsitz im Rat übernehmen und die Revolution während der Dringlichkeitssitzung vorantreiben."
 
