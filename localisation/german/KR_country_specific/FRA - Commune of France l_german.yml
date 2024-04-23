@@ -1125,7 +1125,7 @@ FRA_Sabotage_desc: "Die französischen verräterischen Imperialisten haben viel 
  FRA_adrien_marquet_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 6. Oktober 1884, Bordeaux, Gironde, Französische Republik\n§YPolitische Karriere:§! Der Jakobiner der ersten Stunde, Adrien Marquet, hat die \"konstruktive Revolution\" von Déat durch seine Führung der Kommune Bordeaux unermüdlich gefördert und zur Schau gestellt. Nachdem die Jakobiner die Mehrheit im BGT errungen haben, wird Marquet beauftragt, seine Führungserfahrung zu nutzen, um dem anarchischen Chaos ein Ende zu setzen."
 
  FRA_georges_valois: "Georges Valois"
- FRA_georges_valois_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 17. Oktober 1878, Paris, Seine, Französische Republik\n§YPolitische Karriere:§! Georges Valois, ein Anhänger der nationalsyndikalistischen Lehren von Georges Sorel, ist Vorsitzender der Bourse Générale du Travail geworden. Valois befürwortet die Zusammenlegung der Vorsitze der Bourse Générale du Travail und des Comité de Salut Public, was in den Augen vieler Kommunarden einer Tyrannei gleichkommt."
+ FRA_georges_valois_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 7. Oktober 1878, Paris, Seine, Französische Republik\n§YPolitische Karriere:§! Georges Valois, ein Anhänger der nationalsyndikalistischen Lehren von Georges Sorel, ist Vorsitzender der Bourse Générale du Travail geworden. Valois befürwortet die Zusammenlegung der Vorsitze der Bourse Générale du Travail und des Comité de Salut Public, was in den Augen vieler Kommunarden einer Tyrannei gleichkommt."
  
  FRA_marcel_cachin: "Marcel Cachin"
  FRA_marcel_cachin_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 20. September 1869, Paimpol, Côtes-du-Nord, Französisches Kaiserreich\n§YPolitische Karriere:§! Marcel Cachin, ehemaliger Diplomat und Büroleiter der staatlichen Zeitung Humanité, ist Vorsitzender der Kommune Frankreichs geworden. Obwohl er ein Leninist ist, erlauben ihm seine diplomatische Haltung und sein allgemeines Charisma, ein gewisses Maß an Herzlichkeit mit Syndikalisten und Anarchisten zu bewahren."
@@ -1273,3 +1273,6 @@ FRA_Sabotage_desc: "Die französischen verräterischen Imperialisten haben viel 
  FRA_suzanne_girault: "Suzanne Girault"
  
  FRA_confederation_general_du_travail: "Confédération Générale du Travail (Allgemeiner Gewerkschaftsbund)"
+
+ FRA_odette_sansom: "Odette Sansom"
+ FRA_richard_sorge: "Richard Sorge"

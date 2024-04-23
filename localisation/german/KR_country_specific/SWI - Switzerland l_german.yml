@@ -1100,13 +1100,10 @@ swiss.140.t: "Schweiz verweigert Frieden"
 swiss.140.d: "Trotz unseres großzügigen Friedensangebots angesichts des Schweizer Vormarsches haben wir die Nachricht erhalten, dass die Schweizer jedes Friedensangebot ablehnen. Es scheint, dass die verrückten Schweizer so sehr von ihrer Unbesiegbarkeit überzeugt sind, dass sie glauben, sie könnten die ganze Kommune besiegen. Es wird uns ein Vergnügen sein, diese Narren zu vernichten."
 swiss.140.a: "Sie sind übermütige Witzbolde."
 
-swiss.141.t: "Frieden mit Frankreich!"
-swiss.141.d: "Heute ist die Nachricht eingetroffen, dass die Schweiz einen Verhandlungsfrieden mit Frankreich geschlossen hat. Dies ist ein Sieg für uns und die Schweizer, die syndikalistische Bedrohung hat ihre Schwäche für alle Welt gezeigt!"
+swiss.141.t: "Frieden mit [FROM.GetNonIdeologyName]!"
+swiss.141.d.switzerland: "Wir sind siegreich aus dem Krieg gegen [FROM.GetNonIdeologyName] hervorgegangen! Das Volk jubelt auf den Straßen, und überall im Land finden Paraden zu Ehren unserer siegreichen Truppen statt. Es ist Zeit zu feiern!"
+ swiss.141.d.other: "Heute ist die Nachricht eingetroffen, dass die Schweiz einen Verhandlungsfrieden mit [FROM.GetNonIdeologyName] geschlossen hat. Dies ist ein Sieg für uns und die Schweizer, und die syndikalistische Bedrohung hat ihre Schwäche für alle Welt gezeigt!"
 swiss.141.a: "Der Frieden ist wiederhergestellt."
-
-swiss.142.t: "Sieg!"
-swiss.142.d: "Wir sind siegreich aus dem Krieg gegen Frankreich hervorgegangen! Das Volk jubelt auf den Straßen und überall im Land werden Paraden zu Ehren unserer siegreichen Truppen abgehalten. Es ist Zeit zu feiern!"
-swiss.142.a: "Ein hart erkämpfter Frieden."
 
 swiss.143.t: "Besetzung von Hochsavoyen"
 swiss.143.d: "Im Jahr 1815 erhielt die Schweiz auf dem Wiener Kongress das Recht, die Neutralität von Hochsavoyen zu wahren und im Gegenzug auf alle offiziellen Ansprüche auf die Region zu verzichten. Während des Weltkriegs, als Frankreich an die syndikalistischen Revolutionäre fiel, sah sich die Schweizer Regierung veranlasst, Soldaten zu entsenden, um die Region vor der chaotischen Gewalt der Zeit zu schützen.\n\nKurz darauf wurde die wahre französische Regierung nach Afrika verbannt, und die Schweiz hat ihre militärische Besetzung der Region aufrechterhalten, bis zu einem Zeitpunkt, an dem Frankreich auf das Festland zurückkehrt, um es zurückzufordern.\n\nDas hat der aktuellen Regierung in Paris natürlich nicht gefallen, die aktiv versucht hat, die Provinz zurückzuerobern."
@@ -1626,6 +1623,9 @@ SWI_transport_of_goods_tooltip: "§CDies wird ein Referendum beginnen, das die N
 
  SWI_hans_bandi: "Hans Bandi"
  SWI_hans_bandi_commander_desc: "§YAllgemeine Beschreibung\nGeboren:§! §g19. Juli 1882, in Bern, Schweiz§!"
+
+ SWI_friedrich_prisi: "Friedrich Prisi"
+ SWI_friedrich_prisi_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g25. Dezember 1875, in Uebeschi, Bern, Schweiz§!"
 
  SWI_fritz_rihner: "Fritz Rihner"
  SWI_etienne_primault: "Etienne Primault"

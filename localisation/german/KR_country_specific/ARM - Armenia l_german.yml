@@ -350,8 +350,6 @@
  ARM_social_economy_desc: "Die Produktion von Gütern soll nicht mehr ein privates, sondern ein kollektives Unterfangen sein. Mehrere Menschen, die zusammenarbeiten, um ein gemeinsames Ziel zu erreichen, werden immer eine höhere Erfolgsquote haben als der einsame Einzelne. Darüber hinaus wird dies auch die Moral unserer Arbeitnehmer stärken, da die Arbeit in einer Gruppe immer Freude bereitet."
  ARM_democracy_in_orient: "Das Leuchtfeuer der orientalischen Demokratie"
  ARM_democracy_in_orient_desc: "Die Demokratie als Konzept hat sich im Orient nicht wirklich durchgesetzt. Während viele unserer Nachbarländer immer noch ihren Monarchien und Militärregimen applaudieren, ist es uns gelungen, eine stabile und fast fehlerfreie Demokratie zu errichten. Wir sind zu einem strahlenden Leuchtfeuer im ansonsten dunklen Orient geworden, zu einem Wegweiser für Länder in nah und fern!"
- ARM_look_for_protection: "Schutz suchen"
- ARM_look_for_protection_desc: "Die meisten unserer Nachbarländer würden wahrscheinlich nicht zögern, unseren jungen Staat zu annektieren, wenn sie die Gelegenheit dazu hätten. Da unsere Nation im Vergleich zu den anderen Nationen um uns herum relativ klein ist, können wir nicht darauf hoffen, ihnen allen allein zu widerstehen. Wir sollten versuchen, ein anderes Land dazu zu bringen, unsere Unabhängigkeit zu unterstützen, um unsere wilderen Nachbarn abzuschrecken."
 
 ### Ideas ###
  ARM_unite_fedayi_idea: "Vereinigte Fedayi"
@@ -388,19 +386,13 @@
  ARM_military_budget_desc: "Die einzige Möglichkeit, unsere Unabhängigkeit vollständig zu sichern, ist die Aufrechterhaltung eines gut finanzierten Militärs. Steigende Militärausgaben bedeuten modernere Ausrüstung, größere Fähigkeiten unserer Militäreinrichtungen und damit auch eine bessere Chance für unsere Nation, die kommenden Kriege zu überstehen."
 
  ARM_military_budget_2: "Großzügig finanziertes Militär"
- ARM_military_budget_2_desc: "Die einzige Möglichkeit, unsere Unabhängigkeit vollständig zu sichern, ist die Aufrechterhaltung eines gut finanzierten Militärs. Steigende Militärausgaben bedeuten modernere Ausrüstung, größere Fähigkeiten unserer Militäreinrichtungen und damit auch eine bessere Chance für unsere Nation, die kommenden Kriege zu überstehen."
+ ARM_military_budget_2_desc: "$ARM_military_budget_desc$"
 
  ARM_vaccination_campaign: "Nationale Impfkampagne"
  ARM_vaccination_campaign_desc: "Im Laufe der Geschichte waren Seuchen und Krankheiten die Ursache für viele Todesfälle. Mit Hilfe der modernen Medizin können wir jedoch die Ausbreitung bestimmter Krankheiten eindämmen und ihren Einfluss auf die Gesundheit unseres Volkes begrenzen. Bald wird jeder Armenier geimpft sein, und die Sterblichkeitsrate wird enorm sinken."
 
  ARM_national_army_idea: "Die Armenische Armee"
  ARM_national_army_idea_desc: "Genau wie unser Volk ist auch unsere Armee trotzig, entschlossen und unzerbrechlich. Unsere Soldaten schätzen die Freiheit ihres Landes mehr als ihr eigenes Leben und werden es Seite an Seite mit ihren Brüdern mit allen Mitteln verteidigen."
-
- ARM_national_army_2: "Die Armenische Armee"
- ARM_national_army_2_desc: "Genau wie unser Volk ist auch unsere Armee trotzig, entschlossen und unzerbrechlich. Unsere Soldaten schätzen die Freiheit ihres Landes mehr als ihr eigenes Leben und werden es Seite an Seite mit ihren Brüdern mit allen Mitteln verteidigen."
-
- ARM_national_army_3: "Die Armenische Armee"
- ARM_national_army_3_desc: "Genau wie unser Volk ist auch unsere Armee trotzig, entschlossen und unzerbrechlich. Unsere Soldaten schätzen die Freiheit ihres Landes mehr als ihr eigenes Leben und werden es Seite an Seite mit ihren Brüdern mit allen Mitteln verteidigen."
 
  ARM_armenian_defiance: "Armenische Größe"
  ARM_armenian_defiance_desc: "Das armenische Volk ist bekannt für seinen Mut, seinen Patriotismus und seinen eisernen Willen. Während der jahrhundertelangen fremden Besatzung ließ es sich nicht beirren und wartete weiter auf den Tag, an dem Armenien endlich wieder frei sein würde. Nun ist dieser Tag gekommen, und unsere Vorfahren lächeln auf uns herab."
@@ -419,9 +411,6 @@
 
  ARM_armenian_last_stand: "Armeniens letztes Gefecht"
  ARM_armenian_last_stand_desc: "Obwohl unsere Unabhängigkeit vorerst gesichert ist, gibt es zahlreiche Länder, die ein Auge auf unser Land werfen. Wenn wir uns jetzt geschlagen geben, könnte der Traum von einem unabhängigen armenischen Staat mit uns sterben. Das dürfen wir einfach nicht zulassen und müssen es um jeden Preis verhindern!"
-
- ARM_armenian_last_stand_2: "Armeniens letztes Gefecht"
- ARM_armenian_last_stand_2_desc: "Obwohl unsere Unabhängigkeit vorerst gesichert ist, gibt es zahlreiche Länder, die ein Auge auf unser Land werfen. Wenn wir uns jetzt geschlagen geben, könnte der Traum von einem unabhängigen armenischen Staat mit uns sterben. Das dürfen wir einfach nicht zulassen und müssen es um jeden Preis verhindern!"
 
  ARM_dashnak_contribution: "Eine maßvolle Revolution"
  ARM_dashnak_contribution_desc: "Die Daschnaks haben zwar nicht die Revolution verwirklicht, die sich die anderen demokratischen und revolutionären Parteien und ihre Anhänger gewünscht hatten, aber es ist ihnen dennoch gelungen, Reformen zu verabschieden, die den Lebensstandard in unserem Land erheblich verbessert haben."
@@ -471,18 +460,6 @@
  ARM_turkish_emigrants: "Türkische Emigranten"
  ARM_turkish_emigrants_desc: "Während der armenische Teil unserer Bevölkerung den Sieg über die Osmanen feierte, waren die Türken, die jetzt innerhalb unserer Grenzen leben, mit diesem Ergebnis weniger zufrieden. Aus Angst vor Strafverfolgung und Hassverbrechen haben Tausende begonnen, nach Anatolien zu gehen, wo sie mit offenen Armen empfangen werden."
 
- ARM_russian_concessions: "Zugeständnisse an die Russen"
- ARM_russian_concessions_desc: "Wie zu erwarten war, haben die Russen im Gegenzug für ihren Schutz Zugeständnisse von uns verlangt. Diese Zugeständnisse werden zwar zweifellos unserer Industrie schaden, aber sie werden uns auch ermöglichen, in Frieden und ohne Angst zu leben. Mit dem russischen Ungetüm, das über uns wacht, wird kein Feind jemals einen Fuß in unser Land setzen!"
-
- ARM_armenian_concessions: "Armenische Zugeständnisse"
- ARM_armenian_concessions_desc: "Als Gegenleistung für unseren Schutz erklärte sich die armenische Regierung bereit, einige Zugeständnisse in Form eines bestimmten Anteils an der monatlichen Industrieproduktion Armeniens zu zahlen. Auch wenn dies für unsere Wirtschaft angesichts der geringen Größe der armenischen Industrie natürlich nicht von großer Bedeutung ist, wird es uns doch einige kleine Vorteile verschaffen."
-
- ARM_persian_military_overview: "Persische Militäraufsicht"
- ARM_persian_military_overview_desc: "Als Gegenleistung für ihren Schutz verlangten die Perser, dass wir persische Offiziere in unseren Führungskader aufnehmen und damit unsere Armee unter ihre Aufsicht stellen. Auch wenn dies auf den ersten Blick etwas unvorteilhaft erscheinen mag, haben wir dadurch den Vorteil, dass uns erfahrene Offiziere zur Verfügung stehen."
-
- ARM_Turkish_protection_protests: "Proteste gegen türkischen Schutz"
- ARM_Turkish_protection_protests_desc: "Angeheizt durch den Hass auf die Türken, die viele immer noch als Erzfeinde unserer Nation betrachten, gingen Tausende auf die Straße, um gegen den von unseren Politikern in Zusammenarbeit mit der türkischen Regierung unterzeichneten Schutzvertrag zu protestieren. Wir können nur hoffen, dass diese Proteste so schnell abklingen, wie sie begonnen haben."
-
  ARM_diaspora: "Rückkehr der armenischen Diaspora"
  ARM_diaspora_desc: "Seit Jahrhunderten sehen sich Hunderttausende von Armeniern gezwungen, in die Ferne zu ziehen, und leben heute verstreut in Europa, Amerika und im Nahen Osten. Seit dem Beginn unseres Aufstands gegen das Osmanische Reich hat eine wachsende Zahl von ihnen die Reise zurück in die Heimat ihrer Vorfahren angetreten. Viele werden jedoch immer noch von der Angst vor einer erneuten Unterwerfung unseres Landes durch die Osmanen zurückgehalten."
 
@@ -529,7 +506,6 @@
  ARM_foreign_policy: "Außenpolitik Armeniens"
   ARM_join_faction: "Beitritt zu [FROM.GetFactionName]"
  ARM_request_industrial_support: "Anfrage [FROM.GetAdjective] Industrielle Unterstützung"
- ARM_join_ESU: "Beitritt zur Ost-Syndikalistischen Union"
 
  ARM_war_of_independence: "Der Unabhängigkeitskrieg"
  ARM_war_of_independence_desc: "Dieser Krieg ist unsere letzte Chance, den Traum von einem unabhängigen armenischen Staat frei vom osmanischen Terror zu verwirklichen. Wir werden im Namen der Freiheit kämpfen, wir werden im Namen unseres Volkes bluten, und wir werden im Namen unserer Vorfahren sterben. Aber wir werden nicht aufgeben, ganz gleich, welche Entbehrungen wir ertragen müssen - denn wenn wir jetzt scheitern, wird Armenien für immer verloren sein."
@@ -778,75 +754,6 @@
  arm.62.b: "Veränderung ist nötig, wir werden eine neue Hymne komponieren!"
  arm.62.c: "Lasst uns stattdessen ein Lied zu Ehren von Nzhdeh komponieren!"
 
- arm.63.t: "[ARM.GetNameDefCap] Bittet um Schutz"
- arm.63.d: "Nachdem Armenien während des Wüstenkriegs seine Unabhängigkeit vom Osmanischen Reich erklärt hatte, befand es sich in einer ziemlich verwundbaren und isolierten Lage. Umgeben von den Persern, den Türken und uns selbst fürchteten die Armenier, dass sie zahlenmäßig hoffnungslos unterlegen sein würden, sollte einer ihrer Nachbarn jemals beschließen, in ihr Heimatland einzumarschieren. Daher hat die armenische Regierung nach einem Land gesucht, das ihre Unabhängigkeit garantiert, und ist nun zu uns gekommen, um um Schutz zu bitten.\n\nDieses Ersuchen hat dazu geführt, dass einige der expansiveren Stimmen innerhalb unserer Regierung eine Gelegenheit wittern. Sie sagen, wenn wir versprechen, das armenische Volk gut zu behandeln, könnte [ARM.GetLeader] wahrscheinlich von der Idee überzeugt werden, Armenien wieder unter russische Oberherrschaft zu stellen. Obwohl er wahrscheinlich nicht allzu scharf darauf ist, die Unabhängigkeit Armeniens kampflos aufzugeben, weiß er, dass wir vertrauenswürdiger sind als die Türken und die Perser, und er wäre gut beraten, für sein Volk das kleinere Übel zu wählen, da er es sonst wieder unter dem türkischen Joch sehen könnte.\n\nAndere haben jedoch argumentiert, dass eine De-facto-Annexion Armeniens für unsere Nation nachteilig wäre und dass es eine bessere Idee wäre, Armenien zu zwingen, wirtschaftlich von uns abhängig zu werden. Sicherlich würden sie einige wirtschaftliche Zugeständnisse und einige Handelsabkommen zwischen unseren beiden Nationen, die für die russische Seite günstig sind, nicht ablehnen, wenn dies bedeutet, die Unabhängigkeit und Souveränität von [ARM.GetNameDef] zu sichern."
- arm.63.a: "Wenn sie ihr Volk schützen wollen, müssen sie die Annexion akzeptieren!"
- arm.63.b: "Wirtschaftliche Zugeständnisse werden als Ausgleich ausreichen."
-
- arm.64.t: "Russland schlägt 'Schutz durch Annexion' vor"
- arm.64.d: "Als Antwort auf unsere Bitte um Schutz schlug [RUS.GetNameDef] vor, dass wir das Leben unseres Volkes retten könnten, indem wir Armenien an 'seine rechtmäßigen russischen Oberherren' zurückgeben und unseren Traum von einem unabhängigen und souveränen Staat aufgeben. Das ist zwar nicht das, was wir uns erhofft haben, aber die Russen haben versprochen, unser Volk gut zu behandeln und seine Kultur und seine Bräuche zu respektieren, und sie sind sicherlich das geringere Übel, wenn man sie mit unseren anderen, blutrünstigeren Nachbarn vergleicht. Natürlich könnten wir auch versuchen, allein zu überleben, aber das könnte zum sinnlosen Tod von Tausenden führen und möglicherweise die völlige Vernichtung unseres geliebten Landes zur Folge haben. Da wir nun gezwungen sind, zwischen dem Teufel und dem tiefen blauen Meer zu wählen, sollten wir unseren nächsten Schritt sorgfältig abwägen, denn er könnte sehr wohl das Schicksal unserer Nation besiegeln."
- arm.64.a: "Das kann doch nicht ihr Ernst sein?!"
- arm.64.b: "Russland ist immer noch das kleinere Übel..."
-
- arm.65.t: "Armenien lehnt unser Angebot ab"
- arm.65.d: "Die armenischen Dummköpfe haben die Vernunft dem Wahnsinn überlassen und unser Angebot abgelehnt, weil sie lieber auf ihren Füßen sterben als auf den Knien leben wollen. Jetzt stehen sie allein und ungeschützt da, und niemand hält uns, die Perser oder die Türken davon ab, ihr erbärmliches Volk mit Gewalt zu unterwerfen. Es bleibt nur noch abzuwarten, ob [ARM.GetLeader] und seine Anhänger lange genug leben werden, um die Schwere ihrer Fehler zu begreifen."
- arm.65.a: "Das werden sie noch früh genug bereuen."
-
- arm.66.t: "Armenien akzeptiert unser Angebot"
- arm.66.d: "Die Weisen in Armenien scheinen verstanden zu haben, dass die Rückkehr zur russischen Oberherrschaft der einzige Weg ist, ihre Haut zu retten, und haben unserem Angebot des 'Schutzes durch Annexion' zugestimmt. Da wir nun wieder die Kontrolle über Armenien haben, ist unser Einfluss im Kaukasus erheblich gewachsen, und eine weitere Provinz, die früher vom Russischen Reich gehalten wurde, ist wieder in unsere Hände gelangt."
- arm.66.a: "Das Mutterland ist wieder einmal gewachsen!"
-
- arm.67.t: "Russland bittet um wirtschaftliche Zugeständnisse"
- arm.67.d: "[RUS.GetNameDefCap] hat sich bereit erklärt, uns seinen Schutz anzubieten, hat aber auch wirtschaftliche Zugeständnisse als Ausgleich gefordert. Obwohl die Annahme der russischen Forderungen unsere Wirtschaft stark von Russland abhängig machen und auch die Kontrolle unserer Regierung über unsere nationale Industrie schwächen würde, sind diese Zugeständnisse insgesamt nicht allzu schlecht, vor allem wenn man sie mit dem vergleicht, was mit unserer Nation ohne russische Unterstützung geschehen würde. Es bleibt zu hoffen, dass unser neuer Wohltäter unsere Nachbarn zweimal nachdenken lässt, bevor sie einen Fuß auf unser Land setzen."
- arm.67.a: "Ein kleiner Preis, den wir für unsere Freiheit zahlen."
-
- arm.68.t: "Armenien erklärt sich mit den wirtschaftlichen Zugeständnissen einverstanden"
- arm.68.d: "Da er die von unserer Regierung vorgeschlagenen wirtschaftlichen Zugeständnisse als angemessenen Preis für den russischen Schutz ansieht, hat [ARM.GetLeader] unsere Forderungen akzeptiert. Von nun an werden wir Armeniens wichtigster Handelspartner sein, und ein gewisser Anteil der inländischen Produktion wird an uns gehen. Wenn wir Glück haben, müssen wir nicht einmal einen Krieg für sie führen und können die Vorteile dieses Abkommens nutzen, ohne tatsächlich russische Leben zu riskieren."
- arm.68.a: "Wundervoll!"
-
- arm.69.t: "[ARM.GetNameDefCap] Bittet um Schutz"
- arm.69.d: "Aus Angst vor [TUR.GetAdjective] und einer russischen Aggression hat sich die neue unabhängige Nation Armenien schutzsuchend an uns gewandt. Da sich das Land derzeit in einer ziemlich verletzlichen Lage befindet und daher auf ausländische Unterstützung angewiesen ist, könnten wir durchaus versuchen, aus dieser Situation heraus ein günstiges Geschäft zu machen.\n\nInnerhalb unserer Regierung wurden zwei verschiedene Vorschläge unterbreitet, wie man auf dieses Ersuchen reagieren sollte. Einige unserer ehrgeizigeren Politiker sind der Meinung, dass wir diese Situation bis zum Äußersten ausnutzen sollten, und plädieren dafür, Armenien dazu zu drängen, im Gegenzug für unseren Schutz unser Marionettenstaat zu werden. Es ist jedoch ungewiss, ob die Armenier auf diese Forderung eingehen würden, da dies das Ende der Unabhängigkeit bedeuten würde, die sie zu bewahren versuchen. Die sicherere Option wäre wahrscheinlich, das Recht zu fordern, ihr Militär zu beaufsichtigen. Auf diese Weise würden wir unseren Einfluss auf Armenien erheblich vergrößern und gleichzeitig sicherstellen, dass das Land niemals zu den Waffen greifen kann. Da dies die armenische Souveränität nicht beeinträchtigen würde, ist es außerdem weniger wahrscheinlich, dass die armenische Regierung es ablehnt."
- arm.69.a: "Die Kontrolle über die auswärtigen Angelegenheiten Armeniens wäre ein angemessener Ausgleich."
- arm.69.b: "Nur wenn sie uns die Aufsicht über ihr Militär überlassen."
-
- arm.70.t: "[PER.GetNameDefCap] Bittet um Kontrolle über unsere auswärtigen Angelegenheiten"
- arm.70.d: "Als die Perser unser Ersuchen erhielten, erkannten sie, dass sie sich unsere politische Einsamkeit zunutze machen können. In dem Bestreben, ihren Einflussbereich im Kaukasus auszuweiten, forderten sie die Kontrolle über unsere auswärtigen Angelegenheiten als Gegenleistung für die Garantie, unsere Unabhängigkeit zu schützen. Natürlich hat unsere Regierung diese Nachricht nicht sehr gut aufgenommen, da die Erfüllung dieser Bedingungen Armenien zu einem persischen Marionettenstaat machen würde, wodurch wir die meisten der Freiheiten verlieren würden, für die wir so energisch gekämpft haben. Dennoch könnte der persische Schutz unsere anderen Nachbarn davon abhalten, unser geliebtes Land anzugreifen, und so Tausende von armenischen Leben retten. Wir müssen uns entscheiden, was uns wichtiger ist - unsere nationale Souveränität oder das Leben unseres Volkes."
- arm.70.a: "Das werden wir niemals akzeptieren!"
- arm.70.b: "Auf diese Weise könnten wir zumindest eine gewisse Form der Unabhängigkeit bewahren..."
-
- arm.71.t: "Armenien lehnt unser Angebot ab"
- arm.71.d: "Mit der Begründung, dass ihre Unabhängigkeit und Souveränität als Nation für sie von größter Bedeutung ist, hat die armenische Regierung unser Ersuchen abgelehnt. Bald werden wir sehen, ob das armenische Militär in der Lage ist, das armenische Volk allein zu schützen, oder ob diese Entscheidung der letzte Nagel im Sarg Armeniens war."
- arm.71.a: "Das werden sie noch früh genug bereuen."
-
- arm.72.t: "Armenien akzeptiert unser Angebot"
- arm.72.d: "Es scheint, dass die armenische Regierung verstanden hat, dass es das Beste für Armenien und sein Volk ist, in den sauren Apfel zu beißen und unseren bescheidenen Vorschlag zu akzeptieren. Obwohl wir nun gezwungen sind, die Berge Armeniens wie unser eigenes Territorium zu verteidigen, sollten die Vorteile, die sich aus der Kontrolle der armenischen Regierung ergeben, dies mehr als wettmachen."
- arm.72.a: "Unser Einfluss wächst!"
-
- arm.73.t: "[PER.GetNameDefCap] Fordert 'Militärische Zusammenarbeit'"
- arm.73.d: "Die persische Antwort auf unser Ersuchen hat endlich Jerewan erreicht! Als Gegenleistung für den Schutz unseres Landes hat die persische Regierung eine so genannte 'militärische Zusammenarbeit' zwischen unseren beiden Ländern gefordert. Diese Zusammenarbeit würde jedoch die Perser stark begünstigen und ihnen die Möglichkeit geben, unsere Armee zu kontrollieren, indem sie einen Teil unseres Militärpersonals durch persische Offiziere ersetzen. Dies würde es zwar mehr oder weniger unmöglich machen, militärische Operationen gegen [PER.GetNameDef] zu planen, da sie sofort Wind von unseren Plänen bekommen würden, aber unsere Soldaten könnten wahrscheinlich von der Erfahrung profitieren, die diese Offiziere mitbringen würden. Insgesamt scheint diese Forderung nicht zu hart zu sein und wurde von unserer Regierung ziemlich gut aufgenommen."
- arm.73.a: "Ein kleiner Preis, den wir für unsere Freiheit zahlen."
-
- arm.74.t: "Armenien stimmt militärischer Zusammenarbeit zu"
- arm.74.d: "Die Armenische Regierung hat erkannt, dass unsere Bedingungen für beide Seiten fair sind, und hat unsere vorgeschlagene militärische Zusammenarbeit akzeptiert. Unsere ersten Offiziere haben bereits ihre Reise nach Jerewan angetreten, wo sie bald in die militärische Kommandostruktur Armeniens eingegliedert werden, wodurch wir erheblichen Einfluss auf die kleine kaukasische Nation gewinnen."
- arm.74.a: "Wundervoll!"
-
- arm.75.t: "[ARM.GetNameDefCap] Fordert Schutz"
- arm.75.d: "Heute erreichte eine recht interessante Anfrage das Büro von [TUR.GetLeader]. Die armenische Regierung, die sich vor [PER.GetAdjective] und der russischen Aggression fürchtet, hat unsere Nation um Schutz gebeten. In Anbetracht der Geschichte, die wir mit den Armeniern haben, müssen sie wirklich verzweifelt sein, wenn sie zu uns um Hilfe kommen. Wir sollten sie jedoch nicht einfach abweisen, nur weil wir in der Vergangenheit Differenzen hatten. Die Zusage, Armenien zu schützen, wäre ein wichtiger Schritt, um die Ausbreitung derjenigen einzudämmen, die unsere Hegemonie in der Region in Frage stellen, und neue Freunde im Kaukasus zu gewinnen, könnte uns auf lange Sicht ebenfalls zugute kommen. Dennoch könnte uns dieser Schritt in einen tödlichen und zerstörerischen Krieg um Land verwickeln, das nicht einmal Teil unserer Nation ist - ein Risiko, das wir definitiv nicht auf die leichte Schulter nehmen sollten."
- arm.75.a: "Sie sind auf sich allein gestellt."
- arm.75.b: "Natürlich werden wir unsere Nachbarn schützen!"
-
- arm.76.t: "[TUR.GetNameDefCap] Lehnt unsere Anfrage ab"
- arm.76.d: "Offenbar waren wir wirklich töricht zu glauben, die Türken würden sich bereit erklären, uns zu schützen. Mit der Begründung, dass 'die kargen Berge Armeniens das Blut türkischer Soldaten nicht wert sind', lehnte [TUR.GetLeader] unsere Bitte ab. Da unsere östlichen und nördlichen Nachbarn uns immer noch im Nacken sitzen und unsere westliche Grenze nun ebenfalls bedroht ist, könnte dies unser Todesurteil sein..."
- arm.76.a: "Wir können auch ohne sie überleben! Oder?!"
-
- arm.77.t: "[TUR.GetNameDefCap] Akzeptiert unsere Anfrage"
- arm.77.d: "Mit dem Argument, dass es für die Völker von [TUR.GetNameDef] und [ARM.GetNameDef] an der Zeit sei, das Kriegsbeil zu begraben und gemeinsam in die Zukunft zu gehen, haben unsere lieben türkischen Nachbarn unsere Bitte angenommen und sich bereit erklärt, uns im Falle einer Invasion zu schützen. Wir können nur hoffen, dass dies ausreichen wird, um unsere anderen Nachbarn von unserem Land fernzuhalten."
- arm.77.a: "Gemeinsam für den Sieg!"
-
- arm.78.t: "Proteste gegen Türkischen Schutz"
- arm.78.d: "Obwohl die Entscheidung unserer Regierung, die Türkei um Schutz zu bitten, zweifellos viele politische Vorteile hatte, war sie keineswegs populär. Offenbar geht die Wiederaufnahme diplomatischer Beziehungen zwischen unseren beiden Ländern in den Augen eines großen Teils unserer Bevölkerung einen Schritt zu weit, denn sie haben das Gefühl, dass man den Türken nicht trauen kann. Das hat viele Gründe, die vor allem in der gemeinsamen Geschichte des türkischen und des armenischen Volkes zu suchen sind. Jahrhundertelang war das armenische Volk gezwungen, unter türkischer Herrschaft zu leben, wobei jeglicher Widerstand und Nationalismus brutal unterdrückt wurde. Dies gipfelte in den Massakern des Weltkriegs, an die sich einige unserer Landsleute noch lebhaft erinnern. Für sie sind alle Türken an diesen Tragödien schuld, auch wenn die Regierung im Westen nicht mehr diejenige ist, die unser Volk über Generationen unterdrückt hat.\n\nHeute sind Tausende auf die Straße gegangen, um offiziell gegen den bereits unterzeichneten Schutzvertrag zu protestieren, der für sie nichts anderes als ein glatter Verrat an allem ist, wofür die armenische Nation steht. Glücklicherweise blieben die Proteste bisher friedlich, und obwohl ihre Zahl stündlich wächst, sieht es nicht so aus, als würden die Demonstranten zu Gewalt greifen. Dennoch hat das Vertrauen der Bevölkerung in unsere Regierung einen schweren Schlag erlitten, und es wird einige Zeit dauern, bis sie die Notwendigkeit des Schutzvertrags erkennt."
- arm.78.a: "Unser Volk ist von rücksichtslosem Hass geblendet..."
-
  arm.79.t: "Rückkehr der armenischen Diaspora"
  arm.79.d: "Tausende von ethnischen Armeniern leben derzeit im Ausland, in anderen Teilen des Nahen Ostens und sogar in fernen Ländern wie Westeuropa und Amerika. Dies ist zwar schon seit Jahrhunderten der Fall, und unser Volk hat sich bereits im Mittelalter in Regionen wie Kilikien, Italien und Zypern niedergelassen, aber immer mehr von ihnen haben die Region Großarmenien aufgrund der von den osmanischen Türken an ihnen begangenen Verbrechen verlassen. Vor allem die Massaker des Weltkriegs überzeugten viele Armenier davon, dass es sich nicht lohnte, in ihrer Heimat zu bleiben, und so verließen sie ihr Land und suchten ihr Glück anderswo, weit weg von ihren türkischen Unterdrückern.\n\nSeitdem unsere Nation die Weltbühne wieder betreten hat, gibt es einen stetigen Zustrom armenischer Einwanderer aus aller Welt, die ihr Heimatland, das sie einst für immer an die Türken verloren glaubten, wieder besiedeln wollen. Viele zögerten jedoch, in das Land ihrer Vorfahren zurückzukehren, vor allem wegen des andauernden Konflikts und des Gefühls, dass die Unabhängigkeit Armeniens durch seine machthungrigen und ehrgeizigen Nachbarn massiv bedroht war. Nun aber, da wir den Unabhängigkeitskrieg gewonnen haben und unsere Souveränität einigermaßen gesichert ist, haben sich diese Zweifel zerstreut, und die Zahl der Einwanderer ist sprunghaft angestiegen. Auch wenn diese Einwanderer bisher vor allem aus den Ländern des Nahen Ostens kommen und die meisten unserer Landsleute, die derzeit in Europa und Amerika leben, sich entschieden haben, ihr Leben dort nicht aufzugeben, ist es doch ein schöner Anblick, zu sehen, dass unsere Leute langsam beginnen, in ihre Heimat zurückzukehren."
  arm.79.a: "Welcome to your homeland!"
@@ -928,8 +835,6 @@
  arm.102.a: "Das Volk verlangt totale Gerechtigkeit!"
  arm.102.b: "Wir begnügen uns mit begrenzten Forderungen."
 
- which_has_the_following_effect: "Dies hat folgende Auswirkungen:"
-
  german_agreement_with_armenia_conference: "Die derzeitige Delegation aus [GER.GetNameDef] schien eindeutig eine gewisse Parteilichkeit gegenüber der armenischen Sache zu zeigen. Obwohl wir viel stärker sind als die Armenier, wäre es vielleicht unklug, den Zorn Berlins auf sich zu ziehen."
 
  arm.103.t: "Harte Forderungen von [ARM.GetNameDef]"
@@ -986,10 +891,10 @@
 
  arm.115.t: "Die [GetYear] Wahlen in Armenien"
  arm.115.d: "Heute, genau um 8 Uhr morgens, öffneten die Wahllokale im ganzen Land, um den Präsidenten und das Parlament für eine neue Amtszeit zu wählen. Da keine Partei eine Koalition gebildet hat, haben die Wähler vier Optionen zur Auswahl: Dashnaks, Armenakan, Ramgavar und die Armenische Populistische Partei.\nSo, wer wird der Gewinner sein?"
- arm.115.a: "Dashnak gewinnt!"
- arm.115.b: "Armenakan gewinnt!"
- arm.115.c: "Ramgavar gewinnt!"
- arm.115.e: "Armenische Populistische Partei gewinnt!"
+ arm.115.a: "Die Revolutionäre Föderation erringt einen überwältigenden Sieg!"
+ arm.115.b: "Der Armenakan kehrt überraschend zurück!"
+ arm.115.c: "Die Ramgavar-Partei triumphiert wieder einmal!"
+ arm.115.e: "Die Armenische Populistische Partei dominiert die Wahl!"
 
  arm.116.t: "[FROM.GetNameDefCap] Vorschlag für ein Handelsabkommen"
  arm.116.d: "Eine armenische Delegation ist soeben in [THIS.Capital.GetCapitalVictoryPointName] eingetroffen und hofft, mit unserer Regierung ein Handelsabkommen aushandeln zu können. Ihr Vorschlag sieht insbesondere vor, dass sowohl die Zölle als auch die Grenzkontrollen für Einfuhren aus und Ausfuhren nach Armenien erheblich gesenkt werden, um so einen ungehinderten Handelsfluss zwischen unseren beiden Nationen zu ermöglichen.\n\nDas würde uns zwar Zugang zu einem neuen Markt verschaffen, auf dem wir unsere Produkte verkaufen könnten, aber es ist auch nicht zu leugnen, dass die Armenier von einer solchen Vereinbarung viel mehr profitieren würden als wir. Dennoch wäre ein neuer Handelspartner, unabhängig von seiner Größe, für unsere Wirtschaft von Vorteil, wie sollten wir also reagieren?"
@@ -1006,7 +911,7 @@
 
  arm.119.t: "Konstantinopel ist unser!"
  arm.119.d: "In einer außergewöhnlichen Wendung der Ereignisse, die Militärkommentatoren in aller Welt in Erstaunen versetzen wird, hat eine siegreiche Armee unter armenischer Flagge die alte Kaiserstadt Konstantinopel eingenommen. Die osmanischen Streitkräfte waren zwar über unsere Ankunft erstaunt, konnten die Stadt aber nicht gegen unseren Angriff verteidigen. Unser Heimatland Armenien, das von unseren Feinden unterdrückt wurde, ist nun wie ein Phönix aus der Asche auferstanden und hat das Juwel von Konstantinopel in seine Krallen genommen. Während sich unsere Truppen früher in den Hügeln und Bergen versteckten und nur nachts zuschlugen, marschieren sie jetzt die Prachtstraße von Pera entlang. Unser Flickenteppich von Guerillakämpfern hat sich nun zusammengeschlossen und in ganz Anatolien Siege errungen, aber nur wenige haben einen solchen Sieg erwartet! \n\nNach der Einnahme der Stadt scheinen unsere Truppen schockiert zu sein, denn selbst sie scheinen erstaunt zu sein, sich in der Hauptstadt zu befinden. Da sie sich der Unsicherheit ihrer Position bewusst sind, haben sie versucht, den Zorn der Einheimischen nicht zu erregen, und den Sieg so wenig wie möglich offenkundig demonstriert. Auch wenn die Angst vor einem möglichen Gegenangriff der kaiserlichen Truppen und die Sorge darüber, ob sie durch diese Anstrengungen verwundbar geworden sind, zu spüren ist, so strahlt doch zumindest die armenische Trikolore vom Topkapi-Palast aus hell gegen die Feinde, und unsere Nation schwebt wie ein Adler, was noch vor wenigen Monaten undenkbar gewesen wäre. \n\nWährend unser Volk noch immer unter brutaler Unterdrückung und falschen Liberalisierungsversprechen leidet, kann es sich mit dem Wissen trösten, dass unsere Streitkräfte der Welt gezeigt haben, wozu Armenier fähig sind."
- arm.119.a: "Gesegnet ist, wer für die Freiheit seines Volkes stirbt"
+ arm.119.a: "Gesegnet ist, wer für die Freiheit seines Volkes stirbt."
 
  ### Characters ###
  ARM_anastas_mikoyan: "Anastas Mikoyan"
@@ -1016,7 +921,6 @@
  ARM_mihran_damadian: "Mihran Damadian"
  ARM_michael_papadjanian: "Michael Papadjanian"
  ARM_boghos_bey_dadian: "Boghos Bey Dadian"
- ARM_bedros_hallachian: "Bedros Hallachian"
  ARM_garegin_nzdeh: "Garegin Nzhdeh"
  ARM_garegin_nzdeh_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 1. Januar 1886, in Kznut, Gouvernement Eriwan, Russisches Reich\n§YPolitische Karriere:§! Für viele ist Garegin Ter-Harutyunyan, besser bekannt als Garegin Nzhdeh, was so viel wie Pilger oder Wanderer bedeutet, das Gesicht des armenischen Strebens nach Unabhängigkeit geworden. Geboren in einem kleinen Dorf im russischen Gouvernement Eriwan, verlor er seinen Vater in jungen Jahren. Im Alter von 17 Jahren schloss er sich der armenischen Befreiungsbewegung an und schrieb sich später an der Kaiserlichen Universität Sankt Petersburg ein. Nach zwei Jahren Studium kehrte er in den Kaukasus zurück, um die armenische Nationalbewegung in ihrem Kampf gegen die osmanischen Türken zu unterstützen. Nachdem er sich 1908 der Daschnaktsutyun angeschlossen und an der iranischen Verfassungsrevolution teilgenommen hatte, kämpfte er während der Balkankriege in Bulgarien gegen die Türken und wurde für seine Tüchtigkeit im Kampf sogar mit dem Tapferkeitskreuz ausgezeichnet.\n\nWährend des Weltkriegs kämpfte er erneut gegen das Osmanische Reich, dieses Mal unter russischer Flagge. Als sich die Russen 1917 zurückzogen, begann Nzhdeh, paramilitärische Gruppen zu organisieren, in der Hoffnung, den osmanischen Vormarsch nach Armenien aufhalten zu können. Seine Bemühungen erwiesen sich jedoch als vergeblich, und als Armenien während der Kaukasuskonferenz 1919 aufgeteilt wurde, sah er sich gezwungen, Armenien an die Türken abzutreten und nach Karabach zu fliehen, eine Region, die de jure unter der Kontrolle Aserbaidschans stand. Dort organisierte er weiterhin armenische Rebellen, in der Hoffnung, dass er eines Tages nach Jerewan zurückkehren und dem armenischen Volk die Freiheit bringen könnte.\n\nMit dem Ausbruch des Wüstenkriegs war dieser Tag endlich gekommen, und als er aus seinem Exil zurückkehrte, wurde er vom Volk als Held gefeiert. Mit ihrer Unterstützung hat er nun die Macht übernommen, in der Hoffnung, sein Volk in eine Zukunft frei von fremder Unterdrückung führen zu können und die neugeborene armenische Nation vor dem gleichen Schicksal wie die Erste Armenische Republik zu bewahren."
 

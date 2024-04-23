@@ -3,19 +3,13 @@
  Papal_States: "Schwerpunktbaum Kirchenstaat"
 
 ### Country Names ###
- PAP: "Rome"
- PAP_ADJ: "Römisch"
- PAP_DEF: "Rome"
+ PAP: "Kirchenstaat"
+ PAP_ADJ: "Päpstlich"
+ PAP_DEF: "Kirchenstaat"
 
- PAP_authoritarian_democrat: "Kirchenstaat"
- PAP_authoritarian_democrat_ADJ: "Päpstlich"
- PAP_authoritarian_democrat_DEF: "der Kirchenstaat"
- PAP_paternal_autocrat: "Kirchenstaat"
- PAP_paternal_autocrat_ADJ: "Päpstlich"
- PAP_paternal_autocrat_DEF: "der Kirchenstaat"
- PAP_national_populist: "Kirchenstaat"
- PAP_national_populist_ADJ: "Päpstlich"
- PAP_national_populist_DEF: "der Kirchenstaat"
+ PAP_rome: "Rom"
+ PAP_rome_ADJ: "Römisch"
+ PAP_rome_DEF: "Rom"
 
 ### Companies ###
  accademia_militare_roma: "Accademia Militare di Lazio"
@@ -32,7 +26,7 @@
 
 ### Ideas ###
  PAP_holy_see: "Der Heilige Stuhl"
- PAP_holy_see_desc: "[PAP.GetNameDefCap] ist der weltliche Machtsitz der katholischen Kirche und wird vom Papst, dem Bischof von Rom und amtlichen Oberhaupt der Kirche, geleitet. Mit mehr als 300 Millionen Gläubigen in der ganzen Welt haben die Handlungen und Worte des Papstes ein einzigartiges Gewicht, das nirgendwo sonst auf der Welt zu finden ist."
+ PAP_holy_see_desc: "[PAP.GetNameDefCap] ist der Sitz der Macht der katholischen Kirche und des Papstes, des Bischofs von Rom und von Amts wegen Oberhaupt der Kirche. Mit mehr als 300 Millionen Gläubigen in der ganzen Welt haben die Handlungen und Worte des Papstes ein einzigartiges Gewicht, das nirgendwo sonst auf der Welt zu finden ist."
  PAP_exiled_holy_see: "Der Heilige Stuhl"
  PAP_exiled_holy_see_desc: "Nachdem Papst [PAP.GetLeader] und der Rest der päpstlichen Konklave von der SRI aus ihrem traditionellen Machtsitz verbannt wurden, sind sie nach [FROM.GetNameDef] gezogen, um dort vorübergehend oder dauerhaft Zuflucht zu finden. Trotzdem haben die Taten und Worte des Papsttums mit mehr als 300 Millionen Gläubigen auf der ganzen Welt immer noch ein einzigartiges Gewicht, das nirgendwo sonst auf der Erde zu finden ist."
  PAP_black_monday_1: "Schwarzer Montag"

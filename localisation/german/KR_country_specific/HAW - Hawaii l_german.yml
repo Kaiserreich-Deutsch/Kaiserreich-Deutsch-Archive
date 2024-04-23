@@ -547,8 +547,8 @@ JAP_hold_hawaii_desc: "Nun, da die hawaiianischen Verteidigungen zerschmettert w
  hawaii.114.t: "[FROM.GetNameDefCap] verlangt die Wiedervereinigung"
  hawaii.114.d.in_faction: "Nun, da die ständigen Feuergefechte auf Kontinentalamerika verstummen und die Rauchsäulen verblassen, fragen sich viele Hawaiianer, ob wir uns nicht wieder dem Festland anschließen sollten. Heute hat [FROM.GetLeader], der Anführer von [FROM.GetNameDef], sich im Radio zu dem Ausgang des blutigen Bürgerkriegs geäußert und verlangt, dass Hawaii seine Allianz mit der [ROOT.GetFactionName] aufgibt und erneut der Republik beitritt. Diesmal jedoch als Staat, nicht als Territorium. Es sind auch bereits einige Gesandte in Honolulu eingetroffen, welche auf unsere Antwort warten."
  hawaii.114.d.default: "Nun, da die ständigen Feuergefechte auf Kontinentalamerika verstummen und die Rauchsäulen verblassen, fragen sich viele Hawaiianer, ob wir uns nicht wieder dem Festland anschließen sollten. Heute hat [FROM.GetLeader], der Anführer von [FROM.GetNameDef], sich im Radio zu dem Ausgang des blutigen Bürgerkriegs geäußert und verlangt, dass Hawaii erneut der Republik beitritt. Diesmal jedoch als Staat, nicht als Territorium. Es sind auch bereits einige Gesandte in Honolulu eingetroffen, welche auf unsere Antwort warten."
- hawaii.114.a: "Sagt [faction_leader.GetNameDef], dass wir erneut beitreten werden."
- hawaii.114.b: "Bittet [faction_leader.GetNameDef] um Intervention."
+ hawaii.114.a: "Sagt [THIS.faction_leader.GetNameDef], dass wir erneut beitreten werden."
+ hawaii.114.b: "Bittet [THIS.faction_leader.GetNameDef] um Intervention."
  hawaii.114.c: "Wir haben keine Wahl..."
  hawaii.114.d: "Niemals!"
 

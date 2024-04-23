@@ -119,9 +119,7 @@ NIR_send_rifles_desc: "Ulster hat Nein zur irischen Herrschaft gesagt, und wir k
 NIR_send_advisors: "Militärattaché in Belfast"
 NIR_send_advisors_desc: "Wenn wir sicherstellen wollen, dass unsere loyalen Untertanen in Ulster ihre Freiheit erlangen, müssen wir unbedingt einen Militärattaché entsenden, der ihnen dabei hilft, ihre zusammengewürfelten Freiwilligen zu einer echten Kampftruppe zu reorganisieren, die in der Lage ist, ihre irischen Unterdrücker abzuschütteln."
 NIR_capitulation_mission: "Sichert Nordirland"
-NIR_capitulation_mission_desc: "[IRE_loc_NIR_capitulation_mission]"
-NIR_capitulation_mission_IRE_desc: "Die Reaktionäre im Norden sind besiegt! Ihre prekäre Lage bedeutet, dass ihr Aufstand völlig zusammenbrechen wird, wenn wir ihre Kerngebiete lange genug besetzen. Solange wir sicherstellen, dass sie keine Unterstützung von [ENT.GetNameDef] erhalten, wird ganz Ulster wieder uns gehören."
-NIR_capitulation_mission_ENT_desc: "Trotz ihrer tapferen Bemühungen sind unsere loyalen Untertanen in [NIR.GetName] von den irischen Roten zurückgeschlagen worden. Wenn wir nicht rechtzeitig zu ihnen vordringen, wird ihre prekäre Lage dazu führen, dass ihr Aufstand zusammenbricht und wir unser Standbein in Großbritannien verlieren."
+NIR_capitulation_mission_desc: "Trotz ihrer tapferen Bemühungen sind unsere loyalen Untertanen in [NIR.GetName] von den irischen Roten zurückgeschlagen worden. Wenn wir nicht rechtzeitig zu ihnen vordringen, wird ihre prekäre Lage dazu führen, dass ihr Aufstand zusammenbricht und wir unser Standbein in Großbritannien verlieren."
 
 ### Tooltips ###
 
@@ -151,9 +149,13 @@ northernireland.3.d: "\"Es wird hiermit erklärt, dass Nordirland Teil des Herrs
 northernireland.3.a: "Quis separabit?"
 
 northernireland.4.t: "Waffenlieferungen von den Exilanten"
+northernireland.4.d: "Dieses Ereignis sollte niemals bei einem Spieler ausgelöst werden. Wenn Sie dies sehen, melden Sie das bitte als Bug."
+northernireland.4.a: "Verstanden."
 
 northernireland.5.t: "Kanadische Militärmission trifft ein"
-
+northernireland.5.d: "Dieses Ereignis sollte niemals bei einem Spieler ausgelöst werden. Wenn Sie dies sehen, melden Sie das bitte als Bug."
+northernireland.5.a: "Verstanden."
+ 
 northernireland.1690.t: "Der nördliche Aufstand"
 northernireland.1690.d.mid: "Im Rahmen einer Übernahme, die ironischerweise an den Osteraufstand erinnert, hat die UVF Gebäude in allen sechs Grafschaften Nordirlands in Beschlag genommen, insbesondere das Rathaus von Belfast, wo sie in Anlehnung an den Ulster-Pakt von 1912 ein Dokument unterzeichnet haben, in dem sie die Unabhängigkeit von Dublin proklamieren."
 northernireland.1690.d1: "Seit Aontas Náisiúnta an die Macht gekommen ist, gibt es Spannungen zwischen der [IRE.GetAdjective]-Regierung und der überwiegend protestantischen, loyalistischen Bevölkerung des Landes. Jetzt, da Berichte aus [119.GetCapitalVictoryPointName] eintreffen, ist es klar, dass diese Spannungen schließlich zu einem ausgewachsenen Aufstand gegen die Herrschaft von [IRE.GetAdjective] übergekocht sind.\n$northernireland.1690.d.mid$ Obwohl die britischen Exilanten noch keine offizielle Unterstützung erhalten haben, scheinen ihre Absichten, zur Krone zurückzukehren, klar zu sein, vorausgesetzt, ihr Aufstand wird nicht von [113.GetCapitalVictoryPointName] niedergeschlagen."

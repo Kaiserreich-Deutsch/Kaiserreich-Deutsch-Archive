@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 ### Parties ###
 
@@ -68,7 +68,7 @@ CHS_new_republic: "Die Neue Republik"
 CHS_new_republic_desc: "Mit den Lehren aus der alten Republik können wir eine neue Republik aufbauen. Eine neue Ordnung in China, die das Erbe ihrer Gründer, den Republikanismus, den Konstitutionalismus und die Demokratie, wirklich respektiert, wird entstehen und dieses Mal Bestand haben."
 
 CHS_personality_cult: "Persönlichkeitskult"
-CHS_personality_cult_desc: "[Root.GetLeader] ist der einzige Grund dafür, dass die Nationale Schutzallianz in der Lage war, die Monarchisten, Radikalen und Heuchler zu zerschlagen und das Erbe der Xinhai-Revolution wiederherzustellen. Ohne ihn gäbe es keine Republik, und sein Vermächtnis als Befreier Chinas wird fortbestehen."
+CHS_personality_cult_desc: "[Root.GetLeader] ist der einzige Grund dafür, dass die Republik China in der Lage war, die Monarchisten, Radikalen und Heuchler zu zerschlagen und das Erbe der Xinhai-Revolution wiederherzustellen. Ohne ihn gäbe es keine Republik, und sein Vermächtnis als Befreier Chinas wird fortbestehen."
 
 CHS_new_bureaucracy: "Die neue Bürokratie"
 CHS_new_bureaucracy_desc: "Von der Herrschaft über eine oder zwei Provinzen zur Herrschaft über das Kernland Chinas - unsere Bürokratie hat gelinde gesagt zu kämpfen. Unabhängig davon, ob wir uns für ein föderalistisches oder zentralistisches Modell entscheiden, müssen neue Beamte eingestellt und der gesamte Dienst von Grund auf neu organisiert werden."
@@ -120,6 +120,9 @@ CHS_light_bomber_desc: "Leichte Bomber als eine Art fliegende Artillerie sind di
 
 CHS_southern_fleets_legacy: "Das Vermächtnis der Südflotte"
 CHS_southern_fleets_legacy_desc: "Die Guangdong-Flotte (oder Südflotte) hatte eine kurze und turbulente Geschichte. Sie wurde im späten 19. Jahrhundert gegründet, ihre Mittel wurden für die Nanyang-Flotte in Shanghai abgezweigt, sie war im Chinesisch-Französischen und im Chinesisch-Japanischen Krieg wenig erfolgreich und wurde noch vor der Xinhai-Revolution kurzerhand aufgelöst. Nichtsdestotrotz war sie eine der vier modernen Flotten Chinas, und ihr Erbe ist in der lokalen Erinnerung noch immer präsent."
+
+CHS_recruit_beiyang_admiralty: "Reicht den Admiralen von Beiyang die Hand."
+CHS_recruit_beiyang_admiralty_desc: "Mit der Wiedervereinigung der Nation sind die einst zahlreichen Admirale und Offiziere mitsamt ihrem Wissen und Verstand verloren gegangen. Durch ein Amnestieprogramm für die alten Seeleute aus der Asche der Beiyang-Regierung können wir sicherstellen, dass das neue China eine Flotte aufbauen kann, die würdig ist, seine Küsten zu schützen und seinen Einfluss geltend zu machen."
 
 CHS_naval_academy: "Wiederbelebung der Marineakademien"
 CHS_naval_academy_desc: "Die Marineakademien Chinas wurden von den aufeinanderfolgenden nationalen und provinziellen Regierungen weitgehend vernachlässigt. Jetzt, da es wieder eine einheitliche, unangefochtene Zentralregierung gibt, haben wir die Möglichkeit, die Interessen der Marine zu erneuern und einen neuen Kader von Offizieren für die republikanische Marine zu fördern."

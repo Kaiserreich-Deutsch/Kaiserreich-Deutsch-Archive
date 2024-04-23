@@ -22,8 +22,14 @@ enables_new_focus_branches: "Ermöglicht neue Schwerpunktzweige"
 tooltip_apply_one_of_effects_depending_on_ideas: "§gWendet einen der folgenden Effekte an, je nach dem aktuellen Nationalen Geist:§!"
 tooltip_apply_one_of_effects_depending_on_ruling_party: "§gWendet einen der folgenden Effekte an, je nachdem, welche Partei gerade regiert:§!"
 
-tooltip_event_allows_choice: "Das Ereignis ermöglicht die Auswahl einer der folgenden Möglichkeiten:"
-tooltip_event_choice_or: "ODER"
+tooltip_event_allows_choice: "§LDas Ereignis ermöglicht die Auswahl einer der folgenden Möglichkeiten:§!"
+tooltip_event_choice_or: "§L\n-------------- ODER --------------\n§!"
+tooltip_event_choice_option_1: "§L\n-------------- OPTION 1 --------------\n§!"
+tooltip_event_choice_option_2: "§L\n-------------- OPTION 2 --------------\n§!"
+tooltip_event_choice_option_3: "§L\n-------------- OPTION 3 --------------\n§!"
+tooltip_event_choice_option_4: "§L\n-------------- OPTION 4 --------------\n§!"
+
+which_has_the_following_effect: "Dies hat folgende Auswirkungen:"
 
 improves_designer_tt: "§GVerbessert§! §YDesign Unternehmen§!:"
 improves_industrial_concern_tt: "§GVerbessert§! §YIndustriekonzern§!:"
@@ -35,9 +41,9 @@ if_controlled_by_PREV: "wenn kontrolliert von §Y[PREV.GetNonIdeologyName]§!:"
 
 may_lead_to_war_with_THIS: "§RKann zu einem Krieg mit [This.GetNameDef] führen!§!"
 may_lead_to_war_with_FROM: "§RKann zu einem Krieg mit [From.GetNameDef] führen!§!"
-may_lead_to_war_with_FROM_overlord: "§RKann zu einem Krieg mit [From.Overlord.GetNameDef] führen!§!"
+may_lead_to_war_with_FROM_overlord: "§RKann zu einem Krieg mit [From.overlord.GetNameDef] führen!§!"
 may_lead_to_war_with_FROM_FROM: "§RKann zu einem Krieg mit [From.From.GetNameDef] führen!§!"
-may_lead_to_war_with_FROM_FROM_overlord: "§RKann zu einem Krieg mit [From.From.Overlord.GetNameDef] führen!§!"
+may_lead_to_war_with_FROM_FROM_overlord: "§RKann zu einem Krieg mit [From.From.overlord.GetNameDef] führen!§!"
 
 state_integration_at_fifty_compliance: "Kann bei Erreichen von §H50% durchschnittlichem Gehorsam§! zum Kernstaat gemacht werden."
 state_integration_at_eighty_compliance: "Kann bei Erreichen von §H80% durchschnittlichem Gehorsam§! zum Kernstaat gemacht werden."
@@ -73,6 +79,7 @@ integration_tooltip: "Nicht-integrierte Gebiete"
 ### Decision Names ###
 integrate_state: "Integriert [From.GetName]"
 join_faction: "Tretet [From.GetFactionName] bei"
+attack_country: "Greift [From.GetNameDef] an"
 
 ### Custom Modifier Tooltips ###
 cannot_enact_conscription_tt: "§RDas Wehrpflichtgesetz kann nicht verschärft werden.§!"
@@ -480,6 +487,7 @@ fewer_owned_states_than_tooltip: "Weniger Staaten im Besitz als $RIGHT|Y0$"
 ### Scripted Loc ###
 empty: ""
 
+loc_empire: "Kaiserreich"
 loc_kingdom: "Königreich"
 loc_republic: "Republik"
 loc_state: "Staat"
@@ -515,6 +523,10 @@ loc_imam: "Imam"
 
 loc_regent: "Regent"
 
+loc_president: "Präsident"
+loc_prime_minister: "Premierminister"
+loc_chairman: "Vorsitzender"
+
 loc_royal: "königlich"
 loc_royal_cap: "Königlich"
 loc_royal_with_space: "$loc_royal$ "
@@ -533,9 +545,17 @@ loc_republican_cap_with_space: "$loc_republican_cap$ "
 loc_has: "hat"
 loc_have: "haben"
 
+loc_the: "die"
+loc_the_with_space: "$loc_the$ "
+
 loc_its: "seine"
 loc_their: "ihre"
 loc_theirs: "ihre"
+
+loc_and: "und"
+loc_and_space_before: " $loc_and$"
+loc_and_space_after: "$loc_and$ "
+loc_and_space_both: " $loc_and$ "
 
 ### Custom Cost Tooltips (for use in decisions) ###
 CP_5: "£command_power §H5§!"
@@ -621,6 +641,10 @@ CP_100_tooltip: "Es kostet $CP_100_blocked$ die Entscheidung zu treffen"
 CP_80_PP_20: "£command_power §H80§! £pol_power §H20§!"
 CP_80_PP_20_blocked: "£command_power §R80§! £pol_power §R20§!"
 CP_80_PP_20_tooltip: "Es kostet $CP_80_PP_20_blocked$ die Entscheidung zu treffen"
+
+army_xp_3: "£army_experience §H3§!"
+army_xp_3_blocked: "£army_experience §R3§!"
+army_xp_3_tooltip: "Es kostet $army_xp_3_blocked$ diese Entscheidung zu treffen"
 
 army_xp_5: "£army_experience §H5§!"
 army_xp_5_blocked: "£army_experience §R5§!"

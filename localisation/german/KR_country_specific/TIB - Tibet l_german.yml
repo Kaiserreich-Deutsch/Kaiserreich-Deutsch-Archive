@@ -58,8 +58,6 @@ TIB_restore_order_tibet: "Wiederherstellung der Ordnung in [From.GetName]"
 TIB_restore_order_tibet_desc: "Jetzt, da [From.GetName] unter der Kontrolle von [Root.GetAdjective] steht, müssen wir uns bemühen, jeden noch vorhandenen Widerstand zu überwinden und es in den Rest von [Root.GetNameDef] zu integrieren."
 TIB_KMT_oob_tt: "Wir erhalten eine neue KMT-Division.\n"
 TIB_British_regulars_oob_tt: "Wir erhalten 2 Grenztruppen-Divisionen.\n"
-TIB_join_ESU: "Beitritt zur Östlichen Syndikalistischen Union"
-TIB_join_ESCU_desc: "Nach dem Sieg der Heiligen Union sieht sich Tibet in internationalen Angelegenheiten zunehmend isoliert, eine prekäre Situation angesichts unserer unvorhersehbaren, wenn nicht geradezu antagonistischen Beziehungen zu unseren Nachbarn im Nordosten sowie der stets präsenten Gefahr eines imperialistischen Übergriffs auf unser Land. In Anbetracht dieser Umstände wurde von einigen Stimmen in unserer Regierung vorgeschlagen, dass wir uns unseren Genossen in der Östlichen Syndikalistischen Union anschließen sollten."
 
 ### Ideas ###
 TIB_struggle_tibet: "Der Kampf um Tibet"
@@ -555,19 +553,6 @@ tib.54.t: "Das Leiden der Frauen führt zur Spaltung der Heiligen Union"
 tib.54.d: "Das Votum des Kashag für das Frauenwahlrecht hat zu einem Bruch in der Partei der Heiligen Union geführt. Die Einführung dieser Politik erfolgte kurz nach dem Treffen von Nicholas Roerich mit dem Botschafter in Bharatiya. Die Versammlung der Heiligen Union endete Berichten zufolge in einem Aufruhr, als die tibetischen Mitglieder massenhaft die Versammlung verließen. Für Beobachter ist es offensichtlich, dass die Tibeter sich weigerten, über die Frage des Leidens der Frauen abzustimmen. Dies hat es der Tibetischen Verbesserungspartei ermöglicht, auf Kosten der Partei der Heiligen Union an Einfluss zu gewinnen."
 tib.54.a: "Tibetische Verbesserung unbestritten"
 
-tib.55.t: "[From.GetNameDefCap] bittet darum, der [ROOT.GetFactionName] beizutreten"
-tib.55.d: "Während die revolutionären Feuer durch Asien fegen, wird die Notwendigkeit von Solidarität und Zusammenarbeit unter den neu emanzipierten Völkern immer offensichtlicher. Da wir uns der Gefahr bewusst sind, in der sich schnell verändernden globalen Szene neutral zu bleiben, haben unsere Kameraden von [From.GetNameDef] darum gebeten, der [ROOT.GetFactionName] beizutreten. Die Annahme dieses Antrags würde unseren Einfluss im Himalaya ausweiten, einer für unsere strategischen Interessen wichtigen Region. Es gab jedoch auch Stimmen, die vor einer Verstrickung in unnötige ausländische Unternehmungen warnten."
-tib.55.a: "Wir begrüßen unsere [From.GetAdjectiveCap]-Kameraden."
-tib.55.b: "Das ist unnötig, lehnen wir ihren Antrag ab."
-
-tib.56.t: "[From.GetNameDefCap] akzeptiert!"
-tib.56.d: "Wie erwartet hat [FROM.GetNameDef] unser Ersuchen angenommen, der [From.GetFactionName] beizutreten, und damit die wachsende Verbundenheit zwischen unseren Nationen besiegelt. Was auch immer die Zukunft bringt, wir werden den Sturm gemeinsam überstehen."
-tib.56.a: "Wir stehen vereint."
-
-tib.57.t: "[From.GetNameDefCap] lehnt ab"
-tib.57.d: "In einem unerwarteten und enttäuschenden Schritt hat [FROM.GetNameDef] unseren Antrag auf Beitritt zur [From.GetFactionName] abgelehnt, und nun sind wir noch weiter von den globalen Angelegenheiten isoliert."
-tib.57.a: "Enttäuschend, aber vielleicht gibt es Alternativen."
-
 tib.62.t: "Druck auf den Regenten, seine Leibeigenen zu emanzipieren"
 tib.62.d: "Die Leibeigenschaft ist in Tibet weit verbreitet. Lange Zeit hatte niemand eine Alternative. Vor kurzem wurde jedoch dem tibetischen Regenten [TIB.GetLeader] ein Vorschlag unterbreitet, die Leibeigenen, die direkt in den verschiedenen Ganden Phodrang-Gütern arbeiten, zu befreien. Die Befürworter der Jungen Tibetischen Partei glauben, dass dieser Vorschlag ein allmähliches Ende der Leibeigenschaft in Tibet herbeiführen kann. Ihre Gegner hingegen bezeichnen den Vorschlag als weitere ausländische Einmischung in Tibet."
 tib.62.a: "Mit gutem Beispiel vorangehen"
@@ -680,10 +665,6 @@ tib.121.a: "Lenin wäre so stolz!"
 tib.123.t: "KMT und indische Sozialisten stürzen Tibet"
 tib.123.d: "In den meisten Zeitungen werden Nachrichten aus Tibet als phantasievolle Geschichten behandelt, die für die Geopolitik wenig Bedeutung haben und nur für die in ganz China verstreuten Buddhisten von Bedeutung sind. Die moderne Welt ist jedoch endlich in der Ideologie von Sun Yat-sen in Tibet angekommen, hat den Regenten gestürzt und den radikalen Ideologen [TIB.GetLeader] eingesetzt. Der neue Regent wird nun von der Tibetischen Verbesserungspartei geleitet, einer Ansammlung von Khampa-Agitatoren, die von der KMT ausgebildet wurden und Bharatiya für ihr Asyl dankbar sind. [TIB.GetLeader] hat gegenüber National Geographic, den einzigen Reportern, die derzeit in Tibet zugelassen sind, Erklärungen abgegeben und versprochen, zuerst seine Pflichten als Regent zu erfüllen und den nächsten Dalai Lama zu finden. Weitere grandiose Versprechungen über freie und demokratische Wahlen und die Zurückdrängung der Ma-Muslime aus Yushu wurden ebenfalls angekündigt."
 tib.123.a: "Es ist ein Zyklus, kein Wandel."
-
-tib.124.t: "Xikang Dob-dobs erheben sich, um uns zu verteidigen"
-tib.124.d: "Die Kriegserklärung von [SZC.GetName] an Tibet hat die Gelug-Klöster von Xikang in Aufruhr versetzt. Die Mönche von Xikang haben wieder einmal zu den Waffen gegriffen, um ihre Schätze zu verteidigen, in der Hoffnung, dass die belagerte tibetische Armee sie rechtzeitig retten kann, bevor die belagerte Masse der Armee von Sichuan sie überwältigen kann."
-tib.124.a: "Wir sind wirklich dankbar für ihre Unterstützung."
 
 ### Cosmetic Tags ###
 TIB: "Tibet"

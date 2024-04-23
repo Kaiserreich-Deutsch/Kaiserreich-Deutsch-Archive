@@ -346,23 +346,6 @@ LOM_italian_irredentism_desc: "Wenn Italien geeint ist und einige der drängends
 LOM_a_stable_italy: "Ein stabiles Italien"
 LOM_a_stable_italy_desc: "Unsere Politik ist seit dem Ende des Bürgerkriegs instabil, aber jetzt, mit einer italienischen Republik, die über ganz Italien regiert, können wir endlich die Instabilität beenden, die uns seit Jahren plagt."
 
-### Companies ###
-accademia_militare_milano_lom: "Accademia Militare di Milano"
-beretta_lom: "Beretta"
-scotti_lom: "Scotti"
-metallurgica_bresciana_lom: "Metallurgica Bresciana"
-franco_tosi_lom: "Franco Tosi"
-isotta_fraschini_lom: "Isotta Fraschini"
-bianchi_lom: "Bianchi"
-officine_meccaniche_lom: "Officine Meccaniche"
-accademia_aeronautica_brescia_lom: "Accademia Aeronautica di Brescia"
-caproni_lom: "Caproni"
-aeronautica_macchi_lom: "Aeronautica Macchi"
-fratelli_nardi_lom: "Fratelli Nardi"
-universita_milano_lom: "Università di Milano"
-astaldi_lom: "Astaldi"
-pirelli_lom: "Pirelli"
-
 ### Ideas ###
 LOM_a_young_duchy: "Ein junges Herzogtum"
 LOM_a_young_duchy_desc: "Unser Herzogtum ist jung, aber unsere Bevölkerung und unsere Verwaltung sind belastbar und bestrebt, eine solide politische Grundlage zu schaffen."
@@ -511,8 +494,6 @@ lombardy.22.b: "Nein, wir können nicht zur Monarchie zurückkehren!"
 
 ### Characters ###
 LOM_adriano_visconti_regnal: "Adriano I"
-ITA_adriano_visconti_leader_desc: "Als Sohn von Galeazzo Visconti wurde Adriano während des Weltkriegs im damaligen italienischen Libyen geboren, aber er war noch kaum mehr als ein Baby, als er nach Italien zurückkehrte. Nachdem er 1936 inmitten der zunehmenden Spannungen auf der Halbinsel in die Luftstreitkräfte eingetreten war, zeigte er ein bemerkenswertes Talent als Kampfpilot und sah sich selbst immer als solchen. Der forsche und ungestüme junge Mann, der zum Herzog ernannt wurde, um die Lombardei zu stabilisieren, schert sich wenig um diplomatische Feinheiten oder darum, dass ein Herzog kein Kampfflugzeug fliegen kann, aber er ist loyal und hat nicht die Absicht, die Pflichten seines Amtes zu vernachlässigen, denn er hat die Folgen von Syndikalismus und Krieg am eigenen Leib erfahren."
-ITA_adriano_visconti_regnal_leader_desc: "Als Sohn von Galeazzo Visconti wurde Adriano während des Weltkriegs im damaligen italienischen Libyen geboren, aber er war noch kaum mehr als ein Baby, als er nach Italien zurückkehrte. Nachdem er 1936 inmitten der zunehmenden Spannungen auf der Halbinsel in die Luftstreitkräfte eingetreten war, zeigte er ein bemerkenswertes Talent als Kampfpilot und sah sich selbst immer als solchen. Der forsche und ungestüme junge Mann, der zum Herzog ernannt wurde, um die Lombardei zu stabilisieren, schert sich wenig um diplomatische Feinheiten oder darum, dass ein König kein Kampfflugzeug fliegen kann, aber er ist loyal und hat nicht die Absicht, die Pflichten seines Amtes zu vernachlässigen, denn er hat die Folgen von Syndikalismus und Krieg am eigenen Leib erfahren. Dem jungen König ist es vor kurzem gelungen, der Lombardei ihren alten Status als Königreich zurückzugeben und damit die Souveränität des lombardischen Volkes öffentlichkeitswirksam zu unterstreichen. Nun wendet er seine Aufmerksamkeit der Suche nach einer Königin zu, und die Mailänder Boulevardpresse behauptet, dass er bei der Suche ziemlich fleißig ist."
 
 LOM_giacomo_acerbo: "Giacomo Acerbo"
 LOM_piero_parini: "Piero Parini"

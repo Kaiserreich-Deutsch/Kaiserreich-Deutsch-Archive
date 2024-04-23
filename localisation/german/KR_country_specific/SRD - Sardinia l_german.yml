@@ -127,8 +127,6 @@ SRD_control_any_two:0 "Zwei beliebige von §Y[159.GetName]§!, §Y[160.GetName]�
 
  SRD_the_constituent_assembly_tt: "Dieser Schwerpunkt wird mit den §Yersten Wahlen§! nach der §Wiedervereinigung Italiens§! freigegeben werden.\n\nDie Arbeiten der verfassungsgebenden Versammlung werden etwa ein Jahr dauern, danach wird §YRatifizierung der Verfassung§! freigeschaltet werden."
 
- SRD_balance_call_allies_warning: "§RWenn Sie Verbündete von [ROOT.GetFactionName] in den Krieg rufen, wird das Gleichgewicht in Italien gestört und [SRI.GetNameDef] kann der [INT.GetFactionName] beitreten!§!"
-
 ### Flags ###
 SRD_italian_customs_union_opinion:0 "Italienische Zollunion"
  SRD_badoglio_government: "§PMarschall Badoglio§! wurde an die Spitze einer Regierung berufen"

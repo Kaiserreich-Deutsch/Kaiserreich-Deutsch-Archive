@@ -104,6 +104,9 @@ HND_approves_government: "Befürwortet die neue Regierung"
 ### Traits ###
 HND_the_mahatma: "Mahatma"
 
+### Flags ###
+HND_went_isolationist: "Die Bharatiya Kommune hat sich nach der Vereinigung Indiens für eine Politik der Isolation entschieden"
+
 ### Tooltips ###
 HND_INC_meeting_done: "INC-Sitzung wurde vertagt"
 HND_ENG_intl_aid: "§Y[ENG.GetName]§! hat auf der Dritten Internationalen Konferenz Hilfe zugesagt"
@@ -290,8 +293,6 @@ HND_adv_command_3: "Herrschaft über das Meer"
 HND_adv_command_3_desc: "Wir konzentrieren uns in erster Linie auf unsere Marine - ja, das mag auf Kosten unserer Armee und unserer Luftstreitkräfte gehen, aber die Kommune muss erkennen, wo ihre Stärken liegen, und ihre Effizienz maximieren."
 HND_third_internationale: "Der Kongress der Dritten Internationale"
 HND_third_internationale_desc: "Der Neunte Kongress der Dritten Internationale ist zu Ende, und nun können wir unsere Genossen im Westen um Hilfe bitten."
-#HND_invite_hochiminh: "Invite Ho Chi Minh"
-#HND_invite_hochiminh_desc: "In Paris, a group of Indochinese revolutionaries under the leadership of Nguyen Sinh Con, also known as Ho Chi Minh, have announced their decision to form a united leftist government in exile whose declared goal is to topple German colonial rule. It has been suggested that our government invite Ho Chi Minh and his comrades to Calcutta and place all available resources at their disposal."
 HND_anglo_indian_trade: "Das Anglo-Indische Handelsabkommen"
 HND_anglo_indian_trade_desc: "Es wurde ein Vorschlag unterbreitet, der darauf abzielt, die sozialistische anglo-indische Zusammenarbeit zu systematisieren und zu rationalisieren, indem der indischen Regierung lebenswichtige Unterstützung in industriellen und kriegerischen Angelegenheiten gewährt wird, während dem Volk und der Regierung Großbritanniens ein ständiger Strom exotischer Waren wie Bananen, Kautschuk und - was am wichtigsten ist - ein uneingeschränkter Zugang zu den Teeplantagen in Assam gesichert wird."
 HND_aid_from_britain: "Bitte um Hilfe aus Großbritannien"
@@ -300,18 +301,6 @@ HND_aid_from_france: "Bitte um Hilfe aus Frankreich"
 HND_aid_from_france_desc: "Die Kommune Frankreich hat uns auf der letzten Sitzung des Kongresses militärische Unterstützung versprochen - jetzt müssen wir sehen, was sie bieten kann."
 HND_war_prepare: "Der finale Showdown"
 HND_war_prepare_desc: "Es ist unvermeidlich, dass wir in naher Zukunft sowohl dem Raj als auch der Fürstlichen Föderation gegenüberstehen werden. Wir sollten sicherstellen, dass wir so stark wie möglich sind, bevor wir weitermachen."
-HND_north_border: "Vorbereitung der Nordgrenze"
-HND_north_border_desc: "Wir blicken nun nach Norden in Richtung Dominion und müssen unsere nördliche Grenze auf den sicherlich bevorstehenden Zermürbungskrieg vorbereiten."
-HND_attack_delhi: "Besetzt Lahore"
-HND_attack_delhi_desc: "Die Staaten im Norden sind ein integraler Bestandteil Indiens. Wir müssen präventiv zuschlagen, mit dem Element der Überraschung!"
-HND_delhi_rebellion: "Sozialisten des Nordens vereinigt euch!"
-HND_delhi_rebellion_desc: "Ein einfacher Angriff auf den Norden mag nicht ausreichen - er mag riskant sein, aber wir könnten auch sozialistische Elemente innerhalb des Dominion kontaktieren und sie dazu bringen, sich zu erheben, während wir angreifen. Das würde die Möglichkeit erhöhen, dass die Streitkräfte des Dominion hinter ihren eigenen Linien bedrängt werden. Es besteht jedoch die Möglichkeit, dass unsere Pläne verraten werden und unsere Feinde im Voraus über unseren Angriff informiert werden."
-HND_west_border: "Vorbereitung der westlichen Grenze"
-HND_west_border_desc: "Wir blicken nun nach Westen in Richtung der Fürstlichen Föderation und müssen unsere nördliche Grenze auf den sicherlich bevorstehenden Zermürbungskrieg vorbereiten."
-HND_attack_prf: "Besetzt Hyderabad"
-HND_attack_prf_desc: "Die Dekkan-Staaten sind ein integraler Bestandteil Indiens. Wir müssen präventiv zuschlagen, mit dem Element der Überraschung!"
-HND_prf_rebellion: "Sozialisten des Westens vereinigt euch!"
-HND_prf_rebellion_desc: "Ein einfacher Angriff auf den Westen mag nicht ausreichen - er mag riskant sein, aber wir könnten auch sozialistische Elemente innerhalb der Fürstlichen Föderation kontaktieren und sie dazu bringen, sich zu erheben, während wir angreifen. Das würde die Möglichkeit erhöhen, dass die fürstlichen Streitkräfte hinter ihren eigenen Linien bedrängt werden. Es besteht jedoch die Möglichkeit, dass unsere Pläne verraten werden und unsere Feinde im Voraus über unseren Angriff informiert werden."
 HND_unite_india: "Indien vereinigt"
 HND_unite_india_desc: "Jai Hind! Der Subkontinent ist wieder unser! Was nun?"
 HND_special_INC_meeting: "Einberufung einer INC-Sitzung"
@@ -699,6 +688,7 @@ beng.110.d: "Nachdem Indien hinter der Regierung in Kalkutta vereint ist und die
 beng.110.a: "Wir werden das Schwert der Internationale in Asien sein!"
 beng.110.b: "Auf eigene Faust soll Asien ROT gestrichen werden!"
 beng.110.c: "Lasst uns Indien in herrlicher Abgeschiedenheit wiederaufbauen."
+beng.110.e: "Schließen wir uns unseren Kameraden in China an!"
 
 beng.111.t: "Indien will der Internationale beitreten"
 beng.111.d: "Die zersplitterten Überreste des britischen Raj sind endlich unter der Ägide der linken Regierung von Kalkutta wieder vereint worden. Als ob dies nicht schon eine gute Nachricht für das weltweite Proletariat wäre, hat die neue indische Regierung beantragt, Mitglied der Internationalen zu werden!"
@@ -837,6 +827,11 @@ beng.138.t: "[From.GetName] hat abgelehnt"
 beng.138.d: "Die [From.GetAdjective]-Regierung hat mitgeteilt, dass die Internationale keinen Bedarf an unserem Bündnis hat."
 beng.138.a: "Beleidigend!"
 
+beng.139.t: "[FROM.GetName] strebt ein Bündnis mit [ROOT.GetNameDef] an"
+beng.139.d: "Während die revolutionären Feuer durch Asien fegen, wird die Notwendigkeit von Solidarität und Zusammenarbeit unter den neu emanzipierten Völkern immer offensichtlicher. Da wir uns der Gefahr bewusst sind, in der sich schnell verändernden globalen Szene neutral zu bleiben, haben unsere Genossen von [From.GetNameDef] darum gebeten, der [ROOT.GetFactionName] beizutreten. Die Annahme dieses Antrags würde unseren Einfluss in Asien vergrößern, doch Stimmen, die anderer Meinung sind, haben vor einer Verwicklung in unnötige ausländische Angelegenheiten gewarnt."
+beng.139.a: "Wir begrüßen unsere [From.GetAdjectiveCap]-Kameraden."
+beng.139.b: "Das ist unnötig, lehnen wir ihren Antrag ab."
+
 beng.200.t: "Die Wahl der Hauptstadt von [ROOT.GetNameDef]"
 beng.200.d.RAJ: "Jetzt, da Indien endlich vereint ist, ist es an der Zeit, das Land neu aufzubauen und zu entscheiden, wo die Hauptstadt des Landes liegen soll. Lahore hat uns zwar gute Dienste geleistet, aber es könnte klug sein, nach Delhi zurückzukehren, wo die Infrastruktur und die Möglichkeiten, es zu einem Wirtschaftszentrum zu machen, seit 1911 aufgebaut worden waren. Alternativ können wir auch nach Kalkutta, der alten Hauptstadt Britisch-Indiens, zurückkehren, wo die Zeit des industriellen Wachstums unter der Bharatiya-Kommune und die Nähe zur Küste einen nützlichen Vorteil für Indiens Handel mit dem Rest der Welt darstellen könnten. Hyderabad im Herzen Südindiens wurde 1591 gegründet und hat sich in den letzten Jahrzehnten zu einem kulturellen Zentrum entwickelt. Oder wir können uns dafür entscheiden, in Lahore zu bleiben, das unsere vorläufige Hauptstadt geblieben ist, während wir den Rest des Landes langsam integrieren und von reaktionären und radikalen Elementen befreien."
 beng.200.d.HND: "Jetzt, da Indien endlich vereint ist, ist es an der Zeit, das Land neu aufzubauen und zu entscheiden, wo die Hauptstadt des Landes liegen soll. Wir könnten uns für Delhi entscheiden, wo die Fortschritte bei der Umwandlung in das Zentrum der Raj-Verwaltung seit 1911 durch die britische Revolution unterbrochen wurden, obwohl es eine Erinnerung an unsere koloniale Vergangenheit ist. Das 1591 gegründete Hyderabad im Herzen Südindiens hingegen hat sich in den letzten Jahrzehnten zu einem kulturellen Zentrum entwickelt. Ein Umzug an einen dieser Orte könnte zwar dazu beitragen, die Unterstützung der Bevölkerung zu gewinnen, doch diese muss die Vorteile des Sozialismus unter unserem Führer [ROOT.GetLeader] erst noch begreifen. Ein Aufenthalt in Kalkutta, der Heimat der Revolution, wäre auch für kommende Generationen symbolisch. Die Ostfront der Dritten Internationale wird hier beginnen!"
@@ -845,6 +840,10 @@ beng.200.a: "Die ehemalige Hauptstadt, Delhi"
 beng.200.b: "Kehren wir zurück in die alte, bengalische Hauptstadt"
 beng.200.c: "Es ist Zeit für Hyderabad zu glänzen"
 beng.200.d: "Wir sollten bleiben, wo wir jetzt sind"
+
+### Decisions ###
+
+Join_HNDs_faction_decision: "Treten Sie der Östlichen Syndikalistischen Union bei"
 
 ### Characters ###
 HND_lala_lajpat_rai: "Lala Lajpat Rai"

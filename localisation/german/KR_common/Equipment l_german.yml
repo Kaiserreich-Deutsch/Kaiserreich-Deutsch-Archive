@@ -6828,6 +6828,9 @@ MEX_infantry_equipment_3_desc: "Das Fusil de Asaulto Modell 1943 ist der neueste
 MEX_support_weapons: "Madsen MG & Stokes mortar"
 MEX_support_weapons2: "Mendoza C-1934 & Brandt Mle 27/31"
 MEX_support_weapons3: "Hotchkiss 26/37 & M1 mortar"
+MEX_artillery_equipment_1: "Canon de 75 Mle 1915 Saint-Chamond-Mondragon"
+MEX_artillery_equipment_1_short: "Saint Chamond Mondragón 75mm"
+MEX_artillery_equipment_1_desc: "Die 'Saint Chamond-Mondragón' wurde in den 1890er Jahren von Mexiko auf ausdrücklichen Wunsch des mexikanischen Armeegenerals Manuel Mondragón entworfen und in Auftrag gegeben, aber aufgrund der begrenzten Möglichkeiten der mexikanischen Industrie wurde sie in Frankreich von der französischen Waffenfabrik 'Saint-Chamond' hergestellt und dann nach Mexiko exportiert. Die Modele 1915 ist eine verbesserte Version der von der mexikanischen Armee häufig verwendeten Waffe."
 
 ### Railroad ###
 MEX_train_equipment_1: "Nacional de Mexico HR-02"

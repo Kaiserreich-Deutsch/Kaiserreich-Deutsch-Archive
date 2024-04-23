@@ -306,7 +306,6 @@
  
  PER_guide: "§MZorn des kadscharischen Löwen§! (§PPaternale Autokraten§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza die Flucht ergreifen.\n£white_dot Entsendet im nachfolgenden Event Loyalisten in die Madschlis.\n\n§MVerstärkter Konstitutionalismus§! (§gAutoritäre Demokratie§! / §SSozialdemokraten§! / §cSozialkonservative§! / §lSozialliberale§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza im Land bleiben.\n£white_dot Tut im nachfolgenden Event nichts.\n£white_dot Für Schah Hamid Mirza: Anstatt nichts zu tun, entsendet Loyalisten in die Madschlis, ermordet den Schah und schließt dann Frieden.\n\n§MLang lebe die Revolution!§! (§RRadikale Sozialisten§! / §SSozialdemokraten§! / §cSozialkonservative§! / §lSozialliberale§! / §mMarktliberale§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza die Flucht ergreifen.\n£white_dot Tut im nachfolgenden Event nichts.\n£white_dot Für eine radikal-sozialistische Republik: Wählt eine sozialistische Republik.\n£white_dot Für eine demokratische Republik: Erlaubt den Demokraten, eine Republik zu formen."
 
-
 ### Events ###
  pers.2.t: "Der Schah ist tot!"
  pers.2.d: "Heute Morgen wurde das Volk darüber informiert, dass Ahmad Schah Qajar verstorben ist. Seitdem er vor einigen Jahren von einem sozialistischen Attentäter angeschossen wurde, befand er sich in einem gesundheitlich schlechtem Zustand. Diese alte Verletzung und der Stress, der mit seiner Regierungsposition einhergeht, haben letztlich zu seinem Tode geführt. Hassan Mirza, Ahmads Bruder und Erbe des Sonnenthrons, hat daraufhin die Macht übernommen, doch schon jetzt hat ein Machtkampf zwischen den verschiedenen Fraktionen unserer Nation begonnen. Mirza selbst hat große Ambitionen für die Dynastie der Kadscharen, was die Politiker der Madschlis verunsichert. Die Sozialisten, eine politische Gruppierung, die vor einigen Jahren verboten wurde, könnten ebenfalls versuchen, nach der Macht zu greifen.\n\nDerzeit ist jedoch die einzige Frage, ob Hassan Mirza aus Sicherheitsgründen das Land verlassen oder doch in der Hauptstadt verweilen sollte."
@@ -581,20 +580,6 @@
  pers.63.t: "Eine sozialistische Allianz mit der [HND.GetNameDefCap]?"
  pers.63.d: "Als eine der wichtigsten sozialistischen Nationen Asiens wäre die [HND.GetNameDefCap] sicherlich dazu bereit, zusammen mit uns ein Bündnis der sozialistischen Staaten Asiens zu formen. Dies würde es uns außerdem erlauben, das Land der Indischen Dominion zwischen uns aufzuspalten."
  pers.63.a: "Zusammen werden wir stärker sein!"
-
- pers.64.t: "[PER.GetNameDefCap] strebt ein Bündnis an"
- pers.64.d: "[PER.GetNameDefCap] hat sich uns mit der Idee eines Bündnisses genähert. Wir beide gehören zu den stärksten sozialistischen Nationen Asiens, und laut den Persern sollten wir uns deshalb gegenseitig dabei helfen, die Revolution zu verbreiten."
- pers.64.a: "Zusammen werden wir stärker sein!"
- pers.64.b: "Wir brauchen sie nicht!"
-
- pers.65.t: "Die [HND.GetNameDefCap] nimmt unser Angebot an"
- pers.65.d: "Die [HND.GetNameDefCap] hat der Idee eines Bündnisses zugestimmt und sich für eine Zusammenarbeit gegen die Indische Dominion ausgesprochen. Nun ist die Zeit des Krieges gekommen!"
- pers.65.a: "Für den Sozialismus!"
-
- pers.66.t: "Die [HND.GetNameDefCap] lehnt unser Angebot ab"
- pers.66.d: "Die [HND.GetNameDefCap] war von unserer Idee eines Bündnisses der sozialistischen Staaten Asiens nicht sonderlich angetan und hat unser Angebot abgelehnt. Wir könnten der Indischen Dominion zwar immer noch den Krieg erklären, dies wäre allerdings äußerst riskant."
- pers.66.a: "Wir kämpfen dennoch weiter!"
- pers.66.b: "Wir können es nicht allein mit der Welt aufnehmen."
 
  pers.67.t: "[PER.GetNameDefCap] fordert Bahrain"
  pers.67.d: "[PER.GetNameDefCap] hat uns ein Ultimatum gesandt, in welchem gefordert wurde, dass wir die Insel Bahrain sofort aufgeben und die Kontrolle an sie übertragen. Der [PER.GetAdjective]e Anspruch auf Bahrain ist nun schon Jahrhunderte alt, doch die [PER.GetAdjective]e Regierung spricht noch immer leidenschaftlich von der Rückeroberung "verlorenen Landes". Sollten wir ihnen die Insel nicht überlassen, werden sie wohl versuchen, unserer Herrschaft über Bahrain auf militärischem Wege ein Ende zu bereiten."

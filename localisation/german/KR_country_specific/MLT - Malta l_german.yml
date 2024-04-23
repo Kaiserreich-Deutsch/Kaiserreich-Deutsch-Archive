@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 ### Country Names ###
 MLT: "Malta"
@@ -38,7 +38,7 @@ MLT_enrico_mizzi: "Enrico Mizzi"
 malta.1.t: "Eine Union mit Italien?"
 malta.1.d: "In den letzten Jahrzehnten hat sich für unsere kleine Nation viel verändert. Vor der britischen Revolution waren wir über 100 Jahre lang eine Kolonie der britischen Krone und dienten als wichtiger strategischer Stützpunkt für die königliche Marine - doch als Großbritannien fiel, konnten unsere Oberherren es nicht länger rechtfertigen, Truppen auf unseren Inseln zu unterhalten, und baten die Regierung von Algier, diese Rolle an ihrer Stelle zu übernehmen.\n\nAber jetzt ist unsere Nation zum ersten Mal seit über einem Jahrhundert ein souveräner Staat, wenn auch noch unter der Schirmherrschaft einer anderen Macht. Während sich einige über die Aussicht auf Unabhängigkeit freuen, sind andere angesichts der angespannten Weltlage nervös geworden - während unsere neuen Beschützer versprochen haben, uns gegen alle Feinde zu verteidigen, gibt es in unserer Regierung Bestrebungen für eine Art Föderation mit unseren Verbündeten in [italy.GetNameDef]. Die Malteser haben zwar eine andere Sprache und Kultur als die Italiener, aber es gibt genug kulturelle Verbindungen, um die Idee in den Bereich des Möglichen zu rücken, zumindest so lange, bis die Welt eine weniger gefährliche Phase erreicht hat - sollten wir den Antrag stellen?"
 malta.1.a: "Ja, wir sollten [italy.GetNameDef] um Schutz bitten."
-malta.1.b: "Ja, wir sollten [ROOT.Overlord.GetNonIdeologyNameDef] bitten, eine Union zu genehmigen."
+malta.1.b: "Ja, wir sollten [ROOT.overlord.GetNonIdeologyNameDef] bitten, eine Union zu genehmigen."
 malta.1.c: "Nein - Malta wird für sich selbst verantwortlich sein."
 
 malta.2.t: "Malta strebt eine Union mit Italien an"

@@ -438,8 +438,8 @@ SER_naval_investments_desc: "Die Regierung investiert erhebliche Mittel in den S
  SER_remove_nedic_desc: "Die Nedić-Brüder sind einer der wichtigsten Befehlshaber der serbischen Armee, und während Milan zu einflussreich ist, um abgesetzt zu werden, ist sein Bruder Milutin noch angreifbar. Wir können einen Hokuspokus darüber veranstalten, dass seine Rolle bei der Reform der Luftwaffe unzureichend war, ihn auf einen weniger wichtigen Posten versetzen und an seiner Stelle neue, loyale Offiziere befördern."
  SER_remove_ilic: "Bogoljub Ilić absetzen"
  SER_remove_ilic_desc: "Bogoljub Ilić ist, wie wir vermuten, einer der Anführer des Geheimbundes Konspiracija, aber wegen seiner offensichtlichen ideologischen Dissonanz ist er in den folgenden Jahren mit vielen seiner Kollegen in der Armee in Konflikt geraten. Wir können diese Spannungen verschärfen und die nötige kritische Masse zusammenbringen, um ihn von seinem Posten zu entfernen und neue loyale Offiziere einzuschleusen."
- SER_remove_vukcevic: "Dragoljub Mihailović entfernen"
- SER_remove_vukcevic_desc: "Dragoljub Mihailović ist kein Mitglied des Geheimbundes Konspiracija, aber dennoch ein beunruhigender Kommandant. Als mutmaßlicher Monarchist und Kommandant, der ständig mit dem Rest des Oberkommandos in Konflikt gerät, kann er sehr leicht abgesetzt und durch loyalere Offiziere ersetzt werden."
+ SER_remove_mihailovic: "Dragoljub Mihailović entfernen"
+ SER_remove_mihailovic_desc: "Dragoljub Mihailović ist kein Mitglied des Geheimbundes Konspiracija, aber dennoch ein beunruhigender Kommandant. Als mutmaßlicher Monarchist und Kommandant, der ständig mit dem Rest des Oberkommandos in Konflikt gerät, kann er sehr leicht abgesetzt und durch loyalere Offiziere ersetzt werden."
 
 #Decisions to deal with terrorism as a puppet
  SER_fighting_domestic_enemies: "Innerstaatliche Feinde bekämpfen"
@@ -1953,9 +1953,9 @@ serbia.39.d.ENT: "Es scheint, dass unsere Versuche, sich der [From.GetFactionNam
  serbia.39.a: "Wieder einmal Verbündete!"
  serbia.39.b: "Hoffen wir, dass die andere Seite der Schützengräben einladender ist..."
 
-serbia.40.t: "[From.GetNameDefCap] löst den Belgrader Pakt auf"
-serbia.40.d.default: "Wir haben heute eine dringende Nachricht von [From.GetNameDef] erhalten. Nach den jüngsten diplomatischen Verhandlungen haben [From.GetAdjectiveCap]-Beamte beschlossen, den Belgrader Pakt aufzulösen, mit der Begründung, dass sich die Situation in Europa unermesslich verändert hat und ein kleines regionales Bündnis den Balkan nicht mehr vor äußeren Bedrohungen schützen kann. Sie haben uns angefleht, ihrem Beispiel zu folgen und Schutz bei größeren Mächten zu suchen, und haben sich für die Situation entschuldigt."
- serbia.40.d.alliance: "Eine wichtige Nachricht hat uns heute erreicht - [From.GetNameDef] hat den Belgrader Pakt offiziell aufgelöst und ein Bündnis mit [future_serbian_ally.GetNameDef] angekündigt. Es scheint, dass der Belgrader Pakt zwar nützlich war, um regionale Bedrohungen auf dem Balkan einzudämmen, dass er aber letztlich nicht in der Lage sein würde, sich allein gegen die Großmächte in Westeuropa zu behaupten, weshalb [From.GetNameDef] beschlossen hat, sich der [future_serbian_ally.GetFactionName] anzuschließen. Die Frage, die sich nun stellt, ist, ob wir ihnen folgen oder stattdessen unseren eigenen Weg gehen."
+serbia.40.t: "[THIS.faction_leader.GetNameDefCap] löst den Belgrader Pakt auf"
+serbia.40.d.default: "Wir haben heute eine dringende Nachricht von [THIS.faction_leader.GetNameDef] erhalten. Nach den jüngsten diplomatischen Verhandlungen haben [THIS.faction_leader.GetNameDefCap]-Beamte beschlossen, den Belgrader Pakt aufzulösen, mit der Begründung, dass sich die Situation in Europa unermesslich verändert hat und ein kleines regionales Bündnis den Balkan nicht mehr vor äußeren Bedrohungen schützen kann. Sie haben uns angefleht, ihrem Beispiel zu folgen und Schutz bei größeren Mächten zu suchen, und haben sich für die Situation entschuldigt."
+ serbia.40.d.alliance: "Eine wichtige Nachricht hat uns heute erreicht - [THIS.faction_leader.GetNameDef] hat den Belgrader Pakt offiziell aufgelöst und ein Bündnis mit [future_serbian_ally.GetNameDef] angekündigt. Es scheint, dass der Belgrader Pakt zwar nützlich war, um regionale Bedrohungen auf dem Balkan einzudämmen, dass er aber letztlich nicht in der Lage sein würde, sich allein gegen die Großmächte in Westeuropa zu behaupten, weshalb [THIS.faction_leader.GetNameDef] beschlossen hat, sich der [future_serbian_ally.GetFactionName] anzuschließen. Die Frage, die sich nun stellt, ist, ob wir ihnen folgen oder stattdessen unseren eigenen Weg gehen."
  serbia.40.a: "Es ist Zeit, unseren eigenen Weg zu gehen."
  serbia.40.b: "Kontaktieren Sie [future_serbian_ally.Capital.GetCapitalVictoryPointName] und bitten Sie um ein Bündnis."
 
@@ -2781,6 +2781,9 @@ SER_republic_syndicalist_DEF: "die Serbische Sozialistische Republik"
  SER_petar_kosic: "Petar Kosić"
  SER_dragomir_stojanovic: "Dragomir Stojanović"
  SER_navy_army_command: "Unter dem Kommando der Armee"
+ SER_zdenko_ulepic: "Zdenko Ulepić"
  SER_arso_jovanovic: "Arsenije Jovanović"
+
+ SER_dusko_popov: "Duško Popov"
 
  SER_event_only: "Kann nur durch ein Ereignis hinzugefügt werden."

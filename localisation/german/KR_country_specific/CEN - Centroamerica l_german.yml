@@ -1252,7 +1252,6 @@ CEN_naval_carrier_desc: "Wenn man endlich das Fachwissen hat, um einen Flugzeugt
 CEN_join_internationale: "Beitritt zur Internationalen"
 CEN_join_internationale_desc: "Wir haben endlich alle nationalen Angelegenheiten in Ordnung gebracht und können schauen, was wir für den Rest der Welt tun können. Die Internationale unterstützt unsere Werte und wir müssen uns ihnen anschließen, wenn wir wollen, dass der Sozialismus in diesen turbulenten Zeiten Erfolg hat!"
 
-
 ### Events
 
 centro.001.t: "Gründung des Zentralamerikanischen Kongresses"
@@ -1438,13 +1437,11 @@ CEN_spread_light_idea: "Das Licht Gottes verbreiten"
 CEN_small_man_idea: "Für den kleinen Mann"
 CEN_edu_reform_idea: "Bildungsreformen"
 CEN_agri_reform_idea: "Agrarreformen"
-CEN_trade_idea: "Förderung des Handels"
 CEN_cash_crop_idea: "Der Exportfrüchte-Boom"
 CEN_self_suff_idea: "Selbstversorgung"
 CEN_pop_defense_idea: "Verteidigung des Volkes"
 CEN_agri_reform_idea2: "Agrarreformen"
 CEN_agri_reform_idea3: "Agrarreformen"
-CEN_trade_idea: "Förderung des Handels"
 CEN_cash_crop_idea2: "Der Exportfrüchte-Boom"
 CEN_budget_idea: "Angepasster Haushalt"
 CEN_farm_to_fact_idea: "Von den Bauernhöfen zu den Fabriken"
@@ -1707,6 +1704,7 @@ CENmil_embargo_trade: "Unter Embargo"
 CENmil_somoza_visited: "Offizieller Besuch von Präsident Somoza"
 
 ### TOOLTIPS ###  ### Yes, I accidently switched from . to _ mid-way through, oops
+
 cenmil_congress_events_tt: "§CWährend dieses Schwerpunkts wird der Militärkongress über die Zukunft der Union debattieren, Minister und Politiker wählen und den ersten Präsidenten bestimmen.§!\n"
 cenmil_people_not_happy.tt: "§RDas Volk ist mit unserer Entscheidung nicht einverstanden.§!\n"
 CENmil_laissez_faire.tt: "§CDie Regierung wird eine Laissez-faire-Wirtschaftspolitik verfolgen, die die Vorteile ausländischer und unternehmerischer Investitionen auf Kosten der Fähigkeit der Regierung, entscheidend in die Wirtschaft einzugreifen, erhöhen wird.§!\n"
@@ -2227,7 +2225,7 @@ CENmil_infrastructure_fund_desc: "In Mittelamerika gibt es keine großen Straße
 CENmil_portuary_expansion: "Erweiterung unserer Häfen"
 CENmil_portuary_expansion_desc: "Der wichtigste Wirtschaftszweig Zentralamerikas ist nach wie vor der Export von Agrarprodukten. Um unsere Exportkapazitäten und damit auch die Gewinne zu steigern, müssen wir unsere Häfen ausbauen, damit große Frachtschiffe dort ankern können. Diese Häfen könnten auch für die ARCA von Nutzen sein."
 CENmil_world_exports: "Der Weltmarkt"
-CENmil_world_exports_desc: "Unser Agrarsektor wächst unaufhaltsam, und unsere Exporte haben Rekordwerte erreicht. Mit dem Zugang zum gesamten Weltmarkt werden unsere Landwirte in der Lage sein, ihre Erzeugnisse mit großem Gewinn auf den Märkten von Sofia und Kiew, Tokio und Sydney zu verkaufen."
+CENmil_world_exports_desc: "Unser Agrarsektor wächst unaufhaltsam, und unsere Exporte haben Rekordwerte erreicht. Mit dem Zugang zum gesamten Weltmarkt werden unsere Landwirte in der Lage sein, ihre Erzeugnisse mit großem Gewinn auf den Märkten von Sofia und [202.GetName], Tokio und Sydney zu verkaufen."
 CENmil_roads_and_rails: "Straßen und Gleise"
 CENmil_roads_and_rails_desc: "Unsere Wirtschaft wächst schnell, aber die schlechte Infrastruktur in Zentralamerika hält unsere Wachstumsrate in Grenzen. Die Regierung hat ein neues umfangreiches Programm "Straßen und Schienen" aufgelegt, das einen Teil der Haushaltsmittel für Infrastrukturprojekte zur Verbindung der verschiedenen Regionen Zentralamerikas bereitstellt."
 CENmil_infrastructural_profits: "Infrastrukturelle Gewinne"

@@ -1191,6 +1191,13 @@ csa.204.a: "Wir werden diese Terroristen vernichten"
  csa.1003.a: "Nieder mit den Zentralisten, lang lebe\n[CSA_GetButlerOrCarlsonName]!"
  csa.1003.b: "Der Würgegriff der Revolution lockert sich, wenn\nauch nur leicht."
 
+# Companies
+ CSA_kr_auto_ordnance_company: "Auto-Ordnance Cooperative"
+ CSA_kr_colt: "Colt Arms Syndicate"
+ CSA_kr_western_cartridge_company: "Alton Workers' Defence"
+ CSA_kr_ingalls_shipbuilding: "Pascagoula Shipbuilding"
+ CSA_kr_northrop_corporation: "Northrop Cooperative"
+
 ### Characters ###
  CSA_earl_browder: "Earl Russell Browder" 
  CSA_earl_browder_leader_desc: "§YAnführer Beschreibung\nGeboren:§! May 20th, 1891, in Wichita, Kansas, United States of America\n§YPolitische Karriere:§! Browder wurde im Alter von 16 Jahren zum überzeugten Sozialisten. Seine Treue zur Sozialistische Partei von Amerika war unerschütterlich, und durch eine frühe Freundschaft mit William Foster wurde er Syndikalist. Im Laufe der Jahre begannen die beiden Männer, sich auseinander zu leben. Während Foster eine autoritäre Form des Syndikalismus befürwortete, sah Browder immer mehr Grenzen der Bewegung. Die amerikanische Revolution hat seiner Meinung nach bewiesen, dass die gleichen Überzeugungen und Strategien, die in Europa angewandt wurden, nicht auf Amerika übertragbar sind. Seine neue Wirtschaftspolitik ist vom Bolschewismus, von Neuinterpretationen des Maximismus und von einer Fülle origineller Gedanken inspiriert. Browder will auch den anhaltenden Trend der Industriegewerkschaften im Kongress beenden und lüsterne religiöse Elemente im sozialistischen Staat verfolgen. Browder hat die Sozialistische Partei von Amerika nie im Stich gelassen, aber mit seiner neuen autoritären Position will er sicherstellen, dass die Partei ihn nie im Stich lassen wird."
@@ -1368,3 +1375,7 @@ csa.204.a: "Wir werden diese Terroristen vernichten"
  CSA_willis_henry_hale: "Willis Henry Hale"
  CSA_bessie_coleman: "Bessie Coleman"
  CSA_eddie_august_henry_schneider: "Eddie August Henry Schneider"
+
+ CSA_freda_josephine_baker: "Freda Josephine Baker"
+ CSA_lucille_desiree_ball: "Lucille Désirée Ball"
+ CSA_lee_pressman: "Lee Pressman"

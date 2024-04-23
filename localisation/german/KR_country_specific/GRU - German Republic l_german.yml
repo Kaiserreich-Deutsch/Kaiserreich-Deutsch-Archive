@@ -143,6 +143,7 @@ GRU_empire_national_populist_ADJ: "German"
 GRU_empire_national_populist_DEF: "das Deutsches Reich"
 
 ### Focus Tree ###
+German_Puppet_focus: "Schwerpunktbaum von Marionette Deutschland"
 
 GRU_risen_from_ruins: "Auferstanden aus den Trümmern"
 GRU_begin_GCC: "Öffner den GCC"
@@ -332,5 +333,4 @@ GRU_internationale_planes: "Internationale Flugzeuge"
 GRU_begin_GCC_tt: "Der Konvent des Generalrats wird beginnen."
 GRU_KAPD_election_tt: "KAPD-Wahlen entscheiden, wer die zivile Regierung führen wird."
 GRU_free_elections_tt: "In Deutschland werden Wahlen abgehalten. Der Sieger wird auf der Grundlage der Ideologie des deutschen Oberherrn bestimmt."
-GRU_wargoals_tt: "Wir werden ein §YKriegsziel§! für alle anderen deutschen Staaten erhalten."
 GRU_independence_tt: "Die Gewährung der Unabhängigkeit wird es Deutschland ermöglichen, die Wiedervereinigung ohne unsere Vermittlung zu verfolgen."

@@ -1,6 +1,6 @@
 ﻿l_german:
 ##Übersetzer: Itzylol#2163 ##
- dominican_focus: "Dominikanische Republik Fokusbaum"
+ dominican_focus: "Schwerpunktbaum von Dominikanische Republik"
 
 ### Parties ###
  DOM_totalist_party: "Totalista"
@@ -550,7 +550,7 @@
 #domrep.26 removed
 
  domrep.27.t: "Besondere Wahlen"
- domrep.27.d_1: "Ohne eine Art von Demokratie, wird das Volk sicherlich zunehmend unruhig. Um diese Umvermeidbarkeit zu verhindern, muss sogar das höchste Amt gewählt werden. Allerdings muss jeder Kandidat nicht nur akzeptable sein, sondern auch von den höchsten Ämtern der Partei gezogen werden. Am Ende wurden 2 Kandidaten für die Wahlen genehmigt. Pilindo Bonetti Burgos, ein Anwalt und eine kulturelle Ikone, und General Ramon Vasquez Rivera, beide unter dem Banner der Dominikanischen Partei."
+ domrep.27.d_1: "Ohne eine Art von Demokratie, wird das Volk sicherlich zunehmend unruhig. Um diese Umvermeidbarkeit zu verhindern, muss sogar das höchste Amt gewählt werden. Allerdings muss jeder Kandidat nicht nur akzeptable sein, sondern auch von den höchsten Ämtern der Partei gezogen werden. Zu diesem Zweck wurden zwei Kandidaten für die Wahl zugelassen: Carlos Manuel 'Pilindo' Bonetti Burgos, ein Anwalt und kulturelle Ikone, und General Ramon Vasquez Rivera, beide unter der Fahne der Dominikanischen Partei."
  domrep.27.d_2: "Einige schlugen vor, die oft lästige Legislative und vielleicht auch jeden Anschein von Demokratie ganz abzuschaffen, aber die Kosten eines solchen Schrittes waren einfach zu hoch. Um unserer Regierung Legitimität zu verleihen, wurden Wahlen für das Präsidentenamt organisiert. Ursprünglich sollte General Ramon Vasquez Rivera mit Trujillos Einverständnis ohne Gegenkandidaten antreten, doch beschloss Trujillo bald darauf, seine eigene Kandidatur bekannt zu geben, sehr zum Leidwesen anderer Offiziere, die seine immer noch etwas dominante Stellung sowohl in zivilen als auch in militärischen Angelegenheiten fürchteten."
  domrep.27.a: "Gehe mit Bonetti."
  domrep.27.b: "Rivera."
@@ -612,7 +612,7 @@
 
  domrep.34.t: "Auswahl eines Schlichters"
  domrep.34.d: "Während die Auswirkung der Monte Cristi-Affäre weiterhinn steigt, wird es eindeutig, dass wir die Dominikaner nicht ohne ausländische Hilfe herausfordern können."
- domrep.34.a: "[?HAI.faction_leader.GetNameDef]"
+ domrep.34.a: "[HAI.faction_leader.GetNameDef]"
  domrep.34.b: "Die Amerikaner waren immer ein fairer Schlichter."
 
  domrep.36.t: "Haiti Droht Den Krieg!"
@@ -914,8 +914,8 @@
  DOM_manuel_troncoso_concha: "Manuel Troncoso Concha"
  DOM_manuel_troncoso_concha_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 3. April 1878, in Santo Domingo, Dominikanische Republik\n§YPolitische Karriere:§! Manuel Troncoso Concha, früher ein Anwalt für kleine Unternehmen, kam an die öffentliche Bekanntheit durch seine Verbindungen mit General Rafael Trujillo. Oftmals beschuldigt, ein bisschen mehr als nur eine Puppe für Trujillo zu sein. Troncoso's Schicksal, trotz der Ablehnung dieser Beschuldigungen, wurde unaufhaltsam verbunden mit dem des Generals."
 
- DOM_pilindo_bonetti_burgos: "Pilindo Bonetti Burgos"
- DOM_pilindo_bonetti_burgos_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 17. September 1900, in Santo Domingo, Dominikanische Republik\n§YPolitische Karriere:§! Ein aufstrebender Anwalt, talentierter Baseballspieler, und der produktivste Gönner des Sportes in der Dominikanischen Republik. Trotz seines jungen Alters, schlug sich Pilindo Bonetti früh an Trujillos Seite, und verkündete seine Unterstützung für den General vor bei mehreren Gelegenheiten vor schwanzwedelnden Menschenmengen. Jetzt, nachdem er eine Präsidentschaftswahl gewonnen hat der wenig Illusionen über Fairness oder Freiheit machte, macht Bonetti die Angebote des Generals etwas mehr als nur eine Puppe und gibt sein bestes um die Illusion einer Demokratie in der Dominikanischen Republik zu erschaffen."
+ DOM_carlos_manuel_bonetti_burgos: "Carlos Manuel Bonetti Burgos"
+ DOM_carlos_manuel_bonetti_burgos_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 17. September 1900, in Santo Domingo, Dominikanische Republik\n§YPolitische Karriere:§! Ein aufstrebender Anwalt, talentierter Baseballspieler, und der produktivste Gönner des Sportes in der Dominikanischen Republik. Trotz seines jungen Alters, schlug sich Carlos Manuel 'Pilindo' Bonetti früh an Trujillos Seite, und verkündete seine Unterstützung für den General vor bei mehreren Gelegenheiten vor schwanzwedelnden Menschenmengen. Jetzt, nachdem er eine Präsidentschaftswahl gewonnen hat der wenig Illusionen über Fairness oder Freiheit machte, macht Bonetti die Angebote des Generals etwas mehr als nur eine Puppe und gibt sein bestes um die Illusion einer Demokratie in der Dominikanischen Republik zu erschaffen."
 
  DOM_rafael_trujillo_molina: "Rafael Trujillo Molina"
  DOM_rafael_trujillo_molina_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 24. Oktober 1891, in San Cristobal, Dominikanische Republik\n§YPolitische Karriere:§! Ein junger Rafael Trujillo hat die besetzenden amerikanischen Marine Corps so beeindruckt, dass er schnell in die Besatzungstruppe der Dominikanischen Armee befördert wurde. Trujillo nutzte seine Position aus um kriegsherrartige Kontrolle über das Meiste des Landes anzusammeln. Seine Macht und sein Ehrgeiz waren so groß, dass die verschiedenen Regierungen, die auf die Unabhängigkeit des Landes im Jahr 1924 folgten, einen Großteil ihrer Entscheidungen darauf gründeten, ihn an einem Griff nach der Macht zu hindern. Jetzt in voller Kontrolle über das Land, wovon er so lang wünschte, arbeitet Trujillo eng mit organisiertem Verbrechen zusammen um seine Taschen zu füllen und den Abstieg zu unterdrücken. Er will außerdem die stürmische Westgrenze unter Kontrolle bringen und die Bedrohung durch die Haitianer dort ein für alle mal eliminieren."

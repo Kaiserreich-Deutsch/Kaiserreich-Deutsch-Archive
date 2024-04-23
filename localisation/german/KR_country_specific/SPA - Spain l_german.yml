@@ -257,6 +257,7 @@
  SPA_juan_coronation_tt: "§CJuan de Borbón wird zum König von Spanien gekrönt und erhält den königlichen Namen Juan III.!§!"
  SPA_remove_claims_on_FRA_tt: "§CWenn wir uns der Entente anschließen, geben wir alle Ansprüche auf den Borbón-Thron auf.§!" #Verhindert Exploit
  SPA_francospain_tt: "§CDas Königreich Frankreich wird als Untertan unserer Nation wiederhergestellt, und die beiden Reiche werden in einer Personalunion unter der Führung unseres Königs vereint sein.§!"
+ SPA_resource_extraction_tt: "§WWenn §Y[171.GetName]§W kontrolliert wird, hat dieser Schwerpunkt die folgende Wirkung:§!§!"
  SPA_economic_miracle_tt: "§CKombiniert alle bisherigen nationalen Wirtschaftsgeiste zu einem einzigen mit Wirkung:§!"
  SPA_army_idea_tt: "§CKombiniert frühere nationale Geiste der Armee mit Wirkung zu einem einzigen:§!"
  SPA_refugee_idea_tt: "§YNach dem Ende des Weltkriegs wird dieser Flüchtlingsstrom ein Ende haben.§!"

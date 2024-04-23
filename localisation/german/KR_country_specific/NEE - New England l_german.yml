@@ -2160,9 +2160,9 @@ newengland.311.b: "Wir können diese Bedrohung nicht hinnehmen. Bereitet die Tru
 newengland.311.c: "Wir sind nicht in der Lage, einen Krieg zu führen."
 
 newengland.312.t: "[NEE.GetName] fordert die Rückgabe des Panamakanals"
-newengland.312.d.ispuppet: "Heute Morgen hat der Botschafter von [NEE.GetNameDef] im Namen seines Landes eine Petition für die Rückgabe des Panamakanals eingereicht. Während der Kanal in amerikanischer Hand war, hatten die Amerikaner während ihres chaotischen Bürgerkriegs die Kontrolle über ihn verloren. Jetzt, da die Amerikaner wieder erstarkt sind, versuchen sie erneut, die Kontrolle über diesen lebenswichtigen Landstreifen zu erlangen, der die großen Ozeane Pazifik und Atlantik miteinander verbindet. Informieren wir [OVERLORD.GetName] darüber, wie wir am besten vorgehen sollten."
+newengland.312.d.ispuppet: "Heute Morgen hat der Botschafter von [NEE.GetNameDef] im Namen seines Landes eine Petition für die Rückgabe des Panamakanals eingereicht. Während der Kanal in amerikanischer Hand war, hatten die Amerikaner während ihres chaotischen Bürgerkriegs die Kontrolle über ihn verloren. Jetzt, da die Amerikaner wieder erstarkt sind, versuchen sie erneut, die Kontrolle über diesen lebenswichtigen Landstreifen zu erlangen, der die großen Ozeane Pazifik und Atlantik miteinander verbindet. Informieren wir [THIS.overlord.GetName] darüber, wie wir am besten vorgehen sollten."
 newengland.312.d.isindependent: "Heute Morgen hat der Botschafter von [NEE.GetNameDef] im Namen seines Landes eine Petition für die Rückgabe des Panamakanals eingereicht. Während der Kanal in amerikanischer Hand war, hatten die Amerikaner während ihres chaotischen Bürgerkriegs die Kontrolle über ihn verloren. Jetzt, da die Amerikaner wieder erstarkt sind, versuchen sie erneut, die Kontrolle über diesen lebenswichtigen Landstreifen zu erlangen, der die großen Ozeane Pazifik und Atlantik miteinander verbindet. Sollen wir den Kanal behalten und einen Konflikt riskieren, oder sollen wir ihn friedlich zurückgeben?"
-newengland.312.a: "Fragen wir [OVERLORD.GetName] nach deren Meinung."
+newengland.312.a: "Fragen wir [THIS.overlord.GetName] nach deren Meinung."
 newengland.312.b: "Gebt den Kanal zurück."
 newengland.312.c: "Behaltet den Kanal!"
 
@@ -2171,9 +2171,9 @@ newengland.313.d: "Wir haben eine Nachricht aus Panama erhalten, dass [NEE.GetNa
 newengland.313.a: "Übergebt den Kanal"
 newengland.313.b: "Behaltet den Kanal"
 
-newengland.314.t: "Eine Antwort von [OVERLORD.GetName]"
-newengland.314.d1: "Es scheint, dass [OVERLORD.GetName] in Angst vor der amerikanischen Stärke möchte, dass wir eine friedliche Rückgabe des Kanals an [NEE.GetNameDef] einleiten. Obwohl viele Panamaer über diese Entscheidung verärgert sind, sind wir nicht in der Lage, Forderungen zu stellen. Bald werden die Sterne und Streifen über dem Kanal wehen und unsere kurze, aber beendete Besetzung dieses strategischen Tors anzeigen."
-newengland.314.d2: "Unsere Bedenken sind nicht unbemerkt geblieben! Trotz der amerikanischen Argumente hat die [OVERLORD.GetName] unserer Führung mitgeteilt, dass sie nicht wünscht, dass die Amerikaner den Kanal zurückerobern und in unsere Obhut übergeben werden. Dies ist ein bedeutender diplomatischer Sieg, aber einer, über den [NEE.GetNameDef] höchstwahrscheinlich verärgert sein wird."
+newengland.314.t: "Eine Antwort von [THIS.overlord.GetName]"
+newengland.314.d1: "Es scheint, dass [THIS.overlord.GetName] in Angst vor der amerikanischen Stärke möchte, dass wir eine friedliche Rückgabe des Kanals an [NEE.GetNameDef] einleiten. Obwohl viele Panamaer über diese Entscheidung verärgert sind, sind wir nicht in der Lage, Forderungen zu stellen. Bald werden die Sterne und Streifen über dem Kanal wehen und unsere kurze, aber beendete Besetzung dieses strategischen Tors anzeigen."
+newengland.314.d2: "Unsere Bedenken sind nicht unbemerkt geblieben! Trotz der amerikanischen Argumente hat die [THIS.overlord.GetName] unserer Führung mitgeteilt, dass sie nicht wünscht, dass die Amerikaner den Kanal zurückerobern und in unsere Obhut übergeben werden. Dies ist ein bedeutender diplomatischer Sieg, aber einer, über den [NEE.GetNameDef] höchstwahrscheinlich verärgert sein wird."
 newengland.314.a: "Der Kanal wird an die Amerikaner zurückgegeben."
 newengland.314.b: "Diesmal nicht, Yankee."
 
@@ -2197,7 +2197,7 @@ newengland.317.a: "Willkommen!"
 newengland.317.b: "Eine Schande."
 
 newengland.318.t: "[NEE.GetNameDef] fordert, dass wir unsere derzeitige Fraktion verlassen"
-newengland.318.d: "Ein Jahrhundert lang diktierte die so genannte \"Monroe-Doktrin\" unsere Außenpolitik, indem sie uns gegen unseren Willen der amerikanischen Sphäre unterstellte. Der Zusammenbruch der amerikanischen Nation während ihres Bürgerkriegs führte dazu, dass wir uns der Sphäre von [faction_leader.GetName] anschlossen, um Schutz und wirtschaftliche Verbindungen zu suchen. Mit dem Wiedererstarken der [NEE.GetName] haben sie jedoch ihren Wunsch geäußert, die westliche Hemisphäre unter die Sphäre und Führung Amerikas zu stellen. Sie haben gefordert, dass wir unsere derzeitige Ausrichtung aufgeben und uns ihnen anschließen - wir müssen [faction_leader.GetName] sofort über diese Forderungen informieren. Wir werden eine solche unverhohlene Aggression nicht dulden, und wir werden die mächtige Unterstützung von [faction_leader.GetName] brauchen, um unsere Unabhängigkeit zu verteidigen!"
+newengland.318.d: "Ein Jahrhundert lang diktierte die so genannte \"Monroe-Doktrin\" unsere Außenpolitik, indem sie uns gegen unseren Willen der amerikanischen Sphäre unterstellte. Der Zusammenbruch der amerikanischen Nation während ihres Bürgerkriegs führte dazu, dass wir uns der Sphäre von [faction_leader.GetName] anschlossen, um Schutz und wirtschaftliche Verbindungen zu suchen. Mit dem Wiedererstarken der [NEE.GetName] haben sie jedoch ihren Wunsch geäußert, die westliche Hemisphäre unter die Sphäre und Führung Amerikas zu stellen. Sie haben gefordert, dass wir unsere derzeitige Ausrichtung aufgeben und uns ihnen anschließen - wir müssen [faction_leader.GetName] sofort über diese Forderungen informieren. Wir werden eine solche unverhohlene Aggression nicht dulden, und wir werden die mächtige Unterstützung von [THIS.faction_leader.GetName] brauchen, um unsere Unabhängigkeit zu verteidigen!"
 newengland.318.a: "Die Amerikaner haben uns bedroht!"
 
 newengland.319.t: "[NEE.GetNameDef] verlangt, dass [FROM.GetNameDef] unsere Fraktion verlässt"
@@ -2245,8 +2245,8 @@ newengland.321.a: "Ein toller Verbündeter sind Sie!"
 
 newengland.322.t: "[NEE.GetNameDefCap] gibt nach!"
 #FROM.FROM.FROM should be the target of the decision:
-newengland.322.d1: "Letztendlich scheinen Diplomatie, Taktgefühl und Verhandlungen an diesem Tag gesiegt zu haben. Die Amerikaner werden unsere Loyalität nicht weiter erzwingen, und es ist klar, dass sie auch keine Gewalt anwenden werden, um unsere Unterwerfung unter ihre Fraktion zu fordern. Nichtsdestotrotz hat unsere Hinwendung zu [faction_leader.GetNameDef] sicherlich zu Spannungen zwischen unserer Nation und [NEE.GetNameDef] geführt."
-newengland.322.d2: "Trotz unserer Absichten zu verhandeln und [NEE.GetNameDef] anzuhören, sind unsere Rufe nach Frieden auf taube Ohren gestoßen. Wir haben die Nachricht erhalten, dass der amerikanische Botschafter in unserem Land abberufen wurde und dass tatsächlich ein Krieg zwischen der amerikanischen Nation und uns droht. Nichtsdestotrotz hat unser Verbündeter in [faction_leader.GetNameDef] zugesagt, uns zu schützen und unsere Unabhängigkeit zu garantieren. Mit unserer Allianz, die fester denn je ist, werden wir unsere Freiheit gegen die amerikanischen Invasoren verteidigen!"
+newengland.322.d1: "Letztendlich scheinen Diplomatie, Taktgefühl und Verhandlungen an diesem Tag gesiegt zu haben. Die Amerikaner werden unsere Loyalität nicht weiter erzwingen, und es ist klar, dass sie auch keine Gewalt anwenden werden, um unsere Unterwerfung unter ihre Fraktion zu fordern. Nichtsdestotrotz hat unsere Hinwendung zu [THIS.faction_leader.GetNameDef] sicherlich zu Spannungen zwischen unserer Nation und [NEE.GetNameDef] geführt."
+newengland.322.d2: "Trotz unserer Absichten zu verhandeln und [NEE.GetNameDef] anzuhören, sind unsere Rufe nach Frieden auf taube Ohren gestoßen. Wir haben die Nachricht erhalten, dass der amerikanische Botschafter in unserem Land abberufen wurde und dass tatsächlich ein Krieg zwischen der amerikanischen Nation und uns droht. Nichtsdestotrotz hat unser Verbündeter in [THIS.faction_leader.GetNameDef] zugesagt, uns zu schützen und unsere Unabhängigkeit zu garantieren. Mit unserer Allianz, die fester denn je ist, werden wir unsere Freiheit gegen die amerikanischen Invasoren verteidigen!"
 newengland.322.a: "Gemeinsam sind wir stärker!"
 
 newengland.323.t: "[FROM.GetName] zieht in den Krieg!"
@@ -2523,8 +2523,8 @@ newengland.379.a: "Wir werden seine Fortschritte beobachten!"
 newengland.380.t: "[FROM.GetNameDefCap] fordert die Wiedervereinigung"
 newengland.380.d.in_faction: "Während sich die Rauchwolken und das Knistern der Schüsse über dem amerikanischen Festland gelegt haben, haben viele [PHI.GetAdjective]-Politiker die Frage gestellt, wie die Politik von [FROM.GetName] gegenüber [PHI.GetNameDef] aussehen wird. Heute hat [FROM.GetLeader], der Anführer von [FROM.GetNameDef], in einer Radiosendung in ganz Amerika die Folgen des blutigen Bürgerkriegs angesprochen und gefordert, dass [PHI.GetNameDef] sein Bündnis mit der [ROOT.GetFactionName] aufgibt und der Republik als gleichberechtigter Partner statt als Territorium wieder beitritt. Zur gleichen Zeit ist eine kleine Gruppe von Delegierten in Manilla eingetroffen, um auf eine Antwort zu warten."
 newengland.380.d.default: "Während sich die Rauchwolken und das Knistern der Schüsse über dem amerikanischen Kontinent gelegt haben, haben viele [PHI.GetAdjective]-Politiker die Frage gestellt, ob es an der Zeit ist, in die amerikanische Sphäre zurückzukehren. Heute hat [FROM.GetLeader], der Anführer von [FROM.GetNameDef], in einer Radiosendung in ganz Amerika die Folgen des blutigen Bürgerkriegs angesprochen und darum gebeten, dass [PHI.GetNameDef] als gleichberechtigter Partner und nicht als Territorium wieder in die Republik eintritt. Zur gleichen Zeit ist eine kleine Gruppe von Delegierten in Manilla eingetroffen, um auf eine Antwort zu warten."
-newengland.380.a: "Sagt [faction_leader.GetNameDef], dass wir wieder beitreten wollen."
-newengland.380.b: "Bittet [faction_leader.GetNameDef] einzuschreiten."
+newengland.380.a: "Sagt [THIS.faction_leader.GetNameDef], dass wir wieder beitreten wollen."
+newengland.380.b: "Bittet [THIS.faction_leader.GetNameDef] einzuschreiten."
 newengland.380.c: "Wir haben keine Wahl."
 newengland.380.d: "Auf keinen Fall!"
 

@@ -571,12 +571,12 @@
  uk.58.a: "Na ja, vielleicht haben sie Recht."
 
  uk.59.t: "[FROM.GetNameDefCap] Fordert die formale Kontrolle über die [ROOT.GetFactionName]"
- uk.59.d: "Nachdem sie wieder zu einer Weltmacht aufgestiegen ist, hat [FROM.GetNameDef] darum gebeten, dass ihre Führung wieder die Kontrolle über die Entente erhält, damit sie wieder für die einheitliche Außenpolitik zuständig ist und die Kontrolle über die IDEC und ISAC erhält."
+ uk.59.d: "Nachdem sie wieder zu einer Weltmacht aufgestiegen ist, hat [FROM.GetNameDef] darum gebeten, dass ihre Führung wieder die Kontrolle über die Entente erhält, damit sie wieder für die einheitliche Außenpolitik zuständig ist und die Kontrolle über die IEDC und ISAC erhält."
  uk.59.a: "Natürlich begrüßen wir ihre erneute Führungsrolle."
  uk.59.b: "Ihre Zeit an der Spitze ist vorbei."
 
  uk.60.accepted.t: "[FROM.GetNameDefCap] Überträgt die Kontrolle über den [ROOT.GetFactionName]"
- uk.60.accepted.d: "Following discussions with the [FROM.GetAdjective] government and its military leadership the Entente has once again been placed under [ROOT.GetAdjective] control, incluNach Gesprächen mit der [FROM.GetAdjective]-Regierung und ihrer militärischen Führung wurde die Entente wieder unter die Kontrolle von [ROOT.GetAdjective] gestellt, einschließlich der Autorität über die IDEC und ISAC. Es liegt nun wieder an uns, unsere Verbündeten vorwärts zu führen, jetzt wieder von unserer rechtmäßigen Heimat aus."
+ uk.60.accepted.d: "Following discussions with the [FROM.GetAdjective] government and its military leadership the Entente has once again been placed under [ROOT.GetAdjective] control, incluNach Gesprächen mit der [FROM.GetAdjective]-Regierung und ihrer militärischen Führung wurde die Entente wieder unter die Kontrolle von [ROOT.GetAdjective] gestellt, einschließlich der Autorität über die IEDC und ISAC. Es liegt nun wieder an uns, unsere Verbündeten vorwärts zu führen, jetzt wieder von unserer rechtmäßigen Heimat aus."
  uk.60.accepted.a: "Herrsche, Britannia!"
 
  uk.60.refused.t: "[FROM.GetNameDefCap] Behält die Kontrolle über den [ROOT.GetFactionName]"
@@ -945,6 +945,8 @@
  GBR_hugh_montague_trenchard: "Hugh Montague Trenchard"
  GBR_john_frederick_charles_fuller: "John Frederick Charles Fuller"
 
+ GBR_thomas_edward_lawrence: "Thomas Edward Lawrence"
+
 ### Traits ###
  GBR_british_pm_in_exile: "Britischer PM im Exil"
  GBR_disgraced_statesman: "Entehrter Staatsmann"
@@ -964,6 +966,7 @@
  GBR_autocratic_tendencies: "Autokratische Tendenzen"
  GBR_unpopular_monarch: "Unpopulärer Monarch"
  GBR_humble: "Demütig"
+ GBR_humble_improved: "Phlegmatisch"
  GBR_popular_figurehead: "Populäre Galionsfigur"
  GBR_biddable: "Fügsam"
  GBR_army_experience: "Armee-Erfahrung"

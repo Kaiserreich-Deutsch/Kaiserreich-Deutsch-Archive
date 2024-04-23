@@ -191,7 +191,6 @@ AST_receives_corps: "Vier Milizeinheiten werden landesweit aufgestellt"
 AST_receives_maori: "Spezialinfanterieeinheit wird in Neuseeland spawnen"
 AST_radsoc_ministers_allowed_again: "Radikale sozialistische Minister werden jetzt zugelassen"
 AST_recently_made_demand: "Hat in den letzten sechs Monaten eine Gebietsanfrage gestellt"
-AST_recent_trade_mission: "Entsendet derzeit eine Handelsmission in ein anderes Land"
 AST_approached_trade: "Hat bereits eine Handelsmission erhalten"
 AST_labor_has_split: "Syndikalisten haben sich von der Arbeiterpartei abgespalten\n"
 AST_rats_of_tobruk_effect_2: "In Sydney soll eine Eliteeinheit gebildet werden"
@@ -1515,6 +1514,10 @@ AST_patrick_perry: "Patrick Perry"
 AST_arthur_samuel_allen: "Arthur Samuel Allen"
 AST_ronald_nicholas_lamond_hopkins: "Ronald Nicholas Lamond Hopkins"
 AST_william_dowling_bostock: "William Dowling Bostock"
+
+AST_nancy_grace_augusta_wake: "Nancy Grace Augusta Wake"
+AST_charles_howard_ellis: "Charles Howard 'Dick' Ellis"
+AST_roland_griffiths_marsh: "Roland Griffiths-Marsh"
 
 ### Traits ###
 AST_new_zealander: "Neuseeländer"

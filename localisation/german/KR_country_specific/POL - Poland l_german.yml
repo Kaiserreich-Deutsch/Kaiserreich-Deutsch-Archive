@@ -7,54 +7,54 @@ l_german:
 ### Übersetzt von Proho ###
 ### Parties ###
  POL_totalist_party: "KPRP"
- POL_totalist_party_long: "Komunistyczna Partia Robotnicza Polski (Polnische Kommunistische Arbeiterpartei)\n§gDie KPRP wurde im Gefolge der Russischen Revolution von polnischen Kommunisten gegründet, ihre Blütezeit war jedoch nur kurz. Nach dem Zusammenbruch Sowjetrusslands und den Erfolgen der westlichen syndikalistischen Revolutionen ist die KPRP nur noch die Hülle einer Bewegung, die in den Untergrund gedrängt wurde und selbst innerhalb der extremen Linken um ihre Bedeutung kämpft.§!"
+ POL_totalist_party_long: "Komunistyczna Partia Robotnicza Polski (Polnische Kommunistische Arbeiterpartei)\n§gDie KPRP wurde im Gefolge der Russischen Revolution von polnischen Kommunisten gegründet, ihre Blütezeit war jedoch nur kurz. Nach dem Zusammenbruch Sowjetrusslands und den Erfolgen der westlichen syndikalistischen Revolutionen ist die KPRP nur noch die Hülle einer Bewegung, die in den Untergrund gedrängt wurde und selbst innerhalb der extremen Linken um ihre Bedeutung kämpft.§!\n"
  POL_syndicalist_party: "ZZZ"
- POL_syndicalist_party_long: "Związek Związków Zawodowych (Union der Gewerkschaften)\n§gDer Kern des Revolutionären Komitees, die Union der Gewerkschaften, besteht aus anarchistischen und syndikalistischen Exilanten und Emigranten in Frankreich, die in Polen selbst Untergrundaktivitäten organisieren. Die ZZZ ist ein Versuch, die verschiedenen syndikalistisch gesinnten Gruppen unter der Führung des Vorsitzenden Kazimierz Zakrzewski zu vereinen. Der Hauptteil der ZZZ besteht aus der Piłsudskianischen Generalna Federacja Pracy (Allgemeiner Arbeiterverband) und der anarchosyndikalistischen und internationalistischen Anarchistyczna Federacja Polski (Anarchistischer Verband Polens) von Lew Marek.§!"
+ POL_syndicalist_party_long: "Związek Związków Zawodowych (Union der Gewerkschaften)\n§gDer Kern des Revolutionären Komitees, die Union der Gewerkschaften, besteht aus anarchistischen und syndikalistischen Exilanten und Emigranten in Frankreich, die in Polen selbst Untergrundaktivitäten organisieren. Die ZZZ ist ein Versuch, die verschiedenen syndikalistisch gesinnten Gruppen unter der Führung des Vorsitzenden Kazimierz Zakrzewski zu vereinen. Der Hauptteil der ZZZ besteht aus der Piłsudskianischen Generalna Federacja Pracy (Allgemeiner Arbeiterverband) und der anarchosyndikalistischen und internationalistischen Anarchistyczna Federacja Polski (Anarchistischer Verband Polens) von Lew Marek.§!\n"
  POL_radical_socialist_party: "Zentrum - PPS-L"
  POL_radical_socialist2_party: "PPS-L"
- POL_radical_socialist_party_long: "Polska Partia Socjalistyczna - Lewica (Polnische Sozialistische Partei - Die Linke)\n§gDer radikale Flügel der PPS, der von dem Anarchisten Zygmunt Zaremba angeführt wird, ist eine Minderheit innerhalb der Partei. Er fungiert als Bindeglied zwischen dem Revolutionskomitee und der gemäßigten PPS und organisiert Untergrundaktivitäten unter dem Flügel der PPS.§!"
+ POL_radical_socialist_party_long: "Polska Partia Socjalistyczna - Lewica (Polnische Sozialistische Partei - Die Linke)\n§gDer radikale Flügel der PPS, der von dem Anarchisten Zygmunt Zaremba angeführt wird, ist eine Minderheit innerhalb der Partei. Er fungiert als Bindeglied zwischen dem Revolutionskomitee und der gemäßigten PPS und organisiert Untergrundaktivitäten unter dem Flügel der PPS.§!\n"
  POL_social_democrat_party: "Zentrum - PPS"
  POL_social_democrat2_party: "PPS"
- POL_social_democrat_party_long: "Polska Partia Socjalistyczna (Polnische Sozialistische Partei)\n§gDie sozialdemokratische PPS ist eine der beiden großen Oppositionsparteien und bildet zusammen mit der Volkspartei den Zentrum-Block. Die Partei von Norbert Barlicki hat starke Sympathien für republikanische und sozialistische antimonarchistische Bewegungen, vertritt aber derzeit eine vorsichtig pragmatische Haltung gegenüber dem Königreich.§!"
- POL_social_democrat2_party_long: "Polska Partia Socjalistyczna (Polnische Sozialistische Partei)\n§gDer sozialdemokratischen PPS und ihren Verbündeten gelang es, das Königreich zu stürzen und ein neues, demokratischeres Polen zu versprechen. Sie wollen den Parlamentarismus weiter ausbauen, ein starkes soziales Sicherheitsnetz aufbauen und die Macht der polnischen Aristokratie und Wirtschaftselite einschränken.§!"
+ POL_social_democrat_party_long: "Polska Partia Socjalistyczna (Polnische Sozialistische Partei)\n§gDie sozialdemokratische PPS ist eine der beiden großen Oppositionsparteien und bildet zusammen mit der Volkspartei den Zentrum-Block. Die Partei von Norbert Barlicki hat starke Sympathien für republikanische und sozialistische antimonarchistische Bewegungen, vertritt aber derzeit eine vorsichtig pragmatische Haltung gegenüber dem Königreich.§!\n"
+ POL_social_democrat2_party_long: "Polska Partia Socjalistyczna (Polnische Sozialistische Partei)\n§gDer sozialdemokratischen PPS und ihren Verbündeten gelang es, das Königreich zu stürzen und ein neues, demokratischeres Polen zu versprechen. Sie wollen den Parlamentarismus weiter ausbauen, ein starkes soziales Sicherheitsnetz aufbauen und die Macht der polnischen Aristokratie und Wirtschaftselite einschränken.§!\n"
  POL_social_liberal_party: "Zentrum - PSL"
  POL_social_liberal2_party: "PSL"
- POL_social_liberal_party_long: "Polskie Stronnictwo Ludowe (Polnische Volkspartei)\n§gDie zweite Hälfte von Zentum ist die Volkspartei, die aus dem Zusammenschluss mehrerer populistischer, liberaler und landwirtschaftlicher Parteien hervorgegangen ist. Die Partei von Maksymilian Malinowski, die enge Beziehungen zu ihrem Pendant in Galizien unterhält, dient als Hauptträger des Republikanismus, auch wenn sie derzeit eine pragmatische Haltung gegenüber der Monarchie einnimmt.§!"
- POL_social_liberal2_party_long: "Polskie Stronnictwo Ludowe (Polnische Volkspartei)\n§gDie ursprünglich aus mehreren populistischen, liberalen und landwirtschaftlichen Parteien gebildete Volkspartei hat nach der Kleeblattrevolution erfolgreich die Macht errungen und ist nun in der Lage, das von ihr versprochene Polen aufzubauen, in dem Bauern, Priester und Herren vor dem Gesetz gleich sind.§!"
+ POL_social_liberal_party_long: "Polskie Stronnictwo Ludowe (Polnische Volkspartei)\n§gDie zweite Hälfte von Zentum ist die Volkspartei, die aus dem Zusammenschluss mehrerer populistischer, liberaler und landwirtschaftlicher Parteien hervorgegangen ist. Die Partei von Maksymilian Malinowski, die enge Beziehungen zu ihrem Pendant in Galizien unterhält, dient als Hauptträger des Republikanismus, auch wenn sie derzeit eine pragmatische Haltung gegenüber der Monarchie einnimmt.§!\n"
+ POL_social_liberal2_party_long: "Polskie Stronnictwo Ludowe (Polnische Volkspartei)\n§gDie ursprünglich aus mehreren populistischen, liberalen und landwirtschaftlichen Parteien gebildete Volkspartei hat nach der Kleeblattrevolution erfolgreich die Macht errungen und ist nun in der Lage, das von ihr versprochene Polen aufzubauen, in dem Bauern, Priester und Herren vor dem Gesetz gleich sind.§!\n"
  POL_market_liberal_party: "MKP"
- POL_market_liberal_party_long: "Międzypartyjne Koło Polityczne (Überparteilicher politischer Zirkel)\n§gDie MKP wurde 1915 aus gemäßigten nationaldemokratischen und liberalen Parteien gegründet und beschloss, mit den Mittelmächten zusammenzuarbeiten. Sie ist ein Zusammenschluss der Demokratisch-Nationalen Partei, der Partei der Realpolitik, der Polnischen Fortschrittspartei, der Partei der Polnischen Staatlichkeit und einer Reihe anderer Organisationen. Die Partei fungiert als Vertreterin der Mitte in der polnischen Politik. Sie gilt als sozial konservativ, wirtschaftlich liberal und konstitutionell und wird insbesondere von der Mittelschicht und der Wirtschaft unterstützt.§!"
+ POL_market_liberal_party_long: "Międzypartyjne Koło Polityczne (Überparteilicher politischer Zirkel)\n§gDie MKP wurde 1915 aus gemäßigten nationaldemokratischen und liberalen Parteien gegründet und beschloss, mit den Mittelmächten zusammenzuarbeiten. Sie ist ein Zusammenschluss der Demokratisch-Nationalen Partei, der Partei der Realpolitik, der Polnischen Fortschrittspartei, der Partei der Polnischen Staatlichkeit und einer Reihe anderer Organisationen. Die Partei fungiert als Vertreterin der Mitte in der polnischen Politik. Sie gilt als sozial konservativ, wirtschaftlich liberal und konstitutionell und wird insbesondere von der Mittelschicht und der Wirtschaft unterstützt.§!\n"
  POL_social_conservative_party: "ChZJN"
- POL_social_conservative_party_long: "Chrześcijański Związek Jedności Narodowej (Christliche Union der Nationalen Einheit)\n§gEin Bündnis aus christdemokratischen und nationaldemokratischen Parteien, die mit dem wirtschaftsliberalen Ansatz der MKP und der pro-deutschen Außenpolitik nicht einverstanden sind. Die ChZJN oder Chjena tritt für die nationale Demokratie und die katholische Soziallehre ein und strebt, obwohl sie der Monarchie gegenüber pragmatisch ist, eine größere Unabhängigkeit Polens mit rechtlichen Mitteln an.§!"
- POL_social_conservative2_party_long: "Chrześcijański Związek Jedności Narodowej (Christliche Union der Nationalen Einheit)\n§gDie zutiefst katholische und nationalistische ChZJN, ein Bündnis aus christdemokratischen und nationaldemokratischen Parteien, will die traditionelle soziale Hierarchie Polens, die Unabhängigkeit und die Stellung der Kirche als Seele der Nation schützen.§!"
+ POL_social_conservative_party_long: "Chrześcijański Związek Jedności Narodowej (Christliche Union der Nationalen Einheit)\n§gEin Bündnis aus christdemokratischen und nationaldemokratischen Parteien, die mit dem wirtschaftsliberalen Ansatz der MKP und der pro-deutschen Außenpolitik nicht einverstanden sind. Die ChZJN oder Chjena tritt für die nationale Demokratie und die katholische Soziallehre ein und strebt, obwohl sie der Monarchie gegenüber pragmatisch ist, eine größere Unabhängigkeit Polens mit rechtlichen Mitteln an.§!\n"
+ POL_social_conservative2_party_long: "Chrześcijański Związek Jedności Narodowej (Christliche Union der Nationalen Einheit)\n§gDie zutiefst katholische und nationalistische ChZJN, ein Bündnis aus christdemokratischen und nationaldemokratischen Parteien, will die traditionelle soziale Hierarchie Polens, die Unabhängigkeit und die Stellung der Kirche als Seele der Nation schützen.§!\n"
  POL_authoritarian_democrat_party: "MKP-SP"
- POL_authoritarian_democrat_party_long: "Międzypartyjne Koło Polityczne - Stronnictwo Państwowe (Staatlichkeitspartei)\n§gDer konservative und offen pro-deutsche Flügel des Zirkels. Unter der Führung von Władysław Studnicki strebt die Partei engere Beziehungen zu Berlin und die Wahrung der traditionellen Rechte des Szlachta (Adel) an.§!"
+ POL_authoritarian_democrat_party_long: "Międzypartyjne Koło Polityczne - Stronnictwo Państwowe (Staatlichkeitspartei)\n§gDer konservative und offen pro-deutsche Flügel des Zirkels. Unter der Führung von Władysław Studnicki strebt die Partei engere Beziehungen zu Berlin und die Wahrung der traditionellen Rechte des Szlachta (Adel) an.§!\n"
  POL_paternal_autocrat_party: "Geheimrat"
- POL_paternal_autocrat_party_long: "Geheimrat\n§gDer Geheimrat ist ein informelles Beratungsgremium von König August IV., das sich hauptsächlich aus den deutschen und österreichischen Militär- und Wirtschaftsberatern des Königs und deutschfreundlichen polnischen Magnaten zusammensetzt. Der Geheimrat hat kein Interesse an den polnischen Freiheiten, sondern ist vielmehr bestrebt, die Position des Königs und die deutsch-österreichischen Interessen in Polen zu wahren. Inoffizieller Leiter des Geheimrats ist der einflussreichste deutsche Staatsbürger im Land, der Leiter der Militärmission, Wolfgang von Kries.§!"
+ POL_paternal_autocrat_party_long: "Geheimrat\n§gDer Geheimrat ist ein informelles Beratungsgremium von König August IV., das sich hauptsächlich aus den deutschen und österreichischen Militär- und Wirtschaftsberatern des Königs und deutschfreundlichen polnischen Magnaten zusammensetzt. Der Geheimrat hat kein Interesse an den polnischen Freiheiten, sondern ist vielmehr bestrebt, die Position des Königs und die deutsch-österreichischen Interessen in Polen zu wahren. Inoffizieller Leiter des Geheimrats ist der einflussreichste deutsche Staatsbürger im Land, der Leiter der Militärmission, Wolfgang von Kries.§!\n"
  POL_generalgouvernment_party: "Generalgouvernement Warschau"
  POL_generalgouvernment_party_long: "Generalgouvernement Warschau\n§g Das Warschauer Generalgouvernement ist der letzte Sargnagel für die Unabhängigkeit Polens. Der Generalgouverneur, der von den loyalen Generälen und den Deutschen unterstützt wird, regiert mit eiserner Faust und unterdrückt gnadenlos jeden Dissens. Wahlen und die Verfassung werden auf unbestimmte Zeit ausgesetzt.§!"
  POL_national_populist_party: "LN"
- POL_national_populist_party_long: "Liga Narodowa (Nationale Liga)\n§gDie 1893 gegründete Nationale Liga war ursprünglich eine konspirative Organisation, die aus der Endecja (Natioal-Demokraten)-Bewegung hervorging. Die Radikalen der Endecja unter Roman Dmowski sind in Polen nicht willkommen, und ihre Führung wird nach Moskau verbannt. Im Laufe der Jahre knüpften sie Verbindungen sowohl zur russischen Rechtsextremen als auch zu polnischen Untergrundorganisationen und schmiedeten Pläne, um Polen eines Tages von äußeren und inneren Feinden zu befreien.§!"
+ POL_national_populist_party_long: "Liga Narodowa (Nationale Liga)\n§gDie 1893 gegründete Nationale Liga war ursprünglich eine konspirative Organisation, die aus der Endecja (Natioal-Demokraten)-Bewegung hervorging. Die Radikalen der Endecja unter Roman Dmowski sind in Polen nicht willkommen, und ihre Führung wird nach Moskau verbannt. Im Laufe der Jahre knüpften sie Verbindungen sowohl zur russischen Rechtsextremen als auch zu polnischen Untergrundorganisationen und schmiedeten Pläne, um Polen eines Tages von äußeren und inneren Feinden zu befreien.§!\n"
 ## Late Game Parties
  POL_totalist2_party: "ZSP"
- POL_totalist2_party_long: "Związek Syndykalistów Polskich (Union Polnischer Syndikalisten)\n§gDie ZSP wurde von den Anhängern Kazimierz Zakrzewskis gegründet und ist offiziell eine weitgehend syndikalistische und demokratische Organisation, die jedoch in der Praxis der persönlichen Ideologie Zakrzewskis folgt. Die Massenbewegung stützt sich weitgehend auf die Rolle Zakrzewskis als Führer der Revolution und erfreut sich aufgrund des Patriotismus der einfachen Leute und ihres Misstrauens gegenüber dem \"internationalistischen\" Sozialismus großer Beliebtheit.§!"
+ POL_totalist2_party_long: "Związek Syndykalistów Polskich (Union Polnischer Syndikalisten)\n§gDie ZSP wurde von den Anhängern Kazimierz Zakrzewskis gegründet und ist offiziell eine weitgehend syndikalistische und demokratische Organisation, die jedoch in der Praxis der persönlichen Ideologie Zakrzewskis folgt. Die Massenbewegung stützt sich weitgehend auf die Rolle Zakrzewskis als Führer der Revolution und erfreut sich aufgrund des Patriotismus der einfachen Leute und ihres Misstrauens gegenüber dem \"internationalistischen\" Sozialismus großer Beliebtheit.§!\n"
  POL_syndicalist3_party: "ZSP"
  POL_syndicalist3_party_long: "$POL_totalist2_party_long$"
  POL_syndicalist2_party: "SZW"
- POL_syndicalist2_party_long: "Syndykalistyczny Związek \"Wolność\" (Syndikalistische Union \"Freiheit\")\n§gDie SZW wurde als Opposition zu Zakrzewski gegründet und ist ein Zusammenschluss von \"demokratischen\" Syndikalisten und Anarchisten. Sie sind Befürworter einer extremen Dezentralisierung als Mittel, um die Tyrannei der Exekutive zu vermeiden und echte persönliche Freiheit zu gewährleisten.§!"
+ POL_syndicalist2_party_long: "Syndykalistyczny Związek \"Wolność\" (Syndikalistische Union \"Freiheit\")\n§gDie SZW wurde als Opposition zu Zakrzewski gegründet und ist ein Zusammenschluss von \"demokratischen\" Syndikalisten und Anarchisten. Sie sind Befürworter einer extremen Dezentralisierung als Mittel, um die Tyrannei der Exekutive zu vermeiden und echte persönliche Freiheit zu gewährleisten.§!\n"
  POL_radical_socialist3_party: "PPS"
- POL_radical_socialist3_party_long: "Polska Partia Socjalistyczna (Polnische Sozialistische Partei)\n§gDer ehemals radikale Flügel der PPS hat sich als die Gemäßigten der sozialistischen Republik wiedergefunden. Sie streben ein demokratisches und relativ dezentralisiertes Polen an, da sie befürchten, dass sich die Revolution noch einmal umkehren und tyrannisch werden könnte, wie so viele Revolutionen vor ihr.§!"
+ POL_radical_socialist3_party_long: "Polska Partia Socjalistyczna (Polnische Sozialistische Partei)\n§gDer ehemals radikale Flügel der PPS hat sich als die Gemäßigten der sozialistischen Republik wiedergefunden. Sie streben ein demokratisches und relativ dezentralisiertes Polen an, da sie befürchten, dass sich die Revolution noch einmal umkehren und tyrannisch werden könnte, wie so viele Revolutionen vor ihr.§!\n"
  POL_social_democrat3_party: "PPS-P"
- POL_social_democrat3_party_long: "Polska Partia Socjalistyczna - Prawica (Polnische Sozialistische Partei - Rechts)\n§gDie jetzt in der Minderheit befindliche rechte Fraktion der PPS steht der Revolution bestenfalls lauwarm gegenüber und lässt sich am besten als Mitläufer beschreiben, die zumindest einige Aspekte des Parlamentarismus in Polen erhalten wollen.§!"
+ POL_social_democrat3_party_long: "Polska Partia Socjalistyczna - Prawica (Polnische Sozialistische Partei - Rechts)\n§gDie jetzt in der Minderheit befindliche rechte Fraktion der PPS steht der Revolution bestenfalls lauwarm gegenüber und lässt sich am besten als Mitläufer beschreiben, die zumindest einige Aspekte des Parlamentarismus in Polen erhalten wollen.§!\n"
  POL_market_liberal2_party: "PC"
- POL_market_liberal2_party_long: "Polskie Centrum (Polnisches Zentrum)\n§gDas Zentrum ist eine kleine konservativ-liberale Partei, die sich hauptsächlich aus früheren Monarchisten und den gemäßigten Mitgliedern der MKP zusammensetzt, die sich nicht aus der Politik zurückgezogen haben. Sie ziehen es vor, die wirtschaftlichen Beziehungen zu Deutschland und Österreich aufrechtzuerhalten, und lehnen einen Krieg mit beiden Ländern ab, da sie ihn für eine große Torheit halten.§!"
+ POL_market_liberal2_party_long: "Polskie Centrum (Polnisches Zentrum)\n§gDas Zentrum ist eine kleine konservativ-liberale Partei, die sich hauptsächlich aus früheren Monarchisten und den gemäßigten Mitgliedern der MKP zusammensetzt, die sich nicht aus der Politik zurückgezogen haben. Sie ziehen es vor, die wirtschaftlichen Beziehungen zu Deutschland und Österreich aufrechtzuerhalten, und lehnen einen Krieg mit beiden Ländern ab, da sie ihn für eine große Torheit halten.§!\n"
  POL_authoritarian_democrat2_party: "SPZ"
- POL_authoritarian_democrat2_party_long: "Stronnictwo Państwowo-Zachowawcze (Partei für die Erhaltung des Staates)\n§gDie Partei zur Erhaltung des Staates ist eine konservative Gruppierung ehemaliger MKP-Politiker, die sich dafür ausspricht, viele Strukturen des Königreichs beizubehalten und dramatische Reformen oder außenpolitische Veränderungen zu vermeiden, da sie diese als möglicherweise schädlich für die Sicherheit Polens ansehen.§!"
+ POL_authoritarian_democrat2_party_long: "Stronnictwo Państwowo-Zachowawcze (Partei für die Erhaltung des Staates)\n§gDie Partei zur Erhaltung des Staates ist eine konservative Gruppierung ehemaliger MKP-Politiker, die sich dafür ausspricht, viele Strukturen des Königreichs beizubehalten und dramatische Reformen oder außenpolitische Veränderungen zu vermeiden, da sie diese als möglicherweise schädlich für die Sicherheit Polens ansehen.§!\n"
  POL_paternal_autocrat2_party: "OZN"
- POL_paternal_autocrat2_party_long: "Obóz Zjednoczenia Narodowego (Lager der nationalen Einheit)\n§gDie OZN ist im Wesentlichen ein politischer Arm der Militärclique von Edward Rydz-Śmigły. Sie präsentiert sich als unpolitische Organisation, die alle politischen Gruppierungen in Polen unter einem Banner vereinen will. In der Praxis ist ihr politisches Programm fast eine Kopie der Bewegung der Nationaldemokratie, die sich hauptsächlich aus Militarismus, Nationalismus und Antisemitismus zusammensetzt.§!"
+ POL_paternal_autocrat2_party_long: "Obóz Zjednoczenia Narodowego (Lager der nationalen Einheit)\n§gDie OZN ist im Wesentlichen ein politischer Arm der Militärclique von Edward Rydz-Śmigły. Sie präsentiert sich als unpolitische Organisation, die alle politischen Gruppierungen in Polen unter einem Banner vereinen will. In der Praxis ist ihr politisches Programm fast eine Kopie der Bewegung der Nationaldemokratie, die sich hauptsächlich aus Militarismus, Nationalismus und Antisemitismus zusammensetzt.§!\n"
  POL_national_populist2_party: "SN"
- POL_national_populist2_party_long: "Stronnictwo Narodowe (Nationale Partei)\n§gNachdem die nationaldemokratische Bewegung sich wieder offen organisieren durfte, gründeten die Anhänger von Roman Dmowski die Nationale Partei als ihren politischen Arm. Während die Bewegung auf dem Papier lediglich christlich-konservativ ist, ist die Partei in der Praxis sehr radikal. Da die meisten der gemäßigten Nationaldemokraten in der ChZJN engagiert sind, ist die Nationale Partei mit denjenigen gefüllt, die früher verboten wurden - Rechtsradikale um Adam Doboszyński und Hardcore-Endeks, die keine Liebe für das demokratische System haben.§!"
+ POL_national_populist2_party_long: "Stronnictwo Narodowe (Nationale Partei)\n§gNachdem die nationaldemokratische Bewegung sich wieder offen organisieren durfte, gründeten die Anhänger von Roman Dmowski die Nationale Partei als ihren politischen Arm. Während die Bewegung auf dem Papier lediglich christlich-konservativ ist, ist die Partei in der Praxis sehr radikal. Da die meisten der gemäßigten Nationaldemokraten in der ChZJN engagiert sind, ist die Nationale Partei mit denjenigen gefüllt, die früher verboten wurden - Rechtsradikale um Adam Doboszyński und Hardcore-Endeks, die keine Liebe für das demokratische System haben.§!\n"
  POL_national_populist3_party: "ON"
- POL_national_populist3_party_long: "Organizacja Narodowa (Nationale Organisation)\n§gIn Adam Doboszyńskis Theorie der Nation ist das Mehrparteiensystem ein Gräuel für die nationale Einheit. Stattdessen sollte die Elite in einer einzigen politischen Organisation vereint sein, die in der Lage ist, die gesamte Gesellschaft gemäß den christlichen und distributiven Lehren zu koordinieren. Diese Gruppe tugendhafter Männer wird als Lehrer und Organisatoren des Volkes fungieren und dafür sorgen, dass die politische Hygiene der Massen entwickelt wird.§!"
+ POL_national_populist3_party_long: "Organizacja Narodowa (Nationale Organisation)\n§gIn Adam Doboszyńskis Theorie der Nation ist das Mehrparteiensystem ein Gräuel für die nationale Einheit. Stattdessen sollte die Elite in einer einzigen politischen Organisation vereint sein, die in der Lage ist, die gesamte Gesellschaft gemäß den christlichen und distributiven Lehren zu koordinieren. Diese Gruppe tugendhafter Männer wird als Lehrer und Organisatoren des Volkes fungieren und dafür sorgen, dass die politische Hygiene der Massen entwickelt wird.§!\n"
 
 ### Country Names ###
  POL: "Polen"
@@ -67,10 +67,12 @@ l_german:
  POL_syndicalist_DEF: "der Polnische Sozialistische Republik"
  POL_radical_socialist: "Polnische Sozialistische Republik"
  POL_radical_socialist_DEF: "die Polnische Sozialistische Republik"
+
  POL_social_democrat: "Polnische Volksrepublik"
  POL_social_democrat_DEF: "die Polnische Volksrepublik"
  POL_social_liberal: "Polnische Volksrepublik"
  POL_social_liberal_DEF: "die Polnische Volksrepublik"
+
  POL_market_liberal: "Republik Polen"
  POL_market_liberal_DEF: "die Republik Polen"
  POL_social_conservative: "Republik Polen"
@@ -83,54 +85,25 @@ l_german:
  POL_national_populist_DEF: "die Republik Polen"
 
  POL_kingdom: "Polen"
- POL_kingdom_ADJ: "Polnisch"
  POL_kingdom_DEF: "Polen"
+
+ POL_AUS_kingdom: "Polen"
+ POL_AUS_kingdom_DEF: "Polen"
 
  POL_gengov: "Generalgouvernement Warschau"
  POL_gengov_DEF: "das Generalgouvernement Warschau"
-
- POL_AUS_kingdom: "Königreich Polen"
- POL_AUS_kingdom_ADJ: "Polnisch"
- POL_AUS_kingdom_DEF: "das Königreich Polen"
 
  POL_zapa: "Mitteleuropäische Konföderation"
  POL_zapa_ADJ: "Polnisch-Tschechisch-Slowakisch"
  POL_zapa_DEF: "die Mitteleuropäische Konföderation"
 
- POL_commonwealth_totalist: "Staatenbund"
- POL_commonwealth_totalist_ADJ: "Staatenbund"
- POL_commonwealth_totalist_DEF: "der Staatenbund"
- POL_commonwealth_syndicalist: "Staatenbund"
- POL_commonwealth_syndicalist_ADJ: "Staatenbund"
- POL_commonwealth_syndicalist_DEF: "der Staatenbund"
- POL_commonwealth_radical_socialist: "Staatenbund"
- POL_commonwealth_radical_socialist_ADJ: "Staatenbund"
- POL_commonwealth_radical_socialist_DEF: "der Staatenbund"
- POL_commonwealth_social_democrat: "Staatenbund"
- POL_commonwealth_social_democrat_ADJ: "Polnisch-Litauisch"
- POL_commonwealth_social_democrat_DEF: "der Staatenbund"
- POL_commonwealth_social_liberal: "Staatenbund"
- POL_commonwealth_social_liberal_ADJ: "Polnisch-Litauisch"
- POL_commonwealth_social_liberal_DEF: "der Staatenbund"
- POL_commonwealth_market_liberal: "Staatenbund"
- POL_commonwealth_market_liberal_ADJ: "Polnisch-Litauisch"
- POL_commonwealth_market_liberal_DEF: "der Staatenbund"
- POL_commonwealth_social_conservative: "Staatenbund"
- POL_commonwealth_social_conservative_ADJ: "Polnisch-Litauisch"
- POL_commonwealth_social_conservative_DEF: "der Staatenbund"
- POL_commonwealth_authoritarian_democrat: "Staatenbund"
- POL_commonwealth_authoritarian_democrat_ADJ: "Polnisch-Litauisch"
- POL_commonwealth_authoritarian_democrat_DEF: "der Staatenbund"
- POL_commonwealth_paternal_autocrat: "Staatenbund"
- POL_commonwealth_paternal_autocrat_ADJ: "Polnisch-Litauisch"
- POL_commonwealth_paternal_autocrat_DEF: "der Staatenbund"
- POL_commonwealth_national_populist: "Staatenbund"
- POL_commonwealth_national_populist_ADJ: "Polnisch-Litauisch"
- POL_commonwealth_national_populist_DEF: "der Staatenbund"
+ POL_commonwealth: "Staatenbund"
+ POL_commonwealth_ADJ: "Staatenbund"
+ POL_commonwealth_DEF: "der Staatenbund"
 
  POL_slavic_union_national_populist: "Slawische Nationale Union"
- POL_slavic_union_national_populist_DEF: "Slawische Nationale Union"
- POL_slavic_union_national_populist_ADJ: "die Slawische Nationale Union"
+ POL_slavic_union_national_populist_ADJ: "Slawisch"
+ POL_slavic_union_national_populist_DEF: "die Slawische Nationale Union"
 
 ### Leaders ###
  POL_august_iv_desc: "§YAnführer Beschreibung\nGeboren:§! 29. Januar 1887, im Potsdamer Stadtschloss, Potsdam, Provinz Brandenburg, Königreich Preußen, Deutsches Reich\n§YPolitische Karriere:§! Der als August Wilhelm Heinrich Günther Viktor von Preußen geborene August IV. aus dem Hause Hohenzollern wurde 1921 im Silberornat von August III. zum König von Polen gekrönt. Als Prinz in Deutschland wurde er von seinem Vater, Kaiser Wilhelm II., für seine Vorliebe für Schmuck und für die Gesellschaft von Künstlern in seiner Potsdamer Villa kritisiert. Als König von Polen hat er in den letzten fünfzehn Jahren versucht, gut zu regieren, obwohl seine Regentschaft von Vorwürfen wegen seines verweichlichten Auftretens und seiner angespannten Beziehung zu seiner Frau überschattet wurde, was ihm in einem zutiefst konservativen, katholischen Land nicht gut bekam.\n\nAuf politischer Ebene war er gezwungen, mehr Macht an den Sejm abzugeben, und wurde zu einem echten konstitutionellen Monarchen, dessen Funktionen weitgehend zeremoniell sind und dessen Prärogative weitgehend von seinem Premierminister ausgeübt werden. Das unglückliche Schicksal König Augusts besteht darin, dass er scheinbar von allen Seiten missbilligt wird: Für die Nationalisten ist er ein Symbol der unerträglichen deutschen Vorherrschaft, für die Pragmatiker ein notwendiges Übel und für den Kaiser ist er sein unbeliebtester Sohn."
@@ -959,6 +932,7 @@ l_german:
  POL_land_issue_solved: "Modernisierte Landnutzung"
  POL_land_reform_tt: "Wir werden mit der §GReformierung§! der Landnutzung beginnen."
  POL_land_reform_change_tt: "Unsere derzeitige Landreform wird radikaler."
+ POL_redistribute_land_ongoing: "§Y$POL_redistribute_land$§! ist derzeit in einem anderen Staat tätig"
  POL_limited_reform_tt: "Eine begrenztere Reform wird leichter zu erreichen sein, aber sie wird natürlich weniger effizient sein."
  POL_radical_reform_tt: "Eine gründliche Bodenreform wird viel mehr Arbeit erfordern, aber sie wird auch effizienter sein."
  POL_Construct_Agricultural_Infrastructure: "Landwirtschaftliche Infrastruktur errichten"
@@ -1111,7 +1085,7 @@ l_german:
  POL_Lublin_To_Chelm: "Lublin nach Cholm"
  POL_Connect_To_Lwow: "Verbindung nach Lemberg"
  POL_To_Brest_And_Beyond: "Nach Brest und weiter"
- POL_The_Warzawa-Kiev_Route: "Die Route Warschau-Kiew"
+ POL_The_Warzawa-[202.GetName]_Route: "Die Route Warschau-Kiew"
  POL_Around_The_Marshes: "Rund um die Sümpfe"
 
  POL_warszawa_glowna_completed: "Hat die Entscheidung £decision_icon_small §YRenovierung des Eisenbahnknotenpunkt Warszawa Glowna§! abgeschlossen"
@@ -2086,7 +2060,7 @@ l_german:
 
  #for POL:
  poland.250.t: "Die Vereinigung mit Lemberg"
- poland.250.d: "Nach langwierigen Verhandlungen haben wir endlich über die Ukrainer gesiegt und die Österreicher zur Einsicht gebracht: Lemberg ist rechtmäßig eine polnische Stadt, und das soll auch so bleiben. Es wurde eine nationale Feier ausgerufen, als die Vereinigung von Lemberg und Polen verkündet wurde - eine Vereinigung, die nie wieder getrennt werden wird.\n\n Die Delegierten aus Kiew waren sauer, aber das ist nichts anderes als unsere typischen Interaktionen mit den Ukrainern."
+ poland.250.d: "Nach langwierigen Verhandlungen haben wir endlich über die Ukrainer gesiegt und die Österreicher zur Einsicht gebracht: Lemberg ist rechtmäßig eine polnische Stadt, und das soll auch so bleiben. Es wurde eine nationale Feier ausgerufen, als die Vereinigung von Lemberg und Polen verkündet wurde - eine Vereinigung, die nie wieder getrennt werden wird.\n\n Die Delegierten aus [202.GetName] waren sauer, aber das ist nichts anderes als unsere typischen Interaktionen mit den Ukrainern."
  poland.250.a: "Willkommen, Brüder."
 
  poland.251.t: "Das Gesetz zur Rückforderung von [GetYear]"
@@ -2592,12 +2566,12 @@ l_german:
 
  # Ukraine:
  poland.454.t: "Ausbau der Strecke Warschau-Brest"
- poland.454.d: "Trotz der stürmischen polnisch-ukrainischen Beziehungen hat unsere Zusammenarbeit in den letzten Jahrzehnten für beide Seiten Vorteile gebracht. Mit der zweiten Eisenbahnlinie von Warschau nach Brest - und darüber hinaus nach Kiew - wird sich der Transport hoffentlich vereinfachen. Das Projekt wurde sowohl von Unternehmen als auch vor allem vom ukrainischen Militär positiv aufgenommen, da es die Logistik zwischen Deutschland und der russischen Front verbessert."
+ poland.454.d: "Trotz der stürmischen polnisch-ukrainischen Beziehungen hat unsere Zusammenarbeit in den letzten Jahrzehnten für beide Seiten Vorteile gebracht. Mit der zweiten Eisenbahnlinie von Warschau nach Brest - und darüber hinaus nach [202.GetName] - wird sich der Transport hoffentlich vereinfachen. Das Projekt wurde sowohl von Unternehmen als auch vor allem vom ukrainischen Militär positiv aufgenommen, da es die Logistik zwischen Deutschland und der russischen Front verbessert."
  poland.454.a: "Gut."
 
  # Ukraine:
- poland.455.t: "Neue Eisenbahn Warschau-Kiew"
- poland.455.d: "Bisher mussten Züge, die von Deutschland aus in Kiew enden wollten, wegen des schlechten Zustands der polnischen Eisenbahn lange Umwege über andere Länder Mitteleuropas nehmen, was zu Verspätungen auf der Strecke führte, da Schnellzüge, die durch Polen fahren, ihre Höchstgeschwindigkeit begrenzen und sogar auf veralteten Gleisanschlüssen ausweichen müssen.\n\nDie neu eröffnete Warschau-Kiew-Eisenbahn soll die beiden Länder näher zusammenbringen, indem sie die Hauptstädte mit einer Schnellbahn verbindet und die Fahrzeit des Berlin-Kiew-Expresses von über achtundvierzig Stunden durch vier Länder auf nur achtzehn Stunden mit einem einzigen Halt verkürzt. Die Gleise sind für Züge mit einem Gewicht von bis zu zehntausend Tonnen und einer Höchstgeschwindigkeit von zweihundertvierzig Stundenkilometern ausgelegt und entsprechen einem hohen Standard.\n\nEs wird zwar nicht erwartet, dass die Züge das Potenzial der Strecke sofort voll ausschöpfen können, aber das hohe Potenzial der Gleise ist für leistungsstärkere Lokomotiven gedacht, die im Laufe des Jahrzehnts entwickelt werden sollen, sowie für die schwereren Güterzüge, die von und nach der Ukraine und dem Kaukasus fahren. Die Eisenbahnverwaltung geht davon aus, dass zu jedem Zeitpunkt des Tages zehn Züge in jede Richtung verkehren werden, darunter sowohl Personen- als auch Güterzüge. "
+ poland.455.t: "Neue Eisenbahn Warschau-[202.GetName]"
+ poland.455.d: "Bisher mussten Züge, die von Deutschland aus in [202.GetName] enden wollten, wegen des schlechten Zustands der polnischen Eisenbahn lange Umwege über andere Länder Mitteleuropas nehmen, was zu Verspätungen auf der Strecke führte, da Schnellzüge, die durch Polen fahren, ihre Höchstgeschwindigkeit begrenzen und sogar auf veralteten Gleisanschlüssen ausweichen müssen.\n\nDie neu eröffnete Warschau-[202.GetName]-Eisenbahn soll die beiden Länder näher zusammenbringen, indem sie die Hauptstädte mit einer Schnellbahn verbindet und die Fahrzeit des Berlin-[202.GetName]-Expresses von über achtundvierzig Stunden durch vier Länder auf nur achtzehn Stunden mit einem einzigen Halt verkürzt. Die Gleise sind für Züge mit einem Gewicht von bis zu zehntausend Tonnen und einer Höchstgeschwindigkeit von zweihundertvierzig Stundenkilometern ausgelegt und entsprechen einem hohen Standard.\n\nEs wird zwar nicht erwartet, dass die Züge das Potenzial der Strecke sofort voll ausschöpfen können, aber das hohe Potenzial der Gleise ist für leistungsstärkere Lokomotiven gedacht, die im Laufe des Jahrzehnts entwickelt werden sollen, sowie für die schwereren Güterzüge, die von und nach der Ukraine und dem Kaukasus fahren. Die Eisenbahnverwaltung geht davon aus, dass zu jedem Zeitpunkt des Tages zehn Züge in jede Richtung verkehren werden, darunter sowohl Personen- als auch Güterzüge. "
  poland.455.a: "Ein Symbol der polnisch-ukrainischen Zusammenarbeit."
 
  # White Ruthenia:
@@ -3224,6 +3198,7 @@ l_german:
  polandnews.13.g: "Drastisch."
 
 ### Characters ###
+
     ### Country Leaders
  POL_feliks_kon: "Feliks Kon"
  POL_kazimierz_zakrzewski: "Kazimierz Zakrzewski"
@@ -3246,6 +3221,7 @@ l_german:
  POL_roman_dmowski: "Roman Dmowski"
  POL_adam_doboszynski: "Adam Doboszyński"
  POL_august_iv: "August IV"
+
     ### Generals
  POL_konstanty_rokossowski: "Konstanty Rokossowski"
  POL_adam_koc: "Adam Koc"
@@ -3263,9 +3239,11 @@ l_german:
  POL_waclaw_stachiewicz: "Wacław Stachiewicz"
  POL_antoni_szylling: "Antoni Szylling"
  POL_boleslaw_wieniawa_dlugoszowski: "Bolesław Wieniawa-Długoszowski"
+
     ### Admirals
  POL_jozef_unrug: "Józef Unrug"
  POL_jerzy_swirski: "Jerzy Świrski"
+
     ### Second in Command
  POL_antoni_ponikowski: "Antoni Ponikowski"
  POL_aleksy_cwiakowski: "Aleksy Ćwiakowski"
@@ -3277,6 +3255,7 @@ l_german:
  POL_stanislaw_bukowiecki: "Stanisław Bukowiecki"
  POL_boguslaw_miedzinski: "Bogusław Miedziński"
  POL_the_sejm_sic: "Sejm"
+
     ### Political Advisors
  POL_maurucy_zamoyski: "Maurycy Klemens Zamoyski"
  POL_stanislaw_downarowicz: "Stanisław Downarowicz"
@@ -3314,3 +3293,5 @@ l_german:
  POL_zygmunt_pulawski: "Zygmunt Puławski"
  POL_stanislaw_karlowski: "Stanisław Karłowski"
 
+ ###Operatives
+ POL_krystyna_skarbek: "Krystyna Skarbek"

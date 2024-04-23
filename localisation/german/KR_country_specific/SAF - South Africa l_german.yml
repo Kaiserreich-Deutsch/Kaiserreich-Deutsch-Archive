@@ -820,7 +820,7 @@ saf_flag_nuweveld_completed: "Die Zahl der weißen Siedler in Bechuanaland über
 SAF_national_conservative_party_formed: "Die §YNational Conservative Party§! hat sich gebildet."
 SAF_tt_nuweveld_enabled: "Die §YNuweveld Entscheidungen§! werden aktiviert."
 SAF_tt_nuweveld_sevenhundred_new_settlers: "Eine Gruppe von §G700 weißen Bauern§! wird nach §YNuweveld§! ziehen, um ein Stück freies Land zu beanspruchen."
-SAF_tt_new_nuweveld_settlers: "§G[SAF_getNewColonists] Siedler§! sind dieses Jahr §Ynach Nuweveld§! gezogen.\n"
+SAF_tt_new_nuweveld_settlers: "§G[?SAF_new_nuweveld_settlers|+0] Siedler§! sind dieses Jahr §Ynach Nuweveld§! gezogen.\n"
 SAF_tt_settlement_attractiveness_increased_5: "Die Attraktivität der Nuweveld-Siedlung wird um §G5%§! steigen"
 SAF_tt_settling_attractiveness_increased_2: "Die Attraktivität der Nuweveld-Siedlung wird um §G2%§! steigen"
 SAF_tt_settling_attractiveness_increased_half: "Die Attraktivität der Nuweveld-Siedlung wird um §G0.5%§! steigen"
@@ -965,7 +965,7 @@ SAF_removed_if_advisor_removed: "§YDieser Modifikator wird deaktiviert, wenn $Z
 
 ### Decisions ###
 SAF_nuweveld_decisions: "Das Nuweveld Projekt"
-SAF_nuweveld_decisions_desc: "Das wilde Land Bechuanaland ist von der Zivilisation weitgehend unberührt geblieben, nicht zuletzt, weil sich das Volk der Tswana den Schutz des Vereinigten Königreichs gesichert hat. Nun hat die südafrikanische Regierung beschlossen, sich von diesen Vereinbarungen zu distanzieren und das Bechuanaland für weiße Siedler zu öffnen: §G[?SAF_whites_in_botswana]§!\nAttraktivität für Siedler: [SAF_getSettlerAttractiveness]\nAufstandsrisiko: [SAF_getTswanaInsurgency]"
+SAF_nuweveld_decisions_desc: "Das wilde Land Bechuanaland ist von der Zivilisation weitgehend unberührt geblieben, nicht zuletzt, weil sich das Volk der Tswana den Schutz des Vereinigten Königreichs gesichert hat. Nun hat die südafrikanische Regierung beschlossen, sich von diesen Vereinbarungen zu distanzieren und das Bechuanaland für weiße Siedler zu öffnen: §G[?SAF_whites_in_botswana]§!\nAttraktivität für Siedler: [?SAF_settling_attractiveness|%+0]\nAufstandsrisiko: [SAF_getTswanaInsurgency]"
 SAF_third_boer_war_decisions: "Der dritte Burenkrieg"
 SAF_third_boer_war_decisions_desc: "Wieder einmal sind die Interessen der britischen Kolonisten und der afrikanischen Nachfahren der niederländischen Kolonisten Südafrikas aufeinandergeprallt, und Südafrika steht wieder einmal in Flammen. In einer grausamen Umkehrung des Schicksals sind es nun die Briten, die sich von der von ihnen geschaffenen Herrschaft losgesagt haben, die unter dem Einfluss der afrikanischen Nationalisten versucht, den imperialen Schoß zu verlassen."
 SAF_ryneveld_doctrine_decisions: "Ryneveld Doktrin"

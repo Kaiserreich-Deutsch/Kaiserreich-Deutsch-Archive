@@ -41,7 +41,7 @@ TRS_national_populist_party_long: "Partidul Național Român(Rumänische Nationa
 transylvania.1.t: "Union mit Rumänien?"
 transylvania.1.d: "Endlich ist Siebenbürgen von Ungarn unabhängig. Wir sind ein rumänischer Staat und die Bevölkerung wünscht sich seit langem, sich unseren Brüdern in Rumänien anzuschließen, um gemeinsam einen Staat zu bilden. Endlich kann der Traum von einem Großrumänien verwirklicht werden."
 transylvania.1.a: "Proklamieren Sie die Union mit Rumänien."
- transylvania.1.b: "Bitten Sie [ROOT.Overlord.GetNameDef], die Union zuzulassen."
+ transylvania.1.b: "Bitten Sie [ROOT.overlord.GetNameDef], die Union zuzulassen."
  transylvania.1.c: "Nein, wir sollten unsere Unabhängigkeit behalten!"
 
 transylvania.2.t: "Siebenbürgen proklamiert eine Union mit Rumänien"

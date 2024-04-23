@@ -2,34 +2,55 @@
 
 ## Übersetzt von Thylon ##
 
-austrian_empire_faction: "Österreich-Ungarn Monarchie"
+### STARTING AND MAJOR FACTIONS ###
+
+austrian_empire_faction: "Österreich-Ungarische Monarchie"
 austrian_sphere: "Donau-Adriabund"
-Belgrade_Pact: "Belgrader Pakt"
-benesam: "BeNeSam"
-buenos_aires_lima_faction: "Buenos Aires-Lima Achse"
-cairo_pact: "Kairo Pakt"
-celtic_confederation: "Keltische Konföderation"
+co_prosperity_sphere: "Gemeinsame Wohlstandssphäre"
+Entente: "Entente"
+moscow_accord: "Moskauer Abkommen"
+reichspakt: "Reichspakt"
+third_internationale: "Dritte Internationale"
+
+### REGIONAL FACTIONS ###
+
+## Central America & the Caribbean ##
 CEN_anti_revolutionary_alliance: "Vorhut des Volkes"
 CEN_liberal_pact: "Liberaler Pakt"
 CEN_revolutionary_front: "Revolutionäre Front"
-co_prosperity_sphere: "Gemeinsame Wohlstandssphäre"
-colombia_gran_alliance: "Anden Pakt"
 cos_carib_faction: "Demokratische Allianz der Karibik"
+
+## South America ##
+buenos_aires_lima_faction: "Buenos Aires-Lima Achse"
+colombia_gran_alliance: "Anden Pakt"
+montevideo_treaty: "Vertrag von Montevideo"
+SA_dismantle_patagonia: "Koalition zur Zerschlagung Andesiens"
+SA_socialist_states: "Sozialistische Staaten von Südamerika"
+
+## Western & Southern Europe ##
+benesam: "BeNeSam"
+celtic_confederation: "Keltische Konföderation"
+
+## Central & Northern Europe ##
+SCA_nordic_council_faction: "Nordischer Rat"
+
+## Eastern & Southeast Europe ##
+Belgrade_Pact: "Belgrader Pakt"
+eastern_front_internationale: "Ostfront der Dritten Internationale"
+fourth_internationale: "Vierte Internationale"
+small_pact: "Kleiner Pakt"
+
+## Caucasus & Middle East ##
+cairo_pact: "Kairo Pakt"
+golestan_pact_faction: "Golestan Pakt"
+
+## East Asia ##
 CHI_song_faction: "Chinesisch-Pazifische Freundschaftsgesellschaft"
 CHI_totalist_faction: "Sinosphäre"
 CHI_wang_faction: "Internationale des Ostens"
-Entente: "Entente"
-golestan_pact_faction: "Golestan Pakt"
 GXC_RKMT_faction: "Sino-Pazifischer Sicherheitsrat"
-reichspakt: "Reichspakt"
-moscow_accord: "Moskauer Abkommen"
-SCA_nordic_council_faction: "Nordischer Rat"
-SA_socialist_states: "Sozialistische Staaten von Südamerika"
-SA_dismantle_patagonia: "Koalition zur Zerschlagung Andesiens"
 SHX_feng_faction: "Nationale Befreiungsfront"
 SHX_yan_faction: "Asiatisch-pazifische Blockfreienbewegung"
+
+## South Asia & Oceania ##
 eastern_syndicalist_union: "Östliche Syndikalistische Union"
-third_internationale: "Dritte Internationale"
-fourth_internationale: "Vierte Internationale"
-eastern_front_internationale: "Ostfront der Dritten Internationale"
-montevideo_treaty: "Vertrag von Montevideo"

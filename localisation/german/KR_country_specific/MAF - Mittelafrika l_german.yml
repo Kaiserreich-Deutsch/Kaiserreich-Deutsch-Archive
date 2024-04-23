@@ -868,7 +868,7 @@ MAF_Sailing_With_Marine_desc: "Unsere Schiffe sollten nicht einfach in den örtl
  bushwar.47.b: "Wir werden weiterkämpfen!"
 
 ### Bookmark ###
- MAF_KR_gathering_storm_desc: "Die Koloniale Föderation Mittelafrika entstand nach der Übernahme französischer und belgischer Kolonien und erstreckt sich über einen riesigen Landstrich, der aus Städten, Häuptlingstümern, Königreichen, Ackerland, Dschungeln, Savannen, Wüsten und vielem mehr besteht und die Hälfte des dunklen Kontinents umfasst. Die Kolonie ist ein komplexes Geflecht aus Verträgen, Vereinbarungen und stillschweigenden Absprachen, das zwar stabil, aber bemerkenswert unrentabel ist; etwas, das der Verantwortliche Karl Ritter und seine Männer um jeden Preis ändern wollen. Aber könnten diese Kosten für Mittelafrika zu hoch sein, um sie zu zahlen? Und wird der Kaiser von Göring erlauben, ein solches Risiko einzugehen?"
+ MAF_KR_gathering_storm_desc: "Die Koloniale Föderation Mittelafrika entstand nach der Übernahme französischer und belgischer Kolonien und erstreckt sich über einen riesigen Landstrich, der aus Städten, Häuptlingstümern, Königreichen, Ackerland, Dschungeln, Savannen, Wüsten und vielem mehr besteht und die Hälfte des dunklen Kontinents umfasst. Die Kolonie ist ein komplexes Geflecht aus Verträgen, Vereinbarungen und stillschweigenden Absprachen, das zwar stabil, aber bemerkenswert unrentabel ist; etwas, das der Verantwortliche Karl Ritter und seine Männer um jeden Preis ändern wollen. Aber könnten diese Kosten für Mittelafrika zu hoch sein, um sie zu zahlen? Und wird der Kaiser Ritter erlauben, ein solches Risiko einzugehen?"
 
 ## Intro Screen ##
  MAF_country_intro_header: "Im Herzen Afrikas"
@@ -925,7 +925,7 @@ mittel.46.a: "Eine förmliche Untersuchung muss sofort durchgeführt werden!"
 mittel.46.b: "Dies impliziert, dass einige mächtige Männer in Berlin es unter den Teppich kehren wollen."
 
 mittel.47.t: "Die Korruptionsuntersuchung"
-mittel.47.d: "Es ist uns aufgefallen, dass Berlin begonnen hat, bestimmte \"finanzielle Unregelmäßigkeiten\" zu untersuchen. Es ist nicht schwer herauszufinden, wer dahinter steckt: Sie müssen Zugang zu der höchsten Ebene der Finanzplanung in der Verwaltung haben, wahrscheinlich zu den Alten Kämpfern, die unter von Lettow-Vorbeck gekämpft haben und sich jeder Änderung dieser Verwaltung widersetzt haben!"
+mittel.47.d: "Es ist uns aufgefallen, dass Berlin begonnen hat, bestimmte \"finanzielle Unregelmäßigkeiten\" zu untersuchen. Es ist nicht schwer herauszufinden, wer dahinter steckt: Sie müssen Zugang zu der höchsten Ebene der Finanzplanung in der Verwaltung haben, wahrscheinlich zu den alteingesessenen Männern, die unter von Lettow-Vorbeck gekämpft haben und sich jeder Änderung dieser Verwaltung widersetzt haben!"
 mittel.47.a: "Unterdrückt diese Untersuchung."
 mittel.47.b: "Erhalten Sie [MAF.GetLeader] und wechseln Sie leise die Verwaltung."
 

@@ -79,8 +79,8 @@ taiwan.1.d.china: "Die jüngste Trennung von Japan, die mehr als vierzig Jahre d
 taiwan.1.d.nochina: "Die jüngste Trennung von Japan, die mehr als vierzig Jahre des Austauschs und der Integration beendete, hat uns nicht nur wirtschaftlich ins Abseits gedrängt, sondern auch mit schwierigen Identitätsfragen konfrontiert. Sind wir wirklich befreit worden? Oder wurden wir unseres eigenen Mutterlandes beraubt? Könnten wir wieder einen Platz als Teil eines größeren Ganzen finden, oder könnten wir unseren eigenen, unabhängigen Weg gehen?\n\nUnterschiedliche Menschen haben unterschiedliche Antworten. Die Menschen in den städtischen Gebieten, die einen großen Teil der Bevölkerung ausmachen, haben von der jahrzehntelangen japanischen Besatzung profitiert. Viele sind selbst ethnisch japanisch, und noch viel mehr sehen sich kulturell als solche. Andere, vor allem in ländlichen Gebieten und unter der einheimischen Bevölkerung, mussten hingegen Unterdrückung und Ausbeutung durch die Japaner ertragen. Diese Erfahrungen können nicht ignoriert werden.\n\nDie jüngsten Ereignisse haben die Gelegenheit geschaffen, diese Fragen ein für alle Mal zu beantworten. Wofür werden sich die Menschen in Taiwan entscheiden?"
 taiwan.1.a: "Sendet einen Botschafter nach Tokio."
 taiwan.1.b: "Schickt einen Botschafter nach [china.Capital.GetCapitalVictoryPointName]."
-taiwan.1.c: "Bittet [ROOT.Overlord.GetNameDef] uns den Anschluss an Japan zu erlauben."
-taiwan.1.d: "Bittet [ROOT.Overlord.GetNameDef] uns den Anschluss an China zu erlauben."
+taiwan.1.c: "Bittet [ROOT.overlord.GetNameDef] uns den Anschluss an Japan zu erlauben."
+taiwan.1.d: "Bittet [ROOT.overlord.GetNameDef] uns den Anschluss an China zu erlauben."
 taiwan.1.e: "Nein, wir sollten unsere Unabhängigkeit bewahren!"
 
 taiwan.2.t: "Taiwan strebt die Vereinigung mit [ROOT.GetNameDef] an"
