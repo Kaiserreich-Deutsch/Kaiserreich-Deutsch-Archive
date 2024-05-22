@@ -714,12 +714,12 @@
  sic.119.a: "So sei es."
 
  sic.120.t: "[From.GetNameDefCap] macht Entscheidung rückgängig"
- sic.120.d: "Die Enttäuschung über unsere Weigerung, der [From.GetFactionName] beizutreten ist groß. [From.GetNameDef] hat uns nun mitgeteilt, dass sie unserem Vorschlag nicht zustimmen kann. Ihr Engagement für ihre Verbündeten ist zu groß. Sie haben uns jedoch die Möglichkeit offen gelassen, damit wir uns ihnen wieder annähern können, sobald ihr Krieg beendet ist."
+ sic.120.d: "Die Enttäuschung über unsere Weigerung, der [From.GetFactionName] beizutreten ist groß, [From.GetNameDef] hat uns nun mitgeteilt, dass sie unserem Vorschlag nicht zustimmen kann. Ihr Engagement für ihre Verbündeten ist zu groß. Sie haben uns jedoch die Möglichkeit offen gelassen, damit wir uns ihnen wieder annähern können, sobald ihr Krieg beendet ist."
  sic.120.a: "Das muss genügen"
  sic.120.b: "Wir werden nicht warten!"
 
  sic.121.t: "[From.GetNameDefCap] macht Entscheidung rückgängig"
- sic.121.d: "Die Enttäuschung über unsere Weigerung, der [From.GetFactionName] beizutreten ist groß. [From.GetNameDef] hat uns nun mitgeteilt, dass sie unserem Vorschlag nicht zustimmen kann. Sie behaupten, ihr Engagement für ihre Verbündeten ist zu groß. Außerdem haben sie nicht angedeutet, dass sie für weitere Diskussionen offen sind. Offenbar haben sie die Absicht, ihre Unabhängigkeit zu bewahren und die [From.GetFactionName] als Rückhalt zu haben."
+ sic.121.d: "Die Enttäuschung über unsere Weigerung, der [From.GetFactionName] beizutreten ist groß, [From.GetNameDef] hat uns nun mitgeteilt, dass sie unserem Vorschlag nicht zustimmen kann. Sie behaupten, ihr Engagement für ihre Verbündeten ist zu groß. Außerdem haben sie nicht angedeutet, dass sie für weitere Diskussionen offen sind. Offenbar haben sie die Absicht, ihre Unabhängigkeit zu bewahren und die [From.GetFactionName] als Rückhalt zu haben."
  sic.121.a: "So sei es."
  sic.121.b: "Wir werden sehen!"
 

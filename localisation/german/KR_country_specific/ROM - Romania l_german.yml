@@ -1621,13 +1621,13 @@ romania.136.a: "Niemals!"
 romania.136.b: "Geben Sie nach und übergeben Sie es."
 
 #Bucovina ceded
-romania.137.t: "[From.GetName] gibt unseren Forderungen nach"
-romania.137.d: "[From.GetNameDef] hat der Abtretung der Bukowina zugestimmt, und in unserer Nation sind Feiern ausgebrochen über die Nachricht, dass die Ländereien der Bukowina bis zum Ceremus, die Heimat Stephans des Großen und anderer großer Persönlichkeiten, endlich nach Hause kommen."
+romania.137.t: "[From.GetNameDefCap] gibt unseren Forderungen nach"
+romania.137.d: "[From.GetNameDefCap] hat der Abtretung der Bukowina zugestimmt, und in unserer Nation sind Feiern ausgebrochen über die Nachricht, dass die Ländereien der Bukowina bis zum Ceremus, die Heimat Stephans des Großen und anderer großer Persönlichkeiten, endlich nach Hause kommen."
 romania.137.a: "Eine weitere Ungerechtigkeit korrigiert!"
 
 #War for Bucovina
-romania.138.t: "[From.GetName] verweigert die Übergabe."
-romania.138.d: "[From.GetNameDef] hat sich hartnäckig geweigert, die Bucovina abzutreten! Was sie dazu getrieben hat, ist unbekannt, aber sicher ist, dass dies zum Krieg führen wird. Unsere Truppen stehen bereit, um mit der Rückgewinnung der Woiwodschaftswälder zu beginnen und ein weiteres Kernstück unseres Erbes nach Hause zu bringen."
+romania.138.t: "[From.GetNameDefCap] verweigert die Übergabe."
+romania.138.d: "[From.GetNameDefCap] hat sich hartnäckig geweigert, die Bucovina abzutreten! Was sie dazu getrieben hat, ist unbekannt, aber sicher ist, dass dies zum Krieg führen wird. Unsere Truppen stehen bereit, um mit der Rückgewinnung der Woiwodschaftswälder zu beginnen und ein weiteres Kernstück unseres Erbes nach Hause zu bringen."
 romania.138.a: "Moldawien soll wieder vereint sein!"
 romania.138.b: "Sie haben unseren Bluff sofort durchschaut."
 

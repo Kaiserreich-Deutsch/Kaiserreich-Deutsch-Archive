@@ -53,6 +53,12 @@ LAT_national_populist_party_long: "Latviešu Tautas apvienība Ugunskrusts "(Ver
  KRLAT.6.a: "Aber natürlich!"
  KRLAT.6.b: "Das wollen wir nicht."
 
+ KRLAT.60.t: "Die Ostfront der Internationale"
+ KRLAT.60.d: "Auch wenn es uns gelungen ist, die Revolution im eigenen Land zu schützen, so sind wir doch weit von unseren Verbündeten im Westen entfernt, während die Welt in eine Krise nach der anderen gerät. Das bedeutet jedoch nicht, dass wir im Osten allein sind. Jetzt hat sich [RUS.GetNameDef] die revolutionäre Sache zu eigen gemacht und ist die größte sozialistische Nation der Welt. Es könnte klug sein, sich der nahe gelegenen [RUS.Capital.GetCapitalVictoryPointName] anzunähern, damit sich [INT.GetNameDef] nicht als zu weit entfernt erweist, um uns zu unterstützen."
+ KRLAT.60.a: "Wir schließen uns ihnen an."
+ KRLAT.60.b: "Nur wenn sie unsere Kernländer zurückgeben."
+ KRLAT.60.c: "Wir würden uns lieber [INT.GetNameDef] anschließen."
+
  KRLAT.7.t: "Wir werden akzeptiert"
  KRLAT.7.d: "Die Internationale hat unsere noch junge Republik in ihr Bündnis aufgenommen."
  KRLAT.7.a: "Hurrah!"

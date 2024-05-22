@@ -434,7 +434,6 @@ KUM_zhongying_war_on_tib_decision: "Tibet bestrafen"
 KUM_zhongying_war_on_tib_decision_desc: "Die Tibeter sind die Hauptursache für Hamis Leiden. Ihre buddhistische Frömmigkeit beschmutzt unseren Ruf bei den Indern und ihre Erinnerung an Ma Zhongyings Familie bedeutet, dass sie sich eines Tages sicherlich rächen werden."
 
 ### Intro Screen ###
-
 KUM_country_intro_header: "Das Kumul Khanat"
 KUM_country_intro_content: "Das Kumul-Khanat, das direkt vom Chagatai-Khanat abstammt, hat es im Laufe der Qing-Dynastie geschafft, bis in die republikanische Ära und wieder zurück in den Schoß der Qing zu leben. Offiziell ein Protektorat des Qing-Reiches, kontrolliert Kumul die Hauptstraße zwischen Xinjiang und dem Rest Chinas. Die Reihe loyaler uigurischer Khane würdigt sowohl den Kaiser in Peking als auch die Regierung von Xinjiang selbst.\n\nDer vorherige Khan von Kumul, Masqud Shah, war bekannt für die bisher autoritärste Herrschaft in der Geschichte des bescheidenen Khanats, die zu zwei Aufständen führte gegen ihn in den Jahren 1907 und 1912. Dieser Hass auf den Khan setzte sich auf unseren neuen Herrscher, Nasīr Shah, fort, der im Khanat zumindest geringfügige Reformen bezüglich den wahnsinnigen Steuern und der Fronarbeit einleiten will, um sich wieder die Anerkennung seines Volkes zu verdienen. Ob dies funktionieren wird oder nicht, ist noch nicht abzusehen, da er immer noch beschließt, sich entweder auf die als Begs bekannten uigurischen Adligen oder seinen Rat des Kumul-Loyalisten Yulbars Khan und des ehemaligen Anti-Kumul-Revolutionärs Hoja-Niyaz zu verlassen.\n\nKumul wird als Friedenswächter angesehen, was den Frieden und Wohlstand in Xinjiang sichert. Es zeigt den Traum einer möglichen Selbstbestimmung für die vielen anderen uigurischen Einwohner Xinjiangs. Trotz unserer geringen Größe klingen die Auswirkungen unserer Existenz im Rest von Xinjiang weithin als indirekte Friedenshüter, die Massenrevolten verhindern."
 kumul.0.a: "Vielleicht sind wir doch wichtig..."
@@ -684,7 +683,6 @@ kumul.113.t: "Kaiser Puyi erkennt Kumul an"
 kumul.113.d: "Die jüngsten Nachrichten über die Mandschu-Restauration wurden zunächst mit Skepsis aufgenommen, da Nachrichten aus Peking und die anhaltende Ignoranz ihrer Regierung gegenüber den Bedürfnissen ihrer Untertanen wiederholt bewiesen wurden. Eine neue Proklamation des jungen Kaisers hat jedoch seine wahre Anmut und Vision gezeigt. Der Kaiser hat unsere Autonomie von Xinjiang unterstützt, das rechtmäßige Erbe von Jahrhunderten steht zusammen gegen den modernen autokratischen Terror von Jin Shuren."
 kumul.113.a: "Perfekt."
 
-
 ### Focuses ###
 KUM_nasir_reign: "Nasirs Reformen"
 KUM_nasir_reign_desc: "Die Politik von Masqud Shah, die exorbitant hohe Steuern und Fronarbeit leistet, wird von den Leuten von Kumul so geschmäht, dass jeder Fortschritt zu ihrer Beendigung massiv populär sein wird."
@@ -759,7 +757,7 @@ KUM_hire_more_tax_collectors: "Mehr Steuereintreiber einstellen"
 KUM_hire_more_tax_collectors_desc: "Die Garnison hat unsere Steuereintreiber gezüchtigt, die immer noch auf die Freilassung von Nasīr warten. Wir müssen jetzt die von der Garnison vorgeschlagenen Steuereintreiber aufnehmen, die alle Chinesen sind und die Uiguren gnadenlos erpressen werden."
 
 KUM_even_higher_taxes: "Noch höhere Steuern!"
-KUM_even_higher_taxes_desc: "Die Stadtbewohner sind nicht in der Lage, genug Nahrung für die jährliche Hommage an Peking bereitzustellen. Die Garnison besteht darauf, dass wir immer noch horten, obwohl Peking seit Jahren nicht danach fragt. Neue Steuern werden geschrieben, von denen die Garnison glaubt, dass sie Jin Shuren gefallen werden."
+KUM_even_higher_taxes_desc: "Die Stadtbevölkerung ist nicht in der Lage, genügend Lebensmittel für den jährlichen Tribut an Beijing zu beschaffen, den wir nach Ansicht der Garnison immer noch horten, obwohl Beijing seit Jahren keinen Tribut mehr verlangt. Es werden neue Steuern gefordert, und die Garnison glaubt, dass dies Jin Shuren gefallen wird."
 
 KUM_seize_nobles_money: "Adelige Gelder beschlagnahmen"
 KUM_seize_nobles_money_desc: "Die Begs des Khanats werden von der Garnison für zusätzliche Steuern unter der Schirmherrschaft der nationalen Sicherheit aufgesucht. Die Familien der Begs verstecken sich jetzt mit ihrem Gold, da beide Ziele der Greifhand der Garnison sind."

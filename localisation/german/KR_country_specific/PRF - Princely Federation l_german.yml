@@ -604,7 +604,7 @@ prf.193.d: "Die [From.GetAdjective]-Regierung hat heute Vertreter entsandt, die 
 prf.193.a: "Oh, ist das so?"
 
 prf.194.t: "[From.GetName] besetzt indische Territorien!"
-prf.194.d: "Während wir mit unserem Krieg beschäftigt sind, sind [From.GetAdjective]-Soldaten in unsere Gebiete im Indischen Ozean eingedrungen und haben die Kontrolle über unsere örtlichen Streitkräfte übernommen, fast bevor diese einen Finger rühren konnten. [From.GetNameDef] beansprucht diese Gebiete für sich, und im Moment scheinen wir wenig dagegen tun zu können... außer einer direkten Kriegserklärung."
+prf.194.d: "Während wir mit unserem Krieg beschäftigt sind, sind [From.GetAdjective]-Soldaten in unsere Gebiete im Indischen Ozean eingedrungen und haben die Kontrolle über unsere örtlichen Streitkräfte übernommen, fast bevor diese einen Finger rühren konnten. [From.GetNameDefCap] beansprucht diese Gebiete für sich, und im Moment scheinen wir wenig dagegen tun zu können... außer einer direkten Kriegserklärung."
 prf.194.a: "Diese Frechheit wird nicht unbeantwortet bleiben!"
 prf.194.b: "Das bedeutet Krieg!"
 
@@ -623,7 +623,7 @@ prf.197.d: "Vertreter der [From.GetAdjective]-Regierung haben uns mitgeteilt, da
 prf.197.a: "So so..."
 
 prf.198.t: "[From.GetName] besetzt [seized_state.GetName]!"
-prf.198.d: "[From.GetAdjective]-Soldaten sind heute Morgen in [seized_state.GetName] eingedrungen und haben die Kontrolle über unsere örtlichen Streitkräfte übernommen, fast bevor diese einen Finger rühren konnten. [From.GetNameDef] behauptet, [seized_state.GetName] sei rechtmäßig indisches Hoheitsgebiet, und im Moment können wir wohl wenig dagegen tun."
+prf.198.d: "[From.GetAdjective]-Soldaten sind heute Morgen in [seized_state.GetName] eingedrungen und haben die Kontrolle über unsere örtlichen Streitkräfte übernommen, fast bevor diese einen Finger rühren konnten. [From.GetNameDefCap] behauptet, [seized_state.GetName] sei rechtmäßig indisches Hoheitsgebiet, und im Moment können wir wohl wenig dagegen tun."
 prf.198.a: "Diese Geier!"
 prf.198.b: "Diese Frechheit wird nicht unbeantwortet bleiben!"
 

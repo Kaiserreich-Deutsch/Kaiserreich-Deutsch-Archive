@@ -182,6 +182,8 @@ GXC_KMT_secure_north: "[FROM.GetFlag] [FROM.GetNameDef] sichern"
 GXC_KMT_northern_expedition: "Die Zweite Nordexpedition beginnen"
 GXC_KMT_puppet_KMT_tags: "[FROM.GetFlag] [FROM.GetNameDef] eingliedern"
 
+GXC_join_left_kmt: "Zusammenschluss mit der linken Kuomintang"
+
 ### Scripted localization ###
 
 GXC_tang_ded: "Eine Lobrede von Tang Jiyao, ehemaliger stellvertretender Vorsitz der Partei und Gouverneur von Yunnan, wurde von Chen Jiongming höchstpersönlich in der Versammlung vorgelesen."

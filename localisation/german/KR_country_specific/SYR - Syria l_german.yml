@@ -504,40 +504,6 @@
  ### Introduction ###
 
  SYR_guide: "§MVolkspartei§! - §MDamaskanischer Flügel§! (§lSozialliberale§!) / §MAleppischer Flügel§! (§mMarktliberale§!)\n£white_dot In den ersten Syrischen Wahlen müssen der Nationale Aktionsbund, die Libanesische Reformpartei und die Volkspartei eine Koalition bilden.\n£white_dot Um den §lDamaskanischen Flügel§! der Volkspartei an die Macht zu bringen, muss daraufhin al-Jazairi zum Präsidenten gewählt werden, für den §mAleppischen Flügel§! Rushdi al-Kikhiya.\n£white_dot Nach Abschluss des Schwerpunktes \"Wiedereröffnung der Militärschulen\" darf al-Za'im nicht entlassen werden.\n\n§MDer Nationale Block§! (§cSozialkonservative§!)\n£white_dot Der Nationale Block muss die ersten Syrischen Wahlen gewinnen.\n£white_dot Nach Abschluss des Schwerpunktes \"Wiedereröffnung der Militärschulen\" darf al-Za'im nicht entlassen werden.\n£white_dot Der Nationalgeist \"Konflikt auf dem Libanonberg\" wird bei Abschluss des Schwerpunktes \"Auflösung der Libanonberg-Autonomie\" eine libanesische Revolte herbeiführen und es erlauben, als Libanon weiterzuspielen.\n\n§MMilitärregierung§! (§PPaternale Autokraten§!) / §MSyrische Sozial-Nationalistische Partei§! (§NNationale Populisten§!)\n£white_dot Entlasse al-Za'im nach Abschluss des Schwerpunktes \"Wiedereröffnung der Militärschulen\".\n£white_dot Um die §PMilitärregierung§! an die Macht zu bringen, schließe den Schwerpunkt \"Das Militärmandat\" ab.\n£white_dot Für die §NSyrische Sozial-Nationalistische Partei§!, schließe den Schwerpunkt \"Den Grundprinzipien nacheifern\" ab. Der Nationalgeist \"Konflikt auf dem Libanonberg\" wird bei Abschluss des Schwerpunktes \"Syrisches Integrations- und Assimilationsprogramm\" eine libanesische Revolte herbeiführen und es erlauben, als Libanon weiterzuspielen.\n\n§MSultanat§! (§gAutoritäre Demokraten§!)\n£white_dot Wähle im Ereignis \"Der Status Syriens\" die Option, Syrien in eine ägyptische Marionette zu verwandeln. Dadurch können keine außenpolitischen Schwerpunkte mehr abgeschlossen werden und die libanesische Revolte wird garantiert ausbrechen.\n§CAnmerkung: Dieser Pfad ist nur für die KI spielbar.§!"
- 
- SYR_totalist_party: "HIA"
- #Party of al-Hawrani -> could be used as a precursor for the Ba'ath maybe?:
- SYR_totalist_party_long: "Harakat al-Ishtirakiyeen al-'Arab (Arabisch-Sozialistische Bewegung)"
- SYR_syndicalist_party: "HNS"
- #Party of Khalid Bakdash... could potentially use Radwan al-Hilu of the Palestinian Communist Party?:
- SYR_syndicalist_party_long: "Hizb al-Niqabiu al-Suri (Syrische Syndikalistische Partei)"
- SYR_radical_socialist_party: "HNS"
- #Party of Khalid Bakdash... could potentially use Radwan al-Hilu of the Palestinian Communist Party?:
- SYR_radical_socialist_party_long: "Hizb al-Niqabiu al-Suri (Syrische Syndikalistische Partei)"
- SYR_social_democrat_party: "HNS"
- #Party of Khalid Bakdash ... could potentially use Radwan al-Hilu of the Palestinian Communist Party?:
- SYR_social_democrat_party_long: "Hizb al-Niqabiu al-Suri (Syrische Syndikalistische Partei)"
- SYR_social_liberal_party: "HS (Damaskanischer Flügel)"
- #Palestinian/Damascene wing of the People's Party. This wing represents al-Nashashibi (Jerusalem) and al-Jazairi (Damascus):
- SYR_social_liberal_party_long: "Hizb al-Sha'ab (Volkspartei)"
- SYR_market_liberal_party: "HS (Aleppischer Flügel)"
- #Aleppo wing of the Party of Nazim al-Kudsi (doesn't have a portrait) and Rushdi al-Kikhiya (does have a portrait now :). Supports closer relations with Iraq and is the main anti-Damascene bloc in Aleppo/Northern Syria.:
- SYR_market_liberal_party_long: "Hizb al-Sha'ab (Volkspartei)"
- SYR_social_conservative_party: "KW"
- #Party of Hashim al-Atassi and Shukri al-Quwaitli :
- SYR_social_conservative_party_long: "al-Kutlah al-Wataniyah (Der Nationale Block)"
- #Previous comment, I guess by Jean: Used to show support for the Alawiyya dynasty of Moneimi, in practice this mainly consists of the National Bloc in the shape of Shukri al-Quwaitli:
- SYR_authoritarian_democrat_party_sultanate: "al-Usra al-Alawiyya"
- SYR_authoritarian_democrat_party_long_sultanate: "al-Usra al-Alawiyya (Alawiyya-Dynastie)"
- #Changed to Syrian Military leadership for puppet and rebel reasons
- SYR_authoritarian_democrat_party_long: "al-Qiyada al-'Askaria al-Suriya (Syrische Militärführung)"
- SYR_authoritarian_democrat_party: "al-Qiyada al-'Askaria al-Suriya"
- SYR_paternal_autocrat_party: "Militärregierung"
- #Temporary military government, led by Husni al-Za'im or Adib Shishakli:
- SYR_paternal_autocrat_party_long: "Militärregierung"
- SYR_national_populist_party: "SSNP"
- #Extreme nationalist party under the leadership of Antun Saadeh:
- SYR_national_populist_party_long: "Hizb Al-Suri Al-Qawmi Al-'Ijtima'i (Syrische Sozial-Nationalistische Partei)"
 
 ### Events ###
  syrfor.1.t: "[SYR.GetNameDefCap] lädt uns in die Liga Arabischer Staaten ein"
@@ -591,7 +557,7 @@
 
  syrrep.6.t: "Die ersten Syrischen Wahlen"
  syrrep.6.d: "Da alle zur Wahl stehenden Parteien Einschüchterungstaktiken nutzen und sich auch einige der noch nicht demobilisierten Milizen der Verbreitung von Angst als Mittel zum Zweck bedienen, haben die Wahlen weniger den Willen des Volkes gezeigt, als vielmehr das Recht des Stärkeren in unserer vom Krieg zerstörten Nation bestätigt. Trotz des Versprechens auf die gleiche Repräsentation aller religiösen und ethnischen Gruppen ist mittlerweile klar geworden, dass die wahre Macht wohl weiterhin in den Händen der Sunniten liegen wird, wobei die christlichen Minderheiten Syriens kaum Repräsentation finden werden. Es wurden auch keine jüdischen Volksvertreter gewählt, da die Zionisten Palästinas die Wahlen boykottiert, sie sogar als \"Affront gegen die Interessen der jüdischen Gemeinschaft\" bezeichnet haben. Währenddessen wurden in anderen Großstädten mit einer bedeutenden jüdischen Bevölkerung, etwa Aleppo und Damaskus, mehrere Wahlurnen aus den Viertel entwendet oder als ungültig erklärt.\n\nTrotz der großen Hoffnungen der sozialistischen Parteien konnten sie kaum Erfolge verzeichnen, wobei sich lediglich Akram al-Hourani als einflussreicher Politiker der Region Hama durchsetzen konnte. Auch für die rechteren Parteien, die von Saadeh geführt werden, sieht es jedoch schlecht aus, wobei sie lediglich einige kleinere Erfolge in den urbanen Zentren Nordsyriens verzeichnen, sich allerdings nicht einmal einen Sitz im Parlament sichern konnten. Beide Seiten geben nun den Wahlen selbst die Schuld an ihrer Niederlage und verlangen nun Neuwahlen, während ihre Milizen noch immer durch die Straßen unserer Städte ziehen und die Flaggen ihrer Parteien wehen."
- syrrep.6.a: "Der Nationale Aktionsbund, die Libanesische Reformpartei und die Volkspartei bilden eine Koalition!"
+ syrrep.6.a: "Der NA, die LR und die Volkspartei bilden eine Koalition!"
  syrrep.6.b: "Der Nationale Block sichert sich die Mehrheit!"
 
  syrrep.7.t: "Shukri al-Quwatli übernimmt den Nationalen Block"

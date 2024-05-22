@@ -611,7 +611,7 @@ JAP_hold_hawaii_desc: "Nun, da die hawaiianischen Verteidigungen zerschmettert w
  hawaii.125.d: "Hawaii gehört uns!"
 
  hawaii.126.t: "[FROM.GetNameDefCap] übergibt Hawaii"
- hawaii.126.d: "Großartige Neuigkeiten! [FROM.GetNameDef] hat uns darüber informiert, dass sie den Frieden, der zwischen uns herrscht, nicht aufs Spiel setzen wollen, wodurch Hawaii nun wieder mit Amerika vereint werden kann."
+ hawaii.126.d: "Großartige Neuigkeiten! [FROM.GetNameDefCap] hat uns darüber informiert, dass sie den Frieden, der zwischen uns herrscht, nicht aufs Spiel setzen wollen, wodurch Hawaii nun wieder mit Amerika vereint werden kann."
  hawaii.126.a: "Exzellent."
 
  hawaii.127.t: "[FROM.GetNameDefCap]s Verrat"

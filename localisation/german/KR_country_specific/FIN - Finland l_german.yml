@@ -682,13 +682,20 @@
  finland.120.a: "Natürlich!"
  finland.120.b: "Was denken sie, was das hier ist? Die Finnternationale?"
  
+ finland.1200.t: "Die Ostfront der Internationale"
+ finland.1200.request: "Auch wenn es uns gelungen ist, die Revolution im eigenen Land zu schützen, so sind wir doch weit von unseren Verbündeten im Westen entfernt, während die Welt in eine Krise nach der anderen gerät. Das bedeutet jedoch nicht, dass wir im Osten allein sind. Jetzt hat sich [RUS.GetNameDef] die revolutionäre Sache zu eigen gemacht und ist die größte sozialistische Nation der Welt. Es könnte klug sein, sich der nahe gelegenen [RUS.Capital.GetCapitalVictoryPointName] anzunähern, damit sich [INT.GetNameDef] nicht als zu weit entfernt erweist, um uns zu unterstützen."
+ finland.1200.a: "Wir schließen uns ihnen an."
+ finland.1200.b: "Nur wenn sie alle beanspruchten Gebiete abtreten."
+ finland.1200.c: "Nur wenn sie Petsamo abtreten."
+ finland.1200.d: "Wir sollten uns lieber [INT.GetNameDef] anschließen."
+
  finland.121.t: "Frankreich akzeptiert!"
  finland.121.d: "Wir haben von der Kommunalregierung die Nachricht erhalten, dass wir im Kampf gegen die Reaktionäre und die dunklen Kräfte des Finanzkapitalismus willkommen sind. Zusammen werden wir die Schweinehunde vernichten!"
  finland.121.a: "Hurra!"
  
- finland.122.t: "Frankreich lehnt uns ab!"
- finland.122.d: "Die Kommunarden haben uns mitgeteilt, dass wir auf dem Schlachtfeld gegen die Reaktionäre nicht willkommen sind. Anscheinend betrachten sie uns nur als eine weitere Front, die nicht gehalten wird."
- finland.122.a: "Verfluchte Baguette-fressende Verräter!"
+ finland.122.t: "[From.GetNameDefCap] lehnt uns ab!"
+ finland.122.d: "Die [From.GetAdjective] Regierung hat uns wissen lassen, dass wir auf dem Schlachtfeld gegen die Kräfte der Reaktion nicht willkommen sind. Anscheinend betrachten sie uns nur als eine weitere Front, die nicht gehalten wird."
+ finland.122.a: "Verflucht seien diese Verräter!"
  
  finland.123.t: "Finnland will der Föderation beitreten"
  finland.123.d: "Die finnische Regierung hat die Entwicklung unserer Union nordischer Nationen mit großem Interesse verfolgt. Heute haben wir ihren formellen Antrag auf Beitritt zum Bund als Teilstaat erhalten."

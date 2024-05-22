@@ -715,15 +715,15 @@
  domrep.59.a: "Wir Haben keine Wahl..."
 
  domrep.60.t: "Die [DOM_backer.GetAdjective] Schließen sich uns an"
- domrep.60.d: "[DOM_backer.GetNameDef] haben sich unserer Seite völlig angeschlossen in den Streitigkeiten um die Grenzen mit der Dominikanischen Republik und beendete einen jahrzehntelangen Konflikt. Während die Dominikaner uns diese Entscheidung Übel nehmen, sind die [DOM_backer.GetAdjective] viel zu mächtig um sich effektiv gegen sie zu widerstehen."
+ domrep.60.d: "[DOM_backer.GetNameDefCap] haben sich unserer Seite völlig angeschlossen in den Streitigkeiten um die Grenzen mit der Dominikanischen Republik und beendete einen jahrzehntelangen Konflikt. Während die Dominikaner uns diese Entscheidung Übel nehmen, sind die [DOM_backer.GetAdjective] viel zu mächtig um sich effektiv gegen sie zu widerstehen."
  domrep.60.a: "Endlich, eine Ausländische Macht widerfährt uns Gerechtigkeit!"
 
  domrep.61.t: "Die Amerikaner schließen sich uns an"
  domrep.61.d: "Während dies ein Jahrhundert her war, rufte der amerikanische Süden nach der Annektierung unserer Nation, scheint es, dass die [DOM_backer.GetAdjective] nichts anderes ist als unser Gegner; sie haben eindeutig die Haitianischen Forderungen um das umstrittene Land im Artibonite-Tal abgelehnt, dass alle Gebiete an uns vergeben werden"
  domrep.61.a: "Herzlichsten Dank."
 
- domrep.62.t: "Die [DOM_backer.GetNameDef] schließen sich der dominikanischen Seite an"
- domrep.62.d: "[DOM_backer.GetNameDef], wie es angesichts des derzeitigen Zustands der schwarzen Bevölkerung in diesem Land zu erwarten gewesen wäre, hat sich völlig der Seite der Dominikanischen Republik angeschlossen, mit der Warnung, dass wir alle Forderungen um die umstrittenen Gebieten fallen lassen sollen oder diese sonst ihren Zorn riskieren."
+ domrep.62.t: "[DOM_backer.GetNameDefCap] schließen sich der dominikanischen Seite an"
+ domrep.62.d: "[DOM_backer.GetNameDefCap], wie es angesichts des derzeitigen Zustands der schwarzen Bevölkerung in diesem Land zu erwarten gewesen wäre, hat sich völlig der Seite der Dominikanischen Republik angeschlossen, mit der Warnung, dass wir alle Forderungen um die umstrittenen Gebieten fallen lassen sollen oder diese sonst ihren Zorn riskieren."
  domrep.62.a: "Die Amerikaner verarschen uns wieder einmal..."
 
  domrep.63.t: "Eine Neue Idee"

@@ -106,13 +106,13 @@
  cp.21.a: "Wir fügen uns ihren Bedingungen."
  cp.21.b: "Nein, wir werden sie vernichten!"
 
- cp.22.t: "[FROM.GetNameDef] akzeptiert den Frieden"
+ cp.22.t: "[FROM.GetNameDefCap] akzeptiert den Frieden"
  cp.22.d.victory: "Mit schwerem Herzen waren die ägyptischen Diplomaten dazu gezwungen, den Vertrag von Baghdad zu unterzeichnen und unsere Herrschaft über den Irak anzuerkennen. Als Reaktion auf diese Neuigkeiten feiern die Menschen im ganzen Iran, während in Kairo eine düstere Stimmung herrscht. Es ist unwahrscheinlich, dass dies das Ende unserer regionalen Probleme sein wird, doch fürs Erste hat der Iran triumphiert."
  cp.22.d.defeat: "Mit schwerem Herzen waren unsere Diplomaten dazu gezwungen, den erniedrigenden Vertrag von Baghdad zu unterzeichnen und die Unabhängigkeit des Iraks anzuerkennen. Als Reaktion auf diese Neuigkeiten feiern die Menschen in der ganzen arabischen Welt, während in Teheran eine düstere Stimmung herrscht. Noch feiern sie, doch der Iran wird seine Rache schon noch bekommen..."
  cp.22.a: "Exzellent."
  cp.22.b: "Wir hatten keine Wahl..."
 
- cp.23.t: "[FROM.GetNameDef] lehnt den Frieden ab"
+ cp.23.t: "[FROM.GetNameDefCap] lehnt den Frieden ab"
  cp.23.d: "In ihrer Tollkühnheit haben die Ägypter sich dazu entschlossen, unsere Bedingungen nicht zu akzeptieren und stattdessen weiterzukämpfen, bis sie Persien gänzlich vernichtet haben. Unsere Generäle haben verkündet, dass sie dieser Herausforderung mehr als nur gewachsen sind - und nicht Teheran, sondern Kairo brennen wird, sobald dieser Kampf vorbei ist."
  cp.23.a: "Dann soll es eben ein Kampf bis zum Tode sein!"
 

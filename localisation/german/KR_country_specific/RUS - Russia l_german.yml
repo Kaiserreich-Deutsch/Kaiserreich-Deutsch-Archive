@@ -1657,27 +1657,32 @@ russoc.113.d: "Es sind nicht nur die einfachen Soldaten, die sich entschlossen h
 russoc.113.a: "Verräter, alle von ihnen!"
 
 russoc.114.t: "Die Ostfront der Internationale"
-russoc.114.d: "Auch wenn es uns gelungen ist, die Revolution im eigenen Land zu schützen, so sind wir doch weit von unseren Verbündeten im Westen entfernt, während die Welt in eine Krise nach der anderen gerät. Das bedeutet jedoch nicht, dass wir im Osten allein sind. Jetzt hat sich [RUS.GetNameDef] die revolutionäre Sache zu eigen gemacht und ist die größte sozialistische Nation der Welt. Es könnte klug sein, sich der nahe gelegenen [RUS.Capital.GetCapitalVictoryPointName] anzunähern, damit sich [INT.GetNameDef] nicht als zu weit entfernt erweist, um uns zu unterstützen."
+russoc.114.d.invited: "Auch wenn es uns gelungen ist, die Revolution im eigenen Land zu schützen, so sind wir doch weit von unseren Verbündeten im Westen entfernt, während die Welt in eine Krise nach der anderen gerät. Das bedeutet jedoch nicht, dass wir im Osten allein sind. Jetzt hat sich [RUS.GetNameDef] die revolutionäre Sache zu eigen gemacht und ist die größte sozialistische Nation der Welt. Es könnte klug sein, sich der nahe gelegenen [RUS.Capital.GetCapitalVictoryPointName] anzunähern, damit sich [INT.GetNameDef] nicht als zu weit entfernt erweist, um uns zu unterstützen."
 russoc.114.a: "Sehr gut."
-russoc.114.claims: "Wir schließen uns für unsere Ansprüche an."
-russoc.114.b: "Wir bleiben lieber bei [INT.GetNameDef]."
+russoc.114.b: "Nur wenn sie unsere Kernstaaten zurückgeben."
+russoc.114.c: "Nur wenn sie alle beanspruchten Staaten abtreten."
+russoc.114.f: "Nur wenn sie Petsamo abtreten."
+russoc.114.d: "Wir bleiben lieber bei [INT.GetNameDef]."
 
 russoc.115.t: "Russland tritt der Internationale bei"
 russoc.115.d.guaranteed: "Die russischen Sozialisten haben sich nach einer Zeit der diplomatischen Isolation mit der Dritten Internationale zusammengetan und sich dem immer breiter werdenden Bündnis für die Sache der Weltrevolution angeschlossen. Da wir uns zuvor mit dem Regime in Moskau verbündet hatten, wurde auch uns eine Einladung ausgesprochen. Sollen wir ihrem Beispiel folgen und ein vollwertiges Mitglied der Internationalen werden?"
 russoc.115.d.invited: "Die russischen Revolutionäre, die vor nicht allzu langer Zeit die Kontrolle über ihr Land übernommen haben, haben sich an uns gewandt. Die Diplomaten von [RUS.GetLeader] sind in unserer Hauptstadt eingetroffen und bieten eine gemeinsame sozialistische Front gegen die Reaktionäre an - in Form der Mitgliedschaft in der Dritten Internationale. Dies wird uns zwar eng an das Regime in Moskau binden, was nicht jedem in unserer Bevölkerung gefällt, aber sollte nicht die Sache der Weltrevolution diesen nationalistischen Partikularismus übertrumpfen?"
 russoc.115.a: "Ja, lasst uns unsere Kräfte bündeln."
-russoc.115.claims: "Wir schließen uns für unsere Ansprüche an."
-russoc.115.b: "Wir sollten Deutschland nicht provozieren..."
+russoc.115.b: "Nur wenn sie unsere Kernstaaten zurückgeben."
+russoc.115.c: "Nur wenn sie alle beanspruchten Staaten abtreten."
+russoc.115.f: "Nur wenn sie Petsamo abtreten."
+russoc.115.d: "Wir sollten Deutschland nicht provozieren..."
 
 russoc.1150.t: "[From.GetName] fordert Gebiete"
-russoc.1150.d: "Anstatt direkt beizutreten, hat [From.GetNameDef] unseren Vorschlag im Gegenzug für die Rückgabe der beanspruchten Gebiete unter Vorbehalt akzeptiert."
+russoc.1150.d.cores: "Anstatt unserem Bündnis direkt beizutreten, hat [From.GetNameDef] die Rückgabe ihrer Kernstaaten im Austausch für ihre Mitgliedschaft gefordert."
+russoc.1150.d.claims: "Anstatt unserem Bündnis direkt beizutreten, hat [From.GetNameDef] als Gegenleistung für seine Mitgliedschaft die Rückgabe aller von ihnen beanspruchten Gebiete gefordert."
+russoc.1150.d.petsamo: "Anstatt unserem Bündnis direkt beizutreten, hat [From.GetNameDef] die Rückgabe von Petsamo als Gegenleistung für seine Mitgliedschaft gefordert."
 russoc.1150.a: "Wir akzeptieren. Willkommen, Kameraden."
 russoc.1150.b: "Wir lehnen solchen Revanchismus ab."
 
 russoc.1151.t: "[From.GetName] akzeptiert"
 russoc.1151.d: "[From.GetName] hat sich bereit erklärt, die von uns beanspruchten Gebiete zurückzugeben, und im Gegenzug sollen wir uns auf der internationalen Bühne voll mit ihnen verbünden."
 russoc.1151.a: "Das ist Solidarität!"
-russoc.1151.b: "Wir warten auf die Zustimmung ihres Fraktionsvorsitzenden."
 
 russoc.1152.t: "[From.GetName] lehnt ab"
 russoc.1152.d: "[From.GetName] hat sich geweigert, die von uns beanspruchten Territorien zurückzugeben. Wir können immer noch entscheiden, ob wir ihrem internationalen Bündnis beitreten oder nicht."
@@ -1700,11 +1705,11 @@ russoc.117.d: "[FROM.GetNameDefCap] hat unser Angebot mit der Begründung abgele
 russoc.117.a: "Ihr Verlust."
 
 russoc.118.t: "[FROM.GetNameDefCap] lehnt eine Mitgliedschaft ab"
-russoc.118.d: "[FROM.GetNameDefCap] hat auf unsere Nachricht geantwortet und uns mitgeteilt, dass [FROM.GetName] nicht Mitglied der Dritten Internationale werden wird."
+russoc.118.d: "[FROM.GetNameDefCap] hat auf unsere Nachricht geantwortet und uns mitgeteilt, dass [ROOT.GetName] nicht Mitglied der Dritten Internationale werden wird."
 russoc.118.a: "Was!?"
 
 russoc.1180.t: "[FROM.GetNameDefCap] akzeptiert unsere Mitgliedschaft"
-russoc.1180.d: "[FROM.GetNameDefCap] hat auf unsere Nachricht geantwortet und uns mitgeteilt, dass [FROM.GetName] Mitglied der Dritten Internationale werden darf."
+russoc.1180.d: "[FROM.GetNameDefCap] hat auf unsere Nachricht geantwortet und uns mitgeteilt, dass [ROOT.GetName] Mitglied der Dritten Internationale werden darf."
 russoc.1180.a: "Großartig."
 
 russoc.119.t: "Deutscher Schutz?"
