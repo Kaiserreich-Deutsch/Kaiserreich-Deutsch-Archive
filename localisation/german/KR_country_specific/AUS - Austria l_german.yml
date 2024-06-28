@@ -70,9 +70,6 @@ AUS_slovakia_occupied: "Die Slowakei ist militärisch besetzt"
 AUS_hungary_occupied: "Ungarn ist militärisch besetzt"
 AUS_transylvania_occupied: "Transsylvanien ist militärisch besetzt"
 
-AUS_tag_becomes_crownland: "§H[?tag_to_release.GetName]§! wird zu einer §HKernland§!."
-AUS_hungary_becomes_crownland: "§H[?tag_to_release.GetName]§! wird umorganisiert in eine §HKernland§!."
-
 AUS_syndicalist_menace_tooltip: "Die Feuer des Krieges brennen erneut, und unsere Interessen in Italien sind durch eine ermutigende Internationale bedroht."
 
 AUS_request_forces_puppets: "Wir können jetzt Armeedivisionen aus unseren cisleithinischen Teilstaaten (österreichische Länder) anfordern."

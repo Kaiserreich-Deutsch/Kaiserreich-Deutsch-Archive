@@ -5,5 +5,5 @@ tags={
 dependencies={
 	"Kaiserreich"
 }
-name="Kaiserreich-Deutsch-1.1.2"
+name="Kaiserreich-Deutsch-1.1.3"
 supported_version="1.14.5"

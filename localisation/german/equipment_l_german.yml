@@ -89,6 +89,9 @@ EQUIPMENT_WEIGHT_LIGHT: "Leicht"
 EQUIPMENT_WEIGHT_MEDIUM: "Mittel"
 
 UNIT_GENERIC_NAME_GENERIC_INFANTRY: "$NR$. $NAME$"
+EQUIPMENT_VERSION_0_SHIP: ""
+EQUIPMENT_VERSION_0_TANK: ""
+EQUIPMENT_VERSION_0_PLANE: ""
 
 gw_tank_equipment: "Panzer (Weltkrieg)"
 gw_tank_equipment_short: "Panzer (Weltkrieg)"

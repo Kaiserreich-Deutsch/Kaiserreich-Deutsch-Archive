@@ -109,14 +109,14 @@ faction_joining_RKMT: "Nachdem sie ihre alten Hochburgen im Süden gesichert hat
 #########################
 
 state_integration_alert_title: "Integration des Staates abgeschlossen"
-state_integration_alert_message: "§Y[?integrated_state.GetName]§! ist jetzt ein Kernstaat von §Y[ROOT.GetFlag][ROOT.GetNameDef]§!"
+state_integration_alert_message: "§Y[?integrated_state.GetName]§! ist jetzt ein Kernstaat von §Y[ROOT.GetNameWithFlag]§!"
 
 ###########################
 ### Country Integration ###
 ###########################
 
 country_integration_alert_title: "Integration des Landes abgeschlossen"
-country_integration_alert_message: "Alle kontrollierten Kernstaaten von §Y[?integrated_country.GetFlag][?integrated_country.GetNameDef]§! sind jetzt Kernstaaten von §Y[ROOT.GetFlag][ROOT.GetNameDef]§!"
+country_integration_alert_message: "Alle kontrollierten Kernstaaten von §Y[?integrated_country.GetFlag][?integrated_country.GetNameDef]§! sind jetzt Kernstaaten von §Y[ROOT.GetNameWithFlag]§!"
 
 #########################
 ### Incoming War-ning ###
