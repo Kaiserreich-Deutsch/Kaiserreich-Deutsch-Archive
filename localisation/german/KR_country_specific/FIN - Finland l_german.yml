@@ -710,8 +710,8 @@
  finland.128.d: "Unser geliebter König, Fredrik Kaarle I von Finnland, ist im Alter von 72 Jahren an den Folgen einer Infektion einer Wunde aus dem ersten Weltkrieg verstorben und hat den finnischen Thron frei gelassen. An seiner Stelle soll sein zweitältester überlebender Sohn, Prinz Wolfgang, den Thron besteigen und bei seiner Krönung in der Kathedrale von Helsinki den regnalen Namen Väinö I annehmen, wo die finnische Krone zum ersten Mal von jemand anderem als seinem Vater getragen wird, wie 1919 vereinbart wurde, als er mit seinem Vater als Kronprinz von Finnland anstelle seines älteren Bruders Prinz Philipp, der in Deutschland blieb, herkam."
  finland.128.a: "Der König ist tot! Lang lebe der König!"
  
- finland.130.t: "Finnland und der Reichspakt"
- finland.130.d: "Finnland ist seit 1917 inoffiziell mit Deutschland verbündet und gehört seitdem zu Mitteleuropa. Nachdem sie jedoch ihre Regierung stabilisiert haben, sollte ihre Mitgliedschaft im Reichspakt erneuert werden."
+ finland.130.t: "Finnland will dem Reichspakt wieder beitreten"
+ finland.130.d: "Angesichts der zunehmenden Spannungen in Europa, vor allem aber des Wiedererstarkens Russlands, ist Finnland zurückgekommen und hat darum gebeten, unserem Bündnis wieder beitreten zu dürfen, da wir beide ein Interesse daran haben, die russische Bedrohung in Schach zu halten."
  finland.130.a: "Willkommen zurück!"
  finland.130.b: "Wir brauchen die Finnen nicht."
  
@@ -720,7 +720,7 @@
  finland.131.a: "Was ist in Berlin überhaupt los?"
  
  finland.132.t: "Deutschland erneuert unsere Allianz"
- finland.132.d: "Das Auswärtige Amt hat festgestellt, dass wir unsere Regierung nach einer Zeit des Umbruchs stabilisiert haben, und die Hand der Freundschaft wieder auf unsere Nation ausgedehnt. Wir sind wieder Teil des Reichspakts."
+ finland.132.d: "Das deutsche Auswärtige Amt, das unser Potenzial als großer Verbündeter im Kampf gegen Russland erkannt hat, hat unserer Nation erneut die Hand der Freundschaft gereicht. Wir sind wieder Teil des Reichspakts."
  finland.132.a: "Unsere Sicherheit ist gewährleistet."
 
 ### Companies ###
@@ -859,7 +859,8 @@
  FIN_join_nordic_council_desc: "[FROM.GetFactionName] wurde von den Demokratien Dänemarks, Norwegens und Schwedens gegründet, um externe Mächte davon abzuhalten, in die Region einzudringen. Sollten wir uns bewerben, um der Allianz beizutreten, da wir den Wunsch teilen, ausländische Akteure wie Russland außerhalb der skandinavischen Region zu halten?"
   FIN_join_nordic_federation: "Beitritt zur Nordischen Föderation ersuchen"
  FIN_join_nordic_federation_desc: "Unsere dänischen, norwegischen und schwedischen Brüder haben sich zusammengeschlossen. Als nordisches Land können wir jederzeit einen Antrag auf Beitritt zur Föderation stellen, obwohl dies dazu führen wird, dass ein Teil unserer Souveränität aufgegeben wird."
- FIN_join_reichspakt: "Dem Reichspakt beitreten"
+ FIN_join_reichspakt: "Wiedereintritt in den Reichspakt"
+ FIN_join_reichspakt_desc: "Angesichts des Wiedererstarkens der russischen Macht können wir uns nicht allein gegen sie verteidigen. Deshalb sollten wir uns trotz der jüngsten Differenzen mit den Deutschen wieder mit ihnen verbünden, da sie trotz ihrer schwindenden Hegemonie unsere beste Überlebenschance sind."
  FIN_join_internationale: "Der Dritten Internationale beitreten"
  FIN_join_internationale_desc: "Der finnische Arbeiter hat sich befreit, aber unsere Feinde sind zahlreich und Millionen, wenn nicht Milliarden von Arbeitern schwitzen immer noch unter reaktionärer kapitalistischer Unterdrückung. Wir sollten uns um ihrer willen dem internationalen Kampf anschließen!"
  

@@ -639,7 +639,7 @@ belgian_german_naval_program_desc: ""
 
 ### Intro Screen ###
  BEL_country_intro_header: "Status Bericht: Standort Flandern-Wallonien"
- BEL_country_intro_content: "An der Westgrenze des Deutschen Reiches und an der Grenze zur Kommune Frankreichs gelegen, hat Flandern-Wallonien eine sehr strategische, aber verwundbare Position. Als Vorhut des Westens gegen die syndikalistische Bedrohung sollen wir deren Vormarsch auf die Bunker der Ludendorfflinie stoppen und gemeinsam mit unseren deutschen Verbündeten in das französische Kernland vorstoßen. Im Osten beobachtet uns das deutsche Ungetüm genau und wird sich im Bedarfsfall als schwieriger Gegner erweisen. Nördlich von uns liegen die Niederlande: neutral im Weltkrieg, scheinen unsere ehemaligen Herren mit ihrer schlecht ausgerüsteten Armee und freundlichen Beziehungen keine große Bedrohung darzustellen."
+ BEL_country_intro_content: "An der Westgrenze des Deutschen Reiches und an der Grenze zur Kommune Frankreichs gelegen, hat Flandern-Wallonien eine sehr strategische, aber verwundbare Position.\n\nAls Vorhut des Westens gegen die syndikalistische Bedrohung sollen wir deren Vormarsch auf die Bunker der Ludendorfflinie stoppen und gemeinsam mit unseren deutschen Verbündeten in das französische Kernland vorstoßen.\n\nIm Osten beobachtet uns das deutsche Ungetüm genau und wird sich im Bedarfsfall als schwieriger Gegner erweisen. Nördlich von uns liegen die Niederlande: neutral im Weltkrieg, scheinen unsere ehemaligen Herren mit ihrer schlecht ausgerüsteten Armee und freundlichen Beziehungen keine große Bedrohung darzustellen."
 
  BEL_country_intro_header_1: "Status Bericht: Wirtschaft von Flandern-Wallonien"
  BEL_country_intro_content_1: "Besatzung und große Schlachten während des ersten Weltkrieges haben unser Land deutlich gezeichnet, und die uns auferlegten hohen Reparationszahlungen und die allgemeine Demontage unserer industriellen Basis haben uns geschwächt. Was einst die achtgrößte Industriemacht der Welt war, wurde stark gedemütigt. Dennoch ist unser Volk robust und hat es geschafft, unsere industrielle Macht wieder auf ein Niveau zu bringen, das sich dem früheren Umfang annähert. Da jedoch ein Großteil unserer Industrie hoffnungslos von deutschen Investitionen abhängig ist, bleibt noch viel Arbeit zu tun.\n\nUm die Wirtschaft wieder anzukurbeln, wurde nach dem Krieg der Adelbert-Kanal gegraben, der den wichtigen Hafen von Antwerpen mit der Stahlindustrie von Lüttich verbindet. Der Kohlebergbau wurde auf die Provinz Limburg ausgedehnt, was die Stahlindustrie weiter ankurbelte, während die flämischen Provinzen ihre Industriekraft stetig ausbauten, um die alte Abhängigkeit von der Landwirtschaft teilweise zu ersetzen."
@@ -1084,9 +1084,10 @@ bel.46.c: "Wir wollen nichts mehr mit den Deutschen zu tun haben!"
 
 bel.462.t: "Belgien verlangt noch mehr"
 bel.462.d: "Obwohl wir fast allen ihren Forderungen zustimmten und fast ein Abkommen erreichten, erhob sich plötzlich der belgische Premierminister und erklärte, dass kein Vertrag unterzeichnet werden würde, wenn wir nicht Luxemburg aushändigen würden. Dies stieß auf den Protest unserer empörten Delegierten, die sich weigerten, solch lächerliche Forderungen zu akzeptieren. Einige sehen diese plötzliche Kehrtwende jedoch als Vorwand, sich aus dem Reichspakt herauszuhalten und nach anderen Verbündeten zu suchen. Es scheint jedoch, dass diejenigen, die sich die Realpolitik der Situation zu eigen machen, es für richtig halten, ihnen nur die Rückgabe des besetzten Velwisch anzubieten, während Luxemburg als Lehen des Kaiserreichs bestehen bleibt."
-bel.462.a: "Verlassen Sie den Kongress."
+bel.462.a: "Biete ihnen nur die Rückgabe von Verviers an."
 bel.462.b: "Akzeptieren Sie deren zusätzliche Forderungen."
-bel.462.c: "Die Kunst der Diplomatie ist so alt wie die Geschichte selbst, bieten sie Velwisch."
+bel.462.c: "Verlassen Sie den Kongress."
+ bel.462.e: "Sie wagen es, uns zu beleidigen!?"
 
 bel.463.t: "Das Deutsche Reich akzeptiert"
 bel.463.d: "Zur großen Überraschung aller hat die deutsche Delegation nachgegeben und sich bereit erklärt, Velwisch zurückzugeben. Eine Einigung wurde erzielt und der Vertrag unterzeichnet. Es bleiben nur noch Formalitäten und die Abendgala. "
@@ -1097,8 +1098,9 @@ bel.464.d: "Mit einem offiziellen Waffenstillstand zwischen dem Reich und den be
 bel.464.a: "Der Vertrag ist unterzeichnet!"
 
 bel.465.t: "Belgien lehnt den Kongress von Arlon ab"
-bel.465.d: "Es scheint, dass die aufstrebenden Belgier unser großzügiges Angebot vollständig abgelehnt und uns den Rücken gekehrt haben. Mit dieser klaren Ohrfeige haben unsere Kriegsfalken gefordert, dass das Kaiserreich die Dinge richtig stellt und einmarschiert, um diese Emporkömmlinge zu vernichten. Es scheint, dass sich kühlere Köpfe durchgesetzt haben und [GER.GetRulingParty] sich dafür entschieden hat, abzuwarten und sich mit dem Problem zu einem späteren Zeitpunkt zu befassen, wenn diese Plage des Schwarzen Montags uns nicht mehr heimsucht."
+bel.465.d: "Es scheint, dass die aufstrebenden Belgier unser großzügiges Angebot vollständig abgelehnt und uns den Rücken gekehrt haben. Mit dieser klaren Ohrfeige haben unsere Kriegsfalken gefordert, dass das Kaiserreich die Dinge richtig stellt und einmarschiert, um diese Emporkömmlinge zu vernichten. Vielleicht setzt sich jedoch ein kühlerer Kopf durch und [GER.GetRulingParty] entscheidet sich dafür, abzuwarten und das Problem zu einem späteren Zeitpunkt anzugehen, wenn uns die Plage des Schwarzen Montags nicht mehr heimsucht."
 bel.465.a: "Wir werden sie noch früh genug aufsuchen."
+ bel.465.b: "Wir können uns nicht erinnern, dass wir ihnen eine Wahl gelassen hätten."
 
 bel.466.t: "Das deutsche Gegenangebot"
 bel.466.d: "Es scheint, dass die Deutschen der Rückgabe von Velwisch zugestimmt haben, sich aber weigern, eine Abtretung von Luxemburg in Betracht zu ziehen. Dies würde bedeuten, dass Arlon wieder zu Belgien gehören würde, was die extremeren Ränder des politischen Spektrums besänftigen und in den Augen der Öffentlichkeit einen Gewinn darstellen würde. Natürlich würde dies bedeuten, dass Luxemburg unter dem Kaiserreich verbleiben würde, und obwohl dies eine kleinere Pille zu schlucken ist, gibt es diejenigen, die behaupten, es gehe um alles oder nichts."
@@ -1831,6 +1833,8 @@ belind.14.d: "Die Spannungen sind nach den Sprachprotesten im ganzen Land hoch, 
 belind.14.a: "Die flämisch-nationalistische Volksunie gewinnt."
 belind.14.b: "Der BWP nimmt die meisten Plätze ein."
 belind.14.c: "Der KP/DC erringt den Sieg."
+ belind.14.e: "Die LP macht es möglich."
+ belind.14.f: "Der liberale Flügel der BWP gewinnt an Bedeutung."
 
 belind.15.t: "Volksunie verkündet ihren Sieg"
 belind.15.d: "Gestärkt durch die Unzufriedenheit der Bürger, die an der Sprachgrenze wohnen und Wähler von der viel radikaleren Verdinaso und VNV anziehen, hat die Volksunie die Wahl mit knappem Vorsprung gewonnen. Sie behaupten, dass sie ihre Wahlversprechen umsetzen und Belgien in eine Konföderation umwandeln wollen, in der die flämische und wallonische Regierung von den Beschränkungen Brüssels befreit sind und nach eigenem Ermessen handeln können."

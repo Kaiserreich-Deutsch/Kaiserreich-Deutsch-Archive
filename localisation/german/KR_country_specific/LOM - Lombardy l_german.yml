@@ -429,7 +429,7 @@ lombardy.4.t: "[From.GetNameDefCap] weigert sich, die Eiserne Krone zurückzugeb
 lombardy.4.d: "Unsere Bitte, die Eiserne Krone der Lombardei zurückzugeben, wurde abgelehnt. Somit wird unser guter Herzog nicht in der Lage sein, einen Titel zu tragen, der seiner würdig ist."
 lombardy.4.a: "Unglücklich."
 
-lombardy.5.t: "Die Krönung von Adriano I., König von [ITA.GetNonIdeologyName]"
+lombardy.5.t: "Die Krönung von Marcello I., König von [ITA.GetNonIdeologyName]"
 lombardy.5.d: "Unser rechtschaffener Monarch ist zum König gekrönt worden. Bei seiner Krönung läuteten im ganzen Land die Kirchenglocken und es wurde ein Festtag ausgerufen."
 lombardy.5.a: "Lunga Vita al Re!"
 
@@ -483,17 +483,17 @@ lombardy.20.a: "In dieser Republik ist kein Platz für Radikale"
 lombardy.20.b: "Wir stehen für Freiheit über alles"
 
 lombardy.21.t: "Die Zukunft der Lombardei"
-lombardy.21.d: "Die Regierung der Lombardei liegt derzeit in den Händen des Militärs, das Herzog Adriano Visconti unterstützt... aber der Herzog hat Vorbehalte gegen die Übernahme der vollen Kontrolle über das Land geäußert. Trotz der Proteste einiger, die sagen, dass der Republikanismus in Italien gescheitert ist, behauptet der Herzog, dass die Zeit der Monarchien in Italien ebenfalls vorbei ist. Dennoch gibt es viele im Land, die ihn unterstützen und meinen, dass seine Führung das ist, was das Volk will."
+lombardy.21.d: "Die Regierung der Lombardei liegt derzeit in den Händen des Militärs, das Herzog Marcello Visconti unterstützt... aber der Herzog hat Vorbehalte gegen die Übernahme der vollen Kontrolle über das Land geäußert. Trotz der Proteste einiger, die sagen, dass der Republikanismus in Italien gescheitert ist, behauptet der Herzog, dass die Zeit der Monarchien in Italien ebenfalls vorbei ist. Dennoch gibt es viele im Land, die ihn unterstützen und meinen, dass seine Führung das ist, was das Volk will."
 lombardy.21.a: "Dem Republikanismus kann man nicht trauen."
 lombardy.21.b: "Der Herzog muss zurücktreten."
 
 lombardy.22.t: "Die Zukunft der Lombardei"
-lombardy.22.d: "Die Lombardei befindet sich in Aufruhr, und die Bevölkerung misstraut derzeit dem Republikanismus. Viele sprechen sich offen dafür aus, dass Adriano Visconti, der Graf von Mailand, seinen Platz als Herrscher der Lombardei einnehmen soll - und er hat sicherlich die Unterstützung des Militärs. Er scheint auch kein Mann zu sein, der unbedingt regieren will, so dass es wahrscheinlich ist, dass er das Land ohnehin den Wahlen überlassen würde... aber können wir dem trauen? Sollten wir nicht den Republikanismus anstreben, solange er in greifbarer Nähe ist?"
+lombardy.22.d: "Die Lombardei befindet sich in Aufruhr, und die Bevölkerung misstraut derzeit dem Republikanismus. Viele sprechen sich offen dafür aus, dass Marcello Visconti, der Graf von Mailand, seinen Platz als Herrscher der Lombardei einnehmen soll - und er hat sicherlich die Unterstützung des Militärs. Er scheint auch kein Mann zu sein, der unbedingt regieren will, so dass es wahrscheinlich ist, dass er das Land ohnehin den Wahlen überlassen würde... aber können wir dem trauen? Sollten wir nicht den Republikanismus anstreben, solange er in greifbarer Nähe ist?"
 lombardy.22.a: "Wir müssen den Grafen um Hilfe bitten."
 lombardy.22.b: "Nein, wir können nicht zur Monarchie zurückkehren!"
 
 ### Characters ###
-LOM_adriano_visconti_regnal: "Adriano I"
+LOM_marcello_visconti_regnal: "Marcello I"
 
 LOM_giacomo_acerbo: "Giacomo Acerbo"
 LOM_piero_parini: "Piero Parini"

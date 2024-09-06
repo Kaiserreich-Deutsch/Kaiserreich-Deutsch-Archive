@@ -1,5 +1,5 @@
 ﻿l_german:
-### Übersetzt von DerEherneRächer ###
+### Übersetzt von DerEherneRächer -> Ab 1.1.4 Proho  ###
 ### Parties ###
  SYR_totalist_party: "HIA"
  #Party of al-Hawrani -> could be used as a precursor for the Ba'ath maybe?:
@@ -23,8 +23,8 @@
  #Party of Hashim al-Atassi and Shukri al-Quwaitli :
  SYR_social_conservative_party_long: "al-Kutlah al-Wataniyah (Der Nationale Block)"
  #Previous comment, I guess by Jean: Used to show support for the Alawiyya dynasty of Moneimi, in practice this mainly consists of the National Bloc in the shape of Shukri al-Quwaitli:
- SYR_authoritarian_democrat_party_sultanate: "al-Usra al-Alawiyya"
- SYR_authoritarian_democrat_party_long_sultanate: "al-Usra al-Alawiyya (Alawiyya-Dynastie)"
+ SYR_authoritarian_democrat_party_kingdom: "al-Usra al-Alawiyya"
+ SYR_authoritarian_democrat_party_long_kingdom: "al-Usra al-Alawiyya (Alawiyya-Dynastie)"
  #Changed to Syrian Military leadership for puppet and rebel reasons
  SYR_authoritarian_democrat_party_long: "al-Qiyada al-'Askaria al-Suriya (Syrische Militärführung)"
  SYR_authoritarian_democrat_party: "al-Qiyada al-'Askaria al-Suriya"
@@ -34,73 +34,6 @@
  SYR_national_populist_party: "SSNP"
  #Extreme nationalist party under the leadership of Antun Saadeh:
  SYR_national_populist_party_long: "Hizb Al-Suri Al-Qawmi Al-'Ijtima'i (Syrische Sozial-Nationalistische Partei)"
-
-### Cosmetic Tags ###
- SYR: "Syrien"
- SYR_ADJ: "Syrisch"
- SYR_DEF: "Syrien"
-
- SYR_totalist: "Syrische Sozialistische Republik"
- SYR_totalist_ADJ: "Syrisch"
- SYR_totalist_DEF: "die Syrische Sozialistische Republik"
- SYR_syndicalist: "Syrische Sozialistische Republik"
- SYR_syndicalist_ADJ: "Syrisch"
- SYR_syndicalist_DEF: "die Syrische Sozialistische Republik"
- SYR_radical_socialist: "Syrische Sozialistische Republik"
- SYR_radical_socialist_ADJ: "Syrisch"
- SYR_radical_socialist_DEF: "die Syrische Sozialistische Republik"
- SYR_social_democrat: "Syrien"
- SYR_social_democrat_ADJ: "Syrisch"
- SYR_social_democrat_DEF: "die Syrische Republik"
- SYR_social_liberal: "Syrien"
- SYR_social_liberal_ADJ: "Syrisch"
- SYR_social_liberal_DEF: "die Syrische Republik"
- SYR_market_liberal: "Syrien"
- SYR_market_liberal_ADJ: "Syrisch"
- SYR_market_liberal_DEF: "die Syrische Republik"
- SYR_social_conservative: "Syrien"
- SYR_social_conservative_ADJ: "Syrisch"
- SYR_social_conservative_DEF: "die Syrische Republik"
- SYR_authoritarian_democrat: "Syrien"
- SYR_authoritarian_democrat_ADJ: "Syrisch"
- SYR_authoritarian_democrat_DEF: "die Syrische Republik"
- SYR_paternal_autocrat: "Syrien"
- SYR_paternal_autocrat_ADJ: "Syrisch"
- SYR_paternal_autocrat_DEF: "die Syrische Republik"
- SYR_national_populist: "Syrischer Staat"
- SYR_national_populist_ADJ: "Syrisch"
- SYR_national_populist_DEF: "der Syrische Staat"
-
- SYR_great_national_populist: "Großsyrien"
- SYR_great_national_populist_ADJ: "Syrisch"
- SYR_great_national_populist_DEF: "Großsyrien"
- SYR_great_paternal_autocrat: "Großsyrien"
- SYR_great_paternal_autocrat_ADJ: "Syrisch"
- SYR_great_paternal_autocrat_DEF: "Großsyrien"
- SYR_great_authoritarian_democrat: "Großsyrien"
- SYR_great_authoritarian_democrat_ADJ: "Syrisch"
- SYR_great_authoritarian_democrat_DEF: "Großsyrien"
- SYR_great_social_conservative: "Großsyrien"
- SYR_great_social_conservative_ADJ: "Syrisch"
- SYR_great_social_conservative_DEF: "Großsyrien"
- SYR_great_market_liberal: "Großsyrien"
- SYR_great_market_liberal_ADJ: "Syrisch"
- SYR_great_market_liberal_DEF: "Großsyrien"
- SYR_great_social_liberal: "Großsyrien"
- SYR_great_social_liberal_ADJ: "Syrisch"
- SYR_great_social_liberal_DEF: "Großsyrien"
- SYR_great_social_democrat: "Großsyrien"
- SYR_great_social_democrat_ADJ: "Syrisch"
- SYR_great_social_democrat_DEF: "Großsyrien"
- SYR_great_radical_socialist: "Großsyrien"
- SYR_great_radical_socialist_ADJ: "Syrisch"
- SYR_great_radical_socialist_DEF: "Großsyrien"
- SYR_great_syndicalist: "Großsyrien"
- SYR_great_syndicalist_ADJ: "Syrisch"
- SYR_great_syndicalist_DEF: "Großsyrien"
- SYR_great_totalist: "Großsyrien"
- SYR_great_totalist_ADJ: "Syrisch"
- SYR_great_totalist_DEF: "Großsyrien"
 
 ### Pre-rework portraits not in the parties listed above
 
@@ -131,66 +64,72 @@
 # The Internationale can either work together with al-Za'im if he goes after the pro-German officers or depose him through Hinawi (FRA, ENG)
 # The Reichspakt can either work together with al-Za'im if he goes after the pro-German officers or depose him through Hinawi (GER)
 
- SYR_sultanate_totalist: "Syrische Sozialistische Republik"
- SYR_sultanate_totalist_ADJ: "Syrisch"
- SYR_sultanate_totalist_DEF: "die Syrische Sozialistische Republik"
- SYR_sultanate_syndicalist: "Syrische Sozialistische Republik"
- SYR_sultanate_syndicalist_ADJ: "Syrisch"
- SYR_sultanate_syndicalist_DEF: "die Syrische Sozialistische Republik"
- SYR_sultanate_radical_socialist: "Syrische Sozialistische Republik"
- SYR_sultanate_radical_socialist_ADJ: "Syrisch"
- SYR_sultanate_radical_socialist_DEF: "die Syrische Sozialistische Republik"
- SYR_sultanate_social_democrat: "Sultanat Syrien"
- SYR_sultanate_social_democrat_ADJ: "Syrisch"
- SYR_sultanate_social_democrat_DEF: "das Sultanat Syrien"
- SYR_sultanate_social_liberal: "Sultanat Syrien"
- SYR_sultanate_social_liberal_ADJ: "Syrisch"
- SYR_sultanate_social_liberal_DEF: "das Sultanat Syrien"
- SYR_sultanate_market_liberal: "Sultanat Syrien"
- SYR_sultanate_market_liberal_ADJ: "Syrisch"
- SYR_sultanate_market_liberal_DEF: "das Sultanat Syrien"
- SYR_sultanate_social_conservative: "Sultanat Syrien"
- SYR_sultanate_social_conservative_ADJ: "Syrisch"
- SYR_sultanate_social_conservative_DEF: "das Sultanat Syrien"
- SYR_sultanate_authoritarian_democrat: "Sultanat Syrien"
- SYR_sultanate_authoritarian_democrat_ADJ: "Syrisch"
- SYR_sultanate_authoritarian_democrat_DEF: "das Sultanat Syrien"
- SYR_sultanate_paternal_autocrat: "Sultanat Syrien"
- SYR_sultanate_paternal_autocrat_ADJ: "Syrisch"
- SYR_sultanate_paternal_autocrat_DEF: "das Sultanat Syrien"
- SYR_sultanate_national_populist: "Syrischer Staat"
- SYR_sultanate_national_populist_ADJ: "Syrisch"
- SYR_sultanate_national_populist_DEF: "der Syrische Staat"
+### Cosmetic Tags ###
+ SYR: "Syrien"
+ SYR_ADJ: "Syrisch"
+ SYR_DEF: "Syrien"
+
+ SYR_totalist: "Syrische Sozialistische Republik"
+ SYR_totalist_DEF: "die Syrische Sozialistische Republik"
+ SYR_syndicalist: "Syrische Sozialistische Republik"
+ SYR_syndicalist_DEF: "die Syrische Sozialistische Republik"
+ SYR_radical_socialist: "Syrische Sozialistische Republik"
+ SYR_radical_socialist_DEF: "die Syrische Sozialistische Republik"
+ SYR_social_democrat: "Syrien"
+ SYR_social_democrat_DEF: "die Syrische Republik"
+ SYR_social_liberal: "Syrien"
+ SYR_social_liberal_DEF: "die Syrische Republik"
+ SYR_market_liberal: "Syrien"
+ SYR_market_liberal_DEF: "die Syrische Republik"
+ SYR_social_conservative: "Syrien"
+ SYR_social_conservative_DEF: "die Syrische Republik"
+ SYR_authoritarian_democrat: "Syrien"
+ SYR_authoritarian_democrat_DEF: "die Syrische Republik"
+ SYR_paternal_autocrat: "Syrien"
+ SYR_paternal_autocrat_DEF: "die Syrische Republik"
+ SYR_national_populist: "Syrischer Staat"
+ SYR_national_populist_DEF: "der Syrische Staat"
+
+ SYR_kingdom_totalist: "Syrische Sozialistische Republik"
+ SYR_kingdom_totalist_DEF: "die Syrische Sozialistische Republik"
+ SYR_kingdom_syndicalist: "Syrische Sozialistische Republik"
+ SYR_kingdom_syndicalist_DEF: "die Syrische Sozialistische Republik"
+ SYR_kingdom_radical_socialist: "Syrische Sozialistische Republik"
+ SYR_kingdom_radical_socialist_DEF: "die Syrische Sozialistische Republik"
+ SYR_kingdom_social_democrat: "Arabisches Königreich Syrien"
+ SYR_kingdom_social_democrat_DEF: "das Arabisches Königreich Syrien"
+ SYR_kingdom_social_liberal: "Arabisches Königreich Syrien"
+ SYR_kingdom_social_liberal_DEF: "das Arabisches Königreich Syrien"
+ SYR_kingdom_market_liberal: "Arabisches Königreich Syrien"
+ SYR_kingdom_market_liberal_DEF: "das Arabisches Königreich Syrien"
+ SYR_kingdom_social_conservative: "Arabisches Königreich Syrien"
+ SYR_kingdom_social_conservative_DEF: "das Arabisches Königreich Syrien"
+ SYR_kingdom_authoritarian_democrat: "Arabisches Königreich Syrien"
+ SYR_kingdom_authoritarian_democrat_DEF: "das Arabisches Königreich Syrien"
+ SYR_kingdom_paternal_autocrat: "Arabisches Königreich Syrien"
+ SYR_kingdom_paternal_autocrat_DEF: "das Arabisches Königreich Syrien"
+ SYR_kingdom_national_populist: "Syrischer Staat"
+ SYR_kingdom_national_populist_DEF: "der Syrische Staat"
 
  SYR_SSNP_totalist: "Syrische Sozialistische Republik"
- SYR_SSNP_totalist_ADJ: "Syrisch"
  SYR_SSNP_totalist_DEF: "die Syrische Sozialistische Republik"
  SYR_SSNP_syndicalist: "Syrische Sozialistische Republik"
- SYR_SSNP_syndicalist_ADJ: "Syrisch"
  SYR_SSNP_syndicalist_DEF: "die Syrische Sozialistische Republik"
  SYR_SSNP_radical_socialist: "Syrische Sozialistische Republik"
- SYR_SSNP_radical_socialist_ADJ: "Syrisch"
  SYR_SSNP_radical_socialist_DEF: "die Syrische Sozialistische Republik"
  SYR_SSNP_social_democrat: "Großsyrien"
- SYR_SSNP_social_democrat_ADJ: "Syrisch"
  SYR_SSNP_social_democrat_DEF: "Großsyrien"
  SYR_SSNP_social_liberal: "Großsyrien"
- SYR_SSNP_social_liberal_ADJ: "Syrisch"
  SYR_SSNP_social_liberal_DEF: "Großsyrien"
  SYR_SSNP_market_liberal: "Großsyrien"
- SYR_SSNP_market_liberal_ADJ: "Syrisch"
  SYR_SSNP_market_liberal_DEF: "Großsyrien"
  SYR_SSNP_social_conservative: "Großsyrien"
- SYR_SSNP_social_conservative_ADJ: "Syrisch"
  SYR_SSNP_social_conservative_DEF: "Großsyrien"
  SYR_SSNP_authoritarian_democrat: "Großsyrien"
- SYR_SSNP_authoritarian_democrat_ADJ: "Syrisch"
  SYR_SSNP_authoritarian_democrat_DEF: "Großsyrien"
  SYR_SSNP_paternal_autocrat: "Großsyrien"
- SYR_SSNP_paternal_autocrat_ADJ: "Syrisch"
  SYR_SSNP_paternal_autocrat_DEF: "Großsyrien"
  SYR_SSNP_national_populist: "Großsyrien"
- SYR_SSNP_national_populist_ADJ: "Syrisch"
  SYR_SSNP_national_populist_DEF: "Großsyrien"
 
 ### Focuses ###
@@ -425,13 +364,8 @@
  syr_mudafaa_hukuk_desc: "Die Müdâfaa-i Hukuk Cemiyetleri, die Assoziation zur Verteidigung der Nationalen Rechte, umfasst mehrere türkische Gruppierungen und ihre Verbündeten, die derzeit in den ehemaligen Vilayets Adana und Aleppo einen Guerilla-Krieg führen, um die Annexion der Regionen durch den neuen syrischen Staat rückgängig zu machen. Da die Kampfhandlungen immer erbitterter werden, muss bald eine Lösung gefunden werden, zumal diese Gruppierung mitunter über bessere Kommando- und Kommunikationslinien verfügt als unsere eigene Armee."
 
  syr_egyptian_cooperation: "Syrisch-Ägyptische Wirtschaftsintegration"
- syr_egyptian_cooperation2: "Syrisch-Ägyptische Wirtschaftsintegration"
  syr_military_intelligence: "Direktorat der Militärspionage"
 
- syr_sunni_elite_control2: "Politische Dominanz der Sunniten"
- syr_sunni_elite_control2_desc: "Obwohl Syrien die Heimat zahlreicher Religionen und Kulturen ist, haben sunnitische Familien die Region schon seit der Ankunft des Islams dominiert. Andere Religionen und Sekten, darunter etwa die Schiiten, Alawiten und orthodoxen Christen, haben im derzeitigen System nur einen sehr geringen Einfluss, weshalb sie ihre eigenen Sicherheits-, Bildungs- und Religionsinstitutionen ins Leben gerufen haben.\n\nDieses System sichert der damaskanischen Elite zwar immense Macht, reduziert politische Debatten jedoch auch auf die Probleme der größten und mächtigsten Städte Syriens und deren religiöser Gruppierungen."
- syr_sunni_elite_control3: "Politische Dominanz der Sunniten"
- syr_sunni_elite_control3_desc: "Obwohl Syrien die Heimat zahlreicher Religionen und Kulturen ist, haben sunnitische Familien die Region schon seit der Ankunft des Islams dominiert. Andere Religionen und Sekten, darunter etwa die Schiiten, Alawiten und orthodoxen Christen, haben im derzeitigen System nur einen sehr geringen Einfluss, weshalb sie ihre eigenen Sicherheits-, Bildungs- und Religionsinstitutionen ins Leben gerufen haben.\n\nDieses System sichert der damaskanischen Elite zwar immense Macht, reduziert politische Debatten jedoch auch auf die Probleme der größten und mächtigsten Städte Syriens und deren religiöser Gruppierungen."
  syr_stop_land_acquisition: "Einschränkung der jüdischen Landaneignung"
  syr_unitary_civil_code: "Einheitliche Verfassung"
  syr_hawran_secured: "Kontrolle über den Hauran"
@@ -439,10 +373,7 @@
 
  syr_census: "Nationale Volkszählungsbehörde"
  syr_palestinian_jewish_treaty: "Vereinbarungen der Palästinensischen Tafelrunde"
- syr_palestinian_jewish_treaty2: "Vereinbarungen der Palästinensischen Tafelrunde"
  syr_federative_civil_code: "Föderalistische Verfassung"
- syr_sunni_elite_control_lib: "Politische Dominanz der Sunniten"
- syr_sunni_elite_control_lib_desc: "Obwohl Syrien die Heimat zahlreicher Religionen und Kulturen ist, haben sunnitische Familien die Region schon seit der Ankunft des Islams dominiert. Andere Religionen und Sekten, darunter etwa die Schiiten, Alawiten und orthodoxen Christen, haben im derzeitigen System nur einen sehr geringen Einfluss, weshalb sie ihre eigenen Sicherheits-, Bildungs- und Religionsinstitutionen ins Leben gerufen haben.\n\nDieses System sichert der damaskanischen Elite zwar immense Macht, reduziert politische Debatten jedoch auch auf die Probleme der größten und mächtigsten Städte Syriens und deren religiöser Gruppierungen."
  syr_decentralised_development: "Dezentralisierte Entwicklung"
 
  syr_intelligence_agency: "Behörde zum Schutz von Staatsgeheimnissen"
@@ -454,7 +385,6 @@
  syr_central_planning: "Zentrales Direktorat der Wirtschaftlichen Planung"
 
  syr_defence_natural_syria: "Die Verteidigung Großsyriens"
- syr_defence_natural_syria2: "Die Verteidigung Großsyriens"
  syr_taking_cyprus: "Die Invasion Zyperns"
  syr_taking_cilicia: "Die Invasion Kilikiens"
  syr_lion_of_syria: "Der Syrische Löwe"
@@ -471,13 +401,10 @@
 ### Tooltips ###
  syr_ban_parties_tooltip: "\nDies wird zu einer £resistance_texticon §RRevolte§! gegen §Y[EGY.GetNameWithFlag]§! und wahrscheinlich zum §RKollaps§! der §Y[SYR.GetAdjective]§! Monarchie führen."
  syr_end_lebanon: "\nDies könnte zu einer £resistance_texticon §RRevolte§! gegen §Y[SYR.GetNameWithFlag]§! und der Ausrufung eines unabhängigen Staates in §CBeirut§! führen."
- syr_roundtable_tt: "§YSollte eine Vereinbarung getroffen werden, erhalten wir:\n§!"
  syr_restore_democracy_tt: "\nDie £manpower_texticon §PMilitärregierung§! wird von £army_experience §YSami al-Hinawi§! gestürzt, der die Macht an ein £pol_power §cSozialkonservatives§! Regime übertragen wird."
  syr_restore_democracy_liberal_tt: "\nDie £manpower_texticon §PMilitärregierung§! wird von £army_experience §YSami al-Hinawi§! gestürzt, der die Macht an ein £pol_power §lSozialliberales§! Regime übertragen wird."
  syr_basic_principle_tt: "\nMarschall £army_experience §YHusni al-Za'im§! wird von £army_experience §YAdib Shishakli§!, der von der §NSSNP§! unterstützt wird, gestürzt."
  syr_join_faction: "Auf Grundlage unserer bisher getroffenen Entscheidungen werden wir versuchen, uns entweder §Y[GER.GetNameWithFlag]§! oder §Y[EGY.GetNameWithFlag]§! anzunähern.\n\n"
- syr_league_arab_states: "\n\nSchaltet £decision_icon_small §YEntscheidungen§! frei, um §C [JBS.GetNameWithFlag], [HEJ.GetNameWithFlag], [IRQ.GetNameWithFlag], [SAU.GetNameWithFlag]§! und §C[YEM.GetNameWithFlag]§! in die §YLiga Arabischer Staaten§! einzuladen."
- yasin_in_da_house: "Yasin al-Hashimi befindet sich in Damaskus im Exil"
  syr_elections_30_days: "§YWahlen§! werden in 30 Tagen abgehalten werden"
  syr_elections_ongoing: "§YWahlen§! werden derzeit abgehalten"
  SYR_get_al_azma: "£army_experience Erhält einen §GStufe 2 Feldmarschall§! namens §Y$SYR_yusuf_al_azma$§!.\n"
@@ -502,14 +429,13 @@
  SYR_lebanon_independence_war_desc: "Die gesamte großsyrische Region leidet noch immer unter den Folgen des Syrischen Unabhängigkeitskrieges und der dadurch entstandenen Hungersnot, weshalb sich dieser Konflikt nicht in die Länge ziehen darf. Sollte der Libanon weiter ausharren, wird Syrien wohl dazu gezwungen sein, seine Unabhängigkeit anzuerkennen."
 
  ### Introduction ###
-
- SYR_guide: "§MVolkspartei§! - §MDamaskanischer Flügel§! (§lSozialliberale§!) / §MAleppischer Flügel§! (§mMarktliberale§!)\n£white_dot In den ersten Syrischen Wahlen müssen der Nationale Aktionsbund, die Libanesische Reformpartei und die Volkspartei eine Koalition bilden.\n£white_dot Um den §lDamaskanischen Flügel§! der Volkspartei an die Macht zu bringen, muss daraufhin al-Jazairi zum Präsidenten gewählt werden, für den §mAleppischen Flügel§! Rushdi al-Kikhiya.\n£white_dot Nach Abschluss des Schwerpunktes \"Wiedereröffnung der Militärschulen\" darf al-Za'im nicht entlassen werden.\n\n§MDer Nationale Block§! (§cSozialkonservative§!)\n£white_dot Der Nationale Block muss die ersten Syrischen Wahlen gewinnen.\n£white_dot Nach Abschluss des Schwerpunktes \"Wiedereröffnung der Militärschulen\" darf al-Za'im nicht entlassen werden.\n£white_dot Der Nationalgeist \"Konflikt auf dem Libanonberg\" wird bei Abschluss des Schwerpunktes \"Auflösung der Libanonberg-Autonomie\" eine libanesische Revolte herbeiführen und es erlauben, als Libanon weiterzuspielen.\n\n§MMilitärregierung§! (§PPaternale Autokraten§!) / §MSyrische Sozial-Nationalistische Partei§! (§NNationale Populisten§!)\n£white_dot Entlasse al-Za'im nach Abschluss des Schwerpunktes \"Wiedereröffnung der Militärschulen\".\n£white_dot Um die §PMilitärregierung§! an die Macht zu bringen, schließe den Schwerpunkt \"Das Militärmandat\" ab.\n£white_dot Für die §NSyrische Sozial-Nationalistische Partei§!, schließe den Schwerpunkt \"Den Grundprinzipien nacheifern\" ab. Der Nationalgeist \"Konflikt auf dem Libanonberg\" wird bei Abschluss des Schwerpunktes \"Syrisches Integrations- und Assimilationsprogramm\" eine libanesische Revolte herbeiführen und es erlauben, als Libanon weiterzuspielen.\n\n§MSultanat§! (§gAutoritäre Demokraten§!)\n£white_dot Wähle im Ereignis \"Der Status Syriens\" die Option, Syrien in eine ägyptische Marionette zu verwandeln. Dadurch können keine außenpolitischen Schwerpunkte mehr abgeschlossen werden und die libanesische Revolte wird garantiert ausbrechen.\n§CAnmerkung: Dieser Pfad ist nur für die KI spielbar.§!"
+ SYR_guide: "§MVolkspartei§! - §MDamaskanischer Flügel§! (§lSozialliberale§!) / §MAleppischer Flügel§! (§mMarktliberale§!)\n£white_dot In den ersten Syrischen Wahlen müssen der Nationale Aktionsbund, die Libanesische Reformpartei und die Volkspartei eine Koalition bilden.\n£white_dot Um den §lDamaskanischen Flügel§! der Volkspartei an die Macht zu bringen, muss daraufhin al-Jazairi zum Präsidenten gewählt werden, für den §mAleppischen Flügel§! Rushdi al-Kikhiya.\n£white_dot Nach Abschluss des Schwerpunktes \"Wiedereröffnung der Militärschulen\" darf al-Za'im nicht entlassen werden.\n\n§MDer Nationale Block§! (§cSozialkonservative§!)\n£white_dot Der Nationale Block muss die ersten Syrischen Wahlen gewinnen.\n£white_dot Nach Abschluss des Schwerpunktes \"Wiedereröffnung der Militärschulen\" darf al-Za'im nicht entlassen werden.\n£white_dot Der Nationalgeist \"Konflikt auf dem Libanonberg\" wird bei Abschluss des Schwerpunktes \"Auflösung der Libanonberg-Autonomie\" eine libanesische Revolte herbeiführen und es erlauben, als Libanon weiterzuspielen.\n\n§MMilitärregierung§! (§PPaternale Autokraten§!) / §MSyrische Sozial-Nationalistische Partei§! (§NNationale Populisten§!)\n£white_dot Entlasse al-Za'im nach Abschluss des Schwerpunktes \"Wiedereröffnung der Militärschulen\".\n£white_dot Um die §PMilitärregierung§! an die Macht zu bringen, schließe den Schwerpunkt \"Das Militärmandat\" ab.\n£white_dot Für die §NSyrische Sozial-Nationalistische Partei§!, schließe den Schwerpunkt \"Den Grundprinzipien nacheifern\" ab. Der Nationalgeist \"Konflikt auf dem Libanonberg\" wird bei Abschluss des Schwerpunktes \"Syrisches Integrations- und Assimilationsprogramm\" eine libanesische Revolte herbeiführen und es erlauben, als Libanon weiterzuspielen.\n\n§MArabisches Königreich Syrien§! (§gAutoritäre Demokraten§!)\n£white_dot Wähle im Ereignis \"Der Status Syriens\" die Option, Syrien in eine ägyptische Marionette zu verwandeln. Dadurch können keine außenpolitischen Schwerpunkte mehr abgeschlossen werden und die libanesische Revolte wird garantiert ausbrechen.\n§CAnmerkung: Dieser Pfad ist nur für die KI spielbar.§!"
 
 ### Events ###
  syrfor.1.t: "[SYR.GetNameDefCap] lädt uns in die Liga Arabischer Staaten ein"
  syrfor.1.d: "Um die arabische Einheit zu stärken und die arabischen Völker vor imperialistischen Ambitionen zu schützen, hat die damaskanische Regierung eine neue Initiative angekündigt, die auf die Stärkung wirtschaftlicher und diplomatischer Beziehungen zwischen den arabischen Staaten aus ist. Die sogenannte \"Liga Arabischer Staaten\" ist zwar ohne Zweifel ein Werkzeug der damaskanischen Regierung, um ihren Einfluss auf die Halbinsel zu stärken, doch es ist auch ein erster Schritt in Richtung Wohlstand und Sicherheit für Arabien."
- syrfor.1.a: "Wir nehmen ihr Angebot an."
- syrfor.1.b: "Wir brauchen sie nicht."
+ syrfor.1.a: "Wir nehmen ihr Angebot an!"
+ syrfor.1.b: "Wir brauchen sie nicht!"
 
  syrfor.2.t: "[FROM.GetNameDefCap] akzeptiert unser Angebot"
  syrfor.2.d: "Unsere Freunde in [FROM.GetName] haben unser Angebot angenommen und bereits mit den Vorbereitungen zum Beitritt zur Liga begonnen. Zusammen werden wir der Levante Wohlstand und Reichtum bringen!"
@@ -520,18 +446,17 @@
  syrfor.3.a: "Möge Allah sie strafen!"
 
 ## faction joining
- #I will change the capital part once NSB update is out
- syrfor.4.t: "Das [From.GetAdjective]e Angebot"
- syrfor.4.d: "Eine Gesandtschaft aus [From.GetNameDef] ist heute in unserer Hauptstadt eingetroffen, um mit unserer Regierung über einen Beitritt zu unserer Allianz zu diskutieren. Sollten wir ihre Annäherungsversuche belohnen oder sie von uns weisen?"
+ syrfor.4.t: "Das [FROM.GetAdjective]e Angebot"
+ syrfor.4.d: "Ein Abgesandter von [FROM.GetNameDef] ist heute in [ROOT.Capital.GetCapitalVictoryPointName] eingetroffen, um die Aussichten auf einen Beitritt zur [ROOT.GetFactionName] zu besprechen. Sollten wir sie hereinlassen oder brauchen wir sie nicht?"
  syrfor.4.a: "Heißt sie willkommen!"
  syrfor.4.b: "Wir haben kein Interesse an einem derartigen Bündnis."
 
- syrfor.5.t: "[From.GetNameDefCap] akzeptiert"
- syrfor.5.d: "[From.GetNameDefCap] hat unser Angebot angenommen. Von nun an stehen wir nicht mehr allein, sondern Seite an Seite mit unseren neuen Freunden und Verbündeten!"
+ syrfor.5.t: "[FROM.GetNameDefCap] akzeptiert"
+ syrfor.5.d: "[FROM.GetNameDefCap] hat unser Angebot angenommen und wir sind nun Mitglieder der [FROM.GetFactionName]."
  syrfor.5.a: "Großartig!"
 
- syrfor.6.t: "[From.GetNameDefCap] lehnt ab"
- syrfor.6.d: "[From.GetNameDefCap] hat unser Angebot abgelehnt und uns den Zutritt zu ihrer Allianz verwehrt."
+ syrfor.6.t: "[FROM.GetNameDefCap] lehnt ab"
+ syrfor.6.d: "[FROM.GetNameDefCap] hat unser Angebot abgelehnt und uns den Zutritt zu ihrer Allianz verwehrt."
  syrfor.6.a: "Verdammt!"
 
 ## Syrian Republic
@@ -541,11 +466,11 @@
 
  syrrep.2.t: "Damaskanischer Allsyrischer Kongress: Der Nationale Block & die Volkspartei"
  syrrep.2.d: "Der Allsyrische Kongress, der von der damaskanischen Elite unter dem wachsamen Auge einiger ägyptischer Beobachter und Exilanten abgehalten wird, soll eine Lösung für den de facto Bürgerkrieg finden, der derzeit in Großsyrien tobt. Es ist jedoch schnell deutlich geworden, dass die \"Einheit\" Syriens, die während des Krieges vorherrschte, mittlerweile verschwunden ist: Konflikte zwischen Familien, Regionen und Generationen stehen an der Tagesordnung.\n\nDie ältere Generation, ein Großteil der damaskanischen Elite und einige Persönlichkeiten, die zur Zeit der osmanischen Herrschaft von Bedeutung waren, haben sich zum Nationalen Block zusammengeschlossen, der sich selbst als Nachfolger sowohl der Al-Fatah, einer syrischen Widerstandsbewegung während des Weltkrieges, als auch der anti-türkischen Bewegung, die nach dem Weltkrieg entstand, sieht. Da der Block Großgrundbesitzer, bedeutende religiöse Persönlichkeiten und Befürworter des uralten Klientelismus des Nahen Ostens umfasst, wird er von der ägyptischen Regierung befürwortet, doch mit dem Abzug der türkischen Truppen verliert er auch seinen Halt in der Bevölkerung.\n\nDie Industriellen und Händler Aleppos wiederum haben sich in der Volkspartei organisiert, einer Bewegung mit Zielen, die denen des Nationalen Blocks ähneln, seinen Fokus auf die südsyrische Region jedoch verteufelt. Obwohl sie mit ihren damaskanischen Brüdern sozial auf nahezu ein und derselben Ebene stehen, sprechen sie sich außerdem für eine Union mit dem Irak aus und stellen sich dem Machtmonopol der Elite der Hauptstadt entgegen."
- syrrep.2.a: ""Stabilität und Kontinuität wird uns in die Zukunft führen!""
+ syrrep.2.a: "\"Stabilität und Kontinuität wird uns in die Zukunft führen!\""
 
  syrrep.3.t: "Damaskanischer Allsyrischer Kongress: Die zweite Generation"
  syrrep.3.d: "Sowohl die Volkspartei als auch der Nationale Block entstammen jedoch einer älteren Generation, die bisher lediglich auf eine Erhaltung des alten sozialen Systems und auf Autonomie von Kostantiniyye abzielte. Durch die Bildungsbemühungen der OHF und durch die massiven Veränderungen in Europa ist allerdings auch eine neue Generation entstanden´, die ein gänzlich anderes Weltbild entwickelt hat. Inspiriert von den sozialistischen Bewegungen in Europa nutzen die sozialistischen und kommunistischen Parteien die von der wirtschaftlichen Depression und dem Krieg hervorgebrachte Armut und das allgemeine Krisengefühl aus, um, mit der Unterstützung der Linken Europas, Unterstützung in der Bevölkerung zu sammeln. Am anderen Ende des Spektrums hat die SSNP sich von Bewegungen in Italien und Russland inspirieren lassen und stellt nun eine säkularistische und militaristische Organisation mit stark revolutionären Ideen dar.\n\nDie größte Bedrohung für den Nationalen Block stellt jedoch der Nationale Aktionsbund dar. Dieser wurde von einer hochgebildeten Generation arabischer Nationalisten organisiert und bildet gewissermaßen ein moderates Zentrum, welches zwar die säkularistischen Ambitionen der Extremisten unterstützt, jedoch auch an die Notwendigkeit freier Wahlen glaubt. Zeitungen, Radiosendungen und Milizen sind für diese Bewegung von essentieller Bedeutung - und ihr Dienst während unseres Unabhängigkeitskrieges könnte ihnen die Unterstützung des Volkes sichern.\n\nSchon bald werden wir wissen, welche dieser Bewegungen es an die Spitze schaffen wird, und welche lediglich als Fußnote in die Geschichte eingehen wird..."
- syrrep.3.a: ""Syrien darf auf eine neue Zukunft hoffen!""
+ syrrep.3.a: "\"Syrien darf auf eine neue Zukunft hoffen!\""
 
  syrrep.4.t: "Said al-Jazairi verkündet Wahlen"
  syrrep.4.d: "Der Kongress aus Intellektuellen, Händlern und anderen bedeutenden Persönlichkeiten berät nun schon geraume Zeit über das weitere Vorgehen, doch nun wandte sich endlich ein Sprecher der Versammlung, Said al-Jazairi, an das Volk und verkündete, dass Wahlen die Zukunft Syriens bestimmen sollten. Said ist ein Nachfahre des legendären algerischen Emirs Abdelkader al-Jazairi, der für seine Rolle im Libanesischen Bürgerkrieg weltweit als "Heiliger unter den Prinzen und Prinz unter den Heiligen" gepriesen wird. Zwar ist sein Enkel nicht annähernd so bekannt wie er, doch seine Taten während des Weltkrieges und des Levantinischen Krieges, mit denen er die Stabilität Damaskus' sicherte, haben ihn zu einer der einflussreichsten Personen der Hauptstadt gemacht, eine Position, die durch seine lange Amtszeit in der osmanischen Abgeordnetenkammer gestärkt wird.\n\nAlle Parteien, Gruppierungen und sonstige Organisationen, die am Kongress teilnahmen, haben versprochen, sich für freie und gerechte Wahlen einzusetzen und in ihre Wahlkreise zurückzukehren, um dort ihre Kampagnen zu organisieren. Obwohl diese Ideale sich auf dem Papier nach einem Schritt in die richtige Richtung anhören mögen, wird das tief in der syrischen Gesellschaft verwurzelte Klientelismus wohl der alten Elite den Sieg sichern, anstatt eine wahre Repräsentation des syrischen Volkes zu bewirken."
@@ -557,8 +482,8 @@
 
  syrrep.6.t: "Die ersten Syrischen Wahlen"
  syrrep.6.d: "Da alle zur Wahl stehenden Parteien Einschüchterungstaktiken nutzen und sich auch einige der noch nicht demobilisierten Milizen der Verbreitung von Angst als Mittel zum Zweck bedienen, haben die Wahlen weniger den Willen des Volkes gezeigt, als vielmehr das Recht des Stärkeren in unserer vom Krieg zerstörten Nation bestätigt. Trotz des Versprechens auf die gleiche Repräsentation aller religiösen und ethnischen Gruppen ist mittlerweile klar geworden, dass die wahre Macht wohl weiterhin in den Händen der Sunniten liegen wird, wobei die christlichen Minderheiten Syriens kaum Repräsentation finden werden. Es wurden auch keine jüdischen Volksvertreter gewählt, da die Zionisten Palästinas die Wahlen boykottiert, sie sogar als \"Affront gegen die Interessen der jüdischen Gemeinschaft\" bezeichnet haben. Währenddessen wurden in anderen Großstädten mit einer bedeutenden jüdischen Bevölkerung, etwa Aleppo und Damaskus, mehrere Wahlurnen aus den Viertel entwendet oder als ungültig erklärt.\n\nTrotz der großen Hoffnungen der sozialistischen Parteien konnten sie kaum Erfolge verzeichnen, wobei sich lediglich Akram al-Hourani als einflussreicher Politiker der Region Hama durchsetzen konnte. Auch für die rechteren Parteien, die von Saadeh geführt werden, sieht es jedoch schlecht aus, wobei sie lediglich einige kleinere Erfolge in den urbanen Zentren Nordsyriens verzeichnen, sich allerdings nicht einmal einen Sitz im Parlament sichern konnten. Beide Seiten geben nun den Wahlen selbst die Schuld an ihrer Niederlage und verlangen nun Neuwahlen, während ihre Milizen noch immer durch die Straßen unserer Städte ziehen und die Flaggen ihrer Parteien wehen."
- syrrep.6.a: "Der NA, die LR und die Volkspartei bilden eine Koalition!"
- syrrep.6.b: "Der Nationale Block sichert sich die Mehrheit!"
+ syrrep.6.a: "Der NA, die LR und die Volkspartei bilden eine Koalition."
+ syrrep.6.b: "Der Nationale Block sichert sich die Mehrheit."
 
  syrrep.7.t: "Shukri al-Quwatli übernimmt den Nationalen Block"
  syrrep.7.d: "Der Nationale Block, der derzeit vom ältlichen Hashim al-Atassi angeführt wird, sucht nun schon seit dem Ende des Levantinischen Krieges nach einer neuen Führungsperson. Zwar wird Hashim al-Atassi von vielen als einer der bedeutendsten syrischen Nationalisten betrachtet, doch er selbst hat entschieden, dass es nun, da die Unabhängigkeit Syriens durchgesetzt wurde, an der Zeit ist, der nächsten Generation das Ruder zu überlassen.\n\nGerüchte besagen, dass Shukri al-Quwatli, ein weiterer syrischer Nationalist, schon seit langer Zeit auf den Rücktritt seines Mentors gewartet und nun seine Chance ergriffen hat, selbst im Rampenlicht zu stehen. Al-Quwatli ist schon seit den Tagen des Weltkrieges ein Widerstandskämpfer und gewann an enormer Beliebtheit, nachdem er von Djemal Pashas Regime gefangen genommen und gefoltert wurde. Nach seiner Freilassung kämpfte er gegen die Allenby-Verwaltung, bis diese sich 1920 aus Nordsyrien zurückzog, woraufhin er seinen Kampf gegen die türkischen Besatzer fortsetzte. Nachdem er der osmanischen Gendarmerie einige Male nur knapp entkam, wurde er ins Exil nach Kairo verbannt, wo er jedoch weiterhin als Aktivist aktiv war und Unterstützung für die Befreiung seiner Heimat suchte.\n\nEs ist daher nicht verwunderlich, dass sein Name im Kreise der syrischen Nationalisten hoch geachtet wird, doch nicht alle Parteimitglieder sind gänzlich mit Quwatli zufrieden, vor allem aufgrund seines fortgeschrittenen Alters. Zwar ist er jünger als al-Atassi, doch viele hatten darauf gehofft, dass die mit seinem Rücktritt eine neue syrische Generation die Fackel weitertragen und Syrien in ein neues Zeitalter führen würde."
@@ -585,7 +510,7 @@
 
  syrrep.12.t: "Eine Koalition des Kompromisses"
  syrrep.12.d: "Durch die Wahlniederlage des Nationalen Blocks wurde der Koalition, welche sich ihm in der Wahl entgegenstellte, der Weg in Richtung Regierung geebnet. Viele haben nicht erwartet, dass sie so weit kommen würde, und die ausgehandelten Bündnisse, und in Hinterzimmern geschlossenen Vereinbarungen beginnen bereits zu bröckeln, da vielen mittlerweile klar geworden ist, dass die meisten Vereinbarungen nichts weiter als einige hastig unterschriebene Kompromisse darstellen, mit denen keine Seite gänzlich zufrieden ist.\n\nIn Lebanon erwartet die Reformpartei ihre versprochene Autonomie, während auch Drusen, Alawiten und Kurden auf Veränderung hoffen und die Türken hinter den Taurus-Bergen ihre Streiks und Proteste ausgeweitet haben, in der Hoffnung, die Regierung von der Notwendigkeit eines Referendums zu überzeugen, welches sie mit dem Rest Anatoliens vereinen könnte."
- syrrep.12.a: "Wir müssen Vorsicht walten lassen."
+ syrrep.12.a: "Wir müssen Vorsicht walten lassen..."
 
  syrrep.13.t: "Hungersnot in Syrien"
  syrrep.13.d: "Obwohl Syrien in Zeiten des Friedens zu den landwirtschaftlich ertragreichsten Regionen des Osmanischen Reiches gehörte, hatte die vom Levantinischen Krieg hervorgerufene Zerstörung und die erzwungene Migration tausender Syrer einen katastrophalen Einfluss auf die landwirtschaftliche Produktion. Felder wurden zurückgelassen oder verwüstet, Obstgärten zu Feuerholz und Treibstoff für Lokomotiven verwandelt und Höfe in ganz Syrien von umherziehenden Banditen geplündert.\n\nDie ägyptische Regierung hat uns zwar Unterstützung zugesagt, doch die starken Beschädigungen unserer Eisenbahnstrecken, Straßen und Häfen macht es schwierig, das Landesinnere Syriens zu erreichen. Viele Händler und Industriebesitzer haben bereits einen Teil ihrer Reichtümer an unsere Hilfsbemühungen gespendet und selbst die syrische Diaspora in allen Ecken der Welt wurde kontaktiert, in der Hoffnung, dass sie ihre Regierungen dazu bewegen können, uns weitere Unterstützung zukommen zu lassen."
@@ -666,7 +591,7 @@
 
  syrrep.31.t: "Libanesische Führungspersönlichkeiten versammeln sich im Beit ed-Din-Palast"
  syrrep.31.d: "General Fouad Chehab wurde heute Morgen dabei beobachtet, wie er zusammen mit dem bekannten libanesischen Politiker Bechara el-Khoury und dem drusischen Scheich Majid Arslan in ein Auto stieg. Obwohl unsere Agenten das Gefährt bis zum Beit ed-Din-Palast, einem alten Gebäude, welches zur Zeit des Libanesischen Emirates errichtet wurde, verfolgen konnten, wurden sie dort ohne jedwege Erklärung von einer Einheit der Libanesischen Freiwilligenarmee aufgehalten, welche den Palast zu bewachen schien. Es folgte ein hitziges Gespräch, welches sich schnell zu einer Streitigkeit über Ausweispapiere und bürokratischen Amtsschimmel entwickelte, da die Soldaten unseren Männern weiterhin den Zutritt verweigerten.\n\nBevor man sie zum Rückzug zwang, konnten unsere Agenten allerdings die Präsenz einer Anzahl weiterer bedeutender libanesischer Politiker bei diesem verdächtigen Treffen feststellen. Da der Beit ed-Din-Palast des Weiteren innerhalb des Distriktes Chouf liegt, welcher zum Territorium des drusischen Dschumblat-Clans gehört, ist es außerdem sehr wahrscheinlich, dass auch Kamal Dschumblat und seine Verwandten dem Treffen beiwohnten.\n\nObwohl die syrische Verfassung den Bürgern Syriens das Recht zum Organisieren von Versammlungen garantiert, hat dieses Treffen, welches in einem Palast abgehalten wurde, der von vielen als Symbol der libanesischen Unabhängigkeit verstanden wird, und dem sowohl Offiziere als auch Politiker und Anführer der Drusenstämme beiwohnten, der Regierung in Damaskus einen Schauer über den Rücken gejagt."
- syrrep.31.a: "Die Partei muss über diese Krise diskutieren..."
+ syrrep.31.a: "Die Partei muss über diese Krise diskutieren!"
 
  syrrep.32.t: "Die Konferenz von Jaffa"
  syrrep.32.d: "Unser neuer Präsident, welcher den verschiedenen Minderheiten der syrischen Nation während seines Wahlkampfes Autonomie versprach, hat nun einen zweiten Allsyrischen Kongress in Jaffa organisiert, um dort über eine mögliche Devolution zu diskutieren. Unter den sunnitischen Arabern findet sich für diese Pläne jedoch keine große Begeisterung, da diese fürchten, dass die syrische Regierung sich durch derartige Maßnahmen lediglich selbst schwächen und dadurch jedwege Chancen darauf, in der arabischen Welt eine Führungsrolle zu spielen, verspielen wird.\n\nAls Zeichen seiner Unzufriedenheit hat sich der Nationale Block nun gegen die Konferenz von Jaffa ausgesprochen und seine Mitglieder dazu aufgefordert, dieser nicht beizuwohnen, in der Hoffnung, so die Unterzeichnung eines Abkommenes verhindern zu können. Sowohl die Partei selbst als auch die Sunniten im Allgemeinen sehen sich nun allerdings gespalten, da viele in der Konferenz von Jaffa auch eine Möglichkeit sehen, im neuen syrischen System an Macht zu gewinnen. Die Bewohner Aleppos, welche ihre Macht nicht an Damaskus verlieren wollen und die befürchten, eine aggressivere syrische Regierung könnte im größtenteils kurdischen und türkischen Hinterland der Stadt schwere Schäden anrichten, haben bereits angekündigt, dass sie eine Delegation entsenden werden. Auch die Alawiten, Drusen und Maroniten haben die Einladung angenommen, während die Türken sich bisher noch weigern, teilzunehmen. Entgegen den Wünschen seiner Partei hat sich der Präsident des Weiteren dazu entschieden, David Ben-Gurion von den Jischuv einzuladen, in der Hoffnung, eine Vereinbarung mit den verblieben Zionisten zu treffen, die für Syrien von Vorteil sein wird."
@@ -729,7 +654,7 @@
 
  yishuvflavour.5.t: "Jabotinskys \"Erklärung zur Nationalen Befreiung\""
  yishuvflavour.5.d: "Mit der Begründung, dass die etablierten Organisationen der Jischuv das zionistische Ideal eines souveränen jüdischen Nationalstaates verraten haben, hat Jabotinsky heute in einer Ansprache über das Radio verkündet, dass die Irgun nun auf die \"Befreiung Israels von seinen Unterdrückern\" hinarbeiten wird und alle \"stolzen\" Juden dazu aufgerufen, Widerstand gegen die syrische Regierung zu leisten. Die Befürchtungen des Jüdischen Nationalrates und der syrischen Regierung sind tur Realität geworden: die Etzel hat sich in einem offenen Aufstand erhoben. Ihre Erfolgschancen sind zwar gering, doch viele fürchten dennoch, dass diese Deklaration lediglich den Anfang eines größeren Plans bedeutet. Der Nationalrat hat bereits darauf reagiert, indem er Jabotinsky und mehrere Führungspersonen der revisionistischen Bewegung und der Etzel zu Personae non gratae erklärt hat, eine Entscheidung, der sich nun auch die syrische Regierung angeschlossen hat."
- yishuvflavour.5.a: "Das bedeutet Ärger."
+ yishuvflavour.5.a: "Das bedeutet Ärger..."
 
  yishuvflavour.6.t: "Versuchter Bombenanschlag auf das Büro des Gouverneurs"
  yishuvflavour.6.d: "Ein Plan der Etzel, einen Anschlag auf das Büro des Gouverneurs in Jerusalem zu verüben, wurde heute um Haaresbreite von den zuständigen Behörden verhindert, als eine selbstgebaute Bombe im Raum unter dem Büro gefunden wurde. Die Hagana hat sich dazu bereit erklärt, mit den Behörden zusammenzuarbeiten, um die Täter ausfindig zu machen, die hinter diesem Plan stecken."
@@ -741,7 +666,7 @@
 
  yishuvflavour.8.t: "Jabotinsky flieht ins Exil"
  yishuvflavour.8.d: "Jabotinsky, der den derzeit tobenden \"Bruderkrieg\" allem Anschein nach nicht sonderlich gut verkraftet hat, ist nun ins selbstauferlegte Exil nach Griechenland geflohen, mit dem Schwur, dort weiter für die \"zionistische Sache\" zu kämpfen. Dabei hat sich ihm Avraham Tehomi angeschlossen, ein Kommandant der Etzel, welcher angeblich noch immer Widerstandszellen organisiert und plant, bald weitere Angriffe auf syrische Positionen durchzuführen."
- yishuvflavour.8.a: "Hoffentlich bleibt er dort auch."
+ yishuvflavour.8.a: "Hoffentlich bleibt er dort auch!"
 
  yishuvflavour.9.t: "Die Kakal pflanzt Bäume in Palästina"
  yishuvflavour.9.d: "Die Keren Kayemet L'Israel, die besser unter dem Akronym Kakal oder ihrem deutschen Namen \"der Jüdische Nationalfond\" bekannt ist, hat damit begonnen, in ganz Palästina Bäume zu pflanzen. Einige kritisieren zwar ihren Landerwerb in Palästina, der sogar als Diebstahl denunziert wird, doch mindestens ebenso viele heißen ihr Programm aufgrund der voranschreitenden Waldrodung Palästinas im Laufe der letzten Jahrhunderte willkommen. Die Regierung hat bereits verkündet, dass sie den Landerwerb der Kakal im Auge behalten wird, um so die Situation zu entspannen und die regionale Stabilität in Palästina aufrechtzuerhalten."

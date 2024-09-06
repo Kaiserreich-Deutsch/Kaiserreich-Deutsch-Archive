@@ -1,8 +1,6 @@
 ﻿l_german:
-### Übersetzt von DerEherneRächer ###
+### Übersetzt von DerEherneRächer -> Ab 1.1.4 Proho  ###
 ### Tooltips ###
- irq_extra_oob_tt: "£nato_unit_infantry_icon_small Erschaffe 2 §YInfanterie-Divisionen§! mit regulärer Erfahrung und Infanterieausrüstung aus dem Jahre 1936 in §YBaghdad§!\n£army_experience Erhalte einen §GStufe 2 General§! namens §YTaha al-Hashimi§!.\n"
-
  irq_conscription_law_tooltip: "Modifiziert §YKonfessionelle Spaltungen§! durch \n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G+50%§!\n\n"
  irq_resadiye_reorganisation: "\nModifiziert §YKonfessionelle Spaltungen§! durch \nRekrutierbare Bevölkerung: §G+5%§!\n\nModifiziert §YSchwere Armut§! durch \n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+5%§!"
  irq_national_education: "\nModifiziert §YSchwere Armut§! durch \n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+5%§!\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+5%§!"
@@ -21,19 +19,9 @@
  irq_kurdish_minority: "Modifiziert §YKonfessionelle Spaltungen§! durch \n$MODIFIER_STABILITY_FACTOR$: §G+3%§!\n"
  irq_makhmur_massacre: "Modifiziert §YKonfessionelle Spaltungen§! durch \n$MODIFIER_STABILITY_FACTOR$: §R-10%§!\n"
  irq_join_faction: "Je nachdem, für wen wir uns davor entschieden haben, werden wir uns entweder\n §Y[GER.GetNameWithFlag]§! oder §Y[EGY.GetNameWithFlag]§! anschließen.\n\n"
- irq_league_arab_states: "\n\nSchaltet £decision_icon_small §YEntscheidungen§! frei, um §C [JBS.GetNameWithFlag], [HEJ.GetNameWithFlag], [SYR.GetNameWithFlag], [SAU.GetNameWithFlag]§! und §C[YEM.GetNameWithFlag]§! in die §YLiga Arabischer Staaten§! einzuladen."
- irq_league_arab_states_oma: "Schaltet eine £decision_icon_small §YEntscheidung§! frei, um §C [OMA.GetNameWithFlag] §! in die §YLiga Arabischer Staaten§! einzuladen."
- irq_memberstates_buff: "Jedes Mitglied der §YLiga Arabischer Staaten§! erhält den folgenden Effekt:\n\n"
- irq_memberstates_puppet: "Jedes Mitglied der §YLiga Arabischer Staaten§! wird zu einem Marionettenstaat werden.\n\n"
- irq_memberstates_integration: "Jedes Mitglied der §YLiga Arabischer Staaten§! wird annektiert werden.\n\n"
- refused_loa: "Ist der §CLiga Arabischer Staaten§! nicht beigetreten"
-
- irq_needs_eco_system: "§RDAS WIRTSCHAFTSSYSTEM STEHT NOCH IMMER NICHT FEST§!"
 
  yasin_concedes: "Rashid al-Gaylani ist Teil des Kabinetts"
- yasin_concedes_NOT: "Rashid al-Gaylani ist kein Teil des Kabinetts"
  taha_concedes: "Taha al-Hashimi formt eine Allianz mit den Stämmen."
- taha_concedes_NOT: "Taha al-Hashimi formt keine Allianz mit den Stämmen."
 
  irq_iran_help_effect_tt: "§gErhöht die Chance, dass die Muntafiq ihr Ziel erreichen, stark.§!"
  irq_remove_old_reforms_tt: "§RDie neue Regierung hebt viele der zuvor durchgesetzten Reformen auf, wodurch der Fortschritt der vorherigen Regierung rückgängig gemacht wird.§!"
@@ -44,13 +32,10 @@
  IRQ_DEF: "Irak"
 
  IRQ_totalist: "Sozialistische Republik Irak"
- IRQ_totalist_ADJ: "Irakisch"
  IRQ_totalist_DEF: "die Sozialistische Republik Irak"
  IRQ_syndicalist: "Sozialistische Republik Irak"
- IRQ_syndicalist_ADJ: "Irakisch"
  IRQ_syndicalist_DEF: "die Sozialistische Republik Irak"
  IRQ_radical_socialist: "Sozialistische Republik Irak"
- IRQ_radical_socialist_ADJ: "Irakisch"
  IRQ_radical_socialist_DEF: "die Sozialistische Republik Irak"
 
  IRQ_federation: "Arabische Union"
@@ -58,34 +43,24 @@
  IRQ_federation_DEF: "die Arabische Union"
  
  IRQ_federation_totalist: "Proletarische Union Arabischer Staaten"
- IRQ_federation_totalist_ADJ: "Arabisch"
  IRQ_federation_totalist_DEF: "die Proletarische Union Arabischer Staaten"
  IRQ_federation_syndicalist: "Proletarische Union Arabischer Staaten"
- IRQ_federation_syndicalist_ADJ: "Arabisch"
  IRQ_federation_syndicalist_DEF: "die Proletarische Union Arabischer Staaten"
  IRQ_federation_radical_socialist: "Proletarische Union Arabischer Staaten"
- IRQ_federation_radical_socialist_ADJ: "Arabisch"
  IRQ_federation_radical_socialist_DEF: "die Proletarische Union Arabischer Staaten"
  IRQ_federation_social_democrat: "Arabische Föderation"
- IRQ_federation_social_democrat_ADJ: "Arabisch"
  IRQ_federation_social_democrat_DEF: "die Arabische Föderation"
  IRQ_federation_social_liberal: "Arabische Föderation"
- IRQ_federation_social_liberal_ADJ: "Arabisch"
  IRQ_federation_social_liberal_DEF: "die Arabische Föderation"
  IRQ_federation_market_liberal: "Arabische Föderation"
- IRQ_federation_market_liberal_ADJ: "Arabisch"
  IRQ_federation_market_liberal_DEF: "die Arabische Föderation"
  IRQ_federation_social_conservative: "Arabische Föderation"
- IRQ_federation_social_conservative_ADJ: "Arabisch"
  IRQ_federation_social_conservative_DEF: "die Arabische Föderation"
  IRQ_federation_authoritarian_democrat: "Arabische Föderation"
- IRQ_federation_authoritarian_democrat_ADJ: "Arabisch"
  IRQ_federation_authoritarian_democrat_DEF: "die Arabische Föderation"
  IRQ_federation_paternal_autocrat: "Arabische Föderation"
- IRQ_federation_paternal_autocrat_ADJ: "Arabisch"
  IRQ_federation_paternal_autocrat_DEF: "die Arabische Föderation"
  IRQ_federation_national_populist: "Arabische Föderation"
- IRQ_federation_national_populist_ADJ: "Arabisch"
  IRQ_federation_national_populist_DEF: "die Arabische Föderation"
 
 ### Parties ###
@@ -113,13 +88,6 @@
  #split this so puppet PatAut IRQ won't always be a kingdom
  IRQ_saadun_party: "al-Sa'adun"
  IRQ_saadun_party_long: "al-Sa'adun"
-
-### Decisions ###
- IRQ_Arab_League: "Die Liga Arabischer Staaten"
- IRQ_Arab_League_desc: "Die Araber, die eine gemeinsame Sprache verbindet, bildeten in den Reichen, in denen sie lebten, stets eine eigene Bevölkerungsgruppe. Einige sind jedoch der Meinung, dass die Araber noch enger zusammengebracht werden sollten und die arabische Welt wie zur Zeit der großen Kalifate vereint werden sollte. Sie glauben, dass ein vereinter arabischer Staat eine Renaissance der arabischen Halbinsel einleiten könnte und es den Arabern erlauben wird, eine bedeutendere Rolle in der globalen Politik einzunehmen.\n\nZur Beschleunigung des Einigungsprozesses wurde eine supranationale Organisation (§YDie Liga Arabischer Staaten§!) gegründet und mit weitreichenden Befugnissen ausgestattet. Sollte der Traum eines panarabischen Staates zur Realität werden, müssen wir jedoch auch die anderen arabischen Staaten davon überzeugen, einen Teil ihrer Souveränität aufzugeben und an dieser Initiative teilzuhaben."
-
- IRQ_invite_LOA: "Ladet [FROM.GetName] in die Liga Arabischer Staaten ein"
- IRQ_Integrate_Arab_Federation: "Integriert [From.GetName]"
 
 ### Dynamic Modifiers ###
  IRQ_Rampant_Corruption_dynamic_modifier: "£pol_idea Zügellose Korruption"
@@ -159,7 +127,6 @@
 
 ### Ideas ###
  IRQ_Socialist_Agitation: "Sozialistischer Aufruhr"
- IRQ_Socialist_Agitation_2: "Sozialistischer Aufruhr"
  IRQ_Muthanna_Paramilitaries: "al-Muthanna-Milizen"
  IRQ_Education_Reform: "Reformiertes Ministerium der Nationalen Bildung"
  IRQ_Miri_Distribution: "Irakische Landreform"
@@ -174,7 +141,6 @@
 
  IRQ_Legacy_of_Babylon: "Das Erbe Babils"
  IRQ_Foreign_Aid: "Ausländische Investitionen"
- IRQ_Legacy_of_Babylon2: "Das Erbe Babils"
  IRQ_Economic_Social_Council_idea: "Arabischer Wirtschafts- und Sozialrat"
  IRQ_Unified_Arab_Command: "Integriertes Arabisches Oberkommando"
  IRQ_Council_Social_Affairs: "Arabischer Rat für Soziale Belange"
@@ -343,7 +309,6 @@
  IRQ_Cooperate_Oman_desc: "Der Sultan von Muscat und Oman ist sicherlich daran interessiert, uns bei der Verwirklichung des panarabischen Traums zu unterstützen."
 
 ### Introduction ###
-
  IRQ_guide: "§MDer Kommandant der Nation§! (§gAutoritäre Demokraten§!)\n£white_dot Taha al-Hashimi muss Truppen zur Niederschlagung der Unruhen in Mesopotamien entsenden und die irregulären Rebellen müssen eine Niederlage erleiden und zerfallen.\n£white_dot Wenn al-Gaylani mit al-Hashimi bricht, muss ihm ein Ölzweig gereicht werden.\n£white_dot Entscheide während des Schwerpunktes \"Einführung eines Gestuften Steuersystems\", dass die Ideale al-Sha'biyas nicht sterben dürfen.\n\n§MAl-Gaylanis Staatsstreich§! (§NNationale Populisten§!) / §MTahas Vergeltung§! (§gAutoritäre Demokraten§!) / §MDas al-Ahali-Kabinett§! (§SSozialdemokraten§!)\n£white_dot Folge den Schritten des obigen Pfades, aber reiche al-Gaylani keinen Ölzweig.\n£white_dot Schließe die Schwerpunkte \"Gesellschaft zur Bekämpfung des Analphabetentums\" und \"Umverteilung des Miri-Landes\" ab.\n£white_dot Für eine §Nnationalpopulistische Regierung§!, lasse al-Hashimi eine Niederlage erleiden wenn dieser Baghdad angreift.\n£white_dot Für eine §gautoritärdemokratische§! / §Ssozialdemokratische§! Regierung, lasse Taha al-Hashimi Kamil Shabib besiegen.\n£white_dot Arbeite nach al-Hashimis Sieg mit al-Ahali zusammen für eine §Ssozialdemokratische§! Regierung oder nimm eine anti-sozialistische Haltung ein für eine §gautoritärdemokratische§! Regierung.\n\n§MDas Kabinett des Königs§! (§PPaternale Autokraten§! / §mMarktliberale§! / §SSozialdemokraten§!)\n£white_dot Lasse das al-Hashimi-Kabinett zerfallen, wenn die Stammesunruhen in Mesopotamien beginnen.\n£white_dot Ernenne Rashid al-Gaylani der HIW zum neuen Premierminister und verbiete Yasin al-Hashimi die Rückkehr für eine Regierung der §PPaternalen Autokraten§!.\n£white_dot Ernenne Kamil al-Chadirchi der al-Ahali zum neuen Premierminister für eine §Ssozialdemokratische§! Regierung. Lasse al-Chadirchi durch den Schwerpunkt \"Einführung eines Gestuften Steuersystems\" zurücktreten, um zu einer §mmarktliberalen§! Regierung zu wechseln."
 
 ### Events ###
@@ -479,56 +444,56 @@
  irq.32.b: "Die nationale Armee konnte die Rebellen nicht aufhalten."
 
 # Foreign Policy
- irqfor.1.t: "[IRQ.GetNameDefCap] möchte unserem Bündnis beitreten"
+ irqfor.1.t: "[FROM.GetNameDefCap] möchte unserem Bündnis beitreten"
  irqfor.1.d: "Zwischen den arabischen Mächten Ägypten und Syrien auf der einen und den Persern auf der anderen Seite liegt sich der Irak. Dieser befindet sich in einer strategisch wichtigen Position, zumal vor Kurzem nahezu endlose Ölreserven unter der öden Erde des Landes gefunden wurden.\n\nNun hat die Regierung des Iraks vorgeschlagen, dass wir uns gegen unsere gemeinsamen Feinde verbünden sollten, was uns eine gute Gelegenheit bietet, um unseren Einfluss nach Osten auszuweiten."
  irqfor.1.a: "Willkommen im Club!"
  irqfor.1.b: "Wir können sie hier nicht gebrauchen."
 
  irqfor.2.t: "Angebot angenommen"
- irqfor.2.d: "Die wohlwollende Regierung von [FROM.GetName] hat unser Angebot angenommen und versprochen, uns sowohl in Zeiten des Friedens als auch des Krieges zu unterstützen."
+ irqfor.2.d: "Die wohlwollende Regierung von [FROM.GetNameDef] hat unser Angebot angenommen und versprochen, uns sowohl in Zeiten des Friedens als auch des Krieges zu unterstützen."
  irqfor.2.a: "Großartig!"
 
  irqfor.3.t: "Angebot abgelehnt"
- irqfor.3.d: "Die widerwärtige Regierung von [FROM.GetName] hat unser Angebot abgelehnt, mit der Begründung, dass wir nur ein nutzloser und mittelalterlicher Staat sind, der sich in der Wüste versteckt und glaubt, er habe sich Ruhm verdient."
- irqfor.3.a: "Traurig!"
+ irqfor.3.d: "Die widerwärtige Regierung von [FROM.GetNameDef] hat unser Angebot abgelehnt, mit der Begründung, dass wir nur ein nutzloser und mittelalterlicher Staat sind, der sich in der Wüste versteckt und glaubt, er habe sich Ruhm verdient."
+ irqfor.3.a: "Sehr bedauerlich."
 
- irqfor.4.t: "[IRQ.GetNameDefCap] lädt uns in die Liga Arabischer Staaten ein"
+ irqfor.4.t: "[FROM.GetNameDefCap] lädt uns in die Liga Arabischer Staaten ein"
  irqfor.4.d: "Die irakische Regierung hat uns heute in die Liga Arabischer Staaten eingeladen, die gegründet wurde, um gegen den wachsenden Einfluss Ägyptens auf die arabische Welt vorzugehen. Um unseren Beitritt zu formalisieren, müssten wir lediglich einen Vertrag der ewigen Freundschaft unserer beiden Nationen unterzeichnen."
  irqfor.4.a: "Wir schließen uns ihren Bemühungen an!"
  irqfor.4.b: "Was glauben sie eigentlich, wer sie sind?"
 
- irqfor.5.t: "[FROM.GetName] tritt der Liga bei"
+ irqfor.5.t: "[FROM.GetNameDefCap] tritt der Liga bei"
  irqfor.5.d: "Fantastische Neuigkeiten! Repräsentanten aus [FROM.GetName] haben heute in Baghdad einen Vertrag der ewigen Freundschaft unserer beiden Nationen unterzeichnet und somit ihren Beitritt zur Liga offiziell gemacht. Möge uns die Zukunft nichts als Wohlstand bringen!"
  irqfor.5.a: "Willkommen!"
 
- irqfor.6.t: "[FROM.GetName] lehnt unser Angebot ab"
+ irqfor.6.t: "[FROM.GetNameDefCap] lehnt unser Angebot ab"
  irqfor.6.d: "Da sie keine Partnerschaften mit dem Irak eingehen will, hat sich die [FROM.GetAdjective]e Regierung dazu entschlossen, unser Angebot abzulehnen und stattdessen alleine in die Zukunft zu schreiten."
  irqfor.6.a: "Äußerst schade."
  
  #Countries choose to align with IRQ or EGY
- irqfor.7.t: "[FROM.GetName] Challenges Egyptian Dominance"
- irqfor.7.d: "Die Beziehungen zwischen dem Irak und Ägypten haben sich nun schon seit geraumer Zeit verschlechtert. Während Ägypten seine entscheidende Rolle im Kampf gegen die Osmanen genutzt hat, um sich als \"Führer\" der arabischen Nationen zu etablieren, sieht der Irak darin eine Unterordnung der Interessen anderer arabischer Nationen gegenüber denen Ägyptens. Diese Streitigkeiten zwischen den beiden Nationen begannen als einfacher diplomatischer Zwischenfall, haben sich nun jedoch zu einem institutionellen Bruch zwischen den beiden Nationen entwickelt, zunächst durch den Zusammenbruch der Beziehungen innerhalb des Kairo-Paktes, daraufhin durch die Gründung der irakischen Liga Arabischer Staaten, welche von vielen als Versuch angesehen wird, dem Einfluss Kairos zu entkommen.\n\nNun ist der Irak einen Schritt weiter gegangen. Vor einigen Stunden hat die irakische Regierung den Kairo-Pakt über ihren sofortigen Rückzug aus dem Bündnis informiert, wobei sie als Grund die \"inakzeptable und fest in der Organisation verankerte Bevorzugung der Ägypter\" angaben. Kurz darauf hat die irakische Regierung uns und anderen Mitgliedern des Kairo-Paktes darum ersucht, ihnen in ihrem Kampf gegen die ägyptische Dominanz beizuwohnen und eine neue Allianz mit ihnen zu gründen. Diese Allianz wird, so wurde uns versichert, die bisher vom Kairo-Pakt übernommenen Aufgaben in einer angemesseneren Struktur übernehmen.\n\nDie Meinungen innerhalb unserer Regierung sind gemischt. Stimmen für und gegen den irakischen Plan haben bereits über die Notwendigkeit bzw. Narrheit des Plans diskutiert, wobei die einen behaupten, dass Ägypten uns bisher nur ausgenutzt habe, während andere sagen, dass der Irak nur auf Macht aus ist und uns mit Lügen auf seine Seite bewegen will. Man kann wohl nicht verneinen dass dieses irakische Manöver die Einheit der Araber gefährdet - und das zu einem schlechten Zeitpunkt - doch wir müssen uns dennoch entscheiden, auf wessen Seite wir lieber stehen würden, sollte es zu einem Konflikt kommen."
+ irqfor.7.t: "[FROM.GetNameDefCap] Challenges Egyptian Dominance"
+ irqfor.7.d: "Die Beziehungen zwischen dem [FROM.GetNameDef] und Ägypten haben sich nun schon seit geraumer Zeit verschlechtert. Während Ägypten seine entscheidende Rolle im Kampf gegen die Osmanen genutzt hat, um sich als \"Führer\" der arabischen Nationen zu etablieren, sieht der [FROM.GetNameDef] darin eine Unterordnung der Interessen anderer arabischer Nationen gegenüber denen Ägyptens. Diese Streitigkeiten zwischen den beiden Nationen begannen als einfacher diplomatischer Zwischenfall, haben sich nun jedoch zu einem institutionellen Bruch zwischen den beiden Nationen entwickelt, zunächst durch den Zusammenbruch der Beziehungen innerhalb des Kairo-Paktes, daraufhin durch die Gründung der irakischen Liga Arabischer Staaten, welche von vielen als Versuch angesehen wird, dem Einfluss Kairos zu entkommen.\n\nNun ist der [FROM.GetNameDef] einen Schritt weiter gegangen. Vor einigen Stunden hat die irakische Regierung den Kairo-Pakt über ihren sofortigen Rückzug aus dem Bündnis informiert, wobei sie als Grund die \"inakzeptable und fest in der Organisation verankerte Bevorzugung der Ägypter\" angaben. Kurz darauf hat die irakische Regierung uns und anderen Mitgliedern des Kairo-Paktes darum ersucht, ihnen in ihrem Kampf gegen die ägyptische Dominanz beizuwohnen und eine neue Allianz mit ihnen zu gründen. Diese Allianz wird, so wurde uns versichert, die bisher vom Kairo-Pakt übernommenen Aufgaben in einer angemesseneren Struktur übernehmen.\n\nDie Meinungen innerhalb unserer Regierung sind gemischt. Stimmen für und gegen den irakischen Plan haben bereits über die Notwendigkeit bzw. Narrheit des Plans diskutiert, wobei die einen behaupten, dass Ägypten uns bisher nur ausgenutzt habe, während andere sagen, dass der [FROM.GetNameDef] nur auf Macht aus ist und uns mit Lügen auf seine Seite bewegen will. Man kann wohl nicht verneinen dass dieses irakische Manöver die Einheit der Araber gefährdet - und das zu einem schlechten Zeitpunkt - doch wir müssen uns dennoch entscheiden, auf wessen Seite wir lieber stehen würden, sollte es zu einem Konflikt kommen."
  irqfor.7.a: "Sie haben recht!"
  irqfor.7.b: "Sind sie denn wahnsinnig geworden?!"
 
  #Country sides with / Syria - Iraqi / Syrian PoV.
- irqfor.8.t: "[FROM.GetName] stellt sich auf unsere Seite"
- irqfor.8.d: "Gute Neuigkeiten aus [FROM.GetName]! Sie haben sich uns in unserem Kampf gegen den ägyptischen Imperialismus angeschlossen und uns ihre weitere Unterstützung für unsere Sache versichert. Zusammen werden wir ein neues Zeitalter für alle Araber einläuten!"
+ irqfor.8.t: "[FROM.GetNameDefCap] stellt sich auf unsere Seite"
+ irqfor.8.d: "Gute Neuigkeiten aus [FROM.GetNameDef]! Sie haben sich uns in unserem Kampf gegen den ägyptischen Imperialismus angeschlossen und uns ihre weitere Unterstützung für unsere Sache versichert. Zusammen werden wir ein neues Zeitalter für alle Araber einläuten!"
  irqfor.8.a: "Exzellent."
 
  #Country sides with Iraq / Syria - Egyptian PoV.
- irqfor.9.t: "[FROM.GetName] stellt sich auf die Seite [FROM.FROM.GetNameDef]"
- irqfor.9.d: "Schockierende Neuigkeiten aus [FROM.GetName]! Sie scheinen auf die Täuschungen und Anschuldigungen [FROM.FROM.GetNameDef]s hereingefallen zu sein und haben sich nun aus unserer Allianz zurückgezogen! Der [FROM.GetAdjective]en Regierung fehlt es offensichtlich an logischem Denkvermögen..."
+ irqfor.9.t: "[FROM.GetNameDefCap] stellt sich auf die Seite [FROM.FROM.GetNameDef]"
+ irqfor.9.d: "Schockierende Neuigkeiten aus [FROM.GetNameDef]! Sie scheinen auf die Täuschungen und Anschuldigungen [FROM.FROM.GetNameDef]s hereingefallen zu sein und haben sich nun aus unserer Allianz zurückgezogen! Der [FROM.GetAdjective]en Regierung fehlt es offensichtlich an logischem Denkvermögen..."
  irqfor.9.a: "Bedauerlich."
 
  #Country sides with Egypt - Iraqi / Syrian PoV.
- irqfor.10.t: "[FROM.GetName] stellt sich auf die Seite Ägyptens"
- irqfor.10.d: "Schlechte Neuigkeiten aus [FROM.GetName]! Unser Angebot blieb unbeantwortet und einige unserer Quellen haben uns darüber informiert, dass die [FROM.GetAdjective] nicht plant, mit Ägypten zu brechen. Stattdessen scheinen sie damit zufrieden zu sein, unter Kairos Stiefel zu leben."
+ irqfor.10.t: "[FROM.GetNameDefCap] stellt sich auf die Seite Ägyptens"
+ irqfor.10.d: "Schlechte Neuigkeiten aus [FROM.GetNameDef]! Unser Angebot blieb unbeantwortet und einige unserer Quellen haben uns darüber informiert, dass die [FROM.GetAdjective] nicht plant, mit Ägypten zu brechen. Stattdessen scheinen sie damit zufrieden zu sein, unter Kairos Stiefel zu leben."
  irqfor.10.a: "Bedauerlich."
 
  #Country sides with Egypt - Egyptian PoV.
- irqfor.11.t: "[FROM.GetName] stellt sich auf unsere Seite"
- irqfor.11.d: "Gute Neuigkeiten aus [FROM.GetName]! Obwohl sich [FROM.FROM.GetNameDef] ihrer Regierung angenähert hat, wurde uns insgeheim versichert, dass man nicht auf der [FROM.FROM.GetAdjective] Seite stehe und weiterhin ein Teil des Kairo-Paktes bleiben möchte. Zum Glück haben sie die Täuschungen der [FROM.FROM.GetAdjective] Regierung durchschaut!"
+ irqfor.11.t: "[FROM.GetNameDefCap] stellt sich auf unsere Seite"
+ irqfor.11.d: "Gute Neuigkeiten aus [FROM.GetNameDef]! Obwohl sich [FROM.FROM.GetNameDef] ihrer Regierung angenähert hat, wurde uns insgeheim versichert, dass man nicht auf der [FROM.FROM.GetAdjective] Seite stehe und weiterhin ein Teil des Kairo-Paktes bleiben möchte. Zum Glück haben sie die Täuschungen der [FROM.FROM.GetAdjective] Regierung durchschaut!"
  irqfor.11.a: "Exzellent."
 
  

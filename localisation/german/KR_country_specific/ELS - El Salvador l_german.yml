@@ -10,25 +10,25 @@
 El_Salvador: "Schwerpunktbaum von El Salvador"
 
 ### Parties ###
-ELS_totalist_party_long: "Alianza Totalista Nacionalista"
+ELS_totalist_party_long: "Alianza Totalista Nacionalista (Nationalistisch-totalistische Allianz)"
 ELS_totalist_party: "ATN"
-ELS_syndicalist_party_long: "Fuerzas Populares de Liberación"
+ELS_syndicalist_party_long: "Fuerzas Populares de Liberación (Volksbefreiungskräfte)"
 ELS_syndicalist_party: "FPL"
-ELS_radical_socialist_party_long: "Movimiento Renovador"
+ELS_radical_socialist_party_long: "Movimiento Renovador (Renovierungsbewegung)"
 ELS_radical_socialist_party: "MR"
-ELS_social_democrat_party_long: "Partido Laborista"
+ELS_social_democrat_party_long: "Partido Laborista (Arbeiterpartei)"
 ELS_social_democrat_party: "PL"
-ELS_social_liberal_party_long: "Partido Nacional Democrático"
+ELS_social_liberal_party_long: "Partido Nacional Democrático (Nationale Demokratische Partei)"
 ELS_social_liberal_party: "PND"
-ELS_market_liberal_party_long: "Partido Demócrata Cristiano"
+ELS_market_liberal_party_long: "Partido Demócrata Cristiano (Christlich-demokratische Partei)"
 ELS_market_liberal_party: "PDC"
-ELS_social_conservative_party_long: "Alianza Republicana Nacionalista"
+ELS_social_conservative_party_long: "Alianza Republicana Nacionalista (Nationalistisch-Republikanische Allianz)"
 ELS_social_conservative_party: "ARN"
-ELS_authoritarian_democrat_party_long: "Partido Revolucionario de Unificación Democrática"
+ELS_authoritarian_democrat_party_long: "Partido Revolucionario de Unificación Democrática (Revolutionäre Demokratische Vereinigungspartei)"
 ELS_authoritarian_democrat_party: "PRUD"
-ELS_paternal_autocrat_party_long: "Fuerza Armada de El Salvador"
+ELS_paternal_autocrat_party_long: "Fuerza Armada de El Salvador (Streitkräfte von El Salvador)"
 ELS_paternal_autocrat_party: "FAEL"
-ELS_national_populist_party_long: "Partido Nacional Pro-Patria"
+ELS_national_populist_party_long: "Partido Nacional Pro-Patria (Nationale Partei des Vaterlandes)"
 ELS_national_populist_party: "PNPP"
 
 ##Modifiers##
@@ -48,19 +48,19 @@ ELS_presidency_restored_flag: "§YDie Präsidentschaft wurde wiederhergestellt.�
 ELS_syndicalist_country_flag: "§YEs wurde beschlossen, dem syndikalistischen System zu folgen.§!"
 ELS_military_victory_flag: "§YDas Militär ist wieder an die Macht gekommen.§!"
 ELS_national_democratic_victory_flag: "§YDie Nationaldemokratische Partei hat es geschafft, in die Politik zurückzukehren.§!"
-ELS_labour_victory_flag: "§YDie Labour-Partei hat es geschafft, den Präsidentenposten zu behalten.§!"
+ELS_labour_victory_flag: "§YDie Arbeiterpartei hat es geschafft, den Präsidentenposten zu behalten.§!"
 ELS_military_takeover_flag: "§YDie Armee hat San Salvador zurückerobert und gesichert!§!"
 ELS_revolution_over_flag: "§YDie Revolution muss vorbei sein.§!"
 ELS_conscription_flood_tooltip: "§RDas könnte uns beißen, sobald wir den Kriegszustand beenden.§!"
 
-ELS_will_upgrade_union: "§GDamit wird die von uns gewählte Gewerkschaft aufgewertet.§!"
+ELS_will_upgrade_union: "Dadurch wird die gewählte Gewerkschaft aufgewertet, was die folgenden Auswirkungen hat:"
 
 ELS_election_angry_military: "§RDas salvadorianische Militär wurde nicht geschwächt und könnte intervenieren!§!"
 ELS_military_not_neutered: "§RDas salvadorianische Militär hat eine lange Geschichte der Einmischung in die Politik, und wenn man sich ihnen nicht entgegenstellt, könnte man sie weiter ermutigen!§!"
 
 els_ratification_treaty: "§GWir werden eine Botschaft an Honduras und Guatemala senden, damit sie den Vertrag endgültig unterzeichnen.§!"
 
-ELS_foreign_asset_status: "§GWir entscheiden über den Status des Auslandsvermögens.§!"
+ELS_foreign_asset_status: "Wir entscheiden über den Status von Auslandsvermögen. Wir haben folgende Möglichkeiten, je nachdem, ob wir sozialistisch sind oder nicht:"
 
 ELS_buy_planes_tt: "Schaltet £decision_icon_small §HEntscheidungen§! zum Kauf von Flugzeugen für ausländische Unternehmen frei"
 
@@ -372,7 +372,7 @@ els.64.t: "Der Status des Auslandsvermögens"
 els.64.d: "Eine Analyse unseres Handelsrechtssystems hat ergeben, dass viele ausländische Unternehmen in El Salvador auf der Grundlage von Schlupflöchern tätig waren, die es ihnen ermöglichten, Vorschriften und die Zahlung bestimmter Steuern zu umgehen. Obwohl von mehreren Kabinettsmitgliedern harte Strafen vorgeschlagen wurden, haben wir beschlossen, diese ausländischen Unternehmen zu verschonen, solange sie sich bereit erklären, die von uns erlassenen neuen Gesetze zu befolgen und die fälligen Steuern zu entrichten."
 els.64.a: "Es ist ein Vergnügen, mit Ihnen Geschäfte zu machen."
 
-els.65.t: "Der Status des Auslandsvermögens"
+els.65.t: "Beschlagnahmung ausländischer Vermögenswerte"
 els.65.d: "Eine Analyse unseres Handelsrechtssystems hat ergeben, dass viele ausländische Unternehmen in El Salvador auf der Grundlage von Schlupflöchern operierten, die es ihnen ermöglichten, Vorschriften und die Zahlung bestimmter Steuern zu umgehen. Obwohl mehrere Kabinettsmitglieder mildere Strafen vorgeschlagen haben, haben wir beschlossen, dass wir uns eine solche Beleidigung nicht gefallen lassen und die Vermögenswerte dieser Unternehmen sofort beschlagnahmen werden, um das Wohlergehen ihrer Arbeitnehmer zu gewährleisten und um ihre Missetaten gegenüber unserem Volk zu vergelten."
 els.65.a: "Ein Sieg für das Volk!"
 
@@ -524,11 +524,11 @@ els.135.d: "Eine salvadorianische Delegation ist heute mit einem Handelsangebot 
 els.135.a: "Akzeptiert das Handelsabkommen."
 els.135.b: "Lehnt das Handelsabkommen ab."
 
-els.136.t: "Die Union von Britannien akzeptiert unser Handelsabkommen"
+els.136.t: "[FROM.GetNameDefCap] akzeptiert unser Handelsabkommen"
 els.136.d: "Unsere Delegation hat uns aus London kontaktiert und mitgeteilt, dass die Briten den Bedingungen unseres Handelsabkommens zugestimmt haben. Dies ist ein großer Tag für El Salvador und sein Volk!"
 els.136.a: "Wir sind dankbar für ihre Hilfe."
 
-els.137.t: "Die Union von Britannien akzeptiert unser Handelsabkommen"
+els.137.t: "[FROM.GetNameDefCap] lehnt unser Handelsabkommen ab"
 els.137.d: "Unsere Delegation hat uns aus London kontaktiert und uns mitgeteilt, dass die Briten die Bedingungen unseres Handelsabkommens abgelehnt haben. Da sie nicht in der Lage sind, unser Angebot zu verbessern, werden sie nun mit leeren Händen nach Hause kommen, und unsere Entwicklung wird vorübergehend gebremst werden. Dennoch ist unser Land stark und wir werden diesen Rückschlag überwinden."
 els.137.a: "¡Maldita sea!"
 
@@ -805,17 +805,17 @@ ELS_KR_gathering_storm_desc: "Mit dem Staatsstreich von Maximiliano Hernandez Ma
 
 ### Country Names ###
 ELS: "El Salvador"
-ELS_ADJ: "Salvadorianisch"
+ELS_ADJ: "El Salvadorianisch"
 ELS_DEF: "El Salvador"
 
 ELS_totalist: "Salvadorianische Kommune"
-ELS_totalist_ADJ: "Salvadorianisch"
+ELS_totalist_ADJ: "El Salvadorianisch"
 ELS_totalist_DEF: "die Salvadorianische Kommune"
 ELS_syndicalist: "Salvadorianische Kommune"
-ELS_syndicalist_ADJ: "Salvadorianisch"
+ELS_syndicalist_ADJ: "El Salvadorianisch"
 ELS_syndicalist_DEF: "die Salvadorianische Kommune"
 ELS_radical_socialist: "Salvadorianische Kommune"
-ELS_radical_socialist_ADJ: "Salvadorianisch"
+ELS_radical_socialist_ADJ: "El Salvadorianisch"
 ELS_radical_socialist_DEF: "die Salvadorianische Kommune"
 
 ### Characters ###

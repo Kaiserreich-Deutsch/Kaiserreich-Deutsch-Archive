@@ -34,6 +34,8 @@ which_has_the_following_effect: "Dies hat folgende Auswirkungen:"
 improves_designer_tt: "§GVerbessert§! §YDesign Unternehmen§!:"
 improves_industrial_concern_tt: "§GVerbessert§! §YIndustriekonzern§!:"
 
+end_coalition_tt: "Die §YKoalition§! wird vollständig beendet."
+
 #scoped to the country joining
 tooltip_joins_faction: "§Y[THIS.GetName]§! tritt der Fraktion bei."
 
@@ -216,13 +218,16 @@ compliance_growth_tooltip: "$MODIFIER_COMPLIANCE_GROWTH$: $RIGHT|+=%0$"
 resistance_target_tooltip: "$MODIFIER_RESISTANCE_TARGET$: $RIGHT|-=%0$"
 resistance_growth_tooltip: "$MODIFIER_RESISTANCE_GROWTH$: $RIGHT|-=%0$"
 resistance_decay_tooltip: "$MODIFIER_RESISTANCE_DECAY$: $RIGHT|+=%0$"
+resistance_activity_tooltip: "$MODIFIER_RESISTANCE_ACTIVITY_FACTOR$: $RIGHT|-=%1$"
+resistance_damage_to_garrison_tooltip: "$MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS$: $RIGHT|-=%2$"
 
 compliance_growth_on_our_occupied_states_tooltip: "$MODIFIER_COMPLIANCE_GROWTH_ON_OUR_OCCUPIED_STATES$: $RIGHT|-=%0$"
 resistance_target_on_our_occupied_states_tooltip: "$MODIFIER_RESISTANCE_TARGET_ON_OUR_OCCUPIED_STATES$: $RIGHT|+=%0$"
 resistance_growth_on_our_occupied_states_tooltip: "$MODIFIER_RESISTANCE_GROWTH_ON_OUR_OCCUPIED_STATES$: $RIGHT|+=%0$"
 resistance_decay_on_our_occupied_states_tooltip: "$MODIFIER_RESISTANCE_DECAY_ON_OUR_OCCUPIED_STATES$: $RIGHT|-=%0$"
+resistance_damage_to_garrison_on_our_occupied_states_tooltip: "$MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS_ON_OUR_OCCUPIED_STATES$: $RIGHT|+=%2$"
 
-war_support_tooltip: "$MODIFIER_WAR_SUPPORT_FACTOR$: $RIGHT|+=%0$"
+war_support_tooltip: "$MODIFIER_WAR_SUPPORT_FACTOR$: $RIGHT|=%+$"
 war_support_weekly_tooltip: "$MODIFIER_WAR_SUPPORT_WEEKLY$: $RIGHT|+=%2$"
 weekly_casualties_war_support_tooltip: "$MODIFIER_WEEKLY_CASUALTIES_WAR_SUPPORT$: $RIGHT|+=%0$"
 weekly_convoys_war_support_tooltip: "$MODIFIER_WEEKLY_CONVOYS_WAR_SUPPORT$: $RIGHT|+=%0$"
@@ -234,6 +239,7 @@ dig_in_speed_factor_tooltip: "$MODIFIER_DIG_IN_SPEED_FACTOR$: $RIGHT|=%+1$"
 
 initiative_factor_tooltip: "$MODIFIER_INITIATIVE_FACTOR$: $RIGHT|=%+1$"
 coordination_bonus_tooltip: "$coordination_bonus$: $RIGHT|+=%1$"
+combat_width_factor_tooltip: "$MODIFIER_COMBAT_WIDTH_FACTOR$: $RIGHT|-=%1$"
 
 supply_node_range_tooltip: "$MODIFIER_SUPPLY_NODE_RANGE$: $RIGHT|+=%0$"
 supply_consumption_factor_tooltip: "$MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: $RIGHT|-=%1$"
@@ -258,6 +264,7 @@ modifier_army_sub_unit_paratrooper_defence_factor_tooltip: "$modifier_army_sub_u
 modifier_army_sub_unit_paratrooper_max_org_factor_tooltip: "$modifier_army_sub_unit_paratrooper_max_org_factor$: $RIGHT|+=%2$"
 
 terrain_penalty_reduction_tooltip: "$MODIFIER_TERRAIN_PENALTY_REDUCTION$: $RIGHT|+=%1$"
+max_planning_factor_tooltip: "$MODIFIER_MAX_PLANNING_FACTOR$: $RIGHT|+=%1$"
 
 political_advisor_cost_factor_tooltip: "$political_advisor_cost_factor$: $RIGHT|-=%0$"
 air_advisor_cost_factor_tooltip: "$MODIFIER_AIR_ADVISOR_COST_FACTOR$: $RIGHT|-=%0$"
@@ -289,6 +296,10 @@ army_morale_factor_tooltip: "$MODIFIER_ARMY_MORALE_FACTOR$: $RIGHT|+=%1$"
 modifier_army_sub_unit_militia_attack_factor_tooltip: "$modifier_army_sub_unit_militia_attack_factor$: $RIGHT|+=%2$"
 modifier_army_sub_unit_militia_defence_factor_tooltip: "$modifier_army_sub_unit_militia_defence_factor$: $RIGHT|+=%2$"
 modifier_army_sub_unit_militia_max_org_factor_tooltip: "$modifier_army_sub_unit_militia_max_org_factor$: $RIGHT|+=%2$"
+
+modifier_army_sub_unit_irregular_attack_factor_tooltip: "$modifier_army_sub_unit_irregular_infantry_attack_factor$: $RIGHT|+=%2$"
+modifier_army_sub_unit_irregular_defence_factor_tooltip: "$modifier_army_sub_unit_irregular_infantry_defence_factor$: $RIGHT|+=%2$"
+modifier_army_sub_unit_irregular_max_org_factor_tooltip: "$modifier_army_sub_unit_irregular_infantry_max_org_factor$: $RIGHT|+=%2$"
 
 modifier_army_sub_unit_armored_car_attack_factor_tooltip: "$modifier_army_sub_unit_armored_car_attack_factor$: $RIGHT|+=%2$"
 modifier_army_sub_unit_armored_car_defence_factor_tooltip: "$modifier_army_sub_unit_armored_car_defence_factor$: $RIGHT|+=%2$"
@@ -336,6 +347,8 @@ breakthrough_factor_tooltip: "$MODIFIER_BREAKTHROUGH$: $RIGHT|+=%$"
 army_defence_tooltip: "$MODIFIERS_ARMY_DEFENCE_FACTOR$: $RIGHT|+=%1$"
 army_core_attack_tooltip: "$MODIFIERS_ARMY_CORE_ATTACK_FACTOR$: $RIGHT|+=%1$"
 army_core_defence_tooltip: "$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: $RIGHT|+=%1$"
+land_night_attack_tooltip: "$MODIFIER_LAND_NIGHT_ATTACK$: $RIGHT|+=%1$"
+army_attack_against_major_factor_tooltip: "$MODIFIERS_ARMY_ATTACK_AGAINST_MAJOR_FACTOR$: $RIGHT|+=%1$"
 
 army_infantry_attack_factor_tooltip: "$MODIFIER_ARMY_INFANTRY_ATTACK_FACTOR$: $RIGHT|+=%1$"
 army_infantry_defence_factor_tooltip: "$MODIFIER_ARMY_INFANTRY_DEFENCE_FACTOR$: $RIGHT|+=%1$"
@@ -346,6 +359,7 @@ army_armor_speed_factor_tooltip: "$MODIFIER_ARMY_ARMOR_SPEED_FACTOR$: $RIGHT|+=%
 
 cavalry_attack_factor_tooltip: "$MODIFIER_CAVALRY_ATTACK_FACTOR$: $RIGHT|+=%1$"
 cavalry_defence_factor_tooltip: "$MODIFIER_CAVALRY_DEFENCE_FACTOR$: $RIGHT|+=%1$"
+cavalry_speed_factor_tooltip: "$modifier_army_sub_unit_cavalry_speed_factor$: $RIGHT|+=%1$"
 
 motorized_attack_factor_tooltip: "$MODIFIER_MOTORIZED_ATTACK_FACTOR$: $RIGHT|+=%1$"
 motorized_defence_factor_tooltip: "$MODIFIER_MOTORIZED_DEFENCE_FACTOR$: $RIGHT|+=%1$"
@@ -487,10 +501,14 @@ fewer_owned_states_than_tooltip: "Weniger Staaten im Besitz als $RIGHT|Y0$"
 ### Scripted Loc ###
 empty: ""
 
-loc_empire: "Kaiserreich"
-loc_kingdom: "Königreich"
-loc_republic: "Republik"
-loc_state: "Staat"
+loc_empire: "kaiserreich"
+loc_empire_cap: "Kaiserreich"
+loc_kingdom: "königreich"
+loc_kingdom_cap: "Königreich"
+loc_republic: "republik"
+loc_republic_cap: "Republik"
+loc_state: "staat"
+loc_state_cap: "Staat"
 
 loc_king: "König"
 loc_queen: "Königin"

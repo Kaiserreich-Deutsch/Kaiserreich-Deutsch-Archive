@@ -1,6 +1,6 @@
 ﻿l_german:
 # By Jeankedezeehond
-### Übersetzt von DerEherneRächer ###
+### Übersetzt von DerEherneRächer -> Ab 1.1.4 Proho  ###
 ### Parties
  HEJ_totalist_party_long: "-"
  HEJ_totalist_party: "-"
@@ -29,13 +29,10 @@
  HEJ_DEF: "Hedschas"
 
  HEJ_totalist: "Volksrepublik Hedschas"
- HEJ_totalist_ADJ: "Hedschasisch"
  HEJ_totalist_DEF: "die Volksrepublik Hedschas"
  HEJ_syndicalist: "Vereinte Kommunen von Mekka & Medina"
- HEJ_syndicalist_ADJ: "Hedschasisch"
  HEJ_syndicalist_DEF: "die Vereinten Kommunen von Mekka & Medina"
  HEJ_radical_socialist: "Republik Hedschas"
- HEJ_radical_socialist_ADJ: "Hedschasisch"
  HEJ_radical_socialist_DEF: "die Republik Hedschas"
 
  HEJ_ARA: "Arabien"
@@ -43,37 +40,29 @@
  HEJ_ARA_DEF: "Arabien"
 
  HEJ_ARA_totalist: "Volksrepublik Arabien"
- HEJ_ARA_totalist_ADJ: "Arabisch"
  HEJ_ARA_totalist_DEF: "die Volksrepublik Arabien"
  HEJ_ARA_syndicalist: "Vereinte Kommunen Arabiens"
- HEJ_ARA_syndicalist_ADJ: "Arabisch"
  HEJ_ARA_syndicalist_DEF: "die Vereinten Kommunen Arabiens"
  HEJ_ARA_radical_socialist: "Republik Arabien"
- HEJ_ARA_radical_socialist_ADJ: "Arabisch"
  HEJ_ARA_radical_socialist_DEF: "die Republik Arabien"
  HEJ_ARA_social_democrat: "Haschimit-Arabien"
- HEJ_ARA_social_democrat_ADJ: "Arabisch"
  HEJ_ARA_social_democrat_DEF: "Haschimit-Arabien"
  HEJ_ARA_social_liberal: "Haschimit-Arabien"
- HEJ_ARA_social_liberal_ADJ: "Arabisch"
  HEJ_ARA_social_liberal_DEF: "Haschimit-Arabien"
  HEJ_ARA_market_liberal: "Haschimit-Arabien"
- HEJ_ARA_market_liberal_ADJ: "Arabisch"
  HEJ_ARA_market_liberal_DEF: "Haschimit-Arabien"
  HEJ_ARA_social_conservative: "Haschimit-Arabien"
- HEJ_ARA_social_conservative_ADJ: "Arabisch"
  HEJ_ARA_social_conservative_DEF: "Haschimit-Arabien"
  HEJ_ARA_authoritarian_democrat: "Haschimit-Arabien"
- HEJ_ARA_authoritarian_democrat_ADJ: "Arabisch"
  HEJ_ARA_authoritarian_democrat_DEF: "Haschimit-Arabien"
  HEJ_ARA_paternal_autocrat: "Haschimit-Arabien"
- HEJ_ARA_paternal_autocrat_ADJ: "Arabisch"
  HEJ_ARA_paternal_autocrat_DEF: "Haschimit-Arabien"
  HEJ_ARA_national_populist: "Haschimit-Arabien"
- HEJ_ARA_national_populist_ADJ: "Arabisch"
  HEJ_ARA_national_populist_DEF: "Haschimit-Arabien"
 
  HEJ_personal_union: "Hedschas"
+ HEJ_personal_union_ADJ: "Hedschasisch"
+ HEJ_personal_union_DEF: "Hedschas"
 
 ### Decisions
  HEJ_resist_arab_invasion: "Verteidigung von Mekka"
@@ -81,12 +70,12 @@
 
 ### Events
 ## Hejaz Revolt
- hejrev.1.t: "Zweite hedschasische Revolte" 
+ hejrev.1.t: "Die Zweite hedschasische Revolte" 
  hejrev.1.d: "Obwohl die osmanische Kontrolle über Hedschas gegen Ende des Weltkrieges wiederhergestellt wurde, hinterließen das Prestige der Region und die heldenhaften Kriegstaten ihrer Bevölkerung während der 'Arabischen Revolte' ein gewissermaßen romantisiertes Bild des Ereignisses. Da die osmanischen Truppen gerade mit Kämpfen in Kurdistan beschäftigt sind und Anatolien selbst durch die stetig wachsende konservative Opposition gespalten ist, sehen viele der Bewohner Dschiddas und Mekkas dies als ihre Gelegenheit an, den alten Konflikt neu aufleben zu lassen und sich unter dem haschimitischen Banner zu vereinen.\n\nDieser Versuch der Unabhängigkeitserklärung wird allerdings durch die regionalen türkischen Garnisonen und die Nähe der Hedschas-Eisenbahn verkompliziert, zumal Hedschas nur über eine stark begrenzte Anzahl Waffen und Soldaten verfügt, um die osmanischen Verstärkungen fernzuhalten."
- hejrev.1.a: "Schwarz, Weiß, Rot und Grün werden über die Osmanen siegen! (Als Hedschas spielen)"
+ #hejrev.1.a: "Schwarz, Weiß, Rot und Grün werden über die Osmanen siegen! (Als Hedschas spielen)"
  hejrev.1.b: "Wir haben sie bereits einmal besiegt, wir werden es erneut tun!"
 
- hejrev.2.t: "Medina schließt sich Hedschas an!"
+ hejrev.2.t: "Medina schließt sich der Hejazi-Revolte an!"
  hejrev.2.d: "In Medina haben die Unruhen heute ihren Höhepunkt erreicht, als eine Gruppe Araber die Schwarz-Weiß-Rot-Grüne Flagge über dem Büro des osmanischen Gouverneurs hisste. Mehrere Geschäfte mit türkischen oder jüdischen Inhabern wurden zerstört, da immer mehr Araber sich gegen die osmanische Regierung auflehnen und sich der arabischen nationalistischen Bewegung anschließen wollen."
  hejrev.2.a: "Verdammt!"
 
@@ -97,12 +86,12 @@
 
  hejrev.4.t: "Ein Friedensangebot von der Halbinsel"
  hejrev.4.d: "Wie es scheint, steht die arabische Front doch nicht so vereint, wie es alle dachten: Die Bewohner Zentralarabiens weigern sich, zusammen mit denen Hedschas' an einer Seite zu kämpfen. Deshalb haben sie uns ein Friedensangebot zukommen lassen, welches beinhaltet, dass sie ihre Truppen mit sofortiger Wirkung von der Front und aus unseren Territorien zurückziehen. Im Gegenzug verlangen sie, dass wir ihre Unabhängigkeit und ihre Herrschaft über den Vertragsoman und die Küste von al-Hasa anerkennen."
- hejrev.4.a: "Divide et Impera"
+ hejrev.4.a: "Divide et Impera."
  hejrev.4.b: "Es gibt keinen Grund für Frieden!"
 
  hejrev.5.t: "Die Osmanen lehnen unser Angebot ab!"
  hejrev.5.d: "Mit der Begründung, dass sie uns militärisch bei weitem überlegen wäre und das arabische Problem ein für alle mal lösen wolle, hat die osmanische Regierung unser Angebot abgelehnt und verkündet, dass sie keinen Frieden schließen werde, bis die rot-weiße Flagge über unserer Hauptstadt weht."
- hejrev.5.a: "Äußerst schade..."
+ hejrev.5.a: "Äußerst schade."
 
  hejrev.6.t: "Die Invasion Hedschas'"
  hejrev.6.d: "Aufgrund unserer derzeitigen Schwäche, hat sich der zentralarabische Staat dazu entschieden, uns auszuschalten, bevor wir uns reorganisieren können. Die Araber hoffen, dass sie durch eine schnelle Übernahme Mekkas und Dschiddas die gesamte Küste sichern und damit eine ägyptische Intervention verhindern können. Da wir immer noch nur wenige Soldaten und Waffen besitzen und viele Stämme sich noch nicht sicher sind, ob sie überhaupt auf unserer Seite stehen, sehen unsere Chancen, diesen Konflikt zu überdauern, nicht gerade gut aus..."
@@ -115,16 +104,16 @@
 
  hejrev.8.t: "Der Fall Mekkas"
  hejrev.8.d: "Heute Morgen fiel Mekka - und mit der Stadt auch die gesamte hedschasische Revolte. Von Abu Dhabi bis nach Medina wird die arabische Halbinsel nun von einem einzigen Staat regiert. Aufgrund der andauernden Konflikte in anderen osmanischen Territorien, bleibt uns keine Wahl, als diesen Sieg anzuerkennen und den Traum einer haschimitischen Halbinsel aufzugeben."
- hejrev.8.a: "Wir erkennen den Sieger an..."
+ hejrev.8.a: "Wir erkennen den Sieger an."
 
  hejrev.9.t: "Ägypten erkennt unser Territorium an!"
  hejrev.9.d: "Obwohl sie sich wohl einen anderen Ausgang des Krieges zwischen uns und Hedschas erhofft hatte, hat die ägyptische Regierung unsere Herrschaft über die heiligen Städte anerkannt und uns erneut eine militärische Allianz angeboten. Viele pan-arabisch eingestellte Mitglieder unseres Hofes wollen dieses Angebot sofort annehmen, einige weniger naive Männer haben jedoch erkannt, dass wir in einen Krieg gezogen werden würden, in dem wir nichts gewinnen können, weshalb es weiser wäre, unsere Aufmerksamkeit auf andere Dinge zu richten."
- hejrev.9.a: "Akzeptiert ihr Angebot!"
+ hejrev.9.a: "Akzeptiert ihr Angebot."
  hejrev.9.b: "Wir brauchen keine Verbündeten!"
 
  hejrev.10.t: "Arabien lehnt unser Angebot ab!"
  hejrev.10.d: "Da es ihnen gelungen ist, ihre territorialen Ansprüche durchzusetzen, sehen die Araber der Halbinsel nun keinen Grund mehr, sich unserem Krieg anzuschließen, weshalb sie auch unser Angebot, dem Kairopakt beizutreten, ablehnten."
- hejrev.10.a: "Äußerst schade..."
+ hejrev.10.a: "Äußerst schade."
 
  hejrev.11.t: "Mekka hält!"
  hejrev.11.d: "Obwohl ihre Chancen äußerst schlecht standen, haben die Haschimiten es geschafft, die Bastion Mekka zu halten, was sie zum Sieger ihres Konfliktes mit Zentralarabien macht. Dies hat es nun jedem klar gemacht, dass die Soldaten Hedschas' nicht weichen werden. Es ist an der Zeit, die Araber dazu zu bringen, nachzugeben!"
@@ -133,34 +122,24 @@
  hejrev.12.t: "Ägypten verlangt das Ende unserer Feindseligkeiten!"
  hejrev.12.d: "Unsere fehlgeschlagene Offensive in Hedschas hat die Aufmerksamkeit der ägyptischen Regierung auf sich gezogen, welche nun verlangt, dass wir unsere Niederlage zugeben. Sollten wir uns weigern, Frieden mit Hedschas zu schließen, so droht Ägypten uns damit, sich auf die Seite der Haschimiten zu stellen und zu intervenieren. Wie es scheint, bleibt uns nichts anderes übrig, als ihren Bedingungen Folge zu leisten..."
  hejrev.12.a: "Wir kämpfen bis zum bitteren Ende!"
- hejrev.12.b: "Wir müssen nachgeben..."
-
-### Opinion Modifiers
- Mecca_ban: "Aus Mekka verbannt"
- Hejazi_consulate: "Hedschasisches Konsulat"
+ hejrev.12.b: "Wir müssen nachgeben!"
 
 ### Ideas 
  HEJ_urban_disputes1_idea: "Widerspenstiger Städtischer Adel"
  HEJ_urban_disputes1_idea_desc: "Im Gegensatz zu den weniger entwickelten Städten Zentralarabiens, sind die großen Städte Hedschas' die Heimat einer starken und gut etablierten Adels-Elite, welche auch am Welthandel teilnimmt. Diese Adligen, welche oft ehemalige Mitglieder der osmanischen Bürokratie, Armee oder anderen Institutionen sind, vertreten ihre eigenen Interessen und wünschen sich Demokratie und Republikanismus - zwei Vorstellungen, die im osmanischen Staat weit verbreitet waren."
- HEJ_urban_disputes2_idea: "Widerspenstiger Städtischer Adel"
  HEJ_home_islam_idea: "Wächter des Haddsch"
  HEJ_home_islam_idea_desc: "Es ist die heilige Pflicht unseres Scharifen, die Gläubigen auf ihrer Pilgerschaft (ihrem Haddsch) in die heiligen Städte Mekka und Medina zu leiten und zu schützen. Diese Pflicht bringt allerdings auch einige Vorteile mit sich, da unsere Wirtschaft aufgrund des Haddsch regelrecht floriert. Schifffahrt-, Karawanen- und Autounternehmen haben Geschäfte in der Hafenstadt Dschidda errichtet und auch die Pilgersteuer, welche jeder Muslim, der die heiligen Städte besuchen will, zahlen muss, erhöht unsere Einnahmen enorm."
- HEJ_home_islam2_idea: "Wächter des Haddsch"
- HEJ_home_islam_foreign_idea: "Wächter des Haddsch"
- HEJ_home_islam_foreign2_idea: "Wächter des Haddsch"
  HEJ_ottoman_civil_service_idea: "Eingefleischter osmanischer öffentlicher Dienst"
  HEJ_ottoman_civil_service_idea_desc: "Obwohl wir uns gegen das türkische Regime aufgelehnt haben, können wir nicht leugnen, dass die Osmanen uns eine völlig funktionsfähige Bürokratie hinterließen, welche die aller anderen Staaten der Halbinsel in den Schatten stellt. Da wir dieses System während unseres Unabhängigkeitskrieges lediglich übernommen haben, werden noch immer viele der höheren Positionen von Türken gehalten und fast die gesamte Verwaltung des ehemaligen Vilayets nutzt noch immer türkisch als Kommunikations- und Registrierungssprache."
  HEJ_majlis_idea: "Die Madschlis al Wukala"
  HEJ_new_caliphate_idea: "Nicht anerkannter Kalif"
- HEJ_new_caliphate2_idea: "Nicht anerkannter Kalif"
  HEJ_ministry_religious_affairs_idea: "Ministerium für religiöse Affären"
  HEJ_directorate_motor_transport_idea: "Direktion für Kraftverkehr"
  HEJ_unification_fevour: "Vereinigungswunsch"
  HEJ_military_directorate_idea: "Direktion für militärische Angelegenheiten"
  HEJ_navy_academy: "Scharifianische Schule für Marinewissenschaften"
  HEJ_arms_commission: "Kommission für Waffenanschaffungen"
- HEJ_arms_commission2: "Kommission für Waffenanschaffungen"
- HEJ_royal_guard_idea: "Königlich-Hedschasische Wache"
+ HEJ_royal_guard_idea: "[ROOT.GetRoyalOrRepublicanCap]-Hedschasische Wache"
  HEJ_al_jeish_al_arabi_idea: "Al Jeish Al Arabi"
  HEJ_arabian_horsemanship_idea: "Das arabische Erbe"
  HEJ_nationalised_railways_idea: "Nationalisierte Eisenbahnen"
@@ -258,8 +237,8 @@
  HEJ_ottoman_officers_desc: "Viele Offiziere der ehemaligen osmanischen Armee haben sich dazu entschieden, in Hedschas zu bleiben, um in unserer Armee zu dienen. Ihre taktische und strategische Erfahrung wird uns auf dem Schlachtfeld sicherlich einen Vorteil verschaffen!"
  HEJ_camel_corps: "Gründet das hedschasische Kamelkorps"
  HEJ_camel_corps_desc: "Kamele sind das Rückgrat der arabischen Gesellschaft und auch die Osmanen haben sie früher für vielerlei Tätigkeiten genutzt. Wir sollten ebenfalls Nutzen aus den vielseitigen Talenten dieser Tiere ziehen und das hedschasische Kamelkorps gründen, um besser in der Wüste operieren zu können."
- HEJ_royal_guard: "Expansion der königlichen Wache"
- HEJ_royal_guard_desc: "Hedschas' königliche Wache gehört zu den prestigeträchtigsten Divisionen unserer Streitkräfte. Da immer neue Bedrohungen unser Königreich gefährden, sollten wir versuchen, die königliche Wache zu erweitern."
+ HEJ_royal_guard: "Expansion der [ROOT.GetRoyalOrRepublicanCap] Wache"
+ HEJ_royal_guard_desc: "Hedschas' [ROOT.GetRoyalOrRepublicanCap] Wache gehört zu den prestigeträchtigsten Divisionen unserer Streitkräfte. Da immer neue Bedrohungen unser [ROOT.GetKingdomOrRepublic] gefährden, sollten wir versuchen, die königliche Wache zu erweitern."
  HEJ_standardised_weapons: "Standardisierte Schusswaffen"
  HEJ_standardised_weapons_desc: "Der hedschasischen Armee fehlt es zurzeit an jeglicher Form der Standardisierung: In Kämpfen werden britische, französische, osmanische und sogar selbst hergestellte Waffen genutzt. Aufgrund dieser vielen verschiedenen Designs ist es ein regelrechter Albtraum, unsere Truppen zu versorgen. Die Schusswaffen unseres Heeres zu standardisieren würde dieses Unterfangen um einiges erleichtern."
  HEJ_hejazi_flying_corps: "Gründet das hedschasische Flugkorps"

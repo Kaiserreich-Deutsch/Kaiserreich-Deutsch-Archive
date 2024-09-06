@@ -382,7 +382,7 @@ ROM_transylvanian_resistance_garrison_tooltip: "$MODIFIER_RESISTANCE_GARRISON_PE
 SER_lost_balkan_war: "War am Balkankrieg beteiligt und verlor\n"
 
 ROM_will_lead_to_war_with_austria: "§RÖsterreich darf uns den Krieg erklären, um die territoriale Integrität des Reiches zu schützen!§!"
-ROM_alfold_unrest: "§REs gibt einen aktiven Aufstand gegen unsere Besatzung.§!"
+ROM_alfold_unrest: "Aktiver Aufstand: $VALUE|=-%0$"
 
 ### Decisions ###
 ROM_public_appearances: "Öffentliche Auftritte arrangieren"

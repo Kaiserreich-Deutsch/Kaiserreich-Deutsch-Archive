@@ -114,6 +114,7 @@ KR_medical_expert: "Medizinischer Experte"
 KR_pious_intellectual: "Frommer Intellektueller"
 KR_heartless_lawyer: "Herzloser Anwalt"
 KR_teleological_planner: "Teleologischer Planer"
+KR_faithful_lieutenant: "Treuer Leutnant"
 
 ##################################
 ### Generic Seconds in Command ###
@@ -166,7 +167,6 @@ KR_resolute_activist_sic: "Entschlossener Aktivist"
 KR_harbiye_officer_sic: "Harbiye Offizier"
 KR_son_of_spartak_sic: "Sohn von Spartak"
 KR_free_thinking_intellectual_sic: "Freigeistiger Intellektueller"
-KR_face_of_the_military_sic: "Gesicht des militärischen Establishments"
 
 ### ASY ###
 KR_supportive_metropolitan: "Unterstützende Metropole"
@@ -432,6 +432,9 @@ KR_dissolved_legislature_sic: "Aufgelöste Legislative"
 
 ### QIE ###
 KR_army_chief_imperial_commissioner: "Kaiserlicher Kommissar"
+
+### HNN ###
+KR_resented_attache: "Residenter Attaché"
 
 ### ROM ###
 KR_the_capitanul_sic: "Căpitanul"

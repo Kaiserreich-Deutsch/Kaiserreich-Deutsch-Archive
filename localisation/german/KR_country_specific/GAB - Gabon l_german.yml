@@ -25,7 +25,7 @@ GAB_Gabriel_Leon_Mba: "Gabriel Léon M'ba"
 KR_gabon_focus: "Schwerpunktbaum von Gabun"
 
 GAB_Declaration_of_Independence: "Die Unabhängigkeitserklärung"
-GAB_Declaration_of_Independence_desc: "Gabun hat keinen Herrscher, es ist ein völlig unabhängiger und souveräner Staat, frei von jeder höheren Macht."
+GAB_Declaration_of_Independence_desc: "Gabun hat keinen Herrscher; es ist ein völlig unabhängiger und souveräner Staat, frei von jeder höheren Macht."
 
 GAB_Democracy_Remains: "Die Demokratie bleibt erhalten"
 GAB_Democracy_Remains_desc: "Gabun soll für immer ein unabhängiger, demokratischer Staat bleiben!"
@@ -34,13 +34,13 @@ GAB_Socialist_Coup: "Der sozialistische Putsch"
 GAB_Socialist_Coup_desc: "Die Sozialisten kontrollieren nun die Regierung des Staates Gabun, so wie es immer hätte sein sollen!"
 
 GAB_Contact_French_Exiles: "Kontakt zu den französischen Exilanten"
-GAB_Contact_French_Exiles_desc: "Eine Allianz mit der größten verbleibenden Nation in Afrika würde uns sehr helfen"
+GAB_Contact_French_Exiles_desc: "Eine Allianz mit der größten verbleibenden Nation in Afrika würde uns sehr helfen."
 
 GAB_Contact_Commune: "Kontakt zur französischen Kommune"
-GAB_Contact_Commune_desc: "Die Kommune ist die Quelle und Inspiration vieler Revoluzzer, sie als Verbündete zu haben, würde uns sehr helfen!"
+GAB_Contact_Commune_desc: "Die Kommune ist die Quelle und Inspiration vieler Revoluzzer; sie als Verbündete zu haben, würde uns sehr helfen!"
 
 GAB_Cooperate_with_Dahomey: "Zusammenarbeit mit Dahomey"
-GAB_Cooperate_with_Dahomey_desc: "Dahomey ist ein weiterer Verbündeter der französischen Exilanten und liegt ganz in der Nähe. Eine Zusammenarbeit zwischen uns könnte für uns beide von Vorteil sein"
+GAB_Cooperate_with_Dahomey_desc: "Dahomey ist ein weiterer Verbündeter der französischen Exilanten und liegt ganz in der Nähe. Eine Zusammenarbeit zwischen uns könnte für uns beide von Vorteil sein."
 
 GAB_Invite_French_Advisors: "Ladet französische Berater ein"
 GAB_Invite_French_Advisors_desc: "Wenn wir sie einladen würden, gäbe es einige Schlüsselfiguren in der französischen Kommune, die vielleicht genug Sympathie für unsere Sache aufbringen würden, um direkter zu helfen."
@@ -55,7 +55,7 @@ GAB_Syndicalist_Convention: "Das Syndikalistenkonvent"
 GAB_Syndicalist_Convention_desc: "Die drei großen syndikalistischen Fraktionen müssen sich einigen, welche von ihnen die Regierungspartei Gabuns wird!"
 
 GAB_Apply_Constitution: "Wendet die Verfassung an"
-GAB_Apply_Constitution_desc: "Die Ratifizierung einer Verfassung wird der Souveränität Gabuns die dringend benötigte Legitimität verleihen und viele in unserem Land zusammenbringen"
+GAB_Apply_Constitution_desc: "Die Ratifizierung einer Verfassung wird der Souveränität Gabuns die dringend benötigte Legitimität verleihen und viele in unserem Land zusammenbringen."
 
 # Introduction
 
@@ -98,7 +98,7 @@ gab.8.d: "Frankreich hat sich geweigert, auf unseren Hilferuf zu hören, und uns
 gab.8.a: "Wer braucht sie?"
 
 gab.9.t: "Gabun will sich der Entente anschließen"
-gab.9.d: "Der kleine afrikanische Staat will unserer Allianz beitreten"
+gab.9.d: "Der kleine afrikanische Staat will unserer Allianz beitreten."
 gab.9.a: "Ja!"
 gab.9.b: "Nein."
 

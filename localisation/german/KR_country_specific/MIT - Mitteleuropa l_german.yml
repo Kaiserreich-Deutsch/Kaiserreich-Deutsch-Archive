@@ -286,6 +286,11 @@
  germany_mitteleuropa_events.8.d.others: "Eine Ablehnung des amtierenden Vorsitzenden der Mitteleuropa-Kommission, der [MIT_previous_chairman.GetNameDef] vertritt und von [MIT_next_chairman.GetNameDef] angeführt wird, wurde ignoriert, obwohl er eine Mehrheit der Stimmen erhielt. Sie waren gezwungen, beträchtliche Mittel für die Abwahl aufzuwenden, bleiben aber an der Macht."
  germany_mitteleuropa_events.8.a: "Das ist ungeheuerlich!"
 
+ germany_mitteleuropa_events.11.t: "Mitteleuropa-Abstimmung steht bevor"
+ germany_mitteleuropa_events.11.d.not_voted_yet: "Die nächste Mitteleuropa-Konferenz wird innerhalb des nächsten Monats stattfinden. Angesichts der Tatsache, dass dort eine Reihe konkurrierender Tagesordnungen diskutiert werden, wäre es klug, wenn wir bald eine Entscheidung darüber treffen würden, was wir auf der Konferenz unterstützen sollten."
+ germany_mitteleuropa_events.11.d.last_chance: "Die nächste Mitteleuropa-Konferenz wird innerhalb des nächsten Monats stattfinden. Angesichts der Tatsache, dass dort eine Reihe konkurrierender Agenden diskutiert werden, wäre es klug, sicherzustellen, dass wir auf der Konferenz die für uns beste Option unterstützt haben."
+ germany_mitteleuropa_events.11.a: "Verstanden."
+
  germany_mitteleuropa_events.20.t: "Mitteleuropa verlassen"
  germany_mitteleuropa_events.20.d.defunct: "Infolge unserer Mitgliedschaft in Mitteleuropa wurden wir auf unglaubliche Weise in den Block integriert. Wir übernahmen eine Reihe von Verpflichtungen, erhielten aber auch einige Vorteile, z. B. im Handel und bei der gegenseitigen Verteidigung. Diese Vereinbarungen gelten nicht mehr. Deutschland ist gefallen, und die Mitteleuropa-Union schränkt uns daher in keiner Weise mehr ein."
  germany_mitteleuropa_events.20.d.socialist: "Infolge unserer Mitgliedschaft in Mitteleuropa wurden wir auf unglaubliche Weise in den Block integriert. Wir übernahmen eine Reihe von Verpflichtungen, erhielten aber auch einige Vorteile, z. B. im Handel und bei der gegenseitigen Verteidigung. Diese Vereinbarungen gelten nicht mehr. Unser Volk hat sich erhoben und ein sozialistisches Regime errichtet, wodurch sie hinfällig geworden sind."

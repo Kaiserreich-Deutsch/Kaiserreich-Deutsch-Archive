@@ -1,5 +1,5 @@
 ﻿l_german:
-### Übersetzt von DerEherneRächer ###
+### Übersetzt von DerEherneRächer -> Ab 1.1.4 Proho  ###
 ###########
 # Parties #
 ###########
@@ -76,7 +76,7 @@
  TUR_ottoman_empire_paternal_autocrat: "Osmanisches Reich"
  TUR_ottoman_empire_paternal_autocrat_DEF: "das Osmanische Reich"
  TUR_ottoman_empire_national_populist: "Osmanisches Reich"
- TUR_ottoman_empire_national_populist_DEF: "der Osmanische Staat"
+ TUR_ottoman_empire_national_populist_DEF: "der Osmanische Reich"
  
  TUR_ottoman_federation: "Osmanen"
  TUR_ottoman_federation_ADJ: "Osmanisch"
@@ -96,6 +96,25 @@
  TUR_ottoman_federation_paternal_autocrat_DEF: "das Osmanische Reich"
  TUR_ottoman_federation_national_populist: "Osmanisches Reich"
  TUR_ottoman_federation_national_populist_DEF: "das Osmanische Reich"
+
+ TUR_ottoman_turkey: "Osmanen"
+ TUR_ottoman_turkey_ADJ: "Osmanisch"
+ TUR_ottoman_turkey_DEF: "die Osmanen"
+
+ TUR_ottoman_turkey_social_democrat: "Osmanischer Staat"
+ TUR_ottoman_turkey_social_democrat_DEF: "der Osmanischer Staat"
+ TUR_ottoman_turkey_social_liberal: "Osmanischer Staat"
+ TUR_ottoman_turkey_social_liberal_DEF: "der Osmanischer Staat"
+ TUR_ottoman_turkey_market_liberal: "Osmanischer Staat"
+ TUR_ottoman_turkey_market_liberal_DEF: "der Osmanischer Staat"
+ TUR_ottoman_turkey_social_conservative: "Osmanischer Staat"
+ TUR_ottoman_turkey_social_conservative_DEF: "der Osmanischer Staat"
+ TUR_ottoman_turkey_authoritarian_democrat: "Osmanischer Staat"
+ TUR_ottoman_turkey_authoritarian_democrat_DEF: "der Osmanischer Staat"
+ TUR_ottoman_turkey_paternal_autocrat: "Osmanischer Staat"
+ TUR_ottoman_turkey_paternal_autocrat_DEF: "der Osmanischer Staat"
+ TUR_ottoman_turkey_national_populist: "Osmanischer Staat"
+ TUR_ottoman_turkey_national_populist_DEF: "der Osmanischer Staat"
 
 #############
 # Companies #
@@ -188,7 +207,8 @@
  OTT_revolt_risk_very_high: "Die £resistance_texticon  §YUnruhe§! ist §Rsehr hoch§!."
  OTT_revolt_risk_very_high_NOT: "Die £resistance_texticon  §YUnruhe§! ist nicht §Gsehr hoch§!."
 
- OTT_resistance_garrisons: "Verstärkte osmanische Garnisonen"
+ OTT_resistance_garrisons: "Verstärkte osmanische Garnisonen: $VALUE|=-%0$"
+ OTT_KUR_Increase_Ottoman_Gendarmerie_tt: "$OTT_KUR_Increase_Ottoman_Gendarmerie$: $VALUE|=-%0$"
 
  OTT_maintenance_of_order_law_tooltip: "$TRIGGER_OR_STARTS$:\n   Der Großwesir hat während des Balkankrieges die Macht übernommen\n   Der Großwesir hat nach einem fehlgeschlagenen Mordversuch die Macht übernommen\n   Dem Großwesir wurden die nötigen Befugnisse zur Beseitigung der Karakol-Gesellschaft gewährt\n   Die Araber haben sich in einer Revolte gegen das Reich erhoben"
  OTT_less_than_124_deputies: "Weniger als 124 Abgeordnete unterstützen die Koalition"
@@ -1099,7 +1119,7 @@
  OTT_Reorganise_Egypt: "Reorganisation der ägyptischen Vilayets"
  OTT_Reorganise_Egypt_desc: "Die Katastrophe, der das osmanische Reich im 19. Jahrhundert anheim fiel und die sich zu Beginn des 20. Jahrhunderts nur noch verschlimmerte, wurde endlich aufgehalten, da [ OTT_ConstantinopleFallback] und Kairo nach all der Zeit wieder vereint wurden! Um jedoch zu verhindern, dass eine solche Katastrophe erneut passiert, hat unsere Regierung eine Reorganisation beider Teile unseres Reiches angeordnet, darunter wirtschaftliche, administrative und kulturelle Änderungen."
  OTT_Reorganise_Sudan: "Lösung der sudanesischen Frage"
- OTT_Reorganise_Sudan_desc: "Obwohl der Sudan noch nie zu den Kernprovinzen unseres Reiches gehörte und erst 1820 vom osmanischen Vasallen Mohammad Ali erobert wurde, ist er nun erneut ein Teil unseres Reiches geworden, da seine antiken Beziehungen zu Ägypten (während der Zeit des Khedivats und später des Sultanats gestärkt) zu seiner Beteiligung am Levantinischen Krieg führten. Es liegt allerdings noch ein langer Weg vor uns, bis wir 'Turkiyya' endlich eine osmanische Provinz nennen können."
+ OTT_Reorganise_Sudan_desc: "Obwohl der Sudan nie ein fester Bestandteil des Osmanischen Reiches war, sondern erst 1820 unter dem osmanischen Vasallen Mohammad Ali erobert wurde, gehört er heute zu unserem Reich, da seine alten Verbindungen zu Ägypten (die unter dem Khedivat und später dem Königreich gestärkt wurden) zu seiner Eingliederung nach dem Levantekrieg führten. Es liegt allerdings noch ein langer Weg vor uns, bis wir 'Turkiyya' endlich eine osmanische Provinz nennen können."
  OTT_First_Elections_of_the_Grand_Assembly: "Erste Wahlen der Generalversammlung"
  OTT_First_Elections_of_the_Grand_Assembly_desc: "Da unsere territoriale Expansion viele verschiedene Menschen in unser Reich gebracht hat, ist es nun an der Zeit, ihnen dieselben Rechte zu gewähren wie jedem anderen Bürger, darunter auch das Recht, Repräsentanten in den Meclis-i Mebusân (die Abgeordnetenkammer) zu entsenden. Da die Größe dieser Institution aufgrund unserer neuen Ländereien exponentiell ansteigt, wird sie von nun an als 'Büyük Meclisi' (Generalversammlung) bezeichnet."
 
@@ -1398,20 +1418,12 @@
 
  TUR_country_intro_header_4: "Das Osmanische Reich nach dem Weltkrieg (Teil 2/2)"
  TUR_country_intro_content_4: "Das Resultat der Wahlen von 1926 war ein Sieg der OHF, welcher jedoch laut vielen nicht von der Exzellenz der Partei selbst, sondern eher von der Fragmentation ihrer Opposition bedingt war - immerhin kämpften stets über ein dutzend Parteien um jeden Sitz im Parlament. Der neuernannte Großwesir versuchte gar nicht erst, seine Ambitionen zu verbergen, und brachte die Nation durch einen regelrechten Sturm der Reformen seinen Idealen näher. Vor allem in den Bereichen der Bildung und der wirtschaftlichen Erholung und im Kampf gegen religiöse Einrichtungen wurden große Schritte gewagt. Die autoritäre Art des Großwesirs führte jedoch zu einer noch größeren Zersplitterung der Partei, wodurch sich selbst sein früherer Freund und Verbündeter, Kazim Karabekir Pascha, von der Partei abwandte und seine eigene 'Demokratische Partei' gründete.\n\nAufgrund der rapiden Zentralisierung des Regierungsapparats und der Angst vieler Konservativer, dass die OHF versuchen würde, mit alten Traditionen zu brechen, brachten die Wahlen von 1931 der OHF ihre erste Niederlage ein. Großer Gewinner der Wahlen war die 'Osmanische Partei für administrative Dezentralisierung' unter Haqqi al-Azm, welche eine Koalition mit der HIF und der DF einging, um eine vereinte Front gegen die zentralistische Bedrohung zu bilden. Diese Koalition war jedoch ständig von Problemen geplagt, da die verschiedenen Mitgliedsparteien unterschiedliche Meinungen bezüglich einer nicht-OHF Politik hatten. Im späten 1932 erreichten die Spannungen einen neuen Höhepunkt, als die Regierung von Haqqi al-Azm aufgrund von Meinungsverschiedenheiten mit der HIF und der DF zusammenbrach. Eine neue Regierung unter der Führung der HIF wurde etabliert, da sie jedoch nur eine Minderheitsregierung war, konnte sie ihr Ziel der Liberalisierung und Dezentralisierung nicht erreichen.\n\nDie vielen Fehlschläge dieser Koalition halfen dabei, den guten Ruf der OHF wiederherzustellen, woraufhin diese in den Wahlen von 1935 eine deutliche Mehrheit erzielte. Als Großwesir Mustafa Kemal Pascha seine zweite Amtszeit antrat, erschienen bereits erste Zeichen, dass er eine Alternative zur ständigen Behinderung durch die osmanische Abgeordnetenkammer und der Einmischung der Konservativen Lobby durch den Kalifen suchte..."
- ott.5.a: "Interessant."
  
  TUR_guide: "§MMustafa Kemal§! (§gAutoritäre Demokratie§!)\n£white_dot Bringe die ersten drei Reformen auf den Weg.\n£white_dot Warte 200 Tage nach der Reform der Geheimpolizei.\n£white_dot Wenn sich Gerüchte einer Verschwörung gegen Kemal verbreiten, entscheide dich dazu, die \"Ratten aus den Löchern zu treiben\".\n\n£white_dot Um Mustafa Kemals Regierung aufrechtzuerhalten:\n£white_dot Verfolgt nicht die gesamte Bürokratie.\n\n§MSabahattin Effendi§! (§lSozialliberalismus§! / §mMarktliberalismus§!)\n£white_dot Die Bildungsreform muss fehlschlagen.\n£white_dot Wenn Kemal die Auflösung des Parlaments fordert, muss der Sultan Kemal entlassen.\n£white_dot Organisiere verfrühte Wahlen.\n£white_dot Wähle die §lHIF§!.\n\n£white_dot Um zum §mMarktliberalismus§! zu wechseln, muss die §mDF§! beliebter sein als die §lHIF§!.\n\n£white_dot Um Sabahattin Effendis Regierung aufrechtzuerhalten:\n£white_dot Die Unterstützung der §cKonservativen§! Abgeordneten darf nicht auf 0 fallen.\n\n§MFevzi Pascha§! (§PPaternale Autokraten§!)\n£white_dot Bringe die ersten drei Reformen auf den Weg.\n£white_dot Warte 200 Tage nach der Reform der Geheimpolizei.\n£white_dot Wenn sich Gerüchte einer Verschwörung gegen Kemal verbreiten, entscheide dich NICHT dazu, die \"Ratten aus den Löchern zu treiben\".\n£white_dot Das Attentat auf Kemal muss erfolgreich sein.\n£white_dot Wenn die §gOHF§! zu zerfallen beginnt, muss Ismet die Kontrolle über die Partei übernehmen.\n£white_dot Die Demokraten werden die Partei verlassen.\n£white_dot Fevzi wird daraufhin die Kontrolle über die Partei übernehmen.\n\n§MVolksarbeiterfront§! (§gAutoritäre Demokratie§! / §mMarktliberalismus§!)\n£white_dot Folge den Schritten von Fevzis Pfad und hebe daraufhin den nationalen Notstand auf.\n£white_dot Schließe den Schwerpunkt \"Zentralisierung der Staatsgewalt\" ab, um die §gOHF§!-Regierung beizubehalten, oder schließe den Schwerpunkt \"Zerschlagung der Staatsmonopole\" ab, um zu einer §mDF§!-Regierung zu wechseln.\n\n§MDie Kadroistische Bewegung§! (§NNationalpopulismus§!)\n£white_dot Bringe die §MVolksarbeiterfront§! an die Macht. Zudem müssen: \n£white_dot die §oMaximisten§! die §MBritische Union§! regieren\n£white_dot die §oSorelier§! oder §oJakobiner§! die §MFranzösische Kommune§! regieren\n£white_dot §NSavinkov§! seine Herrschaft über §MRussland§! festigen\n §CDies kann durch die Nutzung der Individuellen Spielregeln garantiert werden.§!\n£white_dot Trifft all dies zu, sollte der Schwerpunkt \"Integration der Kadroisten-Bewegung\" erscheinen. Mit Abschluss des Schwerpunkts \"Gründung des Untersuchungskomitees\" kommt diethe §NOsmanische Volkspartei§! an die Macht.\n\n*Dies ist jeweils nur einer von mehreren Wegen, auf den die verschiedenen Fraktionen an die Macht kommen können\n"
 
 ##########
 # Events #
 ##########
-
-# Eid-ul Fitr
- ott.0.t: "[THIS.GetName] feiert Eid-ul-Fitr"
- ott.0.d: "Heute ist der erste Tag des Eid-ul-Fitr, was bedeutet, dass alle Muslime das Ende des Ramadans feiern."
- ott.0.d.EGY: "Während der Herrschaft Mohammad Alis verlange er, dass ganz Ägypten weiß, wann Ramadan endet. Dafür befahl er einer Kanone, im Morgengrauen des ersten Tages des Eid-ul-Fitr einen Schuss abzufeuern. Heute kann man in ganz Ägypten, von den großen Städten bis hin zu den kleineren Dörfern, Kanonen hören, wodurch die Menschen zeigen, dass sie sich darauf vorbereiten, das Ende des Ramadans zu feiern."
- ott.0.a: "Eid Mubarak!"
-
 # Background Events
  ottgui.5.t: "Die Wiederbelebung des osmanischen Geistes"
  ottgui.5.d: "Verräter, Häretiker, Kaffer und andere and other Delinquenten haben es sich gewagt, die Hohe Pforte kurz vor ihren Fall zu bringen, unsere Entschlossenheit zu zerschmettern und uns aufgrund unserer pazifistischen Einstellung zu überraschen. Während die Armeen des Sultans, Schahs und Scheichs durch die von unserem großen Padischah beschützten, fruchtbaren Länder des Maschreks marschieren, weicht der Schock langsam dem Zorn. Aus diesem Zorn wurde dann der Wunsch nach Vergeltung, welcher die zuvor geschlagenen Truppen des Kalifen dazu ermutigte, sich wieder hinter ihren Standarten zu versammeln.\n\nDie Trommeln werden geschlagen, die Imams treiben die Soldaten dazu an, für den Sultan und Allah zu kämpfen, die Artilleriebatterien werden nachgeladen und die türkische Armee, eine einst unaufhaltsame Horde, der nicht einmal Europa etwas entgegenzusetzen hatte, ist bereit, die dekadenten Streitkräfte unseres Feindes zu zerschlagen."
@@ -2381,7 +2393,7 @@
  ottsep.14.b: "Wir können nichts für sie tun..."
 
  ottsep.15.t: "Idris kehrt auf seinen Thron zurück"
- ottsep.15.d: "Idris I, Prinz des Senussi-Ordens, ist aus seinem selbst-auferlegten Exil in Kairo zurückgekehrt. Sein Neffe az-Zubayr ibn Ahmad as-Sharif wurde zur Abdankung gezwungen, woraufhin alle noch verbliebenen osmanischen Beobachter aus Kyrenaika vertrieben wurden. Außerdem hat Idris entschieden, die Hauptstadt Kyrenaikas näher an die ägyptische Grenze zu verlegen - ein deutliches Zeichen für seine anti-osmanischen Ambitionen. Die Stadt Giarabub, welche Kyrenaika nach dem Ende des Weltkrieges übergeben wurde, wurde nun zur offiziellen Hauptstadt des Staates erklärt. Dieses spirituelle Zentrum des Ordens ist die Heimat seiner wichtigsten Bildungseinrichtungen, liegt mitten in der Wüste und ist allen Nicht-Muslimen verboten, was eine osmanische Intervention äußerst schwierig gestaltet."
+ ottsep.15.d: "Idris I, Prinz des Senussi-Ordens, ist aus seinem selbst-auferlegten Exil in Kairo zurückgekehrt. Sein Neffe Ibrahim ibn Ahmad as-Sharif wurde zur Abdankung gezwungen, woraufhin alle noch verbliebenen osmanischen Beobachter aus Kyrenaika vertrieben wurden. Außerdem hat Idris entschieden, die Hauptstadt Kyrenaikas näher an die ägyptische Grenze zu verlegen - ein deutliches Zeichen für seine anti-osmanischen Ambitionen. Die Stadt Giarabub, welche Kyrenaika nach dem Ende des Weltkrieges übergeben wurde, wurde nun zur offiziellen Hauptstadt des Staates erklärt. Dieses spirituelle Zentrum des Ordens ist die Heimat seiner wichtigsten Bildungseinrichtungen, liegt mitten in der Wüste und ist allen Nicht-Muslimen verboten, was eine osmanische Intervention äußerst schwierig gestaltet."
  ottsep.15.a: "Vernichtet den Orden!"
  ottsep.15.b: "Wir sollten abwarten."
 
@@ -2466,7 +2478,6 @@
  ottsep.34.d: "Nach fast einem Jahrhundert der Verhandlungen wurde sich 1913 auf die Abmachung des Schatt al-Arab geeinigt, ein großer Erfolg, der die iranisch-osmanischen Grenzkonflikte beendete. Nun, da auch die letzte Garantie der iranischen Neutralität im Osten beseitigt wurde, gibt es keinen Zweifel mehr daran, dass Teheran seine Ambitionen verfolgen und den Irak angreifen wird.\n\nDie Kämpfe zwischen den beiden regionalen Großmächten haben heute in den frühen Morgenstunden begonnen, als ein Luftangriff auf die Festung von Fao im Schatt al-Arab und daraufhin eine Offensive der iranischen Kavallerieregimenter in Sulaimaniyya erfolgte."
  ottsep.34.a: "Dann kriegen sie ihren Krieg!"
 
-# Armenia
  ottsep.35.t: "Rebellion in Armenien!"
  ottsep.35.d: "Im gesamten Nahen Osten braut sich ein Konflikt zusammen und unser Reich, welches die Region seit Jahrzehnten beherrscht, beginnt zu zerfallen. Die Armenier im Osten sehen in dieser Situation jedoch eine Gelegenheit: Nzhdehs Fedayi sind bereit, Erivan zu übernehmen und erneut die Flagge eines unabhängigen Armeniens zu hissen."
  ottsep.35.a: "Wir bleiben [TUR.Capital.GetCapitalVictoryPointName] treu."
@@ -2480,6 +2491,10 @@
 ###################
 ## FLAVOUR STUFF ##
 ###################
+ ottfla.0.t: "[THIS.GetNameDefCap] Feiert Eid-ul-Fitr"
+ ottfla.0.d: "Heute ist der erste Tag des Eid-ul-Fitr und alle Muslime feiern das Ende des Ramadan."
+ ottfla.0.a: "Eid Mubarak!"
+
  ottfla.1.t: "Fertigstellung der Sanierung des Topkapı-Palastes"
  ottfla.1.d: "Der Bau des Topkapı-Palastes, der ehemaligen imperialen Residenz des Hauses Osman, wurde 1459 von Mehmed dem Eroberer in Auftrag gegeben. Nach einigen Jahrhunderten bevorzugten die Sultane und ihre Familien jedoch Wohnorte auf der asiatischen Seite des Bosporus, weshalb der Hofstaat in den Dolmabahçe-Palast umzog. Dennoch erfüllte der Topkapı-Palast noch immer einige seiner früheren Funktionen, beherbergte beispielsweise die imperiale Schatzkammer, bis er 1927, ein Jahr nach dem Tod von Mehmet VI, endgültig leergeräumt wurde. Sultan Abdulmecid II, ein Patron der Künste und auch selbst ein bekannter Künstler, vermachte den Palast daraufhin dem Staat, damit dieser ihn als Museum und für Kusntausstellungen nutzen konnte. Nun, nachdem das Gebäude fast 8 Jahre lang geschlossen war, wurde es gänzlich saniert, um so zu versuchen, die Pracht des Osmanischen Reiches erneut zu zeigen und den osmanischen Geist wiederaufleben zu lassen.\n\nNachdem die Einrichtung nach einer Feier im Enderûn eröffnet wurde, stellte der alte Sultan dort einige seiner eigenen Werke und Meisterwerke zeitgenössischer osmanischer Künstler zur Schau, welche Journalisten aus aller Welt beeindruckten."
  ottfla.1.a: "Der Saray-ı Cedîd-i Âmire erstrahlt in vollem Glanz!"
@@ -3317,7 +3332,7 @@
  OTT_Population_Latakia_desc: "Latakia ist eine antike Stadt an der Küste des Mittelmeers. Die Region wird durch das Bergmassiv Dschebel Ansariye vom syrischen Inland abgeschnitten und vor allem für die Landwirtschaft genutzt. Bekannt wurde sie aufgrund der Produktion des Latakia-Tabaks, welcher auf der ganzen Welt gehandelt wird. Latakia wurde im 16. Jahrhundert von den Osmanen unterworfen, was für die Stadt jedoch kein Segen war, da sie sich seitdem gegen neue Konkurrenten in Form von Tripolis, Beirut und Iskenderun behaupten musste. Außerdem wurde die Stadt im 18. Jahrhundert mehrmals von Erdbeben getroffen, was sie in einen kläglichen Zustand versetzte. Nun beginnt auch der Hafen zu verlanden, weshalb große Schiffe außerhalb des Hafens vor Anker gehen müssen. Der Großteil der Bevölkerung besteht aus den Alawiten, die die Hügel um die Stadt bewohnen. Innerhalb der Stadt leben allerdings auch viele maronitische Christen und Anhänger des Islams." 
 
  OTT_Population_Palestine: "Hauptkultur: §YArabisch (Syrisch)§!, Jüdisch\nHauptreligion: §YSunnitischer Islam§!, Judentum, Katholisches Christentum"
- OTT_Population_Palestine_desc: "Jerusalem, eine der umkämpftesten Regionen der Welt, ist die Heimat von heiligen Stätten von drei der großen Weltreligionen, weshalb die Stadt in der Geschichte der Menschheit eine große Rolle gespielt hat. Unter osmanischer Herrschaft florierte die Region aufgrund des Millet-Systems, dessen Nutzung später durch die Tanzimat-Reformen gesetzlich festgehalten wurde. Dieses System gab Muslimen, Juden, Christen und auch anderen Religionen eine große kommunale Autonomie in den Bereichen der G ottesanbetung, Jurisdiktion und Besteuerung und das Recht, eigene Schulen und Wohltätigkeitsorganisationen zu leiten.\n\nDie Geschichte Jerusalems und ganz Palästinas änderte sich zu Beginn des 20. Jahrhunderts, da die Zionisten einen immer größeren Teil der Bevölkerung ausmachten und die Jischuv sich überall in der Region niederließen, wobei sie ihre eigenen Gebräuche etablierten und die hebräische Sprache wiederaufleben ließen. Diese jüdische Bevölkerung war auch für die Balfour-Deklaration der britischen Regierung und die Talaat-Deklaration verantwortlich, welche den Jischuv das Recht gewährten, eine neue "nationale Heimstätte" der Juden in Palästina zu errichten. Als sich das Blatt des Krieges wendete und die Briten gezwungen waren, den Maschrek zu evakuieren, sahen sie in diesen Deklarationen dennoch eine Gelegenheit. Nach langen diplomatischen Streitereien gelang es ihnen dadurch, das Mutasarrifat Jerusalem zu etablieren, ein internationales Mandat, durch das der Frieden in Palästina aufrechterhalten werden soll.\n\nDieses Mandat wird jedoch von der muslimischen Bevölkerung des Nahen Ostens als Beleidigung angesehen, weshalb eine Widerstandsbewegung entstanden ist, die die jüdische Niederlassung in der Region aufhalten, das Mutasarrifat abschaffen und die vollständige osmanische, und damit sunnitische, Herrschaft über die Region wiederherstellen will. Da es den Osmanen nicht gelungen ist, ausländische Einmischungen in der Region zu verhindern, blicken nun viele Palästinenser zum Sultanat Ägypten und sind zu Unterstützern des arabischen Nationalismus geworden. Die Spannungen zwischen den verschiedenen Religionen haben in den letzten Jahren neue Höhepunkte erreicht - und da ein Krieg sich zu nähern scheint, hält ganz Palästina gespannt den Atem an."
+ OTT_Population_Palestine_desc: "Jerusalem, eine der umkämpftesten Regionen der Welt, ist die Heimat von heiligen Stätten von drei der großen Weltreligionen, weshalb die Stadt in der Geschichte der Menschheit eine große Rolle gespielt hat. Unter osmanischer Herrschaft florierte die Region aufgrund des Millet-Systems, dessen Nutzung später durch die Tanzimat-Reformen gesetzlich festgehalten wurde. Dieses System gab Muslimen, Juden, Christen und auch anderen Religionen eine große kommunale Autonomie in den Bereichen der G ottesanbetung, Jurisdiktion und Besteuerung und das Recht, eigene Schulen und Wohltätigkeitsorganisationen zu leiten.\n\nDie Geschichte Jerusalems und ganz Palästinas änderte sich zu Beginn des 20. Jahrhunderts, da die Zionisten einen immer größeren Teil der Bevölkerung ausmachten und die Jischuv sich überall in der Region niederließen, wobei sie ihre eigenen Gebräuche etablierten und die hebräische Sprache wiederaufleben ließen. Diese jüdische Bevölkerung war auch für die Balfour-Deklaration der britischen Regierung und die Talaat-Deklaration verantwortlich, welche den Jischuv das Recht gewährten, eine neue "nationale Heimstätte" der Juden in Palästina zu errichten. Als sich das Blatt des Krieges wendete und die Briten gezwungen waren, den Maschrek zu evakuieren, sahen sie in diesen Deklarationen dennoch eine Gelegenheit. Nach langen diplomatischen Streitereien gelang es ihnen dadurch, das Mutasarrifat Jerusalem zu etablieren, ein internationales Mandat, durch das der Frieden in Palästina aufrechterhalten werden soll.\n\nDieses Mandat wird jedoch von der muslimischen Bevölkerung des Nahen Ostens als Beleidigung angesehen, weshalb eine Widerstandsbewegung entstanden ist, die die jüdische Niederlassung in der Region aufhalten, das Mutasarrifat abschaffen und die vollständige osmanische, und damit sunnitische, Herrschaft über die Region wiederherstellen will. Da es den Osmanen nicht gelungen ist, ausländische Einmischungen in der Region zu verhindern, blicken nun viele Palästinenser zum Königreich Ägypten und sind zu Unterstützern des arabischen Nationalismus geworden. Die Spannungen zwischen den verschiedenen Religionen haben in den letzten Jahren neue Höhepunkte erreicht - und da ein Krieg sich zu nähern scheint, hält ganz Palästina gespannt den Atem an."
 
  OTT_Population_Maan: "Hauptkultur: §YArabisch (Syrisch)§!, Tscherkessisch\nHauptreligion: §YSunnitischer Islam§!"
  OTT_Population_Maan_desc: "Die südsyrischen Territorien um die Stadt Amman konnten der osmanischen Herrschaft lange entfliehen und wurden von unseren Vorgängern vernachlässigt. Die Region dient vor allem als Zugangspunkt zum viel wichtigeren Hedschas, weshalb sich unsere Kontrolle lediglich auf die Gebiete an der hedschasischen Eisenbahn und einige Pilgerlager auf dem Weg Richtung Mekka beschränkt. Dies hat zu großen Wellen von Flüchtlingen aus Syrien, Tscherkessien und sogar Anatolien geführt, welche hier der Wehrpflicht und der Besteuerung, die im Rest des Reiches durchgesetzt werden, entfliehen wollen.\n\nAuch unsere Kontrolle über das Ostufer des Flusses Jordan war vor dem Weltkrieg bestenfalls begrenzt, da die Siedlungen der Region ständig von Beduinen angegriffen wurden und viele Stämme zwischen Zentralarabien und Ma'an migrierten. Nachdem das Militär jedoch die Ordnung wiederhergestellt hatte, hat ein großer Zug von Siedlern aus Palästina damit begonnen, gen Osten in Richtung der kleinen Städte al-Salt und Amman zu ziehen. Auch die wirtschaftliche Nutzung der Region hat sich verbessert, wodurch nun auch einige Bergbauoperationen in der sonst landwirtschaftlich geprägten Region stattfinden."

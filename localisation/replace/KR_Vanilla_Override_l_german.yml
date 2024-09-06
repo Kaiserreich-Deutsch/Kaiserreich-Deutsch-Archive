@@ -42,6 +42,11 @@ EXECUTE_HISTORY: "Die Wacht am Rhein"
 CREATING_CHKSUM: "Direkte Regel umsetzen"
 GENERATING_GRADIENT_BORDERS: "Verrat der Revolution"
 
+ OLD_SAVEGAME: "§RDieser Spielstand stammt aus einer anderen Version des Spiels und kann nicht geladen werden.§!\n$rollback_tt$"
+ OLD_SAVEGAME_POPUP: "Dieser Spielstand stammt aus einer anderen Version des Spiels und kann nicht geladen werden.\n$rollback_tt$"
+ OLD_SAVEGAME_ALLOWED: "§RDieser Spielstand stammt aus einer anderen Version des Spiels und kann sich beim Laden unvorhersehbar verhalten.§!\n$rollback_tt$"
+ rollback_tt: "Frühere Versionen von Kaiserreich sind verfügbar unter\n§4github.com/Kaiserreich/Kaiserreich-4-Archive/tags§!"
+
  FE_SELECT_COUNTRY: "Wählen Sie Ihr Land"
 
  FLEET_NAME: "$NUMBER$. Flotte"
@@ -166,6 +171,7 @@ werwolf_guerillas_desc: "Geplante Widerstandsgruppen sind unsere letzte Hoffnung
 ### rules_l_english
 CAN_JOIN_FACTIONS: "Kann nicht in Fraktionen eintreten"
  CAN_USE_KAMIKAZE_PILOTS: "Kann Selbstmordpiloten einsetzen"
+
 ### state_l_english
 twelve: "Industrielles Kernland"
 eleven: "Großes Industriezentrum"
@@ -185,6 +191,9 @@ wasteland: "Einöde"
  minor_port: "Kleiner Hafen"
 one_island: "Überseeterritorium"
 zero_island: "Abgelegene Insel(n)"
+
+### resistance_and_occupation_l_english
+ GARRISON_HARDNESS_TOOLTIP: "§HHärte§!\nDie Härte einer Vorlage verringert die Verluste von bis zu 70 % bei Widerstandsaktivitäten."
 
 ######################################################################
 ### Part Two - Nur geringfügige Änderungen im Vergleich zu Vanilla ###
@@ -428,7 +437,7 @@ zero_island: "Abgelegene Insel(n)"
  MODIFIER_AIR_ORG_FACTOR: "Organisation Luftverkehr"
  MODIFIER_PARADROP_ORGANIZATION_FACTOR: "Fallschirmjäger Organisationsfaktor"
  MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR_DESC: "Verringert den Organisations- und Wiederherstellungsaufwand für unsere Spezialeinheiten, wenn ihnen der Nachschub ausgeht."
- MODIFIER_AIR_CAS_ORG_DAMAGE_FACTOR: "Nahangriffsunterstützung Organisation Schaden"
+ MODIFIER_AIR_CAS_ORG_DAMAGE_FACTOR: " Luftnahunterstützung Organisationsschaden"
 
  MODIFIER_DEFENCE: "Verteidigung"
  MODIFIER_OFFENCE_FACTOR: "Angriff"

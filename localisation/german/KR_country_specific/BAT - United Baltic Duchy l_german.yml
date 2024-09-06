@@ -631,6 +631,14 @@
  KRBAT.123.b.tt: "Unsere Hilfe wird von Nutzen sein, aber sie wird §Onicht§! das Überleben des Herzogtums garantieren."
  KRBAT.123.c: "Sicherlich kann der Herzog mit ein paar Partisanen umgehen."
 
+ KRBAT.124.t: "Die Hochzeit des Prinzen Karl von Biron"
+ KRBAT.124.d: "Heute heiratete Prinz Karl, der älteste überlebende Sohn von Herzog Gustav, Prinzessin Herzeleide von Preußen, die einzige Tochter von Prinz Oscar und Enkelin von Wilhelm II. Die Hochzeitsfeierlichkeiten fanden in der Garnisonkirche in Potsdam statt und wurden von der gesamten preußischen Königsfamilie besucht. Unter anderem war auch Herzog Adolf Friedrich eingeladen und wünschte dem frisch vermählten Paar alles Gute. Prinz Karl und seine Frau beschlossen, ihre Flitterwochen in Deutschland zu verbringen, verschiedene schöne Orte zu bereisen und ihre zahlreichen Verwandten zu besuchen."
+ KRBAT.124.a: "Nochmals herzlichen Glückwunsch an das frisch vermählte Paar!"
+
+ KRBAT.125.t: "Tod von Gustav von Biron"
+ KRBAT.125.d: "Der erste regierende Herzog von Kurland seit fast eineinhalb Jahrhunderten ist im Alter von 81 Jahren verstorben. Nachdem er die meiste Zeit seines Lebens auf seinem schlesischen Gut in Groß Wartenberg verbracht hatte, ohne die Möglichkeit oder Pläne, in das Herzogtum zurückzukehren, wurde er erst vor kurzem von der Regierung Freytagh-Loringhoven wieder auf den rechtmäßigen Thron gesetzt.\nGustav wird in Schloss Mitau, der Stammburg der Herzöge von Kurland, beigesetzt. Sein ältester Sohn Karl trat sein Amt als zweiter Herzog von Kurland und Semigallien in diesem Jahrhundert an."
+ KRBAT.125.a: "Der Herzog ist tot, es lebe der Herzog!"
+
 ### Focuses ###
 
  BAT_eliminate_honorifics: "Unnötige Ehrentitel abschaffen"
@@ -994,7 +1002,7 @@
  RIG_artillery_posts: "Artillerie-Stellungen einrichten"
  RIG_artillery_posts_desc: "Wir müssen mit den wenigen Ressourcen, die wir haben, klug umgehen. Die Artilleriegeschütze, die wir von der Landeswehr erhalten haben, müssen in strategischen Positionen in der Stadt platziert werden, und wir müssen planen, welche Straßen und Wege sie jeweils abdecken sollen."
  RIG_field_hospitals: "Feldlazarette einrichten"
- RIG_field_hospitals_desc: "Es gibt nur noch wenige Soldaten in unseren Reihen, deshalb müssen wir so viele wie möglich von ihnen bewahren. Verbände, Feldoperationen und Schmerzmittel können viel dazu beitragen, dass sie länger kämpfen können."
+ RIG_field_hospitals_desc: "Es gibt nur noch wenige Soldaten in unseren Reihen, deshalb müssen wir so viele wie möglich von ihnen erhalten. Verbände, Feldoperationen und Schmerzmittel können viel dazu beitragen, dass sie länger kämpfen können."
  RIG_counteroffensive_preparations: "Gegenschlag-Vorbereitungen"
  RIG_counteroffensive_preparations_desc: "So sehr wir auch planen, die Stadt gegen ausländische Angriffe zu verteidigen, dürfen wir nie vergessen, dass sich unser Geburtsrecht auf das gesamte ehemalige baltische Herzogtum erstreckt. Wir müssen einen Plan 'Frühlingserwachen' entwerfen, um aus der Stadt heraus zu expandieren und die Kontrolle über Lettland wiederherzustellen."
 

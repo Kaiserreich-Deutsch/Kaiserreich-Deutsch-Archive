@@ -45,30 +45,84 @@ WAR_NAME_GAL_CRO: "Krise an der Donau"
 WAR_NAME_GAL_CZE: "Krise an der Donau"
 
 ### Italienischer Einigungskrieg ###
- WAR_NAME_SRI_SIC: "Italienischer Einigungskrieg"
- WAR_NAME_SRI_PAP: "Italienischer Einigungskrieg"
- WAR_NAME_SRI_ITA: "Italienischer Einigungskrieg"
- WAR_NAME_SRI_LOM: "Italienischer Einigungskrieg"
- WAR_NAME_SRI_VNC: "Italienischer Einigungskrieg"
+ WAR_NAME_EMI_ITA: "Italienischer Einigungskrieg"
+ WAR_NAME_EMI_LOM: "Italienischer Einigungskrieg"
+ WAR_NAME_EMI_PAP: "Italienischer Einigungskrieg"
+ WAR_NAME_EMI_SIC: "Italienischer Einigungskrieg"
+ WAR_NAME_EMI_SRD: "Italienischer Einigungskrieg"
+ WAR_NAME_EMI_SRI: "Italienischer Einigungskrieg"
+ WAR_NAME_EMI_TUS: "Italienischer Einigungskrieg"
+ WAR_NAME_EMI_VNC: "Italienischer Einigungskrieg"
 
- WAR_NAME_ITA_SRI: "Italienischer Einigungskrieg"
- WAR_NAME_ITA_SIC: "Italienischer Einigungskrieg"
+ WAR_NAME_ITA_EMI: "Italienischer Einigungskrieg"
+ WAR_NAME_ITA_LOM: "Italienischer Einigungskrieg"
  WAR_NAME_ITA_PAP: "Italienischer Einigungskrieg"
+ WAR_NAME_ITA_SIC: "Italienischer Einigungskrieg"
  WAR_NAME_ITA_SRD: "Italienischer Einigungskrieg"
+ WAR_NAME_ITA_SRI: "Italienischer Einigungskrieg"
+ WAR_NAME_ITA_TUS: "Italienischer Einigungskrieg"
 
- WAR_NAME_SIC_SRI: "Italienischer Einigungskrieg"
+ WAR_NAME_LOM_EMI: "Italienischer Einigungskrieg"
+ WAR_NAME_LOM_ITA: "Italienischer Einigungskrieg"
+ WAR_NAME_LOM_PAP: "Italienischer Einigungskrieg"
+ WAR_NAME_LOM_SIC: "Italienischer Einigungskrieg"
+ WAR_NAME_LOM_SRD: "Italienischer Einigungskrieg"
+ WAR_NAME_LOM_SRI: "Italienischer Einigungskrieg"
+ WAR_NAME_LOM_TUS: "Italienischer Einigungskrieg"
+ WAR_NAME_LOM_VNC: "Italienischer Einigungskrieg"
+
+ WAR_NAME_PAP_EMI: "Italienischer Einigungskrieg"
+ WAR_NAME_PAP_ITA: "Italienischer Einigungskrieg"
+ WAR_NAME_PAP_LOM: "Italienischer Einigungskrieg"
+ WAR_NAME_PAP_SIC: "Italienischer Einigungskrieg"
+ WAR_NAME_PAP_SRD: "Italienischer Einigungskrieg"
+ WAR_NAME_PAP_SRI: "Italienischer Einigungskrieg"
+ WAR_NAME_PAP_TUS: "Italienischer Einigungskrieg"
+ WAR_NAME_PAP_VNC: "Italienischer Einigungskrieg"
+
+ WAR_NAME_SIC_EMI: "Italienischer Einigungskrieg"
  WAR_NAME_SIC_ITA: "Italienischer Einigungskrieg"
+ WAR_NAME_SIC_LOM: "Italienischer Einigungskrieg"
  WAR_NAME_SIC_PAP: "Italienischer Einigungskrieg"
  WAR_NAME_SIC_SRD: "Italienischer Einigungskrieg"
- WAR_NAME_SIC_LOM: "Italienischer Einigungskrieg"
+ WAR_NAME_SIC_SRI: "Italienischer Einigungskrieg"
+ WAR_NAME_SIC_TUS: "Italienischer Einigungskrieg"
  WAR_NAME_SIC_VNC: "Italienischer Einigungskrieg"
 
- WAR_NAME_SRD_SRI: "Italienischer Einigungskrieg"
+ WAR_NAME_SRD_EMI: "Italienischer Einigungskrieg"
  WAR_NAME_SRD_ITA: "Italienischer Einigungskrieg"
+ WAR_NAME_SRD_LOM: "Italienischer Einigungskrieg"
  WAR_NAME_SRD_PAP: "Italienischer Einigungskrieg"
  WAR_NAME_SRD_SIC: "Italienischer Einigungskrieg"
- WAR_NAME_SRD_LOM: "Italienischer Einigungskrieg"
+ WAR_NAME_SRD_SRI: "Italienischer Einigungskrieg"
+ WAR_NAME_SRD_TUS: "Italienischer Einigungskrieg"
  WAR_NAME_SRD_VNC: "Italienischer Einigungskrieg"
+
+ WAR_NAME_SRI_EMI: "Italienischer Einigungskrieg"
+ WAR_NAME_SRI_ITA: "Italienischer Einigungskrieg"
+ WAR_NAME_SRI_LOM: "Italienischer Einigungskrieg"
+ WAR_NAME_SRI_PAP: "Italienischer Einigungskrieg"
+ WAR_NAME_SRI_SIC: "Italienischer Einigungskrieg"
+ WAR_NAME_SRI_SRD: "Italienischer Einigungskrieg"
+ WAR_NAME_SRI_TUS: "Italienischer Einigungskrieg"
+ WAR_NAME_SRI_VNC: "Italienischer Einigungskrieg"
+
+ WAR_NAME_TUS_EMI: "Italienischer Einigungskrieg"
+ WAR_NAME_TUS_ITA: "Italienischer Einigungskrieg"
+ WAR_NAME_TUS_LOM: "Italienischer Einigungskrieg"
+ WAR_NAME_TUS_PAP: "Italienischer Einigungskrieg"
+ WAR_NAME_TUS_SIC: "Italienischer Einigungskrieg"
+ WAR_NAME_TUS_SRD: "Italienischer Einigungskrieg"
+ WAR_NAME_TUS_SRI: "Italienischer Einigungskrieg"
+ WAR_NAME_TUS_VNC: "Italienischer Einigungskrieg"
+
+ WAR_NAME_VNC_EMI: "Italienischer Einigungskrieg"
+ WAR_NAME_VNC_LOM: "Italienischer Einigungskrieg"
+ WAR_NAME_VNC_PAP: "Italienischer Einigungskrieg"
+ WAR_NAME_VNC_SIC: "Italienischer Einigungskrieg"
+ WAR_NAME_VNC_SRD: "Italienischer Einigungskrieg"
+ WAR_NAME_VNC_SRI: "Italienischer Einigungskrieg"
+ WAR_NAME_VNC_TUS: "Italienischer Einigungskrieg"
 
 ### 2nd Mexican-American War ###
 WAR_NAME_USA_MEX: "2ter $ORDER$$SECOND$-$FIRST$ Krieg"
@@ -79,8 +133,8 @@ WAR_TAKE_CLAIM_MEX_USA: "$ORDER$$FIRST$ Angriff gegen $STATE$"
 WAR_TAKE_CORE_MEX_USA: "$ORDER$$FIRST$ Rückeroberung von $STATE$"
 
 ### Entente-Internationale Wars ###
-WAR_NAME_CAN_ENG: "Rückgewinnung der Heimatinseln"
-WAR_NAME_ENG_CAN: "Entente-Internationale Krieg"
+WAR_NAME_IMP_ENG: "Rückgewinnung der Heimatinseln"
+WAR_NAME_ENG_IMP: "Entente-Internationale Krieg"
 WAR_NAME_NFA_FRA: "$ORDER$$FIRST$-$SECOND$ Krieg"
 WAR_NAME_FRA_NFA: "$ORDER$$FIRST$-$SECOND$ Krieg"
 
@@ -94,16 +148,23 @@ WAR_NAME_FRA_GER: "Der Zweite Weltkrieg"
 WAR_NAME_RUS_JAP: "2ter Russland-$ORDER$$SECOND$ Krieg"
 WAR_NAME_JAP_RUS: "2ter Russland-$ORDER$$FIRST$ Krieg"
 
+### Östlicher Seekrieg ###
+ WAR_NAME_GER_JAP: "Östlicher Seekrieg"
+ WAR_NAME_JAP_GER: "Östlicher Seekrieg"
+ WAR_NAME_GEA_JAP: "Östlicher Seekrieg"
+ WAR_NAME_JAP_GEA: "Östlicher Seekrieg"
+
 ### Winter War ###
 WAR_NAME_RUS_FIN: "Der Winterkrieg"
 WAR_NAME_FIN_RUS: "Der Winterkrieg"
 
 ### Middle Eastern Wars ###
-WAR_NAME_JBS_SAU: "Arabischer Einigungskrieg"
+ WAR_NAME_HEJ_JBS: "Arabischer Einigungskrieg"
+ WAR_NAME_HEJ_SAU: "Arabischer Einigungskrieg"
+ WAR_NAME_JBS_HEJ: "Arabischer Einigungskrieg"
+ WAR_NAME_JBS_SAU: "Arabischer Einigungskrieg"
+ WAR_NAME_SAU_HEJ: "Arabischer Einigungskrieg"
 WAR_NAME_SAU_JBS: "Arabischer Einigungskrieg"
-
- WAR_NAME_TUR_EGY: "Wüstenkrieg"
- WAR_NAME_EGY_TUR: "Wüstenkrieg"
 
 ### The Reichspakt Revolts ###
 WAR_NAME_GER_UKR: "Die $ORDER$$SECOND$ Revolte"
@@ -129,9 +190,9 @@ WAR_NAME_RAJ_AFG: "Fünfter Anglo-Afghanischer Krieg"
 WAR_NAME_BRM_SIA: "37. Siamesisch-burmesischer Krieg"
 WAR_NAME_SIA_BRM: "37. Siamesisch-burmesischer Krieg"
 
-### Bharathiyan Civil War ###
-WAR_NAME_BHC_INR: "Bharatiya Bürgerkrieg"
-WAR_NAME_INR_BHC: "Bharatiya Bürgerkrieg"
+### Bharatiya Bürgerkrieg ###
+WAR_NAME_HND_INR: "Bharatiya Bürgerkrieg"
+WAR_NAME_INR_HND: "Bharatiya Bürgerkrieg"
 
 ### War in the Southern Cone ###
 WAR_NAME_FOP_ARG: "Krieg im Südkegel"
@@ -141,15 +202,25 @@ WAR_NAME_ARG_FOP: "Krieg im Südkegel"
 WAR_NAME_FOP_CHL: "Südamerikanischer syndikalistischer Bürgerkrieg"
 WAR_NAME_CHL_FOP: "Südamerikanischer syndikalistischer Bürgerkrieg"
 
-### Alpine War over Campione ###
+### Alpenkrieg um Campione ###
+ WAR_NAME_SWI_EMI: "Alpenkrieg"
+ WAR_NAME_EMI_SWI: "Alpenkrieg"
 WAR_NAME_SWI_ITA: "Alpenkrieg"
 WAR_NAME_ITA_SWI: "Alpenkrieg"
-WAR_NAME_SWI_SIC: "Alpenkrieg"
-WAR_NAME_SIC_SWI: "Alpenkrieg"
-WAR_NAME_SWI_SRD: "Alpenkrieg"
-WAR_NAME_SRD_SWI: "Alpenkrieg"
-WAR_NAME_SWI_SRI: "Alpenkrieg"
-WAR_NAME_SRI_SWI: "Alpenkrieg"
+ WAR_NAME_SWI_LOM: "Alpenkrieg"
+ WAR_NAME_LOM_SWI: "Alpenkrieg"
+ WAR_NAME_SWI_PAP: "Alpenkrieg"
+ WAR_NAME_PAP_SWI: "Alpenkrieg"
+ WAR_NAME_SWI_SIC: "Alpenkrieg"
+ WAR_NAME_SIC_SWI: "Alpenkrieg"
+ WAR_NAME_SWI_SRD: "Alpenkrieg"
+ WAR_NAME_SRD_SWI: "Alpenkrieg"
+ WAR_NAME_SWI_SRI: "Alpenkrieg"
+ WAR_NAME_SRI_SWI: "Alpenkrieg"
+ WAR_NAME_SWI_TUS: "Alpenkrieg"
+ WAR_NAME_TUS_SWI: "Alpenkrieg"
+ WAR_NAME_SWI_VNC: "Alpenkrieg"
+ WAR_NAME_VNC_SWI: "Alpenkrieg"
 
 ### Venetian Revolt ###
 WAR_NAME_VNC_ITA: "Venezianischer Freiheitskrieg"
@@ -193,46 +264,64 @@ WAR_NAME_SUD_EGY: "Zweiter Mahdist-Aufstand"
 
 ### Ottoman Wars ###
 # Egypt
-WAR_NAME_EGY_OTT: "Krieg in der Wüste"
-WAR_NAME_OTT_EGY: "Krieg in der Wüste"
+WAR_NAME_EGY_TUR: "Krieg in der Wüste"
+WAR_NAME_TUR_EGY: "Krieg in der Wüste"
 
 # Tripolitania
-WAR_NAME_LBA_OTT: "Tripolitanische Unabhängigkeitskrieg"
-WAR_NAME_OTT_LBA: "Tripolitanischer Aufstand"
+WAR_NAME_LBA_TUR: "Tripolitanische Unabhängigkeitskrieg"
+WAR_NAME_TUR_LBA: "Tripolitanischer Aufstand"
 
 # Cyprus
-WAR_NAME_CYP_OTT: "Zypriotischer Unabhängigkeitskrieg"
-WAR_NAME_OTT_CYP: "Zypriotische Rebellion"
+WAR_NAME_CYP_TUR: "Zypriotischer Unabhängigkeitskrieg"
+WAR_NAME_TUR_CYP: "Zypriotische Rebellion"
 
 # Assyria
-WAR_NAME_ASY_OTT: "Assyrischer Unabhängigkeitskrieg"
-WAR_NAME_OTT_ASY: "Assyrischer Aufstand"
+WAR_NAME_ASY_TUR: "Assyrischer Unabhängigkeitskrieg"
+WAR_NAME_TUR_ASY: "Assyrischer Aufstand"
+
+# Anatolian Kurdistan
+ WAR_NAME_KDR_TUR: "Kurdischer Unabhängigkeitskrieg"
+ WAR_NAME_TUR_KDR: "Kurdische Rebellion"
+
+# Kurdistan
+ WAR_NAME_KUR_TUR: "Barzinji Aufstand"
+ WAR_NAME_TUR_KUR: "Aufstand der Barzinji"
 
 # Yemen
-WAR_NAME_YEM_OTT: "Jemenitischer Unabhängigkeitskrieg"
-WAR_NAME_OTT_YEM: "Jemenitischer Aufstand"
+WAR_NAME_YEM_TUR: "Jemenitischer Unabhängigkeitskrieg"
+WAR_NAME_TUR_YEM: "Jemenitischer Aufstand"
+
+### Libanesischer Unabhängigkeitskrieg ###
+ WAR_NAME_LEB_SYR: "Libanesischer Unabhängigkeitskrieg"
+ WAR_NAME_SYR_LEB: "Libanesische Rebellion"
 
 ### Ikhwan Revolt ###
 WAR_NAME_IKH_SAU: "Ikhwan-Revolte"
 WAR_NAME_SAU_IKH: "Ikhwan-Revolte"
 
 ### Panamanian Crisis ###
-WAR_NAME_PAN_CAN: "Panama-Krise"
-WAR_NAME_CAN_PAN: "Panama-Krise"
+WAR_NAME_PAN_IMP: "Panama-Krise"
+WAR_NAME_IMP_PAN: "Panama-Krise"
 
 ### Coto War ###
 WAR_NAME_PAN_COS: "Coto-Krieg"
 WAR_NAME_COS_PAN: "Coto-Krieg"
 
-### Brazilian Civil War ###
- CIVIL_WAR_NAME_BRA_SPO: "Brasilianischer Bürgerkrieg"
- CIVIL_WAR_NAME_BRA_GOY: "Brasilianischer Bürgerkrieg"
- CIVIL_WAR_NAME_BRA_PIR: "Brasilianischer Bürgerkrieg"
+### Brasilianischer Bürgerkrieg ###
+ CIVIL_WAR_NAME_BRA_AMA: "Brasilianischer Bürgerkrieg"
  CIVIL_WAR_NAME_BRA_BAH: "Brasilianischer Bürgerkrieg"
- CIVIL_WAR_NAME_SPO_BRA: "Brasilianischer Bürgerkrieg"
+ CIVIL_WAR_NAME_BRA_GOY: "Brasilianischer Bürgerkrieg"
+ CIVIL_WAR_NAME_BRA_GRP: "Brasilianischer Bürgerkrieg"
+ CIVIL_WAR_NAME_BRA_PIR: "Brasilianischer Bürgerkrieg"
+ CIVIL_WAR_NAME_BRA_SPO: "Brasilianischer Bürgerkrieg"
+ CIVIL_WAR_NAME_BRA_VCR: "Brasilianischer Bürgerkrieg"
+ CIVIL_WAR_NAME_BAH_AMA: "Brasilianischer Bürgerkrieg"
+ CIVIL_WAR_NAME_BAH_BRA: "Brasilianischer Bürgerkrieg"
+ CIVIL_WAR_NAME_BAH_GRP: "Brasilianischer Bürgerkrieg"
+ CIVIL_WAR_NAME_BAH_VCR: "Brasilianischer Bürgerkrieg"
  CIVIL_WAR_NAME_GOY_BRA: "Brasilianischer Bürgerkrieg"
  CIVIL_WAR_NAME_PIR_BRA: "Brasilianischer Bürgerkrieg"
- CIVIL_WAR_NAME_BAH_BRA: "Brasilianischer Bürgerkrieg"
+ CIVIL_WAR_NAME_SPO_BRA: "Brasilianischer Bürgerkrieg"
 
 ### Chinese Wars ###
 WAR_NAME_LEP_CHI: "Aufstand der Kuomintang"
@@ -326,6 +415,12 @@ WAR_NAME_KUM_SIK: "Kumul Rebellion"
 # League of Eight / Five Provinces Collapse
 WAR_NAME_LEP_ANQ: "Krieg der fünf Provinzen"
 WAR_NAME_ANQ_LEP: "Krieg der fünf Provinzen"
+
+# Yunnan Kriege
+ WAR_NAME_SHA_YUN: "Shan Unabhängigkeitskrieg"
+ WAR_NAME_YUN_SHA: "Shan Rebellion"
+ WAR_NAME_KAC_YUN: "Unabhängigkeitskrieg von Kachin"
+ WAR_NAME_YUN_KAC: "Kachin Rebellion"
 
 # Sino-Japanese Wars
 WAR_NAME_JAP_LEC: "Japanese Intervention"

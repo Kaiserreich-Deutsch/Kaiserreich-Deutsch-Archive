@@ -1,5 +1,5 @@
 ﻿l_german:
-### Übersetzt von DerEherneRächer ###
+###  Übersetzt von DerEherneRächer -> ab 1.1.4 Proho  ###
  ASM: "Assam"
  ASM_ADJ: "Assamesisch"
  ASM_DEF: "Assam"
@@ -87,3 +87,10 @@
  india_compliance_gain_plus_three: "(§YIndien§!) $MODIFIER_COMPLIANCE_GAIN_ADD$: [?0.03|+=%%]"
  india_compliance_gain_plus_two: "(§YIndien§!) $MODIFIER_COMPLIANCE_GAIN_ADD$: [?0.02|+=%%]"
  india_compliance_gain_plus_one: "(§YIndien§!) $MODIFIER_COMPLIANCE_GAIN_ADD$: [?0.01|+=%%]"
+
+### Shared Decisions ###
+
+ india_invade_tawang_decision: "Forderung [858.GetName]"
+ india_invade_tawang_decision_desc: "Während des ursprünglichen Chaos, das zum Zusammenbruch der britischen Herrschaft über Indien führte, fiel das Grenzgebiet von [858.GetName] unter die Besetzung durch lokale Herrscher. Jetzt, da der Subkontinent wieder geeint ist, ist es endlich an der Zeit, die Grenzen der Nation wiederherzustellen."
+ india_invade_aksai_chin_decision: "Forderung [897.GetName]"
+ india_invade_aksai_chin_decision_desc: "Ganz Kaschmir gehört zu Indien, ungeachtet gegenteiliger chinesischer Behauptungen, und das gilt natürlich auch für den nördlichsten Teil der Region, der leider unter ausländische Besatzung geraten ist. Es sollte daher ein Ersuchen an [FROM.GetName] gerichtet werden, um die Evakuierung aus der Region zu fordern, damit sie endlich vollständig unter die Verwaltung von [ROOT.GetAdjective] gestellt werden kann."

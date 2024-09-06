@@ -230,7 +230,6 @@
  PER_imperial_artillery_company_organisation: "[THIS.Owner.PER_GetArmsCompanyPrefix] Artillerieunternehmen"
 
 ### Ideas ###
- PER_mandatory_education: "Schulpflicht"
  PER_fighter_production: "Erhöhte Flugzeugproduktion"
  PER_iranian_airspace: "Der Iranische Luftraum"
  PER_more_trading: "Handelsinitiative"
@@ -284,8 +283,6 @@
  PER_revolution_tt: "Eine Revolution hat stattgefunden."
 
 ### Opinion Modifiers ###
- PER_fully_annexed_azb: "Der Iran hat Aserbaidschan vollständig übernommen"
- PER_didnt_fully_annexed_azb: "Der Iran hat gegen Aserbaidschan geholfen"
  PER_oil_trade: "Ölhandel mit dem Iran"
  PER_armenian_friendship: "Iranisch-Armenische Freundschaft"
  PER_military_cooperation: "Militärische Kooperation"
@@ -523,21 +520,6 @@
  pers.51.a: "Wir fürchten keine Europäer!"
  pers.51.b: "Wir können die Deutschen nicht bekämpfen..."
 
- pers.52.t: "Deutschland verweigert uns seine Unterstützung"
- pers.52.d: "Deutschland hat sich geweigert, uns dabei zu unterstützen, die [PER.GetAdjective]e Aggression einzudämmen. Da wir wohl kaum allein überleben können, sollten wir vielleicht die Osmanen um Unterstützung beten."
- pers.52.a: "Die Osmanen werden uns helfen!"
- pers.52.b: "Wir werden uns unseren Feinden allein stellen."
-
- pers.53.t: "Aserbaidschan bittet um Schutz vor [PER.GetAdjective]er Aggression"
- pers.53.d: "Die aserbaidschanische Regierung hat darum gebeten, dass wir sie vor ihren [PER.GetAdjective]en Nachbarn beschützen, falls diese ihnen den Krieg erklären sollten. [PER.GetNameDefCap] wiederum begründet seine aggressive Haltung damit, dass es lediglich das aserische Volk unter seiner Flagge vereinen wolle. Dies ist offensichtlicherweise allerdings nur eine Ausrede, mit der die Perser versuchen, ihren Einfluss im Kaukasus auszuweiten - einer Region, zu der wir schon immer enge Beziehungen pflegten."
- pers.53.a: "Wir werden nicht zulassen, dass [PER.GetNameDef] weiter expandiert!"
- pers.53.b: "Wir haben unsere eigenen Probleme."
-
- pers.54.t: "Die Osmanen garantieren Aserbaidschan"
- pers.54.d: "Die Osmanen haben sich dazu entschieden, die aserische Unabhängigkeit zu garantieren, um so unsere "Aggression" einzudämmen. Öl können wir ihnen leider nicht anbieten, damit sie diese Garantie zurückrufen, da sie selbst über ausreichende Mengen dieser Ressource verfügen. Uns bleibt nichts anderes übrig als den Krieg trotz allem zu erklären oder unsere Ansprüche auf Aserbaidschan vorerst aufzugeben."
- pers.54.a: "Wir werden es mit beiden aufnehmen!"
- pers.54.b: "Wir sollten nachgeben."
-
  pers.55.t: "Niemand will uns helfen"
  pers.55.d: "Wir haben um Hilfe gebeten, doch wurden zurückgewiesen. Nun ist niemand mehr übrig, den wir um Schutz ersuchen könnten - und wir müssen uns der [PER.GetAdjective]en Aggression wohl oder übel allein stellen. Es ist an der Zeit, so erbittert zu kämpfen wie wir nur können!"
  pers.55.a: "Das ist nicht gut..."
@@ -545,11 +527,6 @@
  pers.56.t: "Aserbaidschan steht allein"
  pers.56.d: "Die Gelegenheit, auf die wir schon so lange warten, ist endlich da. Aserbaidschan hat andere Nationen um Schutz ersucht, doch wurde zurückgewiesen. Nun ist es an der Zeit, das aserische Volk unter unserer Flagge zu einen!"
  pers.56.a: "In den Krieg!"
-
- pers.57.t: "Die Osmanen haben uns zurückgewiesen"
- pers.57.d: "Die Osmanen haben sich geweigert, uns in unserem kommenden Krieg gegen die Perser zu unterstützen. Wir können allerdings kaum allein überleben, und nun sind nur noch die Deutschen dazu in der Lage, uns zu schützen."
- pers.57.a: "Wir werden die Deutschen um Hilfe beten."
- pers.57.b: "Wir werden uns unseren Feinden allein stellen."
 
  pers.58.t: "[PER.GetNameDefCap] bietet Land gegen Unterstützung an"
  pers.58.d1: "[PER.GetNameDefCap] hat uns ein Angebot unterbreitet: Sie planen eine Invasion unseres Nachbarn Aserbaidschans, und sollten wir sie dabei unterstützen, werden sie uns mit neuen Territorien belohnen. Zusammen sollte es ein Leichtes sein, Aserbaidschan zu besiegen, und eine Expansion unserer Nation kann sicherlich ebenfalls nicht schaden."
@@ -568,18 +545,10 @@
  pers.60.d: "Armenien hat unserem Bündnisangebot zugestimmt und sich dazu bereit erklärt, uns bei unserer Invasion Aserbaidschans zu unterstützen. Diese neue Allianz wird sich im kommenden Krieg sicherlich als äußerst nützlich herausstellen."
  pers.60.a: "Gemeinsam sind wir stark!"
 
- pers.61.t: "Armenien kann unserem Bündnis nicht beitreten"
- pers.61.d: "Armenien kann unserem Bündnis derzeit nicht beitreten und wird uns deshalb wohl auch nicht bei unserer Invasion unterstützen können. Die Angriffspläne werden dennoch fortgesetzt."
- pers.61.a: "Wir können Aserbaidschan auch ohne sie besiegen!"
-
  pers.62.t: "Die Armenische Frage"
  pers.62.d: "Die Frage Armeniens beschäftigt unsere Bürger und Politiker schon seit geraumer Zeit. Einst war Armenien Teil des großen Persischen Reiches, weshalb einige der Meinung sind, wir sollten es erneut zu einer Provinz unseres Staates machen. Wir haben allerdings auch die Möglichkeit, ihnen auf diplomatische Weise näherzukommen und einen Weg der wirtschaftlichen Kooperation mit den Armeniern einzuschlagen, was zu unser beider Vorteil wäre."
  pers.62.a: "Sie werden erneut ein Teil des Reiches sein!"
  pers.62.b: "Wirtschaftliche Kooperation wäre von Vorteil."
-
- pers.63.t: "Eine sozialistische Allianz mit der [HND.GetNameDefCap]?"
- pers.63.d: "Als eine der wichtigsten sozialistischen Nationen Asiens wäre die [HND.GetNameDefCap] sicherlich dazu bereit, zusammen mit uns ein Bündnis der sozialistischen Staaten Asiens zu formen. Dies würde es uns außerdem erlauben, das Land der Indischen Dominion zwischen uns aufzuspalten."
- pers.63.a: "Zusammen werden wir stärker sein!"
 
  pers.67.t: "[PER.GetNameDefCap] fordert Bahrain"
  pers.67.d: "[PER.GetNameDefCap] hat uns ein Ultimatum gesandt, in welchem gefordert wurde, dass wir die Insel Bahrain sofort aufgeben und die Kontrolle an sie übertragen. Der [PER.GetAdjective]e Anspruch auf Bahrain ist nun schon Jahrhunderte alt, doch die [PER.GetAdjective]e Regierung spricht noch immer leidenschaftlich von der Rückeroberung "verlorenen Landes". Sollten wir ihnen die Insel nicht überlassen, werden sie wohl versuchen, unserer Herrschaft über Bahrain auf militärischem Wege ein Ende zu bereiten."
@@ -593,25 +562,6 @@
  pers.69.t: "Unser Ultimatum wurde abgelehnt"
  pers.69.d: "Unser Ultimatum bezüglich der Insel Bahrain wurde zurückgewiesen. Nun bleibt uns nur noch der Krieg, um unsere rechtmäßige Herrschaft über die Insel wiederherzustellen."
  pers.69.a: "In den Krieg!"
-
- pers.70.t: "[PER.GetNameDefCap] verlangt die irakischen Lande"
- pers.70.d: "[PER.GetNameDefCap] hat aufgrund unserer derzeitigen Schwäche eine Gelegenheit gewittert und es sich erdreistet von uns zu verlangen, ihnen die Kontrolle über den Irak zu überlassen. Der Iran versucht nun schon seit geraumer Zeit, seine Nachbarstaaten zu beeinflussen und sich so ein Imperium aufzubauen. Dies ist offenkundig lediglich ein weiterer Expansionsversuch, doch da wir andere Probleme haben, um die wir uns kümmern müssen, sollten wir eine Erfüllung dieser Forderung zumindest in Betracht ziehen."
- pers.70.a: "Wir fürchten die Perser nicht!"
- pers.70.b: "Wir können gerade keine weiteren Probleme gebrauchen..."
-
- pers.71.t: "Die Osmanen übergeben die irakischen Lande"
- pers.71.d: "Schon seit Jahren haben die Osmanen mit eiserner Faust über den Irak geherrscht. Nun allerdings, im Moment ihrer Schwäche, haben sie die richtige Entscheidung getroffen und uns die Herrschaft über den Irak überlassen."
- pers.71.a: "Willkommen in unserem neuen Reich!"
-
- pers.72.t: "Die Osmanen haben abgelehnt"
- pers.72.d: "Die Osmanen haben sich geweigert, uns die Herrschaft über den Irak zu überlassen. Der Irak ist allerdings eine der wichtigsten Provinzen der ehemaligen Persischen Reiche gewesen und besonders in Anbetracht der derzeitigen Schwäche der Osmanen könnten wir versuchen, ihn auf anderen Wegen zurück ins Reich zu holen."
- pers.72.a: "Wir können es mit ihnen aufnehmen!"
- pers.72.b: "Sie sind dennoch ein mächtiges Reich..."
-
- pers.74.t: "Die Befreiung Tadschikistans"
- pers.74.d: "Endlich haben wir Turkestan besiegt. Doch wie sollten wir mit unseren neuen Territorien verfahren?"
- pers.74.a: "Setzt die Besatzung fort."
- pers.74.b: "Übernehmt Karakum und verwandelt den Rest Tadschikistans in einen Marionettenstaat."
 
  pers.80.t: "Frieden mit Russland?"
  pers.80.d: "Wir haben Russland nun schon bis zum Schwarzen Meer zurückgedrängt. Dennoch sollten wir versuchen, unsere militärischen Kapazitäten nicht zu überschreiten, weshalb es klug wäre, Russland ein Friedensangebot zu unterbreiten."
@@ -730,19 +680,8 @@
  pers.111.b: "Arbeiter des Irans, brecht eure Ketten!"
 
 ### Decisions ###
-
- PER_coring_conquered_territory: "Integration neuer Territorien"
- PER_core_afghan_land: "Integriert Herat"
- PER_core_afghan_land_desc: "Nun, da wir endlich wieder über die afghanischen Provinzen herrschen, können wir damit beginnen, sie in unsere Nation einzugliedern. Es wird jedoch Jahrzehnte dauern, den Osten Afghanistans vollständig zu integrieren, da in dieser Region größtenteils Paschtunen leben. Im Westen Afghanistans wiederum leben vor allem Hazara, eine Kultur, welche sich leichter in unsere Nation integrieren lässt. Anfangs werden sie unsere Versuche vielleicht noch bekämpfen, früher oder später werden sie unsere Herrschaft jedoch anerkennen."
- PER_core_azerbaijani_land: "Integriert [FROM.GetName]"
- PER_core_azerbaijani_land_desc: "[FROM.GetName] befindet sich endlich wieder unter unserer Kontrolle. Die Aserbaidschaner werden den Traum eines eigenen Staates früher oder später aufgeben und unsere Herrschaft akzeptieren. Auch wenn es einigen Widerstand gegen unsere Kontrolle geben wird, hat der aserbaidschanische Staat nur einige Jahrzehnte existiert und innerhalb dieser Jahre eine große aserbaidschanische Minderheit innerhalb unserer Grenzen existiert. Deshalb wird der aserbaidschanische Widerstand schwach und zwecklos sein."
- PER_core_baluchistan: "Integriert Belutschistan"
- PER_core_baluchistan_desc: "Die Provinz Belutschistan befindet sich erneut unter unserer Kontrolle. Die Belutschen bilden auch innerhalb unserer Bevölkerung eine recht große Minderheit, weshalb es vergleichsweise leicht sein sollte, sie vollständig in unsere Nation zu integrieren. Aufgrund der langjährigen Kontrolle Indiens über die Region werden jedoch auch sie sich unserer Herrschaft wahrscheinlich widersetzen."
- PER_ottos_are_weak_decision_decfision: "Die Osmanen sind schwach!"
- PER_ottos_are_weak_decision_decfision_desc: "Vor Kurzem hat Ägypten dem Osmanischen Reich den Krieg erklärt. Die Osmanen beherrschen den Nahen Osten nun schon seit Jahrhunderten, doch nun ist endlich die Zeit der Rache gekommen. Schon vor dem Weltkrieg haben sie begonnen, Zeichen der Schwäche zu zeigen. Wir müssen dem kranken Mann Europas endlich den Gnadenstoß versetzen!"
  PER_country_namechange_decision: "Ändert unseren Namen zu Iran"
  PER_country_namechange_decision_desc: "Die Modernisten üben stetigen Druck auf unsere Regierung aus, da diese die anderen Nationen der Welt dazu bringen soll, uns als "Iran" zu bezeichnen, genau wie wir uns selbst. Das veraltete Exonym "Persien" sei lange nicht mehr zeitgemäß. Warum genau ihnen diese Angelegenheit so wichtig ist, ist ungewiss."
- PER_IRAN: "Der Name unseres Landes ist Iran"
  PER_embargo_anti_socialists: "Ölembargo gegen die Feinde des Sozialismus"
  PER_embargo_anti_socialists_desc: "Wir sind zu weit vom europäischen Kriegsschauplatz entfernt, um der Dritten Internationale direkt beizustehen. Wir besitzen jedoch große Ölreserven, an denen die Großmächte unserer Zeit durchaus interessiert sind. Wir sollten es verbieten, Öl in den Reichspakt, die Entente oder das Moskauer Abkommen zu exportieren, damit die Feinde des Sozialismus ihre Kriegsmaschinerien nicht länger antreiben können!"
 
@@ -774,13 +713,10 @@
  PER_DEF: "Persien"
 
  PER_totalist: "Sozialistische Republik Persien"
- PER_totalist_ADJ: "Persisch"
  PER_totalist_DEF: "die Sozialistische Republik Persien"
  PER_syndicalist: "Sozialistische Republik Persien"
- PER_syndicalist_ADJ: "Persisch"
  PER_syndicalist_DEF: "die Sozialistische Republik Persien"
  PER_radical_socialist: "Sozialistische Republik Persien"
- PER_radical_socialist_ADJ: "Persisch"
  PER_radical_socialist_DEF: "die Sozialistische Republik Persien"
 
  PER_REP: "Iran"
@@ -788,25 +724,18 @@
  PER_REP_DEF: "Iran"
  
  PER_REP_totalist: "Sozialistische Republik Iran"
- PER_REP_totalist_ADJ: "Iranisch"
  PER_REP_totalist_DEF: "die Sozialistische Republik Iran"
  PER_REP_syndicalist: "Sozialistische Republik Iran"
- PER_REP_syndicalist_ADJ: "Iranisch"
  PER_REP_syndicalist_DEF: "die Sozialistische Republik Iran"
  PER_REP_radical_socialist: "Sozialistische Republik Iran"
- PER_REP_radical_socialist_ADJ: "Iranisch"
  PER_REP_radical_socialist_DEF: "die Sozialistische Republik Iran"
  PER_REP_social_democrat: "Republik Iran"
- PER_REP_social_democrat_ADJ: "Iranisch"
  PER_REP_social_democrat_DEF: "die Republik Iran"
  PER_REP_social_liberal: "Republik Iran"
- PER_REP_social_liberal_ADJ: "Iranisch"
  PER_REP_social_liberal_DEF: "die Republik Iran"
  PER_REP_market_liberal: "Republik Iran"
- PER_REP_market_liberal_ADJ: "Iranisch"
  PER_REP_market_liberal_DEF: "die Republik Iran"
  PER_REP_social_conservative: "Republik Iran"
- PER_REP_social_conservative_ADJ: "Iranisch"
  PER_REP_social_conservative_DEF: "die Republik Iran"
 
  PER_IRA: "Iran"
@@ -814,13 +743,10 @@
  PER_IRA_DEF: "der Iran"
  
  PER_IRA_totalist: "Sozialistische Republik Iran"
- PER_IRA_totalist_ADJ: "Iranisch"
  PER_IRA_totalist_DEF: "die Sozialistische Republik Iran"
  PER_IRA_syndicalist: "Sozialistische Republik Iran"
- PER_IRA_syndicalist_ADJ: "Iranisch"
  PER_IRA_syndicalist_DEF: "die Sozialistische Republik Iran"
  PER_IRA_radical_socialist: "Sozialistische Republik Iran"
- PER_IRA_radical_socialist_ADJ: "Iranisch"
  PER_IRA_radical_socialist_DEF: "die Sozialistische Republik Iran"
  
  ### Characters ###

@@ -416,6 +416,13 @@ operative_escape_artist_desc: "Das Gefängnis, aus dem dieser Agent nicht ausbre
 operative_demolition_expert: "Sprengstoffexperte"
 operative_demolition_expert_desc: "Dieser Agent beherrscht die verschiedensten Möglichkeiten, Dinge in die Luft zu sprengen."
 
+peasant_sympathiser: "Bauernsympathisant"
+peasant_sympathiser_desc: "§LSympathisiert mit den Bauern und der Arbeiterklasse des Landes.§!"
+
+trait_determined: "Entschlossen"
+trait_foreign_military_advisor: "Ausländischer Militärberater"
+trait_foreign_military_advisor_desc: "Ein Auslandsaufenthalt ist eine Gelegenheit, Taktiken zu studieren, mit denen wir eines Tages konfrontiert werden könnten."
+
 tank_refurbishment_plant: "Panzerumbaufabrik"
 repair_and_refurbishment_plant: "Reparatur- und Umbaufabrik"
 black_sea_naval_manufacturer: "Schiffskonstrukteur Schwarzes Meer"

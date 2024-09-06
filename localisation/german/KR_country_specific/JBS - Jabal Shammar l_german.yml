@@ -1,18 +1,15 @@
 ﻿l_german:
-### Übersetzt von DerEherneRächer ###
+### Übersetzt von DerEherneRächer -> Ab 1.1.4 Proho  ###
 ### Country Names ###
  JBS: "Ha'il"
  JBS_ADJ: "Ha'ilisch"
  JBS_DEF: "Ha'il"
 
  JBS_totalist: "Ha'ilische Kommune"
- JBS_totalist_ADJ: "Ha'ilisch"
  JBS_totalist_DEF: "die Ha'ilische Kommune"
  JBS_syndicalist: "Ha'ilische Kommune"
- JBS_syndicalist_ADJ: "Ha'ilisch"
  JBS_syndicalist_DEF: "die Ha'ilische Kommune"
  JBS_radical_socialist: "Ha'ilische Kommune"
- JBS_radical_socialist_ADJ: "Ha'ilisch"
  JBS_radical_socialist_DEF: "die Ha'ilische Kommune"
  JBS_social_democrat: "Jabal Schammar"
  JBS_social_democrat_ADJ: "Schammarisch"
@@ -41,13 +38,10 @@
  JBS_ARA_DEF: "Arabien"
 
  JBS_ARA_totalist: "Arabische Volksrepublik"
- JBS_ARA_totalist_ADJ: "Arabisch"
  JBS_ARA_totalist_DEF: "die Arabische Volksrepublik"
  JBS_ARA_syndicalist: "Arabische Volksrepublik"
- JBS_ARA_syndicalist_ADJ: "Arabisch"
  JBS_ARA_syndicalist_DEF: "die Arabische Volksrepublik"
  JBS_ARA_radical_socialist: "Arabische Volksrepublik"
- JBS_ARA_radical_socialist_ADJ: "Arabisch"
  JBS_ARA_radical_socialist_DEF: "die Arabische Volksrepublik"
  JBS_ARA_social_democrat: "Rashidi-Arabien"
  JBS_ARA_social_democrat_ADJ: "Rashidisch"
@@ -97,63 +91,13 @@
  JBS_subhan_ARA_national_populist_ADJ: "Subhanisch"
  JBS_subhan_ARA_national_populist_DEF: "Subhani-Arabien"
 
- JBS_HEJ_social_democrat: "Sultanat Jabal Schammar und Hedschas"
- JBS_HEJ_social_democrat_ADJ: "Rashidisch"
- JBS_HEJ_social_democrat_DEF: "das Sultanat Jabal Schammar und Hedschas"
- JBS_HEJ_social_liberal: "Sultanat Jabal Schammar und Hedschas"
- JBS_HEJ_social_liberal_ADJ: "Rashidisch"
- JBS_HEJ_social_liberal_DEF: "das Sultanat Jabal Schammar und Hedschas"
- JBS_HEJ_market_liberal: "Sultanat Jabal Schammar und Hedschas"
- JBS_HEJ_market_liberal_ADJ: "Rashidisch"
- JBS_HEJ_market_liberal_DEF: "das Sultanat Jabal Schammar und Hedschas"
- JBS_HEJ_social_conservative: "Sultanat Jabal Schammar und Hedschas"
- JBS_HEJ_social_conservative_ADJ: "Rashidisch"
- JBS_HEJ_social_conservative_DEF: "das Sultanat Jabal Schammar und Hedschas"
- JBS_HEJ_authoritarian_democrat: "Sultanat Jabal Schammar und Hedschas"
- JBS_HEJ_authoritarian_democrat_ADJ: "Rashidisch"
- JBS_HEJ_authoritarian_democrat_DEF: "das Sultanat Jabal Schammar und Hedschas"
- JBS_HEJ_paternal_autocrat: "Sultanat Jabal Schammar und Hedschas"
- JBS_HEJ_paternal_autocrat_ADJ: "Rashidisch"
- JBS_HEJ_paternal_autocrat_DEF: "das Sultanat Jabal Schammar und Hedschas"
- JBS_HEJ_national_populist: "Sultanat Jabal Schammar und Hedschas"
- JBS_HEJ_national_populist_ADJ: "Rashidisch"
- JBS_HEJ_national_populist_DEF: "das Sultanat Jabal Schammar und Hedschas"
+ JBS_HEJ: "Sultanat von Dschabal Schammar und Hedschas"
+ JBS_HEJ_ADJ: "Rashidisch"
+ JBS_HEJ_DEF: "das Sultanat von Dschabal Schammar und Hedschas"
 
- JBS_subhan_social_democrat: "Ha'il"
- JBS_subhan_social_democrat_ADJ: "Schammarisch"
- JBS_subhan_social_democrat_DEF: "Ha'il"
- JBS_subhan_social_liberal: "Ha'il"
- JBS_subhan_social_liberal_ADJ: "Schammarisch"
- JBS_subhan_social_liberal_DEF: "Ha'il"
- JBS_subhan_market_liberal: "Ha'il"
- JBS_subhan_market_liberal_ADJ: "Schammarisch"
- JBS_subhan_market_liberal_DEF: "Ha'il"
- JBS_subhan_social_conservative: "Ha'il"
- JBS_subhan_social_conservative_ADJ: "Schammarisch"
- JBS_subhan_social_conservative_DEF: "Ha'il"
- JBS_subhan_authoritarian_democrat: "Ha'il"
- JBS_subhan_authoritarian_democrat_ADJ: "Schammarisch"
- JBS_subhan_authoritarian_democrat_DEF: "Ha'il"
- JBS_subhan_paternal_autocrat: "Ha'il"
- JBS_subhan_paternal_autocrat_ADJ: "Schammarisch"
- JBS_subhan_paternal_autocrat_DEF: "Ha'il"
- JBS_subhan_national_populist: "Ha'il"
- JBS_subhan_national_populist_ADJ: "Schammarisch"
- JBS_subhan_national_populist_DEF: "Ha'il"
-
- TRU: "Vertragsoman"
- TRU_ADJ: "Vertragsomanisch"
- TRU_DEF: "der Vertragsoman"
-
- TRU_totalist: "Sozialistische Föderation des Golfes"
- TRU_totalist_ADJ: "Vertragsomanisch"
- TRU_totalist_DEF: "die Sozialistische Föderation des Golfes"
- TRU_syndicalist: "Vereinigte Sozialistische Syndikate Arabiens"
- TRU_syndicalist_ADJ: "Vertragsomanisch"
- TRU_syndicalist_DEF: "die Vereinigten Sozialistischen Syndikate Arabiens"
- TRU_radical_socialist: "Sozialistische Föderation des Golfes"
- TRU_radical_socialist_ADJ: "Vertragsomanisch"
- TRU_radical_socialist_DEF: "die Sozialistische Föderation des Golfes"
+ JBS_subhan: "Ha'il"
+ JBS_subhan_ADJ: "Shammari"
+ JBS_subhan_DEF: "Ha'il"
 
 ### Parties ###
  JBS_totalist_party: "Alhizb Alshuyueiu Alearab"
@@ -212,7 +156,7 @@
  JBS_Ottoman_Weapons_Assistance: "Militärische Verträge mit der ATF"
  JBS_Ottoman_Weapons_Assistance_desc: "Die Einrichtungen der 'Ankara Tüfek Fabrikasi' (kurz: ATF) produzieren die besten Waffen des Nahen Ostens, welche wir definitiv benötigen werden, wenn wir gegen die Streitkräfte Ibn Sauds bestehen wollen."
  JBS_Support_the_Ottomans: "Unterstützt die Osmanen"
- JBS_Support_the_Ottomans_desc: "Unser alter Verbündeter während des Weltkriegs, das Osmanische Reich, ruft alle tugendhaften Muslime dazu auf, das Territorium und die Werte des Kalifats vor den verräterischen Invasoren zu verteidigen. Wir würden, sollten wir dem Krieg beitreten, zwar nicht allzu viel ausrichten können, die Hohe Pforte würde unsere Loyalität allerdings sicherlich belohnen, sobald der schwache Sultan in Kairo vernichtet wurde."
+ JBS_Support_the_Ottomans_desc: "Unser alter Verbündeter während des Weltkriegs, das Osmanische Reich, ruft alle tugendhaften Muslime dazu auf, das Territorium und die Werte des Kalifats vor den verräterischen Invasoren zu verteidigen. Wir würden, sollten wir dem Krieg beitreten, zwar nicht allzu viel ausrichten können, die Hohe Pforte würde unsere Loyalität allerdings sicherlich belohnen, sobald der schwache König in Kairo vernichtet wurde."
  JBS_Join_Cairo_Pact: "Dem Kairopakt beitreten"
  JBS_Join_Cairo_Pact_desc: "Die Zeiten haben sich geändert und die einst unaufhaltsame Kriegsmaschinerie der Osmanen verliert langsam an Dampf. Viele arabische Nationen haben sich bereits unter dem grünen Banner Ägyptens vereint, um für die Freiheit und den Ruhm aller Araber zu kämpfen. Nun hinterfragt auch unser Emir seine Beziehungen zur Hohen Pforte. In den letzten Jahren konnten wir bereits ein wenig Freiheit kosten... also warum nicht? Warum sollten wir sie nicht behalten?"
 
@@ -261,10 +205,9 @@
  jbs_ottoman_lapdogs_tt: "§GSolange wir enge Beziehungen zur Hohen Pforte pflegen, wird diese das Land unserer Dynastie mit Waffen und Truppen verteidigen.§!"
  JBS_guardians_hajj: "Wächter des Haddsch"
  JBS_trading_expertise_idea: "Handelsprinzen von Ha'il"
- JBS_trading_expertise2_idea: "Handelsprinzen von Ha'il"
  JBS_radiant_prestige_idea: "Strahlendes Prestige"
- JBS_defense_from_sau: "Verteidigung gegen Nadschd"
- JBS_defense_from_sau_desc: "Ein Krieg gegen die Hunde im Süden scheint unausweichlich. Es ist an der Zeit, dass all unsere Männer zur Verteidigung ihres Heimatlandes zu den Waffen greifen."
+ JBS_defence_from_sau: "Verteidigung gegen Nadschd"
+ JBS_defence_from_sau_desc: "Ein Krieg gegen die Hunde im Süden scheint unausweichlich. Es ist an der Zeit, dass all unsere Männer zur Verteidigung ihres Heimatlandes zu den Waffen greifen."
  JBS_new_arabian_army: "Rashidische Direktion militärischer Angelegenheiten"
  JBS_arabian_horsemanship_idea: "Königliche Abteilung für Pferdezucht"
  JBS_arabian_horsemanship_idea_desc: "Unsere Reiter, ausgerüstet mit den stärksten Rossen und kampfgestählt durch mehrere Jahre der Überfälle, werden uns in unserem Krieg um die Welt beistehen."
@@ -275,11 +218,8 @@
  JBS_parliamentary_basis_idea: "Erhöhte Autorität der Madschlis"
  JBS_nascent_democracy_idea: "Wachsendes politisches Bewusstsein"
  JBS_Rashidi_Code_idea: "Rashidischer Nizam"
- JBS_Rashidi_Code2_idea: "Rashidischer Nizam"
- JBS_Rashidi_Code3_idea: "Rashidischer Nizam"
  JBS_ikhwan_hijras: "Ikhwanische Hijras"
  JBS_rashidi_arabia: "Rashidi-Arabien"
- JBS_rashidi_arabia2: "Rashidi-Arabien"
  JBS_unification_fevour: "Vereinigungswunsch"
  JBS_hejaz_integration: "Hedschasischer Separatismus"
  JBS_arabian_war_of_unification: "Einigungskrieg"
@@ -292,9 +232,6 @@
 
  JBS_ATF_factories: "Ankara Tufek Importe"
  JBS_ATF_factories_tt: "\n§YWird entfernt wenn:§!\n [ROOT.GetATFRemovalTrigger] Ist kein Verbündeter von §Y[OTT.GetNameWithFlag]§!\n"
-
-### Companies ###
- jbs_ankara_tufek: "ATF"
 
 ### National Focuses ###
  rashid_focus: "Rashidischer Fokusbaum"
@@ -571,12 +508,12 @@
 
 #EGY:
  jbs.32.t: "Ha'il bittet um Unterstützung!"
- jbs.32.d: "Die al-Subhan Familie hat den ägyptischen Sultan um Unterstützung gebeten, da sie befürchtet, dass die Rashiden planen, sie zu stürzen und die Kontrolle über Ha'il erneut an sich zu reißen. Die al-Subhanis haben sich für lange Zeit in den Schatten versteckt gehalten und von dort aus die Fäden gezogen. Vor Kurzem jedoch haben sie sich dazu entschlossen, aus der Dunkelheit hervorzutreten, und sich des letzten rashidischen Emirs entsagt, wodurch der rashidische Staat einem subhanischen Platz machen musste.\n\nDa die Hohe Pforte aufgrund des Kollapses ihres Vasallenstaates erzürnt und schockiert ist, da dieser ihren Süden ungeschützt lässt, ist es recht wahrscheinlich, dass sie eine Expedition unterstützen wird, welche die Rashiden wieder auf den Thron setzen und ihre Herrschaft über Zentralarabien wiederherstellen will. Es wäre für uns definitiv von Vorteil, wenn die Osmanen einen Verbündeten weniger an ihrer Seite hätten, weshalb wir in Betracht ziehen sollten, die al-Subhani durch Gold und Waffen zu stärken und ihre Chancen darauf, weiterhin über die Wüsten Arabiens zu herrschen, zu erhöhen."
+ jbs.32.d: "Die al-Subhan Familie hat [THIS.GetMonarchTitleWithSpace][EGY.GetLeader] um Unterstützung gebeten, da sie befürchtet, dass die Rashiden planen, sie zu stürzen und die Kontrolle über Ha'il erneut an sich zu reißen. Die al-Subhanis haben sich für lange Zeit in den Schatten versteckt gehalten und von dort aus die Fäden gezogen. Vor Kurzem jedoch haben sie sich dazu entschlossen, aus der Dunkelheit hervorzutreten, und sich des letzten rashidischen Emirs entsagt, wodurch der rashidische Staat einem subhanischen Platz machen musste.\n\nDa die Hohe Pforte aufgrund des Kollapses ihres Vasallenstaates erzürnt und schockiert ist, da dieser ihren Süden ungeschützt lässt, ist es recht wahrscheinlich, dass sie eine Expedition unterstützen wird, welche die Rashiden wieder auf den Thron setzen und ihre Herrschaft über Zentralarabien wiederherstellen will. Es wäre für uns definitiv von Vorteil, wenn die Osmanen einen Verbündeten weniger an ihrer Seite hätten, weshalb wir in Betracht ziehen sollten, die al-Subhani durch Gold und Waffen zu stärken und ihre Chancen darauf, weiterhin über die Wüsten Arabiens zu herrschen, zu erhöhen."
  jbs.32.a: "Bietet ihnen ein Darlehen an."
  jbs.32.b: "Ihnen zu helfen wäre eine Verschwendung von Ressourcen."
 
  jbs.33.t: "Ägypten sendet Unterstützung!"
- jbs.33.d: "Der ägyptische Sultan hat wohl erkannt, dass es in seinem besten Intersse wäre, uns zu unterstützen, weshalb er unserer Regierung ein Darlehen gewährt hat, welches wir in den nächsten 10 Jahren zurückzahlen müssen. Mit diesem Gold können wir einige der Stämme Arabiens bestechen und somit auf unsere Seite ziehen. Vor einigen Stunden ist die erste Ladung Gold in al-Hasa angekommen, wo sie sofort von drei der Söhnen des Emirs in Empfang genommen wurde."
+ jbs.33.d: "[EGY.GetNameDef] hat wohl erkannt, dass es in seinem besten Intersse wäre, uns zu unterstützen, weshalb er unserer Regierung ein Darlehen gewährt hat, welches wir in den nächsten 10 Jahren zurückzahlen müssen. Mit diesem Gold können wir einige der Stämme Arabiens bestechen und somit auf unsere Seite ziehen. Vor einigen Stunden ist die erste Ladung Gold in al-Hasa angekommen, wo sie sofort von drei der Söhnen des Emirs in Empfang genommen wurde."
  jbs.33.a: "Wir sind mehr als nur dankbar!"
 
  jbs.34.t: "Ägypten sendet keine Unterstützung!"
@@ -591,7 +528,7 @@
 ### Chaos in the Realm
  jbs.36.t: "Nachfolgekrise in Ha'il"
  jbs.36.d: "Die Erbfolge war im rashidischen Emirat schon immer eine schwierige Angelegenheit, da die rashidischen Prinzen sich, im Gegensatz zu anderen arabischen Familien, nie darauf einigen konnten, wer das nächste Familienoberhaupt werden würde. Dies hat bereits zu einem der blutigsten Familienkonflikte in der Geschichte des Nahen Ostens geführt, in dem Bruder gegen Bruder, Onkel gegen Neffe und manchmal sogar Vater gegen Sohn kämpfte. Attentate, Staatsstreiche, Mord und andere Straftaten waren in einem Großteil unserer Geschichte keine Seltenheit, wodurch der Titel des Emirs in den letzten Jahrzehnten schon mehrere dutzend Male vergeben wurde.\n\nWährend des Weltkriegs wurde ein Waffenstillstand einberufen, da die Prinzen den auferstandenen saudischen Staat als größere Bedrohung ansahen. Dies führte dazu, dass sie den damals herrschenden Emir anerkannten und fortan zusammenarbeiteten, um das Überleben des rashidischen Staates zu garantieren. Die Ermordung Abdallahs hat diesen Waffenstillstand nun allerdings gebrochen, wodurch die Krone erneut dem Stärksten der Rashiden in die Hände fallen wird. Da Ha'il im neu-vereinten arabischen Staat noch immer eine bestenfalls schwache Position innehat, wird der Brudermord wohl bald wieder an der Tagesordnung stehen..."
- jbs.36.a: "Saūd ibn Abd al-Azīz's Tod wird dem Reich nichts Gutes bringen..."
+ jbs.36.a: "Saūd ibn Abd al-Azīz's Tod wird dem Reich nichts Gutes bringen."
 
  jbs.37.t: "Zaid ibn Talal al Rashid ist tot!"
  jbs.37.d: "Zaid ibn Talal al Rashid, einer der älteren Söhne des zweiten rashidischen Emirs, weilt nun aufgrund eines Attentates nicht länger unter uns. Der Prinz, welcher in Ha'il kurz nach dem Ende des Weltkriegs bekannt wurde, da er das erste Automobil besaß, welches die Stadt je gesehen hatte, lebte gerade lange genug, um einen weiteren Rekord aufzustellen: Er wurde das erste Opfer einer Autobombe in unserem Staat. Heute um 2 Uhr nachmittags explodierte sein 1920er al-Fert Model T und ging in einem regelrechten Flammenberg auf. Alle drei Insassen (Zaid, seine Frau und ihr Neffe Abdallah) starben sofort durch die Explosion, welche wuchtig genug war, um neben dem Auto auch einige dutzend Fenster des Barzan-Palastes zu sprengen.\n\nViele haben zwar gefürchtet, dass es aufgrund des kürzlichen Staatsstreiches unausweichlich wäre, dass einer der Prinzen früher oder später ums Leben kommt, doch haben ebenso viele gehofft, dass die Prinzen ihre Streitigkeiten friedlich lösen würden. Dieser letzte Funken Hoffnung wurde heute, zusammen mit Zaid, in Stücke gesprengt."
@@ -620,7 +557,7 @@
 ### JBS-OTT events
  jbs.59.t: "[OTT.GetLeader] ernennt [JBS.GetLeader] zum Emir von Ha'il und Nadschd"
  jbs.59.d: "Der Kalif des Osmanischen Reiches hat eine Gesandtschaft nach Ha'il geschickt, um uns für unseren Sieg über die Wahhabiten zu gratulieren und unsere neue Position auf der Halbinsel zu festigen, indem er unseren Emir zum Emir von Ha'il und Nadschd ernennt. Die Glückwünsche sind zwar ernst gemeint, doch wir sollten nicht ignorieren, dass die Osmanen durch diese Zeremonie Ha'il noch enger mit ihrem Reich verbunden haben, was uns sowohl neue Pflichten aufzwingen als auch Vorteile bringen könnte."
- jbs.59.a: "Wir sind dankbar für ihren Segen."
+ jbs.59.a: "Wir sind dankbar für ihren Segen!"
 
  jbs.60.t: "Das Ende des Arabischen Kongresses"
  jbs.60.d: "Während Gesandte aus der gesamten arabischen Welt in ihre Heimat zurückkehren, zufrieden mit ihren Plänen für einen Vergeltungsschlag gegen das Osmanische Reich für die Niederschlagung der arabischen Revolte, ist die Führungsebene in Ha'il noch immer unentschlossen, ob dies wirklich notwendig sei, weil sie sich die Hohe Pforte lieber nicht zum Feind machen will. Da die Osmanen uns bereits nach dem Weltkrieg für unsere Loyalität reich entlohnt haben, sowohl in Land als auch in Gold, könnte es gut sein, dass der Kalif uns noch großzügiger belohnen wird, sollten wir uns erneut an seine Seite stellen..."
@@ -634,7 +571,7 @@
 
  jbs.62.t: "Die Hohe Pforte akzeptiert unser Angebot!"
  jbs.62.d: "Wie erwartet hat die Regierung in Kostantiniyye unser großzügiges Angebot angenommen und uns Gold und einige Waffen zukommen lassen, was die Position des Emirs noch weiter stärkt."
- jbs.62.a: "Wir sind mehr als nur dankbar!"
+ jbs.62.a: "Wir sind mehr als nur dankbar."
 
  jbs.63.t: "Die Hohe Pforte gibt uns keine Unterstützung!"
  jbs.63.d: "Wahrscheinlich aufgrund ihrer massiven Überdehnung hat sich die Regierung in Kostantiniyye geweigert, uns weitere Unterstützung zukommen zu lassen. Spione in Kairo haben schnell über diese Ereignisse berichtet und uns das Angebot unterbreitet, dass Mitglieder der 'Freien Arabischen Bewegung' statt der Osmanen die nötige Unterstützung aufbringen könnten. Unseren Emir interessieren die politischen Differenzen zwischen den Türken und Ägyptern zwar nicht, aber Gold ist Gold und eine Entscheidung muss bald getroffen werden."
@@ -712,8 +649,3 @@
  JBS_Urban_Nobility_Discontent: "§tUnzufrieden§!"
  JBS_Urban_Nobility_Unhappy: "§RUnglücklich§!"
  JBS_Urban_Nobility_Very_Unhappy: "§rAufgebracht§!"
-
-### Characters ###
- TRU_hamad_bin_isa_al_khalifa: "Hamad ibn Isa Al-Khalifa"
- TRU_shakhbut_bin_sultan_al_nahyan: "Shakhbut ibn Sultan Al Nahyan"
- TRU_zayed_bin_sultan_al_nahyan: "Zayed ibn Sultan Al Nahyan"

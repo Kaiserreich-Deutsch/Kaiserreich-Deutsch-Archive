@@ -1,5 +1,5 @@
 ﻿l_german:
-###   Übersetzt von DerEherneRächer   ###
+###  Übersetzt von DerEherneRächer -> Proho Ab 1.1.4  ###
 ### Parties ###
  SAU_totalist_party: "Alhizb Alshuyueiu Alearab"
  SAU_totalist_party_long: "Alhizb Alshuyueiu Alearab"
@@ -64,8 +64,7 @@
  SAU_Ikwhan_Damascus: "Überfallt Damaskus"
  SAU_Ikwhan_Medina: "Überfallt Medina"
 
- OMA_SAU_Whitepeace: "Weißer Frieden zwischen Muscat und Riad"
- OMA_Request_Urgent_Intervention: "Verlangt sofortige Intervention"
+ OMA_SAU_Whitepeace: "Weißer Frieden zwischen Muscat und [SAU.Capital.GetCapitalVictoryPointName]"
  SAU_Join_Cairo_Pact: "Tretet dem Kairopakt bei"
  SAU_Join_Cairo_Pact_desc: "Die Zeiten haben sich geändert und die einst unaufhaltsame Kriegsmaschinerie der Osmanen verliert langsam an Dampf. Viele arabische Nationen haben sich bereits unter dem grünen Banner Ägyptens vereint, um für die Freiheit und den Ruhm aller Araber zu kämpfen. Nun hinterfragt auch unser Emir seine Beziehungen zur Hohen Pforte. In den letzten Jahren konnten wir bereits ein wenig Freiheit kosten... also warum nicht? Warum sollten wir sie nicht behalten?"
  SAU_Leave_Cairo_Pact: "Verlasst den Kairopakt"
@@ -112,8 +111,8 @@
 ### Focuses ###
  saudi_focus: "Saudischer Fokusbaum"
 
- SAU_fulfull_destiny: "Erfüllt unser Schicksal"
- SAU_fulfull_destiny_desc: "Unsere Eroberung sollte hier noch nicht aufhören! Wir müssen alle Araber unter einem Banner vereinen!"
+ SAU_fulfil_destiny: "Erfüllt unser Schicksal"
+ SAU_fulfil_destiny_desc: "Unsere Eroberung sollte hier noch nicht aufhören! Wir müssen alle Araber unter einem Banner vereinen!"
  SAU_asir: "Ansprüche auf Asir"
  SAU_asir_desc: "Da nun keine Großmacht mehr den Landraub Jemens unterstützt, können wir ihnen endlich eine Lektion erteilen. Südarabien wird uns gehören!"
  SAU_hit_egypt: "Greift Ägypten an"
@@ -153,40 +152,38 @@
  SAU_houses_of_wisdom_desc: "Genau wie es unsere Vorväter aus der Zeit des Abbasid-Kalifats taten, haben wir in unserem Reich mehrere Häuser der Weisheit etabliert. Wir werden ein neues, goldenes Zeitalter der arabischen Wissenschaft einläuten!"
 
  SAU_land_of_faith: "Land des Glaubens"
- SAU_cleanse_fringe_arabia: "Arabiens Randgebiete säubern"
- SAU_cleansing_of_heresy: "Säuberung der Häresie"
- SAU_law_of_faith: "Gesetze des Glaubens"
- SAU_Jizya: "Dschizya"
- SAU_gather_the_amirs: "Versammelt die Emire"
- SAU_trading_regulations: "Handelsvorschriften"
- SAU_funds_for_faith: "Spenden für den Glauben"
- SAU_ghazis: "Ghazis"
- SAU_extreme_jihad: "Krieger des Glaubens"
- SAU_hunt_apostates: "Die Apostaten jagen"
- SAU_destroy_dissent: "Gegen andere Meinungen vorgehen"
- SAU_madrasah_funding: "Unterstützung der Medresen"
- SAU_kuffar_weaponry: "Arsenal der Kuffar"
- SAU_the_caliphate: "Saudisches Kalifat"
- SAU_haia: "Die Moralpolizei etablieren"
- SAU_succession_regulation: "Gesetzmäßige Erbfolge"
  SAU_land_of_faith_desc: "Mit der Unterstützung des Klerus und der weisesten Männer unseres Glaubens, werden wir Arabien in ein Paradies für alle Gläubigen verwandeln! Möge Gott unser Zeuge sein!"
- SAU_cleanse_suryah_desc: "Zu viele türkische und ägyptische Doppelagenten und atheistische Syndikalisten ziehen in Syrien durch die Straßen. Ihre sündhaften Leben drehen sich nur darum, Unruhen zu verbreiten, was wir nicht weiter tolerieren werden!"
+ SAU_cleanse_fringe_arabia: "Arabiens Randgebiete säubern"
  SAU_cleanse_fringe_arabia_desc: "Zu viele türkische und deutsche Doppelagenten und atheistische Liberale ziehen im Jemen und im Oman durch die Straßen. Ihre sündhaften Leben drehen sich nur darum, Unruhen zu verbreiten, was wir nicht weiter tolerieren werden!"
- SAU_cleanse_iraq_i_arab_desc: "Zu viele türkische und [PER.GetAdjective] Doppelagenten und atheistische Syndikalisten ziehen in der Maschrek-Region durch die Straßen. Ihre sündhaften Leben drehen sich nur darum, Unruhen zu verbreiten, was wir nicht weiter tolerieren werden!"
+ SAU_cleansing_of_heresy: "Säuberung der Häresie"
  SAU_cleansing_of_heresy_desc: "Zu viele türkische Doppelagenten, Unterstützer der Rashiden und Hashmiden und atheistische Syndikalisten ziehen in Arabien durch die Straßen. Ihre sündhaften Leben drehen sich nur darum, Unruhen zu verbreiten, was wir nicht weiter tolerieren werden!"
+ SAU_law_of_faith: "Gesetze des Glaubens"
  SAU_law_of_faith_desc: "Ein neues Gesetz wurde in Arabien eingeführt: Das kanonische Recht, genau wie vom Propheten selbst, gesegnet sei sein Name, bevorbestimmt wurde. Arabien ist kein Ort für Apostaten!"
+ SAU_Jizya: "Dschizya"
  SAU_Jizya_desc: "Diejenigen, die nicht dem wahren Glauben folgen, werden in unserem Land eine Unterkunft finden - und gegen eine gerechte Steuer durch das Gesetz beschützt werden. Im Gegensatz zu den ehrlosen Türken halten wir uns an unsere Abmachungen!"
+ SAU_gather_the_amirs: "Versammelt die Emire"
  SAU_gather_the_amirs_desc: "Alle wichtigen Herrscher Arabiens sollten versammelt werden, damit wir sie davon überzeugen können, sich unserer neuen Ordnund anzuschließen."
+ SAU_trading_regulations: "Handelsvorschriften"
  SAU_trading_regulations_desc: "Wenn die Kuffar das Öl so unbedingt haben wollen, sollten sie dafür bezahlen müssen. Damit landet das Geld in den richtigen Händen und den Kuttar wird es erlaubt sein, noch tiefer zu graben."
+ SAU_funds_for_faith: "Spenden für den Glauben"
  SAU_funds_for_faith_desc: "Die Wichtigkeit von Petroleum, sowohl für das Militär als auch für die Wirtschaft, ist seit Beginn des Jahrhunderts stark angestiegen. Der Hafen Abu Dhabis ertrinkt schon förmlich von den Profiten durch den Handel mit dem schwarzen Gold - und alle Gläubigen unserer Nation werden an diesem Erfolg teilhaben dürfen. Natürlich nur mit Gottes Willen."
+ SAU_ghazis: "Ghazis"
  SAU_ghazis_desc: "Versammelt euch, Männer des Glaubens! Die Zeit für große Bemühungen ist gekommen! Unsere Stärke und Entschlossenheit ist es, was uns von den ehrlosen und ungläubigen Kötern der restlichen Welt unterscheidet!"
+ SAU_extreme_jihad: "Krieger des Glaubens"
  SAU_extreme_jihad_desc: "Alle wahren muslimischen Krieger wissen, dass sie im Kampfe für Arabien auch für ihren Gott, ihr Land und ihre Familien kämpfen. Wir dürfen keine Mühen mehr sparen, denn die Zeit des großen Kampfes rückt näher!"
+ SAU_hunt_apostates: "Die Apostaten jagen"
  SAU_hunt_apostates_desc: "Wir werden erneut gegen die sogenannten 'Syndikalisten' vorgehen müssen, denen ihre Arbeit wichtiger ist als ihr Gott. Von all den lächerlichen Ideen und Gedanken des Westens ist diese wohl die widerlichste - und wir sollten das Böse ausrotten, bevor es Wurzeln schlagen kann. Mit Gottes Willen werden wir erfolgreich sein!"
+ SAU_destroy_dissent: "Gegen andere Meinungen vorgehen"
  SAU_destroy_dissent_desc: "Nichts ist schlimmer als ein Verräter unseres Glaubens, unserer Heimat, unserer Familien und unserer Prinzipien. Sie bringen Schande über uns alle! Wir müssen gegen sie mit Stahl vorgehen, besser haben sie es nicht verdient!"
+ SAU_madrasah_funding: "Unterstützung der Medresen"
  SAU_madrasah_funding_desc: "Unsere besten Gelehrten werden nun die finanziellen Mittel erhalten, die sie benötigen, wodurch hoffentlich hier und im Ausland neue Schulen für die Gläubigen, welche sich weiterbilden wollen, etabliert werden können."
+ SAU_kuffar_weaponry: "Arsenal der Kuffar"
  SAU_kuffar_weaponry_desc: "Eines ist klar: Unsere alten Waffen reichen heutzutage nicht mehr aus. Wir müssen von den christlichen Nationen lernen und ihre Technologien kopieren, sonst könnte die Zukunft unseres ganzen Glaubes in Gefahr sein!"
+ SAU_the_caliphate: "Saudisches Kalifat"
  SAU_the_caliphate_desc: "Schon seit Jahrhunderten gibt es keine wahren Kalifen mehr, nur einige schwache Staaten, welche leere Ansprüche auf diesen Titel erhoben, wie Sokoto und das Türken-Reich. Aber nun, da wir die heiligsten Stätten des Islams und ganz Arabien kontrollieren, sind wir schon der Führer aller Gläubigen - und müssen dies nur noch offiziell machen."
+ SAU_haia: "Die Moralpolizei etablieren"
  SAU_haia_desc: "Wir müssen daran arbeiten, ein Komitee zu etablieren, welches sich auf die Förderung der Tugend und die Verhinderung von Sünden konzentriert - und damit gegen die mentale und kulturelle Entartung unserer Gesellschaft vorgehen könnte. Dies wäre ein weiser Weg, um die Ulema zufrieden zu halten."
+ SAU_succession_regulation: "Gesetzmäßige Erbfolge"
  SAU_succession_regulation_desc: "Wir werden ein klares System der Erbfolge etablieren, welches sich auf die Weisheit, den Glauben und die Erfahrung der möglichen Erben fokussiert, wodurch Arabiens Monarchie mit jedem neuen König weiser und mächtiger werden wird."
 
  SAU_trading_expertise: "Handelserfahrungen"
@@ -269,7 +266,6 @@
 ## Intro Screen ##
  SAU_country_intro_header: "Das Emirat Nadschd"
  SAU_country_intro_content: "Der Weltkrieg war eines der vielen Zeichen dafür, dass wir, das Hause Saud, dazu bestimmt sind, über dieses Land zu herrschen. In der Stunde ihres größten Hochmuts wurden die Haschimiten von ihrem ungläubigen Herren aufgegeben und waren daraufhin den Türken schutzlos ausgeliefert. Unsere Inaktivität während des darauffolgenden Krieges hat sich als höchst vorteilhaft herausgestellt, da wir so einem türkischen Vergeltungsschlag entgehen konnten, wenngleich die Osmanen keinen wirklichen Einfluss auf uns haben. Nun müssen wir die Zeit abwarten, Krieger und Geld sammeln und unsere Industrie ausbauen, um die Rashiden anzugreifen, welche denken, auf beiden Seiten stehen zu können, indem sie sowohl haschimitische Krieger aufnahmen als auch den Osmanen die Treue schworen. Wenn wir über sie triumphieren, können wir endlich ganz Arabien unter einem Banner vereinen!"
- saud.1.a: "Lang lebe das Hause Saud!"
 
 ### Events
  saud.2.t: "Saudi-Arabien"
@@ -283,15 +279,13 @@
 
  saud.31.t.india: "Indische Muslime feiern das wiedergeborene Kalifat!"
  saud.31.t.insulindia: "Die Neuigkeiten des Kalifats erreichen Insulindia!"
- saud.31.t.other: "Der Sultan Arabiens ernennt sich zum Kalifen!"
-
- saud.31.d.EGY: "Der Sultan Arabiens hat sich heute zum Kalifen des gesamten Islams ernannt. Viele Liberale in Cafés in ganz Ägypten konnten nicht anders, als über die Neuigkeiten zu lachen, man sagt selbst Sultan Farouk finde das Ganze lächerlich. Zwei Mitglieder der konservativen Partei Ittihad, Hassan al-Banna und Sayyid Qutb, haben diesen Anspruch ebenfalls denunziert und bezeichnen den Sultan Arabiens als unpassend für seine neue Position."
- saud.31.d.PER: "[266.GetCapitalVictoryPointName] hat heute die Nachricht erreicht, dass der Sultan Arabiens sich zum Kalifen des Islams ernannt hat. Des sunnitischen Islams, um genau zu sein. Die Mehrheit der Bevölkerung [PER.GetNameDef] ist schiitisch, weshalb es sie kaum interessiert, was der Sultan entschieden hat. Wir müssen uns um ihn nicht kümmern."
+ saud.31.t.other: "The Sultan of Arabia Declares Himself Caliph"
+ saud.31.d.EGY: "Der Sultan Arabiens hat sich heute zum Kalifen des gesamten Islams ernannt. Viele Liberale in Cafés in ganz Ägypten konnten nicht anders, als über die Neuigkeiten zu lachen, man sagt selbst kÖNIG Farouk finde das Ganze lächerlich. Zwei Mitglieder der konservativen Partei Ittihad, Hassan al-Banna und Sayyid Qutb, haben diesen Anspruch ebenfalls denunziert und bezeichnen den Sultan Arabiens als unpassend für seine neue Position."
+ saud.31.d.PER: "[ROOT.Capital.GetCapitalVictoryPointName] hat heute die Nachricht erreicht, dass der Sultan Arabiens sich zum Kalifen des Islams ernannt hat. Des sunnitischen Islams, um genau zu sein. Die Mehrheit der Bevölkerung [PER.GetNameDef] ist schiitisch, weshalb es sie kaum interessiert, was der Sultan entschieden hat. Wir müssen uns um ihn nicht kümmern."
  saud.31.d.india: "In ganz Indien feiern die Muslime das neue Kalifat, welches vom Sultan Arabiens ausgerufen wurde. Ein Großteil der indischen Oberschicht hat zwar nicht an den Feierlichkeiten teilgenommen, die meisten einfachen Bürger allerdings schon."
  saud.31.d.insulindia: "Die Neuigkeiten, dass der Sultan Arabiens sich zum Kalifen des gesamten Islams ernannt hat, haben Insulindia erreicht. Die meisten der Muslime der Inseln empfinden diesen Anspruch als unrechtmäßig und akzeptieren ihn nicht als ihr neues Glaubensoberhaupt."
  saud.31.d.OTT: "Uns haben Neuigkeiten aus Arabien erreicht, welche besagen, dass die dortige Bevölkerung unseren Anspruch auf den Titel des Kalifen nicht länger anerkennt! Dies werden wir ihnen niemals vergessen!"
  saud.31.d.other: "Der Sultan Arabiens hat sich zum Kalifen des gesamten Islams ernannt, was eine offensichtliche List ist, um mehr Macht zu erlangen. Wir sollten den saudischen Anspruch nicht anerkennen, da eine solch groteske Heuchelei nicht unterstützt werden darf."
-
  saud.31.a.PER: "Wen interessieren die saudischen Ansprüche schon."
  saud.31.a.india: "Inshallah."
  saud.31.a.OTT: "Lehnt diese lächerlichen Ansprüche ab!"
@@ -299,9 +293,7 @@
 
  saud.32.t.india: "Die indischen Muslime akzeptieren unseren Anspruch"
  saud.32.t.insulindia: "Die insulindischen Muslime lehnen unseren Anspruch ab"
- saud.32.t.RUS: "Die russischen Muslime lehnen unseren Anspruch ab"
- saud.32.t.other: "[FROM.GetNameDefCap] lehnt unsere Ansprüche ab"
-
+ saud.32.t.other: "[FROM.GetAdjective] Muslime lehnen unsere Forderungen ab"
  saud.32.d.india: "Uns haben gute Neuigkeiten aus Indien erreicht. Die muslimische Bevölkerung des Landes akzeptiert unseren Anspruch auf den Titel des Kalifen!"
  saud.32.d.insulindia: "Uns haben schlechte Neuigkeiten aus Insulindia erreicht. Die dortige Bevölkerung hat entschieden, dass wir in ihren Augen keinen rechtmäßigen Anspruch auf den Titel des Kalifen haben. Diese Untat werden wir ihnen niemals vergessen!"
  saud.32.d.other: "Uns haben schlechte Neuigkeiten aus [FROM.GetNameDef] erreicht. Die dortige Bevölkerung hat entschieden, dass wir in ihren Augen keinen rechtmäßigen Anspruch auf den Titel des Kalifen haben. Diese Untat werden wir ihnen niemals vergessen!"
@@ -309,19 +301,6 @@
  saud.32.a.other: "Das werden wir ihnen niemals vergessen!"
 
 ### Other Events
- saud.53.t: "Waffenverkäufe an Nadschd"
- saud.53.d: "Um ihre Armee für den kommenden Konflikt mit den Osmanen zu rüsten, hat Nadschd uns ein Angebot gesandt: Sie geben uns große Mengen Öl und Geld und im Gegenzug senden wir ihnen einige Waffen."
- saud.53.a: "Sendet ihnen einige Waffen."
- saud.53.b: "Uns interessiert der Nahe Osten nicht."
-
- saud.54.t: "Deutschland lehnt den Verkauf ab"
- saud.54.d: "Überraschenderweise hat die deutsche Regierung unsere Bitte nach Waffen abgelehnt, mit der Begründung, dass andere Geschäftspartner diese Ausrüstung nötiger hätten als 'ein Haufen Nomaden in einer wertlosen Wüste'."
- saud.54.a: "Das werden sie noch bereuen!"
-
- saud.55.t: "Deutschland akzeptiert den Verkauf"
- saud.55.d: "Berlin hat unseren Bedingungen zugestimmt und bereits die ersten Waffen nach Riad gesandt, um uns im kommenden Konflikt mit den Rashiden zu unterstützen. Dies ist zwar ein teures Wagnis unserer Regierung, auf lange Sicht wird es sich jedoch auszahlen."
- saud.55.a: "Diese Waffen werden den rashidischen Abschaum vernichten!"
-
  saud.150.t: "Die Ikhwan rebellieren!"
  saud.150.d: "Die Ikhwan haben schon seit Jahrzehnten eine starke Präsenz in ganz Arabien. Auch waren sie einer der größten Gründe dafür, dass wir die anderen arabischen Staaten besiegen und die saudische Dominanz durchsetzen konnten. Die Ikhwan waren jedoch schon immer sehr traditionell, höchst religiös und gegen jede Reform. Sie scheinen nicht zu verstehen, dass manch einmal Modernisierungen nötig sind, um eine Nation führen zu können. Normalerweise können wir den Zorn der Ikhwan kontrollieren, indem wir ihnen versprechen, dass wir nicht weiter modernisieren werden. Wie es scheint sind wir diesmal allerdings zu weit gegangen. Die Soldaten der Ikhwan haben sich unter der Führung von Faisal Al Duwaish gesammelt, einem ihrer Befehlshaber, welcher die Saudis als unfähig erlärt hat, über Arabien zu herrschen. Viele der Milizen der Ikhwan haben bereits einen Aufstand begonnen - und mit diesem die ersten Kämpfe..."
  saud.150.a: "Wir werden sie vernichten! Für Arabien!"
@@ -330,7 +309,7 @@
  saud.151.d: "Die Stadt Riad sah auf Ibn Sauds Befehl hin eine Prozession vieler Soldaten unter einem Dach aus Säbeln. Ein Teil der Prozession bestand auch aus den gefangenen Emiren. Ibn Saud hat entschieden, die Familien der Emire zu verschonen, wenn sie Saudi-Arabien die Treue schwören. Diese neue Form der Vasallierung unterscheidet sich von den rücksichtslosen Strategien, welche Ibn Sauds Vorgänger zur Sicherung der Loyalität ihrer Vasallen nutzten. Außerdem können die Ikhwan sich bei dieser Form der Vasallierung in keinerlei Weise einmischen."
  saud.151.a: "Allah ist unser wahrer Verbündeter!"
 
- saud.152.t: "Ein Angebot aus [From.GetNameDef]"
+ saud.152.t: "Ein Angebot aus [FROM.GetNameDef]"
  saud.152.d: "Aufgrund unserer Allianz mit [OMA.GetNameDef] sind wir in einen Krieg mit [FROM.GetNameDef] verwickelt. Durch die Kapitulation [OMA.GetNameDef]s jedoch haben wir unseren einzigen Halt auf der arabischen Halbinsel verloren. Nun stehen wir vor einer Wahl: Eine Invasion der Halbinsel starten oder unsere Verluste klein halten und den Frieden suchen."
  saud.152.a: "Oman ist sowieso nichts wert..."
  saud.152.b: "Wir werden unsere Verbündeten nicht verraten!"
@@ -340,11 +319,11 @@
  saud.153.a: "Wir sind der Einigung Arabiens erneut näher gekommen!"
  saud.153.b: "Es wird keinen Frieden mit unseren Feinden geben!"
 
- saud.154.t: "[From.GetNameDefCap] wird den Krieg fortführen!"
+ saud.154.t: "[FROM.GetNameDefCap] wird den Krieg fortführen!"
  saud.154.d: "Der Zusammenbruch der [OMA.GetAdjective] Verteidigungen brachte bei unserer Bevölkerung die Hoffnung mit sich, dass ihre Verbündeten in [FROM.GetNameDef] versuchen würden, ihre Verluste klein zu halten und Frieden mit uns zu schließen. Wie es jedoch scheint, hat Muscat einen Verbündeten gefunden, welcher bereit ist, sich selbst zugunsten dieser kleinen und unbedeutenden Nation ausbluten zu lassen."
  saud.154.a: "Dann wird der Krieg noch länger andauern..."
 
- saud.155.t: "[From.GetNameDefCap] lehnt unser Angebot ab!"
+ saud.155.t: "[FROM.GetNameDefCap] lehnt unser Angebot ab!"
  saud.155.d: "Trotz unseres gütigen Angebots haben die Araber es abgelehnt, Frieden mit ihren 'ungläubigen Feinden' zu schließen."
  saud.155.a: "Was?!"
 
@@ -354,13 +333,10 @@
  SAU_DEF: "Nadschd und Hasa"
 
  SAU_JBS_authoritarian_democrat: "Sultanat Nadschd"
- SAU_JBS_authoritarian_democrat_ADJ: "Saudisch"
  SAU_JBS_authoritarian_democrat_DEF: "das Sultanat Nadschd"
  SAU_JBS_paternal_autocrat: "Sultanat Nadschd"
- SAU_JBS_paternal_autocrat_ADJ: "Saudisch"
  SAU_JBS_paternal_autocrat_DEF: "das Sultanat Nadschd"
  SAU_JBS_national_populist: "Sultanat Nadschd"
- SAU_JBS_national_populist_ADJ: "Saudisch"
  SAU_JBS_national_populist_DEF: "das Sultanat Nadschd"
 
  SAU_ARA: "Arabien"

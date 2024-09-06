@@ -161,7 +161,7 @@
  LIT_has_cultural_divide_NOT: "Hat keinen Nationalgeist §H$LIT_cultural_divide$§!"
 
  LIT_legitimacy_tooltip: "Legitimität: $RIGHT|+=%%0$."
- LIT_legitimacy_above_70_percent: "Mehr als §H70%§! Legitimität"
+ LIT_legitimacy_check_tooltip: "Mindestens $RIGHT|Y%%0$ Legitimität"
 
  LIT_add_long_road_to_pluralism: "Gewinnt Nationalgeist §H$LIT_long_road_to_pluralism_idea$§!, welche gewährt ($MODIFIER_POLITICAL_POWER_GAIN$: [?LIT_pp_temp|+=], $MODIFIER_STABILITY_WEEKLY$: [?LIT_stability_temp|+=%], $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?LIT_construction_speed_temp|+=%], $MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?LIT_factory_output_temp|+=%])."
  LIT_modify_long_road_to_pluralism: "Änderung §H$LIT_long_road_to_pluralism$§! durch"
@@ -184,26 +184,17 @@
  LIT_radicalism_above_60_percent: "Mehr als §H60%§! Radikalismus"
 
  LIT_federalisation_tooltip: "Federalisation: $RIGHT|+=%%0$."
- LIT_federalisation_above_25_percent: "Mehr als §H25%§! Föderalisierung Fortschritte"
- LIT_federalisation_above_50_percent: "Mehr als §H50%§! Föderalisierung Fortschritte"
- LIT_federalisation_above_75_percent: "Mehr als §H75%§! Föderalisierung Fortschritte"
- LIT_federalisation_above_95_percent: "Mehr als §H95%§! Föderalisierung Fortschritte"
+ LIT_federalisation_check_tooltip: "Mindestens $RIGHT|Y%%0$ Fortschritte bei der Föderalisierung"
 
  LIT_merge_ideas_into_optimal_system: "Verschmelzung §H$LIT_political_democracy$§! und §H$LIT_economic_democracy_idea$§! zu §H$LIT_optimal_system_idea$§!\nEffektive Veränderung:\n$MODIFIER_POLITICAL_POWER_GAIN$: [?0.1|+=]\n$MODIFIER_STABILITY_FACTOR$: [?0.1|+=%]"
 
  LIT_LAF_threat_tooltip: "LAF Bedrohung: $RIGHT|-=%%0$."
- LIT_LAF_threat_above_5_percent: "Mehr als §H5%§! LAF Bedrohung"
- LIT_LAF_threat_above_10_percent: "Mehr als §H10%§! LAF Bedrohung"
- LIT_LAF_threat_above_20_percent: "Mehr als §H20%§! LAF Bedrohung"
- LIT_LAF_threat_above_25_percent: "Mehr als §H25%§! LAF Bedrohung"
+ LIT_LAF_threat_check_tooltip: "Mehr als $RIGHT|Y%%0$ LAF Bedrohung"
  LIT_LAF_guerillas_more_frequent: "§H$LIT_LAF_guerilla_activity$§! wird 30 Tage früher auslaufen."
  LIT_LAF_guerillas_less_frequent: "§H$LIT_LAF_guerilla_activity$§! wird 15 Tage früher auslaufen."
 
  LIT_centralisation_tooltip: "Centralisation: $RIGHT|+=%%0$."
- LIT_centralisation_above_25_percent: "Mehr als §H25%§! Zentralisierung"
- LIT_centralisation_above_50_percent: "Mehr als §H50%§! Zentralisierung"
- LIT_centralisation_above_75_percent: "Mehr als §H75%§! Zentralisierung"
- LIT_centralisation_above_95_percent: "Mehr als §H95%§! Zentralisierung"
+ LIT_centralisation_check_tooltip: "Mehr als $RIGHT|Y%%0$ Zentralisierung"
  
  LIT_Plech_plebiscite_tt: "Es wird eine §RAbstimmung§! stattfinden, die über die Zukunft Litauens entscheidet"
 
@@ -265,7 +256,7 @@
  LIT_invest_in_vawkavysk_desc: "Seit der Gründung des Königreichs Litauen ist die Industrie in Valkaviskas in Vergessenheit geraten. Wir sollten die Investitionen in die Industrie in der Region wieder fördern, wobei das Eisenwerk das Hauptziel dieser Investitionen sein sollte."
 
  LIT_architect_king_decisions: "Der Architektenkönig"
- LIT_architect_king_decisions_desc: "Die Leidenschaften des Königs waren schon immer eher die Kunst und die Architektur als das Regieren. Abseits der politischen Kämpfe des Königreichs verbringt er seine Zeit damit, immer komplexere Projekte zu entwerfen, die er als Herrscher in die Tat umsetzen kann. Einige halten dies für eine leichtfertige Zeitverschwendung, andere sind der Meinung, dass das Programm unschuldig genug ist und fortgesetzt werden sollte. Welche Sichtweise des Königs sich durchsetzen wird, wird nur die Zeit zeigen.\n\nLegitimität: [?LIT_legitimacy|0+%%]"
+ LIT_architect_king_decisions_desc: "Die Leidenschaften des Königs waren schon immer eher die Kunst und die Architektur als das Regieren. Abseits der politischen Kämpfe des Königreichs verbringt er seine Zeit damit, immer komplexere Projekte zu entwerfen, die er als Herrscher in die Tat umsetzen kann. Einige halten dies für eine leichtfertige Zeitverschwendung, andere sind der Meinung, dass das Programm unschuldig genug ist und fortgesetzt werden sollte. Welche Sichtweise des Königs sich durchsetzen wird, wird nur die Zeit zeigen.\n\nLegitimität: [?LIT_legitimacy|+%%0]"
 
  LIT_monument_to_emilia_plater: "Ein Denkmal für Emilia Platter"
  LIT_monument_to_emilia_plater_desc: "Nachdem der König von der legendären Figur der Gräfin Emilia Plater erfahren hat, will er ihr ein Denkmal errichten lassen. Obwohl sich die Stadt seit den Tagen der Gräfin verändert hat, könnten seine Bemühungen bei den Einheimischen nicht so gut ankommen..."
@@ -2369,7 +2360,7 @@
  LIT_augustinas_povilaitis: "Augustinas Povilaitis"
  LIT_jonas_vailokaitis: "Jonas Vailokaitis"
  LIT_juozas_paknys: "Juozas Paknys"
- LIT_gabriele_petkevicaite-bite: "Gabrielė Petkevičaitė-Bitė"
+ LIT_gabriele_petkevicaite_bite: "Gabrielė Petkevičaitė-Bitė"
  LIT_herbert_tillmanns: "Herbert Tillmanns"
  LIT_jonas_pyragius: "Jonas Pyragius"
 

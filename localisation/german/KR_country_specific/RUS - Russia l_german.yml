@@ -365,6 +365,7 @@ RUS_Establish_The_VES_desc: "Jetzt, da Sawinkow an der Macht ist, können wir en
 
 RUS_Ural_Tractor_Plants: "Urale Traktorwerke"
 RUS_Ural_Tractor_Plants_desc: "Wenn es Russland an einer Sache nicht mangelt, dann ist es Land. Wir werden staatlich geförderte Fabriken und Stahlwerke tief im Herzen unseres Landes errichten, um mechanisierte Fahrzeuge zu produzieren, die weit außerhalb der Reichweite Europas liegen."
+RUS_Ural_Tractor_Plants_Socialist: "$RUS_Ural_Tractor_Plants$"
 
 RUS_Machine_And_Tractor_Stations: "Maschinen- und Traktor-Stationen"
 RUS_Machine_And_Tractor_Stations_desc: "Die von Sawinkow versprochene Landumverteilung hat es uns ermöglicht, viele Bauernhöfe in Zentralrussland zu finanzieren. Der nächste Schritt besteht darin, unsere Bauern mit Landmaschinen zu versorgen. Deshalb sollten wir Maschinen- und Traktorstationen (MTS) einrichten, also ländliche Agenturen, die die Betriebe mit Landmaschinen und Personal versorgen. Eine solche Zusammenarbeit wird den Agrarsektor in Russland wiederbeleben."
@@ -434,9 +435,11 @@ RUS_Decentralised_Logistics_desc: "Die Größe Russlands ist sowohl seine größ
 
 RUS_Expand_The_Transsiberian: "Ausbau der Transsibirischen Eisenbahn"
 RUS_Expand_The_Transsiberian_desc: "Die Bedeutung der Transsibirischen Eisenbahn für unser Militär und unsere Wirtschaft kann gar nicht hoch genug eingeschätzt werden. Da die Infrastruktur durch das Wachstum überlastet ist, müssen wir sie ausbauen, indem wir neue Gleise und Knotenpunkte mit neuerer Technologie bauen."
+RUS_Expand_The_Transsiberian_Socialist: "$RUS_Expand_The_Transsiberian$"
 
 RUS_Research_Investments: "Forschungsinvestitionen"
 RUS_Research_Investments_desc: "Mit unseren hohen Investitionen in unsere Industrie und Wirtschaft haben wir es geschafft, mehr Ressourcen für die Forschung freizusetzen. Am Ende wird sich das sehr auszahlen."
+RUS_Research_Investments_Socialist: "$RUS_Research_Investments$"
 
 RUS_Project_Kremlin: "RDS-1"
 RUS_Project_Kremlin_desc: "Das russische Nuklearwissenschaftlerkorps unter der Leitung von Igor Kurtschatow hat uns in einer Petition über das zerstörerische Potenzial des gespaltenen Atoms informiert und darauf hingewiesen, dass wir uns diese Kraft zunutze machen müssen, bevor es unsere Feinde tun."
@@ -446,6 +449,7 @@ RUS_Project_Kostikov_desc: "Das von dem jungen, aber außergewöhnlichen Erfinde
 
 RUS_Resource_Prospection: "Ressourcenprospektion"
 RUS_Resource_Prospection_desc: "Mineralien sind in Russland zahlreich vorhanden und können die Wirtschaft rasch ankurbeln. Deshalb müssen wir die Förderung der verschiedenen Mineralien im ganzen Land in Angriff nehmen."
+RUS_Resource_Prospection_Socialist: "$RUS_Resource_Prospection$"
 
 RUS_Rearmament_Programme: "Aufrüstungsprogramm"
 RUS_Rearmament_Programme_desc: "Während die Spannungen zwischen Franzosen und Deutschen weiter zunehmen, nähert sich die Welt immer mehr dem Ausbruch eines neuen Krieges, der die Zukunft Europas bestimmen wird. Wir müssen bereit sein, Deutschland zu konfrontieren, wenn die Zeit gekommen ist, und zu diesem Zweck müssen wir ein ehrgeiziges Programm zur Aufrüstung der russischen Armee in Angriff nehmen."
@@ -1492,23 +1496,29 @@ rusfor.1231.d: "[From.GetNameDefCap] hat sich bereit erklärt, den größten Tei
 rusfor.1231.a: "Ein weiterer Sieg für die russische Diplomatie!"
 
 rusfor.1232.t.defeat: "Wir sind besiegt worden!"
-rusfor.1232.t.victory: "Russland ist besiegt!"
 rusfor.1232.d.defeat: "Die Streitkräfte des russischen Staates haben uns eine Reihe großer Niederlagen zugefügt, und sie dringen jeden Tag weiter in unser Land vor. Wir müssen diesen Krieg beenden, bevor es ihnen gelingt, unser gesamtes Heimatland zu überrennen."
+rusfor.1232.t.victory: "Russland ist besiegt!"
 rusfor.1232.d.victory: "Wir haben die Streitkräfte des russischen Staates erfolgreich aufgerieben und ihnen eine Reihe großer Niederlagen beigebracht. Dies ist eine Gelegenheit, ihnen Frieden im Austausch für Karelien anzubieten."
-rusfor.1232.a: "Bittet um Frieden!"
-rusfor.1232.b: "Lasst uns diesen Krieg beenden."
+rusfor.1232.t.white_peace: "Pattsituation im Norden"
+rusfor.1232.d.white_peace: "TEMP: Der Winterkrieg ist ins Stocken geraten, ROOT erwägt, Russland einen weißen Frieden anzubieten."
+rusfor.1232.a: "Lasst uns diesen Krieg beenden."
 rusfor.1232.c: "Wir können immer noch gewinnen!"
 rusfor.1232.d: "Kein Frieden bis wir Moskau erreichen!"
 
-rusfor.1233.t: "Frieden mit Finnland?"
-rusfor.1233.d.victory: "Mit der Rückeroberung Kareliens hat die finnische Regierung ihren Willen erklärt, den Kriegszustand zwischen unseren Nationen zu beenden und dabei unsere Souveränität über Karelien anzuerkennen. Wie sollen wir darauf reagieren??"
-rusfor.1233.d.defeat: "Nachdem unsere Armeen vollständig aufgerieben wurden, hat die finnische Regierung ihren Wunsch erklärt, den Kriegszustand zwischen unseren Nationen zu beenden, und dabei die Souveränität über Karelien gefordert. Wie sollen wir darauf reagieren?"
+RUS_winter_war_objective_karelia: "Karelien"
+RUS_winter_war_objective_finland: "Finnland"
+
+rusfor.1233.t: "Frieden mit [FROM.GetNonIdeologyNameDef]?"
+rusfor.1233.d.victory: "Mit der Rückeroberung von [ROOT.RUS_GetWinterWarTarget] hat die [FROM.GetNonIdeologyNameDef] Regierung ihren Willen erklärt, den Kriegszustand zwischen unseren Nationen zu beenden und dabei unsere Souveränität über [ROOT.RUS_GetWinterWarTarget] anzuerkennen. Wie sollen wir darauf reagieren??"
+rusfor.1233.d.defeat: "Nachdem unsere Armeen vollständig aufgerieben wurden, hat die [FROM.GetNonIdeologyNameDef] Regierung ihren Wunsch erklärt, den Kriegszustand zwischen unseren Nationen zu beenden, und dabei die Souveränität über [ROOT.RUS_GetWinterWarTarget] gefordert. Wie sollen wir darauf reagieren?"
+rusfor.1233.d.white_peace: "TEMP: Pattsituation gegen [FROM.GetNonIdeologyNameDef], Russland erwägt Angebot für weißen Frieden."
 rusfor.1233.a: "Akzeptiert das Friedensangebot!"
 rusfor.1233.b: "Nein, sie sollen zermalmt werden!"
 
 rusfor.1234.t: "Vertrag von Petrograd"
 rusfor.1234.d.defeat: "Der russische Staat hat unserem Kapitulationsangebot zugestimmt und der Krieg ist endlich vorbei."
-rusfor.1234.d.victory: "Der russische Staat hat unserem Friedensangebot zugestimmt. Karelien wurde abgetreten, und der Krieg ist endlich vorbei."
+rusfor.1234.d.victory: "Der russische Staat hat unserem Friedensangebot zugestimmt. [ROOT.RUS_GetWinterWarTarget] wurde abgetreten, und der Krieg ist endlich vorbei."
+rusfor.1234.d.white_peace: "TEMP: Mitteilung, dass Russland einen weißen Frieden akzeptiert hat."
 rusfor.1234.a: "Wenigstens gibt es uns noch!"
 rusfor.1234.b: "Ein großartiger Sieg!"
 
@@ -1544,6 +1554,14 @@ rusfor.1239.t: "Russland lehnt Frieden ab"
 rusfor.1239.d: "Vor kurzem erreichten uns schockierende Nachrichten aus Moskau: Die Russen haben sich geweigert, Friedensverhandlungen aufzunehmen! Sie behaupten, dass die Verletzungen der russischen Nation zu groß sind, um sie zu überwinden, und dass der Krieg nicht enden wird, bevor nicht russische Truppen durch Bukarest marschiert sind. Wir müssen uns um unsere Verteidigung kümmern..."
 rusfor.1239.a: "Gott sei uns gnädig."
 rusfor.1239.b: "Wenn es ein Kampf ist, den sie wollen..."
+
+rusfor.1240.t: "[FROM.GetNonIdeologyNameDefCap] verrät uns!"
+rusfor.1240.d: "Benachrichtigung für den fraktionslosen Oberbefehlshaber von [FROM.GetNonIdeologyNameDef], dass sie einen separaten Frieden mit [?global.russia.GetNameDef] ausgehandelt haben und alle Beziehungen zu [ROOT.GetNameDef] abbrechen."
+rusfor.1240.a: "Antwort."
+
+rusfor.1241.t: "[FROM.GetNonIdeologyNameDefCap] verrät uns!"
+rusfor.1241.d: "Benachrichtigung für den fraktionslosen Oberbefehlshaber von [FROM.GetNonIdeologyNameDef], dass sie einen separaten Frieden mit [?global.russia.GetNameDef] ausgehandelt haben und alle Beziehungen zu [ROOT.GetNameDef] abbrechen."
+rusfor.1241.a: "Antwort."
 
 rusfor.1273.t: "Geistliche Verwaltung der Muslime in Zentralasien."
 rusfor.1273.d: "Nach der Annexion Zentralasiens bekamen wir viele neue muslimische Bürger, die zuvor von den lokalen obskurantistischen Priestern und Predigern beherrscht wurden. Es liegt auf der Hand, dass wir etwas mit ihrem Erbe machen und unsere neuen Bürger zu loyalen und friedlichen Mitgliedern der russischen Gesellschaft machen müssen. Wir haben nun zwei Vorschläge: Wir können eine spezielle geistliche Verwaltung der Muslime Zentralasiens einrichten oder der Orenburger Muslimischen Geistlichen Versammlung, die von den loyalen Tataren und Baschkiren kontrolliert wird, zusätzliche Befugnisse übertragen."
@@ -2112,8 +2130,8 @@ RUS_aleksandr_yegorov_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1
 RUS_georgy_zhukov: "Georgy Zhukov"
 RUS_georgy_zhukov_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g1. Dezember 1896, in Strelkovka, Gouvernement Kaluga, Russisches Reich§!\n§YMilitärkarriere:§! §gAls Sohn einer verarmten Bauernfamilie in Mittelrussland geboren, sah sich Georgi Schukow nie als angehender Soldat, sondern machte eine Lehre als Kürschner in der Werkstatt seines Bruders in Moskau. Dann kam der Weltkrieg, und mit ihm wurde Schukow in die kaiserlich-russische Armee eingezogen. Hier fand er seine Berufung, bewies Geschick und Tapferkeit und beendete seine Dienstzeit als Unteroffizier der Kavallerie. Nach der Oktoberrevolution kehrte er kurzzeitig in seine Heimat zurück, kehrte aber erneut an die Front zurück, diesmal als Unteroffizier in der Roten Armee.\n\nZhukovs Dienst war jedoch nur von kurzer Dauer. Nach dem Zusammenbruch des Sowjetregimes floh er mit zahlreichen anderen Kommandeuren der Roten Armee aus seinem Heimatland und landete in Frankreich. Die Eingewöhnung in einem völlig fremden Land war schwierig, aber Schukow hatte sich inzwischen voll und ganz dem bolschewistischen Kurs verschrieben und trieb ihn engagiert voran - er absolvierte Offizierslehrgänge, hielt Kontakt zu Michail Tuchatschewski, studierte bei seinem Vorgesetzten moderne Strategien und schloss sich freiwillig der Internationalen Mission in Patagonien an. Der Sache der Revolution pflichtbewusst treu ergeben, wird er oft als der vertrauenswürdigste und zuverlässigste des bolschewistischen Trios angesehen, auch wenn seine Unerfahrenheit ihn von Beförderungen abhält."
 
-RUS_iosib_dzugashvili: "Iosib Dzhugashvili"
-RUS_iosib_dzugashvili_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g18. Dezember 1878, in Gori, Gouvernement Tiflis, Russisches Reich§!\n§YMilitärkarriere:§! §gIoseb Dzhugashvili ist ein Mann, der unter vielen Namen bekannt ist - Soselo, Stalin, Koba sind nur einige der bekanntesten. Ioseb wurde in einer verarmten georgischen Familie geboren, war von klein auf körperlich behindert und hatte eine schwierige Kindheit, die von Kämpfen, Missbrauch und Alkoholismus geprägt war. Schon früh fühlte er sich zur georgischen nationalistischen Poesie hingezogen und schrieb sich am Seminar in Tiflis ein, gab aber seine frühere Berufung auf, als er mit der sozialistischen Literatur in Berührung kam. Er widmete sich dem Marxismus, trat der bolschewistischen Fraktion der RSDLP bei und sammelte mit Schutzgelderpressungen, Geldfälschungen und Banküberfällen Geld für die Revolution. Er war ein treuer Anhänger Lenins und vertrat die Partei in der Öffentlichkeit, indem er die Zeitung "Prawda" leitete und sich mit seinen Artikeln ebenfalls einen Namen machte.\n\nIn den schicksalhaften Monaten des Jahres 1917 half Dshugaschwili bei der Organisation des Juliaufstandes und der Oktoberrevolution und erhielt einen Sitz im Sowjarkom. Er, Lenin und Trotzki bildeten die inoffizielle Troika, die den Staat kontrollierte - infolgedessen wurde Dshugaschwili nach Zarizyn geschickt, um den Widerstand gegen die Weißen zu organisieren, wo er sich als geeigneter, wenn auch rücksichtsloser Kommandant erwies. Nach der Ermordung Lenins im August 1918 übernahm nicht er, sondern Trotzki das Kommando - doch der Sowjetstaat war nicht von Dauer und brach schließlich zusammen. Im Gegensatz zu Trotzki gelang Dschugaschwili die Flucht und er gelangte mit den übrigen Überresten der Bolschewiki nach Frankreich, wo er die Partei im Exil wieder aufbaute. \n\nUm die Revolution der patagonischen Syndikalisten zu unterstützen, wurde Dzhugashvili zusammen mit einer Mission anderer Bolschewiki in den Südkegel geschickt, und neben Makhno ist er einer der ranghöchsten Funktionäre der Internationale in Patagonien - wenn auch im Gegensatz zu Makhno, der die politischen Interessen der Internationale vertritt.§!\n\n§YAnmerkungen: Auf der Seite der kommunistischen Fraktion."
+RUS_iosif_dzhugashvili: "Iosif Dzhugashvili"
+RUS_iosif_dzhugashvili_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g18. Dezember 1878, in Gori, Gouvernement Tiflis, Russisches Reich§!\n§YMilitärkarriere:§! §gIoseb Dzhugashvili ist ein Mann, der unter vielen Namen bekannt ist - Soselo, Stalin, Koba sind nur einige der bekanntesten. Iosif wurde in einer verarmten georgischen Familie geboren, war von klein auf körperlich behindert und hatte eine schwierige Kindheit, die von Kämpfen, Missbrauch und Alkoholismus geprägt war. Schon früh fühlte er sich zur georgischen nationalistischen Poesie hingezogen und schrieb sich am Seminar in Tiflis ein, gab aber seine frühere Berufung auf, als er mit der sozialistischen Literatur in Berührung kam. Er widmete sich dem Marxismus, trat der bolschewistischen Fraktion der RSDLP bei und sammelte mit Schutzgelderpressungen, Geldfälschungen und Banküberfällen Geld für die Revolution. Er war ein treuer Anhänger Lenins und vertrat die Partei in der Öffentlichkeit, indem er die Zeitung "Prawda" leitete und sich mit seinen Artikeln ebenfalls einen Namen machte.\n\nIn den schicksalhaften Monaten des Jahres 1917 half Dshugaschwili bei der Organisation des Juliaufstandes und der Oktoberrevolution und erhielt einen Sitz im Sowjarkom. Er, Lenin und Trotzki bildeten die inoffizielle Troika, die den Staat kontrollierte - infolgedessen wurde Dshugaschwili nach Zarizyn geschickt, um den Widerstand gegen die Weißen zu organisieren, wo er sich als geeigneter, wenn auch rücksichtsloser Kommandant erwies. Nach der Ermordung Lenins im August 1918 übernahm nicht er, sondern Trotzki das Kommando - doch der Sowjetstaat war nicht von Dauer und brach schließlich zusammen. Im Gegensatz zu Trotzki gelang Dschugaschwili die Flucht und er gelangte mit den übrigen Überresten der Bolschewiki nach Frankreich, wo er die Partei im Exil wieder aufbaute. \n\nUm die Revolution der patagonischen Syndikalisten zu unterstützen, wurde Dzhugashvili zusammen mit einer Mission anderer Bolschewiki in den Südkegel geschickt, und neben Makhno ist er einer der ranghöchsten Funktionäre der Internationale in Patagonien - wenn auch im Gegensatz zu Makhno, der die politischen Interessen der Internationale vertritt.§!\n\n§YAnmerkungen: Auf der Seite der kommunistischen Fraktion."
 
 RUS_aleksandr_vasilevsky: "Aleksandr Vasilevsky"
 RUS_aleksandr_vasilevsky_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g30. September 1895, in Nowaja Goltschicha, Gouvernement Kostroma, Russisches Reich§!\n§YMilitärkarriere:§! §gVasilevsky wurde in einer äußerst armen Priesterfamilie auf dem Lande in Zentralrussland geboren. Vor dem Weltkrieg schloss er ein Studium im Priesterseminar ab und erwog eine Karriere als Agronom, aber der Krieg, der ihn nach seinen eigenen Worten "mit patriotischen Gefühlen übermannte", änderte seine Pläne. Er absolvierte einen Kurs in Militärrecht und kam während der Brusilow-Offensive an die Front, wo er mit Auszeichnung diente und den Rang eines Hauptmanns erreichte, da die hohen Verluste unter seinen Offizierskollegen eine freie Stelle zur Folge hatten.\n\nNach seiner Demobilisierung im Jahr 1917 kehrte er in sein Dorf zurück, in der Hoffnung, wieder als Landwirt arbeiten zu können. Daraus wurde jedoch nichts, denn 1919 wurde er zur Weißen Armee eingezogen und kämpfte in den letzten Monaten des russischen Bürgerkriegs in der Freiwilligenarmee. Diesmal blieb Wassilewski, nahm einen Auftrag in der neuen russischen Armee an und stieg schnell auf. Er gilt als einer der besten Organisatoren im Generalstab und als graue Eminenz und wird von vielen als Vorhut der neuen Generation russischer Offiziere angesehen. Persönlich ist Vasilevsky gutherzig, höflich und äußerst bescheiden, was so weit geht, dass er es vermeidet, seine Medaillen zu erwähnen, und viele seiner Leistungen der wahrgenommenen Brillanz anderer zuschreibt."

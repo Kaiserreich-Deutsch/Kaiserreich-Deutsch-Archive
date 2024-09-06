@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 ### Operative Traits ###
 operative_bold: "Kühn"
@@ -35,4 +35,4 @@ artillery_specialist: "Artillerieführer"
 artillery_specialist_desc: "§LGeschickt im Lenken von Artillerie im Kampf.§!"
 artillery_expert: "Artillerie Experte"
 artillery_expert_desc: "Ein wahrer Experte im Lenken von Artillerie."
-artillery_ratio_over_30: "Artillerieverhältnis > §H30%§!"
+artillery_ratio_over_30: "Artillerieverhältnis > §H20%§!"

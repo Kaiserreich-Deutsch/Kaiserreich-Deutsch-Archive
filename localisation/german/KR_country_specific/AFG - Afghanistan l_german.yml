@@ -1,7 +1,5 @@
 ﻿l_german:
 ###  Übersetzt von Proho  ###
-bukhara_kabul_pact: "Bukhara-Kabul Pakt"
-
 ### World Tension ###
  AFG_anglo_afghan_war_threat: "Fünfter Anglo-Afghanischer Krieg"
 
@@ -114,25 +112,20 @@ AFG_national_populist_party_long: "Tribal Movements (Stammes-Bewegungen)"
  AFG_DEF: "Afghanistan"
 
 AFG_totalist: "Demokratische Republik Afghanistan"
-AFG_totalist_ADJ: "Afghanisch"
 AFG_totalist_DEF: "Die Demokratische Republik Afghanistan"
-AFG_syndicalist: "Demokratische Republik Afghanistan"
-AFG_syndicalist_ADJ: "Afghanisch"
+AFG_syndicalist: "Demokratische Republik Afghanistan
 AFG_syndicalist_DEF: "Die Demokratische Republik Afghanistan"
 AFG_radical_socialist: "Demokratische Republik Afghanistan"
-AFG_radical_socialist_ADJ: "Afghanisch"
 AFG_radical_socialist_DEF: "Die Demokratische Republik Afghanistan"
 AFG_national_populist: "Islamischer Staat Afghanistan"
-AFG_national_populist_ADJ: "Afghanisch"
 AFG_national_populist_DEF: "the Islamischer Staat Afghanistan"
 
 ### Tooltips ###
 AFG_chaos_tooltip: "§g\nDiese Wahl kann dazu führen §RChaos§! und §RUnruhe§! in der ganzen Nation. Sollte die Regierung fallen, ist es wahrscheinlich, dass §YNadir Khan§! wird den Thron besteigen§!"
 
 ### Intro Screen ###
-
  AFG_country_intro_header: "Das Emirat Afghanistan"
- AFG_guide: "§MAmanullah stellt die Ordnung wieder her§! (§PPaternal Autokratisch§!)\n£white_dot Gewinnen Sie den 5. Anglo-Afghanischen Krieg oder erklären Sie ihn nicht. \n£white_dot Im Falle einer Niederlage kann der König tun, was er will, und die Rebellion niederschlagen.\n£white_dot Dies kann immer noch dazu führen, dass er verdrängt wird, daher wird empfohlen, die Regel §YAmanullah behält die Kontrolle§! in den Spielregeln zu wählen.\n\n§MNadir übernimmt§! (§PPaternal Autokratisch§!)\n£white_dot Im Falle einer Niederlage soll Nadir Amanullah absetzen und sich selbst zum König ausrufen."
+ AFG_guide: "§MAmanullah stellt die Ordnung wieder her§! (§PPaternal Autokratisch§!)\n£white_dot Gewinnen Sie den 5. Anglo-Afghanischen Krieg oder erklären Sie ihn nicht.\n£white_dot Im Falle einer Niederlage kann der König tun, was er will, und die Rebellion niederschlagen.\n£white_dot Dies kann immer noch dazu führen, dass er verdrängt wird, daher wird empfohlen, die Regel §YAmanullah behält die Kontrolle§! in den Spielregeln zu wählen.\n\n§MNadir übernimmt§! (§PPaternal Autokratisch§!)\n£white_dot Im Falle einer Niederlage soll Nadir Amanullah absetzen und sich selbst zum König ausrufen."
 
 ### Characters ###
  AFG_amanullah_khan: "Amanullah Khan"

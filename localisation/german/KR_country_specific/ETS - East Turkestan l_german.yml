@@ -105,6 +105,7 @@ ETS_local_gunpowder_tooltip: "§GWir werden lernen, wie man vor Ort Schießpulve
 ETS_mineral_processing_tooltip: "§GWir werden mit der Verarbeitung von Mineralien beginnen.§!"
 
 ETS_get_new_advisors: "§LDie folgenden Berater werden auf unsere Seite überlaufen:§!\n§YOspan Batyr§!\n§YDalelkhan Sugirbayev§!\n§YKalibek Rakhimbekovich§!"
+ETS_building_the_kashgar_hotan_highway_tt: "§LWenn mindestens einer der geplanten Eisenbahnabschnitte zwischen Kashgar und Hotan entlang der Taklamakan-Wüste außerhalb unserer Kontrolle liegt, werden wir nicht in der Lage sein, eine Eisenbahn zu bauen, die Kashgar und Hotan miteinander verbindet. Wir können auch die Straßen in Hotan nur verbessern, wenn wir die Kontrolle darüber haben.§!"
 
 #Define Text
 ETS_hotan_conversion_yes: "\n\n£trigger_yes Wir können jetzt die Hotan Teppichfabrik umwandeln\n§RErfordert alle der folgenden Punkte:§!"

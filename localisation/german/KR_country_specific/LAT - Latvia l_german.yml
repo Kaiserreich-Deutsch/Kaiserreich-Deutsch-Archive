@@ -276,7 +276,7 @@ LAT_national_populist_party_long: "Latviešu Tautas apvienība Ugunskrusts "(Ver
 
  ISKO.22.t: "Akademischer Unmut"
  ISKO.22.d: "Die Illoyalität der akademischen Gemeinschaft ist in den letzten Monaten immer deutlicher geworden. Insbesondere das Scheitern von drei regimefreundlichen Doktoranden im ganzen Land wurde von unserer Regierung verurteilt, obwohl Genosse Peterss selbst schwieg. Doch trotz seines Schweigens begann Peterss, auf eine gründliche Säuberung des Elfenbeinturms zu drängen, indem er eine Reihe von möglichen Rechtfertigungen und Ersatzkandidaten für Mitglieder bestimmter Abteilungen der wenigen in Lettland tätigen Akademien entwarf. Mit einem Wort, die Umwälzung der Akademie kann beginnen."
- ISKO.22.a: "Säuberung durchführen."
+ ISKO.22.a: "Die Säuberung beginnen."
 
  ISKO.23.t: "Amtliche Peinlichkeit"
  ISKO.23.d: "Die Bemühungen, Libau zu einem angemessenen Veranstaltungsort für eine Ausstellung über den proletarischen Internationalismus und die Verheißung einer sozialistischen Zukunft umzugestalten, sind schnell vorangekommen. Breite Alleen sind an die Stelle überfüllter Straßen getreten, und große Regierungsgebäude wurden in nur wenigen Monaten mit angemessenen Investitionen errichtet; weitere Projekte sind noch in Arbeit. Allerdings haben reaktionäre Elemente in der Gesellschaft die verstärkte Aufmerksamkeit, die der Stadt von unseren westlichen sozialistischen Verbündeten zuteil wurde, genutzt, um unser Regime und seine Auslandsbeziehungen zu unterminieren. Eine berühmte Kirche in Libau, deren Kruzifixe bereits entfernt, aber noch nicht ganz verschlossen waren, entrollte vor einem Kamerateam der Internationalen eine Reihe politischer Transparente im Vorfeld eines wichtigen Besuchs. Die Leitung der Kirche wird bestraft werden und das Gebäude wird sicherlich abgerissen werden, aber der Schaden für unsere internationalen Beziehungen ist bereits angerichtet, und wir wagen es nicht, den Vorfall noch weiter anzuheizen, indem wir das Kamerateam zur Rede stellen und die Löschung der Aufnahmen verlangen. Hoffentlich wird der Schaden minimal sein."
@@ -742,7 +742,7 @@ LAT_will_attack_in_two_weeks: "Lettland wird in zwei Wochen angreifen!"
 ### Decisions ###
 
  LAT_attack_riga: "Den Kampf beenden"
- LAT_attack_riga_desc: "Herr Kurelis, darf ich Sie fragen, was Sie an diesem Panzer machen?\n\n'Sir. Ich beende diesen Kampf.'"
+ LAT_attack_riga_desc: "Herr Präsident, darf ich Sie fragen, was Sie an diesem Panzer machen?\n\n'Sir. Ich beende diesen Kampf.'"
 LAT_join_internationale: "Beitritt zur Dritten Internationale"
  LAT_join_internationale_desc: "Es ist an der Zeit, dem syndikalistischen Block formell beizutreten."
  LAT_join_russia: "Beitritt zum Moskauer Abkommen"

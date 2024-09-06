@@ -182,7 +182,7 @@ AUS_ausgleich_peoples: "Alle Nationalitäten zum Ausgleich eingeladen."
 
 ### Illyria ###
  ganz_kroatien_slawonien: "Ganz Kroatien-Slawonien"
- koncar_elektroindustrija: "Končar Elektroindustrija"
+ elektra: "Elektra"
  ina: "INA"
  prva_hrvatska_tvornica_rublja: "Prva Hrvatska Tvornica Rublja"
  taz: "TAZ"
@@ -831,21 +831,6 @@ austria.108.t: "Die Bourbonen weigern sich"
 austria.108.d: "Verärgert über unseren letzten Verrat und offen an der Nützlichkeit unserer Freundschaft zweifelnd, hat der sizilianische Botschafter unserer Regierung mitgeteilt, dass es zwischen Neapel und Wien kein Abkommen geben wird. Wir müssen uns auf Mailand und Venedig als italienische Verbündete verlassen."
 austria.108.a: "Verdammt!"
 
-### Austria bribes independent BUL with Macedonia ###
-austria.109.t: "Ein Angebot aus Wien"
-austria.109.d: "Es scheint, dass die Österreicher die serbischen Emporkömmlinge besiegen konnten - diesmal ohne unsere Hilfe. Da wir uns noch immer von unserer früheren Demütigung erholen, hat der Wiener Botschafter ein großzügiges Angebot gemacht: Wenn wir ein vollständiges militärisches Bündnis mit ihnen unterzeichnen, erhalten wir Mazedonien zurück. Da wir für ihre Balkankonzepte als Gegengewicht zu Serbien und Rumänien nach wie vor wichtig sind, macht ihr Angebot Sinn, und wir haben wenig Grund, es abzulehnen."
-austria.109.a: "Ein großzügiges Angebot."
-austria.109.b: "Wir werden den Österreichern nie wieder vertrauen!"
-
-austria.110.t: "Bulgarien Akzeptiert"
-austria.110.d: "Es überrascht nicht, dass die Bulgaren unserem großzügigen Angebot zugestimmt haben. Im Austausch für Mazedonien sind sie nun in unserer Fraktion."
-austria.110.a: "Excellent."
-
-austria.111.t: "Bulgarien lehnt ab"
-austria.111.d: "Es ist unglaublich, dass die Bulgaren immer noch sauer über unsere früheren Bedenken zu sein scheinen und unser großzügiges Angebot mutig abgelehnt haben. Das bulgarische Ego kennt offensichtlich keine Grenzen."
-austria.111.a: "Zagreb soll sich darum kümmern."
-austria.111.b: "Belgrad soll sich darum kümmern."
-
 #############################
 ### THE AUSGLEICH OF 1937 ###
 #############################
@@ -1461,11 +1446,11 @@ AUS_danubia_radical_socialist_DEF: "die Donau-Republik der Räte"
 
  AUS_karl_von_habsburg: "Karl von Habsburg-Lothringen"
  AUS_karl_von_habsburg_regnal: "Karl I"
- AUS_karl_von_habsburg_leader_desc: "Nach der Ermordung seines Onkels Franz Ferdinand im Jahr 1914 wurde Karl von Habsburg-Lothringen zum designierten Nachfolger von Kaiser Franz Josef, nach dessen Tod Karl Ende 1916 die vielen Throne des Habsburgerreiches erbte. Trotz des Sieges im Weltkrieg blieb Österreich durch ein archaisches politisches System und Unruhen belastet. Kaiser Karl hat nun die mühsame Aufgabe, das kränkelnde Reich trotz zahlreicher innerer und äußerer Bedrohungen zu reformieren."
+ AUS_karl_von_habsburg_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 17. August 1887, in Schloss Persenbeug, Persenbeug-Gottsdorf, Niederösterreich, Österreich-Ungarn\n§YPolitische Karriere:§! Nach der Ermordung seines Onkels Franz Ferdinand im Jahr 1914 wurde Karl von Habsburg-Lothringen zum designierten Nachfolger von Kaiser Franz Josef, nach dessen Tod Karl Ende 1916 die vielen Throne des Habsburgerreiches erbte. Trotz des Sieges im Weltkrieg blieb Österreich durch ein archaisches politisches System und Unruhen belastet. Kaiser Karl hat nun die mühsame Aufgabe, das kränkelnde Reich trotz zahlreicher innerer und äußerer Bedrohungen zu reformieren."
 
  AUS_otto_von_habsburg: "Otto von Habsburg-Lothringen"
  AUS_otto_von_habsburg_regnal: "Otto I."
- AUS_otto_von_habsburg_leader_desc: "Kaiser Otto von Habsburg-Lothringen hat die Nachfolge seines Vaters Karl als Monarch von Österreich angetreten. Otto hat trotz seines jungen Alters große Ambitionen auf ein Reich, dessen ungleiche Völker nur eine nationale Identität teilen. Seine lakonische Rede und sein jugendlicher Charme haben dazu geführt, dass Otto in den Medien viel Aufmerksamkeit erregt hat."
+ AUS_otto_von_habsburg_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 20. November 1912, auf Schloss Wartholz, Reichenau an der Rax, Niederösterreich, Österreich-Ungarn\n§YPolitische Karriere:§! Kaiser Otto von Habsburg-Lothringen hat die Nachfolge seines Vaters Karl als Monarch von Österreich angetreten. Otto hat trotz seines jungen Alters große Ambitionen auf ein Reich, dessen ungleiche Völker nur eine nationale Identität teilen. Seine lakonische Rede und sein jugendlicher Charme haben dazu geführt, dass Otto in den Medien viel Aufmerksamkeit erregt hat."
 
  AUS_eugen_von_habsburg: "Eugen von Habsburg-Lothringen"
  

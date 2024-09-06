@@ -226,7 +226,7 @@
 
 ### Flags ###
  SPA_civil_war_happened: "Der Spanische Bürgerkrieg hat begonnen\n"
- SWF_colonial_resistance: "Anarchistischer Widerstand"
+ SWF_colonial_resistance: "Anarchistischer Widerstand: $VALUE|=-%0$"
  SPA_GER_gibraltar_lease: "Spanien hat Gibraltar an Deutschland verpachtet"
  SPA_aftermath_of_the_civil_war: "Der Spanische Bürgerkrieg ist zu Ende\n"
  SPA_has_claimed_france: "Wir haben den Thron von Borbón beansprucht"
@@ -643,6 +643,11 @@
  sprd.33.d: "Die Diplomaten von [From.GetNameDef] haben jegliche Bündnisangebote oder Bitten um den Schutz der Unabhängigkeit von [Root.GetAdjective] abgelehnt. Wir sind auf uns allein gestellt."
  sprd.33.a: "So sei es."
 
+ sprd.34.t: "Mohamed Meziane trifft in Marokko ein" #Mohamed Meziane geht nach Marokko
+ sprd.34.d1: "Der ehemalige marokkanische Kommandeur der Regulares in den Streitkräften des Königreichs Spanien ist in die Hauptstadt gekommen, um seine Dienste anzubieten. Nach dem Fall des Königreichs im Spanischen Bürgerkrieg entschied sich Meziane, nach Marokko zu fliehen. Hier hofft er, dem Sultan beim Aufbau einer modernen marokkanischen Armee dienen zu können."
+ sprd.34.d2: "Der ehemalige marokkanische Kommandeur der Regulares in den Streitkräften des Königreichs Spanien ist in die Hauptstadt gekommen, um seine Dienste anzubieten. Nachdem das Königreich Spanien an eine ausländische Macht gefallen ist, wurde Mohamed Meziane von seinen Aufgaben entbunden. Da er keine andere Wahl hat, hat er beschlossen, nach Marokko zu kommen. Hier hofft er, dem Sultan beim Aufbau einer modernen marokkanischen Armee dienen zu können."
+ sprd.34.a: "Sein Dienst in Marokko wird gewürdigt werden."
+
 ### Nach dem Krieg ###
 
 ### Foreign ###
@@ -1009,5 +1014,6 @@
  SPA_pilar_millan_astray: "Pilar Millán Astray"
 
  SPA_jose_millan_astray_y_terreros: "José Millán-Astray y Terreros"
+ SPA_mohamed_meziane: "Mohamed Meziane"
 
  KR_kingmaker: "Königsmacher Spaniens"

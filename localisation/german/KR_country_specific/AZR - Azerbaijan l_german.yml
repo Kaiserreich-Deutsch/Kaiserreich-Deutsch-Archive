@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 ### Country Names ###
 AZR: "Aserbaidschan"
@@ -8,13 +8,10 @@ AZR_ADJ: "Aserbaidschanisch"
 AZR_DEF: "Aserbaidschan"
 
 AZR_totalist: "Sozialistische Republik Aserbaidschan"
-AZR_totalist_ADJ: "Aserbaidschanisch"
 AZR_totalist_DEF: "die Sozialistische Republik Aserbaidschan"
 AZR_syndicalist: "Sozialistische Republik Aserbaidschan"
-AZR_syndicalist_ADJ: "Aserbaidschanisch"
 AZR_syndicalist_DEF: "die Sozialistische Republik Aserbaidschan"
 AZR_radical_socialist: "Sozialistische Republik Aserbaidschan"
-AZR_radical_socialist_ADJ: "Aserbaidschanisch"
 AZR_radical_socialist_DEF: "die Sozialistische Republik Aserbaidschan"
 
 ### Parties ###
@@ -38,9 +35,6 @@ AZE_paternal_autocrat_party: "Militär"
 AZE_paternal_autocrat_party_long: "Die Streitkräfte von Aserbaidschan"
 AZE_national_populist_party: "Turkculuk"
 AZE_national_populist_party_long: "Die Turkuluk-Partei"
-
-AZR_democratic_coalition: "Demokratische Koalition"
-AZR_democratic_coalition_long: "Die Demokratische Koalition"
 
 ### Characters ###
 AZR_mir_jafar_baghirov: "Mir Jafar Baghirov"

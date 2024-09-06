@@ -760,7 +760,7 @@ BAH_artillery_equipment_1_desc: "Nach einer Reihe von Militäreinsätzen von und
 BAH_artillery_equipment_2: "Obuseiro Modelo 41 de 11,5cm"
 BAH_artillery_equipment_2_desc: "Das Obuseiro Modelo 41 war kaum mehr als eine Kopie der deutschen Feldhaubitze Modell 36, allerdings mit einigen Änderungen zur Senkung der Produktionskosten, die auf Kosten der Zuverlässigkeit gingen. Dennoch wurde das Geschütz während des Weltkriegs von der brasilianischen Artillerie ausgiebig genutzt und war das erste Geschütz, das im Inland in Massenproduktion hergestellt wurde, anstatt hauptsächlich importiert zu werden."
 BAH_artillery_equipment_3: "Obuseiro Modelo 43 de 17cm"
-BAH_artillery_equipment_3_desc: "Dem Trend folgend, Spezifikationen von deutschen Geräten zu kopieren, wurde das M41 im Jahr 1943 aktualisiert, wobei die Feuerkraft leicht erhöht und einige Verbesserungen vorgenommen wurden, um es zuverlässiger zu machen. Allerdings war die Produktion während des Krieges begrenzt, und das verbesserte Feldgeschütz war in den frühen 1940er Jahren ein seltener Anblick. In späteren Jahren wurden sie und Modelle mit minimalen Änderungen von der Bahiaischen Armee bis in die 1960er Jahre verwendet."
+BAH_artillery_equipment_3_desc: "Dem Trend folgend, Spezifikationen von deutschen Geräten zu kopieren, wurde das M41 im Jahr 1943 aktualisiert, wobei die Feuerkraft leicht erhöht und einige Verbesserungen vorgenommen wurden, um es zuverlässiger zu machen. Allerdings war die Produktion während des Krieges begrenzt, und das verbesserte Feldgeschütz war in den frühen 1940er Jahren ein seltener Anblick. In späteren Jahren wurden sie und Modelle mit minimalen Änderungen von der brasilianischen Armee bis in die 1960er Jahre verwendet."
 BAH_artillery_equipment_1_short: "Ob. Rm. de 10,5 cm"
 BAH_artillery_equipment_2_short: "Ob. M41 de 11,5cm"
 BAH_artillery_equipment_3_short: "Ob. M43 de 17cm"
@@ -1340,7 +1340,7 @@ BRA_artillery_equipment_1_desc: "Nach einer Reihe von Militäreinsätzen von und
 BRA_artillery_equipment_2: "Obuseiro Modelo 41 de 11,5cm"
 BRA_artillery_equipment_2_desc: "Das Obuseiro Modelo 41 war kaum mehr als eine Kopie der deutschen Feldhaubitze Modell 36, allerdings mit einigen Änderungen zur Senkung der Produktionskosten, die auf Kosten der Zuverlässigkeit gingen. Dennoch wurde das Geschütz während des Weltkriegs von der brasilianischen Artillerie ausgiebig genutzt und war das erste Geschütz, das im Inland in Massenproduktion hergestellt wurde, anstatt hauptsächlich importiert zu werden."
 BRA_artillery_equipment_3: "Obuseiro Modelo 43 de 17cm"
-BRA_artillery_equipment_3_desc: "Dem Trend folgend, Spezifikationen von deutschen Geräten zu kopieren, wurde das M41 im Jahr 1943 aktualisiert, wobei die Feuerkraft leicht erhöht und einige Verbesserungen vorgenommen wurden, um es zuverlässiger zu machen. Allerdings war die Produktion während des Krieges begrenzt, und das verbesserte Feldgeschütz war in den frühen 1940er Jahren ein seltener Anblick. In späteren Jahren wurden sie und Modelle mit minimalen Änderungen von Brazil bis in die 1960er Jahre verwendet."
+BRA_artillery_equipment_3_desc: "Dem Trend folgend, Spezifikationen von deutschen Geräten zu kopieren, wurde das M41 im Jahr 1943 aktualisiert, wobei die Feuerkraft leicht erhöht und einige Verbesserungen vorgenommen wurden, um es zuverlässiger zu machen. Allerdings war die Produktion während des Krieges begrenzt, und das verbesserte Feldgeschütz war in den frühen 1940er Jahren ein seltener Anblick. In späteren Jahren wurden sie und Modelle mit minimalen Änderungen von der brasilianischen Armee bis in die 1960er Jahre verwendet."
 BRA_artillery_equipment_1_short: "Ob. Rm. de 10,5 cm"
 BRA_artillery_equipment_2_short: "Ob. M41 de 11,5cm"
 BRA_artillery_equipment_3_short: "Ob. M43 de 17cm"
@@ -3056,7 +3056,7 @@ ECU_train_equipment_3: "FC Baldwin 2-8-0 d/w 54"
 #ECU_railway_gun_equipment_1: "" #feel free to add if you find more stuff
 
 ###
-### Sultanate of Egypt ###
+### Kingdom of Egypt ###
 ###
 
 ### Land ###

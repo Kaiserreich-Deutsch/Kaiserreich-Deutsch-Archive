@@ -507,51 +507,6 @@
  sic.29.d: "Mit der Entscheidung, den Adel wieder zu stärken, haben eine Reihe von Unternehmern Adelspatente entdeckt, erworben oder gefälscht, um sich in die neuen Reihen des Adels aufzunehmen zu lassen."
  sic.29.a: "Eine neue Generation Adliger."
 
- sic.30.t: ""
- sic.30.d: ""
- sic.30.a: ""
-
- sic.31.t: "Beide Sizilien strebt den Beitritt zur Entente an"
- sic.31.d: "Ein Abgesandter des Königreichs beider Sizilien ist heute in Ottawa eingetroffen, um die Möglichkeiten eines Beitritts zur Entente zu sondieren. Sollen wir sie aufnehmen oder sind sie überflüssig?"
- sic.31.a: "Nehmt sie auf."
- sic.31.b: "Wir brauchen sie nicht."
-
- sic.32.t: "Die Entente akzeptiert"
- sic.32.d: "Die Kanadier haben unseren Vorschlag angenommen und wir sind nun Mitglied der Entente."
- sic.32.a: "Ausgezeichnet."
-
- sic.33.t: "Die Entente lehnt ab"
- sic.33.d: "Die Kanadier haben unseren Vorschlag abgelehnt und uns den Beitritt zur Entente untersagt."
- sic.33.a: "Verdammte Kanadier."
-
- sic.34.t: "Das [From.GetAdjective] Angebot"
- sic.34.d: "Ein Abgesandter von [From.GetNameDef] ist heute in [FROM.Capital.GetCapitalVictoryPointName] eingetroffen, um die Aussichten auf einen Beitritt zu [Root.GetFactionName] zu sondieren. Sollten wir sie aufnehmen oder brauchen wir sie nicht?"
- sic.34.a: "Nehmt sie auf"
- sic.34.b: "Wir brauchen sie nicht."
-
- sic.35.t: "[From.GetNonIdeologyName] akzeptiert"
- sic.35.d: "[From.GetAdjective] haben unseren Vorschlag angenommen und wir sind nun Mitglieder des [From.GetFactionName]."
- sic.35.a: "Großartig!"
-
- sic.36.t: "[From.GetNonIdeologyName] lehnt ab"
- sic.36.d: "[From.GetAdjective] haben unser Ansinnen abgelehnt und uns den Eintritt in den [From.GetFactionName] verwehrt."
- sic.36.a: "Verfluchte [From.GetAdjective]."
-
- sic.37.t: "[From.GetNameDefCap] versucht, dem [Root.GetFactionName] beizutreten."
- sic.37.d: "Ein Abgesandter von [From.GetNameDef] ist heute in [Root.GetNameDef] eingetroffen, um die Aussichten auf einen Beitritt zur [Root.GetFactionName] zu sondieren. Sollten wir sie aufnehmen, oder brauchen wir sie nicht?"
- sic.37.d.ausrp: "Ein Abgesandter von [From.GetNameDef] ist heute in [Root.GetNameDef] eingetroffen, um die Aussichten auf einen Beitritt zu unserem Bündnis zu sondieren, was sie zu einem Teil des Reichspaktes machen würde. Sie haben jedoch angedeutet, dass sie bereit wären, dieses Bündnis mit uns zu verlassen, wenn der Donau-Adriabund sich wieder zusammenschließt."
- sic.37.a: "Nehmt sie auf"
- sic.37.b: "Wir brauchen sie nicht."
-
- sic.38.t: "[From.GetNameDefCap] akzeptiert"
- sic.38.d: "[From.GetNameDefCap] hat unseren Vorschlag angenommen und nun sind wir Mitglieder der [From.GetFactionName]."
- sic.38.d.ausrp: "[From.GetNameDefCap] hat unser Angebot angenommen, und wir sind nun Mitglieder der [From.GetFactionName], obgleich wir mit ihnen gemeinsam gehen werden, falls sie dieses Bündnis verlassen sollten."
- sic.38.a: "Großartig!"
-
- sic.39.t: "[From.GetNameDefCap] lehnt ab"
- sic.39.d: "[From.GetNameDefCap] hat unser Vorschlag abgelehnt und uns den Beitritt zu seinem Bündnis verwehrt."
- sic.39.a: "Verflucht seien sie!"
-
  sic.40.t: "Das Italienische Reich"
  sic.40.d: "Heute ist die gesamte Region Italien zum Italienischen Reich ausgerufen worden. König Ferdinand hat auf die Verfassung der Italienischen Föderation geschworen, sie als ihr neuer Präsident zu schützen, als Erster unter Gleichen. Heute feiert ganz Italien den Traum von einem geeinten Reich und einer geeinten Nation."
  sic.40.a: "Es lebe Italien!"
@@ -661,24 +616,12 @@
  sic.110.d.sicconfedNOTITA: "Heute traf eine Delegation von [From.GetNameDef] mit einem Angebot ein, die durch die Syndikalisten und den Bürgerkrieg verursachten Gräben zu überwinden und sich als Teil der Italienischen Konföderation einem Großitalien wieder anzuschließen. Das würde allerdings bedeuten, dass wir unsere Souveränität an die [From.GetAdjective] Führung abtreten müssten... dennoch würden wir immer noch eine umfangreiche Autonomie bewahren - ein Scheitern der Verhandlungen könnte allerdings auch Krieg bedeuten. Wir haben der [From.GetAdjective] Delegation mitgeteilt, dass sie unsere Antwort innerhalb der nächsten Wochen erhalten werden."
  sic.110.d.empire: "Heute traf eine [From.GetAdjective] Delegation mit einem Angebot ein, die durch die Syndikalisten und den Bürgerkrieg verursachten Gräben zu überwinden und sich als Teil von [Von.GetNameDef] wieder einem größeren Italien anzuschließen. Details wie die Rechte, die wir als Staat haben werden, und die Rolle, die wir in der [From.GetAdjective] Regierung spielen werden, können in den kommenden Monaten ausgearbeitet werden. Im Moment warten sie auf eine endgültige Entscheidung unsererseits. In Anbetracht der Tatsache, dass dies einer Annexion gleichkäme und ein Scheitern der Verhandlungen einen Krieg bedeuten könnte, müssen wir Optionen sorgfältig abwägen. Wir haben der [From.GetAdjective] Delegation mitgeteilt, dass sie unsere Antwort innerhalb der nächsten Wochen erhalten wird."
  sic.110.a: "Wir glauben, dass dies das Beste ist"
- sic.110.b: "Wir sind einverstanden, allerdings wir müssen zuerst ein Referendum darüber abhalten."
+ sic.110.b: "Wir sind einverstanden, müssen aber zuerst unsere Fraktion informieren."
  sic.110.c: "Sagt ihnen, sie sollen erneut fragen, wenn der Krieg vorüber ist."
  sic.110.e: "Wir lehnen ihr Angebot ab"
- sic.110.f: "Wir sind einverstanden, müssen aber zuerst unsere Fraktion unterrichten."
-
- sic.111.t: "Das [From.GetAdjective] Referendum"
- sic.111.d: "Nach mehrtägigen Beratungen hat die [From.GetAdjective] Regierung erklärt, dass sie mit unserem Ziel der Einheit einverstanden ist... allerdings kann sie sich als demokratische Nation nicht auf eine Antwort festlegen, ohne das [From.GetAdjective] Volk vorher zu befragen. Innerhalb der nächsten drei Wochen soll ein Referendum abgehalten werden, welche uns die endgültige Antwort geben wird."
- sic.111.a: "Wir warten das Ergebnis ab"
-
- sic.112.t: "Das [Root.GetAdjective] Referendum"
- sic.112.d: "In den letzten drei Wochen wurde ganz [Root.GetNameDef] von der Frage aufgewühlt, ob es sich [uniter.GetNameDef] anschließen sollte oder nicht. Die Mehrheit der Bevölkerung scheint für eine große italienische Einheit zu sein, obwohl es auch eine wachsende Zahl von Menschen zu geben scheint, die entweder der [uniter.GetAdjective] Regierung misstrauen oder die irgendwie glauben, dass es stattdessen [Root.GetNameDef] ist, welches Italien vereinen sollte. Die Argumente sind alle vorgebracht worden, und nun kommt es zu einer endgültigen Abstimmung..."
- sic.112.a: "... die Abstimmung wird mit großer Mehrheit angenommen"
- sic.112.b: "... die Abstimmung wurde angenommen, aber wir müssen zuerst unsere Fraktion unterrichten"
- sic.112.c: "... die Abstimmung scheitert knapp"
 
  sic.113.t: "Nachrichten von [From.GetNameDef]"
- sic.113.d.ref: "Die [From.GetAdjective] Regierung hat uns heute mitgeteilt, dass sie nach einem nationalen Referendum beschlossen hat, einen Vorschlag zur Vereinigung mit der Regierung von [uniter.GetNameDef] zu akzeptieren. Dies sei im besten Interesse der italienischen Einheit, bedeute aber leider den Austritt aus [Root.GetFactionName]."
- sic.113.d.noref: "Die [From.GetAdjective] Regierung hat uns heute mitgeteilt, dass sie nach wochenlangen Überlegungen beschlossen hat, einen Vorschlag zur Vereinigung mit der Regierung von [uniter.GetNameDef] zu akzeptieren. Dies sei im besten Interesse der italienischen Einheit, bedeute aber leider den Austritt aus [Root.GetFactionName]."
+ sic.113.d: "Die [From.GetAdjective]-Regierung hat uns heute mitgeteilt, dass sie nach wochenlangen Überlegungen beschlossen hat, einen Vorschlag zur Vereinigung mit der Regierung von [uniter.GetNameDef] zu akzeptieren. Dies sei im besten Interesse der italienischen Einheit, bedeute aber leider den Austritt aus der [Root.GetFactionName] und sie wollten, dass wir es als Erste erfahren."
  sic.113.a: "Vielleicht würde sich [uniter.GetNameDef] mit [Root.GetFactionName] zusammenschließen?"
  sic.113.b: "Bittet sie, die Situation zu überdenken"
  sic.113.c: "Bittet sie, um des Krieges willen noch einmal darüber nachzudenken."
@@ -689,8 +632,7 @@
  sic.114.a: "Wir werden sie informieren!"
 
  sic.115.t: "Der [From.From.GetAdjective] Vorschlag"
- sic.115.d.ref: "Die [From.GetAdjective] Regierung teilt uns mit, dass ihr nationales Referendum zugunsten unseres Vorschlags ausgefallen ist. Als Mitglied des Bündnisses [From.From.GetFactionName] hatten sie jedoch die Pflicht, zunächst [From.From.GetNameDef] über ihre Absichten zu informieren. Darauf hat die [From.From.GetAdjective] Regierung angefragt, ob wir einen Beitritt zur [From.From.GetFactionName] in Betracht ziehen würden. Es würde sie nämlich sehr erleichtern, das Bündnis nicht aufgeben zu müssen, denn gemeinsam wäre es stärker als je zuvor."
- sic.115.d.noref: "Die [From.GetAdjective] Regierung teilt uns mit, dass ihr nationales Referendum zugunsten unseres Vorschlags ausgefallen ist. Als Mitglied des Bündnisses [From.From.GetFactionName] haben sie jedoch noch eine letzte Sorge bezüglich ihrer Mitgliedschaft im Bündnis [From.From.GetFactionName]. Ihnen zufolge hat die [From.From.GetAdjective] Regierung angefragt, ob wir einen Beitritt zur [From.From.GetFactionName] in Erwägung ziehen würden - im Gegenzug würden sie der gesamten Vereinbarung ihren Segen geben und wir würden beide gestärkt daraus hervorgehen. Die [From.GetAdjective] Regierung hat dabei nicht angegeben, ob sich ihre Haltung ändern würde, falls wir ablehnen - wir haben keine Vorstellung, wie sehr sie sich der [From.From.GetAdjective] Sache verpflichtet fühlen."
+ sic.115.d: "Die Regierung von [[From.GetAdjective]] teilt uns mit, dass ihr nationales Referendum zugunsten unseres Vorschlags ausgefallen ist, dass sie aber als Mitglied des Bündnisses von [From.From.GetFactionName] noch eine letzte Sorge bezüglich ihrer Mitgliedschaft im Bündnis von [From.From.GetFactionName] hat. Ihnen zufolge hat die [[From.From.GetAdjective]]-Regierung gefragt, ob wir einen Beitritt zur [[From.From.GetFactionName]]-Allianz in Erwägung ziehen würden - im Gegenzug würden sie der gesamten Vereinbarung ihren Segen geben und wir würden beide gestärkt daraus hervorgehen. Die [From.GetAdjective]-Regierung hat nicht erwähnt, ob sich ihre Antwort ändern würde, wenn wir ablehnen - wir haben keine Ahnung, wie sehr sie sich der [From.From.GetAdjective]-Sache verpflichtet fühlt."
  sic.115.a: "Wir würden uns gerne anschließen"
  sic.115.b: "Das möchten wir lieber nicht, danke."
 
@@ -699,8 +641,7 @@
  sic.116.a: "Ausgezeichnet!"
 
  sic.117.t: "[From.GetNameDefCap] wird nicht beitreten"
- sic.117.d.noref: "Wir haben die Wünsche unserer Verbündeten weitergeleitet, aber [From.GetNameDef] hat ihr Angebot, sich [Root.GetFactionName] anzuschließen, abgelehnt. Es ist ihr gutes Recht, nicht in Kriege außerhalb Italiens verwickelt zu werden, aber wir können nicht umhin, es zu bedauern, diejenigen im Stich zu lassen, die uns in der Vergangenheit beschützt haben. Nun müssen wir entscheiden, wie wir weiter vorgehen."
- sic.117.d.ref: "Wir haben die Wünsche unserer Verbündeten weitergeleitet, aber [From.GetNameDef] hat ihr Angebot, sich [Root.GetFactionName] anzuschließen, abgelehnt. Es ist ihr gutes Recht, nicht in Kriege außerhalb Italiens verwickelt zu werden, auch wenn wir es bedauern, diejenigen im Stich zu lassen, die uns in der Vergangenheit beschützt haben. Dennoch hat das [Root.GetAdjective] Volk gesprochen."
+ sic.117.d: "Wir haben die Wünsche unserer Verbündeten weitergeleitet, aber [From.GetNameDef] hat ihr Angebot, sich [Root.GetFactionName] anzuschließen, abgelehnt. Es ist ihr gutes Recht, nicht in Kriege außerhalb Italiens verwickelt zu werden, aber wir können nicht umhin, es zu bedauern, diejenigen im Stich zu lassen, die uns in der Vergangenheit beschützt haben. Nun müssen wir entscheiden, wie wir weiter vorgehen."
  sic.117.a: "Sagt ihnen, sie sollen noch mal fragen, wenn der Krieg vorrüber ist."
  sic.117.b: "Nein, wir beabsichtigen, bei der [Root.GetFactionName] zu verbleiben"
  sic.117.c: "Wir wollen weiter vorankommen"
@@ -721,15 +662,13 @@
  sic.121.t: "[From.GetNameDefCap] macht Entscheidung rückgängig"
  sic.121.d: "Die Enttäuschung über unsere Weigerung, der [From.GetFactionName] beizutreten ist groß, [From.GetNameDef] hat uns nun mitgeteilt, dass sie unserem Vorschlag nicht zustimmen kann. Sie behaupten, ihr Engagement für ihre Verbündeten ist zu groß. Außerdem haben sie nicht angedeutet, dass sie für weitere Diskussionen offen sind. Offenbar haben sie die Absicht, ihre Unabhängigkeit zu bewahren und die [From.GetFactionName] als Rückhalt zu haben."
  sic.121.a: "So sei es."
- sic.121.b: "Wir werden sehen!"
 
  sic.122.t: "[From.GetNameDefCap] stimmt unserem Vorschlag zu"
  sic.122.d: "Sie sind zwar enttäuscht über unsere Weigerung, der [From.GetFactionName] beizutreten, aber die [From.GetAdjective] Regierung versichert uns, dass dies sie nicht davon abhalten wird, mit unserem Vorschlag wie geplant fortzufahren. Um der Einheit Italiens willen, mit oder ohne die [From.GetFactionName]."
  sic.122.a: "Viva l'Italia!"
 
  sic.123.t: "[From.GetNameDefCap] bittet uns, die Situation zu überdenken"
- sic.123.d.noref: "Die [From.GetAdjective] Regierung hat uns zwar nicht daran gehindert, den Vorschlag von [uniter.GetAdjective] anzunehmen, aber sie hat uns gebeten, den Austritt aus der [From.GetFactionName] zu überdenken. Sie sagen, dass das Bündnis zwischen unseren Ländern für sie wertvoll sei und dass sie uns vor einer möglichen [uniter.GetAdjective] Aggression schützen können, sollten diese beschließen, uns zu bedrängen. Sollten wir unsere Meinung ändern?"
- sic.123.d.ref: "Die [From.GetAdjective] Regierung hat uns zwar nicht daran gehindert, den Vorschlag von [Uniter.GetAdjective] anzunehmen, aber sie hat uns gebeten, den Austritt aus der [From.GetFactionName] zu überdenken. Sie sagen, dass das Bündnis zwischen unseren Ländern für sie wertvoll ist, und schlagen vor, dass sie uns vor einer möglichen [uniter.GetAdjective] Aggression schützen können, sollten diese beschließen, uns zu bedrängen. Leider hat das [Root.GetAdjective] Volk gesprochen, und unser Kurs ist bereits festgelegt."
+ sic.123.d: "Die [From.GetAdjective] Regierung hat uns zwar nicht daran gehindert, den Vorschlag von [uniter.GetAdjective] anzunehmen, aber sie hat uns gebeten, den Austritt aus der [From.GetFactionName] zu überdenken. Sie sagen, dass das Bündnis zwischen unseren Ländern für sie wertvoll sei und dass sie uns vor einer möglichen [uniter.GetAdjective] Aggression schützen können, sollten diese beschließen, uns zu bedrängen. Sollten wir unsere Meinung ändern?"
  sic.123.a: "Sagt [uniter.GetNameDef], dass sie erneut fragen soll, wenn der Krieg vorrüber ist"
  sic.123.b: "Sehr gut, wir bleiben bei der [Root.GetFactionName]"
  sic.123.c: "Wir wollen weiter vorangehen"
@@ -749,10 +688,8 @@
  sic.127.a: "Auf zur Einheit"
 
  sic.128.t: "[From.GetNameDefCap] stimmt zu"
- sic.128.d.ref: "Nach einem umstrittenen dreiwöchigen Referendum hat uns die [From.GetAdjective] Regierung mitgeteilt, dass die Abstimmung eindeutig positiv ausgefallen ist und dass sich [From.GetNameDef] mit [Root.GetNameDef] vereinigen wird. Die Einzelheiten der genauen Vereinbarung werden in den kommenden Monaten ausgearbeitet, aber im Moment können sich beide Nationen darüber freuen, dass eine friedliche Einigung erzielt wurde."
- sic.128.d.confedref: "Nach einem umstrittenen dreiwöchigen Referendum hat uns die [From.GetAdjective] Regierung mitgeteilt, dass die Abstimmung eindeutig positiv ausgefallen ist und dass [From.GetNameDef] der Italienischen Konföderation beitreten wird. Die Einzelheiten der genauen Vereinbarung werden in den kommenden Monaten ausgearbeitet, aber im Moment können sich beide Nationen darüber freuen, dass eine friedliche Einigung erzielt wurde."
- sic.128.d.noref: "Nach wochenlangen Überlegungen hat uns die [From.GetAdjective] Regierung mitgeteilt, dass sich [From.GetNameDef] mit [Root.GetNameDef] vereinigen wird. Details über die genaue Vereinbarung werden in den kommenden Monaten ausgearbeitet, aber für den Moment können sich beide Nationen darüber freuen, dass eine friedliche Einigung erzielt wurde."
- sic.128.d.confednoref: "Nach wochenlangen Überlegungen hat uns die [From.GetAdjective] Regierung mitgeteilt, dass [From.GetNameDef] der Italienischen Konföderation beitreten wird. Die Einzelheiten der genauen Vereinbarung werden in den kommenden Monaten ausgearbeitet, aber im Moment können sich beide Nationen darüber freuen, dass eine friedliche Einigung erzielt worden ist."
+ sic.128.d.noconfed: "Nach wochenlangen Überlegungen hat uns die [From.GetAdjective] Regierung mitgeteilt, dass sich [From.GetNameDef] mit [Root.GetNameDef] vereinigen wird. Details über die genaue Vereinbarung werden in den kommenden Monaten ausgearbeitet, aber für den Moment können sich beide Nationen darüber freuen, dass eine friedliche Einigung erzielt wurde."
+ sic.128.d.confed: "Nach wochenlangen Überlegungen hat uns die [From.GetAdjective] Regierung mitgeteilt, dass [From.GetNameDef] der Italienischen Konföderation beitreten wird. Die Einzelheiten der genauen Vereinbarung werden in den kommenden Monaten ausgearbeitet, aber im Moment können sich beide Nationen darüber freuen, dass eine friedliche Einigung erzielt worden ist."
  sic.128.a: "Viva l'Italia!"
 
  sic.129.t: "[From.GetNameDefCap] lehnt vorerst ab"
@@ -761,8 +698,7 @@
  sic.129.b: "Wir wollen nicht warten!"
 
  sic.130.t: "[From.GetNameDefCap] lehnt ab"
- sic.130.d.ref: "Nach einem umstrittenen dreiwöchigen Referendum hat uns die [From.GetAdjective] Regierung mitgeteilt, dass die Abstimmung knapp gescheitert ist. Das [From.GetAdjective] Volk hat sich entschieden - ob aus Misstrauen gegenüber [Root.GetNameDef] oder aus dem Wunsch nach einem besseren Angebot, kann nicht beurteilt werden - und somit wird der Vorschlag von [Root.GetNameDef] abgelehnt. [From.GetNameDefCap] wird seine Unabhängigkeit beibehalten."
- sic.130.d.noref: "Nach wochenlangen Beratungen hat uns die [From.GetAdjective] Regierung mitgeteilt, dass der Vorschlag von [Root.GetNameDef] abgelehnt wurde. Ob aus Misstrauen gegenüber der [Root.GetAdjective] Regierung oder aus dem Wunsch nach einem besseren Angebot, können wir nicht sagen, jedoch haben sie die feste Absicht, ihre Unabhängigkeit zu wahren."
+ sic.130.d: "Nach wochenlangen Beratungen hat uns die [From.GetAdjective] Regierung mitgeteilt, dass der Vorschlag von [Root.GetNameDef] abgelehnt wurde. Ob aus Misstrauen gegenüber der [Root.GetAdjective] Regierung oder aus dem Wunsch nach einem besseren Angebot, können wir nicht sagen, jedoch haben sie die feste Absicht, ihre Unabhängigkeit zu wahren."
  sic.130.a: "So sei es."
  sic.130.b: "Ich fürchte, das wird nicht der Fall sein."
 

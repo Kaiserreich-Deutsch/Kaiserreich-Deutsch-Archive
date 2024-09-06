@@ -24,13 +24,13 @@
  ARM_totalist_party_long: "Komunistakan Kusaktsutyun (Kommunistische Partei)"
 
  ARM_syndicalist_party: "Syndicalistakan"
- ARM_syndicalist_party_long: "Syndicalistakan Kusaktsutvun (Syndikalistische Partei)"
+ ARM_syndicalist_party_long: "Syndicalistakan Kusaktsutyun (Syndikalistische Partei)"
 
  ARM_radical_socialist_party: "Hunchaks"
  ARM_radical_socialist_party_long: "Social Demokrat Hunchakian Kusaktsutyun (Sozialdemokratische Hunchakian Partei)"
 
  ARM_social_democrat_party: "Dashnaks"
- ARM_social_democrat_party_long: "Dashnaktsutyun (Armenische Revolutionäre Föderation)"
+ ARM_social_democrat_party_long: "Hay Heghapokhakan Dashnaktsutyun (Armenische Revolutionäre Föderation)"
 
  ARM_social_liberal_party: "Armenakan"
  ARM_social_liberal_party_long: "Armenakan Kusaktsutyun (Armenische Partei)"
@@ -406,6 +406,9 @@
  ARM_expansionism_idea: "Armenischer Expansionismus"
  ARM_expansionism_idea_desc: "Viel zu lange konnten andere Länder nach Belieben schalten und walten, weil wir zahlenmäßig unterlegen sind und es uns an Stärke und Territorium mangelt. Es ist an der Zeit, dass wir uns vom einfachen Beutetier zum Spitzenprädator entwickeln und das Land erwerben, das Armenien braucht, um eine Kraft zu werden, mit der man rechnen muss."
 
+ ARM_expansionism_idea_3: "Großarmenische Ambitionen"
+ ARM_expansionism_idea_3_desc: "Während der Staat versucht, seine Grenzen zu erweitern und den einst verloren geglaubten Ruhm der Armenischen Nation wiederherzustellen, muss das Volk den Aufrufen von Nzhdeh folgen und die Waffen gegen seine Möchtegern-Unterdrücker ergreifen. Der Weg, der vor uns liegt, mag schwierig sein, aber am Ende wird Armenien triumphieren und für immer die Oberhand behalten!"
+
  ARM_armenian_youth: "Armenische Jugendbewegung"
  ARM_armenian_youth_desc: "Die Politisierung unseres Volkes muss in einem sehr jungen Alter beginnen, damit ihr Geist nicht durch westliche Ideen vergiftet wird. Die armenische Jugendbewegung wird dafür sorgen, dass die jüngeren Generationen dem Adler von Taron treu bleiben, und gleichzeitig Freizeitaktivitäten und praktische Workshops organisieren."
 
@@ -505,6 +508,8 @@
 ### Decisions ###
  ARM_foreign_policy: "Außenpolitik Armeniens"
   ARM_join_faction: "Beitritt zu [FROM.GetFactionName]"
+ ARM_attack_ottomans: "Crush [FROM.GetNameDef]"
+ ARM_reclaim_karabakh: "Das Hochland von Karabach zurückgewinnen"
  ARM_request_industrial_support: "Anfrage [FROM.GetAdjective] Industrielle Unterstützung"
 
  ARM_war_of_independence: "Der Unabhängigkeitskrieg"
@@ -532,10 +537,6 @@
  arm.1.t: "Der armenische Unabhängigkeitskrieg"
  arm.1.d: "Seit Jahrhunderten wird das armenische Volk von fremden Invasoren beherrscht. Die Russen, Perser und Osmanen glaubten alle, einen rechtmäßigen Anspruch auf unser Land zu haben, was zu zahlreichen Grenzkonflikten zwischen diesen Mächten führte. Auch wenn die armenischen Gebiete im Allgemeinen eine relative Autonomie genossen, wurden die Armenier selbst von ihren Besatzern in der Regel schlecht behandelt. Vor allem die Türken betrachteten sie als Bürger zweiter Klasse, die 'Türkisiert' werden mussten. Dieser Glaube führte direkt zu den Hamidian-Massakern von 1894-1896 und den armenischen Massakern während des Weltkriegs. Diese Gräueltaten bestärkten den armenischen Nationalismus und stärkten die Widerstandsbewegungen. Während einige dieser Organisationen, wie die Fedayi, die armenische Dörfer gegen türkische und kurdische Plünderer zu verteidigen versuchten, vor allem Autonomie und Sicherheit anstrebten, forderten andere, wie die Daschnaks, die Gründung eines unabhängigen armenischen Staates.\n\nDieser Traum von einem freien Armenien wurde 1918 Wirklichkeit. Nach dem Zusammenbruch des Russischen Reiches nutzten die Armenier das entstandene Chaos, um sich abzuspalten. Doch etwa ein Jahr nach unserer Unabhängigkeitserklärung beriefen die Regionalmächte eine Konferenz in Kostantiniyye ein. Das Ergebnis: Die Osmanen, Georgien und Aserbaidschan sollten Armenien unter sich aufteilen. Diese Vereinbarung war der endgültige Schlag für die Erste Republik Armenien, die nicht die Kraft hatte, sich gegen ihre Nachbarn zu verteidigen.\n\nDennoch hat unser Volk die Hoffnung nicht verloren. Es wartete weiter auf den Tag, an dem es endlich frei sein würde, und einige zogen sich nach Karabach zurück, um dort den Widerstand fortzusetzen. Jetzt, da sich der Nahe Osten gegen die Erhabene Pforte erhebt und die Türken sich gegen die arabischen Kräfte behaupten müssen, scheint dieser Tag endlich gekommen zu sein. Heute sagen wir: Es reicht! Im ganzen Land organisieren sich Freiwillige zu Milizen, und die türkischen Garnisonen werden entwaffnet. Es ist an der Zeit, den Osmanen zu zeigen, dass wir nicht so leicht zu brechen sind! Für Armenien!"
  arm.1.a: "Wir werden uns diese Chance nicht entgehen lassen!"
-
- arm.3.t: "Die Rückkehr von Nzhdeh"
- arm.3.d: "Als er sah, wie sich das armenische Volk gegen die osmanische Herrschaft erhob, beschloss Garegin Nzhdeh, aus seinem selbst auferlegten Exil in Hochkarabach zurückzukehren. Nzhdeh ist ein bekannter Soldat und General. Er nahm an der persischen konstitutionellen Revolution teil und gehörte zu den armenischen Bataillonen, die unter russischer Flagge kämpften. Während des Zusammenbruchs des Russischen Reiches zog er sich in den Kaukasus zurück, wo er zu einem der Gründer der Armenischen Nationalarmee wurde.\n\nMit seinen neuen paramilitärischen Kräften versuchte er, die Position Armeniens im Kaukasus zu stärken, indem er Türken und Aseris aus der Region vertrieb. Die Osmanen schlugen jedoch schnell zurück und schafften es, den armenischen Widerstand bis Mitte 1919 zu zerschlagen. Nachdem es Nzhdeh nicht gelungen war, Armenien gegen die vorrückenden Türken zu verteidigen, beschloss er, sich zurückzuziehen und seine Truppen in den Bergen von Hoch-Karabach zu reorganisieren, einer Provinz, die zuvor zu Armenien gehört hatte, aber während der Kaukasuskonferenz Aserbaidschan zugesprochen worden war. Dort kämpfte er weiter für die Unabhängigkeit eines armenischen Staates. Nzhdeh terrorisierte die nicht-armenische Bevölkerung der Region und machte es der aserbaidschanischen Regierung unmöglich, die Provinz zu regieren. Im Laufe der Jahre gelang es ihm auch, erheblichen Einfluss im Kaukasus zu gewinnen, den er nutzte, um armenische Widerstandsbewegungen auch außerhalb von Karabach zu versorgen, was ihn mitverantwortlich für den bisherigen Erfolg unserer Streitkräfte macht.\n\nNun, da Nzhdeh vollständig und offiziell nach Armenien zurückgekehrt ist, kann er seine in jahrzehntelanger konventioneller und Guerillakriegsführung gesammelten Erfahrungen nutzen, um unsere Truppen zum Sieg über die wilden Türken zu führen. Schon jetzt jubelt ihm das Volk zu und feiert seine Ankunft als 'Segen des Herrn'. Mit ihm an unserer Spitze kann uns nichts aufhalten!"
- arm.3.a: "Wir begrüßen unseren Helden!"
 
  arm.4.t: "Diplomatische Ouvertüren aus dem Libanon"
  arm.4.d: "Trotz seiner relativ geringen Größe beherbergt der Libanon eine der größten armenischen Diasporas im Nahen Osten. Auf der Suche nach einem Zufluchtsort vor dem osmanischen Militär während der Zeit der armenischen Massaker flohen Tausende von Armeniern aus den Regionen Ost- und Südanatoliens, und da sie nirgendwo anders hin konnten, machten sich viele auf den Weg in den Libanon. Dort ließen sie sich vor allem im autonomen Mutasarrifat auf dem Libanonberg, aber auch in den umliegenden Städten wie Beirut und Jbeil nieder. Aufgrund der zumeist freundlichen Aufnahme durch die Einheimischen konnten sich die Migranten recht schnell integrieren, und die armenische Kultur wird bis heute als wertvolle Bereicherung des Lebens in der Region angesehen.\n\nNachdem das libanesische Volk nach einem verheerenden Krieg gegen die Syrer gerade seine Unabhängigkeit erklärt hat, könnte man sagen, dass die Kämpfe, die das libanesische Volk zu bestehen hatte, durchaus mit denen vergleichbar sind, die unsere eigene Nation in der Vergangenheit zu bestehen hatte. Auch sie sahen sich gezwungen, sich gegen einen viel größeren Feind zu behaupten, und genau wie wir haben sie am Ende gesiegt. Doch nun, da der Krieg gewonnen ist, hat der Libanon mit denselben Nachteilen der Unabhängigkeit zu kämpfen wie wir: politische Einsamkeit. In der Hoffnung, dieses Problem zu lösen, hat sich [LEB.GetLeader] nun an unsere Regierung gewandt und den Wunsch geäußert, diplomatische Beziehungen zwischen unseren beiden Staaten aufzunehmen. Angesichts der kulturellen Bande, die unsere beiden Nationen verbinden, und der Vorteile, die eine künftige Zusammenarbeit mit sich bringen könnte, sollte es nicht überraschen, dass unsere Regierung bereits beschlossen hat, dieses Angebot anzunehmen und die Einrichtung einer libanesischen Botschaft in unserer Hauptstadt zu organisieren. Wir können nur hoffen, dass dieser Tag den Beginn einer großen Freundschaft zwischen unseren Nationen markiert."
@@ -945,7 +946,9 @@
  ARM_sargis_araratyan: "Sargis Araratyan"
  ARM_nikol_aghbalian: "Nikol Aghbalian"
  ARM_simon_vratsian: "Simon Vratsian"
- ARM_garegin_pastermadjian: "Garegin Pastermadjian"
+ ARM_gevorg_melik_karagyozyan: "Gevorg Melik-Karagyozyan"
+ ARM_khachatur_kanayan: "Khachatur Kanayan"
+ ARM_movses_silikyan: "Movses Silikyan"
  ARM_sose_vartanian: "Sose Vartanian"
  ARM_artem_alikhanian: "Artem Alikhanian"
  ARM_arshavir_shiragian: "Arshavir Shiragian"

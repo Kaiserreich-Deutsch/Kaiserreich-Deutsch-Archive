@@ -18,7 +18,7 @@ KR_phalanstere_name: "Mitglieder of the des §H$INT_phalanstere$§!"
 
 KR_phalanstere_desc: "Die Phalanstère Internationale ist eine Organisation für wirtschaftliche Entwicklung und Zusammenarbeit zwischen den sozialistischen Staaten. Ziel der Phalanstère ist es, die Ressourcen zwischen den Mitgliedstaaten besser zu koordinieren, und sie verfügt über zahlreiche Förderprogramme zur Unterstützung der Industrialisierung in den weniger wohlhabenden Ländern."
 
-FRA_syndicalist_agitation: "Syndicalist Agitation: §R40%§!"
+FRA_syndicalist_agitation: "Syndicalist Agitation: $VALUE|=-%0$"
 
 FRA_all_but_tunisia: "§HTschad§!, §HFranzösisch Sudan§!, §HGuinea§!, §HMauretanien§!, §HNiger§!, §HObervolta§!"
 FRA_all_but_mauritania: "§HTschad§!, §HFranzösisch Sudan§!, §HGuinea§!, §HNiger§!, §HTunesien§!, §HObervolta§!"

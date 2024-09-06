@@ -336,6 +336,7 @@ rocket_artillery_equipment_desc: "Raketenartillerie ist im Vergleich zu Batterie
 artillery_equipment_1: "Gezogene Artillerie"
 artillery_equipment_1_short: "Artillerie"
 artillery_equipment_1_desc: "Artillerie bezieht sich auf großkalibrige Waffen wie Kanonen und Haubitzen, die von Geschützbesatzungen bedient werden. Die effektive Reichweite dieser Geschütze übertrifft die von Kleinwaffen bei weitem."
+gw_artillery: "$artillery_equipment_1_short$"
 
 rocket_artillery_equipment_1: "Gezogene Raketenartillerie"
 rocket_artillery_equipment_1_short: "Raketenartillerie"

@@ -717,6 +717,8 @@
  JAP_unity_through_peace: "Einheit und Frieden"
  JAP_unity_through_peace_desc: "Es ist an der Zeit, dass die gesamte chinesische Nation wieder zusammensteht und nicht von machtgierigen Kriegsherren ausgebeutet wird. Wir werden die Kriegsherren auffordern, zurückzutreten und das Ideal, das sie angeblich anstreben, wirklich zu verwirklichen."
  JAP_peace_effects: "§YJedes chinesische Land, mit dem wir im Krieg sind§!:"
+ JAP_finish_off_stragglers: "[FROM.GetNameDef] ausschalten"
+ JAP_finish_off_stragglers_desc: "Aus dem einen oder anderen Grund ist es [FROM.GetLeader] und seinen [FROM.GetRulingParty] Kumpanen gelungen, einen Konflikt mit uns zu vermeiden, vielleicht in der Hoffnung, durch Neutralität die Macht zu behalten. Aber China muss unter ordentlichen Autoritäten vereint werden, und wir haben wenig Platz für Nachzügler in unserer neuen Ordnung, und deshalb werden wir dieses letzte Überbleibsel des Warlordismus beseitigen."
 
 ### Mantetsu Projekte ###
  develop_generic_tag: "Entwicklung der Rüstungsindustrie von [From.GetNameDef]"
@@ -1216,18 +1218,15 @@
  JAP_invite_into_faction_desc: "Nachdem die [From.GetAdjective]-Regierung auf der Konferenz von Tokio ihr Interesse an einem Bündnis bekundet hat, ist es jetzt nur noch eine Formalität, unsere Gespräche abzuschließen."
  JAP_invite_into_economic_sphere: "Laden Sie [From.GetNameDef] in unseren Wirtschaftsraum ein"
  JAP_invite_into_economic_sphere_desc: "[From.GetNameDefCap] ist entweder eine bündnisfreie Nation oder bereits ein japanischer Verbündeter und in beiden Fällen ein hervorragender Kandidat für die Aufnahme in unsere 'Großasiatische Ko-Wohlstandssphäre'... zu ihrem und vor allem zu unserem Nutzen."
- JAP_invest_in_sphere_member1: "Förderung von Investitionen in [From.GetNameDef]"
- JAP_invest_in_sphere_member1_desc: "Wir sollten mit Investitionen in [From.GetNameDef] beginnen, die uns nicht nur einen leichteren Zugang zu ihrem Handel verschaffen, sondern es uns auch ermöglichen werden, eine japanische Präsenz in dem Land aufzubauen und es schließlich von innen heraus zu übernehmen."
- JAP_invest_in_sphere_member2: "Förderung von Investitionen in [From.GetNameDef]"
- JAP_invest_in_sphere_member2_desc: "Wir sollten mit Investitionen in [From.GetNameDef] beginnen, die uns nicht nur einen leichteren Zugang zu ihrem Handel verschaffen, sondern es uns auch ermöglichen werden, eine japanische Präsenz in dem Land aufzubauen und es schließlich von innen heraus zu übernehmen."
- JAP_invest_in_sphere_member3: "Förderung von Investitionen in [From.GetNameDef]"
- JAP_invest_in_sphere_member3_desc: "Wir sollten mit Investitionen in [From.GetNameDef] beginnen, die uns nicht nur einen leichteren Zugang zu ihrem Handel verschaffen, sondern es uns auch ermöglichen werden, eine japanische Präsenz in dem Land aufzubauen und es schließlich von innen heraus zu übernehmen."
+ JAP_invest_in_sphere_member: "Förderung von Investitionen in [From.GetNameDef]"
+ JAP_invest_in_sphere_member_desc: "Wir sollten mit Investitionen in [From.GetNameDef] beginnen, die uns nicht nur einen leichteren Zugang zu ihrem Handel verschaffen, sondern es uns auch ermöglichen werden, eine japanische Präsenz in dem Land aufzubauen und es schließlich von innen heraus zu übernehmen."
  JAP_invest_in_sphere_member_docks: "Förderung von Investitionen der Marine in [From.GetNameDef]"
  JAP_invest_in_sphere_member_docks_desc: "Wir sollten mit Investitionen in [From.GetNameDef] beginnen, die uns nicht nur einen leichteren Zugang zu ihrem Handel verschaffen, sondern es uns auch ermöglichen werden, eine japanische Präsenz in dem Land aufzubauen und es schließlich von innen heraus zu übernehmen."
  JAP_invest_in_sphere_naval_advisors: "Marineberater an [From.GetNameDef] senden"
  JAP_invest_in_sphere_naval_advisors_desc: "Wir sollten Berater nach [From.GetNameDef] schicken, die bei der Entwicklung ihrer Marinebasis helfen werden."
+ JAP_naval_advisors_tech_bonus: "Japanische Marine-Berater"
  JAP_invest_in_sphere_prosperity_ships: "Teilen Sie Wohlstandsschiffspläne mit [From.GetNameDef]"
- JAP_invest_in_sphere_prosperity_ships_desc: "Wir sollten "Wohlstands"-Schiffsingenieure nach [From.GetNameDef] schicken, die bei der Entwicklung ihrer Seetransportbasis helfen werden."
+ JAP_invest_in_sphere_prosperity_ships_desc: "Wir sollten \"Wohlstands\"-Schiffsingenieure nach [From.GetNameDef] schicken, die bei der Entwicklung ihrer Seetransportbasis helfen werden."
  JAP_invest_in_sphere_take_dockyards: "Übernahme von [From.GetNameDef] Werften"
  JAP_invest_in_sphere_take_dockyards_desc: "Unsere Marinewerften auf den Heimatinseln haben derzeit Schwierigkeiten, den Bedarf der IJA zu decken. Jetzt müssen wir auf die Anlagen zurückgreifen, die wir für unsere Juniorpartner in der Ko-Wohlstandssphäre gebaut haben. Natürlich alles zu ihrem eigenen Schutz."
  JAP_economic_sphere_takeover: "[From.GetNameDef] Übernehmen"
@@ -1276,13 +1275,10 @@
  KR_co_prosperity_sphere_name_JAP: "Anführer der §HOst-Asiatischen Ko-Wohlstandssphäre§!"
  KR_co_prosperity_sphere_name: "Mitglied der §HOst-Asiatischen Ko-Wohlstandssphäre§!"
 
- JAP_may_now_invite_sphere: "Blockfreie und unterworfene ostasiatische Staaten können nun in Japans wirtschaftliche Einflusssphäre eingeladen werden\n"
- JAP_may_now_invest_sphere: "Kann nun Entscheidungen zur Förderung von Investitionen in Sphärenmitgliedern treffen, was mit der Zeit zu einer japanischen Kontrolle über das Land führen kann.\n"
- JAP_invest_in_sphere_member_decision_tt: "Tätigt eine Investition in unseren Verbündeten, indem er ihm §Y1 Zivilfabrik§! und §GGegenseitige Handelsvorteile§! gewährt.\nSobald die §YWirtschaftliche Durchdringung§! hoch genug ist, können wir sie zu einer Marionette machen."
- JAP_invest_in_sphere_member_docks_decision_tt: "Bau von Werften auf dem Gebiet unserer Verbündeten, die wir später vorübergehend für uns vereinnahmen können."
- JAP_invest_in_sphere_naval_advisors_decision_tt: "Wir werden unseren Verbündeten bei der Ausbildung ihrer Marine helfen, indem wir unsere Forschung oder unser Fachwissen weitergeben, je nachdem, wofür sie sich entscheiden."
- JAP_withdraws_from_sphere: "§Y[Root.GetNameDefCap]§! wird sich aus dem japanischen Wirtschaftsraum zurückziehen\n"
- JAP_THIS_withdraws_from_sphere: "§Y[This.GetNameDefCap]§! wird sich aus dem japanischen Wirtschaftsraum zurückziehen\n"
+ JAP_may_now_invite_sphere: "Blockfreie und unterworfene ostasiatische Staaten können nun in Japans wirtschaftliche Einflusssphäre eingeladen werden"
+ JAP_may_now_invest_sphere: "Kann nun Entscheidungen zur Förderung von Investitionen in Sphärenmitgliedern treffen, was mit der Zeit zu einer japanischen Kontrolle über das Land führen kann."
+ JAP_withdraws_from_sphere: "§Y[Root.GetNameDefCap]§! wird sich aus dem japanischen Wirtschaftsraum zurückziehen"
+ JAP_THIS_withdraws_from_sphere: "§Y[This.GetNameDefCap]§! wird sich aus dem japanischen Wirtschaftsraum zurückziehen"
  JAP_not_member_of_sphere: "ist nicht Mitglied der wirtschaftlichen Ko-Wohlstandssphäre Japans"
  JAP_member_of_sphere: "ist Mitglied in Japans wirtschaftlicher Ko-Wohlstandssphäre"
  
@@ -1293,7 +1289,7 @@
  JAP_nerf_copro_bonuses_tt: "Unsere wirtschaftlichen Boni aus der Ko-Wohlstandssphäre werden um §H10%§! reduziert, und die unserer Mitglieder werden um den gleichen Betrag erhöht."
  JAP_harder_eco_int_tt: "Die Entscheidungen £decision_icon_small §HInvestition fördern§! und £decision_icon_small §HÜbernehmen§! werden die Kosten um £GFX_pol_power 75 bzw. £GFX_pol_power 125 erhöhen."
 
- JAP_AST_joins_sphere: "§Y[AST.GetNameDef]§! wird dem japanischen Wirtschaftsraum beitreten\n"
+ JAP_AST_joins_sphere: "§Y[AST.GetNameDef]§! wird dem japanischen Wirtschaftsraum beitreten"
  AST_has_ties_with_japan: "unterhält Beziehungen zu Japan"
 
 ### Bookmark ###

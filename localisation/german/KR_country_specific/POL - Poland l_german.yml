@@ -150,7 +150,7 @@ l_german:
  POL_stanislaw_bukowiecki_sic_desc: "§YBerater Beschreibung\nGeboren:§! §g27. April 1867, in Włonice, Gouvernement Lublin, Russisches Reich\n§YPolitische Karriere:§! §gStanisław Bukowiecki, der große alte Mann des polnischen Syndikalismus, war mit Kazimierz Zakrzewski vom Polnischen Jugendverband \"Zet\" bekannt und war eine Zeit lang Mitglied der Nationalen Liga. Obwohl er sein Augenlicht vollständig verloren hatte, wurde der blinde Richter in der ersten Regierung des Königreichs Polen zum Justizminister ernannt. Er setzte sich für eine Humanisierung des polnischen Justizsystems ein, wurde aber schließlich von konservativeren Richtern verdrängt. Bukowiecki wurde zu einem merkwürdigen linksnationalistischen Politiker, der soziale Solidarität und religiöse Toleranz predigte und gleichzeitig Kontakte zu Zakrzewski und seiner nationalsyndikalistischen Bewegung pflegte.§!"
 
 ## Advisors
- POL_maurucy_zamoyski_desc: "§YBerater Beschreibung\nGeboren:§! §g30. Juni 1871, in Warschau, Gouvernement Warschau, Russisches Reich\n§YPolitische Karriere:§! §gGraf Maurycy Zamoyski entstammt einer wohlhabenden Adelsfamilie mit bedeutenden Ländereien sowohl in Galizien als auch in Polen selbst. Zamoyski war bereits 1905 der Nationalen Liga beigetreten und wurde zu einem Befürworter der Zusammenarbeit zwischen den slawischen Brüdern in Polen und Russland. Trotz seiner Sympathien für die Entente und sogar seiner Rolle als Vizepräsident des polnischen Nationalkomitees im Jahr 1918 kehrte er 1919 nach Polen zurück und wurde bei den ersten Wahlen in den Senat gewählt. Zamoyski, der wahrscheinlich reichste Mann Polens, vertrat eine vorsichtige Haltung gegenüber der Monarchie und gehörte zu den wichtigsten Förderern der ChZJN. Er zog es jedoch vor, in der Politik als Gemäßigter aufzutreten und sich nicht zu sehr an eine einzelne politische Partei zu binden."
+ POL_maurycy_zamoyski_desc: "§YBerater Beschreibung\nGeboren:§! §g30. Juni 1871, in Warschau, Gouvernement Warschau, Russisches Reich\n§YPolitische Karriere:§! §gGraf Maurycy Zamoyski entstammt einer wohlhabenden Adelsfamilie mit bedeutenden Ländereien sowohl in Galizien als auch in Polen selbst. Zamoyski war bereits 1905 der Nationalen Liga beigetreten und wurde zu einem Befürworter der Zusammenarbeit zwischen den slawischen Brüdern in Polen und Russland. Trotz seiner Sympathien für die Entente und sogar seiner Rolle als Vizepräsident des polnischen Nationalkomitees im Jahr 1918 kehrte er 1919 nach Polen zurück und wurde bei den ersten Wahlen in den Senat gewählt. Zamoyski, der wahrscheinlich reichste Mann Polens, vertrat eine vorsichtige Haltung gegenüber der Monarchie und gehörte zu den wichtigsten Förderern der ChZJN. Er zog es jedoch vor, in der Politik als Gemäßigter aufzutreten und sich nicht zu sehr an eine einzelne politische Partei zu binden."
  POL_stanislaw_downarowicz_desc: "§YBerater Beschreibung\nGeboren:§! §gMarch 28th, 1874, in Łochów, Warsaw Governorate, Russian Empire\n§YPolitische Karriere:§! §gStanisław Downarowicz war ein seltsam zentristischer Unabhängigkeitsaktivist. Trotz seiner anfänglichen Zusammenarbeit mit der PPS, die zu seiner Inhaftierung durch die zaristischen Behörden führte, fungierte er als Organisator der Schützenkompanie, ohne Piłsudski oder Dmowski zu folgen. Während dieser Zeit lebte er in Galizien im Exil und knüpfte in Lwów zahlreiche Kontakte, bis er in das Königreich zurückkehren konnte. 1910 trat er der Polnischen Fortschrittspartei bei, die später eine der Kernparteien der MKP werden sollte, und verfolgte seitdem einen gemäßigt liberalen politischen Kurs. Downarowicz gehört zu den sichtbarsten Gesichtern der progressiven MKP, die eine Liberalisierung des Königreichs anstrebt, anstatt immer tiefer in den Autoritarismus abzurutschen.§!"
  POL_janusz_radziwill_desc: "§YBerater Beschreibung\nGeboren:§! §g3. September 1880, in Berlin, Provinz Brandenburg, Königreich Preußen, Deutsches Reich\n§YPolitische Karriere:§! §gFürst Janusz Radziwiłł, der oft als der Mann hinter dem König bezeichnet wird, ist ein reicher Aristokrat und Magnat, dessen Palast in Warschau zum inoffiziellen Treffpunkt der polnischen Grundbesitzer- und Unternehmenselite geworden ist. Er hat die Monarchie von Anfang an unterstützt und war der Botschafter des Regentschaftsrates bei den Verhandlungen über die Ernennung des polnischen Königs. Manche sagen, er hätte auf einen österreichischen Monarchen bestehen sollen, andere loben ihn für sein Verhandlungsgeschick, das Cholm für Polen sicherte. Seitdem gehört er zum Kern des Beraterkreises von August IV., wobei er sorgfältig zwischen der Unterstützung des Königs und dem Auftreten als unabhängiger Konservativer abwägt, der in der Lage ist, Verbündete aus allen politischen Lagern zu gewinnen.§!"
  POL_wolfgang_von_kries_desc: "§YBerater Beschreibung\nGeboren:§! §g$POL_wolfgang_von_kries_text$§!"
@@ -1323,6 +1323,9 @@ l_german:
  POL_no_parasol: "§RDieser Weg ist versperrt, wenn Russland sozialistisch ist.§!"
 
  POL_Dawn_of_Progress_effect_tooltip_wargoals: "§gWird Kriegsziele gegen nicht-demokratische Nachbarn schaffen, wenn Polen nicht in der Fraktion ist.§!"
+
+ POL_is_gengov: "Ist der §Y$POL_gengov$§!"
+ POL_is_gengov_NOT: "Ist nicht der §Y$POL_gengov$§!"
 
 ### Bookmark ###
  POL_KR_gathering_storm_desc: "Die Akte vom 5. November mag zum ersten Mal seit mehr als hundert Jahren einen polnischen Staat auf die Landkarte gebracht haben, aber nicht alles ist gut. Obwohl er in den ersten Jahren von einer stabilen und wachsenden Wirtschaft profitierte, machte der Tod von Piłsudski im Jahr 1935 die Unbeliebtheit von August IV. deutlich, und republikanische, nationalistische und sozialistische Kräfte agitierten gegen seine Regierung.\n\n Während sich die Wolken in Europa verdichten und die deutsche Hegemonie scheinbar zu verblassen beginnt, wissen nur wenige, was auf das Reich von August IV. zukommt..."
@@ -3257,7 +3260,7 @@ l_german:
  POL_the_sejm_sic: "Sejm"
 
     ### Political Advisors
- POL_maurucy_zamoyski: "Maurycy Klemens Zamoyski"
+ POL_maurycy_zamoyski: "Maurycy Klemens Zamoyski"
  POL_stanislaw_downarowicz: "Stanisław Downarowicz"
  POL_janusz_radziwill: "Janusz Radziwiłł"
  POL_wolfgang_von_kries: "Wolfgang von Kries"
@@ -3265,7 +3268,7 @@ l_german:
  POL_august_hlond: "August Hlond"
  POL_alexander_ii: "Aleksander II"
  POL_wieslaw_gerlicz: "Wiesław Gerlicz"
- POL_andrzej_wierbicki: "Andrzej Wierzbicki"
+ POL_andrzej_wierzbicki: "Andrzej Wierzbicki"
  POL_marian_dabrowski: "Marian Dąbrowski"
  POL_michal_kalecki: "Michał Kalecki"
  POL_cezaria_jedrzejewiczowa: "Cezaria Jędrzejewiczowa"
