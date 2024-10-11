@@ -32,27 +32,16 @@
  Belgrade_Pact_anti_bulgaria: "Gegen Bulgarien"
  Belgrade_Pact_joined_boo: "Ist Pakt gegen Bulgarien beigetreten"
  Belgrade_Pact_did_not_join_yay: "Ist dem Belgrader Pakt nicht beigetreten"
- Belgrade_Pact_refused: "Ist unserem Pakt nicht beigetreten"
- Belgrade_Pact_joined_against_us: "Ist Pakt gegen uns beigetreten"
  Belgrade_Pact_joined_yay: "Ist Belgrader Pakt beigetreten"
- Belgrade_Pact_supported_enemy: "Unterstützte Bulgarien"
- Belgrade_Pact_supported_us: "Unterstützte uns"
- Belgrade_Pact_refused_us_entry: "Hat uns Zugang zum Belgrader Pakt verwehrt"
- Belgrade_Pact_they_withdrew_boo: "Aus dem Belgrader Pakt zurückgezogen"
- Belgrade_Pact_they_withdrew_yay: "Aus dem Belgrader Pakt zurückgezogen"
- Belgrade_Pact_didnt_send_promised_aid: "Hat versprochene Hilfe nicht gesandt"
- Belgrade_Pact_sent_promised_aid: "Hat Hilfe im Balkankrieg gesandt"
- Belgrade_Pact_serbia_wont_pressure_ottomans: "Wollte die Osmanen nicht unter Druck setzen"
- Belgrade_Pact_refused_thrace: "Wollte Tharkien nicht abtreten"
- Belgrade_Pact_refused_occupation_zone: "Wollte Bulgarien nicht aufteilen"
- Belgrade_Pact_refused_to_end_occupation: "Wollte die Besatzung Bulgariens nicht beenden"
+ Belgrade_Pact_refused: "Ist unserem Pakt nicht beigetreten"
+ Belgrade_Pact_joined_against_us: "Ist dem Pakt gegen uns beigetreten" 
 
 ### Flags ###
  BP_working_on_eco_union: "Arbeitet bereits an diesem Projekt."
 
 ### Events ###
  pact.1.t: "Der Kongress von Belgrad"
- pact.1.d: "Seit Jahren bereitet die serbische Regierung den Kongress von Belgrad vor, eine Reihe von Versammlungen in unserer Hauptstadt, an denen sowohl Repräsentanten aus Rumänien und Griechenland, als auch Diplomaten aus dem Deutschen und dem Osmanischen Reich teilnehmen werden. Wir werden eine Serie von geopolitischen Diskussionen durchführen, um, unter anderem, internationale Unterstützung für unser Ziel, unsere Grenzen zu erweitern und einen neuen großserbischen Staat zu etablieren, zu sammeln. Dieser Staat sollte alles Land umfassen, welches von unserem Volk bewohnt wird oder bewohnt wurde."
+ pact.1.d: "Die Zusammenarbeit der Nationen des Balkans ist trotz interner Unstimmigkeiten in der gemeinsamen Geschichte nicht ohne Präsedenzfall. Der Balkanbund, der von Serbien, Bulgarien und Griechenland gegründet wurde, um das Osmanische Reich im Balkan zu besiegen, ist  ein Paradebeispiel gerade dafür, auch wenn er den wenige Monate später folgenden zweiten Balkankrieg nicht überleben sollte. Und nun stehen Serbien, Rumänien und Griechenland einer neuen Hegemonialmacht gegenüber - dem Bulgarischen Zarenreich - und ein jeder von ihnen hat Gebietsansprüche durchzusetzen. \n\nIn den letzten zwei Jahrzehnten galt ein solchen Bündnis noch als undenkbar. Diese drei Nationen im Balkan wurden gebrochen, geschwächt und entmilitarisiert und von den europäischen Großmächten unter strengste Beobachtung gestellt. Die stetig anhaltende Schwäche der Doppelmonarchie und ihre daraus entstandener Unwille zu jeglicher Intervention im Balkan hatte den Balkannationen bereits die Möglichkeit verschafft, eine Wiederbewaffnung durchzuführen und hat nun zu einem Gemeinsamen Unterfangen geführt. Zwischenstaatliche Gipfeltreffen und diplomatische Abkommen haben zwischen Serbien und Rumänien bereits seit 1932 stattgefunden, ähnliche Treffen zwischen Rumänien und Griechenland seit 1934. Alle diese Bemühungen haben jetzt zu einem Erfolg geführt - Der Balkankongress. \n\nEin viehrzentagies Gipfeltreffen in der Haupstadt Serbiens, das ein ebenso kulturelles wie politisches Ereignis ist.Zum Beispiel fanden diplomatischen Planungen zwischen der Außenminister der drei Nationen zeitgleich mit Gesprächen zwischen den Universitäten von Belgrad und Bukarest über Forschungs- und Studentenaustausch statt. \n\nNichtsdestrotrotz veröffentlichten die drei beteiligten Nationen zum Ende des Kongressen einen 14-Punkte-Plan - von denen der kontroverseste über die "Anerkennung davon, dass das Selbstbestimmungsrecht der Völker, folglich derer ethnischen Zugehörigkeit, als gerechter Grund zur Souveranität und zu Gebietsansprüchen dient" und die Forderung nach einer "Neuordnung auf dem Balkan" um dieses Ziel durchzusetzen, vermutlich auf Kosten Bulgariens."
 # Natürlich könnte ein solches Ereignis nicht ohne irgendwelche Kontroversen stattfinden. Die Einbeziehung der rumänischen Gesandtschaft, obgleich sie von äußerster Wichtigkeit ist, wurde von vielen Repräsentanten im Skupština nicht akzeptiert, da diese den Gedanken nicht ausstehen können, mit ansehen zu müssen, wie [SER.GetLeader] und der verabscheuenswürdige Corneliu Codreanu sich die Hand geben. - TBA later
  pact.1.a: "Eröffnet den Kongress!"
 
@@ -181,7 +170,6 @@
  pact.43.t: "Die Osmanen wollen Frieden"
  pact.43.d: "Die Osmanen, welche ihre intervention in diesem Krieg mittlerweile sicherlich bereuen, haben uns ein Friedensangebot gesandt. Sie werden ihren Anspruch auf Westthrakien aufgeben und sich dahin zurückziehen, wo sie herkamen."
  pact.43.a: "Wir akzeptieren ihren Frieden!"
- pact.43.b: "Wir kämpfen weiter!"
 
  pact.46.t: "[From.GetNameDefCap] lehnt Frieden ab"
  pact.46.d: "Obwohl wir bereit waren, beträchtliche Zugeständnisse gegenüber unseren Feinden einzuräumen, hat die [From.GetAdjective] Regierung unser Friedensangebot abgelehnt und behauptet, sie würden nicht aufgeben, bis wir vollständig vernichtet wurden!"

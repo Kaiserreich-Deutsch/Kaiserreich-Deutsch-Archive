@@ -84,8 +84,8 @@
  PAL_suez_national_populist_DEF: "die Internationale Sueszone"
 
 ### Opinion Modifiers
- arabcon: "Nahm am Dritten Arabischen Kongress teil"
- arabconletiranin: "Ließ den Iran am Dritten Arabischen Kongress teilnehmen"
+ PAL_arabcon: "Nahm am Dritten Arabischen Kongress teil"
+ PAL_arabconletiranin: "Ließ den Iran am Dritten Arabischen Kongress teilnehmen"
 
 ### Tooltips
  Arab_Congress: "Der Dritte Arabische Kongress hat stattgefunden"

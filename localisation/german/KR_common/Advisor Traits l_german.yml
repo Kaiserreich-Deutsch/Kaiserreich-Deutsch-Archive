@@ -369,6 +369,10 @@ KR_desert_spy_ring: "Wüsten-Spionageringe"
 KR_armed_caravans: "Gut bewaffnete Karawanen"
 KR_pliant_authorities: "Nachgiebige Behörden"
 
+### LEP ###
+KR_flour_king: "Mehl König"
+KR_general_guillotine: "General Guillotine"
+
 ### LIT ###
 KR_daimler_benz_engineer: "Daimler-Benz Ingenieur"
 
@@ -432,6 +436,15 @@ KR_dissolved_legislature_sic: "Aufgelöste Legislative"
 
 ### QIE ###
 KR_army_chief_imperial_commissioner: "Kaiserlicher Kommissar"
+KR_idealistic_monarchist: "Idealistischer Monarchist"
+KR_contentious_peacemaker: "Streitsüchtiger Friedensstifter"
+KR_hero_of_chinese_liberalism: "Held des chinesischen Liberalismus"
+KR_conductor_of_the_banking_clans: "Dirigent der Bankenclans"
+KR_devout_constitutionalist: "Überzeugter Verfassungsrechtler"
+KR_leftist_lawyer: "Linker Anwalt"
+KR_speaker_of_the_assembly: "Sprecher der Versammlung"
+KR_detested_educator: "Verachteter Erzieher"
+KR_director_general: "Generaldirektor"
 
 ### HNN ###
 KR_resented_attache: "Residenter Attaché"
@@ -482,6 +495,11 @@ KR_populist_reactionary: "Populistischer Reaktionär"
 
 ### SWF ###
 KR_la_pasionaria: "La Pasionaria"
+
+### SZC ###
+KR_gentleman_polymath_sic: "Gentleman-Polymath"
+KR_establishment_navigator_sic: "Establishment Navigator"
+KR_marshal_of_tianjin: "Marschall von Tianjin"
 
 ### TIB ###
 KR_foreign_buddhist: "Ausländischer Buddhist"

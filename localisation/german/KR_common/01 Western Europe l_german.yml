@@ -24,11 +24,11 @@ FRP_spa_kingdom_ADJ: "Französisch"
 FRP_spa_kingdom_DEF: "das Königreich Frankreich"
 
 LIL: "Wallonisch-Flandern"
-LIL_ADJ: "Lilioise"
+LIL_ADJ: "Lillois"
 LIL_DEF: "das Protektorat Wallonien-Flandern"
 
 LIL_authoritarian_democrat_party: "Verwaltungskommission"
-LIL_authoritarian_democrat_party_long: "Verwaltungskommission des Wallonisch-Flanderns"
+LIL_authoritarian_democrat_party_long: "Verwaltungskommission Wallonisch-Flandern"
 
 LIL_social_democrat_party: "$LIL_authoritarian_democrat_party$"
 LIL_social_democrat_party_long: "$LIL_authoritarian_democrat_party_long$"

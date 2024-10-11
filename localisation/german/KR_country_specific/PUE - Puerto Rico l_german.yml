@@ -2,26 +2,23 @@
 
 ## Übersetzt von Thylon ##
 
-###Tooltips###
+### Tooltips ###
 PUE_CONVENTION_TT: "§GWir werden einen Kongress mit den puertorikanischen Legislativparteien einberufen, um über die Stabilität auf der Insel zu verhandeln.§!"
-PUE_TAKE_FOCUS_NOW: "§RDie politische Lage hat sich stabilisiert§!"
-PR_Revolt_TT: "§RDies wird die Situation auf der Insel verschlimmern§!"
+PR_Revolt_TT: "§RDies wird die Situation auf der Insel verschlimmern...§!"
 PUE_TT_INDEPENDENCE: "§GPuerto Rico wird den Übergang zur Unabhängigkeit einleiten§!\nUnterstützung für §PPaternale Autokraten§! muss unter §Y55%§! sein, damit die §BIndependentists§! die Macht übernehmen können."
-PUE_TT_INTEGRATION: "§RPuerto Rico wird beginnen, sich wieder in die Vereinigten Staaten zu integrieren§!\nWir brauchen über §Y55%§! Unterstützung für die §PPaternalen Autokraten§! für diesen Zweig\nFalls die Unterstützung für §PPaternal Autokratisch§! unter §Y20%§! fällt während wir an diesen Fokusen arbeiten, werden die §BIndependentists§! die Macht übernehmen!"
-PUE_NO_ECO_RELIEF: "§RDie Amerikaner haben uns die Hilfe verweigert!§!"
-PUE_NO_CITIZENSHIP: "§RDie Amerikaner haben sich entschieden, uns keine volle Staatsbürgerschaft zu gewähren§!"
+PUE_TT_INTEGRATION: "§RPuerto Rico wird beginnen, sich wieder in die Vereinigten Staaten zu integrieren§!\nWir brauchen über §Y55%§! Unterstützung für die §PPaternalen Autokraten§! um diesen Zweig des Schwerpunktbaums abzuschließen.\nFalls die Unterstützung für §PPaternal Autokratisch§! unter §Y20%§! fällt während wir an diesen Schwerpunkten arbeiten, werden die §BIndependentists§! die Macht übernehmen!"
 PUE_REUNITE_WITH_US_TT: "§GDie USA werden Kernprovinzen auf Puerto Rico gewinnen und die Insel wird sich wieder den Vereinigten Staaten anschließen!§!"
 PUE_US_CITIZENSHIP_DANGER_TT: "§RWenn die Nationalisten in Puerto Rico gewählt werden, könnten unsere Bewohner gefährdet sein!§!"
-PUE_NEW_DEM_TREE_TT: "Puerto Rico wird eine §GUnabhängigkeitserklärung§ unterzeichnen!\nEin neuer §MDemokratischer Schwerpunktbaum§! wird erscheinen"
-TT_Government_Secured_PUE: "§GSchaltet den Zugriff auf andere Bereiche im Schwerpunktbaum frei.§!"
-PUE_Government_Consolidated: "§RDie Regierung hat konsolidiert§!"
-PUE_WAR_WITH_SOMEONE: "§RUnsere imperialen Herren versuchen, Puerto Rico mit Gewalt zurückzuerobern§!"
+PUE_NEW_DEM_TREE_TT: "Puerto Rico wird eine §GUnabhängigkeitserklärung§ unterzeichnen.\nEin neuer §MDemokratischer Schwerpunktbaum§! wird erscheinen."
+PUE_government_secured_tt: "§GSchaltet den Zugriff auf andere Bereiche im Schwerpunktbaum frei.§!"
 PUE_RECOGNITION_TT: "§GWir werden mit der Einrichtung von Botschaften bei Nationen beginnen, die unsere Unabhängigkeit unterstützen§!"
-PUE_antilles_yes_tt: "Sowohl §YKuba§! und die §Dominikanische Republik§! haben zugestimmt die Antillische Union zu formen."
-PUE_antilles2_yes_tt: "Sowohl §YKuba§! und die §YDominikanische Republik§! haben der Antillischen Union zugestimmt und die Integration ist bei 10."
-PUE_antilles_integration_tt: "Die Integration ist mindestens 4."
-PUE_Antillean_Decisions_tt: "§GNeue Entscheidungen, die die Integration der Antillen betreffen, werden freigeschaltet§!"
 
+### Flags ###
+PUE_TAKE_FOCUS_NOW: "Die politische Lage hat sich stabilisiert."
+PUE_Government_Consolidated: "Die Regierung hat konsolidiert."
+PUE_NO_ECO_RELIEF: "§RDie Amerikaner haben sich geweigert, Hilfe zu leisten!§!"
+PUE_NO_CITIZENSHIP: "§RDie Amerikaner haben beschlossen, uns nicht die volle Staatsbürgerschaft zu gewähren.§!"
+PUE_WAR_WITH_SOMEONE: "§RUnsere imperialen Herren versuchen, Puerto Rico mit Gewalt zurückzuerobern.§!"
 PUE_CAN_ATTACKED: "Führte einen Krieg mit [CAN.GetName]"
 PUE_WIF_ATTACKED: "Führte einen Krieg mit [WIF.GetName]"
 
@@ -47,22 +44,12 @@ PUE_paternal_autocrat_party_long: "Gobernación Americana (Amerikanisches Gouver
 PUE_national_populist_party: "Partido Nacionalista"
 PUE_national_populist_party_long: "Partido Nacionalista de Puerto Rico (Nationalistische Partei von Puerto Rico)"
 
-#Formables#
-PUE_social_liberal_party_PPD: "Partido Popular Democratico"
-PUE_social_liberal_party_PPD_long: "Partido Popular Democratico (Demokratische Volkspartei)"
-
-###Puerto Rico Tree###
-
+### Focus Trees ###
 PUE_base: "Schwerpunktbaum von Puerto Rico"
 PUE_DEM: "Demokratischer Schwerpunktbaum von Puerto Rico"
 PUE_NAT: "Nationalistischer Schwerpunktbaum von Puerto Rico"
 
-##OOBs###
-PUE_CAN_ships: "Kanadische Schiffe für Puerto Rico"
-PUE_USA_ships: "Amerikanische Schiffe für Puerto Rico"
-PUE_Build_Own_Ship: "PRA Libertad"
-
-###Focuses###
+### Focuses ###
 PUE_Protests_Begin: "Die Proteste sind erfolgreich"
 PUE_Protests_Begin_desc: "Nach wochenlangen Unruhen haben die Amerikaner endlich beschlossen, zu handeln. Es liegt nun am Gouverneur und den politischen Kräften hinter Puerto Rico, entweder eine Einigung zu erzielen oder den Weg für die lang ersehnte Unabhängigkeit zu ebnen..."
 PUE_Armed_Forces: "Puerto Ricanische Armee"
@@ -170,7 +157,7 @@ PUE_fleet_exercises_desc: "Auch wenn die neu gegründete puertoricanische Marine
 PUE_officer_academy: "Gründung einer Offiziersakademie"
 PUE_officer_academy_desc: "Ohne die Möglichkeit, unsere Offiziere ins Ausland zu schicken, sowohl aus diplomatischen als auch aus finanziellen Gründen, sind wir gezwungen, unsere eigene Offiziersakademie in San Juan zu eröffnen. Obwohl sie im Vergleich zu Orten wie der Annapolis Naval Academy nicht sehr beeindruckend ist, wird sie dennoch den Job für unsere kleine Marine erledigen, indem sie einen stetigen Strom fähiger Offiziere bereitstellt."
 
-###Nationalist Tree####
+### Nationalist Tree
 PUE_the_hour_of_nationalism: "Die Stunde des Nationalismus"
 PUE_the_hour_of_nationalism_desc: "Jetzt, da das Volk endlich die Fesseln seiner ausländischen Unterdrücker abgeworfen hat, ist es für die Nationalist Party an der Zeit, in den Vordergrund zu treten, da die Konfrontation, die sie seit fast einem Jahrzehnt vorbereitet hat, folgt. Wir werden siegen, mit allen notwendigen Mitteln!"
 PUE_the_Grito_de_Lares: "Der zweite Grito de Lares"
@@ -209,23 +196,14 @@ PUE_social_reform: "Sozialer Reformplan"
 PUE_social_reform_desc: "Während unsere Kultur trotz der Versuche der kulturellen Kolonisierung durch die Amerikaner überlebt hat, gibt es immer noch Arbeit zu tun, um sie zu konsolidieren. Als solche hat die Partei einen Plan entworfen, um einige der Konzepte zu festigen, die Albizu als "puertorikanisch" bezeichnet hat, aber es wird an ihm liegen, ob er wirklich will, dass sein Konzept der puertorikanischen Identität obligatorisch ist oder nur etwas für wahre Patrioten..."
 PUE_international_recognition_NAT: "Internationale Anerkennung"
 PUE_international_recognition_NAT_desc: "Da unser Aufstand nicht ganz legal und sehr gewalttätig war, hat die internationale Gemeinschaft uns ursprünglich gemieden und sich geweigert, unsere Existenz anzuerkennen, hauptsächlich um ihren angelsächsischen Herren zu gehorchen! Seitdem ist jedoch viel Zeit vergangen, und vielleicht ist es jetzt an der Zeit, dem Rest der Welt endlich die Hand zu reichen und nach Anerkennung zu suchen."
-PUE_antillean_dream: "Der antillische Traum"
-PUE_antillean_dream_desc: "Die Idee eines Staates der Vereinigten Antillen wurde von einem der Gründerväter Puerto Ricos, Ramón Emeterio Betances, vorgeschlagen. Wenn man bedenkt, dass eine solche Union uns auch Schutz vor weiteren Aggressionen bieten würde, könnte dies ein positiver geopolitischer Schachzug sein, vor allem jetzt, da es keine Spanier oder Amerikaner gibt, die uns verteidigen."
 PUE_full_independence_DEM: "Ein wahrhaft unabhängiges Puerto Rico"
 PUE_full_independence_DEM_desc: "Wir brauchen keine Herrscher oder Meister, die uns den Weg weisen. Puerto Rico ist vollkommen in Ordnung als eigenes Ding in der Karibik, und unsere einzige Suche sollte nach jemandem sein, der möchte, dass wir so bleiben, im Gegensatz zu dem Versuch, irgendeinen längst toten Traum von Größe zu sichern, den unsere Gründerväter gehabt haben mögen."
-PUE_economic_integration: "Wirtschaftliche Integration"
-PUE_economic_integration_desc: "Eines der großen Hindernisse für eine Vereinigung der Antillen ist die heterogene Natur der kubanischen, dominikanischen und puerto-ricanischen Wirtschaft. Dies wird eine multinationale Zusammenarbeit erfordern, aber es wird den Vereinigungsprozess erleichtern, sobald er abgeschlossen ist."
-PUE_Political_integration: "Politische Integration"
-PUE_Political_integration_desc: "Ein weiteres großes Hindernis für die Vereinigung der Antillen sind die großen, fast unüberbrückbaren Differenzen in Bezug auf die internen Abläufe der Politik der einzelnen Mitglieder. Wir werden die Ämter und Ministerien vieler Sektoren vereinheitlichen müssen, wenn wir eine zusammenhängende Einheit einer Regierung erreichen wollen, da die Alternative eine ineffektive Regierung wäre, bei der sich die Leute sehr wünschen würden, dass wir uns nie vereinigt hätten."
-PUE_united_antilles: "Antillen wieder vereint"
-PUE_united_antilles_desc: "Nach einem langen Weg der Verhandlungen, Integrationen und Reformen ist die Zeit endlich reif für die Gründung der Antillen-Union. Lang leben unsere Freunde in Kuba und der Dominikanischen Republik! Möge der Traum von Ramón Emeterio Betances so lange leben, wie unsere Nationen aufrecht stehen!"
 PUE_seek_a_new_guarantor: "Suchen Sie einen neuen Beschützer"
 PUE_seek_a_new_guarantor_desc: "Puerto Rico hat immer mit einer größeren Nation gerechnet, die es vor Aggressionen von außen schützt. Zuerst war es Spanien, dann waren es die Amerikaner, aber jetzt, da beide die Insel vollständig verlassen haben, müssen wir einen neuen Beschützer finden."
 PUE_old_friendships: "Alte Freundschaften"
 PUE_old_friendships_desc: "Die venezolanische Regierung und das Volk waren von Anfang an empfänglich für Albizus Reden und Kampagnen. Angesichts ihrer Nähe und ihrer relativen Machtprojektion wäre es vielleicht klug, die Beziehungen zu ihnen wieder zu schließen und unsere diplomatische Affinität zu unserem Schutz auszunutzen."
 
-###Democratic Tree###
-
+### Democratic Tree
 PUE_constitutional_convention: "Verfassungsgebende Konferenz"
 PUE_constitutional_convention_desc: "Unser erster Schritt als unabhängige Nation sollte sein, eine Verfassung zu entwerfen. Während nicht jede Nation hat oder braucht eine Verfassung, wird es helfen, die Legitimität unserer Regierung über das Volk von Puerto Rico in den Augen der internationalen Gemeinschaft zu festigen, sowie ermöglicht es uns, eine Reihe von Grundregeln zu etablieren, die alle Parteien haben von nun an zu folgen."
 PUE_first_election: "Erste Wahl in Puerto Rico"
@@ -261,13 +239,11 @@ PUE_limited_exports_desc: "Die Unionspartei hat einen etwas weniger aggressiven 
 PUE_command_economy: "Direkte wirtschaftliche Kontrolle"
 PUE_command_economy_desc: "Die PNPR hat argumentiert, dass unsere Regierung die volle Kontrolle über die wirtschaftlichen Exporte in unserer Nation übernehmen sollte, und mit der Unterstützung der Unionspartei scheint es wahrscheinlich, dass sie ihren Weg bekommen. Während die Cash-Crop-Produzenten den von Albizu eingebrachten Gesetzesentwurf beklagen, weisen andere, vielleicht zu Recht, darauf hin, dass dies die Insel möglicherweise zum Besseren verändern kann."
 PUE_land_reform: "Bodenreform"
-PUE_land_reform_desc: "Aufgrund der langjährigen Dominanz des spanischen und amerikanischen Kolonialismus wurde das Land von Puerto Rico im Allgemeinen von der Zuckerindustrie beherrscht. Um dies zu beheben, müssen wir beginnen, das Land vom großen Zucker an die Menschen in Puerto Rico umzuverteilen. Wir werden nicht mehr nur, wie die Amerikaner uns beschrieben haben, "eine Bergkette, die vollständig von Zuckerrohr umgeben ist", sondern ein Land der Menschen sein."
+PUE_land_reform_desc: "Aufgrund der langjährigen Dominanz des spanischen und amerikanischen Kolonialismus wurde das Land von Puerto Rico im Allgemeinen von der Zuckerindustrie beherrscht. Um dies zu beheben, müssen wir beginnen, das Land vom großen Zucker an die Menschen in Puerto Rico umzuverteilen. Wir werden nicht mehr nur, wie die Amerikaner uns beschrieben haben, \"eine Bergkette, die vollständig von Zuckerrohr umgeben ist\", sondern ein Land der Menschen sein."
 PUE_Operacion_manos_a_la_obra: "Operación Manos a La Obra"
 PUE_Operacion_manos_a_la_obra_desc: "Der größte Kummer der Insel ist die fehlende Industrialisierung, die einen großen Teil unserer Bevölkerung arbeitslos gemacht hat. Aber es gibt noch Hoffnung für uns. Der Präsident ist mit einem äußerst ehrgeizigen Plan in den Kongress gekommen, der von der Presse als Operation Manos a la Obra bezeichnet wird. Darin will er unsere Wirtschaft bis an die Grenzen treiben, um einen neuen Standard der Industrialisierung zu erreichen."
 
-############
-###Events###
-############
+### Events ###
 pue.1.t: "Puerto Ricanische Delegation trifft in Ottawa ein"
 pue.1.d: "Mit unserer Ergreifung von Puerto Rico von den Amerikanern, wurde eine puerto-ricanische Delegation eilig auf der Insel aus ehemaligen Mitgliedern der Legislative der Insel zusammengestellt. Angeführt von dem Liberalen Antonio Rafael Barceló, einem der größten Befürworter der puertoricanischen Unabhängigkeit außerhalb der Nationalisten, schlug die Delegation unserer Regierung vor, die Unabhängigkeit im Austausch für die Loyalität zur Entente zu erhalten. Während sich die Diskussion mit der Delegation hinzog, wurde deutlich, dass die Inselbewohner nichts anderes als die Unabhängigkeit akzeptieren werden, da eine Eingliederung in eine andere Nation ohne Regierungsbeteiligung, wie es mit den USA geschah, für die Einheimischen inakzeptabel wäre. Außerdem sorgte die Erwähnung gegenüber der Delegation, dass sie ein Teil der Westindischen Föderation werden könnten, für Empörung, da sie den Moyne-Report als Beweis dafür anführten, dass die Westindischen Inseln nicht in der Lage wären, Puerto Rico angemessen zu behandeln. Nachdem die Gespräche für den Tag beendet sind, bleibt die Frage: Was soll mit der Insel geschehen? Sie zu besetzen oder sie der Westindischen Föderation zu überlassen, wird die Einheimischen eindeutig verärgern, aber ihr die völlige Unabhängigkeit zu gewähren, könnte unsere Position in der Karibik schwächen, für den Fall, dass sie beschließen, uns nicht mehr helfen zu wollen..."
 pue.1.a: "Geben Sie die Insel an die Föderation."
@@ -524,12 +500,12 @@ pue.95.d: "In den letzten Jahren hatte sich auf der kleinen Insel Puerto Rico ei
 pue.95.a: "Akzeptiert Ihren Vorschlag."
 pue.95.b: "Lehnt ihren Vorschlag ab."
 
-pue.96.t: "[FROM.GetName] hat sich bereit erklärt, diplomatische Beziehungen zu knüpfen"
-pue.96.d: "Die [From.GetName]-Regierung hat sich bereit erklärt, einen Freundschaftsvertrag mit uns zu unterzeichnen, und erlaubt uns nun, unsere Botschaft in ihrer Nation einzurichten"
+pue.96.t: "[FROM.GetNameDefCap] hat sich bereit erklärt, diplomatische Beziehungen zu knüpfen"
+pue.96.d: "Die [From.GetAdjective]-Regierung hat sich bereit erklärt, einen Freundschaftsvertrag mit uns zu unterzeichnen, und erlaubt uns nun, unsere Botschaft in ihrer Nation einzurichten"
 pue.96.a: "Wunderbare Neuigkeiten!"
 
-pue.97.t: "[FROM.GetName] hat sich geweigert, diplomatische Beziehungen zu knüpfen"
-pue.97.d: "Die [From.GetName] Regierung hat sich geweigert, einen Freundschaftsvertrag mit uns zu unterzeichnen. Während dies im Großen und Ganzen nicht so schrecklich ist, ist es unbestreitbar, dass diese Ablehnungen langsam an unserer internationalen Legitimität nagen können."
+pue.97.t: "[FROM.GetNameDefCap] hat sich geweigert, diplomatische Beziehungen zu knüpfen"
+pue.97.d: "Die [From.GetAdjective] Regierung hat sich geweigert, einen Freundschaftsvertrag mit uns zu unterzeichnen. Während dies im Großen und Ganzen nicht so schrecklich ist, ist es unbestreitbar, dass diese Ablehnungen langsam an unserer internationalen Legitimität nagen können."
 pue.97.a: "Das ist eine Schande."
 
 pue.98.t: "Die puerto-ricanische Regierung fordert eine Bürgschaft"
@@ -537,13 +513,11 @@ pue.98.d: "Eine puerto-ricanische Delegation ist heute in unserer Hauptstadt ang
 pue.98.a: "Wir akzeptieren."
 pue.98.b: "Sie sind auf sich allein gestellt."
 
-pue.99.t: "[FROM.GetName] hat sich bereit erklärt, eine Garantie zu geben"
-pue.99.d: "Die [From.GetName] Regierung hat akzeptiert, uns eine Garantie zu geben. Sie werden zu uns stehen."
-pue.99.a: "Wunderbar."
+pue.99.t: "[FROM.GetNameDefCap] hat unsere Anfrage angenommen"
+pue.99.d: "Die [From.GetAdjective]-Regierung hat unser Ersuchen um eine Unabhängigkeitsgarantie angenommen und versprochen, in Zeiten von Krieg und Not an unserer Seite zu stehen."
 
-pue.102.t: "[FROM.GetName] hat sich geweigert, uns eine Garantie zu geben"
-pue.102.d: "Die [From.GetName]-Regierung hat sich geweigert, uns eine Garantie zu geben, trotz unserer besten Bemühungen, sie zu überzeugen. Wir sind leider auf uns allein gestellt."
-pue.102.a: "Verdammt!"
+pue.102.t: "[FROM.GetNameDefCap] hat unsere Anfrage abgelehnt"
+pue.102.d: "Die [From.GetAdjective]-Regierung hat sich geweigert, uns eine Garantie zu geben, trotz unserer besten Bemühungen, sie zu überzeugen. Wir sind leider auf uns allein gestellt."
 
 pue.100.t: "Die Royal Navy besetzt Puerto Rico"
 pue.100.d: "Nach der Eroberung Neuenglands machte sich die Royal Navy auf den Weg in die Karibik, um die Insel Puerto Rico einzunehmen. Während die örtliche Nationalgarde nicht über den Übernahmeversuch Kanadas informiert wurde, zog sie sich schnell zurück, als sie erkannte, dass sie keine Chance hatte, die Insel gegen die neuen Besatzer zu verteidigen. Während viele Amerikaner aus Puerto Rico auf das Festland zurückkehren, um im Bürgerkrieg zu kämpfen, haben sich andere entschieden, zu bleiben und uns ihre Treue zu schwören, im Austausch dafür, dass sie ihre Jobs behalten. Trotzdem ist unsere Kontrolle über die Karibik jetzt noch stärker."
@@ -598,7 +572,7 @@ pue.210.d: "Da viele in der PNPR mit unseren Idealen übereinstimmen, hat Jose e
 pue.210.a: "After all, what good is an anti-foreigner party without foreigners to fight?"
 
 pue.211.t: "Proteste gegen hohe Steuern"
-pue.211.d: "In Anlehnung an die Konzepte von Huey Long hat José Coll y Cuchí sein eigenes "Share the Wealth"-Programm gestartet, das den Reichtum gleichmäßig über das Land verteilen soll. Allerdings gibt es dabei, wie prognostiziert, ein Problem: Anders als in den Vereinigten Staaten gibt es in Puerto Rico im Allgemeinen keine große und überaus reiche Oberschicht, die über Vermögen verfügt, das umverteilt werden muss. Um dies zu beheben, hat unsere Regierung den reicheren Teilen der Bevölkerung hohe Steuern auferlegt, um das Versprechen zu erfüllen. Die neuen Steuern wurden jedoch nicht gut aufgenommen. Viele Puerto Ricaner aus der Mittelschicht sind auf die Straße gegangen, um gegen diese vermeintliche Reform des Wirtschaftssystems zu protestieren, aber Präsident Coll y Cuchí hat deutlich gemacht, dass er nicht von seinem Glauben an die "Share Our Wealth"-Programme abrücken wird und dass sie ungeachtet der Proteste fortgesetzt werden."
+pue.211.d: "In Anlehnung an die Konzepte von Huey Long hat José Coll y Cuchí sein eigenes \"Share the Wealth\"-Programm gestartet, das den Reichtum gleichmäßig über das Land verteilen soll. Allerdings gibt es dabei, wie prognostiziert, ein Problem: Anders als in den Vereinigten Staaten gibt es in Puerto Rico im Allgemeinen keine große und überaus reiche Oberschicht, die über Vermögen verfügt, das umverteilt werden muss. Um dies zu beheben, hat unsere Regierung den reicheren Teilen der Bevölkerung hohe Steuern auferlegt, um das Versprechen zu erfüllen. Die neuen Steuern wurden jedoch nicht gut aufgenommen. Viele Puerto Ricaner aus der Mittelschicht sind auf die Straße gegangen, um gegen diese vermeintliche Reform des Wirtschaftssystems zu protestieren, aber Präsident Coll y Cuchí hat deutlich gemacht, dass er nicht von seinem Glauben an die "Share Our Wealth"-Programme abrücken wird und dass sie ungeachtet der Proteste fortgesetzt werden."
 pue.211.a: "Das hört sich nicht gut an."
 
 pue.212.t: "Rafael Martínez Nadal ist verstorben"
@@ -616,70 +590,42 @@ pue.300.b: "Die Liberalen holen den Sieg!"
 pue.300.c: "Die Unionspartei erringt den Sieg!"
 pue.300.e: "Die Nationalisten sind siegreich!"
 
-pue.301.t: "Die Wahlen in Puerto Rico von [GetYear]"
-pue.301.d: "Nach Jahren der stabilen Herrschaft sind endlich Wahlen auf der Insel angekommen, wie es die Verfassung vorsieht. Als die Ergebnisse eintreffen, warten die Menschen gespannt auf den Ausgang..."
-pue.301.a: "Die PS gewinnt die Wahl!"
-pue.301.b: "Die Liberalen holen den Sieg!"
-pue.301.c: "Die Unionspartei erringt den Sieg!"
-pue.301.e: "Die Nationalisten sind siegreich!"
-
-##Ideas##
+### Ideas ###
 PUE_economic_disaster: "Wirtschaftliche Rezession"
-PUE_economic_disaster_desc: "Die Auswirkungen der Großen Depression von 1926 in der Wirtschaft der Vereinigten Staaten haben die junge puertoricanische Wirtschaft absolut verwüstet. Obwohl die ersten 30 Jahre der amerikanischen Besatzung von relativem Frieden und Stabilität geprägt waren, erlebte die Insel keine großen Verbesserungen ihrer Wirtschaft, da sie seit ihrer Zeit als spanische Holding stagnierte. Das Problem hat sich so sehr vergrößert, dass es zu einer weit verbreiteten Überzeugung geworden ist, dass die Insel jetzt unter amerikanischer Aufsicht ärmer ist als sie es als spanische Kolonie war. Mit einer Arbeitslosenrate, die nach vorsichtigen Schätzungen bis zu 65% beträgt, und den Preisen für Land und Wohnungen, die für den gewöhnlichen Puertoricaner immer weiter entfernt sind, ist es klar, dass große Anstrengungen unternommen werden müssen, um diese Situation zu ändern, und selbst wenn diese Anstrengungen unternommen werden, hat eine Abwanderung von der Insel begonnen, und es ist nicht abzusehen, ob der "puertoricanische Exodus" rechtzeitig gestoppt werden kann..."
+PUE_economic_disaster_desc_beginning: "Die Auswirkungen der Großen Depression von 1926 in der Wirtschaft der Vereinigten Staaten haben die junge puertoricanische Wirtschaft absolut verwüstet. Obwohl die ersten 30 Jahre der amerikanischen Besatzung von relativem Frieden und Stabilität geprägt waren, erlebte die Insel keine großen Verbesserungen ihrer Wirtschaft, da sie seit ihrer Zeit als spanische Holding stagnierte. Das Problem hat sich so sehr vergrößert, dass es zu einer weit verbreiteten Überzeugung geworden ist, dass die Insel jetzt unter amerikanischer Aufsicht ärmer ist als sie es als spanische Kolonie war."
+PUE_economic_disaster_desc: "$PUE_economic_disaster_desc_beginning$ Angesichts einer Arbeitslosenquote, die nach vorsichtigen Schätzungen auf bis zu 65 % ansteigt, und der Preise für Grundstücke und Wohnungen, die für den gewöhnlichen Puertoricaner immer unerschwinglicher werden, liegt es auf der Hand, dass große Anstrengungen unternommen werden müssen, um diese Situation zu ändern, und selbst wenn diese Anstrengungen unternommen werden, hat eine Abwanderung von der Insel begonnen, und es ist nicht abzusehen, ob der 'puertoricanische Exodus' noch rechtzeitig gestoppt werden kann..."
 PUE_economic_disaster2: "Wirtschaftliche Rezession"
-PUE_economic_disaster2_desc: "Die Auswirkungen der Großen Depression von 1926 in der Wirtschaft der Vereinigten Staaten haben die junge puertoricanische Wirtschaft absolut verwüstet. Obwohl die ersten 30 Jahre der amerikanischen Besatzung von relativem Frieden und Stabilität geprägt waren, erlebte die Insel keine großen Verbesserungen ihrer Wirtschaft, da sie seit ihrer Zeit als spanische Kolonie stagnierte. Das Problem hat sich so sehr vergrößert, dass es zu einer weit verbreiteten Überzeugung geworden ist, dass die Insel jetzt unter amerikanischer Aufsicht ärmer ist als sie es als spanische Kolonie war. Nach einigen anfänglichen Interventionen der Regierung ist die Arbeitslosenquote unter 55% gesunken und es wurden Obergrenzen für den Verkauf von Land festgelegt, um zu verhindern, dass Großgrundbesitzer zu hohe Preise für den Verkauf von Teilen ihrer Ländereien verlangen. Das ist zwar eine Verbesserung, aber es ist noch ein weiter Weg."
+PUE_economic_disaster2_desc: "$PUE_economic_disaster_desc_beginning$ Nach einigen anfänglichen Interventionen der Regierung ist die Arbeitslosenquote unter 55% gesunken und es wurden Obergrenzen für den Verkauf von Land festgelegt, um zu verhindern, dass Großgrundbesitzer zu hohe Preise für den Verkauf von Teilen ihrer Ländereien verlangen. Das ist zwar eine Verbesserung, aber es ist noch ein weiter Weg."
 PUE_economic_disaster3: "Wirtschaftliche Rezession"
-PUE_economic_disaster3_desc: "Die Auswirkungen der Großen Depression von 1926 in der Wirtschaft der Vereinigten Staaten haben die junge puertoricanische Wirtschaft absolut verwüstet. Obwohl die ersten 30 Jahre der amerikanischen Besatzung von relativem Frieden und Stabilität geprägt waren, erlebte die Insel keine großen Verbesserungen ihrer Wirtschaft, da sie seit ihrer Zeit als spanische Kolonie stagnierte. Das Problem hat sich so sehr vergrößert, dass es zu einer weit verbreiteten Überzeugung geworden ist, dass die Insel jetzt unter amerikanischer Aufsicht ärmer ist als sie es als spanische Kolonie war. Nach einigen anfänglichen Eingriffen der Regierung ist die Arbeitslosenquote unter 45% gesunken und es wurden verschiedene Maßnahmen ergriffen, um das Einkommen aller Puertoricaner zu erhöhen. Soziale Sicherheitsnetze werden allmählich aufgebaut, aber sie stecken noch in den Kinderschuhen, um die weit verbreitete Armut zu bekämpfen, die die Insel immer noch im Griff hat. Nichtsdestotrotz schätzen die Menschen die Bemühungen der Regierung, das Problem zu lösen, da es zumindest als ein Schritt in die richtige Richtung gesehen wird."
+PUE_economic_disaster3_desc: "$PUE_economic_disaster_desc_beginning$ Nach einigen anfänglichen Eingriffen der Regierung ist die Arbeitslosenquote unter 45% gesunken und es wurden verschiedene Maßnahmen ergriffen, um das Einkommen aller Puertoricaner zu erhöhen. Soziale Sicherheitsnetze werden allmählich aufgebaut, aber sie stecken noch in den Kinderschuhen, um die weit verbreitete Armut zu bekämpfen, die die Insel immer noch im Griff hat. Nichtsdestotrotz schätzen die Menschen die Bemühungen der Regierung, das Problem zu lösen, da es zumindest als ein Schritt in die richtige Richtung gesehen wird."
 PUE_economic_disaster4: "Puerto Ricanischer Exodus"
-PUE_economic_disaster4_desc: "Having introduced as many reforms as the Puerto Rican Economy could allow, production levels have finally returned to pre-crisis numbers. However, the population of Puerto Rico is still much larger than it used to be in the early twenties. As such, unemployment still remains solidly above 35%, and that is slowly but surely prompting many young Puerto Ricans to seek new fortune abroad. While it may be painful to see so many of our people flee due to economic circumstances, we have done what we could to help as many people as we could.Nachdem so viele Reformen eingeführt wurden, wie es die puertoricanische Wirtschaft zuließ, hat das Produktionsniveau endlich wieder die Zahlen von vor der Krise erreicht. Allerdings ist die Bevölkerung von Puerto Rico immer noch viel größer als in den frühen Zwanzigern. So liegt die Arbeitslosigkeit immer noch bei über 35 %, was viele junge Puertoricaner langsam aber sicher dazu veranlasst, ihr Glück im Ausland zu suchen. Auch wenn es schmerzlich ist, dass so viele unserer Leute aufgrund der wirtschaftlichen Umstände fliehen, haben wir getan, was wir konnten, um so vielen Menschen wie möglich zu helfen."
+PUE_economic_disaster4_desc: "Nachdem so viele Reformen durchgeführt wurden, wie es die puertoricanische Wirtschaft zuließ, hat das Produktionsniveau endlich wieder den Stand von vor der Krise erreicht. Die Bevölkerung von Puerto Rico ist jedoch immer noch viel größer als in den frühen Zwanzigern. So liegt die Arbeitslosigkeit nach wie vor bei über 35 %, was viele junge Puertoricaner langsam aber sicher dazu veranlasst, ihr Glück im Ausland zu suchen. Auch wenn es schmerzlich ist, dass so viele Menschen aus wirtschaftlichen Gründen fliehen müssen, haben wir getan, was wir konnten, um so vielen Menschen wie möglich zu helfen. Nachdem so viele Reformen eingeführt wurden, wie es die puertoricanische Wirtschaft zuließ, hat das Produktionsniveau endlich wieder die Zahlen von vor der Krise erreicht. Allerdings ist die Bevölkerung von Puerto Rico immer noch viel größer als in den frühen Zwanzigern. So liegt die Arbeitslosigkeit immer noch bei über 35 %, was viele junge Puertoricaner langsam aber sicher dazu veranlasst, ihr Glück im Ausland zu suchen. Auch wenn es schmerzlich ist, dass so viele unserer Leute aufgrund der wirtschaftlichen Umstände fliehen, haben wir getan, was wir konnten, um so vielen Menschen wie möglich zu helfen."
 PUE_anti_American_sentiment_1: "Antiamerikanische Stimmung"
-PUE_anti_American_sentiment_1_desc: "Seit der Annexion Puerto Ricos im Spanisch-Amerikanischen Krieg und dem Vertrag von Paris waren die Beziehungen zwischen Puerto Rico und den Amerikanern bestenfalls steinig. Ursprünglich sahen die Unabhängigkeitsbefürworter darin eine Chance, sich von dem weitgehend pro-spanischen Status quo zu lösen, aber mit der Zeit wurde klar, dass die Amerikaner nicht die Absicht hatten, der Insel ihre Unabhängigkeit zu gewähren. Seitdem haben sich die jahrzehntelangen Kämpfe der Unabhängigen und die Unterdrückung dieser Bewegungen durch die Amerikaner zu einer weit verbreiteten antiamerikanischen Bewegung entwickelt, die zwar in gemäßigteren Formen in den demokratischen Parteien existiert, sich aber auch zu gewalttätigeren Ideen in Parteien wie der PNPR entwickelt hat, die nun die Amerikaner als eine Kraft sehen, die um jeden Preis geschlagen werden muss. Wenn die Amerikaner keine Maßnahmen ergreifen, um diese Unruhen zu unterdrücken, könnte die Insel für die Union für immer verloren sein..."
+PUE_anti_American_sentiment_desc_beginning: "Seit der Annexion Puerto Ricos im Spanisch-Amerikanischen Krieg und dem Vertrag von Paris waren die Beziehungen zwischen Puerto Rico und den Amerikanern bestenfalls steinig. Ursprünglich sahen die Unabhängigkeitsbefürworter darin eine Chance, sich von dem weitgehend pro-spanischen Status quo zu lösen, aber mit der Zeit wurde klar, dass die Amerikaner nicht die Absicht hatten, der Insel ihre Unabhängigkeit zu gewähren. Seitdem haben sich die jahrzehntelangen Kämpfe der Unabhängigen und die Unterdrückung dieser Bewegungen durch die Amerikaner zu einer weit verbreiteten antiamerikanischen Bewegung entwickelt, die zwar in gemäßigteren Formen in den demokratischen Parteien existiert, sich aber auch zu gewalttätigeren Ideen in Parteien wie der PNPR entwickelt hat, die nun die Amerikaner als eine Kraft sehen, die um jeden Preis geschlagen werden muss."
+PUE_anti_American_sentiment_1_desc: "$PUE_anti_American_sentiment_desc_beginning$ Wenn die Amerikaner keine Maßnahmen ergreifen, um diese Unruhen zu unterdrücken, könnte die Insel für die Union für immer verloren sein..."
 PUE_anti_American_sentiment_2: "Antiamerikanische Stimmung"
-PUE_anti_American_sentiment_2_desc: "Seit der Annexion Puerto Ricos im Spanisch-Amerikanischen Krieg und dem Vertrag von Paris waren die Beziehungen zwischen Puerto Rico und den Amerikanern bestenfalls steinig. Ursprünglich sahen die Unabhängigkeitsbefürworter darin eine Chance, sich von dem weitgehend pro-spanischen Status quo zu lösen, aber mit der Zeit wurde klar, dass die Amerikaner nicht die Absicht hatten, der Insel ihre Unabhängigkeit zu gewähren. Seitdem haben sich die jahrzehntelangen Kämpfe der Unabhängigen und die Unterdrückung dieser Bewegungen durch die Amerikaner zu einer weit verbreiteten antiamerikanischen Bewegung entwickelt, die zwar in gemäßigteren Formen in den demokratischen Parteien existiert, sich aber auch zu gewalttätigeren Ideen in Parteien wie der PNPR entwickelt hat, die nun die Amerikaner als eine Kraft sehen, die um jeden Preis geschlagen werden muss. Während die amerikanische Regierung entschlossen gehandelt und die Verwaltung vor dem Schlimmsten bewahrt hat, ist es nur eine Frage der Zeit, bis die Nationalisten wieder Fuß fassen und ihre radikalen antiamerikanischen Ideen in der breiten Bevölkerung verbreiten..."
+PUE_anti_American_sentiment_2_desc: "$PUE_anti_American_sentiment_desc_beginning$ Während die amerikanische Regierung entschlossen gehandelt und die Verwaltung vor dem Schlimmsten bewahrt hat, ist es nur eine Frage der Zeit, bis die Nationalisten wieder Fuß fassen und ihre radikalen antiamerikanischen Ideen in der breiten Bevölkerung verbreiten..."
 PUE_anti_American_sentiment_3: "Antiamerikanische Stimmung"
-PUE_anti_American_sentiment_3_desc: "Seit der Annexion Puerto Ricos im Spanisch-Amerikanischen Krieg und dem Vertrag von Paris waren die Beziehungen zwischen Puerto Rico und den Amerikanern bestenfalls steinig. Ursprünglich sahen die Unabhängigkeitsbefürworter darin eine Chance, sich von dem weitgehend pro-spanischen Status quo zu lösen, aber mit der Zeit wurde klar, dass die Amerikaner nicht die Absicht hatten, der Insel ihre Unabhängigkeit zu gewähren. Seitdem haben sich die jahrzehntelangen Kämpfe der Unabhängigen und die Unterdrückung dieser Bewegungen durch die Amerikaner zu einer weit verbreiteten antiamerikanischen Bewegung entwickelt, die zwar in gemäßigteren Formen in den demokratischen Parteien existiert, sich aber auch zu gewalttätigeren Ideen in Parteien wie der PNPR entwickelt hat, die nun die Amerikaner als eine Kraft sehen, die um jeden Preis geschlagen werden muss. Da es den Amerikanern nicht gelungen ist, sich zu konsolidieren, wird die Insel nun immer weiter von der Idee abdriften, jemals wieder ein Unionsgebiet zu werden..."
+PUE_anti_American_sentiment_3_desc: "$PUE_anti_American_sentiment_desc_beginning$ Da es den Amerikanern nicht gelungen ist, sich zu konsolidieren, wird die Insel nun immer weiter von der Idee abdriften, jemals wieder ein Unionsgebiet zu werden..."
 PUE_agriculture_idea: "Landwirtschaftliches Exportmodell"
 PUE_agriculture_idea_desc: "Wie es offensichtlich ist, ist Puerto Rico keine Industrienation. Anstatt die Natur unserer Nation zu verleugnen, sollten wir sie stattdessen annehmen. Mit dem Geld, das wir durch den Verkauf von landwirtschaftlichen Produkten verdienen, können wir unsere Produktion langsam aber sicher von den anfälligen und volatilen Märkten für Zucker und Ananas weg und hin zu Märkten für die Leicht- und vielleicht sogar Schwerindustrie verlagern."
-PUE_agriculture_idea2: "Landwirtschaftliches Exportmodell"
-PUE_agriculture_idea2_desc: "Wie es offensichtlich ist, ist Puerto Rico keine Industrienation. Anstatt die Natur unserer Nation zu verleugnen, sollten wir sie stattdessen annehmen. Mit dem Geld, das wir durch den Verkauf von landwirtschaftlichen Produkten verdienen, können wir unsere Produktion langsam aber sicher von den anfälligen und volatilen Märkten für Zucker und Ananas weg und hin zu Märkten für die Leicht- und vielleicht sogar Schwerindustrie verlagern."
-PUE_agriculture_idea3: "Landwirtschaftliches Exportmodell"
-PUE_agriculture_idea3_desc: "Wie es offensichtlich ist, ist Puerto Rico keine Industrienation. Anstatt die Natur unserer Nation zu verleugnen, sollten wir sie stattdessen annehmen. Mit dem Geld, das wir durch den Verkauf von landwirtschaftlichen Produkten verdienen, können wir unsere Produktion langsam aber sicher von den anfälligen und volatilen Märkten für Zucker und Ananas weg und hin zu Märkten für die Leicht- und vielleicht sogar Schwerindustrie verlagern."
 PUE_industrial_idea: "Aggressive Autarky Programme"
 PUE_industrial_idea_desc: "Wie es offensichtlich ist, ist Puerto Rico keine Industrienation. Anstatt zu versuchen, das Problem zu ignorieren und zu hoffen, dass wir es auf lange Sicht beheben können, sollten wir stattdessen ein aggressives Industrialisierungsprogramm verfolgen. Das wird uns zwar kurzfristig schaden, aber es ist der einzige Weg, wie wir die Industrialisierung in einem akzeptablen Zeitrahmen erreichen können."
-PUE_industrial_idea2: "Aggressive Autarky Programme"
-PUE_industrial_idea2_desc: "Wie es offensichtlich ist, ist Puerto Rico keine Industrienation. Anstatt zu versuchen, das Problem zu ignorieren und zu hoffen, dass wir es auf lange Sicht beheben können, sollten wir stattdessen ein aggressives Industrialisierungsprogramm verfolgen. Das wird uns zwar kurzfristig schaden, aber es ist der einzige Weg, wie wir die Industrialisierung in einem akzeptablen Zeitrahmen erreichen können."
-PUE_idustrial_idea3: "Aggressive Autarky Programme"
-PUE_idustrial_idea3_desc: "Wie es offensichtlich ist, ist Puerto Rico keine Industrienation. Anstatt zu versuchen, das Problem zu ignorieren und zu hoffen, dass wir es auf lange Sicht beheben können, sollten wir stattdessen ein aggressives Industrialisierungsprogramm verfolgen. Das wird uns zwar kurzfristig schaden, aber es ist der einzige Weg, wie wir die Industrialisierung in einem akzeptablen Zeitrahmen erreichen können."
 PUE_trade_disruption: "Handelsabhängigkeit von den Vereinigten Staaten"
 PUE_trade_disruption_desc: "Da die Amerikaner sich weigern, einen Kompromiss zu erreichen, besitzen sie jetzt fast alle Handelsmittel in Puerto Rico. Keine Importe oder Exporte kommen rein oder raus von der Insel, ohne dass die Amerikaner ihren Anteil bekommen. Und obwohl wir bereits Maßnahmen ergreifen, um unsere eigene Handelsmarine zu entwickeln und die amerikanischen Unternehmen, die diesen Handel kontrollieren, loszuwerden, wird es noch Zeit brauchen."
 PUE_army_American: "Amerikanische Modellarmee"
 PUE_army_American_desc: "Die puertoricanische Nationalgarde, die nach dem Vorbild der amerikanischen Nationalgarde geformt wurde, ist die de-facto-Verteidigungskraft der Insel geworden. Auch wenn einige Unabhängigkeitsbefürworter beklagen mögen, dass wir jetzt, trotzdessen das wir unabhängig sind, in irgendeiner Beziehung zu den Amerikanern stehen, lässt sich nicht leugnen, dass die Expertise von General Esteves jetzt für die Verteidigung unserer Insel von größter Bedeutung ist, und als solche sollen seine Reformen vollständig umgesetzt werden."
-PUE_army_American2: "Amerikanische Modellarmee"
-PUE_army_American2_desc: "Die puertoricanische Nationalgarde, die nach dem Vorbild der amerikanischen Nationalgarde geformt wurde, ist die de-facto-Verteidigungskraft der Insel geworden. Auch wenn einige Unabhängigkeitsbefürworter beklagen mögen, dass wir jetzt, trotzdessen das wir unabhängig sind, in irgendeiner Beziehung zu den Amerikanern stehen, lässt sich nicht leugnen, dass die Expertise von General Esteves jetzt für die Verteidigung unserer Insel von größter Bedeutung ist, und als solche sollen seine Reformen vollständig umgesetzt werden."
-PUE_army_American3: "Amerikanische Modellarmee"
-PUE_army_American3_desc: "Die puertoricanische Nationalgarde, die nach dem Vorbild der amerikanischen Nationalgarde geformt wurde, ist die de-facto-Verteidigungskraft der Insel geworden. Auch wenn einige Unabhängigkeitsbefürworter beklagen mögen, dass wir jetzt, trotzdessen das wir unabhängig sind, in irgendeiner Beziehung zu den Amerikanern stehen, lässt sich nicht leugnen, dass die Expertise von General Esteves jetzt für die Verteidigung unserer Insel von größter Bedeutung ist, und als solche sollen seine Reformen vollständig umgesetzt werden."
-PUE_army_American4: "Amerikanische Modellarmee"
-PUE_army_American4_desc: "Die puertoricanische Nationalgarde, die nach dem Vorbild der amerikanischen Nationalgarde geformt wurde, ist die de-facto-Verteidigungskraft der Insel geworden. Auch wenn einige Unabhängigkeitsbefürworter beklagen mögen, dass wir jetzt, trotzdessen das wir unabhängig sind, in irgendeiner Beziehung zu den Amerikanern stehen, lässt sich nicht leugnen, dass die Expertise von General Esteves jetzt für die Verteidigung unserer Insel von größter Bedeutung ist, und als solche sollen seine Reformen vollständig umgesetzt werden."
 PUE_army_self_defense: "Ejercito de Puerto Rico"
-PUE_army_self_defense_desc: "Die Kadetten der Republik haben ihr ultimatives Ziel erreicht, indem sie die Armee von Puerto Rico wurden. Die Organisation, die als kleine Universitätsgruppe namens Patriotas Jovenes (Junge Patrioten) begann, wurde in Kadetten der Republik umbenannt, nachdem sich die gesamte Organisation den nationalistischen Reihen anschloss und Albizu als ihr Kommandant eingesetzt wurde. Während es bei den Kadetten im Allgemeinen mehr um Moral und Zahlen als um fein abgestimmte Strategien geht, macht die militärische Ausbildung, die Albizu erhalten hat, die Truppe sich ihrer eigenen Schwäche bewusst. Ob das bedeutet, dass sie sie verbessern werden oder nicht, bleibt abzuwarten..."
-PUE_army_self_defense2: "Ejercito de Puerto Rico"
-PUE_army_self_defense2_desc: "Die Kadetten der Republik haben ihr ultimatives Ziel erreicht, indem sie die Armee von Puerto Rico wurden. Die Organisation, die als kleine Universitätsgruppe namens Patriotas Jovenes (Junge Patrioten) begann, wurde in Kadetten der Republik umbenannt, nachdem sich die gesamte Organisation den nationalistischen Reihen anschloss und Albizu als ihr Kommandant eingesetzt wurde. Während es bei den Kadetten im Allgemeinen mehr um Moral und Zahlen als um fein abgestimmte Strategien geht, macht die militärische Ausbildung, die Albizu erhalten hat, die Truppe sich ihrer eigenen Schwäche bewusst. Ob das bedeutet, dass sie sie verbessern werden oder nicht, bleibt abzuwarten..."
-PUE_army_self_defense3: "Ejercito de Puerto Rico"
-PUE_army_self_defense3_desc: "Die Kadetten der Republik haben ihr ultimatives Ziel erreicht, indem sie die Armee von Puerto Rico wurden. Die Organisation, die als kleine Universitätsgruppe namens Patriotas Jovenes (Junge Patrioten) begann, wurde in Kadetten der Republik umbenannt, nachdem sich die gesamte Organisation den nationalistischen Reihen anschloss und Albizu als ihr Kommandant eingesetzt wurde. Während es bei den Kadetten im Allgemeinen mehr um Moral und Zahlen als um fein abgestimmte Strategien geht, macht die militärische Ausbildung, die Albizu erhalten hat, die Truppe sich ihrer eigenen Schwäche bewusst. Ob das bedeutet, dass sie sie verbessern werden oder nicht, bleibt abzuwarten..."
+PUE_army_self_defense_desc_beginning: "Die Kadetten der Republik haben ihr ultimatives Ziel erreicht, indem sie die Armee von Puerto Rico wurden. Die Organisation, die als kleine Universitätsgruppe namens Patriotas Jovenes (Junge Patrioten) begann, wurde in Kadetten der Republik umbenannt, nachdem sich die gesamte Organisation den nationalistischen Reihen anschloss und Albizu als ihr Kommandant eingesetzt wurde. Während es bei den Kadetten im Allgemeinen mehr um Moral und Zahlen als um fein abgestimmte Strategien geht, macht die militärische Ausbildung, die Albizu erhalten hat, die Truppe sich ihrer eigenen Schwäche bewusst."
+PUE_army_self_defense_desc: "$PUE_army_self_defense_desc_beginning$ Ob das bedeutet, dass sie sie verbessern werden oder nicht, bleibt abzuwarten..."
 PUE_army_self_defense4: "Ejercito de Puerto Rico"
-PUE_army_self_defense4_desc: "Die Kadetten der Republik haben ihr ultimatives Ziel erreicht, indem sie die Armee von Puerto Rico wurden. Die Organisation, die als kleine Universitätsgruppe namens Patriotas Jovenes (Junge Patrioten) begann, wurde in Kadetten der Republik umbenannt, nachdem sich die gesamte Organisation den nationalistischen Reihen anschloss und Albizu als ihr Kommandant eingesetzt wurde. Während es bei den Kadetten im Allgemeinen mehr um Moral und Zahlen als um fein abgestimmte Strategien geht, macht die militärische Ausbildung, die Albizu erhalten hat, die Truppe sich ihrer eigenen Schwäche bewusst. Nach mehreren Reformen haben wir unsere Armee so gut gemacht, wie es ihre institutionellen Unzulänglichkeiten zulassen."
+PUE_army_self_defense4_desc: "$PUE_army_self_defense_desc_beginning$ Nach mehreren Reformen haben wir unsere Armee so gut gemacht, wie es ihre institutionellen Unzulänglichkeiten zulassen."
 PUE_share_the_wealth_idea: "Share the Wealth"
 PUE_share_the_wealth_idea_desc: "Weitgehend den Ideen von Huey Longs Share the Wealth-Programm folgend, hat Jose Coll y Cuchi eine Reihe von Einkommenssteuerreformen mit Subventionen für die Landbevölkerung in Puerto Rico verabschiedet. Während die Leistungen aus diesem Programm noch gering sind, wird die Zeit zeigen, ob dieser Ansatz der puertoricanischen Bevölkerung tatsächlich helfen wird, sich aus der scheinbar bitteren Armut zu befreien."
-PUE_share_the_wealth_idea2: "Share the Wealth"
-PUE_share_the_wealth_idea2_desc: "Weitgehend den Ideen von Huey Longs Share the Wealth-Programm folgend, hat Jose Coll y Cuchi eine Reihe von Einkommenssteuerreformen mit Subventionen für die Landbevölkerung in Puerto Rico verabschiedet. Während die Leistungen aus diesem Programm noch gering sind, wird die Zeit zeigen, ob dieser Ansatz der puertoricanischen Bevölkerung tatsächlich helfen wird, sich aus der scheinbar bitteren Armut zu befreien."
 PUE_grito_de_lares_idea: "Zweiter Grito de Lares"
 PUE_grito_de_lares_idea_desc: "Vor mehr als 60 Jahren starteten Ramon Emeterio Betances und Segundo Ruiz Belvis ihren Aufstand gegen die Spanier in der Hoffnung, die Unabhängigkeit der Insel zu erreichen. Allein gegen das spanische Imperium, wurden sie leider besiegt. Aber ihr Opfer für die puertoricanische Unabhängigkeit dient den Nationalisten als Beispiel, und da die Unabhängigkeit kurz bevorsteht, ist es wieder einmal an der Zeit, dass sich das puertoricanische Volk gegen seine Unterdrücker erhebt und für seine Freiheit kämpft."
 PUE_peoples_militias_idea: "Volksmilizen"
 PUE_peoples_militias_idea_desc: "Während die Kadetten selbst eine organisierte Kampftruppe sind, hat die plötzliche Flut von Freiwilligen, die sich dem Kampf für die Unabhängigkeit anschließen, sowie ein Mangel an interner Organisation zur Bildung von improvisierten Milizen geführt, die zwar unsere Reihen verstärken, denen aber die richtige Disziplin fehlt, um den Kampf in vollem Umfang durchzuführen."
-PUE_peoples_militias_idea2: "Volksmilizen"
-PUE_peoples_militias_idea2_desc: "Während die Kadetten selbst eine organisierte Kampftruppe sind, hat die plötzliche Flut von Freiwilligen, die sich dem Kampf für die Unabhängigkeit anschließen, sowie ein Mangel an interner Organisation zur Bildung von improvisierten Milizen geführt, die zwar unsere Reihen verstärken, denen aber die richtige Disziplin fehlt, um den Kampf in vollem Umfang durchzuführen."
-PUE_peoples_militias_idea3: "Volksmilizen"
-PUE_peoples_militias_idea3_desc: "Während die Kadetten selbst eine organisierte Kampftruppe sind, hat die plötzliche Flut von Freiwilligen, die sich dem Kampf für die Unabhängigkeit anschließen, sowie ein Mangel an interner Organisation zur Bildung von improvisierten Milizen geführt, die zwar unsere Reihen verstärken, denen aber die richtige Disziplin fehlt, um den Kampf in vollem Umfang durchzuführen."
 PUE_for_free_pr_idea: "Für ein freies Puerto Rico!"
 PUE_for_free_pr_idea_desc: "Jeder Mann, jede Frau und jedes Kind wird tun müssen, was immer nötig ist, damit unsere Insel frei von Invasoren ist! Der Sieg ist gleich um die Ecke! Wir müssen nur noch ein bißchen länger durchhalten..."
 PUE_election_fever: "Wahlkampf-Fieber"
@@ -693,12 +639,6 @@ PUE_industrial_education_idea2: "Industrialisierung der Nation"
 PUE_labour_friendly_government_idea: "Arbeiterfreundliche Regierung"
 PUE_land_reform_idea: "Bodenreform"
 PUE_nationalist_idea: "Das wiedergeborene Puerto Rico"
-PUE_nationalist_idea_left_1: "Das wiedergeborene Puerto Rico"
-PUE_nationalist_idea_left_2: "Das wiedergeborene Puerto Rico"
-PUE_nationalist_idea_left_3: "Das wiedergeborene Puerto Rico"
-PUE_nationalist_idea_right_1: "Das wiedergeborene Puerto Rico"
-PUE_nationalist_idea_right_2: "Das wiedergeborene Puerto Rico"
-PUE_nationalist_idea_right_3: "Das wiedergeborene Puerto Rico"
 PUE_navy_convoys: "Marinekonvois"
 
 #Cosmetic Tag
@@ -707,13 +647,10 @@ PUE_ADJ: "Puerto Ricanisch"
 PUE_DEF: "Puerto Rico"
  
 PUE_totalist: "Puerto Ricanische Kommune"
-PUE_totalist_ADJ: "Puerto Ricanisch"
 PUE_totalist_DEF: "die Puerto Ricanische Kommune"
 PUE_syndicalist: "Puerto Ricanische Kommune"
-PUE_syndicalist_ADJ: "Puerto Ricanisch"
 PUE_syndicalist_DEF: "die Puerto Ricanische Kommune"
 PUE_radical_socialist: "Puerto Ricanische Kommune"
-PUE_radical_socialist_ADJ: "Puerto Ricanisch"
 PUE_radical_socialist_DEF: "die Puerto Ricanische Kommune"
 
 ### Characters ###

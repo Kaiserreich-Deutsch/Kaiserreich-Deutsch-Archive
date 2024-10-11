@@ -1,6 +1,6 @@
 ﻿l_german:
 
-##Übersetzt von Thylon##
+## Übersetzt von Thylon ##
 
 ### Country Names ###
 PRE: "Preußen"
@@ -16,6 +16,41 @@ PRE_syndicalist_DEF: "die Ostdeutsche Union"
 PRE_radical_socialist: "Ostdeutsche Union"
 PRE_radical_socialist_ADJ: "Ostdeutsch"
 PRE_radical_socialist_DEF: "die Ostdeutsche Union"
+
+PRE_north_germany: "Norddeutschland"
+PRE_north_germany_ADJ: "Norddeutsch"
+PRE_north_germany_DEF: "Norddeutschland"
+
+PRE_north_germany_totalist: "Norddeutsche Union"
+PRE_north_germany_totalist_ADJ: "Norddeutsch"
+PRE_north_germany_totalist_DEF: "die Norddeutsche Union"
+PRE_north_germany_syndicalist: "Norddeutsche Union"
+PRE_north_germany_syndicalist_ADJ: "Norddeutsch"
+PRE_north_germany_syndicalist_DEF: "die Norddeutsche Union"
+PRE_north_germany_radical_socialist: "Norddeutsche Union"
+PRE_north_germany_radical_socialist_ADJ: "Norddeutsch"
+PRE_north_germany_radical_socialist_DEF: "die Norddeutsche Union"
+PRE_north_germany_social_democrat: "Norddeutscher Bund"
+PRE_north_germany_social_democrat_ADJ: "Norddeutsch"
+PRE_north_germany_social_democrat_DEF: "der Norddeutscher Bund"
+PRE_north_germany_social_liberal: "Norddeutscher Bund"
+PRE_north_germany_social_liberal_ADJ: "Norddeutsch"
+PRE_north_germany_social_liberal_DEF: "der Norddeutscher Bund"
+PRE_north_germany_market_liberal: "Norddeutscher Bund"
+PRE_north_germany_market_liberal_ADJ: "Norddeutsch"
+PRE_north_germany_market_liberal_DEF: "der Norddeutscher Bund"
+PRE_north_germany_social_conservative: "Norddeutscher Bund"
+PRE_north_germany_social_conservative_ADJ: "Norddeutsch"
+PRE_north_germany_social_conservative_DEF: "der Norddeutscher Bund"
+PRE_north_germany_authoritarian_democrat: "Norddeutscher Bund"
+PRE_north_germany_authoritarian_democrat_ADJ: "Norddeutsch"
+PRE_north_germany_authoritarian_democrat_DEF: "der Norddeutscher Bund"
+PRE_north_germany_paternal_autocrat: "Norddeutscher Bund"
+PRE_north_germany_paternal_autocrat_ADJ: "Norddeutsch"
+PRE_north_germany_paternal_autocrat_DEF: "der Norddeutscher Bund"
+PRE_north_germany_national_populist: "Norddeutscher Bund"
+PRE_north_germany_national_populist_ADJ: "Norddeutsch"
+PRE_north_germany_national_populist_DEF: "der Norddeutscher Bund"
 
 ### Parties ###
 PRE_totalist_party: "KAPD"

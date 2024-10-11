@@ -8,13 +8,10 @@ TEX_focus: "Schwerpunktbaum von Amerikanische Unions Staaten"
  TEX_DEF: "Amerika"
 
  TEX_authoritarian_democrat: "Amerikanische Unionsstaaten"
- TEX_authoritarian_democrat_ADJ: "Amerikanisch"
  TEX_authoritarian_democrat_DEF: "die Amerikanische Unionsstaaten"
  TEX_paternal_autocrat: "Amerikanische Unionsstaaten"
- TEX_paternal_autocrat_ADJ: "Amerikanisch"
  TEX_paternal_autocrat_DEF: "die Amerikanische Unionsstaaten"
  TEX_national_populist: "Amerikanische Unionsstaaten"
- TEX_national_populist_ADJ: "Amerikanisch"
  TEX_national_populist_DEF: "die Amerikanische Unionsstaaten"
 
  TEX_ACW: "Amerikanische Unionsstaaten"
@@ -70,7 +67,6 @@ TEX_minutemen_idea: "Minutemen"
  TEX_share_the_wealth_lingering_costs: "Den Reichtum teilen Verbleibende Kosten"
 
 TEX_cointelpro_idea: "COINTELPRO"
-TEX_the_black_chamber_idea: "Die Schwarze Kammer"
 TEX_capitalist_education_idea: "Das ESMWT-Programm"
 TEX_the_american_legion_idea: "Die Amerikanische Legion"
 USA_boy_scouts_idea: "Pfadfinder"
@@ -134,14 +130,7 @@ TEX_ACTS: "Taktische Schule des Fliegerkorps"
 TEX_ACTS_desc: "Ein neuer Flugplatz wurde für die Ausbildung einer neuen Ära amerikanischer Piloten reserviert."
 
 ### Tooltips ###
-TEX_anti_syndicalist_pact_tooltip: "Wir werden versuchen, uns der Internationale zu widersetzen\n"
 TEX_fight_terrorists_tooltip: "§GWir werden Verräter ausrotten und Terroristen vernichten!§!\n"
-TEX_unlock_bomber_1: "Dieser Fokus wird den §HB-23 Dragon Tactical Bomber§ freischalten!"
-TEX_unlock_bomber_2: "Dieser Fokus wird den §HB-25 Mitchell Tactical Bomber§ freischalten!"
-TEX_unlock_CAS: "Dieser Fokus wird das §HA-24 Banshee Luftunterstützungsflugzeug§ freischalten!"
-TEX_unlock_strat_bomber: "Dieser Fokus wird den §HB-24 Liberator Strategic Bomber§ freischalten!"
-TEX_unlock_heavy_fighter_1: "Dieser Fokus wird den §HP-38 Lightning Schwerer Jäger§ freischalten!"
-TEX_unlock_heavy_fighter_2: "Dieser Fokus wird den §HP-47 Thunderbolt Schweren Jäger§ freischalten!"
 
  TEX_if_national_recovery_completed: "Wenn §H$TEX_national_recovery$§! abgeschlossen wurde:"
  TEX_if_military_industrial_complex_completed: "Wenn §H$TEX_militärisch_industrieller_Komplex$§! abgeschlossen wurde:"
@@ -162,7 +151,6 @@ TEX_unlock_heavy_fighter_2: "Dieser Fokus wird den §HP-47 Thunderbolt Schweren 
 TEX_manifest_destiny_decisions: "Amerikas offenkundiges Schicksal"
 TEX_manifest_destiny_decisions_desc: "Es ist unser rechtmäßiger Platz, um über ganz Nordamerika zu herrschen, die herausragende Nation der Neuen Welt zu sein und ihre Freiheit von den dekadenten Kolonialisten der Alten Welt zu verteidigen."
 
-TEX_defend_new_world: "Attack [From.GetNameDef]"
 TEX_can_attack_syndicalist: "§CSyndikalistische Länder in Nord- und Südamerika können jetzt angegriffen werden§!"
 TEX_join_germany: "Treten Sie dem Reichspakt bei"
 
@@ -171,7 +159,7 @@ TEX_deal_with_terrorists_decisions_desc: "Jetzt, da der Bürgerkrieg vorbei ist,
 TEX_fight_socialist_terrorists: "Bekämpfe sozialistische Terroristen"
 TEX_fight_federalist_terrorists: "Föderalistische Terroristen bekämpfen"
 
-### Intro localization ###
+### Intro Screen ###
  TEX_guide: "§MHuey Long für den armen Mann / Zusammenarbeit mit den etablierten Parteien§! (§NNational Populistisch§! / §gAutoritär Demokratisch§!)\n£white_dot Wählen Sie beim Termin bei der Amerikanischen Legion Fox Corner.\n£white_dot In der Sondersitzung des Kongresses, lassen Sie den Gesetzentwurf zu gehen §NNational Populistisch§!\n£white_dot Oder ein Veto gegen die §gAutoritär Demokraten§! einlegen.\n\n§MDer Geschäftsplan§! (§PPaternal Autokrat§!)\n£white_dot Bei der Ernennung durch die Amerikanischen Legion wählen Sie George Moseley.\n£white_dot Die Wahl in der Sondersitzung des Kongresses spielt keine Rolle.\n£white_dot Das Kriegsbefugniskomitee und George Van Horn Moseley werden nach Longs Verschwinden an die Macht kommen.\n\n§MA Hüter der Republik§! (§gAutoritär Demokratisch§!)\n£white_dot bei der Ernennung durch die Amerikanische Legion, Robert Elkington Wood wählen.\n£white_dot In der Sondersitzung des Kongresses soll das Gesetz verabschiedet werden.\n£white_dot Der Antisozialist Martin Dies wird der neue Präsident werden.\n\n§MAußenpolitik§!\n §MManifeste Bestimmung§!\n£white_dot Wir werden Kriegsziele für Mexiko und Kanada erhalten und beschließen, allen sozialistischen Ländern in Amerika den Krieg zu erklären.\n §MIns Getümmel stürzen§!\n£white_dot Gewinnen Sie den Bürgerkrieg und lassen Sie Huey Long nicht der Anführer sein. Wir werden in der Lage sein, der Entente oder dem Reichspakt beizutreten und haben die Entscheidung, Japan, den Führer der Dritten Internationale, Deutschland und Russland anzugreifen.\n §MFestung Amerika§!\n£white_dot Gewinnen Sie den Bürgerkrieg, und lassen Sie nicht zu, dass es zu einem Wirtschaftskrieg kommt. Wir werden uns nicht an einem Krieg beteiligen und uns auf den Frieden konzentrieren."
 
 ### Huey Long Path ###
@@ -246,9 +234,6 @@ TEX_every_man_a_king_desc: "Was als Traum begann und aus einem Motivationsbuch v
 
  TEX_the_american_progress: "Der Amerikanische Fortschritt"
  TEX_the_american_progress_desc: "Um die Herzen und Köpfe des amerikanischen Volkes zu gewinnen, müssen wir sicher sein, dass sie ständig von unseren großen Plänen hören, um sie zu erheben. Der Amerikanische Fortschritt schafft eine Bundesbehörde für Radio- und Fernsehübertragungen. Die Vorschriften verlangen von den Sendern, dass sie im Notfall Sendezeit für die Regierung zur Verfügung stellen und über zukünftige Siege berichten."
-
- #TEX_institute_inheritance_limits: "Erbschaften abschaffen"
- #TEX_institute_inheritance_limits_desc: "Es ist an der Zeit, dass die Reichen, die dazu beigetragen haben, Amerika in den Bürgerkrieg zu stürzen, zur Kasse gebeten werden. Niemand darf mehr als das 300-fache seines Jahreseinkommens anhäufen. Die Einkommen werden auf 1 Million Dollar und die Erbschaften auf 5,1 Millionen Dollar begrenzt. Präsident Long wird den Zeitungen, die ihn kritisiert haben, das Gegenteil beweisen."
 
 ### George Van Horn Moseley Path ###
 TEX_the_business_plot: "Die Geschäftsverschwörung"
@@ -377,54 +362,7 @@ TEX_create_esmwt_desc: "Während wir Forschungslabore und Denkfabriken im ganzen
 TEX_reconstruction_is_over: "Der Wiederaufbau ist vorbei"
 TEX_reconstruction_is_over_desc: "Der Verlauf des Wiederaufbaus hat die wahre ideologische Grundlage dafür aufgezeigt, warum Hoover die Wirtschaft nicht reparieren konnte. Die klügeren Bestandteile dieser Schaumschläger haben sie inzwischen weitgehend aussortiert, da das BIP und der amerikanische Lebensstandard steigt und sogar das Vorkriegsniveau übersteigt."
 
-###################################
-### Army Path ################Old##
-###################################
-#TEX_fight_for_america: "Fight for America"
-#TEX_fight_for_america_desc: "Seizing the military installations of our allied Generals won't be enough to prevent MacArthur's War. A War Plan must be rapidly drawn up and executed in the event of both a short and protracted war."
-#TEX_military_industry: "Military Industry"
-#TEX_military_industry_desc: "The main trouble with creating a military industry is that facilities under our control were already reduced from the Great Depression to reduce redundancies. We have had to expand facilities and re purpose old buildings in order to manufacture parts needed for heavy weapons in our territory."
-#TEX_new_army_doctrines: "New Army Doctrines"
-#TEX_new_army_doctrines_desc: "A meeting of our ramshackle Chief of Staff and Generals have decided upon a course of wartime research. Although it will be expensive to devise and test new battle plans while we are already at war, the greatest struggle demands the strongest wills."
-#TEX_expand_national_guard: "Expand National Guard"
-#TEX_expand_national_guard_desc: "Much of the National Guard within our territory has willingly taken up arms for our side. The National Guard shall be temporarily reorganized to fill roles in the Army, where they can protect true Americans in the cities and town we liberate."
-#TEX_we_can_do_it: "We Can Do It"
-#TEX_we_can_do_it_desc: "Positivism is one tool of motivation the president has taught us. Several of our harsher generals have reluctantly allowed positivist pamphlets and entertainment into the barracks. Decades of derision in American soldiers melts away when told that every soldier can be a hero."
-#TEX_trained_officers: "Trained Officers"
-#TEX_trained_officers_desc: "We have made the bold decision to train Officers in the hostile swampland of Parris Island. Classrooms may not be as well-equipped as West Point, but our officers will receive an education in hard knocks that will prove America's worth more than its refinement."
-#TEX_new_training: "New Weapons"
-#TEX_new_training_desc: "Our storage of prototype firearms from the 1919 trials have been recovered and are being generously donated to manufacturers. We must be able to at least match designs with that the Federal Army has already considered in the past."
-#TEX_support_brigades: "Support Brigades"
-#TEX_support_brigades_desc: "We are finally able to provide enough infrastructure and planning to provide Combat Support Brigades in the field. Through coordinating our intelligence network with scouting and surveillance systems, we are able to ensure that non-combat elements in battle are accounted for and able to complete their tasks."
-#TEX_shock_and_awe: "Shock and Awe"
-#TEX_shock_and_awe_desc: "Trench warfare on the American continent can be brutal. We know from experience that fighting in Appalachia is biased towards the defender. Despite our better nature, we must employ the heaviest artillery shells in order to force our enemies to retreat."
-#TEX_womens_land_army: "Women's Land Army"
-#TEX_womens_land_army_desc: "The political backlash against us adopting a WAC type program for women was interesting. Our enemies have already shown strong success in women codebreaker, auxiliary forces and industrial technicians. Public opinion should be ignored in this case."
-#TEX_increased_weapons_production: "Increased Weapons Production"
-#TEX_increased_weapons_production_desc: "An independent report published in the Houston Chronicle exposed poor working conditions as well as managers receiving kickbacks for underperforming. This is intolerable as loyalty to American values of hard work and rewarding wages is demanded."
-#TEX_rouse_the_people: "Rouse the People"
-#TEX_rouse_the_people_desc: "Recruitment is plateaued due to a limit on how far our propaganda covers. Depicting only white solders and white male auxiliaries in ease is deceptive. Perhaps a more realistic depiction of military life will bring forth truer enthusiasm?"
-#TEX_defend_america: "Defend America"
-#TEX_defend_america_desc: "We are now comfortable in our Army's position to defend America. Our Minutemen were the gateway to a stronger and more unified armed force to protect America."
-
-### Air Force Path ###
-#TEX_air_force: "American Air Force"
-#TEX_air_force_desc: "Since that first fateful flight in Kitty Hawk field, the South has been unfairly isolated. We intend rectify this through a distinguished and sovereign Air Force that will operate outside of the Navy or Army's control."
-#TEX_aviation_industry: "Aviation Industry"
-#TEX_aviation_industry_desc: "The Aviation Industry is now free to seek contracts outside of the reach of the other two branches of military. The industry is now free to grow as they see fit."
-#TEX_pilot_training: "Pilot Training"
-#TEX_pilot_training_desc: "Charles Lindbergh has offered to train pilots in long distance flight techniques and evasive manoeuvres he has learned in his civilian service. Our pilots will be part of the great American Flying Circus."
-#TEX_air_ports: "Expand Air Ports"
-#TEX_air_ports_desc: "We must ensure our strongholds can properly transport goods over hostile land. Airports and runways will enable us to be more connected."
-#TEX_air_supremacy: "Air Supremacy"
-#TEX_air_supremacy_desc: "The battle for the skies is fierce. We must promote vertical envelopment doctrine in order to protect our CAS and bombers."
-#TEX_anti_air_power: "Anti-Air Development"
-#TEX_anti_air_power_desc: "The threat of invasion from sea must not end with detection. Anti-Air weapons must be deployed at strategic areas to ensure we are prepared against syndicalist invasion."
-
-###################################
-### Army Path ################New##
-###################################
-
+### Army Path ###
 TEX_From_a_Militia_to_a_force: "Von einer Miliz zur Kampftruppe"
 TEX_From_a_Militia_to_a_force_desc: "Bisher waren die einzigen Kräfte, die Kingfish befehligt hat, kleine Milizen in städtischen Gebieten. Mit dem Beginn des Bürgerkriegs sind viele Generäle und Armeegruppen "desertiert", um sich der wirklichen amerikanischen Regierung anzuschließen, und die Anpassung unserer früheren Streitkräfte und unserer Hierarchie an diese Neuankömmlinge sollte unsere Priorität sein."
 TEX_Patton_Plan: "Patton Reform Plan"
@@ -492,9 +430,7 @@ TEX_top_of_the_line_artillery_desc: "Leichtere Leistung, stärkere Hüllen und n
 TEX_coordinated_fire: "Koordiniertes Feuer"
 TEX_coordinated_fire_desc: "Vorbei sind die Zeiten, in denen Artillerieschüsse nach Ihren Befehlen rhythmisch getaktet wurden. Ein besseres menschliches Bewegungssystem, das Bewegung zeitlich begrenzt, wird uns in die Lage versetzen, das Feuer nach einem notwendigen Zeitplan zu koordinieren."
 
-#############
-##Air Force##
-#############
+### Air Force ###
 TEX_air_force_reform: "Bildung einer amerikanischen Luftwaffe"
 TEX_air_force_reform_desc: "Da die seit fast zwei Jahrzehnten andauernde Debatte in der US-Armee immer noch andauert, haben uns die zu uns übergelaufenen Offiziere des Luftkorps große Ergebnisse versprochen, wenn wir den Luftwaffenzweig von der Armee trennen würden. Mit dem Segen der Kingfish soll die patriotische US-Luftwaffe gebildet werden, und sie wird über ihre zukünftigen Pläne entscheiden müssen."
 TEX_expand_ACTS: "Erweiterung der taktischen Schule des Fliegerkorps"
@@ -831,12 +767,7 @@ unionstate.72.a: "Eine schlechte Entscheidung ihrerseits"
 
 unionstate.73.t: "[From.GetNameDefCap] möchte dem Reichspakt beitreten"
 unionstate.73.d: "[From.GetNameDefCap], haben einen Botschafter geschickt, um sich mit dem Kaiser und dem Kanzler zu treffen, um [From.GetNameDefCap] in den Reichspakt zu bringen. Sollten wir das Angebot der Amerikaner akzeptieren?"
-unionstate.73.a: "Na sicher! Wir begrüßen sie"
-unionstate.73.b: "Wir brauchen sie nicht"
-
-unionstate.74.t: "[From.GetNameDefCap] lehnt das Angebot ab"
-unionstate.74.d: "Die [From.GetAdjective]-Regierung hat unsere Anfrage abgelehnt, ihrer Allianz beizutreten. Vielleicht sind wir nicht gut genug für ihr Maß oder unwürdig als Verbündeter. Wie auch immer, die Antwort war eindeutig nein."
-unionstate.74.a: "Eine schlechte Entscheidung ihrerseits"
+ # uses unionstate.71.a / .b
 
 ### Military Research ###
 unionstate.101.t: "Die Zukunft der Kriegsführung"
@@ -851,31 +782,6 @@ unionstate.102.a: "Nirgendwo ist es sicher"
 unionstate.103.t: "Kernenergie in New Mexico"
 unionstate.103.d: "Eine Hürde nach der anderen stand zwischen den Amerikanische Unions Staaten und den Atomwaffen. Es begann mit einem Mangel an willigen Physikern und Nuklearexperten, darunter Robert Oppenheimer, der noch nicht gefunden wurde. Mehrere andere potentielle Kandidaten unterzeichneten eine humanistische Erklärung des Pazifismus im Ausland und erklärten ihren Widerstand gegen unser Programm. Deshalb musste Bush auf Industrietechniker zurückgreifen, die den Zeitplan verlängerten. Schließlich, nach vielen Tests und Unterstützung von George Kistiakowsky, wird die erste Atombombe getestet. Aufgrund der umfangreichen Sicherheitsmaßnahmen ergab der entscheidende Test eine eindrucksvolle Explosion aber eine schlechte Dokumentation."
 unionstate.103.a: "Wir tragen die atomare Krone."
-
-unionstate.105.t: "Prozess gegen die Waffenhersteller"
-unionstate.105.d: "Eine Reihe von Waffenherstellern hat für die verschiedenen Verräter und Rebellen gegen Amerika gekämpft. Während des Krieges haben sich einige Waffenhersteller für die falsche Seite entschieden und beschlossen, den Feind zu unterstützen, indem sie die Waffen und die Munition für die feindlichen Kriegsanstrengungen herstellten.  Daher wurde vor dem Kongress eine Anhörung durchgeführt, um über ihr Schicksal zu entscheiden - wobei die Anwälte darauf plädierten, dass die Verteidigung kein Mitspracherecht hatte und gezwungen war, Waffen für den Feind zu entwickeln. Sollen wir ihnen erlauben, wieder zu arbeiten, oder sollen sie als Verräter betrachtet und behandelt werden?"
-unionstate.105.a: "Lassen Sie sie erneut arbeiten"
-unionstate.105.b: "Sie sind Verräter und sollten als solche behandelt werden"
-
-unionstate.106.t: "Prozess gegen die Schwermaschinenhersteller"
-unionstate.106.d: "Eine Reihe von Unternehmen des Schwermaschinenbaus haben für die verschiedenen Verräter und Rebellen gegen Amerika gekämpft. Während des Bürgerkriegs bauten diese Unternehmen die Geschütze, Granaten und Panzer, die amerikanisches Blut vergossen, und in der schlimmsten Krise des Landes unterstützten sie den Feind. So wurde eine Anhörung vor dem Kongress anberaumt, um über ihr Schicksal zu entscheiden - wobei die Anwälte darauf plädieren, dass die Verteidigung kein Mitspracherecht hatte und gezwungen wurde, Waffen für den Feind zu entwickeln. Sollen wir ihnen erlauben, wieder zu operieren, oder sollen sie als Verräter betrachtet und behandelt werden?
-unionstate.106.a: "Lassen Sie sie erneut arbeiten"
-unionstate.106.b: "Sie sind Verräter und sollten als solche behandelt werden"
-
-unionstate.107.t: "Prozess gegen die Luftfahrtunternehmen"
-unionstate.107.d: "Eine Reihe von Luftfahrtunternehmen haben für die verschiedenen Verräter und Rebellen gegen Amerika gekämpft. Während des Krieges bauten sie die Flugzeuge und Bomber, die auf [THIS.GetAdjective] abzielten und die eine große Stadt Amerikas in Schutt und Asche legten.  Deshalb wurde eine Anhörung vor dem Kongress anberaumt, um über ihr Schicksal zu entscheiden - mit dem Argument ihrer Anwälte und der Verteidigung, dass sie in dieser Angelegenheit keine Wahl hatten. Sie haben unsere Regierung angefleht, dass sie gerne ihre Luftfahrtgeheimnisse mit uns teilen würden, wenn wir sie begnadigen. Sollen wir ihnen erlauben, wieder zu operieren, oder sollen sie als Verräter betrachtet und behandelt werden?"
-unionstate.107.a: "Lassen Sie sie erneut arbeiten"
-unionstate.107.b: "Sie sind Verräter und sollten als solche behandelt werden"
-
-unionstate.108.t: "Prozess gegen die Marinefirmen"
-unionstate.108.d: "Eine Reihe von Marineunternehmen haben für die verschiedenen Verräter und Rebellen gegen Amerika gekämpft. Während des Krieges bauten sie die Kriegsschiffe und U-Boote, die unsere eigenen Seeleute und Flotten angriffen. So wurde eine Anhörung vor dem Kongress anberaumt, um über ihr Schicksal zu entscheiden, wobei ihre Anwälte und ihre Verteidigung argumentierten, dass sie kein Mitspracherecht in dieser Angelegenheit hatten und ihr Dienst nicht freiwillig war. Sollen wir ihnen erlauben, wieder zu arbeiten, oder sollen sie als Verräter betrachtet und behandelt werden?"
-unionstate.108.a: "Lassen Sie sie erneut arbeiten"
-unionstate.108.b: "Sie sind Verräter und sollten als solche behandelt werden"
-
-unionstate.109.t: "Prozess gegen die Industrieunternehmen"
-unionstate.109.d: "Krieg ist schließlich ein Geschäft, und in der Tat haben sich während des großen Bürgerkriegs eine Reihe amerikanischer Unternehmen und Industrien dazu entschlossen, die gegnerischen Fraktionen zu unterstützen. Jetzt, da der Krieg beendet ist und sich die Wirtschaft erholt, wurde vor dem Kongress eine Anhörung durchgeführt, um über das Schicksal dieser Unternehmen zu entscheiden. Während die Verteidigung für eine Amnestie plädiert und argumentiert, dass sie zum Wiederaufbau der amerikanischen Wirtschaft beitragen würden, stellt die Anklage fest, dass sie freiwillig den feindlichen Regimen gedient haben und nicht als solche belohnt werden sollten. Sollen wir ihnen erlauben, wieder tätig zu werden, oder sollen sie als Verräter betrachtet und behandelt werden?"
-unionstate.109.a: "Lassen Sie sie erneut arbeiten"
-unionstate.109.b: "Sie sind Verräter und sollten als solche behandelt werden"
 
 unionstate.150.t: "Treffen der Gouverneure des Südens in Baton Rouge"
 unionstate.150.d: "Kürzlich versammelte sich eine große Menschenmenge vor dem Parlamentsgebäude in Baton Rouge, um Huey Long zu seinem Widerstand gegen die Bundesregierung zu beglückwünschen. Die Nachrichtenagenturen sollten bald auf den Schauplatz kommen, als die Menge plötzlich begann, die Kampfflagge der alten Konföderation zu entfalten. Da Huey Long eine drohende politische Katastrophe witterte, ließ er diese radikalen Symbole des Bürgerkriegs von seinen Männern konfiszieren. Als die Gouverneure eintrafen, sah die Presse nur das Bild eines aufsässigen Amerikas, das entschlossen war, die illegitimen Kräfte der föderalen Korruption und der syndikalistischen Unterdrückung zu bekämpfen. Die Gouverneure treffen sich jetzt mit Long im Repräsentantenhaus, um die richtige Antwort auf die von der Bundesregierung gesetzte Frist zu finden."
@@ -893,20 +799,10 @@ unionstate.153.t: "Frist läuft ab"
 unionstate.153.d: "Da sich die Frist der Bundesregierung abzeichnet, ist klar geworden, dass es auf beiden Seiten kein Zurückweichen geben wird. In dem Teil des Landes, der von Longs Anhängern kontrolliert wird, wurde eine Armee aus Milizen und Minutenmännern aufgestellt, und eine wachsende Entschlossenheit, das Land mit Gewalt wieder aufzubauen, hat sich durchgesetzt. Die Bundesregierung ihrerseits hat ebenfalls deutlich gemacht, dass sie keinen Weg für einen Kompromiss mehr sieht."
 unionstate.153.a: "Es ist nur eine Frage der Zeit."
 
-### Resistance Events ###
-unionstate.200.t: "Anschlag der Syndikalisten"
-unionstate.200.d: "Syndikalisten, die immer noch für ihre "Revolution" kämpfen, haben Fabriken, Eisenbahnen und Truppeneinrichtungen in [attack_state.GetName] ins Visier genommen und dabei großen Schaden angerichtet und viele Menschenleben gefordert. Die Nationalgarde ist in [attack_state.GetName] vor Ort und behauptet, sie sei näher daran, die Rädelsführer hinter diesen Gruppen zu fangen als je zuvor.."
-unionstate.200.a: "Wir werden diese Terroristen vernichten"
-
-unionstate.204.t: "Anschlag der Föderalisten"
-unionstate.204.d: "Föderalisten, die immer noch für ihren Kapitalismus- und Ausbeutungswahn kämpfen, haben Fabriken, Eisenbahnen und Truppeneinrichtungen in [attack_state.GetName] ins Visier genommen und dabei großen Schaden angerichtet und viele Menschenleben gefordert. Die Nationalgarde ist in [attack_state.GetName] vor Ort und behauptet, sie sei näher daran, die Rädelsführer hinter diesen Gruppen zu fangen als je zuvor."
-unionstate.204.a: "Wir werden diese Terroristen vernichten"
-
 #########################
 #####Army Events#########
 ####By Drozdovite########
 #########################
-
 unionstate.500.t: "Die Armee beschlagnahmt zivile Lastwagen"
 unionstate.500.d: "Nachdem Patton sein Motorisierungsprogramm für die neue amerikanische Armee angekündigt hatte, wurde Präsident Long ein Vorschlag unterbreitet, über die Beschaffung von Zivilfahrzeugen zur Versorgung unserer schnell wachsenden Armee zu entscheiden. Mit seiner Zustimmung haben wir begonnen, Fahrzeuge der Zivilbevölkerung zu beschlagnahmen, obwohl zu unserer Überraschung einige stolze Patrioten neben unseren Lagern Schlange stehen, um ihre Fahrzeuge für den bevorstehenden Kampf freiwillig zur Verfügung zu stellen. Obwohl sich nicht alle ihre Fahrzeuge für uns als nützlich erwiesen haben, ist es uns gelungen, eine beträchtliche Anzahl von Lastwagen zu beschlagnahmen, die entweder leicht für den Truppentransport umgebaut werden können oder die robust genug sind, um unsere Truppen auf Anhieb zu transportieren."
 unionstate.500.a: "Der Königsfisch dankt Ihnen für Ihre Dienste"

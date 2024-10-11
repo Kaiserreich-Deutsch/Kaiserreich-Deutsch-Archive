@@ -25,20 +25,20 @@ HAI_national_populist_party_long: "Parti de l'Unité Nationale(Partei der Nation
  HAI_nationalist_party: "PN"
  HAI_nationalist_party_long: "Nationalistische Partei"
 
-##Ideas
+### Ideas ###
  HAI_precarious_governance: "Prekäre Regierungsführung"
  HAI_precarious_governance_desc: "Die haitianische Regierung hängt am seidenen Faden - die Position von [Root.GetLeader] steht auf dem Spiel. Von gegnerischen Kräften bedrängt, muss man so schnell wie möglich seinen Einfluss auf die Nation festigen, da die politische Situation in Haiti immer instabiler wird."
  HAI_crippling_illiteracy: "Lähmendes Analphabetentum"
  HAI_crippling_illiteracy_desc: "Wir können das Problem nicht leugnen: Ein Großteil Haitis sind nach wie vor Analphabeten, die Schulen sind stark unterfinanziert und die meisten Kinder werden schon in jungen Jahren zum Arbeiten geschickt. Höhere Bildung ist in der Regel für französischsprachige Haitianer vorgesehen, und für den durchschnittlichen Haitianer, der Kreolisch spricht, gibt es nur wenige Ressourcen. Haiti hinkt schon jetzt hinter dem Rest der Welt hinterher, und wenn das Problem des Analphabetismus nicht gelöst wird, wird Haiti weiter hinter den Rest seiner Nachbarn zurückfallen."
 
- HAI_foreign_control_dynamic_modifier: "£pol_idea Ausländische politische und wirtschaftliche Kontrolle"
+ HAI_foreign_control_dynamic_modifier: "£pol_idea $HAI_foreign_control$"
  HAI_foreign_control: "Ausländische politische und wirtschaftliche Kontrolle"
  HAI_foreign_control_desc: "Trotz des Rückzugs der Amerikaner von der Besetzung unserer Insel befindet sich Haiti weiterhin fest in der amerikanischen Wirtschaftssphäre. Aufgespalten zwischen deutschen und amerikanischen Wirtschaftsinteressen wird unser Volk ständig ausgebeutet, und wenn keiner der beiden Mächte etwas Entscheidendes passiert, werden wir weiterhin unter ihrem Einfluss stehen.\n§W-----------------§!\n§WAmerikanischer Wirtschaftseinfluss:§! [GetAmericanInfluence]\n§WDeutscher Wirtschaftseinfluss:§! [GetGermanInfluence]\n§WWirtschaftlicher Einfluss der französischen Kommune:§! [GetFrenchInfluence]§![GetENTInfluence]\n\n§W[GetRestrictions]§W$MODIFIER_INDUSTRIAL_FACTORY_DONATIONS$:§! [?HAIeconomicinfluncecivs|=+0]\n§W$MODIFIER_POLITICAL_POWER_FACTOR$:§! [?HAIeconomicinfluncepp|%+0]"
  
  HAI_foreign_control_dummy: "$HAI_foreign_control$"
  HAI_foreign_control_dummy_desc: "Trotz des Rückzugs der Amerikaner von der Besetzung unserer Insel befindet sich Haiti weiterhin fest in der amerikanischen Wirtschaftssphäre. Aufgespalten zwischen deutschen und amerikanischen Wirtschaftsinteressen wird unser Volk ständig ausgebeutet, und wenn keiner der beiden Mächte etwas Entscheidendes passiert, werden wir weiterhin unter ihrem Einfluss stehen.\n§W-----------------§!\n§WAmerikanischer Wirtschaftseinfluss:§! §RHoch§!\n§WDeutscher Wirtschaftseinfluss:§! §GNiedrig§!\n§WWirtschaftlicher Einfluss der französischen Kommune:§! §GNiedrig§!\n\n§WAmerikanisch verordnete Einschränkungen:§! §RStaatsausgaben§!\n\n§WKann keine Minister oder Gesetze zuweisen:§! §RJa§!\n§W$MODIFIER_INDUSTRIAL_FACTORY_DONATIONS$:§! [?1|=+0]\n§W$MODIFIER_POLITICAL_POWER_FACTOR$:§! [?-0.1|%+0]"
 
- HAI_border_clashes_dynamic_modifier: "£pol_idea Dominikanische Grenzkonflikte"
+ HAI_border_clashes_dynamic_modifier: "£pol_idea $HAI_border_clashes_idea$"
  HAI_border_clashes_idea: "Dominikanische Grenzkonflikte"
  HAI_border_clashes_idea_desc: "Seit dem Abzug der US-Truppen haben die Dominikaner damit begonnen, ihre Streitkräfte an unserer Grenze aufzustocken und noch aggressiver zu agieren. Trotz unseres Wunsches, zurückzuschlagen, haben die dominikanischen Bestechungsgelder unsere Armee kastriert. Wir müssen mit der Korruption aufräumen und unsere Armee zumindest ein wenig modernisieren, um unsere Grenzen verteidigen zu können.\n§W-----------------\n$MODIFIER_ARMY_ORG_FACTOR$: [?HAIborderclashesORG|+=%1]\n$MODIFIER_STABILITY_FACTOR$: [?HAIborderclashesST|+=%]\n$MODIFIER_WAR_SUPPORT_FACTOR$: [?HAIborderclashesWS|+=%]§!"
 
@@ -71,13 +71,15 @@ HAI_national_populist_party_long: "Parti de l'Unité Nationale(Partei der Nation
  HAI_subsidizing_foreign_business: "Subventionierung ausländischer Unternehmen"
  HAI_american_assets_seized: "Beschlagnahmte amerikanische Vermögenswerte"
  HAI_researchers: "Unterstützung der Forschung"
- kr_ger_hai: "HAPAG"
- kr_can_hai: "IEDC"
- kr_fra_hai: "Phalanstère"
  HAI_new_high_command: "Neues Oberkommando der Armee"
  HAI_liberal_haiti: "Ein liberales Haiti"
 
-##Focus Tree
+### Companies ###
+ kr_ger_hai: "HAPAG"
+ kr_can_hai: "IEDC"
+ kr_fra_hai: "Phalanstère"
+
+### Focuses ###
  haiti_focus: "Schwerpunktbaum von Haiti"
  HAI_secure_support: "Unterstützung des Rates sichern"
  HAI_secure_support_desc: "Wir sollten in erster Linie versuchen, die Mitglieder des Staatsrats und nach Möglichkeit auch der Nationalversammlung für uns zu gewinnen. Die Mittel können zur Finanzierung von "Geschenken" und wirtschaftlichen Zugeständnissen für die Abgeordneten umgeschichtet werden, um sie auf unsere Seite zu bringen."
@@ -255,7 +257,7 @@ HAI_national_populist_party_long: "Parti de l'Unité Nationale(Partei der Nation
  HAI_new_economy: "Die neue Wirtschaft"
  HAI_new_economy_desc: "Als der Schwarze Montag Haiti heimsuchte, glaubten Beobachter, dass dies eine jahrzehntelange Katastrophe für uns bedeuten würde und dass wir uns nie wieder zu einer Wirtschaft auf dem Niveau vor der Depression erholen würden. Die Regierung Calixte hat sie eines Besseren belehrt, und jetzt steht Haiti robuster da als je zuvor; unsere Wirtschaft boomt endlich. Die schlimmsten Tage der Depression werden vielleicht in unseren Geschichtsbüchern stehen, aber unser Land wird nun eine neue Wirtschaft erleben, eine neue Ära des Wohlstands und des Reichtums für alle Haitianer!"
 
-#Foreign Policy Tree
+# Foreign Policy Tree
  HAI_mission_to_ottawa: "Reise nach Ottawa"
  HAI_mission_to_ottawa_desc: "Angesichts des Zusammenbruchs der Vereinigten Staaten als wirtschaftlicher Hegemon auf dem nordamerikanischen Kontinent müssen wir unseren Blick nach Norden richten. Die von Kanada geführte Entente-Allianz könnte angesichts ihres Wirtschaftsbündnisses der IEDC ein möglicher Handelspartner sein. Wir sollten eine Delegation entsenden, um die Beziehungen zwischen unseren beiden Ländern formell zu eröffnen."
  HAI_trade_wif: "Einrichtungen für die königliche Flotte der Westindischen Inseln"
@@ -330,7 +332,7 @@ HAI_national_populist_party_long: "Parti de l'Unité Nationale(Partei der Nation
  HAI_early_innovations: "Luftfahrtforschung ausbauen"
  HAI_early_innovations_desc: "Wir sollten eine zentrale Luftwerkstatt einrichten, die sich um die Wartung und Modifizierung kümmert, anstatt sich auf einzelne Luftwaffenstützpunkte zu verlassen, die diese Dinge erledigen."
 
-##Decisions
+### Decisions ###
  HAI_election_season: "Haitian Election Season"
  HAI_election_season_desc: "Es ist Wahlkampf in Haiti! Da Präsident Calixte die Amtszeit des ehemaligen Präsidenten Borno endet, muss Calixte im Frühjahr von der Nationalversammlung wiedergewählt und vom Staatsrat bestätigt werden. Die Wahlen zur Nationalversammlung sind für den 21. März und die Präsidentschaftswahlen für den 6. April angesetzt. Der Staatsrat muss die Wahl dann bis zum 15. Mai, dem Beginn der neuen Amtszeit, bestätigen. Da ein Großteil des Staatsrats und der Nationalversammlung alte Institutionalisten sind und gegen den Staatsstreich des Präsidenten von 1933 sind, muss sich Präsident Calixte ihre Unterstützung verdienen oder drastische Maßnahmen ergreifen...\n\n§YNationalversammlung:§!\n\nWir haben die Unterstützung von §Y[?HAI_assembly_support]/40§! Abgeordneten.\n\n§YStaatsrat:§!\n\nWir haben die Unterstützung von §Y[?HAI_council_support]/21§! Ratsmitgliedern."
  HAI_strongarm_councillors: "Einschüchterung von Staatsräten"
@@ -342,14 +344,13 @@ HAI_national_populist_party_long: "Parti de l'Unité Nationale(Partei der Nation
  HAI_meet_with_commissioner_russell: "Treffen mit Kommissar Russell"
  HAI_meet_with_commissioner_russell_desc: "Auch wenn die amerikanische Besatzung offiziell beendet ist, bleibt Kommissar Russell in Port-au-Prince und vertritt die amerikanischen Interessen in Haiti. Er hat immer noch großes Gewicht, und er und Calixte haben in den letzten zwei Jahren gut zusammengearbeitet. Die Sicherung seiner Unterstützung wird für die Wiederwahl von entscheidender Bedeutung sein."
  HAI_secure_the_election: "Die Wahl sichern"
- HAI_secure_the_election_desc: "Letztlich reichen Versprechungen und Drohungen nur bis zu einem gewissen Punkt. Wir müssen proaktiv vorgehen, um die Präsidentschaft zu behalten, und die Wahl unserer Kandidaten in die Nationalversammlung ist der beste Weg, um dies zu erreichen, auch wenn dies technisch gesehen "gegen die demokratischen Grundsätze Haitis verstößt"."
+ HAI_secure_the_election_desc: "Letztlich reichen Versprechungen und Drohungen nur bis zu einem gewissen Punkt. Wir müssen proaktiv vorgehen, um die Präsidentschaft zu behalten, und die Wahl unserer Kandidaten in die Nationalversammlung ist der beste Weg, um dies zu erreichen, auch wenn dies technisch gesehen \"gegen die demokratischen Grundsätze Haitis verstößt.\""
  HAI_campaign_in_north: "Kampagne im Norden"
  HAI_campaign_in_north_desc: "Eine Reihe von Reden in den nördlichen Fischerdörfern und im Hafen von Cap-Haitien wird die Bevölkerung dort sicher auf unsere Seite ziehen!"
  HAI_campaign_in_rural_areas: "Kampagne in den ländlichen Gebieten"
  HAI_campaign_in_rural_areas_desc: "Die überwiegend schwarzen ländlichen Gebiete Haitis haben Präsident Calixte immer unterstützt. Es sollte ein Leichtes sein, sich ihrer Unterstützung mit einer populären Kampagne zu versichern!"
  HAI_campaign_in_south: "Wahlkampf im Süden"
  HAI_campaign_in_south_desc: "In den Großstädten Port-au-Prince und Les Cayes wird es aufgrund der großen gemischten Bevölkerung viel schwieriger sein, die Wähler zu überzeugen, aber mit einer großen schwarzen Bevölkerung in der Arbeiterklasse können wir immer noch hoffen, einige Sitze in diesen Gebieten zu gewinnen."
- HAI_industrialization: "Der Beginn der haitianischen Industrialisierung"
 
  HAI_civil_war_category: "Haitianischer Bürgerkrieg"
  HAI_civil_war_category_desc: "Nach der politischen Krise im Zusammenhang mit den Wahlen von 1936 ist Haiti in einen Bürgerkrieg geraten! Präsident Calixte - oder, je nach Sichtweise, der ehemalige Präsident Calixte - hat die Hauptstadt Port-au-Prince und Les Cayes unter Kontrolle. Seine Garde d'Haiti hält die Ordnung in der Stadt aufrecht, und er stellt eilig Milizen auf, um die Kontrolle zu sichern. Im Norden zieht eine von Élie Lescot geführte Oppositionskoalition ihre Kräfte in Cap-Haitien zusammen. Der kommende Krieg wird über die Kontrolle über Haiti entscheiden.\n\nDer Fortschritt auf dem Weg zum Sieg im Bürgerkrieg erfolgt über den Schwerpunktbaum, und der Sieg ist erreicht, wenn der Schwerpunktbaum abgeschlossen ist.  Um einen Schwerpunkt zu setzen, ist jedoch ein gewisses Maß an £war_support_texticon Momentum erforderlich. Das Momentum wird durch die folgenden Entscheidungen sowie durch Zufallsereignisse gewonnen. Die Zukunft von Haiti steht auf dem Spiel, viel Glück!\n\nSie haben derzeit [?HAI_momentum]£war_support_texticon Momentum."
@@ -378,26 +379,18 @@ HAI_national_populist_party_long: "Parti de l'Unité Nationale(Partei der Nation
  HAI_appeal_faction_leader: "Antrag [THIS.faction_leader.GetNameDef] auf zusätzliche Investitionen"
  HAI_expand_rubber: "Kautschukanbau ausweiten"
 
- HAI_join_faction_decision: "Beitritt zu [From.GetFactionName]"
-
+ HAI_foreign_help: "Auslandshilfe und Modernisierung"
  university_of_haiti: "Gründung der Universität von Haiti"
  expand_university_of_haiti: "Ausbau der Universität von Haiti"
  HAI_technical_advisors: "Technische Berater einladen"
  HAI_visiting_officers: "Ausländische Beamte einladen"
  HAI_military_contractors_infantry: "Einladen von militärischen Auftragnehmern der Infanterie"
  HAI_military_contractors_artillery: "Artillerie Militärische Auftragnehmer einladen"
- HAI_foreign_help: "Auslandshilfe und Modernisierung"
  HAI_observe_military_exercises: "Beobachtung von Marineübungen"
 
- HAI_attack_DOM: "Angriff auf die Dominikanische Republik"
-
-##Tooltips
+### Tooltips ###
  HAI_has_10_momentum: "Hat §Y10§! £war_support_texticon Momentum"
  HAI_momentum_effect: "$RICHTIGEN|0=+$ £war_support_texticon Momentum\n"
-
- HAI_250_guns: "£rifle_texticon §H250§!"
- HAI_250_guns_blocked: "£rifle_texticon §R250§!"
- HAI_250_guns_tooltip: "Es kostet $HAI_250_guns_blocked$ die Entscheidung zu treffen"
 
  HAI_High: "§RHoch§!"
  HAI_Medium: "§YMittel§!"
@@ -422,7 +415,6 @@ HAI_national_populist_party_long: "Parti de l'Unité Nationale(Partei der Nation
  HAI_decrease_german_influence: "§gGerman§! influence will §Ydecrease§!."
 
  HAI_add_1_civ_donation: "Ändern §YAusländische politische und wirtschaftliche Kontrolle§! durch\n$MODIFIER_INDUSTRIAL_FACTORY_DONATIONS$: §G+1§!"
- HAI_can_change_mil_spending: "Kann Militärausgaben verändern"
 
  HAI_is_on_campaign: "Ist im Wahlkampf"
 
@@ -434,15 +426,11 @@ HAI_national_populist_party_long: "Parti de l'Unité Nationale(Partei der Nation
  HAI_continued_council: "Fortführung des Staatsrats"
 
  HAI_monte_christi_affair: "Die Monte Cristi-Affäre hat sich ereignet"
- HAI_prepare_for_war: "Krieg mit der Dominikanischen Republik steht unmittelbar bevor"
  HAI_curruption_lowered: "§RDie Korruption in Haiti wird zurückgedrängt...§!"
  HAI_curruption_raised: "§GDie haitianische Korruption wird erhöht werden.§!"
  HAI_curruption_raised_focus: "§RDie haitianische Korruption wird erhöht...§!"
 
  HAI_university_of_Haiti: "Hat die Universität von Haiti gegründet"
- HAI_german_fopo: "Haiti hat sich mit Deutschland verbündet"
- HAI_3i_fopo: "Haiti hat sich der Dritten Internationale angeschlossen"
- HAI_entente_fopo: "Haiti hat sich mit der Entente verbündet"
 
  HAI_fighter_bonus: "Eine neue Luftwaffe"
 
@@ -451,14 +439,13 @@ HAI_national_populist_party_long: "Parti de l'Unité Nationale(Partei der Nation
  HAI_good_option: "§YHaiti und seine Unternehmen werden 100 % des angebauten Kautschuks besitzen.§!"
  HAI_bad_option: "§YUnsere Unternehmen werden einen großen Anteil an den Gewinnen von Kautschuk-Anbau besitzen.§!"
  HAI_acquire_rubber_tt: "§CWir werden versuchen, Gummibäume aus dem Ausland zu erwerben.§!"
- HAI_if_they_agree: "§YWenn [FROM.faction_leader.GetNameDef] zustimmt, erhalten wir die folgenden Auswirkungen:§!"
 
  HAI_unlock_or_disband: "Dieses Ereignis wird es uns ermöglichen, zu entscheiden, ob die §CGarde d'Haiti§! §Raufgelöst§! oder §Greformiert§! werden soll."
  HAI_on_remove_unlock: "Wenn die Reformen des Oberkommandos abgeschlossen sind, wird die Vorlage §CGarde d'Haiti§! §Gfreigeschaltet§!."
  HAI_unlock: "Diese Veranstaltung wird uns die Möglichkeit geben, zu entscheiden, ob wir die Vorlage §CGarde d'Haiti§! §Greformieren§! oder §Ysie so belassen, wie sie ist§!."
 
  HAI_haitian_civil_war: "Wir befinden uns derzeit in einem Bürgerkrieg"
- HAI_raise_corruption_10: "§RKorruption§! §Ywurde erhöht um§! §R10§!§Y.§!"
+ HAI_raise_corruption_10: "§RKorruption§! §Ywurde erhöht um §R10§!.§!"
 
  HAI_modify_army_idea: "Änderung von §H$HAI_citizens_army$§! oder §H$HAI_professional_army$§! durch\n$MODIFIER_XP_GAIN_ARMY_FACTOR$: [?0.1|+=%1]\n$MODIFIER_TRAINING_TIME_FACTOR$: [?-0.1|-=%1]"
 
@@ -469,7 +456,6 @@ HAI_national_populist_party_long: "Parti de l'Unité Nationale(Partei der Nation
 ### Opinion Modifiers ###
 HAI_border_dispute: "Grenzstreitigkeiten"
 HAI_foreign_council: "Unsere Bürger in ihrem Rat"
-HAI_sanctions: "Haitianische Sanktionen"
  HAI_raid: "Überfall auf unser Land"
  HAI_french_ties: "Französische Fesseln"
 
@@ -497,7 +483,7 @@ HAI_sanctions: "Haitianische Sanktionen"
  hai.4.b: "Lasst ihn gehen."
 
  hai.5.t: "Ein Vorschlag von Casséus"
- hai.5.d: "Je näher der Wahlkampf rückt, desto weniger können wir uns Hoffnungen auf einen Erdrutschsieg machen. Die Wahl wird höchstwahrscheinlich hart umkämpft und knapp sein. Um unsere Siegchancen zu erhöhen, könnten wir einige "andere Methoden" in Erwägung ziehen, wie z. B. die Verwendung der Namen von Verstorbenen auf den Stimmzetteln. Dies dient nur der Sicherheit Haitis, denn Calixte hat nur gute Absichten für unser geliebtes Land."
+ hai.5.d: "Je näher der Wahlkampf rückt, desto weniger können wir uns Hoffnungen auf einen Erdrutschsieg machen. Die Wahl wird höchstwahrscheinlich hart umkämpft und knapp sein. Um unsere Siegchancen zu erhöhen, könnten wir einige \"andere Methoden\" in Erwägung ziehen, wie z. B. die Verwendung der Namen von Verstorbenen auf den Stimmzetteln. Dies dient nur der Sicherheit Haitis, denn Calixte hat nur gute Absichten für unser geliebtes Land."
  hai.5.a: "Dies muss geschehen, um die haitianische Demokratie und Ordnung zu erhalten."
  hai.5.b: "So stirbt also die Demokratie... mit donnerndem Applaus."
 
@@ -507,7 +493,7 @@ HAI_sanctions: "Haitianische Sanktionen"
  hai.6.b: "Bestreitet diese Verbrechen!"
 
  hai.7.t: "Abgeordneter kündigt Unterstützung für Calixte an"
- hai.7.d: "Es scheint, dass unsere Bemühungen Früchte getragen haben. Dank des Charismas von Calixte im Wahlkampf und einiger "Motivationen" haben mehrere Abgeordnete aus den verschiedenen Departements ihre Unterstützung für Calixte erklärt."
+ hai.7.d: "Es scheint, dass unsere Bemühungen Früchte getragen haben. Dank des Charismas von Calixte im Wahlkampf und einiger \"Motivationen\" haben mehrere Abgeordnete aus den verschiedenen Departements ihre Unterstützung für Calixte erklärt."
  hai.7.a: "Ein Schritt näher zum Sieg!"
 
  hai.8.t: "Price-Mars bleibt skeptisch"
@@ -581,9 +567,6 @@ HAI_sanctions: "Haitianische Sanktionen"
 
  hai.22.t: "Haiti möchte der [Root.GetFactionName] beitreten"
  hai.22.d: "Mit dem Ausbruch des Krieges in Amerika hat sich die kleine Karibiknation Haiti plötzlich frei und unabhängig, aber allein auf der Welt wiedergefunden. Während die Spannungen auf der ganzen Welt zunehmen, ist sich die haitianische Regierung der Gefahren ihrer neuen Position bewusst, und nachdem sie eine Reihe neuer wirtschaftlicher Beziehungen zu unserem Wirtschaftsraum aufgebaut hat, hat sie uns nun um die Mitgliedschaft in der [Root.GetFactionName] gebeten. \n\nUnser Außenministerium hat diesen Vorschlag ausführlich erörtert - Haiti ist zwar nicht gerade als Weltmacht bekannt, aber seine strategische Lage in der Mitte des Karibischen Meeres würde uns helfen, Operationen in der gesamten Region durchzuführen, zu der auch einige beträchtliche Mineralienvorkommen und der immer wichtige Panamakanal gehören. Außerdem glauben einige optimistischere Köpfe, dass Haiti in der Lage sein könnte, einige Kautschukplantagen zu unterhalten, wenn man ihm etwas Kapital für deren Entwicklung zur Verfügung stellt. Vielleicht sollten wir auf das Angebot von Port-au-Prince eingehen?"
- hai.22.d.GER: "Der Amerikanische Bürgerkrieg hat sich als schwerer Schlag gegen die Monroe-Doktrin erwiesen, und die kleineren Nationen Amerikas stehen nun schutzlos im Machtvakuum. Der Inselstaat Haiti ist als eine der wenigen Regionalmächte in Amerika mit einer Seestreitmacht an uns herangetreten und hat uns gebeten, unserem Bündnis beizutreten. Obwohl sie weder Waffen noch Männer zur Verfügung stellen können, könnte es sich unter den gegebenen Umständen lohnen, unseren Einflussbereich in der Karibik auszuweiten, um unsere bestehende Position in diesem Gebiet zu stärken. Ein genauerer Blick auf die aktuelle Situation könnte sich lohnen, wenn das Außenministerium seine Optionen abwägt."
- hai.22.d.ENT: "Der Amerikanische Bürgerkrieg hat sich als schwerer Schlag gegen die Monroe-Doktrin erwiesen, und die kleineren Nationen Amerikas stehen nun schutzlos im Machtvakuum. Der Inselstaat Haiti ist als eine der wenigen Regionalmächte in Amerika mit einer Seestreitmacht an uns herangetreten und hat uns gebeten, unserem Bündnis beizutreten. Obwohl sie weder Waffen noch Männer zur Verfügung stellen können, könnte es sich unter den gegebenen Umständen lohnen, unseren Einflussbereich in der Karibik auszuweiten, um unsere bestehende Position in diesem Gebiet zu stärken. Ein genauerer Blick auf die aktuelle Situation könnte sich lohnen, wenn das Außenministerium seine Optionen abwägt."
- hai.22.d.INT: "Der Amerikanische Bürgerkrieg hat sich als schwerer Schlag gegen die Monroe-Doktrin erwiesen, und die kleineren Nationen Amerikas stehen nun schutzlos im Machtvakuum. Der Inselstaat Haiti ist als eine der wenigen Regionalmächte in Amerika mit einer Seestreitmacht an uns herangetreten und hat uns gebeten, unserem Bündnis beizutreten. Obwohl sie weder Waffen noch Männer zur Verfügung stellen können, könnte es sich unter den gegebenen Umständen lohnen, unseren Einflussbereich in der Karibik auszuweiten, um unsere bestehende Position in diesem Gebiet zu stärken. Ein genauerer Blick auf die aktuelle Situation könnte sich lohnen, wenn das Außenministerium seine Optionen abwägt."
  hai.22.a: "Ja, natürlich!"
  hai.22.b: "Wir brauchen sie nicht."
 
@@ -607,19 +590,6 @@ HAI_sanctions: "Haitianische Sanktionen"
  hai.27.t: "[FROM.faction_leader.GetNameDefCap] Stimmt zu!"
  hai.27.d: "[FROM.faction_leader.GetNameDefCap] hat unserem Vorschlag zugestimmt und freut sich darauf, die Produktion zu starten. Sie haben jedoch festgelegt, dass einige [HAI.faction_leader.GetAdjective] Unternehmen einen Teil des Eigentums an den Plantagen übernehmen, um sicherzustellen, dass sie ordnungsgemäß betrieben werden. Wir sind zwar zuversichtlich, dass wir die Plantagen selbst betreiben können, und die Gewinneinbußen sind nicht groß, aber es ist möglich, dass ein ausländisches Unternehmen einen Teil der Haftung übernimmt."
  hai.27.a: "Wie erwartet."
-
- hai.28.t: "Haiti bittet um weitere Investitionen in Kautschuk-Anbau"
- hai.28.d: "Obwohl die Fortschritte stetig sind, hat die haitianische Regierung um weitere Investitionen gebeten. Ihre Verarbeitungsanlagen und Anbaumaßnahmen könnten zusätzliche Hilfe gebrauchen. Wenn wir zusätzliche Mittel bereitstellen, wird sich unsere Investition wahrscheinlich schneller auszahlen."
- hai.28.a: "Sie sollen sie bekommen."
- hai.28.b: "Wir können die Ressourcen nicht entbehren."
-
- hai.29.t: "[FROM.faction_leader.GetNameDefCap] stimmt unserer Forderung nach weiteren Investitionen zu"
- hai.29.d: "Nach reiflicher Überlegung hat [FROM.faction_leader.GetNameDef] unserer Bitte um eine neue Investitionsrunde für unsere Kautschukplantagen stattgegeben. Mit der neuen Kapitalspritze sollten wir in der Lage sein, das Tempo und den Umfang der Entwicklung weiter zu steigern."
- hai.29.a: "Großartig!"
-
- hai.30.t: "[FROM.faction_leader.GetNameDefCap] lehnt unseren Antrag auf weitere Investitionen ab"
- hai.30.d: "Leider ist [FROM.faction_leader.GetNameDef] nicht mit unserer Schlussfolgerung einverstanden, dass unsere jungen Kautschukplantagen neue Investitionen benötigen. Ihrer Meinung nach ist Kapital im Moment sehr gefragt und knapp, und die bereits getätigten Investitionen sollten mehr als genug sein, um einen vollkommen vernünftigen Kautschuk-Anbau zu entwickeln. Wir müssen einfach mit dem auskommen, was wir haben."
- hai.30.a: "Verdammt..."
 
  hai.52.t: "Chaos in der Regierung"
  hai.52.d: "Nachdem die Regierung den Forderungen der Dominikaner nachgegeben hat, sind sowohl die Armee als auch die Nationalversammlung in Aufruhr, weil [HAI.GetLeader] sie nicht zur Rechenschaft gezogen hat. Um einen vollständigen Zusammenbruch zu verhindern, haben General Franck Lavaud und eine Clique von Armeeoffizieren die Kontrolle über die Regierung übernommen und [HAI.GetLeader] verhaftet. Während die Demokratie vorübergehend ausgesetzt ist, verspricht General Lavaud, dass im Jahr 1940 reguläre Wahlen stattfinden werden, um eine neue Regierung zu wählen."
@@ -884,7 +854,7 @@ HAI_sanctions: "Haitianische Sanktionen"
  HAI_paul_magloire: "Paul Magloire"
 
  HAI_jean_price_mars: "Jean Price-Mars"
- HAI_jean_price_mars_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 15. Oktober 1876, in Grande-Rivière-du-Nord, Republik Haiti\n§YPolitische Karriere:§! Der haitianische Arzt, Lehrer, Politiker, Diplomat, Schriftsteller und Ethnograf Jean Price-Mars diente während des Weltkriegs als Sekretär der haitianischen Gesandtschaft in Washington, D.C. und als Geschäftsträger in Paris. Price, der seinen Nachnamen von seinem Mulatten-Vater und dem Mulatten-Schriftsteller Hannibal Price übernommen hat, hörte von frühester Jugend an Geschichten der haitianischen Folklore, was ihm den Respekt vor den haitianischen Traditionen vermittelte. Price-Mars ist ein Verfechter der Négritude, des Glaubens an ein gemeinsames "schwarzes" Bewusstsein in der afrikanischen Diaspora, und ein prominenter Verfechter des Voodoo als vollständige Religion.\n\nSeine politische Ideologie geht stark auf den Widerstand der haitianischen Bauern gegen die amerikanische Besatzung zurück, und er verachtet die haitianische Elite für ihre scheinbare Unfähigkeit, für die Massen zu sorgen. In Anlehnung an den Roman "Madame Bovary" prägte Price-Mars den Begriff des "kollektiven Bovarysmus", um die haitianischen Eliten gemischter weißer Abstammung zu kritisieren, denen Price-Mars vorwirft, ungerechte wirtschaftliche und ökonomische Positionen im Land einzunehmen. Price-Mars, der das lähmende Analphabetentum in Haiti kritisiert, ist der Ansicht, dass eine allgemeine Bildung zu einem gesellschaftlichen Fortschritt führen wird. Price-Mars bekennt sich voll und ganz zur haitianischen Geschichte der Sklaverei und glaubt, dass die haitianischen Sklaven die wahre Quelle der haitianischen Traditionen und Geschichte waren. Er bewundert die Kultur und Religion der Sklaven als Basis des Widerstands gegen die europäischen Kolonisatoren — die Grundlage einer haitianischen Nation, die er nachahmen möchte."
+ HAI_jean_price_mars_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 15. Oktober 1876, in Grande-Rivière-du-Nord, Republik Haiti\n§YPolitische Karriere:§! Der haitianische Arzt, Lehrer, Politiker, Diplomat, Schriftsteller und Ethnograf Jean Price-Mars diente während des Weltkriegs als Sekretär der haitianischen Gesandtschaft in Washington, D.C. und als Geschäftsträger in Paris. Price, der seinen Nachnamen von seinem Mulatten-Vater und dem Mulatten-Schriftsteller Hannibal Price übernommen hat, hörte von frühester Jugend an Geschichten der haitianischen Folklore, was ihm den Respekt vor den haitianischen Traditionen vermittelte. Price-Mars ist ein Verfechter der Négritude, des Glaubens an ein gemeinsames \"schwarzes\" Bewusstsein in der afrikanischen Diaspora, und ein prominenter Verfechter des Voodoo als vollständige Religion.\n\nSeine politische Ideologie geht stark auf den Widerstand der haitianischen Bauern gegen die amerikanische Besatzung zurück, und er verachtet die haitianische Elite für ihre scheinbare Unfähigkeit, für die Massen zu sorgen. In Anlehnung an den Roman \"Madame Bovary\" prägte Price-Mars den Begriff des \"kollektiven Bovarysmus\", um die haitianischen Eliten gemischter weißer Abstammung zu kritisieren, denen Price-Mars vorwirft, ungerechte wirtschaftliche und ökonomische Positionen im Land einzunehmen. Price-Mars, der das lähmende Analphabetentum in Haiti kritisiert, ist der Ansicht, dass eine allgemeine Bildung zu einem gesellschaftlichen Fortschritt führen wird. Price-Mars bekennt sich voll und ganz zur haitianischen Geschichte der Sklaverei und glaubt, dass die haitianischen Sklaven die wahre Quelle der haitianischen Traditionen und Geschichte waren. Er bewundert die Kultur und Religion der Sklaven als Basis des Widerstands gegen die europäischen Kolonisatoren — die Grundlage einer haitianischen Nation, die er nachahmen möchte."
 
  HAI_louis_dejoie: "Louis Déjoie"
 

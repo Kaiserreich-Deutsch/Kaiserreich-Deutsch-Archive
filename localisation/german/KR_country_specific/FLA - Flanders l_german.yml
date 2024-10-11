@@ -2,6 +2,18 @@
 ### Übersetzt von Proho ###
 FLA_focus: "Schwerpunktbaum von Flandern"
 
+### Country Names ###
+ FLA: "Flandern"
+ FLA_ADJ: "Flämisch"
+ FLA_DEF: "Flandern"
+
+ FLA_totalist: "Flämische Kommunale Republik"
+ FLA_totalist_DEF: "die Flämische Kommunale Republik"
+ FLA_syndicalist: "Flämische Kommunale Republik"
+ FLA_syndicalist_DEF: "die Flämische Kommunale Republik"
+ FLA_radical_socialist: "Flämische Kommunale Republik"
+ FLA_radical_socialist_DEF: "die Flämische Kommunale Republik"
+
 ### Parties ###
 FLA_social_conservative_party: "KB"
 FLA_social_conservative_party_long: "Katholischer Block"
@@ -42,9 +54,7 @@ FLEM_REPUBLIC: "Die Regentschaft wurde beendet"
 FLA_Flemish_Lion: "Flämischer Löwe"
  FLA_Karel: "Der Graf von Flandern"
 FLA_CoalitionSOC: "Sozialistische Koalition"
-FLA_CoalitionSOC2: "Sozialistische Koalition"
 FLA_Coalition: "Liberale Koalition"
-FLA_Coalition2: "Liberale Koalition"
  FLA_Abolish: "Starke zentralisierte Kraft"
  FLA_Expand: "Großflämische Expansionstrieb"
  FLA_Flanders: "Grafschaft Wiederhergestellt"
@@ -53,7 +63,6 @@ FLA_Coalition2: "Liberale Koalition"
  FLA_Control_Industry: "Syndikalistische Industrie"
  FLA_Control_Agriculture: "Kollektiviertes Ackerland"
  FLA_Revolution: "Syndikalistische Revolution"
- FLA_Revolution2: "Syndikalistische Revolution"
 
  FLA_Nation_Within_Nation: "Nation innerhalb einer Nation"
  FLA_Separate_Parties: "Separate flämische Parteien"
@@ -74,7 +83,7 @@ FLA_Coalition2: "Liberale Koalition"
  FLA_Flemish_Miners: "Flämische Bergleute"
 
  FLA_Liberation_Army: "Die Befreiungsarmee"
- FLA_Succesion_Crisis: "Nachfolge-Krise"
+ FLA_Succession_Crisis: "Nachfolge-Krise"
 
  FLA_Rule_From_Council: "Absolute Herrschaft des Konzils"
  FLA_Unify_State: "Einheitsstaat"
@@ -167,10 +176,6 @@ FLA_Coalition2: "Liberale Koalition"
  flanders.9.a: "Gratulieren Sie der niederländischen Regierung!"
  flanders.9.b: "Die Niederländer haben die Ergebnisse verfälscht, greifen Sie sofort an!"
 
- flanders.10.t: "Das Zeeland-Flandern-Referendum"
- flanders.10.d: "Die niederländische Regierung hat sich mit den Flamen geeinigt und plant ein Referendum noch in diesem Monat, um die Spannungen in der Grenzregion Zeeland-Flandern zu beenden. Die Spannungen an der Grenze sind hoch, da die Bewohner beider Seiten sich beeilen, sich für die Abstimmung anzumelden und die Abstimmung zu ihren Gunsten zu beeinflussen. Nationalistische Propaganda wird im Radio und sogar im Fernsehen verbreitet, und niederländische Zeitungen überschwemmen die Straßen. Dies wird sicherlich ein wichtiger Tag für Flandern sein und könnte sogar den Kurs seiner Außenpolitik bestimmen."
- flanders.10.a: "Wir werden diese Entwicklungen aufmerksam verfolgen."
-
  flanders.11.t: "Zeeland-Flandern stimmt für Abspaltung"
  flanders.11.d: "Mit einem knappen Sieg für die flämischen Nationalisten hat das Volk gesprochen und sich für den Anschluss an die flämische Nation entschieden.\n\nDie Abstimmung wurde letztlich von nur zwei kleinen Dörfern entschieden, die an den Kanal Gent-Terneuzen grenzen, die bereits wirtschaftlich sehr stark vom flämischen Land abhängig sind und daher mit großer Mehrheit für die Vereinigung gestimmt haben.\n\nDie niederländische Regierung hat noch nicht auf die flämischen Forderungen nach einer Machtübergabe reagiert und kann sich immer noch dazu entscheiden, das Referendum als ungültig zu bezeichnen."
  flanders.11.a: "Ein Sieg für das flämische Volk."
@@ -195,10 +200,6 @@ FLA_Coalition2: "Liberale Koalition"
  flanders.15.d: "Während jeder Kontakt mit der kommunardischen Regierung in Frankreich strengstens verboten ist, können wir den flämischen Unternehmen und Arbeitern, die dort leben, immer noch heimlich Geld und Ressourcen zukommen lassen. Die Fortsetzung des Karitas-Programms, das von der katholischen Kirche erfunden wurde, soll der Arbeiterklasse helfen, und wenn wir es richtig unterstützen, könnten wir den Wohlstand der Einheimischen in der Region erhöhen und ihre Sympathie gegenüber Flandern steigern. Es gibt jedoch Risiken, da dies zweifelsohne ein sehr teures Projekt wäre und es unklar ist, ob sinnvolle Ergebnisse garantiert werden können."
  flanders.15.a: "Investieren Sie in Französisch-Flandern."
  flanders.15.b: "Eine völlige Fehlverwendung von Ressourcen."
-
- flanders.16.t: "Französisch-Flandern wieder unter flämische Herrschaft gestellt!"
- flanders.16.d: "Wir haben die Franzosen erfolgreich vertrieben und die Kontrolle über die Region zurückerobert. Ein großes Umbenennungsprogramm ist bereits im Gange. Städte wie Lille wurden in Rijsel und Dunkerke in Duinkerke umbenannt. Die Bereitstellung zusätzlicher staatlicher Mittel für die Betreuung von Flüchtlingen und die Wiederherstellung der Region könnte uns helfen, mit geringem Aufwand Sympathien zu gewinnen, und es würde den Integrationsprozess sehr unterstützen."
- flanders.16.a: "Stellen Sie Mittel für Flüchtlingslager und Reparaturen zur Verfügung."
 
  flanders.17.t: "Frankophone Proteste"
  flanders.17.d: "Aufgrund umfangreicher Bemühungen der französischen Regierung, die Bedeutung der französischen Sprache in der Region zu erhöhen, sind große Landstriche einsprachig französisch geworden und leisten Widerstand gegen ihre neuen flämischen Besatzer. Um ihren Widerstand zu brechen, könnten wir den Fortbestand französischer Einrichtungen in diesen Gebieten erlauben. Dies würde die Zahl der Unruhen in der Region verringern, aber leider auch die Geschwindigkeit, mit der sie erfolgreich in Flandern reintegriert wird."
@@ -584,20 +585,4 @@ FLA_Expand_Mittel_Afrikan_Influence_desc: "Durch den Fall von Flandern-Wallonien
 FLA_Secure_Diamond_Trade: "Sichern Sie den Diamantenhandel"
 FLA_Secure_Diamond_Trade_desc: "Nahezu jeder Diamant auf dem Planeten geht durch Antwerpen, wo die überwiegend jüdische Bevölkerung den Diamantensektor kontrolliert. Indem wir mehr Abbaugenehmigungen von der mittelafrikanischen Regierung erhalten, können wir die Produktion in Afrika und damit den Handel zu Hause steigern."
 FLA_Copper_Katanga: "Kupfer aus Katanga"
- #?
 FLA_Copper_Katanga_desc: "Katanga enthält große unberührte Kupferreserven, die von flämischen Unternehmen ausgebeutet werden, aber Ressourcen wie Kobalt und andere Seltene Erden warten nur darauf, von unseren Bergbauunternehmen ausgebeutet zu werden."
-
-### Country Names ###
- FLA: "Flandern"
- FLA_ADJ: "Flämisch"
- FLA_DEF: "Flandern"
-
- FLA_totalist: "Flämische Kommunale Republik"
- FLA_totalist_ADJ: "Flämisch"
- FLA_totalist_DEF: "die Flämische Kommunale Republik"
- FLA_syndicalist: "Flämische Kommunale Republik"
- FLA_syndicalist_ADJ: "Flämisch"
- FLA_syndicalist_DEF: "die Flämische Kommunale Republik"
- FLA_radical_socialist: "Flämische Kommunale Republik"
- FLA_radical_socialist_ADJ: "Flämisch"
- FLA_radical_socialist_DEF: "die Flämische Kommunale Republik"

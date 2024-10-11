@@ -3,15 +3,8 @@
  sweden_focus: "Schwerpunktbaum von Schweden"
 
 ### Flags ###
- SWE_flag_black_monday: "Schwarzer Montag"
- SWE_flag_navy_victory: "Schwedischer Marine Fokus"
- SWE_flag_airforce_victory: "Schwedischer Luftstreitkräfte Fokus"
- swe_far_left_coalition: "Eine SAP-SSV Koalition ist an die Macht gestiegen!"
- swe_center_right_coalition: "Das Kabinett Bagge II. ist an die Macht gekommen."
  SWE_restore_kingdom: "Beabsichtigt die Wiederherstellung der Monarchie."
  SWE_permanent_junta: "Weigerte sich, die Monarchie wiederherzustellen."
-
-### Opinion Modifiers ###
 
 ### World Tension ###
  SWE_revolution_threat: "Revolution in Sweden"
@@ -50,53 +43,23 @@
 
  SWE_black_monday: "Schwarzer Montag"
  SWE_black_monday_desc: "Die Härten, die Deutschland infolge des Börsencrashs vom Schwarzen Montag getroffen haben, sind auch an Schweden nicht spurlos vorübergegangen. Mit dem Einbruch der Exporte nach Deutschland und der Liquidierung schwedischer Vermögenswerte durch deutsche Unternehmen werden immer mehr Schweden arbeitslos oder geraten in finanzielle Schwierigkeiten."
- SWE_black_monday_1: "Schwarzer Montag"
- SWE_black_monday_1_desc: "Die Härten, die Deutschland infolge des Börsencrashs vom Schwarzen Montag getroffen haben, sind auch an Schweden nicht spurlos vorübergegangen. Mit dem Einbruch der Exporte nach Deutschland und der Liquidierung schwedischer Vermögenswerte durch deutsche Unternehmen werden immer mehr Schweden arbeitslos oder geraten in finanzielle Schwierigkeiten."
- SWE_black_monday_2: "Schwarzer Montag"
- SWE_black_monday_2_desc: "Die Härten, die Deutschland infolge des Börsencrashs vom Schwarzen Montag getroffen haben, sind auch an Schweden nicht spurlos vorübergegangen. Mit dem Einbruch der Exporte nach Deutschland und der Liquidierung schwedischer Vermögenswerte durch deutsche Unternehmen werden immer mehr Schweden arbeitslos oder geraten in finanzielle Schwierigkeiten."
- SWE_black_monday_3: "Schwarzer Montag"
- SWE_black_monday_3_desc: "Die Härten, die Deutschland infolge des Börsencrashs vom Schwarzen Montag getroffen haben, sind auch an Schweden nicht spurlos vorübergegangen. Mit dem Einbruch der Exporte nach Deutschland und der Liquidierung schwedischer Vermögenswerte durch deutsche Unternehmen werden immer mehr Schweden arbeitslos oder geraten in finanzielle Schwierigkeiten."
  SWE_kth_idea: "[SWE.GetSWEprefixSW] Tekniska Högskolan"
  SWE_kth_idea_desc: "The [SWE.GetSWEprefixEN] Das Technische Institut wurde 1827 gegründet und gilt noch immer als eine der besten akademischen Einrichtungen für Ingenieurwissenschaften in Europa."
  SWE_landstormen_idea: "Landstormen"
  SWE_landstormen_idea_desc: "Landstormen sind Schwedens territoriale Milizen, die in Kriegszeiten landesweit mobilisiert werden."
 
- SWE_conservative_army_idea: "Konservative Heeresführung"
- SWE_conservative_army_idea_desc: "Die schwedische Armee ist in eine Art Doktrin-Sackgasse geraten und hat es versäumt, mit den sich rasch verändernden Kriegstaktiken Schritt zu halten. Es wird Aufgabe der Regierung sein, sie auf den neuesten Stand zu bringen."
  SWE_conservative_army_idea_1: "Konservative Heeresführung"
  SWE_conservative_army_idea_1_desc: "Die schwedische Armee ist in eine Art Doktrin-Sackgasse geraten und hat es versäumt, mit den sich rasch verändernden Kriegstaktiken Schritt zu halten. Es wird Aufgabe der Regierung sein, sie auf den neuesten Stand zu bringen."
  SWE_holmquist_army_idea: "Infanterie Armee"
  SWE_holmquist_army_idea_desc: "Die schwedische Armee wird nach den Vorstellungen von General Holmquist reformiert, wobei der Schwerpunkt auf der Ausstattung unserer Soldaten mit den modernsten Waffen und auf den Doktrinen unserer Stabsoffiziere liegt."
- SWE_holmquist_army_1: "Infanterie Armee"
- SWE_holmquist_army_1_desc: "Die schwedische Armee wird nach den Vorstellungen von General Holmquist reformiert, wobei der Schwerpunkt auf der Ausstattung unserer Soldaten mit den modernsten Waffen und auf den Doktrinen unserer Stabsoffiziere liegt."
- SWE_holmquist_army_2: "Infanterie Armee"
- SWE_holmquist_army_2_desc: "Die schwedische Armee wird nach den Vorstellungen von General Holmquist reformiert, wobei der Schwerpunkt auf der Ausstattung unserer Soldaten mit den modernsten Waffen und auf den Doktrinen unserer Stabsoffiziere liegt."
- 
  SWE_douglas_army_idea: "Mobile Armee"
  SWE_douglas_army_idea_desc: "Die schwedische Armee wird nach den Ideen von General Douglas reformiert, wobei der Schwerpunkt auf der Motorisierung und der Schaffung einer mobilen Truppe liegt, die in der Lage ist, große Landstriche schnell zu erobern."
- SWE_douglas_army_1: "Mobile Armee"
- SWE_douglas_army_1_desc: "Die schwedische Armee wird nach den Ideen von General Douglas reformiert, wobei der Schwerpunkt auf der Motorisierung und der Schaffung einer mobilen Truppe liegt, die in der Lage ist, große Landstriche schnell zu erobern."
- SWE_douglas_army_2: "Mobile Armee"
- SWE_douglas_army_2_desc: "Die schwedische Armee wird nach den Ideen von General Douglas reformiert, wobei der Schwerpunkt auf der Motorisierung und der Schaffung einer mobilen Truppe liegt, die in der Lage ist, große Landstriche schnell zu erobern."
  SWE_military_idea_1: "Armee Investitionen"
- SWE_military_idea_2: "Armee Investitionen"
- SWE_military_idea_3: "Armee Investitionen"
 
  SWE_idea_naval_investments: "Marine-Investitionen"
  SWE_idea_air_investments: "Investitionen der Luftstreitkräfte"
  SWE_tamm_idea: "Admiral Tamm's Plan"
- SWE_tamm_idea_2: "Admiral Tamm's Plan"
- SWE_tamm_idea_3: "Admiral Tamm's Plan"
  SWE_nordenskiold_idea: "General Nordenskiöld's Plan"
- SWE_nordenskiold_idea_2: "General Nordenskiöld's Plan"
- SWE_nordenskiold_idea_3: "General Nordenskiöld's Plan"
- SWE_nordenskiold_idea_4: "General Nordenskiöld's Plan"
-
- SWE_nordic_council: "Der Nordische Rat"
- SWE_common_mil_purchases: "Beschaffungsamt für Verteidigungsgüter"
- SWE_passport_union_idea: "Nordisches Passübereinkommen"
- SWE_monetary_union_idea: "Skandinavische Währungsunion"
- SWE_custom_union_idea: "Nordischer Einzel Markt"
 
  SWE_union_activity: "Industrielle Sabotage"
  SWE_union_activity_desc: "Die Syndikalisten in Norwegen versuchen, die schwedische Regierung zu destabilisieren, indem sie militante Gewerkschaften im ganzen Land finanzieren."
@@ -109,9 +72,6 @@
  SWE_kompani_linge_NOR_has_capitulated: "[SWE_kompani_linge_NOR_has_capitualted] §H[NOR.GetName]§!: $TRIGGER_HAS_CAPITULATED$"
  SWE_kompani_linge_NOR_is_not_socialist: "[SWE_kompani_linge_NOR_is_not_socialist] §H[NOR.GetName]§!: $KR_is_socialist_NOT$"
 
- SWE_public_health_care_idea: "Öffentliches Gesundheitssystem"
- SWE_education_reforms_idea: "Reformierte Bildung"
-
  SWE_idea_unity_cabinet: "Einheitliches Kabinett"
  SWE_military_work_battalions_idea: "Militärische Arbeitsbataillone"
  SWE_stapol_idea: "STAPOL"
@@ -121,6 +81,7 @@
  SWE_idea_front_riksledare_desc: "Die katastrophale strategische Lage hat den schwedischen Riksledare beunruhigt und ihn dazu veranlasst, sich den loyalen Truppen seines Landes anzuschließen, um es zu verteidigen. Die ungewöhnliche Situation, dass ihr Anführer in ihrer Mitte kämpft, sorgt für einen großen Moralschub, auch wenn sich nach einiger Zeit alles wieder normalisieren wird."
  SWE_idea_riksledare_dead: "Tod von Riksledare"
  SWE_idea_riksledare_dead_desc: "Axel Gyllenkrok starb einen glorreichen Tod auf dem Schlachtfeld, aber infolgedessen ist die Hoffnung auf eine Erholung Schwedens von den Schlägen, das es erlitten hat, geringer denn je."
+
  SWE_radicalistmilitary: "Radikalsozialistisches Militär"
  SWE_radicalistmilitary_desc: "In der radikal-sozialistischen Armee wählen die Soldaten ihre eigenen Offiziere durch eine Ratswahl. Sie vertrauen dann auf die Exekutivgewalt ihres gewählten Offiziers und folgen ihm mit außerordentlicher Loyalität."
  SWE_radicalisteconomy: "Radikale sozialistische Wirtschaft"
@@ -153,7 +114,6 @@
 
  SWE_idea_reassured_business: "Versicherte Unternehmen"
  SWE_idea_agricultural_reforms: "Agrarreformen"
- SWE_idea_welfarestate: "Wohlfahrtsstaat"
  SWE_idea_folkhemmet: "Volksgesundheit"
  SWE_idea_market_reforms: "Markt Reformen"
  SWE_corporatized_statare_idea: "Statare"
@@ -171,7 +131,6 @@
  SWE_idea_rocketry_setback: "Rückschlag in der Raketentechnik"
 
 ### Focuses ###
-
  SWE_issues_at_hand: "Die aktuellen Probleme"
  SWE_issues_at_hand_desc: "Obwohl wir im Vergleich zu anderen Ländern in Europa relativen Wohlstand genießen, sind die Menschen immer noch nicht zufrieden. Wir können die wirtschaftlichen und sozialen Probleme, denen wir als Nation gegenüberstehen, nicht ignorieren. Am Ende unserer Amtszeit müssen wir sicher sein, dass wir alles für das schwedische Volk getan haben, vor allem, wenn wir neu gewählt werden wollen."
  SWE_reassure_big_businesses: "Große Unternehmen beruhigen"
@@ -196,14 +155,23 @@
  SWE_equal_society_desc: "Die Reformen der SAP haben Schweden von einer hierarchischen Gesellschaft, in der die Macht in den Händen einiger weniger liegt, in eine Gesellschaft verwandelt, in der alle Männer und Frauen wirklich gleich sind. Gleichberechtigung und Chancengleichheit sind jetzt ein wichtiger Teil der schwedischen Identität!"
  SWE_folkhemmet: "Folkhemmet"
  SWE_folkhemmet_desc: "Das SAP-Ideal von Folkhemmet wird nun landesweit umgesetzt! Schweden ist nun das gute Heim für sein Volk geworden, das es immer hätte sein sollen. Die Reformen der SAP haben die Ungleichheiten eines zuvor mangelhaften Systems gemildert und zu einem System gemacht, in dem niemand von der Regierung vernachlässigt wird."
- SWE_conservative_victory: "Sieg der Konservativen"
- SWE_conservative_victory_desc: "Glücklicherweise haben die schwedischen Konservativen unsere Macht erhalten und die Katastrophe abgewendet, die durch die SAP verursacht worden wäre. Es ist klar, dass die Menschen nicht wollten, dass Schweden den Weg Großbritanniens oder Frankreichs geht, und sie haben ihr Vertrauen in den Konservativismus erneuert. Jetzt können wir weiterhin die Vorteile des Marktes nutzen und die Lebensqualität unserer Bürger verbessern, ohne auf die gefährlichen Ideale des Syndikalismus zurückzugreifen."
- SWE_free_trade_economy: "Freihandelswirtschaft"
- SWE_free_trade_economy_desc: "Es ist an der Zeit, dass wir zur Vernunft kommen und erkennen, dass Zölle weit mehr schaden als nützen. Viele Nationen würden gerne etwas von den riesigen Ressourcen kaufen, die wir haben, und es ist das Beste, wenn wir uns mit sinnlosem Protektionismus aus diesem Prozess heraushalten."
  SWE_abolish_statare: "Abschaffung der Statare"
  SWE_abolish_statare_desc: "Statare ist keineswegs ein beliebtes oder stolzes Programm, das in Schweden existiert. Die Bedingungen derjenigen, die unter diesem Programm leben, sind nicht gerade ideal. Wir sollten unsere Machtposition nutzen, um es formell abzuschaffen. Wir sagen voraus, dass es nicht vermisst werden wird."
  SWE_basis_of_democracy: "Basis der Demokratie"
  SWE_basis_of_democracy_desc: "Das Volk hat gesprochen und wir haben geantwortet! Diese Wahlen waren voller Sorgen angesichts der zunehmenden Spannungen zwischen den Rechten und den Linken. Dennoch ist es uns gelungen, den schmalen Weg zu gehen und unsere demokratischen Traditionen, die unserer Nation in der Vergangenheit so gut gedient haben, zu bewahren."
+ SWE_conservative_victory: "Sieg der Konservativen"
+ SWE_conservative_victory_desc: "Glücklicherweise haben die schwedischen Konservativen unsere Macht erhalten und die Katastrophe abgewendet, die durch die SAP verursacht worden wäre. Es ist klar, dass die Menschen nicht wollten, dass Schweden den Weg Großbritanniens oder Frankreichs geht, und sie haben ihr Vertrauen in den Konservativismus erneuert. Jetzt können wir weiterhin die Vorteile des Marktes nutzen und die Lebensqualität unserer Bürger verbessern, ohne auf die gefährlichen Ideale des Syndikalismus zurückzugreifen."
+ SWE_free_trade_economy: "Freihandelswirtschaft"
+ SWE_free_trade_economy_desc: "Es ist an der Zeit, dass wir zur Vernunft kommen und erkennen, dass Zölle weit mehr schaden als nützen. Viele Nationen würden gerne etwas von den riesigen Ressourcen kaufen, die wir haben, und es ist das Beste, wenn wir uns mit sinnlosem Protektionismus aus diesem Prozess heraushalten."
+ SWE_marlib_lower_taxes: "Niedrigere Steuern"
+ SWE_marlib_lower_taxes_desc: "Wir sind jetzt wirtschaftlich an einem Punkt angelangt, an dem wir die Steuern senken und die Staatsausgaben reduzieren können. Wir müssen und sollten die Wirtschaft nicht kontrollieren, denn ein weiteres Eingreifen würde das Wirtschaftswachstum nur behindern. Aber wir müssen auch die Sozialausgaben reduzieren - wir haben im Moment nicht genug Geld. Zweifellos wird dies bei den Menschen unpopulär sein, aber es wird sich hoffentlich auszahlen."
+ SWE_marlib_resource_investments: "Investitionen in Ressourcen"
+ SWE_marlib_resource_investments_desc: "Schweden ist reich an natürlichen Ressourcen - insbesondere das wertvolle Eisenerz ist ein wertvolles Gut auf dem europäischen Markt. Wir können in Minen investieren und den Abbauprozess verbessern - das wird mehr Arbeitsplätze schaffen und Einnahmen generieren."
+ SWE_marlib_foreign_investments: "Ausländische Investitionen in die Rüstungsindustrie"
+ SWE_marlib_foreign_investments_desc: "Die 'Bofors'-Geschütze und die 'Landsverk'-Panzer sind nicht nur bei unseren Militärs beliebt, auch andere Länder sind an ihnen interessiert. Indem wir ausländische Investitionen in die Rüstungsindustrie anlocken, können wir mehr Panzer und Geschütze produzieren - und mehr Gewinn machen!"
+ SWE_marlib_welfare_reforms: "Sozialreformen"
+ SWE_marlib_welfare_reforms_desc: "Jetzt, nachdem die versprochenen Marktreformen abgeschlossen und erfolgreich sind, müssen wir in den Wohlstand investieren und einen Teil der Gewinne dorthin umleiten. Das wird soziale Spannungen und den Einfluss sozialistischer Ideen verringern."
+
  SWE_temporary_military_government: "Vorläufige Militärregierung"
  SWE_temporary_military_government_desc: "Die Katastrophe ist abgewendet! In unserer dunkelsten Stunde ist das Militär eingeschritten und hat die brutale Umwandlung unserer Regierung in ein syndikalistisches Höllenloch verhindert. Bevor das Militär die Macht abgibt, müssen wir die Stabilität unseres Landes sichern. Wir sind keine Despoten!"
  SWE_return_of_the_king: "Rückkehr des Königs?"
@@ -230,6 +198,8 @@
  SWE_military_crackdowns_desc: "Das Land ist voll von Ungehorsam! Viele protestieren gegen die vorübergehende Militärregierung, aber wir können unsere Machtposition nutzen, um gegen die widerspenstigen Demonstranten vorzugehen."
  SWE_loyalty_to_the_flag: "Loyalität gegenüber der Flagge"
  SWE_loyalty_to_the_flag_desc: "Seit 500 Jahren inspiriert das wunderschöne blau-gelbe Kreuz Schwedens Millionen von Menschen und vermittelt Vertrauen in unser Land und unsere Werte. Es sollte dem schwedischen Durchschnittsbürger Tränen in die Augen treiben. Die Menschen sollten für die Flagge stehen, so wie die Flagge für sie steht. So wie es eine unsterbliche Loyalität zum Staat geben sollte, sollte es auch eine unsterbliche Loyalität zur Flagge geben!"
+ SWE_for_our_nation: "Für unsere Nation!"
+ SWE_for_our_nation_desc: "Patriotischer Eifer kann ein Sammelpunkt sein, um die Stabilität in Schweden zu erhöhen! Diejenigen, denen die Nation am Herzen liegt, werden uns helfen, sie zusammenzuhalten!"
  SWE_ehrensvard_cabinet: "Ehrensvard Kabinett"
  SWE_ehrensvard_cabinet_desc: "Die ständige militärische Macht wird von General Carl August Ehrensvärd übernommen. Seine Machtübernahme dient als Präventivmaßnahme, um zu verhindern, dass die radikalere Militärfraktion Schweden in eine noch extremere Stratokratie verwandelt. Er wird gemeinsam mit seinem Bruder Gösta Ehrensvärd regieren, und es wird erwartet, dass er dem schwedischen Volk, das immer noch für die Demokratie ist, Zugeständnisse macht."
  SWE_swedish_thaw: "Das schwedische Tauwetter"
@@ -306,8 +276,6 @@
  SWE_urbanisation_desc: "Wir schreiben das 20. Jahrhundert, und die gesamte Gesellschaft entwickelt sich in Richtung Urbanisierung. Es wäre ein großer Vorteil für uns, wenn wir uns auch darauf einlassen würden, denn in Schweden gibt es viele Agrargesellschaften."
  SWE_landstormen: "Landstormen mobilisieren"
  SWE_landstormen_desc: "Die Landstormen sind eine territoriale Miliz, die in Zeiten der Not mobilisiert werden kann. Da die Welt immer instabiler wird, ist es für uns an der Zeit, die Landstormen zu mobilisieren, bevor es zu spät ist."
- SWE_national_austerity: "Nationale Sparsamkeit"
- SWE_national_austerity_desc: "In Krisenzeiten ist es wichtig, dass wir nur Geld für das ausgeben, was wir brauchen. Die Verschuldung für kostspielige Projekte zu erhöhen, ist absurd, und wir müssen flächendeckend wirtschaftliche Sparsamkeit praktizieren."
  SWE_skanelinjen: "Errichtet Skånelinjen(Schonen-Linie)"
  SWE_skanelinjen_desc: "In Nordeuropa herrschte relativer Frieden im Vergleich zu unseren südlichen Nachbarn, die sich während des Weltkriegs fast in Stücke gerissen haben. Wenn sich die Lage im Süden wieder aufheizt, können wir uns durch den Bau von Festungen an unseren südlichen Küsten schützen."
  SWE_military_production_act: "Militärproduktionsgesetz"
@@ -320,7 +288,6 @@
  SWE_beurling_commission_desc: "Wir könnten unsere Technologie verbessern, indem wir eine Kommission von Wissenschaftlern unter dem Vorsitz des Mathematikers und Professors Arne Beurling von der Universität Uppsala bilden. Seine Dechiffrierkenntnisse könnten bei einer Konfrontation mit militärischen oder geheimen Mitteln entscheidend sein."
  SWE_foa_focus: "FOA einrichten"
  SWE_foa_focus_desc: "Es wurde vorgeschlagen, die Försvarets forskningsanstalt aus den separaten Forschungsgruppen FKA, MFI und SUN zu bilden, die den technischen Zweig unserer Streitkräfte bilden, um unsere Forschung zu rationalisieren."
- SWE_ab_atomenergi: "Die Schwedische Linie"
 
  SWE_forsvarsbeslutet_1936: "Försvarsbeslutet(Verteidigungsentscheidung) 1936"
  SWE_forsvarsbeslutet_1936_desc: "Während wir seit 1814 in Frieden leben, drohen andere Länder dieses Gleichgewicht zu zerstören. Wir können vorbeugende Maßnahmen ergreifen, indem wir die militärische Verteidigung finanzieren."
@@ -337,7 +304,9 @@
  SWE_modern_caroleans: "Karolinger des 20. Jahrhunderts"
  SWE_modern_caroleans_desc: "Die Karolinger waren Elitesoldaten der Könige Karl XI. und XII. Ihre Leistungen während des Großen Nordischen Krieges sind legendär: Sie gewannen oft Schlachten, obwohl sie zahlenmäßig weit unterlegen waren. Noch heute können wir von ihren Taktiken lernen!"
  SWE_douglas_plan: "Bewegungskrieg"
- SWE_douglas_plan_desc: "[SWE_douglasfocutext]"
+ SWE_douglas_plan_desc: "[SWE_douglasfocutext] wir verwandeln die Schwedische Armee in eine Mobile Truppe, die in der Lage ist, die feindlichen Streitkräfte zu überlisten und unsere Feinde schnell zu neutralisieren"
+ SWE_douglasfocutext_alive: "Unser leitender Stabsoffizier Archibald Douglas schlägt vor"
+ SWE_douglasfocutext_dead: "Der ehemalige leitende Stabsoffizier Archibald Douglas schlug vor"
  SWE_domestic_designs: "Entwicklung von Panzerdesigns"
  SWE_domestic_designs_desc: "Schweden ist mit einer bescheidenen, aber qualitativ hervorragenden heimischen Waffenindustrie gesegnet. Durch die Nutzung neuester Entwicklungen können wir uns einen Vorteil sichern, den der Feind nicht hat."
  SWE_landsverk_focus: "AB Landsverk"
@@ -383,17 +352,11 @@
  SWE_naval_college_desc: "Die [SWE.GetSWEprefixEN] Schwedische Marineakademie ist speziell auf die Ausbildung der unteren Offiziere ausgerichtet. Indem wir in diese Einrichtung investieren, fördern wir die Herausbildung einer Marinedoktrin, die der heutigen Zeit angemessen ist."
  SWE_destroyers: "Mode-Klasse Zerstörer"
  SWE_destroyers_desc: "Die kleinsten Schiffe, die Zerstörer, spielen eine entscheidende Rolle bei der Verteidigung ihrer größeren Brüder, insbesondere im Kampf gegen Angriffe von U-Booten. Wir sollten in ihre Entwicklung investieren, um unsere eigene Verteidigung zu gewährleisten."
- SWE_marines_focus: "Amfibiekåren(Amphibische Korps)"
- SWE_marines_focus_desc: "Durch die Aufstellung eines speziell für die amphibische Kriegsführung ausgebildeten amphibischen Korps können wir uns einen Vorsprung auf dem Schlachtfeld in Situationen sichern, die sich normalerweise als schwierig erweisen würden, wie z.B. Flussüberquerungen und Seelandungen."
  SWE_airforce_supremacy: "Vormachtstellung der Luftwaffe"
  SWE_airforce_supremacy_desc: "WNur wenige Jahrzehnte nach der Erfindung des Motorflugs haben Flugzeuge den Luftraum zu einem der wichtigsten Kriegsschauplätze gemacht. Unabhängig davon, wo die Prioritäten bei der Finanzierung gesetzt werden, muss Schweden eine Luftwaffe unterhalten, die in der Lage ist, seinen Luftraum zu verteidigen und seine Macht über ihn hinaus auszudehnen."
  SWE_fighter_1: "FFVS J-22"
  SWE_fighter_1_desc: "Die FFVS J-22 ist ein einmotoriges Kampfflugzeug, das speziell für die schwedischen Luftstreitkräfte entwickelt wurde und uns einen Vorteil verschafft, falls der Krieg in Nahkämpfe ausartet, bei denen andere auf minderwertige Flugzeuge zurückgreifen müssen."
  SWE_saab_focus: "Svenska Aeroplan AB"
- SWE_saab_focus_desc: "SAAB ist aus dem Zusammenschluss von Svenska Aero AB und dem Flugzeughersteller ASJA in Linköping hervorgegangen und ist ein hervorragender, rein schwedischer Flugzeughersteller. Ihre Flugzeugkonstruktionen könnten uns einen großen Segen für die Luftkriegsführung bringen."
- SWE_tac_nav: "Flexible Luftwaffe"
- SWE_tac_nav_desc: "Indem wir unsere relativ flexible Luftwaffe taktisch nutzen, werden wir in der Lage sein, schnell zwischen strategischen Bombenangriffen und der Unterstützung unserer Truppen auf dem Schlachtfeld zu wechseln. Diese Flexibilität wird es uns wiederum ermöglichen, schnell von einer Taktik zur Störung des Feindes zur anderen zu wechseln."
- SWE_fighter_2: "Moderne Jäger"
  SWE_fighter_2_desc: "Schweden kann es sich nicht leisten, bei den Jägern ins Hintertreffen zu geraten, denn der Rest unserer Luftwaffe wäre wenig wert, wenn wir nicht in der Lage sind, sie gegen feindliche Jäger zu verteidigen. Deshalb müssen wir bei der Entwicklung von Jägertechnologie wachsam bleiben."
  SWE_air_academy: "[SWE.GetSWEprefixSW] Flygkrigshögskolan(Luftkriegsschule)"
  SWE_air_academy_desc: "Die [SWE.GetSWEprefixEN] Stabsakademie der schwedischen Luftwaffe soll in Stockholm eingerichtet werden, um höhere Lehrgänge für den Stabsdienst oder den technischen Stabsdienst anzubieten, und außerdem ist geplant, in Zukunft auch halbjährige allgemeine Lehrgänge anzubieten. Diese Forschung wird uns einen Vorsprung in der Fliegerdoktrin verschaffen."
@@ -401,17 +364,6 @@
  SWE_airborne_focus_desc: "Indem wir eine spezialisierte Kampftruppe ausbilden, die in der Lage ist, hinter den feindlichen Linien abgesetzt zu werden, um Informationen zu beschaffen oder Chaos anzurichten, können wir uns einen taktischen Vorteil gegenüber unserem Feind sichern, und zwar aus einer Ecke, aus der ihn niemand erwartet hat."
  SWE_radar_jet_focus: "RADAR und Jets"
  SWE_radar_jet_focus_desc: "RADAR und Jet-Technologie sind die Zukunft der Kriegsführung in der Luft. Mit RADAR-Geräten und der Fähigkeit, Industriegebiete aus vielen hundert Kilometern Entfernung zu zerstören, wird niemand mehr unsere Luftwaffe herausfordern können!"
-
- SWE_marlib_lower_taxes: "Niedrigere Steuern"
- SWE_marlib_lower_taxes_desc: "Wir sind jetzt wirtschaftlich an einem Punkt angelangt, an dem wir die Steuern senken und die Staatsausgaben reduzieren können. Wir müssen und sollten die Wirtschaft nicht kontrollieren, denn ein weiteres Eingreifen würde das Wirtschaftswachstum nur behindern. Aber wir müssen auch die Sozialausgaben reduzieren - wir haben im Moment nicht genug Geld. Zweifellos wird dies bei den Menschen unpopulär sein, aber es wird sich hoffentlich auszahlen."
- SWE_marlib_resource_investments: "Investitionen in Ressourcen"
- SWE_marlib_resource_investments_desc: "Schweden ist reich an natürlichen Ressourcen - insbesondere das wertvolle Eisenerz ist ein wertvolles Gut auf dem europäischen Markt. Wir können in Minen investieren und den Abbauprozess verbessern - das wird mehr Arbeitsplätze schaffen und Einnahmen generieren."
- SWE_marlib_welfare_reforms: "Sozialreformen"
- SWE_marlib_welfare_reforms_desc: "Jetzt, nachdem die versprochenen Marktreformen abgeschlossen und erfolgreich sind, müssen wir in den Wohlstand investieren und einen Teil der Gewinne dorthin umleiten. Das wird soziale Spannungen und den Einfluss sozialistischer Ideen verringern."
- SWE_marlib_foreign_investments: "Ausländische Investitionen in die Rüstungsindustrie"
- SWE_marlib_foreign_investments_desc: "Die 'Bofors'-Geschütze und die 'Landsverk'-Panzer sind nicht nur bei unseren Militärs beliebt, auch andere Länder sind an ihnen interessiert. Indem wir ausländische Investitionen in die Rüstungsindustrie anlocken, können wir mehr Panzer und Geschütze produzieren - und mehr Gewinn machen!"
- SWE_for_our_nation: "Für unsere Nation!"
- SWE_for_our_nation_desc: "Patriotischer Eifer kann ein Sammelpunkt sein, um die Stabilität in Schweden zu erhöhen! Diejenigen, denen die Nation am Herzen liegt, werden uns helfen, sie zusammenzuhalten!"
 
 ### Parties ###
  SWE_totalist_party: "VPT"
@@ -437,8 +389,6 @@
 
  SWE_authoritarian_democrat_alternate_party: "AV"
  SWE_authoritarian_democrat_alternate_party_long: "Allmänna Valmansförbundet(Allgemeiner Wahlverband)"
- SWE_authoritarian_democrat_alternate_party_two: "Högern"
- SWE_authoritarian_democrat_alternate_party_two_long: "Högerns Riksorganisation(Reichsorganisation)"
  SWE_social_conservative_alternate_party: "Högern"
  SWE_social_conservative_alternate_party_long: "Högerns Riksorganisation(Reichsorganisation)"
 
@@ -454,7 +404,6 @@
 ### Events ###
 
 ### 1936 Events ###
-
  swe.1.t: "Schwarzer Montag kommt in Schweden an"
  swe.1.d: "Vor zwei Wochen implodierte der deutsche Aktienmarkt, und nun schlagen die Wellen auch bei uns hoch, da zuerst die Stockholmsbörsen dem Schicksal Berlins folgten und bald darauf auch der Rest der Wirtschaft.\n\nSeit dem Zweiten Weltkrieg ist Schweden in hohem Maße vom deutschen Handel abhängig geworden und hat sich gemeinsam mit Dänemark der Organisation Mitteleuropa angeschlossen. Infolgedessen wurden unsere Handelsbeziehungen immer einseitiger und waren auf die Länder in der zollfreien Zone ausgerichtet: Deutschland, Dänemark und die deutschen Marionettenstaaten an der Ostseeküste, auf Kosten anderer Handelspartner wie Norwegen und Großbritannien, mit denen der Handel mit Zöllen oder, im letzteren Fall, sogar mit Embargos belegt ist."
  swe.1.a: "Herr, mein Schöpfer!"
@@ -631,12 +580,12 @@
  swe.39.a: "Definitiv!"
  swe.39.b: "Wir werden niemals mit diesen Sockenpuppen in den Kampf ziehen!"
 
- swe.40.t: "Frankreich akzeptiert!"
- swe.40.d: "Wir haben von der kommunarischen Regierung die Nachricht erhalten, dass wir im Kampf gegen die Kräfte der Reaktion und die dunklen Kräfte des Finanzkapitalismus willkommen sind. Gemeinsam werden wir die Bourgeoisie zerschmettern!"
+ swe.40.t: "[FROM.GetNameDefCap] akzeptiert!"
+ swe.40.d: "Wir haben von der [FROM.GetAdjective] Regierung die Nachricht erhalten, dass wir im Kampf gegen die Kräfte der Reaktion und die dunklen Kräfte des Finanzkapitalismus willkommen sind. Gemeinsam werden wir die Bourgeoisie zerschmettern!"
  swe.40.a: "Hurra!"
 
- swe.41.t: "Frankreich weist uns ab!"
- swe.41.d: "Die Kommunarden haben uns wissen lassen, dass wir auf dem Schlachtfeld gegen die Kräfte der Reaktion nicht willkommen sind. Offensichtlich betrachten sie uns als eine weitere Front, die nicht gehalten werden kann."
+ swe.41.t: "[FROM.GetNameDefCap] weist uns ab!"
+ swe.41.d: "Die [FROM.GetAdjective] Regierung hat uns wissen lassen, dass wir auf dem Schlachtfeld gegen die Kräfte der Reaktion nicht willkommen sind. Offensichtlich betrachten sie uns als eine weitere Front, die nicht gehalten werden kann."
  swe.41.a: "Verflucht seien die Schneckenfresser!"
 
  swe.42.t: "Eine Statue für einen wahren Revolutionär"
@@ -663,7 +612,7 @@
  swe.46.b: "Sie wären nur eine Last, die es zu schützen gilt."
 
  swe.47.t: "Deutschland hat unseren Vorschlag angenommen"
- swe.47.d: "Wir haben von unserer Botschaft in Berlin die Nachricht erhalten, dass die kaiserlichen Regierungen unserem Antrag zugestimmt haben, ihrem Bündnis als Vorhut gegen den Syndikalismus beizutreten!"
+ swe.47.d: "Wir haben von unserer Botschaft in [FROM.Capital.GetCapitalVictoryPointName] die Nachricht erhalten, dass die kaiserlichen Regierungen unserem Antrag zugestimmt haben, ihrem Bündnis als Vorhut gegen den Syndikalismus beizutreten!"
  swe.47.a: "Wir stehen gemeinsam gegen Anarchie!"
 
  swe.48.t: "Deutschland weist uns ab"
@@ -967,7 +916,6 @@
  swe.118.a: "Von ihren Feinden fast überrannt und immer noch Drohungen ausstoßen, hah!"
  swe.118.b: "Wir geben zu, dass wir uns einen Krieg mit Finnland nicht leisten können."
 
- swe.119.t: "Die Schweden weigern sich!"
  swe.119.d: "Die perfiden Schweden scheinen uns wegen unserer derzeitigen militärischen Situation nicht ernst zu nehmen und weigern sich, die Åland-Inseln wieder unter unsere Kontrolle zu geben."
  swe.119.a: "Dann ist Krieg!"
  swe.119.b: "Dann können wir wirklich nichts mehr tun..."
@@ -985,19 +933,10 @@
  swe.123.d: "Wir haben die Bestätigung erhalten, dass der Leichnam des Riksledare, der inmitten seiner Truppen in der Schlacht von Stockholm gekämpft hat und seit mehreren Tagen als vermisst galt, vom Feind gefunden wurde. Auf Befehl von Archibald Douglas, Gyllenkroks Freund und ehemaliger Vorgesetzter, der auf Anweisung von Gyllenkrok zum neuen Riksledare erklärt wurde, wurden ihm in Abwesenheit Ehrungen zuteil."
  swe.123.a: "Der Riksledare ist tot. Lang lebe die Riksledare!"
 
- swe.124.t: "Der Riksledare ist tot"
  swe.124.d: "Der große Führer unserer Nation, Riksledare Axel Gyllenkrok, ist friedlich in seiner Villa verstorben. Natürlich wird ganz Schweden nun eine Woche lang trauern, doch während man ihm die letzte Ehre erweist, wird seine Macht sofort angefochten. Gyllenkrok hat ganz offen seinen Wunsch geäußert, von seinem Freund, Adligen und ehemaligen Vorgesetzten Archibald Douglas abgelöst zu werden, aber sein Aufstieg an der Spitze wird von den ideologischen Extremisten innerhalb der SRNS angefochten, die sich stattdessen Martin Ekström als neuen Riksledare wünschen. Und dann gibt es noch einige in der Armee, die genug von den totalitären Taktiken der SRNS haben und Helge Jung als gemäßigten Kandidaten installieren wollen."
  swe.124.a: "Douglas wurde von Gyllenkrok selbst ausgewählt!"
  swe.124.b: "Ekström soll die schwedische ideologische Reinheit bewahren!"
  swe.124.c: "Jung soll die Normalität zurückbringen!"
-
- swe.125.t: "Schweden verlässt den Reichspakt"
- swe.125.d: "Wir haben vom schwedischen Botschafter die Nachricht erhalten, dass sie unser Militärbündnis beenden wollen und damit offiziell und effektiv ihre Reichspaktzugehörigkeit beenden."
- swe.125.a: "Verräter!"
-
- swe.126.t: "Schweden verlässt die Internationale"
- swe.126.d: "Wir haben vom schwedischen Botschafter die Nachricht erhalten, dass sie unser Militärbündnis beenden wollen und damit offiziell und effektiv ihre Mitgliedschaft in der Dritten Internationale beenden."
- swe.126.a: "Verräter!"
 
  swe.128.t: "Raketen-Unfall"
  swe.128.d: "Eine unserer Raketen, die wir zur Erweiterung unserer Kenntnisse im Bereich der Raketentechnik getestet haben, ist etwas verunglückt: Die Flugbahn der Rakete, die in die Ostsee fallen sollte, um von uns wieder eingesammelt zu werden, war falsch berechnet worden. Infolgedessen ist die Rakete nur knapp 200 km nördlich ihres ursprünglich geplanten Ziels abgestürzt. Die örtlichen Behörden sind natürlich schon ganz aus dem Häuschen."
@@ -1008,30 +947,14 @@
  swe.129.a: "Wer's findet, darf's behalten!"
 
  swe.130.t: "Gustaf V. von Schweden dankt vom Thron ab"
- swe.130.d: "In einer Pressemitteilung vor dem Stockholmer Schloss schockierte Seine Hoheit König Gustaf V. heute die Welt mit der Erklärung, dass er auf den schwedischen Thron verzichtet und damit die über 115 Jahre währende Herrschaft des Hauses Bernadotte auflöst. Seine Hoheit wird mit den Worten zitiert: "Die gewählten Vertreter des schwedischen Volkes haben es für notwendig befunden, mich um meine Abdankung zu bitten. Diese Entscheidung fällt mir nicht leicht, aber ich werde mich dem Willen des Volkes nicht widersetzen." Die schwedische Königsfamilie hat die Erlaubnis erhalten, ihren Wohnsitz im Lande beizubehalten, muss aber alle königlichen Titel aufgeben. Mitglieder der königlichen Familie, darunter Gustafs eigener Sohn und Enkel, haben es vorgezogen, das Land zu verlassen, anstatt auf ihre Titel zu verzichten. Die regierende SAP hat anstelle der Könige ihren Führer Per Albin Hansson zum Präsidenten der neuen schwedischen Republik ernannt. Die Zukunft Schwedens scheint ungewiss."
+ swe.130.d: "In einer Pressemitteilung vor dem Stockholmer Schloss schockierte Seine Hoheit König Gustaf V. heute die Welt mit der Erklärung, dass er auf den schwedischen Thron verzichtet und damit die über 115 Jahre währende Herrschaft des Hauses Bernadotte auflöst. Seine Hoheit wird mit den Worten zitiert: \"Die gewählten Vertreter des schwedischen Volkes haben es für notwendig befunden, mich um meine Abdankung zu bitten. Diese Entscheidung fällt mir nicht leicht, aber ich werde mich dem Willen des Volkes nicht widersetzen.\" Die schwedische Königsfamilie hat die Erlaubnis erhalten, ihren Wohnsitz im Lande beizubehalten, muss aber alle königlichen Titel aufgeben. Mitglieder der königlichen Familie, darunter Gustafs eigener Sohn und Enkel, haben es vorgezogen, das Land zu verlassen, anstatt auf ihre Titel zu verzichten. Die regierende SAP hat anstelle der Könige ihren Führer Per Albin Hansson zum Präsidenten der neuen schwedischen Republik ernannt. Die Zukunft Schwedens scheint ungewiss."
  swe.130.a: "Das Nordlicht verdunkelt sich Weiter."
 
  swe.131.t: "Schwedische Armee verhängt Kriegsrecht"
  swe.131.d: "Nach der Umwandlung Schwedens in eine sozialistische Republik unter der SAP-SSV-Koalition und der Abschaffung der Monarchie haben General Oscar Nygren und die schwedischen Streitkräfte heute Morgen im Schutz der Nacht Stockholm eilig besetzt und das Kriegsrecht über die Stadt verhängt. Bataillone der Militärpolizei haben den Befehl erhalten, alle sozialistischen Politiker, die mit dem Kabinett Hansson in Verbindung stehen, zu verhaften, während die nationalen Sicherheitskräfte mobilisiert wurden, um alle Bereiche des sozialistischen Widerstands zu sichern. Obwohl es Berichte über ein gewisses Blutvergießen gab, scheint der Putsch relativ ungehindert verlaufen zu sein. Eine der ersten Entscheidungen von General Nygren an der Spitze des schwedischen Staates war die Wiedereinführung der Titel der königlichen Familie und die Wiedereinladung von Gustaf Adolf, dem Enkel von Gustaf V. Schweden könnte wieder stabil sein, aber es bleibt abzuwarten, was die Zukunft bringt."
  swe.131.a: "Auf die eine oder andere Weise kehrt die Ordnung nach Schweden zurück."
 
-### Elections ###
-
 ### Focus Tree Events ###
- swefocus.1.t: "Die schwedischen Wahlen von [GetMonth][GetYear]"
- swefocus.1.desc: "Lol Text."
- swefocus.1.a: "Sieg der Opposition!"
- swefocus.1.b: "Konservativer Sieg!"
-
- swefocus.3.t: "Abdankung des Königs"
- swefocus.3.desc: "Lol Text."
- swefocus.3.a: "Raus, König, wir werden jetzt eine Republik sein!"
-
- swefocus.7.t: "Die Rückkehr des Königs"
- swefocus.7.desc: "Lol Text."
- swefocus.7.a: "Der Sohn von König Gustaf V."
- swefocus.7.b: "Permanente Militärregierung"
-
  swefocus.100.t: "Der Luftwaffen-Gipfel"
  swefocus.100.desc: "Die schwedische Wirtschaft ist nicht in der Lage, die Anforderungen zu erfüllen, die die Marine und die Luftwaffe in letzter Zeit gestellt haben. Die Marine ist groß, aber die meisten Schiffe sind alt und müssen ersetzt werden. Der Marinevorstand möchte neue gepanzerte Schiffe sowie moderne Begleitschiffe und U-Boote bauen. Das Ziel ist ein dreifaches. Die Marine muss in der Lage sein, Schwedens lange Küste zu schützen, die Ostsee zu kontrollieren und Macht zu demonstrieren. Obwohl es nur angedeutet wurde, ist klar, dass die Marineleitung an Åland, Finnland und das Baltikum denkt.\n\nGleichzeitig hat die schwedische Luftwaffe Pläne für einen drastischen Ausbau des Dienstes vorgelegt. Die schwedische Luftwaffe hat einen drastischen Ausbau der Luftwaffe vorgeschlagen. Schweden könnte über eine große Luftwaffe verfügen, die sich aus modernen, einheimischen Modellen zusammensetzt.\n\nIt is clear that the Swedish economy cannot support the development of both a modern navy and a modern air force. Both military leaders and ministers have demanded that the government makes a decision. Which service should receive priority in the future?"
  swefocus.100.a: "Wir brauchen eine starke Marine."
@@ -1054,8 +977,8 @@
  swefocus.112.a: "Funktechnik."
  swefocus.112.b: "Panzer-Geschwindigkeit."
  swefocus.112.c: "Robuste Panzerung."
-### Swedish Socialism elections ###
 
+### Swedish Socialism elections ###
  swe_syncon.1.t: "Die Versammlung des Revolutionskomitees - Regierungsstatus"
  swe_syncon.1.d: "Der Revolutionsausschuss ist zu seiner ersten Sitzung zusammengetreten. Die Spannungen sind groß, da alle drei Parteien in diesem neuen, seltsamen politischen Klima um die Macht ringen. Die Mitgliederzahlen aller Parteien explodieren, obwohl die Sveriges Socialdemokratiska Vänsterparti (SSV) die mit Abstand größte ist.\n\n Von seinem Podium aus plädiert Karl Kilbom von der SSV dafür, dass wir (der Staat) uns im neuen Schweden um alle kümmern, die es brauchen, ohne sich in die Angelegenheiten der Bürger einzumischen. Nils Flyg von der Vänsterpartiet Totalisterna (VPT) behauptet, dass eine Bürgerpolizei eingerichtet werden muss, um "die Revolution zu schützen", während Albert Jensen von der Sveriges Arbetares Centralorganisation (SAC) fordert, dass jede Kommune für sich selbst sorgen sollte."
  swe_syncon.1.a: "Jensen hat das Recht dazu."
@@ -1086,19 +1009,16 @@
  swe_syncon.5.a: "Nils Flyg wird Schweden in den Himmel heben."
 
  #RadicalSocialist:
- swe_syncon.6.t: "Der Generalsekretär der Ersten Schwedischen Arbeiterversammlung"
  swe_syncon.6.d: "Die Radikalen Sozialisten haben in den revolutionären Versammlungen gewonnen. Da die Mehrheit unserer letzten Vorschläge angenommen wurde, zeigt sich, dass unsere Strategie, während der Debatten am lautesten zu reden, erfolgreich war. Mit einem neuen radikalen sozialistischen Regime, das bereit ist, als Generalsekretär der Ersten Schwedischen Arbeiterversammlung den Sitz der ultimativen Macht zu erklimmen, haben wir eine einzige, letzte Entscheidung zu treffen.\n\nWer sollte dort sitzen? Viele dachten an Kilbom, einen ehemaligen Seemann und Journalisten, als offensichtliche Wahl, aber die berühmte und unglaublich beliebte Dichterin und Schriftstellerin Karin Boye ist in letzter Zeit in den Reihen der Partei aufgestiegen."
  swe_syncon.6.a: "Karl Kilbom ist das, was Schweden braucht."
  swe_syncon.6.b: "Und der Tag bist du, Karin Boye."
 
  #Syndicalist:
- swe_syncon.7.t: "Der Generalsekretär der Ersten Schwedischen Arbeiterversammlung"
  swe_syncon.7.d: "Die Syndikalisten haben in den revolutionären Versammlungen gewonnen. Da eine Mehrheit unserer letzten Vorschläge angenommen wurde, zeigt sich, dass unsere Strategie, während der Debatten am lautesten zu reden, erfolgreich war. Mit einem neuen syndikalistischen Regime, das bereit ist, den Sitz der ultimativen Macht als Generalsekretär der Ersten Schwedischen Arbeiterversammlung zu besteigen, haben wir eine einzige, letzte Entscheidung zu treffen.\n\nWer soll dort sitzen? Das letzte Los hat sich zwischen Elise Ottesen-Jensen, einer ehemaligen Sexualpädagogin und Agitatorin und Ehefrau von Albert Jensen, einer weiteren wichtigen Figur der syndikalistischen Bewegung, und ihrem Widersacher Frans Severin, einem weiteren einflussreichen Mitglied des SAC-Kongresses, entschieden."
  swe_syncon.7.a: "Elise Ottosen-Jensen ist unsere Wahl."
  swe_syncon.7.b: "Frans Severin ist unsere erste Wahl."
 
  #Draw:
- swe_syncon.8.t: "Der Generalsekretär der Ersten Schwedischen Arbeiterversammlung"
  swe_syncon.8.d.socialist_totalist: "Die Schlacht in den revolutionären Versammlungen ist hart umkämpft. Die Totalisten und die radikalen Sozialisten haben sowohl an Boden gewonnen als auch gehalten. Mit einem neuen Regime, das bereit ist, den Sitz der ultimativen Macht als Generalsekretär der Ersten Schwedischen Arbeiterversammlung zu erklimmen, haben wir eine schwierige Entscheidung zu treffen. Wer soll dort sitzen?\n\nEntweder wird die totalistische Option von Nils Flyg, einem ehemaligen Chefredakteur und unbestrittenen Führer der totalistischen Bewegung, die Verantwortung übernehmen, oder vielleicht ist Kilbom, der ehemalige Seemann und Journalist, eine bessere Wahl? In jedem Fall wird sich eine Seite übergangen fühlen, und Schweden könnte unter dieser Spaltung leiden."
  swe_syncon.8.d.socialist_syndicalist: "Der Kampf in den revolutionären Versammlungen ist hart geführt worden. Die Syndikalisten und die radikalen Sozialisten haben sowohl an Boden gewonnen als auch gehalten. Mit einem neuen Regime, das bereit ist, den Sitz der ultimativen Macht als Generalsekretär der Ersten Schwedischen Arbeiterversammlung zu erklimmen, haben wir eine schwierige Entscheidung zu treffen.\n\nWer sollte dort sitzen? Entweder wird die syndikalistische Option von Frans Severin, einem hochrangigen Mitglied des SAC-Kongresses, die Verantwortung übernehmen, oder vielleicht ist Kilbom, der ehemalige Seemann und Journalist, eine bessere Wahl? In jedem Fall wird sich eine Seite übergangen fühlen, und Schweden könnte unter dieser Spaltung leiden."
  swe_syncon.8.d.totalist_syndicalist: "Die Schlacht in den revolutionären Versammlungen ist hart umkämpft. Die Syndikalisten und die Totalisten haben sowohl an Boden gewonnen als auch gehalten. Mit einem neuen Regime, das bereit ist, den Sitz der ultimativen Macht als Generalsekretär der Ersten Schwedischen Arbeiterversammlung zu erklimmen, haben wir eine schwierige Entscheidung zu treffen.\n\nWer soll dort sitzen? Entweder wird die syndikalistische Option von Frans Severin, einem hochrangigen Mitglied des SAC-Kongresses, die Verantwortung übernehmen, oder vielleicht ist Nils Flyg, der ehemalige Chefredakteur und unbestrittene Führer der totalistischen Bewegung, eine bessere Wahl? Wie auch immer, eine Seite wird sich übergangen fühlen, und Schweden könnte unter dieser Spaltung leiden."
@@ -1106,8 +1026,7 @@
  swe_syncon.8.b: "Frans Severin ist unsere erste Wahl."
  swe_syncon.8.c: "Karl Kilbom ist das, was Schweden braucht."
 
-### Flavour Event ###
-
+### Flavour Events ###
  swe_flavor.1.t: "Karin Boye veröffentlicht För Lite (Zu wenig)"
  swe_flavor.1.d: "Karin Boye, eine bekannte Autorin, Dichterin und sozialistisch geprägte Frauenrechtlerin, hat gerade ihr neuestes Werk veröffentlicht. Es ist ein Roman mit dem Titel För Lite (Zu wenig oder für wenig) und dreht sich um die Themen Arbeit, um seine Träume zu verwirklichen oder über die Runden zu kommen, und die Verantwortung gegenüber sich selbst als Person und gegenüber seiner Familie und seinen Freunden. Boye ist sehr beliebt und ihr neuer Roman ist ein Erfolg."
  swe_flavor.1.a: "Ich werde es irgendwann einmal lesen müssen."
@@ -1191,100 +1110,26 @@
  swe_flavor.19.a: "Jeder, der für Schweden kämpfen will, ist willkommen!"
  swe_flavor.19.b: "Meine Damen! Wir brauchen Sie an der Heimatfront..."
 
-### TO BE REVISED STUFF ###
-
- swe.700.t: "Die Stockholmer Konferenz"
- swe.700.d: ""
- swe.700.a: "Laden Sie die anderen skandinavischen Länder ein!"
- swe.700.b: "Das ist eine schlechte Idee..."
-
- swe.800.t: "Die Stockholmer Konferenz"
- swe.800.d: "Schweden hat uns zu einem Treffen über eine engere Zusammenarbeit zwischen den skandinavischen Ländern und Völkern eingeladen. Sollen wir diese Einladung annehmen?"
- swe.800.a: "Ja, natürlich!"
- swe.800.b: "Ich glaube, ich verzichte..."
-
- swe.1700.t: "Eröffnung von Die Stockholmer Konferenz"
- swe.1700.d: "Heute Morgen eröffnete der schwedische Premierminister die Stockholmer Konferenz zur skandinavischen Zusammenarbeit. Die Delegierten werden in den nächsten Tagen sowohl politische als auch kulturelle Fragen erörtern."
- swe.1700.a: "Gut!"
-
- swe.2000.t: "Der Vertrag von Stockholm"
- swe.2000.d: "Nach langen Debatten haben Vertreter aus Norwegen, Schweden und Dänemark heute Morgen Der Vertrag von Stockholm unterzeichnet. In dem Vertrag verpflichten sich die Unterzeichner zur nordischen Integration und zu einer engen Zusammenarbeit in allen möglichen Bereichen."
- swe.2000.a: "Ein Neuanfang für Skandinavien."
-
-### Fire Once Events ###
-
- swe.240.t: "Gründung des Nordischen Rates"
- swe.240.d: "Der Nordische Rat wurde als Instrument für die nordische Zusammenarbeit und Integration gegründet."
- swe.240.a: "Beitritt zum Nordischen Rat"
-
- swe.250.t: "Gründung der Skandinavischen Verteidigungsunion"
- swe.250.d: "Wir haben beschlossen, gemeinsam mit unseren Partnern ein militärisches Verteidigungsbündnis zu schließen."
- swe.250.a: "Beitritt zur Skandinavischen Verteidigungsunion"
-
- swe.260.t: "Das Nordische Passübereinkommen"
- swe.260.d: ""
- swe.260.a: "Unterzeichnen Sie das Übereinkommen"
-
- swe.270.t: "Wiedereinführung der Skandinavischen Währungsunion"
- swe.270.d: ""
- swe.270.a: "Eine neue Währungsunion für eine neue Ära!"
-
- swe.280.t: "Ein nordischer Binnenmarkt"
- swe.280.d: ""
- swe.280.a: "Beitritt zum Binnenmarkt"
-
- swe.290.t: "Die Skandinavische Wissenschaftlerkonferenz"
- swe.290.d: ""
- swe.290.a: "Wissen ist Macht"
-
- swe.300.t: "Norwegen erstrebt Skandinavische Föderation"
- swe.300.d: ""
- swe.300.a: "Der Föderation zustimmen (Spielende)"
- swe.300.b: "Föderation ablehnen"
-
- swe.310.t: "Dänemark erstrebt skandinavische Föderation"
- swe.310.d: ""
- swe.310.a: "Der Föderation zustimmen (Spielende)"
- swe.310.b: "Föderation ablehnen"
-
- swe.320.t: "Gründung der Nordischen Föderation"
- swe.320.d: ""
- swe.320.a: "Großartig!"
-
- swe.330.t: "Scheitern der Skandinavischen Föderation"
- swe.330.d: "Unsere Versuche, eine nordische Föderation zu schaffen, sind gescheitert... Es scheint, dass die nordische Integration ihren Höhepunkt erreicht hat."
- swe.330.a: "Verdammt, ihr dummen Skandinavier!"
-
-### Tooltips ###
- SWE_new_generals_tooltip: "Ein §Y2 Fähigkeit General§! mit dem Namen §YFrode Lund Hvalkof§! wird erscheinen.\n1 Fähigkeit General§! namens §YOswald Nordlie§! wird erscheinen.\n"
- SWE_tank_divs_unit_tooltip: "Erhalten Sie zwei §YLeichte Panzerdivisionen§!\n"
- SWE_jager_div_unit_tooltip: "Erhalten Sie die Vorlage §YGebirgsjäger§! mit der folgenden Zusammensetzung:\n - 7 £GFX_unit_mountaineers_icon_small Bataillone;\n - 2 £GFX_unit_artillery_brigade_icon_small Bataillone;\n - £GFX_unit_artillery_icon_small Unterstützungs Kompanien;\n - £GFX_unit_engineer_icon_small Unterstützungs Kompanien.§G\n\nErzeugen Sie §Y3§! Divisionen mit neu erhaltenen Vorlagen§!\n"
- SWE_naval_construct_tt: "Hinzufügen der Produktion von §Y2 Zerstörern§! und §Y1 Leichten Kreuzern§!\n"
- SWE_hms_karl_xii_tooltip: "Gewinnen Sie den Schlachtkreuzer §YHMS Karl XII§!\n"
- SWE_harboring_traitors: "Gewährung von Asyl für unsere Reaktionäre"
+### Opinion Modifiers ###
+ SWE_harboring_traitors: "Asyl für Reaktionäre gewährt"
  SWE_sideline_support: "Indirekte Unterstützung"
  SWE_trade_war: "Handelskrieg"
  SWE_defaulted_debts: "Zahlungsunfähigkeit "
+
+### Tooltips ###
  SWE_tt_Oscar_Nygren_dies: "§YOscar Nygren§! stirbt!"
- SWE_tt_Hansson_will_be_executed: "§RPer Albin Hansson wird in einem Schauprozess zum Tode verurteilt und in Stockholm mit der Guillotine hingerichtet.§!\nDa damit ein Präzedenzfall geschaffen wird, bei dem der Staatsstreich als Kriegszustand angesehen werden kann, können auch andere Personen, die vor die Tribunale gestellt werden, hingerichtet werden."
- SWE_elections_over: "Die Wahlen von 1936 sind vorbei."
- SWE_tt_will_bypass: "§GDieser Schwerpunkt wird nach Abschluss der Wahlen von 1936 umgangen.§!"
  SWE_tt_will_bypass2: "§GDieser Schwerpunkt wird umgangen, wenn die Wahlen von 1936 von den Sozialdemokraten gewonnen werden.§!"
  SWE_tt_will_bypass3: "§GDieser Schwerpunkt wird umgangen, wenn die Wahlen von 1936 von den Konservativen gewonnen werden.§!"
  SWE_tt_leftists_purged: "Der gesamte verbleibende Einfluss der §YTotalisten§!, §YSyndikalisten§!, §YRadikalsozialisten§! und §YSozialdemokraten§! wird ausgemerzt werden."
  SWE_tt_soccons_become_authdems: "§RDie Partei der §YSozialkonservativen§! wird fortan als §YAutoritärdemokraten§! bezeichnet."
- SWE_tt_effect_will_come: "§GDie Auswirkungen dieses Schwerpunkts werden sich zeigen, wenn entweder Holmquists oder Douglas' Zweig abgeschlossen ist§!§!."
  swe_tt_social_democrats_allowed_again_conservatives_no_longer_relevant: "Die SAP wird wieder an den Wahlen teilnehmen können, und dies wird fast sicherstellen, dass der rechte Flügel der Regierung in Zukunft von den Liberalen geführt wird."
  SWE_tt_fix_black_monday_decisions: "Eine Reihe von Entscheidungen zur Umkehrung des durch den Schwarzen Montag§! verursachten Wirtschaftsabschwungs wird verfügbar werden."
  SWE_tt_gold_standard_dropped: "Die Riksbank wird von ihrer Pflicht entbunden, Schwedische Kronen in Gold umzutauschen. Sie können nun beschließen, zusätzliches Geld zu drucken."
  swe_tt_black_monday_arrived: "Der Schwarze Montag hat Schweden erreicht!"
  SWE_tt_print_extra_money: "Wir werden zusätzliches Geld drucken: das wird unseren Haushalt um §G2 Millionen Kronen§! erhöhen aber unsere Inflation wird steigen!"
  SWE_tt_loan_money: "Wir werden ein Darlehen von §G2 Millionen Kronen§! aufnehmen. §RWir werden Zinsen auf die Summe zahlen müssen, bis wir sie zurückzahlen!§!"
- SWE_no_more_loans: "Wir haben schon früher Konkurs angemeldet."
  SWE_tt_can_pay_off_debt: "Hat §Y2 Millionen Kronen§! an Schulden, die zurückgezahlt werden können."
  SWE_tt_pays_off_debt: "Wir tilgen §G2 Millionen Kronen§! an Schulden."
- SWE_tt_can_pay_off_leftovers: "Hat §Y[?swe_var_debt|1] Millionen Kronen§! an Schulden, die zurückgezahlt werden können."
- SWE_tt_pays_off_leftovers: "Wir zahlen §G[?swe_var_debt|1] Millionen Kronen§! an Schulden zurück."
  SWE_tt_saved_money_goes_to_free_budget: "Wir sparen §G5 Millionen Kronen§! an militärischen Mitteln, die in unseren Haushalt aufgenommen werden, um den Schwarzen Montag zu bekämpfen.\n"
  SWE_tt_earned_money_goes_to_free_budget: "Wir werden §G2 Millionen Kronen§! an Steuern einnehmen, die unserem Haushalt zur Bekämpfung des Schwarzen Montags hinzugefügt werden.\n"
  SWE_tt_saved_money_goes_to_free_budget_welfare: "Wir sparen §G5 Millionen Kronen§! an Sozialhilfegeldern, die in unseren Haushalt aufgenommen werden, um den Schwarzen Montag zu bekämpfen.\n"
@@ -1297,11 +1142,10 @@
  SWE_tt_five_million_kronor: "Kr. §H5 Millionen§! Kr."
  SWE_tt_five_million_kronor_blocked: "§R5 Millionen§! Kr."
  SWE_tt_five_million_kronor_tooltip: "Es kostet $SWE_tt_five_million_kronor_blocked$, diese Entscheidung zu treffen"
- SWE_tt_unemployment_lowered_three_percent: "Die Arbeitslosigkeit wird um §G3%§! gesenkt werden.\n"
- SWE_tt_unemployment_lowered_two_percent: "Die Arbeitslosigkeit wird um §G2%§! gesenkt werden.\n"
+ SWE_tt_unemployment_lowered: "Die Arbeitslosigkeit wird um $RIGHT|G0%$ gesenkt werden.\n"
+ SWE_tt_unemployment_increased: "Die Arbeitslosigkeit steigt um $RIGHT|R0%$.\n"
  SWE_tt_receive_million_kronor: "Wir erheben §G1 Million Kronen§! an Zöllen, die unserem Budget zur Bekämpfung des Schwarzen Montags hinzugefügt werden.\n"
  SWE_tt_violation_of_mitteleuropa: "§RDas ist ein Verstoß gegen die Regeln von Mitteleuropa!§!"
- SWE_tt_unemployment_up_again: "Die Arbeitslosigkeit wird um §R4%§! steigen.\n"
  SWE_tt_unemployment_upped_two_percent: "Die Arbeitslosigkeit wird dank der natürlichen Tendenz der Arbeitslosigkeit, sich dem Gleichgewicht anzunähern, um §R2%§! steigen.\n"
  SWE_tt_no_black_monday: "Wir erleben die Auswirkungen des Schwarzen Montags nicht mehr."
  SWE_tt_no_extreme_inflation: "Unsere Inflation liegt unter §Y8%§!"
@@ -1310,18 +1154,15 @@
  SWE_tt_pays_interest: "Wir zahlen §R[?swe_var_interest|1] Millionen Kronen§! an Zinsen für unsere Kredite!!!\n"
  SWE_tt_takes_loan: "Sofern wir uns das nicht leisten können, werden wir zusätzliche Kredite aufnehmen, um die Lücke zu schließen.!\n"
  SWE_tt_unemployment_lowered_two_percent_natural: "Dank der natürlichen Tendenz der Arbeitslosigkeit, sich dem Gleichgewicht anzunähern, wird die Arbeitslosigkeit um §G2%§! gesenkt.\n"
- SWE_tt_inflation_reduced_by_one: "Dies wird die Inflation um §G1%§! verringern."
+ SWE_tt_inflation_lowered: "Dies wird die Inflation um $RIGHT|G0%$ verringern."
  swedishBudgetAmount_zero: "§Y0§!"
  swedishBudgetAmount_positive: "§G[?swe_var_budget|1] Million§!"
  swedishDebtAmount_positive: "§R[?swe_var_debt|1] Million§!"
  SWE_tt_more_than_five_percent_inflation: "Unsere Inflation übersteigt §Y5%§!"
- SWE_tt_lower_inflation_by_five_percent: "Unsere Inflation wird um §G5%§! reduziert."
  SWE_armor_research_tooltip: "§GErhalten Sie einen Technologie- oder Technologiebonus für eine der folgenden Rüstungskategorien:§!\n §Y- £GFX_unit_light_armor_icon_small Leichte Panzerung\n - £GFX_unit_medium_armor_icon_small Mittlere Panzerung\n - £GFX_unit_heavy_armor_icon_small Schwere Panzerung§!\n"
 
  SWE_tt_inflation_back_to_two: "Mit der neuen Währung wird die Inflation auf §Y2%§! zurückgesetzt."
  SWE_tt_will_be_removed_redistribute_wealth: "§RDieser Modifikator wird entfernt, wenn wir Den Reichtum umverteilen.§!"
- SWE_douglasfocutext_alive: "Unser leitender Stabsoffizier Archibald Douglas schlägt vor, die schwedische Armee in eine mobile Truppe umzuwandeln, die in der Lage ist, die feindlichen Streitkräfte zu überlisten und unsere Feinde schnell zu neutralisieren."
- SWE_douglasfocutext_dead: "Der ehemalige Generalstabsoffizier Archibald Douglas schlug vor, die schwedische Armee in eine mobile Truppe umzuwandeln, die in der Lage ist, die feindlichen Streitkräfte zu überlisten und unsere Feinde schnell zu neutralisieren."
 
 ### Decisions ###
  SWE_fix_black_monday_category: "Reaktion auf Schwarzen Montag"
@@ -1358,10 +1199,6 @@
  swe_join_reichspakt_desc: "Angesichts der Gefahren des Syndikalismus, die immer näher an die schwedischen Grenzen heranrücken, wäre es ratsam, sich an gleichgesinnte Mächte zu wenden. Das Kaiserreich ist der Verfechter des Status quo und eine germanische Nation, die den Gezeiten der lateinischen Anarchie widersteht. Lasst uns gemeinsam in den Kampf ziehen!"
  swe_join_internationale: "Beitritt zur Dritten Internationale"
  swe_join_internationale_desc: "Die Gefahren für die junge revolutionäre Republik sind vielfältig, denn der fette Kaiser ist bösartig darauf aus, die Freiheit der Arbeiter in den Nachbarländern in ihrer Wiege zu beenden. Wir sollten mit unseren Genossen in Frankreich und Großbritannien gegen diese Bedrohung zusammenstehen!"
- swe_leave_reichspakt: "Verlassen des Reichspakts"
- swe_leave_reichspakt_desc: "Wir sind zu dem Schluss gekommen, dass das politische Klima, das herrschte, als Schweden beschloss, ein Bündnis mit den Deutschen einzugehen, nicht mehr gegeben ist, und dass das Bündnis unsere Ziele jetzt mehr behindert als fördert."
- swe_leave_internationale: "Die Dritte Internationale verlassen"
- swe_leave_internationale_desc: "In der jüngsten Vergangenheit hat sich die Internationale leider in eine Richtung entwickelt, die mit der schwedischen Doktrin des Sozialismus europäischen Ursprungs, der sich in der Welt ausbreitet, unvereinbar ist. Die traurige Wahrheit ist, dass sich das wichtigste Arbeitnehmerbündnis in eine Sackgasse bewegt und Schweden ihm nicht in die Schlucht folgen wird."
  swe_seize_aland: "In Åland einmarschieren"
  swe_seize_aland_desc: "Wir versuchten, Åland am Ende des Ersten Weltkriegs zu sichern, als das Schicksal Finnlands und Russlands noch unklar war. Der deutsche Druck zwang uns schließlich zum Rückzug, obwohl über 80 % der Bevölkerung des Archipels den Anschluss an Schweden wünschten und den Streit zugunsten ihres finnischen Marionettenstaates lösten. Es könnte sich eine Gelegenheit ergeben, die Inseln wieder in ihr rechtmäßiges Heimatland zu holen, sei es aus strategischen oder nationalistischen Gründen."
  swe_subjugate_neighbours: "Unterwerfung [FROM.GetName]"
@@ -1369,6 +1206,11 @@
  swe_subjugate_finland_desc: "Finnland stand historisch gesehen seit den nördlichen Kreuzzügen im 13. und 14. Jahrhundert unter schwedischer Herrschaft, bis wir es 1809 an die Russen abtreten mussten. Jetzt ist es an der Zeit, den dekadenten finnischen Staat, der aus der schlechten russischen Verwaltung hervorgegangen ist, zu strangulieren und die rechtmäßige Ordnung über die finnischen Länder wiederherzustellen."
  swe_operation_radde_danmark: "Operation Rädda Danmark(Rettet Dänemark)"
  swe_operation_radde_danmark_desc: "Dänemark hat sich mit den Deutschen gegen die Syndikalisten verbündet, eine höchstwahrscheinlich verhängnisvolle Entscheidung für das Land: Der deutsche Adler ist gefallen und die Fackel und das Rädchen regieren nun Europa. Als Teil der Trümmer der deutschen Sphäre wird es allem Anschein nach bald von syndikalistischen Kräften zerstört werden. Für Schweden ist diese Situation äußerst ungünstig, da ein syndikalistisches Regime in Dänemark möglicherweise eine separate syndikalistische Invasion in unserem eigenen Heimatland ermöglichen könnte, und deshalb haben unsere Offiziere einen Plan ausgearbeitet: Wir marschieren zuerst in Dänemark ein und setzen die dänische Regierung zugunsten eines uns freundlich gesinnten Regimes ab, wodurch eine Pufferzone zwischen uns und den Syndikalisten des europäischen Festlandes geschaffen wird."
+
+ SWE_lkab_investments_mining: "LKAB schaffen"
+ SWE_lkab_investments_mining_desc: "Schweden verfügt über große Stahlvorkommen, und ein Unternehmen, das sich auf die Gewinnung von Stahl spezialisiert hat, ist Luossavaara-Kiirunavaara Aktiebolag. Die Förderung dieses Unternehmens wäre eine gute Möglichkeit, unsere Exporte zu steigern."
+ SWE_domestic_oil_shale_mining: "Ölschiefer und die SSAB"
+ SWE_domestic_oil_shale_mining_desc: "Schweden verfügt über bedeutende Ölschiefervorkommen, eine Tatsache, die seit dem 18. Vor dem Weltkrieg haben wir diese Vorkommen ignoriert, aber in der heutigen Zeit gewinnt man Kriege nur mit Treibstoff. Lassen Sie uns den Abbau dieser Vorkommen ausweiten."
 
 ### Scripted Loc ###
  getFlygsRefuge_Norway: "die große Villa, die ihm in Norwegen zugewiesen worden war"
@@ -1391,13 +1233,10 @@
  SWE_DEF: "Schweden"
 
  SWE_totalist: "Schwedische Kommune"
- SWE_totalist_ADJ: "Schwedisch"
  SWE_totalist_DEF: "die Schwedische Kommune"
  SWE_syndicalist: "Schwedische Kommune"
- SWE_syndicalist_ADJ: "Schwedisch"
  SWE_syndicalist_DEF: "die Schwedische Kommune"
  SWE_radical_socialist: "Schwedische Kommune"
- SWE_radical_socialist_ADJ: "Schwedisch"
  SWE_radical_socialist_DEF: "die Schwedische Kommune"
 
  SWENOR: "Schweden-Norwegen"

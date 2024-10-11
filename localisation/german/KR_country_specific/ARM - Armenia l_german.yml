@@ -6,13 +6,10 @@
  ARM_DEF: "Armenien"
 
  ARM_totalist: "Armenien"
- ARM_totalist_ADJ: "Armenisch"
  ARM_totalist_DEF: "die Sozialistische Republik Armenien"
  ARM_syndicalist: "Armenien"
- ARM_syndicalist_ADJ: "Armenisch"
  ARM_syndicalist_DEF: "die Sozialistische Republik Armenien"
  ARM_radical_socialist: "Armenien"
- ARM_radical_socialist_ADJ: "Armenisch"
  ARM_radical_socialist_DEF: "die Sozialistische Republik Armenien"
 
 ### Companies ###
@@ -151,7 +148,7 @@
  ARM_fortress_without_sky: "Verteidigung des armenischen Luftraums"
  ARM_fortress_without_sky_desc: "Bisher haben wir unsere Verteidigungsanstrengungen vor allem auf den Bodenkrieg konzentriert und vor allem Befestigungen gegen Infanterie, Artillerie, Panzer und dergleichen gebaut. Wir müssen aber auch den Himmel beobachten und unsere Städte gegen Luftangriffe verteidigen, was den Einsatz von stationären Luftabwehrkanonen erfordert."
  ARM_aerial_reconnaissance: "Augen am Himmel"
- ARM_aerial_reconnaissance_desc: "Einer der größten Vorteile moderner Flugzeuge besteht darin, dass sie den Feind aus sicherer Entfernung ausspähen können. Aufklärungsflugzeuge sind beispielsweise in der Lage, wichtige Informationen zu sammeln, ohne in Schussweite des Feindes am Boden zu kommen. Wie Sun Tzu einst sagte: "Derjenige wird gewinnen, der weiß, wann er kämpfen und wann er nicht kämpfen muss." - Und mit unseren Augen am Himmel werden wir immer wissen, wann wir kämpfen müssen."
+ ARM_aerial_reconnaissance_desc: "Einer der größten Vorteile moderner Flugzeuge besteht darin, dass sie den Feind aus sicherer Entfernung ausspähen können. Aufklärungsflugzeuge sind beispielsweise in der Lage, wichtige Informationen zu sammeln, ohne in Schussweite des Feindes am Boden zu kommen. Wie Sun Tzu einst sagte: \"Derjenige wird gewinnen, der weiß, wann er kämpfen und wann er nicht kämpfen muss.\" - Und mit unseren Augen am Himmel werden wir immer wissen, wann wir kämpfen müssen."
 
  ### Naval Tree
  ARM_armenian_navy: "Die Armenische Marine"
@@ -183,7 +180,7 @@
 
  ### Independence War
  ARM_War_of_Liberation: "Der Befreiungskrieg"
- ARM_War_of_Liberation_desc: "Nachdem das armenische Volk jahrhundertelang unter Fremdherrschaft und Unterdrückung gelebt hatte, sagte es schließlich: "Genug!". Der Niedergang des Osmanischen Reiches und nun der Ausbruch des Wüstenkrieges haben die Hoffnung auf einen unabhängigen armenischen Staat neu entfacht. Doch wenn dieser Traum von Freiheit und Unabhängigkeit verwirklicht werden soll, müssen wir uns erheben und kämpfen! Für unsere Familien! Für unsere Zukunft! Für Armenien!"
+ ARM_War_of_Liberation_desc: "Nachdem das armenische Volk jahrhundertelang unter Fremdherrschaft und Unterdrückung gelebt hatte, sagte es schließlich: \"Genug!\". Der Niedergang des Osmanischen Reiches und nun der Ausbruch des Wüstenkrieges haben die Hoffnung auf einen unabhängigen armenischen Staat neu entfacht. Doch wenn dieser Traum von Freiheit und Unabhängigkeit verwirklicht werden soll, müssen wir uns erheben und kämpfen! Für unsere Familien! Für unsere Zukunft! Für Armenien!"
  ARM_reinforce_erevan: "Jerewan befestigen"
  ARM_reinforce_erevan_desc: "Wenn wir diesen Krieg gewinnen wollen, müssen wir unsere Berge befestigen und verteidigen, koste es, was es wolle. Der Bau von Befestigungsanlagen rund um unsere Hauptstadt Jerewan wird diese Aufgabe sicherlich wesentlich erleichtern und das Leben vieler junger Männer retten."
  ARM_centralising_the_movement: "Zentralisierung der Bewegung"
@@ -299,7 +296,7 @@
  ARM_nationalisation: "Verstaatlichung der Wirtschaft"
  ARM_nationalisation_desc: "Es gibt immer noch eine Reihe von Unternehmen in unserem Land, die versuchen, den Markt für ihren eigenen Profit auszubeuten - ein ekelhaftes und inakzeptables Verhalten! Durch die Verstaatlichung dieser Unternehmen können wir sicherstellen, dass sie nur an das Beste für unser Land und unsere Gesellschaft denken und gleichzeitig die Umsetzung der Arbeitnehmerrechte kontrollieren."
  ARM_marxist_guidance: "Marxistische Führung"
- ARM_marxist_guidance_desc: "Wie Marx einmal sagte: "Der Sinn des Friedens ist die Abwesenheit von Widerstand gegen den Sozialismus." Durch unsere Reformen ist es uns gelungen, einen echten Frieden zu schaffen. Die Arbeitnehmer im ganzen Land leben unter angemessenen Bedingungen und wissen, dass ihre Arbeit zum Reichtum und Wohlstand unserer Gesellschaft beiträgt. Die Prinzipien von Marx sind nicht nur Teil des armenischen Lebens geworden, sondern auch Teil des armenischen Herzens."
+ ARM_marxist_guidance_desc: "Wie Marx einmal sagte: \"Der Sinn des Friedens ist die Abwesenheit von Widerstand gegen den Sozialismus.\" Durch unsere Reformen ist es uns gelungen, einen echten Frieden zu schaffen. Die Arbeitnehmer im ganzen Land leben unter angemessenen Bedingungen und wissen, dass ihre Arbeit zum Reichtum und Wohlstand unserer Gesellschaft beiträgt. Die Prinzipien von Marx sind nicht nur Teil des armenischen Lebens geworden, sondern auch Teil des armenischen Herzens."
  ARM_help_from_our_western_brothers: "Unsere Brüder im Westen"
  ARM_help_from_our_western_brothers_desc: "Wir sind nicht allein in dieser Welt. Im Westen gibt es Länder, deren Regime im Zuge einer syndikalistischen Revolution gestürzt wurden und die nun gleichgesinnte Regierungen auf der ganzen Welt unterstützen wollen. Da sich unsere Ideologien ähneln, werden sie uns sicher als Freunde betrachten und uns jede Unterstützung gewähren, die wir brauchen."
  ARM_revolutionary_vanguard: "Avantgarde der Revolution"
@@ -506,8 +503,6 @@
  ARM_trade_agreements_1_desc: "Die Zusammenarbeit zwischen den Nationen hat schon immer große Erfolge gezeitigt, und unsere Bemühungen um die Förderung des Freihandels mit den Ländern jenseits des Schwarzen Meeres bilden da sicherlich keine Ausnahme. Die Schifffahrt ist billiger geworden, unsere Exporte haben zugenommen und unsere Meeresnachbarn beginnen, uns als vertrauenswürdigen Partner zu betrachten. Was hätten wir uns mehr erhoffen können?"
 
 ### Decisions ###
- ARM_foreign_policy: "Außenpolitik Armeniens"
-  ARM_join_faction: "Beitritt zu [FROM.GetFactionName]"
  ARM_attack_ottomans: "Crush [FROM.GetNameDef]"
  ARM_reclaim_karabakh: "Das Hochland von Karabach zurückgewinnen"
  ARM_request_industrial_support: "Anfrage [FROM.GetAdjective] Industrielle Unterstützung"
@@ -587,7 +582,7 @@
  arm.20.a: "Das ist ungeheuerlich! Es ist ungerecht!"
 
  arm.21.t: "Die verbliebenen Kollaborateure"
- arm.21.d: "Als unser Aufstand begann, flohen einige dem Osmanischen Reich treu ergebene Beamte aus Armenien, da sie bei einem Verbleib Strafverfolgung und Gefängnis befürchteten. Es gab aber auch Mitglieder der Verwaltung und des Militärs, die zu Beginn des Krieges einfach die Seiten gewechselt haben, weil sie lieber in einem freien armenischen Staat leben wollten als in einem von den Türken beherrschten. Diese Männer konnten ihre Positionen, die sie unter der osmanischen Herrschaft innehatten, bisher behalten, auch weil es nicht einfach wäre, sie zu ersetzen. Dennoch scheint Nzhdeh, der inzwischen zu einem einflussreichen Helden des armenischen Volkes geworden ist, mit dieser Situation alles andere als zufrieden zu sein.\n\nMit dem Argument, dass man diesen Beamten aufgrund ihrer Verbindungen zum bösartigen Osmanischen Reich nicht trauen könne, hat er nun begonnen, die Dinge selbst in die Hand zu nehmen. Heute hat er die Inhaftierung aller "Kollaborateure" angeordnet, die sich noch auf armenischem Boden befinden. Dies hat zwar einigen Argwohn hervorgerufen, da seine Definition eines Kollaborateurs relativ weit gefasst ist und jeden Beamten einschließt, der unter der osmanischen Herrschaft gedient hat, doch hat es bisher keinen wirklichen Widerstand gegen diese Anordnungen gegeben. Im ganzen Land werden Beamte vom Militär aus ihren Arbeitsplätzen eskortiert, Offiziere werden entlassen, und die Gefängnisse beginnen sich zu füllen. Obwohl Nzhdeh versprochen hat, dass er dies alles nur tut, um die Unabhängigkeit und Sicherheit Armeniens zu gewährleisten, hat dieser Schritt zufällig auch ein Machtvakuum geschaffen, das er nun leicht füllen kann, indem er seine eigenen Beamten ernennt, die seiner Sache treu sind."
+ arm.21.d: "Als unser Aufstand begann, flohen einige dem Osmanischen Reich treu ergebene Beamte aus Armenien, da sie bei einem Verbleib Strafverfolgung und Gefängnis befürchteten. Es gab aber auch Mitglieder der Verwaltung und des Militärs, die zu Beginn des Krieges einfach die Seiten gewechselt haben, weil sie lieber in einem freien armenischen Staat leben wollten als in einem von den Türken beherrschten. Diese Männer konnten ihre Positionen, die sie unter der osmanischen Herrschaft innehatten, bisher behalten, auch weil es nicht einfach wäre, sie zu ersetzen. Dennoch scheint Nzhdeh, der inzwischen zu einem einflussreichen Helden des armenischen Volkes geworden ist, mit dieser Situation alles andere als zufrieden zu sein.\n\nMit dem Argument, dass man diesen Beamten aufgrund ihrer Verbindungen zum bösartigen Osmanischen Reich nicht trauen könne, hat er nun begonnen, die Dinge selbst in die Hand zu nehmen. Heute hat er die Inhaftierung aller \"Kollaborateure\" angeordnet, die sich noch auf armenischem Boden befinden. Dies hat zwar einigen Argwohn hervorgerufen, da seine Definition eines Kollaborateurs relativ weit gefasst ist und jeden Beamten einschließt, der unter der osmanischen Herrschaft gedient hat, doch hat es bisher keinen wirklichen Widerstand gegen diese Anordnungen gegeben. Im ganzen Land werden Beamte vom Militär aus ihren Arbeitsplätzen eskortiert, Offiziere werden entlassen, und die Gefängnisse beginnen sich zu füllen. Obwohl Nzhdeh versprochen hat, dass er dies alles nur tut, um die Unabhängigkeit und Sicherheit Armeniens zu gewährleisten, hat dieser Schritt zufällig auch ein Machtvakuum geschaffen, das er nun leicht füllen kann, indem er seine eigenen Beamten ernennt, die seiner Sache treu sind."
  arm.21.a: "Ein harter, aber notwendiger Schritt."
 
  arm.22.t: "Die Kollaborateure leisten Widerstand!"

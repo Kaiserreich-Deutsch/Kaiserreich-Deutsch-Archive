@@ -311,7 +311,7 @@
  FIN_expand_export_fleets_desc: "Der größte Teil der finnischen Wirtschaft basiert auf dem Export der Produkte unserer Forstindustrie. Ohne Schiffe gibt es keine Exporte."
 
  FIN_cheap_cruisers: "Billige Kreuzer"
- FIN_cheap_cruisers_desc: "Es ist schwer, [GetLeader] davon zu überzeugen, der Marine zusätzliche Mittel zur Verfügung zu stellen, also müssen wir versuchen, stattdessen billige Designs zu verwenden."
+ FIN_cheap_cruisers_desc: "Es ist schwer, [ROOT.GetLeader] davon zu überzeugen, der Marine zusätzliche Mittel zur Verfügung zu stellen, also müssen wir versuchen, stattdessen billige Designs zu verwenden."
 
  FIN_german_naval_cooperation: "Deutsche Marine Kooperation"
  FIN_german_naval_cooperation_desc: "Die Seesupermacht der Ostsee ist Deutschland, und mit ihr können wir nicht scheitern."
@@ -848,11 +848,10 @@
  FIN_curtailed_swedish_rights: "Eingeschränkte schwedische Rechte"
  FIN_let_them_be: "Die Finnlandschweden in Ruhe gelassen"
  FIN_eroded_ties: "Erodierte Bande"
- FIN_irridentism: "Irridentismus"
+ FIN_irredentism: "Irridentismus"
  FIN_snubbed_us: "Hat uns brüskiert"
  FIN_recognised_our_independence: "Erkennt unsere Unabhängigkeit an"
- FIN_did_not_recognise_our_independence: "Hat unsere Unabhängigkeit nicht anerkannt"
- FIN_economic_ties_reichspakt: "Wirtschaftliche Bande"
+ FIN_did_not_recognise_our_independence: "Weigerung, unsere Unabhängigkeit anzuerkennen"
 
 ### Decisions ###
  FIN_join_nordic_council: "[FROM.GetFactionName] beitreten"
@@ -864,9 +863,6 @@
  FIN_join_internationale: "Der Dritten Internationale beitreten"
  FIN_join_internationale_desc: "Der finnische Arbeiter hat sich befreit, aber unsere Feinde sind zahlreich und Millionen, wenn nicht Milliarden von Arbeitern schwitzen immer noch unter reaktionärer kapitalistischer Unterdrückung. Wir sollten uns um ihrer willen dem internationalen Kampf anschließen!"
  
- FIN_attack_russia: "Angriff [FROM.GetName]"
- FIN_attack_scandinavia: "Angriff [FROM.GetName]"
-
  FIN_black_monday_decisions: "Schwarzer Montag erreicht Finnland"
  FIN_relief_fortification_work: "Hilfsbefestigungsarbeiten"
  FIN_road_building_programme: "Straßenbauprogramm"

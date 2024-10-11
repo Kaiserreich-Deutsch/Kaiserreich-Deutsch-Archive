@@ -832,11 +832,6 @@
  getDanishPrimeMinister_Madsen_Mygdal: "Madsen-Mygdal"
  getDanishPrimeMinister_other: "der Premierminister"
 
-### Opinion Modifiers ###
- DEN_trade_agreement: "Handelsabkommen"
- DEN_diplomatic_row: "Diplomatische Krise"
- DEN_rejected_trade_deal: "Lehnte Handelsabkommen ab"
-
 ### Cosmetic Tags ###
  DEN: "Dänemark"
  DEN_ADJ: "Dänisch"

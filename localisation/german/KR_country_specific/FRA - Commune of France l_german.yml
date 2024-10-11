@@ -256,7 +256,7 @@ phalanstere_research_name: "Phalansteriesche Internationale"
 phalanstere_research_desc: "Auf der Tagung der Internationale beschlossen wir die Aufstellung eines weltweiten Plans zur Bündelung der Anstrengungen und des technischen Fortschritts der sozialistischen Nationen. Dieser Plan hat sich seitdem zu einem ehrgeizigeren Plan, der Phalanstère International, entwickelt, der darauf abzielt, sozialistische Regime in der ganzen Welt zu unterstützen."
 
 FRA_tech_marine_bonus: "The Colonnes de Neptune"
-FRA_tech_marine_bonus_effect: "Aktiviert §H$FRA_tech_marine_bonus$\nMarine§!\n      Weiche Attacke: §G+5%§!\n      Harte Attacke: §G+5%§!\n§HLandungs Bataillon§!\n      Weiche Attacke: §G+5%§!\n      Harte Attacke: §G+5%§!\n§HAmphibisches Panzerbattalion§!\n      Weiche Attacke: §G+5%§!\n      Harte Attacke: §G+5%§!"
+FRA_tech_marine_bonus_effect: "Aktiviert §H$FRA_tech_marine_bonus$\n$tech_marine_bonus_effect_tooltip$"
 
 ### Focuses ###
 commune_of_france_focus: "Schwerpunktbaum von Kommune Frankreichs"

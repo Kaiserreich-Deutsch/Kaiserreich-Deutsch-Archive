@@ -1,7 +1,5 @@
 ﻿l_german:
 ### Übersetzt von Proho ###
-BEL_focus: "Belgisch Deutscher Schwerpunkt Baum"
-
 ### Ship Name Lists ###
  NAME_BEL_SM: "U-Boote"
  NAME_BEL_RIVERS: "Flüsse in Latein"
@@ -10,33 +8,25 @@ BEL_focus: "Belgisch Deutscher Schwerpunkt Baum"
  NAME_BEL_REGIONS: "Regionen"
  NAME_BEL_CARRIERS: "Flugzeugträger"
 
-### Tooltips ###
- BEL_add_HOL_to_benesam: "§H[HOL.GetName]§! tritt bei §H$benesam$§!."
-
 ### World Tension ###
  BEL_revolution_threat: "Revolution in Wallonien"
 
 ### Companies ###
  cockerill: "Cockerill"
- societe_belge_radio: "Société Belge Radio-électrique"
+ acec: "ACEC"
  solvay: "Solvay"
  fabrique_nationale: "Fabrique Nationale"
- fonderie_royale_canons: "Fonderie Royale de Canons"
- imperia: "Imperia Automobiles"
- minerva: "Minerva"
- familleureux: "Familleureux"
- la_brugeoise: "La Brugeoise"
- renard: "Renard"
- avions_fairey: "Avions Fairey"
- sabca: "SABCA"
- stampe_vertongen: "Stampe et Vertongen"
- boel_zonen: "J. Boel & Zonen"
  mecar: "Mecar"
  forges_de_zeebrugge: "Forges de Zeebrugge"
  brossel: "Brossel"
- miesse: "Miesse"
+ minerva: "Minerva"
+ familleureux: "Familleureux"
+ la_brugeoise: "La Brugeoise"
+ boel_zonen: "J. Boel & Zonen"
  cockerill_scheepwerfen: "Cockerill Scheepwerfen"
- acec: "ACEC"
+ renard: "Renard"
+ sabca: "SABCA"
+ stampe_vertongen: "Stampe et Vertongen"
 
 ### MIO Traits ###
  BEL_mio_trait_modernisation_programme: "Modernisierungsprogramm"
@@ -50,18 +40,8 @@ BEL_Expanding_Schelde: "Ausbaggerung der Westerschelde"
 BEL_Expanding_Schelde_desc: "Um die Schifffahrtskapazität von Antwerpen zu erhöhen, hat die belgisch-niederländische Regierungen gemeinsam die Westerschelde ausgebaggert und das Programm "Großer Durchbruch" abgeschlossen."
 BEL_King_Exile: "König Albert I. im Exil"
 BEL_King_Exile_desc: "Nachdem der Weltkrieg mit einer vernichtenden Niederlage für unsere kleine Nation endete, wurde König Albert I. ins Exil gezwungen und ist der britischen Königsfamilie nach Kanada gefolgt. Von allen Bürgern für seine Tapferkeit während des Krieges verehrt, was ihm den Spitznamen "Soldatenkönig" einbrachte, planen große royalistische Untergrundbewegungen seine Rückkehr auf den Thron und ein Ende der deutschen Besatzung."
-BEL_King_Exile2: "König Albert I. im Exil"
-BEL_King_Exile2_desc: "Nachdem der Weltkrieg mit einer vernichtenden Niederlage für unsere kleine Nation endete, wurde König Albert I. ins Exil gezwungen und ist der britischen Königsfamilie nach Kanada gefolgt. Von allen Bürgern für seine Tapferkeit während des Krieges verehrt, was ihm den Spitznamen "Soldatenkönig" einbrachte, planen große royalistische Untergrundbewegungen seine Rückkehr auf den Thron und ein Ende der deutschen Besatzung."
 BEL_anti_german_sentiment1: "Anti-Deutsche Stimmung"
 BEL_anti_german_sentiment1_desc: "Hohe Steuersätze, Bevorzugung der Deutschen und ein allgemeines Desinteresse der deutschen Verwalter und Industriellen an den flämisch-wallonischen Lebensverhältnissen haben die Abneigung gegen das deutsche Regime nur noch verschlimmert und zu großen sozialen Ungleichheiten und Unruhen geführt, besonders in Wallonien."
-BEL_anti_german_sentiment2: "Anti-Deutsche Stimmung"
-BEL_anti_german_sentiment2_desc: "Hohe Steuersätze, Bevorzugung der Deutschen und ein allgemeines Desinteresse der deutschen Verwalter und Industriellen an den flämisch-wallonischen Lebensverhältnissen haben die Abneigung gegen das deutsche Regime nur noch verschlimmert und zu großen sozialen Ungleichheiten und Unruhen geführt, besonders in Wallonien."
-BEL_anti_german_sentiment3: "Anti-Deutsche Stimmung"
-BEL_anti_german_sentiment3_desc: "Hohe Steuersätze, Bevorzugung der Deutschen und ein allgemeines Desinteresse der deutschen Verwalter und Industriellen an den flämisch-wallonischen Lebensverhältnissen haben die Abneigung gegen das deutsche Regime nur noch verschlimmert und zu großen sozialen Ungleichheiten und Unruhen geführt, besonders in Wallonien."
-BEL_anti_german_sentiment4: "Anti-Deutsche Stimmung"
-BEL_anti_german_sentiment4_desc: "Hohe Steuersätze, Bevorzugung der Deutschen und ein allgemeines Desinteresse der deutschen Verwalter und Industriellen an den flämisch-wallonischen Lebensverhältnissen haben die Abneigung gegen das deutsche Regime nur noch verschlimmert und zu großen sozialen Ungleichheiten und Unruhen geführt, besonders in Wallonien."
-BEL_anti_german_sentiment5: "Anti-Deutsche Stimmung"
-BEL_anti_german_sentiment5_desc: "Hohe Steuersätze, Bevorzugung der Deutschen und ein allgemeines Desinteresse der deutschen Verwalter und Industriellen an den flämisch-wallonischen Lebensverhältnissen haben die Abneigung gegen das deutsche Regime nur noch verschlimmert und zu großen sozialen Ungleichheiten und Unruhen geführt, besonders in Wallonien."
 BEL_black_monday: "Schwarzer Montag"
 BEL_black_monday_desc: "Ausgelöst durch den Börsencrash in Berlin und den darauf folgenden weltweiten Niedergang der deutschen Industrie, hat unser Land die Folgen voll zu spüren bekommen. Die Kohlebergwerke in Wallonien und Limburg werden geschlossen, die Arbeitslosigkeit steigt in die Höhe."
 BEL_black_monday_II: "Teilweise Erholung"
@@ -140,7 +120,6 @@ BEL_Solvay_Institute_idea: "Solvay Institut"
 BEL_Antwerp_Harbor_Blockaded: "Blockade des Antwerpener Hafens"
 BEL_German_Officers: "Deutsche Beamte"
  BEL_State_Funded_Research: "Staatlich geförderte Forschung"
-BEL_Solvay_Institute2: "Solvay Institut"
 BEL_Small_Strike: "Streik"
 BEL_Royal_Naval_Academy: "Königliche Marine Akademie"
 BEL_Naval_Program2_idea: "Erweitertes Marine-Programm"
@@ -149,14 +128,12 @@ BEL_idea_bicycle_army: "Fahrrad Armee"
 BEL_T13_Production: "T-13 LTD Program"
 BEL_Anti_Tank_Production: "Anti-Panzer Programm"
 BEL_Air_Defence_Of_Territory: "Luftverteidigung des Territoriums"
-BEL_Exempt_Walloons: "Erweiterte Feldgendarmerie"
 BEL_Feldgendarmerie: "Erweiterte Feldgendarmerie"
 BEL_Vlaamse_Wacht: "Erweiterte Flämische Wacht"
-BEL_Flemish_Pride: "Erweiterte Flämische Wacht"
 BEL_Increased_Recruitement: "Erweiterte flämische Wehrpflicht"
 
 ### Focus Trees ###
-
+BEL_focus: "Belgisch Deutscher Schwerpunkt Baum"
 BEL_Independent_focus: "Unabhängiges Belgien"
 
 ### Focuses ###
@@ -395,7 +372,7 @@ BEL_Rely_on_the_Kriegsmarine: "Verlassen Sie sich auf die Kaiserliche Marine"
 BEL_Rely_on_the_Kriegsmarine_desc: "Mit der Kaiserlichen Marine als dominierender Seestreitkraft des Reichspaktes sieht unsere Regierung keinen Grund, einen Großteil unserer hart erarbeiteten Reserven für den Ausbau der Flotte auszugeben. Modernisierungen könnten zwar angebracht sein, aber der Fokus sollte auf der Verteidigung unserer Küsten liegen und nicht auf einer großen Marine-Expeditionsstreitmacht."
 BEL_Land_Based_Support: "Befestigen Sie die flämische Küste"
 BEL_Land_Based_Support_desc: "Bunker an der flämischen Küste und Artilleriebatterien an Schlüsselstellen sollten sich als mehr als effektiv erweisen, um ausländische Invasionen auf dem Seeweg abzuschrecken."
-BEL_Expansion_of_the_Zeebrugge_Harbour: "Hafen von Zeebrügge erweitern"
+BEL_Expansion_of_the_Zeebrugge_Harbour: "Ausbau der Häfen"
 BEL_Expansion_of_the_Zeebrugge_Harbour_desc: "Unsere wichtigsten Marineeinrichtungen befinden sich zwar in Antwerpen, aber dieser Hafen ist leicht vom Meer abgeschnitten und kann daher keinen zuverlässigen Stützpunkt für unsere Flotte bieten."
 BEL_Destroyer_Effort: "Zerstörer-Bemühungen"
 BEL_Destroyer_Effort_desc: "Unser Vertrauen in die alten Zerstörer beginnt seine Defizite zu zeigen und hat daher das Oberkommando davon überzeugt, dass eine Renovierung dieser Schiffe angebracht ist."
@@ -533,52 +510,26 @@ BEL_Coast_Patrol_desc: "Während unsere tapfere Marine alles tut, was sie kann, 
 bel.IPS.tt: "§GDamit wird eine Untersuchung eingeleitet, um die Ursache für die Veruntreuung im großen Stil aufzudecken§!\n"
 bel.GI.tt: "§GDurch die Beauftragung einer deutschen Kommission können wir vielleicht mehr Geheimnisse aufdecken, allerdings um den Preis eines erhöhten Revoltenrisikos§!"
 bel.FI.tt: "§GIndem wir dem Flämischen Kounzil erlauben, seine Arbeit zu tun, werden wir sie nicht gegen uns aufbringen und einige dringend benötigte Unterstützung gewinnen.§!"
-bel.RE.tt: "§RWenn das Deutsche Reich unseren Vorschlag annimmt, werden wir gezwungen sein, finanzielle Reparationen zu zahlen§!\n"
 bel.SH.tt: "\n§GDie Wahl des Solvay-Kongresses reduziert unser Potenzial, diese Situation auszunutzen und kompensiert nur den Schwarzen Montag§!"
 bel.LE.tt: "\n§GDiesen Weg einzuschlagen, mag unsere technologischen Fähigkeiten behindern, garantiert aber eine leichte Erholung vom Schwarzen Montag§!"
 bel.SO.tt: "\n§GDiesen Weg einzuschlagen wird unsere Innovation fördern, aber die Mittel zur Bekämpfung des Schwarzen Montags reduzieren§!"
-Belgium_Independent: "Die deutsche Regierung ist gestürzt"
-Choose_Monarchy: "Wir haben beschlossen, die Monarchie wiederherzustellen"
-Choose_Republic: "Wir haben uns für die Reform zu einer Republik entschieden"
-A_New_Belgium: "Ein neues Belgien"
-BEL_Improved_Relations: "Freunde von Belgien"
-#BEL_Expansion: "Belgien sucht die Expansion" bereits oben als Idee definiert
-Choose_KP: "Katholische Partei gewinnt die Wahl"
-Choose_LP: "Liberale Partei gewinnt die Wahl"
-Choose_BWP: "Belgische Arbeiterpartei gewinnt die Wahl"
-Choose_NP: "Verdinaso gewinnt die Wahl"
-Choose_Van_Acker: "Van Acker hat die Kontrolle über die Partei übernommen"
-Choose_Spaak: "Spaak hat die Kontrolle über die Partei übernommen"
-Choose_Syndicalist: "Jacquemotte hat die Kontrolle über die Partei übernommen"
-TOA_Refused: "Der Vertrag von Arel wurde abgelehnt"
-German_Investigation: "Deutsche Ermittlungen"
-Flemish_Council_Chosen: "Flämische Ermittlungen"
+
+### Country Flags ###
+ TOA_Refused: "Der Vertrag von Arel wurde abgelehnt"
+ German_Investigation: "Deutsche Untersuchung"
+ Flemish_Council_Chosen: "Flämische Untersuchung"
+Small_Vlaamse_Wacht: "Hat die Rechte der Flämischen Wache nicht wiederhergestellt"
+Feldgendarmerie: "Die Feldgendarmerie hat das Recht erhalten, in Flandern-Wallonien zu operieren"
 
 ### Opinion Modifiers ###
-BEL_Arlon_Refused: "Vertrag von Arel abgelehnt"
 BEL_Arlon: "Vertrag von Arel angenommen"
+BEL_Arlon_Refused: "Vertrag von Arel abgelehnt"
 
 ### Traits ###
 Protest: "Großer Protest"
  BEL_soldier_king: "Soldatenkönig"
 
 ### Decisions ###
-BEL_Netherlands_decisions: "Politik gegenüber den Niederlanden"
-BEL_Netherlands_decisions_desc: "Obwohl sie in diesen schwierigen Zeiten nicht den stärksten Verbündeten darstellen, wird die Zusammenarbeit zwischen Belgien und den Niederlanden von entscheidender Bedeutung sein, wenn wir beide gedeihen und ausländische Bedrohungen abwehren wollen. Durch Wirtschaftsreformen und eine gemeinsame Militärpolitik werden wir der Außenwelt einen starken Block präsentieren, der vor den wachsenden Spannungen in Europa sicher ist."
-BEL_Improve_Relations_With_Netherlands: "Verbesserung der Beziehungen zu den Niederlanden"
-BEL_Improve_Relations_With_Netherlands_desc: "Unsere Beziehung zu den Niederländern war schon immer von Höhen und Tiefen geprägt, aber in der heutigen Zeit sollten wir beide eine engere Verbindung anstreben und zusammenarbeiten, um eine bessere Zukunft aufzubauen."
-BEL_Ally_Netherlands: "Die Niederländisch-Belgische Union vorschlagen"
-BEL_Ally_Netherlands_desc: "Durch einen Verteidigungspakt zwischen unseren beiden Nationen werden wir stärker gegen unsere gemeinsamen Feinde stehen und fremde Invasionen abschrecken. Folgeprogramme, die eine engere Zusammenarbeit zwischen den Streitkräften und den Forschungsinstituten vorsehen, sind ebenfalls in Arbeit und sollen den Niederländern den neuesten Stand der Technik sichern"
-BEL_Expanding_the_Westerschelde: "Ausbau der Westerschelde"
-BEL_Expanding_Gent_Terneuzen: "Erweitern Sie den Kanal Gent-Terneuzen"
-BEL_Foundation_of_the_Koninklijke_Academie: "Gründung der Königlichen Akademie"
-BEL_Foundation_of_the_Low_Lands_Customs_Union: "Gründung der Niederländischen Zollunion"
-BEL_Treaty_of_Geel: "Den Vertrag von Geel vorschlagen"
-
-BEL_peace_with_germany: "Gegen Deutschland durchhalten"
-BEL_peace_with_belgium: "Niederschlagung der belgischen Revolte"
- BEL_reform_faction: "Reform des BeNeSam"
-
 BEL_Economic_decisions: "Wirtschaftspolitik"
 BEL_Economic_decisions_desc: "Unsere Wirtschaft hat sich drastisch verlangsamt, nachdem die Kohlebergwerke in Wallonien sich dem Ende ihrer Reserven näherten und große Teile der Stahlindustrie von staatlicher Unterstützung abhängig wurden. Während dieses System für den Moment funktioniert und den Syndikalismus in der Industriefurche in Schach hält, müssen Reformen durchgeführt werden, wenn wir einen Zusammenbruch aufgrund einer wirtschaftlichen Rezession verhindern wollen..."
 BEL_ARBED_Takeover: "Unterstützung für die ARBED-Übernahme bereitstellen"
@@ -591,12 +542,13 @@ BEL_Worlds_Fair_decisions: "Weltausstellung Lüttich 1939"
 BEL_Worlds_Fair_decisions_desc: "Die flämisch-wallonische Ingenieurskunst hat auf dem Gebiet der Elektrizität und der chemischen Industrie Weltruhm erlangt. Als weitere Bereicherung ihres Könnens ist es der Regierung gelungen, die Weltausstellung 1939 zu sichern, um den Stolz des Ingenieurwesens der Nation zu präsentieren: den Adelbert-Kanal. Unter dem Namen "Internationale Ausstellung für Wassertechnologie" zeigen flämisch-wallonische Unternehmen ihre Leistungen auf dem Gebiet der Wasserwerke."
 BEL_Worlds_Fair_Liege: "Vorbereiten der Weltausstellung"
 
-BEL_Exile_Canada: "Stärkung der Ottawa-Regierung im Exil"
-BEL_Exile_Canada_desc: "Nach unserer Niederlage im Weltkrieg wurden König Albert I. und seine Familie ins Exil gezwungen, zunächst nach Großbritannien und später nach Kanada. Gefolgt von einer großen Anzahl politischer, militärischer und royalistischer Unterstützer, haben sie eine belgische Exilregierung gebildet, in der Hoffnung, dass sie auf irgendeine Weise in ihr Heimatland zurückkehren und es von der deutschen Unterdrückung befreien können.\n\nNun, da die Entente an den Ufern von Oostende steht, fleht der Soldatenkönig selbst seine Familienmitglieder an, ihn den belgischen Thron wieder besteigen zu lassen und sich formell dem Kampf auf der Seite der Entente anzuschließen."
-BEL_Exile_Canada_Player: "Stärkung der belgischen Regierung im Exil."
-BEL_Exile_Canada_Player_desc: "Nach ihrer Niederlage im Weltkrieg wurden der belgische König Albert I. und seine Familie ins Exil gezwungen, zunächst nach Großbritannien und später nach Kanada. Gefolgt von einer großen Anzahl politischer, militärischer und royalistischer Unterstützer, haben sie eine belgische Exilregierung gegründet, in der Hoffnung, dass sie auf irgendeine Weise in ihr Heimatland zurückkehren und es von der deutschen Unterdrückung befreien können.\n\nNun, da die Entente an den Ufern von Oostende steht, bittet der Soldatenkönig selbst seine Familienmitglieder, ihn den belgischen Thron wieder besteigen zu lassen und sich formell dem Kampf auf der Seite der Entente anzuschließen."
-BEL_Undermine_German_Government_In_Exile: "Verhöhnung der flämisch-wallonischen Regierung im Exil"
-BEL_Undermine_German_Government_In_Exile_desc: "Der deutsche Marionettenkönig hat seinen Posten in den Flandernfeldern aufgegeben und ist mit seinem Stabschef und vertrauten Beratern aus Belgien geflohen. Die Belgier sind empört über dieses Maß an Feigheit und rufen nach seiner Abdankung und dem Abschied von der deutschen Herrschaft.\n\nAlbert I., immer noch im Exil hier in Kanada, hat eine rivalisierende Regierung eingesetzt, um ein für alle Mal zu zeigen, wer der wahre König der Belgier ist. Dies hat uns die Möglichkeit gegeben, unser eigenes belgisches Regime zu unterstützen und unseren Einfluss auf ihre kleine Nation zu sichern, wenn der zweite Weltkrieg endlich vorbei ist.\n\n§WWenn wir die §YLegitimität§! der §Y[BEL.GetFlag] [BEL.GetAdjective] Regierung im Exil§! unter §R50§! halten, können wir Belgien in unsere Sphäre ziehen.§!"
+BEL_Netherlands_decisions: "Politik gegenüber den Niederlanden"
+BEL_Netherlands_decisions_desc: "Obwohl sie in diesen schwierigen Zeiten nicht den stärksten Verbündeten darstellen, wird die Zusammenarbeit zwischen Belgien und den Niederlanden von entscheidender Bedeutung sein, wenn wir beide gedeihen und ausländische Bedrohungen abwehren wollen. Durch Wirtschaftsreformen und eine gemeinsame Militärpolitik werden wir der Außenwelt einen starken Block präsentieren, der vor den wachsenden Spannungen in Europa sicher ist."
+BEL_Expanding_the_Westerschelde: "Ausbau der Westerschelde"
+BEL_Expanding_Gent_Terneuzen: "Erweitern Sie den Kanal Gent-Terneuzen"
+
+ BEL_peace_with_germany: "Gegen Deutschland durchhalten"
+ BEL_reform_faction: "Reform des BeNeSam"
 
 ### Party Names ###
 BEL_social_conservative_party: "KP/DC"
@@ -631,8 +583,6 @@ BEL_interim_government: "Übergangsregierung"
 ### Tech Sharing ###
 belgian_research_name: "Niederländische Akademie"
 belgian_research_desc: ""
-belgian_german_naval_program: "Flämisch-wallonisches Marine-Kooperationsprogramm"
-belgian_german_naval_program_desc: ""
 
 ### Bookmark ###
  BEL_KR_gathering_storm_desc: "Nach dem Ende des Weltkriegs wurde Belgien in das Königreich Flandern-Wallonien umgewandelt. In den Jahren nach Versailles hatte das Land, das unter einem starken wirtschaftlichen Abschwung litt und dessen Bevölkerung den Prätendenten Adalbert nicht akzeptieren wollte, schwer zu kämpfen. Doch die Nation könnte ihren Kurs drastisch ändern. Die Syndikalisten, die von der anderen Seite der Grenze unterstützt werden, und die Royalisten, die den Soldatenkönig zurückholen wollen, warten auf eine Gelegenheit. Flandern-Wallonien könnte einen Sturm auf sich zukommen sehen. Die Frage ist: Wer wird stehen bleiben, wenn er vorüber ist?"
@@ -981,8 +931,6 @@ bel.332.t: "Flämischer Widerstand unter Beschuss"
 bel.332.d: "Nach dem Fall von Charleroi und dem Ende des wallonischen Aufstandes sehen sich die Rebellen in Flandern in die Enge getrieben. Die Flämische Wache hat uns informiert, dass prominente Mitglieder des Flämischen Konzils in der Nähe der holländischen Grenze gesichtet wurden, wahrscheinlich bei dem Versuch, deren Gunst zu gewinnen und ein Eingreifen der Holländer zu bewirken."
 bel.332.a: "Die Niederlande täten gut daran, sich nicht in unsere Angelegenheiten einzumischen."
 
-############
-
 bel.34.t: "Das Königreich schlägt zurück"
 bel.34.d: "Ohne Unterstützung von der anderen Seite der Sprachgrenze und der deutschen Regierung unterlegen, ist die Rebellion zum Scheitern verurteilt. Die Repression wird hart aber gerecht sein, da wir versuchen werden, weitere Rebellionen zu vermeiden. Die Regierung wird reformiert werden müssen, um sicherzustellen, dass wir beim nächsten Mal besser vorbereitet sind."
 bel.34.a: "Weiter geht's!"
@@ -1008,43 +956,6 @@ bel.362.a: "Wählen Sie Van Acker."
 bel.362.b: "Wählen Sie sozial-liberal für das Beste aus beiden Welten!"
 bel.362.c: "Die Liberalen übernehmen sie."
 bel.362.e: "Die Radikalen innerhalb der BWP sichern sich den Sieg."
-
-###########
-#Election results in Free Belgium
-###########
-bel.37.t: "Verdinaso ist gewählt!"
-bel.37.d: "Verdinaso hat es geschafft, die Kontrolle über die Regierung zu übernehmen, und Van Severen hat seine Freunde und Verbündeten in allen wichtigen Positionen installiert. Sie werden versuchen, Belgien schnell zu militarisieren und die steigenden Spannungen in Europa so gut wie möglich auszunutzen. Besonders die Niederlande, die uns nach dem Vertrag von London unser rechtmäßiges Land gestohlen haben, werden bestraft und unter unserem Schutze als Reichsland vereinigt werden."
-bel.37.b: "Verdinaso wird die Regierung führen!"
-
-###########
-bel.38.t: "KP ist gewählt!"
-bel.38.d: "Als größte belgische Partei und Kontrolleur der Regierung von 1884 bis 1921 war es naheliegend, die KP mit dem Wiederaufbau des Landes zu beauftragen. Der frische Parteivorsitzende Frans van Cauwelaert wurde mit der Regierungsbildung beauftragt und wird uns hoffentlich zu einem besseren Belgien führen."
-bel.38.a: "Viel Erfolg van Cauwelaert!"
-
-###########
-bel.39.t: "BWP ist gewählt!"
-bel.39.d: "Als größte sozialistische Partei Belgiens und mit großen Plänen zur Wiederbelebung der Nation ist es keine Überraschung, dass die BWP mit der Führung der Regierung beauftragt wurde. Es gibt jedoch zwei Kandidaten, die um den Platz des Premierministers wetteifern. Paul-Henri Spaak, ein starker sozialistischer Liberaler mit Ideen, die sowohl von liberal orientierten als auch syndikalistischen Parteimitgliedern inspiriert sind, wird versuchen, große Infrastrukturüberholungen zu starten, um die Arbeiterklasse zu stärken. Achille Van Acker hingegen lehnt sich eher an die sozialdemokratische Seite an und wird die belgische Wirtschaft mit seinem berühmten Plan Van Acker wiederbeleben. Es gibt jedoch Unzufriedenheit in der Partei, da einige der extremeren Mitglieder die aktuelle Agenda der Partei viel zu weich finden und Belgien gerne in einen syndikalistischen Staat nach dem Vorbild des südlichen Nachbarlandes reformieren würden. Sie könnten einen Putsch gegen die derzeitige Parteiführung starten, da ihre Bewegung in den unzufriedenen Städten Walloniens dringend benötigte Unterstützung erhält."
-bel.39.a: "Paul-Henri Spaak wird die Regierung leiten."
-bel.39.b: "Achille Van Acker wird die Regierung leiten."
-bel.39.c: "Reform zu einer syndikalistischen Partei."
-
-###########
-bel.391.t: "Spaak übernimmt die Kontrolle über die von der BWP geführte Regierung"
-bel.391.d: "Die BWP hat sich unter der Führung ihres Vorsitzenden Paul-Henri Spaak zu einer sozialliberalen Partei umorganisiert. Vorbereitungen für eine rasche Übernahme wurden bereits getroffen und Koalitionsgespräche sind abgeschlossen."
-bel.391.a: "Viel Erfolg Spaak!"
-
-bel.392.t: "Van Acker übernimmt die Kontrolle über die von der BWP geführte Regierung"
-bel.392.d: "Die BWP wurde unter der Führung ihres Vorsitzenden Achille Van Acker zu einer sozialdemokratischen Partei reorganisiert. Die Vorbereitungen für eine rasche Übernahme wurden bereits getroffen und die Koalitionsgespräche sind abgeschlossen. Camille Huysmans wird zum Regierungschef unter der Führung von Van Acker ernannt, damit er sich mehr auf die Ausführung seiner Wirtschaftsreformen konzentrieren kann."
-bel.392.a: "Viel Erfolg Van Acker!"
-
-bel.393.t: "Jacquemotte übernimmt die Kontrolle über die von der BWP geführte Regierung"
-bel.393.d: "Während der Kämpfe innerhalb der Partei hat Joseph Jacquemotte die Partei fest im Griff und hat sowohl die Spaak- als auch die Van Acker-Fraktion mit einem schnellen Schlag verdrängt. Er wird nun versuchen, die Partei zu einem stärkeren syndikalistischen Akteur zu reformieren, um weitere Splittergruppen zu vermeiden."
-bel.393.a: "Viel Erfolg Jacquemotte!"
-
-###########
-bel.40.t: "LP ist gewählt!"
-bel.40.d: "TDie Wahlen sind vorbei und die Liberale Partei hat gewonnen. Obwohl es lange her ist, dass die Liberalen die belgische Regierung geführt haben, könnte ein frischer Wind notwendig sein, um das ruinierte Land wieder aufzubauen. Die Liberalen haben vielleicht nicht so große Ambitionen wie die BWP oder Verdinaso, aber sie glauben, dass wenig staatliche Kontrolle und mehr Rechte für den Bürger der richtige Weg sind."
-bel.40.a: "Viel Erfolg Janson!"
 
 bel.41.t: "König Albert I. kehrt zurück!"
 bel.41.d: "Als die Royalisten die Monarchie wiederherstellen, setzt König Albert I., früher Von Sachsen-Coburg Gotha, jetzt Von Belgien, als erster wiederhergestellter König seines Landes die Segel in Kanada. Drüben in Belgien werden alle Vorbereitungen getroffen, damit Albert schnell und ohne Probleme seinen Thron wieder besteigen kann."
@@ -1294,56 +1205,6 @@ bel.849.d: "Um seine Macht weiter zu festigen, hat der König beschlossen, das a
 bel.849.a: "Wiedereinführung der Volksabstimmung."
 bel.849.b: "Fälschen Sie das allgemeine Wahlrecht."
 
-bel.84.t: "21. Juli"
-bel.84.d: "Während der 21. Juli naht, werden Vorbereitungen getroffen, um jegliche Festivitäten zu verbieten und eine Katastrophe wie vor zwei Jahren zu verhindern. Stimmen im Parlament und auf den Straßen fordern jedoch, dass der König geregelte Festivitäten in Dörfern und Städten zulässt, um die Stimmung in diesen Krisenzeiten zu heben. Ein solches Vorgehen würde das Ansehen des Königs in Flandern-Wallonien erheblich steigern, wäre aber für die deutsche Regierung wahrscheinlich inakzeptabel."
-bel.84.a: "Verbietet alle Festivitäten."
-bel.84.b: "Erlauben Sie kleine geregelte Versammlungen in den Städten."
-bel.84.c: "Die Bevölkerung kann sich so ausdrücken, wie sie es wünscht."
-
-bel.85.t: "Der Status des Syndikalismus"
-bel.85.d: "Da die syndikalistische Partei aufgrund der Arbeitslosenkrise in der Bevölkerung immer beliebter wird, ist es vielleicht an der Zeit, dass wir ihr erlauben, Vertreter ins Parlament zu schicken, um ihre Wünsche zu äußern. Auch wenn das Deutsche Reich seine Feindseligkeit gegenüber der Partei zum Ausdruck gebracht hat, sind sie eindeutig mit den Sorgen vieler unserer Bürger verbunden und könnten eine wertvolle Meinung haben. Diese Aktion könnte auch unsere Regierung zu einem demokratischeren System weiterentwickeln."
-bel.85.a: "Ermöglichen Sie allen Oppositionsparteien eine faire Chance bei Wahlen."
-bel.85.b: "Die Syndikalisten sollen sich organisieren und ihre eigenen Kommunen bilden."
-bel.85.c: "Das System bleibt, wie es ist."
-
-bel.86.t: "Die Sprachfrage"
-bel.86.d: "Flandern-Wallonien ist aufgrund von Kommunikationsschwierigkeiten ein sehr geteiltes Land. Die französische Oberschicht hatte das Land vor der Besetzung nach dem Weltkrieg immer regiert und viele haben Französisch immer als die richtige Sprache des Staates angesehen. Auch das Militär litt während des Weltkriegs stark unter dieser Spaltung, da französischsprachige Offiziere sich nicht mit ihren flämischen Untergebenen verständigen konnten. Das flämische Volk hat sich von diesen französischen Aristokraten immer falsch dargestellt gefühlt und diese Spannungen haben unweigerlich zu einer gewissen Feindseligkeit zwischen den beiden Gruppen geführt.\n\nMit der Ankunft der deutschen Besatzung gab es einige Verbesserungen in Richtung einer Harmonisierung der Beziehungen zwischen den Wallonen und den niederländischsprachigen Gemeinschaften. Leider sind viele der Meinung, dass das pro-deutsche Regime nicht viel mehr getan hat, als die frühere französischsprachige Elite zu ersetzen, und eine andere Form der Hierarchie geschaffen hat, in der beide Gemeinschaften unter den deutschen Invasoren rangieren. Die Situation hat sich jedoch geändert, und aufgrund der groß angelegten Reformen des Militärs ist es an der Zeit, über eine Verbesserung der nationalen Einheit nachzudenken, indem man Soldaten und Politikern aus allen drei Sprachen erlaubt, in den Rängen aufzusteigen."
-bel.86.a: "Nur deutsche Offiziere zulassen."
-bel.86.b: "Erlaubt deutsche und flämische Offiziere."
-bel.86.c: "Erlaubt deutsche, flämische und wallonische Offiziere."
-
-bel.87.t: "Deutsche Armee fordert Lebensmittel"
-bel.87.d: "Aufgrund einer besonders schlechten Ernte und der erhöhten Unterhaltskosten der deutschen Armee, die aus ihrer massiven Expansion resultieren, hat die deutsche Regierung offen gefordert, dass die landwirtschaftlich reiche Region Flandern große Lieferungen von Getreide und Kartoffeln nach Deutschland schickt, um ihre Soldaten zu ernähren. Zufälligerweise hat Flandern in diesem Jahr auch eine schlechte Ernte eingefahren, und die Erfüllung aller deutschen Forderungen könnte zum Ausbruch einer Hungersnot in unserem eigenen Land führen. Obwohl wir uns entscheiden könnten, unseren eigenen Landsleuten den Vorrang zu geben, würde die deutsche Regierung dies sehr missbilligen und uns möglicherweise mit Wirtschaftssanktionen bestrafen."
-bel.87.a: "Geben Sie ihnen so viel Nahrung, wie sie wünschen."
-bel.87.b: "Überschüssige Lebensmittel können die Deutschen haben."
-bel.87.c: "Weisen Sie ihre Forderungen rundheraus zurück."
-
-bel.88.t: "Deutsche Beziehungen bereinigen"
-bel.88.d: "Fehlerbehebung"
-bel.88.a: "Beziehungen erweitern."
-bel.88.b: "Verringern Sie die Beziehungen."
-bel.88.c: "Bericht Beziehungen."
-
-bel.89.t: "Schreckliche Beziehungen zu Deutschland"
-bel.89.d: "Da das Deutsche Reich über die jüngsten Entwicklungen in unserem Land wütend ist, müssen wir vorsichtig sein und mit Auswirkungen rechnen. Die flämisch-wallonische Einheit war jedoch nie besser, da viele den König eher als wohlwollenden Herrscher denn als Tyrannen sehen."
-bel.89.a: "Wir hatten sowieso vor, uns zu befreien."
-
-bel.90.t: "Schlechte Beziehungen zu Deutschland"
-bel.90.d: "Unsere Beziehungen zum Kaiser haben sich ziemlich verschlechtert und das Kaiserreich könnte uns für unsere Respektlosigkeit bestrafen. Der Respekt vor Adelbert ist jedoch gestiegen und mehr Menschen sind bereit, sich zu melden, um ihr Land im Namen des Königs zu verteidigen."
-bel.90.a: "Wir müssen vorsichtig sein."
-
-bel.91.t: "Neutrale deutsche Beziehungen"
-bel.91.d: "Das Imperium toleriert unsere Handlungen, ist aber nicht ganz zufrieden mit den jüngsten Reformen. Es gibt keine wirklich patriotische flämisch-wallonische nationale Identität, aber eine beträchtliche Anzahl von Menschen hat beschlossen, dass sie bereit sind, unser Land zu verteidigen, wenn es zum Krieg kommt."
-bel.91.a: "Ich habe keine starken Gefühle für die eine oder andere Seite."
-
-bel.92.t: "Gute Beziehungen zu Deutschland"
-bel.92.d: "Das Deutsche Reich billigt unsere Politik und hat Hilfe geschickt, um unsere Erholung zu beschleunigen. Die Bevölkerung von Flandern-Wallonien ist jedoch überhaupt nicht zufrieden mit ihrer Regierung und kleine Kundgebungen wurden im ganzen Land organisiert."
-bel.92.a: "Schicken Sie dem Kaiser meine Grüße."
-
-bel.93.t: "Exzellente Beziehungen zu Deutschland"
-bel.93.d: "Wir sind das Juwel des Reichspaktes, ein Vorbild für alle Mitgliedsstaaten. Wir gehorchen jedem deutschen Befehl und tragen zum großen Ganzen bei. Die Bevölkerung ist jedoch sehr unzufrieden und es kommt wöchentlich zu Unruhen im ganzen Land. Die antideutsche Stimmung ist auf einem Allzeithoch und die nationale Einheit ist erbärmlich."
-bel.93.a: "Deutschland über Alles."
-
 #Fraktionen
 bel.101.t: "Gründung der Niederländisch-Belgischen Vertragsorganisation"
 bel.101.d: "Eine diplomatische Mission aus dem wiedergeborenen Land Belgien ist an uns herangetreten. Sie wollen die Beziehungen zwischen unseren beiden Nationen ausbauen und unsere Position in der Welt stärken, indem sie eine Allianz bilden. Sie schlagen vor, dass wir gemeinsam feindliche Handlungen abwehren und sicherstellen können, dass wir beide gedeihen. Die Annahme dieses Vorschlags würde jedoch unsere Beziehung zu Deutschland beschädigen und wir wären vielleicht nicht stark genug, um sie vor den neugierigen Augen der Internationalen zu schützen."
@@ -1397,14 +1258,6 @@ bel.101.b: "Verweigern Sie ihre Bewerbung."
  bel.111.d: "Der nächste Schritt zur belgisch-niederländischen Zusammenarbeit ist die Gründung der Königlichen Akademie der Wissenschaften, die sich aus den besten Köpfen Belgiens und der Niederlande zusammensetzt. Die Akademie, die ihren Sitz in Brüssel in der Nähe der Universität hat, wird offiziell von den Monarchen beider Länder geleitet und zu einem großen Teil aus dem Haushalt der Königshäuser von Belgien und Nassau finanziert. Die Akademie wird Forschungsprojekte in den Bereichen Physik und Chemie durchführen, die unserem Militärbündnis unmittelbar zugute kommen, aber auch in den Bereichen Geschichte, Literatur und Philosophie, wobei der Schwerpunkt auf den kulturellen Verbindungen zwischen unseren beiden Ländern liegt. Wir sind zuversichtlich, dass dieses Projekt die Spitze des technologischen Fortschritts in unserer Organisation sein wird und viele weitere Studenten und Arbeitnehmer zur Zusammenarbeit mit ihren Kollegen inspirieren wird."
  bel.111.a: "Exzellent."
 
-bel.1011.t: "Ausbau der Westerschelde"
-bel.1011.d: "Nach der Unterzeichnung des niederländisch-belgischen Vertrags haben wir uns an die niederländische Regierung gewandt und um den Ausbau der Westerschelde gebeten. Sie haben unseren Bedingungen zugestimmt und unseren Arbeitern, begleitet von niederländischen Fachleuten, erlaubt, große Teile der Westerschelde auszubaggern. Dies wird unserem Land weiteren wirtschaftlichen Wohlstand sichern und vielen unserer Arbeitslosen Arbeit verschaffen."
-bel.1011.a: "Lasst die Arbeiten beginnen."
-
-bel.1012.t: "Arbeiten an der Westerschelde beendet"
-bel.1012.d: "Mit der Fertigstellung der letzten Fahrrinne können große Frachtschiffe endlich den Hafen von Antwerpen erreichen. Unsere Investition wird sich sehr schnell auszahlen, da nach den steigenden Spannungen im übrigen Europa immer mehr Handel durch die Häfen der Niederlande fließt."
-bel.1012.a: "Ein weiterer Erfolg für die DBTO."
-
 #National Holidays
 bel.117.t: "11. Juli"
 bel.117.d: "Der 11. Juli 1302 wird immer als das Datum eines großen Sieges über die französische Armee am Guldensporenslag in Erinnerung bleiben. An diesem Tag besiegte ein unterlegenes flämisches Heer, unterstützt von Truppen aus Namur, die weit überlegenen französischen Ritter. Dieser Sieg markierte einen wichtigen Punkt in der Entstehung der unabhängigen flämischen Bewegung und wurde im Roman von " Der Löwen von Flandern" von Hendrik Conscience verewigt. Da viele unsere aktuelle nationale Situation genauso schlimm sehen wie damals, ist die Unterstützung für die Bewegung auf einem Allzeithoch."
@@ -1414,11 +1267,6 @@ bel.117.b: "Lasst ihnen den Tag des Ruhms."
 bel.217.t: "21. Juli"
 bel.217.d: "Dieser Tag markiert die Krönung des ersten belgischen Monarchen im Jahr 1831. Am 4. wurde vom Nationalkongress beschlossen, eine belgische Monarchie zu schaffen und Leopold von Sachsen-Coburg-Gotha zu wählen, Leopold wurde schnell in eine Kutsche gesetzt und nach Belgien gebracht. Der 21. markiert dann den Tag, an dem Leopold auf dem Koningsplein in Brüssel als erster belgischer König vereidigt wurde und unsere Monarchie begann. Dieses Datum wurde später zum Nationalfeiertag erklärt und ist typischerweise von weit verbreiteten Ausbrüchen patriotischer Tendenzen geprägt. Als die deutsche Armee Belgien während des Weltkriegs kapitulierte, wurde der Feiertag deshalb streng verboten."
 bel.217.a: "Zwingen Sie die Menschen, das Gesetz zu befolgen."
-
-#News Events
-bel.219.t: "Belgien erklärt Unabhängigkeit"
-bel.219.d: "Krank von der deutschen Unterdrückung und der Katastrophe des Schwarzen Montags, haben belgische Unabhängigkeitsbewegungen im ganzen Land revoltiert und Guerillaangriffe auf die deutsche Armee durchgeführt. Aufgrund ihrer eigenen Genesung sind sie nicht in der Lage, Adelbert I. in vollem Umfang zu unterstützen und haben die Situation außer Kontrolle geraten lassen. Nach koordinierten Angriffen der Unabhängigkeitsarmee auf die Städte Mons und Antwerpen konnten sie die flämisch-wallonische Armee schließlich bis nach Brüssel zurückdrängen, wo der deutsche König nach heftigen Kämpfen kapitulierte. Da das Deutsche Reich noch keine klare Antwort gegeben hat, befürchten viele, dass ein unabhängiges Belgien nur von kurzer Dauer sein könnte, insbesondere angesichts der zunehmenden Spannungen zwischen dem Reich und der französischen Kommune und der strategischen Lage des Landes."
-bel.219.a: "Viel Erfolg Belgium!"
 
 #Elections
 bel.1000.t: "Wahlen von 1940"
@@ -1434,42 +1282,6 @@ bel.1001.a: "Camille Huysmans und seine sozialdemokratische BWP."
 bel.1001.b: "Paul-Henri Spaak und seine sozialliberale BWP."
 bel.1001.c: "Paul Van Zeeland und seine sozialkonservative KP."
 bel.1001.e: "Paul-Emile Janson und seine marktliberale LP."
-
-#German Occupation Policy
-bel.210.t: "Rheinland Besetzung"
-bel.210.d: "Der deutsche Riese ist zurückgedrängt worden und wir haben die Kontrolle über das westliche Rheinufer übernommen. Um unsere Politik der Widerstandsunterdrückung weiter zu erleichtern, wurde ein Plan zur Schaffung eines Rheinland-Protektorats vorgeschlagen."
-bel.210.a: "Den Plan ausführen."
-
-bel.211.t: "Die Luxemburg Frage"
-bel.211.d: "Mit dem Vertrag von London nach dem Unabhängigkeitskrieg an die Niederlande verloren, ist Luxemburg nun wieder unter unsere Kontrolle gekommen. Die Bevölkerung ist zwar nicht wallonisch oder flämisch, könnte aber dennoch bereit sein, sich unserem Land als volle Erweiterung unserer Provinz Luxemburg anzuschließen. Wenn der Frieden wiederhergestellt ist, wird ein Referendum abgehalten werden, das die Zukunft Luxemburgs bestimmt."
-bel.211.a: "Stellen Sie das Herzogtum erst einmal wieder her."
-
-bel.212.t: "Die Eupen-Malmedy Frage"
-bel.212.d: "Während unsere Soldaten in Eupen einmarschieren und die belgischen Farben hissen, haben Regierungsvertreter prompt verkündet, dass sie die deutsch-französischsprachige Region unserem Land angliedern werden. Viele sehen dies als eine gerechte Maßnahme nach der demütigenden Niederlage im Weltkrieg und als ersten Schritt zu einem belgischen Sieg über Deutschland. Herman Baltia hat das Kommando über die Provinz erhalten und wird den Integrations- und Assimilationsprozess anführen."
-bel.212.a: "Treiben Sie den Hunnen weiter fort!"
-
-bel.213.t: "Wallonie wiedervereint!"
-bel.213.d: "Mit der Vertreibung der letzten deutschen Soldaten aus Bastogne ist unser ganzes Land endlich wiedervereint. Ein großer Sieg für Belgien, aber nur ein kleiner Schritt zur endgültigen Niederlage des Kaisers."
-bel.213.a: "Die belgische Armee ist auf dem Vormarsch."
-
-#Luxembourg Referendum
-bel.2110.t: "Die Luxemburg Frage"
-bel.2110.d: "Statt einer vollständigen Annexion beim Durchmarsch durch Luxemburg wurde die Großherzogin wieder eingesetzt und das Versprechen gegeben, ein Referendum über den Nachkriegsstatus des Herzogtums abzuhalten. Jetzt, wo der Frieden wiederhergestellt ist, ist die Großherzogin erschienen und es ist an der Zeit, ein Referendum abzuhalten, das über das Schicksal des Landes entscheidet. Das luxemburgische Volk wird sich zwischen dem Verbleib als unabhängige Nation oder dem Anschluss an Belgien entscheiden müssen. Umfragen am Vorabend des Referendums geben keinen klaren Aufschluss darüber, welche Seite gewinnen wird und ob Belgien um eine Provinz reicher sein wird oder nicht."
-bel.2110.a: "Halten Sie das Referendum ab."
-bel.2110.b: "Luxemburg hat keine Wahl in dieser Angelegenheit, annektieren Sie es!"
-
-#bel.2111.t: "Das Luxemburger Referendum"
-#bel.2111.d: ""
-#bel.2111.a: "Belgien beitreten."
-#bel.2111.b: "Wir werden unsere Unabhängigkeit bewahren!"
-
-bel.2112.t: "Luxemburg stimmt für den Beitritt zu Belgien"
-bel.2112.d: "Die letzten Wahllokale haben geschlossen und verzeichnen eine Rekordbeteiligung in der Stadt Luxemburg selbst. Die ersten Ergebnisse zeigen eine knappe Mehrheit für den Beitritt zu Belgien mit 48.631 Ja-Stimmen und 42.015 Nein-Stimmen bei einer Wahlbeteiligung von 72,1%. Die Herzogin hat der belgischen Regierung zu dem Ergebnis gratuliert und ihre Macht zugunsten von Brüssel niedergelegt."
-bel.2112.a: "Wir begrüßen unsere neuen Brüder!"
-
-bel.2113.t: "Luxemburg votiert für die Unabhängigkeit!"
-bel.2113.d: "Die letzten Wahllokale haben geschlossen und verzeichnen eine Rekordbeteiligung in der Stadt Luxemburg selbst. Die ersten Ergebnisse zeigen eine leichte Mehrheit für die Beibehaltung der Unabhängigkeit mit 48.631 Ja-Stimmen und 42.015 Nein-Stimmen bei einer Wahlbeteiligung von 72,1%. Die belgische Regierung hat der Herzogin zu dem Ergebnis gratuliert und versprochen, sie unabhängig zu lassen..."
-bel.2113.a: "Viel Erfolg Luxemburg!"
 
 #Protest aggressive Further reaction
 flawa.2.t: "Geuzengruppe aufgedeckt"
@@ -1649,7 +1461,6 @@ flawa.40.d: "In dem Bemühen, den Aufstieg der syndikalistischen Elemente in der
 flawa.40.a: "Adelbert ist der Herrscher."
 
 #Peaceful Belgian Transistion
-
 flawa.41.t: "Proteste in Gent und Antwerpen"
 flawa.41.d: "Aus Protest gegen die Auflösung der Landwacht und die völlige Auslöschung von Verdinaso sind Hunderte auf die Straßen geströmt, um ihre Stimme gegen die Entscheidung des Königs zu erheben. Während die Proteste nichts weiter als ein weiterer friedlicher Versuch zu sein scheinen, den Abgang von Adelbert zu erzwingen, könnte ein starkes Eingreifen notwendig sein, um dem Pöbel zu zeigen, wer hier wirklich das Sagen hat."
 flawa.41.a: "Sollen sie doch protestieren."
@@ -1675,7 +1486,6 @@ flawa.45.d: "Angeheizt durch den Revanchismus gegen die deutschen Besatzer und d
 flawa.45.a: "Die Feuer der Revolution brennen im ganzen Land."
 
 #Adelbert starts reforming
-
 flawa.50.t: "Korruption in der Generale Bank"
 flawa.50.d: "Nachdem die Generale Bank nach dem Crash am Schwarzen Montag im vergangenen Jahr von der Societe Generale de la Belgique abgespalten wurde, wurden Vertreter des Flämischen Konzils in hochrangige Positionen innerhalb der Organisation gesetzt. Heute Morgen jedoch veröffentlichte die Zeitung De Standaard einen Artikel auf der Titelseite, in dem hochrangige Korruption innerhalb der Institution beschrieben wird. Einige wichtige katholische Mitglieder und deutsche Industrielle werden namentlich erwähnt, während Paul Van Zeeland, der Chef der katholischen Partei, öffentlich beschuldigt wird, für die Korruption in der Organisation verantwortlich zu sein..."
 flawa.50.a: "Berufen Sie eine Sondersitzung des Parlaments ein!"
@@ -1737,17 +1547,7 @@ bel.226.d: "Am 22. Januar 1935 wurde das Land durch die Ermordung von Albert Pot
 bel.226.a: "Es ist besser, einen solchen schwarzen Fleck auf unserer Herrschaft zu vergessen."
 bel.226.b: "Schicken Sie einen Vertreter, um unser Beileid zu bekunden."
 
-#Westerschelde
-bel.1013.t: "Blockade der Westerschelde"
-bel.1013.d: "Die Niederländer haben die Einfahrt in die Westerschelde blockiert und damit die Häfen von Gent und Antwerpen abgeschnitten, was zu großen Problemen für unsere Produktionsanlagen führt."
-bel.1013.a: "Wir müssen weitermachen."
-
-bel.1014.t: "Westerschelde-Blockade aufgehoben"
-bel.1014.d: "Unsere Streitkräfte haben beide Ufer des Flusses gesichert und damit die niederländische Blockade aufgehoben. Versorgungsschiffe und Handelsschiffe, die den Kai verlassen, sind wieder ein normaler Anblick für die Menschen in Antwerpen."
-bel.1014.a: "Exzellent!"
-
 #Linguistic Troubles resolvement
-
 belind.1.t: "Die erste Sprachzählung"
 belind.1.d: "Auch wenn die belgische Unabhängigkeit wieder gesichert ist, beherrschen sprachliche Fragen die politische Landschaft. Erschwerend kommt hinzu, dass aufgrund des deutschen Integrationsdrangs keine unserer demografischen Statistiken mehr gültig ist. Deshalb hat die Regierung eine vollständige Volkszählung vorgeschlagen, um festzustellen, in welchen Dörfern und Städten welche Sprache gesprochen wird. Mit den Ergebnissen dieser "Sprachzählung" hofft Brüssel, die genaue Lage der Sprachgrenze zu bestimmen und das sprachliche Debakel zu lösen."
 belind.1.a: "Starten Sie die Zählung."
@@ -1909,25 +1709,16 @@ belind.15.a: "Dies wird ein langer und harter Prozess sein."
  bel.500.d: "Der neueste Comic von Georges Rémi, oder Hergé, spielt im Qing-Reich, wo der Reporter Tintin ausgesandt wird, um den Drogenhandel zu zerschlagen. Es ist bekannt, dass Hergé bei seiner Arbeit von einem jungen Studenten aus der Gesandtschaftsstadt Shanghai namens Zhang Chongren unterstützt wurde, der nach [BEL.GetName] kam, um bildende Kunst zu studieren. Das Fachwissen von Zhang führte zu einer eindrucksvollen und realistischen Darstellung der chinesischen Gesellschaft und trug wesentlich zum enormen Erfolg des Buches sowohl in Europa als auch in China bei. Das Buch kritisiert die Schwäche und Korruption der Qing-Regierung sowie die japanische Präsenz in der Mandschurei und ist daher in beiden Ländern verboten."
  bel.500.a: "So aufregend!"
 
-### Flags ###
-Small_Vlaamse_Wacht: "Hat die Rechte der Flämischen Wache nicht wiederhergestellt"
-Feldgendarmerie: "Die Feldgendarmerie hat das Recht erhalten, in Flandern-Wallonien zu operieren"
-Belgium_Guaranteed_Germ: "Der Vertrag von Arel wurde unterzeichnet"
-BEL_SYN_REV: "Der wallonische syndikalistische Aufstand hat stattgefunden"
-
 ### Country Names ###
  BEL: "Belgien"
  BEL_ADJ: "Belgisch"
  BEL_DEF: "Belgien"
 
 BEL_totalist: "Belgische Syndikalrepublik"
-BEL_totalist_ADJ: "Belgisch"
 BEL_totalist_DEF: "die Belgische Syndikalrepublik"
 BEL_syndicalist: "Belgische Syndikalrepublik"
-BEL_syndicalist_ADJ: "Belgisch"
 BEL_syndicalist_DEF: "die Belgische Syndikalrepublik"
 BEL_radical_socialist: "Belgische Syndikalrepublik"
-BEL_radical_socialist_ADJ: "Belgisch"
  BEL_radical_socialist_DEF: "die Belgische Syndikalrepublik"
 
  BEL_flanders_wallonia: "Flandern-Wallonien"
@@ -1935,13 +1726,10 @@ BEL_radical_socialist_ADJ: "Belgisch"
  BEL_flanders_wallonia_DEF: "Flandern-Wallonien"
 
  BEL_cooperative_totalist: "Kooperative Belgiens"
- BEL_cooperative_totalist_ADJ: "belgisch"
  BEL_cooperative_totalist_DEF: "die Kooperative Belgiens"
  BEL_cooperative_syndicalist: "Kooperative Belgiens"
- BEL_cooperative_syndicalist_ADJ: "belgisch"
  BEL_cooperative_syndicalist_DEF: "die Kooperative Belgiens"
  BEL_cooperative_radical_socialist: "Kooperative Belgiens"
- BEL_cooperative_radical_socialist_ADJ: "belgisch"
  BEL_cooperative_radical_socialist_DEF: "die Kooperative Belgiens"
 
 ### Characters ###

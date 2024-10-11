@@ -37,19 +37,15 @@ PAN_ADJ: "Panamaisch"
 PAN_DEF: "Panama"
 
 PAN_totalist: "Sozialistische Republik Panama"
-PAN_totalist_ADJ: "Panamaisch"
 PAN_totalist_DEF: "die Sozialistische Republik Panama"
 PAN_syndicalist: "Sozialistische Republik Panama"
-PAN_syndicalist_ADJ: "Panamaisch"
 PAN_syndicalist_DEF: "die Sozialistische Republik Panama"
 PAN_radical_socialist: "Sozialistische Republik Panama"
-PAN_radical_socialist_ADJ: "Panamaisch"
 PAN_radical_socialist_DEF: "die Sozialistische Republik Panama"
 
 ### Intro Screen ###
 PAN_country_intro_header: "Status von Panamá"
 PAN_country_intro_content: "Nach Vorwürfen der Korruption und der Unfähigkeit der Regierung, die wirtschaftliche Depression zu bewältigen, erhob sich 1931 die Öffentlichkeit, angeführt von der Acción Comunal, einer nationalistischen Bewegung, und ernannte Harmodio Arias Madrid und seine aus der Acción Comunal hervorgegangene Nationale Revolutionäre Partei (NRP) zum Führer der provisorischen Regierung.\n\nEin Jahr später wurden Wahlen abgehalten, aus denen die von Madrid geführte NRP leicht als Sieger hervorging. Die Madrider Regierung begann sofort, die Wirtschaft mit öffentlichen Arbeitsprogrammen anzukurbeln, um die wirtschaftlichen Bedingungen zu verbessern und Arbeitsplätze zu schaffen. Doch trotz der wirtschaftlichen Erholung hat die panamaische Wirtschaft immer noch zu kämpfen. Die nächsten Wahlen sind für April 1936 angesetzt, vier Jahre nach der ersten Wahl, und sowohl die Parteien als auch die Wähler haben die wirtschaftliche Erholung im Blick."
-panama.1.a: "Hoffen wir, dass die Erholung anhält."
 
 PAN_guide: "§MPartido Nacional Revolucionario§! (§gAutoritär Demokratisch§!)\n£white_dot Die Nationale Revolutionäre Partei soll die Wahlen von 1936 gewinnen.\n£white_dot Entscheiden Sie sich dafür, etwas Geld zu spenden, um die Loyalität der Polizei zu sichern, nachdem Sie den Schwerpunkt \"Sicherstellung der Loyalität der Nationalen Polizei\" abgeschlossen haben.\n\n§MPartido Nacional Liberal§! (§lSozialliberale§!)\n£white_dot Die Nationalliberale Partei soll die Wahlen von 1936 gewinnen.\n£white_dot Entscheiden Sie sich dafür, in der Frage des Status der Gewerkschaften nach Abschluss des Schwerpunkts \"Ermutigung der Gewerkschaften\" nichts zu sagen.\n\n§MKonservative Regierung§! (§mMarktliberale§! / §cSozialkonservative§!)\n£white_dot Die Nationalliberale Partei soll die Wahlen von 1936 gewinnen.\n£white_dot Entscheiden Sie sich dafür, regulierte Gewerkschaften zu fördern, nachdem Sie den Schwerpunkt \"Ermutigung der Gewerkschaften\" abgeschlossen haben, und verbieten Sie die Gewerkschaften in dem folgenden Ereignis.\n\n§MNationaler Polizeiputsch§! (§PPaternal Autokratisch§!)\n£white_dot Lassen Sie die Nationale Revolutionäre Partei die Wahlen von 1936 gewinnen und geben Sie kein Geld, um einen Staatsstreich durch die Polizei nach Abschluss des Schwerpunkts \"Sicherstellung der Loyalität der Nationalen Polizei\" zu gewährleisten.\n£white_dot Oder lassen Sie die Nationalliberale Partei die Wahlen von 1936 gewinnen und nach Abschluss des Schwerpunkts \"Ermutigung der Gewerkschaften\" unregulierte Gewerkschaften fördern und den politischen Widerstand in dem folgenden Ereignis unterdrücken.\n£white_dot Wenn die neue Verfassung freie Wahlen zulässt, wird sich eine Koalition bilden, die die Regierungsmacht erlangt, und es wird 1940 zu einer Sonderwahl zwischen ihr und der §PCPN§! kommen."
 
@@ -195,7 +191,6 @@ panama.29.c: "Löst die Koalition auf!"
 
 panama.30.t: "Panama setzt Coto unter Druck!"
 panama.30.d: "Die Panamaer haben einen kleinen militärischen Angriff auf die Region Coto gestartet, die sie schon seit langem für sich beanspruchen. Wenn wir nicht aufpassen, könnte dies zu einem groß angelegten Konflikt eskalieren. Glücklicherweise werden die USA dank der Monroe-Doktrin dem wahrscheinlich recht schnell ein Ende setzen."
-#We must prepare for war.:
 panama.30.a: "Diese Panamaniacs!"
 
 panama.31.t: "Panama setzt Costa Rica unter Druck"
@@ -299,7 +294,6 @@ PAN_liberal_panama_desc: "Unsere Wirtschaftsstrategien haben perfekt funktionier
 
 PAN_creating_export_goods: "Erstellen von Exportgütern"
 PAN_creating_export_goods_desc: "Die Herstellung von Exportgütern ist einer der todsicheren Wege, um die panamaische Wirtschaft zu sanieren. Es mag uns zunächst wirtschaftlich schaden, aber das Geld aus den Verkäufen kann in die Wirtschaft zurückfließen und wird unsere Produktivität massiv steigern."
-#PAN_capitalist_economics: "Kapitalistische Wirtschaft"
 PAN_curtailed_unions: "Eingeschränkte Gewerkschaften"
 PAN_new_conservative_government: "Neue konservative Regierung"
 PAN_new_conservative_government_desc: "Unsere neue Regierung ist gegründet worden und erfreut sich großer Beliebtheit; sie hat sogar die PNR angefochten."
@@ -394,7 +388,6 @@ PAN_profit: "Investitionen Gewinn"
 PAN_support_investments_tooltip: "Die Auswirkungen der Investitionen hängen von den Entscheidungen in den vorangegangenen Ereignissen und Schwerpunkten ab."
 PAN_PNL_Victory: "Die §lPNL§! ist derzeit nach den Wahlen von 1936 an der Macht."
 PAN_PNR_Victory: "Die §gPNR§! ist derzeit nach den Wahlen von 1936 an der Macht."
-PAN_foreign_ready_tooltip: "\n§CSchaltet die Entscheidungen über ausländische Investitionen frei§!"
 PAN_regulated_unions_tooltip: "§RDas könnte die Konservativen verärgern.§!"
 PAN_unregulated_unions_tooltip: "\n§RDies wird wahrscheinlich sowohl die Konservativen als auch die Nationale Polizei verärgern.§!"
 PAN_improved_roads_tooltip: "§CWenn wir diesen Schwerpunkt abschließen, während wir Eigentümer des Panamakanals sind, wird auch die Infrastruktur dort ausgebaut.§!"
@@ -636,17 +629,17 @@ PAN_a_common_ideology_desc: "Unsere Wirtschaft boomt, unsere Kompromisse sind er
 ### Decisions ###
 PAN_panama_canal_category: "Der Panamakanal"
 PAN_panama_canal_desc: "Der Panamakanal wird schon seit langem von den USA verwaltet. Jetzt können wir ihn endlich zu einem Teil von Panama machen."
-PAN_remove_monroe: "Verzicht auf die Monroe-Doktrin"
 PAN_seize_canal: "Beschlagnahmt den Kanal"
+PAN_remove_monroe: "Verzicht auf die Monroe-Doktrin"
+PAN_survive_invasion: "Kanadische Invasion bekämpfen"
+
 PAN_coto_category: "Die Coto Region"
 PAN_pressure_coto_36: "Druck auf die Costa Ricaner"
+
 PAN_foreign_category: "Ausländische Investitionen"
 PAN_investment_decision: "Erbittet [From.GetAdjective] Investitionen"
 PAN_entente_trade: "Zivile Investitionen der Entente"
 PAN_entente_trade_desc: "Lasst uns unseren neuen Handelspartner nutzen, um unseren schwächelnden zivilen Industriesektor zu stärken."
-PAN_survive_invasion: "Kanadische Invasion bekämpfen"
-
-#Flags
 
 ### Characters ###
 PAN_demetrio_augusto_porras_juarez: "Demetrio Augusto Porras Juárez"

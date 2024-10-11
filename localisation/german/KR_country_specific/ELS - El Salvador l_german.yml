@@ -32,10 +32,8 @@ ELS_national_populist_party_long: "Partido Nacional Pro-Patria (Nationale Partei
 ELS_national_populist_party: "PNPP"
 
 ##Modifiers##
-ELS_border_treaty_accepted: "Grenzvertrag angenommen"
-ELS_border_treaty_refused: "Grenzvertrag abgelehnt"
-ELS_accepted_trade_deal: "Handelsabkommen akzeptiert"
-ELS_refused_trade_deal: "Handelsabkommen abgelehnt"
+ELS_border_treaty_accepted: "Akzeptierte den Grenzvertrag"
+ELS_border_treaty_refused: "Lehnte den Grenzvertrag ab"
 
 ### Tooltips ###
 ELS_revolution_begins_flag: "§RDie salvadorianische Revolution von 1937 hat begonnen.§!"
@@ -51,7 +49,6 @@ ELS_national_democratic_victory_flag: "§YDie Nationaldemokratische Partei hat e
 ELS_labour_victory_flag: "§YDie Arbeiterpartei hat es geschafft, den Präsidentenposten zu behalten.§!"
 ELS_military_takeover_flag: "§YDie Armee hat San Salvador zurückerobert und gesichert!§!"
 ELS_revolution_over_flag: "§YDie Revolution muss vorbei sein.§!"
-ELS_conscription_flood_tooltip: "§RDas könnte uns beißen, sobald wir den Kriegszustand beenden.§!"
 
 ELS_will_upgrade_union: "Dadurch wird die gewählte Gewerkschaft aufgewertet, was die folgenden Auswirkungen hat:"
 
@@ -150,20 +147,14 @@ ELS_coffee_exportation_to_our_friends: "Kaffee-Importe"
 ELS_guerilla_warfare_knowledge: "Guerillakrieg"
 ELS_guerilla_warfare_knowledge_desc: "In Anbetracht der Region, in der wir leben, hat die Armee beschlossen, eine Guerillakriegsdoktrin zu verfolgen, um unter allen Bedingungen kämpfen zu können. Dies wird unsere defensiven Fähigkeiten und unsere Fähigkeit, unter schwierigen Bedingungen zu kämpfen, verbessern, aber Offensiven sehr viel schwieriger machen."
 
-ELS_guerilla_warfare_knowledge_2: "Guerillakrieg"
-ELS_guerilla_warfare_knowledge_2_desc: "In Anbetracht der Region, in der wir leben, hat die Armee beschlossen, eine Guerillakriegsdoktrin zu verfolgen, um unter allen Bedingungen kämpfen zu können. Dies wird unsere defensiven Fähigkeiten und unsere Fähigkeit, unter schwierigen Bedingungen zu kämpfen, verbessern, aber Offensiven sehr viel schwieriger machen."
-
 ELS_inspired_youth: "Inspirierte Jugend"
 ELS_inspired_youth_desc: "Unsere Bemühungen um den Guerillakrieg haben es dem einfachen Mann leichter gemacht, in die Armee einzutreten, und mehr Menschen inspiriert, sich und ihr Land gegen ausländische Bedrohungen zu verteidigen."
 
 ELS_inspired_youth_dangerous: "Einberufungs Flut"
-ELS_inspired_youth_dangerous_desc: "Die jüngste Bedrohung unserer Nation hat dazu geführt, dass immer mehr Menschen in die Armee strömen. Das wird uns zwar im Krieg zugute kommen, könnte uns aber schaden, sobald wir wieder in eine Zeit des Friedens eintreten."
+ELS_inspired_youth_dangerous_desc: "Die jüngste Bedrohung unserer Nation hat dazu geführt, dass immer mehr Menschen in die Armee strömen."
 
 ELS_professional_army_knowledge: "Eine professionelle Armee"
 ELS_professional_army_knowledge_desc: "Um uns auf den künftigen Kampf vorzubereiten, haben wir beschlossen, die chaotischen Kampfmethoden zugunsten einer besser organisierten Armee aufzugeben."
-
-ELS_professional_army_knowledge_2: "Eine professionelle Armee"
-ELS_professional_army_knowledge_2_desc: "Um uns auf den künftigen Kampf vorzubereiten, haben wir beschlossen, die chaotischen Kampfmethoden zugunsten einer besser organisierten Armee aufzugeben."
 
 ELS_military_academy_idea: "Generalkapitän Gerardo Barrios Militärschule"
 ELS_military_academy_idea_desc: "Immer mehr junge Menschen entscheiden sich für unsere beliebteste Militärschule, was zu mehr Innovation in der Arbeitsweise unserer Armee geführt hat."
@@ -178,12 +169,6 @@ ELS_air_production_idea_desc: "Mit den Beschränkungen, die Amerika unserer Luft
 ELS_new_guard1: "Die neue Garde"
 ELS_new_guard1_desc: "Während die alte Pro-Patria-Partei verkümmert, festigen die Streitkräfte ihren Einfluss auf das Land. Mit einer erneuerten Legitimität gegenüber den Pro-Patria-Despoten und einem etwas weicheren Ansatz in sozialen Fragen regiert Salinas unangefochten."
 
-ELS_new_guard2: "Die neue Garde"
-ELS_new_guard2_desc: "Während die alte Pro-Patria-Partei verkümmert, festigen die Streitkräfte ihren Einfluss auf das Land. Mit einer erneuerten Legitimität gegenüber den Pro-Patria-Despoten und einem etwas weicheren Ansatz in sozialen Fragen regiert Salinas unangefochten."
-
-ELS_new_guard3: "Die neue Garde"
-ELS_new_guard3_desc: "Während die alte Pro-Patria-Partei verkümmert, festigen die Streitkräfte ihren Einfluss auf das Land. Mit einer erneuerten Legitimität gegenüber den Pro-Patria-Despoten und einem etwas weicheren Ansatz in sozialen Fragen regiert Salinas unangefochten."
-
 ELS_new_guard4: "Republik neu ausgerufen"
 ELS_new_guard4_desc: "Um die Legitimität der Armee zu festigen, hat Salinas beschlossen, die ausgesetzte Republik erneut auszurufen und sich selbst zum Präsidenten von El Salvador zu erklären."
 
@@ -192,18 +177,6 @@ ELS_new_guard5_desc: "Als letzten Schritt, um seine Legitimität in den Augen de
 
 ELS_propatriaholds: "Pro Patria konsolidiert"
 ELS_propatriaholds_desc: "Die Pro Patria hat sich erneut gegen ihre Feinde durchgesetzt, und Martínez wird nun alles daran setzen, seine Macht zu festigen und seine Opposition ein für alle Mal zu zerschlagen."
-
-ELS_propatriaholds2: "Pro Patria konsolidiert"
-ELS_propatriaholds2_desc: "Die Pro Patria hat sich erneut gegen ihre Feinde durchgesetzt, und Martínez wird nun alles daran setzen, seine Macht zu festigen und seine Opposition ein für alle Mal zu zerschlagen."
-
-ELS_propatriaholds3: "Pro Patria konsolidiert"
-ELS_propatriaholds3_desc: "Die Pro Patria hat sich erneut gegen ihre Feinde durchgesetzt, und Martínez wird nun alles daran setzen, seine Macht zu festigen und seine Opposition ein für alle Mal zu zerschlagen."
-
-ELS_propatriaholds4: "Pro Patria konsolidiert"
-ELS_propatriaholds4_desc: "Die Pro Patria hat sich erneut gegen ihre Feinde durchgesetzt, und Martínez wird nun alles daran setzen, seine Macht zu festigen und seine Opposition ein für alle Mal zu zerschlagen."
-
-ELS_propatriaholds5: "Pro Patria konsolidiert"
-ELS_propatriaholds5_desc: "Die Pro Patria hat sich erneut gegen ihre Feinde durchgesetzt, und Martínez wird nun alles daran setzen, seine Macht zu festigen und seine Opposition ein für alle Mal zu zerschlagen."
 
 ELS_cleanse_gommies: "Sozialistische Niederschlagung"
 
@@ -222,9 +195,6 @@ ELS_militirazation2_right_desc: "Unser Militär ist jetzt für den totalen Krieg
 ELS_memories_32_part_2: "Erinnerungen an '32"
 ELS_memories_32_part_2_desc: "Das Massaker an den Sozialisten und der indigenen Bevölkerung im Westen El Salvadors hat in unserem Land Narben hinterlassen, denn an jeder Ecke lauern Verräter der sozialistischen Guerrilla. Als die USA zusammenbrachen, kochten diese Spannungen in einer neuen Rebellion über, und jetzt, da wir stärker sind als zuvor, müssen wir uns darauf konzentrieren, die Erinnerung an solche Ereignisse loszuwerden, wenn wir an der Macht bleiben wollen."
 
-ELS_memories_32_part_3: "Erinnerungen an '32"
-ELS_memories_32_part_3_desc: "Das Massaker an den Sozialisten und der indigenen Bevölkerung im Westen El Salvadors hat in unserem Land Narben hinterlassen, denn an jeder Ecke lauern Verräter der sozialistischen Guerrilla. Als die USA zusammenbrachen, kochten diese Spannungen in einer neuen Rebellion über, und jetzt, da wir stärker sind als zuvor, müssen wir uns darauf konzentrieren, die Erinnerung an solche Ereignisse loszuwerden, wenn wir an der Macht bleiben wollen."
-
 ELS_native_rights_for_all: "Rechte der Einheimischen erweitert"
 
 ELS_divided_no_more: "Nicht mehr geteilt"
@@ -239,7 +209,6 @@ ELS_military_purge: "Militär gesäubert"
 ELS_no_censorship: "Zensur abgeschafft"
 ELS_classless_society: "Klassenlose Gesellschaft"
 ELS_democratic_salvador: "Der Weg zur Demokratie"
-ELS_democratic_salvador2: "Der Weg zur Demokratie"
 ELS_democratic_salvador3right: "Mittelschicht etabliert"
 ELS_democratic_salvador3left: "Den Armen aufhelfen"
 ELS_remade_constitution: "Verfassung umgeschrieben"
@@ -251,7 +220,6 @@ ELS_a_military_reborn: "Ein wiedergeborenes Militär"
 ### Intro Screen ###
 ELS_country_intro_header: "Einführung in El Salvador"
 ELS_country_intro_content: "Der Staatsstreich von Maximiliano Hernández Martínez, der im Dezember 1931 als Vizepräsident gegen die Laborista-Partei und Arturo Araujo putschte, brachte sofortige Unruhe in das Land und beendete eine echte Wiederherstellung der Demokratie gleich zu Beginn. Der Grund für diesen Putsch war eine alarmierende Gehaltskürzung für das Militär zugunsten der Polizei, wodurch er eine geringe Unterstützung in der Bevölkerung erhielt. Mit seiner Politik der Unterdrückung jeglicher Opposition, der Militarisierung des Staates und dem Verbot aller anderen Parteien neben seiner Pro-Patria-Partei, an den Wahlen teilzunehmen, gelang es Martínez, seine Macht in El Salvador zu festigen.\n\nDas Bauernmassaker von 1932 begann, weil Maximiliano eine von Agustín Farabundo Martí und Feliciano Ama inspirierte Politik gegen die Ureinwohner im Westen verfolgte. Während dies zunächst keine Bedrohung darstellte, führte der Erfolg der nicaraguanischen Revolution unter Sandino dazu, dass sich mehr Menschen auf die Seite der Rebellen stellten. Zwar konnten sie immer noch keine Erfolge gegen das Militär erzielen, doch der Sieg Zapatas bei den mexikanischen Wahlen versorgte die Rebellen mit Waffen. Die Rebellion dauerte bis zum 22. Januar 1933, wobei 70 000 Menschen starben und die Rebellenführer Feliciano Ama und Agustín Farabundo Martí sich nach Mexiko zurückzogen.\n\nPartisanen sind in El Salvador keine Seltenheit mehr, denn Maximilianos Regime wird von einem großen Teil der Bevölkerung gehasst. Darüber hinaus hat Maximilianos Art, mit der Rebellion umzugehen, dazu geführt, dass illoyale Teile des Militärs aufgetaucht sind und Maximilianos Regime von den Amerikanern an der kurzen Leine gehalten wird."
-els.1.a: "Maximiliano wird die von ihm verursachten Verluste wiedergutmachen."
 
 ELS_guide: "§MNeue Garde§! (§PPaternal Autokratisch§!)\n£white_dot Schicken Sie die Armee in dem Ereignis \"Verlegung der Armee\"\n£white_dot Haltet Salinas in dem Ereignis \"Die Konfrontation\" nicht in Sicherheit\n\n§MPro Patria Holds On§! (§NNationalpopulisten§!)\n£white_dot Schicken Sie nicht die Armee in dem Ereignis \"Verlegung der Armee\"\n£white_dot Unterstützen Sie die Anti-Partisanen-Truppe bei dem Ereignis \"Schlägereien auf der Straße\"\n\n§MDer syndikalistische Traum§! (§rSyndikalisten§!)\n£white_dot Gewinnen Sie den Bürgerkrieg als Revolutionäre.\n£white_dot Schicken Sie nicht die Armee in dem Ereignis \"Verlegung der Armee\"\n£white_dot Unterstützen Sie die Hauptstreitkräfte bei dem Ereignis \"Schlägereien auf der Straße\"\n£white_dot Entscheiden Sie sich, die Präsidentschaft nicht wiederherzustellen\n£white_dot Sie können sich auch dafür entscheiden, die Präsidentschaft wiederherzustellen und dann die Syndikalen zu wählen (siehe unten)\n\n§MPartido Laborista / Partido Nacional Democratico§! (§SSozialdemokraten §!/ §lSozialliberal §!)\n£white_dot Gewinnen Sie den Bürgerkrieg als Revolutionäre und stellen Sie die Präsidentschaft wieder her (siehe oben)\n£white_dot Konfrontieren Sie das Militär bei dem Ereignis \"Konfrontation mit dem Militär\"\n£white_dot Nehmen Sie den Schwerpunkt \"Ruf nach Vorgezogenen Neuwahlen\" und wählen Sie die gewünschte Partei, die gewinnen soll\n\n§MMilitärische Übernahme§! (§gAutoritär Demokratisch§!)\n£white_dot Gewinnen Sie den Bürgerkrieg als Revolutionäre und stellen Sie die Präsidentschaft wieder her (siehe oben)\n£white_dot Lehnen Sie den Antrag in dem Ereignis \"Konfrontation mit dem Militär\" ab\n£white_dot Wählen Sie den Schwerpunkt \"Ruf nach Vorgezogenen Neuwahlen\""
 

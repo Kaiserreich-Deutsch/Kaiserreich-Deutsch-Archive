@@ -105,6 +105,18 @@ GAL_national_populist: "Galizien und Lodomerien"
 GAL_national_populist_ADJ: "Galizisch"
 GAL_national_populist_DEF: "Galizien und Lodomerien"
 
+GAL_west_galicia: "Westgalizien"
+GAL_west_galicia_ADJ: "Galizisch"
+GAL_west_galicia_DEF: "Westgalizien"
+
+GAL_east_galicia: "Ostgalizien"
+GAL_east_galicia_ADJ: "Galizisch"
+GAL_east_galicia_DEF: "Ostgalizien"
+
+GAL_bucovina: "Bukowina"
+GAL_bucovina_ADJ: "Bukowinisch"
+GAL_bucovina_DEF: "Bukowina"
+
 ### Characters ###
 GAL_stanislaw_szeptycki: "Stanisław Szeptycki"
 GAL_franciszek_kleeberg: "Franciszek Kleeberg"

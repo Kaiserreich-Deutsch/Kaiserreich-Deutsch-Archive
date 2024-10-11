@@ -32,6 +32,27 @@ HND_india_syndicalist_DEF: "die Bharatiya Kommune"
 HND_india_radical_socialist: "Bharatiya Kommune"
 HND_india_radical_socialist_ADJ: "Bharatiya"
 HND_india_radical_socialist_DEF: "die Bharatiya Kommune"
+HND_india_social_democrat: "Republik Indien"
+HND_india_social_democrat_ADJ: "Indisch"
+HND_india_social_democrat_DEF: "die Republik Indien"
+HND_india_social_liberal: "Republik Indien"
+HND_india_social_liberal_ADJ: "Indisch"
+HND_india_social_liberal_DEF: "die Republik Indien"
+HND_india_market_liberal: "Republik Indien"
+HND_india_market_liberal_ADJ: "Indisch"
+HND_india_market_liberal_DEF: "die Republik Indien"
+HND_india_social_conservative:  "Republik Indien"
+HND_india_social_conservative_ADJ: "Indisch"
+HND_india_social_conservative_DEF: "die Republik Indien"
+HND_india_authoritarian_democrat:  "Republik Indien"
+HND_india_authoritarian_democrat_ADJ: "Indisch"
+HND_india_authoritarian_democrat_DEF: "die Republik Indien"
+HND_india_paternal_autocrat: "Republik Indien"
+HND_india_paternal_autocrat_ADJ: "Indisch"
+HND_india_paternal_autocrat_DEF: "die Republik Indien"
+HND_india_national_populist:  "Republik Indien"
+HND_india_national_populist_ADJ: "Indisch"
+HND_india_national_populist_DEF: "die Republik Indien"
 
 HND_TOT: "Maximistische Revolte"
 HND_TOT_ADJ: "Maximistisch"
@@ -98,9 +119,6 @@ HND_army_focus: "Herrschaft über den Boden"
 HND_air_focus: "Herrschaft über den Himmel"
 HND_navy_focus: "Herrschaft über das Meer"
 
-### Opinion Modifiers ###
-HND_approves_government: "Befürwortet die neue Regierung"
-
 ### Traits ###
 HND_the_mahatma: "Mahatma"
 
@@ -143,11 +161,11 @@ HND_market_liberal_party: "Justice Party"
 HND_social_conservative_party: "INC (Rechts)"
 HND_social_conservative_party_long: "Indian National Congress (Rechts)"
 
-HND_authoritarian_democrat_party: "Nationale Freiwillige"
-HND_authoritarian_democrat_party_long: "Rashtriya Swayamsevak Sangh"
+HND_authoritarian_democrat_party: "RSS"
+HND_authoritarian_democrat_party_long: "Rashtriya Swayamsevak Sangh  (Nationale Freiwilligenorganisation)"
 
-HND_paternal_autocrat_party: "Nationale Freiwillige"
-HND_paternal_autocrat_party_long: "Rashtriya Swayamsevak Sangh"
+HND_paternal_autocrat_party: "RSS"
+HND_paternal_autocrat_party_long: "Rashtriya Swayamsevak Sangh  (Nationale Freiwilligenorganisation)"
 
 HND_national_populist_party: "Hindu Mahasabha"
 HND_national_populist_party_long: "Akhil Bharat Hindu Mahasabha"
@@ -347,7 +365,7 @@ HND_integrate_deccan_desc: "Die südlichen Fürstentümer waren politisch immer 
 ### Intro Screen ###
 HND_country_intro_header: "Lala Lajpat Rai und die Regierung von Kalkutta"
 HND_country_intro_content: "Lala Lajpat Rai, Präsident des Indischen Nationalkongresses und Chef der Regierung in Kalkutta, spürt die Belastung seines fortgeschrittenen Alters immer deutlicher. Angesichts der Tatsache, dass die britischen Schoßhunde in Lahore wieder zu ernsthaften Anwärtern auf die Rechtsnachfolge des Raj geworden sind und die burmesische Monarchie durch Studentenproteste und Streiks in Aufruhr geraten ist, ist Rai zu dem Schluss gekommen, dass die Regierung des freien Indiens neu ausgestattet und reorganisiert werden muss, wenn wir mit der Entwicklung unserer benachbarten Rivalen mithalten wollen - und so hat er beschlossen, noch in diesem Jahr von seinem Amt zurückzutreten. Der Rücktritt von Rai bedeutet ein mögliches Ende der Kompromissregierung, die nach dem indischen Bürgerkrieg entstanden war. Sowohl Gandhis Agrarier als auch Subhas Chandra Boses Maximisten sehnten sich nach definitivem Einfluss innerhalb des Kongresses und der Regierung in Kalkutta insgesamt."
-beng.1.a: "Ich muss sagen, das ist furchtbar aufregend!"
+
 HND_guide: "§MNovember-Wahl§!\n§MAgrarier§! (§RRadikale Sozialisten§!)\n£white_dot Wählen Sie nach der Sondersitzung des Indischen Nationalkongresses die Optionen aus, die den radikalen Sozialisten bei den folgenden Ereignissen Zuspruch geben, und die Agrarier werden bei den Wahlen siegreich sein.\n\n§MModerate§! (§rSyndikalisten§!)\n£white_dot Wählen Sie nach der Sondersitzung des Indischen Nationalkongresses die Optionen aus, die den Syndikalisten bei den folgenden Ereignissen Zuspruch geben, und die Moderaten werden bei den Wahlen siegreich sein.\n\n§MMaximisten§! (§oTotalisten§!)\n£white_dot Wählen Sie nach der Sondersitzung des Indischen Nationalkongresses die Optionen aus, die den Totalisten bei den folgenden Ereignissen Zuspruch geben, und die Maximisten werden bei den Wahlen siegreich sein.\n\n§MWahlen nach der Wiedervereinigung§!\n§CAnmerkung: Kommt es zu einem Aufstand der Agrarier oder Totalisten, können Sie diese Parteien in der Wahl nicht mehr wählen.§!\n§MMaximisten§! (§oTotalisten§!)\n£white_dot Wählen Sie die oberste Option in allen Ereignissen nach Abschluss des Schwerpunkts \"Einberufung einer INC-Sitzung\".\n\n§MAgrarier§! (§RRadikale Sozialisten§!)\n£white_dot Wählen Sie die zweite Option in allen Ereignissen nach Abschluss des Schwerpunkts \"Einberufung einer INC-Sitzung\".\n\n§MModerate§! (§rSyndikalisten§!)\n£white_dot Wählen Sie die dritte Option in allen Ereignissen nach Abschluss des Schwerpunkts \"Einberufung einer INC-Sitzung\".\n\n§MModerate / Young India§! (§rSyndikalisten§!)\n£white_dot Wählen Sie die unterste Option in allen Ereignissen nach Abschluss des Schwerpunkts \"Einberufung einer INC-Sitzung\".\n\n§MAußenpolitik§!\n§MIsolation§!\n£white_dot Nach Abschluss des Schwerpunkts \"Der Platz des Roten Raj\" beschließen Sie, Indien in herrlicher Isolation wiederaufzubauen.\n§MInternationale§!\n£white_dot Nach Abschluss des Schwerpunkts \"Der Platz des Roten Raj\" entscheiden Sie sich für den Beitritt zur Dritten Internationale.\n§MÖstliche Syndikalistische Union§!\n£white_dot Nach Abschluss des Schwerpunkts \"Der Platz des Roten Raj\" beschließen Sie, unsere eigene Fraktion zu gründen, die Östliche Syndikalistische Union."
 
 ### Events ###
@@ -915,6 +933,7 @@ HND_amrit_kaur: "Amrit Kaur"
 HND_bhogaraju_pattabhi_sitaramayya: "Bhogaraju Pattabhi Sitaramayya"
 HND_mahadev_desai: "Mahadev Desai"
 HND_subbier_appadurai_ayer: "Subbier Appadurai Ayer"
+HND_manabendra_nath_roy: "Manabendra Nath Roy"
 
 HND_kodandera_madappa_cariappa: "Kodandera Madappa Cariappa"
 HND_rash_behari_bose: "Rash Behari Bose"

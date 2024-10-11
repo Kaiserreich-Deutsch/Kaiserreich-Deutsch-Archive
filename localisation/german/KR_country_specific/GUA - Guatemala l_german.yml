@@ -34,7 +34,7 @@ GUA_socialist_compensation_2: "Sozialistische Entschädigung"
 GUA_socialist_compensation_2_desc: "Die Sozialisten in Guatemala protestieren seit den Werft- und Eisenbahnstreiks mit mexikanischen Geldern, was dazu führte, dass die Regierung gezwungen war, die Sozialisten mit leeren Reformen und Änderungen zu entschädigen."
 
 GUA_united_fruit: "United Fruit Company"
-GUA_united_fruit_desc: "Seit der Diktatur Cabreras im Jahr 1898 hat die United Fruit Company die Politik und Wirtschaft Guatemalas fest im Griff. Obwohl Guatemala infolgedessen eine bedeutende wirtschaftliche Entwicklung erfahren hat, hält die United Fruit Company das Schicksal Guatemalas in der Schwebe. Sie kontrolliert derzeit §Y[?UFC_power]%§! von unserem Land.\n§LDies hat folgende Auswirkungen:\n$MODIFIER_POLITICAL_POWER_GAIN$: [?UFC_effect11|+=]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?UFC_effect12|+=%]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?UFC_effect13|H=%1]\n$MODIFIER_WAR_SUPPORT_FACTOR$: [?UFC_effect14|+=%]"
+GUA_united_fruit_desc: "Seit der Diktatur Cabreras im Jahr 1898 hat die United Fruit Company die Politik und Wirtschaft Guatemalas fest im Griff. Obwohl Guatemala infolgedessen eine bedeutende wirtschaftliche Entwicklung erfahren hat, hält die United Fruit Company das Schicksal Guatemalas in der Schwebe. Sie kontrolliert derzeit §Y[?UFC_power]%§! von unserem Land.\n§W-----------------§!\n§WDies hat folgende Auswirkungen:\n$MODIFIER_POLITICAL_POWER_GAIN$: [?UFC_effect11|+=]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?UFC_effect12|+=%]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?UFC_effect13|H=%1]\n$MODIFIER_WAR_SUPPORT_FACTOR$: [?UFC_effect14|+=%]"
 
 CEN_united_fruit_land: "United Fruit Company"
 

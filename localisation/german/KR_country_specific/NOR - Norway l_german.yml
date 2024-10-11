@@ -3,7 +3,6 @@
  norway_focus: "Schwerpunktbaum Norwegen"
 
 ### Opinion Modifiers ###
-
  NOR_established_relations: "Etablierte diplomatische Beziehungen"
  NOR_CAN_ties: "Englisch-Norwegische Beziehungen"
  NOR_anglo_norwegian_cooperation: "Englisch-Norwegische Zusammenarbeit"
@@ -101,11 +100,6 @@
  NOR_organisation_xu_idea: "XU"
  NOR_neutrality_idea: "Norwegische Bewaffnete Neutralität"
  NOR_canadian_mission_idea: "Kanadische Militärmission"
- NOR_nordic_council: "Nordischer Rat"
- NOR_common_mil_purchases: "Defence Acquisition Board"
- NOR_passport_union_idea: "Nordisches Passübereinkommen"
- NOR_monetary_union_idea: "Skandinavische Währungsunion"
- NOR_custom_union_idea: "Nordischer Binnenmarkt"
  NOR_rikshird_army: "Die Vorherrschaft der Hirds"
  NOR_statspolitiet_idea: "Staatspolizei"
  NOR_ns_arbeidstjeneste_idea: "NS-Arbeitsdienst"
@@ -124,6 +118,12 @@
  NOR_NBC_desc: "Die Norwegische Rundfunkgesellschaft soll, ähnlich wie ihr kanadisches Pendant, sicherstellen, dass den Bürgern unseres Landes gesunde und ausgewogene Radioprogramme geboten werden. Obwohl Syndikalismus und andere subversive Materialien verboten sind..."
  NOR_aid_to_norway: "Hilfe für Norwegen"
  NOR_aid_to_norway_desc: "Wir leisten derzeit industrielle Hilfe für unsere norwegischen Brüder."
+
+### Decisions ###
+ NOR_norsk_jernverk_mining_steel: "Gründung der Norsk Jernverk Company"
+ NOR_norsk_jernverk_mining_steel_desc: "Skandinavien verfügt über die Ressourcen und das technologische Wissen, um sich bei Eisen und Stahl selbst zu versorgen. Warum sollten wir also unsere begrenzte harte Währung dafür ausgeben, solche grundlegenden Ressourcen anderswo zu erwerben? Lassen Sie uns Nordnorwegen stärken und unseren eigenen Stahl produzieren, indem wir ein Unternehmen gründen, das sich diesem Zweck widmet."
+ NOR_aluminium_industry_mining: "Gründung der Norsk Aluminium Company"
+ NOR_aluminium_industry_mining_desc: "Aufgrund des Überflusses an billiger Wasserkraft ist Norwegen einer der weltweit führenden Aluminiumproduzenten, wobei die Norsk Aluminium Company einer der größeren Produzenten des Landes ist. Da Aluminium für die Herstellung moderner Militärflugzeuge von entscheidender Bedeutung ist, wären wir gut beraten, unsere Produktion zu steigern, sowohl für den Eigenbedarf als auch für den Export."
 
 ### Focuses ###
  NOR_fund_nth: "NTH finanzieren"
@@ -224,8 +224,6 @@
 
  NOR_SYN_working_norway_victorious: "Sieg der Arbeiter"
  NOR_SYN_working_norway_victorious_desc: "Es war ein langer und mühsamer Weg, der 1928 schon einmal fast erreicht war, aber nun ist es endlich soweit: Das Proletariat hat endlich die ihm zustehende Kontrolle über Norwegen erlangt, und zwar durch das bürgerliche System. Ein neues Norwegen bricht an, eines, das für alle Norweger ist, nicht nur für die Reichen!"
- NOR_SYN_nationalise_economy: "Verstaatlichung der Wirtschaft"
- NOR_SYN_nationalise_economy_desc: "Wir sollten die Macht der Kapitalisten einschränken, die zweifelsohne planen, unser neues Regime zu zerstören, was leicht möglich ist, indem wir ihnen die lebenswichtigen Industrien, die Norwegen am Laufen halten, entziehen, um sie später den Menschen zu geben, die sie betreiben."
  NOR_SYN_forced_haakon_removal: "Haakons Abdankung erzwingen"
  NOR_SYN_forced_haakon_removal_desc: "Haakon, oder Prinz Carl von Dänemark, wie er eigentlich heißt, hat Norwegen gut getan, soweit das bei dieser versnobten Klasse der Adligen möglich ist. Die Monarchie ist jedoch eine überholte Institution, die wir Norweger 1905 unter dem Zwang des Ancien Régime akzeptieren mussten und die mit dem syndikalistischen Gedankengut unvereinbar ist. Er muss verschwinden."
  NOR_SYN_declare_martial_law: "Kriegsrecht ausrufen"
@@ -324,8 +322,6 @@
  NOR_DEM_join_entente_desc: "Als anglophile demokratische Nation ist es in unserem besten Interesse, zur Entente beizutreten. Die engen familiären Bindungen zwischen Haakon VII. und [CAN_king_full_name] verstärken dieses Argument nur. Wir werden daher versuchen, mit Kanada zu den Waffen zu greifen."
  NOR_DEM_canadian_investments: "Nordatlantische Investitionen"
  NOR_DEM_canadian_investments_desc: "Der Nordatlantik ist für uns ein natürliches Entwicklungsgebiet. Daher werden wir uns um kanadische Investitionen in unsere Wirtschaft bemühen."
- NOR_DEM_join_isac: "Beitritt zur ISAC"
- NOR_DEM_join_isac_desc: "Die ISAC koordiniert die technologische Forschung und Entwicklung zwischen den Mitgliedern der Entente. Davon sollten natürlich auch wir profitieren."
  NOR_DEM_military_mission: "Mission in Montreal"
  NOR_DEM_military_mission_desc: "Die norwegische Armee hat in Bezug auf die moderne Kriegsführung noch viel zu lernen. Die Regierung hat daher beschlossen, eine Militärmission nach Kanada zu entsenden, um die neuesten Entwicklungen zu studieren und von ihren kanadischen Kollegen zu lernen."
  NOR_DEM_little_norway: "Klein Norwegen"
@@ -363,8 +359,6 @@
  NOR_NAT_sweden_demand_desc: "Die Zeit zum Handeln ist gekommen. Lassen Sie uns ein Ultimatum stellen, in dem wir die Rückgabe unserer ehemaligen Gebiete fordern."
  NOR_NAT_greater_norway: "Proklamation von Groß Norwegen"
  NOR_NAT_greater_norway_desc: "Wir haben große Teile unseres verlorenen Gebiets zurückerobert. Daher können wir unseren Sieg verkünden und unsere neuen Länder ordnungsgemäß integrieren."
- NOR_NAT_alliance: "Auslandsbeziehungen stärken"
- NOR_NAT_alliance_desc: "In der Welt gibt es viele Nationen mit einer ähnlichen Weltsicht wie die unsere. Lassen Sie uns die Hand ausstrecken und versuchen, gute Beziehungen zu potenziellen Verbündeten aufzubauen."
 
 ### Bookmark ###
  NOR_KR_gathering_storm_desc: "Für Norwegen hätten die letzten beiden Jahrzehnte besser verlaufen können. Als neutrales Land, das die britischen Kriegsanstrengungen unterstützte, war die Hegemonialmacht Deutschland dem Land der Mitternachtssonne nicht wohlgesonnen, und die Nation wurde von dem Mitteleuropa-Projekt ausgeschlossen, zu dem auch Schweden und Dänemark gehörten. Als Großbritannien mit Hammer und Fackel fiel, war der letzte Handelspartner Norwegens, der nicht mit hohen Zöllen belegt war, einen Ozean entfernt. Seitdem befindet sich Norwegen in diplomatischer und wirtschaftlicher Isolation, und in dem Leid, das dies mit sich bringt, steigt die syndikalistisch orientierte Arbeiterpartei in den Umfragen immer weiter nach oben."
@@ -395,7 +389,7 @@
  norway.5.a: "Offenbar war die Idee doch lächerlich..."
 
  norway.6.t: "Ende der NKP"
- norway.6.d: "Heute hat sich die NKP, die Kommunistische Partei Norwegens, selbst aufgelöst. Da es der Partei nicht gelungen war, aus der gegenwärtigen Wirtschaftskrise Kapital zu schlagen, beschloss sie, sich aufzulösen und ihre Mitglieder in die neu gegründete Nationalsyndikalistische Partei Norwegens aufzunehmen. Auf der Grundlage der neuen Lehre von Politikern wie Benito Mussolini und Oswald Mosley, die im Volksmund als "Totalismus" bezeichnet wird, hofft die Partei, größere Ziele zu erreichen, als es der Kommunismus je vermochte."
+ norway.6.d: "Heute hat sich die NKP, die Kommunistische Partei Norwegens, selbst aufgelöst. Da es der Partei nicht gelungen war, aus der gegenwärtigen Wirtschaftskrise Kapital zu schlagen, beschloss sie, sich aufzulösen und ihre Mitglieder in die neu gegründete Nationalsyndikalistische Partei Norwegens aufzunehmen. Auf der Grundlage der neuen Lehre von Politikern wie Benito Mussolini und Oswald Mosley, die im Volksmund als \"Totalismus\" bezeichnet wird, hofft die Partei, größere Ziele zu erreichen, als es der Kommunismus je vermochte."
  norway.6.a: "Noch eine weitere Partei der Linken?"
 
  norway.7.t: "Proteste gegen Zwangsversteigerungen von Bauernhöfen"
@@ -477,12 +471,10 @@
  norway.29.d: "Vidkun Quisling hat eine nationale Regierung gebildet, um die syndikalistische Bedrohung zu bekämpfen. Heute hat das Parlament ein Gesetz verabschiedet, das Quisling die Befugnis gibt, Gesetze zu erlassen, bevor er das Parlament auf unbestimmte Zeit suspendiert. Es besteht kein Zweifel, dass in Norwegen ein neues Zeitalter angebrochen ist. Auch der König ist nach Kanada geflohen."
  norway.29.a: "Ordnung und Recht."
 
- norway.30.t: "Parlamentswahlen 1939"
+ norway.30.t: "Parlamentswahlen [GetYear]"
  norway.30.d: "Heute wählt das norwegische Volk ein neues Parlament. Die Wahl ist hart umkämpft und wird über den Kurs Norwegens in nächster Zukunft entscheiden."
  norway.30.a: "Die Sozialdemokraten und die Liberalen erlangen die Mehrheit."
  norway.30.b: "Die Konservativen und die Bauernpartei bilden eine Koalition."
-
- norway.33.t: "Stortingsvalget (Parlamentswahlen) [GetYear]"
 
  norway.100.t: "Der Oslo-Analysator"
  norway.100.d: "Der Wissenschaftler Svein Rosseland hat vor kurzem den Bau eines großen mechanischen Computers, des Oslo-Analysators, vorgeschlagen. Mit staatlicher Unterstützung hat er nun die theoretischen Teile des Projekts abgeschlossen. Sein Team wird nun versuchen, dieses technische Wunderwerk zu bauen. Wenn dies gelingt, dürfte der Computer unsere Forschungsmöglichkeiten erheblich erweitern."
@@ -518,19 +510,19 @@
  norway.118.d: "Die zweite Frage betrifft die Unabhängigkeit der Justiz."
  norway.118.a: "Ein unabhängiges Justizwesen."
  norway.118.b: "Behalten Sie die Gerichte unter politischer Kontrolle."
- norway.118.c: "Ein unabhängiges Justizwesen."
- norway.118.e: "Behalten Sie die Gerichte unter politischer Kontrolle."
+ norway.118.c: "$norway.118.a$"
+ norway.118.e: "$norway.118.b$"
 
  norway.119.t: "Tag 3. Gewerkschaften bei den Streitkräften"
  norway.119.d: "Die dritte Frage betrifft die Kontrolle über unser Militär. Sollen wir spezielle Gewerkschaften für unsere Soldaten schaffen oder ist ein traditionellerer Ansatz besser?"
  norway.119.a: "Schaffung von Militärgewerkschaften."
  norway.119.b: "Behalten Sie die Streitkräfte unter zentraler Kontrolle."
- norway.119.c: "Schaffung von Militärgewerkschaften."
- norway.119.e: "Behalten Sie die Streitkräfte unter zentraler Kontrolle."
- norway.119.f: "Schaffung von Militärgewerkschaften."
- norway.119.g: "Behalten Sie die Streitkräfte unter zentraler Kontrolle."
- norway.119.h: "Schaffung von Militärgewerkschaften."
- norway.119.i: "Behalten Sie die Streitkräfte unter zentraler Kontrolle."
+ norway.119.c: "$norway.119.a$"
+ norway.119.e: "$norway.119.b$"
+ norway.119.f: "$norway.119.a$"
+ norway.119.g: "$norway.119.b$"
+ norway.119.h: "$norway.119.a$"
+ norway.119.i: "$norway.119.b$"
 
  norway.120.t: "Das Konvent ist beendet"
  norway.120.d: "Da der Konvent beendet ist, können wir endlich eine Verfassung feiern, die allen norwegischen Arbeitnehmern wirklich Freiheit und Wohlstand bringen wird."
@@ -541,16 +533,16 @@
  norway.121.a: "Industrielle Hilfe leisten."
  norway.121.b: "Wir können nichts entbehren..."
 
- norway.122.t: "Die französische Kommune hat unserem Antrag stattgegeben"
- norway.122.d: "Die französische Kommune hat beschlossen, unserem Antrag stattzugeben. Sie werden sofort mit den Arbeiten beginnen."
+ norway.122.t: "[From.GetNameDefCap] hat unserem Antrag stattgegeben"
+ norway.122.d: "[From.GetNameDefCap] hat beschlossen, unserem Antrag stattzugeben. Sie werden sofort mit den Arbeiten beginnen."
  norway.122.a: "Großartig!"
 
  norway.123.t: "Hilfe aus dem Phalanstere ist eingetroffen"
  norway.123.d: "Die industrielle Hilfe aus Frankreich ist endlich da."
  norway.123.a: "Tausend Dank an unsere französischen Freunde!"
 
- norway.124.t: "Die französische Kommune hat unseren Antrag abgelehnt"
- norway.124.d: "Es scheint, dass die französische Kommune beschlossen hat, den Antrag auf Hilfe abzulehnen."
+ norway.124.t: "[From.GetNameDefCap] hat unseren Antrag abgelehnt"
+ norway.124.d: "Es scheint, dass [From.GetNameDef] beschlossen hat, unsere Anfrage abzulehnen."
  norway.124.a: "Schade eigentlich..."
 
  norway.125.t: "Norwegen sucht Militärhilfe"
@@ -559,13 +551,7 @@
  norway.125.a: "Senden Sie Freiwillige und überschüssige Waffen."
  norway.125.b: "Wir können nichts entbehren..."
 
- norway.126.t: "[From.GetName] hat unserer Anfrage stattgegeben"
- norway.126.d: "[From.GetName] hat unserer Anfrage stattgegeben. Sie werden uns Waffen und Freiwillige schicken, die uns in unserem Kampf unterstützen."
- norway.126.a: "Großartig!"
-
- norway.127.t: "[From.GetNameDefCap] hat unsere Anfrage abgelehnt"
- norway.127.d: "Leider scheint unser Antrag abgelehnt worden zu sein."
- norway.127.a: "Schade eigentlich..."
+ norway.126.d: "[From.GetNameDefCap] hat unserer Anfrage stattgegeben. Sie werden uns Waffen und Freiwillige schicken, die uns in unserem Kampf unterstützen."
 
  norway.128.t: "Norwegen unterstützt die schwedischen Gewerkschaften"
  norway.128.d: "Die syndikalistische Regierung Norwegens hat vor kurzem damit begonnen, die schwedischen Gewerkschaften mit Geldern, Beratern und - was besonders beunruhigend ist - mit Waffen zu unterstützen. Die Arbeiterunruhen haben zugenommen, und die Syndikalisten scheinen an Selbstvertrauen zu gewinnen."
@@ -576,7 +562,6 @@
  norway.129.d: "Um unser Militär zu verbessern und die defensive Einstellung unserer Soldaten zu ändern, wird die norwegische Armee groß angelegte Manöver an der schwedischen Grenze durchführen."
  norway.129.a: "Wir werden auf die Schweden vorbereitet sein."
 
- norway.130.t: "Kriegsspiele im Grenzgebiet"
  norway.130.d: "Die norwegischen Syndikalisten haben ihre Armee an unserer Grenze zusammengezogen und in den letzten Tagen Kriegsspiele durchgeführt. Auch wenn eine Aggression bereits stattgefunden hätte, kann der Zweck der Übungen nicht verfehlt werden. Das Kabinett ist sich uneins über unsere Antwort. Einige wollen ein Ultimatum stellen, um die Norweger zum Einlenken zu zwingen, während andere vorschlagen, eigene Übungen abzuhalten."
  norway.130.a: "Droht ihnen mit Krieg!"
  norway.130.b: "Eigene Übungen durchführen."
@@ -599,82 +584,23 @@
  norway.134.d: "Our wargames have proved to be a complete success. Our men have come to accept the necessity of liberating our Swedish brothers and army morale is at an all-time high."
  norway.134.a: "Großartig!"
 
- norway.138.t: "Die Gründung des Komando Linge"
- norway.138.d: "Martin Linge hat seine Bande von Patrioten versammelt und die Grenze nach Schweden überquert. Wir hoffen, dass es ihnen gelingen wird, wichtige Industrien zu sabotieren und zu zerstören."
- norway.138.a: "Lasst uns Schweden in Flammen setzen."
-
  norway.139.t: "Komando Linge in Sweden"
  norway.139.d: "Eine Bande von Saboteuren und Terroristen ist seit kurzem in Schweden aktiv. 'Komando Linge', benannt nach einem obskuren ehemaligen Schauspieler, hat bereits mehrere Eisenbahnlinien und Munitionsdepots in die Luft gesprengt."
  norway.139.a: "Man wird sich um sie kümmern müssen..."
  norway.139.b: "Das ist genug!"
 
- norway.140.t: "Komando Linge hat eine Brücke gesprengt!"
- norway.140.d: "Gestern Abend wurde eine Brücke von Komando Linge gesprengt. Zum Glück wurde niemand verletzt, aber das wird unsere Versorgungslage in dem Gebiet für einige Zeit beeinträchtigen."
- norway.140.a: "Verdammte Saboteure!"
-
- norway.141.t: "Komando Linge hat eine Waffenfabrik zerbombt!"
- norway.141.d: "Heute Morgen ist es dem Komando Linge gelungen, eine Waffenfabrik zu zerstören. Es scheint, dass einige Syndikalisten ihnen geholfen haben, den Sprengstoff einzuschmuggeln und ihn in der Nähe eines Korditlagers anzubringen. Der Schaden ist zwar reparabel, aber die Anlage wird für einige Wochen außer Betrieb sein."
- norway.141.a: "Verdammte Saboteure!"
-
- norway.142.t: "Das Ende von Komando Linge"
- norway.142.d: "Wie auch immer, die veränderte politische Lage bedeutet, dass Martin Linge und seine Saboteure die schwedische Infrastruktur nicht mehr gefährden oder zerstören werden."
- norway.142.a: "Wurde auch Zeit."
-
- norway.143.t: "Norwegen möchte unserem Bündnis beitreten"
+ norway.143.t: "Norwegen versucht, der [ROOT.GetFactionName] beizutreten"
  norway.143.d: "Norwegen, dessen neue sozialistische Regierung sich fest etabliert hat, hat darum gebeten, unserem Bündnis beizutreten."
- norway.143.a: "Ja."
- norway.143.b: "Nein."
+ norway.143.a: "Ja, sie sind ein wertvoller Verbündeter."
+ norway.143.b: "Nein, sie würden nur eine Last sein."
 
- norway.144.t: "Frankreich hat unsere Anfrage akzeptiert"
- norway.144.d: "Die französische Kommune hat beschlossen, uns in ihr Militärbündnis aufzunehmen."
- norway.144.a: "Gut."
+ norway.144.t: "[FROM.GetNameDefCap] hat unsere Anfrage akzeptiert"
+ norway.144.d: "[FROM.GetNameDefCap] hat beschlossen, uns in ihr Militärbündnis aufzunehmen."
+ norway.144.a: "Großartig!"
 
- norway.145.t: "Frankreich lehnte unseren Antrag ab"
- norway.145.d: "Leider hat die französische Kommune beschlossen, unsere Petition zum Beitritt zur Dritten Internationale abzulehnen."
+ norway.145.t: "[FROM.GetNameDefCap] lehnte unseren Antrag ab"
+ norway.145.d: "Leider hat [FROM.GetNameDef] beschlossen, unsere Petition zum Beitritt zu [FROM.GetFactionName] abzulehnen."
  norway.145.a: "Es scheint, wir sind auf uns allein gestellt..."
-
- norway.150.t: "Gründung des Nordischen Rates"
- norway.150.d: "Der Nordische Rat wurde als Instrument der nordischen Zusammenarbeit und Integration gegründet."
- norway.150.a: "Beitritt zum Nordischen Rat."
-
- norway.151.t: "Gründung der Skandinavischen Verteidigungsunion"
- norway.151.d: "Wir haben beschlossen, gemeinsam mit unseren Partnern ein militärisches Verteidigungsbündnis zu schließen."
- norway.151.a: "Beitritt zur Skandinavische Verteidigungsunion."
-
- norway.152.t: "Das Nordisches Passübereinkommengsunion."
- norway.152.d: "Heute Morgen kamen Vertreter aller skandinavischen Länder in Stockholm zusammen, um die Nordische Passübereinkommensunion zu unterzeichnen. Alle unsere Bürger können nun frei durch die skandinavischen Königreiche reisen."
- norway.152.a: "Unterzeichnen Sie die Konvention."
-
- norway.153.t: "Wiedereinführung der Skandinavischen Währungsunion"
- norway.153.d: "Die skandinavischen Länder haben ihre Währungen zwischen 1873 und 1914 aneinander gekoppelt, was als Skandinavische Währungsunion bekannt wurde. Da die skandinavische Zusammenarbeit wieder zunimmt, ist es an der Zeit, die Skandinavische Währungsunion wieder einzuführen."
- norway.153.a: "Eine neue Währungsunion für eine neue Ära!"
-
- norway.154.t: "Ein Nordischer Binnenmarkt"
- norway.154.d: "Bei unserer immer engeren Integration haben sich die verbleibenden Zollgrenzen als wirtschaftliches Hindernis erwiesen. Daher wurde beschlossen, die verbleibenden Zölle abzuschaffen und einen einheitlichen skandinavischen Binnenmarkt zu schaffen."
- norway.154.a: "Beitritt zum Binnenmarkt."
-
- norway.155.t: "Die Skandinavische Wissenschaftlerkonferenz"
- norway.155.d: "Die Formalisierung unserer wissenschaftlichen Zusammenarbeit im Rahmen der Skandinavischen Wissenschaftlerkonferenz wird es unseren Forschungsgemeinschaften ermöglichen, wichtige Erkenntnisse auszutauschen. Die Konferenz wird nächste Woche in Kopenhagen zusammenkommen, um diesen Prozess einzuleiten."
- norway.155.a: "Wissen ist Macht."
- norway.155.b: "Wissen ist Macht."
-
- norway.156.t: "Schweden strebt skandinavische Föderation an"
- norway.156.d: "Schweden hat vorgeschlagen, alle skandinavischen Länder in einer demokratischen Föderation zu vereinen. Dies würde die Annexion unseres Landes zur Folge haben."
- norway.156.a: "Der Föderation zustimmen (Game over)"
- norway.156.b: "Föderation ablehnen."
-
- norway.157.t: "Dänemark strebt skandinavische Föderation an"
- norway.157.d: "Dänemark hat vorgeschlagen, alle skandinavischen Länder in einer demokratischen Föderation zu vereinen. Dies würde die Annexion unseres Landes zur Folge haben."
- norway.157.a: "Der Föderation zustimmen (Game over)"
- norway.157.b: "Föderation ablehnen."
-
- norway.158.t: "Gründung der Nordischen Föderation"
- norway.158.d: "Die anderen skandinavischen Länder haben unserem Vorschlag zur Föderation zugestimmt. Gemäß ihrer Verfassung wird die Nordische Föderation eine demokratische, föderale Monarchie sein. Die Exekutive wird aus einer föderalen Regierung bestehen, die die Macht im Namen eines Rates aus den schwedischen, norwegischen und dänischen Monarchen ausübt. Das föderale Parlament wird seinen Sitz in Stockholm haben, aber alle konstituierenden Königreiche behalten ihre individuellen Institutionen und ihre Autonomie."
- norway.158.a: "Großartig!"
-
- norway.159.t: "Scheitern der Skandinavischen Föderation"
- norway.159.d: "Unsere Versuche, eine nordische Föderation zu schaffen, sind gescheitert... Es scheint, dass die nordische Integration ihren Höhepunkt überschritten hat."
- norway.159.a: "Verdammt, ihr dummen Skandinavier!"
 
  norway.160.t: "Staatsbesuch in Kanada"
  norway.160.d: "Das norwegische und das britische Königshaus haben starke familiäre Bindungen, zumal Haakon VII. der angeheiratete Onkel von [CAN_king_full_name] ist. In letzter Zeit hat die norwegische Regierung erwogen, an die kanadische Regierung heranzutreten, um die diplomatischen Beziehungen zu vertiefen. Vor kurzem wurde vorgeschlagen, seine Majestät zu einem Staatsbesuch nach Ottawa zu schicken. Der König könnte [CAN_king_full_name] auf die Angelegenheit aufmerksam machen und hoffentlich das Ansehen Norwegens in der kanadischen Öffentlichkeit verbessern."
@@ -688,27 +614,9 @@
  norway.162.d: "Der Besuch von Haakon VII. in Kanada hat sich als großer Erfolg erwiesen. Zwischen offiziellen Empfängen und Besichtigungen gelang es ihm, die Aufmerksamkeit auf unsere diplomatische Lage zu lenken. Der König hatte auch ein sehr konstruktives Gespräch mit seinem Neffen und [CAN_king_first_name] versprach, die Angelegenheit seinen Ministern zur Kenntnis zu bringen."
  norway.162.a: "Ein großer Erfolg."
 
- norway.163.t: "König Haakon in Kanada"
  norway.163.d: "Der Besuch von Haakon VII. in Kanada hat sich als großer Erfolg erwiesen. Zwischen förmlichen Empfängen und Besichtigungen hat er versucht, der kanadischen Öffentlichkeit die schwierige Lage Norwegens vor Augen zu führen. Der König hatte auch ein sehr konstruktives Gespräch mit seinem Neffen, und [CAN_king_first_name] versprach offenbar, die Angelegenheit seinen Ministern zur Kenntnis zu bringen."
- norway.163.a: "Ein großer Erfolg."
 
- norway.164.t: "Norwegen will sich der Entente anschließen"
  norway.164.d: "Das Königreich Norwegen ist an uns herangetreten mit der Absicht, ein gegenseitiges Verteidigungsabkommen zu unterzeichnen. In der Praxis würde dieses Abkommen Norwegen zu einem Mitglied der Entente machen. Wir wären dann nicht nur für die Verteidigung der Gebiete auf dem europäischen Festland verantwortlich, sondern würden auch unsere strategische Position verbessern. Die norwegische Küste ist lang und entscheidend für die Durchführung von Operationen im Nordatlantik und in der Nordsee."
- norway.164.a: "Ja, sie sind ein wertvoller Verbündeter."
- norway.164.b: "Nein, sie wären nur eine Last."
-
- norway.165.t: "Kanada akzeptierte unseren Antrag"
- norway.165.d: "Kanada hat beschlossen, unser Ersuchen anzunehmen. Norwegen ist jetzt ein Mitglied der Entente."
- norway.165.a: "Großartig!"
-
- norway.166.t: "Kanada lehnt unseren Antrag ab"
- norway.166.d: "Es scheint, dass Kanada beschlossen hat, unseren Antrag auf Schutz abzulehnen."
- norway.166.a: "Bedauerlich..."
-
- norway.170.t: "Wiederaufnahme des Pomorenhandels"
- norway.170.d: "Nach dem politischen und wirtschaftlichen Chaos des russischen Bürgerkriegs ist der Handel zwischen Nordnorwegen und Nordrussland auf ein Minimum zurückgegangen. Wir können nun versuchen, den Handel zwischen den lokalen Gemeinschaften am arktischen Meer wiederherzustellen. Es wurde vorgeschlagen, dass wir uns zuerst an die lokalen Behörden wenden und nicht an die Zentralregierung, da man hofft, dass sie unserem Anliegen gegenüber sehr aufgeschlossen sind."
- norway.170.a: "Schicken Sie eine Delegation."
- norway.170.b: "Russland ist kein geeigneter Handelspartner."
 
  norway.171.t: "Wiederaufnahme des Pomorenhandels"
  norway.171.d: "Nach dem politischen und wirtschaftlichen Chaos des russischen Bürgerkriegs ist der Handel zwischen Nordnorwegen und Nordrussland auf ein Minimum zurückgegangen. Es scheint, dass Norwegen nun Schritte unternommen hat, um die Handelsbeziehungen wiederherzustellen, indem es sich an die lokalen Behörden in Murmansk und Archangelsk wandte. Zwar hätte man sich zuerst an die zentralen Behörden wenden sollen, aber die Idee, den Pomor-Handel wieder aufzunehmen, hat durchaus ihre Berechtigung. Wie sollen wir darauf reagieren?"
@@ -723,11 +631,6 @@
  norway.173.d: "Schließlich entdeckte die russische Regierung unsere Delegation bei den lokalen Behörden in Murmansk und Archangelsk. Leider waren sie an unserem Vorschlag nicht interessiert."
  norway.173.a: "Zu schade..."
 
- norway.174.t: "Handelsabkommen mit Deutschland"
- norway.174.d: "Es könnte möglich sein, Zugang zu bestimmten Teilen des deutschen und kontinentalen Marktes zu erhalten. Nach dem Schwarzen Montag könnte die Aussicht auf eine begrenzte Ausweitung des Handels außerhalb des "Reichspakts" in Deutschland positiv gesehen werden."
- norway.174.a: "Versuchen Sie, begrenzten Zugang zu erhalten."
- norway.174.b: "Nicht nötig."
-
  norway.175.t: "Handelsabkommen mit Norwegen"
  norway.175.d: "Norwegen ist kürzlich an uns herangetreten, um ein begrenztes Handelsabkommen zu schließen. Da Norwegen nicht Mitglied unseres 'Reichspaktes' ist, ist sein Handel mit Kontinentaleuropa sehr begrenzt. Normalerweise würden wir dies nicht zulassen, aber nach dem Schwarzen Montag ist das Versprechen eines verstärkten Handels verlockend."
  norway.175.a: "Ja, wir brauchen ein begrenztes Abkommen."
@@ -735,16 +638,9 @@
 
  norway.176.t: "Das deutsch-norwegische Handelsabkommen [GetYear]"
  norway.176.d: "Deutschland hat unserem Vorschlag für ein begrenztes Handelsabkommen zugestimmt."
- norway.176.a: "Sehr gut."
 
  norway.177.t: "Die Deutschen lehnen ab"
  norway.177.d: "Deutschland hat unseren Vorschlag für ein begrenztes Handelsabkommen abgelehnt."
- norway.177.a: "Zu schade..."
-
- norway.178.t: "Handelsabkommen mit Kanada"
- norway.178.d: "Wir können versuchen, unseren Handel mit Kanada und den Commonwealth-Ländern auszubauen. Dies wäre für uns und insbesondere für die Entente von Vorteil, und wir würden einen wertvollen Handelspartner gewinnen."
- norway.178.a: "Entsenden Sie eine Handelsdelegation."
- norway.178.b: "Nicht nötig."
 
  norway.179.t: "Handelsabkommen mit Norwegen"
  norway.179.d: "Norwegen ist kürzlich an uns herangetreten, um ein Handelsabkommen zu schließen. Norwegen ist eines der Länder in Europa, das uns geografisch am nächsten liegt, und der Abbau von Handelsschranken würde sowohl für uns als auch für die Norweger bessere Beziehungen und wirtschaftliches Wachstum bedeuten. Dies könnte auch insofern von Vorteil sein, als wir in Nordeuropa wirtschaftlich Fuß fassen würden, was wir als Sprungbrett für größere Ambitionen nutzen könnten."
@@ -753,11 +649,9 @@
 
  norway.180.t: "Das [GetYear] norwegisch-kanadische Handelsabkommen"
  norway.180.d: "Kanada hat unserem Vorschlag für ein Handelsabkommen zugestimmt."
- norway.180.a: "Sehr gut."
 
  norway.181.t: "Die Kanadier lehnen ab"
  norway.181.d: "Kanada hat unseren Vorschlag für ein Handelsabkommen abgelehnt."
- norway.181.a: "Zu schade..."
 
  norway.201.t: "Norwegen fordert Grönland"
  norway.201.d.DEN: "Als Norwegen 1814 durch den Vertrag von Kiel eine Personalunion mit Schweden einging, behielten wir unsere nordatlantischen Besitzungen. Die neue, nationalistische norwegische Regierung von Vidkun Quisling hat nun gefordert, dass wir die Kontrolle über die Insel aufgeben."
@@ -791,11 +685,6 @@
  norway.211.t: "Sieg über [FROM.GetNameDef]"
  norway.211.d: "Die [FROM.GetAdjective] Regierung hat unser Friedensangebot angenommen. Wir haben unsere lange verlorenen nordatlantischen Besitzungen wiedererlangt."
  norway.211.a: "Hurrah!"
-
- norway.212.t: "Nordatlantische Ansprüche"
- norway.212.d: "Sowohl Island als auch die Färöer-Inseln waren bis zu ihrem Verlust an Dänemark im Jahr 1814 fester Bestandteil Norwegens. Sollten wir die Rückgabe unserer rechtmäßigen Länder fordern?"
- norway.212.a: "Fordern Sie Island und die Färöer Inseln."
- norway.212.b: "Lediglich unseren Anspruch abstecken..."
 
  norway.213.t: "Neue norwegische Forderungen"
  norway.213.d: "Die norwegische Aggression scheint kein Ende zu nehmen, denn sie hat beschlossen, den Rest unserer nordatlantischen Besitzungen einzufordern. Was soll unsere Antwort darauf sein?"
@@ -921,22 +810,6 @@
  nor_syncon.5.e: "... Einar Gerhardsen setzt sich schließlich durch."
  nor_syncon.5.f: "... Elias Volan wird zum Vorsitzenden gewählt."
 
-### Decisions ###
- NOR_join_faction: "Beitritt zu [FROM.GetFactionName]"
-
-### Tooltips ###
- NOR_red_guards_tooltip: "Sie erhalten §Y3§! Miliz-Divisionen."
- NOR_CA_1_tooltip: "Sie erhalten §Y2§! Schwere Kreuzer."
- NOR_CA_3_tooltip: "Sie erhalten §Y1§! Schlachtschiff."
- NOR_new_subs_tooltip: "Sie erhalten §Y3§! U-Boote."
- NOR_new_CL_tooltip: "Sie erhalten §Y2§! Leichte Kreuzer."
- NOR_new_DD_tooltip: "Sie erhalten §Y3§! Zerstörer."
- NOR_SYN_war_SWE_tooltip: "§RFührt zum Krieg mit Schweden§!"
- NOR_HMKG_unit_tooltip: "Erhalten Sie eine §YElite-Infanteriedivision§! in Oslo."
- NOR_new_generals_tooltip: "Ein §Y1 Fähigkeiten General§! namens §YErik Leschly§! wird freigeschaltet.\nEin §Y2 Fähigkeiten General§! mit dem Namen §YIvar Holmquist§! wird freigeschaltet."
- NOR_rikshirden_tooltip: "\n§RDieser Schwerpunkt wird das Offizierskorps der Armee durch die Führung des §YRikshird§! ersetzen, den Armeebaum schließen und alle nationalen Geister der Armee entfernen.!§!"
- NOR_quisling_guard_tooltip: "Erhalten Sie eine §YElite-Infanteriedivision§! in Oslo."
-
 ### Flags ###
  NOR_1936_elections_held: "Die Wahlen von 1936 haben stattgefunden"
 
@@ -946,13 +819,10 @@
  NOR_DEF: "Norwegen"
 
  NOR_totalist: "Norwegische Sozialistische Republik"
- NOR_totalist_ADJ: "Norwegisch"
  NOR_totalist_DEF: "Die Norwegische Sozialistische Republik"
  NOR_syndicalist: "Norwegische Sozialistische Republik"
- NOR_syndicalist_ADJ: "Norwegisch"
  NOR_syndicalist_DEF: "Die Norwegische Sozialistische Republik"
  NOR_radical_socialist: "Norwegische Sozialistische Republik"
- NOR_radical_socialist_ADJ: "Norwegisch"
  NOR_radical_socialist_DEF: "Die Norwegische Sozialistische Republik"
 
  NORSOC_radical_socialist: "Norwegen"
@@ -960,34 +830,24 @@
  NORSOC_radical_socialist_DEF: "Norwegen"
 
  NOR_greater_norway_totalist: "Groß Norwegen"
- NOR_greater_norway_totalist_ADJ: "Norwegisch"
  NOR_greater_norway_totalist_DEF: "Groß Norwegen"
  NOR_greater_norway_syndicalist: "Groß Norwegen"
- NOR_greater_norway_syndicalist_ADJ: "Norwegisch"
  NOR_greater_norway_syndicalist_DEF: "Groß Norwegen"
  NOR_greater_norway_radical_socialist: "Groß Norwegen"
- NOR_greater_norway_radical_socialist_ADJ: "Norwegisch"
  NOR_greater_norway_radical_socialist_DEF: "Groß Norwegen"
  NOR_greater_norway_social_democrat: "Groß Norwegen"
- NOR_greater_norway_social_democrat_ADJ: "Norwegisch"
  NOR_greater_norway_social_democrat_DEF: "Groß Norwegen"
  NOR_greater_norway_social_liberal: "Groß Norwegen"
- NOR_greater_norway_social_liberal_ADJ: "Norwegisch"
  NOR_greater_norway_social_liberal_DEF: "Groß Norwegen"
  NOR_greater_norway_market_liberal: "Groß Norwegen"
- NOR_greater_norway_market_liberal_ADJ: "Norwegisch"
  NOR_greater_norway_market_liberal_DEF: "Groß Norwegen"
  NOR_greater_norway_social_conservative: "Groß Norwegen"
- NOR_greater_norway_social_conservative_ADJ: "Norwegisch"
  NOR_greater_norway_social_conservative_DEF: "Groß Norwegen"
  NOR_greater_norway_authoritarian_democrat: "Groß Norwegen"
- NOR_greater_norway_authoritarian_democrat_ADJ: "Norwegisch"
  NOR_greater_norway_authoritarian_democrat_DEF: "Groß Norwegen"
  NOR_greater_norway_paternal_autocrat: "Groß Norwegen"
- NOR_greater_norway_paternal_autocrat_ADJ: "Norwegisch"
  NOR_greater_norway_paternal_autocrat_DEF: "Groß Norwegen"
  NOR_greater_norway_national_populist: "Groß Norwegen"
- NOR_greater_norway_national_populist_ADJ: "Norwegisch"
  NOR_greater_norway_national_populist_DEF: "Groß Norwegen"
 
 ### Characters ###
@@ -1068,4 +928,3 @@
  NOR_bjorn_christopherson: "Bjørn Christophersen"
  NOR_kristian_welhaven: "Kristian Welhaven"
  NOR_norwegian_army_council: "Norwegischer Armeerat"
-

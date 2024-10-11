@@ -43,7 +43,6 @@ talleres_navales_golfo: "Talleres Navales del Golfo"
 
 ### Ideas ###
 MEX_new_economic_policy_idea1: "Nueva Política Económica"
-MEX_new_economic_policy_idea2: "Nueva Política Económica"
 MEX_revolution_economic: "Wirtschaftliches Erbe der Revolution"
 MEX_revolution_economic_desc: "Die mexikanische Revolution hat die Wirtschaft Mexikos verwüstet. Seit dem Ende der Revolution konnten wir uns langsam aus dem Loch der Depression befreien, aber es liegt noch ein weiter Weg vor uns, bis sich die Wirtschaft wirklich von der Revolution erholt hat."
 MEX_revolution_military: "Militärisches Erbe der Revolution"
@@ -60,83 +59,48 @@ MEX_idea_escort_training: "Eskorte Ausbildung"
 MEX_idea_submarine_upgrade: "Tod von unten"
 
 MEX_cristero_war_idea: "Cristero Krieg"
-MEX_cristero_attack: "Criestero Angriff"
+MEX_cristero_attack: "Cristero Angriff"
 MEX_campesinos_war_idea: "Campesinos Krieg"
 MEX_campesinos_attack: "Campesinos Angriff"
 
-MEX_loyal_military_idea1: "Loyal Military"
-MEX_loyal_military_idea2: "Loyal Military"
+MEX_loyal_military_idea1: "Loyales Militär"
 MEX_secret_police_idea: "Dirección Federal de Seguridad"
 MEX_union_laws_idea1: "Ley Federal de Trabajo"
-MEX_union_laws_idea2: "Ley Federal de Trabajo"
 MEX_empowered_federalism_idea1: "Gestärkter Föderalismus"
-MEX_empowered_federalism_idea2: "Gestärkter Föderalismus"
-MEX_empowered_federalism_idea3: "Gestärkter Föderalismus"
 MEX_modernist_culture_idea: "Modernistische Kultur"
 MEX_empower_the_peasents_idea: "Ermächtigte Bauern"
 MEX_social_welfare_idea: "Sozialfürsorge"
 MEX_new_schools_idea: "Neue Schulen"
 MEX_agrian_economy_idea: "Agrarwirtschaft"
-MEX_agrian_economy_idea2: "Agrarwirtschaft"
-MEX_agrian_economy_idea3: "Agrarwirtschaft"
 MEX_native_land_reform_idea: "Landreform für Einheimische"
 MEX_workers_rights: "Rechte der Arbeitnehmer"
-MEX_workers_rights_idea2: "Rechte der Arbeitnehmer"
-MEX_mexican_resources_idea1: "Reclaiming Mexican Resources"
-MEX_mexican_resources_idea2: "Reclaiming Mexican Resources"
-MEX_restructured_education_idea: "Restructured Education"
-MEX_state_atheism_idea1: "State Atheism"
-MEX_state_atheism_idea2: "State Atheism"
-MEX_establishing_the_maximato_idea1: "Establishing the Maximato"
-MEX_establishing_the_maximato_idea2: "Establishing the Maximato"
-MEX_establishing_the_maximato_idea3: "Establishing the Maximato"
-MEX_establishing_the_maximato_idea4: "The Maximato Established"
-MEX_toledano_reforms_idea1: "Implementing the Toledano Reforms"
-MEX_toledano_reforms_idea2: "Implementing the Toledano Reforms"
-MEX_toledano_reforms_idea3: "Implementing the Toledano Reforms"
-MEX_toledano_reforms_idea4: "Success of the Toledano Reforms"
+MEX_mexican_resources_idea1: "Rückforderung mexikanischer Ressourcen"
+MEX_restructured_education_idea: "Umstrukturierte Bildung"
+MEX_state_atheism_idea1: "Staatsatheismus"
+MEX_establishing_the_maximato_idea1: "Einrichtung des Maximato"
+MEX_establishing_the_maximato_idea4: "Das Maximato hat sich etabliert"
+MEX_toledano_reforms_idea1: "Umsetzung der Toledano-Reformen"
+MEX_toledano_reforms_idea4: "Erfolg der Toledano-Reformen"
 MEX_socialist_warlordism_idea1: "Sozialistischer Warlordismus"
-MEX_socialist_warlordism_idea2: "Sozialistischer Warlordismus"
-MEX_socialist_warlordism_idea3: "Sozialistischer Warlordismus"
-MEX_socialist_warlordism_idea4: "Sozialistischer Warlordismus"
-MEX_socialist_warlordism_idea5: "Sozialistischer Warlordismus"
 MEX_bread_and_roses_idea1: "Brot und Rosen"
-MEX_bread_and_roses_idea2: "Brot und Rosen"
-MEX_bread_and_roses_idea3: "Brot und Rosen"
-MEX_bread_and_roses_idea4: "Brot und Rosen"
-MEX_bread_and_roses_idea5: "Brot und Rosen"
 MEX_improve_native_rights_idea: "Verbesserte Rechte der Einheimischen"
 
 MEX_garza_junta_idea1: "Garzas Junta"
-MEX_garza_junta_idea2: "Garzas Junta"
-MEX_garza_junta_idea3: "Garzas Junta"
-MEX_garza_junta_idea4: "Garzas Junta"
 MEX_unions_banned_idea: "Gewerkschaften Verboten"
 MEX_purging_leftists_idea: "Säuberung der Linken"
 MEX_loyal_military_garza_idea: "Loyales Militär"
 MEX_great_ranches_idea: "Große Ranches"
 MEX_laisze_faire_economy1: "Laissez Faire Wirtschaft"
-MEX_laisze_faire_economy2: "Laissez Faire Wirtschaft"
 MEX_limited_liberties_idea1: "Eingeschränkte bürgerliche Freiheiten"
-MEX_limited_liberties_idea2: "Eingeschränkte bürgerliche Freiheiten"
 MEX_military_support_idea: "Militärische Unterstützung"
 MEX_religious_league_idea: "Liga Nacional Defensora de la Libertad Religiosa"
 MEX_church_support_idea: "Kirchliche Unterstützung"
 MEX_restored_mexican_democracy_idea1: "Wiederherstellung der mexikanischen 'Demokratie'"
-MEX_restored_mexican_democracy_idea2: "Wiederherstellung der mexikanischen 'Demokratie'"
-MEX_restored_mexican_democracy_idea3a: "Wiederherstellung der mexikanischen 'Demokratie'"
-MEX_restored_mexican_democracy_idea3b: "Wiederherstellung der mexikanischen 'Demokratie'"
 MEX_restored_mexican_democracy_idea4a: "Mexikanische 'Demokratie' wiederhergestellt"
-MEX_restored_mexican_democracy_idea4b: "Mexikanische 'Demokratie' wiederhergestellt"
 
 MEX_to_restore_mexican_glory_idea1: "Den mexikanischen Ruhm wiederherstellen"
-MEX_to_restore_mexican_glory_idea2: "Den mexikanischen Ruhm wiederherstellen"
-MEX_to_restore_mexican_glory_idea3: "Den mexikanischen Ruhm wiederherstellen"
-MEX_to_restore_mexican_glory_idea4: "Den mexikanischen Ruhm wiederherstellen"
 MEX_hispanidad_idea: "Förderung der Hispanidad"
 MEX_corportism_idea: "Staatskorporatismus"
-MEX_corportism_idea2: "Staatskorporatismus"
-MEX_corportism_idea3: "Staatskorporatismus"
 MEX_synarchist_military_reforms_idea: "Synarchistische Militärreformen"
 MEX_goldshirts_idea: "Acción Revolucionaria Mexicanista"
 MEX_synarchismo_idea: "Förderung des Sinarquismo"
@@ -145,66 +109,34 @@ MEX_strikes_outlawed_idea: "Streiks verboten"
 MEX_reconquista_complete_idea: "Reconquista abgeschlossen"
 
 ### Tooltips ###
-200_infantry_equipment_1: "£rifle_texticon §H200§!"
-200_infantry_equipment_1_blocked: "£rifle_texticon §R200§!"
-200_infantry_equipment_1_tooltip: "Es kostet $200_infantry_equipment_1_blocked$, die Entscheidung zu treffen"
+MEX_campesinos_weakened: "Die Stärke der §RCampesinos§! sinkt um $RIGHT|Y0$."
+MEX_campesinos_strengthened: "Die Stärke der §RCampesinos§! erhöht sich um $RIGHT|Y0$."
 
-MEX_campesinos_subtract_1: "Die Stärke der §RCampesinos§! sinkt um §Y1§!"
-MEX_campesinos_subtract_2: "Die Stärke der §RCampesinos§! sinkt um §Y2§!"
-MEX_campesinos_subtract_5: "Die Stärke der §RCampesinos§! sinkt um §Y5§!"
-MEX_campesinos_add_1: "Die Stärke der §RCampesinos§! erhöht sich um §Y1§!"
-MEX_campesinos_add_2: "Die Stärke der §RCampesinos§! erhöht sich um §Y2§!"
-MEX_campesinos_add_5: "Die Stärke der §RCampesinos§! erhöht sich um §Y5§!"
+MEX_cristero_weakened: "Die Stärke des §RCristero§! sinkt um $RIGHT|Y0$."
+MEX_cristero_strengthened: "Die Stärke des §RCristero§! erhöht sich um$RIGHT|Y0$."
 
-MEX_cristero_subtract_1: "Die Stärke der §RCristero§! sinkt um §Y1§!"
-MEX_cristero_subtract_2: "Die Stärke der §RCristero§! sinkt um §Y2§!"
-MEX_cristero_subtract_5: "Die Stärke der §RCristero§! sinkt um §Y5§!"
-MEX_cristero_add_1: "Die Stärke der §RCristero§! erhöht sich um §Y1§!"
-MEX_cristero_add_2: "Die Stärke der §RCristero§! erhöht sich um §Y2§!"
-MEX_cristero_add_3: "Die Stärke der §RCristero§! erhöht sich um §Y3§!"
-MEX_cristero_add_5: "Die Stärke der §RCristero§! erhöht sich um §Y5§!"
+MEX_reconquista_tooltip: "Angriffs- und Verteidigungsbonus gegen §Halle amerikanischen Bürgerkriegsteilnehmer§!: [?0.1|+=%1]"
 
-MEX_support_1: "Unterstützt uns"
+### Opinion Modifiers ###
 MEX_cen_claim: "Beansprucht Zentroamérica"
-MEX_reconquista_tooltip: "Angriffs- und Verteidigungsbonus gegen §H$all_american_factions_tt$§!: [?0.1|+=%1]"
-all_american_factions_tt: "alle amerikanischen Bürgerkriegsteilnehmer"
 
 ### Flags ###
-MEX_calles_has_power: "Calles hat die Macht übernommen"
-MEX_democracy_survives: "Die Demokratie hat überlebt"
-MEX_military_coup_has_occurred_flag: "Das Militär hat die Kontrolle über die Regierung übernommen"
 MEX_nationalized_oil_industry: "Mexiko hat die Ölindustrie verstaatlicht"
 MEX_democracy_restored_flag: "Die Junta hat die Demokratie wiederhergestellt"
 MEX_junta_holds_on_flag: "Junta hält sich an der Macht"
-MEX_the_1937_elections_happened: "Die Präsidentschaftswahlen von 1937 haben stattgefunden"
-MEX_claimed_lost_territories: "Wir haben die verlorenen Gebiete beansprucht"
-MEX_joined_ACW: "Wir greifen derzeit in den amerikanischen Bürgerkrieg ein."
 MEX_junta_goldshirt_alliance: "Wir haben ein Bündnis mit den Goldshirts geschlossen."
 
 ### Decisions ###
 MEX_central_american_intervention: "Zentralamerikanische Intervention"
 MEX_central_american_intervention_desc: "Mexiko hat eine ganze Reihe von Interessen in Zentralamerika. Daher sollten wir uns darauf konzentrieren, in der Region zum Wohle Mexikos zu intervenieren."
-
-MEX_retake_yucatan_mission: "Rückeroberung der Yucatan-Inseln"
-MEX_retake_yucatan_mission_desc: "Rebellen und Verräter haben die Kontrolle in Yucatan übernommen, sie müssen vernichtet werden."
-
 MEX_support_socialists: "Versorgt unsere [From.GetAdjective] Verbündeten"
 MEX_fight_reactionary_central_america: "Bringt die Revolution nach Zentralamerika"
-
+MEX_retake_yucatan_mission: "Rückeroberung der Yucatan-Inseln"
+MEX_retake_yucatan_mission_desc: "Rebellen und Verräter haben die Kontrolle in Yucatan übernommen, sie müssen vernichtet werden."´
 MEX_claim_central_america: "Beansprucht Zentralamerika"
-MEX_fight_central_america: "Attackiert [From.GetNameDef]"
-
-MEX_american_civil_war_intervention_decisions: "In den Amerikanischen Bürgerkrieg eingreifen"
-MEX_american_civil_war_intervention_decisions_descion: "In unserem nördlichen Territorium tobt ein Krieg, und wir sollten eingreifen und das Amerika unterstützen, das die Interessen Mexikos schützen wird."
-MEX_support_csa: "Unterstützt die CSA"
-MEX_support_usa: "Unterstützt die USA"
-MEX_intervene_csa: "In den Bürgerkrieg eingreifen"
-MEX_intervene_csa_desc: "Unsere Verbündeten im amerikanischen Bürgerkrieg verlieren an Boden. Wenn wir nicht bald handeln, könnten wir mit einem geeinten und feindlichen amerikanischen Staat an unserer Grenze konfrontiert werden. Jetzt ist es an der Zeit, einzugreifen - lasst uns unverzüglich unsere amerikanischen Verbündeten kontaktieren und unseren Eintritt in den Konflikt ankündigen."
 
 MEX_reconquista_decisons: "Mexikanische Reconquista"
 MEX_reconquista_decisons_descions: "Mexiko muss seine verlorenen Territorien zurückgewinnen, die 1848 von den Gringos gestohlen wurden."
-MEX_reclaim_lost_territories_decisions: "Rückgewinnung der verlorenen Territorien"
-MEX_reclaim_lost_territories_decisions_desc: "Bevor wir gegen die betrügerischen Gringos im Norden in den Krieg ziehen, müssen wir der Welt unseren Anspruch darlegen, dass die verlorenen Gebiete mexikanisch sind und zu Mexiko gehören."
 MEX_reconquista_decision: "Aufhebung des Vertrags von Guadalupe Hidalgo"
 MEX_reconquista_complete_decision: "Proklamieren Sie die Rückkehr zu den Grenzen von vor 1848"
 
@@ -212,8 +144,8 @@ MEX_join_international: "Beitritt zur Internationalen"
 MEX_join_international_desc: "Wir sollten der Internationale beitreten und unseren Platz im weltweiten Kampf für den Sozialismus einnehmen."
 MEX_join_entente: "Beitritt zur Entente"
 MEX_join_entente_desc: "Wir haben gemeinsame strategische Interessen mit der Entente. Ein Beitritt zu ihrem Militärbündnis könnte für unser Land von großem Nutzen sein."
-#MEX_join_american_research: "Beitritt zum Interamerikanischen Verteidigungskolleg"
-#MEX_join_american_research_desc: "Amerikanische Wissenschaftler haben die Mitgliedschaft im Interamerikanischen Verteidigungskolleg für weitere technologische Entwicklungen geöffnet. Wir sollten dieser Organisation beitreten und mexikanisches Talent und mexikanische Wissenschaft in das Kolleg einbringen."
+MEX_intervene_csa: "In den Bürgerkrieg eingreifen"
+MEX_intervene_csa_desc: "Unsere Verbündeten im amerikanischen Bürgerkrieg verlieren an Boden. Wenn wir nicht bald handeln, könnten wir mit einem geeinten und feindlichen amerikanischen Staat an unserer Grenze konfrontiert werden. Jetzt ist es an der Zeit, einzugreifen - lasst uns unverzüglich unsere amerikanischen Verbündeten kontaktieren und unseren Eintritt in den Konflikt ankündigen."
 
 MEX_economic_decisions: "Wirtschaftliche Entscheidungen"
 MEX_nationalize_oil: "Verstaatlichung der Ölindustrie"
@@ -590,7 +522,6 @@ MEX_country_intro_content_1: "Obregóns Nachfolger wurde Adolfo de la Huerta, de
 MEX_guide: "§MCalles ergreift die Macht§! (§oTotalisten§!)\n£white_dot Wählen Sie, dass Zapata bei dem Attentat getötet wird.\n£white_dot In der Zeit danach soll Calles den Palacio Nacional einnehmen.\n£white_dot Kurz nach Abschluss des Schwerpunkts \"Gründung der Maximato\" wird der Cristero-Krieg ausbrechen.\n£white_dot Senken Sie die Cristero-Stärke durch eine Kombination aus Entscheidungen und Zufallsereignissen auf Null, um Calles' Herrschaft zu sichern.\n\n§MJunta hält an der Macht fest§! (§PPaternal Autokratisch§!)\n£white_dot Wählen Sie, dass Zapata bei dem Attentat getötet wird.\n£white_dot In der Zeit danach sollen Garza und Treviño eine Junta bilden.\n£white_dot Der Campesino-Krieg wird ausbrechen.\n£white_dot Nehmen Sie das Angebot der Sinarquista NICHT an.\n£white_dot Senken Sie die Stärke der Campesinos durch eine Kombination aus Entscheidungen und Zufallsereignissen auf Null, um Garzas Herrschaft zu sichern.\n£white_dot Entscheiden Sie sich nach dem Krieg dafür, an der Macht zu bleiben.\n\n§MJunta stellt die Demokratie wieder her§! (§gAutoritär Demokratisch§!)\n£white_dot Wie oben, aber wenn der Krieg zu Ende ist, entscheiden Sie sich für die Wiederherstellung der Demokratie.\n\n§MSinarquistas ergreift die Macht§! (§NNationalpopulisten§!)\n£white_dot Wie die Junta hält an der Macht fest, nimmt aber das Angebot der Sinarquista an.\n£white_dot Der Krieg muss mindestens 75 Tage andauern, damit das Angebotsereignis und ein zusätzliches Unterstützungsereignis ausgelöst werden können, damit der Coup schließlich ausgelöst wird.\n£white_dot Auf diese Weise wird die §NUnión Nacional Sinarquista§! erfolgreich die Macht übernehmen.\n\n§MRubio-Wahl / Villa-Wahl / Toledano-Wahl / Calles-Wahl§! (§SSozialdemokraten§! / §RRadikale Sozialisten§! / §rSyndikalisten§! / §oTotalisten§!).\n£white_dot Entscheiden Sie sich dafür, dass Zapata das Attentat überlebt oder, falls er getötet wird, dass Villa und Toledano eine Regierung bilden.\n£white_dot Empower the desired party in the 1937 election.\n£white_dot Wahlen Sie erneut die gewünschte Partei in den Jahren 1942 und 1947.\nAnmerkung: Falls gewählt, werden Calles und die §oPartido Nacional Revolucionario§! eine Diktatur errichten."
 
 ### Events - assassination and first elections ###
-
 mexico.2.t: "Attentat auf den Präsidenten"
 mexico.2.d: "Eilmeldung aus Mexiko Stadt. Ein Attentäter hat auf Präsident Zapata geschossen. Während der Attentäter von der Präsidentengarde getötet wurde, ist Zapata zur Genesung in ein Krankenhaus gebracht worden. Im ganzen Land fragen sich viele, was aus dem Tiger des Südens werden soll."
 mexico.2.a: "Zapata erholt sich von dem Attentat."
@@ -610,17 +541,14 @@ mexico.4.b: "Partido Mexicano de los Trabajadores."
 mexico.4.c: "Partido Nacional Agrarista."
 mexico.4.e: "Partido Laborista Mexicano."
 
-mexico.5.t: "Den Attentäter ausfindig machen"
+mexico.5.t: "Die Suche nach dem Attentäter"
 mexico.5.d: "Obwohl der Attentäter auf offener Straße erschossen wurde, gibt es Hinweise darauf, dass er nicht allein gehandelt hat. Daher werden wir eine Fahndung in ganz Mexiko Stadt durchführen, um herauszufinden, wer hinter dem Attentäter steckt."
 mexico.5.a: "Wir müssen diesen Terroristen finden."
 
-mexico.6.t: "Die Komplizen des Attentäters"
-mexico.6.d: "Wir haben herausgefunden, wer hinter dem Attentäter steckt. Es war eine Clique rechtsgerichteter Militärs, die sich an Zapatas Reformen stören. Sie streiten es zwar ab, aber die Beweise gegen sie sind erdrückend. Sie werden den Tod eines Verräters finden."
+mexico.6.t: "Die Kohorten des Assassinen gefunden"
+mexico.6.d1: "Wir haben herausgefunden, wer hinter dem Attentäter steckt. Es war eine Clique rechtsgerichteter Militärs, die sich an Zapatas Reformen stören. Sie streiten es zwar ab, aber die Beweise gegen sie sind erdrückend. Sie werden den Tod eines Verräters finden."
+mexico.6.d2: "Wir haben herausgefunden, wer hinter dem Attentäter steckt. Es stellt sich heraus, dass es Plutarco Elías Calles war, der Zapata loswerden wollte, um seine eigene Machtposition zu stärken. Er wird den Tod eines Verräters finden."
 mexico.6.a: "Sie werden den Tod eines Verräters sterben."
-
-mexico.7.t: "Die Komplizen des Attentäters"
-mexico.7.d: "Wir haben herausgefunden, wer hinter dem Attentäter steckt. Es stellt sich heraus, dass es Plutarco Elías Calles war, der Zapata loswerden wollte, um seine eigene Machtposition zu stärken. Er wird den Tod eines Verräters sterben."
-mexico.7.a: "Sie werden den Tod eines Verräters sterben."
 
 mexico.8.t: "Die Beerdigung von Zapata"
 mexico.8.d: "Heute fand in Mexiko-Stadt ein großes Begräbnis für Emiliano Zapata statt. Zu Ehren des gefallenen Präsidenten sind fast alle Geschäfte geschlossen worden. Es herrscht öffentliche Trauer um den gefallenen Helden. Dies gilt insbesondere für die arme und ländliche Bevölkerung, die in die Stadt gekommen ist, um ihre Gefühle für den gefallenen Führer zu zeigen."
@@ -639,12 +567,6 @@ mexico.12.t: "Der Cristero Krieg"
 mexico.12.d: "Eine Reihe von Priestern, Nonnen und Laien, die sich über die ihnen von Calles auferlegten Gesetze empört haben, haben zu den Waffen gegriffen. In Mittelamerika haben sich einige dieser Männer zur so genannten Cristero Armee zusammengeschlossen und kämpfen mit Waffengewalt für ihren christlichen Glauben. Calles hat dazu aufgerufen, sie zu vernichten, da sie eine Bedrohung für Mexiko darstellen."
 mexico.12.a: "We shall defend the revolution."
 
-mexico.13.t: "Mexiko verfolgt Katholiken"
-mexico.13.d: "In Mexiko ist das Land im Chaos versunken, weil unschuldige gläubige Männer und Frauen wegen ihres Glaubens verfolgt werden. Schreckliche Berichte über Massaker an Unschuldigen, über Priester, die nicht offen beten dürfen, und vieles mehr haben den Schreibtisch von Papst [PAP.GetLeader] erreicht. Dies hat einige von ihnen veranlasst, zu den Waffen zu greifen und sich mit Gewalt gegen die mexikanische Regierung zu wehren. Es stellt sich also die Frage: Was soll der Papst tun?"
-mexico.13.a: "Entsendet Hilfe für die Cristeros."
-mexico.13.b: "Entsendet Hilfe und verhängt ein Embargo gegen Mexiko."
-mexico.13.c: "Mischen wir uns nicht ein."
-
 mexico.14.t: "Cristero Krieg - Kämpfe im ganzen Land"
 mexico.14.d: "In den meisten Teilen des Landes sind Kämpfe ausgebrochen. Glücklicherweise werden die verschiedenen Städte von den Bundesbehörden kontrolliert, doch viele kleinere Städte sind in die Hände der so genannten Cristero Armee gefallen. Es sieht nicht so aus, als würde dieser Konflikt in absehbarer Zeit enden."
 mexico.14.a: "Wir werden die Feinde der Revolution vernichten."
@@ -655,11 +577,9 @@ mexico.15.a: "Sie müssen gestoppt werden."
 
 mexico.16.t: "Cristero Krieg - Militärfabrik sabotiert"
 mexico.16.d: "Die Cristeros haben eine Militärfabrik in [attack_state.GetName] angegriffen und dabei großen Schaden angerichtet und viele Menschenleben gefordert. Die Bundesbehörden arbeiten vor Ort daran, dies zu verhindern, und einer der örtlichen Offiziere der mexikanischen Armee hat geschworen, diese reaktionären Terroristen zu vernichten."
-mexico.16.a: "Sie müssen gestoppt werden."
 
 mexico.17.t: "Cristero Krieg - Eisenbahnstrecken angegriffen"
 mexico.17.d: "Die Cristeros haben in der Region [attack_state.GetName] eine Reihe von Bomben gezündet, die beträchtlichen Schaden an den Eisenbahnen anrichteten, viele Züge zerstörten und unzählige unschuldige Menschen das Leben kosteten."
-mexico.17.a: "Sie müssen gestoppt werden."
 
 mexico.18.t: "Cristero Krieg - Schlacht von Tepatitlán"
 mexico.18.d: "In der Nähe der Stadt Tepatitlán, die von der Cristero Armee eingenommen worden war, unternahm die mexikanische Bundesarmee einen Vorstoß gegen die Stadt. Es wird jedoch bald klar, dass es eine blutige Schlacht werden wird. Pablo Rodríguez, der Offizier, der den Angriff leitet, hat zwei Möglichkeiten. Er kann sich zurückziehen, was ihm die Möglichkeit gibt, den Cristero-Kommandanten zu töten. Oder er kann weitermachen, wobei sich der Befehlshaber der Cristero zusätzlich zu den steigenden Kosten zurückziehen würde."
@@ -668,8 +588,8 @@ mexico.18.b: "Die Stadt ist erobert."
 
 mexico.19.t: "Cristero Krieg - Schlacht von El Fresnal"
 mexico.19.d: "Die mexikanische Armee steht der Cristero Armee in der Nähe der Stadt Fresnal gegenüber, wo die Cristero Armee festgehalten wird. Jesus Ferreira, der Kommandeur der mexikanischen Armee, der den Angriff leitet, glaubt, dass er sie zurückdrängen kann, aber er weiß auch, dass es eine blutige Schlacht werden wird. Am Ende jedoch wird die..."
-mexico.19.a: "Campesinoische Armee siegreich sein."
-mexico.19.b: "Mexikanische Armee siegreich sein."
+mexico.19.a: "Cristeros Armee ist siegreich."
+mexico.19.b: "Die Mexikanische Armee ist siegreich."
 
 mexico.20.t: "Cristero Krieg - Schlacht von Manzanillo"
 mexico.20.d: "Die Cristero Armee versucht, die Stadt Manzanillo einzunehmen. Heliodoro Charis Castro, der General in der Region, hat sich darauf konzentriert, die Stadt zu halten. Die Cristero Armee ist größer und sieht aus, als könnte sie die Stadt einnehmen. Allerdings befindet sich in der Gegend ein Schiff, das die Cristero Armee angreift. Die Frage ist, ob sie sich darauf konzentrieren werden, die Stadt einzunehmen oder das Schiff zu zerstören."
@@ -708,12 +628,6 @@ mexico.26.a: "Partido Mexicano de los Trabajadores."
 mexico.26.b: "Partido Nacional Agrarista."
 mexico.26.c: "Partido Laborista Mexicano."
 
-mexico.27.t: "Präsidentschaftswahlen von [GetYear]"
-mexico.27.d: "Es ist Zeit für eine weitere Präsidentschaftswahl in Mexiko. Da die Amtszeit von [MEX.GetLeader] durch die Verfassung begrenzt ist. Wer soll zum nächsten Präsidenten Mexikos gewählt werden?"
-mexico.27.a: "Partido Mexicano de los Trabajadores."
-mexico.27.b: "Partido Nacional Agrarista."
-mexico.27.c: "Partido Laborista Mexicano."
-
 mexico.28.t: "Akademie der Maya-Sprache gegründet"
 mexico.28.d: "Heute befindet sich in der Stadt Mérida im Bundesstaat Yucatan die Academia de la Lengua Maya (Akademie der Maya-Sprache), die von Alfredo Barrera Vasquez und einer Reihe von Experten für die Maya-Sprache gegründet wurde. Das Hauptaugenmerk der Akademie liegt auf der Unterstützung und Förderung der Maya-Sprache. Sie arbeitet auch mit staatlichen Stellen zusammen, um denjenigen zu helfen, deren Muttersprache die Maya-Sprache ist."
 mexico.28.a: "Lasst uns die Maya-Sprache wiederbeleben."
@@ -751,20 +665,6 @@ mexico.36.t: "Mexikanische Anarchistische Föderation"
 mexico.36.d: "Die Mexikanische Anarchistische Föderation wurde heute gegründet, inspiriert von den Bewegungen in Europa und dem Rest der Internationalen. Sie soll helfen, verschiedene Anarchisten in ganz Mexiko zu vernetzen und den Anarchismus und den Anarchosyndikalismus in Mexiko zu unterstützen."
 mexico.36.a: "Viva Anarchismo."
 
-mexico.37.t: "Mexiko verstaatlicht die Ölindustrie"
-mexico.37.d: "Mexiko hat alle Ölgesellschaften in Mexiko verstaatlicht und das Eigentum amerikanischer Unternehmen beschlagnahmt. Viele in der Wirtschaft sind der Meinung, dass wir ein Embargo gegen Mexiko verhängen und das Land aus seinen Fehlern lehren sollten. Andere wiederum meinen, es sei besser, sie in Ruhe zu lassen. Was soll getan werden?"
-mexico.37.a: "Lasst Sie in Ruhe."
-mexico.37.b: "Verhängt ein Embargo."
-
-mexico.38.t: "Amerika versucht, ein Embargo gegen uns zu verhängen"
-mexico.38.d: "Aufgrund unserer Verstaatlichung von Öl hat Amerika beschlossen, ein Embargo gegen uns zu verhängen. Der Handel zwischen den beiden Ländern ist zum Erliegen gekommen. Dies schadet der Wirtschaft aufgrund des Handels zwischen den beiden Ländern, also müssen wir uns anpassen."
-mexico.38.a: "Verdammte Gringos."
-
-mexico.39.t: "Löhne im Ölsektor?"
-mexico.39.d: "Mit der Verstaatlichung der Ölindustrie stellte sich die Frage nach einer Anhebung der Löhne der Arbeitnehmer. Sie wurden als Teil des Grundes für die Verstaatlichung genannt. Einige im Kongress sind jedoch der Meinung, dass es am besten wäre, mit der Erhöhung der Löhne zu warten, damit die Vorteile der Verstaatlichung länger anhalten."
-mexico.39.a: "Erhöht die Löhne."
-mexico.39.b: "Erhöht die Löhne."
-
 mexico.40.t: "Der Angriff auf die Grundstücke"
 mexico.40.d: "Im Tal von Mexicali, wo sich das Delta des Colorado-Flusses in Baja California befindet, hat eine soziale Bewegung begonnen, inspiriert durch die Worte von [MEX.GetLeader], der sich für die Fortsetzung der Bodenreform einsetzt. In diesem Teil Mexikos gibt es eine Reihe großer Ranches, die sich im Besitz von Amerikanern befinden. Im Geiste der Bodenreform haben die Bauern jedoch die direkte Kontrolle über die Ländereien übernommen und ihre eigenen Ejidos und landwirtschaftlichen Vereinigungen gegründet. Die Menschen im Mexicali-Tal sind in freudiger Stimmung, nachdem sie das Land zurückerobert haben."
 mexico.40.a: "Tierra Y Libertad!"
@@ -774,7 +674,6 @@ mexico.41.d: "Die industrielle Entwicklung in Mexiko im 19. Jahrhundert verlief 
 mexico.41.a: "Wettbewerb soll Mexiko zu Wohlstand verhelfen."
 
 ### Dirty War ###
-
 mexico.42.t: "Der Krieg der Campesinos beginnt"
 mexico.42.d: "Die Machtübernahme durch die Militärjunta nach Zapatas Tod hat zu einer großen Unzufriedenheit in der Bevölkerung geführt. Dies gilt insbesondere für die arme Landbevölkerung, die Zapatas Reformen unterstützt hatte. Pancho Villa und Rubén Jaramillo haben begonnen, eine Kampagne gegen die Militärjunta und für eine Wiederherstellung der revolutionären Demokratie zu führen. Es sieht nicht so aus, als würde diese Kampagne in nächster Zeit enden."
 mexico.42.a: "In Mexiko muss die Ordnung wiederhergestellt werden."
@@ -807,11 +706,9 @@ mexico.48.a: "Wir werden diese Rebellen vernichten."
 
 mexico.49.t: "Campesino Krieg - Militärfabrik sabotiert"
 mexico.49.d: "Die Campesinos haben eine Militärfabrik in [attack_state.GetName] angegriffen und dabei großen Schaden angerichtet und viele Menschenleben gefordert. Die Bundesbehörden arbeiten vor Ort daran, dies zu verhindern, und einer der örtlichen Offiziere der mexikanischen Armee hat geschworen, diese reaktionären Terroristen zu vernichten."
-mexico.49.a: "Wir werden diese Rebellen vernichten."
 
 mexico.50.t: "Campesino Krieg - Railways attacked"
 mexico.50.d: "Die Campesinos haben in der Region [attack_state.GetName] eine Reihe von Bomben gezündet, die erhebliche Schäden an der Eisenbahn verursachten, viele Züge zerstörten und unzählige unschuldige Menschen das Leben kosteten."
-mexico.50.a: "Wir werden diese Rebellen vernichten."
 
 mexico.51.t: "Campesino Krieg - Schlacht von Guadalajara"
 mexico.51.d: "Die mexikanische Armee steht der so genannten Befreiungsarmee unter der Führung von Pancho Villa gegenüber, die versucht, die Stadt Guadalajara einzunehmen. Der Kommandeur der mexikanischen Armee, Pedro Ojeda, bereitet die Verteidigung der Stadt vor, doch er befürchtet, dass es in jedem Fall zu einer blutigen Schlacht kommen wird. Wenn sich das Blut und der Staub gelegt haben, gehört der Sieg der..."
@@ -836,7 +733,6 @@ mexico.59.a: "Die Revolution ist erhalten geblieben."
 mexico.59.b: "Die Ordnung ist wiederhergestellt."
 
 ### Military Junta and Auth-Dem ###
-
 mexico.61.t: "Die neue Verfassung"
 mexico.61.d: "In Mexiko Stadt wurde heute eine neue Verfassung vorgestellt. Die Verfassung von [GetYear] ist der Verfassung von 1917 recht ähnlich, unterscheidet sich aber auch in einigen Punkten von ihr. Vor allem enthält sie nicht die gleichen antiklerikalen, landreformerischen und anderen radikalen Teile, die die Verfassung von 1917 ausmachten. Sie wird als eine gemäßigtere, demokratischere Verfassung angesehen. Während in Mexiko Stadt großer Jubel herrschte, wurde die neue Verfassung in einer Reihe ländlicher Städte mit offensichtlicher Verachtung aufgenommen."
 mexico.61.a: "Ein neuer Tag bricht an in Mexiko."
@@ -856,7 +752,7 @@ mexico.64.d: "Während wir die Macht konsolidieren und die Gesetze Zapatas aufhe
 mexico.64.a: "Wir werden diese Verräter vernichten."
 mexico.64.b: "Libertad o Muerte(Spielt als Yucatan)"
 
-mexico.65.t: "Mexiko ist nicht in der Lage, die Yucatan-Region zu befrieden"
+mexico.65.t: "Mexiko kann Yucatan nicht befrieden"
 mexico.65.d: "Obwohl [MEX.GetLeader] versprochen hat, die rebellischen Yucatan in weniger als einem Jahr zu besiegen, ist es inzwischen klar, dass dies nicht mehr der Fall ist. Die Tatsache, dass unsere Armeen zurückgedrängt wurden und ein Waffenstillstand herrscht, bedeutet, dass [MEX.GetLeader] sich in Acht nehmen muss, da verschiedene Rivalen sehr wohl versuchen könnten, ihn zu ersetzen."
 mexico.65.a: "Wir müssen uns vorsehen."
 
@@ -882,49 +778,29 @@ mexico.70.d: "Die Yucataner haben beschlossen, trotz unserer Bemühungen, die Ge
 mexico.70.a: "Sie sollen vernichtet werden."
 
 ### Military Democracy ###
-
 mexico.81.t: "Präsidentschaftswahlen von [GetYear]"
 mexico.81.d: "Es ist Zeit für eine weitere Präsidentschaftswahl in Mexiko. Da die Amtszeit von [MEX.GetLeader] durch die Verfassung begrenzt ist. Wer soll zum nächsten Präsidenten Mexikos gewählt werden?"
 mexico.81.a: "Viva Democracia!"
-
-mexico.82.t: "Präsidentschaftswahlen von [GetYear]"
-mexico.82.d: "Es ist Zeit für eine weitere Präsidentschaftswahl in Mexiko. Da die Amtszeit von [MEX.GetLeader] durch die Verfassung begrenzt ist. Wer soll zum nächsten Präsidenten Mexikos gewählt werden?"
-mexico.82.a: "Viva Democracia!"
-
-mexico.83.t: "Präsidentschaftswahlen von [GetYear]"
-mexico.83.d: "Es ist Zeit für eine weitere Präsidentschaftswahl in Mexiko. Da die Amtszeit von [MEX.GetLeader] durch die Verfassung begrenzt ist. Wer soll zum nächsten Präsidenten Mexikos gewählt werden?"
-mexico.83.a: "Viva Democracia!"
 
 mexico.84.t: "Palacio Legislativo Federal"
 mexico.84.d: "Während des Porfiriato hatte Diaz den Plan, ein großes neues Gebäude für die Bundesgesetzgebung in Mexiko Stadt zu bauen. Durch die Revolution hat sich dieses Projekt jedoch lange verzögert. Nun aber, da sich der Staub längst gelegt hat, können wir dieses Werk vollenden und der Welt eine Gesetzgebung präsentieren, die sie bewundern kann."
 mexico.84.a: "Endlich ist es geschafft."
 
 ### National Populist events ###
-
 mexico.100.t: "Patria vs La Raza"
 mexico.100.d: "Der Synarchismus als Ideologie steckt noch in den Kinderschuhen, wobei der wichtigste verbindende Faktor der Widerstand gegen Liberalismus und Säkularismus ist. Unter dem Banner der Synarchisten gibt es sowohl Legionäre nach dem Vorbild der Eisernen Garde als auch Anhänger von La Raza. Der inhärente Konflikt zwischen diesen Kräften betrifft ihre Rassenpolitik. Die synarchistische Führung unter Salvador Abascal sieht das traditionelle Kastensystem Mexikos als die richtige Gesellschaftsordnung an, einschließlich der Verankerung katholischer Priester. La Raza, vertreten durch José Vasconcelos, vertritt die Idee einer hispanischen Rasse als wahres Ideal des mexikanischen Patriotismus. Diese Ideen ähneln eher dem brasilianischen Integralismus als dem Legionarismus. Die Partei hat begonnen, sich zu spalten, da die Mitglieder von La Raza angesichts der mangelnden Unterstützung, die sie innerhalb der Partei erhalten, desillusioniert sind. Wie können wir das korrigieren?"
 mexico.100.a: "Wir müssen diese Dissidenten besänftigen."
 mexico.100.b: "Sie haben keine Wahl, ignoriert ihre Forderungen."
 
-mexico.105.t: "Zerstörung von Alamo"
-mexico.105.d: "Alamo ist ein Symbol für die Niederlage von Santa Anna und die Schande, die er Mexiko mit dem Verlust des Bundesstaates Tejas brachte. Es sollte abgerissen werden, damit diese Schande für immer in Vergessenheit gerät und als Strafe für die 'Texaner' vor all diesen Jahrzehnten."
-mexico.105.a: "Sie werden sich nicht mehr an Alamo erinnern."
-
 mexico.106.t: "Juventudes Sinarquistas"
 mexico.106.d: "Die Juventudes Sinarquistas sind ein Jugendprogramm, das von [MEX.GetLeader] ins Leben gerufen wurde. Die Organisation soll dazu beitragen, der Jugend die Ideale des Sinarchismo und traditionelle katholische Werte zu vermitteln. Strukturell ähnelt die Organisation den Pfadfindergruppen, die es in anderen Ländern gibt, obwohl sie von der mexikanischen Regierung kontrolliert wird. Die Juventudes Sinarquistas haben zwei Hauptunterorganisationen, eine für Jungen und eine für Mädchen. Dadurch, dass die Jugendlichen in der Organisation eingeschrieben sind, wird sichergestellt, dass sie niemals von den Idealen der Regierung abweichen."
 mexico.106.a: "Die Jugend ist die Zukunft."
-
-mexico.107.t: "Plan für Mittelamerika"
-mexico.107.d: "Als sich Mexiko erstmals von Spanien trennte, gehörte Mittelamerika zu den Gebieten, die zu Mexiko gehörten. Obwohl sie sich später von Mexiko abspalteten, fragen sich einige in der Regierung, ob die Reconquista auch nach Süden gehen und die mittelamerikanischen Staaten erobern sollte. Andere sind der Meinung, dass wir ein Bündnis mit den mittelamerikanischen Staaten eingehen sollten, da einige von ihnen dem synarchistischen Gedankengut anhängen."
-mexico.107.a: "Die Reconquista geht nach Süden."
-mexico.107.b: "Verbündete im Süden."
 
 mexico.108.t: "Abschluss der Reconquista-Kampagne"
 mexico.108.d: "In Mexiko-Stadt versammelten sich Scharen von treuen Sinarquisten-Anhängern und Gleichgesinnten, um einer Rede von José Antonio Urquiza zu lauschen, nachdem die tapferen mexikanischen Streitkräfte die im Vertrag von Guadeloupe Hidalgo abgetretenen, lange verlorenen Gebiete erobert hatten. Durch schnelles Handeln nach dem Abstieg der Amerikaner ins Chaos und die Mobilisierung einer so elitären, massiven und atemberaubenden Armee wurden die langen Jahrzehnte der amerikanischen Tyrannei endlich beendet. Während diese neu befreiten Länder vielleicht noch jahrzehntelang 'amerikanisch' sein werden, planen José Antonio Urquiza und seine Synarchistische Union, den Synarquismo über die riesigen Gebiete zu verbreiten, die nun sein modernes Mexiko gefährden.\n\nJosé Antonio Urquiza und mehrere hochrangige mexikanische Generäle haben Pläne angekündigt, den Kontinent vollständig von fremder Besatzung zu befreien, um Mexiko weiterhin von fremdem Einfluss rein zu halten. Die Methoden, mit denen er die 'Hispanidad' über die mexikanischen Grenzen hinaus zu verbreiten gedenkt, sind jedoch noch nicht bekannt."
 mexico.108.a: "Die Demütigung und die Verwüstung von 1848 haben wir für immer überwunden.!"
 
 ### General Flavour Events ###
-
 mexico.125.t: "Ahí está el detalle is released"
 mexico.125.d: "Die mexikanische Filmkomödie Ahí está el detalle ist heute in den Kinos angelaufen. In den Hauptrollen spielen Cantinflas sowie Joaquín Pardavé, Sara García, Sofía Álvarez und Dolores Camarillo. Der Film wurde von dem Verbrecher Álvaro Chap und den Erfahrungen des Regisseurs Juan Bustillo Oro inspiriert, der als Anwalt für Cárcel de Belén arbeitete. Er gilt als der bisher beste Film von Cárcel de Belén und erhielt von den Kritikern positive Kritiken."
 mexico.125.a: "Cantinflas hat sich wieder einmal selbst übertroffen."
@@ -974,7 +850,6 @@ mexico.136.d: "Die Bohemia Poblana ist eine gesellschaftliche Gruppe, die sich d
 mexico.136.a: "Interessant."
 
 ### Foreign Events ###
-
 mexico.200.t: "[From.GetNameDefCap] möchte der Internationalen beitreten"
 mexico.200.d: "[From.GetNameDefCap], die kürzlich über die Vorteile einer sozialistischen Regierung aufgeklärt wurden, sind mit einer Bitte an uns herangetreten. Sie möchten der Internationalen formell beitreten. Wäre ein solcher entfernter Verbündeter sinnvoll?"
 mexico.200.a: "Ja, natürlich! Wir begrüßen sie."
@@ -986,31 +861,6 @@ mexico.201.a: "Eine schlechte Entscheidung ihrerseits."
 
 mexico.202.t: "[From.GetNameDefCap] möchte der Entente beitreten"
 mexico.202.d: "[From.GetNameDefCap], haben einen Botschafter zu einem Treffen mit dem König und dem Premierminister entsandt, um [From.GetNameDefCap] in die Entente aufzunehmen. Sollen wir das Angebot von [From.GetAdjective] annehmen?"
-mexico.202.a: "Ja, natürlich! Wir begrüßen sie."
-mexico.202.b: "Wir brauchen sie nicht."
-
-mexico.203.t: "[From.GetNameDefCap] lehnt ab"
-mexico.203.d: "Die [From.GetAdjective]-Regierung hat unseren Antrag auf Beitritt zu ihrem Bündnis abgelehnt. Vielleicht sind wir für ihre Verhältnisse nicht gut genug oder als Verbündete unwürdig. Wie auch immer, die Antwort war eindeutig nein."
-mexico.203.a: "Eine schlechte Entscheidung ihrerseits."
-
-mexico.206.t: "Mexiko wählt eine extrem linke Regierung"
-mexico.206.d: "Mexiko hat eine radikale linke Regierung gewählt, und das ist für die amerikanische Regierung und unsere Ziele für die Liga amerikanischer Staaten inakzeptabel, daher gibt es zwei Möglichkeiten. Wir können versuchen, die gemäßigteren Sozialdemokraten an die Macht zu bringen, oder wir können sie einfach aus der Liga der amerikanischen Staaten ausschließen. Was sollen wir tun?"
-mexico.206.a: "Schmeißt sie aus der Liga."
-mexico.206.b: "Erzwingt einen Regierungswechsel."
-
-mexico.207.t: "Amerika will, dass wir die Partei wechseln"
-mexico.207.d: "Die Vereinigten Staaten von Amerika haben sich vor kurzem mit führenden Politikern Mexikos getroffen und uns mitgeteilt, dass wir die Partei wechseln sollen, die für sie erträglicher ist. Wenn wir das nicht tun, droht uns ein von den Amerikanern unterstützter Staatsstreich oder schlimmer noch ein zweiter mexikanisch-amerikanischer Krieg. Was sollen wir tun?"
-mexico.207.a: "Wir werden den amerikanischen Forderungen zustimmen."
-mexico.207.b: "Wir werden uns nicht gegen den Willen des Volkes stellen!"
-
-mexico.208.t: "Mexiko weigert sich, die Partei zu wechseln"
-mexico.208.d: "Die Mexikaner haben unsere vernünftige Bitte abgelehnt, ihr Land von einer gemäßigteren Partei regieren zu lassen. Die Regierung in Washington D.C. erwägt daher mehrere Optionen. Wir könnten sie rausschmeißen oder wir könnten ihnen wegen dieser Beleidigung den Krieg erklären. Was sollen wir tun?"
-mexico.208.a: "Krieg soll es sein."
-mexico.208.b: "Schmeißt sie raus."
-
-mexico.209.t: "Amerika schmeißt uns aus der Liga der amerikanischen Staaten"
-mexico.209.d: "Die Amerikaner haben beschlossen, dass unsere derzeitige Regierung nicht für die Liga Amerikanischer Staaten geeignet ist, und haben uns deshalb aus der Organisation ausgeschlossen."
-mexico.209.a: "Das hätten wir erwarten müssen."
 
 mexico.210.t: "Mexikanische Ausrüstung trifft ein"
 mexico.210.d: "Angesichts unseres Kampfes für ein wahres syndikalistisches Mittelamerika haben unsere mexikanischen Waffenbrüder es für angebracht gehalten, uns eine große Menge an Ausrüstung zu schicken, um uns in unserem Kampf zu unterstützen."
@@ -1039,7 +889,6 @@ mexico.500.d: "Während unsere junge Nation die internationale Bühne betritt, s
 mexico.500.a: "Zu den Waffen!"
 
 ##Army Generals##
-
 MEX_emiliano_zapata_salazar_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g8. August, in Anenecuilco, Morelos, Vereinigte Mexikanische Staaten§!\n§YMilitärkarriere:§! §gEmiliano Zapata Salazars militärische Laufbahn begann kurz nach seinem politischen Engagement, als er 1908 zwangsweise in das 9. Kavallerieregiment unter Alfonso Pradillo eingezogen wurde, wo er die Vor- und Nachteile des Militärlebens kennenlernte. Mit dem Inkrafttreten des Plan de San Luis und dem Tod von Pablo Torres Burgos wurde Emiliano von der Revolutionären Junta des Südens zum neuen Revolutionsführer der Maderista-Armee des Südens ernannt. Seine erste Aktion bestand darin, Cuautla von den porfiristischen Truppen einzunehmen, was ihm trotz hoher Verluste gelang. Um die Zahl der Rekruten zu erhöhen, versprach er jedem Soldaten, der sich bei ihm meldete, ein Stück Ackerland als Gegenleistung für seine Hilfe bei der Revolution, und diese Taktik erwies sich als äußerst erfolgreich bei den entrechteten Bauern auf dem mexikanischen Land."
 MEX_francisco_pancho_villa_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g5. Juni 1878, in San Juan del Rio, Durango, Vereinigte Mexikanische Staaten§!\n§YMilitärkarriere:§! §gJosé Doroteo Arango Arámbula, besser bekannt unter seinem Pseudonym Francisco Villa oder seinem Spitznamen 'Pancho Villa', ist für die Menschen in Mexiko zu einer lebenden Legende geworden. Sein Abenteuer begann, als Laureano Lopez Negrete, der Besitzer der Sombretillo-Ranch, auf der Doroteo arbeitete, seine ältere Schwester misshandelte. Als Vergeltungsmaßnahme erschoss er Laureano und entzog sich anschließend der Gefangennahme durch die Behörden, woraufhin er in die nahe gelegenen Berge floh, wo er von einer Banditenbande unter der Führung eines Mannes namens Francisco Villa gefunden wurde. Er begleitete die Banditen jahrelang bei ihren Raubzügen und Plünderungen in der Umgebung von Durango, bis Francisco Villa bei einem Feuergefecht erschossen wurde und Doroteo zu seinem Nachfolger an der Spitze der Bande ernannte. Doroteo nahm daraufhin den Namen seines Retters an und setzte seine kriminellen Aktivitäten fort. Als die Führung der Bande gesichert war, beschloss Villa, sich mit Ignacio Parra zusammenzutun, und begann seine Versuche, den von den Grundbesitzern an den Bauern in Chihuahua begangenen Misshandlungen ein Ende zu setzen, manchmal auch mit Gewalt. Ende 1910 schloss er sich dem Movimiento Maderista an, und durch List und Tapferkeit erreichte Pancho Villa die höheren Ränge der mexikanischen Revolutionsarmee mit dem Spitznamen 'Der Zentaur des Nordens" und schaffte es sogar, kurzzeitig Gouverneur von Chihuahua zu werden. Im Jahr 1916 verärgerte er die amerikanische Regierung, nachdem er die Kleinstadt Columbus in New Mexico überfallen hatte, was zu einer Strafexpedition unter der Leitung von John Pershing führte, der Villa trotz aller Bemühungen nicht fassen konnte. Villa hat seither eine wichtige Rolle in der Revolutionsarmee und in der mexikanischen Politik gespielt. Er ist ein angesehenes Mitglied des Generalstabs, auch wenn man in letzter Zeit gesehen hat, dass er sich mehr mit Politik als mit militärischer Strategie beschäftigt.§!\n\n§YAnmerkungen: Mitglied und einer der Hauptkandidaten der Partido Nacional Agrarista."
 MEX_plutarco_elias_calles_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g25. September 1877, in Guaymas, Sonora, Vereinigte Mexikanische Staaten§!\n§YMilitärkarriere:§! §gFrancisco Plutarco Elías Campuzano wurde in einer Familie von Hausbesitzern geboren. 1894 schloss er sein Studium als Lehrer ab und widmete sich seinem Beruf in Hermosillo und Guaynas, während er gleichzeitig versuchte, das Familienunternehmen zu verwalten. Als er nach Agua Prieta zog, ernannte ihn der Gouverneur José María Maytorena zum Abgeordneten. Nach der Decena Trágica begann Calles, Männer aus Agua Prieta für den Widerstand gegen Victoriano Huerta zu rekrutieren, und 1913 schloss er sich den revolutionären Kräften an, um zu kämpfen. Calles unterstand schließlich direkt Alvaró Obregon und wurde Ende 1913 Oberst und Kommandant von Hermosillo. Im Oktober 1914 verteidigte Calles drei Monate lang erfolgreich die Stadt Naco, die er gegen alle Widerstände halten konnte, und wurde deshalb im Februar 1915 zum Brigadegeneral befördert. Mit dem Erfolg des Plan de Agua Prieta und Obregons Aufstieg an die Macht wurde Calles zu dessen Stellvertreter und wurde für die kommenden Jahre zu einem wichtigen Mitglied des Stabs, obwohl er sich in den letzten Jahren immer mehr in die Politik einmischte.§!\n\n§YAnmerkungen: Mitglied und einer der Hauptkandidaten der Partido Nacional Revolucionario.\n-Er hat einen sehr strengen moralischen Standard und sieht sowohl Alkohol als auch Religion als gefährlich für den Geist seiner Soldaten und seines Volkes an."

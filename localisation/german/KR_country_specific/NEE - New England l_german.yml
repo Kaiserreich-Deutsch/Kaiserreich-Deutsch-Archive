@@ -123,9 +123,6 @@ NEE_selective_training_law_tt: "$MODIFIER_WEEKLY_MANPOWER$: §G+750§!\n$MODIFIE
 NEE_limited_recognation1: "Begrenzte Anerkennung"
 NEE_limited_recognation1_desc: "Die Provisorische Regierung wurde in den ersten Monaten des Zweiten Amerikanischen Bürgerkriegs gebildet, als die nordöstlichen Staaten der ehemaligen Vereinigten Staaten die kanadische Regierung um ein offizielles Eingreifen baten. Während es der kanadischen Regierung gelang, die Grenzen Neuenglands davor zu bewahren, in die Hände der kriegführenden Parteien zu fallen, wird die Provisorische Regierung von der internationalen Gemeinschaft kaum anerkannt, und nur wenige sind überzeugt, dass die Provisorische Regierung tatsächlich die letzte Bastion der amerikanischen Demokratie ist."
 
-### Opinion Modifiers ###
-occupied_new_england: "Besetztes Neuengland"
-
 ### Tooltips ###
 NEE_Liberty_Ships_tt: "Schaltet £decision_icon_small §HEntscheidungen§! zur Erweiterung des §CLiberty Ship Programms§! frei"
 NEE_Defence_Stratagem_A_tt: "Schaltet £decision_icon_small §HEntscheidungen§! zur Organisation der §DVerteidigung von Neuengland§! frei"

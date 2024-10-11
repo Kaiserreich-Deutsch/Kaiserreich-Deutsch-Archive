@@ -44,6 +44,9 @@
  POR_regulos: "Hebt Miliz-Divisionen unserer Vasallenhäuptlinge, auch als Regulos bekannt, in Afrika aus."
  POR_zimbabwe_entente: "§RSollten wir uns mit §CSüdafrika§! oder §CRhodesien§! in einem Bündnis befinden, werden wir nicht länger dazu in der Lage sein, §YRhodesien§! zu beanspruchen.§!"
 
+### Flags ###
+ MAF_NoAttack_Portugal: "Mittelafrikanische Aggression eingedämmt"
+ 
 ### Companies ###
  companhia_fabril: "Companhia União Fabril"
  ap_telephone: "Anglo-Portugiesische Telefongesellschaft"
@@ -141,14 +144,6 @@
  german_aristocrat: "Deutscher Aristokrat"
  rightful_heir: "Rechtmäßiger Erbe"
  brazilian_german_heritage: "Brasilianisches und Deutsches Erbe"
-
-### Opinion Modifiers ###
- PORkeptangola: "Konnte Angola halten"
- PORangolaenossa: "Angolanische Frage"
- MAF_Portugal_btfo: "Grenzproblem gelöst"
- MAF_NoAttack_Portugal: "Mittelafrikanische Aggression eingedämmt"
- PORreached38: "Hat 1938 erreicht"
- POR_Jackals: "Portugal hat Olivenza übernommen"
 
 ### Focuses ###
  POR_matters_of_the_realm: "Angelegenheiten des Reiches"
@@ -528,18 +523,12 @@
  POR_miguel_pereira_coutinho: "Miguel Pereira Coutinho"
  POR_raul_augusto_esteves: "Raul Augusto Esteves"
 
- POR_jose_augusto_alves_rocadas: "José Augusto Alves Roçadas"
- POR_eugenio_bilstein_menezes: "Eugénio Bilstein de Menezes"
- POR_joao_estevao_aguas: "João Estêvão Águas"
- POR_artur_carlos_barros_basto: "Artur Carlos de Barros Basto"
- POR_frederico_costa_lopes_silva: "Frederico da Costa Lopes da Silva"
-
  POR_manuel_ortins_torres_de_bettencourt: "Manuel Ortins Torres de Bettencourt"
  POR_guilherme_ivens_ferraz: "Guilherme Ivens Ferraz"
  POR_manuel_sarmento_rodrigues: "Manuel Sarmento Rodrigues"
  POR_americo_de_deus_rodrigues_tomas: "Américo de Deus Rodrigues Tomás"
 
-  POR_jose_augusto_guerra: "José Augusto Lobato Guerra"
+ POR_jose_augusto_guerra: "José Augusto Lobato Guerra"
  POR_luis_augusto_ferreira_martins: "Luís Augusto Ferreira Martins"
  POR_jose_filipe_de_barros_rodrigues: "José Filipe de Barros Rodrigues"
  POR_henrique_linhares_de_lima: "Henrique Linhares de Lima"

@@ -27,10 +27,8 @@
  DOM_trujillo_paternal_autocrat_party: "Patriótica"
  DOM_trujillo_paternal_autocrat_party_long: "Coalicion Patriótica"
 
- DOM_trujillo_2_authoritarian_democrat_party: "Dominicano"
- DOM_trujillo_2_authoritarian_democrat_party_long: "Partido Dominicano"
- DOM_trujillo_2_paternal_autocrat_party: "Dominicano"
- DOM_trujillo_2_paternal_autocrat_party_long: "Partido Dominicano"
+ DOM_trujillo_partido_dominicano: "Dominicano"
+ DOM_trujillo_partido_dominicano_long: "Partido Dominicano"
 
 ### Focuses ###
  DOM_election: "Präsidentschaftswahlen"
@@ -225,37 +223,35 @@
 
 ### Ideas ###
  DOM_depression: "Große Depression"
- DOM_depression_desc: "Die Große Depression, die für die Vereinigten Staaten so verheerend war, war für die Wirtschaft der Dominikanischen Republik fast ebenso zerstörerisch, und die Inkompetenz der früheren Präsidenten des Landes hat das Problem noch verschärft. Während die ökonomische Situation endlich angefangen hat sich zu verbessern, ist eine fortgefahrene Erholung unsicher."
- DOM_angryrich: "Feindselige Elite"
- DOM_angryrich_desc: "Die Politik von Präsident Martínez und die zunehmend populistische Ausrichtung aller großen politischen Organisationen sowie der unkontrollierte Einfluss des Militärs haben dazu beigetragen, dass die Ressentiments in den etablierten Oberschichten des Landes gewachsen sind. Auch wenn diese Wut keine unmittelbare politische Bedrohung darstellt, ist sie doch äußerst schädlich."
- DOM_angryrich_2: "Feindselige Elite"
- DOM_angryrich_2_desc: "Die Politik von Präsident Martínez und die zunehmend populistische Ausrichtung aller großen politischen Organisationen sowie der unkontrollierte Einfluss des Militärs haben dazu beigetragen, dass die Ressentiments in den etablierten Oberschichten des Landes gewachsen sind. Obwohl wir begonnen haben, die Wut und den Einfluss der unzufriedensten Gruppen und Familien zu schwächen, ist die Bedrohung, die sie darstellen, noch nicht vollständig beseitigt."
- DOM_angryrich_3: "Spaltung behoben"
- DOM_angryrich_3_desc: "Während viele besorgt waren, dass er sie vielleicht überlistet, durch ihren Mann, der die Präsidentschaft innehat und daran arbeitet, sie zu beschwichtigen, wurden die Elitefamilien der Dominikanischen Republik zu ihren früheren Machtpositionen zurückversetzt."
- DOM_angryrich_4: "Kontrollierte Elite"
- DOM_angryrich_4_desc: "Während viele besorgt waren, dass er sie vielleicht überlistet, durch ihren Mann, der die Präsidentschaft innehat und daran arbeitet, sie zu beschwichtigen, wurden die Elitefamilien der Dominikanischen Republik zu ihren früheren Machtpositionen zurückversetzt. Der Staat, allerdings, hat daran gearbeitet, ihre Korruption zu begrenzen ohne ihre Unterstützung zu gefährden."
+ DOM_depression_desc_start: "Die Große Depression, die für die Vereinigten Staaten so verheerend war, war für die Wirtschaft der Dominikanischen Republik fast ebenso zerstörerisch, und die Inkompetenz der früheren Präsidenten des Landes hat das Problem noch verschärft."
+ DOM_depression_desc: "$DOM_depression_desc_start$ Während die ökonomische Situation endlich angefangen hat sich zu verbessern, ist eine fortgefahrene Erholung unsicher."
  DOM_depression_bm: "Große Depression"
- DOM_depression_bm_desc: "Die Große Depression, die für die Vereinigten Staaten so verheerend war, war für die Wirtschaft der Dominikanischen Republik fast ebenso zerstörerisch, und die Inkompetenz der früheren Präsidenten des Landes hat das Problem noch verschärft. Während die ökonomische Situation endlich angefangen hat sich zu verbessern, ist mit dem Beginn vom Schwarzen Montag, die Ökonomie der Dominikanischen Republik in eine sogar tieferen Rückgang gefallen."
+ DOM_depression_bm_desc: "$DOM_depression_desc_start$ Während die ökonomische Situation endlich angefangen hat sich zu verbessern, ist mit dem Beginn vom Schwarzen Montag, die Ökonomie der Dominikanischen Republik in eine sogar tieferen Rückgang gefallen."
  DOM_depression_bm_2: "Kampf gegen die Depression"
  DOM_depression_bm_2_desc: "Die Große Depression, die durch den Zusammenbruch am Schwarzen Montag in Deutschland verschärfte, hat die Dominikanische Republik erschüttert und als Antwort, hat die Dominikanische Regierung sich auf ein landesweit beispiellosen Plan, die ökonomische Aktivität zu spornen, verschifft."
  DOM_depression_bm_3: "Anfängliche Erholung"
- DOM_depression_bm_3_desc: "Die Große Depression, die durch den Zusammenbruch am Schwarzen Montag in Deutschland verschärfte, hat die Dominikanische Republik erschüttert und als Antwort, hat die Dominikanische Regierung sich auf ein landesweit beispiellosen Plan, die ökonomische Aktivität zu spornen, verschifft. Sicherlich können einige kleine Anzeichen von Erholung gesehen werden. Es scheint, dass das schlimmste hinter der Republik ist."
+ DOM_depression_bm_3_desc: "$DOM_depression_bm_2_desc$ Sicherlich können einige kleine Anzeichen von Erholung gesehen werden. Es scheint, dass das schlimmste hinter der Republik ist."
  DOM_depression_bm_4: "Ökonomische Erholung"
- DOM_depression_bm_4_desc: "Die Große Depression, die durch den Zusammenbruch am Schwarzen Montag in Deutschland verschärfte, hat die Dominikanische Republik erschüttert und als Antwort, hat die Dominikanische Regierung sich auf ein landesweit beispiellosen Plan, die ökonomische Aktivität zu spornen, verschifft. Glücklicherweise, hat dieser Plan angefangen einen wesentlichen Effekt auf die nationale Ökonomie zu haben, das sich endlich wirklich zu erholen begonnen hat."
+ DOM_depression_bm_4_desc: "$DOM_depression_bm_2_desc$ Glücklicherweise, hat dieser Plan angefangen einen wesentlichen Effekt auf die nationale Ökonomie zu haben, das sich endlich wirklich zu erholen begonnen hat."
  DOM_depression_bm_5: "Normalisierung"
  DOM_depression_bm_5_desc: "Die ökonomische Depression neigt sich dem Ende zu. Das Leben in der Dominikanischen Republik wird wieder normal."
+ DOM_angryrich: "Feindselige Elite"
+ DOM_angryrich_desc_start: "Die Politik von Präsident Martínez und die zunehmend populistische Ausrichtung aller großen politischen Organisationen sowie der unkontrollierte Einfluss des Militärs haben dazu beigetragen, dass der Unmut in den etablierten Oberschichten des Landes gewachsen ist."
+ DOM_angryrich_desc: "$DOM_angryrich_desc_start$ Diese Wut stellt zwar keine unmittelbare politische Bedrohung dar, ist aber äußerst schädlich."
+ DOM_angryrich_2: "Feindselige Elite"
+ DOM_angryrich_2_desc: "$DOM_angryrich_desc_start$ Obwohl wir begonnen haben, die Wut und den Einfluss der unzufriedensten Gruppen und Familien zu schwächen, ist die Bedrohung, die sie darstellen, noch nicht vollständig beseitigt."
+ DOM_angryrich_3: "Spaltung behoben"
+ DOM_angryrich_3_desc: "Während viele besorgt waren, dass er sie vielleicht überlistet, durch ihren Mann, der die Präsidentschaft innehat und daran arbeitet, sie zu beschwichtigen, wurden die Elitefamilien der Dominikanischen Republik zu ihren früheren Machtpositionen zurückversetzt."
+ DOM_angryrich_4: "Kontrollierte Elite"
+ DOM_angryrich_4_desc: "$DOM_angryrich_3_desc$ Der Staat hat sich jedoch bemüht, ihre Korruption zu begrenzen, ohne ihre Unterstützung zu gefährden."
  DOM_labor_brigades: "Christiliche Arbeitsbrigaden"
  DOM_labor_brigades_desc: "Viele Arbeitslosen wurden in Arbeitsbrigaden eingeteilt, die mit öffentlichen Bauprojekten betraut werden und an religiösen Veranstaltungen teilnehmen müssen, um die Moral wiederherzustellen."
- DOM_labor_brigades_2: "Christliche Arbeitsbrigaden"
- DOM_labor_brigades_2_desc: "Viele Arbeitslosen wurden in Arbeitsbrigaden eingeteilt, die mit öffentlichen Bauprojekten betraut werden und an religiösen Veranstaltungen teilnehmen müssen, um die Moral wiederherzustellen."
  DOM_constitution_retained_idea: "Verstärkte Verfassung"
  DOM_constitution_retained_idea_desc: "Die Dominikanische Verfassung von 1924 wurde beibehalten mit einigen kleinen Modifikationen um sicherzustellen, dass es nicht wieder unterdrückt wird von räuberischen Einzelpersonen."
  DOM_constitution_reform_idea: "Moderate Verfassungsreform"
  DOM_constitution_reform_idea_desc: "Die Dominkanische Verfassung von 1924 wurde beibehalten, wenn auch mit wesentlichen Modifizierungen um sicherzustellen, dass es nicht wieder von räuberischen Einzelpersonen unterdrückt wird."
  DOM_newconst_mod_idea: "Die Neue Verfassung"
  DOM_newconst_mod_idea_desc: "Die Dominikanische Republik hat eine neue und hochinnovative Verfassung angenommen, die das fehlerhafte Dokument, dass 1924 eingeführt wurde, ersetzte."
- DOM_newconst_rad_idea: "Die Neue Verfassung"
- DOM_newconst_rad_idea_desc: "Die Dominikanische Republik hat eine neue und hochinnovative Verfassung angenommen, die das fehlerhafte Dokument, dass 1924 eingeführt wurde, ersetzte."
  DOM_land_reform_idea: "Landesreform"
  DOM_land_reform_idea_desc: "Die Dominikanische Republik hat komplett das System für die Landesorganisation reorganisiert und sichergestellt, dass die Kontrolle vom Meisten der produktivsten Plantagen im ganzen Land von den prominentesten plutokratischen Familien des Landes abgenommen werden kann."
  DOM_army_purge_idea: "Massenentlassung"
@@ -263,11 +259,9 @@
  DOM_army_loyal_idea: "Loyale Armee"
  DOM_army_loyal_idea_desc: "Abweichung in der Dominikanischen Armee wurde gründlich eliminiert und ein neuer Kern von kompetenten Offizieren hat die alten korrupten Kriegsherren ersetzt."
  DOM_army_loyal_2_idea: "Unerschütterliche Armeeloyalität"
- DOM_army_loyal_2_idea_desc: "Abweichung in der Dominikanischen Armee wurde gründlich eliminiert und ein neuer Kern von kompetenten Offizieren hat die alten korrupten Kriegsherren ersetzt."
+ DOM_army_loyal_2_idea_desc: "$DOM_army_loyal_idea_desc$"
  DOM_rojo_security_idea: "Departamento de Seguridad"
  DOM_rojo_security_idea_desc: "Die Dominikanische Abteilung für Sicherheit, offiziell Teil des Büros für Auslandsdienst, wurde als das erste Abschirmdienst des Landes gegründet."
- DOM_rojo_security_idea_nolar: "Departamento de Seguridad"
- DOM_rojo_security_idea_nolar_desc: "Die dominikanische Abteilung für Sicherheit, die offiziell zum Auswärtigen Amt gehört, wurde als erste Spionageabwehrbehörde des Landes eingerichtet."
  DOM_political_stability_idea: "Stabile Demokratie"
  DOM_political_stability_idea_desc: "Die Dominikanische Demokratie hat Herausforderungen von möchtegern Tyrannen überstanden und ging gestärkt daraus hervor."
  DOM_rep_security_idea: "Las Lechuzas"
@@ -302,8 +296,6 @@
  DOM_resurg_econ_idea_desc: "Die Dominikanische Wirtschaft ist vollständig zurück und ist einer beispiellosen Menge an Wachstum vollzogen."
  DOM_sewing_seeds_idea: "Saatgut Des Wohlstands"
  DOM_sewing_seeds_idea_desc: "Die Dominikanische Republik bietet staatliche Unterstützung für die Errichtung von Anlagen, die rudimentäre Fertigwaren von den Landwirtschaftsprodukten der Nation herstellt."
- DOM_sewing_seeds_2_idea: "Saatgut Des Wohlstands"
- DOM_sewing_seeds_2_idea_desc: "Die Dominikanische Republik bietet staatliche Unterstützung für die Errichtung von Anlagen, die rudimentäre Fertigwaren von den Landwirtschaftsprodukten der Nation herstellt."
  DOM_marinstitute_idea: "Marineinstitut"
  DOM_marinstitute_idea_desc: "Die Dominikanische Republik errichtete ein zentrales Marineforschungsinstitut."
  DOM_ship_reform: "Integrierte Handelsmarine"
@@ -322,28 +314,10 @@
  DOM_air_combined_idea_desc: "Die Dominikanische Republik stellte eine Anzahl an Reformen ihrer kleinen Lufstreitkräfte fertig."
  DOM_ad_security_idea: "Departamento de Seguridad"
  DOM_ad_security_idea_desc: "Während die alte Rojo Regierung kurzzeitig die Einrichtung eines neuen Sicherheitsdienstes unter der Autorität des Außenministeriums erörterte, wurde der Plan erst jetzt auf Drängen der gemäßigten Mitglieder der Dominikanischen Patriotischen Partei abgeschlossen."
- DOM_ad_security_2_idea: "Departamento de Seguridad"
- DOM_ad_security_2_idea_desc: "Während die alte Rojo Regierung kurzzeitig die Einrichtung eines neuen Sicherheitsdienstes unter der Autorität des Außenministeriums erörterte, wurde der Plan erst jetzt auf Drängen der gemäßigten Mitglieder der Dominikanischen Patriotischen Partei abgeschlossen."
- DOM_ad_security_idea_nolar: "Departamento de Seguridad"
- DOM_ad_security_idea_nolar_desc: "Während die alte Regierung Rojo kurzzeitig die Einrichtung eines neuen Sicherheitsdienstes unter der Autorität des Außenministeriums diskutierte, wurde der Plan erst jetzt auf Drängen der gemäßigten Kräfte innerhalb der Dominikanischen Patriotischen Partei umgesetzt."
- DOM_ad_security_2_idea_nolar: "Departamento de Seguridad"
- DOM_ad_security_2_idea_nolar_desc: "Während die alte Regierung Rojo kurzzeitig die Einrichtung eines neuen Sicherheitsdienstes unter der Autorität des Außenministeriums erörterte, wurde der Plan erst jetzt auf Drängen der gemäßigten Mitglieder der Dominikanischen Patriotischen Partei abgeschlossen."
  DOM_pa_security_idea: "Servicio de Seguridad Militar"
  DOM_pa_security_idea_desc: "Das militärische Geheimdienst, offiziell Teil der Armee, ist das neue Dominikanische staatliche Geheimdienst. Es kämpft gegen alle die sowohl Zuhause als auch im Ausland die Umklammerung der Armee im Dominikanischen Staat unterdrücken würden."
- DOM_pa_security_2_idea: "Servicio de Seguridad Militar"
- DOM_pa_security_2_idea_desc: "Das militärische Geheimdienst, offiziell Teil der Armee, ist das neue Dominikanische staatliche Geheimdienst. Es kämpft gegen alle die sowohl Zuhause als auch im Ausland die Umklammerung der Armee im Dominikanischen Staat unterdrücken würden."
- DOM_pa_security_idea_nolar: "Servicio de Seguridad Militar"
- DOM_pa_security_idea_nolar_desc: "Der militärische Nachrichtendienst, der offiziell zur Armee gehört, ist der neue dominikanische Staatsnachrichtendienst. Er bekämpft all jene im In- und Ausland, die den Einfluss der Armee auf den dominikanischen Staat untergraben wollen."
- DOM_pa_security_2_idea_nolar: "Servicio de Seguridad Militar"
- DOM_pa_security_2_idea_nolar_desc: "Der militärische Nachrichtendienst, der offiziell zur Armee gehört, ist der neue dominikanische Staatsnachrichtendienst. Er bekämpft all jene im In- und Ausland, die den Einfluss der Armee auf den dominikanischen Staat untergraben wollen."
  DOM_tm_security_idea: "Die Neue 42"
  DOM_tm_security_idea_desc: "Die '42', Trujillos Bande von Vollstreckern innerhalb des Militärs und in den Bereichen, die ihm am meisten unterstanden, wurde zu einem formellen Organ des Staates umgestaltet, das sowohl als Geheimpolizei als auch als Spionageabwehr dient."
- DOM_tm_security_2_idea: "Die Neue 42"
- DOM_tm_security_2_idea_desc: "Die '42', Trujillos Bande von Vollstreckern innerhalb des Militärs und in den Bereichen, die ihm am meisten unterstanden, wurde zu einem formellen Organ des Staates umgestaltet, das sowohl als Geheimpolizei als auch als Spionageabwehr dient."
- DOM_tm_security_idea_nolar: "Die Neue 42"
- DOM_tm_security_idea_nolar_desc: "Die '42', Trujillos Bande von Vollstreckern innerhalb des Militärs und in den Bereichen, die ihm am meisten unterstanden, wurde zu einem formellen Organ des Staates umgestaltet, das sowohl als Geheimpolizei als auch als Spionageabwehr dient."
- DOM_tm_security_2_idea_nolar: "Die Neue 42"
- DOM_tm_security_2_idea_nolar_desc: "Die '42', Trujillos Bande von Vollstreckern innerhalb des Militärs und in den Bereichen, die ihm am meisten unterstanden, wurde zu einem formellen Organ des Staates umgestaltet, das sowohl als Geheimpolizei als auch als Spionageabwehr dient."
  DOM_pa_discipline_idea: "Populäre Politische Disziplin"
  DOM_pa_discipline_idea_desc: "Das Dominikanische Volk ist einer großen menge an politischer Propaganda unterworfen um Loyalität zur Nation und der regierenden Partei anzuregen."
  DOM_pa_party_idea: "Partisanoffiziere"
@@ -360,20 +334,18 @@
  DOM_new_normal_idea_desc: "Politische Realitäten in der Dominikanischen Republik sind gewechselt worden. Die Nation öffnete ihre Türen für die Privatwirtschaft, insbesondere für den Agrarsektor, wie nie zuvor."
  DOM_buildingship_dom_idea: "Bau Eines Kapitalschiffes"
  DOM_buildingship_dom_idea_desc: "Die Dominikanische Republik wechselt ihre ganze wirtschaftliche Vorrichtung für den Bau eines massiven neuen Kapitalschiffes."
- DOM_buildingship_dom_idea2: "Bau Eines Kapitalschiffes"
- DOM_buildingship_dom_idea2_desc: "Die Dominikanische Republik wechselt ihre ganze wirtschaftliche Vorrichtung für den Bau eines massiven neuen Kapitalschiffes."
  DOM_buildingships_dom_idea: "Bau von Kreuzern"
  DOM_buildingships_dom_idea_desc: "Die Dominikanische Republik wechselt ihre ganze wirtschaftliche Vorrichtung für den Bau einer neuen Flotte an modernen Kreuzern."
- DOM_buildingships_dom_idea2: "Bau von Kreuzern"
- DOM_buildingships_dom_idea2_desc: "Die Dominikanische Republik wechselt ihre ganze wirtschaftliche Vorrichtung für den Bau einer neuen Flotte an modernen Kreuzern."
  DOM_navconst_idea: "Marinebauprogramm"
  DOM_navconst_idea_desc: "Die Dominikanische Republik investiert den Bau von kleinen Militärschiffen."
- DOM_haitioccupation_idea: "Besatzung von Haiti"
  DOM_cosinvasion_idea: "Planung Einer Geheimen Invasion"
  DOM_cosinvasion_idea_desc: "Costa Rica plant heimlich die Invasion eines Landes, das seinen Zorn auf sich gezogen hat."
 
 ### Opinion Modifiers ###
- DOM_anti_haitian_1: "Latent Antihaitianismo"
+ DOM_anti_haitian: "Latent Antihaitianismo"
+
+### Resistance Modifiers ###
+ DOM_occupation_of_haiti: "Besetzung von Haiti"
 
 ### Country Flags ###
  DOM_rojo_election: "Die Rojos Haben Die Wahlen Gewonnen"
@@ -386,31 +358,18 @@
  DOM_estrella_checkmate: "Estrella Ehrte Seine Versprechen Den Eliten Nicht"
  DOMHAI_summitdecline: "Haiti Hat Den Gipfel Abgelehnt"
  DOM_false_bypass: "Haiti Hat Ökonomische Sanktionen Eingeführt"
- DOM_integratehai: "Strebt Danach, Haiti Zu Integrieren"
- DOMHAI_HAI_pushbackflag: "Haiti Wehrte Sich Unserer Aggresiven Politischen Haltung"
 
 ### Tooltips ###
  DOM_bypass_tooltip: "Dieser Fokus wird freigeschaltet, sobald unsere politische Richtung finalisiert wurde"
  DOM_bypass_tooltip2: "Dieser Fokus wird freigeschaltet, sobald unsere politische Richtung finalisiert wurde und der Schwarze Montag geschehen ist"
  DOM_bypass_tooltip3: "Dieser Fokus wird folgendes am Ende des Verfassungskonvents freischalten"
- DOM_const_tooltip: "§GDer Konsens des Konvents wird umgesetzt§!"
- DOM_purge_tooltip: "§GDer Bonus vom 'Ermächtige Loyale Offiziere' Fokus ist im Wesentlichen verbessert worden§!"
- DOM_conscription_tooltip: "§GDieser Fokus wird Wehrpflichtgesetze aktivieren\n\n§!Wir können eventuell unser $MODIFIER_WAR_SUPPORT_FACTOR$ verbessern bevor wir diesen Fokus starten.\n\n"
- DOM_corruption_tooltip: "Dieser Fokus wird freigeschaltet, sobald die Feindseligkeit der Elite wenigstens teilweise abgenommen hat"
- DOM_labourrelief_tooltip: "§GDieses Event wird helfen, die Depression zu beenden§!\n"
- DOM_trujillogov_tooltip: "§GDiese Fokuse werden freigeschaltet, sobald alle vorherigen Events abgeschlossen wurden§!\n"
- DOM_montecristi_tooltip: "Dieser Fokus wird abgeschlossen, sobald die Monte Cristi-Affäre passiert"
- DOM_rampup_tooltip: "Wir haben uns entschieden, die Grenze zu militarisieren"
- DOMHAI_americanmed_tooltip: "Die Amerikanische Schlichtung wurde beendet"
- DOMHAI_ameffect_tooltip: "§GDie Effekte dieses Fokuses entsprechen dem, was die Amerikaner wählen werden§!"
- DOMHAI_volunteers: "Eine kleine Truppe an Freiwilligen kam in unserer Hauptstadt an"
- DOMCOS_reb_tooltip: "Eine kleine Menge an Demokratisch erwachte in der Dominikanischen Republik"
- DOM_advancedships_tt: "Eine neue fortgeschrittene Flotte wird in Santo Domingo aufgestellt"
- DOMHAI_reb_tt: "Rebellische Miliz wird spawnen"
-
-### Decisions ###
- DOM_integration_category: "Haitianische Integrationsentscheidungen"
- DOM_integratedecision: "Assimilierung der zivilen Verwaltung"
+ DOM_const_tooltip: "§GDer Konsens des Konvents wird umgesetzt!§!"
+ DOM_purge_tooltip: "§GDer Bonus vom \"$DOM_empower_loyal_officers\" Schwerpunkt wurde erheblich verbessert!§!"
+ DOM_conscription_tooltip: "§GDieser Fokus wird Wehrpflichtgesetze aktivieren!§!\n\nWir können eventuell unser $MODIFIER_WAR_SUPPORT_FACTOR$ verbessern bevor wir diesen Fokus starten.\n\n"
+ DOM_labourrelief_tooltip: "§GDieses Event wird helfen, die Depression zu beenden!§!\n"
+ DOM_trujillogov_tooltip: "§GDiese Fokuse werden freigeschaltet, sobald alle vorherigen Events abgeschlossen wurden.§!\n"
+ DOMHAI_volunteers: "Eine kleine Truppe an Freiwilligen kam in unserer Hauptstadt an!"
+ DOMCOS_reb_tooltip: "Eine kleine Truppe an demokratischen Rebellen erhebt sich in der Dominikanischen Republik!"
 
 ### Bookmark ###
  DOM_KR_gathering_storm_desc: "Die amerikanische Besatzung der Dominikanischen Republik endete 1924, und bald darauf wurde die volle politische Kontrolle wiederhergestellt, doch schon wenige Jahre später sah sich die neue demokratische Verfassung des Landes inneren und äußeren Herausforderungen gegenüber. Während die Demokratie in der Nation bisher überlebt hat, hat die Spaltung der lange Zeit regierenden Roten Partei das Überleben der Verfassung erneut in Gefahr gebracht."
@@ -449,7 +408,7 @@
 
  domrep.6.t: "Estrella Ersetzt Trujillos Beauftragte"
  domrep.6.d: "Überzeugt, dass er tatsächlich Trujillo in einem Machtkampf besiegen kann, hat Präsident Estrella Personen in seinem Kabinett, die ursprünglich auf Trujillos Geheiß ernannt wurden, entlassen. Trujillo will sicherlich zu dieser Beleidigung antworten, aber es bleibt jedoch abzuwarten, inwieweit er Estrella rügen wird."
- domrep.6.a: "So Beginnt Es."
+ domrep.6.a: "So beginnt es..."
 
  domrep.7.t: "Verbündete Nicht Mehr"
  domrep.7.d: "Während einer großen Versammlung von Republicano-Unterstützern, die meisten aus den höheren Klassen, befand sich das kleine Polizeitrupp, das dieses Event beaufsichtigte, überschwommen mit streitlustigen Soldaten die eindeutig loyal zu Trujillo waren. Es wurde bald darauf klar, dass diese Soldaten nur ein kleiner Anteil der vielen war, die die Stadt betraten um die zivile Regierung zu übernehmen. Genau wie damals, als Martínez kurzerhand aus der Regierung geworfen wurde, bleiben die städtischen Bediensteten, einschließlich der Polizei, der zivilen Verwaltung weitgehend treu, und die öffentliche Meinung ist entschieden gegen Trujillos neueste Machtergreifung."
@@ -511,7 +470,7 @@
  domrep.18.t: "Eine Militarisierte Ökonomie?"
  domrep.18.d: "Die Streitkräfte sind bemerkenswert gut in der Eliminierung von Abfall durch Disziplin. Ähnlicherweise behaupten viele in den Streitkräfte inklusive including General Trujillo, dass das ganze Land in einer ähnlichen Weise regiert werden soll. Das heißt, die Regulierung sollte sich nicht auf individuelle ökonomische Probleme fokussieren, noch sollte die Wirtschaftsbürokratie versuchen, Kleinigkeiten zu kontrollieren, denn sowas führt tatsächlich zu ökonomischem Schaden. Vielmehr muss das grundlegende wirtschaftliche Verhalten der Gesellschaft und des Einzelnen aggressiv gestaltet werden. Die gleiche allumfassende Hierarchie mit ihrer Ordnung und strengen Disziplin muss sich in der gesamten Nation widerspiegeln."
  domrep.18.a: "Dies Ist Eine Schlechte Idee."
- domrep.18.b: "Tu Es."
+ domrep.18.b: "Tut es!"
 
  domrep.19.t: "Reorganisieren des Außenministeriums"
  domrep.19.d: "Die Diplomaten im Ausland sind bislang größtenteils unbeeinflusst durch den Aufstieg unseres Regimes geblieben und viele sind zweifellos sympathisch gegenüber unserer Besatzung. Die Notwendigkeit, die meisten dieser Diplomaten zu ersetzen, liegt auf der Hand, doch wie dies geschehen soll, ist umstritten. Einige sind der Meinung, dass der Übergang schrittweise erfolgen sollte, wobei unseren Diplomaten die Sicherheit ihrer Positionen zugesichert und lediglich Loyalität und die treue Erfüllung ihrer Pflichten verlangt wird. Andere schlagen vor, den gesamten diplomatischen Kern neu zu organisieren, um diejenigen, deren Loyalität gesichert ist, aufzuwerten und diejenigen, die im Verdacht stehen, abweichende Ideen zu hegen, an den Rand zu drängen. Trujillo und seine Anhänger schlagen vor, dass nichts weniger als absolute Loyalität akzeptabel ist und dass alle Diplomaten mit zweifelhafter Loyalität entlassen und ihr Wohnsitzland um ihre Auslieferung ersucht werden sollte."
@@ -542,12 +501,6 @@
  domrep.23.d_2: "Das Militär muss immer an erster Stelle stehen, und heute wurde das größte Monument dieser Dominanz fertiggestellt. Ein neues Stromnetz wurde schnell von Verbänden der Arbeitsbrigaden der Armee errichtet, dass verschiedene militärische Installationen und Regierungsgebäude im Ganzen Land verbindet. Viele ländliche Regionen bleiben allerdings ganz ohne Strom da die Kosten einfach zu hoch lagen."
  domrep.23.d_3: "Hauptsächlich wegen unseres großen finanziellen Engagements, war der Elektrifizierungsprozess ein totaler Erfolg, denn es wurde pünktlich fertiggestellt und alle Gesellschaftsstufen waren zufrieden. Die Kosten waren hoch aber es scheint, dass sich die Investition völlig ausgezahlt hat."
  domrep.23.a: "Gut."
-
-#domrep.24 removed
-
-#domrep.25 removed
-
-#domrep.26 removed
 
  domrep.27.t: "Besondere Wahlen"
  domrep.27.d_1: "Ohne eine Art von Demokratie, wird das Volk sicherlich zunehmend unruhig. Um diese Umvermeidbarkeit zu verhindern, muss sogar das höchste Amt gewählt werden. Allerdings muss jeder Kandidat nicht nur akzeptable sein, sondern auch von den höchsten Ämtern der Partei gezogen werden. Zu diesem Zweck wurden zwei Kandidaten für die Wahl zugelassen: Carlos Manuel 'Pilindo' Bonetti Burgos, ein Anwalt und kulturelle Ikone, und General Ramon Vasquez Rivera, beide unter der Fahne der Dominikanischen Partei."
@@ -583,11 +536,9 @@
 
  domrep.303.t: "Die Bauarbeiten Nehmen Fahrt Auf"
  domrep.303.d: "Nach monatelanger Störung der Ökonomie des Landes um die Bauarbeiten einer Flotte, moderner Kreuzer, zu unterbringen, ist die Produktion voll im Gange."
- domrep.303.a: "No Pain No Gain."
 
  domrep.304.t: "Kreuzer Fertiggestellt"
  domrep.304.d: "Nach fast einem Jahr Bauzeit und einer Produktionskapazität des Landes, das sich stark auf dieses Projekt fokussierte, ist unsere neue Flotte fertiggestellt."
- domrep.304.a: "Es Zahlte Sich am Ende Aus."
 
  domrep.31.t: "In Die Lüfte Steigen"
  domrep.31.d: "Um anzufangen brauchen unsere Lufstreitkräfte sowohl Flugzeuge als auch Luftstützpunkte. Während das letztere eindeutig viel wichtiger den Kräften selbst ist, ist unser gewaltiger Mangel an Luftinfrastruktur ein Problem, dass viel leichter zu beheben ist."
@@ -623,27 +574,27 @@
 
  domrep.37.t: "Haiti Fordert Eine Wiedergutmachung"
  domrep.37.d: "Als Antwort zum Vorfall in Monte Cristi, forderte Haiti eine offizielle Entschuldigung von unserer Regierung sowie eine finanzielle Wiedergutmachung für Haiti selbst und die betroffenen Individuellen; Als Gegenleistung, haben sie versprochen wenn wir akzeptieren, den Zustrom von Migranten über die Grenze vorübergehend zu kontrollieren und mit uns auf eine dauerhafte Lösung hinzuarbeiten. Ablehnung ihrer Forderungen, wird mit einer starken Antwort getroffen, versichern sie uns. Auch wenn diese Drohung nur ein Bluff sein könnte, wird die bloße Möglichkeit eines Krieges eine gewisse Befestigung der Grenze erforderlich machen, wenn wir ihre Bitte ablehnen."
- domrep.37.a: "Lehne Ab Und Sichere Die Grenze."
+ domrep.37.a: "Lehnet ab Und sichert die Grenze."
  domrep.37.b: "Akzeptiere die Forderungen."
 
  domrep.38.t: "Haiti Äußert Bedenken"
  domrep.38.d: "Die Antwort von Haiti über den Vorfall in Monte Cristi war ziemlich beunruhigend - ein simpler Ausdruck an Bedenken, keine Forderungen oder Verurteilungen, keine Kriegsdrohung wie es manche befürchteten. Berichte in den Grenzen sagen etwas ganz anderes, dann einige Soldaten berichten Bewegungen von Haitianischen Einheiten in den Artibonite-Tal, was eine Invasion auslösen könnte. Eventuell sind diese Meldungen falsch oder vielleicht ist die Haitianische Antwort nur eine List. Wenn diese stimmen, wird die Wahrscheinlichkeit einer diplomatischen Schlichtung zu der Grenzauseinandersetzung in Reichweite sein."
- domrep.38.a: "Es Könnte Eine List Sein; Sichert Die Grenze."
+ domrep.38.a: "Es Könnte Eine List Sein... Sichert die Grenze."
  domrep.38.b: "Schiebt Zu Einer Permanenten Schlichtung."
 
- domrep.39.t: "Haiti Erbittet [DOM_backer.GetNameDef]"
- domrep.39.d: "Haiti hat [DOM_backer.GetAdjective] um Schlichtung der Monte Cristi-Affäre und die Auseinandersetzungen in der Artibonite Region im Allgemeinen erbitten. Wir können nur auf die Antwort von [DOM_backer.GetAdjective] zu dieser Anfrage warten."
- domrep.39.a: "Wir Warten Und Schauen."
+ domrep.39.t: "Haiti Erbittet [FROM.GetNameDef]"
+ domrep.39.d: "Haiti hat [FROM.GetAdjective] um Schlichtung der Monte Cristi-Affäre und die Auseinandersetzungen in der Artibonite Region im Allgemeinen erbitten. Wir können nur auf die Antwort von [FROM.GetAdjective] zu dieser Anfrage warten."
+ domrep.39.a: "Wir Warten Und Schauen..."
 
  domrep.40.t: "Die Dominikaner Bereiten Sich Auf Den Krieg Vor"
  domrep.40.d: "Unsere Drohung wurde nicht über die leichte Schulter genommen. Sie lehnten unser Ultimatum ab und fingen an, schnell defensive Positionen entlang der Grenze zu errichten und halten ihre Reserven für den Fall bereit, dass die Insel tatsächlich von einem Krieg heimgesucht wird. Sollen wir es wie versprochen angehen und Hispaniola zerfetzen oder uns von diesem politischen Konflikt zurücktreten?"
- domrep.40.a: "Und Krieg Sollen Sie Nur Haben."
+ domrep.40.a: "Und Krieg können sie haben!"
  domrep.40.b: "Zurückziehen."
 
  domrep.41.t: "Die Dominikaner ignorieren unsere Drohung"
  domrep.41.d: "Unser Ultimatum wurde völlig ignoriert, und die einzige Antwort war fast nur Spott. Es scheint, dass die Dominikanische Republik so wenig über unser Wort als auch unser Volk denkt, Das Wort "Bluff" ist ihnen förmlich über die Lippen gekommen."
  domrep.41.a: "Gib Diesen Idioten Die Waffe."
- domrep.41.b: "Wir Richtig Sie Lagen - Zurückziehen."
+ domrep.41.b: "Wir Richtig Sie Lagen - Zurückziehen!"
 
  domrep.43.t: "Die Dominikaner Ignorieren Unsere Forderungen"
  domrep.43.d: "Die Dominikanische Antwort auf unsere Forderungen der Wiedergutmachung war eine voll Spott. Sie haben es völlig ignoriert, und forderte uns geradezu heraus, zu antworten."
@@ -676,13 +627,11 @@
  domrep.48.t: "Haiti Erklärt Den Krieg"
  domrep.48.d_1: "Auch wenn es scheinte, ein zahnloser Bluff zu der Zeit zu sein, hat Haiti seine Kriegsdrohung wahr gemacht. Es scheint, dass Hispaniola zu einem Blutbad für sowohl den Haitianer als auch dem Dominikaner wird."
  domrep.48.d_2: "Wie es schon befürchtet wurde, erklärte Haiti uns den Krieg. Hoffentlich halten unsere Festungen entlang der Grenze und unser Land bleibt intakt. Trotzdem wird Hispaniola in Blut gebaden sowohl für den Haitianer als auch dem Dominikaner."
- domrep.48.a: "Hispaniola wird auseinandergerissen."
+ domrep.48.a: "Hispaniola wird auseinandergerissen..."
 
  domrep.49.t: "Haiti Zieht sich Zurück"
  domrep.49.d: "Es scheint, dass Haiti das Problem von weiter behandeln will. Sie haben sich völlig zurückgezogen von dieser eher unglücklichen diplomatischen. Es bleibt zu hoffen, dass dieses Problem der Vergangenheit angehört und die haitianische Schwäche aufgedeckt wird, damit eine günstige Grenzregelung erreicht werden kann."
- domrep.49.a: "Sie sind so rückgratlos wie immer."
-
-#domrep.50 removed
+ domrep.49.a: "Sie sind so rückgratlos wie immer!"
 
  domrep.53.t: "Haiti erlässt Sanktionen"
  domrep.53.d: "Als Antwort auf unsere Ignorierung ihrer Forderungen, hat Haiti ökonomische Sanktionen erlassen, indem es macht was es kann, den Handel zwischen unseren beiden Nationen zu begrenzen. Während dies ihnen soviel wie uns weh tun wird, der Ziel dieses Zuges ist eindeutig: Druck auf eine De-Eskalation und einer Abrechnung."
@@ -702,28 +651,28 @@
  domrep.56.d: "Haiti hat unser Diplomatieangebot abgelehnt. Während Spannungen nach der ganzen Zeit gesunken sind, ohne einer permanenten Lösung in Sicht, könnten Spannungen bald wieder steigen."
  domrep.56.a: "Ihr Verlust."
 
- domrep.57.t: "Die [DOM_backer.GetAdjective] Schlichtung"
- domrep.57.d: "Die [DOM_backer.GetAdjective] hat zugestimmt, die Grenzstreitigkeiten zu schlichten. Alle Vorbehalte, die sowohl wir als auch unsere Feinde jenseits der Grenze gehabt haben mögen, müssen nun ausgeräumt werden, denn wir können den Zorn Amerikas nicht riskieren."
+ domrep.57.t: "Die [FROM.GetAdjective] Schlichtung"
+ domrep.57.d: "Die [FROM.GetAdjective] hat zugestimmt, die Grenzstreitigkeiten zu schlichten. Alle Vorbehalte, die sowohl wir als auch unsere Feinde jenseits der Grenze gehabt haben mögen, müssen nun ausgeräumt werden, denn wir können den Zorn Amerikas nicht riskieren."
  domrep.57.a: "Wir Warten Und Schauen."
 
- domrep.58.t: "Die [DOM_backer.GetAdjective] Verweigern zu Schlichten"
- domrep.58.d: "Die [DOM_backer.GetAdjective] haben die Schlichtung von den Streitigkeiten an der Grenze verweigert. Spannungen blieben hoch seit der Ankündigung von Amerika und eine unruhige Pattsituation siedelte sich um das Gebiet an."
+ domrep.58.t: "Die [FROM.GetAdjective] Verweigern zu Schlichten"
+ domrep.58.d: "Die [FROM.GetAdjective]-Regierung hat die Schlichtung von den Streitigkeiten an der Grenze verweigert. Spannungen blieben hoch seit der Ankündigung von Amerika und eine unruhige Pattsituation siedelte sich um das Gebiet an."
  domrep.58.a: "Nun, das wird sicher interessant."
 
- domrep.59.t: "Die [DOM_backer.GetAdjective] Schließt Sich Haiti An"
- domrep.59.d: "Wie wir es erwarteten, die [DOM_backer.GetAdjective] schlossen sich zur Seite ihrer haitianischen Landsleute an. Während wir zu dieser Entscheidung protestieren wollen, können wir nichts machen. Sonst würden wir natürlich idiotisch eine Konfrontation mit [DOM_backer.GetNameDef] selbst riskieren."
- domrep.59.a: "Wir Haben keine Wahl..."
+ domrep.59.t: "[FROM.GetNameDefCap] stellt sich an Haitis Seite"
+ domrep.59.d: "Wie wir es erwarteten, die [FROM.GetAdjective] schlossen sich zur Seite ihrer haitianischen Landsleute an. Während wir zu dieser Entscheidung protestieren wollen, können wir nichts machen. Sonst würden wir natürlich idiotisch eine Konfrontation mit [FROM.GetNameDef] selbst riskieren."
+ domrep.59.a: "Wir haben keine Wahl..."
 
- domrep.60.t: "Die [DOM_backer.GetAdjective] Schließen sich uns an"
- domrep.60.d: "[DOM_backer.GetNameDefCap] haben sich unserer Seite völlig angeschlossen in den Streitigkeiten um die Grenzen mit der Dominikanischen Republik und beendete einen jahrzehntelangen Konflikt. Während die Dominikaner uns diese Entscheidung Übel nehmen, sind die [DOM_backer.GetAdjective] viel zu mächtig um sich effektiv gegen sie zu widerstehen."
+ domrep.60.t: "[FROM.GetNameDefCap] schließen sich uns an"
+ domrep.60.d: "[FROM.GetNameDefCap] haben sich unserer Seite völlig angeschlossen in den Streitigkeiten um die Grenzen mit der Dominikanischen Republik und beendete einen jahrzehntelangen Konflikt. Während die Dominikaner uns diese Entscheidung Übel nehmen, ist die [FROM.GetAdjective] Armee viel zu mächtig um sich effektiv gegen sie zu widerstehen."
  domrep.60.a: "Endlich, eine Ausländische Macht widerfährt uns Gerechtigkeit!"
 
  domrep.61.t: "Die Amerikaner schließen sich uns an"
- domrep.61.d: "Während dies ein Jahrhundert her war, rufte der amerikanische Süden nach der Annektierung unserer Nation, scheint es, dass die [DOM_backer.GetAdjective] nichts anderes ist als unser Gegner; sie haben eindeutig die Haitianischen Forderungen um das umstrittene Land im Artibonite-Tal abgelehnt, dass alle Gebiete an uns vergeben werden"
+ domrep.61.d: "Während dies ein Jahrhundert her war, rufte der amerikanische Süden nach der Annektierung unserer Nation, scheint es, dass die [FROM.GetAdjective] nichts anderes ist als unser Gegner; sie haben eindeutig die Haitianischen Forderungen um das umstrittene Land im Artibonite-Tal abgelehnt, dass alle Gebiete an uns vergeben werden"
  domrep.61.a: "Herzlichsten Dank."
 
- domrep.62.t: "[DOM_backer.GetNameDefCap] schließen sich der dominikanischen Seite an"
- domrep.62.d: "[DOM_backer.GetNameDefCap], wie es angesichts des derzeitigen Zustands der schwarzen Bevölkerung in diesem Land zu erwarten gewesen wäre, hat sich völlig der Seite der Dominikanischen Republik angeschlossen, mit der Warnung, dass wir alle Forderungen um die umstrittenen Gebieten fallen lassen sollen oder diese sonst ihren Zorn riskieren."
+ domrep.62.t: "[FROM.GetNameDefCap] schließen sich der dominikanischen Seite an"
+ domrep.62.d: "[FROM.GetNameDefCap], wie es angesichts des derzeitigen Zustands der schwarzen Bevölkerung in diesem Land zu erwarten gewesen wäre, hat sich völlig der Seite der Dominikanischen Republik angeschlossen, mit der Warnung, dass wir alle Forderungen um die umstrittenen Gebieten fallen lassen sollen oder diese sonst ihren Zorn riskieren."
  domrep.62.a: "Die Amerikaner verarschen uns wieder einmal..."
 
  domrep.63.t: "Eine Neue Idee"
@@ -743,7 +692,7 @@
  domrep.66.t_1: "Ende Des Patts"
  domrep.66.t_2: "Versucht Aber Wahr"
  domrep.66.d_1: "Die Sanktionen, die von der Haitianischen Regierung in Kraft gesetzt wurden, und das darauffolgende nicht zufriedenstellende Ergebnis des Monte Cristi-Vorfalls hatte eine schwere ökonomische Auswirkung über unsere geteilte Insel. Während Haiti nicht bereit ist zu Verhandeln, außer wenn ihre ursprünglichen Forderungen erfüllt sein werden, scheint es, dass wir die Fragen der umstrittenen Gebiete und der haitianischen Migration unabhängig voneinander lösen müssen, wenn wir sie lösen wollen.\nWährend einige immer noch glauben, dass wir einfach kräftiger sein sollten in dem Schieben von einer diplomatischen Entschließung zu den anstehenden Problemen, rufen andere, dass wir geheime Vorbereitungen für einen Krieg gegen Haiti treffen sollten, mit der Sicht so weit, dass alle Versuche in der Diplomatie ineffektiv waren."
- domrep.66.d_2: "Da [DOM_backer.GetAdjective] nicht bereit ist, in dem Konflikt zu vermitteln, müssen wir die Probleme der umstrittenen Gebiete und der haitianischen Migration wohl auf eigene Faust lösen.\nWährend einige immer noch der Meinung sind, dass wir einfach energischer auf eine diplomatische Lösung der anstehenden Probleme drängen sollten, rufen andere dazu auf, geheime Kriegsvorbereitungen gegen Haiti zu treffen, da bisher alle diplomatischen Versuche erfolglos geblieben sind."
+ domrep.66.d_2: "Da [FROM.GetAdjective] nicht bereit ist, in dem Konflikt zu vermitteln, müssen wir die Probleme der umstrittenen Gebiete und der haitianischen Migration wohl auf eigene Faust lösen.\nWährend einige immer noch der Meinung sind, dass wir einfach energischer auf eine diplomatische Lösung der anstehenden Probleme drängen sollten, rufen andere dazu auf, geheime Kriegsvorbereitungen gegen Haiti zu treffen, da bisher alle diplomatischen Versuche erfolglos geblieben sind."
  domrep.66.a: "Bereiten Wir Uns Heimlich Auf Den Krieg."
  domrep.66.b: "Suche Nach Einer Kleinen Beilegung."
 
@@ -757,10 +706,10 @@
  domrep.68.a: "In Den Krieg!"
  domrep.68.b: "Das Können Wir Nicht."
 
- domrep.69.t: "[DOM_backer.GetAdjective] Schlichtung Abgeschlossen"
- domrep.69.d_1: "Die [DOM_backer.GetAdjective] haben sich in den Auseinandersetzungen um das Artibonite-Tal und das gesamte Grenzgebiet voll auf unsere Seite gestellt. Während unser zweifellos verzweilfelter Nachbar sich wünscht zu protestieren, Amerika ist einfach zu mächtig für sie zu widerstehen. Jetzt muss nur noch ein formeller Gebietsaustausch organisiert und ein umfassender Grenzvertrag unterzeichnet werden. Dies ist ein großer Tag für unsere Nation!"
- domrep.69.d_2: "Die [DOM_backer.GetAdjective] haben ein Kompromiss in den Auseinandersetzungen um das Artibone-Tal und das gesamte Grenzgebiet zusammengestellt. Während dies nicht unserer Nation als auch unser Nachbar erfreut, ist so ein gemäßigtes Ergebnis nicht schmerzhaft für beide Parteien zu akzeptieren. Jetzt muss nur noch ein formeller Gebietsaustausch organisiert und ein umfassender Grenzvertrag unterzeichnet werden."
- domrep.69.d_3: "Die [DOM_backer.GetAdjective] haben sich in den Auseinandersetzungen um das Artibone-Tal und das gesamte Grenzgebiet gegen uns gewendet. Während wir komplett verzweifelt über dieses Ergebnis sind und wir uns wünschen zu protestieren, ist Amerika einfach ein zu mächtiger Gegner um zu widerstehen. Jetzt muss nur noch ein formeller Gebietsaustausch organisiert und ein umfassender Grenzvertrag unterzeichnet werden. Dies ist ein schlechter Tag für unsere Nation."
+ domrep.69.t: "[FROM.GetAdjective] Schlichtung Abgeschlossen"
+ domrep.69.d_1: "Die [FROM.GetAdjective]-Regierung hat sich in den Auseinandersetzungen um das Artibonite-Tal und dem gesamte Grenzgebiet voll auf unsere Seite gestellt. Während unser zweifellos verzweilfelter Nachbar sich wünscht zu protestieren, Amerika ist einfach zu mächtig für sie zu widerstehen. Jetzt muss nur noch ein formeller Gebietsaustausch organisiert und ein umfassender Grenzvertrag unterzeichnet werden. Dies ist ein großer Tag für unsere Nation!"
+ domrep.69.d_2: "Die [FROM.GetAdjective]-Regierung hat einen Kompromiss in den Auseinandersetzungen um das Artibone-Tal und dem gesamte Grenzgebiet zusammengestellt. Während dies nicht unserer Nation als auch unser Nachbar erfreut, ist so ein gemäßigtes Ergebnis nicht schmerzhaft für beide Parteien zu akzeptieren. Jetzt muss nur noch ein formeller Gebietsaustausch organisiert und ein umfassender Grenzvertrag unterzeichnet werden."
+ domrep.69.d_3: "Die [FROM.GetAdjective]-Regierung hat sich in den Auseinandersetzungen um das Artibone-Tal und dem gesamte Grenzgebiet gegen uns gewendet. Während wir komplett verzweifelt über dieses Ergebnis sind und wir uns wünschen zu protestieren, ist Amerika einfach ein zu mächtiger Gegner um zu widerstehen. Jetzt muss nur noch ein formeller Gebietsaustausch organisiert und ein umfassender Grenzvertrag unterzeichnet werden. Dies ist ein schlechter Tag für unsere Nation."
  domrep.69.a: "Exzellent."
  domrep.69.b: "So Soll Es Sein."
  domrep.69.c: "Verdammt."
@@ -773,85 +722,23 @@
  domrep.71.d: "Schockierenderweise, hat Haiti lediglich eine Verurteilung unserer Aktionen ausgestellt und sich nicht dazu entschieden, einen Krieg zu starten. Unsere Position im Grenzgebiet ist sicherlich gestärkt worden und wir können jetzt zu einer begrenzten Siedlung auf hartem Boden fortfahren."
  domrep.71.a: "Gut!"
 
- domrep.75.t: "Haitianischer Widerstand"
- domrep.75.d: "Haiti wurde verärgert mit unserer Ablehnung, ihnen genügend Zeit um die Situation in den Grenzgebieten auszuwerten zu geben und haben, wie schon vorhin angekündigt, as they previously threatened, has sich vollständig aus den Gesprächen zurückgezogen."
- domrep.75.a: "Wir Müssen Wohl ein Anderen Weg Finden."
+ domrep.80.t: "Dominikanischer Widerstand"
+ domrep.80.d_1: "Der Dominikanische Widerstand zu unserer Kontrolle deren Regierung wächst mit der Zeit. Unsere Streitkräfte können gerade noch die Kontrolle über unser angebliches Marionettenregime geschweige denn die Zivilbevölkerung halten. Wenn die Situation weiter außer Kontrolle gerät, dann haben wir einen maßstäblichen Aufstand in unseren Händen."
+ domrep.80.d_2: "Die Dominikaner werden unruhig. Selbst der von uns selbst eingesetzte Präsident [DOM.GetLeader] ist schwer zu kontrollieren. Außerdem sind unsere Streitkräfte im Lande ständigen Schikanen durch die dominikanische Zivilbevölkerung ausgesetzt. Insgesamt wird die Lage immer schwieriger. Vielleicht haben wir es sogar irgendwann mit einer Rebellion zu tun."
+ domrep.80.a: "Das darf nicht außer Kontrolle geraten."
 
- domrep.76.t: "Haiti Faltet Sich"
- domrep.76.d: "Nach Tagen von konsistentem Druck, Verhandlungen fortzuführen, hat Haiti angekündigt, dass es seine eigene interne Auswertung von der Situation in den Grenzgebieten fertiggestellt hat und bereit ist, Verhandlungen erneut zu beginnen that."
- domrep.76.a: "Vorwärts!"
+ domrep.82.t: "Dominikanische Rebellion"
+ domrep.82.d: "Unser Regime in der Dominikanischen Republik ist heute zusammengebrochen, da Fraktionen, die über den Ausgang des Krieges verärgert sind, die Kontrolle über die Regierung übernommen haben. Da sie erkannt haben, dass ein Krieg unvermeidlich war, haben sie vorsorglich damit begonnen, ihre Milizen an die Grenze zu verlegen und eine offizielle Kriegserklärung gegen unsere Regierung abzugeben."
+ domrep.82.a: "Ein weiterer Krieg also."
 
- domrep.77.t: "Schicksal Von Haiti"
- domrep.77.d: "Die Besatzung hat sich als kostspielig erwiesen und wir müssen uns jetzt über Haitis finalen Schicksal entscheiden. Einige streben nach der ganzen Annektierung, während andere darauf bestehen, dass es wieder zu einem Marionettenstaat wird, aber diesmal mit engerer Überwachung und Kontrolle."
- domrep.77.a: "Eine Eng Überwachte Kontrolle."
- domrep.77.b: "Arbeite An Der Integration."
-
- domrep.78.t: "Bevölkerungsauswertung in den Grenzgebieten fertiggestellt"
- domrep.78.d: "In enger Zusammenarbeit mit der Dominikanischen Republik und mit großem Aufwand, wurde die Bevölkerung in den Grenzgebieten, auch ihre ethnischen Zusammensetzung, akkurat ausgewertet für das erste Mal in der Geschichte. Jetzt, müssen wir uns vorbereiten für den Austausch dieser Bevölkerungen in einigen umstrittenen Gebieten."
- domrep.78.a: "Geschichte Wird Gemacht."
-
- domrep.79.t: "Der Austausch"
- domrep.79.d: "Die langsame Annäherung an abgelegene Dörfer entlang der Grenze, um sie sprachlich über ihre Situation auf der falschen Seite der Grenze zu informieren, und die Annäherung an bestimmte haitianische Migranten, die in die Dominikanische Republik zurückgeführt werden sollen, waren kostspielig. Der Prozess kommt allerdings endlich dem Ende an, mit dem Umzug der betroffenen Bevölkerung zu ihrer angesehenen Seite der Grenze. Die Situation im Grenzegebiet wurde viel deutlicher und ein Konflikt dort ist jetzt viel unwahrscheinlicher."
- domrep.79.a: "Jetzt für die Grenze selbst."
-
- domrep.80.t: "Widerstand zum neuen Regime"
- domrep.80.d_1: "Selbst im Inneren ist das neue Marionettenregime instabil. Bei jeder Möglichkeit, macht die zivile Verwaltung alles was es tun kann um Haitische Kontrolle zu untergraben und viele von der allgemeinen Öffentlichkeit sind nicht erfreut mit der Demütigung von einer Niederlage und wünschen sich, dass Haiti zurück in ihre Schranken gewiesen wird. Ärger braut sich auf und wir wünschen es uns eventuell nicht, dass es aufhört."
- domrep.80.d_2: "Selbst im Inneren ist das neue Marionettenregime instabil. President Pedro Henríquez Ureña, der mangels geeigneter Kandidaten von den Haitianern wegen seiner scheinbar weltoffenen Einstellung eingesetzt wurde, widersetzt sich fast offen seinen haitianischen Marionettenherren und schwächt deren Kontrolle über das Land bei jeder Gelegenheit. Jenseits nur einer unglücklichen Marionette, sind viele nicht erfreut mit der Demütigung von einer Niederlage und wünschen sich, dass Haiti zurück in ihre Schranken gewiesen wird. Ärger braut sich auf und wir wünschen es uns eventuell nicht, dass es aufhört."
- domrep.80.a: "Haiti Wird Nicht Begeistert Sein."
-
- domrep.81.t: "Dominikanischer Widerstand"
- domrep.81.d_1: "Der Dominikanische Widerstand zu unserer Kontrolle deren Regierung wächst mit der Zeit. Unsere Streitkräfte können gerade noch die Kontrolle über unser angebliches Marionettenregime geschweige denn die Zivilbevölkerung halten. Wenn die Situation weiter außer Kontrolle gerät, dann haben wir einen maßstäblichen Aufstand in unseren Händen."
- domrep.81.d_2: "Die Dominkaner werden unruhig. Selbst der Präsident den wir selber ernannten, Pedro Henríquez Ureña, zeigt sich als schwer zu kontrollieren. Außerdem erleiden die Streitkräfte in dem Land stetig Belästigungen von der Dominikanischen Zivilbevölkerung. Im Ganzen wird die Situation zunehmend schwierig. Vielleicht könnten wir eine Rebellion in unseren Händen bekommen in einem gewissen Punkt."
- domrep.81.a: "Dies Muss Nicht Außer Kontrolle Geraten."
-
- domrep.82.t: "Aufstand"
- domrep.82.d_1: "Ein ausgeprägter Sinn von sowohl Optimismus als auch der Festnahme übernahm unsere Nation heute, als das Puppenregime, das uns von Haiti auferlegt wurde, gerstürzt wurde. Die neue Regierung ernannte den Schriftsteller und den symphatischen politischen Aktivist Pedro Henríquez Ureña zur Präsidentschaft und erklärte Haiti, mit dem Versprechen, freie und offene Wahlen nach dem Sieg des Krieges zu ermöglichen."
- domrep.82.d_2: "Ein ausgeprägter Sinn von sowohl Optimismus als auch der Festnahme übernahm unsere Nation heute, als das Puppenregime, das uns von Haiti auferlegt wurde, gerstürzt wurde. Die neue Regierung erlaubte allowed Pedro Henríquez Ureña Präsident zu bleiben auf Kosten des bekannten geheimen Widerstands zu den Haitischen Besetzern und erklärte Haiti den Krieg, mit dem Versprechen freie und offene Wahlen nach dem Sieg des Krieges zu ermöglichen."
- domrep.82.a: "Wir Werden Frei Sein!"
-
- domrep.83.t: "Dominikanische Rebellion"
- domrep.83.d: "Unser Marionettenregime in der Dominikanischen Republik ist heute gefallen da Gruppen, die sauer über das Ergebnis des Krieges waren, die Kontrolle unserer Regierung übernommen haben. Als sie realisierten, dass Krieg unvermeidlich war, haben diese vorsorglich angefangen, ihre Milizen an die Grenze zu bewegen und haben eine offizielle Kriegserklärung gegen unsere Regierung ausgestellt."
- domrep.83.a: "Dann Halt Ein Weiterer Krieg."
-
- domrep.84.t: "Widerstand gegen unser Neues Regime"
- domrep.84.d: "In leisen Tönen, spricht das Volk unserer Nation von Aufruhr, von einer Regierung die feindlich gegenüber ihren Dominikanischen Herren ist, und der Wiederherstellung unseres Nationalstolzes. Solche Gerüchte sind gefährlich, und die Männer, anscheinend radikale Noiristen, die angeblich unsere Nation 'wiederherstellen' wollen ebenso."
- domrep.84.a: "Den Dominikanern Wird Das Nicht Gefallen ."
-
- domrep.85.t: "Haitischer Widerstand"
- domrep.85.d: "Der Widerstand gegen unsere Nation ist gewachsen und eine große Menge an Angst floß durch die ganze Nation. Vor allem Port-Au-Prince ist angespannt und scheint sogar einen eher wachsamen Gefühl zu erregen. Etwas, vielleicht sogar eine kleine Rebellion, kommt, und wir müssen uns vorbereiten."
- domrep.85.a: "Dies Sollte Nicht Außer Kontrolle Geraten."
-
- domrep.86.t: "Aufstand"
- domrep.86.d: "Immer wieder haben die Dominikaner unsere Nation missachtet und Graueltaten gegen unser Volk verübt. Der Krieg war nur das neulichste in einer langen Liste von Ungerechtigkeit die gegen uns verübt wurde. Nicht mehr! Heute, ist die radikalste Fraktion der politischen Noiristen bis an die Zähne bewaffnet aus ihrem Versteck hervorgetreten und hat die Hauptstadt eingenommen, hat der Dominikanischen Republik den Krieg erklärt und erklärte den Dichter Carl Brouard als Präsident."
- domrep.86.a: "Lasst Uns Rache Haben."
-
- domrep.87.t: "Haitische Rebellion"
- domrep.87.d: "Unser Marionettenregime in Haiti ist heute gefallen da Gruppen, die sauer über das Ergebnis des Krieges waren, die Kontrolle unserer Regierung übernommen haben. Als sie realisierten, dass Krieg unvermeidlich war, haben diese vorsorglich angefangen, ihre Milizen an die Grenze zu bewegen und haben eine offizielle Kriegserklärung gegen unsere Regierung ausgestellt."
- domrep.87.a: "Dann Halt Ein Weiterer Krieg."
-
- domrep.88.t: "Das Schicksal Der Dominikanischen Republik"
- domrep.88.d: "Endlich, die Waffen ruhen, die Dominikanische Republik wurde besiegt. Unter dem aufmerksamen Auge unserer Soldaten, fangen die Haitianer an eine mehr zustimmende Regierung zu formieren und Vorbereitungen werden getroffen für den partiellen Abzug unserer Streitkräfte."
- domrep.88.a: "Problem Gelöst!"
-
+ domrep.84.t: "Haitianischer Widerstand"
+ domrep.84.d: "Der Widerstand gegen unser Regime scheint zu wachsen, denn im ganzen Land herrscht ein Gefühl der Angst. Die Lage in Port-Au-Prince ist besonders angespannt, und die Luft scheint sogar eine gewisse Vorsicht walten zu lassen. Etwas, vielleicht sogar eine Rebellion, steht bevor, und wir müssen uns darauf vorbereiten."
+ 
+ domrep.86.t: "Haitianischer Widerstand"
+ domrep.86.d: "Unser Regime in Haiti ist heute zusammengebrochen, da Fraktionen, die über den Ausgang des Krieges verärgert sind, die Kontrolle über die Regierung übernommen haben. Da sie erkannt haben, dass ein Krieg unvermeidlich war, haben sie vorsorglich damit begonnen, ihre Milizen an die Grenze zu verlegen und eine offizielle Kriegserklärung gegen unsere Regierung abzugeben."
+ 
  domrep.89.t: "Haiti In Die Schranken Gewiesen"
  domrep.89.d: "Endlich. Die Waffen ruhen, Haiti wurde besiegt. Unter dem aufmerksamen Auge unserer Soldaten, fangen die Haitianer an eine mehr zustimmende Regierung zu formieren und Vorbereitungen werden getroffen für den partiellen Abzug unserer Streitkräfte."
- domrep.89.a: "Problem Gelöst!"
-
- domrep.90.t: "Das Ende Der Rebellion"
- domrep.90.d: "Die Dominikanische Rebellion wurde völlig erledigt un mit dem Ende des Aufruhrs, müssen wir die Dominikanische Republik wieder neuaufbauen. Nun aber, da sich die Marionettenregime als unfähig erwiesen haben, die Ordnung aufrechtzuerhalten, sind die einstigen Randgruppen, die die vollständige Annexion der Dominikanischen Republik fordern, lauter geworden, und zumindest im Moment scheint die Integration des Gebiets unsere einzige Option zu sein."
- domrep.90.a: "Beginne den Integrationsprozess."
-
- domrep.91.t: "Erinnerungen von 1856"
- domrep.91.d: "Sowie die Dreifaltigkeit zu der Unabhängigkeit unserer Nation von Haiti so lange führte, haben wir es jetzt befreit von dem gleichen zeitlosen Unterdrücker. Selbst Haiti ist in unserer Kontrolle und wir wären Dummköpfe dies abzutreten. Fürs Erste, sollten wir fortfahren unsere Gegner einzunehmen. Langsam allerdings, sollten wir beginnen Haiti in unsere Republik zu integrieren oder ein viel enger kontrollierteres Puppenregime erschaffen, denn nur so kann dieser Konflikt wirklich beendet werden."
- domrep.91.a: "Besetze Sie Fürs Erste."
-
- domrep.92.t: "Triumph"
- domrep.92.d: "Während unsere tapferen Soldaten durch Santo Domingo marschieren, wurde ein großer Fels von den Schultern unserer Nation gehoben. Einige Monate zuvor, wurden wir erniedrigt, unser Nationalstolz zerbrach. Jetzt stehen wir triumphierend. Natürlich, können wir diese Belohnung nocht abtreten. Die Schulter der Dominikanischen Republik wurde wieder zu einem Teil Haitis."
- domrep.92.a: "Beginne den Integrationsprozess."
-
- domrep.93.t: "Das Ende Der Rebellion"
- domrep.93.d: "Die Haitische Rebellion wurde völlig erledigt, und mit dem Ende des Aufruhrs, müssen wir Haiti wieder neuaufbauen. Jetzt allerdings, da Marionettenregimes sich als ineffektiv für die Aufrechterhaltung der Ordnung bewiesen haben, sobald die Randstimmen, die nach der völligen Annektierung von Haiti lauter werden, und während der Besatzung fortfahren müssen während eine konkretere Entscheidung getroffen wird, ist ein Ausblick einer Annektierung immer verlockend."
- domrep.93.a: "Besetze sie fürs Erste."
 
  domrep.94.t: "Beunruhigende Nachrichten von Costa Rica"
  domrep.94.d: "In einer großen Rede vor den Menschen in San José ein paar Tage zuvor, scheint der Costa Ricanische Präsident José Figueres Ferrer eine Überzeugung anzudeuten, aggresiv gegen Regimes, die nicht seiner Ideologie entsprechen, zu kämpfen. Er geht sogar so weit, unsere faire Nation als ein möglicher eifriger Gegner anzudeuten. Mit seiner Verkündung einer neue Allianz von Demokratischen Staaten in Zentralamerika und der Karibik heute, wurde unsere Regierung von der Angst eines Konfliktes verzehrt.\n\nWährend Costa Rioca keine Militärmacht ist, könnte es trotzdem eine Gefahr unserer nationalen Sicherheit stellen und falls es zu einem öffentlichen Krieg kommen sollte, werden wahrscheinlich aus unserer Bevölkerung die, die Ferrers Ideen unterstützen, die Waffen gegen uns aufnehmen. Glücklicherweise haben wir einen Plan: Ferrer ein für alle Mal ein Ende setzen. Es wird mindestens eine Woche dauern bis der Plan verwirklicht wird, und nur Gott weiß was dieser Verrückte davor machen wird."
@@ -886,13 +773,10 @@
  DOM_DEF: "die Dominikanische Republik"
 
  DOM_totalist: "Dominikanische Sozialistische Republik"
- DOM_totalist_ADJ: "Dominikanisch"
  DOM_totalist_DEF: "die Dominikanische Sozialistische Republik"
  DOM_syndicalist: "Dominikanische Sozialistische Republik"
- DOM_syndicalist_ADJ: "Dominikanisch"
  DOM_syndicalist_DEF: "die Dominikanische Sozialistische Republik"
  DOM_radical_socialist: "Dominikanische Sozialistische Republik"
- DOM_radical_socialist_ADJ: "Dominikanisch"
  DOM_radical_socialist_DEF: "die Dominikanische Sozialistische Republik"
 
 ### Characters ###

@@ -2423,17 +2423,10 @@
  HOL_has_instability_NOT: "Hat nicht Nationalgeist §H$HOL_idea_instability$§!"
  HOL_lose_ideas_tt: "§RDie Wiederherstellung der Demokratie wird bedeuten, dass die auf diesem Weg gewonnenen Nationalgeiste verwirkt werden!§!"
 
-### Relations ###
- HOL_german_trade_tolerated: "Toleriert deutschen Handel"
- HOL_german_trade_blocked: "Blockiert deutschen Handel"
- HOL_trademission: "Gelockerte Handelsschranken"
- HOL_syndicalist_diplo_mission: "Kleine diplomatische Mission"
- HOL_not_recognising_country: "Ablehnung der diplomatischen Anerkennung"
- HOL_diplomatic_row: "Diplomatischer Eklat"
+### Opinion Modifiers ###
  HOL_nationalised_our_property: "Verstaatlichtes Bürgervermögen"
  HOL_raided_embassy: "Erlaubter Überfall auf unsere Botschaft"
  HOL_belgodutch_friendship: "Belgisch-Niederländische Freundschaft"
- hol_likes_govt: "Regierungs Beliebtheit"
 
 ### Netherlands Decisions ###
  HOL_geopolitical_actions: "Außenpolitik"

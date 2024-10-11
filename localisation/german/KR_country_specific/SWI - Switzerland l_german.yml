@@ -567,7 +567,6 @@ SWI_disorganised_army_desc: "Ohne starke Führung oder ein starkes Mandat des Vo
 ### Intro Screen ### 
  SWI_country_intro_header: "Der Staat Schweiz"
  SWI_country_intro_content: "Die Schweizerische Eidgenossenschaft erlebte im 19. Jahrhundert eine Krise. In mehreren Kantonen setzten sich liberale Kräfte durch, die mehr Demokratie und mehr Zentralismus forderten. Dies stieß auf den Widerstand der katholischen, konservativ dominierten Kantone, die sich 1845 im Sonderbund zusammenschlossen. 1847 brach der Sonderbundskrieg aus, aus dem die Liberalen als Sieger hervorgingen. 1848 wurde eine Bundesverfassung ratifiziert, die den losen Bund der Kantone in einen föderalen Staat mit einer neuen Bundeshauptstadt in Bern verwandelte. Die neue Verfassung schuf neue Institutionen wie den Bundesrat, die Bundesversammlung und das Bundesgericht. Die Schweiz blieb während des gesamten Weltkrieges neutral, obwohl es verschiedene innenpolitische Konflikte zwischen deutsch- und französischsprachigen Schweizern gab. Hinzu kamen wirtschaftliche Probleme, da das Land vollständig von kriegführenden Nationen umgeben war. Die radikale Linke erhielt in dieser Zeit viel Unterstützung, und 1919 versuchte ein von der Arbeiterbewegung ausgerufener Streik in Genf, größere soziale Veränderungen durchzusetzen. Der Versuch scheiterte an der Angst vor der Ausbreitung des französischen Syndikalismus und seiner anschließenden Unterdrückung durch die Schweizer Regierung, aber in seinem Gefolge wurden soziale Reformen begonnen, die höhere Löhne und kürzere Arbeitstage mit sich brachten. Im Jahr 1919 wurde das Proporzsystem eingeführt. Die konservativen Freisinnigen verloren ihre Mehrheit, während die Sozialdemokraten stärker wurden. Bis in die 1930er Jahre hinein wurde die Innenpolitik durch den Konflikt zwischen Sozialdemokraten und Konservativen bestimmt. Die Kämpfe zwischen den Gemeinschaften in der Schweiz nehmen nun mehr politische Werte an: Französischsprachige sind eher sozialistisch, Deutsche eher konservativ und Italiener eher klerikal. Wird die zunehmende Streitlust in Europa Folgen für die neutrale Eidgenossenschaft haben?"
-swiss.41.a: "Vorwärts!"
 
  SWI_guide: "§MFrieden und Versöhnung§! (§SSozialdemokratisch§! / §lSozial Liberal§! / §mMarkt Liberal§! / §cSozial Konservativ§!)\n£white_dot Entscheiden Sie sich für die Auflösung der lokalen Regierungen in 'Syndikalistische Subversion am Werk in der Romandie'.\n£white_dot Akzeptieren Sie die französischen Forderungen, wenn sie ihr Ultimatum stellen. Nach ein paar Tagen wird der Schwerpunkt \"Frieden und Versöhnung\" umgangen.\n£white_dot Warten Sie bis zu den Wahlen 1939, um Ihre bevorzugte Partei zu wählen.\n§CHinweis: Die Franzosen haben eine 10-prozentige Chance, uns zu Marionetten zu machen, so dass wir dieselbe Ideologie haben wie sie, nutzen Sie die Spielregel§! \"Schweizer Konzession Haute-Savoie\" §Cum dies zu vermeiden§!.\n\n§MÖsterreichische Allianz/Deutsche Hilfe§! (§SSozialdemokratisch§! / §lSozialliberal§! / §mMarktliberal§! / §cSozialkonservativ§!)\n£white_dot Entscheiden Sie sich für die Auflösung der lokalen Regierungen in 'Syndikalistische Subversion am Werk in der Romandie!'.\n£white_dot Suchen Sie Schutz, wenn die Franzosen ein Ultimatum stellen.\n£white_dot Es wird ein Ereignis erscheinen, bei dem man entweder §gDeutschland§! oder §YÖsterreich§! bitten kann. Wenn keiner existiert oder keiner zustimmt, werden wir in Ruhe gelassen und der Pfad §MFeinde auf allen Seiten§! wird freigeschaltet.\n£white_dot Warten Sie bis zu den Wahlen 1939, um Ihre bevorzugte Partei zu wählen.\n\n§MBeugt euch Frankreich§! (§oTotalisten§! / §rSyndikalisten§!)\n£white_dot Entscheiden Sie sich für die Einhaltung der Verfassung in "'Syndikalistische Subversion am Werk in der Romandie'.\n£white_dot Lassen Sie die Revolutionäre in 'Sozialisten versuchen, die Kontrolle über die Romandie zu übernehmen' weiter nach Osten marschieren.\n£white_dot Vervollständigen Sie den Schwerpunkt \"Referendum: Abschaffung der Bundesregierung\", damit die §rSPdS§! eine neue Regierung bilden.\n£white_dot Etwa 5 Monate später wird die Veranstaltung 'Der Unionsrat ruft zur formellen Debatte auf' erscheinen.\nEntscheiden Sie sich dafür, Jakob Herzog gewinnen zu lassen und den Schwerpunkt \"Eine starke Hand ist nötig\" zu vervollständigen, um uns zu §oTotalisten§! zu machen.\nEntscheiden Sie sich für den Sieg von Jules Humbert-Droz, damit wir §rSyndikalist§! bleiben.\n£white_dot Nach dem Abschluss von \"Gründe die Helvetische Kommune\" oder \"Eine starke Hand ist nötig\" können wir eine neue Flagge wählen oder die aktuelle behalten.\n\n§MFeinde auf allen Seiten§! (§NNational Populisten§!)\n£white_dot Entscheiden Sie sich für die Einhaltung der Verfassung in 'Syndikalistische Subversion am Werk in der Romandie'.\n£white_dot Lassen Sie die Romandie unter sozialistische Kontrolle geraten in 'Sozialisten versuchen, die Kontrolle über die Romandie zu übernehmen'.\n£white_dot Setzen Sie den Fokusbaum fort, um §NEugen Bircher§! an die Regierung zu bringen. Dies schaltet ein Minispiel frei, um seine Macht zu sichern, indem Sie 80% Parteipopularität für §NSVV§! erreichen. Sollten Sie scheitern, wird der Bundesrat unter der §cSozialkonservativen KKP§! wiederhergestellt und Sie befinden sich auf dem Pfad §MFrieden und Versöhnung§!"
 
@@ -1392,11 +1391,11 @@ SWI_radical_socialist_party_long: "Partei der Arbeit der Schweiz"
 
 ### Opinion Modifiers ###
 SWI_austrian_ties: "Österreichisch-Schweizerische Bande"
-SWI_italian_ties: "Italienisch-Schweizerische Bande"
-SWI_gave_back_romandie: "Hat Hochsavoyen zurückgegeben"
-SWI_not_gave_back_romandie: "Hat Hochsavoyen nicht zurückgegeben"
-SWI_refused_alliance: "Verweigerte eine Allianz"
 SWI_refused_voralberg: "Respektiertes Österreichisches Vorarlberg"
+ SWI_FRA_coop: "Schweizerisch- Französische Zusammenarbeit"
+ SWI_FRA_friendship: "Schweizerisch- Französische Versöhnung"
+ SWI_FRA_negotiations_fail: "Gescheiterte Verhandlungen"
+ SWI_traitors: "Anerkennung der Kommune"
 
 ### Decisions ###
 SWI_maintain_peace_mission: "Ordnung in Hochsavoyen wiederherstellen"
@@ -1471,23 +1470,18 @@ SWI_internationale_desc: "Unsere französischen Verbündeten waren eine große H
 ### Other Stuff ###
 SWI_conquest_decisions: "Schaltet §YGroßschweiz§! Entscheidungen frei"
 SWI_romandie_confrontation: "§RDies wird eine Konfrontation mit der Schweiz auslösen und könnte zu einem Krieg führen.§!"
-SWI_FRA_coop: "Schweizerisch-französische Zusammenarbeit"
-SWI_FRA_friendship: "Schweiz-Französische Versöhnung"
 SWI_romandy_outcome: "Wir müssen den Ausgang der Savoyen-Krise abwarten, um unsere politische Situation zu bestimmen."
 SWI_romandy_starter: "§RDer politische Feuersturm in Hochsavoyen muss sofort beseitigt werden.§!"
 SWI_choose_an_alliance: "Wir müssen uns zunächst einen möglichen Verbündeten suchen, bevor wir dies weiter verfolgen."
 SWI_AUS: "Österreich hat uns unterstützt"
 SWI_ITA: "Italien hat uns unterstützt"
 swissair: "Swissair"
-SWI_FRA_negotiations_fail: "Gescheiterte Verhandlungen"
 SWI_foreign_volunteers: "Sie bekommen §Y6§! Miliz-Divisionen, die aus unorganisierten ausländischen Freiwilligen gebildet werden.\n"
 SWI_swiss_ski_troops: "Sie bekommen §Y3§! Gebirgs-Divisionen.\n"
 SWI_swiss_border_troops: "Sie bekommen §Y6§! Miliz-Divisionen, um Ihre Grenzverteidigung zu bemannen.\n"
 SWI_GER_alliance: "Wir haben uns mit Deutschland verbündet"
-SWI_traitors: "Die Kommune anerkennen"
 SWI_totalist_win: "Totalisten haben die Unterstützung der Bevölkerung erhalten"
 SWI_syndicalist_win: "Syndikalisten haben die Unterstützung der Bevölkerung erhalten"
-SWI_complete_betrayal: "Hat uns verraten!"
 SWI_AUS_alliance: "Wir haben uns mit Österreich verbündet"
 SWI_ITA_alliance: "Wir haben uns mit Italien verbündet"
 SWI_bend_france: "Wir haben uns dem französischen Willen gebeugt"

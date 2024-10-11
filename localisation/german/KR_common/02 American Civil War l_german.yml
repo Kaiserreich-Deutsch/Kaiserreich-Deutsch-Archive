@@ -3,29 +3,14 @@
 ## Übersetzt von Thylon ##
 
 ### Opinion Modifiers ###
-WIFRP: "Kanada hat uns Puerto Rico gegeben"
-ACW_help_from_entente: "Unterstützt uns im Bürgerkrieg"
-ACW_entente_helping: "Sie im Bürgerkrieg unterstützen"
-USA_new_england_units: "Vier Militia-Einheiten werden in New England erhoben"
-ACW_units_recalled: "Soldaten aus dem Bürgerkrieg werden im Notfall wieder mobilisiert"
+ACW_occupied_new_england: "Besetzte Neuengland"
+ACW_entente_helping: "Unterstützet sie im Bürgerkrieg"
 
+### Ideas ###
 ACW_federal_front_idea: "Gegen die Föderalen ankämpfen"
 ACW_syndicalist_front_idea: "Gegen die Syndikalisten ankämpfen"
 ACW_longist_front_idea: "Gegen die Longisten ankämpfen"
 ACW_pacific_front_idea: "Gegen die Pazifikstaaten ankämpfen"
-
-### World Tension ###
-american_civil_war_threat: "Zweiter Amerikanischer Bürgerkrieg"
-
-### Tooltips ###
-ACW_liberia_rally: "Wir sollten unsere Leute versammeln um Liberia zu schützen"
-ACW_panama_garrison_tooltip: "Die Panama Garrison kehren nach Amerika zurück"
-ACW_chinese_marines_tooltip: "Die Marines aus China kehren nach Amerika zurück"
-PSA_rockies_ceasefire: "In den Rocky Mountains wurde ein Waffenstillstand vereinbart"
-ACW_reinforcment_tooltip: "Verstärkungen müssen eintreffen"
-ACW_convert_destroyers_tooltip: "Wir sollten die Schiffe zu Zerstörern umwandeln"
-ACW_convert_cruisers_tooltip: "Wir sollten die Schiffe zu Kreuzern umwandeln"
-ACW_entente_support: "Entente Berater"
 
 ACW_support_usa: "Die Föderale Regierung unterstützen"
 ACW_support_usa_tt: "(§Y[USA.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$"
@@ -36,29 +21,31 @@ ACW_support_psa_tt: "(§Y[PSA.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$
 ACW_support_aus: "Die Longisten-Regierung unterstützen"
 ACW_support_aus_tt: "(§Y[TEX.GetNameWithFlag]§!) $volunteer_limit_plus_two_tt$"
 
+ACW_fired_up: "Angefeuert!"
+ACW_fired_up_desc: "Unsere Streitkräfte sind angefeuert und bereit, den Feind anzugreifen!"
+ACW_times_up: "Es dauert zu lange!"
+ACW_times_up_desc: "Der Bürgerkrieg hat zu lange gedauert, mit zu wenig Hoffnung auf Fortschritt. Es hat begonnen, unsere Streitkräfte zu belasten"
+
+### World Tension ###
+american_civil_war_threat: "Zweiter Amerikanischer Bürgerkrieg"
+
+### Tooltips ###
+ACW_chinese_marines_tooltip: "Die Marines aus China kehren nach Amerika zurück"
+PSA_rockies_ceasefire: "In den Rocky Mountains wurde ein Waffenstillstand vereinbart"
+
+USA_new_england_units: "Vier Militia-Einheiten werden in New England erhoben"
+ACW_units_recalled: "Soldaten aus dem Bürgerkrieg werden im Notfall wieder mobilisiert"
+
 ACW_miss_ceasefire: "Mississippi Waffenstillstand"
 ACW_plains_ceasefire: "Great Plains Waffenstillstand"
 ACW_rocky_ceasefire: "Rocky Mountain Waffenstillstand"
 ACW_is_recruiting: "Rekrutiert die Miliz anderswo"
 ACW_recruit_units: "[?total_units_to_spawn|G0] Militia-Einheiten werden ausgehoben."
-ACW_recruit_5_rebels: "§G5§! Rebelleneinheiten werden rekrutiert."
-ACW_three_units_capital: "In der Hauptstadt werden drei Notreserveeinheiten aufgestellt"
-ACW_six_units_raised: "§G6§! Zusätzliche Militia- und Infanterieeinheiten werden rekrutiert"
-USA_capital_moved: "Die Hauptstadt wurde gewechselt"
-ACW_fired_up: "Angefeuert!"
-ACW_fired_up_desc: "Unsere Streitkräfte sind angefeuert und bereit, den Feind anzugreifen!"
-ACW_times_up: "Es dauert zu lange!"
-ACW_times_up_desc: "Der Bürgerkrieg hat zu lange gedauert, mit zu wenig Hoffnung auf Fortschritt. Es hat begonnen, unsere Streitkräfte zu belasten"
 ACW_once_the_war_begins: "Wenn der Bürgerkrieg beginnt:"
-ACW_gain_core_on_state: "Wenn ein Nachbarstaat Kern ist: §H[Root.GetNameDef]§!:"
 
 CP_25_PP_25: "£pol_power §Y25§! £command_power §Y25§!"
 CP_25_PP_25_blocked: "£pol_power §R25§! £command_power §R25§!"
 CP_25_PP_25_tooltip: "Es kostet $CP_25_PP_25_blocked$ um die Entscheidung zu treffen"
-
-2000_infantry_equipment_1: "£rifle_texticon §H2000§!"
-2000_infantry_equipment_1_blocked: "£rifle_texticon §R2000§!"
-2000_infantry_equipment_1_tooltip: "Es kostet $2000_infantry_equipment_1_blocked$, um diese Entscheidung zu treffen."
 
 ### State Modifiers ###
 AFP_state_support_low: "AFP Control: §GLow§!"
@@ -117,11 +104,6 @@ ACW_break_deal_with_devil_desc: "Es ist Zeit für unseren vorübergehenden Waffe
 
 USA_relocate_capital_civil_war: "Die Hauptstadt relokalisieren"
 
-USA_emergency_reserve: "Notreserven aufrufen"
-PSA_emergency_reserve: "Notreserven aufrufen"
-CSA_emergency_reserve: "Notreserven aufrufen"
-TEX_emergency_reserve: "Notreserven aufrufen"
-
 ACW_federal_front: "An der föderalen Front kämpfen"
 ACW_syndicalist_front: "An der syndikalistischen Front kämpfen"
 ACW_longist_front: "An der longistischen Front kämpfen"
@@ -129,8 +111,6 @@ ACW_pacific_front: "An der pazifischen Front kämpfen"
 
 ACW_recruitment_tooltip: "Verfügbare Staaten zum rekrutieren"
 ACW_recruit_in_state: "Rekrutiere [From.GetACWDivisionCount] Militia in [From.GetName]"
-
-ACW_gets_event_uprising: "Erhält Event '§HResistance Uprising in [?revolt_state_var.GetName]§!'."
 
 ### Set Up Events ###
 amcivwar.1.t.president: "Präsident Reed flieht nach Chicago"
@@ -405,11 +385,10 @@ amcivwar.156.g: "Die militärische Besatzung fortsetzen"
 amcivwar.157.t: "Amerikanisches Land zurückgegeben"
 amcivwar.157.d.supported: "[From.GetNameDefCap], Getreu ihrem Versprechen, uns während des Bürgerkriegs zu unterstützen, hat sie uns einen Großteil ihres besetzten amerikanischen Territoriums zurückgegeben."
 amcivwar.157.d.notsupported: "[From.GetNameDefCap]besetzte während des Bürgerkriegs eine ganze Menge amerikanisches Territorium. Jetzt hat sich ihre Regierung an uns gewandt und einen Großteil davon ohne Fragen an ihren „rechtmäßigen Eigentümer“ zurückgegeben."
-amcivwar.157.a: "Wir schätzen es"
+amcivwar.157.a: "Wir schätzen es."
 
-amcivwar.158.t: "Amerikanisches Land zurückgegeben"
+# uses amcivwar.157.t / .a
 amcivwar.158.d: "Unsere kanadischen Verbündeten haben uns wortgetreu fast ihr gesamtes besetztes amerikanisches Territorium übergeben."
-amcivwar.158.a: "Wir schätzen es"
 
 amcivwar.159.t: "Eine neue amerikanische Regierung"
 amcivwar.159.d: "Wenn die ehemaligen Regierungen in Trümmern liegen, müssen wir etwas aus dem Alten herausholen. Wie soll die neue Regierung aussehen?"
@@ -512,11 +491,6 @@ amcivwar.227.t: "Amerikanisches Equipment beschlagnahmen"
 amcivwar.227.d: "Als die Amerikaner die Insel verlassen, haben sie große Mengen an Ausrüstung auf den Philippinen zurückgelassen. Die philippinische Armee befürwortet die Beschlagnahme der Ressourcen, während sie unbewacht sind, aber die Regierung befürchtet, was dies für die Beziehungen zwischen den beiden Ländern bedeuten könnte. "
 amcivwar.227.a: "Beschlagnahmt das Equipment"
 amcivwar.227.b: "Wir sollten freundlich bleiben"
-
-amcivwar.228.t: "Die amerikanische Mission auf die Philippinen"
-amcivwar.228.d: "Der Krieg hat die US-Regierung gezwungen, alle verfügbaren Einheiten zurückzurufen. Die amerikanischen Streitkräfte auf den Philippinen sind der US-Regierung und Douglas MacArthur immer noch treu. Einige befürchten, dass das Verlassen der Philippinen kostspielig sein wird, aber die Streitkräfte in Amerika werden benötigt. "
-amcivwar.228.a: "Ruft die Einheiten zurück"
-amcivwar.228.b: "Wir müssen Stellung halten"
 
 amcivwar.229.t: "Das philippinische Commonwealth"
 amcivwar.229.d: "Die Amerikaner hatten dem philippinischen Volk niemals Unabhängigkeit versprochen, und die Streitkräfte im Land wollten den amerikanischen Bürgerkrieg als Gelegenheit nutzen, die Unabhängigkeit zu erklären und eine legitime Regierung zu bilden. Das Commonwealth der Philippinen wurde gegründet, um die Nation zu verwalten und in einen vollständigen Zustand der Unabhängigkeit überzugehen. "
@@ -1050,11 +1024,11 @@ ACW_unit_desertion_tt: "Ein kleiner Teil der Armee wird zu [FROM.GetNameDef] des
 ACW_state_desertion_tooltip: "Ein kleiner Teil der Armee wird zu [FROM.GetNameDef] desertieren!\n\n§gDies führt zu einer Verringerung von 25% der Organisation und 10% der Stärke für Divisionen in [acw_state_control_changed.GetName]. Wir müssen den Feind davon abhalten, Landeshauptstädte einzunehmen, um weitere Desertionen in Zukunft zu vermeiden!§!"
 
 amcivwar.801.t: "Desertionen an der Front"
-amcivwar.801.d: "Mit dem kürzlichen Sturz von [acw_state_control_changed.GetName] an [acw_new_controller.GetNameDef] ist die Moral unter den Truppen von [acw_old_controller.GetAdjective] auf einen neuen Tiefpunkt gesunken. Es gibt sogar Berichte, dass kleine Mengen von Truppen begonnen haben, die [acw_old_controller.GetAdjective]-Armee zu verlassen und sich ihren Weg durch die [acw_new_controller.GetAdjective]-Linien zu bahnen, um für [acw_new_controller.GetNameDef] zu kämpfen."
+amcivwar.801.d: "Mit dem kürzlichen Sturz von [acw_state_control_changed.GetName] an [acw_new_controller.GetNameDef] ist die Moral unter den Truppen von [acw_old_controller.GetAdjective] auf einen neuen Tiefpunkt gesunken. Es gibt Berichte, dass kleine Mengen von Truppen begonnen haben, die [acw_old_controller.GetAdjective]-Armee zu verlassen und sich ihren Weg durch die [acw_new_controller.GetAdjective]-Linien zu bahnen, um für [acw_new_controller.GetNameDef] zu kämpfen."
 amcivwar.801.a: "Wir müssen die Moral verbessern!"
 
 amcivwar.802.t: "Desertionen an der Front"
-amcivwar.802.d: "Mit dem kürzlichen Sturz von [acw_state_control_changed.GetName] an [acw_new_controller.GetNameDef] ist die Moral unter den Truppen von [acw_old_controller.GetAdjective] auf einen neuen Tiefpunkt gesunken. Es gibt sogar Berichte, dass kleine Mengen von Truppen begonnen haben, die [acw_old_controller.GetAdjective]-Armee zu verlassen und sich ihren Weg durch die [acw_new_controller.GetAdjective]-Linien zu bahnen, um für [acw_new_controller.GetNameDef] zu kämpfen."
+amcivwar.802.d: "Mit dem kürzlichen Sturz von [acw_state_control_changed.GetName] an [acw_new_controller.GetNameDef] ist die Moral unter den Truppen von [acw_old_controller.GetAdjective] auf einen neuen Tiefpunkt gesunken. Es gibt Berichte, dass kleine Mengen von Truppen begonnen haben, die [acw_old_controller.GetAdjective]-Armee zu verlassen und sich ihren Weg durch die [acw_new_controller.GetAdjective]-Linien zu bahnen, um für [acw_new_controller.GetNameDef] zu kämpfen."
 amcivwar.802.a: "Willkommen zur Befreiung!"
 
 amcivwar.805.t: "Wachsende Desertionen an den Fronten"

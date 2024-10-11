@@ -99,8 +99,6 @@ AUS_unlock_daimler: "Schaltet die Firma §YAustro Daimler§W frei.\n"
 AUS_unlock_skoda: "Schaltet die Firma §YŠkoda§W frei.\n"
 AUS_italy_friend: "Hat beschlossen, sich mit Italien anzufreunden, und Italien hat den Vorschlag angenommen."
 AUS_italy_force: "Italien hat unsere Anleihen nicht akzeptiert."
-AUS_italy_bond: "Österreichisch-italienische Freundschaft"
-AUS_italy_rival: "Österreichisch-italienische Rivalität"
 AUS_not_fully_implemented: "§RDieser Pfad ist noch nicht vollständig umgesetzt. Mit Vorsicht zu verwenden.§!\n\n"
 AUS_unlock_phoenix: "Wird die §YPhönix§! Fluggesellschaft freischalten.\n"
 AUS_unlock_bayer: "Wird die Firma §YBayer§W Synthetic freischalten.\n"
@@ -110,6 +108,10 @@ AUS_ausgleich_kingdoms: "Alle Königreiche zum Ausgleich eingeladen."
 AUS_ausgleich_peoples: "Alle Nationalitäten zum Ausgleich eingeladen."
 
  AUS_will_not_get_puppet_divisions: "§CAlle Divisionen werden §Raufgelöst§!, aber wir werden ihre Ausrüstung und ihr Personal übernehmen.§!"
+
+### Opinion Modifiers ###
+AUS_italy_bond: "Österreichisch-italienische Freundschaft"
+AUS_italy_rival: "Österreichisch-italienische Rivalität"
 
 ### Companies ###
  austria_montage: "Österreichisch-Alpine Montangesellschaft"
@@ -691,8 +693,8 @@ AUS_potb_invite_bulgaria: "Alte Freunde in Bulgarien"
 AUS_potb_invite_bulgaria_desc: "Bulgarien war während des Weltkriegs ein wesentlicher Verbündeter, der uns half, die serbischen Überambitionen in Schach zu halten - so dachten wir zumindest. Die Auflösung der Mittelmächte nach dem Krieg ermöglichte es den perfiden Serben, sich unserem Zugriff zu entziehen. Einmal mehr ist Bulgarien der Schlüssel zur Wiederherstellung von Frieden und Stabilität auf dem Balkan, ein für alle Mal."
 
 ### Parties ###
-AUS_totalist_party: "TVK"
-AUS_totalist_party_long: "Totalitäres Volkskonzil"
+AUS_totalist_party: "SAR"
+AUS_totalist_party_long: "Sozialistischer Arbeiterrat"
 AUS_syndicalist_party: "SAR"
 AUS_syndicalist_party_long: "Sozialistischer Arbeiterrat"
 AUS_radical_socialist_party: "ASP"
@@ -742,6 +744,10 @@ austria.3.a: "Lang lebe Kaiser Otto!"
  austria.4.t: "Emil Freiherr von Škoda stirbt"
  austria.4.d: "Der Enkel des berühmten Gründers des Škoda-Konzerns ist heute an Herzversagen verstorben.\n\nEmil von Škoda, der den Namen des Firmengründers trug, trat 1929 die Nachfolge seines Vaters Karl an. Während sein Großvater das Unternehmen gründete und zu großem Erfolg führte, leitete Karl das Unternehmen durch den Zweiten Weltkrieg und erlebte noch größere Höhenflüge. Andererseits erreichte Karl nie die gleiche Popularität wie der Gründer und behandelte seine tschechischen Mitarbeiter oft schlecht. Emil hätte in dieser Hinsicht nicht unterschiedlicher sein können: Er sprach fließend Tschechisch, hatte oft Verständnis für seine Arbeiter und konnte problemlos mit ihnen sprechen. Außerdem führte er das Unternehmen durch einige seiner größten Schwierigkeiten, wie die Creditanstalt-Krise und den Schwarzen Montag.\n\nMit seinem Tod und dem seines jüngeren Bruders zu Beginn dieses Jahres stirbt leider auch die männliche Linie der Familie Škoda. Während das immense Vermögen der Familie zwischen seiner jüngeren Schwester Hedwig und der Familienmatriarchin Hermine aufgeteilt wird, wird die Führung des Unternehmens wahrscheinlich nicht mehr in ihren Händen liegen. Die Škoda-Familie wird jedoch mit Sicherheit nicht verschwinden und als Titanen der Rüstungsindustrie weiterleben.\n\nDe facto hat sich die Führung der österreichischen Industrie auf die Industriellenvereinigung und ihren Gründer, Hans Lauda, verlagert, der derzeit an der Spitze des Unternehmens Veitscher steht."
  austria.4.a: "Ihre Linie endet, aber ihr Name bleibt bestehen."
+
+ austria.5.t: "Alamut - Das neueste Buch von Vladimir Bartol" # Formerly in 00 Literature events.txt
+ austria.5.d: "Die Slowenen sind eine der weniger bekannten Minderheiten unseres Reiches, obwohl sie auch nach Hunderten von Jahren der Zugehörigkeit zu diesem Reich an ihrer eigenen Sprache und Kultur festhalten. Der neueste Bestseller im slowenischen Sprachraum, geschrieben von Bartol, ist eine Geschichte über den Kampf der Türken und Perser um die Kontrolle der Festung Alamut. Die Handlung spielt im 11. Jahrhundert, als die seldschukischen Türken begannen, nach Kleinasien zu expandieren. Es wird vermutet, dass das Buch bald ins Deutsche und in verschiedene andere Sprachen übersetzt werden wird."
+ austria.5.a: "Großartig!"
 
 aus.elections.1.t: "Österreichische Wahlen von 1936"
 aus.elections.1.d: "Seit Beginn der Föderalisierung, und die 'österreichischen Wahlen' waren zumeist auf den deutschsprachigen Teil des Reiches beschränkt, haben zwei große Parteien die österreichische Politik dominiert: die CS und die SDAP.\n\nAuch die diesjährigen Wahlen sind hart umkämpft; die SDAP und die CS haben sehr unterschiedliche Vorstellungen vom Umgang mit der anhaltenden Wirtschaftskrise. Das Programm der SDAP konzentriert sich auf die Linderung der Not der Arbeitnehmer, wobei der Schwerpunkt auf Arbeitslosengeld und Regierungsinterventionen liegt. Die CS hingegen verfolgen ein Programm mit strengen Sparmaßnahmen."
@@ -1438,9 +1444,9 @@ AUS_danubia_radical_socialist_DEF: "die Donau-Republik der Räte"
 ### Characters ###
 
  AUS_alfred_klahr: "Alfred Klahr"
- AUS_pierre_ramus: "Pierre Ramus"
  AUS_friedrich_adler: "Friedrich Adler"
  AUS_karl_renner: "Karl Renner"
+ AUS_gustav_stolper: "Gustav Stolper"
  AUS_wilhelm_miklas: "Wilhelm Miklas"
  AUS_franz_dinghofer: "Franz Dinghofer"
 

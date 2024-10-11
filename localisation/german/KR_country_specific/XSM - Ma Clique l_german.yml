@@ -92,6 +92,9 @@
  XSM_horse: "Elite-Kavallerie"
  XSM_horse_desc: "Uns stehen Reiter und Stammesmänner aus dem ganzen Land zur Verfügung, um unsere Feinde mit vernichtenden Schlägen auf die Knie zu zwingen."
 
+ XSM_local_logistics: "Traditionelle Logistik"
+ XSM_local_logistics_desc: "Wir mögen zwar von westlichen Innovationen wie der motorisierten Logistik abgeschnitten sein, aber China hatte ohnehin nie die Infrastruktur, um sie zu unterstützen. Wenn wir uns auf die traditionelle Logistik verlassen, werden wir vielleicht keine Technologiepreise gewinnen, aber ein Maultier kann das zerklüftete Gelände dieses Landes leichter durchqueren als ein Lastwagen."
+
  XSM_opium_production: "Opium in Gansu"
  XSM_opium_production_desc: "Die Ma-Clique sieht sich dazu gezwungen, die wirtschaftlichen Realitäten in China zu akzeptieren. Bis zu dem Tag, an dem der Opiummarkt endgültig versiegt ist und ganz China durch den Islam erleuchtet wurde, sollten wir versuchen, aus den Sünden der Han Profit zu schlagen."
 
@@ -783,5 +786,7 @@
 
 ### Traits ###
  XSM_hero_of_the_northwest: "Held des Nordwestens"
- XSM_fundamentalist: "Fundamentalistisch"
- XSM_modernist: "Modernistisch"
+ XSM_honesty_and_sincerity: "Ehrlichkeit und Aufrichtigkeit"
+ XSM_brutality_and_schemes: "Brutalität und Intrigen"
+ XSM_the_hard_general: "Der harte General"
+ XSM_the_kind_general: "Der gütige General"

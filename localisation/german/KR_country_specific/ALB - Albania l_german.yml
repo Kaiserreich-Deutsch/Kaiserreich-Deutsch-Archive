@@ -442,22 +442,6 @@ ALB_stopping_land_reform_tt: "§RDies wird Bashkimi und den Rest der Unterschich
  ALB_will_join_BUL_factions: "Wenn Bulgarien eine Fraktion gründet, wird Albanien ihr beitreten."
  ALB_turn_socialist: "Der Einfluss von §H[FROM.GetNameDef]§! wird dazu führen, dass §Rsozialistische§! Kräfte die derzeitige Regierung ablösen!"
 
-### Opinion Modifiers ###
-ALB_bularian_relations_accepted: "Albanisch-Bulgarische Freundschaft"
-ALB_bularian_relations_rejected: "Unser Angebot abgelehnt"
-ALB_romanian_relations_accepted: "Albanisch-Rumänische Freundschaft"
-ALB_romanian_relations_rejected: "Unser Angebot abgelehnt"
-ALB_bularian_trade_accepted: "Wirtschaftliche Verbindungen etabliert"
-ALB_bularian_trade_rejected: "Wirtschaftliche Fortschritte abgelehnt"
-ALB_romanian_trade_accepted: "Wirtschaftliche Verbindungen etabliert"
-ALB_romanian_trade_rejected: "Wirtschaftliche Fortschritte abgelehnt"
-ALB_sicilian_trade_accepted: "Wirtschaftliche Verbindungen etabliert"
-ALB_sicilian_trade_rejected: "Wirtschaftliche Fortschritte abgelehnt"
-ALB_egyptian_ties: "Albanisch-Ägyptische Beziehungen"
-ALB_tosk_albanian_heritage: "Albanisch-Sizilianische Beziehungen"
-ALB_austrian_ties: "Beziehungen mit Österreich"
-ALB_gave_us_oil: "Uns mit Öl versorgt"
-
 ### Decisions ###
 ALB_foreign_policy_decisions: "Außenpolitik"
 ALB_foreign_policy_decisions_desc: "Es ist wichtig, dass wir beginnen, unseren Fokus nach außen zu verlagern und Allianzen zu schmieden und/oder Verbindungen zu anderen Nationen aufzubauen, um unsere Position auf der Weltbühne zu festigen."

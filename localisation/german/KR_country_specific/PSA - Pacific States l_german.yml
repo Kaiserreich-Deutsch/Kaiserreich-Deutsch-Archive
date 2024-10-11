@@ -10,34 +10,24 @@ PSA_ADJ: "Amerikanisch"
 PSA_DEF: "Amerika"
 
 PSA_totalist: "Pazifische Staaten von Amerika"
-PSA_totalist_ADJ: "Amerikanisch"
 PSA_totalist_DEF: "die Pazifische Staaten von Amerika"
 PSA_syndicalist: "Pazifische Staaten von Amerika"
-PSA_syndicalist_ADJ: "Amerikanisch"
 PSA_syndicalist_DEF: "die Pazifische Staaten von Amerika"
 PSA_radical_socialist: "Pazifische Staaten von Amerika"
-PSA_radical_socialist_ADJ: "Amerikanisch"
 PSA_radical_socialist_DEF: "die Pazifische Staaten von Amerika"
 PSA_social_democrat: "Pazifische Staaten von Amerika"
-PSA_social_democrat_ADJ: "Amerikanisch"
 PSA_social_democrat_DEF: "die Pazifische Staaten von Amerika"
 PSA_social_liberal: "Pazifische Staaten von Amerika"
-PSA_social_liberal_ADJ: "Amerikanisch"
 PSA_social_liberal_DEF: "die Pazifische Staaten von Amerika"
 PSA_market_liberal: "Pazifische Staaten von Amerika"
-PSA_market_liberal_ADJ: "Amerikanisch"
 PSA_market_liberal_DEF: "die Pazifische Staaten von Amerika"
 PSA_social_conservative: "Pazifische Staaten von Amerika"
-PSA_social_conservative_ADJ: "Amerikanisch"
 PSA_social_conservative_DEF: "die Pazifische Staaten von Amerika"
 PSA_authoritarian_democrat: "Pazifische Staaten von Amerika"
-PSA_authoritarian_democrat_ADJ: "Amerikanisch"
 PSA_authoritarian_democrat_DEF: "die Pazifische Staaten von Amerika"
 PSA_paternal_autocrat: "Pazifische Staaten von Amerika"
-PSA_paternal_autocrat_ADJ: "Amerikanisch"
 PSA_paternal_autocrat_DEF: "die Pazifische Staaten von Amerika"
 PSA_national_populist: "Pazifische Staaten von Amerika"
-PSA_national_populist_ADJ: "Amerikanisch"
 PSA_national_populist_DEF: "die Pazifische Staaten von Amerika"
 
 PSA_ACW: "Pazifische Staaten von Amerika"
@@ -95,7 +85,7 @@ PSA_tricky_dick: "Schlaumeier"
 #Downey:
 PSA_smiling_oilman: "Lächelnder Ölmann"
 
-### Introduction ###
+### Intro Screen ###
 PSA_guide: "§MAußenpolitik§!\n §MMischen Sie sich ins Getümmel§!\n£white_dot Wir können der Entente beitreten oder uns mit Japan verbünden, wenn es demokratisch ist und nicht mit Hawaii im Bunde steht, und haben Entscheidungen, um Japan, den Führer der Dritten Internationale, Deutschland und Russland anzugreifen.\n §MFestung Amerika§!\n£white_dot Wir werden uns nicht an Kriegen beteiligen und uns auf den Frieden konzentrieren."
 
 ### Ideas ###
@@ -123,7 +113,6 @@ PSA_military_industrial_production_1_desc: "Da sich viele der nationalen Waffenf
 PSA_military_industrial_production_3: "Militärische Industrieproduktion"
 PSA_military_industrial_production_3_desc: "Mit unserem durchschlagenden Sieg im Bürgerkrieg, zählen wir jetzt mit einem formidablen militärisch-industriellen Komplex. Während es normalerweise in Friedenszeiten an der Zeit wäre, unsere Finanzierung wieder auf zivile Zwecke umzulenken, ziehen weltweit Sturmwolken auf, und unsere mächtige Nation könnte erneut in einen Krieg verwickelt werden. Eine Ausweitung der Verträge, die wir unterzeichnet haben, und eine Erhöhung unserer Finanzmittel für den militärischen Sektor werden uns helfen, für den nächsten Konflikt gewappnet zu sein, wenn er anklopft."
 PSA_defense_logistics_agency_idea: "Defence Logistics Agency"
-PSA_arsenal_of_democracy_idea: "Arsenal of Democracy"
 PSA_failed_operation_liberty: "Folgen der Operation Glacier"
 PSA_failed_operation_liberty_desc: "Mit dem Scheitern der Operation Glacier hat der allgemeine Defätismus den größten Teil unserer Armee ergriffen, und die Zivilbevölkerung ist verunsichert über das Ergebnis einer so kostspieligen Operation. Während die Moral niedrig ist, wurden an der Frontlinie viele Lektionen gelernt, Lektionen, die das Oberkommando sicher nutzen wird, um einen neuen Plan zu entwickeln, der unsere Nation vor dem Radikalismus retten kann."
 PSA_arnolds_reform_plan: "Arnold's Reformplan"
@@ -133,16 +122,12 @@ PSA_airborne_experiments: "Experimente in der Luft"
 ### Tooltips ###
 PSA_civil_war_victor: "Gewann den Bürgerkrieg, ohne einen Waffenstillstand"
 
-##Mission##
-PSA_Operation_Liberty_mission: "Operation Glacier"
-PSA_Operation_Liberty_mission_desc: "Während auf der anderen Seite der Rocky Mountains der Bürgerkrieg tobt, hat der Hohe Stab des Westlichen Verteidigungskommandos beschlossen, dass, um den Krieg zu gewinnen, ein entscheidender Schlag zum Erreichen der Great Plains erzielt werden muss. Oberbefehlshaber Marshall hat uns versichert, dass der Sieg in Reichweite ist, wenn es uns gelingt, unsere Ziele zu erreichen. Ein Scheitern beim Erreichen dieser Ziele würde jedoch die Moral untergraben und uns vielleicht auf den Weg der totalen Niederlage bringen..."
-
 ### Flags ###
 PSA_reunited_america_flag: "Amerika ist wiedervereint"
 
 ### Decisions ###
-USA_civil_war_decisions: "Entscheidungen im Bürgerkrieg"
-USA_civil_war_decisions_desc: "Wir kämpfen für die Zukunft von Amerika. Nieder mit den Verrätern, und hoch mit den Sternen!"
+PSA_Operation_Liberty_mission: "Operation Glacier"
+PSA_Operation_Liberty_mission_desc: "Während auf der anderen Seite der Rocky Mountains der Bürgerkrieg tobt, hat der Hohe Stab des Westlichen Verteidigungskommandos beschlossen, dass, um den Krieg zu gewinnen, ein entscheidender Schlag zum Erreichen der Great Plains erzielt werden muss. Oberbefehlshaber Marshall hat uns versichert, dass der Sieg in Reichweite ist, wenn es uns gelingt, unsere Ziele zu erreichen. Ein Scheitern beim Erreichen dieser Ziele würde jedoch die Moral untergraben und uns vielleicht auf den Weg der totalen Niederlage bringen..."
 
 PSA_join_japan: "Ausrichtung nach Japan"
 PSA_join_japan_desc: "Der große Pazifik ist nicht das Einzige, was wir mit den Japanern teilen, denn sie haben gezeigt, dass sie die gleichen demokratischen Werte hochhalten, die uns so wichtig sind. Nachdem sie uns im Bürgerkrieg geholfen haben, wäre es nur gerecht, wenn wir uns den Japanern bei ihrem Ziel anschließen würden, Stabilität, Demokratie und Freiheit im Pazifik zu verbreiten."
@@ -451,7 +436,7 @@ PSA_peace_at_last_desc: "Unsere Bemühungen haben Früchte getragen, und endlich
 
 ### Events ###
 pacificstates.0.t: "Vizepräsident als Präsident vereidigt"
-pacificstates.0.d.roosevelt: "Angesichts der sich verschärfenden Gewalt bei den Wahlen gab es in den Augen des Gouverneurs von Kalifornien, Frank Merriam, nur eine Wahl, um die Legitimität des pro-demokratischen Aufstandes zu gewährleisten. Vizepräsident Quentin Roosevelt, der erfolgreich die Gewerkschaften der Langarbeiter befriedet und die Unterstützung der Progressiven und der Farmer-Labors für die Nationale Einheitspartei bekräftigt hatte, musste als Präsident vereidigt werden.\n\nIn einer Dringlichkeitskonferenz in Sacramento am ersten März bestanden die Gouverneure von Kalifornien, Oregon und Washington darauf, dass die Amtseinführung am nächsten Tag stattfand. Quentin Roosevelt beugte sich dem Druck und wurde am [?global.date.GetDateStringNoHourLong] als 32. Präsident der Vereinigten Staaten vereidigt. Im Moment ist nur die Westküste loyal zu seiner Regierung, aber es wird gehofft, dass bald mehr Teile des Landes folgen werden."
+pacificstates.0.d.willkie: "Angesichts der sich verschärfenden Gewalt bei den Wahlen gab es in den Augen des Gouverneurs von Kalifornien, Frank Merriam, nur eine Wahl, um die Legitimität des pro-demokratischen Aufstandes zu gewährleisten. Vizepräsident Wendell Willkie, der erfolgreich die Gewerkschaften der Langarbeiter befriedet und die Unterstützung der Progressiven und der Farmer-Labors für die Nationale Einheitspartei bekräftigt hatte, musste als Präsident vereidigt werden.\n\nIn einer Dringlichkeitskonferenz in Sacramento am ersten März bestanden die Gouverneure von Kalifornien, Oregon und Washington darauf, dass die Amtseinführung am nächsten Tag stattfand. Wendell Willkie beugte sich dem Druck und wurde am [?global.date.GetDateStringNoHourLong] als 32. Präsident der Vereinigten Staaten vereidigt. Im Moment ist nur die Westküste loyal zu seiner Regierung, aber es wird gehofft, dass bald mehr Teile des Landes folgen werden."
 pacificstates.0.d.mcnary: "Angesichts der sich verschärfenden Gewalt bei den Wahlen gab es in den Augen des Gouverneurs von Kalifornien, Frank Merriam, nur eine Wahl, um die Legitimität des pro-demokratischen Aufstandes zu gewährleisten. Sein republikanischer Amtskollege Charles McNary, der erfolgreich die Gewerkschaften der Langarbeiter befriedet und die Unterstützung für die Demokratie in seinem Heimatstaat Oregon sowie in Washington bekräftigt hatte, musste als Präsident vereidigt werden.\n\nIn einer Dringlichkeitskonferenz in Sacramento am ersten März bestanden die Gouverneure von Kalifornien, Oregon und Washington darauf, dass die Amtseinführung am nächsten Tag stattfand. McNary beugte sich dem Druck und wurde am [?global.date.GetDateStringNoHourLong] als 32. Präsident der Vereinigten Staaten vereidigt. Im Moment ist nur die Westküste loyal zu seiner Regierung, aber man hofft, dass bald mehr Teile des Landes folgen werden."
 pacificstates.0.d.smith: "Angesichts der sich verschärfenden Gewalt bei den Wahlen gab es in den Augen des Gouverneurs von Kalifornien, Frank Merriam, nur eine Wahl, um die Legitimität des pro-demokratischen Aufstandes zu gewährleisten. Vizepräsident Wendell Willkie, der die Langarbeitergewerkschaften erfolgreich befriedet und die Unterstützung für die Demokratie im Westen bekräftigt hatte, musste als Präsident vereidigt werden.\n\nIn einer Dringlichkeitskonferenz in Sacramento am ersten März bestanden die Gouverneure von Kalifornien, Oregon und Washington darauf, dass die Amtseinführung am nächsten Tag stattfand. Willkie beugte sich dem Druck und wurde am [?global.date.GetDateStringNoHourLong] als 32. Präsident der Vereinigten Staaten vereidigt. Im Moment ist nur die Westküste loyal zu seiner Regierung, aber man hofft, dass bald mehr Teile des Landes folgen werden."
 pacificstates.0.a: "... so wahr mir Gott helfe."

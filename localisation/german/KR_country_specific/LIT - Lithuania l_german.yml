@@ -6,56 +6,39 @@
  LIT_DEF: "Litauen"
  
  LIT_totalist: "Volksrepublik Litauen"
- LIT_totalist_ADJ: "Litauisch"
  LIT_totalist_DEF: "die Volksrepublik Litauen"
  LIT_syndicalist: "Volksrepublik Litauen"
- LIT_syndicalist_ADJ: "Litauisch"
  LIT_syndicalist_DEF: "die Volksrepublik Litauen"
  LIT_radical_socialist: "Volksrepublik Litauen"
- LIT_radical_socialist_ADJ: "Litauisch"
  LIT_radical_socialist_DEF: "die Volksrepublik Litauen"
  LIT_social_democrat: "Republik Litauen"
- LIT_social_democrat_ADJ: "Litauisch"
  LIT_social_democrat_DEF: "die Republik Litauen"
  LIT_social_liberal: "Republik Litauen"
- LIT_social_liberal_ADJ: "Litauisch"
  LIT_social_liberal_DEF: "die Republik Litauen"
  LIT_market_liberal: "Republik Litauen"
- LIT_market_liberal_ADJ: "Litauisch"
  LIT_market_liberal_DEF: "die Republik Litauen"
  LIT_social_conservative: "Republik Litauen"
- LIT_social_conservative_ADJ: "Litauisch"
  LIT_social_conservative_DEF: "die Republik Litauen"
  LIT_authoritarian_democrat: "Republik Litauen"
- LIT_authoritarian_democrat_ADJ: "Litauisch"
  LIT_authoritarian_democrat_DEF: "die Republik Litauen"
  LIT_paternal_autocrat: "Republik Litauen"
- LIT_paternal_autocrat_ADJ: "Litauisch"
  LIT_paternal_autocrat_DEF: "die Republik Litauen"
  LIT_national_populist: "Nationale Republik Litauen"
- LIT_national_populist_ADJ: "Litauisch"
  LIT_national_populist_DEF: "die Nationale Republik Litauen"
 
  LIT_monarchy_social_democrat: "Königreich Litauen"
- LIT_monarchy_social_democrat_ADJ: "Litauisch"
  LIT_monarchy_social_democrat_DEF: "Das Königreich Litauen"
  LIT_monarchy_social_liberal: "Königreich Litauen"
- LIT_monarchy_social_liberal_ADJ: "Litauisch"
  LIT_monarchy_social_liberal_DEF: "Das Königreich Litauen"
  LIT_monarchy_market_liberal: "Königreich Litauen"
- LIT_monarchy_market_liberal_ADJ: "Litauisch"
  LIT_monarchy_market_liberal_DEF: "Das Königreich Litauen"
  LIT_monarchy_social_conservative: "Königreich Litauen"
- LIT_monarchy_social_conservative_ADJ: "Litauisch"
  LIT_monarchy_social_conservative_DEF: "Das Königreich Litauen"
  LIT_monarchy_authoritarian_democrat: "Königreich Litauen"
- LIT_monarchy_authoritarian_democrat_ADJ: "Litauisch"
  LIT_monarchy_authoritarian_democrat_DEF: "Das Königreich Litauen"
  LIT_monarchy_paternal_autocrat: "Königreich Litauen"
- LIT_monarchy_paternal_autocrat_ADJ: "Litauisch"
  LIT_monarchy_paternal_autocrat_DEF: "Das Königreich Litauen"
  LIT_monarchy_national_populist: "Nationale Republik Litauen"
- LIT_monarchy_national_populist_ADJ: "Litauisch"
  LIT_monarchy_national_populist_DEF: "die Nationale Republik Litauen"
 
  LIT_LITBEL: "Litauen-Weißrussland"
@@ -202,17 +185,10 @@
 
  LIT_LIT_SWISS_BAL: "Fügt §C25§! zur Föderalen Kraft in Białystok hinzu"
  LIT_LIT_SWISS_SUL: "Fügt §C25§! zur Föderalen Kraft in Suwalki hinzu"
- LIT_LIT_SWISS_BAL_ACCEPTS: "§CFederalisation§! wird in Białystok akzeptiert"
- LIT_LIT_SWISS_VAL: "Fügt §C50§! zur Föderalen Kraft in Valkaviskas hinzu"
- LIT_SWISS_CON_MINOR: "§YDiese Aktion erhöht die Stärke der§! §CFöderation§!"
+ LIT_LIT_SWISS_BAL_ACCEPTS: "§CFederalisation§! wird in Białystok akzeptiert."
  LIT_SWISS_BIA_COMPLETED: "Zyndram-Kościałkowskis Gruppe wurde infiltriert"
- LIT_SWISS_INF_Selected: "£decision_icon_small Infiltration der Zyndram-Kościałkowski-Kabale"
- LIT_SWISS_CON_25: "Die Stärke der §CFöderalisierungsbemühungen§! ist mehr als §Y25%§!"
- LIT_SWISS_CON_40: "Die Stärke der §CFöderalisierungsbemühungen§! ist mehr als §Y40%§!"
- LIT_SWISS_CON_60: "Die Stärke der §CFöderalisierungsbemühungen§! ist mehr als §Y60%§!"
- LIT_SWISS_CON_80: "Die Stärke der §CFöderalisierungsbemühungen§! ist mehr als §Y80%§!"
-
- LIT_ASIS_bialystok_asis_mark_lib: "Entfernt §RPolnischer Irredentismus zerschlagen§! durch Zusammenarbeit mit lokalen Gemäßigten aus Białystok"
+ LIT_SWISS_CON: "Die Stärke der §CFöderalisierungsbemühungen§! ist mindestens $RIGHT|Y%%0$."
+  LIT_SWISS_CON_MINOR: "§YDiese Aktion erhöht die Stärke der§! §CFöderation§!"
 
  LIT_Naruto_new_tree: "Eine Koalition der beiden großen Parteien unter Führung von §YStanisław Narutowicz§! wird Litauen regieren. "
  LIT_Plech_new_tree: "General §YPovilas Plechavičius§! wird die Stabilität in Litauen wiederherstellen!"
@@ -229,7 +205,6 @@
  LIT_alantas_captured: "$has_completed_decision$$LIT_capture_alantas$§!"
  LIT_Plech_laf_gone: "Die LAF ist vom Militär besiegt worden!"
  LIT_Naruto_laf_gone: "Das LAF ist von der Polizei besiegt worden!"
- LIT_king_assasinated: "König Vytautas II. ist von der LAF ermordet worden!" 
 
  ### Decisions ###
  LIT_economic_projects_decisions: "Wirtschaftliche Projekte"
@@ -474,6 +449,9 @@
  LIT_swiss_8: "Festnahme von Zyndram-Kościałkowski"
  LIT_swiss_8_desc: "Es ist jetzt an der Zeit zuzuschlagen, wir müssen diesen polnischen Demagogen verhaften und uns mit den Folgen befassen, wenn sie kommen."
 
+ LIT_Last_Stand: "Beitritt zu unseren baltischen Brüdern"
+ LIT_Last_Stand_desc: "Wir sind nicht die einzigen, die endlich vom deutschen Joch befreit sind, aber ohne Verbündete. Unsere baltischen Brüder im Norden befinden sich in einer ähnlichen Lage wie wir und würden sicherlich ein formelles Militärbündnis akzeptieren." 
+
 ### Companies ###
  achema: "Linkaičių artilerijos dirbtuvės"
  vilniaus_universitetas: "Vilniaus universitetas"
@@ -552,10 +530,6 @@
  LIT_nationalist_equality: "Nationalistische Gleichheit"
  LIT_nationalist_welfare: "Nationalistische Wohlfahrt"
 
- LIT_Last_Stand: "Beitritt zu unseren baltischen Brüdern"
- LIT_Last_Stand_desc: "Wir sind nicht die einzigen, die endlich vom deutschen Joch befreit sind, aber ohne Verbündete. Unsere baltischen Brüder im Norden befinden sich in einer ähnlichen Lage wie wir und würden sicherlich ein formelles Militärbündnis akzeptieren." 
- LIT_integrate_memel: "Memel integrieren"
-
  LIT_martial_law: "Kriegsrecht"
  LIT_martial_law_desc: "In ganz Litauen wurde das Kriegsrecht verhängt, damit die Armee und die Polizei die Bedrohung durch die LAF bekämpfen können."
 
@@ -566,16 +540,16 @@
  LIT_military_governance_2_desc: "Die litauische Armee hat sich der Hilfe wohlwollender Politiker und Beamter bedient, um die Stabilität im Land zu gewährleisten."
 
  LIT_military_governance_3: "Teilweise Zivile Verwaltung"
- LIT_military_governance_3_desc: "Die litauische Armee hat sich der Hilfe wohlwollender Politiker und Beamter bedient, um die Stabilität im Land zu gewährleisten. Propaganda is sweeping into everyday life, including classrooms."
+ LIT_military_governance_3_desc: "$LIT_military_governance_2_desc$ Propaganda is sweeping into everyday life, including classrooms."
 
  LIT_military_governance_4a: "Teilweise Zivile Verwaltung"
- LIT_military_governance_4a_desc: "Die litauische Armee hat sich der Hilfe wohlwollender Politiker und Beamter bedient, um die Stabilität im Land zu gewährleisten. Die Propaganda für den König gehört zum Alltag."
+ LIT_military_governance_4a_desc: "$LIT_military_governance_2_desc$ Die Propaganda für den König gehört zum Alltag."
 
  LIT_military_governance_4b: "Teilweise Zivile Verwaltung"
- LIT_military_governance_4b_desc: "Die litauische Armee hat sich der Hilfe wohlwollender Politiker und Beamter bedient, um die Stabilität im Land zu gewährleisten. Die Propaganda hält Einzug in den Alltag, auch in die Klassenzimmer, und die Arbeitnehmer müssen Überstunden leisten."
+ LIT_military_governance_4b_desc: "$LIT_military_governance_2_desc$ Die Propaganda hält Einzug in den Alltag, auch in die Klassenzimmer, und die Arbeitnehmer müssen Überstunden leisten."
 
  LIT_military_governance_5: "Teilweise Zivile Verwaltung"
- LIT_military_governance_5_desc: "Die litauische Armee hat sich der Hilfe wohlwollender Politiker und Beamter bedient, um die Stabilität im Land zu gewährleisten. Unter den Plakaten mit der Aufschrift König Mindaugas III. arbeiten die Arbeiter länger denn je."
+ LIT_military_governance_5_desc: "$LIT_military_governance_2_desc$ Unter den Plakaten mit der Aufschrift König Mindaugas III. arbeiten die Arbeiter länger denn je."
 
  LIT_military_governance_6: "Litauen marschiert voran"
  LIT_military_governance_6_desc: "Noch vor kurzer Zeit stand Litauen am Rande des Zusammenbruchs. Jetzt steht es aufrecht wie eine Nation und ist bereit, jede Herausforderung anzunehmen."
@@ -584,22 +558,10 @@
  LIT_military_economy_1_desc: "Um sich auf einen bevorstehenden Krieg vorzubereiten, braucht Litauen Waffen und muss seine Rüstungsindustrie verbessern."
 
  LIT_military_economy_2a: "Militarisierte Wirtschaft"
- LIT_military_economy_2a_desc: "Um sich auf einen bevorstehenden Krieg vorzubereiten, braucht Litauen Waffen und muss seine Rüstungsindustrie verbessern. Zu diesem Zweck hat das Land beschlossen, neue kleine Unternehmen zu finanzieren."
+ LIT_military_economy_2a_desc: "Milit$LIT_military_economy_1_desc$ Zu diesem Zweck hat das Land beschlossen, neue kleine Unternehmen zu finanzieren."
 
  LIT_military_economy_2b: "Militarisierte Wirtschaft"
- LIT_military_economy_2b_desc: "Um sich auf einen bevorstehenden Krieg vorzubereiten, braucht Litauen Waffen und muss seine Rüstungsindustrie verbessern. Zu diesem Zweck hat das Land beschlossen, die bestehenden Monopole zu stärken."
-
- LIT_military_economy_3a: "$LIT_military_economy_2a$"
- LIT_military_economy_3a_desc: "$LIT_military_economy_2a_desc$"
-
- LIT_military_economy_3b: "$LIT_military_economy_2b$"
- LIT_military_economy_3b_desc: "$LIT_military_economy_2b_desc$"
-
- LIT_military_economy_4a: "$LIT_military_economy_2a$"
- LIT_military_economy_4a_desc: "$LIT_military_economy_2a_desc$"
-
- LIT_military_economy_4b: "$LIT_military_economy_2b$"
- LIT_military_economy_4b_desc: "$LIT_military_economy_2b_desc$"
+ LIT_military_economy_2b_desc: "$LIT_military_economy_1_desc$ Zu diesem Zweck hat das Land beschlossen, die bestehenden Monopole zu stärken."
 
  LIT_military_black_improvement: "Arbeiten am Schwarzen Montag"
  LIT_military_black_improvement_desc: "Der Industrierat arbeitet derzeit daran, die Auswirkungen des Schwarzen Montags abzumildern. Während dies langfristig die Wirtschaft verbessern wird, sind die Maßnahmen kurzfristig hart."

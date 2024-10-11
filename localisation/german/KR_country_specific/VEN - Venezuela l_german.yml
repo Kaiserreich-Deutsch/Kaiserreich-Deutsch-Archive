@@ -129,8 +129,7 @@ VEN_paid_for_shares_desc: "Venezuela hat Anteile an unseren Ölgesellschaften er
 
 ### Opinion Modifiers ###
 VEN_nationalized: "Beschlagnahmte Erdölvorkommen"
-VEN_alliance_deny: "Verweigerte Allianz"
-VEN_US_treaty: "USA-Venezuela Freundschaft"
+VEN_US_treaty: "Amerikanisch-venezolanischer Freundschaftsvertrag"
 
 ### Flags and Tooltips
 VEN_no_coup: "Der Coup wurde verhindert"
@@ -429,7 +428,7 @@ VEN_navegare_necesse_vivere_non_necesse_desc: "\"Navigieren ist notwendig, Leben
 ### Intro Screen ###
 VEN_country_intro_header: "Venezuelas Platz in der Welt"
 VEN_country_intro_content: "Nach der Abspaltung Venezuelas von Großkolumbien im Jahr 1830 wurde das Land von einer Reihe von Bürgerkriegen zwischen Konservativen und Liberalen erschüttert, bis es 1864 föderalisiert wurde. Dennoch kämpfte Venezuela mit einer Reihe von wechselnden Militär- und Zivilregierungen um die Aufrechterhaltung der Stabilität. Dies änderte sich mit der Entdeckung von Ölvorkommen und dem Staatsstreich von General Juan Vicente 'The Catfish' Gómez im Jahr 1908. Unter Gómez wurde die Erdölindustrie zur wirtschaftlichen Grundlage des Landes und blieb während des Weltkriegs relativ stabil, indem sie sich in dem Konflikt neutral verhielt und die Schulden des Landes verringerte, wenn auch um den Preis, dass das Land vollständig vom Öl abhängig wurde.\n\nDas Regime von Catfish konnte sich jedoch nur eine gewisse Zeit halten. Nachdem es ihm aufgrund der amerikanischen Intervention nicht gelungen war, die venezolanischen Ansprüche auf den Essequibo durchzusetzen, während das britische Empire praktisch zusammenbrach, wurde er 1928 nach einem Skandal um die britischen 'Reparationen' vom Militär abgesetzt, und die Generación del 1926 bildete nach Wahlen bald eine demokratische Regierung.\n\nBis 1936 hat sich die Generación jedoch zwischen drei Parteien stark gespalten. Derzeit ist die Acción Democrática an der Regierung, aber ihre ehemaligen liberalen Verbündeten in der Unión Democrática Republicana gewinnen an Einfluss, während die mit der Internationale verbündete Partido Socialista de Venezuela weiterhin antikapitalistischen Dissens schürt. Nichtsdestotrotz ist Venezuela eines der wenigen relativ stabilen und demokratischen Länder in der Region, aber eskalierende Spannungen rund um den Globus könnten die aufkeimende Demokratie leicht destabilisieren."
-ven.1.a: "Wir leben in interessanten Zeiten."
+
 VEN_guide: "§MAufrechterhaltung der Demokratie§! / §MSyndikalistischer Sieg§! (§cSozialkonservative§! / §lSozialliberale§! / §SSozialdemokraten§! / §rSyndikalisten§!)\n£white_dot Unabhängig davon, ob es infolge des Schwarzen Montags zu einem Staatsstreich kommt, werden Sie bei den Wahlen 1939 die §lUnión Republicana Democrática§!, die §SAcción Democrática§! und die §rPartido Socialista de Venezuela§! wählen können.\n£white_dot Später, ab den Wahlen von 1954, wird auch das §cComité de Organización Política Electoral Independiente§! gewählt werden können.\n\n§MAmerikanisch gestützter Coup§! (§PPaternal Autokratisch§!)\n£white_dot Ein nicht-sozialistisches Amerika soll den Bürgerkrieg gewinnen und nicht von der Welt isoliert werden (keine \"Festung Amerika\").\n£white_dot Habt eine syndikalistische Regierung.\n£white_dot Es besteht eine sehr hohe, aber nicht garantierte Chance, dass die USA unsere Regierung putschen und die §PJunta Nacional de Venezuela§! an die Macht bringen werden."
 
 ### Events ###

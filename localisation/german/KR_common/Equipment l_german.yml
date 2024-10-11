@@ -311,6 +311,15 @@ ANG_anti_tank_equipment_3: "Artilharia de Tiro Rápidode 17 Libras"
 ANG_anti_tank_equipment_3_short: "Ar. TR de 17 Libras"
 
 ###
+### Antilles ###
+###
+
+### Land ###
+ANT_infantry_equipment_0: "Fusil Lebel Modèle 1886 M93"
+ANT_infantry_equipment_0_short: "Lebel Mle M93"
+ANT_support_weapons: "Darne M1919 & Stokes Mörser"
+
+###
 ### Argentina ###
 ###
 
@@ -796,7 +805,7 @@ BAH_train_equipment_3: "Class 400 Beyer, Peacock 2-4-2"
 #AMA_railway_gun_equipment_1: "" #feel free to add if you find more stuff
 
 ###
-### Vasconia ###
+### Basque Country ###
 ###
 
 ### Land ###
@@ -1905,32 +1914,6 @@ IMP_train_equipment_3: "Canadian National Railway Confederation U-2-e"
 #IMP_railway_gun_equipment_1: "" #feel free to add if you find more stuff
 
 ###
-### Carlist Spain ###
-###
-
-### Land ###
-SPR_infantry_equipment_0: "Oviedo Mauser M1893"
-SPR_infantry_equipment_0_short: "Mauser M1893"
-SPR_infantry_equipment_1: "Oviedo Mauser M1916"
-SPR_infantry_equipment_1_short: "Mauser M1916"
-SPR_infantry_equipment_2: "Labora-Fontbernat M1938"
-SPR_infantry_equipment_2_short: "LF M1938"
-SPR_infantry_equipment_3: "Fabrique Nationale Model 1943"
-SPR_infantry_equipment_3_short: "FN-43"
-
-SPR_gw_tank_equipment: "Renault FT"
-SPR_gw_tank_equipment_short: "FT"
-SPR_light_tank_equipment_1: "Tipo 1933"
-SPR_light_tank_equipment_1_short: "T-33"
-SPR_light_tank_equipment_1_desc: "Der Typ 1933 ist der Höhepunkt einer langen Reihe von Entwürfen der Firma Trubia, die lose auf dem Renault FT basieren. Während das frühere Modell des Unternehmens aus dem Jahr 1925 von der spanischen Armee erprobt wurde, war der Typ 1933 der erste im Inland entwickelte Panzer, der offiziell vom spanischen Militär übernommen wurde."
-SPR_light_tank_equipment_2: "Tipo 1936"
-SPR_light_tank_equipment_2_short: "T-36"
-SPR_light_tank_equipment_2_desc: "Der Typ 1936 wurde von einem Militärbüro von Grund auf und nicht auf der Grundlage eines anderen Fahrzeugs entwickelt und stellte eine wesentliche Verbesserung gegenüber früheren spanischen Konstruktionen dar. Während seine 20-mm-Breda-Hauptkanone bei den Truppen auf Ablehnung stieß, war das Fahrzeug ansonsten zuverlässig und fand großen Anklang."
-SPR_light_tank_equipment_3: "Tipo 1941 'Verdeja'"
-SPR_light_tank_equipment_3_short: "T-41 'Verdeja'"
-SPR_light_tank_equipment_3_desc: "Der Typ 1941 war der erfolgreichste Entwurf des jungen Majors Félix Verdeja Bardales. Das Fahrzeug wurde unter besonderer Berücksichtigung des Schutzes des Motorraums konstruiert und verfügte über eine im Inland entwickelte 45-mm-Hauptkanone."
-
-###
 ### Catalonia ###
 ###
 
@@ -2131,50 +2114,6 @@ IVO_support_weapons: "$GER_support_weapons$"
 IVO_support_weapons_short: "$GER_support_weapons_short$"
 IVO_support_weapons2: "$GER_support_weapons2$"
 IVO_support_weapons2_short: "$GER_support_weapons2_short$"
-
-###
-### SWF ###
-###
-
-### Land ###
-SWF_infantry_equipment_0: "Oviedo Mauser M1893"
-SWF_infantry_equipment_0_short: "Mauser M1893"
-SWF_infantry_equipment_1: "Oviedo Mauser M1916"
-SWF_infantry_equipment_1_short: "Mauser M1916"
-SWF_infantry_equipment_2: "Labora-Fontbernat M1938"
-SWF_infantry_equipment_2_short: "LF M1938"
-SWF_infantry_equipment_3: "MAS Modèle 1940/42"
-SWF_infantry_equipment_3_short: "MAS-40/42"
-
-SWF_gw_tank_equipment: "Renault FT"
-SWF_gw_tank_equipment_short: "FT"
-SWF_light_tank_equipment_1: "Tipo 1933"
-SWF_light_tank_equipment_1_short: "T-33"
-SWF_light_tank_equipment_1_desc: "Der Typ 1933 ist der Höhepunkt einer langen Reihe von Entwürfen der Firma Trubia, die lose auf dem Renault FT basieren. Während das frühere Modell des Unternehmens aus dem Jahr 1925 von der spanischen Armee erprobt wurde, war der Typ 1933 der erste im Inland entwickelte Panzer, der offiziell vom spanischen Militär übernommen wurde."
-SWF_light_tank_equipment_2: "Tipo 1933N"
-SWF_light_tank_equipment_2_short: "T-33N"
-SWF_light_tank_equipment_3: "Tipo 1935/40"
-SWF_light_tank_equipment_3_short: "T-40"
-
-SWF_medium_tank_equipment_1: "Lorraine AMC 35"
-SWF_medium_tank_equipment_1_short: "AMC 35"
-SWF_medium_tank_equipment_2: "SOMUA S35"
-SWF_medium_tank_equipment_2_short: "S35"
-SWF_medium_tank_equipment_3: "Renault G2"
-SWF_medium_tank_equipment_3_short: "G2"
-
-SWF_heavy_tank_equipment_1: "Lorraine B1"
-SWF_heavy_tank_equipment_1_short: "B1"
-SWF_heavy_tank_equipment_2: "Lorraine B2"
-SWF_heavy_tank_equipment_2_short: "B2"
-SWF_heavy_tank_equipment_3: "SOMUA M4"
-SWF_heavy_tank_equipment_3_short: "M4"
-
-SWF_super_heavy_tank_equipment_1: "Colossus"
-SWF_super_heavy_tank_equipment_1_short: "Colossus"
-
-SWF_modern_tank_equipment_1: "Universal Tank Mk I"
-SWF_modern_tank_equipment_1_short: "Universal Mk I"
 
 ###
 ### Kongo (COG) ###
@@ -4362,64 +4301,77 @@ GEA_railway_gun_equipment_1_desc: "$GER_railway_gun_equipment_1_desc$"
 
 #Infantry Equip
 
-GEO_infantry_equipment_0: "1891 Tslis Samkhaziani Shashkhana"
+GEO_infantry_equipment_0: "1891 tslis Mosinis Sistemis Samkhaziani Shashkhana"
 GEO_infantry_equipment_0_short: "Mosinis Shashkhana"
-GEO_infantry_equipment_1: "Mauzeris Sistemis Karabini"
-GEO_infantry_equipment_1_short: "Kar98k"
-#MP35:
-GEO_infantry_equipment_2: "Pistoleti-Tqviamprkvevi 'Iamani'"
-GEO_infantry_equipment_2_short: "PT-35"
-#Gewehr 43:
-GEO_infantry_equipment_3: "Saierisho Shashkhana 'Tao'"
-GEO_infantry_equipment_3_short: "SS-43"
+GEO_infantry_equipment_0_desc: "Die östlichen Verbündeten Deutschlands verfügten alle über große Bestände russischer Mosin-Gewehre, aber sie übernahmen alle die 8-mm-Mauser-Patrone, um den deutschen Standards zu entsprechen. In dem Bestreben, die vorhandenen Bestände kosteneffizient zu nutzen, bis mehr Mauser-Gewehre verfügbar waren, arbeiteten die polnischen Arsenale daran, Mosin-Gewehre in Karabiner umzubauen, die die neue offizielle Patrone aufnehmen konnten. Das Muster Wz. 91/98/25 wurde schnell von anderen Oststaaten übernommen, um ihre vorhandenen Bestände zu modernisieren."
+GEO_infantry_equipment_1: "1924 tslis Mauzeris Karabini"
+GEO_infantry_equipment_1_short: "K-24"
+GEO_infantry_equipment_1_desc: "Der Weltkrieg hat gezeigt, dass Gewehre in voller Länge im Grabenkrieg unhandlich sind und wenig Nutzen bringen. Deutschlands berühmte Sturmtruppen wurden, wann immer möglich, mit dem kürzeren Kar. 98AZ eingesetzt, und bald nach dem Krieg wurde beschlossen, das G.98 durch ein Karabinergewehr zu ersetzen. Das Kar. 98b, das auf dem AZ-Modell basierte, unterschied sich nur wenig von seinem direkten Vorgänger, dafür aber umso mehr vom längeren G.98, mit verbesserter Visierung und einem umgedrehten Verschluss. Vor allem aber wurden mehr Teile des langen Gewehrs verwendet, um die Austauschbarkeit der Teile zu erhöhen und die Herstellungskosten zu senken."
+#MP41:
+GEO_infantry_equipment_2: "1939 tslis Shmaiseris Pistolet-Tqviamprkvevi"
+GEO_infantry_equipment_2_short: "PT-39"
+GEO_infantry_equipment_2_desc: "Während sich das Konzept der Maschinenpistole in der letzten Phase des Weltkriegs gut bewährt hatte, sahen sich viele Nationen bei Ausbruch des Zweiten Weltkriegs mit einem ernsthaften Mangel an diesem Waffentyp konfrontiert. Da die Oststaaten nicht in der Lage waren, die Standard-MP-40 des deutschen Heeres zu beschaffen, mussten sie sich oft mit dem begnügen, was im Handel über private Firmen erhältlich war. Die MP-39, die von Hugo Schmeisser entworfen wurde und sich durch die Kombination des unteren Gehäuses der MP-28 aus Holz und des oberen Gehäuses der MP-38 aus gestanztem Stahl auszeichnet, ist dank ihrer relativen Robustheit und Erschwinglichkeit sowie ihrer Fähigkeit zum selektiven Abfeuern eine beliebte Wahl."
+#Volkssturmgewehr:
+GEO_infantry_equipment_3: "1942 tslis Barnitskes Tvitmteni Shashkhana"
+GEO_infantry_equipment_3_short: "TSh-42"
+GEO_infantry_equipment_3_desc: "Als die deutschen Maschinenkarabiner mit ihren Zwischenpatronen und Selektivfeuer-Fähigkeiten auf dem Schlachtfeld immer präsenter wurden, bot Karl Barnitzke von der Waffenfabrik Suhl eine neue Konstruktion als billigere, in Massenproduktion herstellbare Alternative zum M.Kb. 42. Der Entwurf ist sehr einfach und leicht zu produzieren, mechanisch eine vergrößerte Pistole, die aus einer Vielzahl von gestanzten Blechen besteht und die gleiche Zwischenpatrone und 30-Schuss-Magazine verwendet. Dieses halbautomatische Gewehr konnte die deutsche Armee zwar nicht beeindrucken, weckte aber das Interesse der Oststaaten, die nach einer billigen Alternative zum M.Kb. 42 suchten, da die Deutschen nicht bereit waren, sie zu teilen. Die Waffenfabrik Suhl ist gerne bereit, das Design für die lokale Produktion zu lizenzieren und damit die Feuerkraft der ansonsten leichten Infanterie der östlichen Verbündeten erheblich zu erhöhen."
+
+GEO_support_weapons: "Khelis Msubuki Tqviamprkvevi Liuisi & 9cm Mdzime Naghmsatqortsni"
+GEO_support_weapons_short: "MT-14 & 9cm Naghmsatqortsni"
+GEO_support_weapons2: "1934 tslis Ertiani Tqviamprkvevi & 8,2cm Msubuki Naghmsatqortsni"
+GEO_support_weapons2_short: "ET-34 & 8,2cm Naghmsatqortsni"
+GEO_support_weapons3: "1939 tslis Ertiani Tqviamprkvevi & 9,7cm Msubuki Naghmsatqortsni"
+GEO_support_weapons3_short: "ET-39 & 9,7cm Naghmsatqortsni"
+GEO_support_weapons4: "1942 tslis Ertiani Tqviamprkvevi & 12cm Mdzime Naghmsatqortsni"
+GEO_support_weapons4_short: "ET-42 & 12cm Naghmsatqortsni"
 
 #Motorised
 
 GEO_motorized_equipment_1: "Bergward B-3000"
 GEO_motorized_equipment_1_short: "B-3000"
-GEO_mechanized_equipment_1: "1934 tslis Samkhedro Mankana 'Lazika'"
-GEO_mechanized_equipment_1_short: "SML-34"
+GEO_mechanized_equipment_1: "1934 tslis Samkhedro Mankana"
+GEO_mechanized_equipment_1_short: "SM-34"
 #Schwerer Wehrmachtschlepper:
-GEO_mechanized_equipment_2: "1942 tslis Samkhedro Mankana 'Lazika'"
-GEO_mechanized_equipment_2_short: "SML-42"
+GEO_mechanized_equipment_2: "1942 tslis Samkhedro Mankana"
+GEO_mechanized_equipment_2_short: "SM-42"
 #Basically OT-810:
-GEO_mechanized_equipment_3: "1944 tslis Samkhedro Mankana 'Lazika'"
-GEO_mechanized_equipment_3_short: "SML-44"
+GEO_mechanized_equipment_3: "1944 tslis Samkhedro Mankana"
+GEO_mechanized_equipment_3_short: "SM-44"
 
 #Armoured Car
-GEO_gw_armored_car_equipment: "1935 tslis Javshanmankana 'Didgori'"
-GEO_gw_armored_car_equipment_short: "JD-35"
+GEO_gw_armored_car_equipment: "1935 tslis Javshanmankana"
+GEO_gw_armored_car_equipment_short: "JM-35"
 #Sd. Kfz. 231 6-rad:
-GEO_armored_car_equipment_1: "1936 tslis Javshanmankana 'Didgori'"
-GEO_armored_car_equipment_1_short: "JD-36"
-GEO_armored_car_equipment_2: "1942 tslis Javshanmankana 'Didgori'"
-GEO_armored_car_equipment_2_short: "JD-42"
+GEO_armored_car_equipment_1: "1936 tslis Javshanmankana"
+GEO_armored_car_equipment_1_short: "JM-36"
+GEO_armored_car_equipment_2: "1942 tslis Javshanmankana"
+GEO_armored_car_equipment_2_short: "JM-42"
 #Georgian-made on base of Sdkfz.231:
-GEO_armored_car_at_equipment: "1943 tslis Javshanmankana 'Didgori'"
-GEO_armored_car_at_equipment_short: "JD-43"
+GEO_armored_car_at_equipment: "1943 tslis Javshanmankana"
+GEO_armored_car_at_equipment_short: "JM-43"
 
 #Artillery
 
 GEO_artillery_equipment_1: "1933 tslis 10.5 cm Msubuki Velis Haubitsi"
-GEO_artillery_equipment_1_short: "10.5cm Haubitsi 33"
+GEO_artillery_equipment_1_short: "10.5cm Haubitsi"
 GEO_artillery_equipment_2: "1936 tslis 15 cm Mdzime Velis Haubitsi"
-GEO_artillery_equipment_2_short: "15cm Haubitsi 36"
+GEO_artillery_equipment_2_short: "15cm Haubitsi"
 GEO_artillery_equipment_3: "1940 tslis 15 cm Haubitsi"
-GEO_artillery_equipment_3_short: "15cm Haubitsi 40"
+GEO_artillery_equipment_3_short: "15cm Haubitsi"
 
 GEO_anti_tank_equipment_1: "1936 tslis 3.6 cm Tanksatsinaaghmdego Iaraghi"
-GEO_anti_tank_equipment_1_short: "3.6cm Iaraghi 36"
+GEO_anti_tank_equipment_1_short: "3.6cm TSI"
 GEO_anti_tank_equipment_2: "1940 tslis 7.5 cm Tanksatsinaaghmdego Iaraghi"
-GEO_anti_tank_equipment_2_short: "7.5cm Iaraghi 40"
+GEO_anti_tank_equipment_2_short: "7.5cm TSI"
 GEO_anti_tank_equipment_3: "1943 tslis 12.8 cm Tanksatsinaaghmdego Iaraghi"
-GEO_anti_tank_equipment_3_short: "12.8cm Iaraghi 43"
+GEO_anti_tank_equipment_3_short: "12.8cm TSI"
 
 GEO_anti_air_equipment_1: "1936 tslis 2 cm Sazenito Iaraghi"
-GEO_anti_air_equipment_1_short: "2cm Iaraghi 36"
+GEO_anti_air_equipment_1_short: "2cm Sazenito 36"
 GEO_anti_air_equipment_2: "1937 tslis 3,7 cm Sazenito Iaraghi"
-GEO_anti_air_equipment_2_short: "3,7 cm Iaraghi 37"
+GEO_anti_air_equipment_2_short: "3,7 cm Sazenito 37"
 GEO_anti_air_equipment_3: "1941 tslis 8.8 cm Sazenito Iaraghi"
-GEO_anti_air_equipment_3_short: "8.8cm Iaraghi 41"
+GEO_anti_air_equipment_3_short: "8.8cm Sazenito 41"
 
 ###
 ### German Empire ###
@@ -4629,6 +4581,60 @@ GHA_support_weapons2_short: "$GER_support_weapons2_short$"
 GNA_infantry_equipment_0: "Fusil Lebel Modèle 1886 M93"
 GNA_infantry_equipment_0_short: "Lebel Mle M93"
 GNA_support_weapons: "Darne M1919 & Stokes mortar"
+
+###
+### Gebaia / Guinea-Bissau ###
+###
+
+### Land ###
+GNB_infantry_equipment_0: "Espingarda 6,5 mm m/1904"
+GNB_infantry_equipment_0_short: "Mauser-Vergueiro"
+GNB_infantry_equipment_0_desc: "Das 6,5 mm m/1904 ist ein Repetiergewehr mit langer Dienstgeschichte, das im Allgemeinen unter dem Namen 'Mauser-Vergueiro' bekannt ist, da es im Wesentlichen aus dem Mauser 98 (mit einem speziellen Repetiermechanismus, der sich stark an das Gewehr 1888 anlehnt) und der speziell für die portugiesische Variante entwickelten Patrone 6,5×58 mm Vergueiro besteht. Das Gewehr wurde 1904 zur offiziellen Waffe der portugiesischen Armee und blieb in dieser Funktion bis in die 1940er Jahre im In- und Ausland weit verbreitet. Während sie von den portugiesischen Truppen an der Westfront nicht verwendet wurde, da diese von der Entente, vor allem von den Briten, mit Nachschub versorgt wurden, wurde sie in Afrika von Portugal und seinen Verbündeten in Südafrika ausgiebig eingesetzt und auch von den Deutschen verwendet, die gelegentlich Nachschub in Portugiesisch-Ostafrika erbeuteten."
+GNB_infantry_equipment_1: "Espingarda 7.92 mm m/1904/36"
+GNB_infantry_equipment_1_short: "Mauser-Vergueiro M36"
+GNB_infantry_equipment_1_desc: "Im Grunde genommen handelt es sich um eine aktualisierte Version des Mauser-Vergueiro, die inmitten der wachsenden Spannungen zwischen Portugal und Deutschland in Afrika eingeführt wurde. Eine große Anzahl dieser Waffen wurde später von den Streitkräften der Staaten im ehemaligen portugiesischen Afrika verwendet."
+GNB_infantry_equipment_2: "Carabina C.A.P Modelo 01"
+GNB_infantry_equipment_2_short: "C.A.P M40"
+GNB_infantry_equipment_2_desc: "Der Prototyp des Karabiners, der in der portugiesischen Armee nur wenig Verwendung fand, war der erste Versuch des Landes, eine einheitliche, national hergestellte Waffe zu entwickeln. Die nationalistisch-integralistische Junta unterstützte die Entwicklung des C.A.P.-Karabiners intensiv, doch als er serienreif war, machten es die Realitäten vor Ort sinnvoller, direkt zum FBP-Gesamtmodell überzugehen, das die älteren Mauser-Vergueiro und Varianten ablöste, die in den Streitkräften bereits weit verbreitet waren."
+GNB_infantry_equipment_3: "Pistola-Metralhadora FBP M/945"
+GNB_infantry_equipment_3_short: "FBP M/945"
+GNB_infantry_equipment_3_desc: "Die FBP-Maschinenpistole ist nach dem Akronym für die Fabrik Braço de Prata benannt, dem Hersteller der Waffe, einer Gießerei, die der portugiesischen Regierung gehört und von ihr kontrolliert wird. Obwohl die Entwicklung der FBP schon lange vor ihrem Einsatz bei den Fußtruppen der portugiesischen Armee begann, ging das fertige Modell zu spät in Produktion, um die Mauser-Vergueiro im Krieg zu ersetzen. Diese Absicht wurde dadurch verdeutlicht, dass die Maschinenpistole, was eher ungewöhnlich war, Bajonettfassungen hatte, die mit denen der Mauser-Modelle kompatibel waren, die Portugal in den Konflikten der vorangegangenen Jahrzehnte verwendet hatte. Die so genannte 'Maschinengewehrpistole' (der portugiesische Begriff für Maschinenpistolen im Allgemeinen) fand über viele Jahre hinweg breite Verwendung, wenngleich die Variante von 1945 zugunsten von Versionen mit halbautomatischer Zündung und importierten Modellen aus dem Verkehr gezogen wurde, als der Umfang der Kriegsführung in den späteren Jahrzehnten nach dem Zweiten Weltkrieg abnahm. Zwar gelangten im Vergleich zum alten Mauser-Vergueiro nur wenige Modelle nach Übersee, doch war die Regierung Angolas in der Lage, nach der Entkolonialisierung relativ schnell die Produktion im eigenen Land aufzunehmen."
+GNB_support_weapons: "Metralhadora Vickers & Morteiro Stokes"
+GNB_support_weapons_desc: "Das wassergekühlte Vickers MG und der Stokes-Grabenmörser waren während des Weltkriegs die Standardwaffen des britischen Empire. Während der Wiederaufrüstung nach dem Konflikt kaufte und fertigte die wiederhergestellte portugiesische Monarchie diese Waffen mit der Absicht, sie bei der Infanterie im In- und Ausland einzusetzen."
+GNB_support_weapons2: "Metralhadora Lewis Modelo DEMS & Morteiro SBML de 2 Polegadas"
+GNB_support_weapons_2_desc: "Mit ihrem ikonischen 'Pfannenmagazin' diente die Lewis der Entente seit den dunkelsten Tagen des Ersten Weltkriegs. Die MKIII-Variante hatte einen Pistolengriff, mit dem sie von der Schulter aus auf jedem Teil des Schiffsdecks abgefeuert werden konnte. Die SBML ist zwar klein, aber unglaublich handlich und hatte eine größere Feuerkraft und Reichweite als die meisten Gewehrgranaten."
+GNB_support_weapons3: "Metralhadora Vickers Modelo II & Morteiro ML de 3 Polegadas"
+GNB_support_weapons_3_desc: "Die Mark II-Variante des Vickers-MG verfügte über eine selektive Feueroption und einen Pistolengriff. Es wurde in erster Linie für die gepanzerten Fahrzeuge verwendet. Der ML 3-Zoll-Mörser war eine erhebliche Verbesserung gegenüber dem Stokes, da er für die Unterstützung der Artillerie im Nahbereich zuverlässig und robust war."
+GNB_support_weapons4: "Metralhadora Vickers-Vedras & Morteiro de 4.2 Polegadas"
+GNB_support_weapons_4_desc: "Die dritte Variante des geschätzten Vickers-Maschinengewehrs wurde für die Flugabwehr entwickelt und zeichnete sich durch eine gegenüber den Vorgängermodellen leicht erhöhte Feuerrate aus. Ebenso war der 4,2-Zoll-Mörser eine schwerere Verbesserung der früheren kanadischen Mörsermodelle und in der Lage, intensive und effektive Unterstützung abzuwerfen."
+GNB_infantry_at: "Morteiro-Bombarda"
+GNB_infantry_at_desc: "Der in Kanada entwickelte und in beträchtlichen Mengen an Portugal verkaufte Mörser war ein sogenannter 'Spigot'-Mörser. Mit dem Argument, dass die Konstruktion sowohl als Artilleriegeschütz als auch als Panzerabwehrwaffe dienen konnte, wurde sie von mehreren Verbündeten der Entente, darunter auch Portugal, eifrig übernommen. Viele von ihnen strandeten in den ehemaligen überseeischen Besitzungen des Landes."
+GNB_infantry_at2: "LATI"
+GNB_infantry_at2_desc: "Angesichts des Bedarfs an einer handgeführten Panzerabwehrwaffe für den Einsatz an der Front wurde der LATI (eine direkte Übersetzung seines kanadisch-englischen Namens) auf der Grundlage der Konstruktion des Bombardiermörsers entwickelt. Mit einer effektiven Reichweite von 105 Metern im direkten Feuermodus war das Gerät wegen des fehlenden Rückstoßes sehr beliebt - allerdings gab es Bedenken wegen des starken Rückstoßes."
+
+### Artillery
+GNB_artillery_equipment_1: "Artilharia de Tiro Rápido de 18 Libras"
+GNB_artillery_equipment_1_short: "Ar. TR de 18 Libras"
+GNB_artillery_equipment_2: "Artilharia de Tiro Rápidode 25 Libras"
+GNB_artillery_equipment_2_short: "Ar. TR de 25 Libras"
+GNB_artillery_equipment_3: "Artilharia de Retrocarga de 5.5 Polegadas"
+GNB_artillery_equipment_3_short: "Ar. RC de 5.5 Polegadas"
+GNB_rocket_artillery_equipment_1: "Lança Foguetes de 3 Polegadas"
+GNB_rocket_artillery_equipment_1_short: "LF de 3 Polegadas"
+GNB_rocket_artillery_equipment_2: "Lança Foguetes Matress de 3 Polegadas"
+GNB_rocket_artillery_equipment_2_short: "LF Matress de 3 Polegadas"
+GNB_anti_air_equipment_1: "Artilharia de Tiro Rápido de 3 Libras"
+GNB_anti_air_equipment_1_short: "Ar. TR de 3 Libras"
+GNB_anti_air_equipment_2: "Artilharia de Tiro Rápido de 40mm"
+GNB_anti_air_equipment_2_short: "Ar. TR de 40mm"
+GNB_anti_air_equipment_3: "Artilharia de Tiro Rápido de 33.7 Polegadas"
+GNB_anti_air_equipment_3_short: "Ar. TR de 33.7 Polegadas"
+GNB_anti_tank_equipment_1: "Artilharia de Tiro Rápido de 2 Libras"
+GNB_anti_tank_equipment_1_short: "Ar. TR de 2 Libras"
+GNB_anti_tank_equipment_2: "Artilharia de Tiro Rápido de 6 Libras"
+GNB_anti_tank_equipment_2_short: "Ar. TR de 6 Libras"
+GNB_anti_tank_equipment_3: "Artilharia de Tiro Rápidode 17 Libras"
+GNB_anti_tank_equipment_3_short: "Ar. TR de 17 Libras"
 
 ###
 ### Greece ###
@@ -9662,7 +9668,7 @@ SPO_train_equipment_3: "Class 400 Beyer, Peacock 2-4-2"
 #AMA_railway_gun_equipment_1: "" #feel free to add if you find more stuff
 
 ###
-### Kingdom of Spain ###
+### Spain - shared by all tags ###
 ###
 
 ### Land ###
@@ -9675,6 +9681,46 @@ SPA_infantry_equipment_2_short: "LF M1938"
 SPA_infantry_equipment_3: "Fabrique Nationale Modelo 1943"
 SPA_infantry_equipment_3_short: "FN-43"
 
+### Artillery ###
+SPA_artillery_equipment_1: "Canon de 75 modèle 1897"
+SPA_artillery_equipment_1_short: "Canon de 75 mle 1897"
+# SPA_artillery_equipment_2: "Canon de 75 modèle 1897"
+# SPA_artillery_equipment_2_short: "Canon de 75 mle 1897"
+# SPA_artillery_equipment_3: "Canon de 75 modèle 1897"
+# SPA_artillery_equipment_3_short: "Canon de 75 mle 1897"
+
+# SPA_anti_air_equipment_1: "Oerlikon 20mm/70"
+# SPA_anti_air_equipment_1_short: "OKN 20mm/70"
+# SPA_anti_air_equipment_2: "Oerlikon 20mm/70"
+# SPA_anti_air_equipment_2_short: "Oerlikon 20mm/70"
+# SPA_anti_air_equipment_3: "Oerlikon 20mm/70"
+# SPA_anti_air_equipment_3_short: "Oerlikon 20mm/70"
+
+# SPA_anti_tank_equipment_1: ""
+# SPA_anti_tank_equipment_1_short: ""
+# SPA_anti_tank_equipment_2: ""
+# SPA_anti_tank_equipment_2_short: ""
+# SPA_anti_tank_equipment_3: ""
+# SPA_anti_tank_equipment_3_short: ""
+
+# SPA_rocket_artillery_equipment_1: ""
+# SPA_rocket_artillery_equipment_1_short: ""
+# SPA_rocket_artillery_equipment_2: ""
+# SPA_rocket_artillery_equipment_2_short: ""
+
+### Motorised ###
+SPA_motorized_equipment_1: "Hispano Suiza T-69"
+SPA_motorized_equipment_1_short: "Hispano Suiza T-69"
+
+### Armoured Cars ###
+SPA_gw_armored_car_equipment: "Bilbao Modelo 1932"
+SPA_gw_armored_car_equipment_short: "Bilbao Modelo 1932"
+SPA_armored_car_equipment_1: "Blindado tipo ZIS (UNL-35) 'tiznaos'"
+SPA_armored_car_equipment_1_short: "UNL 35"
+SPA_armored_car_equipment_2: "Autoametralladora-cañón Chevrolet modelo 1940"
+SPA_armored_car_equipment_2_short: "AAC-1940"
+
+### Tanks ###
 SPA_gw_tank_equipment: "Renault FT"
 SPA_gw_tank_equipment_short: "FT"
 SPA_light_tank_equipment_1: "Tipo 1933"
@@ -9702,6 +9748,35 @@ SPA_super_heavy_tank_equipment_1: "Tanque Pesado 5"
 SPA_super_heavy_tank_equipment_1_short: "TP 5"
 SPA_modern_tank_equipment_1: "Carro de Combate 52"
 SPA_modern_tank_equipment_1_short: "CDC 52"
+
+### Old SWF loc - remove or use later ###
+SWF_infantry_equipment_3: "MAS Modèle 1940/42"
+SWF_infantry_equipment_3_short: "MAS-40/42"
+
+SWF_light_tank_equipment_2: "Tipo 1933N"
+SWF_light_tank_equipment_2_short: "T-33N"
+SWF_light_tank_equipment_3: "Tipo 1935/40"
+SWF_light_tank_equipment_3_short: "T-40"
+
+SWF_medium_tank_equipment_1: "Lorraine AMC 35"
+SWF_medium_tank_equipment_1_short: "AMC 35"
+SWF_medium_tank_equipment_2: "SOMUA S35"
+SWF_medium_tank_equipment_2_short: "S35"
+SWF_medium_tank_equipment_3: "Renault G2"
+SWF_medium_tank_equipment_3_short: "G2"
+
+SWF_heavy_tank_equipment_1: "Lorraine B1"
+SWF_heavy_tank_equipment_1_short: "B1"
+SWF_heavy_tank_equipment_2: "Lorraine B2"
+SWF_heavy_tank_equipment_2_short: "B2"
+SWF_heavy_tank_equipment_3: "SOMUA M4"
+SWF_heavy_tank_equipment_3_short: "M4"
+
+SWF_super_heavy_tank_equipment_1: "Colossus"
+SWF_super_heavy_tank_equipment_1_short: "Colossus"
+
+SWF_modern_tank_equipment_1: "Universal Tank Mk I"
+SWF_modern_tank_equipment_1_short: "Universal Mk I"
 
 ###
 ### Shandong Clique/Shangqing Tianguo ###
@@ -10960,7 +11035,7 @@ USA_infantry_equipment_2_desc: "Das vom gleichnamigen Melvin Johnson entworfene 
 #Johnson auto-carbine:
 USA_infantry_equipment_3: "Automatic Carbine, Calibre .30, Model 2"
 USA_infantry_equipment_3_short: "M2 Auto-Carbine"
-USA_infantry_equipment_3_desc: "Die M2 Auto-Carbine ist eine Weiterentwicklung der M1 Auto-Carbine, auch bekannt als Johnson Carbine, die von Melvin Johnson in den frühen 1940er Jahren entwickelt wurde und die ihrerseits auf dem früheren Johnson Light Machine Gun basiert, das nach den gleichen Prinzipien wie das noch frühere Johnson Rifle entwickelt wurde. Das Modell 2 weist zahlreiche kleine Verbesserungen gegenüber der M1 Auto-Carbine auf - wie etwa einen Pistolengriff und eine neue Kimme."
+USA_infantry_equipment_3_desc: "Der M2-Autokarabiner ist eine Weiterentwicklung des M1-Autokarabiners, der auch als Johnson-Karabiner bekannt ist und von Melvin Johnson in den frühen 1940er Jahren entwickelt wurde. Die M1 Autokarabiner selbst basierte auf dem früheren Johnson Light Machine Gun, das nach den gleichen Prinzipien wie das noch frühere Johnson Rifle entwickelt wurde. Das Modell 2 weist zahlreiche kleine Verbesserungen gegenüber dem M1 Auto-Carbine auf, wie etwa einen Pistolengriff und eine neue Kimme."
 USA_infantry_weapons2: "Submachine Gun, Calibre .45, Model 1928A1, Thompson"
 USA_infantry_weapons2_short: "M1928A Thompson"
 #M3 Grease Gun:

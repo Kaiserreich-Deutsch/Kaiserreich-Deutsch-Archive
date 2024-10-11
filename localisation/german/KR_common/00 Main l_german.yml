@@ -13,9 +13,6 @@
 ### Main Menu ###
 play_in_english_tt: ""
 
-### Nation Selection Screen ###
-new_this_patch: "NEU DIESEN PATCH"
-
 ### Splash Screen ###
 KR_welcome_splash_tab_1: "Land"
 KR_welcome_splash_tab_2: "Pfad Anleitungen"
@@ -37,21 +34,21 @@ KR_welcome_splash_tab_3_content: "§YBitte beachten Sie Folgendes:§!\n£white_d
 KR_welcome_splash_tab_3_content_0: "Kaiserreich legt Beschränkungen für diplomatische Aktionen wie §Rfrühe Kriege§!, §RFraktionen§! und §RAutonomiestufen§! fest.\nKaiserreich enthält §CDivisionsgrenzen§! und eine §CDemobilisierung§! Mechanik, um die Spielbarkeit im späteren Spiel zu verbessern.\nBei §YFriedenskonferenzen§! sollten Sie darauf achten, dass Sie alle Staaten annektieren. Sie können später Länder aus den annektierten Gebieten durch §CEntscheidungen§! entlassen.\nIm Menü §YIndividuelle Spielregeln§! können Sie viele Optionen einstellen, darunter §CLänderpfade§!, §CVorrang für Spieler bei Friedenskonferenzen§!, und das §CStaat und Land Transfer Tool§!.\nDas £kr_options_icon  §YOptionsmenu im Spiel§! wird durch einen Klick auf das Symbol in der rechten oberen Ecke geöffnet. Hier können Sie die §CHäufigkeit der Nachrichtenereignisse§! einstellen und die §CDynamische Umbenennung§! von Staaten und Siegpunkten aktivieren.\n§YDieses Fenster§! kann jederzeit wieder geöffnet werden, indem Sie auf das Symbol £help_button  oben rechts klicken."
 
 ## TAB 4 ##
-KR_CURRENT_VERSION: "1.1.4"
-KR_CURRENT_VERSION_NAME: "An Isle Alone"
+KR_CURRENT_VERSION: "1.2"
+KR_CURRENT_VERSION_NAME: "Pour le Mérite"
 KR_CURRENT_VERSION_COMBINED: "Kaiserreich $KR_CURRENT_VERSION$ \"$KR_CURRENT_VERSION_NAME$\""
 KR_welcome_splash_tab_4_upper_header: "§YWillkommen bei $KR_CURRENT_VERSION_COMBINED$§!"
 KR_welcome_splash_tab_4_lower_header: "§YLiebevoll gestaltet vom Kaiserreich Team:§!"
 KR_welcome_splash_tab_4_content: "$KR_welcome_splash_tab_4_content_1$\n$KR_welcome_splash_tab_4_content_2$\n$KR_welcome_splash_tab_4_content_3$\n$KR_welcome_splash_tab_4_content_4$\n$KR_welcome_splash_tab_4_content_5$\n$KR_welcome_splash_tab_4_content_6$\n$KR_welcome_splash_tab_4_content_7$\n$KR_welcome_splash_tab_4_content_8$\n$KR_welcome_splash_tab_4_content_9$\n$KR_welcome_splash_tab_4_content_10$\n$KR_welcome_splash_tab_4_content_11$\n$KR_welcome_splash_tab_4_content_12$\n$KR_welcome_splash_tab_4_content_13$"
 
 KR_welcome_splash_tab_4_content_0: "Unser Team hat an allen Ecken und Enden der Welt hart gearbeitet, um euch diese neue Version zu präsentieren, und wir fühlen uns sehr geehrt, dass ihr sie spielen wollt.\n\nWir hoffen, Sie haben genauso viel Spaß beim Spielen von Kaiserreich wie wir beim Erstellen!"
-KR_welcome_splash_tab_4_content_1: "Alpinia  ·  Arvidus  ·  Augenis  ·  Blackfalcon501  ·  Blackleaf  ·  Cassrabbit  ·  Carmain"
-KR_welcome_splash_tab_4_content_2: "Cazadorian  ·  ClawedAsh  ·  Chazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Cody  ·  DuoDex"
-KR_welcome_splash_tab_4_content_3: "El Daddy  ·  falling_robin  ·  Fedex  ·  Flamefang  ·  Gaboemi  ·  Hamfast  ·  Hazo"
-KR_welcome_splash_tab_4_content_4: "hildagrim  ·  Ido  ·  Igor050301  ·  JazzyHugh  ·  Jeankedezeehond  ·  Jonny BL  ·  Kano"
-KR_welcome_splash_tab_4_content_5: "Kara-Diamant  ·  katieluka  ·  Kennedy  ·  kergely  ·  KFateweaver  ·  Klyntar King  ·  Krčo"
-KR_welcome_splash_tab_4_content_6: "lehmannmo  ·  Luwofe  ·  Matoro  ·  McOmghall  ·  MrMano  ·  ~mw~ // miwaco.  ·  Pelmen"
-KR_welcome_splash_tab_4_content_7: "PPsyrius  ·  Purple Jinjo  ·  RagnoStrangeros  ·  Remington  ·  Rnk  ·  Shiroe  ·  Shōta"
+KR_welcome_splash_tab_4_content_1: "Alpinia  ·  Angel  ·  Arvidus  ·  Augenis  ·  Blackfalcon501  ·  Blackleaf  ·  Cassrabbit"
+KR_welcome_splash_tab_4_content_2: "Carmain  ·  Cazadorian  ·  ClawedAsh  ·  Chazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Cody"
+KR_welcome_splash_tab_4_content_3: "DerEherneRächer  ·  DuoDex  ·  El Daddy  ·  falling_robin  ·  Fedex  ·  Flamefang"
+KR_welcome_splash_tab_4_content_4: "Frill Shark  ·  Gaboemi  ·  Hamfast  ·  Hazo  ·  hildagrim  ·  Ido  ·  Igor050301  ·  JazzyHugh"
+KR_welcome_splash_tab_4_content_5: "Jeankedezeehond  ·  Jonny BL  ·  Kano  ·  katieluka  ·  kergely  ·  KFateweaver  ·  Klyntar King"
+KR_welcome_splash_tab_4_content_6: "Krčo  ·  lehmannmo  ·  Luwofe  ·  Matoro  ·  McOmghall  ·  MrMano  ·  ~mw~ // miwaco."
+KR_welcome_splash_tab_4_content_7: "Noot  ·  Pelmen  ·  PPsyrius  ·  Purple Jinjo  ·  Remington  ·  Rnk  ·  Rune  ·  Shiroe"
 KR_welcome_splash_tab_4_content_8: "Sonny O'Cad  ·  SuperGreenBeans  ·  suzuha  ·  The Alpha Dog  ·  The Irredentista"
 KR_welcome_splash_tab_4_content_9: "The Italian Jojo  ·  Toaster  ·  Vidyaország  ·  VladimirLemon  ·  Zimbabwe Salt Co."
 
@@ -70,6 +67,7 @@ EMBARGO_THREAT_TT: "§RWeltweite Spannung muss höher sein als §Y50%§!.§!"
 EMBARGO_OPINION_TT: "§R- §Y[FROM.GetNameWithFlag]'s§! Meinung über §Y[ROOT.GetNameWithFlag]§! muss niedriger als -50 sein.§!"
 
 REVOKE_EMBARGO_SCRIPTED_TT: "§RDieses Embargo kann nicht widerrufen werden.§!"
+REVOKE_MARKET_ACCESS_SAME_ECONOMIC_SPHERE_TT: "§RLänder, die demselben Wirtschaftsraum angehören, können sich nicht gegenseitig den Marktzugang entziehen.§!"
 
 RECALL_VOLUNTEERS_TITLE: "Freiwillige zurückrufen"
 RECALL_VOLUNTEERS_ACTION_DESC: "Rufen Sie alle in dieses Land entsandten Freiwilligen zurück."
@@ -181,8 +179,14 @@ kr_options_tooltip: "Kaiserreich-spezifische Spieloptionen ein- und ausschalten"
 kr_help_title: "§YLänderinformationen§!"
 kr_help_tooltip: "Klicken Sie hier, um den §YIntro-Bildschirm§! zu öffnen.\n\nEr enthält:\n£white_dot Informationen über Ihre Nation,\n£white_dot eine Liste von §CPfad-Anleitungen§! speziell für diese Nation,\n£white_dot Informationen über mod-spezifische Features und\n£white_dot die Credits der Mod."
 
+custom_achievements_text: "Benutzerdefinierte Errungenschaften"
+custom_achievements_tooltip: "§GKlick§! hier, um die Fähigkeit, benutzerdefinierte Errungenschaften freizuschalten, zu aktivieren."
+
 rename_text: "Staat/SP Umbenennung"
 rename_tooltip: "§GKlicken§! Sie hier, um die dynamische Umbenennung von Staaten und Siegpunkten auf Basis ihres aktuellen Landes zu aktivieren."
+
+sound_events_text: "Sound-Events"
+sound_events_tooltip: "§Klick§! hier, um Sound-Events einzuschalten.\nSound-Events spielen Musik, die auf Schlüsselmomente in Ihrem Spielverlauf für einige Länder zugeschnitten ist.\n\nDies steht Ihnen zur Verfügung, weil Sie mit der Kaiserreich-Musik-Mod spielen."
 
 regional_news_text: "Regionale Nachrichten"
 regional_news_tooltip: "§GKlicken§! Sie hier, um die Event-Popups für globale Events zu aktivieren, die sich direkt auf die Länder auswirken, die das Popup empfangen."
@@ -191,12 +195,108 @@ world_news_text: "Weltweite Nachrichten"
 world_news_tooltip: "§GKlicken§! Sie hier, um die Event-Popups für alle globalen Ereignisse einzuschalten, unabhängig von der Relevanz für das Land, das sie empfängt."
 
 ### Economic Spheres GUI ###
+is_in_economic_sphere: "Ist Teil einer §YWirtschaftssphäre§!"
+is_in_economic_sphere_NOT: "Ist §Rnicht§! Teil einer §YWirtschaftssphäre§!"
+
+is_economic_sphere_leader: "Ist der Anführer einer §YWirtschaftssphäre§!"
+is_economic_sphere_leader_NOT: "Ist §Rnicht§! der Anführer einer §YWirtschaftssphäre§!"
+
+is_in_same_economic_sphere_as_ROOT: "Ist in der gleichen §YWirtschaftssphäre§!, wie §Y[ROOT.GetNameWithFlag]§!"
+is_in_same_economic_sphere_as_ROOT_NOT: "Ist §Rnicht§! in der gleichen §YWirtschaftssphäre§!, wie §Y[ROOT.GetNameWithFlag]§!"
+
+is_in_same_economic_sphere_as_FROM: "Ist in der gleichen §YWirtschaftssphäre§!, wie §Y[FROM.GetNameWithFlag]§!"
+is_in_same_economic_sphere_as_FROM_NOT: "Ist §Rnicht§! in der gleichen §YWirtschaftssphäre§!, wie §Y[FROM.GetNameWithFlag]§!"
+
+is_in_same_economic_sphere_as_PREV: "Ist in der gleichen §YWirtschaftssphäre§!, wie §Y[PREV.GetNameWithFlag]§!"
+is_in_same_economic_sphere_as_PREV_NOT: "Ist §Rnicht§! in der gleichen §YWirtschaftssphäre§!, wie §Y[PREV.GetNameWithFlag]§!"
+
+is_in_economic_sphere_led_by_ROOT: "Ist Teil von §Y[ROOT.GetNameWithFlag]§!s §YWirtschaftssphäre§!"
+is_in_economic_sphere_led_by_ROOT_NOT: "Ist §Rnicht§! Teil von §Y[ROOT.GetNameWithFlag]§!s §YWirtschaftssphäre§!"
+
+is_in_economic_sphere_led_by_FROM: "Ist Teil von §Y[FROM.GetNameWithFlag]§!s §YWirtschaftssphäre§!"
+is_in_economic_sphere_led_by_FROM_NOT: "Ist §Rnicht§! Teil von §Y[FROM.GetNameWithFlag]§!s §YWirtschaftssphäre§!"
+
+is_in_economic_sphere_led_by_PREV: "Ist Teil von §Y[PREV.GetNameWithFlag]§!s §YWirtschaftssphäre§!"
+is_in_economic_sphere_led_by_PREV_NOT: "Ist §Rnicht§! Teil von §Y[PREV.GetNameWithFlag]§!s §YWirtschaftssphäre§!"
+
+is_leader_of_economic_sphere_of_ROOT: "Ist der Anführer von §Y[ROOT.GetNameWithFlag]§!s §YWirtschaftssphäre§!"
+is_leader_of_economic_sphere_of_ROOT_NOT: "Ist §Rnicht§! der Anführer von §Y[ROOT.GetNameWithFlag]§!s §YWirtschaftssphäre§!"
+
+is_leader_of_economic_sphere_of_FROM: "Ist der Anführer von §Y[FROM.GetNameWithFlag]§!s §YWirtschaftssphäre§!"
+is_leader_of_economic_sphere_of_FROM_NOT: "Ist §Rnicht§! der Anführer von §Y[FROM.GetNameWithFlag]§!s §YWirtschaftssphäre§!"
+
+is_leader_of_economic_sphere_of_PREV: "Ist der Anführer von §Y[PREV.GetNameWithFlag]§!s §YWirtschaftssphäre§!"
+is_leader_of_economic_sphere_of_PREV_NOT: "Ist §Rnicht§! der Anführer von §Y[PREV.GetNameWithFlag]§!s §YWirtschaftssphäre§!"
+
 economic_sphere_button_tooltip: "§Y[GetEconomicSphereName]§!"
 economic_sphere_button_tooltip_delayed: "§L[GetEconomicSphereDesc]§!"
 
-economic_sphere_default_name: "[PREV.GetName] Wirtschaftliche Sphäre"
+economic_sphere_default_name: "[PREV.GetName] Wirtschaftssphäre"
 economic_sphere_default_icon: "GFX_goal_generic_positive_trade_relations_gold"
 economic_sphere_default_desc: ""
+
+### International Market Triggers ###
+trade_partners_at_peace: "Länder im Frieden"
+trade_partners_at_war: "Länder im Krieg"
+trade_partners_majors: "Hauptländer"
+trade_partners_faction_leader: "Fraktionsanführer"
+trade_partners_faction_members: "Alle Fraktionsmitglieder"
+trade_partners_major_faction_members: "Hauptländer Fraktionsmitglieder"
+trade_partners_minor_faction_members: "Nebenländer Fraktionsmitglieder"
+trade_partners_reichspakt: "Alle [GER.GetFactionName] Länder"
+trade_partners_internationale: "Alle [INT.GetFactionName] Länder"
+trade_partners_entente: "Alle [ENT.GetFactionName] Länder"
+trade_partners_moscow_accord: "Alle [RUS.GetFactionName] Länder"
+trade_partners_co_prosperity_sphere: "Alle [JAP.GetFactionName] Länder"
+trade_partners_overlord: "Oberherr"
+trade_partners_puppets_of_same_overlord: "Marionetten unseres Oberherrn"
+trade_partners_same_economic_sphere: "Mitglieder unseres Wirtschaftssphäre"
+trade_partners_mitteleuropa: "Mitglieder von $mitteleuropa_title$"
+trade_partners_phalanstere: "Mitglieder des $INT_phalanstere$"
+trade_partners_iedc: "Mitglieder der $CAN_iedc$"
+trade_partners_geacps: "Mitglieder der $JAP_asian_economic_sphere$"
+trade_partners_non_aggression_pacts: "Unterzeichner des Nichtangriffspakts"
+trade_partners_guarantors: "Garanten"
+trade_partners_same_government: "Länder mit der gleichen Regierung"
+trade_partners_different_government: "Länder mit einer unterschiedlichen Regierung"
+trade_partners_same_government_type: "Länder mit demselben Regierungstyp"
+trade_partners_different_government_type: "Länder mit einem anderen Regierungstyp"
+trade_partners_socialists: "Alle sozialistischen Länder"
+trade_partners_non_socialists: "Alle nicht-sozialistischen Länder"
+trade_partners_totalists: "$totalist$ Länder"
+trade_partners_syndicalists: "$syndicalist$ Länder"
+trade_partners_radical_socialists: "$radical_socialist$ Länder"
+trade_partners_is_elected: "$social_democrat$, $social_liberal$, $market_liberal$ oder $social_conservative$ Länder"
+trade_partners_is_democratic: "$social_democrat$, $social_liberal$, $market_liberal$, $social_conservative$ oder $authoritarian_democrat$ Länder"
+trade_partners_is_liberal: "$social_democrat$, $social_liberal$ oder $market_liberal$ Länder"
+trade_partners_is_conservative: "$social_conservative$ oder $authoritarian_democrat$ Länder"
+trade_partners_social_democrats: "$social_democrat$ Länder"
+trade_partners_social_liberals: "$social_liberal$ Länder"
+trade_partners_market_liberals: "$market_liberal$ Länder"
+trade_partners_social_conservatives: "$social_conservative$ Länder"
+trade_partners_is_authoritarian: "$authoritarian_democrat$, $paternal_autocrat$ oder $national_populist$ Länder"
+trade_partners_is_dictatorship: "$paternal_autocrat$ oder $national_populist$ Länder"
+trade_partners_authoritarian_democrats: "$authoritarian_democrat$ Länder"
+trade_partners_paternal_autocrats: "$paternal_autocrat$ Länder"
+trade_partners_national_populists: "$national_populist$ Länder"
+trade_partners_monarchies: "Alle Monarchien"
+trade_partners_republics: "Alle Republiken"
+trade_partners_north_america: "Nordamerikanische Länder"
+trade_partners_central_america: "Mittelamerikanische Länder"
+trade_partners_caribbean: "Karibische Länder"
+trade_partners_south_america: "Südamerikanische Länder"
+trade_partners_europe: "Europäische Länder"
+trade_partners_africa: "Afrikanische Länder"
+trade_partners_north_africa: "Nordafrikanische Länder"
+trade_partners_africa_except_north: "Länder in Subsahara-Afrika"
+trade_partners_asia: "Asiatische Länder"
+trade_partners_india: "Indische Länder"
+trade_partners_asia_except_india: "Ostasiatische Länder"
+trade_partners_middle_east: "Länder des Nahen Ostens"
+trade_partners_oceania: "Ozeanische Länder"
+trade_partners_neighbours: "Nachbarn"
+trade_partners_same_continent_neighbours: "Gleicher Kontinent - Nachbarn"
+trade_partners_home_area_neighbours: "Heimatgebiet Nachbarn"
 
 ### Static Modifiers ###
 volunteer_limit_plus_three: "Erhöhtes Limit für Freiwillige"
@@ -244,19 +344,32 @@ clamour_for_autonomy: "Forderung nach Autonomie"
 
 ### Opinion Modifiers ###
 KR_friendly: "Freundlich"
-KR_close_allies: "Enge Verbündete"
-KR_deal_with_devil: "Handel mit dem Teufel"
-KR_returned_land: "Rückgabe unseres Landes"
+KR_hostile: "Feindselig"
 KR_liberated_us: "Befreite uns"
+KR_loyal_subject: "Treuer Untertan"
+KR_diplomatic_mission: "Diplomatische Mission"
+
+KR_close_allies: "Enge Verbündete"
+KR_returned_land: "Gab unser Land zurück"
 KR_approves_of_govt: "Genehmigung der Regierung"
 KR_pleased: "Erfreut durch uns"
 KR_displeased: "Unzufrieden mit unseren Handlungen"
 KR_disapproves_of_govt: "Missbilligt die Regierung"
+KR_diplomatic_row: "Diplomatische Reihe"
 KR_hates_govt: "Wütend auf die Regierung"
 KR_outraged: "Empört"
-KR_hostile: "Feindselig"
+KR_supported_us: "Unterstützte unsere Regierung"
+KR_supported_our_enemies: "Unterstützt unsere Feinde"
+
 KR_trade_agreement: "Handelsabkommen"
 KR_trade_sanctions: "Handelssanktionen"
+
+KR_different_ideology_close: "Unterschiedliche Ideologie"
+KR_different_ideology: "Unterschiedliche Ideologie"
+KR_similar_ideology_close: "Ähnliche Ideologie"
+KR_similar_ideology: "Ähnliche Ideologie"
+KR_similar_ideology_distant: "Ähnliche Ideologie"
+KR_same_ideology: "Gleiche Ideologie"
 
 ### Focus Filters ###
 FOCUS_FILTER_PRODUCTION: "Produktion"
@@ -478,9 +591,6 @@ mtg_generic.1.title: "[From.GetName] erzwingt Regierungswechsel"
 mtg_generic.1.desc: "Unter Hinweis auf den deutlichen Mangel an Wahlunterstützung für unsere gegenwärtige Regierung hat [From.GetNameDef] einen Politikwechsel gefordert."
 mtg_generic.1.a: "Wir haben keine andere Wahl als zu akzeptieren."
 
-### Land Units ###
-category_mounted_inf: "Berittene Infanterie"
-
 ### Sub-unit Modifiers ###
 modifier_army_sub_unit_category_bicycle_battalion_attack_factor: "Fahrrad-Angriff" 
 modifier_army_sub_unit_category_bicycle_battalion_defence_factor: "Fahrrad-Verteidigung"
@@ -548,12 +658,15 @@ tech_ski_infantry: "Ski-Infanterie"
 tech_ski_infantry_effect: "Ermöglicht §H$tech_ski_infantry$§!\n§H$infantry$\n    $hills$§!\n      $STAT_ADJUSTER_ATTACK$§G+5%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+5%§!\n    §H$mountain$§!\n      $STAT_ADJUSTER_ATTACK$§G+5%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+10%§!"
 
 tech_marine_bonus: "Verbesserte Marineinfanterie"
-tech_marine_bonus_effect: "Ermöglicht §H$tech_marine_bonus$\n$marine$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§H$amphibious_mechanized$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§H$amphibious_armor$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!"
+tech_marine_bonus_effect: "Ermöglicht §H$tech_marine_bonus$\n$tech_marine_bonus_effect_tooltip$"
+tech_marine_bonus_effect_tooltip: "$marine$§!\n      $STAT_ARMY_SOFT_ATTACK$[?0.05|=+%0]\n      $STAT_ARMY_HARD_ATTACK$[?0.05|=+%0]\n§H$amphibious_mechanized$§!\n      $STAT_ARMY_SOFT_ATTACK$[?0.05|=+%0]\n      $STAT_ARMY_HARD_ATTACK$[?0.05|=+%0]\n§H$category_amphibious_tanks$§!\n      $STAT_ARMY_SOFT_ATTACK$[?0.05|=+%0]\n      $STAT_ARMY_HARD_ATTACK$[?0.05|=+%0]"
 
 tech_marine_bonus_2: "Ausgebildete Marineinfanterie"
-tech_marine_bonus_2_effect: "Ermöglicht §H$tech_marine_bonus_2$\n$marine$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§HAmtrac Bataillon§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!\n§HAmphibisches Panzerbattalion§!\n      $STAT_ARMY_SOFT_ATTACK$§G+5%§!\n      $STAT_ARMY_HARD_ATTACK$§G+5%§!"
+tech_marine_bonus_2_effect: "Ermöglicht §H$tech_marine_bonus_2$\n$tech_marine_bonus_2_effect_tooltip$"
+tech_marine_bonus_2_effect_tooltip: "$marine$§!\n      $STAT_ARMY_SOFT_ATTACK$[?0.05|=+%0]\n      $STAT_ARMY_HARD_ATTACK$[?0.05|=+%0]\n§H$amphibious_mechanized$§!\n      $STAT_ARMY_SOFT_ATTACK$[?0.05|=+%0]!\n      $STAT_ARMY_HARD_ATTACK$[?0.05|=+%0]\n§H$category_amphibious_tanks$§!\n      $STAT_ARMY_SOFT_ATTACK$[?0.05|=+%0]\n      $STAT_ARMY_HARD_ATTACK$[?0.05|=+%0]"
 
-tech_marine_bonus_combined_effect: "Ermöglicht §H$tech_marine_bonus$\n$marine$§!\n      $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n      $STAT_ARMY_HARD_ATTACK$§G+10%§!\n§HAmtrac Bataillon§!\n      $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n      $STAT_ARMY_HARD_ATTACK$§G+10%§!\n§HAmphibisches Panzerbattalion§!\n      $STAT_ARMY_SOFT_ATTACK$§G+10%§!\n      $STAT_ARMY_HARD_ATTACK$§G+10%§!"
+tech_marine_bonus_combined_effect: "Enables §H$tech_marine_bonus$\n$tech_marine_bonus_combined_effect_tooltip$"
+tech_marine_bonus_combined_effect_tooltip: "$marine$§!\n      $STAT_ARMY_SOFT_ATTACK$[?0.1|=+%0]\n      $STAT_ARMY_HARD_ATTACK$[?0.1|=+%0]\n§H$amphibious_mechanized$§!\n      $STAT_ARMY_SOFT_ATTACK$[?0.1|=+%0]\n      $STAT_ARMY_HARD_ATTACK$[?0.1|=+%0]\n§H$category_amphibious_tanks$§!\n      $STAT_ARMY_SOFT_ATTACK$[?0.1|=+%0]\n      $STAT_ARMY_HARD_ATTACK$[?0.1|=+%0]"
 
 jungle_warfare_effect: "Ermöglicht §H$jungle_warfare$\n$category_light_infantry$\n    $jungle$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+5%§!"
 

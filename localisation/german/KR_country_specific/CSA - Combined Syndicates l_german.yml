@@ -8,13 +8,10 @@
  CSA_DEF: "Amerika"
 
  CSA_totalist: "Kombinierte Syndikate von Amerika"
- CSA_totalist_ADJ: "Amerikanisch"
  CSA_totalist_DEF: "die Kombinierte Syndikate von Amerika"
  CSA_syndicalist: "Kombinierte Syndikate von Amerika"
- CSA_syndicalist_ADJ: "Amerikanisch"
  CSA_syndicalist_DEF: "die Kombinierte Syndikate von Amerika"
  CSA_radical_socialist: "Kombinierte Syndikate von Amerika"
- CSA_radical_socialist_ADJ: "Amerikanisch"
  CSA_radical_socialist_DEF: "die Kombinierte Syndikate von Amerika"
 
  CSA_ACW: "Kombinierte Syndikate von Amerika"
@@ -22,33 +19,24 @@
  CSA_ACW_DEF: "die Kombinierte Syndikate von Amerika"
 
 CSA_socialist_republic_totalist: "Sozialistische Republik von Amerika"
-CSA_socialist_republic_totalist_ADJ: "Amerikanisch"
 CSA_socialist_republic_totalist_DEF: "Die Sozialistische Republik von Amerika"
 CSA_socialist_republic_syndicalist: "Sozialistische Republik von Amerika"
-CSA_socialist_republic_syndicalist_ADJ: "Amerikanisch"
 CSA_socialist_republic_syndicalist_DEF: "Die Sozialistische Republik von Amerika"
 CSA_socialist_republic_radical_socialist: "Sozialistische Republik von Amerika"
-CSA_socialist_republic_radical_socialist_ADJ: "Amerikanisch"
 CSA_socialist_republic_radical_socialist_DEF: "Die Sozialistische Republik von Amerika"
 
 CSA_commonwealth_america_totalist: "Commonwealth von Amerika"
-CSA_commonwealth_america_totalist_ADJ: "Amerikanisch"
 CSA_commonwealth_america_totalist_DEF: "Das Commonwealth von Amerika"
 CSA_commonwealth_america_syndicalist: "Commonwealth von Amerika"
-CSA_commonwealth_america_syndicalist_ADJ: "Amerikanisch"
 CSA_commonwealth_america_syndicalist_DEF: "Das Commonwealth von Amerika"
 CSA_commonwealth_america_radical_socialist: "Commonwealth von Amerika"
-CSA_commonwealth_america_radical_socialist_ADJ: "Amerikanisch"
 CSA_commonwealth_america_radical_socialist_DEF: "Das Commonwealth von Amerika"
 
 CSA_socialist_union_of_america_totalist: "Union der Sozialistischen Amerikanischen Staaten"
-CSA_socialist_union_of_america_totalist_ADJ: "Amerikanisch"
 CSA_socialist_union_of_america_totalist_DEF: "Die Union der Sozialistischen Amerikanischen Staaten"
 CSA_socialist_union_of_america_syndicalist: "Union der Sozialistischen Amerikanischen Staaten"
-CSA_socialist_union_of_america_syndicalist_ADJ: "Amerikanisch"
 CSA_socialist_union_of_america_syndicalist_DEF: "Die Union der Sozialistischen Amerikanischen Staaten"
 CSA_socialist_union_of_america_radical_socialist: "Union der Sozialistischen Amerikanischen Staaten"
-CSA_socialist_union_of_america_radical_socialist_ADJ: "Amerikanisch"
 CSA_socialist_union_of_america_radical_socialist_DEF: "Die Union der Sozialistischen Amerikanischen Staaten"
 
 ### Parties ###
@@ -123,10 +111,6 @@ CSA_socialist_union_of_america_radical_socialist_DEF: "Die Union der Sozialistis
  CSA_red_guard_commander_desc: "§LDieser Anführer ist zwar nach normalen militärischen Maßstäben noch unerfahren, hat aber bei der Führung der Milizen der Roten Garde vor dem Amerikanischen Bürgerkrieg sein Können unter Beweis gestellt. Dieses Wissen dürfte sich als wertvoll erweisen.§!"
 
 ### Flags ###
-CSA_constitutional_convention_done: "Der Zweite Verfassungskonvent wurde beendet"
-CSA_foster_is_leader: "William Foster ist der Präsident"
-CSA_browder_is_leader: "Earl Browder ist der Präsident"
-CSA_new_industries: "Kapitalistische Unternehmen wurden von den Arbeitern übernommen"
  CSA_corruption_in_dockyards: "Wir haben die Korruption in der Marineindustrie aufgedeckt"
 
 ### Ideas ###
@@ -198,16 +182,6 @@ CSA_new_industries: "Kapitalistische Unternehmen wurden von den Arbeitern übern
  CSA_protect_hawaii: "Schützen Sie die hawaiianische Kommune"
  CSA_protect_philippines: "Schutz der Philippinen"
 
- CSA_reconstruction_decisions: "Wiederaufbau des Landes"
- CSA_reconstruction_decisions_desc: "Wir haben den Sieg in der Revolution errungen, aber jetzt müssen wir unsere Anstrengungen auf den Wiederaufbau des Landes richten, damit jeder Amerikaner an den Früchten des Syndikalismus teilhaben kann."
- CSA_rebuild_new_england: "Neuengland wiederaufbauen"
- CSA_rebuild_the_west: "Wiederaufbau des Westens"
- CSA_rebuild_the_steel_belt: "Wiederaufbau des Stahlgürtels"
- CSA_rebuild_the_south: "Wiederaufbau des Südens"
- CSA_rebuild_the_pacific_coast: "Wiederaufbau der Pazifikküste"
- CSA_rebuild_the_south_atlantic: "Wiederaufbau des Südatlantiks"
- CSA_rebuild_rockies: "Wiederaufbau der Rockies"
-
  CSA_economic_development_decisions: "Wirtschaftliche Entwicklung"
  CSA_industrial_research_expansion: "Ausbau der industriellen Forschung"
  CSA_infrastructure_expansion: "Infrastruktureller Ausbau in [FROM.GetName]"
@@ -257,9 +231,6 @@ CSA_new_industries: "Kapitalistische Unternehmen wurden von den Arbeitern übern
  CSA_a_new_america: "Rückblick und Erinnerung an amerikanische Helden"
  CSA_a_new_america_desc: "Die Namen von Joe Hill, den Haymarket Martyrs und sogar Eugene Debs sind heute berühmt, aber nur als oberste Schicht eines langen Vermächtnisses amerikanischer Syndikalisten-Helden. Wir müssen die jahrelangen Fehlinformationen über diese Persönlichkeiten durch eine konzentrierte Propagandaanstrengung beseitigen und auch damit beginnen, einer neuen Generation das Vermächtnis der zahllosen tapferen amerikanischen Helden, die für die Rechte der Arbeiter gekämpft haben, nahezubringen."
  
-### Amerikanische Einführung ###
- CSA_guide: "§MThomas Gewählt§! / §MFlynn Gewählt§! (§RRadikal Sozialistisch§! / §rSyndikalistisch§!)\n£white_dot Wenn die Verfassungskonvente beginnen, wählen Sie die Optionen, die den Syndikalisten oder den radikalen Sozialisten den Vorzug geben.\n£white_dot Elizabeth Flynn oder Norman Thomas wählen.\n\n§MBrowder gewählt§! / §MFoster Gewählt§! (§oTotalistisch§!)\n£white_dot Wenn die Verfassungskonvente beginnen, wählen Sie die Optionen, die für den Totalisten sprechen.\n£white_dot Earl Browder oder William Foster wählen.\n\n§MButler Putsch§! (§RRadikal Sozialistisch§! / §rSyndikalistisch§!)\n£white_dot Befolgen Sie die Schritte, um den Totalisten an die Macht zu bringen.\n£white_dot Es wird ein Ereignis zur Umstrukturierung der Armee erscheinen, und Sie können sich dafür entscheiden, die Armee so zu belassen, wie sie ist.\n£white_dot Der Butler-Putsch wird später erscheinen und versuchen, die Demokratie wiederherzustellen. Seine Truppen haben die Zitadelle eingenommen und Sie können Elizabeth Flynn oder Norman Thomas als neuen Präsidenten wählen.\n\n§MAußenpolitik§!\n §MDritte Internationale§!\n£white_dot Gewinnen Sie den Bürgerkrieg und schließen Sie den Schwerpunkt \"Guter syndikalistischer Soldat\" ab, um ihnen beitreten zu können.\n §MDie Neue Welt befreien§!\n£white_dot Wir werden den Beschluss fassen können, allen nicht-sozialistischen Ländern in Amerika den Krieg zu erklären.\n\n§MKünftige Wahlen§!\n§MWahlen 1940§!\n£white_dot Sollte Norman Thomas gewählt werden, tritt er gegen Daniel Hoan von der §rArbeiterpartei§! an.\n£white_dot Wenn Elizabeth gewählt würde, würde sie gegen Upton Sinclair von der §RSozialistischen Partei§! antreten.\n§MWahlen 1944§!\n£white_dot Mit Sinclair wird er gegen Eleanor Roosevelt antreten, wenn es New England nicht gibt, und wenn es sie gibt, wird sie durch Frank Johns ersetzt werden.\n£white_dot Mit Flynn wird sie gegen John Llewellyn Lewis antreten müssen.\n£white_dot Mit Hoan wird er gegen John Llewellyn Lewis antreten müssen.\n£white_dot Mit Norman Thomas wird er gegen Eleanor Roosevelt antreten, wenn es Neu-England nicht gibt, und wenn es sie gibt, wird sie durch Frank Johns ersetzt werden.\n§MWahlen 1948§!\n£white_dot Sinclair wird Oakley Johnson gegen James Cannon antreten lassen.\n£white_dot Mit Frank Johns wird er gegen Israel Amter antreten müssen.\n£white_dot Mit Roosevelt wird sie gegen Israel Amter antreten.\n£white_dot Mit Flynn wird Israel Amter gegen Frank Zeidler antreten.\n£white_dot Mit Llewellyn wird er gegen James Cannon antreten müssen.\n£white_dot Mit Hoan wird Darling Hoops gegen Elmer Allison antreten.\n£white_dot Mit Norman Thomas wird Oakley Johnson gegen Elmer Allison antreten.\n§MWahlen 1952§!\n£white_dot Mit Oakley wird er gegen Henning Blomen antreten müssen.\n£white_dot Mit James Cannon wird er gegen Norman Thomas antreten müssen.\n£white_dot Mit Elmer Allison wird er gegen Upton Sinclair antreten.\n£white_dot Mit Hoopes wird er gegen Henning Blomen antreten müssen.\n£white_dot Mit Zeidler wird er gegen Asa Philip Randolph antreten.\n£white_dot Mit Amter wird er gegen Henning Blomen antreten müssen.\n£white_dot Mit Franks Johns, Roosevelt oder Llewellyn wird Henning Blomen gegen Asa Philip Randolph antreten."
-
 ### American Commonwealth Focuses ###
 CSA_second_convention: "Zweiter Verfassungskonvent"
 CSA_second_convention_desc: "Es ist an der Zeit, den nächsten Schritt in unserem revolutionären Kampf zu beschließen und einen Weg zu finden, um Arbeiter hinter einer einzigen Sache und Ideologie zu vereinen. Wie vor über einem Jahrhundert werden wir Philadelphia den Ort eines Verfassungskonvents sein lassen!"
@@ -559,6 +530,9 @@ CSA_purge_reactionaries_desc: "In keinem Land war die Kultur vom Kapitalismus so
  CSA_look_to_the_south_desc: "Nachdem wir die Vorherrschaft über Kanada und Mexiko erlangt haben, können wir unseren Blick nach Süden auf den Rest Nord- und Südamerikas richten. Mit den Ländern, die sich der Revolution nicht angeschlossen haben, sollten wir uns sofort befassen."
  CSA_master_of_the_west: "Meister des Westens"
  CSA_master_of_the_west_desc: "Wir haben unser Ziel erreicht: Amerika steht aufrecht, ist Meister der Neuen Welt und frei von den Ketten der kapitalistischen Herrschaft. Unabhängig davon, was in Europa und anderswo geschieht, werden wir wissen, dass zumindest der Westen für seine Freiheit gekämpft und den Sieg davongetragen hat."
+
+### Intro Screen ###
+ CSA_guide: "§MThomas Gewählt§! / §MFlynn Gewählt§! (§RRadikal Sozialistisch§! / §rSyndikalistisch§!)\n£white_dot Wenn die Verfassungskonvente beginnen, wählen Sie die Optionen, die den Syndikalisten oder den radikalen Sozialisten den Vorzug geben.\n£white_dot Elizabeth Flynn oder Norman Thomas wählen.\n\n§MBrowder gewählt§! / §MFoster Gewählt§! (§oTotalistisch§!)\n£white_dot Wenn die Verfassungskonvente beginnen, wählen Sie die Optionen, die für den Totalisten sprechen.\n£white_dot Earl Browder oder William Foster wählen.\n\n§MButler Putsch§! (§RRadikal Sozialistisch§! / §rSyndikalistisch§!)\n£white_dot Befolgen Sie die Schritte, um den Totalisten an die Macht zu bringen.\n£white_dot Es wird ein Ereignis zur Umstrukturierung der Armee erscheinen, und Sie können sich dafür entscheiden, die Armee so zu belassen, wie sie ist.\n£white_dot Der Butler-Putsch wird später erscheinen und versuchen, die Demokratie wiederherzustellen. Seine Truppen haben die Zitadelle eingenommen und Sie können Elizabeth Flynn oder Norman Thomas als neuen Präsidenten wählen.\n\n§MAußenpolitik§!\n §MDritte Internationale§!\n£white_dot Gewinnen Sie den Bürgerkrieg und schließen Sie den Schwerpunkt \"Guter syndikalistischer Soldat\" ab, um ihnen beitreten zu können.\n §MDie Neue Welt befreien§!\n£white_dot Wir werden den Beschluss fassen können, allen nicht-sozialistischen Ländern in Amerika den Krieg zu erklären.\n\n§MKünftige Wahlen§!\n§MWahlen 1940§!\n£white_dot Sollte Norman Thomas gewählt werden, tritt er gegen Daniel Hoan von der §rArbeiterpartei§! an.\n£white_dot Wenn Elizabeth gewählt würde, würde sie gegen Upton Sinclair von der §RSozialistischen Partei§! antreten.\n§MWahlen 1944§!\n£white_dot Mit Sinclair wird er gegen Eleanor Roosevelt antreten, wenn es New England nicht gibt, und wenn es sie gibt, wird sie durch Frank Johns ersetzt werden.\n£white_dot Mit Flynn wird sie gegen John Llewellyn Lewis antreten müssen.\n£white_dot Mit Hoan wird er gegen John Llewellyn Lewis antreten müssen.\n£white_dot Mit Norman Thomas wird er gegen Eleanor Roosevelt antreten, wenn es Neu-England nicht gibt, und wenn es sie gibt, wird sie durch Frank Johns ersetzt werden.\n§MWahlen 1948§!\n£white_dot Sinclair wird Oakley Johnson gegen James Cannon antreten lassen.\n£white_dot Mit Frank Johns wird er gegen Israel Amter antreten müssen.\n£white_dot Mit Roosevelt wird sie gegen Israel Amter antreten.\n£white_dot Mit Flynn wird Israel Amter gegen Frank Zeidler antreten.\n£white_dot Mit Llewellyn wird er gegen James Cannon antreten müssen.\n£white_dot Mit Hoan wird Darling Hoops gegen Elmer Allison antreten.\n£white_dot Mit Norman Thomas wird Oakley Johnson gegen Elmer Allison antreten.\n§MWahlen 1952§!\n£white_dot Mit Oakley wird er gegen Henning Blomen antreten müssen.\n£white_dot Mit James Cannon wird er gegen Norman Thomas antreten müssen.\n£white_dot Mit Elmer Allison wird er gegen Upton Sinclair antreten.\n£white_dot Mit Hoopes wird er gegen Henning Blomen antreten müssen.\n£white_dot Mit Zeidler wird er gegen Asa Philip Randolph antreten.\n£white_dot Mit Amter wird er gegen Henning Blomen antreten müssen.\n£white_dot Mit Franks Johns, Roosevelt oder Llewellyn wird Henning Blomen gegen Asa Philip Randolph antreten."
 
 ### Events ###
 
@@ -1042,9 +1016,8 @@ csa.103.t: "Amerikas Schutz"
 csa.103.d: "[From.GetNameDefCap] hat sich entschieden, Schutz anzubieten, um sicherzustellen, dass unsere neue Kommune im Pazifik nicht ins Wanken gerät."
 csa.103.a: "Danke dir Amerika."
 
-csa.104.t: "Amerikas Schutz"
+ # uses csa.103.t / .a
 csa.104.d: "[From.GetNameDefCap] hat beschlossen, Schutz anzubieten, um sicherzustellen, dass unsere neue Republik im Pazifik nicht ins Wanken gerät."
-csa.104.a: "Danke dir Amerika."
 
 ### Military ###
 
@@ -1107,16 +1080,6 @@ csa.129.a: "Dieses Land ist dein Land"
  csa.156.t: "Keine Versöhnung"
  csa.156.d: "Nach der jüngsten Wahl der Bauern und Arbeiter-Partei hatten viele in [Root.GetNameDef] gehofft, die Rebellenregierung im Westen würde sich für ein friedliches Ende des Konflikts, der Amerika verwüstet hat, als zugänglich erweisen. Es scheint jedoch, dass die Rebellen im Westen beschlossen haben, dass sie sich nicht mit uns wiedervereinigen wollen. In ihrem Senat haben sie den Revolutionskongress als hohle Verhöhnung der Demokratie angeprangert, nicht besser als die Tyrannen in Washington und Baton Rouge, die er ersetzt hatte. Es scheint, dass wieder einmal Waffengewalt nötig sein wird, um die zerbrochenen Teile des Landes wieder zu vereinen."
  csa.156.a: "Amerika wird eines Tages wiedervereint sein."
-
-### Resistance Events ###
-
-csa.200.t: "Longisten zünden Bombe"
- csa.200.d: "Anhänger von Huey Long und seinen Idealen haben Fabriken, Eisenbahnen und Truppeneinrichtungen in [attack_state.GetName] angegriffen und dabei großen Schaden angerichtet und viele Menschenleben gefordert. Die Nationalgarde ist in [attack_state.GetName] vor Ort und behauptet, dass sie der Ergreifung der Rädelsführer hinter diesen Gruppen näher ist als zuvor."
-csa.200.a: "Wir werden diese Terroristen vernichten"
-
-csa.204.t: "Föderalisten zünden Bombe"
- csa.204.d: "Föderalisten, die immer noch für ihre Illusionen von Kapitalismus und Ausbeutung kämpfen, haben Fabriken, Eisenbahnen und Truppeneinrichtungen in [attack_state.GetName] angegriffen und dabei großen Schaden angerichtet und viele Menschenleben gefordert. Die Nationalgarde ist in [attack_state.GetName] vor Ort und behauptet, dass sie der Ergreifung der Rädelsführer hinter diesen Gruppen näher ist als zuvor."
-csa.204.a: "Wir werden diese Terroristen vernichten"
 
  csa.205.t: "Befehlshaber der Zweiten Kontinentalen Marine"
  csa.205.d: "Nach dem Ausbruch des Bürgerkriegs haben sich einige hochrangige Kapitäne und Kommandanten der US-Marine auf die Seite des Volkes gestellt. Einige von ihnen brachten sogar die Schiffe unter ihrem Kommando in unser revolutionäres Unterfangen mit ein. In unserer Zeit der Not müssen wir einen Chef unserer Marine ernennen, der uns zum Sieg über die Bundesstreitkräfte führen wird. Einer der besten Kandidaten ist der erfahrene William Rea Furlong, ein Verfechter der alten US-Marinedoktrin, aber wir sind noch nicht in der Lage, in einer offenen Schlacht gegen die föderalistische Marine zu kämpfen. Im Gegensatz zu ihm schlägt Hyman Rickover vor, unsere Aufmerksamkeit auf Konvois in den tiefen Ozeanen zu konzentrieren. Schließlich schlägt der junge, aber vielversprechende Arleigh Burke vor, unsere Anstrengungen auf den Einsatz von leichten Schiffen zu konzentrieren und ihren Kapitänen die Freiheit vom Oberkommando zu geben."
@@ -1327,6 +1290,9 @@ csa.204.a: "Wir werden diese Terroristen vernichten"
 
  CSA_campbell_carrington_johnson: "Campbell Carrington Johnson"
  CSA_campbell_carrington_johnson_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g30. September 1895, in Washington, D.C., Vereinigte Staaten von Amerika§!\n§YMilitärische Karriere:§! §gCampbell Johnson stammte aus Washington, D.C., und studierte an der Howard University. Während des Ersten Weltkriegs trat er in die Armeereserve ein und erreichte den Rang eines Obersts. Im Jahr 1918 war er an der Organisation des Ausbilderlagers des Students Army Training Corps an der Howard University beteiligt und diente dort als leitender Militärausbilder. Während seiner Amtszeit half Campbell auch bei der Organisation der Reserve Officer's Training Corps-Einheit und unterrichtete als Captain Militärwissenschaft und Taktik an der Institution. Später erwarb er einen Bachelor-Abschluss und anschließend einen Abschluss in Rechtswissenschaften an der Howard University, wo er eine Anwaltspraxis in Washington unterhielt. Im Jahr 1932 half Campbell bei der Einrichtung eines Erholungslagers für schwarze Jugendliche, das als Camp Lichtman bekannt wurde. Er glaubte fest an die Gleichbehandlung schwarzer Männer und Frauen. Die Verschlechterung der politischen Lage in den USA und die zunehmende Unterstützung für die AFP gaben ihm den nötigen Anstoß, sich der egalitären Botschaft der SPA anzuschließen. Campbell, der über einen fundierten organisatorischen Hintergrund und Erfahrung in der Armee-Reserve verfügte, bot der SPA seine Dienste an und wurde rasch zum General befördert.§!"
+
+ CSA_ralph_ernest_jones: "Ralph Ernest Jones"
+ CSA_ralph_ernest_jones_commander_desc: ""
 
  CSA_milton_wolff: "Milton Wolff"
  CSA_milton_wolff_commander_desc: "§YGeneral Beschreibung\nGeboren:§! §g7. Oktober 1915, in Brooklyn, New York, Vereinigte Staaten von Amerika§!\n§YMilitärische Karriere:§! §gMilton 'Milt' Wolff, der in eine litauisch-ungarische Einwandererfamilie hineingeboren wurde und zuvor Kunst studiert hatte, schloss sich der Roten Garde an, sobald sie gegründet war. Obwohl er eher avantgardistische Ansichten vertrat, wurde er in die Reihen aufgenommen und war unter seinen Kameraden wegen seiner Führungsqualitäten bei den Zusammenstößen mit den AFP-Milizen Ende 1936 und Anfang 1937 sehr beliebt.\n\nAls Jack Reed die Revolution ankündigte, wurde sofort deutlich, dass der CSA ein erheblicher Mangel an Führungspersonal herrschte, und in dieser Lücke wurde Wolff nach einer Abstimmung unter seinen Kameraden und Kollegen, die ihn als geeignet für diese Aufgabe ansahen, zum General befördert. Seine Fähigkeit, große Armeen zu führen, muss jedoch erst noch unter Beweis gestellt werden.§!\n\n§YAnmerkungen: Mitglied der zentralistischen Fraktion, hauptsächlich mit Browder verbündet."

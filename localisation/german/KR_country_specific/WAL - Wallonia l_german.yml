@@ -1,7 +1,6 @@
 ﻿l_german:
 ###  Übersetzt von Proho  ### 
 WAL_focus: "Schwerpunktbaum von Wallonien "
-WAL_focus_blank: "Schwerpunktbaum von Wallonien"
 
 ### Country Names ###
  WAL: "Wallonien"
@@ -9,13 +8,10 @@ WAL_focus_blank: "Schwerpunktbaum von Wallonien"
  WAL_DEF: "Wallonien"
 
  WAL_totalist: "Wallonische Kommunale Republik"
- WAL_totalist_ADJ: "Wallonisch"
  WAL_totalist_DEF: "die Wallonische Kommunale Republik"
  WAL_syndicalist: "Wallonische Kommunale Republik"
- WAL_syndicalist_ADJ: "Wallonisch"
  WAL_syndicalist_DEF: "die Wallonische Kommunale Republik"
  WAL_radical_socialist: "Wallonische Kommunale Republik"
- WAL_radical_socialist_ADJ: "Wallonisch"
  WAL_radical_socialist_DEF: "die Wallonische Kommunale Republik"
 
 ### Parties ###
@@ -50,8 +46,6 @@ WAL_constitution_monarchist: "If §H$WAL_Appoint_Royal_Councillor$§! wurde abge
 WAL_constitution_socialist: "If §H$WAL_Invite_The_Socialists$§! wurde abgeschlossen:"
 WAL_constitution_catholic: "If §H$WAL_Invite_The_Catholics$§! wurde abgeschlossen:"
 
-wallonia.tt: "\n§GUnsere Regierung wird durch die Wahl des Koalitionspartners bestimmt §!\n\n"
-
 ### Ideas ###
 
 WAL_Monarchy: "Erinnerungen an die Revolution"
@@ -67,7 +61,6 @@ WAL_Republic_Catholics_Invited: "Katholiken Eingeladen"
 WAL_Republic_Socialists_Invited: "Sozialisten eingeladen"
 WAL_Republic_Coalition_Socialists: "POB-PL Koalition"
 WAL_Republic_Coalition_Catholics: "DC-PL Koalition"
-WAL_Republic_Constitution_Socialist: "Republikanische Verfassung"
 WAL_Republic_Constitution_Catholic: "Republikanische Verfassung"
 WAL_Republic_Chant_Des_Wallons: "Das Lied der Wallonen"
 
@@ -398,8 +391,6 @@ wallonia.112.t: "Syndikalismus in Wallonien"
 wallonia.112.d: "Es scheint, dass der Syndikalismus auf unseren Marionettenstaat Wallonien übergegriffen hat und dass Adelbert wieder einmal abgesetzt wurde. Unsere Armeen bereiten sich bereits auf eine Invasion vor, können aber noch zurückgerufen werden, um Vergeltungsmaßnahmen der französischen Kommune zu verhindern."
 wallonia.112.a: "Bereiten Sie den Angriff vor!"
 wallonia.112.b: "Wallonien ist nicht mehr beeinflußbar."
-
-#Flavour
 
 #Propaganda
 

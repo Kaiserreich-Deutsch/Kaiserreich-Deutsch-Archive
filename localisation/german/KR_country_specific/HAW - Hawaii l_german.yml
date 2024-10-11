@@ -77,13 +77,11 @@
  HAW_thriving_economy_tooltip: "Ersetze §H$ HAW_small_business_idea$§! oder §H$ HAW_plantation_support_idea$§! durch §H$ HAW_thriving_economy_idea$§!\nEffektive Änderung:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [?-0.05|%H1]\n$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?0.05|+=%]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?0.05|+=%]\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: [?0.05|+=%]"
 
 ### Decisions ###
-JAP_hold_hawaii: "Kontrolle über Hawaii aufrechterhalten"
-JAP_hold_hawaii_desc: "Nun, da die hawaiianischen Verteidigungen zerschmettert wurden und die Inseln sich vollständig unter unserer Kontrolle befinden, ist es nur noch eine Frage der Zeit, bis ihre Verbündeten diesen sinnlosen Kampf aufgeben. Dennoch müssen wir die Inselgruppe gegen jegliche Invasionsstreitkräfte verteidigen, denn ihre Rückeroberung könnte den Widerstand gegen uns neu entfachen."
+ JAP_hold_hawaii: "Kontrolle über Hawaii aufrechterhalten"
+ JAP_hold_hawaii_desc: "Nun, da die hawaiianischen Verteidigungen zerschmettert wurden und die Inseln sich vollständig unter unserer Kontrolle befinden, ist es nur noch eine Frage der Zeit, bis ihre Verbündeten diesen sinnlosen Kampf aufgeben. Dennoch müssen wir die Inselgruppe gegen jegliche Invasionsstreitkräfte verteidigen, denn ihre Rückeroberung könnte den Widerstand gegen uns neu entfachen."
 
  HAW_foreign_policy_decisions: "Außenpolitik"
  HAW_foreign_policy_decisions_desc: "Wir sind ein Haufen Inseln in der Mitte des Pazifiks - und von Feinden umgeben. Wenn wir überleben wollen, müssen wir uns auf die Seite einer Großmacht schlagen, die Frage ist nur, auf wessen."
- HAW_join_faction: "Tretet der/dem [From.GetFactionName] bei."
- HAW_seeking_alliance: "Laufende diplomatische Bemühungen"
 
  HAW_economic_decisions: "Wirtschaftliche Entscheidungen"
  HAW_economic_decisions_desc: "Wir sind eine kleine Inselgruppe ohne große Industrie. Wenn wir unsere Wirtschaft verbessern wollen, sollten wir in Betracht ziehen, ausländische Fachmänner nach Hawaii einzuladen, die unsere Regierung beraten und in unsere Inseln investieren könnten."

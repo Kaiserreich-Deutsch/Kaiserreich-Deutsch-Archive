@@ -49,11 +49,23 @@
  sociedad_espanola_construccion: "Sociedad Española de Construcción Naval"
  euskalduna: "Euskalduna"
 
+### MIO ###
+ ## Used by SPK and SWF during Civil War ##
+ SPA_SCW_general_equipment_workshops: "[SPA_GetCivilWarMIOName]"
+ SPA_SCW_general_equipment_workshops_kingdom: "Nationale Kriegsindustrie"
+ SPA_SCW_general_equipment_workshops_socialists: "Kommission der Kriegsindustrie"
+ SPA_SCW_general_equipment_workshops_mio_desc: "§Y$generic_KR_general_purpose_initial_trait$\n§LWerkstätten und Fabriken für Infanterieausrüstung, Artillerie und Unterstützungsausrüstung im Spanischen Bürgerkrieg.§! §RWird bis zum Ende des Spanischen Bürgerkriegs dauern!§!§!"
+ SPA_mio_header_SCW_equipment: "Ausrüstung für den Spanischen Bürgerkrieg"
+ SPA_mass_production_methods: "Methoden der Massenproduktion"
+ SPA_prioritise_quality: "Vorrang für Qualität"
+ SPA_local_standardised_components: "Lokale standardisierte Komponenten"
+ SPA_improved_barrels: "Verbesserte Läufe"
+ SPA_engineer_and_radio_innovations: "Techniker und Funkinnovationen"
+
 ### World Tension ###
  SPA_civil_war_threat: "Spanischer Bürgerkrieg"
 
 ### Decisions ###
- SPA_join_faction: "Beitritt zu [FROM.GetFactionName]"
  SPA_tungsten_mines: "Ausweitung der Wolframproduktion in [170.GetName]" #Extremadura
  SPA_tungsten_mines_2: "Ausweitung der Wolframproduktion in [171.GetName]" #Galicia
  SPA_aluminium_mines: "Ausweitung der Aluminiumproduktion in [41.GetName]" #Madrid
@@ -199,7 +211,7 @@
  SPA_SPR_SWF_civil_war_fervor: "Spanische Bürgerkriegszustimmung: [fervor_text]§W\n[SPA_SPR_SWF_fervor_fast_modifier][SPA_SPR_SWF_fervor_combat_modifier][SPA_SPR_SWF_fervor_dig_modifier]§!"
  SPA_SPR_SWF_civil_war_fervor_desc: "Der Spanische Bürgerkrieg ist ein Konflikt, der durch tiefgreifende wirtschaftliche und gesellschaftliche Probleme, den langsamen Niedergang Spaniens als Weltmacht in den letzten zwei Jahrhunderten und das Versäumnis, mit dem Fortschritt in der übrigen Welt Schritt zu halten, verursacht wurde.\nÜber die Ursachen dieser Probleme sind sich die Spanier jedoch nicht einig, und die Gewalt eskaliert seit Jahren und gipfelt in einem Krieg der Extreme gegeneinander, der zu einer fast religiösen Hingabe führt \"Spanien von allen Problemen zu befreien, die es plagen\"... mit allen Mitteln."
  SPA_SPR_SWF_fervor_fast_modifier_text: "$SPA_SPR_SWF_fervor_fast_modifier_text_last$\n"
- SPA_SPR_SWF_fervor_fast_modifier_text_last: "$MODIFIER_ARMY_ORG_FACTOR$: [?THIS.fervor_org_modifier|=%+]\n$MODIFIER_ARMY_SPEED_FACTOR$: [?THIS.fervor_fast_modifier|=%+]\n$MODIFIER_ARMY_ORG_REGAIN$: [?THIS.fervor_fast_modifier|=%+]\n$MODIFIER_TERRAIN_PENALTY_REDUCTION$: [?THIS.fervor_terrain_modifier|=%+]"
+ SPA_SPR_SWF_fervor_fast_modifier_text_last: "$MODIFIER_ARMY_ORG_FACTOR$: [?THIS.fervor_org_modifier|=%+]\n$MODIFIER_ARMY_SPEED_FACTOR$: [?THIS.fervor_fast_modifier|=%+]\n$MODIFIER_ARMY_ORG_REGAIN$: [?THIS.fervor_fast_modifier|=%+]"
  SPA_SPR_SWF_fervor_combat_modifier_text: "$SPA_SPR_SWF_fervor_combat_modifier_text_last$\n"
  SPA_SPR_SWF_fervor_combat_modifier_text_last: "$MODIFIERS_ARMY_ATTACK_FACTOR$: [?THIS.fervor_combat_modifier|=%+]\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: [?THIS.fervor_combat_modifier|=%+]\n$MODIFIER_LAND_REINFORCE_RATE$: [?THIS.fervor_reinforce_modifier|=%+]"
  SPA_SPR_SWF_fervor_dig_modifier_text: "$MODIFIER_MAX_DIG_IN_FACTOR$: [?THIS.fervor_dig_modifier|=%+]\n$MODIFIER_DIG_IN_SPEED_FACTOR$: [?THIS.fervor_dig_modifier|=%+]"
@@ -212,17 +224,13 @@
  SPR_civil_war_fervor: "£pol_violence Auswirkungen von Zustimmung"
  SWF_civil_war_fervor: "£pol_violence Auswirkungen von Zustimmung"
 
-### Opinions Modifiers ###
- cntfai_supported: "Unterstützung der CNT-FAI"
- cntfai_given_refuge: "Zuflucht für die CNT-FAI"
- cntfai_kicked_out: "Verweigerte CNT-FAI Zuflucht"
- supports_us_civil_war_1: "Unterstützt unsere Seite"
- supports_us_civil_war_2: "Unterstützt unsere Seite"
- against_cntfai_1: "Widersetzt sich der CNT-FAI"
- against_carlist_1: "Widersetzt sich den Karlisten"
- against_us_civil_war_1: "Widersetzt sich unserer Seite"
- against_cntfai_2: "Widersetzt sich der CNT-FAI"
- against_us_civil_war_2: "Widersetzt sich unserer Seite"
+### Opinion Modifiers ###
+ SPA_cntfai_supported: "Unterstützung der CNT-FAI"
+ SPA_cntfai_given_refuge: "Zuflucht für die CNT-FAI"
+ SPA_cntfai_kicked_out: "Verweigerte CNT-FAI Zuflucht"
+ SPA_against_cntfai: "Widersetzt sich der CNT-FAI"
+ SPA_against_carlist: "Widersetzt sich den Karlisten"
+ SPA_against_us_civil_war_1: "Widersetzt sich unserer Seite"
 
 ### Flags ###
  SPA_civil_war_happened: "Der Spanische Bürgerkrieg hat begonnen\n"
@@ -262,6 +270,7 @@
  SPA_army_idea_tt: "§CKombiniert frühere nationale Geiste der Armee mit Wirkung zu einem einzigen:§!"
  SPA_refugee_idea_tt: "§YNach dem Ende des Weltkriegs wird dieser Flüchtlingsstrom ein Ende haben.§!"
  SPA_foreign_airplanes_tt: "§CDie Flugzeuge, die wir bekommen, hängen davon ab, ob wir den Schwerpunkt §YLuftüberlegenheit§! oder den Schwerpunkt §YLuftunterstützung der Armee§! abgeschlossen haben.§!"
+ SPA_SCW_arms_industry_tt: "§CDer Umfang und die Mittel unserer zeitweiligen militärisch-industriellen Organisation des Spanischen Bürgerkriegs werden auf das von uns ausgewählte Unternehmen übertragen.§!"
 
 ### Schwerpunkte vor dem Bürgerkrieg ###
  SPA_strengthen_kingdom: "Das Königreich stärken"
@@ -783,6 +792,12 @@
  sprc.221.a: "Madrid, für ein geeintes Spanien!"
  sprc.221.b: "Barcelona ist jetzt und für immer Das Haus des Volkes."
 
+### Vorübergehende SCW MIO- Handhabung für SPK und SWF nach dem Bürgerkrieg ###
+ sprc.222.t: "Neuausrichtung der Bürgerkriegs-Rüstungsindustrie auf die [1070.GetName]"
+ sprc.222.d: "Da der Spanische Bürgerkrieg nun endlich vorbei und unser Sieg gesichert ist, muss eine Entscheidung darüber getroffen werden, was mit den Rüstungsbetrieben geschehen soll, die zur Herstellung von Ausrüstung für unsere Streitkräfte eingerichtet wurden. Die Werkstätten wurden willkürlich zusammengestellt, um die Kriegsanstrengungen zu unterstützen, da der Großteil unserer Rüstungsindustrie, die sich in [1070.GetName] befand, unter der Kontrolle der feindlichen Streitkräfte stand. Die Waffenindustrie des Bürgerkriegs war zwar für unseren Sieg unerlässlich, aber die produzierten Waffen waren minderwertig und für eine moderne Armee nicht akzeptabel. Die von den Arbeitern gesammelten Erfahrungen und das angesammelte Vermögen könnten sich jedoch als nützlich erweisen, wenn sie von einem der Waffenhersteller in [1070.GetName] übernommen würden.\n\nDie Waffenhersteller Astra Unceta y Cía und Star Bonifacio Echeverria haben sich gemeldet und um den Kauf der Vermögenswerte unserer Bürgerkriegs-Waffenindustrie gebeten. Nun muss die Regierung entscheiden, welches Unternehmen all diese Vermögenswerte übernehmen soll."
+ sprc.222.a: "Astra Unceta soll alle Vermögenswerte übernehmen."
+ sprc.222.b: "Star Bonifacio soll alle Vermögenswerte übernehmen."
+
 ### Karlisten ###
 
  sprc.306.t: "Ermordung des Regenten"
@@ -846,7 +861,7 @@
  sprc.502.t: "[FROM.GetName] besetzt Spanisch-Guinea"
  sprc.502.d: "[FROM.GetName] hat die Kontrolle über Spanisch-Guinea übernommen, offenbar mit dem Einverständnis der Royalistischen Verwaltung! Wir können zwar nicht wirklich versuchen, das Gebiet zurückzuerobern, aber einige schlagen vor, dass wir die Einheimischen zum Widerstand ermutigen."
  sprc.502.a: "Wir müssen das auf sich beruhen lassen"
- sprc.502.c: "Ermutigt lokale Anarchisten zum Widerstand!"
+ sprc.502.b: "Ermutigt lokale Anarchisten zum Widerstand!"
 
  sprc.503.t: "CNT in Afrika"
  sprc.503.d.mrt: "Mit der anarchistischen Revolution in Spanien entstand ein Machtvakuum in den spanischen Kolonien, die immer noch unter der Royalistischen Kolonialverwaltung litten. Dies ist nun nicht mehr der Fall, da die lokale Bevölkerung zu den Waffen griff und die Kolonie befreite, die nun wieder mit dem unabhängigen Mauretanischen Staat vereint ist!"
@@ -861,13 +876,11 @@
  sprc.505.t: "Konflikt in der Sahara"
  sprc.505.d: "Die Nationalistische Französische Regierung ist in unsere Gebiete in der Sahara einmarschiert! Wie sollten wir auf diese Aktion reagieren?"
  sprc.505.a: "Sie sollen sie einnehmen."
- sprc.505.b: "In den Krieg!"
- sprc.505.c: "Widerstand leisten, wo wir können"
+ sprc.505.b: "Widerstand leisten, wo wir können"
 
  sprc.506.t: "Aufstand in der Sahara"
  sprc.506.d: "Die Bevölkerung in der spanischen Sahara hat sich gegen die Royalistenverwaltung in der Kolonie erhoben und sich dem benachbarten Mauretanischen Staat angeschlossen! Wie sollten wir auf diese Aktion reagieren?"
  sprc.506.a: "Sie sollen sie einnehmen."
- sprc.506.b: "In den Krieg!"
 
  sprc.507.t: "Anarchisten erobern Spanisch-Marokko"
  sprc.507.d_ger: "Mit der anarchistischen Revolution in Spanien und ihrer anschließenden Invasion über die Straße von Gibraltar haben die Syndikalisten nun auch auf dem afrikanischen Kontinent Fuß gefasst, direkt neben unserem Protektorat in Marokko. Innerhalb der Regierung in Berlin, aber auch unter Deutschen und Marokkanern in Casablanca herrscht die einhellige Meinung, dass wir sofort die Kontrolle über das spanische Protektorat übernehmen und dem System der Doppelprotektorate in Marokko ein Ende setzen müssen."
@@ -879,7 +892,6 @@
  sprc.508.t: "Spanisch-Marokko besetzt von [FROM.GetNameDef]!"
  sprc.508.d: "In einer Demonstration absoluter Arroganz und Respektlosigkeit gegenüber unserem Staat hat [FROM.GetNameDef] das spanische Marokko besetzt. Schockierenderweise sind ihre Streitkräfte sogar in Ceuta und Melilla eingezogen, zwei Städte, die seit vielen Jahrhunderten unantastbares spanisches Territorium sind."
  sprc.508.a: "Es gibt nichts, was wir tun können..."
- sprc.508.b: "Eine solche Unverschämtheit wird nicht geduldet!"
 
  sprc.600.t: "Syndikalistischer Widerstand"
  sprc.600.d: "Obwohl die gottlosen Syndikalisten von unseren tapferen Soldaten auf dem Schlachtfeld entschlossen besiegt wurden, stellen sie unsere Herrschaft im ganzen Land weiterhin in Frage. Sie haben zwar keine Chance, eine Revolution zu inszenieren, aber die Erholung vom Bürgerkrieg kann nicht weitergehen, solange sie nicht beseitigt sind."
@@ -961,12 +973,12 @@
 ### Characters ###
  SPA_augusto_barcia_trelles: "Augusto Barcia y Trelles"
  SPA_manuel_azana_diaz: "Manuel Azaña Díaz"
- SPA_niceto_alcala_zamora: "Niceto Alcalá-Zamora"
+ SPA_niceto_alcala_zamora: "Niceto Alcalá-Zamora y Torres"
  SPA_jose_calvo_sotelo: "José Calvo Sotelo"
  SPA_jose_calvo_sotelo_leader_desc: "§YAnführer Beschreibung\nGebohren:§! 6. Mai 1893, in Tui, Provinz Pontevedra, Königreich Spanien\n§YPolitische Karriere:§! José Calvo Sotelo begann zunächst als Jurist und schloss sein Jurastudium an der Universität von Zaragoza ab. Später promovierte er an der Zentraluniversität, doch schon bald verlagerte er seinen Schwerpunkt auf die spanische Politik. Er begann seine politische Laufbahn als Mitglied der Mauristischen Bewegung und war schließlich kurzzeitig sowohl Abgeordneter als auch Gouverneur von Valencia.\n\nNach der Errichtung der Diktatur von Primo de Rivera stieg Sotelo durch seine engagierte Unterstützung der Führung von de Rivera schnell auf und wurde schließlich Finanzminister. Der Zusammenbruch von Riveras erstem Regime führte zu seinem kurzen, selbst auferlegten Exil in Portugal, aber mit dem raschen Ende der Zweiten Republik fand sich Sotelo nicht nur in der Regierung wieder, sondern auch in einer viel höheren Position als zuvor.\n\nNach dem Tod von de Rivera rechneten viele damit, dass Sotelo die Nachfolge des verstorbenen Ministerpräsidenten antreten würde. Diese Hoffnungen wurden jedoch schnell zunichte gemacht, als er nach einem Mordanschlag einer Gruppe radikaler Sozialisten, die der CNT nahestehen, ins Krankenhaus eingeliefert wurde. Nach seiner raschen Genesung blieb Sotelos Position innerhalb der Partei stark, und mit dem Sieg der Regierung im Bürgerkrieg wurde er zum neuen Parteivorsitzenden gewählt, der Spanien hoffentlich in eine neue Periode des Wohlstands und des Friedens führen wird."
 
- SPA_gil_robles: "José Maria Gil-Robles Quiñones"
- SPA_gil_robles_leader_desc: "§YAnführer Beschreibung\nGebohren:§! 27. November 1898, in Salamanca, Provinz Salmanca, Königreich Spanien\n§YPolitische Karriere:§! José María Gil-Robles y Quiñones, ein überzeugter Nationalist und militanter Katholik, ist in Spanien zu einer prominenten Persönlichkeit aufgestiegen. Seine flammenden Reden, in denen er die Feinde des Königreichs anprangert und gleichzeitig die religiösen Tugenden preist, könnten selbst einem Karlisten radikal erscheinen; dennoch steht Quiñones trotzig an der Spitze der angeschlagenen spanischen Nation."
+ SPA_jose_maria_gil_robles_y_quinones_de_leon: "José Maria Gil-Robles Quiñones"
+ SPA_jose_maria_gil_robles_y_quinones_de_leon_leader_desc: "§YAnführer Beschreibung\nGebohren:§! 27. November 1898, in Salamanca, Provinz Salmanca, Königreich Spanien\n§YPolitische Karriere:§! José María Gil-Robles y Quiñones, ein überzeugter Nationalist und militanter Katholik, ist in Spanien zu einer prominenten Persönlichkeit aufgestiegen. Seine flammenden Reden, in denen er die Feinde des Königreichs anprangert und gleichzeitig die religiösen Tugenden preist, könnten selbst einem Karlisten radikal erscheinen; dennoch steht Quiñones trotzig an der Spitze der angeschlagenen spanischen Nation."
 
  SPA_emilio_mola_vidal: "Emilio Mola Vidal"
  SPA_emilio_mola_vidal_leader_desc: "§YAnführer Beschreibung\nGebohren:§! 9. Juli 1887, in Placetas, Provinz Santa Clara, Generalkapitän von Kuba\n§YPolitische Karriere:§! Das Chaos, das nach dem Zusammenbruch der spanischen Wirtschaft und der Entmündigung von König Alfonso entstand, führte dazu, dass sich viele eine starke Führungspersönlichkeit wünschten, die Spanien aus dem Chaos herausführen sollte, und so ist es nicht verwunderlich, dass diese Bedingungen den Aufstieg von Marschall Emilio Mola Vidal zur Macht begünstigten.\n\nAls Sohn einer kubanischen Mutter und eines spanischen Vaters wurde er im spanischen Kuba geboren, doch seine Familie zog schließlich zurück auf das spanische Festland, nachdem die Niederlage gegen die amerikanischen Streitkräfte die kubanische Unabhängigkeit besiegelt hatte. Nach der Niederlage des Landes gegen die amerikanischen Streitkräfte, die die kubanische Unabhängigkeit besiegelte, zog seine Familie zurück auf das spanische Festland. Seine militärische Karriere für den spanischen Staat begann an der Infanterieakademie in Toledo, wo er sich schließlich in Marokko auszeichnete und zu einem der wichtigsten Generäle des de Rivera-Regimes und dessen Generaldirektor für Sicherheit wurde.\n\nObwohl Mola nicht direkt an dem Staatsstreich von General Sanjurjo beteiligt war, der die Zweite Republik beendete, wurde er von dem wiederhergestellten Regime schnell mit einer Beförderung zum Feldmarschall belohnt. Dank dieser neuen Position genießt Mola in den spanischen Streitkräften großes Ansehen, selbst bei denjenigen, die mit seinen politischen Positionen nicht einverstanden sind.\n\nMola und sein Kabinett, das sowohl von seinen Feinden als auch von seinen Verbündeten umgangssprachlich als 'El Caudillo' bezeichnet wird, machen keinen Hehl aus ihrer Verachtung für das demokratische System der Zweiten Spanischen Republik. Sie sind davon überzeugt, dass Spanien nur dann überleben kann, wenn es von einem Einparteienstaat mit einer starken Führungspersönlichkeit geleitet wird, und nur die Zeit wird zeigen, ob Mola wirklich diese Führungspersönlichkeit ist."
@@ -987,25 +999,24 @@
  SPA_jaime_de_borbon_francospain: "Henri VI"
  SPA_jaime_de_borbon_francospain_leader_desc: "§YAnführer Beschreibung\nGeboren:§! 23. Juni 1908, im Palast von San Ildefonso, Segovia, Provinz Segovia, Königreich Spanien\n§YPolitische Karriere:§! Jaime von Borbón, der zweite Sohn von König Alfons XIII., der taub ist und dem man einst zutraute, auf den Thron zu verzichten, hat mit seiner Krönung zum König von Spanien und Frankreich das Unmögliche geschafft. Als König von Spanien regiert er als Jaime I., während er in Frankreich unter dem königlichen Namen Henri VI. bekannt ist, aber in der Alltagssprache nennen ihn viele einfach König Jacques Henri."
 
- SPA_jose_sanjurjo_sacanell: "José Sanjurjo Sacanell"
+ SPA_jose_sanjurjo_y_sacanell: "José Sanjurjo y Sacanell"
  SPA_francisco_franco_bahamonde: "Francisco Franco Bahamonde"
- SPA_leopoldo_saro_marin: "Leopoldo Saro Marín"
+ SPA_leopoldo_saro_y_marin: "Leopoldo Saro y Marín"
  SPA_emilio_barrera_luyando: "Emilio Barrera Luyando"
- SPA_francisco_de_borbon_y_de_la_torre: "Francisco de Borbon y de la Torre"
+ SPA_francisco_de_borbon_y_de_la_torre: "Francisco de Borbón y de la Torre"
  SPA_manuel_goded_llopis: "Manuel Goded Llopis"
- SPA_damaso_berenguer_fuste: "Dámaso Berenguer Fusté"
+ SPA_damaso_berenguer_y_fuste: "Dámaso Berenguer y Fusté"
  SPA_salvador_moreno_hernandez: "Salvador Moreno Hernandez"
  SPA_manuel_vierna_belando: "Manuel Vierna Belando"
 
- SPA_juan_yague_blanco: "Juan Yagüe y Blanco"
+ SPA_juan_yague_y_blanco: "Juan Yagüe y Blanco"
  SPA_luis_carrero_blanco: "Luís Carrero Blanco"
  SPA_francisco_moreno_fernandez: "Francisco Moreno Fernández"
  SPA_joaquin_garcia_morato: "Joaquín García-Morato y Castaño"
- SPA_miguel_ponte_manso_de_zuniga: "Miguel Ponte Manso de Zíñiga"
+ SPA_luis_miguel_limia_ponte_y_manso_de_zuniga: "Luis Miguel Limia Ponte y Manso de Zúñiga"
  SPA_enrique_canovas_lacruz: "Enrique Cánovas Lacruz"
  SPA_angel_salas_larrazabal: "Ángel Salas Larrazábal"
 
- SPA_francisco_de_borbon_de_la_torre: "Francisco de Borbón y de la Torre"
  SPA_francisco_serrat_y_bonastre: "Francisco de Asis Serrat y Bonastre"
  SPA_miguel_maura_gamazo: "Miguel Maura Gamazo"
  SPA_fidel_davila_arrondo: "Fidel Dávila Arrondo Gil y Arija"

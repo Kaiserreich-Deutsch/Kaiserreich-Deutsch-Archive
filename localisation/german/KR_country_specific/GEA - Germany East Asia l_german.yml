@@ -42,8 +42,7 @@ GEA_no_factory_lease: "LEP hat den Mietvertrag abgelehnt."
  GEA_can_send_volunteers_to_target_tt: "[ROOT.GetName] kann nur Freiwillige an Länder in Asien oder Ozeanien senden."
 
 ### Opinion Modifier ###
-LEP_refused_help_modifier: "Sie haben unsere Hilfe abgelehnt!"
-sinogerman_cooperation: "Deutsch-chinesische Zusammenarbeit"
+ GEA_sinogerman_cooperation: "Deutsch-chinesische Zusammenarbeit"
 
 ### State Modifiers ###
  GER_east_asian_naval_yards: "Ostasiatische Marinewerften"
@@ -473,7 +472,7 @@ Ostasien.203.a: "Das Überleben unserer Regierungen hängt davon ab, so traurig 
 Ostasien.203.b: "Wir können es uns nicht leisten, uns noch mehr in ihrem Netz zu verheddern!"
 
 Ostasien.204.t: "Der Werksleasingvertrag endete"
-Ostasien.204.d: "Die von der A.O.G. auferlegten Bedingungen diktieren, dass die Pacht ihrer Fabriken heute endet. Sie haben sich in unserem Kampf als sehr nützlich erwiesen, und wir sind sicher, dass die Deutschen das auch wissen."
+Ostasien.204.d: "Die von der AOG auferlegten Bedingungen diktieren, dass die Pacht ihrer Fabriken heute endet. Sie haben sich in unserem Kampf als sehr nützlich erwiesen, und wir sind sicher, dass die Deutschen das auch wissen."
 Ostasien.204.a: "Wir werden die Konsequenzen dieser "Hilfe" tragen müssen."
 
 Ostasien.205.t: "Die Kramat Pulai Mine erschöpft sich."
@@ -484,15 +483,15 @@ Ostasien.206.t: "Die Kramat Pulai Mine kollabiert!"
 Ostasien.206.d: "Die Kramat Pulai Mine ist offiziell erschöpft. Zwar gibt es noch Spuren von Scheelit und die Minen in Perak produzieren weiterhin vernünftige Mengen, aber unser Status als führender Exporteur von Wolfram in der Region ist nicht mehr gegeben."
 Ostasien.206.a: "Es war gut, solange es dauerte."
 
-#Ostasien.207.t: "Ostasien und die A.O.G."
+#Ostasien.207.t: "Ostasien und die AOG"
 #Ostasien.207.d: "Als primäres Zentrum des deutschen Einflusses in Asien überschneidet sich die Arbeit der Ostasien-Verwaltung häufig mit der des Aufsichtsrats der Ostasiatischen Generalverwaltung (AOG). Während wir die direkte Kontrolle über Guangzhou und Tsingtau behalten, können wir über die AOG, eine Verwaltungsbehörde innerhalb der Liga der Acht Provinzen, indirekt von mehreren wichtigen Konzessionsstädten an der Küste sowie von verschiedenen Infrastrukturen und Industrien in deutschem Besitz im Landesinneren profitieren. Die AOG ist nicht Ostasien unterstellt, und wir nicht ihnen; dennoch ist es in unser beider direktem Interesse, uns gegenseitig zu unterstützen und zu schützen, wo wir können."
 #Ostasien.207.a: "Zusammenarbeit ist der Schlüssel."
 
 Ostasien.207.t: "Der Einfluss von AOG in China wächst..."
-Ostasien.207.d: "Inmitten einer Serie von durchwachsenen Nachrichten scheint es, dass unsere Partner in der AOG einen Glücksfall erlebt haben. Die Fertigstellung und der Kauf der Zhegan-Eisenbahn, ein groß angelegtes Eisenbahnprojekt innerhalb der Liga der Acht Provinzen, hat es der AOG ermöglicht, ihren Einfluss tiefer in chinesisches Territorium auszuweiten. Während einige Reaktionen auf die Aktionen der AOG nicht besonders erfreulich waren, können wir sicher davon ausgehen, dass dies ein Zeichen für gute Dinge ist, die kommen werden."
+Ostasien.207.d: "Inmitten einer Serie von durchwachsenen Nachrichten scheint es, dass unsere Partner in der AOG einen Glücksfall erlebt haben. Die Fertigstellung und der Kauf der ZheGan-Eisenbahn, ein groß angelegtes Eisenbahnprojekt innerhalb der Liga der Acht Provinzen, hat es der AOG ermöglicht, ihren Einfluss tiefer in chinesisches Territorium auszuweiten. Während einige Reaktionen auf die Aktionen der AOG nicht besonders erfreulich waren, können wir sicher davon ausgehen, dass dies ein Zeichen für gute Dinge ist, die kommen werden."
 Ostasien.207.a: "Gut zu hören."
 
-Ostasien.208.t: "Schwarzer Montag trifft den A.O.G.!"
+Ostasien.208.t: "Schwarzer Montag trifft den AOG!"
 Ostasien.208.d: "Unsere chinesischen Partner haben die Krise des Schwarzen Montags nicht besser überstanden als wir, so scheint es, wobei deutsche Unternehmen, die bereits unter dem Druck lokaler Elemente stehen, besonders hart getroffen wurden. Die Deutsch-Asiatische Bank, die einst als " zu groß zum Scheitern" galt, steht am Rande des Zusammenbruchs, und die Auswirkungen dieser finanziellen Instabilität sind bereits in unserem eigenen Finanzsektor zu spüren."
 Ostasien.208.a: "Du auch, oder?"
 
@@ -524,6 +523,10 @@ Ostasien.212.c: "Ein ständiger Marineattaché wäre von Vorteil."
  #for LEP:
  Ostasien.213.d.LEP: "Die deutsche ostasiatische Flotte, der Stolz des Deutschen Reiches und ein Symbol der deutschen militärischen und maritimen Stärke im Pazifik, ist gefallen. Mit dem Zusammenbruch von Deutsch-Ostasien werden die verbliebenen deutschen Berater, Techniker und Experten in China zurückgerufen, da sie keinen Anreiz mehr haben, in Asien zu bleiben. Dies stärkt zwar unsere nationale Unabhängigkeit und beseitigt unsere Abhängigkeit von Deutschland, bedeutet aber auch, dass die deutsch-chinesische Zusammenarbeit bis auf Weiteres beendet sein wird. Wir werden zwar weiterhin herzliche und freundschaftliche Beziehungen zu Deutschland unterhalten, aber wir werden nicht mehr in den Genuss der Vorteile kommen, die mit der Angleichung an Deutschland verbunden sind, und wir werden daher unseren eigenen Weg gehen müssen. Dank der Zusammenarbeit haben wir unsere Streitkräfte und unsere Wirtschaft erfolgreich modernisiert, aber alles muss einmal ein Ende haben."
  Ostasien.213.a: "Eine Ära endet... eine neue beginnt"
+
+ Ostasien.214.t: "Wiedererlangung unseres Einflusses in China"
+ Ostasien.214.d: "Mit dem neuen, von Deutschland unterstützten Regime, das von unseren verbündeten Kräften in China geschaffen wurde, konnten wir unseren früheren Einfluss in den Hafenstädten wiederherstellen. Jetzt können wir unsere wirtschaftliche Erschließung des chinesischen Marktes wieder aufnehmen, die zuvor so unsanft unterbrochen wurde."
+ Ostasien.214.a: "Eine neue Ära des deutschen Einflusses in China beginnt!"
 
  asiapeace.7.t: "Ostasiatische Kommandeure treffen ein"
  asiapeace.7.d: "Nachdem unsere Kolonien in Ostasien von unseren Feinden überrannt worden sind, haben die Kommandeure ihrer Flotte und Garnison begonnen, in die Heimat zu strömen, indem sie waghalsige Fluchten in U-Booten und lange Reisen durch den Nahen Osten und Afrika unternahmen. Bei weitem nicht alle Kommandeure und Unteroffiziere der ostasiatischen Garnison haben es geschafft zu entkommen, aber diejenigen, die es geschafft haben, sind Veteranen des malaysischen und indochinesischen Dschungelkriegs und würden sich in den Reihen des Heers als nützlich erweisen.\n\n Andererseits haben sie ihre Pflicht in Ostasien nicht erfüllt..."
@@ -558,7 +561,7 @@ GEA_steal_guns_from_home_desc: "Unser Infanterie-Ausrüstungsbestand ist beunruh
 GEA_help_lep_decisions: "Die Nanjing Krise"
 GEA_help_lep_decisions_desc: "Verschiedene Kriegsherren und sogar Syndikalisten haben sich gegen die Regierung in Nanjing erhoben. Wir müssen ihnen helfen, um die Sicherheit unserer Investitionen in China zu gewährleisten, damit unser Einfluss auf die chinesische Wirtschaft nicht zusammenbricht."
 GEA_give_factories_to_lep: "Werksvermietung"
-GEA_give_factories_to_lep_desc: "Wir werden mit der A.O.G. besprechen, dass einige Fabriken in den Konzessionen vorübergehend vollständig der Regierung von Nanjing zur Verfügung gestellt werden, um sie in ihrem Überlebenskampf zu unterstützen."
+GEA_give_factories_to_lep_desc: "Wir werden mit der AOG besprechen, dass einige Fabriken in den Konzessionen vorübergehend vollständig der Regierung von Nanjing zur Verfügung gestellt werden, um sie in ihrem Überlebenskampf zu unterstützen."
 GEA_give_guns_to_lep: "Gebt ihnen Waffen"
 GEA_give_guns_to_lep_desc: "Wir werden dafür sorgen, dass eine beträchtliche Ladung deutscher Ausrüstung an die schlecht ausgerüsteten Truppen der Nanjing-Regierung geschickt wird, um hoffentlich das Gleichgewicht zu ihren Gunsten zu beeinflussen."
 
@@ -700,9 +703,9 @@ GEA_pacific_rule_idea: "Herrsche über den Pazifik"
 GEA_vietcong_killer_idea: "Vietminh Killer"
 GEA_vietcong_killer_idea_desc: "Jeder, der rennt, ist ein Vietminh! Jeder, der stillsteht, ist ein gut disziplinierter Vietminh!"
 
-GEA_AOG_BONUS: "A.O.G."
+GEA_AOG_BONUS: "AOG"
 GEA_AOG_bonus_idea: "Ausfsichtsrat der Ostasialischen Generalverwaltung"
-GEA_AOG_bonus_idea_desc: "Durch die A.O.G. haben wir wichtige wirtschaftliche Rechte in §Y[?GEA_AOG_CITIES_NUMBER]§! wichtigen chinesischen Küstenstädten:\n- §[592.GEA_GetStateControllerAllyStatus][592.GetName]§!\n- §[802.GEA_GetStateControllerAllyStatus][802.GetName]§!\n- §[803.GEA_GetStateControllerAllyStatus][803.GetName]§!\n- §[1075.GEA_GetStateControllerAllyStatus][1075.GetName]§!"
+GEA_AOG_bonus_idea_desc: "Durch die AOG haben wir wichtige wirtschaftliche Rechte in §Y[?GEA_AOG_CITIES_NUMBER]§! wichtigen chinesischen Küstenstädten:\n- §[592.GEA_GetStateControllerAllyStatus][592.GetName]§!\n- §[802.GEA_GetStateControllerAllyStatus][802.GetName]§!\n- §[803.GEA_GetStateControllerAllyStatus][803.GetName]§!\n- §[1075.GEA_GetStateControllerAllyStatus][1075.GetName]§!"
  GEA_AOG_bonus_idea_tt: "$MODIFIER_CONSUMER_GOODS_FACTOR$: [?GEA_AOG_CITIES|Y%1]"
 
  GEA_arm_of_the_german_empire: "Arm des Deutschen Reiches"

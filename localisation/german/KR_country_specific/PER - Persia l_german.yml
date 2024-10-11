@@ -1,6 +1,6 @@
 ﻿l_german:
 ### Übersetzt von DerEherneRächer ###
- persia_focus: "Fokusbaum von Persien"
+ persia_focus: "Schwerpunktbaum von Persien"
 
 ### Parties ###
  PER_totalist_party: "HSIi"
@@ -301,7 +301,7 @@
  PER_country_intro_header_2: "Öl-Nationalisierung"
  PER_country_intro_content_2: "Im Jahre 1925, nach dem Fall des Britischen Imperiums und dem Rückzug der Briten aus Chuzestan, feierten die Madschlis die Wiedervereinigung mit Chuzestan, indem sie die dortige Öl-Industrie nationalisierten. Nun wird dieses Ereignis jedes Jahr von unseren Bürgen gefeiert, da es unseren Willen zeigt, uns weder unser Land, noch unser Öl wegnehmen zu lassen."
  
- PER_guide: "§MZorn des kadscharischen Löwen§! (§PPaternale Autokraten§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza die Flucht ergreifen.\n£white_dot Entsendet im nachfolgenden Event Loyalisten in die Madschlis.\n\n§MVerstärkter Konstitutionalismus§! (§gAutoritäre Demokratie§! / §SSozialdemokraten§! / §cSozialkonservative§! / §lSozialliberale§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza im Land bleiben.\n£white_dot Tut im nachfolgenden Event nichts.\n£white_dot Für Schah Hamid Mirza: Anstatt nichts zu tun, entsendet Loyalisten in die Madschlis, ermordet den Schah und schließt dann Frieden.\n\n§MLang lebe die Revolution!§! (§RRadikale Sozialisten§! / §SSozialdemokraten§! / §cSozialkonservative§! / §lSozialliberale§! / §mMarktliberale§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza die Flucht ergreifen.\n£white_dot Tut im nachfolgenden Event nichts.\n£white_dot Für eine radikal-sozialistische Republik: Wählt eine sozialistische Republik.\n£white_dot Für eine demokratische Republik: Erlaubt den Demokraten, eine Republik zu formen."
+ PER_guide: "§MZorn des kadscharischen Löwen§! (§PPaternale Autokraten§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza die Flucht ergreifen.\n£white_dot Entsendet im nachfolgenden Event Loyalisten in die Madschlis.\n\n§MVerstärkter Konstitutionalismus§! (§gAutoritäre Demokratie§! / §SSozialdemokraten§! / §lSozialliberale§! / §cSozialkonservative§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza im Land bleiben.\n£white_dot Tut im nachfolgenden Event nichts.\n£white_dot Für Schah Hamid Mirza: Anstatt nichts zu tun, entsendet Loyalisten in die Madschlis, ermordet den Schah und schließt dann Frieden.\n£white_dot Bei der Wahl von 1938 werden wir die Möglichkeit haben, zwischen der §SHD§!, einer rechten Koalition unter Führung der §cHET§! und einer liberalen Koalition unter Führung der §lHEe§! zu wählen.\n£white_dot Bei den folgenden Wahlen wird die Wahl zwischen der §SHD§!, der §cHET§! oder einer rechten Koalition unter Führung der §gKhandane Qajar§! sein.\n\n§MLang lebe die Revolution!§! (§RRadikale Sozialisten§! / §SSozialdemokraten§! / §lSozialliberale§! / §mMarktliberale§! / §cSozialkonservative§!)\n£white_dot Wenn Ahmad Schah Qajar stirbt, muss Hassan Mirza die Flucht ergreifen.\n£white_dot Tut im nachfolgenden Event nichts.\n£white_dot Für eine radikal-sozialistische Republik: Wählt eine sozialistische Republik.\n£white_dot Für eine demokratische Republik: Erlaubt den Demokraten, eine Republik zu gründen.\n£white_dot Wenn wir eine demokratische Republik gebildet haben:\n Bei der Wahl von 1938 werden wir zwischen der §SHD§! und der §mHT§! wählen können.\n Bei der Wahl von 1942 werden wir zwischen der §SHD§! und der §cHET§! wählen können.\n Und im Jahr 1946 werden wir zwischen der §SHD§!, der §lHEe§! und der §cHET§! wählen können."
 
 ### Events ###
  pers.2.t: "Der Schah ist tot!"
@@ -719,35 +719,20 @@
  PER_radical_socialist: "Sozialistische Republik Persien"
  PER_radical_socialist_DEF: "die Sozialistische Republik Persien"
 
- PER_REP: "Iran"
- PER_REP_ADJ: "Iranisch"
- PER_REP_DEF: "Iran"
+ PER_iran: "Iran"
+ PER_iran_ADJ: "Iranisch"
+ PER_iran_DEF: "Iran"
  
- PER_REP_totalist: "Sozialistische Republik Iran"
- PER_REP_totalist_DEF: "die Sozialistische Republik Iran"
- PER_REP_syndicalist: "Sozialistische Republik Iran"
- PER_REP_syndicalist_DEF: "die Sozialistische Republik Iran"
- PER_REP_radical_socialist: "Sozialistische Republik Iran"
- PER_REP_radical_socialist_DEF: "die Sozialistische Republik Iran"
- PER_REP_social_democrat: "Republik Iran"
- PER_REP_social_democrat_DEF: "die Republik Iran"
- PER_REP_social_liberal: "Republik Iran"
- PER_REP_social_liberal_DEF: "die Republik Iran"
- PER_REP_market_liberal: "Republik Iran"
- PER_REP_market_liberal_DEF: "die Republik Iran"
- PER_REP_social_conservative: "Republik Iran"
- PER_REP_social_conservative_DEF: "die Republik Iran"
+ PER_iran_totalist: "Sozialistische Republik Iran"
+ PER_iran_totalist_DEF: "die $PER_iran_totalist$"
+ PER_iran_syndicalist: "Sozialistische Republik Iran"
+ PER_iran_syndicalist_DEF: "die $PER_iran_syndicalist$"
+ PER_iran_radical_socialist: "Sozialistische Republik Iran"
+ PER_iran_radical_socialist_DEF: "die $PER_iran_radical_socialist$"
 
- PER_IRA: "Iran"
- PER_IRA_ADJ: "Iranisch"
- PER_IRA_DEF: "der Iran"
- 
- PER_IRA_totalist: "Sozialistische Republik Iran"
- PER_IRA_totalist_DEF: "die Sozialistische Republik Iran"
- PER_IRA_syndicalist: "Sozialistische Republik Iran"
- PER_IRA_syndicalist_DEF: "die Sozialistische Republik Iran"
- PER_IRA_radical_socialist: "Sozialistische Republik Iran"
- PER_IRA_radical_socialist_DEF: "die Sozialistische Republik Iran"
+ PER_iran_monarchy: "Iran"
+ PER_iran_monarchy_ADJ: "Iranisch"
+ PER_iran_monarchy_DEF: "der Iran"
  
  ### Characters ###
  PER_avetis_soltanzadeh: "Avetis Soltanzadeh"

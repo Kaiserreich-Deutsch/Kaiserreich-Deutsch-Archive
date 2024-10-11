@@ -69,9 +69,6 @@
  SRI_national_populist_party: "FMC (Camicie Azzurre) - (Blau-Hemden)"
  SRI_national_populist_party_long: "Fronte Militare Clandestino (Sempre Pronti per la Patria e per il Re) - Geheime Militärfront (Immer bereit für das Vaterland und den König)"
 
-### Opinion Modifiers ###
- SRI_did_not_listen_FRA: "Italien hat unseren Rat missachtet"
-
 ### Decisions ###
  SRI_massive_protests_mission: "Massive Proteste"
  SRI_expand_police_operations: "Ausweitung der Polizeieinsätze"
@@ -112,9 +109,6 @@
  SRI_CP_30_PP_10: "£command_power §H30§! £pol_power §H10§!"
  SRI_CP_30_PP_10_blocked: "£command_power §R30§! £pol_power §R10§!"
  SRI_CP_30_PP_10_tooltip: "Es kostet $SRI_CP_30_PP_10_blocked$, die Entscheidung zu treffen"
- SRI_STAB_05: "£GFX_stability_texticon §Y5%§!"
- SRI_STAB_05_blocked: "£GFX_stability_texticon  §R5%§!"
- SRI_STAB_05_tooltip: "Es kostet $SRI_STAB_05_blocked$, die Entscheidung zu treffen"
 
 ### Flaggen ###
  SRI_1936_elections_held: "Abhaltung der §Y1936-Wahlen§!"

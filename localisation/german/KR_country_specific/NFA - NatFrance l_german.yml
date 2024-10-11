@@ -235,14 +235,11 @@ NFA_Focus_Bordeaux: "Ressourcen für die Integration von Bordeaux"
 NFA_Core_Bordeaux: "Gliedert Bordeaux ein"
 NFA_Focus_Lille: "Zuweisung von Ressourcen für die Integration von Lille"
 
-NFA_Integrate_Metropole: "Integriert [From.GetName]"
-
 # Generic Coring #
 
 NFA_Integration_decisions: "Territoriale Integration"
 NFA_Integration_decisions_desc: "Wir sollten uns um die Wiedereingliederung von Gebieten bemühen, die wir verloren haben, als die Deutschen und die Roten unser altes Reich zerschlugen. Während wir uns auf globaler Ebene wieder behaupten, müssen wir unsere Landsleute im Ausland integrieren, um unserer Nation wieder zu Größe zu verhelfen!"
 NFA_Integrate_Country: "Integriert [From.GetNameDef]"
-NFA_Integrate_State: "Integriert [From.GetName]"
 NFA_Integrate_Overseas_State: "Integriert [From.GetName] als Departement"
 NFA_Integrate_Overseas_State_desc: "Seit dem Verlust des Festlandes wurde unser Reich zerrissen, und die meisten fielen unter die Kontrolle von anderen Regierungen. Es wird einige Zeit und Mühe kosten, [From.GetName] als Übersee Departement wieder in Frankreich zu integrieren."
 
@@ -1268,9 +1265,6 @@ NATFRA_English_Doctrine_desc: "Lange haben die Briten die Meere beherrscht. Mit 
 
 NATFRA_ENT_Experts: "[ENT.GetName] Experten"
 
-#Localisation for the opinion modifier:
-franco_german_thaw: "Deutsch-französisches Tauwetter"
-
 # Post Return Political Trees #
 
 # Action Française #
@@ -1299,11 +1293,6 @@ NATFRA_Prole_no_More: "Proletarier nicht mehr!"
 NATFRA_Prole_no_More_desc: "Die Revolution von 1789 beraubte unser Volk seiner traditionellen Rechte und Privilegien und machte es zu einer ausgebeuteten Klasse, dem Proletariat, das der Gnade des Kapitals ausgeliefert ist. Das Anti-Frankreich hat aus ihrem gerechten Zorn Kapital geschlagen und sie weiter in die Irre geführt. Jetzt nicht mehr! Ihre Rechte wiederhergestellt, gibt es keinen einzigen Proletarier mehr in Frankreich, nur stolze Handwerker, stolze Bauern, stolze Arbeiter."
 NATFRA_Integral_Monarch: "Der König hat sie gerettet!"
 NATFRA_Integral_Monarch_desc: "Das wahre Frankreich hat lange unter der Tyrannei seiner Feinde gelitten, seien es nun parasitäre Republikaner oder gottlose Sozialisten. Es bleibt noch viel zu tun, um den Schaden zu beheben, aber die Nation erholt sich endlich unter der fürsorglichen und wachsamen Führung ihres rechtmäßigen Monarchen.\nVive le Roi! Vive la France!"
-
-#Localisation for the opinion modifier:
-GER_blamed_for_war: "Gab uns die Schuld für den Krieg"
-#Localisation for the opinion modifier:
-NFA_Consecrated_Heart: "Weihe des Unbefleckten Herzens"
 
 NATFRA_Integral_Monarch_idea_flip_tt: "Ersetzt §YEin zurückkehrender Monarch, Cercle Proudhon, Wiederherstellung der Provinzparlamente, Erweitert die Camelots,§! und §YDurchsetzung der Sozialdoktrin§! mit §YEin integraler Monarch§!\nEffektive Nettoveränderung:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-5.0%§!"
 
@@ -1578,8 +1567,6 @@ nfa.4.a: "Der König ist tot, lang lebe der König!"
 nfa.5.t: "Der Löwe in Kanada"
 nfa.5.d: "Nach einem langen Transatlantikflug kam Marschall Pétain in Ottawa an, wo er von Premierminister Mackenzie King und einer großen Menge von Kanadiern, zumeist Québécois, die diesen Staatsbesuch als Erneuerung der anglo-französischen Zusammenarbeit sahen, begrüßt wurde. Anschließend fuhren sie nach Windsor, wo der verstorbene König-Kaiser Georg darum gebeten hatte, beerdigt zu werden. Nach einer grandiosen und emotionalen Zeremonie, bei der sich Pétain endlich von einem persönlichen Freund und Verbündeten verabschieden konnte, unternahm er eine Rundreise durch Ontario und Québec, auf der er überall als Freund des Empire begrüßt wurde, bevor er sich mit König Edward VIII. traf.\n\nIn einer im Voraus geplanten Aktion schüttelten sich die beiden Männer vor den Medien der Welt die Hände, und der neue König erklärte, dass die französische und die britische Nation immer Seite an Seite in diesem großen Kreuzzug gegen die syndikalistische Bedrohung kämpfen würden, egal welche Kämpfe die Zukunft bringen würde. Später führten die beiden Männer ein privates Gespräch, in dem sie die aktuellen Probleme der Entente, die von beiden Männern geplante Politik und die unvermeidliche Aussicht auf einen Krieg diskutierten. Die gegenseitige unsterbliche Verpflichtung beider Nationen füreinander wurde natürlich erneuert und kündigte noch stärkere Bindungen innerhalb der Entente an."
 nfa.5.a: "Zeit, nach Hause zu gehen"
-
-committed_to_return_home: "Verpflichtet zur Rückkehr nach Hause."
 
 nfa.6.t: "Unstimmigkeiten innerhalb der Armée"
 nfa.6.d: "Nach dem Weltkrieg haben sich unter den jüngeren höheren Offizieren zwei Denkansätze herausgebildet, um die militärische Niederlage zu erklären. Wenn auch beide zu dem Schluss kommen, dass die Niederlage in erster Linie durch Ineffizienz, persönliche Fehden und einen allgemeinen Mangel an Koordination innerhalb des militärischen Oberkommandos verursacht wurde und die Tapferkeit und das Blut der französischen Infanteristen sowie die strategischen und taktischen Innovationen des damaligen Generals Philippe Pétain vergeudet wurden, so sind sie sich doch uneinig über die Ursachen dieser Probleme und vor allem darüber, was getan werden sollte, um sie zu korrigieren.\n\nZwei Männer haben sich als Anführer dieser Fraktionen innerhalb der französischen Armee herauskristallisiert, und beide planen die Veröffentlichung von Büchern, in denen sie ihre Sichtweise darlegen. Sie haben Kopien an den Marschall geschickt, in der Hoffnung, öffentliche Unterstützung für ihre Arbeit über die Opposition zu bekommen."
@@ -2640,7 +2627,7 @@ nfa.404.d: "Die Kathedrale der Unbefleckten Empfängnis von Ouagadougou wurde he
 nfa.404.a: "Ein lebender Heiliger, dieser Thévenoud!"
 
 nfa.405.t: "Muttertag"
-nfa.405.d: "Vor zehn Jahren führte die Regierung eine rigorose Geburtenpolitik ein, zu der neben vielen anderen Maßnahmen auch die Einführung einer besonderen Feier zum Muttertag und einer Medaille der französischen Familie gehörte, die an gute Mütter zahlreicher Familien verliehen wird. Obwohl die Ergebnisse dieser Politik erst jetzt zu spüren sind, hat sich der Muttertag zu einem echten Volksfest entwickelt, das in Schulen und Haushalten im ganzen Land zur Freude der Mütter gefeiert wird, und es ist üblich geworden, dass die Kinder ihren Müttern kleine Geschenke mitbringen und die Ehemänner dafür sorgen, dass dieser Tag für ihre Frauen und natürlich auch für ihre eigenen Mütter ein besonderer Tag ist.\n\nIn einer heute im Radio ausgestrahlten Rede erinnerte Präsident [NFA.GetLeader] die Frauen daran, dass 'Nur ihr könnt den künftigen Generationen den Geschmack für ehrliche Arbeit, den Sinn für Disziplin, für Bescheidenheit und für Respekt vermitteln, der gesunde Männer und eine starke Nation hervorbringt. Ihr seid die Quelle unserer christlichen Zivilisation und unsere größte Hoffnung für die Zukunft.' Damit soll sichergestellt werden, dass die unglaublich wichtige Rolle der Frau in der Gesellschaft allen in Erinnerung gerufen wird und die ihr gebührende Achtung erfährt."
+nfa.405.d: "Vor zehn Jahren führte die Regierung eine rigorose Geburtenpolitik ein, zu der neben vielen anderen Maßnahmen auch die Einführung einer besonderen Feier zum Muttertag und einer Medaille der französischen Familie gehörte, die an gute Mütter zahlreicher Familien verliehen wird. Obwohl die Ergebnisse dieser Politik erst jetzt zu spüren sind, hat sich der Muttertag zu einem echten Volksfest entwickelt, das in Schulen und Haushalten im ganzen Land zur Freude der Mütter gefeiert wird, und es ist üblich geworden, dass die Kinder ihren Müttern kleine Geschenke mitbringen und die Ehemänner dafür sorgen, dass dieser Tag für ihre Frauen und natürlich auch für ihre eigenen Mütter ein besonderer Tag ist.\n\nIn einer heute im Radio ausgestrahlten Rede erinnerte [ROOT.GetMonarchOrPresident] [NFA.GetLeader] die Frauen daran, dass 'Nur ihr könnt den künftigen Generationen den Geschmack für ehrliche Arbeit, den Sinn für Disziplin, für Bescheidenheit und für Respekt vermitteln, der gesunde Männer und eine starke Nation hervorbringt. Ihr seid die Quelle unserer christlichen Zivilisation und unsere größte Hoffnung für die Zukunft.' Damit soll sichergestellt werden, dass die unglaublich wichtige Rolle der Frau in der Gesellschaft allen in Erinnerung gerufen wird und die ihr gebührende Achtung erfährt."
 nfa.405.a: "Alles Gute zum Geburtstag, Mama!"
 
 nfa.406.t: "Integraler Humanismus"
@@ -2920,8 +2907,6 @@ nfa.522.a: "Ich glaube, die Boches nennen das '<Schadenfreude'."
 nfa.523.t: "Eine Audienz mit Agoli-Agbo"
 nfa.523.d: "Umgeben von seinen weiblichen Wachen, den Mino, die im Westen besser als Amazonen bekannt sind, in seiner schönsten traditionellen Kleidung und mit seinem 'récade', dem axtförmigen königlichen Zepter, empfing der ältere König von Dahomey in seinem Palast in Abomey unseren Gesandten, der ihn mit Geschenken, Lob und einer Forderung überhäufte: den Freundschafts- und Handelsvertrag, der unsere beiden Nationen seit 1894 verbunden hatte, wieder in Kraft zu setzen. Der König nahm sofort an, und sein Hof jubelte.\n\nDiese scheinbar spontane Machtdemonstration des Königs war jedoch das Ergebnis wochenlanger Verhandlungen zwischen französischen Vertretern und König Agoli-Agbo. Mit dem Zusammenbruch der deutsch-afrikanischen Ordnung wurden viele einheimische Führer plötzlich zum ersten Mal seit Jahrzehnten in eine tatsächliche Führungsposition gedrängt: Einige, wie Agoli-Agbo, haben es geschafft, ihre traditionelle Autorität über ihr Volk einigermaßen wiederherzustellen. Dennoch ist Dahomey immer noch in Aufruhr: Deutsche Überreste lauern noch immer, und dem König fehlen schlichtweg die Mittel, um die Ordnung im gesamten Gebiet der ehemaligen Kolonie wiederherzustellen, insbesondere bei den nördlichen Völkern wie den wilden Bariba und ihren Wassangari-Reitern, die sich von seinem eigenen Fon-Volk stark unterscheiden. Daher brauchte Agoli-Agbo Verbündete: Als seine ehemaligen Herren waren wir seine erste und vielleicht einzige Wahl. Wir müssen jedoch feststellen, dass er unsere angespannten Beziehungen zu Deutschland bei diesen Verhandlungen geschickt ausgenutzt hat: Wir konnten nicht einfach bis zum Golf von Guinea marschieren, da der Kaiser immer noch die Herrschaft über die Region beansprucht, und so mussten wir uns mit einem inoffiziellen Protektorat begnügen, den König mit Beratern umgeben und seinen Einfluss auf das Land mit unseren Ressourcen stärken. Doch heute ist ein freudiger Tag: Die französische Diplomatie hat uns den ersten Schritt zur Rückeroberung unseres afrikanischen Reiches gesichert."
 nfa.523.a: "Willkommen zurück, Eure Majestät."
-
-NFA_puppeted_dahomey: "Vassilisiert Dahomey"
 
 nfa.524.t: "Hallo, mein altes Paris"
 nfa.524.d: "Paris, die Hauptstadt Frankreichs, seit es ein Frankreich gibt. Sie hat schon bessere Tage gesehen, der Krieg und die Roten haben hässliche Narben hinterlassen, aber alles wird bald wieder verheilt sein. Trotz aller Kämpfe wird Paris immer Paris bleiben, unbestreitbar die schönste Stadt der Welt, die Hauptstadt der europäischen Kultur und Zivilisation, die Stadt der Lichter: unsere gute alte Paname. Endlich sind wir hier, zu Hause. Es wäre unmöglich, die tiefe und heilige Ergriffenheit all derer zu verbergen, die sie vor all den Jahren zurücklassen mussten, und die Ehrfurcht derer, die zu jung im Exil waren, um sich noch an sie zu erinnern. Rote Fahnen und andere Symbole der Revolution wurden niedergerissen, und auf den Champs-Élysées fand eine riesige Parade zu Ehren unserer Armeen und der unserer Verbündeten statt: Unzählige Pariser jubelten ihren Befreiern zu, einige weinten vor Freude, andere blieben einfach fassungslos angesichts der Verwirklichung ihres innigsten Traums. Die Feinde Frankreichs lauern noch immer, aber jeden Tag werden hochrangige Revolutionäre vor Gericht gestellt: Es wird Zeit brauchen, aber zuerst wird Paris und bald ganz Frankreich von diesem Dreck befreit sein. Unsere Patrie wird aus der Asche wieder auferstehen!"
@@ -3274,24 +3259,23 @@ NFA_jean_decoux_admiral_desc: "§YAdmiral Beschreibung\nGeboren:§! §g5. Mai 18
 ### Opinion Modifiers ###
 #########################
 
-NFA_liberia_abandoned_us: "Liberia entkam der französischen Herrschaft"
-NFA_refused_returning_entente: "Weigerte sich, französisches Territorium zurückzugeben"
-NFA_accepted_returning_entente: "Zurückgegebenes französisches Territorium"
-NFA_reinforce_entente: "Verstärkt die Entente"
-NFA_established_under_railroad: "Gründete die Underground Railroad"
-NFA_gave_caribbean: "Gab uns die Karibik zurück"
-NFA_refuse_give_caribbean: "Weigerte sich, uns die Karibik zurückzugeben"
+NFA_occupied_france: "Occupation of France"
 NFA_seized_morocco: "Beschlagnahmte Deutsch-Marokko"
-mitteleuropa_economic_block_mit: "Mitteleuropäischer Handel"
-mitteleuropa_economic_block_ent: "Mitteleuropäischer Handel"
-entente_investments: "Entente Investitionen"
+NFA_entente_investments: "Entente Investitionen"
+NFA_committed_to_return_home: "Entschlossen zur Heimkehr"
+NFA_franco_german_thaw: "Französisch-deutsches Tauwetter"
+NFA_GER_blamed_for_war: "Uns die Schuld am Krieg gegeben"
+NFA_Consecrated_Heart: "Weihe des Unbefleckten Herzens"
 NFA_New_Concordat: "Ein neues Konkordat"
 NFA_PAP_meeting: "Ein Treffen mit dem Papst"
+NFA_puppeted_dahomey: "Unterwarf Dahomey"
 NFA_accepted_knights_malta_can: "Nahm die Hilfe der Malteserritter an"
 NFA_accepted_knights_malta_pap: "Nahm die Hilfe der Malteserritter an"
 NFA_refused_knights_malta: "Verweigerte die Hilfe des Malteserordens"
 NFA_visit_to_portugal: "Staatsbesuch in Portugal"
 NFA_visit_to_ireland: "Staatsbesuch in Irland"
+NFA_mitteleuropa_economic_block_mit: "Mitteleuropäischer Handel"
+NFA_mitteleuropa_economic_block_ent: "Mitteleuropäischer Handel"
 
 #####################
 ### Country Names ###

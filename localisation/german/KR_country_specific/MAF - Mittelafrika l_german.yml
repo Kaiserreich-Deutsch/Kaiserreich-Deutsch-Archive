@@ -357,7 +357,7 @@ POR_Bush_War_mission: "Der Bush-Krieg"
 POR_Bush_War_mission_desc: "\n§LWir werden gewinnen, wenn es uns gelingt, die Kontrolle über drei der folgenden Staaten zu übernehmen, die sich im Besitz befinden von§! §PMittelafrika§!§L:§! §g[813.GetName], [871.GetName], [879.GetName]§! §Land§! §g[958.GetName].§!"
 
 ### Opinion Modifiers ###
-MAF_Refused_Explain: "Portugal weigerte sich, die Rebellen zu stoppen"
+MAF_Refused_Explain: "Weigerung, die Rebellen zu stoppen"
 
 ### State Modifiers ###
  MAF_british_kenya: "Kolonie und Schutzgebiet Kenia"
@@ -893,6 +893,10 @@ MAF_Sailing_With_Marine_desc: "Unsere Schiffe sollten nicht einfach in den örtl
  mittel.002.b: "Rudolf Asmis wird über sein Fachwissen und seine Umsicht sprechen."
  mittel.002.c: "Dies ist nicht die Zeit für Politik. Es muss eine geschmackvolle Gedenkfeier abgehalten werden."
 
+ mittel.003.t: "Auf den Marmorklippen, ein Buch von Ernst Jünger" #Formerly in 00 Literature events.txt
+ mittel.003.d: "Ernst Jünger, einer unserer verdienten Generäle, ist auch ein erfolgreicher Autor. Heute ist sein neuestes Buch im Heimatland erschienen: Auf den Marmorklippen. Es ist ein Roman voller manchmal obskurer Symbolik, Magie und den inneren, verborgenen Abläufen des Lebens selbst. In einer Fantasiewelt lebt die reiche, kunstliebende Zivilisation von Marina in Frieden neben den kriegerischen Nomaden der Steppe. Zwei Brüder sind die Protagonisten der Geschichte, die versuchen, den Oberförster davon abzuhalten, die schöne Stadt Marina langsam zu überrennen. Immer mehr Nomaden hören auf den Oberförster, der zunächst jovial wirkt, sich aber bald als kalter, machthungriger Mörder entpuppt. Die Menschen in Marina hören auf, ihren Dichtern zuzuhören, ihre Werte und ihr Geist verfallen. Als die beiden Brüder im Wald eine Hütte finden, in der die Schergen des Oberförsters ihre Opfer ermorden, versuchen sie, sich gegen den Bösewicht aufzulehnen, aber vergeblich. Nur ihre Magie ermöglicht ihnen die Flucht. Sie müssen ihr Haus auf den Marmorklippen und ihr Lebenswerk in Brand setzen, während sie die Stadt Marina am Horizont brennen sehen und in einen Zustand des Fatalismus zurückkehren. Das Buch hat gemischte Kritiken erhalten. Während einige es für seine ausgefeilte Ästhetik und den Einblick in die Funktionsweise der Welt loben, fragen sich einige Leser, die sich mehr für die politischen Implikationen der Marmorklippen interessieren, ob es Ernst Jüngers Kommentar zur harten Realität der mittelafrikanischen Politik sein soll. Jünger selbst hat sich dazu nicht geäußert, aber sein Bruder Friedrich Georg, ein Dichter, sagte \"Es ist ein Schuh, der zu verschiedenen Füßen passt\"."
+ mittel.003.a: "Dieses werde ich kaufen."
+
 ## Internal Events ##
 mittel.40.t: "Die Kenyatta Affäre"
 mittel.40.d: "Ein ziemlich einzigartiger Fall zieht sich seit Jahren schleppend durch unser Rechtssystem. Nun hat er das höchste Gericht des deutschen Staates erreicht. Der antikoloniale Aktivist Jomo Kenyatta hat eine Sammelklage gegen die ehemalige mittelafrikanische Regierung wegen ihres Verhaltens während der Befriedung Kenias im Jahr 1925 eingereicht. Der Fall ist zu einer Art politischer Peinlichkeit geworden: Da einige der Kläger britische Siedler sind, kann er nicht einfach abgewiesen werden. Sie behaupten, die Schutztruppe habe ihnen durch illegale Landnahmen und sogar Entführungen und Folter Schaden zugefügt, und dies alles mit Wissen der mittelafrikanischen Verwaltung und ohne rechtliche Grundlage.\n\nDie Hauptbeteiligten sind zwar nicht mehr Teil unserer Verwaltung, aber Kommentatoren haben darauf hingewiesen, dass ein Urteil des Gerichts möglicherweise einen Präzedenzfall für das zulässige Ausmaß der... Regelbeugung' unserer Kolonialverwaltungen ist."
@@ -1195,6 +1199,11 @@ mittel.187.a: "Wunderbar!"
  mittel.213.t: "Die DKAEB geht Bankrott"
  mittel.213.d: "Die mittelafrikanische Regierung hat wieder einmal versagt, denn die Ostafrikanische DKAEB ist untergegangen. Damit haben wir unseren äthiopischen Verbündeten verprellt und gleichzeitig wertvolle deutsche Ressourcen für die Rettung der Eisenbahn verschwendet. Wir haben dem Statthalter [MAF.GetLeader] für diese Operation etwas Vertrauen geschenkt - etwas, das wir nie wieder tun werden."
  mittel.213.a: "Inkompetente Dummköpfe!"
+
+## GEX Events ##
+ mittel.300.t: "Eine Rückkehr nach Europa"
+ mittel.300.d: "Unsere Soldaten säumen die Straßen von [MAF_GetGermanCapital] und jubeln wild, wenn die deutschen Führer von ihren neu eingetroffenen Schiffen wieder europäischen Boden betreten. Wir sind nicht länger im Exil."
+ mittel.300.a: "Ein wundervoller Tag!"
 
 ## Kenyan Events ##
  mittel.410.t: "Eine Klage aus Nairobi"

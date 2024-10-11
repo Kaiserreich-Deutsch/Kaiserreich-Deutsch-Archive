@@ -268,7 +268,6 @@
  retarded_legal_system: "Das Rechtssystem wurde dezentralisiert"
  ASY_got_an_ass_whooping: "Die assyrischen Truppen wurden aufgelöst"
  black_monday_yeet: "Die Auswirkungen des Schwarzen Montags sind vorüber"
- EGY_CONQ: "Hat Ägypten annektiert"
  expanded_millets: "Die Millets wurden ausgebaut"
  ziraat_bypass: "Die Ziraat Bankasi wurde gegründet"
  RUSSIAN_OTTOMAN_DEAL: "Das Russisch-Osmanische Abkommen wurde unterzeichnet"
@@ -329,15 +328,14 @@
 #####################
 # Opinion Modifiers # 
 #####################
- ott_adopted_civil_code: "Übernahm unser Zivilgesetzbuch"
- ott_supports_emancipation: "Unterstützt Emanzipation"
- ott_relinquished_european_ambitions: "Gab europäische Ambitionen auf"
- ott_german_fren: "Osmanische diplomatische Mission"
- ott_german_fren2: "Gemeinsame Interessen"
- ott_per_issue: "Kurdischer Grenzkonflikt"
- ott_egy_anger: "Unterstützt arabischen Separatismus"
- ott_r_caliph: "Kalif"
- ott_rr_caliph: "Erkannte den osmanischen Kalifen an"
+ OTT_r_caliph: "Kalif"
+ OTT_rr_caliph: "Erkannte den osmanischen Kalifen an"
+ OTT_adopted_civil_code: "Übernahm unser Zivilgesetzbuch"
+ OTT_supports_emancipation: "Unterstützt Emanzipation"
+ OTT_relinquished_european_ambitions: "Gab europäische Ambitionen auf"
+ OTT_german_friendship: "Gemeinsame Interessen"
+ OTT_per_issue: "Kurdischer Grenzkonflikt"
+ OTT_egy_anger: "Unterstützt arabischen Separatismus"
 
 ###################
 # State Modifiers #
@@ -2242,7 +2240,7 @@
  ottars.2.a: "Eine großartige Initiative!"
 
  ottars.3.t: "Der erste islamische Kongress"
- ottars.3.d: "Der Großwesir hat, zusammen mit vielen islamischen Denkern aus der gesamten muslimischen Welt, damit begonnen, an einem neuen Projekt zu arbeiten: dem Zusammenbringen aller muslimischer Gruppen. Der Islamische Weltkongress, der erste von hoffentlich vielen, wird eine Versammlung vieler, sowohl islamistischer als auch nationalistischer, Intellektueller sein, die zusammen die Befreiung der noch immer unterdrückten Muslime im Maghreb anstreben und die Einigkeit unter den Ummah fördern werden.\n\nEs ist jedoch noch unklar, ob der Großwesir diese Organisation für das Deutsch Reich, mit dem er enge Verbindungen pflegt, einsetzen oder gegen es stellen wird. Viele alte osmanische Spezialagenten und ihre Unterstützer aus Ländern von Marokko bis nach Pakistan haben die Einladung bereits angenommen."
+ ottars.3.d: "Der Großwesir hat, zusammen mit vielen islamischen Denkern aus der gesamten muslimischen Welt, damit begonnen, an einem neuen Projekt zu arbeiten: dem Zusammenbringen aller muslimischer Gruppen. Der Islamische Weltkongress, der erste von hoffentlich vielen, wird eine Versammlung vieler, sowohl islamistischer als auch nationalistischer, Intellektueller sein, die zusammen die Befreiung der noch immer unterdrückten Muslime im Maghreb anstreben und die Einigkeit unter den Ummah fördern werden.\n\nWährend unklar bleibt, ob der Großwesir mit dieser Organisation gegen oder für das Deutsche Reich sein will, zu dem er enge Beziehungen unterhält, haben viele der alten osmanischen Spezialagenten und ihre Anhänger von Marokko bis Bengalen die Einladung angenommen."
  ottars.3.a: "Wir alle sind Brüder!"
 
  ottars.4.t: "Renovierungs- und Restaurationsprogramm"
@@ -3086,12 +3084,12 @@
 
 ### 'Population Exchange'
  ottfor.87.t: "Auftauen der griechisch-türkischen Beziehungen?"
- ottfor.87.d: "Die Spannungen zwischen dem griechischen Staat und unserem glorreichen Reich haben schon vor der griechischen Unabhängigkeit existiert, haben sich aber gegen Ende des 19. Jahrhunderts und in den ersten beiden Jahrzehnten des 20. Jahrhunderts immer weiter zugespitzt. Das Osmanische Reich, welches siegreich aus dem Weltkrieg hervorging, wollte die Herrschaft über sein zuvor verlorenes Land wiederherstellen und brachte deshalb Dodekanes und die Kykladen, und somit auch hunderttausende Griechen, unter türkische Herrschaft.\n\nDer griechische Staat, welcher sowieso schon durch die fehlende Einigkeit mit Zypern und die brutalen Zustände, unter denen seine Brüder in Kleinasien während des Krieges leben mussten, einen Groll gegen uns hegte, hat dies nie vergessen und schlägt noch heute in allen Angelegenheiten, die unser Reich betreffen, einen harten Kurs ein. Während auf der ganzen Welt Kriege herrschen und die Menschen unter der Zerstörung leiden, will unsere Regierung den Griechen einen Olivenzweig reichen, um in der Zukunft zusammenzuarbeiten und unsere beiden Nationen vor Einmischungen aus dem Ausland zu schützen.\n\nDieses Abkommen beinhaltet die Übergabe der Kykladen und einiger anderer griechischen Inseln an Griechenland, die Ratifizierung eines Flottenvertrags, eine Erleichterung der Immigration für Griechen und Türken, die in ihre kulturelle Heimat zurückkehren möchten, und einen wirtschaftlichen Pakt. Dies wäre hoffentlich der erste Schritt für eine lange und erfolgreiche, freundschaftliche Beziehung zwischen unseren beiden Nationen."
+ ottfor.87.d: "Spannungen zwischen dem osmanischen Staat und unserem schönen Land gab es schon vor unserer Unabhängigkeit, aber besonders brutal wurden sie gegen Ende des 19. und in den ersten beiden Jahrzehnten des 20. Das Osmanische Reich, das am Ende des Weltkriegs als Sieger hervorging, tat sein Bestes, um frühere Landkonzessionen rückgängig zu machen und den Dodekanes und die Inseln der nördlichen Ägäis wieder in seinen Besitz zu bringen, wodurch Hunderttausende von Griechen unter türkische Herrschaft gerieten.\n\nDer griechische Staat, welcher sowieso schon durch die fehlende Einigkeit mit Zypern und die brutalen Zustände, unter denen seine Brüder in Kleinasien während des Krieges leben mussten, einen Groll gegen uns hegte, hat dies nie vergessen und schlägt noch heute in allen Angelegenheiten, die unser Reich betreffen, einen harten Kurs ein. Während auf der ganzen Welt Kriege herrschen und die Menschen unter der Zerstörung leiden, will unsere Regierung den Griechen einen Olivenzweig reichen, um in der Zukunft zusammenzuarbeiten und unsere beiden Nationen vor Einmischungen aus dem Ausland zu schützen.\n\nDieses Abkommen, das die Rückübertragung der Inseln der nördlichen Ägäis und des Dodekanes an Griechenland, die Ratifizierung eines Flottenabkommens, eine vereinfachte Einwanderungsstruktur für Griechen und Türken, die in ihre kulturelle Heimat einwandern wollen, und einen Wirtschaftspakt umfasst, ist hoffentlich der erste Schritt zu einer langen und fruchtbaren Beziehung zwischen unseren beiden Ländern."
  ottfor.87.a: "Mögen wir in Frieden leben, jetzt und für immer!"
  ottfor.87.b: "Wisst ihr was? Lieber nicht."
 
  ottfor.88.t: "Das Osmanische Reich schlägt eine Entspannungspolitik vor"
- ottfor.88.d: "Die Spannungen zwischen dem osmanischen Staat und unserer Nation haben schon vor unserer Unabhängigkeit existiert, haben sich aber gegen Ende des 19. Jahrhunderts und in den ersten beiden Jahrzehnten des 20. Jahrhunderts immer weiter zugespitzt. Das Osmanische Reich, welches siegreich aus dem Weltkrieg hervorging, wollte die Herrschaft über sein zuvor verlorenes Land wiederherstellen und brachte deshalb Dodekanes und die Kykladen, und somit auch hunderttausende Griechen, unter türkische Herrschaft.\n\nUnser Volk, welches sowieso schon durch die fehlende Einigkeit mit Zypern und die brutalen Zustände, unter denen seine Brüder in Kleinasien während des Krieges leben mussten, einen Groll gegen die Osmanen hegte, hat dies nie vergessen und fordert noch heute in allen Angelegenheiten, die das Osmanische Reich betreffen, einen harten Kurs. Während auf der ganzen Welt Kriege herrschen und die Menschen unter der Zerstörung leiden, will uns die osmanische Regierung einen Olivenzweig reichen, um in der Zukunft zusammenzuarbeiten und unsere beiden Nationen vor Einmischungen aus dem Ausland zu schützen.\n\nDieses Abkommen beinhaltet die Übergabe der Kykladen und einiger anderer griechischen Inseln an Griechenland, die Ratifizierung eines Flottenvertrags, eine Erleichterung der Immigration für Griechen und Türken, die in ihre kulturelle Heimat zurückkehren möchten, und einen wirtschaftlichen Pakt. Dies wäre hoffentlich der erste Schritt für eine lange und erfolgreiche, freundschaftliche Beziehung zwischen unseren beiden Nationen."
+ ottfor.88.d: "Spannungen zwischen dem osmanischen Staat und unserem schönen Land gab es schon vor unserer Unabhängigkeit, aber besonders brutal wurden sie gegen Ende des 19. und in den ersten beiden Jahrzehnten des 20. Das Osmanische Reich, das am Ende des Weltkriegs als Sieger hervorging, tat sein Bestes, um frühere Landkonzessionen rückgängig zu machen und den Dodekanes und die Inseln der nördlichen Ägäis wieder in seinen Besitz zu bringen, wodurch Hunderttausende von Griechen unter türkische Herrschaft gerieten.\n\nUnser Volk, welches sowieso schon durch die fehlende Einigkeit mit Zypern und die brutalen Zustände, unter denen seine Brüder in Kleinasien während des Krieges leben mussten, einen Groll gegen die Osmanen hegte, hat dies nie vergessen und fordert noch heute in allen Angelegenheiten, die das Osmanische Reich betreffen, einen harten Kurs. Während auf der ganzen Welt Kriege herrschen und die Menschen unter der Zerstörung leiden, will uns die osmanische Regierung einen Olivenzweig reichen, um in der Zukunft zusammenzuarbeiten und unsere beiden Nationen vor Einmischungen aus dem Ausland zu schützen.\n\nDieses Abkommen, das die Rückübertragung der Inseln der nördlichen Ägäis und des Dodekanes an Griechenland, die Ratifizierung eines Flottenabkommens zur Begrenzung der Flottenexpansion und zum Schutz der Schifffahrt, eine vereinfachte Einwanderungsstruktur für Griechen und Türken, die in ihre kulturelle Heimat einwandern wollen, sowie einen Wirtschaftspakt umfasst, ist hoffentlich der erste Schritt zu einer langen und fruchtbaren Beziehung zwischen unseren beiden Ländern."
  ottfor.88.a: "Wir akzeptieren!"
  ottfor.88.b: "Einige Wunden können nie verheilen..."
 

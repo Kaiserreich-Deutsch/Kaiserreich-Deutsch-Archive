@@ -57,10 +57,6 @@ generic_events.30.a: "Wir müssen uns vorbereiten!"
 generic_events.31.d: "Wir haben alarmierende Nachricht von [From.GetNameDef] erhalten, dass sich [From.From.GetAdjective] -Truppen derzeit versammeln und dass über die [From.GetAdjective]-Grenze hinweg viel Aufklärung stattfindet. Militärbeamte sagen, es sei klar, dass [From.From.GetNameDef] eine Invasion von [From.GetNameDef] plant, die jederzeit innerhalb der nächsten Wochen beginnen könnte."
 generic_events.32.d: "Wir haben von unseren Verbündeten in [From.GetNameDef] die Nachricht erhalten, dass sich ihre Truppen derzeit sammeln und dass ein großer Teil der Aufklärung über die [attack_target.GetAdjective] Grenze hinweg stattfindet. From.GetNameDefCap] plant eine Invasion von [attack_target.GetNameDef], die jederzeit innerhalb der nächsten Wochen beginnen könnte."
 
-### Ende der militärischen Besetzungen ###
- KR_end_military_occupations: "Ende der militärischen Besetzungen"
- KR_end_military_occupations_desc: "[ROOT.GetNameDefCap] hat eine militärische Besatzungspolitik gegenüber einer Reihe von eroberten Regionen eingeführt. Da das Ende des Krieges nun in Sicht ist und die Kosten für die Besatzung von Tag zu Tag steigen, könnte es möglich sein, diese Haltung zu überdenken."
-
 ### Returning Cores ###x
 return_cores_to_ally: "Geben Sie [From.GetAdjective] Land zurück"
 return_cores_to_ally_desc: "Die Regierung [Root.GetAdjective] hat diskutiert, was mit den derzeit besetzten [From.GetAdjective] -Ländern zu tun ist - Land, auf das wir keinen berechtigten Anspruch haben. Sollten wir das Land unseren Verbündeten [From.GetAdjective] zurückgeben?"
@@ -83,18 +79,6 @@ generic_events.76.d: "Unsere Verbündeten in [From.GetNameDefCap] haben uns eini
 generic_events.76.a: "Großartig!"
 
 ### Ideology ###
-KR_different_ideology_close: "Unterschiedliche Ideologie"
-KR_different_ideology: "Unterschiedliche Ideologie"
-KR_similar_ideology_close: "Ähnliche Ideologie"
-KR_similar_ideology: "Ähnliche Ideologie"
-KR_similar_ideology_distant: "Ähnliche Ideologie"
-KR_same_ideology: "Gleiche Ideologie"
-KR_ideology_allowed: "Minister für die Ideologie des Landes erlaubt"
-KR_factional_rivalry: "Fraktionsrivalität"
-head_of_gov_available: "§RRegierungschefs können nicht manuell hinzugefügt oder entfernt werden.§! Sie können nur über Ereignisse, Schwerpunkte, Entscheidungen usw. geändert werden.\n\nDiese Liste enthält alle möglichen Regierungschefs einer Nation, sodass die Menschen hier möglicherweise im Widerspruch zum derzeitigen Chef stehen, in einem anderen Land oder sogar tot sind."
-minister_available: "§RMinister können nicht manuell hinzugefügt oder entfernt werden.§! Sie können nur über Ereignisse, Schwerpunkte, Entscheidungen usw. geändert werden.\n\nDiese Liste enthält alle möglichen Minister für eine Nation, so dass die Menschen hier möglicherweise im Widerspruch zur gegenwärtigen Regierung stehen, in einem anderen Land oder sogar tot sind."
-military_staff_available: "Dieser Angehörige des Militärstabs ist am Leben und bereit, der Regierung zu dienen."
-
  government_is_loc: "Die derzeitige Regierungspartei ist "
  government_is_not_loc: "Die derzeitige Regierungspartei ist nicht "
 
@@ -177,10 +161,11 @@ mobilisation_penalty_modifier: "Über Divisions Limit"
 
  unit_limit_law_bonus: "Divisionen Limit"
 unit_limit_bonus: "Divisionen Limit"
+ unit_limit_factor: "Divisionen Limit"
  unit_limit_subject_bonus: "Divisionen Limit für Oberherren hinzugefügt"
 
  unit_limit_breakdown: "[unit_limit_breakdown]"
- unit_limit_breakdown_default: "§HMaximal unterstützte Divisionen§!\nAktuelles Maximum: [?uncapped_max_divisions|H0][unit_limit_reached_cap]\n[unit_limit_base_value][unit_limit_core_population][unit_limit_noncore_population][unit_limit_subject_population_bonus][unit_limit_states][unit_limit_subject_state_bonus]\n[unit_limit_factory_count_multiplier][unit_limit_additional_modifiers][unit_limit_faction_leader][unit_limit_default][unit_limit_economy_law][unit_limit_bonus_used][unit_limit_above_limit]"
+ unit_limit_breakdown_default: "§HMaximal unterstützte Divisionen§!\nAktuelles Maximum: [?uncapped_max_divisions|H0][unit_limit_reached_cap]\n[unit_limit_base_value][unit_limit_core_population][unit_limit_noncore_population][unit_limit_subject_population_bonus][unit_limit_states][unit_limit_subject_state_bonus]\n[unit_limit_factory_count_multiplier][unit_limit_additional_modifiers][unit_limit_faction_leader][unit_limit_factor_used][unit_limit_default][unit_limit_economy_law][unit_limit_bonus_used][unit_limit_above_limit]"
 
  unit_limit_list_item: "\n   - "
 
@@ -194,6 +179,7 @@ unit_limit_bonus: "Divisionen Limit"
  unit_limit_factory_count_multiplier_desc: "\nMultiplikator der Fabrikzählung: [?industry_factor|H%]"
  unit_limit_additional_modifiers_desc: "\n\nZusätzliche Modifikatoren:"
 unit_limit_faction_leader_desc: "$unit_limit_list_item$Fraktionsführer: §G+15%§!"
+ unit_limit_factor_used_desc: "$unit_limit_list_item$From Nationalgeist: [?modifier@unit_limit_bonus|=+0%]"
  unit_limit_default_desc: "$unit_limit_list_item$Base: [?global.base_unit_limit_bonus|=+0]"
  unit_limit_bonus_used_desc: "$unit_limit_list_item$Von Nationalgeiste: [?modifier@unit_limit_bonus|=+0]"
 
