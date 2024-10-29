@@ -7,3 +7,4 @@ tags={
 }
 name="Kaiserreich-Deutsch-1.3"
 supported_version="1.14.9"
+path="./mod/Kaiserreich-Deutsch-1.3"

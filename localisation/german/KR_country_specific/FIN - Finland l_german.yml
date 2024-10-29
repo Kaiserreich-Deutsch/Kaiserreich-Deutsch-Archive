@@ -689,8 +689,8 @@
  finland.1200.c: "Nur wenn sie Petsamo abtreten."
  finland.1200.d: "Wir sollten uns lieber [INT.GetNameDef] anschließen."
 
- finland.121.t: "Frankreich akzeptiert!"
- finland.121.d: "Wir haben von der Kommunalregierung die Nachricht erhalten, dass wir im Kampf gegen die Reaktionäre und die dunklen Kräfte des Finanzkapitalismus willkommen sind. Zusammen werden wir die Schweinehunde vernichten!"
+ finland.121.t: "[FROM.GetNameDefCap] akzeptiert!"
+ finland.121.d: "Wir haben von der [FROM.GetAdjective] Regierung die Nachricht erhalten, dass wir im Kampf gegen die Reaktionäre und die dunklen Kräfte des Finanzkapitalismus willkommen sind. Zusammen werden wir die Schweinehunde vernichten!"
  finland.121.a: "Hurra!"
  
  finland.122.t: "[From.GetNameDefCap] lehnt uns ab!"

@@ -13,14 +13,15 @@ KR_scenario_desc: "Als das Jahr 1936 anbricht, lastet das Erbe des Weltkriegs sc
 
 ### Nation Selection Screen ###
 new_this_patch_title: "NEU DIESEN PATCH"
+new_this_patch_title_b: "§b$new_this_patch_title$§!"
 
-feature_highlight_icon_0_tt: "§YBenutzerdefinierte Errungenschaften§!\nThis update includes 116 custom achievements that can be unlocked during your playthroughs.\n\n§YNOTE:§!\n£white_dot The ability to unlock custom achievements is enabled by default.\n£white_dot You can toggle it in the £kr_options_icon  Ingame Options Menu.\n£white_dot You do not need to be in Ironman Mode to unlock achievements.\n£white_dot To preserve your progress, you will need to enable Cloud Saves.\n\nYou can use the console command §4debug_custom_achievements§! to reset your unlocked achievements.\nThis will affect all custom achievements you have earned, not just those for Kaiserreich.Dieses Update enthält 116 benutzerdefinierte Errungenschaften, die während des Durchspielens freigeschaltet werden können.\n\n§YANMEERKUNGEN:§!\n£white_dot Die Möglichkeit, benutzerdefinierte Errungenschaften freizuschalten, ist standardmäßig aktiviert.\n£white_dot Sie können dies im Ingame-Optionsmenü £kr_options_icon ändern.\n£white_dot Sie müssen nicht im Ironman-Modus sein, um Errungenschaften freizuschalten.\n£white_dot Sie müssen sich nicht im Ironman-Modus befinden, um Erfolge freizuschalten.\n£white_dot Um euren Fortschritt zu speichern, muss der Cloud-Speicher aktiviert sein.\n\nSie können den Konsolenbefehl §4debug_custom_achievements§! verwenden, um Ihre freigeschalteten Erfolge zurückzusetzen.\nDies wirkt sich auf alle benutzerdefinierten Erfolge aus, die Sie erworben haben, nicht nur auf die für Kaiserreich."
-feature_highlight_icon_1_tt: "§YBeiyang Inhaltliche Erweiterung§!\n§LDie aus der Xinhai-Revolution hervorgegangene chinesische Republik zerfiel schließlich in zahlreiche Teile, als lokale Generäle und Kriegsherren den Geist der Fünf Ethnien unter einer Union für sich beanspruchten. Die Cliquen, die um ihr Erbe kämpften, wurden 1929 von den §YZhili§! vereinigt. In diesem Update haben die §zNördlichen Zhili§!, §aFengtian§!, die §YSüdlichen Zhili§! und andere Nachfahren der Beiyang-Republik verschiedene Erweiterungen und inhaltliche Überarbeitungen erhalten."
-feature_highlight_icon_2_tt: "§YÜberarbeitete Annexionen§!\nAnnexionen und Teilungen wurden komplett überarbeitet, um ein dynamischeres Gameplay zu ermöglichen.\n\nAnstelle von zeitlich begrenzten Missionen können Sie Untertanen freilassen, sobald ihr Heimatkontinent vom Feind befreit wurde. Bis dahin müssen Sie ihr Territorium unter militärischer Besatzung halten."
+feature_highlight_icon_0_tt: ""
+feature_highlight_icon_1_tt: ""
+feature_highlight_icon_2_tt: ""
 
-highlight_minor_0_tt: "§gSichuans§! Inhalt für seine §zZhili Überreste§! ist aktualisiert worden.\nSie enthält jetzt §Yneue nationale Schwerpunkte§!, §YEreignisse§!, §YCharaktere§! und §Ymehr§!."
-highlight_minor_1_tt: "Der Inhalt der §mLiga der Acht Provinzen§! wurde aktualisiert.\nEs gibt §Yneue militärische§! und §Yaußenpolitische Schwerpunktbäume§!, neue §YCharaktere§! und §Ymehr§!."
-highlight_minor_2_tt: "Der gesamte Inhalt der §zZhili§! der §cQing§! wurde aktualisiert.\nEs gibt jetzt §Yneue nationale Schwerpunkt-Effekte§!, §YEreignisse§!, §YCharaktere§! und §Ymehr§!."
+highlight_minor_0_tt: "Der Inhalt von §YHaiti§! wurde aktualisiert.\nEs gibt jetzt einen §oTotalistischen Nebenpfad§! mit §Yneuen nationalen Schwerpunkten§! und §Ymehr§!."
+highlight_minor_1_tt: ""
+highlight_minor_2_tt: ""
 
 ### Other ###
 Debug_KR_gathering_storm_desc: "Wenn Sie dies sehen, erstellen Sie bitte einen Bug Report auf Github."

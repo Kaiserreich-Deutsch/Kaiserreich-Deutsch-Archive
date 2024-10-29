@@ -2218,7 +2218,6 @@ entente.24.a: "Wie schrecklich!"
  entente.340.t: "Geraubtes Land"
  entente.340.d.british: "Wir sind darauf aufmerksam geworden, dass [ENT_demand.GetNameDef] Land kontrolliert, das rechtmäßig britisch ist und sofort zurückgegeben werden sollte."
  entente.340.d.french: "Wir sind darauf aufmerksam geworden, dass [ENT_demand.GetNameDef] Land kontrolliert, das rechtmäßig Frankreich gehört und sofort zurückgegeben werden sollte."
- entente.340.d.both: "Wir sind darauf aufmerksam geworden, dass [ENT_demand.GetNameDef] Land kontrolliert, das rechtmäßig britisch oder französisch ist und sofort zurückgegeben werden sollte."
  entente.340.a: "Ich bin sicher, dass es sich nur um einen Schreibfehler handelt."
  entente.340.b: "Meh. Das ist uns egal."
  

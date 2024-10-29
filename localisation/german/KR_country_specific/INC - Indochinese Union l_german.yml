@@ -169,13 +169,8 @@
  INC_improved_recon_units_tech_effect: "Enables §H$INC_improved_recon_units_tech$\nRecon§!\n      $MODIFIER_BREAKTHROUGH$: §G+1§!\n      $MODIFIER_RECON_FACTOR$: §G+1§!\n\n"
 
 ### Opinion Modifiers ###
- INC_Liberation: "Our comrades support our revolutionary movement!"
- INC_HND_Support: "The Bharatiya Commune chose to continue their support"
- INC_HND_NoSupport: "Our request for closer ties has been refused."
- INC_HND_Support_50: "The Bharatiya Commune supports Indochinese rebels!"
- INC_HND_Support_75: "The Bharatiya Commune supports Indochinese rebels!"
- INC_ImperialistScum: "Damn those German Imperialists!"
  INC_closer_ties: "Closer Ties"
+ INC_Liberation: "Supported Our Revolutionary Struggle"
 
 ### Events ###
  viet.0.t: "New Indochina!"
@@ -754,7 +749,7 @@
  viet.168.a: "Together we will fight."
 
  viet.169.t: "[INC.GetAdjective] Military Mission"
- viet.169.d: "General Nguyen Son, also known as Hong Shui in China, has led a military mission from Indochina to observe and assist our war efforts. General Nguyen Son was a student in the Whompoa military academy, and he is excited to reunite with his old classmates. The mission shared their experience on [INC.GetNameDef]'s recent war against German colonial forces with us. "
+ viet.169.d: "General Nguyen Son, also known as Hong Shui in China, has led a military mission from Indochina to observe and assist our war efforts. General Nguyen Son was a student in the Whampoa military academy, and he is excited to reunite with his old classmates. The mission shared their experience on [INC.GetNameDef]'s recent war against German colonial forces with us. "
  viet.169.a: "Good."
 
  viet.170.t: "[INC.GetAdjective] Military Mission Returns"
@@ -784,8 +779,6 @@
  spend_10_guerilla_tooltip: "It costs $spend_10_guerilla_blocked$ to take the decision"
  add_10_guerilla_tooltip: "§YGuerrilla Activities§! will be strengthened by §G10§!."
  add_5_guerilla_tooltip: "§YGuerrilla Activities§! will be strengthened by §G5§!."
- spend_5_war_support: "£war_support_texticon §Y5§!"
- spend_5_war_support_blocked: "£war_support_texticon §R5§!"
  spend_5000_manpower: "£manpower_texticon §Y5000§!"
  spend_5000_manpower_blocked: "£manpower_texticon §R5000§!"
  INC_sabotage_tonkin_decision: "Sabotage in Northern Vietnam"
@@ -1025,10 +1018,10 @@
 ### Focuses ###
  INC_Revolutionary_Provisional_Government: "Revolutionary Provisional Government"
  INC_Revolutionary_Provisional_Government_desc: "The 'Viet Minh', or 'League for the Independence of Vietnam', is a broad coalition of groups which seek the immediate independence of Vietnam. The Viet Minh, despite its deep political divisions, has managed to establish a provisional Indochinese government. As of yet, however, the structure of this government is largely informal and in need of reform."
- INC_General_Van_Tien_Dung's_Reform: "General Staff's Reform Plan"
- INC_General_Van_Tien_Dung's_Reform_desc: "The infantile People's Army of Indochina needs to be reformed. The general staff advocates well-planned surprise offensives as the basis of doctrine. With extensive planning, deep infiltration and modernised armaments, Indochina's army will be able to simultaneously assault multiple fronts, surprise the enemy, and cause their total disintegration."
- INC_General_Nguyen_Chi_Thanh's_Reform: "Political Officers' Reform Plan"
- INC_General_Nguyen_Chi_Thanh's_Reform_desc: "The infantile People's Army of Indochina needs to be reformed. The political department of army believes that human will is the key to victory. The courage and tenacity of Indochinese soldiers is our greatest weapon. We will engaged in prolonged guerrilla warfare to wear down our enemies, and fiercely strike them when they are exhausted and demoralised."
+ INC_General_Van_Tien_Dungs_Reform: "General Staff's Reform Plan"
+ INC_General_Van_Tien_Dungs_Reform_desc: "The infantile People's Army of Indochina needs to be reformed. The general staff advocates well-planned surprise offensives as the basis of doctrine. With extensive planning, deep infiltration and modernised armaments, Indochina's army will be able to simultaneously assault multiple fronts, surprise the enemy, and cause their total disintegration."
+ INC_General_Nguyen_Chi_Thanhs_Reform: "Political Officers' Reform Plan"
+ INC_General_Nguyen_Chi_Thanhs_Reform_desc: "The infantile People's Army of Indochina needs to be reformed. The political department of army believes that human will is the key to victory. The courage and tenacity of Indochinese soldiers is our greatest weapon. We will engaged in prolonged guerrilla warfare to wear down our enemies, and fiercely strike them when they are exhausted and demoralised."
  INC_Cam_Ranh_Bay_Expansion: "Expand Cam Ranh Bay"
  INC_Cam_Ranh_Bay_Expansion_desc: "Cam Ranh Bay is among the best natural military harbours in the world. It was used as the staging area of the Russian Baltic Fleet in 1905 before they departed for the Battle of Tsushima, and German East Asia Fleet during the German Intervention in the Chinese Civil War. Expanding the Cam Ranh Bay naval base will greatly improve our own naval construction capacity."
  INC_Air_Defence_Air_Force: "Defend the Skies"
@@ -1077,8 +1070,8 @@
  INC_Urbanization_Effort_desc: "As Marx said, peasants are a bag of potatoes. They can't develop true proletarian democratic spirit. We should start a massive urbanisation programme, so that the proletarian dictatorship will have a solid mass basis"
  INC_Proletarian_Culture: "Proletarian Culture"
  INC_Proletarian_Culture_desc: "The party strives to lead the people into the shining light of socialism. Everything the party does is for their sake. The people, however, must be remoulded to better facilitate their salvation. To accomplish this, we must eradicate reactionary elements of our culture by any means necessary."
- INC_Worker's_Council: "Worker's Council"
- INC_Worker's_Council_desc: "The council of workers, farmers and soldiers, invented by great Russian revolutionaries, provides a new type of democracy. The experiment sadly ended with the failure of Russian Revolution. By revive the councils in local and national level, we will offer a better alternative to existing democracy system."
+ INC_Workers_Council: "Worker's Council"
+ INC_Workers_Council_desc: "The council of workers, farmers and soldiers, invented by great Russian revolutionaries, provides a new type of democracy. The experiment sadly ended with the failure of Russian Revolution. By revive the councils in local and national level, we will offer a better alternative to existing democracy system."
  INC_Journey_to_the_West: "Journey to the West"
  INC_Journey_to_the_West_desc: "The great patriot and martyr, Phan Boi Chau, launched the 'Journey to the East' movement which encouraged students to study in Japan and bring back the latest knowledge. Now, it appears, we must embark on a new journey, this time, to the West. We will send our best and brightest to Calcutta and Paris for the development of our motherland."
  INC_Parallel_Administration: "Parallel Administration"

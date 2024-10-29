@@ -1,5 +1,5 @@
 ﻿l_german:
-### Übersetzt von Proho ### neu bis Zeile 1077
+### Übersetzt von Proho ###
 ### Tooltips ###
 KR_is_an_ally: "ist ein Verbündeter oder Untertan"
 KR_owned_by_ROOT_or_subject: "ist im Besitz von §Y[Root.GetNameDef]§! oder sein Untertan"
@@ -1212,8 +1212,8 @@ annexation_antofagasta_desc: "Die Region in [506.GetName] ist unter unsere Kontr
  annexation_tierra_del_fuego_desc: "Die abgelegene Insel Feuerland ist nun unter unserer Kontrolle. Wir müssen entscheiden, was wir mit ihr machen wollen."
  annex.2056.a: "[magallanes.GetGrantTerritoryEventOption]"
 
- annexation_falkland_islands: "Das Schicksal von [FROM.GetName]"
- annexation_falkland_islands_desc: "Die abgelegenen [FROM.GetName], die zwischen Argentinien und Großbritannien umstritten sind, befinden sich nun unter unserer Kontrolle. Wir müssen entscheiden, was wir mit ihr machen wollen."
+ annexation_falkland_islands: "Das Schicksal von [FROM.FROM.GetName]"
+ annexation_falkland_islands_desc: "Die abgelegenen [FROM.FROM.GetName], die zwischen Argentinien und Großbritannien umstritten sind, befinden sich nun unter unserer Kontrolle. Wir müssen entscheiden, was wir mit ihr machen wollen."
 
  annexation_tarapaca: "Das Schicksal von [873.GetName]"
  annexation_tarapaca_desc: "Die Region von [873.GetName] wurde unter unsere Kontrolle gebracht, da unsere Truppen die Region besetzen. Wir müssen nun entscheiden, was wir mit ihr machen wollen."
@@ -1257,29 +1257,29 @@ annex.3009.a: "Befreien Sie die fernöstliche Republik."
  annex.3009.e: "Lösen Sie sich vom Vertrag von Aigun und geben Sie das verbleibende Gebiet an unseren Oberherrn ab."
 
 annexation_china: "Das Schicksal von China"
-annexation_china_desc: "Nach einem langen und hart umkämpften Feldzug in den Weiten Chinas haben wir endlich einen historischen Sieg errungen. Nun, da wir den Krieg gewonnen haben, müssen wir entscheiden, wie wir den Frieden am besten sichern. Wie sollen wir mit den eroberten chinesischen Gebieten umgehen?"
+annexation_china_desc: "Nach einem langen und hart umkämpften Feldzug in den Weiten Chinas haben wir endlich einen historischen Sieg errungen. Nun, da wir den Krieg gewonnen haben, müssen wir entscheiden, wie wir den Frieden am besten sichern. Das ist kein leichtes Unterfangen, wenn man bedenkt, dass die Chinesen in den letzten Jahrzehnten von Bürgerkrieg und Warlordismus geplagt wurden und rivalisierende Regierungen ihre Autorität in den Provinzen kaum durchsetzen konnten. Viele konkurrierende Gruppierungen und Ideologien sind im Laufe der Jahre gekommen und gegangen. Jede von ihnen versprach, die wichtigsten Probleme Chinas anzugehen, hatte aber oft Mühe, außerhalb ihrer jeweiligen Kerngebiete Fuß zu fassen. Wie sollen wir mit den eroberten chinesischen Gebieten umgehen?"
  annex.3010.a: "China in das Mandat einbeziehen."
 
 annexation_tibet: "Das Schicksal von Tibet"
-annexation_tibet_desc: "Nach unserer erfolgreichen Kampagne in der tibetischen Hochebene haben wir nun die Aufgabe, eine neue lokale Verwaltungsbehörde einzurichten, um den Frieden wiederherzustellen, wobei wir mehrere Optionen zur Auswahl haben"
+annexation_tibet_desc: "Nach unserer erfolgreichen Kampagne auf dem tibetischen Hochplateau haben wir nun die Aufgabe, eine neue lokale Verwaltungsbehörde einzurichten, um den Frieden wiederherzustellen. Tibet steht seit langem unter der nominellen Herrschaft des Dalai Lama, des obersten geistlichen Führers der vorherrschenden Schule des tibetischen Buddhismus. In der Praxis haben die Klöster jedoch eine große Macht über das Land ausgeübt, die sowohl von reformistischen als auch revolutionären Gruppen in Frage gestellt wurde. Die Stabilität Tibets wurde zudem durch Kriege mit seinen Nachbarn erschüttert. Es liegt nun an uns, einen dauerhaften Frieden für die Region zu schaffen."
 annex.3011.a: "Tibet freigeben."
 
 annexation_xinjiang: "Das Schicksal von Xinjiang"
-annexation_xinjiang_desc: "Nach unserer erfolgreichen Kampagne in Xinjiang haben wir nun die Aufgabe, eine neue lokale Verwaltungsbehörde einzurichten, um den Frieden wiederherzustellen, wobei wir mehrere Optionen zur Auswahl haben."
+annexation_xinjiang_desc: "Xinjiang bedeutet übersetzt “Neue Grenze“ und hat im Laufe der Jahre viele Namen erhalten. Die chinesische Kontrolle über die Region geht auf die Han-Dynastie zurück, die Außenposten zum Schutz des wertvollen Handels über die Seidenstraße errichtete. Die chinesische Kontrolle über die Region wurde jedoch durch örtliche Aufstände in Frage gestellt, u. a. durch einen Aufstand von Anhängern des Kumul-Khanats im Norden und von uigurischen Rebellen im Süden, die ein unabhängiges Ostturkestan anstreben. Nach unserer erfolgreichen Kampagne in Xinjiang haben wir nun die Aufgabe, eine neue lokale Verwaltungsbehörde einzurichten, um den Frieden wiederherzustellen, wobei wir mehrere Optionen zur Auswahl haben."
 annex.3012.a: "Ost-Turkestan freigeben."
 
 annexation_mongolia: "Das Schicksal der Mongolei"
-annexation_mongolia_desc: "Nach unserem erfolgreichen Feldzug in den Steppen der Mongolei haben wir nun die Aufgabe, eine neue lokale Verwaltungsbehörde aufzubauen, um den Frieden wiederherzustellen. Es gibt jedoch mehrere Optionen für unsere Wahl."
+annexation_mongolia_desc: "Nach unserem erfolgreichen Feldzug in den Steppen der Mongolei haben wir nun die Aufgabe, eine neue lokale Verwaltungsbehörde aufzubauen, um den Frieden wiederherzustellen. Dies ist keine leichte Aufgabe, zumal es in der Mongolei nur eine einzige feste Stadt gibt und die überwiegende Mehrheit der Einheimischen halbnomadisch lebt. Die Mongolei wurde von Roman von Ungern-Sternberg regiert, der die chinesischen Truppen aus der Region vertrieb und Bogd Khan bei der Erklärung der Unabhängigkeit unterstützte. Seine Herrschaft wurde jedoch durch den Widerstand der lokalen Aristokratie und des Klerus sowie durch linke Revolutionäre und durch Spannungen mit den benachbarten Hui-Ma-Klans unterminiert. Letztendlich haben wir uns jedoch durchgesetzt, und die Entscheidung über die Zukunft der Mongolei liegt nun in unseren Händen."
 annex.3013.a: "Mongolei freigeben."
 
 annexation_tuva: "Das Schicksal von [329.GetName]"
 annexation_tuva_desc: "Der Staat [329.GetName] ist unter unsere Kontrolle gebracht worden, da unsere Truppen die Region besetzen. Wir müssen nun entscheiden, was damit geschehen soll."
 
 annexation_manchuria: "Das Schicksal der Mandschurei"
-annexation_manchuria_desc: "Nach unserem erfolgreichen Feldzug in der Mandschurei haben wir nun die Aufgabe, eine neue lokale Verwaltungsbehörde zu gründen, um den Frieden wiederherzustellen, wobei wir mehrere Optionen zur Auswahl haben."
+annexation_manchuria_desc: "Nach unserem erfolgreichen Feldzug in der Mandschurei haben wir nun die Aufgabe, eine neue lokale Verwaltungsbehörde aufzubauen, um den Frieden wiederherzustellen. Die Mandschurei, auf Chinesisch auch als Dongbei (Nordosten) bekannt, ist eine Region, die reich an natürlichen Ressourcen und Industrie ist. Benannt nach den Mandschu-Stämmen, die das Gebiet einst beherrschten, haben deren Eroberung Chinas und die spätere Öffnung der Region für die Han-Einwanderung ironischerweise dazu geführt, dass die ethnischen Mandschus zu einer Minderheit wurden und sich viele von ihnen inzwischen assimiliert haben. Nach der Xinhai-Revolution nutzte die von Japan unterstützte Fengtian-Clique die Region als Stützpunkt für ihre Bemühungen, China unter ihrem Banner zu vereinen. Heute jedoch gehört das Land uns, und wir haben mehrere Möglichkeiten, wie wir vorgehen können."
 annex.3015.a: "Schaffen Sie eine unabhängige Mandschurei."
 
-annexation_shanghai: "Das Schicksal von Shanghai"
+annexation_shanghai: "Das Schicksal von changhai"
 annexation_shanghai_desc: "Die große chinesische Hafenstadt Schanghai, die früher unter der formellen Autorität des internationalen Mandats für die chinesischen Konzessionen stand, steht nun unter unserer Kontrolle. Wir müssen nun entscheiden, ob wir sie wieder unter die Herrschaft des Legationsrates stellen, dem wir selbst angehören, ob wir die Städte an China übergeben oder sie für uns behalten."
 annex.3016.a: "Den Gesandtschaftsrat wieder einführen."
  annex.3016.b: "[china_qiantang.GetGrantTerritoryEventOption]"
@@ -1293,15 +1293,13 @@ annexation_japan: "Das Schicksal von Japan"
 annexation_japan_desc: "Nach unserem erfolgreichen Feldzug auf den japanischen Inseln haben wir nun die Aufgabe, eine neue lokale Verwaltungsbehörde zu gründen, um den Frieden wiederherzustellen, wobei uns mehrere Optionen zur Auswahl stehen..."
  annex.3018.a: "Einsetzung einer Übergangsregierung für Japan."
 
-annexation_sakhalin: "Das Schicksal von Sachalin"
-annexation_sakhalin_desc: "Die Insel Sachalin ist unter unsere Kontrolle gebracht worden, da unsere Truppen die Region besetzen. Wir müssen nun entscheiden, was wir mit ihr machen."
+annexation_sakhalin: "Das Schicksal von [FROM.FROM.GetName]"
+annexation_sakhalin_desc: "[FROM.FROM.GetName] ist unter unsere Kontrolle gebracht worden, da unsere Truppen die Region besetzen. Wir müssen nun entscheiden, was wir mit ihr machen."
  annex.3019.a: "[russia_vladivostok.GetGrantTerritoryEventOption]"
  annex.3019.b: "[russia_nikolayevsk.GetGrantTerritoryEventOption]"
- annex.3019.c: "Geben Sie Sachalin an [russia_vladivostok.GetNonIdeologyNameDef] und die Kurilen an [japan.GetNonIdeologyNameDef]."
- annex.3019.d: "Geben Sie Sachalin an [russia_nikolayevsk.GetNonIdeologyNameDef] und die Kurilen an [japan.GetNonIdeologyNameDef]."
 
 annexation_taiwan: "Das Schicksal von Taiwan"
-annexation_taiwan_desc: "Die Insel Taiwan ist unter unsere Kontrolle gebracht worden, da unsere Truppen die Region besetzen. Wir müssen nun entscheiden, was wir mit ihr machen."
+annexation_taiwan_desc: "Die Insel Taiwan ist unter unsere Kontrolle gebracht worden, da unsere Truppen die Region besetzen. Die Insel, die auch als Formosa bekannt ist, hat im Laufe der Jahrhunderte mehrere Einwanderungs- und Herrschaftswellen erlebt. Die Qing-Dynastie, die sie im 17. Jahrhundert von Ming-Loyalisten eroberte, musste die Inseln nach dem Ersten Chinesisch-Japanischen Krieg an das aufstrebende Japanische Kaiserreich abtreten. Die Japaner bemühten sich um die Integration der Insel, stießen aber auch auf den Widerstand verschiedener lokaler Parteien, die entweder eine Wiedereingliederung in China oder lokale Autonomie anstrebten. Es ist nun an uns, die Zukunft der Insel zu bestimmen."
  annex.3020.a: "Freigabe eines unabhängigen Taiwan."
 
 annexation_siam: "Das Schicksal von Siam"
@@ -1563,6 +1561,9 @@ annexation_hawaii_desc: "Die Inseln von Hawaii sind unter unsere Kontrolle gebra
 
  annexation_darjeeling: "Das Schicksal von [887.GetName]"
  annexation_darjeeling_desc: "[887.GetName] wurde unter unsere Kontrolle gebracht, da unsere Truppen die Region besetzen. Wir müssen nun entscheiden, was wir mit ihr machen wollen."
+
+ annexation_naga_hills: "Das Schicksal von  [1111.GetName]"
+ annexation_naga_hills_desc: "[1111.GetName] wurde bis zum Pianma/Hpimaw-Zwischenfall in den 1910er Jahren von Qing-China verwaltet, als die örtlichen Tusi-Führer zu den Briten überliefen und seitdem zu Burma gehörten. Nun, da das Gebiet unter unsere Kontrolle gebracht wurde, müssen wir entscheiden, was mit ihm geschehen soll. Wir müssen nun entscheiden, was wir mit ihr machen wollen."
 
 annexation_levant: "Das Schicksal des Levante"
 annexation_levant_desc: "Wir haben die wohlhabenden Länder der Levante erobert, einschließlich der großen und alten Stadt Damaskus. Was sollen wir mit diesen alten osmanischen Provinzen machen?"
@@ -1912,8 +1913,8 @@ annex.5041.a: "Bilden Sie den Staat [ZIM.GetNameDef]."
  annex.5052.a: "[madagascar.GetGrantTerritoryEventOption]"
  annex.5052.b: "[ceylon.GetGrantTerritoryEventOption]"
 
- annexation_cabinda: "Das Schicksal von [FROM.GetName]"
- annexation_cabinda_desc: "[FROM.GetName] wurde unter unsere Kontrolle gebracht, da unsere Truppen die Region besetzen. Wir müssen nun entscheiden, was wir mit ihr machen wollen."
+ annexation_cabinda: "Das Schicksal von [FROM.FROM.GetName]"
+ annexation_cabinda_desc: "[FROM.FROM.GetName] wurde unter unsere Kontrolle gebracht, da unsere Truppen die Region besetzen. Wir müssen nun entscheiden, was wir mit ihr machen wollen."
  annex.5053.a: "[loanda.GetGrantTerritoryEventOption]"
  annex.5053.b: "[lower_congo.GetGrantTerritoryEventOption]"
  annex.5053.c: "[middle_congo.GetGrantTerritoryEventOption]"

@@ -1515,6 +1515,7 @@ GER_join_kaiser_wilhelm_society: "Werden Sie Mitglied der Kaiser-Wilhelm-Gesells
  GER_decision_reenable_20_days_tt: "Diese Entscheidung wird in §Y20§! Tagen wieder in Kraft gesetzt werden."
  GER_Papen_effect_lost_tt: "Die §YAktivität der Nationalen Oppositio§! nicht mehr die Koalitionstreue des Zentrums reduzieren!"
  GER_10_iron_front_organisation_loss: "Sie verlieren £manpower_icon §H10§! Frontorganisation."
+ GER_brunswick_front_minor_event_tt: "§CWenn Sie die Popups für kleinere Ereignisse aktivieren, können Sie über jede Aktivität der Nationalen Opposition informiert werden.§!"
 
  GER_SPD_restore_democratic_union: "Wiederherstellung der Demokratischen Union"
  GER_SPD_restore_democratic_union_desc: "Während des Wahlkampfes 1936 haben wir mit der LVP in einer gemeinsamen Demokratischen Front zusammengearbeitet, aber unsere Beziehungen wurden nach Schleichers Sturz nicht erneuert. Jetzt, wo wir eine Regierung gebildet haben, sollten wir die Liberalen in unsere Koalition einladen und unsere Kooperationsbeziehungen wiederherstellen."
@@ -2977,7 +2978,7 @@ GER_women_suffrage: "Frauenwahlrecht"
  GER_disband_universities_desc: "Die Universitäten - ein Hort der Entartung, in dem sich Tausende verkriechen und Gott weiß was lernen, anstatt für das Überleben ihres Landes zu kämpfen! Machen wir diesem Irrsinn ein Ende. Alle Studenten, und auch ihre Professoren, werden an die Front gebracht."
 
  GER_black_terror: "Der Schwarze Terror"
- GER_black_terror_desc: "Unser Putsch wurde von allen gut aufgenommen - das war zu erwarten. Sozialisten, Liberale und Volksverräter leisten weiterhin Widerstand gegen unser Regime und weigern sich, um des nationalen Überlebens willen zu kapitulieren. Wenn die Verzweiflung sie nicht dazu bringt, zu dienen, dann sollten die Hinrichtung ihrer Anführer und das Gefängnis für ihre Familien ausreichen."
+ GER_black_terror_desc: "Es überrascht nicht, dass unser Putsch nicht bei allen gut ankam. Sozialisten, Liberale und Volksverräter leisten weiterhin Widerstand gegen unser Regime und weigern sich, um des nationalen Überlebens willen zu kapitulieren. Wenn die Verzweiflung sie nicht dazu bringt, zu dienen, dann sollten die Hinrichtung ihrer Anführer und das Gefängnis für ihre Familien ausreichen."
 
  GER_triumph_of_will: "Triumph des Willens"
  GER_triumph_of_will_desc: "Es ist vorbei. Das Unmögliche wurde erreicht. Der Zweite Weltkrieg ist gewonnen - und zwar nicht durch die gescheiterte Monarchie oder die erbärmlichen Parlamentarier, sondern durch das entschlossene Regime von General Bauer. Ursprünglich wollte er jedoch nur ein Notführer in Deutschlands dunkelster Stunde sein. In welche Richtung wird er Deutschlands Zukunft lenken?"
@@ -4566,6 +4567,10 @@ GER_women_suffrage: "Frauenwahlrecht"
  gerspd.56.t: "Der zweite Sturz von Schleicher"
  gerspd.56.d: "Kurt von Schleichers Regierung in Preußen war nie wirklich stabil - sie wurde durch seine Machenschaften als Reichskanzler erreicht und war auf das Wohlwollen und die Zusammenarbeit der meisten Parteien im preußischen Abgeordnetenhaus angewiesen. Durch Druck von oben und Treffen mit Mitgliedern des Abgeordnetenhauses konnte er sein Kartenhaus leicht zu Fall bringen. Ein Misstrauensvotum enthob ihn seines Amtes und Schleicher wurde auf die Straße gesetzt.\n\nAls König von Preußen ernannte Wilhelm II. Jakob Kaiser zum neuen Ministerpräsidenten von Preußen. Der Gewerkschafter des Zentrums, der dem Stegerwaldschen Flügel der Partei nahesteht, war Minister in der preußischen Regierung Schleicher und bietet somit eine gewisse Kontinuität. Er hat eine breite Koalition von der LVP bis zur DkP gebildet, die sich von der Demokratischen Union distanziert, ihr aber nicht feindlich gegenübersteht. Was Schleicher betrifft, so wurde er nach Jahren der Intrigen und Manipulationen in den höchsten Rängen der Regierung schließlich in den Ruhestand getrieben."
  gerspd.56.a: "Bitte kommen Sie nicht wieder."
+
+ gerspd.57.t: "Gegenangriff der Braunschweiger Front"
+ gerspd.57.d: "Bürokraten, Journalisten, Politiker, Industrielle und andere Vertreter der Rechten prüfen erneut die Schwachstellen der parlamentarischen Regierung, während der politische Krieg zwischen Reaktion und Demokratie weitergeht. Die Regierung muss eine sorgfältige Strategie entwickeln, damit die Front nicht schon bei geringen Anstrengungen scheitert."
+ gerspd.57.a: "Vorwärts!"
 
  gerspd.58.t: "Der Sturz von Papen"
  gerspd.58.d: "Glücklicherweise scheint die Führung des Zentrums selbst Papen nicht besonders zu schätzen. Nach interner Kritik an den Machenschaften des westfälischen Aristokraten beschloss er, seine Verluste zu begrenzen und die Partei ganz zu verlassen. Eine Handvoll reaktionärer Abgeordneter, die an seiner Seite gewählt worden waren, schlossen sich ihm an, doch ihr Versuch einer breiten reaktionär-föderalistischen Rebellion scheiterte, da die BVP sich letztlich weigerte, mit Papen zusammenzuarbeiten.\n\nSolange unsere Koalition nicht auf Messers Schneide steht, um die Mehrheit zu verlieren, sollte es uns gut gehen."

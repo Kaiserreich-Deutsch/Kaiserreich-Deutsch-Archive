@@ -34,8 +34,8 @@ KR_welcome_splash_tab_3_content: "§YBitte beachten Sie Folgendes:§!\n£white_d
 KR_welcome_splash_tab_3_content_0: "Kaiserreich legt Beschränkungen für diplomatische Aktionen wie §Rfrühe Kriege§!, §RFraktionen§! und §RAutonomiestufen§! fest.\nKaiserreich enthält §CDivisionsgrenzen§! und eine §CDemobilisierung§! Mechanik, um die Spielbarkeit im späteren Spiel zu verbessern.\nBei §YFriedenskonferenzen§! sollten Sie darauf achten, dass Sie alle Staaten annektieren. Sie können später Länder aus den annektierten Gebieten durch §CEntscheidungen§! entlassen.\nIm Menü §YIndividuelle Spielregeln§! können Sie viele Optionen einstellen, darunter §CLänderpfade§!, §CVorrang für Spieler bei Friedenskonferenzen§!, und das §CStaat und Land Transfer Tool§!.\nDas £kr_options_icon  §YOptionsmenu im Spiel§! wird durch einen Klick auf das Symbol in der rechten oberen Ecke geöffnet. Hier können Sie die §CHäufigkeit der Nachrichtenereignisse§! einstellen und die §CDynamische Umbenennung§! von Staaten und Siegpunkten aktivieren.\n§YDieses Fenster§! kann jederzeit wieder geöffnet werden, indem Sie auf das Symbol £help_button  oben rechts klicken."
 
 ## TAB 4 ##
-KR_CURRENT_VERSION: "1.2"
-KR_CURRENT_VERSION_NAME: "Pour le Mérite"
+KR_CURRENT_VERSION: "1.3"
+KR_CURRENT_VERSION_NAME: "Amid Blue-Coloured Seas"
 KR_CURRENT_VERSION_COMBINED: "Kaiserreich $KR_CURRENT_VERSION$ \"$KR_CURRENT_VERSION_NAME$\""
 KR_welcome_splash_tab_4_upper_header: "§YWillkommen bei $KR_CURRENT_VERSION_COMBINED$§!"
 KR_welcome_splash_tab_4_lower_header: "§YLiebevoll gestaltet vom Kaiserreich Team:§!"
@@ -45,7 +45,7 @@ KR_welcome_splash_tab_4_content_0: "Unser Team hat an allen Ecken und Enden der 
 KR_welcome_splash_tab_4_content_1: "Alpinia  ·  Angel  ·  Arvidus  ·  Augenis  ·  Blackfalcon501  ·  Blackleaf  ·  Cassrabbit"
 KR_welcome_splash_tab_4_content_2: "Carmain  ·  Cazadorian  ·  ClawedAsh  ·  Chazem  ·  Chiang Kai-shrek  ·  Chiron29  ·  Cody"
 KR_welcome_splash_tab_4_content_3: "DerEherneRächer  ·  DuoDex  ·  El Daddy  ·  falling_robin  ·  Fedex  ·  Flamefang"
-KR_welcome_splash_tab_4_content_4: "Frill Shark  ·  Gaboemi  ·  Hamfast  ·  Hazo  ·  hildagrim  ·  Ido  ·  Igor050301  ·  JazzyHugh"
+KR_welcome_splash_tab_4_content_4: "Frill Shark  ·  Gaboemi  ·  Hamfast  ·  Hazo  ·  Ido  ·  Igor050301  ·  JazzyHugh"
 KR_welcome_splash_tab_4_content_5: "Jeankedezeehond  ·  Jonny BL  ·  Kano  ·  katieluka  ·  kergely  ·  KFateweaver  ·  Klyntar King"
 KR_welcome_splash_tab_4_content_6: "Krčo  ·  lehmannmo  ·  Luwofe  ·  Matoro  ·  McOmghall  ·  MrMano  ·  ~mw~ // miwaco."
 KR_welcome_splash_tab_4_content_7: "Noot  ·  Pelmen  ·  PPsyrius  ·  Purple Jinjo  ·  Remington  ·  Rnk  ·  Rune  ·  Shiroe"
@@ -55,7 +55,7 @@ KR_welcome_splash_tab_4_content_9: "The Italian Jojo  ·  Toaster  ·  Vidyaorsz
 KR_welcome_splash_tab_4_content_10: "\n§YDeutsches Übersetzungs-Team:§!"
 KR_welcome_splash_tab_4_content_11: "Proho  ·  XYungeloest  ·  Schmiddlon  ·  _R4ze_  ·  Thylon  ·  Davideko"
 KR_welcome_splash_tab_4_content_12: "Hydrus  ·  MartenDE  ·  Chromsh  ·  DickSharpe  ·  Semarc  ·  Wolf  ·  DerEherneRächer"
-KR_welcome_splash_tab_4_content_13: "Silent_Wolf  ·  Alex S  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier  ·  Itzy"
+KR_welcome_splash_tab_4_content_13: "Silent_Wolf  ·  Alex S  ·  naskamo  ·  Quatschtütenwürger  ·  Omitier  ·  Itzy  ·  SimonStaysNuclear"
 
 ### Career Profile ###
 KAISERREICH_CAREER_PROFILE: "Kaiserreich Deutsch"
@@ -434,6 +434,8 @@ NAME_THEME_INSPIRATIONAL: "Inspirierend"
 NAME_THEME_STATES_CITIES: "States & Cities"
 NAME_THEME_GENERALS: "Generäle"
 NAME_THEME_CALIPHS: "Kalifen"
+NAME_THEME_MONARCHS: "Monarchen"
+NAME_THEME_FAMOUS_PEOPLE: "Berühmte Personen"
 
 ### Second in Command ###
 second_in_command_slot: "Stellvertretender Befehlshaber"
@@ -773,6 +775,11 @@ tech_river_boats: "Flussboote"
 tech_river_boats_effect: "Schaltet §H$tech_river_boats$§! frei\n$tech_river_boats_effect_tooltip$"
 tech_river_boats_effect_tooltip: "§Y$category_all_infantry$§!:\n   $STAT_ADJUSTER_MOVEMENT$[?0.1|=+%0]\n   $STAT_ADJUSTER_ATTACK$[?0.1|=+%0]\n   $STAT_ADJUSTER_DEFENCE$[?0.05|=+%0]"
 tech_river_boats_modifier_tooltip: "§Y$category_all_infantry$§!: $STAT_ADJUSTER_MOVEMENT$[?0.1|=+%0], $STAT_ADJUSTER_ATTACK$[?0.1|=+%0], $STAT_ADJUSTER_DEFENCE$[?0.05|=+%0]"
+
+tech_armored_car_spearhead: "Panzerwagen Speerspitze"
+tech_armored_car_spearhead_effect: "Schaltet §H$tech_armored_car_spearhead$ frei\n$tech_armored_car_spearhead_effect_tooltip$"
+tech_armored_car_spearhead_effect_tooltip: "§Y$armored_car$§!\n   $STAT_COMMON_MAX_ORG$: [?10|=+1]\n   $STAT_ARMY_DEFAULT_MORALE$: [?0.1|=+1]\n   $STAT_ADJUSTER_MOVEMENT$: [?0.2|=+%0]"
+tech_armored_car_spearhead_modifier_tooltip: "§Y$armored_car$§!: $STAT_COMMON_MAX_ORG$: [?10|=+1], $STAT_ARMY_DEFAULT_MORALE$: [?0.1|=+1], $STAT_ADJUSTER_MOVEMENT$: [?0.2|=+%0]"
 
 ### Units ###
 assault_battalion: "$blackshirt_assault_battalion$"

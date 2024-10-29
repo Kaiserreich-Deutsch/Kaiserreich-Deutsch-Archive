@@ -39,6 +39,8 @@ end_coalition_tt: "Die §YKoalition§! wird vollständig beendet."
 in_30_days: "In §Y30§! Tagen:"
 in_60_days: "In §Y60§! Tagen:"
 
+tooltip_timer_reset_for_peace: "§RDie Zeitspanne bis zur Aufnahme von Friedensverhandlungen wird zurückgesetzt.§!"
+
 #scoped to the country joining
 tooltip_joins_faction: "§Y[THIS.GetName]§! tritt der Fraktion bei."
 
