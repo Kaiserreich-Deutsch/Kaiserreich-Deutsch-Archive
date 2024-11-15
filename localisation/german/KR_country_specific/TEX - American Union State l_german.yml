@@ -132,17 +132,19 @@ TEX_ACTS_desc: "Ein neuer Flugplatz wurde für die Ausbildung einer neuen Ära a
 ### Tooltips ###
 TEX_fight_terrorists_tooltip: "§GWir werden Verräter ausrotten und Terroristen vernichten!§!\n"
 
- TEX_if_national_recovery_completed: "Wenn §H$TEX_national_recovery$§! abgeschlossen wurde:"
- TEX_if_military_industrial_complex_completed: "Wenn §H$TEX_militärisch_industrieller_Komplex$§! abgeschlossen wurde:"
+ TEX_if_national_recovery_completed: "Wenn §Y$TEX_national_recovery$§! abgeschlossen wurde:"
+ TEX_if_military_industrial_complex_completed: "Wenn §Y$TEX_militärisch_industrieller_Komplex$§! abgeschlossen wurde:"
 
- TEX_if_farmer_relief_act_completed: "Wenn §H$TEX_farmer_relief_act$§! abgeschlossen wurde:"
- TEX_if_appeal_to_the_populist_base_completed: "Wenn §H$TEX_appeal_to_the_populist_base$§! abgeschlossen wurde:"
+ TEX_if_farmer_relief_act_completed: "Wenn §Y$TEX_farmer_relief_act$§! abgeschlossen wurde:"
+ TEX_if_appeal_to_the_populist_base_completed: "Wenn §Y$TEX_appeal_to_the_populist_base$§! abgeschlossen wurde:"
 
  TEX_share_the_wealth_bill_passed: "$tooltip_event_choice$Das Gesetz "Teilen Sie unseren Reichtum" (Unseren Reichtum teilen) wurde angenommen"
  TEX_share_the_wealth_consumer_goods_factor_tooltip: "Der §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! von §Y$TEX_share_the_wealth_modifier$§! übersteigt $RIGHT|Y=%1$"
  TEX_growing_share_the_wealth_costs_timeout: "Verringert den Umfang der $TEX_growing_share_the_wealth_costs$"
  TEX_modify_share_the_wealth: "Änderung von §Y$TEX_share_the_wealth_modifier$§! durch"
  TEX_washingtons_inheritor_disabled: "Der Fokus-Zweig §Y$TEX_washingtons_inheritor$§! wird §Rpermanent!§! deaktiviert."
+
+ TEX_move_capital_baton_rouge: "Verlegt Hauptstadt nach §Y[371.Controller.GetVictoryPointName_1453]§!"
 
 ### Decisions ###
  TEX_share_the_wealth_decisions: "Den Reichtum teilen"

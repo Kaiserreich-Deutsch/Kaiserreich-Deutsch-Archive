@@ -657,7 +657,7 @@ cendem.225.d: "Nach der Auszählung aller Stimmen wurde die sozialistische PNR a
 cendem.225.a: "Wir haben die Volksabstimmung fair und ehrlich gewonnen, und sie sollten dies respektieren."
 
 cendem.226.t: "[FROM.GetNonIdeologyName] bittet um den Beitritt zur [ROOT.GetFactionName]"
-cendem.226.d: "Eine zentralamerikanische Delegation ist heute in unserer Hauptstadt eingetroffen und hat formell um den Beitritt zur [ROOT.GetFactionName] gebeten. Die mittelamerikanische Nation verfügt zwar nur über eine recht kleine Streitmacht und sehr wenig Ressourcen, aber ein weiterer Verbündeter in Zentralamerika könnte sich für unsere Sache als vorteilhaft erweisen, da wir mit ihrer Hilfe den Panamakanal umgehen könnten. Was sollen wir ihnen sagen?"
+cendem.226.d_start: "Eine zentralamerikanische Delegation ist heute in unserer Hauptstadt eingetroffen und hat formell um den Beitritt zur [ROOT.GetFactionName] gebeten. Die mittelamerikanische Nation verfügt zwar nur über eine recht kleine Streitmacht und sehr wenig Ressourcen, aber ein weiterer Verbündeter in Zentralamerika könnte sich für unsere Sache als vorteilhaft erweisen, da wir mit ihrer Hilfe den Panamakanal umgehen könnten. Was sollen wir ihnen sagen?"
 cendem.226.d: "$cendem.226.d_start$, da wir mit ihrer Hilfe den Panamakanal umgehen könnten. Was sollten wir ihnen sagen?"
 cendem.226.a: "Heißt sie willkommen."
 cendem.226.b: "Zentralamerika ist uns nicht von Nutzen."

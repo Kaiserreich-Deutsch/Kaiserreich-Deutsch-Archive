@@ -574,7 +574,7 @@
  arm.18.b: "Wir brauchen diese Ressourcen selbst!"
 
  arm.19.t: "[FROM.GetNameDefCap] Bietet industrielle Unterstützung"
- arm.19.d: "Unsere sozialistischen Brüder in [FROM.GetNameDefCap] haben beschlossen, unsere Bitte anzunehmen und uns beim Aufbau unserer Industrie zu unterstützen. Die ersten Materialtransporte haben bereits ihre Reise von [FROM.Capital.GetCapitalVictoryPointName] nach Jerewan angetreten, und einige Ingenieure sind in unserer Hauptstadt eingetroffen. Die Internationale hat uns heute gezeigt, dass man ihr vertrauen kann und dass die Solidarität unter den Völkern auch in solch schwierigen Zeiten noch existiert."
+ arm.19.d: "Unsere sozialistischen Brüder in [FROM.GetNameDef] haben beschlossen, unsere Bitte anzunehmen und uns beim Aufbau unserer Industrie zu unterstützen. Die ersten Materialtransporte haben bereits ihre Reise von [FROM.Capital.GetCapitalVictoryPointName] nach Jerewan angetreten, und einige Ingenieure sind in unserer Hauptstadt eingetroffen. Die Internationale hat uns heute gezeigt, dass man ihr vertrauen kann und dass die Solidarität unter den Völkern auch in solch schwierigen Zeiten noch existiert."
  arm.19.a: "Wir wussten, dass unsere Freunde uns nicht im Stich lassen würden!"
 
  arm.20.t: "[FROM.GetNameDefCap] lehnt unsere Anfrage ab"

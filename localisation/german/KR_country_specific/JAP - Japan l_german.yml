@@ -637,6 +637,8 @@
  JAP_develop_chosen_tungsten_mines4_desc: "Wir haben Berichte über mehrere neue Wolframvorkommen in [525.GetName] erhalten. Während wir diese Berichte überprüfen, werden wir eine vierte Erweiterung in [527.GetName] durchführen."
  JAP_develop_chosen_tungsten_mines5_desc: "Unsere Prospektoren sind aus [525.GetName] zurückgekehrt und haben bestätigt, dass es dort ein großes Wolframvorkommen gibt. Wir werden sofort mit der Erschließung dieses neuen Vorkommens beginnen und gleichzeitig die Minen in [527.GetName] ausbauen."
 
+ JAP_develop_chosen_tungsten_mines_tt: "§CDiese Entscheidung kann einmal für jede Ebene der §YFörder-Technik§! getroffen werden, die wir erforscht haben.§!"
+
  ### Ökonomie Entscheidungen ###
  JAP_economy_cat: "Die Japanische Wirtschaft"
  JAP_support_yokohama_auto_industries: "Unterstützung für Yokohama Auto Industries"

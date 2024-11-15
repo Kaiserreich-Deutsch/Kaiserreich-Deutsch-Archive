@@ -229,8 +229,8 @@ wifpol.3101_tt: "§GAlle Offiziere, die ursprünglich in Westindien eingesetzt w
 WIF_acquire_artillery_tooltip: "100 Stück des QF 18-Pounder werden in unseren Bestand aufgenommen."
 WIF_anti_air_setup_tooltip: "Verschiedene Luftabwehrsysteme werden im ganzen Land eingerichtet.\n"
 WIF_radio_setup_tooltip: "Radarstationen werden an verschiedenen Orten im ganzen Land eingerichtet.\n"
-WIF_cunningham_doctrine_description: "Wir werden uns auf die Aufstellung einer Marine konzentrieren, die weit von unseren eigenen Küsten entfernt ihre Kräfte einsetzen kann."
-WIF_leatham_doctrine_description: "Wir werden uns auf die Aufstellung einer Marine konzentrieren, die unser Eigentum in der Karibik angemessen schützen kann."
+WIF_cunningham_doctrine_tooltip: "Wir werden uns auf die Aufstellung einer Marine konzentrieren, die weit von unseren eigenen Küsten entfernt ihre Kräfte einsetzen kann."
+WIF_leatham_doctrine_tooltip: "Wir werden uns auf die Aufstellung einer Marine konzentrieren, die unser Eigentum in der Karibik angemessen schützen kann."
 WIF_forced_smol_navy: "Wir werden gezwungen sein, zu Leatham' Plan überzugehen."
 WIF_not_boat_sent: "Kanada hat sich geweigert, uns Schiffe zu schicken."
 
