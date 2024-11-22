@@ -247,6 +247,7 @@
  mio_cat_eq_only_tactical_bomber: "Taktische Bomber"
  mio_cat_eq_only_strategic_bomber: "Strategische Bomber"
  mio_cat_eq_all_cv_aircraft: "Träger-Flugzeuge"
+ mio_cat_artillery: "Artillerie"
 
  #added by KR
  mio_cat_eq_only_cv_fighter: "Träger-Jäger"
@@ -304,6 +305,13 @@
  mio_header_anti_tank: "Panzerabwehr"
  mio_header_protection: "Schutz"
  mio_header_specialization: "Spezialisierung"
+ mio_header_light_assault_gun_department: "Abteilung für leichte Sturmgeschütze"
+ mio_header_armored_cars: "Panzerwagen"
+ mio_header_medium_assault_gun_department: "Abteilung für Mittlere Sturmgeschütze"
+ mio_header_heavy_assault_gun_department: "Abteilung für Schwere Sturmgeschütze"
+ mio_header_helicopter_construction: "Hubschrauber-Konstruktion"
+ mio_header_single_rotor: "Einzel-Rotor"
+ mio_header_tandem_rotor: "Tandem-Rotor"
 
  ########   #######  ##       ####  ######  #### ########  ######
  ##     ## ##     ## ##        ##  ##    ##  ##  ##       ##    ##
@@ -336,6 +344,10 @@
  mio_policy_navy_stable_platforms: "Stabile Geschützplattformen"
  mio_policy_navy_great_sea_keeping: "Großartiger Meeresschutz"
  mio_policy_navy_coastal_battlefleet: "Küstenschutzflotte"
+
+### GENERISCHE TOOLTIPS FÜR BESONDERE EIGENSCHAFTEN ##
+ generic_has_already_completed_this_trait: "Hat diese Eigenschaft bereits in einer anderen Organisation erworben"
+ generic_trait_will_not_be_available_in_other_organizations: "§RDiese Eigenschaft wird in anderen Organisationen nicht mehr verfügbar sein.§!."
 
  ###  ##  #  # # #     #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
   #  #  # ## # # #     ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
@@ -454,6 +466,25 @@
  generic_mio_trait_24h_rotation_shifts: "24h Rotationsschichten"
  generic_mio_trait_long_distance_escort: "Langstrecken-Zugbegleitung"
  generic_mio_trait_barrels_of_hell: "Fässer der Hölle"
+
+ #####################################
+ ##### HERSTELLER VON STURMGESCHÜTZEN #####
+ #####################################
+ generic_assault_guns_organization: "Sturmgeschütze Hersteller"
+ generic_mio_initial_trait_assault_guns_organization: "Sturmgeschütze Designer"
+ generic_mio_trait_light_assault_gun_improvements: "Mobile Artillerie"
+ generic_mio_trait_light_assault_gun_anti_tank_combo: "Hochexplosive panzerbrechende Munition"
+ generic_mio_trait_light_assault_gun_improved_cannon_stabilization: "Verbesserte Kanonen-Stabilisierung"
+ generic_mio_trait_light_assault_gun_10_5_iefh_ammunition: "10,5 cm Haubitzen-Munition"
+ generic_mio_trait_medium_assault_gun_improvements: "Gepanzerte Artillerie"
+ generic_mio_lighter_materials_assault_guns: "Leichtere Materialien"
+ generic_mio_armor_hardening_process_assault_guns: "Umfangreiche Panzerungshärtungsprozesse"
+ generic_mio_medium_assault_gun_rocket_tubes: "Montierte Raketenrohre"
+ generic_mio_medium_assault_gun_75_mm_43M_tank_gun: "75mm 43M Panzerkanone"
+ generic_mio_medium_assault_gun_low_slung_superstructure_and_fighting_compartment: "Tiefliegender Aufbau und Kampfraum"
+ generic_mio_trait_heavy_assault_gun_improvements: "Mobile Feuerstellungen"
+ generic_mio_trait_fully_cast_turret_assault_gun: "Vollständig gegossene Türme"
+ generic_mio_trait_assault_gun_improved_tracks: "Verstärkte Ketten"
 
   ## #  # ### ###      #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ##
  #   #  #  #  #  #     ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #
@@ -884,3 +915,16 @@
  generic_mio_trait_officer_support_car: "Offiziersunterstützungswagen"
  generic_mio_trait_heavy_anti_tank_gun: "Schwere Panzerabwehrkanone"
  generic_mio_trait_reinforced_wheels: "Verstärkte Räder"
+
+ #################################
+ #### HUBSCHRAUBER-HERSTELLER ####
+ #################################
+ generic_helicopter_organization: "Hubschrauber Hersteller"
+ generic_mio_initial_trait_helicopter_manufacturer: "Hubschrauber Designer"
+ generic_mio_trait_tandem_rotor_innovations: "Tandemrotor-Innovationen"
+ generic_mio_trait_single_rotor_innovations: "Einzelrotor-Innovationen"
+ generic_mio_trait_side_venting_exhaust: "Auspuff mit seitlicher Entlüftung"
+ generic_mio_trait_improved_engine: "Verbesserter Motor"
+ generic_mio_trait_extra_seating: "Zusätzliche Sitzplätze"
+ generic_mio_trait_co_axial_rotors: "Koaxial-Rotoren"
+ generic_mio_trait_mass_production_certification: "Zertifizierung der Massenproduktion"

@@ -1,5 +1,6 @@
 ﻿l_german:
- FOCUS_FILTER_POLITICAL: "Politik"  ### Übersetzt von Proho  ###
+ FOCUS_ALTERNATE_ICONS: "§0Alternative Symbole§!"  ### Übersetzt von Proho  ###
+ FOCUS_FILTER_POLITICAL: "Politik"
  FOCUS_FILTER_RESEARCH: "Forschung"
  FOCUS_FILTER_INDUSTRY: "Industrie"
  FOCUS_FILTER_STABILITY: "Stabilität"
@@ -16,4 +17,3 @@
  FOCUS_FILTER_POLITICAL_CHARACTER: "Political Character"
  FOCUS_FILTER_MILITARY_CHARACTER: "Military Character"
  FOCUS_FILTER_INTERNATIONAL_TRADE: "International Trade"
-

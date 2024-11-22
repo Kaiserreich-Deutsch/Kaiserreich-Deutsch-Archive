@@ -383,7 +383,7 @@ FRA_secret_weaponry_desc: "Während das Rechnen auf die Tabelliermaschine zurüc
 FRA_damocles: "Das Damokles Projekt"
 FRA_damocles_desc: "Angeregt durch die Cambridge-Konferenz während des Zehnten Kongresses der Dritten Internationale fand heute an der Universität Cambridge ein Wiedersehen statt. Eine Gruppe theoretischer Physiker aus Großbritannien und Frankreich bittet um die Finanzierung der Einrichtung des 'Damokles-Projekts', eines gemeinsamen britisch-französischen Ausschusses für Kernforschung."
 FRA_nuclear_weapons: "Curie Projekt"
-FRA_nuclear_weapons_desc: "Während das Damokles-Projekt sehr vielversprechend war, lähmte die Weigerung der Union Großbritanniens, daran teilzunehmen, die Zusammenarbeit zwischen unseren und ihren Wissenschaftlern. Ungeachtet dessen müssen wir durchhalten und versuchen, herauszufinden, was wir mit dem Atom anfangen können. Wir werden dieses Projekt genau der Frau widmen, die das Radium entdeckt und uns auf diesen Weg gebracht hat."
+FRA_nuclear_weapons_desc: "Während das Damokles-Projekt sehr vielversprechend war, lähmte die Weigerung [ENG.GetNameDef], daran teilzunehmen, die Zusammenarbeit zwischen unseren und ihren Wissenschaftlern. Ungeachtet dessen müssen wir durchhalten und versuchen, herauszufinden, was wir mit dem Atom anfangen können. Wir werden dieses Projekt genau der Frau widmen, die das Radium entdeckt und uns auf diesen Weg gebracht hat."
 FRA_German_borders: "Befestigen Sie die deutsche Grenze"
 FRA_German_borders_desc: "Wir haben bereits ein ziemlich beeindruckendes Netz von Befestigungen entlang der Maas und der Grenze zu Flandern-Wallonien gebaut. Trotzdem können wir es mit neuen Bauten und hochmodernen militärischen Einrichtungen wie Funkstationen und modernen Artilleriegeschützen verbessern. Etwas, das sich die Republik sicher nie hätte leisten können."
 FRA_extend_line: "Verlängern der Linie"
@@ -577,7 +577,7 @@ comfrance.25.a: "Richten Sie das Projekt Damokles ein!"
 comfrance.25.b: "Wir werden kein Geld für solche Absurditäten verschwenden!"
 
 comfrance.26.t: "Etablierung des Damokles-Projekts"
-comfrance.26.d: "Die Regierung der Union von Großbritannien hat unser Angebot bezüglich der Schaffung des gemeinsamen Damokles-Projekts angenommen. Dieses große Unternehmen wird es uns ermöglichen, den Syndikalismus in der ganzen Welt zu verbreiten!"
+comfrance.26.d: "Die Regierung der [FROM.GetNameDef] hat unser Angebot bezüglich der Schaffung des gemeinsamen Damokles-Projekts angenommen. Dieses große Unternehmen wird es uns ermöglichen, den Syndikalismus in der ganzen Welt zu verbreiten!"
 comfrance.26.a: "Ausgezeichnet!"
 
 comfrance.27.t: "Großbritannien verweigerte die Zusammenarbeit!"

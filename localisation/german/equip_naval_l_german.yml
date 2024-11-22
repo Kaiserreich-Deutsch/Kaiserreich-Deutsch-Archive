@@ -5,6 +5,25 @@ naval_equipment: "Schiffe"
  submarine_2: "Verbessertes U-Boot"
  submarine_3: "Fortgeschrittenes U-Boot"
  submarine_4: "Modernes U-Boot"
+
+ cruiser_submarine: "$ship_hull_cruiser_submarine$"
+ cruiser_submarine_desc: "$ship_hull_cruiser_submarine_desc$"
+
+ fleet_submarine: "$ship_hull_fleet_submarine$"
+ fleet_submarine_desc: "$ship_hull_fleet_submarine_desc$"
+
+ midget_submarine: "$ship_hull_midget_submarine$"
+ midget_submarine_desc: "$ship_hull_midget_submarine_desc$"
+
+ rocket_submarine: "Raketen U-Boot"
+ rocket_submarine_desc: "Eine neue Generation von U-Booten, die mit Raketen und Trägersystemen ausgestattet sind und uns die Möglichkeit geben, strategische Ziele unserer Feinde unerwartet zu treffen"
+
+ nuclear_submarine: "$ship_hull_nuclear_submarine$"
+ nuclear_submarine_desc: "$ship_hull_nuclear_submarine_desc$"
+
+ nuclear_missile_submarine: "Atomraketen U-Boot"
+ nuclear_missile_submarine_desc: "U-Boote, die in der Lage sind, Atomraketen zu tragen und gegen unsere Ziele abzuschießen. Sie können wirklich der Tod sein, Zerstörer von Welten - und wir werden es nicht einmal kommen sehen."
+
  submarine_1_desc: "Als erste tauchfähige Kriegsschiffe, die tatsächlich zu wirksamen Kampfhandlungen fähig sind, stellen diese Entwürfe erhebliche Verbesserungen gegenüber ihren Vorgängern dar. Mit dieselelektrischen Motoren, die die hauptsächlich benzinelektrischen Motoren der ersten U-Boote ersetzen, haben sie im Vergleich zu ihren Vorgängern eine stark verbesserte Reichweite und Oberflächengeschwindigkeit. Im Kampf gegen feindliche Kriegsschiffe fungieren sie hauptsächlich als leichte Torpedoboote, haben aber nicht die Geschwindigkeit und Ausdauer, um länger als relativ kurze Zeit unter Wasser zu bleiben. Dies sind die U-Boote, die von den großen Seemächten während des Weltkriegs eingesetzt wurden."
  submarine_2_desc: "Als Weiterentwicklung früherer U-Boot-Konstruktionen haben einige dieser Kriegsschiffe die Ideen der "Kreuzer"-U-Boote weiterentwickelt, indem sie größere Kanonen und eine stärkere Betonung der Überwasserfähigkeiten aufwiesen, während andere in die andere Richtung blickten und versuchten, die Unterwasserfähigkeiten und -leistungen zu verbessern."
  submarine_3_desc: "Die Fortschritte, die einige frühere Konstruktionen bei der Vergrößerung der Unterwasserreichweite, der Geschwindigkeit und der allgemeinen Fähigkeiten gemacht haben, führten dazu, dass sich die U-Boot-Entwicklung von den "Kreuzer"-Typen abwandte und sich wieder Schiffen zuwandte, deren Schwerpunkt auf Unterwasserfähigkeiten lag. Diese U-Boote, die im Vergleich zu ihren Vorgängern erheblich verbessert wurden, verfügen über eine starke Torpedoladung und stellen eine legitime Bedrohung für fast alle Überwasserschiffe dar. Allerdings sind sie nach wie vor in Bezug auf Dauer, Reichweite und Geschwindigkeit unter Wasser begrenzt und bleiben an der Oberfläche verwundbar, insbesondere gegenüber Flugzeugen."
@@ -31,8 +50,10 @@ naval_equipment: "Schiffe"
  light_cruiser_2: "Verbesserter Leichter Kreuzer"
  light_cruiser_3: "Fortgeschrittener Leichter Kreuzer"
  light_cruiser_4: "Modern Light Cruiser"
- torpedo_cruiser: "Torpedo Kreuzer"
- torpedo_cruiser_desc: "Diese Kreuzer basieren auf der Doktrin der Jeune École ("Junge Schule"), die davon ausging, dass kleine, mit Torpedos bewaffnete Kriegsschiffe sehr viel größere Schlachtschiffe effektiv und kostengünstig besiegen können, und sind hauptsächlich mit Torpedos bewaffnet. Die meisten Torpedokreuzer fielen in den 1890er Jahren bei den meisten Seestreitkräften in Ungnade, obwohl viele andere Seestreitkräfte sie noch bis in die frühen 1900er Jahre hinein anschafften. Die modernen Torpedokreuzer sind für den Einsatz von Torpedos ausgelegt, die U-Boote nicht tragen können."
+
+ torpedo_cruiser: "$ship_hull_torpedo_cruiser$"
+ torpedo_cruiser_desc: "$ship_hull_torpedo_cruiser_desc$"
+
  light_cruiser_1_desc: "Bessere Panzerung und die Entwicklung von Dampfturbinenmotoren führten zum Aufkommen der leichten Panzerkreuzer. Diese waren schneller und besser geschützt als die geschützten Kreuzer und verdrängten diese in den 1910er Jahren. Obwohl sie leichter und kleiner als andere zeitgenössische Schiffe sind, sind sie immer noch echte Kreuzer, die den erweiterten Aktionsradius und die Autarkie beibehalten, um unabhängig in der ganzen Welt zu agieren."
  light_cruiser_2_desc: "In der Zwischenkriegszeit wurden die größeren Kreuzer, die seit dem Dreadnought Race entstanden waren, weiterentwickelt. Da Politik und Finanzen viele Seemächte noch immer einschränken, sind die produzierten Entwürfe nur geringfügig größer als die vorherige Generation. Stattdessen wird die Feuerkraft durch den Einsatz größerer Geschütze oder die zunehmende Verwendung von Dreifach-Türmen und Vierfach-Torpedoro-Rohren verbessert. Die wachsende Bedeutung der Luftfahrt in der Seekriegsführung führte auch zur Einführung von Hochwinkel-Doppelzwecklafetten, die durch eine wachsende Anzahl von Autokanonen ergänzt wurden."
  light_cruiser_3_desc: "Die neuen Kreuzer, die am Ende der Zwischenkriegszeit und zu Beginn des Zweiten Weltkriegs gebaut wurden, wurden dank der verfügbaren Mittel nochmals leicht vergrößert. Während das Kaliber der Primärbewaffnung bis auf wenige Ausnahmen unverändert blieb, wurde ihre Feuerkraft durch den Einbau eines zusätzlichen Turms oder die Erhöhung der Anzahl der Geschütze in jedem Turm weiter erhöht. Die Sekundärbewaffnung wurde durch weitere Zwillings-Zweizweckgeschütze und eine noch stärkere Flugabwehrbewaffnung aufgerüstet, oft in Verbindung mit einer verbesserten Feuerleitanlage. In dieser Generation wurden auch zunehmend Radarsysteme auf Kreuzern eingesetzt."
@@ -111,6 +132,9 @@ ship_hull_cruiser_desc: "Ein mittleres Schutzschiff. Seine primäre Aufgabe ist 
  ship_hull_heavy_3: "Fortgeschrittener Schwerer Rumpf"
  ship_hull_heavy_4: "Moderner Schwerer Rumpf"
  
+ ship_hull_heavy_modern: "Modernes Schlachtschiff"
+ modern_battleship: "$ship_hull_heavy_modern$"
+
 ship_hull_carrier: "Träger"
 ship_hull_carrier_desc: "Ein großes Schiff, das in der Lage ist, Geschwader von mächtigen trägerfähigen Flugzeugen in die Schlacht zu tragen. Auch nützlich als schwimmender Flugplatz, den Sie vor der Küste Ihres Feindes positionieren können."
  ship_hull_carrier_0: "Weltkriegs Träger Rumpf"
@@ -121,14 +145,19 @@ ship_hull_carrier_desc: "Ein großes Schiff, das in der Lage ist, Geschwader von
  ship_hull_carrier_2: "Fortgeschrittener Träger Rumpf"
  ship_hull_carrier_3: "Moderner Träger Rumpf"
  
+ ship_hull_carrier_modern: "Moderner Träger"
+ ship_hull_carrier_modern_desc: "Größte und fortschrittlichste Flugzeugträger, die die neuesten Technologien, Ausrüstungen und Fortschritte nutzen können. Sie sind der Inbegriff 'modernster' Waffentechnik."
+ modern_carrier: "$ship_hull_carrier_modern$"
+ modern_carrier_desc: "$ship_hull_carrier_modern_desc$"
+ mega_carrier: "$ship_hull_mega_carrier$"
+ mega_carrier_desc: "$ship_hull_mega_carrier_desc$"
+
  ship_hull_submarine: "U-Boot"
  ship_hull_submarine_desc: "Das moderne U-Boot, das sich von den einfachen Booten des Ersten Weltkriegs weit entfernt hat, ist leistungsfähiger als je zuvor und kann selbst das größte Schiff zu sehr moderaten Kosten bedrohen."
  ship_hull_submarine_1: "Weltkriegs U-Boot-Rumpf"
  ship_hull_submarine_2: "Verbesserter U-Boot-Rumpf"
  ship_hull_submarine_3: "Fortgeschrittener U-Boot-Rumpf"
  ship_hull_submarine_4: "Moderner U-Boot-Rumpf"
-# Verwende den folgenden custom_effect_tooltip, wenn du die Kreuzer-U-Boot-Technologie hinzufügst. Das Spiel ist so programmiert, dass Kreuzer-U-Boote als Verbesserte U-Boot-Rümpfe aufgeführt werden
- unlock_cruiser_submarine_tech: "Technologie hinzufügen: §YKreuzer-U-Boot§!."
  
  ship_hull_pre_dreadnought: "Vor-Dreadnought-Rumpf"
  ship_hull_pre_dreadnought_desc: "Nach dem Vorbild der britischen Majestic-Klasse aus den späten 1890er Jahren lösten die Vor-Dreadnought-Schlachtschiffe die Panzerschiffe der 1870er und 1880er Jahre ab. Die aus Stahl gebauten und durch eine Panzerung aus gehärtetem Stahl geschützten Vor-Dreadnought-Schlachtschiffe verfügen über eine Hauptbatterie mit sehr schweren Kanonen in Barbetten, die von einer oder mehreren Sekundärbatterien mit leichteren Waffen unterstützt werden.\n\nDa die Dreadnought-Konstruktion sie schon vor dem Zweiten Weltkrieg überflüssig gemacht hat und in den letzten drei Jahrzehnten die Zahl der auf Dreadnought-Konstruktionen basierenden Schiffe enorm gestiegen ist, sind nur noch wenige von ihnen im Einsatz."
@@ -137,12 +166,18 @@ ship_hull_carrier_desc: "Ein großes Schiff, das in der Lage ist, Geschwader von
  ship_hull_cruiser_coastal_defense_ship: "Küstenschutz-Schiff"
  ship_hull_cruiser_coastal_defense_ship_desc: "Küstenschutzschiffe sind kleine, oft kreuzergroße Kriegsschiffe, die Geschwindigkeit und Reichweite zugunsten von Panzerung und Bewaffnung opfern. Sie sind in der Regel für Nationen attraktiv, die sich entweder keine Schlachtschiffe in voller Größe leisten können oder denen speziell entwickelte Schiffe mit geringem Tiefgang genügen, die für küstennahe Operationen geeignet sind."
  ship_hull_torpedo_cruiser: "Torpedo Kreuzer"
- ship_hull_torpedo_cruiser_desc: "Leichte Kreuzer, die mit einer großen Anzahl von Torpedoro-Rohren ausgestattet sind, auf Kosten einer kleineren Hauptbatterie und weniger Flugabwehrkanonen."
+ ship_hull_torpedo_cruiser_desc: "Diese Kreuzer basieren auf der Doktrin der Jeune École ('Junge Schule'), die davon ausging, dass kleine, mit Torpedos bewaffnete Kriegsschiffe sehr viel größere Schlachtschiffe wirksam und kostengünstig besiegen können, und sind hauptsächlich mit Torpedos bewaffnet. Die meisten Torpedokreuzer fielen in den 1890er Jahren bei den meisten Seestreitkräften in Ungnade, obwohl viele andere Seestreitkräfte sie noch bis in die frühen 1900er Jahre hinein anschafften. Die modernen Torpedokreuzer sind für den Einsatz von Torpedos ausgelegt, die U-Boote nicht tragen können."
  ship_hull_super_heavy_1: "Dreadnought Rumpf"
  ship_hull_cruiser_submarine: "Kreuzer U-Boot"
  ship_hull_cruiser_submarine_desc: "Sie sind deutlich größer als die vorherigen U-Boote und gehören zum Typ "Kreuzer", der für unabhängige Langstreckeneinsätze in der Handelsschifffahrt konzipiert wurde und besser für den Kampf mit gegnerischen leichten Kriegsschiffen an der Oberfläche gerüstet sein soll. Als solche sind sie mit schwereren Geschützen bewaffnet und haben eine höhere Geschwindigkeit an der Oberfläche. Ihre Unterwasserfähigkeiten bleiben jedoch begrenzt."
  ship_hull_midget_submarine: "Kleinst-U-Boot"
  ship_hull_midget_submarine_desc: "Ein kleines U-Boot, das von einer kleinen Mannschaft bedient wird. Seine geringe Reichweite und Waffenkapazität wird durch eine hohe Produktionsrate ausgeglichen."
+ ship_hull_fleet_submarine: "Flotten U-Boot"
+ ship_hull_fleet_submarine_desc: "U-Boote, die dank ihrer großen Reichweite als Begleit- und Unterstützungsboote für die Überwasserflotte eingesetzt werden können."
+ ship_hull_nuclear_submarine: "Atom U-Boot"
+ ship_hull_nuclear_submarine_desc: "Mit Kernreaktoren können unsere U-Boote sehr lange unter Wasser operieren und dabei eine hohe Geschwindigkeit beibehalten, was sie zu einem äußerst tödlichen Werkzeug in unserem Arsenal macht."
+ ship_hull_mega_carrier: "Eis-Träger"
+ ship_hull_mega_carrier_desc: "Ein gigantischer Flugzeugträger, der aus experimentellen Eisverbundstoffen wie Pykrete hergestellt wird und von dem aus reguläre Flugzeuge operieren können, wodurch sich die Reichweite unserer Marinefliegerei erhöht."
 
  screen_ship: "Abschirmungen"
  capital_ship: "Große Schiffe"

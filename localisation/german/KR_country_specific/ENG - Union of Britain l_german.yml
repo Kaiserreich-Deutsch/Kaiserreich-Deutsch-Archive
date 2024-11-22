@@ -352,8 +352,11 @@
  ENG_statistical_warfare_desc: "Dieser Krieg wird auf den Tischen und Kreidetafeln der Mathematiker und Forscher gewonnen werden. Wir müssen unsere Prioritäten entsprechend setzen."
  ENG_home_front_victory: "Sieg an der Heimatfront"
  ENG_home_front_victory_desc: "Wir haben die Kapitalisten in den Fabriken geschlagen. Wer hätte das gedacht?"
- ENG_westminster_project: "Damokles-Projekt"
- ENG_westminster_project_desc: "Wir werden dieses neue "Forschungszentrum" in Manchester ansiedeln. Dieses große Industriezentrum wird reichlich Arbeitskräfte für den Bau bereitstellen, und seine zentrale Lage wird die Verlagerung von Ressourcen dorthin erleichtern."
+ ENG_damocles_project: "Das Damokles-Projekt"
+ ENG_damocles_project_desc: "Angeregt durch die Cambridge-Konferenz während des Zehnten Kongresses der Dritten Internationale fand heute an der Universität Cambridge ein Treffen statt. Eine Gruppe theoretischer Physiker aus Großbritannien und Frankreich bittet um finanzielle Unterstützung für die Einrichtung des „Damokles-Projekts“, eines gemeinsamen britisch-französischen Komitees für Kernforschung."
+ ENG_maud_committee: "MAUD Kommission"
+ ENG_maud_committee_desc: "Das Damokles-Projekt war zwar sehr vielversprechend, aber die Weigerung von [FRA.GetNameDef], sich daran zu beteiligen, hat die Zusammenarbeit zwischen unseren und ihren Wissenschaftlern lahm gelegt. Trotzdem müssen wir weitermachen und versuchen herauszufinden, was wir mit dem Atom anfangen können. Wir werden ein neues Forschungszentrum in Manchester errichten."
+
  ENG_total_mobilization: "Der letzte Kampf"
  ENG_total_mobilization_desc: "Wir werden bis zum Ende weitermachen, wir werden in Frankreich kämpfen, wir werden auf den Meeren und Ozeanen kämpfen, wir werden mit wachsender Zuversicht und wachsender Stärke in der Luft kämpfen, wir werden unsere Insel verteidigen, was auch immer der Preis sein mag, wir werden an den Stränden kämpfen, wir werden auf den Landungsplätzen kämpfen, wir werden auf den Feldern und in den Straßen kämpfen, wir werden in den Bergen kämpfen; wir werden niemals kapitulieren!"
  #ENG_improve_army2: "C.P.U.-Programm" bereits oben definiert

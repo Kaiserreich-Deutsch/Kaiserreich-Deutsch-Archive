@@ -79,8 +79,6 @@
  SRI_international_decisions_desc: "Die Sozialistische Republik Italien war eines der Gründungsmitglieder der Internationale. Als solches sollten wir die verschiedenen Projekte und Initiativen der anderen Mitglieder der Internationale unterstützen und dazu beitragen."
  SRI_join_the_intl: "Beitritt zur Dritten Internationale"
  SRI_join_the_intl_desc: "Sowohl Deutschland als auch Österreich sind misstrauisch gegenüber einem formellen Bündnis zwischen der Dritten Internationale und [Root.GetNameDef], bei dem französische und britische Streitkräfte zur Unterstützung der Wiedervereinigung Italiens unter syndikalistischer Herrschaft herangezogen werden würden. Sollte sich jedoch eine Großmacht in Italien engagieren oder sollte es erneut zu einem Krieg zwischen [FRA.GetNameDef] und [GER.GetNameDef] kommen, dann ist alles möglich."
- SRI_Assist_Damocles_Project: "Unterstützung des Damokles-Projekts"
- SRI_Assist_Damocles_Project_desc: "Die Briten haben ein Programm zur Koordinierung der Kernforschung ins Leben gerufen. Als Verbündete sollten wir die Briten unterstützen; unser eigener Enrico Fermi ist selbst ein begabter Kernphysiker und wäre eine hervorragende Ergänzung für das Projekt."
  SRI_political_decisions: "Politische Entscheidungen"
  SRI_political_decisions_desc: "Es gibt viele verschiedene Politische Entscheidungen, die wir treffen können, um das Wesen der Republik zu gestalten."
  SRI_begin_the_cultural_revolution: "Beginn der Kulturrevolution"
@@ -251,7 +249,6 @@
  SRI_screen_production_bonus: "§Y$screen_ship$§!: £GFX_production_cost  Produktionskosten:  [?-0.1|-=%2]"
  SRI_capital_production_bonus: "§Y$capital_ship$§!: £GFX_production_cost  Produktionskosten:  [?-0.1|-=%2]"
 
- SRI_add_cruiser_submarines_tech: "Technologie hinzufügen: §Y$cruiser_submarines$§!."
  SRI_add_panzerschiffe_tech: "Technologie hinzufügen: §Y$panzerschiffe$§!."
 
 ### Political Tree ###
