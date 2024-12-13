@@ -5,8 +5,8 @@ FRA_ongoing_phalanstere_development: "§YHilft bei der Entwicklung eines anderen
 CSA_redeagles_tt: "Neue freiwillige Piloten und Flugzeuge werden eintreffen."
 FRA_tank_division_tooltip: "Drei £nato_unit_medium_armor_icon_small  §HMittlere Panzer§! Divisionen werden eingesetzt."
 
- FRA_will_build_in_savoy_if_owned: "§Y[735.GetName]§! wird auch §Y1 $industrial_complex$§! erhalten, wenn er von §Y[ROOT.GetNameWithFlag]§! kontrolliert wird."
- FRA_will_build_in_upper_savoy_if_owned: "§Y[943.GetName]§! wird auch §Y1 $industrial_complex$§! und §Y1 $infrastructure$§! erhalten, wenn er von §Y[ROOT.GetNameWithFlag]§! kontrolliert wird."
+ FRA_will_build_in_savoy_if_owned: "§Y[735.GetName]§! wird auch §Y1 $dam$§! erhalten, wenn im Besitz von §Y[ROOT.GetNameWithFlag]§!."
+ FRA_will_build_in_upper_savoy_if_owned: "§Y[943.GetName]§! wird auch §Y1 $dam$§! erhalten, wenn im Besitz von §Y[ROOT.GetNameWithFlag]§!."
 
  INT_phalanstere: "Phalanstère Internationale"
 
@@ -255,8 +255,7 @@ FRA_created_phalanstere: "§HKommune Frankreich§!: Hat den Schwerpunkt abgeschl
 phalanstere_research_name: "Phalansteriesche Internationale"
 phalanstere_research_desc: "Auf der Tagung der Internationale beschlossen wir die Aufstellung eines weltweiten Plans zur Bündelung der Anstrengungen und des technischen Fortschritts der sozialistischen Nationen. Dieser Plan hat sich seitdem zu einem ehrgeizigeren Plan, der Phalanstère International, entwickelt, der darauf abzielt, sozialistische Regime in der ganzen Welt zu unterstützen."
 
-FRA_tech_marine_bonus: "The Colonnes de Neptune"
-FRA_tech_marine_bonus_effect: "Aktiviert §H$FRA_tech_marine_bonus$\n$tech_marine_bonus_effect_tooltip$"
+FRA_tech_marine_bonus: "Colonnes de Neptune"
 
 ### Focuses ###
 commune_of_france_focus: "Schwerpunktbaum von Kommune Frankreichs"
@@ -265,6 +264,8 @@ FRA_amenagement: "Regionale Planung"
 FRA_amenagement_desc: "Unser Territorium ist riesig und ungleich entwickelt, einige ländliche Regionen wurden zurückgelassen, während andere florieren und mit spektakulären Raten wachsen. Wir müssen lokale Initiativen fördern und ehrgeizige Infrastrukturprojekte in Betracht ziehen, um dieses Problem auf lokaler und nationaler Ebene zu lösen."
 FRA_hydroelectricity: "Wasserkraft"
 FRA_hydroelectricity_desc: "Unsere Gebirgsregionen in den Alpes und im Zentralmassiv verfügen über eine Vielzahl von Flüssen mit hohem Durchfluss, eine perfekte Umgebung, um eine saubere und dauerhafte Energiequelle zu installieren und die rückständigen, ländlichen Bergregionen der Kommune zu beleben."
+ FRA_improve_the_electrical_network: "Verbesserung des Stromnetzes"
+ FRA_improve_the_electrical_network_desc: "Dank der jüngsten Erfolge beim Ausbau der Stromerzeugung aus Wasserkraft können wir nun billigeren Strom nutzen, um unsere industrielle Leistungsfähigkeit weiter zu steigern. Die Renovierung der Stromnetze, um eine gute Verteilung dieses neu gewonnenen Überschusses zu gewährleisten, ist ein perfekter erster Schritt."
 FRA_swiss_hydroelectricity: "Schweizer Wasserkraft"
 FRA_swiss_hydroelectricity_desc: "Unsere kürzliche Eroberung der Romandie hat uns einige perfekte Stellen für die Wasserkraft als Erweiterung unseres bestehenden Netzes in den Alpen eröffnet. Unsere führenden Ingenieure sind sich sicher, dass der Ausbau unserer Dämme in der Region von großem Nutzen für unsere Wirtschaft wäre."
 FRA_chemins_de_fer: "Eisenbahnamt"
@@ -820,7 +821,7 @@ comfrance.129.a: "Exzellent!"
 comfrance.129.b: "Wir möchten ihre Hilfe nicht."
 
 comfrance.130.t: "Eine jakobinische Reformation?"
-comfrance.130.d: "Having at long last taken control of the Commune, the Jacobin led Comité de Salut Public is now divided. Hardliners are demanding that the Syndicalist structures be abolishNachdem das jakobinisch geführte Comité de Salut Public endlich die Kontrolle über die Kommune übernommen hat, ist es nun gespalten. Die Hardliner fordern die Abschaffung der syndikalistischen Strukturen und deren Ersetzung durch eine \"Parti Unique\" (Einheitspartei) und einen \"Techniker\"-Staat. Dies würde Frankreich jedoch wahrscheinlich bösartig spalten, und so schlagen viele Mitglieder der Partei vor, dass die Jakobiner weiterhin innerhalb der etablierten syndikalistischen Strukturen des BGT und der CSP agieren, während sie den Staat schrittweise nach konstruktiv-revolutionären Grundsätzen reformieren.ed, all replaced by a \"Parti Unique\" (Single Party) and a \"Technician\" State. However, this is likely to viciously divide France and as such many members of the party are suggesting that the Jacobins continue to operate within the established Syndicalist structures of the BGT and CSP while gradually reforming the state along Constructive Revolutionary lines."
+comfrance.130.d: "Nachdem das jakobinisch geführte Comité de Salut Public (Ausschuss für öffentliche Sicherheit) endlich die Kontrolle über die Kommune übernommen hat, ist es nun gespalten. Die Hardliner fordern die Abschaffung der syndikalistischen Strukturen und deren Ersetzung durch eine \"Parti Unique\" (Einheitspartei) und einen \"Techniker\"-Staat. Dies würde Frankreich jedoch wahrscheinlich bösartig spalten, und so schlagen viele Mitglieder der Partei vor, dass die Jakobiner weiterhin innerhalb der etablierten syndikalistischen Strukturen des BGT und der CSP agieren, während sie den Staat schrittweise nach konstruktiv-revolutionären Grundsätzen reformieren. "
 comfrance.130.a: "Das alte System soll weggefegt werden!"
 comfrance.130.b: "Wir werden den Syndikalismus von innen heraus reformieren."
 
@@ -1039,7 +1040,7 @@ comfrance.1000.a: "Überraschend, um es vorsichtig auszudrücken."
  comfrance.1036.a: "Interessant."
 
  comfrance.1037.t: "Der neunte internationale Kongress"
- comfrance.1037.d: "Sozialistische Delegierte aus der ganzen Welt sind in und um Paris zum jüngsten Kongress ihrer Bewegung versammelt. Die Dritte Internationale wurde von französischen Sozialisten nach der Revolution von 1920 gegründet und hat seither dazu beigetragen, die Bemühungen der Arbeiterbewegung zu lenken. Die Internationale, die von Syndikalisten dominiert wird, will jedoch eine breit angelegte Organisation sein und heißt daher Rote aller Couleur willkommen. Die Delegierten wurden mit einer Militärparade und einer mitreißenden Rede in Versailles begrüßt und waren zu diesem Anlass in Rot gekleidet.\n\nAt the top of the agenda is the spread of revolutionary fervour, particularly to Asia and North America, conflict in Spain, policy on colonialism and requirements for membership of the Internationale's military alliance."
+ comfrance.1037.d: "Sozialistische Delegierte aus der ganzen Welt sind in und um Paris zum jüngsten Kongress ihrer Bewegung versammelt. Die Dritte Internationale wurde von französischen Sozialisten nach der Revolution von 1920 gegründet und hat seither dazu beigetragen, die Bemühungen der Arbeiterbewegung zu lenken. Die Internationale, die von Syndikalisten dominiert wird, will jedoch eine breit angelegte Organisation sein und heißt daher Rote aller Couleur willkommen. Die Delegierten wurden mit einer Militärparade und einer mitreißenden Rede in Versailles begrüßt und waren zu diesem Anlass in Rot gekleidet.\n\nGanz oben auf der Tagesordnung stehen die Ausbreitung der revolutionären Begeisterung, insbesondere in Asien und Nordamerika, der Konflikt in Spanien, die Kolonialpolitik und die Voraussetzungen für die Mitgliedschaft im Militärbündnis der Internationale."
  comfrance.1037.a: "Eine interessante Entwicklung."
 
  comfrance.1038.t: "Der Zehnte Internationale Kongress"

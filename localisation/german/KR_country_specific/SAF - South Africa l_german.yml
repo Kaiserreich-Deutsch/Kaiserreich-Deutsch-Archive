@@ -139,7 +139,7 @@ SAF_encourage_farmer_resettlement_desc: "Die finanzielle Notlage unserer Farmer 
 SAF_long_term_investment_loans: "Langfristige Investitionskredite"
 SAF_long_term_investment_loans_desc: "Durch die Bereitstellung garantierter Kredite können wir Unternehmern im ganzen Land einen kostengünstigen Anreiz bieten, sich in den neu zugewiesenen Gebieten in Bechuanaland niederzulassen."
 
-SAF_build_the_kariba_dam: "Vorbereitungen für den Bau des Kariba-Damms"
+SAF_build_the_kariba_dam: "Bau des Kariba-Damms"
 SAF_build_the_kariba_dam_desc: "Die Fertigstellung des Kariba-Damms wird eine langwierige und mühsame Arbeit sein, aber er wird viel Energie für unsere wachsende Industrie in Rhodesien und die Siedlungen liefern, die aus der Kolonisierung des Nuweveld hervorgehen."
 
 SAF_annex_the_protectorates: "Annexion der Protektorate"
@@ -895,13 +895,9 @@ SAF_getDetentionCapacity_overwhelmed: "§RÜberwältigt§!"
 SAF_getCorp_or_Coop_Coop: "Kooperativ"
 SAF_getCorp_or_Coop_Corp: "Unternehmen"
 
-SAF_if_heavy_armour: "Wenn §H$SAF_heavy_armour_focus$§! ausgewählt wurde:"
-SAF_if_mechanised: "Wenn §H$SAF_mechanised_warfare$§! ausgewählt wurde:"
-
 SAF_will_become_federation_after_war: "Wenn wir die Republik erfolgreich besiegen, werden wir die §YSüdafrikanische Föderation§!."
 SAF_tt_no_more_peace: "§REs wird keine Gelegenheit mehr geben, ein Friedensabkommen mit Südafrika zu unterzeichnen, es sei denn, der südafrikanische Staat wird vollständig zerstört. Es wird Freiheit oder Tod heißen!§!"
 
-SAF_if_nationalize_all_farms_completed: "Wenn §Y$SAF_nationalize_all_farms$§! abgeschlossen wurde:"
 SAF_nationalize_all_farms_extra_effect: "Wenn dieser Schwerpunkt abgeschlossen ist, wird §Y$SAF_divide_the_spoils$§!:"
 
 SAF_change_to_autonomous_commune: "Ersetzt §Y$SAF_protectorate$§! mit §Y$SAF_autonomous_commune$§!\nEffektiver Auswirkungen:\n$MODIFIER_LOCAL_MANPOWER$: [?0.4|+=%0]\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: [?3|+=0]"
@@ -1003,8 +999,6 @@ SAF_develop_northern_cape_aluminium_mines_desc: "Wir haben in der Nähe von Kimb
 SAF_develop_natal_steel_mines: "Stahl in Natal erschließen"
 SAF_develop_natal_steel_mines_desc: "Wir haben in der Provinz Natal Eisenvorkommen entdeckt, und es wird einige Zeit und Mühe kosten, dort eine produktive Mine zu errichten."
 
-SAF_dec_build_the_kariba_dam: "Bau des Kariba-Damms"
-SAF_dec_build_the_kariba_dam_desc: "Nachdem alle Vorbereitungen abgeschlossen sind, können wir endlich mit dem Bau des Kariba-Damms beginnen. Durch das Aufstauen des Sambesi-Flusses werden wir die immense Kraft, mit der das Wasser in den Indischen Ozean fließt, für unsere eigenen wirtschaftlichen Interessen nutzen können!"
 SAF_establish_idc_factory_cape_town: "Fabrik in Kapstadt bauen"
 SAF_establish_idc_factory_cape_town_desc: "Kapstadt, Südafrikas größte Stadt und wichtigster Hafen, ist ein idealer Standort für den Ausbau unserer Kriegsindustrie, und die Industrial Development [SAF_getCorp_or_Coop] ist bereit, diese Chance zu nutzen."
 SAF_establish_idc_factory_durban: "Fabrik in Durban bauen"

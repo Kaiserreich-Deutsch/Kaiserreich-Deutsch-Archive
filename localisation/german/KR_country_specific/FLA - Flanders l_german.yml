@@ -47,9 +47,6 @@ FLA_authoritarian_democrat_party: "Übergangsregierung"
 FLEM_MONARCHY: "Die Monarchie wurde nicht abgelehnt"
 FLEM_REPUBLIC: "Die Regentschaft wurde beendet"
 
- FLA_if_direct_rule: "§cWenn §H$FLA_Direct_Rule_From_Council$§! gewählt wird§!:"
- FLA_if_democratic_transition: "§cWenn §H$FLA_Democratic_Transition$§! gewählt wird§!:"
-
 ### Ideas ###
 FLA_Flemish_Lion: "Flämischer Löwe"
  FLA_Karel: "Der Graf von Flandern"

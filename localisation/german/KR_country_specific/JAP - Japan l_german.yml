@@ -344,9 +344,6 @@
  JAP_shared_modernisation_1_desc: "Trotz der Unterschiede in Doktrin und Strategie zwischen den Befürwortern der Theorien des Langen und des Kurzen Krieges sind sich beide Seiten in einigen grundlegenden Punkten einig, etwa in der Notwendigkeit für das Heer, frühe Siege und Gebietsgewinne zu erringen, den Feind entweder zu Friedensverhandlungen zu zwingen oder eine Verteidigungslinie gegen einen überlegenen Feind zu errichten, sowie in der starken Betonung der Aggression, die einen Rückzug als inakzeptables Ergebnis ansieht. Mit diesen gemeinsamen Zielen wird das Heer in der Lage sein, die Modernisierung auf einer einheitlichen Linie durchzuführen."
  # Tooltips
  JAP_tech_marine_bonus: "SNLF"
- JAP_tech_marine_bonus_effect: "Aktiviert §H$JAP_tech_marine_bonus$\n$tech_marine_bonus_effect_tooltip$"
- JAP_if_long_war: "Wenn wir uns für die Doktrin des §YLanger Krieg§! entscheiden, erhalten wir die folgenden Boni:"
- JAP_if_short_war: "Und wenn wir uns für eine §YKurzer Krieg§! Doktrin entscheiden, erhalten wir die folgenden Boni:"
  JAP_deploy_teishindan: "Erstellen Sie zwei Einheiten £GFX_nato_unit_paratrooper_icon_small §YTeishindan§!\n   x §Y5§! £GFX_nato_unit_paratrooper_icon_small  Fallschirmjäger Bataillone\n      - £GFX_nato_unit_artillery_icon_small  Artillerie Kompanie"
 
 ### Kurzer Krieg

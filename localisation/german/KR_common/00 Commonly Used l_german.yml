@@ -68,6 +68,10 @@ received_equipment_1500: "Sie erhielten §G1500§! Infanterieausrüstung aus die
 received_equipment_2000: "Sie erhielten §G2000§! Infanterieausrüstung aus diesem Land"
 received_equipment_5000: "Sie erhielten §G5000§! Infanterieausrüstung aus diesem Land"
 
+### Bindable Localisation ###
+tooltip_if_focus_completed: "§CWenn $FOCUS|Y$ abgeschlossen wurde:§!"
+tooltip_enable_hidden_tech: "Schaltet $TECH|Y$ frei\n$EFFECT$"
+
 ### Flag Loc segments ###
 tooltip_event_choice: "§CEreignis Entscheidung§!: "
 has_completed_focus: "Hat den Schwerpunkt abgeschlossen §H"

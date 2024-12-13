@@ -1240,11 +1240,11 @@ DEI_Apartheid_FS: "Nederlandsch-Indië Apartheid-Cultuurstelsel - Flores en Soem
 DEI_HOL_Failed: "Nederlandsch-Indië - Fehlschlag\n§WNach dem Ende der insulinisch-malaiischen Rebellion stehen die Staaten, die sich dem neuen Staat nicht anschließen wollten, weiterhin unter niederländischem Schutz... aber wie lange noch?§!"
 DEI_Apartheid_tt: "§RApartheid§! §Wwird in Niederländisch-Indien durchgesetzt.§!"
 DEI_vnh_warrior_race: "§WEs werden Änderungen an der §RApartheid§! vorgenommen, um bestimmte Kulturen zu fördern.§!"
-dei_medic_tech: "Niederländisch-Indien M.A.Z"
-dei_medic_tech_effect: "§WErmöglicht §!§CM.A.Z Feldlazarett§!\n      §WMed. Versorgung: §G+20%§!\n      §WErf-Verlust:§! §G-10%§!"
-dei_medic_tech_tt: "§CNiederländisch-Indien M.A.Z§! §Wwird die Zahl unserer Opfer in Schlachten erheblich verringern§!\n"
 DEI_rebels_unity_aa: "Die Unabhängigkeitsbewegung Einheit muss §OMittel§! oder höher sein"
 DEI_rebels_str_aa: "Die Unabhängigkeitsbewegung Stärke muss §OMittel§! oder höher sein"
+
+### Techs ###
+DEI_tech_improved_field_hospitals: "Niederländisch-Indien M.A.Z"
 
 ### Variables ###
 holex_active_resistance_members: "Verfügbare Mitglieder des Widerstands"

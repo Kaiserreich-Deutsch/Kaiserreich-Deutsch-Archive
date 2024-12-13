@@ -1,12 +1,12 @@
 ﻿l_german:
-
- special_project_consumer_costs_high: "Secret Resource Procurement"
- special_project_consumer_costs_high_desc: "Hushed voices whisper of a tremendous amount of supplies being diverted by government to seemingly innocuous locations. Some suggest that the resources are being consumed in secretive research and development projects but little concrete evidence exists to confirm this..."
- special_project_consumer_costs_medium: "Secret Resource Procurement"
+###  Übersetzt von Proho  ###
+ special_project_consumer_costs_high: "Heimliche Ressourcenbeschaffung"
+ special_project_consumer_costs_high_desc: "Leise Stimmen flüstern von einer enormen Menge an Vorräten, die von der Regierung an scheinbar harmlose Orte abgezweigt werden. Einige vermuten, dass die Ressourcen in geheimen Forschungs- und Entwicklungsprojekten verbraucht werden, aber es gibt kaum konkrete Beweise, die dies bestätigen..."
+ special_project_consumer_costs_medium: "Heimliche Ressourcenbeschaffung"
  special_project_consumer_costs_medium_desc: "$special_project_consumer_costs_high_desc$"
- special_project_consumer_costs_low: "Secret Resource Procurement"
+ special_project_consumer_costs_low: "Heimliche Ressourcenbeschaffung"
  special_project_consumer_costs_low_desc: "$special_project_consumer_costs_high_desc$"
- fallout_atomic: "Nuclear Fallout"
- fallout_thermonuclear: "Intense Nuclear Fallout"
- sp_land_stronghold_network_collapse_workers_drafted: "Emergency Labor Draft"
- sp_land_stronghold_network_collapse_workers_drafted_desc: "A large number of workers have been redirected to rescue operations and immediate reconstruction efforts, significantly slowing down regular construction, repair activities, and resource extraction in the area."
+ fallout_atomic: "Nuklearer Niederschlag"
+ fallout_thermonuclear: "Intensiver nuklearer Niederschlag"
+ sp_land_stronghold_network_collapse_workers_drafted: "Notstandsarbeit-Entwurf"
+ sp_land_stronghold_network_collapse_workers_drafted_desc: "Eine große Zahl von Arbeitern wurde für Rettungsmaßnahmen und den unmittelbaren Wiederaufbau abgestellt, was die regulären Bau- und Reparaturarbeiten sowie die Rohstoffgewinnung in dem Gebiet erheblich verlangsamt hat."

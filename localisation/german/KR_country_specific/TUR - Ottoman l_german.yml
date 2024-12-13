@@ -249,9 +249,6 @@
  ott_authority_medium_downgrade: "wird zu einem §YVilayet§! herabgestuft, was uns die folgenden Effekte gibt:\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-50%§!\nVerfügbare Bauplätze-Faktor: §R-50%§!"
  ott_authority_high: "wird zu einer §YOsmanischen Provinz§! herabgestuft, was uns die folgenden Effekte gibt:\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R100%§!\nVerfügbare Bauplätze-Faktor: §R100%§!"
 
- OTT_camel_corps_tech: "Imperiales Kamelkorps"
- OTT_camel_corps_tech_effect: "Schaltet frei: §H$camel_corps_tech$\nKamel-Kavallerie\n    Wüste§!\n      Angriff: §G+15%§!\n      Verteidigung: §G+5%§!\n      Geschwindigkeit: §G+3%§!\n\n"
-
  OTT_add_austria_to_faction: "§H[AUS.GetName]§! tritt dem §H$sarajevo_accords$§! bei."
 
 ### Country Flags

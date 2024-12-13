@@ -391,6 +391,9 @@ ateliers_de_la_loire_nfa: "Ateliers et Chantiers de la Loire"
 oran_construction_navale: "Société de Construction Navale d'Oran"
 chartiers_dakar: "Chantiers Navals de Dakar"
 
+### Techs ###
+NFA_tech_improved_field_hospitals: "Verbesserte medizinische Versorgung"
+
 #############
 ### Ideas ###
 #############
@@ -533,8 +536,6 @@ NATFRA_New_Air_Tactics_idea: "Taktik aus der Luft"
 NATFRA_Bataille_d_Escadres_idea: "Kampf der Flügel"
 NATFRA_Young_Officers_0: "Zentrum für taktische Studien"
 NATFRA_Young_Officers_1: "Innovationen der jungen Garde"
-NFA_improved_field_hospitals: "Verbesserte medizinische Hilfe"
-NFA_hospital_tech_effect: "Ermöglicht §H$NFA_improved_field_hospitals$\nFeldlazarett§!\n Med. Versorgung: §G+20%§!\n Exp. Verlust: §G-10%§!\n"
 NFA_Full_Airbase_tt: "In Algier und Korsika können keine Luftstützpunkte mehr gebaut werden"
 NFA_Full_AA_tt: "In Algier und Korsika können keine Flugabwehrgeschütze mehr gebaut werden"
 NATFRA_Air_Effort_1: "Totale Luftbemühungen"

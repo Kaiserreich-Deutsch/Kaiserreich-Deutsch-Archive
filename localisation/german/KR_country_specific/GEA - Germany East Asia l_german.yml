@@ -24,18 +24,12 @@ GEA_paternal_autocrat_party_long: "Kolonialverwaltung"
 GEA_national_populist_party: "MLN"
 GEA_national_populist_party_long: "Malaiische National Liga"
 
-### Custom Tech ###
-GEA_improved_field_hospitals: "Ritt der Walküren"
-GEA_improved_field_hospitals_effect: "Aktiviert §H$GEA_improved_field_hospitals$\nFeldlazarett§!\n      Rücklauf: §G+20%§!\n      Exp. Verlust: §G-10%§!\n\n"
-
 ### Tooltips ###
 GEA_receive_guns_from_home: "§GWir erhalten §Y2500§! Infanterieausrüstung aus Deutschland.§!"
 german_alligned_chinese_tag_controlled_tooltip: "Im Besitz und unter der Kontrolle von §Heiner deutschfreundlichen Regierung§!"
 GEA_try_to_give_guns_to_LEP_tooltip: "Wir werden versuchen, der Regierung in Nanjing §Y2500§! Infanterieausrüstungen zu geben, aber es könnte sein, dass sie sich in einem Akt des Ungehorsams weigern."
 GEA_try_to_give_factories_to_LEP_tooltip: "Wir werden versuchen, die §Y2§!-Militärfabriken vorübergehend der Regierung in Nanjing zu überlassen, aber sie könnten sich in einer Show des Ungehorsams weigern."
 GEA_no_factory_lease: "LEP hat den Mietvertrag abgelehnt."
- GEA_if_fiscal_austerity_completed: "Wenn §Y$GEA_fiscal_austerity$§! abgeschlossen ist:"
- GEA_if_collaborate_with_local_elites_completed: "Wenn §Y$GEA_collaborate_with_local_elites$§! abgeschlossen ist:"
 
  GEA_capitulation_conditions: "§R[GER.GetNameDefCap] zieht Frieden nur dann in Betracht, wenn [GEA.GetName] keinen seiner Nicht-Enklaven-Kerne oder Ansprüche mit einer Bevölkerung von mehr als 200K mehr kontrolliert.§!"
 

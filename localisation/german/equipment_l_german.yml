@@ -489,10 +489,10 @@ ballistic_missile_equipment_3_desc: "Eine unbemannte ballistische Langstreckenra
 
 nuclear_missile: "Atomrakete"
 nuclear_missile_equipment: "Atomare ballistische Rakete"
-nuclear_missile_equipment_1: "Einfache atomare Mittelstreckenrakete"
+nuclear_missile_equipment_1: "Atomare Mittelstreckenrakete"
 nuclear_missile_equipment_1_short: "Atomrakete I"
 nuclear_missile_equipment_1_desc: "Eine ballistische Rakete mittlerer Reichweite, die einen atomaren Sprengkopf tragen kann"
-nuclear_missile_equipment_2: "Ballistische Interkontinentalrakete"
+nuclear_missile_equipment_2: " Interkontinentale Atomrakete"
 nuclear_missile_equipment_2_short: "ICBM"
 nuclear_missile_equipment_2_desc: "Eine ballistische Langstreckenrakete, die einen atomaren Sprengkopf tragen kann"
 thermonuclear_bombs: "Thermonukleare Bomben"

@@ -829,7 +829,6 @@ SER_has_black_monday_NOT: "Hat nicht Nationalgeist §H$SER_black_monday$§!"
  SER_has_scarred_nation: "Hat nationalen Geist §HEine gezeichnete Nation§!"
 
 SER_accepted_bulgaria_union: "Wir akzeptierten den bulgarischen Vorschlag zur jugoslawischen Union"
-SER_if_ENT_agrees: "Wenn §H[ENT.GetFlag] [ENT.GetNameDef]§! zustimmt:"
 
  SER_check_decision_tooltip: "Informieren Sie sich auf der Registerkarte §YEntscheidung§! über die Wahlmechanismen und die aktuelle Situation."
 

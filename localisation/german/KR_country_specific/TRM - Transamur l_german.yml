@@ -518,8 +518,6 @@ TRM_Secure_Karelia_desc: "Finnland und sein falscher König haben Russland lange
 ### Tooltips ###
 TRM_demand_warning: "§RWenn sie sich weigern, werden wir gezwungen sein, den Krieg zu erklären!§!"
 TRM_agitation_tooltip: "Die Ergebnisse unserer Bemühungen können unterschiedlich ausfallen, und es gibt keine Garantie für den Erfolg.\n"
-TRM_if_kolchak_chosen: "Wenn §H$TRM_All_Power_To_The_Admiral$§! gewählt wird:"
-TRM_if_military_chosen: "Wenn §H$TRM_New_Leadership$§! gewählt wird:"
 TRM_motorised_tooltip: "Zwei £nato_unit_motorized_icon_small  §HMotorisiert§! Divisionen werden eingesetzt."
 TRM_generals_join_us: "Mikhail Tornovsky und Nikolay Kazagrandi werden als Generäle für unsere Armee zur Verfügung stehen!"
 

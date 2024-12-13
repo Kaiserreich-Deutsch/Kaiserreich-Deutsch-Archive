@@ -273,8 +273,6 @@ ROM_eco_king: "Bewegung in Richtung §König Carols Wirtschaftspolitik§!.\n"
 ROM_eco_king_strong: "Starke Annäherung an §HKing Carol's economic policy§!.\n"
 ROM_eco_finish_explainer: "§CSie erhalten einen Nationalgeist, abhängig von Ihren bisherigen wirtschaftlichen Entscheidungen. Codreanus Reform wird Ihnen eine starke Arbeitskräftebasis und Stabilität gewähren, während Carols Vision auf Industrie und technologischen Fortschritt ausgerichtet ist.§!\n"
 
-ROM_tech_ski_infantry: "Gebirgstraining"
-
 ROM_find_markets: "Neue Märkte erschließen"
 ROM_trade_tooltip: "§GWir werden neue Märkte abseits der deutschen Dominanz suchen.§!\nDamit werden die Auswirkungen des Schwarzen Montags endgültig beseitigt."
 ROM_trade_decision: "Handelsgespräche mit [FROM.GetNameDef]"

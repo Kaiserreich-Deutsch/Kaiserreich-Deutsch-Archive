@@ -219,9 +219,6 @@ WIF_amalgamation_tt: "Ersetzt §YSoziale Programme§! und §YAgrarreform§! durc
 WIF_transfer_two_cruisers_six_destroyers: "Zwei §YLeichte Kreuzer§! und sechs §YZerstörer§! werden auf §C[WIF.GetNameWithFlag]§! übertragen."
 WIF_transfer_four_destroyers: "Vier §YZerstörer§! werden auf §C[WIF.GetNameWithFlag]§! übertragen."
 
-WIF_if_defend_empire_completed: "Wenn §Y$WIF_navy_defend_empire$§! abgeschlossen wurde:"
-WIF_if_defend_our_seas_completed: "Wenn §Y$WIF_navy_defend_our_seas$§! abgeschlossen wurde:"
-
 wifpol.3100_tt: "§GDem Empire treu ergebene Offiziere werden sich auf unsere Seite schlagen, bis die rechtmäßige Regierung in Westindien wiederhergestellt ist.§!"
 wifpol.3101_tt: "§GAlle Offiziere, die ursprünglich in Westindien eingesetzt waren, sind auf ihren früheren Posten zurückgekehrt.§!"
 

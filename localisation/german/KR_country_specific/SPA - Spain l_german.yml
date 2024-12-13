@@ -257,7 +257,6 @@
  SPA_army_of_africa_tt: "§CZu Beginn des Bürgerkriegs erhalten wir zwei Veteranendivisionen der Armee von Afrika in [169.GetName].§!"
  SPA_german_assistance_tt: "§CZu Beginn des Bürgerkriegs erhalten wir eine leichte Panzerdivision in [169.GetName].§!"
  SPA_german_assistance_nsb_tt: "§CZu Beginn des Bürgerkriegs erhalten wir eine leichte Panzerdivision mit deutschen leichten Panzer der Zwischenkriegszeit in [169.GetName].§!"
- SPA_asymmetrical_warfare_effect: "Aktiviert §H$SIC_asymmetrical_warfare$\nFuß-Infanterie\n    Stadt§!\n      Angriff: §G+10%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+5%§!"
  SPA_naval_idea_effect: "\n§CDieser Schwerpunkt sorgt für einen anderen Nationalgeist, je nachdem, ob §YGroße Marine§! oder §YKüstenverteidigung§! gewählt wurde.§!"
  SPA_air_idea_effect: "\n§CDieser Schwerpunkt bietet einen anderen Nationalgeist, je nachdem, ob §YLuftüberlegenheit§! oder §YLuftunterstützung der Armee§! gewählt wurde.§!"
  SPA_faction_effect: "\n§CDer außenpolitische nationale Schwerpunktbaum wird sich unterscheiden, je nachdem, ob sich Spanien für den Beitritt zur §YEntente§! oder zum §YReichspakt§! entscheidet.§!"

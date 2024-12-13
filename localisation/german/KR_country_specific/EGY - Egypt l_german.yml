@@ -30,9 +30,6 @@
  egy_cyrenaica_tt: "\nFinanzielle Mittel aus Ägypten werden genutzt, um die §Ykyrenaikanische§! Regentschaftskrise zu beeinflussen und die §CLoyalisten von Idris§! zu unterstützen. Die Auswirkungen dieser Finanzierung werden §Rnicht§! sofort deutlich."
  egy_memberstates_buff: "Jedes Mitglied der §YArabischen Liga§! erhält:\n\n"
 
- EGY_camel_corps_tech: "Königliches Kamelkorps"
- EGY_camel_corps_tech_effect: "Schaltet §H$EGY_camel_corps_tech$§! frei\n§HKamele\n    Wüste§!\n      Angriff: §G+15%§!\n      Verteidigung: §G+5%§!\n      Bewegung: §G+3%§!\n\n"
-
  EGY_liberal_reform_tt: "Dies ist eine §ILiberale Reform§!."
  EGY_conservative_reform_tt: "Dies ist eine §cKonservative Reform§!."
  EGY_absolutist_reform_tt: "Dies ist eine §PAbsolutistische Reform§!."
@@ -153,8 +150,8 @@
  EGY_modernization_program_desc: "Die industrielle Wirtschaft Ägyptens bedarf aufgrund ihrer extremen Schwäche unserer Aufmerksamkeit in Form eines Modernisierungsprogramms. Dieses bestünde aus Subventionen und staatlicher Unterstützung von Unternehmen, Maßnahmen, durch die wir Ägypten die Industrialisierung bringen und es endlich zu einer modernen Nation formen können."
  EGY_egyptian_oil: "Gemeinsame Erdölunternehmen"
  EGY_egyptian_oil_desc: "Ägypten ist reich an Öl - doch noch können wir es nicht fördern. Unternehmen aus dem Ausland sind erpicht darauf, Zugang zu unseren Ölvorkommen zu erlangen, und bereit, große Summen für diesen Zugang zu zahlen. Indem unser Staat mit diesen Unternehmen zusammenarbeitet, können wir uns die für die Förderung nötige Ausrüstung sparen und dennoch große Gewinne erwirtschaften."
- EGY_nile_dams: "Staudämme am Nil"
- EGY_nile_dams_desc: "Bereits 1903 wurde der Nil durch den britischen Ingenieur William Willcocks gestaut. Um die Elektrifizierung Ägyptens zu unterstützen, wurden weitere Staudämme entlang des Weißen Nils geplant, die Strom zur Verfügung stellen werden, der für tausende Häuser und Städte genügen sollte."
+ EGY_nile_dams: "Den Assuan-Staudamm nutzen"
+ EGY_nile_dams_desc: "Im Jahr 1903 wurde der Nil von dem britischen Ingenieur William Willcocks gestaut. Um die Elektrifizierung Ägyptens zu unterstützen, haben wir mehrere weitere Projekte entlang des Weißen Nils geplant, die Tausende von Häusern und Städten mit Strom versorgen werden."
  EGY_industrialization: "Industrialisierungsplan"
  EGY_industrialization_desc: "Die ägyptische Industrie benötigt große Investitionen, wenn sie florieren soll. Deshalb wurden mehrere Dekrete vorbereitet, die das Wachstum der Schwer- und Leichtindustrie ankurbeln sollten."
  EGY_textile_expansion: "Ausbau der Textilindustrie"

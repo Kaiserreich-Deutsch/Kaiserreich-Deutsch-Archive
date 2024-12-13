@@ -15,9 +15,6 @@ PRF_kashmir_forces: "Die fürstlichen Streitkräfte Kaschmirs werden dem Krieg b
 PRF_baroda_forces: "Die fürstlichen Streitkräfte von Baroda werden dem Krieg beitreten!\n"
 PRF_orissa_forces: "Rebellen in Orissa werden dem Krieg beitreten!\n"
 
-PRF_if_centralised_command: "Wenn §H$PRF_central_command$§! gewählt wird:"
-PRF_if_princely_command: "Wenn §H$PRF_princely_armies$§! gewählt wird:"
-
 ### Opinion Modifiers ###
 PRF_aggressive_stance: "Aggressive Haltung"
 

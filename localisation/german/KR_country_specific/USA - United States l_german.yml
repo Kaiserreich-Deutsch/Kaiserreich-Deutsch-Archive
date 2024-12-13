@@ -330,18 +330,16 @@ USA_macarthur_coup: "§YGeneral MacArthur§! hat die Kontrolle über die Regieru
 
 ### Techs ###
 USA_tech_marine_bonus: "USMC"
-PSA_tech_marine_bonus: "USMC"
-TEX_tech_marine_bonus: "USMC"
-USA_tech_marine_bonus_effect: "Ermöglicht §H$USA_tech_marine_bonus$\n$tech_marine_bonus_effect_tooltip$"
+ PSA_tech_marine_bonus: "$USA_tech_marine_bonus$"
+ TEX_tech_marine_bonus: "$USA_tech_marine_bonus$"
+ NEE_tech_marine_bonus: "$USA_tech_marine_bonus$"
 
 USA_tech_marine_bonus_2: "Improved USMC"
-PSA_tech_marine_bonus_2: "Improved USMC"
-TEX_tech_marine_bonus_2: "Improved USMC"
-USA_tech_marine_bonus_2_effect: "Ermöglicht §H$USA_tech_marine_bonus_2$\n$tech_marine_bonus_2_effect_tooltip$"
+ PSA_tech_marine_bonus_2: "$USA_tech_marine_bonus_2$"
+ TEX_tech_marine_bonus_2: "$USA_tech_marine_bonus_2$"
+ NEE_tech_marine_bonus_2: "$USA_tech_marine_bonus_2$"
 
 ### Tooltips ###
-USA_semper_fi_expand_marine_corps: "Wenn §HErweiterungen des Marine Korps§! gewählt wird:"
-USA_semper_fi_naval_training: "Wenn §HMarine Ausbildung§! gewählt wird:"
 USA_subject_of_foreign_power: "untersteht einer fremden Macht"
 USA_owns_american_cores: "besitzt derzeit beanspruchtes amerikanisches Land"
 USA_may_invite_to_league: "§CWir können jetzt die Liga Amerikanischer Staaten gründen, eine Organisation neutraler Staaten in Nord- und Südamerika, die von unserer Nation geschützt und geleitet wird.§!"

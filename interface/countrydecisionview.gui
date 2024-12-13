@@ -26,12 +26,12 @@ guiTypes = {
 		
 		instantTextboxType = {
 			name = "decisionview_title"
-			position = { x = 23 y = 8 } # Dt. Übersetzung, Default: x = 45
+			position = { x = 23 y = 8 } #KRD Default: x = 45
 			textureFile = ""
 			font = "hoi_36header"
 			borderSize = {x = 0 y = 0}
 			text = "DECISIONVIEW_TITLE"
-			maxWidth = 470 # Dt. Übersetzung, Default: maxWidth = 440
+			maxWidth = 470 #KRD Default: maxWidth = 440
 			maxHeight = 20
 			format = left	
 		}			
@@ -173,7 +173,7 @@ guiTypes = {
 
 		OverlappingElementsBoxType = {
 			name = "custom_icons"
-			position = { x = 0 y = 75 }
+			position = { x = 0 y = 110 } #KRD Default: y = 75
 			size = { x = 500 y = 32 }
 			format = center
 			spacing = 1.0

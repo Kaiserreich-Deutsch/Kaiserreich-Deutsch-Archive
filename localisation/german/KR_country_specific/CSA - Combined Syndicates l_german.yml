@@ -150,9 +150,8 @@ CSA_socialist_union_of_america_radical_socialist_DEF: "Die Union der Sozialistis
  CSA_to_the_bitter_end: "Bis zum bitteren Ende"
 
 ### Tooltips ###
- CSA_anti_fortification_artillery: "240mm Howitzer M1"
- CSA_anti_fortification_artillery_desc: "Die 240-mm-Haubitze M1 war ein Artilleriegeschütz, das in den Kombinierte Syndikate von Amerika entwickelt wurde, um während des Amerikanischen Bürgerkriegs vor allem in der Umgebung von Washington Befestigungsanlagen zu zerstören."
- CSA_anti_fortification_artillery_effect: "Aktiviert §H$CSA_anti_fortification_artillery$§!\n§HUnterstützungs Artillerie§!\n    Fort: Angriff: §G+20%§!\n§HArtillerie§!\n    Fort: Angriff: §G+20%§!\n§HMotorisierte Artillerie§!\n    Fort: Angriff: §G+20%§!\n"
+ CSA_tech_anti_fortification_artillery: "240mm Howitzer M1"
+ CSA_tech_anti_fortification_artillery_desc: "Die 240-mm-Haubitze M1 war ein Artilleriegeschütz, das in den Kombinierte Syndikate von Amerika entwickelt wurde, um während des Amerikanischen Bürgerkriegs vor allem in der Umgebung von Washington Befestigungsanlagen zu zerstören."
 
  CSA_has_smedley_butler: "Butler"
  CSA_carlson: "Carlson"
